@@ -1,0 +1,1 @@
+import{j as o}from"./vendor-motion-C-S6sOG7.js";import{ak as t}from"./index-S7FKDcGU-CcwJBnip.js";import"./vendor-react-HserkeQh.js";import"./index-W_TQsZEV.js";function r(r){const s=`https://app.cal.com${r.logo}`;return o.jsx(t,{...r,logo:s})}export{r as default};

@@ -1,1 +1,0 @@
-import{j as a}from"./vendor-motion-C-S6sOG7.js";import{m as t}from"./index-S7FKDcGU-CrgIpLGq.js";import"./vendor-react-HserkeQh.js";import"./index-xtWHeA43.js";const e=({getAppData:e,setAppData:r,disabled:s,slug:n})=>{const o=e("trackingId");return a.jsx(t,{dataTestid:n,name:"Tracking ID",value:o,disabled:s,onChange:a=>{r("trackingId",a.target.value)}})};export{e as default};
