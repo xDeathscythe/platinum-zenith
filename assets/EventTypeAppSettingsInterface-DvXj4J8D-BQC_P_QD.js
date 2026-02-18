@@ -1,0 +1,1 @@
+import{j as t}from"./vendor-motion-C-S6sOG7.js";import{m as a}from"./index-S7FKDcGU-Dx6s3QDu.js";import"./vendor-react-HserkeQh.js";import"./index-DPSA3Z9K.js";const e=({getAppData:e,setAppData:r,disabled:o})=>{const n=e("trackingId");return t.jsx(a,{name:"Pixel ID",value:n,disabled:o,onChange:t=>{r("trackingId",t.target.value)}})};export{e as default};
