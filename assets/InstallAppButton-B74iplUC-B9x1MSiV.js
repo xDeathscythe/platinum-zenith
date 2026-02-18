@@ -1,1 +1,0 @@
-import{j as n}from"./vendor-motion-C-S6sOG7.js";import{j as e}from"./index-S7FKDcGU-BFqPyMS1.js";import"./vendor-react-HserkeQh.js";import"./index-DXp2A_ku.js";function r(r){const o=e("exchange2016_calendar");return n.jsx(n.Fragment,{children:r.render({onClick(){o.mutate("")},loading:o.isPending})})}export{r as default};
