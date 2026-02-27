@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
-  base: '/platinum-zenith/',
+  // base: '/platinum-zenith/', // Only needed for GH Pages
   plugins: [react(), tailwindcss()],
   build: {
     // Code splitting
