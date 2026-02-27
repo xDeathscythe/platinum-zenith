@@ -27,6 +27,15 @@ const SaasPage = lazy(() => import('./pages/industries/SaasPage'))
 const LocalBusinessPage = lazy(() => import('./pages/industries/LocalBusinessPage'))
 const StartupsPage = lazy(() => import('./pages/industries/StartupsPage'))
 
+// Admin pages
+const LoginPage = lazy(() => import('./pages/admin/LoginPage'))
+const AdminLayout = lazy(() => import('./pages/admin/AdminLayout'))
+const AdminDashboard = lazy(() => import('./pages/admin/DashboardPage'))
+const AdminPrijave = lazy(() => import('./pages/admin/PrijavePage'))
+const AdminPoruke = lazy(() => import('./pages/admin/PorukePage'))
+const AdminNewsletter = lazy(() => import('./pages/admin/NewsletterPage'))
+const AdminEmailLog = lazy(() => import('./pages/admin/EmailLogPage'))
+
 function ScrollToTop() {
   const { pathname } = useLocation()
   useEffect(() => { window.scrollTo(0, 0) }, [pathname])
@@ -42,46 +51,62 @@ function PageLoader() {
   )
 }
 
-export default function App() {
+function PublicLayout() {
   const [sidebarOpen, setSidebarOpen] = useState(false)
+  return (
+    <div className="min-h-screen bg-page text-ink">
+      <Navbar sidebarOpen={sidebarOpen} setSidebarOpen={setSidebarOpen} />
+      <div className={`transition-all duration-500 ease-[cubic-bezier(0.25,0.1,0.25,1)] ${sidebarOpen ? 'md:ml-[260px]' : 'ml-0'}`}>
+        <Suspense fallback={<PageLoader />}>
+          <Routes>
+            <Route path="/" element={<HomePage />} />
+            <Route path="/web-design" element={<WebDesignPage />} />
+            <Route path="/digitalni-marketing" element={<MarketingPage />} />
+            <Route path="/consulting" element={<ConsultingPage />} />
+            <Route path="/cro" element={<CROPage />} />
+            <Route path="/drustvene-mreze" element={<SocialMediaPage />} />
+            <Route path="/faq" element={<FAQPage />} />
+            <Route path="/kontakt" element={<ContactPage />} />
+            <Route path="/o-nama" element={<AboutPage />} />
+            <Route path="/case-studies" element={<CaseStudiesPage />} />
+            <Route path="/uslovi-koriscenja" element={<TermsPage />} />
+            <Route path="/politika-privatnosti" element={<PrivacyPage />} />
+            <Route path="/blog" element={<BlogPage />} />
+            <Route path="/blog/:slug" element={<BlogPostPage />} />
+            <Route path="/industrije/e-commerce" element={<EcommercePage />} />
+            <Route path="/industrije/saas" element={<SaasPage />} />
+            <Route path="/industrije/lokalni-biznisi" element={<LocalBusinessPage />} />
+            <Route path="/industrije/startapovi" element={<StartupsPage />} />
+            <Route path="*" element={<NotFoundPage />} />
+          </Routes>
+        </Suspense>
+        <Footer />
+      </div>
+      <CalFloatingButton />
+    </div>
+  )
+}
 
+export default function App() {
   return (
     <BrowserRouter basename={import.meta.env.BASE_URL}>
       <ScrollToTop />
-      <div className="min-h-screen bg-page text-ink">
-        <Navbar sidebarOpen={sidebarOpen} setSidebarOpen={setSidebarOpen} />
+      <Suspense fallback={<PageLoader />}>
+        <Routes>
+          {/* Admin routes - no navbar/footer */}
+          <Route path="/log" element={<LoginPage />} />
+          <Route path="/log" element={<AdminLayout />}>
+            <Route path="dashboard" element={<AdminDashboard />} />
+            <Route path="prijave" element={<AdminPrijave />} />
+            <Route path="poruke" element={<AdminPoruke />} />
+            <Route path="newsletter" element={<AdminNewsletter />} />
+            <Route path="emails" element={<AdminEmailLog />} />
+          </Route>
 
-        <div
-          className={`transition-all duration-500 ease-[cubic-bezier(0.25,0.1,0.25,1)] ${sidebarOpen ? 'md:ml-[260px]' : 'ml-0'}`}
-        >
-          <Suspense fallback={<PageLoader />}>
-            <Routes>
-              <Route path="/" element={<HomePage />} />
-              <Route path="/web-design" element={<WebDesignPage />} />
-              <Route path="/digitalni-marketing" element={<MarketingPage />} />
-              <Route path="/consulting" element={<ConsultingPage />} />
-              <Route path="/cro" element={<CROPage />} />
-              <Route path="/drustvene-mreze" element={<SocialMediaPage />} />
-              <Route path="/faq" element={<FAQPage />} />
-              <Route path="/kontakt" element={<ContactPage />} />
-              <Route path="/o-nama" element={<AboutPage />} />
-              <Route path="/case-studies" element={<CaseStudiesPage />} />
-
-              <Route path="/uslovi-koriscenja" element={<TermsPage />} />
-              <Route path="/politika-privatnosti" element={<PrivacyPage />} />
-              <Route path="/blog" element={<BlogPage />} />
-              <Route path="/blog/:slug" element={<BlogPostPage />} />
-              <Route path="/industrije/e-commerce" element={<EcommercePage />} />
-              <Route path="/industrije/saas" element={<SaasPage />} />
-              <Route path="/industrije/lokalni-biznisi" element={<LocalBusinessPage />} />
-              <Route path="/industrije/startapovi" element={<StartupsPage />} />
-              <Route path="*" element={<NotFoundPage />} />
-            </Routes>
-          </Suspense>
-          <Footer />
-        </div>
-        <CalFloatingButton />
-      </div>
+          {/* Public routes */}
+          <Route path="/*" element={<PublicLayout />} />
+        </Routes>
+      </Suspense>
     </BrowserRouter>
   )
 }
