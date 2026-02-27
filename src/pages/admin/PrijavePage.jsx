@@ -50,7 +50,7 @@ export default function PrijavePage() {
                     <td className="px-5 py-3 text-[13px] text-white/70"><a href={`tel:${item.phone}`} className="hover:text-white">{item.phone}</a></td>
                     <td className="px-5 py-3 text-[13px] text-white/70">{item.company}</td>
                     <td className="px-5 py-3"><span className="text-[11px] bg-blue-500/10 text-blue-400 px-2 py-0.5 rounded-full">{item.program}</span></td>
-                    <td className="px-5 py-3 text-[12px] text-white/30">{new Date(item.date).toLocaleString('sr-RS')}</td>
+                    <td className="px-5 py-3 text-[12px] text-white/30">{new Date(item.created_at).toLocaleString('sr-RS')}</td>
                   </tr>
                 ))}
               </tbody>

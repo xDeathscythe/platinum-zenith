@@ -42,7 +42,7 @@ export default function PorukePage() {
                     <div className="text-[12px] text-white/40">{item.email}</div>
                   </div>
                 </div>
-                <div className="text-[11px] text-white/20">{new Date(item.date).toLocaleString('sr-RS')}</div>
+                <div className="text-[11px] text-white/20">{new Date(item.created_at).toLocaleString('sr-RS')}</div>
               </button>
               {expanded === i && (
                 <div className="px-5 pb-4 pt-0 border-t border-white/[0.04]">

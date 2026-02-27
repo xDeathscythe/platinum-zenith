@@ -68,7 +68,7 @@ export default function DashboardPage() {
                     item.type === 'newsletter' ? 'bg-green-500/10 text-green-400' :
                     'bg-amber-500/10 text-amber-400'
                   }`}>{item.type}</span>
-                  <div className="text-[11px] text-white/20 mt-1">{new Date(item.date).toLocaleDateString('sr-RS')}</div>
+                  <div className="text-[11px] text-white/20 mt-1">{new Date(item.created_at || item.date).toLocaleDateString('sr-RS')}</div>
                 </div>
               </div>
             ))}

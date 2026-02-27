@@ -60,7 +60,7 @@ export default function NewsletterPage() {
                   <tr key={i} className="hover:bg-white/[0.02] transition-colors">
                     <td className="px-5 py-3 text-[12px] text-white/20">{i + 1}</td>
                     <td className="px-5 py-3 text-[13px] text-white font-medium">{item.email}</td>
-                    <td className="px-5 py-3 text-[12px] text-white/30">{new Date(item.date).toLocaleString('sr-RS')}</td>
+                    <td className="px-5 py-3 text-[12px] text-white/30">{new Date(item.created_at).toLocaleString('sr-RS')}</td>
                   </tr>
                 ))}
               </tbody>
