@@ -252,7 +252,7 @@ export default function AboutPage() {
         </div>
       </section>
 
-      <BottomCTA />
+      {/* BottomCTA removed per Aco request */}
     </>
   )
 }
