@@ -135,11 +135,11 @@ export default function MarketingPage() {
 
         <div className="relative z-10 w-full max-w-full overflow-hidden">
           <h1 className="hero-enter hero-enter-d1 text-[32px] md:text-[62px] font-medium leading-[1.1] md:leading-[62px] tracking-[-1px] md:tracking-[-1.86px] text-black mb-4">
-            Marketing koji se meri<br className="hidden md:inline" /> na vašem računu,<br className="hidden md:inline" /> ne na prezentaciji
+            Marketing platforma za<br className="hidden md:inline" /> rapidan rast vašeg<br className="hidden md:inline" /> biznisa
           </h1>
 
           <p className="hero-enter hero-enter-d2 text-[14px] md:text-[15px] font-normal leading-[22px] md:leading-[26px] tracking-[-0.15px] text-black text-center mb-6 md:mb-8 max-w-[620px] mx-auto px-6 md:px-2">
-            Upravljamo kampanjama na Meta, Google i TikTok platformama sa jednim ciljem: da svaki uloženi evro donese merljiv povrat.
+            Kroz alate digitalnog marketinga, brending i konsalting pomažemo preduzećima da ostvare brz rast. Zenith sistem čini vođenje biznisa lakšim, sigurnijim, predvidljivijim i manje stresnim.
           </p>
 
           <div className="hero-enter hero-enter-d3 flex items-center justify-center gap-2 flex-wrap px-2">
@@ -282,17 +282,38 @@ export default function MarketingPage() {
         </div>
       </section>
 
-      {/* ─── Results ─── */}
+      {/* ─── Social Proof Gallery ─── */}
       <section className="py-20 px-4 md:px-8">
-        <div className="max-w-[740px] mx-auto">
-          <Reveal className="mb-10">
-            <span className="text-[12px] uppercase tracking-[0.18em] text-ink-2 block mb-3">Rezultati</span>
+        <div className="max-w-[1164px] mx-auto">
+          <Reveal className="text-center mb-12">
+            <span className="text-[12px] uppercase tracking-[0.18em] text-ink-2 block mb-3">Iz prakse</span>
             <h2 className="text-[30px] md:text-[42px] font-medium text-ink tracking-[-1px] leading-[1.15]">
               Pravi brojevi, pravi klijenti
             </h2>
           </Reveal>
 
-          <div className="space-y-8">
+          {/* Image grid */}
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-3 mb-14">
+            {[
+              'medifizio-01.webp', 'focus-01.webp', 'pz-01.webp', 'medifizio-03.webp',
+              'focus-03.webp', 'pz-05.webp', 'medifizio-06.webp', 'focus-04.webp',
+              'pz-09.webp', 'medifizio-07.webp', 'case-focus-fizikal.webp', 'pz-13.webp',
+            ].map((img, i) => (
+              <Reveal key={img} delay={i * 30}>
+                <div className="rounded-[11px] overflow-hidden border border-edge-2">
+                  <img
+                    src={`${import.meta.env.BASE_URL}${img}`}
+                    alt=""
+                    className="w-full aspect-[4/5] object-cover"
+                    loading="lazy"
+                  />
+                </div>
+              </Reveal>
+            ))}
+          </div>
+
+          {/* Results text */}
+          <div className="max-w-[740px] mx-auto space-y-8">
             {[
               { client: 'Grubin Showroom', result: 'Sa 20,4M na 64,4M RSD godišnjeg prometa. Cena po kupovini pala za 61%. Konverzija porasla 2,12 puta.', link: '/case-studies' },
               { client: 'Ordinacija Medifizio', result: 'Sa 400.000 na 2,4M RSD mesečnog prometa za 8 meseci. Direct response marketing i lokalno pozicioniranje na prvo mesto.', link: '/case-studies' },
