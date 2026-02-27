@@ -85,12 +85,11 @@ export default function ContactPage() {
             Pišite nam na WhatsApp
           </a>
         </div>
-        <p className="hero-enter hero-enter-d3 text-[13px] md:text-[14px] text-black/60">
-          Odaberite termin koji vam odgovara. Informativni razgovor traje 15 minuta i potpuno je besplatan.
-        </p>
-
         {/* Calendar window — same layout as homepage AppPreview */}
         <div className="hero-enter hero-enter-d4 mt-16 md:mt-32">
+          <p className="text-[13px] md:text-[14px] text-ink-2 text-center mb-4">
+            Odaberite termin koji vam odgovara. Informativni razgovor traje 15 minuta i potpuno je besplatan.
+          </p>
           <motion.div
             initial={{ opacity: 0, y: 30 }}
             animate={{ opacity: 1, y: 0 }}
