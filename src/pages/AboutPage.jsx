@@ -73,13 +73,13 @@ export default function AboutPage() {
           <div className="space-y-6">
             <Reveal delay={40}>
               <p className="text-[16px] md:text-[18px] text-ink leading-[28px] md:leading-[32px]">
-                Platinum Zenith nije nastao kao agencija. Nastao je kao interni marketing tim jedne firme za premium tartufe. Tim čiji je jedini posao bio da toj firmi donese kupce i poveća prodaju.
+                Platinum Zenith nije nastao kao agencija. Nastao je kao interni marketing tim firme Platinum Truffles DOO iz Zrenjanina. Aleksandar, CEO firme, trebao je tim čiji je jedini posao bio da donese kupce i poveća prodaju.
               </p>
             </Reveal>
 
             <Reveal delay={80}>
               <p className="text-[16px] md:text-[18px] text-ink-2 leading-[28px] md:leading-[32px]">
-                Tartufi su sezonski posao. Šest meseci u godini je sezona, šest meseci nije. Tokom vansezonskog perioda, tim je imao kapacitet koji nije bio iskorišćen. Kad su se pojavili prvi B2B klijenti koji su tražili pomoć sa marketingom, bio je prirodan korak da im se pomogne.
+                Tartufi su sezonski posao. Šest meseci u godini je sezona, šest meseci nije. Tokom vansezonskog perioda, tim koji je Aleksandar okupio imao je kapacitet koji nije bio iskorišćen. Kad su se pojavili prvi B2B klijenti koji su tražili pomoć sa marketingom, bio je prirodan korak da im se pomogne.
               </p>
             </Reveal>
 
