@@ -1,3 +1,4 @@
+import { useState } from 'react'
 import { Link } from 'react-router-dom'
 
 const routeMap = {
@@ -26,13 +27,63 @@ const columns = [
   ],
   [
     { title: 'Kompanija', links: ['O nama', 'Case Studies', 'Blog'] },
-    { title: 'Resursi', links: ['Marketing Vodič', 'FAQ', 'Newsletter'] },
+    { title: 'Resursi', links: ['Marketing Vodič', 'FAQ'] },
   ],
   [
     { title: 'Kontakt', links: ['aleksandar@platinumzenith.com', '+381 66 816 8929', 'Ruže Šulman 19, Zrenjanin'] },
     { title: 'Legal', links: ['Uslovi korišćenja', 'Politika privatnosti'] },
   ],
 ]
+
+function NewsletterInput() {
+  const [email, setEmail] = useState('')
+  const [status, setStatus] = useState(null)
+
+  const handleSubmit = async (e) => {
+    e.preventDefault()
+    if (!email) return
+    setStatus('sending')
+    try {
+      const res = await fetch('/api/kontakt', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ name: 'Newsletter signup', email, message: 'Newsletter prijava sa footer-a' }),
+      })
+      if (!res.ok) throw new Error()
+      setStatus('ok')
+      setEmail('')
+      setTimeout(() => setStatus(null), 3000)
+    } catch {
+      setStatus('error')
+      setTimeout(() => setStatus(null), 3000)
+    }
+  }
+
+  return (
+    <div>
+      <p className="text-[12px] md:text-[14px] font-medium text-ink-4 mb-3 md:mb-4">Newsletter</p>
+      <form onSubmit={handleSubmit} className="flex gap-2">
+        <input
+          type="email"
+          value={email}
+          onChange={(e) => setEmail(e.target.value)}
+          placeholder="Vaš email"
+          required
+          className="flex-1 min-w-0 h-9 px-3 text-[13px] bg-tint border border-edge-2 rounded-lg text-ink placeholder:text-ink-2 focus:outline-none focus:border-edge-3 transition-colors"
+        />
+        <button
+          type="submit"
+          disabled={status === 'sending'}
+          className="h-9 px-4 text-[12px] font-medium bg-inv-bg text-inv-fg rounded-lg hover:bg-inv-bg-hover transition-colors cursor-pointer disabled:opacity-50 flex-shrink-0"
+        >
+          {status === 'sending' ? '...' : '→'}
+        </button>
+      </form>
+      {status === 'ok' && <p className="text-[11px] text-emerald-500 mt-1.5">Prijavljeni ste!</p>}
+      {status === 'error' && <p className="text-[11px] text-red-400 mt-1.5">Greška. Pokušajte ponovo.</p>}
+    </div>
+  )
+}
 
 export default function Footer() {
   return (
@@ -62,6 +113,11 @@ export default function Footer() {
             ))}
           </div>
         ))}
+
+        {/* Newsletter input below columns on mobile, inline on desktop */}
+        <div className="col-span-2 md:col-span-3 md:max-w-[320px]">
+          <NewsletterInput />
+        </div>
       </div>
       <div className="flex flex-col md:flex-row items-center justify-between px-5 md:px-[70px] py-5 md:py-6 border-t border-edge max-w-[1440px] mx-auto gap-2">
         <Link to="/" className="text-[16px] md:text-[18px] font-bold text-ink tracking-tight hover:opacity-80">PLATINUM ZENITH</Link>
