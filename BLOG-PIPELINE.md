@@ -58,7 +58,7 @@ Svi videi iz originalne Sabri/Hormozi liste su prepakovani u blogove.
 - 🟢 Kako napisati ponudu koja zatvara posao za 24 sata
 - 🟢 Facebook vs Instagram oglasi: gde je vaša publika
 - 🟢 Koliko zapravo košta loš marketing (skriveni troškovi)
-- ⚪ Kako napraviti landing stranicu koja konvertuje 20%+
+- 🟢 Kako napraviti landing stranicu koja konvertuje 20%+
 
 ## Pravila za pisanje blog postova
 1. NIKAD ne pominati autora (Sabri, Alex, Leila)

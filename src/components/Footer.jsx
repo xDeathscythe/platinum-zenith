@@ -29,7 +29,7 @@ const columns = [
     { title: 'Resursi', links: ['Marketing Vodič', 'FAQ', 'Newsletter'] },
   ],
   [
-    { title: 'Kontakt', links: ['aleksandar@platinumzenith.com', '+381 69 123 4567', 'Ruže Šulman 19, Zrenjanin'] },
+    { title: 'Kontakt', links: ['aleksandar@platinumzenith.com', '+381 66 816 8929', 'Ruže Šulman 19, Zrenjanin'] },
     { title: 'Legal', links: ['Uslovi korišćenja', 'Politika privatnosti'] },
   ],
 ]
