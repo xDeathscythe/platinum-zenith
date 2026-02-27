@@ -4,6 +4,25 @@ import { motion, AnimatePresence } from 'framer-motion'
 const B = import.meta.env.BASE_URL
 
 const brands = {
+  truffles: {
+    name: 'Platinum Truffles',
+    ads: [
+      { text: 'Premium crni tartufi iz Srbije. Direktna isporuka za restorane', views: '18K', viewsChange: '+55%', revenue: '€12K', revenueChange: '+180%', color: 'from-amber-600 to-yellow-700' },
+      { text: 'Svež tartuf za vaš restoran. Naručite danas, sutra na stolu', views: '24K', viewsChange: '+68%', revenue: '€18K', revenueChange: '+220%', color: 'from-yellow-500 to-amber-600' },
+      { text: 'Letnji crni tartuf - sezona je počela. Posebne cene za veće količine', views: '31K', viewsChange: '+82%', revenue: '€22K', revenueChange: '+295%', color: 'from-amber-500 to-orange-600' },
+      { text: 'Tartuf ulje, tartuf paste, sveži tartufi. Sve na jednom mestu', views: '15K', viewsChange: '+41%', revenue: '€9K', revenueChange: '+145%', color: 'from-yellow-600 to-amber-700' },
+      { text: 'Zašto chef-ovi biraju Platinum Truffles? Svežina, kvalitet, brzina', views: '27K', viewsChange: '+72%', revenue: '€15K', revenueChange: '+210%', color: 'from-orange-500 to-amber-600' },
+      { text: 'Restoran? Hotel? Catering? Nudimo B2B saradnju sa redovnom isporukom', views: '21K', viewsChange: '+59%', revenue: '€11K', revenueChange: '+175%', color: 'from-amber-400 to-yellow-500' },
+      { text: 'Probajte razliku. Premium tartufi direktno iz šuma Fruške Gore', views: '33K', viewsChange: '+85%', revenue: '€24K', revenueChange: '+310%', color: 'from-yellow-400 to-amber-500' },
+      { text: 'Crni tartuf. Beli tartuf. Sveži. Sušeni. Ceo asortiman na jednom mestu', views: '19K', viewsChange: '+48%', revenue: '€10K', revenueChange: '+155%', color: 'from-amber-700 to-yellow-600' },
+      { text: 'Isporuka u roku od 24h za celu Srbiju i EU', views: '29K', viewsChange: '+76%', revenue: '€20K', revenueChange: '+260%', color: 'from-orange-400 to-amber-500' },
+      { text: 'Sezona belog tartufa je tu. Limitirane količine, naručite na vreme', views: '36K', viewsChange: '+91%', revenue: '€28K', revenueChange: '+340%', color: 'from-yellow-300 to-amber-400' },
+      { text: 'Premium kvalitet po fer ceni. Direktno od lovca do vašeg stola', views: '22K', viewsChange: '+62%', revenue: '€14K', revenueChange: '+195%', color: 'from-amber-500 to-yellow-600' },
+      { text: 'Poklon paketi sa tartufima. Idealan poslovni poklon', views: '14K', viewsChange: '+37%', revenue: '€7K', revenueChange: '+120%', color: 'from-yellow-500 to-orange-400' },
+      { text: 'Tartuf butter za profesionalne kuhinje. 100% prirodno', views: '25K', viewsChange: '+65%', revenue: '€16K', revenueChange: '+230%', color: 'from-amber-600 to-orange-500' },
+      { text: 'Novo u ponudi: tartuf med. Spoj koji će oduševiti vaše goste', views: '17K', viewsChange: '+44%', revenue: '€8K', revenueChange: '+140%', color: 'from-yellow-600 to-amber-500' },
+    ],
+  },
   medifizio: {
     name: 'Medifizio',
     ads: [
@@ -61,23 +80,23 @@ const brands = {
       { text: '3x more conversions with personalized AI responses', views: '31K', viewsChange: '+68%', revenue: '$35K', revenueChange: '+175%', color: 'from-amber-500 to-orange-600' },
     ],
   },
-  platinum: {
-    name: 'Platinum Zenit',
+  grubin: {
+    name: 'Grubin Showroom',
     ads: [
-      { text: 'Scale your brand with data-driven campaigns that convert', views: '34K', viewsChange: '+82%', revenue: '$45K', revenueChange: '+210%', color: 'from-amber-400 to-orange-500' },
-      { text: 'From zero to hero. We built 3 brands in 90 days', views: '21K', viewsChange: '+55%', revenue: '$38K', revenueChange: '+165%', color: 'from-yellow-400 to-amber-600' },
-      { text: 'Stop guessing. Start growing. AI-powered marketing', views: '18K', viewsChange: '+41%', revenue: '$29K', revenueChange: '+130%', color: 'from-orange-500 to-red-500' },
-      { text: 'Your competition is already using AI ads. Are you?', views: '25K', viewsChange: '+67%', revenue: '$42K', revenueChange: '+185%', color: 'from-red-400 to-rose-600' },
-      { text: 'Case study: 400% ROAS in 30 days', views: '31K', viewsChange: '+73%', revenue: '$51K', revenueChange: '+220%', color: 'from-amber-500 to-yellow-400' },
-      { text: 'Premium creatives that stop the scroll', views: '16K', viewsChange: '+38%', revenue: '$23K', revenueChange: '+95%', color: 'from-rose-500 to-pink-600' },
-      { text: 'Full-funnel strategy. Real results. No fluff.', views: '19K', viewsChange: '+44%', revenue: '$33K', revenueChange: '+155%', color: 'from-orange-400 to-amber-500' },
-      { text: 'We turned $5K ad spend into $52K revenue', views: '27K', viewsChange: '+59%', revenue: '$52K', revenueChange: '+940%', color: 'from-yellow-500 to-orange-600' },
-      { text: 'Creative testing at scale. 50 variants per week.', views: '12K', viewsChange: '+29%', revenue: '$18K', revenueChange: '+110%', color: 'from-amber-300 to-orange-400' },
-      { text: 'Your brand deserves a Platinum strategy', views: '15K', viewsChange: '+36%', revenue: '$26K', revenueChange: '+125%', color: 'from-yellow-400 to-amber-500' },
-      { text: 'Performance marketing that pays for itself', views: '22K', viewsChange: '+51%', revenue: '$39K', revenueChange: '+180%', color: 'from-orange-400 to-red-400' },
-      { text: 'Meta + Google + TikTok = Full coverage', views: '29K', viewsChange: '+64%', revenue: '$47K', revenueChange: '+200%', color: 'from-rose-400 to-orange-500' },
-      { text: 'Retargeting done right. 22% conversion rate.', views: '20K', viewsChange: '+47%', revenue: '$34K', revenueChange: '+160%', color: 'from-amber-400 to-yellow-500' },
-      { text: 'We manage 500K+ in ad spend. Monthly.', views: '33K', viewsChange: '+76%', revenue: '$56K', revenueChange: '+245%', color: 'from-yellow-300 to-amber-400' },
+      { text: 'Anatomske papuče za zdravlje vaših stopala. Besplatna dostava', views: '28K', viewsChange: '+65%', revenue: '€4.2K', revenueChange: '+180%', color: 'from-emerald-500 to-teal-600' },
+      { text: 'Grubin anatomska obuća. Provereno rešenje za bol u stopalima', views: '35K', viewsChange: '+78%', revenue: '€5.8K', revenueChange: '+220%', color: 'from-teal-400 to-emerald-500' },
+      { text: 'Zimska kolekcija anatomskih čizama. Toplina i udobnost u svakom koraku', views: '22K', viewsChange: '+52%', revenue: '€3.6K', revenueChange: '+155%', color: 'from-emerald-600 to-green-700' },
+      { text: 'Popust 30% na sve modele! Samo ovog vikenda. Poručite online', views: '41K', viewsChange: '+92%', revenue: '€7.1K', revenueChange: '+310%', color: 'from-green-400 to-emerald-500' },
+      { text: 'Ortopedske papuče za decu. Pravilno formiranje stopala od malih nogu', views: '19K', viewsChange: '+45%', revenue: '€3.1K', revenueChange: '+140%', color: 'from-teal-500 to-cyan-600' },
+      { text: 'Muške anatomske cipele za svaki dan. Udobnost bez kompromisa', views: '26K', viewsChange: '+59%', revenue: '€4.5K', revenueChange: '+195%', color: 'from-emerald-400 to-teal-500' },
+      { text: 'Nova kolekcija! Letnje sandale sa anatomskim uloškom', views: '33K', viewsChange: '+75%', revenue: '€5.4K', revenueChange: '+245%', color: 'from-cyan-400 to-teal-500' },
+      { text: 'Preko 11.000 zadovoljnih kupaca. Poručite i vi sa besplatnom dostavom', views: '38K', viewsChange: '+85%', revenue: '€6.3K', revenueChange: '+270%', color: 'from-green-500 to-emerald-600' },
+      { text: 'Anatomske klompe za profesionalce. Idealne za duge smene', views: '16K', viewsChange: '+39%', revenue: '€2.8K', revenueChange: '+125%', color: 'from-teal-600 to-emerald-700' },
+      { text: 'Zdravlje počinje od stopala. Grubin zna to već 60 godina', views: '29K', viewsChange: '+68%', revenue: '€4.9K', revenueChange: '+210%', color: 'from-emerald-500 to-green-600' },
+      { text: 'Akcija 2+1 gratis na sve papuče! Iskoristite dok traje', views: '44K', viewsChange: '+96%', revenue: '€8.2K', revenueChange: '+340%', color: 'from-green-400 to-teal-500' },
+      { text: 'Ženske anatomske sandale. Elegancija i udobnost u jednom', views: '24K', viewsChange: '+55%', revenue: '€3.9K', revenueChange: '+170%', color: 'from-teal-400 to-green-500' },
+      { text: 'Kožne anatomske cipele. Premium kvalitet po pristupačnoj ceni', views: '21K', viewsChange: '+48%', revenue: '€3.5K', revenueChange: '+150%', color: 'from-emerald-600 to-teal-600' },
+      { text: 'Besplatna dostava i zamena. Poručite bez rizika', views: '31K', viewsChange: '+72%', revenue: '€5.1K', revenueChange: '+230%', color: 'from-green-500 to-cyan-500' },
     ],
   },
 }
@@ -259,7 +278,9 @@ function VShapeCards({ ads, brandName }) {
 
 /* ─── Main Component ── */
 export default function AppPreview() {
-  const [active, setActive] = useState('medifizio')
+  /* Display order for brand tabs */
+  const brandOrder = ['truffles', 'medifizio', 'niwa', 'focus', 'grubin']
+  const [active, setActive] = useState('truffles')
   const brand = brands[active]
 
   return (
@@ -270,7 +291,7 @@ export default function AppPreview() {
           className="flex gap-6 md:gap-8 overflow-x-auto px-6 pb-0.5 -mx-4 md:mx-0 md:justify-center"
           style={{ scrollbarWidth: 'none', msOverflowStyle: 'none', WebkitOverflowScrolling: 'touch' }}
         >
-          {Object.entries(brands).map(([key, b]) => (
+          {brandOrder.map(key => [key, brands[key]]).map(([key, b]) => (
             <button
               type="button"
               key={key}
