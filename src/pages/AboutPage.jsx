@@ -48,7 +48,7 @@ export default function AboutPage() {
         <div className="relative z-10 w-full max-w-[800px] mx-auto">
           <span className="hero-enter hero-enter-d1 inline-block text-[12px] uppercase tracking-[0.2em] text-black/60 mb-5">O nama</span>
           <h1 className="hero-enter hero-enter-d1 text-[32px] md:text-[62px] font-medium leading-[1.1] md:leading-[62px] tracking-[-1px] md:tracking-[-1.86px] text-black mb-4">
-            Vaša agencija zarađuje<br className="hidden md:inline" /> samo kad vi zarađujete
+            Od internog tima do<br className="hidden md:inline" /> najjače agencije na Balkanu
           </h1>
           <p className="hero-enter hero-enter-d2 text-[14px] md:text-[15px] font-normal leading-[22px] md:leading-[26px] tracking-[-0.15px] text-black text-center mb-6 md:mb-8 max-w-[620px] mx-auto px-6 md:px-2">
             Revenue share model znači da naši interesi idu u istom smeru kao vaši.
