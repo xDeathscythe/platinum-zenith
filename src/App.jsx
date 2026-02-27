@@ -52,8 +52,7 @@ export default function App() {
         <Navbar sidebarOpen={sidebarOpen} setSidebarOpen={setSidebarOpen} />
 
         <div
-          className="transition-all duration-500 ease-[cubic-bezier(0.25,0.1,0.25,1)]"
-          style={{ marginLeft: sidebarOpen ? '260px' : '0px' }}
+          className={`transition-all duration-500 ease-[cubic-bezier(0.25,0.1,0.25,1)] ${sidebarOpen ? 'md:ml-[260px]' : 'ml-0'}`}
         >
           <Suspense fallback={<PageLoader />}>
             <Routes>

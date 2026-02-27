@@ -55,6 +55,12 @@ export default function Navbar({ sidebarOpen, setSidebarOpen }) {
         </div>
       </header>
 
+      {/* Mobile overlay backdrop */}
+      <div
+        className={`fixed inset-0 z-[85] bg-black/40 backdrop-blur-sm md:hidden transition-opacity duration-300 ${sidebarOpen ? 'opacity-100 pointer-events-auto' : 'opacity-0 pointer-events-none'}`}
+        onClick={() => setSidebarOpen(false)}
+      />
+
       <div className={`fixed top-0 left-0 z-[90] w-[260px] h-screen bg-page border-r border-edge-2 flex flex-col transition-transform duration-500 ease-[cubic-bezier(0.25,0.1,0.25,1)] ${sidebarOpen ? 'translate-x-0' : '-translate-x-full'}`}>
         <div className="h-[90px] flex-shrink-0" />
         <nav className="flex-1 p-4 space-y-0.5 overflow-y-auto">
