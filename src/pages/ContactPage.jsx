@@ -6,7 +6,7 @@ const heroHomeDark = `${import.meta.env.BASE_URL}hero-home-dark.webp`
 const heroHomeLight = `${import.meta.env.BASE_URL}hero-home-light.webp`
 
 const CAL_LINK = 'platinumzenith/info'
-const FORM_ENDPOINT = 'https://formsubmit.co/ajax/aleksandar@platinumzenith.com'
+const FORM_ENDPOINT = '/api/kontakt'
 
 function CalInlineEmbed() {
   return (
@@ -38,8 +38,6 @@ export default function ContactPage() {
           email: formData.email,
           company: formData.company,
           message: formData.message,
-          _subject: `Nova poruka sa sajta: ${formData.name}${formData.company ? ` (${formData.company})` : ''}`,
-          _template: 'table',
         }),
       })
 

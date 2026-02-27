@@ -17,25 +17,23 @@ function SignupModal({ program, onClose }) {
     const d = Object.fromEntries(fd)
 
     try {
-      await fetch('https://formsubmit.co/ajax/alnen96@gmail.com', {
+      const resp = await fetch('/api/prijava', {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+        headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
-          _subject: `Nova prijava: ${program}`,
-          _cc: 'aleksandar@platinumzenith.com',
-          _template: 'table',
-          Program: program,
-          'Ime i prezime': d.name,
-          Telefon: d.phone,
-          Email: d.email,
-          Firma: d.company,
+          program,
+          name: d.name,
+          phone: d.phone,
+          email: d.email,
+          company: d.company,
         })
       })
+      if (!resp.ok) throw new Error('API error')
       setSent(true)
       setSending(false)
       setTimeout(() => onClose(), 2500)
     } catch {
-      // Fallback to WhatsApp if Formsubmit fails
+      // Fallback to WhatsApp if API fails
       const msg = `Prijava za: ${program}\nIme: ${d.name}\nTelefon: ${d.phone}\nEmail: ${d.email}\nFirma: ${d.company}`
       window.open(`https://wa.me/381605667795?text=${encodeURIComponent(msg)}`, '_blank')
       setSent(true)
