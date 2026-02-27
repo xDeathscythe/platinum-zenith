@@ -21,7 +21,7 @@ function CalInlineEmbed() {
 }
 
 export default function ContactPage() {
-  const [status, setStatus] = useState('idle') // idle | sending | sent | error
+  const [status, setStatus] = useState('idle')
   const [formData, setFormData] = useState({ name: '', email: '', company: '', message: '' })
 
   const handleSubmit = async (e) => {
@@ -57,7 +57,8 @@ export default function ContactPage() {
 
   return (
     <>
-    <section className="relative min-h-[85vh] flex flex-col items-center text-center pt-[160px] md:pt-[220px] pb-[60px] px-4 md:px-8 overflow-hidden">
+    {/* ─── One big hero with aurora + calendar window ─── */}
+    <section className="relative flex flex-col items-center text-center pt-[160px] md:pt-[220px] pb-[80px] md:pb-[120px] px-4 md:px-8 overflow-hidden">
       <div className="absolute inset-0 z-0">
         <div className="absolute inset-0 only-dark" style={{ backgroundImage: `url(${heroHomeDark})`, backgroundSize: 'cover', backgroundPosition: 'center top', backgroundColor: '#000000' }} />
         <div className="absolute inset-0 only-light" style={{ backgroundImage: `url(${heroHomeLight})`, backgroundSize: 'cover', backgroundPosition: 'center top', backgroundColor: '#ffffff' }} />
@@ -65,28 +66,35 @@ export default function ContactPage() {
         <div className="absolute inset-0 z-[2] only-dark" style={{ background: 'linear-gradient(to bottom, rgba(0,0,0,0) 46%, rgba(0,0,0,0.26) 62%, rgba(0,0,0,0.60) 76%, rgba(0,0,0,0.88) 90%, #000000 100%)' }} />
         <div className="absolute inset-0 z-[2] only-light" style={{ background: 'linear-gradient(to bottom, rgba(255,255,255,0) 46%, rgba(255,255,255,0.30) 62%, rgba(255,255,255,0.64) 76%, rgba(255,255,255,0.90) 90%, #ffffff 100%)' }} />
       </div>
+
       <div className="relative z-10 w-full max-w-[800px] mx-auto">
         <h1 className="hero-enter hero-enter-d1 text-[32px] md:text-[62px] font-medium leading-[1.1] md:leading-[62px] tracking-[-1px] md:tracking-[-1.86px] text-black mb-4">
           Hajde da razgovaramo
         </h1>
-        <p className="hero-enter hero-enter-d2 text-[14px] md:text-[15px] font-normal leading-[22px] md:leading-[26px] tracking-[-0.15px] text-black text-center max-w-[580px] mx-auto px-6 md:px-2">
+        <p className="hero-enter hero-enter-d2 text-[14px] md:text-[15px] font-normal leading-[22px] md:leading-[26px] tracking-[-0.15px] text-black text-center max-w-[580px] mx-auto px-6 md:px-2 mb-4">
           Zakažite besplatan poziv ili nam pošaljite poruku. Odgovaramo u roku od 24 sata.
         </p>
+        <p className="hero-enter hero-enter-d3 text-[13px] md:text-[14px] text-black/60 mb-10 md:mb-14">
+          Odaberite termin koji vam odgovara. Informativni razgovor traje 15 minuta i potpuno je besplatan.
+        </p>
       </div>
+
+      {/* Calendar window — same style as homepage AppPreview container */}
+      <motion.div
+        initial={{ opacity: 0, y: 30 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ delay: 0.2, duration: 0.6, ease: [0.4, 0, 0.2, 1] }}
+        className="relative z-10 w-full max-w-[900px] mx-auto"
+      >
+        <div className="theme-dark bg-panel rounded-[16px] border border-edge-2 overflow-hidden">
+          <CalInlineEmbed />
+        </div>
+      </motion.div>
     </section>
 
-    <section className="pb-16 md:pb-20 px-4 md:px-8">
+    {/* ─── Contact form + info ─── */}
+    <section className="py-16 md:py-20 px-4 md:px-8">
       <div className="max-w-[1100px] mx-auto">
-        <div className="text-center mb-16">
-          <p className="text-[17px] text-ink-2 leading-[28px] max-w-[540px] mx-auto">
-            Odaberite termin koji vam odgovara. Informativni razgovor traje 15 minuta i potpuno je besplatan.
-          </p>
-        </div>
-
-        <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.15 }} className="mb-20">
-          <CalInlineEmbed />
-        </motion.div>
-
         <div className="flex items-center gap-4 mb-16">
           <div className="flex-1 h-px bg-edge-2" />
           <span className="text-[13px] text-ink-4 uppercase tracking-widest">ili pošaljite poruku</span>
