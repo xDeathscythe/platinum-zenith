@@ -8,23 +8,50 @@ import BottomCTA from '../components/BottomCTA'
 function SignupModal({ program, onClose }) {
   const [sent, setSent] = useState(false)
 
-  const handleSubmit = useCallback((e) => {
+  const [sending, setSending] = useState(false)
+
+  const handleSubmit = useCallback(async (e) => {
     e.preventDefault()
+    setSending(true)
     const fd = new FormData(e.target)
     const d = Object.fromEntries(fd)
-    const msg = `Prijava za: ${program}\nIme: ${d.name}\nTelefon: ${d.phone}\nEmail: ${d.email}\nFirma: ${d.company}`
 
-    // Mobile → WhatsApp, Desktop → email
     const isMobile = /Android|iPhone|iPad|iPod/i.test(navigator.userAgent)
+
     if (isMobile) {
+      const msg = `Prijava za: ${program}\nIme: ${d.name}\nTelefon: ${d.phone}\nEmail: ${d.email}\nFirma: ${d.company}`
       window.open(`https://wa.me/381605667795?text=${encodeURIComponent(msg)}`, '_blank')
+      setSent(true)
+      setSending(false)
+      setTimeout(() => onClose(), 2000)
     } else {
-      const subject = encodeURIComponent(`Prijava: ${program}`)
-      const body = encodeURIComponent(msg)
-      window.open(`mailto:alnen96@gmail.com,aleksandar@platinumzenith.com?subject=${subject}&body=${body}`, '_blank')
+      try {
+        await fetch('https://formsubmit.co/ajax/alnen96@gmail.com', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+          body: JSON.stringify({
+            _subject: `Nova prijava: ${program}`,
+            _cc: 'aleksandar@platinumzenith.com',
+            _template: 'table',
+            Program: program,
+            'Ime i prezime': d.name,
+            Telefon: d.phone,
+            Email: d.email,
+            Firma: d.company,
+          })
+        })
+        setSent(true)
+        setSending(false)
+        setTimeout(() => onClose(), 2500)
+      } catch {
+        // Fallback to WhatsApp if email fails
+        const msg = `Prijava za: ${program}\nIme: ${d.name}\nTelefon: ${d.phone}\nEmail: ${d.email}\nFirma: ${d.company}`
+        window.open(`https://wa.me/381605667795?text=${encodeURIComponent(msg)}`, '_blank')
+        setSent(true)
+        setSending(false)
+        setTimeout(() => onClose(), 2000)
+      }
     }
-    setSent(true)
-    setTimeout(() => onClose(), 2000)
   }, [program, onClose])
 
   return (
@@ -82,9 +109,9 @@ function SignupModal({ program, onClose }) {
                   className="w-full h-11 px-4 rounded-[10px] bg-tint border border-edge-2 text-[14px] text-ink placeholder:text-ink-3 focus:outline-none focus:ring-2 focus:ring-black/10" />
               </div>
             </div>
-            <button type="submit" className="w-full h-12 bg-black text-white text-[14px] font-medium rounded-[10px] hover:bg-black/80 transition-colors cursor-pointer flex items-center justify-center gap-2">
-              Pošalji prijavu
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+            <button type="submit" disabled={sending} className="w-full h-12 bg-black text-white text-[14px] font-medium rounded-[10px] hover:bg-black/80 transition-colors cursor-pointer flex items-center justify-center gap-2 disabled:opacity-60 disabled:cursor-not-allowed">
+              {sending ? 'Šaljem...' : 'Pošalji prijavu'}
+              {!sending && <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>}
             </button>
             <p className="text-[11px] text-ink-3 text-center">Plaćanje na licu mesta ili fakturom preko firme. Prijava vas ne obavezuje.</p>
           </form>
