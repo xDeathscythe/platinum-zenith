@@ -3657,4 +3657,151 @@ Ne morate da trošite više. Morate da trošite pametnije. I morate da počnete 
 Želite da izračunamo koliko vas zapravo košta trenutni marketing? [Javite nam se](/kontakt) za besplatnu analizu. Pogledaćemo vaše brojke i reći vam gde curi novac.
 `,
   },
+  {
+    slug: 'kako-napraviti-landing-stranicu-koja-konvertuje',
+    title: 'Kako napraviti landing stranicu koja konvertuje 20%+',
+    excerpt: 'Većina landing stranica konvertuje 2-3% posetilaca. Neke konvertuju 20% i više. Razlika nije u dizajnu. Razlika je u strukturi.',
+    date: '2026-02-27',
+    category: 'CRO',
+    readTime: '9 min',
+    content: `
+## Prosečna landing stranica je skupa greška
+
+Svaki posetilac koji dođe na landing stranicu i ode bez akcije je bačen novac. Ako plaćate klik 1€ i konvertujete 2% posetilaca, vaš stvarni trošak po klijentu je 50€. Sa konverzijom od 20%, taj isti klik košta 5€ po klijentu.
+
+Ista reklama. Isti budžet. Deset puta jeftiniji rezultat. Jedina promenljiva je stranica na koju klik vodi.
+
+Problem je što većina firmi pravi landing stranice po osećaju. Lep dizajn, par rečenica o firmi, kontakt forma na dnu. To nije landing stranica. To je digitalna vizit karta koju niko ne čita.
+
+## Anatomija stranice koja konvertuje
+
+Stranice sa visokom konverzijom nisu slučajnost. Sve dele istu strukturu, bez obzira na industriju.
+
+**1. Naslov koji govori rezultat, ne proces**
+
+Loš naslov: "Marketing usluge za vaš biznis"
+Dobar naslov: "Dobijte 3x više upita bez povećanja budžeta za oglase"
+
+Posetilac donosi odluku da li ostaje ili odlazi u prvih 3-5 sekundi. U tom vremenu pročita naslov i podnaslov. Ako tu ne vidi konkretan razlog da ostane, zatvara tab.
+
+Naslov mora da odgovori na pitanje: "Šta ja dobijam ako ostanem na ovoj stranici?"
+
+**2. Podnaslov koji objašnjava kako**
+
+Naslov hvata pažnju. Podnaslov daje dovoljno konteksta da posetilac nastavi da čita. Ne treba da objasni sve, samo da pokaže da postoji konkretan put od problema do rešenja.
+
+"Naš tim analizira vaše trenutne kampanje, identifikuje gde curite novac i pravi plan koji donosi merljive rezultate za 30 dana."
+
+**3. Vizuelni dokaz iznad fold-a**
+
+Pre nego što čovek pročita i jednu reč teksta, oči skeniraju stranicu. Ako vidi screenshot rezultata, video testimonial ili brojku u velikom fontu, to mu signalizira: "Ovo je ozbiljno."
+
+Neke od najkonvertnijih stranica koje smo radili imaju samo broj iznad fold-a. "64,4M RSD" ili "63 prijave za €60". Ništa drugo ne treba da kaže "mi znamo šta radimo" bolje od konkretnog rezultata.
+
+## Greška broj 1: previše opcija
+
+Jedna stranica = jedan cilj. Ni više, ni manje.
+
+Ako landing stranica ima navigaciju ka drugim stranicama, linkove ka blogu, tri različite ponude i dva CTA dugmeta sa različitim akcijama, posetilac je zbunjen. Zbunjen posetilac ne kupuje. Zbunjen posetilac zatvara tab.
+
+Svaki link koji ne vodi ka konverziji je izlaz sa stranice. Svaki izlaz smanjuje konverziju.
+
+Najbolje landing stranice nemaju navigaciju, nemaju footer sa 20 linkova i nemaju sidebar. Imaju jedan put: od vrha do dna, do dugmeta.
+
+## Greška broj 2: fokus na sebi umesto na kupcu
+
+"Mi smo firma sa 15 godina iskustva, sertifikovanim timom i modernom opremom."
+
+Nikoga nije briga. Bar ne na početku.
+
+Posetilac je došao sa problemom. Hoće da sazna da li vi rešavate taj problem. Ako prvih 300 reči pričaju o vama, o vašim nagradama, o vašoj misiji, posetilac je već otišao.
+
+Struktura koja radi: prvo njegov problem, pa vaše rešenje, pa dokaz da rešenje funkcioniše, pa tek onda ko ste vi.
+
+## Sekcija koja menja sve: social proof
+
+Ljudi veruju ljudima. Ne veruju firmama, brendovima ni reklamama. Veruju drugim kupcima koji su bili u istoj situaciji.
+
+Testimonijali na landing stranici povećavaju konverziju u proseku za 34%. Ali ne bilo kakvi testimonijali.
+
+**Loš testimonijal:** "Odličan tim, preporučujem!" — Petar P.
+
+**Dobar testimonijal:** "Za 3 meseca nam je promet porastao sa 400.000 na 2.400.000 RSD mesečno. Konačno imamo predvidljiv tok klijenata." — Dr. Marko, Ordinacija Medifizio
+
+Razlika je u specifičnosti. Konkretan broj, konkretan vremenski okvir, konkretan rezultat. To je dokaz, ne kompliment.
+
+## Forma: manje polja = više konverzija
+
+Svako polje u formi je prepreka. Istraživanja pokazuju da smanjenje broja polja sa 11 na 4 povećava konverziju za 120%.
+
+Za prvu konverziju vam treba: ime i email. Ili ime i broj telefona. To je dovoljno da započnete razgovor.
+
+Firme koje traže naziv firme, poziciju, budžet, industriju, broj zaposlenih i krvnu grupu na prvom kontaktu gube većinu potencijalnih klijenata. Te informacije dobijate u razgovoru, ne u formi.
+
+## CTA dugme: jedno, jasno, vidljivo
+
+"Pošalji" nije CTA. "Saznajte više" nije CTA.
+
+CTA mora da kaže šta posetilac dobija kad klikne:
+- "Zakaži besplatnu analizu"
+- "Dobij ponudu za 24h"
+- "Pokreni kampanju"
+
+Dugme mora da bude kontrastne boje u odnosu na ostatak stranice. Ako je sajt pretežno beo i plav, dugme je narandžasto ili zeleno. Poenta je da se ne može ne primetiti.
+
+I ne samo jedno dugme na dnu. CTA se ponavlja minimum 3 puta: posle naslova, posle social proof sekcije i na samom dnu.
+
+## Brzina učitavanja: tihi ubica konverzije
+
+Svaka sekunda kašnjenja smanjuje konverziju za 7%. Ako se stranica učitava 5 sekundi umesto 2, izgubili ste 21% potencijalnih klijenata pre nego što su videli i jednu reč.
+
+Stvari koje usporavaju landing stranicu: velike slike koje nisu kompresovane, nepotrebni skriptovi, spor hosting, previše fontova.
+
+Testiranje brzine: Google PageSpeed Insights, besplatan alat. Ako skor nije iznad 85 na mobilnom, imate problem koji vas košta novca svaki dan.
+
+## Mobilni korisnici: 70% vašeg saobraćaja
+
+Ako landing stranica ne izgleda savršeno na telefonu, gubite većinu posetilaca. Ne "dobro izgleda". Savršeno.
+
+To znači: tekst čitljiv bez zumiranja, dugme dovoljno veliko za palac, forma koja se može popuniti jednom rukom, slike koje se brzo učitavaju na mobilnom internetu.
+
+Većina firmi pravi landing stranicu na desktop-u i onda "prilagodi za mobilni". Trebalo bi da bude obrnuto. Napravite za mobilni, pa prilagodite za desktop.
+
+## Testiranje: jedini način da saznate šta radi
+
+Nikad ne lansirajte jednu verziju landing stranice i smatrajte posao završenim.
+
+A/B testiranje je jedini pouzdan način da saznate šta vaši posetioci zapravo hoće. Promenite naslov, pustite 500 posetilaca na svaku verziju, pogledajte brojke. Promenite boju dugmeta. Promenite redosled sekcija. Promenite sliku.
+
+Male promene daju velike rezultate. Jedan naš klijent je promenio naslov sa "Zakazite konsultacije" na "Saznajte koliko gubite na lošem marketingu" i konverzija je skočila sa 3.8% na 11.2%.
+
+## Čeklista za landing stranicu koja konvertuje
+
+Pre nego što pustite stranicu live, proverite:
+
+- ✅ Naslov govori rezultat, ne proces
+- ✅ Podnaslov objašnjava kako u jednoj rečenici
+- ✅ Vizuelni dokaz iznad fold-a (broj, screenshot, video)
+- ✅ Nema navigacije ni sporednih linkova
+- ✅ Social proof sa konkretnim brojevima
+- ✅ Forma sa max 3-4 polja
+- ✅ CTA dugme ponovljeno 3+ puta
+- ✅ Kontrastna boja dugmeta
+- ✅ Brzina učitavanja < 3 sekunde
+- ✅ Mobilni prikaz testiran na pravom telefonu
+- ✅ Jedna ponuda, jedan cilj, jedna akcija
+
+## Konverzija nije sreća. Konverzija je inženjering
+
+Landing stranice koje konvertuju 20%+ ne nastaju slučajno. Nastaju iz razumevanja kako ljudi donose odluke, šta ih koči i šta ih pokreće.
+
+Svaka sekcija na stranici ima posao. Naslov hvata pažnju. Tekst gradi poverenje. Social proof eliminiše sumnju. CTA daje jasnu sledeću akciju.
+
+Kad sve to radi zajedno, konverzija raste. Ne za 10-20%. Za 3x, 5x, ponekad 10x.
+
+---
+
+Želite da napravimo landing stranicu koja zapravo konvertuje vaše posetioce u klijente? [Javite nam se](/kontakt) i pogledaćemo šta možemo da uradimo sa vašim saobraćajem.
+`,
+  },
 ]
