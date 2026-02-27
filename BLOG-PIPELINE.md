@@ -57,7 +57,7 @@ Svi videi iz originalne Sabri/Hormozi liste su prepakovani u blogove.
 - 🟢 Zašto vaš sajt ne prodaje (i šta da promenite danas)
 - 🟢 Kako napisati ponudu koja zatvara posao za 24 sata
 - 🟢 Facebook vs Instagram oglasi: gde je vaša publika
-- ⚪ Koliko zapravo košta loš marketing (skriveni troškovi)
+- 🟢 Koliko zapravo košta loš marketing (skriveni troškovi)
 - ⚪ Kako napraviti landing stranicu koja konvertuje 20%+
 
 ## Pravila za pisanje blog postova

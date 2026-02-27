@@ -112,36 +112,31 @@ export default function AboutPage() {
   return (
     <>
       {/* ─── Hero ─── */}
-      <section className="relative flex flex-col items-center text-center pt-[160px] md:pt-[220px] pb-[20px] px-4 md:px-8 overflow-hidden">
+      <section className="relative min-h-[85vh] flex flex-col items-center text-center pt-[160px] md:pt-[220px] pb-[60px] px-4 md:px-8 overflow-hidden">
         <div className="absolute inset-0 z-0">
           <div className="absolute inset-0 only-dark" style={{ backgroundImage: `url(${heroHomeDark})`, backgroundSize: 'cover', backgroundPosition: 'center top', backgroundColor: '#000000' }} />
           <div className="absolute inset-0 only-light" style={{ backgroundImage: `url(${heroHomeLight})`, backgroundSize: 'cover', backgroundPosition: 'center top', backgroundColor: '#ffffff' }} />
-          <div className="absolute inset-x-0 z-[1]" style={{ top: '55%', height: '45%', backdropFilter: 'blur(68px)', WebkitBackdropFilter: 'blur(68px)', maskImage: 'linear-gradient(to bottom, transparent 0%, black 20%, black 82%, transparent 100%)', WebkitMaskImage: 'linear-gradient(to bottom, transparent 0%, black 20%, black 82%, transparent 100%)' }} />
-          <div className="absolute inset-0 z-[2] only-dark" style={{ background: 'linear-gradient(to bottom, rgba(0,0,0,0) 40%, rgba(0,0,0,0.30) 58%, rgba(0,0,0,0.70) 74%, #000000 92%)' }} />
-          <div className="absolute inset-0 z-[2] only-light" style={{ background: 'linear-gradient(to bottom, rgba(255,255,255,0) 40%, rgba(255,255,255,0.35) 58%, rgba(255,255,255,0.75) 74%, #ffffff 92%)' }} />
+          <div className="absolute inset-x-0 z-[1]" style={{ top: '64vh', height: '52vh', backdropFilter: 'blur(68px)', WebkitBackdropFilter: 'blur(68px)', maskImage: 'linear-gradient(to bottom, transparent 0%, black 20%, black 82%, transparent 100%)', WebkitMaskImage: 'linear-gradient(to bottom, transparent 0%, black 20%, black 82%, transparent 100%)' }} />
+          <div className="absolute inset-0 z-[2] only-dark" style={{ background: 'linear-gradient(to bottom, rgba(0,0,0,0) 46%, rgba(0,0,0,0.26) 62%, rgba(0,0,0,0.60) 76%, rgba(0,0,0,0.88) 90%, #000000 100%)' }} />
+          <div className="absolute inset-0 z-[2] only-light" style={{ background: 'linear-gradient(to bottom, rgba(255,255,255,0) 46%, rgba(255,255,255,0.30) 62%, rgba(255,255,255,0.64) 76%, rgba(255,255,255,0.90) 90%, #ffffff 100%)' }} />
         </div>
 
         <div className="relative z-10 w-full max-w-[800px] mx-auto">
-          <Reveal>
-            <span className="inline-block text-[12px] uppercase tracking-[0.2em] text-ink-2 mb-5">O nama</span>
-          </Reveal>
-          <Reveal delay={60}>
-            <h1 className="text-[32px] md:text-[58px] font-medium leading-[1.1] tracking-[-1.5px] text-ink mb-5">
-              Od internog tima do<br className="hidden md:inline" /> najjače agencije na Balkanu
-            </h1>
-          </Reveal>
-          <Reveal delay={120}>
-            <p className="text-[15px] md:text-[17px] text-ink-2 leading-[26px] md:leading-[30px] max-w-[620px] mx-auto mb-8 px-4">
-              Platinum Zenith je nastao iz potrebe, ne iz ambicije da budemo agencija.
-              Napravili smo tim koji je trebao da pomogne našim biznisima da dominiraju.
-              Rezultati su bili toliko dobri da su drugi počeli da traže istu pomoć.
-            </p>
-          </Reveal>
-          <Reveal delay={180}>
-            <Link to="/kontakt" className="inline-flex items-center gap-1.5 bg-inv-bg text-inv-fg text-[14px] font-medium h-10 px-5 rounded-[40px] cursor-pointer hover:bg-inv-bg-hover transition-colors">
-              Zakažite Bersplatne Konsultacije
+          <span className="hero-enter hero-enter-d1 inline-block text-[12px] uppercase tracking-[0.2em] text-black/60 mb-5">O nama</span>
+          <h1 className="hero-enter hero-enter-d1 text-[32px] md:text-[62px] font-medium leading-[1.1] md:leading-[62px] tracking-[-1px] md:tracking-[-1.86px] text-black mb-4">
+            Od internog tima do<br className="hidden md:inline" /> najjače agencije na Balkanu
+          </h1>
+          <p className="hero-enter hero-enter-d2 text-[14px] md:text-[15px] font-normal leading-[22px] md:leading-[26px] tracking-[-0.15px] text-black text-center mb-6 md:mb-8 max-w-[620px] mx-auto px-6 md:px-2">
+            Platinum Zenith je nastao iz potrebe, ne iz ambicije da budemo agencija.
+            Napravili smo tim koji je trebao da pomogne našim biznisima da dominiraju.
+            Rezultati su bili toliko dobri da su drugi počeli da traže istu pomoć.
+          </p>
+          <div className="hero-enter hero-enter-d3">
+            <Link to="/kontakt" className="inline-flex items-center gap-1.5 bg-black text-white text-[13px] md:text-[14px] font-medium h-10 px-4 md:px-5 rounded-[40px] cursor-pointer hover:bg-black/80 transition-colors">
+              Zakažite Besplatne Konsultacije
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
             </Link>
-          </Reveal>
+          </div>
         </div>
       </section>
 
