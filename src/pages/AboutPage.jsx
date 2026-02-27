@@ -7,107 +7,70 @@ import BottomCTA from '../components/BottomCTA'
 const heroHomeDark = `${import.meta.env.BASE_URL}hero-home-dark.webp`
 const heroHomeLight = `${import.meta.env.BASE_URL}hero-home-light.webp`
 
-/* ─── Team ─── */
-const team = [
-  {
-    name: 'Aleksandar Nenadović',
-    role: 'Direktor & Osnivač',
-    desc: 'Osnivač Platinum Truffles i Platinum Zenith. Vizionar koji je sklopio tim profesionalaca sa jednim ciljem: dominacija na tržištu.',
-    icon: '👑',
-  },
-  {
-    name: 'Marketing Tim',
-    role: 'Direct Response & Mediji',
-    desc: 'Specijalisti za plaćene oglase, Google Ads, Meta kampanje i direct response marketing koji donosi merljive rezultate.',
-    icon: '📈',
-  },
-  {
-    name: 'Dev Tim',
-    role: 'Web Development & AI',
-    desc: 'Full-stack developeri i AI inženjeri koji prave sajtove koji konvertuju i sisteme koji automatizuju.',
-    icon: '⚡',
-  },
-  {
-    name: 'Kreativni Tim',
-    role: 'Dizajn & Sadržaj',
-    desc: 'Dizajneri i copywriteri koji pretvaraju podatke u vizualni identitet i poruke koje prodaju.',
-    icon: '🎨',
-  },
-]
-
-/* ─── Milestones ─── */
+/* ─── Timeline ─── */
 const milestones = [
   {
     year: '2023',
-    title: 'Početak — interni tim',
-    desc: 'Aleksandar Nenadović formira interni marketing tim za Platinum Truffles. Cilj: napraviti sistem koji će tartufe iz Srbije staviti na mapu Evrope.',
+    title: 'Sopstvena firma, sopstveni problem',
+    desc: 'Aleksandar je vodio Platinum Truffles i trazio nekoga ko zna marketing. Probao agencije. Rezultati su bili osrednji, a komunikacija jos gora. Odlucio je da napravi tim sam.',
   },
   {
     year: '2024',
-    title: 'Rezultati iznad očekivanja',
-    desc: 'Tim pokazuje veštine daleko iznad onoga što smo očekivali. Platinum Tartufi dobijaju sistematičan priliv kupaca, konverzije rastu 3x.',
+    title: 'Tim koji je promenio sve',
+    desc: 'Ljudi koje je okupio su pokazali nesto neocekivano. Nisu samo "odradili posao." Razumeli su biznis, razumeli su kupce. Rezultati su dosli brzo. Platinum Tartufi su poceli da rastu ozbiljno.',
   },
   {
     year: '2024',
-    title: 'Prve B2B saradnje',
-    desc: 'Igrom slučaja, počinjemo da pomažemo drugim firmama. Grubin Showroom, medicinske prakse, saloni. Svaki klijent dobija isti tretman kao naši sopstveni biznisi.',
+    title: 'Poziv koji nismo planirali',
+    desc: 'Prijatelj je pitao da li mozemo da pomognemo i njegovoj firmi. Rekli smo da, ne znajuci sta ce to pokrenuti. Pa jos jedan. I jos jedan. Svaki put smo radili kao da je nas biznis u pitanju.',
   },
   {
     year: '2025',
-    title: 'Platinum Zenith — agencija',
-    desc: 'Od internog tima do jedne od najjačih agencija na Balkanu. Web dizajn, CRO, consulting i AI integracije ulaze u ponudu.',
+    title: 'Platinum Zenith postaje agencija',
+    desc: 'Vise nismo mogli da ignorisemo cinjenicu da je ovo preraslo interni tim. Formalizovali smo agenciju, ali zadrzali istu kulturu: mali broj klijenata, maksimalna posvecena paznja, merljivi rezultati.',
   },
   {
     year: '2026',
-    title: 'AI-powered marketing',
-    desc: 'Implementacija custom AI alata za automatizaciju marketinga, chatbotove i personalizovanu komunikaciju. Niwa AI postaje deo našeg arsenala.',
-  },
-]
-
-/* ─── Key stats ─── */
-const stats = [
-  { value: '6x', label: 'Rast prihoda klijenata', sub: 'u prvih 8 meseci' },
-  { value: '50+', label: 'Zadovoljnih klijenata', sub: 'širom Balkana' },
-  { value: '16.2x', label: 'Prosečan ROAS', sub: 'na oglasima' },
-  { value: '97%', label: 'Stopa zadržavanja', sub: 'klijenata' },
-]
-
-/* ─── Principles ─── */
-const principles = [
-  {
-    num: '01',
-    title: 'Prvo naš biznis, pa vaš',
-    desc: 'Svaku strategiju prvo testiramo na sopstvenim firmama. Platinum Tartufi, Niwa AI, naši brendovi. Tek kad dokažemo da radi, primenjujemo na klijente. Vi nikad niste eksperiment.',
-  },
-  {
-    num: '02',
-    title: 'Bez izgovora, samo brojevi',
-    desc: 'Ne prodajemo "brand awareness" i "engagement". Prodajemo prihod, konverzije i ROI. Svaki evro koji uložite mora da se vrati sa kamatom. Ako kampanja ne radi, menjamo je, ne pravdamo.',
-  },
-  {
-    num: '03',
-    title: 'Partnerstvo, ne usluga',
-    desc: 'Ne radimo "za" vas. Radimo "sa" vama. Razumemo vaš biznis iznutra, poznajemo vaše kupce i vaše brojeve. Tretiramo vaš budžet kao da je naš.',
-  },
-  {
-    num: '04',
-    title: 'Brzina je naše oružje',
-    desc: 'Dok druge agencije prave prezentacije, mi pokrećemo kampanje. Od ideje do realizacije prolazi manje vremena nego što vam treba da potpišete ugovor kod konkurencije.',
-  },
-  {
-    num: '05',
-    title: 'AI nije buzzword kod nas',
-    desc: 'Razvijamo sopstvene AI alate. Niwa AI chatbot, automatizovani sistemi za analizu podataka, personalizovana komunikacija. Tehnologija u službi rezultata.',
-  },
-  {
-    num: '06',
-    title: 'Transparentnost do bola',
-    desc: 'Pristup svim podacima, nedeljni izveštaji, direktna komunikacija. Znate tačno gde je svaki dinar otišao i šta je doneo nazad. Bez skrivenih troškova, bez sitnog slova.',
+    title: 'AI kao alat, ne kao buzzword',
+    desc: 'Razvili smo sopstvene AI alate za automatizaciju komunikacije i analitiku. Ne zato sto je moderno, nego zato sto su nam klijenti rekli da im to treba.',
   },
 ]
 
 export default function AboutPage() {
-  const [expandedPrinciple, setExpandedPrinciple] = useState(null)
+  const [openBelief, setOpenBelief] = useState(null)
+
+  const beliefs = [
+    {
+      num: '01',
+      title: 'Prvo testiramo na sebi',
+      text: 'Svaku strategiju, svaki pristup, svaki alat prvo koristimo na sopstvenim firmama. Platinum Tartufi su nas laboratorija. Ako nesto ne radi za nas biznis, necemo vam to preporuciti. Nikad niste eksperiment.',
+    },
+    {
+      num: '02',
+      title: 'Merimo samo ono sto mozete odneti u banku',
+      text: 'Lajkovi, impresije, reach. To su brojevi koji dobro izgledaju na prezentaciji. Mi pratimo koliko ste zaradili, koliko vas kosta jedan klijent i koliko se taj klijent vratio. Sve ostalo je dekoracija.',
+    },
+    {
+      num: '03',
+      title: 'Vas biznis je nas biznis',
+      text: 'Ne radimo za vas. Radimo sa vama. Poznajemo vase kupce, razumemo vase brojke, osecamo kad nesto ne stima. Tretiramo vas budzet kao da je nas. Zato sto u nekom smislu jeste.',
+    },
+    {
+      num: '04',
+      title: 'Brzina je postovanje',
+      text: 'Kad neko trazi pomoc, svaki dan cekanja je dan izgubljenog prihoda. Dok se kod drugih agencija potpisuju ugovori i prave prezentacije, mi vec pokrecemo kampanje. Nije nase da vam trosimo vreme.',
+    },
+    {
+      num: '05',
+      title: 'Kazemo kad ne znamo',
+      text: 'Nismo strucnjaci za sve. Kad nesto nije nasa oblast, reci cemo vam otvoreno umesto da improvizujemo na vas racun. Bolje da budete razocaran pet minuta nego da gubite novac sest meseci.',
+    },
+    {
+      num: '06',
+      title: 'Vidite sve sto vidimo mi',
+      text: 'Pristup svim podacima, nedeljni izvestaji sa pravim brojevima, direktan kontakt sa timom koji radi na vasem projektu. Nema skrivenih troskova i nema sitnog slova. Ako nesto ne radi, znacete pre nas.',
+    },
+  ]
 
   return (
     <>
@@ -124,59 +87,77 @@ export default function AboutPage() {
         <div className="relative z-10 w-full max-w-[800px] mx-auto">
           <span className="hero-enter hero-enter-d1 inline-block text-[12px] uppercase tracking-[0.2em] text-black/60 mb-5">O nama</span>
           <h1 className="hero-enter hero-enter-d1 text-[32px] md:text-[62px] font-medium leading-[1.1] md:leading-[62px] tracking-[-1px] md:tracking-[-1.86px] text-black mb-4">
-            Od internog tima do<br className="hidden md:inline" /> najjače agencije na Balkanu
+            Počelo je sa jednom firmom<br className="hidden md:inline" /> i jednim problemom
           </h1>
           <p className="hero-enter hero-enter-d2 text-[14px] md:text-[15px] font-normal leading-[22px] md:leading-[26px] tracking-[-0.15px] text-black text-center mb-6 md:mb-8 max-w-[620px] mx-auto px-6 md:px-2">
-            Platinum Zenith je nastao iz potrebe, ne iz ambicije da budemo agencija.
-            Napravili smo tim koji je trebao da pomogne našim biznisima da dominiraju.
-            Rezultati su bili toliko dobri da su drugi počeli da traže istu pomoć.
+            Nismo osnovali agenciju zato što smo hteli da budemo agencija.
+            Osnovali smo je zato što nismo mogli da nađemo jednu koja radi posao onako kako mi radimo svoj.
           </p>
-          <div className="hero-enter hero-enter-d3">
+          <div className="hero-enter hero-enter-d3 flex items-center justify-center gap-2 flex-wrap px-2">
             <Link to="/kontakt" className="inline-flex items-center gap-1.5 bg-black text-white text-[13px] md:text-[14px] font-medium h-10 px-4 md:px-5 rounded-[40px] cursor-pointer hover:bg-black/80 transition-colors">
-              Zakažite Besplatne Konsultacije
+              Zakažite Konsultacije
               <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
             </Link>
           </div>
         </div>
       </section>
 
-      {/* ─── Origin Story ─── */}
+      {/* ─── Story ─── */}
       <section className="py-20 px-4 md:px-8">
-        <div className="max-w-[900px] mx-auto">
+        <div className="max-w-[740px] mx-auto">
           <Reveal>
-            <span className="text-[12px] uppercase tracking-[0.18em] text-ink-2 block mb-3">Naša priča</span>
+            <span className="text-[12px] uppercase tracking-[0.18em] text-ink-2 block mb-6">Kako je počelo</span>
           </Reveal>
-          <div className="grid md:grid-cols-[1fr_1px_1fr] gap-8 md:gap-12 mt-6">
+
+          <div className="space-y-6">
             <Reveal delay={40}>
-              <h2 className="text-[26px] md:text-[34px] font-medium text-ink leading-[1.2] tracking-[-0.8px] mb-5">
-                "Trebao nam je tim koji će pomoći našim biznisima da pobede. Dobili smo vojsku."
-              </h2>
-              <p className="text-[14px] text-ink-2 leading-[25px]">
-                <span className="text-ink font-medium">Aleksandar Nenadović</span>, direktor Platinum Truffles, imao je jasan cilj: okupiti profesionalce koji će pomoći njegovim personalnim biznisima da dominiraju na tržištu. Ne agenciju. Ne outsourcing. Pravi tim, pod jednim krovom, sa jednim fokusom.
+              <p className="text-[16px] md:text-[18px] text-ink leading-[28px] md:leading-[32px]">
+                Aleksandar Nenadović je vodio firmu za tartufe. Ne startap, ne tech kompaniju. Firmu koja pakuje tartufe u Srbiji i prodaje ih po Evropi.
               </p>
             </Reveal>
 
-            <div className="hidden md:block w-px bg-edge-2" />
+            <Reveal delay={80}>
+              <p className="text-[16px] md:text-[18px] text-ink-2 leading-[28px] md:leading-[32px]">
+                Marketing mu je bio potreban. Probao je sa agencijama. Jedna je slala mesečne izveštaje pune grafova koje niko nije razumeo. Druga je obećala "brand awareness" ali nikad nije objasnila koliko je to awareness zapravo doneo kupaca. Treća je kopirala istu strategiju koju koristi za zubarsku ordinaciju i za prodavnicu obuće.
+              </p>
+            </Reveal>
 
-            <Reveal delay={100}>
-              <p className="text-[14px] text-ink-2 leading-[25px] mb-4">
-                Platinum Tartufi su bili prvi projekat. Marketing, web, pozicioniranje. Tim je radio kao da mu život zavisi od rezultata. I rezultati su došli brzo. Brže i jače nego što je iko očekivao.
+            <Reveal delay={120}>
+              <p className="text-[16px] md:text-[18px] text-ink-2 leading-[28px] md:leading-[32px]">
+                Znate taj osećaj kad platite nekoga da reši problem, a posle tri meseca imate isti problem plus fakturu? To je bio taj.
               </p>
-              <p className="text-[14px] text-ink-2 leading-[25px] mb-4">
-                Ono što je trebalo da bude interni tim za jednu firmu, pokazalo je veštine i moć daleko iznad onoga što smo se nadali da vidimo.
+            </Reveal>
+
+            <Reveal delay={160}>
+              <p className="text-[16px] md:text-[18px] text-ink leading-[28px] md:leading-[32px]">
+                Umesto da nastavi da traži, odlučio je da napravi tim sam. Okupio je ljude koji su razumeli da marketing nije "kreiranje sadržaja." Marketing je kad neko klikne na vaš oglas, dođe na vaš sajt i kupi vaš proizvod. Sve ostalo je priprema.
               </p>
-              <p className="text-[14px] text-ink-2 leading-[25px]">
-                Igrom slučaja, počeli smo da pomažemo i drugim B2B klijentima. Prvo jednom, pa drugom. Svaki je dobio isti nivo posvećenosti kao naši sopstveni biznisi. I iz tog organskog rasta nastao je Platinum Zenith: agencija koja tretira svaki klijentski biznis kao da je njen.
+            </Reveal>
+
+            <Reveal delay={200}>
+              <p className="text-[16px] md:text-[18px] text-ink-2 leading-[28px] md:leading-[32px]">
+                Rezultati su došli brže nego što je iko očekivao. Platinum Tartufi su počeli da rastu. Ali ono što je bilo zanimljivije je da su prijatelji i partneri počeli da pitaju: "Ko vam radi marketing? Mogu li i za nas?"
+              </p>
+            </Reveal>
+
+            <Reveal delay={240}>
+              <p className="text-[16px] md:text-[18px] text-ink leading-[28px] md:leading-[32px]">
+                Nismo planirali da postanemo agencija. Ali kad treći čovek pita istu stvar, počneš da razmišljaš da možda ima nečeg u tome. Tako je nastao Platinum Zenith. Ne iz ambicije da budemo najveći ili najjači. Iz prostog razloga: znamo kako je kad neko tvoj novac ne tretira kao svoj. I odlučili smo da to radimo drugačije.
               </p>
             </Reveal>
           </div>
         </div>
       </section>
 
-      {/* ─── Stats Bar ─── */}
+      {/* ─── What clients got ─── */}
       <section className="py-12 px-4 md:px-8 bg-panel border-y border-edge-2">
         <div className="max-w-[1000px] mx-auto grid grid-cols-2 md:grid-cols-4 gap-6">
-          {stats.map((s, i) => (
+          {[
+            { value: '64,4M', label: 'RSD prometa', sub: 'Grubin 2025' },
+            { value: '6x', label: 'Rast prihoda', sub: 'Medifizio za 8 meseci' },
+            { value: '€0,96', label: 'Po prijavi', sub: 'Focus Fizikal' },
+            { value: '97%', label: 'Klijenata ostaje', sub: 'nakon prvog ugovora' },
+          ].map((s, i) => (
             <Reveal key={s.label} delay={i * 50} className="text-center">
               <div className="text-[36px] md:text-[44px] font-bold text-ink leading-none">{s.value}</div>
               <div className="text-[13px] text-ink font-medium mt-2">{s.label}</div>
@@ -186,28 +167,28 @@ export default function AboutPage() {
         </div>
       </section>
 
-      {/* ─── How We Work — Principles ─── */}
+      {/* ─── What We Believe ─── */}
       <section className="py-20 px-4 md:px-8">
         <div className="max-w-[900px] mx-auto">
           <Reveal className="mb-12">
-            <span className="text-[12px] uppercase tracking-[0.18em] text-ink-2 block mb-3">Kako radimo</span>
+            <span className="text-[12px] uppercase tracking-[0.18em] text-ink-2 block mb-3">U šta verujemo</span>
             <h2 className="text-[30px] md:text-[42px] font-medium text-ink tracking-[-1px] leading-[1.15]">
-              Šest principa koji nas razdvajaju<br className="hidden md:inline" /> od svake druge agencije
+              Šest stvari koje ne želimo<br className="hidden md:inline" /> da naučite na teži način
             </h2>
           </Reveal>
 
           <div className="space-y-3">
-            {principles.map((p, i) => {
-              const isOpen = expandedPrinciple === i
+            {beliefs.map((b, i) => {
+              const isOpen = openBelief === i
               return (
-                <Reveal key={p.num} delay={i * 40}>
+                <Reveal key={b.num} delay={i * 40}>
                   <motion.div
                     className="border border-edge-2 rounded-[11px] overflow-hidden cursor-pointer bg-tint hover:bg-panel transition-colors"
-                    onClick={() => setExpandedPrinciple(isOpen ? null : i)}
+                    onClick={() => setOpenBelief(isOpen ? null : i)}
                   >
                     <div className="flex items-center gap-4 p-5">
-                      <span className="text-[13px] text-ink-2 font-mono font-medium w-6 flex-shrink-0">{p.num}</span>
-                      <h3 className="text-[16px] md:text-[18px] font-medium text-ink flex-1">{p.title}</h3>
+                      <span className="text-[13px] text-ink-2 font-mono font-medium w-6 flex-shrink-0">{b.num}</span>
+                      <h3 className="text-[16px] md:text-[18px] font-medium text-ink flex-1">{b.title}</h3>
                       <motion.span
                         animate={{ rotate: isOpen ? 45 : 0 }}
                         transition={{ duration: 0.2 }}
@@ -223,7 +204,7 @@ export default function AboutPage() {
                       className="overflow-hidden"
                     >
                       <p className="px-5 pb-5 pl-[52px] text-[14px] text-ink-2 leading-[25px]">
-                        {p.desc}
+                        {b.text}
                       </p>
                     </motion.div>
                   </motion.div>
@@ -234,33 +215,15 @@ export default function AboutPage() {
         </div>
       </section>
 
-      {/* ─── Team ─── */}
-      <section className="py-20 px-4 md:px-8 bg-panel border-y border-edge-2">
-        <div className="max-w-[1000px] mx-auto">
-          <Reveal className="text-center mb-12">
-            <span className="text-[12px] uppercase tracking-[0.18em] text-ink-2 block mb-3">Tim</span>
-            <h2 className="text-[30px] md:text-[42px] font-medium text-ink tracking-[-1px]">
-              Ljudi iza rezultata
-            </h2>
-            <p className="text-[15px] text-ink-2 mt-3 max-w-[500px] mx-auto leading-[26px]">
-              Svaki član našeg tima je prošao vatru na sopstvenim projektima pre nego što je počeo da radi sa klijentima.
-            </p>
+      {/* ─── Quote ─── */}
+      <section className="py-16 px-4 md:px-8 bg-panel border-y border-edge-2">
+        <div className="max-w-[700px] mx-auto text-center">
+          <Reveal>
+            <blockquote className="text-[22px] md:text-[28px] font-medium text-ink leading-[1.35] tracking-[-0.5px] mb-6">
+              "Možete imati sve u životu što želite, ako dovoljno pomognete drugim ljudima da dobiju ono što oni žele."
+            </blockquote>
+            <p className="text-[14px] text-ink-2">Zig Ziglar. To je ceo naš poslovni model u jednoj rečenici.</p>
           </Reveal>
-
-          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4">
-            {team.map((m, i) => (
-              <Reveal key={m.name} delay={i * 60}>
-                <div className="bg-tint rounded-[11px] p-6 border border-edge-2 text-center h-full">
-                  <div className="w-14 h-14 rounded-full bg-panel border border-edge-2 flex items-center justify-center mx-auto mb-4 text-[24px]">
-                    {m.icon}
-                  </div>
-                  <h3 className="text-[16px] font-medium text-ink mb-0.5">{m.name}</h3>
-                  <div className="text-[12px] text-ink-2 uppercase tracking-wider mb-3">{m.role}</div>
-                  <p className="text-[13px] text-ink-2 leading-[22px]">{m.desc}</p>
-                </div>
-              </Reveal>
-            ))}
-          </div>
         </div>
       </section>
 
@@ -268,16 +231,14 @@ export default function AboutPage() {
       <section className="py-20 px-4 md:px-8">
         <div className="max-w-[700px] mx-auto">
           <Reveal className="text-center mb-14">
-            <span className="text-[12px] uppercase tracking-[0.18em] text-ink-2 block mb-3">Naš put</span>
+            <span className="text-[12px] uppercase tracking-[0.18em] text-ink-2 block mb-3">Put do ovde</span>
             <h2 className="text-[30px] md:text-[42px] font-medium tracking-[-1px] text-ink">
-              Od jednog biznisa do<br className="hidden md:inline" /> pune agencije
+              Od tartufa do agencije
             </h2>
           </Reveal>
 
           <div className="relative">
-            {/* Timeline line */}
             <div className="absolute left-[19px] top-2 bottom-2 w-px bg-edge-2" />
-
             <div className="space-y-10">
               {milestones.map((m, i) => (
                 <Reveal key={`${m.year}-${m.title}`} delay={i * 60} className="flex gap-6 items-start">
@@ -297,61 +258,31 @@ export default function AboutPage() {
         </div>
       </section>
 
-      {/* ─── Difference: Agency vs Platinum Zenith ─── */}
+      {/* ─── Who is this for ─── */}
       <section className="py-20 px-4 md:px-8 bg-panel border-y border-edge-2">
-        <div className="max-w-[900px] mx-auto">
-          <Reveal className="text-center mb-12">
-            <h2 className="text-[30px] md:text-[42px] font-medium text-ink tracking-[-1px]">
-              Obična agencija vs. Platinum Zenith
+        <div className="max-w-[740px] mx-auto">
+          <Reveal className="mb-10">
+            <span className="text-[12px] uppercase tracking-[0.18em] text-ink-2 block mb-3">Za koga je ovo</span>
+            <h2 className="text-[30px] md:text-[42px] font-medium text-ink tracking-[-1px] leading-[1.15]">
+              Nismo za svakoga. I to je u redu.
             </h2>
           </Reveal>
 
-          <div className="grid md:grid-cols-2 gap-4">
-            {/* Other agencies */}
+          <div className="space-y-6">
             <Reveal delay={40}>
-              <div className="rounded-[11px] border border-edge-2 p-6 bg-tint h-full">
-                <div className="text-[13px] uppercase tracking-wider text-ink-2 font-medium mb-5">Tipična agencija</div>
-                <ul className="space-y-3">
-                  {[
-                    'Radi na 50+ klijenata istovremeno',
-                    'Junior account manager vodi vaš nalog',
-                    'Mesečni izveštaji sa vanity metrikama',
-                    'Copy-paste strategije za sve klijente',
-                    'Fokus na "brand awareness"',
-                    'Ugovor na 12 meseci, bez garancija',
-                  ].map(t => (
-                    <li key={t} className="flex items-start gap-2.5 text-[14px] text-ink-2 leading-[22px]">
-                      <span className="text-red-400 mt-0.5 flex-shrink-0">✕</span>
-                      {t}
-                    </li>
-                  ))}
-                </ul>
-              </div>
+              <p className="text-[16px] text-ink-2 leading-[28px]">
+                Radimo sa malim brojem klijenata istovremeno. Nismo fabrika. Kad uzmemo vaš projekat, senior tim radi direktno na njemu. Ne junior koji je završio kurs prošle nedelje.
+              </p>
             </Reveal>
-
-            {/* Platinum Zenith */}
-            <Reveal delay={100}>
-              <div className="rounded-[11px] border border-edge-2 p-6 bg-tint h-full relative overflow-hidden">
-                <div className="absolute inset-0 opacity-[0.03]" style={{ background: 'radial-gradient(ellipse at center, rgba(100,140,255,1) 0%, transparent 70%)' }} />
-                <div className="relative">
-                  <div className="text-[13px] uppercase tracking-wider text-ink font-medium mb-5">Platinum Zenith</div>
-                  <ul className="space-y-3">
-                    {[
-                      'Mali broj klijenata, maksimalna pažnja',
-                      'Senior tim radi direktno na vašem projektu',
-                      'Nedeljni izveštaji sa pravim brojevima',
-                      'Custom strategija bazirana na vašim podacima',
-                      'Fokus na prihod i ROI',
-                      'Rezultati govore, ne ugovori',
-                    ].map(t => (
-                      <li key={t} className="flex items-start gap-2.5 text-[14px] text-ink leading-[22px]">
-                        <span className="text-emerald-400 mt-0.5 flex-shrink-0">✓</span>
-                        {t}
-                      </li>
-                    ))}
-                  </ul>
-                </div>
-              </div>
+            <Reveal delay={80}>
+              <p className="text-[16px] text-ink-2 leading-[28px]">
+                Najbolje radimo sa vlasnicima firmi koji znaju šta žele, ali im treba neko ko zna kako da to postigne. Ljudi koji ne mere uspeh brojem pratilaca, nego brojem kupaca. Ljudi kojima je lakše da pogledaju izveštaj sa konkretnim ciframa nego da slušaju priču o "organskom rastu."
+              </p>
+            </Reveal>
+            <Reveal delay={120}>
+              <p className="text-[16px] text-ink leading-[28px]">
+                Ako vam treba agencija koja će da objavljuje tri puta dnevno na Instagramu i šalje vam mesečni PDF, postoji mnogo dobrih opcija na tržištu. Ako vam treba tim koji će da sedne sa vama, pogleda vaše brojke i kaže vam tačno šta treba da uradite da zaradite više, onda bismo trebali da razgovaramo.
+              </p>
             </Reveal>
           </div>
         </div>
