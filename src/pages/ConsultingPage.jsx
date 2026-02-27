@@ -189,6 +189,190 @@ export default function ConsultingPage() {
         </div>
       </section>
 
+      {/* ─── Radionice, obuke i seminari ─── */}
+      <section id="radionice" className="py-20 px-4 md:px-8 bg-panel border-y border-edge-2">
+        <div className="max-w-[1100px] mx-auto">
+          <Reveal className="text-center mb-14">
+            <span className="text-[12px] uppercase tracking-[0.18em] text-ink-2 block mb-3">Edukacija</span>
+            <h2 className="text-[32px] md:text-[46px] font-medium tracking-[-1.2px] text-ink mb-4">Radionice, obuke i seminari</h2>
+            <p className="text-[15px] text-ink-2 leading-[26px] max-w-[600px] mx-auto">
+              Praktična znanja koja možete primeniti odmah. Bez teorije koja skuplja prašinu. Plaćanje na licu mesta ili fakturom preko firme.
+            </p>
+          </Reveal>
+
+          {/* Featured seminar */}
+          <Reveal className="mb-6">
+            <div className="relative bg-tint rounded-[16px] border border-edge-2 overflow-hidden">
+              <div className="absolute top-4 right-4 bg-black text-white text-[11px] font-bold uppercase tracking-wider px-3 py-1.5 rounded-full z-10">
+                🔥 Sledeći: 27. mart
+              </div>
+              <div className="p-7 md:p-9">
+                <div className="flex items-center gap-2 mb-3">
+                  <span className="text-[11px] bg-amber-500/10 text-amber-600 px-2.5 py-1 rounded-full font-medium">Uživo · Zlatibor</span>
+                  <span className="text-[11px] bg-tint-2 text-ink-2 px-2.5 py-1 rounded-full font-medium">3 dana</span>
+                  <span className="text-[11px] bg-tint-2 text-ink-2 px-2.5 py-1 rounded-full font-medium">Svakih 2 meseca</span>
+                </div>
+                <h3 className="text-[22px] md:text-[28px] font-medium text-ink mb-3 leading-tight">
+                  Trodnevni seminar: Napredni AI alati i primena u poslovanju i marketingu
+                </h3>
+                <p className="text-[15px] text-ink-2 leading-[26px] mb-5 max-w-[700px]">
+                  Tri dana intenzivnog rada sa AI alatima koji menjaju način poslovanja. Od ChatGPT i automatizacije do AI u marketingu, prodaji i organizaciji. Sve što naučite, primenićete već tokom seminara na svom biznisu.
+                </p>
+                <div className="flex flex-wrap items-center gap-4 mb-2">
+                  <div className="text-[28px] md:text-[34px] font-bold text-ink">120.000 <span className="text-[16px] font-medium text-ink-2">RSD</span></div>
+                </div>
+                <p className="text-[13px] text-ink-3">✅ Smeštaj i hrana uračunati u cenu seminara</p>
+              </div>
+            </div>
+          </Reveal>
+
+          {/* Other offerings grid */}
+          <div className="grid md:grid-cols-2 gap-4 mb-6">
+            <Reveal delay={40}>
+              <div className="bg-tint rounded-[16px] border border-edge-2 p-7 h-full flex flex-col">
+                <div className="flex items-center gap-2 mb-3">
+                  <span className="text-[11px] bg-blue-500/10 text-blue-600 px-2.5 py-1 rounded-full font-medium">Uživo</span>
+                  <span className="text-[11px] bg-tint-2 text-ink-2 px-2.5 py-1 rounded-full font-medium">1 dan</span>
+                </div>
+                <h3 className="text-[18px] md:text-[20px] font-medium text-ink mb-2 leading-tight">
+                  Jednodnevni seminar: AI alati u digitalnom marketingu
+                </h3>
+                <p className="text-[14px] text-ink-2 leading-[24px] mb-4 flex-1">
+                  Praktičan pregled AI alata za kreiranje sadržaja, automatizaciju kampanja, analizu podataka i optimizaciju oglasa. Donosite laptop, odlazite sa gotovim sistemom.
+                </p>
+                <div className="text-[24px] font-bold text-ink">30.000 <span className="text-[14px] font-medium text-ink-2">RSD</span></div>
+              </div>
+            </Reveal>
+
+            <Reveal delay={80}>
+              <div className="bg-tint rounded-[16px] border border-edge-2 p-7 h-full flex flex-col">
+                <div className="flex items-center gap-2 mb-3">
+                  <span className="text-[11px] bg-green-500/10 text-green-600 px-2.5 py-1 rounded-full font-medium">Zoom</span>
+                  <span className="text-[11px] bg-tint-2 text-ink-2 px-2.5 py-1 rounded-full font-medium">Online obuka</span>
+                </div>
+                <h3 className="text-[18px] md:text-[20px] font-medium text-ink mb-2 leading-tight">
+                  Obuka: Puštanje Meta kampanje od nule
+                </h3>
+                <p className="text-[14px] text-ink-2 leading-[24px] mb-4 flex-1">
+                  Korak po korak kroz Facebook i Instagram Ads Manager. Od podešavanja piksela do prve kampanje koja donosi rezultate. Radimo zajedno na vašem nalogu.
+                </p>
+                <div className="text-[24px] font-bold text-ink">15.000 <span className="text-[14px] font-medium text-ink-2">RSD</span></div>
+              </div>
+            </Reveal>
+
+            <Reveal delay={120}>
+              <div className="bg-tint rounded-[16px] border border-edge-2 p-7 h-full flex flex-col">
+                <div className="flex items-center gap-2 mb-3">
+                  <span className="text-[11px] bg-green-500/10 text-green-600 px-2.5 py-1 rounded-full font-medium">Zoom</span>
+                  <span className="text-[11px] bg-tint-2 text-ink-2 px-2.5 py-1 rounded-full font-medium">Online obuka</span>
+                </div>
+                <h3 className="text-[18px] md:text-[20px] font-medium text-ink mb-2 leading-tight">
+                  Obuka: Personalni AI asistent na WhatsApp-u ili Telegram-u
+                </h3>
+                <p className="text-[14px] text-ink-2 leading-[24px] mb-4 flex-1">
+                  Podešavamo vam ličnog AI asistenta koji živi u vašem WhatsApp ili Telegram nalogu. Pomaže da organizujete život, ne propustite nijedan mail i bolje rasporedite vreme.
+                </p>
+                <div className="text-[24px] font-bold text-ink">24.000 <span className="text-[14px] font-medium text-ink-2">RSD</span></div>
+              </div>
+            </Reveal>
+
+            <Reveal delay={160}>
+              <div className="bg-tint rounded-[16px] border border-edge-2 p-7 h-full flex flex-col">
+                <div className="flex items-center gap-2 mb-3">
+                  <span className="text-[11px] bg-purple-500/10 text-purple-600 px-2.5 py-1 rounded-full font-medium">1 na 1</span>
+                  <span className="text-[11px] bg-tint-2 text-ink-2 px-2.5 py-1 rounded-full font-medium">2h nedeljno</span>
+                </div>
+                <h3 className="text-[18px] md:text-[20px] font-medium text-ink mb-2 leading-tight">
+                  Poslovno savetovanje 1 na 1
+                </h3>
+                <p className="text-[14px] text-ink-2 leading-[24px] mb-4 flex-1">
+                  Dva sata nedeljno posvećena isključivo vašem biznisu. Strategija, operacije, marketing, prodaja. Direktan pristup našem iskustvu, bez filtera.
+                </p>
+                <div className="text-[24px] font-bold text-ink">85.000 <span className="text-[14px] font-medium text-ink-2">RSD/mesečno</span></div>
+              </div>
+            </Reveal>
+          </div>
+        </div>
+      </section>
+
+      {/* ─── Prijava forma ─── */}
+      <section id="prijava" className="py-20 px-4 md:px-8">
+        <div className="max-w-[600px] mx-auto">
+          <Reveal className="text-center mb-10">
+            <h2 className="text-[30px] md:text-[40px] font-medium tracking-[-1px] text-ink mb-3">Rezervišite mesto</h2>
+            <p className="text-[15px] text-ink-2 leading-[26px]">
+              Popunite formu i javićemo vam se u roku od 24h sa svim detaljima. Plaćanje na licu mesta ili fakturom preko firme.
+            </p>
+          </Reveal>
+
+          <Reveal delay={60}>
+            <form
+              onSubmit={(e) => {
+                e.preventDefault()
+                const fd = new FormData(e.target)
+                const data = Object.fromEntries(fd)
+                window.open(`https://wa.me/381668168929?text=${encodeURIComponent(
+                  `Prijava za: ${data.program}\nIme: ${data.name}\nTelefon: ${data.phone}\nEmail: ${data.email}\nFirma: ${data.company}`
+                )}`, '_blank')
+                e.target.reset()
+              }}
+              className="bg-panel rounded-[16px] border border-edge-2 p-7 md:p-9 space-y-5"
+            >
+              <div>
+                <label className="block text-[13px] font-medium text-ink mb-2">Program *</label>
+                <select name="program" required className="w-full h-11 px-4 rounded-[10px] bg-tint border border-edge-2 text-[14px] text-ink focus:outline-none focus:ring-2 focus:ring-black/10 appearance-none cursor-pointer">
+                  <option value="">Izaberite program</option>
+                  <option value="Trodnevni seminar - Zlatibor (120.000 RSD)">🏔️ Trodnevni seminar - Zlatibor (120.000 RSD)</option>
+                  <option value="Jednodnevni seminar - AI u marketingu (30.000 RSD)">📍 Jednodnevni seminar - AI u marketingu (30.000 RSD)</option>
+                  <option value="Zoom obuka - Meta kampanje (15.000 RSD)">💻 Zoom - Meta kampanje (15.000 RSD)</option>
+                  <option value="Zoom obuka - AI asistent WhatsApp/Telegram (24.000 RSD)">🤖 Zoom - AI asistent WhatsApp/Telegram (24.000 RSD)</option>
+                  <option value="Poslovno savetovanje 1na1 (85.000 RSD/mes)">🤝 Poslovno savetovanje 1 na 1 (85.000 RSD/mes)</option>
+                </select>
+              </div>
+
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                <div>
+                  <label className="block text-[13px] font-medium text-ink mb-2">Ime i prezime *</label>
+                  <input name="name" type="text" required placeholder="Vaše ime i prezime"
+                    className="w-full h-11 px-4 rounded-[10px] bg-tint border border-edge-2 text-[14px] text-ink placeholder:text-ink-3 focus:outline-none focus:ring-2 focus:ring-black/10"
+                  />
+                </div>
+                <div>
+                  <label className="block text-[13px] font-medium text-ink mb-2">Telefon *</label>
+                  <input name="phone" type="tel" required placeholder="+381..."
+                    className="w-full h-11 px-4 rounded-[10px] bg-tint border border-edge-2 text-[14px] text-ink placeholder:text-ink-3 focus:outline-none focus:ring-2 focus:ring-black/10"
+                  />
+                </div>
+              </div>
+
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                <div>
+                  <label className="block text-[13px] font-medium text-ink mb-2">Email *</label>
+                  <input name="email" type="email" required placeholder="vas@email.com"
+                    className="w-full h-11 px-4 rounded-[10px] bg-tint border border-edge-2 text-[14px] text-ink placeholder:text-ink-3 focus:outline-none focus:ring-2 focus:ring-black/10"
+                  />
+                </div>
+                <div>
+                  <label className="block text-[13px] font-medium text-ink mb-2">Ime firme *</label>
+                  <input name="company" type="text" required placeholder="Naziv vaše firme"
+                    className="w-full h-11 px-4 rounded-[10px] bg-tint border border-edge-2 text-[14px] text-ink placeholder:text-ink-3 focus:outline-none focus:ring-2 focus:ring-black/10"
+                  />
+                </div>
+              </div>
+
+              <button type="submit" className="w-full h-12 bg-black text-white text-[14px] font-medium rounded-[10px] hover:bg-black/80 transition-colors cursor-pointer flex items-center justify-center gap-2">
+                Pošalji prijavu
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5"><path d="M5 12h14M12 5l7 7-7 7" /></svg>
+              </button>
+
+              <p className="text-[12px] text-ink-3 text-center">
+                Prijava vas ne obavezuje na plaćanje. Javićemo vam se sa svim detaljima i potvrdom.
+              </p>
+            </form>
+          </Reveal>
+        </div>
+      </section>
+
       <BottomCTA />
     </>
   )
