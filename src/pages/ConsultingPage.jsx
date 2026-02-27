@@ -1,8 +1,98 @@
-import { motion } from 'framer-motion'
-import { useState } from 'react'
+import { motion, AnimatePresence } from 'framer-motion'
+import { useState, useCallback } from 'react'
 import { Link } from 'react-router-dom'
 import Reveal from '../components/Reveal'
 import BottomCTA from '../components/BottomCTA'
+
+/* ─── Signup Modal ─── */
+function SignupModal({ program, onClose }) {
+  const [sent, setSent] = useState(false)
+
+  const handleSubmit = useCallback((e) => {
+    e.preventDefault()
+    const fd = new FormData(e.target)
+    const d = Object.fromEntries(fd)
+    const msg = `Prijava za: ${program}\nIme: ${d.name}\nTelefon: ${d.phone}\nEmail: ${d.email}\nFirma: ${d.company}`
+
+    // Mobile → WhatsApp, Desktop → email
+    const isMobile = /Android|iPhone|iPad|iPod/i.test(navigator.userAgent)
+    if (isMobile) {
+      window.open(`https://wa.me/381605667795?text=${encodeURIComponent(msg)}`, '_blank')
+    } else {
+      const subject = encodeURIComponent(`Prijava: ${program}`)
+      const body = encodeURIComponent(msg)
+      window.open(`mailto:alnen96@gmail.com,aleksandar@platinumzenith.com?subject=${subject}&body=${body}`, '_blank')
+    }
+    setSent(true)
+    setTimeout(() => onClose(), 2000)
+  }, [program, onClose])
+
+  return (
+    <motion.div
+      initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}
+      className="fixed inset-0 z-[9999] flex items-center justify-center p-4"
+      onClick={onClose}
+    >
+      <div className="absolute inset-0 bg-black/50 backdrop-blur-sm" />
+      <motion.div
+        initial={{ scale: 0.95, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} exit={{ scale: 0.95, opacity: 0 }}
+        transition={{ type: 'spring', duration: 0.3 }}
+        className="relative bg-panel rounded-[16px] border border-edge-2 w-full max-w-[500px] max-h-[90vh] overflow-y-auto shadow-2xl"
+        onClick={e => e.stopPropagation()}
+      >
+        <div className="flex items-center justify-between px-7 pt-7 pb-2">
+          <h3 className="text-[18px] font-medium text-ink">Prijava</h3>
+          <button onClick={onClose} className="w-8 h-8 flex items-center justify-center rounded-full hover:bg-tint transition-colors cursor-pointer text-ink-2">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5"><path d="M18 6L6 18M6 6l12 12"/></svg>
+          </button>
+        </div>
+        <div className="px-7 pb-2">
+          <p className="text-[13px] text-ink-2 bg-tint rounded-[8px] px-3 py-2 border border-edge-2">{program}</p>
+        </div>
+
+        {sent ? (
+          <div className="px-7 py-10 text-center">
+            <div className="text-[32px] mb-3">✅</div>
+            <p className="text-[16px] font-medium text-ink mb-1">Prijava poslata!</p>
+            <p className="text-[13px] text-ink-2">Javićemo vam se u roku od 24h.</p>
+          </div>
+        ) : (
+          <form onSubmit={handleSubmit} className="px-7 pb-7 pt-4 space-y-4">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div>
+                <label className="block text-[13px] font-medium text-ink mb-1.5">Ime i prezime *</label>
+                <input name="name" type="text" required placeholder="Vaše ime i prezime"
+                  className="w-full h-11 px-4 rounded-[10px] bg-tint border border-edge-2 text-[14px] text-ink placeholder:text-ink-3 focus:outline-none focus:ring-2 focus:ring-black/10" />
+              </div>
+              <div>
+                <label className="block text-[13px] font-medium text-ink mb-1.5">Telefon *</label>
+                <input name="phone" type="tel" required placeholder="+381..."
+                  className="w-full h-11 px-4 rounded-[10px] bg-tint border border-edge-2 text-[14px] text-ink placeholder:text-ink-3 focus:outline-none focus:ring-2 focus:ring-black/10" />
+              </div>
+            </div>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div>
+                <label className="block text-[13px] font-medium text-ink mb-1.5">Email *</label>
+                <input name="email" type="email" required placeholder="vas@email.com"
+                  className="w-full h-11 px-4 rounded-[10px] bg-tint border border-edge-2 text-[14px] text-ink placeholder:text-ink-3 focus:outline-none focus:ring-2 focus:ring-black/10" />
+              </div>
+              <div>
+                <label className="block text-[13px] font-medium text-ink mb-1.5">Ime firme *</label>
+                <input name="company" type="text" required placeholder="Naziv vaše firme"
+                  className="w-full h-11 px-4 rounded-[10px] bg-tint border border-edge-2 text-[14px] text-ink placeholder:text-ink-3 focus:outline-none focus:ring-2 focus:ring-black/10" />
+              </div>
+            </div>
+            <button type="submit" className="w-full h-12 bg-black text-white text-[14px] font-medium rounded-[10px] hover:bg-black/80 transition-colors cursor-pointer flex items-center justify-center gap-2">
+              Pošalji prijavu
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+            </button>
+            <p className="text-[11px] text-ink-3 text-center">Plaćanje na licu mesta ili fakturom preko firme. Prijava vas ne obavezuje.</p>
+          </form>
+        )}
+      </motion.div>
+    </motion.div>
+  )
+}
 
 const heroHomeDark = `${import.meta.env.BASE_URL}hero-home-dark.webp`
 const heroHomeLight = `${import.meta.env.BASE_URL}hero-home-light.webp`
@@ -71,6 +161,8 @@ function AuditScore() {
 
 /* ─── Page ─── */
 export default function ConsultingPage() {
+  const [modalProgram, setModalProgram] = useState(null)
+
   return (
     <>
       {/* ─── Hero ─── */}
@@ -204,10 +296,10 @@ export default function ConsultingPage() {
           <Reveal className="mb-6">
             <div className="relative bg-tint rounded-[16px] border border-edge-2 overflow-hidden">
               <div className="absolute top-4 right-4 bg-black text-white text-[11px] font-bold uppercase tracking-wider px-3 py-1.5 rounded-full z-10">
-                🔥 Sledeći: 27. mart
+                🔥 Sledeći: 27. mart 2026
               </div>
               <div className="p-7 md:p-9">
-                <div className="flex items-center gap-2 mb-3">
+                <div className="flex items-center gap-2 mb-3 flex-wrap">
                   <span className="text-[11px] bg-amber-500/10 text-amber-600 px-2.5 py-1 rounded-full font-medium">Uživo · Zlatibor</span>
                   <span className="text-[11px] bg-tint-2 text-ink-2 px-2.5 py-1 rounded-full font-medium">3 dana</span>
                   <span className="text-[11px] bg-tint-2 text-ink-2 px-2.5 py-1 rounded-full font-medium">Svakih 2 meseca</span>
@@ -218,10 +310,15 @@ export default function ConsultingPage() {
                 <p className="text-[15px] text-ink-2 leading-[26px] mb-5 max-w-[700px]">
                   Tri dana intenzivnog rada sa AI alatima koji menjaju način poslovanja. Od ChatGPT i automatizacije do AI u marketingu, prodaji i organizaciji. Sve što naučite, primenićete već tokom seminara na svom biznisu.
                 </p>
-                <div className="flex flex-wrap items-center gap-4 mb-2">
+                <div className="flex flex-wrap items-center gap-4 mb-3">
                   <div className="text-[28px] md:text-[34px] font-bold text-ink">120.000 <span className="text-[16px] font-medium text-ink-2">RSD</span></div>
                 </div>
-                <p className="text-[13px] text-ink-3">✅ Smeštaj i hrana uračunati u cenu seminara</p>
+                <p className="text-[13px] text-ink-3 mb-5">✅ Smeštaj i hrana uračunati u cenu seminara</p>
+                <button onClick={() => setModalProgram('Trodnevni seminar: Napredni AI alati — Zlatibor, 27. mart 2026 (120.000 RSD)')}
+                  className="inline-flex items-center gap-1.5 bg-black text-white text-[13px] md:text-[14px] font-medium h-10 px-5 rounded-[40px] cursor-pointer hover:bg-black/80 transition-colors">
+                  Prijavite se
+                  <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+                </button>
               </div>
             </div>
           </Reveal>
@@ -233,6 +330,7 @@ export default function ConsultingPage() {
                 <div className="flex items-center gap-2 mb-3">
                   <span className="text-[11px] bg-blue-500/10 text-blue-600 px-2.5 py-1 rounded-full font-medium">Uživo</span>
                   <span className="text-[11px] bg-tint-2 text-ink-2 px-2.5 py-1 rounded-full font-medium">1 dan</span>
+                  <span className="text-[11px] bg-black text-white px-2.5 py-1 rounded-full font-medium">14. mart 2026</span>
                 </div>
                 <h3 className="text-[18px] md:text-[20px] font-medium text-ink mb-2 leading-tight">
                   Jednodnevni seminar: AI alati u digitalnom marketingu
@@ -240,7 +338,13 @@ export default function ConsultingPage() {
                 <p className="text-[14px] text-ink-2 leading-[24px] mb-4 flex-1">
                   Praktičan pregled AI alata za kreiranje sadržaja, automatizaciju kampanja, analizu podataka i optimizaciju oglasa. Donosite laptop, odlazite sa gotovim sistemom.
                 </p>
-                <div className="text-[24px] font-bold text-ink">30.000 <span className="text-[14px] font-medium text-ink-2">RSD</span></div>
+                <div className="flex items-center justify-between">
+                  <div className="text-[24px] font-bold text-ink">30.000 <span className="text-[14px] font-medium text-ink-2">RSD</span></div>
+                  <button onClick={() => setModalProgram('Jednodnevni seminar: AI alati u digitalnom marketingu — 14. mart 2026 (30.000 RSD)')}
+                    className="inline-flex items-center gap-1.5 bg-black text-white text-[13px] font-medium h-9 px-4 rounded-[40px] cursor-pointer hover:bg-black/80 transition-colors">
+                    Prijavite se
+                  </button>
+                </div>
               </div>
             </Reveal>
 
@@ -256,7 +360,13 @@ export default function ConsultingPage() {
                 <p className="text-[14px] text-ink-2 leading-[24px] mb-4 flex-1">
                   Korak po korak kroz Facebook i Instagram Ads Manager. Od podešavanja piksela do prve kampanje koja donosi rezultate. Radimo zajedno na vašem nalogu.
                 </p>
-                <div className="text-[24px] font-bold text-ink">15.000 <span className="text-[14px] font-medium text-ink-2">RSD</span></div>
+                <div className="flex items-center justify-between">
+                  <div className="text-[24px] font-bold text-ink">35.000 <span className="text-[14px] font-medium text-ink-2">RSD</span></div>
+                  <button onClick={() => setModalProgram('Zoom obuka: Puštanje Meta kampanje od nule (35.000 RSD)')}
+                    className="inline-flex items-center gap-1.5 bg-black text-white text-[13px] font-medium h-9 px-4 rounded-[40px] cursor-pointer hover:bg-black/80 transition-colors">
+                    Prijavite se
+                  </button>
+                </div>
               </div>
             </Reveal>
 
@@ -272,7 +382,13 @@ export default function ConsultingPage() {
                 <p className="text-[14px] text-ink-2 leading-[24px] mb-4 flex-1">
                   Podešavamo vam ličnog AI asistenta koji živi u vašem WhatsApp ili Telegram nalogu. Pomaže da organizujete život, ne propustite nijedan mail i bolje rasporedite vreme.
                 </p>
-                <div className="text-[24px] font-bold text-ink">24.000 <span className="text-[14px] font-medium text-ink-2">RSD</span></div>
+                <div className="flex items-center justify-between">
+                  <div className="text-[24px] font-bold text-ink">24.000 <span className="text-[14px] font-medium text-ink-2">RSD</span></div>
+                  <button onClick={() => setModalProgram('Zoom obuka: Personalni AI asistent WhatsApp/Telegram (24.000 RSD)')}
+                    className="inline-flex items-center gap-1.5 bg-black text-white text-[13px] font-medium h-9 px-4 rounded-[40px] cursor-pointer hover:bg-black/80 transition-colors">
+                    Prijavite se
+                  </button>
+                </div>
               </div>
             </Reveal>
 
@@ -288,90 +404,23 @@ export default function ConsultingPage() {
                 <p className="text-[14px] text-ink-2 leading-[24px] mb-4 flex-1">
                   Dva sata nedeljno posvećena isključivo vašem biznisu. Strategija, operacije, marketing, prodaja. Direktan pristup našem iskustvu, bez filtera.
                 </p>
-                <div className="text-[24px] font-bold text-ink">85.000 <span className="text-[14px] font-medium text-ink-2">RSD/mesečno</span></div>
+                <div className="flex items-center justify-between">
+                  <div className="text-[24px] font-bold text-ink">85.000 <span className="text-[14px] font-medium text-ink-2">RSD/mes</span></div>
+                  <button onClick={() => setModalProgram('Poslovno savetovanje 1 na 1 — 2h nedeljno (85.000 RSD/mesečno)')}
+                    className="inline-flex items-center gap-1.5 bg-black text-white text-[13px] font-medium h-9 px-4 rounded-[40px] cursor-pointer hover:bg-black/80 transition-colors">
+                    Prijavite se
+                  </button>
+                </div>
               </div>
             </Reveal>
           </div>
         </div>
       </section>
 
-      {/* ─── Prijava forma ─── */}
-      <section id="prijava" className="py-20 px-4 md:px-8">
-        <div className="max-w-[600px] mx-auto">
-          <Reveal className="text-center mb-10">
-            <h2 className="text-[30px] md:text-[40px] font-medium tracking-[-1px] text-ink mb-3">Rezervišite mesto</h2>
-            <p className="text-[15px] text-ink-2 leading-[26px]">
-              Popunite formu i javićemo vam se u roku od 24h sa svim detaljima. Plaćanje na licu mesta ili fakturom preko firme.
-            </p>
-          </Reveal>
-
-          <Reveal delay={60}>
-            <form
-              onSubmit={(e) => {
-                e.preventDefault()
-                const fd = new FormData(e.target)
-                const data = Object.fromEntries(fd)
-                window.open(`https://wa.me/381668168929?text=${encodeURIComponent(
-                  `Prijava za: ${data.program}\nIme: ${data.name}\nTelefon: ${data.phone}\nEmail: ${data.email}\nFirma: ${data.company}`
-                )}`, '_blank')
-                e.target.reset()
-              }}
-              className="bg-panel rounded-[16px] border border-edge-2 p-7 md:p-9 space-y-5"
-            >
-              <div>
-                <label className="block text-[13px] font-medium text-ink mb-2">Program *</label>
-                <select name="program" required className="w-full h-11 px-4 rounded-[10px] bg-tint border border-edge-2 text-[14px] text-ink focus:outline-none focus:ring-2 focus:ring-black/10 appearance-none cursor-pointer">
-                  <option value="">Izaberite program</option>
-                  <option value="Trodnevni seminar - Zlatibor (120.000 RSD)">🏔️ Trodnevni seminar - Zlatibor (120.000 RSD)</option>
-                  <option value="Jednodnevni seminar - AI u marketingu (30.000 RSD)">📍 Jednodnevni seminar - AI u marketingu (30.000 RSD)</option>
-                  <option value="Zoom obuka - Meta kampanje (15.000 RSD)">💻 Zoom - Meta kampanje (15.000 RSD)</option>
-                  <option value="Zoom obuka - AI asistent WhatsApp/Telegram (24.000 RSD)">🤖 Zoom - AI asistent WhatsApp/Telegram (24.000 RSD)</option>
-                  <option value="Poslovno savetovanje 1na1 (85.000 RSD/mes)">🤝 Poslovno savetovanje 1 na 1 (85.000 RSD/mes)</option>
-                </select>
-              </div>
-
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                <div>
-                  <label className="block text-[13px] font-medium text-ink mb-2">Ime i prezime *</label>
-                  <input name="name" type="text" required placeholder="Vaše ime i prezime"
-                    className="w-full h-11 px-4 rounded-[10px] bg-tint border border-edge-2 text-[14px] text-ink placeholder:text-ink-3 focus:outline-none focus:ring-2 focus:ring-black/10"
-                  />
-                </div>
-                <div>
-                  <label className="block text-[13px] font-medium text-ink mb-2">Telefon *</label>
-                  <input name="phone" type="tel" required placeholder="+381..."
-                    className="w-full h-11 px-4 rounded-[10px] bg-tint border border-edge-2 text-[14px] text-ink placeholder:text-ink-3 focus:outline-none focus:ring-2 focus:ring-black/10"
-                  />
-                </div>
-              </div>
-
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                <div>
-                  <label className="block text-[13px] font-medium text-ink mb-2">Email *</label>
-                  <input name="email" type="email" required placeholder="vas@email.com"
-                    className="w-full h-11 px-4 rounded-[10px] bg-tint border border-edge-2 text-[14px] text-ink placeholder:text-ink-3 focus:outline-none focus:ring-2 focus:ring-black/10"
-                  />
-                </div>
-                <div>
-                  <label className="block text-[13px] font-medium text-ink mb-2">Ime firme *</label>
-                  <input name="company" type="text" required placeholder="Naziv vaše firme"
-                    className="w-full h-11 px-4 rounded-[10px] bg-tint border border-edge-2 text-[14px] text-ink placeholder:text-ink-3 focus:outline-none focus:ring-2 focus:ring-black/10"
-                  />
-                </div>
-              </div>
-
-              <button type="submit" className="w-full h-12 bg-black text-white text-[14px] font-medium rounded-[10px] hover:bg-black/80 transition-colors cursor-pointer flex items-center justify-center gap-2">
-                Pošalji prijavu
-                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5"><path d="M5 12h14M12 5l7 7-7 7" /></svg>
-              </button>
-
-              <p className="text-[12px] text-ink-3 text-center">
-                Prijava vas ne obavezuje na plaćanje. Javićemo vam se sa svim detaljima i potvrdom.
-              </p>
-            </form>
-          </Reveal>
-        </div>
-      </section>
+      {/* Signup Modal */}
+      <AnimatePresence>
+        {modalProgram && <SignupModal program={modalProgram} onClose={() => setModalProgram(null)} />}
+      </AnimatePresence>
 
       <BottomCTA />
     </>
