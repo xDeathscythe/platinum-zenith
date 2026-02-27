@@ -16,41 +16,31 @@ function SignupModal({ program, onClose }) {
     const fd = new FormData(e.target)
     const d = Object.fromEntries(fd)
 
-    const isMobile = /Android|iPhone|iPad|iPod/i.test(navigator.userAgent)
-
-    if (isMobile) {
+    try {
+      await fetch('https://formsubmit.co/ajax/alnen96@gmail.com', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+        body: JSON.stringify({
+          _subject: `Nova prijava: ${program}`,
+          _cc: 'aleksandar@platinumzenith.com',
+          _template: 'table',
+          Program: program,
+          'Ime i prezime': d.name,
+          Telefon: d.phone,
+          Email: d.email,
+          Firma: d.company,
+        })
+      })
+      setSent(true)
+      setSending(false)
+      setTimeout(() => onClose(), 2500)
+    } catch {
+      // Fallback to WhatsApp if Formsubmit fails
       const msg = `Prijava za: ${program}\nIme: ${d.name}\nTelefon: ${d.phone}\nEmail: ${d.email}\nFirma: ${d.company}`
       window.open(`https://wa.me/381605667795?text=${encodeURIComponent(msg)}`, '_blank')
       setSent(true)
       setSending(false)
       setTimeout(() => onClose(), 2000)
-    } else {
-      try {
-        await fetch('https://formsubmit.co/ajax/alnen96@gmail.com', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
-          body: JSON.stringify({
-            _subject: `Nova prijava: ${program}`,
-            _cc: 'aleksandar@platinumzenith.com',
-            _template: 'table',
-            Program: program,
-            'Ime i prezime': d.name,
-            Telefon: d.phone,
-            Email: d.email,
-            Firma: d.company,
-          })
-        })
-        setSent(true)
-        setSending(false)
-        setTimeout(() => onClose(), 2500)
-      } catch {
-        // Fallback to WhatsApp if email fails
-        const msg = `Prijava za: ${program}\nIme: ${d.name}\nTelefon: ${d.phone}\nEmail: ${d.email}\nFirma: ${d.company}`
-        window.open(`https://wa.me/381605667795?text=${encodeURIComponent(msg)}`, '_blank')
-        setSent(true)
-        setSending(false)
-        setTimeout(() => onClose(), 2000)
-      }
     }
   }, [program, onClose])
 
