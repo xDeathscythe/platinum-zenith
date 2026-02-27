@@ -51,8 +51,9 @@ export default function AboutPage() {
             Od internog tima do<br className="hidden md:inline" /> najjače agencije na Balkanu
           </h1>
           <p className="hero-enter hero-enter-d2 text-[14px] md:text-[15px] font-normal leading-[22px] md:leading-[26px] tracking-[-0.15px] text-black text-center mb-6 md:mb-8 max-w-[620px] mx-auto px-6 md:px-2">
-            Revenue share model znači da naši interesi idu u istom smeru kao vaši.
-            Kad vi rastete, mi rastemo sa vama. Kad rezultata nema, nema ni naše zarade.
+            Platinum Zenith je nastao iz potrebe, ne iz ambicije da budemo agencija.
+            Napravili smo tim koji je trebao da pomogne našim biznisima da dominiraju.
+            Rezultati su bili toliko dobri da su drugi počeli da traže istu pomoć.
           </p>
           <div className="hero-enter hero-enter-d3 flex items-center justify-center gap-2 flex-wrap px-2">
             <Link to="/kontakt" className="inline-flex items-center gap-1.5 bg-black text-white text-[13px] md:text-[14px] font-medium h-10 px-4 md:px-5 rounded-[40px] cursor-pointer hover:bg-black/80 transition-colors">
