@@ -67,29 +67,31 @@ export default function ContactPage() {
         <div className="absolute inset-0 z-[2] only-light" style={{ background: 'linear-gradient(to bottom, rgba(255,255,255,0) 46%, rgba(255,255,255,0.30) 62%, rgba(255,255,255,0.64) 76%, rgba(255,255,255,0.90) 90%, #ffffff 100%)' }} />
       </div>
 
-      <div className="relative z-10 w-full max-w-[800px] mx-auto">
+      <div className="relative z-10 w-full max-w-full overflow-hidden">
         <h1 className="hero-enter hero-enter-d1 text-[32px] md:text-[62px] font-medium leading-[1.1] md:leading-[62px] tracking-[-1px] md:tracking-[-1.86px] text-black mb-4">
           Hajde da razgovaramo
         </h1>
-        <p className="hero-enter hero-enter-d2 text-[14px] md:text-[15px] font-normal leading-[22px] md:leading-[26px] tracking-[-0.15px] text-black text-center max-w-[580px] mx-auto px-6 md:px-2 mb-4">
+        <p className="hero-enter hero-enter-d2 text-[14px] md:text-[15px] font-normal leading-[22px] md:leading-[26px] tracking-[-0.15px] text-black text-center mb-6 md:mb-8 max-w-[620px] mx-auto px-6 md:px-2">
           Zakažite besplatan poziv ili nam pošaljite poruku. Odgovaramo u roku od 24 sata.
         </p>
-        <p className="hero-enter hero-enter-d3 text-[13px] md:text-[14px] text-black/60 mb-10 md:mb-14">
+        <p className="hero-enter hero-enter-d3 text-[13px] md:text-[14px] text-black/60">
           Odaberite termin koji vam odgovara. Informativni razgovor traje 15 minuta i potpuno je besplatan.
         </p>
-      </div>
 
-      {/* Calendar window — same style as homepage AppPreview container */}
-      <motion.div
-        initial={{ opacity: 0, y: 30 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ delay: 0.2, duration: 0.6, ease: [0.4, 0, 0.2, 1] }}
-        className="relative z-10 w-full max-w-[900px] mx-auto"
-      >
-        <div className="theme-dark bg-panel rounded-[16px] border border-edge-2 overflow-hidden">
-          <CalInlineEmbed />
+        {/* Calendar window — same layout as homepage AppPreview */}
+        <div className="hero-enter hero-enter-d4 mt-16 md:mt-32">
+          <motion.div
+            initial={{ opacity: 0, y: 30 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.2, duration: 0.6, ease: [0.4, 0, 0.2, 1] }}
+            className="mx-auto max-w-[1164px]"
+          >
+            <div className="theme-dark bg-panel rounded-[16px] border border-edge-2 overflow-hidden">
+              <CalInlineEmbed />
+            </div>
+          </motion.div>
         </div>
-      </motion.div>
+      </div>
     </section>
 
     {/* ─── Contact form + info ─── */}
