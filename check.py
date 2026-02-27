@@ -1,0 +1,16 @@
+from playwright.sync_api import sync_playwright
+with sync_playwright() as p:
+    b = p.chromium.launch()
+    page = b.new_page(viewport={"width": 390, "height": 844})
+    page.goto("http://127.0.0.1:5174/platinum-zenith/", wait_until="networkidle", timeout=15000)
+    page.wait_for_timeout(2000)
+    page.keyboard.press("End")
+    page.wait_for_timeout(500)
+    page.evaluate("window.scrollBy(0, -900)")
+    page.wait_for_timeout(500)
+    page.screenshot(path="check-cta.png", full_page=False)
+    page.evaluate("window.scrollBy(0, 350)")
+    page.wait_for_timeout(300)
+    page.screenshot(path="check-trans.png", full_page=False)
+    print("OK")
+    b.close()

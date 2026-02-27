@@ -198,7 +198,7 @@ function VideoAdCard({ ad, delay = 0 }) {
       initial={{ opacity: 0, y: 30 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.5, delay, ease: [0.25, 0.1, 0.25, 1] }}
-      className="bg-[#1a1a1a] rounded-[16px] overflow-hidden w-[220px] flex-shrink-0 border border-white/[0.06]"
+      className="bg-tile rounded-[16px] overflow-hidden w-[220px] flex-shrink-0 border border-edge-2"
     >
       {/* Header — profile + active badge */}
       <div className="px-3.5 pt-3.5 pb-2">
@@ -207,7 +207,7 @@ function VideoAdCard({ ad, delay = 0 }) {
             <div className={`w-7 h-7 rounded-full bg-gradient-to-br ${ad.avatarBg} flex items-center justify-center text-[12px]`}>
               {ad.avatar}
             </div>
-            <span className="text-[12px] text-white/70 font-medium truncate max-w-[120px]">{ad.profile}</span>
+            <span className="text-[12px] text-ink-2 font-medium truncate max-w-[120px]">{ad.profile}</span>
           </div>
           <span className="flex items-center gap-1">
             <span className="text-[8px] text-emerald-400/60 font-medium uppercase tracking-wider">Active</span>
@@ -217,9 +217,9 @@ function VideoAdCard({ ad, delay = 0 }) {
       </div>
 
       {/* Video thumbnail area */}
-      <div className={`mx-3 h-[180px] rounded-[12px] bg-gradient-to-br ${ad.thumbnail} flex flex-col items-center justify-center mb-2.5 relative overflow-hidden`}>
+      <div className={`mx-3 rounded-[12px] bg-gradient-to-br ${ad.thumbnail} flex flex-col items-center justify-center mb-2.5 relative overflow-hidden`} style={{ aspectRatio: '4/5' }}>
         {/* Video play indicator */}
-        <div className="absolute top-2.5 right-2.5 w-7 h-7 rounded-full bg-black/40 backdrop-blur-sm flex items-center justify-center">
+        <div className="absolute top-2.5 right-2.5 w-7 h-7 rounded-full bg-page/40 backdrop-blur-sm flex items-center justify-center">
           <svg width="12" height="12" viewBox="0 0 24 24" fill="white" opacity="0.7">
             <path d="M15.54 8.46a5.99 5.99 0 0 1 0 7.07l-1.41-1.41a4 4 0 0 0 0-4.24l1.41-1.42zM19.07 5.93a10 10 0 0 1 0 12.14l-1.41-1.41a8 8 0 0 0 0-9.32l1.41-1.41z"/>
             <circle cx="9" cy="12" r="3"/>
@@ -227,7 +227,7 @@ function VideoAdCard({ ad, delay = 0 }) {
         </div>
         {ad.overlayText ? (
           <div className="text-center px-3">
-            <p className="text-[13px] font-bold text-white leading-[1.3] tracking-wide whitespace-pre-line drop-shadow-lg">
+            <p className="text-[13px] font-bold text-ink leading-[1.3] tracking-wide whitespace-pre-line drop-shadow-lg">
               {ad.overlayText}
             </p>
             <div className="mt-3 text-[28px]">{ad.overlayImage}</div>
@@ -240,16 +240,16 @@ function VideoAdCard({ ad, delay = 0 }) {
       {/* Metrics — likes + followers */}
       <div className="px-3.5 pb-3.5 flex gap-4">
         <div>
-          <div className="text-[8px] text-white/25 uppercase tracking-wider font-medium">Likes</div>
+          <div className="text-[8px] text-ink/25 uppercase tracking-wider font-medium">Likes</div>
           <div className="flex items-center gap-1">
-            <span className="text-[15px] text-white font-semibold">{ad.likes}</span>
+            <span className="text-[15px] text-ink font-semibold">{ad.likes}</span>
             <span className="text-[10px] text-emerald-400 font-medium">{ad.likesChange}</span>
           </div>
         </div>
         <div>
-          <div className="text-[8px] text-white/25 uppercase tracking-wider font-medium">Followers</div>
+          <div className="text-[8px] text-ink/25 uppercase tracking-wider font-medium">Followers</div>
           <div className="flex items-center gap-1">
-            <span className="text-[15px] text-white font-semibold">{ad.followers}</span>
+            <span className="text-[15px] text-ink font-semibold">{ad.followers}</span>
             <span className="text-[10px] text-emerald-400 font-medium">{ad.followersChange}</span>
           </div>
         </div>
@@ -304,16 +304,16 @@ function ScrollRow({ ads, direction = 'left', speed = 30 }) {
 /* ─── Main Component ────────────────────────────── */
 export default function VideoAdsShowcase() {
   return (
-    <section className="relative py-20 md:py-28 overflow-hidden bg-black">
+    <section className="relative py-20 md:py-28 overflow-hidden bg-page">
       {/* Container with rounded dark card like Arcads */}
       <div className="mx-auto max-w-[1200px] px-4">
-        <div className="relative bg-[#0a0a0a] rounded-[24px] border border-white/[0.04] pt-12 md:pt-16 pb-6 overflow-hidden">
+        <div className="relative bg-panel rounded-[24px] border border-edge-2 pt-12 md:pt-16 pb-6 overflow-hidden">
           {/* Giant background stat text — like Arcads "+1B VIEWS" */}
           <div className="text-center mb-2 relative">
-            <h2 className="text-[56px] sm:text-[80px] md:text-[110px] lg:text-[140px] font-bold text-white/[0.07] leading-[0.9] tracking-tight select-none uppercase">
+            <h2 className="text-[56px] sm:text-[80px] md:text-[110px] lg:text-[140px] font-bold text-ink/[0.07] leading-[0.9] tracking-tight select-none uppercase">
               +1B Views
             </h2>
-            <p className="text-[15px] md:text-[18px] text-white/40 font-normal mt-3 md:mt-2">
+            <p className="text-[15px] md:text-[18px] text-ink-4 font-normal mt-3 md:mt-2">
               Marketing koji radi više nego što piše na pakovanju!
             </p>
           </div>

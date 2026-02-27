@@ -1,202 +1,226 @@
 import { motion } from 'framer-motion'
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
+import Reveal from '../components/Reveal'
 import BottomCTA from '../components/BottomCTA'
 
-/* ─── Interactive Heatmap Mock ─────────── */
-function HeatmapMock() {
-  return (
-    <div className="bg-[#0c0c0c] rounded-[11px] border border-white/[0.08] overflow-hidden">
-      <div className="flex items-center justify-between px-5 py-3 border-b border-white/[0.06]">
-        <span className="text-[13px] text-white/50 font-medium">Heatmap analiza</span>
-        <div className="flex gap-2">
-          {['Klikovi', 'Scroll', 'Pokreti'].map(t => (
-            <span key={t} className="text-[11px] text-white/20 hover:text-white/40 cursor-pointer transition-colors">{t}</span>
-          ))}
-        </div>
-      </div>
-      <div className="relative h-[300px] p-4">
-        {/* Page mockup */}
-        <div className="w-full h-full bg-white/[0.02] rounded-lg relative overflow-hidden">
-          {/* Header */}
-          <div className="h-8 bg-white/[0.03] border-b border-white/[0.04] flex items-center px-3">
-            <div className="w-16 h-2 bg-white/10 rounded" />
-            <div className="ml-auto flex gap-2">
-              <div className="w-8 h-2 bg-white/5 rounded" />
-              <div className="w-8 h-2 bg-white/5 rounded" />
-            </div>
-          </div>
-
-          {/* Heatmap blobs */}
-          <div className="absolute top-12 left-1/2 -translate-x-1/2 w-32 h-32 rounded-full bg-red-500/30 blur-xl" />
-          <div className="absolute top-20 left-1/3 w-20 h-20 rounded-full bg-yellow-500/20 blur-lg" />
-          <div className="absolute top-40 right-1/4 w-16 h-16 rounded-full bg-orange-500/15 blur-lg" />
-          <div className="absolute bottom-16 left-1/4 w-24 h-24 rounded-full bg-red-600/20 blur-xl" />
-
-          {/* Content elements */}
-          <div className="absolute top-14 left-1/2 -translate-x-1/2 text-center">
-            <div className="w-40 h-3 bg-white/15 rounded mb-2 mx-auto" />
-            <div className="w-28 h-2 bg-white/8 rounded mx-auto" />
-          </div>
-          <div className="absolute top-32 left-1/2 -translate-x-1/2">
-            <div className="w-24 h-6 bg-white/20 rounded-full" />
-          </div>
-
-          {/* Click markers */}
-          {[[45, 30], [52, 42], [30, 55], [68, 35], [55, 70], [40, 82]].map(([x, y], i) => (
-            <motion.div key={i}
-              initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ delay: 0.5 + i * 0.15 }}
-              className="absolute w-3 h-3 rounded-full border-2 border-red-400"
-              style={{ left: `${x}%`, top: `${y}%`, backgroundColor: 'rgba(239,68,68,0.3)' }} />
-          ))}
-        </div>
-      </div>
-    </div>
-  )
-}
+const heroHomeDark = `${import.meta.env.BASE_URL}hero-home-dark.webp`
+const heroHomeLight = `${import.meta.env.BASE_URL}hero-home-light.webp`
 
 /* ─── Before/After Metrics ─────────────── */
 function MetricsCompare() {
   const [showAfter, setShowAfter] = useState(false)
   const metrics = [
     { name: 'Stopa konverzije', before: '1.2%', after: '4.8%', change: '+300%', barBefore: 12, barAfter: 48 },
-    { name: 'Bounce rate', before: '72%', after: '31%', change: '-57%', barBefore: 72, barAfter: 31, inverted: true },
-    { name: 'Avg. session', before: '0:42', after: '3:15', change: '+364%', barBefore: 14, barAfter: 65 },
-    { name: 'Pages / session', before: '1.3', after: '4.2', change: '+223%', barBefore: 22, barAfter: 70 },
-    { name: 'Form completion', before: '8%', after: '34%', change: '+325%', barBefore: 8, barAfter: 34 },
+    { name: 'Bounce rate', before: '72%', after: '31%', change: '-57%', barBefore: 72, barAfter: 31 },
+    { name: 'Prosečna sesija', before: '0:42', after: '3:15', change: '+364%', barBefore: 14, barAfter: 65 },
+    { name: 'Stranica / sesija', before: '1.3', after: '4.2', change: '+223%', barBefore: 22, barAfter: 70 },
+    { name: 'Popunjenost formi', before: '8%', after: '34%', change: '+325%', barBefore: 8, barAfter: 34 },
   ]
 
   return (
-    <div className="bg-[#0c0c0c] rounded-[11px] border border-white/[0.08] overflow-hidden">
-      <div className="flex items-center justify-between px-5 py-3 border-b border-white/[0.06]">
-        <span className="text-[13px] text-white/50 font-medium">Rezultati optimizacije</span>
+    <div className="bg-panel rounded-[16px] border border-edge-2 overflow-hidden shadow-[0_8px_40px_rgba(0,0,0,0.08)]">
+      <div className="flex items-center justify-between px-5 py-3 border-b border-edge-2">
+        <span className="text-[13px] text-ink-2 font-medium">Rezultati optimizacije</span>
         <button onClick={() => setShowAfter(!showAfter)}
-          className={`text-[12px] px-3 py-1 rounded-full cursor-pointer transition-all ${showAfter ? 'bg-emerald-400/10 text-emerald-400' : 'bg-white/[0.06] text-white/40'}`}>
-          {showAfter ? '✓ Posle CRO' : 'Pre CRO'}
+          className={`text-[12px] px-3 py-1 rounded-full cursor-pointer transition-all ${showAfter ? 'bg-tint-2 text-ink' : 'bg-tint text-ink-2'}`}>
+          {showAfter ? 'Posle CRO' : 'Pre CRO'}
         </button>
       </div>
       <div className="p-5 space-y-4">
         {metrics.map((m, i) => (
           <div key={m.name}>
             <div className="flex items-center justify-between mb-1.5">
-              <span className="text-[13px] text-white/50">{m.name}</span>
+              <span className="text-[13px] text-ink-2">{m.name}</span>
               <div className="flex items-center gap-2">
-                <span className={`text-[13px] font-medium ${showAfter ? 'text-emerald-400' : 'text-white/40'}`}>
+                <span className={`text-[13px] font-medium ${showAfter ? 'text-ink' : 'text-ink-2'}`}>
                   {showAfter ? m.after : m.before}
                 </span>
                 {showAfter && (
                   <motion.span initial={{ opacity: 0, x: -5 }} animate={{ opacity: 1, x: 0 }}
-                    className={`text-[11px] font-bold ${m.inverted ? 'text-emerald-400' : 'text-emerald-400'}`}>{m.change}</motion.span>
+                    className="text-[11px] font-bold text-ink">{m.change}</motion.span>
                 )}
               </div>
             </div>
-            <div className="w-full h-2 bg-white/[0.04] rounded-full overflow-hidden">
-              <motion.div className="h-full rounded-full"
-                animate={{
-                  width: showAfter ? `${m.barAfter}%` : `${m.barBefore}%`,
-                  backgroundColor: showAfter ? (m.inverted ? '#22c55e' : '#22c55e') : (m.inverted ? '#ef4444' : '#ef4444'),
-                }}
+            <div className="w-full h-2 bg-tint rounded-full overflow-hidden">
+              <motion.div className="h-full rounded-full bg-ink"
+                animate={{ width: showAfter ? `${m.barAfter}%` : `${m.barBefore}%` }}
                 transition={{ duration: 0.8, delay: i * 0.05 }} />
             </div>
           </div>
         ))}
       </div>
       <div className="px-5 pb-4">
-        <div className="text-center py-3 bg-white/[0.02] rounded-lg">
-          <span className="text-[28px] font-bold text-emerald-400">{showAfter ? '+300%' : '—'}</span>
-          <span className="text-[14px] text-white/30 ml-2">prosečno poboljšanje</span>
+        <div className="text-center py-3 bg-tint rounded-lg">
+          <span className="text-[28px] font-bold text-ink">{showAfter ? '+300%' : '1.2%'}</span>
+          <span className="text-[14px] text-ink-2 ml-2">{showAfter ? 'prosečno poboljšanje' : 'prosečna konverzija pre CRO'}</span>
         </div>
       </div>
     </div>
   )
 }
 
-/* ─── Audit Checklist ──────────────────── */
-const auditItems = [
-  { category: 'UX & Navigacija', items: ['Korisničko putovanje', 'Navigaciona struktura', 'Mobile experience', 'Form UX audit'] },
-  { category: 'Performanse', items: ['Core Web Vitals', 'Brzina učitavanja', 'Server response time', 'Image optimizacija'] },
-  { category: 'Konverzija', items: ['CTA vidljivost i copy', 'Trust signali', 'Social proof', 'Urgency/scarcity elementi'] },
-  { category: 'Testiranje', items: ['A/B test framework', 'Heatmap postavljanje', 'Session recordings', 'Conversion tracking'] },
-]
-
+/* ─── Page ─── */
 export default function CROPage() {
   return (
     <>
-      {/* ─── Hero ─────────────────────── */}
-      <section className="pt-[120px] md:pt-[160px] pb-12 px-4 md:px-8">
-        <div className="max-w-[1200px] mx-auto grid md:grid-cols-2 gap-10 items-center">
-          <motion.div initial={{ opacity: 0, x: -30 }} animate={{ opacity: 1, x: 0 }}>
-            <span className="text-[12px] text-emerald-400/60 uppercase tracking-widest mb-3 block font-medium">CRO Optimizacija</span>
-            <h1 className="text-[36px] md:text-[52px] font-medium leading-[1.08] tracking-[-1.5px] text-white mb-5">
-              Više klijenata
-              <span className="block text-white/40">isti budžet</span>
-            </h1>
-            <p className="text-[16px] text-white/50 leading-[26px] mb-8 max-w-[480px]">
-              Čak i ako platite Googlu da vas prikazuje prve, bez CRO nećete dobiti klijente koje tražite. Mi optimizujemo svaki korak — od landing page-a do checkout-a.
-            </p>
-            <div className="flex items-center gap-3 flex-wrap">
-              <Link to="/kontakt" className="inline-flex items-center gap-1.5 bg-white text-black text-[14px] font-medium h-11 px-6 rounded-[40px] hover:bg-white/90 transition-colors">
-                Zakažite Audit →
-              </Link>
-              <Link to="/case-studies" className="inline-flex items-center text-[14px] text-white/50 font-medium hover:text-white transition-colors">
-                Pogledajte rezultate →
-              </Link>
-            </div>
-          </motion.div>
+      {/* ─── Hero — homepage structure ─── */}
+      <section className="relative flex flex-col items-center text-center pt-[160px] md:pt-[220px] pb-[20px] px-4 md:px-8 overflow-hidden">
+        <div className="absolute inset-0 z-0">
+          <div className="absolute inset-0 only-dark"
+            style={{ backgroundImage: `url(${heroHomeDark})`, backgroundSize: 'cover', backgroundPosition: 'center top', backgroundColor: '#000000' }}
+          />
+          <div className="absolute inset-0 only-light"
+            style={{ backgroundImage: `url(${heroHomeLight})`, backgroundSize: 'cover', backgroundPosition: 'center top', backgroundColor: '#ffffff' }}
+          />
+          <div className="absolute inset-x-0 z-[1]"
+            style={{ top: '55%', height: '45%', backdropFilter: 'blur(68px)', WebkitBackdropFilter: 'blur(68px)', maskImage: 'linear-gradient(to bottom, transparent 0%, black 20%, black 82%, transparent 100%)', WebkitMaskImage: 'linear-gradient(to bottom, transparent 0%, black 20%, black 82%, transparent 100%)' }}
+          />
+          <div className="absolute inset-0 z-[2] only-dark"
+            style={{ background: 'linear-gradient(to bottom, rgba(0,0,0,0) 40%, rgba(0,0,0,0.30) 58%, rgba(0,0,0,0.70) 74%, #000000 92%)' }}
+          />
+          <div className="absolute inset-0 z-[2] only-light"
+            style={{ background: 'linear-gradient(to bottom, rgba(255,255,255,0) 40%, rgba(255,255,255,0.35) 58%, rgba(255,255,255,0.75) 74%, #ffffff 92%)' }}
+          />
+        </div>
 
-          <motion.div initial={{ opacity: 0, x: 30 }} animate={{ opacity: 1, x: 0 }} transition={{ delay: 0.2 }}>
-            <HeatmapMock />
-          </motion.div>
+        <div className="relative z-10 w-full max-w-full overflow-hidden">
+          <h1 className="hero-enter hero-enter-d1 text-[32px] md:text-[62px] font-medium leading-[1.1] md:leading-[62px] tracking-[-1px] md:tracking-[-1.86px] text-black mb-4">
+            Više klijenata sa<br className="hidden md:inline" /> istim budžetom
+          </h1>
+
+          <p className="hero-enter hero-enter-d2 text-[14px] md:text-[15px] font-normal leading-[22px] md:leading-[26px] tracking-[-0.15px] text-black text-center mb-6 md:mb-8 max-w-[620px] mx-auto px-6 md:px-2">
+            CRO optimizacija pretvara vaš postojeći saobraćaj u kupce. Bez povećanja budžeta za oglase, bez čekanja na SEO rezultate.
+          </p>
+
+          <div className="hero-enter hero-enter-d3 flex items-center justify-center gap-2 flex-wrap px-2">
+            <Link to="/kontakt" className="inline-flex items-center gap-1.5 bg-black text-white text-[13px] md:text-[14px] font-medium h-10 px-4 md:px-5 rounded-[40px] cursor-pointer hover:bg-black/80 transition-colors">
+              Zakažite Besplatan Audit
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5"><path d="M5 12h14M12 5l7 7-7 7" /></svg>
+            </Link>
+          </div>
+
+          <div className="hero-enter hero-enter-d4 mt-10 md:mt-16">
+            <div className="max-w-[700px] mx-auto">
+              <MetricsCompare />
+            </div>
+          </div>
         </div>
       </section>
 
-      {/* ─── Before/After ─────────────── */}
-      <section className="py-20 px-4 md:px-8">
-        <div className="max-w-[1000px] mx-auto grid md:grid-cols-2 gap-12 items-center">
-          <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true }}>
-            <h2 className="text-[32px] md:text-[44px] font-medium tracking-[-1px] text-white mb-4">Prosečni rezultati</h2>
-            <p className="text-[16px] text-white/45 leading-[26px] mb-6">
-              Kliknite dugme da vidite razliku pre i posle naše CRO optimizacije. Ovo su prosečni rezultati naših klijenata.
-            </p>
-            <div className="space-y-3">
-              {['Heatmap & session recording analiza', 'A/B testiranje 10+ varijanti', 'Copy i CTA optimizacija', 'Mobile-first pristup'].map((t, i) => (
-                <motion.div key={t} initial={{ opacity: 0, x: -10 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true }} transition={{ delay: i * 0.08 }}
-                  className="flex items-start gap-2.5">
-                  <span className="text-emerald-400 mt-0.5 text-[14px]">✓</span>
-                  <span className="text-[14px] text-white/55">{t}</span>
-                </motion.div>
-              ))}
-            </div>
-          </motion.div>
-          <motion.div initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }}>
-            <MetricsCompare />
-          </motion.div>
-        </div>
-      </section>
-
-      {/* ─── Audit Checklist ──────────── */}
-      <section className="py-20 px-4 md:px-8">
+      {/* ─── Stats bar ─── */}
+      <Reveal className="py-8 px-4 md:px-8">
         <div className="max-w-[1100px] mx-auto">
-          <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true }} className="text-center mb-14">
-            <h2 className="text-[32px] md:text-[44px] font-medium tracking-[-1px] text-white mb-4">Šta uključuje CRO audit</h2>
-            <p className="text-[16px] text-white/40 max-w-[500px] mx-auto">Detaljno pregledamo 16+ aspekata vašeg sajta i identifikujemo prilike za rast.</p>
-          </motion.div>
-          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-5">
-            {auditItems.map((cat, ci) => (
-              <motion.div key={cat.category} initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ delay: ci * 0.1 }}
-                className="bg-white/[0.02] rounded-[11px] p-6 border border-white/[0.04]">
-                <h3 className="text-[15px] font-medium text-white mb-4">{cat.category}</h3>
-                <div className="space-y-2">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-0 bg-tint rounded-[11px] border border-edge-2 overflow-hidden">
+            {[
+              { v: '+300%', l: 'Prosečan rast konverzija' },
+              { v: '-57%', l: 'Smanjenje bounce rate' },
+              { v: '16+', l: 'Tačaka audita' },
+              { v: '90 dana', l: 'Do prvih rezultata' },
+            ].map(s => (
+              <div key={s.l} className="py-6 px-4 text-center border-r last:border-r-0 border-edge-2 md:border-b-0 border-b [&:nth-child(2)]:border-r-0 md:[&:nth-child(2)]:border-r">
+                <div className="text-[28px] md:text-[32px] font-bold text-ink">{s.v}</div>
+                <div className="text-[12px] text-ink-2 mt-1">{s.l}</div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </Reveal>
+
+      {/* ─── Problem section ─── */}
+      <section className="py-12 px-4 md:px-8">
+        <div className="max-w-[1100px] mx-auto">
+          <Reveal className="text-center mb-10">
+            <span className="text-[12px] uppercase tracking-[0.18em] text-ink-2">Zašto konverzija ne raste</span>
+            <h2 className="text-[32px] md:text-[46px] font-medium tracking-[-1.2px] text-ink mt-3 mb-4">Saobraćaj imate. Klijente nemate.</h2>
+            <p className="text-[16px] text-ink-2 max-w-[700px] mx-auto leading-[27px]">
+              Većina sajtova konvertuje manje od 2% posetilaca. To znači da 98 od 100 ljudi koji dođu na vaš sajt odu bez ijedne akcije.
+            </p>
+          </Reveal>
+
+          <div className="grid md:grid-cols-3 gap-4">
+            {[
+              { title: 'Nejasan poziv na akciju', text: 'Posetilac stigne na sajt i ne zna šta treba da uradi. Previše opcija, nijedan jasan sledeći korak.' },
+              { title: 'Spor ili nefunkcionalan sajt', text: 'Svaka sekunda kašnjenja smanjuje konverziju za 7%. Na mobilnom, situacija je još gora.' },
+              { title: 'Nema testiranja', text: 'Odluke o dizajnu se donose na osnovu ukusa umesto podataka. Bez A/B testova, optimizacija je nagađanje.' },
+            ].map((item, i) => (
+              <Reveal key={item.title} delay={i * 60} className="bg-panel border border-edge-2 rounded-[16px] p-6">
+                <h3 className="text-[20px] text-ink font-medium mb-2">{item.title}</h3>
+                <p className="text-[14px] text-ink-2 leading-[24px]">{item.text}</p>
+              </Reveal>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ─── What CRO audit covers ─── */}
+      <section className="py-16 px-4 md:px-8 bg-panel border-y border-edge-2">
+        <div className="max-w-[1100px] mx-auto">
+          <Reveal className="text-center mb-12">
+            <h2 className="text-[32px] md:text-[44px] font-medium tracking-[-1px] text-ink mb-3">Šta uključuje CRO audit</h2>
+            <p className="text-[15px] text-ink-2 max-w-[600px] mx-auto">Pregledamo 16+ aspekata vašeg sajta i identifikujemo gde gubite klijente.</p>
+          </Reveal>
+
+          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4">
+            {[
+              { category: 'UX i Navigacija', items: ['Korisničko putovanje', 'Navigaciona struktura', 'Mobile experience', 'Form UX'] },
+              { category: 'Performanse', items: ['Core Web Vitals', 'Brzina učitavanja', 'Server response', 'Image optimizacija'] },
+              { category: 'Konverzija', items: ['CTA vidljivost i copy', 'Trust signali', 'Social proof', 'Urgency elementi'] },
+              { category: 'Testiranje', items: ['A/B test framework', 'Heatmap analiza', 'Session recordings', 'Conversion tracking'] },
+            ].map((cat, ci) => (
+              <Reveal key={cat.category} delay={ci * 60} className="bg-tint rounded-[16px] p-6 border border-edge-2">
+                <h3 className="text-[15px] font-medium text-ink mb-4">{cat.category}</h3>
+                <div className="space-y-2.5">
                   {cat.items.map(item => (
                     <div key={item} className="flex items-center gap-2">
-                      <div className="w-1.5 h-1.5 rounded-full bg-emerald-400/40" />
-                      <span className="text-[13px] text-white/45">{item}</span>
+                      <div className="w-1.5 h-1.5 rounded-full bg-tint-2 flex-shrink-0" />
+                      <span className="text-[13px] text-ink-2">{item}</span>
                     </div>
                   ))}
                 </div>
-              </motion.div>
+              </Reveal>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* ─── Process ─── */}
+      <section className="py-16 px-4 md:px-8">
+        <div className="max-w-[900px] mx-auto">
+          <Reveal className="text-center mb-12">
+            <h2 className="text-[32px] md:text-[44px] font-medium tracking-[-1px] text-ink mb-3">Kako CRO proces izgleda</h2>
+            <p className="text-[15px] text-ink-2">Sistematičan pristup u 5 koraka. Svaki korak donosi merljivo poboljšanje.</p>
+          </Reveal>
+
+          <div className="grid md:grid-cols-5 gap-3">
+            {[
+              { title: 'Audit', desc: 'Heatmape, session recordings, analiza funnel-a' },
+              { title: 'Hipoteze', desc: 'Prioritetizujemo šta testiramo na osnovu potencijala' },
+              { title: 'Testiranje', desc: 'A/B testovi sa statistički značajnim rezultatima' },
+              { title: 'Implementacija', desc: 'Pobedničke varijante idu u produkciju' },
+              { title: 'Iteracija', desc: 'Novi krug testova, konstantan rast konverzije' },
+            ].map((s, i) => (
+              <Reveal key={s.title} delay={i * 60}
+                className="bg-tint rounded-[11px] p-5 text-center border border-edge-2 relative">
+                {i < 4 && <div className="hidden md:block absolute top-1/2 -right-2 text-ink-2 text-[16px]">→</div>}
+                <span className="text-[13px] text-ink-2 font-medium block mb-2">0{i + 1}</span>
+                <div className="text-[14px] font-medium text-ink mb-1">{s.title}</div>
+                <div className="text-[12px] text-ink-2 leading-relaxed">{s.desc}</div>
+              </Reveal>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ─── Guarantee ─── */}
+      <section className="py-12 px-4 md:px-8">
+        <div className="max-w-[900px] mx-auto">
+          <Reveal className="bg-panel border border-edge-2 rounded-[16px] p-7 md:p-9">
+            <h3 className="text-[24px] text-ink font-medium mb-3">Merljivi rezultati ili besplatan audit</h3>
+            <p className="text-[15px] text-ink-2 leading-[27px] max-w-[700px]">
+              Ako u prvih 90 dana ne vidite poboljšanje konverzije od minimum 20%, audit je besplatan. Radimo sa podacima, ne sa obećanjima. Svaki test, svaka promena i svaki rezultat je dokumentovan i transparentan.
+            </p>
+          </Reveal>
         </div>
       </section>
 

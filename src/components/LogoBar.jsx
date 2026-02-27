@@ -10,13 +10,13 @@ export default function LogoBar() {
     >
       <div className="px-5 md:px-8 flex items-center justify-center gap-8 sm:gap-14 flex-wrap">
         {/* cisco */}
-        <span className="text-[18px] sm:text-[20px] font-bold text-white/25 tracking-tight lowercase" style={{ fontFamily: 'DM Sans, sans-serif' }}>cisco</span>
+        <span className="text-[18px] sm:text-[20px] font-bold text-ink-2 tracking-tight lowercase" style={{ fontFamily: 'DM Sans, sans-serif' }}>cisco</span>
         {/* Instacart */}
-        <span className="text-[18px] sm:text-[20px] font-bold text-white/25 tracking-tight italic" style={{ fontFamily: 'DM Sans, sans-serif' }}>Instacart</span>
+        <span className="text-[18px] sm:text-[20px] font-bold text-ink-2 tracking-tight italic" style={{ fontFamily: 'DM Sans, sans-serif' }}>Instacart</span>
         {/* duolingo */}
-        <span className="text-[18px] sm:text-[20px] font-bold text-white/25 tracking-tight lowercase" style={{ fontFamily: 'DM Sans, sans-serif' }}>duolingo</span>
+        <span className="text-[18px] sm:text-[20px] font-bold text-ink-2 tracking-tight lowercase" style={{ fontFamily: 'DM Sans, sans-serif' }}>duolingo</span>
         {/* Vanta */}
-        <span className="text-[18px] sm:text-[20px] font-bold text-white/25 tracking-tight" style={{ fontFamily: 'DM Sans, sans-serif' }}>Vanta</span>
+        <span className="text-[18px] sm:text-[20px] font-bold text-ink-2 tracking-tight" style={{ fontFamily: 'DM Sans, sans-serif' }}>Vanta</span>
       </div>
     </motion.section>
   )

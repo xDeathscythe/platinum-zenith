@@ -1,334 +1,444 @@
-import { motion, useInView } from 'framer-motion'
-import { useRef, useState } from 'react'
+import { useState } from 'react'
 import { Link } from 'react-router-dom'
+import { motion, AnimatePresence } from 'framer-motion'
+import Reveal from '../components/Reveal'
 import BottomCTA from '../components/BottomCTA'
 
-/* ─── Animated Counter ─────────────────── */
-function Counter({ value, suffix = '', prefix = '' }) {
-  const ref = useRef(null)
-  const inView = useInView(ref, { once: true })
-  const num = parseInt(value)
-  return (
-    <span ref={ref}>
-      {prefix}{inView ? <motion.span initial={{ opacity: 0 }} animate={{ opacity: 1 }}>{value}</motion.span> : '0'}{suffix}
-    </span>
-  )
-}
+const B = import.meta.env.BASE_URL
+const heroHomeDark = `${B}hero-home-dark.webp`
+const heroHomeLight = `${B}hero-home-light.webp`
 
-/* ─── Browser Mockup Component ─────────── */
-function BrowserMockup() {
-  const [activeTab, setActiveTab] = useState(0)
-  const tabs = ['Desktop', 'Tablet', 'Mobile']
-  
-  return (
-    <div className="relative">
-      {/* Tab switcher */}
-      <div className="flex items-center justify-center gap-1 mb-4">
-        {tabs.map((t, i) => (
-          <button key={t} onClick={() => setActiveTab(i)}
-            className={`text-[12px] px-3 py-1.5 rounded-full transition-all cursor-pointer ${activeTab === i ? 'bg-white/10 text-white' : 'text-white/30 hover:text-white/50'}`}>
-            {t}
-          </button>
-        ))}
-      </div>
-
-      {/* Browser chrome */}
-      <div className={`mx-auto transition-all duration-500 ${activeTab === 0 ? 'max-w-full' : activeTab === 1 ? 'max-w-[600px]' : 'max-w-[320px]'}`}>
-        <div className="bg-[#141414] rounded-t-[11px] border border-white/[0.08] border-b-0">
-          <div className="flex items-center gap-1.5 px-4 py-2.5">
-            <div className="w-2.5 h-2.5 rounded-full bg-[#ff5f57]" />
-            <div className="w-2.5 h-2.5 rounded-full bg-[#ffbd2e]" />
-            <div className="w-2.5 h-2.5 rounded-full bg-[#28ca42]" />
-            <div className="flex-1 mx-4">
-              <div className="bg-white/[0.06] rounded-md px-3 py-1 text-[11px] text-white/25 font-mono">vasafirma.rs</div>
-            </div>
-          </div>
-        </div>
-
-        {/* Page content */}
-        <div className="bg-[#0a0a0a] border border-white/[0.08] rounded-b-[11px] overflow-hidden">
-          {/* Hero area */}
-          <div className="relative h-[200px] overflow-hidden">
-            <div className="absolute inset-0" style={{
-              background: 'linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%)',
-            }} />
-            <div className="relative z-10 flex flex-col items-center justify-center h-full px-6 text-center">
-              <div className="w-8 h-8 rounded-lg bg-white/20 mb-3" />
-              <div className="h-4 w-48 bg-white/60 rounded mb-2" />
-              <div className="h-2.5 w-64 bg-white/20 rounded mb-4" />
-              <div className="flex gap-2">
-                <div className="h-6 w-20 rounded-full bg-white/80" />
-                <div className="h-6 w-20 rounded-full bg-white/10 border border-white/20" />
-              </div>
-            </div>
-          </div>
-
-          {/* Stats row */}
-          <div className="grid grid-cols-3 gap-0 border-t border-white/[0.06]">
-            {[{v: '+340%', l: 'Konverzije'}, {v: '2.1s', l: 'Load time'}, {v: '99/100', l: 'PageSpeed'}].map(s => (
-              <div key={s.l} className="py-4 px-3 text-center border-r last:border-r-0 border-white/[0.04]">
-                <div className="text-[16px] font-bold text-emerald-400">{s.v}</div>
-                <div className="text-[10px] text-white/30 mt-0.5">{s.l}</div>
-              </div>
-            ))}
-          </div>
-
-          {/* Content blocks */}
-          <div className="p-5 space-y-3">
-            <div className="flex gap-3">
-              <div className="w-1/3 h-20 rounded-lg bg-white/[0.04]" />
-              <div className="w-2/3 space-y-2">
-                <div className="h-3 w-full bg-white/[0.06] rounded" />
-                <div className="h-3 w-3/4 bg-white/[0.04] rounded" />
-                <div className="h-3 w-1/2 bg-white/[0.04] rounded" />
-              </div>
-            </div>
-            <div className="grid grid-cols-3 gap-2">
-              {[1,2,3].map(i => (
-                <div key={i} className="h-16 rounded-lg bg-white/[0.03] border border-white/[0.04]" />
-              ))}
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  )
-}
-
-/* ─── Before/After Slider Mock ───────── */
-function BeforeAfter() {
-  const [split, setSplit] = useState(50)
-  return (
-    <div className="relative rounded-[11px] overflow-hidden border border-white/[0.08] h-[340px] cursor-ew-resize select-none"
-      onMouseMove={(e) => {
-        const r = e.currentTarget.getBoundingClientRect()
-        setSplit(Math.max(10, Math.min(90, ((e.clientX - r.left) / r.width) * 100)))
-      }}>
-      {/* Before side */}
-      <div className="absolute inset-0 bg-[#1a0a0a]">
-        <div className="flex flex-col items-center justify-center h-full px-8 text-center">
-          <span className="text-[11px] text-red-400/50 uppercase tracking-wider mb-4">Pre redizajna</span>
-          <div className="space-y-3 w-full max-w-[300px]">
-            <div className="h-12 rounded bg-gray-800/50 border border-gray-700/30 flex items-center px-3">
-              <div className="h-2 w-24 bg-gray-600/30 rounded" />
-            </div>
-            <div className="h-8 rounded bg-gray-800/30 flex items-center px-3">
-              <div className="h-1.5 w-16 bg-gray-600/20 rounded" />
-            </div>
-            <div className="grid grid-cols-2 gap-2">
-              <div className="h-20 rounded bg-gray-800/20" />
-              <div className="h-20 rounded bg-gray-800/20" />
-            </div>
-            <div className="flex items-center gap-2 mt-2">
-              <span className="text-red-400/60 text-[13px]">⚠</span>
-              <span className="text-[11px] text-red-400/40">Bounce rate: 78%</span>
-            </div>
-            <div className="flex items-center gap-2">
-              <span className="text-red-400/60 text-[13px]">⚠</span>
-              <span className="text-[11px] text-red-400/40">Konverzija: 0.4%</span>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      {/* After side */}
-      <div className="absolute inset-0" style={{ clipPath: `inset(0 0 0 ${split}%)` }}>
-        <div className="bg-[#0a1a0a] h-full flex flex-col items-center justify-center px-8 text-center">
-          <span className="text-[11px] text-emerald-400/50 uppercase tracking-wider mb-4">Posle redizajna</span>
-          <div className="space-y-3 w-full max-w-[300px]">
-            <div className="h-12 rounded-lg bg-emerald-900/20 border border-emerald-500/10 flex items-center px-3">
-              <div className="h-2 w-32 bg-emerald-400/30 rounded" />
-            </div>
-            <div className="h-8 rounded-lg bg-emerald-900/10 flex items-center px-3">
-              <div className="h-1.5 w-20 bg-emerald-400/20 rounded" />
-            </div>
-            <div className="grid grid-cols-2 gap-2">
-              <div className="h-20 rounded-lg bg-emerald-900/10 border border-emerald-500/5" />
-              <div className="h-20 rounded-lg bg-emerald-900/10 border border-emerald-500/5" />
-            </div>
-            <div className="flex items-center gap-2 mt-2">
-              <span className="text-emerald-400 text-[13px]">✓</span>
-              <span className="text-[11px] text-emerald-400/60">Bounce rate: 28%</span>
-            </div>
-            <div className="flex items-center gap-2">
-              <span className="text-emerald-400 text-[13px]">✓</span>
-              <span className="text-[11px] text-emerald-400/60">Konverzija: 4.2%</span>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      {/* Divider */}
-      <div className="absolute top-0 bottom-0 w-0.5 bg-white/40 z-20" style={{ left: `${split}%` }}>
-        <div className="absolute top-1/2 -translate-y-1/2 -translate-x-1/2 w-8 h-8 rounded-full bg-white flex items-center justify-center shadow-lg">
-          <span className="text-black text-[12px]">⟷</span>
-        </div>
-      </div>
-    </div>
-  )
-}
-
-/* ─── Tech Stack Grid ──────────────────── */
-function TechStack() {
-  const stack = [
-    { name: 'React', icon: '⚛️', desc: 'Komponente' },
-    { name: 'Next.js', icon: '▲', desc: 'SSR / SSG' },
-    { name: 'WordPress', icon: '⊡', desc: 'CMS' },
-    { name: 'Tailwind', icon: '🎨', desc: 'Dizajn' },
-    { name: 'Figma', icon: '✦', desc: 'UI/UX' },
-    { name: 'Vercel', icon: '▲', desc: 'Deploy' },
-  ]
-  return (
-    <div className="grid grid-cols-3 md:grid-cols-6 gap-3">
-      {stack.map((s, i) => (
-        <motion.div key={s.name} initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ delay: i * 0.06 }}
-          className="bg-white/[0.03] border border-white/[0.05] rounded-[11px] p-4 text-center hover:bg-white/[0.06] transition-colors group">
-          <span className="text-2xl block mb-2 group-hover:scale-110 transition-transform">{s.icon}</span>
-          <div className="text-[13px] text-white/70 font-medium">{s.name}</div>
-          <div className="text-[11px] text-white/25 mt-0.5">{s.desc}</div>
-        </motion.div>
-      ))}
-    </div>
-  )
-}
-
-/* ─── Process Timeline ─────────────────── */
-const processSteps = [
-  { num: '01', title: 'Discovery & Audit', desc: 'Razumemo vaš biznis, ciljnu grupu i konkurenciju. Analiziramo postojeći sajt i tražimo prilike za rast.', duration: 'Nedelja 1', icon: '🔍' },
-  { num: '02', title: 'Strategija & Wireframes', desc: 'Definišemo strukturu, korisničko putovanje i ključne tačke konverzije. Svaki piksel ima svrhu.', duration: 'Nedelja 2', icon: '📐' },
-  { num: '03', title: 'Visual Design', desc: 'Kreiramo vizuelni identitet koji diferencira vaš brend — tipografija, boje, fotografija, ikonografija.', duration: 'Nedelja 3-4', icon: '🎨' },
-  { num: '04', title: 'Development', desc: 'Kodiramo sa fokusom na performanse (PageSpeed 95+), SEO, pristupačnost i mobile-first responsive dizajn.', duration: 'Nedelja 4-6', icon: '⚡' },
-  { num: '05', title: 'QA & Launch', desc: 'Testiramo na 20+ uređaja i pretraživača. Postavljamo analitiku, podešavamo SSL, i lansiramo.', duration: 'Nedelja 6-7', icon: '🚀' },
+/* ─── Portfolio Items ─── */
+const portfolio = [
+  { img: `${B}portfolio-02.webp`, name: 'Platinum Tartufi', type: 'E-Commerce', result: '+180% prodaje' },
+  { img: `${B}portfolio-grubin.webp`, name: 'Grubin Showroom', type: 'WooCommerce', result: '+220% saobraćaja' },
+  { img: `${B}portfolio-lilium.webp`, name: 'Lilium', type: 'Kozmetički salon', result: '+260% rezervacija' },
+  { img: `${B}niwa-hero.webp`, name: 'Niwa AI', type: 'SaaS Platform', result: '+195% sign-ups' },
+  { img: `${B}portfolio-04.webp`, name: 'MERME Salon', type: 'Frizerski salon', result: '+150% rezervacija' },
+  { img: `${B}portfolio-09.webp`, name: 'Veda Stolarija', type: 'PVC Stolarija', result: '3x više upita' },
 ]
 
-/* ─── Main Page ────────────────────────── */
+/* ─── Browser Mockup ─── */
+function BrowserFrame({ src, name }) {
+  return (
+    <div className="bg-panel rounded-[12px] border border-edge-2 overflow-hidden shadow-[0_8px_40px_rgba(0,0,0,0.08)] group hover:border-white/[0.10] transition-all">
+      <div className="flex items-center gap-1.5 px-3 py-2 border-b border-edge-2">
+        <div className="flex gap-1">
+          <div className="w-2 h-2 rounded-full bg-ink/[0.08]" />
+          <div className="w-2 h-2 rounded-full bg-ink/[0.08]" />
+          <div className="w-2 h-2 rounded-full bg-ink/[0.08]" />
+        </div>
+        <div className="flex-1 mx-2">
+          <div className="bg-tint rounded-full h-4 flex items-center px-2">
+            <span className="text-[9px] text-ink-2 truncate">{name}</span>
+          </div>
+        </div>
+      </div>
+      <div className="overflow-hidden">
+        <img
+          src={src}
+          alt={name}
+          className="w-full h-auto object-cover group-hover:scale-[1.02] transition-transform duration-500"
+          loading="lazy"
+        />
+      </div>
+    </div>
+  )
+}
+
+/* ─── Page ─── */
 export default function WebDesignPage() {
+  const [activeProject, setActiveProject] = useState(0)
+
   return (
     <>
-      {/* ─── Hero ─────────────────────── */}
-      <section className="pt-[120px] md:pt-[160px] pb-12 px-4 md:px-8">
-        <div className="max-w-[1200px] mx-auto grid md:grid-cols-2 gap-12 items-center">
-          <motion.div initial={{ opacity: 0, x: -30 }} animate={{ opacity: 1, x: 0 }}>
-            <span className="text-[12px] text-emerald-400/60 uppercase tracking-widest mb-3 block font-medium">Web Design & Izrada</span>
-            <h1 className="text-[36px] md:text-[52px] font-medium leading-[1.08] tracking-[-1.5px] text-white mb-5">
-              Sajtovi koji
-              <span className="block text-white/40">prodaju umesto vas</span>
-            </h1>
-            <p className="text-[16px] text-white/50 leading-[26px] mb-8 max-w-[480px]">
-              Dva od tri sajta ne donose ni jednog klijenta. Mi pravimo sajtove koji rade prekovremeno — lepo obučen, super moćan prodavac koji radi 24/7.
-            </p>
-            <div className="flex items-center gap-3 flex-wrap">
-              <Link to="/kontakt" className="inline-flex items-center gap-1.5 bg-white text-black text-[14px] font-medium h-11 px-6 rounded-[40px] hover:bg-white/90 transition-colors">
-                Zakažite Konsultacije →
-              </Link>
-              <Link to="/case-studies" className="inline-flex items-center text-[14px] text-white/50 font-medium hover:text-white transition-colors">
-                Pogledajte rezultate →
-              </Link>
-            </div>
-          </motion.div>
+      {/* ─── Hero — homepage structure ─── */}
+      <section className="relative flex flex-col items-center text-center pt-[160px] md:pt-[220px] pb-[20px] px-4 md:px-8 overflow-hidden">
+        <div className="absolute inset-0 z-0">
+          <div className="absolute inset-0 only-dark"
+            style={{
+              backgroundImage: `url(${heroHomeDark})`,
+              backgroundSize: 'cover',
+              backgroundPosition: 'center top',
+              backgroundColor: '#000000',
+            }}
+          />
+          <div className="absolute inset-0 only-light"
+            style={{
+              backgroundImage: `url(${heroHomeLight})`,
+              backgroundSize: 'cover',
+              backgroundPosition: 'center top',
+              backgroundColor: '#ffffff',
+            }}
+          />
 
-          <motion.div initial={{ opacity: 0, x: 30 }} animate={{ opacity: 1, x: 0 }} transition={{ delay: 0.2 }}>
-            <BrowserMockup />
-          </motion.div>
+          <div className="absolute inset-x-0 z-[1]"
+            style={{
+              top: '55%',
+              height: '45%',
+              backdropFilter: 'blur(68px)',
+              WebkitBackdropFilter: 'blur(68px)',
+              maskImage: 'linear-gradient(to bottom, transparent 0%, black 20%, black 82%, transparent 100%)',
+              WebkitMaskImage: 'linear-gradient(to bottom, transparent 0%, black 20%, black 82%, transparent 100%)',
+            }}
+          />
+
+          <div className="absolute inset-0 z-[2] only-dark"
+            style={{
+              background: 'linear-gradient(to bottom, rgba(0,0,0,0) 40%, rgba(0,0,0,0.30) 58%, rgba(0,0,0,0.70) 74%, #000000 92%)',
+            }}
+          />
+          <div className="absolute inset-0 z-[2] only-light"
+            style={{
+              background: 'linear-gradient(to bottom, rgba(255,255,255,0) 40%, rgba(255,255,255,0.35) 58%, rgba(255,255,255,0.75) 74%, #ffffff 92%)',
+            }}
+          />
+        </div>
+
+        <div className="relative z-10 w-full max-w-full overflow-hidden">
+          <h1 className="hero-enter hero-enter-d1 text-[32px] md:text-[62px] font-medium leading-[1.1] md:leading-[62px] tracking-[-1px] md:tracking-[-1.86px] text-black mb-4">
+            Sajtovi koji pretvaraju<br className="hidden md:inline" /> posetioce u klijente
+          </h1>
+
+          <p className="hero-enter hero-enter-d2 text-[14px] md:text-[15px] font-normal leading-[22px] md:leading-[26px] tracking-[-0.15px] text-black text-center mb-6 md:mb-8 max-w-[620px] mx-auto px-6 md:px-2">
+            Dva od tri sajta ne donose ni jednog klijenta. Mi pravimo sajtove koji rade prekovremeno, 24 sata dnevno, 7 dana u nedelji.
+          </p>
+
+          <div className="hero-enter hero-enter-d3 flex items-center justify-center gap-2 flex-wrap px-2">
+            <Link to="/kontakt" className="inline-flex items-center gap-1.5 bg-black text-white text-[13px] md:text-[14px] font-medium h-10 px-4 md:px-5 rounded-[40px] cursor-pointer hover:bg-black/80 transition-colors">
+              Zakažite Konsultacije
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5"><path d="M5 12h14M12 5l7 7-7 7" /></svg>
+            </Link>
+          </div>
+
+          {/* Hero showcase — featured project in browser frame */}
+          <div className="hero-enter hero-enter-d4 mt-10 md:mt-16">
+            <div className="max-w-[900px] mx-auto">
+              <BrowserFrame src={`${B}portfolio-01.webp`} name="focusfizikal.rs" />
+            </div>
+          </div>
         </div>
       </section>
 
-      {/* ─── Stats Bar ─────────────────── */}
-      <section className="py-8 px-4 md:px-8">
-        <div className="max-w-[1200px] mx-auto">
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-0 bg-white/[0.02] rounded-[11px] border border-white/[0.06] overflow-hidden">
+      {/* ─── Stats bar ─── */}
+      <Reveal className="py-8 px-4 md:px-8">
+        <div className="max-w-[1100px] mx-auto">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-0 bg-tint rounded-[11px] border border-edge-2 overflow-hidden">
             {[
-              { value: '+340%', label: 'Prosečan rast konverzija' },
-              { value: '2.1s', label: 'Prosečno učitavanje' },
-              { value: '95+', label: 'PageSpeed skor' },
-              { value: '24/7', label: 'Vaš sajt prodaje' },
-            ].map((s, i) => (
-              <div key={s.label} className="py-6 px-4 text-center border-r last:border-r-0 border-white/[0.04] md:border-b-0 border-b [&:nth-child(2)]:border-r-0 md:[&:nth-child(2)]:border-r">
-                <div className="text-[28px] md:text-[32px] font-bold text-white">{s.value}</div>
-                <div className="text-[12px] text-white/30 mt-1">{s.label}</div>
+              { v: '+340%', l: 'Prosečan rast konverzija' },
+              { v: '2.1s', l: 'Prosečno vreme učitavanja' },
+              { v: '95+', l: 'PageSpeed skor' },
+              { v: '24/7', l: 'Vaš sajt prodaje' },
+            ].map(s => (
+              <div key={s.l} className="py-6 px-4 text-center border-r last:border-r-0 border-edge-2 md:border-b-0 border-b [&:nth-child(2)]:border-r-0 md:[&:nth-child(2)]:border-r">
+                <div className="text-[28px] md:text-[32px] font-bold text-ink">{s.v}</div>
+                <div className="text-[12px] text-ink-2 mt-1">{s.l}</div>
               </div>
             ))}
           </div>
         </div>
-      </section>
+      </Reveal>
 
-      {/* ─── Problem / Solution ────────── */}
-      <section className="py-20 px-4 md:px-8">
-        <div className="max-w-[1000px] mx-auto">
-          <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true }} className="text-center mb-12">
-            <h2 className="text-[32px] md:text-[44px] font-medium tracking-[-1px] text-white mb-4">Vidite razliku</h2>
-            <p className="text-[16px] text-white/40 max-w-[500px] mx-auto">Povucite slider da uporedite pre i posle naše optimizacije.</p>
-          </motion.div>
-          <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }}>
-            <BeforeAfter />
-          </motion.div>
-        </div>
-      </section>
+      {/* ─── Problem section ─── */}
+      <section className="py-12 px-4 md:px-8">
+        <div className="max-w-[1100px] mx-auto">
+          <Reveal className="text-center mb-10">
+            <span className="text-[12px] uppercase tracking-[0.18em] text-ink-2">Zašto većina sajtova ne radi</span>
+            <h2 className="text-[32px] md:text-[46px] font-medium tracking-[-1.2px] text-ink mt-3 mb-4">Lep sajt koji ne prodaje je skup vizit karta</h2>
+            <p className="text-[16px] text-ink-2 max-w-[700px] mx-auto leading-[27px]">
+              Većina agencija pravi sajtove koji lepo izgledaju na prezentaciji. Problem nastaje kad treba da donesu upite, pozive i narudžbine.
+            </p>
+          </Reveal>
 
-      {/* ─── Process Timeline ──────────── */}
-      <section className="py-20 px-4 md:px-8">
-        <div className="max-w-[900px] mx-auto">
-          <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true }} className="text-center mb-16">
-            <h2 className="text-[32px] md:text-[44px] font-medium tracking-[-1px] text-white mb-4">Od ideje do lansiranja</h2>
-            <p className="text-[16px] text-white/40">Transparentan proces u 5 koraka. Znate tačno šta se dešava i kada.</p>
-          </motion.div>
-          
-          <div className="relative">
-            {/* Vertical line */}
-            <div className="absolute left-6 md:left-8 top-0 bottom-0 w-px bg-gradient-to-b from-white/10 via-emerald-400/20 to-white/10" />
-            
-            <div className="space-y-8">
-              {processSteps.map((s, i) => (
-                <motion.div key={s.num} initial={{ opacity: 0, x: -20 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true }} transition={{ delay: i * 0.1 }}
-                  className="flex gap-5 md:gap-8 items-start group">
-                  <div className="w-12 md:w-16 h-12 md:h-16 rounded-[11px] bg-white/[0.04] border border-white/[0.06] flex items-center justify-center flex-shrink-0 z-10 group-hover:bg-white/[0.08] group-hover:border-emerald-400/20 transition-all">
-                    <span className="text-xl md:text-2xl">{s.icon}</span>
-                  </div>
-                  <div className="flex-1 pb-2">
-                    <div className="flex items-center gap-3 mb-1">
-                      <h3 className="text-[18px] md:text-[20px] font-medium text-white">{s.title}</h3>
-                      <span className="text-[11px] text-emerald-400/50 bg-emerald-400/[0.06] px-2 py-0.5 rounded-full">{s.duration}</span>
-                    </div>
-                    <p className="text-[15px] text-white/45 leading-relaxed">{s.desc}</p>
-                  </div>
-                </motion.div>
-              ))}
-            </div>
-          </div>
-        </div>
-      </section>
-
-      {/* ─── Tech Stack ────────────────── */}
-      <section className="py-20 px-4 md:px-8">
-        <div className="max-w-[800px] mx-auto">
-          <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true }} className="text-center mb-12">
-            <h2 className="text-[28px] md:text-[36px] font-medium text-white mb-3">Tehnologije koje koristimo</h2>
-            <p className="text-[15px] text-white/35">Biram pravi alat za svaki projekat.</p>
-          </motion.div>
-          <TechStack />
-        </div>
-      </section>
-
-      {/* ─── Why Different ─────────────── */}
-      <section className="py-20 px-4 md:px-8">
-        <div className="max-w-[1200px] mx-auto">
-          <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true }} className="text-center mb-14">
-            <h2 className="text-[32px] md:text-[44px] font-medium tracking-[-1px] text-white mb-4">Zašto smo drugačiji</h2>
-          </motion.div>
-          <div className="grid md:grid-cols-3 gap-5">
+          <div className="grid md:grid-cols-3 gap-4">
             {[
-              { title: 'Konverzija > Estetika', desc: 'Lep sajt bez prodaje je skupa vizit karta. Svaki element je tu da približi posetioca kupovini.', accent: 'from-emerald-500/10 to-transparent' },
-              { title: 'Optimizacija od dana 1', desc: 'PageSpeed 95+, Core Web Vitals zeleno, SEO fundamentals — sve ugrađeno u osnovu, ne naknadno.', accent: 'from-blue-500/10 to-transparent' },
-              { title: 'Dizajn sa podacima', desc: 'Heatmaps, session recordings, A/B testovi — koristimo podatke da napravimo sajt koji radi bolje sa svakim mesecom.', accent: 'from-purple-500/10 to-transparent' },
-            ].map((c, i) => (
-              <motion.div key={c.title} initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ delay: i * 0.1 }}
-                className="bg-white/[0.03] rounded-[11px] p-7 border border-white/[0.05] relative overflow-hidden group hover:border-white/[0.10] transition-colors">
-                <div className={`absolute top-0 left-0 right-0 h-1 bg-gradient-to-r ${c.accent}`} />
-                <h3 className="text-[18px] font-medium text-white mb-3 mt-2">{c.title}</h3>
-                <p className="text-[14px] text-white/45 leading-relaxed">{c.desc}</p>
-              </motion.div>
+              { title: 'Spor i težak', text: 'Sajt koji se učitava 5+ sekundi gubi 53% mobilnih posetilaca pre nego što vide prvu reč.' },
+              { title: 'Nema jasnu konverziju', text: 'Posetilac ne zna šta treba da uradi. Nema jedinstven poziv na akciju, nema jasan sledeći korak.' },
+              { title: 'Ne prati rezultate', text: 'Bez analitike i praćenja konverzija, sajt je crna kutija. Ne znate šta radi, a šta ne.' },
+            ].map((item, i) => (
+              <Reveal key={item.title} delay={i * 60} className="bg-panel border border-edge-2 rounded-[16px] p-6">
+                <h3 className="text-[20px] text-ink font-medium mb-2">{item.title}</h3>
+                <p className="text-[14px] text-ink-2 leading-[24px]">{item.text}</p>
+              </Reveal>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* ─── Portfolio showcase ─── */}
+      <section className="py-16 px-4 md:px-8">
+        <div className="max-w-[1200px] mx-auto">
+          <Reveal className="text-center mb-10">
+            <h2 className="text-[32px] md:text-[44px] font-medium tracking-[-1px] text-ink mb-3">Naši radovi</h2>
+            <p className="text-[15px] text-ink-2 max-w-[600px] mx-auto">Svaki projekat je dizajniran da radi posao, ne samo da izgleda lepo.</p>
+          </Reveal>
+
+          {/* Project tabs */}
+          <div className="flex gap-2 justify-center flex-wrap mb-8">
+            {portfolio.map((p, i) => (
+              <button
+                key={p.name}
+                onClick={() => setActiveProject(i)}
+                className={`text-[13px] font-medium px-4 py-2 rounded-full transition-all cursor-pointer ${
+                  i === activeProject
+                    ? 'bg-inv-bg text-inv-fg'
+                    : 'bg-tint text-ink-2 hover:text-ink border border-edge-2'
+                }`}
+              >
+                {p.name}
+              </button>
+            ))}
+          </div>
+
+          {/* Active project display */}
+          <AnimatePresence mode="wait">
+            <motion.div
+              key={activeProject}
+              initial={{ opacity: 0, y: 12 }}
+              animate={{ opacity: 1, y: 0 }}
+              exit={{ opacity: 0, y: -12 }}
+              transition={{ duration: 0.3 }}
+              className="max-w-[900px] mx-auto"
+            >
+              <BrowserFrame src={portfolio[activeProject].img} name={portfolio[activeProject].name} />
+              <div className="flex items-center justify-center gap-6 mt-5">
+                <div className="text-center">
+                  <div className="text-[12px] text-ink-2 uppercase tracking-wider">{portfolio[activeProject].type}</div>
+                </div>
+                <div className="w-px h-4 bg-edge-2" />
+                <div className="text-center">
+                  <div className="text-[14px] text-ink font-medium">{portfolio[activeProject].result}</div>
+                </div>
+              </div>
+            </motion.div>
+          </AnimatePresence>
+        </div>
+      </section>
+
+      {/* ─── What you get ─── */}
+      <section className="py-16 px-4 md:px-8 bg-panel border-y border-edge-2">
+        <div className="max-w-[1100px] mx-auto">
+          <Reveal className="text-center mb-12">
+            <h2 className="text-[32px] md:text-[44px] font-medium tracking-[-1px] text-ink mb-3">Šta dobijate sa svakim sajtom</h2>
+          </Reveal>
+
+          <div className="grid md:grid-cols-2 gap-4">
+            {[
+              { title: 'Mobile-first dizajn', desc: 'Preko 70% saobraćaja dolazi sa telefona. Svaki element je prvo dizajniran za mobilni, pa tek onda adaptiran za desktop.' },
+              { title: 'PageSpeed 95+', desc: 'Optimizovane slike, lazy loading, minimizirani resursi. Sajt koji se učitava za manje od 2 sekunde.' },
+              { title: 'SEO iz temelja', desc: 'Strukturirani podaci, sitemap, meta tagovi, semantički HTML. Google zna tačno o čemu je vaš sajt.' },
+              { title: 'Konverzija u fokusu', desc: 'Svaki element na stranici ima jasan cilj. CTA pozicija, boja, tekst, sve je testirano i optimizovano.' },
+              { title: 'Analitika od dana 1', desc: 'Google Analytics, heatmape, praćenje konverzija. Znate tačno koliko vam sajt zarađuje.' },
+              { title: 'SSL, backup, podrška', desc: 'Besplatan SSL sertifikat, automatski backup i 30 dana tehničke podrške posle lansiranja.' },
+            ].map((item, i) => (
+              <Reveal key={item.title} delay={i * 50} className="bg-tint rounded-[16px] p-6 border border-edge-2">
+                <h3 className="text-[18px] text-ink font-medium mb-2">{item.title}</h3>
+                <p className="text-[14px] text-ink-2 leading-[24px]">{item.desc}</p>
+              </Reveal>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ─── Process ─── */}
+      <section className="py-16 px-4 md:px-8">
+        <div className="max-w-[900px] mx-auto">
+          <Reveal className="text-center mb-12">
+            <h2 className="text-[32px] md:text-[44px] font-medium tracking-[-1px] text-ink mb-3">Od ideje do lansiranja</h2>
+            <p className="text-[15px] text-ink-2">Transparentan proces u 5 koraka. Bez iznenađenja.</p>
+          </Reveal>
+
+          <div className="grid md:grid-cols-5 gap-3">
+            {[
+              { title: 'Audit', desc: 'Razumemo vaš biznis, ciljnu grupu i šta treba da se desi na sajtu', dur: 'Nedelja 1' },
+              { title: 'Wireframes', desc: 'Definišemo strukturu i ključne konverzione tačke', dur: 'Nedelja 2' },
+              { title: 'Dizajn', desc: 'Vizuelni identitet koji razlikuje vaš brend od svih ostalih', dur: 'Nedelja 3-4' },
+              { title: 'Development', desc: 'Kod sa fokusom na brzinu, responsivnost i čist HTML', dur: 'Nedelja 4-6' },
+              { title: 'Lansiranje', desc: 'Testiranje, SSL, analitika, i vaš sajt je živ', dur: 'Nedelja 6-7' },
+            ].map((s, i) => (
+              <Reveal key={s.title} delay={i * 60}
+                className="bg-tint rounded-[11px] p-5 text-center border border-edge-2 relative">
+                {i < 4 && <div className="hidden md:block absolute top-1/2 -right-2 text-ink-2 text-[16px]">→</div>}
+                <span className="text-[13px] text-ink-2 font-medium block mb-2">0{i + 1}</span>
+                <div className="text-[14px] font-medium text-ink mb-1">{s.title}</div>
+                <div className="text-[12px] text-ink-2 leading-relaxed">{s.desc}</div>
+                <div className="text-[10px] text-ink-2 mt-2 bg-panel rounded-full inline-block px-2 py-0.5">{s.dur}</div>
+              </Reveal>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ─── Tech stack ─── */}
+      <section className="py-12 px-4 md:px-8">
+        <div className="max-w-[800px] mx-auto">
+          <Reveal className="text-center mb-8">
+            <h2 className="text-[28px] md:text-[36px] font-medium text-ink mb-3">Tehnologije koje koristimo</h2>
+            <p className="text-[15px] text-ink-2">Pravi alat za svaki projekat.</p>
+          </Reveal>
+          <Reveal type="stagger" className="grid grid-cols-3 md:grid-cols-6 gap-3">
+            {[
+              { name: 'React', desc: 'Komponente' },
+              { name: 'Next.js', desc: 'SSR / SSG' },
+              { name: 'WordPress', desc: 'CMS' },
+              { name: 'Tailwind', desc: 'Styling' },
+              { name: 'Figma', desc: 'UI/UX' },
+              { name: 'WooCommerce', desc: 'E-commerce' },
+            ].map(s => (
+              <div key={s.name} className="bg-tint border border-edge-2 rounded-[11px] p-4 text-center hover:border-white/[0.10] transition-colors">
+                <div className="text-[14px] text-ink font-medium">{s.name}</div>
+                <div className="text-[11px] text-ink-2 mt-1">{s.desc}</div>
+              </div>
+            ))}
+          </Reveal>
+        </div>
+      </section>
+
+      {/* ─── Testimonials ─── */}
+      <section className="py-16 px-4 md:px-8">
+        <div className="max-w-[1100px] mx-auto">
+          <Reveal className="text-center mb-10">
+            <h2 className="text-[32px] md:text-[44px] font-medium tracking-[-1px] text-ink mb-3">Šta kažu naši klijenti</h2>
+          </Reveal>
+
+          <div className="grid md:grid-cols-2 gap-4">
+            <Reveal className="bg-tint rounded-[16px] border border-edge-2 p-7 md:p-8 relative overflow-hidden">
+              <div className="absolute top-3 left-5 text-[48px] text-ink/[0.04] font-serif leading-none">"</div>
+              <p className="text-[16px] text-ink-2 leading-[28px] italic mb-5">
+                "Pre saradnje sa Platinum Zenith, konverzija na sajtu je bila 0,8% i kupci su retko kupovali više od jednog para. Posle novog sajta konverzija je skočila 2,12 puta, a cena po kupovini pala za 61%. Na istom budžetu imamo 160% više prodaja."
+              </p>
+              <div className="flex items-center gap-3">
+                <div>
+                  <div className="text-[15px] text-ink font-medium">Ivana</div>
+                  <div className="text-[13px] text-ink-2">Grubin Showroom</div>
+                </div>
+              </div>
+              <div className="flex gap-3 mt-4 flex-wrap">
+                <span className="text-[11px] text-ink-2 bg-panel px-2.5 py-1 rounded-full border border-edge-2">+160% prodaja</span>
+                <span className="text-[11px] text-ink-2 bg-panel px-2.5 py-1 rounded-full border border-edge-2">-61% cena po kupovini</span>
+                <span className="text-[11px] text-ink-2 bg-panel px-2.5 py-1 rounded-full border border-edge-2">2.12x konverzija</span>
+              </div>
+            </Reveal>
+
+            <Reveal delay={80} className="bg-tint rounded-[16px] border border-edge-2 p-7 md:p-8 relative overflow-hidden">
+              <div className="absolute top-3 left-5 text-[48px] text-ink/[0.04] font-serif leading-none">"</div>
+              <p className="text-[16px] text-ink-2 leading-[28px] italic mb-5">
+                "Platinum Zenith je napravio tačno ono što sam zamislila. Sajt izgleda profesionalno, radi brzo i klijenti nam se javljaju svaki dan. Bila sam toliko zadovoljna da sam ih odmah preporučila prijateljici."
+              </p>
+              <div className="flex items-center gap-3">
+                <div>
+                  <div className="text-[15px] text-ink font-medium">Salon Lilium</div>
+                  <div className="text-[13px] text-ink-2">Kozmetički salon</div>
+                </div>
+              </div>
+            </Reveal>
+
+            <Reveal delay={120} className="bg-panel border border-edge-2 rounded-[16px] p-7 md:p-8 relative overflow-hidden md:col-span-2">
+              <div className="absolute top-3 left-5 text-[48px] text-ink/[0.04] font-serif leading-none">"</div>
+              <p className="text-[16px] text-ink-2 leading-[28px] italic mb-5">
+                "Posle tri loša iskustva sa agencijama, Platinum Zenith je konačno napravio sajt koji zapravo donosi klijente. Za 2 meseca imamo 3x više upita."
+              </p>
+              <div>
+                <div className="text-[15px] text-ink font-medium">Marko P.</div>
+                <div className="text-[13px] text-ink-2">Direktor, Veda Stolarija</div>
+              </div>
+            </Reveal>
+          </div>
+        </div>
+      </section>
+
+      {/* ─── Paketi ─── */}
+      <section className="py-16 px-4 md:px-8">
+        <div className="max-w-[1200px] mx-auto">
+          <Reveal className="text-center mb-10">
+            <h2 className="text-[32px] md:text-[44px] font-medium tracking-[-1px] text-ink mb-3">Izaberite paket koji odgovara vašim ciljevima</h2>
+          </Reveal>
+
+          <div className="grid md:grid-cols-3 gap-5 items-start">
+            {/* Conversion Lander */}
+            <Reveal className="rounded-[16px] p-7 border border-edge-2 bg-panel flex flex-col">
+              <h3 className="text-[22px] font-medium text-ink mb-1">Conversion Lander</h3>
+              <div className="flex items-baseline gap-1 mb-1">
+                <span className="text-[36px] font-bold text-ink">€2,500</span>
+              </div>
+              <span className="text-[12px] text-ink-2 mb-5">one time</span>
+              <div className="space-y-3 mb-6 flex-1">
+                <p className="text-[13px] text-ink-2 leading-[22px]">Optimizovana struktura funnel-a vodi potencijalne klijente kroz jasne korake ka kupovini, što povećava konverzije i prihode.</p>
+                <p className="text-[13px] text-ink-2 leading-[22px]">Precizno targetiranje publike osigurava da privlačite samo klijente koji su zainteresovani za vaše proizvode ili usluge.</p>
+                <p className="text-[13px] text-ink-2 leading-[22px]">Funnel automatski obrađuje potencijalne klijente, odgovara na česta pitanja i pruža informacije, čime se štedi vreme.</p>
+                <p className="text-[13px] text-ink-2 leading-[22px]">Pametna investicija koja donosi merljiv povrat kroz povećanje prodaje, uštedu vremena i profesionalni imidž.</p>
+                <p className="text-[13px] text-ink-2 leading-[22px]">Dizajniran da impresionira — gradi autoritet vašeg brenda i ostavlja jak prvi utisak kod potencijalnih klijenata.</p>
+              </div>
+              <Link to="/kontakt" className="w-full h-11 rounded-[40px] inline-flex items-center justify-center text-[13px] font-medium border border-edge-2 text-ink hover:bg-tint transition-colors">
+                Rezervišite konsultacije
+              </Link>
+            </Reveal>
+
+            {/* Business Platform */}
+            <Reveal delay={60} className="rounded-[16px] p-7 border border-white/[0.12] bg-tint ring-1 ring-white/[0.06] flex flex-col">
+              <span className="text-[11px] text-ink uppercase tracking-widest font-medium mb-3">Najpopularnije</span>
+              <h3 className="text-[22px] font-medium text-ink mb-1">Business Platform</h3>
+              <div className="flex items-baseline gap-1 mb-1">
+                <span className="text-[36px] font-bold text-ink">€4,997</span>
+              </div>
+              <span className="text-[12px] text-ink-2 mb-5">one time</span>
+              <div className="bg-panel rounded-[8px] px-3 py-2 mb-4 border border-edge-2">
+                <span className="text-[12px] text-ink font-medium">Conversion Lander +</span>
+              </div>
+              <div className="space-y-3 mb-6 flex-1">
+                <p className="text-[13px] text-ink-2 leading-[22px]">Profesionalan web-sajt koji pomaže u izgradnji brenda, privlačenju klijenata i povećanju profita.</p>
+                <p className="text-[13px] text-ink-2 leading-[22px]">Sveobuhvatne integracije: online plaćanja, CRM, alati za e-mail marketing i društvene mreže.</p>
+                <p className="text-[13px] text-ink-2 leading-[22px]">CMS koji omogućava lako upravljanje sadržajem bez tehničkog znanja. Trening uključen u cenu.</p>
+                <p className="text-[13px] text-ink-2 leading-[22px]">Ugrađeni alati i optimizacija sadržaja za bolje rangiranje na pretraživačima i veći organski promet.</p>
+                <p className="text-[13px] text-ink-2 leading-[22px]">Dizajn optimizovan za konverzije — više prodaja, prijava, upita.</p>
+                <p className="text-[13px] text-ink-2 leading-[22px]">Brzo učitavanje za bolje korisničko iskustvo i SEO. Najnoviji bezbednosni protokoli.</p>
+                <p className="text-[13px] text-ink-2 leading-[22px]">Ključne reči i tehnička SEO strategija uključene.</p>
+              </div>
+              <Link to="/kontakt" className="w-full h-11 rounded-[40px] inline-flex items-center justify-center text-[13px] font-medium bg-ink text-inv-fg hover:opacity-90 transition-colors">
+                Rezervišite konsultacije
+              </Link>
+            </Reveal>
+
+            {/* Enterprise Web */}
+            <Reveal delay={120} className="rounded-[16px] p-7 border border-edge-2 bg-panel flex flex-col">
+              <h3 className="text-[22px] font-medium text-ink mb-1">Enterprise Web</h3>
+              <div className="flex items-baseline gap-1 mb-1">
+                <span className="text-[36px] font-bold text-ink">€14,500</span>
+              </div>
+              <span className="text-[12px] text-ink-2 mb-5">one time</span>
+              <div className="bg-tint rounded-[8px] px-3 py-2 mb-4 border border-edge-2">
+                <span className="text-[12px] text-ink font-medium">Business Platform +</span>
+              </div>
+              <div className="space-y-3 mb-6 flex-1">
+                <p className="text-[13px] text-ink-2 leading-[22px]">Napredne animacije, interaktivne funkcionalnosti i prilagođeni vizualni efekti. Dizajniran da impresionira na globalnom nivou.</p>
+                <p className="text-[13px] text-ink font-medium mt-4 mb-1">Strategija brenda</p>
+                <p className="text-[13px] text-ink-2 leading-[22px]">Dubinska analiza tržišta, konkurencije i ciljnih korisnika. Razvoj strategije koja objedinjuje vizuelni identitet, funkcionalnost i korisničko iskustvo. Konsultacije sa stručnjacima iz UX/UI dizajna, SEO-a i digitalnog marketinga.</p>
+                <p className="text-[13px] text-ink font-medium mt-4 mb-1">Napredne funkcionalnosti</p>
+                <p className="text-[13px] text-ink-2 leading-[22px]">Integrisani sistemi: ERP, CRM, upravljanje zalihama, plaćanja, korisnička podrška i automatizacija. Web aplikacije: kalkulatori, konfiguratori, interaktivne mape. E-commerce sa naprednim filterima, više jezika, automatski porezi i dostava.</p>
+                <p className="text-[13px] text-ink font-medium mt-4 mb-1">Performanse i sigurnost</p>
+                <p className="text-[13px] text-ink-2 leading-[22px]">High-traffic ready sa CDN-om za globalnu dostupnost. Ultra-brzo učitavanje, mobile-first pristup. SSL/TLS, DDoS zaštita, automatizovane rezervne kopije, monitoring 24/7.</p>
+                <p className="text-[13px] text-ink font-medium mt-4 mb-1">Premium SEO</p>
+                <p className="text-[13px] text-ink-2 leading-[22px]">Napredna tehnička SEO optimizacija, schema markup, strategija sadržaja. Google Analytics, Tag Manager i alati za praćenje performansi.</p>
+                <p className="text-[13px] text-ink font-medium mt-4 mb-1">Podrška i obuka</p>
+                <p className="text-[13px] text-ink-2 leading-[22px]">Godina dana tehničke podrške sa redovnim proverama, ažuriranjima i optimizacijom. Tim za hitne intervencije. Detaljna obuka zaposlenih, korisnički priručnik i video tutorijali.</p>
+              </div>
+              <Link to="/kontakt" className="w-full h-11 rounded-[40px] inline-flex items-center justify-center text-[13px] font-medium border border-edge-2 text-ink hover:bg-tint transition-colors">
+                Rezervišite konsultacije
+              </Link>
+            </Reveal>
+          </div>
+        </div>
+      </section>
+
+      {/* ─── Guarantee ─── */}
+      <section className="py-12 px-4 md:px-8">
+        <div className="max-w-[900px] mx-auto">
+          <Reveal className="bg-panel border border-edge-2 rounded-[16px] p-7 md:p-9">
+            <h3 className="text-[24px] text-ink font-medium mb-3">Bez kompromisa na kvalitetu</h3>
+            <p className="text-[15px] text-ink-2 leading-[27px] max-w-[700px]">
+              Svaki sajt prolazi QA testiranje na 12+ uređaja pre lansiranja. Dobijate 30 dana besplatne podrške i garanciju da sajt radi kako treba. Ako nešto ne valja, popravljamo besplatno.
+            </p>
+          </Reveal>
         </div>
       </section>
 

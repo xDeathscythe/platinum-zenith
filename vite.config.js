@@ -3,6 +3,7 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
+  base: '/platinum-zenith/',
   plugins: [react(), tailwindcss()],
   build: {
     // Code splitting
