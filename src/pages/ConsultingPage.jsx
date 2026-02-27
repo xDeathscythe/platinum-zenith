@@ -97,63 +97,120 @@ function SignupModal({ program, onClose }) {
 const heroHomeDark = `${import.meta.env.BASE_URL}hero-home-dark.webp`
 const heroHomeLight = `${import.meta.env.BASE_URL}hero-home-light.webp`
 
-/* ─── Audit Score Mockup ─── */
-function AuditScore() {
-  const [revealed, setRevealed] = useState(false)
-  const categories = [
-    { name: 'Pozicioniranje', score: 42, color: '#ef4444' },
-    { name: 'Prodajni proces', score: 58, color: '#f59e0b' },
-    { name: 'Marketing', score: 35, color: '#ef4444' },
-    { name: 'Brending', score: 67, color: '#f59e0b' },
-    { name: 'Operacije', score: 73, color: '#22c55e' },
-    { name: 'Finansije', score: 81, color: '#22c55e' },
-  ]
-  const total = Math.round(categories.reduce((a, c) => a + c.score, 0) / categories.length)
+/* ─── Workflow Pipeline ─── */
+const workflows = [
+  { area: 'Konverzija', icon: '📉', problem: '1.2%', audit: 'Web & CRO Audit', action: 'Redizajn + A/B test', result: '4.8%', resultIcon: '📈' },
+  { area: 'Prodaja', icon: '😐', problem: '3 upita/mes', audit: 'Sales Audit', action: 'Novi funnel + CRM', result: '35 upita/mes', resultIcon: '🔥' },
+  { area: 'Marketing', icon: '💸', problem: 'CPA €48', audit: 'Ad Account Audit', action: 'Restruktura kampanja', result: 'CPA €9.60', resultIcon: '🎯' },
+  { area: 'Brending', icon: '❓', problem: 'Nema identiteta', audit: 'Brend Audit', action: 'Pozicioniranje + dizajn', result: 'Top-of-mind', resultIcon: '👑' },
+  { area: 'Operacije', icon: '🐌', problem: '14 dana po poslu', audit: 'Proces Audit', action: 'Automatizacija', result: '3 dana po poslu', resultIcon: '⚡' },
+]
+
+function WorkflowPipeline() {
+  const [active, setActive] = useState(0)
+
+  useState(() => {
+    const interval = setInterval(() => setActive(p => (p + 1) % workflows.length), 3000)
+    return () => clearInterval(interval)
+  })
 
   return (
-    <div className="bg-panel rounded-[16px] border border-edge-2 overflow-hidden shadow-[0_8px_40px_rgba(0,0,0,0.08)]">
-      <div className="flex items-center justify-between px-5 py-3 border-b border-edge-2">
-        <span className="text-[13px] text-ink-2 font-medium">Biznis Audit</span>
-        <button onClick={() => setRevealed(!revealed)} className="text-[11px] text-ink-2 hover:text-ink cursor-pointer transition-colors">
-          {revealed ? 'Sakrij' : 'Otkrij rezultate'}
-        </button>
-      </div>
-      <div className="p-5">
-        <div className="flex items-center justify-center mb-6">
-          <div className="relative w-24 h-24">
-            <svg viewBox="0 0 100 100" className="transform -rotate-90">
-              <circle cx="50" cy="50" r="42" fill="none" stroke="rgba(255,255,255,0.05)" strokeWidth="8" />
-              <motion.circle cx="50" cy="50" r="42" fill="none" strokeWidth="8" strokeLinecap="round"
-                stroke={total < 50 ? '#ef4444' : total < 70 ? '#f59e0b' : '#22c55e'}
-                strokeDasharray={`${2 * Math.PI * 42}`}
-                initial={{ strokeDashoffset: 2 * Math.PI * 42 }}
-                animate={{ strokeDashoffset: revealed ? 2 * Math.PI * 42 * (1 - total / 100) : 2 * Math.PI * 42 }}
-                transition={{ duration: 1, ease: 'easeOut' }}
-              />
-            </svg>
-            <div className="absolute inset-0 flex items-center justify-center">
-              <span className="text-[24px] font-bold text-ink">{revealed ? total : '?'}</span>
-            </div>
+    <div className="theme-dark bg-[#0a0a0a] rounded-[16px] border border-[rgba(255,255,255,0.08)] overflow-hidden shadow-[0_8px_40px_rgba(0,0,0,0.3)]">
+      {/* Header */}
+      <div className="flex items-center justify-between px-5 py-3 border-b border-[rgba(255,255,255,0.06)]">
+        <div className="flex items-center gap-2">
+          <div className="flex gap-1.5">
+            <div className="w-3 h-3 rounded-full bg-[#ff5f57]" />
+            <div className="w-3 h-3 rounded-full bg-[#febc2e]" />
+            <div className="w-3 h-3 rounded-full bg-[#28c840]" />
           </div>
+          <span className="text-[13px] text-[rgba(255,255,255,0.5)] font-medium ml-2">Biznis Audit Pipeline</span>
         </div>
-        <div className="space-y-3">
-          {categories.map((c, i) => (
-            <div key={c.name}>
-              <div className="flex items-center justify-between mb-1">
-                <span className="text-[12px] text-ink-2">{c.name}</span>
-                <span className="text-[12px] font-medium" style={{ color: revealed ? c.color : 'var(--ink-2)' }}>{revealed ? c.score : '·'}</span>
+        <span className="text-[11px] text-[rgba(255,255,255,0.3)]">live</span>
+      </div>
+
+      {/* Pipeline stages header */}
+      <div className="hidden md:grid grid-cols-4 gap-0 px-5 pt-4 pb-2">
+        {['Problem uočen', 'Analiza', 'Akcija', 'Rezultat'].map((s, i) => (
+          <div key={s} className="flex items-center gap-2">
+            <div className={`w-2 h-2 rounded-full ${i === 0 ? 'bg-red-500' : i === 3 ? 'bg-green-500' : 'bg-amber-500'}`} />
+            <span className="text-[11px] text-[rgba(255,255,255,0.35)] uppercase tracking-wider font-medium">{s}</span>
+          </div>
+        ))}
+      </div>
+
+      {/* Workflow rows */}
+      <div className="px-4 md:px-5 pb-5 pt-2 space-y-2">
+        {workflows.map((w, i) => {
+          const isActive = i === active
+          return (
+            <motion.div
+              key={w.area}
+              className="grid grid-cols-2 md:grid-cols-4 gap-2 md:gap-3 items-center cursor-pointer rounded-[10px] px-3 py-2.5 transition-colors"
+              style={{ backgroundColor: isActive ? 'rgba(255,255,255,0.04)' : 'transparent' }}
+              onClick={() => setActive(i)}
+              animate={{ opacity: isActive ? 1 : 0.45 }}
+              transition={{ duration: 0.4 }}
+            >
+              {/* Problem */}
+              <div className="flex items-center gap-2">
+                <span className="text-[14px]">{w.icon}</span>
+                <div>
+                  <div className="text-[11px] text-[rgba(255,255,255,0.3)] leading-none mb-0.5 md:hidden">{w.area}</div>
+                  <span className="text-[13px] font-medium text-red-400">{w.problem}</span>
+                </div>
               </div>
-              <div className="w-full h-1.5 bg-tint rounded-full overflow-hidden">
-                <motion.div className="h-full rounded-full"
-                  style={{ backgroundColor: c.color }}
-                  initial={{ width: 0 }}
-                  animate={{ width: revealed ? `${c.score}%` : '0%' }}
-                  transition={{ duration: 0.8, delay: i * 0.1 }}
+
+              {/* Audit */}
+              <div className="hidden md:flex items-center gap-2">
+                <motion.div
+                  className="h-0.5 bg-amber-500/40 rounded-full"
+                  animate={{ width: isActive ? 24 : 12 }}
+                  transition={{ duration: 0.6 }}
                 />
+                <span className="text-[12px] text-[rgba(255,255,255,0.6)]">{w.audit}</span>
               </div>
-            </div>
-          ))}
-        </div>
+
+              {/* Action */}
+              <div className="hidden md:flex items-center gap-2">
+                <motion.div
+                  className="h-0.5 bg-amber-500/40 rounded-full"
+                  animate={{ width: isActive ? 24 : 12 }}
+                  transition={{ duration: 0.6, delay: 0.15 }}
+                />
+                <span className="text-[12px] text-[rgba(255,255,255,0.6)]">{w.action}</span>
+              </div>
+
+              {/* Result */}
+              <div className="flex items-center gap-2 justify-end md:justify-start">
+                <motion.div
+                  className="hidden md:block h-0.5 bg-green-500/40 rounded-full"
+                  animate={{ width: isActive ? 24 : 12 }}
+                  transition={{ duration: 0.6, delay: 0.3 }}
+                />
+                <span className="text-[14px]">{w.resultIcon}</span>
+                <motion.span
+                  className="text-[13px] font-bold text-green-400"
+                  animate={{ scale: isActive ? [1, 1.08, 1] : 1 }}
+                  transition={{ duration: 0.5, delay: 0.4 }}
+                >
+                  {w.result}
+                </motion.span>
+              </div>
+            </motion.div>
+          )
+        })}
+      </div>
+
+      {/* Bottom progress */}
+      <div className="h-1 bg-[rgba(255,255,255,0.03)] overflow-hidden">
+        <motion.div
+          className="h-full bg-gradient-to-r from-red-500 via-amber-500 to-green-500"
+          key={active}
+          initial={{ width: '0%' }}
+          animate={{ width: '100%' }}
+          transition={{ duration: 3, ease: 'linear' }}
+        />
       </div>
     </div>
   )
@@ -202,8 +259,8 @@ export default function ConsultingPage() {
           </div>
 
           <div className="hero-enter hero-enter-d4 mt-10 md:mt-16">
-            <div className="max-w-[600px] mx-auto">
-              <AuditScore />
+            <div className="max-w-[1164px] mx-auto">
+              <WorkflowPipeline />
             </div>
           </div>
         </div>
