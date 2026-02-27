@@ -282,56 +282,6 @@ export default function MarketingPage() {
         </div>
       </section>
 
-      {/* ─── Social Proof Gallery ─── */}
-      <section className="py-20 px-4 md:px-8">
-        <div className="max-w-[1164px] mx-auto">
-          <Reveal className="text-center mb-12">
-            <span className="text-[12px] uppercase tracking-[0.18em] text-ink-2 block mb-3">Iz prakse</span>
-            <h2 className="text-[30px] md:text-[42px] font-medium text-ink tracking-[-1px] leading-[1.15]">
-              Pravi brojevi, pravi klijenti
-            </h2>
-          </Reveal>
-
-          {/* Image grid */}
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-3 mb-14">
-            {[
-              'medifizio-01.webp', 'focus-01.webp', 'pz-01.webp', 'medifizio-03.webp',
-              'focus-03.webp', 'pz-05.webp', 'medifizio-06.webp', 'focus-04.webp',
-              'pz-09.webp', 'medifizio-07.webp', 'case-focus-fizikal.webp', 'pz-13.webp',
-            ].map((img, i) => (
-              <Reveal key={img} delay={i * 30}>
-                <div className="rounded-[11px] overflow-hidden border border-edge-2">
-                  <img
-                    src={`${import.meta.env.BASE_URL}${img}`}
-                    alt=""
-                    className="w-full aspect-[4/5] object-cover"
-                    loading="lazy"
-                  />
-                </div>
-              </Reveal>
-            ))}
-          </div>
-
-          {/* Results text */}
-          <div className="max-w-[740px] mx-auto space-y-8">
-            {[
-              { client: 'Grubin Showroom', result: 'Sa 20,4M na 64,4M RSD godišnjeg prometa. Cena po kupovini pala za 61%. Konverzija porasla 2,12 puta.', link: '/case-studies' },
-              { client: 'Ordinacija Medifizio', result: 'Sa 400.000 na 2,4M RSD mesečnog prometa za 8 meseci. Direct response marketing i lokalno pozicioniranje na prvo mesto.', link: '/case-studies' },
-              { client: 'Focus Fizikal', result: '63 prijave za samo €60 budžeta. Cena po prijavi €0,96. Termini popunjeni za ceo mesec unapred.', link: '/case-studies' },
-            ].map((item, i) => (
-              <Reveal key={item.client} delay={i * 60}>
-                <div>
-                  <h3 className="text-[17px] font-medium text-ink mb-2">{item.client}</h3>
-                  <p className="text-[15px] text-ink-2 leading-[26px] mb-2">{item.result}</p>
-                  <Link to={item.link} className="text-[13px] text-ink-3 hover:text-ink transition-colors">Pogledaj case study →</Link>
-                </div>
-                {i < 2 && <div className="h-px bg-edge-2 mt-8" />}
-              </Reveal>
-            ))}
-          </div>
-        </div>
-      </section>
-
       <BottomCTA />
     </>
   )
