@@ -4,7 +4,6 @@ dist
 *.zip
 .DS_Store
 .vercel
-.env
 data/*.db
 data/*.db-wal
 data/*.db-shm

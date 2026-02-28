@@ -1,15 +1,20 @@
-import 'dotenv/config'
+import dotenv from 'dotenv'
 import express from 'express'
 import cors from 'cors'
 import { fileURLToPath } from 'url'
 import { dirname, join } from 'path'
+
+// Load .env from project root (not CWD)
+const __filename = fileURLToPath(import.meta.url)
+const __serverDir = dirname(__filename)
+dotenv.config({ path: join(__serverDir, '..', '.env') })
 
 import authRoutes from './routes/auth.js'
 import prijavaRoutes from './routes/prijava.js'
 import kontaktRoutes from './routes/kontakt.js'
 import adminRoutes from './routes/admin.js'
 
-const __dirname = dirname(fileURLToPath(import.meta.url))
+const __dirname = __serverDir
 const PORT = process.env.PORT || 3000
 const app = express()
 
@@ -51,4 +56,5 @@ app.listen(PORT, () => {
   console.log(`   Frontend: http://localhost:${PORT}`)
   console.log(`   Admin:    http://localhost:${PORT}/log`)
   console.log(`   API:      http://localhost:${PORT}/api`)
+  console.log(`   ENV check: ADMIN_USER=${process.env.ADMIN_USER ? '✅' : '❌'} SMTP_USER=${process.env.SMTP_USER ? '✅' : '❌'} JWT=${process.env.JWT_SECRET ? '✅' : '❌'}`)
 })
