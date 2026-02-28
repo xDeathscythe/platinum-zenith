@@ -1,9 +1,13 @@
 node_modules
 dist
-*.png
 *.zip
 .DS_Store
 .vercel
 data/*.db
 data/*.db-wal
 data/*.db-shm
+
+# Ignore PNG screenshots in root, but NOT in public/
+/*.png
+/src/**/*.png
+/scraped-images/
