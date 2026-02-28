@@ -1,41 +1,65 @@
-import Database from 'better-sqlite3'
+import initSqlJs from 'sql.js'
+import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'fs'
 import { fileURLToPath } from 'url'
 import { dirname, join } from 'path'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
-const dbPath = join(__dirname, '..', 'data', 'pz.db')
+const dataDir = join(__dirname, '..', 'data')
+const dbPath = join(dataDir, 'pz.db')
 
-const db = new Database(dbPath)
-db.pragma('journal_mode = WAL')
-db.pragma('foreign_keys = ON')
+// Ensure data directory exists
+if (!existsSync(dataDir)) mkdirSync(dataDir, { recursive: true })
 
-// Create tables
-db.exec(`
-  CREATE TABLE IF NOT EXISTS submissions (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    type TEXT NOT NULL CHECK(type IN ('prijava', 'kontakt', 'newsletter')),
-    name TEXT,
-    email TEXT,
-    phone TEXT,
-    company TEXT,
-    program TEXT,
-    message TEXT,
-    created_at DATETIME DEFAULT CURRENT_TIMESTAMP
-  );
+let db = null
 
-  CREATE TABLE IF NOT EXISTS email_log (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    recipient TEXT NOT NULL,
-    subject TEXT NOT NULL,
-    type TEXT DEFAULT 'outbound',
-    submission_id INTEGER,
-    created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
-    FOREIGN KEY (submission_id) REFERENCES submissions(id)
-  );
+async function getDb() {
+  if (db) return db
 
-  CREATE INDEX IF NOT EXISTS idx_submissions_type ON submissions(type);
-  CREATE INDEX IF NOT EXISTS idx_submissions_date ON submissions(created_at DESC);
-  CREATE INDEX IF NOT EXISTS idx_email_log_date ON email_log(created_at DESC);
-`)
+  const SQL = await initSqlJs()
 
-export default db
+  if (existsSync(dbPath)) {
+    const buffer = readFileSync(dbPath)
+    db = new SQL.Database(buffer)
+  } else {
+    db = new SQL.Database()
+  }
+
+  // Create tables
+  db.run(`
+    CREATE TABLE IF NOT EXISTS submissions (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      type TEXT NOT NULL,
+      name TEXT,
+      email TEXT,
+      phone TEXT,
+      company TEXT,
+      program TEXT,
+      message TEXT,
+      created_at DATETIME DEFAULT CURRENT_TIMESTAMP
+    )
+  `)
+  db.run(`
+    CREATE TABLE IF NOT EXISTS email_log (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      recipient TEXT NOT NULL,
+      subject TEXT NOT NULL,
+      type TEXT DEFAULT 'outbound',
+      submission_id INTEGER,
+      created_at DATETIME DEFAULT CURRENT_TIMESTAMP
+    )
+  `)
+
+  save()
+  return db
+}
+
+function save() {
+  if (!db) return
+  const data = db.export()
+  writeFileSync(dbPath, Buffer.from(data))
+}
+
+// Auto-save every 30 seconds
+setInterval(() => save(), 30000)
+
+export { getDb, save }
