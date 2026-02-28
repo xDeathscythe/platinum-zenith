@@ -5,6 +5,14 @@ import tailwindcss from '@tailwindcss/vite'
 export default defineConfig({
   // base: '/platinum-zenith/', // Only needed for GH Pages
   plugins: [react(), tailwindcss()],
+  server: {
+    proxy: {
+      '/api': {
+        target: 'http://localhost:3000',
+        changeOrigin: true,
+      },
+    },
+  },
   build: {
     // Code splitting
     rollupOptions: {

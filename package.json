@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build && node -e \"require('fs').copyFileSync('dist/index.html','dist/404.html')\"",
+    "build": "vite build && node -e \"import('fs').then(f=>f.copyFileSync('dist/index.html','dist/404.html'))\"",
     "start": "node server/index.js",
     "lint": "eslint .",
     "preview": "vite preview"

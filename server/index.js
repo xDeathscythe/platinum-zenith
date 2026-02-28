@@ -32,6 +32,20 @@ app.use((req, res) => {
   res.sendFile(join(distPath, 'index.html'))
 })
 
+// Global error handler
+app.use((err, req, res, next) => {
+  console.error('Unhandled error:', err)
+  res.status(500).json({ error: 'Internal server error' })
+})
+
+// Catch unhandled rejections
+process.on('unhandledRejection', (err) => {
+  console.error('Unhandled rejection:', err)
+})
+process.on('uncaughtException', (err) => {
+  console.error('Uncaught exception:', err)
+})
+
 app.listen(PORT, () => {
   console.log(`🚀 Platinum Zenith server running on port ${PORT}`)
   console.log(`   Frontend: http://localhost:${PORT}`)
