@@ -53,7 +53,7 @@ export default function WebDesignPage() {
   return (
     <>
       {/* ─── Hero — homepage structure ─── */}
-      <section className="relative flex flex-col items-center text-center pt-[160px] md:pt-[220px] pb-[20px] px-4 md:px-8 overflow-hidden">
+      <section className="relative flex flex-col items-center text-center pt-[200px] md:pt-[260px] pb-[80px] md:pb-[120px] px-4 md:px-8 overflow-hidden min-h-[70vh]">
         <div className="absolute inset-0 z-0">
           <div className="absolute inset-0 only-dark"
             style={{
@@ -74,8 +74,8 @@ export default function WebDesignPage() {
 
           <div className="absolute inset-x-0 z-[1]"
             style={{
-              top: '55%',
-              height: '45%',
+              top: '64vh',
+              height: '52vh',
               backdropFilter: 'blur(68px)',
               WebkitBackdropFilter: 'blur(68px)',
               maskImage: 'linear-gradient(to bottom, transparent 0%, black 20%, black 82%, transparent 100%)',
@@ -85,12 +85,12 @@ export default function WebDesignPage() {
 
           <div className="absolute inset-0 z-[2] only-dark"
             style={{
-              background: 'linear-gradient(to bottom, rgba(0,0,0,0) 40%, rgba(0,0,0,0.30) 58%, rgba(0,0,0,0.70) 74%, #000000 92%)',
+              background: 'linear-gradient(to bottom, rgba(0,0,0,0) 50%, rgba(0,0,0,0.30) 65%, rgba(0,0,0,0.70) 80%, #000000 95%)',
             }}
           />
           <div className="absolute inset-0 z-[2] only-light"
             style={{
-              background: 'linear-gradient(to bottom, rgba(255,255,255,0) 40%, rgba(255,255,255,0.35) 58%, rgba(255,255,255,0.75) 74%, #ffffff 92%)',
+              background: 'linear-gradient(to bottom, rgba(255,255,255,0) 50%, rgba(255,255,255,0.35) 65%, rgba(255,255,255,0.75) 80%, #ffffff 95%)',
             }}
           />
         </div>
