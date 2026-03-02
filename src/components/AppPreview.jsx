@@ -126,7 +126,7 @@ function getVisible(arr, offset) {
 }
 
 /* ─── Ad Card ── */
-function AdCard({ ad, brandName }) {
+function AdCard({ ad, brandName, eager = false }) {
   return (
     <div className="bg-tile rounded-[14px] overflow-hidden" style={{ width: CARD_W }}>
       <div className="px-3.5 pt-3.5 pb-2">
@@ -155,7 +155,7 @@ function AdCard({ ad, brandName }) {
       {/* Media block — real image or gradient fallback */}
       {ad.img ? (
         <div className="mx-3 rounded-[10px] overflow-hidden mb-2.5" style={{ aspectRatio: '4 / 5' }}>
-          <img src={ad.img} alt="" className="w-full h-full object-cover" loading="lazy" />
+          <img src={ad.img} alt={ad.text.replace(/[\u{1F300}-\u{1FAD6}]/gu, '').trim()} className="w-full h-full object-cover" loading={eager ? 'eager' : 'lazy'} fetchPriority={eager ? 'high' : undefined} width={CARD_W - 24} height={Math.round((CARD_W - 24) * 1.25)} />
         </div>
       ) : (
         <div
@@ -205,7 +205,7 @@ function ArrowBtn({ direction, onClick }) {
 }
 
 /* ─── Card Slot — overlapping crossfade (grid stack = no flash) ── */
-function CardSlot({ ad, brandName, direction, delay }) {
+function CardSlot({ ad, brandName, direction, delay, eager = false }) {
   return (
     <div style={{ display: 'grid', width: CARD_W }}>
       <AnimatePresence initial={false}>
@@ -221,7 +221,7 @@ function CardSlot({ ad, brandName, direction, delay }) {
             delay,
           }}
         >
-          <AdCard ad={ad} brandName={brandName} />
+          <AdCard ad={ad} brandName={brandName} eager={eager} />
         </motion.div>
       </AnimatePresence>
     </div>
@@ -232,6 +232,7 @@ function CardSlot({ ad, brandName, direction, delay }) {
 function VShapeCards({ ads, brandName }) {
   const [step, setStep] = useState(0)
   const [dir, setDir] = useState(1)
+  const isInitial = step === 0
 
   /* Split ads into top row and bottom row */
   const half = Math.ceil(ads.length / 2)
@@ -269,6 +270,7 @@ function VShapeCards({ ads, brandName }) {
               brandName={brandName}
               direction={dir}
               delay={stagger[pos]}
+              eager={isInitial && pos === 2}
             />
             {/* Bottom card — slides in OPPOSITE direction */}
             <CardSlot

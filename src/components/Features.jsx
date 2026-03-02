@@ -14,7 +14,7 @@ function MockAds() {
       {/* 1. Meta Catalog Ad */}
       <div className="bg-[#1a1a1a] rounded-[11px] overflow-hidden flex flex-col min-w-[280px] snap-center md:min-w-0">
         <div className="relative flex-1 overflow-hidden">
-          <img src={productImg} alt="Product" className="absolute inset-0 w-full h-full object-cover" />
+          <img src={productImg} alt="Platinum Zenith portfolio - profesionalna fotografija proizvoda za e-commerce" className="absolute inset-0 w-full h-full object-cover" width={566} height={707} />
           <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/20 to-transparent" />
           <div className="absolute top-3 left-3 flex items-center gap-1.5">
             <div className="w-6 h-6 rounded-full bg-white/10 backdrop-blur-sm" />
@@ -78,7 +78,7 @@ function MockAds() {
       {/* 3. TikTok Influencer UGC */}
       <div className="bg-[#1a1a1a] rounded-[11px] overflow-hidden flex flex-col min-w-[280px] snap-center md:min-w-0">
         <div className="relative flex-1 overflow-hidden">
-          <img src={influencerImg} alt="Influencer" className="absolute inset-0 w-full h-full object-cover" />
+          <img src={influencerImg} alt="Influencer marketing kampanja - TikTok sadrzaj za brendove" className="absolute inset-0 w-full h-full object-cover" width={500} height={721} />
           <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-transparent to-transparent" />
           <div className="absolute top-3 left-3 right-3 flex items-center justify-between">
             <span className="text-[10px] text-white/50">Following | <span className="text-white font-semibold">For You</span></span>
@@ -137,7 +137,7 @@ function MockWebsite() {
       }} />
       {/* Floating window — no browser chrome, just clean rounded card */}
       <div className="relative rounded-[16px] overflow-hidden shadow-2xl shadow-black/10 border border-white/30 bg-white/5 backdrop-blur-sm">
-        <img src={niwaHero} alt="NiwaChat.com" className="w-full block" loading="lazy" />
+        <img src={niwaHero} alt="NiwaChat.com - AI chatbot za e-commerce prodavnice" className="w-full block" loading="lazy" width={640} height={327} />
       </div>
     </div>
   )

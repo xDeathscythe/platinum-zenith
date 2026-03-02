@@ -28,9 +28,24 @@ app.use('/api', prijavaRoutes)
 app.use('/api', kontaktRoutes)
 app.use('/api/admin', adminRoutes)
 
-// Static files AFTER API
+// Static files AFTER API — with cache headers
 const distPath = join(__dirname, '..', 'dist')
-app.use(express.static(distPath))
+
+// Hashed assets (JS/CSS with content hash in filename) — cache 1 year
+app.use('/assets', express.static(join(distPath, 'assets'), {
+  maxAge: '365d',
+  immutable: true,
+}))
+
+// Images, fonts, static files — cache 30 days
+app.use(express.static(distPath, {
+  maxAge: '30d',
+  setHeaders: (res, filePath) => {
+    if (filePath.endsWith('.html')) {
+      res.setHeader('Cache-Control', 'no-cache')
+    }
+  },
+}))
 
 // SPA fallback LAST
 app.use((req, res) => {
