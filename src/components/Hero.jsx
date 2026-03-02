@@ -55,7 +55,7 @@ export default function Hero() {
 
       <div className="relative z-10 w-full max-w-full overflow-hidden">
         {/* H1 */}
-        <h1 className="hero-enter hero-enter-d1 text-[32px] md:text-[62px] font-medium leading-[1.1] md:leading-[62px] tracking-[-1px] md:tracking-[-1.86px] text-black mb-4">
+        <h1 className="text-[32px] md:text-[62px] font-medium leading-[1.1] md:leading-[62px] tracking-[-1px] md:tracking-[-1.86px] text-black mb-4">
           Upoznajte agenciju koja garantuje<br className="hidden md:inline" /> profitabilan marketing ili<br className="hidden md:inline" /> odbija honorar!
         </h1>
 
