@@ -24,7 +24,7 @@ export default function Surfaces() {
           {surfaces.map((s, i) => (
             <Link key={s.title} to={s.link}
               className="group bg-panel rounded-[16px] p-8 pb-10 border border-edge-2 hover:border-white/[0.12] transition-all relative overflow-hidden">
-              <span className="text-[13px] text-ink/25 font-medium tracking-wider block mb-8">0{i + 1}</span>
+              <span className="text-[13px] text-ink/50 font-medium tracking-wider block mb-8" aria-hidden="true">0{i + 1}</span>
               <h3 className="text-[22px] md:text-[24px] font-medium text-ink mb-3 group-hover:text-ink/90 transition-colors">{s.title}</h3>
               <p className="text-[15px] text-ink-4 leading-relaxed mb-8">{s.desc}</p>
               <span className="text-[14px] text-ink-4 group-hover:text-ink-3 transition-colors inline-flex items-center gap-1.5">
