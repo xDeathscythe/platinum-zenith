@@ -322,7 +322,7 @@ export default function AppPreview() {
 
       {/* Card container */}
       <div className="theme-dark bg-panel rounded-[16px] border border-edge-2 pt-8 pb-4 overflow-hidden relative" style={{ height: 680 }}>
-        <h3 className="text-[28px] md:text-[32px] font-light text-ink text-center mb-6 tracking-wide whitespace-nowrap">{brand.name}</h3>
+        <h2 className="text-[28px] md:text-[32px] font-light text-ink text-center mb-6 tracking-wide whitespace-nowrap">{brand.name}</h2>
 
         <AnimatePresence mode="wait" initial={false}>
           <motion.div
