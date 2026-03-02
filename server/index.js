@@ -3,7 +3,8 @@ import express from 'express'
 import cors from 'cors'
 import { fileURLToPath } from 'url'
 import { dirname, join } from 'path'
-import { existsSync } from 'fs'
+import { existsSync, readFileSync } from 'fs'
+import { injectOgMeta } from './ogMeta.js'
 
 // Load .env from project root (not CWD)
 const __filename = fileURLToPath(import.meta.url)
@@ -98,9 +99,23 @@ app.use((req, res, next) => {
 app.use('/assets', express.static(join(distPath, 'assets'), { maxAge: ONE_YEAR * 1000, immutable: true }))
 app.use(express.static(distPath, { maxAge: ONE_YEAR * 1000 }))
 
-// SPA fallback LAST
+// Read HTML template once at startup (cached in memory)
+const indexHtmlPath = join(distPath, 'index.html')
+let indexHtmlTemplate = ''
+try {
+  indexHtmlTemplate = readFileSync(indexHtmlPath, 'utf-8')
+} catch {
+  console.warn('⚠️ dist/index.html not found — SPA fallback will fail until build runs')
+}
+
+// SPA fallback LAST — inject per-route OG meta for social media crawlers
 app.use((req, res) => {
-  res.sendFile(join(distPath, 'index.html'))
+  if (!indexHtmlTemplate) {
+    return res.status(500).send('Build not found. Run npm run build first.')
+  }
+  const html = injectOgMeta(indexHtmlTemplate, req.path)
+  res.setHeader('Content-Type', 'text/html; charset=UTF-8')
+  res.send(html)
 })
 
 // Global error handler
