@@ -58,7 +58,7 @@ function SignupModal({ program, onClose }) {
       >
         <div className="flex items-center justify-between px-7 pt-7 pb-2">
           <h3 className="text-[18px] font-medium text-ink">Prijava</h3>
-          <button onClick={onClose} className="w-8 h-8 flex items-center justify-center rounded-full hover:bg-tint transition-colors cursor-pointer text-ink-2">
+          <button onClick={onClose} className="w-8 h-8 flex items-center justify-center rounded-full hover:bg-tint transition-colors cursor-pointer text-ink-2" aria-label="Zatvorite formu">
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5"><path d="M18 6L6 18M6 6l12 12"/></svg>
           </button>
         </div>

@@ -75,6 +75,7 @@ function NewsletterInput() {
           type="submit"
           disabled={status === 'sending'}
           className="h-9 px-4 text-[12px] font-medium bg-inv-bg text-inv-fg rounded-lg hover:bg-inv-bg-hover transition-colors cursor-pointer disabled:opacity-50 flex-shrink-0"
+          aria-label="Prijavite se na newsletter"
         >
           {status === 'sending' ? '...' : '→'}
         </button>
