@@ -28,24 +28,27 @@ app.use('/api', prijavaRoutes)
 app.use('/api', kontaktRoutes)
 app.use('/api/admin', adminRoutes)
 
-// Static files AFTER API — with cache headers
+// Static files AFTER API — with aggressive cache headers
 const distPath = join(__dirname, '..', 'dist')
 
-// Hashed assets (JS/CSS with content hash in filename) — cache 1 year
-app.use('/assets', express.static(join(distPath, 'assets'), {
-  maxAge: '365d',
-  immutable: true,
-}))
+// Force cache headers via middleware (Hostinger nginx may strip express.static headers)
+app.use((req, res, next) => {
+  const url = req.path.toLowerCase()
+  if (url.startsWith('/assets/')) {
+    // Hashed JS/CSS — cache 1 year, immutable
+    res.setHeader('Cache-Control', 'public, max-age=31536000, immutable')
+  } else if (url.match(/\.(webp|jpg|jpeg|png|gif|svg|ico|woff2?|ttf|eot)$/)) {
+    // Images, fonts — cache 30 days
+    res.setHeader('Cache-Control', 'public, max-age=2592000')
+  } else if (url.endsWith('.js') || url.endsWith('.css')) {
+    // Other JS/CSS — cache 7 days
+    res.setHeader('Cache-Control', 'public, max-age=604800')
+  }
+  next()
+})
 
-// Images, fonts, static files — cache 30 days
-app.use(express.static(distPath, {
-  maxAge: '30d',
-  setHeaders: (res, filePath) => {
-    if (filePath.endsWith('.html')) {
-      res.setHeader('Cache-Control', 'no-cache')
-    }
-  },
-}))
+app.use('/assets', express.static(join(distPath, 'assets')))
+app.use(express.static(distPath))
 
 // SPA fallback LAST
 app.use((req, res) => {
