@@ -4,6 +4,13 @@ import { motion, AnimatePresence } from '../components/Motion'
 import { Link } from 'react-router-dom'
 import Reveal from '../components/Reveal'
 import BottomCTA from '../components/BottomCTA'
+import RelatedBlogPosts from '../components/RelatedBlogPosts'
+
+const relatedPosts = [
+  { slug: 'kako-algoritam-drustvenih-mreza-bira-sta-cete-videti', title: 'Kako algoritam društvenih mreža bira šta ćete videti', excerpt: 'Razumevanje algoritma je prvi korak ka organski vidljivom sadržaju.', readTime: '6 min', category: 'Marketing' },
+  { slug: 'ugc-sadrzaj-zasto-brendovi-placaju-obicne-ljude', title: 'UGC sadržaj: zašto brendovi plaćaju obične ljude', excerpt: 'User-generated content radi bolje od profesionalnih produkcija. Evo zašto.', readTime: '6 min', category: 'Marketing' },
+  { slug: 'email-marketing-koji-ljudi-zapravo-citaju', title: 'Email marketing koji ljudi zapravo čitaju', excerpt: 'Email lista je najvredniji digitalni asset. Ali samo ako ljudi otvaraju vaše poruke.', readTime: '7 min', category: 'Marketing' },
+]
 
 const heroHomeDark = `${import.meta.env.BASE_URL}hero-home-dark.webp`
 const heroHomeLight = `${import.meta.env.BASE_URL}hero-home-light.webp`
@@ -259,6 +266,7 @@ export default function SocialMediaPage() {
         </div>
       </section>
 
+      <RelatedBlogPosts posts={relatedPosts} heading="Saveti za društvene mreže" />
       <BottomCTA />
     </>
   )

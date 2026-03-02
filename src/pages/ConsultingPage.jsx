@@ -4,6 +4,13 @@ import { useState, useCallback } from 'react'
 import { Link } from 'react-router-dom'
 import Reveal from '../components/Reveal'
 import BottomCTA from '../components/BottomCTA'
+import RelatedBlogPosts from '../components/RelatedBlogPosts'
+
+const relatedPosts = [
+  { slug: 'psihologija-zaradjivanja-mentalni-blokovi', title: 'Psihologija zarađivanja: mentalni blokovi koji koče rast firme', excerpt: 'Najveća prepreka rastu biznisa često nije tržište, nego način razmišljanja vlasnika.', readTime: '8 min', category: 'Biznis' },
+  { slug: 'pricing-psihologija-kontrola-percepcije-cene', title: 'Pricing psihologija: kako brendovi kontrolišu percepciju cene', excerpt: 'Cena nije broj. Cena je priča koju kupac priča sam sebi.', readTime: '7 min', category: 'Marketing' },
+  { slug: '13-godina-poslovnog-iskustva-najskuplje-greske', title: '13 godina poslovnog iskustva: najskuplje greške', excerpt: 'Greške koje smo videli iz prve ruke i kako da ih izbegnete u svom biznisu.', readTime: '9 min', category: 'Biznis' },
+]
 
 /* ─── Signup Modal ─── */
 function SignupModal({ program, onClose }) {
@@ -496,6 +503,7 @@ export default function ConsultingPage() {
         {modalProgram && <SignupModal program={modalProgram} onClose={() => setModalProgram(null)} />}
       </AnimatePresence>
 
+      <RelatedBlogPosts posts={relatedPosts} heading="Pročitajte pre konsultacija" />
       <BottomCTA />
     </>
   )

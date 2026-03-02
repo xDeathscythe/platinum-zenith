@@ -4,6 +4,13 @@ import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import Reveal from '../components/Reveal'
 import BottomCTA from '../components/BottomCTA'
+import RelatedBlogPosts from '../components/RelatedBlogPosts'
+
+const relatedPosts = [
+  { slug: 'ab-testiranje-male-promene-veliki-rezultati', title: 'A/B testiranje: male promene, veliki rezultati', excerpt: 'Kako sistematski testirati i poboljšavati svaki element prodajnog procesa.', readTime: '7 min', category: 'CRO' },
+  { slug: '5-gresaka-landing-stranice-konverzije', title: '5 grešaka na landing stranicama koje ubijaju konverzije', excerpt: 'Greške koje prave čak i iskusni marketari, i kako da ih ispravite.', readTime: '7 min', category: 'CRO' },
+  { slug: 'sales-funnel-koji-radi-na-autopilotu', title: 'Kako napraviti sales funnel koji radi dok vi spavate', excerpt: 'Funnel koji hvata posetioce, gradi poverenje i zatvara prodaju automatski.', readTime: '7 min', category: 'Marketing' },
+]
 
 const heroHomeDark = `${import.meta.env.BASE_URL}hero-home-dark.webp`
 const heroHomeLight = `${import.meta.env.BASE_URL}hero-home-light.webp`
@@ -226,6 +233,7 @@ export default function CROPage() {
         </div>
       </section>
 
+      <RelatedBlogPosts posts={relatedPosts} heading="Naučite više o optimizaciji konverzija" />
       <BottomCTA />
     </>
   )

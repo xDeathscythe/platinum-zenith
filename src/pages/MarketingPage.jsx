@@ -4,6 +4,13 @@ import { Link } from 'react-router-dom'
 import PageMeta from '../components/PageMeta'
 import Reveal from '../components/Reveal'
 import BottomCTA from '../components/BottomCTA'
+import RelatedBlogPosts from '../components/RelatedBlogPosts'
+
+const relatedPosts = [
+  { slug: 'facebook-instagram-ads-kompletni-vodic', title: 'Facebook & Instagram Ads: kompletni vodič za početnike', excerpt: 'Kako pokrenuti prvu kampanju koja zapravo donosi rezultate, bez bacanja novca na oglase koji ne rade.', readTime: '9 min', category: 'Marketing' },
+  { slug: 'kako-meriti-roi-marketinga-kpi-vodic', title: 'Kako meriti ROI marketinga: KPI vodič za vlasnike firmi', excerpt: 'Koji brojevi zapravo pokazuju da li vaš marketing radi ili troši novac.', readTime: '7 min', category: 'Marketing' },
+  { slug: 'retargeting-zasto-vas-prate-reklame', title: 'Retargeting: zašto vas prate reklame i kako to koristiti', excerpt: 'Većina posetilaca neće kupiti iz prve. Retargeting ih vraća nazad.', readTime: '6 min', category: 'Marketing' },
+]
 
 const heroMktgDark = `${import.meta.env.BASE_URL}hero-mktg-dark.webp`
 const heroMktgLight = `${import.meta.env.BASE_URL}hero-mktg-light.webp`
@@ -287,6 +294,7 @@ export default function MarketingPage() {
         </div>
       </section>
 
+      <RelatedBlogPosts posts={relatedPosts} heading="Naučite više o digitalnom marketingu" />
       <BottomCTA />
     </>
   )

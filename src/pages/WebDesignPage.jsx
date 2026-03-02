@@ -4,6 +4,13 @@ import { Link } from 'react-router-dom'
 import { motion, AnimatePresence } from '../components/Motion'
 import Reveal from '../components/Reveal'
 import BottomCTA from '../components/BottomCTA'
+import RelatedBlogPosts from '../components/RelatedBlogPosts'
+
+const relatedPosts = [
+  { slug: 'zasto-vas-sajt-ne-prodaje', title: 'Zašto vaš sajt ne prodaje (i šta da promenite danas)', excerpt: 'Većina sajtova izgleda lepo ali ne konvertuje. Evo konkretnih koraka da to promenite.', readTime: '8 min', category: 'CRO' },
+  { slug: '5-gresaka-landing-stranice-konverzije', title: '5 grešaka na landing stranicama koje ubijaju konverzije', excerpt: 'Greške koje prave čak i iskusni marketari, i kako da ih ispravite.', readTime: '7 min', category: 'CRO' },
+  { slug: 'seo-vs-ppc-sta-je-bolje-za-dugorocni-rast', title: 'SEO vs PPC: šta je bolje za dugoročni rast', excerpt: 'Ne morate birati jedno. Ali morate znati kad koje koristiti.', readTime: '8 min', category: 'SEO' },
+]
 
 const B = import.meta.env.BASE_URL
 const heroHomeDark = `${B}hero-home-dark.webp`
@@ -446,6 +453,7 @@ export default function WebDesignPage() {
         </div>
       </section>
 
+      <RelatedBlogPosts posts={relatedPosts} heading="Članci o web dizajnu i konverzijama" />
       <BottomCTA />
     </>
   )
