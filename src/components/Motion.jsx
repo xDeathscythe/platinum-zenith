@@ -1,16 +1,18 @@
 /**
- * Lightweight motion re-exports using framer-motion/m (mini bundle).
- * Saves ~50% of vendor-motion bundle by excluding layout, drag, scroll animations.
+ * Lightweight motion with LazyMotion + domAnimation.
+ * Supports AnimatePresence exit animations while keeping bundle small.
  * 
- * Usage stays identical: import { motion, AnimatePresence } from '../components/Motion'
+ * Usage: import { motion, AnimatePresence, MotionProvider } from './Motion'
+ * Wrap your app/section with <MotionProvider> for exit animations to work.
  */
-export { AnimatePresence } from 'framer-motion'
+import { LazyMotion, domAnimation, m, AnimatePresence } from 'framer-motion'
 
-import * as m from 'framer-motion/m'
+export { AnimatePresence }
 
-// Re-create the motion.div / motion.span / etc. namespace
-export const motion = new Proxy(m, {
-  get(target, prop) {
-    return target[prop]
-  }
-})
+// m components work with LazyMotion for full animation support
+export const motion = m
+
+// Provider component — wrap sections that need exit animations
+export function MotionProvider({ children }) {
+  return <LazyMotion features={domAnimation} strict>{children}</LazyMotion>
+}

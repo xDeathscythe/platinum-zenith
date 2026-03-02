@@ -1,5 +1,6 @@
 import { useState, useEffect, lazy, Suspense } from 'react'
 import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom'
+import { MotionProvider } from './components/Motion'
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
 import CalFloatingButton from './components/CalFloatingButton'
@@ -92,6 +93,7 @@ function PublicLayout() {
 
 export default function App() {
   return (
+    <MotionProvider>
     <BrowserRouter basename={import.meta.env.BASE_URL}>
       <ScrollToTop />
       <Suspense fallback={<PageLoader />}>
@@ -111,5 +113,6 @@ export default function App() {
         </Routes>
       </Suspense>
     </BrowserRouter>
+    </MotionProvider>
   )
 }

@@ -1,54 +1,47 @@
 /**
- * Page meta hook — tiny footprint in index bundle.
- * All meta data is lazy-loaded from pageMetaData.js on first render.
+ * Page meta hook — inline data to avoid sequential network request.
+ * pageMetaData is only 6.5KB — not worth a separate chunk + waterfall.
  */
 import { useEffect } from 'react'
 import { useLocation } from 'react-router-dom'
-
-let metaCache = null
+import { pageMeta, orgSchema, websiteSchema, pageSchemas, setJsonLd, SITE_URL } from './pageMetaData.js'
 
 export default function usePageMeta() {
   const { pathname } = useLocation()
 
   useEffect(() => {
-    const apply = async () => {
-      if (!metaCache) {
-        metaCache = await import('./pageMetaData.js')
-      }
-      const { pageMeta, orgSchema, websiteSchema, pageSchemas, setJsonLd, SITE_URL } = metaCache
+    const meta = pageMeta[pathname] || pageMeta['/']
+    document.title = meta.title
 
-      const meta = pageMeta[pathname] || pageMeta['/']
-      document.title = meta.title
+    const descTag = document.querySelector('meta[name="description"]')
+    if (descTag) descTag.setAttribute('content', meta.description)
 
-      const descTag = document.querySelector('meta[name="description"]')
-      if (descTag) descTag.setAttribute('content', meta.description)
+    let kwTag = document.querySelector('meta[name="keywords"]')
+    if (!kwTag) { kwTag = document.createElement('meta'); kwTag.name = 'keywords'; document.head.appendChild(kwTag) }
+    kwTag.setAttribute('content', meta.keywords || '')
 
-      let kwTag = document.querySelector('meta[name="keywords"]')
-      if (!kwTag) { kwTag = document.createElement('meta'); kwTag.name = 'keywords'; document.head.appendChild(kwTag) }
-      kwTag.setAttribute('content', meta.keywords || '')
+    const ogTitle = document.querySelector('meta[property="og:title"]')
+    if (ogTitle) ogTitle.setAttribute('content', meta.title)
+    const ogDesc = document.querySelector('meta[property="og:description"]')
+    if (ogDesc) ogDesc.setAttribute('content', meta.description)
 
-      const ogTitle = document.querySelector('meta[property="og:title"]')
-      if (ogTitle) ogTitle.setAttribute('content', meta.title)
-      const ogDesc = document.querySelector('meta[property="og:description"]')
-      if (ogDesc) ogDesc.setAttribute('content', meta.description)
+    const canonicalUrl = `${SITE_URL}${pathname === '/' ? '/' : pathname}`
+    const canonical = document.querySelector('link[rel="canonical"]')
+    if (canonical) canonical.setAttribute('href', canonicalUrl)
+    const ogUrl = document.querySelector('meta[property="og:url"]')
+    if (ogUrl) ogUrl.setAttribute('content', canonicalUrl)
 
-      const canonicalUrl = `${SITE_URL}${pathname === '/' ? '/' : pathname}`
-      const canonical = document.querySelector('link[rel="canonical"]')
-      if (canonical) canonical.setAttribute('href', canonicalUrl)
-      const ogUrl = document.querySelector('meta[property="og:url"]')
-      if (ogUrl) ogUrl.setAttribute('content', canonicalUrl)
+    setJsonLd('ld-org', orgSchema)
+    if (pathname === '/') setJsonLd('ld-website', websiteSchema)
+    else { const ws = document.getElementById('ld-website'); if (ws) ws.remove() }
 
-      setJsonLd('ld-org', orgSchema)
-      if (pathname === '/') setJsonLd('ld-website', websiteSchema)
-      else { const ws = document.getElementById('ld-website'); if (ws) ws.remove() }
+    if (pageSchemas[pathname]) setJsonLd('ld-page', pageSchemas[pathname])
+    else { const ps = document.getElementById('ld-page'); if (ps) ps.remove() }
 
-      if (pageSchemas[pathname]) setJsonLd('ld-page', pageSchemas[pathname])
-      else { const ps = document.getElementById('ld-page'); if (ps) ps.remove() }
-
-      // Blog data — separate lazy import
-      const blogMatch = pathname.match(/^\/blog\/(.+)$/)
-      if (blogMatch || pathname === '/blog') {
-        const { blogPosts } = await import('../pages/blog/blogData')
+    // Blog data — separate lazy import (blogData is 214KB, keep it lazy)
+    const blogMatch = pathname.match(/^\/blog\/(.+)$/)
+    if (blogMatch || pathname === '/blog') {
+      import('../pages/blog/blogData').then(({ blogPosts }) => {
         if (blogMatch) {
           const post = blogPosts.find(p => p.slug === blogMatch[1])
           if (post) {
@@ -69,12 +62,10 @@ export default function usePageMeta() {
             { "@type": "ListItem", "position": 2, "name": "Blog", "item": `${SITE_URL}/blog` }
           ]})
         }
-      } else {
-        const art = document.getElementById('ld-article'); if (art) art.remove()
-        const bc = document.getElementById('ld-breadcrumb'); if (bc) bc.remove()
-      }
+      })
+    } else {
+      const art = document.getElementById('ld-article'); if (art) art.remove()
+      const bc = document.getElementById('ld-breadcrumb'); if (bc) bc.remove()
     }
-
-    apply()
   }, [pathname])
 }
