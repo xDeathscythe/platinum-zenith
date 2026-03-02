@@ -6,10 +6,10 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
     <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-XXXXXXXXXX');</script>
     -->
-    <!-- Critical inline CSS — prevents FOUC while main CSS loads async -->
+    <!-- Critical inline CSS - prevents FOUC while main CSS loads async -->
     <style>
       :root{--page:#000;--ink:#fff;--ink-2:rgba(255,255,255,.8);--ink-4:rgba(255,255,255,.45)}
-      /* Fallback font with size-adjust to match Inter metrics — prevents CLS on font swap */
+      /* Fallback font with size-adjust to match Inter metrics - prevents CLS on font swap */
       @font-face{font-family:'Inter Fallback';src:local('Arial');size-adjust:107%;ascent-override:90%;descent-override:22%;line-gap-override:0%}
       body{margin:0;font-family:Inter,'Inter Fallback',system-ui,-apple-system,sans-serif;background:var(--page);color:var(--ink)}
       #root{min-height:100vh}
@@ -24,7 +24,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <!-- SEO -->
-    <title>Platinum Zenith | Digitalna Agencija — Marketing, Web Design, Consulting</title>
+    <title>Platinum Zenith | Digitalna Agencija - Marketing, Web Design, Consulting</title>
     <meta name="description" content="Platinum Zenith je digitalna agencija iz Zrenjanina. Pomažemo preduzećima da privuku više klijenata kroz digitalni marketing, web design, CRO optimizaciju i poslovno savetovanje." />
     <meta name="keywords" content="digitalni marketing, web design, agencija Srbija, Zrenjanin, CRO, consulting, Google Ads, Meta Ads, SEO, izrada sajta" />
     <meta name="author" content="Platinum Zenith" />
@@ -50,10 +50,11 @@
     <meta name="twitter:description" content="Privucite pažnju i generišite prodaju na lak, siguran i predvidljiv način." />
     <meta name="twitter:image" content="https://platinumzenith.com/og-image.jpg" />
 
-    <!-- Preload LCP image (logo) — visible in initial document, fetchpriority=high -->
+    <!-- Preload LCP candidates (logo + first visible AppPreview card) -->
     <link rel="preload" as="image" href="/pz-logo.svg" type="image/svg+xml" fetchpriority="high" />
+    <link rel="preload" as="image" href="/truffles-03.webp" type="image/webp" fetchpriority="high" />
 
-    <!-- Self-hosted fonts — preload Latin (most used) to eliminate FOIT -->
+    <!-- Self-hosted fonts - preload Latin (most used) to eliminate FOIT -->
     <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-latin.woff2" crossorigin />
     <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-cyrillic.woff2" crossorigin />
 
@@ -64,7 +65,7 @@
     <meta name="geo.region" content="RS" />
     <meta name="geo.placename" content="Zrenjanin" />
 
-    <!-- Structured Data — Organization + LocalBusiness -->
+    <!-- Structured Data - Organization + LocalBusiness -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -109,7 +110,7 @@
     }
     </script>
 
-    <!-- Structured Data — WebSite (enables sitelinks search) -->
+    <!-- Structured Data - WebSite (enables sitelinks search) -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
