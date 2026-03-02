@@ -270,7 +270,7 @@ function VShapeCards({ ads, brandName }) {
               brandName={brandName}
               direction={dir}
               delay={stagger[pos]}
-              eager={isInitial && pos === 2}
+              eager={isInitial}
             />
             {/* Bottom card — slides in OPPOSITE direction */}
             <CardSlot
@@ -278,6 +278,7 @@ function VShapeCards({ ads, brandName }) {
               brandName={brandName}
               direction={-dir}
               delay={stagger[pos]}
+              eager={isInitial}
             />
           </div>
         ))}

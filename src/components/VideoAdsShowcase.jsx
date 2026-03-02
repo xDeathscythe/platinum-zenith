@@ -267,15 +267,17 @@ function ScrollRow({ ads, direction = 'left', speed = 30 }) {
     if (!el) return
 
     let animId
-    let pos = direction === 'left' ? 0 : el.scrollWidth / 2
+    // Cache scrollWidth once to avoid forced reflow on every frame
+    const halfScroll = el.scrollWidth / 2
+    let pos = direction === 'left' ? 0 : halfScroll
 
     const step = () => {
       if (direction === 'left') {
         pos += 0.4
-        if (pos >= el.scrollWidth / 2) pos = 0
+        if (pos >= halfScroll) pos = 0
       } else {
         pos -= 0.4
-        if (pos <= 0) pos = el.scrollWidth / 2
+        if (pos <= 0) pos = halfScroll
       }
       el.scrollLeft = pos
       animId = requestAnimationFrame(step)
