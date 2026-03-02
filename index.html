@@ -57,6 +57,66 @@
     <!-- Geo targeting -->
     <meta name="geo.region" content="RS" />
     <meta name="geo.placename" content="Zrenjanin" />
+
+    <!-- Structured Data — Organization + LocalBusiness -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ProfessionalService",
+      "name": "Platinum Zenith",
+      "url": "https://platinumzenith.com",
+      "logo": "https://platinumzenith.com/pz-icon.webp",
+      "image": "https://platinumzenith.com/og-image.jpg",
+      "description": "Digitalna agencija iz Zrenjanina. Digitalni marketing, web dizajn, CRO optimizacija i poslovno savetovanje za firme koje zele vise klijenata.",
+      "telephone": "+381668168929",
+      "email": "aleksandar@platinumzenith.com",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Zrenjanin",
+        "addressCountry": "RS"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.3833,
+        "longitude": 20.3833
+      },
+      "areaServed": [
+        { "@type": "Country", "name": "Serbia" },
+        { "@type": "Country", "name": "Croatia" },
+        { "@type": "Country", "name": "Bosnia and Herzegovina" },
+        { "@type": "Country", "name": "Montenegro" }
+      ],
+      "serviceType": ["Digital Marketing", "Web Design", "CRO Optimization", "Business Consulting", "Social Media Management"],
+      "priceRange": "$$",
+      "founder": {
+        "@type": "Person",
+        "name": "Aleksandar Nenadic",
+        "jobTitle": "CEO"
+      },
+      "sameAs": [],
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "09:00",
+        "closes": "18:00"
+      }
+    }
+    </script>
+
+    <!-- Structured Data — WebSite (enables sitelinks search) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Platinum Zenith",
+      "url": "https://platinumzenith.com",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://platinumzenith.com/blog?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
   </head>
   <body>
     <div id="root"></div>

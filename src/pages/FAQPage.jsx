@@ -162,8 +162,22 @@ function FAQItem({ question, answer, index }) {
 }
 
 export default function FAQPage() {
+  // Generate FAQ structured data for Google rich results
+  const faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": faqData.flatMap(cat => cat.questions.map(q => ({
+      "@type": "Question",
+      "name": q.q,
+      "acceptedAnswer": { "@type": "Answer", "text": q.a }
+    })))
+  }
+
   return (
     <>
+      {/* FAQ Schema for Google */}
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
+
       {/* Hero */}
       <section className="relative flex flex-col items-center text-center pt-[200px] md:pt-[260px] pb-[80px] md:pb-[120px] px-4 md:px-8 overflow-hidden min-h-[70vh]">
         <div className="absolute inset-0 z-0">
