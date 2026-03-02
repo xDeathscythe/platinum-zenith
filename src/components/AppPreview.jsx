@@ -1,5 +1,5 @@
 import { useState, useMemo, useEffect } from 'react'
-import { motion, AnimatePresence } from 'framer-motion'
+import { motion, AnimatePresence } from './Motion'
 
 const B = import.meta.env.BASE_URL
 

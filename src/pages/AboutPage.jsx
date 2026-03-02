@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import PageMeta from '../components/PageMeta'
 import { Link } from 'react-router-dom'
-import { motion } from 'framer-motion'
+import { motion } from '../components/Motion'
 import Reveal from '../components/Reveal'
 import BottomCTA from '../components/BottomCTA'
 

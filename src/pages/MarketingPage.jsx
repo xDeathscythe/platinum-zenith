@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { motion, AnimatePresence } from 'framer-motion'
+import { motion, AnimatePresence } from '../components/Motion'
 import { Link } from 'react-router-dom'
 import PageMeta from '../components/PageMeta'
 import Reveal from '../components/Reveal'

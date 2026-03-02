@@ -1,4 +1,4 @@
-import { motion } from 'framer-motion'
+import { motion } from '../components/Motion'
 import PageMeta from '../components/PageMeta'
 import { useState } from 'react'
 import { Link } from 'react-router-dom'

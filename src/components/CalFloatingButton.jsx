@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { AnimatePresence, motion } from 'framer-motion'
+import { motion, AnimatePresence } from './Motion'
 
 const CAL_LINK = 'platinumzenith/info'
 
