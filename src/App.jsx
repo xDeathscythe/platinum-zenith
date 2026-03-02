@@ -56,7 +56,10 @@ function PublicLayout() {
   return (
     <div className="min-h-screen bg-page text-ink">
       <Navbar sidebarOpen={sidebarOpen} setSidebarOpen={setSidebarOpen} />
-      <div className={`transition-all duration-500 ease-[cubic-bezier(0.25,0.1,0.25,1)] ${sidebarOpen ? 'md:ml-[260px]' : 'ml-0'}`}>
+      <div
+        className="will-change-transform transition-transform duration-500 ease-[cubic-bezier(0.25,0.1,0.25,1)]"
+        style={{ transform: sidebarOpen ? 'translateX(260px)' : 'translateX(0)' }}
+      >
         <Suspense fallback={<PageLoader />}>
           <Routes>
             <Route path="/" element={<HomePage />} />

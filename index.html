@@ -9,7 +9,9 @@
     <!-- Critical inline CSS — prevents FOUC while main CSS loads async -->
     <style>
       :root{--page:#000;--ink:#fff;--ink-2:rgba(255,255,255,.8);--ink-4:rgba(255,255,255,.45)}
-      body{margin:0;font-family:Inter,system-ui,-apple-system,sans-serif;background:var(--page);color:var(--ink)}
+      /* Fallback font with size-adjust to match Inter metrics — prevents CLS on font swap */
+      @font-face{font-family:'Inter Fallback';src:local('Arial');size-adjust:107%;ascent-override:90%;descent-override:22%;line-gap-override:0%}
+      body{margin:0;font-family:Inter,'Inter Fallback',system-ui,-apple-system,sans-serif;background:var(--page);color:var(--ink)}
       #root{min-height:100vh}
       .hero-enter{opacity:0;transform:translateY(12px);animation:heroIn .6s ease forwards}
       @keyframes heroIn{to{opacity:1;transform:translateY(0)}}
@@ -49,9 +51,12 @@
     <meta name="twitter:image" content="https://platinumzenith.com/og-image.jpg" />
 
     <!-- Preload LCP image — eliminates 2.7s resource load delay -->
-    <link rel="preload" as="image" href="/truffles-01.webp" type="image/webp" fetchpriority="high" />
+
     <!-- Preload hero background -->
     <link rel="preload" as="image" href="/hero-home-dark.webp" type="image/webp" />
+
+    <!-- Preload LCP image (logo) — eliminates discovery delay -->
+    <link rel="preload" as="image" href="/pz-logo.svg" type="image/svg+xml" fetchpriority="high" />
 
     <!-- Preconnect + Preload for speed -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
