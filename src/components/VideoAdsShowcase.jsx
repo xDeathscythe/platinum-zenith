@@ -195,8 +195,7 @@ const videoAdsRow2 = [
 function VideoAdCard({ ad, delay = 0 }) {
   return (
     <div
-      className="bg-tile rounded-[16px] overflow-hidden w-[220px] flex-shrink-0 border border-edge-2 reveal"
-      style={{ animationDelay: `${delay}s` }}
+      className="bg-tile rounded-[16px] overflow-hidden w-[220px] flex-shrink-0 border border-edge-2"
     >
       {/* Header — profile + active badge */}
       <div className="px-3.5 pt-3.5 pb-2">

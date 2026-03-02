@@ -206,46 +206,49 @@ function ArrowBtn({ direction, onClick }) {
 
 /* ─── Card Slot — CSS keyframe crossfade (grid stack, no framer-motion) ── */
 function CardSlot({ ad, brandName, direction, delay, eager = false }) {
-  const [display, setDisplay] = useState({ current: ad, prev: null, dir: direction })
+  const [shown, setShown] = useState(ad)
+  const [exitAd, setExitAd] = useState(null)
+  const dirRef = useRef(direction)
   const keyRef = useRef(0)
 
   useEffect(() => {
-    if (ad.text === display.current.text) return
+    dirRef.current = direction
+  }, [direction])
+
+  useEffect(() => {
+    if (ad.text === shown.text) return
     keyRef.current += 1
-    setDisplay({ current: ad, prev: display.current, dir: direction })
-    const t = setTimeout(() => {
-      setDisplay(d => ({ ...d, prev: null }))
-    }, 750 + delay * 1000)
+    setExitAd(shown)
+    setShown(ad)
+    const t = setTimeout(() => setExitAd(null), 800 + delay * 1000)
     return () => clearTimeout(t)
-  }, [ad.text, direction])
+  }, [ad.text])
 
   return (
     <div style={{ display: 'grid', width: CARD_W, overflow: 'hidden' }}>
-      {/* Previous card — exits */}
-      {display.prev && (
+      {exitAd && (
         <div
-          key={`exit-${keyRef.current}`}
+          key={`x${keyRef.current}`}
           className="cs-exit"
           style={{
             gridArea: '1 / 1',
-            '--cs-x': `${-display.dir * 60}px`,
+            '--cs-x': `${-dirRef.current * 60}px`,
             '--cs-delay': `${delay}s`,
           }}
         >
-          <AdCard ad={display.prev} brandName={brandName} />
+          <AdCard ad={exitAd} brandName={brandName} />
         </div>
       )}
-      {/* Current card — enters (or static on first render) */}
       <div
-        key={`enter-${keyRef.current}`}
-        className={display.prev ? 'cs-enter' : ''}
+        key={`e${keyRef.current}`}
+        className={exitAd ? 'cs-enter' : ''}
         style={{
           gridArea: '1 / 1',
-          '--cs-x': `${display.dir * 60}px`,
+          '--cs-x': `${dirRef.current * 60}px`,
           '--cs-delay': `${delay}s`,
         }}
       >
-        <AdCard ad={display.current} brandName={brandName} eager={eager} />
+        <AdCard ad={shown} brandName={brandName} eager={eager} />
       </div>
     </div>
   )
