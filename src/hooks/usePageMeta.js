@@ -41,6 +41,20 @@ export default function usePageMeta() {
     const ogUrl = document.querySelector('meta[property="og:url"]')
     if (ogUrl) ogUrl.setAttribute('content', canonicalUrl)
 
+    // OG/Twitter image per page (unique URL per route)
+    const ogImageUrl = meta.ogImage || (pathname === '/'
+      ? `${SITE_URL}/og-image.jpg`
+      : `${SITE_URL}/og-image.jpg?route=${encodeURIComponent(pathname.replace(/^\//, ''))}`)
+
+    const ogImage = document.querySelector('meta[property="og:image"]')
+    if (ogImage) ogImage.setAttribute('content', ogImageUrl)
+    const twImage = document.querySelector('meta[name="twitter:image"]')
+    if (twImage) twImage.setAttribute('content', ogImageUrl)
+    const twTitle = document.querySelector('meta[name="twitter:title"]')
+    if (twTitle) twTitle.setAttribute('content', meta.title)
+    const twDesc = document.querySelector('meta[name="twitter:description"]')
+    if (twDesc) twDesc.setAttribute('content', meta.description)
+
     // Base schema
     setJsonLd('ld-org', orgSchema)
     if (pathname === '/') setJsonLd('ld-website', websiteSchema)
