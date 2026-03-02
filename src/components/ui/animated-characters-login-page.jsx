@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react'
-import { Eye, EyeOff, Mail, Sparkles } from 'lucide-react'
+import { Eye, EyeOff, Mail } from 'lucide-react'
 import { Button } from './button'
 import { Input } from './input'
 import { Label } from './label'
@@ -106,6 +106,7 @@ export default function AnimatedCharactersLoginPage({
   title = 'PLATINUM ZENITH',
   subtitle = 'Admin Panel',
 }) {
+  const logoSrc = `${import.meta.env.BASE_URL}pz-logo.svg`
   const [showPassword, setShowPassword] = useState(false)
   const [username, setUsername] = useState('')
   const [password, setPassword] = useState('')
@@ -234,14 +235,9 @@ export default function AnimatedCharactersLoginPage({
 
   return (
     <div className="min-h-screen grid lg:grid-cols-2 bg-black text-white">
-      <div className="relative hidden lg:flex flex-col justify-between bg-gradient-to-br from-[#5931d8] via-[#5d36dd] to-[#4d2bbf] p-12 text-white overflow-hidden">
+      <div className="relative hidden lg:flex flex-col justify-between bg-gradient-to-br from-[#313136] via-[#16161a] to-[#000000] p-12 text-white overflow-hidden">
         <div className="relative z-20">
-          <div className="flex items-center gap-2 text-lg font-semibold">
-            <div className="size-8 rounded-lg bg-white/10 backdrop-blur-sm flex items-center justify-center">
-              <Sparkles className="size-4" />
-            </div>
-            <span>Platinum Zenith</span>
-          </div>
+          <img src={logoSrc} alt="Platinum Zenith" className="h-[44px] w-auto" width={200} height={77} />
         </div>
 
         <div className="relative z-20 flex items-end justify-center h-[500px]">
@@ -430,11 +426,8 @@ export default function AnimatedCharactersLoginPage({
 
       <div className="flex items-center justify-center p-8 bg-[#0a0a0a]">
         <div className="w-full max-w-[420px]">
-          <div className="lg:hidden flex items-center justify-center gap-2 text-lg font-semibold mb-12 text-white">
-            <div className="size-8 rounded-lg bg-white/10 flex items-center justify-center">
-              <Sparkles className="size-4" />
-            </div>
-            <span>Platinum Zenith</span>
+          <div className="lg:hidden flex items-center justify-center mb-12 text-white">
+            <img src={logoSrc} alt="Platinum Zenith" className="h-[40px] w-auto" width={200} height={77} />
           </div>
 
           <div className="text-center mb-10">
