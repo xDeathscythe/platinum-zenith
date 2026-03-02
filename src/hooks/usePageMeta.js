@@ -10,6 +10,11 @@ export function preloadPageMeta() {
   return pageMetaModulePromise
 }
 
+function pageNameFromTitle(title) {
+  if (!title) return 'Stranica'
+  return title.split('|')[0].trim()
+}
+
 export default function usePageMeta() {
   const { pathname } = useLocation()
 
@@ -74,7 +79,20 @@ export default function usePageMeta() {
         })
       } else {
         const art = document.getElementById('ld-article'); if (art) art.remove()
-        const bc = document.getElementById('ld-breadcrumb'); if (bc) bc.remove()
+
+        // Generic breadcrumb for every non-home page
+        if (pathname !== '/') {
+          setJsonLd('ld-breadcrumb', {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              { "@type": "ListItem", "position": 1, "name": "Početna", "item": SITE_URL },
+              { "@type": "ListItem", "position": 2, "name": pageNameFromTitle(meta.title), "item": canonicalUrl }
+            ]
+          })
+        } else {
+          const bc = document.getElementById('ld-breadcrumb'); if (bc) bc.remove()
+        }
       }
     })
 
