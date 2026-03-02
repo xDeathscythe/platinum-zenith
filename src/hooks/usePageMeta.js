@@ -43,10 +43,12 @@ export default function usePageMeta() {
     const ogUrl = document.querySelector('meta[property="og:url"]')
     if (ogUrl) ogUrl.setAttribute('content', canonicalUrl)
 
-    // OG/Twitter image per page (unique URL per route)
-    const ogImageUrl = meta.ogImage || (pathname === '/'
-      ? `${SITE_URL}/og-image.jpg`
-      : `${SITE_URL}/og-image.jpg?route=${encodeURIComponent(pathname.replace(/^\//, ''))}`)
+    // OG type: article for blog posts, website for everything else
+    const ogType = document.querySelector('meta[property="og:type"]')
+    if (ogType) ogType.setAttribute('content', normalizedPath.startsWith('/blog/') ? 'article' : 'website')
+
+    // OG/Twitter image
+    const ogImageUrl = meta.ogImage || `${SITE_URL}/og-image.jpg`
 
     const ogImage = document.querySelector('meta[property="og:image"]')
     if (ogImage) ogImage.setAttribute('content', ogImageUrl)
