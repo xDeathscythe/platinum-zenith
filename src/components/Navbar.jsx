@@ -36,7 +36,7 @@ export default function Navbar({ sidebarOpen, setSidebarOpen }) {
 
   return (
     <>
-      <header className={`fixed top-0 left-0 right-0 z-[100] flex items-center justify-between px-4 md:px-8 py-3 transition-all duration-300 ease-in-out ${visible ? 'translate-y-0' : '-translate-y-full'} ${scrolled ? 'bg-page/80 backdrop-blur-md' : 'bg-transparent'}`}>
+      <header className={`fixed top-0 left-0 right-0 z-[100] flex items-center justify-between px-4 md:px-8 py-3 transition-all duration-300 ease-in-out ${visible ? 'translate-y-0' : '-translate-y-full'} ${scrolled ? 'bg-page/80 backdrop-blur-md' : 'bg-transparent'}`} style={{ contain: 'layout style' }}>
         <div className="flex items-center gap-2 md:gap-2.5 flex-shrink-0">
           <Link to="/" className="cursor-pointer">
             <img src={`${import.meta.env.BASE_URL}pz-logo.svg`} alt="Platinum Zenith" className="h-[58px] md:h-[77px] w-auto logo-adaptive" width={200} height={77} style={{ aspectRatio: '200/77' }} loading="eager" fetchPriority="high" decoding="sync" />

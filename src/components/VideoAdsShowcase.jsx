@@ -264,11 +264,21 @@ function ScrollRow({ ads, direction = 'left', speed = 30 }) {
     if (!el) return
 
     let animId
-    // Cache scrollWidth once to avoid forced reflow on every frame
-    const halfScroll = el.scrollWidth / 2
-    let pos = direction === 'left' ? 0 : halfScroll
+    let halfScroll = 0
+    let pos = 0
+    let started = false
+
+    // Defer the expensive scrollWidth read until after initial paint
+    const startScroll = () => {
+      halfScroll = el.scrollWidth / 2
+      pos = direction === 'left' ? 0 : halfScroll
+      started = true
+    }
 
     const step = () => {
+      if (!started) {
+        startScroll()
+      }
       if (direction === 'left') {
         pos += 0.4
         if (pos >= halfScroll) pos = 0
@@ -280,7 +290,10 @@ function ScrollRow({ ads, direction = 'left', speed = 30 }) {
       animId = requestAnimationFrame(step)
     }
 
-    animId = requestAnimationFrame(step)
+    // Wait for first rAF (after browser has painted) to avoid blocking initial render
+    animId = requestAnimationFrame(() => {
+      animId = requestAnimationFrame(step)
+    })
     return () => cancelAnimationFrame(animId)
   }, [direction])
 

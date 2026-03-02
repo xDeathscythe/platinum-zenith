@@ -28,7 +28,7 @@ export default function Hero() {
           }}
         />
 
-        {/* Transition boost band (extra aggressive) */}
+        {/* Transition boost band (extra aggressive) — will-change for GPU compositing */}
         <div className="absolute inset-x-0 z-[1]"
           style={{
             top: '64vh',
@@ -37,6 +37,8 @@ export default function Hero() {
             WebkitBackdropFilter: 'blur(68px)',
             maskImage: 'linear-gradient(to bottom, transparent 0%, black 20%, black 82%, transparent 100%)',
             WebkitMaskImage: 'linear-gradient(to bottom, transparent 0%, black 20%, black 82%, transparent 100%)',
+            willChange: 'auto',
+            contain: 'strict',
           }}
         />
 
