@@ -3,6 +3,7 @@ import express from 'express'
 import cors from 'cors'
 import { fileURLToPath } from 'url'
 import { dirname, join } from 'path'
+import { existsSync } from 'fs'
 
 // Load .env from project root (not CWD)
 const __filename = fileURLToPath(import.meta.url)
@@ -49,6 +50,29 @@ app.use((req, res, next) => {
     res.set('Pragma', 'no-cache')
     res.set('Expires', '0')
   }
+  next()
+})
+
+// Serve precompressed Brotli assets when available (faster critical path)
+app.use((req, res, next) => {
+  if (req.method !== 'GET' && req.method !== 'HEAD') return next()
+  const ae = req.headers['accept-encoding'] || ''
+  if (!ae.includes('br')) return next()
+
+  const url = req.path.toLowerCase()
+  const isAsset = url.startsWith('/assets/') && (url.endsWith('.js') || url.endsWith('.css'))
+  if (!isAsset) return next()
+
+  const rel = req.path.replace(/^\/+/, '')
+  const brFile = join(distPath, `${rel}.br`)
+  if (!existsSync(brFile)) return next()
+
+  res.setHeader('Content-Encoding', 'br')
+  res.setHeader('Vary', 'Accept-Encoding')
+  if (url.endsWith('.js')) res.setHeader('Content-Type', 'application/javascript; charset=UTF-8')
+  if (url.endsWith('.css')) res.setHeader('Content-Type', 'text/css; charset=UTF-8')
+
+  req.url = `${req.url}.br`
   next()
 })
 

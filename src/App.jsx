@@ -3,7 +3,10 @@ import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom'
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
 import CalFloatingButton from './components/CalFloatingButton'
-import usePageMeta from './hooks/usePageMeta'
+import usePageMeta, { preloadPageMeta } from './hooks/usePageMeta'
+
+// Start fetching page meta chunk immediately (parallel with app boot)
+preloadPageMeta()
 
 // Lazy load all pages for code splitting
 const HomePage = lazy(() => import('./pages/HomePage'))
