@@ -205,29 +205,7 @@ function ArrowBtn({ direction, onClick }) {
 }
 
 /* ─── Card Slot — overlapping crossfade (grid stack = no flash) ── */
-/* On initial render (eager=true), skip AnimatePresence to avoid forced reflow */
 function CardSlot({ ad, brandName, direction, delay, eager = false }) {
-  const [hasInteracted, setHasInteracted] = useState(false)
-
-  useEffect(() => {
-    if (!eager) setHasInteracted(true)
-  }, [eager])
-
-  useEffect(() => {
-    if (hasInteracted) return
-    // Defer animation setup until after first paint
-    const id = requestAnimationFrame(() => setHasInteracted(true))
-    return () => cancelAnimationFrame(id)
-  }, [])
-
-  if (!hasInteracted) {
-    return (
-      <div style={{ width: CARD_W }}>
-        <AdCard ad={ad} brandName={brandName} eager={eager} />
-      </div>
-    )
-  }
-
   return (
     <div style={{ display: 'grid', width: CARD_W }}>
       <AnimatePresence initial={false}>
