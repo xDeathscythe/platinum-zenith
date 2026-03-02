@@ -1,10 +1,12 @@
 import { useState, useEffect, lazy, Suspense } from 'react'
 import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom'
 import Navbar from './components/Navbar'
-import Footer from './components/Footer'
-import CalFloatingButton from './components/CalFloatingButton'
 import usePageMeta from './hooks/usePageMeta'
 import HomePage from './pages/HomePage'
+
+// Lazy load non-critical shared UI
+const Footer = lazy(() => import('./components/Footer'))
+const CalFloatingButton = lazy(() => import('./components/CalFloatingButton'))
 
 // Lazy load secondary pages for code splitting
 const WebDesignPage = lazy(() => import('./pages/WebDesignPage'))
@@ -53,6 +55,24 @@ function PageLoader() {
 
 function PublicLayout() {
   const [sidebarOpen, setSidebarOpen] = useState(false)
+  const [showCal, setShowCal] = useState(false)
+
+  useEffect(() => {
+    let timeoutId
+    let idleId
+
+    if (typeof window !== 'undefined' && 'requestIdleCallback' in window) {
+      idleId = window.requestIdleCallback(() => setShowCal(true), { timeout: 2200 })
+    } else {
+      timeoutId = setTimeout(() => setShowCal(true), 1200)
+    }
+
+    return () => {
+      if (idleId && typeof window !== 'undefined' && 'cancelIdleCallback' in window) window.cancelIdleCallback(idleId)
+      if (timeoutId) clearTimeout(timeoutId)
+    }
+  }, [])
+
   return (
     <div className="min-h-screen bg-page text-ink">
       <Navbar sidebarOpen={sidebarOpen} setSidebarOpen={setSidebarOpen} />
@@ -83,9 +103,15 @@ function PublicLayout() {
             <Route path="*" element={<NotFoundPage />} />
           </Routes>
         </Suspense>
-        <Footer />
+        <Suspense fallback={null}>
+          <Footer />
+        </Suspense>
       </div>
-      <CalFloatingButton />
+      {showCal && (
+        <Suspense fallback={null}>
+          <CalFloatingButton />
+        </Suspense>
+      )}
     </div>
   )
 }

@@ -38,10 +38,20 @@ app.use((req, res, next) => {
   const url = req.path.toLowerCase()
   const farFuture = new Date(Date.now() + ONE_YEAR * 1000).toUTCString()
 
-  if (url.startsWith('/assets/') || url.match(/\.(webp|jpg|jpeg|png|gif|svg|ico|woff2?|ttf|eot)$/)) {
+  if (url.startsWith('/assets/')) {
+    // Hashed build assets (safe immutable cache)
     res.set('Cache-Control', `public, max-age=${ONE_YEAR}, immutable`)
     res.set('Expires', farFuture)
     res.set('Vary', 'Accept-Encoding')
+  } else if (url.match(/\.(woff2?|ttf|eot)$/)) {
+    // Fonts rarely change
+    res.set('Cache-Control', `public, max-age=${ONE_YEAR}, immutable`)
+    res.set('Expires', farFuture)
+  } else if (url.match(/\.(webp|jpg|jpeg|png|gif|svg|ico)$/)) {
+    // Root/public images are not content-hashed -> avoid immutable to prevent stale files
+    const THIRTY_DAYS = 2592000
+    res.set('Cache-Control', `public, max-age=${THIRTY_DAYS}`)
+    res.set('Expires', new Date(Date.now() + THIRTY_DAYS * 1000).toUTCString())
   } else if (url.endsWith('.js') || url.endsWith('.css')) {
     res.set('Cache-Control', 'public, max-age=604800')
     res.set('Expires', new Date(Date.now() + 604800 * 1000).toUTCString())
