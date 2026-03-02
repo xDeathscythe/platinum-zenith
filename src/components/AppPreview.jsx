@@ -1,5 +1,5 @@
 import { useState, useMemo, useEffect } from 'react'
-import { motion, AnimatePresence } from './Motion'
+// motion/AnimatePresence removed — replaced with CSS transitions for zero forced reflow
 
 const B = import.meta.env.BASE_URL
 
@@ -204,26 +204,32 @@ function ArrowBtn({ direction, onClick }) {
   )
 }
 
-/* ─── Card Slot — overlapping crossfade (grid stack = no flash) ── */
+/* ─── Card Slot — CSS-only crossfade (zero forced reflow) ── */
 function CardSlot({ ad, brandName, direction, delay, eager = false }) {
+  const [current, setCurrent] = useState(ad)
+  const [animClass, setAnimClass] = useState('card-slot-visible')
+
+  useEffect(() => {
+    if (ad.text === current.text) return
+    setAnimClass('card-slot-exit')
+    const t = setTimeout(() => {
+      setCurrent(ad)
+      setAnimClass('card-slot-enter')
+      requestAnimationFrame(() => {
+        requestAnimationFrame(() => setAnimClass('card-slot-visible'))
+      })
+    }, 400)
+    return () => clearTimeout(t)
+  }, [ad.text])
+
   return (
-    <div style={{ display: 'grid', width: CARD_W }}>
-      <AnimatePresence initial={false}>
-        <motion.div
-          key={ad.text}
-          style={{ gridArea: '1 / 1' }}
-          initial={{ opacity: 0, x: direction * 60 }}
-          animate={{ opacity: 1, x: 0 }}
-          exit={{ opacity: 0, x: -direction * 60 }}
-          transition={{
-            duration: 0.75,
-            ease: [0.4, 0, 0.2, 1],
-            delay,
-          }}
-        >
-          <AdCard ad={ad} brandName={brandName} eager={eager} />
-        </motion.div>
-      </AnimatePresence>
+    <div style={{ width: CARD_W, overflow: 'hidden' }}>
+      <div
+        className={animClass}
+        style={{ transitionDelay: `${delay * 1000}ms` }}
+      >
+        <AdCard ad={current} brandName={brandName} eager={eager} />
+      </div>
     </div>
   )
 }
@@ -327,17 +333,9 @@ export default function AppPreview() {
       <div className="theme-dark bg-panel rounded-[16px] border border-edge-2 pt-8 pb-4 overflow-hidden relative" style={{ height: 680 }}>
         <h2 className="text-[28px] md:text-[32px] font-light text-ink text-center mb-6 tracking-wide whitespace-nowrap">{brand.name}</h2>
 
-        <AnimatePresence mode="wait" initial={false}>
-          <motion.div
-            key={active}
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            exit={{ opacity: 0 }}
-            transition={{ duration: 0.2 }}
-          >
-            <VShapeCards ads={brand.ads} brandName={brand.name} />
-          </motion.div>
-        </AnimatePresence>
+        <div key={active} className="brand-fade-in">
+          <VShapeCards ads={brand.ads} brandName={brand.name} />
+        </div>
 
         {/* Bottom fade */}
         <div className="absolute bottom-0 left-0 right-0 h-24 bg-gradient-to-t from-panel to-transparent pointer-events-none z-10" />

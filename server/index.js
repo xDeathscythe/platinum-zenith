@@ -38,8 +38,8 @@ app.use((req, res, next) => {
     // Hashed JS/CSS — cache 1 year, immutable
     res.setHeader('Cache-Control', 'public, max-age=31536000, immutable')
   } else if (url.match(/\.(webp|jpg|jpeg|png|gif|svg|ico|woff2?|ttf|eot)$/)) {
-    // Images, fonts — cache 30 days
-    res.setHeader('Cache-Control', 'public, max-age=2592000')
+    // Images, fonts — cache 1 year (filenames change when content changes)
+    res.setHeader('Cache-Control', 'public, max-age=31536000, immutable')
   } else if (url.endsWith('.js') || url.endsWith('.css')) {
     // Other JS/CSS — cache 7 days
     res.setHeader('Cache-Control', 'public, max-age=604800')

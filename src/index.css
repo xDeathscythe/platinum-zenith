@@ -225,3 +225,29 @@
     transition-duration: 0.01ms !important;
   }
 }
+
+/* Card slot CSS transitions — replaces AnimatePresence (zero forced reflow) */
+.card-slot-visible {
+  opacity: 1;
+  transform: translateX(0);
+  transition: opacity 0.4s cubic-bezier(0.4, 0, 0.2, 1), transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.card-slot-exit {
+  opacity: 0;
+  transform: translateX(-40px);
+  transition: opacity 0.35s cubic-bezier(0.4, 0, 0.2, 1), transform 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.card-slot-enter {
+  opacity: 0;
+  transform: translateX(40px);
+  transition: none;
+}
+
+/* Brand tab switch fade — replaces AnimatePresence */
+.brand-fade-in {
+  animation: brandFade 0.25s ease-out;
+}
+@keyframes brandFade {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
