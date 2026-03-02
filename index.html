@@ -6,7 +6,15 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
     <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-XXXXXXXXXX');</script>
     -->
-    <!-- Cache control handled by server headers -->
+    <!-- Critical inline CSS — prevents FOUC while main CSS loads async -->
+    <style>
+      :root{--page:#000;--ink:#fff;--ink-2:rgba(255,255,255,.8);--ink-4:rgba(255,255,255,.45)}
+      body{margin:0;font-family:Inter,system-ui,-apple-system,sans-serif;background:var(--page);color:var(--ink)}
+      #root{min-height:100vh}
+      .hero-enter{opacity:0;transform:translateY(12px);animation:heroIn .6s ease forwards}
+      @keyframes heroIn{to{opacity:1;transform:translateY(0)}}
+      .hero-enter-d1{animation-delay:.1s}.hero-enter-d2{animation-delay:.2s}
+    </style>
     <link rel="icon" type="image/webp" sizes="32x32" href="/pz-favicon-v2.webp" />
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
     <link rel="shortcut icon" href="/favicon.ico" />
