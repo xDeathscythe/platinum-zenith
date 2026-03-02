@@ -4,15 +4,9 @@ import Navbar from './components/Navbar'
 import Footer from './components/Footer'
 import CalFloatingButton from './components/CalFloatingButton'
 import usePageMeta from './hooks/usePageMeta'
+import HomePage from './pages/HomePage'
 
-// Lazy load pages for code splitting
-const loadHomePage = () => import('./pages/HomePage')
-const HomePage = lazy(loadHomePage)
-
-// Preload homepage chunk only when landing on home route (cuts initial waterfall)
-if (typeof window !== 'undefined' && (window.location.pathname === '/' || window.location.pathname === '/index.html')) {
-  loadHomePage()
-}
+// Lazy load secondary pages for code splitting
 const WebDesignPage = lazy(() => import('./pages/WebDesignPage'))
 const MarketingPage = lazy(() => import('./pages/MarketingPage'))
 const ConsultingPage = lazy(() => import('./pages/ConsultingPage'))

@@ -6,7 +6,6 @@ import Surfaces from '../components/Surfaces'
 import VideoAdsShowcase from '../components/VideoAdsShowcase'
 import BottomCTA from '../components/BottomCTA'
 import Reveal from '../components/Reveal'
-import { blogPosts } from './blog/blogData'
 
 /* ─── Full-width dark band (OpenAI-style visual break) ── */
 function PromiseBand() {
@@ -30,13 +29,30 @@ function PromiseBand() {
   )
 }
 
-/* ─── Featured blog posts ── */
-const featuredSlugs = [
-  'pricing-psihologija-kontrola-percepcije-cene',
-  'sales-funnel-koji-radi-na-autopilotu',
-  'copywriting-formule-koje-rade',
+/* ─── Featured blog posts (inline to avoid loading full blogData on homepage) ── */
+const featured = [
+  {
+    slug: 'pricing-psihologija-kontrola-percepcije-cene',
+    title: 'Pricing psihologija: kako brendovi kontrolišu percepciju cene',
+    category: 'Marketing',
+    excerpt: 'Cena nije broj. Cena je priča koju kupac priča sam sebi. Evo kako firme koje naplaćuju 10x više koriste psihologiju da to opravdaju.',
+    readTime: '7 min',
+  },
+  {
+    slug: 'sales-funnel-koji-radi-na-autopilotu',
+    title: 'Kako napraviti sales funnel koji radi dok vi spavate',
+    category: 'Marketing',
+    excerpt: 'Dok vi spavate, funnel hvata posetioce, gradi poverenje i zatvara prodaju. Ali samo ako je pravilno napravljen.',
+    readTime: '7 min',
+  },
+  {
+    slug: 'copywriting-formule-koje-rade',
+    title: 'Kako napisati oglas koji prodaje: copywriting formule koje rade',
+    category: 'Marketing',
+    excerpt: 'Nije bitno koliko ljudi vidi vaš oglas. Bitno je koliko ih ne može da odoli a da ne klikne. Evo formula koje to postižu.',
+    readTime: '7 min',
+  },
 ]
-const featured = featuredSlugs.map(s => blogPosts.find(p => p.slug === s)).filter(Boolean)
 
 function FeaturedBlog() {
   return (
