@@ -27,7 +27,7 @@ const portfolio = [
 ]
 
 /* ─── Browser Mockup ─── */
-function BrowserFrame({ src, name }) {
+function BrowserFrame({ src, name, type, result }) {
   return (
     <div className="bg-panel rounded-[12px] border border-edge-2 overflow-hidden shadow-[0_8px_40px_rgba(0,0,0,0.08)] group hover:border-white/[0.10] transition-all">
       <div className="flex items-center gap-1.5 px-3 py-2 border-b border-edge-2">
@@ -45,7 +45,7 @@ function BrowserFrame({ src, name }) {
       <div className="overflow-hidden">
         <img
           src={src}
-          alt={name}
+          alt={`${name} - ${type} sajt dizajn, rezultat: ${result}`}
           className="w-full h-auto object-cover group-hover:scale-[1.02] transition-transform duration-500"
           loading="lazy"
           width={600}
@@ -125,7 +125,7 @@ export default function WebDesignPage() {
           {/* Hero showcase — featured project in browser frame */}
           <div className="hero-enter hero-enter-d4 mt-10 md:mt-16">
             <div className="max-w-[900px] mx-auto">
-              <BrowserFrame src={`${B}portfolio-01.webp`} name="focusfizikal.rs" />
+              <BrowserFrame src={`${B}portfolio-01.webp`} name="focusfizikal.rs" type="Fitness" result="nov sajt" />
             </div>
           </div>
         </div>
@@ -211,7 +211,7 @@ export default function WebDesignPage() {
               transition={{ duration: 0.3 }}
               className="max-w-[900px] mx-auto"
             >
-              <BrowserFrame src={portfolio[activeProject].img} name={portfolio[activeProject].name} />
+              <BrowserFrame src={portfolio[activeProject].img} name={portfolio[activeProject].name} type={portfolio[activeProject].type} result={portfolio[activeProject].result} />
               <div className="flex items-center justify-center gap-6 mt-5">
                 <div className="text-center">
                   <div className="text-[12px] text-ink-2 uppercase tracking-wider">{portfolio[activeProject].type}</div>
