@@ -219,8 +219,43 @@ export default function BlogPostPage() {
     .filter(p => p.category === post.category && p.slug !== post.slug)
     .slice(0, 3)
 
+  // Article JSON-LD structured data for SEO
+  const articleSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: post.title,
+    description: post.excerpt,
+    datePublished: post.date,
+    dateModified: post.date,
+    author: {
+      '@type': 'Person',
+      name: 'Aleksandar Ilić',
+      url: 'https://platinumzenith.com/o-nama',
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: 'https://platinumzenith.com',
+      logo: {
+        '@type': 'ImageObject',
+        url: 'https://platinumzenith.com/pz-logo.svg',
+      },
+    },
+    mainEntityOfPage: {
+      '@type': 'WebPage',
+      '@id': `https://platinumzenith.com/blog/${post.slug}`,
+    },
+    articleSection: post.category,
+    wordCount: post.content ? post.content.split(/\s+/).length : undefined,
+    inLanguage: 'sr',
+  }
+
   return (
     <article className="blog-article">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
       <ReadingProgress />
       {/* Hero */}
       <header className="blog-header">
