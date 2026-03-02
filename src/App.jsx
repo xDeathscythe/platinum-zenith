@@ -62,9 +62,9 @@ function PublicLayout() {
     let idleId
 
     if (typeof window !== 'undefined' && 'requestIdleCallback' in window) {
-      idleId = window.requestIdleCallback(() => setShowCal(true), { timeout: 2200 })
+      idleId = window.requestIdleCallback(() => setShowCal(true), { timeout: 5000 })
     } else {
-      timeoutId = setTimeout(() => setShowCal(true), 1200)
+      timeoutId = setTimeout(() => setShowCal(true), 4500)
     }
 
     return () => {

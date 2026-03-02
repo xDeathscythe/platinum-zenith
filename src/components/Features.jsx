@@ -3,7 +3,9 @@ import Reveal from './Reveal'
 /* ─── Mockups za svaku uslugu ───────────────────── */
 function MockAds() {
   const productImg = `${import.meta.env.BASE_URL}hero-product.jpg`
+  const productImgDesktop = `${import.meta.env.BASE_URL}hero-product-323.jpg`
   const influencerImg = `${import.meta.env.BASE_URL}tiktok-influencer.webp`
+  const influencerImgDesktop = `${import.meta.env.BASE_URL}tiktok-influencer-269.webp`
   const footerData = [
     { label: 'Meta Ads', metric: 'ROAS 16.2x', badge: 'Active' },
     { label: 'Google Ads', metric: 'CPA €12', badge: 'Active' },
@@ -14,7 +16,15 @@ function MockAds() {
       {/* 1. Meta Catalog Ad */}
       <div className="bg-[#1a1a1a] rounded-[11px] overflow-hidden flex flex-col min-w-[280px] snap-center md:min-w-0">
         <div className="relative flex-1 overflow-hidden">
-          <img src={productImg} alt="Platinum Zenith portfolio - profesionalna fotografija proizvoda za e-commerce" className="absolute inset-0 w-full h-full object-cover" width={566} height={707} />
+          <img
+            src={productImgDesktop}
+            srcSet={`${productImgDesktop} 323w, ${productImg} 566w`}
+            sizes="(max-width: 768px) 323px, 323px"
+            alt="Platinum Zenith portfolio - profesionalna fotografija proizvoda za e-commerce"
+            className="absolute inset-0 w-full h-full object-cover"
+            width={323}
+            height={404}
+          />
           <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/20 to-transparent" />
           <div className="absolute top-3 left-3 flex items-center gap-1.5">
             <div className="w-6 h-6 rounded-full bg-white/10 backdrop-blur-sm" />
@@ -78,7 +88,15 @@ function MockAds() {
       {/* 3. TikTok Influencer UGC */}
       <div className="bg-[#1a1a1a] rounded-[11px] overflow-hidden flex flex-col min-w-[280px] snap-center md:min-w-0">
         <div className="relative flex-1 overflow-hidden">
-          <img src={influencerImg} alt="Influencer marketing kampanja - TikTok sadrzaj za brendove" className="absolute inset-0 w-full h-full object-cover" width={500} height={721} />
+          <img
+            src={influencerImgDesktop}
+            srcSet={`${influencerImgDesktop} 269w, ${influencerImg} 500w`}
+            sizes="(max-width: 768px) 269px, 269px"
+            alt="Influencer marketing kampanja - TikTok sadrzaj za brendove"
+            className="absolute inset-0 w-full h-full object-cover"
+            width={269}
+            height={404}
+          />
           <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-transparent to-transparent" />
           <div className="absolute top-3 left-3 right-3 flex items-center justify-between">
             <span className="text-[10px] text-white/50">Following | <span className="text-white font-semibold">For You</span></span>

@@ -127,6 +127,13 @@ function getVisible(arr, offset) {
 
 /* ─── Ad Card ── */
 function AdCard({ ad, brandName, eager = false }) {
+  const srcRaw = ad.img || ''
+  const qIdx = srcRaw.indexOf('?')
+  const query = qIdx >= 0 ? srcRaw.slice(qIdx) : ''
+  const srcBase = qIdx >= 0 ? srcRaw.slice(0, qIdx) : srcRaw
+  const hasCardVariant = /\/(truffles|grubin|medifizio|focus)-\d+\.webp$/i.test(srcBase)
+  const src196 = hasCardVariant ? srcBase.replace(/\.webp$/i, '-196.webp') + query : srcRaw
+
   return (
     <div className="bg-tile rounded-[14px] overflow-hidden" style={{ width: CARD_W }}>
       <div className="px-3.5 pt-3.5 pb-2">
@@ -155,7 +162,17 @@ function AdCard({ ad, brandName, eager = false }) {
       {/* Media block — real image or gradient fallback */}
       {ad.img ? (
         <div className="mx-3 rounded-[10px] overflow-hidden mb-2.5" style={{ aspectRatio: '4 / 5' }}>
-          <img src={ad.img} alt={ad.text.replace(/[\u{1F300}-\u{1FAD6}]/gu, '').trim()} className="w-full h-full object-cover" loading={eager ? 'eager' : 'lazy'} fetchPriority={eager ? 'high' : undefined} width={CARD_W - 24} height={Math.round((CARD_W - 24) * 1.25)} />
+          <img
+            src={src196}
+            srcSet={hasCardVariant ? `${src196} 196w, ${srcRaw} 343w` : undefined}
+            sizes={hasCardVariant ? '(max-width: 640px) 343px, 196px' : undefined}
+            alt={ad.text.replace(/[\u{1F300}-\u{1FAD6}]/gu, '').trim()}
+            className="w-full h-full object-cover"
+            loading={eager ? 'eager' : 'lazy'}
+            fetchPriority={eager ? 'high' : undefined}
+            width={CARD_W - 24}
+            height={Math.round((CARD_W - 24) * 1.25)}
+          />
         </div>
       ) : (
         <div
