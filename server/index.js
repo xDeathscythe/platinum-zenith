@@ -31,24 +31,29 @@ app.use('/api/admin', adminRoutes)
 // Static files AFTER API — with aggressive cache headers
 const distPath = join(__dirname, '..', 'dist')
 
-// Force cache headers via middleware (Hostinger nginx may strip express.static headers)
+// Force cache headers — both Cache-Control AND Expires (Hostinger nginx compatibility)
+const ONE_YEAR = 31536000
 app.use((req, res, next) => {
   const url = req.path.toLowerCase()
-  if (url.startsWith('/assets/')) {
-    // Hashed JS/CSS — cache 1 year, immutable
-    res.setHeader('Cache-Control', 'public, max-age=31536000, immutable')
-  } else if (url.match(/\.(webp|jpg|jpeg|png|gif|svg|ico|woff2?|ttf|eot)$/)) {
-    // Images, fonts — cache 1 year (filenames change when content changes)
-    res.setHeader('Cache-Control', 'public, max-age=31536000, immutable')
+  const farFuture = new Date(Date.now() + ONE_YEAR * 1000).toUTCString()
+
+  if (url.startsWith('/assets/') || url.match(/\.(webp|jpg|jpeg|png|gif|svg|ico|woff2?|ttf|eot)$/)) {
+    res.set('Cache-Control', `public, max-age=${ONE_YEAR}, immutable`)
+    res.set('Expires', farFuture)
+    res.set('Vary', 'Accept-Encoding')
   } else if (url.endsWith('.js') || url.endsWith('.css')) {
-    // Other JS/CSS — cache 7 days
-    res.setHeader('Cache-Control', 'public, max-age=604800')
+    res.set('Cache-Control', 'public, max-age=604800')
+    res.set('Expires', new Date(Date.now() + 604800 * 1000).toUTCString())
+  } else if (url.endsWith('.html') || url === '/') {
+    res.set('Cache-Control', 'no-cache, no-store, must-revalidate')
+    res.set('Pragma', 'no-cache')
+    res.set('Expires', '0')
   }
   next()
 })
 
-app.use('/assets', express.static(join(distPath, 'assets')))
-app.use(express.static(distPath))
+app.use('/assets', express.static(join(distPath, 'assets'), { maxAge: ONE_YEAR * 1000, immutable: true }))
+app.use(express.static(distPath, { maxAge: ONE_YEAR * 1000 }))
 
 // SPA fallback LAST
 app.use((req, res) => {
