@@ -253,3 +253,27 @@
 }
 
 
+
+/* --- Card Slot CSS crossfade (replaces framer-motion AnimatePresence) --- */
+.cs-exit {
+  animation: csExit 0.75s cubic-bezier(0.4, 0, 0.2, 1) var(--cs-delay, 0s) forwards;
+}
+.cs-enter {
+  opacity: 0;
+  animation: csEnter 0.75s cubic-bezier(0.4, 0, 0.2, 1) var(--cs-delay, 0s) forwards;
+}
+@keyframes csExit {
+  from { opacity: 1; transform: translateX(0); }
+  to   { opacity: 0; transform: translateX(var(--cs-x, -60px)); }
+}
+@keyframes csEnter {
+  from { opacity: 0; transform: translateX(var(--cs-x, 60px)); }
+  to   { opacity: 1; transform: translateX(0); }
+}
+.cs-fade {
+  animation: csFade 0.25s ease-out;
+}
+@keyframes csFade {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}

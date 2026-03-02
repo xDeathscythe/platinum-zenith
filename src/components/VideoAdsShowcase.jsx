@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef } from 'react'
-import { motion, AnimatePresence } from './Motion'
+/* motion removed — uses CSS animations instead */
 
 /* ─── Video Ad Data ─────────────────────────────── */
 const videoAds = [
@@ -194,11 +194,9 @@ const videoAdsRow2 = [
 /* ─── Single Video Ad Card ──────────────────────── */
 function VideoAdCard({ ad, delay = 0 }) {
   return (
-    <motion.div
-      initial={{ opacity: 0, y: 30 }}
-      animate={{ opacity: 1, y: 0 }}
-      transition={{ duration: 0.5, delay, ease: [0.25, 0.1, 0.25, 1] }}
-      className="bg-tile rounded-[16px] overflow-hidden w-[220px] flex-shrink-0 border border-edge-2"
+    <div
+      className="bg-tile rounded-[16px] overflow-hidden w-[220px] flex-shrink-0 border border-edge-2 reveal"
+      style={{ animationDelay: `${delay}s` }}
     >
       {/* Header — profile + active badge */}
       <div className="px-3.5 pt-3.5 pb-2">
@@ -254,7 +252,7 @@ function VideoAdCard({ ad, delay = 0 }) {
           </div>
         </div>
       </div>
-    </motion.div>
+    </div>
   )
 }
 

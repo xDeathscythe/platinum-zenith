@@ -1,5 +1,5 @@
-import { useState, useMemo, useEffect } from 'react'
-import { motion, AnimatePresence } from './Motion'
+import { useState, useMemo, useEffect, useRef } from 'react'
+/* Zero framer-motion — pure CSS keyframe animations for smaller bundle */
 
 const B = import.meta.env.BASE_URL
 
@@ -204,26 +204,49 @@ function ArrowBtn({ direction, onClick }) {
   )
 }
 
-/* ─── Card Slot — overlapping crossfade (grid stack = no flash) ── */
+/* ─── Card Slot — CSS keyframe crossfade (grid stack, no framer-motion) ── */
 function CardSlot({ ad, brandName, direction, delay, eager = false }) {
+  const [display, setDisplay] = useState({ current: ad, prev: null, dir: direction })
+  const keyRef = useRef(0)
+
+  useEffect(() => {
+    if (ad.text === display.current.text) return
+    keyRef.current += 1
+    setDisplay({ current: ad, prev: display.current, dir: direction })
+    const t = setTimeout(() => {
+      setDisplay(d => ({ ...d, prev: null }))
+    }, 750 + delay * 1000)
+    return () => clearTimeout(t)
+  }, [ad.text, direction])
+
   return (
-    <div style={{ display: 'grid', width: CARD_W }}>
-      <AnimatePresence initial={false}>
-        <motion.div
-          key={ad.text}
-          style={{ gridArea: '1 / 1', willChange: 'transform, opacity' }}
-          initial={{ opacity: 0, x: direction * 60 }}
-          animate={{ opacity: 1, x: 0 }}
-          exit={{ opacity: 0, x: -direction * 60 }}
-          transition={{
-            duration: 0.75,
-            ease: [0.4, 0, 0.2, 1],
-            delay,
+    <div style={{ display: 'grid', width: CARD_W, overflow: 'hidden' }}>
+      {/* Previous card — exits */}
+      {display.prev && (
+        <div
+          key={`exit-${keyRef.current}`}
+          className="cs-exit"
+          style={{
+            gridArea: '1 / 1',
+            '--cs-x': `${-display.dir * 60}px`,
+            '--cs-delay': `${delay}s`,
           }}
         >
-          <AdCard ad={ad} brandName={brandName} eager={eager} />
-        </motion.div>
-      </AnimatePresence>
+          <AdCard ad={display.prev} brandName={brandName} />
+        </div>
+      )}
+      {/* Current card — enters (or static on first render) */}
+      <div
+        key={`enter-${keyRef.current}`}
+        className={display.prev ? 'cs-enter' : ''}
+        style={{
+          gridArea: '1 / 1',
+          '--cs-x': `${display.dir * 60}px`,
+          '--cs-delay': `${delay}s`,
+        }}
+      >
+        <AdCard ad={display.current} brandName={brandName} eager={eager} />
+      </div>
     </div>
   )
 }
@@ -327,18 +350,9 @@ export default function AppPreview() {
       <div className="theme-dark bg-panel rounded-[16px] border border-edge-2 pt-8 pb-4 overflow-hidden relative" style={{ height: 680 }}>
         <h2 className="text-[28px] md:text-[32px] font-light text-ink text-center mb-6 tracking-wide whitespace-nowrap">{brand.name}</h2>
 
-        <AnimatePresence mode="wait" initial={false}>
-          <motion.div
-            key={active}
-            style={{ willChange: 'opacity' }}
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            exit={{ opacity: 0 }}
-            transition={{ duration: 0.2 }}
-          >
-            <VShapeCards ads={brand.ads} brandName={brand.name} />
-          </motion.div>
-        </AnimatePresence>
+        <div key={active} className="cs-fade">
+          <VShapeCards ads={brand.ads} brandName={brand.name} />
+        </div>
 
         {/* Bottom fade */}
         <div className="absolute bottom-0 left-0 right-0 h-24 bg-gradient-to-t from-panel to-transparent pointer-events-none z-10" />
