@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+import PageMeta from '../components/PageMeta'
 import Hero from '../components/Hero'
 import Features from '../components/Features'
 import Surfaces from '../components/Surfaces'
@@ -83,6 +84,10 @@ function FeaturedBlog() {
 export default function HomePage() {
   return (
     <>
+      <PageMeta
+        title="Digitalna Agencija za Marketing, Web Design i Consulting"
+        description="Platinum Zenith je digitalna agencija iz Zrenjanina. Dovodimo vam vise klijenata kroz digitalni marketing, web dizajn, CRO optimizaciju i poslovno savetovanje. Besplatna analiza."
+      />
       <Hero />
       <Features />
       <Surfaces />

@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+import PageMeta from '../components/PageMeta'
 import BottomCTA from '../components/BottomCTA'
 import Reveal from '../components/Reveal'
 
@@ -61,6 +62,7 @@ const colorMap = {
 export default function CaseStudiesPage() {
   return (
     <>
+      <PageMeta title="Studije Slucaja" description="Pogledajte rezultate nasih klijenata. E-commerce, lokalni biznisi, SaaS kompanije — konkretni brojevi, strategije i ROI koji smo ostvarili zajedno." />
       {/* ─── Hero ─── */}
       <section className="relative min-h-[85vh] flex flex-col items-center text-center pt-[160px] md:pt-[220px] pb-[60px] px-4 md:px-8 overflow-hidden">
         <div className="absolute inset-0 z-0">
@@ -138,7 +140,7 @@ export default function CaseStudiesPage() {
                   {/* Campaign Screenshot */}
                   {s.image && (
                     <div className="mb-8 rounded-[12px] overflow-hidden border border-edge-2">
-                      <img src={s.image} alt={`${s.client} kampanja rezultati`} className="w-full h-auto" loading="lazy" />
+                      <img src={s.image} alt={`${s.client} kampanja rezultati`} className="w-full h-auto" loading="lazy" width={800} height={450} />
                     </div>
                   )}
 

@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import PageMeta from '../components/PageMeta'
 import { Link } from 'react-router-dom'
 import { motion } from 'framer-motion'
 import Reveal from '../components/Reveal'
@@ -35,6 +36,7 @@ export default function AboutPage() {
 
   return (
     <>
+      <PageMeta title="O Nama" description="Upoznajte Platinum Zenith — agenciju koja je nastala iz stvarnog biznisa, ne iz ucionice. Revenue share model, dokazani rezultati i tim koji razume vase izazove." />
       {/* ─── Hero ─── */}
       <section className="relative min-h-[85vh] flex flex-col items-center text-center pt-[160px] md:pt-[220px] pb-[60px] px-4 md:px-8 overflow-hidden">
         <div className="absolute inset-0 z-0">

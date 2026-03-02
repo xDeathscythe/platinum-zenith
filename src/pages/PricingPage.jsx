@@ -1,5 +1,6 @@
 import { motion } from 'framer-motion'
 import { Link } from 'react-router-dom'
+import PageMeta from '../components/PageMeta'
 
 const heroHomeDark = `${import.meta.env.BASE_URL}hero-home-dark.webp`
 const heroHomeLight = `${import.meta.env.BASE_URL}hero-home-light.webp`
@@ -68,6 +69,7 @@ const faqs = [
 export default function PricingPage() {
   return (
     <>
+      <PageMeta title="Cene i Paketi" description="Transparentne cene za web dizajn od 950 evra i Pay Per Result marketing model. Bez skrivenih troskova, bez dugorocnih ugovora. Platite samo za rezultate." />
       <section className="relative flex flex-col items-center text-center pt-[200px] md:pt-[260px] pb-[80px] md:pb-[120px] px-4 md:px-8 overflow-hidden min-h-[70vh]">
         <div className="absolute inset-0 z-0">
           <div className="absolute inset-0 only-dark" style={{ backgroundImage: `url(${heroHomeDark})`, backgroundSize: 'cover', backgroundPosition: 'center top', backgroundColor: '#000000' }} />

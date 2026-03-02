@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import { Link } from 'react-router-dom'
+import PageMeta from '../components/PageMeta'
 import Reveal from '../components/Reveal'
 import BottomCTA from '../components/BottomCTA'
 
@@ -123,6 +124,10 @@ export default function MarketingPage() {
 
   return (
     <>
+      <PageMeta
+        title="Digitalni Marketing"
+        description="Digitalni marketing koji donosi rezultate ili ne naplacujemo. Facebook Ads, Google Ads, SEO, content marketing i kompletna strategija rasta za vase poslovanje."
+      />
       {/* ─── Hero ─── */}
       <section className="relative min-h-screen flex flex-col items-center text-center pt-[160px] md:pt-[220px] pb-[60px] px-4 md:px-8 overflow-hidden">
         <div className="absolute inset-0 z-0">

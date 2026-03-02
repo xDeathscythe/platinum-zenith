@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import PageMeta from '../components/PageMeta'
 import { Link } from 'react-router-dom'
 import { motion, AnimatePresence } from 'framer-motion'
 import Reveal from '../components/Reveal'
@@ -40,6 +41,8 @@ function BrowserFrame({ src, name }) {
           alt={name}
           className="w-full h-auto object-cover group-hover:scale-[1.02] transition-transform duration-500"
           loading="lazy"
+          width={600}
+          height={400}
         />
       </div>
     </div>
@@ -52,6 +55,7 @@ export default function WebDesignPage() {
 
   return (
     <>
+      <PageMeta title="Web Design" description="Profesionalna izrada sajtova koji pretvaraju posetioce u klijente. Landing stranice, poslovni sajtovi i e-commerce prodavnice. Responsive dizajn, SEO optimizacija, isporuka za 2-8 nedelja." />
       {/* ─── Hero — homepage structure ─── */}
       <section className="relative flex flex-col items-center text-center pt-[200px] md:pt-[260px] pb-[80px] md:pb-[120px] px-4 md:px-8 overflow-hidden min-h-[70vh]">
         <div className="absolute inset-0 z-0">

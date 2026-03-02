@@ -1,4 +1,5 @@
 import { motion } from 'framer-motion'
+import PageMeta from '../components/PageMeta'
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import Reveal from '../components/Reveal'
@@ -64,6 +65,7 @@ function MetricsCompare() {
 export default function CROPage() {
   return (
     <>
+      <PageMeta title="CRO Optimizacija" description="Conversion Rate Optimization koji pretvara vise posetilaca u kupce. A/B testiranje, analitika, UX poboljsanja. Povecajte prodaju bez veceg budzeta za reklame." />
       {/* ─── Hero — homepage structure ─── */}
       <section className="relative flex flex-col items-center text-center pt-[200px] md:pt-[260px] pb-[80px] md:pb-[120px] px-4 md:px-8 overflow-hidden min-h-[70vh]">
         <div className="absolute inset-0 z-0">

@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react'
+import PageMeta from '../components/PageMeta'
 import { motion, AnimatePresence } from 'framer-motion'
 import { Link } from 'react-router-dom'
 import Reveal from '../components/Reveal'
@@ -74,6 +75,7 @@ function SocialFeedMock() {
 export default function SocialMediaPage() {
   return (
     <>
+      <PageMeta title="Upravljanje Drustvenim Mrezama" description="Profesionalno vodjenje Instagram, Facebook, TikTok i LinkedIn naloga za vase poslovanje. Strategija sadrzaja, rast pratilaca i angazovanje publike." />
       {/* ─── Hero ─── */}
       <section className="relative flex flex-col items-center text-center pt-[200px] md:pt-[260px] pb-[80px] md:pb-[120px] px-4 md:px-8 overflow-hidden min-h-[70vh]">
         <div className="absolute inset-0 z-0">
