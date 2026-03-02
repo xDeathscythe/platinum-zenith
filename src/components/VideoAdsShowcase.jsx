@@ -195,7 +195,7 @@ const videoAdsRow2 = [
 function VideoAdCard({ ad, delay = 0 }) {
   return (
     <div
-      className="bg-tile rounded-[16px] overflow-hidden w-[220px] flex-shrink-0 border border-edge-2"
+      className="bg-tile rounded-[16px] overflow-hidden w-[220px] flex-shrink-0 border border-edge"
     >
       {/* Header — profile + active badge */}
       <div className="px-3.5 pt-3.5 pb-2">
@@ -207,8 +207,8 @@ function VideoAdCard({ ad, delay = 0 }) {
             <span className="text-[12px] text-ink font-semibold truncate max-w-[120px]">{ad.profile}</span>
           </div>
           <span className="flex items-center gap-1">
-            <span className="text-[8px] text-emerald-300 font-medium uppercase tracking-wider">Active</span>
-            <span className="w-1 h-1 rounded-full bg-emerald-300/70" />
+            <span className="text-[8px] text-emerald-600 dark:text-emerald-300 font-semibold uppercase tracking-wider">Active</span>
+            <span className="w-1 h-1 rounded-full bg-emerald-600/80 dark:bg-emerald-300/80" />
           </span>
         </div>
       </div>
@@ -237,17 +237,17 @@ function VideoAdCard({ ad, delay = 0 }) {
       {/* Metrics — likes + followers */}
       <div className="px-3.5 pb-3.5 flex gap-4">
         <div>
-          <div className="text-[8px] text-ink/70 uppercase tracking-wider font-medium">Likes</div>
+          <div className="text-[8px] text-ink/90 uppercase tracking-wider font-semibold">Likes</div>
           <div className="flex items-center gap-1">
             <span className="text-[15px] text-ink font-semibold">{ad.likes}</span>
-            <span className="text-[10px] text-emerald-300 font-medium">{ad.likesChange}</span>
+            <span className="text-[10px] text-emerald-600 dark:text-emerald-300 font-semibold">{ad.likesChange}</span>
           </div>
         </div>
         <div>
-          <div className="text-[8px] text-ink/70 uppercase tracking-wider font-medium">Followers</div>
+          <div className="text-[8px] text-ink/90 uppercase tracking-wider font-semibold">Followers</div>
           <div className="flex items-center gap-1">
             <span className="text-[15px] text-ink font-semibold">{ad.followers}</span>
-            <span className="text-[10px] text-emerald-300 font-medium">{ad.followersChange}</span>
+            <span className="text-[10px] text-emerald-600 dark:text-emerald-300 font-semibold">{ad.followersChange}</span>
           </div>
         </div>
       </div>
@@ -306,13 +306,13 @@ export default function VideoAdsShowcase() {
     <section className="relative py-20 md:py-28 overflow-hidden bg-page">
       {/* Container with rounded dark card like Arcads */}
       <div className="mx-auto max-w-[1200px] px-4">
-        <div className="relative bg-panel rounded-[24px] border border-edge-2 pt-12 md:pt-16 pb-6 overflow-hidden">
+        <div className="relative bg-panel rounded-[24px] border border-edge pt-12 md:pt-16 pb-6 overflow-hidden">
           {/* Giant background stat text — like Arcads "+1B VIEWS" */}
           <div className="text-center mb-2 relative">
-            <span className="block text-[56px] sm:text-[80px] md:text-[110px] lg:text-[140px] font-extrabold text-ink/[0.22] leading-[0.9] tracking-tight select-none uppercase" aria-hidden="true">
+            <span className="block text-[56px] sm:text-[80px] md:text-[110px] lg:text-[140px] font-extrabold text-ink/[0.33] leading-[0.9] tracking-tight select-none uppercase" aria-hidden="true">
               +1B Views
             </span>
-            <p className="text-[15px] md:text-[18px] text-ink-2 font-semibold mt-3 md:mt-2">
+            <p className="text-[15px] md:text-[18px] text-ink font-semibold mt-3 md:mt-2">
               Marketing koji radi više nego što piše na pakovanju!
             </p>
           </div>
