@@ -29,6 +29,15 @@ app.use('/api', prijavaRoutes)
 app.use('/api', kontaktRoutes)
 app.use('/api/admin', adminRoutes)
 
+// SEO: strip trailing slash (301 redirect) — prevents duplicate canonical URLs
+app.use((req, res, next) => {
+  if (req.path !== '/' && req.path.endsWith('/') && !req.path.startsWith('/api')) {
+    const clean = req.path.replace(/\/+$/, '') + (req.search || '')
+    return res.redirect(301, clean)
+  }
+  next()
+})
+
 // Static files AFTER API — with aggressive cache headers
 const distPath = join(__dirname, '..', 'dist')
 

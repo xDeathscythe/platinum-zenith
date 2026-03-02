@@ -35,7 +35,9 @@ export default function usePageMeta() {
     const ogDesc = document.querySelector('meta[property="og:description"]')
     if (ogDesc) ogDesc.setAttribute('content', meta.description)
 
-    const canonicalUrl = `${SITE_URL}${pathname === '/' ? '/' : pathname}`
+    // Normalize: strip trailing slash (except root) to prevent duplicate canonicals
+    const normalizedPath = pathname === '/' ? '/' : pathname.replace(/\/+$/, '')
+    const canonicalUrl = `${SITE_URL}${normalizedPath}`
     const canonical = document.querySelector('link[rel="canonical"]')
     if (canonical) canonical.setAttribute('href', canonicalUrl)
     const ogUrl = document.querySelector('meta[property="og:url"]')
