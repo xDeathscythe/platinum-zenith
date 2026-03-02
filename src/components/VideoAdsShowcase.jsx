@@ -210,8 +210,8 @@ function VideoAdCard({ ad, delay = 0 }) {
             <span className="text-[12px] text-ink-2 font-medium truncate max-w-[120px]">{ad.profile}</span>
           </div>
           <span className="flex items-center gap-1">
-            <span className="text-[8px] text-emerald-400 font-medium uppercase tracking-wider">Active</span>
-            <span className="w-1 h-1 rounded-full bg-emerald-400/70" />
+            <span className="text-[8px] text-emerald-300 font-medium uppercase tracking-wider">Active</span>
+            <span className="w-1 h-1 rounded-full bg-emerald-300/70" />
           </span>
         </div>
       </div>
@@ -240,17 +240,17 @@ function VideoAdCard({ ad, delay = 0 }) {
       {/* Metrics — likes + followers */}
       <div className="px-3.5 pb-3.5 flex gap-4">
         <div>
-          <div className="text-[8px] text-ink/50 uppercase tracking-wider font-medium">Likes</div>
+          <div className="text-[8px] text-ink/70 uppercase tracking-wider font-medium">Likes</div>
           <div className="flex items-center gap-1">
             <span className="text-[15px] text-ink font-semibold">{ad.likes}</span>
-            <span className="text-[10px] text-emerald-400 font-medium">{ad.likesChange}</span>
+            <span className="text-[10px] text-emerald-300 font-medium">{ad.likesChange}</span>
           </div>
         </div>
         <div>
-          <div className="text-[8px] text-ink/50 uppercase tracking-wider font-medium">Followers</div>
+          <div className="text-[8px] text-ink/70 uppercase tracking-wider font-medium">Followers</div>
           <div className="flex items-center gap-1">
             <span className="text-[15px] text-ink font-semibold">{ad.followers}</span>
-            <span className="text-[10px] text-emerald-400 font-medium">{ad.followersChange}</span>
+            <span className="text-[10px] text-emerald-300 font-medium">{ad.followersChange}</span>
           </div>
         </div>
       </div>
@@ -313,7 +313,7 @@ export default function VideoAdsShowcase() {
             <span className="block text-[56px] sm:text-[80px] md:text-[110px] lg:text-[140px] font-bold text-ink/[0.12] leading-[0.9] tracking-tight select-none uppercase" aria-hidden="true">
               +1B Views
             </span>
-            <p className="text-[15px] md:text-[18px] text-ink-4 font-normal mt-3 md:mt-2">
+            <p className="text-[15px] md:text-[18px] text-ink-3 font-normal mt-3 md:mt-2">
               Marketing koji radi više nego što piše na pakovanju!
             </p>
           </div>

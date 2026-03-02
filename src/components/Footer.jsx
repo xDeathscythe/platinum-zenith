@@ -61,7 +61,7 @@ function NewsletterInput() {
 
   return (
     <div>
-      <p className="text-[12px] md:text-[14px] font-medium text-ink-4 mb-3 md:mb-4">Newsletter</p>
+      <p className="text-[12px] md:text-[14px] font-medium text-ink-3 mb-3 md:mb-4">Newsletter</p>
       <form onSubmit={handleSubmit} className="flex gap-2">
         <input
           type="email"
@@ -94,7 +94,7 @@ export default function Footer() {
           <div key={ci} className={`space-y-6 ${ci === 2 ? 'col-span-2 md:col-span-1' : ''}`}>
             {col.map((section) => (
               <div key={section.title}>
-                <p className="text-[12px] md:text-[14px] font-medium text-ink-4 mb-3 md:mb-4">{section.title}</p>
+                <p className="text-[12px] md:text-[14px] font-medium text-ink-3 mb-3 md:mb-4">{section.title}</p>
                 <div className="space-y-1">
                   {section.links.map((link) => {
                     const route = routeMap[link]
