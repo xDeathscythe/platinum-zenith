@@ -48,6 +48,11 @@
     <meta name="twitter:description" content="Privucite pažnju i generišite prodaju na lak, siguran i predvidljiv način." />
     <meta name="twitter:image" content="https://platinumzenith.com/og-image.jpg" />
 
+    <!-- Preload LCP image — eliminates 2.6s resource load delay -->
+    <link rel="preload" as="image" href="/truffles-03.webp" type="image/webp" fetchpriority="high" />
+    <!-- Preload hero background -->
+    <link rel="preload" as="image" href="/hero-home-dark.webp" type="image/webp" />
+
     <!-- Preconnect + Preload for speed -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
