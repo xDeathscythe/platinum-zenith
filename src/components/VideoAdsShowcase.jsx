@@ -204,7 +204,7 @@ function VideoAdCard({ ad, delay = 0 }) {
             <div className={`w-7 h-7 rounded-full bg-gradient-to-br ${ad.avatarBg} flex items-center justify-center text-[12px]`}>
               {ad.avatar}
             </div>
-            <span className="text-[12px] text-ink-2 font-medium truncate max-w-[120px]">{ad.profile}</span>
+            <span className="text-[12px] text-ink font-semibold truncate max-w-[120px]">{ad.profile}</span>
           </div>
           <span className="flex items-center gap-1">
             <span className="text-[8px] text-emerald-300 font-medium uppercase tracking-wider">Active</span>
@@ -309,10 +309,10 @@ export default function VideoAdsShowcase() {
         <div className="relative bg-panel rounded-[24px] border border-edge-2 pt-12 md:pt-16 pb-6 overflow-hidden">
           {/* Giant background stat text — like Arcads "+1B VIEWS" */}
           <div className="text-center mb-2 relative">
-            <span className="block text-[56px] sm:text-[80px] md:text-[110px] lg:text-[140px] font-bold text-ink/[0.12] leading-[0.9] tracking-tight select-none uppercase" aria-hidden="true">
+            <span className="block text-[56px] sm:text-[80px] md:text-[110px] lg:text-[140px] font-extrabold text-ink/[0.22] leading-[0.9] tracking-tight select-none uppercase" aria-hidden="true">
               +1B Views
             </span>
-            <p className="text-[15px] md:text-[18px] text-ink-3 font-normal mt-3 md:mt-2">
+            <p className="text-[15px] md:text-[18px] text-ink-2 font-semibold mt-3 md:mt-2">
               Marketing koji radi više nego što piše na pakovanju!
             </p>
           </div>

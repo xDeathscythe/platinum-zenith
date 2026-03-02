@@ -132,14 +132,14 @@ function AdCard({ ad, brandName, eager = false }) {
       <div className="px-3.5 pt-3.5 pb-2">
         <div className="flex items-center justify-between mb-2">
           <div className="flex items-center gap-1.5">
-            <span className="text-[9px] text-ink-4">Sponsored</span>
-            <span className="text-[11px] text-ink-3 font-medium">{brandName}</span>
+            <span className="text-[9px] text-ink-2 font-medium">Sponsored</span>
+            <span className="text-[11px] text-ink font-semibold tracking-[0.01em]">{brandName}</span>
           </div>
-          <span className="w-1 h-1 rounded-full bg-ink-4" />
+          <span className="w-1 h-1 rounded-full bg-ink-2" />
         </div>
         {/* Fixed 2-line clamp with hard height — all cards identical */}
         <p
-          className="text-[11px] text-ink-3 leading-[1.4] mb-2.5"
+          className="text-[11px] text-ink-2 font-medium leading-[1.4] mb-2.5"
           style={{
             display: '-webkit-box',
             WebkitBoxOrient: 'vertical',
@@ -168,17 +168,17 @@ function AdCard({ ad, brandName, eager = false }) {
 
       <div className="px-3.5 pb-3.5 flex gap-3">
         <div className="min-w-[86px]">
-          <div className="text-[8px] text-ink-4 uppercase tracking-wider">Views</div>
+          <div className="text-[8px] text-ink-2 uppercase tracking-wider font-semibold">Views</div>
           <div className="flex items-center gap-1 whitespace-nowrap">
             <span className="text-[14px] text-ink font-semibold tabular-nums">{ad.views}</span>
-            <span className="text-[10px] text-ink-4">{ad.viewsChange}</span>
+            <span className="text-[10px] text-ink-2 font-semibold">{ad.viewsChange}</span>
           </div>
         </div>
         <div className="min-w-[86px]">
-          <div className="text-[8px] text-ink-4 uppercase tracking-wider">Revenue</div>
+          <div className="text-[8px] text-ink-2 uppercase tracking-wider font-semibold">Revenue</div>
           <div className="flex items-center gap-1 whitespace-nowrap">
             <span className="text-[14px] text-ink font-semibold tabular-nums">{ad.revenue}</span>
-            <span className="text-[10px] text-ink-4">{ad.revenueChange}</span>
+            <span className="text-[10px] text-ink-2 font-semibold">{ad.revenueChange}</span>
           </div>
         </div>
       </div>
