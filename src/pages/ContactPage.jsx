@@ -133,7 +133,7 @@ export default function ContactPage() {
             {status === 'sent' ? (
               <div className="bg-emerald-400/10 border border-emerald-400/20 rounded-[11px] p-10 text-center">
                 <span className="text-4xl mb-4 block">✓</span>
-                <h3 className="text-[22px] text-ink font-medium mb-2">Poruka poslata!</h3>
+                <h2 className="text-[22px] text-ink font-medium mb-2">Poruka poslata!</h2>
                 <p className="text-[15px] text-ink-2">Odgovorićemo vam u roku od 24h.</p>
                 <button onClick={() => setStatus('idle')} className="mt-4 text-[14px] text-ink-4 hover:text-ink cursor-pointer">
                   Pošaljite još jednu →
