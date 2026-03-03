@@ -278,7 +278,7 @@ export default function BlogPostPage() {
     dateModified: post.date,
     author: {
       '@type': 'Person',
-      name: 'Aleksandar Ilić',
+      name: 'Aleksandar Nenadović',
       url: 'https://platinumzenith.com/o-nama',
     },
     publisher: {
@@ -318,7 +318,7 @@ export default function BlogPostPage() {
         <div className="blog-meta-strip">
           <div className="blog-meta-cell">
             <span className="blog-meta-label">Autor</span>
-            <span className="blog-meta-value">Aleksandar Ilić</span>
+            <span className="blog-meta-value">Aleksandar Nenadović</span>
           </div>
           <div className="blog-meta-cell">
             <span className="blog-meta-label">Datum</span>
