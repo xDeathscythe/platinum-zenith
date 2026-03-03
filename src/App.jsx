@@ -21,6 +21,9 @@ const CaseStudiesPage = lazy(() => import('./pages/CaseStudiesPage'))
 
 const TermsPage = lazy(() => import('./pages/TermsPage'))
 const PrivacyPage = lazy(() => import('./pages/PrivacyPage'))
+const UsloviKupovinePage = lazy(() => import('./pages/UsloviKupovinePage'))
+const NacinPlacanjaPage = lazy(() => import('./pages/NacinPlacanjaPage'))
+const DostavaPage = lazy(() => import('./pages/DostavaPage'))
 const NotFoundPage = lazy(() => import('./pages/NotFoundPage'))
 const BlogPage = lazy(() => import('./pages/blog/BlogPage'))
 const BlogPostPage = lazy(() => import('./pages/blog/BlogPostPage'))
@@ -93,6 +96,9 @@ function PublicLayout() {
             <Route path="/o-nama" element={<AboutPage />} />
             <Route path="/case-studies" element={<CaseStudiesPage />} />
             <Route path="/uslovi-koriscenja" element={<TermsPage />} />
+            <Route path="/uslovi-kupovine" element={<UsloviKupovinePage />} />
+            <Route path="/nacin-placanja" element={<NacinPlacanjaPage />} />
+            <Route path="/dostava" element={<DostavaPage />} />
             <Route path="/politika-privatnosti" element={<PrivacyPage />} />
             <Route path="/blog" element={<BlogPage />} />
             <Route path="/blog/:slug" element={<BlogPostPage />} />

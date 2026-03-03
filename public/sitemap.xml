@@ -20,8 +20,11 @@
   <url><loc>https://platinumzenith.com/industrije/startapovi</loc><lastmod>2026-03-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 
   <!-- Legal -->
-  <url><loc>https://platinumzenith.com/uslovi-koriscenja</loc><lastmod>2026-02-20</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://platinumzenith.com/politika-privatnosti</loc><lastmod>2026-02-20</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://platinumzenith.com/uslovi-koriscenja</loc><lastmod>2026-03-03</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://platinumzenith.com/uslovi-kupovine</loc><lastmod>2026-03-03</lastmod><changefreq>yearly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://platinumzenith.com/nacin-placanja</loc><lastmod>2026-03-03</lastmod><changefreq>yearly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://platinumzenith.com/dostava</loc><lastmod>2026-03-03</lastmod><changefreq>yearly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://platinumzenith.com/politika-privatnosti</loc><lastmod>2026-03-03</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
 
   <!-- Blog Index -->
   <url><loc>https://platinumzenith.com/blog</loc><lastmod>2026-03-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>

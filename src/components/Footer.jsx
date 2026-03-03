@@ -17,6 +17,9 @@ const routeMap = {
   'Marketing Vodič': '/blog',
   'FAQ': '/faq',
   'Uslovi korišćenja': '/uslovi-koriscenja',
+  'Uslovi kupovine': '/uslovi-kupovine',
+  'Način plaćanja': '/nacin-placanja',
+  'Dostava': '/dostava',
   'Politika privatnosti': '/politika-privatnosti',
 }
 
@@ -31,7 +34,7 @@ const columns = [
   ],
   [
     { title: 'Kontakt', links: ['aleksandar@platinumzenith.com', '+381 66 816 8929', 'Ruže Šulman 19, Zrenjanin'] },
-    { title: 'Legal', links: ['Uslovi korišćenja', 'Politika privatnosti'] },
+    { title: 'Legal', links: ['Uslovi kupovine', 'Način plaćanja', 'Dostava', 'Uslovi korišćenja', 'Politika privatnosti'] },
   ],
 ]
 
