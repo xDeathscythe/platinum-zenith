@@ -48,15 +48,15 @@ const ogMeta = {
   },
   '/uslovi-kupovine': {
     title: 'Uslovi Kupovine | Platinum Zenith',
-    description: 'Sva pravila online kupovine na Platinum Zenith sajtu: poručivanje, cene, odustanak u roku od 14 dana, reklamacije i prava potrošača.',
+    description: 'Uslovi kupovine za Platinum Zenith: ugovaranje putem email korespondencije, B2B model saradnje, reklamacije, isporuka i pravila realizacije.',
   },
   '/nacin-placanja': {
     title: 'Način Plaćanja | Platinum Zenith',
-    description: 'Informacije o dostupnim načinima plaćanja: pouzećem, karticom i uplatom na račun, sigurnost plaćanja i izdavanje računa.',
+    description: 'Način plaćanja za Platinum Zenith: virmansko plaćanje za pravna lica i izdavanje fakture nakon sklopljenog dogovora putem emaila.',
   },
   '/dostava': {
     title: 'Dostava | Platinum Zenith',
-    description: 'Uslovi dostave za online porudžbine: rokovi obrade i isporuke, trošak dostave, praćenje pošiljke i postupak kod neuspele isporuke.',
+    description: 'Uslovi dostave i realizacije: isporuka nakon potvrđenog dogovora, rokovi, troškovi i proces za fizičku robu i digitalne usluge.',
   },
   '/politika-privatnosti': {
     title: 'Politika Privatnosti | Platinum Zenith',

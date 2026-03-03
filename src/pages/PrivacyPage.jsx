@@ -19,7 +19,7 @@ export default function PrivacyPage() {
           className="space-y-8"
         >
           <Section title="1. Uvod">
-            <p>Platinum Zenith Agency d.o.o. Zrenjanin (u daljem tekstu: "mi", "nas" ili "Agencija") posvećena je zaštiti vaše privatnosti. Ova Politika privatnosti objašnjava kako prikupljamo, koristimo, čuvamo i štitimo vaše lične podatke u skladu sa Zakonom o zaštiti podataka o ličnosti Republike Srbije i GDPR regulativom.</p>
+            <p>Platinum Zenith, koji posluje kao ogranak firme PLATINUM TRUFFLES DOO ZRENJANIN (u daljem tekstu: "mi", "nas" ili "Agencija"), posvećen je zaštiti vaše privatnosti. Ova Politika privatnosti objašnjava kako prikupljamo, koristimo, čuvamo i štitimo vaše lične podatke u skladu sa Zakonom o zaštiti podataka o ličnosti Republike Srbije i GDPR regulativom.</p>
           </Section>
 
           <Section title="2. Podaci koje prikupljamo">

@@ -18,48 +18,37 @@ export default function DostavaPage() {
           transition={{ delay: 0.1 }}
           className="space-y-8"
         >
-          <Section title="1. Područje isporuke">
-            <p>Isporuka se vrši na teritoriji Republike Srbije putem partnerskih kurirskih službi.</p>
-            <p>Za adrese van standardnih zona isporuke ili posebne slučajeve, kupac dobija potvrdu dostupnosti pre slanja robe.</p>
+          <Section title="1. Opšti model isporuke">
+            <p>Isporuka i/ili realizacija ugovorenog posla vrši se nakon potvrđenog dogovora putem email korespondencije i u skladu sa izdatom ponudom/fakturom.</p>
+            <p>Pošto ne postoji checkout na sajtu, rokovi i način isporuke se potvrđuju individualno za svaku porudžbinu/uslugu.</p>
           </Section>
 
-          <Section title="2. Rok obrade i slanja porudžbine">
+          <Section title="2. Fizička roba (kada je primenljivo)">
             <ul>
-              <li>Porudžbine potvrđene radnim danom obrađuju se u najkraćem roku, u pravilu u roku od 1 radnog dana.</li>
-              <li>Porudžbine kreirane vikendom i praznicima obrađuju se prvog narednog radnog dana.</li>
-              <li>U periodima povećanog obima (akcije, praznici) obrada može trajati duže, o čemu kupca obaveštavamo.</li>
+              <li>Roba se šalje kurirskom službom na adresu navedenu u potvrđenom dogovoru.</li>
+              <li>Rok slanja i isporuke zavisi od dostupnosti robe i kurirske službe.</li>
+              <li>Trošak dostave definiše se u ponudi/fakturi ili posebnom dogovoru.</li>
             </ul>
           </Section>
 
-          <Section title="3. Rok dostave">
-            <p>Uobičajen rok dostave nakon predaje kuriru je 1 do 5 radnih dana, u zavisnosti od lokacije.</p>
-            <p>Na rok dostave mogu uticati okolnosti van kontrole prodavca i kurirske službe (vremenske nepogode, vanredne situacije, tehnički zastoji).</p>
+          <Section title="3. Digitalne usluge i dokumentacija">
+            <p>Za digitalne usluge, isporuka se vrši elektronski (email, linkovi, dokumentacija, izveštaji, pristupi) prema dinamici definisanoj u dogovoru sa klijentom.</p>
           </Section>
 
-          <Section title="4. Trošak dostave">
-            <p>Trošak dostave se prikazuje transparentno u korpi i na checkout stranici pre potvrde porudžbine.</p>
-            <p>Ako je aktivna akcija besplatne dostave (npr. iznad određenog iznosa), uslov i prag su jasno prikazani kupcu pre kupovine.</p>
+          <Section title="4. Kašnjenja i više sile">
+            <p>U slučaju okolnosti van kontrole prodavca (viša sila, tehnički zastoji, problemi kod partnera), rokovi mogu biti produženi. Kupac će o tome biti blagovremeno obavešten.</p>
           </Section>
 
-          <Section title="5. Praćenje pošiljke">
-            <p>Nakon slanja robe kupac može dobiti broj pošiljke i informacije za praćenje, kada je ta opcija podržana od strane kurirske službe.</p>
+          <Section title="5. Neuspešna isporuka / korekcija podataka">
+            <p>Ako su podaci za isporuku netačni ili nepotpuni, kupac je dužan da ih ispravi bez odlaganja. Dodatni troškovi ponovne isporuke mogu biti obračunati kada je to primenljivo.</p>
           </Section>
 
-          <Section title="6. Neuspešna isporuka i ponovno slanje">
-            <p>Ako kurir ne uspe da uruči pošiljku (netačna adresa, kupac nedostupan, odbijeno preuzimanje), pošiljka može biti vraćena pošiljaocu.</p>
-            <p>U tom slučaju, novo slanje je moguće nakon potvrde podataka i eventualne dodatne naplate troškova dostave.</p>
-          </Section>
-
-          <Section title="7. Oštećenje pošiljke">
-            <p>Molimo kupca da po prijemu pregleda paket. Ako su vidljiva oštećenja, preporuka je da se paket ne preuzima bez zapisnika kurira ili da se odmah prijavi šteta.</p>
-            <p>Prijavu pošaljite na aleksandar@platinumzenith.com uz fotografije paketa i sadržaja.</p>
-          </Section>
-
-          <Section title="8. Kontakt za dostavu">
+          <Section title="6. Kontakt za isporuku i podršku">
             <ul>
+              <li><strong>Pravni okvir:</strong> Platinum Zenith je ogranak firme PLATINUM TRUFFLES DOO ZRENJANIN</li>
               <li>Email: aleksandar@platinumzenith.com</li>
               <li>Telefon: +381 66 816 8929</li>
-              <li>Adresa: Ruže Šulman 19, Zrenjanin</li>
+              <li>Adresa: Ruže Šulman 19, Zrenjanin, Srbija</li>
             </ul>
           </Section>
         </motion.div>

@@ -19,7 +19,7 @@ export default function TermsPage() {
           className="prose-custom space-y-8"
         >
           <Section title="1. Opšte odredbe">
-            <p>Ovi Uslovi korišćenja regulišu odnos između Platinum Zenith Agency d.o.o. Zrenjanin (u daljem tekstu: "Agencija") i klijenta (u daljem tekstu: "Klijent") koji koristi usluge Agencije.</p>
+            <p>Ovi Uslovi korišćenja regulišu odnos između brenda Platinum Zenith, koji posluje kao ogranak firme PLATINUM TRUFFLES DOO ZRENJANIN (u daljem tekstu: "Agencija"), i klijenta (u daljem tekstu: "Klijent") koji koristi usluge Agencije.</p>
             <p>Korišćenjem naših usluga ili pristupanjem ovom sajtu, prihvatate ove uslove u celosti. Ako se ne slažete sa bilo kojim delom, molimo vas da ne koristite naše usluge.</p>
           </Section>
 
