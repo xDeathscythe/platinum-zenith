@@ -101,10 +101,26 @@ export function injectOgMeta(html, pathname) {
   // Normalize: strip trailing slash (except root)
   const cleanPath = pathname === '/' ? '/' : pathname.replace(/\/+$/, '')
   const meta = ogMeta[cleanPath]
-  if (!meta) return html // Unknown route, return as-is (homepage defaults are fine)
-
   const canonicalUrl = `${SITE_URL}${cleanPath}`
   const ogType = cleanPath.startsWith('/blog/') ? 'article' : 'website'
+
+  if (!meta) {
+    // Even without specific OG data, always inject correct canonical + og:url
+    let result = html
+    result = result.replace(
+      /(<link\s+rel="canonical"\s+href=")[^"]*(")/,
+      `$1${canonicalUrl}$2`
+    )
+    result = result.replace(
+      /(<meta\s+property="og:url"\s+content=")[^"]*(")/,
+      `$1${canonicalUrl}$2`
+    )
+    result = result.replace(
+      /(<meta\s+property="og:type"\s+content=")[^"]*(")/,
+      `$1${ogType}$2`
+    )
+    return result
+  }
 
   let result = html
 
