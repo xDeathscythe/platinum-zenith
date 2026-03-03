@@ -225,7 +225,7 @@ export default function BlogPostPage() {
     elements.push(
       <p
         key={key++}
-        className={`blog-narrow blog-p ${isFirstParagraph ? 'blog-p--lead' : ''}`}
+        className="blog-narrow blog-p"
       >
         {renderInline(trimmed)}
       </p>
@@ -534,7 +534,7 @@ const blogStyles = `
   }
 
   .blog-wide {
-    max-width: 1080px;
+    max-width: 760px;
     margin-left: auto;
     margin-right: auto;
     padding-left: 24px;
@@ -571,19 +571,7 @@ const blogStyles = `
     color: var(--ink, #fff);
   }
 
-  .blog-p--lead {
-    color: var(--ink-2, rgba(255,255,255,0.8));
-  }
 
-  .blog-p--lead::first-letter {
-    float: left;
-    font-size: 62px;
-    line-height: 0.94;
-    margin-right: 10px;
-    margin-top: 8px;
-    color: var(--ink, #fff);
-    font-weight: 500;
-  }
 
   .blog-quote {
     max-width: 760px;
@@ -861,10 +849,6 @@ const blogStyles = `
       padding-right: 18px;
     }
 
-    .blog-p--lead::first-letter {
-      font-size: 46px;
-      margin-top: 4px;
-      margin-right: 8px;
-    }
+
   }
 `
