@@ -106,6 +106,30 @@
   --inv-bg-hover: rgba(255,255,255,0.90);
 }
 
+/* Hard force-dark scope for isolated components on light pages */
+.force-dark-scope {
+  --page:  #000000 !important;
+  --panel: #111111 !important;
+  --tile:  #1a1a1a !important;
+
+  --ink:   #ffffff !important;
+  --ink-2: rgba(255,255,255,0.70) !important;
+  --ink-3: rgba(255,255,255,0.50) !important;
+  --ink-4: rgba(255,255,255,0.35) !important;
+  --ink-5: rgba(255,255,255,0.15) !important;
+
+  --edge:   rgba(255,255,255,0.10) !important;
+  --edge-2: rgba(255,255,255,0.06) !important;
+
+  --tint:   rgba(255,255,255,0.06) !important;
+  --tint-2: rgba(255,255,255,0.12) !important;
+  --glass:  rgba(0,0,0,0.80) !important;
+
+  --inv-bg:  #ffffff !important;
+  --inv-fg:  #000000 !important;
+  --inv-bg-hover: rgba(255,255,255,0.90) !important;
+}
+
 /* ─── Register as Tailwind colors ─── */
 @theme {
   --font-sans: "OpenAI Sans", "Inter", -apple-system, BlinkMacSystemFont, sans-serif;

@@ -319,7 +319,7 @@ export default function VideoAdsShowcase() {
     <section className="relative py-20 md:py-28 overflow-hidden bg-page">
       {/* Container with rounded dark card like Arcads */}
       <div className="mx-auto max-w-[1200px] px-4">
-        <div className="theme-dark relative bg-panel rounded-[24px] border border-edge pt-12 md:pt-16 pb-6 overflow-hidden">
+        <div className="force-dark-scope relative bg-panel rounded-[24px] border border-edge pt-12 md:pt-16 pb-6 overflow-hidden">
           {/* Giant background stat text — like Arcads "+1B VIEWS" */}
           <div className="text-center mb-2 relative">
             <span className="block text-[56px] sm:text-[80px] md:text-[110px] lg:text-[140px] font-extrabold text-ink/[0.33] leading-[0.9] tracking-tight select-none uppercase" aria-hidden="true">

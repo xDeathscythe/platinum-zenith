@@ -367,7 +367,7 @@ export default function AppPreview() {
       </div>
 
       {/* Card container */}
-      <div className="theme-dark bg-panel rounded-[16px] border border-edge-2 pt-8 pb-4 overflow-hidden relative" style={{ height: 680 }}>
+      <div className="force-dark-scope bg-panel rounded-[16px] border border-edge-2 pt-8 pb-4 overflow-hidden relative" style={{ height: 680 }}>
         <h2 className="text-[28px] md:text-[32px] font-light text-ink text-center mb-6 tracking-wide whitespace-nowrap">{brand.name}</h2>
 
         <div key={active} className="cs-fade">
