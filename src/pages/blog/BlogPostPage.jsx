@@ -241,7 +241,7 @@ export default function BlogPostPage() {
     ) {
       const { Component, props } = illustrations[insertedIllCount]
       elements.push(
-        <div key={key++} className="blog-wide blog-illustration-slot">
+        <div key={key++} className="theme-dark blog-wide blog-illustration-slot">
           <Component {...props} />
         </div>
       )
@@ -259,7 +259,7 @@ export default function BlogPostPage() {
     elements.splice(
       2,
       0,
-      <div key="fallback-illustration" className="blog-wide blog-illustration-slot">
+      <div key="fallback-illustration" className="theme-dark blog-wide blog-illustration-slot">
         <Component {...props} />
       </div>
     )
@@ -460,6 +460,7 @@ const blogStyles = `
     letter-spacing: -0.04em;
     font-weight: 600;
     text-wrap: balance;
+    color: #000000;
   }
 
   .blog-excerpt {
@@ -520,8 +521,8 @@ const blogStyles = `
     width: 100%;
     margin: 0;
     padding: 20px 4vw;
-    border-top: 1px solid var(--edge-2, rgba(255,255,255,0.08));
-    border-bottom: 1px solid var(--edge-2, rgba(255,255,255,0.08));
+    border-top: 1px solid var(--edge, rgba(255,255,255,0.18));
+    border-bottom: 1px solid var(--edge, rgba(255,255,255,0.18));
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 20px;
@@ -666,9 +667,10 @@ const blogStyles = `
 
   .ill-wrap {
     border-radius: 16px;
-    border: 1px solid var(--edge-2, rgba(255,255,255,0.08));
-    background: linear-gradient(180deg, rgba(255,255,255,0.03), rgba(255,255,255,0.01));
+    border: 1px solid rgba(255,255,255,0.16);
+    background: linear-gradient(180deg, #0e0e12 0%, #09090c 100%);
     overflow: hidden;
+    color: #ffffff;
   }
 
   .ill-inner {
@@ -680,7 +682,7 @@ const blogStyles = `
     padding: 0 16px 14px;
     font-size: 13px;
     line-height: 1.7;
-    color: var(--ink-3, rgba(255,255,255,0.55));
+    color: rgba(255,255,255,0.62);
   }
 
   .blog-link {
@@ -698,7 +700,7 @@ const blogStyles = `
     max-width: 760px;
     margin: 68px auto;
     border: none;
-    border-top: 1px solid var(--ink-5, rgba(255,255,255,0.14));
+    border-top: 1px solid var(--edge, rgba(255,255,255,0.20));
   }
 
   .blog-footer {
@@ -722,7 +724,7 @@ const blogStyles = `
     max-width: 1040px;
     margin: 0 auto;
     padding: 94px 24px 0;
-    border-top: 1px solid var(--ink-5, rgba(255,255,255,0.1));
+    border-top: 1px solid var(--edge, rgba(255,255,255,0.18));
   }
 
   .blog-related-title {
