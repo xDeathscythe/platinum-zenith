@@ -88,15 +88,8 @@ export default function usePageMeta() {
             if (ogTitle) ogTitle.setAttribute('content', post.title)
             if (ogDesc) ogDesc.setAttribute('content', post.excerpt)
 
-            setJsonLd('ld-article', {
-              '@context': 'https://schema.org',
-              '@type': 'Article',
-              headline: post.title,
-              description: post.excerpt,
-              datePublished: post.date,
-              author: { '@type': 'Organization', name: 'Platinum Zenith' },
-              inLanguage: 'sr',
-            })
+            // Article schema is emitted by BlogPostPage.jsx (richer: publisher, logo, wordCount, etc.)
+            // Only breadcrumb is set here to avoid duplicate ld+json
 
             setJsonLd('ld-breadcrumb', {
               '@context': 'https://schema.org',
