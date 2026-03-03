@@ -795,7 +795,7 @@ const blogStyles = `
 
   @media (min-width: 1024px) {
     .blog-header-inner {
-      width: 60%;
+      width: 70%;
       max-width: none;
       padding-left: 0;
       padding-right: 0;
@@ -808,6 +808,7 @@ const blogStyles = `
       font-size: clamp(52px, 6vw, 97px);
       line-height: 1.02;
       letter-spacing: -0.034em;
+      text-wrap: pretty;
     }
 
     .blog-excerpt {
@@ -822,13 +823,14 @@ const blogStyles = `
 
   @media (min-width: 1536px) {
     .blog-title {
-      max-width: 14ch;
+      max-width: none;
       font-size: clamp(62px, 4.9vw, 101px);
       line-height: 1.04;
+      text-wrap: pretty;
     }
 
     .blog-excerpt {
-      max-width: 42ch;
+      max-width: none;
     }
   }
 
