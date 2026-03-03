@@ -75,6 +75,10 @@ Najjednostavnija formula. Tri koraka:
 
 Isti biznis. Potpuno drugačija reakcija čitaoca.
 
+Saznajte više o našem [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
+
+Takođe preporučujemo: [Facebook oglasi koji zapravo rade: psihologija iza klika](/blog/facebook-oglasi-koji-zapravo-rade).
+
 ---
 
 Želite da napišemo oglase koji zapravo konvertuju? [Javite nam se](/kontakt).
@@ -151,6 +155,10 @@ Pravilo: ako ne možete da čekate dovoljno dugo za validan rezultat, testirajte
 
 Firme koje testiraju kontinuirano poboljšavaju konverzije za 20-30% kvartalno. Za godinu dana, to je 2-3x poboljšanje.
 
+Detaljnije o našem [CRO procesu](/cro) i kako optimizujemo konverzije za klijente.
+
+Takođe preporučujemo: [5 grešaka na landing stranicama koje ubijaju konverzije](/blog/5-gresaka-landing-stranice-konverzije).
+
 ---
 
 Želite da postavimo A/B testiranje za vaš sajt? [Javite nam se](/kontakt) i počnite da donosite odluke na osnovu podataka.
@@ -226,6 +234,10 @@ Ne trebate 17 alata. Tri su dovoljna:
 
 Jednom mesečno: sednite 30 minuta, pogledajte brojeve, uporedite sa prošlim mesecom. Trendovi su važniji od apsolutnih brojeva. Raste li CPL? Pada li konverzija? Gde se troši najviše za najmanje rezultata?
 
+Saznajte više o našem [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
+
+Takođe preporučujemo: [Kako čitati marketing izveštaj (vodič za vlasnike firmi)](/blog/kako-citati-marketing-izvestaj).
+
 ---
 
 Želite da postavimo sistem za merenje vašeg marketinga? [Javite nam se](/kontakt) i počnite da donosite odluke na osnovu podataka.
@@ -298,6 +310,10 @@ Ne trebate dizajnera, ne trebate programera. Trebate korisno znanje i 3 sata vre
 - U email signature-u
 - Na LinkedIn profilu i u postovima
 
+Saznajte više o našem [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
+
+Takođe preporučujemo: [Email marketing: zašto je email i dalje kralj konverzija](/blog/email-marketing-kralj-konverzija).
+
 ---
 
 Želite da napravimo lead magnet za vaš biznis? [Javite nam se](/kontakt) i dizajniraćemo vam sistem koji pretvara posetioce u lead-ove.
@@ -357,6 +373,10 @@ Ljudi pamte priče, ne specifikacije. "Podigli smo prodaju za 40%" je podatak. "
 - **Izaberite 3-5 vizuelnih elemenata** i držite ih se: paleta boja, font, stil fotografija, stil ikonica.
 - **Kreirajte "brand voice" dokument:** 10-15 pravila o tome kako komunicirate. Šta kažete a šta ne. Koji su vaši izrazi a koji nisu.
 - **Budite prisutni redovno.** Brend koji se pojavi jednom mesečno ne postoji u glavama ljudi.
+
+Saznajte više o našem [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
+
+Takođe preporučujemo: [Social proof: kako koristiti recenzije za više prodaje](/blog/social-proof-recenzije-za-vise-prodaje).
 
 ---
 
@@ -418,6 +438,10 @@ YouTube video od 10-20 minuta. Detaljno objašnjenje teme. Gradi autoritet i pri
 - **Instagram Reels / TikTok:** za kratki format i doseg
 - **LinkedIn:** za B2B sadržaj (video na LinkedIn-u ima 5x veći engagement od teksta)
 - **Sajt:** explainer na početnoj, testimonijali na stranicama usluga
+
+Saznajte kako [upravljamo društvenim mrežama](/drustvene-mreze) za firme koje žele rezultate, ne samo pratioce.
+
+Takođe preporučujemo: [Zašto je UGC budućnost oglasa (i kako ga koristiti)](/blog/ugc-buducnost-oglasa).
 
 ---
 
@@ -488,6 +512,10 @@ Za firmu sa budžetom od 2.000€ mesečno za marketing:
 
 **Kombinovani pristup:** 1.000€ PPC + 1.000€ SEO → 40 klikova iz PPC + rastući organski saobraćaj → mesec 6: isti broj konverzija za 60% cene.
 
+Pogledajte kako [naš SEO pristup](/digitalni-marketing) pomaže klijentima da se pojave prvi na pretrazi.
+
+Takođe preporučujemo: [Lokalni SEO: kako se pojaviti prvi kad neko pretraži u vašem gradu](/blog/lokalni-seo-kako-se-pojaviti-prvi).
+
 ---
 
 Niste sigurni gde da ulažete? [Javite nam se](/kontakt) i napravićemo vam plan koji kombinuje najbolje od oba sveta.
@@ -557,6 +585,10 @@ Nema magičnog rešenja. Ali ima konkretnih koraka:
 1. **Podignite cenu za 20% sledećem klijentu.** Samo da vidite šta se dešava. U 80% slučajeva, ništa loše.
 2. **Delegirajte jednu stvar ove nedelje.** Bilo šta. Administrativni zadatak, operativni posao, bilo šta što ne zahteva vas lično.
 3. **Lansirajte nešto nedovršeno.** Blog post, ponuda, kampanja. Pustite da tržište vam kaže šta treba da popravite umesto da pogađate sami.
+
+Ako želite strukturiran pogled na vaš biznis, pogledajte naš [consulting program](/consulting).
+
+Takođe preporučujemo: [Anatomija neodoljive ponude: zašto većina firmi prodaje pogrešno](/blog/ponuda-koju-niko-ne-moze-da-odbije).
 
 ---
 
@@ -631,6 +663,10 @@ Da: "Sledeći korak: zakazujemo 30-minutni poziv u četvrtak u 11h gde prolazimo
 
 Konkretan, vremenski definisan sledeći korak. Nema nejasnoće.
 
+Ako želite strukturiran pogled na vaš biznis, pogledajte naš [consulting program](/consulting).
+
+Takođe preporučujemo: [Kako napisati ponudu koja zatvara posao za 24 sata](/blog/kako-napisati-ponudu-koja-zatvara-posao).
+
 ---
 
 Želite pomoć da napravite ponudu koja zatvara klijente? [Javite nam se](/kontakt).
@@ -704,6 +740,10 @@ Ako agencija nema pisani ugovor ili su uslovi nejasni, bežite.
 - Šalju generičke izveštaje bez konkretnih brojeva
 - Menjaju account menadžera svakih par meseci
 
+Saznajte više o našem [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
+
+Takođe preporučujemo: [Koliko zapravo košta loš marketing (skriveni troškovi koje niko ne pominje)](/blog/koliko-kosta-los-marketing).
+
 ---
 
 Tražite agenciju koja ispunjava sve ove kriterijume? [Javite nam se](/kontakt) i uverite se sami.
@@ -772,6 +812,10 @@ Sistem koji radi:
 
 Greška: staviti sve recenzije na jednu stranicu "Testimonials" koju niko ne posećuje. Recenzije treba da budu tamo gde kupac donosi odluku.
 
+Detaljnije o našem [CRO procesu](/cro) i kako optimizujemo konverzije za klijente.
+
+Takođe preporučujemo: [Customer retention: zašto je jeftinije zadržati nego naći novog kupca](/blog/customer-retention-zadrzati-vs-naci-novog).
+
 ---
 
 Želite da vam pomognemo da izgradite sistem za prikupljanje i korišćenje recenzija? [Javite nam se](/kontakt).
@@ -831,6 +875,10 @@ Za firmu sa 5.000 posetilaca mesečno na sajtu:
 Prikazivati isti oglas istim ljudima danima i nedeljama. Ovo se zove "ad fatigue" i rezultat je iritacija, ne konverzija.
 
 Rešenje: rotirajte kreative svakih 7-10 dana. Menjajte poruku, sliku i ponudu. Ograničite frequency cap na 3-5 prikaza po osobi dnevno.
+
+Saznajte više o našem [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
+
+Takođe preporučujemo: [Kako napraviti sales funnel koji radi dok vi spavate](/blog/sales-funnel-koji-radi-na-autopilotu).
 
 ---
 
@@ -904,6 +952,10 @@ Pošaljite email svakom klijentu sa kojim niste komunicirali u poslednjih 30 dan
 
 Ovaj jedan email smanjuje churn, generiše upsell prilike i podseća klijente zašto rade sa vama.
 
+Saznajte više o našem [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
+
+Takođe preporučujemo: [Email marketing: zašto je email i dalje kralj konverzija](/blog/email-marketing-kralj-konverzija).
+
 ---
 
 Želite da napravimo sistem za retenciju vaših klijenata? [Javite nam se](/kontakt).
@@ -970,6 +1022,10 @@ Razlog je prost: algoritmi nagrađuju konzistentnost, kupci pamte ko je stalno p
 Firma koja implementira prosečnu ideju za nedelju dana pobedi firmu koja planira savršenu ideju mesecima. Tržište nagrađuje akciju, ne planiranje.
 
 80% posla urađeno brzo vredi više od 100% posla urađenog kasno. Perfekcionizam je neprijatelj profita u marketingu.
+
+Ako želite strukturiran pogled na vaš biznis, pogledajte naš [consulting program](/consulting).
+
+Takođe preporučujemo: [17 godina marketing iskustva u jednom tekstu](/blog/17-godina-marketing-iskustva-u-jednom-tekstu).
 
 ---
 
@@ -1040,6 +1096,10 @@ Vlasnik koji radi marketing, prodaju, operacije, finansije i HR istovremeno ne r
 
 To znači delegiranje, outsourcing ili automatizacija svega što niste vi. Vaš posao je strategija i odluke, ne izvršavanje.
 
+Ako želite strukturiran pogled na vaš biznis, pogledajte naš [consulting program](/consulting).
+
+Takođe preporučujemo: [Od nule do prvog miliona: konkretni koraci za vlasnike firmi](/blog/od-nule-do-prvog-miliona-konkretni-koraci).
+
 ---
 
 Ako prepoznajete neku od ovih grešaka, [javite nam se](/kontakt). Pomoći ćemo vam da je ispravite pre nego što postane skupa.
@@ -1101,6 +1161,10 @@ Rast nije linearan. Postoje faze gde sve ide brzo i faze gde izgleda da se ništ
 
 Nema jedne formule koja radi za sve. Ali postoji redosled: ponuda, klijenti, sistemi, tim, skaliranje. Firme koje preskaču korake uvek se vrate nazad da popune rupe.
 
+Ako želite strukturiran pogled na vaš biznis, pogledajte naš [consulting program](/consulting).
+
+Takođe preporučujemo: [Kako se kretati 10x brže kao vlasnik firme](/blog/kako-se-kretati-10x-brze-kao-vlasnik-firme).
+
 ---
 
 Želite partnera koji će vam pomoći da ubrzate svaku od ovih faza? [Javite nam se](/kontakt).
@@ -1160,6 +1224,10 @@ Taj momenat ne dolazi. Delegirajte pre nego što ste spremni. Biće nesavršeno.
 Firme koje testiraju 10 ideja mesečno i nalaze 2 koje rade pobeđuju firme koje planiraju jednu savršenu ideju kvartalno. Brzina implementacije je možda najvažnija konkurentska prednost za male firme.
 
 Velika korporacija treba 6 meseci da lansira novu kampanju. Mala firma to može za 6 dana. Iskoristite tu prednost.
+
+Ako želite strukturiran pogled na vaš biznis, pogledajte naš [consulting program](/consulting).
+
+Takođe preporučujemo: [Zašto većina firmi stagnira posle prvog miliona](/blog/zasto-vecina-firmi-stagnira-posle-prvog-miliona).
 
 ---
 
@@ -1224,6 +1292,10 @@ Firma na milion evra koja želi dalji rast treba tri stvari:
 2. **Sistemi moraju postojati nezavisno od ljudi.** Kad zaposleni ode, znanje ne sme da ode sa njim. Sve mora biti dokumentovano, standardizovano i merljivo.
 
 3. **Marketing mora biti predvidljiv.** Na milion evra, firma ne može da zavisi od preporuka i slučajnih upita. Treba joj marketinška mašina koja donosi predvidljiv broj lead-ova svake nedelje.
+
+Ako želite strukturiran pogled na vaš biznis, pogledajte naš [consulting program](/consulting).
+
+Takođe preporučujemo: [Od nule do prvih 10.000 evra mesečno: vodič za početnike](/blog/od-nule-do-prvih-10000-evra-mesecno).
 
 ---
 
@@ -1293,6 +1365,10 @@ Sa dokumentovanim procesom, možete zaposliti nekoga ko preuzima 80% operativnog
 
 Ne trebate 100 klijenata. Trebate 5-10 klijenata koji plaćaju fer cenu za stvarnu vrednost. To je ostvarivo u roku od 3-6 meseci za nekoga ko je spreman da radi.
 
+Ako želite strukturiran pogled na vaš biznis, pogledajte naš [consulting program](/consulting).
+
+Takođe preporučujemo: [Kako napraviti marketing budžet koji ima smisla](/blog/kako-napraviti-marketing-budzet-koji-ima-smisla).
+
 ---
 
 Želite pomoć da napravite sistem koji vas vodi do prvih 10K mesečno? [Javite nam se](/kontakt).
@@ -1356,6 +1432,10 @@ Evo tri koraka koja odmah menjaju percepciju:
 - **Testirajte cene koje završavaju na 7 ili 9.** Za uslužne firme, 997€ gotovo uvek nadmašuje 1.000€ u konverzijama.
 
 Cena je najmoćniji alat u marketingu koji većina firmi nikada ne testira. Jedna promena u prezentaciji cene može povećati prihod za 20-30% bez ijednog dodatnog kupca.
+
+Ako želite strukturiran pogled na vaš biznis, pogledajte naš [consulting program](/consulting).
+
+Takođe preporučujemo: [Pricing psihologija: kako luksuzni brendovi kontrolišu percepciju cene](/blog/pricing-psihologija-kako-luksuzni-brendovi-kontrolisu-percepciju-cene).
 
 ---
 
@@ -1434,6 +1514,10 @@ U Platinum Zenith-u, svaku ponudu za klijente gradimo po ovoj strukturi. Ne prod
 
 Rezultat: naši klijenti ne porede nas sa "jeftinijim" agencijama. Porede nas sa vrednošću koju dobijaju. I to je potpuno drugačiji razgovor.
 
+Ako želite strukturiran pogled na vaš biznis, pogledajte naš [consulting program](/consulting).
+
+Takođe preporučujemo: [Komunikacija u prodaji: kako napisati ponudu koja zatvara](/blog/komunikacija-u-prodaji-kako-napisati-ponudu).
+
 ---
 
 Želite da napravimo neodoljivu ponudu za vaš biznis? [Javite nam se](/kontakt) i pokazaćemo vam kako.
@@ -1500,6 +1584,10 @@ Firma koja kombinuje organski sadržaj + plaćenu amplifikaciju + email:
 - Doseg: 10-30x veći sa istim sadržajem
 - Kontrola: visoka (email lista je vaša)
 - Predvidljivost: visoka
+
+Saznajte kako [upravljamo društvenim mrežama](/drustvene-mreze) za firme koje žele rezultate, ne samo pratioce.
+
+Takođe preporučujemo: [Content marketing: investicija koja se vraća godinama](/blog/content-marketing-dugorocna-investicija).
 
 ---
 
@@ -1569,6 +1657,10 @@ Za firmu koja tek počinje sa oglašavanjem, preporuka zavisi od industrije:
 
 **Lokalni biznisi:** 60% Google (lokalne pretrage), 40% Facebook (community building). Google Maps + lokalni oglasi su najbrži put do rezultata.
 
+Saznajte više o našem [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
+
+Takođe preporučujemo: [Facebook vs Instagram oglasi: gde je vaša publika?](/blog/facebook-vs-instagram-oglasi-gde-je-vasa-publika).
+
 ---
 
 Niste sigurni gde da ulažete budžet? [Javite nam se](/kontakt) i napravićemo vam plan baziran na vašoj industriji i ciljevima.
@@ -1621,6 +1713,10 @@ Uporedite to sa Google Ads gde 2.400€ mesečno donosi klikove samo dok plaćat
 Content marketing je skuplji na početku i jeftiniji na duži rok. Plaćeni oglasi su jeftiniji na početku i skuplji na duži rok.
 
 Najbolja strategija: koristite oba. Plaćeni oglasi za brze rezultate danas, content za organski rast sutra.
+
+Pogledajte kako [naš SEO pristup](/digitalni-marketing) pomaže klijentima da se pojave prvi na pretrazi.
+
+Takođe preporučujemo: [SEO vs PPC: šta je bolje za dugoročni rast](/blog/seo-vs-ppc-sta-je-bolje-za-dugorocni-rast).
 
 ---
 
@@ -1701,6 +1797,10 @@ Marketing agencija u Zrenjaninu:
 6. Mejl 4 (dan 7): ponuda za besplatnu konsultaciju od 15 minuta
 
 Cena kompletnog sistema: 500-1.500€ jednom + 200-400€ mesečno za oglase. Očekivani rezultat: 10-30 kvalifikovanih lead-ova mesečno.
+
+Saznajte više o našem [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
+
+Takođe preporučujemo: [Lead magneti koji zapravo konvertuju](/blog/lead-magneti-koji-zapravo-konvertuju).
 
 ---
 
@@ -1864,6 +1964,10 @@ U Platinum Zenith-u, svaki klijent dobija kompletan lokalni SEO tretman. To uklj
 
 Rezultat? Klijenti koji se pojavljuju u top 3 lokalne pretrage za svoje ključne reči u roku od 60-90 dana. Ne zato što smo napravili magiju, već zato što smo sistematski primenili dokazane tehnike.
 
+Pogledajte kako [naš SEO pristup](/digitalni-marketing) pomaže klijentima da se pojave prvi na pretrazi.
+
+Takođe preporučujemo: [Lokalni biznis vs. online: zašto hibridna strategija pobeđuje](/blog/lokalni-biznis-vs-online-hibridna-strategija).
+
 ---
 
 Ako želite da vaša firma bude prva kad neko pretraži vašu uslugu u gradu, [javite nam se](/kontakt). Napravićemo vam plan za lokalno rangiranje.
@@ -2012,6 +2116,10 @@ U Platinum Zenith-u, email marketing tretiramo kao sistem, ne kao pojedinačne m
 Rezultat? Klijenti sa otvaranjem između 35-55%, klikovima od 8-15%, i ROI-em koji redovno prelazi $25-$35 za svaki dolar uložen.
 
 Email marketing nije mrtav. Samo većina firmi ne zna kako da ga koristi.
+
+Saznajte više o našem [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
+
+Takođe preporučujemo: [Automatizacija marketinga: šta možete delegirati mašini](/blog/automatizacija-marketinga-sta-mozete-delegirati-masini).
 
 ---
 
@@ -2193,6 +2301,10 @@ Rezultat? Klijenti sa konverzijom između 15-35% na landing stranicama umesto pr
 
 Razlika nije u nečemu magičnom. Razlika je u tome što testirajemo, merimo i ispravljajmo ono što ne radi.
 
+Pogledajte naš [web design pristup](/web-design) i kako pravimo sajtove koji pretvaraju posetioce u klijente.
+
+Takođe preporučujemo: [Kako napraviti landing stranicu koja konvertuje 20%+](/blog/kako-napraviti-landing-stranicu-koja-konvertuje).
+
 ---
 
 Ako želite da vaša landing stranica konvertuje više posetilaca u klijente, [javite nam se](/kontakt). Napravićemo vam analizu i pokazati gde gubite ljude.
@@ -2297,6 +2409,10 @@ Za svaki ad account kreiramo:
 - **Agresivno testiranje i iteraciju** kad nađemo oglas koji radi, skaliramo ga. Kad ne radi, menjamo za 24 sata.
 
 Rezultat? Klijenti sa 3-5x nižim troškovima po lead-u nego pre. Ne zato što smo našli magično targetiranje, već zato što smo napravili oglase koje ljudi zapravo žele da kliknu.
+
+Saznajte više o našem [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
+
+Takođe preporučujemo: [Piramida kupaca: zašto većina firmi gubi 97% tržišta](/blog/piramida-kupaca-4-tipa-publike).
 
 ---
 
@@ -2412,6 +2528,10 @@ Za svakog klijenta kreiramo:
 
 Rezultat? Klijenti koji dolaze informisani, sa poverenjem, i spremni da sarađuju. Ne zato što ih je neko pritisnuo, već zato što su dobili vrednost pre nego što su ikada platili.
 
+Saznajte više o našem [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
+
+Takođe preporučujemo: [Retargeting: zašto 95% posetilaca nikad ne kupi iz prvog pokušaja](/blog/retargeting-zasto-95-posetilaca-ne-kupi).
+
 ---
 
 Ako vas zanima kako bi ovaj sistem izgledao za vaš biznis, [javite nam se](/kontakt). Napravićemo vam plan.
@@ -2495,6 +2615,10 @@ Vaš sajt, vaša ponuda, vaš način komunikacije, sve to šalje cenovne signale
 Pre nego što razmišljate o snižavanju cene, pogledajte kako vaš brend komunicira vrednost. Često problem nije cena. Problem je što sve oko cene govori pogrešnu priču.
 
 Luksuzni brendovi to znaju. Zato ne troše energiju na ubedljive popuste. Troše je na izgradnju percepcije koja čini da cena izgleda kao potvrda kvaliteta, a ne kao prepreka.
+
+Ako želite strukturiran pogled na vaš biznis, pogledajte naš [consulting program](/consulting).
+
+Takođe preporučujemo: [Pricing psihologija: kako brendovi kontrolišu percepciju cene](/blog/pricing-psihologija-kontrola-percepcije-cene).
 
 ---
 
@@ -2618,6 +2742,10 @@ Bolji pristup: izaberite jedan kanal. Savladajte ga. Napravite ga profitabilnim.
 Kanali se menjaju. Algoritmi se menjaju. Formati se menjaju. Ali osnova ostaje: jaka ponuda, jasni brojevi, brza egzekucija, sistematičan follow-up i fokus na ono što zapravo donosi rezultate.
 
 Firme koje jure svaki novi trend troše energiju na učenje umesto na zarađivanje. Firme koje savladaju osnove zarađuju bez obzira na to šta algoritam radi ove nedelje.
+
+Ako želite strukturiran pogled na vaš biznis, pogledajte naš [consulting program](/consulting).
+
+Takođe preporučujemo: [13 godina poslovnog iskustva: najskuplje greške koje firme prave](/blog/13-godina-poslovnog-iskustva-najskuplje-greske).
 
 ---
 
@@ -2752,6 +2880,10 @@ I najvažnije: nikad ne smanjujte budžet samo zato što je "skupo." Skupo je re
 
 > Marketing budžet nije cifra koju "možete da priuštite." Marketing budžet je odgovor na pitanje: koliko ste spremni da platite za jednog novog klijenta?
 
+Ako želite strukturiran pogled na vaš biznis, pogledajte naš [consulting program](/consulting).
+
+Takođe preporučujemo: [Koliko zapravo košta loš marketing (skriveni troškovi koje niko ne pominje)](/blog/koliko-kosta-los-marketing).
+
 ---
 
 Želite pomoć da napravite marketing budžet koji zapravo donosi rezultate? [Javite nam se](/kontakt). Proći ćemo kroz vaše brojeve i napraviti plan koji ima smisla za vaš biznis.
@@ -2873,6 +3005,10 @@ Ako nikad niste koristili UGC, počnite jednostavno:
 
 Rezultati obično govore sami za sebe. Kad vidite da video snimljen telefonom konvertuje bolje od profesionalne produkcije, pristup se menja zauvek.
 
+Saznajte kako [upravljamo društvenim mrežama](/drustvene-mreze) za firme koje žele rezultate, ne samo pratioce.
+
+Takođe preporučujemo: [Video marketing: zašto video dominira i kako početi](/blog/video-marketing-zasto-video-dominira).
+
 ---
 
 Želite da testirate UGC kampanje za vaš biznis? [Javite nam se](/kontakt). Pomoći ćemo vam da pronađete kreatore, napravite strategiju i pokrenete prve oglase.
@@ -2967,6 +3103,10 @@ Ako nikad niste automatizovali ništa, evo redosleda:
 5. **Workflow integracije** (mesec 3): povezivanje alata da podaci teku bez ručnog kopiranja
 
 Svaki korak se gradi na prethodnom. Ne pokušavajte sve odjednom.
+
+Saznajte više o našem [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
+
+Takođe preporučujemo: [Kako napraviti sales funnel koji radi dok vi spavate](/blog/sales-funnel-koji-radi-na-autopilotu).
 
 ---
 
@@ -3084,6 +3224,10 @@ Ako imate online biznis ali nema lokalnog kontakta:
 3. Pokrenite lokalni SEO za vaš grad (do kraja meseca)
 
 Korak po korak. Ne treba vam savršena strategija. Treba vam prvi potez.
+
+Saznajte više o našem [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
+
+Takođe preporučujemo: [Lokalni SEO: kako se pojaviti prvi kad neko pretraži u vašem gradu](/blog/lokalni-seo-kako-se-pojaviti-prvi).
 
 ---
 
@@ -3215,6 +3359,10 @@ Ne morate da čekate mesečni izveštaj da biste znali gde stojite. Evo minimaln
 
 15 minuta nedeljno. To je sve što vam treba da nikad više ne budete u mraku oko sopstvenog marketinga.
 
+Saznajte više o našem [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
+
+Takođe preporučujemo: [Kako meriti ROI marketinga: KPI vodič za vlasnike firmi](/blog/kako-meriti-roi-marketinga-kpi-vodic).
+
 ---
 
 Želite marketing izveštaje koji zapravo imaju smisla? [Javite nam se](/kontakt). Naši izveštaji stavljaju zaradu na prvu stranu, ne grafove.
@@ -3309,6 +3457,10 @@ Ako niste sigurni odakle da počnete, evo redosleda po uticaju na rezultat:
 5. **Google Analytics** (ova nedelja). Besplatno. Sat vremena za postavljanje. Vrednost: znate šta se zapravo dešava.
 
 > Lep sajt bez konverzija je skupa vizit karta. Sajt koji prodaje ne mora da bude lep. Mora da bude jasan, brz i usmeren na ono što kupac traži.
+
+Pogledajte naš [web design pristup](/web-design) i kako pravimo sajtove koji pretvaraju posetioce u klijente.
+
+Takođe preporučujemo: [A/B testiranje: male promene, veliki rezultati](/blog/ab-testiranje-male-promene-veliki-rezultati).
 
 ---
 
@@ -3424,6 +3576,10 @@ Evo redosleda koji koristimo za naše klijente:
 Cela ponuda na 2-3 strane. Ne 15. Klijent treba da može da je pročita za 5 minuta i da zna tačno šta dobija, koliko košta i šta treba da uradi.
 
 > Ponuda nije prezentacija vaše firme. Ponuda je most između klijentovog problema i vašeg rešenja. Što je taj most kraći i jasniji, brže ga klijent pređe.
+
+Ako želite strukturiran pogled na vaš biznis, pogledajte naš [consulting program](/consulting).
+
+Takođe preporučujemo: [Anatomija neodoljive ponude: zašto većina firmi prodaje pogrešno](/blog/ponuda-koju-niko-ne-moze-da-odbije).
 
 ---
 
@@ -3544,6 +3700,10 @@ Ovo nije set-and-forget. Efikasnost platformi se menja sa sezonom, sadržajem i 
 
 > Ne birajte platformu na osnovu toga gde vi provodite vreme. Birajte na osnovu toga gde vaši kupci donose odluke o kupovini. To su često potpuno različita mesta.
 
+Saznajte kako [upravljamo društvenim mrežama](/drustvene-mreze) za firme koje žele rezultate, ne samo pratioce.
+
+Takođe preporučujemo: [Zašto organski doseg umire i šta pametne firme rade umesto toga](/blog/organski-doseg-umire-sta-raditi).
+
 ---
 
 Niste sigurni gde vaša publika zapravo jeste? [Javite nam se](/kontakt). Analiziraćemo vaše podatke i reći vam tačno gde da stavite svaki evro budžeta.
@@ -3651,6 +3811,10 @@ Razlika: 6 klijenata više mesečno. Ako svaki klijent vredi 800€, to je 4.800
 Za godinu dana: 57.600€ razlike. A klijenti kupuju ponovo, preporučuju, ostavljaju recenzije. Compound efekat radi za vas umesto protiv vas.
 
 Ne morate da trošite više. Morate da trošite pametnije. I morate da počnete što pre, jer svaki mesec lošeg marketinga je mesec u kome vam konkurencija uzima klijente koje ste vi trebali da imate.
+
+Saznajte više o našem [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
+
+Takođe preporučujemo: [Kako napraviti marketing budžet koji ima smisla](/blog/kako-napraviti-marketing-budzet-koji-ima-smisla).
 
 ---
 
@@ -3798,6 +3962,10 @@ Landing stranice koje konvertuju 20%+ ne nastaju slučajno. Nastaju iz razumevan
 Svaka sekcija na stranici ima posao. Naslov hvata pažnju. Tekst gradi poverenje. Social proof eliminiše sumnju. CTA daje jasnu sledeću akciju.
 
 Kad sve to radi zajedno, konverzija raste. Ne za 10-20%. Za 3x, 5x, ponekad 10x.
+
+Pogledajte naš [web design pristup](/web-design) i kako pravimo sajtove koji pretvaraju posetioce u klijente.
+
+Takođe preporučujemo: [Zašto vaš sajt ne prodaje (i šta da promenite danas)](/blog/zasto-vas-sajt-ne-prodaje).
 
 ---
 
