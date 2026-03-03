@@ -455,7 +455,7 @@ const blogStyles = `
   .blog-title {
     margin: 0 auto;
     max-width: 820px;
-    font-size: clamp(40px, 7.2vw, 76px);
+    font-size: clamp(28px, 5vw, 53px);
     line-height: 1.06;
     letter-spacing: -0.04em;
     font-weight: 600;
@@ -803,7 +803,7 @@ const blogStyles = `
     .blog-title {
       margin: 0;
       max-width: none;
-      font-size: clamp(74px, 8.6vw, 138px);
+      font-size: clamp(52px, 6vw, 97px);
       line-height: 1.02;
       letter-spacing: -0.034em;
     }
@@ -821,7 +821,7 @@ const blogStyles = `
   @media (min-width: 1536px) {
     .blog-title {
       max-width: 14ch;
-      font-size: clamp(88px, 7vw, 144px);
+      font-size: clamp(62px, 4.9vw, 101px);
       line-height: 1.04;
     }
 
@@ -840,7 +840,7 @@ const blogStyles = `
     }
 
     .blog-title {
-      font-size: clamp(32px, 9vw, 52px);
+      font-size: clamp(22px, 6.3vw, 36px);
       line-height: 1.08;
       letter-spacing: -0.035em;
     }
