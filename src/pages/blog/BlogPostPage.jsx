@@ -517,21 +517,35 @@ const blogStyles = `
   .blog-meta-strip {
     position: relative;
     z-index: 10;
-    max-width: 760px;
-    margin: 0 auto;
-    padding: 18px 24px;
+    width: 100%;
+    margin: 0;
+    padding: 20px 4vw;
     border-top: 1px solid var(--edge-2, rgba(255,255,255,0.08));
     border-bottom: 1px solid var(--edge-2, rgba(255,255,255,0.08));
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 20px;
-    text-align: center;
   }
 
   .blog-meta-cell {
     display: flex;
     flex-direction: column;
     gap: 3px;
+  }
+
+  .blog-meta-cell:nth-child(1) {
+    align-items: flex-start;
+    text-align: left;
+  }
+
+  .blog-meta-cell:nth-child(2) {
+    align-items: center;
+    text-align: center;
+  }
+
+  .blog-meta-cell:nth-child(3) {
+    align-items: flex-end;
+    text-align: right;
   }
 
   .blog-meta-label {
@@ -586,7 +600,7 @@ const blogStyles = `
   }
 
   .blog-p {
-    font-size: clamp(17px, 2.2vw, 20px);
+    font-size: clamp(15px, 2vw, 18px);
     line-height: 1.9;
     color: var(--ink-2, rgba(255,255,255,0.7));
     margin-bottom: 24px;
@@ -777,6 +791,32 @@ const blogStyles = `
     color: var(--ink-2, rgba(255,255,255,0.45));
   }
 
+  @media (min-width: 1024px) {
+    .blog-header-inner {
+      width: 60%;
+      max-width: none;
+      padding-left: 0;
+      padding-right: 0;
+      text-align: left;
+    }
+
+    .blog-title {
+      margin: 0;
+      max-width: none;
+      font-size: clamp(80px, 10vw, 152px);
+      line-height: 0.98;
+    }
+
+    .blog-excerpt {
+      margin: 24px 0 0;
+      max-width: none;
+    }
+
+    .blog-share {
+      justify-content: flex-start;
+    }
+  }
+
   @media (max-width: 820px) {
     .blog-header {
       padding-top: 140px;
@@ -807,6 +847,13 @@ const blogStyles = `
       grid-template-columns: 1fr;
       gap: 12px;
       padding: 14px 18px;
+    }
+
+    .blog-meta-cell:nth-child(1),
+    .blog-meta-cell:nth-child(2),
+    .blog-meta-cell:nth-child(3) {
+      align-items: flex-start;
+      text-align: left;
     }
 
     .blog-content {
