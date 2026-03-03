@@ -338,7 +338,7 @@ export default function AppPreview() {
   const brand = brands[active]
 
   return (
-    <div className="theme-dark relative mx-auto max-w-[1164px] mt-10">
+    <div className="relative mx-auto max-w-[1164px] mt-10">
       {/* Brand selector — horizontal scrollable strip */}
       <div className="relative mb-5">
         <div
