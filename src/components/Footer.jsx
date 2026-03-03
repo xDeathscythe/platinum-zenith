@@ -15,6 +15,7 @@ const routeMap = {
   'Case Studies': '/case-studies',
   'Blog': '/blog',
   'Marketing Vodič': '/blog',
+  'ROI Kalkulator': '/alati/roi-kalkulator',
   'FAQ': '/faq',
   'Uslovi korišćenja': '/uslovi-koriscenja',
   'Uslovi kupovine': '/uslovi-kupovine',
@@ -30,7 +31,7 @@ const columns = [
   ],
   [
     { title: 'Kompanija', links: ['O nama', 'Case Studies', 'Blog'] },
-    { title: 'Resursi', links: ['Marketing Vodič', 'FAQ'] },
+    { title: 'Resursi', links: ['ROI Kalkulator', 'Marketing Vodič', 'FAQ'] },
   ],
   [
     { title: 'Kontakt', links: ['aleksandar@platinumzenith.com', '+381 66 816 8929', 'Ruže Šulman 19, Zrenjanin'] },
