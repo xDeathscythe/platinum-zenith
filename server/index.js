@@ -15,6 +15,7 @@ import authRoutes from './routes/auth.js'
 import prijavaRoutes from './routes/prijava.js'
 import kontaktRoutes from './routes/kontakt.js'
 import adminRoutes from './routes/admin.js'
+import analyticsRoutes from './routes/analytics.js'
 
 const __dirname = __serverDir
 const PORT = process.env.PORT || 3000
@@ -28,6 +29,7 @@ app.use(express.json())
 app.use('/api', authRoutes)
 app.use('/api', prijavaRoutes)
 app.use('/api', kontaktRoutes)
+app.use('/api', analyticsRoutes)
 app.use('/api/admin', adminRoutes)
 
 // SEO: strip trailing slash (301 redirect) — prevents duplicate canonical URLs

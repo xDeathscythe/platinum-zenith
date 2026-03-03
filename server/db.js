@@ -49,6 +49,52 @@ async function getDb() {
     )
   `)
 
+  db.run(`
+    CREATE TABLE IF NOT EXISTS page_visits (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      session_id TEXT NOT NULL,
+      path TEXT NOT NULL,
+      slug TEXT,
+      content_type TEXT DEFAULT 'page',
+      referrer TEXT,
+      source TEXT,
+      medium TEXT,
+      campaign TEXT,
+      term TEXT,
+      content TEXT,
+      user_agent TEXT,
+      ip_hash TEXT,
+      language TEXT,
+      screen_w INTEGER,
+      screen_h INTEGER,
+      viewport_w INTEGER,
+      viewport_h INTEGER,
+      tz_offset INTEGER,
+      created_at DATETIME DEFAULT CURRENT_TIMESTAMP
+    )
+  `)
+
+  db.run(`
+    CREATE TABLE IF NOT EXISTS analytics_events (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      session_id TEXT NOT NULL,
+      path TEXT NOT NULL,
+      slug TEXT,
+      content_type TEXT DEFAULT 'page',
+      event_name TEXT NOT NULL,
+      event_value REAL,
+      meta_json TEXT,
+      created_at DATETIME DEFAULT CURRENT_TIMESTAMP
+    )
+  `)
+
+  db.run('CREATE INDEX IF NOT EXISTS idx_page_visits_created_at ON page_visits(created_at)')
+  db.run('CREATE INDEX IF NOT EXISTS idx_page_visits_path ON page_visits(path)')
+  db.run('CREATE INDEX IF NOT EXISTS idx_page_visits_content_type ON page_visits(content_type)')
+  db.run('CREATE INDEX IF NOT EXISTS idx_page_visits_session ON page_visits(session_id)')
+  db.run('CREATE INDEX IF NOT EXISTS idx_analytics_events_created_at ON analytics_events(created_at)')
+  db.run('CREATE INDEX IF NOT EXISTS idx_analytics_events_name ON analytics_events(event_name)')
+
   save()
   return db
 }

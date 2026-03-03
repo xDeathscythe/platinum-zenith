@@ -7,6 +7,7 @@ const navItems = [
   { label: 'Poruke', path: '/log/poruke', icon: '💬' },
   { label: 'Newsletter', path: '/log/newsletter', icon: '📧' },
   { label: 'Email Log', path: '/log/emails', icon: '📤' },
+  { label: 'Analytics', path: '/log/analytics', icon: '📈' },
 ]
 
 export default function AdminLayout() {

@@ -1,4 +1,6 @@
 import { useEffect, useState } from 'react'
+import { useNavigate } from 'react-router-dom'
+import { adminFetch, isUnauthorizedError } from '../../lib/adminApi'
 
 function StatCard({ label, value, icon }) {
   return (
@@ -13,25 +15,36 @@ function StatCard({ label, value, icon }) {
 }
 
 export default function DashboardPage() {
+  const navigate = useNavigate()
   const [stats, setStats] = useState(null)
   const [recent, setRecent] = useState([])
   const [loading, setLoading] = useState(true)
+  const [error, setError] = useState('')
 
   useEffect(() => {
-    const token = localStorage.getItem('pz_token')
-    fetch('/api/admin/stats', { headers: { Authorization: `Bearer ${token}` } })
-      .then(r => r.json())
-      .then(data => {
-        if (data.ok) {
-          setStats(data.stats)
-          setRecent(data.recent || [])
-        }
-        setLoading(false)
-      })
-      .catch(() => setLoading(false))
-  }, [])
+    let alive = true
+
+    ;(async () => {
+      try {
+        const data = await adminFetch('/api/admin/stats', { onUnauthorized: () => navigate('/log') })
+        if (!alive) return
+        setStats(data.stats)
+        setRecent(data.recent || [])
+      } catch (err) {
+        if (!alive) return
+        if (!isUnauthorizedError(err)) setError(err.message || 'Greška pri učitavanju statistike')
+      } finally {
+        if (alive) setLoading(false)
+      }
+    })()
+
+    return () => {
+      alive = false
+    }
+  }, [navigate])
 
   if (loading) return <div className="text-white/40 text-[14px]">Učitavanje...</div>
+  if (error) return <div className="text-red-400 text-[14px]">{error}</div>
 
   return (
     <div>
@@ -40,14 +53,15 @@ export default function DashboardPage() {
         <p className="text-[13px] text-white/40 mt-1">Pregled aktivnosti na sajtu</p>
       </div>
 
-      <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
+      <div className="grid grid-cols-2 md:grid-cols-3 gap-4 mb-8">
         <StatCard label="Prijave" value={stats?.prijave || 0} icon="📋" />
         <StatCard label="Poruke" value={stats?.kontakt || 0} icon="💬" />
         <StatCard label="Newsletter" value={stats?.newsletter || 0} icon="📧" />
         <StatCard label="Emailovi poslati" value={stats?.emailsSent || 0} icon="📤" />
+        <StatCard label="Posete" value={stats?.visitsTotal || 0} icon="📈" />
+        <StatCard label="Unique" value={stats?.uniqueVisitors || 0} icon="🧭" />
       </div>
 
-      {/* Recent Activity */}
       <div className="bg-[#111] rounded-xl border border-white/[0.06] overflow-hidden">
         <div className="px-5 py-3 border-b border-white/[0.06]">
           <h2 className="text-[14px] font-medium text-white">Poslednje aktivnosti</h2>

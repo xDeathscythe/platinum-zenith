@@ -2,6 +2,7 @@ import { useState, useEffect, lazy, Suspense } from 'react'
 import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom'
 import Navbar from './components/Navbar'
 import usePageMeta from './hooks/usePageMeta'
+import useAnalyticsTracking from './hooks/useAnalyticsTracking'
 import HomePage from './pages/HomePage'
 
 // Lazy load non-critical shared UI
@@ -40,11 +41,13 @@ const AdminPrijave = lazy(() => import('./pages/admin/PrijavePage'))
 const AdminPoruke = lazy(() => import('./pages/admin/PorukePage'))
 const AdminNewsletter = lazy(() => import('./pages/admin/NewsletterPage'))
 const AdminEmailLog = lazy(() => import('./pages/admin/EmailLogPage'))
+const AdminAnalytics = lazy(() => import('./pages/admin/AnalyticsPage'))
 
 function ScrollToTop() {
   const { pathname } = useLocation()
   useEffect(() => { window.scrollTo(0, 0) }, [pathname])
   usePageMeta()
+  useAnalyticsTracking()
   return null
 }
 
@@ -136,6 +139,7 @@ export default function App() {
             <Route path="poruke" element={<AdminPoruke />} />
             <Route path="newsletter" element={<AdminNewsletter />} />
             <Route path="emails" element={<AdminEmailLog />} />
+            <Route path="analytics" element={<AdminAnalytics />} />
           </Route>
 
           {/* Public routes */}

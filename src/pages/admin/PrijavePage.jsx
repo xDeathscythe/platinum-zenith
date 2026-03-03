@@ -1,21 +1,36 @@
 import { useEffect, useState } from 'react'
+import { useNavigate } from 'react-router-dom'
+import { adminFetch, isUnauthorizedError } from '../../lib/adminApi'
 
 export default function PrijavePage() {
+  const navigate = useNavigate()
   const [items, setItems] = useState([])
   const [loading, setLoading] = useState(true)
+  const [error, setError] = useState('')
 
   useEffect(() => {
-    const token = localStorage.getItem('pz_token')
-    fetch('/api/admin/submissions', { headers: { Authorization: `Bearer ${token}` } })
-      .then(r => r.json())
-      .then(data => {
-        if (data.ok) setItems(data.prijave || [])
-        setLoading(false)
-      })
-      .catch(() => setLoading(false))
-  }, [])
+    let alive = true
+
+    ;(async () => {
+      try {
+        const data = await adminFetch('/api/admin/submissions', { onUnauthorized: () => navigate('/log') })
+        if (!alive) return
+        setItems(data.prijave || [])
+      } catch (err) {
+        if (!alive) return
+        if (!isUnauthorizedError(err)) setError(err.message || 'Greška pri učitavanju prijava')
+      } finally {
+        if (alive) setLoading(false)
+      }
+    })()
+
+    return () => {
+      alive = false
+    }
+  }, [navigate])
 
   if (loading) return <div className="text-white/40 text-[14px]">Učitavanje...</div>
+  if (error) return <div className="text-red-400 text-[14px]">{error}</div>
 
   return (
     <div>

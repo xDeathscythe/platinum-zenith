@@ -1,8 +1,14 @@
+import { useEffect } from 'react'
 import { useNavigate } from 'react-router-dom'
 import AnimatedCharactersLoginPage from '../../components/ui/animated-characters-login-page'
 
 export default function LoginPage() {
   const navigate = useNavigate()
+
+  useEffect(() => {
+    const token = localStorage.getItem('pz_token')
+    if (token) navigate('/log/dashboard')
+  }, [navigate])
 
   const handleAuthenticate = async ({ username, password }) => {
     try {
