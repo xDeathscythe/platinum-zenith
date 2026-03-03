@@ -207,8 +207,8 @@ function VideoAdCard({ ad, delay = 0 }) {
             <span className="text-[12px] text-ink font-semibold truncate max-w-[120px]">{ad.profile}</span>
           </div>
           <span className="flex items-center gap-1">
-            <span className="text-[8px] text-emerald-600 dark:text-emerald-300 font-semibold uppercase tracking-wider">Active</span>
-            <span className="w-1 h-1 rounded-full bg-emerald-600/80 dark:bg-emerald-300/80" />
+            <span className="text-[8px] text-emerald-300 font-semibold uppercase tracking-wider">Active</span>
+            <span className="w-1 h-1 rounded-full bg-emerald-300/80" />
           </span>
         </div>
       </div>
@@ -240,14 +240,14 @@ function VideoAdCard({ ad, delay = 0 }) {
           <div className="text-[8px] text-ink/90 uppercase tracking-wider font-semibold">Likes</div>
           <div className="flex items-center gap-1">
             <span className="text-[15px] text-ink font-semibold">{ad.likes}</span>
-            <span className="text-[10px] text-emerald-600 dark:text-emerald-300 font-semibold">{ad.likesChange}</span>
+            <span className="text-[10px] text-emerald-300 font-semibold">{ad.likesChange}</span>
           </div>
         </div>
         <div>
           <div className="text-[8px] text-ink/90 uppercase tracking-wider font-semibold">Followers</div>
           <div className="flex items-center gap-1">
             <span className="text-[15px] text-ink font-semibold">{ad.followers}</span>
-            <span className="text-[10px] text-emerald-600 dark:text-emerald-300 font-semibold">{ad.followersChange}</span>
+            <span className="text-[10px] text-emerald-300 font-semibold">{ad.followersChange}</span>
           </div>
         </div>
       </div>
@@ -316,7 +316,7 @@ function ScrollRow({ ads, direction = 'left', speed = 30 }) {
 /* ─── Main Component ────────────────────────────── */
 export default function VideoAdsShowcase() {
   return (
-    <section className="relative py-20 md:py-28 overflow-hidden bg-page">
+    <section className="theme-dark relative py-20 md:py-28 overflow-hidden bg-[#0a0a0a]">
       {/* Container with rounded dark card like Arcads */}
       <div className="mx-auto max-w-[1200px] px-4">
         <div className="relative bg-panel rounded-[24px] border border-edge pt-12 md:pt-16 pb-6 overflow-hidden">
