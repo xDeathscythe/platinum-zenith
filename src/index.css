@@ -104,6 +104,25 @@
   --inv-bg:  #ffffff;
   --inv-fg:  #000000;
   --inv-bg-hover: rgba(255,255,255,0.90);
+
+  /* Tailwind v4 @theme registers --color-* at :root with computed values,
+     so we must override them here for bg-panel/bg-page/text-ink etc. to work */
+  --color-page:    #000000;
+  --color-panel:   #111111;
+  --color-tile:    #1a1a1a;
+  --color-ink:     #ffffff;
+  --color-ink-2:   rgba(255,255,255,0.70);
+  --color-ink-3:   rgba(255,255,255,0.50);
+  --color-ink-4:   rgba(255,255,255,0.35);
+  --color-ink-5:   rgba(255,255,255,0.15);
+  --color-edge:    rgba(255,255,255,0.10);
+  --color-edge-2:  rgba(255,255,255,0.06);
+  --color-tint:    rgba(255,255,255,0.06);
+  --color-tint-2:  rgba(255,255,255,0.12);
+  --color-glass:   rgba(0,0,0,0.80);
+  --color-inv-bg:  #ffffff;
+  --color-inv-fg:  #000000;
+  --color-inv-bg-hover: rgba(255,255,255,0.90);
 }
 
 /* ─── Register as Tailwind colors ─── */
