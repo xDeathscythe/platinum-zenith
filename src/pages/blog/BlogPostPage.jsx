@@ -803,8 +803,9 @@ const blogStyles = `
     .blog-title {
       margin: 0;
       max-width: none;
-      font-size: clamp(80px, 10vw, 152px);
-      line-height: 0.98;
+      font-size: clamp(74px, 8.6vw, 138px);
+      line-height: 1.02;
+      letter-spacing: -0.034em;
     }
 
     .blog-excerpt {
@@ -814,6 +815,18 @@ const blogStyles = `
 
     .blog-share {
       justify-content: flex-start;
+    }
+  }
+
+  @media (min-width: 1536px) {
+    .blog-title {
+      max-width: 14ch;
+      font-size: clamp(88px, 7vw, 144px);
+      line-height: 1.04;
+    }
+
+    .blog-excerpt {
+      max-width: 42ch;
     }
   }
 
