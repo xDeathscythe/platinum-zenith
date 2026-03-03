@@ -867,8 +867,8 @@ const blogStyles = `
     .blog-meta-cell:nth-child(1),
     .blog-meta-cell:nth-child(2),
     .blog-meta-cell:nth-child(3) {
-      align-items: flex-start;
-      text-align: left;
+      align-items: center;
+      text-align: center;
     }
 
     .blog-content {
