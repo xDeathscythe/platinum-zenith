@@ -90,6 +90,10 @@ const ogMeta = {
     title: 'Marketing za Startapove | Platinum Zenith',
     description: 'Marketing za startapove od validacije ideje do skaliranja: pozicioniranje, akvizicija prvih korisnika i ubrzanje product-market fit-a.',
   },
+  '/alati/roi-kalkulator': {
+    title: 'ROI Kalkulator za Marketing | Besplatan Alat | Platinum Zenith',
+    description: 'Izračunajte povrat investicije za vaš marketing budžet. Besplatan ROI kalkulator sa benchmarkovima po industriji.',
+  },
 }
 
 /**

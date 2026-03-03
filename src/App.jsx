@@ -32,6 +32,7 @@ const EcommercePage = lazy(() => import('./pages/industries/EcommercePage'))
 const SaasPage = lazy(() => import('./pages/industries/SaasPage'))
 const LocalBusinessPage = lazy(() => import('./pages/industries/LocalBusinessPage'))
 const StartupsPage = lazy(() => import('./pages/industries/StartupsPage'))
+const ROICalculatorPage = lazy(() => import('./pages/ROICalculatorPage'))
 
 // Admin pages
 const LoginPage = lazy(() => import('./pages/admin/LoginPage'))
@@ -109,6 +110,7 @@ function PublicLayout() {
             <Route path="/industrije/saas" element={<SaasPage />} />
             <Route path="/industrije/lokalni-biznisi" element={<LocalBusinessPage />} />
             <Route path="/industrije/startapovi" element={<StartupsPage />} />
+            <Route path="/alati/roi-kalkulator" element={<ROICalculatorPage />} />
             <Route path="*" element={<NotFoundPage />} />
           </Routes>
         </Suspense>
