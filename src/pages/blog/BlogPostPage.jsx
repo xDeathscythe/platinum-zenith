@@ -308,6 +308,15 @@ export default function BlogPostPage() {
       <ReadingProgress />
 
       <header className="blog-header">
+        {/* Aurora background */}
+        <div className="blog-aurora">
+          <div className="absolute inset-0 only-dark" style={{ backgroundImage: `url(${import.meta.env.BASE_URL}hero-home-dark.webp)`, backgroundSize: 'cover', backgroundPosition: 'center top', backgroundColor: '#000' }} />
+          <div className="absolute inset-0 only-light" style={{ backgroundImage: `url(${import.meta.env.BASE_URL}hero-home-light.webp)`, backgroundSize: 'cover', backgroundPosition: 'center top', backgroundColor: '#fff' }} />
+          <div className="absolute inset-x-0 z-[1]" style={{ top: '55vh', height: '52vh', backdropFilter: 'blur(68px)', WebkitBackdropFilter: 'blur(68px)', maskImage: 'linear-gradient(to bottom, transparent 0%, black 20%, black 82%, transparent 100%)', WebkitMaskImage: 'linear-gradient(to bottom, transparent 0%, black 20%, black 82%, transparent 100%)', contain: 'strict' }} />
+          <div className="absolute inset-0 z-[2] only-dark" style={{ background: 'linear-gradient(to bottom, rgba(0,0,0,0) 40%, rgba(0,0,0,0.3) 60%, rgba(0,0,0,0.7) 80%, #000000 100%)' }} />
+          <div className="absolute inset-0 z-[2] only-light" style={{ background: 'linear-gradient(to bottom, rgba(255,255,255,0) 40%, rgba(255,255,255,0.35) 60%, rgba(255,255,255,0.75) 80%, #ffffff 100%)' }} />
+        </div>
+
         <div className="blog-header-inner">
           <span className="blog-kicker">{post.category}</span>
           <h1 className="blog-title">{post.title}</h1>
@@ -413,13 +422,25 @@ const blogStyles = `
   }
 
   .blog-header {
-    padding-top: 138px;
+    position: relative;
+    padding-top: 180px;
+    padding-bottom: 0;
+    overflow: hidden;
+  }
+
+  .blog-aurora {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
   }
 
   .blog-header-inner {
-    max-width: 1080px;
+    position: relative;
+    z-index: 10;
+    max-width: 860px;
     margin: 0 auto;
     padding: 0 24px 54px;
+    text-align: center;
   }
 
   .blog-kicker {
@@ -432,19 +453,19 @@ const blogStyles = `
   }
 
   .blog-title {
-    margin: 0;
-    max-width: 860px;
-    font-size: clamp(40px, 7.2vw, 86px);
-    line-height: 1.02;
+    margin: 0 auto;
+    max-width: 820px;
+    font-size: clamp(40px, 7.2vw, 76px);
+    line-height: 1.06;
     letter-spacing: -0.04em;
     font-weight: 600;
     text-wrap: balance;
   }
 
   .blog-excerpt {
-    margin-top: 26px;
-    max-width: 720px;
-    font-size: clamp(17px, 2.05vw, 22px);
+    margin: 26px auto 0;
+    max-width: 620px;
+    font-size: clamp(17px, 2.05vw, 20px);
     line-height: 1.6;
     color: var(--ink-2, rgba(255,255,255,0.7));
   }
@@ -453,6 +474,7 @@ const blogStyles = `
     margin-top: 28px;
     display: flex;
     align-items: center;
+    justify-content: center;
     flex-wrap: wrap;
     gap: 12px;
   }
@@ -493,7 +515,9 @@ const blogStyles = `
   }
 
   .blog-meta-strip {
-    max-width: 1280px;
+    position: relative;
+    z-index: 10;
+    max-width: 760px;
     margin: 0 auto;
     padding: 18px 24px;
     border-top: 1px solid var(--edge-2, rgba(255,255,255,0.08));
@@ -501,6 +525,7 @@ const blogStyles = `
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 20px;
+    text-align: center;
   }
 
   .blog-meta-cell {
@@ -754,7 +779,7 @@ const blogStyles = `
 
   @media (max-width: 820px) {
     .blog-header {
-      padding-top: 116px;
+      padding-top: 140px;
     }
 
     .blog-header-inner {
@@ -762,8 +787,8 @@ const blogStyles = `
     }
 
     .blog-title {
-      font-size: clamp(34px, 10.5vw, 56px);
-      line-height: 1.04;
+      font-size: clamp(32px, 9vw, 52px);
+      line-height: 1.08;
       letter-spacing: -0.035em;
     }
 
