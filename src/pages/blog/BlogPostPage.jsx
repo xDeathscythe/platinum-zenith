@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react'
 import { useParams, Link } from 'react-router-dom'
 import { blogPosts } from './blogData'
+import { blogIllustrationMap } from './BlogIllustrations'
 import BuyerPyramid from './BuyerPyramid'
 import FunnelComparison from './FunnelComparison'
 import AdAnatomy from './AdAnatomy'
@@ -25,96 +26,7 @@ const componentMap = {
   '{{pyramid-full-funnel}}': PyramidFullFunnel,
 }
 
-const visualAssetPool = [
-  { src: '/pz-01.webp', alt: 'Strategija i interfejs prikazani kroz moderni device mockup' },
-  { src: '/pz-10.webp', alt: 'Dark premium hero sa čistom tipografijom i fokusom na poruku' },
-  { src: '/pz-12.webp', alt: 'Minimalna product scena sa fokusom na kompoziciju i kontrast' },
-  { src: '/pz-13.webp', alt: 'Arhitektonski vizual koji komunicira stabilnost i premium ton' },
-  { src: '/pz-14.webp', alt: 'Brend vizual sa jasnim hijerarhijskim rasporedom elemenata' },
-  { src: '/pz-16.webp', alt: 'Editorial dark hero sa jakim naslovnim fokusom' },
-  { src: '/pz-18.webp', alt: 'Ecommerce hero vizual sa snažnim CTA stilom' },
-  { src: '/portfolio-01.webp', alt: 'Digital product prikaz u modernom tamnom okruženju' },
-  { src: '/portfolio-02.webp', alt: 'Premium komercijalni vizual sa izraženim kontrastom' },
-  { src: '/portfolio-04.webp', alt: 'Moody dark hero sa dominantnim editorial layoutom' },
-  { src: '/portfolio-09.webp', alt: 'Ambijentalni lifestyle kadar sa ozbiljnim brend tonom' },
-  { src: '/case-focus-fizikal.webp', alt: 'Case study vizual koji prikazuje rezultate i UX strukturu' },
-]
 
-const visualCaptionByCategory = {
-  Marketing: [
-    'Marketing rezultat nastaje kada poruka i distribucija rade kao isti sistem.',
-    'Kada je ponuda jasna, vizual pomaže da poruka ostane upamćena.',
-    'Dobar kreativ ne izgleda kao reklama, već kao vredan deo sadržaja.',
-  ],
-  Biznis: [
-    'Rast dolazi iz strukture, ne iz haotičnih poteza.',
-    'Pozicioniranje menja percepciju vrednosti više nego popust.',
-    'Jasna strategija pojednostavljuje svaku narednu odluku.',
-  ],
-  CRO: [
-    'Konverzija raste kada je korisniku sledeći korak očigledan.',
-    'Mali UX detalji često prave najveću razliku u rezultatu.',
-    'Dobra landing struktura vodi korisnika bez dodatnog razmišljanja.',
-  ],
-  SEO: [
-    'SEO rezultat je spoj dobre strukture, sadržaja i interne logike linkovanja.',
-    'Autoritet se gradi kvalitetom koji je konzistentan kroz vreme.',
-    'Pretraga nagrađuje jasnoću, relevantnost i korisnu dubinu sadržaja.',
-  ],
-  default: [
-    'Jasan sadržaj i snažan vizual zajedno drže pažnju do kraja teksta.',
-    'Kvalitetna prezentacija ubrzava razumevanje ključne poruke.',
-    'Ritam čitanja je bolji kada se tekst i vizual prirodno smenjuju.',
-  ],
-}
-
-function hashString(value) {
-  let hash = 0
-  for (let i = 0; i < value.length; i++) {
-    hash = (hash << 5) - hash + value.charCodeAt(i)
-    hash |= 0
-  }
-  return Math.abs(hash)
-}
-
-function createSeededRandom(seed) {
-  let state = seed >>> 0
-  return () => {
-    state += 0x6d2b79f5
-    let t = state
-    t = Math.imul(t ^ (t >>> 15), t | 1)
-    t ^= t + Math.imul(t ^ (t >>> 7), t | 61)
-    return ((t ^ (t >>> 14)) >>> 0) / 4294967296
-  }
-}
-
-function buildVisualPlan(post) {
-  const postIndex = blogPosts.findIndex(p => p.slug === post.slug)
-  const seed = hashString(`${post.slug}|${post.title}|${post.category}|${postIndex}`)
-  const random = createSeededRandom(seed)
-
-  const shuffledAssets = [...visualAssetPool]
-  for (let i = shuffledAssets.length - 1; i > 0; i--) {
-    const j = Math.floor(random() * (i + 1))
-    ;[shuffledAssets[i], shuffledAssets[j]] = [shuffledAssets[j], shuffledAssets[i]]
-  }
-
-  const selectedAssets = shuffledAssets.slice(0, 4)
-  const captionSet = visualCaptionByCategory[post.category] || visualCaptionByCategory.default
-  const firstCaption = captionSet[Math.floor(random() * captionSet.length)]
-  const secondCaption = captionSet[Math.floor(random() * captionSet.length)]
-
-  return [
-    {
-      caption: `${firstCaption} Tema: ${post.title}.`,
-      images: selectedAssets.slice(0, 2),
-    },
-    {
-      caption: `${secondCaption} Fokus: praktična primena za "${post.category}" sadržaj.`,
-      images: selectedAssets.slice(2, 4),
-    },
-  ]
-}
 
 function ShareButtons({ title, slug }) {
   const url = `https://platinumzenith.com/blog/${slug}`
@@ -178,30 +90,7 @@ function ShareButtons({ title, slug }) {
   )
 }
 
-function BlogVisualBlock({ plan, visualIndex }) {
-  const pair = plan[visualIndex % plan.length]
 
-  return (
-    <div className="blog-wide blog-visual-wrap">
-      <div className="blog-visual-grid">
-        {pair.images.map((image, idx) => (
-          <figure key={`${image.src}-${idx}`} className="blog-visual-card">
-            <img
-              src={image.src}
-              alt={image.alt}
-              loading="lazy"
-              decoding="async"
-              width="960"
-              height="640"
-              className="blog-visual-image"
-            />
-          </figure>
-        ))}
-      </div>
-      <p className="blog-visual-caption">{pair.caption}</p>
-    </div>
-  )
-}
 
 function ReadingProgress() {
   const [progress, setProgress] = useState(0)
@@ -256,13 +145,13 @@ export default function BlogPostPage() {
 
   const lines = post.content.split('\n')
   const hasEmbeddedVisualComponents = lines.some(line => componentMap[line.trim()])
-  const visualPlan = buildVisualPlan(post)
+  const illustrations = blogIllustrationMap[post.slug] || []
   const elements = []
-  const visualBreakpoints = [3, 8]
+  const illustrationBreakpoints = [3, 8]
 
   let key = 0
   let paragraphCount = 0
-  let insertedVisualCount = 0
+  let insertedIllCount = 0
   let isFirstParagraph = true
 
   for (let i = 0; i < lines.length; i++) {
@@ -344,19 +233,35 @@ export default function BlogPostPage() {
 
     if (isFirstParagraph) isFirstParagraph = false
 
-    if (!hasEmbeddedVisualComponents && visualBreakpoints.includes(paragraphCount)) {
+    if (
+      !hasEmbeddedVisualComponents &&
+      illustrations.length > 0 &&
+      insertedIllCount < illustrations.length &&
+      illustrationBreakpoints.includes(paragraphCount)
+    ) {
+      const { Component, props } = illustrations[insertedIllCount]
       elements.push(
-        <BlogVisualBlock key={key++} plan={visualPlan} visualIndex={insertedVisualCount} />
+        <div key={key++} className="blog-wide blog-illustration-slot">
+          <Component {...props} />
+        </div>
       )
-      insertedVisualCount += 1
+      insertedIllCount += 1
     }
   }
 
-  if (!hasEmbeddedVisualComponents && insertedVisualCount === 0 && elements.length > 2) {
+  if (
+    !hasEmbeddedVisualComponents &&
+    illustrations.length > 0 &&
+    insertedIllCount === 0 &&
+    elements.length > 2
+  ) {
+    const { Component, props } = illustrations[0]
     elements.splice(
       2,
       0,
-      <BlogVisualBlock key="fallback-visual" plan={visualPlan} visualIndex={0} />
+      <div key="fallback-illustration" className="blog-wide blog-illustration-slot">
+        <Component {...props} />
+      </div>
     )
   }
 
@@ -728,39 +633,24 @@ const blogStyles = `
     color: var(--ink, #fff);
   }
 
-  .blog-visual-wrap {
+  .blog-illustration-slot {
     margin: 58px auto;
   }
 
-  .blog-visual-grid {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 18px;
-  }
-
-  .blog-visual-card {
-    margin: 0;
+  .ill-wrap {
     border-radius: 16px;
-    overflow: hidden;
     border: 1px solid var(--edge-2, rgba(255,255,255,0.08));
-    background: rgba(255,255,255,0.02);
-    min-height: 220px;
+    background: linear-gradient(180deg, rgba(255,255,255,0.03), rgba(255,255,255,0.01));
+    overflow: hidden;
   }
 
-  .blog-visual-image {
+  .ill-inner {
     width: 100%;
-    height: 100%;
-    object-fit: cover;
-    display: block;
-    transition: transform 0.45s ease;
   }
 
-  .blog-visual-card:hover .blog-visual-image {
-    transform: scale(1.03);
-  }
-
-  .blog-visual-caption {
-    margin: 16px 4px 0;
+  .ill-caption {
+    margin: 0;
+    padding: 0 16px 14px;
     font-size: 13px;
     line-height: 1.7;
     color: var(--ink-3, rgba(255,255,255,0.55));
@@ -945,13 +835,14 @@ const blogStyles = `
       padding-left: 24px;
     }
 
-    .blog-visual-wrap {
+    .blog-illustration-slot {
       margin: 44px auto;
     }
 
-    .blog-visual-grid {
-      grid-template-columns: 1fr;
-      gap: 12px;
+    .ill-caption {
+      padding-left: 12px;
+      padding-right: 12px;
+      padding-bottom: 12px;
     }
 
     .blog-related {
