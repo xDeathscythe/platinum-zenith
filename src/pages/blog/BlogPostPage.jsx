@@ -449,7 +449,7 @@ const blogStyles = `
     font-size: 11px;
     letter-spacing: 0.22em;
     text-transform: uppercase;
-    color: var(--ink-3, rgba(255,255,255,0.5));
+    color: #ffffff;
   }
 
   .blog-title {
