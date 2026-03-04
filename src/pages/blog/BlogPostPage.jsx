@@ -290,6 +290,7 @@ export default function BlogPostPage() {
         url: 'https://platinumzenith.com/pz-logo.svg',
       },
     },
+    url: `https://platinumzenith.com/blog/${post.slug}`,
     mainEntityOfPage: {
       '@type': 'WebPage',
       '@id': `https://platinumzenith.com/blog/${post.slug}`,
