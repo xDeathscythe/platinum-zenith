@@ -190,10 +190,23 @@ export default function FacebookOglasiNeRadePage() {
           <p className="text-[15px] text-ink-2 leading-relaxed max-w-[550px] mx-auto mb-5">
             Za ozbiljne projekte nudimo model gde naša zarada zavisi od vaših rezultata. Ako kampanja ne donosi profit, mi ne zarađujemo. Jednostavno.
           </p>
-          <Link to="/kontakt" className="inline-flex items-center gap-2 bg-inv-bg text-inv-fg text-[14px] font-medium h-11 px-6 rounded-full hover:bg-inv-bg-hover transition-colors">
+          <Link to="/fiksna-naknada-vs-revenue-share" className="inline-flex items-center gap-2 bg-inv-bg text-inv-fg text-[14px] font-medium h-11 px-6 rounded-full hover:bg-inv-bg-hover transition-colors">
             Saznajte više
             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
           </Link>
+        </div>
+      </section>
+
+      {/* Related Guides */}
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[760px] mx-auto">
+          <h2 className="text-[20px] font-medium text-ink mb-5 text-center">Povezani vodiči</h2>
+          <div className="flex flex-wrap justify-center gap-3 text-[13px]">
+            <Link to="/koliko-kosta-facebook-reklama" className="bg-panel rounded-full border border-edge px-4 py-2 text-ink-2 hover:border-ink-4 transition-colors">Cene Facebook reklama →</Link>
+            <Link to="/web-shop-nema-prodaju" className="bg-panel rounded-full border border-edge px-4 py-2 text-ink-2 hover:border-ink-4 transition-colors">Web shop nema prodaju? →</Link>
+            <Link to="/cene-digitalnog-marketinga" className="bg-panel rounded-full border border-edge px-4 py-2 text-ink-2 hover:border-ink-4 transition-colors">Cene digitalnog marketinga →</Link>
+            <Link to="/agencija-vs-freelancer" className="bg-panel rounded-full border border-edge px-4 py-2 text-ink-2 hover:border-ink-4 transition-colors">Agencija vs freelancer →</Link>
+          </div>
         </div>
       </section>
 

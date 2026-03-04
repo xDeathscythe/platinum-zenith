@@ -148,6 +148,32 @@ export default function MarketingZaStomatologePage() {
         </div>
       </section>
 
+      {/* Cross-links */}
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[760px] mx-auto">
+          <h2 className="text-[20px] font-medium text-ink mb-5 text-center">Radimo i sa drugim industrijama</h2>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+            <Link to="/marketing-za-restorane" className="bg-panel rounded-[14px] border border-edge p-4 hover:border-ink-4 transition-colors text-center">
+              <span className="text-[20px] block mb-1">🍽️</span>
+              <span className="text-[14px] font-medium text-ink">Restorani</span>
+            </Link>
+            <Link to="/marketing-za-advokate" className="bg-panel rounded-[14px] border border-edge p-4 hover:border-ink-4 transition-colors text-center">
+              <span className="text-[20px] block mb-1">⚖️</span>
+              <span className="text-[14px] font-medium text-ink">Advokati</span>
+            </Link>
+            <Link to="/industrije/lokalni-biznisi" className="bg-panel rounded-[14px] border border-edge p-4 hover:border-ink-4 transition-colors text-center">
+              <span className="text-[20px] block mb-1">🏪</span>
+              <span className="text-[14px] font-medium text-ink">Lokalni biznisi</span>
+            </Link>
+          </div>
+          <div className="mt-4 flex flex-wrap justify-center gap-3 text-[13px]">
+            <Link to="/cene-digitalnog-marketinga" className="text-ink-3 hover:text-ink transition-colors">Cene marketinga →</Link>
+            <Link to="/fiksna-naknada-vs-revenue-share" className="text-ink-3 hover:text-ink transition-colors">Revenue share model →</Link>
+            <Link to="/seo-optimizacija-cena" className="text-ink-3 hover:text-ink transition-colors">Cene SEO optimizacije →</Link>
+          </div>
+        </div>
+      </section>
+
       {/* FAQ */}
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[760px] mx-auto">
