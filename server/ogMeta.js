@@ -122,6 +122,10 @@ const ogMeta = {
     title: 'Marketing Agencija Novi Sad | Digitalni Marketing | Platinum Zenith',
     description: 'Marketing agencija za firme u Novom Sadu. Izrada sajtova, SEO, Google Ads, društvene mreže. Besplatna procena i merljivi rezultati.',
   },
+  '/web-shop-nema-prodaju': {
+    title: 'Web Shop Nema Prodaju? 5 Razloga i Rešenja | Platinum Zenith',
+    description: 'Vaš web shop ne prodaje? 5 razloga zašto i konkretna rešenja za svaki. Besplatna dijagnostika.',
+  },
   '/koliko-kosta-facebook-reklama': {
     title: 'Koliko Košta Facebook Reklama u Srbiji 2026 | Platinum Zenith',
     description: 'Realne cene Facebook i Instagram oglasa u Srbiji za 2026. CPC od 0,05€, mesečni budžet od 200€. Vodič kroz troškove i česte greške.',

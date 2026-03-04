@@ -51,8 +51,8 @@
 | 6 | /koliko-kosta-facebook-reklama | ✅ DONE | pending | ⬜ Čeka |
 | 7 | /marketing-agencija-beograd | ✅ DONE | ae5b6a7 | ⬜ Čeka |
 | 8 | /marketing-agencija-novi-sad | ✅ DONE | pending | ⬜ Čeka |
-| 9 | /facebook-oglasi-ne-rade | ⬜ TODO | — | — |
-| 10 | /web-shop-nema-prodaju | ⬜ TODO | — | — |
+| 9 | /facebook-oglasi-ne-rade | ✅ DONE | a176b42 | ⬜ Čeka |
+| 10 | /web-shop-nema-prodaju | ✅ DONE | pending | ⬜ Čeka |
 | 11 | /fiksna-naknada-vs-revenue-share | ⬜ TODO | — | — |
 | 12 | /in-house-tim-vs-agencija | ⬜ TODO | — | — |
 | 13 | /marketing-za-restorane | ⬜ TODO | — | — |
