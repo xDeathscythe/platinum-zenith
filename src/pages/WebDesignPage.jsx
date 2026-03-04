@@ -23,7 +23,6 @@ const portfolio = [
   { img: `${B}portfolio-lilium.webp`, name: 'DentElevate', type: 'Stomatologija', result: '+260% rezervacija' },
   { img: `${B}niwa-hero.webp`, name: 'Niwa AI', type: 'SaaS Platform', result: '+195% sign-ups' },
   { img: `${B}portfolio-04.webp`, name: 'Krovmont', type: 'Krovovi i izolacija', result: '+150% upita' },
-  { img: `${B}portfolio-09.webp`, name: 'Veda Stolarija', type: 'PVC Stolarija', result: '3x više upita' },
 ]
 
 /* ─── Browser Mockup ─── */
