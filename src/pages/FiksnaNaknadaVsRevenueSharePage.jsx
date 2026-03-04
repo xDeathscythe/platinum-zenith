@@ -231,13 +231,17 @@ export default function FiksnaNaknadaVsRevenueSharePage() {
             <div>
               <h3 className="text-[15px] font-medium text-ink mb-2">Poređenje troškova:</h3>
               <div className="space-y-2 text-[14px]">
-                <div className="flex justify-between"><span className="text-ink-2">Fiksna naknada:</span><span className="text-ink font-medium">2.000€/mesec</span></div>
-                <div className="flex justify-between"><span className="text-ink-2">Revenue share (15%):</span><span className="text-ink font-medium">1.950€/mesec</span></div>
+                <div className="flex justify-between"><span className="text-ink-2">Fiksna naknada (svaki mesec isto):</span><span className="text-ink font-medium">2.000€/mes</span></div>
                 <div className="border-t border-edge pt-2 mt-2">
-                  <div className="flex justify-between"><span className="text-ink-2">Fiksna za 3 meseca:</span><span className="text-ink font-medium">6.000€</span></div>
-                  <div className="flex justify-between"><span className="text-ink-2">Revenue share za 3 meseca:</span><span className="text-ink font-medium">~3.500€*</span></div>
+                  <div className="text-[12px] text-ink-3 mb-2">Revenue share (15%) po mesecima:</div>
+                  <div className="flex justify-between"><span className="text-ink-2">Mesec 1 (generisano ~3.000€):</span><span className="text-ink font-medium">450€</span></div>
+                  <div className="flex justify-between"><span className="text-ink-2">Mesec 2 (generisano ~8.000€):</span><span className="text-ink font-medium">1.200€</span></div>
+                  <div className="flex justify-between"><span className="text-ink-2">Mesec 3 (generisano 13.000€):</span><span className="text-ink font-medium">1.950€</span></div>
                 </div>
-                <p className="text-[12px] text-ink-3 mt-2">*Revenue share raste sa prometom, ali u prvim mesecima (dok promet raste) plaćate znatno manje.</p>
+                <div className="border-t border-edge pt-2 mt-2">
+                  <div className="flex justify-between font-medium"><span className="text-ink-2">Fiksna ukupno (3 meseca):</span><span className="text-ink">6.000€</span></div>
+                  <div className="flex justify-between font-medium"><span className="text-ink-2">Revenue share ukupno (3 meseca):</span><span className="text-indigo-400">3.600€</span></div>
+                </div>
               </div>
             </div>
           </div>
@@ -262,6 +266,27 @@ export default function FiksnaNaknadaVsRevenueSharePage() {
         </div>
       </section>
 
+      {/* Internal links */}
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[760px] mx-auto">
+          <h2 className="text-[22px] font-medium text-ink mb-6 text-center">Povezane stranice</h2>
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+            <Link to="/cene-digitalnog-marketinga" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Cene digitalnog marketinga</div>
+              <div className="text-[12px] text-ink-3">Mesečni paketi i cene po usluzi</div>
+            </Link>
+            <Link to="/agencija-vs-freelancer" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Agencija vs freelancer</div>
+              <div className="text-[12px] text-ink-3">Kako da izaberete izvođača</div>
+            </Link>
+            <Link to="/paketi" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Naši paketi</div>
+              <div className="text-[12px] text-ink-3">Starter, Growth, Enterprise</div>
+            </Link>
+          </div>
+        </div>
+      </section>
+
       {/* Bottom CTA */}
       <section className="px-4 md:px-8 pb-20 md:pb-32">
         <div className="max-w-[600px] mx-auto text-center">
@@ -274,26 +299,15 @@ export default function FiksnaNaknadaVsRevenueSharePage() {
         </div>
       </section>
 
-      {/* JSON-LD */}
+      {/* JSON-LD FAQPage — BreadcrumbList handled by usePageMeta */}
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org",
-        "@graph": [{
-          "@type": "Article",
-          "headline": "Fiksna naknada ili revenue share: koji model naplate je bolji za vaš biznis",
-          "author": { "@type": "Person", "name": "Aleksandar Nenadović" },
-          "publisher": { "@type": "Organization", "name": "Platinum Zenith" },
-          "datePublished": "2026-03-04",
-          "url": "https://platinumzenith.com/fiksna-naknada-vs-revenue-share"
-        }, {
-          "@type": "FAQPage",
-          "mainEntity": faqs.map(f => ({ "@type": "Question", "name": f.q, "acceptedAnswer": { "@type": "Answer", "text": f.a } }))
-        }, {
-          "@type": "BreadcrumbList",
-          "itemListElement": [
-            { "@type": "ListItem", "position": 1, "name": "Početna", "item": "https://platinumzenith.com/" },
-            { "@type": "ListItem", "position": 2, "name": "Fiksna naknada vs Revenue share", "item": "https://platinumzenith.com/fiksna-naknada-vs-revenue-share" }
-          ]
-        }]
+        "@type": "FAQPage",
+        "mainEntity": faqs.map(f => ({
+          "@type": "Question",
+          "name": f.q,
+          "acceptedAnswer": { "@type": "Answer", "text": f.a }
+        }))
       })}} />
     </div>
   )
