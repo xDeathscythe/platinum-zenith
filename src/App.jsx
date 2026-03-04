@@ -46,6 +46,7 @@ const FacebookOglasiNeRadePage = lazy(() => import('./pages/FacebookOglasiNeRade
 const FiksnaNaknadaVsRevenueSharePage = lazy(() => import('./pages/FiksnaNaknadaVsRevenueSharePage'))
 const InHouseVsAgencijaPage = lazy(() => import('./pages/InHouseVsAgencijaPage'))
 const MarketingZaRestoranePage = lazy(() => import('./pages/MarketingZaRestoranePage'))
+const MarketingZaStomatologePage = lazy(() => import('./pages/MarketingZaStomatologePage'))
 
 // Admin pages
 const LoginPage = lazy(() => import('./pages/admin/LoginPage'))
@@ -137,6 +138,7 @@ function PublicLayout() {
             <Route path="/fiksna-naknada-vs-revenue-share" element={<FiksnaNaknadaVsRevenueSharePage />} />
             <Route path="/in-house-tim-vs-agencija" element={<InHouseVsAgencijaPage />} />
             <Route path="/marketing-za-restorane" element={<MarketingZaRestoranePage />} />
+            <Route path="/marketing-za-stomatologe" element={<MarketingZaStomatologePage />} />
             <Route path="*" element={<NotFoundPage />} />
           </Routes>
         </Suspense>
