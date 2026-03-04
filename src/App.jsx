@@ -41,6 +41,7 @@ const KolikoKostaFacebookReklamaPage = lazy(() => import('./pages/KolikoKostaFac
 const MarketingAgencijaZrenjaninPage = lazy(() => import('./pages/MarketingAgencijaZrenjaninPage'))
 const SeoOptimizacijaCenaPage = lazy(() => import('./pages/SeoOptimizacijaCenaPage'))
 const MarketingAgencijaBgPage = lazy(() => import('./pages/MarketingAgencijaBgPage'))
+const FacebookOglasiNeRadePage = lazy(() => import('./pages/FacebookOglasiNeRadePage'))
 
 // Admin pages
 const LoginPage = lazy(() => import('./pages/admin/LoginPage'))
@@ -127,6 +128,7 @@ function PublicLayout() {
             <Route path="/marketing-agencija-zrenjanin" element={<MarketingAgencijaZrenjaninPage />} />
             <Route path="/seo-optimizacija-cena" element={<SeoOptimizacijaCenaPage />} />
             <Route path="/marketing-agencija-beograd" element={<MarketingAgencijaBgPage />} />
+            <Route path="/facebook-oglasi-ne-rade" element={<FacebookOglasiNeRadePage />} />
             <Route path="*" element={<NotFoundPage />} />
           </Routes>
         </Suspense>
