@@ -30,5 +30,8 @@
   # HTML — no cache
   <FilesMatch "\.html$">
     Header set Cache-Control "no-cache, no-store, must-revalidate"
+    Header set Pragma "no-cache"
+    Header set Expires "0"
+    Header set Surrogate-Control "no-store"
   </FilesMatch>
 </IfModule>

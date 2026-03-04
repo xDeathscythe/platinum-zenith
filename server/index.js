@@ -117,6 +117,10 @@ app.use((req, res) => {
   }
   const html = injectOgMeta(indexHtmlTemplate, req.path)
   res.setHeader('Content-Type', 'text/html; charset=UTF-8')
+  res.setHeader('Cache-Control', 'no-cache, no-store, must-revalidate')
+  res.setHeader('Pragma', 'no-cache')
+  res.setHeader('Expires', '0')
+  res.setHeader('Surrogate-Control', 'no-store')
   res.send(html)
 })
 
