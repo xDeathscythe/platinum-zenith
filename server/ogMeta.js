@@ -130,6 +130,10 @@ const ogMeta = {
     title: 'Koliko Košta Facebook Reklama u Srbiji 2026 | Platinum Zenith',
     description: 'Realne cene Facebook i Instagram oglasa u Srbiji za 2026. CPC od 0,05€, mesečni budžet od 200€. Vodič kroz troškove i česte greške.',
   },
+  '/marketing-za-advokate': {
+    title: 'Marketing za Advokate | Digitalni Marketing za Advokatske Kancelarije | Platinum Zenith',
+    description: 'Marketing za advokatske kancelarije. SEO, Google Ads, sajt i content marketing. 10-20 kvalifikovanih upita mesečno.',
+  },
   '/marketing-za-stomatologe': {
     title: 'Marketing za Stomatologe | Digitalni Marketing za Ordinacije | Platinum Zenith',
     description: 'Specijalizovani marketing za stomatološke ordinacije. Google Ads, lokalni SEO, sajt. 15-25 novih pacijenata mesečno.',

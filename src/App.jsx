@@ -47,6 +47,7 @@ const FiksnaNaknadaVsRevenueSharePage = lazy(() => import('./pages/FiksnaNaknada
 const InHouseVsAgencijaPage = lazy(() => import('./pages/InHouseVsAgencijaPage'))
 const MarketingZaRestoranePage = lazy(() => import('./pages/MarketingZaRestoranePage'))
 const MarketingZaStomatologePage = lazy(() => import('./pages/MarketingZaStomatologePage'))
+const MarketingZaAdvokatePage = lazy(() => import('./pages/MarketingZaAdvokatePage'))
 
 // Admin pages
 const LoginPage = lazy(() => import('./pages/admin/LoginPage'))
@@ -139,6 +140,7 @@ function PublicLayout() {
             <Route path="/in-house-tim-vs-agencija" element={<InHouseVsAgencijaPage />} />
             <Route path="/marketing-za-restorane" element={<MarketingZaRestoranePage />} />
             <Route path="/marketing-za-stomatologe" element={<MarketingZaStomatologePage />} />
+            <Route path="/marketing-za-advokate" element={<MarketingZaAdvokatePage />} />
             <Route path="*" element={<NotFoundPage />} />
           </Routes>
         </Suspense>

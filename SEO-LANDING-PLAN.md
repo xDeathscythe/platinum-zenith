@@ -53,8 +53,8 @@
 | 8 | /marketing-agencija-novi-sad | ✅ DONE | pending | ⬜ Čeka |
 | 9 | /facebook-oglasi-ne-rade | ✅ DONE | a176b42 | ⬜ Čeka |
 | 10 | /web-shop-nema-prodaju | ✅ DONE | pending | ⬜ Čeka |
-| 11 | /fiksna-naknada-vs-revenue-share | ⬜ TODO | — | — |
-| 12 | /in-house-tim-vs-agencija | ⬜ TODO | — | — |
-| 13 | /marketing-za-restorane | ⬜ TODO | — | — |
-| 14 | /marketing-za-stomatologe | ⬜ TODO | — | — |
+| 11 | /fiksna-naknada-vs-revenue-share | ✅ DONE | abc03f7 | ⬜ Čeka |
+| 12 | /in-house-tim-vs-agencija | ✅ DONE | 15486e7 | ⬜ Čeka |
+| 13 | /marketing-za-restorane | ✅ DONE | 6619deb | ⬜ Čeka |
+| 14 | /marketing-za-stomatologe | ✅ DONE | 9231dbe | ⬜ Čeka |
 | 15 | /marketing-za-advokate | ⬜ TODO | — | — |
