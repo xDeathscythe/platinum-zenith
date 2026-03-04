@@ -43,8 +43,8 @@
 ## Status tracking
 | # | Stranica | Status | Commit | Aco review |
 |---|----------|--------|--------|------------|
-| 1 | /cene-izrade-sajta | ⬜ TODO | — | — |
-| 2 | /agencija-vs-freelancer | ⬜ TODO | — | — |
+| 1 | /cene-izrade-sajta | ✅ DONE | e2e50fa | ⬜ Čeka |
+| 2 | /agencija-vs-freelancer | ✅ DONE | pending | ⬜ Čeka |
 | 3 | /marketing-agencija-zrenjanin | ⬜ TODO | — | — |
 | 4 | /cene-digitalnog-marketinga | ⬜ TODO | — | — |
 | 5 | /seo-optimizacija-cena | ⬜ TODO | — | — |

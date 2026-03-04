@@ -98,6 +98,10 @@ const ogMeta = {
     title: 'Koliko Košta Izrada Sajta u Srbiji 2026 | Platinum Zenith',
     description: 'Realne cene izrade sajta u Srbiji za 2026. Prezentacioni sajt od 300€, poslovni od 800€, web shop od 1.500€. Vodič kroz cene bez skrivenih troškova.',
   },
+  '/agencija-vs-freelancer': {
+    title: 'Agencija ili Freelancer? Uporedni Vodič za 2026 | Platinum Zenith',
+    description: 'Agencija vs freelancer: realno poređenje po ceni, kvalitetu, rokovima i pouzdanosti. Konkretni saveti za firme u Srbiji.',
+  },
   '/alati/roi-kalkulator': {
     title: 'ROI Kalkulator za Marketing | Besplatan Alat | Platinum Zenith',
     description: 'Izračunajte povrat investicije za vaš marketing budžet. Besplatan ROI kalkulator sa benchmarkovima po industriji.',
