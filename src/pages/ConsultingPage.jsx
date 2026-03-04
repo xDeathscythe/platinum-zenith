@@ -376,14 +376,12 @@ export default function ConsultingPage() {
           {/* Featured seminar */}
           <Reveal className="mb-6">
             <div className="relative bg-tint rounded-[16px] border border-edge-2 overflow-hidden">
-              <div className="absolute top-4 right-4 bg-black text-white text-[11px] font-bold uppercase tracking-wider px-3 py-1.5 rounded-full z-10">
-                🔥 Sledeći: 27. mart 2026
-              </div>
               <div className="p-7 md:p-9">
                 <div className="flex items-center gap-2 mb-3 flex-wrap">
                   <span className="text-[11px] bg-amber-500/10 text-amber-600 px-2.5 py-1 rounded-full font-medium">Uživo · Zlatibor</span>
                   <span className="text-[11px] bg-tint-2 text-ink-2 px-2.5 py-1 rounded-full font-medium">3 dana</span>
                   <span className="text-[11px] bg-tint-2 text-ink-2 px-2.5 py-1 rounded-full font-medium">Svakih 2 meseca</span>
+                  <span className="bg-black text-white text-[11px] font-bold uppercase tracking-wider px-3 py-1.5 rounded-full">🔥 Sledeći: 27. mart 2026</span>
                 </div>
                 <h3 className="text-[22px] md:text-[28px] font-medium text-ink mb-3 leading-tight">
                   Trodnevni seminar: Napredni AI alati i primena u poslovanju i marketingu
