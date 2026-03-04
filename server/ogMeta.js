@@ -94,6 +94,10 @@ const ogMeta = {
     title: 'Paketi i Cene | Starter, Growth, Enterprise | Platinum Zenith',
     description: 'Izaberite paket koji odgovara vašim potrebama. Starter od €499, Growth od €1.499 ili custom Enterprise rešenje za vaš biznis.',
   },
+  '/seo-optimizacija-cena': {
+    title: 'Koliko Košta SEO Optimizacija u Srbiji 2026 | Platinum Zenith',
+    description: 'Realne cene SEO optimizacije. Osnovni od 300€, napredni od 500€, premium od 1.200€ mesečno. Besplatan audit sajta.',
+  },
   '/marketing-agencija-zrenjanin': {
     title: 'Marketing Agencija Zrenjanin | Platinum Zenith',
     description: 'Digitalni marketing u Zrenjaninu. Izrada sajtova, SEO, Google Ads, društvene mreže. Lokalna agencija koja donosi rezultate.',

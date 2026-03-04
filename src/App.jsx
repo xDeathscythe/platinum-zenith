@@ -36,6 +36,7 @@ const ROICalculatorPage = lazy(() => import('./pages/ROICalculatorPage'))
 const CeneIzradeSajtaPage = lazy(() => import('./pages/CeneIzradeSajtaPage'))
 const AgencijaVsFreelancerPage = lazy(() => import('./pages/AgencijaVsFreelancerPage'))
 const MarketingAgencijaZrenjaninPage = lazy(() => import('./pages/MarketingAgencijaZrenjaninPage'))
+const SeoOptimizacijaCenaPage = lazy(() => import('./pages/SeoOptimizacijaCenaPage'))
 
 // Admin pages
 const LoginPage = lazy(() => import('./pages/admin/LoginPage'))
@@ -117,6 +118,7 @@ function PublicLayout() {
             <Route path="/cene-izrade-sajta" element={<CeneIzradeSajtaPage />} />
             <Route path="/agencija-vs-freelancer" element={<AgencijaVsFreelancerPage />} />
             <Route path="/marketing-agencija-zrenjanin" element={<MarketingAgencijaZrenjaninPage />} />
+            <Route path="/seo-optimizacija-cena" element={<SeoOptimizacijaCenaPage />} />
             <Route path="*" element={<NotFoundPage />} />
           </Routes>
         </Suspense>
