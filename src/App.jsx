@@ -35,6 +35,7 @@ const StartupsPage = lazy(() => import('./pages/industries/StartupsPage'))
 const ROICalculatorPage = lazy(() => import('./pages/ROICalculatorPage'))
 const CeneIzradeSajtaPage = lazy(() => import('./pages/CeneIzradeSajtaPage'))
 const AgencijaVsFreelancerPage = lazy(() => import('./pages/AgencijaVsFreelancerPage'))
+const CeneDigitalnogMarketingaPage = lazy(() => import('./pages/CeneDigitalnogMarketingaPage'))
 const MarketingAgencijaZrenjaninPage = lazy(() => import('./pages/MarketingAgencijaZrenjaninPage'))
 const SeoOptimizacijaCenaPage = lazy(() => import('./pages/SeoOptimizacijaCenaPage'))
 
@@ -117,6 +118,7 @@ function PublicLayout() {
             <Route path="/alati/roi-kalkulator" element={<ROICalculatorPage />} />
             <Route path="/cene-izrade-sajta" element={<CeneIzradeSajtaPage />} />
             <Route path="/agencija-vs-freelancer" element={<AgencijaVsFreelancerPage />} />
+            <Route path="/cene-digitalnog-marketinga" element={<CeneDigitalnogMarketingaPage />} />
             <Route path="/marketing-agencija-zrenjanin" element={<MarketingAgencijaZrenjaninPage />} />
             <Route path="/seo-optimizacija-cena" element={<SeoOptimizacijaCenaPage />} />
             <Route path="*" element={<NotFoundPage />} />

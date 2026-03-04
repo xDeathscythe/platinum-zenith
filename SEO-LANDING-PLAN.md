@@ -45,9 +45,9 @@
 |---|----------|--------|--------|------------|
 | 1 | /cene-izrade-sajta | ✅ DONE | e2e50fa | ⬜ Čeka |
 | 2 | /agencija-vs-freelancer | ✅ DONE | pending | ⬜ Čeka |
-| 3 | /marketing-agencija-zrenjanin | ⬜ TODO | — | — |
-| 4 | /cene-digitalnog-marketinga | ⬜ TODO | — | — |
-| 5 | /seo-optimizacija-cena | ⬜ TODO | — | — |
+| 3 | /marketing-agencija-zrenjanin | ✅ DONE | 596fae9 | ⬜ Čeka |
+| 4 | /cene-digitalnog-marketinga | ✅ DONE | pending | ⬜ Čeka |
+| 5 | /seo-optimizacija-cena | ✅ DONE | 0d6b01c | ⬜ Čeka |
 | 6 | /koliko-kosta-facebook-reklama | ⬜ TODO | — | — |
 | 7 | /marketing-agencija-beograd | ⬜ TODO | — | — |
 | 8 | /marketing-agencija-novi-sad | ⬜ TODO | — | — |
