@@ -57,4 +57,4 @@
 | 12 | /in-house-tim-vs-agencija | ✅ DONE | 15486e7 | ⬜ Čeka |
 | 13 | /marketing-za-restorane | ✅ DONE | 6619deb | ⬜ Čeka |
 | 14 | /marketing-za-stomatologe | ✅ DONE | 9231dbe | ⬜ Čeka |
-| 15 | /marketing-za-advokate | ⬜ TODO | — | — |
+| 15 | /marketing-za-advokate | ✅ DONE | ac6f8bc | ⬜ Čeka |
