@@ -20,9 +20,9 @@ const heroHomeLight = `${B}hero-home-light.webp`
 const portfolio = [
   { img: `${B}portfolio-02.webp`, name: 'Platinum Tartufi', type: 'E-Commerce', result: '+180% prodaje' },
   { img: `${B}portfolio-grubin.webp`, name: 'Grubin Showroom', type: 'WooCommerce', result: '+220% saobraćaja' },
-  { img: `${B}portfolio-lilium.webp`, name: 'Lilium', type: 'Kozmetički salon', result: '+260% rezervacija' },
+  { img: `${B}portfolio-lilium.webp`, name: 'DentElevate', type: 'Stomatologija', result: '+260% rezervacija' },
   { img: `${B}niwa-hero.webp`, name: 'Niwa AI', type: 'SaaS Platform', result: '+195% sign-ups' },
-  { img: `${B}portfolio-04.webp`, name: 'MERME Salon', type: 'Frizerski salon', result: '+150% rezervacija' },
+  { img: `${B}portfolio-04.webp`, name: 'Krovmont', type: 'Krovovi i izolacija', result: '+150% upita' },
   { img: `${B}portfolio-09.webp`, name: 'Veda Stolarija', type: 'PVC Stolarija', result: '3x više upita' },
 ]
 
@@ -125,7 +125,7 @@ export default function WebDesignPage() {
           {/* Hero showcase — featured project in browser frame */}
           <div className="hero-enter hero-enter-d4 mt-10 md:mt-16">
             <div className="max-w-[900px] mx-auto">
-              <BrowserFrame src={`${B}portfolio-01.webp`} name="focusfizikal.rs" type="Fitness" result="nov sajt" />
+              <BrowserFrame src={`${B}portfolio-01.webp`} name="Focus Fizikal" type="Fizikalna terapija" result="95+ PageSpeed" />
             </div>
           </div>
         </div>
