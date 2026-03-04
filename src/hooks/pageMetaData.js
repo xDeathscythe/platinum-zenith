@@ -77,7 +77,8 @@ export const pageSchemas = {
   '/politika-privatnosti': { "@context": "https://schema.org", "@type": "WebPage", "name": "Politika privatnosti", "url": `${SITE_URL}/politika-privatnosti`, "inLanguage": "sr-RS", "isPartOf": { "@type": "WebSite", "name": "Platinum Zenith", "url": SITE_URL } },
   '/uslovi-kupovine': { "@context": "https://schema.org", "@type": "WebPage", "name": "Uslovi kupovine", "url": `${SITE_URL}/uslovi-kupovine`, "inLanguage": "sr-RS", "isPartOf": { "@type": "WebSite", "name": "Platinum Zenith", "url": SITE_URL } },
   '/nacin-placanja': { "@context": "https://schema.org", "@type": "WebPage", "name": "Način plaćanja", "url": `${SITE_URL}/nacin-placanja`, "inLanguage": "sr-RS", "isPartOf": { "@type": "WebSite", "name": "Platinum Zenith", "url": SITE_URL } },
-  '/dostava': { "@context": "https://schema.org", "@type": "WebPage", "name": "Dostava", "url": `${SITE_URL}/dostava`, "inLanguage": "sr-RS", "isPartOf": { "@type": "WebSite", "name": "Platinum Zenith", "url": SITE_URL } }
+  '/dostava': { "@context": "https://schema.org", "@type": "WebPage", "name": "Dostava", "url": `${SITE_URL}/dostava`, "inLanguage": "sr-RS", "isPartOf": { "@type": "WebSite", "name": "Platinum Zenith", "url": SITE_URL } },
+  '/alati/roi-kalkulator': { "@context": "https://schema.org", "@type": "SoftwareApplication", "name": "ROI Kalkulator za Marketing", "applicationCategory": "BusinessApplication", "operatingSystem": "Web", "offers": { "@type": "Offer", "price": "0", "priceCurrency": "EUR" }, "description": "Besplatan interaktivni kalkulator za izračunavanje povrata investicije u marketing.", "url": `${SITE_URL}/alati/roi-kalkulator`, "provider": { "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL } }
 }
 
 export function setJsonLd(id, data) {
