@@ -297,6 +297,17 @@ export default function BlogPostPage() {
     articleSection: post.category,
     wordCount: post.content ? post.content.split(/\s+/).length : undefined,
     inLanguage: 'sr',
+    image: post.image ? `https://platinumzenith.com${post.image}` : 'https://platinumzenith.com/og-image.jpg',
+  }
+
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Početna', item: 'https://platinumzenith.com/' },
+      { '@type': 'ListItem', position: 2, name: 'Blog', item: 'https://platinumzenith.com/blog' },
+      { '@type': 'ListItem', position: 3, name: post.title, item: `https://platinumzenith.com/blog/${post.slug}` },
+    ],
   }
 
   return (
@@ -304,6 +315,10 @@ export default function BlogPostPage() {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
       <ReadingProgress />
 
