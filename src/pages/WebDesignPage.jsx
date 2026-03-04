@@ -124,7 +124,7 @@ export default function WebDesignPage() {
           {/* Hero showcase — featured project in browser frame */}
           <div className="hero-enter hero-enter-d4 mt-10 md:mt-16">
             <div className="max-w-[900px] mx-auto">
-              <BrowserFrame src={`${B}portfolio-01.webp`} name="Focus Fizikal" type="Fizikalna terapija" result="95+ PageSpeed" />
+              <BrowserFrame src={`${B}niwa-hero.webp`} name="niwachat.ai" type="SaaS Platform" result="+195% sign-ups" />
             </div>
           </div>
         </div>
