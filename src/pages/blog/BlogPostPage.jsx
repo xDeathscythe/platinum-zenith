@@ -300,25 +300,14 @@ export default function BlogPostPage() {
     image: post.image ? `https://platinumzenith.com${post.image}` : 'https://platinumzenith.com/og-image.jpg',
   }
 
-  const breadcrumbSchema = {
-    '@context': 'https://schema.org',
-    '@type': 'BreadcrumbList',
-    itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'Početna', item: 'https://platinumzenith.com/' },
-      { '@type': 'ListItem', position: 2, name: 'Blog', item: 'https://platinumzenith.com/blog' },
-      { '@type': 'ListItem', position: 3, name: post.title, item: `https://platinumzenith.com/blog/${post.slug}` },
-    ],
-  }
+  /* Breadcrumb schema is emitted by usePageMeta.js (ld-breadcrumb) — no duplicate here */
 
   return (
     <article className="blog-article">
       <script
+        id="ld-article"
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
       <ReadingProgress />
 
