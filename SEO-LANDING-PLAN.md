@@ -48,8 +48,8 @@
 | 3 | /marketing-agencija-zrenjanin | ✅ DONE | 596fae9 | ⬜ Čeka |
 | 4 | /cene-digitalnog-marketinga | ✅ DONE | pending | ⬜ Čeka |
 | 5 | /seo-optimizacija-cena | ✅ DONE | 0d6b01c | ⬜ Čeka |
-| 6 | /koliko-kosta-facebook-reklama | ⬜ TODO | — | — |
-| 7 | /marketing-agencija-beograd | ⬜ TODO | — | — |
+| 6 | /koliko-kosta-facebook-reklama | ✅ DONE | pending | ⬜ Čeka |
+| 7 | /marketing-agencija-beograd | ✅ DONE | ae5b6a7 | ⬜ Čeka |
 | 8 | /marketing-agencija-novi-sad | ⬜ TODO | — | — |
 | 9 | /facebook-oglasi-ne-rade | ⬜ TODO | — | — |
 | 10 | /web-shop-nema-prodaju | ⬜ TODO | — | — |

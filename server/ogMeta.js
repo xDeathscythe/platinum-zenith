@@ -118,6 +118,10 @@ const ogMeta = {
     title: 'Koliko Košta Digitalni Marketing u Srbiji 2026 | Platinum Zenith',
     description: 'Realne cene digitalnog marketinga u Srbiji za 2026. Mesečni paketi od 300€, SEO od 200€, Google Ads od 200€. Vodič kroz troškove po usluzi.',
   },
+  '/koliko-kosta-facebook-reklama': {
+    title: 'Koliko Košta Facebook Reklama u Srbiji 2026 | Platinum Zenith',
+    description: 'Realne cene Facebook i Instagram oglasa u Srbiji za 2026. CPC od 0,05€, mesečni budžet od 200€. Vodič kroz troškove i česte greške.',
+  },
   '/alati/roi-kalkulator': {
     title: 'ROI Kalkulator za Marketing | Besplatan Alat | Platinum Zenith',
     description: 'Izračunajte povrat investicije za vaš marketing budžet. Besplatan ROI kalkulator sa benchmarkovima po industriji.',
