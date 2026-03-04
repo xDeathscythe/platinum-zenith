@@ -130,6 +130,10 @@ const ogMeta = {
     title: 'Koliko Košta Facebook Reklama u Srbiji 2026 | Platinum Zenith',
     description: 'Realne cene Facebook i Instagram oglasa u Srbiji za 2026. CPC od 0,05€, mesečni budžet od 200€. Vodič kroz troškove i česte greške.',
   },
+  '/fiksna-naknada-vs-revenue-share': {
+    title: 'Fiksna Naknada vs Revenue Share | Koji Model Naplate je Bolji? | Platinum Zenith',
+    description: 'Uporedni vodič: fiksna mesečna naknada ili revenue share model naplate agencije. Prednosti, mane, primeri iz prakse.',
+  },
   '/facebook-oglasi-ne-rade': {
     title: 'Facebook Oglasi Ne Rade? 6 Razloga i Kako Popraviti | Platinum Zenith',
     description: 'Zašto vaši Facebook oglasi ne donose rezultate i šta konkretno da promenite. Dijagnostika najčešćih grešaka sa koracima za popravku.',
