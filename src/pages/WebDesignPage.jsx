@@ -18,9 +18,8 @@ const heroHomeLight = `${B}hero-home-light.webp`
 
 /* ─── Portfolio Items ─── */
 const portfolio = [
-  { img: `${B}portfolio-02.webp`, name: 'Platinum Tartufi', type: 'E-Commerce', result: '+180% prodaje' },
+  { img: `${B}portfolio-lilium.webp`, name: 'Platinum Tartufi', type: 'E-Commerce', result: '+180% prodaje' },
   { img: `${B}portfolio-grubin.webp`, name: 'Grubin Showroom', type: 'WooCommerce', result: '+220% saobraćaja' },
-  { img: `${B}portfolio-lilium.webp`, name: 'DentElevate', type: 'Stomatologija', result: '+260% rezervacija' },
   { img: `${B}niwa-hero.webp`, name: 'Niwa AI', type: 'SaaS Platform', result: '+195% sign-ups' },
   { img: `${B}portfolio-04.webp`, name: 'Krovmont', type: 'Krovovi i izolacija', result: '+150% upita' },
 ]
