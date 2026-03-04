@@ -94,6 +94,10 @@ const ogMeta = {
     title: 'Paketi i Cene | Starter, Growth, Enterprise | Platinum Zenith',
     description: 'Izaberite paket koji odgovara vašim potrebama. Starter od €499, Growth od €1.499 ili custom Enterprise rešenje za vaš biznis.',
   },
+  '/marketing-agencija-zrenjanin': {
+    title: 'Marketing Agencija Zrenjanin | Platinum Zenith',
+    description: 'Digitalni marketing u Zrenjaninu. Izrada sajtova, SEO, Google Ads, društvene mreže. Lokalna agencija koja donosi rezultate.',
+  },
   '/cene-izrade-sajta': {
     title: 'Koliko Košta Izrada Sajta u Srbiji 2026 | Platinum Zenith',
     description: 'Realne cene izrade sajta u Srbiji za 2026. Prezentacioni sajt od 300€, poslovni od 800€, web shop od 1.500€. Vodič kroz cene bez skrivenih troškova.',
