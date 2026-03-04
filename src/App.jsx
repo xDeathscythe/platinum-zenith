@@ -36,8 +36,10 @@ const ROICalculatorPage = lazy(() => import('./pages/ROICalculatorPage'))
 const CeneIzradeSajtaPage = lazy(() => import('./pages/CeneIzradeSajtaPage'))
 const AgencijaVsFreelancerPage = lazy(() => import('./pages/AgencijaVsFreelancerPage'))
 const CeneDigitalnogMarketingaPage = lazy(() => import('./pages/CeneDigitalnogMarketingaPage'))
+const KolikoKostaFacebookReklamaPage = lazy(() => import('./pages/KolikoKostaFacebookReklamaPage'))
 const MarketingAgencijaZrenjaninPage = lazy(() => import('./pages/MarketingAgencijaZrenjaninPage'))
 const SeoOptimizacijaCenaPage = lazy(() => import('./pages/SeoOptimizacijaCenaPage'))
+const MarketingAgencijaBgPage = lazy(() => import('./pages/MarketingAgencijaBgPage'))
 
 // Admin pages
 const LoginPage = lazy(() => import('./pages/admin/LoginPage'))
@@ -119,8 +121,10 @@ function PublicLayout() {
             <Route path="/cene-izrade-sajta" element={<CeneIzradeSajtaPage />} />
             <Route path="/agencija-vs-freelancer" element={<AgencijaVsFreelancerPage />} />
             <Route path="/cene-digitalnog-marketinga" element={<CeneDigitalnogMarketingaPage />} />
+            <Route path="/koliko-kosta-facebook-reklama" element={<KolikoKostaFacebookReklamaPage />} />
             <Route path="/marketing-agencija-zrenjanin" element={<MarketingAgencijaZrenjaninPage />} />
             <Route path="/seo-optimizacija-cena" element={<SeoOptimizacijaCenaPage />} />
+            <Route path="/marketing-agencija-beograd" element={<MarketingAgencijaBgPage />} />
             <Route path="*" element={<NotFoundPage />} />
           </Routes>
         </Suspense>
