@@ -1,72 +1,128 @@
-# Registracija u Srpske Poslovne Direktorijume
+# Directory Registration — Copy-Paste podaci za Aca
 
-## Podaci za Registraciju (copy-paste ready)
+## Podaci za sve registracije
 
-**Naziv firme:** Platinum Zenith (ogranak firme PLATINUM TRUFFLES DOO ZRENJANIN)
-**Delatnost:** Digitalni marketing, web dizajn, SEO optimizacija, poslovno savetovanje
-**Adresa:** Ruže Šulman 19, 23000 Zrenjanin, Srbija
-**Telefon:** +381 66 816 8929
+**Company Name:** Platinum Zenith
+**Website:** https://platinumzenith.com
 **Email:** aleksandar@platinumzenith.com
-**Sajt:** https://platinumzenith.com
-**Radno vreme:** Pon-Pet 09:00-17:00
-**Osnivač:** Aleksandar Nenadović
-**Opis (kratak, 50 reči):** Digitalna agencija koja garantuje rezultate ili odbija honorar. Specijalizovani za digitalni marketing, izradu sajtova, CRO optimizaciju i poslovno savetovanje. Revenue share model. Klijenti: e-commerce, SaaS, lokalni biznisi i startapovi.
-**Opis (dugačak, 150 reči):** Platinum Zenith je digitalna agencija iz Zrenjanina koja radi na jedinstven način — naplaćujemo samo kad klijent zarađuje. Naš tim se specijalizuje za digitalni marketing (Meta Ads, Google Ads, TikTok Ads), izradu web sajtova koji konvertuju posetioce u kupce, CRO optimizaciju koja povećava stopu konverzije, i poslovno savetovanje za firme koje žele da skaliraju. Radimo sa klijentima iz različitih industrija: e-commerce prodavnice, SaaS kompanije, lokalni biznisi i startapovi. Naš Zenith sistem za akviziciju klijenata je testiran i dokazan kroz rad sa preko 15 klijenata. Prosečan ROAS naših kampanja je 15x, a prosečno povećanje konverzija je 340%. Zakažite besplatne konsultacije na platinumzenith.com.
+**Phone:** +381 66 816 8929
+**Address:** Ruže Šulman 19, 23000 Zrenjanin, Serbia
+**Founded:** 2024
+**Company Size:** 2-9 employees
+**Hourly Rate:** $50-99/hr
+**Min. Project Size:** $1,000+
 
-**Kategorije za upis:**
-- Digitalni marketing / Online marketing
-- Web dizajn / Izrada sajtova
-- SEO optimizacija
-- Marketing agencije
-- IT usluge / Internet kompanije
-- Poslovno savetovanje / Consulting
+**Services:**
+- Digital Marketing
+- SEO (Search Engine Optimization)
+- Web Design & Development
+- Social Media Marketing
+- Google Ads / PPC Management
+- Content Marketing
+- CRO (Conversion Rate Optimization)
+- E-Commerce Development
+- Marketing Consulting
 
----
+**Industries Served:**
+- E-Commerce & Retail
+- Healthcare & Dental
+- SaaS & Technology
+- Restaurants & Hospitality
+- Legal Services
+- Local Business
+- Real Estate & Construction
 
-## Direktorijumi — Linkovi za Registraciju
+**Tagline:** Digitalna agencija koja zarađuje kad vi zarađujete. Revenue share model.
 
-### 1. Google Business Profile ⭐ (NAJVAŽNIJI)
-- **URL:** https://business.google.com/
-- **Proces:** Login → Create Business → Unesi podatke → Verifikacija (pošta/telefon)
-- **Status:** ⬜ Aco treba da napravi
-- **Napomena:** Treba Google nalog (alnen96@gmail.com)
+**Description (EN):**
+Platinum Zenith is a digital agency based in Zrenjanin, Serbia, specializing in performance-driven marketing with a unique revenue share model. We build websites that convert, run campaigns that deliver measurable ROI, and optimize every step of the customer journey. Our approach is simple: if we don't generate results, we don't get paid. Services include web design, SEO, Google Ads, Meta Ads, social media management, and CRO optimization. We work with e-commerce brands, SaaS companies, local businesses, healthcare providers, and professional services across Serbia.
 
-### 2. Bing Places
-- **URL:** https://www.bingplaces.com/
-- **Proces:** Login sa Microsoft nalogom → Claim/Create → Verifikacija
-- **Status:** ⬜ Aco treba da napravi
+**Description (SR):**
+Platinum Zenith je digitalna agencija iz Zrenjanina specijalizovana za marketing koji donosi merljive rezultate. Radimo na revenue share modelu — naša zarada zavisi od vaših rezultata. Pravimo sajtove koji konvertuju, vodimo kampanje sa jasnim ROI-jem i optimizujemo svaki korak korisničkog puta. Usluge: izrada sajtova, SEO optimizacija, Google Ads, Meta Ads, društvene mreže, CRO optimizacija. Radimo sa e-commerce brendovima, SaaS firmama, lokalnim biznisima, zdravstvenim ustanovama i profesionalnim uslugama.
 
-### 3. Aladin.info
-- **URL:** https://www.aladin.info/accounts/user.php?reg=no&ref=srbija
-- **Kategorija:** Internet kompanije > Marketing i konsalting
-- **Status:** ⬜ Spreman za registraciju
+**Key Differentiator:** Revenue share pricing model — we earn when you earn.
 
-### 4. Privredni imenik Srbije
-- **URL:** https://www.privredni-imenik.com/
-- **Kategorija:** Marketing / IT usluge
-- **Status:** ⬜ Treba proveriti registraciju
-
-### 5. PlanPlus
-- **URL:** https://planplus.rs/
-- **Proces:** Obeleži lokaciju na mapi + registruj u poslovni katalog
-- **Status:** ⬜ Spreman za registraciju
-
-### 6. Privatnik sam
-- **URL:** https://privatniksam.rs/
-- **Proces:** Besplatan nalog → profil firme
-- **Status:** ⬜ Spreman za registraciju
-
-### 7. Navidiku
-- **URL:** https://navidiku.rs/
-- **Status:** ⬜ Treba proveriti
-
-### 8. 013info (lokalni Zrenjanin)
-- **URL:** https://013info.rs/
-- **Status:** ⬜ Treba proveriti
+**Portfolio/Case Studies:**
+- Grubin Showroom (grubinshowroom.rs) — WooCommerce, +220% traffic
+- Niwa AI (niwachat.ai) — SaaS Platform, +195% sign-ups
+- Krovmont (platinumhomesrbija.com) — Roofing company, +150% inquiries
+- Platinum Tartufi (dentelevate.com) — E-commerce, +180% sales
+- Focus Fizikal — Physical therapy, +340% Google Maps views
 
 ---
 
-## Akcioni Plan
-1. **Aco radi:** Google Business Profile + Bing Places (treba verifikacija)
-2. **Devona priprema:** Sve podatke za copy-paste, slike (logo, cover)
-3. **Zajedno:** Prolazimo kroz svaki direktorijum i registrujemo
+## Registracije — linkovi + instrukcije
+
+### 1. Clutch.co (PRIORITET — najjači backlink)
+- URL: https://clutch.co/developers/signup
+- Besplatan osnovni profil
+- Treba: email, company info, usluge, portfolio
+- BONUS: Zatraži review od Grubin klijenta
+
+### 2. GoodFirms
+- URL: https://www.goodfirms.co/add-company
+- Besplatan listing
+- Treba: company info, usluge, portfolio
+
+### 3. DesignRush
+- URL: https://www.designrush.com/submit-agency
+- Besplatan profil + mogućnost featured listinga
+- Treba: company info, case studies
+
+### 4. TechBehemoths
+- URL: https://techbehemoths.com/register
+- Besplatan profil
+- Treba: basic company info
+
+### 5. Sortlist
+- URL: https://www.sortlist.com/register/agency
+- Besplatan profil, lead gen platforma
+- Treba: company info, budget range
+
+### 6. The Manifest
+- URL: https://themanifest.com/suggest-company
+- Sestra sajt od Clutch, isti login radi
+- Automatski se popunjava nakon Clutch registracije
+
+### 7. UpCity
+- URL: https://upcity.com/experts/join
+- Besplatan profil sa certifikacijom
+
+---
+
+## Srpski direktorijumi
+
+### 8. Privredni Imenik (privredniimenik.rs)
+- Besplatan osnovni listing
+- Daje .rs backlink
+
+### 9. PlanPlus (planplus.rs)
+- Besplatan listing za firme u Srbiji
+
+### 10. CompanyWall (companywall.rs)
+- Automatski listing na osnovu APR podataka
+- Proveriti da li je Platinum Truffles / PZ ogranak već tu
+
+### 11. YellowPages.rs / ZuteStrane
+- Besplatan listing
+
+---
+
+## Google Business Profile (ACO RADI RUČNO)
+
+1. Idi na https://business.google.com
+2. Klikni "Manage now"
+3. Upiši: Platinum Zenith
+4. Kategorija: Marketing agency
+5. Dodaj adresu: Ruže Šulman 19, 23000 Zrenjanin
+6. Telefon: +381 66 816 8929
+7. Website: https://platinumzenith.com
+8. Verifikacija: Google šalje razglednicu na adresu (3-5 dana) ili poziv
+
+**Posle verifikacije dodati:**
+- Logo (pz-logo)
+- Cover photo (screenshot sajta)
+- Sve usluge sa opisima
+- Radno vreme: Pon-Pet 09:00-18:00
+- Opis firme (SR verzija odozgo)
+- Minimum 5 fotografija
