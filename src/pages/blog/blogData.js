@@ -4137,11 +4137,11 @@ Smanjite vreme čekanja i vrednost vaše ponude raste automatski.
 
 Zamislite dva scenarija:
 
-**Scenarijo A:** Agencija vam pošalje spisak od 47 stvari koje treba da uradite, traži 200 fotografija, tekstove za svaku stranicu i pristup 8 različitih naloga.
+**Scenario A:** Agencija vam pošalje spisak od 47 stvari koje treba da uradite, traži 200 fotografija, tekstove za svaku stranicu i pristup 8 različitih naloga.
 
-**Scenarijo B:** Agencija kaže "pošaljite nam logo i pristup hosting nalogu, ostalo ćemo mi."
+**Scenario B:** Agencija kaže "pošaljite nam logo i pristup hosting nalogu, ostalo ćemo mi."
 
-Isti rezultat. Scenarijo B je vredniji jer zahteva manje truda od kupca.
+Isti rezultat. Scenario B je vredniji jer zahteva manje truda od kupca.
 
 "Done for you" usluge su skuplje od "done with you" i to je sasvim opravdano. Manje truda za kupca znači veća percepcija vrednosti.
 
@@ -4244,7 +4244,7 @@ Blog tekstovi, video snimci, postovi na mrežama, podkasti. Informacije koje pri
 
 Pišete o temama koje vaša ciljna grupa pretražuje. Snimate video u kome objašnjavate kako rešiti konkretan problem. Pravite vodič koji ljudi preuzimaju. Vremenom, gradite publiku koja vam veruje.
 
-**Prednosti:** Radi dugoročno. Jedan dobar blog tekst privlači posetioce godinama. Gradi autoritet i poverenje pre nego što kupac uopšte pričate.
+**Prednosti:** Radi dugoročno. Jedan dobar blog tekst privlači posetioce godinama. Gradi autoritet i poverenje pre nego što uopšte pričate sa kupcem.
 
 **Mane:** Sporo. Potrebno je 3-6 meseci konzistentnog rada da vidite rezultate. Zahteva disciplinu i redovnost.
 
@@ -4396,9 +4396,9 @@ Retargeting im ponovo prikazuje vaš oglas. Ali ne isti oglas. Retargeting kampa
 - **Retargeting 1 (posle posete sajtu):** Pokažite social proof (recenzije, rezultati klijenata)
 - **Retargeting 2 (posle 7 dana):** Ponudite nešto konkretno (besplatan audit, vodič, konsultacije)
 
-Svaki korak smanjuje rizik u očima kupca. Prvo ste ga upoznali sa problemom. Onda ste pokazali da drugi vam veruju. Onda ste ponudili nešto besplatno da napravi prvi korak.
+Svaki korak smanjuje rizik u očima kupca. Prvo ste ga upoznali sa problemom. Onda ste pokazali da drugi veruju vama. Onda ste ponudili nešto besplatno da napravi prvi korak.
 
-Firmama koje nemaju retargeting, kažemo isto: bacate 95% svog trafika. Bukvalano.
+Firmama koje nemaju retargeting, kažemo isto: bacate 95% svog trafika. Bukvalno.
 
 ## Koliko treba uložiti da vidite rezultate
 
