@@ -3972,4 +3972,112 @@ Takođe preporučujemo: [Zašto vaš sajt ne prodaje (i šta da promenite danas)
 Želite da napravimo landing stranicu koja zapravo konvertuje vaše posetioce u klijente? [Javite nam se](/kontakt) i pogledaćemo šta možemo da uradimo sa vašim saobraćajem.
 `,
   },
+  {
+    slug: 'kako-povecati-online-prodaju',
+    title: 'Kako povećati prodaju online prodavnice: 10 konkretnih koraka',
+    excerpt: 'Imati web shop i imati web shop koji prodaje su dve potpuno različite stvari. Evo šta zapravo radi na srpskom tržištu u 2026.',
+    date: '2026-03-05',
+    category: 'E-Commerce',
+    readTime: '9 min',
+    content: `
+## Većina online prodavnica u Srbiji ne prodaje dovoljno
+
+Nije problem u proizvodu. Nije ni u ceni. Problem je što većina vlasnika tretira web shop kao digitalnu vitrinu, ubaci proizvode, stavi cene i čeka. A onda se čude kad jedini koji kupuju su prijatelji i rodbina.
+
+Online prodaja u Srbiji raste svake godine, ali rast tržišta ne znači automatski rast vaše prodavnice. Neko taj novac uzima. Pitanje je samo ko.
+
+Evo 10 stvari koje zapravo pomeraju prodaju. Sve testirane na srpskom tržištu, sa realnim brojevima.
+
+## 1. Popravite brzinu sajta pre bilo čega drugog
+
+Svaka sekunda sporije učitavanja smanjuje konverziju za oko 7%. Ako vam sajt učitava 5 sekundi umesto 2, gubite otprilike 20% potencijalnih kupaca. Oni ni ne vide vaše proizvode.
+
+Proverite brzinu na [PageSpeed Insights](https://pagespeed.web.dev/) i ciljajte skor iznad 80 za mobilne uređaje. Najveći problemi su obično prevelike slike (koristite WebP format), previše pluginova i loš hosting.
+
+## 2. Pojednostavite checkout do bola
+
+65% kupaca u Srbiji i dalje preferira pouzeće. Ako vaš checkout traži registraciju, 15 polja za popunjavanje i tri koraka potvrde, izgubili ste ih pre nego što su stigli do dugmeta "Naruči".
+
+Omogućite gostujuću kupovinu. Smanjite polja na minimum: ime, adresa, telefon. Ponudite pouzeće kao prvu opciju, karticu kao drugu. Svako polje koje možete da uklonite vredi 1-3% konverzije.
+
+## 3. Stranice proizvoda su vaši prodavci
+
+Loša stranica proizvoda ubija prodaju. Jedna mala slika, dva reda opisa i dugme "Kupi" nije dovoljno.
+
+Šta radi:
+- **5-8 fotografija** iz različitih uglova, na beloj pozadini i u kontekstu
+- **Video od 15-30 sekundi** koji pokazuje proizvod u upotrebi
+- **Opis koji rešava problem**, ne lista karakteristike. "Drži temperaturu 12 sati" umesto "termos od 500ml"
+- **Recenzije kupaca.** Proizvodi sa barem 5 recenzija konvertuju 270% bolje od onih bez ijedne. Molite kupce za review nakon isporuke.
+
+## 4. Retargeting nije opcija, obavezan je
+
+97% posetilaca neće kupiti iz prvog dolaska. Ali 70% od tih 97% će kupiti u sledećih 30 dana, pod uslovom da ih podsetite da postoji.
+
+Meta retargeting (Facebook + Instagram) za web shopove u Srbiji ima CPC oko 0,03-0,08€. Za budžet od 5-10€ dnevno pratite ljude koji su gledali proizvode i pokazujete im upravo te proizvode ponovo. ROI na retargetingu je obično 5-10x jer ciljate ljude koji su već pokazali nameru.
+
+## 5. Email nije mrtav, vi samo ne šaljete
+
+Email marketing i dalje ima najbolji ROI od svih kanala. 36€ za svaki uloženi 1€, prema proseku u e-commerce-u. U Srbiji ga skoro niko ne koristi kako treba.
+
+Minimum koji vam treba:
+- **Dobrodošlica** (automatski email sa kuponom 10% za prvu kupovinu)
+- **Napuštena korpa** (email 1h nakon napuštanja, pa još jedan posle 24h)
+- **Post-purchase** (zahvalnica + pitanje za recenziju 7 dana nakon isporuke)
+
+Ova tri automatska emaila mogu da podignu prihod za 15-25% bez ikakvog dodatnog truda nakon podešavanja.
+
+## 6. Google Shopping za Srbiju
+
+Google Shopping oglasi prikazuju vaše proizvode sa slikom, cenom i nazivom direktno u Google pretrazi. U Srbiji je konkurencija na Shopping-u i dalje relativno mala, što znači niske CPC-ove.
+
+Treba vam Google Merchant Center nalog i XML feed proizvoda. Većina platformi (WooCommerce, Shopify) ima pluginove koji generišu feed automatski. Počnite sa budžetom od 10-15€ dnevno i pratite ROAS (cilj: minimum 4x).
+
+## 7. Cene u dinarima, bez skrivenih troškova
+
+71% online kupovina u Srbiji je u dinarima. Ako prikazujete cene u evrima, gubite poverenje od starta.
+
+Još bitnije: troškovi dostave moraju biti vidljivi PRE checkoutea. Ništa ne ubija konverziju kao "iznenađenje" od 500 dinara na poslednjem koraku. Razmislite o besplatnoj dostavi iznad određenog iznosa (npr. 3.000 RSD). To dodatno podiže prosečnu vrednost korpe jer ljudi dodaju još jedan proizvod da bi prešli prag.
+
+## 8. Mobilni sajt nije "nice to have"
+
+Preko 70% poseta web shopovima u Srbiji dolazi sa telefona. Ako vaša prodavnica nije savršena na mobilnom, odbijate većinu potencijalnih kupaca.
+
+Testirajte sami: otvorite svoj shop na telefonu i pokušajte da kupite nešto. Ako vam treba više od 60 sekundi od stranice proizvoda do narudžbine, imate problem. Dugmad moraju biti dovoljno velika za palac. Tekst čitljiv bez zumiranja. Filter proizvoda pristupačan jednim dodirom.
+
+## 9. Društvene mreže kao kanal prodaje, ne samo branding
+
+Instagram Shopping i Facebook Shops dozvoljavaju tagovanje proizvoda direktno u postovima. Kupac vidi majicu na slici, tapne, vidi cenu i ide na checkout. Bez lutanja po sajtu.
+
+Kombinujte to sa kratkim video recenzijama (UGC sadržaj). Jedan autentičan video zadovoljnog kupca prodaje više od 10 profesionalnih fotografija. Ponudite popust ili poklon kupcima koji snime kratku recenziju vašeg proizvoda.
+
+## 10. Pratite brojeve, ne osećanja
+
+Ne možete poboljšati ono što ne merite. Minimum metrika koje morate pratiti nedeljno:
+- **Konverzija** (procenat posetilaca koji kupe)
+- **Prosečna vrednost korpe**
+- **Stopa napuštanja korpe**
+- **Trošak po akviziciji** (koliko vas košta jedan novi kupac)
+- **ROAS po kanalu** (koji kanal donosi najviše za uloženo)
+
+Google Analytics je besplatan i dovoljan za početak. Ako nemate ni to podešeno, to je prvi korak pre svega ostalog.
+
+## Šta od svega ovoga da uradite prvo?
+
+Ne pokušavajte svih 10 stvari odjednom. Počnite od onoga što vam trenutno gubi najviše novca:
+1. Ako je checkout komplikovan, pojednostavite ga (korak 2)
+2. Ako nemate retargeting, uključite ga (korak 4)
+3. Ako nemate email automatizacije, podeset ih (korak 5)
+
+Ove tri stvari su najbrže za implementaciju i najbrže vraćaju uloženo.
+
+Pogledajte naš vodič [Web Shop Nema Prodaju? 5 Razloga i Rešenja](/web-shop-nema-prodaju) za detaljniju dijagnostiku ako vaš shop stoji.
+
+Takođe korisno: [Koliko košta Facebook reklama u Srbiji?](/koliko-kosta-facebook-reklama) za konkretne brojeve o plaćenom oglašavanju.
+
+---
+
+Želite da pogledamo vaš web shop i ukažemo na konkretne probleme? [Javite se](/kontakt) za besplatnu dijagnostiku vaše online prodavnice.
+`,
+  },
 ]
