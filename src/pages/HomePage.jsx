@@ -13,9 +13,9 @@ function PromiseBand() {
     <section className="py-20 md:py-28 px-4 md:px-8 bg-panel border-y border-edge-2">
       <div className="max-w-[700px] mx-auto text-center">
         <Reveal>
-          <h2 className="text-[28px] md:text-[44px] font-medium tracking-[-1.5px] text-ink mb-5 leading-[1.15]">
+          <h1 className="text-[28px] md:text-[44px] font-medium tracking-[-1.5px] text-ink mb-5 leading-[1.15]">
             Marketing koji donosi rezultate, ili ne naplaćujemo
-          </h2>
+          </h1>
           <p className="text-[15px] md:text-[16px] text-ink-4 mb-8 max-w-[480px] mx-auto leading-relaxed">
             Svaki projekat počinjemo besplatnom analizom vašeg biznisa. Bez obaveza, bez skrivenih troškova.
           </p>
