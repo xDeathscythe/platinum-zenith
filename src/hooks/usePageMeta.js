@@ -3,7 +3,7 @@
  */
 import { useEffect } from 'react'
 import { useLocation } from 'react-router-dom'
-import { pageMeta, orgSchema, websiteSchema, pageSchemas, setJsonLd, SITE_URL } from './pageMetaData.js'
+import { pageMeta, orgSchema, localBusinessSchema, websiteSchema, pageSchemas, setJsonLd, SITE_URL } from './pageMetaData.js'
 
 function pageNameFromTitle(title) {
   if (!title) return 'Stranica'
@@ -61,6 +61,7 @@ export default function usePageMeta() {
 
     // Base schema
     setJsonLd('ld-org', orgSchema)
+    setJsonLd('ld-local-business', localBusinessSchema)
     if (pathname === '/') setJsonLd('ld-website', websiteSchema)
     else {
       const ws = document.getElementById('ld-website')

@@ -72,6 +72,32 @@ export const orgSchema = {
   "sameAs": []
 }
 
+export const localBusinessSchema = {
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Platinum Zenith",
+  "url": SITE_URL,
+  "image": `${SITE_URL}/og-image.jpg`,
+  "telephone": "+381668168929",
+  "email": "aleksandar@platinumzenith.com",
+  "priceRange": "€€",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ruže Šulman 19",
+    "addressLocality": "Zrenjanin",
+    "postalCode": "23000",
+    "addressCountry": "RS"
+  },
+  "geo": { "@type": "GeoCoordinates", "latitude": 45.3836, "longitude": 20.3819 },
+  "areaServed": { "@type": "Country", "name": "Srbija" },
+  "openingHoursSpecification": [{
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "opens": "09:00",
+    "closes": "18:00"
+  }]
+}
+
 export const websiteSchema = {
   "@context": "https://schema.org", "@type": "WebSite", "name": "Platinum Zenith", "url": SITE_URL,
   "potentialAction": { "@type": "SearchAction", "target": `${SITE_URL}/?s={search_term_string}`, "query-input": "required name=search_term_string" }
@@ -99,6 +125,8 @@ export const pageSchemas = {
   '/industrije/startapovi': { "@context": "https://schema.org", "@type": "Service", "name": "Marketing za Startapove", "provider": { "@type": "Organization", "name": "Platinum Zenith" }, "serviceType": "Startup Marketing", "areaServed": "RS" },
   '/agencija-vs-freelancer': { "@context": "https://schema.org", "@type": "WebPage", "name": "Agencija ili freelancer — uporedni vodič", "url": `${SITE_URL}/agencija-vs-freelancer`, "inLanguage": "sr-RS", "isPartOf": { "@type": "WebSite", "name": "Platinum Zenith", "url": SITE_URL } },
   '/cene-digitalnog-marketinga': { "@context": "https://schema.org", "@type": "WebPage", "name": "Cene digitalnog marketinga u Srbiji 2026", "url": `${SITE_URL}/cene-digitalnog-marketinga`, "inLanguage": "sr-RS", "isPartOf": { "@type": "WebSite", "name": "Platinum Zenith", "url": SITE_URL } },
+  '/marketing-agencija-zrenjanin': { "@context": "https://schema.org", "@type": "ProfessionalService", "name": "Platinum Zenith - Marketing Agencija Zrenjanin", "url": `${SITE_URL}/marketing-agencija-zrenjanin`, "areaServed": { "@type": "City", "name": "Zrenjanin" }, "serviceType": "Digital Marketing" },
+  '/marketing-agencija-beograd': { "@context": "https://schema.org", "@type": "ProfessionalService", "name": "Platinum Zenith - Marketing Agencija Beograd", "url": `${SITE_URL}/marketing-agencija-beograd`, "areaServed": { "@type": "City", "name": "Beograd" }, "serviceType": "Digital Marketing" },
   '/marketing-agencija-novi-sad': { "@context": "https://schema.org", "@type": "ProfessionalService", "name": "Platinum Zenith - Marketing Agencija Novi Sad", "url": `${SITE_URL}/marketing-agencija-novi-sad`, "areaServed": { "@type": "City", "name": "Novi Sad" }, "serviceType": "Digital Marketing" },
   '/web-shop-nema-prodaju': { "@context": "https://schema.org", "@type": "WebPage", "name": "Web shop nema prodaju — 5 razloga i rešenja", "url": `${SITE_URL}/web-shop-nema-prodaju`, "inLanguage": "sr-RS", "isPartOf": { "@type": "WebSite", "name": "Platinum Zenith", "url": SITE_URL } },
   '/koliko-kosta-facebook-reklama': { "@context": "https://schema.org", "@type": "WebPage", "name": "Koliko košta Facebook reklama u Srbiji 2026", "url": `${SITE_URL}/koliko-kosta-facebook-reklama`, "inLanguage": "sr-RS", "isPartOf": { "@type": "WebSite", "name": "Platinum Zenith", "url": SITE_URL } },
