@@ -3,7 +3,21 @@
  * Crawlers (Facebook, Twitter, LinkedIn) don't execute JS,
  * so we inject correct OG tags per route at the server level.
  */
+import { readFileSync } from 'fs'
+import { fileURLToPath } from 'url'
+import { dirname, join } from 'path'
+
+const __filename = fileURLToPath(import.meta.url)
+const __dir = dirname(__filename)
+
 const SITE_URL = 'https://platinumzenith.com'
+
+// Load blog post data for dynamic OG meta on /blog/:slug
+let blogOgPosts = []
+try {
+  const raw = readFileSync(join(__dir, 'blogOgData.json'), 'utf8')
+  blogOgPosts = JSON.parse(raw)
+} catch { /* blogOgData.json not yet generated — blog OG falls back to generic */ }
 
 const ogMeta = {
   '/': {
@@ -168,9 +182,21 @@ const ogMeta = {
 export function injectOgMeta(html, pathname) {
   // Normalize: strip trailing slash (except root)
   const cleanPath = pathname === '/' ? '/' : pathname.replace(/\/+$/, '')
-  const meta = ogMeta[cleanPath]
+  let meta = ogMeta[cleanPath]
   const canonicalUrl = `${SITE_URL}${cleanPath}`
   const ogType = cleanPath.startsWith('/blog/') ? 'article' : 'website'
+
+  // Dynamic blog post OG: lookup from blogOgData.json
+  if (!meta && cleanPath.startsWith('/blog/')) {
+    const slug = cleanPath.replace('/blog/', '')
+    const post = blogOgPosts.find(p => p.slug === slug)
+    if (post) {
+      meta = {
+        title: `${post.title} | Platinum Zenith Blog`,
+        description: post.excerpt,
+      }
+    }
+  }
 
   if (!meta) {
     // Even without specific OG data, always inject correct canonical + og:url
