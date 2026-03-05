@@ -2663,7 +2663,7 @@ Ovo je najteža lekcija za vlasnike firmi koji vole da se "kreativno izraze" u o
 
 Marketing koji donosi rezultate je sistem brojeva. Koliko košta klik. Koliko klikova treba za jedan upit. Koliko upita za jednog klijenta. Koliko taj klijent vredi tokom 12 meseci.
 
-Kad znate ove brojeve, marketing prestaje da bude misterija. Postaje jednadžba. Ako klijent vredi 3.000€ godišnje i treba vam 100 klikova po 2€ za jednog klijenta, to je 200€ po klijentu. Profit: 2.800€.
+Kad znate ove brojeve, marketing prestaje da bude misterija. Postaje jednačina. Ako klijent vredi 3.000€ godišnje i treba vam 100 klikova po 2€ za jednog klijenta, to je 200€ po klijentu. Profit: 2.800€.
 
 Sva kreativnost u svetu ne pomaže ako ne znate ove brojeve. A kad ih znate, odluke postaju očigledne.
 
@@ -4081,8 +4081,8 @@ Takođe korisno: [Koliko košta Facebook reklama u Srbiji?](/koliko-kosta-facebo
 `,
   },
   {
-    slug: 'jednadzba-vrednosti-zasto-ljudi-kupuju',
-    title: 'Jednadžba vrednosti: zašto ljudi kupuju (ili ne kupuju) od vas',
+    slug: 'jednacina-vrednosti-zasto-ljudi-kupuju',
+    title: 'Jednačina vrednosti: zašto ljudi kupuju (ili ne kupuju) od vas',
     excerpt: 'Postoji formula za percepciju vrednosti. Ako je razumete, možete prodati isti proizvod za duplo veću cenu. Ako ne, i najniža cena će vam biti previsoka.',
     date: '2026-03-05',
     category: 'Prodaja',
@@ -4094,7 +4094,7 @@ Kad neko kaže "preskupo je", to skoro nikad ne znači da nema para. Znači da n
 
 Isti čovek koji kaže da je 500 evra za marketing "preskupo" će sledeće nedelje dati 1.200 evra za telefon. Cena nije problem. Percepcija vrednosti jeste.
 
-Alex Hormozi, čovek koji je izgradio portfolio kompanija od preko 100 miliona dolara, ima formulu za ovo. Zove je jednadžba vrednosti (Value Equation). Formula izgleda ovako:
+Alex Hormozi, čovek koji je izgradio portfolio kompanija od preko 100 miliona dolara, ima formulu za ovo. Zove je jednačina vrednosti (Value Equation). Formula izgleda ovako:
 
 **Vrednost = (Željeni ishod x Verovatnoća uspeha) / (Vreme čekanja x Uložen trud)**
 
@@ -4151,7 +4151,7 @@ Zamislite da nudite SEO optimizaciju za 400 evra mesečno.
 
 Kupac razmišlja: "400 evra? Za šta tačno?"
 
-Sad primenimo jednadžbu:
+Sad primenimo jednačinu:
 
 - **Željeni ishod:** "Vaš sajt će biti na prvoj strani Googla za ključne reči koje vaši kupci zapravo pretražuju. To znači 20-50 novih posetilaca dnevno koji traže tačno ono što vi prodajete."
 - **Verovatnoća:** "Evo 3 klijenta u vašoj industriji kojima smo to uradili. Evo screenshot-ova pre i posle. Evo njihovih kontakata ako želite da ih pozovete."
