@@ -52,10 +52,6 @@ const ogMeta = {
     title: 'Case Studies | Rezultati | Platinum Zenith',
     description: 'Pogledajte realne rezultate klijenata Platinum Zenith agencije: rast konverzija, veći prihodi, bolji ROAS i jasni KPI pokazatelji po projektu.',
   },
-  '/paketi': {
-    title: 'Paketi & Cene | Platinum Zenith',
-    description: 'Starter €499/mesec, Growth €1,499/mesec, Enterprise custom. Transparentne cene bez skrivenih troškova.',
-  },
   '/uslovi-koriscenja': {
     title: 'Uslovi Korišćenja | Platinum Zenith',
     description: 'Pročitajte uslove korišćenja Platinum Zenith usluga, prava i obaveze korisnika, način saradnje, plaćanja i ograničenja odgovornosti.',
