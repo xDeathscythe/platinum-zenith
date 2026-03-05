@@ -35,7 +35,8 @@ app.use('/api/admin', adminRoutes)
 // SEO: strip trailing slash (301 redirect) — prevents duplicate canonical URLs
 app.use((req, res, next) => {
   if (req.path !== '/' && req.path.endsWith('/') && !req.path.startsWith('/api')) {
-    const clean = req.path.replace(/\/+$/, '') + (req.search || '')
+    const [pathname, query = ''] = req.originalUrl.split('?')
+    const clean = pathname.replace(/\/+$/, '') + (query ? `?${query}` : '')
     return res.redirect(301, clean)
   }
   next()
