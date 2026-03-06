@@ -251,9 +251,9 @@ export default function InstagramReklameCenaPage() {
               <div className="text-[14px] font-medium text-ink mb-1">Cene digitalnog marketinga</div>
               <div className="text-[12px] text-ink-3">Komplet vodič po uslugama</div>
             </Link>
-            <Link to="/digitalni-marketing" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
-              <div className="text-[14px] font-medium text-ink mb-1">Digitalni marketing</div>
-              <div className="text-[12px] text-ink-3">Zenith sistem za rast</div>
+            <Link to="/blog/kako-skalirati-placene-oglase-bez-bacanja-novca" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Kako skalirati oglase</div>
+              <div className="text-[12px] text-ink-3">Vodič za rast bez bacanja budžeta</div>
             </Link>
           </div>
         </div>
