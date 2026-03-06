@@ -8,10 +8,10 @@ const CATEGORIES = ['Sve', ...Array.from(new Set(blogPosts.map(p => p.category))
 export default function BlogPage() {
   const [active, setActive] = useState('Sve')
 
-  const filtered = useMemo(
-    () => active === 'Sve' ? blogPosts : blogPosts.filter(p => p.category === active),
-    [active]
-  )
+  const filtered = useMemo(() => {
+    const source = active === 'Sve' ? blogPosts : blogPosts.filter(p => p.category === active)
+    return [...source].sort((a, b) => new Date(b.date) - new Date(a.date))
+  }, [active])
 
   const featured = filtered[0]
   const rest = filtered.slice(1)

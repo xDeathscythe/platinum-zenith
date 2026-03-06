@@ -4427,4 +4427,175 @@ Takođe preporučujemo: [Kako napraviti landing stranicu koja konvertuje](/blog/
 Želite da postavimo sistem plaćenih oglasa koji zapravo zarađuje? [Javite nam se](/kontakt) za besplatan pregled vaše trenutne situacije.
 `,
   },
+  {
+    slug: 'izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu',
+    title: 'Izrada landing stranice: cena, rokovi i šta ulazi u cenu',
+    excerpt: 'Landing stranica može biti najbolja investicija ili najskuplja greška. Evo realnih cena u Srbiji, rokova isporuke i stavki koje prave najveću razliku u rezultatu.',
+    date: '2026-03-06',
+    category: 'Web Design',
+    readTime: '8 min',
+    content: `
+## Koliko zaista košta izrada landing stranice u Srbiji
+
+Najkraći odgovor je: zavisi od cilja stranice i obima posla. Najduži odgovor je ovaj tekst.
+
+Ako vam je neko ponudio landing za 100 evra i drugi za 1.500 evra, oba mogu biti "tačna" cena. Problem je što to često nije isti proizvod.
+
+Landing stranica nije samo dizajn. To je kombinacija:
+
+- ponude
+- strukture teksta
+- UX-a
+- brzine učitavanja
+- trackinga
+- i načina na koji se lead obrađuje posle forme
+
+Ako jedna od tih stvari pukne, cela kampanja trpi.
+
+## Raspon cena po tipu landing stranice
+
+Za tržište Srbije u 2026, realni rasponi su obično ovakvi:
+
+### 1) Basic landing (300-700€)
+
+Dobra opcija za test jedne ponude kad još niste sigurni šta najbolje prolazi.
+
+Najčešće uključuje:
+
+- jednu stranicu
+- osnovni copy
+- kontakt formu
+- mobilnu prilagodbu
+- osnovni analytics
+
+Nije idealna za ozbiljno skaliranje, ali je dobra za početne validacije.
+
+### 2) Performance landing (700-1.800€)
+
+Ovo je nivo koji većina firmi zapravo treba.
+
+Najčešće uključuje:
+
+- custom sekcije po funnel logici
+- copy optimizovan za konverziju
+- A/B-ready strukturu
+- pixel i event tracking
+- tehničku optimizaciju za brzinu
+
+Ako planirate ozbiljniji paid traffic, ovo je uglavnom najzdraviji odnos cene i rezultata.
+
+### 3) Funnel landing paket (1.800-4.000€)
+
+Za ponude koje traže više koraka i jaču segmentaciju.
+
+Najčešće uključuje:
+
+- više varijanti landinga po publici
+- thank-you tok i follow-up logiku
+- CRM integraciju
+- napredniji tracking i izveštavanje
+- test plan za narednih 30-60 dana
+
+Ovo uzimaju firme koje već znaju da jedna stranica donosi prihod i žele da pojačaju obim bez rušenja profitabilnosti.
+
+## Od čega najviše zavisi cena
+
+### 1) Kvalitet i dubina copy-ja
+
+Landing sa prosečnim tekstom može izgledati lepo i dalje konvertovati loše.
+
+Dobra landing stranica vodi posetioca kroz jasan tok: problem, kontekst, dokaz, ponuda, rizik, CTA.
+
+Ako se copy radi ozbiljno, cena raste. Ali obično raste i konverzija.
+
+### 2) Broj sekcija i nivo personalizacije
+
+Jedna stvar je generična struktura sa 6 blokova. Druga je stranica krojena za konkretnu nišu, prigovore i način kupovine.
+
+Što je personalizacija veća, to je više istraživanja i rada.
+
+### 3) Dizajn i mikrointerakcije
+
+Nije poenta da landing ima "efekte". Poenta je da vizuelna hijerarhija tera korisnika ka akciji.
+
+Nekad je i jednostavan dizajn najbolji. Ali jednostavno ne znači brzo napravljeno.
+
+### 4) Tehnički sloj
+
+Ako landing učitava sporo, plaćate skuplji klik i dobijate manje upita.
+
+Zato su bitni:
+
+- optimizacija slika
+- čist CSS/JS
+- stabilan hosting setup
+- ispravno merenje događaja
+
+### 5) Integracije
+
+Kad treba povezati formu sa CRM-om, email automatizacijom ili internim workflow-om, to je dodatni obim posla.
+
+Tu često i nastaje razlika između "lepe stranice" i stranice koja operativno radi posao.
+
+## Rokovi izrade: koliko realno traje
+
+Tipični rokovi su:
+
+- basic landing: 3-7 radnih dana
+- performance landing: 7-15 radnih dana
+- funnel paket: 15-30 radnih dana
+
+Ako neko obeća kompleksnu landing stranicu za 24h, to je obično recikliran šablon sa minimalnim prilagođavanjem.
+
+Nekad je to ok za brz test. Za ozbiljan kanal akvizicije uglavnom nije.
+
+## Najskuplje greške koje viđamo
+
+### Greška 1: Previše fokusa na dizajn, premalo na ponudu
+
+Ljudi satima biraju boje dugmeta, a ponuda je nejasna. Posetilac ne razume šta dobija i zašto sada.
+
+### Greška 2: Slanje plaćenog saobraćaja na neproverenu stranicu
+
+Prvo validacija sa manjim budžetom, pa skaliranje. Obrnuto je najbrži način da se novac prospe.
+
+### Greška 3: Nema jasnog sledećeg koraka posle forme
+
+Ako lead ostavite da "čeka", konverzija pada. Landing mora biti deo celog sistema, ne izolovan fajl na sajtu.
+
+### Greška 4: Merenje samo po broju leadova
+
+Nisu svi leadovi isti. Bolje 20 kvalitetnih upita nego 80 koji nikad ne postanu klijenti.
+
+## Kako da procenite da li je ponuda izvođača realna
+
+Postavite ovih 5 pitanja:
+
+1. Šta tačno ulazi u cenu?
+2. Ko piše copy i na osnovu čega?
+3. Kako će se meriti konverzija?
+4. Koji je plan optimizacije posle lansiranja?
+5. Ko je odgovoran za tehničke bugove posle objave?
+
+Ako odgovori nisu konkretni, cena na papiru nije prava cena projekta.
+
+## Šta mi radimo drugačije
+
+Kod nas landing nije "još jedna stranica". To je prodajni asset koji mora da vrati uloženi novac.
+
+Zato fokus stavljamo na tri stvari:
+
+- jasna ponuda i poruka
+- tehnička stabilnost i brzina
+- merenje i iteracije posle lansiranja
+
+Ako želite širi pregled budžeta, pogledajte i [cene izrade sajta](/cene-izrade-sajta) i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+Takođe preporučujemo: [Kako napraviti landing stranicu koja konvertuje](/blog/kako-napraviti-landing-stranicu-koja-konvertuje).
+
+---
+
+Ako želite da procenimo vaš slučaj i kažemo koji nivo landing stranice vam realno treba, [javite nam se](/kontakt).
+`,
+  },
 ]
