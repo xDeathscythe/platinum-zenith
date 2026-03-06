@@ -32,27 +32,30 @@ function PromiseBand() {
 /* ─── Featured blog posts (inline to avoid loading full blogData on homepage) ── */
 const featured = [
   {
-    slug: 'pricing-psihologija-kontrola-percepcije-cene',
-    title: 'Pricing psihologija: kako brendovi kontrolišu percepciju cene',
-    category: 'Marketing',
-    excerpt: 'Cena nije broj. Cena je priča koju kupac priča sam sebi. Evo kako firme koje naplaćuju 10x više koriste psihologiju da to opravdaju.',
-    readTime: '7 min',
+    slug: 'kako-povecati-online-prodaju',
+    title: 'Kako povećati prodaju online prodavnice: 10 konkretnih koraka',
+    category: 'E-Commerce',
+    excerpt: 'Imati web shop i imati web shop koji prodaje su dve potpuno različite stvari. Evo šta zapravo radi na srpskom tržištu u 2026.',
+    readTime: '9 min',
+    date: '2026-03-05',
   },
   {
-    slug: 'sales-funnel-koji-radi-na-autopilotu',
-    title: 'Kako napraviti sales funnel koji radi dok vi spavate',
-    category: 'Marketing',
-    excerpt: 'Dok vi spavate, funnel hvata posetioce, gradi poverenje i zatvara prodaju. Ali samo ako je pravilno napravljen.',
-    readTime: '7 min',
+    slug: 'jednacina-vrednosti-zasto-ljudi-kupuju',
+    title: 'Jednačina vrednosti: zašto ljudi kupuju (ili ne kupuju) od vas',
+    category: 'Prodaja',
+    excerpt: 'Postoji formula za percepciju vrednosti. Ako je razumete, možete prodati isti proizvod za duplo veću cenu. Ako ne, i najniža cena će vam biti previsoka.',
+    readTime: '8 min',
+    date: '2026-03-05',
   },
   {
-    slug: 'copywriting-formule-koje-rade',
-    title: 'Kako napisati oglas koji prodaje: copywriting formule koje rade',
+    slug: 'cetiri-nacina-da-dobijete-klijente',
+    title: 'Četiri načina da dobijete klijente (i koji je pravi za vas)',
     category: 'Marketing',
-    excerpt: 'Nije bitno koliko ljudi vidi vaš oglas. Bitno je koliko ih ne može da odoli a da ne klikne. Evo formula koje to postižu.',
-    readTime: '7 min',
+    excerpt: 'Svaki biznis na svetu koristi jedan od četiri kanala za pridobijanje klijenata. Razlika između firmi koje rastu i onih koje stagniraju je u tome koji kanal biraju i koliko ga dobro koriste.',
+    readTime: '9 min',
+    date: '2026-03-05',
   },
-]
+].sort((a, b) => new Date(b.date) - new Date(a.date))
 
 function FeaturedBlog() {
   return (
