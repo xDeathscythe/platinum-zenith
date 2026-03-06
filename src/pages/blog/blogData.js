@@ -4430,7 +4430,7 @@ Takođe preporučujemo: [Kako napraviti landing stranicu koja konvertuje](/blog/
   {
     slug: 'izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu',
     title: 'Izrada landing stranice: cena, rokovi i šta ulazi u cenu',
-    excerpt: 'Landing stranica može biti najbolja investicija ili najskuplja greška. Evo realnih cena u Srbiji, rokova isporuke i stavki koje prave najveću razliku u rezultatu.',
+    excerpt: 'Landing stranica može biti najbolja investicija ili najskuplja greška. Evo realnih cena u Srbiji, rokova isporuke i stavki koje najviše utiču na rezultat.',
     date: '2026-03-06',
     category: 'Web Design',
     readTime: '8 min',
@@ -4601,7 +4601,7 @@ Ako želite da procenimo vaš slučaj i kažemo koji nivo landing stranice vam r
   {
     slug: 'google-ads-cena-po-kliku-srbija-2026',
     title: 'Google Ads cena po kliku u Srbiji 2026: realni rasponi po niši',
-    excerpt: 'CPC u Google Ads-u nije isti za sve biznise. Evo konkretnih raspona po nišama u Srbiji, šta realno diže cenu klika i kako da snizite trošak bez rušenja kvaliteta leadova.',
+    excerpt: 'CPC u Google Ads-u nije isti za sve biznise. Evo realnih raspona po nišama u Srbiji i kako da smanjite cenu klika bez pada kvaliteta leadova.',
     date: '2026-03-06',
     category: 'Marketing',
     readTime: '9 min',
