@@ -4598,4 +4598,142 @@ Takođe preporučujemo: [Kako napraviti landing stranicu koja konvertuje](/blog/
 Ako želite da procenimo vaš slučaj i kažemo koji nivo landing stranice vam realno treba, [javite nam se](/kontakt).
 `,
   },
+  {
+    slug: 'google-ads-cena-po-kliku-srbija-2026',
+    title: 'Google Ads cena po kliku u Srbiji 2026: realni rasponi po niši',
+    excerpt: 'CPC u Google Ads-u nije isti za sve biznise. Evo konkretnih raspona po nišama u Srbiji, šta realno diže cenu klika i kako da snizite trošak bez rušenja kvaliteta leadova.',
+    date: '2026-03-06',
+    category: 'Marketing',
+    readTime: '9 min',
+    content: `
+## Zašto je pitanje "koliko košta klik" često pogrešno postavljeno
+
+Kad neko pita koliko košta klik na Google-u, obično očekuje jedan broj.
+
+U praksi taj broj ne postoji.
+
+Klik može biti 0,12€ u jednoj niši i 2,50€ u drugoj, i oba podatka mogu biti potpuno normalna.
+
+Bitnije pitanje je: koliko vas košta kvalifikovan upit i da li taj upit na kraju donosi profit.
+
+## Realni CPC rasponi po nišama u Srbiji (2026)
+
+Ovo su realni radni rasponi koje viđamo na tržištu Srbije za Search kampanje.
+
+### 1) Lokalne usluge
+
+Primeri: frizeri, servisi, auto stakla, čišćenje, selidbe.
+
+- tipični CPC: **0,10€ - 0,45€**
+- zašto: lokalna konkurencija je ograničena, intent je često jak
+
+Ako je landing dobar i poziv jasan, ovaj tip kampanja često ima zdrav odnos cene klika i broja upita.
+
+### 2) Medicinske i estetske usluge
+
+Primeri: stomatologija, dermatologija, estetski tretmani.
+
+- tipični CPC: **0,30€ - 1,20€**
+- zašto: jača konkurencija i veća vrednost pacijenta
+
+Ovde je ključ u kvalitetu oglasa i preciznim ključnim rečima. Široko targetiranje brzo pojede budžet.
+
+### 3) Pravne i finansijske usluge
+
+Primeri: advokati, knjigovođe, poreski konsultanti.
+
+- tipični CPC: **0,50€ - 2,00€**
+- zašto: visoka vrednost klijenta i jaka borba za vrh pretrage
+
+Viši CPC nije automatski loš. Ako jedan klijent vredi mnogo, i skuplji klik može biti odlična investicija.
+
+### 4) B2B usluge i agencijski modeli
+
+Primeri: digitalni marketing, razvoj softvera, IT usluge.
+
+- tipični CPC: **0,40€ - 1,80€**
+- zašto: kombinacija informativnih i komercijalnih upita
+
+Najveći problem je mešanje edukativnih i kupovnih keyword-a u istoj kampanji.
+
+### 5) E-commerce upiti
+
+Primeri: kategorije proizvoda i brand+product pretrage.
+
+- tipični CPC: **0,08€ - 0,90€** (širok raspon)
+- zašto: zavisi od kategorije, marže i konkurencije
+
+Kod e-commerce-a CPC je važan, ali još važniji su konverzija i prosečna vrednost porudžbine.
+
+## Šta najviše podiže cenu klika
+
+### 1) Slab Quality Score
+
+Ako su oglas, ključna reč i landing nepovezani, Google vas kažnjava skupljim klikom.
+
+### 2) Preširoki keyword-i
+
+Generički termini donose više impresija, ali često i lošiji saobraćaj.
+
+### 3) Bez negativnih ključnih reči
+
+Ako ne čistite nerelevantne upite, budžet odlazi na klikove koji nikad ne postanu upit.
+
+### 4) Loš landing UX
+
+Spor sajt i nejasna ponuda spuštaju konverziju, pa kampanja izgleda skupa i kad CPC nije katastrofalan.
+
+### 5) Jedna kampanja za sve usluge
+
+Kad spojite više različitih ponuda u jednu kampanju, gubite kontrolu nad performansama.
+
+## Kako da snizite CPC bez pada kvaliteta leadova
+
+### 1) Podelite kampanje po intentu
+
+Odvojite high-intent upite ("cena", "agencija", "usluga") od edukativnih.
+
+### 2) Ojačajte RSA oglase
+
+Više kvalitetnih headline varijanti i jasni benefiti često poprave CTR i spuste cenu klika.
+
+### 3) Dodajte negativne keyword-e svake nedelje
+
+Search Terms izveštaj je zlato. Redovno čišćenje nerelevantnih upita štedi budžet odmah.
+
+### 4) Uskladite landing sa porukom oglasa
+
+Ako oglas obećava konkretan rezultat, landing mora to da nastavi bez lutanja.
+
+### 5) Merite cenu po kvalifikovanom leadu
+
+CPC je ulazna metrika. Prava odluka se donosi na osnovu kvaliteta upita i zatvaranja prodaje.
+
+## Kada je "visok" CPC zapravo dobar
+
+Ako plaćate 1,20€ po kliku, a iz toga dobijate leadove koji se zatvaraju i ostavljaju solidnu maržu, kampanja je zdrava.
+
+Ako plaćate 0,20€ po kliku i dobijate gomilu loših upita, taj "jeftin" klik je skup.
+
+Zato je fokus uvek na ekonomiji cele kampanje, ne na jednom broju.
+
+## Brza formula za procenu isplativosti
+
+Ako znate:
+
+- prosečnu vrednost klijenta
+- vašu maržu
+- stopu zatvaranja leadova
+
+možete okvirno izračunati maksimalni prihvatljiv CPL, pa unazad planirati CPC cilj.
+
+Ako vam je potreban širi kontekst budžeta, pogledajte i [Google reklame cena](/google-reklame-cena), [koliko košta Facebook reklama](/koliko-kosta-facebook-reklama) i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+Takođe preporučujemo: [Kako skalirati plaćene oglase bez bacanja novca](/blog/kako-skalirati-placene-oglase-bez-bacanja-novca).
+
+---
+
+Ako želite da analiziramo vaše ključne reči i kažemo gde trenutno preplaćujete klik, [javite nam se](/kontakt).
+`,
+  },
 ]
