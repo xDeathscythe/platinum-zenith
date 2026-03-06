@@ -251,9 +251,9 @@ export default function GoogleReklameCenaPage() {
               <div className="text-[14px] font-medium text-ink mb-1">Cene digitalnog marketinga</div>
               <div className="text-[12px] text-ink-3">Kompletan cenovni vodič</div>
             </Link>
-            <Link to="/digitalni-marketing" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
-              <div className="text-[14px] font-medium text-ink mb-1">Digitalni marketing</div>
-              <div className="text-[12px] text-ink-3">Zenith sistem za akviziciju</div>
+            <Link to="/blog/google-ads-cena-po-kliku-srbija-2026" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Google Ads CPC po niši</div>
+              <div className="text-[12px] text-ink-3">Realni rasponi po industriji 2026</div>
             </Link>
           </div>
         </div>
