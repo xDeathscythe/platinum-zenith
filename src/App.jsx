@@ -41,6 +41,7 @@ const WebShopNemaProdajuPage = lazy(() => import('./pages/WebShopNemaProdajuPage
 const KolikoKostaFacebookReklamaPage = lazy(() => import('./pages/KolikoKostaFacebookReklamaPage'))
 const GoogleReklameCenaPage = lazy(() => import('./pages/GoogleReklameCenaPage'))
 const InstagramReklameCenaPage = lazy(() => import('./pages/InstagramReklameCenaPage'))
+const IzradaWordpressSajtaCenaPage = lazy(() => import('./pages/IzradaWordpressSajtaCenaPage'))
 const MarketingAgencijaZrenjaninPage = lazy(() => import('./pages/MarketingAgencijaZrenjaninPage'))
 const SeoOptimizacijaCenaPage = lazy(() => import('./pages/SeoOptimizacijaCenaPage'))
 const MarketingAgencijaBgPage = lazy(() => import('./pages/MarketingAgencijaBgPage'))
@@ -136,6 +137,7 @@ function PublicLayout() {
             <Route path="/koliko-kosta-facebook-reklama" element={<KolikoKostaFacebookReklamaPage />} />
             <Route path="/google-reklame-cena" element={<GoogleReklameCenaPage />} />
             <Route path="/instagram-reklame-cena" element={<InstagramReklameCenaPage />} />
+            <Route path="/izrada-wordpress-sajta-cena" element={<IzradaWordpressSajtaCenaPage />} />
             <Route path="/marketing-agencija-zrenjanin" element={<MarketingAgencijaZrenjaninPage />} />
             <Route path="/seo-optimizacija-cena" element={<SeoOptimizacijaCenaPage />} />
             <Route path="/marketing-agencija-beograd" element={<MarketingAgencijaBgPage />} />
