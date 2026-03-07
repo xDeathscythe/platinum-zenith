@@ -39,7 +39,7 @@ export default function Navbar({ sidebarOpen, setSidebarOpen }) {
       <header className={`fixed top-0 left-0 right-0 z-[100] flex items-center justify-between px-4 md:px-8 py-3 transition-all duration-300 ease-in-out ${visible ? 'translate-y-0' : '-translate-y-full'} ${scrolled ? 'bg-page/80 backdrop-blur-md' : 'bg-transparent'}`}>
         <div className="flex items-center gap-1 md:gap-1.5 flex-shrink-0">
           <Link to="/" className="cursor-pointer flex items-center leading-none md:-mr-5">
-            <img src={`${import.meta.env.BASE_URL}pz-logo.svg`} alt="Platinum Zenith" className="block h-[58px] md:h-[70px] w-auto logo-adaptive" width={200} height={77} style={{ aspectRatio: '200/77' }} loading="eager" fetchPriority="high" decoding="sync" />
+            <img src={`${import.meta.env.BASE_URL}pz-logo.svg`} alt="Platinum Zenith logo" className="block h-[58px] md:h-[70px] w-auto logo-adaptive" width={200} height={77} style={{ aspectRatio: '200/77' }} loading="eager" fetchPriority="high" decoding="sync" />
           </Link>
           <button onClick={() => setSidebarOpen(!sidebarOpen)} className="w-8 h-8 md:w-9 md:h-9 flex items-center justify-center cursor-pointer text-ink-4 hover:text-ink transition-colors" aria-label="Otvori meni">
             {sidebarOpen ? <X className="w-4 h-4" /> : (

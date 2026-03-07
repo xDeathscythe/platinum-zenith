@@ -237,7 +237,7 @@ export default function AnimatedCharactersLoginPage({
     <div className="min-h-screen grid lg:grid-cols-2 bg-black text-white">
       <div className="relative hidden lg:flex flex-col justify-between bg-gradient-to-br from-[#313136] via-[#16161a] to-[#000000] p-12 text-white overflow-hidden">
         <div className="relative z-20">
-          <img src={logoSrc} alt="Platinum Zenith" className="h-[44px] w-auto" width={200} height={77} />
+          <img src={logoSrc} alt="Platinum Zenith logo" className="h-[44px] w-auto" width={200} height={77} />
         </div>
 
         <div className="relative z-20 flex items-end justify-center h-[500px]">
@@ -427,7 +427,7 @@ export default function AnimatedCharactersLoginPage({
       <div className="flex items-center justify-center p-8 bg-[#0a0a0a]">
         <div className="w-full max-w-[420px]">
           <div className="lg:hidden flex items-center justify-center mb-12 text-white">
-            <img src={logoSrc} alt="Platinum Zenith" className="h-[40px] w-auto" width={200} height={77} />
+            <img src={logoSrc} alt="Platinum Zenith logo" className="h-[40px] w-auto" width={200} height={77} />
           </div>
 
           <div className="text-center mb-10">
