@@ -8,10 +8,21 @@ const CATEGORIES = ['Sve', ...Array.from(new Set(blogPosts.map(p => p.category))
 export default function BlogPage() {
   const [active, setActive] = useState('Sve')
 
-  const filtered = useMemo(() => {
-    const source = active === 'Sve' ? blogPosts : blogPosts.filter(p => p.category === active)
-    return [...source].sort((a, b) => new Date(b.date) - new Date(a.date))
-  }, [active])
+  const sortedPosts = useMemo(
+    () => [...blogPosts].sort((a, b) => new Date(b.date) - new Date(a.date)),
+    []
+  )
+
+  const categoryCounts = useMemo(() => {
+    const counts = {}
+    for (const p of sortedPosts) counts[p.category] = (counts[p.category] || 0) + 1
+    return counts
+  }, [sortedPosts])
+
+  const filtered = useMemo(
+    () => active === 'Sve' ? sortedPosts : sortedPosts.filter(p => p.category === active),
+    [active, sortedPosts]
+  )
 
   const featured = filtered[0]
   const rest = filtered.slice(1)
@@ -52,7 +63,7 @@ export default function BlogPage() {
               {cat}
               {cat !== 'Sve' && (
                 <span className="ml-1.5 text-[11px] opacity-50">
-                  {blogPosts.filter(p => p.category === cat).length}
+                  {categoryCounts[cat] || 0}
                 </span>
               )}
             </button>
