@@ -34,11 +34,11 @@ const ogMeta = {
   },
   '/consulting': {
     title: 'Poslovno Savetovanje | Platinum Zenith',
-    description: 'Biznis audit, strategija rasta i implementacija. Tražimo kočnice u vašem biznisu i pomažemo da ih razbijete.',
+    description: 'Biznis konsultacije za vlasnike firmi: audit, strategija rasta i implementacija kroz jasne akcione korake koji uklanjaju uska grla i podižu profit.',
   },
   '/cro': {
     title: 'CRO Optimizacija Konverzije | Platinum Zenith',
-    description: 'Više klijenata, isti budžet. +300% prosečno poboljšanje konverzija. Heatmap analiza, A/B testovi, UX audit.',
+    description: 'CRO optimizacija koja diže broj upita i prodaja bez većeg budžeta: heatmap analiza, A/B testovi, UX audit i konkretne iteracije za rast konverzije.',
   },
   '/kontakt': {
     title: 'Kontakt | Platinum Zenith',
@@ -70,7 +70,7 @@ const ogMeta = {
   },
   '/politika-privatnosti': {
     title: 'Politika Privatnosti | Platinum Zenith',
-    description: 'Saznajte kako Platinum Zenith prikuplja, koristi i štiti vaše lične podatke. GDPR usklađeno.',
+    description: 'Politika privatnosti Platinum Zenith agencije: kako prikupljamo, obrađujemo i štitimo lične podatke, koja su vaša prava i kako ostvarujete GDPR zaštitu.',
   },
   '/drustvene-mreze': {
     title: 'Društvene Mreže | Instagram, Facebook, TikTok, LinkedIn | Platinum Zenith',
