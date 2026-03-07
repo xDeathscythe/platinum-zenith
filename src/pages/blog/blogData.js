@@ -87,7 +87,7 @@ Takođe preporučujemo: [Facebook oglasi koji zapravo rade: psihologija iza klik
   {
     slug: 'ab-testiranje-male-promene-veliki-rezultati',
     title: 'A/B testiranje: male promene, veliki rezultati',
-    excerpt: 'Promena boje dugmeta neće spasiti loš sajt. Ali prava A/B testiranja mogu udvostručiti konverzije za mesec dana.',
+    excerpt: 'Promena boje dugmeta sama po sebi neće spasiti loš sajt, ali prava A/B testiranja mogu udvostručiti konverzije kada se testira ponuda, struktura i CTA tok.',
     date: '2026-02-21',
     category: 'CRO',
     readTime: '6 min',
