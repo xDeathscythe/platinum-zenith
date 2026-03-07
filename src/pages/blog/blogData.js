@@ -4589,7 +4589,7 @@ Zato fokus stavljamo na tri stvari:
 - tehnička stabilnost i brzina
 - merenje i iteracije posle lansiranja
 
-Ako želite širi pregled budžeta, pogledajte i [cene izrade sajta](/cene-izrade-sajta) i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Ako želite širi pregled budžeta, pogledajte i [cene izrade sajta](/cene-izrade-sajta), [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena) i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
 Takođe preporučujemo: [Kako napraviti landing stranicu koja konvertuje](/blog/kako-napraviti-landing-stranicu-koja-konvertuje).
 
