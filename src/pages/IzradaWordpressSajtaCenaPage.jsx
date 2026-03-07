@@ -207,9 +207,9 @@ export default function IzradaWordpressSajtaCenaPage() {
               <div className="text-[14px] font-medium text-ink mb-1">Web design usluga</div>
               <div className="text-[12px] text-ink-3">Kako radimo sajtove koji konvertuju</div>
             </Link>
-            <Link to="/agencija-vs-freelancer" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
-              <div className="text-[14px] font-medium text-ink mb-1">Agencija vs freelancer</div>
-              <div className="text-[12px] text-ink-3">Kako izabrati partnera</div>
+            <Link to="/google-reklame-cena" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Google reklame cena</div>
+              <div className="text-[12px] text-ink-3">Kako planirati budžet za akviziciju</div>
             </Link>
             <Link to="/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
               <div className="text-[14px] font-medium text-ink mb-1">Cena landing stranice</div>
