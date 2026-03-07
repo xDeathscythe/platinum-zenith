@@ -297,7 +297,7 @@ export default function BlogPostPage() {
     },
     articleSection: post.category,
     wordCount: post.content ? post.content.split(/\s+/).length : undefined,
-    inLanguage: 'sr',
+    inLanguage: 'sr-RS',
     image: post.image ? `https://platinumzenith.com${post.image}` : 'https://platinumzenith.com/og-image.jpg',
   }
 
