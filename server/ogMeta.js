@@ -22,15 +22,15 @@ try {
 const ogMeta = {
   '/': {
     title: 'Platinum Zenith | Digitalna Agencija | Marketing, Web Design, Consulting',
-    description: 'Privucite pažnju i generišite prodaju na lak, siguran i predvidljiv način. Zenith sistem za akviziciju klijenata.',
+    description: 'Privucite pažnju i generišite prodaju kroz Zenith sistem za akviziciju klijenata: digitalni marketing, web design i consulting sa merljivim rezultatima.',
   },
   '/web-design': {
     title: 'Web Design & Izrada Sajta | Platinum Zenith',
-    description: 'Sajtovi koji pretvaraju posetioce u klijente. +340% prosečan rast konverzija. PageSpeed 95+. Mobile-first dizajn.',
+    description: 'Sajtovi koji pretvaraju posetioce u klijente uz mobile-first UX, PageSpeed 95+ i strukturu koja podiže upite, prodaju i dugoročnu SEO vidljivost.',
   },
   '/digitalni-marketing': {
     title: 'Digitalni Marketing | Zenith Sistem | Platinum Zenith',
-    description: 'Meta Ads, Google Ads, TikTok Ads. 15x ROAS prosek. Dokazan sistem za predvidljivu akviziciju klijenata.',
+    description: 'Meta Ads, Google Ads i TikTok Ads kampanje sa jasnim KPI-jevima, optimizacijom budžeta i sistemom koji donosi predvidljivu akviziciju klijenata.',
   },
   '/consulting': {
     title: 'Poslovno Savetovanje | Platinum Zenith',
