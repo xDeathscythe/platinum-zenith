@@ -146,11 +146,11 @@ const ogMeta = {
   },
   '/instagram-reklame-cena': {
     title: 'Koliko Koštaju Instagram Reklame u Srbiji 2026 | Platinum Zenith',
-    description: 'Realne cene Instagram oglasa u Srbiji za 2026. CPC, CPM, budžeti po fazama rasta i greške koje povećavaju trošak bez većeg rezultata.',
+    description: 'Realne cene Instagram oglasa u Srbiji za 2026. CPC, CPM, budžeti po fazama rasta i greške koje dižu trošak bez više upita i prodaje.',
   },
   '/izrada-wordpress-sajta-cena': {
     title: 'Koliko Košta Izrada WordPress Sajta u Srbiji 2026 | Platinum Zenith',
-    description: 'Realne cene WordPress sajtova u Srbiji. Šta ulazi u cenu, koliko košta WooCommerce i koje greške najviše povećavaju trošak.',
+    description: 'Realne cene izrade WordPress sajta u Srbiji za 2026. Šta ulazi u cenu, koliko košta WooCommerce, održavanje i tipične greške koje dižu trošak.',
   },
   '/marketing-za-advokate': {
     title: 'Marketing za Advokate | Digitalni Marketing za Advokatske Kancelarije | Platinum Zenith',
