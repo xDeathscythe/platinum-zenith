@@ -247,9 +247,9 @@ export default function GoogleReklameCenaPage() {
               <div className="text-[14px] font-medium text-ink mb-1">SEO optimizacija cena</div>
               <div className="text-[12px] text-ink-3">Organski rast i dugoročni troškovi</div>
             </Link>
-            <Link to="/cene-digitalnog-marketinga" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
-              <div className="text-[14px] font-medium text-ink mb-1">Cene digitalnog marketinga</div>
-              <div className="text-[12px] text-ink-3">Kompletan cenovni vodič</div>
+            <Link to="/instagram-reklame-cena" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Instagram reklame cena</div>
+              <div className="text-[12px] text-ink-3">Uporedi social i search budžete</div>
             </Link>
             <Link to="/blog/google-ads-cena-po-kliku-srbija-2026" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
               <div className="text-[14px] font-medium text-ink mb-1">Google Ads CPC po niši</div>
