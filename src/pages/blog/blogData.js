@@ -514,6 +514,8 @@ Za firmu sa budžetom od 2.000€ mesečno za marketing:
 
 Pogledajte kako [naš SEO pristup](/digitalni-marketing) pomaže klijentima da se pojave prvi na pretrazi.
 
+Ako planirate plaćeni kanal, pogledajte i [Google reklame cena](/google-reklame-cena) i [Instagram reklame cena](/instagram-reklame-cena).
+
 Takođe preporučujemo: [Lokalni SEO: kako se pojaviti prvi kad neko pretraži u vašem gradu](/blog/lokalni-seo-kako-se-pojaviti-prvi).
 
 ---
