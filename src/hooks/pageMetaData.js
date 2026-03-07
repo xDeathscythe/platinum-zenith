@@ -68,7 +68,7 @@ export const pageMeta = {
 }
 
 export const orgSchema = {
-  "@context": "https://schema.org", "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL,
+  "@context": "https://schema.org", "@type": "Organization", "@id": `${SITE_URL}#organization`, "name": "Platinum Zenith", "url": SITE_URL,
   "logo": `${SITE_URL}/pz-logo.svg`,
   "address": { "@type": "PostalAddress", "streetAddress": "Ruže Šulman 19", "addressLocality": "Zrenjanin", "addressCountry": "RS" },
   "contactPoint": { "@type": "ContactPoint", "email": "aleksandar@platinumzenith.com", "contactType": "customer service", "availableLanguage": ["Serbian", "English"] },
@@ -78,6 +78,7 @@ export const orgSchema = {
 export const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
+  "@id": `${SITE_URL}#localbusiness`,
   "name": "Platinum Zenith",
   "url": SITE_URL,
   "image": `${SITE_URL}/og-image.jpg`,
@@ -93,6 +94,7 @@ export const localBusinessSchema = {
   },
   "geo": { "@type": "GeoCoordinates", "latitude": 45.3836, "longitude": 20.3819 },
   "areaServed": { "@type": "Country", "name": "Srbija" },
+  "parentOrganization": { "@id": `${SITE_URL}#organization` },
   "openingHoursSpecification": [{
     "@type": "OpeningHoursSpecification",
     "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
@@ -133,9 +135,9 @@ export const pageSchemas = {
   '/marketing-agencija-novi-sad': { "@context": "https://schema.org", "@type": "ProfessionalService", "name": "Platinum Zenith - Marketing Agencija Novi Sad", "url": `${SITE_URL}/marketing-agencija-novi-sad`, "areaServed": { "@type": "City", "name": "Novi Sad" }, "serviceType": "Digital Marketing" },
   '/web-shop-nema-prodaju': { "@context": "https://schema.org", "@type": "WebPage", "name": "Web shop nema prodaju — 5 razloga i rešenja", "url": `${SITE_URL}/web-shop-nema-prodaju`, "inLanguage": "sr-RS", "isPartOf": { "@type": "WebSite", "name": "Platinum Zenith", "url": SITE_URL } },
   '/koliko-kosta-facebook-reklama': { "@context": "https://schema.org", "@type": "WebPage", "name": "Koliko košta Facebook reklama u Srbiji 2026", "url": `${SITE_URL}/koliko-kosta-facebook-reklama`, "inLanguage": "sr-RS", "isPartOf": { "@type": "WebSite", "name": "Platinum Zenith", "url": SITE_URL } },
-  '/google-reklame-cena': { "@context": "https://schema.org", "@type": "Service", "name": "Google Ads upravljanje kampanjama", "serviceType": "Google Ads management", "url": `${SITE_URL}/google-reklame-cena`, "areaServed": { "@type": "Country", "name": "Srbija" }, "provider": { "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL } },
-  '/instagram-reklame-cena': { "@context": "https://schema.org", "@type": "Service", "name": "Instagram Ads upravljanje kampanjama", "serviceType": "Instagram advertising management", "url": `${SITE_URL}/instagram-reklame-cena`, "areaServed": { "@type": "Country", "name": "Srbija" }, "provider": { "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL } },
-  '/izrada-wordpress-sajta-cena': { "@context": "https://schema.org", "@type": "Service", "name": "Izrada WordPress sajta", "serviceType": "WordPress web development", "url": `${SITE_URL}/izrada-wordpress-sajta-cena`, "areaServed": { "@type": "Country", "name": "Srbija" }, "provider": { "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL } },
+  '/google-reklame-cena': { "@context": "https://schema.org", "@type": "Service", "name": "Google Ads upravljanje kampanjama", "serviceType": "Google Ads management", "url": `${SITE_URL}/google-reklame-cena`, "areaServed": { "@type": "Country", "name": "Srbija" }, "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL } },
+  '/instagram-reklame-cena': { "@context": "https://schema.org", "@type": "Service", "name": "Instagram Ads upravljanje kampanjama", "serviceType": "Instagram advertising management", "url": `${SITE_URL}/instagram-reklame-cena`, "areaServed": { "@type": "Country", "name": "Srbija" }, "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL } },
+  '/izrada-wordpress-sajta-cena': { "@context": "https://schema.org", "@type": "Service", "name": "Izrada WordPress sajta", "serviceType": "WordPress web development", "url": `${SITE_URL}/izrada-wordpress-sajta-cena`, "areaServed": { "@type": "Country", "name": "Srbija" }, "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL } },
   '/alati/roi-kalkulator': { "@context": "https://schema.org", "@type": "SoftwareApplication", "name": "ROI Kalkulator za Marketing", "applicationCategory": "BusinessApplication", "operatingSystem": "Web", "offers": { "@type": "Offer", "price": "0", "priceCurrency": "EUR" }, "description": "Besplatan interaktivni kalkulator za izračunavanje povrata investicije u marketing.", "url": `${SITE_URL}/alati/roi-kalkulator`, "provider": { "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL } }
 }
 
