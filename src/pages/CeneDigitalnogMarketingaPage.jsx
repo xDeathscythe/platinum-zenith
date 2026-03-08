@@ -207,7 +207,7 @@ export default function CeneDigitalnogMarketingaPage() {
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[760px] mx-auto">
           <h2 className="text-[22px] font-medium text-ink mb-6 text-center">Povezane stranice</h2>
-          <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
             <Link to="/cene-izrade-sajta" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
               <div className="text-[14px] font-medium text-ink mb-1">Cene izrade sajta</div>
               <div className="text-[12px] text-ink-3">Koliko košta sajt u Srbiji 2026</div>
@@ -219,6 +219,10 @@ export default function CeneDigitalnogMarketingaPage() {
             <Link to="/seo-optimizacija-cena" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
               <div className="text-[14px] font-medium text-ink mb-1">Cene SEO optimizacije</div>
               <div className="text-[12px] text-ink-3">Koliko košta SEO u Srbiji</div>
+            </Link>
+            <Link to="/blog/kako-meriti-roi-marketinga-kpi-vodic" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">ROI i KPI vodič</div>
+              <div className="text-[12px] text-ink-3">Kako meriti šta stvarno donosi profit</div>
             </Link>
           </div>
         </div>
