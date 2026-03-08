@@ -51,7 +51,6 @@ const InHouseVsAgencijaPage = lazy(() => import('./pages/InHouseVsAgencijaPage')
 const MarketingZaRestoranePage = lazy(() => import('./pages/MarketingZaRestoranePage'))
 const MarketingZaStomatologePage = lazy(() => import('./pages/MarketingZaStomatologePage'))
 const MarketingZaAdvokatePage = lazy(() => import('./pages/MarketingZaAdvokatePage'))
-const NetokracijaDraftCROPage = lazy(() => import('./pages/NetokracijaDraftCROPage'))
 
 // Admin pages
 const LoginPage = lazy(() => import('./pages/admin/LoginPage'))
@@ -148,7 +147,7 @@ function PublicLayout() {
             <Route path="/marketing-za-restorane" element={<MarketingZaRestoranePage />} />
             <Route path="/marketing-za-stomatologe" element={<MarketingZaStomatologePage />} />
             <Route path="/marketing-za-advokate" element={<MarketingZaAdvokatePage />} />
-            <Route path="/draft/netokracija-cro-case" element={<NetokracijaDraftCROPage />} />
+            <Route path="/draft/:slug" element={<BlogPostPage />} />
             <Route path="*" element={<NotFoundPage />} />
           </Routes>
         </Suspense>

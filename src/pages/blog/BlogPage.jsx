@@ -3,13 +3,14 @@ import { Link } from 'react-router-dom'
 import BottomCTA from '../../components/BottomCTA'
 import { blogPosts } from './blogData'
 
-const CATEGORIES = ['Sve', ...Array.from(new Set(blogPosts.map(p => p.category)))]
+const PUBLIC_BLOG_POSTS = blogPosts.filter(p => !p.isDraft)
+const CATEGORIES = ['Sve', ...Array.from(new Set(PUBLIC_BLOG_POSTS.map(p => p.category)))]
 
 export default function BlogPage() {
   const [active, setActive] = useState('Sve')
 
   const sortedPosts = useMemo(
-    () => [...blogPosts].sort((a, b) => new Date(b.date) - new Date(a.date)),
+    () => [...PUBLIC_BLOG_POSTS].sort((a, b) => new Date(b.date) - new Date(a.date)),
     []
   )
 

@@ -30,6 +30,12 @@ export default function usePageMeta() {
     }
     kwTag.setAttribute('content', meta.keywords || '')
 
+    const robotsTag = document.querySelector('meta[name="robots"]')
+    if (robotsTag) {
+      const defaultRobots = 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1'
+      robotsTag.setAttribute('content', pathname.startsWith('/draft/') ? 'noindex, nofollow' : defaultRobots)
+    }
+
     const ogTitle = document.querySelector('meta[property="og:title"]')
     if (ogTitle) ogTitle.setAttribute('content', meta.title)
     const ogDesc = document.querySelector('meta[property="og:description"]')
@@ -87,6 +93,7 @@ export default function usePageMeta() {
           if (descTag) descTag.setAttribute('content', post.excerpt)
           if (ogTitle) ogTitle.setAttribute('content', post.title)
           if (ogDesc) ogDesc.setAttribute('content', post.excerpt)
+          if (robotsTag && post.isDraft) robotsTag.setAttribute('content', 'noindex, nofollow')
 
           // Article schema is emitted by BlogPostPage.jsx (richer: publisher, logo, wordCount, etc.)
           // Only breadcrumb is set here to avoid duplicate ld+json

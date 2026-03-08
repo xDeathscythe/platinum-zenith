@@ -4738,4 +4738,80 @@ Takođe preporučujemo: [Kako skalirati plaćene oglase bez bacanja novca](/blog
 Ako želite da analiziramo vaše ključne reči i kažemo gde trenutno preplaćujete klik, [javite nam se](/kontakt).
 `,
   },
+  {
+    slug: 'netokracija-cro-case',
+    title: 'DRAFT: Kako smo povećali profit 4x kroz nekoliko ključnih CRO izmena na domaćem web shopu',
+    excerpt: 'Interni draft case study članka: kako su brzina sajta, mini-korpa, order bumps i Niwa AI asistencija podigli konverziju i profit bez povećanja budžeta za oglase.',
+    date: '2026-03-08',
+    category: 'E-Commerce',
+    readTime: '7 min',
+    isDraft: true,
+    content: `
+## Napomena
+
+Ovo je draft verzija pripremljena za editorial review.
+
+## Kontekst
+
+Shop je imao stabilan saobraćaj, ali rezultat nije pratio broj poseta.
+
+Klasičan scenario: ljudi dođu, pogledaju proizvod i odu. U toj tački većina timova prvo diže budžet za oglase, ali to često samo ubrza gubitke.
+
+Zato smo prvo išli na CRO i UX sloj, da uklonimo trenje i pomognemo korisniku baš u tačkama gde zapinje.
+
+## 1) Mobile brzina: 46 → 99 (Google PageSpeed)
+
+Prva izmena nije bila vizuelna, nego tehnička.
+
+Sredili smo kritične performans tačke i smanjili vreme učitavanja na mobilnim uređajima.
+
+Rezultat je bio vrlo jasan: manji bounce, veći broj korisnika koji realno stigne do korpe.
+
+## 2) Mini-korpa sa progresom do besplatne dostave
+
+U mini-korpu je dodat vizuelni progres koji pokazuje koliko još fali do besplatne dostave.
+
+Korisnik odmah ima jasan cilj i razlog da doda još jedan artikal.
+
+## 3) Order bumps koji imaju smisla
+
+Umesto nasumičnih predloga, prikazivani su proizvodi koji prirodno idu zajedno sa onim što je već u korpi.
+
+Ovaj potez je podigao prosečnu vrednost porudžbine bez agresivnog upsell pristupa.
+
+## 4) Realan prikaz zaliha
+
+Dodali smo transparentan prikaz stanja zaliha po veličinama.
+
+Kod obuće to rešava jednu od ključnih nedoumica: da li čekati ili poručiti odmah dok je odgovarajući broj dostupan.
+
+## 5) Niwa AI: kupon kad korisnik pokaže jasan intent
+
+Kad korisnik ubaci 2 proizvoda u korpu, Niwa aktivira dodatni kupon sa kratkim rokom trajanja.
+
+To ubrzava odluku u trenutku kada je kupac već pokazao visok nivo namere kupovine.
+
+## 6) Niwa AI: poruke koje skidaju najveći prigovor
+
+Ako sistem detektuje oklevanje, Niwa šalje poruku koja rešava najčešću prepreku.
+
+U ovom slučaju to je često bila dilema oko veličine. Niwa vodi korisnika kroz vodič veličina i pomaže da odmah proveri da li mu proizvod odgovara.
+
+## 7) Exit-intent trenutak
+
+Kada korisnik krene da napušta sajt, Niwa se javlja laganim, interaktivnim GIF-om koji zadržava pažnju i vraća ga u funnel.
+
+Kod dela korisnika to je rezultiralo dodatnom kupovinom umesto izlaska bez konverzije.
+
+## Zaključak
+
+Najveći rezultat nije došao iz jedne velike promene, nego iz nekoliko preciznih intervencija u ključnim tačkama kupovine.
+
+Kad se kombinuju brzina, jasniji tok u korpi, kontekstualni upsell i pravovremena AI asistencija, konverzija i profit rastu bez proporcionalnog rasta oglasnog budžeta.
+
+---
+
+Za širi kontekst pogledajte i [A/B testiranje: male promene, veliki rezultati](/blog/ab-testiranje-male-promene-veliki-rezultati), [Web shop nema prodaju: 5 razloga i rešenja](/web-shop-nema-prodaju) i [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026).
+`,
+  },
 ]
