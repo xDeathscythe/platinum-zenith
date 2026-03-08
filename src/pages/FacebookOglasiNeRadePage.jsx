@@ -205,7 +205,7 @@ export default function FacebookOglasiNeRadePage() {
             <Link to="/koliko-kosta-facebook-reklama" className="bg-panel rounded-full border border-edge px-4 py-2 text-ink-2 hover:border-ink-4 transition-colors">Cene Facebook reklama →</Link>
             <Link to="/web-shop-nema-prodaju" className="bg-panel rounded-full border border-edge px-4 py-2 text-ink-2 hover:border-ink-4 transition-colors">Web shop nema prodaju? →</Link>
             <Link to="/cene-digitalnog-marketinga" className="bg-panel rounded-full border border-edge px-4 py-2 text-ink-2 hover:border-ink-4 transition-colors">Cene digitalnog marketinga →</Link>
-            <Link to="/agencija-vs-freelancer" className="bg-panel rounded-full border border-edge px-4 py-2 text-ink-2 hover:border-ink-4 transition-colors">Agencija vs freelancer →</Link>
+            <Link to="/instagram-reklame-cena" className="bg-panel rounded-full border border-edge px-4 py-2 text-ink-2 hover:border-ink-4 transition-colors">Instagram reklame cena →</Link>
           </div>
         </div>
       </section>
