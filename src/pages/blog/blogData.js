@@ -4741,93 +4741,96 @@ Ako želite da analiziramo vaše ključne reči i kažemo gde trenutno preplaću
   {
     slug: 'netokracija-cro-case',
     title: 'DRAFT: Kako smo povećali profit 4x kroz nekoliko ključnih CRO izmena na domaćem web shopu',
-    excerpt: 'Case study najvećeg domaćeg brenda anatomske obuće: kako su brzina sajta, mini-korpa, order bumps i Niwa AI podigli profit 4x uz jasne to-do korake za primenu.',
+    excerpt: 'Prica iz prakse: najveci domaci brend anatomske obuce je kroz nekoliko pametnih promena podigao profit 4x. Evo sta je tacno uradjeno i kako to mozes da primenis.',
     date: '2026-03-08',
     category: 'E-Commerce',
-    readTime: '12 min',
+    readTime: '11 min',
     isDraft: true,
     content: `
-## Zašto je ovaj case važan
 
-Ovo nije priča o malom testu na sajtu sa deset porudžbina dnevno. Ovo je case najvećeg domaćeg brenda za prodaju anatomske obuće. Ime ne navodimo javno, ali obim saobraćaja i broj porudžbina su dovoljno veliki da svaka dobra ili loša odluka odmah postane vidljiva na rezultatu.
+## Napomena
 
-U trenutku kada smo ušli u projekat, glavni problem nije bio nedostatak poseta. Posete su postojale. Problem je bio ono što se dešava između klika i kupovine. Ljudi bi došli do proizvoda, ušli u korpu i onda odustali. Kada to traje dovoljno dugo, oglasni budžet počinje da radi protiv vas umesto za vas.
+Ovo je draft verzija pripremljena za editorial review.
 
-## Šta smo prvo uradili i zašto
+## Kratak kontekst
 
-Prvo smo zaustavili refleksno povećavanje budžeta za oglase. To je bila ključna odluka. Ako funnel curi, dodatni budžet samo brže puni rupu. Fokus smo prebacili na CRO sloj: brzina, mini-korpa, relevantne preporuke, jasnoća oko veličina i pametna asistencija u trenutku oklevanja.
+Ovo je prica iz rada sa najvecim domacim brendom anatomske obuce. Ime ne navodimo javno, ali broj poseta i porudzbina je veliki. Zato se svaka promena brzo vidi.
 
-## 1) Brzina na mobilnom: od 46 do 99
+Problem je bio jasan. Posete su postojale, ali prodaja nije pratila taj broj. Ljudi udju na sajt, pogledaju proizvod, ubace u korpu i onda odustanu.
 
-Šta smo konkretno uradili: skinuli smo tehnički otpor na kritičnim tačkama, posebno na stranici proizvoda i korpi. Sredili smo redosled učitavanja, rasteretili teške elemente i sklonili sve što nije moralo da se izvrši odmah.
+Najvaznija odluka je bila da ne dizemo odmah budzet za oglase. Prvo smo sredili put kupca kroz sajt. Tek posle toga ima smisla da se jace placa saobracaj.
 
-Kakav je rezultat: bounce je pao, a broj korisnika koji realno stignu do korpe je porastao. To je bio prvi signal da korisnici više ne odustaju zbog frustracije većeg čekanja.
+## 1) Ubrzali smo mobilni sajt (46 -> 99)
 
-Kako da ovo primenite kod sebe: ne krećite od teorije, krenite od tri stranice koje najviše utiču na prihod, početna, proizvod i korpa. Ako te tri nisu brze, sve ostalo je sekundarno.
+Sta smo uradili: popravili smo tehnicke stvari koje usporavaju ucitavanje. Posebno smo sredili stranicu proizvoda i korpu, jer tu kupac odlucuje.
 
-## 2) Mini-korpa sa jasnim razlogom da se kupovina poveća
+Kakav je rezultat: manje ljudi je napustalo sajt odmah, a vise njih je dolazilo do korpe. To je bio prvi veliki pomak.
 
-Šta smo konkretno uradili: u mini-korpu smo dodali vizuelni progres do besplatne dostave, da kupac tačno vidi koliko mu još fali do benefita.
+Kako isto da uradis kod sebe: izmeri tri stranice koje nose prodaju, pocetna, proizvod i korpa. Ako su te tri strane spore, svaki dinar za oglas je skuplji nego sto treba.
 
-Kakav je rezultat: prosečna vrednost porudžbine je porasla jer kupac više nije nagađao šta je sledeći pametan korak. Video je jasan cilj i imao je jasan razlog da ga dostigne.
+## 2) Mini-korpa je dobila jasan cilj
 
-Kako da ovo primenite kod sebe: besplatna dostava nije samo logistička odluka, to je komunikaciona poluga. Ako prag postoji, mora biti vidljiv u trenutku odluke, ne sakriven do checkout-a.
+Sta smo uradili: u mini-korpu smo dodali jasan prikaz koliko jos fali do besplatne dostave.
 
-## 3) Order bumps koji deluju prirodno, ne agresivno
+Kakav je rezultat: prosecna vrednost porudzbine je porasla. Kupac je imao jasan razlog da doda jos jedan proizvod.
 
-Šta smo konkretno uradili: umesto nasumičnih preporuka, prikazivali smo artikle koji prirodno idu zajedno sa proizvodom koji je već u korpi.
+Kako isto da uradis kod sebe: ako imas prag za besplatnu dostavu, prikazi ga tamo gde kupac donosi odluku. Ne sakrivaj ga do kraja kupovine.
 
-Kakav je rezultat: dodatne kupovine su porasle bez osećaja da kupca guramo. Kada preporuka ima smisla, korisnik je doživljava kao pomoć, ne kao prodajni pritisak.
+## 3) Dodali smo smislen predlog proizvoda
 
-Kako da ovo primenite kod sebe: ako ne možete da objasnite u jednoj rečenici zašto ta dva proizvoda idu zajedno, taj bump je verovatno pogrešan.
+Sta smo uradili: umesto nasumicnih preporuka, prikazivali smo proizvode koji stvarno idu zajedno sa onim sto je vec u korpi.
 
-## 4) Realan prikaz zaliha i brža odluka kupca
+Kakav je rezultat: vise dodatnih kupovina i veci racun, bez grubog prodajnog pritiska.
 
-Šta smo konkretno uradili: prikazivali smo stvarno stanje zaliha po veličinama. Kod obuće je to kritično jer ljudi često oklevaju baš zbog pitanja da li će odgovarajući broj ostati dostupan.
+Kako isto da uradis kod sebe: za svaki top proizvod odredi 2-3 prirodna dodatka. Ako ne mozes da objasnis zasto idu zajedno, taj predlog nije dobar.
 
-Kakav je rezultat: manje odlaganja kupovine i više odlučnih porudžbina. Ne zato što smo stvarali lažnu hitnost, nego zato što smo uklonili neizvesnost.
+## 4) Uveli smo realan prikaz zaliha
 
-Kako da ovo primenite kod sebe: transparentnost radi bolje od dramatike. Lažna oskudica kratkoročno može podići klik, ali dugoročno ruši poverenje.
+Sta smo uradili: prikazivali smo stvarno stanje zaliha po velicinama.
 
-## 5) Niwa AI kupon kada kupac već pokazuje nameru
+Kakav je rezultat: manje odlaganja odluke. Ljudi su brze kupovali kada su videli koliko brojeva je ostalo.
 
-Šta smo konkretno uradili: kada korisnik stavi dva proizvoda u korpu, Niwa aktivira dodatni kupon sa kratkim trajanjem.
+Kako isto da uradis kod sebe: ne koristi laznu hitnost. Prikazi realan broj komada i redovno osvezavaj stanje.
 
-Kakav je rezultat: brža odluka u trenutku kada je kupac već blizu kupovine. Nismo ga vraćali na početak, samo smo mu dali jasan razlog da završi ono što je već započeo.
+## 5) Niwa je aktivirao kupon u pravom trenutku
 
-Kako da ovo primenite kod sebe: kupon ima najveći efekat kada se aktivira kontekstualno. Ako ga dajete svima i stalno, on prestaje da bude podsticaj i postaje očekivanje.
+Sta smo uradili: kada korisnik ubaci dva proizvoda u korpu, Niwa posalje dodatni kupon koji kratko traje.
 
-## 6) Niwa AI poruke za najveći prigovor, ne za mali razgovor
+Kakav je rezultat: vise kupaca je zavrsavalo kupovinu umesto da ostavi korpu za kasnije.
 
-Šta smo konkretno uradili: analizirali smo gde ljudi najčešće zapinju i ispostavilo se da je dilema oko veličine najjača prepreka. Niwa zatim vodi korisnika kroz vodič veličina kroz kratku, interaktivnu razmenu.
+Kako isto da uradis kod sebe: kupon daj kada je namera kupovine vec visoka. Ako kupon ide svima stalno, gubi snagu.
 
-Kakav je rezultat: manje napuštenih korpi u fazi kada je namera već visoka. Kupac nije morao da traži informacije po sajtu, dobio ih je tačno kada su mu trebale.
+## 6) Niwa je resio najvecu dilemu: velicina
 
-Kako da ovo primenite kod sebe: AI u prodaji nije tu da bude zanimljiv, nego koristan. Prvo rešite najveći prigovor kupca, pa tek onda dodajte druge automatizacije.
+Sta smo uradili: kada sistem prepozna oklevanje, Niwa pokrece kratku poruku i vodi kupca kroz vodic velicina.
 
-## 7) Exit-intent koji vraća pažnju bez očajnog tona
+Kakav je rezultat: manje napustenih korpi zbog pitanja da li ce broj odgovarati.
 
-Šta smo konkretno uradili: kada korisnik krene da napusti sajt, Niwa se javlja kratkim interaktivnim i komičnim GIF-om koji vraća fokus i nudi sledeći smislen korak.
+Kako isto da uradis kod sebe: nadji jedan glavni razlog odustajanja i napravi jednu kratku pomoc bas za taj razlog.
 
-Kakav je rezultat: deo korisnika koji bi inače otišao zauvek vraćen je u tok kupovine, što je donelo dodatne porudžbine.
+## 7) Exit trenutak smo iskoristili pametno
 
-Kako da ovo primenite kod sebe: exit-intent mora da bude kratak, duhovit i koristan. Ako deluje kao blokada, efekat je suprotan.
+Sta smo uradili: kada korisnik krene da zatvori sajt, Niwa prikaze kratak interaktivan i komican GIF koji ga vrati u tok kupovine.
 
-## Šta je glavna lekcija iz ovog projekta
+Kakav je rezultat: deo ljudi koji bi otisao bez kupovine ostao je jos malo i zavrsio porudzbinu.
 
-Profit nije porastao 4x zbog jednog velikog poteza. Porastao je zato što smo smanjili trenje na više tačaka koje su direktno povezane sa odlukom o kupovini.
+Kako isto da uradis kod sebe: poruka na izlazu treba da bude kratka i korisna. Ako deluje napadno, efekat je suprotan.
 
-Redosled koji je radio je vrlo jasan: prvo brzina i stabilnost, zatim jasnoća u korpi, zatim kontekstualni podsticaji i AI asistencija na prigovorima. Tek posle toga ima smisla dodatno skalirati akviziciju.
+## Glavna lekcija
 
-## Kako da ovo preslikate na svoj shop u naredne dve nedelje
+Profit je porastao 4x, ali ne zbog jednog trika. Rast je dosao iz vise malih, pametnih promena koje su skinule trenje na pravim mestima.
 
-Ako želite brzu i realnu primenu, krenite ovim redom. Prva tri dana fokusirajte samo na performanse i tačke odustajanja. Od četvrtog dana uvedite mini-korpu sa progresom i relevantne order bumps. U drugoj nedelji dodajte realan prikaz zaliha, AI rešavanje najvećeg prigovora i test exit-intent poruke. Poslednja dva dana odvojite za čistu analizu metrika, AOV, conversion rate i abandonment rate, bez nagađanja.
+Redosled je bio presudan: prvo brzina, pa jasnija korpa, pa pametne poruke u pravom trenutku. Tek posle toga ima smisla da pojacas oglase.
 
-Ako nakon toga nema pomaka, problem obično nije u "sitnim CRO detaljima", već u ponudi, pozicioniranju ili kvalitetu saobraćaja.
+## Kako da ovo primenis za 14 dana
+
+Prva tri dana radi brzinu i mapu tacaka gde ljudi odustaju. Sledeca cetiri dana sredi mini-korpu i predloge proizvoda. U drugoj nedelji uvedi realnu zalihu, jednu pametnu poruku za glavni prigovor i test poruku na izlazu. Na kraju meri tri broja: prosecnu vrednost porudzbine, stopu konverzije i stopu napustanja korpe.
+
+Ako se ta tri broja pomere u dobrom smeru, na pravom si putu.
 
 ---
 
-Za širi kontekst pogledajte i [A/B testiranje: male promene, veliki rezultati](/blog/ab-testiranje-male-promene-veliki-rezultati), [Web shop nema prodaju: 5 razloga i rešenja](/web-shop-nema-prodaju) i [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026).
+Za siri kontekst pogledajte i [A/B testiranje: male promene, veliki rezultati](/blog/ab-testiranje-male-promene-veliki-rezultati), [Web shop nema prodaju: 5 razloga i resenja](/web-shop-nema-prodaju) i [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026).
 `,
   },
 ]
