@@ -161,7 +161,7 @@ export default function SeoOptimizacijaCenaPage() {
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[760px] mx-auto">
           <h2 className="text-[22px] font-medium text-ink mb-6 text-center">Povezane stranice</h2>
-          <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
             <Link to="/cene-digitalnog-marketinga" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
               <div className="text-[14px] font-medium text-ink mb-1">Cene digitalnog marketinga</div>
               <div className="text-[12px] text-ink-3">Kompletni paketi po mesečnoj ceni</div>
@@ -173,6 +173,10 @@ export default function SeoOptimizacijaCenaPage() {
             <Link to="/web-design" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
               <div className="text-[14px] font-medium text-ink mb-1">Web dizajn</div>
               <div className="text-[12px] text-ink-3">Sajtovi koji pretvaraju posetioce u klijente</div>
+            </Link>
+            <Link to="/blog/lokalni-seo-kako-se-pojaviti-prvi" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Lokalni SEO vodič</div>
+              <div className="text-[12px] text-ink-3">Kako da se pojavite prvi u svom gradu</div>
             </Link>
           </div>
         </div>
