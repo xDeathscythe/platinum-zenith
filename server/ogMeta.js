@@ -154,15 +154,15 @@ const ogMeta = {
   },
   '/marketing-za-advokate': {
     title: 'Marketing za Advokate | Digitalni Marketing za Advokatske Kancelarije | Platinum Zenith',
-    description: 'Marketing za advokatske kancelarije. SEO, Google Ads, sajt i content marketing. 10-20 kvalifikovanih upita mesečno.',
+    description: 'Marketing za advokatske kancelarije u Srbiji: SEO, Google Ads, sajt i content strategija koja donosi kvalifikovane upite i stabilan rast klijenata.',
   },
   '/marketing-za-stomatologe': {
     title: 'Marketing za Stomatologe | Digitalni Marketing za Ordinacije | Platinum Zenith',
-    description: 'Specijalizovani marketing za stomatološke ordinacije. Google Ads, lokalni SEO, sajt. 15-25 novih pacijenata mesečno.',
+    description: 'Specijalizovani marketing za stomatološke ordinacije: Google Ads, lokalni SEO, sajt i kampanje koje pune kalendar novim pacijentima i povećavaju prihod.',
   },
   '/marketing-za-restorane': {
     title: 'Marketing za Restorane | Digitalni Marketing za Ugostiteljstvo | Platinum Zenith',
-    description: 'Specijalizovani marketing za restorane u Srbiji. Google Business, društvene mreže, oglasi i sajt. Punimo stolice.',
+    description: 'Marketing za restorane u Srbiji: Google Business, društvene mreže, oglasi i sajt koji povećavaju rezervacije, porudžbine i popunjenost stolova.',
   },
   '/in-house-tim-vs-agencija': {
     title: 'In-House Tim ili Marketing Agencija? Uporedni Vodič 2026 | Platinum Zenith',
