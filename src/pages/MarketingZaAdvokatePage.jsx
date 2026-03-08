@@ -201,6 +201,7 @@ export default function MarketingZaAdvokatePage() {
             <Link to="/in-house-tim-vs-agencija" className="text-ink-3 hover:text-ink transition-colors">In-house vs agencija →</Link>
             <Link to="/cene-izrade-sajta" className="text-ink-3 hover:text-ink transition-colors">Cene izrade sajta →</Link>
             <Link to="/cene-digitalnog-marketinga" className="text-ink-3 hover:text-ink transition-colors">Cene marketinga →</Link>
+            <Link to="/blog/kako-izabrati-pravu-marketing-agenciju" className="text-ink-3 hover:text-ink transition-colors">Kako izabrati agenciju →</Link>
           </div>
         </div>
       </section>
