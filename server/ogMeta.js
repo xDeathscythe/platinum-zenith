@@ -106,11 +106,11 @@ const ogMeta = {
   },
   '/marketing-agencija-beograd': {
     title: 'Marketing Agencija za Beograd | Platinum Zenith',
-    description: 'Digitalni marketing za firme u Beogradu. Izrada sajtova, SEO, Google Ads, društvene mreže. Besplatna procena.',
+    description: 'Digitalni marketing za firme u Beogradu: izrada sajtova, SEO, Google Ads i društvene mreže uz jasne KPI ciljeve, mesečne izveštaje i plan rasta po budžetu.',
   },
   '/seo-optimizacija-cena': {
     title: 'Koliko Košta SEO Optimizacija u Srbiji 2026 | Platinum Zenith',
-    description: 'Realne cene SEO optimizacije. Osnovni od 300€, napredni od 500€, premium od 1.200€ mesečno. Besplatan audit sajta.',
+    description: 'Realne cene SEO optimizacije u Srbiji: osnovni paketi od 300€, napredni od 500€ i premium od 1.200€ mesečno, uz audit sajta i plan rasta pozicija.',
   },
   '/marketing-agencija-zrenjanin': {
     title: 'Marketing Agencija Zrenjanin | Platinum Zenith',
@@ -178,7 +178,7 @@ const ogMeta = {
   },
   '/alati/roi-kalkulator': {
     title: 'ROI Kalkulator za Marketing | Besplatan Alat | Platinum Zenith',
-    description: 'Izračunajte povrat investicije za vaš marketing budžet. Besplatan ROI kalkulator sa benchmarkovima po industriji.',
+    description: 'Izračunajte povrat investicije za marketing budžet uz besplatan ROI kalkulator, benchmarkove po industriji i brzu procenu koliko kampanje zaista donose profita.',
   },
 }
 
