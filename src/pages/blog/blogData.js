@@ -246,7 +246,7 @@ Takođe preporučujemo: [Kako čitati marketing izveštaj (vodič za vlasnike fi
   {
     slug: 'lead-magneti-koji-zapravo-konvertuju',
     title: 'Lead magneti koji zapravo konvertuju',
-    excerpt: 'Besplatan PDF koji niko ne preuzme nije lead magnet. Evo šta zapravo tera ljude da ostave email adresu.',
+    excerpt: 'Besplatan PDF koji niko ne preuzme nije lead magnet. Pravi lead magnet pogađa tačan problem publike i pretvara posetioce u kvalifikovane upite.',
     date: '2026-02-21',
     category: 'Marketing',
     readTime: '6 min',
