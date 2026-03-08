@@ -1037,7 +1037,7 @@ Ako vam treba partner koji razume ove principe i zna kako da ih primeni na vaš 
   {
     slug: '13-godina-poslovnog-iskustva-najskuplje-greske',
     title: '13 godina poslovnog iskustva: najskuplje greške koje firme prave',
-    excerpt: 'Svaka od ovih grešaka košta firme hiljade evra i mesece izgubljenog vremena. Naučite iz tuđeg iskustva.',
+    excerpt: 'Svaka od ovih grešaka košta firme hiljade evra i mesece izgubljenog vremena. Ovo su lekcije iz 13 godina rada koje mogu odmah da vam sačuvaju budžet.',
     date: '2026-02-20',
     category: 'Biznis',
     readTime: '7 min',
