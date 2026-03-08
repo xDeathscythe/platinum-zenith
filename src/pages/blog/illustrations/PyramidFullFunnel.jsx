@@ -52,7 +52,7 @@ export default function PyramidFullFunnel() {
                   <div className="pt-2 flex-1">
                     <div className="flex items-baseline gap-3 mb-1">
                       <span className="text-[12px] font-mono font-bold" style={{ color: `${step.color}80` }}>{step.num}</span>
-                      <h4 className="text-[18px] md:text-[20px] font-bold text-white">{step.title}</h4>
+                      <p className="text-[18px] md:text-[20px] font-bold text-white">{step.title}</p>
                     </div>
                     <p className="text-[15px] text-white/50 leading-relaxed">{step.desc}</p>
                   </div>

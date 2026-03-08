@@ -43,7 +43,7 @@ export default function FbCreativeTypes() {
             </div>
 
             <span className="text-[40px] block mb-4">{type.icon}</span>
-            <h4 className="text-[20px] font-bold mb-2" style={{ color: type.color }}>{type.title}</h4>
+            <p className="text-[20px] font-bold mb-2" style={{ color: type.color }}>{type.title}</p>
             <p className="text-[15px] leading-relaxed text-white/60">{type.desc}</p>
           </div>
         ))}
