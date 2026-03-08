@@ -1110,7 +1110,7 @@ Ako prepoznajete neku od ovih grešaka, [javite nam se](/kontakt). Pomoći ćemo
   {
     slug: 'od-nule-do-prvog-miliona-konkretni-koraci',
     title: 'Od nule do prvog miliona: konkretni koraci za vlasnike firmi',
-    excerpt: 'Nema prečica, ali ima redosled. Evo koraka koji najbrže vode od pokretanja biznisa do prvih milion evra.',
+    excerpt: 'Nema prečica, ali postoji redosled koji štedi godine lutanja. Ovo su koraci koji najbrže vode od starta biznisa do prvog miliona prihoda.',
     date: '2026-02-20',
     category: 'Biznis',
     readTime: '8 min',
