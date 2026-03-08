@@ -197,6 +197,9 @@ export function injectOgMeta(html, pathname) {
   let meta = ogMeta[cleanPath]
   const canonicalUrl = `${SITE_URL}${cleanPath}`
   const ogType = cleanPath.startsWith('/blog/') ? 'article' : 'website'
+  const robotsContent = cleanPath.startsWith('/draft/')
+    ? 'noindex, nofollow'
+    : 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1'
 
   // Dynamic blog post OG: lookup from blogOgData.json
   if (!meta && cleanPath.startsWith('/blog/')) {
@@ -224,6 +227,10 @@ export function injectOgMeta(html, pathname) {
     result = result.replace(
       /(<meta\s+property="og:type"\s+content=")[^"]*(")/,
       `$1${ogType}$2`
+    )
+    result = result.replace(
+      /(<meta\s+name="robots"\s+content=")[^"]*(")/,
+      `$1${robotsContent}$2`
     )
     return result
   }
@@ -282,6 +289,12 @@ export function injectOgMeta(html, pathname) {
   result = result.replace(
     /(<meta\s+name="twitter:description"\s+content=")[^"]*(")/,
     `$1${meta.description}$2`
+  )
+
+  // robots (noindex for internal draft routes)
+  result = result.replace(
+    /(<meta\s+name="robots"\s+content=")[^"]*(")/,
+    `$1${robotsContent}$2`
   )
 
   return result
