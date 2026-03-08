@@ -1599,7 +1599,7 @@ Ako želite da prestanete da zavisite od algoritama, [javite nam se](/kontakt). 
   {
     slug: 'google-ads-vs-facebook-ads-koji-je-bolji',
     title: 'Google Ads vs Facebook Ads: koji je bolji za vaš biznis',
-    excerpt: 'Jedan hvata ljude koji traže. Drugi hvata ljude koji skroluju. Odgovor koji je bolji zavisi od jedne stvari.',
+    excerpt: 'Google Ads hvata ljude koji aktivno traže rešenje, Facebook Ads ljude koji tek otkrivaju ponudu. Pravi izbor zavisi od marže, cilja kampanje i brzine povrata.',
     date: '2026-02-20',
     category: 'Marketing',
     readTime: '6 min',
