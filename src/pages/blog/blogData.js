@@ -167,7 +167,7 @@ Takođe preporučujemo: [5 grešaka na landing stranicama koje ubijaju konverzij
   {
     slug: 'kako-meriti-roi-marketinga-kpi-vodic',
     title: 'Kako meriti ROI marketinga: KPI vodič za vlasnike firmi',
-    excerpt: 'Ako ne merite, kockate se. Evo 8 brojeva koje svaka firma mora da prati da bi znala da li marketing radi.',
+    excerpt: 'Ako ne merite marketing, kockate se budžetom. Ovo je 8 ključnih KPI brojeva koje svaka firma treba da prati da bi znala šta donosi profit, a šta troši novac.',
     date: '2026-02-21',
     category: 'Marketing',
     readTime: '6 min',
