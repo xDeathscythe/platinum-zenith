@@ -134,7 +134,7 @@ const ogMeta = {
   },
   '/web-shop-nema-prodaju': {
     title: 'Web Shop Nema Prodaju? 5 Razloga i Rešenja | Platinum Zenith',
-    description: 'Vaš web shop ne prodaje? 5 razloga zašto i konkretna rešenja za svaki. Besplatna dijagnostika.',
+    description: 'Vaš web shop ima posete, ali nema prodaju? Otkrivamo 5 najčešćih razloga, konkretna rešenja za svaki problem i korake za brže podizanje konverzije.',
   },
   '/koliko-kosta-facebook-reklama': {
     title: 'Koliko Košta Facebook Reklama u Srbiji 2026 | Platinum Zenith',
@@ -166,11 +166,11 @@ const ogMeta = {
   },
   '/in-house-tim-vs-agencija': {
     title: 'In-House Tim ili Marketing Agencija? Uporedni Vodič 2026 | Platinum Zenith',
-    description: 'Zaposliti marketara ili angažovati agenciju? Konkretne cene u Srbiji, prednosti i mane oba pristupa.',
+    description: 'In-house tim ili agencija? Uporedni vodič sa realnim troškovima u Srbiji, prednostima i manama oba modela i jasnim kriterijumima za pravi izbor.',
   },
   '/fiksna-naknada-vs-revenue-share': {
     title: 'Fiksna Naknada vs Revenue Share | Koji Model Naplate je Bolji? | Platinum Zenith',
-    description: 'Uporedni vodič: fiksna mesečna naknada ili revenue share model naplate agencije. Prednosti, mane, primeri iz prakse.',
+    description: 'Fiksna naknada ili revenue share? Praktično poređenje modela naplate agencije sa primerima iz prakse, rizicima i savetima za profitabilniji izbor.',
   },
   '/facebook-oglasi-ne-rade': {
     title: 'Facebook Oglasi Ne Rade? 6 Razloga i Kako Popraviti | Platinum Zenith',
