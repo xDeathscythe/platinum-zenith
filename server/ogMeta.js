@@ -152,6 +152,10 @@ const ogMeta = {
     title: 'Koliko Košta Izrada WordPress Sajta u Srbiji 2026 | Platinum Zenith',
     description: 'Realne cene izrade WordPress sajta u Srbiji za 2026. Šta ulazi u cenu, koliko košta WooCommerce, održavanje i tipične greške koje dižu trošak.',
   },
+  '/draft/netokracija-cro-case': {
+    title: 'DRAFT: Kako smo povećali profit 4x kroz CRO izmene | Platinum Zenith',
+    description: 'Interni draft case study članka za Netokraciju o CRO optimizaciji: brzina sajta, mini-korpa, order bumps i Niwa AI logika u realnom e-commerce toku.',
+  },
   '/marketing-za-advokate': {
     title: 'Marketing za Advokate | Digitalni Marketing za Advokatske Kancelarije | Platinum Zenith',
     description: 'Marketing za advokatske kancelarije u Srbiji: SEO, Google Ads, sajt i content strategija koja donosi kvalifikovane upite i stabilan rast klijenata.',
