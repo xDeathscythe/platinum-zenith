@@ -77,41 +77,39 @@ export default function usePageMeta() {
 
     // Blog-specific schema
     const blogMatch = pathname.match(/^\/blog\/(.+)$/)
-    if (blogMatch || pathname === '/blog') {
+    if (blogMatch) {
       import('../pages/blog/blogData').then(({ blogPosts }) => {
         if (cancelled) return
 
-        if (blogMatch) {
-          const post = blogPosts.find(p => p.slug === blogMatch[1])
-          if (post) {
-            document.title = `${post.title} | Platinum Zenith Blog`
-            if (descTag) descTag.setAttribute('content', post.excerpt)
-            if (ogTitle) ogTitle.setAttribute('content', post.title)
-            if (ogDesc) ogDesc.setAttribute('content', post.excerpt)
+        const post = blogPosts.find(p => p.slug === blogMatch[1])
+        if (post) {
+          document.title = `${post.title} | Platinum Zenith Blog`
+          if (descTag) descTag.setAttribute('content', post.excerpt)
+          if (ogTitle) ogTitle.setAttribute('content', post.title)
+          if (ogDesc) ogDesc.setAttribute('content', post.excerpt)
 
-            // Article schema is emitted by BlogPostPage.jsx (richer: publisher, logo, wordCount, etc.)
-            // Only breadcrumb is set here to avoid duplicate ld+json
-
-            setJsonLd('ld-breadcrumb', {
-              '@context': 'https://schema.org',
-              '@type': 'BreadcrumbList',
-              itemListElement: [
-                { '@type': 'ListItem', position: 1, name: 'Početna', item: SITE_URL },
-                { '@type': 'ListItem', position: 2, name: 'Blog', item: `${SITE_URL}/blog` },
-                { '@type': 'ListItem', position: 3, name: post.title, item: `${SITE_URL}/blog/${post.slug}` },
-              ],
-            })
-          }
-        } else {
+          // Article schema is emitted by BlogPostPage.jsx (richer: publisher, logo, wordCount, etc.)
+          // Only breadcrumb is set here to avoid duplicate ld+json
           setJsonLd('ld-breadcrumb', {
             '@context': 'https://schema.org',
             '@type': 'BreadcrumbList',
             itemListElement: [
               { '@type': 'ListItem', position: 1, name: 'Početna', item: SITE_URL },
               { '@type': 'ListItem', position: 2, name: 'Blog', item: `${SITE_URL}/blog` },
+              { '@type': 'ListItem', position: 3, name: post.title, item: `${SITE_URL}/blog/${post.slug}` },
             ],
           })
         }
+      })
+    } else if (pathname === '/blog') {
+      // Blog index breadcrumb does not require loading full blogData bundle
+      setJsonLd('ld-breadcrumb', {
+        '@context': 'https://schema.org',
+        '@type': 'BreadcrumbList',
+        itemListElement: [
+          { '@type': 'ListItem', position: 1, name: 'Početna', item: SITE_URL },
+          { '@type': 'ListItem', position: 2, name: 'Blog', item: `${SITE_URL}/blog` },
+        ],
       })
     } else {
       const art = document.getElementById('ld-article')
