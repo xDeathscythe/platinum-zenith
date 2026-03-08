@@ -1239,7 +1239,7 @@ Ako želite da ubrzate rast vašeg biznisa, [javite nam se](/kontakt). Pomoći �
   {
     slug: 'zasto-vecina-firmi-stagnira-posle-prvog-miliona',
     title: 'Zašto većina firmi stagnira posle prvog miliona',
-    excerpt: 'Dostizanje prvog miliona zahteva jednu vrstu posla. Prelazak na sledeći nivo zahteva potpuno drugi pristup.',
+    excerpt: 'Dostizanje prvog miliona zahteva jednu vrstu posla, ali prelazak na sledeći nivo traži drugačiji sistem, timsku strukturu i disciplinu izvršenja.',
     date: '2026-02-20',
     category: 'Biznis',
     readTime: '6 min',
