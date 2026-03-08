@@ -890,7 +890,7 @@ Takođe preporučujemo: [Kako napraviti sales funnel koji radi dok vi spavate](/
   {
     slug: 'customer-retention-zadrzati-vs-naci-novog',
     title: 'Customer retention: zašto je jeftinije zadržati nego naći novog kupca',
-    excerpt: 'Novi kupac košta 5-7x više od zadržavanja postojećeg. Većina firmi i dalje troši 80% budžeta na akviziciju.',
+    excerpt: 'Novi kupac košta 5-7x više od zadržavanja postojećeg. Ovaj vodič pokazuje kako retention strategije povećavaju profit bez dizanja budžeta za akviziciju.',
     date: '2026-02-20',
     category: 'Marketing',
     readTime: '6 min',
