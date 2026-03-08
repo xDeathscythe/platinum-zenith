@@ -32,8 +32,13 @@ app.use('/api', kontaktRoutes)
 app.use('/api', analyticsRoutes)
 app.use('/api/admin', adminRoutes)
 
-// SEO: strip trailing slash (301 redirect) — prevents duplicate canonical URLs
+// SEO canonical redirects — prevent duplicate URLs
 app.use((req, res, next) => {
+  if (req.path === '/index.html') {
+    const query = req.originalUrl.includes('?') ? req.originalUrl.slice(req.originalUrl.indexOf('?')) : ''
+    return res.redirect(301, `/${query}`)
+  }
+
   if (req.path !== '/' && req.path.endsWith('/') && !req.path.startsWith('/api')) {
     const [pathname, query = ''] = req.originalUrl.split('?')
     const clean = pathname.replace(/\/+$/, '') + (query ? `?${query}` : '')
