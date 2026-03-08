@@ -24,7 +24,7 @@ export default function PrivacyPage() {
 
           <Section title="2. Podaci koje prikupljamo">
             <p>Prikupljamo sledeće kategorije podataka:</p>
-            <h3>2.1 Podaci koje nam direktno pružate</h3>
+            <h2 className="text-[18px] md:text-[20px] font-medium text-ink mt-6">2.1 Podaci koje nam direktno pružate</h2>
             <ul>
               <li>Ime i prezime</li>
               <li>Email adresa</li>
@@ -32,7 +32,7 @@ export default function PrivacyPage() {
               <li>Naziv kompanije</li>
               <li>Poruke poslate putem kontakt forme</li>
             </ul>
-            <h3>2.2 Podaci koji se automatski prikupljaju</h3>
+            <h2 className="text-[18px] md:text-[20px] font-medium text-ink mt-6">2.2 Podaci koji se automatski prikupljaju</h2>
             <ul>
               <li>IP adresa</li>
               <li>Tip pretraživača i uređaja</li>
@@ -40,7 +40,7 @@ export default function PrivacyPage() {
               <li>Vreme i trajanje posete</li>
               <li>Referalni izvor (kako ste došli na sajt)</li>
             </ul>
-            <h3>2.3 Podaci putem zakazivanja</h3>
+            <h2 className="text-[18px] md:text-[20px] font-medium text-ink mt-6">2.3 Podaci putem zakazivanja</h2>
             <ul>
               <li>Odabrani termin konsultacije</li>
               <li>Email adresa za potvrdu termina</li>
