@@ -74,7 +74,7 @@ const ogMeta = {
   },
   '/drustvene-mreze': {
     title: 'Društvene Mreže | Instagram, Facebook, TikTok, LinkedIn | Platinum Zenith',
-    description: 'Instagram, Facebook, TikTok i LinkedIn strategije koje grade publiku, podižu engagement i pretvaraju pratioce u kupce.',
+    description: 'Instagram, Facebook, TikTok i LinkedIn strategije za firme u Srbiji: content, community i plaćene kampanje koje podižu engagement, upite i prodaju.',
   },
   '/faq': {
     title: 'Česta Pitanja (FAQ) | Platinum Zenith',
@@ -86,7 +86,7 @@ const ogMeta = {
   },
   '/industrije/e-commerce': {
     title: 'E-Commerce Marketing | Platinum Zenith',
-    description: 'Kompletni sistemi za e-commerce brendove: Meta Ads, email automatizacija, CRO, retargeting.',
+    description: 'E-commerce marketing sistemi za online prodavnice: Meta Ads, email automatizacija, CRO i retargeting koji povećavaju konverzije i vrednost porudžbine.',
   },
   '/industrije/saas': {
     title: 'SaaS Marketing | Platinum Zenith',
