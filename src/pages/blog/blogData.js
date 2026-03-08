@@ -4741,73 +4741,195 @@ Ako želite da analiziramo vaše ključne reči i kažemo gde trenutno preplaću
   {
     slug: 'netokracija-cro-case',
     title: 'DRAFT: Kako smo povećali profit 4x kroz nekoliko ključnih CRO izmena na domaćem web shopu',
-    excerpt: 'Interni draft case study članka: kako su brzina sajta, mini-korpa, order bumps i Niwa AI asistencija podigli konverziju i profit bez povećanja budžeta za oglase.',
+    excerpt: 'Case study najvećeg domaćeg brenda anatomske obuće: kako su brzina sajta, mini-korpa, order bumps i Niwa AI podigli profit 4x uz jasne to-do korake za primenu.',
     date: '2026-03-08',
     category: 'E-Commerce',
-    readTime: '7 min',
+    readTime: '12 min',
     isDraft: true,
     content: `
 ## Napomena
 
 Ovo je draft verzija pripremljena za editorial review.
 
-## Kontekst
+## O kakvom brendu je reč
 
-Shop je imao stabilan saobraćaj, ali rezultat nije pratio broj poseta.
+Radi se o najvećem domaćem brendu za prodaju anatomske obuće. Ime ne navodimo javno, ali broj porudžbina i obim saobraćaja su dovoljno veliki da svaka promena odmah pokaže rezultat.
 
-Klasičan scenario: ljudi dođu, pogledaju proizvod i odu. U toj tački većina timova prvo diže budžet za oglase, ali to često samo ubrza gubitke.
+## Zašto je ovo važno vama
 
-Zato smo prvo išli na CRO i UX sloj, da uklonimo trenje i pomognemo korisniku baš u tačkama gde zapinje.
+Ako vodite e-commerce, verovatno znate ovaj scenario: promet postoji, oglasi rade, ali previše ljudi izađe sa sajta bez kupovine.
 
-## 1) Mobile brzina: 46 → 99 (Google PageSpeed)
+Upravo zato je ovaj case koristan. Nije fokus na jednom triku koji traje kratko, nego na sistemu koji smanjuje trenje kroz ceo tok kupovine.
 
-Prva izmena nije bila vizuelna, nego tehnička.
+## Početna situacija
 
-Sredili smo kritične performans tačke i smanjili vreme učitavanja na mobilnim uređajima.
+Pre optimizacije imali smo tri glavna problema:
 
-Rezultat je bio vrlo jasan: manji bounce, veći broj korisnika koji realno stigne do korpe.
+- mobilni sajt je bio spor (PageSpeed 46)
+- korisnici su ulazili u korpu pa odustajali
+- prosečna vrednost porudžbine je bila ispod potencijala
+
+Umesto da prvo dižemo budžet za oglase, odlučili smo da popravimo šta se dešava posle klika.
+
+## 1) Mobile brzina: 46 -> 99 (Google PageSpeed)
+
+Brzina je bila prva tačka jer spor sajt poskupljuje svaki kanal akvizicije.
+
+### To-do
+
+- uraditi performans audit (homepage, produkt, korpa)
+- ukloniti render-blocking assete
+- optimizovati slike i kritične skripte
+- proveriti cache politiku
+
+### How-to
+
+1. Izmeriti mobilne metrike na 3 ključne stranice.
+2. Napraviti listu najvećih uskih grla.
+3. Srediti jedno po jedno i meriti efekat posle svake izmene.
+4. Tek kad su Core Web Vitals stabilni, preći na sledeći sloj optimizacije.
+
+Rezultat: niži bounce i više korisnika koji realno stignu do korpe.
 
 ## 2) Mini-korpa sa progresom do besplatne dostave
 
-U mini-korpu je dodat vizuelni progres koji pokazuje koliko još fali do besplatne dostave.
+Kupcima je često falio jasan razlog da dodaju još jedan proizvod.
 
-Korisnik odmah ima jasan cilj i razlog da doda još jedan artikal.
+### To-do
 
-## 3) Order bumps koji imaju smisla
+- prikazati prag za besplatnu dostavu
+- dodati vizuelni progres u mini-korpi
+- napisati kratku poruku koja vodi ka sledećem koraku
 
-Umesto nasumičnih predloga, prikazivani su proizvodi koji prirodno idu zajedno sa onim što je već u korpi.
+### How-to
 
-Ovaj potez je podigao prosečnu vrednost porudžbine bez agresivnog upsell pristupa.
+- Definišite prag (npr. 5.000 RSD).
+- U mini-korpi uvek prikažite koliko još fali do praga.
+- Predložite artikle koji logično zatvaraju taj gap.
+
+Ova izmena je podigla broj porudžbina sa većim iznosom bez dodatnog pritiska na kupca.
+
+## 3) Order bumps koji prirodno idu zajedno
+
+Nasumični predlozi ne rade dobro. Kontekstualni predlozi rade.
+
+### To-do
+
+- mapirati najčešće kombinacije proizvoda
+- prikazivati bump samo kada postoji jasna logika
+- pratiti acceptance rate po kombinaciji
+
+### How-to
+
+- Uzmite top 20 proizvoda po prodaji.
+- Za svaki definišite 2-3 dopunska artikla.
+- Testirajte poziciju bumps-a u mini-korpi i na checkout-u.
+
+Rezultat je bio rast prosečne vrednosti porudžbine bez agresivnog upsell pristupa.
 
 ## 4) Realan prikaz zaliha
 
-Dodali smo transparentan prikaz stanja zaliha po veličinama.
+Kod obuće je česta dilema: da li čekati ili poručiti odmah.
 
-Kod obuće to rešava jednu od ključnih nedoumica: da li čekati ili poručiti odmah dok je odgovarajući broj dostupan.
+### To-do
 
-## 5) Niwa AI: kupon kad korisnik pokaže jasan intent
+- prikazati realnu zalihu po veličini
+- izbeći lažnu hitnost
+- uskladiti UI sa stvarnim stock podacima
 
-Kad korisnik ubaci 2 proizvoda u korpu, Niwa aktivira dodatni kupon sa kratkim rokom trajanja.
+### How-to
 
-To ubrzava odluku u trenutku kada je kupac već pokazao visok nivo namere kupovine.
+- Ako je ostalo malo komada, prikažite tačan broj.
+- Ako ima dovoljno zaliha, ne glumite oskudicu.
+- Ažurirajte stanje dovoljno često da kupac ne dobije pogrešnu informaciju.
 
-## 6) Niwa AI: poruke koje skidaju najveći prigovor
+Pošten signal oskudice ubrzava odluku i smanjuje odustajanje.
 
-Ako sistem detektuje oklevanje, Niwa šalje poruku koja rešava najčešću prepreku.
+## 5) Niwa AI kupon kad postoji jasan intent
 
-U ovom slučaju to je često bila dilema oko veličine. Niwa vodi korisnika kroz vodič veličina i pomaže da odmah proveri da li mu proizvod odgovara.
+Kad korisnik ubaci 2+ proizvoda u korpu, intent je već visok. Tada kupon ima smisla.
 
-## 7) Exit-intent trenutak
+### To-do
 
-Kada korisnik krene da napušta sajt, Niwa se javlja laganim, interaktivnim GIF-om koji zadržava pažnju i vraća ga u funnel.
+- definisati trigger (broj artikala ili vrednost korpe)
+- aktivirati kupon sa kratkim rokom
+- meriti redemption i uticaj na marginu
 
-Kod dela korisnika to je rezultiralo dodatnom kupovinom umesto izlaska bez konverzije.
+### How-to
 
-## Zaključak
+- Trigger: 2 proizvoda u korpi ili minimalna vrednost.
+- Poruka: kratka i jasna, bez spam tona.
+- Rok: dovoljno kratak da pokrene akciju, ali ne frustrira kupca.
 
-Najveći rezultat nije došao iz jedne velike promene, nego iz nekoliko preciznih intervencija u ključnim tačkama kupovine.
+## 6) Niwa AI poruke za najveći prigovor
 
-Kad se kombinuju brzina, jasniji tok u korpi, kontekstualni upsell i pravovremena AI asistencija, konverzija i profit rastu bez proporcionalnog rasta oglasnog budžeta.
+U ovom shopu najveći prigovor je bila dilema oko veličine.
+
+### To-do
+
+- identifikovati top 3 razloga odustajanja
+- za svaki napraviti kratku AI konverzaciju
+- povezati odgovor sa konkretnim alatom (size guide)
+
+### How-to
+
+- Kad korisnik okleva, Niwa pita šta ga tačno koči.
+- Ako je problem veličina, odmah vodi kroz vodič i postavlja kratka pitanja.
+- Na osnovu odgovora predlaže najverovatniji fit.
+
+Kupac dobija pomoć u pravom trenutku, bez čekanja podrške.
+
+## 7) Exit-intent trenutak koji vraća pažnju
+
+Kada korisnik krene da zatvori tab, Niwa aktivira lagan interaktivni GIF i poruku koja ga vraća u tok kupovine.
+
+### To-do
+
+- testirati 2-3 izlazna scenarija
+- držati ton prijateljski
+- meriti return-to-cart i finalnu kupovinu
+
+### How-to
+
+- Exit-intent neka bude kratka intervencija, ne blokada celog ekrana.
+- Ponudite konkretnu vrednost: pomoć, veličina, kupon ili kombinacija proizvoda.
+- Kad se korisnik vrati, ne prekidajte ga dodatnim porukama.
+
+## Rezultat i glavna lekcija
+
+Profit je porastao 4x, ali ne zbog jednog trika. Rast je došao iz nekoliko preciznih intervencija kroz ceo tok kupovine.
+
+Najvažniji redosled je:
+
+- prvo smanjiti trenje
+- zatim povećati jasnoću odluke
+- tek onda skalirati akviziciju
+
+Ako uradite obrnuto, plaćate skuplje klikove da vodite ljude u loš funnel.
+
+## Plan primene za narednih 14 dana
+
+### Dan 1-3
+
+- performans audit mobilnih stranica
+- dijagnostika tačaka odustajanja u korpi
+
+### Dan 4-7
+
+- mini-korpa progres do besplatne dostave
+- 3 najjača order bump para
+
+### Dan 8-11
+
+- realan prikaz zaliha po veličinama
+- AI poruka za najčešći prigovor
+
+### Dan 12-14
+
+- exit-intent test
+- analiza: AOV, conversion rate, abandonment rate
+
+Ako posle 14 dana ne vidite pomak, problem nije u sitnim tweakovima, nego u strukturi ponude ili kvalitetu saobraćaja.
 
 ---
 
