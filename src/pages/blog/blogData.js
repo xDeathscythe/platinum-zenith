@@ -826,7 +826,7 @@ Takođe preporučujemo: [Customer retention: zašto je jeftinije zadržati nego 
   {
     slug: 'retargeting-zasto-95-posetilaca-ne-kupi',
     title: 'Retargeting: zašto 95% posetilaca nikad ne kupi iz prvog pokušaja',
-    excerpt: 'Plaćate saobraćaj koji odlazi. Retargeting vraća te ljude nazad po ceni 5-10x nižoj od prvog klika.',
+    excerpt: 'Plaćate saobraćaj koji odlazi. Retargeting vraća te ljude po ceni i do 5-10x nižoj od prvog klika i pretvara izgubljene posete u konkretne upite i prodaju.',
     date: '2026-02-20',
     category: 'Marketing',
     readTime: '5 min',
