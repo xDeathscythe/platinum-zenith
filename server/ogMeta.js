@@ -150,7 +150,7 @@ const ogMeta = {
   },
   '/izrada-wordpress-sajta-cena': {
     title: 'Koliko Košta Izrada WordPress Sajta u Srbiji 2026 | Platinum Zenith',
-    description: 'Realne cene izrade WordPress sajta u Srbiji za 2026. Šta ulazi u cenu, koliko košta WooCommerce, održavanje i tipične greške koje dižu trošak.',
+    description: 'Cena izrade WordPress sajta u Srbiji 2026: trošak prezentacionog sajta i WooCommerce shopa, šta ulazi u cenu, rokovi i kako da izbegnete skrivene troškove.',
   },
   '/draft/netokracija-cro-case': {
     title: 'DRAFT: Kako smo povećali profit 4x kroz CRO izmene | Platinum Zenith',
