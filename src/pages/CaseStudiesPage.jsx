@@ -62,7 +62,7 @@ const colorMap = {
 export default function CaseStudiesPage() {
   return (
     <>
-      <PageMeta title="Studije Slucaja" description="Pogledajte rezultate nasih klijenata. E-commerce, lokalni biznisi, SaaS kompanije — konkretni brojevi, strategije i ROI koji smo ostvarili zajedno." />
+      <PageMeta title="Studije Slucaja" description="Studije slučaja sa realnim rezultatima klijenata: rast prihoda, niži trošak po kupovini i bolji ROI kroz digitalni marketing, web sajt i CRO optimizaciju." />
       {/* ─── Hero ─── */}
       <section className="relative min-h-[85vh] flex flex-col items-center text-center pt-[160px] md:pt-[220px] pb-[60px] px-4 md:px-8 overflow-hidden">
         <div className="absolute inset-0 z-0">

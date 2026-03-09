@@ -50,7 +50,7 @@ const ogMeta = {
   },
   '/case-studies': {
     title: 'Case Studies | Rezultati | Platinum Zenith',
-    description: 'Pogledajte realne rezultate klijenata Platinum Zenith agencije: rast konverzija, veći prihodi, bolji ROAS i jasni KPI pokazatelji po projektu.',
+    description: 'Studije slučaja sa realnim rezultatima klijenata: rast prihoda, niži trošak po kupovini i bolji ROI kroz digitalni marketing, web sajt i CRO optimizaciju.',
   },
   '/uslovi-koriscenja': {
     title: 'Uslovi Korišćenja | Platinum Zenith',
