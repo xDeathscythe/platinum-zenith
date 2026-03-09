@@ -4741,7 +4741,7 @@ Ako želite da analiziramo vaše ključne reči i kažemo gde trenutno preplaću
   {
     slug: 'netokracija-cro-case',
     title: 'DRAFT: Kako smo povećali profit 4x kroz nekoliko ključnih CRO izmena na domaćem web shopu',
-    excerpt: 'Priča iz prakse: najveći domaći brend anatomske obuće je kroz nekoliko pametnih promena podigao profit 4x. Evo šta je tačno urađeno i kako to možeš da primeniš.',
+    excerpt: 'Priča iz prakse: najveći domaći brend anatomske obuće je kroz nekoliko pametnih promena podigao profit 4x. Evo šta je tačno urađeno i kako to možete da primenite.',
     date: '2026-03-08',
     category: 'E-Commerce',
     readTime: '11 min',
@@ -4758,6 +4758,8 @@ Ovo je priča iz rada sa najvećim domaćim brendom anatomske obuće. Ime ne nav
 
 Problem je bio jasan. Posete su postojale, ali prodaja nije pratila taj broj. Ljudi uđu na sajt, pogledaju proizvod, ubace u korpu i onda odustanu.
 
+To nije izuzetak. Baymard Institute pokazuje da je prosečna stopa napuštanja korpe oko 70%. Zato je fokus bio da smanjimo odustajanje u ključnim koracima, a ne da jurimo samo više klikova.
+
 Najvažnija odluka je bila da ne dižemo odmah budžet za oglase. Prvo smo sredili put kupca kroz sajt. Tek posle toga ima smisla da se jače plaća saobraćaj.
 
 ## 1) Ubrzali smo mobilni sajt (46 -> 99)
@@ -4766,7 +4768,9 @@ Najvažnija odluka je bila da ne dižemo odmah budžet za oglase. Prvo smo sredi
 
 Kakav je rezultat: manje ljudi je napuštalo sajt odmah, a više njih je dolazilo do korpe. To je bio prvi veliki pomak.
 
-Kako isto da uradiš kod sebe: izmeri tri stranice koje nose prodaju, početna, proizvod i korpa. Ako su te tri strane spore, svaki dinar za oglas je skuplji nego što treba.
+Zašto je ovo bitno: Google je još ranije objavio da 53% mobilnih korisnika napusti stranicu ako učitavanje traje duže od 3 sekunde. Kad smo ubrzali kritične stranice, sklonili smo veliki deo tog početnog gubitka.
+
+Kako ovo možete da primenite kod sebe: izmerite tri stranice koje nose prodaju, početna, proizvod i korpa. Ako su te tri strane spore, svaki dinar za oglas je skuplji nego što treba.
 
 ## 2) Mini-korpa je dobila jasan cilj
 
@@ -4774,7 +4778,7 @@ Kako isto da uradiš kod sebe: izmeri tri stranice koje nose prodaju, početna, 
 
 Kakav je rezultat: prosečna vrednost porudžbine je porasla. Kupac je imao jasan razlog da doda još jedan proizvod.
 
-Kako isto da uradiš kod sebe: ako imaš prag za besplatnu dostavu, prikaži ga tamo gde kupac donosi odluku. Ne sakrivaj ga do kraja kupovine.
+Kako ovo možete da primenite kod sebe: ako imate prag za besplatnu dostavu, prikažite ga tamo gde kupac donosi odluku. Ne sakrivajte ga do kraja kupovine.
 
 ## 3) Dodali smo smislen predlog proizvoda
 
@@ -4782,7 +4786,7 @@ Kako isto da uradiš kod sebe: ako imaš prag za besplatnu dostavu, prikaži ga 
 
 Kakav je rezultat: više dodatnih kupovina i veći račun, bez grubog prodajnog pritiska.
 
-Kako isto da uradiš kod sebe: za svaki top proizvod odredi 2-3 prirodna dodatka. Ako ne možeš da objasniš zašto idu zajedno, taj predlog nije dobar.
+Kako ovo možete da primenite kod sebe: za svaki top proizvod odredite 2-3 prirodna dodatka. Ako ne možete da objasnite zašto idu zajedno, taj predlog nije dobar.
 
 ## 4) Uveli smo realan prikaz zaliha
 
@@ -4790,7 +4794,7 @@ Kako isto da uradiš kod sebe: za svaki top proizvod odredi 2-3 prirodna dodatka
 
 Kakav je rezultat: manje odlaganja odluke. Ljudi su brže kupovali kada su videli koliko brojeva je ostalo.
 
-Kako isto da uradiš kod sebe: ne koristi lažnu hitnost. Prikaži realan broj komada i redovno osvežavaj stanje.
+Kako ovo možete da primenite kod sebe: ne koristite lažnu hitnost. Prikažite realan broj komada i redovno osvežavajte stanje.
 
 ## 5) Niwa je aktivirao kupon u pravom trenutku
 
@@ -4798,7 +4802,7 @@ Kako isto da uradiš kod sebe: ne koristi lažnu hitnost. Prikaži realan broj k
 
 Kakav je rezultat: više kupaca je završavalo kupovinu umesto da ostavi korpu za kasnije.
 
-Kako isto da uradiš kod sebe: kupon daj kada je namera kupovine već visoka. Ako kupon ide svima stalno, gubi snagu.
+Kako ovo možete da primenite kod sebe: kupon dajte kada je namera kupovine već visoka. Ako kupon ide svima stalno, gubi snagu.
 
 ## 6) Niwa je rešio najveću dilemu: veličina
 
@@ -4806,7 +4810,9 @@ Kako isto da uradiš kod sebe: kupon daj kada je namera kupovine već visoka. Ak
 
 Kakav je rezultat: manje napuštenih korpi zbog pitanja da li će broj odgovarati.
 
-Kako isto da uradiš kod sebe: nađi jedan glavni razlog odustajanja i napravi jednu kratku pomoć baš za taj razlog.
+Zašto chat pomaže: Salesforce istraživanja pokazuju da kupci očekuju vrlo brz odgovor kada kontaktiraju brend. Kada kupac dobije pomoć odmah, manja je šansa da napusti kupovinu i ode kod konkurencije.
+
+Kako ovo možete da primenite kod sebe: nađite jedan glavni razlog odustajanja i napravite jednu kratku pomoć baš za taj razlog.
 
 ## 7) Exit trenutak smo iskoristili pametno
 
@@ -4814,17 +4820,17 @@ Kako isto da uradiš kod sebe: nađi jedan glavni razlog odustajanja i napravi j
 
 Kakav je rezultat: deo ljudi koji bi otišao bez kupovine ostao je još malo i završio porudžbinu.
 
-Kako isto da uradiš kod sebe: poruka na izlazu treba da bude kratka i korisna. Ako deluje napadno, efekat je suprotan.
+Kako ovo možete da primenite kod sebe: poruka na izlazu treba da bude kratka i korisna. Ako deluje napadno, efekat je suprotan.
 
 ## Glavna lekcija
 
 Profit je porastao 4x, ali ne zbog jednog trika. Rast je došao iz više malih, pametnih promena koje su skinule trenje na pravim mestima.
 
-Redosled je bio presudan: prvo brzina, pa jasnija korpa, pa pametne poruke u pravom trenutku. Tek posle toga ima smisla da pojačaš oglase.
+Redosled je bio presudan: prvo brzina, pa jasnija korpa, pa pametne poruke u pravom trenutku. Tek posle toga ima smisla da pojačate oglase.
 
-## Kako da ovo primeniš za 14 dana
+## Kako da ovo primenite za 14 dana
 
-Prva tri dana radi brzinu i mapu tačaka gde ljudi odustaju. Sledeća četiri dana sredi mini-korpu i predloge proizvoda. U drugoj nedelji uvedi realnu zalihu, jednu pametnu poruku za glavni prigovor i test poruku na izlazu. Na kraju meri tri broja: prosečnu vrednost porudžbine, stopu konverzije i stopu napuštanja korpe.
+Prva tri dana radite brzinu i mapu tačaka gde ljudi odustaju. Sledeća četiri dana sredite mini-korpu i predloge proizvoda. U drugoj nedelji uvedite realnu zalihu, jednu pametnu poruku za glavni prigovor i test poruku na izlazu. Na kraju merite tri broja: prosečnu vrednost porudžbine, stopu konverzije i stopu napuštanja korpe.
 
 Ako se ta tri broja pomere u dobrom smeru, na pravom si putu.
 
