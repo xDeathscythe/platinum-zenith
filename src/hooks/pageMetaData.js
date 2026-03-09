@@ -22,7 +22,7 @@ export const pageMeta = {
   },
   '/consulting': {
     title: 'Poslovno Savetovanje | Platinum Zenith',
-    description: 'Biznis audit, strategija rasta i implementacija za firme u Srbiji. Tražimo kočnice u vašem biznisu i pomažemo da ih razbijete. 5 programa konsaltinga.',
+    description: 'Biznis konsultacije za vlasnike firmi: audit, strategija rasta i implementacija kroz jasne akcione korake koji uklanjaju uska grla i podižu profit.',
     keywords: 'poslovno savetovanje, biznis consulting, strategija rasta, audit, marketinška strategija',
   },
   '/cro': {
