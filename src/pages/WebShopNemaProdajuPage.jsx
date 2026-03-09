@@ -151,7 +151,7 @@ export default function WebShopNemaProdajuPage() {
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[760px] mx-auto">
           <h2 className="text-[22px] font-medium text-ink mb-6 text-center">Povezane stranice</h2>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-4">
             <Link to="/cro" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
               <div className="text-[14px] font-medium text-ink mb-1">CRO optimizacija</div>
               <div className="text-[12px] text-ink-3">Više konverzija, isti budžet</div>
@@ -167,6 +167,10 @@ export default function WebShopNemaProdajuPage() {
             <Link to="/blog/kako-povecati-online-prodaju" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
               <div className="text-[14px] font-medium text-ink mb-1">Kako povećati online prodaju</div>
               <div className="text-[12px] text-ink-3">10 konkretnih koraka za web shop</div>
+            </Link>
+            <Link to="/google-reklame-cena" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Google reklame cena</div>
+              <div className="text-[12px] text-ink-3">Budžet za kupce sa namerom kupovine</div>
             </Link>
           </div>
         </div>
