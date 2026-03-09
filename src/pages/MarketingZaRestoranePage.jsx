@@ -170,6 +170,7 @@ export default function MarketingZaRestoranePage() {
             <Link to="/cene-digitalnog-marketinga" className="text-ink-3 hover:text-ink transition-colors">Cene marketinga →</Link>
             <Link to="/agencija-vs-freelancer" className="text-ink-3 hover:text-ink transition-colors">Agencija vs freelancer →</Link>
             <Link to="/koliko-kosta-facebook-reklama" className="text-ink-3 hover:text-ink transition-colors">Cene Facebook reklama →</Link>
+            <Link to="/google-reklame-cena" className="text-ink-3 hover:text-ink transition-colors">Google reklame cena →</Link>
           </div>
         </div>
       </section>
