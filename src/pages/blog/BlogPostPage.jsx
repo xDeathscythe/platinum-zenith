@@ -135,7 +135,7 @@ export default function BlogPostPage() {
     return (
       <div className="min-h-screen flex items-center justify-center">
         <div className="text-center">
-          <h1 className="text-[48px] font-bold mb-4">404</h1>
+          <h2 className="text-[48px] font-bold mb-4">404</h2>
           <p className="text-ink-3 text-[18px] mb-8">Stranica nije pronađena.</p>
           <Link to="/blog" className="text-blue-400 hover:underline">← Nazad na blog</Link>
         </div>
