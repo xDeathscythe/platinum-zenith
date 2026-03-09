@@ -117,7 +117,7 @@ export default function MarketingAgencijaBgPage() {
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[760px] mx-auto">
           <h2 className="text-[22px] font-medium text-ink mb-6 text-center">Povezane stranice</h2>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-4">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-6 gap-4">
             <Link to="/marketing-agencija-novi-sad" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
               <div className="text-[14px] font-medium text-ink mb-1">Marketing agencija Novi Sad</div>
               <div className="text-[12px] text-ink-3">Digitalni marketing u NS</div>
@@ -137,6 +137,10 @@ export default function MarketingAgencijaBgPage() {
             <Link to="/google-reklame-cena" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
               <div className="text-[14px] font-medium text-ink mb-1">Google reklame cena</div>
               <div className="text-[12px] text-ink-3">Procena budžeta za lokalnu akviziciju u BG</div>
+            </Link>
+            <Link to="/instagram-reklame-cena" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Instagram reklame cena</div>
+              <div className="text-[12px] text-ink-3">Vizualni kanal za lokalni reach u BG</div>
             </Link>
           </div>
         </div>
