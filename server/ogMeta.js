@@ -102,7 +102,7 @@ const ogMeta = {
   },
   '/paketi': {
     title: 'Paketi i Cene | Starter, Growth, Enterprise | Platinum Zenith',
-    description: 'Izaberite paket koji odgovara vašim potrebama. Starter od €499, Growth od €1.499 ili custom Enterprise rešenje za vaš biznis.',
+    description: 'Paketi i cene za digitalni marketing i web usluge: Starter od 499€, Growth od 1.499€ i Enterprise po meri, bez skrivenih troškova i uz revenue share opciju.',
   },
   '/marketing-agencija-beograd': {
     title: 'Marketing Agencija za Beograd | Platinum Zenith',
