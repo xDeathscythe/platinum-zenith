@@ -186,9 +186,9 @@ export default function CeneIzradeSajtaPage() {
               <div className="text-[14px] font-medium text-ink mb-1">Cene digitalnog marketinga</div>
               <div className="text-[12px] text-ink-3">Koliko košta marketing mesečno</div>
             </Link>
-            <Link to="/paketi" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
-              <div className="text-[14px] font-medium text-ink mb-1">Naši paketi</div>
-              <div className="text-[12px] text-ink-3">Starter, Growth, Enterprise</div>
+            <Link to="/izrada-wordpress-sajta-cena" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Cena WordPress sajta</div>
+              <div className="text-[12px] text-ink-3">Realni rasponi i šta ulazi u cenu</div>
             </Link>
           </div>
         </div>
