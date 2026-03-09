@@ -17,7 +17,7 @@ export const pageMeta = {
   },
   '/digitalni-marketing': {
     title: 'Digitalni Marketing | Zenith Sistem | Platinum Zenith',
-    description: 'Meta Ads, Google Ads, TikTok Ads sa prosečnim ROAS-om od 15x. Dokazan sistem za akviziciju klijenata u Srbiji. Mesečni izveštaji sa konkretnim brojevima.',
+    description: 'Meta Ads, Google Ads i TikTok Ads kampanje sa jasnim KPI-jevima, optimizacijom budžeta i sistemom koji donosi predvidljivu akviziciju klijenata.',
     keywords: 'digitalni marketing, Meta Ads, Google Ads, TikTok Ads, ROAS, PPC, online oglašavanje',
   },
   '/consulting': {
