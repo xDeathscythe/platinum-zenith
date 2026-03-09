@@ -4591,7 +4591,7 @@ Zato fokus stavljamo na tri stvari:
 - tehnička stabilnost i brzina
 - merenje i iteracije posle lansiranja
 
-Ako želite širi pregled budžeta, pogledajte i [cene izrade sajta](/cene-izrade-sajta), [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena), [cene digitalnog marketinga](/cene-digitalnog-marketinga) i [Google reklame cena](/google-reklame-cena).
+Ako želite širi pregled budžeta, pogledajte i [cene izrade sajta](/cene-izrade-sajta), [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena), [cene digitalnog marketinga](/cene-digitalnog-marketinga), [Google reklame cena](/google-reklame-cena), [Instagram reklame cena](/instagram-reklame-cena) i [koliko košta Facebook reklama](/koliko-kosta-facebook-reklama).
 
 Takođe preporučujemo: [Kako napraviti landing stranicu koja konvertuje](/blog/kako-napraviti-landing-stranicu-koja-konvertuje).
 
