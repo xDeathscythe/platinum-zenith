@@ -12,7 +12,7 @@ export const pageMeta = {
   },
   '/web-design': {
     title: 'Web Design & Izrada Sajta | Platinum Zenith',
-    description: 'Profesionalna izrada sajtova koji pretvaraju posetioce u klijente. Web design, SEO i PageSpeed optimizacija od prvog dana. Isporuka za 2-8 nedelja.',
+    description: 'Sajtovi koji pretvaraju posetioce u klijente uz mobile-first UX, PageSpeed 95+ i strukturu koja podiže upite, prodaju i dugoročnu SEO vidljivost.',
     keywords: 'web dizajn, izrada sajta, web development, WordPress, React, responsive dizajn, sajt koji prodaje',
   },
   '/digitalni-marketing': {
