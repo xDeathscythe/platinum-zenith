@@ -27,7 +27,7 @@ export const pageMeta = {
   },
   '/cro': {
     title: 'CRO Optimizacija Konverzije | Platinum Zenith',
-    description: 'Više klijenata sa istim budžetom. Prosečno poboljšanje konverzija od 300%. Heatmap analiza, A/B testiranje, UX audit i optimizacija landing stranica.',
+    description: 'CRO optimizacija koja diže broj upita i prodaja bez većeg budžeta: heatmap analiza, A/B testovi, UX audit i konkretne iteracije za rast konverzije.',
     keywords: 'CRO, optimizacija konverzije, A/B testiranje, UX audit, heatmap, bounce rate',
   },
   '/kontakt': { title: 'Kontakt | Platinum Zenith', description: 'Kontaktirajte Platinum Zenith i zakažite besplatne konsultacije u Zrenjaninu. Pošaljite upit i dobijte konkretan plan rasta za vaš biznis.', keywords: 'kontakt, konsultacije, Platinum Zenith kontakt, Zrenjanin' },
