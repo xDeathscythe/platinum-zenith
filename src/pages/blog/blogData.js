@@ -4741,7 +4741,7 @@ Ako želite da analiziramo vaše ključne reči i kažemo gde trenutno preplaću
   {
     slug: 'netokracija-cro-case',
     title: 'DRAFT: Kako smo povećali profit 4x kroz nekoliko ključnih CRO izmena na domaćem web shopu',
-    excerpt: 'Prica iz prakse: najveci domaci brend anatomske obuce je kroz nekoliko pametnih promena podigao profit 4x. Evo sta je tacno uradjeno i kako to mozes da primenis.',
+    excerpt: 'Priča iz prakse: najveći domaći brend anatomske obuće je kroz nekoliko pametnih promena podigao profit 4x. Evo šta je tačno urađeno i kako to možeš da primeniš.',
     date: '2026-03-08',
     category: 'E-Commerce',
     readTime: '11 min',
@@ -4754,83 +4754,83 @@ Ovo je draft verzija pripremljena za editorial review.
 
 ## Kratak kontekst
 
-Ovo je prica iz rada sa najvecim domacim brendom anatomske obuce. Ime ne navodimo javno, ali broj poseta i porudzbina je veliki. Zato se svaka promena brzo vidi.
+Ovo je priča iz rada sa najvećim domaćim brendom anatomske obuće. Ime ne navodimo javno, ali broj poseta i porudžbina je veliki. Zato se svaka promena brzo vidi.
 
-Problem je bio jasan. Posete su postojale, ali prodaja nije pratila taj broj. Ljudi udju na sajt, pogledaju proizvod, ubace u korpu i onda odustanu.
+Problem je bio jasan. Posete su postojale, ali prodaja nije pratila taj broj. Ljudi uđu na sajt, pogledaju proizvod, ubace u korpu i onda odustanu.
 
-Najvaznija odluka je bila da ne dizemo odmah budzet za oglase. Prvo smo sredili put kupca kroz sajt. Tek posle toga ima smisla da se jace placa saobracaj.
+Najvažnija odluka je bila da ne dižemo odmah budžet za oglase. Prvo smo sredili put kupca kroz sajt. Tek posle toga ima smisla da se jače plaća saobraćaj.
 
 ## 1) Ubrzali smo mobilni sajt (46 -> 99)
 
-Sta smo uradili: popravili smo tehnicke stvari koje usporavaju ucitavanje. Posebno smo sredili stranicu proizvoda i korpu, jer tu kupac odlucuje.
+Šta smo uradili: popravili smo tehničke stvari koje usporavaju učitavanje. Posebno smo sredili stranicu proizvoda i korpu, jer tu kupac odlučuje.
 
-Kakav je rezultat: manje ljudi je napustalo sajt odmah, a vise njih je dolazilo do korpe. To je bio prvi veliki pomak.
+Kakav je rezultat: manje ljudi je napuštalo sajt odmah, a više njih je dolazilo do korpe. To je bio prvi veliki pomak.
 
-Kako isto da uradis kod sebe: izmeri tri stranice koje nose prodaju, pocetna, proizvod i korpa. Ako su te tri strane spore, svaki dinar za oglas je skuplji nego sto treba.
+Kako isto da uradiš kod sebe: izmeri tri stranice koje nose prodaju, početna, proizvod i korpa. Ako su te tri strane spore, svaki dinar za oglas je skuplji nego što treba.
 
 ## 2) Mini-korpa je dobila jasan cilj
 
-Sta smo uradili: u mini-korpu smo dodali jasan prikaz koliko jos fali do besplatne dostave.
+Šta smo uradili: u mini-korpu smo dodali jasan prikaz koliko još fali do besplatne dostave.
 
-Kakav je rezultat: prosecna vrednost porudzbine je porasla. Kupac je imao jasan razlog da doda jos jedan proizvod.
+Kakav je rezultat: prosečna vrednost porudžbine je porasla. Kupac je imao jasan razlog da doda još jedan proizvod.
 
-Kako isto da uradis kod sebe: ako imas prag za besplatnu dostavu, prikazi ga tamo gde kupac donosi odluku. Ne sakrivaj ga do kraja kupovine.
+Kako isto da uradiš kod sebe: ako imaš prag za besplatnu dostavu, prikaži ga tamo gde kupac donosi odluku. Ne sakrivaj ga do kraja kupovine.
 
 ## 3) Dodali smo smislen predlog proizvoda
 
-Sta smo uradili: umesto nasumicnih preporuka, prikazivali smo proizvode koji stvarno idu zajedno sa onim sto je vec u korpi.
+Šta smo uradili: umesto nasumičnih preporuka, prikazivali smo proizvode koji stvarno idu zajedno sa onim što je već u korpi.
 
-Kakav je rezultat: vise dodatnih kupovina i veci racun, bez grubog prodajnog pritiska.
+Kakav je rezultat: više dodatnih kupovina i veći račun, bez grubog prodajnog pritiska.
 
-Kako isto da uradis kod sebe: za svaki top proizvod odredi 2-3 prirodna dodatka. Ako ne mozes da objasnis zasto idu zajedno, taj predlog nije dobar.
+Kako isto da uradiš kod sebe: za svaki top proizvod odredi 2-3 prirodna dodatka. Ako ne možeš da objasniš zašto idu zajedno, taj predlog nije dobar.
 
 ## 4) Uveli smo realan prikaz zaliha
 
-Sta smo uradili: prikazivali smo stvarno stanje zaliha po velicinama.
+Šta smo uradili: prikazivali smo stvarno stanje zaliha po veličinama.
 
-Kakav je rezultat: manje odlaganja odluke. Ljudi su brze kupovali kada su videli koliko brojeva je ostalo.
+Kakav je rezultat: manje odlaganja odluke. Ljudi su brže kupovali kada su videli koliko brojeva je ostalo.
 
-Kako isto da uradis kod sebe: ne koristi laznu hitnost. Prikazi realan broj komada i redovno osvezavaj stanje.
+Kako isto da uradiš kod sebe: ne koristi lažnu hitnost. Prikaži realan broj komada i redovno osvežavaj stanje.
 
 ## 5) Niwa je aktivirao kupon u pravom trenutku
 
-Sta smo uradili: kada korisnik ubaci dva proizvoda u korpu, Niwa posalje dodatni kupon koji kratko traje.
+Šta smo uradili: kada korisnik ubaci dva proizvoda u korpu, Niwa pošalje dodatni kupon koji kratko traje.
 
-Kakav je rezultat: vise kupaca je zavrsavalo kupovinu umesto da ostavi korpu za kasnije.
+Kakav je rezultat: više kupaca je završavalo kupovinu umesto da ostavi korpu za kasnije.
 
-Kako isto da uradis kod sebe: kupon daj kada je namera kupovine vec visoka. Ako kupon ide svima stalno, gubi snagu.
+Kako isto da uradiš kod sebe: kupon daj kada je namera kupovine već visoka. Ako kupon ide svima stalno, gubi snagu.
 
-## 6) Niwa je resio najvecu dilemu: velicina
+## 6) Niwa je rešio najveću dilemu: veličina
 
-Sta smo uradili: kada sistem prepozna oklevanje, Niwa pokrece kratku poruku i vodi kupca kroz vodic velicina.
+Šta smo uradili: kada sistem prepozna oklevanje, Niwa pokreće kratku poruku i vodi kupca kroz vodič veličina.
 
-Kakav je rezultat: manje napustenih korpi zbog pitanja da li ce broj odgovarati.
+Kakav je rezultat: manje napuštenih korpi zbog pitanja da li će broj odgovarati.
 
-Kako isto da uradis kod sebe: nadji jedan glavni razlog odustajanja i napravi jednu kratku pomoc bas za taj razlog.
+Kako isto da uradiš kod sebe: nađi jedan glavni razlog odustajanja i napravi jednu kratku pomoć baš za taj razlog.
 
 ## 7) Exit trenutak smo iskoristili pametno
 
-Sta smo uradili: kada korisnik krene da zatvori sajt, Niwa prikaze kratak interaktivan i komican GIF koji ga vrati u tok kupovine.
+Šta smo uradili: kada korisnik krene da zatvori sajt, Niwa prikaže kratak interaktivan i komičan GIF koji ga vrati u tok kupovine.
 
-Kakav je rezultat: deo ljudi koji bi otisao bez kupovine ostao je jos malo i zavrsio porudzbinu.
+Kakav je rezultat: deo ljudi koji bi otišao bez kupovine ostao je još malo i završio porudžbinu.
 
-Kako isto da uradis kod sebe: poruka na izlazu treba da bude kratka i korisna. Ako deluje napadno, efekat je suprotan.
+Kako isto da uradiš kod sebe: poruka na izlazu treba da bude kratka i korisna. Ako deluje napadno, efekat je suprotan.
 
 ## Glavna lekcija
 
-Profit je porastao 4x, ali ne zbog jednog trika. Rast je dosao iz vise malih, pametnih promena koje su skinule trenje na pravim mestima.
+Profit je porastao 4x, ali ne zbog jednog trika. Rast je došao iz više malih, pametnih promena koje su skinule trenje na pravim mestima.
 
-Redosled je bio presudan: prvo brzina, pa jasnija korpa, pa pametne poruke u pravom trenutku. Tek posle toga ima smisla da pojacas oglase.
+Redosled je bio presudan: prvo brzina, pa jasnija korpa, pa pametne poruke u pravom trenutku. Tek posle toga ima smisla da pojačaš oglase.
 
-## Kako da ovo primenis za 14 dana
+## Kako da ovo primeniš za 14 dana
 
-Prva tri dana radi brzinu i mapu tacaka gde ljudi odustaju. Sledeca cetiri dana sredi mini-korpu i predloge proizvoda. U drugoj nedelji uvedi realnu zalihu, jednu pametnu poruku za glavni prigovor i test poruku na izlazu. Na kraju meri tri broja: prosecnu vrednost porudzbine, stopu konverzije i stopu napustanja korpe.
+Prva tri dana radi brzinu i mapu tačaka gde ljudi odustaju. Sledeća četiri dana sredi mini-korpu i predloge proizvoda. U drugoj nedelji uvedi realnu zalihu, jednu pametnu poruku za glavni prigovor i test poruku na izlazu. Na kraju meri tri broja: prosečnu vrednost porudžbine, stopu konverzije i stopu napuštanja korpe.
 
 Ako se ta tri broja pomere u dobrom smeru, na pravom si putu.
 
 ---
 
-Za siri kontekst pogledajte i [A/B testiranje: male promene, veliki rezultati](/blog/ab-testiranje-male-promene-veliki-rezultati), [Web shop nema prodaju: 5 razloga i resenja](/web-shop-nema-prodaju) i [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026).
+Za širi kontekst pogledajte i [A/B testiranje: male promene, veliki rezultati](/blog/ab-testiranje-male-promene-veliki-rezultati), [Web shop nema prodaju: 5 razloga i rešenja](/web-shop-nema-prodaju) i [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026).
 `,
   },
 ]
