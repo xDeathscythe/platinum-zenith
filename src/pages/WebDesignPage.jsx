@@ -46,6 +46,7 @@ function BrowserFrame({ src, name, type, result }) {
           alt={`${name} - ${type} sajt dizajn, rezultat: ${result}`}
           className="w-full h-auto object-cover group-hover:scale-[1.02] transition-transform duration-500"
           loading="lazy"
+          decoding="async"
           width={600}
           height={400}
         />
