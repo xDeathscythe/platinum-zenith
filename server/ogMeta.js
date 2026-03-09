@@ -196,18 +196,32 @@ export function injectOgMeta(html, pathname) {
   const cleanPath = pathname === '/' ? '/' : pathname.replace(/\/+$/, '')
   let meta = ogMeta[cleanPath]
   const canonicalUrl = `${SITE_URL}${cleanPath}`
-  const ogType = cleanPath.startsWith('/blog/') ? 'article' : 'website'
-  const robotsContent = cleanPath.startsWith('/draft/')
+  const isBlogPath = cleanPath.startsWith('/blog/')
+  const isDraftPath = cleanPath.startsWith('/draft/')
+  const ogType = (isBlogPath || isDraftPath) ? 'article' : 'website'
+  const robotsContent = isDraftPath
     ? 'noindex, nofollow'
     : 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1'
 
   // Dynamic blog post OG: lookup from blogOgData.json
-  if (!meta && cleanPath.startsWith('/blog/')) {
+  if (!meta && isBlogPath) {
     const slug = cleanPath.replace('/blog/', '')
     const post = blogOgPosts.find(p => p.slug === slug)
     if (post) {
       meta = {
         title: `${post.title} | Platinum Zenith Blog`,
+        description: post.excerpt,
+      }
+    }
+  }
+
+  // Dynamic draft OG: lookup from blogOgData.json
+  if (!meta && isDraftPath) {
+    const slug = cleanPath.replace('/draft/', '')
+    const post = blogOgPosts.find(p => p.slug === slug)
+    if (post) {
+      meta = {
+        title: `DRAFT: ${post.title} | Platinum Zenith`,
         description: post.excerpt,
       }
     }
