@@ -4729,7 +4729,7 @@ Ako znate:
 
 možete okvirno izračunati maksimalni prihvatljiv CPL, pa unazad planirati CPC cilj.
 
-Ako vam je potreban širi kontekst budžeta, pogledajte i [Google reklame cena](/google-reklame-cena), [Instagram reklame cena](/instagram-reklame-cena), [koliko košta Facebook reklama](/koliko-kosta-facebook-reklama) i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Ako vam je potreban širi kontekst budžeta, pogledajte i [Google reklame cena](/google-reklame-cena), [Instagram reklame cena](/instagram-reklame-cena), [koliko košta Facebook reklama](/koliko-kosta-facebook-reklama), [cene digitalnog marketinga](/cene-digitalnog-marketinga) i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
 
 Takođe preporučujemo: [Kako skalirati plaćene oglase bez bacanja novca](/blog/kako-skalirati-placene-oglase-bez-bacanja-novca).
 
