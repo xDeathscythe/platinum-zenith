@@ -1978,7 +1978,7 @@ Ako želite da vaša firma bude prva kad neko pretraži vašu uslugu u gradu, [j
   {
     slug: 'email-marketing-kralj-konverzija',
     title: 'Email marketing: zašto je email i dalje kralj konverzija',
-    excerpt: 'Dok svi jure TikTok i Instagram, email marketing tiho donosi $36 za svaki $1 uložen. To je ROI koji nijedan drugi kanal ne može da dostigne. Evo kako e-commerce i uslužne firme koriste email da uveću prihod.',
+    excerpt: 'Email marketing i dalje daje vrhunski povrat ulaganja. Saznajte kako e-commerce i uslužne firme kroz email povećavaju ponovne kupovine i mesečni prihod.',
     date: '2026-02-20',
     category: 'Marketing',
     readTime: '7 min',
