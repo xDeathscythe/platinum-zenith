@@ -140,7 +140,7 @@ export default function CaseStudiesPage() {
                   {/* Campaign Screenshot */}
                   {s.image && (
                     <div className="mb-8 rounded-[12px] overflow-hidden border border-edge-2">
-                      <img src={s.image} alt={`${s.client} case study: oglas koji je doneo 63 prijave uz budžet od 60 evra`} className="w-full h-auto" loading="lazy" decoding="async" width={800} height={450} />
+                      <img src={s.image} alt={`${s.client} studija slučaja (${s.industry}) — ključni rezultat: ${s.results?.[0]?.after || 'rast performansi'}`} className="w-full h-auto" loading="lazy" decoding="async" width={800} height={450} />
                     </div>
                   )}
 
