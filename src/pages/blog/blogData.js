@@ -526,7 +526,7 @@ Niste sigurni gde da ulažete? [Javite nam se](/kontakt) i napravićemo vam plan
   {
     slug: 'psihologija-zaradjivanja-mentalni-blokovi',
     title: 'Psihologija zarađivanja: mentalni blokovi koji koče rast firme',
-    excerpt: 'Najveća prepreka rastu nije konkurencija, tržište ili budžet. Najveća prepreka je između ušiju vlasnika firme.',
+    excerpt: 'Najveća prepreka rastu često nije tržište, već način razmišljanja vlasnika firme. Evo koji mentalni blokovi koče zaradu i kako da ih razbijete.',
     date: '2026-02-20',
     category: 'Biznis',
     readTime: '7 min',
