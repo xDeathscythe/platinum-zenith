@@ -51,6 +51,27 @@ const costBreakdown = [
   },
 ]
 
+const managementPricing = [
+  {
+    model: 'Freelance / mikro tim',
+    fee: '150 - 300€/mes',
+    bestFor: 'Mali lokalni biznisi sa manjim brojem kampanja i jednostavnom ponudom.',
+    caution: 'Često ne uključuje dubinsku optimizaciju landinga, CRO i naprednu analitiku.',
+  },
+  {
+    model: 'Specijalizovana agencija',
+    fee: '250 - 700€/mes',
+    bestFor: 'Firme koje žele redovnu optimizaciju, testiranje oglasa i jasne KPI izveštaje.',
+    caution: 'Obavezno proveriti šta ulazi u fee (tracking setup, search terms, creative testovi).',
+  },
+  {
+    model: 'Enterprise upravljanje',
+    fee: '700€+ / mes ili % budžeta',
+    bestFor: 'Veći budžeti, više tržišta i timovi kojima treba profit-orijentisano skaliranje.',
+    caution: 'Ako nema plana eksperimenata i ownership-a nad nalogom, visoka cena ne znači kvalitet.',
+  },
+]
+
 const metrics = [
   {
     metric: 'CPC (Search) u Srbiji',
@@ -183,6 +204,35 @@ export default function GoogleReklameCenaPage() {
       </section>
 
       <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[920px] mx-auto">
+          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-4 text-center">Vođenje Google Ads kampanja — cena upravljanja</h2>
+          <p className="text-[15px] text-ink-3 text-center mb-10 max-w-[700px] mx-auto">
+            Pored medijskog budžeta, ključna stavka je cena vođenja kampanja. Rasponi ispod su realni za srpsko tržište u 2026. i pomažu da procenite da li je ponuda održiva.
+          </p>
+
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+            {managementPricing.map(item => (
+              <div key={item.model} className="bg-panel rounded-[16px] border border-edge p-5 md:p-6">
+                <div className="text-[12px] uppercase tracking-widest text-ink-4 mb-2">Model saradnje</div>
+                <h3 className="text-[18px] font-medium text-ink mb-2">{item.model}</h3>
+                <div className="text-[24px] font-bold text-ink mb-3">{item.fee}</div>
+                <p className="text-[13px] text-ink-2 leading-relaxed mb-3">{item.bestFor}</p>
+                <p className="text-[12px] text-ink-3 leading-relaxed">⚠️ {item.caution}</p>
+              </div>
+            ))}
+          </div>
+
+          <p className="text-[14px] text-ink-3 leading-relaxed mt-8 text-center max-w-[700px] mx-auto">
+            Ako želite detaljniji model šta tačno ulazi u upravljanje i kako da uporedite ponude agencija, pročitajte i
+            {' '}
+            <Link to="/blog/vodjenje-google-ads-kampanja-cena-srbija-2026" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+              vođenje Google Ads kampanja cena u Srbiji 2026
+            </Link>.
+          </p>
+        </div>
+      </section>
+
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[900px] mx-auto">
           <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-4 text-center">Benchmark za srpsko tržište</h2>
           <p className="text-[15px] text-ink-3 text-center mb-10 max-w-[620px] mx-auto">
@@ -243,9 +293,9 @@ export default function GoogleReklameCenaPage() {
               <div className="text-[14px] font-medium text-ink mb-1">Facebook reklame cena</div>
               <div className="text-[12px] text-ink-3">Uporedi Meta i Google troškove</div>
             </Link>
-            <Link to="/seo-optimizacija-cena" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
-              <div className="text-[14px] font-medium text-ink mb-1">SEO optimizacija cena</div>
-              <div className="text-[12px] text-ink-3">Organski rast i dugoročni troškovi</div>
+            <Link to="/blog/kako-smanjiti-cenu-po-leadu-google-meta-oglasi" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Kako smanjiti CPL</div>
+              <div className="text-[12px] text-ink-3">Praktičan plan za nižu cenu po leadu</div>
             </Link>
             <Link to="/instagram-reklame-cena" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
               <div className="text-[14px] font-medium text-ink mb-1">Instagram reklame cena</div>
@@ -304,6 +354,7 @@ export default function GoogleReklameCenaPage() {
           }),
         }}
       />
+
     </div>
   )
 }
