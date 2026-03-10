@@ -116,6 +116,10 @@ const checks = [
     expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: true, noindex: false },
   },
   {
+    route: '/web-shop-nema-prodaju',
+    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: true, noindex: false },
+  },
+  {
     route: '/blog/google-ads-cena-po-kliku-srbija-2026',
     expect: { breadcrumb: true, faq: false, article: true, blogListing: false, noindex: false },
   },
@@ -235,6 +239,7 @@ for (const item of checks) {
         '/cene-digitalnog-marketinga': { type: 'Service', url: 'https://platinumzenith.com/cene-digitalnog-marketinga' },
         '/koliko-kosta-facebook-reklama': { type: 'Service', url: 'https://platinumzenith.com/koliko-kosta-facebook-reklama' },
         '/facebook-oglasi-ne-rade': { type: 'Service', url: 'https://platinumzenith.com/facebook-oglasi-ne-rade' },
+        '/web-shop-nema-prodaju': { type: 'Service', url: 'https://platinumzenith.com/web-shop-nema-prodaju' },
       }
 
       const expected = routeSchemaExpectations[item.route]

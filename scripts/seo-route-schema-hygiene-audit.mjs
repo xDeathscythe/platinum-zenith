@@ -38,6 +38,7 @@ const REQUIRED_SCHEMA_ROUTES = [
   '/cene-digitalnog-marketinga',
   '/koliko-kosta-facebook-reklama',
   '/facebook-oglasi-ne-rade',
+  '/web-shop-nema-prodaju',
   '/case-studies',
   '/alati/roi-kalkulator',
 ]

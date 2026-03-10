@@ -460,6 +460,22 @@ const SERVER_ROUTE_SCHEMAS = {
       url: SITE_URL,
     },
   },
+  '/web-shop-nema-prodaju': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Audit i optimizacija web shop konverzije',
+    serviceType: 'E-commerce conversion optimization',
+    url: `${SITE_URL}/web-shop-nema-prodaju`,
+    areaServed: {
+      '@type': 'Country',
+      name: 'Srbija',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
 }
 
 
@@ -603,8 +619,8 @@ const ogMeta = {
     ogImageAlt: 'Google reklame cena u Srbiji 2026 - vodič Platinum Zenith',
   },
   '/instagram-reklame-cena': {
-    title: 'Instagram Reklame Cena u Srbiji 2026 | Platinum Zenith',
-    description: 'Realne cene Instagram oglasa u Srbiji za 2026. CPC, CPM, budžeti po fazama rasta i greške koje dižu trošak bez više upita i prodaje.',
+    title: 'Instagram Reklame Cena 2026 + Vođenje Kampanja | Platinum Zenith',
+    description: 'Koliko koštaju Instagram reklame i vođenje Instagram Ads kampanja u Srbiji 2026: CPC, CPM, budžeti po fazama rasta i realna cena upravljanja.',
     ogImage: `${SITE_URL}/pz-og.jpg`,
     ogImageAlt: 'Instagram reklame cena u Srbiji 2026 - vodič Platinum Zenith',
   },
@@ -680,6 +696,10 @@ const serverFaqByPath = {
     {
       q: 'Da li Instagram reklame rade za manje budžete?',
       a: 'Da, ali je važno da kampanja ima jasan cilj i dobar kreativni format. Rezultati su stabilniji kada se radi kroz test fazu pre skaliranja.',
+    },
+    {
+      q: 'Koliko košta vođenje Instagram kampanja?',
+      a: 'Za manje naloge vođenje je najčešće 120–280€ mesečno, dok je za aktivnije naloge sa redovnim testovima uglavnom 250–650€ mesečno.',
     },
     {
       q: 'Šta najviše podiže cenu Instagram kampanja?',
@@ -824,6 +844,16 @@ const serverFaqByPath = {
     {
       q: 'Koliko brzo može da se popravi loša Facebook kampanja?',
       a: 'Prvi pomaci se obično vide kroz 7 do 14 dana kada se istovremeno poprave kreativni hook, targetiranje i struktura landing stranice.',
+    },
+  ],
+  '/web-shop-nema-prodaju': [
+    {
+      q: 'Zašto web shop ima promet, ali i dalje nema dovoljno porudžbina?',
+      a: 'Najčešće postoji problem u jednom od ključnih koraka kupovine: nejasna ponuda, slaba produkt stranica ili predugačak checkout koji prekida kupca pred završetak.',
+    },
+    {
+      q: 'Koji je prvi korak kada web shop ne konvertuje?',
+      a: 'Prvi korak je analiza funnel-a po fazama, od izvora saobraćaja do checkout-a, da se jasno vidi gde se gubi najveći broj korisnika i šta prvo treba popraviti.',
     },
   ],
   '/faq': [
@@ -1275,4 +1305,4 @@ export function injectOgMeta(html, pathname) {
   return result
 }
 
-export { ogMeta, SITE_URL }
+export { ogMeta, SITE_URL, SERVER_ROUTE_SCHEMAS as serverRouteSchemas }
