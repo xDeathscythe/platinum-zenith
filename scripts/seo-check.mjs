@@ -9,6 +9,7 @@ const phase = phaseArg ? phaseArg.split('=')[1] : 'all' // all | prebuild | post
 const checks = [
   { name: 'Route/OG/meta consistency', script: 'scripts/seo-audit.mjs' },
   { name: 'Route metadata hygiene (no stale route keys)', script: 'scripts/seo-route-hygiene-audit.mjs' },
+  { name: 'Unknown route noindex policy', script: 'scripts/seo-unknown-route-noindex-audit.mjs' },
   { name: 'Canonical + og:url', script: 'scripts/seo-canonical-audit.mjs' },
   { name: 'Canonical + hreflang consistency', script: 'scripts/seo-hreflang-audit.mjs' },
   { name: 'SEO redirects and legacy URL canonicalization', script: 'scripts/seo-redirect-audit.mjs', phase: 'postbuild' },

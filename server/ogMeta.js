@@ -1062,16 +1062,19 @@ export function injectOgMeta(html, pathname) {
   const canonicalUrl = `${SITE_URL}${cleanPath}`
   const isBlogPath = cleanPath.startsWith('/blog/')
   const isDraftPath = cleanPath.startsWith('/draft/')
-  const shouldNoIndex = isDraftPath || INTERNAL_NOINDEX_PATHS.has(cleanPath)
   const ogType = (isBlogPath || isDraftPath) ? 'article' : 'website'
-  const robotsContent = shouldNoIndex
-    ? 'noindex, nofollow'
-    : 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1'
 
   const blogSlug = isBlogPath
     ? cleanPath.replace('/blog/', '')
     : (isDraftPath ? cleanPath.replace('/draft/', '') : null)
   const matchedBlogPost = blogSlug ? blogOgPosts.find((p) => p.slug === blogSlug) : null
+
+  const isKnownRoute = Boolean(ogMeta[cleanPath]) || Boolean(matchedBlogPost) || INTERNAL_NOINDEX_PATHS.has(cleanPath)
+  const shouldNoIndex = isDraftPath || INTERNAL_NOINDEX_PATHS.has(cleanPath) || !isKnownRoute
+  const robotsContent = shouldNoIndex
+    ? 'noindex, nofollow'
+    : 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1'
+
   const articleDateIso = matchedBlogPost?.date ? `${matchedBlogPost.date}T00:00:00+01:00` : ''
   const articleSection = matchedBlogPost?.category || ''
 
