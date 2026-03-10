@@ -281,6 +281,26 @@ const serverFaqByPath = {
       a: 'Prate se pregledi na Google-u, klikovi za poziv i rutu, rezervacije, poruke i rast popunjenosti u terminima koji su ranije bili slabi.',
     },
   ],
+  '/in-house-tim-vs-agencija': [
+    {
+      q: 'Kada je bolji in-house tim od agencije?',
+      a: 'In-house tim je odličan kada imate stabilan marketinški budžet, potrebu za svakodnevnim operativnim izvršenjem i dovoljno kapaciteta da vodite tim dugoročno.',
+    },
+    {
+      q: 'Kada agencija donosi veću vrednost?',
+      a: 'Agencija je bolji izbor kada vam treba brži start, specijalizovana ekspertiza po kanalima i fleksibilniji trošak bez zapošljavanja više različitih profila.',
+    },
+  ],
+  '/fiksna-naknada-vs-revenue-share': [
+    {
+      q: 'Šta je sigurnije za kompaniju: fiksna naknada ili revenue share?',
+      a: 'Fiksna naknada daje predvidljiv mesečni trošak, dok revenue share bolje poravnava interes agencije i klijenta kada postoji jasan model merenja prihoda.',
+    },
+    {
+      q: 'Kada revenue share model ima najviše smisla?',
+      a: 'Revenue share najčešće daje najbolje rezultate kada postoji pouzdana analitika, dovoljno podataka o prodaji i spremnost oba tima da rade na kontinuiranoj optimizaciji.',
+    },
+  ],
 }
 
 function injectServerFaqSchema(html, cleanPath) {

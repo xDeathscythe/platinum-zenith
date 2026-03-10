@@ -40,6 +40,14 @@ const checks = [
     expect: { breadcrumb: true, faq: true, article: false, blogListing: false, noindex: false },
   },
   {
+    route: '/in-house-tim-vs-agencija',
+    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, noindex: false },
+  },
+  {
+    route: '/fiksna-naknada-vs-revenue-share',
+    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, noindex: false },
+  },
+  {
     route: '/blog/google-ads-cena-po-kliku-srbija-2026',
     expect: { breadcrumb: true, faq: false, article: true, blogListing: false, noindex: false },
   },
