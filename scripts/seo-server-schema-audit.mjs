@@ -24,6 +24,18 @@ const checks = [
     expect: { breadcrumb: true, faq: true, article: false, noindex: false },
   },
   {
+    route: '/marketing-za-advokate',
+    expect: { breadcrumb: true, faq: true, article: false, noindex: false },
+  },
+  {
+    route: '/marketing-za-stomatologe',
+    expect: { breadcrumb: true, faq: true, article: false, noindex: false },
+  },
+  {
+    route: '/marketing-za-restorane',
+    expect: { breadcrumb: true, faq: true, article: false, noindex: false },
+  },
+  {
     route: '/blog/google-ads-cena-po-kliku-srbija-2026',
     expect: { breadcrumb: true, faq: false, article: true, noindex: false },
   },

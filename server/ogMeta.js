@@ -251,6 +251,36 @@ const serverFaqByPath = {
       a: 'Jednostavniji sajtovi se najčešće završavaju za 2–4 nedelje, dok kompleksniji projekti sa više funkcionalnosti traže duži rok.',
     },
   ],
+  '/marketing-za-advokate': [
+    {
+      q: 'Da li advokati smeju da se reklamiraju?',
+      a: 'Klasično agresivno reklamiranje je ograničeno, ali su informativan sadržaj, sajt, SEO i Google Business potpuno legitimni načini da kancelarija bude vidljiva.',
+    },
+    {
+      q: 'Koliko brzo marketing može da donese nove upite?',
+      a: 'Google Ads obično donosi prve upite za 1–2 nedelje, dok SEO gradi stabilan kanal kroz nekoliko meseci i daje dugoročniji efekat.',
+    },
+  ],
+  '/marketing-za-stomatologe': [
+    {
+      q: 'Koliko košta marketing za stomatološku ordinaciju?',
+      a: 'Osnovni setup obično kreće od nekoliko stotina evra mesečno, dok kombinacija SEO + oglasa zavisi od grada, konkurencije i ciljanog broja novih pacijenata.',
+    },
+    {
+      q: 'Koliko brzo stomatološka ordinacija vidi rezultate?',
+      a: 'Plaćeni oglasi mogu doneti pozive vrlo brzo, dok SEO i organsko prisustvo daju stabilnije rezultate kroz naredne mesece kontinuiranog rada.',
+    },
+  ],
+  '/marketing-za-restorane': [
+    {
+      q: 'Da li je restoranima dovoljan samo Instagram?',
+      a: 'Instagram je važan za vizuelni utisak, ali Google profil i sajt su ključni za lokalne pretrage i direktne rezervacije kada ljudi aktivno traže restoran.',
+    },
+    {
+      q: 'Kako merimo da li marketing za restoran radi?',
+      a: 'Prate se pregledi na Google-u, klikovi za poziv i rutu, rezervacije, poruke i rast popunjenosti u terminima koji su ranije bili slabi.',
+    },
+  ],
 }
 
 function injectServerFaqSchema(html, cleanPath) {
