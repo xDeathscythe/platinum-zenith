@@ -21,9 +21,47 @@ const __dirname = __serverDir
 const PORT = process.env.PORT || 3000
 const app = express()
 
+const CANONICAL_HOST = 'platinumzenith.com'
+const LOCAL_HOSTS = new Set(['localhost', '127.0.0.1'])
+
+app.set('trust proxy', true)
+
 // Middleware
 app.use(cors())
 app.use(express.json())
+
+// Canonical host/protocol redirect for SEO (keep localhost untouched)
+app.use((req, res, next) => {
+  const forwardedHostRaw = req.headers['x-forwarded-host']
+  const hostRaw = Array.isArray(forwardedHostRaw)
+    ? forwardedHostRaw[0]
+    : (forwardedHostRaw || req.headers.host || '')
+
+  const host = String(hostRaw)
+    .split(',')[0]
+    .trim()
+    .toLowerCase()
+    .replace(/:\d+$/, '')
+
+  if (!host || LOCAL_HOSTS.has(host)) return next()
+
+  const forwardedProtoRaw = req.headers['x-forwarded-proto']
+  const protoRaw = Array.isArray(forwardedProtoRaw)
+    ? forwardedProtoRaw[0]
+    : (forwardedProtoRaw || req.protocol || 'http')
+
+  const proto = String(protoRaw).split(',')[0].trim().toLowerCase()
+  const normalizedHost = host.startsWith('www.') ? host.slice(4) : host
+
+  const shouldRedirectHost = normalizedHost !== CANONICAL_HOST || host.startsWith('www.')
+  const shouldRedirectProto = proto !== 'https'
+
+  if (shouldRedirectHost || shouldRedirectProto) {
+    return res.redirect(301, `https://${CANONICAL_HOST}${req.originalUrl}`)
+  }
+
+  next()
+})
 
 // API routes FIRST
 app.use('/api', authRoutes)
