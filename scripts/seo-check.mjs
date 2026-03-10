@@ -17,6 +17,7 @@ const checks = [
   { name: 'Breadcrumb coverage (all public routes)', script: 'scripts/seo-breadcrumb-coverage-audit.mjs' },
   { name: 'JSON-LD syntax validity (all routes)', script: 'scripts/seo-jsonld-validity-audit.mjs' },
   { name: 'Open Graph image consistency', script: 'scripts/seo-og-image-audit.mjs' },
+  { name: 'Open Graph/Twitter social meta consistency', script: 'scripts/seo-social-meta-audit.mjs' },
   { name: 'Blog article schema', script: 'scripts/seo-blog-schema-audit.mjs' },
   { name: 'Meta title/description quality', script: 'scripts/seo-meta-quality-audit.mjs', args: ['--strict'] },
   { name: 'Meta intent keyword coverage', script: 'scripts/seo-meta-intent-audit.mjs' },

@@ -18,6 +18,7 @@
     "seo:breadcrumb-coverage": "node scripts/seo-breadcrumb-coverage-audit.mjs",
     "seo:jsonld": "node scripts/seo-jsonld-validity-audit.mjs",
     "seo:og-images": "node scripts/seo-og-image-audit.mjs",
+    "seo:social-meta": "node scripts/seo-social-meta-audit.mjs",
     "seo:canonical": "node scripts/seo-canonical-audit.mjs",
     "seo:robots": "node scripts/seo-robots-audit.mjs",
     "seo:headings": "node scripts/seo-headings-audit.mjs",
