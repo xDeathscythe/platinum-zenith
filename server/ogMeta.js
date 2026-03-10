@@ -439,6 +439,22 @@ const SERVER_ROUTE_SCHEMAS = {
       url: SITE_URL,
     },
   },
+  '/facebook-oglasi-ne-rade': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Audit i optimizacija Facebook oglasa',
+    serviceType: 'Facebook ads optimization',
+    url: `${SITE_URL}/facebook-oglasi-ne-rade`,
+    areaServed: {
+      '@type': 'Country',
+      name: 'Srbija',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
 }
 
 
