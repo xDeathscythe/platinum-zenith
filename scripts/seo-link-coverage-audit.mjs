@@ -105,6 +105,12 @@ const validRoutes = parseRoutes(appText)
 const files = walk(srcDir).filter((file) => /\.(js|jsx)$/.test(file))
 const links = collectInternalLinks(files)
 
+// BlogPage renders internal links to every public blog post via map(),
+// which is dynamic JSX and not visible to regex static extraction above.
+for (const post of blogPosts.filter((p) => p?.slug && !p?.isDraft)) {
+  links.push(`/blog/${post.slug}`)
+}
+
 const inboundCounts = new Map()
 for (const link of links) {
   if (!validRoutes.has(link)) continue
