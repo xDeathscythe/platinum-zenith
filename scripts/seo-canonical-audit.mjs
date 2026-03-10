@@ -44,36 +44,53 @@ const routes = extractRoutes(appText)
 
 const issues = []
 
-for (const route of routes) {
-  const normalized = normalizePath(route)
-  const expected = `${SITE_URL}${normalized === '/' ? '/' : normalized}`
-  const rendered = injectOgMeta(htmlTemplate, normalized)
-
+function checkRendered(routeLabel, expected, rendered) {
   const canonical = extractTagValue(rendered, /<link\s+rel="canonical"\s+href="([^"]+)"\s*\/>/i)
   const ogUrl = extractTagValue(rendered, /<meta\s+property="og:url"\s+content="([^"]+)"\s*\/>/i)
 
   if (!canonical) {
-    issues.push({ route: normalized, type: 'missing-canonical' })
-    continue
+    issues.push({ route: routeLabel, type: 'missing-canonical' })
+    return
   }
 
   if (!ogUrl) {
-    issues.push({ route: normalized, type: 'missing-og-url' })
-    continue
+    issues.push({ route: routeLabel, type: 'missing-og-url' })
+    return
   }
 
   if (canonical !== expected) {
-    issues.push({ route: normalized, type: 'canonical-mismatch', expected, actual: canonical })
+    issues.push({ route: routeLabel, type: 'canonical-mismatch', expected, actual: canonical })
   }
 
   if (ogUrl !== expected) {
-    issues.push({ route: normalized, type: 'og-url-mismatch', expected, actual: ogUrl })
+    issues.push({ route: routeLabel, type: 'og-url-mismatch', expected, actual: ogUrl })
+  }
+
+  if (canonical !== ogUrl) {
+    issues.push({ route: routeLabel, type: 'canonical-ogurl-mismatch', canonical, ogUrl })
   }
 }
 
+for (const route of routes) {
+  const normalized = normalizePath(route)
+  const expected = `${SITE_URL}${normalized === '/' ? '/' : normalized}`
+
+  // Canonical check for normalized route
+  checkRendered(normalized, expected, injectOgMeta(htmlTemplate, normalized))
+
+  // Canonical normalization check for trailing slash alias (non-root)
+  if (normalized !== '/') {
+    const slashAlias = `${normalized}/`
+    checkRendered(slashAlias, expected, injectOgMeta(htmlTemplate, slashAlias))
+  }
+}
+
+const aliasChecks = routes.filter((r) => normalizePath(r) !== '/').length
 const report = {
   generatedAt: new Date().toISOString(),
   routeCount: routes.length,
+  aliasChecks,
+  totalChecks: routes.length + aliasChecks,
   issueCount: issues.length,
   issues,
 }
@@ -91,4 +108,5 @@ if (issues.length > 0) {
   for (const issue of issues) {
     console.log(`- ${issue.route}: ${issue.type}`)
   }
+  process.exitCode = 1
 }
