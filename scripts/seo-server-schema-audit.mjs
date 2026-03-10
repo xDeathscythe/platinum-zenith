@@ -16,6 +16,10 @@ const checks = [
     expect: { breadcrumb: true, faq: false, article: false, blogListing: false, noindex: false },
   },
   {
+    route: '/faq',
+    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: false, noindex: false },
+  },
+  {
     route: '/blog',
     expect: { breadcrumb: true, faq: false, article: false, blogListing: true, noindex: false },
   },

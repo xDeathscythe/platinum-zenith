@@ -538,6 +538,20 @@ const serverFaqByPath = {
       a: 'Važniji je kvalitet saobraćaja i cena po leadu ili prodaji. Nizak klik nije koristan ako posetioci ne preduzimaju konkretne akcije na sajtu.',
     },
   ],
+  '/faq': [
+    {
+      q: 'Koliko brzo mogu da očekujem prve marketing rezultate?',
+      a: 'Prvi podaci se vide u prvih 7 do 14 dana, dok stabilniji i predvidljiviji rezultati obično dolaze kroz 60 do 90 dana optimizacije.',
+    },
+    {
+      q: 'Koji je minimalni oglasni budžet za ozbiljnije testiranje?',
+      a: 'Za većinu kampanja preporuka je minimum 1.000€ mesečno za Meta platforme i oko 1.500€ za Google Ads, kako bi test faza imala dovoljno podataka.',
+    },
+    {
+      q: 'Da li radite samo sa određenim industrijama?',
+      a: 'Najčešće radimo sa e-commerce brendovima, SaaS kompanijama, lokalnim biznisima i startapovima, ali model prilagođavamo cilju i tržištu klijenta.',
+    },
+  ],
 }
 
 function injectServerFaqSchema(html, cleanPath) {
