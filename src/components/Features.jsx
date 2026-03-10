@@ -22,6 +22,8 @@ function MockAds() {
             sizes="(max-width: 768px) 323px, 323px"
             alt="Platinum Zenith portfolio - profesionalna fotografija proizvoda za e-commerce"
             className="absolute inset-0 w-full h-full object-cover"
+            loading="lazy"
+            decoding="async"
             width={323}
             height={404}
           />
@@ -94,6 +96,8 @@ function MockAds() {
             sizes="(max-width: 768px) 269px, 269px"
             alt="Influencer marketing kampanja - TikTok sadrzaj za brendove"
             className="absolute inset-0 w-full h-full object-cover"
+            loading="lazy"
+            decoding="async"
             width={269}
             height={404}
           />
@@ -155,7 +159,7 @@ function MockWebsite() {
       }} />
       {/* Floating window — no browser chrome, just clean rounded card */}
       <div className="relative rounded-[16px] overflow-hidden shadow-2xl shadow-black/10 border border-white/30 bg-white/5 backdrop-blur-sm">
-        <img src={niwaHero} alt="NiwaChat.com - AI chatbot za e-commerce prodavnice" className="w-full block" loading="lazy" width={640} height={327} />
+        <img src={niwaHero} alt="NiwaChat.com - AI chatbot za e-commerce prodavnice" className="w-full block" loading="lazy" decoding="async" width={640} height={327} />
       </div>
     </div>
   )

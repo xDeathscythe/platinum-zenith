@@ -14,6 +14,7 @@
     "seo:canonical": "node scripts/seo-canonical-audit.mjs",
     "seo:headings": "node scripts/seo-headings-audit.mjs",
     "seo:landing-qa": "node scripts/seo-landing-qa.mjs",
+    "seo:images": "node scripts/seo-image-audit.mjs",
     "preview": "vite preview"
   },
   "dependencies": {

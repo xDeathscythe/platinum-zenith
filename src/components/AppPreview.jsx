@@ -169,6 +169,7 @@ function AdCard({ ad, brandName, eager = false }) {
             alt={ad.text.replace(/[\u{1F300}-\u{1FAD6}]/gu, '').trim() || `${brandName} sponsored ad creative`}
             className="w-full h-full object-cover"
             loading={eager ? 'eager' : 'lazy'}
+            decoding={eager ? 'sync' : 'async'}
             fetchPriority={eager ? 'high' : undefined}
             width={CARD_W - 24}
             height={Math.round((CARD_W - 24) * 1.25)}
