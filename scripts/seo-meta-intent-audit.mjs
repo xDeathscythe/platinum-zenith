@@ -15,9 +15,54 @@ const TARGET_RULES = {
     mustContainAny: ['cena', 'cene'],
     shouldContainAny: ['cpc', 'cpm', 'budzet', 'oglasa'],
   },
+  '/koliko-kosta-facebook-reklama': {
+    mustContainAll: ['facebook'],
+    mustContainAny: ['cena', 'oglasa', 'reklama'],
+    shouldContainAny: ['instagram', 'cpc', 'budzet', 'srbiji'],
+  },
   '/izrada-wordpress-sajta-cena': {
     mustContainAll: ['wordpress', 'cena'],
     mustContainAny: ['woocommerce', 'sajta', 'rokovi', 'troskove'],
+  },
+  '/cene-izrade-sajta': {
+    mustContainAll: ['cene', 'izrade sajta'],
+    mustContainAny: ['srbiji', '2026', 'web', 'troskova'],
+  },
+  '/cene-digitalnog-marketinga': {
+    mustContainAll: ['cene', 'digitalnog marketinga'],
+    mustContainAny: ['seo', 'google ads', 'paketi', 'troskove'],
+  },
+  '/seo-optimizacija-cena': {
+    mustContainAll: ['seo', 'cene'],
+    mustContainAny: ['optimizacije', 'srbiji', 'paketi', 'pozicija'],
+  },
+  '/marketing-agencija-beograd': {
+    mustContainAll: ['beograd'],
+    mustContainAny: ['seo', 'google ads', 'meta ads', 'upite'],
+  },
+  '/marketing-agencija-zrenjanin': {
+    mustContainAll: ['zrenjaninu'],
+    mustContainAny: ['seo', 'google ads', 'upita', 'prodaja'],
+  },
+  '/marketing-agencija-novi-sad': {
+    mustContainAll: ['novi sad'],
+    mustContainAny: ['seo', 'google ads', 'meta', 'upita'],
+  },
+  '/facebook-oglasi-ne-rade': {
+    mustContainAll: ['facebook oglasi'],
+    mustContainAny: ['rezultate', 'gresaka', 'popravku'],
+  },
+  '/web-shop-nema-prodaju': {
+    mustContainAll: ['web shop', 'prodaju'],
+    mustContainAny: ['razloga', 'resenja', 'konverzije'],
+  },
+  '/in-house-tim-vs-agencija': {
+    mustContainAll: ['in house', 'agencija'],
+    mustContainAny: ['troskovima', 'izbor', 'modela'],
+  },
+  '/fiksna-naknada-vs-revenue-share': {
+    mustContainAll: ['fiksna naknada', 'revenue share'],
+    mustContainAny: ['modela', 'naplate', 'profitabilniji'],
   },
   '/marketing-za-advokate': {
     mustContainAll: ['advokatske', 'srbiji'],
@@ -30,14 +75,6 @@ const TARGET_RULES = {
   '/marketing-za-restorane': {
     mustContainAll: ['restorane', 'srbiji'],
     mustContainAny: ['google business', 'rezervacije', 'porudzbine', 'stolova'],
-  },
-  '/cene-digitalnog-marketinga': {
-    mustContainAll: ['cene', 'digitalnog marketinga'],
-    mustContainAny: ['seo', 'google ads', 'paketi', 'troskove'],
-  },
-  '/seo-optimizacija-cena': {
-    mustContainAll: ['seo', 'cene'],
-    mustContainAny: ['optimizacije', 'srbiji', 'paketi', 'pozicija'],
   },
 }
 
