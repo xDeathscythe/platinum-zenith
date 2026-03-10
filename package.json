@@ -16,6 +16,7 @@
     "seo:feed-sitemap": "node scripts/seo-feed-sitemap-audit.mjs",
     "seo:server-schema": "node scripts/seo-server-schema-audit.mjs",
     "seo:breadcrumb-coverage": "node scripts/seo-breadcrumb-coverage-audit.mjs",
+    "seo:jsonld": "node scripts/seo-jsonld-validity-audit.mjs",
     "seo:og-images": "node scripts/seo-og-image-audit.mjs",
     "seo:canonical": "node scripts/seo-canonical-audit.mjs",
     "seo:headings": "node scripts/seo-headings-audit.mjs",
