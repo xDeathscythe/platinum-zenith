@@ -45,11 +45,23 @@ const checks = [
   },
   {
     route: '/marketing-za-restorane',
-    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, noindex: false },
+    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: false, noindex: false },
+  },
+  {
+    route: '/marketing-agencija-beograd',
+    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: false, noindex: false },
+  },
+  {
+    route: '/marketing-agencija-zrenjanin',
+    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: false, noindex: false },
+  },
+  {
+    route: '/marketing-agencija-novi-sad',
+    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: false, noindex: false },
   },
   {
     route: '/in-house-tim-vs-agencija',
-    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, noindex: false },
+    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: false, noindex: false },
   },
   {
     route: '/fiksna-naknada-vs-revenue-share',

@@ -360,6 +360,36 @@ const serverFaqByPath = {
       a: 'Revenue share najčešće daje najbolje rezultate kada postoji pouzdana analitika, dovoljno podataka o prodaji i spremnost oba tima da rade na kontinuiranoj optimizaciji.',
     },
   ],
+  '/marketing-agencija-beograd': [
+    {
+      q: 'Da li radite sa firmama koje već imaju interni tim u Beogradu?',
+      a: 'Da. Čest model je da naš tim preuzme strategiju, performance i optimizaciju, dok interni tim ostaje fokusiran na operativnu produkciju i prodaju.',
+    },
+    {
+      q: 'Koliki budžet je realan za rezultate na tržištu Beograda?',
+      a: 'Zavisi od niše i konkurencije, ali najčešće je potreban budžet koji pokriva i test fazu i optimizaciju, a ne samo inicijalno puštanje kampanja.',
+    },
+  ],
+  '/marketing-agencija-zrenjanin': [
+    {
+      q: 'Da li lokalna agencija može da vodi kampanje i van Zrenjanina?',
+      a: 'Može. Iako smo fizički u Zrenjaninu, kampanje vodimo za cele regione i gradove uz isti model merenja učinka i transparentnog izveštavanja.',
+    },
+    {
+      q: 'Šta je najbolje prvo uraditi za lokalni biznis u Zrenjaninu?',
+      a: 'Najbrže rezultate obično daju sređen Google Business profil, lokalni SEO i jasno strukturisana landing stranica za upite i pozive.',
+    },
+  ],
+  '/marketing-agencija-novi-sad': [
+    {
+      q: 'Kako se razlikuje marketing za Novi Sad u odnosu na manje gradove?',
+      a: 'U Novom Sadu je veća konkurencija po upitu, pa su preciznije targetiranje, jača ponuda i bolja landing struktura ključni za profitabilnu akviziciju.',
+    },
+    {
+      q: 'Koliko vremena treba da kampanje u Novom Sadu daju stabilne rezultate?',
+      a: 'Prvi signali dolaze brzo kroz plaćene kanale, ali stabilan i predvidljiv rezultat obično dolazi nakon više iteracija optimizacije kroz nekoliko ciklusa.',
+    },
+  ],
 }
 
 function injectServerFaqSchema(html, cleanPath) {
