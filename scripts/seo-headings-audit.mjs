@@ -6,6 +6,12 @@ const appPath = path.join(root, 'src', 'App.jsx')
 
 const INTERNAL_SKIP = new Set(['/log'])
 
+const KEY_MONEY_ROUTES = new Set([
+  '/google-reklame-cena',
+  '/instagram-reklame-cena',
+  '/izrada-wordpress-sajta-cena',
+])
+
 function read(file) {
   return fs.readFileSync(file, 'utf8')
 }
@@ -42,15 +48,21 @@ function analyzeHeadingsInDefaultComponent(fileText) {
   const headingMatches = [...body.matchAll(/<h([1-6])\b/g)]
   const sequence = headingMatches.map((m) => Number(m[1]))
 
+  const counts = {
+    h1: sequence.filter((n) => n === 1).length,
+    h2: sequence.filter((n) => n === 2).length,
+    h3: sequence.filter((n) => n === 3).length,
+    total: sequence.length,
+  }
+
   if (sequence.length === 0) {
-    return { sequence, issues: [{ type: 'no-headings' }] }
+    return { sequence, counts, issues: [{ type: 'no-headings' }] }
   }
 
   const issues = []
-  const h1Count = sequence.filter((n) => n === 1).length
 
-  if (h1Count === 0) issues.push({ type: 'missing-h1' })
-  if (h1Count > 1) issues.push({ type: 'multiple-h1', count: h1Count })
+  if (counts.h1 === 0) issues.push({ type: 'missing-h1' })
+  if (counts.h1 > 1) issues.push({ type: 'multiple-h1', count: counts.h1 })
 
   const firstH1Index = sequence.indexOf(1)
   if (firstH1Index >= 0) {
@@ -65,7 +77,7 @@ function analyzeHeadingsInDefaultComponent(fileText) {
     }
   }
 
-  return { sequence, issues }
+  return { sequence, counts, issues }
 }
 
 const appText = read(appPath)
@@ -88,19 +100,36 @@ for (const entry of routeElements) {
   }
 
   const analysis = analyzeHeadingsInDefaultComponent(read(abs))
-  checked.push({ route: entry.route, component: entry.component, file: path.relative(root, abs), sequence: analysis.sequence })
+  checked.push({
+    route: entry.route,
+    component: entry.component,
+    file: path.relative(root, abs),
+    sequence: analysis.sequence,
+    counts: analysis.counts || null,
+  })
 
   if (analysis.error) {
     issues.push({ route: entry.route, component: entry.component, file: path.relative(root, abs), type: analysis.error })
     continue
   }
 
-  if (analysis.issues.length > 0) {
+  const routeIssues = [...analysis.issues]
+
+  if (KEY_MONEY_ROUTES.has(entry.route)) {
+    if ((analysis.counts?.h2 || 0) < 2) {
+      routeIssues.push({ type: 'insufficient-h2-for-money-page', minimum: 2, found: analysis.counts?.h2 || 0 })
+    }
+    if ((analysis.counts?.total || 0) < 4) {
+      routeIssues.push({ type: 'insufficient-heading-depth-for-money-page', minimum: 4, found: analysis.counts?.total || 0 })
+    }
+  }
+
+  if (routeIssues.length > 0) {
     issues.push({
       route: entry.route,
       component: entry.component,
       file: path.relative(root, abs),
-      issues: analysis.issues,
+      issues: routeIssues,
     })
   }
 }
@@ -109,6 +138,7 @@ const report = {
   generatedAt: new Date().toISOString(),
   routesChecked: checked.length,
   issueCount: issues.length,
+  checked,
   issues,
 }
 
@@ -125,4 +155,5 @@ if (issues.length > 0) {
   for (const issue of issues) {
     console.log(`- ${issue.route}`)
   }
+  process.exitCode = 1
 }
