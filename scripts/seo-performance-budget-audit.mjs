@@ -28,7 +28,8 @@ function findChunk(prefix) {
 
 const budgets = [
   { label: 'index chunk', prefix: 'index-', maxKb: 70 },
-  { label: 'vendor-react chunk', prefix: 'vendor-react-', maxKb: 260 },
+  { label: 'vendor-react chunk', prefix: 'vendor-react-', maxKb: 210 },
+  { label: 'vendor-router chunk', prefix: 'vendor-router-', maxKb: 85 },
   { label: 'vendor-motion chunk', prefix: 'vendor-motion-', maxKb: 140 },
   { label: 'blogData chunk', prefix: 'blogData-', maxKb: 330 },
 ]
@@ -55,13 +56,13 @@ for (const budget of budgets) {
   }
 }
 
-const criticalPrefixes = ['index-', 'vendor-react-', 'vendor-motion-']
+const criticalPrefixes = ['index-', 'vendor-react-', 'vendor-router-', 'vendor-motion-']
 const criticalChunks = stats.filter((s) => criticalPrefixes.some((prefix) => s.file.startsWith(prefix)))
 const criticalTotalKb = bytesToKb(criticalChunks.reduce((sum, item) => sum + item.size, 0))
 const criticalBudgetKb = 460
 
 if (criticalChunks.length < criticalPrefixes.length) {
-  issues.push('Critical chunk set incomplete (index/vendor-react/vendor-motion).')
+  issues.push('Critical chunk set incomplete (index/vendor-react/vendor-router/vendor-motion).')
 }
 
 if (criticalTotalKb > criticalBudgetKb) {

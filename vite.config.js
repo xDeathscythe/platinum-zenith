@@ -20,7 +20,8 @@ export default defineConfig({
       output: {
         manualChunks(id) {
           if (id.includes('node_modules')) {
-            if (id.includes('react') || id.includes('react-dom') || id.includes('react-router-dom')) return 'vendor-react'
+            if (id.includes('react-router') || id.includes('@remix-run/router')) return 'vendor-router'
+            if (id.includes('react') || id.includes('react-dom')) return 'vendor-react'
             if (id.includes('framer-motion')) return 'vendor-motion'
             if (id.includes('@radix-ui')) return 'vendor-radix'
             if (id.includes('lucide-react')) return 'vendor-icons'
@@ -33,7 +34,7 @@ export default defineConfig({
     terserOptions: {
       compress: { drop_console: true, drop_debugger: true },
     },
-    // Chunk size warning
-    chunkSizeWarningLimit: 200,
+    // Vite warning threshold; real enforcement is in custom perf/compression audits
+    chunkSizeWarningLimit: 340,
   },
 })

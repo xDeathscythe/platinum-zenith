@@ -28,7 +28,8 @@ function findChunk(prefix) {
 
 const budgets = [
   { label: 'index JS (brotli)', prefix: 'index-', suffix: '.js.br', maxKb: 15 },
-  { label: 'vendor-react JS (brotli)', prefix: 'vendor-react-', suffix: '.js.br', maxKb: 70 },
+  { label: 'vendor-react JS (brotli)', prefix: 'vendor-react-', suffix: '.js.br', maxKb: 58 },
+  { label: 'vendor-router JS (brotli)', prefix: 'vendor-router-', suffix: '.js.br', maxKb: 24 },
   { label: 'vendor-motion JS (brotli)', prefix: 'vendor-motion-', suffix: '.js.br', maxKb: 36 },
   { label: 'blogData JS (brotli)', prefix: 'blogData-', suffix: '.js.br', maxKb: 100 },
   { label: 'main CSS (brotli)', prefix: 'index-', suffix: '.css.br', maxKb: 15 },
