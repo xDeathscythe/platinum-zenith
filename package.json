@@ -11,6 +11,7 @@
     "seo:audit": "node scripts/seo-audit.mjs",
     "seo:fix-og": "node scripts/seo-audit.mjs --fix",
     "seo:sitemap": "node scripts/gen-sitemap.mjs",
+    "seo:canonical": "node scripts/seo-canonical-audit.mjs",
     "preview": "vite preview"
   },
   "dependencies": {
