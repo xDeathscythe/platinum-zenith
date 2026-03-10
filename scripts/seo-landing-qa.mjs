@@ -12,6 +12,20 @@ const TARGET_ROUTES = [
   '/google-reklame-cena',
   '/instagram-reklame-cena',
   '/izrada-wordpress-sajta-cena',
+  '/koliko-kosta-facebook-reklama',
+  '/seo-optimizacija-cena',
+  '/cene-izrade-sajta',
+  '/cene-digitalnog-marketinga',
+  '/marketing-agencija-beograd',
+  '/marketing-agencija-zrenjanin',
+  '/marketing-agencija-novi-sad',
+  '/in-house-tim-vs-agencija',
+  '/fiksna-naknada-vs-revenue-share',
+  '/facebook-oglasi-ne-rade',
+  '/web-shop-nema-prodaju',
+  '/marketing-za-advokate',
+  '/marketing-za-stomatologe',
+  '/marketing-za-restorane',
 ]
 
 function read(file) {
@@ -49,8 +63,8 @@ function getInternalLinks(fileText) {
     .filter((to) => to.startsWith('/'))
 }
 
-function hasJsonLdWith(text, schemaType) {
-  return text.includes(`'@type': '${schemaType}'`) || text.includes(`\"@type\":\"${schemaType}\"`) || text.includes(`\"@type\": \"${schemaType}\"`)
+function hasRenderedSchema(renderedHtml, schemaId) {
+  return renderedHtml.includes(`id="${schemaId}"`)
 }
 
 const appText = read(appPath)
@@ -81,13 +95,36 @@ for (const route of TARGET_ROUTES) {
   }
 
   const rendered = injectOgMeta(indexHtml, route)
-  if (!rendered.includes(`content="https://platinumzenith.com${route}"`)) {
-    issues.push('og-or-canonical-not-injected')
+  const canonicalExpected = `href="https://platinumzenith.com${route}"`
+  const ogUrlExpected = `property="og:url" content="https://platinumzenith.com${route}"`
+
+  if (!rendered.includes(canonicalExpected)) {
+    issues.push('canonical-not-injected')
+  }
+
+  if (!rendered.includes(ogUrlExpected)) {
+    issues.push('og-url-not-injected')
+  }
+
+  if (!hasRenderedSchema(rendered, 'ld-route-schema-server')) {
+    issues.push('route-schema-missing')
+  }
+
+  if (!hasRenderedSchema(rendered, 'ld-faq-server')) {
+    issues.push('faq-schema-missing')
+  }
+
+  if (!hasRenderedSchema(rendered, 'ld-breadcrumb-server')) {
+    issues.push('breadcrumb-schema-missing')
   }
 
   if (!sitemapXml.includes(`<loc>https://platinumzenith.com${route}</loc>`)) {
     issues.push('route-missing-in-sitemap')
   }
+
+  const hasRouteSchema = hasRenderedSchema(rendered, 'ld-route-schema-server')
+  const hasFaqSchema = hasRenderedSchema(rendered, 'ld-faq-server')
+  const hasBreadcrumbSchema = hasRenderedSchema(rendered, 'ld-breadcrumb-server')
 
   if (componentFile && fs.existsSync(componentFile)) {
     const fileText = read(componentFile)
@@ -102,20 +139,15 @@ for (const route of TARGET_ROUTES) {
       issues.push('missing-kontakt-cta')
     }
 
-    if (!hasJsonLdWith(fileText, 'FAQPage')) {
-      issues.push('faq-jsonld-missing')
-    }
-
-    if (!hasJsonLdWith(fileText, 'BreadcrumbList')) {
-      issues.push('breadcrumb-jsonld-missing')
-    }
-
     checks.push({
       route,
       component: componentName,
       file: path.relative(root, componentFile),
       uniqueInternalLinks: uniqueLinks.length,
       hasKontakt: uniqueLinks.includes('/kontakt'),
+      hasRouteSchema,
+      hasFaqSchema,
+      hasBreadcrumbSchema,
       issues,
     })
   } else {
@@ -125,6 +157,9 @@ for (const route of TARGET_ROUTES) {
       file: componentFile ? path.relative(root, componentFile) : null,
       uniqueInternalLinks: 0,
       hasKontakt: false,
+      hasRouteSchema,
+      hasFaqSchema,
+      hasBreadcrumbSchema,
       issues,
     })
   }
