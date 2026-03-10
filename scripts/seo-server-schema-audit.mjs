@@ -89,27 +89,27 @@ const checks = [
   },
   {
     route: '/in-house-tim-vs-agencija',
-    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: false, noindex: false },
+    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: true, noindex: false },
   },
   {
     route: '/fiksna-naknada-vs-revenue-share',
-    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, noindex: false },
+    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: true, noindex: false },
   },
   {
     route: '/seo-optimizacija-cena',
-    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: false, noindex: false },
+    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: true, noindex: false },
   },
   {
     route: '/cene-izrade-sajta',
-    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: false, noindex: false },
+    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: true, noindex: false },
   },
   {
     route: '/cene-digitalnog-marketinga',
-    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: false, noindex: false },
+    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: true, noindex: false },
   },
   {
     route: '/koliko-kosta-facebook-reklama',
-    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: false, noindex: false },
+    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: true, noindex: false },
   },
   {
     route: '/blog/google-ads-cena-po-kliku-srbija-2026',
@@ -224,6 +224,12 @@ for (const item of checks) {
         '/marketing-agencija-beograd': { type: 'Service', url: 'https://platinumzenith.com/marketing-agencija-beograd' },
         '/marketing-agencija-zrenjanin': { type: 'Service', url: 'https://platinumzenith.com/marketing-agencija-zrenjanin' },
         '/marketing-agencija-novi-sad': { type: 'Service', url: 'https://platinumzenith.com/marketing-agencija-novi-sad' },
+        '/in-house-tim-vs-agencija': { type: 'Service', url: 'https://platinumzenith.com/in-house-tim-vs-agencija' },
+        '/fiksna-naknada-vs-revenue-share': { type: 'Service', url: 'https://platinumzenith.com/fiksna-naknada-vs-revenue-share' },
+        '/seo-optimizacija-cena': { type: 'Service', url: 'https://platinumzenith.com/seo-optimizacija-cena' },
+        '/cene-izrade-sajta': { type: 'Service', url: 'https://platinumzenith.com/cene-izrade-sajta' },
+        '/cene-digitalnog-marketinga': { type: 'Service', url: 'https://platinumzenith.com/cene-digitalnog-marketinga' },
+        '/koliko-kosta-facebook-reklama': { type: 'Service', url: 'https://platinumzenith.com/koliko-kosta-facebook-reklama' },
       }
 
       const expected = routeSchemaExpectations[item.route]

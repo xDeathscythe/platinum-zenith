@@ -343,7 +343,104 @@ const SERVER_ROUTE_SCHEMAS = {
       url: SITE_URL,
     },
   },
+  '/in-house-tim-vs-agencija': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Strategijsko savetovanje: in-house tim vs agencija',
+    serviceType: 'Marketing strategy consulting',
+    url: `${SITE_URL}/in-house-tim-vs-agencija`,
+    areaServed: {
+      '@type': 'Country',
+      name: 'Srbija',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
+  '/fiksna-naknada-vs-revenue-share': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Strategijsko savetovanje: fiksna naknada vs revenue share',
+    serviceType: 'Marketing pricing strategy consulting',
+    url: `${SITE_URL}/fiksna-naknada-vs-revenue-share`,
+    areaServed: {
+      '@type': 'Country',
+      name: 'Srbija',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
+  '/seo-optimizacija-cena': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'SEO optimizacija cena',
+    serviceType: 'SEO services',
+    url: `${SITE_URL}/seo-optimizacija-cena`,
+    areaServed: {
+      '@type': 'Country',
+      name: 'Srbija',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
+  '/cene-izrade-sajta': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Cene izrade sajta',
+    serviceType: 'Website development pricing',
+    url: `${SITE_URL}/cene-izrade-sajta`,
+    areaServed: {
+      '@type': 'Country',
+      name: 'Srbija',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
+  '/cene-digitalnog-marketinga': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Cene digitalnog marketinga',
+    serviceType: 'Digital marketing pricing',
+    url: `${SITE_URL}/cene-digitalnog-marketinga`,
+    areaServed: {
+      '@type': 'Country',
+      name: 'Srbija',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
+  '/koliko-kosta-facebook-reklama': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Facebook oglašavanje cena',
+    serviceType: 'Facebook ads management',
+    url: `${SITE_URL}/koliko-kosta-facebook-reklama`,
+    areaServed: {
+      '@type': 'Country',
+      name: 'Srbija',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
 }
+
 
 // Load blog post data for dynamic OG meta on /blog/:slug
 let blogOgPosts = []
