@@ -65,27 +65,27 @@ const checks = [
   },
   {
     route: '/marketing-za-advokate',
-    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, noindex: false },
+    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: true, noindex: false },
   },
   {
     route: '/marketing-za-stomatologe',
-    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, noindex: false },
+    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: true, noindex: false },
   },
   {
     route: '/marketing-za-restorane',
-    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: false, noindex: false },
+    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: true, noindex: false },
   },
   {
     route: '/marketing-agencija-beograd',
-    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: false, noindex: false },
+    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: true, noindex: false },
   },
   {
     route: '/marketing-agencija-zrenjanin',
-    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: false, noindex: false },
+    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: true, noindex: false },
   },
   {
     route: '/marketing-agencija-novi-sad',
-    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: false, noindex: false },
+    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: true, noindex: false },
   },
   {
     route: '/in-house-tim-vs-agencija',
@@ -218,6 +218,12 @@ for (const item of checks) {
         '/google-reklame-cena': { type: 'Service', url: 'https://platinumzenith.com/google-reklame-cena' },
         '/instagram-reklame-cena': { type: 'Service', url: 'https://platinumzenith.com/instagram-reklame-cena' },
         '/izrada-wordpress-sajta-cena': { type: 'Service', url: 'https://platinumzenith.com/izrada-wordpress-sajta-cena' },
+        '/marketing-za-advokate': { type: 'Service', url: 'https://platinumzenith.com/marketing-za-advokate' },
+        '/marketing-za-stomatologe': { type: 'Service', url: 'https://platinumzenith.com/marketing-za-stomatologe' },
+        '/marketing-za-restorane': { type: 'Service', url: 'https://platinumzenith.com/marketing-za-restorane' },
+        '/marketing-agencija-beograd': { type: 'Service', url: 'https://platinumzenith.com/marketing-agencija-beograd' },
+        '/marketing-agencija-zrenjanin': { type: 'Service', url: 'https://platinumzenith.com/marketing-agencija-zrenjanin' },
+        '/marketing-agencija-novi-sad': { type: 'Service', url: 'https://platinumzenith.com/marketing-agencija-novi-sad' },
       }
 
       const expected = routeSchemaExpectations[item.route]

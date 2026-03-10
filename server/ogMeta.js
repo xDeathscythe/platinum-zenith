@@ -247,6 +247,102 @@ const SERVER_ROUTE_SCHEMAS = {
       url: SITE_URL,
     },
   },
+  '/marketing-za-advokate': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Marketing za advokatske kancelarije',
+    serviceType: 'Legal marketing',
+    url: `${SITE_URL}/marketing-za-advokate`,
+    areaServed: {
+      '@type': 'Country',
+      name: 'Srbija',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
+  '/marketing-za-stomatologe': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Marketing za stomatološke ordinacije',
+    serviceType: 'Dental marketing',
+    url: `${SITE_URL}/marketing-za-stomatologe`,
+    areaServed: {
+      '@type': 'Country',
+      name: 'Srbija',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
+  '/marketing-za-restorane': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Marketing za restorane',
+    serviceType: 'Restaurant marketing',
+    url: `${SITE_URL}/marketing-za-restorane`,
+    areaServed: {
+      '@type': 'Country',
+      name: 'Srbija',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
+  '/marketing-agencija-beograd': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Marketing agencija Beograd',
+    serviceType: 'Digital marketing agency services',
+    url: `${SITE_URL}/marketing-agencija-beograd`,
+    areaServed: {
+      '@type': 'City',
+      name: 'Beograd',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
+  '/marketing-agencija-zrenjanin': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Marketing agencija Zrenjanin',
+    serviceType: 'Digital marketing agency services',
+    url: `${SITE_URL}/marketing-agencija-zrenjanin`,
+    areaServed: {
+      '@type': 'City',
+      name: 'Zrenjanin',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
+  '/marketing-agencija-novi-sad': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Marketing agencija Novi Sad',
+    serviceType: 'Digital marketing agency services',
+    url: `${SITE_URL}/marketing-agencija-novi-sad`,
+    areaServed: {
+      '@type': 'City',
+      name: 'Novi Sad',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
 }
 
 // Load blog post data for dynamic OG meta on /blog/:slug
