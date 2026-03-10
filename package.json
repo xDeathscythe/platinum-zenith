@@ -16,6 +16,7 @@
     "seo:landing-qa": "node scripts/seo-landing-qa.mjs",
     "seo:images": "node scripts/seo-image-audit.mjs",
     "seo:links": "node scripts/seo-links-audit.mjs",
+    "seo:blog-schema": "node scripts/seo-blog-schema-audit.mjs",
     "preview": "vite preview"
   },
   "dependencies": {
