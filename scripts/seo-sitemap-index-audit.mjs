@@ -9,6 +9,7 @@ const indexPath = path.join(publicDir, 'sitemap-index.xml')
 const REQUIRED_CHILDREN = [
   'https://platinumzenith.com/sitemap.xml',
   'https://platinumzenith.com/sitemap-images.xml',
+  'https://platinumzenith.com/sitemap-news.xml',
 ]
 
 const issues = []

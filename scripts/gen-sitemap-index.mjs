@@ -8,6 +8,7 @@ const publicDir = path.join(root, 'public')
 const CHILD_SITEMAPS = [
   'sitemap.xml',
   'sitemap-images.xml',
+  'sitemap-news.xml',
 ]
 
 const existingChildren = CHILD_SITEMAPS.filter((name) => fs.existsSync(path.join(publicDir, name)))
