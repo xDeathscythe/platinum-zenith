@@ -662,7 +662,7 @@ const ogMeta = {
   },
   '/izrada-wordpress-sajta-cena': {
     title: 'Izrada WordPress Sajta Cena u Srbiji 2026 | Platinum Zenith',
-    description: 'Cena izrade WordPress sajta u Srbiji 2026: trošak prezentacionog sajta i WooCommerce shopa, šta ulazi u cenu, rokovi i kako da izbegnete skrivene troškove.',
+    description: 'Cena izrade WordPress sajta u Srbiji 2026: paketi za prezentacione i WooCommerce sajtove, rokovi, održavanje i realni skriveni troškovi.',
     ogImage: `${SITE_URL}/pz-og.jpg`,
     ogImageAlt: 'Izrada WordPress sajta cena u Srbiji 2026 - vodič Platinum Zenith',
   },
@@ -1128,6 +1128,29 @@ function injectServerBreadcrumbSchema(html, cleanPath, canonicalUrl, meta) {
   return upsertJsonLdScript(html, schemaId, breadcrumb)
 }
 
+function truncateOgTitle(value, maxLength = 95) {
+  const raw = String(value || '').trim()
+  if (!raw) return ''
+  if (raw.length <= maxLength) return raw
+
+  const cutoff = Math.max(20, maxLength - 1)
+  const sliced = raw.slice(0, cutoff)
+  const lastSpace = sliced.lastIndexOf(' ')
+  const safe = lastSpace > 20 ? sliced.slice(0, lastSpace) : sliced
+  return `${safe.trim()}…`
+}
+
+function buildDynamicBlogOgTitle(baseTitle, isDraft) {
+  const cleanTitle = String(baseTitle || '').trim()
+  if (!cleanTitle) return isDraft ? 'DRAFT | Platinum Zenith' : 'Platinum Zenith Blog'
+
+  if (isDraft) {
+    return truncateOgTitle(`DRAFT: ${cleanTitle} | Platinum Zenith`)
+  }
+
+  return truncateOgTitle(`${cleanTitle} | Platinum Zenith Blog`)
+}
+
 /**
  * Inject per-route OG meta tags into the HTML template.
  * Replaces title, description, canonical URL, og:*, twitter:* tags
@@ -1159,7 +1182,7 @@ export function injectOgMeta(html, pathname) {
   // Dynamic blog post OG: lookup from blogOgData.json
   if (!meta && isBlogPath && matchedBlogPost) {
     meta = {
-      title: `${matchedBlogPost.title} | Platinum Zenith Blog`,
+      title: buildDynamicBlogOgTitle(matchedBlogPost.title, false),
       description: matchedBlogPost.excerpt,
     }
   }
@@ -1167,7 +1190,7 @@ export function injectOgMeta(html, pathname) {
   // Dynamic draft OG: lookup from blogOgData.json
   if (!meta && isDraftPath && matchedBlogPost) {
     meta = {
-      title: `DRAFT: ${matchedBlogPost.title} | Platinum Zenith`,
+      title: buildDynamicBlogOgTitle(matchedBlogPost.title, true),
       description: matchedBlogPost.excerpt,
     }
   }
