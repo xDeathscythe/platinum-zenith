@@ -11,6 +11,7 @@
     "lint": "eslint .",
     "seo:audit": "node scripts/seo-audit.mjs",
     "seo:route-hygiene": "node scripts/seo-route-hygiene-audit.mjs",
+    "seo:route-schema-hygiene": "node scripts/seo-route-schema-hygiene-audit.mjs",
     "seo:unknown-route-noindex": "node scripts/seo-unknown-route-noindex-audit.mjs",
     "seo:fix-og": "node scripts/seo-audit.mjs --fix",
     "seo:blog-og": "node scripts/gen-blog-og.js",
