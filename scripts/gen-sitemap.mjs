@@ -104,7 +104,7 @@ const staticUrls = uniqueStaticRoutes
 
 const uniqueBlogPosts = [...new Map(
   blogPosts
-    .filter((post) => post?.slug)
+    .filter((post) => post?.slug && !post?.isDraft)
     .map((post) => [post.slug, post]),
 ).values()]
 

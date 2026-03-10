@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { useParams, Link } from 'react-router-dom'
+import { useParams, Link, useLocation } from 'react-router-dom'
 import { blogPosts } from './blogData'
 import { blogIllustrationMap } from './BlogIllustrations'
 import BuyerPyramid from './BuyerPyramid'
@@ -129,9 +129,12 @@ function ReadingProgress() {
 
 export default function BlogPostPage() {
   const { slug } = useParams()
+  const { pathname } = useLocation()
   const post = blogPosts.find(p => p.slug === slug)
+  const isDraftRoute = pathname.startsWith('/draft/')
+  const shouldHidePost = !post || (post.isDraft && !isDraftRoute) || (!post.isDraft && isDraftRoute)
 
-  if (!post) {
+  if (shouldHidePost) {
     return (
       <div className="min-h-screen flex items-center justify-center">
         <div className="text-center">
