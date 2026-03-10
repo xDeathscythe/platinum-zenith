@@ -284,7 +284,7 @@ const ogMeta = {
   },
   '/marketing-agencija-beograd': {
     title: 'Marketing Agencija za Beograd | Digitalni Marketing | Platinum Zenith',
-    description: 'Digitalni marketing za firme u Beogradu: izrada sajtova, SEO, Google Ads i društvene mreže uz jasne KPI ciljeve, mesečne izveštaje i plan rasta po budžetu.',
+    description: 'Marketing agencija za Beograd: SEO, Google Ads, Meta Ads i landing stranice koje povećavaju kvalifikovane upite, uz mesečne izveštaje i jasan ROI po kanalu.',
   },
   '/seo-optimizacija-cena': {
     title: 'Koliko Košta SEO Optimizacija u Srbiji 2026 | Cene SEO | Platinum Zenith',
@@ -292,7 +292,7 @@ const ogMeta = {
   },
   '/marketing-agencija-zrenjanin': {
     title: 'Marketing Agencija Zrenjanin | Digitalni Marketing | Platinum Zenith',
-    description: 'Digitalni marketing u Zrenjaninu. Izrada sajtova, SEO, Google Ads, društvene mreže. Lokalna agencija koja donosi rezultate.',
+    description: 'Digitalni marketing u Zrenjaninu za lokalne firme: SEO, Google Ads, društvene mreže i optimizacija sajta koja donosi više poziva, upita i prodaja.',
   },
   '/cene-izrade-sajta': {
     title: 'Koliko Košta Izrada Sajta u Srbiji 2026 | Cene i Vodič | Platinum Zenith',
@@ -308,7 +308,7 @@ const ogMeta = {
   },
   '/marketing-agencija-novi-sad': {
     title: 'Marketing Agencija Novi Sad | Digitalni Marketing | Platinum Zenith',
-    description: 'Marketing agencija za firme u Novom Sadu. Izrada sajtova, SEO, Google Ads, društvene mreže. Besplatna procena i merljivi rezultati.',
+    description: 'Marketing agencija za Novi Sad: SEO, Google Ads, Meta kampanje i web optimizacija za stabilan rast upita i prodaje uz transparentno praćenje budžeta.',
   },
   '/web-shop-nema-prodaju': {
     title: 'Web Shop Nema Prodaju? 5 Razloga i Rešenja | Platinum Zenith',
