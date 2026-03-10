@@ -4838,5 +4838,54 @@ Ako se ta tri broja pomere u dobrom smeru, na pravom si putu.
 
 Za širi kontekst pogledajte i [A/B testiranje: male promene, veliki rezultati](/blog/ab-testiranje-male-promene-veliki-rezultati), [Web shop nema prodaju: 5 razloga i rešenja](/web-shop-nema-prodaju) i [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026).
 `,
-  },
+  },,
+  {
+    slug: 'hormozi-ponuda-kojoj-klijent-ne-kaze-ne',
+    title: 'Alex Hormozi pristup: kako da napravite ponudu kojoj klijent teško kaže ne',
+    excerpt: 'Dobra usluga nije dovoljna ako ponuda nije jasna. Evo praktičnog okvira kako da formirate ponudu koja smanjuje rizik klijenta i povećava prodaju.',
+    date: '2026-03-10',
+    category: 'Marketing',
+    readTime: '8 min',
+    content: `
+## Zašto većina ponuda ne prolazi
+
+Najčešći problem nije cena. Problem je nejasna vrednost. Klijent ne vidi tačno šta dobija, kada dobija i kako merimo rezultat.
+
+Hormozi pristup je jednostavan: ponuda mora da podigne željeni ishod, skrati vreme do rezultata i smanji trud i rizik za klijenta.
+
+## 1) Definišite ishod koji klijent kupuje
+
+Ne prodajete „SEO uslugu“. Klijent kupuje više upita i više prodaje.
+
+## 2) Uklonite nejasnoće iz ponude
+
+U svakoj ponudi jasno napišite:
+- šta tačno radite,
+- koliko često,
+- ko je odgovoran,
+- koji je rok prve isporuke.
+
+## 3) Smanjite rizik za klijenta
+
+Klijent ne voli nepoznat rizik. Zato uvedite zaštitu:
+- jasan probni period,
+- KPI koji su transparentni,
+- plan korekcije ako rezultati kasne.
+
+## 4) Pojačajte vrednost kroz strukturu isporuke
+
+Ista usluga deluje vrednije kada je struktura jasna: početni audit, plan po fazama, nedeljni update, mesečni izveštaj.
+
+## 5) Cena bez konteksta je samo broj
+
+Cenu uvek vezujte za ishod i obim posla. Umesto jedne cifre, prikažite pakete i šta svaki paket rešava.
+
+## Zaključak
+
+Kad klijent vidi jasan ishod, plan i kontrolu rizika, odluka dolazi brže. To je suština ponude kojoj je teško reći ne.
+
+Ako želite širi kontekst, pogledajte i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share), [cene digitalnog marketinga](/cene-digitalnog-marketinga) i [kako izabrati pravu marketing agenciju](/blog/kako-izabrati-pravu-marketing-agenciju).
+`,
+  }
+
 ]
