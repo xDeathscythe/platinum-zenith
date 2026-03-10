@@ -28,8 +28,45 @@ export default function BlogPage() {
   const featured = filtered[0]
   const rest = filtered.slice(1)
 
+  const blogCollectionSchema = useMemo(() => ({
+    '@context': 'https://schema.org',
+    '@graph': [
+      {
+        '@type': 'Blog',
+        name: 'Platinum Zenith Blog',
+        description: 'Praktični saveti o marketingu, prodaji i rastu biznisa.',
+        url: 'https://platinumzenith.com/blog',
+        inLanguage: 'sr-RS',
+        publisher: {
+          '@type': 'Organization',
+          name: 'Platinum Zenith',
+          url: 'https://platinumzenith.com',
+        },
+      },
+      {
+        '@type': 'ItemList',
+        itemListElement: sortedPosts.slice(0, 30).map((post, index) => ({
+          '@type': 'ListItem',
+          position: index + 1,
+          url: `https://platinumzenith.com/blog/${post.slug}`,
+          item: {
+            '@type': 'BlogPosting',
+            headline: post.title,
+            datePublished: post.date,
+            description: post.excerpt,
+          },
+        })),
+      },
+    ],
+  }), [sortedPosts])
+
   return (
     <>
+      <script
+        id="ld-blog-index"
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(blogCollectionSchema) }}
+      />
       {/* ─── Minimal editorial header ─── */}
       <section className="pt-[140px] md:pt-[180px] pb-6 px-4 md:px-8">
         <div className="max-w-[1100px] mx-auto">
