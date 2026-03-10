@@ -163,15 +163,26 @@ function FAQItem({ question, answer, index }) {
 }
 
 export default function FAQPage() {
-  // Generate FAQ structured data for Google rich results
+  // Generate FAQ + breadcrumb structured data for Google rich results
   const faqSchema = {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": faqData.flatMap(cat => cat.questions.map(q => ({
-      "@type": "Question",
-      "name": q.q,
-      "acceptedAnswer": { "@type": "Answer", "text": q.a }
-    })))
+    "@graph": [
+      {
+        "@type": "FAQPage",
+        "mainEntity": faqData.flatMap(cat => cat.questions.map(q => ({
+          "@type": "Question",
+          "name": q.q,
+          "acceptedAnswer": { "@type": "Answer", "text": q.a }
+        })))
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Početna", "item": "https://platinumzenith.com/" },
+          { "@type": "ListItem", "position": 2, "name": "FAQ", "item": "https://platinumzenith.com/faq" }
+        ]
+      }
+    ]
   }
 
   return (
