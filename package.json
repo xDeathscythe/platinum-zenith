@@ -27,6 +27,7 @@
     "seo:alt-quality": "node scripts/seo-alt-quality-audit.mjs",
     "seo:links": "node scripts/seo-links-audit.mjs",
     "seo:link-integrity": "node scripts/seo-internal-link-integrity-audit.mjs",
+    "seo:link-coverage": "node scripts/seo-link-coverage-audit.mjs",
     "seo:blog-schema": "node scripts/seo-blog-schema-audit.mjs",
     "seo:meta-quality": "node scripts/seo-meta-quality-audit.mjs",
     "seo:meta-quality:strict": "node scripts/seo-meta-quality-audit.mjs --strict",
