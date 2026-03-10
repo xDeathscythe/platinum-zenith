@@ -88,11 +88,30 @@ app.use((req, res, next) => {
     return res.redirect(301, `${legacyTarget}${query}`)
   }
 
+  const [pathname, query = ''] = req.originalUrl.split('?')
+  const isApiRoute = req.path.startsWith('/api')
+  const isAssetLike = pathname.startsWith('/assets/') || /\.[a-z0-9]+$/i.test(pathname)
+
+  if (!isApiRoute && !isAssetLike) {
+    let normalizedPath = pathname.replace(/\/+/g, '/')
+    if (normalizedPath !== '/' && normalizedPath.endsWith('/')) {
+      normalizedPath = normalizedPath.replace(/\/+$/, '')
+    }
+    if (!normalizedPath) normalizedPath = '/'
+
+    const lowerPath = normalizedPath.toLowerCase()
+
+    if (pathname !== normalizedPath || pathname !== lowerPath) {
+      const target = lowerPath + (query ? `?${query}` : '')
+      return res.redirect(301, target)
+    }
+  }
+
   if (req.path !== '/' && req.path.endsWith('/') && !req.path.startsWith('/api')) {
-    const [pathname, query = ''] = req.originalUrl.split('?')
     const clean = pathname.replace(/\/+$/, '') + (query ? `?${query}` : '')
     return res.redirect(301, clean)
   }
+
   next()
 })
 
