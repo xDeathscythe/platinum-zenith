@@ -43,6 +43,30 @@ const expectedCustomImage = {
   '/google-reklame-cena': `${SITE_URL}/pz-og.jpg`,
   '/instagram-reklame-cena': `${SITE_URL}/pz-og.jpg`,
   '/izrada-wordpress-sajta-cena': `${SITE_URL}/pz-og.jpg`,
+  '/koliko-kosta-facebook-reklama': `${SITE_URL}/pz-og.jpg`,
+  '/seo-optimizacija-cena': `${SITE_URL}/pz-og.jpg`,
+  '/cene-izrade-sajta': `${SITE_URL}/pz-og.jpg`,
+  '/cene-digitalnog-marketinga': `${SITE_URL}/pz-og.jpg`,
+  '/marketing-agencija-beograd': `${SITE_URL}/pz-og.jpg`,
+  '/marketing-agencija-zrenjanin': `${SITE_URL}/pz-og.jpg`,
+  '/marketing-agencija-novi-sad': `${SITE_URL}/pz-og.jpg`,
+  '/facebook-oglasi-ne-rade': `${SITE_URL}/pz-og.jpg`,
+  '/web-shop-nema-prodaju': `${SITE_URL}/pz-og.jpg`,
+}
+
+const expectedCustomAlt = {
+  '/google-reklame-cena': 'Google reklame cena u Srbiji 2026 - vodič Platinum Zenith',
+  '/instagram-reklame-cena': 'Instagram reklame cena u Srbiji 2026 - vodič Platinum Zenith',
+  '/izrada-wordpress-sajta-cena': 'Izrada WordPress sajta cena u Srbiji 2026 - vodič Platinum Zenith',
+  '/koliko-kosta-facebook-reklama': 'Koliko košta Facebook reklama u Srbiji - vodič kroz troškove',
+  '/seo-optimizacija-cena': 'SEO optimizacija cena u Srbiji 2026 - vodič kroz pakete',
+  '/cene-izrade-sajta': 'Koliko košta izrada sajta u Srbiji - cenovni vodič 2026',
+  '/cene-digitalnog-marketinga': 'Cene digitalnog marketinga u Srbiji 2026 - pregled usluga',
+  '/marketing-agencija-beograd': 'Marketing agencija Beograd - SEO i oglasi za rast upita',
+  '/marketing-agencija-zrenjanin': 'Marketing agencija Zrenjanin - lokalni rast kroz SEO i oglase',
+  '/marketing-agencija-novi-sad': 'Marketing agencija Novi Sad - SEO i PPC za stabilan rast',
+  '/facebook-oglasi-ne-rade': 'Facebook oglasi ne rade - 6 razloga i plan popravke kampanje',
+  '/web-shop-nema-prodaju': 'Web shop nema prodaju - dijagnostika i koraci za rast konverzije',
 }
 
 const issues = []
@@ -73,7 +97,12 @@ for (const route of routes) {
   if (expectedCustomImage[route] && ogImage !== expectedCustomImage[route]) {
     issues.push(`${route}: expected custom og:image ${expectedCustomImage[route]}, got ${ogImage}`)
   }
+
+  if (expectedCustomAlt[route] && ogImageAlt !== expectedCustomAlt[route]) {
+    issues.push(`${route}: expected custom og:image:alt "${expectedCustomAlt[route]}", got "${ogImageAlt}"`)
+  }
 }
+
 
 const report = {
   generatedAt: new Date().toISOString(),

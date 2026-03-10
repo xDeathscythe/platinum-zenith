@@ -579,18 +579,26 @@ const ogMeta = {
   '/marketing-agencija-beograd': {
     title: 'Marketing Agencija za Beograd | Digitalni Marketing | Platinum Zenith',
     description: 'Marketing agencija za Beograd: SEO, Google Ads, Meta Ads i landing stranice koje povećavaju kvalifikovane upite, uz mesečne izveštaje i jasan ROI po kanalu.',
+    ogImage: `${SITE_URL}/pz-og.jpg`,
+    ogImageAlt: 'Marketing agencija Beograd - SEO i oglasi za rast upita',
   },
   '/seo-optimizacija-cena': {
     title: 'Koliko Košta SEO Optimizacija u Srbiji 2026 | Cene SEO | Platinum Zenith',
     description: 'Realne cene SEO optimizacije u Srbiji: osnovni paketi od 300€, napredni od 500€ i premium od 1.200€ mesečno, uz audit sajta i plan rasta pozicija.',
+    ogImage: `${SITE_URL}/pz-og.jpg`,
+    ogImageAlt: 'SEO optimizacija cena u Srbiji 2026 - vodič kroz pakete',
   },
   '/marketing-agencija-zrenjanin': {
     title: 'Marketing Agencija Zrenjanin | Digitalni Marketing | Platinum Zenith',
     description: 'Digitalni marketing u Zrenjaninu za lokalne firme: SEO, Google Ads, društvene mreže i optimizacija sajta koja donosi više poziva, upita i prodaja.',
+    ogImage: `${SITE_URL}/pz-og.jpg`,
+    ogImageAlt: 'Marketing agencija Zrenjanin - lokalni rast kroz SEO i oglase',
   },
   '/cene-izrade-sajta': {
     title: 'Koliko Košta Izrada Sajta u Srbiji 2026 | Cene i Vodič | Platinum Zenith',
     description: 'Realne cene izrade sajta u Srbiji za 2026. Prezentacioni sajt od 300€, poslovni od 800€, web shop od 1.500€. Vodič kroz cene bez skrivenih troškova.',
+    ogImage: `${SITE_URL}/pz-og.jpg`,
+    ogImageAlt: 'Koliko košta izrada sajta u Srbiji - cenovni vodič 2026',
   },
   '/agencija-vs-freelancer': {
     title: 'Agencija ili Freelancer? Uporedni Vodič za 2026 | Platinum Zenith',
@@ -599,18 +607,26 @@ const ogMeta = {
   '/cene-digitalnog-marketinga': {
     title: 'Koliko Košta Digitalni Marketing u Srbiji 2026 | Cene i Vodič | Platinum Zenith',
     description: 'Realne cene digitalnog marketinga u Srbiji za 2026. Mesečni paketi od 300€, SEO od 200€, Google Ads od 200€. Vodič kroz troškove po usluzi.',
+    ogImage: `${SITE_URL}/pz-og.jpg`,
+    ogImageAlt: 'Cene digitalnog marketinga u Srbiji 2026 - pregled usluga',
   },
   '/marketing-agencija-novi-sad': {
     title: 'Marketing Agencija Novi Sad | Digitalni Marketing | Platinum Zenith',
     description: 'Marketing agencija za Novi Sad: SEO, Google Ads, Meta kampanje i web optimizacija za stabilan rast upita i prodaje uz transparentno praćenje budžeta.',
+    ogImage: `${SITE_URL}/pz-og.jpg`,
+    ogImageAlt: 'Marketing agencija Novi Sad - SEO i PPC za stabilan rast',
   },
   '/web-shop-nema-prodaju': {
     title: 'Web Shop Nema Prodaju? 5 Razloga i Rešenja | Platinum Zenith',
     description: 'Vaš web shop ima posete, ali nema prodaju? Otkrivamo 5 najčešćih razloga, konkretna rešenja za svaki problem i korake za brže podizanje konverzije.',
+    ogImage: `${SITE_URL}/pz-og.jpg`,
+    ogImageAlt: 'Web shop nema prodaju - dijagnostika i koraci za rast konverzije',
   },
   '/koliko-kosta-facebook-reklama': {
     title: 'Koliko Košta Facebook Reklama u Srbiji 2026 | Vodič Kroz Cene | Platinum Zenith',
     description: 'Realne cene Facebook i Instagram oglasa u Srbiji za 2026. CPC od 0,05€, mesečni budžet od 200€. Vodič kroz troškove i česte greške.',
+    ogImage: `${SITE_URL}/pz-og.jpg`,
+    ogImageAlt: 'Koliko košta Facebook reklama u Srbiji - vodič kroz troškove',
   },
   '/google-reklame-cena': {
     title: 'Google Reklame Cena 2026 + Vođenje Kampanja | Platinum Zenith',
@@ -657,6 +673,8 @@ const ogMeta = {
   '/facebook-oglasi-ne-rade': {
     title: 'Facebook Oglasi Ne Rade? 6 Razloga i Kako Popraviti | Platinum Zenith',
     description: 'Zašto vaši Facebook oglasi ne donose rezultate i šta konkretno da promenite. Dijagnostika najčešćih grešaka sa koracima za popravku.',
+    ogImage: `${SITE_URL}/pz-og.jpg`,
+    ogImageAlt: 'Facebook oglasi ne rade - 6 razloga i plan popravke kampanje',
   },
   '/alati/roi-kalkulator': {
     title: 'ROI Kalkulator za Marketing | Besplatan Alat | Platinum Zenith',
