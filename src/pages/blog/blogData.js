@@ -4729,7 +4729,7 @@ Ako znate:
 
 možete okvirno izračunati maksimalni prihvatljiv CPL, pa unazad planirati CPC cilj.
 
-Ako vam je potreban širi kontekst budžeta, pogledajte i [Google reklame cena](/google-reklame-cena), [Instagram reklame cena](/instagram-reklame-cena), [koliko košta Facebook reklama](/koliko-kosta-facebook-reklama), [cene digitalnog marketinga](/cene-digitalnog-marketinga) i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+Ako vam je potreban širi kontekst budžeta, pogledajte i [Google reklame cena](/google-reklame-cena), [Instagram reklame cena](/instagram-reklame-cena), [koliko košta Facebook reklama](/koliko-kosta-facebook-reklama), [Instagram Ads cena po kliku u Srbiji 2026](/blog/instagram-ads-cena-po-kliku-srbija-2026), [cene digitalnog marketinga](/cene-digitalnog-marketinga) i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
 
 Takođe preporučujemo: [Kako skalirati plaćene oglase bez bacanja novca](/blog/kako-skalirati-placene-oglase-bez-bacanja-novca).
 
@@ -5630,6 +5630,327 @@ Za kontekst performansi landing stranica, korisno je i [izrada landing stranice:
 ---
 
 Ako želite da procenimo vaš trenutni sajt i damo realan plan održavanja po prioritetima, javite se kroz [kontakt formu](/kontakt).
+`,
+  },
+  {
+    slug: 'vodjenje-drustvenih-mreza-cena-srbija-2026',
+    title: 'Vođenje društvenih mreža cena u Srbiji 2026: šta ulazi i koliko realno košta',
+    excerpt: 'Cene vođenja društvenih mreža idu od 150€ do 2.000€+ mesečno, ali razlika nije samo u broju objava. Evo šta stvarno plaćate, koji paket ima smisla za vaš biznis i kako da ne bacite budžet.',
+    date: '2026-03-10',
+    category: 'Digitalni marketing',
+    readTime: '9 min',
+    content: `
+## Koliko košta vođenje društvenih mreža u Srbiji
+
+Ako želite kratak odgovor: u 2026. najčešći raspon za vođenje društvenih mreža u Srbiji je **150€ do 2.000€+ mesečno**.
+
+- Mikro biznisi uglavnom su u rasponu 150-400€.
+- Lokalne firme sa ozbiljnijim ciljem rasta najčešće su 400-900€.
+- Brendovi koji aktivno skaliraju kampanje idu 900-2.000€+.
+
+Najveća greška je da se cena poredi samo po broju objava. Objave su samo mali deo posla.
+
+## Zašto dve ponude mogu da se razlikuju 5x
+
+Kod jedne agencije "vođenje" znači 8 Canva objava mesečno i to je to.
+Kod druge uključuje strategiju, kreativu, community management, plaćene kampanje, testiranje i mesečnu optimizaciju.
+
+Zato je prvo pitanje: **da li kupujete prisustvo ili rezultat?**
+
+Ako želite širi kontekst usluga i modela saradnje, pogledajte i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Šta mora da bude uključeno u cenu
+
+### 1) Strategija i plan sadržaja
+
+Bez strategije dobijate "lepe postove" bez poslovnog efekta.
+
+Minimum koji treba da postoji:
+- analiza publike i konkurencije,
+- content pillars,
+- plan tema po prodajnom levku,
+- jasni ciljevi po kanalu.
+
+### 2) Produkcija sadržaja
+
+Ovde obično ide najveći deo vremena:
+- copywriting,
+- dizajn statika i karusela,
+- kratki video/reels format,
+- prilagođavanje formata po mreži.
+
+Broj objava je bitan, ali kvalitet poruke i kreativa je bitniji.
+
+### 3) Community management
+
+Komentari, DM poruke i moderacija direktno utiču na poverenje i konverzije.
+
+Ako ovo nije uključeno, gubite leadove koji su već pokazali interesovanje.
+
+### 4) Plaćene kampanje (kad su deo paketa)
+
+Organski sadržaj retko sam iznese ozbiljan rast.
+
+Zato se često kombinuje sa oglasima:
+- Meta Ads (Facebook/Instagram),
+- retargeting publike,
+- kampanje za lead ili prodaju.
+
+Za paid benchmarke pogledajte [koliko košta Facebook reklama](/koliko-kosta-facebook-reklama) i [Instagram reklame cena](/instagram-reklame-cena).
+
+### 5) Merenje i optimizacija
+
+Bez analitike ne znate da li sadržaj radi.
+
+Tražite da paket uključuje:
+- mesečni izveštaj sa KPI-jima,
+- zaključke šta radi/ne radi,
+- konkretne sledeće testove.
+
+## Realni cenovni modeli u 2026.
+
+### Basic (150-400€ / mesečno)
+
+Najčešće uključuje:
+- 8-12 objava,
+- osnovni dizajn i copy,
+- minimalni community management.
+
+Dovoljno za početno prisustvo, ali obično nedovoljno za ozbiljan rast leadova.
+
+### Growth (400-900€ / mesečno)
+
+Najčešći model za lokalne firme i B2B usluge:
+- 12-20 objava,
+- bolji mix formata,
+- aktivnija komunikacija sa publikom,
+- redovni mesečni izveštaji.
+
+Ovo je često najbolji odnos cene i rezultata.
+
+### Performance (900-2.000€+ / mesečno)
+
+Za firme koje žele agresivniji rast:
+- full content + video,
+- community + DM proces,
+- paid kampanje i testiranje,
+- dublja analitika i optimizacija funnel-a.
+
+Ako vam je fokus lead generation, ovo se često kombinuje sa stranicom [društvene mreže](/drustvene-mreze) i jasnim CTA tokovima.
+
+## Kako da procenite da li je ponuda dobra
+
+Pre nego što potpišete, tražite jasne odgovore na 6 pitanja:
+
+1. Koliko sadržaja mesečno i u kojim formatima?
+2. Da li je community management uključen ili se posebno plaća?
+3. Koje KPI metrike pratite (ne samo reach)?
+4. Ko pravi kreativu i ko odobrava objave?
+5. Da li je uključeno testiranje oglasa i budžetiranje?
+6. Šta je rok za prve merljive rezultate?
+
+Ako su odgovori nejasni, velika je šansa da ćete platiti aktivnost, a ne rezultat.
+
+## Najčešće greške koje dižu trošak bez efekta
+
+- Fokus samo na broj objava, bez strategije.
+- Kopiranje trendova bez veze sa ponudom.
+- Bez procesa za DM i komentare.
+- Bez landing stranice koja zatvara lead.
+- Bez mesečne optimizacije i testiranja.
+
+Društvene mreže rade najbolje kad su povezane sa celim sistemom akvizicije, a ne kao izolovan kanal.
+
+## Zaključak
+
+Cena vođenja društvenih mreža zavisi od dubine posla, ne od estetike feed-a.
+
+Ako želite realnu procenu po vašoj niši, cilju i budžetu, javite se preko [kontakt forme](/kontakt) i dobićete konkretan plan šta ima smisla da radite sada, a šta kasnije.
+`,
+  },
+  {
+    slug: 'instagram-ads-cena-po-kliku-srbija-2026',
+    title: 'Instagram Ads cena po kliku u Srbiji 2026: realni rasponi po nisi',
+    excerpt: 'Koliko stvarno kosta klik na Instagramu u Srbiji 2026? Evo realnih CPC raspona po nisama i kako da spustite cenu klika bez pada kvaliteta leadova i prodaje.',
+    date: '2026-03-10',
+    category: 'Marketing',
+    readTime: '9 min',
+    content: `
+## Koliko kosta klik na Instagramu u Srbiji
+
+Kratak odgovor: u 2026. godini CPC na Instagramu u Srbiji najcesce se krece od **0,08€ do 1,20€**.
+
+Dug odgovor: zavisi od nise, kvaliteta kreativa, ponude, publike i landing strane na koju saljete saobracaj.
+
+Zato je bolje pitanje: koliko vas kosta kvalifikovan lead ili kupovina, a ne samo klik.
+
+## Realni CPC rasponi po nisama (Srbija, 2026)
+
+Ovo su tipicni rasponi koje vidjamo kod kampanja za srpsko trziste.
+
+### 1) Lokalni biznisi i usluge
+
+Primeri: saloni, fitnes, ugostiteljstvo, lokalne usluge.
+
+- tipicni CPC: **0,08€ - 0,35€**
+- zasto: siroka publika i dosta jeftinog reach-a
+
+Ako je poruka jasna i CTA konkretan, ovaj segment cesto daje dobar odnos cene klika i broja upita.
+
+### 2) E-commerce (fashion, beauty, lifestyle)
+
+- tipicni CPC: **0,12€ - 0,55€**
+- zasto: vizuelna platforma, ali jaka konkurencija i ad fatigue
+
+Ovde nije dovoljno gledati samo klik. Morate pratiti i cenu dodavanja u korpu, checkout i ROAS.
+
+### 3) Medicinske i estetske usluge
+
+- tipicni CPC: **0,25€ - 0,90€**
+- zasto: veca vrednost klijenta i visoka konkurencija u gradovima
+
+Klik je skuplji, ali i lead moze vredeti znatno vise ako je funnel dobar.
+
+### 4) B2B i agencijske usluge
+
+- tipicni CPC: **0,30€ - 1,20€**
+- zasto: uza publika i teza namera kupovine na samoj platformi
+
+Kod B2B kampanja Instagram cesto bolje radi kao deo sirg funnel-a nego kao jedini kanal.
+
+## Sta najvise podize cenu klika na Instagramu
+
+### 1) Slab hook u prve 2 sekunde
+
+Ako kreativ ne zaustavi skrol odmah, CTR pada, a CPC raste.
+
+### 2) Previse siroka publika bez strukture
+
+Kada target nije podeljen po intentu i fazi funnel-a, algoritam trosi budzet na klikove koji ne konvertuju.
+
+### 3) Ad fatigue
+
+Isti oglas predugo u opticaju skoro uvek podize cenu klika i obara kvalitet saobracaja.
+
+### 4) Slab landing ili spor sajt
+
+Instagram moze da dovede klik, ali lose post-click iskustvo unisti ekonomiju kampanje.
+
+### 5) Nema negativne selekcije kroz poruku
+
+Ako oglas ne filtrira kome je ponuda namenjena, dobijate jeftine ali slabe klikove.
+
+## Kako da smanjite CPC bez pada kvaliteta leadova
+
+### 1) Testirajte vise hook varijanti nedeljno
+
+Jedna promena prvog kadra ili prve recenice cesto menja CPC 20-40%.
+
+### 2) Osvezavajte kreativu pre nego sto izgori
+
+Ne cekajte da performans padne drasticno. Planirana rotacija kreativa cuva stabilan trosak.
+
+### 3) Razdvojite cold, warm i hot publiku
+
+Svaki nivo publike trazi drugaciju poruku. Jedan oglas za sve skoro uvek znaci skuplji klik.
+
+### 4) Uskladite poruku oglasa i landing strane
+
+Ako oglas obecava cenu, rezultat ili rok, landing mora da nastavi istu poruku bez lutanja.
+
+### 5) Merite dalje od CPC-a
+
+Pratite CPL, cenu kupovine, stopu zatvaranja i ROAS. CPC je samo ulazna metrika.
+
+## Kada je visi CPC i dalje dobar
+
+Ako placate 0,80€ po kliku, ali dobijate leadove koji se zatvaraju i ostavljaju dobru marzu, kampanja je zdrava.
+
+Ako placate 0,12€ po kliku, a leadovi su slabi i ne zatvaraju se, kampanja je skupa bez obzira na "jeftin" CPC.
+
+Najvaznije je da gledate celu ekonomiju, od klika do profita.
+
+## Praktican benchmark koji vredi pratiti
+
+Za vecinu kampanja u Srbiji, zdrav okvir izgleda ovako:
+
+- CTR koji ne tone iz nedelje u nedelju
+- CPC stabilan u ciljnom rasponu za vasu nisu
+- jasan pad cene lead-a posle prvih iteracija
+- konzistentan kvalitet upita kroz prodajni tim
+
+Ako jedan od ova 4 stuba puca, vreme je za korekciju poruke, publike ili landing-a.
+
+Za sire planiranje budzeta pogledajte [Instagram reklame cena](/instagram-reklame-cena), [Google reklame cena](/google-reklame-cena), [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama) i [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026).
+
+Takodje preporucujemo: [Kako skalirati placene oglase bez bacanja novca](/blog/kako-skalirati-placene-oglase-bez-bacanja-novca).
+
+---
+
+Ako hocete da analiziramo vase kampanje i pokazemo gde trenutno preplacujete Instagram klik, [javite nam se](/kontakt).
+`,
+  },
+  {
+    slug: 'leila-hormozi-kada-zaposliti-prvog-marketing-menadzera',
+    title: 'Leila Hormozi: kada je pravo vreme da zaposlite prvog marketing menadzera',
+    excerpt: 'Praktican vodic kada i kako da zaposlite prvog marketing menadzera bez skupih gresaka: signali, scorecard, 30-60-90 plan i sta meriti odmah.',
+    date: '2026-03-10',
+    category: 'Marketing',
+    readTime: '8 min',
+    content: `
+## Zasto ova tema uopste boli vlasnike biznisa
+
+Vecina firmi ne pogresi zato sto je "kasno" zaposlila marketing menadzera. Pogresi zato sto zaposli osobu, a nije definisala sistem.
+
+Leila Hormozi ovu temu obicno svodi na jednostavnu logiku: ne zaposljavas da bi skinuo sebi stres, nego da bi povecao throughput. Ako throughput ne skoci, to nije hire, to je skuplji haos.
+
+## 5 signala da je vreme za prvog marketing menadzera
+
+Prvi signal je da vise ne stizes da donosis odluke o kampanjama na vreme. Nije problem sto si umoran, nego sto odluke kasne i pipeline trpi.
+
+Drugi signal je da vec imas vise od jednog kanala i da svaki kanal ima svoj ritam. Ako radis i oglase i sadrzaj i email, a sve prolazi kroz jednu osobu, ubrzo dolazi do zastoja.
+
+Treci signal je da znas sta ti radi, ali to ne mozes da ponovis dosledno. Jedan dobar mesec nije sistem. Menadzer treba da pretvori dobar mesec u predvidljiv proces.
+
+Cetvrti signal je da imas tim koji moze da izvrsi, ali nema ko da drzi prioritet i redosled. U toj situaciji ljudi rade, ali firma stagnira.
+
+Peti signal je da si vec finansijski spreman da izdrzis onboarding 3-6 meseci bez panike. Ako ocekujes da se pozicija "isplati" za 30 dana, postavljas pogresan okvir od starta.
+
+## Sta obavezno uraditi pre zaposljavanja
+
+Pre nego sto objavis oglas, spakuj ono sto vec znas u dokument od par strana. Tu ulaze ponuda, idealan kupac, glavni kanali i brojke koje su ti bitne.
+
+Ako nemas osnovne KPI-jeve i baseline, novi menadzer ce prvih mesec dana trositi na detektivski posao. To nije njegova krivica, to je priprema koju je firma preskocila.
+
+Najprakticnije je da pre zaposljavanja definises i granice odgovornosti. Ko odlucuje o budzetu, ko potpisuje kreativu, ko vodi reporting ritam. Bez toga, sve odluke se vracaju vlasniku i opet imas isti problem koji si hteo da resis.
+
+## Kako izgleda dobar scorecard za ovu ulogu
+
+Nemoj pisati oglas kao listu zelja. Napravi scorecard sa jasnim ishodima za 30, 60 i 90 dana.
+
+U prvih 30 dana cilj je audit i prioriteti. U narednih 60 dana cilj je da procesi stanu na noge. Do 90. dana cilj je da vidis prve stabilne pomake u kvalitetu leadova, brzini iteracije i predvidljivosti rezultata.
+
+Ako hoces referencu kako da postavis metrike, pogledaj i tekst [Kako citati marketing izvestaj](/blog/kako-citati-marketing-izvestaj) i uskladi ga sa sopstvenim [digitalnim marketing planom](/digitalni-marketing).
+
+## Najcesce greske koje firme naprave
+
+Prva greska je da traze "seniora za sve" koji ce istovremeno da vodi strategiju, radi kreativu, pise copy, kupuje media i vodi analitiku. To je put ka brzom burnout-u.
+
+Druga greska je da plate poziciju, ali ne daju autoritet. Ako menadzer nema pravo da kaze "ovo stop" i "ovo ide prvo", onda nije menadzer nego koordinator bez uticaja.
+
+Treca greska je da ocekuju rast bez fokusa. Menadzer nije carobnjak. Ako je ponuda nejasna, ako landing ne konvertuje i ako sales tim kasni sa follow-upom, marketing ne moze sam da nosi rezultat.
+
+## Kako da odluka bude finansijski zdrava
+
+Najbolji okvir je da ovu odluku gledas kroz throughput, ne kroz ego. Ako nova osoba skrati ciklus odluke, ubrza testiranje i podigne kvalitet upita, plata ima smisla.
+
+Ako zelis da proveris da li ti je trenutna struktura uopste spremna za ovu ulogu, pre zaposljavanja uradi kratku dijagnostiku kroz [consulting](/consulting) ili uporedi model sa onim sto vec ulazi u [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Zakljucak
+
+Prvo zaposljavanje u marketingu nije HR zadatak. To je operativna odluka o tome da li tvoj sistem moze da podnese rast.
+
+Ako hoces, mozemo zajedno da napravimo scorecard i 90-dnevni plan pa da u intervju udjes sa jasnim kriterijumima, umesto sa osecajem. Javi se preko [kontakt forme](/kontakt).
 `,
   }
 
