@@ -55,7 +55,7 @@ export const pageMeta = {
   '/koliko-kosta-facebook-reklama': { title: 'Koliko Košta Facebook Reklama u Srbiji 2026 | Vodič Kroz Cene | Platinum Zenith', description: 'Realne cene Facebook i Instagram oglasa u Srbiji za 2026. CPC od 0,05€, mesečni budžet od 200€. Vodič kroz troškove i česte greške.', keywords: 'koliko košta facebook reklama, facebook oglasi cena, instagram oglasi cena srbija, facebook ads srbija, cena oglašavanja na facebooku, meta ads cena' },
   '/google-reklame-cena': { title: 'Google Reklame Cena 2026 + Vođenje Kampanja | Platinum Zenith', description: 'Koliko koštaju Google reklame i vođenje Google Ads kampanja u Srbiji 2026: CPC rasponi, budžeti po fazama rasta i realna cena upravljanja.', keywords: 'google reklame cena, google ads cena, koliko kostaju google reklame, cena po kliku google, vodjenje google ads kampanja cena, upravljanje google ads kampanjama' },
   '/instagram-reklame-cena': { title: 'Instagram Reklame Cena 2026 + Vođenje Kampanja | Platinum Zenith', description: 'Koliko koštaju Instagram reklame i vođenje Instagram Ads kampanja u Srbiji 2026: CPC, CPM, budžeti po fazama rasta i realna cena upravljanja.', keywords: 'instagram reklame cena, instagram ads cena, koliko kostaju instagram reklame, cena instagram oglasa, instagram oglasavanje srbija, vodjenje instagram ads kampanja cena, upravljanje instagram reklamama' },
-  '/izrada-wordpress-sajta-cena': { title: 'Izrada WordPress Sajta Cena u Srbiji 2026 | Platinum Zenith', description: 'Cena izrade WordPress sajta u Srbiji 2026: trošak prezentacionog sajta i WooCommerce shopa, šta ulazi u cenu, rokovi i kako da izbegnete skrivene troškove.', keywords: 'izrada wordpress sajta cena, wordpress sajt cena, koliko kosta wordpress sajt, wordpress izrada sajta srbija, woocommerce cena izrade, odrzavanje wordpress sajta' },
+  '/izrada-wordpress-sajta-cena': { title: 'Izrada WordPress Sajta Cena u Srbiji 2026 | Platinum Zenith', description: 'Cena izrade WordPress sajta u Srbiji 2026: paketi za prezentacione i WooCommerce sajtove, rokovi, održavanje i realni skriveni troškovi.', keywords: 'izrada wordpress sajta cena, wordpress sajt cena, koliko kosta wordpress sajt, wordpress izrada sajta srbija, woocommerce cena izrade, odrzavanje wordpress sajta' },
   '/marketing-za-advokate': { title: 'Marketing za Advokate u Srbiji | Platinum Zenith', description: 'Marketing za advokatske kancelarije u Srbiji: SEO, Google Ads, sajt i content strategija koja donosi kvalifikovane upite i stabilan rast klijenata.', keywords: 'marketing za advokate, digitalni marketing advokatska kancelarija, google ads advokat, seo za advokate, sajt za advokatsku kancelariju, marketing pravne usluge' },
   '/marketing-za-stomatologe': { title: 'Marketing za Stomatologe u Srbiji | Platinum Zenith', description: 'Specijalizovani marketing za stomatološke ordinacije: Google Ads, lokalni SEO, sajt i kampanje koje pune kalendar novim pacijentima i povećavaju prihod.', keywords: 'marketing za stomatologe, digitalni marketing stomatologija, google ads stomatolog, seo za stomatologe, sajt za ordinaciju, marketing stomatološka ordinacija' },
   '/marketing-za-restorane': { title: 'Marketing za Restorane | Digitalni Marketing za Ugostiteljstvo | Platinum Zenith', description: 'Marketing za restorane u Srbiji: Google Business, društvene mreže, oglasi i sajt koji povećavaju rezervacije, porudžbine i popunjenost stolova.', keywords: 'marketing za restorane, digitalni marketing ugostiteljstvo, restoran marketing srbija, google business restoran, instagram za restorane, sajt za restoran' },
@@ -123,6 +123,94 @@ export const pageSchemas = {
   '/industrije/saas': { "@context": "https://schema.org", "@type": "Service", "name": "SaaS Marketing", "description": "SaaS marketing za rast MRR-a kroz akviziciju korisnika, onboarding, aktivaciju i smanjenje churn-a.", "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL }, "serviceType": "SaaS Marketing", "areaServed": { "@type": "Country", "name": "Srbija" }, "hasOfferCatalog": { "@type": "OfferCatalog", "name": "SaaS marketing usluge", "itemListElement": [ { "@type": "Offer", "name": "Akvizicija korisnika" }, { "@type": "Offer", "name": "Onboarding i aktivacija" }, { "@type": "Offer", "name": "Retencija i churn optimizacija" } ] } },
   '/industrije/lokalni-biznisi': { "@context": "https://schema.org", "@type": "Service", "name": "Marketing za Lokalne Biznise", "description": "Marketing za lokalne biznise kroz Google Business optimizaciju, lokalni SEO i oglase koji povećavaju pozive, upite i rezervacije.", "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL }, "serviceType": "Local Business Marketing", "areaServed": { "@type": "Country", "name": "Srbija" }, "hasOfferCatalog": { "@type": "OfferCatalog", "name": "Lokalni marketing usluge", "itemListElement": [ { "@type": "Offer", "name": "Google Business optimizacija" }, { "@type": "Offer", "name": "Lokalni SEO" }, { "@type": "Offer", "name": "Meta i Google oglasi" } ] } },
   '/industrije/startapovi': { "@context": "https://schema.org", "@type": "Service", "name": "Marketing za Startapove", "description": "Marketing za startapove od validacije ponude do skaliranja akvizicije kroz performance kampanje i CRO iteracije.", "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL }, "serviceType": "Startup Marketing", "areaServed": { "@type": "Country", "name": "Srbija" }, "hasOfferCatalog": { "@type": "OfferCatalog", "name": "Startup marketing usluge", "itemListElement": [ { "@type": "Offer", "name": "Validacija ponude" }, { "@type": "Offer", "name": "Akvizicija prvih korisnika" }, { "@type": "Offer", "name": "Skaliranje rasta" } ] } },
+  '/cene-izrade-sajta': {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": `${SITE_URL}/cene-izrade-sajta#webpage`,
+        "url": `${SITE_URL}/cene-izrade-sajta`,
+        "name": "Koliko košta izrada sajta u Srbiji 2026",
+        "description": "Vodič kroz realne cene izrade sajta u Srbiji 2026, sa rasponima za prezentacione sajtove, poslovne sajtove i web shop rešenja.",
+        "inLanguage": "sr-RS",
+        "isPartOf": { "@id": SITE_URL },
+        "about": { "@id": `${SITE_URL}/cene-izrade-sajta#service` }
+      },
+      {
+        "@type": "Service",
+        "@id": `${SITE_URL}/cene-izrade-sajta#service`,
+        "name": "Izrada sajta i web shop rešenja",
+        "description": "Izrada sajtova sa transparentnim rasponima cena, od prezentacionih sajtova do custom i e-commerce rešenja.",
+        "serviceType": "Web development and web design",
+        "url": `${SITE_URL}/cene-izrade-sajta`,
+        "areaServed": { "@type": "Country", "name": "Srbija" },
+        "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL },
+        "offers": {
+          "@type": "AggregateOffer",
+          "priceCurrency": "EUR",
+          "lowPrice": "300",
+          "highPrice": "10000",
+          "offerCount": "4"
+        },
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "Rasponi cena izrade sajta",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "name": "Prezentacioni sajt",
+              "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "300", "maxPrice": "800" }
+            },
+            {
+              "@type": "Offer",
+              "name": "Poslovni sajt",
+              "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "800", "maxPrice": "2000" }
+            },
+            {
+              "@type": "Offer",
+              "name": "Web shop",
+              "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "1500", "maxPrice": "5000" }
+            },
+            {
+              "@type": "Offer",
+              "name": "Korporativni / Custom",
+              "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "3000", "maxPrice": "10000" }
+            }
+          ]
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Koliko traje izrada sajta?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Prezentacioni sajt: 1-2 nedelje. Poslovni sajt: 2-4 nedelje. Web shop: 4-8 nedelja. Korporativni projekti: zavisi od obima, obično 2-4 meseca." }
+          },
+          {
+            "@type": "Question",
+            "name": "Da li je hosting uključen u cenu?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Hosting i domen se plaćaju odvojeno, obično oko 50-80€ godišnje za obe stavke. Pomaćemo vam u izboru i podešavanju." }
+          },
+          {
+            "@type": "Question",
+            "name": "Šta ako mi treba web shop?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Web shopovi kreću od 1.500€ za osnovno rešenje. Za ozbiljniju prodavnicu sa većim brojem proizvoda i naprednim funkcijama, cena ide do 5.000€ i više." }
+          },
+          {
+            "@type": "Question",
+            "name": "Da li radite redizajn postojećeg sajta?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Da. Redizajn obično košta isto ili nešto manje od izrade novog sajta jer zadržavamo sadržaj i domen, a menjamo dizajn i tehničku osnovu." }
+          },
+          {
+            "@type": "Question",
+            "name": "Kako izgleda proces saradnje?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Počinjemo sa besplatnim konsultacijama gde definišemo vaše potrebe. Zatim pripremamo predlog i ponudu. Nakon odobrenja, kreće dizajn, razvoj, vaša revizija i na kraju lansiranje." }
+          }
+        ]
+      }
+    ]
+  },
   '/agencija-vs-freelancer': { "@context": "https://schema.org", "@type": "WebPage", "name": "Agencija ili freelancer — uporedni vodič", "url": `${SITE_URL}/agencija-vs-freelancer`, "inLanguage": "sr-RS", "isPartOf": { "@type": "WebSite", "name": "Platinum Zenith", "url": SITE_URL } },
   '/cene-digitalnog-marketinga': { "@context": "https://schema.org", "@type": "Service", "name": "Digitalni marketing paketi", "description": "Cene digitalnog marketinga u Srbiji kroz jasne pakete usluga, KPI ciljeve i mesečnu optimizaciju budžeta.", "url": `${SITE_URL}/cene-digitalnog-marketinga`, "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL }, "serviceType": "Digital Marketing", "areaServed": { "@type": "Country", "name": "Srbija" }, "hasOfferCatalog": { "@type": "OfferCatalog", "name": "Digital marketing usluge", "itemListElement": [ { "@type": "Offer", "name": "SEO optimizacija" }, { "@type": "Offer", "name": "Google Ads upravljanje" }, { "@type": "Offer", "name": "Meta Ads kampanje" } ] } },
   '/marketing-agencija-zrenjanin': { "@context": "https://schema.org", "@type": "ProfessionalService", "name": "Platinum Zenith - Marketing Agencija Zrenjanin", "description": "Digitalni marketing za firme u Zrenjaninu kroz SEO, Google Ads, društvene mreže i optimizaciju konverzije.", "url": `${SITE_URL}/marketing-agencija-zrenjanin`, "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL }, "areaServed": { "@type": "City", "name": "Zrenjanin" }, "serviceType": "Digital Marketing", "hasOfferCatalog": { "@type": "OfferCatalog", "name": "Marketing usluge za Zrenjanin", "itemListElement": [ { "@type": "Offer", "name": "SEO optimizacija" }, { "@type": "Offer", "name": "Google Ads kampanje" }, { "@type": "Offer", "name": "Društvene mreže" } ] } },
@@ -278,7 +366,7 @@ export const pageSchemas = {
         "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#webpage`,
         "url": `${SITE_URL}/izrada-wordpress-sajta-cena`,
         "name": "Koliko košta izrada WordPress sajta u Srbiji 2026",
-        "description": "Rasponi cena WordPress sajtova i WooCommerce prodavnica, rokovi i faktori koji utiču na ukupnu cenu.",
+        "description": "Rasponi cena WordPress sajtova i WooCommerce prodavnica, rokovi i mesečni troškovi održavanja koji utiču na ukupnu cenu.",
         "inLanguage": "sr-RS",
         "isPartOf": { "@id": SITE_URL },
         "about": { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#service` }
@@ -287,7 +375,7 @@ export const pageSchemas = {
         "@type": "Service",
         "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#service`,
         "name": "Izrada WordPress sajta",
-        "description": "Izrada WordPress sajta i WooCommerce shopa sa jasnim rasponima cena, rokovima i planom isporuke.",
+        "description": "Izrada WordPress sajta i WooCommerce shopa sa jasnim rasponima cena, rokovima, planom isporuke i mesečnim operativnim troškovima.",
         "serviceType": "WordPress web development",
         "url": `${SITE_URL}/izrada-wordpress-sajta-cena`,
         "areaServed": { "@type": "Country", "name": "Srbija" },
@@ -331,6 +419,16 @@ export const pageSchemas = {
             "@type": "Question",
             "name": "WordPress ili custom development?",
             "acceptedAnswer": { "@type": "Answer", "text": "Ako želite bržu isporuku i fleksibilan CMS, WordPress je često bolji izbor. Za specifične sisteme sa posebnom logikom nekad je bolji custom pristup." }
+          },
+          {
+            "@type": "Question",
+            "name": "Da li su domen, hosting i licence uključeni u cenu izrade?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Najčešće se vode kao posebne stavke. Zdrava ponuda ih jasno razdvaja na jednokratni trošak izrade i mesečni operativni trošak." }
+          },
+          {
+            "@type": "Question",
+            "name": "Koji su najčešći skriveni troškovi WordPress projekta?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Najčešće su to premium licence, hitne intervencije bez maintenance plana i kasne UX/SEO dorade. Zato je važno da roadmap i održavanje budu deo dogovora od starta." }
           }
         ]
       }

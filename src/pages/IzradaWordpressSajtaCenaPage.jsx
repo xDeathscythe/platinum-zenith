@@ -59,6 +59,52 @@ const factors = [
   },
 ]
 
+const recurringCosts = [
+  {
+    item: 'Domen + hosting',
+    monthly: '8 - 35€',
+    yearly: '100 - 420€',
+    note: 'Deljeni hosting je jeftiniji, ali ozbiljniji sajtovi najčešće traže managed VPS ili cloud plan.',
+  },
+  {
+    item: 'Premium plugin licence',
+    monthly: '5 - 40€',
+    yearly: '60 - 480€',
+    note: 'SEO, security i performance alati često imaju godišnje licence koje treba unapred planirati.',
+  },
+  {
+    item: 'Maintenance (update + backup + monitoring)',
+    monthly: '50 - 200€',
+    yearly: '600 - 2.400€',
+    note: 'Redovan maintenance je ključan da sajt ostane bezbedan, brz i kompatibilan sa novim verzijama plugin-ova.',
+  },
+  {
+    item: 'Content i CRO iteracije',
+    monthly: '120 - 500€',
+    yearly: '1.440 - 6.000€',
+    note: 'Posle launch-a najviše vrednosti dolazi iz iteracija headline-a, CTA elemenata i landing sekcija.',
+  },
+]
+
+const quoteSteps = [
+  {
+    title: 'Discovery i scope dokument',
+    text: 'Definišemo cilj sajta, tip stranica, funkcionalnosti i sadržaj koji postoji ili treba tek da se napravi.',
+  },
+  {
+    title: 'Jednokratni trošak izrade',
+    text: 'Ponuda sadrži dizajn + development + QA + launch, sa jasnim rasponom i bez skrivenih stavki.',
+  },
+  {
+    title: 'Mesečni operativni trošak',
+    text: 'Posebno se prikazuje hosting, licence, maintenance i eventualni growth backlog (SEO/CRO iteracije).',
+  },
+  {
+    title: 'Roadmap za 90 dana',
+    text: 'Uz sajt dobijate i prioritetni plan koji definiše šta prvo donosi brži rast upita i bolji ROI.',
+  },
+]
+
 const mistakes = [
   {
     title: 'Kupovina najjeftinije ponude',
@@ -102,6 +148,14 @@ const faqs = [
   {
     q: 'WordPress ili custom development?',
     a: 'Ako želite bržu isporuku i fleksibilan CMS, WordPress je često bolji izbor. Za specifične sisteme sa posebnom logikom nekad je bolji custom pristup.',
+  },
+  {
+    q: 'Da li su domen, hosting i licence uključeni u cenu izrade?',
+    a: 'Najčešće se vode kao posebne stavke. Zdrava ponuda ih jasno razdvaja na jednokratni trošak izrade i mesečni operativni trošak.',
+  },
+  {
+    q: 'Koji su najčešći skriveni troškovi WordPress projekta?',
+    a: 'Najčešće su to premium licence, hitne intervencije bez maintenance plana i kasne UX/SEO dorade. Zato je važno da roadmap i održavanje budu deo dogovora od starta.',
   },
 ]
 
@@ -158,6 +212,55 @@ export default function IzradaWordpressSajtaCenaPage() {
               <div key={f.title}>
                 <h3 className="text-[17px] font-medium text-ink mb-2">{f.title}</h3>
                 <p className="text-[15px] text-ink-2 leading-relaxed">{f.text}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[980px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
+          <h2 className="text-[22px] md:text-[28px] font-medium text-ink mb-4">Koliko košta WordPress sajt mesečno nakon izrade?</h2>
+          <p className="text-[15px] text-ink-2 leading-relaxed mb-6">
+            Većina firmi planira samo početni trošak izrade, a preskoči operativni deo koji direktno utiče na stabilnost i rast sajta.
+            Zato pre ugovaranja gledajte i ukupni godišnji trošak vlasništva (TCO), ne samo cenu launch-a.
+          </p>
+          <div className="overflow-x-auto">
+            <table className="w-full min-w-[720px] text-left">
+              <thead>
+                <tr className="border-b border-edge">
+                  <th className="py-3 pr-4 text-[12px] uppercase tracking-wider text-ink-4">Stavka</th>
+                  <th className="py-3 pr-4 text-[12px] uppercase tracking-wider text-ink-4">Mesečno</th>
+                  <th className="py-3 pr-4 text-[12px] uppercase tracking-wider text-ink-4">Godišnje</th>
+                  <th className="py-3 text-[12px] uppercase tracking-wider text-ink-4">Napomena</th>
+                </tr>
+              </thead>
+              <tbody>
+                {recurringCosts.map((row) => (
+                  <tr key={row.item} className="border-b border-edge/70 last:border-0 align-top">
+                    <td className="py-4 pr-4 text-[14px] font-medium text-ink">{row.item}</td>
+                    <td className="py-4 pr-4 text-[14px] text-ink-2">{row.monthly}</td>
+                    <td className="py-4 pr-4 text-[14px] text-ink-2">{row.yearly}</td>
+                    <td className="py-4 text-[13px] text-ink-3 leading-relaxed">{row.note}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[760px] mx-auto">
+          <h2 className="text-[22px] md:text-[30px] font-medium text-ink mb-8 text-center">Kako izgleda transparentna WordPress ponuda</h2>
+          <div className="space-y-6">
+            {quoteSteps.map((step, index) => (
+              <div key={step.title} className="bg-panel rounded-[16px] border border-edge p-5 md:p-6">
+                <h3 className="text-[16px] md:text-[17px] font-medium text-ink mb-2">
+                  <span className="text-ink-4 mr-2">{index + 1}.</span>
+                  {step.title}
+                </h3>
+                <p className="text-[14px] text-ink-2 leading-relaxed">{step.text}</p>
               </div>
             ))}
           </div>
