@@ -48,6 +48,10 @@ const checks = [
     expect: { breadcrumb: true, faq: false, article: false, blogListing: false, routeSchema: true, noindex: false },
   },
   {
+    route: '/cro',
+    expect: { breadcrumb: true, faq: false, article: false, blogListing: false, routeSchema: true, noindex: false },
+  },
+  {
     route: '/drustvene-mreze',
     expect: { breadcrumb: true, faq: false, article: false, blogListing: false, routeSchema: true, noindex: false },
   },
@@ -209,6 +213,7 @@ for (const item of checks) {
         '/digitalni-marketing': { type: 'Service', url: 'https://platinumzenith.com/digitalni-marketing' },
         '/web-design': { type: 'Service', url: 'https://platinumzenith.com/web-design' },
         '/consulting': { type: 'Service', url: 'https://platinumzenith.com/consulting' },
+        '/cro': { type: 'Service', url: 'https://platinumzenith.com/cro' },
         '/drustvene-mreze': { type: 'Service', url: 'https://platinumzenith.com/drustvene-mreze' },
         '/google-reklame-cena': { type: 'Service', url: 'https://platinumzenith.com/google-reklame-cena' },
         '/instagram-reklame-cena': { type: 'Service', url: 'https://platinumzenith.com/instagram-reklame-cena' },

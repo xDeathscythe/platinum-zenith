@@ -167,6 +167,22 @@ const SERVER_ROUTE_SCHEMAS = {
       url: SITE_URL,
     },
   },
+  '/cro': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'CRO optimizacija konverzije',
+    serviceType: 'Conversion rate optimization',
+    url: `${SITE_URL}/cro`,
+    areaServed: {
+      '@type': 'Country',
+      name: 'Srbija',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
   '/drustvene-mreze': {
     '@context': 'https://schema.org',
     '@type': 'Service',
