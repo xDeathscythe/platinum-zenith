@@ -35,6 +35,7 @@
     "seo:link-integrity": "node scripts/seo-internal-link-integrity-audit.mjs",
     "seo:link-coverage": "node scripts/seo-link-coverage-audit.mjs",
     "seo:blog-schema": "node scripts/seo-blog-schema-audit.mjs",
+    "seo:article-og": "node scripts/seo-article-og-audit.mjs",
     "seo:meta-quality": "node scripts/seo-meta-quality-audit.mjs",
     "seo:meta-quality:strict": "node scripts/seo-meta-quality-audit.mjs --strict",
     "seo:meta-uniqueness": "node scripts/seo-meta-uniqueness-audit.mjs",

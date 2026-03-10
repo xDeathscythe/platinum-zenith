@@ -790,27 +790,26 @@ export function injectOgMeta(html, pathname) {
     ? 'noindex, nofollow'
     : 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1'
 
+  const blogSlug = isBlogPath
+    ? cleanPath.replace('/blog/', '')
+    : (isDraftPath ? cleanPath.replace('/draft/', '') : null)
+  const matchedBlogPost = blogSlug ? blogOgPosts.find((p) => p.slug === blogSlug) : null
+  const articleDateIso = matchedBlogPost?.date ? `${matchedBlogPost.date}T00:00:00+01:00` : ''
+  const articleSection = matchedBlogPost?.category || ''
+
   // Dynamic blog post OG: lookup from blogOgData.json
-  if (!meta && isBlogPath) {
-    const slug = cleanPath.replace('/blog/', '')
-    const post = blogOgPosts.find(p => p.slug === slug)
-    if (post) {
-      meta = {
-        title: `${post.title} | Platinum Zenith Blog`,
-        description: post.excerpt,
-      }
+  if (!meta && isBlogPath && matchedBlogPost) {
+    meta = {
+      title: `${matchedBlogPost.title} | Platinum Zenith Blog`,
+      description: matchedBlogPost.excerpt,
     }
   }
 
   // Dynamic draft OG: lookup from blogOgData.json
-  if (!meta && isDraftPath) {
-    const slug = cleanPath.replace('/draft/', '')
-    const post = blogOgPosts.find(p => p.slug === slug)
-    if (post) {
-      meta = {
-        title: `DRAFT: ${post.title} | Platinum Zenith`,
-        description: post.excerpt,
-      }
+  if (!meta && isDraftPath && matchedBlogPost) {
+    meta = {
+      title: `DRAFT: ${matchedBlogPost.title} | Platinum Zenith`,
+      description: matchedBlogPost.excerpt,
     }
   }
 
@@ -836,6 +835,18 @@ export function injectOgMeta(html, pathname) {
     result = result.replace(
       /(<meta\s+property="og:type"\s+content=")[^"]*(")/,
       `$1${ogType}$2`
+    )
+    result = result.replace(
+      /(<meta\s+property="article:published_time"\s+content=")[^"]*(")/,
+      `$1${articleDateIso}$2`
+    )
+    result = result.replace(
+      /(<meta\s+property="article:modified_time"\s+content=")[^"]*(")/,
+      `$1${articleDateIso}$2`
+    )
+    result = result.replace(
+      /(<meta\s+property="article:section"\s+content=")[^"]*(")/,
+      `$1${articleSection}$2`
     )
     result = result.replace(
       /(<meta\s+property="og:image"\s+content=")[^"]*(")/,
@@ -896,6 +907,20 @@ export function injectOgMeta(html, pathname) {
   result = result.replace(
     /(<meta\s+property="og:type"\s+content=")[^"]*(")/,
     `$1${ogType}$2`
+  )
+
+  // article Open Graph (blog/draft only)
+  result = result.replace(
+    /(<meta\s+property="article:published_time"\s+content=")[^"]*(")/,
+    `$1${articleDateIso}$2`
+  )
+  result = result.replace(
+    /(<meta\s+property="article:modified_time"\s+content=")[^"]*(")/,
+    `$1${articleDateIso}$2`
+  )
+  result = result.replace(
+    /(<meta\s+property="article:section"\s+content=")[^"]*(")/,
+    `$1${articleSection}$2`
   )
 
   // og:title
