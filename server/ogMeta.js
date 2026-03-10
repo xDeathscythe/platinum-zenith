@@ -379,12 +379,15 @@ function injectServerArticleSchema(html, cleanPath, canonicalUrl) {
     return removeJsonLdScript(html, schemaId)
   }
 
+  const articleImage = post.ogImage || DEFAULT_OG_IMAGE
+
   const article = {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: post.title,
     description: post.excerpt,
     url: canonicalUrl,
+    image: [articleImage],
     mainEntityOfPage: {
       '@type': 'WebPage',
       '@id': canonicalUrl,

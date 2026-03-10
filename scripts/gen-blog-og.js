@@ -27,6 +27,7 @@ const posts = uniquePublicPosts
     date: post.date || null,
     category: post.category || null,
     author: 'Aleksandar Nenadović',
+    ogImage: post.ogImage || null,
   }))
 
 const outDir = join(root, 'server')

@@ -5,7 +5,8 @@
     "excerpt": "Svaka od ovih grešaka košta firme hiljade evra i mesece izgubljenog vremena. Ovo su lekcije iz 13 godina rada koje mogu odmah da vam sačuvaju budžet.",
     "date": "2026-02-20",
     "category": "Biznis",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "17-godina-marketing-iskustva",
@@ -13,7 +14,8 @@
     "excerpt": "Šta se menja u marketingu, a šta ostaje isto decenijama? Evo lekcija koje koštaju godine i milione da se nauče.",
     "date": "2026-02-20",
     "category": "Marketing",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "17-godina-marketing-iskustva-u-jednom-tekstu",
@@ -21,7 +23,8 @@
     "excerpt": "Marketing se menja svake godine. Kanali dolaze i odlaze. Ali principi koji zapravo donose rezultate ostaju isti decenijama.",
     "date": "2026-02-24",
     "category": "Marketing",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "5-gresaka-landing-stranice-konverzije",
@@ -29,7 +32,8 @@
     "excerpt": "Većina landing stranica izgubi 90-95% posetilaca bez konverzije. Problem obično nisu posetilokupci već dizajn koji sabotira odluku. Evo pet grešaka koje koštaju najviše.",
     "date": "2026-02-20",
     "category": "CRO",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "ab-testiranje-male-promene-veliki-rezultati",
@@ -37,7 +41,8 @@
     "excerpt": "Promena boje dugmeta sama po sebi neće spasiti loš sajt, ali prava A/B testiranja mogu udvostručiti konverzije kada se testira ponuda, struktura i CTA tok.",
     "date": "2026-02-21",
     "category": "CRO",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "alex-hormozi-grand-slam-ponuda-za-usluge",
@@ -45,7 +50,8 @@
     "excerpt": "Dobar marketing ne pomaže ako je ponuda slaba. Evo jednostavnog okvira kako da podignete vrednost usluge, smanjite rizik za klijenta i ubrzate odluku.",
     "date": "2026-03-10",
     "category": "Marketing",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "automatizacija-marketinga-sta-mozete-delegirati-masini",
@@ -53,7 +59,8 @@
     "excerpt": "Neki zadaci troše sate vašeg vremena svake nedelje, a mogli bi da se završe bez ijednog klika. Pitanje je samo koje.",
     "date": "2026-02-26",
     "category": "Marketing",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "brending-za-male-firme-identitet-vazniji-od-loga",
@@ -61,7 +68,17 @@
     "excerpt": "Logo je samo početak. Brend je utisak koji ljudi pamte. Evo kako male firme grade jasan identitet koji podiže poverenje, cenu i prodaju.",
     "date": "2026-02-21",
     "category": "Marketing",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
+  },
+  {
+    "slug": "cena-odrzavanja-wordpress-sajta-srbija-2026",
+    "title": "Cena održavanja WordPress sajta u Srbiji 2026: šta ulazi i koliko realno košta",
+    "excerpt": "Nije isto da li neko samo klikne update jednom mesečno ili aktivno čuva sajt od pada, hakovanja i gubitka leadova. Evo realnih cena održavanja WordPress sajta u Srbiji i šta mora da bude uključeno.",
+    "date": "2026-03-10",
+    "category": "WordPress",
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "cetiri-nacina-da-dobijete-klijente",
@@ -69,7 +86,8 @@
     "excerpt": "Svaki biznis na svetu koristi jedan od četiri kanala za pridobijanje klijenata. Razlika između firmi koje rastu i onih koje stagniraju je u tome koji kanal biraju i koliko ga dobro koriste.",
     "date": "2026-03-05",
     "category": "Marketing",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "content-marketing-dugorocna-investicija",
@@ -77,7 +95,8 @@
     "excerpt": "Blog post koji ste napisali pre 2 godine i dalje donosi saobraćaj. Facebook oglas od pre 2 godine ne donosi ništa. Evo zašto je to bitno.",
     "date": "2026-02-20",
     "category": "Marketing",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "copywriting-formule-koje-rade",
@@ -85,7 +104,8 @@
     "excerpt": "Nije bitno koliko ljudi vidi vaš oglas. Bitno je koliko ih ne može da odoli a da ne klikne. Evo formula koje to postižu.",
     "date": "2026-02-21",
     "category": "Marketing",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "customer-retention-zadrzati-vs-naci-novog",
@@ -93,7 +113,8 @@
     "excerpt": "Novi kupac košta 5-7x više od zadržavanja postojećeg. Ovaj vodič pokazuje kako retention strategije povećavaju profit bez dizanja budžeta za akviziciju.",
     "date": "2026-02-20",
     "category": "Marketing",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "email-marketing-kralj-konverzija",
@@ -101,7 +122,8 @@
     "excerpt": "Email marketing i dalje daje vrhunski povrat ulaganja. Saznajte kako e-commerce i uslužne firme kroz email povećavaju ponovne kupovine i mesečni prihod.",
     "date": "2026-02-20",
     "category": "Marketing",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "facebook-oglasi-koji-zapravo-rade",
@@ -109,7 +131,8 @@
     "excerpt": "Većina firmi troši novac na Facebook oglase koji izgledaju kao oglasi. A ljudi mrze oglase. Evo kako napraviti oglas koji izgleda kao sadržaj i konvertuje kao ludo.",
     "date": "2026-02-20",
     "category": "Marketing",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "facebook-vs-instagram-oglasi-gde-je-vasa-publika",
@@ -117,7 +140,8 @@
     "excerpt": "Obe platforme koriste isti Ads Manager, ali publika se ponaša potpuno drugačije. Pogrešan izbor platforme znači bacanje budžeta.",
     "date": "2026-02-27",
     "category": "Marketing",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "google-ads-cena-po-kliku-srbija-2026",
@@ -125,7 +149,8 @@
     "excerpt": "CPC u Google Ads-u nije isti za sve biznise. Evo realnih raspona po nišama u Srbiji i kako da smanjite cenu klika bez pada kvaliteta leadova.",
     "date": "2026-03-06",
     "category": "Marketing",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "google-ads-vs-facebook-ads-koji-je-bolji",
@@ -133,7 +158,8 @@
     "excerpt": "Google Ads hvata ljude koji aktivno traže rešenje, Facebook Ads ljude koji tek otkrivaju ponudu. Pravi izbor zavisi od marže, cilja kampanje i brzine povrata.",
     "date": "2026-02-20",
     "category": "Marketing",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "google-business-profil-optimizacija-cena-srbija-2026",
@@ -141,7 +167,8 @@
     "excerpt": "Ako vam traže od 50€ do 1.000€ za Google Business optimizaciju, nije ista usluga. Evo realnih raspona cena, šta mora da uđe u posao i kako da merite da li vam se ulaganje isplati.",
     "date": "2026-03-10",
     "category": "SEO",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "hormozi-ponuda-kojoj-klijent-ne-kaze-ne",
@@ -149,7 +176,8 @@
     "excerpt": "Dobra usluga nije dovoljna ako ponuda nije jasna. Evo praktičnog okvira kako da formirate ponudu koja smanjuje rizik klijenta i povećava prodaju.",
     "date": "2026-03-10",
     "category": "Marketing",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu",
@@ -157,7 +185,8 @@
     "excerpt": "Landing stranica može biti najbolja investicija ili najskuplja greška. Evo realnih cena u Srbiji, rokova isporuke i stavki koje najviše utiču na rezultat.",
     "date": "2026-03-06",
     "category": "Web Design",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "jednacina-vrednosti-zasto-ljudi-kupuju",
@@ -165,7 +194,8 @@
     "excerpt": "Postoji formula za percepciju vrednosti. Ako je razumete, možete prodati isti proizvod za duplo veću cenu. Ako ne, i najniža cena će vam biti previsoka.",
     "date": "2026-03-05",
     "category": "Prodaja",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "kako-citati-marketing-izvestaj",
@@ -173,7 +203,8 @@
     "excerpt": "Većina vlasnika firmi dobije mesečni izveštaj od agencije i ne zna šta gleda. Evo šta zapravo treba da tražite u brojevima.",
     "date": "2026-02-26",
     "category": "Marketing",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "kako-izabrati-pravu-marketing-agenciju",
@@ -181,7 +212,8 @@
     "excerpt": "Tržište je puno agencija koje obećavaju rezultate. Evo 7 znakova koji razlikuju agencije koje isporučuju od onih koje pričaju.",
     "date": "2026-02-20",
     "category": "Marketing",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "kako-meriti-roi-marketinga-kpi-vodic",
@@ -189,7 +221,8 @@
     "excerpt": "Ako ne merite marketing, kockate se budžetom. Ovo je 8 ključnih KPI brojeva koje svaka firma treba da prati da bi znala šta donosi profit, a šta troši novac.",
     "date": "2026-02-21",
     "category": "Marketing",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "kako-napisati-ponudu-koja-zatvara-posao",
@@ -197,7 +230,8 @@
     "excerpt": "Većina ponuda završi u folderu \"pročitaću kasnije\" i nikad se ne otvori ponovo. Evo strukture koja tera klijenta da odgovori danas.",
     "date": "2026-02-27",
     "category": "Biznis",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "kako-napraviti-landing-stranicu-koja-konvertuje",
@@ -205,7 +239,8 @@
     "excerpt": "Većina landing stranica konvertuje 2-3% posetilaca. Neke konvertuju 20% i više. Razlika nije u dizajnu. Razlika je u strukturi.",
     "date": "2026-02-27",
     "category": "CRO",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "kako-napraviti-marketing-budzet-koji-ima-smisla",
@@ -213,7 +248,8 @@
     "excerpt": "Većina firmi ili troši premalo na marketing pa se ništa ne dešava, ili troši bez plana pa ne zna šta radi. Evo kako to srediti.",
     "date": "2026-02-24",
     "category": "Biznis",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "kako-povecati-online-prodaju",
@@ -221,7 +257,8 @@
     "excerpt": "Imati web shop i imati web shop koji prodaje su dve potpuno različite stvari. Evo šta zapravo radi na srpskom tržištu u 2026.",
     "date": "2026-03-05",
     "category": "E-Commerce",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "kako-se-kretati-10x-brze-kao-vlasnik-firme",
@@ -229,7 +266,8 @@
     "excerpt": "Produktivnost nije o tome da radite više sati. Produktivnost je o eliminaciji svega što ne proizvodi rezultate.",
     "date": "2026-02-20",
     "category": "Biznis",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "kako-skalirati-placene-oglase-bez-bacanja-novca",
@@ -237,7 +275,8 @@
     "excerpt": "Većina firmi koje koriste plaćene oglase ili troši premalo da vidi rezultate ili previše na pogrešne stvari. Evo sistema za skaliranje koji zapravo funkcioniše.",
     "date": "2026-03-05",
     "category": "Marketing",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "koliko-kosta-los-marketing",
@@ -245,7 +284,8 @@
     "excerpt": "Loš marketing nije besplatan samo zato što ne daje rezultate. Košta vas mnogo više nego što mislite, i to na mestima gde ne gledate.",
     "date": "2026-02-27",
     "category": "Biznis",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "koliko-traje-seo-da-donese-rezultate-u-srbiji",
@@ -253,7 +293,8 @@
     "excerpt": "SEO nije sprint ni magija preko noći. Pogledajte realne rokove po fazama, šta se meri u prvih 30/60/90 dana i kako da znate da li strategija stvarno radi.",
     "date": "2026-03-10",
     "category": "SEO",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "komunikacija-u-prodaji-kako-napisati-ponudu",
@@ -261,7 +302,8 @@
     "excerpt": "Ponude koje se šalju i zaborave vs ponude nakon kojih klijent pita \"Kad možemo da počnemo?\" Razlika je u strukturi.",
     "date": "2026-02-20",
     "category": "Biznis",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "lead-magneti-koji-zapravo-konvertuju",
@@ -269,7 +311,8 @@
     "excerpt": "Besplatan PDF koji niko ne preuzme nije lead magnet. Pravi lead magnet pogađa tačan problem publike i pretvara posetioce u kvalifikovane upite.",
     "date": "2026-02-21",
     "category": "Marketing",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "leila-hormozi-kpi-tabla-za-stabilan-rast",
@@ -277,7 +320,8 @@
     "excerpt": "Kad tim nema jasne brojeve, odluke se donose po osećaju. Evo jednostavne KPI table koja pomaže da vidiš šta stvarno koči rast i šta prvo popraviti.",
     "date": "2026-03-10",
     "category": "Biznis",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "leila-hormozi-sistem-za-rast-biznisa",
@@ -285,7 +329,8 @@
     "excerpt": "Mnogo firmi ne zapinje na prodaji, nego na haosu posle prodaje. Evo jednostavnog okvira kako da uvedete sistem i rastete bez gašenja požara svaki dan.",
     "date": "2026-03-10",
     "category": "Biznis",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "lokalni-biznis-vs-online-hibridna-strategija",
@@ -293,7 +338,8 @@
     "excerpt": "Čist online ili čist offline pristup ostavlja novac na stolu. Firme koje kombinuju oba kanala rastu brže od onih koje biraju stranu.",
     "date": "2026-02-26",
     "category": "Biznis",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "lokalni-seo-kako-se-pojaviti-prvi",
@@ -301,7 +347,8 @@
     "excerpt": "Kada neko iz vašeg grada pretraži uslugu koju nudite, vaša firma treba da bude prva. 46% svih Google pretraga ima lokalnu nameru. Evo kako napraviti da budete vi taj koji se pojavi.",
     "date": "2026-02-20",
     "category": "SEO",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "od-nule-do-prvih-10000-evra-mesecno",
@@ -309,7 +356,8 @@
     "excerpt": "Prvih 10.000€ mesečno nije o talentu. O konkretnim koracima koji se mogu ponoviti u skoro svakoj industriji.",
     "date": "2026-02-20",
     "category": "Biznis",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "od-nule-do-prvog-miliona-konkretni-koraci",
@@ -317,7 +365,8 @@
     "excerpt": "Nema prečica, ali postoji redosled koji štedi godine lutanja. Ovo su koraci koji najbrže vode od starta biznisa do prvog miliona prihoda.",
     "date": "2026-02-20",
     "category": "Biznis",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "organski-doseg-umire-sta-raditi",
@@ -325,7 +374,8 @@
     "excerpt": "Facebook organski doseg pao na 2%. Instagram sledi isti trend. Evo šta firme koje i dalje rastu rade drugačije.",
     "date": "2026-02-20",
     "category": "Marketing",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "piramida-kupaca-4-tipa-publike",
@@ -333,7 +383,8 @@
     "excerpt": "Većina firmi se bori za isti mali procenat kupaca koji su spremni da kupe odmah. U međuvremenu, ogromna većina tržišta prolazi pored njih nezapaženo.",
     "date": "2026-02-20",
     "category": "Marketing",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "ponuda-koju-niko-ne-moze-da-odbije",
@@ -341,7 +392,8 @@
     "excerpt": "Većina firmi se takmiči cenom. Firme koje razumeju anatomiju ponude se takmiče vrednošću. Evo kako napraviti ponudu koja se ne odbija.",
     "date": "2026-02-20",
     "category": "Biznis",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "pricing-psihologija-kako-luksuzni-brendovi-kontrolisu-percepciju-cene",
@@ -349,7 +401,8 @@
     "excerpt": "Cena nije broj. Cena je priča. Firme koje ovo razumeju ne prodaju jeftinije od konkurencije. Prodaju drugačije.",
     "date": "2026-02-24",
     "category": "Biznis",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "pricing-psihologija-kontrola-percepcije-cene",
@@ -357,7 +410,8 @@
     "excerpt": "Cena nije broj. Cena je priča koju kupac priča sam sebi. Evo kako firme koje naplaćuju 10x više koriste psihologiju da to opravdaju.",
     "date": "2026-02-20",
     "category": "Marketing",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "psihologija-zaradjivanja-mentalni-blokovi",
@@ -365,7 +419,8 @@
     "excerpt": "Najveća prepreka rastu često nije tržište, već način razmišljanja vlasnika firme. Evo koji mentalni blokovi koče zaradu i kako da ih razbijete.",
     "date": "2026-02-20",
     "category": "Biznis",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "retargeting-zasto-95-posetilaca-ne-kupi",
@@ -373,7 +428,8 @@
     "excerpt": "Plaćate saobraćaj koji odlazi. Retargeting vraća te ljude po ceni i do 5-10x nižoj od prvog klika i pretvara izgubljene posete u konkretne upite i prodaju.",
     "date": "2026-02-20",
     "category": "Marketing",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "sabri-suby-kako-do-vise-upita-bez-veceg-budzeta",
@@ -381,7 +437,8 @@
     "excerpt": "Ako oglasi troše budžet, a upiti stoje, problem često nije cena klika nego poruka i ponuda. Evo praktičnog okvira koji možete odmah da primenite.",
     "date": "2026-03-10",
     "category": "Marketing",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "sales-funnel-koji-radi-na-autopilotu",
@@ -389,7 +446,8 @@
     "excerpt": "Dok vi spavate, funnel hvata posetioce, gradi poverenje i zatvara prodaju. Ali samo ako je pravilno napravljen.",
     "date": "2026-02-20",
     "category": "Marketing",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "seo-vs-ppc-sta-je-bolje-za-dugorocni-rast",
@@ -397,7 +455,8 @@
     "excerpt": "SEO je maraton, PPC je sprint. Za većinu firmi najbolji rast dolazi iz pametne kombinacije oba kanala, uz jasan plan budžeta i ciljeva.",
     "date": "2026-02-21",
     "category": "SEO",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "social-proof-recenzije-za-vise-prodaje",
@@ -405,7 +464,8 @@
     "excerpt": "92% kupaca čita recenzije pre kupovine. Evo kako da recenzije rade za vas umesto da stoje kao ukras na sajtu.",
     "date": "2026-02-20",
     "category": "Marketing",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "ugc-buducnost-oglasa",
@@ -413,7 +473,8 @@
     "excerpt": "Profesionalni oglasi sve slabije konvertuju. Sadržaj koji izgleda kao da ga je snimio kupac radi bolje od studijskog materijala.",
     "date": "2026-02-24",
     "category": "Marketing",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "video-marketing-zasto-video-dominira",
@@ -421,7 +482,17 @@
     "excerpt": "Video čini 82% internet saobraćaja. Firme koje ne koriste video gube pažnju publike pre prvog kontakta sa ponudom i ostaju korak iza konkurencije.",
     "date": "2026-02-21",
     "category": "Marketing",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
+  },
+  {
+    "slug": "vodjenje-drustvenih-mreza-cena-srbija-2026",
+    "title": "Vođenje društvenih mreža cena u Srbiji 2026: šta ulazi i koliko realno košta",
+    "excerpt": "Cene vođenja društvenih mreža idu od 150€ do 2.000€+ mesečno, ali razlika nije samo u broju objava. Evo šta stvarno plaćate, koji paket ima smisla za vaš biznis i kako da ne bacite budžet.",
+    "date": "2026-03-10",
+    "category": "Digitalni marketing",
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "zasto-vas-sajt-ne-prodaje",
@@ -429,7 +500,8 @@
     "excerpt": "Sajt izgleda lepo, ali telefon ne zvoni. Problem skoro nikad nije u dizajnu. Problem je u tome što sajt ne radi ono za šta je napravljen.",
     "date": "2026-02-27",
     "category": "CRO",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   },
   {
     "slug": "zasto-vecina-firmi-stagnira-posle-prvog-miliona",
@@ -437,6 +509,7 @@
     "excerpt": "Dostizanje prvog miliona zahteva jednu vrstu posla, ali prelazak na sledeći nivo traži drugačiji sistem, timsku strukturu i disciplinu izvršenja.",
     "date": "2026-02-20",
     "category": "Biznis",
-    "author": "Aleksandar Nenadović"
+    "author": "Aleksandar Nenadović",
+    "ogImage": null
   }
 ]

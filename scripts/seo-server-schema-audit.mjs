@@ -65,6 +65,19 @@ function hasSchema(out, id) {
   return out.includes(`id="${id}"`)
 }
 
+function extractJsonLdById(out, id) {
+  const escapedId = id.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+  const re = new RegExp(`<script\\s+id="${escapedId}"[^>]*>([\\s\\S]*?)<\\/script>`, 'i')
+  const m = out.match(re)
+  if (!m) return null
+
+  try {
+    return JSON.parse(m[1])
+  } catch {
+    return null
+  }
+}
+
 function robotsNoindex(out) {
   const m = out.match(/<meta\s+name="robots"\s+content="([^"]+)"\s*\/>/i)
   if (!m) return false
@@ -107,6 +120,25 @@ for (const item of checks) {
 
   if (item.route !== '/' && actual.website) {
     issues.push(`${item.route}: ld-website-server should only exist on homepage`)
+  }
+
+  if (actual.article) {
+    const article = extractJsonLdById(out, 'ld-article-server')
+    if (!article) {
+      issues.push(`${item.route}: ld-article-server is not valid JSON`)
+    } else {
+      const image = Array.isArray(article.image) ? article.image[0] : article.image
+      if (!image || typeof image !== 'string') {
+        issues.push(`${item.route}: article schema missing image field`)
+      } else if (!image.startsWith('https://platinumzenith.com/')) {
+        issues.push(`${item.route}: article schema image must be absolute site URL (${image})`)
+      }
+
+      const publisherLogo = article?.publisher?.logo?.url
+      if (!publisherLogo || typeof publisherLogo !== 'string') {
+        issues.push(`${item.route}: article schema missing publisher.logo.url`)
+      }
+    }
   }
 
   // Ensure no duplicate server schema ids per route
