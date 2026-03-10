@@ -119,6 +119,70 @@ const SERVER_ROUTE_SCHEMAS = {
       ],
     },
   },
+  '/digitalni-marketing': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Digitalni marketing usluge',
+    serviceType: 'Digitalni marketing',
+    url: `${SITE_URL}/digitalni-marketing`,
+    areaServed: {
+      '@type': 'Country',
+      name: 'Srbija',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
+  '/web-design': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Web design i izrada sajtova',
+    serviceType: 'Web design',
+    url: `${SITE_URL}/web-design`,
+    areaServed: {
+      '@type': 'Country',
+      name: 'Srbija',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
+  '/consulting': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Poslovni consulting',
+    serviceType: 'Business consulting',
+    url: `${SITE_URL}/consulting`,
+    areaServed: {
+      '@type': 'Country',
+      name: 'Srbija',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
+  '/drustvene-mreze': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Vođenje društvenih mreža',
+    serviceType: 'Social media management',
+    url: `${SITE_URL}/drustvene-mreze`,
+    areaServed: {
+      '@type': 'Country',
+      name: 'Srbija',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
 }
 
 // Load blog post data for dynamic OG meta on /blog/:slug

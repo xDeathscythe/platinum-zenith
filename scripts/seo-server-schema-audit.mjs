@@ -32,6 +32,22 @@ const checks = [
     expect: { breadcrumb: true, faq: false, article: false, blogListing: false, routeSchema: true, noindex: false },
   },
   {
+    route: '/digitalni-marketing',
+    expect: { breadcrumb: true, faq: false, article: false, blogListing: false, routeSchema: true, noindex: false },
+  },
+  {
+    route: '/web-design',
+    expect: { breadcrumb: true, faq: false, article: false, blogListing: false, routeSchema: true, noindex: false },
+  },
+  {
+    route: '/consulting',
+    expect: { breadcrumb: true, faq: false, article: false, blogListing: false, routeSchema: true, noindex: false },
+  },
+  {
+    route: '/drustvene-mreze',
+    expect: { breadcrumb: true, faq: false, article: false, blogListing: false, routeSchema: true, noindex: false },
+  },
+  {
     route: '/instagram-reklame-cena',
     expect: { breadcrumb: true, faq: true, article: false, blogListing: false, noindex: false },
   },
@@ -182,23 +198,31 @@ for (const item of checks) {
     const routeSchema = extractJsonLdById(out, 'ld-route-schema-server')
     if (!routeSchema) {
       issues.push(`${item.route}: ld-route-schema-server is not valid JSON`)
-    } else if (item.route === '/alati/roi-kalkulator') {
-      if (routeSchema['@type'] !== 'SoftwareApplication') {
-        issues.push(`${item.route}: expected SoftwareApplication route schema`)
+    } else {
+      const routeSchemaExpectations = {
+        '/alati/roi-kalkulator': { type: 'SoftwareApplication', url: 'https://platinumzenith.com/alati/roi-kalkulator' },
+        '/case-studies': { type: 'CollectionPage', url: 'https://platinumzenith.com/case-studies' },
+        '/digitalni-marketing': { type: 'Service', url: 'https://platinumzenith.com/digitalni-marketing' },
+        '/web-design': { type: 'Service', url: 'https://platinumzenith.com/web-design' },
+        '/consulting': { type: 'Service', url: 'https://platinumzenith.com/consulting' },
+        '/drustvene-mreze': { type: 'Service', url: 'https://platinumzenith.com/drustvene-mreze' },
       }
-      if (routeSchema.url !== 'https://platinumzenith.com/alati/roi-kalkulator') {
-        issues.push(`${item.route}: route schema URL mismatch (${routeSchema.url})`)
+
+      const expected = routeSchemaExpectations[item.route]
+      if (expected) {
+        if (routeSchema['@type'] !== expected.type) {
+          issues.push(`${item.route}: expected ${expected.type} route schema`)
+        }
+        if (routeSchema.url !== expected.url) {
+          issues.push(`${item.route}: route schema URL mismatch (${routeSchema.url})`)
+        }
       }
-    } else if (item.route === '/case-studies') {
-      if (routeSchema['@type'] !== 'CollectionPage') {
-        issues.push(`${item.route}: expected CollectionPage route schema`)
-      }
-      if (routeSchema.url !== 'https://platinumzenith.com/case-studies') {
-        issues.push(`${item.route}: route schema URL mismatch (${routeSchema.url})`)
-      }
-      const list = routeSchema?.mainEntity?.itemListElement
-      if (!Array.isArray(list) || list.length < 3) {
-        issues.push(`${item.route}: route schema should contain at least 3 case-study list items`)
+
+      if (item.route === '/case-studies') {
+        const list = routeSchema?.mainEntity?.itemListElement
+        if (!Array.isArray(list) || list.length < 3) {
+          issues.push(`${item.route}: route schema should contain at least 3 case-study list items`)
+        }
       }
     }
   }
