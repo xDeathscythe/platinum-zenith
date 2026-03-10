@@ -75,6 +75,50 @@ const SERVER_ROUTE_SCHEMAS = {
       url: SITE_URL,
     },
   },
+  '/case-studies': {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: 'Studije slučaja | Platinum Zenith',
+    url: `${SITE_URL}/case-studies`,
+    inLanguage: 'sr-RS',
+    about: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+    mainEntity: {
+      '@type': 'ItemList',
+      itemListElement: [
+        {
+          '@type': 'ListItem',
+          position: 1,
+          item: {
+            '@type': 'CreativeWork',
+            name: 'Grubin Showroom — studija slučaja',
+            url: `${SITE_URL}/case-studies#study-1`,
+          },
+        },
+        {
+          '@type': 'ListItem',
+          position: 2,
+          item: {
+            '@type': 'CreativeWork',
+            name: 'Ordinacija Medifizio — studija slučaja',
+            url: `${SITE_URL}/case-studies#study-2`,
+          },
+        },
+        {
+          '@type': 'ListItem',
+          position: 3,
+          item: {
+            '@type': 'CreativeWork',
+            name: 'Focus Fizikal — studija slučaja',
+            url: `${SITE_URL}/case-studies#study-3`,
+          },
+        },
+      ],
+    },
+  },
 }
 
 // Load blog post data for dynamic OG meta on /blog/:slug

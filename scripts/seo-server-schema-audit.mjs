@@ -28,6 +28,10 @@ const checks = [
     expect: { breadcrumb: true, faq: false, article: false, blogListing: false, routeSchema: true, noindex: false },
   },
   {
+    route: '/case-studies',
+    expect: { breadcrumb: true, faq: false, article: false, blogListing: false, routeSchema: true, noindex: false },
+  },
+  {
     route: '/instagram-reklame-cena',
     expect: { breadcrumb: true, faq: true, article: false, blogListing: false, noindex: false },
   },
@@ -184,6 +188,17 @@ for (const item of checks) {
       }
       if (routeSchema.url !== 'https://platinumzenith.com/alati/roi-kalkulator') {
         issues.push(`${item.route}: route schema URL mismatch (${routeSchema.url})`)
+      }
+    } else if (item.route === '/case-studies') {
+      if (routeSchema['@type'] !== 'CollectionPage') {
+        issues.push(`${item.route}: expected CollectionPage route schema`)
+      }
+      if (routeSchema.url !== 'https://platinumzenith.com/case-studies') {
+        issues.push(`${item.route}: route schema URL mismatch (${routeSchema.url})`)
+      }
+      const list = routeSchema?.mainEntity?.itemListElement
+      if (!Array.isArray(list) || list.length < 3) {
+        issues.push(`${item.route}: route schema should contain at least 3 case-study list items`)
       }
     }
   }
