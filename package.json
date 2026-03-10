@@ -21,6 +21,7 @@
     "seo:og-images": "node scripts/seo-og-image-audit.mjs",
     "seo:social-meta": "node scripts/seo-social-meta-audit.mjs",
     "seo:canonical": "node scripts/seo-canonical-audit.mjs",
+    "seo:hreflang": "node scripts/seo-hreflang-audit.mjs",
     "seo:robots": "node scripts/seo-robots-audit.mjs",
     "seo:headings": "node scripts/seo-headings-audit.mjs",
     "seo:landing-qa": "node scripts/seo-landing-qa.mjs",

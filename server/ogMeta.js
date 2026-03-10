@@ -594,6 +594,14 @@ export function injectOgMeta(html, pathname) {
       `$1${canonicalUrl}$2`
     )
     result = result.replace(
+      /(<link\s+rel="alternate"\s+hreflang="sr-RS"\s+href=")[^"]*(")/,
+      `$1${canonicalUrl}$2`
+    )
+    result = result.replace(
+      /(<link\s+rel="alternate"\s+hreflang="x-default"\s+href=")[^"]*(")/,
+      `$1${canonicalUrl}$2`
+    )
+    result = result.replace(
       /(<meta\s+property="og:url"\s+content=")[^"]*(")/,
       `$1${canonicalUrl}$2`
     )
@@ -641,9 +649,17 @@ export function injectOgMeta(html, pathname) {
     `$1${meta.description}$2`
   )
 
-  // <link rel="canonical">
+  // <link rel="canonical"> + hreflang alternates
   result = result.replace(
     /(<link\s+rel="canonical"\s+href=")[^"]*(")/,
+    `$1${canonicalUrl}$2`
+  )
+  result = result.replace(
+    /(<link\s+rel="alternate"\s+hreflang="sr-RS"\s+href=")[^"]*(")/,
+    `$1${canonicalUrl}$2`
+  )
+  result = result.replace(
+    /(<link\s+rel="alternate"\s+hreflang="x-default"\s+href=")[^"]*(")/,
     `$1${canonicalUrl}$2`
   )
 

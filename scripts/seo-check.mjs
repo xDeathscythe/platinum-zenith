@@ -7,6 +7,7 @@ const checks = [
   { name: 'Route/OG/meta consistency', script: 'scripts/seo-audit.mjs' },
   { name: 'Route metadata hygiene (no stale route keys)', script: 'scripts/seo-route-hygiene-audit.mjs' },
   { name: 'Canonical + og:url', script: 'scripts/seo-canonical-audit.mjs' },
+  { name: 'Canonical + hreflang consistency', script: 'scripts/seo-hreflang-audit.mjs' },
   { name: 'Robots index/noindex policy', script: 'scripts/seo-robots-audit.mjs' },
   { name: 'Heading hierarchy', script: 'scripts/seo-headings-audit.mjs' },
   { name: 'Image attributes', script: 'scripts/seo-image-audit.mjs' },
