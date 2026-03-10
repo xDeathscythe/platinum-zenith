@@ -31,6 +31,7 @@ const checks = [
   { name: 'Sitemap index integrity', script: 'scripts/seo-sitemap-index-audit.mjs' },
   { name: 'Sitemap URL health (every URL resolves canonical 200)', script: 'scripts/seo-sitemap-url-health-audit.mjs', phase: 'postbuild' },
   { name: 'Server-side schema injection', script: 'scripts/seo-server-schema-audit.mjs' },
+  { name: 'Service schema completeness', script: 'scripts/seo-service-schema-audit.mjs' },
   { name: 'Core org/localbusiness/website schema integrity', script: 'scripts/seo-core-schema-audit.mjs' },
   { name: 'Breadcrumb coverage (all public routes)', script: 'scripts/seo-breadcrumb-coverage-audit.mjs' },
   { name: 'JSON-LD syntax validity (all routes)', script: 'scripts/seo-jsonld-validity-audit.mjs' },
