@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://platinumzenith.com/sitemap.xml
-Sitemap: https://platinumzenith.com/sitemap-images.xml
+Sitemap: https://platinumzenith.com/sitemap-index.xml

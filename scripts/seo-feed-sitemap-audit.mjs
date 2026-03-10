@@ -21,8 +21,11 @@ const sitemapXml = read(sitemapPath)
 const rssXml = read(rssPath)
 const indexHtml = read(indexPath)
 
-if (!robots.includes(`Sitemap: ${SITE_URL}/sitemap.xml`)) {
-  issues.push('robots.txt missing sitemap declaration for https://platinumzenith.com/sitemap.xml')
+const hasDirectSitemap = robots.includes(`Sitemap: ${SITE_URL}/sitemap.xml`)
+const hasSitemapIndex = robots.includes(`Sitemap: ${SITE_URL}/sitemap-index.xml`)
+
+if (!hasDirectSitemap && !hasSitemapIndex) {
+  issues.push('robots.txt missing sitemap declaration (expected sitemap.xml or sitemap-index.xml)')
 }
 
 if (!indexHtml.includes('href="https://platinumzenith.com/rss.xml"')) {

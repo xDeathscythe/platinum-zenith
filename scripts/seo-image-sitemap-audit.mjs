@@ -42,8 +42,11 @@ if (!fs.existsSync(robotsPath)) {
   issues.push('Missing public/robots.txt')
 } else {
   const robots = fs.readFileSync(robotsPath, 'utf8')
-  if (!robots.includes('Sitemap: https://platinumzenith.com/sitemap-images.xml')) {
-    issues.push('robots.txt missing sitemap-images.xml declaration')
+  const hasDirectImageSitemap = robots.includes('Sitemap: https://platinumzenith.com/sitemap-images.xml')
+  const hasSitemapIndex = robots.includes('Sitemap: https://platinumzenith.com/sitemap-index.xml')
+
+  if (!hasDirectImageSitemap && !hasSitemapIndex) {
+    issues.push('robots.txt missing sitemap-images.xml declaration (directly or via sitemap-index.xml)')
   }
 }
 

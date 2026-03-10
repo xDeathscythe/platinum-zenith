@@ -24,6 +24,7 @@ const checks = [
   { name: 'Internal link coverage (priority pages)', script: 'scripts/seo-link-coverage-audit.mjs' },
   { name: 'Feed/Sitemap consistency', script: 'scripts/seo-feed-sitemap-audit.mjs' },
   { name: 'Image sitemap integrity', script: 'scripts/seo-image-sitemap-audit.mjs' },
+  { name: 'Sitemap index integrity', script: 'scripts/seo-sitemap-index-audit.mjs' },
   { name: 'Sitemap URL health (every URL resolves canonical 200)', script: 'scripts/seo-sitemap-url-health-audit.mjs', phase: 'postbuild' },
   { name: 'Server-side schema injection', script: 'scripts/seo-server-schema-audit.mjs' },
   { name: 'Breadcrumb coverage (all public routes)', script: 'scripts/seo-breadcrumb-coverage-audit.mjs' },
