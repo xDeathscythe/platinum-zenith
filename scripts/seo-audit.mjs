@@ -5,6 +5,7 @@ const root = process.cwd()
 const appPath = path.join(root, 'src', 'App.jsx')
 const pageMetaPath = path.join(root, 'src', 'hooks', 'pageMetaData.js')
 const ogMetaPath = path.join(root, 'server', 'ogMeta.js')
+const shouldFix = process.argv.includes('--fix')
 
 const INTERNAL_SKIP = new Set([
   '/dashboard',
@@ -52,32 +53,83 @@ function parseOgMap(text) {
   return map
 }
 
-const appText = read(appPath)
-const pageMetaText = read(pageMetaPath)
-const ogMetaText = read(ogMetaPath)
+function escapeRegex(str) {
+  return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+}
 
-const routes = getRoutes(appText)
-const pageMeta = parseMetaMap(pageMetaText)
-const ogMeta = parseOgMap(ogMetaText)
+function escapeSingleQuotes(str) {
+  return str.replace(/'/g, "\\'")
+}
 
-const missingOgRoutes = routes.filter((r) => !INTERNAL_SKIP.has(r) && !ogMeta.has(r))
+function applyFixes(ogMetaText, pageMeta, routesToFix) {
+  let out = ogMetaText
 
-const metaVsOgDiffs = []
-for (const [route, meta] of pageMeta.entries()) {
-  if (!ogMeta.has(route)) continue
-  const og = ogMeta.get(route)
-  if (meta.title !== og.title || meta.description !== og.description) {
-    metaVsOgDiffs.push(route)
+  for (const route of routesToFix) {
+    const meta = pageMeta.get(route)
+    if (!meta) continue
+
+    const escapedRoute = escapeRegex(route)
+    const title = escapeSingleQuotes(meta.title)
+    const description = escapeSingleQuotes(meta.description)
+
+    const titleRe = new RegExp(`('${escapedRoute}'\\s*:\\s*\\{[\\s\\S]*?title:\\s*')([^']*)(')`, 'm')
+    const descRe = new RegExp(`('${escapedRoute}'\\s*:\\s*\\{[\\s\\S]*?description:\\s*')([^']*)(')`, 'm')
+
+    out = out.replace(titleRe, `$1${title}$3`)
+    out = out.replace(descRe, `$1${description}$3`)
+  }
+
+  return out
+}
+
+function buildSummary() {
+  const appText = read(appPath)
+  const pageMetaText = read(pageMetaPath)
+  const ogMetaText = read(ogMetaPath)
+
+  const routes = getRoutes(appText)
+  const pageMeta = parseMetaMap(pageMetaText)
+  const ogMeta = parseOgMap(ogMetaText)
+
+  const missingOgRoutes = routes.filter((r) => !INTERNAL_SKIP.has(r) && !ogMeta.has(r))
+
+  const metaVsOgDiffs = []
+  for (const [route, meta] of pageMeta.entries()) {
+    if (!ogMeta.has(route)) continue
+    const og = ogMeta.get(route)
+    if (meta.title !== og.title || meta.description !== og.description) {
+      metaVsOgDiffs.push(route)
+    }
+  }
+
+  return {
+    routes,
+    pageMeta,
+    ogMeta,
+    summary: {
+      generatedAt: new Date().toISOString(),
+      routeCount: routes.length,
+      pageMetaCount: pageMeta.size,
+      ogMetaCount: ogMeta.size,
+      missingOgRoutes,
+      metaVsOgDiffs,
+      fixApplied: false,
+      fixedCount: 0,
+    },
   }
 }
 
-const summary = {
-  generatedAt: new Date().toISOString(),
-  routeCount: routes.length,
-  pageMetaCount: pageMeta.size,
-  ogMetaCount: ogMeta.size,
-  missingOgRoutes,
-  metaVsOgDiffs,
+let { pageMeta, summary } = buildSummary()
+
+if (shouldFix && summary.metaVsOgDiffs.length > 0) {
+  const ogMetaText = read(ogMetaPath)
+  const fixedText = applyFixes(ogMetaText, pageMeta, summary.metaVsOgDiffs)
+  fs.writeFileSync(ogMetaPath, fixedText, 'utf8')
+
+  const rebuilt = buildSummary()
+  summary = rebuilt.summary
+  summary.fixApplied = true
+  summary.fixedCount = summary.metaVsOgDiffs.length
 }
 
 const reportPath = path.join(root, 'seo-audit-report.json')
@@ -87,6 +139,9 @@ console.log('SEO audit complete')
 console.log(`Routes: ${summary.routeCount}`)
 console.log(`Missing OG routes: ${summary.missingOgRoutes.length}`)
 console.log(`Meta/OG mismatches: ${summary.metaVsOgDiffs.length}`)
+if (summary.fixApplied) {
+  console.log(`Fix mode: applied (remaining mismatches: ${summary.metaVsOgDiffs.length})`)
+}
 console.log(`Report: ${reportPath}`)
 
 if (summary.missingOgRoutes.length > 0) {

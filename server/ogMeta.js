@@ -110,23 +110,23 @@ const ogMeta = {
     description: 'Marketing za startapove od validacije ideje do skaliranja: pozicioniranje, akvizicija prvih korisnika i ubrzanje product-market fit-a.',
   },
   '/paketi': {
-    title: 'Paketi i Cene | Starter, Growth, Enterprise | Platinum Zenith',
+    title: 'Paketi & Cene | Platinum Zenith',
     description: 'Paketi i cene za digitalni marketing i web usluge: Starter od 499€, Growth od 1.499€ i Enterprise po meri, bez skrivenih troškova i uz revenue share opciju.',
   },
   '/marketing-agencija-beograd': {
-    title: 'Marketing Agencija za Beograd | Platinum Zenith',
+    title: 'Marketing Agencija za Beograd | Digitalni Marketing | Platinum Zenith',
     description: 'Digitalni marketing za firme u Beogradu: izrada sajtova, SEO, Google Ads i društvene mreže uz jasne KPI ciljeve, mesečne izveštaje i plan rasta po budžetu.',
   },
   '/seo-optimizacija-cena': {
-    title: 'Koliko Košta SEO Optimizacija u Srbiji 2026 | Platinum Zenith',
+    title: 'Koliko Košta SEO Optimizacija u Srbiji 2026 | Cene SEO | Platinum Zenith',
     description: 'Realne cene SEO optimizacije u Srbiji: osnovni paketi od 300€, napredni od 500€ i premium od 1.200€ mesečno, uz audit sajta i plan rasta pozicija.',
   },
   '/marketing-agencija-zrenjanin': {
-    title: 'Marketing Agencija Zrenjanin | Platinum Zenith',
+    title: 'Marketing Agencija Zrenjanin | Digitalni Marketing | Platinum Zenith',
     description: 'Digitalni marketing u Zrenjaninu. Izrada sajtova, SEO, Google Ads, društvene mreže. Lokalna agencija koja donosi rezultate.',
   },
   '/cene-izrade-sajta': {
-    title: 'Koliko Košta Izrada Sajta u Srbiji 2026 | Platinum Zenith',
+    title: 'Koliko Košta Izrada Sajta u Srbiji 2026 | Cene i Vodič | Platinum Zenith',
     description: 'Realne cene izrade sajta u Srbiji za 2026. Prezentacioni sajt od 300€, poslovni od 800€, web shop od 1.500€. Vodič kroz cene bez skrivenih troškova.',
   },
   '/agencija-vs-freelancer': {
@@ -134,7 +134,7 @@ const ogMeta = {
     description: 'Agencija vs freelancer: realno poređenje po ceni, kvalitetu, rokovima i pouzdanosti. Konkretni saveti za firme u Srbiji.',
   },
   '/cene-digitalnog-marketinga': {
-    title: 'Koliko Košta Digitalni Marketing u Srbiji 2026 | Platinum Zenith',
+    title: 'Koliko Košta Digitalni Marketing u Srbiji 2026 | Cene i Vodič | Platinum Zenith',
     description: 'Realne cene digitalnog marketinga u Srbiji za 2026. Mesečni paketi od 300€, SEO od 200€, Google Ads od 200€. Vodič kroz troškove po usluzi.',
   },
   '/marketing-agencija-novi-sad': {
@@ -146,19 +146,19 @@ const ogMeta = {
     description: 'Vaš web shop ima posete, ali nema prodaju? Otkrivamo 5 najčešćih razloga, konkretna rešenja za svaki problem i korake za brže podizanje konverzije.',
   },
   '/koliko-kosta-facebook-reklama': {
-    title: 'Koliko Košta Facebook Reklama u Srbiji 2026 | Platinum Zenith',
+    title: 'Koliko Košta Facebook Reklama u Srbiji 2026 | Vodič Kroz Cene | Platinum Zenith',
     description: 'Realne cene Facebook i Instagram oglasa u Srbiji za 2026. CPC od 0,05€, mesečni budžet od 200€. Vodič kroz troškove i česte greške.',
   },
   '/google-reklame-cena': {
-    title: 'Koliko Koštaju Google Reklame u Srbiji 2026 | Platinum Zenith',
+    title: 'Koliko Koštaju Google Reklame u Srbiji 2026 | Vodič Kroz Cene | Platinum Zenith',
     description: 'Realne cene Google oglasa u Srbiji za 2026. CPC, budžeti po fazama rasta, trošak po leadu i najčešće greške koje dižu trošak.',
   },
   '/instagram-reklame-cena': {
-    title: 'Koliko Koštaju Instagram Reklame u Srbiji 2026 | Platinum Zenith',
+    title: 'Koliko Koštaju Instagram Reklame u Srbiji 2026 | Vodič Kroz Cene | Platinum Zenith',
     description: 'Realne cene Instagram oglasa u Srbiji za 2026. CPC, CPM, budžeti po fazama rasta i greške koje dižu trošak bez više upita i prodaje.',
   },
   '/izrada-wordpress-sajta-cena': {
-    title: 'Koliko Košta Izrada WordPress Sajta u Srbiji 2026 | Platinum Zenith',
+    title: 'Koliko Košta Izrada WordPress Sajta u Srbiji 2026 | Vodič Kroz Cene | Platinum Zenith',
     description: 'Cena izrade WordPress sajta u Srbiji 2026: trošak prezentacionog sajta i WooCommerce shopa, šta ulazi u cenu, rokovi i kako da izbegnete skrivene troškove.',
   },
   '/draft/netokracija-cro-case': {
@@ -170,7 +170,7 @@ const ogMeta = {
     description: 'Marketing za advokatske kancelarije u Srbiji: SEO, Google Ads, sajt i content strategija koja donosi kvalifikovane upite i stabilan rast klijenata.',
   },
   '/marketing-za-stomatologe': {
-    title: 'Marketing za Stomatologe | Digitalni Marketing za Ordinacije | Platinum Zenith',
+    title: 'Marketing za Stomatologe | Digitalni Marketing za Stomatološke Ordinacije | Platinum Zenith',
     description: 'Specijalizovani marketing za stomatološke ordinacije: Google Ads, lokalni SEO, sajt i kampanje koje pune kalendar novim pacijentima i povećavaju prihod.',
   },
   '/marketing-za-restorane': {

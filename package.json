@@ -9,6 +9,7 @@
     "start": "node server/index.js",
     "lint": "eslint .",
     "seo:audit": "node scripts/seo-audit.mjs",
+    "seo:fix-og": "node scripts/seo-audit.mjs --fix",
     "preview": "vite preview"
   },
   "dependencies": {
