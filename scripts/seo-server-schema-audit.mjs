@@ -8,6 +8,10 @@ const htmlTemplate = fs.readFileSync(htmlPath, 'utf8')
 
 const checks = [
   {
+    route: '/',
+    expect: { breadcrumb: false, faq: false, article: false, blogListing: false, noindex: false },
+  },
+  {
     route: '/kontakt',
     expect: { breadcrumb: true, faq: false, article: false, blogListing: false, noindex: false },
   },
@@ -77,6 +81,9 @@ for (const item of checks) {
     faq: hasSchema(out, 'ld-faq-server'),
     article: hasSchema(out, 'ld-article-server'),
     blogListing: hasSchema(out, 'ld-blog-list-server'),
+    org: hasSchema(out, 'ld-org-server'),
+    localBusiness: hasSchema(out, 'ld-local-business-server'),
+    website: hasSchema(out, 'ld-website-server'),
     noindex: robotsNoindex(out),
   }
 
@@ -86,8 +93,24 @@ for (const item of checks) {
     }
   }
 
+  if (!actual.org) {
+    issues.push(`${item.route}: missing ld-org-server`)
+  }
+
+  if (!actual.localBusiness) {
+    issues.push(`${item.route}: missing ld-local-business-server`)
+  }
+
+  if (item.route === '/' && !actual.website) {
+    issues.push(`${item.route}: missing ld-website-server`)
+  }
+
+  if (item.route !== '/' && actual.website) {
+    issues.push(`${item.route}: ld-website-server should only exist on homepage`)
+  }
+
   // Ensure no duplicate server schema ids per route
-  for (const id of ['ld-breadcrumb-server', 'ld-faq-server', 'ld-article-server', 'ld-blog-list-server']) {
+  for (const id of ['ld-org-server', 'ld-local-business-server', 'ld-website-server', 'ld-breadcrumb-server', 'ld-faq-server', 'ld-article-server', 'ld-blog-list-server']) {
     const count = (out.match(new RegExp(`id="${id}"`, 'g')) || []).length
     if (count > 1) issues.push(`${item.route}: duplicate ${id} (${count})`)
   }

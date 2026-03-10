@@ -14,6 +14,47 @@ const SITE_URL = 'https://platinumzenith.com'
 const DEFAULT_OG_IMAGE = `${SITE_URL}/og-image.jpg`
 const DEFAULT_OG_IMAGE_ALT = 'Platinum Zenith - Digitalna agencija iz Zrenjanina'
 
+const CORE_ORG_SCHEMA = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: 'Platinum Zenith',
+  url: SITE_URL,
+  logo: `${SITE_URL}/pz-icon.webp`,
+  email: 'aleksandar@platinumzenith.com',
+  telephone: '+381668168929',
+  areaServed: {
+    '@type': 'Country',
+    name: 'Srbija',
+  },
+}
+
+const CORE_LOCAL_BUSINESS_SCHEMA = {
+  '@context': 'https://schema.org',
+  '@type': 'LocalBusiness',
+  name: 'Platinum Zenith',
+  url: SITE_URL,
+  image: `${SITE_URL}/pz-og.jpg`,
+  email: 'aleksandar@platinumzenith.com',
+  telephone: '+381668168929',
+  address: {
+    '@type': 'PostalAddress',
+    addressLocality: 'Zrenjanin',
+    addressCountry: 'RS',
+  },
+  areaServed: {
+    '@type': 'Country',
+    name: 'Srbija',
+  },
+}
+
+const HOMEPAGE_WEBSITE_SCHEMA = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'Platinum Zenith',
+  url: SITE_URL,
+  inLanguage: 'sr-RS',
+} 
+
 // Load blog post data for dynamic OG meta on /blog/:slug
 let blogOgPosts = []
 try {
@@ -426,6 +467,20 @@ function injectServerBlogListingSchema(html, cleanPath) {
   return upsertJsonLdScript(html, schemaId, blogSchema)
 }
 
+function injectServerCoreSchemas(html, cleanPath) {
+  let result = html
+  result = upsertJsonLdScript(result, 'ld-org-server', CORE_ORG_SCHEMA)
+  result = upsertJsonLdScript(result, 'ld-local-business-server', CORE_LOCAL_BUSINESS_SCHEMA)
+
+  if (cleanPath === '/') {
+    result = upsertJsonLdScript(result, 'ld-website-server', HOMEPAGE_WEBSITE_SCHEMA)
+  } else {
+    result = removeJsonLdScript(result, 'ld-website-server')
+  }
+
+  return result
+}
+
 function breadcrumbPageNameFromTitle(title) {
   if (!title) return null
   return title.split('|')[0].trim() || null
@@ -566,6 +621,7 @@ export function injectOgMeta(html, pathname) {
       /(<meta\s+name="robots"\s+content=")[^"]*(")/,
       `$1${robotsContent}$2`
     )
+    result = injectServerCoreSchemas(result, cleanPath)
     result = injectServerFaqSchema(result, cleanPath)
     result = injectServerArticleSchema(result, cleanPath, canonicalUrl)
     result = injectServerBlogListingSchema(result, cleanPath)
@@ -653,6 +709,7 @@ export function injectOgMeta(html, pathname) {
     `$1${robotsContent}$2`
   )
 
+  result = injectServerCoreSchemas(result, cleanPath)
   result = injectServerFaqSchema(result, cleanPath)
   result = injectServerArticleSchema(result, cleanPath, canonicalUrl)
   result = injectServerBlogListingSchema(result, cleanPath)
