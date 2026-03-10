@@ -360,6 +360,52 @@ function injectServerArticleSchema(html, cleanPath, canonicalUrl) {
   return upsertJsonLdScript(html, schemaId, article)
 }
 
+function injectServerBlogListingSchema(html, cleanPath) {
+  const schemaId = 'ld-blog-list-server'
+
+  if (cleanPath !== '/blog') {
+    return removeJsonLdScript(html, schemaId)
+  }
+
+  const posts = [...blogOgPosts]
+    .filter((post) => post?.slug)
+    .sort((a, b) => {
+      const da = Date.parse(a?.date || '')
+      const db = Date.parse(b?.date || '')
+      if (Number.isNaN(da) || Number.isNaN(db)) return 0
+      return db - da
+    })
+    .slice(0, 30)
+
+  const blogSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'Blog',
+    name: 'Platinum Zenith Blog',
+    url: `${SITE_URL}/blog`,
+    inLanguage: 'sr-RS',
+    blogPost: posts.map((post) => {
+      const item = {
+        '@type': 'BlogPosting',
+        headline: post.title,
+        url: `${SITE_URL}/blog/${post.slug}`,
+        author: {
+          '@type': 'Person',
+          name: post.author || 'Aleksandar Nenadović',
+        },
+      }
+
+      if (post.date) {
+        item.datePublished = post.date
+        item.dateModified = post.date
+      }
+
+      return item
+    }),
+  }
+
+  return upsertJsonLdScript(html, schemaId, blogSchema)
+}
+
 function breadcrumbPageNameFromTitle(title) {
   if (!title) return null
   return title.split('|')[0].trim() || null
@@ -502,6 +548,7 @@ export function injectOgMeta(html, pathname) {
     )
     result = injectServerFaqSchema(result, cleanPath)
     result = injectServerArticleSchema(result, cleanPath, canonicalUrl)
+    result = injectServerBlogListingSchema(result, cleanPath)
     result = injectServerBreadcrumbSchema(result, cleanPath, canonicalUrl, meta)
     return result
   }
@@ -588,6 +635,7 @@ export function injectOgMeta(html, pathname) {
 
   result = injectServerFaqSchema(result, cleanPath)
   result = injectServerArticleSchema(result, cleanPath, canonicalUrl)
+  result = injectServerBlogListingSchema(result, cleanPath)
   result = injectServerBreadcrumbSchema(result, cleanPath, canonicalUrl, meta)
   return result
 }

@@ -9,39 +9,43 @@ const htmlTemplate = fs.readFileSync(htmlPath, 'utf8')
 const checks = [
   {
     route: '/kontakt',
-    expect: { breadcrumb: true, faq: false, article: false, noindex: false },
+    expect: { breadcrumb: true, faq: false, article: false, blogListing: false, noindex: false },
+  },
+  {
+    route: '/blog',
+    expect: { breadcrumb: true, faq: false, article: false, blogListing: true, noindex: false },
   },
   {
     route: '/google-reklame-cena',
-    expect: { breadcrumb: true, faq: true, article: false, noindex: false },
+    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, noindex: false },
   },
   {
     route: '/instagram-reklame-cena',
-    expect: { breadcrumb: true, faq: true, article: false, noindex: false },
+    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, noindex: false },
   },
   {
     route: '/izrada-wordpress-sajta-cena',
-    expect: { breadcrumb: true, faq: true, article: false, noindex: false },
+    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, noindex: false },
   },
   {
     route: '/marketing-za-advokate',
-    expect: { breadcrumb: true, faq: true, article: false, noindex: false },
+    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, noindex: false },
   },
   {
     route: '/marketing-za-stomatologe',
-    expect: { breadcrumb: true, faq: true, article: false, noindex: false },
+    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, noindex: false },
   },
   {
     route: '/marketing-za-restorane',
-    expect: { breadcrumb: true, faq: true, article: false, noindex: false },
+    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, noindex: false },
   },
   {
     route: '/blog/google-ads-cena-po-kliku-srbija-2026',
-    expect: { breadcrumb: true, faq: false, article: true, noindex: false },
+    expect: { breadcrumb: true, faq: false, article: true, blogListing: false, noindex: false },
   },
   {
     route: '/draft/netokracija-cro-case',
-    expect: { breadcrumb: true, faq: false, article: false, noindex: true },
+    expect: { breadcrumb: true, faq: false, article: false, blogListing: false, noindex: true },
   },
 ]
 
@@ -64,6 +68,7 @@ for (const item of checks) {
     breadcrumb: hasSchema(out, 'ld-breadcrumb-server'),
     faq: hasSchema(out, 'ld-faq-server'),
     article: hasSchema(out, 'ld-article-server'),
+    blogListing: hasSchema(out, 'ld-blog-list-server'),
     noindex: robotsNoindex(out),
   }
 
@@ -74,7 +79,7 @@ for (const item of checks) {
   }
 
   // Ensure no duplicate server schema ids per route
-  for (const id of ['ld-breadcrumb-server', 'ld-faq-server', 'ld-article-server']) {
+  for (const id of ['ld-breadcrumb-server', 'ld-faq-server', 'ld-article-server', 'ld-blog-list-server']) {
     const count = (out.match(new RegExp(`id="${id}"`, 'g')) || []).length
     if (count > 1) issues.push(`${item.route}: duplicate ${id} (${count})`)
   }
