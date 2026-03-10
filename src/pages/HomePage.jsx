@@ -1,11 +1,13 @@
+import { lazy, Suspense } from 'react'
 import { Link } from 'react-router-dom'
 import PageMeta from '../components/PageMeta'
 import Hero from '../components/Hero'
-import Features from '../components/Features'
-import Surfaces from '../components/Surfaces'
-import VideoAdsShowcase from '../components/VideoAdsShowcase'
-import BottomCTA from '../components/BottomCTA'
 import Reveal from '../components/Reveal'
+
+const Features = lazy(() => import('../components/Features'))
+const Surfaces = lazy(() => import('../components/Surfaces'))
+const VideoAdsShowcase = lazy(() => import('../components/VideoAdsShowcase'))
+const BottomCTA = lazy(() => import('../components/BottomCTA'))
 
 /* ─── Full-width dark band (OpenAI-style visual break) ── */
 function PromiseBand() {
@@ -108,12 +110,14 @@ export default function HomePage() {
         description="Platinum Zenith je digitalna agencija iz Zrenjanina. Dovodimo vam vise klijenata kroz digitalni marketing, web dizajn, CRO optimizaciju i poslovno savetovanje. Besplatna analiza."
       />
       <Hero />
-      <Features />
-      <Surfaces />
-      <PromiseBand />
-      <VideoAdsShowcase />
-      <FeaturedBlog />
-      <BottomCTA />
+      <Suspense fallback={null}>
+        <Features />
+        <Surfaces />
+        <PromiseBand />
+        <VideoAdsShowcase />
+        <FeaturedBlog />
+        <BottomCTA />
+      </Suspense>
     </>
   )
 }
