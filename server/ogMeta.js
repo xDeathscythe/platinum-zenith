@@ -265,6 +265,73 @@ function injectServerArticleSchema(html, cleanPath, canonicalUrl) {
   return upsertJsonLdScript(html, schemaId, article)
 }
 
+function breadcrumbPageNameFromTitle(title) {
+  if (!title) return null
+  return title.split('|')[0].trim() || null
+}
+
+function breadcrumbNameFromPath(cleanPath) {
+  const last = cleanPath.split('/').filter(Boolean).pop()
+  if (!last) return 'Stranica'
+  return last
+    .replace(/-/g, ' ')
+    .replace(/\b\w/g, (ch) => ch.toUpperCase())
+}
+
+function injectServerBreadcrumbSchema(html, cleanPath, canonicalUrl, meta) {
+  const schemaId = 'ld-breadcrumb-server'
+
+  if (cleanPath === '/') {
+    return removeJsonLdScript(html, schemaId)
+  }
+
+  const itemListElement = [
+    { '@type': 'ListItem', position: 1, name: 'Početna', item: SITE_URL },
+  ]
+
+  if (cleanPath === '/blog') {
+    itemListElement.push({
+      '@type': 'ListItem',
+      position: 2,
+      name: 'Blog',
+      item: `${SITE_URL}/blog`,
+    })
+  } else if (cleanPath.startsWith('/blog/') || cleanPath.startsWith('/draft/')) {
+    const slug = cleanPath.replace(/^\/(blog|draft)\//, '')
+    const post = blogOgPosts.find((p) => p.slug === slug)
+
+    const blogCrumb = {
+      '@type': 'ListItem',
+      position: 2,
+      name: cleanPath.startsWith('/draft/') ? 'Draft' : 'Blog',
+      item: `${SITE_URL}/blog`,
+    }
+    itemListElement.push(blogCrumb)
+
+    itemListElement.push({
+      '@type': 'ListItem',
+      position: 3,
+      name: post?.title || breadcrumbPageNameFromTitle(meta?.title) || breadcrumbNameFromPath(cleanPath),
+      item: canonicalUrl,
+    })
+  } else {
+    itemListElement.push({
+      '@type': 'ListItem',
+      position: 2,
+      name: breadcrumbPageNameFromTitle(meta?.title) || breadcrumbNameFromPath(cleanPath),
+      item: canonicalUrl,
+    })
+  }
+
+  const breadcrumb = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement,
+  }
+
+  return upsertJsonLdScript(html, schemaId, breadcrumb)
+}
+
 /**
  * Inject per-route OG meta tags into the HTML template.
  * Replaces title, description, canonical URL, og:*, twitter:* tags
@@ -327,6 +394,7 @@ export function injectOgMeta(html, pathname) {
       `$1${robotsContent}$2`
     )
     result = injectServerArticleSchema(result, cleanPath, canonicalUrl)
+    result = injectServerBreadcrumbSchema(result, cleanPath, canonicalUrl, meta)
     return result
   }
 
@@ -393,6 +461,7 @@ export function injectOgMeta(html, pathname) {
   )
 
   result = injectServerArticleSchema(result, cleanPath, canonicalUrl)
+  result = injectServerBreadcrumbSchema(result, cleanPath, canonicalUrl, meta)
   return result
 }
 
