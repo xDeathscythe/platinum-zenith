@@ -50,6 +50,7 @@ const HIGH_PRIORITY_PATHS = new Set([
   '/in-house-tim-vs-agencija',
   '/fiksna-naknada-vs-revenue-share',
   '/facebook-oglasi-ne-rade',
+  '/web-shop-nema-prodaju',
 ])
 
 function xmlEscape(value) {

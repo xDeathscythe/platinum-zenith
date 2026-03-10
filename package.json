@@ -20,6 +20,7 @@
     "seo:sitemap-index": "node scripts/gen-sitemap-index.mjs",
     "seo:rss": "node scripts/gen-rss.mjs",
     "seo:feed-sitemap": "node scripts/seo-feed-sitemap-audit.mjs",
+    "seo:sitemap-priority": "node scripts/seo-sitemap-priority-audit.mjs",
     "seo:image-sitemap-audit": "node scripts/seo-image-sitemap-audit.mjs",
     "seo:sitemap-index-audit": "node scripts/seo-sitemap-index-audit.mjs",
     "seo:sitemap-health": "node scripts/seo-sitemap-url-health-audit.mjs",
