@@ -15,6 +15,7 @@
     "seo:rss": "node scripts/gen-rss.mjs",
     "seo:feed-sitemap": "node scripts/seo-feed-sitemap-audit.mjs",
     "seo:server-schema": "node scripts/seo-server-schema-audit.mjs",
+    "seo:og-images": "node scripts/seo-og-image-audit.mjs",
     "seo:canonical": "node scripts/seo-canonical-audit.mjs",
     "seo:headings": "node scripts/seo-headings-audit.mjs",
     "seo:landing-qa": "node scripts/seo-landing-qa.mjs",

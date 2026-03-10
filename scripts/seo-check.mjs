@@ -11,6 +11,7 @@ const checks = [
   { name: 'Internal linking', script: 'scripts/seo-links-audit.mjs' },
   { name: 'Feed/Sitemap consistency', script: 'scripts/seo-feed-sitemap-audit.mjs' },
   { name: 'Server-side schema injection', script: 'scripts/seo-server-schema-audit.mjs' },
+  { name: 'Open Graph image consistency', script: 'scripts/seo-og-image-audit.mjs' },
   { name: 'Blog article schema', script: 'scripts/seo-blog-schema-audit.mjs' },
   { name: 'Meta title/description quality', script: 'scripts/seo-meta-quality-audit.mjs', args: ['--strict'] },
   { name: 'Money page landing QA', script: 'scripts/seo-landing-qa.mjs' },

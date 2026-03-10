@@ -11,6 +11,8 @@ const __filename = fileURLToPath(import.meta.url)
 const __dir = dirname(__filename)
 
 const SITE_URL = 'https://platinumzenith.com'
+const DEFAULT_OG_IMAGE = `${SITE_URL}/og-image.jpg`
+const DEFAULT_OG_IMAGE_ALT = 'Platinum Zenith - Digitalna agencija iz Zrenjanina'
 
 // Load blog post data for dynamic OG meta on /blog/:slug
 let blogOgPosts = []
@@ -152,14 +154,20 @@ const ogMeta = {
   '/google-reklame-cena': {
     title: 'Koliko Koštaju Google Reklame u Srbiji 2026 | Vodič Kroz Cene | Platinum Zenith',
     description: 'Realne cene Google oglasa u Srbiji za 2026. CPC, budžeti po fazama rasta, trošak po leadu i najčešće greške koje dižu trošak.',
+    ogImage: `${SITE_URL}/pz-og.jpg`,
+    ogImageAlt: 'Google reklame cena u Srbiji 2026 - vodič Platinum Zenith',
   },
   '/instagram-reklame-cena': {
     title: 'Instagram Reklame Cena u Srbiji 2026 | Platinum Zenith',
     description: 'Realne cene Instagram oglasa u Srbiji za 2026. CPC, CPM, budžeti po fazama rasta i greške koje dižu trošak bez više upita i prodaje.',
+    ogImage: `${SITE_URL}/pz-og.jpg`,
+    ogImageAlt: 'Instagram reklame cena u Srbiji 2026 - vodič Platinum Zenith',
   },
   '/izrada-wordpress-sajta-cena': {
     title: 'Izrada WordPress Sajta Cena u Srbiji 2026 | Platinum Zenith',
     description: 'Cena izrade WordPress sajta u Srbiji 2026: trošak prezentacionog sajta i WooCommerce shopa, šta ulazi u cenu, rokovi i kako da izbegnete skrivene troškove.',
+    ogImage: `${SITE_URL}/pz-og.jpg`,
+    ogImageAlt: 'Izrada WordPress sajta cena u Srbiji 2026 - vodič Platinum Zenith',
   },
   '/draft/netokracija-cro-case': {
     title: 'DRAFT: Kako smo povećali profit 4x kroz CRO izmene | Platinum Zenith',
@@ -447,6 +455,18 @@ export function injectOgMeta(html, pathname) {
       `$1${ogType}$2`
     )
     result = result.replace(
+      /(<meta\s+property="og:image"\s+content=")[^"]*(")/,
+      `$1${DEFAULT_OG_IMAGE}$2`
+    )
+    result = result.replace(
+      /(<meta\s+property="og:image:alt"\s+content=")[^"]*(")/,
+      `$1${DEFAULT_OG_IMAGE_ALT}$2`
+    )
+    result = result.replace(
+      /(<meta\s+name="twitter:image"\s+content=")[^"]*(")/,
+      `$1${DEFAULT_OG_IMAGE}$2`
+    )
+    result = result.replace(
       /(<meta\s+name="robots"\s+content=")[^"]*(")/,
       `$1${robotsContent}$2`
     )
@@ -457,6 +477,8 @@ export function injectOgMeta(html, pathname) {
   }
 
   let result = html
+  const ogImageUrl = meta.ogImage || DEFAULT_OG_IMAGE
+  const ogImageAlt = meta.ogImageAlt || DEFAULT_OG_IMAGE_ALT
 
   // <title>
   result = result.replace(
@@ -498,6 +520,22 @@ export function injectOgMeta(html, pathname) {
   result = result.replace(
     /(<meta\s+property="og:url"\s+content=")[^"]*(")/,
     `$1${canonicalUrl}$2`
+  )
+
+  // og:image + alt
+  result = result.replace(
+    /(<meta\s+property="og:image"\s+content=")[^"]*(")/,
+    `$1${ogImageUrl}$2`
+  )
+  result = result.replace(
+    /(<meta\s+property="og:image:alt"\s+content=")[^"]*(")/,
+    `$1${ogImageAlt}$2`
+  )
+
+  // twitter:image
+  result = result.replace(
+    /(<meta\s+name="twitter:image"\s+content=")[^"]*(")/,
+    `$1${ogImageUrl}$2`
   )
 
   // twitter:title
