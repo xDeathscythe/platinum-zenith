@@ -53,6 +53,11 @@ const HOMEPAGE_WEBSITE_SCHEMA = {
   name: 'Platinum Zenith',
   url: SITE_URL,
   inLanguage: 'sr-RS',
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: `${SITE_URL}/blog?search={search_term_string}`,
+    'query-input': 'required name=search_term_string',
+  },
 }
 
 const SERVER_ROUTE_SCHEMAS = {
