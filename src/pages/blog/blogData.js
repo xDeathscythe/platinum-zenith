@@ -5132,5 +5132,89 @@ Hormozi pristup nije „fensi prodaja“. To je disciplina: jasna vrednost, jasa
 Ako želite da uporedite modele naplate i budžeta, pogledajte i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share), [cene digitalnog marketinga](/cene-digitalnog-marketinga) i [Google reklame cena](/google-reklame-cena).
 `,
   }
+,
+  {
+    slug: 'leila-hormozi-kpi-tabla-za-stabilan-rast',
+    title: 'Leila Hormozi KPI tabla: kako da vodiš firmu bez haosa i gašenja požara',
+    excerpt: 'Kad tim nema jasne brojeve, odluke se donose po osećaju. Evo jednostavne KPI table koja pomaže da vidiš šta stvarno koči rast i šta prvo popraviti.',
+    date: '2026-03-10',
+    category: 'Biznis',
+    readTime: '8 min',
+    content: `
+## Zašto firme zapinju i kada imaju promet
+
+Mnoge firme rastu u prihodima, ali vlasnik i dalje oseća da stalno gasi požare. Razlog je jednostavan: nema jasne KPI table koja pokazuje gde tačno curi rezultat.
+
+Leila Hormozi pristup je praktičan: ne treba vam 40 metrika, treba vam mali broj pravih brojeva koji vode odluku.
+
+## Šta je KPI tabla koja radi
+
+Dobra tabla ima 3 nivoa:
+1. marketing,
+2. prodaja,
+3. isporuka.
+
+Ako nedostaje jedan nivo, dobijaš iskrivljenu sliku. Na primer, marketing može da izgleda odlično, ali ako prodaja slabo zatvara, firma i dalje trpi.
+
+## 1) Marketing KPI koji moraju da postoje
+
+Minimum koji treba pratiti svake nedelje:
+- broj kvalifikovanih upita,
+- cena po kvalifikovanom upitu,
+- stopa konverzije landing stranice,
+- procenat upita iz organskog vs plaćenog kanala.
+
+Ovo ti govori da li poruka i kanali rade kako treba.
+
+## 2) Prodajni KPI koji otkrivaju usko grlo
+
+Bez ovih brojeva, prodaja je "osećaj":
+- procenat zakazanih poziva iz upita,
+- procenat zatvorenih ponuda,
+- prosečna vrednost ugovora,
+- vreme od prvog kontakta do potpisa.
+
+Kada ove brojke padnu, znaš da problem nije u marketingu nego u prodajnom toku.
+
+## 3) KPI isporuke koji štite profit
+
+Rast bez kontrole isporuke jede maržu. Prati:
+- prosečno vreme isporuke,
+- procenat kašnjenja,
+- broj revizija po projektu,
+- zadovoljstvo klijenta posle prve faze.
+
+Ako ovi KPI nisu pod kontrolom, rast će te skupo koštati.
+
+## Kako da tabela bude stvarno korisna
+
+Tabela mora da vodi akciju, ne da bude ukras. Zato za svaki KPI definiši:
+- ciljnu vrednost,
+- alarm prag,
+- sledeći korak kada KPI uđe u crveno.
+
+Primer:
+Ako je cena po kvalifikovanom upitu iznad cilja 2 nedelje zaredom, radi se revizija kreativa i publika.
+
+## Najveća greška
+
+Najčešća greška je da tim prati previše brojeva. Tada niko ne zna šta je prioritet. Bolje je 10 KPI koje svi razumeju nego 50 koje niko ne koristi.
+
+## Nedeljni ritam koji Leila stil preporučuje
+
+Jedan kratak sastanak nedeljno:
+- 10 minuta pregled KPI,
+- 10 minuta šta je crveno,
+- 10 minuta koji je jedan fokus za sledeću nedelju.
+
+To je dovoljno da firma ostane u kontroli i dok raste.
+
+## Zaključak
+
+KPI tabla nije administracija. To je komandna tabla firme. Kada je jednostavna i disciplinovano vođena, odluke su brže, tim je mirniji i rast postaje predvidljiv.
+
+Za širi kontekst pogledajte i [Leila Hormozi sistem za rast biznisa](/blog/leila-hormozi-sistem-za-rast-biznisa), [cene digitalnog marketinga](/cene-digitalnog-marketinga) i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share).
+`,
+  }
 
 ]
