@@ -43,6 +43,7 @@ const checks = [
   { name: 'Article Open Graph fields (published/modified/section)', script: 'scripts/seo-article-og-audit.mjs' },
   { name: 'Blog article schema', script: 'scripts/seo-blog-schema-audit.mjs' },
   { name: 'Meta title/description quality', script: 'scripts/seo-meta-quality-audit.mjs', args: ['--strict'] },
+  { name: 'Meta keyword richness (keyword coverage)', script: 'scripts/seo-meta-keyword-rich-audit.mjs' },
   { name: 'Meta uniqueness (near-duplicate detection)', script: 'scripts/seo-meta-uniqueness-audit.mjs' },
   { name: 'SERP snippet width budget', script: 'scripts/seo-serp-snippet-audit.mjs', args: ['--strict'] },
   { name: 'Meta intent keyword coverage', script: 'scripts/seo-meta-intent-audit.mjs' },
