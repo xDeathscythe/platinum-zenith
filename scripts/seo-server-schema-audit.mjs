@@ -25,7 +25,7 @@ const checks = [
   },
   {
     route: '/google-reklame-cena',
-    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: false, noindex: false },
+    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: true, noindex: false },
   },
   {
     route: '/alati/roi-kalkulator',
@@ -53,11 +53,11 @@ const checks = [
   },
   {
     route: '/instagram-reklame-cena',
-    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, noindex: false },
+    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: true, noindex: false },
   },
   {
     route: '/izrada-wordpress-sajta-cena',
-    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, noindex: false },
+    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: true, noindex: false },
   },
   {
     route: '/marketing-za-advokate',
@@ -210,6 +210,9 @@ for (const item of checks) {
         '/web-design': { type: 'Service', url: 'https://platinumzenith.com/web-design' },
         '/consulting': { type: 'Service', url: 'https://platinumzenith.com/consulting' },
         '/drustvene-mreze': { type: 'Service', url: 'https://platinumzenith.com/drustvene-mreze' },
+        '/google-reklame-cena': { type: 'Service', url: 'https://platinumzenith.com/google-reklame-cena' },
+        '/instagram-reklame-cena': { type: 'Service', url: 'https://platinumzenith.com/instagram-reklame-cena' },
+        '/izrada-wordpress-sajta-cena': { type: 'Service', url: 'https://platinumzenith.com/izrada-wordpress-sajta-cena' },
       }
 
       const expected = routeSchemaExpectations[item.route]

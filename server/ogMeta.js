@@ -183,6 +183,54 @@ const SERVER_ROUTE_SCHEMAS = {
       url: SITE_URL,
     },
   },
+  '/google-reklame-cena': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Google Ads upravljanje kampanjama',
+    serviceType: 'Google Ads management',
+    url: `${SITE_URL}/google-reklame-cena`,
+    areaServed: {
+      '@type': 'Country',
+      name: 'Srbija',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
+  '/instagram-reklame-cena': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Instagram oglašavanje i optimizacija kampanja',
+    serviceType: 'Instagram advertising',
+    url: `${SITE_URL}/instagram-reklame-cena`,
+    areaServed: {
+      '@type': 'Country',
+      name: 'Srbija',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
+  '/izrada-wordpress-sajta-cena': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Izrada WordPress sajtova',
+    serviceType: 'WordPress website development',
+    url: `${SITE_URL}/izrada-wordpress-sajta-cena`,
+    areaServed: {
+      '@type': 'Country',
+      name: 'Srbija',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
 }
 
 // Load blog post data for dynamic OG meta on /blog/:slug
