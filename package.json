@@ -15,6 +15,7 @@
     "seo:sitemap": "node scripts/gen-sitemap.mjs",
     "seo:rss": "node scripts/gen-rss.mjs",
     "seo:feed-sitemap": "node scripts/seo-feed-sitemap-audit.mjs",
+    "seo:sitemap-health": "node scripts/seo-sitemap-url-health-audit.mjs",
     "seo:server-schema": "node scripts/seo-server-schema-audit.mjs",
     "seo:breadcrumb-coverage": "node scripts/seo-breadcrumb-coverage-audit.mjs",
     "seo:jsonld": "node scripts/seo-jsonld-validity-audit.mjs",
