@@ -21,7 +21,11 @@ const checks = [
   },
   {
     route: '/google-reklame-cena',
-    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, noindex: false },
+    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: false, noindex: false },
+  },
+  {
+    route: '/alati/roi-kalkulator',
+    expect: { breadcrumb: true, faq: false, article: false, blogListing: false, routeSchema: true, noindex: false },
   },
   {
     route: '/instagram-reklame-cena',
@@ -94,6 +98,7 @@ for (const item of checks) {
     faq: hasSchema(out, 'ld-faq-server'),
     article: hasSchema(out, 'ld-article-server'),
     blogListing: hasSchema(out, 'ld-blog-list-server'),
+    routeSchema: hasSchema(out, 'ld-route-schema-server'),
     org: hasSchema(out, 'ld-org-server'),
     localBusiness: hasSchema(out, 'ld-local-business-server'),
     website: hasSchema(out, 'ld-website-server'),
@@ -141,8 +146,22 @@ for (const item of checks) {
     }
   }
 
+  if (actual.routeSchema) {
+    const routeSchema = extractJsonLdById(out, 'ld-route-schema-server')
+    if (!routeSchema) {
+      issues.push(`${item.route}: ld-route-schema-server is not valid JSON`)
+    } else if (item.route === '/alati/roi-kalkulator') {
+      if (routeSchema['@type'] !== 'SoftwareApplication') {
+        issues.push(`${item.route}: expected SoftwareApplication route schema`)
+      }
+      if (routeSchema.url !== 'https://platinumzenith.com/alati/roi-kalkulator') {
+        issues.push(`${item.route}: route schema URL mismatch (${routeSchema.url})`)
+      }
+    }
+  }
+
   // Ensure no duplicate server schema ids per route
-  for (const id of ['ld-org-server', 'ld-local-business-server', 'ld-website-server', 'ld-breadcrumb-server', 'ld-faq-server', 'ld-article-server', 'ld-blog-list-server']) {
+  for (const id of ['ld-org-server', 'ld-local-business-server', 'ld-website-server', 'ld-route-schema-server', 'ld-breadcrumb-server', 'ld-faq-server', 'ld-article-server', 'ld-blog-list-server']) {
     const count = (out.match(new RegExp(`id="${id}"`, 'g')) || []).length
     if (count > 1) issues.push(`${item.route}: duplicate ${id} (${count})`)
   }

@@ -53,7 +53,29 @@ const HOMEPAGE_WEBSITE_SCHEMA = {
   name: 'Platinum Zenith',
   url: SITE_URL,
   inLanguage: 'sr-RS',
-} 
+}
+
+const SERVER_ROUTE_SCHEMAS = {
+  '/alati/roi-kalkulator': {
+    '@context': 'https://schema.org',
+    '@type': 'SoftwareApplication',
+    name: 'ROI Kalkulator za Marketing',
+    applicationCategory: 'BusinessApplication',
+    operatingSystem: 'Web',
+    offers: {
+      '@type': 'Offer',
+      price: '0',
+      priceCurrency: 'EUR',
+    },
+    description: 'Besplatan interaktivni kalkulator za izračunavanje povrata investicije u marketing.',
+    url: `${SITE_URL}/alati/roi-kalkulator`,
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
+}
 
 // Load blog post data for dynamic OG meta on /blog/:slug
 let blogOgPosts = []
@@ -480,6 +502,17 @@ function injectServerCoreSchemas(html, cleanPath) {
   return result
 }
 
+function injectServerRouteSpecificSchema(html, cleanPath) {
+  const schemaId = 'ld-route-schema-server'
+  const schema = SERVER_ROUTE_SCHEMAS[cleanPath]
+
+  if (!schema) {
+    return removeJsonLdScript(html, schemaId)
+  }
+
+  return upsertJsonLdScript(html, schemaId, schema)
+}
+
 function breadcrumbPageNameFromTitle(title) {
   if (!title) return null
   return title.split('|')[0].trim() || null
@@ -629,6 +662,7 @@ export function injectOgMeta(html, pathname) {
       `$1${robotsContent}$2`
     )
     result = injectServerCoreSchemas(result, cleanPath)
+    result = injectServerRouteSpecificSchema(result, cleanPath)
     result = injectServerFaqSchema(result, cleanPath)
     result = injectServerArticleSchema(result, cleanPath, canonicalUrl)
     result = injectServerBlogListingSchema(result, cleanPath)
@@ -725,6 +759,7 @@ export function injectOgMeta(html, pathname) {
   )
 
   result = injectServerCoreSchemas(result, cleanPath)
+  result = injectServerRouteSpecificSchema(result, cleanPath)
   result = injectServerFaqSchema(result, cleanPath)
   result = injectServerArticleSchema(result, cleanPath, canonicalUrl)
   result = injectServerBlogListingSchema(result, cleanPath)
