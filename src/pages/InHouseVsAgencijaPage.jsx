@@ -244,7 +244,7 @@ export default function InHouseVsAgencijaPage() {
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[760px] mx-auto">
           <h2 className="text-[22px] font-medium text-ink mb-6 text-center">Povezane stranice</h2>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-4">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-6 gap-4">
             <Link to="/agencija-vs-freelancer" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
               <div className="text-[14px] font-medium text-ink mb-1">Agencija vs freelancer</div>
               <div className="text-[12px] text-ink-3">Kada je bolja koja opcija</div>
@@ -264,6 +264,10 @@ export default function InHouseVsAgencijaPage() {
             <Link to="/google-reklame-cena" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
               <div className="text-[14px] font-medium text-ink mb-1">Google reklame cena</div>
               <div className="text-[12px] text-ink-3">Budžet po modelu rada: tim ili agencija</div>
+            </Link>
+            <Link to="/instagram-reklame-cena" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Instagram reklame cena</div>
+              <div className="text-[12px] text-ink-3">Vizuelni kanal po modelu rada</div>
             </Link>
           </div>
         </div>
