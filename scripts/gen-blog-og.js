@@ -1,6 +1,6 @@
 /**
- * Build-time script: extract public blog slug/title/excerpt from blogData.js
- * into a small JSON file that the server can import for OG meta injection.
+ * Build-time script: extract public blog metadata from blogData.js
+ * into a compact JSON file that server-side OG + Article schema injection can use.
  * Run after vite build (or before server start).
  */
 import { writeFileSync } from 'fs'
@@ -24,6 +24,9 @@ const posts = uniquePublicPosts
     slug: post.slug,
     title: post.title,
     excerpt: (post.excerpt || '').slice(0, 200),
+    date: post.date || null,
+    category: post.category || null,
+    author: 'Aleksandar Nenadović',
   }))
 
 const outDir = join(root, 'server')

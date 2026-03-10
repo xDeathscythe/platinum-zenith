@@ -195,6 +195,76 @@ const ogMeta = {
   },
 }
 
+function upsertJsonLdScript(html, id, data) {
+  const escapedJson = JSON.stringify(data).replace(/<\//g, '<\\/')
+  const script = `<script id="${id}" type="application/ld+json">${escapedJson}</script>`
+  const existingRe = new RegExp(`<script\\s+id="${id}"[\\s\\S]*?<\\/script>`, 'i')
+
+  if (existingRe.test(html)) {
+    return html.replace(existingRe, script)
+  }
+
+  return html.replace('</head>', `  ${script}\n  </head>`)
+}
+
+function removeJsonLdScript(html, id) {
+  const existingRe = new RegExp(`\\s*<script\\s+id="${id}"[\\s\\S]*?<\\/script>\\s*`, 'i')
+  return html.replace(existingRe, '\n')
+}
+
+function injectServerArticleSchema(html, cleanPath, canonicalUrl) {
+  const schemaId = 'ld-article-server'
+  const isBlogLikePath = cleanPath.startsWith('/blog/') || cleanPath.startsWith('/draft/')
+
+  if (!isBlogLikePath) {
+    return removeJsonLdScript(html, schemaId)
+  }
+
+  const slug = cleanPath.replace(/^\/(blog|draft)\//, '')
+  const post = blogOgPosts.find((p) => p.slug === slug)
+
+  if (!post) {
+    return removeJsonLdScript(html, schemaId)
+  }
+
+  const article = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: post.title,
+    description: post.excerpt,
+    url: canonicalUrl,
+    mainEntityOfPage: {
+      '@type': 'WebPage',
+      '@id': canonicalUrl,
+    },
+    inLanguage: 'sr-RS',
+    author: {
+      '@type': 'Person',
+      name: post.author || 'Aleksandar Nenadović',
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+      logo: {
+        '@type': 'ImageObject',
+        url: `${SITE_URL}/pz-icon.webp`,
+      },
+    },
+  }
+
+  if (post.date) {
+    article.datePublished = post.date
+    article.dateModified = post.date
+  }
+
+  if (post.category) {
+    article.articleSection = post.category
+  }
+
+  return upsertJsonLdScript(html, schemaId, article)
+}
+
 /**
  * Inject per-route OG meta tags into the HTML template.
  * Replaces title, description, canonical URL, og:*, twitter:* tags
@@ -256,6 +326,7 @@ export function injectOgMeta(html, pathname) {
       /(<meta\s+name="robots"\s+content=")[^"]*(")/,
       `$1${robotsContent}$2`
     )
+    result = injectServerArticleSchema(result, cleanPath, canonicalUrl)
     return result
   }
 
@@ -321,6 +392,7 @@ export function injectOgMeta(html, pathname) {
     `$1${robotsContent}$2`
   )
 
+  result = injectServerArticleSchema(result, cleanPath, canonicalUrl)
   return result
 }
 
