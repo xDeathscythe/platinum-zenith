@@ -10,6 +10,7 @@ const checks = [
   { name: 'Canonical + hreflang consistency', script: 'scripts/seo-hreflang-audit.mjs' },
   { name: 'SEO redirects and legacy URL canonicalization', script: 'scripts/seo-redirect-audit.mjs' },
   { name: 'SEO file cache policy', script: 'scripts/seo-cache-policy-audit.mjs' },
+  { name: 'SEO file revalidation (Last-Modified/304)', script: 'scripts/seo-file-revalidation-audit.mjs' },
   { name: 'Robots index/noindex policy', script: 'scripts/seo-robots-audit.mjs' },
   { name: 'Heading hierarchy', script: 'scripts/seo-headings-audit.mjs' },
   { name: 'Image attributes', script: 'scripts/seo-image-audit.mjs' },

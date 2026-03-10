@@ -24,6 +24,7 @@
     "seo:canonical": "node scripts/seo-canonical-audit.mjs",
     "seo:hreflang": "node scripts/seo-hreflang-audit.mjs",
     "seo:cache-policy": "node scripts/seo-cache-policy-audit.mjs",
+    "seo:file-revalidation": "node scripts/seo-file-revalidation-audit.mjs",
     "seo:redirects": "node scripts/seo-redirect-audit.mjs",
     "seo:robots": "node scripts/seo-robots-audit.mjs",
     "seo:headings": "node scripts/seo-headings-audit.mjs",

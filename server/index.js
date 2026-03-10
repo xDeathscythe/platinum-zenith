@@ -3,7 +3,7 @@ import express from 'express'
 import cors from 'cors'
 import { fileURLToPath } from 'url'
 import { dirname, join } from 'path'
-import { existsSync, readFileSync } from 'fs'
+import { existsSync, readFileSync, statSync } from 'fs'
 import { brotliCompressSync, gzipSync, constants as zlibConstants } from 'zlib'
 import { injectOgMeta } from './ogMeta.js'
 
@@ -127,10 +127,24 @@ app.get(['/sitemap.xml', '/rss.xml', '/robots.txt'], (req, res, next) => {
   const filePath = join(distPath, req.path)
   if (!existsSync(filePath)) return next()
 
+  const fileStats = statSync(filePath)
+  const fileMtimeMs = Math.floor(fileStats.mtimeMs / 1000) * 1000
+  const lastModified = new Date(fileMtimeMs).toUTCString()
+  const ifModifiedSince = req.headers['if-modified-since']
+
   const shortExpiry = new Date(Date.now() + SEO_FRESH_MAX_AGE * 1000).toUTCString()
   res.set('Cache-Control', `public, max-age=${SEO_FRESH_MAX_AGE}, must-revalidate`)
   res.set('Expires', shortExpiry)
+  res.set('Last-Modified', lastModified)
   res.set('Vary', 'Accept-Encoding')
+
+  if (ifModifiedSince) {
+    const since = new Date(ifModifiedSince)
+    if (!Number.isNaN(since.getTime()) && since.getTime() >= fileMtimeMs) {
+      return res.status(304).end()
+    }
+  }
+
   res.sendFile(filePath)
 })
 
