@@ -4887,5 +4887,86 @@ Kad klijent vidi jasan ishod, plan i kontrolu rizika, odluka dolazi brže. To je
 Ako želite širi kontekst, pogledajte i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share), [cene digitalnog marketinga](/cene-digitalnog-marketinga) i [kako izabrati pravu marketing agenciju](/blog/kako-izabrati-pravu-marketing-agenciju).
 `,
   }
+,
+  {
+    slug: 'leila-hormozi-sistem-za-rast-biznisa',
+    title: 'Leila Hormozi lekcija: zašto biznis ne raste bez jasnog sistema',
+    excerpt: 'Mnogo firmi ne zapinje na prodaji, nego na haosu posle prodaje. Evo jednostavnog okvira kako da uvedete sistem i rastete bez gašenja požara svaki dan.',
+    date: '2026-03-10',
+    category: 'Biznis',
+    readTime: '8 min',
+    content: `
+## Problem koji guši rast
+
+Većina vlasnika misli da je glavni problem "treba nam više klijenata". U praksi, često je obrnuto. Klijenti dođu, ali tim nema jasan sistem isporuke. Tada kreće haos: kašnjenja, greške, stres i pad kvaliteta.
+
+Leila Hormozi stalno ponavlja istu stvar: rast bez sistema nije rast, to je kratkoročno preopterećenje.
+
+## Kako izgleda loš sistem u praksi
+
+Prepoznaćete ga po ovim signalima:
+- svaka nova osoba u timu pita iste stvari,
+- proces zavisi od "jednog heroja" koji sve zna,
+- vlasnik stalno uskače da gasi probleme,
+- rezultat zavisi od raspoloženja, ne od procesa.
+
+Ako imate ova 4 signala, problem nije u ljudima. Problem je u tome što posao nije pretvoren u jasan operativni sistem.
+
+## Okvir: 4 koraka za stabilan rast
+
+### 1) Definišite standard isporuke
+
+Napišite šta znači "dobro odrađen posao". Bez toga nema kvaliteta koji se može ponavljati.
+
+Primer: umesto "dobra kampanja", definišite minimum: broj testova, KPI pragovi, rok za prvi izveštaj i format preporuka.
+
+### 2) Dokumentujte ključne procese
+
+Ne treba vam 200 stranica dokumentacije. Dovoljno je da opišete 5-7 procesa koji najviše utiču na prihod.
+
+Za svaki proces napišite:
+- ulaz (šta je potrebno da počne),
+- korake,
+- izlaz (šta mora biti završeno),
+- vlasnika procesa.
+
+### 3) Uvedite ritam kontrole
+
+Bez ritma, sistem se raspadne. Uvedite jednostavan operativni tempo:
+- nedeljni pregled KPI,
+- mesečni pregled uskih grla,
+- kvartalni update procesa.
+
+To je dovoljno da tim vidi šta radi, šta ne radi i šta menjamo sledeće.
+
+### 4) Smanjite zavisnost od vlasnika
+
+Ako sve staje kad vi niste tu, firma nije skalabilna. Cilj sistema je da rezultat bude stabilan i kada vlasnik nije u svakom detalju.
+
+To znači: jasne odgovornosti, merljivi standardi i proces koji može da preuzme drugi član tima.
+
+## Najveća greška
+
+Najveća greška je da uvodite nove alate pre nego što sredite osnovni proces. Alat ne popravlja loš sistem, samo ga brže širi kroz firmu.
+
+Prvo proces, pa ljudi, pa alat.
+
+## Kratka checklista
+
+Pre nego što krenete dalje, proverite:
+- Da li je standard isporuke napisan?
+- Da li su ključni procesi dokumentovani?
+- Da li postoji ritam kontrole?
+- Da li posao radi i kada vlasnik nije uključen u svaki korak?
+
+Ako je odgovor "ne" na bilo koje pitanje, tu je sledeći prioritet.
+
+## Zaključak
+
+Leila pristup je jednostavan: sistem pre brzine. Kada proces radi stabilno, rast više nije haos nego planiran rezultat.
+
+Ako želite širi kontekst, pogledajte i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share), [kako izabrati pravu marketing agenciju](/blog/kako-izabrati-pravu-marketing-agenciju) i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+`,
+  }
 
 ]
