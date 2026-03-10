@@ -28,6 +28,11 @@ export default function BlogPage() {
   const featured = filtered[0]
   const rest = filtered.slice(1)
 
+  const resourceGuides = useMemo(
+    () => sortedPosts.slice(0, 15),
+    [sortedPosts]
+  )
+
   const blogCollectionSchema = useMemo(() => ({
     '@context': 'https://schema.org',
     '@graph': [
@@ -199,20 +204,13 @@ export default function BlogPage() {
             <div>
               <h3 className="text-[12px] uppercase tracking-[0.18em] text-ink-2 mb-3">Dodatni vodiči</h3>
               <ul className="space-y-2">
-                <li><Link to="/blog/copywriting-formule-koje-rade" className="text-[14px] text-ink-2 hover:text-ink transition-colors">Copywriting formule koje rade</Link></li>
-                <li><Link to="/blog/brending-za-male-firme-identitet-vazniji-od-loga" className="text-[14px] text-ink-2 hover:text-ink transition-colors">Brending za male firme</Link></li>
-                <li><Link to="/blog/psihologija-zaradjivanja-mentalni-blokovi" className="text-[14px] text-ink-2 hover:text-ink transition-colors">Psihologija zarađivanja i blokovi</Link></li>
-                <li><Link to="/blog/17-godina-marketing-iskustva" className="text-[14px] text-ink-2 hover:text-ink transition-colors">17 godina marketing iskustva</Link></li>
-                <li><Link to="/blog/jednacina-vrednosti-zasto-ljudi-kupuju" className="text-[14px] text-ink-2 hover:text-ink transition-colors">Jednačina vrednosti</Link></li>
-                <li><Link to="/blog/cetiri-nacina-da-dobijete-klijente" className="text-[14px] text-ink-2 hover:text-ink transition-colors">Četiri načina da dobijete klijente</Link></li>
-                <li><Link to="/blog/hormozi-ponuda-kojoj-klijent-ne-kaze-ne" className="text-[14px] text-ink-2 hover:text-ink transition-colors">Hormozi ponuda</Link></li>
-                <li><Link to="/blog/sabri-suby-kako-do-vise-upita-bez-veceg-budzeta" className="text-[14px] text-ink-2 hover:text-ink transition-colors">Sabri Suby sistem za više upita</Link></li>
-                <li><Link to="/blog/alex-hormozi-grand-slam-ponuda-za-usluge" className="text-[14px] text-ink-2 hover:text-ink transition-colors">Alex Hormozi grand slam ponuda</Link></li>
-                <li><Link to="/blog/leila-hormozi-kpi-tabla-za-stabilan-rast" className="text-[14px] text-ink-2 hover:text-ink transition-colors">Leila Hormozi KPI tabla</Link></li>
-                <li><Link to="/blog/koliko-traje-seo-da-donese-rezultate-u-srbiji" className="text-[14px] text-ink-2 hover:text-ink transition-colors">Koliko traje SEO u Srbiji</Link></li>
-                <li><Link to="/blog/google-business-profil-optimizacija-cena-srbija-2026" className="text-[14px] text-ink-2 hover:text-ink transition-colors">Google Business profil optimizacija</Link></li>
-                <li><Link to="/blog/cena-odrzavanja-wordpress-sajta-srbija-2026" className="text-[14px] text-ink-2 hover:text-ink transition-colors">Cena održavanja WordPress sajta</Link></li>
-                <li><Link to="/blog/vodjenje-drustvenih-mreza-cena-srbija-2026" className="text-[14px] text-ink-2 hover:text-ink transition-colors">Vođenje društvenih mreža cena</Link></li>
+                {resourceGuides.map(post => (
+                  <li key={post.slug}>
+                    <Link to={`/blog/${post.slug}`} className="text-[14px] text-ink-2 hover:text-ink transition-colors">
+                      {post.title}
+                    </Link>
+                  </li>
+                ))}
               </ul>
             </div>
           </div>
