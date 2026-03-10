@@ -1,9 +1,10 @@
 import fs from 'fs'
 import path from 'path'
+import { pageMeta as pageMetaObject } from '../src/hooks/pageMetaData.js'
+import { ogMeta as ogMetaObject } from '../server/ogMeta.js'
 
 const root = process.cwd()
 const appPath = path.join(root, 'src', 'App.jsx')
-const pageMetaPath = path.join(root, 'src', 'hooks', 'pageMetaData.js')
 const ogMetaPath = path.join(root, 'server', 'ogMeta.js')
 const shouldFix = process.argv.includes('--fix')
 
@@ -29,28 +30,8 @@ function getRoutes(appText) {
     .filter((p) => !p.includes(':') && !p.includes('*') && !p.startsWith('/log'))
 }
 
-function parseMetaMap(text) {
-  const map = new Map()
-  const re = /\n\s*'([^']+)'\s*:\s*\{\s*title:\s*'([^']*)',\s*description:\s*'([^']*)'/g
-  for (const m of text.matchAll(re)) {
-    map.set(m[1], {
-      title: m[2],
-      description: m[3],
-    })
-  }
-  return map
-}
-
-function parseOgMap(text) {
-  const map = new Map()
-  const re = /\n\s*'([^']+)'\s*:\s*\{[\s\S]*?title:\s*'([^']*)',[\s\S]*?description:\s*'([^']*)'/g
-  for (const m of text.matchAll(re)) {
-    map.set(m[1], {
-      title: m[2],
-      description: m[3],
-    })
-  }
-  return map
+function mapFromObject(obj) {
+  return new Map(Object.entries(obj || {}))
 }
 
 function escapeRegex(str) {
@@ -84,12 +65,10 @@ function applyFixes(ogMetaText, pageMeta, routesToFix) {
 
 function buildSummary() {
   const appText = read(appPath)
-  const pageMetaText = read(pageMetaPath)
-  const ogMetaText = read(ogMetaPath)
 
   const routes = getRoutes(appText)
-  const pageMeta = parseMetaMap(pageMetaText)
-  const ogMeta = parseOgMap(ogMetaText)
+  const pageMeta = mapFromObject(pageMetaObject)
+  const ogMeta = mapFromObject(ogMetaObject)
 
   const missingOgRoutes = routes.filter((r) => !INTERNAL_SKIP.has(r) && !ogMeta.has(r))
 
