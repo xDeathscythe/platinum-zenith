@@ -5,8 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "prebuild": "npm run seo:sitemap && npm run seo:rss && npm run seo:check",
-    "build": "vite build && node scripts/fix-css-blocking.js && node scripts/precompress.js && node scripts/gen-blog-og.js && node scripts/gen-sitemap.mjs && node scripts/gen-rss.mjs && node -e \"import('fs').then(f=>f.copyFileSync('dist/index.html','dist/404.html'))\" && node scripts/seo-performance-budget-audit.mjs",
+    "prebuild": "npm run seo:sitemap && npm run seo:rss && npm run seo:check:prebuild",
+    "build": "vite build && node scripts/fix-css-blocking.js && node scripts/precompress.js && node scripts/gen-blog-og.js && node scripts/gen-sitemap.mjs && node scripts/gen-rss.mjs && node -e \"import('fs').then(f=>f.copyFileSync('dist/index.html','dist/404.html'))\" && npm run seo:check:postbuild && node scripts/seo-performance-budget-audit.mjs",
     "start": "node server/index.js",
     "lint": "eslint .",
     "seo:audit": "node scripts/seo-audit.mjs",
@@ -45,6 +45,8 @@
     "seo:serp-snippets:strict": "node scripts/seo-serp-snippet-audit.mjs --strict",
     "seo:perf-budgets": "node scripts/seo-performance-budget-audit.mjs",
     "seo:check": "node scripts/seo-check.mjs",
+    "seo:check:prebuild": "node scripts/seo-check.mjs --phase=prebuild",
+    "seo:check:postbuild": "node scripts/seo-check.mjs --phase=postbuild",
     "preview": "vite preview"
   },
   "dependencies": {

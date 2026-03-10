@@ -3,15 +3,18 @@ import path from 'node:path'
 
 const root = process.cwd()
 
+const phaseArg = process.argv.find((arg) => arg.startsWith('--phase='))
+const phase = phaseArg ? phaseArg.split('=')[1] : 'all' // all | prebuild | postbuild
+
 const checks = [
   { name: 'Route/OG/meta consistency', script: 'scripts/seo-audit.mjs' },
   { name: 'Route metadata hygiene (no stale route keys)', script: 'scripts/seo-route-hygiene-audit.mjs' },
   { name: 'Canonical + og:url', script: 'scripts/seo-canonical-audit.mjs' },
   { name: 'Canonical + hreflang consistency', script: 'scripts/seo-hreflang-audit.mjs' },
-  { name: 'SEO redirects and legacy URL canonicalization', script: 'scripts/seo-redirect-audit.mjs' },
-  { name: 'SEO file cache policy', script: 'scripts/seo-cache-policy-audit.mjs' },
-  { name: 'SEO file revalidation (Last-Modified/304)', script: 'scripts/seo-file-revalidation-audit.mjs' },
-  { name: 'X-Robots-Tag header policy', script: 'scripts/seo-xrobots-audit.mjs' },
+  { name: 'SEO redirects and legacy URL canonicalization', script: 'scripts/seo-redirect-audit.mjs', phase: 'postbuild' },
+  { name: 'SEO file cache policy', script: 'scripts/seo-cache-policy-audit.mjs', phase: 'postbuild' },
+  { name: 'SEO file revalidation (Last-Modified/304)', script: 'scripts/seo-file-revalidation-audit.mjs', phase: 'postbuild' },
+  { name: 'X-Robots-Tag header policy', script: 'scripts/seo-xrobots-audit.mjs', phase: 'postbuild' },
   { name: 'Robots index/noindex policy', script: 'scripts/seo-robots-audit.mjs' },
   { name: 'Heading hierarchy', script: 'scripts/seo-headings-audit.mjs' },
   { name: 'Image attributes', script: 'scripts/seo-image-audit.mjs' },
@@ -20,7 +23,7 @@ const checks = [
   { name: 'Internal link integrity (no broken internal URLs)', script: 'scripts/seo-internal-link-integrity-audit.mjs' },
   { name: 'Internal link coverage (priority pages)', script: 'scripts/seo-link-coverage-audit.mjs' },
   { name: 'Feed/Sitemap consistency', script: 'scripts/seo-feed-sitemap-audit.mjs' },
-  { name: 'Sitemap URL health (every URL resolves canonical 200)', script: 'scripts/seo-sitemap-url-health-audit.mjs' },
+  { name: 'Sitemap URL health (every URL resolves canonical 200)', script: 'scripts/seo-sitemap-url-health-audit.mjs', phase: 'postbuild' },
   { name: 'Server-side schema injection', script: 'scripts/seo-server-schema-audit.mjs' },
   { name: 'Breadcrumb coverage (all public routes)', script: 'scripts/seo-breadcrumb-coverage-audit.mjs' },
   { name: 'JSON-LD syntax validity (all routes)', script: 'scripts/seo-jsonld-validity-audit.mjs' },
@@ -37,7 +40,20 @@ const checks = [
 
 let hasFailure = false
 
-for (const check of checks) {
+const selectedChecks = checks.filter((check) => {
+  const checkPhase = check.phase || 'prebuild'
+  if (phase === 'all') return true
+  return checkPhase === phase || checkPhase === 'all'
+})
+
+if (!['all', 'prebuild', 'postbuild'].includes(phase)) {
+  console.error(`Unknown phase: ${phase}. Use --phase=all|prebuild|postbuild`)
+  process.exit(1)
+}
+
+console.log(`SEO check phase: ${phase} (${selectedChecks.length} checks)`)
+
+for (const check of selectedChecks) {
   const fullPath = path.join(root, check.script)
   const args = [fullPath, ...(check.args || [])]
   console.log(`\n▶ ${check.name}`)
