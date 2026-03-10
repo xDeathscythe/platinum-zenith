@@ -26,6 +26,17 @@ const CORE_ORG_SCHEMA = {
     '@type': 'Country',
     name: 'Srbija',
   },
+  contactPoint: [
+    {
+      '@type': 'ContactPoint',
+      contactType: 'customer support',
+      email: 'aleksandar@platinumzenith.com',
+      telephone: '+381668168929',
+      availableLanguage: ['sr', 'en'],
+      areaServed: 'RS',
+      url: `${SITE_URL}/kontakt`,
+    },
+  ],
 }
 
 const CORE_LOCAL_BUSINESS_SCHEMA = {
@@ -44,6 +55,15 @@ const CORE_LOCAL_BUSINESS_SCHEMA = {
   areaServed: {
     '@type': 'Country',
     name: 'Srbija',
+  },
+  contactPoint: {
+    '@type': 'ContactPoint',
+    contactType: 'customer support',
+    email: 'aleksandar@platinumzenith.com',
+    telephone: '+381668168929',
+    availableLanguage: ['sr', 'en'],
+    areaServed: 'RS',
+    url: `${SITE_URL}/kontakt`,
   },
 }
 

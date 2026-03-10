@@ -41,6 +41,20 @@ for (const check of checks) {
     }
     if (!org.email) issues.push(`${check.route}: ld-org-server missing email`)
     if (!org.telephone) issues.push(`${check.route}: ld-org-server missing telephone`)
+
+    const orgContacts = Array.isArray(org.contactPoint) ? org.contactPoint : []
+    if (orgContacts.length === 0) {
+      issues.push(`${check.route}: ld-org-server missing contactPoint[]`)
+    } else {
+      const primary = orgContacts[0] || {}
+      if (primary['@type'] !== 'ContactPoint') issues.push(`${check.route}: org contactPoint must be ContactPoint`)
+      if (!primary.contactType) issues.push(`${check.route}: org contactPoint missing contactType`)
+      if (!primary.email) issues.push(`${check.route}: org contactPoint missing email`)
+      if (!primary.telephone) issues.push(`${check.route}: org contactPoint missing telephone`)
+      if (!primary.url || !String(primary.url).startsWith('https://platinumzenith.com')) {
+        issues.push(`${check.route}: org contactPoint URL must be canonical site URL`)
+      }
+    }
   }
 
   if (!localBusiness) {
@@ -49,6 +63,15 @@ for (const check of checks) {
     if (localBusiness['@type'] !== 'LocalBusiness') issues.push(`${check.route}: ld-local-business-server must be LocalBusiness`)
     if (!localBusiness.url || !String(localBusiness.url).startsWith('https://platinumzenith.com')) {
       issues.push(`${check.route}: ld-local-business-server missing canonical url`)
+    }
+
+    const lbContact = localBusiness.contactPoint || {}
+    if (!lbContact || lbContact['@type'] !== 'ContactPoint') {
+      issues.push(`${check.route}: ld-local-business-server missing ContactPoint`) 
+    } else {
+      if (!lbContact.contactType) issues.push(`${check.route}: localBusiness contactPoint missing contactType`)
+      if (!lbContact.email) issues.push(`${check.route}: localBusiness contactPoint missing email`)
+      if (!lbContact.telephone) issues.push(`${check.route}: localBusiness contactPoint missing telephone`)
     }
   }
 
