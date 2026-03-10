@@ -212,6 +212,63 @@ function removeJsonLdScript(html, id) {
   return html.replace(existingRe, '\n')
 }
 
+const serverFaqByPath = {
+  '/google-reklame-cena': [
+    {
+      q: 'Koliki je minimalni budžet za Google reklame?',
+      a: 'Za većinu lokalnih biznisa početni test budžet je oko 500–1.000€ mesečno, uz optimizaciju prema kvalitetu leadova.',
+    },
+    {
+      q: 'Kako da smanjim cenu klika bez pada kvaliteta?',
+      a: 'Najviše pomažu bolja struktura kampanja, negativne ključne reči, relevantniji oglasi i bolji landing page nakon klika.',
+    },
+  ],
+  '/instagram-reklame-cena': [
+    {
+      q: 'Da li Instagram reklame rade za manje budžete?',
+      a: 'Da, ali je važno da kampanja ima jasan cilj i dobar kreativni format. Rezultati su stabilniji kada se radi kroz test fazu pre skaliranja.',
+    },
+    {
+      q: 'Šta najviše podiže cenu Instagram kampanja?',
+      a: 'Najčešće su problem loša poruka oglasa, neprecizno targetiranje i slaba stranica na koju korisnik dolazi nakon klika.',
+    },
+  ],
+  '/izrada-wordpress-sajta-cena': [
+    {
+      q: 'Od čega zavisi cena izrade WordPress sajta?',
+      a: 'Cena zavisi od obima stranica, dizajna, funkcionalnosti, SEO pripreme i dodatnih integracija poput forme, analitike i prodajnih elemenata.',
+    },
+    {
+      q: 'Koliko traje izrada WordPress sajta?',
+      a: 'Jednostavniji sajtovi se najčešće završavaju za 2–4 nedelje, dok kompleksniji projekti sa više funkcionalnosti traže duži rok.',
+    },
+  ],
+}
+
+function injectServerFaqSchema(html, cleanPath) {
+  const schemaId = 'ld-faq-server'
+  const faqs = serverFaqByPath[cleanPath]
+
+  if (!faqs || faqs.length === 0) {
+    return removeJsonLdScript(html, schemaId)
+  }
+
+  const faqSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqs.map((item) => ({
+      '@type': 'Question',
+      name: item.q,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: item.a,
+      },
+    })),
+  }
+
+  return upsertJsonLdScript(html, schemaId, faqSchema)
+}
+
 function injectServerArticleSchema(html, cleanPath, canonicalUrl) {
   const schemaId = 'ld-article-server'
   const isBlogLikePath = cleanPath.startsWith('/blog/') || cleanPath.startsWith('/draft/')
@@ -393,6 +450,7 @@ export function injectOgMeta(html, pathname) {
       /(<meta\s+name="robots"\s+content=")[^"]*(")/,
       `$1${robotsContent}$2`
     )
+    result = injectServerFaqSchema(result, cleanPath)
     result = injectServerArticleSchema(result, cleanPath, canonicalUrl)
     result = injectServerBreadcrumbSchema(result, cleanPath, canonicalUrl, meta)
     return result
@@ -460,6 +518,7 @@ export function injectOgMeta(html, pathname) {
     `$1${robotsContent}$2`
   )
 
+  result = injectServerFaqSchema(result, cleanPath)
   result = injectServerArticleSchema(result, cleanPath, canonicalUrl)
   result = injectServerBreadcrumbSchema(result, cleanPath, canonicalUrl, meta)
   return result
