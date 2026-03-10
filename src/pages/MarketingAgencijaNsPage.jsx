@@ -222,6 +222,12 @@ export default function MarketingAgencijaNsPage() {
             "name": f.q,
             "acceptedAnswer": { "@type": "Answer", "text": f.a }
           }))
+        }, {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "Početna", "item": "https://platinumzenith.com/" },
+            { "@type": "ListItem", "position": 2, "name": "Marketing agencija Novi Sad", "item": "https://platinumzenith.com/marketing-agencija-novi-sad" }
+          ]
         }]
       })}} />
     </div>
