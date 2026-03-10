@@ -1,9 +1,8 @@
 /**
- * Page meta hook — inline metadata to avoid extra request in critical path.
+ * Page meta hook — lazy-load metadata map to keep initial homepage bundle smaller.
  */
 import { useEffect } from 'react'
 import { useLocation } from 'react-router-dom'
-import { pageMeta, orgSchema, localBusinessSchema, websiteSchema, pageSchemas, setJsonLd, SITE_URL } from './pageMetaData.js'
 
 function pageNameFromTitle(title) {
   if (!title) return 'Stranica'
@@ -25,129 +24,136 @@ export default function usePageMeta() {
   useEffect(() => {
     let cancelled = false
 
-    const meta = pageMeta[pathname] || pageMeta['/']
-    document.title = meta.title
+    const applyMeta = async () => {
+      const metaModule = await import('./pageMetaData.js')
+      if (cancelled) return
 
-    const descTag = document.querySelector('meta[name="description"]')
-    if (descTag) descTag.setAttribute('content', meta.description)
+      const {
+        pageMeta,
+        orgSchema,
+        localBusinessSchema,
+        websiteSchema,
+        pageSchemas,
+        setJsonLd,
+        SITE_URL,
+      } = metaModule
 
-    let kwTag = document.querySelector('meta[name="keywords"]')
-    if (!kwTag) {
-      kwTag = document.createElement('meta')
-      kwTag.name = 'keywords'
-      document.head.appendChild(kwTag)
-    }
-    kwTag.setAttribute('content', meta.keywords || '')
+      const meta = pageMeta[pathname] || pageMeta['/']
+      document.title = meta.title
 
-    const normalizedPath = pathname === '/' ? '/' : pathname.replace(/\/+$/, '')
-    const shouldNoIndex = normalizedPath.startsWith('/draft/') || INTERNAL_NOINDEX_PATHS.has(normalizedPath)
+      const descTag = document.querySelector('meta[name="description"]')
+      if (descTag) descTag.setAttribute('content', meta.description)
 
-    const robotsTag = document.querySelector('meta[name="robots"]')
-    if (robotsTag) {
-      const defaultRobots = 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1'
-      robotsTag.setAttribute('content', shouldNoIndex ? 'noindex, nofollow' : defaultRobots)
-    }
+      let kwTag = document.querySelector('meta[name="keywords"]')
+      if (!kwTag) {
+        kwTag = document.createElement('meta')
+        kwTag.name = 'keywords'
+        document.head.appendChild(kwTag)
+      }
+      kwTag.setAttribute('content', meta.keywords || '')
 
-    const ogTitle = document.querySelector('meta[property="og:title"]')
-    if (ogTitle) ogTitle.setAttribute('content', meta.title)
-    const ogDesc = document.querySelector('meta[property="og:description"]')
-    if (ogDesc) ogDesc.setAttribute('content', meta.description)
+      const normalizedPath = pathname === '/' ? '/' : pathname.replace(/\/+$/, '')
+      const shouldNoIndex = normalizedPath.startsWith('/draft/') || INTERNAL_NOINDEX_PATHS.has(normalizedPath)
 
-    // Normalize: strip trailing slash (except root) to prevent duplicate canonicals
-    const canonicalUrl = `${SITE_URL}${normalizedPath}`
-    const canonical = document.querySelector('link[rel="canonical"]')
-    if (canonical) canonical.setAttribute('href', canonicalUrl)
-    const ogUrl = document.querySelector('meta[property="og:url"]')
-    if (ogUrl) ogUrl.setAttribute('content', canonicalUrl)
+      const robotsTag = document.querySelector('meta[name="robots"]')
+      if (robotsTag) {
+        const defaultRobots = 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1'
+        robotsTag.setAttribute('content', shouldNoIndex ? 'noindex, nofollow' : defaultRobots)
+      }
 
-    // OG type: article for blog posts, website for everything else
-    const ogType = document.querySelector('meta[property="og:type"]')
-    if (ogType) ogType.setAttribute('content', normalizedPath.startsWith('/blog/') ? 'article' : 'website')
+      const ogTitle = document.querySelector('meta[property="og:title"]')
+      if (ogTitle) ogTitle.setAttribute('content', meta.title)
+      const ogDesc = document.querySelector('meta[property="og:description"]')
+      if (ogDesc) ogDesc.setAttribute('content', meta.description)
 
-    // OG/Twitter image
-    const ogImageUrl = meta.ogImage || `${SITE_URL}/og-image.jpg`
+      const canonicalUrl = `${SITE_URL}${normalizedPath}`
+      const canonical = document.querySelector('link[rel="canonical"]')
+      if (canonical) canonical.setAttribute('href', canonicalUrl)
+      const ogUrl = document.querySelector('meta[property="og:url"]')
+      if (ogUrl) ogUrl.setAttribute('content', canonicalUrl)
 
-    const ogImage = document.querySelector('meta[property="og:image"]')
-    if (ogImage) ogImage.setAttribute('content', ogImageUrl)
-    const twImage = document.querySelector('meta[name="twitter:image"]')
-    if (twImage) twImage.setAttribute('content', ogImageUrl)
-    const twTitle = document.querySelector('meta[name="twitter:title"]')
-    if (twTitle) twTitle.setAttribute('content', meta.title)
-    const twDesc = document.querySelector('meta[name="twitter:description"]')
-    if (twDesc) twDesc.setAttribute('content', meta.description)
+      const ogType = document.querySelector('meta[property="og:type"]')
+      if (ogType) ogType.setAttribute('content', normalizedPath.startsWith('/blog/') ? 'article' : 'website')
 
-    // Base schema
-    setJsonLd('ld-org', orgSchema)
-    setJsonLd('ld-local-business', localBusinessSchema)
-    if (pathname === '/') setJsonLd('ld-website', websiteSchema)
-    else {
-      const ws = document.getElementById('ld-website')
-      if (ws) ws.remove()
-    }
+      const ogImageUrl = meta.ogImage || `${SITE_URL}/og-image.jpg`
 
-    // Page schema
-    if (pageSchemas[pathname]) setJsonLd('ld-page', pageSchemas[pathname])
-    else {
-      const ps = document.getElementById('ld-page')
-      if (ps) ps.remove()
-    }
+      const ogImage = document.querySelector('meta[property="og:image"]')
+      if (ogImage) ogImage.setAttribute('content', ogImageUrl)
+      const twImage = document.querySelector('meta[name="twitter:image"]')
+      if (twImage) twImage.setAttribute('content', ogImageUrl)
+      const twTitle = document.querySelector('meta[name="twitter:title"]')
+      if (twTitle) twTitle.setAttribute('content', meta.title)
+      const twDesc = document.querySelector('meta[name="twitter:description"]')
+      if (twDesc) twDesc.setAttribute('content', meta.description)
 
-    // Blog-specific schema
-    const blogMatch = pathname.match(/^\/blog\/(.+)$/)
-    if (blogMatch) {
-      import('../pages/blog/blogData').then(({ blogPosts }) => {
-        if (cancelled) return
+      setJsonLd('ld-org', orgSchema)
+      setJsonLd('ld-local-business', localBusinessSchema)
+      if (pathname === '/') setJsonLd('ld-website', websiteSchema)
+      else {
+        const ws = document.getElementById('ld-website')
+        if (ws) ws.remove()
+      }
 
-        const post = blogPosts.find(p => p.slug === blogMatch[1])
-        if (post) {
-          document.title = `${post.title} | Platinum Zenith Blog`
-          if (descTag) descTag.setAttribute('content', post.excerpt)
-          if (ogTitle) ogTitle.setAttribute('content', post.title)
-          if (ogDesc) ogDesc.setAttribute('content', post.excerpt)
-          if (robotsTag && post.isDraft) robotsTag.setAttribute('content', 'noindex, nofollow')
+      if (pageSchemas[pathname]) setJsonLd('ld-page', pageSchemas[pathname])
+      else {
+        const ps = document.getElementById('ld-page')
+        if (ps) ps.remove()
+      }
 
-          // Article schema is emitted by BlogPostPage.jsx (richer: publisher, logo, wordCount, etc.)
-          // Only breadcrumb is set here to avoid duplicate ld+json
-          setJsonLd('ld-breadcrumb', {
-            '@context': 'https://schema.org',
-            '@type': 'BreadcrumbList',
-            itemListElement: [
-              { '@type': 'ListItem', position: 1, name: 'Početna', item: SITE_URL },
-              { '@type': 'ListItem', position: 2, name: 'Blog', item: `${SITE_URL}/blog` },
-              { '@type': 'ListItem', position: 3, name: post.title, item: `${SITE_URL}/blog/${post.slug}` },
-            ],
-          })
-        }
-      })
-    } else if (pathname === '/blog') {
-      // Blog index breadcrumb does not require loading full blogData bundle
-      setJsonLd('ld-breadcrumb', {
-        '@context': 'https://schema.org',
-        '@type': 'BreadcrumbList',
-        itemListElement: [
-          { '@type': 'ListItem', position: 1, name: 'Početna', item: SITE_URL },
-          { '@type': 'ListItem', position: 2, name: 'Blog', item: `${SITE_URL}/blog` },
-        ],
-      })
-    } else {
-      const art = document.getElementById('ld-article')
-      if (art) art.remove()
+      const blogMatch = pathname.match(/^\/blog\/(.+)$/)
+      if (blogMatch) {
+        import('../pages/blog/blogData').then(({ blogPosts }) => {
+          if (cancelled) return
 
-      // Generic breadcrumb for every non-home page
-      if (pathname !== '/') {
+          const post = blogPosts.find(p => p.slug === blogMatch[1])
+          if (post) {
+            document.title = `${post.title} | Platinum Zenith Blog`
+            if (descTag) descTag.setAttribute('content', post.excerpt)
+            if (ogTitle) ogTitle.setAttribute('content', post.title)
+            if (ogDesc) ogDesc.setAttribute('content', post.excerpt)
+            if (robotsTag && post.isDraft) robotsTag.setAttribute('content', 'noindex, nofollow')
+
+            setJsonLd('ld-breadcrumb', {
+              '@context': 'https://schema.org',
+              '@type': 'BreadcrumbList',
+              itemListElement: [
+                { '@type': 'ListItem', position: 1, name: 'Početna', item: SITE_URL },
+                { '@type': 'ListItem', position: 2, name: 'Blog', item: `${SITE_URL}/blog` },
+                { '@type': 'ListItem', position: 3, name: post.title, item: `${SITE_URL}/blog/${post.slug}` },
+              ],
+            })
+          }
+        })
+      } else if (pathname === '/blog') {
         setJsonLd('ld-breadcrumb', {
           '@context': 'https://schema.org',
           '@type': 'BreadcrumbList',
           itemListElement: [
             { '@type': 'ListItem', position: 1, name: 'Početna', item: SITE_URL },
-            { '@type': 'ListItem', position: 2, name: pageNameFromTitle(meta.title), item: canonicalUrl },
+            { '@type': 'ListItem', position: 2, name: 'Blog', item: `${SITE_URL}/blog` },
           ],
         })
       } else {
-        const bc = document.getElementById('ld-breadcrumb')
-        if (bc) bc.remove()
+        const art = document.getElementById('ld-article')
+        if (art) art.remove()
+
+        if (pathname !== '/') {
+          setJsonLd('ld-breadcrumb', {
+            '@context': 'https://schema.org',
+            '@type': 'BreadcrumbList',
+            itemListElement: [
+              { '@type': 'ListItem', position: 1, name: 'Početna', item: SITE_URL },
+              { '@type': 'ListItem', position: 2, name: pageNameFromTitle(meta.title), item: canonicalUrl },
+            ],
+          })
+        } else {
+          const bc = document.getElementById('ld-breadcrumb')
+          if (bc) bc.remove()
+        }
       }
     }
+
+    applyMeta().catch(() => {})
 
     return () => {
       cancelled = true
