@@ -19,6 +19,15 @@ try {
   blogOgPosts = JSON.parse(raw)
 } catch { /* blogOgData.json not yet generated — blog OG falls back to generic */ }
 
+const INTERNAL_NOINDEX_PATHS = new Set([
+  '/dashboard',
+  '/prijave',
+  '/poruke',
+  '/newsletter',
+  '/emails',
+  '/analytics',
+])
+
 const ogMeta = {
   '/': {
     title: 'Platinum Zenith | Digitalna Agencija | Marketing, Web Design, Consulting',
@@ -198,8 +207,9 @@ export function injectOgMeta(html, pathname) {
   const canonicalUrl = `${SITE_URL}${cleanPath}`
   const isBlogPath = cleanPath.startsWith('/blog/')
   const isDraftPath = cleanPath.startsWith('/draft/')
+  const shouldNoIndex = isDraftPath || INTERNAL_NOINDEX_PATHS.has(cleanPath)
   const ogType = (isBlogPath || isDraftPath) ? 'article' : 'website'
-  const robotsContent = isDraftPath
+  const robotsContent = shouldNoIndex
     ? 'noindex, nofollow'
     : 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1'
 

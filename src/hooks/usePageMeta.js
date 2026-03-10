@@ -10,6 +10,15 @@ function pageNameFromTitle(title) {
   return title.split('|')[0].trim()
 }
 
+const INTERNAL_NOINDEX_PATHS = new Set([
+  '/dashboard',
+  '/prijave',
+  '/poruke',
+  '/newsletter',
+  '/emails',
+  '/analytics',
+])
+
 export default function usePageMeta() {
   const { pathname } = useLocation()
 
@@ -30,10 +39,13 @@ export default function usePageMeta() {
     }
     kwTag.setAttribute('content', meta.keywords || '')
 
+    const normalizedPath = pathname === '/' ? '/' : pathname.replace(/\/+$/, '')
+    const shouldNoIndex = normalizedPath.startsWith('/draft/') || INTERNAL_NOINDEX_PATHS.has(normalizedPath)
+
     const robotsTag = document.querySelector('meta[name="robots"]')
     if (robotsTag) {
       const defaultRobots = 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1'
-      robotsTag.setAttribute('content', pathname.startsWith('/draft/') ? 'noindex, nofollow' : defaultRobots)
+      robotsTag.setAttribute('content', shouldNoIndex ? 'noindex, nofollow' : defaultRobots)
     }
 
     const ogTitle = document.querySelector('meta[property="og:title"]')
@@ -42,7 +54,6 @@ export default function usePageMeta() {
     if (ogDesc) ogDesc.setAttribute('content', meta.description)
 
     // Normalize: strip trailing slash (except root) to prevent duplicate canonicals
-    const normalizedPath = pathname === '/' ? '/' : pathname.replace(/\/+$/, '')
     const canonicalUrl = `${SITE_URL}${normalizedPath}`
     const canonical = document.querySelector('link[rel="canonical"]')
     if (canonical) canonical.setAttribute('href', canonicalUrl)
