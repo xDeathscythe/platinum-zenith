@@ -390,6 +390,46 @@ const serverFaqByPath = {
       a: 'Prvi signali dolaze brzo kroz plaćene kanale, ali stabilan i predvidljiv rezultat obično dolazi nakon više iteracija optimizacije kroz nekoliko ciklusa.',
     },
   ],
+  '/seo-optimizacija-cena': [
+    {
+      q: 'Koliko vremena je obično potrebno da SEO da merljive rezultate?',
+      a: 'Prve pomake često vidite u prvim mesecima kroz rast relevantnih upita, ali stabilniji i veći rezultati najčešće dolaze kroz kontinuiran rad u dužem periodu.',
+    },
+    {
+      q: 'Šta sve ulazi u cenu SEO optimizacije?',
+      a: 'Cena obično uključuje tehnički audit, on-page optimizaciju, plan sadržaja, praćenje ključnih reči i redovne iteracije na osnovu performansi.',
+    },
+  ],
+  '/cene-izrade-sajta': [
+    {
+      q: 'Zašto dve ponude za izradu sajta mogu imati veliku razliku u ceni?',
+      a: 'Razlika je najčešće u obimu posla: broj stranica, kvalitet UX-a, brzina sajta, SEO priprema, analitika i nivo podrške nakon isporuke.',
+    },
+    {
+      q: 'Da li je održavanje sajta uračunato u početnu cenu izrade?',
+      a: 'Nekad jeste, nekad nije. Važno je da ponuda jasno razdvoji jednokratnu izradu od mesečnog održavanja, update-a i tehničke podrške.',
+    },
+  ],
+  '/cene-digitalnog-marketinga': [
+    {
+      q: 'Koliki marketing budžet je realan za firmu koja tek kreće sa plaćenim kampanjama?',
+      a: 'Najčešće je najbolje krenuti sa budžetom koji pokriva i test fazu i optimizaciju, umesto da sav novac ode samo na kratkoročno puštanje oglasa.',
+    },
+    {
+      q: 'Da li je pametno rasporediti budžet na više kanala od prvog dana?',
+      a: 'U većini slučajeva bolje je krenuti sa manjim brojem kanala, dokazati profitabilnost, pa tek onda širiti budžet na dodatne kanale.',
+    },
+  ],
+  '/koliko-kosta-facebook-reklama': [
+    {
+      q: 'Da li je Facebook i dalje isplativ za oglašavanje u Srbiji?',
+      a: 'Da, ali rezultat zavisi od niše, ponude i kreativnog pristupa. Najbolje prolaze kampanje koje imaju jasan funnel i dobro optimizovanu landing stranicu.',
+    },
+    {
+      q: 'Šta je važnije od same cene klika na Facebook-u?',
+      a: 'Važniji je kvalitet saobraćaja i cena po leadu ili prodaji. Nizak klik nije koristan ako posetioci ne preduzimaju konkretne akcije na sajtu.',
+    },
+  ],
 }
 
 function injectServerFaqSchema(html, cleanPath) {

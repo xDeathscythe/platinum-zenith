@@ -68,6 +68,22 @@ const checks = [
     expect: { breadcrumb: true, faq: true, article: false, blogListing: false, noindex: false },
   },
   {
+    route: '/seo-optimizacija-cena',
+    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: false, noindex: false },
+  },
+  {
+    route: '/cene-izrade-sajta',
+    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: false, noindex: false },
+  },
+  {
+    route: '/cene-digitalnog-marketinga',
+    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: false, noindex: false },
+  },
+  {
+    route: '/koliko-kosta-facebook-reklama',
+    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: false, noindex: false },
+  },
+  {
     route: '/blog/google-ads-cena-po-kliku-srbija-2026',
     expect: { breadcrumb: true, faq: false, article: true, blogListing: false, noindex: false },
   },
