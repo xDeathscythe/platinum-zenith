@@ -4968,5 +4968,89 @@ Leila pristup je jednostavan: sistem pre brzine. Kada proces radi stabilno, rast
 Ako želite širi kontekst, pogledajte i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share), [kako izabrati pravu marketing agenciju](/blog/kako-izabrati-pravu-marketing-agenciju) i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 `,
   }
+,
+  {
+    slug: 'sabri-suby-kako-do-vise-upita-bez-veceg-budzeta',
+    title: 'Sabri Suby pristup: kako do više upita bez većeg budžeta',
+    excerpt: 'Ako oglasi troše budžet, a upiti stoje, problem često nije cena klika nego poruka i ponuda. Evo praktičnog okvira koji možete odmah da primenite.',
+    date: '2026-03-10',
+    category: 'Marketing',
+    readTime: '9 min',
+    content: `
+## Zašto budžet nije prvi problem
+
+Kada kampanje ne daju rezultat, većina firmi odmah poveća budžet. To je najskuplja greška. Ako poruka i ponuda nisu jasne, veći budžet samo brže potroši novac.
+
+Sabri Suby okvir kreće od osnove: prvo popravljate poruku, zatim ponudu, pa tek onda skaliranje.
+
+## 1) Poruka mora da pogodi konkretan problem
+
+Ne pišite opšte poruke tipa "pomažemo biznisima da rastu". Kupac mora da prepozna sebe u prvoj rečenici.
+
+Bolje je:
+- "Imate posete, ali malo upita?"
+- "Plaćate oglase, a leadovi su slabi?"
+- "Tim vam troši vreme na neozbiljne upite?"
+
+Kada problem zvuči tačno, pažnja raste odmah.
+
+## 2) Ponuda mora da smanji rizik
+
+Ljudi ne kupuju kada ne veruju da će dobiti rezultat. Zato ponuda mora da bude jasna i bez magle:
+- šta tačno dobijaju,
+- u kom roku,
+- kako merite uspeh,
+- šta se dešava ako rezultat kasni.
+
+To ne znači velika obećanja. Znači fer i precizan okvir.
+
+## 3) Funnel mora da bude kratak i jasan
+
+Najviše upita se gubi između oglasa i forme. Ako je stranica spora, tekst nejasan ili CTA slab, upit propada.
+
+Proverite tri stvari:
+1. Da li je naslov jasan za 3 sekunde?
+2. Da li forma traži samo nužno?
+3. Da li je sledeći korak potpuno jasan?
+
+Ako ove tri tačke rade, rezultat se vidi brzo.
+
+## 4) Kreativa bez ugla je samo buka
+
+Dobra kreativa nije "lepa" kreativa. Dobra kreativa je ona koja jasno komunicira:
+- problem,
+- posledicu,
+- rešenje,
+- poziv na akciju.
+
+Jedan jak ugao često radi bolje od deset prosečnih oglasa.
+
+## 5) Merenje mora da vodi sledeću odluku
+
+Bez metrike nema optimizacije. Minimalni set koji treba pratiti:
+- CTR (da li poruka privlači pažnju),
+- stopa konverzije landing stranice,
+- cena po kvalifikovanom upitu,
+- procenat zakazanih poziva iz upita.
+
+Ako znate ove brojeve, znate i šta tačno treba popraviti.
+
+## Brza checklista za narednih 7 dana
+
+Dan 1-2: prepišite poruku da rešava jedan konkretan problem.
+
+Dan 3-4: zategnite ponudu (jasan ishod, rok i način merenja).
+
+Dan 5: skratite funnel (jasan CTA + jednostavnija forma).
+
+Dan 6-7: testirajte 2 ugla kreativa i izaberite pobednika po kvalifikovanim upitima.
+
+## Zaključak
+
+Više upita bez većeg budžeta je moguće kada poruka i ponuda rade zajedno. To je suština Sabri Suby pristupa: jasnoća pre skaliranja.
+
+Ako želite širi kontekst, pogledajte i [Google reklame cena](/google-reklame-cena), [Instagram reklame cena](/instagram-reklame-cena) i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share).
+`,
+  }
 
 ]
