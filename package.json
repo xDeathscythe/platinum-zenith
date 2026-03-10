@@ -10,6 +10,7 @@
     "start": "node server/index.js",
     "lint": "eslint .",
     "seo:audit": "node scripts/seo-audit.mjs",
+    "seo:route-hygiene": "node scripts/seo-route-hygiene-audit.mjs",
     "seo:fix-og": "node scripts/seo-audit.mjs --fix",
     "seo:sitemap": "node scripts/gen-sitemap.mjs",
     "seo:rss": "node scripts/gen-rss.mjs",

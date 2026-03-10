@@ -33,7 +33,6 @@ export const pageMeta = {
   '/kontakt': { title: 'Kontakt i Besplatna Konsultacija | Platinum Zenith', description: 'Kontaktirajte Platinum Zenith i zakažite besplatne konsultacije u Zrenjaninu. Pošaljite upit i dobijte konkretan plan rasta za vaš biznis.', keywords: 'kontakt, konsultacije, Platinum Zenith kontakt, Zrenjanin' },
   '/o-nama': { title: 'O Nama i Naš Pristup Rastu Biznisa | Platinum Zenith', description: 'Upoznajte Platinum Zenith tim iz Zrenjanina: digitalni marketing, web design i consulting fokusiran na profitabilan rast i merljive rezultate.', keywords: 'o nama, Platinum Zenith, digitalna agencija Zrenjanin, tim, misija' },
   '/case-studies': { title: 'Case Studies | Rezultati | Platinum Zenith', description: 'Studije slučaja sa realnim rezultatima klijenata: rast prihoda, niži trošak po kupovini i bolji ROI kroz digitalni marketing, web sajt i CRO optimizaciju.', keywords: 'case studies, rezultati, portfolio, referentni projekti, ROI' },
-  '/paketi': { title: 'Paketi i Cene Usluga | Platinum Zenith', description: 'Paketi i cene za digitalni marketing i web usluge: Starter od 499€, Growth od 1.499€ i Enterprise po meri, bez skrivenih troškova i uz revenue share opciju.', keywords: 'cene, paketi, pricing, Starter, Growth, Enterprise' },
   '/uslovi-koriscenja': { title: 'Uslovi Korišćenja | Platinum Zenith', description: 'Pročitajte uslove korišćenja Platinum Zenith usluga, prava i obaveze korisnika, način saradnje, plaćanja i ograničenja odgovornosti.', keywords: 'uslovi korišćenja, terms of service' },
   '/uslovi-kupovine': { title: 'Uslovi Kupovine i Saradnje | Platinum Zenith', description: 'Uslovi kupovine za Platinum Zenith: ugovaranje putem email korespondencije, B2B model saradnje, reklamacije, isporuka i pravila realizacije.', keywords: 'uslovi kupovine, B2B kupovina, ugovaranje emailom, reklamacije' },
   '/nacin-placanja': { title: 'Način Plaćanja i Fakturisanje | Platinum Zenith', description: 'Način plaćanja za Platinum Zenith: virmansko plaćanje za pravna lica i izdavanje fakture nakon sklopljenog dogovora putem emaila.', keywords: 'način plaćanja, virman, pravna lica, faktura, B2B' },
@@ -115,11 +114,6 @@ export const pageSchemas = {
   '/consulting': { "@context": "https://schema.org", "@type": "Service", "name": "Poslovno Savetovanje", "description": "Poslovno savetovanje za vlasnike firmi: audit trenutnog stanja, plan rasta i implementacija kroz jasne akcione korake.", "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL }, "serviceType": "Business Consulting", "areaServed": { "@type": "Country", "name": "Srbija" }, "hasOfferCatalog": { "@type": "OfferCatalog", "name": "Consulting programi", "itemListElement": [ { "@type": "Offer", "name": "Biznis audit", "description": "Analiza uskih grla i prioriteta za rast" }, { "@type": "Offer", "name": "Strategija rasta", "description": "Plan akvizicije, ponude i pozicioniranja" }, { "@type": "Offer", "name": "Implementacija", "description": "Operativna podrška u sprovođenju plana" } ] } },
   '/cro': { "@context": "https://schema.org", "@type": "Service", "name": "CRO Optimizacija", "description": "CRO optimizacija koja povećava broj upita i prodaja kroz analizu ponašanja korisnika, A/B testove i UX poboljšanja.", "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL }, "serviceType": "Conversion Rate Optimization", "areaServed": { "@type": "Country", "name": "Srbija" }, "hasOfferCatalog": { "@type": "OfferCatalog", "name": "CRO usluge", "itemListElement": [ { "@type": "Offer", "name": "CRO audit", "description": "Analiza toka korisnika i tačaka odustajanja" }, { "@type": "Offer", "name": "A/B test iteracije", "description": "Testiranje varijanti CTA, forme i ponude" }, { "@type": "Offer", "name": "UX optimizacija", "description": "Poboljšanja stranica za veći procenat konverzije" } ] } },
   '/drustvene-mreze': { "@context": "https://schema.org", "@type": "Service", "name": "Upravljanje Društvenim Mrežama", "description": "Instagram, Facebook, TikTok i LinkedIn upravljanje za rast upita, zajednice i prodaje kroz sadržaj i plaćene kampanje.", "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL }, "serviceType": "Social Media Management", "areaServed": { "@type": "Country", "name": "Srbija" }, "hasOfferCatalog": { "@type": "OfferCatalog", "name": "SMM usluge", "itemListElement": [ { "@type": "Offer", "name": "Content plan", "description": "Plan sadržaja po kanalu i cilju" }, { "@type": "Offer", "name": "Community management", "description": "Moderacija i odgovori na poruke i komentare" }, { "@type": "Offer", "name": "Plaćene kampanje", "description": "Meta i TikTok oglasi za akviziciju i retargeting" } ] } },
-  '/paketi': { "@context": "https://schema.org", "@type": "OfferCatalog", "name": "Platinum Zenith Paketi", "itemListElement": [
-    { "@type": "Offer", "name": "Starter", "price": "499", "priceCurrency": "EUR" },
-    { "@type": "Offer", "name": "Growth", "price": "1499", "priceCurrency": "EUR" },
-    { "@type": "Offer", "name": "Enterprise", "description": "Custom" }
-  ]},
   '/uslovi-koriscenja': { "@context": "https://schema.org", "@type": "WebPage", "name": "Uslovi korišćenja", "url": `${SITE_URL}/uslovi-koriscenja`, "inLanguage": "sr-RS", "isPartOf": { "@type": "WebSite", "name": "Platinum Zenith", "url": SITE_URL } },
   '/politika-privatnosti': { "@context": "https://schema.org", "@type": "WebPage", "name": "Politika privatnosti", "url": `${SITE_URL}/politika-privatnosti`, "inLanguage": "sr-RS", "isPartOf": { "@type": "WebSite", "name": "Platinum Zenith", "url": SITE_URL } },
   '/uslovi-kupovine': { "@context": "https://schema.org", "@type": "WebPage", "name": "Uslovi kupovine", "url": `${SITE_URL}/uslovi-kupovine`, "inLanguage": "sr-RS", "isPartOf": { "@type": "WebSite", "name": "Platinum Zenith", "url": SITE_URL } },
@@ -205,8 +199,138 @@ export const pageSchemas = {
       }
     ]
   },
-  '/instagram-reklame-cena': { "@context": "https://schema.org", "@type": "Service", "name": "Instagram Ads upravljanje kampanjama", "description": "Instagram Ads upravljanje sa jasnim budžetskim fazama, optimizacijom CPM/CPC troška i fokusom na kvalitetne upite i prodaju.", "serviceType": "Instagram advertising management", "url": `${SITE_URL}/instagram-reklame-cena`, "areaServed": { "@type": "Country", "name": "Srbija" }, "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL }, "offers": { "@type": "AggregateOffer", "priceCurrency": "EUR", "lowPrice": "200", "highPrice": "5000", "offerCount": "4" }, "hasOfferCatalog": { "@type": "OfferCatalog", "name": "Instagram Ads budžetske faze", "itemListElement": [ { "@type": "Offer", "name": "Početni test", "priceCurrency": "EUR", "price": "200" }, { "@type": "Offer", "name": "Stabilan rast", "priceCurrency": "EUR", "price": "600" }, { "@type": "Offer", "name": "Skaliranje", "priceCurrency": "EUR", "price": "1500" } ] } },
-  '/izrada-wordpress-sajta-cena': { "@context": "https://schema.org", "@type": "Service", "name": "Izrada WordPress sajta", "description": "Izrada WordPress sajta i WooCommerce shopa sa jasnim rasponima cena, rokovima i planom isporuke.", "serviceType": "WordPress web development", "url": `${SITE_URL}/izrada-wordpress-sajta-cena`, "areaServed": { "@type": "Country", "name": "Srbija" }, "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL }, "offers": { "@type": "AggregateOffer", "priceCurrency": "EUR", "lowPrice": "500", "highPrice": "4500", "offerCount": "3" }, "hasOfferCatalog": { "@type": "OfferCatalog", "name": "WordPress paketi", "itemListElement": [ { "@type": "Offer", "name": "Prezentacioni WordPress sajt", "priceCurrency": "EUR", "price": "500" }, { "@type": "Offer", "name": "Poslovni WordPress sajt", "priceCurrency": "EUR", "price": "1200" }, { "@type": "Offer", "name": "WooCommerce web shop", "priceCurrency": "EUR", "price": "2500" } ] } },
+  '/instagram-reklame-cena': {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": `${SITE_URL}/instagram-reklame-cena#webpage`,
+        "url": `${SITE_URL}/instagram-reklame-cena`,
+        "name": "Koliko koštaju Instagram reklame u Srbiji 2026",
+        "description": "Realni budžeti, cena klika i trošak po upitu za Instagram Ads kampanje u Srbiji.",
+        "inLanguage": "sr-RS",
+        "isPartOf": { "@id": SITE_URL },
+        "about": { "@id": `${SITE_URL}/instagram-reklame-cena#service` }
+      },
+      {
+        "@type": "Service",
+        "@id": `${SITE_URL}/instagram-reklame-cena#service`,
+        "name": "Instagram Ads upravljanje kampanjama",
+        "description": "Instagram Ads upravljanje sa jasnim budžetskim fazama, optimizacijom CPM/CPC troška i fokusom na kvalitetne upite i prodaju.",
+        "serviceType": "Instagram advertising management",
+        "url": `${SITE_URL}/instagram-reklame-cena`,
+        "areaServed": { "@type": "Country", "name": "Srbija" },
+        "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL },
+        "offers": { "@type": "AggregateOffer", "priceCurrency": "EUR", "lowPrice": "200", "highPrice": "5000", "offerCount": "4" },
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "Instagram Ads budžetske faze",
+          "itemListElement": [
+            { "@type": "Offer", "name": "Test faza", "priceCurrency": "EUR", "price": "200" },
+            { "@type": "Offer", "name": "Stabilan rast", "priceCurrency": "EUR", "price": "600" },
+            { "@type": "Offer", "name": "Skaliranje", "priceCurrency": "EUR", "price": "1800" },
+            { "@type": "Offer", "name": "Enterprise", "priceCurrency": "EUR", "price": "5000" }
+          ]
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Koliko je realno potrebno za početak?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Praktičan minimum je oko 200-300€ za medijski budžet plus upravljanje. Ispod toga je teško doneti kvalitetne zaključke iz podataka." }
+          },
+          {
+            "@type": "Question",
+            "name": "Da li Instagram oglasi rade i za uslužne biznise?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Da, posebno kada postoji jasan problem i dobra ponuda. Ključ je kvalitetan hook i jasna sledeća akcija na landing stranici." }
+          },
+          {
+            "@type": "Question",
+            "name": "Koliko brzo se vide rezultati?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Prve signale vidite brzo, ali za stabilne brojke i ozbiljnu optimizaciju obično treba 2-4 nedelje kontinuiranog rada." }
+          },
+          {
+            "@type": "Question",
+            "name": "Instagram ili Facebook oglasi?",
+            "acceptedAnswer": { "@type": "Answer", "text": "U praksi su to iste Meta kampanje, ali format i ponašanje publike su različiti. Najčešće najbolje radi kombinacija oba placement-a." }
+          },
+          {
+            "@type": "Question",
+            "name": "Da li je UGC obavezan?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Nije obavezan, ali često značajno pomaže performanse jer izgleda prirodnije i gradi poverenje brže nego klasičan polished ad." }
+          }
+        ]
+      }
+    ]
+  },
+  '/izrada-wordpress-sajta-cena': {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#webpage`,
+        "url": `${SITE_URL}/izrada-wordpress-sajta-cena`,
+        "name": "Koliko košta izrada WordPress sajta u Srbiji 2026",
+        "description": "Rasponi cena WordPress sajtova i WooCommerce prodavnica, rokovi i faktori koji utiču na ukupnu cenu.",
+        "inLanguage": "sr-RS",
+        "isPartOf": { "@id": SITE_URL },
+        "about": { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#service` }
+      },
+      {
+        "@type": "Service",
+        "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#service`,
+        "name": "Izrada WordPress sajta",
+        "description": "Izrada WordPress sajta i WooCommerce shopa sa jasnim rasponima cena, rokovima i planom isporuke.",
+        "serviceType": "WordPress web development",
+        "url": `${SITE_URL}/izrada-wordpress-sajta-cena`,
+        "areaServed": { "@type": "Country", "name": "Srbija" },
+        "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL },
+        "offers": { "@type": "AggregateOffer", "priceCurrency": "EUR", "lowPrice": "400", "highPrice": "9000", "offerCount": "4" },
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "WordPress paketi",
+          "itemListElement": [
+            { "@type": "Offer", "name": "Start WordPress sajt", "priceCurrency": "EUR", "price": "400" },
+            { "@type": "Offer", "name": "Poslovni WordPress", "priceCurrency": "EUR", "price": "900" },
+            { "@type": "Offer", "name": "WordPress + WooCommerce", "priceCurrency": "EUR", "price": "1600" },
+            { "@type": "Offer", "name": "Custom WordPress sistem", "priceCurrency": "EUR", "price": "3500" }
+          ]
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Koliko traje izrada WordPress sajta?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Start sajt obično 1-2 nedelje, poslovni 2-5 nedelja, a WooCommerce projekti 4-8 nedelja u zavisnosti od obima." }
+          },
+          {
+            "@type": "Question",
+            "name": "Da li WordPress može da bude brz?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Da. Uz dobar hosting, kvalitetan theme setup, optimizovane slike i keš strategiju WordPress može imati vrlo dobar PageSpeed." }
+          },
+          {
+            "@type": "Question",
+            "name": "Da li mogu sam da menjam sadržaj?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Da, to je jedna od glavnih prednosti WordPress-a. Nakon isporuke dobijate kratko uputstvo za osnovne izmene." }
+          },
+          {
+            "@type": "Question",
+            "name": "Koliko košta održavanje WordPress sajta?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Zavisi od obima, ali osnovno održavanje je najčešće 50-200€ mesečno. U to ulaze update-i, backup i osnovni sigurnosni monitoring." }
+          },
+          {
+            "@type": "Question",
+            "name": "WordPress ili custom development?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Ako želite bržu isporuku i fleksibilan CMS, WordPress je često bolji izbor. Za specifične sisteme sa posebnom logikom nekad je bolji custom pristup." }
+          }
+        ]
+      }
+    ]
+  },
   '/seo-optimizacija-cena': { "@context": "https://schema.org", "@type": "Service", "name": "SEO optimizacija", "description": "SEO optimizacija sa jasnim paketima, tehničkim auditom i planom rasta organskog saobraćaja i upita.", "serviceType": "Search Engine Optimization", "url": `${SITE_URL}/seo-optimizacija-cena`, "areaServed": { "@type": "Country", "name": "Srbija" }, "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL }, "offers": { "@type": "AggregateOffer", "priceCurrency": "EUR", "lowPrice": "300", "highPrice": "1200", "offerCount": "3" }, "hasOfferCatalog": { "@type": "OfferCatalog", "name": "SEO paketi", "itemListElement": [ { "@type": "Offer", "name": "Osnovni SEO", "priceCurrency": "EUR", "price": "300" }, { "@type": "Offer", "name": "Napredni SEO", "priceCurrency": "EUR", "price": "500" }, { "@type": "Offer", "name": "Premium SEO", "priceCurrency": "EUR", "price": "1200" } ] } },
   '/draft/netokracija-cro-case': { "@context": "https://schema.org", "@type": "WebPage", "name": "Draft: CRO case study za Netokraciju", "url": `${SITE_URL}/draft/netokracija-cro-case`, "inLanguage": "sr-RS", "isPartOf": { "@type": "WebSite", "name": "Platinum Zenith", "url": SITE_URL } },
   '/alati/roi-kalkulator': { "@context": "https://schema.org", "@type": "SoftwareApplication", "name": "ROI Kalkulator za Marketing", "applicationCategory": "BusinessApplication", "operatingSystem": "Web", "offers": { "@type": "Offer", "price": "0", "priceCurrency": "EUR" }, "description": "Besplatan interaktivni kalkulator za izračunavanje povrata investicije u marketing.", "url": `${SITE_URL}/alati/roi-kalkulator`, "provider": { "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL } }

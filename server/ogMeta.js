@@ -152,10 +152,6 @@ const ogMeta = {
     title: 'Marketing za Startapove | Platinum Zenith',
     description: 'Marketing za startapove od validacije ideje do skaliranja: pozicioniranje, akvizicija prvih korisnika i ubrzanje product-market fit-a.',
   },
-  '/paketi': {
-    title: 'Paketi i Cene Usluga | Platinum Zenith',
-    description: 'Paketi i cene za digitalni marketing i web usluge: Starter od 499€, Growth od 1.499€ i Enterprise po meri, bez skrivenih troškova i uz revenue share opciju.',
-  },
   '/marketing-agencija-beograd': {
     title: 'Marketing Agencija za Beograd | Digitalni Marketing | Platinum Zenith',
     description: 'Digitalni marketing za firme u Beogradu: izrada sajtova, SEO, Google Ads i društvene mreže uz jasne KPI ciljeve, mesečne izveštaje i plan rasta po budžetu.',
