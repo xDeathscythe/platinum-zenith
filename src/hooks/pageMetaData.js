@@ -7,7 +7,7 @@ const SITE_URL = 'https://platinumzenith.com'
 export const pageMeta = {
   '/': {
     title: 'Platinum Zenith | Digitalna Agencija | Marketing, Web Design, Consulting',
-    description: 'Digitalna agencija iz Zrenjanina. Izrada sajtova, SEO, Google Ads, društvene mreže. Revenue share model — zarađujemo kad vi zarađujete. Besplatna procena.',
+    description: 'Privucite pažnju i generišite prodaju kroz Zenith sistem za akviziciju klijenata: digitalni marketing, web design i consulting sa merljivim rezultatima.',
     keywords: 'digitalna agencija, marketing agencija, web design, Zrenjanin, Srbija, digitalni marketing, izrada sajta',
   },
   '/web-design': {
