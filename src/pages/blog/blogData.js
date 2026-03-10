@@ -5052,5 +5052,85 @@ Više upita bez većeg budžeta je moguće kada poruka i ponuda rade zajedno. To
 Ako želite širi kontekst, pogledajte i [Google reklame cena](/google-reklame-cena), [Instagram reklame cena](/instagram-reklame-cena) i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share).
 `,
   }
+,
+  {
+    slug: 'alex-hormozi-grand-slam-ponuda-za-usluge',
+    title: 'Alex Hormozi Grand Slam ponuda: kako da uslugu pretvorite u ponudu koju je teško odbiti',
+    excerpt: 'Dobar marketing ne pomaže ako je ponuda slaba. Evo jednostavnog okvira kako da podignete vrednost usluge, smanjite rizik za klijenta i ubrzate odluku.',
+    date: '2026-03-10',
+    category: 'Marketing',
+    readTime: '9 min',
+    content: `
+## Zašto mnogo firmi ima upite, ali slabu prodaju
+
+Najčešći problem nije broj upita. Problem je što ponuda zvuči isto kao kod svih ostalih. Kada klijent ne vidi jasnu razliku, odluka se svodi na cenu. Tada pregovori traju dugo, marža pada, a zatvaranje poslova ide sporo.
+
+Alex Hormozi to rešava kroz „Grand Slam“ logiku: ponuda mora da bude toliko jasna i korisna da klijent razume vrednost bez dodatnog objašnjavanja.
+
+## 1) Počnite od ishoda koji klijent želi
+
+Ne kupuje se „SEO“, „oglasi“ ili „sajt“. Kupuje se rezultat: više upita, više prodaje, stabilniji rast.
+
+Zato ponuda treba da počne rečenicom koja jasno kaže ishod. Na primer:
+- više kvalifikovanih upita u narednih 90 dana,
+- niži trošak po upitu,
+- bolji odnos uloženog budžeta i prihoda.
+
+Kad je ishod jasan, klijent lakše vidi zašto ulaže.
+
+## 2) Povećajte verovatnoću uspeha
+
+Klijent ne plaća trud, već šansu da dobije rezultat. Tu šansu podižete tako što u ponudi jasno pokažete sistem rada:
+- početni audit,
+- plan po fazama,
+- nedeljne optimizacije,
+- mesečni izveštaj sa sledećim koracima.
+
+Što je sistem jasniji, ponuda izgleda ozbiljnije i sigurnije.
+
+## 3) Smanjite vreme do prvog rezultata
+
+Ljudi odustaju kada misle da će čekati predugo. Zato definišite prvi vidljiv pomak brzo.
+
+Primer: u prvoj nedelji ide tehnički setup i merenje, u drugoj test kampanje, u trećoj prve optimizacije. Klijent odmah vidi da se nešto konkretno dešava.
+
+## 4) Smanjite napor koji klijent mora da uloži
+
+Ako klijent mora da vodi ceo proces, ponuda deluje teška. Zato jasno napišite šta vi preuzimate, a šta tražite od klijenta.
+
+Dobar odnos je: vi preuzimate kompleksno, klijent daje ključne inpute. To povećava verovatnoću da saradnja stvarno krene.
+
+## 5) Uvedite mehanizam smanjenja rizika
+
+Veliki razlog za „javiću se kasnije“ je strah od pogrešne odluke. Zato ponuda mora da ima fer zaštitu:
+- transparentne KPI,
+- jasan period evaluacije,
+- plan korekcije ako rezultat kasni.
+
+Ne obećavajte nemoguće. Dajte realan okvir koji gradi poverenje.
+
+## 6) Spakujte ponudu tako da je lako uporediva
+
+Umesto jedne „magične“ cifre, prikažite nivoe ponude i šta svaki nivo rešava. Klijent tada ne kupuje naslepo, nego bira prema cilju i budžetu.
+
+Kada je struktura jasna, manje je praznih pregovora i brže dolazi do odluke.
+
+## Brza checklista pre slanja ponude
+
+Pre nego što pošaljete ponudu, proverite:
+- Da li je ishod napisan jednom jasnom rečenicom?
+- Da li je plan rada po fazama konkretan?
+- Da li je vreme do prvog rezultata jasno?
+- Da li je rizik za klijenta smanjen kroz transparentan okvir?
+
+Ako je odgovor „da“ na sva pitanja, ponuda je spremna.
+
+## Zaključak
+
+Hormozi pristup nije „fensi prodaja“. To je disciplina: jasna vrednost, jasan sistem i jasan rizik. Kada to postavite kako treba, razgovor više nije „zašto je skupo“, nego „kada krećemo“.
+
+Ako želite da uporedite modele naplate i budžeta, pogledajte i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share), [cene digitalnog marketinga](/cene-digitalnog-marketinga) i [Google reklame cena](/google-reklame-cena).
+`,
+  }
 
 ]
