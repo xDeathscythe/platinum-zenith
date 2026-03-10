@@ -54,7 +54,7 @@ export const pageMeta = {
   '/web-shop-nema-prodaju': { title: 'Web Shop Nema Prodaju? 5 Razloga i Rešenja | Platinum Zenith', description: 'Vaš web shop ima posete, ali nema prodaju? Otkrivamo 5 najčešćih razloga, konkretna rešenja za svaki problem i korake za brže podizanje konverzije.', keywords: 'web shop nema prodaju, zašto web shop ne prodaje, online prodavnica bez prodaje, e-commerce konverzija, web shop optimizacija, checkout optimizacija' },
   '/koliko-kosta-facebook-reklama': { title: 'Koliko Košta Facebook Reklama u Srbiji 2026 | Vodič Kroz Cene | Platinum Zenith', description: 'Realne cene Facebook i Instagram oglasa u Srbiji za 2026. CPC od 0,05€, mesečni budžet od 200€. Vodič kroz troškove i česte greške.', keywords: 'koliko košta facebook reklama, facebook oglasi cena, instagram oglasi cena srbija, facebook ads srbija, cena oglašavanja na facebooku, meta ads cena' },
   '/google-reklame-cena': { title: 'Google Reklame Cena 2026 + Vođenje Kampanja | Platinum Zenith', description: 'Koliko koštaju Google reklame i vođenje Google Ads kampanja u Srbiji 2026: CPC rasponi, budžeti po fazama rasta i realna cena upravljanja.', keywords: 'google reklame cena, google ads cena, koliko kostaju google reklame, cena po kliku google, vodjenje google ads kampanja cena, upravljanje google ads kampanjama' },
-  '/instagram-reklame-cena': { title: 'Instagram Reklame Cena u Srbiji 2026 | Platinum Zenith', description: 'Realne cene Instagram oglasa u Srbiji za 2026. CPC, CPM, budžeti po fazama rasta i greške koje dižu trošak bez više upita i prodaje.', keywords: 'instagram reklame cena, instagram ads cena, koliko kostaju instagram reklame, cena instagram oglasa, instagram oglasavanje srbija, meta ads cena' },
+  '/instagram-reklame-cena': { title: 'Instagram Reklame Cena 2026 + Vođenje Kampanja | Platinum Zenith', description: 'Koliko koštaju Instagram reklame i vođenje Instagram Ads kampanja u Srbiji 2026: CPC, CPM, budžeti po fazama rasta i realna cena upravljanja.', keywords: 'instagram reklame cena, instagram ads cena, koliko kostaju instagram reklame, cena instagram oglasa, instagram oglasavanje srbija, vodjenje instagram ads kampanja cena, upravljanje instagram reklamama' },
   '/izrada-wordpress-sajta-cena': { title: 'Izrada WordPress Sajta Cena u Srbiji 2026 | Platinum Zenith', description: 'Cena izrade WordPress sajta u Srbiji 2026: trošak prezentacionog sajta i WooCommerce shopa, šta ulazi u cenu, rokovi i kako da izbegnete skrivene troškove.', keywords: 'izrada wordpress sajta cena, wordpress sajt cena, koliko kosta wordpress sajt, wordpress izrada sajta srbija, woocommerce cena izrade, odrzavanje wordpress sajta' },
   '/marketing-za-advokate': { title: 'Marketing za Advokate u Srbiji | Platinum Zenith', description: 'Marketing za advokatske kancelarije u Srbiji: SEO, Google Ads, sajt i content strategija koja donosi kvalifikovane upite i stabilan rast klijenata.', keywords: 'marketing za advokate, digitalni marketing advokatska kancelarija, google ads advokat, seo za advokate, sajt za advokatsku kancelariju, marketing pravne usluge' },
   '/marketing-za-stomatologe': { title: 'Marketing za Stomatologe u Srbiji | Platinum Zenith', description: 'Specijalizovani marketing za stomatološke ordinacije: Google Ads, lokalni SEO, sajt i kampanje koje pune kalendar novim pacijentima i povećavaju prihod.', keywords: 'marketing za stomatologe, digitalni marketing stomatologija, google ads stomatolog, seo za stomatologe, sajt za ordinaciju, marketing stomatološka ordinacija' },
@@ -207,7 +207,7 @@ export const pageSchemas = {
         "@id": `${SITE_URL}/instagram-reklame-cena#webpage`,
         "url": `${SITE_URL}/instagram-reklame-cena`,
         "name": "Koliko koštaju Instagram reklame u Srbiji 2026",
-        "description": "Realni budžeti, cena klika i trošak po upitu za Instagram Ads kampanje u Srbiji.",
+        "description": "Realni budžeti, cena klika i cena vođenja Instagram Ads kampanja u Srbiji 2026.",
         "inLanguage": "sr-RS",
         "isPartOf": { "@id": SITE_URL },
         "about": { "@id": `${SITE_URL}/instagram-reklame-cena#service` }
@@ -216,7 +216,7 @@ export const pageSchemas = {
         "@type": "Service",
         "@id": `${SITE_URL}/instagram-reklame-cena#service`,
         "name": "Instagram Ads upravljanje kampanjama",
-        "description": "Instagram Ads upravljanje sa jasnim budžetskim fazama, optimizacijom CPM/CPC troška i fokusom na kvalitetne upite i prodaju.",
+        "description": "Instagram Ads upravljanje sa jasnim budžetskim fazama, realnom cenom vođenja kampanja i fokusom na kvalitetne upite i prodaju.",
         "serviceType": "Instagram advertising management",
         "url": `${SITE_URL}/instagram-reklame-cena`,
         "areaServed": { "@type": "Country", "name": "Srbija" },
@@ -240,6 +240,11 @@ export const pageSchemas = {
             "@type": "Question",
             "name": "Koliko je realno potrebno za početak?",
             "acceptedAnswer": { "@type": "Answer", "text": "Praktičan minimum je oko 200-300€ za medijski budžet plus upravljanje. Ispod toga je teško doneti kvalitetne zaključke iz podataka." }
+          },
+          {
+            "@type": "Question",
+            "name": "Koliko košta vođenje Instagram kampanja?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Za manje naloge vođenje je najčešće 120-280€ mesečno, dok je za aktivnije naloge sa redovnim testovima uglavnom 250-650€ mesečno. Veći budžeti često idu kroz enterprise model ili procenat od medija." }
           },
           {
             "@type": "Question",

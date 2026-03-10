@@ -51,6 +51,27 @@ const costBreakdown = [
   },
 ]
 
+const managementPricing = [
+  {
+    model: 'Freelance / mikro tim',
+    fee: '120 - 280€/mes',
+    bestFor: 'Mali biznisi sa manjim brojem kampanja i jednostavnim offerom.',
+    caution: 'Često ne uključuje redovne creative testove, UGC produkciju i naprednu analitiku.',
+  },
+  {
+    model: 'Specijalizovana agencija',
+    fee: '250 - 650€/mes',
+    bestFor: 'Brendovi koji žele kontinuiranu optimizaciju kreativa, publika i funnel-a.',
+    caution: 'Pre dogovora proveriti da li su u cenu uključeni testovi, tracking i mesečni plan eksperimenata.',
+  },
+  {
+    model: 'Enterprise vođenje',
+    fee: '650€+ / mes ili % budžeta',
+    bestFor: 'Veći budžeti, više tržišta i timovi kojima treba skaliranje po profitabilnosti.',
+    caution: 'Visoka naknada ima smisla samo uz jasan ownership nad KPI-jevima i ritam optimizacije.',
+  },
+]
+
 const metrics = [
   {
     metric: 'CPC (Srbija)',
@@ -103,7 +124,11 @@ const faqs = [
     a: 'Praktičan minimum je oko 200-300€ za medijski budžet plus upravljanje. Ispod toga je teško doneti kvalitetne zaključke iz podataka.',
   },
   {
-    q: 'Da li Instagram oglasi rade i za uslužne biznise?',
+    q: 'Koliko košta vođenje Instagram kampanja?',
+    a: 'Za manje naloge vođenje je najčešće 120-280€ mesečno, dok je za aktivnije naloge sa redovnim testovima uglavnom 250-650€ mesečno. Veći budžeti često idu kroz enterprise model ili procenat od medija.',
+  },
+  {
+    q: 'Da li Instagram oglasi rade i za uslužne biznize?',
     a: 'Da, posebno kada postoji jasan problem i dobra ponuda. Ključ je kvalitetan hook i jasna sledeća akcija na landing stranici.',
   },
   {
@@ -179,6 +204,35 @@ export default function InstagramReklameCenaPage() {
               </div>
             ))}
           </div>
+        </div>
+      </section>
+
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[920px] mx-auto">
+          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-4 text-center">Vođenje Instagram Ads kampanja — cena upravljanja</h2>
+          <p className="text-[15px] text-ink-3 text-center mb-10 max-w-[700px] mx-auto">
+            Pored medijskog budžeta, ključna stavka je cena vođenja kampanja. Rasponi ispod su realni za srpsko tržište u 2026. i pomažu da procenite da li je ponuda održiva.
+          </p>
+
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+            {managementPricing.map(item => (
+              <div key={item.model} className="bg-panel rounded-[16px] border border-edge p-5 md:p-6">
+                <div className="text-[12px] uppercase tracking-widest text-ink-4 mb-2">Model saradnje</div>
+                <h3 className="text-[18px] font-medium text-ink mb-2">{item.model}</h3>
+                <div className="text-[24px] font-bold text-ink mb-3">{item.fee}</div>
+                <p className="text-[13px] text-ink-2 leading-relaxed mb-3">{item.bestFor}</p>
+                <p className="text-[12px] text-ink-3 leading-relaxed">⚠️ {item.caution}</p>
+              </div>
+            ))}
+          </div>
+
+          <p className="text-[14px] text-ink-3 leading-relaxed mt-8 text-center max-w-[700px] mx-auto">
+            Za detaljniji benchmark troška klika i creative performansi pogledajte i
+            {' '}
+            <Link to="/blog/instagram-ads-cena-po-kliku-srbija-2026" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+              Instagram Ads cena po kliku u Srbiji 2026
+            </Link>.
+          </p>
         </div>
       </section>
 
