@@ -172,6 +172,53 @@ export default function BlogPage() {
         </section>
       )}
 
+      <section className="pb-14 px-4 md:px-8">
+        <div className="max-w-[1100px] mx-auto rounded-[16px] border border-edge-2 bg-panel p-6 md:p-8">
+          <h2 className="text-[24px] md:text-[30px] tracking-[-0.6px] font-medium text-ink mb-2">Resursi i brzi linkovi</h2>
+          <p className="text-[14px] md:text-[15px] text-ink-2 mb-6 leading-[1.7]">
+            Ako istražujete cene, strategiju i tehničke detalje, krenite od ovih vodiča i ključnih stranica.
+          </p>
+
+          <div className="grid md:grid-cols-2 gap-8">
+            <div>
+              <h3 className="text-[12px] uppercase tracking-[0.18em] text-ink-2 mb-3">Ključne stranice</h3>
+              <div className="flex flex-wrap gap-2">
+                <Link to="/faq" className="text-[13px] text-ink-2 hover:text-ink bg-tint border border-edge-2 rounded-full px-3 py-1.5 transition-colors">FAQ</Link>
+                <Link to="/o-nama" className="text-[13px] text-ink-2 hover:text-ink bg-tint border border-edge-2 rounded-full px-3 py-1.5 transition-colors">O nama</Link>
+                <Link to="/uslovi-koriscenja" className="text-[13px] text-ink-2 hover:text-ink bg-tint border border-edge-2 rounded-full px-3 py-1.5 transition-colors">Uslovi korišćenja</Link>
+                <Link to="/uslovi-kupovine" className="text-[13px] text-ink-2 hover:text-ink bg-tint border border-edge-2 rounded-full px-3 py-1.5 transition-colors">Uslovi kupovine</Link>
+                <Link to="/nacin-placanja" className="text-[13px] text-ink-2 hover:text-ink bg-tint border border-edge-2 rounded-full px-3 py-1.5 transition-colors">Način plaćanja</Link>
+                <Link to="/dostava" className="text-[13px] text-ink-2 hover:text-ink bg-tint border border-edge-2 rounded-full px-3 py-1.5 transition-colors">Dostava</Link>
+                <Link to="/politika-privatnosti" className="text-[13px] text-ink-2 hover:text-ink bg-tint border border-edge-2 rounded-full px-3 py-1.5 transition-colors">Politika privatnosti</Link>
+                <Link to="/industrije/startapovi" className="text-[13px] text-ink-2 hover:text-ink bg-tint border border-edge-2 rounded-full px-3 py-1.5 transition-colors">Marketing za startapove</Link>
+                <Link to="/alati/roi-kalkulator" className="text-[13px] text-ink-2 hover:text-ink bg-tint border border-edge-2 rounded-full px-3 py-1.5 transition-colors">ROI kalkulator</Link>
+                <Link to="/facebook-oglasi-ne-rade" className="text-[13px] text-ink-2 hover:text-ink bg-tint border border-edge-2 rounded-full px-3 py-1.5 transition-colors">Facebook oglasi ne rade</Link>
+              </div>
+            </div>
+
+            <div>
+              <h3 className="text-[12px] uppercase tracking-[0.18em] text-ink-2 mb-3">Dodatni vodiči</h3>
+              <ul className="space-y-2">
+                <li><Link to="/blog/copywriting-formule-koje-rade" className="text-[14px] text-ink-2 hover:text-ink transition-colors">Copywriting formule koje rade</Link></li>
+                <li><Link to="/blog/brending-za-male-firme-identitet-vazniji-od-loga" className="text-[14px] text-ink-2 hover:text-ink transition-colors">Brending za male firme</Link></li>
+                <li><Link to="/blog/psihologija-zaradjivanja-mentalni-blokovi" className="text-[14px] text-ink-2 hover:text-ink transition-colors">Psihologija zarađivanja i blokovi</Link></li>
+                <li><Link to="/blog/17-godina-marketing-iskustva" className="text-[14px] text-ink-2 hover:text-ink transition-colors">17 godina marketing iskustva</Link></li>
+                <li><Link to="/blog/jednacina-vrednosti-zasto-ljudi-kupuju" className="text-[14px] text-ink-2 hover:text-ink transition-colors">Jednačina vrednosti</Link></li>
+                <li><Link to="/blog/cetiri-nacina-da-dobijete-klijente" className="text-[14px] text-ink-2 hover:text-ink transition-colors">Četiri načina da dobijete klijente</Link></li>
+                <li><Link to="/blog/hormozi-ponuda-kojoj-klijent-ne-kaze-ne" className="text-[14px] text-ink-2 hover:text-ink transition-colors">Hormozi ponuda</Link></li>
+                <li><Link to="/blog/sabri-suby-kako-do-vise-upita-bez-veceg-budzeta" className="text-[14px] text-ink-2 hover:text-ink transition-colors">Sabri Suby sistem za više upita</Link></li>
+                <li><Link to="/blog/alex-hormozi-grand-slam-ponuda-za-usluge" className="text-[14px] text-ink-2 hover:text-ink transition-colors">Alex Hormozi grand slam ponuda</Link></li>
+                <li><Link to="/blog/leila-hormozi-kpi-tabla-za-stabilan-rast" className="text-[14px] text-ink-2 hover:text-ink transition-colors">Leila Hormozi KPI tabla</Link></li>
+                <li><Link to="/blog/koliko-traje-seo-da-donese-rezultate-u-srbiji" className="text-[14px] text-ink-2 hover:text-ink transition-colors">Koliko traje SEO u Srbiji</Link></li>
+                <li><Link to="/blog/google-business-profil-optimizacija-cena-srbija-2026" className="text-[14px] text-ink-2 hover:text-ink transition-colors">Google Business profil optimizacija</Link></li>
+                <li><Link to="/blog/cena-odrzavanja-wordpress-sajta-srbija-2026" className="text-[14px] text-ink-2 hover:text-ink transition-colors">Cena održavanja WordPress sajta</Link></li>
+                <li><Link to="/blog/vodjenje-drustvenih-mreza-cena-srbija-2026" className="text-[14px] text-ink-2 hover:text-ink transition-colors">Vođenje društvenih mreža cena</Link></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+
       <BottomCTA />
     </>
   )
