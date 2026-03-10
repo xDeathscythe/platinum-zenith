@@ -4,6 +4,7 @@ import { pageMeta } from '../src/hooks/pageMetaData.js'
 import { blogPosts } from '../src/pages/blog/blogData.js'
 
 const root = process.cwd()
+const strict = process.argv.includes('--strict')
 
 // Approximate pixel widths for Google desktop snippets
 const TITLE_WARN_PX = 580
@@ -100,6 +101,7 @@ console.log(`Blog posts checked: ${report.blogPostsChecked}`)
 console.log(`Issues: ${report.issueCount}`)
 console.log(`Warnings: ${report.warningCount}`)
 console.log(`Report: ${reportPath}`)
+if (strict) console.log('Mode: strict (warnings fail the check)')
 
 if (warnings.length > 0) {
   console.log('\nWarnings:')
@@ -110,5 +112,9 @@ if (warnings.length > 0) {
 if (issues.length > 0) {
   console.log('\nIssues:')
   issues.forEach((issue) => console.log(`- ${issue}`))
+  process.exitCode = 1
+}
+
+if (strict && warnings.length > 0) {
   process.exitCode = 1
 }

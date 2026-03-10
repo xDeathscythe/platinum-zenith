@@ -236,7 +236,7 @@ const ogMeta = {
   },
   '/alati/roi-kalkulator': {
     title: 'ROI Kalkulator za Marketing | Besplatan Alat | Platinum Zenith',
-    description: 'Izračunajte povrat investicije za marketing budžet uz besplatan ROI kalkulator, benchmarkove po industriji i brzu procenu koliko kampanje zaista donose profita.',
+    description: 'Besplatan ROI kalkulator za marketing: unesite budžet, prihod i maržu, pa odmah izračunajte realan povrat investicije i profit kampanja.',
   },
 }
 
