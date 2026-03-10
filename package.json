@@ -33,6 +33,7 @@
     "seo:meta-quality": "node scripts/seo-meta-quality-audit.mjs",
     "seo:meta-quality:strict": "node scripts/seo-meta-quality-audit.mjs --strict",
     "seo:meta-intent": "node scripts/seo-meta-intent-audit.mjs",
+    "seo:serp-snippets": "node scripts/seo-serp-snippet-audit.mjs",
     "seo:perf-budgets": "node scripts/seo-performance-budget-audit.mjs",
     "seo:check": "node scripts/seo-check.mjs",
     "preview": "vite preview"
