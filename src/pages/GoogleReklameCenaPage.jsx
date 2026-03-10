@@ -223,10 +223,10 @@ export default function GoogleReklameCenaPage() {
           </div>
 
           <p className="text-[14px] text-ink-3 leading-relaxed mt-8 text-center max-w-[700px] mx-auto">
-            Ako želite detaljniji model šta tačno ulazi u upravljanje i kako da uporedite ponude agencija, pročitajte i
+            Ako želite dodatni benchmark za planiranje budžeta, pročitajte i
             {' '}
-            <Link to="/blog/vodjenje-google-ads-kampanja-cena-srbija-2026" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
-              vođenje Google Ads kampanja cena u Srbiji 2026
+            <Link to="/blog/google-ads-cena-po-kliku-srbija-2026" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+              Google Ads cena po kliku u Srbiji 2026
             </Link>.
           </p>
         </div>
@@ -293,9 +293,9 @@ export default function GoogleReklameCenaPage() {
               <div className="text-[14px] font-medium text-ink mb-1">Facebook reklame cena</div>
               <div className="text-[12px] text-ink-3">Uporedi Meta i Google troškove</div>
             </Link>
-            <Link to="/blog/kako-smanjiti-cenu-po-leadu-google-meta-oglasi" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
-              <div className="text-[14px] font-medium text-ink mb-1">Kako smanjiti CPL</div>
-              <div className="text-[12px] text-ink-3">Praktičan plan za nižu cenu po leadu</div>
+            <Link to="/blog/google-ads-cena-po-kliku-srbija-2026" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Google Ads CPC po niši</div>
+              <div className="text-[12px] text-ink-3">Realni rasponi po industriji u Srbiji</div>
             </Link>
             <Link to="/instagram-reklame-cena" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
               <div className="text-[14px] font-medium text-ink mb-1">Instagram reklame cena</div>

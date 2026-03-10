@@ -305,9 +305,9 @@ export default function InstagramReklameCenaPage() {
               <div className="text-[14px] font-medium text-ink mb-1">Izrada WordPress sajta cena</div>
               <div className="text-[12px] text-ink-3">Spoji budžet za oglase i sajt koji konvertuje</div>
             </Link>
-            <Link to="/blog/kako-smanjiti-cenu-po-leadu-google-meta-oglasi" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
-              <div className="text-[14px] font-medium text-ink mb-1">Kako smanjiti CPL</div>
-              <div className="text-[12px] text-ink-3">Koraci za nižu cenu leadova bez većeg budžeta</div>
+            <Link to="/blog/instagram-ads-cena-po-kliku-srbija-2026" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Instagram Ads CPC 2026</div>
+              <div className="text-[12px] text-ink-3">Rasponi klika i planiranje budžeta</div>
             </Link>
             <Link to="/cene-digitalnog-marketinga" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
               <div className="text-[14px] font-medium text-ink mb-1">Cene digitalnog marketinga</div>

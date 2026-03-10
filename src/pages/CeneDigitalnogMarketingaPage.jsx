@@ -220,9 +220,9 @@ export default function CeneDigitalnogMarketingaPage() {
               <div className="text-[14px] font-medium text-ink mb-1">Cene SEO optimizacije</div>
               <div className="text-[12px] text-ink-3">Koliko košta SEO u Srbiji</div>
             </Link>
-            <Link to="/blog/kako-meriti-roi-marketinga-kpi-vodic" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
-              <div className="text-[14px] font-medium text-ink mb-1">ROI i KPI vodič</div>
-              <div className="text-[12px] text-ink-3">Kako meriti šta stvarno donosi profit</div>
+            <Link to="/blog/google-ads-cena-po-kliku-srbija-2026" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Google Ads CPC po niši</div>
+              <div className="text-[12px] text-ink-3">Benchmark klikova i plan budžeta po industriji</div>
             </Link>
             <Link to="/google-reklame-cena" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
               <div className="text-[14px] font-medium text-ink mb-1">Google reklame cena</div>
