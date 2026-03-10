@@ -9,6 +9,7 @@ const checks = [
   { name: 'Heading hierarchy', script: 'scripts/seo-headings-audit.mjs' },
   { name: 'Image attributes', script: 'scripts/seo-image-audit.mjs' },
   { name: 'Internal linking', script: 'scripts/seo-links-audit.mjs' },
+  { name: 'Feed/Sitemap consistency', script: 'scripts/seo-feed-sitemap-audit.mjs' },
   { name: 'Blog article schema', script: 'scripts/seo-blog-schema-audit.mjs' },
   { name: 'Meta title/description quality', script: 'scripts/seo-meta-quality-audit.mjs', args: ['--strict'] },
   { name: 'Money page landing QA', script: 'scripts/seo-landing-qa.mjs' },

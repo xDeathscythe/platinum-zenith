@@ -13,6 +13,7 @@
     "seo:fix-og": "node scripts/seo-audit.mjs --fix",
     "seo:sitemap": "node scripts/gen-sitemap.mjs",
     "seo:rss": "node scripts/gen-rss.mjs",
+    "seo:feed-sitemap": "node scripts/seo-feed-sitemap-audit.mjs",
     "seo:canonical": "node scripts/seo-canonical-audit.mjs",
     "seo:headings": "node scripts/seo-headings-audit.mjs",
     "seo:landing-qa": "node scripts/seo-landing-qa.mjs",
