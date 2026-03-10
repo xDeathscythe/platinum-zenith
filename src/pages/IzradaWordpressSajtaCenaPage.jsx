@@ -244,23 +244,12 @@ export default function IzradaWordpressSajtaCenaPage() {
         dangerouslySetInnerHTML={{
           __html: JSON.stringify({
             '@context': 'https://schema.org',
-            '@graph': [
-              {
-                '@type': 'FAQPage',
-                mainEntity: faqs.map(f => ({
-                  '@type': 'Question',
-                  name: f.q,
-                  acceptedAnswer: { '@type': 'Answer', text: f.a },
-                })),
-              },
-              {
-                '@type': 'BreadcrumbList',
-                itemListElement: [
-                  { '@type': 'ListItem', position: 1, name: 'Početna', item: 'https://platinumzenith.com/' },
-                  { '@type': 'ListItem', position: 2, name: 'Cena WordPress sajta', item: 'https://platinumzenith.com/izrada-wordpress-sajta-cena' },
-                ],
-              },
-            ],
+            '@type': 'FAQPage',
+            mainEntity: faqs.map(f => ({
+              '@type': 'Question',
+              name: f.q,
+              acceptedAnswer: { '@type': 'Answer', text: f.a },
+            })),
           }),
         }}
       />
