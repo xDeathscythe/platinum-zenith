@@ -26,6 +26,7 @@ const checks = [
   { name: 'Open Graph/Twitter social meta consistency', script: 'scripts/seo-social-meta-audit.mjs' },
   { name: 'Blog article schema', script: 'scripts/seo-blog-schema-audit.mjs' },
   { name: 'Meta title/description quality', script: 'scripts/seo-meta-quality-audit.mjs', args: ['--strict'] },
+  { name: 'Meta uniqueness (near-duplicate detection)', script: 'scripts/seo-meta-uniqueness-audit.mjs' },
   { name: 'SERP snippet width budget', script: 'scripts/seo-serp-snippet-audit.mjs', args: ['--strict'] },
   { name: 'Meta intent keyword coverage', script: 'scripts/seo-meta-intent-audit.mjs' },
   { name: 'Money page landing QA', script: 'scripts/seo-landing-qa.mjs' },
