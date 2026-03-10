@@ -16,6 +16,7 @@ const checks = [
   { name: 'SEO redirects and legacy URL canonicalization', script: 'scripts/seo-redirect-audit.mjs', phase: 'postbuild' },
   { name: 'SEO file cache policy', script: 'scripts/seo-cache-policy-audit.mjs', phase: 'postbuild' },
   { name: 'SEO file revalidation (Last-Modified/304)', script: 'scripts/seo-file-revalidation-audit.mjs', phase: 'postbuild' },
+  { name: 'Compression budget policy (brotli)', script: 'scripts/seo-compression-budget-audit.mjs', phase: 'postbuild' },
   { name: 'X-Robots-Tag header policy', script: 'scripts/seo-xrobots-audit.mjs', phase: 'postbuild' },
   { name: 'Robots.txt directives policy', script: 'scripts/seo-robots-txt-directives-audit.mjs' },
   { name: 'Robots index/noindex policy', script: 'scripts/seo-robots-audit.mjs' },
