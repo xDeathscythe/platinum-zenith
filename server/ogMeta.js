@@ -50,11 +50,11 @@ const ogMeta = {
     description: 'CRO optimizacija koja diže broj upita i prodaja bez većeg budžeta: heatmap analiza, A/B testovi, UX audit i konkretne iteracije za rast konverzije.',
   },
   '/kontakt': {
-    title: 'Kontakt | Platinum Zenith',
+    title: 'Kontakt i Besplatna Konsultacija | Platinum Zenith',
     description: 'Kontaktirajte Platinum Zenith i zakažite besplatne konsultacije u Zrenjaninu. Pošaljite upit i dobijte konkretan plan rasta za vaš biznis.',
   },
   '/o-nama': {
-    title: 'O Nama | Platinum Zenith',
+    title: 'O Nama i Naš Pristup Rastu Biznisa | Platinum Zenith',
     description: 'Upoznajte Platinum Zenith tim iz Zrenjanina: digitalni marketing, web design i consulting fokusiran na profitabilan rast i merljive rezultate.',
   },
   '/case-studies': {
@@ -66,15 +66,15 @@ const ogMeta = {
     description: 'Pročitajte uslove korišćenja Platinum Zenith usluga, prava i obaveze korisnika, način saradnje, plaćanja i ograničenja odgovornosti.',
   },
   '/uslovi-kupovine': {
-    title: 'Uslovi Kupovine | Platinum Zenith',
+    title: 'Uslovi Kupovine i Saradnje | Platinum Zenith',
     description: 'Uslovi kupovine za Platinum Zenith: ugovaranje putem email korespondencije, B2B model saradnje, reklamacije, isporuka i pravila realizacije.',
   },
   '/nacin-placanja': {
-    title: 'Način Plaćanja | Platinum Zenith',
+    title: 'Način Plaćanja i Fakturisanje | Platinum Zenith',
     description: 'Način plaćanja za Platinum Zenith: virmansko plaćanje za pravna lica i izdavanje fakture nakon sklopljenog dogovora putem emaila.',
   },
   '/dostava': {
-    title: 'Dostava | Platinum Zenith',
+    title: 'Dostava i Rokovi Realizacije | Platinum Zenith',
     description: 'Uslovi dostave i realizacije: isporuka nakon potvrđenog dogovora, rokovi, troškovi i proces za fizičku robu i digitalne usluge.',
   },
   '/politika-privatnosti': {
@@ -98,7 +98,7 @@ const ogMeta = {
     description: 'E-commerce marketing sistemi za online prodavnice: Meta Ads, email automatizacija, CRO i retargeting koji povećavaju konverzije i vrednost porudžbine.',
   },
   '/industrije/saas': {
-    title: 'SaaS Marketing | Platinum Zenith',
+    title: 'SaaS Marketing za Rast MRR-a | Platinum Zenith',
     description: 'SaaS marketing za brži MRR rast: akvizicija korisnika, onboarding, aktivacija, retencija i smanjenje churn-a kroz full-funnel strategiju.',
   },
   '/industrije/lokalni-biznisi': {
@@ -110,7 +110,7 @@ const ogMeta = {
     description: 'Marketing za startapove od validacije ideje do skaliranja: pozicioniranje, akvizicija prvih korisnika i ubrzanje product-market fit-a.',
   },
   '/paketi': {
-    title: 'Paketi & Cene | Platinum Zenith',
+    title: 'Paketi i Cene Usluga | Platinum Zenith',
     description: 'Paketi i cene za digitalni marketing i web usluge: Starter od 499€, Growth od 1.499€ i Enterprise po meri, bez skrivenih troškova i uz revenue share opciju.',
   },
   '/marketing-agencija-beograd': {
@@ -154,11 +154,11 @@ const ogMeta = {
     description: 'Realne cene Google oglasa u Srbiji za 2026. CPC, budžeti po fazama rasta, trošak po leadu i najčešće greške koje dižu trošak.',
   },
   '/instagram-reklame-cena': {
-    title: 'Koliko Koštaju Instagram Reklame u Srbiji 2026 | Vodič Kroz Cene | Platinum Zenith',
+    title: 'Instagram Reklame Cena u Srbiji 2026 | Platinum Zenith',
     description: 'Realne cene Instagram oglasa u Srbiji za 2026. CPC, CPM, budžeti po fazama rasta i greške koje dižu trošak bez više upita i prodaje.',
   },
   '/izrada-wordpress-sajta-cena': {
-    title: 'Koliko Košta Izrada WordPress Sajta u Srbiji 2026 | Vodič Kroz Cene | Platinum Zenith',
+    title: 'Izrada WordPress Sajta Cena u Srbiji 2026 | Platinum Zenith',
     description: 'Cena izrade WordPress sajta u Srbiji 2026: trošak prezentacionog sajta i WooCommerce shopa, šta ulazi u cenu, rokovi i kako da izbegnete skrivene troškove.',
   },
   '/draft/netokracija-cro-case': {
@@ -166,11 +166,11 @@ const ogMeta = {
     description: 'Interni draft case study članka za Netokraciju o CRO optimizaciji: brzina sajta, mini-korpa, order bumps i Niwa AI logika u realnom e-commerce toku.',
   },
   '/marketing-za-advokate': {
-    title: 'Marketing za Advokate | Digitalni Marketing za Advokatske Kancelarije | Platinum Zenith',
+    title: 'Marketing za Advokate u Srbiji | Platinum Zenith',
     description: 'Marketing za advokatske kancelarije u Srbiji: SEO, Google Ads, sajt i content strategija koja donosi kvalifikovane upite i stabilan rast klijenata.',
   },
   '/marketing-za-stomatologe': {
-    title: 'Marketing za Stomatologe | Digitalni Marketing za Stomatološke Ordinacije | Platinum Zenith',
+    title: 'Marketing za Stomatologe u Srbiji | Platinum Zenith',
     description: 'Specijalizovani marketing za stomatološke ordinacije: Google Ads, lokalni SEO, sajt i kampanje koje pune kalendar novim pacijentima i povećavaju prihod.',
   },
   '/marketing-za-restorane': {

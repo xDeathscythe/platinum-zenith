@@ -30,20 +30,20 @@ export const pageMeta = {
     description: 'CRO optimizacija koja diže broj upita i prodaja bez većeg budžeta: heatmap analiza, A/B testovi, UX audit i konkretne iteracije za rast konverzije.',
     keywords: 'CRO, optimizacija konverzije, A/B testiranje, UX audit, heatmap, bounce rate',
   },
-  '/kontakt': { title: 'Kontakt | Platinum Zenith', description: 'Kontaktirajte Platinum Zenith i zakažite besplatne konsultacije u Zrenjaninu. Pošaljite upit i dobijte konkretan plan rasta za vaš biznis.', keywords: 'kontakt, konsultacije, Platinum Zenith kontakt, Zrenjanin' },
-  '/o-nama': { title: 'O Nama | Platinum Zenith', description: 'Upoznajte Platinum Zenith tim iz Zrenjanina: digitalni marketing, web design i consulting fokusiran na profitabilan rast i merljive rezultate.', keywords: 'o nama, Platinum Zenith, digitalna agencija Zrenjanin, tim, misija' },
+  '/kontakt': { title: 'Kontakt i Besplatna Konsultacija | Platinum Zenith', description: 'Kontaktirajte Platinum Zenith i zakažite besplatne konsultacije u Zrenjaninu. Pošaljite upit i dobijte konkretan plan rasta za vaš biznis.', keywords: 'kontakt, konsultacije, Platinum Zenith kontakt, Zrenjanin' },
+  '/o-nama': { title: 'O Nama i Naš Pristup Rastu Biznisa | Platinum Zenith', description: 'Upoznajte Platinum Zenith tim iz Zrenjanina: digitalni marketing, web design i consulting fokusiran na profitabilan rast i merljive rezultate.', keywords: 'o nama, Platinum Zenith, digitalna agencija Zrenjanin, tim, misija' },
   '/case-studies': { title: 'Case Studies | Rezultati | Platinum Zenith', description: 'Studije slučaja sa realnim rezultatima klijenata: rast prihoda, niži trošak po kupovini i bolji ROI kroz digitalni marketing, web sajt i CRO optimizaciju.', keywords: 'case studies, rezultati, portfolio, referentni projekti, ROI' },
-  '/paketi': { title: 'Paketi & Cene | Platinum Zenith', description: 'Paketi i cene za digitalni marketing i web usluge: Starter od 499€, Growth od 1.499€ i Enterprise po meri, bez skrivenih troškova i uz revenue share opciju.', keywords: 'cene, paketi, pricing, Starter, Growth, Enterprise' },
+  '/paketi': { title: 'Paketi i Cene Usluga | Platinum Zenith', description: 'Paketi i cene za digitalni marketing i web usluge: Starter od 499€, Growth od 1.499€ i Enterprise po meri, bez skrivenih troškova i uz revenue share opciju.', keywords: 'cene, paketi, pricing, Starter, Growth, Enterprise' },
   '/uslovi-koriscenja': { title: 'Uslovi Korišćenja | Platinum Zenith', description: 'Pročitajte uslove korišćenja Platinum Zenith usluga, prava i obaveze korisnika, način saradnje, plaćanja i ograničenja odgovornosti.', keywords: 'uslovi korišćenja, terms of service' },
-  '/uslovi-kupovine': { title: 'Uslovi Kupovine | Platinum Zenith', description: 'Uslovi kupovine za Platinum Zenith: ugovaranje putem email korespondencije, B2B model saradnje, reklamacije, isporuka i pravila realizacije.', keywords: 'uslovi kupovine, B2B kupovina, ugovaranje emailom, reklamacije' },
-  '/nacin-placanja': { title: 'Način Plaćanja | Platinum Zenith', description: 'Način plaćanja za Platinum Zenith: virmansko plaćanje za pravna lica i izdavanje fakture nakon sklopljenog dogovora putem emaila.', keywords: 'način plaćanja, virman, pravna lica, faktura, B2B' },
-  '/dostava': { title: 'Dostava | Platinum Zenith', description: 'Uslovi dostave i realizacije: isporuka nakon potvrđenog dogovora, rokovi, troškovi i proces za fizičku robu i digitalne usluge.', keywords: 'dostava, isporuka, rokovi, digitalne usluge, fizička roba' },
+  '/uslovi-kupovine': { title: 'Uslovi Kupovine i Saradnje | Platinum Zenith', description: 'Uslovi kupovine za Platinum Zenith: ugovaranje putem email korespondencije, B2B model saradnje, reklamacije, isporuka i pravila realizacije.', keywords: 'uslovi kupovine, B2B kupovina, ugovaranje emailom, reklamacije' },
+  '/nacin-placanja': { title: 'Način Plaćanja i Fakturisanje | Platinum Zenith', description: 'Način plaćanja za Platinum Zenith: virmansko plaćanje za pravna lica i izdavanje fakture nakon sklopljenog dogovora putem emaila.', keywords: 'način plaćanja, virman, pravna lica, faktura, B2B' },
+  '/dostava': { title: 'Dostava i Rokovi Realizacije | Platinum Zenith', description: 'Uslovi dostave i realizacije: isporuka nakon potvrđenog dogovora, rokovi, troškovi i proces za fizičku robu i digitalne usluge.', keywords: 'dostava, isporuka, rokovi, digitalne usluge, fizička roba' },
   '/politika-privatnosti': { title: 'Politika Privatnosti | Platinum Zenith', description: 'Politika privatnosti Platinum Zenith agencije: kako prikupljamo, obrađujemo i štitimo lične podatke, koja su vaša prava i kako ostvarujete GDPR zaštitu.', keywords: 'politika privatnosti, privacy policy, GDPR' },
   '/drustvene-mreze': { title: 'Društvene Mreže | Instagram, Facebook, TikTok, LinkedIn | Platinum Zenith', description: 'Instagram, Facebook, TikTok i LinkedIn strategije za firme u Srbiji: content, community i plaćene kampanje koje podižu engagement, upite i prodaju.', keywords: 'društvene mreže, Instagram marketing, Facebook, TikTok, LinkedIn, SMM' },
   '/faq': { title: 'Česta Pitanja (FAQ) | Platinum Zenith', description: 'Česta pitanja o saradnji sa Platinum Zenith agencijom: proces rada, cene, rokovi, komunikacija, izveštavanje i merljivi rezultati.', keywords: 'FAQ, česta pitanja' },
   '/blog': { title: 'Blog | Marketing Saveti i Strategije | Platinum Zenith', description: 'Blog o digitalnom marketingu, prodaji i rastu biznisa: praktične strategije, studije slučaja, SEO i Meta/Google Ads saveti.', keywords: 'blog, marketing saveti, digitalni marketing blog' },
   '/industrije/e-commerce': { title: 'E-Commerce Marketing | Platinum Zenith', description: 'E-commerce marketing sistemi za online prodavnice: Meta Ads, email automatizacija, CRO i retargeting koji povećavaju konverzije i vrednost porudžbine.', keywords: 'e-commerce marketing, online prodavnica, ROAS' },
-  '/industrije/saas': { title: 'SaaS Marketing | Platinum Zenith', description: 'SaaS marketing za brži MRR rast: akvizicija korisnika, onboarding, aktivacija, retencija i smanjenje churn-a kroz full-funnel strategiju.', keywords: 'SaaS marketing, MRR rast, B2B marketing' },
+  '/industrije/saas': { title: 'SaaS Marketing za Rast MRR-a | Platinum Zenith', description: 'SaaS marketing za brži MRR rast: akvizicija korisnika, onboarding, aktivacija, retencija i smanjenje churn-a kroz full-funnel strategiju.', keywords: 'SaaS marketing, MRR rast, B2B marketing' },
   '/industrije/lokalni-biznisi': { title: 'Marketing za Lokalne Biznise | Platinum Zenith', description: 'Marketing za lokalne biznise: Google Business optimizacija, lokalni SEO, oglasi i kampanje koje dovode više poziva i upita.', keywords: 'lokalni marketing, lokalni SEO, Google Business' },
   '/marketing-agencija-beograd': { title: 'Marketing Agencija za Beograd | Digitalni Marketing | Platinum Zenith', description: 'Digitalni marketing za firme u Beogradu: izrada sajtova, SEO, Google Ads i društvene mreže uz jasne KPI ciljeve, mesečne izveštaje i plan rasta po budžetu.', keywords: 'marketing agencija beograd, digitalni marketing beograd, seo beograd, izrada sajta beograd, google ads beograd' },
   '/seo-optimizacija-cena': { title: 'Koliko Košta SEO Optimizacija u Srbiji 2026 | Cene SEO | Platinum Zenith', description: 'Realne cene SEO optimizacije u Srbiji: osnovni paketi od 300€, napredni od 500€ i premium od 1.200€ mesečno, uz audit sajta i plan rasta pozicija.', keywords: 'seo optimizacija cena, koliko košta seo, seo cena srbija, seo agencija cena, cena seo optimizacije' },
@@ -55,10 +55,10 @@ export const pageMeta = {
   '/web-shop-nema-prodaju': { title: 'Web Shop Nema Prodaju? 5 Razloga i Rešenja | Platinum Zenith', description: 'Vaš web shop ima posete, ali nema prodaju? Otkrivamo 5 najčešćih razloga, konkretna rešenja za svaki problem i korake za brže podizanje konverzije.', keywords: 'web shop nema prodaju, zašto web shop ne prodaje, online prodavnica bez prodaje, e-commerce konverzija, web shop optimizacija, checkout optimizacija' },
   '/koliko-kosta-facebook-reklama': { title: 'Koliko Košta Facebook Reklama u Srbiji 2026 | Vodič Kroz Cene | Platinum Zenith', description: 'Realne cene Facebook i Instagram oglasa u Srbiji za 2026. CPC od 0,05€, mesečni budžet od 200€. Vodič kroz troškove i česte greške.', keywords: 'koliko košta facebook reklama, facebook oglasi cena, instagram oglasi cena srbija, facebook ads srbija, cena oglašavanja na facebooku, meta ads cena' },
   '/google-reklame-cena': { title: 'Koliko Koštaju Google Reklame u Srbiji 2026 | Vodič Kroz Cene | Platinum Zenith', description: 'Realne cene Google oglasa u Srbiji za 2026. CPC, budžeti po fazama rasta, trošak po leadu i najčešće greške koje dižu trošak.', keywords: 'google reklame cena, google ads cena, koliko kostaju google reklame, cena po kliku google, google oglasi srbija, upravljanje google ads kampanjama' },
-  '/instagram-reklame-cena': { title: 'Koliko Koštaju Instagram Reklame u Srbiji 2026 | Vodič Kroz Cene | Platinum Zenith', description: 'Realne cene Instagram oglasa u Srbiji za 2026. CPC, CPM, budžeti po fazama rasta i greške koje dižu trošak bez više upita i prodaje.', keywords: 'instagram reklame cena, instagram ads cena, koliko kostaju instagram reklame, cena instagram oglasa, instagram oglasavanje srbija, meta ads cena' },
-  '/izrada-wordpress-sajta-cena': { title: 'Koliko Košta Izrada WordPress Sajta u Srbiji 2026 | Vodič Kroz Cene | Platinum Zenith', description: 'Cena izrade WordPress sajta u Srbiji 2026: trošak prezentacionog sajta i WooCommerce shopa, šta ulazi u cenu, rokovi i kako da izbegnete skrivene troškove.', keywords: 'izrada wordpress sajta cena, wordpress sajt cena, koliko kosta wordpress sajt, wordpress izrada sajta srbija, woocommerce cena izrade, odrzavanje wordpress sajta' },
-  '/marketing-za-advokate': { title: 'Marketing za Advokate | Digitalni Marketing za Advokatske Kancelarije | Platinum Zenith', description: 'Marketing za advokatske kancelarije u Srbiji: SEO, Google Ads, sajt i content strategija koja donosi kvalifikovane upite i stabilan rast klijenata.', keywords: 'marketing za advokate, digitalni marketing advokatska kancelarija, google ads advokat, seo za advokate, sajt za advokatsku kancelariju, marketing pravne usluge' },
-  '/marketing-za-stomatologe': { title: 'Marketing za Stomatologe | Digitalni Marketing za Stomatološke Ordinacije | Platinum Zenith', description: 'Specijalizovani marketing za stomatološke ordinacije: Google Ads, lokalni SEO, sajt i kampanje koje pune kalendar novim pacijentima i povećavaju prihod.', keywords: 'marketing za stomatologe, digitalni marketing stomatologija, google ads stomatolog, seo za stomatologe, sajt za ordinaciju, marketing stomatološka ordinacija' },
+  '/instagram-reklame-cena': { title: 'Instagram Reklame Cena u Srbiji 2026 | Platinum Zenith', description: 'Realne cene Instagram oglasa u Srbiji za 2026. CPC, CPM, budžeti po fazama rasta i greške koje dižu trošak bez više upita i prodaje.', keywords: 'instagram reklame cena, instagram ads cena, koliko kostaju instagram reklame, cena instagram oglasa, instagram oglasavanje srbija, meta ads cena' },
+  '/izrada-wordpress-sajta-cena': { title: 'Izrada WordPress Sajta Cena u Srbiji 2026 | Platinum Zenith', description: 'Cena izrade WordPress sajta u Srbiji 2026: trošak prezentacionog sajta i WooCommerce shopa, šta ulazi u cenu, rokovi i kako da izbegnete skrivene troškove.', keywords: 'izrada wordpress sajta cena, wordpress sajt cena, koliko kosta wordpress sajt, wordpress izrada sajta srbija, woocommerce cena izrade, odrzavanje wordpress sajta' },
+  '/marketing-za-advokate': { title: 'Marketing za Advokate u Srbiji | Platinum Zenith', description: 'Marketing za advokatske kancelarije u Srbiji: SEO, Google Ads, sajt i content strategija koja donosi kvalifikovane upite i stabilan rast klijenata.', keywords: 'marketing za advokate, digitalni marketing advokatska kancelarija, google ads advokat, seo za advokate, sajt za advokatsku kancelariju, marketing pravne usluge' },
+  '/marketing-za-stomatologe': { title: 'Marketing za Stomatologe u Srbiji | Platinum Zenith', description: 'Specijalizovani marketing za stomatološke ordinacije: Google Ads, lokalni SEO, sajt i kampanje koje pune kalendar novim pacijentima i povećavaju prihod.', keywords: 'marketing za stomatologe, digitalni marketing stomatologija, google ads stomatolog, seo za stomatologe, sajt za ordinaciju, marketing stomatološka ordinacija' },
   '/marketing-za-restorane': { title: 'Marketing za Restorane | Digitalni Marketing za Ugostiteljstvo | Platinum Zenith', description: 'Marketing za restorane u Srbiji: Google Business, društvene mreže, oglasi i sajt koji povećavaju rezervacije, porudžbine i popunjenost stolova.', keywords: 'marketing za restorane, digitalni marketing ugostiteljstvo, restoran marketing srbija, google business restoran, instagram za restorane, sajt za restoran' },
   '/draft/netokracija-cro-case': { title: 'DRAFT: Kako smo povećali profit 4x kroz CRO izmene | Platinum Zenith', description: 'Interni draft case study članka za Netokraciju o CRO optimizaciji: brzina sajta, mini-korpa, order bumps i Niwa AI logika u realnom e-commerce toku.', keywords: 'cro case study, netokracija draft, e-commerce konverzija, pagespeed optimizacija, niwa ai, order bumps' },
   '/in-house-tim-vs-agencija': { title: 'In-House Tim ili Marketing Agencija? Uporedni Vodič 2026 | Platinum Zenith', description: 'In-house tim ili agencija? Uporedni vodič sa realnim troškovima u Srbiji, prednostima i manama oba modela i jasnim kriterijumima za pravi izbor.', keywords: 'in-house marketing vs agencija, zaposliti marketara, marketing agencija ili zaposleni, cena marketing tima srbija, in-house tim vs outsourcing' },
@@ -139,7 +139,72 @@ export const pageSchemas = {
   '/marketing-za-stomatologe': { "@context": "https://schema.org", "@type": "Service", "name": "Marketing za stomatologe", "description": "Marketing za stomatološke ordinacije kroz Google Ads, lokalni SEO, sajt i kampanje koje pune kalendar novim pacijentima.", "url": `${SITE_URL}/marketing-za-stomatologe`, "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL }, "serviceType": "Dental Marketing", "areaServed": { "@type": "Country", "name": "Srbija" }, "hasOfferCatalog": { "@type": "OfferCatalog", "name": "Marketing usluge za stomatologe", "itemListElement": [ { "@type": "Offer", "name": "Google Ads za ordinacije" }, { "@type": "Offer", "name": "Lokalni SEO za ordinacije" }, { "@type": "Offer", "name": "Lead funnel optimizacija" } ] } },
   '/web-shop-nema-prodaju': { "@context": "https://schema.org", "@type": "WebPage", "name": "Web shop nema prodaju — 5 razloga i rešenja", "url": `${SITE_URL}/web-shop-nema-prodaju`, "inLanguage": "sr-RS", "isPartOf": { "@type": "WebSite", "name": "Platinum Zenith", "url": SITE_URL } },
   '/koliko-kosta-facebook-reklama': { "@context": "https://schema.org", "@type": "WebPage", "name": "Koliko košta Facebook reklama u Srbiji 2026", "url": `${SITE_URL}/koliko-kosta-facebook-reklama`, "inLanguage": "sr-RS", "isPartOf": { "@type": "WebSite", "name": "Platinum Zenith", "url": SITE_URL } },
-  '/google-reklame-cena': { "@context": "https://schema.org", "@type": "Service", "name": "Google Ads upravljanje kampanjama", "description": "Google Ads upravljanje sa jasnim budžetskim fazama, optimizacijom troška po leadu i fokusom na profitabilan rast.", "serviceType": "Google Ads management", "url": `${SITE_URL}/google-reklame-cena`, "areaServed": { "@type": "Country", "name": "Srbija" }, "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL }, "offers": { "@type": "AggregateOffer", "priceCurrency": "EUR", "lowPrice": "300", "highPrice": "6000", "offerCount": "4" }, "hasOfferCatalog": { "@type": "OfferCatalog", "name": "Google Ads budžetske faze", "itemListElement": [ { "@type": "Offer", "name": "Početni test", "priceCurrency": "EUR", "price": "300" }, { "@type": "Offer", "name": "Stabilan rast", "priceCurrency": "EUR", "price": "700" }, { "@type": "Offer", "name": "Agresivna akvizicija", "priceCurrency": "EUR", "price": "2000" } ] } },
+  '/google-reklame-cena': {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": `${SITE_URL}/google-reklame-cena#webpage`,
+        "url": `${SITE_URL}/google-reklame-cena`,
+        "name": "Koliko koštaju Google reklame u Srbiji 2026",
+        "description": "Realni budžeti, cena klika i trošak po leadu za Google Ads kampanje u Srbiji.",
+        "inLanguage": "sr-RS",
+        "isPartOf": { "@id": SITE_URL },
+        "about": { "@id": `${SITE_URL}/google-reklame-cena#service` }
+      },
+      {
+        "@type": "Service",
+        "@id": `${SITE_URL}/google-reklame-cena#service`,
+        "name": "Google Ads upravljanje kampanjama",
+        "description": "Google Ads upravljanje sa jasnim budžetskim fazama, optimizacijom troška po leadu i fokusom na profitabilan rast.",
+        "serviceType": "Google Ads management",
+        "url": `${SITE_URL}/google-reklame-cena`,
+        "areaServed": { "@type": "Country", "name": "Srbija" },
+        "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL },
+        "offers": { "@type": "AggregateOffer", "priceCurrency": "EUR", "lowPrice": "300", "highPrice": "6000", "offerCount": "4" },
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "Google Ads budžetske faze",
+          "itemListElement": [
+            { "@type": "Offer", "name": "Početni test", "priceCurrency": "EUR", "price": "300" },
+            { "@type": "Offer", "name": "Stabilan rast", "priceCurrency": "EUR", "price": "700" },
+            { "@type": "Offer", "name": "Agresivna akvizicija", "priceCurrency": "EUR", "price": "2000" },
+            { "@type": "Offer", "name": "Enterprise", "priceCurrency": "EUR", "price": "6000" }
+          ]
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Koliki je minimalan budžet za Google Ads?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Praktični minimum je oko 300€ mesečno za klikove, plus upravljanje. Ispod toga je teško prikupiti dovoljno podataka za ozbiljnu optimizaciju." }
+          },
+          {
+            "@type": "Question",
+            "name": "Da li je Google Ads bolji od Facebook oglasa?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Google hvata postojeću potražnju (ljudi koji aktivno traže rešenje), dok Facebook češće kreira potražnju. Za većinu firmi najbolje radi kombinacija oba kanala." }
+          },
+          {
+            "@type": "Question",
+            "name": "Koliko brzo se vide rezultati?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Prvi klikovi i upiti dolaze brzo, često u prvih nekoliko dana. Za stabilne brojke i kvalitetnu optimizaciju obično je potrebno 3-6 nedelja." }
+          },
+          {
+            "@type": "Question",
+            "name": "Šta najviše utiče na cenu klika?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Konkurencija za ključnu reč, kvalitet oglasa, relevantnost landing stranice i istorija naloga. Dobar Quality Score može osetno smanjiti CPC." }
+          },
+          {
+            "@type": "Question",
+            "name": "Da li mogu sam da vodim kampanje?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Možete, ali bez jasne strukture i trackinga često dolazi do rasipanja budžeta. Ako vodite kampanje sami, krenite sa uskim setom ključnih reči i jasnim ciljem konverzije." }
+          }
+        ]
+      }
+    ]
+  },
   '/instagram-reklame-cena': { "@context": "https://schema.org", "@type": "Service", "name": "Instagram Ads upravljanje kampanjama", "description": "Instagram Ads upravljanje sa jasnim budžetskim fazama, optimizacijom CPM/CPC troška i fokusom na kvalitetne upite i prodaju.", "serviceType": "Instagram advertising management", "url": `${SITE_URL}/instagram-reklame-cena`, "areaServed": { "@type": "Country", "name": "Srbija" }, "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL }, "offers": { "@type": "AggregateOffer", "priceCurrency": "EUR", "lowPrice": "200", "highPrice": "5000", "offerCount": "4" }, "hasOfferCatalog": { "@type": "OfferCatalog", "name": "Instagram Ads budžetske faze", "itemListElement": [ { "@type": "Offer", "name": "Početni test", "priceCurrency": "EUR", "price": "200" }, { "@type": "Offer", "name": "Stabilan rast", "priceCurrency": "EUR", "price": "600" }, { "@type": "Offer", "name": "Skaliranje", "priceCurrency": "EUR", "price": "1500" } ] } },
   '/izrada-wordpress-sajta-cena': { "@context": "https://schema.org", "@type": "Service", "name": "Izrada WordPress sajta", "description": "Izrada WordPress sajta i WooCommerce shopa sa jasnim rasponima cena, rokovima i planom isporuke.", "serviceType": "WordPress web development", "url": `${SITE_URL}/izrada-wordpress-sajta-cena`, "areaServed": { "@type": "Country", "name": "Srbija" }, "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL }, "offers": { "@type": "AggregateOffer", "priceCurrency": "EUR", "lowPrice": "500", "highPrice": "4500", "offerCount": "3" }, "hasOfferCatalog": { "@type": "OfferCatalog", "name": "WordPress paketi", "itemListElement": [ { "@type": "Offer", "name": "Prezentacioni WordPress sajt", "priceCurrency": "EUR", "price": "500" }, { "@type": "Offer", "name": "Poslovni WordPress sajt", "priceCurrency": "EUR", "price": "1200" }, { "@type": "Offer", "name": "WooCommerce web shop", "priceCurrency": "EUR", "price": "2500" } ] } },
   '/seo-optimizacija-cena': { "@context": "https://schema.org", "@type": "Service", "name": "SEO optimizacija", "description": "SEO optimizacija sa jasnim paketima, tehničkim auditom i planom rasta organskog saobraćaja i upita.", "serviceType": "Search Engine Optimization", "url": `${SITE_URL}/seo-optimizacija-cena`, "areaServed": { "@type": "Country", "name": "Srbija" }, "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL }, "offers": { "@type": "AggregateOffer", "priceCurrency": "EUR", "lowPrice": "300", "highPrice": "1200", "offerCount": "3" }, "hasOfferCatalog": { "@type": "OfferCatalog", "name": "SEO paketi", "itemListElement": [ { "@type": "Offer", "name": "Osnovni SEO", "priceCurrency": "EUR", "price": "300" }, { "@type": "Offer", "name": "Napredni SEO", "priceCurrency": "EUR", "price": "500" }, { "@type": "Offer", "name": "Premium SEO", "priceCurrency": "EUR", "price": "1200" } ] } },
