@@ -119,13 +119,31 @@ app.use((req, res, next) => {
 // Static files AFTER API — with aggressive cache headers
 const distPath = join(__dirname, '..', 'dist')
 
-// Force cache headers — both Cache-Control AND Expires (Hostinger nginx compatibility)
+// Always serve SEO machine files with short cache so updates propagate quickly
 const ONE_YEAR = 31536000
+const SEO_FRESH_MAX_AGE = 900 // 15 min
+const SEO_FRESH_ROUTES = new Set(['/sitemap.xml', '/rss.xml', '/robots.txt'])
+app.get(['/sitemap.xml', '/rss.xml', '/robots.txt'], (req, res, next) => {
+  const filePath = join(distPath, req.path)
+  if (!existsSync(filePath)) return next()
+
+  const shortExpiry = new Date(Date.now() + SEO_FRESH_MAX_AGE * 1000).toUTCString()
+  res.set('Cache-Control', `public, max-age=${SEO_FRESH_MAX_AGE}, must-revalidate`)
+  res.set('Expires', shortExpiry)
+  res.set('Vary', 'Accept-Encoding')
+  res.sendFile(filePath)
+})
+
+// Force cache headers — both Cache-Control AND Expires (Hostinger nginx compatibility)
 app.use((req, res, next) => {
   const url = req.path.toLowerCase()
   const farFuture = new Date(Date.now() + ONE_YEAR * 1000).toUTCString()
 
-  if (url.startsWith('/assets/')) {
+  if (SEO_FRESH_ROUTES.has(url)) {
+    const shortExpiry = new Date(Date.now() + SEO_FRESH_MAX_AGE * 1000).toUTCString()
+    res.set('Cache-Control', `public, max-age=${SEO_FRESH_MAX_AGE}, must-revalidate`)
+    res.set('Expires', shortExpiry)
+  } else if (url.startsWith('/assets/')) {
     // Hashed build assets (safe immutable cache)
     res.set('Cache-Control', `public, max-age=${ONE_YEAR}, immutable`)
     res.set('Expires', farFuture)
