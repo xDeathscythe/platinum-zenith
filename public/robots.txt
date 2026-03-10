@@ -1,3 +1,11 @@
 User-agent: *
 Allow: /
+Disallow: /draft/
+Disallow: /dashboard
+Disallow: /prijave
+Disallow: /poruke
+Disallow: /newsletter
+Disallow: /emails
+Disallow: /analytics
+Disallow: /log
 Sitemap: https://platinumzenith.com/sitemap-index.xml

@@ -15,6 +15,7 @@ const checks = [
   { name: 'SEO file cache policy', script: 'scripts/seo-cache-policy-audit.mjs', phase: 'postbuild' },
   { name: 'SEO file revalidation (Last-Modified/304)', script: 'scripts/seo-file-revalidation-audit.mjs', phase: 'postbuild' },
   { name: 'X-Robots-Tag header policy', script: 'scripts/seo-xrobots-audit.mjs', phase: 'postbuild' },
+  { name: 'Robots.txt directives policy', script: 'scripts/seo-robots-txt-directives-audit.mjs' },
   { name: 'Robots index/noindex policy', script: 'scripts/seo-robots-audit.mjs' },
   { name: 'Heading hierarchy', script: 'scripts/seo-headings-audit.mjs' },
   { name: 'Image attributes', script: 'scripts/seo-image-audit.mjs' },

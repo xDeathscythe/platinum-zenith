@@ -34,6 +34,7 @@
     "seo:redirects": "node scripts/seo-redirect-audit.mjs",
     "seo:xrobots": "node scripts/seo-xrobots-audit.mjs",
     "seo:robots": "node scripts/seo-robots-audit.mjs",
+    "seo:robots-txt": "node scripts/seo-robots-txt-directives-audit.mjs",
     "seo:headings": "node scripts/seo-headings-audit.mjs",
     "seo:landing-qa": "node scripts/seo-landing-qa.mjs",
     "seo:images": "node scripts/seo-image-audit.mjs",
