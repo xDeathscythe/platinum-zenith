@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "prebuild": "npm run seo:sitemap && npm run seo:rss && npm run seo:check",
-    "build": "vite build && node scripts/fix-css-blocking.js && node scripts/precompress.js && node scripts/gen-blog-og.js && node scripts/gen-sitemap.mjs && node scripts/gen-rss.mjs && node -e \"import('fs').then(f=>f.copyFileSync('dist/index.html','dist/404.html'))\"",
+    "build": "vite build && node scripts/fix-css-blocking.js && node scripts/precompress.js && node scripts/gen-blog-og.js && node scripts/gen-sitemap.mjs && node scripts/gen-rss.mjs && node -e \"import('fs').then(f=>f.copyFileSync('dist/index.html','dist/404.html'))\" && node scripts/seo-performance-budget-audit.mjs",
     "start": "node server/index.js",
     "lint": "eslint .",
     "seo:audit": "node scripts/seo-audit.mjs",
@@ -29,6 +29,7 @@
     "seo:meta-quality": "node scripts/seo-meta-quality-audit.mjs",
     "seo:meta-quality:strict": "node scripts/seo-meta-quality-audit.mjs --strict",
     "seo:meta-intent": "node scripts/seo-meta-intent-audit.mjs",
+    "seo:perf-budgets": "node scripts/seo-performance-budget-audit.mjs",
     "seo:check": "node scripts/seo-check.mjs",
     "preview": "vite preview"
   },
