@@ -4,6 +4,7 @@ import cors from 'cors'
 import { fileURLToPath } from 'url'
 import { dirname, join } from 'path'
 import { existsSync, readFileSync } from 'fs'
+import { brotliCompressSync, gzipSync, constants as zlibConstants } from 'zlib'
 import { injectOgMeta } from './ogMeta.js'
 
 // Load .env from project root (not CWD)
@@ -195,6 +196,29 @@ app.use((req, res) => {
   res.setHeader('Pragma', 'no-cache')
   res.setHeader('Expires', '0')
   res.setHeader('Surrogate-Control', 'no-store')
+
+  const acceptEncoding = String(req.headers['accept-encoding'] || '').toLowerCase()
+  const htmlBuffer = Buffer.from(html)
+
+  // Dynamic HTML compression for faster TTFB/content download on real traffic
+  if (acceptEncoding.includes('br')) {
+    const compressed = brotliCompressSync(htmlBuffer, {
+      params: {
+        [zlibConstants.BROTLI_PARAM_QUALITY]: 5,
+      },
+    })
+    res.setHeader('Content-Encoding', 'br')
+    res.setHeader('Vary', 'Accept-Encoding')
+    return res.send(compressed)
+  }
+
+  if (acceptEncoding.includes('gzip')) {
+    const compressed = gzipSync(htmlBuffer, { level: 6 })
+    res.setHeader('Content-Encoding', 'gzip')
+    res.setHeader('Vary', 'Accept-Encoding')
+    return res.send(compressed)
+  }
+
   res.send(html)
 })
 
