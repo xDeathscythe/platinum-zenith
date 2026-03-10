@@ -816,6 +816,16 @@ const serverFaqByPath = {
       a: 'Važniji je kvalitet saobraćaja i cena po leadu ili prodaji. Nizak klik nije koristan ako posetioci ne preduzimaju konkretne akcije na sajtu.',
     },
   ],
+  '/facebook-oglasi-ne-rade': [
+    {
+      q: 'Zašto Facebook oglasi imaju klikove, ali nemaju upite ili prodaju?',
+      a: 'Najčešći razlog je prekid između oglasa i landing stranice: poruka u oglasu obećava jedno, a stranica ne daje jasan sledeći korak za korisnika.',
+    },
+    {
+      q: 'Koliko brzo može da se popravi loša Facebook kampanja?',
+      a: 'Prvi pomaci se obično vide kroz 7 do 14 dana kada se istovremeno poprave kreativni hook, targetiranje i struktura landing stranice.',
+    },
+  ],
   '/faq': [
     {
       q: 'Koliko brzo mogu da očekujem prve marketing rezultate?',

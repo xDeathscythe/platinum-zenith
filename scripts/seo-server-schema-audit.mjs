@@ -113,7 +113,7 @@ const checks = [
   },
   {
     route: '/facebook-oglasi-ne-rade',
-    expect: { breadcrumb: true, faq: false, article: false, blogListing: false, routeSchema: true, noindex: false },
+    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: true, noindex: false },
   },
   {
     route: '/blog/google-ads-cena-po-kliku-srbija-2026',
