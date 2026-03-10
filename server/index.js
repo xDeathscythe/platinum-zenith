@@ -77,6 +77,27 @@ const LEGACY_REDIRECTS = new Map([
   ['/studije-slucaja', '/case-studies'],
 ])
 
+const INTERNAL_NOINDEX_PATHS = new Set([
+  '/dashboard',
+  '/prijave',
+  '/poruke',
+  '/newsletter',
+  '/emails',
+  '/analytics',
+  '/log',
+])
+
+function normalizePathForSeo(pathname = '/') {
+  const clean = String(pathname || '/').split('?')[0].split('#')[0].toLowerCase()
+  if (clean === '/') return '/'
+  return clean.replace(/\/+$/, '') || '/'
+}
+
+function shouldNoIndexPath(pathname = '/') {
+  const clean = normalizePathForSeo(pathname)
+  return clean.startsWith('/draft/') || INTERNAL_NOINDEX_PATHS.has(clean)
+}
+
 app.use((req, res, next) => {
   if (req.path === '/index.html') {
     const query = req.originalUrl.includes('?') ? req.originalUrl.slice(req.originalUrl.indexOf('?')) : ''
@@ -228,6 +249,7 @@ app.use((req, res) => {
   res.setHeader('Pragma', 'no-cache')
   res.setHeader('Expires', '0')
   res.setHeader('Surrogate-Control', 'no-store')
+  res.setHeader('X-Robots-Tag', shouldNoIndexPath(req.path) ? 'noindex, nofollow' : 'index, follow')
 
   const acceptEncoding = String(req.headers['accept-encoding'] || '').toLowerCase()
   const htmlBuffer = Buffer.from(html)

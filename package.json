@@ -26,6 +26,7 @@
     "seo:cache-policy": "node scripts/seo-cache-policy-audit.mjs",
     "seo:file-revalidation": "node scripts/seo-file-revalidation-audit.mjs",
     "seo:redirects": "node scripts/seo-redirect-audit.mjs",
+    "seo:xrobots": "node scripts/seo-xrobots-audit.mjs",
     "seo:robots": "node scripts/seo-robots-audit.mjs",
     "seo:headings": "node scripts/seo-headings-audit.mjs",
     "seo:landing-qa": "node scripts/seo-landing-qa.mjs",

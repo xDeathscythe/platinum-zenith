@@ -11,6 +11,7 @@ const checks = [
   { name: 'SEO redirects and legacy URL canonicalization', script: 'scripts/seo-redirect-audit.mjs' },
   { name: 'SEO file cache policy', script: 'scripts/seo-cache-policy-audit.mjs' },
   { name: 'SEO file revalidation (Last-Modified/304)', script: 'scripts/seo-file-revalidation-audit.mjs' },
+  { name: 'X-Robots-Tag header policy', script: 'scripts/seo-xrobots-audit.mjs' },
   { name: 'Robots index/noindex policy', script: 'scripts/seo-robots-audit.mjs' },
   { name: 'Heading hierarchy', script: 'scripts/seo-headings-audit.mjs' },
   { name: 'Image attributes', script: 'scripts/seo-image-audit.mjs' },
