@@ -203,9 +203,9 @@ export default function IzradaWordpressSajtaCenaPage() {
               <div className="text-[14px] font-medium text-ink mb-1">Cene izrade sajta</div>
               <div className="text-[12px] text-ink-3">Širi pregled po tipovima</div>
             </Link>
-            <Link to="/web-design" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
-              <div className="text-[14px] font-medium text-ink mb-1">Web design usluga</div>
-              <div className="text-[12px] text-ink-3">Kako radimo sajtove koji konvertuju</div>
+            <Link to="/instagram-reklame-cena" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Instagram reklame cena</div>
+              <div className="text-[12px] text-ink-3">Planiraj social budžet uz budžet sajta</div>
             </Link>
             <Link to="/google-reklame-cena" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
               <div className="text-[14px] font-medium text-ink mb-1">Google reklame cena</div>
@@ -264,6 +264,7 @@ export default function IzradaWordpressSajtaCenaPage() {
           }),
         }}
       />
+
     </div>
   )
 }

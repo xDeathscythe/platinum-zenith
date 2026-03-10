@@ -301,9 +301,9 @@ export default function GoogleReklameCenaPage() {
               <div className="text-[14px] font-medium text-ink mb-1">Instagram reklame cena</div>
               <div className="text-[12px] text-ink-3">Uporedi social i search budžete</div>
             </Link>
-            <Link to="/blog/google-ads-cena-po-kliku-srbija-2026" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
-              <div className="text-[14px] font-medium text-ink mb-1">Google Ads CPC po niši</div>
-              <div className="text-[12px] text-ink-3">Realni rasponi po industriji 2026</div>
+            <Link to="/izrada-wordpress-sajta-cena" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Izrada WordPress sajta cena</div>
+              <div className="text-[12px] text-ink-3">Uklopi budžet oglasa sa budžetom sajta</div>
             </Link>
             <Link to="/cene-digitalnog-marketinga" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
               <div className="text-[14px] font-medium text-ink mb-1">Cene digitalnog marketinga</div>

@@ -45,6 +45,7 @@
     "seo:links": "node scripts/seo-links-audit.mjs",
     "seo:link-integrity": "node scripts/seo-internal-link-integrity-audit.mjs",
     "seo:link-coverage": "node scripts/seo-link-coverage-audit.mjs",
+    "seo:money-cluster-linking": "node scripts/seo-money-cluster-linking-audit.mjs",
     "seo:blog-schema": "node scripts/seo-blog-schema-audit.mjs",
     "seo:article-og": "node scripts/seo-article-og-audit.mjs",
     "seo:meta-quality": "node scripts/seo-meta-quality-audit.mjs",
