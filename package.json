@@ -19,6 +19,7 @@
     "seo:links": "node scripts/seo-links-audit.mjs",
     "seo:blog-schema": "node scripts/seo-blog-schema-audit.mjs",
     "seo:meta-quality": "node scripts/seo-meta-quality-audit.mjs",
+    "seo:meta-quality:strict": "node scripts/seo-meta-quality-audit.mjs --strict",
     "seo:check": "node scripts/seo-check.mjs",
     "preview": "vite preview"
   },

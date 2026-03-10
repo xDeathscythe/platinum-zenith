@@ -10,7 +10,7 @@ const checks = [
   { name: 'Image attributes', script: 'scripts/seo-image-audit.mjs' },
   { name: 'Internal linking', script: 'scripts/seo-links-audit.mjs' },
   { name: 'Blog article schema', script: 'scripts/seo-blog-schema-audit.mjs' },
-  { name: 'Meta title/description quality', script: 'scripts/seo-meta-quality-audit.mjs' },
+  { name: 'Meta title/description quality', script: 'scripts/seo-meta-quality-audit.mjs', args: ['--strict'] },
   { name: 'Money page landing QA', script: 'scripts/seo-landing-qa.mjs' },
 ]
 
@@ -18,9 +18,10 @@ let hasFailure = false
 
 for (const check of checks) {
   const fullPath = path.join(root, check.script)
+  const args = [fullPath, ...(check.args || [])]
   console.log(`\n▶ ${check.name}`)
 
-  const result = spawnSync(process.execPath, [fullPath], {
+  const result = spawnSync(process.execPath, args, {
     stdio: 'inherit',
     env: process.env,
   })

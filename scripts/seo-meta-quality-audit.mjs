@@ -3,6 +3,7 @@ import path from 'path'
 import { pageMeta } from '../src/hooks/pageMetaData.js'
 
 const root = process.cwd()
+const strict = process.argv.includes('--strict')
 
 const TITLE_MIN = 35
 const TITLE_MAX = 80
@@ -59,6 +60,7 @@ console.log(`Pages checked: ${report.pagesChecked}`)
 console.log(`Issues: ${report.issuesCount}`)
 console.log(`Warnings: ${report.warningsCount}`)
 console.log(`Report: ${reportPath}`)
+if (strict) console.log('Mode: strict (warnings fail the check)')
 
 if (warnings.length > 0) {
   console.log('\nWarnings:')
@@ -69,5 +71,9 @@ if (warnings.length > 0) {
 if (issues.length > 0) {
   console.log('\nIssues:')
   issues.forEach((issue) => console.log(`- ${issue}`))
+  process.exitCode = 1
+}
+
+if (strict && warnings.length > 0) {
   process.exitCode = 1
 }
