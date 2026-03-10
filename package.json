@@ -24,6 +24,7 @@
     "seo:blog-schema": "node scripts/seo-blog-schema-audit.mjs",
     "seo:meta-quality": "node scripts/seo-meta-quality-audit.mjs",
     "seo:meta-quality:strict": "node scripts/seo-meta-quality-audit.mjs --strict",
+    "seo:meta-intent": "node scripts/seo-meta-intent-audit.mjs",
     "seo:check": "node scripts/seo-check.mjs",
     "preview": "vite preview"
   },

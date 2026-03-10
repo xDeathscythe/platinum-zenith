@@ -14,6 +14,7 @@ const checks = [
   { name: 'Open Graph image consistency', script: 'scripts/seo-og-image-audit.mjs' },
   { name: 'Blog article schema', script: 'scripts/seo-blog-schema-audit.mjs' },
   { name: 'Meta title/description quality', script: 'scripts/seo-meta-quality-audit.mjs', args: ['--strict'] },
+  { name: 'Meta intent keyword coverage', script: 'scripts/seo-meta-intent-audit.mjs' },
   { name: 'Money page landing QA', script: 'scripts/seo-landing-qa.mjs' },
 ]
 
