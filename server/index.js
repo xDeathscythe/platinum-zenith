@@ -71,10 +71,21 @@ app.use('/api', analyticsRoutes)
 app.use('/api/admin', adminRoutes)
 
 // SEO canonical redirects — prevent duplicate URLs
+const LEGACY_REDIRECTS = new Map([
+  ['/paketi', '/cene-digitalnog-marketinga'],
+  ['/studije-slucaja', '/case-studies'],
+])
+
 app.use((req, res, next) => {
   if (req.path === '/index.html') {
     const query = req.originalUrl.includes('?') ? req.originalUrl.slice(req.originalUrl.indexOf('?')) : ''
     return res.redirect(301, `/${query}`)
+  }
+
+  const legacyTarget = LEGACY_REDIRECTS.get(req.path)
+  if (legacyTarget) {
+    const query = req.originalUrl.includes('?') ? req.originalUrl.slice(req.originalUrl.indexOf('?')) : ''
+    return res.redirect(301, `${legacyTarget}${query}`)
   }
 
   if (req.path !== '/' && req.path.endsWith('/') && !req.path.startsWith('/api')) {

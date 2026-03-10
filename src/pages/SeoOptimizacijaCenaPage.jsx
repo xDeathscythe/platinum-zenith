@@ -134,7 +134,7 @@ export default function SeoOptimizacijaCenaPage() {
             <p>Počinjemo sa detaljnim auditom vašeg sajta. Gledamo tehničke greške, brzinu učitavanja, strukturu sadržaja i profil linkova. Na osnovu toga pravimo plan sa jasnim prioritetima.</p>
             <p>Fokusiramo se na ključne reči koje vaši potencijalni kupci zaista pretražuju. Ne one sa najviše pretraga, nego one sa najboljom namerom kupovine. Razlika je kao između "šta je SEO" i "SEO agencija Zrenjanin".</p>
             <p>Svaki mesec dobijate izveštaj sa konkretnim brojevima. Pozicije, saobraćaj, konverzije. Bez marketinških fraza, samo podaci na osnovu kojih možete da donesete odluku.</p>
-            <p>Za ozbiljne projekte nudimo <Link to="/paketi" className="text-ink underline">revenue share model</Link>. Naša zarada je direktno vezana za vaš rast, što znači da imamo isti cilj.</p>
+            <p>Za ozbiljne projekte nudimo <Link to="/cene-digitalnog-marketinga" className="text-ink underline">revenue share model</Link>. Naša zarada je direktno vezana za vaš rast, što znači da imamo isti cilj.</p>
           </div>
         </div>
       </section>

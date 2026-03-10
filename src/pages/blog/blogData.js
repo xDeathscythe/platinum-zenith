@@ -4181,7 +4181,7 @@ Uzmite vašu glavnu ponudu i proverite svaku polugu:
 
 Ako bilo koja od ove četiri stavke nije jasna, tu gubite klijente. Ne na ceni.
 
-Pogledajte kako mi pristupamo izgradnji ponuda u našim [paketima](/paketi) i zašto naši klijenti plaćaju premium bez pregovaranja.
+Pogledajte kako mi pristupamo izgradnji ponuda u našim [cenama i modelima saradnje](/cene-digitalnog-marketinga) i zašto naši klijenti plaćaju premium bez pregovaranja.
 
 Takođe preporučujemo: [Kako napisati ponudu koja zatvara posao](/blog/kako-napisati-ponudu-koja-zatvara-posao).
 
@@ -4296,7 +4296,7 @@ Neko treba samo postavljanje Google Ads kampanje. Neko treba kompletnu strategij
 
 Nema jednog odgovora za sve. Ali postoji pravi odgovor za vas, i obično je jednostavniji nego što mislite.
 
-Pogledajte naše [pakete](/paketi) ili pročitajte detaljnije o [cenama digitalnog marketinga](/cene-digitalnog-marketinga) u Srbiji.
+Pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga) i uporedite model saradnje koji najbolje odgovara vašoj fazi rasta.
 
 Takođe preporučujemo: [Lead magneti koji zapravo konvertuju](/blog/lead-magneti-koji-zapravo-konvertuju).
 
@@ -5365,6 +5365,271 @@ SEO je sporiji od oglasa na početku, ali je dugoročno stabilniji i profitabiln
 Ako tražite rezultat "odmah", SEO nije pravi prvi potez. Ako gradite kanal koji za 6-12 meseci može da nosi ozbiljan deo pipeline-a, SEO je jedan od najboljih poteza koje možete napraviti.
 
 Za konkretan plan po vašoj niši pogledajte [SEO optimizacija cena](/seo-optimizacija-cena), [cene digitalnog marketinga](/cene-digitalnog-marketinga) i javite se preko [kontakt forme](/kontakt).
+`,
+  },
+  {
+    slug: 'google-business-profil-optimizacija-cena-srbija-2026',
+    title: 'Google Business profil optimizacija: cena u Srbiji 2026 i šta realno dobijate',
+    excerpt: 'Ako vam traže od 50€ do 1.000€ za Google Business optimizaciju, nije ista usluga. Evo realnih raspona cena, šta mora da uđe u posao i kako da merite da li vam se ulaganje isplati.',
+    date: '2026-03-10',
+    category: 'SEO',
+    readTime: '9 min',
+    content: `
+## Zašto je Google Business profil jedan od najisplativijih kanala za lokalne firme
+
+Kad neko ukuca "stomatolog Novi Sad", "advokat Beograd" ili "restoran blizu mene", odluka se često donosi pre nego što korisnik uopšte klikne na sajt.
+
+Prvo vidi mapu, ocene, fotografije i kratke informacije iz Google Business profila.
+
+Zato Google Business optimizacija nije kozmetika. To je direktan kanal za pozive, poruke i upite.
+
+## Kratak odgovor: koliko košta Google Business optimizacija u Srbiji
+
+U 2026. najčešći raspon je:
+- **jednokratni setup:** 150-500€
+- **mesečna optimizacija:** 120-600€ mesečno
+- **lokalni SEO + GBP paket:** 300-1.200€ mesečno
+
+Ako je cena preniska, obično dobijate samo osnovno popunjavanje profila. Ako je previsoka bez jasnog plana i metrika, plaćate "pakovanje" bez stvarnog efekta.
+
+## Šta ulazi u cenu (i šta obavezno treba da tražite)
+
+### 1) Tehnički setup profila
+
+Osnovne stvari koje moraju biti urađene kako treba:
+- tačan naziv, kategorije i podkategorije,
+- NAP konzistentnost (name/address/phone) kroz sve kanale,
+- radno vreme, usluge i opis sa lokalnim ključnim rečima,
+- pravilno podešeni CTA dugmići (poziv, poruka, sajt, ruta).
+
+Bez ovoga ne postoji dobra osnova.
+
+### 2) On-page optimizacija unutar profila
+
+Ovde se obično pravi razlika između proseka i dobrog profila:
+- sekcija usluga sa jasnim opisima,
+- optimizovan business description,
+- Q&A sekcija sa pravim pitanjima,
+- proizvodi/ponude gde ima smisla,
+- redovne objave sa lokalnim intent-om.
+
+### 3) Upravljanje recenzijama
+
+Recenzije su jedan od najjačih lokalnih ranking i trust signala.
+
+Dobar paket uključuje:
+- strategiju prikupljanja recenzija,
+- template-e za zahtev recenzije,
+- odgovore na pozitivne i negativne recenzije,
+- praćenje prosečne ocene i sentimenta.
+
+### 4) Foto i vizuelna optimizacija
+
+Ljudi biraju očima. Profil bez kvalitetnih fotografija gubi klikove čak i kad se dobro rangira.
+
+Minimum:
+- naslovna + logo + enterijer/eksterijer,
+- tim/usluga/proces,
+- mesečno osvežavanje sadržaja.
+
+### 5) Lokalni SEO povezivanje sa sajtom
+
+Google Business sam ne rešava sve. Najbolji rezultat dolazi kad je povezan sa ciljanim landing stranicama.
+
+Na primer: profil vodi na stranicu kao što je [marketing agencija Zrenjanin](/marketing-agencija-zrenjanin), dok je šira strategija pokrivena kroz [SEO optimizacija cena](/seo-optimizacija-cena).
+
+## Raspon cena po nivou usluge
+
+### Basic (150-300€ setup ili 120-200€ mesečno)
+
+Dobijate osnovno sređivanje profila i povremene objave.
+
+Dovoljno za firme koje tek kreću i nemaju konkurentnu lokalnu nišu.
+
+### Growth (300-700€ mesečno)
+
+Pored setup-a ide aktivna optimizacija, recenzije, sadržaj i monitoring.
+
+Ovo je najčešći sweet spot za ordinacije, salone, restorane i uslužne biznise.
+
+### Performance lokalni paket (700-1.200€+ mesečno)
+
+Uključuje lokalni SEO cluster (profil + landing stranice + tracking + testiranje ponuda), često u kombinaciji sa plaćenim kampanjama kao što je [Google reklame cena](/google-reklame-cena).
+
+Za biznise koji žele agresivniji rast i jasnu kontrolu po lead-u.
+
+## Kako da proverite da li ponuda vredi
+
+Ne gledajte samo cenu. Tražite 5 konkretnih stvari:
+1. Koji KPI se prati svakog meseca?
+2. Kako izgleda plan recenzija?
+3. Koliko objava ide i sa kojim ciljem?
+4. Kako je rešeno merenje poziva i upita?
+5. Ko je odgovoran za korekcije ako rezultat kasni?
+
+Ako agencija ne može jasno da odgovori, verovatno ne kupujete sistem nego "održavanje prisustva".
+
+## Koje metrike treba da rastu
+
+U prvih 60-90 dana zdravog rada treba da vidite:
+- više prikaza u Google Maps rezultatima,
+- rast akcija (poziv, poruka, ruta, klik ka sajtu),
+- bolji odnos profila prema lokalnim konkurentima,
+- više upita sa lokalnom namerom.
+
+Ako se prate samo "pregledi", bez poslovnih akcija, to nije dovoljno.
+
+## Najčešće greške koje prave firme
+
+### Greška 1: Profil se otvori i ostavi bez aktivnosti
+
+To je kao da otvorite lokal bez radnog vremena i bez table.
+
+### Greška 2: NAP podaci nisu usklađeni
+
+Različit broj telefona ili adresa na sajtu, mrežama i direktorijumima ruši poverenje signala.
+
+### Greška 3: Nema procesa za recenzije
+
+Bez kontinuiteta recenzija profil stagnira, čak i kad je tehnički lepo sređen.
+
+### Greška 4: Nema veze sa ponudom i prodajom
+
+Profil mora da vodi ka jasnoj sledećoj akciji: poziv, termin, upit.
+
+Ako želite da sredite i prodajni deo posle klika, pogledajte i [cene digitalnog marketinga](/cene-digitalnog-marketinga) i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+
+## Zaključak
+
+Google Business optimizacija je jedan od retkih kanala gde relativno malo ulaganje može brzo da vrati vrednost, posebno za lokalne usluge.
+
+Ako želite da procenimo vaš profil i damo realan plan po niši i gradu, javite se preko [kontakt forme](/kontakt).
+`,
+  },
+  {
+    slug: 'cena-odrzavanja-wordpress-sajta-srbija-2026',
+    title: 'Cena održavanja WordPress sajta u Srbiji 2026: šta ulazi i koliko realno košta',
+    excerpt: 'Nije isto da li neko samo klikne update jednom mesečno ili aktivno čuva sajt od pada, hakovanja i gubitka leadova. Evo realnih cena održavanja WordPress sajta u Srbiji i šta mora da bude uključeno.',
+    date: '2026-03-10',
+    category: 'WordPress',
+    readTime: '8 min',
+    content: `
+## Koliko košta održavanje WordPress sajta u Srbiji
+
+Ako želite kratak odgovor: u 2026. najčešći raspon za održavanje WordPress sajta je **50€ do 400€ mesečno**.
+
+Za jednostavan prezentacioni sajt obično je dovoljno 50-120€ mesečno. Za ozbiljniji poslovni sajt ili WooCommerce web shop, realnije je 150-400€ mesečno.
+
+Problem je što "održavanje" nije standardizovana usluga. Kod jedne agencije to znači 15 minuta mesečno. Kod druge znači aktivan monitoring, backup, sigurnost i tehnička podrška.
+
+## Šta ulazi u cenu održavanja (i šta mora da bude jasno u ponudi)
+
+### 1) Tehnički update-i
+
+- WordPress core update
+- update tema i plugin-ova
+- test kompatibilnosti posle update-a
+
+Ako nema testiranja, update može da pokvari formu, checkout ili mobilni prikaz.
+
+### 2) Backup i plan oporavka
+
+Minimalno: dnevni ili nedeljni backup + jasno vreme vraćanja sajta.
+
+Dobar paket održavanja mora da kaže:
+- gde se backup čuva,
+- koliko dugo se čuva,
+- koliko brzo sajt može da se vrati online.
+
+### 3) Security monitoring
+
+WordPress sajt bez sigurnosnog nadzora je otvorena meta.
+
+Tražite da paket uključuje:
+- malware scan,
+- brute-force zaštitu,
+- hardening login-a,
+- redovan pregled sigurnosnih logova.
+
+### 4) Performance održavanje
+
+Ako je sajt spor, plaćate skuplji klik i dobijate manje upita.
+
+Zato održavanje treba da pokrije i:
+- optimizaciju slika,
+- cache i minify kontrolu,
+- proveru Core Web Vitals trendova,
+- uklanjanje plugin bloat-a.
+
+### 5) Podrška za sadržaj i manje izmene
+
+Većini firmi treba i "operativna" pomoć:
+- izmena teksta,
+- dodavanje sekcije,
+- objava bloga,
+- sitne UX korekcije.
+
+Ako to nije uključeno, dobićete dodatne sate i neplaniran trošak.
+
+## Realni paketi održavanja u praksi
+
+### Basic (50-120€ / mesec)
+
+Za male prezentacione sajtove bez čestih izmena.
+
+Tipično uključuje:
+- update + backup,
+- osnovni security plugin,
+- 1-2 manje izmene mesečno.
+
+### Growth (120-250€ / mesec)
+
+Za firme kojima sajt aktivno donosi upite.
+
+Tipično uključuje:
+- sve iz Basic paketa,
+- proaktivni monitoring,
+- performance održavanje,
+- brži support response.
+
+### Commerce / Lead-Gen Pro (250-400€+ / mesec)
+
+Za web shop i sajtove gde pad sajta direktno znači gubitak prodaje.
+
+Tipično uključuje:
+- prioritetni support,
+- napredni security,
+- staging testiranje pre većih update-a,
+- redovne tehničke izveštaje i preporuke.
+
+## Najskuplja greška: "najjeftinije održavanje"
+
+Najjeftinija ponuda često izgleda dobro dok se ne desi problem.
+
+Kad padne forma za upit ili checkout ne radi 48 sati, šteta je mnogo veća od razlike između 80€ i 200€ mesečno.
+
+Održavanje nije trošak koji samo "mora da postoji". To je osiguranje prihoda i reputacije.
+
+## Kako da znaš da li je ponuda za održavanje dobra
+
+Pre potpisivanja traži 6 konkretnih odgovora:
+
+1. Koliko često i kada se rade update-i?
+2. Da li postoji staging pre većih izmena?
+3. Koji je realan response time za hitne probleme?
+4. Gde su backup-i i koliko dugo se čuvaju?
+5. Da li paket uključuje i performance proveru?
+6. Šta je uključeno u mesečne izmene, a šta se dodatno naplaćuje?
+
+Ako su odgovori nejasni, dobićete nejasan rezultat.
+
+Za širu sliku troška sajta pogledajte i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+Ako želite da povežete održavanje sa rastom organskog saobraćaja, pogledajte [SEO optimizacija cena](/seo-optimizacija-cena).
+Za kontekst performansi landing stranica, korisno je i [izrada landing stranice: cena, rokovi, šta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
+
+---
+
+Ako želite da procenimo vaš trenutni sajt i damo realan plan održavanja po prioritetima, javite se kroz [kontakt formu](/kontakt).
 `,
   }
 

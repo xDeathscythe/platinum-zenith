@@ -243,7 +243,7 @@ export default function AgencijaVsFreelancerPage() {
               <div className="text-[14px] font-medium text-ink mb-1">Cene izrade sajta</div>
               <div className="text-[12px] text-ink-3">Koliko košta sajt u Srbiji 2026</div>
             </Link>
-            <Link to="/paketi" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+            <Link to="/cene-digitalnog-marketinga" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
               <div className="text-[14px] font-medium text-ink mb-1">Naši paketi</div>
               <div className="text-[12px] text-ink-3">Starter, Growth, Enterprise</div>
             </Link>

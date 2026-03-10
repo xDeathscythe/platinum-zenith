@@ -9,6 +9,7 @@ const checks = [
   { name: 'Heading hierarchy', script: 'scripts/seo-headings-audit.mjs' },
   { name: 'Image attributes', script: 'scripts/seo-image-audit.mjs' },
   { name: 'Internal linking', script: 'scripts/seo-links-audit.mjs' },
+  { name: 'Internal link integrity (no broken internal URLs)', script: 'scripts/seo-internal-link-integrity-audit.mjs' },
   { name: 'Feed/Sitemap consistency', script: 'scripts/seo-feed-sitemap-audit.mjs' },
   { name: 'Server-side schema injection', script: 'scripts/seo-server-schema-audit.mjs' },
   { name: 'Breadcrumb coverage (all public routes)', script: 'scripts/seo-breadcrumb-coverage-audit.mjs' },
