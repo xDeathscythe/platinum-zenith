@@ -6,6 +6,9 @@ import { blogPosts } from '../src/pages/blog/blogData.js'
 const SITE_URL = 'https://platinumzenith.com'
 const today = new Date().toISOString().slice(0, 10)
 
+const root = process.cwd()
+const appPath = path.join(root, 'src', 'App.jsx')
+
 const INTERNAL_EXCLUDE = new Set([
   '/dashboard',
   '/prijave',
@@ -87,6 +90,80 @@ function createUrl(loc, lastmod, changefreq, priority) {
   return `  <url><loc>${xmlEscape(loc)}</loc><lastmod>${lastmod}</lastmod><changefreq>${changefreq}</changefreq><priority>${priority}</priority></url>`
 }
 
+function parseComponentImportMap(appText) {
+  const map = new Map()
+
+  const lazyRe = /const\s+(\w+)\s*=\s*lazy\(\(\)\s*=>\s*import\('([^']+)'\)\)/g
+  for (const match of appText.matchAll(lazyRe)) {
+    map.set(match[1], match[2])
+  }
+
+  const staticRe = /import\s+(\w+)\s+from\s+'([^']+)'/g
+  for (const match of appText.matchAll(staticRe)) {
+    map.set(match[1], match[2])
+  }
+
+  return map
+}
+
+function parseRouteComponentMap(appText) {
+  const map = new Map()
+  const routeRe = /<Route\s+path="([^"]+)"\s+element=\{<([A-Za-z0-9_]+)\s*\/>\}/g
+
+  for (const match of appText.matchAll(routeRe)) {
+    const route = normalize(match[1].startsWith('/') ? match[1] : `/${match[1]}`)
+    const componentName = match[2]
+    if (!route.includes(':') && !route.includes('*')) {
+      map.set(route, componentName)
+    }
+  }
+
+  return map
+}
+
+function resolveComponentFile(importPath) {
+  if (!importPath || !importPath.startsWith('./')) return null
+
+  const rel = importPath.replace(/^\.\//, '')
+  const candidates = [
+    path.join(root, 'src', `${rel}.jsx`),
+    path.join(root, 'src', `${rel}.js`),
+  ]
+
+  for (const candidate of candidates) {
+    if (fs.existsSync(candidate)) return candidate
+  }
+
+  return null
+}
+
+function toDateOnlyFromMtime(filePath) {
+  if (!filePath) return today
+  try {
+    const mtime = fs.statSync(filePath).mtime
+    return mtime.toISOString().slice(0, 10)
+  } catch {
+    return today
+  }
+}
+
+function buildStaticRouteLastmodMap() {
+  const appText = fs.readFileSync(appPath, 'utf8')
+  const importMap = parseComponentImportMap(appText)
+  const routeComponentMap = parseRouteComponentMap(appText)
+
+  const routeLastmodMap = new Map()
+  for (const [route, componentName] of routeComponentMap.entries()) {
+    const importPath = importMap.get(componentName)
+    const filePath = resolveComponentFile(importPath)
+    routeLastmodMap.set(route, toDateOnlyFromMtime(filePath))
+  }
+
+  return routeLastmodMap
+}
+
+const routeLastmodMap = buildStaticRouteLastmodMap()
+
 const staticRoutes = Object.keys(pageMeta)
   .map(normalize)
   .filter((route) => !INTERNAL_EXCLUDE.has(route) && !route.startsWith('/draft/'))
@@ -97,7 +174,7 @@ const staticUrls = uniqueStaticRoutes
   .sort((a, b) => a.localeCompare(b))
   .map((route) => createUrl(
     `${SITE_URL}${route === '/' ? '' : route}`,
-    today,
+    routeLastmodMap.get(route) || today,
     getChangefreq(route),
     getPriority(route),
   ))
