@@ -13,7 +13,7 @@ function read(file) {
 
 const INTERNAL_SKIP = new Set(['/log', '/dashboard', '/prijave', '/poruke', '/newsletter', '/emails', '/analytics'])
 
-function parseRoutes(appText) {
+function parseStaticRoutes(appText) {
   const routes = [...appText.matchAll(/<Route\s+path="([^"]+)"/g)]
     .map((m) => m[1])
     .map((r) => (r.startsWith('/') ? r : `/${r}`))
@@ -22,25 +22,31 @@ function parseRoutes(appText) {
 
   for (const route of routes) {
     if (route.includes('*')) continue
-
-    if (route === '/blog/:slug') {
-      const sample = blogPosts.find((p) => p?.slug && !p?.isDraft)
-      if (sample?.slug) out.add(`/blog/${sample.slug}`)
-      continue
-    }
-
-    if (route === '/draft/:slug') {
-      const draft = blogPosts.find((p) => p?.slug && p?.isDraft)
-      if (draft?.slug) out.add(`/draft/${draft.slug}`)
-      continue
-    }
-
     if (route.includes(':')) continue
     if (INTERNAL_SKIP.has(route)) continue
     out.add(route)
   }
 
   return [...out]
+}
+
+function collectBlogRoutes() {
+  const uniquePublicPosts = [...new Map(
+    blogPosts
+      .filter((post) => post?.slug && !post?.isDraft)
+      .map((post) => [post.slug, post]),
+  ).values()]
+
+  const uniqueDraftPosts = [...new Map(
+    blogPosts
+      .filter((post) => post?.slug && post?.isDraft)
+      .map((post) => [post.slug, post]),
+  ).values()]
+
+  return {
+    publicRoutes: uniquePublicPosts.map((post) => `/blog/${post.slug}`),
+    draftRoutes: uniqueDraftPosts.map((post) => `/draft/${post.slug}`),
+  }
 }
 
 function extractMeta(html, regex) {
@@ -50,7 +56,9 @@ function extractMeta(html, regex) {
 
 const appText = read(appPath)
 const htmlTemplate = read(htmlPath)
-const routes = parseRoutes(appText)
+const staticRoutes = parseStaticRoutes(appText)
+const { publicRoutes: blogRoutes, draftRoutes } = collectBlogRoutes()
+const routes = [...new Set([...staticRoutes, ...blogRoutes, ...draftRoutes])]
 
 const issues = []
 const warnings = []
@@ -60,6 +68,7 @@ for (const route of routes) {
 
   const ogTitle = extractMeta(out, /<meta\s+property="og:title"\s+content="([^"]+)"\s*\/>/i)
   const ogDesc = extractMeta(out, /<meta\s+property="og:description"\s+content="([^"]+)"\s*\/>/i)
+  const ogType = extractMeta(out, /<meta\s+property="og:type"\s+content="([^"]+)"\s*\/>/i)
   const twTitle = extractMeta(out, /<meta\s+name="twitter:title"\s+content="([^"]+)"\s*\/>/i)
   const twDesc = extractMeta(out, /<meta\s+name="twitter:description"\s+content="([^"]+)"\s*\/>/i)
   const twCard = extractMeta(out, /<meta\s+name="twitter:card"\s+content="([^"]+)"\s*\/>/i)
@@ -69,6 +78,12 @@ for (const route of routes) {
   if (!twTitle) issues.push(`${route}: missing twitter:title`)
   if (!twDesc) issues.push(`${route}: missing twitter:description`)
   if (!twCard) issues.push(`${route}: missing twitter:card`)
+
+  const isBlogLike = route.startsWith('/blog/') || route.startsWith('/draft/')
+  const expectedOgType = isBlogLike ? 'article' : 'website'
+  if (ogType !== expectedOgType) {
+    issues.push(`${route}: og:type expected ${expectedOgType}, got ${ogType || 'missing'}`)
+  }
 
   if (ogTitle && twTitle && ogTitle !== twTitle) {
     issues.push(`${route}: twitter:title differs from og:title`)
@@ -93,6 +108,9 @@ for (const route of routes) {
 
 const report = {
   generatedAt: new Date().toISOString(),
+  staticRoutesChecked: staticRoutes.length,
+  blogRoutesChecked: blogRoutes.length,
+  draftRoutesChecked: draftRoutes.length,
   routesChecked: routes.length,
   issueCount: issues.length,
   warningCount: warnings.length,
@@ -104,7 +122,7 @@ const reportPath = path.join(root, 'seo-social-meta-audit-report.json')
 fs.writeFileSync(reportPath, JSON.stringify(report, null, 2), 'utf8')
 
 console.log('Social meta audit complete')
-console.log(`Routes checked: ${report.routesChecked}`)
+console.log(`Routes checked: ${report.routesChecked} (static=${report.staticRoutesChecked}, blog=${report.blogRoutesChecked}, draft=${report.draftRoutesChecked})`)
 console.log(`Issues: ${report.issueCount}`)
 console.log(`Warnings: ${report.warningCount}`)
 console.log(`Report: ${reportPath}`)
