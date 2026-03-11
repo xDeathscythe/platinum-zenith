@@ -24,7 +24,8 @@ function CalInlineEmbed() {
 
 export default function ContactPage() {
   const [status, setStatus] = useState('idle')
-  const [formData, setFormData] = useState({ name: '', email: '', company: '', message: '' })
+  const [formStartedAt, setFormStartedAt] = useState(() => Date.now())
+  const [formData, setFormData] = useState({ name: '', email: '', company: '', message: '', website: '' })
 
   const handleSubmit = async (e) => {
     e.preventDefault()
@@ -39,12 +40,15 @@ export default function ContactPage() {
           email: formData.email,
           company: formData.company,
           message: formData.message,
+          website: formData.website,
+          formTs: formStartedAt,
         }),
       })
 
       if (res.ok) {
         setStatus('sent')
-        setFormData({ name: '', email: '', company: '', message: '' })
+        setFormData({ name: '', email: '', company: '', message: '', website: '' })
+        setFormStartedAt(Date.now())
       } else {
         setStatus('error')
       }
@@ -160,6 +164,19 @@ export default function ContactPage() {
                   <label className="text-[13px] text-ink-2 block mb-1.5">Poruka *</label>
                   <textarea rows={4} required value={formData.message} onChange={handleChange('message')}
                     className="w-full bg-tint border border-edge-2 rounded-[11px] px-4 py-3 text-ink text-[15px] focus:outline-none focus:border-edge resize-none" />
+                </div>
+
+                {/* Honeypot field (hidden for humans, catches basic bots) */}
+                <div className="hidden" aria-hidden="true">
+                  <label htmlFor="website">Website</label>
+                  <input
+                    id="website"
+                    type="text"
+                    tabIndex={-1}
+                    autoComplete="off"
+                    value={formData.website}
+                    onChange={handleChange('website')}
+                  />
                 </div>
 
                 {status === 'error' && (
