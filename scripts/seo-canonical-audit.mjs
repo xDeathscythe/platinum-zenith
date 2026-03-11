@@ -71,6 +71,9 @@ function checkRendered(routeLabel, expected, rendered) {
   }
 }
 
+let trailingSlashAliasChecks = 0
+let queryHashAliasChecks = 0
+
 for (const route of routes) {
   const normalized = normalizePath(route)
   const expected = `${SITE_URL}${normalized === '/' ? '/' : normalized}`
@@ -81,16 +84,32 @@ for (const route of routes) {
   // Canonical normalization check for trailing slash alias (non-root)
   if (normalized !== '/') {
     const slashAlias = `${normalized}/`
+    trailingSlashAliasChecks += 1
     checkRendered(slashAlias, expected, injectOgMeta(htmlTemplate, slashAlias))
+
+    const queryAlias = `${normalized}?utm_source=seo-audit&utm_medium=heartbeat`
+    const hashAlias = `${normalized}#faq`
+    const queryHashAlias = `${normalized}?ref=internal#pricing`
+
+    queryHashAliasChecks += 3
+    checkRendered(queryAlias, expected, injectOgMeta(htmlTemplate, queryAlias))
+    checkRendered(hashAlias, expected, injectOgMeta(htmlTemplate, hashAlias))
+    checkRendered(queryHashAlias, expected, injectOgMeta(htmlTemplate, queryHashAlias))
+  } else {
+    const rootQueryAlias = '/?utm_source=seo-audit'
+    const rootHashAlias = '/#hero'
+    queryHashAliasChecks += 2
+    checkRendered(rootQueryAlias, expected, injectOgMeta(htmlTemplate, rootQueryAlias))
+    checkRendered(rootHashAlias, expected, injectOgMeta(htmlTemplate, rootHashAlias))
   }
 }
 
-const aliasChecks = routes.filter((r) => normalizePath(r) !== '/').length
 const report = {
   generatedAt: new Date().toISOString(),
   routeCount: routes.length,
-  aliasChecks,
-  totalChecks: routes.length + aliasChecks,
+  trailingSlashAliasChecks,
+  queryHashAliasChecks,
+  totalChecks: routes.length + trailingSlashAliasChecks + queryHashAliasChecks,
   issueCount: issues.length,
   issues,
 }

@@ -301,8 +301,10 @@ const SERVER_ROUTE_SCHEMAS = {
   '/instagram-reklame-cena': {
     '@context': 'https://schema.org',
     '@type': 'Service',
-    name: 'Instagram oglašavanje i optimizacija kampanja',
-    serviceType: 'Instagram advertising',
+    '@id': `${SITE_URL}/instagram-reklame-cena#service`,
+    name: 'Instagram Ads upravljanje kampanjama',
+    description: 'Instagram Ads upravljanje sa jasnim budžetskim fazama, realnom cenom vođenja kampanja i fokusom na kvalitetne upite i prodaju.',
+    serviceType: 'Instagram advertising management',
     url: `${SITE_URL}/instagram-reklame-cena`,
     areaServed: {
       '@type': 'Country',
@@ -312,6 +314,62 @@ const SERVER_ROUTE_SCHEMAS = {
       '@type': 'Organization',
       name: 'Platinum Zenith',
       url: SITE_URL,
+    },
+    offers: {
+      '@type': 'AggregateOffer',
+      priceCurrency: 'EUR',
+      lowPrice: '200',
+      highPrice: '5000',
+      offerCount: '4',
+    },
+    hasOfferCatalog: {
+      '@type': 'OfferCatalog',
+      name: 'Instagram Ads budžetske faze',
+      itemListElement: [
+        {
+          '@type': 'Offer',
+          name: 'Test faza',
+          description: 'Za firme koje prvi put kreću sa Instagram oglasima i žele da validiraju kreativu i publiku.',
+          priceSpecification: {
+            '@type': 'PriceSpecification',
+            priceCurrency: 'EUR',
+            minPrice: '200',
+            maxPrice: '600',
+          },
+        },
+        {
+          '@type': 'Offer',
+          name: 'Stabilan rast',
+          description: 'Za firme koje žele predvidljiv priliv upita kroz prospecting i retargeting kampanje.',
+          priceSpecification: {
+            '@type': 'PriceSpecification',
+            priceCurrency: 'EUR',
+            minPrice: '600',
+            maxPrice: '1800',
+          },
+        },
+        {
+          '@type': 'Offer',
+          name: 'Skaliranje',
+          description: 'Za biznise koji su dokazali da Instagram donosi prodaju i žele rast bez pada profitabilnosti.',
+          priceSpecification: {
+            '@type': 'PriceSpecification',
+            priceCurrency: 'EUR',
+            minPrice: '1800',
+            maxPrice: '5000',
+          },
+        },
+        {
+          '@type': 'Offer',
+          name: 'Enterprise',
+          description: 'Za veće sisteme i više tržišta sa dedikovanim timom i naprednom atribucijom rezultata.',
+          priceSpecification: {
+            '@type': 'PriceSpecification',
+            priceCurrency: 'EUR',
+            minPrice: '5000',
+          },
+        },
+      ],
     },
   },
   '/izrada-wordpress-sajta-cena': {
@@ -462,6 +520,7 @@ const SERVER_ROUTE_SCHEMAS = {
     '@context': 'https://schema.org',
     '@type': 'Service',
     name: 'SEO optimizacija cena',
+    description: 'SEO optimizacija sa jasnim paketima, tehničkim auditom, planom sadržaja i mesečnim optimizacijama za rast organskog saobraćaja.',
     serviceType: 'SEO services',
     url: `${SITE_URL}/seo-optimizacija-cena`,
     areaServed: {
@@ -472,6 +531,52 @@ const SERVER_ROUTE_SCHEMAS = {
       '@type': 'Organization',
       name: 'Platinum Zenith',
       url: SITE_URL,
+    },
+    offers: {
+      '@type': 'AggregateOffer',
+      priceCurrency: 'EUR',
+      lowPrice: '300',
+      highPrice: '3000',
+      offerCount: '3',
+    },
+    hasOfferCatalog: {
+      '@type': 'OfferCatalog',
+      name: 'SEO paketi',
+      itemListElement: [
+        {
+          '@type': 'Offer',
+          name: 'Osnovni SEO',
+          description: 'Tehničke SEO osnove i lokalna vidljivost',
+          priceSpecification: {
+            '@type': 'PriceSpecification',
+            priceCurrency: 'EUR',
+            minPrice: '300',
+            maxPrice: '500',
+          },
+        },
+        {
+          '@type': 'Offer',
+          name: 'Napredni SEO',
+          description: 'Content + tehnička optimizacija za stabilan rast',
+          priceSpecification: {
+            '@type': 'PriceSpecification',
+            priceCurrency: 'EUR',
+            minPrice: '500',
+            maxPrice: '1200',
+          },
+        },
+        {
+          '@type': 'Offer',
+          name: 'Premium SEO',
+          description: 'Agresivniji SEO za konkurentne niše',
+          priceSpecification: {
+            '@type': 'PriceSpecification',
+            priceCurrency: 'EUR',
+            minPrice: '1200',
+            maxPrice: '3000',
+          },
+        },
+      ],
     },
   },
   '/cene-izrade-sajta': {
@@ -810,20 +915,32 @@ const serverFaqByPath = {
   ],
   '/instagram-reklame-cena': [
     {
-      q: 'Da li Instagram reklame rade za manje budžete?',
-      a: 'Da, ali je važno da kampanja ima jasan cilj i dobar kreativni format. Rezultati su stabilniji kada se radi kroz test fazu pre skaliranja.',
+      q: 'Koliko je realno potrebno za početak?',
+      a: 'Praktičan minimum je oko 200-300€ za medijski budžet plus upravljanje. Ispod toga je teško doneti kvalitetne zaključke iz podataka.',
     },
     {
       q: 'Koliko košta vođenje Instagram kampanja?',
-      a: 'Za manje naloge vođenje je najčešće 120–280€ mesečno, dok je za aktivnije naloge sa redovnim testovima uglavnom 250–650€ mesečno.',
+      a: 'Za manje naloge vođenje je najčešće 120-280€ mesečno, dok je za aktivnije naloge sa redovnim testovima uglavnom 250-650€ mesečno. Veći budžeti često idu kroz enterprise model ili procenat od medija.',
     },
     {
-      q: 'Šta najviše podiže cenu Instagram kampanja?',
-      a: 'Najčešće su problem loša poruka oglasa, neprecizno targetiranje i slaba stranica na koju korisnik dolazi nakon klika.',
+      q: 'Da li Instagram oglasi rade i za uslužne biznize?',
+      a: 'Da, posebno kada postoji jasan problem i dobra ponuda. Ključ je kvalitetan hook i jasna sledeća akcija na landing stranici.',
+    },
+    {
+      q: 'Koliko brzo se vide rezultati?',
+      a: 'Prve signale vidite brzo, ali za stabilne brojke i ozbiljnu optimizaciju obično treba 2-4 nedelje kontinuiranog rada.',
+    },
+    {
+      q: 'Instagram ili Facebook oglasi?',
+      a: 'U praksi su to iste Meta kampanje, ali format i ponašanje publike su različiti. Najčešće najbolje radi kombinacija oba placement-a.',
+    },
+    {
+      q: 'Da li je UGC obavezan?',
+      a: 'Nije obavezan, ali često značajno pomaže performanse jer izgleda prirodnije i gradi poverenje brže nego klasičan polished ad.',
     },
     {
       q: 'Koliko koštaju Instagram Reels reklame u Srbiji?',
-      a: 'Za većinu niša Reels CPM je najčešće između 2,5€ i 8,5€, dok CPC često ulazi u raspon 0,07–0,32€. Konačna cena po rezultatu najviše zavisi od hook-a, kreative i kvaliteta landing stranice.',
+      a: 'Za većinu niša Reels CPM je najčešće između 2,5€ i 8,5€, dok CPC često ulazi u raspon 0,07-0,32€. Konačna cena po rezultatu zavisi od hook-a, kreative i kvaliteta landing stranice.',
     },
   ],
   '/izrada-wordpress-sajta-cena': [
@@ -918,12 +1035,24 @@ const serverFaqByPath = {
   ],
   '/seo-optimizacija-cena': [
     {
-      q: 'Koliko vremena je obično potrebno da SEO da merljive rezultate?',
-      a: 'Prve pomake često vidite u prvim mesecima kroz rast relevantnih upita, ali stabilniji i veći rezultati najčešće dolaze kroz kontinuiran rad u dužem periodu.',
+      q: 'Koliko brzo mogu da očekujem rezultate?',
+      a: 'Za lokalne pretrage prvi pomaci su često vidljivi za 1-2 meseca, dok za konkurentne nacionalne upite ozbiljniji rezultati obično dolaze posle 4-6 meseci kontinuiranog rada.',
     },
     {
-      q: 'Šta sve ulazi u cenu SEO optimizacije?',
-      a: 'Cena obično uključuje tehnički audit, on-page optimizaciju, plan sadržaja, praćenje ključnih reči i redovne iteracije na osnovu performansi.',
+      q: 'Da li garantujete prvu poziciju na Google-u?',
+      a: 'Ne, jer nijedna agencija ne kontroliše Google algoritam. Garantujemo transparentan proces, merenje i kontinuiranu optimizaciju koja vodi ka stabilnom rastu.',
+    },
+    {
+      q: 'Šta ako već imam agenciju koja radi SEO?',
+      a: 'Možemo uraditi nezavisan SEO audit i pokazati šta radi, a šta usporava rezultate. Na osnovu toga dobijate prioritetni plan koraka.',
+    },
+    {
+      q: 'Da li SEO zamenjuje plaćene oglase?',
+      a: 'Ne zamenjuje ih, već ih dopunjuje. SEO gradi dugoročan organski kanal, dok plaćeni oglasi daju brže testiranje i odmah vidljive podatke.',
+    },
+    {
+      q: 'Šta je uključeno u mesečni izveštaj?',
+      a: 'Mesečni izveštaj obuhvata pozicije ključnih reči, organski saobraćaj, konverzije, realizovane aktivnosti i plan prioriteta za sledeći period.',
     },
   ],
   '/cene-izrade-sajta': [
@@ -1233,14 +1362,25 @@ function buildDynamicBlogOgTitle(baseTitle, isDraft) {
   return truncateOgTitle(`${cleanTitle} | Platinum Zenith Blog`)
 }
 
+function normalizeRequestPath(pathname) {
+  const raw = String(pathname || '/').trim() || '/'
+  const withoutOrigin = raw.replace(/^https?:\/\/[^/]+/i, '')
+  const withoutHash = withoutOrigin.split('#')[0] || '/'
+  const withoutQuery = withoutHash.split('?')[0] || '/'
+  const withLeadingSlash = withoutQuery.startsWith('/') ? withoutQuery : `/${withoutQuery}`
+  const collapsed = withLeadingSlash.replace(/\/{2,}/g, '/')
+
+  if (collapsed === '/' || collapsed === '') return '/'
+  return collapsed.replace(/\/+$/, '')
+}
+
 /**
  * Inject per-route OG meta tags into the HTML template.
  * Replaces title, description, canonical URL, og:*, twitter:* tags
  * so crawlers that don't execute JS see correct metadata.
  */
 export function injectOgMeta(html, pathname) {
-  // Normalize: strip trailing slash (except root)
-  const cleanPath = pathname === '/' ? '/' : pathname.replace(/\/+$/, '')
+  const cleanPath = normalizeRequestPath(pathname)
   let meta = ogMeta[cleanPath]
   const canonicalUrl = `${SITE_URL}${cleanPath}`
   const isBlogPath = cleanPath.startsWith('/blog/')
