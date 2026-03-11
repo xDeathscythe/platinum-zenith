@@ -1,5 +1,6 @@
 import fs from 'fs'
 import path from 'path'
+import { blogPosts } from '../src/pages/blog/blogData.js'
 
 const root = process.cwd()
 const assetsDir = path.join(root, 'dist', 'assets')
@@ -26,12 +27,21 @@ function findChunk(prefix) {
   return stats.find((s) => s.file.startsWith(prefix))
 }
 
+const publicBlogCount = [...new Map(
+  blogPosts
+    .filter((post) => post?.slug && !post?.isDraft)
+    .map((post) => [post.slug, post]),
+).values()].length
+
+// Historical baseline: ~100KB brotli for ~60 public posts.
+const blogDataBrotliBudgetKb = Math.max(100, Math.round(publicBlogCount * 1.7))
+
 const budgets = [
   { label: 'index JS (brotli)', prefix: 'index-', suffix: '.js.br', maxKb: 15 },
   { label: 'vendor-react JS (brotli)', prefix: 'vendor-react-', suffix: '.js.br', maxKb: 58 },
   { label: 'vendor-router JS (brotli)', prefix: 'vendor-router-', suffix: '.js.br', maxKb: 24 },
   { label: 'vendor-motion JS (brotli)', prefix: 'vendor-motion-', suffix: '.js.br', maxKb: 36 },
-  { label: 'blogData JS (brotli)', prefix: 'blogData-', suffix: '.js.br', maxKb: 100 },
+  { label: 'blogData JS (brotli)', prefix: 'blogData-', suffix: '.js.br', maxKb: blogDataBrotliBudgetKb },
   { label: 'main CSS (brotli)', prefix: 'index-', suffix: '.css.br', maxKb: 15 },
 ]
 
@@ -60,6 +70,8 @@ for (const budget of budgets) {
 const report = {
   generatedAt: new Date().toISOString(),
   compressedChunkCount: stats.length,
+  publicBlogCount,
+  blogDataBrotliBudgetKb,
   checks,
   issueCount: issues.length,
   issues,

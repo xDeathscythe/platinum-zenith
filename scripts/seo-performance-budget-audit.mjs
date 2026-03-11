@@ -1,5 +1,6 @@
 import fs from 'fs'
 import path from 'path'
+import { blogPosts } from '../src/pages/blog/blogData.js'
 
 const root = process.cwd()
 const assetsDir = path.join(root, 'dist', 'assets')
@@ -26,12 +27,22 @@ function findChunk(prefix) {
   return stats.find((s) => s.file.startsWith(prefix))
 }
 
+const publicBlogCount = [...new Map(
+  blogPosts
+    .filter((post) => post?.slug && !post?.isDraft)
+    .map((post) => [post.slug, post]),
+).values()].length
+
+// Keep blogData budget proportional to number of public posts
+// (historical baseline: ~330KB for ~60 posts).
+const blogDataBudgetKb = Math.max(330, Math.round(publicBlogCount * 5.5))
+
 const budgets = [
   { label: 'index chunk', prefix: 'index-', maxKb: 70 },
   { label: 'vendor-react chunk', prefix: 'vendor-react-', maxKb: 210 },
   { label: 'vendor-router chunk', prefix: 'vendor-router-', maxKb: 85 },
   { label: 'vendor-motion chunk', prefix: 'vendor-motion-', maxKb: 140 },
-  { label: 'blogData chunk', prefix: 'blogData-', maxKb: 330 },
+  { label: 'blogData chunk', prefix: 'blogData-', maxKb: blogDataBudgetKb },
 ]
 
 const issues = []
@@ -72,6 +83,8 @@ if (criticalTotalKb > criticalBudgetKb) {
 const report = {
   generatedAt: new Date().toISOString(),
   jsChunkCount: stats.length,
+  publicBlogCount,
+  blogDataBudgetKb,
   criticalTotalKb,
   criticalBudgetKb,
   checks,
