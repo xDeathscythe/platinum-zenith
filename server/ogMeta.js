@@ -1362,6 +1362,19 @@ function buildDynamicBlogOgTitle(baseTitle, isDraft) {
   return truncateOgTitle(`${cleanTitle} | Platinum Zenith Blog`)
 }
 
+function escapeHtmlText(value) {
+  return String(value ?? '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+}
+
+function escapeHtmlAttr(value) {
+  return escapeHtmlText(value)
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;')
+}
+
 function normalizeRequestPath(pathname) {
   const raw = String(pathname || '/').trim() || '/'
   const withoutOrigin = raw.replace(/^https?:\/\/[^/]+/i, '')
@@ -1419,54 +1432,62 @@ export function injectOgMeta(html, pathname) {
 
   if (!meta) {
     // Even without specific OG data, always inject correct canonical + og:url
+    const safeCanonicalUrl = escapeHtmlAttr(canonicalUrl)
+    const safeOgType = escapeHtmlAttr(ogType)
+    const safeArticleDateIso = escapeHtmlAttr(articleDateIso)
+    const safeArticleSection = escapeHtmlAttr(articleSection)
+    const safeDefaultOgImage = escapeHtmlAttr(DEFAULT_OG_IMAGE)
+    const safeDefaultOgImageAlt = escapeHtmlAttr(DEFAULT_OG_IMAGE_ALT)
+    const safeRobotsContent = escapeHtmlAttr(robotsContent)
+
     let result = html
     result = result.replace(
       /(<link\s+rel="canonical"\s+href=")[^"]*(")/,
-      `$1${canonicalUrl}$2`
+      `$1${safeCanonicalUrl}$2`
     )
     result = result.replace(
       /(<link\s+rel="alternate"\s+hreflang="sr-RS"\s+href=")[^"]*(")/,
-      `$1${canonicalUrl}$2`
+      `$1${safeCanonicalUrl}$2`
     )
     result = result.replace(
       /(<link\s+rel="alternate"\s+hreflang="x-default"\s+href=")[^"]*(")/,
-      `$1${canonicalUrl}$2`
+      `$1${safeCanonicalUrl}$2`
     )
     result = result.replace(
       /(<meta\s+property="og:url"\s+content=")[^"]*(")/,
-      `$1${canonicalUrl}$2`
+      `$1${safeCanonicalUrl}$2`
     )
     result = result.replace(
       /(<meta\s+property="og:type"\s+content=")[^"]*(")/,
-      `$1${ogType}$2`
+      `$1${safeOgType}$2`
     )
     result = result.replace(
       /(<meta\s+property="article:published_time"\s+content=")[^"]*(")/,
-      `$1${articleDateIso}$2`
+      `$1${safeArticleDateIso}$2`
     )
     result = result.replace(
       /(<meta\s+property="article:modified_time"\s+content=")[^"]*(")/,
-      `$1${articleDateIso}$2`
+      `$1${safeArticleDateIso}$2`
     )
     result = result.replace(
       /(<meta\s+property="article:section"\s+content=")[^"]*(")/,
-      `$1${articleSection}$2`
+      `$1${safeArticleSection}$2`
     )
     result = result.replace(
       /(<meta\s+property="og:image"\s+content=")[^"]*(")/,
-      `$1${DEFAULT_OG_IMAGE}$2`
+      `$1${safeDefaultOgImage}$2`
     )
     result = result.replace(
       /(<meta\s+property="og:image:alt"\s+content=")[^"]*(")/,
-      `$1${DEFAULT_OG_IMAGE_ALT}$2`
+      `$1${safeDefaultOgImageAlt}$2`
     )
     result = result.replace(
       /(<meta\s+name="twitter:image"\s+content=")[^"]*(")/,
-      `$1${DEFAULT_OG_IMAGE}$2`
+      `$1${safeDefaultOgImage}$2`
     )
     result = result.replace(
       /(<meta\s+name="robots"\s+content=")[^"]*(")/,
-      `$1${robotsContent}$2`
+      `$1${safeRobotsContent}$2`
     )
     result = injectServerCoreSchemas(result, cleanPath)
     result = injectServerRouteSpecificSchema(result, cleanPath)
@@ -1481,102 +1502,113 @@ export function injectOgMeta(html, pathname) {
   const ogImageUrl = meta.ogImage || DEFAULT_OG_IMAGE
   const ogImageAlt = meta.ogImageAlt || DEFAULT_OG_IMAGE_ALT
 
+  const safeTitleText = escapeHtmlText(meta.title)
+  const safeTitleAttr = escapeHtmlAttr(meta.title)
+  const safeDescriptionAttr = escapeHtmlAttr(meta.description)
+  const safeCanonicalUrl = escapeHtmlAttr(canonicalUrl)
+  const safeOgType = escapeHtmlAttr(ogType)
+  const safeArticleDateIso = escapeHtmlAttr(articleDateIso)
+  const safeArticleSection = escapeHtmlAttr(articleSection)
+  const safeOgImageUrl = escapeHtmlAttr(ogImageUrl)
+  const safeOgImageAlt = escapeHtmlAttr(ogImageAlt)
+  const safeRobotsContent = escapeHtmlAttr(robotsContent)
+
   // <title>
   result = result.replace(
     /<title>[^<]*<\/title>/,
-    `<title>${meta.title}</title>`
+    `<title>${safeTitleText}</title>`
   )
 
   // <meta name="description">
   result = result.replace(
     /(<meta\s+name="description"\s+content=")[^"]*(")/,
-    `$1${meta.description}$2`
+    `$1${safeDescriptionAttr}$2`
   )
 
   // <link rel="canonical"> + hreflang alternates
   result = result.replace(
     /(<link\s+rel="canonical"\s+href=")[^"]*(")/,
-    `$1${canonicalUrl}$2`
+    `$1${safeCanonicalUrl}$2`
   )
   result = result.replace(
     /(<link\s+rel="alternate"\s+hreflang="sr-RS"\s+href=")[^"]*(")/,
-    `$1${canonicalUrl}$2`
+    `$1${safeCanonicalUrl}$2`
   )
   result = result.replace(
     /(<link\s+rel="alternate"\s+hreflang="x-default"\s+href=")[^"]*(")/,
-    `$1${canonicalUrl}$2`
+    `$1${safeCanonicalUrl}$2`
   )
 
   // og:type
   result = result.replace(
     /(<meta\s+property="og:type"\s+content=")[^"]*(")/,
-    `$1${ogType}$2`
+    `$1${safeOgType}$2`
   )
 
   // article Open Graph (blog/draft only)
   result = result.replace(
     /(<meta\s+property="article:published_time"\s+content=")[^"]*(")/,
-    `$1${articleDateIso}$2`
+    `$1${safeArticleDateIso}$2`
   )
   result = result.replace(
     /(<meta\s+property="article:modified_time"\s+content=")[^"]*(")/,
-    `$1${articleDateIso}$2`
+    `$1${safeArticleDateIso}$2`
   )
   result = result.replace(
     /(<meta\s+property="article:section"\s+content=")[^"]*(")/,
-    `$1${articleSection}$2`
+    `$1${safeArticleSection}$2`
   )
 
   // og:title
   result = result.replace(
     /(<meta\s+property="og:title"\s+content=")[^"]*(")/,
-    `$1${meta.title}$2`
+    `$1${safeTitleAttr}$2`
   )
 
   // og:description
   result = result.replace(
     /(<meta\s+property="og:description"\s+content=")[^"]*(")/,
-    `$1${meta.description}$2`
+    `$1${safeDescriptionAttr}$2`
   )
 
   // og:url
   result = result.replace(
     /(<meta\s+property="og:url"\s+content=")[^"]*(")/,
-    `$1${canonicalUrl}$2`
+    `$1${safeCanonicalUrl}$2`
   )
 
   // og:image + alt
   result = result.replace(
     /(<meta\s+property="og:image"\s+content=")[^"]*(")/,
-    `$1${ogImageUrl}$2`
+    `$1${safeOgImageUrl}$2`
   )
   result = result.replace(
     /(<meta\s+property="og:image:alt"\s+content=")[^"]*(")/,
-    `$1${ogImageAlt}$2`
+    `$1${safeOgImageAlt}$2`
   )
 
   // twitter:image
   result = result.replace(
     /(<meta\s+name="twitter:image"\s+content=")[^"]*(")/,
-    `$1${ogImageUrl}$2`
+    `$1${safeOgImageUrl}$2`
   )
 
   // twitter:title
   result = result.replace(
     /(<meta\s+name="twitter:title"\s+content=")[^"]*(")/,
-    `$1${meta.title}$2`
+    `$1${safeTitleAttr}$2`
   )
 
   // twitter:description
   result = result.replace(
     /(<meta\s+name="twitter:description"\s+content=")[^"]*(")/,
-    `$1${meta.description}$2`
+    `$1${safeDescriptionAttr}$2`
   )
 
   // robots (noindex for internal draft routes)
   result = result.replace(
     /(<meta\s+name="robots"\s+content=")[^"]*(")/,
-    `$1${robotsContent}$2`
+    `$1${safeRobotsContent}$2`
   )
 
   result = injectServerCoreSchemas(result, cleanPath)

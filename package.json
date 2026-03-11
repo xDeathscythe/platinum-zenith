@@ -25,6 +25,7 @@
     "seo:sitemap-index-audit": "node scripts/seo-sitemap-index-audit.mjs",
     "seo:sitemap-health": "node scripts/seo-sitemap-url-health-audit.mjs",
     "seo:server-schema": "node scripts/seo-server-schema-audit.mjs",
+    "seo:faq-schema": "node scripts/seo-faq-schema-audit.mjs",
     "seo:service-schema": "node scripts/seo-service-schema-audit.mjs",
     "seo:core-schema": "node scripts/seo-core-schema-audit.mjs",
     "seo:breadcrumb-coverage": "node scripts/seo-breadcrumb-coverage-audit.mjs",

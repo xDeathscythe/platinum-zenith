@@ -1,4 +1,963 @@
-export const blogPosts = [
+const rawBlogPosts = [
+  {
+    slug: 'lokalni-seo-cena-zrenjanin-2026',
+    title: 'Lokalni SEO cena u Zrenjaninu 2026: koliko košta i šta realno dobijate',
+    excerpt: 'Praktičan vodič za lokalni SEO u Zrenjaninu: realni rasponi cena, šta mora da ulazi u uslugu i kako da procenite da li ponuda donosi upite ili samo "aktivnost".',
+    date: '2026-03-11',
+    category: 'SEO',
+    readTime: '9 min',
+    content: `
+## Kratak odgovor: lokalni SEO u Zrenjaninu najčešće je 250€ do 900€ mesečno
+
+Ako tražite brz odgovor za upit **lokalni SEO cena Zrenjanin**, realan raspon za mala i srednja preduzeća je obično između **250€ i 900€ mesečno**, u zavisnosti od konkurencije i obima posla.
+
+Najčešći opsezi:
+
+- **Starter lokalni SEO:** 250€–400€ / mesec
+- **Growth lokalni SEO:** 400€–650€ / mesec
+- **Performance lokalni SEO:** 650€–900€+ / mesec
+
+Za širu sliku nacionalnih paketa pogledajte i [SEO optimizacija cena](/seo-optimizacija-cena).
+
+## Zašto cene nisu iste kod svih agencija
+
+Dve ponude mogu nositi isti naziv, a potpuno različit rezultat.
+Razlika je obično u dubini rada:
+
+1. da li se radi samo osnovna optimizacija stranica,
+2. da li postoji plan sadržaja za lokalne upite,
+3. da li se redovno prati Google Business profil,
+4. da li se meri kvalitet upita, a ne samo pozicija.
+
+Ako ponuda nema jasan proces i KPI-jeve, najčešće plaćate "održavanje", ne rast.
+
+## Šta mora da ulazi u lokalni SEO paket
+
+Ozbiljna lokalna SEO usluga za Zrenjanin treba da pokrije:
+
+- tehnički audit sajta (indexability, brzina, struktura naslova),
+- optimizaciju ključnih servisnih i lokalnih landing stranica,
+- Google Business Profile optimizaciju (kategorije, opis, objave, Q&A),
+- plan i objavu lokalno relevantnog sadržaja,
+- interni link building između servisnih i blog stranica,
+- praćenje konverzija (poziv, forma, WhatsApp klik),
+- mesečni izveštaj sa narednim prioritetima.
+
+Ako vam treba i lokalna pozicioniranost po gradu, korisna referenca je [marketing agencija Zrenjanin](/marketing-agencija-zrenjanin).
+
+## Modeli naplate koje ćete najčešće videti
+
+### 1) Fiksna mesečna naknada
+Dobar izbor za lokalne firme jer daje predvidljiv trošak i lakše planiranje.
+
+### 2) Paket + jednokratni setup
+Početni mesec uključuje tehnički setup i mapiranje upita, a zatim ide mesečno održavanje i optimizacija.
+
+### 3) Hibridni model
+Niži fiksni fee + bonus po jasno definisanim rezultatima (npr. broj kvalifikovanih upita).
+
+Kod hibrida obavezno ugovorite metriku unapred, da ne ostane prostor za različita tumačenja.
+
+## 5 signala da ponuda za lokalni SEO nije dobra
+
+1. **Nema rada na Google Business profilu** — a to je ključ lokalne vidljivosti.
+2. **Nema plana sadržaja po lokalnim upitima** — bez sadržaja rast je spor i kratkotrajan.
+3. **Izveštaj je samo lista pozicija** — bez objašnjenja šta dalje.
+4. **Nema merenja upita i poziva** — ne znate da li SEO donosi prihod.
+5. **Sve stranice targetiraju iste ključne reči** — dolazi do keyword cannibalization problema.
+
+## Kako da procenite da li je cena opravdana
+
+Najpraktičniji okvir je da lokalni SEO posmatrate kroz trošak po kvalifikovanom upitu.
+
+Primer jednostavne logike:
+
+- mesečno ulaganje: 500€
+- prosečna vrednost jednog klijenta: 300€
+- potrebno za break-even: 2 klijenta mesečno
+
+Ako SEO kanal stabilno donosi 3-4 relevantna klijenta mesečno, ulaganje je zdravo.
+Ako nema traga o kvalitetu lead-ova, cena je sekundarna — problem je u merenju.
+
+## 90-dnevni plan koji najčešće daje rezultat
+
+### Dani 1-30: Temelj
+- tehnički audit i ispravke prioriteta,
+- sređivanje servisnih stranica za lokalni intent,
+- optimizacija Google Business profila.
+
+### Dani 31-60: Sadržaj i autoritet
+- objava lokalnih SEO tekstova po usluzi,
+- interno povezivanje ka money stranicama,
+- početak aktivnog rada na recenzijama i proof elementima.
+
+### Dani 61-90: Optimizacija po rezultatima
+- analiza upita i ponašanja korisnika,
+- dorada stranica sa slabim CTR/konverzijom,
+- fokus na upite koji donose najbolji poslovni ishod.
+
+Ako planirate i plaćeni kanal za brže testiranje ponude, pogledajte i [Google reklame cena](/google-reklame-cena).
+
+## Zaključak
+
+Za temu **lokalni SEO cena Zrenjanin**, pravo pitanje nije "ko je najjeftiniji", već "ko može da pretvori lokalnu vidljivost u konkretne upite i klijente".
+Ako želite, možemo uraditi brzi audit i dati vam 3 prioriteta koji najbrže podižu rezultat — javite se preko [kontakt forme](/kontakt).
+`,
+  },
+  {
+    slug: 'vodjenje-instagram-profila-cena-srbija-2026',
+    title: 'Vođenje Instagram profila cena u Srbiji 2026: šta ulazi u paket i koliko je realno',
+    excerpt: 'Koliko košta vođenje Instagram profila u Srbiji 2026, koje su realne razlike između paketa i kako da izbegnete uslugu koja izgleda jeftino, a ne donosi rezultate.',
+    date: '2026-03-11',
+    category: 'Social Media',
+    readTime: '9 min',
+    content: `
+## Kratak odgovor: vođenje Instagram profila u Srbiji najčešće je 250€ do 1.500€ mesečno
+
+Ako tražite brz odgovor za upit **vođenje Instagram profila cena**, realan raspon zavisi od toga da li vam treba samo objava sadržaja ili kompletan sistem koji povezuje content, oglase i lead generation.
+
+Tipični rasponi na tržištu:
+
+- **Osnovno vođenje (objave + community): 250€–500€ / mesečno**
+- **Growth vođenje (strategija + content + analitika): 500€–900€ / mesečno**
+- **Performance pristup (content + ads sinergija + funnel): 900€–1.500€+ / mesečno**
+
+Ako želite širi kontekst ukupnog budžeta po kanalima, pogledajte i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Zašto cene toliko variraju
+
+Dve agencije mogu napisati „vođenje Instagrama“, a da isporučuju potpuno različitu vrednost.
+Najčešće razlike nisu u lepšem dizajnu, nego u tome da li neko radi:
+
+1. istraživanje publike i poruke,
+2. redovan test formata (Reels, carousel, story),
+3. plan distribucije i pojačanja sadržaja,
+4. merenje rezultata po poslovnim KPI metrima.
+
+Ako je usluga samo „9 objava mesečno“, dobijate aktivnost.
+Ako je usluga vezana za rezultat (upiti, prodaja, kvalitet lead-ova), dobijate sistem.
+
+## Šta tačno treba da ulazi u kvalitetno vođenje profila
+
+Pre nego što uporedite cenu, proverite scope.
+Minimalni ozbiljan paket za biznis nalog obično uključuje:
+
+- mesečnu strategiju sadržaja po ciljnoj publici,
+- content kalendar + jasne content pillars,
+- copywriting za objave i CTA,
+- dizajn i/ili video montažu,
+- community management (DM + komentari),
+- mesečni izveštaj sa narednim akcijama.
+
+Kod firmi koje žele i merljiv rast, ovo se često kombinuje sa plaćenim kanalom, gde je dobar nastavak [Instagram reklame cena](/instagram-reklame-cena).
+
+## Modeli naplate koje ćete najčešće videti
+
+### 1) Fiksni mesečni paket
+Najpredvidljiviji model za planiranje. Dobar je kada su scope i output jasno definisani.
+
+### 2) Paket + dodatna produkcija
+Osnovni fee pokriva strategiju i vođenje, a kompleksniji video sadržaj ili snimanja idu posebno.
+
+### 3) Performance hibrid
+Fiksni deo + bonus po dogovorenim KPI ishodima. Koristan kada obe strane žele jasan alignment oko rezultata.
+
+Ako birate model saradnje, koristan benchmark je i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share).
+
+## 5 crvenih zastavica da je ponuda loša (čak i kad je jeftina)
+
+1. **Nema strategije** — dobijate samo „objave po šablonu“.
+2. **Nema vlasništva nad nalozima i assetima** — rizično dugoročno.
+3. **Nema jasnih KPI-jeva** — sve ostaje na utisku, ne na brojkama.
+4. **Nema plana testiranja** — sadržaj se vrti bez učenja.
+5. **Nema povezanosti sa prodajom** — engagement raste, biznis rezultat stoji.
+
+Jeftina usluga koja ne pomera prodaju je najskuplja opcija.
+
+## Kako da izračunate da li je cena opravdana
+
+Praktičan okvir:
+
+- procenite koliko vam jedan kvalitetan lead vredi,
+- pratite koliko lead-ova/poruka dolazi sa Instagrama,
+- izračunajte koliko prihoda je vezano za kanal,
+- tek onda uporedite sa mesečnim fee-jem.
+
+Primer:
+
+- fee za vođenje: 700€
+- prosečna vrednost klijenta: 600€
+- potrebna dodatna prodaja za break-even: ~2 klijenta mesečno
+
+Ako sistem donosi 3+ relevantna klijenta mesečno, ulaganje je racionalno.
+
+## Kako izgleda zdrav 90-dnevni plan
+
+- **Mesec 1:** audit profila, poruke, konkurencije, setup content matrice
+- **Mesec 2:** test 3-4 content ugla + optimizacija CTA tokova
+- **Mesec 3:** skaliranje formata koji rade + jača integracija sa lead flow-om
+
+Za biznise koji žele i search intent saobraćaj, dobar paralelan kanal je [Google reklame cena](/google-reklame-cena).
+
+## Zaključak
+
+Za temu **vođenje Instagram profila cena** ključ nije pronaći najnižu cifru, već model koji realno povezuje sadržaj sa upitima i prodajom.
+Ako želite, možemo uraditi brz audit vašeg naloga i dati prioritetne izmene koje najbrže podižu rezultat — javite se preko [kontakt forme](/kontakt).
+`,
+  },
+  {
+    slug: 'instagram-ads-cena-po-kliku-srbija-2026',
+    title: 'Instagram Ads cena po kliku u Srbiji 2026: realni CPC rasponi i budžet plan',
+    excerpt: 'Koliko realno košta klik na Instagram oglasima u Srbiji 2026, od čega zavisi CPC i kako da planirate budžet bez skupih grešaka.',
+    date: '2026-03-11',
+    category: 'Instagram Ads',
+    readTime: '8 min',
+    content: `
+## Kratak odgovor: Instagram klik u Srbiji nije „jedna cifra“
+
+Ako tražite univerzalan odgovor tipa „klik je 0,20€“, vrlo verovatno ćete pogrešno planirati kampanju.
+U praksi, cena po kliku (CPC) na Instagramu zavisi od niše, kvaliteta kreativa, ciljne publike i faze funnel-a.
+
+Za širi pregled troškova kanala pogledajte i [cene digitalnog marketinga](/cene-digitalnog-marketinga),
+a za kompletan servis po Meta kanalu [Instagram reklame cena](/instagram-reklame-cena).
+
+## Realni CPC rasponi za srpsko tržište (2026)
+
+U radu sa lokalnim i regionalnim kampanjama najčešće viđamo sledeće opsege:
+
+- **Lokalne usluge (saloni, manji studiji, ordinacije): 0,08€ – 0,35€**
+- **E-commerce (široka potrošnja, fashion, beauty): 0,12€ – 0,55€**
+- **B2B usluge i konsulting: 0,25€ – 0,90€**
+- **Visoko konkurentne niše (finansije, pravne usluge, premium tržište): 0,40€ – 1,20€+**
+
+Ovo nisu „garantovane“ cene, ali jesu realan okvir za početni budžet plan.
+Ako želite uporedni benchmark sa Search intent saobraćajem, pogledajte i [Google reklame cena](/google-reklame-cena).
+
+## Zašto dve firme iz iste niše plaćaju potpuno drugačiji CPC
+
+Najčešći razlog nije tržište, već kvalitet setup-a.
+Instagram algoritam praktično „nagrađuje“ oglase koji dobijaju dobar signal relevantnosti.
+
+Najveći faktori koji podižu ili spuštaju CPC:
+
+1. **Creative quality** — da li vizual i hook zaustavljaju skrol u prve 1–2 sekunde.
+2. **Audience fit** — koliko je publika uska/široka i da li poruka odgovara intentu.
+3. **Offer clarity** — da li je korisniku odmah jasno šta dobija i koji je sledeći korak.
+4. **Landing consistency** — da li stranica posle klika potvrđuje obećanje iz oglasa.
+5. **Objective selection** — klikovi su često jeftiniji kod pogrešnog cilja, ali lošiji za kvalitet lead-ova.
+
+Drugim rečima: možete imati jeftin klik i loš biznis rezultat, ili skuplji klik i profitabilan funnel.
+
+## CPC bez konteksta je opasna metrika
+
+Velika greška je optimizovati kampanju samo na „što niži klik“.
+Ako je klik jeftin, ali publika ne konvertuje, trošite budžet na prazne posete.
+
+Zato CPC uvek gledajte zajedno sa:
+
+- CTR (da li kreativ privlači pravu pažnju),
+- LP conversion rate (da li landing radi posao),
+- CPL (cena po upitu/leadu),
+- procenat kvalifikovanih lead-ova,
+- close rate prodaje.
+
+Ako vam treba i sama osnova za stranicu koja bolje konvertuje social saobraćaj,
+koristan kontekst je [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+
+## Kako da planirate budžet kad tek krećete
+
+Praktičan okvir za početak:
+
+- ciljajte **300–800 klikova mesečno** za relevantan uzorak,
+- pomnožite sa očekivanim CPC rasponom vaše niše,
+- dodajte rezervu 20–30% za testiranje kreativa i publika,
+- tek posle 2–4 nedelje donosite ozbiljne zaključke.
+
+Primer:
+- očekivani CPC: 0,30€
+- cilj: 500 klikova
+- medija minimum: 150€
+- realniji test budžet sa prostorom za iteraciju: 200–260€
+
+## 6 poteza koji najbrže spuštaju CPC bez pada kvaliteta
+
+1. **Hook u prvom kadru** — bez uvoda, odmah problem/benefit.
+2. **3–5 kreativa po ad set-u** — algoritam brže nađe pobednika.
+3. **Razdvoji cold i retargeting** — različite poruke za različite faze.
+4. **Ne mešaj previše publika u istoj grupi** — jasniji signal, bolja optimizacija.
+5. **Rotiraj kreativ na 7–10 dana** kad krene ad fatigue.
+6. **Održavaj poruku 1:1 između oglasa i landing stranice**.
+
+Kod većine kampanja, ova disciplina donese jači pomak od „tajnih trikova“.
+
+## Brzi 14-dnevni plan optimizacije
+
+- **Dan 1-2:** postavi baseline metrike (CPC, CTR, CPL, lead quality).
+- **Dan 3-5:** testiraj 3 nova hook-a na istu publiku.
+- **Dan 6-8:** ugasi najskuplje kreative bez trakcije, skaliraj najbolje.
+- **Dan 9-11:** segmentiraj publike po intentu (cold / warm / retargeting).
+- **Dan 12-14:** optimizuj landing poruku i CTA prema pobedničkom oglasu.
+
+Ako želite da uporedite model saradnje pre skaliranja, pogledajte i [agencija vs freelancer](/agencija-vs-freelancer).
+
+## Zaključak
+
+Instagram Ads cena po kliku u Srbiji 2026 najviše zavisi od kvaliteta egzekucije, a ne od „proseka sa interneta“.
+Ako želite, možemo uraditi brz audit vašeg naloga i označiti 3 najbrže izmene koje mogu spustiti cenu kvalifikovanog klika — javite se preko [kontakt forme](/kontakt).
+`,
+  },
+  {
+    slug: 'alex-hormozi-100m-leads-sistem-za-vise-upita-srbija-2026',
+    title: 'Alex Hormozi 100M Leads: sistem za više upita bez duplog budžeta (Srbija 2026)',
+    excerpt: 'Kako da primeniš Hormozi 100M Leads pristup na srpsko tržište: bolji hook, jasnija ponuda i kvalitetniji leadovi bez bacanja budžeta.',
+    date: '2026-03-11',
+    category: 'Lead Generation',
+    readTime: '9 min',
+    content: `
+## Zašto mnoge firme povećaju budžet, a ne povećaju broj kvalitetnih upita
+
+Najčešći problem nije da "nema saobraćaja" nego da je ulaz u funnel slab.
+Ljudi vide oglas, možda i kliknu, ali ne osećaju dovoljno jasan razlog da ostave upit.
+
+Upravo to rešava Alex Hormozi okvir iz knjige *100M Leads*: prvo pojačaš kvalitet poruke i ponude, pa tek onda skaliraš budžet.
+Ako prvo želiš okvir troškova po kanalima, pogledaj i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## 1) Hook mora da zaustavi skrol u prve 2 sekunde
+
+U 2026. pažnja je skuplja od klika.
+Ako uvodna rečenica ne pogodi konkretan problem, korisnik odlazi bez obzira koliko je kampanja tehnički dobra.
+
+Dobar hook na srpskom tržištu obično ima 3 elementa:
+
+- jasan problem koji publika već oseća,
+- konkretan ishod koji želi,
+- vremenski okvir koji deluje realno.
+
+Primer slabog hook-a:
+- "Radimo digitalni marketing za rast vašeg biznisa"
+
+Primer jačeg hook-a:
+- "Ako trošite 500€+ mesečno na oglase i nemate stabilne upite, verovatno vam curi budžet u prve dve faze funnel-a."
+
+## 2) Ponuda mora da bude specifična, ne generička
+
+Hormozi često ponavlja: tržište ne nagrađuje "još jednu uslugu" nego jasnu transformaciju.
+U praksi to znači da ponuda mora biti vezana za merljiv ishod.
+
+Umesto:
+- "Vođenje kampanja"
+
+Bolje:
+- "U narednih 30 dana čistimo tracking, sužavamo keyword intent i testiramo 3 creative ugla da spustimo cenu kvalifikovanog upita."
+
+Ako radiš Google kanal, dobar benchmark je [Google reklame cena](/google-reklame-cena),
+a za Meta kanal [Instagram reklame cena](/instagram-reklame-cena).
+
+## 3) Lead magnet treba da filtrira, ne samo da skuplja kontakte
+
+Velika greška je jurenje što većeg broja lead-ova.
+Ako magnet privuče ljude koji nisu spremni za kupovinu, prodaja troši vreme na loše upite i misli da marketing "ne radi".
+
+Zato lead magnet treba da ima kvalifikacioni sloj:
+
+- za koga jeste,
+- za koga nije,
+- koji je minimum budžeta ili kapaciteta,
+- koji je očekivani rok do rezultata.
+
+Tako dobijaš manje, ali kvalitetnije upite i bolji close rate.
+
+## 4) Follow-up sistem odlučuje koliko leadova stvarno postane prihod
+
+Najveći procenat izgubljenog novca ne desi se u oglasu, nego posle forme.
+Ako nema brzog i strukturiranog follow-up-a, topli lead hladi se za par sati.
+
+Minimum koji treba da postoji:
+
+1. odgovor u prvih 5–15 minuta,
+2. jasna sledeća akcija (poziv / kratki audit / ponuda),
+3. 3–5 follow-up poruka u narednih 7 dana,
+4. jednostavan CRM status (nov, kontaktiran, kvalifikovan, zatvoren).
+
+## 5) Skaliranje dolazi tek kad funnel ima stabilnu osnovu
+
+Skalirati budžet pre stabilnog funnel-a znači samo brže trošiti novac.
+Prvo stabilizuj ključne metrike:
+
+- CTR po kampanji i kreativi,
+- CPL po intent grupi,
+- procenat kvalifikovanih lead-ova,
+- close rate po izvoru.
+
+Tek kada su brojke predvidljive, povećanje budžeta daje zdrav rast.
+
+## Brzi 14-dnevni plan (100M Leads adaptacija)
+
+Ako želiš praktičan sprint bez komplikovanja:
+
+- **Dan 1-2:** prepiši hook i headline ponude za 2 glavna segmenta publike.
+- **Dan 3-5:** lansiraj 3 creative ugla (problem, rezultat, dokaz).
+- **Dan 6-8:** uvedi kvalifikaciona pitanja u formu.
+- **Dan 9-11:** postavi follow-up sekvencu i SLA za odgovor.
+- **Dan 12-14:** ugasi slabije oglase i prebaci budžet na najbolje varijante.
+
+Ako želiš da uporediš model naplate pre skaliranja, pogledaj i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share).
+
+## Zaključak
+
+Hormozi 100M Leads logika nije trik za viralnost — to je sistem za kvalitetniji pipeline.
+Kada su hook, ponuda i follow-up jasni, isti budžet često daje više kvalifikovanih upita nego pre.
+
+Ako želiš, možemo proći tvoj trenutni funnel i složiti prioritetne izmene po redosledu uticaja. Javi se kroz [kontakt formu](/kontakt).
+`,
+  },
+  {
+    slug: 'google-ads-za-lokalne-biznise-kako-spustiti-cenu-leada-srbija-2026',
+    title: 'Google Ads za lokalne biznise: kako spustiti cenu leada u Srbiji 2026',
+    excerpt: 'Praktičan vodič za lokalne firme u Srbiji: kako da kroz bolju strukturu kampanje i landing stranicu smanjite cenu upita bez povećanja budžeta.',
+    date: '2026-03-11',
+    category: 'Google Ads',
+    readTime: '9 min',
+    content: `
+## Problem koji lokalni biznisi najčešće imaju sa Google Ads kampanjama
+
+Mnoge lokalne firme ne gube novac zato što je klik "preskup", nego zato što plaćaju klikove ljudi koji nikad nisu bili ozbiljni kupci.
+Kampanja radi, klikovi dolaze, ali upiti su slabi i cena kvalitetnog leada raste iz meseca u mesec.
+
+Ako prvo želite širu sliku budžeta, pogledajte i [Google reklame cena](/google-reklame-cena).
+
+## 1) Prvo suzite intent, pa tek onda dižite budžet
+
+Najskuplja greška je širok keyword set bez jasnog komercijalnog signala.
+Za lokalne usluge često bolje rade termini koji uključuju:
+
+- grad ili region,
+- cenu ili procenu cene,
+- "hitno", "odmah", "u blizini",
+- konkretan problem koji korisnik želi da reši.
+
+Primer:
+- slabije: "marketing"
+- bolje: "marketing agencija zrenjanin cena"
+
+Kad pogodite intent, cena leada pada i bez povećanja spend-a.
+
+## 2) Razdvojite kampanje po fazi odluke
+
+Ako pomešate informativne i kupovne upite u istoj kampanji, algoritam teško optimizuje kvalitet.
+Praktičnije je da imate bar 3 odvojene celine:
+
+1. **High intent** (ljudi spremni za razgovor),
+2. **Mid intent** (upoređuju opcije),
+3. **Brand + remarketing** (povratak toplih posetilaca).
+
+Tek kada vidite rezultate po svakoj fazi posebno, možete da prebacujete budžet tamo gde je profit najveći.
+
+## 3) Landing stranica je pola rezultata, ne "dodatak"
+
+Čak i dobra kampanja puca ako strana posle klika ne potvrdi očekivanje korisnika.
+Za lokalne usluge landing treba da ima:
+
+- jasan naslov sa lokacijom i uslugom,
+- konkretan CTA iznad prevoja,
+- 2-3 dokaza poverenja (rezultati, reference, proces),
+- kratku formu bez nepotrebnih polja.
+
+Ako vam treba benchmark za strukturu i cenu izrade, pogledajte i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+
+## 4) Negativne ključne reči su najbrži način da sačuvate budžet
+
+Lokalni nalozi često plaćaju klikove za upite koji nemaju komercijalnu nameru.
+Zato negativne reči treba čistiti svake nedelje, posebno u prve 4-6 nedelja kampanje.
+
+Tipični primeri za isključenje (zavisi od niše):
+- "besplatno",
+- "posao" / "zaposlenje",
+- edukativni termini koji ne vode ka kupovini,
+- gradovi koje ne pokrivate.
+
+Ova jedna disciplina često spušta CPL više nego bilo koja kreativna izmena.
+
+## 5) Merite kvalitet lead-a, ne samo cenu klika
+
+Jeftin klik nije uspeh ako prodaja ne može da zatvori posao.
+Minimum metrike koji treba da pratite:
+
+- cenu po upitu,
+- procenat kvalifikovanih upita,
+- cenu po kvalifikovanom upitu,
+- procenat zatvorenih poslova.
+
+Kada marketinški i prodajni tim gledaju iste brojke, optimizacija postaje realna, a ne "osećajna".
+
+## Brzi plan za narednih 14 dana
+
+- **Dan 1-2:** očistite keyword listu i dodajte negativne reči.
+- **Dan 3-5:** razdvojite high-intent i mid-intent ad grupe.
+- **Dan 6-8:** osvežite landing sa jasnijim CTA i dokazima.
+- **Dan 9-11:** povežite CRM statuse sa lead izvorima.
+- **Dan 12-14:** prebacite budžet na segmente sa boljim kvalitetom upita.
+
+Za poređenje celog marketing budžeta po kanalima, pogledajte i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Zaključak
+
+Cena leada u lokalnom Google Ads-u najčešće se spušta kroz strukturu i disciplinu, ne kroz "tajni trik".
+Ako želite, možemo uraditi brz audit vaših kampanja i označiti 3 izmene koje najbrže utiču na rezultat — javite se preko [kontakt forme](/kontakt).
+`,
+  },
+  {
+    slug: 'alex-hormozi-value-equation-ponuda-koja-prodaje-srbija-2026',
+    title: 'Alex Hormozi Value Equation: kako da ponuda bude skuplja i lakša za prodaju (Srbija 2026)',
+    excerpt: 'Praktičan vodič kako da primeniš Hormozi value equation na uslužni biznis u Srbiji i podigneš cenu bez pada konverzije.',
+    date: '2026-03-10',
+    category: 'Prodaja',
+    readTime: '10 min',
+    content: `
+## Zašto većina firmi u Srbiji gubi maržu i kad ima upite
+
+Najveći problem nije "nema lead-ova" nego to što je ponuda slaba pa se posao zatvara na spuštanje cene.
+Dobiješ upit, razgovor krene dobro, i onda sve stane na pitanju: "Može li jeftinije?"
+
+Tu ne puca prodaja zbog tržišta — puca zbog konstrukcije ponude.
+Ako ponuda ne nosi dovoljno percipirane vrednosti, kupac je automatski poredi sa najjeftinijom opcijom.
+
+## Šta je Alex Hormozi Value Equation (bez komplikovanja)
+
+Hormozi framework je jednostavan:
+
+**Vrednost = (Dream Outcome × Perceived Likelihood of Success) / (Time Delay × Effort & Sacrifice)**
+
+Drugim rečima, lakše prodaješ i po višoj ceni kada kupac veruje da:
+
+- može da dobije veliki rezultat,
+- realno će ga dobiti baš kod tebe,
+- neće čekati predugo,
+- i neće morati da prolazi kroz haos da bi uspeo.
+
+Ako želiš da vidiš kako to izgleda na nivou budžeta i realizacije, korisno je da prvo pogledaš i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## 1) Dream Outcome: ne prodaj uslugu, prodaj ishod
+
+"Vodimo oglase" nije ishod.
+"Dovodimo 25 kvalifikovanih upita mesečno" jeste ishod.
+
+U srpskom B2B i lokalnom tržištu ponude često zvuče tehnički, ali ne i komercijalno.
+Kupac ne želi da kupi kampanju — želi predvidljiv priliv posla.
+
+Umesto:
+- "Google Ads setup + optimizacija"
+
+Koristi:
+- "Sistem za stabilan priliv kvalifikovanih upita kroz Google Ads u narednih 90 dana"
+
+Za benchmark troška akvizicije i realne raspone CPC/CPL metrika pogledaj i [Google reklame cena](/google-reklame-cena).
+
+## 2) Perceived Likelihood: poverenje je valuta koja zatvara prodaju
+
+Kupac ne kupuje samo rezultat, nego verovatnoću da će rezultat stvarno doći.
+Zato su ključni elementi ponude:
+
+- jasan proces rada po fazama,
+- primeri prethodnih rezultata (bez naduvavanja),
+- definisani KPI-jevi,
+- transparentan ritam izveštavanja,
+- i ownership nad nalozima i podacima.
+
+Ako to nije jasno, kupac ne vidi razliku između tebe i "još jedne agencije".
+
+## 3) Time Delay: skrati vreme do prvog merljivog dobitka
+
+Kad kupac čuje "rezultati za 6 meseci", otpor raste.
+Ne zato što je nestrpljiv, nego zato što mu je cashflow realan problem.
+
+Zato ponuda treba da ima:
+
+- **brzi win u prvih 14-30 dana** (npr. tracking cleanup + lead quality filter),
+- **srednji cilj u 60 dana** (stabilizacija CPL-a),
+- **duži cilj u 90+ dana** (skaliranje profitabilnog kanala).
+
+Kada vremenski horizont izgleda kontrolisano, zatvaranje ide lakše i bez cenkanja.
+
+## 4) Effort & Sacrifice: ukloni trenje za klijenta
+
+Mnoge ponude su tehnički dobre, ali operativno naporne za klijenta.
+Ako klijent mora da lovi tim, skuplja fajlove, piše copy i gasi požare — percipirana vrednost pada.
+
+Dobitna ponuda minimizuje napor kupca:
+
+- checkliste i onboarding šabloni,
+- unapred definisan kanal komunikacije,
+- jasna lista šta treba od klijenta i do kada,
+- "done-for-you" elementi gde je moguće.
+
+Kad je put do rezultata lakši, cena prestaje da bude glavna prepreka.
+
+## Kako da primeniš framework na svoju ponudu za 60 minuta
+
+Evo brzog plana koji možeš da uradiš odmah:
+
+### Korak 1: Prepiši headline ponude u ishod
+Umesto tehničke usluge, napiši merljiv business rezultat.
+
+### Korak 2: Dodaj dokaz verovatnoće
+Ugradi 2-3 konkretna dokaza: mini case, brojke, proces, odgovornost.
+
+### Korak 3: Podeli realizaciju po vremenskim fazama
+Definiši šta klijent dobija u 14, 30 i 90 dana.
+
+### Korak 4: Smanji napor klijenta
+U onboarding ubaci sve što skida trenje: šablone, brief formu, jasne rokove, ownership mapu.
+
+### Korak 5: Uskladi cenu sa modelom naplate
+Ako dvoumiš oko strukture ugovora, uporedi i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share).
+
+## Primer iz prakse (lokalni uslužni biznis)
+
+Početna ponuda:
+- "Vođenje oglasa 350€ mesečno"
+
+Reframed ponuda po value equation logici:
+- "Cilj nam je 18-30 kvalifikovanih upita mesečno kroz Google + Meta, sa jasnim planom testiranja i optimizacije u prvih 90 dana."
+- "U prvih 14 dana sređujemo tracking i lead scoring da ne plaćate nerelevantne upite."
+- "Vi dobijate gotov sistem izveštavanja i nedeljni prioritetni plan."
+
+U većini slučajeva ova promena podigne close rate više nego bilo kakav "popust".
+
+## Gde firme najčešće pogreše
+
+Najčešće greške su:
+
+- prodaju aktivnost umesto rezultata,
+- obećaju "rast" bez vremenskog okvira,
+- ne objasne šta je uključeno a šta nije,
+- i ostave klijentu previše operativnog posla.
+
+Ako želiš da ponudu vežeš i za kvalitet destinacije posle klika, pogledaj i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+
+## Zaključak
+
+Hormozi value equation nije trik za copywriting — to je okvir da ponuda bude jasnija, vrednija i lakša za kupovinu.
+Ako želiš, možemo da rastavimo tvoju trenutnu ponudu i složimo novu verziju po ovom modelu za tvoju nišu. Javi se preko [kontakt forme](/kontakt).
+`,
+  },
+  {
+    slug: 'google-ads-cena-po-kliku-srbija-2026',
+    title: 'Google Ads cena po kliku u Srbiji 2026: realni CPC rasponi po ni?i i intentu',
+    excerpt: 'Detaljan vodi? za Google Ads cena po kliku u Srbiji 2026: realni CPC opsezi po ni?i, ?ta ih menja i kako da planirate bud?et po fazama bez naga?anja.',
+    date: '2026-03-11',
+    category: 'Google Ads',
+    readTime: '11 min',
+    content: `
+## Google Ads cena po kliku u Srbiji 2026: kratak odgovor bez magle
+
+Ako tra?ite jednu ?prose?nu? cenu klika za Srbiju, gotovo sigurno ?ete pogre?no planirati bud?et.
+U realnosti, **Google Ads cena po kliku** mo?e biti i 0,20? i 2,50?+, u zavisnosti od ni?e, grada, namere pretrage i kvaliteta naloga.
+
+Za ?iru sliku ukupnog ulaganja (medija + upravljanje), pogledajte i [Google reklame cena](/google-reklame-cena).
+
+## Realni CPC rasponi po ni?ama (Search kampanje, Srbija)
+
+Naj?e??i opsezi koje vidimo u praksi:
+
+- **Lokalne usluge (saloni, mini-servisi): 0,15? ? 0,55?**
+- **Ku?ne i terenske usluge (klime, stolarija, vodoinstalater): 0,35? ? 1,30?**
+- **Medicina i stomatologija (privatni sektor): 0,60? ? 1,90?**
+- **Pravne i finansijske usluge: 0,90? ? 3,00?**
+- **B2B specijalizovane usluge (software, industrija, consulting): 0,70? ? 2,30?**
+- **E-commerce pretraga (zavisno od kategorije): 0,20? ? 1,20?**
+
+Ovo su **realni rasponi**, ne garancije.
+Poenta: bud?et planirajte po svojoj ni?i i kvalitetu lead-a, ne po ?proseku sa foruma?.
+
+## Za?to isti biznis u dva grada ?esto pla?a razli?it CPC
+
+Isti tip usluge mo?e imati primetno druga?iji CPC izme?u Beograda, Novog Sada i manjih gradova.
+Razlog nije samo konkurencija, ve? i:
+
+- gustina ogla?iva?a po terminu,
+- kvalitet aukcije kroz istoriju naloga,
+- odnos mobilnog i desktop saobra?aja,
+- ?hitnost? upita (npr. kvar/servis odmah),
+- kvalitet landing stranice za konkretan upit.
+
+Ako landing ne prati obe?anje iz oglasa, Quality Score pada, a klik postaje skuplji.
+
+## Intent menja cenu vi?e nego ?to ve?ina o?ekuje
+
+Klju?na re? nije dovoljna; bitna je namera korisnika:
+
+- **Informativni intent** (??ta je?, ?kako radi?) uglavnom nosi ni?i CPC, ali slabiji komercijalni signal.
+- **Komercijalni intent** (?cena?, ?ponuda?, ?agencija?) ?esto ima vi?i CPC i bolji potencijal za lead.
+- **Transakcioni intent** (?zakazi?, ?kupi?, ?kontakt?) je ?esto najskuplji, ali i najvredniji.
+
+Zato je zdravije optimizovati ka **CPL i kvalitetu lead-a**, ne ka ?najjeftinijem kliku?.
+
+## Koliki bud?et vam realno treba za test fazu
+
+Prakti?an model za start:
+
+1. Defini?ite ciljnu ni?u i o?ekivani CPC raspon.
+2. Planirajte minimum **250?400 klikova mese?no** da imate smislen uzorak.
+3. Dodajte bud?et za upravljanje i tracking setup.
+
+Primer:
+Ako je va? prose?an CPC oko 0,85?, test bud?et za mediju je okvirno **212??340?**.
+Ako ?elite br?e u?enje (vi?e oglasa, vi?e ad grupa), bud?et raste proporcionalno.
+
+Za pore?enje sa drugim kanalima, pogledajte i [Instagram reklame cena](/instagram-reklame-cena) i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Naj?e??i razlozi zbog kojih CPC ?be?i? navi?e
+
+U praksi, rast CPC-a naj?e??e dolazi iz kombinacije slede?ih problema:
+
+- pre?irok keyword set bez discipline negativnih re?i,
+- slabi oglasi sa niskim CTR-om,
+- ad grupe bez jasnog tematskog fokusa,
+- landing stranica koja ne odgovara pretrazi 1:1,
+- retka optimizacija search terms izve?taja,
+- previ?e oslanjanja na automatiku bez kontrole kvaliteta lead-a.
+
+Ako vam landing stranica nije spremna za paid traffic, prvo re?ite temelj kroz [izradu landing stranice: cena, rokovi, ?ta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
+
+## Kako da spustite CPC bez pada kvaliteta lead-ova
+
+Najbolji rezultati obi?no dolaze iz ovih koraka:
+
+1. **Segmentacija kampanja po intentu** (brand / usluga / problem / lokacija).
+2. **Nedeljno ?i??enje search terms-a** + dosledna negativna lista.
+3. **A/B test oglasa** sa jasnim value proposition porukama.
+4. **Landing poruka 1:1** sa ta?nim query-jem iz oglasa.
+5. **Kontrola brzine i UX-a stranice** radi boljeg Quality Score-a.
+6. **Optimizacija prema CPL-u i kvalitetu upita**, ne samo prema CPC-u.
+
+Ako treba da uskladite sajt i oglase kao sistem, korisno je i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+
+## Mini plan za 30 dana (za stabilan start)
+
+- **Nedelja 1:** setup strukture, inicijalni keyword klasteri, 2?3 oglasa po ad grupi
+- **Nedelja 2:** analiza search terms-a, negativne liste, ga?enje o?iglednog otpada
+- **Nedelja 3:** dorada oglasa i landing sekcija sa slabim CR-om
+- **Nedelja 4:** preraspodela bud?eta na ad grupe sa najboljim CPL trendom
+
+Na kraju meseca pravo pitanje nije ?koliko je klik?, ve? **?koliko ko?ta kvalifikovan lead koji mo?e da se zatvori?**.
+
+## Zaklju?ak
+
+Google Ads cena po kliku u Srbiji 2026 nema jednu univerzalnu cifru.
+Realan CPC zavisi od ni?e, grada, intenta i kvaliteta izvr?enja kampanje + landing-a.
+
+Ako ?elite preciznu procenu za va? slu?aj (CPC raspon + test bud?et + plan optimizacije), [javite nam se](/kontakt) i dobi?ete konkretan plan po fazama.
+`,
+  },
+  {
+    slug: 'vodjenje-google-ads-kampanja-cena-srbija-2026',
+    title: 'Vođenje Google Ads kampanja: cena u Srbiji 2026 (šta ulazi u uslugu)',
+    excerpt: 'Koliko košta vođenje Google Ads kampanja u Srbiji 2026, šta ulazi u mesečni fee i kako da procenite da li je ponuda agencije realna ili preskupa.',
+    date: '2026-03-10',
+    category: 'Google Ads',
+    readTime: '8 min',
+    content: `
+## Kratak odgovor: ne plaćate "klikove", nego sistem koji pravi profit
+
+Kad neko kaže da je vođenje Google Ads kampanja 150€, 400€ ili 1.000€ mesečno, to samo po sebi ne znači ništa.
+Cena je realna tek kada znate šta konkretno ulazi u taj fee i kakav rezultat taj rad treba da proizvede.
+
+Ako prvo želite širu sliku o medijskom budžetu i ceni klika, pogledajte i [Google reklame cena](/google-reklame-cena).
+
+## Realni rasponi cena vođenja u Srbiji (2026)
+
+U praksi, najčešći modeli izgledaju ovako:
+
+- **Mikro nalozi (do ~700€ ad budget): 150–300€ / mesec**
+- **Standard nalozi (700–2.000€ budžet): 300–700€ / mesec**
+- **Napredni nalozi (2.000€+): 700€+ / mesec ili procenat od budžeta**
+
+Nizak fee može biti sasvim korektan za jednostavan nalog sa malim brojem kampanja.
+Problem nastaje kada se obeća ozbiljna optimizacija, a u realnosti dobijete samo "održavanje" bez testiranja, bez analize i bez jasnog plana rasta.
+
+## Šta mora da ulazi u kvalitetno vođenje Google Ads kampanja
+
+Ako plaćate upravljanje, minimalni standard treba da uključuje:
+
+- istraživanje ključnih reči i mapiranje po intentu,
+- strukturu kampanja i ad grupa po uslugama/proizvodima,
+- copy testiranje oglasa i ekstenzija,
+- redovan rad na negativnim ključnim rečima,
+- kontrolu search terms izveštaja,
+- optimizaciju bid strategije po kvalitetu lead-a,
+- proveru i korekcije konverzionog trackinga,
+- mesečni izveštaj sa jasnim KPI zaključcima i sledećim koracima.
+
+Ako od ovoga dobijate samo jedan PDF sa brojem klikova, ne plaćate vođenje — plaćate administraciju.
+
+## Modeli naplate: fiksna cena ili procenat budžeta
+
+Najčešće ćete videti dve opcije:
+
+1. **Fiksna mesečna naknada** (predvidljiva, dobra za planiranje)
+2. **Procenat od ad budžeta** (češće kod većih naloga)
+
+Fiksna cena je praktična kada želite stabilan trošak i jasna očekivanja.
+Procenat može imati smisla kod skaliranja, ali samo ako postoji dogovor šta tačno raste zajedno sa budžetom (broj kampanja, broj testova, reporting dubina, CRO input).
+
+Ako razmatrate model naplate, korisno je i poređenje [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share).
+
+## 5 crvenih zastavica da je ponuda za vođenje loša
+
+### 1) Nema vlasništva nad nalogom
+Ako agencija radi preko svog naloga i ne daje vam pun pristup, rizik je visok.
+Vaš biznis mora da bude vlasnik podataka, historije i konverzija.
+
+### 2) Nema plana testiranja
+Bez eksperiment plana, kampanja stagnira.
+Dobar partner unapred kaže šta će testirati narednih 30 dana.
+
+### 3) Fokus isključivo na CPC
+Jeftin klik nije cilj.
+Cilj je profitabilan lead ili prodaja.
+
+### 4) Nema uvida u search terms
+Ako se ne radi negativna lista i čišćenje upita, trošak gotovo sigurno curi.
+
+### 5) Izveštaji bez preporuka
+Brojke bez zaključka nisu strategija.
+Dobar izveštaj mora da odgovori na pitanje: "šta menjamo sledeće nedelje i zašto?"
+
+## Kako da procenite da li je cena vođenja opravdana
+
+Postavite tri jednostavna pitanja:
+
+- Da li je kvalitet lead-ova bolji iz meseca u mesec?
+- Da li cena po kvalifikovanom lead-u ima trend pada ili stabilizacije?
+- Da li postoji jasan backlog eksperimenata i iteracija?
+
+Ako su odgovori "da", i fee je verovatno zdrav.
+Ako ne znate odgovore, problem nije nužno u ceni — problem je u transparentnosti rada.
+
+Za širi kontekst marketinških troškova, pogledajte i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Primer jednostavne računice (da izbegnete pogrešan fokus)
+
+Recimo da je vođenje 450€ mesečno.
+Na prvi pogled deluje skupo.
+
+Ali ako optimizacija smanji cenu kvalifikovanog leada sa 35€ na 24€, i mesečno dobijete 20 lead-ova više sa istim budžetom, fee se vrlo brzo isplati.
+
+Drugim rečima: bolji sistem akvizicije skoro uvek pobedi "jeftiniju" uslugu koja ne pomera rezultat.
+
+## Zaključak
+
+Cena vođenja Google Ads kampanja u Srbiji 2026 nije "koliko košta agencija", nego koliko vrednosti dobijate iz procesa koji vodi do boljih lead-ova i stabilnijeg profita.
+
+Ako želite realnu procenu za vaš nalog (budžet + upravljanje + očekivanja po niši), [javite nam se](/kontakt) i dobićete konkretan plan bez generičkih obećanja.
+`,
+  },
+  {
+    slug: 'izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu',
+    title: 'Izrada landing stranice: cena, rokovi, šta ulazi u cenu (Srbija 2026)',
+    excerpt: 'Detaljan vodič za izradu landing stranice u Srbiji 2026: realni rasponi cena, rokovi po fazama i stavke koje najviše utiču na konverziju i ROI.',
+    date: '2026-03-11',
+    category: 'Web Design',
+    readTime: '10 min',
+    content: `
+## Koliko košta izrada landing stranice u Srbiji 2026 (kratak odgovor)
+
+Ako tražite brzu procenu za **izrada landing stranice cena**, realan raspon na srpskom tržištu je najčešće **300€ do 1.800€+**.
+Razlika nije u „lepšem dizajnu“, već u dubini istraživanja, copy-u, trackingu i spremnosti stranice za paid saobraćaj.
+
+Ako želite širi kontekst troškova sajta, pogledajte i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+
+## Rasponi cena po nivou projekta
+
+Najkorisnije je da landing stranicu posmatrate kroz 3 nivoa:
+
+- **Starter landing (300€–600€)** — jedna ponuda, osnovni copy, forma, tehnički čist deployment.
+- **Growth landing (600€–1.100€)** — jači copywriting, bolja sekciona struktura, osnovni GA4 događaji, mobilna optimizacija.
+- **Performance landing (1.100€–1.800€+)** — istraživanje publike i konkurencije, jasna value proposition matrica, CRO logika, A/B-ready struktura i napredniji tracking.
+
+Ako ponuda deluje „predobro da bi bila istinita“, obično fali deo koji direktno utiče na rezultat: poruka, merenje ili brzina.
+
+## Šta tačno ulazi u cenu (i šta se često plaća posebno)
+
+U ozbiljnoj ponudi najčešće dobijate:
+
+- brief i ciljnu strukturu stranice,
+- copy za hero, benefite, dokazne sekcije i CTA,
+- responsive dizajn (mobile-first),
+- development + validaciju forme,
+- osnovni SEO setup (title, meta, canonical, heading hijerarhija),
+- osnovni analytics setup (lead event + zahvalnica ili event-based cilj),
+- QA (mobilni prikaz, brzina, forma, osnovni UX flow).
+
+Najčešći dodatni troškovi:
+
+- custom ilustracije/video produkcija,
+- više verzija stranice za različite ICP segmente,
+- CRM integracije i automatizacije,
+- kontinuirana CRO optimizacija posle launch-a.
+
+Za budžet po kanalima pre lansiranja, korisno je uporediti i [Google reklame cena](/google-reklame-cena) i [Instagram reklame cena](/instagram-reklame-cena).
+
+## Rokovi: koliko traje kvalitetna landing stranica
+
+Tipičan rok je **6–15 radnih dana**, uz normalan feedback ciklus.
+
+Primer realnog timeline-a:
+
+1. **Dan 1–2:** discovery + ponuda + KPI cilj
+2. **Dan 2–4:** wireframe + struktura poruke
+3. **Dan 4–8:** copy + dizajn + development
+4. **Dan 8–11:** QA, form testing, speed pass
+5. **Dan 11–15:** launch + tracking verifikacija + početni monitoring
+
+Najčešće kašnjenje ne nastaje u kodu, već u nejasnom brief-u i sporom odobrenju sadržaja.
+
+## Kako da procenite da li je ponuda realna ili „jeftina zamka“
+
+Pre potpisa, pitajte sledeće:
+
+- Da li je uključeno merenje konverzija, ne samo dizajn?
+- Ko piše copy i da li je vezan za kanal akvizicije?
+- Da li postoji jasan CTA tok (jedna primarna akcija)?
+- Da li ponuda pokriva mobile UX i brzinu?
+- Šta je tačno scope revizija (koliko rundi i šta ulazi)?
+
+Ako na ova pitanja dobijete nejasne odgovore, verovatno kupujete „stranicu kao fajl“, a ne alat za akviziciju.
+
+## Cena landing stranice bez CPC i lead kvaliteta je nepotpuna
+
+Landing ne treba posmatrati izolovano od medija.
+Ako je Google Ads klik skup, svaka greška na landing-u je dodatni trošak.
+
+Zato pre finalnog launch-a proverite:
+
+- usklađenost headline-a sa ključnim upitom,
+- jasan dokaz poverenja iznad prevoja,
+- kratku formu bez „frikcije“,
+- jednu dominantnu CTA akciju,
+- brzinu učitavanja na mobilnom.
+
+Za referencu troška klika pogledajte [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026), a za najčešće UX/CRO propuste i [5 grešaka na landing stranicama koje ubijaju konverzije](/blog/5-gresaka-landing-stranice-konverzije).
+
+## Mini ROI primer (kako da gledate isplativost)
+
+Primer:
+
+- ulaganje u landing: **1.200€**
+- budžet oglasa: **1.500€ / mesec**
+- rast konverzije: **2,1% → 3,4%**
+
+Sa istim ad spend-om dobijate više kvalifikovanih lead-ova, pa razlika u performansu često vrati investiciju u 1–3 meseca, zavisno od vrednosti klijenta.
+
+Drugim rečima: prava metrika nije „koliko košta landing stranica“, nego **koliko košta jedan kvalitetan upit posle launch-a**.
+
+## Zaključak
+
+Za temu **landing stranica cena** fokus treba da bude na rezultatu (lead quality + conversion rate), ne na najnižoj početnoj ponudi.
+Ako želite precizan opseg cene i rokova za vaš konkretan funnel, javite se kroz [kontakt formu](/kontakt) i dobićete plan po prioritetima.
+`,
+  },
   {
     slug: 'copywriting-formule-koje-rade',
     title: 'Kako napisati oglas koji prodaje: copywriting formule koje rade',
@@ -4430,315 +5389,6 @@ Takođe preporučujemo: [Kako napraviti landing stranicu koja konvertuje](/blog/
 `,
   },
   {
-    slug: 'izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu',
-    title: 'Izrada landing stranice: cena, rokovi i šta ulazi u cenu',
-    excerpt: 'Landing stranica može biti najbolja investicija ili najskuplja greška. Evo realnih cena u Srbiji, rokova isporuke i stavki koje najviše utiču na rezultat.',
-    date: '2026-03-06',
-    category: 'Web Design',
-    readTime: '8 min',
-    content: `
-## Koliko zaista košta izrada landing stranice u Srbiji
-
-Najkraći odgovor je: zavisi od cilja stranice i obima posla. Najduži odgovor je ovaj tekst.
-
-Ako vam je neko ponudio landing za 100 evra i drugi za 1.500 evra, oba mogu biti "tačna" cena. Problem je što to često nije isti proizvod.
-
-Landing stranica nije samo dizajn. To je kombinacija:
-
-- ponude
-- strukture teksta
-- UX-a
-- brzine učitavanja
-- trackinga
-- i načina na koji se lead obrađuje posle forme
-
-Ako jedna od tih stvari pukne, cela kampanja trpi.
-
-## Raspon cena po tipu landing stranice
-
-Za tržište Srbije u 2026, realni rasponi su obično ovakvi:
-
-### 1) Basic landing (300-700€)
-
-Dobra opcija za test jedne ponude kad još niste sigurni šta najbolje prolazi.
-
-Najčešće uključuje:
-
-- jednu stranicu
-- osnovni copy
-- kontakt formu
-- mobilnu prilagodbu
-- osnovni analytics
-
-Nije idealna za ozbiljno skaliranje, ali je dobra za početne validacije.
-
-### 2) Performance landing (700-1.800€)
-
-Ovo je nivo koji većina firmi zapravo treba.
-
-Najčešće uključuje:
-
-- custom sekcije po funnel logici
-- copy optimizovan za konverziju
-- A/B-ready strukturu
-- pixel i event tracking
-- tehničku optimizaciju za brzinu
-
-Ako planirate ozbiljniji paid traffic, ovo je uglavnom najzdraviji odnos cene i rezultata.
-
-### 3) Funnel landing paket (1.800-4.000€)
-
-Za ponude koje traže više koraka i jaču segmentaciju.
-
-Najčešće uključuje:
-
-- više varijanti landinga po publici
-- thank-you tok i follow-up logiku
-- CRM integraciju
-- napredniji tracking i izveštavanje
-- test plan za narednih 30-60 dana
-
-Ovo uzimaju firme koje već znaju da jedna stranica donosi prihod i žele da pojačaju obim bez rušenja profitabilnosti.
-
-## Od čega najviše zavisi cena
-
-### 1) Kvalitet i dubina copy-ja
-
-Landing sa prosečnim tekstom može izgledati lepo i dalje konvertovati loše.
-
-Dobra landing stranica vodi posetioca kroz jasan tok: problem, kontekst, dokaz, ponuda, rizik, CTA.
-
-Ako se copy radi ozbiljno, cena raste. Ali obično raste i konverzija.
-
-### 2) Broj sekcija i nivo personalizacije
-
-Jedna stvar je generična struktura sa 6 blokova. Druga je stranica krojena za konkretnu nišu, prigovore i način kupovine.
-
-Što je personalizacija veća, to je više istraživanja i rada.
-
-### 3) Dizajn i mikrointerakcije
-
-Nije poenta da landing ima "efekte". Poenta je da vizuelna hijerarhija tera korisnika ka akciji.
-
-Nekad je i jednostavan dizajn najbolji. Ali jednostavno ne znači brzo napravljeno.
-
-### 4) Tehnički sloj
-
-Ako landing učitava sporo, plaćate skuplji klik i dobijate manje upita.
-
-Zato su bitni:
-
-- optimizacija slika
-- čist CSS/JS
-- stabilan hosting setup
-- ispravno merenje događaja
-
-### 5) Integracije
-
-Kad treba povezati formu sa CRM-om, email automatizacijom ili internim workflow-om, to je dodatni obim posla.
-
-Tu često i nastaje razlika između "lepe stranice" i stranice koja operativno radi posao.
-
-## Rokovi izrade: koliko realno traje
-
-Tipični rokovi su:
-
-- basic landing: 3-7 radnih dana
-- performance landing: 7-15 radnih dana
-- funnel paket: 15-30 radnih dana
-
-Ako neko obeća kompleksnu landing stranicu za 24h, to je obično recikliran šablon sa minimalnim prilagođavanjem.
-
-Nekad je to ok za brz test. Za ozbiljan kanal akvizicije uglavnom nije.
-
-## Najskuplje greške koje viđamo
-
-### Greška 1: Previše fokusa na dizajn, premalo na ponudu
-
-Ljudi satima biraju boje dugmeta, a ponuda je nejasna. Posetilac ne razume šta dobija i zašto sada.
-
-### Greška 2: Slanje plaćenog saobraćaja na neproverenu stranicu
-
-Prvo validacija sa manjim budžetom, pa skaliranje. Obrnuto je najbrži način da se novac prospe.
-
-### Greška 3: Nema jasnog sledećeg koraka posle forme
-
-Ako lead ostavite da "čeka", konverzija pada. Landing mora biti deo celog sistema, ne izolovan fajl na sajtu.
-
-### Greška 4: Merenje samo po broju leadova
-
-Nisu svi leadovi isti. Bolje 20 kvalitetnih upita nego 80 koji nikad ne postanu klijenti.
-
-## Kako da procenite da li je ponuda izvođača realna
-
-Postavite ovih 5 pitanja:
-
-1. Šta tačno ulazi u cenu?
-2. Ko piše copy i na osnovu čega?
-3. Kako će se meriti konverzija?
-4. Koji je plan optimizacije posle lansiranja?
-5. Ko je odgovoran za tehničke bugove posle objave?
-
-Ako odgovori nisu konkretni, cena na papiru nije prava cena projekta.
-
-## Šta mi radimo drugačije
-
-Kod nas landing nije "još jedna stranica". To je prodajni asset koji mora da vrati uloženi novac.
-
-Zato fokus stavljamo na tri stvari:
-
-- jasna ponuda i poruka
-- tehnička stabilnost i brzina
-- merenje i iteracije posle lansiranja
-
-Ako želite širi pregled budžeta, pogledajte i [cene izrade sajta](/cene-izrade-sajta), [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena), [cene digitalnog marketinga](/cene-digitalnog-marketinga), [Google reklame cena](/google-reklame-cena), [Instagram reklame cena](/instagram-reklame-cena) i [koliko košta Facebook reklama](/koliko-kosta-facebook-reklama).
-
-Takođe preporučujemo: [Kako napraviti landing stranicu koja konvertuje](/blog/kako-napraviti-landing-stranicu-koja-konvertuje).
-
----
-
-Ako želite da procenimo vaš slučaj i kažemo koji nivo landing stranice vam realno treba, [javite nam se](/kontakt).
-`,
-  },
-  {
-    slug: 'google-ads-cena-po-kliku-srbija-2026',
-    title: 'Google Ads cena po kliku u Srbiji 2026: realni rasponi po niši',
-    excerpt: 'CPC u Google Ads-u nije isti za sve biznise. Evo realnih raspona po nišama u Srbiji i kako da smanjite cenu klika bez pada kvaliteta leadova.',
-    date: '2026-03-06',
-    category: 'Marketing',
-    readTime: '9 min',
-    content: `
-## Zašto je pitanje "koliko košta klik" često pogrešno postavljeno
-
-Kad neko pita koliko košta klik na Google-u, obično očekuje jedan broj.
-
-U praksi taj broj ne postoji.
-
-Klik može biti 0,12€ u jednoj niši i 2,50€ u drugoj, i oba podatka mogu biti potpuno normalna.
-
-Bitnije pitanje je: koliko vas košta kvalifikovan upit i da li taj upit na kraju donosi profit.
-
-## Realni CPC rasponi po nišama u Srbiji (2026)
-
-Ovo su realni radni rasponi koje viđamo na tržištu Srbije za Search kampanje.
-
-### 1) Lokalne usluge
-
-Primeri: frizeri, servisi, auto stakla, čišćenje, selidbe.
-
-- tipični CPC: **0,10€ - 0,45€**
-- zašto: lokalna konkurencija je ograničena, intent je često jak
-
-Ako je landing dobar i poziv jasan, ovaj tip kampanja često ima zdrav odnos cene klika i broja upita.
-
-### 2) Medicinske i estetske usluge
-
-Primeri: stomatologija, dermatologija, estetski tretmani.
-
-- tipični CPC: **0,30€ - 1,20€**
-- zašto: jača konkurencija i veća vrednost pacijenta
-
-Ovde je ključ u kvalitetu oglasa i preciznim ključnim rečima. Široko targetiranje brzo pojede budžet.
-
-### 3) Pravne i finansijske usluge
-
-Primeri: advokati, knjigovođe, poreski konsultanti.
-
-- tipični CPC: **0,50€ - 2,00€**
-- zašto: visoka vrednost klijenta i jaka borba za vrh pretrage
-
-Viši CPC nije automatski loš. Ako jedan klijent vredi mnogo, i skuplji klik može biti odlična investicija.
-
-### 4) B2B usluge i agencijski modeli
-
-Primeri: digitalni marketing, razvoj softvera, IT usluge.
-
-- tipični CPC: **0,40€ - 1,80€**
-- zašto: kombinacija informativnih i komercijalnih upita
-
-Najveći problem je mešanje edukativnih i kupovnih keyword-a u istoj kampanji.
-
-### 5) E-commerce upiti
-
-Primeri: kategorije proizvoda i brand+product pretrage.
-
-- tipični CPC: **0,08€ - 0,90€** (širok raspon)
-- zašto: zavisi od kategorije, marže i konkurencije
-
-Kod e-commerce-a CPC je važan, ali još važniji su konverzija i prosečna vrednost porudžbine.
-
-## Šta najviše podiže cenu klika
-
-### 1) Slab Quality Score
-
-Ako su oglas, ključna reč i landing nepovezani, Google vas kažnjava skupljim klikom.
-
-### 2) Preširoki keyword-i
-
-Generički termini donose više impresija, ali često i lošiji saobraćaj.
-
-### 3) Bez negativnih ključnih reči
-
-Ako ne čistite nerelevantne upite, budžet odlazi na klikove koji nikad ne postanu upit.
-
-### 4) Loš landing UX
-
-Spor sajt i nejasna ponuda spuštaju konverziju, pa kampanja izgleda skupa i kad CPC nije katastrofalan.
-
-### 5) Jedna kampanja za sve usluge
-
-Kad spojite više različitih ponuda u jednu kampanju, gubite kontrolu nad performansama.
-
-## Kako da snizite CPC bez pada kvaliteta leadova
-
-### 1) Podelite kampanje po intentu
-
-Odvojite high-intent upite ("cena", "agencija", "usluga") od edukativnih.
-
-### 2) Ojačajte RSA oglase
-
-Više kvalitetnih headline varijanti i jasni benefiti često poprave CTR i spuste cenu klika.
-
-### 3) Dodajte negativne keyword-e svake nedelje
-
-Search Terms izveštaj je zlato. Redovno čišćenje nerelevantnih upita štedi budžet odmah.
-
-### 4) Uskladite landing sa porukom oglasa
-
-Ako oglas obećava konkretan rezultat, landing mora to da nastavi bez lutanja.
-
-### 5) Merite cenu po kvalifikovanom leadu
-
-CPC je ulazna metrika. Prava odluka se donosi na osnovu kvaliteta upita i zatvaranja prodaje.
-
-## Kada je "visok" CPC zapravo dobar
-
-Ako plaćate 1,20€ po kliku, a iz toga dobijate leadove koji se zatvaraju i ostavljaju solidnu maržu, kampanja je zdrava.
-
-Ako plaćate 0,20€ po kliku i dobijate gomilu loših upita, taj "jeftin" klik je skup.
-
-Zato je fokus uvek na ekonomiji cele kampanje, ne na jednom broju.
-
-## Brza formula za procenu isplativosti
-
-Ako znate:
-
-- prosečnu vrednost klijenta
-- vašu maržu
-- stopu zatvaranja leadova
-
-možete okvirno izračunati maksimalni prihvatljiv CPL, pa unazad planirati CPC cilj.
-
-Ako vam je potreban širi kontekst budžeta, pogledajte i [Google reklame cena](/google-reklame-cena), [Instagram reklame cena](/instagram-reklame-cena), [koliko košta Facebook reklama](/koliko-kosta-facebook-reklama), [Instagram Ads cena po kliku u Srbiji 2026](/blog/instagram-ads-cena-po-kliku-srbija-2026), [cene digitalnog marketinga](/cene-digitalnog-marketinga) i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
-
-Takođe preporučujemo: [Kako skalirati plaćene oglase bez bacanja novca](/blog/kako-skalirati-placene-oglase-bez-bacanja-novca).
-
----
-
-Ako želite da analiziramo vaše ključne reči i kažemo gde trenutno preplaćujete klik, [javite nam se](/kontakt).
-`,
-  },
-  {
     slug: 'netokracija-cro-case',
     title: 'DRAFT: Kako smo povećali profit 4x kroz nekoliko ključnih CRO izmena na domaćem web shopu',
     excerpt: 'Priča iz prakse: najveći domaći brend anatomske obuće je kroz nekoliko pametnih promena podigao profit 4x. Evo šta je tačno urađeno i kako to možete da primenite.',
@@ -5769,125 +6419,141 @@ Ako želite realnu procenu po vašoj niši, cilju i budžetu, javite se preko [k
 `,
   },
   {
-    slug: 'instagram-ads-cena-po-kliku-srbija-2026',
-    title: 'Instagram Ads cena po kliku u Srbiji 2026: realni rasponi po nisi',
-    excerpt: 'Koliko stvarno kosta klik na Instagramu u Srbiji 2026? Evo realnih CPC raspona po nisama i kako da spustite cenu klika bez pada kvaliteta leadova i prodaje.',
-    date: '2026-03-10',
-    category: 'Marketing',
+    slug: 'sabri-suby-offer-stack-google-ads-leadovi-srbija-2026',
+    title: 'Sabri Suby offer stack za Google Ads leadove u Srbiji 2026',
+    excerpt: 'Kako da primenis Sabri Suby offer stack pristup za vise kvalifikovanih leadova iz Google oglasa: jasna ponuda, bolji landing i realan 30-dnevni plan.',
+    date: '2026-03-11',
+    category: 'Google Ads',
     readTime: '9 min',
     content: `
-## Koliko kosta klik na Instagramu u Srbiji
+## Zasto vecina Google Ads kampanja ne puca od rezultata iako ima klikove
 
-Kratak odgovor: u 2026. godini CPC na Instagramu u Srbiji najcesce se krece od **0,08€ do 1,20€**.
+Najcesci problem nije "nema saobracaja" nego slab offer stack.
+Drugim recima: korisnik klikne, ali ne vidi dovoljno jak razlog da ostavi upit bas vama, bas sada.
 
-Dug odgovor: zavisi od nise, kvaliteta kreativa, ponude, publike i landing strane na koju saljete saobracaj.
+Sabri Suby pristup (poznat kroz *Sell Like Crazy* i njegov growth framework) je praktican jer tera da prvo ispeglaas ponudu i poruku, pa tek onda da skaliras budzet.
+Ako zelis siri okvir ulaganja po kanalima, pogledaj i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-Zato je bolje pitanje: koliko vas kosta kvalifikovan lead ili kupovina, a ne samo klik.
+## Sta je offer stack i zasto je bitan za srpsko trziste
 
-## Realni CPC rasponi po nisama (Srbija, 2026)
+Offer stack je nacin da korisniku ne nudis "uslugu", nego paket vrednosti koji je:
 
-Ovo su tipicni rasponi koje vidjamo kod kampanja za srpsko trziste.
+- jasan,
+- specifican,
+- vremenski definisan,
+- i vezan za konkretan ishod.
 
-### 1) Lokalni biznisi i usluge
+Na domacem trzistu ovo je jos bitnije jer je poverenje nize, a publika je oprezna prema opstim obecanjima tipa "radimo marketing".
 
-Primeri: saloni, fitnes, ugostiteljstvo, lokalne usluge.
+Ako poruka glasi genericki, kampanja ce privuci radoznale klikove.
+Ako poruka glasi specificno, kampanja privlaci ljude sa realnom namerom.
 
-- tipicni CPC: **0,08€ - 0,35€**
-- zasto: siroka publika i dosta jeftinog reach-a
+## 5 slojeva jakog offer stack-a za lead generation
 
-Ako je poruka jasna i CTA konkretan, ovaj segment cesto daje dobar odnos cene klika i broja upita.
+### 1) Core ishod
+Jasno reci sta korisnik dobija i u kom roku vidi prvi pomak.
 
-### 2) E-commerce (fashion, beauty, lifestyle)
+Primer slabog obecanja:
+- "Vodimo Google oglase"
 
-- tipicni CPC: **0,12€ - 0,55€**
-- zasto: vizuelna platforma, ali jaka konkurencija i ad fatigue
+Primer jaceg obecanja:
+- "U prvih 30 dana cistimo keyword intent, sredjujemo tracking i testiramo 2 landing ugla da spustimo cenu kvalifikovanog upita."
 
-Ovde nije dovoljno gledati samo klik. Morate pratiti i cenu dodavanja u korpu, checkout i ROAS.
+Za benchmark troska i modela usluge pogledaj i [Google reklame cena](/google-reklame-cena).
 
-### 3) Medicinske i estetske usluge
+### 2) Mehanizam isporuke
+Objasni *kako* dolazis do rezultata (proces), ne samo *sta* obecavas.
 
-- tipicni CPC: **0,25€ - 0,90€**
-- zasto: veca vrednost klijenta i visoka konkurencija u gradovima
+Tipican mini-proces koji ljudi razumeju:
+- audit search terms + negativne reci,
+- segmentacija kampanja po intentu,
+- poruka 1:1 izmedju oglasa i landing stranice,
+- nedeljna optimizacija prema lead quality signalu.
 
-Klik je skuplji, ali i lead moze vredeti znatno vise ako je funnel dobar.
+Kad korisnik vidi metod, rastu poverenje i stopa konverzije.
 
-### 4) B2B i agencijske usluge
+### 3) Risk reversal
+Ukloni bar deo rizika za klijenta.
 
-- tipicni CPC: **0,30€ - 1,20€**
-- zasto: uza publika i teza namera kupovine na samoj platformi
+Ne mora uvek biti "garancija rezultata"; cesto je bolje:
+- jasan probni period,
+- transparentan reporting,
+- mogucnost izlaska ako nema dogovorenih operativnih standarda.
 
-Kod B2B kampanja Instagram cesto bolje radi kao deo sirg funnel-a nego kao jedini kanal.
+Za poredjenje modela saradnje korisno je i [agencija vs freelancer](/agencija-vs-freelancer).
 
-## Sta najvise podize cenu klika na Instagramu
+### 4) Proof i kredibilitet
+Bez dokaza, i dobra ponuda zvuci kao reklama.
 
-### 1) Slab hook u prve 2 sekunde
+U proof ubaci:
+- mini case (pre/posle),
+- konkretne brojke (CPL, stopa zakazivanja, rast kvalifikovanih upita),
+- kontekst nise da korisnik zna da je poredjenje fer.
 
-Ako kreativ ne zaustavi skrol odmah, CTR pada, a CPC raste.
+Ako hoces primer kako to pakovati na stranici koja prodaje, pogledaj i [web dizajn usluge](/web-design).
 
-### 2) Previse siroka publika bez strukture
+### 5) Hitnost i sledeci korak
+Daj razlog da se akcija uradi sada, bez jeftinog pritiska.
 
-Kada target nije podeljen po intentu i fazi funnel-a, algoritam trosi budzet na klikove koji ne konvertuju.
+Dobri primeri:
+- limitiran broj onboarding slotova mesecno,
+- jasan rok kada pocinje sledeci ciklus,
+- CTA koji je konkretan (audit call, dijagnostika, ponuda sa scope-om).
 
-### 3) Ad fatigue
+Najjednostavnije je zatvoriti tok preko [kontakt forme](/kontakt).
 
-Isti oglas predugo u opticaju skoro uvek podize cenu klika i obara kvalitet saobracaja.
+## Kako da ovo pretvoris u landing koja konvertuje
 
-### 4) Slab landing ili spor sajt
+Offer stack ne radi ako je landing stranica maglovita.
+Na stranici korisnik mora da vidi redosled:
 
-Instagram moze da dovede klik, ali lose post-click iskustvo unisti ekonomiju kampanje.
+1. problem koji prepoznaje,
+2. rezultat koji zeli,
+3. proces koji uliva poverenje,
+4. dokaze,
+5. CTA bez frikcije.
 
-### 5) Nema negativne selekcije kroz poruku
+Ako landing nije spreman, kampanja ce placati skupe klikove koji ne zatvaraju upit.
+Za temu strukture i cene landing stranica pogledaj [izradu landing stranice: cena, rokovi, sta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
 
-Ako oglas ne filtrira kome je ponuda namenjena, dobijate jeftine ali slabe klikove.
+## 30-dnevni plan implementacije (bez haosa)
 
-## Kako da smanjite CPC bez pada kvaliteta leadova
+### Nedelja 1: dijagnostika i poruka
+- izvuci top search terms i intent klastere,
+- identifikuj 3 najveca mesta curenja budzeta,
+- napisi novu value proposition verziju oglasa i landing hero sekcije.
 
-### 1) Testirajte vise hook varijanti nedeljno
+### Nedelja 2: offer stack finalizacija
+- definisi core ishod i granice scope-a,
+- dodaj risk-reversal element,
+- slozi proof blokove sa realnim brojkama.
 
-Jedna promena prvog kadra ili prve recenice cesto menja CPC 20-40%.
+### Nedelja 3: testiranje
+- testiraj 2-3 ad angle-a,
+- paralelno testiraj 2 varijante CTA poruke,
+- meri ne samo CPC nego i kvalitet lead-ova.
 
-### 2) Osvezavajte kreativu pre nego sto izgori
+### Nedelja 4: skaliranje onoga sto radi
+- ugasi ad setove bez signala,
+- povecaj budzet na pobednickim segmentima,
+- dokumentuj sta tacno donosi najkvalitetnije upite.
 
-Ne cekajte da performans padne drasticno. Planirana rotacija kreativa cuva stabilan trosak.
+Ako zelis da uskladis i WordPress stranu pre skaliranja, koristan kontekst je [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
 
-### 3) Razdvojite cold, warm i hot publiku
+## Najcesce greske koje ubiju offer stack
 
-Svaki nivo publike trazi drugaciju poruku. Jedan oglas za sve skoro uvek znaci skuplji klik.
+- Obecanje je siroko i nemerljivo.
+- Nema jasnog mehanizma isporuke.
+- CTA je neodredjen ("javite se") bez sledeceg koraka.
+- Fokus je na jeftinom kliku, ne na kvalitetu upita.
+- Landing i oglasi pricaju dve razlicite price.
 
-### 4) Uskladite poruku oglasa i landing strane
+Ako prepoznajes bar dve tacke sa liste, nije problem u platformi nego u ponudi i poruci.
 
-Ako oglas obecava cenu, rezultat ili rok, landing mora da nastavi istu poruku bez lutanja.
+## Zakljucak
 
-### 5) Merite dalje od CPC-a
-
-Pratite CPL, cenu kupovine, stopu zatvaranja i ROAS. CPC je samo ulazna metrika.
-
-## Kada je visi CPC i dalje dobar
-
-Ako placate 0,80€ po kliku, ali dobijate leadove koji se zatvaraju i ostavljaju dobru marzu, kampanja je zdrava.
-
-Ako placate 0,12€ po kliku, a leadovi su slabi i ne zatvaraju se, kampanja je skupa bez obzira na "jeftin" CPC.
-
-Najvaznije je da gledate celu ekonomiju, od klika do profita.
-
-## Praktican benchmark koji vredi pratiti
-
-Za vecinu kampanja u Srbiji, zdrav okvir izgleda ovako:
-
-- CTR koji ne tone iz nedelje u nedelju
-- CPC stabilan u ciljnom rasponu za vasu nisu
-- jasan pad cene lead-a posle prvih iteracija
-- konzistentan kvalitet upita kroz prodajni tim
-
-Ako jedan od ova 4 stuba puca, vreme je za korekciju poruke, publike ili landing-a.
-
-Za sire planiranje budzeta pogledajte [Instagram reklame cena](/instagram-reklame-cena), [Google reklame cena](/google-reklame-cena), [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama) i [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026).
-
-Takodje preporucujemo: [Kako skalirati placene oglase bez bacanja novca](/blog/kako-skalirati-placene-oglase-bez-bacanja-novca).
-
----
-
-Ako hocete da analiziramo vase kampanje i pokazemo gde trenutno preplacujete Instagram klik, [javite nam se](/kontakt).
+Sabri Suby offer stack pristup radi jer tera disciplinu: jasan ishod, vidljiv proces, dokaz i sledeci korak bez konfuzije.
+Ako hoces, mogu da uradim brz audit tvoje trenutne Google Ads ponude i oznacim 3 izmene koje najbrze podizu kvalitet leadova - javi se preko [kontakt forme](/kontakt).
 `,
   },
   {
@@ -5955,3 +6621,12 @@ Ako hoces, mozemo zajedno da napravimo scorecard i 90-dnevni plan pa da u interv
   }
 
 ]
+
+const seenSlugs = new Set()
+
+export const blogPosts = rawBlogPosts.filter((post) => {
+  if (!post?.slug) return false
+  if (seenSlugs.has(post.slug)) return false
+  seenSlugs.add(post.slug)
+  return true
+})
