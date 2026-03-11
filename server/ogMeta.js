@@ -227,7 +227,9 @@ const SERVER_ROUTE_SCHEMAS = {
   '/google-reklame-cena': {
     '@context': 'https://schema.org',
     '@type': 'Service',
+    '@id': `${SITE_URL}/google-reklame-cena#service`,
     name: 'Google Ads upravljanje kampanjama',
+    description: 'Google Ads upravljanje sa jasnim budžetskim fazama, cenom vođenja kampanja i optimizacijom troška po leadu.',
     serviceType: 'Google Ads management',
     url: `${SITE_URL}/google-reklame-cena`,
     areaServed: {
@@ -238,6 +240,62 @@ const SERVER_ROUTE_SCHEMAS = {
       '@type': 'Organization',
       name: 'Platinum Zenith',
       url: SITE_URL,
+    },
+    offers: {
+      '@type': 'AggregateOffer',
+      priceCurrency: 'EUR',
+      lowPrice: '300',
+      highPrice: '6000',
+      offerCount: '4',
+    },
+    hasOfferCatalog: {
+      '@type': 'OfferCatalog',
+      name: 'Google Ads budžetske faze',
+      itemListElement: [
+        {
+          '@type': 'Offer',
+          name: 'Početni test',
+          description: 'Za firme koje prvi put ulaze u Google Ads i žele test ključnih reči sa visokim intentom.',
+          priceSpecification: {
+            '@type': 'PriceSpecification',
+            priceCurrency: 'EUR',
+            minPrice: '300',
+            maxPrice: '700',
+          },
+        },
+        {
+          '@type': 'Offer',
+          name: 'Stabilan rast',
+          description: 'Za firme koje žele predvidljiv priliv upita kroz Search + remarketing i kontinuiranu optimizaciju.',
+          priceSpecification: {
+            '@type': 'PriceSpecification',
+            priceCurrency: 'EUR',
+            minPrice: '700',
+            maxPrice: '2000',
+          },
+        },
+        {
+          '@type': 'Offer',
+          name: 'Agresivna akvizicija',
+          description: 'Za kompanije koje žele veći tržišni udeo kroz kombinaciju Search i Performance Max kampanja.',
+          priceSpecification: {
+            '@type': 'PriceSpecification',
+            priceCurrency: 'EUR',
+            minPrice: '2000',
+            maxPrice: '6000',
+          },
+        },
+        {
+          '@type': 'Offer',
+          name: 'Enterprise',
+          description: 'Za velike sisteme sa više tržišta, višim obimom pretrage i profit-orijentisanim skaliranjem.',
+          priceSpecification: {
+            '@type': 'PriceSpecification',
+            priceCurrency: 'EUR',
+            minPrice: '6000',
+          },
+        },
+      ],
     },
   },
   '/instagram-reklame-cena': {
@@ -656,7 +714,7 @@ const ogMeta = {
   },
   '/instagram-reklame-cena': {
     title: 'Instagram Reklame Cena 2026 + Vođenje Kampanja | Platinum Zenith',
-    description: 'Koliko koštaju Instagram reklame i vođenje Instagram Ads kampanja u Srbiji 2026: CPC, CPM, budžeti po fazama rasta i realna cena upravljanja.',
+    description: 'Koliko koštaju Instagram reklame, Reels oglasi i vođenje Instagram Ads kampanja u Srbiji 2026: CPC, CPM, budžeti po fazama rasta i realna cena upravljanja.',
     ogImage: `${SITE_URL}/pz-og.jpg`,
     ogImageAlt: 'Instagram reklame cena u Srbiji 2026 - vodič Platinum Zenith',
   },
@@ -722,12 +780,32 @@ function removeJsonLdScript(html, id) {
 const serverFaqByPath = {
   '/google-reklame-cena': [
     {
-      q: 'Koliki je minimalni budžet za Google reklame?',
-      a: 'Za većinu lokalnih biznisa početni test budžet je oko 500–1.000€ mesečno, uz optimizaciju prema kvalitetu leadova.',
+      q: 'Koliki je minimalan budžet za Google Ads?',
+      a: 'Praktični minimum je oko 300€ mesečno za klikove, plus upravljanje. Ispod toga je teško prikupiti dovoljno podataka za ozbiljnu optimizaciju.',
     },
     {
-      q: 'Kako da smanjim cenu klika bez pada kvaliteta?',
-      a: 'Najviše pomažu bolja struktura kampanja, negativne ključne reči, relevantniji oglasi i bolji landing page nakon klika.',
+      q: 'Koliko koštaju Google reklame za malu firmu u Srbiji?',
+      a: 'Za većinu lokalnih usluga realan start je 300-900€ mesečno za mediju, uz dodatnu cenu upravljanja kampanjom. Tačan iznos zavisi od konkurencije i vrednosti jednog klijenta.',
+    },
+    {
+      q: 'Kako da znam da li mi je cena Google oglasa održiva?',
+      a: 'Posmatrajte cenu kvalifikovanog leada (CPA) u odnosu na prosečnu maržu po klijentu. Ako lead košta manje od onoga što vam ostaje kao profit, kampanja je održiva i može da se skalira.',
+    },
+    {
+      q: 'Da li je Google Ads bolji od Facebook oglasa?',
+      a: 'Google hvata postojeću potražnju (ljudi koji aktivno traže rešenje), dok Facebook češće kreira potražnju. Za većinu firmi najbolje radi kombinacija oba kanala.',
+    },
+    {
+      q: 'Koliko brzo se vide rezultati?',
+      a: 'Prvi klikovi i upiti dolaze brzo, često u prvih nekoliko dana. Za stabilne brojke i kvalitetnu optimizaciju obično je potrebno 3-6 nedelja.',
+    },
+    {
+      q: 'Šta najviše utiče na cenu klika?',
+      a: 'Konkurencija za ključnu reč, kvalitet oglasa, relevantnost landing stranice i istorija naloga. Dobar Quality Score može osetno smanjiti CPC.',
+    },
+    {
+      q: 'Da li mogu sam da vodim kampanje?',
+      a: 'Možete, ali bez jasne strukture i trackinga često dolazi do rasipanja budžeta. Ako vodite kampanje sami, krenite sa uskim setom ključnih reči i jasnim ciljem konverzije.',
     },
   ],
   '/instagram-reklame-cena': [
@@ -742,6 +820,10 @@ const serverFaqByPath = {
     {
       q: 'Šta najviše podiže cenu Instagram kampanja?',
       a: 'Najčešće su problem loša poruka oglasa, neprecizno targetiranje i slaba stranica na koju korisnik dolazi nakon klika.',
+    },
+    {
+      q: 'Koliko koštaju Instagram Reels reklame u Srbiji?',
+      a: 'Za većinu niša Reels CPM je najčešće između 2,5€ i 8,5€, dok CPC često ulazi u raspon 0,07–0,32€. Konačna cena po rezultatu najviše zavisi od hook-a, kreative i kvaliteta landing stranice.',
     },
   ],
   '/izrada-wordpress-sajta-cena': [
@@ -953,7 +1035,7 @@ function injectServerArticleSchema(html, cleanPath, canonicalUrl) {
 
   const article = {
     '@context': 'https://schema.org',
-    '@type': 'Article',
+    '@type': 'BlogPosting',
     headline: post.title,
     description: post.excerpt,
     url: canonicalUrl,

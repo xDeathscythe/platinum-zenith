@@ -88,8 +88,8 @@ for (const post of publicPosts) {
     continue
   }
 
-  if (!['Article', 'BlogPosting'].includes(article['@type'])) {
-    issues.push(`${route}: ld-article-server must be Article or BlogPosting (got ${article['@type'] || 'missing'})`)
+  if (article['@type'] !== 'BlogPosting') {
+    issues.push(`${route}: ld-article-server must be BlogPosting (got ${article['@type'] || 'missing'})`)
   }
 
   if (article.headline !== post.title) {
