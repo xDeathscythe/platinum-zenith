@@ -50,6 +50,7 @@
     "seo:link-coverage": "node scripts/seo-link-coverage-audit.mjs",
     "seo:money-cluster-linking": "node scripts/seo-money-cluster-linking-audit.mjs",
     "seo:blog-schema": "node scripts/seo-blog-schema-audit.mjs",
+    "seo:blog-listing-schema": "node scripts/seo-blog-listing-schema-audit.mjs",
     "seo:article-og": "node scripts/seo-article-og-audit.mjs",
     "seo:meta-quality": "node scripts/seo-meta-quality-audit.mjs",
     "seo:meta-quality:strict": "node scripts/seo-meta-quality-audit.mjs --strict",
