@@ -221,7 +221,7 @@ export const blogIndexPosts = [
   {
     "slug": "google-ads-cena-po-kliku-srbija-2026",
     "title": "Google Ads cena po kliku u Srbiji 2026: realni CPC rasponi po ni�i i intentu",
-    "excerpt": "Detaljan vodic za Google Ads cenu po kliku u Srbiji 2026: realni CPC opsezi po ni�i, �ta ih menja i kako da planirate bud�et po fazama bez nagadanja.",
+    "excerpt": "Koliko Google Ads klik realno kosta u Srbiji 2026, zasto isti upit ne placa isto svaka firma i kako da procenis da li ti je CPC zdrav ili samo deluje jeftino.",
     "date": "2026-03-11",
     "category": "Google Ads",
     "readTime": "11 min",

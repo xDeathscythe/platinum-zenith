@@ -2640,31 +2640,35 @@ Ako �eli�, mo�emo da rastavimo tvoju trenutnu ponudu i slo�imo novu verz
   {
     slug: 'google-ads-cena-po-kliku-srbija-2026',
     title: 'Google Ads cena po kliku u Srbiji 2026: realni CPC rasponi po ni�i i intentu',
-    excerpt: 'Detaljan vodic za Google Ads cenu po kliku u Srbiji 2026: realni CPC opsezi po ni�i, �ta ih menja i kako da planirate bud�et po fazama bez nagadanja.',
+    excerpt: 'Koliko Google Ads klik realno kosta u Srbiji 2026, zasto isti upit ne placa isto svaka firma i kako da procenis da li ti je CPC zdrav ili samo deluje jeftino.',
     date: '2026-03-11',
     category: 'Google Ads',
     readTime: '11 min',
     content: `
 ## Google Ads cena po kliku u Srbiji 2026: kratak odgovor bez magle
 
-Ako tra�ite jednu �prosecnu� cenu klika za Srbiju, gotovo sigurno cete pogre�no planirati bud�et.
-U realnosti, **Google Ads cena po kliku** mo�e biti i 0,20� i 2,50�+, u zavisnosti od ni�e, grada, namere pretrage i kvaliteta naloga.
+Ako trazite jednu prosecnu cenu klika za Srbiju, vrlo verovatno cete odmah pogresiti u planiranju budzeta.
 
-Za �iru sliku ukupnog ulaganja (medija + upravljanje), pogledajte i [Google reklame cena](/google-reklame-cena).
+U praksi, **Google Ads cena po kliku** moze biti i 0,20e i 2,50e+, a nekad i vise. Nije stvar samo u tome "koliko je Google skup", nego u tome sta tacno oglasavate, u kom gradu, za kakav upit i koliko vam je nalog stvarno uredjen.
+
+To je razlog zbog kog dve firme iz iste industrije cesto ne placaju isti klik. Jedna ima bolju strukturu kampanje, bolji oglas i landing koji radi posao. Druga placa vise za slabiji rezultat i onda zakljuci da je kanal preskup.
+
+Za siru sliku ukupnog ulaganja, ne samo cene klika, pogledajte i [Google reklame cena](/google-reklame-cena).
 
 ## Realni CPC rasponi po ni�ama (Search kampanje, Srbija)
 
-Najce�ci opsezi koje vidimo u praksi:
+Evo raspona koji najcesce imaju smisla kao pocetna orijentacija za Search u Srbiji:
 
-- **Lokalne usluge (saloni, mini-servisi): 0,15� � 0,55�**
-- **Kucne i terenske usluge (klime, stolarija, vodoinstalater): 0,35� � 1,30�**
-- **Medicina i stomatologija (privatni sektor): 0,60� � 1,90�**
-- **Pravne i finansijske usluge: 0,90� � 3,00�**
-- **B2B specijalizovane usluge (software, industrija, consulting): 0,70� � 2,30�**
-- **E-commerce pretraga (zavisno od kategorije): 0,20� � 1,20�**
+- **Lokalne usluge (saloni, mini-servisi): 0,15e - 0,55e**
+- **Kucne i terenske usluge (klime, stolarija, vodoinstalater): 0,35e - 1,30e**
+- **Medicina i stomatologija (privatni sektor): 0,60e - 1,90e**
+- **Pravne i finansijske usluge: 0,90e - 3,00e**
+- **B2B specijalizovane usluge (software, industrija, consulting): 0,70e - 2,30e**
+- **E-commerce pretraga (zavisno od kategorije): 0,20e - 1,20e**
 
-Ovo su **realni rasponi**, ne garancije.
-Poenta: bud�et planirajte po svojoj ni�i i kvalitetu lead-a, ne po �proseku sa foruma�.
+Ovo nisu garancije i ne treba ih tako citati. Korisne su kao orijentir da znate da li vam brojke deluju zdravo ili vec na startu nesto "vuce" previse budzeta.
+
+Najveca greska je kada neko planira kampanju po tudjem proseku. Budzet ima smisla tek kada ga vezete za svoju nishu, svoj grad i kvalitet lead-a koji vam je potreban.
 
 ## Za�to isti biznis u dva grada cesto placa razlicit CPC
 
@@ -2694,12 +2698,14 @@ Zato je zdravije optimizovati ka **CPL-u i kvalitetu lead-a**, ne ka �najjefti
 Praktican model za start:
 
 1. Defini�ite ciljnu ni�u i ocekivani CPC raspon.
-2. Planirajte minimum **250�400 klikova mesecno** da imate smislen uzorak.
+2. Planirajte minimum **250-400 klikova mesecno** da imate smislen uzorak.
 3. Dodajte bud�et za upravljanje i tracking setup.
 
 Primer:
-Ako je va� prosecan CPC oko 0,85�, test bud�et za mediju je okvirno **212��340�**.
-Ako �elite br�e ucenje (vi�e oglasa, vi�e ad grupa), bud�et raste proporcionalno.
+Ako je va� prosecan CPC oko 0,85e, test bud�et za mediju je okvirno **212e-340e**.
+Ako �elite br�e ucenje, sa vi�e oglasa i vi�e ad grupa, bud�et raste proporcionalno.
+
+Ovo je deo gde firme najce�ce pogre�e. Vide broj od 0,85e po kliku i zakljuce da je kanal "jeftin". Ali klik sam po sebi ne govori dovoljno. Ako vam treba 300 klikova da dobijete dovoljno podataka za prvu ozbiljnu optimizaciju, onda cena klika odmah mora da se prevede u realan mese�ni test bud�et. Tek tada vidite da li je plan stvarno odr�iv ili samo lepo zvu�i u teoriji.
 
 Za poredenje sa drugim kanalima, pogledajte i [Instagram reklame cena](/instagram-reklame-cena) i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
@@ -2740,8 +2746,11 @@ Na kraju meseca pravo pitanje nije �koliko je klik?�, vec **�koliko ko�t
 
 ## Zakljucak
 
-Google Ads cena po kliku u Srbiji 2026 nema jednu univerzalnu cifru.
-Realan CPC zavisi od ni�e, grada, intenta i kvaliteta izvr�enja kampanje + landing-a.
+Ako iz ovog teksta treba da zapamtite samo jednu stvar, neka bude ova: nizak CPC nije automatski dobra vest, kao �to ni vi�i CPC nije automatski problem.
+
+Pravo pitanje je da li vas taj klik dovodi do kvalitetnog upita i da li bud�et iza njega ima smisla za va�u ni�u. Nekad je klik od 1,20e skuplji samo na papiru, a zapravo je vredniji od tri "jeftina" klika koji ne donesu ni poziv ni poruku.
+
+Zato Google Ads cenu po kliku uvek gledajte zajedno sa intentom, landing stranicom i kvalitetom lead-a. Tek tada brojka stvarno ima zna�enje.
 
 Ako �elite preciznu procenu za va� slucaj (CPC raspon + test bud�et + plan optimizacije), [javite nam se](/kontakt) i dobicete konkretan plan po fazama.
 `,
