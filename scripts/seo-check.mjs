@@ -23,6 +23,7 @@ const checks = [
   { name: 'Heading hierarchy', script: 'scripts/seo-headings-audit.mjs' },
   { name: 'Blog heading hierarchy', script: 'scripts/seo-blog-headings-audit.mjs' },
   { name: 'Image attributes', script: 'scripts/seo-image-audit.mjs' },
+  { name: 'Image loading strategy', script: 'scripts/seo-image-loading-strategy-audit.mjs' },
   { name: 'Image alt-text quality', script: 'scripts/seo-alt-quality-audit.mjs' },
   { name: 'Internal linking', script: 'scripts/seo-links-audit.mjs' },
   { name: 'Internal link integrity (no broken internal URLs)', script: 'scripts/seo-internal-link-integrity-audit.mjs' },

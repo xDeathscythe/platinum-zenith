@@ -54,6 +54,7 @@
     "seo:money-cluster-linking": "node scripts/seo-money-cluster-linking-audit.mjs",
     "seo:google-ads-linking": "node scripts/seo-google-ads-page-linking-audit.mjs",
     "seo:wordpress-linking": "node scripts/seo-wordpress-page-linking-audit.mjs",
+    "seo:image-loading": "node scripts/seo-image-loading-strategy-audit.mjs",
     "seo:blog-schema": "node scripts/seo-blog-schema-audit.mjs",
     "seo:blog-listing-schema": "node scripts/seo-blog-listing-schema-audit.mjs",
     "seo:blog-feed-freshness": "node scripts/seo-blog-feed-freshness-audit.mjs",
