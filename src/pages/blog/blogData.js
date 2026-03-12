@@ -6997,6 +6997,8 @@ Obe izjave su pogre�ne iz istog razloga. Marketing je radio. Radio je protiv v
 
 Svaki oglas koji po�aljete u svet radi ne�to. Ili privlaci prave ljude, ili odbija prave ljude i privlaci pogre�ne. "Ni�ta se nije desilo" ne postoji. Uvek se ne�to desi. Pitanje je samo da li ste merili pravu stvar.
 
+Ako vam treba realan okvir koliko marketing uop�te treba da ko�ta kad je zdrav, pogledajte i [cene digitalnog marketinga](/cene-digitalnog-marketinga) kao baznu referencu pre nego �to procenjujete da li je problem u bud�etu ili u izvedbi.
+
 ## Direktni tro�kovi: pare koje vidite
 
 Ovo je lak deo. Potro�ili ste 2.000� mesecno na Facebook oglase. Dobili ste 4 upita. Nijedan nije kupio. Rezultat: -2.000�.
@@ -7008,6 +7010,8 @@ Direktni tro�kovi lo�ih kampanja:
 - Honorar agencije ili freelancera
 - Alati i pretplate (email platforma, CRM, analitika)
 - Dizajn i produkcija sadr�aja koji niko ne vidi
+
+Ako ho�ete da uporedite kako taj tro�ak izgleda po kanalu, korisno je da pogledate i [Google reklame cenu](/google-reklame-cena) i [koliko ko�ta Facebook reklama](/koliko-kosta-facebook-reklama), jer tek tada vidite da problem �esto nije u platformi nego u tome kako je kampanja slo�ena.
 
 Ovo je obicno 1.000-5.000� mesecno za malu firmu. Neprijatno, ali pre�ivljivo. Problem je �to je ovo tek pocetak.
 
@@ -7083,6 +7087,8 @@ Razlika: 6 klijenata vi�e mesecno. Ako svaki klijent vredi 800�, to je 4.800
 Za godinu dana: 57.600� razlike. A klijenti kupuju ponovo, preporucuju, ostavljaju recenzije. Compound efekat radi za vas umesto protiv vas.
 
 Ne morate da tro�ite vi�e. Morate da tro�ite pametnije. I morate da pocnete �to pre, jer svaki mesec lo�eg marketinga je mesec u kome vam konkurencija uzima klijente koje ste vi trebali da imate.
+
+Ako u ovom trenutku niste sigurni gde ta�no curi novac, dva najprakti�nija slede�a koraka su [konsultantski pregled prioriteta](/consulting) i provera da li vam sajt uop�te zatvara dovoljno dobro kroz [CRO optimizaciju](/cro).
 
 Saznajte vi�e o na�em [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
 
