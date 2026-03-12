@@ -1,5 +1,7 @@
 import { Link } from 'react-router-dom'
 import usePageMeta from '../hooks/usePageMeta'
+import RelatedBlogPosts from '../components/RelatedBlogPosts'
+import { blogIndexPosts } from './blog/blogIndexData'
 
 const budgetTiers = [
   {
@@ -186,6 +188,14 @@ const faqs = [
     a: 'Možete, ali bez jasne strukture i trackinga često dolazi do rasipanja budžeta. Ako vodite kampanje sami, krenite sa uskim setom ključnih reči i jasnim ciljem konverzije.',
   },
 ]
+
+const relatedPosts = [
+  'google-ads-cena-po-kliku-srbija-2026',
+  'vodjenje-google-ads-kampanja-cena-srbija-2026',
+  'koliko-brzo-google-ads-donosi-prve-klijente-srbija-2026',
+]
+  .map((slug) => blogIndexPosts.find((post) => post.slug === slug))
+  .filter(Boolean)
 
 export default function GoogleReklameCenaPage() {
   usePageMeta()
@@ -475,6 +485,11 @@ export default function GoogleReklameCenaPage() {
           </div>
         </div>
       </section>
+
+      <RelatedBlogPosts
+        posts={relatedPosts}
+        heading="Vodiči koji pomažu da Google Ads budžet donese više kvalifikovanih upita"
+      />
 
       <section className="px-4 md:px-8 pb-20 md:pb-32">
         <div className="max-w-[600px] mx-auto text-center">

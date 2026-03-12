@@ -1,5 +1,7 @@
 import { Link } from 'react-router-dom'
 import usePageMeta from '../hooks/usePageMeta'
+import RelatedBlogPosts from '../components/RelatedBlogPosts'
+import { blogIndexPosts } from './blog/blogIndexData'
 
 const tiers = [
   {
@@ -158,6 +160,14 @@ const faqs = [
     a: 'Najčešće su to premium licence, hitne intervencije bez maintenance plana i kasne UX/SEO dorade. Zato je važno da roadmap i održavanje budu deo dogovora od starta.',
   },
 ]
+
+const relatedPosts = [
+  'izrada-wordpress-sajta-cena-po-tipu-biznisa-srbija-2026',
+  'cena-odrzavanja-wordpress-sajta-srbija-2026',
+  'izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu',
+]
+  .map((slug) => blogIndexPosts.find((post) => post.slug === slug))
+  .filter(Boolean)
 
 export default function IzradaWordpressSajtaCenaPage() {
   usePageMeta()
@@ -384,6 +394,11 @@ export default function IzradaWordpressSajtaCenaPage() {
           </div>
         </div>
       </section>
+
+      <RelatedBlogPosts
+        posts={relatedPosts}
+        heading="WordPress vodiči koji pomažu da sajt bude isplativiji i lakši za održavanje"
+      />
 
       <section className="px-4 md:px-8 pb-20 md:pb-32">
         <div className="max-w-[620px] mx-auto text-center">

@@ -1,5 +1,7 @@
 import { Link } from 'react-router-dom'
 import usePageMeta from '../hooks/usePageMeta'
+import RelatedBlogPosts from '../components/RelatedBlogPosts'
+import { blogIndexPosts } from './blog/blogIndexData'
 
 const budgetTiers = [
   {
@@ -226,6 +228,14 @@ const faqs = [
     a: 'Za većinu niša Reels CPM je najčešće između 2,5€ i 8,5€, dok CPC često ulazi u raspon 0,07-0,32€. Konačna cena po rezultatu zavisi od hook-a, kreative i kvaliteta landing stranice.',
   },
 ]
+
+const relatedPosts = [
+  'instagram-ads-cena-po-kliku-srbija-2026',
+  'vodjenje-instagram-ads-kampanja-cena-srbija-2026',
+  'meta-ads-cena-po-kliku-srbija-2026',
+]
+  .map((slug) => blogIndexPosts.find((post) => post.slug === slug))
+  .filter(Boolean)
 
 export default function InstagramReklameCenaPage() {
   usePageMeta()
@@ -536,6 +546,11 @@ export default function InstagramReklameCenaPage() {
           </div>
         </div>
       </section>
+
+      <RelatedBlogPosts
+        posts={relatedPosts}
+        heading="Instagram Ads vodiči za niži CPL, bolji kreativa-test i stabilniji rast"
+      />
 
       <section className="px-4 md:px-8 pb-20 md:pb-32">
         <div className="max-w-[600px] mx-auto text-center">
