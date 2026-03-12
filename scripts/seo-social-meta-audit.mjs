@@ -69,12 +69,16 @@ for (const route of routes) {
   const ogTitle = extractMeta(out, /<meta\s+property="og:title"\s+content="([^"]+)"\s*\/>/i)
   const ogDesc = extractMeta(out, /<meta\s+property="og:description"\s+content="([^"]+)"\s*\/>/i)
   const ogType = extractMeta(out, /<meta\s+property="og:type"\s+content="([^"]+)"\s*\/>/i)
+  const ogSiteName = extractMeta(out, /<meta\s+property="og:site_name"\s+content="([^"]+)"\s*\/>/i)
+  const ogLocale = extractMeta(out, /<meta\s+property="og:locale"\s+content="([^"]+)"\s*\/>/i)
   const twTitle = extractMeta(out, /<meta\s+name="twitter:title"\s+content="([^"]+)"\s*\/>/i)
   const twDesc = extractMeta(out, /<meta\s+name="twitter:description"\s+content="([^"]+)"\s*\/>/i)
   const twCard = extractMeta(out, /<meta\s+name="twitter:card"\s+content="([^"]+)"\s*\/>/i)
 
   if (!ogTitle) issues.push(`${route}: missing og:title`)
   if (!ogDesc) issues.push(`${route}: missing og:description`)
+  if (!ogSiteName) issues.push(`${route}: missing og:site_name`)
+  if (!ogLocale) issues.push(`${route}: missing og:locale`)
   if (!twTitle) issues.push(`${route}: missing twitter:title`)
   if (!twDesc) issues.push(`${route}: missing twitter:description`)
   if (!twCard) issues.push(`${route}: missing twitter:card`)
@@ -93,8 +97,16 @@ for (const route of routes) {
     issues.push(`${route}: twitter:description differs from og:description`)
   }
 
+  if (ogSiteName && ogSiteName !== 'Platinum Zenith') {
+    issues.push(`${route}: og:site_name expected Platinum Zenith, got ${ogSiteName}`)
+  }
+
+  if (ogLocale && ogLocale !== 'sr_RS') {
+    issues.push(`${route}: og:locale expected sr_RS, got ${ogLocale}`)
+  }
+
   if (twCard && twCard !== 'summary_large_image') {
-    warnings.push(`${route}: twitter:card expected summary_large_image, got ${twCard}`)
+    issues.push(`${route}: twitter:card expected summary_large_image, got ${twCard}`)
   }
 
   if (ogTitle && (ogTitle.length < 20 || ogTitle.length > 95)) {
