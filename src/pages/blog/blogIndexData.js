@@ -3,6 +3,24 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "instagram-reklame-za-autoservise-cena-upita-srbija-2026",
+    "title": "Instagram reklame za autoservise u Srbiji 2026: cena upita i budzet",
+    "excerpt": "Praktican vodic za autoservise: koliki Instagram budzet ima smisla, kako da merite cenu upita i koje kreativne poruke najbrze pune raspored termina.",
+    "date": "2026-03-12",
+    "category": "Instagram Ads",
+    "readTime": "9 min",
+    "isDraft": false
+  },
+  {
+    "slug": "instagram-ads-cena-po-kliku-srbija-2026",
+    "title": "Instagram Ads cena po kliku u Srbiji 2026: realni CPC rasponi i kako da spustis trosak leada",
+    "excerpt": "Praktican vodič za Instagram Ads CPC u Srbiji 2026: rasponi po niši, glavni razlozi visokog klika i konkretni potezi za niži trošak uz bolji kvalitet upita.",
+    "date": "2026-03-12",
+    "category": "Instagram Ads",
+    "readTime": "9 min",
+    "isDraft": false
+  },
+  {
     "slug": "izrada-wordpress-sajta-cena-po-tipu-biznisa-srbija-2026",
     "title": "Izrada WordPress sajta cena po tipu biznisa u Srbiji 2026: realni rasponi i sta ulazi u cenu",
     "excerpt": "Koliko realno kosta WordPress sajt u Srbiji 2026 za usluzni biznis, ordinaciju, web shop ili B2B firmu i kako da procenis da li ponuda stvarno ima smisla.",
@@ -207,15 +225,6 @@ export const blogIndexPosts = [
     "date": "2026-03-11",
     "category": "Social Media",
     "readTime": "9 min",
-    "isDraft": false
-  },
-  {
-    "slug": "instagram-ads-cena-po-kliku-srbija-2026",
-    "title": "Instagram Ads cena po kliku u Srbiji 2026: realni CPC rasponi i bud�et plan",
-    "excerpt": "Koliko realno ko�ta klik na Instagram oglasima u Srbiji 2026, od cega zavisi CPC i kako da planirate bud�et bez skupih gre�aka.",
-    "date": "2026-03-11",
-    "category": "Instagram Ads",
-    "readTime": "8 min",
     "isDraft": false
   },
   {

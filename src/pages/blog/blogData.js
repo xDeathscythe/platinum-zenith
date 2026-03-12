@@ -1,5 +1,209 @@
 const rawBlogPosts = [
   {
+    slug: 'instagram-reklame-za-autoservise-cena-upita-srbija-2026',
+    title: 'Instagram reklame za autoservise u Srbiji 2026: cena upita i budzet',
+    excerpt: 'Praktican vodic za autoservise: koliki Instagram budzet ima smisla, kako da merite cenu upita i koje kreativne poruke najbrze pune raspored termina.',
+    date: '2026-03-12',
+    category: 'Instagram Ads',
+    readTime: '9 min',
+    content: `
+## Instagram reklame za autoservise u Srbiji 2026: kratak odgovor
+
+Ako trazis upit **instagram reklame za autoservise cena Srbija**, najvaznije je da ne meris samo klik.
+U praksi 2026, za vecinu gradova u Srbiji realan okvir je:
+
+- CPC: **0,08e - 0,45e**
+- cena upita (lead): **4e - 22e**
+- cena zakazanog termina: **8e - 35e**
+
+Raspon je sirok jer mnogo zavisi od ponude, kvaliteta kreative i brzine odgovora servisa.
+Za siri benchmark platforme pogledaj i [Instagram reklame cena](/instagram-reklame-cena).
+
+## Kada Instagram radi bolje od Search kanala za autoservis
+
+Instagram je najjaci kad treba da gradis lokalnu prepoznatljivost i popunis "mekse" termine:
+
+- redovni mali servis,
+- sezonske provere (klima, akumulator, priprema za put),
+- akcije za odredjeni period,
+- reminder kampanje za postojece kupce.
+
+Ako hoces cist high-intent saobracaj (korisnik koji vec sada trazi servis), Search je obicno jaci.
+Zato vecina profitabilnih naloga kombinuje oba kanala: Instagram za demand capture + retargeting, Google za intent now.
+Za uporedni okvir pogledaj [Google reklame cena](/google-reklame-cena) i [Google Ads za autoservise](/blog/google-ads-za-autoservise-cena-leada-srbija-2026).
+
+## Koliki budzet ima smisla za autoservis
+
+Najcesci rasponi za pocetak po lokaciji:
+
+- **Mali grad / niza konkurencija:** 250e-500e mesecno
+- **Srednji grad:** 500e-900e mesecno
+- **Beograd / jaca konkurencija:** 900e-1.800e+ mesecno
+
+Bitno: ovo je medijski budzet platformi. Ako hoces ozbiljniju optimizaciju i produkciju, racunaj i operativni deo.
+Za celokupan budzetski okvir po kanalima korisno je [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## KPI koji treba da vodis (ne samo CPC)
+
+Autoservisima je najopasnije da se zalete na jeftin klik i misle da kampanja radi.
+Drzi fokus na 5 brojki:
+
+1. **CPC** (koliko placas ulaz),
+2. **LP view rate** (da li klik stvarno stigne do strane),
+3. **cena upita** (koliko kosta kontakt),
+4. **cena zakazanog termina** (koliko kosta realna rezervacija),
+5. **procenat dolaska na termin** (koliko zakazanih stvarno dodje).
+
+Ako je CPC nizak, a cena termina visoka, problem je skoro uvek posle klika: poruka, forma ili spor follow-up.
+
+## Kreative koje najcesce rade za autoservise
+
+Na Instagramu najbolje prolazi praktican i "zemlja" sadrzaj, ne sterilna reklama:
+
+### 1) Pre/posle mini dijagnostika
+Kratak reel: simptom -> uzrok -> rezultat posle intervencije.
+
+### 2) Sezonski hook
+Primer: "Pre puta proveri kocnice i klimu za 15 minuta".
+
+### 3) Cenovni okvir bez magle
+Ljudi bolje reaguju kad okvir cene postoji, makar raspon.
+
+### 4) Lokalni signal poverenja
+Naziv grada, realni kadar radionice, mehanicar koji govori jasno i kratko.
+
+### 5) Jedan CTA, jedan sledeci korak
+Ne pet opcija. Jedna jasna akcija: poruka, poziv ili forma.
+
+## Landing i follow-up: gde vecina servisa gubi novac
+
+Najvise para se gubi u prekidu izmedju oglasa i odgovora servisa.
+Ako korisnik ceka satima, cena upita prakticno raste i kad je CPC dobar.
+
+Minimum koji treba da postoji:
+
+- naslov koji ponavlja poruku oglasa 1:1,
+- jedna kratka forma ili click-to-call,
+- jasno radno vreme i lokacija,
+- automatski odgovor + poziv u prvih 10-20 min.
+
+Ako trenutno saljes placeni saobracaj na stranicu koja ne zatvara, prvo to sredi.
+Koristan okvir je [izrada landing stranice: cena, rokovi, sta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
+
+## 30-dnevni plan bez lutanja
+
+- **Nedelja 1:** tracking setup + baseline brojki + 3 creative ugla.
+- **Nedelja 2:** gasenje slabih oglasa i prebacivanje budzeta na pobednike.
+- **Nedelja 3:** dorada landing-a i forme, ubrzanje odgovora tima.
+- **Nedelja 4:** optimizacija po ceni zakazanog termina i procentu dolaska.
+
+Posle 30 dana vec treba da znas sta radi i sta ne.
+Bez te discipline, kampanja izgleda aktivno, a u stvari trosi budzet bez stabilnog efekta.
+
+## Zakljucak
+
+Instagram reklame za autoservise u Srbiji 2026 mogu biti odlican kanal, ali samo ako se vodi cena termina i kvalitet dolaska, ne vanity metrike.
+Ako hoces, mozemo da uradimo brz audit tvoje trenutne kampanje i damo 3 najbrza poteza za nizi trosak upita preko [kontakt forme](/kontakt).
+`,
+  },
+  {
+    slug: 'instagram-ads-cena-po-kliku-srbija-2026',
+    title: 'Instagram Ads cena po kliku u Srbiji 2026: realni CPC rasponi i kako da spustis trosak leada',
+    excerpt: 'Praktican vodič za Instagram Ads CPC u Srbiji 2026: rasponi po niši, glavni razlozi visokog klika i konkretni potezi za niži trošak uz bolji kvalitet upita.',
+    date: '2026-03-12',
+    category: 'Instagram Ads',
+    readTime: '9 min',
+    content: `
+## Instagram Ads cena po kliku u Srbiji 2026: kratak odgovor
+
+Ako trazis jedno magicno brojcano pravilo za **Instagram Ads cenu po kliku**, brzo ces promasiti budzet.
+U Srbiji 2026 realan CPC moze biti od **0,06e do 1,30e+**, u zavisnosti od industrije, kvaliteta kreative i toga sta se desava posle klika.
+
+Najvaznije: jeftin klik nije pobeda ako ne donosi kvalifikovan upit ili prodaju.
+Za siri okvir ulaganja, pogledaj i [Instagram reklame cena](/instagram-reklame-cena).
+
+## Realni CPC rasponi po nisama (Instagram, Srbija)
+
+Orijentacioni rasponi koji se najcesce vide u praksi:
+
+- **Lokalne usluge i beauty:** 0,06e - 0,28e
+- **Restorani i hospitality:** 0,08e - 0,35e
+- **E-commerce (srednja konkurencija):** 0,12e - 0,60e
+- **Stomatologija i privatna medicina:** 0,30e - 1,10e
+- **B2B i consulting usluge:** 0,35e - 1,30e+
+
+Ako je tvoja ponuda premium, visi CPC je normalan dok god su CPL i stopa zatvaranja zdravi.
+Za uporedni benchmark na Search kanalu, pogledaj [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026).
+
+## Zasto Instagram CPC ode previsoko
+
+Najcesci razlozi:
+
+1. kreativa ne zadrzi paznju u prve 2 sekunde,
+2. oglas i landing poruka nisu 1:1 uskladjeni,
+3. publike se preklapaju pa guraju cenu aukcije,
+4. account previse kasno osvezava kreative,
+5. signal konverzije je los (tracking rupa ili slab follow-up).
+
+Drugim recima: problem je retko samo u bid-u, cesce u celom funnel-u.
+
+## CPC je vazan, ali nije glavni KPI
+
+Instagram kampanju vodi kroz mini scorecard:
+
+- **CPC** (ulazna cena saobracaja),
+- **CTR** (koliko je poruka relevantna),
+- **LP view rate** (koliko klikova zaista stigne na stranicu),
+- **CPL/CPA** (stvarni trosak upita/prodaje),
+- **lead quality** (koliko leadova postaje realna prodaja).
+
+Ako drzis fokus samo na CPC, vrlo lako kupis jeftine klikove bez poslovnog efekta.
+Za celokupnu raspodelu budzeta po kanalima pogledaj [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Kako da spustis CPC bez pada kvaliteta leadova
+
+### 1) Hook + offer jasni u prvoj sekundi
+Prvi kadar i prvi red copy-ja moraju odmah reci *za koga je ponuda* i *koji problem resava*.
+
+### 2) 3x3 creative matrix
+Testiraj 3 ugla poruke x 3 formata (UGC, statika, kratki reel) umesto da menjas samo jednu rec u naslovu.
+
+### 3) Segmentacija publike po nameri
+Odvoji broad, warm i retargeting da algoritam dobije cist signal i da ne mesas nameru kupovine.
+
+### 4) Landing koji potvrdi obecanje iz oglasa
+Ako je u oglasu ponudjen "besplatan audit", isto to mora stajati jasno u hero sekciji landing strane.
+Ako landing skripi, prvo ga sredi kroz [izradu landing stranice: cena, rokovi, sta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
+
+### 5) Brz follow-up tima
+Lead koji ceka satima postaje skuplji i kada je CPC nizak, jer se kvalitet razgovora raspada.
+
+## Brz 30-dnevni plan optimizacije (Instagram Ads)
+
+- **Nedelja 1:** tracking provera + baseline KPI.
+- **Nedelja 2:** gasenje slabih oglasa, dupliranje pobednickih uglova.
+- **Nedelja 3:** landing dorade i CTA test.
+- **Nedelja 4:** raspodela budzeta prema CPL i kvalitetu leadova iz prodaje.
+
+Ako radis i Google paralelno, kombinuj ovaj plan sa [Google reklame cena](/google-reklame-cena).
+
+## Crvene zastavice da kampanja jede budzet
+
+- "Lep" CTR, ali los LP view rate,
+- CPC pada, ali CPL raste,
+- isti kreativi vrte se 4+ nedelje bez osvezavanja,
+- reporting nema prodajne metrike,
+- tim ne zna koje leadove sales zatvara, a koje gubi.
+
+Kada vidis ove signale, ne treba vise potrosnje nego bolji sistem.
+
+## Zakljucak
+
+Instagram Ads cena po kliku u Srbiji 2026 nema smisla sama za sebe.
+Prava optimizacija je da CPC, landing i prodajni follow-up rade kao jedna celina - ako hoces, mogu da uradim mini audit i dam ti 3 najbrza poteza za nizi trosak i bolji kvalitet upita preko [kontakt forme](/kontakt).
+`,
+  },
+  {
     slug: 'izrada-wordpress-sajta-cena-po-tipu-biznisa-srbija-2026',
     title: 'Izrada WordPress sajta cena po tipu biznisa u Srbiji 2026: realni rasponi i sta ulazi u cenu',
     excerpt: 'Koliko realno kosta WordPress sajt u Srbiji 2026 za usluzni biznis, ordinaciju, web shop ili B2B firmu i kako da procenis da li ponuda stvarno ima smisla.',
@@ -7851,7 +8055,9 @@ Cenu uvek vezujte za ishod i obim posla. Umesto jedne cifre, prika�ite pakete 
 
 Kad klijent vidi jasan ishod, plan i kontrolu rizika, odluka dolazi br�e. To je su�tina ponude kojoj je te�ko reci ne.
 
-Ako �elite �iri kontekst, pogledajte i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share), [cene digitalnog marketinga](/cene-digitalnog-marketinga) i [kako izabrati pravu marketing agenciju](/blog/kako-izabrati-pravu-marketing-agenciju).
+Ako �elite �iri kontekst, pogledajte i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share), [cene digitalnog marketinga](/cene-digitalnog-marketinga), [kako izabrati pravu marketing agenciju](/blog/kako-izabrati-pravu-marketing-agenciju) i [konsultantski pregled ponude i prioriteta](/consulting).
+
+Ako �elite da pretvorimo ovu logiku u konkretnu ponudu za va� biznis, [javite se](/kontakt) i dobicete jasan predlog sledecih koraka.
 `,
   }
 ,
@@ -8017,6 +8223,8 @@ Dan 6-7: testirajte 2 ugla kreativa i izaberite pobednika po kvalifikovanim upit
 Vi�e upita bez veceg bud�eta je moguce kada poruka i ponuda rade zajedno. To je su�tina Sabri Suby pristupa: jasnoca pre skaliranja.
 
 Ako �elite �iri kontekst, pogledajte i [Google reklame cena](/google-reklame-cena), [Instagram reklame cena](/instagram-reklame-cena) i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share).
+
+Ako �elite da pogledamo gde vam ta�no puca funnel i �ta prvo treba zategnuti, [javite se](/kontakt) i dobicete konkretan predlog prioriteta.
 `,
   }
 ,
