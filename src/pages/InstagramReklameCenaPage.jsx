@@ -145,6 +145,39 @@ const reelsBenchmarks = [
   },
 ]
 
+const channelSplitScenarios = [
+  {
+    scenario: 'Lokalne usluge (lead generation)',
+    objective: 'Brži kvalifikovani upiti uz kontrolu troška',
+    instagramShare: '55-70%',
+    facebookShare: '30-45%',
+    testingWindow: '14-21 dana',
+    note: 'Instagram obično nosi inicijalni volume kroz Reels/Stories, dok Facebook stabilizuje retargeting i niži CPA kod toplije publike.',
+  },
+  {
+    scenario: 'E-commerce D2C',
+    objective: 'Skaliranje prodaje bez pada ROAS-a',
+    instagramShare: '45-60%',
+    facebookShare: '40-55%',
+    testingWindow: '21-30 dana',
+    note: 'Instagram radi discovery i UGC momentum, a Facebook često zatvara kupovinu kroz katalog i remarketing sekvence.',
+  },
+  {
+    scenario: 'Premium/B2B ponude',
+    objective: 'Viši kvalitet leadova i manji waste',
+    instagramShare: '35-50%',
+    facebookShare: '50-65%',
+    testingWindow: '30 dana',
+    note: 'Skuplji leadovi traže jači trust layer; Facebook placement često donosi stabilniji nurturing dok Instagram testira nove angle-e.',
+  },
+]
+
+const splitRules = [
+  'Ako CTR na Instagramu padne ispod 0,9% dve nedelje zaredom, budžet se vraća na winner ad set pre novog skaliranja.',
+  'Ako retargeting CPA pređe cilj za >20%, prvo se menja ponuda i landing sekvenca, pa tek onda povećava spend.',
+  'Rast budžeta ide postepeno (15-25% nedeljno) i samo na ad set-ovima koji drže ROAS/CPA target.',
+]
+
 const ninetyDayPlan = [
   {
     phase: 'Dani 1-30: Validacija',
@@ -296,6 +329,17 @@ export default function InstagramReklameCenaPage() {
               </div>
             ))}
           </div>
+          <p className="text-[14px] text-ink-3 leading-relaxed text-center mt-8 max-w-[760px] mx-auto">
+            Ako pokušavate da spojite budžet za oglase sa ukupnim planom rasta, pogledajte i{' '}
+            <Link to="/cene-digitalnog-marketinga" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+              cene digitalnog marketinga
+            </Link>{' '}
+            i{' '}
+            <Link to="/consulting" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+              konsultantski plan prioriteta
+            </Link>,
+            jer Instagram budžet retko treba planirati izolovano od ostatka funnel-a.
+          </p>
         </div>
       </section>
 
@@ -438,6 +482,62 @@ export default function InstagramReklameCenaPage() {
 
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[980px] mx-auto">
+          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-4 text-center">Instagram vs Facebook raspodela budžeta (praktični scenariji)</h2>
+          <p className="text-[15px] text-ink-3 text-center mb-10 max-w-[780px] mx-auto">
+            Jedna od najskupljih grešaka je da ceo Meta budžet završi na jednom placement-u. Ovi scenariji daju početni okvir raspodele koji se zatim koriguje po stvarnim rezultatima kampanje.
+          </p>
+
+          <div className="space-y-4">
+            {channelSplitScenarios.map(item => (
+              <article key={item.scenario} className="bg-panel rounded-[16px] border border-edge p-5 md:p-6">
+                <div className="flex flex-col md:flex-row md:items-start md:justify-between gap-3 md:gap-6 mb-4">
+                  <h3 className="text-[17px] md:text-[18px] font-medium text-ink">{item.scenario}</h3>
+                  <div className="grid grid-cols-2 md:grid-cols-3 gap-3 md:gap-4 text-[12px] md:text-[13px]">
+                    <div>
+                      <div className="text-ink-4 uppercase tracking-wider mb-1">Instagram</div>
+                      <div className="font-semibold text-ink">{item.instagramShare}</div>
+                    </div>
+                    <div>
+                      <div className="text-ink-4 uppercase tracking-wider mb-1">Facebook</div>
+                      <div className="font-semibold text-ink">{item.facebookShare}</div>
+                    </div>
+                    <div className="col-span-2 md:col-span-1">
+                      <div className="text-ink-4 uppercase tracking-wider mb-1">Test period</div>
+                      <div className="font-semibold text-ink">{item.testingWindow}</div>
+                    </div>
+                  </div>
+                </div>
+
+                <p className="text-[14px] text-ink-2 leading-relaxed mb-3">{item.note}</p>
+                <p className="text-[13px] text-ink-3 leading-relaxed">
+                  Fokus: <span className="text-ink-2">{item.objective}</span>
+                </p>
+              </article>
+            ))}
+          </div>
+
+          <div className="mt-8 bg-panel rounded-[16px] border border-edge p-5 md:p-6">
+            <h3 className="text-[17px] font-medium text-ink mb-4">Pravila za skaliranje bez rasipanja budžeta</h3>
+            <ul className="space-y-3">
+              {splitRules.map(rule => (
+                <li key={rule} className="flex items-start gap-2 text-[14px] text-ink-2 leading-relaxed">
+                  <span className="text-emerald-500 mt-0.5 flex-shrink-0">✓</span>
+                  {rule}
+                </li>
+              ))}
+            </ul>
+            <p className="text-[13px] text-ink-3 leading-relaxed mt-5">
+              Ako želiš detaljnije poređenje placement-a i tipičnih Meta grešaka, pogledaj i{' '}
+              <Link to="/koliko-kosta-facebook-reklama" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">koliko košta Facebook reklama</Link>
+              {' '}i{' '}
+              <Link to="/facebook-oglasi-ne-rade" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">zašto Meta oglasi ne rade</Link>.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[980px] mx-auto">
           <h2 id="cold-retargeting" className="text-[26px] md:text-[34px] font-medium text-ink mb-4 text-center">Plan budžeta za prvih 90 dana Instagram oglašavanja</h2>
           <p className="text-[15px] text-ink-3 text-center mb-10 max-w-[760px] mx-auto">
             Najčešća greška je prerano skaliranje. Ovaj okvir pomaže da zadržiš kontrolu troška i povećaš broj kvalifikovanih upita pre ozbiljnog rasta spend-a.
@@ -476,6 +576,17 @@ export default function InstagramReklameCenaPage() {
               </div>
             ))}
           </div>
+          <p className="text-[14px] text-ink-3 leading-relaxed text-center mt-10 max-w-[760px] mx-auto">
+            Ako kampanja ima klikove, ali nema dovoljno upita ili prodaje, sledeći logičan korak je da proveriš i{' '}
+            <Link to="/facebook-oglasi-ne-rade" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+              zašto Meta oglasi ne daju rezultat
+            </Link>{' '}
+            ili da nas direktno kontaktiraš kroz{' '}
+            <Link to="/kontakt" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+              kontakt formu
+            </Link>{' '}
+            za brzu dijagnostiku funnel-a.
+          </p>
         </div>
       </section>
 
