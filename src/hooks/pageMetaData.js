@@ -601,7 +601,22 @@ export const pageSchemas = {
         "isPartOf": { "@id": SITE_URL },
         "about": { "@id": `${SITE_URL}/google-reklame-cena#service` },
         "breadcrumb": { "@id": `${SITE_URL}/google-reklame-cena#breadcrumb` },
-        "primaryImageOfPage": { "@type": "ImageObject", "url": `${SITE_URL}/og-image.jpg` }
+        "primaryImageOfPage": { "@type": "ImageObject", "url": `${SITE_URL}/og-image.jpg` },
+        "mainEntity": [
+          { "@id": `${SITE_URL}/google-reklame-cena#service` },
+          { "@id": `${SITE_URL}/google-reklame-cena#howto-budget` },
+          { "@id": `${SITE_URL}/google-reklame-cena#faq` }
+        ],
+        "mentions": [
+          { "@id": `${SITE_URL}/instagram-reklame-cena#service` },
+          { "@id": `${SITE_URL}/koliko-kosta-facebook-reklama#service` },
+          { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#service` }
+        ],
+        "potentialAction": {
+          "@type": "ContactAction",
+          "target": `${SITE_URL}/kontakt`,
+          "name": "Zakažite konsultacije za Google Ads budžet"
+        }
       },
       {
         "@type": "Service",
@@ -612,37 +627,138 @@ export const pageSchemas = {
         "url": `${SITE_URL}/google-reklame-cena`,
         "areaServed": { "@type": "Country", "name": "Srbija" },
         "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL },
+        "mainEntityOfPage": { "@id": `${SITE_URL}/google-reklame-cena#webpage` },
         "offers": { "@type": "AggregateOffer", "priceCurrency": "EUR", "lowPrice": "300", "highPrice": "6000", "offerCount": "4" },
-        "hasOfferCatalog": {
-          "@type": "OfferCatalog",
-          "name": "Google Ads budžetske faze",
-          "itemListElement": [
-            {
-              "@type": "Offer",
-              "name": "Početni test",
-              "description": "Za firme koje prvi put ulaze u Google Ads i žele test ključnih reči sa visokim intentom.",
-              "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "300", "maxPrice": "700" }
-            },
-            {
-              "@type": "Offer",
-              "name": "Stabilan rast",
-              "description": "Za firme koje žele predvidljiv priliv upita kroz Search + remarketing i kontinuiranu optimizaciju.",
-              "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "700", "maxPrice": "2000" }
-            },
-            {
-              "@type": "Offer",
-              "name": "Agresivna akvizicija",
-              "description": "Za kompanije koje žele veći tržišni udeo kroz kombinaciju Search i Performance Max kampanja.",
-              "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "2000", "maxPrice": "6000" }
-            },
-            {
-              "@type": "Offer",
-              "name": "Enterprise",
-              "description": "Za velike sisteme sa više tržišta, višim obimom pretrage i profit-orijentisanim skaliranjem.",
-              "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "6000" }
-            }
-          ]
-        }
+        "hasOfferCatalog": [
+          {
+            "@type": "OfferCatalog",
+            "name": "Google Ads budžetske faze",
+            "itemListElement": [
+              {
+                "@type": "Offer",
+                "name": "Početni test",
+                "description": "Za firme koje prvi put ulaze u Google Ads i žele test ključnih reči sa visokim intentom.",
+                "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "300", "maxPrice": "700" }
+              },
+              {
+                "@type": "Offer",
+                "name": "Stabilan rast",
+                "description": "Za firme koje žele predvidljiv priliv upita kroz Search + remarketing i kontinuiranu optimizaciju.",
+                "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "700", "maxPrice": "2000" }
+              },
+              {
+                "@type": "Offer",
+                "name": "Agresivna akvizicija",
+                "description": "Za kompanije koje žele veći tržišni udeo kroz kombinaciju Search i Performance Max kampanja.",
+                "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "2000", "maxPrice": "6000" }
+              },
+              {
+                "@type": "Offer",
+                "name": "Enterprise",
+                "description": "Za velike sisteme sa više tržišta, višim obimom pretrage i profit-orijentisanim skaliranjem.",
+                "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "6000" }
+              }
+            ]
+          },
+          {
+            "@type": "OfferCatalog",
+            "name": "Cena vođenja Google Ads kampanja",
+            "itemListElement": [
+              {
+                "@type": "Offer",
+                "name": "Freelance / mikro tim",
+                "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "150", "maxPrice": "300", "billingDuration": "P1M" }
+              },
+              {
+                "@type": "Offer",
+                "name": "Specijalizovana agencija",
+                "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "250", "maxPrice": "700", "billingDuration": "P1M" }
+              },
+              {
+                "@type": "Offer",
+                "name": "Enterprise vođenje",
+                "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "700", "billingDuration": "P1M" }
+              }
+            ]
+          }
+        ],
+        "additionalProperty": [
+          { "@type": "PropertyValue", "name": "CPC (Search) u Srbiji", "value": "0,10 - 1,20€" },
+          { "@type": "PropertyValue", "name": "CTR (Search) u Srbiji", "value": "4% - 12%" },
+          { "@type": "PropertyValue", "name": "CPA (lead) u Srbiji", "value": "8 - 60€" },
+          { "@type": "PropertyValue", "name": "Preporučeni test period", "value": "3-6 nedelja" }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": `${SITE_URL}/google-reklame-cena#howto-budget`,
+        "name": "Kako da izračunate Google Ads budžet bez nagađanja",
+        "description": "Četiri koraka za određivanje održivog Google Ads budžeta na osnovu marže i ciljanog CPA-a.",
+        "inLanguage": "sr-RS",
+        "totalTime": "P30D",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "position": 1,
+            "name": "Definišite vrednost klijenta",
+            "text": "Izračunajte prosečnu vrednost jednog klijenta ili porudžbine i neto maržu.",
+            "url": `${SITE_URL}/google-reklame-cena#vrednost-klijenta`
+          },
+          {
+            "@type": "HowToStep",
+            "position": 2,
+            "name": "Odredite maksimalni CPA",
+            "text": "Postavite maksimalan trošak akvizicije koji ostavlja zdravu maržu.",
+            "url": `${SITE_URL}/google-reklame-cena#maksimalni-cpa`
+          },
+          {
+            "@type": "HowToStep",
+            "position": 3,
+            "name": "Izračunajte potreban broj lead-ova",
+            "text": "Odredite koliko kvalifikovanih lead-ova mesečno je potrebno za ciljani prihod.",
+            "url": `${SITE_URL}/google-reklame-cena#broj-leadova`
+          },
+          {
+            "@type": "HowToStep",
+            "position": 4,
+            "name": "Postavite test budžet",
+            "text": "Planirajte budžet za minimum 200-400 klikova u prvih 30 dana kako biste imali dovoljno podataka.",
+            "url": `${SITE_URL}/google-reklame-cena#test-budzet-google`
+          }
+        ]
+      },
+      {
+        "@type": "ItemList",
+        "@id": `${SITE_URL}/google-reklame-cena#industry-benchmarks`,
+        "name": "Google Ads benchmark po nišama u Srbiji",
+        "itemListOrder": "http://schema.org/ItemListUnordered",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Lokalne usluge",
+            "item": { "@type": "Thing", "name": "CPC 0,10-0,45€, CPA 8-25€, budžet 300-900€/mes" }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "B2B usluge i konsulting",
+            "item": { "@type": "Thing", "name": "CPC 0,35-1,20€, CPA 20-60€, budžet 700-2.500€/mes" }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "E-commerce",
+            "item": { "@type": "Thing", "name": "CPC 0,20-0,80€, CPA 6-30€, budžet 800-4.000€/mes" }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Pravne i finansijske niše",
+            "item": { "@type": "Thing", "name": "CPC 0,80-2,80€, CPA 35-120€, budžet 1.200-5.000€/mes" }
+          }
+        ]
       },
       {
         "@type": "BreadcrumbList",
@@ -654,6 +770,7 @@ export const pageSchemas = {
       },
       {
         "@type": "FAQPage",
+        "@id": `${SITE_URL}/google-reklame-cena#faq`,
         "mainEntity": [
           {
             "@type": "Question",
