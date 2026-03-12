@@ -183,6 +183,17 @@ export default function IzradaWordpressSajtaCenaPage() {
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[1100px] mx-auto">
           <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-10 text-center">Paketi po fazama i potrebama</h2>
+          <p className="text-[14px] text-ink-3 leading-relaxed text-center mb-8 max-w-[760px] mx-auto">
+            Ako planiraš i budžet za akviziciju odmah posle launch-a, pogledaj i{' '}
+            <Link to="/google-reklame-cena" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+              Google reklame cenu
+            </Link>{' '}
+            i{' '}
+            <Link to="/instagram-reklame-cena" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+              Instagram reklame cenu
+            </Link>,
+            jer realna cena sajta ima smisla tek kada znaš kako ćeš dovoditi saobraćaj na njega.
+          </p>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-5 items-stretch">
             {tiers.map(t => (
               <div key={t.name} className="bg-panel rounded-[20px] border border-edge p-6 md:p-8 flex flex-col min-h-[340px]">
@@ -215,6 +226,17 @@ export default function IzradaWordpressSajtaCenaPage() {
               </div>
             ))}
           </div>
+          <p className="text-[14px] text-ink-3 leading-relaxed text-center mt-10 max-w-[760px] mx-auto">
+            Ako cena deluje korektno, a i dalje nisi siguran da li će sajt dovoljno dobro prodavati, sledeći logičan korak su{' '}
+            <Link to="/web-design" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+              web design i UX
+            </Link>{' '}
+            i{' '}
+            <Link to="/cro" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+              CRO optimizacija
+            </Link>,
+            jer se tu najčešće odlučuje da li će isti budžet doneti više upita ili samo lepši layout.
+          </p>
         </div>
       </section>
 
@@ -224,6 +246,17 @@ export default function IzradaWordpressSajtaCenaPage() {
           <p className="text-[15px] text-ink-2 leading-relaxed mb-6">
             Većina firmi planira samo početni trošak izrade, a preskoči operativni deo koji direktno utiče na stabilnost i rast sajta.
             Zato pre ugovaranja gledajte i ukupni godišnji trošak vlasništva (TCO), ne samo cenu launch-a.
+          </p>
+          <p className="text-[14px] text-ink-3 leading-relaxed mb-6 max-w-[820px]">
+            Kada se TCO spoji sa planom akvizicije i sadržaja, mnogo je lakše proceniti pravi ROI. Zato ima smisla uporediti ga i sa{' '}
+            <Link to="/cene-digitalnog-marketinga" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+              cenama digitalnog marketinga
+            </Link>{' '}
+            i sa{' '}
+            <Link to="/consulting" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+              konsultantskim planom prioriteta
+            </Link>{' '}
+            za prvih 90 dana posle launch-a.
           </p>
           <div className="overflow-x-auto">
             <table className="w-full min-w-[720px] text-left">

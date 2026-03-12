@@ -28,6 +28,7 @@ const checks = [
   { name: 'Internal link coverage (priority pages)', script: 'scripts/seo-link-coverage-audit.mjs' },
   { name: 'Money-page cluster internal linking', script: 'scripts/seo-money-cluster-linking-audit.mjs' },
   { name: 'Google Ads money-page contextual linking', script: 'scripts/seo-google-ads-page-linking-audit.mjs' },
+  { name: 'WordPress money-page contextual linking', script: 'scripts/seo-wordpress-page-linking-audit.mjs' },
   { name: 'Feed/Sitemap consistency', script: 'scripts/seo-feed-sitemap-audit.mjs' },
   { name: 'Sitemap priority policy (money/geo/problem pages)', script: 'scripts/seo-sitemap-priority-audit.mjs' },
   { name: 'Image sitemap integrity', script: 'scripts/seo-image-sitemap-audit.mjs' },
