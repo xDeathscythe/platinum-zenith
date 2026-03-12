@@ -21,6 +21,7 @@ const checks = [
   { name: 'Robots.txt directives policy', script: 'scripts/seo-robots-txt-directives-audit.mjs' },
   { name: 'Robots index/noindex policy', script: 'scripts/seo-robots-audit.mjs' },
   { name: 'Heading hierarchy', script: 'scripts/seo-headings-audit.mjs' },
+  { name: 'Blog heading hierarchy', script: 'scripts/seo-blog-headings-audit.mjs' },
   { name: 'Image attributes', script: 'scripts/seo-image-audit.mjs' },
   { name: 'Image alt-text quality', script: 'scripts/seo-alt-quality-audit.mjs' },
   { name: 'Internal linking', script: 'scripts/seo-links-audit.mjs' },

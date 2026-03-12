@@ -61,6 +61,7 @@
     "seo:meta-quality": "node scripts/seo-meta-quality-audit.mjs",
     "seo:meta-quality:strict": "node scripts/seo-meta-quality-audit.mjs --strict",
     "seo:blog-meta": "node scripts/seo-blog-meta-audit.mjs --strict",
+    "seo:blog-headings": "node scripts/seo-blog-headings-audit.mjs",
     "seo:meta-keyword-rich": "node scripts/seo-meta-keyword-rich-audit.mjs",
     "seo:meta-uniqueness": "node scripts/seo-meta-uniqueness-audit.mjs",
     "seo:meta-intent": "node scripts/seo-meta-intent-audit.mjs",
