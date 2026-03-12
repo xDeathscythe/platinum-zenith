@@ -77,10 +77,12 @@ for (const route of routes) {
   const ogImage = extractMeta(out, /<meta\s+property="og:image"\s+content="([^"]+)"\s*\/>/i)
   const ogImageAlt = extractMeta(out, /<meta\s+property="og:image:alt"\s+content="([^"]+)"\s*\/>/i)
   const twImage = extractMeta(out, /<meta\s+name="twitter:image"\s+content="([^"]+)"\s*\/>/i)
+  const twImageAlt = extractMeta(out, /<meta\s+name="twitter:image:alt"\s+content="([^"]+)"\s*\/>/i)
 
   if (!ogImage) issues.push(`${route}: missing og:image`)
   if (!twImage) issues.push(`${route}: missing twitter:image`)
   if (!ogImageAlt) issues.push(`${route}: missing og:image:alt`)
+  if (!twImageAlt) issues.push(`${route}: missing twitter:image:alt`)
 
   if (ogImage && !ogImage.startsWith(`${SITE_URL}/`)) {
     issues.push(`${route}: og:image must be absolute site URL (${ogImage})`)
@@ -92,6 +94,10 @@ for (const route of routes) {
 
   if (ogImage && twImage && ogImage !== twImage) {
     issues.push(`${route}: twitter:image differs from og:image`)
+  }
+
+  if (ogImageAlt && twImageAlt && ogImageAlt !== twImageAlt) {
+    issues.push(`${route}: twitter:image:alt differs from og:image:alt`)
   }
 
   if (expectedCustomImage[route] && ogImage !== expectedCustomImage[route]) {

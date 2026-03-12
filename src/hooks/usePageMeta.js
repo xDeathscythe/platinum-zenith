@@ -79,8 +79,13 @@ export default function usePageMeta() {
 
       const ogImage = document.querySelector('meta[property="og:image"]')
       if (ogImage) ogImage.setAttribute('content', ogImageUrl)
+      const ogImageAltContent = meta.ogImageAlt || 'Platinum Zenith - Digitalna agencija iz Zrenjanina'
+      const ogImageAlt = document.querySelector('meta[property="og:image:alt"]')
+      if (ogImageAlt) ogImageAlt.setAttribute('content', ogImageAltContent)
       const twImage = document.querySelector('meta[name="twitter:image"]')
       if (twImage) twImage.setAttribute('content', ogImageUrl)
+      const twImageAlt = document.querySelector('meta[name="twitter:image:alt"]')
+      if (twImageAlt) twImageAlt.setAttribute('content', ogImageAltContent)
       const twTitle = document.querySelector('meta[name="twitter:title"]')
       if (twTitle) twTitle.setAttribute('content', meta.title)
       const twDesc = document.querySelector('meta[name="twitter:description"]')

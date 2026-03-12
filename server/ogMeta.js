@@ -1674,6 +1674,10 @@ export function injectOgMeta(html, pathname) {
       `$1${safeDefaultOgImage}$2`
     )
     result = result.replace(
+      /(<meta\s+name="twitter:image:alt"\s+content=")[^"]*(")/,
+      `$1${safeDefaultOgImageAlt}$2`
+    )
+    result = result.replace(
       /(<meta\s+name="robots"\s+content=")[^"]*(")/,
       `$1${safeRobotsContent}$2`
     )
@@ -1779,6 +1783,10 @@ export function injectOgMeta(html, pathname) {
   result = result.replace(
     /(<meta\s+name="twitter:image"\s+content=")[^"]*(")/,
     `$1${safeOgImageUrl}$2`
+  )
+  result = result.replace(
+    /(<meta\s+name="twitter:image:alt"\s+content=")[^"]*(")/,
+    `$1${safeOgImageAlt}$2`
   )
 
   // twitter:title
