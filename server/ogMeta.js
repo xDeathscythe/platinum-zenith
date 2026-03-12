@@ -1145,6 +1145,56 @@ const serverHowToByPath = {
       },
     ],
   },
+  '/instagram-reklame-cena': {
+    name: 'Kako da postavite Instagram Ads budžet koji donosi kvalifikovane upite',
+    description: 'Korak-po-korak okvir za planiranje Instagram Ads budžeta kroz faze testiranja, optimizacije i skaliranja bez rasipanja medije.',
+    totalTime: 'PT18M',
+    step: [
+      {
+        name: 'Definišite jedan jasan cilj kampanje',
+        text: 'Pre budžeta izaberite jednu primarnu akciju koju želite da korisnik uradi, na primer lead forma, poruka ili kupovina, jer mešanje više ciljeva u startu otežava optimizaciju.',
+        anchor: 'cilj-kampanje',
+      },
+      {
+        name: 'Napravite test budžet po kreativnom uglu',
+        text: 'Raspodelite budžet na 3 do 6 kreativnih varijanti sa različitim hook porukama, kako biste u prvih 14 dana dobili signal šta publika zaista klikće i čemu veruje.',
+        anchor: 'test-budzet',
+      },
+      {
+        name: 'Odvojite cold i retargeting publiku',
+        text: 'Budžet ne sme da ide u isti koš za novu i toplu publiku, zato zasebno merite cenu rezultata za cold i retargeting set da biste jasno videli gde je profitabilniji signal.',
+        anchor: 'cold-retargeting',
+      },
+      {
+        name: 'Skalirajte samo pobedničke ad setove',
+        text: 'Kada se pojavi stabilan CPA i kvalitet leadova, povećavajte budžet postepeno u manjim koracima i gasite slabe kombinacije pre nego što pojedu veći deo mesečnog plana.',
+        anchor: 'skaliranje',
+      },
+    ],
+  },
+  '/izrada-wordpress-sajta-cena': {
+    name: 'Kako da procenite realan budžet za izradu WordPress sajta',
+    description: 'Praktičan vodič kako da planirate WordPress projekat kroz scope, tehničke zahteve i trošak održavanja da biste izbegli skupe revizije.',
+    totalTime: 'PT22M',
+    step: [
+      {
+        name: 'Definišite poslovni cilj i tip sajta',
+        text: 'Prvo odredite da li vam treba prezentacioni, lead generation ili WooCommerce sajt, jer od tipa projekta direktno zavise arhitektura, obim rada i početni budžet.',
+      },
+      {
+        name: 'Mapirajte stranice i funkcionalnosti pre ponude',
+        text: 'Napravite listu potrebnih stranica, formi, integracija i custom sekcija pre nego što tražite cenu, pošto nejasan scope skoro uvek vodi ka kasnijim doplatama.',
+      },
+      {
+        name: 'Odvojite jednokratni trošak izrade i mesečni TCO',
+        text: 'Pored launch cene posebno planirajte hosting, licence, maintenance i backup politiku, jer ukupni godišnji trošak vlasništva daje realniju sliku ulaganja od same početne cifre.',
+      },
+      {
+        name: 'Uvedite 90-dnevni plan optimizacije posle launch-a',
+        text: 'Dogovorite unapred šta se radi u prva tri meseca nakon puštanja sajta, uključujući SEO i CRO iteracije, kako biste brže pretvorili saobraćaj u konkretne upite ili prodaje.',
+      },
+    ],
+  },
 }
 
 function injectServerFaqSchema(html, cleanPath) {
@@ -1192,7 +1242,7 @@ function injectServerHowToSchema(html, cleanPath, canonicalUrl) {
       position: index + 1,
       name: item.name,
       text: item.text,
-      url: `${canonicalUrl}#korak-${index + 1}`,
+      url: `${canonicalUrl}#${item.anchor || `korak-${index + 1}`}`,
     })),
   })
 }

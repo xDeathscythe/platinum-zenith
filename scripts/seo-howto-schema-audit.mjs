@@ -12,6 +12,16 @@ const REQUIRED_ROUTES = {
     minSteps: 4,
     expectedName: 'Kako da izračunate budžet za Google Ads bez nagađanja',
   },
+  '/instagram-reklame-cena': {
+    minSteps: 4,
+    expectedName: 'Kako da postavite Instagram Ads budžet koji donosi kvalifikovane upite',
+    componentPath: path.join(root, 'src', 'pages', 'InstagramReklameCenaPage.jsx'),
+    expectedAnchors: ['cilj-kampanje', 'test-budzet', 'cold-retargeting', 'skaliranje'],
+  },
+  '/izrada-wordpress-sajta-cena': {
+    minSteps: 4,
+    expectedName: 'Kako da procenite realan budžet za izradu WordPress sajta',
+  },
 }
 
 function extractJsonLdById(html, id) {
@@ -60,6 +70,10 @@ for (const [route, rule] of Object.entries(REQUIRED_ROUTES)) {
     continue
   }
 
+  const componentSource = rule.componentPath && fs.existsSync(rule.componentPath)
+    ? fs.readFileSync(rule.componentPath, 'utf8')
+    : null
+
   for (let i = 0; i < steps.length; i += 1) {
     const step = steps[i] || {}
     const pos = i + 1
@@ -76,8 +90,19 @@ for (const [route, rule] of Object.entries(REQUIRED_ROUTES)) {
     if (!step.text || String(step.text).trim().length < 40) {
       issues.push(`${route}: step #${pos} missing/short text`)
     }
-    if (!step.url || !String(step.url).startsWith(`${expectedUrl}#korak-`)) {
+    if (!step.url || !String(step.url).startsWith(`${expectedUrl}#`)) {
       issues.push(`${route}: step #${pos} invalid URL (${step.url || 'missing'})`)
+    }
+  }
+
+  if (componentSource && Array.isArray(rule.expectedAnchors)) {
+    for (const anchor of rule.expectedAnchors) {
+      if (!componentSource.includes(`id="${anchor}"`)) {
+        issues.push(`${route}: missing expected anchor id="${anchor}" in component source`)
+      }
+      if (!steps.some((step) => String(step?.url || '').endsWith(`#${anchor}`))) {
+        issues.push(`${route}: HowTo schema missing anchor reference #${anchor}`)
+      }
     }
   }
 }

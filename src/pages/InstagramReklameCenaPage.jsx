@@ -95,6 +95,84 @@ const metrics = [
   },
 ]
 
+const industryBenchmarks = [
+  {
+    niche: 'E-commerce (fashion / beauty / lifestyle)',
+    cpc: '0,10 - 0,45€',
+    cpa: '6 - 28€',
+    budget: '500 - 2.500€/mes',
+    note: 'Najviše utiču refresh kreativa i kvalitet product page-a. Bez redovnog testiranja CPC brzo raste.',
+  },
+  {
+    niche: 'Lokalne usluge (saloni, fitnes, ordinacije)',
+    cpc: '0,06 - 0,30€',
+    cpa: '4 - 20€',
+    budget: '300 - 1.500€/mes',
+    note: 'Jasna lokalna ponuda i jak CTA obično donose najbolji odnos cena-kvalitet upita.',
+  },
+  {
+    niche: 'Premium usluge (B2B, konsultacije, high-ticket)',
+    cpc: '0,25 - 0,95€',
+    cpa: '18 - 90€',
+    budget: '900 - 5.000€/mes',
+    note: 'Klik je skuplji, ali je vrednost klijenta veća pa je fokus na kvalifikaciji i brzom follow-up-u.',
+  },
+]
+
+const reelsBenchmarks = [
+  {
+    placement: 'Instagram Reels (cold publika)',
+    cpm: '2,5 - 8,5€',
+    cpc: '0,07 - 0,32€',
+    cpa: '5 - 24€',
+    note: 'Najbolje radi kratki UGC format sa jasnim hook-om u prvih 1-2 sekunde i jednim CTA-om.',
+  },
+  {
+    placement: 'Instagram Stories (retargeting)',
+    cpm: '1,8 - 6,5€',
+    cpc: '0,05 - 0,26€',
+    cpa: '4 - 18€',
+    note: 'Stories placement često daje jeftiniji remarketing kada postoji jak proof i vremenski limit ponude.',
+  },
+  {
+    placement: 'Instagram Feed (mixed funnel)',
+    cpm: '3 - 10€',
+    cpc: '0,10 - 0,40€',
+    cpa: '6 - 30€',
+    note: 'Feed je stabilan za kombinaciju edukacije i prodaje, ali zahteva češći creative refresh da CPC ne ode gore.',
+  },
+]
+
+const ninetyDayPlan = [
+  {
+    phase: 'Dani 1-30: Validacija',
+    objective: 'Potvrditi poruku i publiku',
+    steps: [
+      'Lansiranje 3-5 kreativnih uglova (problem, rezultat, social proof)',
+      'Podela publike na cold/warm i odvajanje retargeting seta',
+      'Praćenje CTR, CPC i prvih lead quality signala',
+    ],
+  },
+  {
+    phase: 'Dani 31-60: Optimizacija',
+    objective: 'Spustiti cenu kvalifikovanog upita',
+    steps: [
+      'Gašenje slabih oglasa i prebacivanje budžeta na pobednike',
+      'Osvežavanje hook-a i prvog kadra pre ad fatigue-a',
+      'Uvođenje UTM + CRM praćenja po kampanji',
+    ],
+  },
+  {
+    phase: 'Dani 61-90: Skaliranje',
+    objective: 'Rast budžeta bez pada profitabilnosti',
+    steps: [
+      'Postepeno povećanje budžeta 15-25% nedeljno',
+      'Dupliranje samo dokazanih ad set-ova i audience kombinacija',
+      'KPI fokus na CPA, ROAS i procenat kvalifikovanih upita',
+    ],
+  },
+]
+
 const mistakes = [
   {
     title: 'Previše "lepe" a premalo prodajne kreative',
@@ -143,6 +221,10 @@ const faqs = [
     q: 'Da li je UGC obavezan?',
     a: 'Nije obavezan, ali često značajno pomaže performanse jer izgleda prirodnije i gradi poverenje brže nego klasičan polished ad.',
   },
+  {
+    q: 'Koliko koštaju Instagram Reels reklame u Srbiji?',
+    a: 'Za većinu niša Reels CPM je najčešće između 2,5€ i 8,5€, dok CPC često ulazi u raspon 0,07-0,32€. Konačna cena po rezultatu zavisi od hook-a, kreative i kvaliteta landing stranice.',
+  },
 ]
 
 export default function InstagramReklameCenaPage() {
@@ -155,7 +237,7 @@ export default function InstagramReklameCenaPage() {
           <div className="absolute inset-0 only-dark" style={{ background: 'radial-gradient(ellipse at 30% 20%, rgba(236,72,153,0.16) 0%, transparent 50%), radial-gradient(ellipse at 70% 80%, rgba(99,102,241,0.12) 0%, transparent 50%)' }} />
           <div className="absolute inset-0 only-light" style={{ background: 'radial-gradient(ellipse at 30% 20%, rgba(236,72,153,0.08) 0%, transparent 50%), radial-gradient(ellipse at 70% 80%, rgba(99,102,241,0.06) 0%, transparent 50%)' }} />
         </div>
-        <div className="relative z-10 max-w-[820px] mx-auto text-center">
+        <div id="cilj-kampanje" className="relative z-10 max-w-[820px] mx-auto text-center">
           <span className="inline-block text-[11px] uppercase tracking-[0.2em] text-ink-3 mb-5">Instagram Ads vodič</span>
           <h1 className="text-[32px] md:text-[52px] font-medium leading-[1.1] tracking-[-1px] text-ink mb-5">
             Koliko koštaju Instagram reklame u Srbiji 2026?
@@ -167,7 +249,7 @@ export default function InstagramReklameCenaPage() {
       </section>
 
       <section className="px-4 md:px-8 pb-16 md:pb-24">
-        <div className="max-w-[1100px] mx-auto">
+        <div id="test-budzet" className="max-w-[1100px] mx-auto">
           <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-10 text-center">Budžeti po fazama</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-5 items-stretch">
             {budgetTiers.map(t => (
@@ -257,6 +339,121 @@ export default function InstagramReklameCenaPage() {
       </section>
 
       <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[980px] mx-auto">
+          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-4 text-center">Instagram reklame cena po niši u Srbiji (2026)</h2>
+          <p className="text-[15px] text-ink-3 text-center mb-10 max-w-[760px] mx-auto">
+            Da bi budžet imao smisla, nije dovoljno gledati proseke sa interneta. Ove zone su praktičan benchmark za srpsko tržište po tipu biznisa i nivou konkurencije.
+          </p>
+
+          <div className="space-y-4">
+            {industryBenchmarks.map(item => (
+              <div key={item.niche} className="bg-panel rounded-[16px] border border-edge p-5 md:p-6">
+                <div className="flex flex-col md:flex-row md:items-start md:justify-between gap-3 md:gap-6 mb-4">
+                  <h3 className="text-[17px] md:text-[18px] font-medium text-ink">{item.niche}</h3>
+                  <div className="grid grid-cols-3 gap-3 md:gap-4 text-[12px] md:text-[13px]">
+                    <div>
+                      <div className="text-ink-4 uppercase tracking-wider mb-1">CPC</div>
+                      <div className="font-semibold text-ink">{item.cpc}</div>
+                    </div>
+                    <div>
+                      <div className="text-ink-4 uppercase tracking-wider mb-1">CPA</div>
+                      <div className="font-semibold text-ink">{item.cpa}</div>
+                    </div>
+                    <div>
+                      <div className="text-ink-4 uppercase tracking-wider mb-1">Budžet</div>
+                      <div className="font-semibold text-ink">{item.budget}</div>
+                    </div>
+                  </div>
+                </div>
+                <p className="text-[14px] text-ink-2 leading-relaxed">{item.note}</p>
+              </div>
+            ))}
+          </div>
+
+          <p className="text-[14px] text-ink-3 leading-relaxed mt-8 text-center max-w-[760px] mx-auto">
+            Ako želite da uporedite social i search kanal pre raspodele budžeta, pogledajte i
+            {' '}
+            <Link to="/google-reklame-cena" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">Google reklame cena</Link>
+            {' '}
+            i
+            {' '}
+            <Link to="/cene-digitalnog-marketinga" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">cene digitalnog marketinga</Link>.
+          </p>
+        </div>
+      </section>
+
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[980px] mx-auto">
+          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-4 text-center">Instagram Reels reklame cena u Srbiji (2026)</h2>
+          <p className="text-[15px] text-ink-3 text-center mb-10 max-w-[760px] mx-auto">
+            Reels je često najbrži način da se spusti cena po kliku, ali samo kada su prva sekunda i poruka jasne. Ovi rasponi pomažu da proceniš da li su kampanje zdrave po placement-u.
+          </p>
+
+          <div className="space-y-4">
+            {reelsBenchmarks.map(item => (
+              <div key={item.placement} className="bg-panel rounded-[16px] border border-edge p-5 md:p-6">
+                <div className="flex flex-col md:flex-row md:items-start md:justify-between gap-3 md:gap-6 mb-4">
+                  <h3 className="text-[17px] md:text-[18px] font-medium text-ink">{item.placement}</h3>
+                  <div className="grid grid-cols-3 gap-3 md:gap-4 text-[12px] md:text-[13px]">
+                    <div>
+                      <div className="text-ink-4 uppercase tracking-wider mb-1">CPM</div>
+                      <div className="font-semibold text-ink">{item.cpm}</div>
+                    </div>
+                    <div>
+                      <div className="text-ink-4 uppercase tracking-wider mb-1">CPC</div>
+                      <div className="font-semibold text-ink">{item.cpc}</div>
+                    </div>
+                    <div>
+                      <div className="text-ink-4 uppercase tracking-wider mb-1">CPA</div>
+                      <div className="font-semibold text-ink">{item.cpa}</div>
+                    </div>
+                  </div>
+                </div>
+                <p className="text-[14px] text-ink-2 leading-relaxed">{item.note}</p>
+              </div>
+            ))}
+          </div>
+
+          <p className="text-[14px] text-ink-3 leading-relaxed mt-8 text-center max-w-[760px] mx-auto">
+            Ako Reels kampanje dovode saobraćaj ali ne i upite, najčešći bottleneck je landing i follow-up. Zato pre skaliranja pogledaj i
+            {' '}
+            <Link to="/cro" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">CRO optimizaciju</Link>
+            {' '}
+            i
+            {' '}
+            <Link to="/izrada-wordpress-sajta-cena" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">izrada WordPress sajta cena</Link>.
+          </p>
+        </div>
+      </section>
+
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[980px] mx-auto">
+          <h2 id="cold-retargeting" className="text-[26px] md:text-[34px] font-medium text-ink mb-4 text-center">Plan budžeta za prvih 90 dana Instagram oglašavanja</h2>
+          <p className="text-[15px] text-ink-3 text-center mb-10 max-w-[760px] mx-auto">
+            Najčešća greška je prerano skaliranje. Ovaj okvir pomaže da zadržiš kontrolu troška i povećaš broj kvalifikovanih upita pre ozbiljnog rasta spend-a.
+          </p>
+
+          <span id="skaliranje" className="block h-0 overflow-hidden" aria-hidden="true" />
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+            {ninetyDayPlan.map(item => (
+              <div key={item.phase} className="bg-panel rounded-[16px] border border-edge p-5 md:p-6 flex flex-col">
+                <div className="text-[12px] uppercase tracking-widest text-ink-4 mb-2">{item.phase}</div>
+                <h3 className="text-[18px] font-medium text-ink mb-4">{item.objective}</h3>
+                <ul className="space-y-2 mt-auto">
+                  {item.steps.map(step => (
+                    <li key={step} className="flex items-start gap-2 text-[13px] text-ink-2">
+                      <span className="text-emerald-500 mt-0.5 flex-shrink-0">✓</span>
+                      {step}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[760px] mx-auto">
           <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-10 text-center">5 grešaka koje dižu trošak</h2>
           <div className="space-y-8">
@@ -285,6 +482,29 @@ export default function InstagramReklameCenaPage() {
                 <div className="px-5 pb-5 text-[14px] text-ink-2 leading-relaxed">{f.a}</div>
               </details>
             ))}
+          </div>
+        </div>
+      </section>
+
+      <section className="px-4 md:px-8 pb-10 md:pb-14">
+        <div className="max-w-[900px] mx-auto">
+          <h2 className="text-[22px] md:text-[28px] font-medium text-ink mb-4 text-center">Šta najviše utiče na cenu po rezultatu</h2>
+          <p className="text-[15px] text-ink-3 text-center mb-8 max-w-[700px] mx-auto">
+            Instagram budžet radi bolje kada su poruka, konverzija i prodajni proces povezani. Zato su ove stranice ključne pre ozbiljnog skaliranja.
+          </p>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+            <Link to="/drustvene-mreze" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Strategija društvenih mreža</div>
+              <div className="text-[12px] text-ink-3">Organski content + plaćeni reach za stabilniji funnel</div>
+            </Link>
+            <Link to="/cro" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">CRO optimizacija</div>
+              <div className="text-[12px] text-ink-3">Bolji landing i CTA da klikovi postanu upiti</div>
+            </Link>
+            <Link to="/consulting" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Konsalting za skaliranje</div>
+              <div className="text-[12px] text-ink-3">Plan testiranja kreativa i budžeta po fazama rasta</div>
+            </Link>
           </div>
         </div>
       </section>
@@ -333,31 +553,6 @@ export default function InstagramReklameCenaPage() {
         </div>
       </section>
 
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify({
-            '@context': 'https://schema.org',
-            '@graph': [
-              {
-                '@type': 'FAQPage',
-                mainEntity: faqs.map(f => ({
-                  '@type': 'Question',
-                  name: f.q,
-                  acceptedAnswer: { '@type': 'Answer', text: f.a },
-                })),
-              },
-              {
-                '@type': 'BreadcrumbList',
-                itemListElement: [
-                  { '@type': 'ListItem', position: 1, name: 'Početna', item: 'https://platinumzenith.com/' },
-                  { '@type': 'ListItem', position: 2, name: 'Instagram reklame cena', item: 'https://platinumzenith.com/instagram-reklame-cena' },
-                ],
-              },
-            ],
-          }),
-        }}
-      />
 
     </div>
   )
