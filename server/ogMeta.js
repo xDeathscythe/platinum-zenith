@@ -1416,11 +1416,27 @@ function injectServerBlogListingSchema(html, cleanPath) {
       const item = {
         '@type': 'BlogPosting',
         headline: post.title,
+        description: post.excerpt,
         url: `${SITE_URL}/blog/${post.slug}`,
+        inLanguage: 'sr-RS',
+        image: post.ogImage || DEFAULT_OG_IMAGE,
         author: {
           '@type': 'Person',
           name: post.author || 'Aleksandar Nenadović',
         },
+        publisher: {
+          '@type': 'Organization',
+          name: 'Platinum Zenith',
+          url: SITE_URL,
+          logo: {
+            '@type': 'ImageObject',
+            url: `${SITE_URL}/pz-icon.webp`,
+          },
+        },
+      }
+
+      if (post.category) {
+        item.articleSection = post.category
       }
 
       if (post.date) {

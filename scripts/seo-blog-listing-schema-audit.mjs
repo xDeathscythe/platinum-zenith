@@ -74,6 +74,14 @@ if (!schema) {
       issues.push(`/blog: blogPost #${idx} missing/short headline`)
     }
 
+    if (!item.description || String(item.description).trim().length < 40) {
+      issues.push(`/blog: blogPost #${idx} missing/short description`)
+    }
+
+    if (item.inLanguage !== 'sr-RS') {
+      issues.push(`/blog: blogPost #${idx} inLanguage must be sr-RS`)
+    }
+
     if (!item.url || !String(item.url).startsWith(`${SITE_URL}/blog/`)) {
       issues.push(`/blog: blogPost #${idx} has invalid URL (${item.url || 'missing'})`)
     } else {
@@ -95,6 +103,19 @@ if (!schema) {
 
     if (item.author?.['@type'] !== 'Person' || !item.author?.name) {
       issues.push(`/blog: blogPost #${idx} missing valid author Person`)
+    }
+
+    if (!item.publisher || item.publisher['@type'] !== 'Organization' || !item.publisher.name) {
+      issues.push(`/blog: blogPost #${idx} missing valid publisher Organization`)
+    }
+
+    const image = Array.isArray(item.image) ? item.image[0] : item.image
+    if (!image || !String(image).startsWith(`${SITE_URL}/`)) {
+      issues.push(`/blog: blogPost #${idx} missing absolute image URL`)
+    }
+
+    if (!item.articleSection || String(item.articleSection).trim().length < 2) {
+      issues.push(`/blog: blogPost #${idx} missing articleSection`)
     }
 
     if (item.datePublished && !isIsoDate(item.datePublished)) {
