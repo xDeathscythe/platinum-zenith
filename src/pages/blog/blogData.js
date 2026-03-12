@@ -2,7 +2,7 @@ const rawBlogPosts = [
   {
     slug: 'izrada-wordpress-sajta-cena-po-tipu-biznisa-srbija-2026',
     title: 'Izrada WordPress sajta cena po tipu biznisa u Srbiji 2026: realni rasponi i sta ulazi u cenu',
-    excerpt: 'Koliko realno kosta izrada WordPress sajta u Srbiji 2026 kada uporedite usluzni biznis, ordinacije, web shop i B2B firme, plus kako da prepoznate ponudu koja donosi rezultat a ne samo lep dizajn.',
+    excerpt: 'Koliko realno kosta WordPress sajt u Srbiji 2026 za usluzni biznis, ordinaciju, web shop ili B2B firmu i kako da procenis da li ponuda stvarno ima smisla.',
     date: '2026-03-12',
     category: 'WordPress',
     readTime: '10 min',
@@ -514,7 +514,7 @@ Ako zelis, mogu da uradim mini audit tvoje postojece kampanje i oznacim 3 najbrz
   },
   {
     slug: 'instagram-reklame-za-advokate-cena-klijenta-srbija-2026',
-    title: 'Instagram reklame za advokate u Srbiji 2026: cena klijenta, budzet i kako da dobijes kvalitetne upite',
+    title: 'Instagram reklame za advokate u Srbiji 2026: cena klijenta i budzet',
     excerpt: 'Koliko realno kostaju Instagram reklame za advokatske kancelarije u Srbiji 2026, koji budzet ima smisla i kako da izbegnes upite koji ne postaju klijenti.',
     date: '2026-03-12',
     category: 'Instagram Ads',
@@ -1178,8 +1178,8 @@ Ako hoces, mogu da uradim mini audit tvog naloga i oznacim 3 poteza koji najbrze
   },
   {
     slug: 'instagram-reklame-za-restorane-cena-rezervacije-srbija-2026',
-    title: 'Instagram reklame za restorane u Srbiji 2026: cena rezervacije, budzet i kreativa koja puni stolove',
-    excerpt: 'Detaljan vodic za restorane: koliki budzet ima smisla za Instagram reklame u Srbiji 2026, kako da merite cenu rezervacije i koje kreativa + landing kombinacije donose vise punih termina.',
+    title: 'Instagram reklame za restorane u Srbiji 2026: cena rezervacije i budzet',
+    excerpt: 'Koliki budzet ima smisla za Instagram reklame restorana u Srbiji 2026, kako da merite cenu rezervacije i koje poruke najcesce dovode ljude do rezervacije.',
     date: '2026-03-12',
     category: 'Instagram Ads',
     readTime: '10 min',
@@ -4024,7 +4024,7 @@ Tra�ite agenciju koja ispunjava sve ove kriterijume? [Javite nam se](/kontakt)
   {
     slug: 'social-proof-recenzije-za-vise-prodaje',
     title: 'Social proof: kako koristiti recenzije za vi�e prodaje',
-    excerpt: '92% kupaca cita recenzije pre kupovine. Evo kako da recenzije rade za vas umesto da stoje kao ukras na sajtu.',
+    excerpt: '92% kupaca cita recenzije pre kupovine. Evo kako da recenzije rade za vas umesto da stoje kao ukras na sajtu i da ih ljudi jedva primete.',
     date: '2026-02-20',
     category: 'Marketing',
     readTime: '6 min',
@@ -4577,7 +4577,7 @@ Ako je va�a firma u ovoj zoni, [javite nam se](/kontakt). Specijalizovani smo 
   {
     slug: 'od-nule-do-prvih-10000-evra-mesecno',
     title: 'Od nule do prvih 10.000 evra mesecno: vodic za pocetnike',
-    excerpt: 'Prvih 10.000� mesecno nije o talentu. O konkretnim koracima koji se mogu ponoviti u skoro svakoj industriji.',
+    excerpt: 'Prvih 10.000e mesecno retko dolazi iz talenta. Mnogo cesce dolazi iz nekoliko konkretnih koraka koji mogu da se ponove u skoro svakoj industriji.',
     date: '2026-02-20',
     category: 'Biznis',
     readTime: '7 min',
@@ -5082,7 +5082,7 @@ Takode preporucujemo: [Lead magneti koji zapravo konvertuju](/blog/lead-magneti-
   {
     slug: 'lokalni-seo-kako-se-pojaviti-prvi',
     title: 'Lokalni SEO: kako se pojaviti prvi kad neko pretra�i u va�em gradu',
-    excerpt: 'Kada neko iz va�eg grada pretra�i uslugu koju nudite, va�a firma treba da bude prva. 46% svih Google pretraga ima lokalnu nameru. Evo kako napraviti da budete vi taj koji se pojavi.',
+    excerpt: 'Kada neko iz vaseg grada pretrazi uslugu koju nudite, treba da vidi vas pre konkurencije. Evo kako da lokalni SEO to stvarno uradi za vas biznis.',
     date: '2026-02-20',
     category: 'SEO',
     readTime: '6 min',
@@ -5899,7 +5899,7 @@ Ako �elite da va�a ponuda komunicira pravu vrednost i privlaci klijente koji
   },
   {
     slug: '17-godina-marketing-iskustva-u-jednom-tekstu',
-    title: '17 godina marketing iskustva u jednom tekstu',
+    title: '17 godina marketing iskustva: lekcije iz jednog teksta',
     excerpt: 'Marketing se menja svake godine. Kanali dolaze i odlaze. Ali principi koji zapravo donose rezultate ostaju isti decenijama.',
     date: '2026-02-24',
     category: 'Marketing',
@@ -7463,7 +7463,7 @@ Trebate pomoc da repozicionirate va�u ponudu tako da kupci prestanu da pricaju
   {
     slug: 'cetiri-nacina-da-dobijete-klijente',
     title: 'Cetiri nacina da dobijete klijente (i koji je pravi za vas)',
-    excerpt: 'Svaki biznis na svetu koristi jedan od cetiri kanala za pridobijanje klijenata. Razlika izmedu firmi koje rastu i onih koje stagniraju je u tome koji kanal biraju i koliko ga dobro koriste.',
+    excerpt: 'Svaki biznis koristi jedan od cetiri glavna kanala za dolazak do klijenata. Razlika je u tome koji kanal bira i koliko ga disciplinovano koristi.',
     date: '2026-03-05',
     category: 'Marketing',
     readTime: '9 min',
@@ -8470,7 +8470,7 @@ Ako �elite da procenimo va� profil i damo realan plan po ni�i i gradu, jav
   {
     slug: 'cena-odrzavanja-wordpress-sajta-srbija-2026',
     title: 'Cena odr�avanja WordPress sajta u Srbiji 2026: �ta ulazi i koliko realno ko�ta',
-    excerpt: 'Nije isto da li neko samo klikne update jednom mesecno ili aktivno cuva sajt od pada, hakovanja i gubitka leadova. Evo realnih cena odr�avanja WordPress sajta u Srbiji i �ta mora da bude ukljuceno.',
+    excerpt: 'Nije isto da li neko samo klikne update jednom mesecno ili stvarno cuva sajt od pada, hakovanja i gubitka leadova. Evo realnih cena odrzavanja WordPress sajta u Srbiji.',
     date: '2026-03-10',
     category: 'WordPress',
     readTime: '8 min',
@@ -8596,7 +8596,7 @@ Ako �elite da procenimo va� trenutni sajt i damo realan plan odr�avanja po
   {
     slug: 'vodjenje-drustvenih-mreza-cena-srbija-2026',
     title: 'Vodenje dru�tvenih mre�a cena u Srbiji 2026: �ta ulazi i koliko realno ko�ta',
-    excerpt: 'Cene vodenja dru�tvenih mre�a idu od 150� do 2.000�+ mesecno, ali razlika nije samo u broju objava. Evo �ta stvarno placate, koji paket ima smisla za va� biznis i kako da ne bacite bud�et.',
+    excerpt: 'Cene vodenja drustvenih mreza idu od 150e do 2.000e+ mesecno, ali razlika nije samo u broju objava. Evo sta stvarno placate i koji paket ima smisla za vas biznis.',
     date: '2026-03-10',
     category: 'Digitalni marketing',
     readTime: '9 min',

@@ -50,6 +50,7 @@ const checks = [
   { name: 'Blog article schema', script: 'scripts/seo-blog-schema-audit.mjs' },
   { name: 'Blog listing schema quality (/blog)', script: 'scripts/seo-blog-listing-schema-audit.mjs' },
   { name: 'Meta title/description quality', script: 'scripts/seo-meta-quality-audit.mjs', args: ['--strict'] },
+  { name: 'Blog meta title/excerpt quality', script: 'scripts/seo-blog-meta-audit.mjs', args: ['--strict'] },
   { name: 'Meta keyword richness (keyword coverage)', script: 'scripts/seo-meta-keyword-rich-audit.mjs' },
   { name: 'Meta uniqueness (near-duplicate detection)', script: 'scripts/seo-meta-uniqueness-audit.mjs' },
   { name: 'SERP snippet width budget', script: 'scripts/seo-serp-snippet-audit.mjs', args: ['--strict'] },
