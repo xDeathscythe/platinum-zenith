@@ -9372,6 +9372,108 @@ Ako hoces i siri pregled ulaganja po kanalima pre skaliranja, pogledaj [cene dig
 Google Ads za restorane u Srbiji 2026 moze biti vrlo profitabilan kanal kada je fokus na ceni potvrdene rezervacije, ne na jeftinom kliku.
 Ako hoces, mogu da uradim brz audit tvoje kampanje i oznacim 3 poteza koji najbrze podizu broj profitabilnih rezervacija - javi se preko [kontakt forme](/kontakt).
 `,
+  },
+  {
+    slug: 'vodjenje-google-ads-kampanja-cena-srbija-2026',
+    title: 'Vodjenje Google Ads kampanja cena u Srbiji 2026: sta ulazi u fee i kako da izaberes partnera',
+    excerpt: 'Koliko realno kosta vodjenje Google Ads kampanja u Srbiji 2026, kada je fiksni fee bolji od procenta budzeta i kako da procenis da li agencija pravi profit ili samo trosi klikove.',
+    date: '2026-03-12',
+    category: 'Google Ads',
+    readTime: '9 min',
+    content: `
+## Vodjenje Google Ads kampanja cena u Srbiji 2026: kratak odgovor
+
+Ako trazis upit **vodjenje Google Ads kampanja cena**, realan raspon na srpskom trzistu je najcesce:
+- **200e-350e/mes** za male naloge i osnovno odrzavanje,
+- **350e-900e/mes** za ozbiljnije naloge sa redovnim optimizacijama,
+- **900e+ / mes** za kompleksne naloge, vise funnel-a i jace testiranje.
+
+Ali cena sama po sebi ne govori mnogo.
+Pravo pitanje je da li upravljanje donosi nizi trosak kvalifikovanog lead-a i veci profit.
+Ako ti prvo treba okvir ukupnog ulaganja, pogledaj i [Google reklame cena](/google-reklame-cena).
+
+## Sta sve ulazi u cenu vodjenja (a sta cesto ne ulazi)
+
+Zdravo vodjenje Google Ads naloga obicno ukljucuje:
+1. istrazivanje i grupisanje kljucnih reci po intentu,
+2. strukturu kampanja i ad grupa,
+3. pisanje i iteraciju oglasa,
+4. search terms ciscenje i negativne reci,
+5. bid i budzet optimizaciju,
+6. mesecni izvestaj sa preporukama.
+
+Stavke koje cesto **nisu** ukljucene, a kljucne su za rezultat:
+- landing optimizacija,
+- napredni tracking i atribucija,
+- dublji CRO eksperimenti,
+- kreativni sistem za PMax assete.
+
+Zato je vazno da pre potpisa jasno pitas sta je tacno u fee-u, a sta je dodatni scope.
+
+## Fiksni fee ili procenat budzeta: sta je bolje
+
+U praksi postoje tri modela naplate:
+
+### 1) Fiksni fee
+Dobar je kada hoces predvidiv trosak i jasnu kontrolu marze.
+Najvise ima smisla za manje i srednje naloge.
+
+### 2) Procenat od budzeta
+Najcesce 10%-20%.
+Moze biti fer za vece naloge, ali trazi jasan dogovor da cilj nije samo veca potrosnja, nego profitabilan rast.
+
+### 3) Hibrid (fiksni + performance bonus)
+Cesto najbolji kompromis kada hoces stabilan rad + motivaciju za bolji poslovni rezultat.
+
+Ako vec uporedjujes modele saradnje, koristan kontekst je i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share).
+
+## Koliko fee treba da bude u odnosu na budzet
+
+Praktican okvir koji cesto ima smisla:
+- kod manjih budzeta fee zauzima veci procenat jer osnovni operativni posao ne moze ispod odredjenog minimuma,
+- kako budzet raste, procenat fee-a obicno pada,
+- kada budzet raste a rezultat stagnira, problem je retko "premali fee", cesce je problem u ponudi, landingu ili prodajnom follow-upu.
+
+Ako sumnjas da je usko grlo van oglasa, pogledaj [facebook oglasi ne rade](/facebook-oglasi-ne-rade) i [CRO optimizaciju](/cro).
+
+## Crvene zastavice kod ponuda za vodjenje Google Ads kampanja
+
+Najcesci signali da ponuda nije zdrava:
+
+1. **Nema jasnih KPI-ja** (sve ostaje na "bicete vidljiviji").
+2. **Nema plana testiranja** (kampanja se "pusti" i ceka).
+3. **Nejasno vlasnistvo naloga** (nalog nije na tvom business profilu).
+4. **Izvestaj bez akcija** (brojevi postoje, ali nema odluka).
+5. **Fokus samo na CPC** umesto na CPL/CPA i kvalitet lead-a.
+
+Ako se pregovori vrte samo oko cene, a ne oko merenja rezultata, vrlo verovatno placas aktivnost, ne napredak.
+
+## Mini due-diligence pre potpisa (15 minuta)
+
+Pre nego sto izaberes agenciju/freelancera, trazi 5 konkretnih odgovora:
+
+- Koji je plan za prvih 30 dana?
+- Koji KPI se prati kao glavni poslovni signal?
+- Koliko cesto se rade optimizacije i eksperimenti?
+- Kako se meri kvalitet lead-a, ne samo broj lead-ova?
+- Koje odluke se donose kad kampanja 2-3 nedelje stagnira?
+
+Ako na ova pitanja dobijes nejasne odgovore, rizik je visok bez obzira na nizu cenu.
+
+## 30-dnevni okvir da fee ne ostane samo trosak
+
+- **Nedelja 1:** tracking i baseline + struktura kampanje po intentu.
+- **Nedelja 2:** search terms pruning + negativne reci + ad copy iteracije.
+- **Nedelja 3:** landing i CTA dorade + preraspodela budzeta.
+- **Nedelja 4:** odluke po CPL/CPA trendu i kvalitetu lead-a iz prodaje.
+
+Ako vec planiras multi-channel pristup, uporedi i [Instagram reklame cena](/instagram-reklame-cena) i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Zakljucak
+
+Cena vodjenja Google Ads kampanja u Srbiji 2026 ima smisla tek kada je vezes za merenje rezultata i kvalitet isporuke.
+Ako hoces, mogu da uradim brz audit tvoje trenutne ponude i oznacim da li je fee zdrav ili placas previse za premalo pomaka - javi se preko [kontakt forme](/kontakt).
+`,
   }
 
 ]
