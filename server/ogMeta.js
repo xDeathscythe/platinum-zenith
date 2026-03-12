@@ -17,6 +17,7 @@ const DEFAULT_OG_IMAGE_ALT = 'Platinum Zenith - Digitalna agencija iz Zrenjanina
 const CORE_ORG_SCHEMA = {
   '@context': 'https://schema.org',
   '@type': 'Organization',
+  '@id': `${SITE_URL}#organization`,
   name: 'Platinum Zenith',
   url: SITE_URL,
   logo: `${SITE_URL}/pz-icon.webp`,
@@ -42,20 +43,38 @@ const CORE_ORG_SCHEMA = {
 const CORE_LOCAL_BUSINESS_SCHEMA = {
   '@context': 'https://schema.org',
   '@type': 'LocalBusiness',
+  '@id': `${SITE_URL}#localbusiness`,
   name: 'Platinum Zenith',
   url: SITE_URL,
   image: `${SITE_URL}/pz-og.jpg`,
   email: 'aleksandar@platinumzenith.com',
   telephone: '+381668168929',
+  priceRange: '€€',
   address: {
     '@type': 'PostalAddress',
+    streetAddress: 'Ruže Šulman 19',
     addressLocality: 'Zrenjanin',
+    postalCode: '23000',
     addressCountry: 'RS',
+  },
+  geo: {
+    '@type': 'GeoCoordinates',
+    latitude: 45.3836,
+    longitude: 20.3819,
   },
   areaServed: {
     '@type': 'Country',
     name: 'Srbija',
   },
+  parentOrganization: {
+    '@id': `${SITE_URL}#organization`,
+  },
+  openingHoursSpecification: [{
+    '@type': 'OpeningHoursSpecification',
+    dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
+    opens: '09:00',
+    closes: '18:00',
+  }],
   contactPoint: {
     '@type': 'ContactPoint',
     contactType: 'customer support',
@@ -375,8 +394,10 @@ const SERVER_ROUTE_SCHEMAS = {
   '/izrada-wordpress-sajta-cena': {
     '@context': 'https://schema.org',
     '@type': 'Service',
-    name: 'Izrada WordPress sajtova',
-    serviceType: 'WordPress website development',
+    '@id': `${SITE_URL}/izrada-wordpress-sajta-cena#service`,
+    name: 'Izrada WordPress sajta',
+    description: 'Izrada WordPress sajta i WooCommerce shopa sa jasnim rasponima cena, rokovima, planom isporuke i mesečnim operativnim troškovima.',
+    serviceType: 'WordPress web development',
     url: `${SITE_URL}/izrada-wordpress-sajta-cena`,
     areaServed: {
       '@type': 'Country',
@@ -386,6 +407,43 @@ const SERVER_ROUTE_SCHEMAS = {
       '@type': 'Organization',
       name: 'Platinum Zenith',
       url: SITE_URL,
+    },
+    offers: {
+      '@type': 'AggregateOffer',
+      priceCurrency: 'EUR',
+      lowPrice: '400',
+      highPrice: '9000',
+      offerCount: '4',
+    },
+    hasOfferCatalog: {
+      '@type': 'OfferCatalog',
+      name: 'WordPress paketi',
+      itemListElement: [
+        {
+          '@type': 'Offer',
+          name: 'Start WordPress sajt',
+          priceCurrency: 'EUR',
+          price: '400',
+        },
+        {
+          '@type': 'Offer',
+          name: 'Poslovni WordPress',
+          priceCurrency: 'EUR',
+          price: '900',
+        },
+        {
+          '@type': 'Offer',
+          name: 'WordPress + WooCommerce',
+          priceCurrency: 'EUR',
+          price: '1600',
+        },
+        {
+          '@type': 'Offer',
+          name: 'Custom WordPress sistem',
+          priceCurrency: 'EUR',
+          price: '3500',
+        },
+      ],
     },
   },
   '/marketing-za-advokate': {
@@ -945,12 +1003,32 @@ const serverFaqByPath = {
   ],
   '/izrada-wordpress-sajta-cena': [
     {
-      q: 'Od čega zavisi cena izrade WordPress sajta?',
-      a: 'Cena zavisi od obima stranica, dizajna, funkcionalnosti, SEO pripreme i dodatnih integracija poput forme, analitike i prodajnih elemenata.',
+      q: 'Koliko traje izrada WordPress sajta?',
+      a: 'Start sajt obično 1-2 nedelje, poslovni 2-5 nedelja, a WooCommerce projekti 4-8 nedelja u zavisnosti od obima.',
     },
     {
-      q: 'Koliko traje izrada WordPress sajta?',
-      a: 'Jednostavniji sajtovi se najčešće završavaju za 2–4 nedelje, dok kompleksniji projekti sa više funkcionalnosti traže duži rok.',
+      q: 'Da li WordPress može da bude brz?',
+      a: 'Da. Uz dobar hosting, kvalitetan theme setup, optimizovane slike i keš strategiju WordPress može imati vrlo dobar PageSpeed.',
+    },
+    {
+      q: 'Da li mogu sam da menjam sadržaj?',
+      a: 'Da, to je jedna od glavnih prednosti WordPress-a. Nakon isporuke dobijate kratko uputstvo za osnovne izmene.',
+    },
+    {
+      q: 'Koliko košta održavanje WordPress sajta?',
+      a: 'Zavisi od obima, ali osnovno održavanje je najčešće 50-200€ mesečno. U to ulaze update-i, backup i osnovni sigurnosni monitoring.',
+    },
+    {
+      q: 'WordPress ili custom development?',
+      a: 'Ako želite bržu isporuku i fleksibilan CMS, WordPress je često bolji izbor. Za specifične sisteme sa posebnom logikom nekad je bolji custom pristup.',
+    },
+    {
+      q: 'Da li su domen, hosting i licence uključeni u cenu izrade?',
+      a: 'Najčešće se vode kao posebne stavke. Zdrava ponuda ih jasno razdvaja na jednokratni trošak izrade i mesečni operativni trošak.',
+    },
+    {
+      q: 'Koji su najčešći skriveni troškovi WordPress projekta?',
+      a: 'Najčešće su to premium licence, hitne intervencije bez maintenance plana i kasne UX/SEO dorade. Zato je važno da roadmap i održavanje budu deo dogovora od starta.',
     },
   ],
   '/marketing-za-advokate': [
@@ -1731,4 +1809,11 @@ export function injectOgMeta(html, pathname) {
   return result
 }
 
-export { ogMeta, SITE_URL, SERVER_ROUTE_SCHEMAS as serverRouteSchemas }
+export {
+  ogMeta,
+  SITE_URL,
+  SERVER_ROUTE_SCHEMAS as serverRouteSchemas,
+  CORE_ORG_SCHEMA as serverOrgSchema,
+  CORE_LOCAL_BUSINESS_SCHEMA as serverLocalBusinessSchema,
+  HOMEPAGE_WEBSITE_SCHEMA as serverWebsiteSchema,
+}

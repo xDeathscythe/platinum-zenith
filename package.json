@@ -30,6 +30,7 @@
     "seo:howto-schema": "node scripts/seo-howto-schema-audit.mjs",
     "seo:service-schema": "node scripts/seo-service-schema-audit.mjs",
     "seo:core-schema": "node scripts/seo-core-schema-audit.mjs",
+    "seo:core-schema-parity": "node scripts/seo-core-schema-parity-audit.mjs",
     "seo:breadcrumb-coverage": "node scripts/seo-breadcrumb-coverage-audit.mjs",
     "seo:breadcrumb-quality": "node scripts/seo-breadcrumb-quality-audit.mjs",
     "seo:jsonld": "node scripts/seo-jsonld-validity-audit.mjs",

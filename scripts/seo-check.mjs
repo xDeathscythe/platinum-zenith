@@ -40,6 +40,7 @@ const checks = [
   { name: 'HowTo schema quality (money pages)', script: 'scripts/seo-howto-schema-audit.mjs' },
   { name: 'Service schema completeness', script: 'scripts/seo-service-schema-audit.mjs' },
   { name: 'Core org/localbusiness/website schema integrity', script: 'scripts/seo-core-schema-audit.mjs' },
+  { name: 'Core schema parity (client vs server)', script: 'scripts/seo-core-schema-parity-audit.mjs' },
   { name: 'Breadcrumb coverage (all public routes)', script: 'scripts/seo-breadcrumb-coverage-audit.mjs' },
   { name: 'Breadcrumb quality semantics (positions/canonical/home)', script: 'scripts/seo-breadcrumb-quality-audit.mjs' },
   { name: 'JSON-LD syntax validity (all routes)', script: 'scripts/seo-jsonld-validity-audit.mjs' },
