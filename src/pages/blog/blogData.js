@@ -1,5 +1,300 @@
 const rawBlogPosts = [
   {
+    slug: 'izrada-wordpress-sajta-cena-po-tipu-biznisa-srbija-2026',
+    title: 'Izrada WordPress sajta cena po tipu biznisa u Srbiji 2026: realni rasponi i sta ulazi u cenu',
+    excerpt: 'Koliko realno kosta izrada WordPress sajta u Srbiji 2026 kada uporedite usluzni biznis, ordinacije, web shop i B2B firme, plus kako da prepoznate ponudu koja donosi rezultat a ne samo lep dizajn.',
+    date: '2026-03-12',
+    category: 'WordPress',
+    readTime: '10 min',
+    content: `
+## Kratak odgovor: cena WordPress sajta zavisi od poslovnog modela, ne samo od broja stranica
+
+Kad neko pita **izrada WordPress sajta cena u Srbiji 2026**, najveca greska je da poredi ponude samo po cifri i broju podstranica.
+Sajt za usluzni biznis, ordinaciju, e-commerce i B2B firmu nema isti posao u prodajnom procesu, pa ne moze imati ni istu cenu.
+
+Ako prvo hoces bazni raspon, pogledaj [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena) i [cene izrade sajta](/cene-izrade-sajta).
+
+## Realni rasponi po tipu biznisa (Srbija 2026)
+
+Orijentacioni rasponi za kvalitetan WordPress projekat:
+
+- **Lokalni usluzni biznis (vodoinstalater, salon, servis): 700e - 1.800e**
+- **Ordinacije i profesionalne usluge (stomatolog, advokat): 1.200e - 3.500e**
+- **B2B kompanijski sajt (lead generation): 1.500e - 4.500e**
+- **WooCommerce web shop (do srednje kompleksnosti): 2.000e - 8.000e+**
+
+Raspon je sirok jer nije isto da li kupujes "online brosuru" ili prodajni sistem sa jasnim funnel-om i merenjem konverzija.
+
+## Sta ulazi u cenu kad je ponuda zdrava
+
+Ponuda koja ima smisla obicno ukljucuje:
+
+1. **strategiju i strukturu stranica** (ne samo dizajn),
+2. **copy i UX logiku** po kupovnom intentu,
+3. **tehnicku SEO osnovu** (meta, schema, brzina),
+4. **tracking i osnovne konverzije** (poziv, forma, upit),
+5. **QA na mobilnom i desktop-u**,
+6. **post-launch podrsku** za ispravke i stabilizaciju.
+
+Ako u ponudi vidis samo "tema + instalacija + 5 strana", to je najcesce znak da ces kasnije dodatno placati ono sto je zapravo kljucno.
+
+## Zasto slicne ponude imaju ogromnu razliku u ceni
+
+Najcesce razlike dolaze iz ova 4 elementa:
+
+### 1) Dubina istrazivanja i planiranja
+Bez jasne strukture i poruke, sajt moze izgledati lepo a slabo konvertovati.
+
+### 2) Kvalitet customizacije
+Gotov template i custom resenje nisu ista stvar kada se gleda brzina, SEO i dalja skalabilnost.
+
+### 3) SEO i content sloj
+Ako tehnicka SEO osnova nije uradjena na startu, kasnije je skuplje ispravljati.
+Za detaljniji SEO budzet pogledaj [seo optimizacija cena](/seo-optimizacija-cena).
+
+### 4) Integracije i automatizacije
+CRM, email automatizacija, payment i event tracking podizu cenu, ali i vrednost projekta.
+
+## Kako da procenis da li je ponuda isplativa
+
+Koristi ovaj mini okvir pre potpisa:
+
+- Koja je **ocekivana vrednost jednog lead-a/kupca**?
+- Koliko lead-ova mesecno treba da pokrije investiciju?
+- Da li sajt ima jasan CTA i tok do konverzije?
+- Ko je odgovoran za KPI nakon launch-a?
+
+Ako sajt nema definisan nacin merenja rezultata, cena je sekundarna jer nemas kako da potvrdis ROI.
+
+## Najcesce greske koje podizu trosak bez efekta
+
+1. Fokus na estetiku bez prodajne logike.
+2. Nejasan scope pa projekat ide u beskrajne revizije.
+3. Ignorisanje mobilnog UX-a (vecina saobracaja je mobilna).
+4. Launch bez SEO osnove i bez tracking-a.
+5. Nema internog plana kako sajt puni pipeline nakon objave.
+
+Ako planiras posebne kampanje po ponudi, koristan nastavak je [izrada landing stranice: cena, rokovi, sta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
+
+## 30-dnevni pristup posle izrade sajta
+
+Da bi sajt poceo da radi poslovni posao, prvih 30 dana su kriticni:
+
+- **Nedelja 1:** tehnicka provera, indeksacija, analytics i conversion events.
+- **Nedelja 2:** dorada hero poruke, CTA test i brzina kljucnih stranica.
+- **Nedelja 3:** SEO on-page i interno linkovanje prema money stranicama.
+- **Nedelja 4:** aktivacija paid saobracaja i optimizacija po kvalitetu lead-a.
+
+Za paid deo pogledaj i [Google reklame cena](/google-reklame-cena).
+
+## Zakljucak
+
+U 2026 cena WordPress sajta u Srbiji ima smisla tek kada je vezes za poslovni cilj, a ne za broj podstranica.
+Ako hoces, mogu da ti uradim brzu procenu postojece ponude i oznacim sta je must-have pre potpisa - javi se preko [kontakt forme](/kontakt).
+`,
+  },
+  {
+    slug: 'meta-ads-cena-po-kliku-srbija-2026',
+    title: 'Meta Ads cena po kliku u Srbiji 2026: realni CPC rasponi i kako da spustis cenu upita',
+    excerpt: 'Koliko Meta Ads klik realno kosta u Srbiji 2026 po industriji, gde kampanje najcesce gube budzet i kako da smanjis CPC bez pada kvaliteta leadova.',
+    date: '2026-03-12',
+    category: 'Meta Ads',
+    readTime: '9 min',
+    content: `
+## Meta Ads cena po kliku u Srbiji 2026: kratak odgovor
+
+Ako trazis jednu univerzalnu cifru za **Meta Ads cenu po kliku**, dobices pogresnu sliku.
+U Srbiji 2026 CPC moze biti oko **0,05e** za siroku lokalnu publiku, ali i preko **1,20e** u zahtevnim industrijama i uskim publikama.
+
+Zato je bolje pitanje: *koji klik dovodi do kvalitetnog upita ili prodaje*.
+Ako hoces i siru sliku ukupnog ulaganja, pogledaj [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Realni CPC rasponi po industriji (Meta Ads, Srbija)
+
+Orijentacioni rasponi koji najcesce imaju smisla:
+
+- **Lokalne usluge (saloni, fitnes, edukacija): 0,05e - 0,25e**
+- **E-commerce (srednja konkurencija): 0,10e - 0,55e**
+- **Stomatologija i privatna medicina: 0,25e - 0,95e**
+- **Pravne i finansijske usluge: 0,40e - 1,40e**
+- **B2B usluge i consulting: 0,30e - 1,10e**
+
+Raspon ne znaci da je kampanja dobra ili losa. Nizak CPC bez konverzije je samo jeftin saobracaj.
+
+Ako zelis benchmark za Search kanal, pogledaj i [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026).
+
+## Zasto isti biznis placa razlicit CPC na Meti
+
+Tri firme iz iste nise cesto nemaju isti CPC jer se razlikuju:
+
+1. kvalitet kreativa i hook-a u prvoj sekundi,
+2. podesenost event trackinga i signal ka algoritmu,
+3. jasnoca ponude na landing stranici,
+4. ucestalost osvezavanja oglasa (creative fatigue),
+5. publike koje se preklapaju i guraju cenu aukcije.
+
+Prakticno: ista usluga + bolja poruka + bolji signal = nizi efektivni trosak upita, cak i kad je CPC slican.
+
+## CPC nije KPI koji treba da vodis sam
+
+Meta Ads optimizuj kroz mini levak:
+
+- **CPC** (ulazna cena saobracaja),
+- **CTR** (kvalitet poruke i publike),
+- **LP view rate** (koliko klikova stvarno stigne na stranicu),
+- **CPL/CPA** (stvarni poslovni trosak),
+- **stopa zatvaranja lead-a** (prodajni kvalitet).
+
+Ako gledas samo CPC, lako ces "ustedeti" budzet i istovremeno izgubiti prodaju.
+Za detaljniji okvir po usluzi, vidi [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama).
+
+## Najcesci razlozi zbog kojih CPC ode previsoko
+
+- preterano siroke publike bez jasnog ugla poruke,
+- kreativa koja ne zaustavlja skrol u prve 2 sekunde,
+- slab social proof u copy-ju,
+- sporo ucitavanje landing strane,
+- kasno odgovaranje na leadove (algoritam dobija slabiji signal kvaliteta),
+- testiranje samo jedne kreative po ad setu.
+
+Ako je problem i u post-click delu, korisno je prvo srediti [izradu landing stranice: cena, rokovi, sta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
+
+## Kako da spustis CPC bez pada kvaliteta leadova
+
+### 1) Hook-first kreativa
+Prva recenica i prvi kadar moraju jasno reci *za koga je oglas* i *koji problem resava*.
+
+### 2) 3x3 test matrica
+Testiraj 3 ugla poruke x 3 kreativa formata (video, statika, UGC stil), umesto da menjas samo boju dugmeta.
+
+### 3) Segmentacija publike po nameri
+Odvoji broad, interes i retargeting ad setove da ne mesas signal i budzet.
+
+### 4) Landing poruka 1:1 sa oglasom
+Naslov stranice mora da potvrdi obecanje iz oglasa u prvom ekranu.
+
+### 5) Brz follow-up
+Lead koji cekas satima prakticno postaje skuplji i kad je CPC nizak.
+
+## Brz 30-dnevni plan (prakticno za Srbiju)
+
+- **Nedelja 1:** tracking provera, baseline metrike, inicijalne kreative.
+- **Nedelja 2:** gasenje slabih oglasa, dupliranje najboljih uglova.
+- **Nedelja 3:** landing i CTA dorade, fokus na CPL trend.
+- **Nedelja 4:** raspodela budzeta samo na ad setove sa najboljim odnosom CPL i kvaliteta lead-a.
+
+Ako hoces da uporedis Meta i Google budzet u jedinstvenom planu, pogledaj [Google reklame cena](/google-reklame-cena) i [Instagram reklame cena](/instagram-reklame-cena).
+
+## Zakljucak
+
+Meta Ads cena po kliku u Srbiji 2026 nije broj koji kopiras iz tudjeg izvestaja, nego rezultat tvog kreativa, publike i procesa posle klika.
+Ako hoces, mogu da uradim mini audit i dam ti 3 konkretna poteza za nizi CPC i bolji kvalitet upita - javi se preko [kontakt forme](/kontakt).
+`,
+  },
+  {
+    slug: 'leila-hormozi-onboarding-sistem-zadrzavanje-klijenata-srbija-2026',
+    title: 'Leila Hormozi onboarding sistem: kako da zadrzis klijente u marketing agenciji (Srbija 2026)',
+    excerpt: 'Praktican onboarding framework za agencije u Srbiji: kako da u prvih 30 dana klijent vidi progres, smanjis churn i podignes LTV bez dizanja ad budzeta.',
+    date: '2026-03-12',
+    category: 'Agency Growth',
+    readTime: '9 min',
+    content: `
+## Leila Hormozi onboarding sistem: kratak odgovor
+
+Ako trazis upit **kako zadrzati klijente u marketing agenciji**, najveca razlika se ne pravi u prodaji nego u prvih 30 dana posle potpisa.
+Leila Hormozi princip je jednostavan: klijent mora brzo da vidi jasan napredak, ritam komunikacije i sledece korake.
+
+U praksi to najcesce znaci:
+- jasan plan isporuke za prvih 30 dana,
+- vidljiv "quick win" u prvih 7-14 dana,
+- scorecard koji meri progres, ne utisak.
+
+Za kontekst modela usluge pogledaj i [cene digitalnog marketinga](/cene-digitalnog-marketinga) i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share).
+
+## Zasto agencije gube klijente i kada je usluga dobra
+
+Najcesci razlog churn-a nije da "nema rezultata", nego da klijent ne razume sta se radi i sta je sledece.
+Tipican scenario:
+1. sales je obecao rast,
+2. delivery krene bez jasne mape,
+3. klijent ne vidi milestone,
+4. posle 30-60 dana gubi poverenje.
+
+Kad nema strukture, i dobar rad izgleda kao haos.
+
+## 30-dnevni onboarding koji drzi klijenta mirnim i ukljucenim
+
+### Dan 0-2: Kickoff sa jasnim ishodima
+- definisi poslovni cilj (leadovi, rezervacije, prodaja),
+- potvrdi KPI-jeve koji ce se pratiti,
+- zatvori scope i odgovornosti (ko radi sta, do kada).
+
+### Dan 3-7: Tracking i baseline
+- proveri analytics i konverzije,
+- postavi dashboard sa baznim brojevima,
+- dokumentuj "trenutno stanje" pre optimizacije.
+
+### Dan 8-14: Prvi quick win
+- lansiraj jednu izmenu sa visokim potencijalom (copy, landing sekcija, kampanja struktura),
+- prikazi sta je promenjeno,
+- objasni zasto je to prioritet.
+
+### Dan 15-30: Ritam i predvidljivost
+- nedeljni update u isto vreme,
+- jasan sledeci sprint,
+- odluke zasnovane na brojevima, ne osecaju.
+
+Ako klijent u prvom mesecu razume progres, mnogo redje ulazi u "sumnju" fazu.
+
+## Scorecard koji Leila stil najvise koristi
+
+Umesto 25 metrika, fokusiraj se na 5:
+1. lead volume,
+2. cena kvalifikovanog lead-a,
+3. procenat zakazanih poziva/rezervacija,
+4. procenat zatvaranja,
+5. neto ROI po kanalu.
+
+Ako hoces da uskladis paid metrike, pogledaj i [Google reklame cena](/google-reklame-cena) i [Instagram reklame cena](/instagram-reklame-cena).
+
+## Komunikacija koja smanjuje churn
+
+Najbolji onboarding ne deluje "korporativno", nego predvidivo.
+Praktican format nedeljnog update-a:
+- sta je uradjeno,
+- sta je rezultat,
+- sta je sledece,
+- sta je potrebno od klijenta.
+
+Bez ovoga, klijent popunjava praznine pretpostavkama, a to skoro uvek vodi ka nepotrebnoj tenziji.
+
+## Najcesce greske koje kvare retention
+
+- kickoff bez konkretnih KPI definicija,
+- predug period bez vidljivog mini rezultata,
+- izvestaji puni vanity metrika,
+- promena strategije bez objasnjenja,
+- nejasan ownership izmedju tima i klijenta.
+
+Za firme koje biraju izmedju internog i eksternog modela, koristan kontekst je [in-house tim vs agencija](/in-house-tim-vs-agencija).
+
+## 14-dnevni reset ako vec imas "klimav" account
+
+Ako je klijent vec nervozan, uradi brzi reset:
+- **Dan 1-2:** usaglasi KPI i scope,
+- **Dan 3-5:** ocisti prioritete na 1-2 kanala,
+- **Dan 6-10:** isporuci jedan merljiv quick win,
+- **Dan 11-14:** predstavi naredni 30-dnevni plan.
+
+Cilj nije da "dokazes da si u pravu", nego da vratis poverenje kroz ritam i transparentnost.
+
+## Zakljucak
+
+Leila Hormozi onboarding logika radi jer smanjuje neizvesnost i pravi rani momentum.
+Ako hoces, mogu da ti slozim gotov onboarding scorecard + template nedeljnog update-a za tvoj tim - javi se preko [kontakt forme](/kontakt).
+`,
+  },
+  {
     slug: 'sabri-suby-7-hour-followup-sistem-srbija-2026',
     title: 'Sabri Suby 7-hour follow-up sistem: kako da ne gubis leadove u Srbiji 2026',
     excerpt: 'Praktican framework za firme u Srbiji: kako da uvedes brz i strukturiran follow-up koji pretvara vise upita u stvarne klijente bez povecanja ad budzeta.',

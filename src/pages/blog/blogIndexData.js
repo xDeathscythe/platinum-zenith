@@ -3,6 +3,33 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "izrada-wordpress-sajta-cena-po-tipu-biznisa-srbija-2026",
+    "title": "Izrada WordPress sajta cena po tipu biznisa u Srbiji 2026: realni rasponi i sta ulazi u cenu",
+    "excerpt": "Koliko realno kosta izrada WordPress sajta u Srbiji 2026 kada uporedite usluzni biznis, ordinacije, web shop i B2B firme, plus kako da prepoznate ponudu koja donosi rezultat a ne samo lep dizajn.",
+    "date": "2026-03-12",
+    "category": "WordPress",
+    "readTime": "10 min",
+    "isDraft": false
+  },
+  {
+    "slug": "meta-ads-cena-po-kliku-srbija-2026",
+    "title": "Meta Ads cena po kliku u Srbiji 2026: realni CPC rasponi i kako da spustis cenu upita",
+    "excerpt": "Koliko Meta Ads klik realno kosta u Srbiji 2026 po industriji, gde kampanje najcesce gube budzet i kako da smanjis CPC bez pada kvaliteta leadova.",
+    "date": "2026-03-12",
+    "category": "Meta Ads",
+    "readTime": "9 min",
+    "isDraft": false
+  },
+  {
+    "slug": "leila-hormozi-onboarding-sistem-zadrzavanje-klijenata-srbija-2026",
+    "title": "Leila Hormozi onboarding sistem: kako da zadrzis klijente u marketing agenciji (Srbija 2026)",
+    "excerpt": "Praktican onboarding framework za agencije u Srbiji: kako da u prvih 30 dana klijent vidi progres, smanjis churn i podignes LTV bez dizanja ad budzeta.",
+    "date": "2026-03-12",
+    "category": "Agency Growth",
+    "readTime": "9 min",
+    "isDraft": false
+  },
+  {
     "slug": "sabri-suby-7-hour-followup-sistem-srbija-2026",
     "title": "Sabri Suby 7-hour follow-up sistem: kako da ne gubis leadove u Srbiji 2026",
     "excerpt": "Praktican framework za firme u Srbiji: kako da uvedes brz i strukturiran follow-up koji pretvara vise upita u stvarne klijente bez povecanja ad budzeta.",
