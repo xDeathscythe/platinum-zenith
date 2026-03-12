@@ -1,4 +1,231 @@
-const rawBlogPosts = [
+﻿const rawBlogPosts = [
+  {
+    slug: 'google-reklame-za-gradjevinske-firme-cena-leada-srbija-2026',
+    title: 'Google reklame za gradjevinske firme u Srbiji 2026: cena leada, budzet i profit po projektu',
+    excerpt: 'Koliko realno kostaju Google reklame za gradjevinske firme u Srbiji 2026, koji budzet ima smisla i kako da spustite cenu upita bez losih leadova.',
+    date: '2026-03-12',
+    category: 'Google Ads',
+    readTime: '10 min',
+    content: `
+## Google reklame za gradjevinske firme u Srbiji 2026: kratak odgovor
+
+Ako pretrazujes upit **google reklame za gradjevinske firme cena**, najkorisniji okvir je:
+
+- **Start test faza:** 500e-1.200e mesecno
+- **Stabilan lead flow:** 1.200e-3.000e mesecno
+- **Skaliranje vise usluga/gradova:** 3.000e+ mesecno
+
+Raspon deluje siroko jer nije isto da li ciljas adaptacije stanova, krovopokrivacke radove ili kompletne projekte po sistemu kljuc u ruke.
+Za bazni pregled Search troska pogledaj i [Google reklame cena](/google-reklame-cena).
+
+## Koliko realno kosta lead u gradjevinskoj nisi
+
+Tipicni rasponi za Srbiju 2026 (posle inicijalne optimizacije):
+
+- **CPC:** 0.18e-1.40e
+- **Kvalifikovan upit:** 12e-85e
+- **Zakazan izlazak na teren:** 25e-140e
+- **Potpisan posao:** zavisi od vrednosti projekta i close rate-a
+
+Kod gradjevine je kljuc da ne juris jeftin lead, nego lead koji ima budzet, rok i realnu potrebu.
+Ako hoces siri model raspodele ulaganja po kanalima, dobar kontekst su i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Zasto gradjevinske firme cesto "spale" budzet
+
+Najcesce greske nisu u platformi, vec u setup-u:
+
+1. **Siroke kljucne reci bez namere**
+   Termini tipa "gradjevina" i "majstor" trose novac, ali ne donose dovoljno ozbiljnih upita.
+
+2. **Mesanje svih usluga u jednu kampanju**
+   Adaptacija kupatila, fasada i krov nisu isti intent i ne smeju u isti budzetski dzep.
+
+3. **Nema lokalnog segmenta**
+   Ako ne kontrolises lokaciju i grad, dobijas klikove iz zona koje ne pokrivas.
+
+4. **Nema discipline oko negativnih reci**
+   Upiti za posao, praksu, "uradi sam" i edukativni termini jedu budzet bez komercijalne vrednosti.
+
+5. **Landing stranica ne zatvara**
+   Oglas obecava procenu troska, a strana nema jasan CTA, reference ni sledeci korak.
+
+Ako sumnjas da je problem i posle klika, koristan nastavak je [izrada landing stranice: cena, rokovi, sta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
+
+## Struktura kampanje koja najcesce radi za gradjevinu
+
+Praktican model koji se pokazao najstabilnijim:
+
+### 1) Kampanje po usluzi + gradu
+Primer: "adaptacija stana beograd", "krovni radovi novi sad", "fasada zrenjanin".
+
+### 2) Kampanja za hitne intervencije
+Za usluge gde postoji veca hitnost i veca spremnost na brz poziv.
+
+### 3) Branded kampanja
+Da konkurencija ne preuzme korisnika koji vec trazi tvoju firmu.
+
+### 4) Remarketing
+Podsetnik korisnicima koji su posetili sajt, ali nisu poslali upit.
+
+Ovakva podela omogucava da budzet ide tamo gde je cena posla najzdravija, ne tamo gde je samo najjeftiniji klik.
+
+## Landing za gradjevinske upite: sta mora da postoji
+
+Za ovaj sektor landing mora da ukloni rizik i skrati odluku:
+
+- jasna usluga + grad u naslovu,
+- 3-5 konkretnih referenci (pre/posle, objekti, iskustvo),
+- opisan proces saradnje kroz 3 koraka,
+- vidljiv CTA za poziv ili procenu,
+- brza forma (ime, telefon, kratak opis),
+- istaknuti rokovi odgovora.
+
+Ako korisnik ne vidi sta se desava posle klika, lead odlazi firmi koja je jasnija i brza.
+
+## KPI koje treba pratiti svake nedelje
+
+Ne oslanjaj se samo na CPC. Drzi fokus na:
+
+1. cenu kvalifikovanog upita,
+2. procenat upita koji prelaze u izlazak na teren,
+3. cenu zakazanog izlaska,
+4. procenat izlaska koji prelazi u ponudu,
+5. procenat ponuda koje postaju potpisan posao,
+6. realan profit po projektu, ne samo promet.
+
+Kad ove brojke drzis pod kontrolom, Google Ads prestaje da bude "trosak oglasa" i postaje predvidiv prodajni kanal.
+
+## 30-dnevni plan bez lutanja
+
+- **Nedelja 1:** tracking setup + razdvajanje kampanja po usluzi i lokaciji.
+- **Nedelja 2:** search term ciscenje + negativne reci + test 2-3 oglasa po grupi.
+- **Nedelja 3:** dorada landing strane i CTA toka.
+- **Nedelja 4:** preraspodela budzeta iskljucivo na segmente sa najboljim odnosom cena upita / kvalitet lead-a.
+
+Ako si vec u fazi skaliranja i treba ti precizan plan za tvoj grad i usluge, javi se preko [kontakt forme](/kontakt).
+
+## Zakljucak
+
+Google reklame za gradjevinske firme u Srbiji 2026 mogu donositi stabilan pipeline projekata, ali samo kad su kampanje podeljene po intentu, lokaciji i realnom kvalitetu upita.
+Fokus na cenu klika bez kontrole kvaliteta lead-a je najbrzi put do bacanja budzeta.
+`,
+  },
+  {
+    slug: 'seo-za-advokate-cena-srbija-2026',
+    title: 'SEO za advokate u Srbiji 2026: cena, rokovi i kako da dobijete vise kvalitetnih upita',
+    excerpt: 'Koliko realno kosta SEO za advokatske kancelarije u Srbiji 2026, sta ulazi u cenu i kako da merite rezultat kroz kvalitetne pravne upite, a ne samo pozicije.',
+    date: '2026-03-12',
+    category: 'Lokalni SEO',
+    readTime: '10 min',
+    content: `
+## SEO za advokate u Srbiji 2026: kratak odgovor bez magle
+
+Ako trazis iskren odgovor na upit **seo za advokate cena Srbija**, realan raspon za vecinu kancelarija je najcesce:
+
+- **Starter lokalni SEO:** 300e-700e mesecno
+- **Rast (lokal + content + tehnicki):** 700e-1.500e mesecno
+- **Agresivniji model (vise oblasti prava + vise lokacija):** 1.500e-3.000e+
+
+Broj nije poenta ako nije vezan za poslovni ishod.
+Za advokata je vazan kvalitet predmeta, ne samo broj formi.
+Za siri benchmark modela usluge pogledaj i [SEO optimizacija cena](/seo-optimizacija-cena).
+
+## Sta stvarno ulazi u SEO cenu za advokatsku kancelariju
+
+Najcesca greska je da se SEO kupuje kao "paket kljucnih reci".
+U praksi, rezultat dolazi iz kombinacije 5 slojeva:
+
+1. **Lokalna osnova**
+   Google Business profil, NAP konzistentnost, kategorije i recenzije.
+
+2. **Tehnicki SEO sajta**
+   Brzina, indeksacija, heading struktura, schema, interne veze.
+
+3. **Stranice po oblasti prava**
+   Posebne landing strane za porodicno, krivicno, radno, privredno pravo itd.
+
+4. **E-E-A-T signal**
+   Biografije advokata, reference, jasni uslovi saradnje i transparentnost.
+
+5. **Kontinuirani content cluster**
+   Tekstovi koji hvataju realne upite klijenata (npr. "koliko traje ostavinski postupak", "sporazumni razvod rok").
+
+Ako ovaj sistem ne postoji, mesecni fee je trosak bez stabilnog rasta.
+Ako ti treba baza pre SEO skaliranja, koristan kontekst je i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+
+## Koliko traje da SEO za advokate pocne da daje rezultat
+
+Realna ocekivanja za srpsko trziste 2026:
+
+- **Prvih 30 dana:** tehnicka stabilizacija + mapiranje tema + on-page osnova.
+- **60-90 dana:** prvi ozbiljniji pomaci na lokalnim i long-tail upitima.
+- **4-6 meseci:** stabilniji dotok upita ako je content i interna struktura konzistentna.
+
+Ako ti neko obecava "prvu poziciju za 30 dana" za konkurentne pravne upite, to je crvena zastavica.
+
+## KPI koji imaju smisla za advokatski SEO
+
+Pozicije su bitne, ali nisu dovoljne.
+Drzi fokus na ovim metrikama:
+
+- broj kvalifikovanih upita po oblasti prava,
+- cena kvalifikovanog upita (kad se SEO posmatra kao investicija),
+- procenat upita koji predju u konsultaciju,
+- procenat konsultacija koje postanu klijenti,
+- prosecna vrednost predmeta po oblasti.
+
+Tek kada ovo povezes, znas da li SEO donosi profit ili samo "saobracaj".
+Ako paralelno testiras paid kanal za hitniji lead flow, pogledaj i [Google reklame cena](/google-reklame-cena).
+
+## Model budzeta koji kancelarijama obicno radi
+
+Praktican okvir za 2026:
+
+- **Mesec 1-2:** veci fokus na tehnicki deo + 2-4 kljucne stranice usluga.
+- **Mesec 3-4:** content cluster po FAQ pitanjima klijenata + interne veze.
+- **Mesec 5+:** skaliranje tema koje vec donose konsultacije, ne samo klikove.
+
+Drugim recima: prvo temelj, pa sirenje.
+Bez temelja, svaka nova objava ima slabiji efekat nego sto bi mogla.
+Za vertikalni kontekst po industriji, pogledaj i [marketing za advokate](/marketing-za-advokate).
+
+## Najcesce greske koje dizu cenu SEO-a bez rezultata
+
+1. **Sve oblasti prava na jednoj generickoj stranici**
+   Google i korisnik ne vide jasan intent.
+
+2. **Blog bez strategije internog linkovanja**
+   Tekstovi postoje, ali ne guraju korisnika ka uslugama i kontaktu.
+
+3. **Nema lokalnih signala poverenja**
+   Bez lokalnih referenci i recenzija tesko je dobiti klik i poziv.
+
+4. **Ignorisanje konverzije na sajtu**
+   SEO dovede posetu, ali forma/CTA ne zatvaraju upit.
+
+5. **Fokus na vanity metrike**
+   Rast impresija bez rasta konsultacija nije poslovni rast.
+
+Ako treba da popravis i post-click deo, koristan je vodic [izrada landing stranice: cena, rokovi, sta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
+
+## Kako da procenis da li je ponuda za SEO postena
+
+Pre potpisivanja saradnje trazi jasan odgovor na ova pitanja:
+
+- Koje oblasti prava se optimizuju prve i zasto?
+- Koliko novih ciljnih URL-ova se pravi kvartalno?
+- Kako izgleda plan internog linkovanja?
+- Koji KPI je glavni poslovni signal, ne samo SEO signal?
+- Kako izgleda reporting koji povezuje SEO i broj konsultacija?
+
+Ako je odgovor neodredjen, velika je sansa da ces placati aktivnost, ne rezultat.
+
+## Zakljucak
+
+SEO za advokate u Srbiji 2026 ima smisla kada je vezan za kvalitetne pravne upite, konsultacije i vrednost predmeta, a ne samo za pozicije.
+Ako hoces, mozemo uraditi brz audit tvog trenutnog sajta i pokazati 3 najbrza poteza za vise relevantnih upita preko [kontakt forme](/kontakt).
+`,
+  },
   {
     slug: 'instagram-reklame-za-autoservise-cena-upita-srbija-2026',
     title: 'Instagram reklame za autoservise u Srbiji 2026: cena upita i budzet',
@@ -109,7 +336,7 @@ Ako hoces, mozemo da uradimo brz audit tvoje trenutne kampanje i damo 3 najbrza 
   {
     slug: 'instagram-ads-cena-po-kliku-srbija-2026',
     title: 'Instagram Ads cena po kliku u Srbiji 2026: realni CPC rasponi i kako da spustis trosak leada',
-    excerpt: 'Praktican vodič za Instagram Ads CPC u Srbiji 2026: rasponi po niši, glavni razlozi visokog klika i konkretni potezi za niži trošak uz bolji kvalitet upita.',
+    excerpt: 'Praktican vodiÄ za Instagram Ads CPC u Srbiji 2026: rasponi po niÅ¡i, glavni razlozi visokog klika i konkretni potezi za niÅ¾i troÅ¡ak uz bolji kvalitet upita.',
     date: '2026-03-12',
     category: 'Instagram Ads',
     readTime: '9 min',
@@ -1478,7 +1705,7 @@ Ako zelis da uporedis i Search kanal trosak po intentu, pogledaj [Google Ads cen
 ## Zakljucak
 
 Instagram reklame za restorane u Srbiji 2026 mogu donositi stabilne rezervacije, ali samo kad se meri cena rezervacije i radi iteracija svake nedelje.
-Ako zelis, mogu da uradim mini audit tvog naloga i oznacim 3 poteza koji najbrze spustaju cenu rezervacije � javi se preko [kontakt forme](/kontakt).
+Ako zelis, mogu da uradim mini audit tvog naloga i oznacim 3 poteza koji najbrze spustaju cenu rezervacije ï¿½ javi se preko [kontakt forme](/kontakt).
 `,
   },
   {
@@ -1614,7 +1841,7 @@ Ako hoces, mogu da uradim brz audit tvog profila i oznacim 3 izmene koje najbrze
   {
     slug: 'google-ads-za-b2b-cena-leada-srbija-2026',
     title: 'Google Ads za B2B u Srbiji 2026: cena leada, SQL kvalitet i budzet koji ima smisla',
-    excerpt: 'Koliko realno kosta Google Ads za B2B firme u Srbiji 2026, koji CPL raspon ima smisla po ni�i i kako da merite SQL kvalitet umesto da jurite jeftine leadove bez pipeline-a.',
+    excerpt: 'Koliko realno kosta Google Ads za B2B firme u Srbiji 2026, koji CPL raspon ima smisla po niï¿½i i kako da merite SQL kvalitet umesto da jurite jeftine leadove bez pipeline-a.',
     date: '2026-03-12',
     category: 'Google Ads',
     readTime: '10 min',
@@ -1699,7 +1926,7 @@ Kluc je da svakih 7 dana gasis ono sto ne ulazi u prodajni tok, a ne samo ono st
 ## Zakljucak
 
 Google Ads za B2B u Srbiji 2026 moze biti stabilan pipeline kanal, ali samo kada KPI nije "jeftin CPL" nego odrziv SQL cost i stopa zatvaranja.
-Ako hoces, mogu da uradim brzi audit kampanje i oznacim 3 poteza koji najbrze popravljaju kvalitet leadova � javi se preko [kontakt forme](/kontakt).
+Ako hoces, mogu da uradim brzi audit kampanje i oznacim 3 poteza koji najbrze popravljaju kvalitet leadova ï¿½ javi se preko [kontakt forme](/kontakt).
 `,
   },
   {
@@ -2398,7 +2625,7 @@ Ako nema jasnog trenda, problem je najcesce u procesu, ne u budzetu.
 ## Zakljucak
 
 Za temu **marketing agencija cena Srbija**, pravo pitanje nije "ko je najjeftiniji", vec "ko moze da pretvori budzet u predvidljiv pipeline".
-Ako zelis, mozemo uraditi brz audit tvoje trenutne strukture i oznaciti 3 poteza koji najbrze popravljaju ROI � javi se preko [kontakt forme](/kontakt).
+Ako zelis, mozemo uraditi brz audit tvoje trenutne strukture i oznaciti 3 poteza koji najbrze popravljaju ROI ï¿½ javi se preko [kontakt forme](/kontakt).
 `,
   },
   {
@@ -2496,176 +2723,176 @@ Ako zelite, mozemo uraditi kratak audit vaseg funnel-a i oznaciti 3 poteza koji 
   },
   {
     slug: 'lokalni-seo-cena-zrenjanin-2026',
-    title: 'Lokalni SEO cena u Zrenjaninu 2026: koliko ko�ta i �ta realno dobijate',
-    excerpt: 'Praktican vodic za lokalni SEO u Zrenjaninu: realni rasponi cena, �ta mora da ulazi u uslugu i kako da procenite da li ponuda donosi upite ili samo "aktivnost".',
+    title: 'Lokalni SEO cena u Zrenjaninu 2026: koliko koï¿½ta i ï¿½ta realno dobijate',
+    excerpt: 'Praktican vodic za lokalni SEO u Zrenjaninu: realni rasponi cena, ï¿½ta mora da ulazi u uslugu i kako da procenite da li ponuda donosi upite ili samo "aktivnost".',
     date: '2026-03-11',
     category: 'SEO',
     readTime: '9 min',
     content: `
-## Kratak odgovor: lokalni SEO u Zrenjaninu najce�ce je 250� do 900� mesecno
+## Kratak odgovor: lokalni SEO u Zrenjaninu najceï¿½ce je 250ï¿½ do 900ï¿½ mesecno
 
-Ako tra�ite brz odgovor za upit **lokalni SEO cena Zrenjanin**, realan raspon za mala i srednja preduzeca je obicno izmedu **250� i 900� mesecno**, u zavisnosti od konkurencije i obima posla.
+Ako traï¿½ite brz odgovor za upit **lokalni SEO cena Zrenjanin**, realan raspon za mala i srednja preduzeca je obicno izmedu **250ï¿½ i 900ï¿½ mesecno**, u zavisnosti od konkurencije i obima posla.
 
-Najce�ci opsezi:
+Najceï¿½ci opsezi:
 
-- **Starter lokalni SEO:** 250��400� / mesec
-- **Growth lokalni SEO:** 400��650� / mesec
-- **Performance lokalni SEO:** 650��900�+ / mesec
+- **Starter lokalni SEO:** 250ï¿½ï¿½400ï¿½ / mesec
+- **Growth lokalni SEO:** 400ï¿½ï¿½650ï¿½ / mesec
+- **Performance lokalni SEO:** 650ï¿½ï¿½900ï¿½+ / mesec
 
-Za �iru sliku nacionalnih paketa pogledajte i [SEO optimizacija cena](/seo-optimizacija-cena).
+Za ï¿½iru sliku nacionalnih paketa pogledajte i [SEO optimizacija cena](/seo-optimizacija-cena).
 
-## Za�to cene nisu iste kod svih agencija
+## Zaï¿½to cene nisu iste kod svih agencija
 
 Dve ponude mogu nositi isti naziv, a potpuno razlicit rezultat.
 Razlika je obicno u dubini rada:
 
 1. da li se radi samo osnovna optimizacija stranica,
-2. da li postoji plan sadr�aja za lokalne upite,
+2. da li postoji plan sadrï¿½aja za lokalne upite,
 3. da li se redovno prati Google Business profil,
 4. da li se meri kvalitet upita, a ne samo pozicija.
 
-Ako ponuda nema jasan proces i KPI-jeve, najce�ce placate "odr�avanje", ne rast.
+Ako ponuda nema jasan proces i KPI-jeve, najceï¿½ce placate "odrï¿½avanje", ne rast.
 
-## �ta mora da ulazi u lokalni SEO paket
+## ï¿½ta mora da ulazi u lokalni SEO paket
 
 Ozbiljna lokalna SEO usluga za Zrenjanin treba da pokrije:
 
 - tehnicki audit sajta (indexability, brzina, struktura naslova),
 - optimizaciju kljucnih servisnih i lokalnih landing stranica,
 - Google Business Profile optimizaciju (kategorije, opis, objave, Q&A),
-- plan i objavu lokalno relevantnog sadr�aja,
+- plan i objavu lokalno relevantnog sadrï¿½aja,
 - interni link building izmedu servisnih i blog stranica,
 - pracenje konverzija (poziv, forma, WhatsApp klik),
-- mesecni izve�taj sa narednim prioritetima.
+- mesecni izveï¿½taj sa narednim prioritetima.
 
 Ako vam treba i lokalna pozicioniranost po gradu, korisna referenca je [marketing agencija Zrenjanin](/marketing-agencija-zrenjanin).
 
-## Modeli naplate koje cete najce�ce videti
+## Modeli naplate koje cete najceï¿½ce videti
 
 ### 1) Fiksna mesecna naknada
-Dobar izbor za lokalne firme jer daje predvidljiv tro�ak i lak�e planiranje.
+Dobar izbor za lokalne firme jer daje predvidljiv troï¿½ak i lakï¿½e planiranje.
 
 ### 2) Paket + jednokratni setup
-Pocetni mesec ukljucuje tehnicki setup i mapiranje upita, a zatim ide mesecno odr�avanje i optimizacija.
+Pocetni mesec ukljucuje tehnicki setup i mapiranje upita, a zatim ide mesecno odrï¿½avanje i optimizacija.
 
 ### 3) Hibridni model
-Ni�i fiksni fee + bonus po jasno definisanim rezultatima (npr. broj kvalifikovanih upita).
+Niï¿½i fiksni fee + bonus po jasno definisanim rezultatima (npr. broj kvalifikovanih upita).
 
 Kod hibrida obavezno ugovorite metriku unapred, da ne ostane prostor za razlicita tumacenja.
 
 ## 5 signala da ponuda za lokalni SEO nije dobra
 
-1. **Nema rada na Google Business profilu** � a to je kljuc lokalne vidljivosti.
-2. **Nema plana sadr�aja po lokalnim upitima** � bez sadr�aja rast je spor i kratkotrajan.
-3. **Izve�taj je samo lista pozicija** � bez obja�njenja �ta dalje.
-4. **Nema merenja upita i poziva** � ne znate da li SEO donosi prihod.
-5. **Sve stranice targetiraju iste kljucne reci** � dolazi do keyword cannibalization problema.
+1. **Nema rada na Google Business profilu** ï¿½ a to je kljuc lokalne vidljivosti.
+2. **Nema plana sadrï¿½aja po lokalnim upitima** ï¿½ bez sadrï¿½aja rast je spor i kratkotrajan.
+3. **Izveï¿½taj je samo lista pozicija** ï¿½ bez objaï¿½njenja ï¿½ta dalje.
+4. **Nema merenja upita i poziva** ï¿½ ne znate da li SEO donosi prihod.
+5. **Sve stranice targetiraju iste kljucne reci** ï¿½ dolazi do keyword cannibalization problema.
 
 ## Kako da procenite da li je cena opravdana
 
-Najprakticniji okvir je da lokalni SEO posmatrate kroz tro�ak po kvalifikovanom upitu.
+Najprakticniji okvir je da lokalni SEO posmatrate kroz troï¿½ak po kvalifikovanom upitu.
 
 Primer jednostavne logike:
 
-- mesecno ulaganje: 500�
-- prosecna vrednost jednog klijenta: 300�
+- mesecno ulaganje: 500ï¿½
+- prosecna vrednost jednog klijenta: 300ï¿½
 - potrebno za break-even: 2 klijenta mesecno
 
 Ako SEO kanal stabilno donosi 3-4 relevantna klijenta mesecno, ulaganje je zdravo.
-Ako nema traga o kvalitetu lead-ova, cena je sekundarna � problem je u merenju.
+Ako nema traga o kvalitetu lead-ova, cena je sekundarna ï¿½ problem je u merenju.
 
-## 90-dnevni plan koji najce�ce daje rezultat
+## 90-dnevni plan koji najceï¿½ce daje rezultat
 
 ### Dani 1-30: Temelj
 - tehnicki audit i ispravke prioriteta,
 - sredivanje servisnih stranica za lokalni intent,
 - optimizacija Google Business profila.
 
-### Dani 31-60: Sadr�aj i autoritet
+### Dani 31-60: Sadrï¿½aj i autoritet
 - objava lokalnih SEO tekstova po usluzi,
 - interno povezivanje ka money stranicama,
 - pocetak aktivnog rada na recenzijama i proof elementima.
 
 ### Dani 61-90: Optimizacija po rezultatima
-- analiza upita i pona�anja korisnika,
+- analiza upita i ponaï¿½anja korisnika,
 - dorada stranica sa slabim CTR/konverzijom,
 - fokus na upite koji donose najbolji poslovni ishod.
 
-Ako planirate i placeni kanal za br�e testiranje ponude, pogledajte i [Google reklame cena](/google-reklame-cena).
+Ako planirate i placeni kanal za brï¿½e testiranje ponude, pogledajte i [Google reklame cena](/google-reklame-cena).
 
 ## Zakljucak
 
-Za temu **lokalni SEO cena Zrenjanin**, pravo pitanje nije "ko je najjeftiniji", vec "ko mo�e da pretvori lokalnu vidljivost u konkretne upite i klijente".
-Ako �elite, mo�emo uraditi brzi audit i dati vam 3 prioriteta koji najbr�e podi�u rezultat � javite se preko [kontakt forme](/kontakt).
+Za temu **lokalni SEO cena Zrenjanin**, pravo pitanje nije "ko je najjeftiniji", vec "ko moï¿½e da pretvori lokalnu vidljivost u konkretne upite i klijente".
+Ako ï¿½elite, moï¿½emo uraditi brzi audit i dati vam 3 prioriteta koji najbrï¿½e podiï¿½u rezultat ï¿½ javite se preko [kontakt forme](/kontakt).
 `,
   },
   {
     slug: 'vodjenje-instagram-profila-cena-srbija-2026',
-    title: 'Vodenje Instagram profila cena u Srbiji 2026: �ta ulazi u paket i koliko je realno',
-    excerpt: 'Koliko ko�ta vodenje Instagram profila u Srbiji 2026, koje su realne razlike izmedu paketa i kako da izbegnete uslugu koja izgleda jeftino, a ne donosi rezultate.',
+    title: 'Vodenje Instagram profila cena u Srbiji 2026: ï¿½ta ulazi u paket i koliko je realno',
+    excerpt: 'Koliko koï¿½ta vodenje Instagram profila u Srbiji 2026, koje su realne razlike izmedu paketa i kako da izbegnete uslugu koja izgleda jeftino, a ne donosi rezultate.',
     date: '2026-03-11',
     category: 'Social Media',
     readTime: '9 min',
     content: `
-## Kratak odgovor: vodenje Instagram profila u Srbiji najce�ce je 250� do 1.500� mesecno
+## Kratak odgovor: vodenje Instagram profila u Srbiji najceï¿½ce je 250ï¿½ do 1.500ï¿½ mesecno
 
-Ako tra�ite brz odgovor za upit **vodenje Instagram profila cena**, realan raspon zavisi od toga da li vam treba samo objava sadr�aja ili kompletan sistem koji povezuje content, oglase i lead generation.
+Ako traï¿½ite brz odgovor za upit **vodenje Instagram profila cena**, realan raspon zavisi od toga da li vam treba samo objava sadrï¿½aja ili kompletan sistem koji povezuje content, oglase i lead generation.
 
-Tipicni rasponi na tr�i�tu:
+Tipicni rasponi na trï¿½iï¿½tu:
 
-- **Osnovno vodenje (objave + community): 250��500� / mesecno**
-- **Growth vodenje (strategija + content + analitika): 500��900� / mesecno**
-- **Performance pristup (content + ads sinergija + funnel): 900��1.500�+ / mesecno**
+- **Osnovno vodenje (objave + community): 250ï¿½ï¿½500ï¿½ / mesecno**
+- **Growth vodenje (strategija + content + analitika): 500ï¿½ï¿½900ï¿½ / mesecno**
+- **Performance pristup (content + ads sinergija + funnel): 900ï¿½ï¿½1.500ï¿½+ / mesecno**
 
-Ako �elite �iri kontekst ukupnog bud�eta po kanalima, pogledajte i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Ako ï¿½elite ï¿½iri kontekst ukupnog budï¿½eta po kanalima, pogledajte i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-## Za�to cene toliko variraju
+## Zaï¿½to cene toliko variraju
 
-Dve agencije mogu napisati �vodenje Instagrama�, a da isporucuju potpuno razlicitu vrednost.
-Najce�ce razlike nisu u lep�em dizajnu, nego u tome da li neko radi:
+Dve agencije mogu napisati ï¿½vodenje Instagramaï¿½, a da isporucuju potpuno razlicitu vrednost.
+Najceï¿½ce razlike nisu u lepï¿½em dizajnu, nego u tome da li neko radi:
 
-1. istra�ivanje publike i poruke,
+1. istraï¿½ivanje publike i poruke,
 2. redovan test formata (Reels, carousel, story),
-3. plan distribucije i pojacanja sadr�aja,
+3. plan distribucije i pojacanja sadrï¿½aja,
 4. merenje rezultata po poslovnim KPI metrima.
 
-Ako je usluga samo �9 objava mesecno�, dobijate aktivnost.
+Ako je usluga samo ï¿½9 objava mesecnoï¿½, dobijate aktivnost.
 Ako je usluga vezana za rezultat (upiti, prodaja, kvalitet lead-ova), dobijate sistem.
 
-## �ta tacno treba da ulazi u kvalitetno vodenje profila
+## ï¿½ta tacno treba da ulazi u kvalitetno vodenje profila
 
-Pre nego �to uporedite cenu, proverite scope.
+Pre nego ï¿½to uporedite cenu, proverite scope.
 Minimalni ozbiljan paket za biznis nalog obicno ukljucuje:
 
-- mesecnu strategiju sadr�aja po ciljnoj publici,
+- mesecnu strategiju sadrï¿½aja po ciljnoj publici,
 - content kalendar + jasne content pillars,
 - copywriting za objave i CTA,
-- dizajn i/ili video monta�u,
+- dizajn i/ili video montaï¿½u,
 - community management (DM + komentari),
-- mesecni izve�taj sa narednim akcijama.
+- mesecni izveï¿½taj sa narednim akcijama.
 
-Kod firmi koje �ele i merljiv rast, ovo se cesto kombinuje sa placenim kanalom, gde je dobar nastavak [Instagram reklame cena](/instagram-reklame-cena).
+Kod firmi koje ï¿½ele i merljiv rast, ovo se cesto kombinuje sa placenim kanalom, gde je dobar nastavak [Instagram reklame cena](/instagram-reklame-cena).
 
-## Modeli naplate koje cete najce�ce videti
+## Modeli naplate koje cete najceï¿½ce videti
 
 ### 1) Fiksni mesecni paket
 Najpredvidljiviji model za planiranje. Dobar je kada su scope i output jasno definisani.
 
 ### 2) Paket + dodatna produkcija
-Osnovni fee pokriva strategiju i vodenje, a kompleksniji video sadr�aj ili snimanja idu posebno.
+Osnovni fee pokriva strategiju i vodenje, a kompleksniji video sadrï¿½aj ili snimanja idu posebno.
 
 ### 3) Performance hibrid
-Fiksni deo + bonus po dogovorenim KPI ishodima. Koristan kada obe strane �ele jasan alignment oko rezultata.
+Fiksni deo + bonus po dogovorenim KPI ishodima. Koristan kada obe strane ï¿½ele jasan alignment oko rezultata.
 
 Ako birate model saradnje, koristan benchmark je i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share).
 
-## 5 crvenih zastavica da je ponuda lo�a (cak i kad je jeftina)
+## 5 crvenih zastavica da je ponuda loï¿½a (cak i kad je jeftina)
 
-1. **Nema strategije** � dobijate samo �objave po �ablonu�.
-2. **Nema vlasni�tva nad nalozima i assetima** � rizicno dugorocno.
-3. **Nema jasnih KPI-jeva** � sve ostaje na utisku, ne na brojkama.
-4. **Nema plana testiranja** � sadr�aj se vrti bez ucenja.
-5. **Nema povezanosti sa prodajom** � engagement raste, biznis rezultat stoji.
+1. **Nema strategije** ï¿½ dobijate samo ï¿½objave po ï¿½ablonuï¿½.
+2. **Nema vlasniï¿½tva nad nalozima i assetima** ï¿½ rizicno dugorocno.
+3. **Nema jasnih KPI-jeva** ï¿½ sve ostaje na utisku, ne na brojkama.
+4. **Nema plana testiranja** ï¿½ sadrï¿½aj se vrti bez ucenja.
+5. **Nema povezanosti sa prodajom** ï¿½ engagement raste, biznis rezultat stoji.
 
 Jeftina usluga koja ne pomera prodaju je najskuplja opcija.
 
@@ -2680,8 +2907,8 @@ Praktican okvir:
 
 Primer:
 
-- fee za vodenje: 700�
-- prosecna vrednost klijenta: 600�
+- fee za vodenje: 700ï¿½
+- prosecna vrednost klijenta: 600ï¿½
 - potrebna dodatna prodaja za break-even: ~2 klijenta mesecno
 
 Ako sistem donosi 3+ relevantna klijenta mesecno, ulaganje je racionalno.
@@ -2692,65 +2919,65 @@ Ako sistem donosi 3+ relevantna klijenta mesecno, ulaganje je racionalno.
 - **Mesec 2:** test 3-4 content ugla + optimizacija CTA tokova
 - **Mesec 3:** skaliranje formata koji rade + jaca integracija sa lead flow-om
 
-Za biznise koji �ele i search intent saobracaj, dobar paralelan kanal je [Google reklame cena](/google-reklame-cena).
+Za biznise koji ï¿½ele i search intent saobracaj, dobar paralelan kanal je [Google reklame cena](/google-reklame-cena).
 
 ## Zakljucak
 
-Za temu **vodenje Instagram profila cena** kljuc nije pronaci najni�u cifru, vec model koji realno povezuje sadr�aj sa upitima i prodajom.
-Ako �elite, mo�emo uraditi brz audit va�eg naloga i dati prioritetne izmene koje najbr�e podi�u rezultat � javite se preko [kontakt forme](/kontakt).
+Za temu **vodenje Instagram profila cena** kljuc nije pronaci najniï¿½u cifru, vec model koji realno povezuje sadrï¿½aj sa upitima i prodajom.
+Ako ï¿½elite, moï¿½emo uraditi brz audit vaï¿½eg naloga i dati prioritetne izmene koje najbrï¿½e podiï¿½u rezultat ï¿½ javite se preko [kontakt forme](/kontakt).
 `,
   },
   {
     slug: 'instagram-ads-cena-po-kliku-srbija-2026',
-    title: 'Instagram Ads cena po kliku u Srbiji 2026: realni CPC rasponi i bud�et plan',
-    excerpt: 'Koliko realno ko�ta klik na Instagram oglasima u Srbiji 2026, od cega zavisi CPC i kako da planirate bud�et bez skupih gre�aka.',
+    title: 'Instagram Ads cena po kliku u Srbiji 2026: realni CPC rasponi i budï¿½et plan',
+    excerpt: 'Koliko realno koï¿½ta klik na Instagram oglasima u Srbiji 2026, od cega zavisi CPC i kako da planirate budï¿½et bez skupih greï¿½aka.',
     date: '2026-03-11',
     category: 'Instagram Ads',
     readTime: '8 min',
     content: `
-## Kratak odgovor: Instagram klik u Srbiji nije �jedna cifra�
+## Kratak odgovor: Instagram klik u Srbiji nije ï¿½jedna cifraï¿½
 
-Ako tra�ite univerzalan odgovor tipa �klik je 0,20��, vrlo verovatno cete pogre�no planirati kampanju.
-U praksi, cena po kliku (CPC) na Instagramu zavisi od ni�e, kvaliteta kreativa, ciljne publike i faze funnel-a.
+Ako traï¿½ite univerzalan odgovor tipa ï¿½klik je 0,20ï¿½ï¿½, vrlo verovatno cete pogreï¿½no planirati kampanju.
+U praksi, cena po kliku (CPC) na Instagramu zavisi od niï¿½e, kvaliteta kreativa, ciljne publike i faze funnel-a.
 
-Za �iri pregled tro�kova kanala pogledajte i [cene digitalnog marketinga](/cene-digitalnog-marketinga),
+Za ï¿½iri pregled troï¿½kova kanala pogledajte i [cene digitalnog marketinga](/cene-digitalnog-marketinga),
 a za kompletan servis po Meta kanalu [Instagram reklame cena](/instagram-reklame-cena).
 
-## Realni CPC rasponi za srpsko tr�i�te (2026)
+## Realni CPC rasponi za srpsko trï¿½iï¿½te (2026)
 
-U radu sa lokalnim i regionalnim kampanjama najce�ce vidamo sledece opsege:
+U radu sa lokalnim i regionalnim kampanjama najceï¿½ce vidamo sledece opsege:
 
-- **Lokalne usluge (saloni, manji studiji, ordinacije): 0,08� � 0,35�**
-- **E-commerce (�iroka potro�nja, fashion, beauty): 0,12� � 0,55�**
-- **B2B usluge i konsulting: 0,25� � 0,90�**
-- **Visoko konkurentne ni�e (finansije, pravne usluge, premium tr�i�te): 0,40� � 1,20�+**
+- **Lokalne usluge (saloni, manji studiji, ordinacije): 0,08ï¿½ ï¿½ 0,35ï¿½**
+- **E-commerce (ï¿½iroka potroï¿½nja, fashion, beauty): 0,12ï¿½ ï¿½ 0,55ï¿½**
+- **B2B usluge i konsulting: 0,25ï¿½ ï¿½ 0,90ï¿½**
+- **Visoko konkurentne niï¿½e (finansije, pravne usluge, premium trï¿½iï¿½te): 0,40ï¿½ ï¿½ 1,20ï¿½+**
 
-Ovo nisu �garantovane� cene, ali jesu realan okvir za pocetni bud�et plan.
-Ako �elite uporedni benchmark sa Search intent saobracajem, pogledajte i [Google reklame cena](/google-reklame-cena).
+Ovo nisu ï¿½garantovaneï¿½ cene, ali jesu realan okvir za pocetni budï¿½et plan.
+Ako ï¿½elite uporedni benchmark sa Search intent saobracajem, pogledajte i [Google reklame cena](/google-reklame-cena).
 
-## Za�to dve firme iz iste ni�e placaju potpuno drugaciji CPC
+## Zaï¿½to dve firme iz iste niï¿½e placaju potpuno drugaciji CPC
 
-Najce�ci razlog nije tr�i�te, vec kvalitet setup-a.
-Instagram algoritam prakticno �nagraduje� oglase koji dobijaju dobar signal relevantnosti.
+Najceï¿½ci razlog nije trï¿½iï¿½te, vec kvalitet setup-a.
+Instagram algoritam prakticno ï¿½nagradujeï¿½ oglase koji dobijaju dobar signal relevantnosti.
 
-Najveci faktori koji podi�u ili spu�taju CPC:
+Najveci faktori koji podiï¿½u ili spuï¿½taju CPC:
 
-1. **Creative quality** � da li vizual i hook zaustavljaju skrol u prve 1�2 sekunde.
-2. **Audience fit** � koliko je publika uska/�iroka i da li poruka odgovara intentu.
-3. **Offer clarity** � da li je korisniku odmah jasno �ta dobija i koji je sledeci korak.
-4. **Landing consistency** � da li stranica posle klika potvrduje obecanje iz oglasa.
-5. **Objective selection** � klikovi su cesto jeftiniji kod pogre�nog cilja, ali lo�iji za kvalitet lead-ova.
+1. **Creative quality** ï¿½ da li vizual i hook zaustavljaju skrol u prve 1ï¿½2 sekunde.
+2. **Audience fit** ï¿½ koliko je publika uska/ï¿½iroka i da li poruka odgovara intentu.
+3. **Offer clarity** ï¿½ da li je korisniku odmah jasno ï¿½ta dobija i koji je sledeci korak.
+4. **Landing consistency** ï¿½ da li stranica posle klika potvrduje obecanje iz oglasa.
+5. **Objective selection** ï¿½ klikovi su cesto jeftiniji kod pogreï¿½nog cilja, ali loï¿½iji za kvalitet lead-ova.
 
-Drugim recima: mo�ete imati jeftin klik i lo� biznis rezultat, ili skuplji klik i profitabilan funnel.
+Drugim recima: moï¿½ete imati jeftin klik i loï¿½ biznis rezultat, ili skuplji klik i profitabilan funnel.
 
 ## CPC bez konteksta je opasna metrika
 
-Velika gre�ka je optimizovati kampanju samo na ��to ni�i klik�.
-Ako je klik jeftin, ali publika ne konvertuje, tro�ite bud�et na prazne posete.
+Velika greï¿½ka je optimizovati kampanju samo na ï¿½ï¿½to niï¿½i klikï¿½.
+Ako je klik jeftin, ali publika ne konvertuje, troï¿½ite budï¿½et na prazne posete.
 
 Zato CPC uvek gledajte zajedno sa:
 
-- CTR (da li kreativ privlaci pravu pa�nju),
+- CTR (da li kreativ privlaci pravu paï¿½nju),
 - LP conversion rate (da li landing radi posao),
 - CPL (cena po upitu/leadu),
 - procenat kvalifikovanih lead-ova,
@@ -2759,31 +2986,31 @@ Zato CPC uvek gledajte zajedno sa:
 Ako vam treba i sama osnova za stranicu koja bolje konvertuje social saobracaj,
 koristan kontekst je [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
 
-## Kako da planirate bud�et kad tek krecete
+## Kako da planirate budï¿½et kad tek krecete
 
 Praktican okvir za pocetak:
 
-- ciljajte **300�800 klikova mesecno** za relevantan uzorak,
-- pomno�ite sa ocekivanim CPC rasponom va�e ni�e,
-- dodajte rezervu 20�30% za testiranje kreativa i publika,
-- tek posle 2�4 nedelje donosite ozbiljne zakljucke.
+- ciljajte **300ï¿½800 klikova mesecno** za relevantan uzorak,
+- pomnoï¿½ite sa ocekivanim CPC rasponom vaï¿½e niï¿½e,
+- dodajte rezervu 20ï¿½30% za testiranje kreativa i publika,
+- tek posle 2ï¿½4 nedelje donosite ozbiljne zakljucke.
 
 Primer:
-- ocekivani CPC: 0,30�
+- ocekivani CPC: 0,30ï¿½
 - cilj: 500 klikova
-- medija minimum: 150�
-- realniji test bud�et sa prostorom za iteraciju: 200�260�
+- medija minimum: 150ï¿½
+- realniji test budï¿½et sa prostorom za iteraciju: 200ï¿½260ï¿½
 
-## 6 poteza koji najbr�e spu�taju CPC bez pada kvaliteta
+## 6 poteza koji najbrï¿½e spuï¿½taju CPC bez pada kvaliteta
 
-1. **Hook u prvom kadru** � bez uvoda, odmah problem/benefit.
-2. **3�5 kreativa po ad set-u** � algoritam br�e nade pobednika.
-3. **Razdvoji cold i retargeting** � razlicite poruke za razlicite faze.
-4. **Ne me�aj previ�e publika u istoj grupi** � jasniji signal, bolja optimizacija.
-5. **Rotiraj kreativ na 7�10 dana** kad krene ad fatigue.
-6. **Odr�avaj poruku 1:1 izmedu oglasa i landing stranice**.
+1. **Hook u prvom kadru** ï¿½ bez uvoda, odmah problem/benefit.
+2. **3ï¿½5 kreativa po ad set-u** ï¿½ algoritam brï¿½e nade pobednika.
+3. **Razdvoji cold i retargeting** ï¿½ razlicite poruke za razlicite faze.
+4. **Ne meï¿½aj previï¿½e publika u istoj grupi** ï¿½ jasniji signal, bolja optimizacija.
+5. **Rotiraj kreativ na 7ï¿½10 dana** kad krene ad fatigue.
+6. **Odrï¿½avaj poruku 1:1 izmedu oglasa i landing stranice**.
 
-Kod vecine kampanja, ova disciplina donese jaci pomak od �tajnih trikova�.
+Kod vecine kampanja, ova disciplina donese jaci pomak od ï¿½tajnih trikovaï¿½.
 
 ## Brzi 14-dnevni plan optimizacije
 
@@ -2793,74 +3020,74 @@ Kod vecine kampanja, ova disciplina donese jaci pomak od �tajnih trikova�.
 - **Dan 9-11:** segmentiraj publike po intentu (cold / warm / retargeting).
 - **Dan 12-14:** optimizuj landing poruku i CTA prema pobednickom oglasu.
 
-Ako �elite da uporedite model saradnje pre skaliranja, pogledajte i [agencija vs freelancer](/agencija-vs-freelancer).
+Ako ï¿½elite da uporedite model saradnje pre skaliranja, pogledajte i [agencija vs freelancer](/agencija-vs-freelancer).
 
 ## Zakljucak
 
-Instagram Ads cena po kliku u Srbiji 2026 najvi�e zavisi od kvaliteta egzekucije, a ne od �proseka sa interneta�.
-Ako �elite, mo�emo uraditi brz audit va�eg naloga i oznaciti 3 najbr�e izmene koje mogu spustiti cenu kvalifikovanog klika � javite se preko [kontakt forme](/kontakt).
+Instagram Ads cena po kliku u Srbiji 2026 najviï¿½e zavisi od kvaliteta egzekucije, a ne od ï¿½proseka sa internetaï¿½.
+Ako ï¿½elite, moï¿½emo uraditi brz audit vaï¿½eg naloga i oznaciti 3 najbrï¿½e izmene koje mogu spustiti cenu kvalifikovanog klika ï¿½ javite se preko [kontakt forme](/kontakt).
 `,
   },
   {
     slug: 'alex-hormozi-100m-leads-sistem-za-vise-upita-srbija-2026',
-    title: 'Alex Hormozi 100M Leads: sistem za vi�e upita bez duplog bud�eta (Srbija 2026)',
-    excerpt: 'Kako da primeni� Hormozi 100M Leads pristup na srpsko tr�i�te: bolji hook, jasnija ponuda i kvalitetniji leadovi bez bacanja bud�eta.',
+    title: 'Alex Hormozi 100M Leads: sistem za viï¿½e upita bez duplog budï¿½eta (Srbija 2026)',
+    excerpt: 'Kako da primeniï¿½ Hormozi 100M Leads pristup na srpsko trï¿½iï¿½te: bolji hook, jasnija ponuda i kvalitetniji leadovi bez bacanja budï¿½eta.',
     date: '2026-03-11',
     category: 'Lead Generation',
     readTime: '9 min',
     content: `
-## Za�to mnoge firme povecaju bud�et, a ne povecaju broj kvalitetnih upita
+## Zaï¿½to mnoge firme povecaju budï¿½et, a ne povecaju broj kvalitetnih upita
 
-Najce�ci problem nije da "nema saobracaja" nego da je ulaz u funnel slab.
-Ljudi vide oglas, mo�da i kliknu, ali ne osecaju dovoljno jasan razlog da ostave upit.
+Najceï¿½ci problem nije da "nema saobracaja" nego da je ulaz u funnel slab.
+Ljudi vide oglas, moï¿½da i kliknu, ali ne osecaju dovoljno jasan razlog da ostave upit.
 
-Upravo to re�ava Alex Hormozi okvir iz knjige *100M Leads*: prvo pojaca� kvalitet poruke i ponude, pa tek onda skalira� bud�et.
-Ako prvo �eli� okvir tro�kova po kanalima, pogledaj i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Upravo to reï¿½ava Alex Hormozi okvir iz knjige *100M Leads*: prvo pojacaï¿½ kvalitet poruke i ponude, pa tek onda skaliraï¿½ budï¿½et.
+Ako prvo ï¿½eliï¿½ okvir troï¿½kova po kanalima, pogledaj i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
 ## 1) Hook mora da zaustavi skrol u prve 2 sekunde
 
-U 2026. pa�nja je skuplja od klika.
+U 2026. paï¿½nja je skuplja od klika.
 Ako uvodna recenica ne pogodi konkretan problem, korisnik odlazi bez obzira koliko je kampanja tehnicki dobra.
 
-Dobar hook na srpskom tr�i�tu obicno ima 3 elementa:
+Dobar hook na srpskom trï¿½iï¿½tu obicno ima 3 elementa:
 
 - jasan problem koji publika vec oseca,
-- konkretan ishod koji �eli,
+- konkretan ishod koji ï¿½eli,
 - vremenski okvir koji deluje realno.
 
 Primer slabog hook-a:
-- "Radimo digitalni marketing za rast va�eg biznisa"
+- "Radimo digitalni marketing za rast vaï¿½eg biznisa"
 
 Primer jaceg hook-a:
-- "Ako tro�ite 500�+ mesecno na oglase i nemate stabilne upite, verovatno vam curi bud�et u prve dve faze funnel-a."
+- "Ako troï¿½ite 500ï¿½+ mesecno na oglase i nemate stabilne upite, verovatno vam curi budï¿½et u prve dve faze funnel-a."
 
 ## 2) Ponuda mora da bude specificna, ne genericka
 
-Hormozi cesto ponavlja: tr�i�te ne nagraduje "jo� jednu uslugu" nego jasnu transformaciju.
+Hormozi cesto ponavlja: trï¿½iï¿½te ne nagraduje "joï¿½ jednu uslugu" nego jasnu transformaciju.
 U praksi to znaci da ponuda mora biti vezana za merljiv ishod.
 
 Umesto:
 - "Vodenje kampanja"
 
 Bolje:
-- "U narednih 30 dana cistimo tracking, su�avamo keyword intent i testiramo 3 creative ugla da spustimo cenu kvalifikovanog upita."
+- "U narednih 30 dana cistimo tracking, suï¿½avamo keyword intent i testiramo 3 creative ugla da spustimo cenu kvalifikovanog upita."
 
-Ako radi� Google kanal, dobar benchmark je [Google reklame cena](/google-reklame-cena),
+Ako radiï¿½ Google kanal, dobar benchmark je [Google reklame cena](/google-reklame-cena),
 a za Meta kanal [Instagram reklame cena](/instagram-reklame-cena).
 
 ## 3) Lead magnet treba da filtrira, ne samo da skuplja kontakte
 
-Velika gre�ka je jurenje �to veceg broja lead-ova.
-Ako magnet privuce ljude koji nisu spremni za kupovinu, prodaja tro�i vreme na lo�e upite i misli da marketing "ne radi".
+Velika greï¿½ka je jurenje ï¿½to veceg broja lead-ova.
+Ako magnet privuce ljude koji nisu spremni za kupovinu, prodaja troï¿½i vreme na loï¿½e upite i misli da marketing "ne radi".
 
 Zato lead magnet treba da ima kvalifikacioni sloj:
 
 - za koga jeste,
 - za koga nije,
-- koji je minimum bud�eta ili kapaciteta,
+- koji je minimum budï¿½eta ili kapaciteta,
 - koji je ocekivani rok do rezultata.
 
-Tako dobija� manje, ali kvalitetnije upite i bolji close rate.
+Tako dobijaï¿½ manje, ali kvalitetnije upite i bolji close rate.
 
 ## 4) Follow-up sistem odlucuje koliko leadova stvarno postane prihod
 
@@ -2869,14 +3096,14 @@ Ako nema brzog i strukturiranog follow-up-a, topli lead hladi se za par sati.
 
 Minimum koji treba da postoji:
 
-1. odgovor u prvih 5�15 minuta,
+1. odgovor u prvih 5ï¿½15 minuta,
 2. jasna sledeca akcija (poziv / kratki audit / ponuda),
-3. 3�5 follow-up poruka u narednih 7 dana,
+3. 3ï¿½5 follow-up poruka u narednih 7 dana,
 4. jednostavan CRM status (nov, kontaktiran, kvalifikovan, zatvoren).
 
 ## 5) Skaliranje dolazi tek kad funnel ima stabilnu osnovu
 
-Skalirati bud�et pre stabilnog funnel-a znaci samo br�e tro�iti novac.
+Skalirati budï¿½et pre stabilnog funnel-a znaci samo brï¿½e troï¿½iti novac.
 Prvo stabilizuj kljucne metrike:
 
 - CTR po kampanji i kreativi,
@@ -2884,52 +3111,52 @@ Prvo stabilizuj kljucne metrike:
 - procenat kvalifikovanih lead-ova,
 - close rate po izvoru.
 
-Tek kada su brojke predvidljive, povecanje bud�eta daje zdrav rast.
+Tek kada su brojke predvidljive, povecanje budï¿½eta daje zdrav rast.
 
 ## Brzi 14-dnevni plan (100M Leads adaptacija)
 
-Ako �eli� praktican sprint bez komplikovanja:
+Ako ï¿½eliï¿½ praktican sprint bez komplikovanja:
 
-- **Dan 1-2:** prepi�i hook i headline ponude za 2 glavna segmenta publike.
+- **Dan 1-2:** prepiï¿½i hook i headline ponude za 2 glavna segmenta publike.
 - **Dan 3-5:** lansiraj 3 creative ugla (problem, rezultat, dokaz).
 - **Dan 6-8:** uvedi kvalifikaciona pitanja u formu.
 - **Dan 9-11:** postavi follow-up sekvencu i SLA za odgovor.
-- **Dan 12-14:** ugasi slabije oglase i prebaci bud�et na najbolje varijante.
+- **Dan 12-14:** ugasi slabije oglase i prebaci budï¿½et na najbolje varijante.
 
-Ako �eli� da uporedi� model naplate pre skaliranja, pogledaj i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share).
+Ako ï¿½eliï¿½ da uporediï¿½ model naplate pre skaliranja, pogledaj i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share).
 
 ## Zakljucak
 
-Hormozi 100M Leads logika nije trik za viralnost � to je sistem za kvalitetniji pipeline.
-Kada su hook, ponuda i follow-up jasni, isti bud�et cesto daje vi�e kvalifikovanih upita nego pre.
+Hormozi 100M Leads logika nije trik za viralnost ï¿½ to je sistem za kvalitetniji pipeline.
+Kada su hook, ponuda i follow-up jasni, isti budï¿½et cesto daje viï¿½e kvalifikovanih upita nego pre.
 
-Ako �eli�, mo�emo proci tvoj trenutni funnel i slo�iti prioritetne izmene po redosledu uticaja. Javi se kroz [kontakt formu](/kontakt).
+Ako ï¿½eliï¿½, moï¿½emo proci tvoj trenutni funnel i sloï¿½iti prioritetne izmene po redosledu uticaja. Javi se kroz [kontakt formu](/kontakt).
 `,
   },
   {
     slug: 'google-ads-za-lokalne-biznise-kako-spustiti-cenu-leada-srbija-2026',
     title: 'Google Ads za lokalne biznise: kako spustiti cenu leada u Srbiji 2026',
-    excerpt: 'Praktican vodic za lokalne firme u Srbiji: kako da kroz bolju strukturu kampanje i landing stranicu smanjite cenu upita bez povecanja bud�eta.',
+    excerpt: 'Praktican vodic za lokalne firme u Srbiji: kako da kroz bolju strukturu kampanje i landing stranicu smanjite cenu upita bez povecanja budï¿½eta.',
     date: '2026-03-11',
     category: 'Google Ads',
     readTime: '9 min',
     content: `
-## Problem koji lokalni biznisi najce�ce imaju sa Google Ads kampanjama
+## Problem koji lokalni biznisi najceï¿½ce imaju sa Google Ads kampanjama
 
-Mnoge lokalne firme ne gube novac zato �to je klik "preskup", nego zato �to placaju klikove ljudi koji nikad nisu bili ozbiljni kupci.
+Mnoge lokalne firme ne gube novac zato ï¿½to je klik "preskup", nego zato ï¿½to placaju klikove ljudi koji nikad nisu bili ozbiljni kupci.
 Kampanja radi, klikovi dolaze, ali upiti su slabi i cena kvalitetnog leada raste iz meseca u mesec.
 
-Ako prvo �elite �iru sliku bud�eta, pogledajte i [Google reklame cena](/google-reklame-cena).
+Ako prvo ï¿½elite ï¿½iru sliku budï¿½eta, pogledajte i [Google reklame cena](/google-reklame-cena).
 
-## 1) Prvo suzite intent, pa tek onda di�ite bud�et
+## 1) Prvo suzite intent, pa tek onda diï¿½ite budï¿½et
 
-Najskuplja gre�ka je �irok keyword set bez jasnog komercijalnog signala.
+Najskuplja greï¿½ka je ï¿½irok keyword set bez jasnog komercijalnog signala.
 Za lokalne usluge cesto bolje rade termini koji ukljucuju:
 
 - grad ili region,
 - cenu ili procenu cene,
 - "hitno", "odmah", "u blizini",
-- konkretan problem koji korisnik �eli da re�i.
+- konkretan problem koji korisnik ï¿½eli da reï¿½i.
 
 Primer:
 - slabije: "marketing"
@@ -2939,14 +3166,14 @@ Kad pogodite intent, cena leada pada i bez povecanja spend-a.
 
 ## 2) Razdvojite kampanje po fazi odluke
 
-Ako pome�ate informativne i kupovne upite u istoj kampanji, algoritam te�ko optimizuje kvalitet.
+Ako pomeï¿½ate informativne i kupovne upite u istoj kampanji, algoritam teï¿½ko optimizuje kvalitet.
 Prakticnije je da imate bar 3 odvojene celine:
 
 1. **High intent** (ljudi spremni za razgovor),
 2. **Mid intent** (uporeduju opcije),
 3. **Brand + remarketing** (povratak toplih posetilaca).
 
-Tek kada vidite rezultate po svakoj fazi posebno, mo�ete da prebacujete bud�et tamo gde je profit najveci.
+Tek kada vidite rezultate po svakoj fazi posebno, moï¿½ete da prebacujete budï¿½et tamo gde je profit najveci.
 
 ## 3) Landing stranica je pola rezultata, ne "dodatak"
 
@@ -2960,22 +3187,22 @@ Za lokalne usluge landing treba da ima:
 
 Ako vam treba benchmark za strukturu i cenu izrade, pogledajte i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
 
-## 4) Negativne kljucne reci su najbr�i nacin da sacuvate bud�et
+## 4) Negativne kljucne reci su najbrï¿½i nacin da sacuvate budï¿½et
 
 Lokalni nalozi cesto placaju klikove za upite koji nemaju komercijalnu nameru.
 Zato negativne reci treba cistiti svake nedelje, posebno u prve 4-6 nedelja kampanje.
 
-Tipicni primeri za iskljucenje (zavisi od ni�e):
+Tipicni primeri za iskljucenje (zavisi od niï¿½e):
 - "besplatno",
 - "posao" / "zaposlenje",
 - edukativni termini koji ne vode ka kupovini,
 - gradovi koje ne pokrivate.
 
-Ova jedna disciplina cesto spu�ta CPL vi�e nego bilo koja kreativna izmena.
+Ova jedna disciplina cesto spuï¿½ta CPL viï¿½e nego bilo koja kreativna izmena.
 
 ## 5) Merite kvalitet lead-a, ne samo cenu klika
 
-Jeftin klik nije uspeh ako prodaja ne mo�e da zatvori posao.
+Jeftin klik nije uspeh ako prodaja ne moï¿½e da zatvori posao.
 Minimum metrike koji treba da pratite:
 
 - cenu po upitu,
@@ -2983,62 +3210,62 @@ Minimum metrike koji treba da pratite:
 - cenu po kvalifikovanom upitu,
 - procenat zatvorenih poslova.
 
-Kada marketin�ki i prodajni tim gledaju iste brojke, optimizacija postaje realna, a ne "osecajna".
+Kada marketinï¿½ki i prodajni tim gledaju iste brojke, optimizacija postaje realna, a ne "osecajna".
 
 ## Brzi plan za narednih 14 dana
 
 - **Dan 1-2:** ocistite keyword listu i dodajte negativne reci.
 - **Dan 3-5:** razdvojite high-intent i mid-intent ad grupe.
-- **Dan 6-8:** osve�ite landing sa jasnijim CTA i dokazima.
-- **Dan 9-11:** pove�ite CRM statuse sa lead izvorima.
-- **Dan 12-14:** prebacite bud�et na segmente sa boljim kvalitetom upita.
+- **Dan 6-8:** osveï¿½ite landing sa jasnijim CTA i dokazima.
+- **Dan 9-11:** poveï¿½ite CRM statuse sa lead izvorima.
+- **Dan 12-14:** prebacite budï¿½et na segmente sa boljim kvalitetom upita.
 
-Za poredenje celog marketing bud�eta po kanalima, pogledajte i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Za poredenje celog marketing budï¿½eta po kanalima, pogledajte i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
 ## Zakljucak
 
-Cena leada u lokalnom Google Ads-u najce�ce se spu�ta kroz strukturu i disciplinu, ne kroz "tajni trik".
-Ako �elite, mo�emo uraditi brz audit va�ih kampanja i oznaciti 3 izmene koje najbr�e uticu na rezultat � javite se preko [kontakt forme](/kontakt).
+Cena leada u lokalnom Google Ads-u najceï¿½ce se spuï¿½ta kroz strukturu i disciplinu, ne kroz "tajni trik".
+Ako ï¿½elite, moï¿½emo uraditi brz audit vaï¿½ih kampanja i oznaciti 3 izmene koje najbrï¿½e uticu na rezultat ï¿½ javite se preko [kontakt forme](/kontakt).
 `,
   },
   {
     slug: 'alex-hormozi-value-equation-ponuda-koja-prodaje-srbija-2026',
-    title: 'Alex Hormozi Value Equation: kako da ponuda bude skuplja i lak�a za prodaju (Srbija 2026)',
-    excerpt: 'Praktican vodic kako da primeni� Hormozi value equation na uslu�ni biznis u Srbiji i podigne� cenu bez pada konverzije.',
+    title: 'Alex Hormozi Value Equation: kako da ponuda bude skuplja i lakï¿½a za prodaju (Srbija 2026)',
+    excerpt: 'Praktican vodic kako da primeniï¿½ Hormozi value equation na usluï¿½ni biznis u Srbiji i podigneï¿½ cenu bez pada konverzije.',
     date: '2026-03-10',
     category: 'Prodaja',
     readTime: '10 min',
     content: `
-## Za�to vecina firmi u Srbiji gubi mar�u i kad ima upite
+## Zaï¿½to vecina firmi u Srbiji gubi marï¿½u i kad ima upite
 
-Najveci problem nije "nema lead-ova" nego to �to je ponuda slaba pa se posao zatvara na spu�tanje cene.
-Dobije� upit, razgovor krene dobro, i onda sve stane na pitanju: "Mo�e li jeftinije?"
+Najveci problem nije "nema lead-ova" nego to ï¿½to je ponuda slaba pa se posao zatvara na spuï¿½tanje cene.
+Dobijeï¿½ upit, razgovor krene dobro, i onda sve stane na pitanju: "Moï¿½e li jeftinije?"
 
-Tu ne puca prodaja zbog tr�i�ta � puca zbog konstrukcije ponude.
+Tu ne puca prodaja zbog trï¿½iï¿½ta ï¿½ puca zbog konstrukcije ponude.
 Ako ponuda ne nosi dovoljno percipirane vrednosti, kupac je automatski poredi sa najjeftinijom opcijom.
 
-## �ta je Alex Hormozi Value Equation (bez komplikovanja)
+## ï¿½ta je Alex Hormozi Value Equation (bez komplikovanja)
 
 Hormozi framework je jednostavan:
 
-**Vrednost = (Dream Outcome � Perceived Likelihood of Success) / (Time Delay � Effort & Sacrifice)**
+**Vrednost = (Dream Outcome ï¿½ Perceived Likelihood of Success) / (Time Delay ï¿½ Effort & Sacrifice)**
 
-Drugim recima, lak�e prodaje� i po vi�oj ceni kada kupac veruje da:
+Drugim recima, lakï¿½e prodajeï¿½ i po viï¿½oj ceni kada kupac veruje da:
 
-- mo�e da dobije veliki rezultat,
-- realno ce ga dobiti ba� kod tebe,
+- moï¿½e da dobije veliki rezultat,
+- realno ce ga dobiti baï¿½ kod tebe,
 - nece cekati predugo,
 - i nece morati da prolazi kroz haos da bi uspeo.
 
-Ako �eli� da vidi� kako to izgleda na nivou bud�eta i realizacije, korisno je da prvo pogleda� i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Ako ï¿½eliï¿½ da vidiï¿½ kako to izgleda na nivou budï¿½eta i realizacije, korisno je da prvo pogledaï¿½ i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
 ## 1) Dream Outcome: ne prodaj uslugu, prodaj ishod
 
 "Vodimo oglase" nije ishod.
 "Dovodimo 25 kvalifikovanih upita mesecno" jeste ishod.
 
-U srpskom B2B i lokalnom tr�i�tu ponude cesto zvuce tehnicki, ali ne i komercijalno.
-Kupac ne �eli da kupi kampanju � �eli predvidljiv priliv posla.
+U srpskom B2B i lokalnom trï¿½iï¿½tu ponude cesto zvuce tehnicki, ali ne i komercijalno.
+Kupac ne ï¿½eli da kupi kampanju ï¿½ ï¿½eli predvidljiv priliv posla.
 
 Umesto:
 - "Google Ads setup + optimizacija"
@@ -3046,7 +3273,7 @@ Umesto:
 Koristi:
 - "Sistem za stabilan priliv kvalifikovanih upita kroz Google Ads u narednih 90 dana"
 
-Za benchmark tro�ka akvizicije i realne raspone CPC/CPL metrika pogledaj i [Google reklame cena](/google-reklame-cena).
+Za benchmark troï¿½ka akvizicije i realne raspone CPC/CPL metrika pogledaj i [Google reklame cena](/google-reklame-cena).
 
 ## 2) Perceived Likelihood: poverenje je valuta koja zatvara prodaju
 
@@ -3056,89 +3283,89 @@ Zato su kljucni elementi ponude:
 - jasan proces rada po fazama,
 - primeri prethodnih rezultata (bez naduvavanja),
 - definisani KPI-jevi,
-- transparentan ritam izve�tavanja,
+- transparentan ritam izveï¿½tavanja,
 - i ownership nad nalozima i podacima.
 
-Ako to nije jasno, kupac ne vidi razliku izmedu tebe i "jo� jedne agencije".
+Ako to nije jasno, kupac ne vidi razliku izmedu tebe i "joï¿½ jedne agencije".
 
 ## 3) Time Delay: skrati vreme do prvog merljivog dobitka
 
 Kad kupac cuje "rezultati za 6 meseci", otpor raste.
-Ne zato �to je nestrpljiv, nego zato �to mu je cashflow realan problem.
+Ne zato ï¿½to je nestrpljiv, nego zato ï¿½to mu je cashflow realan problem.
 
 Zato ponuda treba da ima:
 
 - **brzi win u prvih 14-30 dana** (npr. tracking cleanup + lead quality filter),
 - **srednji cilj u 60 dana** (stabilizacija CPL-a),
-- **du�i cilj u 90+ dana** (skaliranje profitabilnog kanala).
+- **duï¿½i cilj u 90+ dana** (skaliranje profitabilnog kanala).
 
-Kada vremenski horizont izgleda kontrolisano, zatvaranje ide lak�e i bez cenkanja.
+Kada vremenski horizont izgleda kontrolisano, zatvaranje ide lakï¿½e i bez cenkanja.
 
 ## 4) Effort & Sacrifice: ukloni trenje za klijenta
 
 Mnoge ponude su tehnicki dobre, ali operativno naporne za klijenta.
-Ako klijent mora da lovi tim, skuplja fajlove, pi�e copy i gasi po�are � percipirana vrednost pada.
+Ako klijent mora da lovi tim, skuplja fajlove, piï¿½e copy i gasi poï¿½are ï¿½ percipirana vrednost pada.
 
 Dobitna ponuda minimizuje napor kupca:
 
-- checkliste i onboarding �abloni,
+- checkliste i onboarding ï¿½abloni,
 - unapred definisan kanal komunikacije,
-- jasna lista �ta treba od klijenta i do kada,
+- jasna lista ï¿½ta treba od klijenta i do kada,
 - "done-for-you" elementi gde je moguce.
 
-Kad je put do rezultata lak�i, cena prestaje da bude glavna prepreka.
+Kad je put do rezultata lakï¿½i, cena prestaje da bude glavna prepreka.
 
-## Kako da primeni� framework na svoju ponudu za 60 minuta
+## Kako da primeniï¿½ framework na svoju ponudu za 60 minuta
 
-Evo brzog plana koji mo�e� da uradi� odmah:
+Evo brzog plana koji moï¿½eï¿½ da uradiï¿½ odmah:
 
-### Korak 1: Prepi�i headline ponude u ishod
-Umesto tehnicke usluge, napi�i merljiv business rezultat.
+### Korak 1: Prepiï¿½i headline ponude u ishod
+Umesto tehnicke usluge, napiï¿½i merljiv business rezultat.
 
 ### Korak 2: Dodaj dokaz verovatnoce
 Ugradi 2-3 konkretna dokaza: mini case, brojke, proces, odgovornost.
 
 ### Korak 3: Podeli realizaciju po vremenskim fazama
-Defini�i �ta klijent dobija u 14, 30 i 90 dana.
+Definiï¿½i ï¿½ta klijent dobija u 14, 30 i 90 dana.
 
 ### Korak 4: Smanji napor klijenta
-U onboarding ubaci sve �to skida trenje: �ablone, brief formu, jasne rokove, ownership mapu.
+U onboarding ubaci sve ï¿½to skida trenje: ï¿½ablone, brief formu, jasne rokove, ownership mapu.
 
 ### Korak 5: Uskladi cenu sa modelom naplate
-Ako dvoumi� oko strukture ugovora, uporedi i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share).
+Ako dvoumiï¿½ oko strukture ugovora, uporedi i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share).
 
-## Primer iz prakse (lokalni uslu�ni biznis)
+## Primer iz prakse (lokalni usluï¿½ni biznis)
 
 Pocetna ponuda:
-- "Vodenje oglasa 350� mesecno"
+- "Vodenje oglasa 350ï¿½ mesecno"
 
 Reframed ponuda po value equation logici:
 - "Cilj nam je 18-30 kvalifikovanih upita mesecno kroz Google + Meta, sa jasnim planom testiranja i optimizacije u prvih 90 dana."
 - "U prvih 14 dana sredujemo tracking i lead scoring da ne placate nerelevantne upite."
-- "Vi dobijate gotov sistem izve�tavanja i nedeljni prioritetni plan."
+- "Vi dobijate gotov sistem izveï¿½tavanja i nedeljni prioritetni plan."
 
-U vecini slucajeva ova promena podigne close rate vi�e nego bilo kakav "popust".
+U vecini slucajeva ova promena podigne close rate viï¿½e nego bilo kakav "popust".
 
-## Gde firme najce�ce pogre�e
+## Gde firme najceï¿½ce pogreï¿½e
 
-Najce�ce gre�ke su:
+Najceï¿½ce greï¿½ke su:
 
 - prodaju aktivnost umesto rezultata,
 - obecaju "rast" bez vremenskog okvira,
-- ne objasne �ta je ukljuceno a �ta nije,
-- i ostave klijentu previ�e operativnog posla.
+- ne objasne ï¿½ta je ukljuceno a ï¿½ta nije,
+- i ostave klijentu previï¿½e operativnog posla.
 
-Ako �eli� da ponudu ve�e� i za kvalitet destinacije posle klika, pogledaj i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+Ako ï¿½eliï¿½ da ponudu veï¿½eï¿½ i za kvalitet destinacije posle klika, pogledaj i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
 
 ## Zakljucak
 
-Hormozi value equation nije trik za copywriting � to je okvir da ponuda bude jasnija, vrednija i lak�a za kupovinu.
-Ako �eli�, mo�emo da rastavimo tvoju trenutnu ponudu i slo�imo novu verziju po ovom modelu za tvoju ni�u. Javi se preko [kontakt forme](/kontakt).
+Hormozi value equation nije trik za copywriting ï¿½ to je okvir da ponuda bude jasnija, vrednija i lakï¿½a za kupovinu.
+Ako ï¿½eliï¿½, moï¿½emo da rastavimo tvoju trenutnu ponudu i sloï¿½imo novu verziju po ovom modelu za tvoju niï¿½u. Javi se preko [kontakt forme](/kontakt).
 `,
   },
   {
     slug: 'google-ads-cena-po-kliku-srbija-2026',
-    title: 'Google Ads cena po kliku u Srbiji 2026: realni CPC rasponi po ni�i i intentu',
+    title: 'Google Ads cena po kliku u Srbiji 2026: realni CPC rasponi po niï¿½i i intentu',
     excerpt: 'Koliko Google Ads klik realno kosta u Srbiji 2026, zasto isti upit ne placa isto svaka firma i kako da procenis da li ti je CPC zdrav ili samo deluje jeftino.',
     date: '2026-03-11',
     category: 'Google Ads',
@@ -3154,7 +3381,7 @@ To je razlog zbog kog dve firme iz iste industrije cesto ne placaju isti klik. J
 
 Za siru sliku ukupnog ulaganja, ne samo cene klika, pogledajte i [Google reklame cena](/google-reklame-cena).
 
-## Realni CPC rasponi po ni�ama (Search kampanje, Srbija)
+## Realni CPC rasponi po niï¿½ama (Search kampanje, Srbija)
 
 Evo raspona koji najcesce imaju smisla kao pocetna orijentacija za Search u Srbiji:
 
@@ -3169,64 +3396,64 @@ Ovo nisu garancije i ne treba ih tako citati. Korisne su kao orijentir da znate 
 
 Najveca greska je kada neko planira kampanju po tudjem proseku. Budzet ima smisla tek kada ga vezete za svoju nishu, svoj grad i kvalitet lead-a koji vam je potreban.
 
-## Za�to isti biznis u dva grada cesto placa razlicit CPC
+## Zaï¿½to isti biznis u dva grada cesto placa razlicit CPC
 
-Isti tip usluge mo�e imati primetno drugaciji CPC izmedu Beograda, Novog Sada i manjih gradova.
+Isti tip usluge moï¿½e imati primetno drugaciji CPC izmedu Beograda, Novog Sada i manjih gradova.
 Razlog nije samo konkurencija, vec i:
 
-- gustina ogla�ivaca po terminu,
+- gustina oglaï¿½ivaca po terminu,
 - kvalitet aukcije kroz istoriju naloga,
 - odnos mobilnog i desktop saobracaja,
-- �hitnost� upita (npr. kvar/servis odmah),
+- ï¿½hitnostï¿½ upita (npr. kvar/servis odmah),
 - kvalitet landing stranice za konkretan upit.
 
 Ako landing ne prati obecanje iz oglasa, Quality Score pada, a klik postaje skuplji.
 
-## Intent menja cenu vi�e nego �to vecina ocekuje
+## Intent menja cenu viï¿½e nego ï¿½to vecina ocekuje
 
 Kljucna rec nije dovoljna; bitna je namera korisnika:
 
-- **Informativni intent** (��ta je?�, �kako radi?�) uglavnom nosi ni�i CPC, ali slabiji komercijalni signal.
-- **Komercijalni intent** (�cena?�, �ponuda?�, �agencija?�) cesto ima vi�i CPC i bolji potencijal za lead.
-- **Transakcioni intent** (�zaka�i?�, �kupi?�, �kontakt?�) je cesto najskuplji, ali i najvredniji.
+- **Informativni intent** (ï¿½ï¿½ta je?ï¿½, ï¿½kako radi?ï¿½) uglavnom nosi niï¿½i CPC, ali slabiji komercijalni signal.
+- **Komercijalni intent** (ï¿½cena?ï¿½, ï¿½ponuda?ï¿½, ï¿½agencija?ï¿½) cesto ima viï¿½i CPC i bolji potencijal za lead.
+- **Transakcioni intent** (ï¿½zakaï¿½i?ï¿½, ï¿½kupi?ï¿½, ï¿½kontakt?ï¿½) je cesto najskuplji, ali i najvredniji.
 
-Zato je zdravije optimizovati ka **CPL-u i kvalitetu lead-a**, ne ka �najjeftinijem kliku�.
+Zato je zdravije optimizovati ka **CPL-u i kvalitetu lead-a**, ne ka ï¿½najjeftinijem klikuï¿½.
 
-## Koliki bud�et vam realno treba za test fazu
+## Koliki budï¿½et vam realno treba za test fazu
 
 Praktican model za start:
 
-1. Defini�ite ciljnu ni�u i ocekivani CPC raspon.
+1. Definiï¿½ite ciljnu niï¿½u i ocekivani CPC raspon.
 2. Planirajte minimum **250-400 klikova mesecno** da imate smislen uzorak.
-3. Dodajte bud�et za upravljanje i tracking setup.
+3. Dodajte budï¿½et za upravljanje i tracking setup.
 
 Primer:
-Ako je va� prosecan CPC oko 0,85e, test bud�et za mediju je okvirno **212e-340e**.
-Ako �elite br�e ucenje, sa vi�e oglasa i vi�e ad grupa, bud�et raste proporcionalno.
+Ako je vaï¿½ prosecan CPC oko 0,85e, test budï¿½et za mediju je okvirno **212e-340e**.
+Ako ï¿½elite brï¿½e ucenje, sa viï¿½e oglasa i viï¿½e ad grupa, budï¿½et raste proporcionalno.
 
-Ovo je deo gde firme najce�ce pogre�e. Vide broj od 0,85e po kliku i zakljuce da je kanal "jeftin". Ali klik sam po sebi ne govori dovoljno. Ako vam treba 300 klikova da dobijete dovoljno podataka za prvu ozbiljnu optimizaciju, onda cena klika odmah mora da se prevede u realan mese�ni test bud�et. Tek tada vidite da li je plan stvarno odr�iv ili samo lepo zvu�i u teoriji.
+Ovo je deo gde firme najceï¿½ce pogreï¿½e. Vide broj od 0,85e po kliku i zakljuce da je kanal "jeftin". Ali klik sam po sebi ne govori dovoljno. Ako vam treba 300 klikova da dobijete dovoljno podataka za prvu ozbiljnu optimizaciju, onda cena klika odmah mora da se prevede u realan meseï¿½ni test budï¿½et. Tek tada vidite da li je plan stvarno odrï¿½iv ili samo lepo zvuï¿½i u teoriji.
 
 Za poredenje sa drugim kanalima, pogledajte i [Instagram reklame cena](/instagram-reklame-cena) i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-## Najce�ci razlozi zbog kojih CPC �be�i� navi�e
+## Najceï¿½ci razlozi zbog kojih CPC ï¿½beï¿½iï¿½ naviï¿½e
 
-U praksi, rast CPC-a najce�ce dolazi iz kombinacije sledecih problema:
+U praksi, rast CPC-a najceï¿½ce dolazi iz kombinacije sledecih problema:
 
-- pre�irok keyword set bez discipline negativnih reci,
+- preï¿½irok keyword set bez discipline negativnih reci,
 - slabi oglasi sa niskim CTR-om,
 - ad grupe bez jasnog tematskog fokusa,
 - landing stranica koja ne odgovara pretrazi 1:1,
-- retka optimizacija search terms izve�taja,
-- previ�e oslanjanja na automatiku bez kontrole kvaliteta lead-a.
+- retka optimizacija search terms izveï¿½taja,
+- previï¿½e oslanjanja na automatiku bez kontrole kvaliteta lead-a.
 
-Ako vam landing stranica nije spremna za paid traffic, prvo re�ite temelj kroz [izradu landing stranice: cena, rokovi, �ta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
+Ako vam landing stranica nije spremna za paid traffic, prvo reï¿½ite temelj kroz [izradu landing stranice: cena, rokovi, ï¿½ta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
 
 ## Kako da spustite CPC bez pada kvaliteta lead-ova
 
 Najbolji rezultati obicno dolaze iz ovih koraka:
 
 1. **Segmentacija kampanja po intentu** (brand / usluga / problem / lokacija).
-2. **Nedeljno ci�cenje search terms-a** + dosledna negativna lista.
+2. **Nedeljno ciï¿½cenje search terms-a** + dosledna negativna lista.
 3. **A/B test oglasa** sa jasnim value proposition porukama.
 4. **Landing poruka 1:1** sa tacnim query-jem iz oglasa.
 5. **Kontrola brzine i UX-a stranice** radi boljeg Quality Score-a.
@@ -3237,96 +3464,96 @@ Ako treba da uskladite sajt i oglase kao sistem, korisno je i [izrada WordPress 
 ## Mini plan za 30 dana (za stabilan start)
 
 - **Nedelja 1:** setup strukture, inicijalni keyword klasteri, 2-3 oglasa po ad grupi
-- **Nedelja 2:** analiza search terms-a, negativne liste, ga�enje ociglednog otpada
+- **Nedelja 2:** analiza search terms-a, negativne liste, gaï¿½enje ociglednog otpada
 - **Nedelja 3:** dorada oglasa i landing sekcija sa slabim CR-om
-- **Nedelja 4:** preraspodela bud�eta na ad grupe sa najboljim CPL trendom
+- **Nedelja 4:** preraspodela budï¿½eta na ad grupe sa najboljim CPL trendom
 
-Na kraju meseca pravo pitanje nije �koliko je klik?�, vec **�koliko ko�ta kvalifikovan lead koji mo�e da se zatvori?�**.
+Na kraju meseca pravo pitanje nije ï¿½koliko je klik?ï¿½, vec **ï¿½koliko koï¿½ta kvalifikovan lead koji moï¿½e da se zatvori?ï¿½**.
 
 ## Zakljucak
 
-Ako iz ovog teksta treba da zapamtite samo jednu stvar, neka bude ova: nizak CPC nije automatski dobra vest, kao �to ni vi�i CPC nije automatski problem.
+Ako iz ovog teksta treba da zapamtite samo jednu stvar, neka bude ova: nizak CPC nije automatski dobra vest, kao ï¿½to ni viï¿½i CPC nije automatski problem.
 
-Pravo pitanje je da li vas taj klik dovodi do kvalitetnog upita i da li bud�et iza njega ima smisla za va�u ni�u. Nekad je klik od 1,20e skuplji samo na papiru, a zapravo je vredniji od tri "jeftina" klika koji ne donesu ni poziv ni poruku.
+Pravo pitanje je da li vas taj klik dovodi do kvalitetnog upita i da li budï¿½et iza njega ima smisla za vaï¿½u niï¿½u. Nekad je klik od 1,20e skuplji samo na papiru, a zapravo je vredniji od tri "jeftina" klika koji ne donesu ni poziv ni poruku.
 
-Zato Google Ads cenu po kliku uvek gledajte zajedno sa intentom, landing stranicom i kvalitetom lead-a. Tek tada brojka stvarno ima zna�enje.
+Zato Google Ads cenu po kliku uvek gledajte zajedno sa intentom, landing stranicom i kvalitetom lead-a. Tek tada brojka stvarno ima znaï¿½enje.
 
-Ako �elite preciznu procenu za va� slucaj (CPC raspon + test bud�et + plan optimizacije), [javite nam se](/kontakt) i dobicete konkretan plan po fazama.
+Ako ï¿½elite preciznu procenu za vaï¿½ slucaj (CPC raspon + test budï¿½et + plan optimizacije), [javite nam se](/kontakt) i dobicete konkretan plan po fazama.
 `,
   },
   {
     slug: 'vodjenje-google-ads-kampanja-cena-srbija-2026',
-    title: 'Vodenje Google Ads kampanja: cena u Srbiji 2026 (�ta ulazi u uslugu)',
-    excerpt: 'Koliko ko�ta vodenje Google Ads kampanja u Srbiji 2026, �ta ulazi u mesecni fee i kako da procenite da li je ponuda agencije realna ili preskupa.',
+    title: 'Vodenje Google Ads kampanja: cena u Srbiji 2026 (ï¿½ta ulazi u uslugu)',
+    excerpt: 'Koliko koï¿½ta vodenje Google Ads kampanja u Srbiji 2026, ï¿½ta ulazi u mesecni fee i kako da procenite da li je ponuda agencije realna ili preskupa.',
     date: '2026-03-10',
     category: 'Google Ads',
     readTime: '8 min',
     content: `
 ## Kratak odgovor: ne placate "klikove", nego sistem koji pravi profit
 
-Kad neko ka�e da je vodenje Google Ads kampanja 150�, 400� ili 1.000� mesecno, to samo po sebi ne znaci ni�ta.
-Cena je realna tek kada znate �ta konkretno ulazi u taj fee i kakav rezultat taj rad treba da proizvede.
+Kad neko kaï¿½e da je vodenje Google Ads kampanja 150ï¿½, 400ï¿½ ili 1.000ï¿½ mesecno, to samo po sebi ne znaci niï¿½ta.
+Cena je realna tek kada znate ï¿½ta konkretno ulazi u taj fee i kakav rezultat taj rad treba da proizvede.
 
-Ako prvo �elite �iru sliku o medijskom bud�etu i ceni klika, pogledajte i [Google reklame cena](/google-reklame-cena).
+Ako prvo ï¿½elite ï¿½iru sliku o medijskom budï¿½etu i ceni klika, pogledajte i [Google reklame cena](/google-reklame-cena).
 
 ## Realni rasponi cena vodenja u Srbiji (2026)
 
-U praksi, najce�ci modeli izgledaju ovako:
+U praksi, najceï¿½ci modeli izgledaju ovako:
 
-- **Mikro nalozi (do ~700� ad budget): 150�300� / mesec**
-- **Standard nalozi (700�2.000� bud�et): 300�700� / mesec**
-- **Napredni nalozi (2.000�+): 700�+ / mesec ili procenat od bud�eta**
+- **Mikro nalozi (do ~700ï¿½ ad budget): 150ï¿½300ï¿½ / mesec**
+- **Standard nalozi (700ï¿½2.000ï¿½ budï¿½et): 300ï¿½700ï¿½ / mesec**
+- **Napredni nalozi (2.000ï¿½+): 700ï¿½+ / mesec ili procenat od budï¿½eta**
 
-Nizak fee mo�e biti sasvim korektan za jednostavan nalog sa malim brojem kampanja.
-Problem nastaje kada se obeca ozbiljna optimizacija, a u realnosti dobijete samo "odr�avanje" bez testiranja, bez analize i bez jasnog plana rasta.
+Nizak fee moï¿½e biti sasvim korektan za jednostavan nalog sa malim brojem kampanja.
+Problem nastaje kada se obeca ozbiljna optimizacija, a u realnosti dobijete samo "odrï¿½avanje" bez testiranja, bez analize i bez jasnog plana rasta.
 
-## �ta mora da ulazi u kvalitetno vodenje Google Ads kampanja
+## ï¿½ta mora da ulazi u kvalitetno vodenje Google Ads kampanja
 
 Ako placate upravljanje, minimalni standard treba da ukljucuje:
 
-- istra�ivanje kljucnih reci i mapiranje po intentu,
+- istraï¿½ivanje kljucnih reci i mapiranje po intentu,
 - strukturu kampanja i ad grupa po uslugama/proizvodima,
 - copy testiranje oglasa i ekstenzija,
 - redovan rad na negativnim kljucnim recima,
-- kontrolu search terms izve�taja,
+- kontrolu search terms izveï¿½taja,
 - optimizaciju bid strategije po kvalitetu lead-a,
 - proveru i korekcije konverzionog trackinga,
-- mesecni izve�taj sa jasnim KPI zakljuccima i sledecim koracima.
+- mesecni izveï¿½taj sa jasnim KPI zakljuccima i sledecim koracima.
 
-Ako od ovoga dobijate samo jedan PDF sa brojem klikova, ne placate vodenje � placate administraciju.
+Ako od ovoga dobijate samo jedan PDF sa brojem klikova, ne placate vodenje ï¿½ placate administraciju.
 
-## Modeli naplate: fiksna cena ili procenat bud�eta
+## Modeli naplate: fiksna cena ili procenat budï¿½eta
 
-Najce�ce cete videti dve opcije:
+Najceï¿½ce cete videti dve opcije:
 
 1. **Fiksna mesecna naknada** (predvidljiva, dobra za planiranje)
-2. **Procenat od ad bud�eta** (ce�ce kod vecih naloga)
+2. **Procenat od ad budï¿½eta** (ceï¿½ce kod vecih naloga)
 
-Fiksna cena je prakticna kada �elite stabilan tro�ak i jasna ocekivanja.
-Procenat mo�e imati smisla kod skaliranja, ali samo ako postoji dogovor �ta tacno raste zajedno sa bud�etom (broj kampanja, broj testova, reporting dubina, CRO input).
+Fiksna cena je prakticna kada ï¿½elite stabilan troï¿½ak i jasna ocekivanja.
+Procenat moï¿½e imati smisla kod skaliranja, ali samo ako postoji dogovor ï¿½ta tacno raste zajedno sa budï¿½etom (broj kampanja, broj testova, reporting dubina, CRO input).
 
 Ako razmatrate model naplate, korisno je i poredenje [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share).
 
-## 5 crvenih zastavica da je ponuda za vodenje lo�a
+## 5 crvenih zastavica da je ponuda za vodenje loï¿½a
 
-### 1) Nema vlasni�tva nad nalogom
+### 1) Nema vlasniï¿½tva nad nalogom
 Ako agencija radi preko svog naloga i ne daje vam pun pristup, rizik je visok.
-Va� biznis mora da bude vlasnik podataka, historije i konverzija.
+Vaï¿½ biznis mora da bude vlasnik podataka, historije i konverzija.
 
 ### 2) Nema plana testiranja
 Bez eksperiment plana, kampanja stagnira.
-Dobar partner unapred ka�e �ta ce testirati narednih 30 dana.
+Dobar partner unapred kaï¿½e ï¿½ta ce testirati narednih 30 dana.
 
 ### 3) Fokus iskljucivo na CPC
 Jeftin klik nije cilj.
 Cilj je profitabilan lead ili prodaja.
 
 ### 4) Nema uvida u search terms
-Ako se ne radi negativna lista i ci�cenje upita, tro�ak gotovo sigurno curi.
+Ako se ne radi negativna lista i ciï¿½cenje upita, troï¿½ak gotovo sigurno curi.
 
-### 5) Izve�taji bez preporuka
+### 5) Izveï¿½taji bez preporuka
 Brojke bez zakljucka nisu strategija.
-Dobar izve�taj mora da odgovori na pitanje: "�ta menjamo sledece nedelje i za�to?"
+Dobar izveï¿½taj mora da odgovori na pitanje: "ï¿½ta menjamo sledece nedelje i zaï¿½to?"
 
 ## Kako da procenite da li je cena vodenja opravdana
 
@@ -3337,29 +3564,29 @@ Postavite tri jednostavna pitanja:
 - Da li postoji jasan backlog eksperimenata i iteracija?
 
 Ako su odgovori "da", i fee je verovatno zdrav.
-Ako ne znate odgovore, problem nije nu�no u ceni � problem je u transparentnosti rada.
+Ako ne znate odgovore, problem nije nuï¿½no u ceni ï¿½ problem je u transparentnosti rada.
 
-Za �iri kontekst marketin�kih tro�kova, pogledajte i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Za ï¿½iri kontekst marketinï¿½kih troï¿½kova, pogledajte i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-## Primer jednostavne racunice (da izbegnete pogre�an fokus)
+## Primer jednostavne racunice (da izbegnete pogreï¿½an fokus)
 
-Recimo da je vodenje 450� mesecno.
+Recimo da je vodenje 450ï¿½ mesecno.
 Na prvi pogled deluje skupo.
 
-Ali ako optimizacija smanji cenu kvalifikovanog leada sa 35� na 24�, i mesecno dobijete 20 lead-ova vi�e sa istim bud�etom, fee se vrlo brzo isplati.
+Ali ako optimizacija smanji cenu kvalifikovanog leada sa 35ï¿½ na 24ï¿½, i mesecno dobijete 20 lead-ova viï¿½e sa istim budï¿½etom, fee se vrlo brzo isplati.
 
 Drugim recima: bolji sistem akvizicije skoro uvek pobedi "jeftiniju" uslugu koja ne pomera rezultat.
 
 ## Zakljucak
 
-Cena vodenja Google Ads kampanja u Srbiji 2026 nije "koliko ko�ta agencija", nego koliko vrednosti dobijate iz procesa koji vodi do boljih lead-ova i stabilnijeg profita.
+Cena vodenja Google Ads kampanja u Srbiji 2026 nije "koliko koï¿½ta agencija", nego koliko vrednosti dobijate iz procesa koji vodi do boljih lead-ova i stabilnijeg profita.
 
-Ako �elite realnu procenu za va� nalog (bud�et + upravljanje + ocekivanja po ni�i), [javite nam se](/kontakt) i dobicete konkretan plan bez generickih obecanja.
+Ako ï¿½elite realnu procenu za vaï¿½ nalog (budï¿½et + upravljanje + ocekivanja po niï¿½i), [javite nam se](/kontakt) i dobicete konkretan plan bez generickih obecanja.
 `,
   },
   {
     slug: 'izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu',
-    title: 'Izrada landing stranice: cena, rokovi, �ta ulazi u cenu (Srbija 2026)',
+    title: 'Izrada landing stranice: cena, rokovi, ï¿½ta ulazi u cenu (Srbija 2026)',
     excerpt: 'Koliko realno kosta landing stranica u Srbiji 2026, sta ulazi u cenu, gde firme najcesce pogrese i kako da procenis da li je ponuda zdrava ili samo izgleda jeftino.',
     date: '2026-03-11',
     category: 'Web Design',
@@ -3385,9 +3612,9 @@ Najprirodnije je da landing stranicu gledate kroz tri realna nivoa, jer tako mno
 
 Ako neka ponuda deluje predobro da bi bila istinita, najcesce je problem u onome sto nije napisano. Obicno fale poruka, merenje, revizije ili ozbiljna mobilna optimizacija. To se ne vidi odmah na PDF ponudi, ali se vrlo brzo vidi kada krenu klikovi i leadovi.
 
-## �ta tacno ulazi u cenu (i �ta se cesto placa posebno)
+## ï¿½ta tacno ulazi u cenu (i ï¿½ta se cesto placa posebno)
 
-U ozbiljnoj ponudi najce�ce dobijate:
+U ozbiljnoj ponudi najceï¿½ce dobijate:
 
 - brief i ciljnu strukturu stranice,
 - copy za hero, benefite, dokazne sekcije i CTA,
@@ -3397,67 +3624,67 @@ U ozbiljnoj ponudi najce�ce dobijate:
 - osnovni analytics setup (lead event + zahvalnica ili event-based cilj),
 - QA (mobilni prikaz, brzina, forma, osnovni UX flow).
 
-Najce�ci dodatni tro�kovi:
+Najceï¿½ci dodatni troï¿½kovi:
 
 - custom ilustracije/video produkcija,
-- vi�e verzija stranice za razlicite ICP segmente,
+- viï¿½e verzija stranice za razlicite ICP segmente,
 - CRM integracije i automatizacije,
 - kontinuirana CRO optimizacija posle launch-a.
 
-Za bud�et po kanalima pre lansiranja, korisno je uporediti i [Google reklame cena](/google-reklame-cena) i [Instagram reklame cena](/instagram-reklame-cena).
+Za budï¿½et po kanalima pre lansiranja, korisno je uporediti i [Google reklame cena](/google-reklame-cena) i [Instagram reklame cena](/instagram-reklame-cena).
 
 ## Rokovi: koliko traje kvalitetna landing stranica
 
-Tipican rok je **6�15 radnih dana**, uz normalan feedback ciklus.
+Tipican rok je **6ï¿½15 radnih dana**, uz normalan feedback ciklus.
 
 Primer realnog timeline-a:
 
-1. **Dan 1�2:** discovery + ponuda + KPI cilj
-2. **Dan 2�4:** wireframe + struktura poruke
-3. **Dan 4�8:** copy + dizajn + development
-4. **Dan 8�11:** QA, form testing, speed pass
-5. **Dan 11�15:** launch + tracking verifikacija + pocetni monitoring
+1. **Dan 1ï¿½2:** discovery + ponuda + KPI cilj
+2. **Dan 2ï¿½4:** wireframe + struktura poruke
+3. **Dan 4ï¿½8:** copy + dizajn + development
+4. **Dan 8ï¿½11:** QA, form testing, speed pass
+5. **Dan 11ï¿½15:** launch + tracking verifikacija + pocetni monitoring
 
-Najce�ce ka�njenje ne nastaje u kodu, vec u nejasnom brief-u i sporom odobrenju sadr�aja.
+Najceï¿½ce kaï¿½njenje ne nastaje u kodu, vec u nejasnom brief-u i sporom odobrenju sadrï¿½aja.
 
-## Kako da procenite da li je ponuda realna ili �jeftina zamka�
+## Kako da procenite da li je ponuda realna ili ï¿½jeftina zamkaï¿½
 
 Pre potpisa, pitajte sledece:
 
 - Da li je ukljuceno merenje konverzija, ne samo dizajn?
-- Ko pi�e copy i da li je vezan za kanal akvizicije?
+- Ko piï¿½e copy i da li je vezan za kanal akvizicije?
 - Da li postoji jasan CTA tok (jedna primarna akcija)?
 - Da li ponuda pokriva mobile UX i brzinu?
-- �ta je tacno scope revizija (koliko rundi i �ta ulazi)?
+- ï¿½ta je tacno scope revizija (koliko rundi i ï¿½ta ulazi)?
 
-Ako na ova pitanja dobijete nejasne odgovore, verovatno kupujete �stranicu kao fajl�, a ne alat za akviziciju.
+Ako na ova pitanja dobijete nejasne odgovore, verovatno kupujete ï¿½stranicu kao fajlï¿½, a ne alat za akviziciju.
 
 ## Cena landing stranice bez CPC i lead kvaliteta je nepotpuna
 
 Landing ne treba posmatrati izolovano od medija.
-Ako je Google Ads klik skup, svaka gre�ka na landing-u je dodatni tro�ak.
+Ako je Google Ads klik skup, svaka greï¿½ka na landing-u je dodatni troï¿½ak.
 
 Zato pre finalnog launch-a proverite:
 
 - uskladenost headline-a sa kljucnim upitom,
 - jasan dokaz poverenja iznad prevoja,
-- kratku formu bez �frikcije�,
+- kratku formu bez ï¿½frikcijeï¿½,
 - jednu dominantnu CTA akciju,
 - brzinu ucitavanja na mobilnom.
 
-Za referencu tro�ka klika pogledajte [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026), a za najce�ce UX/CRO propuste i [5 gre�aka na landing stranicama koje ubijaju konverzije](/blog/5-gresaka-landing-stranice-konverzije).
+Za referencu troï¿½ka klika pogledajte [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026), a za najceï¿½ce UX/CRO propuste i [5 greï¿½aka na landing stranicama koje ubijaju konverzije](/blog/5-gresaka-landing-stranice-konverzije).
 
 ## Mini ROI primer (kako da gledate isplativost)
 
 Primer:
 
-- ulaganje u landing: **1.200�**
-- bud�et oglasa: **1.500� / mesec**
+- ulaganje u landing: **1.200ï¿½**
+- budï¿½et oglasa: **1.500ï¿½ / mesec**
 - rast konverzije: **2,1% ? 3,4%**
 
-Sa istim ad spend-om dobijate vi�e kvalifikovanih lead-ova, pa razlika u performansu cesto vrati investiciju u 1�3 meseca, zavisno od vrednosti klijenta.
+Sa istim ad spend-om dobijate viï¿½e kvalifikovanih lead-ova, pa razlika u performansu cesto vrati investiciju u 1ï¿½3 meseca, zavisno od vrednosti klijenta.
 
-Drugim recima: prava metrika nije �koliko ko�ta landing stranica�, nego **koliko ko�ta jedan kvalitetan upit posle launch-a**.
+Drugim recima: prava metrika nije ï¿½koliko koï¿½ta landing stranicaï¿½, nego **koliko koï¿½ta jedan kvalitetan upit posle launch-a**.
 
 ## Zakljucak
 
@@ -3476,38 +3703,38 @@ Ako zelite precizan opseg cene i rokova za vas konkretan funnel, javite se kroz 
   {
     slug: 'copywriting-formule-koje-rade',
     title: 'Kako napisati oglas koji prodaje: copywriting formule koje rade',
-    excerpt: 'Nije bitno koliko ljudi vidi va� oglas. Bitno je koliko ih ne mo�e da odoli a da ne klikne. Evo formula koje to posti�u.',
+    excerpt: 'Nije bitno koliko ljudi vidi vaï¿½ oglas. Bitno je koliko ih ne moï¿½e da odoli a da ne klikne. Evo formula koje to postiï¿½u.',
     date: '2026-02-21',
     category: 'Marketing',
     readTime: '7 min',
     content: `
-## Za�to vecina oglasa ne generi�e ni klikove
+## Zaï¿½to vecina oglasa ne generiï¿½e ni klikove
 
-Prosecan covek vidi 4.000-10.000 reklamnih poruka dnevno. Od toga, svesno registruje mo�da 50. Klikne na 2-3. Kupi na osnovu jedne ili nijedne.
+Prosecan covek vidi 4.000-10.000 reklamnih poruka dnevno. Od toga, svesno registruje moï¿½da 50. Klikne na 2-3. Kupi na osnovu jedne ili nijedne.
 
-U tom okru�enju, prosecan oglas je nevidljiv. Ne zato �to je lo� proizvod iza njega, vec zato �to je tekst oglasa napisan kao da covek nema gde drugo da gleda. Genericne fraze, korporativni ton, nula emocija.
+U tom okruï¿½enju, prosecan oglas je nevidljiv. Ne zato ï¿½to je loï¿½ proizvod iza njega, vec zato ï¿½to je tekst oglasa napisan kao da covek nema gde drugo da gleda. Genericne fraze, korporativni ton, nula emocija.
 
-Firme koje pi�u oglase koji zapravo konvertuju koriste proveren okvir. Nije kreativnost. To je struktura.
+Firme koje piï¿½u oglase koji zapravo konvertuju koriste proveren okvir. Nije kreativnost. To je struktura.
 
 ## Formula 1: PAS (Problem, Agitate, Solve)
 
 Najstarija i najefektnija formula u copywritingu.
 
-**Problem:** Identifikujte specifican problem koji va�a publika ima. Ne op�ti ("�elite vi�e klijenata") vec konkretan ("tro�ite 2.000� mesecno na oglase i dobijate 3 upita").
+**Problem:** Identifikujte specifican problem koji vaï¿½a publika ima. Ne opï¿½ti ("ï¿½elite viï¿½e klijenata") vec konkretan ("troï¿½ite 2.000ï¿½ mesecno na oglase i dobijate 3 upita").
 
-**Agitate:** Pojacajte bol. Poka�ite posledice nere�avanja problema. "Za 6 meseci to je 12.000� baceno. Dovoljno za pola godine plate novog prodavca."
+**Agitate:** Pojacajte bol. Pokaï¿½ite posledice nereï¿½avanja problema. "Za 6 meseci to je 12.000ï¿½ baceno. Dovoljno za pola godine plate novog prodavca."
 
-**Solve:** Predstavite re�enje. Va� proizvod ili usluga kao odgovor na problem koji ste upravo opisali.
+**Solve:** Predstavite reï¿½enje. Vaï¿½ proizvod ili usluga kao odgovor na problem koji ste upravo opisali.
 
-PAS radi jer prati prirodan tok razmi�ljanja kupca: "Da, imam taj problem. Da, frustrira me. O, postoji re�enje?"
+PAS radi jer prati prirodan tok razmiï¿½ljanja kupca: "Da, imam taj problem. Da, frustrira me. O, postoji reï¿½enje?"
 
 ## Formula 2: AIDA (Attention, Interest, Desire, Action)
 
-**Attention:** Naslov koji zaustavlja. Broj, pitanje ili provokativna tvrdnja. "87% firmi tro�i novac na marketing koji ne radi. Evo za�to."
+**Attention:** Naslov koji zaustavlja. Broj, pitanje ili provokativna tvrdnja. "87% firmi troï¿½i novac na marketing koji ne radi. Evo zaï¿½to."
 
-**Interest:** Informacija koja dr�i pa�nju. Podatak, prica ili insight koji citalac nije znao.
+**Interest:** Informacija koja drï¿½i paï¿½nju. Podatak, prica ili insight koji citalac nije znao.
 
-**Desire:** Poka�ite rezultat. �ta citalac dobija ako preduzme akciju. Ne feature-e, vec ishode.
+**Desire:** Pokaï¿½ite rezultat. ï¿½ta citalac dobija ako preduzme akciju. Ne feature-e, vec ishode.
 
 **Action:** Jasan poziv na akciju. Jedan. Ne pet opcija. Jedan sledeci korak.
 
@@ -3515,108 +3742,108 @@ PAS radi jer prati prirodan tok razmi�ljanja kupca: "Da, imam taj problem. Da,
 
 Najjednostavnija formula. Tri koraka:
 
-**Before:** Opi�ite trenutnu situaciju citaoca. Frustracjiu, problem, ogranicenje.
+**Before:** Opiï¿½ite trenutnu situaciju citaoca. Frustracjiu, problem, ogranicenje.
 
-**After:** Opi�ite �ivot nakon re�enja. Konkretan, senzoran opis boljeg stanja.
+**After:** Opiï¿½ite ï¿½ivot nakon reï¿½enja. Konkretan, senzoran opis boljeg stanja.
 
-**Bridge:** Va� proizvod/usluga kao most izmedu ta dva stanja.
+**Bridge:** Vaï¿½ proizvod/usluga kao most izmedu ta dva stanja.
 
-> Ljudi ne kupuju proizvode. Kupuju bolju verziju sebe. Va� posao je da im poka�ete tu bolju verziju.
+> Ljudi ne kupuju proizvode. Kupuju bolju verziju sebe. Vaï¿½ posao je da im pokaï¿½ete tu bolju verziju.
 
-## 7 pravila koja va�e za svaku formulu
+## 7 pravila koja vaï¿½e za svaku formulu
 
-1. **Pi�ite za jednu osobu.** Ne "na�i klijenti" vec "vi." Oglas je razgovor, ne brosura.
+1. **Piï¿½ite za jednu osobu.** Ne "naï¿½i klijenti" vec "vi." Oglas je razgovor, ne brosura.
 
 2. **Koristite kratke recenice.** Na mobilnom, zid teksta je neprijatan. Svaka recenica treba da stane u jedan red na telefonu.
 
 3. **Specificnost pobedi apstrakciju.** "Generisali smo 347 upita za 90 dana" radi bolje od "znacajno povecavamo upite."
 
-4. **Naslov nosi 80% te�ine.** Ako naslov ne zaustavlja, ostatak teksta je nebitan. Potro�ite 50% vremena na naslov.
+4. **Naslov nosi 80% teï¿½ine.** Ako naslov ne zaustavlja, ostatak teksta je nebitan. Potroï¿½ite 50% vremena na naslov.
 
-5. **Jedan CTA po oglasu.** "Kupite," "Saznajte vi�e," "Pozovite nas," "Preuzmite vodic" u istom oglasu. Mnogo opcija znaci nula akcije. Izaberite jednu.
+5. **Jedan CTA po oglasu.** "Kupite," "Saznajte viï¿½e," "Pozovite nas," "Preuzmite vodic" u istom oglasu. Mnogo opcija znaci nula akcije. Izaberite jednu.
 
-6. **Testirajte naslove, ne telo teksta.** Promena naslova mo�e da promeni performanse za 300%. Promena tela teksta menja za 10-20%.
+6. **Testirajte naslove, ne telo teksta.** Promena naslova moï¿½e da promeni performanse za 300%. Promena tela teksta menja za 10-20%.
 
-7. **Pi�ite kako pricate.** Procitajte oglas naglas. Ako zvuci kao da citate enciklopediju, prepi�ite.
+7. **Piï¿½ite kako pricate.** Procitajte oglas naglas. Ako zvuci kao da citate enciklopediju, prepiï¿½ite.
 
 ## Primer: isti proizvod, dva pristupa
 
 **Generican oglas:**
-"Platinum Zenith nudi usluge digitalnog marketinga. Na� tim strucnjaka ce vam pomoci da povecate online prisustvo. Kontaktirajte nas za vi�e informacija."
+"Platinum Zenith nudi usluge digitalnog marketinga. Naï¿½ tim strucnjaka ce vam pomoci da povecate online prisustvo. Kontaktirajte nas za viï¿½e informacija."
 
 **Oglas sa PAS formulom:**
-"Tro�ite 1.500� mesecno na Google oglase a dobijate 5 upita? Problem nije bud�et. Problem je u tome kome se ti oglasi prikazuju i �ta govore. Na�i klijenti u proseku dobijaju 25+ upita za isti bud�et. Saznajte kako."
+"Troï¿½ite 1.500ï¿½ mesecno na Google oglase a dobijate 5 upita? Problem nije budï¿½et. Problem je u tome kome se ti oglasi prikazuju i ï¿½ta govore. Naï¿½i klijenti u proseku dobijaju 25+ upita za isti budï¿½et. Saznajte kako."
 
 Isti biznis. Potpuno drugacija reakcija citaoca.
 
-Saznajte vi�e o na�em [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
+Saznajte viï¿½e o naï¿½em [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
 
 Takode preporucujemo: [Facebook oglasi koji zapravo rade: psihologija iza klika](/blog/facebook-oglasi-koji-zapravo-rade).
 
 ---
 
-�elite da napi�emo oglase koji zapravo konvertuju? [Javite nam se](/kontakt).
+ï¿½elite da napiï¿½emo oglase koji zapravo konvertuju? [Javite nam se](/kontakt).
 `,
   },
   {
     slug: 'ab-testiranje-male-promene-veliki-rezultati',
     title: 'A/B testiranje: male promene, veliki rezultati',
-    excerpt: 'Promena boje dugmeta sama po sebi nece spasiti lo� sajt, ali prava A/B testiranja mogu udvostruciti konverzije kada se testira ponuda, struktura i CTA tok.',
+    excerpt: 'Promena boje dugmeta sama po sebi nece spasiti loï¿½ sajt, ali prava A/B testiranja mogu udvostruciti konverzije kada se testira ponuda, struktura i CTA tok.',
     date: '2026-02-21',
     category: 'CRO',
     readTime: '6 min',
     content: `
-## �ta A/B testiranje zapravo jeste
+## ï¿½ta A/B testiranje zapravo jeste
 
-A/B test je jednostavan eksperiment: napravite dve verzije necega (stranica, oglas, email), poka�ete svaku polovini publike i merite koja radi bolje.
+A/B test je jednostavan eksperiment: napravite dve verzije necega (stranica, oglas, email), pokaï¿½ete svaku polovini publike i merite koja radi bolje.
 
 Verzija A: originalna. Verzija B: sa jednom promenom. Posle dovoljno podataka, pobednik postaje novi standard.
 
-Zvuci banalno. Ali firme koje sistematski testiraju konvertuju 2-3x bolje od onih koje ne testiraju. Razlog: svaka pretpostavka o tome "�ta radi" je pogadanje dok ne testirate.
+Zvuci banalno. Ali firme koje sistematski testiraju konvertuju 2-3x bolje od onih koje ne testiraju. Razlog: svaka pretpostavka o tome "ï¿½ta radi" je pogadanje dok ne testirate.
 
-## �ta testirati (redosledom uticaja)
+## ï¿½ta testirati (redosledom uticaja)
 
 ### 1. Ponuda (najveci uticaj)
 
-Pre nego �to testirate dugmad i boje, testirajte samu ponudu. Da li besplatna konsultacija konvertuje bolje od besplatnog audita? Da li 10% popusta radi bolje od besplatne dostave?
+Pre nego ï¿½to testirate dugmad i boje, testirajte samu ponudu. Da li besplatna konsultacija konvertuje bolje od besplatnog audita? Da li 10% popusta radi bolje od besplatne dostave?
 
-Promena ponude mo�e da promeni konverzije za 50-200%. Promena boje dugmeta menja za 2-5%.
+Promena ponude moï¿½e da promeni konverzije za 50-200%. Promena boje dugmeta menja za 2-5%.
 
 ### 2. Naslov stranice
 
 Naslov je prva stvar koju posetilac vidi. Ako naslov ne komunicira vrednost za 3 sekunde, posetilac odlazi.
 
-Testirajte: benefit vs pitanje vs broj. "Povecajte prodaju za 40%" vs "�elite vi�e klijenata?" vs "347 firmi koristi ovaj sistem."
+Testirajte: benefit vs pitanje vs broj. "Povecajte prodaju za 40%" vs "ï¿½elite viï¿½e klijenata?" vs "347 firmi koristi ovaj sistem."
 
 ### 3. Poziv na akciju (CTA)
 
-Ne samo tekst dugmeta, vec i pozicija, velicina i boja. "Saznajte vi�e" vs "Preuzmite besplatan vodic" vs "Zaka�ite poziv."
+Ne samo tekst dugmeta, vec i pozicija, velicina i boja. "Saznajte viï¿½e" vs "Preuzmite besplatan vodic" vs "Zakaï¿½ite poziv."
 
-Najce�ci nalaz: specifican CTA pobedi generican. "Preuzmite PDF vodic" radi bolje od "Kliknite ovde."
+Najceï¿½ci nalaz: specifican CTA pobedi generican. "Preuzmite PDF vodic" radi bolje od "Kliknite ovde."
 
-> Svaka pretpostavka o va�im korisnicima je pogre�na dok je ne testirate. Ukljucujuci ovu.
+> Svaka pretpostavka o vaï¿½im korisnicima je pogreï¿½na dok je ne testirate. Ukljucujuci ovu.
 
-### 4. Du�ina forme
+### 4. Duï¿½ina forme
 
 Svako dodatno polje u formi smanjuje konverzije za 10-15%. Test: forma sa 3 polja vs forma sa 6 polja. Skoro uvek kraca forma pobeduje, osim kad kvalifikacija lead-ova zahteva dodatna pitanja.
 
 ### 5. Social proof pozicija
 
-Testimonijal iznad forme vs ispod forme. Logo bar na vrhu stranice vs na sredini. Pozicija social proof-a mo�e da menja konverzije za 15-25%.
+Testimonijal iznad forme vs ispod forme. Logo bar na vrhu stranice vs na sredini. Pozicija social proof-a moï¿½e da menja konverzije za 15-25%.
 
 ## Koliko podataka vam treba
 
-Najce�ca gre�ka: prerano progla�avanje pobednika. Test sa 50 poseta po varijanti nije validan. Potrebno je minimum 200-500 konverzija po varijanti za statisticki znacajan rezultat.
+Najceï¿½ca greï¿½ka: prerano proglaï¿½avanje pobednika. Test sa 50 poseta po varijanti nije validan. Potrebno je minimum 200-500 konverzija po varijanti za statisticki znacajan rezultat.
 
 Za sajt sa 1.000 posetilaca mesecno i 3% konverzijom, to je 30 konverzija mesecno. Test treba da traje minimum 2-4 nedelje po varijanti.
 
-Pravilo: ako ne mo�ete da cekate dovoljno dugo za validan rezultat, testirajte promene sa vecim uticajem (ponuda, naslov) gde je razlika vidljivija br�e.
+Pravilo: ako ne moï¿½ete da cekate dovoljno dugo za validan rezultat, testirajte promene sa vecim uticajem (ponuda, naslov) gde je razlika vidljivija brï¿½e.
 
 ## Alati za A/B testiranje
 
 - **Google Optimize** (besplatan, integrisan sa GA4)
 - **VWO** (placen, napredniji)
-- **Za email:** vecina email platformi ima ugraden A/B test za subject line i sadr�aj
+- **Za email:** vecina email platformi ima ugraden A/B test za subject line i sadrï¿½aj
 - **Za oglase:** Facebook i Google Ads imaju native A/B testiranje kreativa
 
 ## Proces koji daje rezultate
@@ -3627,76 +3854,76 @@ Pravilo: ako ne mo�ete da cekate dovoljno dugo za validan rezultat, testirajte
 4. **Odluka:** pobednik postaje standard. Napravite novu hipotezu.
 5. **Ponovite:** svake 2-4 nedelje novi test.
 
-Firme koje testiraju kontinuirano pobolj�avaju konverzije za 20-30% kvartalno. Za godinu dana, to je 2-3x pobolj�anje.
+Firme koje testiraju kontinuirano poboljï¿½avaju konverzije za 20-30% kvartalno. Za godinu dana, to je 2-3x poboljï¿½anje.
 
-Detaljnije o na�em [CRO procesu](/cro) i kako optimizujemo konverzije za klijente.
+Detaljnije o naï¿½em [CRO procesu](/cro) i kako optimizujemo konverzije za klijente.
 
-Takode preporucujemo: [5 gre�aka na landing stranicama koje ubijaju konverzije](/blog/5-gresaka-landing-stranice-konverzije).
+Takode preporucujemo: [5 greï¿½aka na landing stranicama koje ubijaju konverzije](/blog/5-gresaka-landing-stranice-konverzije).
 
 ---
 
-�elite da postavimo A/B testiranje za va� sajt? [Javite nam se](/kontakt) i pocnite da donosite odluke na osnovu podataka.
+ï¿½elite da postavimo A/B testiranje za vaï¿½ sajt? [Javite nam se](/kontakt) i pocnite da donosite odluke na osnovu podataka.
 `,
   },
   {
     slug: 'kako-meriti-roi-marketinga-kpi-vodic',
     title: 'Kako meriti ROI marketinga: KPI vodic za vlasnike firmi',
-    excerpt: 'Ako ne merite marketing, kockate se bud�etom. Ovo je 8 kljucnih KPI brojeva koje svaka firma treba da prati da bi znala �ta donosi profit, a �ta tro�i novac.',
+    excerpt: 'Ako ne merite marketing, kockate se budï¿½etom. Ovo je 8 kljucnih KPI brojeva koje svaka firma treba da prati da bi znala ï¿½ta donosi profit, a ï¿½ta troï¿½i novac.',
     date: '2026-02-21',
     category: 'Marketing',
     readTime: '6 min',
     content: `
-## Za�to "osecaj" nije metrika
+## Zaï¿½to "osecaj" nije metrika
 
-"Mislim da nam marketing radi." Ova recenica ko�ta firme hiljade evra mesecno. Bez konkretnih brojeva, svaka marketin�ka odluka je pogadanje. Dr�ite kanal koji ne radi. Gasite kanal koji radi. Povecavate bud�et tamo gde ne treba.
+"Mislim da nam marketing radi." Ova recenica koï¿½ta firme hiljade evra mesecno. Bez konkretnih brojeva, svaka marketinï¿½ka odluka je pogadanje. Drï¿½ite kanal koji ne radi. Gasite kanal koji radi. Povecavate budï¿½et tamo gde ne treba.
 
 ## 8 brojeva koje morate znati
 
 ### 1. Cena po lead-u (CPL)
 
-Koliko ko�tate jednog potencijalnog kupca. Formula: ukupan tro�ak kanala / broj lead-ova.
+Koliko koï¿½tate jednog potencijalnog kupca. Formula: ukupan troï¿½ak kanala / broj lead-ova.
 
-Primer: 1.000� na Google Ads mesecno / 40 upita = 25� po lead-u.
+Primer: 1.000ï¿½ na Google Ads mesecno / 40 upita = 25ï¿½ po lead-u.
 
 Ovo merite za SVAKI kanal posebno. Google Ads, Facebook, organski, preporuke. Bez toga ne znate koji kanal je isplativ a koji baca novac.
 
 ### 2. Konverzija iz lead-a u kupca
 
-Od svih upita, koliko zapravo postane kupac? Prosecna konverzija za uslu�ne firme je 15-25%. Za e-commerce 1-4%.
+Od svih upita, koliko zapravo postane kupac? Prosecna konverzija za usluï¿½ne firme je 15-25%. Za e-commerce 1-4%.
 
 Ako dobijate 40 upita mesecno ali zatvorate samo 2, problem nije marketing. Problem je prodajni proces.
 
 ### 3. Cena akvizicije kupca (CAC)
 
-CPL podeljen konverzijom. Ako lead ko�ta 25� i konvertujete 20%, CAC je 125�.
+CPL podeljen konverzijom. Ako lead koï¿½ta 25ï¿½ i konvertujete 20%, CAC je 125ï¿½.
 
-Ovo je broj koji poredite sa vredno�cu kupca. Ako kupac vredi 500�, a CAC je 125�, ROI je 4x.
+Ovo je broj koji poredite sa vrednoï¿½cu kupca. Ako kupac vredi 500ï¿½, a CAC je 125ï¿½, ROI je 4x.
 
 ### 4. Lifetime Value kupca (LTV)
 
-Koliko vam jedan kupac donese tokom celokupne saradnje. Prosecna mesecna vrednost � prosecan broj meseci.
+Koliko vam jedan kupac donese tokom celokupne saradnje. Prosecna mesecna vrednost ï¿½ prosecan broj meseci.
 
-1.000� mesecno � 12 meseci = 12.000� LTV.
+1.000ï¿½ mesecno ï¿½ 12 meseci = 12.000ï¿½ LTV.
 
 > Jedini broj koji zaista govori da li marketing radi je odnos LTV prema CAC. Ako je LTV bar 3x veci od CAC, marketing je isplativ.
 
 ### 5. ROAS (Return on Ad Spend)
 
-Za e-commerce: prihod od oglasa / tro�ak oglasa. ROAS od 4x znaci da za svaki ulo�eni evro u oglase dobijete 4 evra prihoda.
+Za e-commerce: prihod od oglasa / troï¿½ak oglasa. ROAS od 4x znaci da za svaki uloï¿½eni evro u oglase dobijete 4 evra prihoda.
 
-Minimalan zdravi ROAS zavisi od mar�i. Sa 50% mar�e, ROAS od 2x je break-even. Sa 30% mar�e, trebate minimum 3.5x.
+Minimalan zdravi ROAS zavisi od marï¿½i. Sa 50% marï¿½e, ROAS od 2x je break-even. Sa 30% marï¿½e, trebate minimum 3.5x.
 
 ### 6. Bounce rate po stranici
 
-Procenat posetilaca koji odu sa stranice bez akcije. Preko 70% na landing stranici znaci da ne�to ne valja: spor sajt, lo� naslov, netacna ocekivanja iz oglasa.
+Procenat posetilaca koji odu sa stranice bez akcije. Preko 70% na landing stranici znaci da neï¿½to ne valja: spor sajt, loï¿½ naslov, netacna ocekivanja iz oglasa.
 
 ### 7. Konverzija sajta
 
-Procenat posetilaca koji urade �eljenu akciju (kupovina, upit, prijava). Prosek je 2-4%. Sve ispod 1% znaci ozbiljan problem. Sve iznad 5% je odlicno.
+Procenat posetilaca koji urade ï¿½eljenu akciju (kupovina, upit, prijava). Prosek je 2-4%. Sve ispod 1% znaci ozbiljan problem. Sve iznad 5% je odlicno.
 
 ### 8. Email open rate i click rate
 
-Za email marketing: open rate ispod 15% znaci lo�e subject line-ove ili listu koja nije zainteresovana. Click rate ispod 2% znaci da sadr�aj ne rezonuje.
+Za email marketing: open rate ispod 15% znaci loï¿½e subject line-ove ili listu koja nije zainteresovana. Click rate ispod 2% znaci da sadrï¿½aj ne rezonuje.
 
 ## Kako pratiti sve ovo
 
@@ -3706,15 +3933,15 @@ Ne trebate 17 alata. Tri su dovoljna:
 - **CRM** (HubSpot besplatan, Attio, Pipedrive) za pracenje lead-ova i konverzija
 - **Excel/Google Sheets** za mesecni dashboard sa svim brojevima na jednom mestu
 
-Jednom mesecno: sednite 30 minuta, pogledajte brojeve, uporedite sa pro�lim mesecom. Trendovi su va�niji od apsolutnih brojeva. Raste li CPL? Pada li konverzija? Gde se tro�i najvi�e za najmanje rezultata?
+Jednom mesecno: sednite 30 minuta, pogledajte brojeve, uporedite sa proï¿½lim mesecom. Trendovi su vaï¿½niji od apsolutnih brojeva. Raste li CPL? Pada li konverzija? Gde se troï¿½i najviï¿½e za najmanje rezultata?
 
-Saznajte vi�e o na�em [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
+Saznajte viï¿½e o naï¿½em [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
 
-Takode preporucujemo: [Kako citati marketing izve�taj (vodic za vlasnike firmi)](/blog/kako-citati-marketing-izvestaj).
+Takode preporucujemo: [Kako citati marketing izveï¿½taj (vodic za vlasnike firmi)](/blog/kako-citati-marketing-izvestaj).
 
 ---
 
-�elite da postavimo sistem za merenje va�eg marketinga? [Javite nam se](/kontakt) i pocnite da donosite odluke na osnovu podataka.
+ï¿½elite da postavimo sistem za merenje vaï¿½eg marketinga? [Javite nam se](/kontakt) i pocnite da donosite odluke na osnovu podataka.
 `,
   },
   {
@@ -3727,25 +3954,25 @@ Takode preporucujemo: [Kako citati marketing izve�taj (vodic za vlasnike firmi
     content: `
 ## Problem sa vecinom lead magneta
 
-"Preuzmite na� besplatni eBook!" I niko ga ne preuzme. Stopa konverzije: 1-2%.
+"Preuzmite naï¿½ besplatni eBook!" I niko ga ne preuzme. Stopa konverzije: 1-2%.
 
-Razlog je jednostavan: ljudi su umorni od genericnog sadr�aja. Preuzeli su 50 eBook-ova koji su im obecali "sve �to trebate znati o X" i nijedan im nije stvarno pomogao.
+Razlog je jednostavan: ljudi su umorni od genericnog sadrï¿½aja. Preuzeli su 50 eBook-ova koji su im obecali "sve ï¿½to trebate znati o X" i nijedan im nije stvarno pomogao.
 
-Lead magnet koji konvertuje 20-40% posetilaca u lead-ove mora da ispuni tri uslova: mora biti specifican, mora pru�ati trenutnu vrednost i mora re�avati konkretan problem.
+Lead magnet koji konvertuje 20-40% posetilaca u lead-ove mora da ispuni tri uslova: mora biti specifican, mora pruï¿½ati trenutnu vrednost i mora reï¿½avati konkretan problem.
 
 ## 5 tipova lead magneta koji rade
 
 ### 1. Ceklista
 
-"Ceklista za lansiranje Facebook kampanje: 23 koraka." Kratka, prakticna, odmah primenjiva. Ljudi vole cekliste jer ne zahtevaju citanje 30 stranica. Otvorite, prodete korak po korak, zavr�ite.
+"Ceklista za lansiranje Facebook kampanje: 23 koraka." Kratka, prakticna, odmah primenjiva. Ljudi vole cekliste jer ne zahtevaju citanje 30 stranica. Otvorite, prodete korak po korak, zavrï¿½ite.
 
-Konverzija: 25-40%. Najlak�a za pravljenje (1-2 sata rada).
+Konverzija: 25-40%. Najlakï¿½a za pravljenje (1-2 sata rada).
 
 ### 2. Kalkulator ili alat
 
-"Kalkulator ROI-a za va�e Google Ads kampanje." Korisnik unese brojeve, dobije rezultat. Interaktivno, personalizovano, korisno.
+"Kalkulator ROI-a za vaï¿½e Google Ads kampanje." Korisnik unese brojeve, dobije rezultat. Interaktivno, personalizovano, korisno.
 
-Konverzija: 30-50%. Zahteva vi�e rada za kreiranje ali donosi najkvalitetnije lead-ove jer korisnik aktivno razmi�lja o problemu.
+Konverzija: 30-50%. Zahteva viï¿½e rada za kreiranje ali donosi najkvalitetnije lead-ove jer korisnik aktivno razmiï¿½lja o problemu.
 
 ### 3. Mini kurs (email sekvenca)
 
@@ -3753,25 +3980,25 @@ Konverzija: 30-50%. Zahteva vi�e rada za kreiranje ali donosi najkvalitetnije 
 
 Konverzija: 20-35%. Prednost: gradi odnos sa lead-om tokom 5 dana, ne samo jednim download-om.
 
-### 4. �ablon ili template
+### 4. ï¿½ablon ili template
 
-"�ablon za marketing bud�et u Excel-u." "Template za email ponudu." Ne�to �to korisnik mo�e da uzme i odmah prilagodi svom biznisu.
+"ï¿½ablon za marketing budï¿½et u Excel-u." "Template za email ponudu." Neï¿½to ï¿½to korisnik moï¿½e da uzme i odmah prilagodi svom biznisu.
 
-Konverzija: 25-40%. Ljudi vole gotova re�enja koja samo treba prilagoditi.
+Konverzija: 25-40%. Ljudi vole gotova reï¿½enja koja samo treba prilagoditi.
 
-> Najbolji lead magnet re�ava jedan specifican problem za jednu specificnu publiku. "Vodic za sve" ne konvertuje nikoga.
+> Najbolji lead magnet reï¿½ava jedan specifican problem za jednu specificnu publiku. "Vodic za sve" ne konvertuje nikoga.
 
 ### 5. Besplatna analiza ili audit
 
-"Besplatna analiza va�eg Google Business profila." Korisnik ostavi podatke, vi po�aljete personalizovanu analizu.
+"Besplatna analiza vaï¿½eg Google Business profila." Korisnik ostavi podatke, vi poï¿½aljete personalizovanu analizu.
 
-Konverzija: 15-25% ali kvalitet lead-ova je najvi�i jer osoba koja tra�i analizu vec aktivno razmi�lja o re�enju.
+Konverzija: 15-25% ali kvalitet lead-ova je najviï¿½i jer osoba koja traï¿½i analizu vec aktivno razmiï¿½lja o reï¿½enju.
 
 ## Kako napraviti lead magnet za 3 sata
 
-1. **Izaberite JEDAN problem** koji va�a publika ima (30 min)
-2. **Napravite strukturu** od 5-10 tacaka koje re�avaju taj problem (30 min)
-3. **Napi�ite sadr�aj** kratak, konkretan, bez filler-a (90 min)
+1. **Izaberite JEDAN problem** koji vaï¿½a publika ima (30 min)
+2. **Napravite strukturu** od 5-10 tacaka koje reï¿½avaju taj problem (30 min)
+3. **Napiï¿½ite sadrï¿½aj** kratak, konkretan, bez filler-a (90 min)
 4. **Dizajnirajte** u Canvi ili Google Docs-u (30 min)
 5. **Napravite landing stranicu** sa formom (30 min)
 
@@ -3780,183 +4007,183 @@ Ne trebate dizajnera, ne trebate programera. Trebate korisno znanje i 3 sata vre
 ## Gde promovisati lead magnet
 
 - Na sajtu: pop-up (nakon 30 sekundi ili na exit intent), bocni bar, unutar blog postova
-- U Facebook/Instagram oglasima (najce�ci format za lead generation)
+- U Facebook/Instagram oglasima (najceï¿½ci format za lead generation)
 - U email signature-u
 - Na LinkedIn profilu i u postovima
 
-Saznajte vi�e o na�em [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
+Saznajte viï¿½e o naï¿½em [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
 
-Takode preporucujemo: [Email marketing: za�to je email i dalje kralj konverzija](/blog/email-marketing-kralj-konverzija).
+Takode preporucujemo: [Email marketing: zaï¿½to je email i dalje kralj konverzija](/blog/email-marketing-kralj-konverzija).
 
 ---
 
-�elite da napravimo lead magnet za va� biznis? [Javite nam se](/kontakt) i dizajniracemo vam sistem koji pretvara posetioce u lead-ove.
+ï¿½elite da napravimo lead magnet za vaï¿½ biznis? [Javite nam se](/kontakt) i dizajniracemo vam sistem koji pretvara posetioce u lead-ove.
 `,
   },
   {
     slug: 'brending-za-male-firme-identitet-vazniji-od-loga',
-    title: 'Brending za male firme: za�to je identitet va�niji od loga',
-    excerpt: 'Logo je samo pocetak. Brend je utisak koji ljudi pamte. Evo kako male firme grade jasan identitet koji podi�e poverenje, cenu i prodaju.',
+    title: 'Brending za male firme: zaï¿½to je identitet vaï¿½niji od loga',
+    excerpt: 'Logo je samo pocetak. Brend je utisak koji ljudi pamte. Evo kako male firme grade jasan identitet koji podiï¿½e poverenje, cenu i prodaju.',
     date: '2026-02-21',
     category: 'Marketing',
     readTime: '6 min',
     content: `
 ## Logo nije brend
 
-Vecina vlasnika malih firmi misli da je brending = logo + boje + font. Plate dizajneru 500� za logo, odaberu plavu i belu boju jer "deluje profesionalno" i smatraju da su gotovi sa brendingom.
+Vecina vlasnika malih firmi misli da je brending = logo + boje + font. Plate dizajneru 500ï¿½ za logo, odaberu plavu i belu boju jer "deluje profesionalno" i smatraju da su gotovi sa brendingom.
 
-Onda se pitaju za�to ih niko ne pamti. Za�to klijenti ne mogu da objasne �ta ih razlikuje od konkurencije. Za�to se takmice iskljucivo cenom.
+Onda se pitaju zaï¿½to ih niko ne pamti. Zaï¿½to klijenti ne mogu da objasne ï¿½ta ih razlikuje od konkurencije. Zaï¿½to se takmice iskljucivo cenom.
 
-Brend nije vizuelni identitet. Brend je odgovor na pitanje: "Za�to bih izabrao vas umesto bilo koga drugog?" Ako va� odgovor na to pitanje je "jer smo profesionalni i pouzdani," imate problem. Jer to ka�e svaka firma na planeti.
+Brend nije vizuelni identitet. Brend je odgovor na pitanje: "Zaï¿½to bih izabrao vas umesto bilo koga drugog?" Ako vaï¿½ odgovor na to pitanje je "jer smo profesionalni i pouzdani," imate problem. Jer to kaï¿½e svaka firma na planeti.
 
-## �ta brend zapravo jeste
+## ï¿½ta brend zapravo jeste
 
 Brend je kombinacija tri stvari:
 
-**1. Pozicioniranje:** Za koga ste i �ta re�avate. "Marketing agencija za stomatolo�ke ordinacije koje �ele vi�e pacijenata." Ne "marketing agencija."
+**1. Pozicioniranje:** Za koga ste i ï¿½ta reï¿½avate. "Marketing agencija za stomatoloï¿½ke ordinacije koje ï¿½ele viï¿½e pacijenata." Ne "marketing agencija."
 
-**2. Poruka:** Kako komunicirate. Ton, stil, recnik. Firma koja koristi "Poma�emo vam da skalirate akviziciju" i firma koja ka�e "Dovedemo vam vi�e klijenata" ciljaju razlicite ljude. Obe su OK. Ali morate izabrati.
+**2. Poruka:** Kako komunicirate. Ton, stil, recnik. Firma koja koristi "Pomaï¿½emo vam da skalirate akviziciju" i firma koja kaï¿½e "Dovedemo vam viï¿½e klijenata" ciljaju razlicite ljude. Obe su OK. Ali morate izabrati.
 
-**3. Iskustvo:** Kako se klijent oseca kad radi sa vama. Od prvog kontakta do poslednje fakture. Svaka tacka kontakta gradi ili ru�i brend.
+**3. Iskustvo:** Kako se klijent oseca kad radi sa vama. Od prvog kontakta do poslednje fakture. Svaka tacka kontakta gradi ili ruï¿½i brend.
 
-> Brend nije ono �to vi ka�ete o sebi. Brend je ono �to va�i klijenti ka�u o vama kad niste u sobi.
+> Brend nije ono ï¿½to vi kaï¿½ete o sebi. Brend je ono ï¿½to vaï¿½i klijenti kaï¿½u o vama kad niste u sobi.
 
 ## Kako mala firma gradi brend
 
-### Korak 1: Defini�ite jednu stvar po kojoj ste drugaciji
+### Korak 1: Definiï¿½ite jednu stvar po kojoj ste drugaciji
 
-Ne pet stvari. Jednu. Mo�e biti ni�a, mo�e biti pristup, mo�e biti garancija. Ne�to �to konkurencija ne radi ili ne komunicira.
+Ne pet stvari. Jednu. Moï¿½e biti niï¿½a, moï¿½e biti pristup, moï¿½e biti garancija. Neï¿½to ï¿½to konkurencija ne radi ili ne komunicira.
 
 Primer: "Jedina agencija u Zrenjaninu koja garantuje minimum 20 lead-ova mesecno ili ne placate." To je pozicioniranje koje se pamti.
 
 ### Korak 2: Izaberite ton komunikacije
 
-Profesionalan i ozbiljan? Opu�ten i prijateljski? Provokativan i direktan? Nema pogre�nog odgovora, ali morate biti dosledni. Firma koja je na sajtu formalna a na Instagram-u koristi sleng zbunjuje publiku.
+Profesionalan i ozbiljan? Opuï¿½ten i prijateljski? Provokativan i direktan? Nema pogreï¿½nog odgovora, ali morate biti dosledni. Firma koja je na sajtu formalna a na Instagram-u koristi sleng zbunjuje publiku.
 
 ### Korak 3: Budite konzistentni svuda
 
-Isti ton na sajtu, u emailu, na dru�tvenim mre�ama, u ponudi, na fakturi. Konzistentnost gradi prepoznatljivost. Prepoznatljivost gradi poverenje. Poverenje prodaje.
+Isti ton na sajtu, u emailu, na druï¿½tvenim mreï¿½ama, u ponudi, na fakturi. Konzistentnost gradi prepoznatljivost. Prepoznatljivost gradi poverenje. Poverenje prodaje.
 
 ### Korak 4: Pricajte price, ne feature-e
 
-Ljudi pamte price, ne specifikacije. "Podigli smo prodaju za 40%" je podatak. "Marko je imao 3 zaposlena i razmi�ljao da zatvori firmu. Posle 6 meseci rada sa nama, zaposlio je jo� 4 osobe" je prica.
+Ljudi pamte price, ne specifikacije. "Podigli smo prodaju za 40%" je podatak. "Marko je imao 3 zaposlena i razmiï¿½ljao da zatvori firmu. Posle 6 meseci rada sa nama, zaposlio je joï¿½ 4 osobe" je prica.
 
-## Prakticni koraci za brending bez velikog bud�eta
+## Prakticni koraci za brending bez velikog budï¿½eta
 
-- **Napi�ite "O nama" stranicu koja zapravo govori ne�to.** Ne korporativni �argon, vec pravu pricu o tome za�to ste poceli i kome poma�ete.
-- **Izaberite 3-5 vizuelnih elemenata** i dr�ite ih se: paleta boja, font, stil fotografija, stil ikonica.
-- **Kreirajte "brand voice" dokument:** 10-15 pravila o tome kako komunicirate. �ta ka�ete a �ta ne. Koji su va�i izrazi a koji nisu.
+- **Napiï¿½ite "O nama" stranicu koja zapravo govori neï¿½to.** Ne korporativni ï¿½argon, vec pravu pricu o tome zaï¿½to ste poceli i kome pomaï¿½ete.
+- **Izaberite 3-5 vizuelnih elemenata** i drï¿½ite ih se: paleta boja, font, stil fotografija, stil ikonica.
+- **Kreirajte "brand voice" dokument:** 10-15 pravila o tome kako komunicirate. ï¿½ta kaï¿½ete a ï¿½ta ne. Koji su vaï¿½i izrazi a koji nisu.
 - **Budite prisutni redovno.** Brend koji se pojavi jednom mesecno ne postoji u glavama ljudi.
 
-Saznajte vi�e o na�em [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
+Saznajte viï¿½e o naï¿½em [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
 
-Takode preporucujemo: [Social proof: kako koristiti recenzije za vi�e prodaje](/blog/social-proof-recenzije-za-vise-prodaje).
+Takode preporucujemo: [Social proof: kako koristiti recenzije za viï¿½e prodaje](/blog/social-proof-recenzije-za-vise-prodaje).
 
 ---
 
-�elite pomoc da izgradite brend koji se pamti? [Javite nam se](/kontakt) i definisacemo va�u poziciju na tr�i�tu.
+ï¿½elite pomoc da izgradite brend koji se pamti? [Javite nam se](/kontakt) i definisacemo vaï¿½u poziciju na trï¿½iï¿½tu.
 `,
   },
   {
     slug: 'video-marketing-zasto-video-dominira',
-    title: 'Video marketing: za�to video dominira i kako poceti',
-    excerpt: 'Video cini 82% internet saobracaja. Firme koje ne koriste video gube pa�nju publike pre prvog kontakta sa ponudom i ostaju korak iza konkurencije.',
+    title: 'Video marketing: zaï¿½to video dominira i kako poceti',
+    excerpt: 'Video cini 82% internet saobracaja. Firme koje ne koriste video gube paï¿½nju publike pre prvog kontakta sa ponudom i ostaju korak iza konkurencije.',
     date: '2026-02-21',
     category: 'Marketing',
     readTime: '5 min',
     content: `
-## Brojevi koji obja�njavaju sve
+## Brojevi koji objaï¿½njavaju sve
 
-Video cini 82% ukupnog internet saobracaja. Korisnici provode 88% vi�e vremena na sajtovima koji imaju video. Landing stranice sa video-om konvertuju 86% bolje.
+Video cini 82% ukupnog internet saobracaja. Korisnici provode 88% viï¿½e vremena na sajtovima koji imaju video. Landing stranice sa video-om konvertuju 86% bolje.
 
-Ovo nije trend. Ovo je promena u tome kako ljudi konzumiraju informacije. Tekst zahteva napor. Video se konzumira pasivno. U svetu gde je pa�nja najredi resurs, format koji zahteva najmanje napora pobeduje.
+Ovo nije trend. Ovo je promena u tome kako ljudi konzumiraju informacije. Tekst zahteva napor. Video se konzumira pasivno. U svetu gde je paï¿½nja najredi resurs, format koji zahteva najmanje napora pobeduje.
 
 ## Koji tipovi videa rade za biznise
 
-### 1. Obja�njavajuci video (Explainer)
+### 1. Objaï¿½njavajuci video (Explainer)
 
-60-90 sekundi. Obja�njava �ta firma radi, za koga i za�to. Idealno za pocetnu stranicu sajta. Posetilac koji pogleda explainer video je 1.8x spremniji da kupi.
+60-90 sekundi. Objaï¿½njava ï¿½ta firma radi, za koga i zaï¿½to. Idealno za pocetnu stranicu sajta. Posetilac koji pogleda explainer video je 1.8x spremniji da kupi.
 
 ### 2. Testimonijali klijenata
 
 Klijent prica o svom iskustvu. Autenticno, bez skripta (ili sa minimalom). Ovo je social proof u najmocnijem formatu. Klijent govori, buduci kupac veruje.
 
-### 3. Kratki format za dru�tvene mre�e
+### 3. Kratki format za druï¿½tvene mreï¿½e
 
-Reels, TikTok, YouTube Shorts. 15-60 sekundi. Saveti, behind the scenes, brza obja�njenja. Organski doseg kratkog video formata je 3-5x veci od slika i teksta.
+Reels, TikTok, YouTube Shorts. 15-60 sekundi. Saveti, behind the scenes, brza objaï¿½njenja. Organski doseg kratkog video formata je 3-5x veci od slika i teksta.
 
-### 4. Du�i edukativni sadr�aj
+### 4. Duï¿½i edukativni sadrï¿½aj
 
-YouTube video od 10-20 minuta. Detaljno obja�njenje teme. Gradi autoritet i privlaci publiku koja aktivno tra�i re�enja. YouTube je drugi najveci pretra�ivac na svetu.
+YouTube video od 10-20 minuta. Detaljno objaï¿½njenje teme. Gradi autoritet i privlaci publiku koja aktivno traï¿½i reï¿½enja. YouTube je drugi najveci pretraï¿½ivac na svetu.
 
-> Ne trebate produkcijski tim i studio. Telefon, prirodno svetlo i dobar sadr�aj su dovoljni za pocetak. Autenticnost pobeduje produkciju.
+> Ne trebate produkcijski tim i studio. Telefon, prirodno svetlo i dobar sadrï¿½aj su dovoljni za pocetak. Autenticnost pobeduje produkciju.
 
 ## Kako poceti sa video marketingom
 
 ### Za firme bez iskustva
 
-1. **Pocnite sa telefonom.** iPhone ili bilo koji noviji Android snima dovoljno dobar video za dru�tvene mre�e.
+1. **Pocnite sa telefonom.** iPhone ili bilo koji noviji Android snima dovoljno dobar video za druï¿½tvene mreï¿½e.
 2. **Prirodno svetlo.** Stanite pored prozora. Bolje nego 90% studijskog osvetljenja.
-3. **Govorite o onome �to znate.** Odgovarajte na pitanja koja vam klijenti najce�ce postavljaju.
-4. **Kratko.** Pocnite sa 30-60 sekundi. Savladajte format pre nego �to se upustite u du�e sadr�aje.
+3. **Govorite o onome ï¿½to znate.** Odgovarajte na pitanja koja vam klijenti najceï¿½ce postavljaju.
+4. **Kratko.** Pocnite sa 30-60 sekundi. Savladajte format pre nego ï¿½to se upustite u duï¿½e sadrï¿½aje.
 
-### Za firme sa bud�etom
+### Za firme sa budï¿½etom
 
-1. **Profesionalni explainer video** za sajt (1.000-3.000�, koristi se godinama).
-2. **Mesecna produkcija kratkog sadr�aja** (4-8 kratkih videa mesecno za dru�tvene mre�e).
-3. **YouTube kanal** sa nedeljnim edukativnim sadr�ajem (zahteva konzistentnost, ali gradi dugorocnu imovinu).
+1. **Profesionalni explainer video** za sajt (1.000-3.000ï¿½, koristi se godinama).
+2. **Mesecna produkcija kratkog sadrï¿½aja** (4-8 kratkih videa mesecno za druï¿½tvene mreï¿½e).
+3. **YouTube kanal** sa nedeljnim edukativnim sadrï¿½ajem (zahteva konzistentnost, ali gradi dugorocnu imovinu).
 
 ## Gde objavljivati
 
-- **YouTube:** za du�i sadr�aj i SEO (video se rangira na Google-u)
+- **YouTube:** za duï¿½i sadrï¿½aj i SEO (video se rangira na Google-u)
 - **Instagram Reels / TikTok:** za kratki format i doseg
-- **LinkedIn:** za B2B sadr�aj (video na LinkedIn-u ima 5x veci engagement od teksta)
+- **LinkedIn:** za B2B sadrï¿½aj (video na LinkedIn-u ima 5x veci engagement od teksta)
 - **Sajt:** explainer na pocetnoj, testimonijali na stranicama usluga
 
-Saznajte kako [upravljamo dru�tvenim mre�ama](/drustvene-mreze) za firme koje �ele rezultate, ne samo pratioce.
+Saznajte kako [upravljamo druï¿½tvenim mreï¿½ama](/drustvene-mreze) za firme koje ï¿½ele rezultate, ne samo pratioce.
 
-Takode preporucujemo: [Za�to je UGC buducnost oglasa (i kako ga koristiti)](/blog/ugc-buducnost-oglasa).
+Takode preporucujemo: [Zaï¿½to je UGC buducnost oglasa (i kako ga koristiti)](/blog/ugc-buducnost-oglasa).
 
 ---
 
-�elite da pokrenete video marketing za va� biznis? [Javite nam se](/kontakt) i napravicemo vam plan.
+ï¿½elite da pokrenete video marketing za vaï¿½ biznis? [Javite nam se](/kontakt) i napravicemo vam plan.
 `,
   },
   {
     slug: 'seo-vs-ppc-sta-je-bolje-za-dugorocni-rast',
-    title: 'SEO vs PPC: �ta je bolje za dugorocni rast',
-    excerpt: 'SEO je maraton, PPC je sprint. Za vecinu firmi najbolji rast dolazi iz pametne kombinacije oba kanala, uz jasan plan bud�eta i ciljeva.',
+    title: 'SEO vs PPC: ï¿½ta je bolje za dugorocni rast',
+    excerpt: 'SEO je maraton, PPC je sprint. Za vecinu firmi najbolji rast dolazi iz pametne kombinacije oba kanala, uz jasan plan budï¿½eta i ciljeva.',
     date: '2026-02-21',
     category: 'SEO',
     readTime: '6 min',
     content: `
 ## Razlika u jednoj recenici
 
-SEO: gradite imovinu koja donosi saobracaj besplatno, ali zahteva vreme. PPC: kupujete saobracaj odmah, ali placate za svaki klik. Oba rade. Pitanje je koji je pravi za va�u situaciju.
+SEO: gradite imovinu koja donosi saobracaj besplatno, ali zahteva vreme. PPC: kupujete saobracaj odmah, ali placate za svaki klik. Oba rade. Pitanje je koji je pravi za vaï¿½u situaciju.
 
 ## Prednosti SEO-a
 
-**Compound efekat.** Blog post koji se rangira na Google-u donosi saobracaj mesecima i godinama bez dodatnog tro�ka. Firma sa 100 rangiranih stranica dobija hiljade posetilaca mesecno besplatno.
+**Compound efekat.** Blog post koji se rangira na Google-u donosi saobracaj mesecima i godinama bez dodatnog troï¿½ka. Firma sa 100 rangiranih stranica dobija hiljade posetilaca mesecno besplatno.
 
-**Poverenje.** Organski rezultati dobijaju 70% klikova. Placeni 30%. Ljudi instinktivno vi�e veruju organskim rezultatima.
+**Poverenje.** Organski rezultati dobijaju 70% klikova. Placeni 30%. Ljudi instinktivno viï¿½e veruju organskim rezultatima.
 
-**Ni�i dugorocni tro�ak.** Pocetna investicija u SEO je veca, ali mesecni tro�ak opada kako se sadr�aj akumulira. PPC tro�ak ostaje konstantan ili raste.
+**Niï¿½i dugorocni troï¿½ak.** Pocetna investicija u SEO je veca, ali mesecni troï¿½ak opada kako se sadrï¿½aj akumulira. PPC troï¿½ak ostaje konstantan ili raste.
 
 ## Prednosti PPC-a
 
 **Brzina.** SEO zahteva 3-6 meseci za rezultate. PPC daje rezultate za 24-48 sati. Ako trebate klijente SADA, PPC je jedini odgovor.
 
-**Preciznost.** Mo�ete ciljati tacno koga �elite: lokaciju, demografiju, interesovanja, pa cak i ljude koji su posetili va� sajt. SEO nema tu preciznost.
+**Preciznost.** Moï¿½ete ciljati tacno koga ï¿½elite: lokaciju, demografiju, interesovanja, pa cak i ljude koji su posetili vaï¿½ sajt. SEO nema tu preciznost.
 
-**Predvidljivost.** Kad znate da vam svaki klik ko�ta X i konvertuje Y%, mo�ete precizno predvideti rezultate na osnovu bud�eta.
+**Predvidljivost.** Kad znate da vam svaki klik koï¿½ta X i konvertuje Y%, moï¿½ete precizno predvideti rezultate na osnovu budï¿½eta.
 
-**Testiranje.** PPC je idealan za testiranje poruka, ponuda i stranica pre nego �to investirate u dugorocan SEO sadr�aj.
+**Testiranje.** PPC je idealan za testiranje poruka, ponuda i stranica pre nego ï¿½to investirate u dugorocan SEO sadrï¿½aj.
 
-> SEO je �tedni racun koji raste sa kamatom. PPC je bankomat koji daje ke� odmah. Pametne firme koriste oba.
+> SEO je ï¿½tedni racun koji raste sa kamatom. PPC je bankomat koji daje keï¿½ odmah. Pametne firme koriste oba.
 
 ## Kad SEO radi bolje
 
-- Dugorocni biznis sa stabilnim tr�i�tem
+- Dugorocni biznis sa stabilnim trï¿½iï¿½tem
 - Industrije sa skupim klikovima (advokati, osiguranje, finansije)
 - Firme koje mogu da cekaju 3-6 meseci za rezultate
 - Lokalni biznisi (lokalni SEO + Google Business = besplatan saobracaj)
@@ -3965,106 +4192,106 @@ SEO: gradite imovinu koja donosi saobracaj besplatno, ali zahteva vreme. PPC: ku
 
 - Lansiranje novog proizvoda ili usluge
 - Sezonski biznisi (nemate 6 meseci za SEO pred sezonu)
-- Testiranje novog tr�i�ta ili ponude
+- Testiranje novog trï¿½iï¿½ta ili ponude
 - Kad trebate rezultate odmah (nov biznis, cash flow problem)
 
 ## Kombinacija koja pobeduje
 
-Najuspe�nije firme koriste oba kanala zajedno:
+Najuspeï¿½nije firme koriste oba kanala zajedno:
 
-**Faza 1 (mesec 1-3):** PPC za brze rezultate + pocnite sa SEO sadr�ajem.
+**Faza 1 (mesec 1-3):** PPC za brze rezultate + pocnite sa SEO sadrï¿½ajem.
 **Faza 2 (mesec 3-6):** PPC nastavlja da donosi lead-ove. SEO pocinje da se rangira.
-**Faza 3 (mesec 6+):** SEO preuzima deo saobracaja. PPC bud�et se smanjuje ili preusmerava na retargeting.
+**Faza 3 (mesec 6+):** SEO preuzima deo saobracaja. PPC budï¿½et se smanjuje ili preusmerava na retargeting.
 
-Rezultat: u mesecu 12, firma dobija 40-50% saobracaja besplatno (SEO) i 50-60% placeno (PPC), ali ukupan tro�ak po lead-u je 30-40% ni�i jer organski saobracaj ne ko�ta ni�ta.
+Rezultat: u mesecu 12, firma dobija 40-50% saobracaja besplatno (SEO) i 50-60% placeno (PPC), ali ukupan troï¿½ak po lead-u je 30-40% niï¿½i jer organski saobracaj ne koï¿½ta niï¿½ta.
 
 ## Koliko investirati
 
-Za firmu sa bud�etom od 2.000� mesecno za marketing:
+Za firmu sa budï¿½etom od 2.000ï¿½ mesecno za marketing:
 
-**Samo PPC pristup:** 2.000� na oglase ? ~80 klikova mesecno ? 3-5 konverzija ? 400-700� po kupcu.
+**Samo PPC pristup:** 2.000ï¿½ na oglase ? ~80 klikova mesecno ? 3-5 konverzija ? 400-700ï¿½ po kupcu.
 
-**Kombinovani pristup:** 1.000� PPC + 1.000� SEO ? 40 klikova iz PPC + rastuci organski saobracaj ? mesec 6: isti broj konverzija za 60% cene.
+**Kombinovani pristup:** 1.000ï¿½ PPC + 1.000ï¿½ SEO ? 40 klikova iz PPC + rastuci organski saobracaj ? mesec 6: isti broj konverzija za 60% cene.
 
-Pogledajte kako [na� SEO pristup](/digitalni-marketing) poma�e klijentima da se pojave prvi na pretrazi.
+Pogledajte kako [naï¿½ SEO pristup](/digitalni-marketing) pomaï¿½e klijentima da se pojave prvi na pretrazi.
 
 Ako planirate placeni kanal, pogledajte i [Google reklame cena](/google-reklame-cena) i [Instagram reklame cena](/instagram-reklame-cena).
 
-Takode preporucujemo: [Lokalni SEO: kako se pojaviti prvi kad neko pretra�i u va�em gradu](/blog/lokalni-seo-kako-se-pojaviti-prvi).
+Takode preporucujemo: [Lokalni SEO: kako se pojaviti prvi kad neko pretraï¿½i u vaï¿½em gradu](/blog/lokalni-seo-kako-se-pojaviti-prvi).
 
 ---
 
-Niste sigurni gde da ula�ete? [Javite nam se](/kontakt) i napravicemo vam plan koji kombinuje najbolje od oba sveta.
+Niste sigurni gde da ulaï¿½ete? [Javite nam se](/kontakt) i napravicemo vam plan koji kombinuje najbolje od oba sveta.
 `,
   },
   {
     slug: 'psihologija-zaradjivanja-mentalni-blokovi',
     title: 'Psihologija zaradivanja: mentalni blokovi koji koce rast firme',
-    excerpt: 'Najveca prepreka rastu cesto nije tr�i�te, vec nacin razmi�ljanja vlasnika firme. Evo koji mentalni blokovi koce zaradu i kako da ih razbijete.',
+    excerpt: 'Najveca prepreka rastu cesto nije trï¿½iï¿½te, vec nacin razmiï¿½ljanja vlasnika firme. Evo koji mentalni blokovi koce zaradu i kako da ih razbijete.',
     date: '2026-02-20',
     category: 'Biznis',
     readTime: '7 min',
     content: `
 ## Nevidljivi plafoni
 
-Postoji razlog za�to neke firme godinama zaraduju isto. Vlasnik je pametan, tr�i�te postoji, proizvod je dobar. Ali rast se ne de�ava. Ne zato �to ne�to ne radi, vec zato �to vlasnik nesvesno koci sopstveni rast.
+Postoji razlog zaï¿½to neke firme godinama zaraduju isto. Vlasnik je pametan, trï¿½iï¿½te postoji, proizvod je dobar. Ali rast se ne deï¿½ava. Ne zato ï¿½to neï¿½to ne radi, vec zato ï¿½to vlasnik nesvesno koci sopstveni rast.
 
-Ovi mentalni blokovi nisu ocigledni. Niko ne ka�e sebi "odlucio sam da zaradim manje nego �to mogu." Ali pona�anje govori drugacije.
+Ovi mentalni blokovi nisu ocigledni. Niko ne kaï¿½e sebi "odlucio sam da zaradim manje nego ï¿½to mogu." Ali ponaï¿½anje govori drugacije.
 
 ## Blok 1: Strah od naplacivanja pune cene
 
-Vecina vlasnika malih firmi naplacuje manje nego �to bi trebalo. Ne zato �to ne znaju svoju vrednost, vec zato �to im je neprijatno da ka�u vecu cifru.
+Vecina vlasnika malih firmi naplacuje manje nego ï¿½to bi trebalo. Ne zato ï¿½to ne znaju svoju vrednost, vec zato ï¿½to im je neprijatno da kaï¿½u vecu cifru.
 
-Simptomi: sni�avate cenu pre nego �to klijent uop�te pita za popust. Radite besplatne dodatne usluge "jer ste vec tu." Izbegavate razgovor o podizanju cena sa postojecim klijentima.
+Simptomi: sniï¿½avate cenu pre nego ï¿½to klijent uopï¿½te pita za popust. Radite besplatne dodatne usluge "jer ste vec tu." Izbegavate razgovor o podizanju cena sa postojecim klijentima.
 
-Realnost: klijenti koji placaju vi�e su obicno bolji klijenti. Vi�e po�tuju va�e vreme, manje se �ale i du�e ostaju. Ni�a cena ne privlaci "bolje" klijente. Privlaci klijente koji kupuju na osnovu cene.
+Realnost: klijenti koji placaju viï¿½e su obicno bolji klijenti. Viï¿½e poï¿½tuju vaï¿½e vreme, manje se ï¿½ale i duï¿½e ostaju. Niï¿½a cena ne privlaci "bolje" klijente. Privlaci klijente koji kupuju na osnovu cene.
 
-> Cena koju naplacujete je poruka tr�i�tu o va�oj vrednosti. Niska cena ne govori "pristupacan." Govori "nisam siguran da vredi vi�e."
+> Cena koju naplacujete je poruka trï¿½iï¿½tu o vaï¿½oj vrednosti. Niska cena ne govori "pristupacan." Govori "nisam siguran da vredi viï¿½e."
 
 ## Blok 2: Identitet vezan za naporan rad
 
 Neki vlasnici su ponosni na to koliko naporno rade. 70 sati nedeljno, bez odmora, sve rade sami. Ovo izgleda kao posvecenost ali je zapravo zamka.
 
-Kad je va� identitet vezan za "koliko radite," delegiranje se oseca kao gubitak. Automatizacija se oseca kao lenjost. A upravo delegiranje i automatizacija su ono �to omogucava rast.
+Kad je vaï¿½ identitet vezan za "koliko radite," delegiranje se oseca kao gubitak. Automatizacija se oseca kao lenjost. A upravo delegiranje i automatizacija su ono ï¿½to omogucava rast.
 
 Firme koje rastu su one ciji vlasnici mere uspeh rezultatima, ne satima rada.
 
 ## Blok 3: Perfekcionizam koji koci akciju
 
-"Sajt nije spreman." "Oglas treba jo� malo dorade." "Ponuda mora biti savr�ena pre nego �to je po�aljemo."
+"Sajt nije spreman." "Oglas treba joï¿½ malo dorade." "Ponuda mora biti savrï¿½ena pre nego ï¿½to je poï¿½aljemo."
 
-Perfekcionizam maskiran kao kvalitet je jedan od najskupljih blokova. Dok vi doteruujete detalje, konkurencija lansira ne�to "dovoljno dobro" i hvata klijente.
+Perfekcionizam maskiran kao kvalitet je jedan od najskupljih blokova. Dok vi doteruujete detalje, konkurencija lansira neï¿½to "dovoljno dobro" i hvata klijente.
 
-80% kvaliteta danas vredi vi�e od 100% kvaliteta za 3 meseca. Tr�i�te nagraduje brzinu, ne savr�enstvo.
+80% kvaliteta danas vredi viï¿½e od 100% kvaliteta za 3 meseca. Trï¿½iï¿½te nagraduje brzinu, ne savrï¿½enstvo.
 
-## Blok 4: Poredenje sa pogre�nim ljudima
+## Blok 4: Poredenje sa pogreï¿½nim ljudima
 
-Gledate firmu koja zaraduje 10x vi�e od vas i mislite: "Nikad necu stici do tog nivoa." Ili gledate firmu koja je tek pocela i mislite: "Bar sam bolji od njih."
+Gledate firmu koja zaraduje 10x viï¿½e od vas i mislite: "Nikad necu stici do tog nivoa." Ili gledate firmu koja je tek pocela i mislite: "Bar sam bolji od njih."
 
 Oba poredenja su destruktivna. Jedino relevantno poredenje je vi danas vs vi pre 6 meseci. Napredujete li? Ako da, sve ostalo je nebitno.
 
-## Blok 5: Verovanje da zaradivanje vi�e zahteva mnogo vi�e rada
+## Blok 5: Verovanje da zaradivanje viï¿½e zahteva mnogo viï¿½e rada
 
-Ovo je mo�da najrasprostranjeniji blok. Firma zaraduje 5.000� mesecno i vlasnik misli: "Da bih zaradivao 50.000, morao bih da radim 10x vi�e."
+Ovo je moï¿½da najrasprostranjeniji blok. Firma zaraduje 5.000ï¿½ mesecno i vlasnik misli: "Da bih zaradivao 50.000, morao bih da radim 10x viï¿½e."
 
-U praksi, skok sa 5K na 50K retko zahteva 10x vi�e rada. Obicno zahteva:
-- Bolju ponudu (ne vi�e rada, vec vredniji rad)
+U praksi, skok sa 5K na 50K retko zahteva 10x viï¿½e rada. Obicno zahteva:
+- Bolju ponudu (ne viï¿½e rada, vec vredniji rad)
 - Skuplju cenu (ista usluga, bolje pozicionirana)
-- Sistem koji skalira (jedan zaposleni mo�e opslu�ivati 10 klijenata umesto vi jednog)
+- Sistem koji skalira (jedan zaposleni moï¿½e opsluï¿½ivati 10 klijenata umesto vi jednog)
 
-Razlika izmedu 5K i 50K nije u kolicini posla. Razlika je u tome �TA radite i za KOLIKO to naplacujete.
+Razlika izmedu 5K i 50K nije u kolicini posla. Razlika je u tome ï¿½TA radite i za KOLIKO to naplacujete.
 
 ## Kako se osloboditi ovih blokova
 
-Nema magicnog re�enja. Ali ima konkretnih koraka:
+Nema magicnog reï¿½enja. Ali ima konkretnih koraka:
 
-1. **Podignite cenu za 20% sledecem klijentu.** Samo da vidite �ta se de�ava. U 80% slucajeva, ni�ta lo�e.
-2. **Delegirajte jednu stvar ove nedelje.** Bilo �ta. Administrativni zadatak, operativni posao, bilo �ta �to ne zahteva vas licno.
-3. **Lansirajte ne�to nedovr�eno.** Blog post, ponuda, kampanja. Pustite da tr�i�te vam ka�e �ta treba da popravite umesto da pogadate sami.
+1. **Podignite cenu za 20% sledecem klijentu.** Samo da vidite ï¿½ta se deï¿½ava. U 80% slucajeva, niï¿½ta loï¿½e.
+2. **Delegirajte jednu stvar ove nedelje.** Bilo ï¿½ta. Administrativni zadatak, operativni posao, bilo ï¿½ta ï¿½to ne zahteva vas licno.
+3. **Lansirajte neï¿½to nedovrï¿½eno.** Blog post, ponuda, kampanja. Pustite da trï¿½iï¿½te vam kaï¿½e ï¿½ta treba da popravite umesto da pogadate sami.
 
-Ako �elite strukturiran pogled na va� biznis, pogledajte na� [consulting program](/consulting).
+Ako ï¿½elite strukturiran pogled na vaï¿½ biznis, pogledajte naï¿½ [consulting program](/consulting).
 
-Takode preporucujemo: [Anatomija neodoljive ponude: za�to vecina firmi prodaje pogre�no](/blog/ponuda-koju-niko-ne-moze-da-odbije).
+Takode preporucujemo: [Anatomija neodoljive ponude: zaï¿½to vecina firmi prodaje pogreï¿½no](/blog/ponuda-koju-niko-ne-moze-da-odbije).
 
 ---
 
@@ -4074,38 +4301,38 @@ Prepoznajete li neke od ovih blokova? [Javite nam se](/kontakt) i napravicemo pl
   {
     slug: 'komunikacija-u-prodaji-kako-napisati-ponudu',
     title: 'Komunikacija u prodaji: kako napisati ponudu koja zatvara',
-    excerpt: 'Ponude koje se �alju i zaborave vs ponude nakon kojih klijent pita "Kad mo�emo da pocnemo?" Razlika je u strukturi.',
+    excerpt: 'Ponude koje se ï¿½alju i zaborave vs ponude nakon kojih klijent pita "Kad moï¿½emo da pocnemo?" Razlika je u strukturi.',
     date: '2026-02-20',
     category: 'Biznis',
     readTime: '6 min',
     content: `
-## Za�to vecina ponuda zavr�i u korpi za smece
+## Zaï¿½to vecina ponuda zavrï¿½i u korpi za smece
 
 Prosecna ponuda izgleda ovako: zaglavlje firme, lista usluga, tabela sa cenama, potpis. Klijent je procita za 30 sekundi, uporedi cenu sa konkurencijom i izabere jeftinijeg.
 
-Problem nije u ceni. Problem je u tome �to ponuda ne komunicira vrednost. Kad je jedina informacija lista usluga i cena, jedini kriterijum za odluku je cena.
+Problem nije u ceni. Problem je u tome ï¿½to ponuda ne komunicira vrednost. Kad je jedina informacija lista usluga i cena, jedini kriterijum za odluku je cena.
 
 ## Struktura ponude koja zatvara
 
-### 1. Pocnite sa problemom klijenta, ne sa va�im uslugama
+### 1. Pocnite sa problemom klijenta, ne sa vaï¿½im uslugama
 
-Prvih 3-5 recenica ponude treba da poka�u da razumete situaciju klijenta. Ne genericki, vec specificno.
+Prvih 3-5 recenica ponude treba da pokaï¿½u da razumete situaciju klijenta. Ne genericki, vec specificno.
 
-Lo�e: "Nudimo usluge digitalnog marketinga za va� biznis."
+Loï¿½e: "Nudimo usluge digitalnog marketinga za vaï¿½ biznis."
 
-Dobro: "Va�a firma trenutno dobija oko 200 poseta mesecno na sajtu, od kojih se 3-4 konvertuju u upit. Sa 20.000 pretplata na Instagram-u, organski doseg je pao na ispod 2%. Imate publiku ali nemate sistem koji je pretvara u klijente."
+Dobro: "Vaï¿½a firma trenutno dobija oko 200 poseta mesecno na sajtu, od kojih se 3-4 konvertuju u upit. Sa 20.000 pretplata na Instagram-u, organski doseg je pao na ispod 2%. Imate publiku ali nemate sistem koji je pretvara u klijente."
 
-Kad klijent procita ovo, razmi�lja: "Ovi ljudi razumeju moj problem." To je temelj za sve ostalo.
+Kad klijent procita ovo, razmiï¿½lja: "Ovi ljudi razumeju moj problem." To je temelj za sve ostalo.
 
-### 2. Poka�ite �eleni rezultat pre nego �to objasnite kako
+### 2. Pokaï¿½ite ï¿½eleni rezultat pre nego ï¿½to objasnite kako
 
-Ne zanima klijenta va� proces. Zanima ga rezultat.
+Ne zanima klijenta vaï¿½ proces. Zanima ga rezultat.
 
 "Nakon 90 dana, cilj je: 800-1.200 poseta mesecno na sajtu, 15-25 kvalifikovanih upita mesecno, funkcionalan email funnel koji konvertuje 20% lead-ova u konsultacije."
 
-Sad klijent vidi �ta dobija. Cena se procenjuje u kontekstu rezultata, ne u vakuumu.
+Sad klijent vidi ï¿½ta dobija. Cena se procenjuje u kontekstu rezultata, ne u vakuumu.
 
-> Klijent ne kupuje va�u uslugu. Kupac kupuje buducnost u kojoj je njegov problem re�en.
+> Klijent ne kupuje vaï¿½u uslugu. Kupac kupuje buducnost u kojoj je njegov problem reï¿½en.
 
 ### 3. Objasnite proces u 3-5 koraka
 
@@ -4117,167 +4344,167 @@ Jednostavno, jasno i pokazuje da ovo nije improvizacija.
 
 ### 4. Prezentujte cenu kao investiciju sa ROI-om
 
-Ne: "Cena: 1.500� mesecno"
+Ne: "Cena: 1.500ï¿½ mesecno"
 
-Da: "Investicija: 1.500� mesecno. Na osnovu prosecnih rezultata u va�oj industriji, ocekivani povrat je 5-8 novih klijenata mesecno sa prosecnom vredno�cu od 500�, �to je 2.500-4.000� novog prihoda mesecno."
+Da: "Investicija: 1.500ï¿½ mesecno. Na osnovu prosecnih rezultata u vaï¿½oj industriji, ocekivani povrat je 5-8 novih klijenata mesecno sa prosecnom vrednoï¿½cu od 500ï¿½, ï¿½to je 2.500-4.000ï¿½ novog prihoda mesecno."
 
-Sad 1.500� nije tro�ak. To je investicija sa 2-3x povratom.
+Sad 1.500ï¿½ nije troï¿½ak. To je investicija sa 2-3x povratom.
 
-### 5. Elimini�ite rizik
+### 5. Eliminiï¿½ite rizik
 
 Dodajte garanciju ili uslov koji smanjuje rizik za klijenta:
 
-"Ako u prvih 60 dana ne vidite merljivo pobolj�anje u broju upita, produ�avamo rad besplatno do kraja kvartala."
+"Ako u prvih 60 dana ne vidite merljivo poboljï¿½anje u broju upita, produï¿½avamo rad besplatno do kraja kvartala."
 
-Ovo pokazuje da verujete u svoj rad. Klijent koji vidi da agencija preuzima deo rizika na sebe mnogo lak�e donosi odluku.
+Ovo pokazuje da verujete u svoj rad. Klijent koji vidi da agencija preuzima deo rizika na sebe mnogo lakï¿½e donosi odluku.
 
-### 6. Zavr�ite sa jasnim sledecim korakom
+### 6. Zavrï¿½ite sa jasnim sledecim korakom
 
 Ne: "Javite nam se ako imate pitanja."
 
-Da: "Sledeci korak: zakazujemo 30-minutni poziv u cetvrtak u 11h gde prolazimo kroz detalje i odgovaramo na pitanja. Ako vam odgovara, odgovorite sa potvrdom i po�aljemo calendar invite."
+Da: "Sledeci korak: zakazujemo 30-minutni poziv u cetvrtak u 11h gde prolazimo kroz detalje i odgovaramo na pitanja. Ako vam odgovara, odgovorite sa potvrdom i poï¿½aljemo calendar invite."
 
 Konkretan, vremenski definisan sledeci korak. Nema nejasnoce.
 
-Ako �elite strukturiran pogled na va� biznis, pogledajte na� [consulting program](/consulting).
+Ako ï¿½elite strukturiran pogled na vaï¿½ biznis, pogledajte naï¿½ [consulting program](/consulting).
 
 Takode preporucujemo: [Kako napisati ponudu koja zatvara posao za 24 sata](/blog/kako-napisati-ponudu-koja-zatvara-posao).
 
 ---
 
-�elite pomoc da napravite ponudu koja zatvara klijente? [Javite nam se](/kontakt).
+ï¿½elite pomoc da napravite ponudu koja zatvara klijente? [Javite nam se](/kontakt).
 `,
   },
   {
     slug: 'kako-izabrati-pravu-marketing-agenciju',
     title: 'Kako izabrati pravu marketing agenciju (i ne baciti novac)',
-    excerpt: 'Tr�i�te je puno agencija koje obecavaju rezultate. Evo 7 znakova koji razlikuju agencije koje isporucuju od onih koje pricaju.',
+    excerpt: 'Trï¿½iï¿½te je puno agencija koje obecavaju rezultate. Evo 7 znakova koji razlikuju agencije koje isporucuju od onih koje pricaju.',
     date: '2026-02-20',
     category: 'Marketing',
     readTime: '6 min',
     content: `
-## Za�to je izbor agencije toliko te�ak
+## Zaï¿½to je izbor agencije toliko teï¿½ak
 
-Svaka agencija ka�e isto: "Mi smo drugaciji." "Mi donosimo rezultate." "Mi razumemo va� biznis." Problem je �to to ka�u i dobre i lo�e agencije. A razliku vidite tek kad potro�ite 3-6 meseci i nekoliko hiljada evra.
+Svaka agencija kaï¿½e isto: "Mi smo drugaciji." "Mi donosimo rezultate." "Mi razumemo vaï¿½ biznis." Problem je ï¿½to to kaï¿½u i dobre i loï¿½e agencije. A razliku vidite tek kad potroï¿½ite 3-6 meseci i nekoliko hiljada evra.
 
-Evo 7 konkretnih znakova koji poma�u da razlikujete agenciju koja stvarno isporucuje od agencije koja samo dobro prica.
+Evo 7 konkretnih znakova koji pomaï¿½u da razlikujete agenciju koja stvarno isporucuje od agencije koja samo dobro prica.
 
-## 1. Pitaju vi�e nego �to pricaju
+## 1. Pitaju viï¿½e nego ï¿½to pricaju
 
-Dobra agencija na prvom sastanku provede 70% vremena pitajuci o va�em biznisu i 30% pricajuci o sebi. Lo�a agencija otvori prezentaciju i prica o sebi sat vremena.
+Dobra agencija na prvom sastanku provede 70% vremena pitajuci o vaï¿½em biznisu i 30% pricajuci o sebi. Loï¿½a agencija otvori prezentaciju i prica o sebi sat vremena.
 
-Razlog: agencija koja ne razume va� biznis ne mo�e da napravi dobar plan. A ne mo�e da razume va� biznis ako ne pita.
+Razlog: agencija koja ne razume vaï¿½ biznis ne moï¿½e da napravi dobar plan. A ne moï¿½e da razume vaï¿½ biznis ako ne pita.
 
-## 2. Govore konkretne brojeve, ne op�te obecanja
+## 2. Govore konkretne brojeve, ne opï¿½te obecanja
 
-Lo�e: "Povecacemo vam prisustvo na internetu."
-Dobro: "U proseku, klijenti u va�oj industriji vide 30-50% rast u broju upita u prvih 90 dana."
+Loï¿½e: "Povecacemo vam prisustvo na internetu."
+Dobro: "U proseku, klijenti u vaï¿½oj industriji vide 30-50% rast u broju upita u prvih 90 dana."
 
-Agencija koja govori konkretne brojeve ima iskustvo u va�oj industriji. Agencija koja govori op�te fraze ili nema iskustvo ili ne �eli da se obave�e.
+Agencija koja govori konkretne brojeve ima iskustvo u vaï¿½oj industriji. Agencija koja govori opï¿½te fraze ili nema iskustvo ili ne ï¿½eli da se obaveï¿½e.
 
-> Agencija koja se pla�i da pomene konkretne brojeve verovatno nema rezultate koje mo�e da poka�e.
+> Agencija koja se plaï¿½i da pomene konkretne brojeve verovatno nema rezultate koje moï¿½e da pokaï¿½e.
 
 ## 3. Imaju relevantne case studies
 
-Ne case studies sa najpoznatijim brendovima (osim ako niste najpoznatiji brend). Relevantne case studies su od firmi slicne velicine, u slicnoj industriji, sa slicnim bud�etom.
+Ne case studies sa najpoznatijim brendovima (osim ako niste najpoznatiji brend). Relevantne case studies su od firmi slicne velicine, u slicnoj industriji, sa slicnim budï¿½etom.
 
-Pitajte: "Imate li primer firme na�e velicine u na�oj industriji?" Ako je odgovor hmm, nastavljajte dalje.
+Pitajte: "Imate li primer firme naï¿½e velicine u naï¿½oj industriji?" Ako je odgovor hmm, nastavljajte dalje.
 
-## 4. Obja�njavaju proces, ne samo rezultate
+## 4. Objaï¿½njavaju proces, ne samo rezultate
 
-Agencija koja ka�e "Verujte nam, mi znamo �ta radimo" je crvena zastava. Dobra agencija mo�e da objasni tacno �ta ce raditi, za�to i kojim redosledom.
+Agencija koja kaï¿½e "Verujte nam, mi znamo ï¿½ta radimo" je crvena zastava. Dobra agencija moï¿½e da objasni tacno ï¿½ta ce raditi, zaï¿½to i kojim redosledom.
 
-Ne morate razumeti svaki tehnicki detalj. Ali morate razumeti logiku: �ta je prvi korak, �ta je drugi, kad se ocekuju prvi rezultati i kako se meri uspeh.
+Ne morate razumeti svaki tehnicki detalj. Ali morate razumeti logiku: ï¿½ta je prvi korak, ï¿½ta je drugi, kad se ocekuju prvi rezultati i kako se meri uspeh.
 
 ## 5. Ne obecavaju rezultate za 2 nedelje
 
 SEO zahteva 3-6 meseci. Content marketing 4-8 meseci. Cak i placeni oglasi trebaju 4-6 nedelja optimizacije da dostignu puni potencijal.
 
-Agencija koja obecava "rezultate odmah" ili ne razume marketing ili vas la�e. Obe opcije su lo�e.
+Agencija koja obecava "rezultate odmah" ili ne razume marketing ili vas laï¿½e. Obe opcije su loï¿½e.
 
-## 6. Transparentni su sa cenama i tro�kovima
+## 6. Transparentni su sa cenama i troï¿½kovima
 
-Lo�e: "Javicemo vam ponudu nakon �to vidimo." (i onda cekate 2 nedelje)
-Dobro: "Na�i paketi pocinju od X�. Za va�u industriju, realan bud�et je Y� mesecno ukljucujuci tro�kove oglasa."
+Loï¿½e: "Javicemo vam ponudu nakon ï¿½to vidimo." (i onda cekate 2 nedelje)
+Dobro: "Naï¿½i paketi pocinju od Xï¿½. Za vaï¿½u industriju, realan budï¿½et je Yï¿½ mesecno ukljucujuci troï¿½kove oglasa."
 
-Transparentnost u cenama je znak zrelosti. Agencija koja se boji da ka�e cenu obicno nema standardizovane pakete i improvizuje po klijentu.
+Transparentnost u cenama je znak zrelosti. Agencija koja se boji da kaï¿½e cenu obicno nema standardizovane pakete i improvizuje po klijentu.
 
 ## 7. Imaju jasno definisan ugovor
 
-�ta je ukljuceno, �ta nije, koliko traje minimum saradnja, �ta se de�ava ako niste zadovoljni, ko je vlasnik sadr�aja i naloga.
+ï¿½ta je ukljuceno, ï¿½ta nije, koliko traje minimum saradnja, ï¿½ta se deï¿½ava ako niste zadovoljni, ko je vlasnik sadrï¿½aja i naloga.
 
-Ako agencija nema pisani ugovor ili su uslovi nejasni, be�ite.
+Ako agencija nema pisani ugovor ili su uslovi nejasni, beï¿½ite.
 
 ## Bonus: crvene zastave
 
-- Garantuju prvu poziciju na Google-u (niko ne mo�e to garantovati)
-- Ne daju pristup va�im nalozima (va� novac, va�i nalozi)
-- Nemaju svoj sajt ili je sajt lo� (ako ne mogu sebi da naprave dobar sajt...)
-- �alju genericke izve�taje bez konkretnih brojeva
-- Menjaju account menad�era svakih par meseci
+- Garantuju prvu poziciju na Google-u (niko ne moï¿½e to garantovati)
+- Ne daju pristup vaï¿½im nalozima (vaï¿½ novac, vaï¿½i nalozi)
+- Nemaju svoj sajt ili je sajt loï¿½ (ako ne mogu sebi da naprave dobar sajt...)
+- ï¿½alju genericke izveï¿½taje bez konkretnih brojeva
+- Menjaju account menadï¿½era svakih par meseci
 
-Saznajte vi�e o na�em [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
+Saznajte viï¿½e o naï¿½em [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
 
-Takode preporucujemo: [Koliko zapravo ko�ta lo� marketing (skriveni tro�kovi koje niko ne pominje)](/blog/koliko-kosta-los-marketing).
+Takode preporucujemo: [Koliko zapravo koï¿½ta loï¿½ marketing (skriveni troï¿½kovi koje niko ne pominje)](/blog/koliko-kosta-los-marketing).
 
 ---
 
-Tra�ite agenciju koja ispunjava sve ove kriterijume? [Javite nam se](/kontakt) i uverite se sami.
+Traï¿½ite agenciju koja ispunjava sve ove kriterijume? [Javite nam se](/kontakt) i uverite se sami.
 `,
   },
   {
     slug: 'social-proof-recenzije-za-vise-prodaje',
-    title: 'Social proof: kako koristiti recenzije za vi�e prodaje',
+    title: 'Social proof: kako koristiti recenzije za viï¿½e prodaje',
     excerpt: '92% kupaca cita recenzije pre kupovine. Evo kako da recenzije rade za vas umesto da stoje kao ukras na sajtu i da ih ljudi jedva primete.',
     date: '2026-02-20',
     category: 'Marketing',
     readTime: '6 min',
     content: `
-## Za�to recenzije prodaju bolje od vas
+## Zaï¿½to recenzije prodaju bolje od vas
 
-Kad firma ka�e "Mi smo najbolji," niko ne veruje. Kad kupac ka�e "Oni su najbolji," svi veruju. Ovo je su�tina social proof-a i razlog za�to su recenzije najmocniji alat u marketingu.
+Kad firma kaï¿½e "Mi smo najbolji," niko ne veruje. Kad kupac kaï¿½e "Oni su najbolji," svi veruju. Ovo je suï¿½tina social proof-a i razlog zaï¿½to su recenzije najmocniji alat u marketingu.
 
-Istra�ivanje BrightLocal-a: 92% potro�aca cita online recenzije pre kupovine. 88% veruje recenzijama koliko i licnim preporukama. Firma bez recenzija je firma bez kredibiliteta u ocima modernog kupca.
+Istraï¿½ivanje BrightLocal-a: 92% potroï¿½aca cita online recenzije pre kupovine. 88% veruje recenzijama koliko i licnim preporukama. Firma bez recenzija je firma bez kredibiliteta u ocima modernog kupca.
 
 ## Pet tipova social proof-a
 
 ### 1. Recenzije kupaca
 
-Najocigledniji i najuticajniji oblik. Google recenzije, recenzije na sajtu, na Facebook-u. �to su specificnije, to su ubedljivije.
+Najocigledniji i najuticajniji oblik. Google recenzije, recenzije na sajtu, na Facebook-u. ï¿½to su specificnije, to su ubedljivije.
 
 Slaba recenzija: "Odlicna usluga, preporucujem."
 Jaka recenzija: "Posle 3 meseca rada sa njima, broj upita sa sajta je porastao sa 5 na 23 mesecno. ROI je bio 4x u prvom kvartalu."
 
 ### 2. Studije slucaja
 
-Detaljan prikaz kako ste pomogli klijentu. Problem, re�enje, rezultat. Sa brojevima, vremenskim okvirom i imenima (uz dozvolu).
+Detaljan prikaz kako ste pomogli klijentu. Problem, reï¿½enje, rezultat. Sa brojevima, vremenskim okvirom i imenima (uz dozvolu).
 
-Studija slucaja je prodajni alat koji radi 24/7 na va�em sajtu. Klijent koji razmi�lja o saradnji procita studiju slucaja i pomisli: "Ako su njima pomogli, mogu i meni."
+Studija slucaja je prodajni alat koji radi 24/7 na vaï¿½em sajtu. Klijent koji razmiï¿½lja o saradnji procita studiju slucaja i pomisli: "Ako su njima pomogli, mogu i meni."
 
 ### 3. Brojevi i statistike
 
-"500+ zadovoljnih klijenata." "15x prosecan ROAS." "97% stopa zadr�avanja klijenata." Konretni brojevi grade autoritet.
+"500+ zadovoljnih klijenata." "15x prosecan ROAS." "97% stopa zadrï¿½avanja klijenata." Konretni brojevi grade autoritet.
 
-Ali samo ako su istiniti i proverljivi. Izmi�ljeni brojevi se uvek razotkriju i tada �teta je veca nego korist.
+Ali samo ako su istiniti i proverljivi. Izmiï¿½ljeni brojevi se uvek razotkriju i tada ï¿½teta je veca nego korist.
 
-> Jedan konkretan broj vredi vi�e od sto op�tih tvrdnji. "247 klijenata u 2025." pobedi "mnogi zadovoljni klijenti" svaki put.
+> Jedan konkretan broj vredi viï¿½e od sto opï¿½tih tvrdnji. "247 klijenata u 2025." pobedi "mnogi zadovoljni klijenti" svaki put.
 
 ### 4. Logotipi klijenata
 
-Logo bar na sajtu (poznate firme sa kojima ste radili) je brz nacin da uspostavite kredibilitet. Posetilac gleda logos i razmi�lja: "Ako rade sa njima, moraju biti ozbiljni."
+Logo bar na sajtu (poznate firme sa kojima ste radili) je brz nacin da uspostavite kredibilitet. Posetilac gleda logos i razmiï¿½lja: "Ako rade sa njima, moraju biti ozbiljni."
 
 ### 5. Medijsko pojavljivanje
 
-"Kao �to je videno u Forbes, Bloomberg, N1..." Pojavljivanje u medijima daje instant autoritet. Cak i mali lokalni mediji poma�u.
+"Kao ï¿½to je videno u Forbes, Bloomberg, N1..." Pojavljivanje u medijima daje instant autoritet. Cak i mali lokalni mediji pomaï¿½u.
 
-## Kako prikupiti vi�e recenzija
+## Kako prikupiti viï¿½e recenzija
 
-Vecina zadovoljnih kupaca nikada ne ostavi recenziju. Ne zato �to ne �ele, vec zato �to ih niko ne pita.
+Vecina zadovoljnih kupaca nikada ne ostavi recenziju. Ne zato ï¿½to ne ï¿½ele, vec zato ï¿½to ih niko ne pita.
 
 Sistem koji radi:
 1. **Automatski email 3-7 dana posle isporuke.** "Kako ste zadovoljni? Ako imate minut, recenzija na Google-u nam mnogo znaci." Sa direktnim linkom na Google recenziju.
-2. **Pitajte licno nakon pozitivnog feedback-a.** Kad klijent ka�e "Super ste," odgovorite: "Hvala! Da li biste bili spremni da to napi�ete kao recenziju?"
-3. **Ucinite to lakim.** �aljite direktan link, ne "idite na Google, pretra�ite nas, kliknite..." Svaki dodatni korak smanjuje �ansu za 50%.
+2. **Pitajte licno nakon pozitivnog feedback-a.** Kad klijent kaï¿½e "Super ste," odgovorite: "Hvala! Da li biste bili spremni da to napiï¿½ete kao recenziju?"
+3. **Ucinite to lakim.** ï¿½aljite direktan link, ne "idite na Google, pretraï¿½ite nas, kliknite..." Svaki dodatni korak smanjuje ï¿½ansu za 50%.
 
 ## Gde postaviti social proof na sajtu
 
@@ -4286,126 +4513,126 @@ Sistem koji radi:
 - **Pricing stranica:** testimonijali koji pominju vrednost i ROI
 - **Kontakt stranica:** testimonijal koji pominje iskustvo saradnje
 
-Gre�ka: staviti sve recenzije na jednu stranicu "Testimonials" koju niko ne posecuje. Recenzije treba da budu tamo gde kupac donosi odluku.
+Greï¿½ka: staviti sve recenzije na jednu stranicu "Testimonials" koju niko ne posecuje. Recenzije treba da budu tamo gde kupac donosi odluku.
 
-Detaljnije o na�em [CRO procesu](/cro) i kako optimizujemo konverzije za klijente.
+Detaljnije o naï¿½em [CRO procesu](/cro) i kako optimizujemo konverzije za klijente.
 
-Takode preporucujemo: [Customer retention: za�to je jeftinije zadr�ati nego naci novog kupca](/blog/customer-retention-zadrzati-vs-naci-novog).
+Takode preporucujemo: [Customer retention: zaï¿½to je jeftinije zadrï¿½ati nego naci novog kupca](/blog/customer-retention-zadrzati-vs-naci-novog).
 
 ---
 
-�elite da vam pomognemo da izgradite sistem za prikupljanje i kori�cenje recenzija? [Javite nam se](/kontakt).
+ï¿½elite da vam pomognemo da izgradite sistem za prikupljanje i koriï¿½cenje recenzija? [Javite nam se](/kontakt).
 `,
   },
   {
     slug: 'retargeting-zasto-95-posetilaca-ne-kupi',
-    title: 'Retargeting: za�to 95% posetilaca nikad ne kupi iz prvog poku�aja',
-    excerpt: 'Placate saobracaj koji odlazi. Retargeting vraca te ljude po ceni i do 5-10x ni�oj od prvog klika i pretvara izgubljene posete u konkretne upite i prodaju.',
+    title: 'Retargeting: zaï¿½to 95% posetilaca nikad ne kupi iz prvog pokuï¿½aja',
+    excerpt: 'Placate saobracaj koji odlazi. Retargeting vraca te ljude po ceni i do 5-10x niï¿½oj od prvog klika i pretvara izgubljene posete u konkretne upite i prodaju.',
     date: '2026-02-20',
     category: 'Marketing',
     readTime: '5 min',
     content: `
 ## Brojevi koji treba da vas zabole
 
-Prosecna konverzija sajta je 2-4%. To znaci da 96-98% posetilaca ode sa va�eg sajta bez kupovine, bez upita, bez bilo kakve akcije. Ako placate Google Ads ili Facebook Ads da dovedete te ljude, bukvalno bacate novac na saobracaj koji odlazi.
+Prosecna konverzija sajta je 2-4%. To znaci da 96-98% posetilaca ode sa vaï¿½eg sajta bez kupovine, bez upita, bez bilo kakve akcije. Ako placate Google Ads ili Facebook Ads da dovedete te ljude, bukvalno bacate novac na saobracaj koji odlazi.
 
-Ali ti ljudi nisu nezainteresovani. Kliknuli su na va� oglas. Do�li su na sajt. Pogledali su �ta nudite. Jednostavno nisu bili spremni da kupe u tom trenutku.
+Ali ti ljudi nisu nezainteresovani. Kliknuli su na vaï¿½ oglas. Doï¿½li su na sajt. Pogledali su ï¿½ta nudite. Jednostavno nisu bili spremni da kupe u tom trenutku.
 
 Retargeting ih vraca nazad.
 
 ## Kako retargeting radi
 
-Jednostavno: posetilac dode na va� sajt. Piksel (mali kod) ga oznaci. Kad taj posetilac kasnije skroluje Instagram, cita vesti ili gleda YouTube, va� oglas mu se pojavi.
+Jednostavno: posetilac dode na vaï¿½ sajt. Piksel (mali kod) ga oznaci. Kad taj posetilac kasnije skroluje Instagram, cita vesti ili gleda YouTube, vaï¿½ oglas mu se pojavi.
 
-Posetilac vas vec poznaje. Video je va� sajt, va�e proizvode, va�e cene. Drugi kontakt nije hladan. To je podsetnik.
+Posetilac vas vec poznaje. Video je vaï¿½ sajt, vaï¿½e proizvode, vaï¿½e cene. Drugi kontakt nije hladan. To je podsetnik.
 
-> Retargeting ne dovodi nove ljude. Retargeting vraca ljude koji su vec pokazali interesovanje. Zato je cena po konverziji 5-10x ni�a.
+> Retargeting ne dovodi nove ljude. Retargeting vraca ljude koji su vec pokazali interesovanje. Zato je cena po konverziji 5-10x niï¿½a.
 
 ## Tri retargeting strategije koje rade
 
 ### 1. Posetilac koji je gledao proizvod ali nije kupio
 
-Poka�ite mu tacno taj proizvod u oglasu. Sa dodatnim podsticajem: besplatna dostava, popust od 10%, limitirana ponuda.
+Pokaï¿½ite mu tacno taj proizvod u oglasu. Sa dodatnim podsticajem: besplatna dostava, popust od 10%, limitirana ponuda.
 
 Ovo je najjednostavniji i najefikasniji retargeting. Dinamicki oglas koji automatski prikazuje proizvode koje je korisnik gledao. Konverzija: 3-8x veca od hladnog oglasa.
 
 ### 2. Posetilac koji je napustio korpu
 
-70% online korpi bude napu�teno. Retargeting oglas koji podseca na proizvode u korpi sa dodatnim podsticajem vraca 10-15% tih kupaca. Za e-commerce sa 1.000 napu�tenih korpi mesecno, to je 100-150 dodatnih prodaja.
+70% online korpi bude napuï¿½teno. Retargeting oglas koji podseca na proizvode u korpi sa dodatnim podsticajem vraca 10-15% tih kupaca. Za e-commerce sa 1.000 napuï¿½tenih korpi mesecno, to je 100-150 dodatnih prodaja.
 
 ### 3. Postojeci kupci za ponovnu kupovinu
 
 Neko ko je kupio pre 30, 60 ili 90 dana vidi oglas za komplementarni proizvod ili za ponovnu kupovinu istog. Najjeftiniji tip retargetinga jer cilja ljude koji su vec platili.
 
-## Koliko ko�ta
+## Koliko koï¿½ta
 
-Retargeting je najjeftiniji oblik placenog ogla�avanja. CPM (cena za 1.000 prikaza) je 2-5x ni�i od hladnog ogla�avanja jer ciljate malu, specificnu publiku koja vas vec poznaje.
+Retargeting je najjeftiniji oblik placenog oglaï¿½avanja. CPM (cena za 1.000 prikaza) je 2-5x niï¿½i od hladnog oglaï¿½avanja jer ciljate malu, specificnu publiku koja vas vec poznaje.
 
 Za firmu sa 5.000 posetilaca mesecno na sajtu:
-- Mesecni bud�et za retargeting: 100-300�
+- Mesecni budï¿½et za retargeting: 100-300ï¿½
 - Ocekivani dodatni upiti/prodaje: 15-40 mesecno
-- Cena po konverziji: 5-15� (vs 30-80� za hladan saobracaj)
+- Cena po konverziji: 5-15ï¿½ (vs 30-80ï¿½ za hladan saobracaj)
 
-## Najce�ca gre�ka
+## Najceï¿½ca greï¿½ka
 
 Prikazivati isti oglas istim ljudima danima i nedeljama. Ovo se zove "ad fatigue" i rezultat je iritacija, ne konverzija.
 
-Re�enje: rotirajte kreative svakih 7-10 dana. Menjajte poruku, sliku i ponudu. Ogranicite frequency cap na 3-5 prikaza po osobi dnevno.
+Reï¿½enje: rotirajte kreative svakih 7-10 dana. Menjajte poruku, sliku i ponudu. Ogranicite frequency cap na 3-5 prikaza po osobi dnevno.
 
-Saznajte vi�e o na�em [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
+Saznajte viï¿½e o naï¿½em [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
 
 Takode preporucujemo: [Kako napraviti sales funnel koji radi dok vi spavate](/blog/sales-funnel-koji-radi-na-autopilotu).
 
 ---
 
-�elite da postavimo retargeting sistem za va� sajt? [Javite nam se](/kontakt) i pocnite da vracate posetioce koji odlaze.
+ï¿½elite da postavimo retargeting sistem za vaï¿½ sajt? [Javite nam se](/kontakt) i pocnite da vracate posetioce koji odlaze.
 `,
   },
   {
     slug: 'customer-retention-zadrzati-vs-naci-novog',
-    title: 'Customer retention: za�to je jeftinije zadr�ati nego naci novog kupca',
-    excerpt: 'Novi kupac ko�ta 5-7x vi�e od zadr�avanja postojeceg. Ovaj vodic pokazuje kako retention strategije povecavaju profit bez dizanja bud�eta za akviziciju.',
+    title: 'Customer retention: zaï¿½to je jeftinije zadrï¿½ati nego naci novog kupca',
+    excerpt: 'Novi kupac koï¿½ta 5-7x viï¿½e od zadrï¿½avanja postojeceg. Ovaj vodic pokazuje kako retention strategije povecavaju profit bez dizanja budï¿½eta za akviziciju.',
     date: '2026-02-20',
     category: 'Marketing',
     readTime: '6 min',
     content: `
-## Matematika koju vecina firmi ignori�e
+## Matematika koju vecina firmi ignoriï¿½e
 
-Tro�kovi akvizicije novog kupca: 5-7x skuplji od zadr�avanja postojeceg. Verovatnoca prodaje postojecem kupcu: 60-70%. Verovatnoca prodaje novom kupcu: 5-20%.
+Troï¿½kovi akvizicije novog kupca: 5-7x skuplji od zadrï¿½avanja postojeceg. Verovatnoca prodaje postojecem kupcu: 60-70%. Verovatnoca prodaje novom kupcu: 5-20%.
 
-Ovi brojevi su poznati godinama. I ipak, prosecna firma tro�i 80% marketin�kog bud�eta na privlacenje novih kupaca i 20% na zadr�avanje postojecih.
+Ovi brojevi su poznati godinama. I ipak, prosecna firma troï¿½i 80% marketinï¿½kog budï¿½eta na privlacenje novih kupaca i 20% na zadrï¿½avanje postojecih.
 
-Rezultat: konstantna trka za novim klijentima dok postojeci tiho odlaze. Zamislite kantu sa rupom na dnu. Mo�ete sipati vi�e vode (novi klijenti) ili mo�ete zakrpiti rupu (retencija). Vecina firmi bira sipanje.
+Rezultat: konstantna trka za novim klijentima dok postojeci tiho odlaze. Zamislite kantu sa rupom na dnu. Moï¿½ete sipati viï¿½e vode (novi klijenti) ili moï¿½ete zakrpiti rupu (retencija). Vecina firmi bira sipanje.
 
-## Za�to kupci odlaze
+## Zaï¿½to kupci odlaze
 
-Istra�ivanje Bain & Company pokazuje glavne razloge:
+Istraï¿½ivanje Bain & Company pokazuje glavne razloge:
 - 68% odlazi jer misle da ih firma ne ceni
 - 14% je nezadovoljno proizvodom/uslugom
 - 9% odlazi kod konkurencije
-- 5% tra�i alternative iz drugih razloga
+- 5% traï¿½i alternative iz drugih razloga
 
 Primetite: najveci razlog nije kvalitet ili cena. Najveci razlog je osecaj zanemarivanja. Klijent koji ne cuje od vas mesecima zakljucuje da vam nije bitan.
 
-> Kupci ne odlaze jer su na�li ne�to bolje. Odlaze jer su zaboravili za�to su ostali.
+> Kupci ne odlaze jer su naï¿½li neï¿½to bolje. Odlaze jer su zaboravili zaï¿½to su ostali.
 
 ## Sistem za retenciju koji radi
 
 ### 1. Redovna komunikacija
 
-Email newsletter, mesecni izve�taj, kvartalni check-in poziv. Ne prodajni, vec informativan. "Evo �ta smo uradili, evo rezultata, evo plana za sledeci period."
+Email newsletter, mesecni izveï¿½taj, kvartalni check-in poziv. Ne prodajni, vec informativan. "Evo ï¿½ta smo uradili, evo rezultata, evo plana za sledeci period."
 
-Klijent koji dobija redovne informacije oseca se ukljucenim. Klijent koji ne cuje ni�ta oseca se zanemarenim.
+Klijent koji dobija redovne informacije oseca se ukljucenim. Klijent koji ne cuje niï¿½ta oseca se zanemarenim.
 
 ### 2. Proaktivna pomoc
 
-Ne cekajte da klijent zove sa problemom. Javite se prvi. "Primetili smo da vam je saobracaj pao 10% ovog meseca. Evo �ta mislimo da je razlog i �ta predla�emo."
+Ne cekajte da klijent zove sa problemom. Javite se prvi. "Primetili smo da vam je saobracaj pao 10% ovog meseca. Evo ï¿½ta mislimo da je razlog i ï¿½ta predlaï¿½emo."
 
-Ovo je razlika izmedu reaktivne i proaktivne usluge. Reaktivna gasi po�are. Proaktivna sprecava po�are.
+Ovo je razlika izmedu reaktivne i proaktivne usluge. Reaktivna gasi poï¿½are. Proaktivna sprecava poï¿½are.
 
 ### 3. Program lojalnosti
 
-Nije komplikovano. Mo�e biti jednostavno kao: "Klijenti koji su sa nama 12+ meseci dobijaju besplatan kvartalni audit." Ili: "Za svaku preporuku koja postane klijent, dobijate mesec usluge gratis."
+Nije komplikovano. Moï¿½e biti jednostavno kao: "Klijenti koji su sa nama 12+ meseci dobijaju besplatan kvartalni audit." Ili: "Za svaku preporuku koja postane klijent, dobijate mesec usluge gratis."
 
 ### 4. Onboarding koji postavlja ocekivanja
 
@@ -4413,134 +4640,134 @@ Prvih 30 dana su kriticni. Klijent koji ne vidi rezultate ili se oseca izgubljen
 
 ## Lifetime Value formula
 
-LTV = Prosecna mesecna vrednost � Prosecan broj meseci saradnje
+LTV = Prosecna mesecna vrednost ï¿½ Prosecan broj meseci saradnje
 
 Firma sa 50 klijenata:
-- Bez retencije: prosecno 8 meseci saradnje � 1.000� = 8.000� LTV
-- Sa retencijom: prosecno 18 meseci � 1.000� = 18.000� LTV
-- Razlika: 10.000� po klijentu � 50 klijenata = 500.000�
+- Bez retencije: prosecno 8 meseci saradnje ï¿½ 1.000ï¿½ = 8.000ï¿½ LTV
+- Sa retencijom: prosecno 18 meseci ï¿½ 1.000ï¿½ = 18.000ï¿½ LTV
+- Razlika: 10.000ï¿½ po klijentu ï¿½ 50 klijenata = 500.000ï¿½
 
-Pola miliona evra razlike. Od sistema koji ko�ta nekoliko sati mesecno za implementaciju.
+Pola miliona evra razlike. Od sistema koji koï¿½ta nekoliko sati mesecno za implementaciju.
 
-## Najjednostavniji korak koji mo�ete uraditi danas
+## Najjednostavniji korak koji moï¿½ete uraditi danas
 
-Po�aljite email svakom klijentu sa kojim niste komunicirali u poslednjih 30 dana. Ne prodajni email. Jednostavno: "Zdravo, hteli smo da se javimo i proverimo kako ste. Ima li ne�to u cemu mo�emo pomoci?"
+Poï¿½aljite email svakom klijentu sa kojim niste komunicirali u poslednjih 30 dana. Ne prodajni email. Jednostavno: "Zdravo, hteli smo da se javimo i proverimo kako ste. Ima li neï¿½to u cemu moï¿½emo pomoci?"
 
-Ovaj jedan email smanjuje churn, generi�e upsell prilike i podseca klijente za�to rade sa vama.
+Ovaj jedan email smanjuje churn, generiï¿½e upsell prilike i podseca klijente zaï¿½to rade sa vama.
 
-Saznajte vi�e o na�em [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
+Saznajte viï¿½e o naï¿½em [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
 
-Takode preporucujemo: [Email marketing: za�to je email i dalje kralj konverzija](/blog/email-marketing-kralj-konverzija).
+Takode preporucujemo: [Email marketing: zaï¿½to je email i dalje kralj konverzija](/blog/email-marketing-kralj-konverzija).
 
 ---
 
-�elite da napravimo sistem za retenciju va�ih klijenata? [Javite nam se](/kontakt).
+ï¿½elite da napravimo sistem za retenciju vaï¿½ih klijenata? [Javite nam se](/kontakt).
 `,
   },
   {
     slug: '17-godina-marketing-iskustva',
     title: '17 godina marketing iskustva u jednom tekstu',
-    excerpt: '�ta se menja u marketingu, a �ta ostaje isto decenijama? Evo lekcija koje ko�taju godine i milione da se nauce.',
+    excerpt: 'ï¿½ta se menja u marketingu, a ï¿½ta ostaje isto decenijama? Evo lekcija koje koï¿½taju godine i milione da se nauce.',
     date: '2026-02-20',
     category: 'Marketing',
     readTime: '8 min',
     content: `
 ## Stvari koje se nikada ne menjaju
 
-Platforme dolaze i odlaze. MySpace, Vine, Google+. Algoritmi se menjaju svake nedelje. Taktike koje rade danas sutra ne rade. Ali principi koji stoje iza uspe�nog marketinga nisu se promenili od kad je prvi covek ne�to prodao drugom coveku.
+Platforme dolaze i odlaze. MySpace, Vine, Google+. Algoritmi se menjaju svake nedelje. Taktike koje rade danas sutra ne rade. Ali principi koji stoje iza uspeï¿½nog marketinga nisu se promenili od kad je prvi covek neï¿½to prodao drugom coveku.
 
-Ljudska psihologija je konstantna. Ljudi i dalje kupuju od onih kojima veruju. I dalje donose odluke na osnovu emocija i racionalizuju ih logikom. I dalje �ele da izgledaju pametno pred svojim okru�enjem.
+Ljudska psihologija je konstantna. Ljudi i dalje kupuju od onih kojima veruju. I dalje donose odluke na osnovu emocija i racionalizuju ih logikom. I dalje ï¿½ele da izgledaju pametno pred svojim okruï¿½enjem.
 
 Firme koje jure svaku novu platformu i svaki novi trend bez razumevanja osnova uvek zaostaju. Firme koje razumeju osnove i primene ih na novu platformu uvek pobeduju.
 
 > Taktike se menjaju svake godine. Principi se ne menjaju nikada.
 
-## Lekcija 1: Ponuda je va�nija od svega ostalog
+## Lekcija 1: Ponuda je vaï¿½nija od svega ostalog
 
-Mo�ete imati najlep�i sajt, najkreativnije oglase i najboljeg copywritera. Ako je ponuda lo�a, ni�ta od toga ne poma�e. Lo�a ponuda sa savr�enim marketingom generi�e frustraciju. Odlicna ponuda sa prosecnim marketingom generi�e profit.
+Moï¿½ete imati najlepï¿½i sajt, najkreativnije oglase i najboljeg copywritera. Ako je ponuda loï¿½a, niï¿½ta od toga ne pomaï¿½e. Loï¿½a ponuda sa savrï¿½enim marketingom generiï¿½e frustraciju. Odlicna ponuda sa prosecnim marketingom generiï¿½e profit.
 
-Kad firmi ne idu rezultati, prva stvar koju treba proveriti nije oglas i nije sajt. Prva stvar je ponuda. Da li je dovoljno vredna? Da li re�ava konkretan problem? Da li je rizik za kupca minimalan?
+Kad firmi ne idu rezultati, prva stvar koju treba proveriti nije oglas i nije sajt. Prva stvar je ponuda. Da li je dovoljno vredna? Da li reï¿½ava konkretan problem? Da li je rizik za kupca minimalan?
 
-## Lekcija 2: Ni�iranje je jedina prava konkurentska prednost
+## Lekcija 2: Niï¿½iranje je jedina prava konkurentska prednost
 
-Firma koja radi "sve za svakoga" uvek gubi od firme koja radi "jednu stvar za jednu grupu ljudi". Zubar koji se specijalizovao za implante naplacuje 3x vi�e od zubara koji radi sve. Marketing agencija koja radi samo sa e-commerce brendovima dobija bolje klijente od agencije koja radi "digitalni marketing".
+Firma koja radi "sve za svakoga" uvek gubi od firme koja radi "jednu stvar za jednu grupu ljudi". Zubar koji se specijalizovao za implante naplacuje 3x viï¿½e od zubara koji radi sve. Marketing agencija koja radi samo sa e-commerce brendovima dobija bolje klijente od agencije koja radi "digitalni marketing".
 
-Strah od ni�ranja je razumljiv. Vlasnici misle: "Ako se ogranicim, izgubicu klijente." U praksi je suprotno. �to ste specificniji, to ste vidljiviji za pravu publiku.
+Strah od niï¿½ranja je razumljiv. Vlasnici misle: "Ako se ogranicim, izgubicu klijente." U praksi je suprotno. ï¿½to ste specificniji, to ste vidljiviji za pravu publiku.
 
 ## Lekcija 3: Prodaja je matematika, ne umetnost
 
-Dobar marketing se meri brojevima, ne osecajima. Koliko ko�ta jedan lead? Koliko lead-ova treba za jednu prodaju? Kolika je prosecna vrednost kupca? Koliko ko�ta zadr�avanje postojeceg kupca?
+Dobar marketing se meri brojevima, ne osecajima. Koliko koï¿½ta jedan lead? Koliko lead-ova treba za jednu prodaju? Kolika je prosecna vrednost kupca? Koliko koï¿½ta zadrï¿½avanje postojeceg kupca?
 
 Firme koje znaju ove brojeve donose odluke na osnovu podataka. Firme koje ne znaju donose odluke na osnovu intuicije. Intuicija ponekad pogodi. Podaci pogadaju skoro uvek.
 
 ## Lekcija 4: Kupci kupuju rezultate, ne procese
 
-Nikog ne zanima koliko sati ste radili. Nikoga ne zanima koji softver koristite. Kupce zanima jedan jedini odgovor: "�ta cu ja dobiti od ovoga?"
+Nikog ne zanima koliko sati ste radili. Nikoga ne zanima koji softver koristite. Kupce zanima jedan jedini odgovor: "ï¿½ta cu ja dobiti od ovoga?"
 
-Firme koje komuniciraju procese: "Koristimo napredne algoritme za optimizaciju va�ih kampanja." Firme koje komuniciraju rezultate: "Prosecan klijent dobija 3x vi�e upita u prvih 90 dana."
+Firme koje komuniciraju procese: "Koristimo napredne algoritme za optimizaciju vaï¿½ih kampanja." Firme koje komuniciraju rezultate: "Prosecan klijent dobija 3x viï¿½e upita u prvih 90 dana."
 
-Pogodite koje firme zaraduju vi�e.
+Pogodite koje firme zaraduju viï¿½e.
 
 ## Lekcija 5: Email lista je najvrednija imovina
 
-Dru�tvene mre�e menjaju pravila. Google menja algoritam. Placeni oglasi poskupljuju. Ali email lista je va�a. Niko vam je ne mo�e oduzeti.
+Druï¿½tvene mreï¿½e menjaju pravila. Google menja algoritam. Placeni oglasi poskupljuju. Ali email lista je vaï¿½a. Niko vam je ne moï¿½e oduzeti.
 
-Firme koje su pocele da grade email listu pre 5 godina danas imaju kanal koji im donosi 20-40% ukupnog prihoda sa nula tro�kova za oglase. Firme koje to nisu uradile i dalje zavise od platformi koje kontroli�u doseg.
+Firme koje su pocele da grade email listu pre 5 godina danas imaju kanal koji im donosi 20-40% ukupnog prihoda sa nula troï¿½kova za oglase. Firme koje to nisu uradile i dalje zavise od platformi koje kontroliï¿½u doseg.
 
 ## Lekcija 6: Konzistentnost pobedi kreativnost
 
-Jedan genijalan post mesecno gubi od tri dobra posta nedeljno. Marketing nije sprint nego maraton. Firme koje objavljuju redovno, �alju mejlove redovno i ogla�avaju se redovno pobeduju firme koje imaju sporadicne nalere kreativnosti.
+Jedan genijalan post mesecno gubi od tri dobra posta nedeljno. Marketing nije sprint nego maraton. Firme koje objavljuju redovno, ï¿½alju mejlove redovno i oglaï¿½avaju se redovno pobeduju firme koje imaju sporadicne nalere kreativnosti.
 
 Razlog je prost: algoritmi nagraduju konzistentnost, kupci pamte ko je stalno prisutan, i compound efekat radi samo kad se ne prekida.
 
 ## Lekcija 7: Brzina implementacije je sve
 
-Firma koja implementira prosecnu ideju za nedelju dana pobedi firmu koja planira savr�enu ideju mesecima. Tr�i�te nagraduje akciju, ne planiranje.
+Firma koja implementira prosecnu ideju za nedelju dana pobedi firmu koja planira savrï¿½enu ideju mesecima. Trï¿½iï¿½te nagraduje akciju, ne planiranje.
 
-80% posla uradeno brzo vredi vi�e od 100% posla uradenog kasno. Perfekcionizam je neprijatelj profita u marketingu.
+80% posla uradeno brzo vredi viï¿½e od 100% posla uradenog kasno. Perfekcionizam je neprijatelj profita u marketingu.
 
-Ako �elite strukturiran pogled na va� biznis, pogledajte na� [consulting program](/consulting).
+Ako ï¿½elite strukturiran pogled na vaï¿½ biznis, pogledajte naï¿½ [consulting program](/consulting).
 
 Takode preporucujemo: [17 godina marketing iskustva u jednom tekstu](/blog/17-godina-marketing-iskustva-u-jednom-tekstu).
 
 ---
 
-Ako vam treba partner koji razume ove principe i zna kako da ih primeni na va� biznis, [javite nam se](/kontakt).
+Ako vam treba partner koji razume ove principe i zna kako da ih primeni na vaï¿½ biznis, [javite nam se](/kontakt).
 `,
   },
   {
     slug: '13-godina-poslovnog-iskustva-najskuplje-greske',
-    title: '13 godina poslovnog iskustva: najskuplje gre�ke koje firme prave',
-    excerpt: 'Svaka od ovih gre�aka ko�ta firme hiljade evra i mesece izgubljenog vremena. Ovo su lekcije iz 13 godina rada koje mogu odmah da vam sacuvaju bud�et.',
+    title: '13 godina poslovnog iskustva: najskuplje greï¿½ke koje firme prave',
+    excerpt: 'Svaka od ovih greï¿½aka koï¿½ta firme hiljade evra i mesece izgubljenog vremena. Ovo su lekcije iz 13 godina rada koje mogu odmah da vam sacuvaju budï¿½et.',
     date: '2026-02-20',
     category: 'Biznis',
     readTime: '7 min',
     content: `
-## Gre�ka 1: Previ�e fokusa na prihod, premalo na profit
+## Greï¿½ka 1: Previï¿½e fokusa na prihod, premalo na profit
 
-Firma koja pravi 100.000� godi�nje sa 30% mar�e zaraduje vi�e od firme sa 200.000� prihoda i 10% mar�e. Ipak, vecina vlasnika se hvali prihodom. Prihod je vanity metrika. Profit je jedina stvar koja se mo�e staviti u d�ep.
+Firma koja pravi 100.000ï¿½ godiï¿½nje sa 30% marï¿½e zaraduje viï¿½e od firme sa 200.000ï¿½ prihoda i 10% marï¿½e. Ipak, vecina vlasnika se hvali prihodom. Prihod je vanity metrika. Profit je jedina stvar koja se moï¿½e staviti u dï¿½ep.
 
-Ovo je posebno izra�eno kod firmi koje rastu brzo. Zaposle vi�e ljudi, uzmu veci kancelarijski prostor, ulo�e u skuplji softver. Prihod raste, ali profit ostaje isti ili cak pada.
+Ovo je posebno izraï¿½eno kod firmi koje rastu brzo. Zaposle viï¿½e ljudi, uzmu veci kancelarijski prostor, uloï¿½e u skuplji softver. Prihod raste, ali profit ostaje isti ili cak pada.
 
 > Rast bez profita je najskuplji hobi na svetu.
 
-## Gre�ka 2: Zavisnost od jednog kanala ili jednog klijenta
+## Greï¿½ka 2: Zavisnost od jednog kanala ili jednog klijenta
 
-Firma koja dobija 60% prihoda od jednog klijenta ima ozbiljan problem, cak i kad taj klijent placa redovno. Jer kad taj klijent ode (a uvek postoji �ansa), firma gubi vecinu prihoda preko noci.
+Firma koja dobija 60% prihoda od jednog klijenta ima ozbiljan problem, cak i kad taj klijent placa redovno. Jer kad taj klijent ode (a uvek postoji ï¿½ansa), firma gubi vecinu prihoda preko noci.
 
-Isto va�i za marketing kanale. Firma koja zavisi samo od Google Ads-a je jedna promena algoritma daleko od katastrofe. Diverzifikacija nije luksuz. Diverzifikacija je osiguranje.
+Isto vaï¿½i za marketing kanale. Firma koja zavisi samo od Google Ads-a je jedna promena algoritma daleko od katastrofe. Diverzifikacija nije luksuz. Diverzifikacija je osiguranje.
 
-Zdravo pravilo: nijedan klijent ne treba da cini vi�e od 20% va�eg prihoda. Nijedan kanal ne treba da cini vi�e od 40% va�ih lead-ova.
+Zdravo pravilo: nijedan klijent ne treba da cini viï¿½e od 20% vaï¿½eg prihoda. Nijedan kanal ne treba da cini viï¿½e od 40% vaï¿½ih lead-ova.
 
-## Gre�ka 3: Zapo�ljavanje pre sistema
+## Greï¿½ka 3: Zapoï¿½ljavanje pre sistema
 
-Vecina firmi zaposli ljude da re�e probleme koje bi trebalo re�iti sistemima. Rezultat: vi�e zaposlenih, ista efikasnost, veci tro�kovi.
+Vecina firmi zaposli ljude da reï¿½e probleme koje bi trebalo reï¿½iti sistemima. Rezultat: viï¿½e zaposlenih, ista efikasnost, veci troï¿½kovi.
 
-Pre nego �to zaposlite nekoga, pitajte: "Mo�e li se ovaj posao automatizovati?" Ako mo�e, automatizujte. Ako ne mo�e, dokumentujte proces pa onda zaposlite. Osoba sa jasnim procesom radi 3x bolje od osobe koja mora sama da smisli kako se �ta radi.
+Pre nego ï¿½to zaposlite nekoga, pitajte: "Moï¿½e li se ovaj posao automatizovati?" Ako moï¿½e, automatizujte. Ako ne moï¿½e, dokumentujte proces pa onda zaposlite. Osoba sa jasnim procesom radi 3x bolje od osobe koja mora sama da smisli kako se ï¿½ta radi.
 
-## Gre�ka 4: Nedostatak sistema za merenje
+## Greï¿½ka 4: Nedostatak sistema za merenje
 
-Ako ne merite, ne upravljate. Firme koje ne prate odakle dolaze klijenti, koliko ko�ta akvizicija i kolika je �ivotna vrednost kupca donose odluke naslepo.
+Ako ne merite, ne upravljate. Firme koje ne prate odakle dolaze klijenti, koliko koï¿½ta akvizicija i kolika je ï¿½ivotna vrednost kupca donose odluke naslepo.
 
 Minimalni set brojeva koji svaka firma mora da zna:
 - Cena po lead-u (po kanalu)
@@ -4548,234 +4775,234 @@ Minimalni set brojeva koji svaka firma mora da zna:
 - Prosecna vrednost kupca (za 12 meseci)
 - Mesecni recurring prihod (ako je primenjivo)
 
-Bez ovih brojeva, svaka marketin�ka odluka je kockanje.
+Bez ovih brojeva, svaka marketinï¿½ka odluka je kockanje.
 
-## Gre�ka 5: Takmicenje cenom umesto vredno�cu
+## Greï¿½ka 5: Takmicenje cenom umesto vrednoï¿½cu
 
-Kad firma spusti cenu da privuce klijente, privlaci klijente koji kupuju na osnovu cene. Ti klijenti su najzahtevniji, imaju najvi�e prigovora i prvi odlaze kad neko ponudi jeftinije.
+Kad firma spusti cenu da privuce klijente, privlaci klijente koji kupuju na osnovu cene. Ti klijenti su najzahtevniji, imaju najviï¿½e prigovora i prvi odlaze kad neko ponudi jeftinije.
 
-Firme koje se takmice vredno�cu privlace klijente koji kupuju na osnovu rezultata. Ti klijenti su manje osetljivi na cenu, lak�i za rad i ostaju du�e.
+Firme koje se takmice vrednoï¿½cu privlace klijente koji kupuju na osnovu rezultata. Ti klijenti su manje osetljivi na cenu, lakï¿½i za rad i ostaju duï¿½e.
 
-Spu�tanje cena je najlak�i i najgluplji nacin da povecate prodaju. Povecanje vrednosti je te�i i pametniji nacin.
+Spuï¿½tanje cena je najlakï¿½i i najgluplji nacin da povecate prodaju. Povecanje vrednosti je teï¿½i i pametniji nacin.
 
-## Gre�ka 6: Ignorisanje postojecih kupaca
+## Greï¿½ka 6: Ignorisanje postojecih kupaca
 
-Privlacenje novog kupca ko�ta 5-7x vi�e od zadr�avanja postojeceg. Ipak, vecina firmi tro�i 80% bud�eta na akviziciju i 20% na retenciju. Matematika bi trebalo da bude obrnuta.
+Privlacenje novog kupca koï¿½ta 5-7x viï¿½e od zadrï¿½avanja postojeceg. Ipak, vecina firmi troï¿½i 80% budï¿½eta na akviziciju i 20% na retenciju. Matematika bi trebalo da bude obrnuta.
 
-Postojeci kupac koji kupi ponovo ne zahteva tro�kove oglasa, ne zahteva period gradenja poverenja i verovatno ce kupiti skuplje jer vas vec poznaje.
+Postojeci kupac koji kupi ponovo ne zahteva troï¿½kove oglasa, ne zahteva period gradenja poverenja i verovatno ce kupiti skuplje jer vas vec poznaje.
 
-Program lojalnosti, redovna komunikacija, upsell ponude za postojece kupce. Sve ovo ko�ta manje i donosi vi�e od jurenja novih.
+Program lojalnosti, redovna komunikacija, upsell ponude za postojece kupce. Sve ovo koï¿½ta manje i donosi viï¿½e od jurenja novih.
 
-## Gre�ka 7: Poku�aj da sve radite sami
+## Greï¿½ka 7: Pokuï¿½aj da sve radite sami
 
-Vlasnik koji radi marketing, prodaju, operacije, finansije i HR istovremeno ne radi ni�ta od toga dobro. Najveci rast dolazi kad vlasnik prestane da radi U biznisu i pocne da radi NA biznisu.
+Vlasnik koji radi marketing, prodaju, operacije, finansije i HR istovremeno ne radi niï¿½ta od toga dobro. Najveci rast dolazi kad vlasnik prestane da radi U biznisu i pocne da radi NA biznisu.
 
-To znaci delegiranje, outsourcing ili automatizacija svega �to niste vi. Va� posao je strategija i odluke, ne izvr�avanje.
+To znaci delegiranje, outsourcing ili automatizacija svega ï¿½to niste vi. Vaï¿½ posao je strategija i odluke, ne izvrï¿½avanje.
 
-Ako �elite strukturiran pogled na va� biznis, pogledajte na� [consulting program](/consulting).
+Ako ï¿½elite strukturiran pogled na vaï¿½ biznis, pogledajte naï¿½ [consulting program](/consulting).
 
 Takode preporucujemo: [Od nule do prvog miliona: konkretni koraci za vlasnike firmi](/blog/od-nule-do-prvog-miliona-konkretni-koraci).
 
 ---
 
-Ako prepoznajete neku od ovih gre�aka, [javite nam se](/kontakt). Pomoci cemo vam da je ispravite pre nego �to postane skupa.
+Ako prepoznajete neku od ovih greï¿½aka, [javite nam se](/kontakt). Pomoci cemo vam da je ispravite pre nego ï¿½to postane skupa.
 `,
   },
   {
     slug: 'od-nule-do-prvog-miliona-konkretni-koraci',
     title: 'Od nule do prvog miliona: konkretni koraci za vlasnike firmi',
-    excerpt: 'Nema precica, ali postoji redosled koji �tedi godine lutanja. Ovo su koraci koji najbr�e vode od starta biznisa do prvog miliona prihoda.',
+    excerpt: 'Nema precica, ali postoji redosled koji ï¿½tedi godine lutanja. Ovo su koraci koji najbrï¿½e vode od starta biznisa do prvog miliona prihoda.',
     date: '2026-02-20',
     category: 'Biznis',
     readTime: '8 min',
     content: `
-## Faza 1: Od 0 do 10.000� mesecno
+## Faza 1: Od 0 do 10.000ï¿½ mesecno
 
-Ova faza je najte�a jer pocinjete od nule. Nema klijenata, nema reputacije, nema preporuka. Jedini resurs koji imate je vreme i spremnost da radite ono �to konkurencija nece.
+Ova faza je najteï¿½a jer pocinjete od nule. Nema klijenata, nema reputacije, nema preporuka. Jedini resurs koji imate je vreme i spremnost da radite ono ï¿½to konkurencija nece.
 
-**Izaberite jednu ni�u.** Ne "marketing za sve", vec "Facebook oglasi za stomatolo�ke ordinacije." �to u�a ni�a, to je lak�e pronaci klijente, lak�e napraviti ekspertizu i lak�e se izdvojiti.
+**Izaberite jednu niï¿½u.** Ne "marketing za sve", vec "Facebook oglasi za stomatoloï¿½ke ordinacije." ï¿½to uï¿½a niï¿½a, to je lakï¿½e pronaci klijente, lakï¿½e napraviti ekspertizu i lakï¿½e se izdvojiti.
 
-**Nadite prvih 5 klijenata rucno.** Ne cekajte da vas neko pronade. Pozovite, po�aljite email, javite se na LinkedIn. Prvih 5 klijenata nikada ne dolaze od marketinga. Dolaze od direktnog kontakta.
+**Nadite prvih 5 klijenata rucno.** Ne cekajte da vas neko pronade. Pozovite, poï¿½aljite email, javite se na LinkedIn. Prvih 5 klijenata nikada ne dolaze od marketinga. Dolaze od direktnog kontakta.
 
-**Postavite cenu na osnovu vrednosti, ne vremena.** Ako va�a usluga klijentu donosi 10.000� mesecno, naplatite 1.000-2.000�. Ne 500� jer "ste tek poceli."
+**Postavite cenu na osnovu vrednosti, ne vremena.** Ako vaï¿½a usluga klijentu donosi 10.000ï¿½ mesecno, naplatite 1.000-2.000ï¿½. Ne 500ï¿½ jer "ste tek poceli."
 
-## Faza 2: Od 10.000 do 30.000� mesecno
+## Faza 2: Od 10.000 do 30.000ï¿½ mesecno
 
-Imate klijente, imate posao. Problem: vi radite sve. Prodajete, isporucujete, fakturi�ete. Radite 70 sati nedeljno i ne mo�ete da dodate jo� jednog klijenta jer nema ko da uradi posao.
+Imate klijente, imate posao. Problem: vi radite sve. Prodajete, isporucujete, fakturiï¿½ete. Radite 70 sati nedeljno i ne moï¿½ete da dodate joï¿½ jednog klijenta jer nema ko da uradi posao.
 
 > Prelaz sa 10K na 30K mesecno zahteva jednu stvar: prestanak da vi radite svaki zadatak i pocetak gradenja sistema koji rade umesto vas.
 
-**Dokumentujte sve procese.** Svaki zadatak koji radite, napi�ite korak po korak. Ovo je osnova za delegiranje.
+**Dokumentujte sve procese.** Svaki zadatak koji radite, napiï¿½ite korak po korak. Ovo je osnova za delegiranje.
 
 **Zaposlite ili outsource-ujte isporuku.** Vi trebate da prodajete i upravljate, ne da radite operativne zadatke. Ako ste marketing agencija, zaposlite nekoga ko ce voditi kampanje dok vi dovodite klijente.
 
-**Podignite cene.** Firme u ovoj fazi skoro uvek naplacuju premalo. Ako imate red cekanja, cena je preniska. Podignite za 20-30% i gledajte �ta se de�ava. Najce�ci rezultat: isti broj klijenata, veci prihod.
+**Podignite cene.** Firme u ovoj fazi skoro uvek naplacuju premalo. Ako imate red cekanja, cena je preniska. Podignite za 20-30% i gledajte ï¿½ta se deï¿½ava. Najceï¿½ci rezultat: isti broj klijenata, veci prihod.
 
-## Faza 3: Od 30.000 do 100.000� mesecno
+## Faza 3: Od 30.000 do 100.000ï¿½ mesecno
 
 Ovo je faza gde vecina firmi zaglavi. Ima posla, ima prihoda, ali rast se zaustavio. Razlog je gotovo uvek isti: vlasnik je i dalje usko grlo.
 
-**Izgradite prodajni sistem koji ne zavisi od vas.** Funnel, email sekvence, prodajni tim. Ako je jedini nacin da dobijete klijenta va� licni poziv, necete preci 30K.
+**Izgradite prodajni sistem koji ne zavisi od vas.** Funnel, email sekvence, prodajni tim. Ako je jedini nacin da dobijete klijenta vaï¿½ licni poziv, necete preci 30K.
 
-**Fokusirajte se na lifetime value.** Umesto da jurite nove klijente, izvucite vi�e iz postojecih. Upsell, cross-sell, du�i ugovori. Firma sa 50 klijenata koji placaju 2.000� mesecno zaraduje 100K. Ne trebate 500 klijenata. Trebate bolju ponudu za postojece.
+**Fokusirajte se na lifetime value.** Umesto da jurite nove klijente, izvucite viï¿½e iz postojecih. Upsell, cross-sell, duï¿½i ugovori. Firma sa 50 klijenata koji placaju 2.000ï¿½ mesecno zaraduje 100K. Ne trebate 500 klijenata. Trebate bolju ponudu za postojece.
 
-**Investirajte u brend.** Na ovom nivou, reputacija pocinje da radi umesto vas. Case studies, testimonijali, sadr�aj koji pokazuje ekspertizu. Klijenti pocinju da dolaze jer su culi za vas, ne zato �to ste ih kontaktirali.
+**Investirajte u brend.** Na ovom nivou, reputacija pocinje da radi umesto vas. Case studies, testimonijali, sadrï¿½aj koji pokazuje ekspertizu. Klijenti pocinju da dolaze jer su culi za vas, ne zato ï¿½to ste ih kontaktirali.
 
-## Faza 4: Od 100.000� do milion
+## Faza 4: Od 100.000ï¿½ do milion
 
-Firma koja pravi 100K mesecno ima tim, ima sistem, ima klijente. Put do miliona zahteva drugacije razmi�ljanje.
+Firma koja pravi 100K mesecno ima tim, ima sistem, ima klijente. Put do miliona zahteva drugacije razmiï¿½ljanje.
 
-**Izgradite menad�ment sloj.** Vi ne treba da upravljate ljudima koji rade posao. Trebate ljude koji upravljaju ljudima koji rade posao. Va� posao je vizija i strategija.
+**Izgradite menadï¿½ment sloj.** Vi ne treba da upravljate ljudima koji rade posao. Trebate ljude koji upravljaju ljudima koji rade posao. Vaï¿½ posao je vizija i strategija.
 
-**Diverzifikujte ponudu.** Jedna usluga za jednu ni�u je odlicno za prvih 100K. Za milion, trebate ili vi�e usluga za istu ni�u ili istu uslugu za vi�e ni�a.
+**Diverzifikujte ponudu.** Jedna usluga za jednu niï¿½u je odlicno za prvih 100K. Za milion, trebate ili viï¿½e usluga za istu niï¿½u ili istu uslugu za viï¿½e niï¿½a.
 
-**Optimizujte profitabilnost.** Na ovom nivou, razlika izmedu 20% i 30% mar�e je razlika izmedu 200.000� i 300.000� godi�nje cistog profita. Svaki procenat se racuna.
+**Optimizujte profitabilnost.** Na ovom nivou, razlika izmedu 20% i 30% marï¿½e je razlika izmedu 200.000ï¿½ i 300.000ï¿½ godiï¿½nje cistog profita. Svaki procenat se racuna.
 
-## Najva�nija lekcija
+## Najvaï¿½nija lekcija
 
-Rast nije linearan. Postoje faze gde sve ide brzo i faze gde izgleda da se ni�ta ne de�ava. Firme koje rastu do miliona su one koje ne odustaju u te�kim fazama i koje menjaju pristup kad jedan prestane da radi.
+Rast nije linearan. Postoje faze gde sve ide brzo i faze gde izgleda da se niï¿½ta ne deï¿½ava. Firme koje rastu do miliona su one koje ne odustaju u teï¿½kim fazama i koje menjaju pristup kad jedan prestane da radi.
 
 Nema jedne formule koja radi za sve. Ali postoji redosled: ponuda, klijenti, sistemi, tim, skaliranje. Firme koje preskacu korake uvek se vrate nazad da popune rupe.
 
-Ako �elite strukturiran pogled na va� biznis, pogledajte na� [consulting program](/consulting).
+Ako ï¿½elite strukturiran pogled na vaï¿½ biznis, pogledajte naï¿½ [consulting program](/consulting).
 
-Takode preporucujemo: [Kako se kretati 10x br�e kao vlasnik firme](/blog/kako-se-kretati-10x-brze-kao-vlasnik-firme).
+Takode preporucujemo: [Kako se kretati 10x brï¿½e kao vlasnik firme](/blog/kako-se-kretati-10x-brze-kao-vlasnik-firme).
 
 ---
 
-�elite partnera koji ce vam pomoci da ubrzate svaku od ovih faza? [Javite nam se](/kontakt).
+ï¿½elite partnera koji ce vam pomoci da ubrzate svaku od ovih faza? [Javite nam se](/kontakt).
 `,
   },
   {
     slug: 'kako-se-kretati-10x-brze-kao-vlasnik-firme',
-    title: 'Kako se kretati 10x br�e kao vlasnik firme',
-    excerpt: 'Produktivnost nije o tome da radite vi�e sati. Produktivnost je o eliminaciji svega �to ne proizvodi rezultate.',
+    title: 'Kako se kretati 10x brï¿½e kao vlasnik firme',
+    excerpt: 'Produktivnost nije o tome da radite viï¿½e sati. Produktivnost je o eliminaciji svega ï¿½to ne proizvodi rezultate.',
     date: '2026-02-20',
     category: 'Biznis',
     readTime: '6 min',
     content: `
-## Za�to vecina vlasnika firmi radi 60 sati nedeljno sa prosecnim rezultatima
+## Zaï¿½to vecina vlasnika firmi radi 60 sati nedeljno sa prosecnim rezultatima
 
-Postoji mit da uspeh zahteva 80-satne radne nedelje. U praksi, vecina vlasnika firmi koji rade toliko sati tro�i 70% vremena na stvari koje ne pomeraju biznis napred.
+Postoji mit da uspeh zahteva 80-satne radne nedelje. U praksi, vecina vlasnika firmi koji rade toliko sati troï¿½i 70% vremena na stvari koje ne pomeraju biznis napred.
 
-Mejlovi, sastanci, operativni zadaci, ga�enje po�ara. Sve ovo zauzima dan, ali ni�ta od toga ne generi�e rast. Vlasnici koji se krecu 10x br�e ne rade vi�e sati. Rade manje sati na pravim stvarima.
+Mejlovi, sastanci, operativni zadaci, gaï¿½enje poï¿½ara. Sve ovo zauzima dan, ali niï¿½ta od toga ne generiï¿½e rast. Vlasnici koji se krecu 10x brï¿½e ne rade viï¿½e sati. Rade manje sati na pravim stvarima.
 
 ## Eliminacija pre optimizacije
 
-Pre nego �to optimizujete bilo �ta, elimini�ite sve nepotrebno. Pitanje nije "Kako mogu ovo uraditi br�e?" vec "Da li ovo uop�te treba uraditi?"
+Pre nego ï¿½to optimizujete bilo ï¿½ta, eliminiï¿½ite sve nepotrebno. Pitanje nije "Kako mogu ovo uraditi brï¿½e?" vec "Da li ovo uopï¿½te treba uraditi?"
 
-Praksa: napi�ite listu svega �to ste radili pro�le nedelje. Pored svake stavke stavite jedno od tri slova:
-- **E** (eliminisati): ne doprinosi rastu, mo�e se ukinuti
+Praksa: napiï¿½ite listu svega ï¿½to ste radili proï¿½le nedelje. Pored svake stavke stavite jedno od tri slova:
+- **E** (eliminisati): ne doprinosi rastu, moï¿½e se ukinuti
 - **D** (delegirati): treba da se uradi, ali ne od vas
-- **Z** (zadr�ati): samo vi mo�ete ovo uraditi i direktno utice na rast
+- **Z** (zadrï¿½ati): samo vi moï¿½ete ovo uraditi i direktno utice na rast
 
-Vecina vlasnika otkrije da 50-60% njihovog vremena ide na stavke sa oznakom E ili D. To je 30+ sati nedeljno koje mo�ete preusmeriti na ono �to zapravo gradi biznis.
+Vecina vlasnika otkrije da 50-60% njihovog vremena ide na stavke sa oznakom E ili D. To je 30+ sati nedeljno koje moï¿½ete preusmeriti na ono ï¿½to zapravo gradi biznis.
 
-> Najproduktivnija stvar koju vlasnik firme mo�e uraditi je prestati da radi 80% onoga �to trenutno radi.
+> Najproduktivnija stvar koju vlasnik firme moï¿½e uraditi je prestati da radi 80% onoga ï¿½to trenutno radi.
 
-## Odluke koje cekaju ko�taju najvi�e
+## Odluke koje cekaju koï¿½taju najviï¿½e
 
-Svaka odlo�ena odluka ima cenu. Niste se odlucili da li da zaposlite nekoga? Gubite vreme radeci taj posao sami. Niste pokrenuli kampanju jer "cekate pravi momenat"? Pravi momenat je bio pro�le nedelje.
+Svaka odloï¿½ena odluka ima cenu. Niste se odlucili da li da zaposlite nekoga? Gubite vreme radeci taj posao sami. Niste pokrenuli kampanju jer "cekate pravi momenat"? Pravi momenat je bio proï¿½le nedelje.
 
-Pravilo za br�e dono�enje odluka: ako je odluka reverzibilna (mo�e se poni�titi), donosite je odmah. Ako je ireverzibilna (ne mo�e se poni�titi), dajte joj maksimum 48 sati.
+Pravilo za brï¿½e donoï¿½enje odluka: ako je odluka reverzibilna (moï¿½e se poniï¿½titi), donosite je odmah. Ako je ireverzibilna (ne moï¿½e se poniï¿½titi), dajte joj maksimum 48 sati.
 
-90% poslovnih odluka je reverzibilno. Lo� oglas se mo�e ugasiti. Pogre�no zapo�ljavanje se mo�e ispraviti. Nova usluga se mo�e ukinuti. Strah od pogre�ne odluke ko�ta vi�e od same pogre�ne odluke.
+90% poslovnih odluka je reverzibilno. Loï¿½ oglas se moï¿½e ugasiti. Pogreï¿½no zapoï¿½ljavanje se moï¿½e ispraviti. Nova usluga se moï¿½e ukinuti. Strah od pogreï¿½ne odluke koï¿½ta viï¿½e od same pogreï¿½ne odluke.
 
 ## Fokus na jednu stvar u jednom trenutku
 
-Multitasking je mit. Istra�ivanja sa Stanford-a pokazuju da ljudi koji rade vi�e stvari istovremeno rade svaku od njih 40% lo�ije nego kad rade jednu po jednu.
+Multitasking je mit. Istraï¿½ivanja sa Stanford-a pokazuju da ljudi koji rade viï¿½e stvari istovremeno rade svaku od njih 40% loï¿½ije nego kad rade jednu po jednu.
 
-Za vlasnike firmi ovo znaci: odredite JEDNU stvar koja ce najvi�e uticati na rast ovog meseca. Sve ostalo je sekundarno. Ako je to novi proizvod, fokus je na tome. Ako je to zapo�ljavanje, fokus je na tome. Ako je to marketing kampanja, fokus je na tome.
+Za vlasnike firmi ovo znaci: odredite JEDNU stvar koja ce najviï¿½e uticati na rast ovog meseca. Sve ostalo je sekundarno. Ako je to novi proizvod, fokus je na tome. Ako je to zapoï¿½ljavanje, fokus je na tome. Ako je to marketing kampanja, fokus je na tome.
 
-Jedna stvar mesecno, uradena do kraja, vredi vi�e od pet stvari zapocetih i nijedne zavr�ene.
+Jedna stvar mesecno, uradena do kraja, vredi viï¿½e od pet stvari zapocetih i nijedne zavrï¿½ene.
 
-## Delegiranje pre nego �to ste spremni
+## Delegiranje pre nego ï¿½to ste spremni
 
-Vlasnici cekaju "pravi momenat" da delegiraju. Kad bude dovoljno posla. Kad pronadu savr�enu osobu. Kad budu imali dovoljno novca.
+Vlasnici cekaju "pravi momenat" da delegiraju. Kad bude dovoljno posla. Kad pronadu savrï¿½enu osobu. Kad budu imali dovoljno novca.
 
-Taj momenat ne dolazi. Delegirajte pre nego �to ste spremni. Bice nesavr�eno. Osoba nece raditi posao tacno kako vi �elite. I to je okej. 70% kvaliteta va�eg rada uradeno od nekog drugog je bolje od 100% va�eg rada koji vas dr�i zarobljenim u operativi.
+Taj momenat ne dolazi. Delegirajte pre nego ï¿½to ste spremni. Bice nesavrï¿½eno. Osoba nece raditi posao tacno kako vi ï¿½elite. I to je okej. 70% kvaliteta vaï¿½eg rada uradeno od nekog drugog je bolje od 100% vaï¿½eg rada koji vas drï¿½i zarobljenim u operativi.
 
 ## Brzina implementacije
 
-Firme koje testiraju 10 ideja mesecno i nalaze 2 koje rade pobeduju firme koje planiraju jednu savr�enu ideju kvartalno. Brzina implementacije je mo�da najva�nija konkurentska prednost za male firme.
+Firme koje testiraju 10 ideja mesecno i nalaze 2 koje rade pobeduju firme koje planiraju jednu savrï¿½enu ideju kvartalno. Brzina implementacije je moï¿½da najvaï¿½nija konkurentska prednost za male firme.
 
-Velika korporacija treba 6 meseci da lansira novu kampanju. Mala firma to mo�e za 6 dana. Iskoristite tu prednost.
+Velika korporacija treba 6 meseci da lansira novu kampanju. Mala firma to moï¿½e za 6 dana. Iskoristite tu prednost.
 
-Ako �elite strukturiran pogled na va� biznis, pogledajte na� [consulting program](/consulting).
+Ako ï¿½elite strukturiran pogled na vaï¿½ biznis, pogledajte naï¿½ [consulting program](/consulting).
 
-Takode preporucujemo: [Za�to vecina firmi stagnira posle prvog miliona](/blog/zasto-vecina-firmi-stagnira-posle-prvog-miliona).
+Takode preporucujemo: [Zaï¿½to vecina firmi stagnira posle prvog miliona](/blog/zasto-vecina-firmi-stagnira-posle-prvog-miliona).
 
 ---
 
-Ako �elite da ubrzate rast va�eg biznisa, [javite nam se](/kontakt). Pomoci cemo vam da identifikujete �ta eliminisati, �ta delegirati i na cemu se fokusirati.
+Ako ï¿½elite da ubrzate rast vaï¿½eg biznisa, [javite nam se](/kontakt). Pomoci cemo vam da identifikujete ï¿½ta eliminisati, ï¿½ta delegirati i na cemu se fokusirati.
 `,
   },
   {
     slug: 'zasto-vecina-firmi-stagnira-posle-prvog-miliona',
-    title: 'Za�to vecina firmi stagnira posle prvog miliona',
-    excerpt: 'Dostizanje prvog miliona zahteva jednu vrstu posla, ali prelazak na sledeci nivo tra�i drugaciji sistem, timsku strukturu i disciplinu izvr�enja.',
+    title: 'Zaï¿½to vecina firmi stagnira posle prvog miliona',
+    excerpt: 'Dostizanje prvog miliona zahteva jednu vrstu posla, ali prelazak na sledeci nivo traï¿½i drugaciji sistem, timsku strukturu i disciplinu izvrï¿½enja.',
     date: '2026-02-20',
     category: 'Biznis',
     readTime: '6 min',
     content: `
 ## Zamka koja ceka na milion evra
 
-Firma dostigne milion evra godi�njeg prihoda i vlasnik misli: "Sad samo treba nastaviti ovako." Ali ono �to je dovelo firmu do miliona nece je dovesti do tri miliona. Ve�tine, sistemi i mentalitet koji rade za malu firmu aktivno koce vecu firmu.
+Firma dostigne milion evra godiï¿½njeg prihoda i vlasnik misli: "Sad samo treba nastaviti ovako." Ali ono ï¿½to je dovelo firmu do miliona nece je dovesti do tri miliona. Veï¿½tine, sistemi i mentalitet koji rade za malu firmu aktivno koce vecu firmu.
 
-Ovo je razlog za�to postoji toliko firmi zarobljenih izmedu 1 i 3 miliona godi�nje. Prevelike da budu male, premale da budu velike.
+Ovo je razlog zaï¿½to postoji toliko firmi zarobljenih izmedu 1 i 3 miliona godiï¿½nje. Prevelike da budu male, premale da budu velike.
 
-## Problem 1: Vlasnik je jo� uvek glavni izvr�ilac
+## Problem 1: Vlasnik je joï¿½ uvek glavni izvrï¿½ilac
 
-U firmi do miliona, vlasnik obicno radi najva�niji posao. Prodaje kljucne klijente, donosi strate�ke odluke i re�ava najvece probleme. To radi jer je u tome najbolji.
+U firmi do miliona, vlasnik obicno radi najvaï¿½niji posao. Prodaje kljucne klijente, donosi strateï¿½ke odluke i reï¿½ava najvece probleme. To radi jer je u tome najbolji.
 
-Problem: kapacitet jedne osobe je ogranicen. Vlasnik koji radi 10 sati dnevno ne mo�e da radi 20. Firma je dostigla plafon vlasnikovog licnog kapaciteta.
+Problem: kapacitet jedne osobe je ogranicen. Vlasnik koji radi 10 sati dnevno ne moï¿½e da radi 20. Firma je dostigla plafon vlasnikovog licnog kapaciteta.
 
-> Firma ne mo�e da preraste sposobnost svog vlasnika da delegira.
+> Firma ne moï¿½e da preraste sposobnost svog vlasnika da delegira.
 
-Re�enje nije da vlasnik radi vi�e. Re�enje je da vlasnik izgradi tim koji mo�e da radi bez njega. To znaci zapo�ljavanje ljudi koji su bolji od njega u specificnim oblastima.
+Reï¿½enje nije da vlasnik radi viï¿½e. Reï¿½enje je da vlasnik izgradi tim koji moï¿½e da radi bez njega. To znaci zapoï¿½ljavanje ljudi koji su bolji od njega u specificnim oblastima.
 
 ## Problem 2: Sistemi iz faze rasta ne rade za stabilizaciju
 
 Kad firma raste od nule do miliona, sve se radi na brzinu. Excel tabelice umesto CRM-a. Komunikacija preko WhatsApp grupa. Procesi koji postoje samo u glavi vlasnika.
 
-Na milionu, ovi sistemi pocinju da pucaju. Klijenti propadaju kroz pukotine. Zaposleni ne znaju �ta treba da rade. Kvalitet usluge varira jer nema standardizacije.
+Na milionu, ovi sistemi pocinju da pucaju. Klijenti propadaju kroz pukotine. Zaposleni ne znaju ï¿½ta treba da rade. Kvalitet usluge varira jer nema standardizacije.
 
-Investicija u sisteme se ne oseca kao rast. Uvodenje CRM-a, pisanje procedura, standardizacija procesa. Ali bez toga, svaki novi klijent donosi proporcionalno vi�e haosa.
+Investicija u sisteme se ne oseca kao rast. Uvodenje CRM-a, pisanje procedura, standardizacija procesa. Ali bez toga, svaki novi klijent donosi proporcionalno viï¿½e haosa.
 
 ## Problem 3: Ista ponuda za svakog klijenta
 
 Firme do miliona obicno imaju jednu ponudu: jedna usluga po jednoj ceni. To je jednostavno i radi dok ne prestane da radi.
 
 Za dalji rast postoje tri puta:
-- **Prodajte vi�e istim klijentima** (upsell, cross-sell, du�i ugovori)
-- **Prodajte istu stvar vecem broju klijenata** (novi kanali, novi tr�i�ta)
+- **Prodajte viï¿½e istim klijentima** (upsell, cross-sell, duï¿½i ugovori)
+- **Prodajte istu stvar vecem broju klijenata** (novi kanali, novi trï¿½iï¿½ta)
 - **Napravite novu ponudu** (premium tier, dodatna usluga, proizvod)
 
-Najlak�i put je prvi: postojeci klijenti vas vec poznaju i veruju vam. Povecanje prosecne vrednosti klijenta za 30% je ekvivalentno pronala�enju 30% vi�e novih klijenata, ali bez tro�kova akvizicije.
+Najlakï¿½i put je prvi: postojeci klijenti vas vec poznaju i veruju vam. Povecanje prosecne vrednosti klijenta za 30% je ekvivalentno pronalaï¿½enju 30% viï¿½e novih klijenata, ali bez troï¿½kova akvizicije.
 
 ## Problem 4: Strah od investiranja u rast
 
-Firma pravi milion, vlasnik zaraduje dobro, �ivot je udoban. Investiranje u rast znaci smanjenje profita na kratke staze: novi zaposleni, bolji softver, marketing kampanje koje mo�da ne uspiju.
+Firma pravi milion, vlasnik zaraduje dobro, ï¿½ivot je udoban. Investiranje u rast znaci smanjenje profita na kratke staze: novi zaposleni, bolji softver, marketing kampanje koje moï¿½da ne uspiju.
 
-Firme koje predu ovaj prag su one ciji vlasnici razumeju da stagnacija nije bezbedna opcija. Tr�i�te se krece. Konkurencija raste. Firma koja stagnira zapravo nazaduje u relativnom smislu.
+Firme koje predu ovaj prag su one ciji vlasnici razumeju da stagnacija nije bezbedna opcija. Trï¿½iï¿½te se krece. Konkurencija raste. Firma koja stagnira zapravo nazaduje u relativnom smislu.
 
-## �ta konkretno uraditi
+## ï¿½ta konkretno uraditi
 
-Firma na milion evra koja �eli dalji rast treba tri stvari:
+Firma na milion evra koja ï¿½eli dalji rast treba tri stvari:
 
-1. **Vlasnik mora da se povuce iz operacija.** Cilj: vlasnik ne radi ni�ta �to neko drugi mo�e da uradi za njega. To traje 6-12 meseci ali je preduslov za sve ostalo.
+1. **Vlasnik mora da se povuce iz operacija.** Cilj: vlasnik ne radi niï¿½ta ï¿½to neko drugi moï¿½e da uradi za njega. To traje 6-12 meseci ali je preduslov za sve ostalo.
 
 2. **Sistemi moraju postojati nezavisno od ljudi.** Kad zaposleni ode, znanje ne sme da ode sa njim. Sve mora biti dokumentovano, standardizovano i merljivo.
 
-3. **Marketing mora biti predvidljiv.** Na milion evra, firma ne mo�e da zavisi od preporuka i slucajnih upita. Treba joj marketin�ka ma�ina koja donosi predvidljiv broj lead-ova svake nedelje.
+3. **Marketing mora biti predvidljiv.** Na milion evra, firma ne moï¿½e da zavisi od preporuka i slucajnih upita. Treba joj marketinï¿½ka maï¿½ina koja donosi predvidljiv broj lead-ova svake nedelje.
 
-Ako �elite strukturiran pogled na va� biznis, pogledajte na� [consulting program](/consulting).
+Ako ï¿½elite strukturiran pogled na vaï¿½ biznis, pogledajte naï¿½ [consulting program](/consulting).
 
 Takode preporucujemo: [Od nule do prvih 10.000 evra mesecno: vodic za pocetnike](/blog/od-nule-do-prvih-10000-evra-mesecno).
 
 ---
 
-Ako je va�a firma u ovoj zoni, [javite nam se](/kontakt). Specijalizovani smo za pomoc firmama koje �ele da predu sa milion na tri.
+Ako je vaï¿½a firma u ovoj zoni, [javite nam se](/kontakt). Specijalizovani smo za pomoc firmama koje ï¿½ele da predu sa milion na tri.
 `,
   },
   {
@@ -4786,83 +5013,83 @@ Ako je va�a firma u ovoj zoni, [javite nam se](/kontakt). Specijalizovani smo 
     category: 'Biznis',
     readTime: '7 min',
     content: `
-## Za�to je prvih 10K najte�e
+## Zaï¿½to je prvih 10K najteï¿½e
 
-Postoji razlog za�to je prelaz od 0 na 10.000� mesecno najte�i deo. Nemate klijente koji vas preporucuju. Nemate portfolio koji dokazuje kvalitet. Nemate sistem koji dovodi lead-ove automatski.
+Postoji razlog zaï¿½to je prelaz od 0 na 10.000ï¿½ mesecno najteï¿½i deo. Nemate klijente koji vas preporucuju. Nemate portfolio koji dokazuje kvalitet. Nemate sistem koji dovodi lead-ove automatski.
 
-Sve �to imate je va�e znanje i spremnost da radite ono �to drugi nece. I to je dovoljno, ako znate redosled koraka.
+Sve ï¿½to imate je vaï¿½e znanje i spremnost da radite ono ï¿½to drugi nece. I to je dovoljno, ako znate redosled koraka.
 
 ## Korak 1: Izaberite jednu uslugu i jednu publiku
 
-Najveca gre�ka na pocetku je poku�aj da radite sve za svakoga. "Radimo web dizajn, SEO, social media, branding, video produkciju..." Kad radite sve, niste ni u cemu ekspert. A klijenti placaju eksperte, ne generaliste.
+Najveca greï¿½ka na pocetku je pokuï¿½aj da radite sve za svakoga. "Radimo web dizajn, SEO, social media, branding, video produkciju..." Kad radite sve, niste ni u cemu ekspert. A klijenti placaju eksperte, ne generaliste.
 
-Izaberite jednu uslugu koja re�ava konkretan problem za konkretnu grupu ljudi. "Facebook oglasi za restorane." "Izrada sajtova za stomatolo�ke ordinacije." "Email marketing za e-commerce brendove."
+Izaberite jednu uslugu koja reï¿½ava konkretan problem za konkretnu grupu ljudi. "Facebook oglasi za restorane." "Izrada sajtova za stomatoloï¿½ke ordinacije." "Email marketing za e-commerce brendove."
 
-�to je ni�a u�a, lak�e je:
+ï¿½to je niï¿½a uï¿½a, lakï¿½e je:
 - Pronaci klijente (znate tacno gde su)
 - Napraviti ekspertizu (radite istu stvar ponovo)
-- Postaviti cenu (mo�ete pokazati specificne rezultate)
+- Postaviti cenu (moï¿½ete pokazati specificne rezultate)
 
 ## Korak 2: Nadite prvih 3-5 klijenata rucno
 
 Zaboravite na automatizaciju, funnele i skaliranje. Za prvih 5 klijenata, jedini kanal koji radi je direktan kontakt.
 
-Napravite listu od 50 potencijalnih klijenata. Pogledajte im sajt, dru�tvene mre�e i oglase. Nadite konkretnu stvar koju mogu da poprave. Javite im se sa specificnom opservacijom, ne sa genericnom ponudom.
+Napravite listu od 50 potencijalnih klijenata. Pogledajte im sajt, druï¿½tvene mreï¿½e i oglase. Nadite konkretnu stvar koju mogu da poprave. Javite im se sa specificnom opservacijom, ne sa genericnom ponudom.
 
-Primer: "Primetio sam da va� Google Business profil nema slike enterijera i da niste odgovorili na 3 recenzije. Ovo vam verovatno ko�ta 10-15 potencijalnih pacijenata mesecno. Mogu da vam pomognem da to sredite."
+Primer: "Primetio sam da vaï¿½ Google Business profil nema slike enterijera i da niste odgovorili na 3 recenzije. Ovo vam verovatno koï¿½ta 10-15 potencijalnih pacijenata mesecno. Mogu da vam pomognem da to sredite."
 
 Od 50 kontakata, 5-10 ce odgovoriti. Od tih, 2-3 ce postati klijenti. To je dovoljno za pocetak.
 
-> Prvih 5 klijenata ne dolazi od marketinga. Dolazi od direktnog kontakta sa konkretnom vredno�cu.
+> Prvih 5 klijenata ne dolazi od marketinga. Dolazi od direktnog kontakta sa konkretnom vrednoï¿½cu.
 
 ## Korak 3: Isporucite rezultate koji se mogu pokazati
 
-Prvih 3-5 klijenata su va� portfolio, va�i testimonijali i va�i dokazi. Dajte im vi�e nego �to su platili. Dokumentujte rezultate sa brojevima.
+Prvih 3-5 klijenata su vaï¿½ portfolio, vaï¿½i testimonijali i vaï¿½i dokazi. Dajte im viï¿½e nego ï¿½to su platili. Dokumentujte rezultate sa brojevima.
 
 "Klijent je imao 200 poseta mesecno na sajtu. Nakon 90 dana rada, ima 1.200." Ovo je dokaz koji zatvara sledece klijente bez mnogo ubjedivanja.
 
 ## Korak 4: Postavite cenu koja ima smisla
 
-Formula: koliko va�a usluga vredi klijentu? Ako va� rad donosi klijentu 5.000� mesecno dodatnog prihoda, naplatite 500-1.000�. To je 5-10x ROI za klijenta i fer kompenzacija za vas.
+Formula: koliko vaï¿½a usluga vredi klijentu? Ako vaï¿½ rad donosi klijentu 5.000ï¿½ mesecno dodatnog prihoda, naplatite 500-1.000ï¿½. To je 5-10x ROI za klijenta i fer kompenzacija za vas.
 
-Nemojte naplacivati po satu. Sat va�eg rada nije ista vrednost za sve klijente. Kampanja koja donosi restoranu 20 gostiju vi�e mesecno vredi mnogo vi�e nego isti rad za firmu kojoj donosi 2 gosta.
+Nemojte naplacivati po satu. Sat vaï¿½eg rada nije ista vrednost za sve klijente. Kampanja koja donosi restoranu 20 gostiju viï¿½e mesecno vredi mnogo viï¿½e nego isti rad za firmu kojoj donosi 2 gosta.
 
-## Korak 5: Sistematiizujte ono �to radi
+## Korak 5: Sistematiizujte ono ï¿½to radi
 
-Kad imate 5+ klijenata i znate �ta radi, zapi�ite proces korak po korak. Ovo je osnova za zapo�ljavanje ili outsourcing. Bez dokumentovanog procesa, svaki novi klijent zahteva isto vreme i energiju od vas licno.
+Kad imate 5+ klijenata i znate ï¿½ta radi, zapiï¿½ite proces korak po korak. Ovo je osnova za zapoï¿½ljavanje ili outsourcing. Bez dokumentovanog procesa, svaki novi klijent zahteva isto vreme i energiju od vas licno.
 
-Sa dokumentovanim procesom, mo�ete zaposliti nekoga ko preuzima 80% operativnog rada. Vi se fokusirate na prodaju i strategiju. Tu se de�ava rast.
+Sa dokumentovanim procesom, moï¿½ete zaposliti nekoga ko preuzima 80% operativnog rada. Vi se fokusirate na prodaju i strategiju. Tu se deï¿½ava rast.
 
 ## Matematika prvih 10K
 
-- 10 klijenata � 1.000� mesecno = 10.000�
-- 7 klijenata � 1.500� mesecno = 10.500�
-- 5 klijenata � 2.000� mesecno = 10.000�
+- 10 klijenata ï¿½ 1.000ï¿½ mesecno = 10.000ï¿½
+- 7 klijenata ï¿½ 1.500ï¿½ mesecno = 10.500ï¿½
+- 5 klijenata ï¿½ 2.000ï¿½ mesecno = 10.000ï¿½
 
 Ne trebate 100 klijenata. Trebate 5-10 klijenata koji placaju fer cenu za stvarnu vrednost. To je ostvarivo u roku od 3-6 meseci za nekoga ko je spreman da radi.
 
-Ako �elite strukturiran pogled na va� biznis, pogledajte na� [consulting program](/consulting).
+Ako ï¿½elite strukturiran pogled na vaï¿½ biznis, pogledajte naï¿½ [consulting program](/consulting).
 
-Takode preporucujemo: [Kako napraviti marketing bud�et koji ima smisla](/blog/kako-napraviti-marketing-budzet-koji-ima-smisla).
+Takode preporucujemo: [Kako napraviti marketing budï¿½et koji ima smisla](/blog/kako-napraviti-marketing-budzet-koji-ima-smisla).
 
 ---
 
-�elite pomoc da napravite sistem koji vas vodi do prvih 10K mesecno? [Javite nam se](/kontakt).
+ï¿½elite pomoc da napravite sistem koji vas vodi do prvih 10K mesecno? [Javite nam se](/kontakt).
 `,
   },
   {
     slug: 'pricing-psihologija-kontrola-percepcije-cene',
-    title: 'Pricing psihologija: kako brendovi kontroli�u percepciju cene',
-    excerpt: 'Cena nije broj. Cena je prica koju kupac prica sam sebi. Evo kako firme koje naplacuju 10x vi�e koriste psihologiju da to opravdaju.',
+    title: 'Pricing psihologija: kako brendovi kontroliï¿½u percepciju cene',
+    excerpt: 'Cena nije broj. Cena je prica koju kupac prica sam sebi. Evo kako firme koje naplacuju 10x viï¿½e koriste psihologiju da to opravdaju.',
     date: '2026-02-20',
     category: 'Marketing',
     readTime: '7 min',
     content: `
-## Za�to neke firme naplacuju 10x vi�e za isti proizvod
+## Zaï¿½to neke firme naplacuju 10x viï¿½e za isti proizvod
 
-Dva frizerska salona u istoj ulici. Isti kvalitet usluge. Jedan naplacuje �i�anje 800 dinara, drugi 4.000. I oba imaju pune termine.
+Dva frizerska salona u istoj ulici. Isti kvalitet usluge. Jedan naplacuje ï¿½iï¿½anje 800 dinara, drugi 4.000. I oba imaju pune termine.
 
-Razlika nije u kvalitetu makaza. Razlika je u tome kako je cena prezentovana, upakovana i pozicionirana u glavi kupca. Firme koje razumeju psihologiju cena zaraduju vi�estruko vi�e od onih koje se takmice ko ce biti jeftiniji.
+Razlika nije u kvalitetu makaza. Razlika je u tome kako je cena prezentovana, upakovana i pozicionirana u glavi kupca. Firme koje razumeju psihologiju cena zaraduju viï¿½estruko viï¿½e od onih koje se takmice ko ce biti jeftiniji.
 
 > Kupac ne placa za proizvod. Kupac placa za percepciju vrednosti koju taj proizvod nosi.
 
@@ -4877,300 +5104,300 @@ U praksi to znaci: ako imate tri paketa usluga, najskuplji postoji delimicno zat
 ## Decoy efekat: treca opcija koja menja odluku
 
 Zamislite da birate izmedu dva paketa:
-- **Basic:** 500� mesecno, 3 usluge
-- **Premium:** 1.500� mesecno, 10 usluga
+- **Basic:** 500ï¿½ mesecno, 3 usluge
+- **Premium:** 1.500ï¿½ mesecno, 10 usluga
 
 Vecina bira Basic jer je skok prevelik. Ali kad dodate trecu opciju:
-- **Basic:** 500� mesecno, 3 usluge
-- **Standard:** 1.200� mesecno, 9 usluga
-- **Premium:** 1.500� mesecno, 10 usluga
+- **Basic:** 500ï¿½ mesecno, 3 usluge
+- **Standard:** 1.200ï¿½ mesecno, 9 usluga
+- **Premium:** 1.500ï¿½ mesecno, 10 usluga
 
-Odjednom Premium izgleda kao mnogo bolji deal u poredenju sa Standard. Za samo 300� vi�e dobijate jednu uslugu vi�e. Standard postaje "decoy" koji gura ljude ka Premium.
+Odjednom Premium izgleda kao mnogo bolji deal u poredenju sa Standard. Za samo 300ï¿½ viï¿½e dobijate jednu uslugu viï¿½e. Standard postaje "decoy" koji gura ljude ka Premium.
 
-Ovo nije teorija. Dan Ariely sa MIT-a je dokazao da dodavanje strate�ki postavljene trece opcije menja odluku kod 40% kupaca.
+Ovo nije teorija. Dan Ariely sa MIT-a je dokazao da dodavanje strateï¿½ki postavljene trece opcije menja odluku kod 40% kupaca.
 
-## Charm pricing: za�to je 999 bolje od 1.000
+## Charm pricing: zaï¿½to je 999 bolje od 1.000
 
-Postoji razlog za�to skoro svaka cena na internetu zavr�ava sa 9. Istra�ivanje sa MIT-a i Univerziteta u Cikagu testiralo je �ensku odecu po tri cene: $34, $39 i $44. Ocekivali biste da najjeftinija proda najvi�e.
+Postoji razlog zaï¿½to skoro svaka cena na internetu zavrï¿½ava sa 9. Istraï¿½ivanje sa MIT-a i Univerziteta u Cikagu testiralo je ï¿½ensku odecu po tri cene: $34, $39 i $44. Ocekivali biste da najjeftinija proda najviï¿½e.
 
-Pogre�no. Cena od $39 je nadma�ila ostale dve. Mozak obraduje cenu od leva ka desno i automatski registruje prvu cifru kao referentnu. 999 dinara se cita kao "negde oko 900", dok 1.000 automatski prelazi u drugu kategoriju.
+Pogreï¿½no. Cena od $39 je nadmaï¿½ila ostale dve. Mozak obraduje cenu od leva ka desno i automatski registruje prvu cifru kao referentnu. 999 dinara se cita kao "negde oko 900", dok 1.000 automatski prelazi u drugu kategoriju.
 
-Izuzetak su premium brendovi. Rolex nikada ne stavlja cenu od 9.999�. Stavljaju 10.000� jer okrugla cena signalizira kvalitet i ozbiljnost. Za premium pozicioniranje, charm pricing radi kontraproduktivno.
+Izuzetak su premium brendovi. Rolex nikada ne stavlja cenu od 9.999ï¿½. Stavljaju 10.000ï¿½ jer okrugla cena signalizira kvalitet i ozbiljnost. Za premium pozicioniranje, charm pricing radi kontraproduktivno.
 
 ## Kako primeniti ovo u svom biznisu
 
-Vecina malih firmi postavlja cene na osnovu tro�kova plus mar�a. To je aritmetika, ne strategija.
+Vecina malih firmi postavlja cene na osnovu troï¿½kova plus marï¿½a. To je aritmetika, ne strategija.
 
 Evo tri koraka koja odmah menjaju percepciju:
 
 - **Dodajte premium opciju.** Cak i ako je niko ne kupuje, ona menja kontekst za ostale opcije.
 - **Koristite tri paketa umesto dva.** Srednji paket treba da bude ocigledno najbolja vrednost.
-- **Testirajte cene koje zavr�avaju na 7 ili 9.** Za uslu�ne firme, 997� gotovo uvek nadma�uje 1.000� u konverzijama.
+- **Testirajte cene koje zavrï¿½avaju na 7 ili 9.** Za usluï¿½ne firme, 997ï¿½ gotovo uvek nadmaï¿½uje 1.000ï¿½ u konverzijama.
 
-Cena je najmocniji alat u marketingu koji vecina firmi nikada ne testira. Jedna promena u prezentaciji cene mo�e povecati prihod za 20-30% bez ijednog dodatnog kupca.
+Cena je najmocniji alat u marketingu koji vecina firmi nikada ne testira. Jedna promena u prezentaciji cene moï¿½e povecati prihod za 20-30% bez ijednog dodatnog kupca.
 
-Ako �elite strukturiran pogled na va� biznis, pogledajte na� [consulting program](/consulting).
+Ako ï¿½elite strukturiran pogled na vaï¿½ biznis, pogledajte naï¿½ [consulting program](/consulting).
 
-Takode preporucujemo: [Pricing psihologija: kako luksuzni brendovi kontroli�u percepciju cene](/blog/pricing-psihologija-kako-luksuzni-brendovi-kontrolisu-percepciju-cene).
+Takode preporucujemo: [Pricing psihologija: kako luksuzni brendovi kontroliï¿½u percepciju cene](/blog/pricing-psihologija-kako-luksuzni-brendovi-kontrolisu-percepciju-cene).
 
 ---
 
-Ako �elite pomoc sa pricing strategijom za va� biznis, [javite nam se](/kontakt). Analiziracemo va�u trenutnu strukturu cena i predlo�iti konkretne promene.
+Ako ï¿½elite pomoc sa pricing strategijom za vaï¿½ biznis, [javite nam se](/kontakt). Analiziracemo vaï¿½u trenutnu strukturu cena i predloï¿½iti konkretne promene.
 `,
   },
   {
     slug: 'ponuda-koju-niko-ne-moze-da-odbije',
-    title: 'Anatomija neodoljive ponude: za�to vecina firmi prodaje pogre�no',
-    excerpt: 'Vecina firmi se takmici cenom. Firme koje razumeju anatomiju ponude se takmice vredno�cu. Evo kako napraviti ponudu koja se ne odbija.',
+    title: 'Anatomija neodoljive ponude: zaï¿½to vecina firmi prodaje pogreï¿½no',
+    excerpt: 'Vecina firmi se takmici cenom. Firme koje razumeju anatomiju ponude se takmice vrednoï¿½cu. Evo kako napraviti ponudu koja se ne odbija.',
     date: '2026-02-20',
     category: 'Biznis',
     readTime: '7 min',
     content: `
 ## Problem sa "dobrim proizvodom po dobroj ceni"
 
-Vecina firmi veruje da je dobar proizvod po korektnoj ceni dovoljan za prodaju. I onda se cude za�to im konverzija stoji na 2-3% dok konkurencija sa slicnim proizvodom zatvara 15%.
+Vecina firmi veruje da je dobar proizvod po korektnoj ceni dovoljan za prodaju. I onda se cude zaï¿½to im konverzija stoji na 2-3% dok konkurencija sa slicnim proizvodom zatvara 15%.
 
-Razlika skoro nikada nije u proizvodu. Razlika je u ponudi. Proizvod je ono �to kupac dobija. Ponuda je celokupan paket: �ta dobija, kako dobija, �ta rizikuje, i �ta propu�ta ako ne kupi.
+Razlika skoro nikada nije u proizvodu. Razlika je u ponudi. Proizvod je ono ï¿½to kupac dobija. Ponuda je celokupan paket: ï¿½ta dobija, kako dobija, ï¿½ta rizikuje, i ï¿½ta propuï¿½ta ako ne kupi.
 
 ## Cetiri elementa neodoljive ponude
 
 Svaka ponuda koja zaista konvertuje ima istu formulu. Nije komplikovana, ali je vecina firmi nikad ne primeni kompletno:
 
-**Vrednost ponude = (�eljeni rezultat � Verovatnoca uspeha) / (Vreme do rezultata � Ulo�eni napor)**
+**Vrednost ponude = (ï¿½eljeni rezultat ï¿½ Verovatnoca uspeha) / (Vreme do rezultata ï¿½ Uloï¿½eni napor)**
 
-Kad �elite bolju ponudu, imate cetiri poluge:
-- Povecajte �eljeni rezultat (�ta kupac dobija)
+Kad ï¿½elite bolju ponudu, imate cetiri poluge:
+- Povecajte ï¿½eljeni rezultat (ï¿½ta kupac dobija)
 - Povecajte verovatnocu da ce uspeti (garancija, dokazi)
 - Smanjite vreme do rezultata (brzina isporuke)
 - Smanjite napor kupca (jednostavnost)
 
-> Ponuda nije lista feature-a. Ponuda je odgovor na pitanje: "Za�to bih bio budala da ovo propustim?"
+> Ponuda nije lista feature-a. Ponuda je odgovor na pitanje: "Zaï¿½to bih bio budala da ovo propustim?"
 
 ## Value stacking: gomilanje vrednosti
 
-Umesto da ka�ete "SEO optimizacija za 800� mesecno", razbijte ponudu na komponente:
+Umesto da kaï¿½ete "SEO optimizacija za 800ï¿½ mesecno", razbijte ponudu na komponente:
 
-- SEO audit sajta (vrednost 500�)
-- Optimizacija 20 stranica (vrednost 1.000�)
-- Mesecni izve�taj sa akcijama (vrednost 200�)
-- Konkurentska analiza (vrednost 300�)
-- Link building strategija (vrednost 400�)
-- **Ukupna vrednost: 2.400�**
-- **Va�a cena: 800� mesecno**
+- SEO audit sajta (vrednost 500ï¿½)
+- Optimizacija 20 stranica (vrednost 1.000ï¿½)
+- Mesecni izveï¿½taj sa akcijama (vrednost 200ï¿½)
+- Konkurentska analiza (vrednost 300ï¿½)
+- Link building strategija (vrednost 400ï¿½)
+- **Ukupna vrednost: 2.400ï¿½**
+- **Vaï¿½a cena: 800ï¿½ mesecno**
 
-Kupac ne vidi 800�. Kupac vidi 2.400� vrednosti za 800�. Ista usluga, potpuno drugacija percepcija.
+Kupac ne vidi 800ï¿½. Kupac vidi 2.400ï¿½ vrednosti za 800ï¿½. Ista usluga, potpuno drugacija percepcija.
 
-Ovo nije manipulacija. Ovo je isticanje svega �to kupac zaista dobija, a �to vecina firmi podrazumeva i ne pominje.
+Ovo nije manipulacija. Ovo je isticanje svega ï¿½to kupac zaista dobija, a ï¿½to vecina firmi podrazumeva i ne pominje.
 
-## Garancija koja elimini�e rizik
+## Garancija koja eliminiï¿½e rizik
 
-Najveca prepreka kupovini nije cena. Najveca prepreka je strah da nece raditi. Firme koje elimini�u taj strah konvertuju dramaticno bolje.
+Najveca prepreka kupovini nije cena. Najveca prepreka je strah da nece raditi. Firme koje eliminiï¿½u taj strah konvertuju dramaticno bolje.
 
 Tri tipa garancija od najslabije do najjace:
 - **Garancija zadovoljstva:** "Ako niste zadovoljni, vracamo novac." Standardno, ali radi.
 - **Garancija rezultata:** "Ako ne dobijete 20+ lead-ova u prvom mesecu, sledeci mesec je besplatan." Mnogo jace jer obecava konkretan ishod.
 - **Garancija bez uslova:** "Probajte 30 dana. Ako vam se ne svida iz bilo kog razloga, vracamo svaki dinar." Najrizicnija za firmu, ali najubedljivija za kupca.
 
-Firme se pla�e garancija jer misle da ce svi tra�iti povrat. U praksi, stopa povrata sa garancijom je 5-10%, ali povecanje konverzija je 30-50%. Matematika je jasna.
+Firme se plaï¿½e garancija jer misle da ce svi traï¿½iti povrat. U praksi, stopa povrata sa garancijom je 5-10%, ali povecanje konverzija je 30-50%. Matematika je jasna.
 
-## Urgentnost bez la�nog pritiska
+## Urgentnost bez laï¿½nog pritiska
 
-"Samo jo� 3 mesta!" kad svi znaju da nije istina. La�na urgentnost ubija poverenje. Ali prava urgentnost je mocan alat.
+"Samo joï¿½ 3 mesta!" kad svi znaju da nije istina. Laï¿½na urgentnost ubija poverenje. Ali prava urgentnost je mocan alat.
 
 Primeri prave urgentnosti:
 - **Kapacitet:** "Primamo 5 novih klijenata mesecno jer svaki zahteva 40 sati rada." Realno i proverljivo.
-- **Sezonalnost:** "Kampanje pokrenute pre marta hvatauju Q2 saobracaj." Povezano sa kalendarem, ne sa la�nim tajmerom.
+- **Sezonalnost:** "Kampanje pokrenute pre marta hvatauju Q2 saobracaj." Povezano sa kalendarem, ne sa laï¿½nim tajmerom.
 - **Bonus sa rokom:** "Prva 3 klijenta ovog meseca dobijaju besplatan video audit." Konkretan, ogranicen, verodostojan.
 
 > Prava urgentnost dolazi iz ogranicenja kapaciteta ili vremena, ne iz countdown tajmera na landing stranici.
 
 ## Kako mi ovo primenjujemo
 
-U Platinum Zenith-u, svaku ponudu za klijente gradimo po ovoj strukturi. Ne prodajemo "marketing usluge". Prodajemo konkretan rezultat sa jasnom vredno�cu, garancijom i vremenskim okvirom.
+U Platinum Zenith-u, svaku ponudu za klijente gradimo po ovoj strukturi. Ne prodajemo "marketing usluge". Prodajemo konkretan rezultat sa jasnom vrednoï¿½cu, garancijom i vremenskim okvirom.
 
-Rezultat: na�i klijenti ne porede nas sa "jeftinijim" agencijama. Porede nas sa vredno�cu koju dobijaju. I to je potpuno drugaciji razgovor.
+Rezultat: naï¿½i klijenti ne porede nas sa "jeftinijim" agencijama. Porede nas sa vrednoï¿½cu koju dobijaju. I to je potpuno drugaciji razgovor.
 
-Ako �elite strukturiran pogled na va� biznis, pogledajte na� [consulting program](/consulting).
+Ako ï¿½elite strukturiran pogled na vaï¿½ biznis, pogledajte naï¿½ [consulting program](/consulting).
 
 Takode preporucujemo: [Komunikacija u prodaji: kako napisati ponudu koja zatvara](/blog/komunikacija-u-prodaji-kako-napisati-ponudu).
 
 ---
 
-�elite da napravimo neodoljivu ponudu za va� biznis? [Javite nam se](/kontakt) i pokazacemo vam kako.
+ï¿½elite da napravimo neodoljivu ponudu za vaï¿½ biznis? [Javite nam se](/kontakt) i pokazacemo vam kako.
 `,
   },
   {
     slug: 'organski-doseg-umire-sta-raditi',
-    title: 'Za�to organski doseg umire i �ta pametne firme rade umesto toga',
-    excerpt: 'Facebook organski doseg pao na 2%. Instagram sledi isti trend. Evo �ta firme koje i dalje rastu rade drugacije.',
+    title: 'Zaï¿½to organski doseg umire i ï¿½ta pametne firme rade umesto toga',
+    excerpt: 'Facebook organski doseg pao na 2%. Instagram sledi isti trend. Evo ï¿½ta firme koje i dalje rastu rade drugacije.',
     date: '2026-02-20',
     category: 'Marketing',
     readTime: '6 min',
     content: `
-## Brojevi koje niko ne �eli da cuje
+## Brojevi koje niko ne ï¿½eli da cuje
 
-2015. godine, prosecan Facebook post firme dosezao je 10-15% pratilaca. Danas je ta cifra ispod 2%. Instagram je pro�ao slican put: od 20%+ dosega na 5-7%, sa trendom ka jo� ni�im brojevima.
+2015. godine, prosecan Facebook post firme dosezao je 10-15% pratilaca. Danas je ta cifra ispod 2%. Instagram je proï¿½ao slican put: od 20%+ dosega na 5-7%, sa trendom ka joï¿½ niï¿½im brojevima.
 
-Ovo nije bag. Ovo je biznis model. Platforme zaraduju od oglasa. �to manje organskog dosega daju firmama, vi�e firmi mora da plati za vidljivost. Logicno iz perspektive platforme, frustrirajuce iz perspektive firme koja je godinama gradila publiku.
+Ovo nije bag. Ovo je biznis model. Platforme zaraduju od oglasa. ï¿½to manje organskog dosega daju firmama, viï¿½e firmi mora da plati za vidljivost. Logicno iz perspektive platforme, frustrirajuce iz perspektive firme koja je godinama gradila publiku.
 
-## Za�to objavljivanje vi�e sadr�aja ne re�ava problem
+## Zaï¿½to objavljivanje viï¿½e sadrï¿½aja ne reï¿½ava problem
 
-Instinktivna reakcija vecine firmi: "Objavicemo ce�ce." Problem je �to vi�e sadr�aja u istom okru�enju pada dosega ne menja osnovi problem. Objavljujete 5 puta nedeljno umesto 3, i svaki post i dalje dose�e 2% publike.
+Instinktivna reakcija vecine firmi: "Objavicemo ceï¿½ce." Problem je ï¿½to viï¿½e sadrï¿½aja u istom okruï¿½enju pada dosega ne menja osnovi problem. Objavljujete 5 puta nedeljno umesto 3, i svaki post i dalje doseï¿½e 2% publike.
 
-Gora stvar: platforme aktivno ka�njavaju nizak engagement. Ako objavljujete cesto a reakcije su slabe, algoritam zakljucuje da va� sadr�aj nije interesantan i smanjuje doseg jo� vi�e.
+Gora stvar: platforme aktivno kaï¿½njavaju nizak engagement. Ako objavljujete cesto a reakcije su slabe, algoritam zakljucuje da vaï¿½ sadrï¿½aj nije interesantan i smanjuje doseg joï¿½ viï¿½e.
 
-> Organski doseg nije umro potpuno. Ali oslanjati se iskljucivo na njega za rast biznisa u 2026. je kao cekati autobus koji vi�e ne saobraca.
+> Organski doseg nije umro potpuno. Ali oslanjati se iskljucivo na njega za rast biznisa u 2026. je kao cekati autobus koji viï¿½e ne saobraca.
 
-## �ta pametne firme rade umesto toga
+## ï¿½ta pametne firme rade umesto toga
 
-Firme koje i dalje rastu nisu prestale da objavljuju organski sadr�aj. Ali su promenile ulogu tog sadr�aja u celokupnoj strategiji.
+Firme koje i dalje rastu nisu prestale da objavljuju organski sadrï¿½aj. Ali su promenile ulogu tog sadrï¿½aja u celokupnoj strategiji.
 
 ### 1. Email lista kao osiguranje
 
-Email je jedini kanal gde vi kontroli�ete doseg. Nema algoritma. Nema promene pravila preko noci. Kad imate email listu od 5.000 pretplatnika i po�aljete newsletter, 20-30% ce ga otvoriti. To je 1.000-1.500 ljudi garantovano.
+Email je jedini kanal gde vi kontroliï¿½ete doseg. Nema algoritma. Nema promene pravila preko noci. Kad imate email listu od 5.000 pretplatnika i poï¿½aljete newsletter, 20-30% ce ga otvoriti. To je 1.000-1.500 ljudi garantovano.
 
-Firme koje grade email listu danas imaju osiguranje za buducnost. Sve ostalo (Instagram, TikTok, LinkedIn) mo�e nestati ili promeniti pravila sutra.
+Firme koje grade email listu danas imaju osiguranje za buducnost. Sve ostalo (Instagram, TikTok, LinkedIn) moï¿½e nestati ili promeniti pravila sutra.
 
-### 2. Placena amplifikacija organskog sadr�aja
+### 2. Placena amplifikacija organskog sadrï¿½aja
 
-Umesto da organski sadr�aj bude glavni kanal akvizicije, koriste ga kao osnovu za placene kampanje. Napi�ete odlican blog post ili napravite koristan video. Onda stavite 20-50� na promociju tog sadr�aja ka specificnoj publici.
+Umesto da organski sadrï¿½aj bude glavni kanal akvizicije, koriste ga kao osnovu za placene kampanje. Napiï¿½ete odlican blog post ili napravite koristan video. Onda stavite 20-50ï¿½ na promociju tog sadrï¿½aja ka specificnoj publici.
 
-Rezultat: sadr�aj koji bi organski dosegao 200 ljudi sada dose�e 20.000. I to 20.000 pravih ljudi, ne random pratilaca.
+Rezultat: sadrï¿½aj koji bi organski dosegao 200 ljudi sada doseï¿½e 20.000. I to 20.000 pravih ljudi, ne random pratilaca.
 
 ### 3. Owned media umesto rented media
 
-Instagram nalog je "rented media" jer ne kontroli�ete platformu. Blog na va�em sajtu je "owned media" jer je potpuno va�.
+Instagram nalog je "rented media" jer ne kontroliï¿½ete platformu. Blog na vaï¿½em sajtu je "owned media" jer je potpuno vaï¿½.
 
-Firme koje investiraju u blog, newsletter i YouTube kanal (gde je organski doseg jo� relativno jak) grade imovinu koju niko ne mo�e da im oduzme. Blog post koji ste napisali pre godinu dana i dalje donosi saobracaj sa Google-a. Instagram post od pre godinu dana ne donosi ni�ta.
+Firme koje investiraju u blog, newsletter i YouTube kanal (gde je organski doseg joï¿½ relativno jak) grade imovinu koju niko ne moï¿½e da im oduzme. Blog post koji ste napisali pre godinu dana i dalje donosi saobracaj sa Google-a. Instagram post od pre godinu dana ne donosi niï¿½ta.
 
 ### 4. Community umesto publike
 
-Publika gleda va� sadr�aj. Zajednica razgovara. Facebook grupe, Discord serveri, WhatsApp grupe. Formati gde ljudi pricaju jedni sa drugima, ne samo slu�aju vas.
+Publika gleda vaï¿½ sadrï¿½aj. Zajednica razgovara. Facebook grupe, Discord serveri, WhatsApp grupe. Formati gde ljudi pricaju jedni sa drugima, ne samo sluï¿½aju vas.
 
 Doseg u zatvorenim grupama je 60-80% jer ljudi aktivno proveravaju grupe. Uporedite to sa 2% na Facebook stranici.
 
 ## Kako izgledaju brojevi u praksi
 
-Firma koja tro�i 100% marketin�kog bud�eta na organski sadr�aj:
-- Doseg: 2% publike na dru�tvenim mre�ama
+Firma koja troï¿½i 100% marketinï¿½kog budï¿½eta na organski sadrï¿½aj:
+- Doseg: 2% publike na druï¿½tvenim mreï¿½ama
 - Kontrola: nula (platforma menja pravila kad hoce)
 - Predvidljivost: niska
 
-Firma koja kombinuje organski sadr�aj + placenu amplifikaciju + email:
-- Doseg: 10-30x veci sa istim sadr�ajem
-- Kontrola: visoka (email lista je va�a)
+Firma koja kombinuje organski sadrï¿½aj + placenu amplifikaciju + email:
+- Doseg: 10-30x veci sa istim sadrï¿½ajem
+- Kontrola: visoka (email lista je vaï¿½a)
 - Predvidljivost: visoka
 
-Saznajte kako [upravljamo dru�tvenim mre�ama](/drustvene-mreze) za firme koje �ele rezultate, ne samo pratioce.
+Saznajte kako [upravljamo druï¿½tvenim mreï¿½ama](/drustvene-mreze) za firme koje ï¿½ele rezultate, ne samo pratioce.
 
 Takode preporucujemo: [Content marketing: investicija koja se vraca godinama](/blog/content-marketing-dugorocna-investicija).
 
 ---
 
-Ako �elite da prestanete da zavisite od algoritama, [javite nam se](/kontakt). Napravicemo vam strategiju koja kombinuje sve kanale.
+Ako ï¿½elite da prestanete da zavisite od algoritama, [javite nam se](/kontakt). Napravicemo vam strategiju koja kombinuje sve kanale.
 `,
   },
   {
     slug: 'google-ads-vs-facebook-ads-koji-je-bolji',
-    title: 'Google Ads vs Facebook Ads: koji je bolji za va� biznis',
-    excerpt: 'Google Ads hvata ljude koji aktivno tra�e re�enje, Facebook Ads ljude koji tek otkrivaju ponudu. Pravi izbor zavisi od mar�e, cilja kampanje i brzine povrata.',
+    title: 'Google Ads vs Facebook Ads: koji je bolji za vaï¿½ biznis',
+    excerpt: 'Google Ads hvata ljude koji aktivno traï¿½e reï¿½enje, Facebook Ads ljude koji tek otkrivaju ponudu. Pravi izbor zavisi od marï¿½e, cilja kampanje i brzine povrata.',
     date: '2026-02-20',
     category: 'Marketing',
     readTime: '6 min',
     content: `
 ## Dva potpuno razlicita pristupa
 
-Google Ads i Facebook Ads su dva najmocnija kanala za online ogla�avanje. Ali oni rade na potpuno razlicitim principima i porediti ih je kao porediti pecanje i lov.
+Google Ads i Facebook Ads su dva najmocnija kanala za online oglaï¿½avanje. Ali oni rade na potpuno razlicitim principima i porediti ih je kao porediti pecanje i lov.
 
-**Google Ads je pecanje.** Bacate mamac (oglas) i cekate da riba (kupac) dode do vas. Kupac aktivno tra�i re�enje: "stomatolog Beograd", "izrada sajta cena", "kupi patike online". On vec �eli da kupi. Vi samo trebate da budete tu kad pretra�uje.
+**Google Ads je pecanje.** Bacate mamac (oglas) i cekate da riba (kupac) dode do vas. Kupac aktivno traï¿½i reï¿½enje: "stomatolog Beograd", "izrada sajta cena", "kupi patike online". On vec ï¿½eli da kupi. Vi samo trebate da budete tu kad pretraï¿½uje.
 
-**Facebook Ads je lov.** Vi idete ka kupcu. On skroluje kroz feed, gleda slike prijatelja i meme-ove. Va� oglas ga prekida i ka�e: "Hej, mo�da te zanima ovo." Kupac nije tra�io ni�ta, ali va� oglas je toliko dobar da ne mo�e da ga ignori�e.
+**Facebook Ads je lov.** Vi idete ka kupcu. On skroluje kroz feed, gleda slike prijatelja i meme-ove. Vaï¿½ oglas ga prekida i kaï¿½e: "Hej, moï¿½da te zanima ovo." Kupac nije traï¿½io niï¿½ta, ali vaï¿½ oglas je toliko dobar da ne moï¿½e da ga ignoriï¿½e.
 
-> Google hvata potra�nju koja vec postoji. Facebook stvara potra�nju koja nije postojala.
+> Google hvata potraï¿½nju koja vec postoji. Facebook stvara potraï¿½nju koja nije postojala.
 
 ## Kad koristiti Google Ads
 
 Google Ads je idealan kad:
-- Ljudi aktivno pretra�uju va� proizvod ili uslugu
-- Imate jasan, konkretan proizvod sa poznatom potra�njom
-- �elite brze rezultate (kampanja mo�e poceti da donosi klijente za 24-48h)
-- Va�a usluga re�ava specifican problem (stomatolog, vodoinstalater, advokat)
+- Ljudi aktivno pretraï¿½uju vaï¿½ proizvod ili uslugu
+- Imate jasan, konkretan proizvod sa poznatom potraï¿½njom
+- ï¿½elite brze rezultate (kampanja moï¿½e poceti da donosi klijente za 24-48h)
+- Vaï¿½a usluga reï¿½ava specifican problem (stomatolog, vodoinstalater, advokat)
 
-Prosecna cena po kliku u Srbiji: 15-80 dinara za vecinu industrija. CPC za konkurentne ni�e (osiguranje, finansije) mo�e ici do 200+ dinara.
+Prosecna cena po kliku u Srbiji: 15-80 dinara za vecinu industrija. CPC za konkurentne niï¿½e (osiguranje, finansije) moï¿½e ici do 200+ dinara.
 
-Gde Google ne radi dobro: novi proizvodi koje niko ne tra�i, brendovi koje niko ne zna, impulzivne kupovine.
+Gde Google ne radi dobro: novi proizvodi koje niko ne traï¿½i, brendovi koje niko ne zna, impulzivne kupovine.
 
 ## Kad koristiti Facebook Ads
 
 Facebook Ads je idealan kad:
-- Va� proizvod je vizuelan (odeca, kozmetika, hrana, dizajn)
+- Vaï¿½ proizvod je vizuelan (odeca, kozmetika, hrana, dizajn)
 - Ciljate specificnu demografiju (mlade mame, vlasnici firmi, fitness entuzijasti)
-- �elite da gradite brand awareness i da vas ljudi zapamte
-- Imate pricu ili sadr�aj koji se mo�e pokazati (before/after, testimonijali)
+- ï¿½elite da gradite brand awareness i da vas ljudi zapamte
+- Imate pricu ili sadrï¿½aj koji se moï¿½e pokazati (before/after, testimonijali)
 
-Prosecan CPM (cena za 1.000 prikaza) u Srbiji: 1-4�. Za e-commerce, ROAS od 3-5x je realan sa dobrim kreativom.
+Prosecan CPM (cena za 1.000 prikaza) u Srbiji: 1-4ï¿½. Za e-commerce, ROAS od 3-5x je realan sa dobrim kreativom.
 
-Gde Facebook ne radi dobro: urgentne usluge ("zakljucao sam se, treba mi bravar"), B2B sa u�om ni�om, proizvodi sa dugim ciklusom odlucivanja bez nurture sistema.
+Gde Facebook ne radi dobro: urgentne usluge ("zakljucao sam se, treba mi bravar"), B2B sa uï¿½om niï¿½om, proizvodi sa dugim ciklusom odlucivanja bez nurture sistema.
 
 ## Tajna: najbolje firme koriste oba
 
 Firme sa najboljim rezultatima ne biraju izmedu jednog i drugog. Koriste oba u kombinaciji:
 
-1. **Facebook gradi awareness.** Ljudi vide va� oglas, kliknu, posete sajt. Mo�da ne kupe odmah, ali sada znaju da postojite.
-2. **Google hvata konverziju.** Nedelju dana kasnije, taj isti covek pretra�uje va� brend ili kategoriju na Google-u. Va� oglas je tu. Sada kupuje jer vas vec poznaje.
+1. **Facebook gradi awareness.** Ljudi vide vaï¿½ oglas, kliknu, posete sajt. Moï¿½da ne kupe odmah, ali sada znaju da postojite.
+2. **Google hvata konverziju.** Nedelju dana kasnije, taj isti covek pretraï¿½uje vaï¿½ brend ili kategoriju na Google-u. Vaï¿½ oglas je tu. Sada kupuje jer vas vec poznaje.
 
-Ova kombinacija smanjuje cenu po konverziji za 20-40% u poredenju sa kori�cenjem samo jednog kanala. Razlog: kupac koji je prethodno video va� brend na Facebook-u ima 2-3x vecu �ansu da klikne na va� Google oglas.
+Ova kombinacija smanjuje cenu po konverziji za 20-40% u poredenju sa koriï¿½cenjem samo jednog kanala. Razlog: kupac koji je prethodno video vaï¿½ brend na Facebook-u ima 2-3x vecu ï¿½ansu da klikne na vaï¿½ Google oglas.
 
-## Kako raspodeliti bud�et
+## Kako raspodeliti budï¿½et
 
-Za firmu koja tek pocinje sa ogla�avanjem, preporuka zavisi od industrije:
+Za firmu koja tek pocinje sa oglaï¿½avanjem, preporuka zavisi od industrije:
 
-**Uslu�ne firme (stomatolog, advokat, majstor):** 70% Google, 30% Facebook. Ljudi aktivno tra�e ove usluge. Google donosi direktne pozive.
+**Usluï¿½ne firme (stomatolog, advokat, majstor):** 70% Google, 30% Facebook. Ljudi aktivno traï¿½e ove usluge. Google donosi direktne pozive.
 
-**E-commerce:** 60% Facebook, 40% Google Shopping. Proizvodi su vizuelni, impulzivni, Facebook je prirodno okru�enje.
+**E-commerce:** 60% Facebook, 40% Google Shopping. Proizvodi su vizuelni, impulzivni, Facebook je prirodno okruï¿½enje.
 
 **SaaS / B2B:** 50% Google, 30% LinkedIn, 20% Facebook retargeting. Odluke su racionalnije, Google hvata intent, LinkedIn cilja pozicije.
 
-**Lokalni biznisi:** 60% Google (lokalne pretrage), 40% Facebook (community building). Google Maps + lokalni oglasi su najbr�i put do rezultata.
+**Lokalni biznisi:** 60% Google (lokalne pretrage), 40% Facebook (community building). Google Maps + lokalni oglasi su najbrï¿½i put do rezultata.
 
-Saznajte vi�e o na�em [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
+Saznajte viï¿½e o naï¿½em [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
 
-Takode preporucujemo: [Facebook vs Instagram oglasi: gde je va�a publika?](/blog/facebook-vs-instagram-oglasi-gde-je-vasa-publika).
+Takode preporucujemo: [Facebook vs Instagram oglasi: gde je vaï¿½a publika?](/blog/facebook-vs-instagram-oglasi-gde-je-vasa-publika).
 
 ---
 
-Niste sigurni gde da ula�ete bud�et? [Javite nam se](/kontakt) i napravicemo vam plan baziran na va�oj industriji i ciljevima.
+Niste sigurni gde da ulaï¿½ete budï¿½et? [Javite nam se](/kontakt) i napravicemo vam plan baziran na vaï¿½oj industriji i ciljevima.
 `,
   },
   {
     slug: 'content-marketing-dugorocna-investicija',
     title: 'Content marketing: investicija koja se vraca godinama',
-    excerpt: 'Blog post koji ste napisali pre 2 godine i dalje donosi saobracaj. Facebook oglas od pre 2 godine ne donosi ni�ta. Evo za�to je to bitno.',
+    excerpt: 'Blog post koji ste napisali pre 2 godine i dalje donosi saobracaj. Facebook oglas od pre 2 godine ne donosi niï¿½ta. Evo zaï¿½to je to bitno.',
     date: '2026-02-20',
     category: 'Marketing',
     readTime: '6 min',
     content: `
-## Compound efekat sadr�aja
+## Compound efekat sadrï¿½aja
 
 Kad platite Google oglas, dobijate klik. Kad ugasite kampanju, klikovi prestaju. Odnos je linearan: platite X, dobijete Y. Prestanete da placate, Y pada na nulu.
 
-Kad napi�ete blog post koji se rangira na Google-u, taj post donosi saobracaj dok je rangiran. Mesec za mesecom, godina za godinom. Ovo je compound efekat sadr�aja i to je razlog za�to firme poput HubSpot-a, Ahrefs-a i Moz-a investiraju milione u blog.
+Kad napiï¿½ete blog post koji se rangira na Google-u, taj post donosi saobracaj dok je rangiran. Mesec za mesecom, godina za godinom. Ovo je compound efekat sadrï¿½aja i to je razlog zaï¿½to firme poput HubSpot-a, Ahrefs-a i Moz-a investiraju milione u blog.
 
 HubSpot je objavio podatak da 75% njihovog blog saobracaja dolazi od postova koji su stariji od mesec dana. A 60% dolazi od postova starijih od 6 meseci.
 
-> Svaki blog post koji napi�ete je zaposlenik koji radi za vas 24/7. Ne tra�i platu, ne ide na odmor, ne daje otkaz.
+> Svaki blog post koji napiï¿½ete je zaposlenik koji radi za vas 24/7. Ne traï¿½i platu, ne ide na odmor, ne daje otkaz.
 
-## Za�to vecina firmi odustane pre rezultata
+## Zaï¿½to vecina firmi odustane pre rezultata
 
-Problem sa content marketingom je �to rezultati nisu trenutni. Placeni oglas daje rezultate za 24 sata. Blog post koji ste napisali danas mo�da nece doneti znacajan saobracaj 3-6 meseci.
+Problem sa content marketingom je ï¿½to rezultati nisu trenutni. Placeni oglas daje rezultate za 24 sata. Blog post koji ste napisali danas moï¿½da nece doneti znacajan saobracaj 3-6 meseci.
 
-Ovo je razlog za�to 90% firmi koje pocnu sa blogom odustane u prvih 6 meseci. Napi�u 10-15 postova, ne vide rezultate, i zakljuce da "content marketing ne radi za na�u industriju."
+Ovo je razlog zaï¿½to 90% firmi koje pocnu sa blogom odustane u prvih 6 meseci. Napiï¿½u 10-15 postova, ne vide rezultate, i zakljuce da "content marketing ne radi za naï¿½u industriju."
 
-A istina je da su bili na pola puta. Google treba vremena da indeksira sajt, da oceni kvalitet sadr�aja i da pocne da ga rangira. Prvih 6 meseci je investicija. Posle toga dolazi profit.
+A istina je da su bili na pola puta. Google treba vremena da indeksira sajt, da oceni kvalitet sadrï¿½aja i da pocne da ga rangira. Prvih 6 meseci je investicija. Posle toga dolazi profit.
 
 ## Pillar content strategija
 
-Ne trebate pisati 100 random blog postova. Trebate 5-10 pillar stranica koje pokrivaju glavne teme va�e industrije, i 20-30 manjih postova koji linkuju na te pilar stranice.
+Ne trebate pisati 100 random blog postova. Trebate 5-10 pillar stranica koje pokrivaju glavne teme vaï¿½e industrije, i 20-30 manjih postova koji linkuju na te pilar stranice.
 
 Primer za marketing agenciju:
 - **Pillar:** "Kompletni vodic za digitalni marketing" (3.000+ reci)
@@ -5178,25 +5405,25 @@ Primer za marketing agenciju:
 
 Svaki cluster post linkuje na pillar stranicu. Google vidi ovu strukturu i razume da ste autoritet na tu temu. Rezultat: bolji rangovi za sve povezane kljucne reci.
 
-## Koliko zapravo ko�ta
+## Koliko zapravo koï¿½ta
 
-Pisanje jednog kvalitetnog blog posta (1.000-1.500 reci, istra�ivanje, optimizacija): 3-5 sati rada ili 100-300� ako anga�ujete nekoga.
+Pisanje jednog kvalitetnog blog posta (1.000-1.500 reci, istraï¿½ivanje, optimizacija): 3-5 sati rada ili 100-300ï¿½ ako angaï¿½ujete nekoga.
 
-Recimo da objavite 2 posta nedeljno, 8 mesecno. To je 800-2.400� mesecno. Za godinu dana imate 96 postova koji rade za vas non-stop.
+Recimo da objavite 2 posta nedeljno, 8 mesecno. To je 800-2.400ï¿½ mesecno. Za godinu dana imate 96 postova koji rade za vas non-stop.
 
-Uporedite to sa Google Ads gde 2.400� mesecno donosi klikove samo dok placate. Za godinu dana ste potro�ili 28.800� i nemate ni�ta trajno.
+Uporedite to sa Google Ads gde 2.400ï¿½ mesecno donosi klikove samo dok placate. Za godinu dana ste potroï¿½ili 28.800ï¿½ i nemate niï¿½ta trajno.
 
-Content marketing je skuplji na pocetku i jeftiniji na du�i rok. Placeni oglasi su jeftiniji na pocetku i skuplji na du�i rok.
+Content marketing je skuplji na pocetku i jeftiniji na duï¿½i rok. Placeni oglasi su jeftiniji na pocetku i skuplji na duï¿½i rok.
 
 Najbolja strategija: koristite oba. Placeni oglasi za brze rezultate danas, content za organski rast sutra.
 
-Pogledajte kako [na� SEO pristup](/digitalni-marketing) poma�e klijentima da se pojave prvi na pretrazi.
+Pogledajte kako [naï¿½ SEO pristup](/digitalni-marketing) pomaï¿½e klijentima da se pojave prvi na pretrazi.
 
-Takode preporucujemo: [SEO vs PPC: �ta je bolje za dugorocni rast](/blog/seo-vs-ppc-sta-je-bolje-za-dugorocni-rast).
+Takode preporucujemo: [SEO vs PPC: ï¿½ta je bolje za dugorocni rast](/blog/seo-vs-ppc-sta-je-bolje-za-dugorocni-rast).
 
 ---
 
-�elite da pokrenete content marketing za va� biznis? [Javite nam se](/kontakt) i napravicemo vam plan sadr�aja koji privlaci klijente na autopilotu.
+ï¿½elite da pokrenete content marketing za vaï¿½ biznis? [Javite nam se](/kontakt) i napravicemo vam plan sadrï¿½aja koji privlaci klijente na autopilotu.
 `,
   },
   {
@@ -5207,23 +5434,23 @@ Takode preporucujemo: [SEO vs PPC: �ta je bolje za dugorocni rast](/blog/seo-v
     category: 'Marketing',
     readTime: '7 min',
     content: `
-## �ta je sales funnel (bez komplikovanja)
+## ï¿½ta je sales funnel (bez komplikovanja)
 
 Sales funnel je put koji potencijalni kupac prolazi od trenutka kad prvi put cuje za vas do trenutka kad plati. Svaka firma ima funnel, bilo da to zna ili ne. Pitanje je samo da li je taj funnel dizajniran ili slucajan.
 
-Slucajni funnel: neko vidi va� oglas ? klikne na sajt ? vidi cenu ? ode. Kraj.
+Slucajni funnel: neko vidi vaï¿½ oglas ? klikne na sajt ? vidi cenu ? ode. Kraj.
 
-Dizajniran funnel: neko vidi va� oglas ? klikne na koristan sadr�aj ? ostavi email ? dobija seriju korisnih mejlova ? dobija ponudu ? kupuje.
+Dizajniran funnel: neko vidi vaï¿½ oglas ? klikne na koristan sadrï¿½aj ? ostavi email ? dobija seriju korisnih mejlova ? dobija ponudu ? kupuje.
 
 ## Tri faze funnel-a
 
-### TOFU (Top of Funnel): Privlacenje pa�nje
+### TOFU (Top of Funnel): Privlacenje paï¿½nje
 
-Cilj: dovesti �to vi�e relevantnih ljudi do va� sadr�aj.
+Cilj: dovesti ï¿½to viï¿½e relevantnih ljudi do vaï¿½ sadrï¿½aj.
 
-Alati: blog postovi, dru�tvene mre�e, placeni oglasi, YouTube video.
+Alati: blog postovi, druï¿½tvene mreï¿½e, placeni oglasi, YouTube video.
 
-Gre�ka koju vecina pravi: poku�avaju da prodaju na ovom nivou. Neko ko vas tek upoznaje ne �eli da cuje o va�im cenama. �eli da vidi da razumete njegov problem.
+Greï¿½ka koju vecina pravi: pokuï¿½avaju da prodaju na ovom nivou. Neko ko vas tek upoznaje ne ï¿½eli da cuje o vaï¿½im cenama. ï¿½eli da vidi da razumete njegov problem.
 
 ### MOFU (Middle of Funnel): Gradenje poverenja
 
@@ -5231,7 +5458,7 @@ Cilj: pretvoriti posetioca u lead koji vam je dao kontakt.
 
 Alati: lead magneti (besplatni vodici, cekliste, kalkulatori), email sekvence, webinari.
 
-> Lead magnet je razmena: vi dajete ne�to korisno, kupac vam daje email adresu. Ako je lead magnet zaista koristan, kupac vas vec do�ivljava kao eksperta.
+> Lead magnet je razmena: vi dajete neï¿½to korisno, kupac vam daje email adresu. Ako je lead magnet zaista koristan, kupac vas vec doï¿½ivljava kao eksperta.
 
 ### BOFU (Bottom of Funnel): Zatvaranje prodaje
 
@@ -5239,109 +5466,109 @@ Cilj: pretvoriti lead u kupca.
 
 Alati: prodajna ponuda, konsultacija, demo poziv, ogranicena ponuda.
 
-Na ovom nivou, kupac vas vec poznaje, veruje vam i razume �ta nudite. Prodaja na ovom nivou je razgovor, ne ubjedivanje.
+Na ovom nivou, kupac vas vec poznaje, veruje vam i razume ï¿½ta nudite. Prodaja na ovom nivou je razgovor, ne ubjedivanje.
 
 ## Automatizacija koja menja igru
 
-Ceo ovaj proces se mo�e automatizovati:
+Ceo ovaj proces se moï¿½e automatizovati:
 
 1. **Facebook/Google oglas** vodi na landing stranicu
 2. **Landing stranica** nudi besplatan vodic u zamenu za email
 3. **Automatska email sekvenca** (5-7 mejlova tokom 2 nedelje) edukuje i gradi poverenje
-4. **Poslednji mejl** sadr�i konkretnu ponudu ili poziv na konsultaciju
+4. **Poslednji mejl** sadrï¿½i konkretnu ponudu ili poziv na konsultaciju
 
-Jednom kad se postavi, ovaj sistem radi bez va�e intervencije. Vi spavate, funnel radi. Vi ste na odmoru, funnel radi. 365 dana godi�nje.
+Jednom kad se postavi, ovaj sistem radi bez vaï¿½e intervencije. Vi spavate, funnel radi. Vi ste na odmoru, funnel radi. 365 dana godiï¿½nje.
 
-## Gre�ke koje ubijaju funnel
+## Greï¿½ke koje ubijaju funnel
 
-**Previ�e koraka.** Funnel sa 15 stranica i 30 mejlova je previ�e. Kupac izgubi interesovanje negde oko koraka 4. Dr�ite se 3-5 koraka ukupno.
+**Previï¿½e koraka.** Funnel sa 15 stranica i 30 mejlova je previï¿½e. Kupac izgubi interesovanje negde oko koraka 4. Drï¿½ite se 3-5 koraka ukupno.
 
-**Premalo follow-up-a.** Neko ostavi email i ne kupi odmah. Vecina firmi po�alje jedan mejl i odustane. Istra�ivanja pokazuju da je potrebno 7-12 kontakt tacaka pre kupovine. To znaci minimum 5 mejlova u nurture sekvenci.
+**Premalo follow-up-a.** Neko ostavi email i ne kupi odmah. Vecina firmi poï¿½alje jedan mejl i odustane. Istraï¿½ivanja pokazuju da je potrebno 7-12 kontakt tacaka pre kupovine. To znaci minimum 5 mejlova u nurture sekvenci.
 
-**Prodaja prerano.** Ako u prvom mejlu �aljete ponudu, gubite ljude. Prvih 3-4 mejla treba da budu cista vrednost bez prodaje. Tek kad ste dali dovoljno, mo�ete tra�iti ne�to zauzvrat.
+**Prodaja prerano.** Ako u prvom mejlu ï¿½aljete ponudu, gubite ljude. Prvih 3-4 mejla treba da budu cista vrednost bez prodaje. Tek kad ste dali dovoljno, moï¿½ete traï¿½iti neï¿½to zauzvrat.
 
 **Nema testiranja.** Funnel koji postavite prvog dana verovatno nece biti optimalan. Testirajte naslove na landing stranici, testirajte subject line-ove mejlova, testirajte ponude. Male promene donose velike razlike.
 
-## Realan primer za uslu�nu firmu
+## Realan primer za usluï¿½nu firmu
 
 Marketing agencija u Zrenjaninu:
-1. Facebook oglas cilja vlasnike malih firmi ? "Preuzmite besplatan audit va�e online prisutnosti"
+1. Facebook oglas cilja vlasnike malih firmi ? "Preuzmite besplatan audit vaï¿½e online prisutnosti"
 2. Landing stranica sa formularom (ime, email, sajt)
 3. Automatski mejl 1: rezultati audita + 3 konkretna saveta
 4. Mejl 2 (dan 3): studija slucaja slicnog klijenta
-5. Mejl 3 (dan 5): najce�ce gre�ke koje firme prave
+5. Mejl 3 (dan 5): najceï¿½ce greï¿½ke koje firme prave
 6. Mejl 4 (dan 7): ponuda za besplatnu konsultaciju od 15 minuta
 
-Cena kompletnog sistema: 500-1.500� jednom + 200-400� mesecno za oglase. Ocekivani rezultat: 10-30 kvalifikovanih lead-ova mesecno.
+Cena kompletnog sistema: 500-1.500ï¿½ jednom + 200-400ï¿½ mesecno za oglase. Ocekivani rezultat: 10-30 kvalifikovanih lead-ova mesecno.
 
-Saznajte vi�e o na�em [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
+Saznajte viï¿½e o naï¿½em [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
 
 Takode preporucujemo: [Lead magneti koji zapravo konvertuju](/blog/lead-magneti-koji-zapravo-konvertuju).
 
 ---
 
-�elite da napravimo funnel za va� biznis? [Javite nam se](/kontakt) i dizajniracemo sistem koji radi na autopilotu.
+ï¿½elite da napravimo funnel za vaï¿½ biznis? [Javite nam se](/kontakt) i dizajniracemo sistem koji radi na autopilotu.
 `,
   },
   {
     slug: 'lokalni-seo-kako-se-pojaviti-prvi',
-    title: 'Lokalni SEO: kako se pojaviti prvi kad neko pretra�i u va�em gradu',
+    title: 'Lokalni SEO: kako se pojaviti prvi kad neko pretraï¿½i u vaï¿½em gradu',
     excerpt: 'Kada neko iz vaseg grada pretrazi uslugu koju nudite, treba da vidi vas pre konkurencije. Evo kako da lokalni SEO to stvarno uradi za vas biznis.',
     date: '2026-02-20',
     category: 'SEO',
     readTime: '6 min',
     content: `
-## Za�to lokalni SEO menja pravila igre
+## Zaï¿½to lokalni SEO menja pravila igre
 
-Postoji jedna statistika koja mnogo vlasnika firmi ne shvata ozbiljno: **46% svih Google pretraga ima lokalnu nameru.** To znaci da skoro polovina ljudi koji pretra�uju na Google-u zapravo tra�e ne�to u svom gradu ili blizini.
+Postoji jedna statistika koja mnogo vlasnika firmi ne shvata ozbiljno: **46% svih Google pretraga ima lokalnu nameru.** To znaci da skoro polovina ljudi koji pretraï¿½uju na Google-u zapravo traï¿½e neï¿½to u svom gradu ili blizini.
 
-I ima jo� bolja statistika: **76% ljudi koji pretra�uju lokalno na mobilnom telefonu poseti prodavnicu ili lokaciju u roku od 24 sata.** A od tih 76%, skoro polovina kupi ne�to.
+I ima joï¿½ bolja statistika: **76% ljudi koji pretraï¿½uju lokalno na mobilnom telefonu poseti prodavnicu ili lokaciju u roku od 24 sata.** A od tih 76%, skoro polovina kupi neï¿½to.
 
-To znaci da kad neko upi�e "elektricar beograd" ili "restoran novi sad blizu mene", ta osoba nije slucajan posetilac. To je neko ko ce verovatno pozvati ili doci u roku od jednog dana.
+To znaci da kad neko upiï¿½e "elektricar beograd" ili "restoran novi sad blizu mene", ta osoba nije slucajan posetilac. To je neko ko ce verovatno pozvati ili doci u roku od jednog dana.
 
-Problem je �to vecina firmi nije optimizovana za te pretrage. I dok oni pretra�uju, njihov konkurent se pojavljuje prvi i dobija poziv.
+Problem je ï¿½to vecina firmi nije optimizovana za te pretrage. I dok oni pretraï¿½uju, njihov konkurent se pojavljuje prvi i dobija poziv.
 
-> Kad se lokalna pretraga pojavi, imate jedan �ut. Ako niste vidljivi u tom trenutku, kupac je oti�ao konkurenciji.
+> Kad se lokalna pretraga pojavi, imate jedan ï¿½ut. Ako niste vidljivi u tom trenutku, kupac je otiï¿½ao konkurenciji.
 
-## �ta Google gleda kod lokalnog rangiranja
+## ï¿½ta Google gleda kod lokalnog rangiranja
 
-Google koristi tri glavna faktora da odluci koja firma se pojavljuje prva u lokalnim pretragama. Ova tri faktora su javno dokumentovana i kompletno kontroli�u ko se pojavljuje u "Local Pack" rezultatima (ona tri rezultata sa mapom koja se pojavljuju na vrhu):
+Google koristi tri glavna faktora da odluci koja firma se pojavljuje prva u lokalnim pretragama. Ova tri faktora su javno dokumentovana i kompletno kontroliï¿½u ko se pojavljuje u "Local Pack" rezultatima (ona tri rezultata sa mapom koja se pojavljuju na vrhu):
 
-**1. Relevantnost** da li se ono �to nudite poklapa sa onim �to neko pretra�uje  
-**2. Udaljenost** koliko ste fizicki blizu osobe koja pretra�uje  
-**3. Prominentnost** koliko je va� biznis poznat i pouzdan
+**1. Relevantnost** da li se ono ï¿½to nudite poklapa sa onim ï¿½to neko pretraï¿½uje  
+**2. Udaljenost** koliko ste fizicki blizu osobe koja pretraï¿½uje  
+**3. Prominentnost** koliko je vaï¿½ biznis poznat i pouzdan
 
-Relevantnost i prominentnost mo�ete kontrolisati. Udaljenost ne mo�ete. Ali od tri faktora, prominentnost ima najvecu te�inu. I to je ono na cemu vecina firmi potpuno proma�i.
+Relevantnost i prominentnost moï¿½ete kontrolisati. Udaljenost ne moï¿½ete. Ali od tri faktora, prominentnost ima najvecu teï¿½inu. I to je ono na cemu vecina firmi potpuno promaï¿½i.
 
 Prominentnost Google meri kroz:
 - Broj i kvalitet recenzija
-- Broj pomena va�e firme na drugim sajtovima (citati)
-- Kvalitet linkova koji vode ka va�em sajtu
-- Koliko cesto je va� Google Business profil a�uran i potpun
+- Broj pomena vaï¿½e firme na drugim sajtovima (citati)
+- Kvalitet linkova koji vode ka vaï¿½em sajtu
+- Koliko cesto je vaï¿½ Google Business profil aï¿½uran i potpun
 
-Sve to mo�e da se uradi. Ali vecina firmi nigde ne pocinje. Ili jo� gore, napravi Google Business profil i ostavi ga prazan.
+Sve to moï¿½e da se uradi. Ali vecina firmi nigde ne pocinje. Ili joï¿½ gore, napravi Google Business profil i ostavi ga prazan.
 
-## Google Business Profile: najmocniji besplatni alat koji firme ignori�u
+## Google Business Profile: najmocniji besplatni alat koji firme ignoriï¿½u
 
-Google Business Profile (ranije Google My Business) je najva�niji alat za lokalno SEO. I u potpunosti je besplatan. A vecina firmi ga ne koristi kako treba.
+Google Business Profile (ranije Google My Business) je najvaï¿½niji alat za lokalno SEO. I u potpunosti je besplatan. A vecina firmi ga ne koristi kako treba.
 
-Evo �ta firme koje dobro rangiraju rade drugacije:
+Evo ï¿½ta firme koje dobro rangiraju rade drugacije:
 
-**1. Kategorije** primarnu kategoriju biraju tacno po tome �ta Google prepoznaje. Ne koriste genericke nazive poput "kompanija" ili "preduzece". Koriste specificne kategorije koje odgovaraju pravim pretragama.
+**1. Kategorije** primarnu kategoriju biraju tacno po tome ï¿½ta Google prepoznaje. Ne koriste genericke nazive poput "kompanija" ili "preduzece". Koriste specificne kategorije koje odgovaraju pravim pretragama.
 
-**2. Opis** ne pi�u opis kao da ga cita klijent. Pi�u ga kao da ga cita Google algoritam. To znaci da pominje kljucne reci prirodno, ali dovoljno puta da Google razume �ta firma radi.
+**2. Opis** ne piï¿½u opis kao da ga cita klijent. Piï¿½u ga kao da ga cita Google algoritam. To znaci da pominje kljucne reci prirodno, ali dovoljno puta da Google razume ï¿½ta firma radi.
 
-**3. Fotografije** a�uriraju redovno. Google favorizuje profile sa sve�im slikama. Firme sa 10+ slika dobijaju 2x vi�e poziva i zahteva za putanju od onih sa manje od 5.
+**3. Fotografije** aï¿½uriraju redovno. Google favorizuje profile sa sveï¿½im slikama. Firme sa 10+ slika dobijaju 2x viï¿½e poziva i zahteva za putanju od onih sa manje od 5.
 
-**4. Objave** postavljaju nedeljne a�urnosti. To mo�e biti kratka vest, akcija ili samo podsetnik na ono �to firma nudi. Google gleda na a�urnost kao pokazatelj da je biznis aktivan.
+**4. Objave** postavljaju nedeljne aï¿½urnosti. To moï¿½e biti kratka vest, akcija ili samo podsetnik na ono ï¿½to firma nudi. Google gleda na aï¿½urnost kao pokazatelj da je biznis aktivan.
 
-**5. Pitanja i odgovori** postavljaju pitanja sami sebi i odgovaraju na njih. Vecina firmi ne zna da mogu sami postaviti pitanja na svom profilu. A to je odlican nacin da se ubace kljucne reci koje ljudi zapravo pretra�uju.
+**5. Pitanja i odgovori** postavljaju pitanja sami sebi i odgovaraju na njih. Vecina firmi ne zna da mogu sami postaviti pitanja na svom profilu. A to je odlican nacin da se ubace kljucne reci koje ljudi zapravo pretraï¿½uju.
 
-## NAP konzistentnost: gre�ka koja ko�ta vidljivost
+## NAP konzistentnost: greï¿½ka koja koï¿½ta vidljivost
 
-NAP je skracenica za Name, Address, Phone. Google koristi ove informacije da proveri da li je va�a firma stvarna i gde se nalazi. Ali ima jedan problem: ako isti naziv, adresa i telefon nisu apsolutno identicni na svakom sajtu gde se pominju, Google ne zna �ta je tacno.
+NAP je skracenica za Name, Address, Phone. Google koristi ove informacije da proveri da li je vaï¿½a firma stvarna i gde se nalazi. Ali ima jedan problem: ako isti naziv, adresa i telefon nisu apsolutno identicni na svakom sajtu gde se pominju, Google ne zna ï¿½ta je tacno.
 
-Evo tipicnih gre�aka:
+Evo tipicnih greï¿½aka:
 
 **Naziv:** "Platinum Zenith" na jednom sajtu, "Platinum Zenith d.o.o." na drugom, "Platinum Zenith agencija" na trecem. Za Google-a, to su tri razlicite firme.
 
@@ -5356,49 +5583,49 @@ Firme koje rade lokalni SEO kako treba:
 
 Najbolji nacin da se proveri gde je firma pomenuta je da se ukuca njen naziv u Google sa navodnicima ("Naziv firme"). Google ce prikazati svaki sajt gde se pojavljuje. Svaka nekonzistentnost treba da se ispravi.
 
-> Google-u je te�ko da veruje da ste najbolja firma u gradu ako ne mo�ete konzistentno napisati svoju adresu.
+> Google-u je teï¿½ko da veruje da ste najbolja firma u gradu ako ne moï¿½ete konzistentno napisati svoju adresu.
 
-## Recenzije: za�to njihov broj menja poziciju u rezultatima
+## Recenzije: zaï¿½to njihov broj menja poziciju u rezultatima
 
-Nema statistike koja je bitnija za lokalni SEO od ove: **firme sa vi�e od 50 recenzija rangiraju u proseku 2-3 pozicije vi�e** od onih sa manje od 10.
+Nema statistike koja je bitnija za lokalni SEO od ove: **firme sa viï¿½e od 50 recenzija rangiraju u proseku 2-3 pozicije viï¿½e** od onih sa manje od 10.
 
-Problem je �to vecina firmi pristupa recenzijama potpuno pogre�no. Ili uop�te ne pitaju klijente da ostave recenziju. Ili, jo� gore, pitaju samo one zadovoljne.
+Problem je ï¿½to vecina firmi pristupa recenzijama potpuno pogreï¿½no. Ili uopï¿½te ne pitaju klijente da ostave recenziju. Ili, joï¿½ gore, pitaju samo one zadovoljne.
 
 Evo kako firme koje dobro rangiraju pristupaju recenzijama:
 
-**1. Pitaju svakog klijenta automatski.** Imaju sistem koji �alje zahtev za recenziju odmah nakon zavr�etka usluge. Mejl, SMS ili WhatsApp poruka sa direktnim linkom za Google recenziju.
+**1. Pitaju svakog klijenta automatski.** Imaju sistem koji ï¿½alje zahtev za recenziju odmah nakon zavrï¿½etka usluge. Mejl, SMS ili WhatsApp poruka sa direktnim linkom za Google recenziju.
 
-**2. Ne filtriraju klijente.** Svaki klijent dobija zahtev, bez obzira koliko su zadovoljni izgledali. Rezultat? Vi�e recenzija, a Google voli a�urnost.
+**2. Ne filtriraju klijente.** Svaki klijent dobija zahtev, bez obzira koliko su zadovoljni izgledali. Rezultat? Viï¿½e recenzija, a Google voli aï¿½urnost.
 
 **3. Odgovaraju na svaku recenziju.** I pozitivnu, i negativnu. Google gleda interakciju sa recenzijama kao pokazatelj da je biznis aktivan i brine o klijentima.
 
-**4. Ne kupuju la�ne recenzije.** Google detektuje pattern kad 10 novih profila ostavi recenziju za dan. To zavr�ava brisanjem tih recenzija i potencijalnom kaznom.
+**4. Ne kupuju laï¿½ne recenzije.** Google detektuje pattern kad 10 novih profila ostavi recenziju za dan. To zavrï¿½ava brisanjem tih recenzija i potencijalnom kaznom.
 
-**5. Imaju konstantan priliv novih recenzija.** Nije bitno imati 100 recenzija ako su sve iz 2023. Google gleda nedavnost. Profil sa 30 recenzija od kojih je 10 iz poslednjih 60 dana rangira bolje od profila sa 80 recenzija od kojih je zadnja iz pro�le godine.
+**5. Imaju konstantan priliv novih recenzija.** Nije bitno imati 100 recenzija ako su sve iz 2023. Google gleda nedavnost. Profil sa 30 recenzija od kojih je 10 iz poslednjih 60 dana rangira bolje od profila sa 80 recenzija od kojih je zadnja iz proï¿½le godine.
 
-## Lokalni citati: �ta su i za�to uticu
+## Lokalni citati: ï¿½ta su i zaï¿½to uticu
 
-Lokalni citati su pomena va�e firme (ime, adresa, telefon) na drugim sajtovima. Ne mora biti link. Samo pomen.
+Lokalni citati su pomena vaï¿½e firme (ime, adresa, telefon) na drugim sajtovima. Ne mora biti link. Samo pomen.
 
-Google ih koristi kao potvrdu da je va�a firma stvarna. �to je vi�e relevantnih citata, to Google vi�e veruje da poslujete.
+Google ih koristi kao potvrdu da je vaï¿½a firma stvarna. ï¿½to je viï¿½e relevantnih citata, to Google viï¿½e veruje da poslujete.
 
 Najbolja mesta za citiranje:
 - **Online direktorijumi** 011info, Supernova Local, Poslovna.rs, InfoStud, Google Maps (ovo je najbitniji)
-- **Industrijski direktorijumi** ako postoji direktorijum za va�u industriju (recimo portali za advokate ili elektricare), morate biti tu
-- **Lokalne stranice** sajt op�tine, lokalne novine, lokalni blogovi
+- **Industrijski direktorijumi** ako postoji direktorijum za vaï¿½u industriju (recimo portali za advokate ili elektricare), morate biti tu
+- **Lokalne stranice** sajt opï¿½tine, lokalne novine, lokalni blogovi
 
 Firme koje rade ovo dobro:
 - **Kreiraju profil svuda gde je relevatno** i svuda koriste identican NAP
 - **Redovno proveravaju tacnost** jer direktorijumi ponekad menjaju podatke
 - **Dodaju dodatne informacije** gde god je moguce (radno vreme, opis, slike)
 
-## Lokalni linkovi: za�to quality pobedi quantity
+## Lokalni linkovi: zaï¿½to quality pobedi quantity
 
-Linkovi iz lokalnih izvora imaju vecu te�inu za lokalno rangiranje od bilo kojeg drugog linka. Jedan link iz sajta lokalne novine vredi vi�e od 10 linkova sa nasumicnih blogova.
+Linkovi iz lokalnih izvora imaju vecu teï¿½inu za lokalno rangiranje od bilo kojeg drugog linka. Jedan link iz sajta lokalne novine vredi viï¿½e od 10 linkova sa nasumicnih blogova.
 
-Problem je �to vecina firmi ne zna odakle dobiti lokalne linkove. Ili poku�avaju sa generickim "pitanjima za gost post" �to skoro nikada ne radi.
+Problem je ï¿½to vecina firmi ne zna odakle dobiti lokalne linkove. Ili pokuï¿½avaju sa generickim "pitanjima za gost post" ï¿½to skoro nikada ne radi.
 
-Evo �ta firme koje dobro rangiraju rade:
+Evo ï¿½ta firme koje dobro rangiraju rade:
 
 **1. Sponzorstva** lokalnih dogadaja, turnira, humanitarnih akcija. Obicno dolaze sa linkom sa sajta organizatora.
 
@@ -5406,23 +5633,23 @@ Evo �ta firme koje dobro rangiraju rade:
 
 **3. Saradnja sa lokalnim firmama** partneri, dobavljaci, klijenti koji imaju svoje sajtove. Cross-promocija sa linkom na oba profila.
 
-**4. Lokalni blogovi i influenceri** ako neko iz grada pi�e o temi vezanoj za industriju, firme ga kontaktiraju sa ponudom saradnje ili ekspertskim komentarom.
+**4. Lokalni blogovi i influenceri** ako neko iz grada piï¿½e o temi vezanoj za industriju, firme ga kontaktiraju sa ponudom saradnje ili ekspertskim komentarom.
 
-Jedan lokalni link mesecno je dovoljno da se pozicija pobolj�a za nekoliko pozicija. A vecina firmi nema ni jedan jedini lokalni link.
+Jedan lokalni link mesecno je dovoljno da se pozicija poboljï¿½a za nekoliko pozicija. A vecina firmi nema ni jedan jedini lokalni link.
 
-## Gre�ke koje firme ponavljaju i koje ih ko�taju
+## Greï¿½ke koje firme ponavljaju i koje ih koï¿½taju
 
-Vecina firmi pravi istu gre�ku: naprave Google profil, postave naziv i adresu, i nikad ga vi�e ne otvore.
+Vecina firmi pravi istu greï¿½ku: naprave Google profil, postave naziv i adresu, i nikad ga viï¿½e ne otvore.
 
-Ostale gre�ke koje se ponavljaju:
+Ostale greï¿½ke koje se ponavljaju:
 
 **1. Nepotpun Google profil** nema radnog vremena, nema slika, nema opisa, nema kategorije. Google takve profile ne rangira visoko.
 
-**2. Nekonzistentni podaci** razlicit naziv firme na razlicitim sajtovima. Google ne mo�e da pove�e podatke.
+**2. Nekonzistentni podaci** razlicit naziv firme na razlicitim sajtovima. Google ne moï¿½e da poveï¿½e podatke.
 
 **3. Nema recenzija** ili ima samo stare. Google voli nedavnu aktivnost.
 
-**4. Ne odgovaraju na recenzije** ni pozitivne ni negativne. To �alje signal da biznis nije aktivan.
+**4. Ne odgovaraju na recenzije** ni pozitivne ni negativne. To ï¿½alje signal da biznis nije aktivan.
 
 **5. Nemaju lokalne linkove** nijedan link sa lokalnog sajta. Google vidi to kao manjak povezanosti sa zajednicom.
 
@@ -5432,273 +5659,273 @@ Ostale gre�ke koje se ponavljaju:
 
 U Platinum Zenith-u, svaki klijent dobija kompletan lokalni SEO tretman. To ukljucuje:
 
-- **Audit i optimizaciju Google Business Profile-a** kompletno popunjavanje profila, a�uriranje slika, kreiranje objava
+- **Audit i optimizaciju Google Business Profile-a** kompletno popunjavanje profila, aï¿½uriranje slika, kreiranje objava
 - **NAP konzistentnost** proveru svih citata i ispravljanje nekonzistentnosti
 - **Sistem za sakupljanje recenzija** automatsko slanje zahteva za recenziju svakom klijentu
 - **Kreiranje lokalnih citata** dodavanje firme u relevantne direktorijume sa identicnim podacima
-- **Strategiju za lokalne linkove** pronala�enje lokalnih prilika za pomen i linkovanje
+- **Strategiju za lokalne linkove** pronalaï¿½enje lokalnih prilika za pomen i linkovanje
 
-Rezultat? Klijenti koji se pojavljuju u top 3 lokalne pretrage za svoje kljucne reci u roku od 60-90 dana. Ne zato �to smo napravili magiju, vec zato �to smo sistematski primenili dokazane tehnike.
+Rezultat? Klijenti koji se pojavljuju u top 3 lokalne pretrage za svoje kljucne reci u roku od 60-90 dana. Ne zato ï¿½to smo napravili magiju, vec zato ï¿½to smo sistematski primenili dokazane tehnike.
 
-Pogledajte kako [na� SEO pristup](/digitalni-marketing) poma�e klijentima da se pojave prvi na pretrazi.
+Pogledajte kako [naï¿½ SEO pristup](/digitalni-marketing) pomaï¿½e klijentima da se pojave prvi na pretrazi.
 
-Takode preporucujemo: [Lokalni biznis vs. online: za�to hibridna strategija pobeduje](/blog/lokalni-biznis-vs-online-hibridna-strategija).
+Takode preporucujemo: [Lokalni biznis vs. online: zaï¿½to hibridna strategija pobeduje](/blog/lokalni-biznis-vs-online-hibridna-strategija).
 
 ---
 
-Ako �elite da va�a firma bude prva kad neko pretra�i va�u uslugu u gradu, [javite nam se](/kontakt). Napravicemo vam plan za lokalno rangiranje.
+Ako ï¿½elite da vaï¿½a firma bude prva kad neko pretraï¿½i vaï¿½u uslugu u gradu, [javite nam se](/kontakt). Napravicemo vam plan za lokalno rangiranje.
 `,
   },
   {
     slug: 'email-marketing-kralj-konverzija',
-    title: 'Email marketing: za�to je email i dalje kralj konverzija',
-    excerpt: 'Email marketing i dalje daje vrhunski povrat ulaganja. Saznajte kako e-commerce i uslu�ne firme kroz email povecavaju ponovne kupovine i mesecni prihod.',
+    title: 'Email marketing: zaï¿½to je email i dalje kralj konverzija',
+    excerpt: 'Email marketing i dalje daje vrhunski povrat ulaganja. Saznajte kako e-commerce i usluï¿½ne firme kroz email povecavaju ponovne kupovine i mesecni prihod.',
     date: '2026-02-20',
     category: 'Marketing',
     readTime: '7 min',
     content: `
-## Za�to firme i dalje brinu o email-u
+## Zaï¿½to firme i dalje brinu o email-u
 
-Svake nedelje izade novi clanak o tome kako je email mrtav. A istovremeno, email marketing donosi **prosecan ROI od $36 za svaki dolar ulo�en.**
+Svake nedelje izade novi clanak o tome kako je email mrtav. A istovremeno, email marketing donosi **prosecan ROI od $36 za svaki dolar uloï¿½en.**
 
-Nijedan drugi marketin�ki kanal ne mo�e da dostigne tu brojku. Nije ni blizu. Google Ads donosi u proseku $2 za svaki $1. Facebook Ads oko $4. Email ih uni�tava.
+Nijedan drugi marketinï¿½ki kanal ne moï¿½e da dostigne tu brojku. Nije ni blizu. Google Ads donosi u proseku $2 za svaki $1. Facebook Ads oko $4. Email ih uniï¿½tava.
 
-Razlog je prost: email lista je jedini kanal koji firma poseduje. Facebook mo�e promeniti algoritam sutra. Google mo�e povecati cenu klika. Ali email lista pripada firmi i nijedna platforma ne mo�e da je ugasi.
+Razlog je prost: email lista je jedini kanal koji firma poseduje. Facebook moï¿½e promeniti algoritam sutra. Google moï¿½e povecati cenu klika. Ali email lista pripada firmi i nijedna platforma ne moï¿½e da je ugasi.
 
-Problem je �to vecina firmi pristupa email marketingu potpuno pogre�no. �alju genericke newslettere svima na listi. Ili jo� gore, �alju samo kad imaju akciju. I onda se cude za�to je otvaranje 8% a konverzija nula.
+Problem je ï¿½to vecina firmi pristupa email marketingu potpuno pogreï¿½no. ï¿½alju genericke newslettere svima na listi. Ili joï¿½ gore, ï¿½alju samo kad imaju akciju. I onda se cude zaï¿½to je otvaranje 8% a konverzija nula.
 
 > Email marketing ne radi ako se koristi kao megafon za promocije. Radi kada gradi odnos koji na kraju donosi kupovinu.
 
-## Za�to ljudi otvaraju ili ignori�u email-ove
+## Zaï¿½to ljudi otvaraju ili ignoriï¿½u email-ove
 
-Prosecna osoba prima izmedu 100 i 120 email-ova dnevno. Vecina njih zavr�i u smecu bez otvaranja. Neki se otvore i bri�u za sekundu. I jako mali procenat dobije klik.
+Prosecna osoba prima izmedu 100 i 120 email-ova dnevno. Vecina njih zavrï¿½i u smecu bez otvaranja. Neki se otvore i briï¿½u za sekundu. I jako mali procenat dobije klik.
 
 Firme koje dobijaju otvaranje od 40-50% rade tri stvari drugacije:
 
-**1. Subject line govori �ta je unutra.** Ne koristi clickbait. Ne obecava ne�to �to email ne isporucuje. Direktno govori �ta citalac dobija otvaranjem.
+**1. Subject line govori ï¿½ta je unutra.** Ne koristi clickbait. Ne obecava neï¿½to ï¿½to email ne isporucuje. Direktno govori ï¿½ta citalac dobija otvaranjem.
 
-**2. Sender name je prepoznatljiv.** Ne �alju sa "[email protected]". �alju sa licnog imena ili imena firme koje ljudi prepoznaju.
+**2. Sender name je prepoznatljiv.** Ne ï¿½alju sa "[email protected]". ï¿½alju sa licnog imena ili imena firme koje ljudi prepoznaju.
 
-**3. Email redovno dolazi.** Ako firma po�alje email jednom u tri meseca, ljudi zaborave ko su. Ako �alje jednom nedeljno, recipient stvara naviku i ocekuje email.
+**3. Email redovno dolazi.** Ako firma poï¿½alje email jednom u tri meseca, ljudi zaborave ko su. Ako ï¿½alje jednom nedeljno, recipient stvara naviku i ocekuje email.
 
-Firme koje dobijaju klikove dodaju jo� jedan element: **svaki email ima jednu jasnu svrhu.** Nije zid teksta sa pet razlicitih tema. Jedan email = jedna tema = jedan poziv na akciju.
+Firme koje dobijaju klikove dodaju joï¿½ jedan element: **svaki email ima jednu jasnu svrhu.** Nije zid teksta sa pet razlicitih tema. Jedan email = jedna tema = jedan poziv na akciju.
 
 ## Welcome sekvenca: prva interakcija koja odreduje sve dalje
 
-Kad neko se prijavi na email listu, vecina firmi po�alje jedan mejl sa "Hvala �to ste se prijavili" i to je to. A to je najveca propu�tena prilika u email marketingu.
+Kad neko se prijavi na email listu, vecina firmi poï¿½alje jedan mejl sa "Hvala ï¿½to ste se prijavili" i to je to. A to je najveca propuï¿½tena prilika u email marketingu.
 
-Prvih nekoliko dana nakon prijave, ta osoba je najanga�ovanija. Otvaranje u welcome sekvenci je 4-5x vi�e od bilo kog drugog mejla kasnije.
+Prvih nekoliko dana nakon prijave, ta osoba je najangaï¿½ovanija. Otvaranje u welcome sekvenci je 4-5x viï¿½e od bilo kog drugog mejla kasnije.
 
-Firme koje dobro rade email marketing �alju welcome sekvencu od **minimum 3-5 mejlova u prvih 7 dana.**
+Firme koje dobro rade email marketing ï¿½alju welcome sekvencu od **minimum 3-5 mejlova u prvih 7 dana.**
 
 Evo kako izgleda dobra welcome sekvenca:
 
-**Email 1 (odmah nakon prijave):** Isporuka onoga �to je obecano (vodic, popust, besplatna provera). Kratka prica ko ste i za�to mo�ete verovati.
+**Email 1 (odmah nakon prijave):** Isporuka onoga ï¿½to je obecano (vodic, popust, besplatna provera). Kratka prica ko ste i zaï¿½to moï¿½ete verovati.
 
-**Email 2 (24 sata kasnije):** Najce�ca pitanja ili zablude u industriji. Edukativni mejl bez prodaje. Gradi autoritet.
+**Email 2 (24 sata kasnije):** Najceï¿½ca pitanja ili zablude u industriji. Edukativni mejl bez prodaje. Gradi autoritet.
 
 **Email 3 (48 sati kasnije):** Studija slucaja ili svedocanstvo postojeceg klijenta. Pokazuje rezultate koje drugi dobijaju.
 
 **Email 4 (4. dan):** Prvi prodajni mejl. Ponuda razgovora, analize ili direktne kupovine. Ali ne agresivno. Sa jasnim benefitom.
 
-**Email 5 (7. dan):** Urgentnost. Ako ponuda ima rok, ovo je podsetnik. Ako nema, ovo je obja�njenje za�to ce cekanje ko�tati.
+**Email 5 (7. dan):** Urgentnost. Ako ponuda ima rok, ovo je podsetnik. Ako nema, ovo je objaï¿½njenje zaï¿½to ce cekanje koï¿½tati.
 
-Razlika u konverziji? Firme sa welcome sekvencom konvertuju **30-40% vi�e ljudi u kupce** u prvom mesecu od onih koje �alju jedan mejl i cute.
+Razlika u konverziji? Firme sa welcome sekvencom konvertuju **30-40% viï¿½e ljudi u kupce** u prvom mesecu od onih koje ï¿½alju jedan mejl i cute.
 
-## Napu�tena korpa: najlak�i nacin da se poveca prihod e-commerce sajta
+## Napuï¿½tena korpa: najlakï¿½i nacin da se poveca prihod e-commerce sajta
 
-Prosecno, **70-80% ljudi koji dodaju proizvod u korpu napuste sajt bez kupovine.** To nije zato �to nisu zainteresovani. To je zato �to su se distrovali, ne�to ih je prekinulo, ili nisu bili sigurni i hteli su da razmisle.
+Prosecno, **70-80% ljudi koji dodaju proizvod u korpu napuste sajt bez kupovine.** To nije zato ï¿½to nisu zainteresovani. To je zato ï¿½to su se distrovali, neï¿½to ih je prekinulo, ili nisu bili sigurni i hteli su da razmisle.
 
-E-commerce sajt bez automatizacije za napu�tenu korpu gubi izmedu 20-30% potencijalnog prihoda mesecno.
+E-commerce sajt bez automatizacije za napuï¿½tenu korpu gubi izmedu 20-30% potencijalnog prihoda mesecno.
 
 Evo kako izgleda sekvenca koja radi:
 
-**Email 1 (1 sat nakon napu�tanja):** Jednostavan podsetnik. "Ostavili ste ne�to u korpi." Slika proizvoda, link da zavr�e kupovinu. Nema pritiska, samo podsetnik.
+**Email 1 (1 sat nakon napuï¿½tanja):** Jednostavan podsetnik. "Ostavili ste neï¿½to u korpi." Slika proizvoda, link da zavrï¿½e kupovinu. Nema pritiska, samo podsetnik.
 
 **Email 2 (24 sata kasnije):** Uklanjanje prigovora. "Da li imate pitanje o proizvodu?" Link ka FAQ sekciji ili na customer support. Dodavanje trust elementa (besplatna dostava, garancija povrata, svedocanstva).
 
-**Email 3 (48 sati kasnije):** Urgentnost ili dodatni podsticaj. "Va�a korpa istice za 24 sata" ili "Evo 10% popusta ako zavr�ite narud�binu danas."
+**Email 3 (48 sati kasnije):** Urgentnost ili dodatni podsticaj. "Vaï¿½a korpa istice za 24 sata" ili "Evo 10% popusta ako zavrï¿½ite narudï¿½binu danas."
 
-Konverzija iz napu�tenih korpi sekvenci je izmedu **15-25%.** To znaci da od svakih 100 ljudi koji napuste korpu, 15-25 se vrati i kupi. A bez mejla, vecina tih ljudi ne bi se nikada vratila.
+Konverzija iz napuï¿½tenih korpi sekvenci je izmedu **15-25%.** To znaci da od svakih 100 ljudi koji napuste korpu, 15-25 se vrati i kupi. A bez mejla, vecina tih ljudi ne bi se nikada vratila.
 
-## Segmentacija: za�to jedan mejl za sve ne radi
+## Segmentacija: zaï¿½to jedan mejl za sve ne radi
 
-Najveca gre�ka u email marketingu je tretiranje cele liste kao jedne grupe. Firma po�alje isti mejl svima i onda se cudi za�to polovina njih se ispisuje.
+Najveca greï¿½ka u email marketingu je tretiranje cele liste kao jedne grupe. Firma poï¿½alje isti mejl svima i onda se cudi zaï¿½to polovina njih se ispisuje.
 
-Problem je �to ljudi na listi nisu u istom mestu u procesu kupovine. Neko se prijavio pre 3 dana i tek upoznaje firmu. Neko je kupio pre mesec dana. Neko je dodao proizvod u korpu ali nije kupio.
+Problem je ï¿½to ljudi na listi nisu u istom mestu u procesu kupovine. Neko se prijavio pre 3 dana i tek upoznaje firmu. Neko je kupio pre mesec dana. Neko je dodao proizvod u korpu ali nije kupio.
 
-Slati svakoj od ovih grupa isti mejl je kao poku�ati da proda� nekome ko je vec kupio ili da edukova� nekoga ko je spreman da kupi odmah.
+Slati svakoj od ovih grupa isti mejl je kao pokuï¿½ati da prodaï¿½ nekome ko je vec kupio ili da edukovaï¿½ nekoga ko je spreman da kupi odmah.
 
 Firme koje dobro rade email marketing segmentiraju listu minimum u ove grupe:
 
 **1. Novi pretplatnici** (prijavljeni u poslednjih 7-14 dana). Dobijaju welcome sekvencu sa fokusom na edukaciju.
 
-**2. Anga�ovani ali nisu kupili** (otvaraju mejlove, klikcu, ali nisu kupili). Dobijaju vi�e edukativnog sadr�aja i studije slucaja.
+**2. Angaï¿½ovani ali nisu kupili** (otvaraju mejlove, klikcu, ali nisu kupili). Dobijaju viï¿½e edukativnog sadrï¿½aja i studije slucaja.
 
-**3. Kupci** (kupili jednom). Dobijaju mejlove fokusirane na dodatne proizvode ili usluge, case study-e vezane za ono �to su kupili, pozive na recenziju.
+**3. Kupci** (kupili jednom). Dobijaju mejlove fokusirane na dodatne proizvode ili usluge, case study-e vezane za ono ï¿½to su kupili, pozive na recenziju.
 
-**4. Neaktivni** (nisu otvorili mejl 30+ dana). Dobijaju reengagement kampanju sa pitanjem "Da li jo� �elite da primate na�e mejlove?"
+**4. Neaktivni** (nisu otvorili mejl 30+ dana). Dobijaju reengagement kampanju sa pitanjem "Da li joï¿½ ï¿½elite da primate naï¿½e mejlove?"
 
-Segmentacija podi�e otvaranje za **30-50%** i klikove za **50-100%** u odnosu na nesegmentirane mejlove.
+Segmentacija podiï¿½e otvaranje za **30-50%** i klikove za **50-100%** u odnosu na nesegmentirane mejlove.
 
 > Najbolji email marketing ne izgleda kao marketing. Izgleda kao razgovor sa osobom koja vas razume.
 
 ## Koliko cesto slati mejlove
 
-Najce�ce pitanje koje firme postavljaju: koliko cesto slati mejlove a da ljudi ne pocnu da se ispisuju?
+Najceï¿½ce pitanje koje firme postavljaju: koliko cesto slati mejlove a da ljudi ne pocnu da se ispisuju?
 
 Odgovor zavisi od industrije, ali postoji obrazac:
 
-**E-commerce:** 2-3 puta nedeljno radi za vecinu. Ako je proizvod potro�an (hrana, kozmetika), i ce�ce mo�e.
+**E-commerce:** 2-3 puta nedeljno radi za vecinu. Ako je proizvod potroï¿½an (hrana, kozmetika), i ceï¿½ce moï¿½e.
 
-**Usluge (B2B):** 1 put nedeljno je standard. Mo�e 2 ako je sadr�aj stvarno vredan.
+**Usluge (B2B):** 1 put nedeljno je standard. Moï¿½e 2 ako je sadrï¿½aj stvarno vredan.
 
-**Usluge (B2C):** 1-2 puta nedeljno, zavisno od kolicine sadr�aja.
+**Usluge (B2C):** 1-2 puta nedeljno, zavisno od kolicine sadrï¿½aja.
 
-Evo statistike koja mnoge iznenaduje: **firme koje �alju dnevne mejlove cesto imaju veci ukupan prihod od onih koje �alju jednom nedeljno,** cak i kad se neko ispi�e. Razlog? Oni koji ostaju su najanga�ovaniji i kupuju ce�ce.
+Evo statistike koja mnoge iznenaduje: **firme koje ï¿½alju dnevne mejlove cesto imaju veci ukupan prihod od onih koje ï¿½alju jednom nedeljno,** cak i kad se neko ispiï¿½e. Razlog? Oni koji ostaju su najangaï¿½ovaniji i kupuju ceï¿½ce.
 
-Ali to ne znaci da svaka firma treba da �alje dnevno. Ako sadr�aj nije vredan, ljudi ce se ispisati. Ako je vredan, ljudi ce cekati mejlove.
+Ali to ne znaci da svaka firma treba da ï¿½alje dnevno. Ako sadrï¿½aj nije vredan, ljudi ce se ispisati. Ako je vredan, ljudi ce cekati mejlove.
 
-Pravilo koje radi: **�alji toliko cesto koliko mo�e� kreirati sadr�aj koji je stvarno koristan.**
+Pravilo koje radi: **ï¿½alji toliko cesto koliko moï¿½eï¿½ kreirati sadrï¿½aj koji je stvarno koristan.**
 
-## Gre�ke koje ubijaju otvaranje i konverziju
+## Greï¿½ke koje ubijaju otvaranje i konverziju
 
-Vecina firmi pravi istu gre�ku: tretira email kao obavezu umesto kao kanal za gradenje odnosa.
+Vecina firmi pravi istu greï¿½ku: tretira email kao obavezu umesto kao kanal za gradenje odnosa.
 
-Ostale gre�ke koje se ponavljaju:
+Ostale greï¿½ke koje se ponavljaju:
 
-**1. �alju samo kad imaju akciju.** Ljudi se prijavljuju na listu i onda mesec dana nema ni�ta. A onda stigne "VELIKA AKCIJA 50% POPUST". Instant unsubscribe.
+**1. ï¿½alju samo kad imaju akciju.** Ljudi se prijavljuju na listu i onda mesec dana nema niï¿½ta. A onda stigne "VELIKA AKCIJA 50% POPUST". Instant unsubscribe.
 
 **2. Zid teksta bez strukture.** Email koji izgleda kao roman. Bez naslova, bez razmaka, bez jasnog poziva na akciju. Ljudi ne citaju tako dugacke mejlove.
 
 **3. Genericki subject line.** "Newsletter Mart 2026" ili "Mesecne vesti". Niko ne otvara mejlove sa takvim naslovima.
 
-**4. �alju sa generickog email-a.** "[email protected]" umesto "Marko - Platinum Zenith". Ljudi vole da vide ime, ne rolu.
+**4. ï¿½alju sa generickog email-a.** "[email protected]" umesto "Marko - Platinum Zenith". Ljudi vole da vide ime, ne rolu.
 
 **5. Nema jasnog cilja.** Svaki mejl treba da ima jednu jasnu svrhu. Edukovati, inspirisati, prodati, podsetiti. Mejl sa pet razlicitih tema zbunjuje i ne dobija klik.
 
-**6. Ne testiraju subject line.** Razlika izmedu dobrog i lo�eg subject line-a je 20-30% otvaranja. A vecina firmi nikada ne testira.
+**6. Ne testiraju subject line.** Razlika izmedu dobrog i loï¿½eg subject line-a je 20-30% otvaranja. A vecina firmi nikada ne testira.
 
 ## Kako mi ovo primenjujemo
 
 U Platinum Zenith-u, email marketing tretiramo kao sistem, ne kao pojedinacne mejlove. Za svakog klijenta kreiramo:
 
 - **Welcome sekvencu** 5-7 mejlova koja edukuje i gradi poverenje
-- **Segmentaciju liste** na minimum 4-5 grupa zavisno od pona�anja
-- **Napu�tena korpa sekvenca** za e-commerce klijente sa 3 mejla optimizovana za konverziju
-- **Redovan sadr�aj** jednom ili dva puta nedeljno zavisno od industrije i kolicine sadr�aja
+- **Segmentaciju liste** na minimum 4-5 grupa zavisno od ponaï¿½anja
+- **Napuï¿½tena korpa sekvenca** za e-commerce klijente sa 3 mejla optimizovana za konverziju
+- **Redovan sadrï¿½aj** jednom ili dva puta nedeljno zavisno od industrije i kolicine sadrï¿½aja
 - **Reengagement kampanje** za neaktivne pretplatnike
 
-Rezultat? Klijenti sa otvaranjem izmedu 35-55%, klikovima od 8-15%, i ROI-em koji redovno prelazi $25-$35 za svaki dolar ulo�en.
+Rezultat? Klijenti sa otvaranjem izmedu 35-55%, klikovima od 8-15%, i ROI-em koji redovno prelazi $25-$35 za svaki dolar uloï¿½en.
 
 Email marketing nije mrtav. Samo vecina firmi ne zna kako da ga koristi.
 
-Saznajte vi�e o na�em [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
+Saznajte viï¿½e o naï¿½em [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
 
-Takode preporucujemo: [Automatizacija marketinga: �ta mo�ete delegirati ma�ini](/blog/automatizacija-marketinga-sta-mozete-delegirati-masini).
+Takode preporucujemo: [Automatizacija marketinga: ï¿½ta moï¿½ete delegirati maï¿½ini](/blog/automatizacija-marketinga-sta-mozete-delegirati-masini).
 
 ---
 
-Ako �elite da va� email marketing napokon donosi rezultate, [javite nam se](/kontakt). Napravicemo vam sistem koji radi.
+Ako ï¿½elite da vaï¿½ email marketing napokon donosi rezultate, [javite nam se](/kontakt). Napravicemo vam sistem koji radi.
 `,
   },
   {
     slug: '5-gresaka-landing-stranice-konverzije',
-    title: '5 gre�aka na landing stranicama koje ubijaju konverzije',
-    excerpt: 'Vecina landing stranica izgubi 90-95% posetilaca bez konverzije. Problem obicno nisu posetilokupci vec dizajn koji sabotira odluku. Evo pet gre�aka koje ko�taju najvi�e.',
+    title: '5 greï¿½aka na landing stranicama koje ubijaju konverzije',
+    excerpt: 'Vecina landing stranica izgubi 90-95% posetilaca bez konverzije. Problem obicno nisu posetilokupci vec dizajn koji sabotira odluku. Evo pet greï¿½aka koje koï¿½taju najviï¿½e.',
     date: '2026-02-20',
     category: 'CRO',
     readTime: '6 min',
     content: `
-## Za�to vecina landing stranica ne konvertuje
+## Zaï¿½to vecina landing stranica ne konvertuje
 
 Prosecna landing stranica konvertuje izmedu 2-5% posetilaca. To znaci da od 100 ljudi koji dodu na stranicu, 95-98 ljudi ode bez akcije.
 
-Problem obicno nije u kvalitetu saobracaja. Problem je u dizajnu same stranice. Vecina firmi napravi stranicu koja izgleda profesionalno, ali psiholo�ki sabotira odluku posetioca.
+Problem obicno nije u kvalitetu saobracaja. Problem je u dizajnu same stranice. Vecina firmi napravi stranicu koja izgleda profesionalno, ali psiholoï¿½ki sabotira odluku posetioca.
 
-Evo pet gre�aka koje ko�taju najvi�e konverzija i kako ih ispraviti.
+Evo pet greï¿½aka koje koï¿½taju najviï¿½e konverzija i kako ih ispraviti.
 
-## Gre�ka #1: previ�e opcija (paradoks izbora)
+## Greï¿½ka #1: previï¿½e opcija (paradoks izbora)
 
-Jedan od najpoznatijih eksperimenata u psihologiji marketinga desio se u supermarketu. Istra�ivaci su postavili �tand sa d�emovima. Jednog dana su pokazali 24 razlicita ukusa. Sledeceg dana samo 6.
+Jedan od najpoznatijih eksperimenata u psihologiji marketinga desio se u supermarketu. Istraï¿½ivaci su postavili ï¿½tand sa dï¿½emovima. Jednog dana su pokazali 24 razlicita ukusa. Sledeceg dana samo 6.
 
-Rezultat? �tand sa 24 ukusa privukao je vi�e ljudi da stanu i probaju. Ali prodao je **10x manje** d�ema od �tanda sa 6 ukusa.
+Rezultat? ï¿½tand sa 24 ukusa privukao je viï¿½e ljudi da stanu i probaju. Ali prodao je **10x manje** dï¿½ema od ï¿½tanda sa 6 ukusa.
 
-Razlog je paradoks izbora: �to vi�e opcija, to te�e ljudima da donesu odluku. A kad je odluka te�ka, ljudi je izbegavaju.
+Razlog je paradoks izbora: ï¿½to viï¿½e opcija, to teï¿½e ljudima da donesu odluku. A kad je odluka teï¿½ka, ljudi je izbegavaju.
 
-Vecina landing stranica pravi istu gre�ku. Posetilac dolazi na stranicu i vidi:
+Vecina landing stranica pravi istu greï¿½ku. Posetilac dolazi na stranicu i vidi:
 - Tri razlicite cenovne opcije
 - Pet razlicitih usluga
 - Link ka blogu, link ka kontakt strani, link ka pocetnoj
-- Dugme "Saznajte vi�e", dugme "Zatra�ite ponudu", dugme "Pozovite nas"
+- Dugme "Saznajte viï¿½e", dugme "Zatraï¿½ite ponudu", dugme "Pozovite nas"
 
-Rezultat? Posetilac ne zna �ta da klikne. I cesto ne klikne ni�ta.
+Rezultat? Posetilac ne zna ï¿½ta da klikne. I cesto ne klikne niï¿½ta.
 
-**Re�enje:** Jedna stranica = jedan cilj = jedna akcija. Ako je cilj da se zaka�e razgovor, sve na stranici treba da vodi ka tome. Nema linkova ka drugim stranama. Nema pet dugmadi. Jedno dugme, jasno �ta se de�ava kad se klikne.
+**Reï¿½enje:** Jedna stranica = jedan cilj = jedna akcija. Ako je cilj da se zakaï¿½e razgovor, sve na stranici treba da vodi ka tome. Nema linkova ka drugim stranama. Nema pet dugmadi. Jedno dugme, jasno ï¿½ta se deï¿½ava kad se klikne.
 
-Firme koje testiraju ovo primecuju skok konverzije od **30-50%** samo eliminacijom suvi�nih opcija.
+Firme koje testiraju ovo primecuju skok konverzije od **30-50%** samo eliminacijom suviï¿½nih opcija.
 
 > Kad se odluka uprosti, konverzija eksplodira.
 
-## Gre�ka #2: slab headline koji ne govori ni�ta
+## Greï¿½ka #2: slab headline koji ne govori niï¿½ta
 
-Headline je prvo �to posetilac procita. I vecina firmi ga potpuno proma�uje.
+Headline je prvo ï¿½to posetilac procita. I vecina firmi ga potpuno promaï¿½uje.
 
 Tipicni headline na landing stranicama zvuci ovako:
-- "Dobrodo�li u [Ime Firme]"
-- "Re�enja za va� biznis"
+- "Dobrodoï¿½li u [Ime Firme]"
+- "Reï¿½enja za vaï¿½ biznis"
 - "Kvalitet i poverenje"
 
-Problem? Nijedan od ovih headline-a ne govori posetilocu �ta dobija. Svi zvuce genericki i mogli bi biti na sajtu bilo koje firme.
+Problem? Nijedan od ovih headline-a ne govori posetilocu ï¿½ta dobija. Svi zvuce genericki i mogli bi biti na sajtu bilo koje firme.
 
 Dobar headline ima tri elementa:
 
-**1. Govori �ta posetilac dobija** (rezultat, benefiti, transformaciju)  
+**1. Govori ï¿½ta posetilac dobija** (rezultat, benefiti, transformaciju)  
 **2. Koristi specificne brojeve** gde god je moguce  
-**3. Adresira primarni problem** zbog kojeg je posetilac uop�te tu
+**3. Adresira primarni problem** zbog kojeg je posetilac uopï¿½te tu
 
-Umesto "Dobrodo�li u na�u agenciju", headline koji konvertuje zvuci: "Generi�emo 90-480 kvalifikovanih lead-ova mesecno za B2B firme."
+Umesto "Dobrodoï¿½li u naï¿½u agenciju", headline koji konvertuje zvuci: "Generiï¿½emo 90-480 kvalifikovanih lead-ova mesecno za B2B firme."
 
-Razlika? Prvi headline ne govori ni�ta. Drugi govori tacno �ta firma radi i kakav rezultat donosi.
+Razlika? Prvi headline ne govori niï¿½ta. Drugi govori tacno ï¿½ta firma radi i kakav rezultat donosi.
 
-**Re�enje:** Testiraj headline tako �to ga cita� naglas. Ako zvuci kao da mo�e biti na sajtu konkurencije, nije dovoljno specifican. Dodaj brojeve, dodaj vremenski okvir, dodaj konkretnu transformaciju.
+**Reï¿½enje:** Testiraj headline tako ï¿½to ga citaï¿½ naglas. Ako zvuci kao da moï¿½e biti na sajtu konkurencije, nije dovoljno specifican. Dodaj brojeve, dodaj vremenski okvir, dodaj konkretnu transformaciju.
 
 Firme koje isprave headline vide skok konverzije od **20-40%** bez promene iceg drugog na stranici.
 
-## Gre�ka #3: nema social proof-a ili je lo�e prikazan
+## Greï¿½ka #3: nema social proof-a ili je loï¿½e prikazan
 
-Ljudi donose odluke na osnovu onoga �to drugi rade. To je evoluciona psihologija. Ako 100 ljudi ka�e da je ne�to dobro, mozak automatski veruje vi�e nego ako to ka�e samo firma.
+Ljudi donose odluke na osnovu onoga ï¿½to drugi rade. To je evoluciona psihologija. Ako 100 ljudi kaï¿½e da je neï¿½to dobro, mozak automatski veruje viï¿½e nego ako to kaï¿½e samo firma.
 
-Problem je �to vecina landing stranica ili nema social proof, ili ga prikazuje na pogre�an nacin.
+Problem je ï¿½to vecina landing stranica ili nema social proof, ili ga prikazuje na pogreï¿½an nacin.
 
-Tipicne gre�ke:
+Tipicne greï¿½ke:
 
-**1. Genericke recenzije.** "Odlicna firma, preporucujem!" To ne znaci ni�ta. Moglo bi biti la�no. I ne govori ni�ta konkretno.
+**1. Genericke recenzije.** "Odlicna firma, preporucujem!" To ne znaci niï¿½ta. Moglo bi biti laï¿½no. I ne govori niï¿½ta konkretno.
 
 **2. Svedocanstva bez imena ili slike.** Kad recenzija nema fotografiju i puno ime, ljudi ne veruju da je stvarna.
 
-**3. Samo pozitivno, bez konteksta.** Svedocanstvo koje ka�e "Najbr�a usluga ikad!" bez obja�njenja problema ili rezultata je nepoverljivo.
+**3. Samo pozitivno, bez konteksta.** Svedocanstvo koje kaï¿½e "Najbrï¿½a usluga ikad!" bez objaï¿½njenja problema ili rezultata je nepoverljivo.
 
-**Re�enje:** Dobar social proof ima tri komponente:
+**Reï¿½enje:** Dobar social proof ima tri komponente:
 
 **a) Ime, slika i pozicija osobe** koja daje svedocanstvo. "Marko Petrovic, direktor ABC d.o.o." sa fotografijom.
 
-**b) Konkretni rezultat.** Ne "odlicna usluga" vec "smanjili tro�kove ogla�avanja za 40% za tri meseca."
+**b) Konkretni rezultat.** Ne "odlicna usluga" vec "smanjili troï¿½kove oglaï¿½avanja za 40% za tri meseca."
 
-**c) Pre-posle scenario.** Najbolja svedocanstva obja�njavaju problem koji je osoba imala, �ta je firma uradila, i kakav je konkretan rezultat.
+**c) Pre-posle scenario.** Najbolja svedocanstva objaï¿½njavaju problem koji je osoba imala, ï¿½ta je firma uradila, i kakav je konkretan rezultat.
 
 Ako firma nema dovoljno svedocanstava, drugi oblici social proof-a takode rade:
 - Broj klijenata ("Preko 200 firmi nam veruje")
 - Logotipi firmi sa kojima ste radili
-- Konkretni brojevi ("Generisali smo 12.000+ lead-ova pro�le godine")
+- Konkretni brojevi ("Generisali smo 12.000+ lead-ova proï¿½le godine")
 
 Dodavanje pravog social proof-a povecava konverziju za **40-80%.**
 
-## Gre�ka #4: forma sa previ�e polja
+## Greï¿½ka #4: forma sa previï¿½e polja
 
-Vecina firmi pravi gre�ku na mestu gde je konverzija najkriticnija: forma za prijavu ili upit.
+Vecina firmi pravi greï¿½ku na mestu gde je konverzija najkriticnija: forma za prijavu ili upit.
 
-Tipicna forma tra�i:
+Tipicna forma traï¿½i:
 - Ime
 - Prezime
 - Email
@@ -5707,51 +5934,51 @@ Tipicna forma tra�i:
 - Poruka/opis projekta
 - Preferiran datum kontakta
 
-Problem? Svako dodatno polje smanjuje verovatnocu da neko popuni formu. A vecina ovih polja uop�te nije potrebna u prvom koraku.
+Problem? Svako dodatno polje smanjuje verovatnocu da neko popuni formu. A vecina ovih polja uopï¿½te nije potrebna u prvom koraku.
 
-Statistika ka�e: **svako dodatno polje smanjuje konverziju za 5-10%.**
+Statistika kaï¿½e: **svako dodatno polje smanjuje konverziju za 5-10%.**
 
-**Re�enje:** Pitaj samo ono �to je apsolutno neophodno da se zapocne razgovor. Za vecinu firmi, to je:
-- Ime (mo�e i samo ime, bez prezimena)
+**Reï¿½enje:** Pitaj samo ono ï¿½to je apsolutno neophodno da se zapocne razgovor. Za vecinu firmi, to je:
+- Ime (moï¿½e i samo ime, bez prezimena)
 - Email
 
 To je sve. Ostale informacije mogu se prikupiti kasnije u razgovoru ili email sekvenci.
 
-Ako je forma za zakazivanje poziva, mo�e se dodati broj telefona. Ali i to je upitno. Mnoge firme primecuju da forma sa samo email-om ima vecu konverziju, pa onda pozovu klijenta nakon �to kontaktiraju mejlom.
+Ako je forma za zakazivanje poziva, moï¿½e se dodati broj telefona. Ali i to je upitno. Mnoge firme primecuju da forma sa samo email-om ima vecu konverziju, pa onda pozovu klijenta nakon ï¿½to kontaktiraju mejlom.
 
 Firme koje skrate forme sa 6-7 polja na 2-3 polja vide skok konverzije od **50-100%.**
 
-> �to je forma kraca, to je veca verovatnoca da neko klikne submit.
+> ï¿½to je forma kraca, to je veca verovatnoca da neko klikne submit.
 
-## Gre�ka #5: spora stranica
+## Greï¿½ka #5: spora stranica
 
-Ovo je gre�ka koju vecina firmi potpuno ignori�e jer ne vide direktno kako utice na konverziju. Ali uticaj je masivan.
+Ovo je greï¿½ka koju vecina firmi potpuno ignoriï¿½e jer ne vide direktno kako utice na konverziju. Ali uticaj je masivan.
 
-**53% posetilaca napusti stranicu ako se ucitava du�e od 3 sekunde.**
+**53% posetilaca napusti stranicu ako se ucitava duï¿½e od 3 sekunde.**
 
-Problem je �to vecina landing stranica ima:
+Problem je ï¿½to vecina landing stranica ima:
 - Ogromne slike koje nisu kompresovane
 - Video u pozadini koji usporava ucitavanje
-- Previ�e JavaScript koda
+- Previï¿½e JavaScript koda
 - Spore servere
 
-Rezultat? Polovina ljudi ode pre nego �to stranica uop�te ucita. A firma to cesto ne zna jer Google Analytics ne bele�i ljude koji odu tako brzo.
+Rezultat? Polovina ljudi ode pre nego ï¿½to stranica uopï¿½te ucita. A firma to cesto ne zna jer Google Analytics ne beleï¿½i ljude koji odu tako brzo.
 
-**Re�enje:** 
+**Reï¿½enje:** 
 
 **1. Kompresu? slike.** Alati poput TinyPNG ili ImageOptim mogu smanjiti velicinu slika za 70-80% bez gubitka kvaliteta.
 
 **2. Ukloni nepotrebne skripte.** Svaki dodatni plugin ili tracker usporava ucitavanje. Ako nije kritican, skloni ga.
 
-**3. Koristi brz hosting.** Landing stranica koja generi�e prihod ne sme biti na najjeftinijem shared hosting-u.
+**3. Koristi brz hosting.** Landing stranica koja generiï¿½e prihod ne sme biti na najjeftinijem shared hosting-u.
 
-**4. Testiraj brzinu.** Alati kao Google PageSpeed Insights ili GTmetrix pokazuju tacno �ta usporava stranicu.
+**4. Testiraj brzinu.** Alati kao Google PageSpeed Insights ili GTmetrix pokazuju tacno ï¿½ta usporava stranicu.
 
 Firme koje poprave brzinu stranice sa 5-6 sekundi na 1-2 sekunde vide povecanje konverzije za **20-30%.**
 
 ## Kako testirati i popraviti landing stranicu
 
-Vecina firmi ne zna koja gre�ka ih ko�ta najvi�e jer nikada ne testiraju.
+Vecina firmi ne zna koja greï¿½ka ih koï¿½ta najviï¿½e jer nikada ne testiraju.
 
 Evo kako pristupiti testiranju:
 
@@ -5761,60 +5988,60 @@ Evo kako pristupiti testiranju:
 
 **3. Testiraj jednu stvar odjednom.** Ne menjaj headline, dizajn i formu istovremeno. Promeni headline i vidi uticaj. Onda promeni formu.
 
-**4. Pitaj ljude koji su napustili formu.** Alati kao exit-intent popup mogu pitati: "�ta vas sprecava da se prijavite?" Odgovori ce pokazati tacan problem.
+**4. Pitaj ljude koji su napustili formu.** Alati kao exit-intent popup mogu pitati: "ï¿½ta vas sprecava da se prijavite?" Odgovori ce pokazati tacan problem.
 
 ## Kako mi ovo primenjujemo
 
 U Platinum Zenith-u, svaka landing stranica prolazi kroz proces optimizacije:
 
-- **Audit brzine** i otklanjanje svega �to usporava ucitavanje
-- **Uklanjanje suvi�nih opcija** jedna stranica = jedan cilj
+- **Audit brzine** i otklanjanje svega ï¿½to usporava ucitavanje
+- **Uklanjanje suviï¿½nih opcija** jedna stranica = jedan cilj
 - **Testiranje headline-a** minimum 3-5 verzija dok ne nademo najbolju
 - **Dodavanje social proof-a** konkretnih svedocanstava sa imenima, slikama i rezultatima
 - **Skracivanje formi** na minimum potrebnih polja
 
 Rezultat? Klijenti sa konverzijom izmedu 15-35% na landing stranicama umesto prosecnih 2-5%.
 
-Razlika nije u necemu magicnom. Razlika je u tome �to testirajemo, merimo i ispravljajmo ono �to ne radi.
+Razlika nije u necemu magicnom. Razlika je u tome ï¿½to testirajemo, merimo i ispravljajmo ono ï¿½to ne radi.
 
-Pogledajte na� [web design pristup](/web-design) i kako pravimo sajtove koji pretvaraju posetioce u klijente.
+Pogledajte naï¿½ [web design pristup](/web-design) i kako pravimo sajtove koji pretvaraju posetioce u klijente.
 
 Takode preporucujemo: [Kako napraviti landing stranicu koja konvertuje 20%+](/blog/kako-napraviti-landing-stranicu-koja-konvertuje).
 
 ---
 
-Ako �elite da va�a landing stranica konvertuje vi�e posetilaca u klijente, [javite nam se](/kontakt). Napravicemo vam analizu i pokazati gde gubite ljude.
+Ako ï¿½elite da vaï¿½a landing stranica konvertuje viï¿½e posetilaca u klijente, [javite nam se](/kontakt). Napravicemo vam analizu i pokazati gde gubite ljude.
 `,
   },
   {
     slug: 'facebook-oglasi-koji-zapravo-rade',
     title: 'Facebook oglasi koji zapravo rade: psihologija iza klika',
-    excerpt: 'Vecina firmi tro�i novac na Facebook oglase koji izgledaju kao oglasi. A ljudi mrze oglase. Evo kako napraviti oglas koji izgleda kao sadr�aj i konvertuje kao ludo.',
+    excerpt: 'Vecina firmi troï¿½i novac na Facebook oglase koji izgledaju kao oglasi. A ljudi mrze oglase. Evo kako napraviti oglas koji izgleda kao sadrï¿½aj i konvertuje kao ludo.',
     date: '2026-02-20',
     category: 'Marketing',
     readTime: '8 min',
     content: `
 {{fb-hero}}
 
-## Za�to vecina Facebook oglasa ne funkcioni�e
+## Zaï¿½to vecina Facebook oglasa ne funkcioniï¿½e
 
-Postoji jedan obrazac koji se ponavlja kod firmi koje tro�e novac na Facebook oglase bez rezultata. Naprave stranicu, podese piksel, napi�u oglas koji zvuci kao oglas, stave "Kupite sada" dugme i onda se cude za�to niko ne klikce.
+Postoji jedan obrazac koji se ponavlja kod firmi koje troï¿½e novac na Facebook oglase bez rezultata. Naprave stranicu, podese piksel, napiï¿½u oglas koji zvuci kao oglas, stave "Kupite sada" dugme i onda se cude zaï¿½to niko ne klikce.
 
-Problem nije u platformi. Problem je u tome kako vecina firmi pristupa ogla�avanju. Tretiraju Facebook kao bilbord pored autoputa. A Facebook nije bilbord. To je mesto gde ljudi skroluju kroz slike dece, video klipove macaka i vesti iz sveta. U tom okru�enju, klasican oglas je nevidljiv.
+Problem nije u platformi. Problem je u tome kako vecina firmi pristupa oglaï¿½avanju. Tretiraju Facebook kao bilbord pored autoputa. A Facebook nije bilbord. To je mesto gde ljudi skroluju kroz slike dece, video klipove macaka i vesti iz sveta. U tom okruï¿½enju, klasican oglas je nevidljiv.
 
-> Prvo pravilo Facebook ogla�avanja: oglas ne sme da izgleda kao oglas.
+> Prvo pravilo Facebook oglaï¿½avanja: oglas ne sme da izgleda kao oglas.
 
-## �ta ljudi zapravo gledaju na Facebooku
+## ï¿½ta ljudi zapravo gledaju na Facebooku
 
-Svake godine Facebook objavljuje izve�taj o najgledanijem sadr�aju na platformi. I svake godine, rezultat je isti: vesti, tracevi i zapanjujuce price.
+Svake godine Facebook objavljuje izveï¿½taj o najgledanijem sadrï¿½aju na platformi. I svake godine, rezultat je isti: vesti, tracevi i zapanjujuce price.
 
-Najgledanije stranice na celom Facebooku su medijske kuce poput LadBible, Unilad i E! News. Sve rade istu stvar: isporucuju vesti, nalaze i sadr�aj koji budi radoznalost.
+Najgledanije stranice na celom Facebooku su medijske kuce poput LadBible, Unilad i E! News. Sve rade istu stvar: isporucuju vesti, nalaze i sadrï¿½aj koji budi radoznalost.
 
-To nije slucajnost. Ljudski mozak je ma�ina za dopamin. Skrolujemo kroz feed tra�eci sledecu dozu informacije koja ce nas iznenaditi, nasmejati ili �okirati.
+To nije slucajnost. Ljudski mozak je maï¿½ina za dopamin. Skrolujemo kroz feed traï¿½eci sledecu dozu informacije koja ce nas iznenaditi, nasmejati ili ï¿½okirati.
 
-**Vecina firmi se bori protiv ove prirode.** Prave oglase koji su "profesionalni" i "brendirani" i koji izazivaju nula emocija. A onda se pitaju za�to algoritam ne prikazuje njihov sadr�aj.
+**Vecina firmi se bori protiv ove prirode.** Prave oglase koji su "profesionalni" i "brendirani" i koji izazivaju nula emocija. A onda se pitaju zaï¿½to algoritam ne prikazuje njihov sadrï¿½aj.
 
-Firme koje razumeju ovu psihologiju prave oglase koji se uklapaju u feed kao prirodan sadr�aj. I dobijaju klikove za delice cene.
+Firme koje razumeju ovu psihologiju prave oglase koji se uklapaju u feed kao prirodan sadrï¿½aj. I dobijaju klikove za delice cene.
 
 {{fb-newsfeed}}
 
@@ -5826,11 +6053,11 @@ Svaki oglas koji stvarno radi ima cetiri elementa koji rade zajedno:
 
 **1. Pattern interrupt** slika ili video koji zaustavlja skrolovanje. Mora biti neobicna, neocekivana ili vizuelno drugacija od svega ostalog u feed-u. Profesionalne stock fotografije sa osmehom? Nevidljive. Slika sa necim neocekivanim? Zaustavljanje garantovano.
 
-**2. Naslov sa intrigom** ne prodaje� proizvod u naslovu. Prodaje� klik. Naslov mora stvoriti toliku radoznalost da korisnik ne mo�e da nastavi skrolovanje bez da sazna vi�e.
+**2. Naslov sa intrigom** ne prodajeï¿½ proizvod u naslovu. Prodajeï¿½ klik. Naslov mora stvoriti toliku radoznalost da korisnik ne moï¿½e da nastavi skrolovanje bez da sazna viï¿½e.
 
-**3. Telo oglasa** kratak, konkretan, napisan kao da prica� sa jednom osobom. Kratke recenice. Mnogo preloma redova. Tekstovi koji se citaju za 5. razred osnovne �kole dobijaju najbolje rezultate. Ne zato �to je publika neinteligentna, vec zato �to niko ne �eli da ula�e mentalni napor dok skroluje.
+**3. Telo oglasa** kratak, konkretan, napisan kao da pricaï¿½ sa jednom osobom. Kratke recenice. Mnogo preloma redova. Tekstovi koji se citaju za 5. razred osnovne ï¿½kole dobijaju najbolje rezultate. Ne zato ï¿½to je publika neinteligentna, vec zato ï¿½to niko ne ï¿½eli da ulaï¿½e mentalni napor dok skroluje.
 
-**4. CTA (poziv na akciju)** "Saznajte vi�e" daleko nadma�uje "Kupite odmah" ili "Zatra�ite ponudu". Razlog je prost: ljudi ne �ele da kupe, �ele da saznaju. Kad im da� informaciju, kupovina dolazi prirodno.
+**4. CTA (poziv na akciju)** "Saznajte viï¿½e" daleko nadmaï¿½uje "Kupite odmah" ili "Zatraï¿½ite ponudu". Razlog je prost: ljudi ne ï¿½ele da kupe, ï¿½ele da saznaju. Kad im daï¿½ informaciju, kupovina dolazi prirodno.
 
 ## Formula koja menja sve
 
@@ -5838,147 +6065,147 @@ Firme koje postignu najbolje rezultate sa Facebook oglasima koriste jednu formul
 
 {{dopamine-formula}}
 
-**Pattern interrupt** zaustavlja skrolovanje. **Intriga** tera korisnika da procita naslov. **Konkretan benefit** mu govori za�to ga se to tice.
+**Pattern interrupt** zaustavlja skrolovanje. **Intriga** tera korisnika da procita naslov. **Konkretan benefit** mu govori zaï¿½to ga se to tice.
 
-Kad su sva tri elementa prisutna, dobijate oglas koji algoritam nagraduje jer korisnici reaguju na njega. Veci engagement znaci ni�i CPM, ni�i CPC i veci doseg za isti bud�et.
+Kad su sva tri elementa prisutna, dobijate oglas koji algoritam nagraduje jer korisnici reaguju na njega. Veci engagement znaci niï¿½i CPM, niï¿½i CPC i veci doseg za isti budï¿½et.
 
-> Nije bitno koliko tro�iti na oglase. Bitno je koliko ljudi ne mo�e da odoli a da ne klikne.
+> Nije bitno koliko troï¿½iti na oglase. Bitno je koliko ljudi ne moï¿½e da odoli a da ne klikne.
 
 ## Copywriting pravila koja menjaju performanse
 
-Vecina firmi tro�i sate birajuci targetiranje publike i optimizujuci algoritamska pode�avanja. A onda napi�e oglas u tri recenice koji nikoga ne zanima.
+Vecina firmi troï¿½i sate birajuci targetiranje publike i optimizujuci algoritamska podeï¿½avanja. A onda napiï¿½e oglas u tri recenice koji nikoga ne zanima.
 
-Evo �ta firme koje zapravo generi�u rezultate rade drugacije:
+Evo ï¿½ta firme koje zapravo generiï¿½u rezultate rade drugacije:
 
-- **Specificnost umesto op�tih tvrdnji.** "Generisali smo 90-480 lead-ova mesecno" je milion puta bolje od "Povecajte broj klijenata". Specificni brojevi povecavaju verodostojnost.
-- **Pisanje za jednu osobu.** Ne "na�i klijenti" vec "ti". Ne ime firme vec "mi". Oglas je razgovor izmedu dve osobe, ne korporativna bro�ura.
+- **Specificnost umesto opï¿½tih tvrdnji.** "Generisali smo 90-480 lead-ova mesecno" je milion puta bolje od "Povecajte broj klijenata". Specificni brojevi povecavaju verodostojnost.
+- **Pisanje za jednu osobu.** Ne "naï¿½i klijenti" vec "ti". Ne ime firme vec "mi". Oglas je razgovor izmedu dve osobe, ne korporativna broï¿½ura.
 - **Kratke recenice i mnogo razmaka.** 80-90% ljudi cita na telefonu. Zid teksta na malom ekranu = instant skrolovanje. Svaka recenica mora biti kratka i jasna.
-- **Pozitivni naslovi nadma�uju negativne.** "Kako da izgubite 12-19 kg za 5 nedelja" gotovo uvek radi bolje od "Ne budite debeli ove zime". Konkretna obecanja pobede strahove.
-- **Dug tekst nadjacava kratak** ali samo ako je zanimljiv. Kupci citaju duge tekstove. Ljudi koji nisu zainteresovani nece procitati ni kratke. Pisanje dugog oglasa koji dr�i pa�nju je ve�tina koja se isplati.
+- **Pozitivni naslovi nadmaï¿½uju negativne.** "Kako da izgubite 12-19 kg za 5 nedelja" gotovo uvek radi bolje od "Ne budite debeli ove zime". Konkretna obecanja pobede strahove.
+- **Dug tekst nadjacava kratak** ali samo ako je zanimljiv. Kupci citaju duge tekstove. Ljudi koji nisu zainteresovani nece procitati ni kratke. Pisanje dugog oglasa koji drï¿½i paï¿½nju je veï¿½tina koja se isplati.
 
 ## Tipovi kreativa koji rade u praksi
 
-Iz iskustva sa razlicitim industrijama i klijentima, odredeni formati oglasa konzistentno nadma�uju ostale:
+Iz iskustva sa razlicitim industrijama i klijentima, odredeni formati oglasa konzistentno nadmaï¿½uju ostale:
 
 {{fb-creative-types}}
 
-- **Raw native fotografija** slika uslikana telefonom, ne profesionalna. Izgleda kao post prijatelja, ne kao reklama. Facebook algoritam favorizuje ovakav sadr�aj jer ne izgleda kao oglas.
-- **Breaking news format** naslov u stilu vesti sa urgentno�cu. Radi u bukvalno svakoj industriji, od finansija do fitnesa. Ljudski mozak je programiran da reaguje na vesti.
+- **Raw native fotografija** slika uslikana telefonom, ne profesionalna. Izgleda kao post prijatelja, ne kao reklama. Facebook algoritam favorizuje ovakav sadrï¿½aj jer ne izgleda kao oglas.
+- **Breaking news format** naslov u stilu vesti sa urgentnoï¿½cu. Radi u bukvalno svakoj industriji, od finansija do fitnesa. Ljudski mozak je programiran da reaguje na vesti.
 - **Native social post** oglas koji izgleda kao obican post sa stranice. Primarni vizual plus sekundarni manji vizual za dodatnu intrigu. Format koji najgledanije stranice koriste svaki dan.
 
-## Gre�ka sa algoritmima
+## Greï¿½ka sa algoritmima
 
-Najveca gre�ka koju vecina firmi pravi nije lo� oglas. Najveca gre�ka je opsesija algoritmima umesto ljudima.
+Najveca greï¿½ka koju vecina firmi pravi nije loï¿½ oglas. Najveca greï¿½ka je opsesija algoritmima umesto ljudima.
 
-Firme tro�e dane pode�avajuci lookalike audiences, interest targeting i strukturu ad account-a. A oglas koji postave izaziva nula emocija kod nekoga ko ga vidi.
+Firme troï¿½e dane podeï¿½avajuci lookalike audiences, interest targeting i strukturu ad account-a. A oglas koji postave izaziva nula emocija kod nekoga ko ga vidi.
 
-Prosecan marketer sa lo�im targetiranjem i odlicnim oglasom ce uvek pobediti eksperta sa savr�enim targetiranjem i dosadnim oglasom. Algoritam nagraduje engagement. A engagement dolazi od toga kako oglas utice na ljudsku psihologiju, ne od toga kako je kampanja strukturirana.
+Prosecan marketer sa loï¿½im targetiranjem i odlicnim oglasom ce uvek pobediti eksperta sa savrï¿½enim targetiranjem i dosadnim oglasom. Algoritam nagraduje engagement. A engagement dolazi od toga kako oglas utice na ljudsku psihologiju, ne od toga kako je kampanja strukturirana.
 
 ## Kako mi ovo primenjujemo
 
-U Platinum Zenith-u, svaku Facebook kampanju gradimo po ovim principima. Klijentima ne pravimo "lepe" oglase. Pravimo oglase koje ljudi ne mogu da ignori�u.
+U Platinum Zenith-u, svaku Facebook kampanju gradimo po ovim principima. Klijentima ne pravimo "lepe" oglase. Pravimo oglase koje ljudi ne mogu da ignoriï¿½u.
 
 Za svaki ad account kreiramo:
 - **Minimum 5-10 kreativnih varijanti** za testiranje jer niko ne zna unapred koji ce raditi najbolje
-- **Oglase pisane za ljude, ne za algoritme** fokus na psihologiju, ne na tehnicka pode�avanja
-- **Me�avinu formata** raw native, breaking news, social post jer razliciti segmenti publike reaguju na razlicite formate
+- **Oglase pisane za ljude, ne za algoritme** fokus na psihologiju, ne na tehnicka podeï¿½avanja
+- **Meï¿½avinu formata** raw native, breaking news, social post jer razliciti segmenti publike reaguju na razlicite formate
 - **Agresivno testiranje i iteraciju** kad nademo oglas koji radi, skaliramo ga. Kad ne radi, menjamo za 24 sata.
 
-Rezultat? Klijenti sa 3-5x ni�im tro�kovima po lead-u nego pre. Ne zato �to smo na�li magicno targetiranje, vec zato �to smo napravili oglase koje ljudi zapravo �ele da kliknu.
+Rezultat? Klijenti sa 3-5x niï¿½im troï¿½kovima po lead-u nego pre. Ne zato ï¿½to smo naï¿½li magicno targetiranje, vec zato ï¿½to smo napravili oglase koje ljudi zapravo ï¿½ele da kliknu.
 
-Saznajte vi�e o na�em [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
+Saznajte viï¿½e o naï¿½em [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
 
-Takode preporucujemo: [Piramida kupaca: za�to vecina firmi gubi 97% tr�i�ta](/blog/piramida-kupaca-4-tipa-publike).
+Takode preporucujemo: [Piramida kupaca: zaï¿½to vecina firmi gubi 97% trï¿½iï¿½ta](/blog/piramida-kupaca-4-tipa-publike).
 
 ---
 
-Ako �elite da va�i Facebook oglasi konacno prave rezultate, [javite nam se](/kontakt). Analiziracemo va�e trenutne kampanje i pokazati gde gubite novac.
+Ako ï¿½elite da vaï¿½i Facebook oglasi konacno prave rezultate, [javite nam se](/kontakt). Analiziracemo vaï¿½e trenutne kampanje i pokazati gde gubite novac.
 `,
   },
   {
     slug: 'piramida-kupaca-4-tipa-publike',
-    title: 'Piramida kupaca: za�to vecina firmi gubi 97% tr�i�ta',
-    excerpt: 'Vecina firmi se bori za isti mali procenat kupaca koji su spremni da kupe odmah. U meduvremenu, ogromna vecina tr�i�ta prolazi pored njih nezapa�eno.',
+    title: 'Piramida kupaca: zaï¿½to vecina firmi gubi 97% trï¿½iï¿½ta',
+    excerpt: 'Vecina firmi se bori za isti mali procenat kupaca koji su spremni da kupe odmah. U meduvremenu, ogromna vecina trï¿½iï¿½ta prolazi pored njih nezapaï¿½eno.',
     date: '2026-02-20',
     category: 'Marketing',
     readTime: '6 min',
     content: `
 {{pyramid-hero}}
 
-## Gre�ka koju pravi vecina firmi na tr�i�tu
+## Greï¿½ka koju pravi vecina firmi na trï¿½iï¿½tu
 
-Postoji obrazac koji se ponavlja u skoro svakoj industriji. Firma pokrene Google Ads, uradi SEO, stavi "Zatra�ite ponudu" dugme na sajt i ceka. Dolaze upiti, zatvara se odreden broj poslova, i na kraju meseca brojke izgledaju okej.
+Postoji obrazac koji se ponavlja u skoro svakoj industriji. Firma pokrene Google Ads, uradi SEO, stavi "Zatraï¿½ite ponudu" dugme na sajt i ceka. Dolaze upiti, zatvara se odreden broj poslova, i na kraju meseca brojke izgledaju okej.
 
-A onda se rast zaustavi. Mesec za mesecom isti rezultati. Vlasnik se pita �ta ne valja, a odgovor je zapravo u strukturi tr�i�ta koju vecina nikada ne razmatra.
+A onda se rast zaustavi. Mesec za mesecom isti rezultati. Vlasnik se pita ï¿½ta ne valja, a odgovor je zapravo u strukturi trï¿½iï¿½ta koju vecina nikada ne razmatra.
 
-## Kako izgleda svako tr�i�te
+## Kako izgleda svako trï¿½iï¿½te
 
-Bez obzira na industriju, svako tr�i�te na svetu ima istu strukturu:
+Bez obzira na industriju, svako trï¿½iï¿½te na svetu ima istu strukturu:
 
 {{pyramid}}
 
-**3% je spremno da kupi odmah.** Ovo su ljudi koji aktivno pretra�uju na Google-u, tra�e ponude, porede cene. Vecina firmi se fokusira iskljucivo na ovu grupu.
+**3% je spremno da kupi odmah.** Ovo su ljudi koji aktivno pretraï¿½uju na Google-u, traï¿½e ponude, porede cene. Vecina firmi se fokusira iskljucivo na ovu grupu.
 
-**17% prikuplja informacije.** Citaju clanke, gledaju recenzije, porede opcije. Ali jo� ne razgovaraju sa prodavcima. Ovo su digitalni "window shoppers".
+**17% prikuplja informacije.** Citaju clanke, gledaju recenzije, porede opcije. Ali joï¿½ ne razgovaraju sa prodavcima. Ovo su digitalni "window shoppers".
 
-**20% je svesno problema.** Znaju da im ne�to treba, ali nisu poceli aktivno da tra�e re�enje. Mo�da ce za mesec dana, mo�da za �est.
+**20% je svesno problema.** Znaju da im neï¿½to treba, ali nisu poceli aktivno da traï¿½e reï¿½enje. Moï¿½da ce za mesec dana, moï¿½da za ï¿½est.
 
-**60% uop�te ne zna da ima problem.** Potpuno su nesvesni, ali uz pravi pristup, mogu postati odlicni kupci.
+**60% uopï¿½te ne zna da ima problem.** Potpuno su nesvesni, ali uz pravi pristup, mogu postati odlicni kupci.
 
-Kad se sabere, **97% tr�i�ta nikada nece kliknuti na Google oglas.** Nikada nece popuniti formular za ponudu. Nikada nece sami doci do prodajnog tima.
+Kad se sabere, **97% trï¿½iï¿½ta nikada nece kliknuti na Google oglas.** Nikada nece popuniti formular za ponudu. Nikada nece sami doci do prodajnog tima.
 
 Ali to ne znaci da ne mogu postati kupci.
 
-> 97% tr�i�ta je nevidljivo za firme koje se oslanjaju samo na Google pretrage.
+> 97% trï¿½iï¿½ta je nevidljivo za firme koje se oslanjaju samo na Google pretrage.
 
 {{pyramid-google-ads}}
 
-## Za�to firme koje rade samo Google Ads stagniraju
+## Zaï¿½to firme koje rade samo Google Ads stagniraju
 
-Evo �ta se de�ava u praksi. Vecina firmi na tr�i�tu radi jednu od ove tri stvari:
-- Google Ads kampanja koja cilja ljude koji aktivno pretra�uju
+Evo ï¿½ta se deï¿½ava u praksi. Vecina firmi na trï¿½iï¿½tu radi jednu od ove tri stvari:
+- Google Ads kampanja koja cilja ljude koji aktivno pretraï¿½uju
 - SEO optimizacija za iste te pretrage
-- "Zatra�ite ponudu" stranica koja ceka da neko popuni formular
+- "Zatraï¿½ite ponudu" stranica koja ceka da neko popuni formular
 
-Sve tri strategije ciljaju istih 3% tr�i�ta. I sve tri strategije znace da se ta firma bori sa svakim konkurentom za istu grupu ljudi.
+Sve tri strategije ciljaju istih 3% trï¿½iï¿½ta. I sve tri strategije znace da se ta firma bori sa svakim konkurentom za istu grupu ljudi.
 
-Rezultat? Cena po kliku raste. Mar�e se smanjuju. A broj potencijalnih kupaca je ogranicen brojem pretraga u tom mesecu.
+Rezultat? Cena po kliku raste. Marï¿½e se smanjuju. A broj potencijalnih kupaca je ogranicen brojem pretraga u tom mesecu.
 
-Jedna firma iz oblasti renoviranja sa kojom smo razgovarali imala je tacno ovaj problem. Google Ads su im donosili po 30-40 upita mesecno, ali koliko god povecavali bud�et, taj broj se nije menjao. Razlog je bio prost: u njihovom gradu samo toliko ljudi mesecno pretra�uje tu vrstu usluge.
+Jedna firma iz oblasti renoviranja sa kojom smo razgovarali imala je tacno ovaj problem. Google Ads su im donosili po 30-40 upita mesecno, ali koliko god povecavali budï¿½et, taj broj se nije menjao. Razlog je bio prost: u njihovom gradu samo toliko ljudi mesecno pretraï¿½uje tu vrstu usluge.
 
 ## Pristup koji otvara ostalih 97%
 
-Firme koje rastu br�e od konkurencije obicno rade jednu stvar drugacije. Umesto da se bore iskljucivo za 3% koji su vec spremni da kupe, one grade sisteme koji privlace i onih 97%.
+Firme koje rastu brï¿½e od konkurencije obicno rade jednu stvar drugacije. Umesto da se bore iskljucivo za 3% koji su vec spremni da kupe, one grade sisteme koji privlace i onih 97%.
 
-Ali postoji pravilo: tih 97% se ne mo�e tretirati kao 3%. Ako nekome ko tek prikuplja informacije odmah ponudi� prodajni razgovor, izgubio si ga.
+Ali postoji pravilo: tih 97% se ne moï¿½e tretirati kao 3%. Ako nekome ko tek prikuplja informacije odmah ponudiï¿½ prodajni razgovor, izgubio si ga.
 
 Umesto toga, pristup ide u tri koraka:
 
-> Cilj nije prodati odmah. Cilj je da potencijalni kupac podigne ruku i ka�e "zainteresovan sam".
+> Cilj nije prodati odmah. Cilj je da potencijalni kupac podigne ruku i kaï¿½e "zainteresovan sam".
 
-### 1. Privuci pa�nju korisnim sadr�ajem
+### 1. Privuci paï¿½nju korisnim sadrï¿½ajem
 
-Na vrhu levka, cilj nije prodaja. Cilj je da neko podigne ruku i ka�e "zainteresovan sam". To se posti�e besplatnim sadr�ajem koji stvarno poma�e:
-- Vodic koji odgovara na najce�ca pitanja
+Na vrhu levka, cilj nije prodaja. Cilj je da neko podigne ruku i kaï¿½e "zainteresovan sam". To se postiï¿½e besplatnim sadrï¿½ajem koji stvarno pomaï¿½e:
+- Vodic koji odgovara na najceï¿½ca pitanja
 - Ceklista za pripremu pre kupovine
-- Kalkulator koji poma�e u odluci
+- Kalkulator koji pomaï¿½e u odluci
 
-Kad firma umesto "Zatra�ite ponudu" ponudi koristan materijal, konverzija posetilaca u lead-ove skace sa uobicajenih 4% na **30% i vi�e.** Razlika je ogromna jer nema pritiska i nema obaveze.
+Kad firma umesto "Zatraï¿½ite ponudu" ponudi koristan materijal, konverzija posetilaca u lead-ove skace sa uobicajenih 4% na **30% i viï¿½e.** Razlika je ogromna jer nema pritiska i nema obaveze.
 
-### 2. Izgradi poverenje pre nego �to ponudi� bilo �ta
+### 2. Izgradi poverenje pre nego ï¿½to ponudiï¿½ bilo ï¿½ta
 
-Kad neko preuzme vodic ili se prijavi, najgora stvar je odmah poslati prodajnu ponudu. Firme koje ovo rade dobro �alju:
-- Seriju edukativnih mejlova koji re�avaju konkretne probleme
+Kad neko preuzme vodic ili se prijavi, najgora stvar je odmah poslati prodajnu ponudu. Firme koje ovo rade dobro ï¿½alju:
+- Seriju edukativnih mejlova koji reï¿½avaju konkretne probleme
 - Video materijale sa prakticnim savetima
 - Studije slucaja sa realnim rezultatima
 
 Poenta je jednostavna: kad ta osoba bude spremna da kupi, firma koja joj je pomogla pre kupovine bice prvi izbor.
 
-### 3. Prodajni razgovor koji sam po sebi pru�a vrednost
+### 3. Prodajni razgovor koji sam po sebi pruï¿½a vrednost
 
 Na kraju levka, prodajni razgovor ne treba da bude pritisak. Firme koje konvertuju najbolje rade ovako:
 - Besplatna analiza trenutnog stanja
-- Konkretne preporuke koje klijent mo�e primeniti odmah
+- Konkretne preporuke koje klijent moï¿½e primeniti odmah
 - Jasan plan koraka bez obaveze
 
 Cak i oni koji ne kupe odmah treba da odu sa osecanjem "ovo mi je stvarno pomoglo." To gradi reputaciju i donosi preporuke.
@@ -5989,63 +6216,63 @@ Cak i oni koji ne kupe odmah treba da odu sa osecanjem "ovo mi je stvarno pomogl
 
 {{funnel}}
 
-Isti bud�et. **Tri puta vi�e klijenata.**
+Isti budï¿½et. **Tri puta viï¿½e klijenata.**
 
-A evo najboljeg dela: kad firma ne zavisi samo od onih 3% koji aktivno pretra�uju, tr�i�te postaje prakticno neograniceno. Mo�e se privuci hiljadama novih potencijalnih kupaca dnevno. Ljudi koji nikada ne bi popunili formular za ponudu, ali koji ce rado preuzeti koristan vodic, pogledati edukativni video i na kraju postati klijent.
+A evo najboljeg dela: kad firma ne zavisi samo od onih 3% koji aktivno pretraï¿½uju, trï¿½iï¿½te postaje prakticno neograniceno. Moï¿½e se privuci hiljadama novih potencijalnih kupaca dnevno. Ljudi koji nikada ne bi popunili formular za ponudu, ali koji ce rado preuzeti koristan vodic, pogledati edukativni video i na kraju postati klijent.
 
 ## Kako mi ovo primenjujemo
 
 U Platinum Zenith-u, svaku kampanju gradimo po ovom principu. Ne samo Google oglasi. Ne samo SEO. Kompletan sistem koji pokriva celu piramidu kupaca.
 
 Za svakog klijenta kreiramo:
-- **Lead magnete** koji privlace �iru publiku
+- **Lead magnete** koji privlace ï¿½iru publiku
 - **Nurture sekvence** koje edukuju i grade poverenje
 - **Prodajne procese** koji konvertuju bez pritiska
 
-Rezultat? Klijenti koji dolaze informisani, sa poverenjem, i spremni da saraduju. Ne zato �to ih je neko pritisnuo, vec zato �to su dobili vrednost pre nego �to su ikada platili.
+Rezultat? Klijenti koji dolaze informisani, sa poverenjem, i spremni da saraduju. Ne zato ï¿½to ih je neko pritisnuo, vec zato ï¿½to su dobili vrednost pre nego ï¿½to su ikada platili.
 
-Saznajte vi�e o na�em [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
+Saznajte viï¿½e o naï¿½em [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
 
-Takode preporucujemo: [Retargeting: za�to 95% posetilaca nikad ne kupi iz prvog poku�aja](/blog/retargeting-zasto-95-posetilaca-ne-kupi).
+Takode preporucujemo: [Retargeting: zaï¿½to 95% posetilaca nikad ne kupi iz prvog pokuï¿½aja](/blog/retargeting-zasto-95-posetilaca-ne-kupi).
 
 ---
 
-Ako vas zanima kako bi ovaj sistem izgledao za va� biznis, [javite nam se](/kontakt). Napravicemo vam plan.
+Ako vas zanima kako bi ovaj sistem izgledao za vaï¿½ biznis, [javite nam se](/kontakt). Napravicemo vam plan.
 `,
   },
   {
     slug: 'pricing-psihologija-kako-luksuzni-brendovi-kontrolisu-percepciju-cene',
-    title: 'Pricing psihologija: kako luksuzni brendovi kontroli�u percepciju cene',
+    title: 'Pricing psihologija: kako luksuzni brendovi kontroliï¿½u percepciju cene',
     excerpt: 'Cena nije broj. Cena je prica. Firme koje ovo razumeju ne prodaju jeftinije od konkurencije. Prodaju drugacije.',
     date: '2026-02-24',
     category: 'Biznis',
     readTime: '8 min',
     content: `
-## Za�to niska cena ne znaci vi�e kupaca
+## Zaï¿½to niska cena ne znaci viï¿½e kupaca
 
-Vecina firmi pravi istu gre�ku: kad im prodaja stagnira, prvo �to urade je da spuste cenu. Logika izgleda zdrava. Jeftinije znaci pristupacnije, pristupacnije znaci vi�e kupaca.
+Vecina firmi pravi istu greï¿½ku: kad im prodaja stagnira, prvo ï¿½to urade je da spuste cenu. Logika izgleda zdrava. Jeftinije znaci pristupacnije, pristupacnije znaci viï¿½e kupaca.
 
-U praksi je tacno suprotno. Sni�avanje cene �alje poruku: "Nismo sigurni da ovo vredi onoliko koliko smo rekli." A kupci tu poruku primaju glasno i jasno, cak i kad toga nisu svesni.
+U praksi je tacno suprotno. Sniï¿½avanje cene ï¿½alje poruku: "Nismo sigurni da ovo vredi onoliko koliko smo rekli." A kupci tu poruku primaju glasno i jasno, cak i kad toga nisu svesni.
 
-Luksuzni brendovi nikad ne ulaze u cenovni rat. Hermes torba ko�ta 10.000� i nema popusta. Apple nikad ne ide na rasprodaju. Rezultat? Potra�nja raste. Ne uprkos visokoj ceni, vec upravo zbog nje.
+Luksuzni brendovi nikad ne ulaze u cenovni rat. Hermes torba koï¿½ta 10.000ï¿½ i nema popusta. Apple nikad ne ide na rasprodaju. Rezultat? Potraï¿½nja raste. Ne uprkos visokoj ceni, vec upravo zbog nje.
 
 ## Cena je signal, ne samo broj
 
-Kad covek vidi dve boce vina u prodavnici, jednu za 8� i drugu za 45�, skoro uvek pretpostavi da je skuplja bolja. Cak i kad ne zna ni�ta o vinu.
+Kad covek vidi dve boce vina u prodavnici, jednu za 8ï¿½ i drugu za 45ï¿½, skoro uvek pretpostavi da je skuplja bolja. Cak i kad ne zna niï¿½ta o vinu.
 
-Ovo nije glupost. Ovo je duboko ugraden mehanizam koji poma�e ljudima da donose odluke u svetu sa previ�e opcija. Cena slu�i kao precica za procenu kvaliteta.
+Ovo nije glupost. Ovo je duboko ugraden mehanizam koji pomaï¿½e ljudima da donose odluke u svetu sa previï¿½e opcija. Cena sluï¿½i kao precica za procenu kvaliteta.
 
-Studije su pokazale da ljudi koji piju isto vino, ali im se ka�e da jedno ko�ta 90� a drugo 10�, bukvalno opisuju "skuplje" vino kao ukusnije. Mozak menja percepciju ukusa na osnovu cene.
+Studije su pokazale da ljudi koji piju isto vino, ali im se kaï¿½e da jedno koï¿½ta 90ï¿½ a drugo 10ï¿½, bukvalno opisuju "skuplje" vino kao ukusnije. Mozak menja percepciju ukusa na osnovu cene.
 
-Za firme, ovo znaci jednu stvar: va�a cena oblikuje kako kupci do�ivljavaju va� proizvod pre nego �to ga probaju.
+Za firme, ovo znaci jednu stvar: vaï¿½a cena oblikuje kako kupci doï¿½ivljavaju vaï¿½ proizvod pre nego ï¿½to ga probaju.
 
-> Kupci ne biraju najjeftinije re�enje. Biraju re�enje u koje imaju najvi�e poverenja. A cena je jedan od najjacih signala poverenja.
+> Kupci ne biraju najjeftinije reï¿½enje. Biraju reï¿½enje u koje imaju najviï¿½e poverenja. A cena je jedan od najjacih signala poverenja.
 
 ## Tri tehnike koje koriste premium brendovi
 
 ### 1. Sidrenje (anchoring)
 
-Kad restoran stavi jelo od 120� na vrh menija, to jelo se retko narucuje. Ali jelo od 45� ispod njega odjednom izgleda kao razumna opcija. Bez tog sidra, istih 45� bi delovalo skupo.
+Kad restoran stavi jelo od 120ï¿½ na vrh menija, to jelo se retko narucuje. Ali jelo od 45ï¿½ ispod njega odjednom izgleda kao razumna opcija. Bez tog sidra, istih 45ï¿½ bi delovalo skupo.
 
 Sidrenje radi jer ljudski mozak ne procenjuje cenu u vakuumu. Procenjuje je u poredenju sa prvim brojem koji vidi.
 
@@ -6055,50 +6282,50 @@ Prakticna primena: ako imate tri paketa usluga, najskuplji paket ne mora da se p
 
 Hermesova torba se ne prodaje na polici pored drugih torbi. Prodaje se u odvojenoj sekciji, sa zasebnim osvetljenjem, uz prodavca koji vam prica pricu o zanatskoj izradi.
 
-Poenta: kad kupac ne mo�e lako da uporedi va� proizvod sa konkurentskim, ne mo�e ni da ka�e "skupo ste." Nema sa cim da uporedi.
+Poenta: kad kupac ne moï¿½e lako da uporedi vaï¿½ proizvod sa konkurentskim, ne moï¿½e ni da kaï¿½e "skupo ste." Nema sa cim da uporedi.
 
-Firme to posti�u na vi�e nacina:
+Firme to postiï¿½u na viï¿½e nacina:
 - Jedinstven paket usluga koji niko drugi ne nudi u tom obliku
 - Brendirani proces sa sopstvenim nazivom (umesto "konsalting" imate "Zenith Audit")
-- Rezultati izra�eni u metrikama koje samo vi pratite
+- Rezultati izraï¿½eni u metrikama koje samo vi pratite
 
 ### 3. Kontrolisana oskudica
 
-"Trenutno radimo sa maksimalno 8 klijenata" nije la� ako je to zaista va� kapacitet. A ta informacija menja kompletnu dinamiku pregovora.
+"Trenutno radimo sa maksimalno 8 klijenata" nije laï¿½ ako je to zaista vaï¿½ kapacitet. A ta informacija menja kompletnu dinamiku pregovora.
 
-Kad je necega malo, ljudi mu automatski dodeljuju vecu vrednost. Ovo va�i za luksuzne satove, ekskluzivne clanarine i poslovne usluge.
+Kad je necega malo, ljudi mu automatski dodeljuju vecu vrednost. Ovo vaï¿½i za luksuzne satove, ekskluzivne clanarine i poslovne usluge.
 
-Ali oskudica mora biti stvarna. La�na oskudica ("jo� samo 2 mesta" koji se resetuju svaki dan) uni�tava poverenje. Prava oskudica znaci da ste zaista izabrali da radite sa manje klijenata, ali bolje.
+Ali oskudica mora biti stvarna. Laï¿½na oskudica ("joï¿½ samo 2 mesta" koji se resetuju svaki dan) uniï¿½tava poverenje. Prava oskudica znaci da ste zaista izabrali da radite sa manje klijenata, ali bolje.
 
 ## Kako ovo primeniti ako niste Hermes
 
-Ovo nije rezervisano za firme sa milionskim bud�etima. Svaka firma, od freelancera do agencije, mo�e koristiti iste principe.
+Ovo nije rezervisano za firme sa milionskim budï¿½etima. Svaka firma, od freelancera do agencije, moï¿½e koristiti iste principe.
 
-**Prestanite da se takmicite cenom.** Umesto "na�e usluge ko�taju manje od konkurencije," komunicirajte "na�i klijenti zaraduju X puta vi�e nego �to ula�u." Pomerili ste razgovor sa tro�ka na povrat investicije.
+**Prestanite da se takmicite cenom.** Umesto "naï¿½e usluge koï¿½taju manje od konkurencije," komunicirajte "naï¿½i klijenti zaraduju X puta viï¿½e nego ï¿½to ulaï¿½u." Pomerili ste razgovor sa troï¿½ka na povrat investicije.
 
-**Paketizujte drugacije.** Umesto "50� po satu za konsalting" ponudite "90-dnevni program transformacije za �X." Sat vremena je roba. Program je re�enje. Re�enja se ne uporeduju po satu.
+**Paketizujte drugacije.** Umesto "50ï¿½ po satu za konsalting" ponudite "90-dnevni program transformacije za ï¿½X." Sat vremena je roba. Program je reï¿½enje. Reï¿½enja se ne uporeduju po satu.
 
-**Poka�ite proces, ne samo rezultat.** Kad klijent razume koliko koraka, analiza i testiranja stoji iza rezultata, cena postaje logicna. Transparentnost u procesu gradi percepciju vrednosti.
+**Pokaï¿½ite proces, ne samo rezultat.** Kad klijent razume koliko koraka, analiza i testiranja stoji iza rezultata, cena postaje logicna. Transparentnost u procesu gradi percepciju vrednosti.
 
 **Koristite testimonijale koji govore o rezultatima.** "Sjajno iskustvo" ne opravdava visoku cenu. "Povecali smo promet za 3x u 4 meseca" opravdava.
 
-> Firme koje se takmice cenom na kraju nemaju ni profit ni reputaciju. Firme koje se takmice vredno�cu imaju i jedno i drugo.
+> Firme koje se takmice cenom na kraju nemaju ni profit ni reputaciju. Firme koje se takmice vrednoï¿½cu imaju i jedno i drugo.
 
-## Cena govori pre nego �to vi progovorite
+## Cena govori pre nego ï¿½to vi progovorite
 
-Va� sajt, va�a ponuda, va� nacin komunikacije, sve to �alje cenovne signale. Lo� dizajn sajta govori "jeftino." Profesionalna prezentacija govori "vredi investiciju."
+Vaï¿½ sajt, vaï¿½a ponuda, vaï¿½ nacin komunikacije, sve to ï¿½alje cenovne signale. Loï¿½ dizajn sajta govori "jeftino." Profesionalna prezentacija govori "vredi investiciju."
 
-Pre nego �to razmi�ljate o sni�avanju cene, pogledajte kako va� brend komunicira vrednost. Cesto problem nije cena. Problem je �to sve oko cene govori pogre�nu pricu.
+Pre nego ï¿½to razmiï¿½ljate o sniï¿½avanju cene, pogledajte kako vaï¿½ brend komunicira vrednost. Cesto problem nije cena. Problem je ï¿½to sve oko cene govori pogreï¿½nu pricu.
 
-Luksuzni brendovi to znaju. Zato ne tro�e energiju na ubedljive popuste. Tro�e je na izgradnju percepcije koja cini da cena izgleda kao potvrda kvaliteta, a ne kao prepreka.
+Luksuzni brendovi to znaju. Zato ne troï¿½e energiju na ubedljive popuste. Troï¿½e je na izgradnju percepcije koja cini da cena izgleda kao potvrda kvaliteta, a ne kao prepreka.
 
-Ako �elite strukturiran pogled na va� biznis, pogledajte na� [consulting program](/consulting).
+Ako ï¿½elite strukturiran pogled na vaï¿½ biznis, pogledajte naï¿½ [consulting program](/consulting).
 
-Takode preporucujemo: [Pricing psihologija: kako brendovi kontroli�u percepciju cene](/blog/pricing-psihologija-kontrola-percepcije-cene).
+Takode preporucujemo: [Pricing psihologija: kako brendovi kontroliï¿½u percepciju cene](/blog/pricing-psihologija-kontrola-percepcije-cene).
 
 ---
 
-Ako �elite da va�a ponuda komunicira pravu vrednost i privlaci klijente koji ne tra�e najjeftiniju opciju, [javite nam se](/kontakt). Pomoci cemo vam da pozicionirate cenu kao prednost, ne kao prepreku.
+Ako ï¿½elite da vaï¿½a ponuda komunicira pravu vrednost i privlaci klijente koji ne traï¿½e najjeftiniju opciju, [javite nam se](/kontakt). Pomoci cemo vam da pozicionirate cenu kao prednost, ne kao prepreku.
 `,
   },
   {
@@ -6113,303 +6340,303 @@ Ako �elite da va�a ponuda komunicira pravu vrednost i privlaci klijente koji
 
 Svake godine se pojavi novi kanal, nova taktika, novi "hack" koji ce promeniti sve. Pre pet godina to je bio Clubhouse. Pre tri godine svi su pricali o Threads-u. Danas je TikTok Shop.
 
-Problem nije u kanalima. Problem je kad firma gradi celu strategiju oko taktike koja mo�e nestati sutra. Algoritam se promeni, platforma izgubi relevantnost, i sve �to ste gradili nestane.
+Problem nije u kanalima. Problem je kad firma gradi celu strategiju oko taktike koja moï¿½e nestati sutra. Algoritam se promeni, platforma izgubi relevantnost, i sve ï¿½to ste gradili nestane.
 
 Firme koje stabilno rastu decenijama ne jure trendove. Oslanjaju se na principe koji rade bez obzira na to koji kanal je popularan ove nedelje.
 
-Evo tih principa, testirani kroz stotine kampanja i milione evra bud�eta.
+Evo tih principa, testirani kroz stotine kampanja i milione evra budï¿½eta.
 
-## 1. Ponuda je va�nija od svega ostalog
+## 1. Ponuda je vaï¿½nija od svega ostalog
 
-Mo�ete imati savr�en oglas, perfektan targeting i najlep�i landing page na svetu. Ako je ponuda slaba, ni�ta od toga ne poma�e.
+Moï¿½ete imati savrï¿½en oglas, perfektan targeting i najlepï¿½i landing page na svetu. Ako je ponuda slaba, niï¿½ta od toga ne pomaï¿½e.
 
-Ponuda nije cena. Ponuda je kombinacija onoga �to klijent dobija, kako to dobija, koliko rizikuje i �ta se de�ava ako ne radi.
+Ponuda nije cena. Ponuda je kombinacija onoga ï¿½to klijent dobija, kako to dobija, koliko rizikuje i ï¿½ta se deï¿½ava ako ne radi.
 
 Jaka ponuda ima cetiri elementa:
 - **Jasan ishod:** ne "marketing usluge" vec "40 kvalifikovanih upita mesecno"
-- **Vremenski okvir:** ne "pobolj�acemo rezultate" vec "u prvih 30 dana"
+- **Vremenski okvir:** ne "poboljï¿½acemo rezultate" vec "u prvih 30 dana"
 - **Reversal rizika:** garancija, probni period, pay-for-performance model
-- **Bonus koji pojacava:** ne�to �to klijent ne ocekuje ali povecava percipiranu vrednost
+- **Bonus koji pojacava:** neï¿½to ï¿½to klijent ne ocekuje ali povecava percipiranu vrednost
 
-Kad firma ka�e "imamo odlicne oglase ali ne konvertuju," problem je skoro uvek ponuda.
+Kad firma kaï¿½e "imamo odlicne oglase ali ne konvertuju," problem je skoro uvek ponuda.
 
 ## 2. Marketing je matematika, ne kreativnost
 
-Ovo je najte�a lekcija za vlasnike firmi koji vole da se "kreativno izraze" u oglasima.
+Ovo je najteï¿½a lekcija za vlasnike firmi koji vole da se "kreativno izraze" u oglasima.
 
-Marketing koji donosi rezultate je sistem brojeva. Koliko ko�ta klik. Koliko klikova treba za jedan upit. Koliko upita za jednog klijenta. Koliko taj klijent vredi tokom 12 meseci.
+Marketing koji donosi rezultate je sistem brojeva. Koliko koï¿½ta klik. Koliko klikova treba za jedan upit. Koliko upita za jednog klijenta. Koliko taj klijent vredi tokom 12 meseci.
 
-Kad znate ove brojeve, marketing prestaje da bude misterija. Postaje jednacina. Ako klijent vredi 3.000� godi�nje i treba vam 100 klikova po 2� za jednog klijenta, to je 200� po klijentu. Profit: 2.800�.
+Kad znate ove brojeve, marketing prestaje da bude misterija. Postaje jednacina. Ako klijent vredi 3.000ï¿½ godiï¿½nje i treba vam 100 klikova po 2ï¿½ za jednog klijenta, to je 200ï¿½ po klijentu. Profit: 2.800ï¿½.
 
-Sva kreativnost u svetu ne poma�e ako ne znate ove brojeve. A kad ih znate, odluke postaju ocigledne.
+Sva kreativnost u svetu ne pomaï¿½e ako ne znate ove brojeve. A kad ih znate, odluke postaju ocigledne.
 
-> Firme koje ne mere marketing ne rade marketing. Rade nagadanje sa bud�etom.
+> Firme koje ne mere marketing ne rade marketing. Rade nagadanje sa budï¿½etom.
 
-## 3. Brzina implementacije pobeduje savr�enstvo
+## 3. Brzina implementacije pobeduje savrï¿½enstvo
 
-Firma A mesec dana pravi "savr�en" landing page. Firma B za 3 dana napravi osnovnu verziju, pokrene oglase, i pocne da skuplja podatke. Posle mesec dana, firma B je vec testirala 4 verzije i zna �ta radi.
+Firma A mesec dana pravi "savrï¿½en" landing page. Firma B za 3 dana napravi osnovnu verziju, pokrene oglase, i pocne da skuplja podatke. Posle mesec dana, firma B je vec testirala 4 verzije i zna ï¿½ta radi.
 
-Firma A jo� uvek bira fontove.
+Firma A joï¿½ uvek bira fontove.
 
-Ovo ne znaci da kvalitet nije bitan. Znaci da je brz, neperfektan start bolji od sporog, "savr�enog" starta. Tr�i�te vam daje feedback br�e nego bilo koji brainstorming.
+Ovo ne znaci da kvalitet nije bitan. Znaci da je brz, neperfektan start bolji od sporog, "savrï¿½enog" starta. Trï¿½iï¿½te vam daje feedback brï¿½e nego bilo koji brainstorming.
 
-Prakticno: prva verzija kampanje ne mora biti savr�ena. Mora biti dovoljno dobra da generi�e podatke. Podatke onda koristite da napravite drugu, bolju verziju.
+Prakticno: prva verzija kampanje ne mora biti savrï¿½ena. Mora biti dovoljno dobra da generiï¿½e podatke. Podatke onda koristite da napravite drugu, bolju verziju.
 
 ## 4. Follow-up je mesto gde se zaraduje
 
-80% prodajnih timova odustane posle prvog ili drugog poku�aja kontakta. A 80% prodaja se zatvara posle petog.
+80% prodajnih timova odustane posle prvog ili drugog pokuï¿½aja kontakta. A 80% prodaja se zatvara posle petog.
 
 Ovo nije slucajnost. Ljudi su zauzeti. Zaborave. Nisu bili spremni kad su prvi put videli ponudu. Ali to ne znaci da nisu zainteresovani.
 
-Firme koje imaju automatizovan follow-up sistem (email sekvence, retargeting, SMS) zaraduju vi�estruko vi�e od istog broja leadova. Isti saobracaj, isti bud�et, dramaticno drugaciji rezultat.
+Firme koje imaju automatizovan follow-up sistem (email sekvence, retargeting, SMS) zaraduju viï¿½estruko viï¿½e od istog broja leadova. Isti saobracaj, isti budï¿½et, dramaticno drugaciji rezultat.
 
-Najjednostavnija stvar koju firma mo�e uraditi za 30% vi�e prihoda: postaviti email sekvencu od 5 poruka za svaki upit koji dode. Podsecanje, vrednost, ponuda, hitnost, poslednja �ansa.
+Najjednostavnija stvar koju firma moï¿½e uraditi za 30% viï¿½e prihoda: postaviti email sekvencu od 5 poruka za svaki upit koji dode. Podsecanje, vrednost, ponuda, hitnost, poslednja ï¿½ansa.
 
-## 5. Ni�a pre �irine
+## 5. Niï¿½a pre ï¿½irine
 
 "Radimo za sve" u praksi znaci "nismo ni za koga specificno dobri."
 
-Firma koja ka�e "radimo Facebook oglase za stomatologe" ima prednost nad firmom koja ka�e "radimo Facebook oglase." Stomatolog koji tra�i pomoc bira specijalistu, ne generalistu.
+Firma koja kaï¿½e "radimo Facebook oglase za stomatologe" ima prednost nad firmom koja kaï¿½e "radimo Facebook oglase." Stomatolog koji traï¿½i pomoc bira specijalistu, ne generalistu.
 
-Ni�a ne ogranicava. Ni�a fokusira. Kad znate tacno za koga radite, znate:
+Niï¿½a ne ogranicava. Niï¿½a fokusira. Kad znate tacno za koga radite, znate:
 - Gde se ti ljudi okupljaju online
 - Koje probleme imaju
 - Koji jezik koriste
-- �ta ih nocu dr�i budnima
+- ï¿½ta ih nocu drï¿½i budnima
 
-Tek kad firma dominira u jednoj ni�i, ima smisla �iriti se na drugu. Ne pre toga.
+Tek kad firma dominira u jednoj niï¿½i, ima smisla ï¿½iriti se na drugu. Ne pre toga.
 
-## 6. Sadr�aj je novo hladno pozivanje
+## 6. Sadrï¿½aj je novo hladno pozivanje
 
 Pre 10 godina, akvizicija je bila: nazovi 100 ljudi, 5 se javi, 1 kupi. Funkcionisalo je jer nije bilo alternative.
 
-Danas ljudi ne odgovaraju na nepoznate brojeve. Ali citaju, gledaju i slu�aju sadr�aj od firmi kojima veruju.
+Danas ljudi ne odgovaraju na nepoznate brojeve. Ali citaju, gledaju i sluï¿½aju sadrï¿½aj od firmi kojima veruju.
 
-Blog post koji re�ava konkretan problem va�e ciljne grupe radi posao koji su nekad radila 3 prodavca. Neko procita, prepozna se, klikne na ponudu, po�alje upit. I taj upit je kvalitetniji jer je covek vec informisan.
+Blog post koji reï¿½ava konkretan problem vaï¿½e ciljne grupe radi posao koji su nekad radila 3 prodavca. Neko procita, prepozna se, klikne na ponudu, poï¿½alje upit. I taj upit je kvalitetniji jer je covek vec informisan.
 
-Sadr�aj nije tro�ak. Sadr�aj je prodavac koji radi 24/7 bez plate.
+Sadrï¿½aj nije troï¿½ak. Sadrï¿½aj je prodavac koji radi 24/7 bez plate.
 
 ## 7. Testiranje naslova menja sve
 
-Ako mo�ete testirati samo jednu stvar, testirajte naslov. Naslov oglasa, naslov landing stranice, subject line email-a.
+Ako moï¿½ete testirati samo jednu stvar, testirajte naslov. Naslov oglasa, naslov landing stranice, subject line email-a.
 
-Razlog: naslov je filter. Ako naslov ne uhvati pa�nju, ni�ta ispod njega nije bitno. Mo�ete imati najuverljiviji tekst na svetu, ali ako naslov ne zaustavlja palac na telefonu, niko ga nece procitati.
+Razlog: naslov je filter. Ako naslov ne uhvati paï¿½nju, niï¿½ta ispod njega nije bitno. Moï¿½ete imati najuverljiviji tekst na svetu, ali ako naslov ne zaustavlja palac na telefonu, niko ga nece procitati.
 
-Jedna firma je testirala 11 varijanti naslova za isti oglas. Pobednicki naslov je generisao 6x vi�e klikova od najgoreg. Isti proizvod, isti targeting, isti bud�et. Jedina razlika: naslov.
+Jedna firma je testirala 11 varijanti naslova za isti oglas. Pobednicki naslov je generisao 6x viï¿½e klikova od najgoreg. Isti proizvod, isti targeting, isti budï¿½et. Jedina razlika: naslov.
 
-## 8. Investirajte u ono �to ostaje
+## 8. Investirajte u ono ï¿½to ostaje
 
-Placeni oglasi prestaju da rade cim iskljucite bud�et. SEO sadr�aj radi godinama. Email lista je va�a bez obzira na algoritme. Brend koji ste izgradili ne mo�e niko da vam ugasi.
+Placeni oglasi prestaju da rade cim iskljucite budï¿½et. SEO sadrï¿½aj radi godinama. Email lista je vaï¿½a bez obzira na algoritme. Brend koji ste izgradili ne moï¿½e niko da vam ugasi.
 
-Pametna firma koristi placene oglase da generi�e brz saobracaj, ali paralelno gradi imovinu: sadr�aj, listu, brend. Kroz godinu-dve, ta imovina smanjuje zavisnost od placenih kanala.
+Pametna firma koristi placene oglase da generiï¿½e brz saobracaj, ali paralelno gradi imovinu: sadrï¿½aj, listu, brend. Kroz godinu-dve, ta imovina smanjuje zavisnost od placenih kanala.
 
-> Placeni oglasi su iznajmljen stan. SEO, email lista i brend su va�a nekretnina. Koristite jedno da finansirate drugo.
+> Placeni oglasi su iznajmljen stan. SEO, email lista i brend su vaï¿½a nekretnina. Koristite jedno da finansirate drugo.
 
 ## 9. Jednostavnost pobeduje
 
-Firme koje imaju 7 aktivnih kanala, 15 kampanja i 3 marketing alata obicno imaju lo�ije rezultate od firmi koje rade jednu stvar odlicno.
+Firme koje imaju 7 aktivnih kanala, 15 kampanja i 3 marketing alata obicno imaju loï¿½ije rezultate od firmi koje rade jednu stvar odlicno.
 
-Razlog: kompleksnost razvodnjava fokus. Kad radite sve, ni�ta ne radite dovoljno dobro da zapravo radi.
+Razlog: kompleksnost razvodnjava fokus. Kad radite sve, niï¿½ta ne radite dovoljno dobro da zapravo radi.
 
 Bolji pristup: izaberite jedan kanal. Savladajte ga. Napravite ga profitabilnim. Tek onda dodajte drugi. Jedan po jedan, polako, sa punom kontrolom.
 
-## �ta se menja, a �ta ostaje isto
+## ï¿½ta se menja, a ï¿½ta ostaje isto
 
-Kanali se menjaju. Algoritmi se menjaju. Formati se menjaju. Ali osnova ostaje: jaka ponuda, jasni brojevi, brza egzekucija, sistematican follow-up i fokus na ono �to zapravo donosi rezultate.
+Kanali se menjaju. Algoritmi se menjaju. Formati se menjaju. Ali osnova ostaje: jaka ponuda, jasni brojevi, brza egzekucija, sistematican follow-up i fokus na ono ï¿½to zapravo donosi rezultate.
 
-Firme koje jure svaki novi trend tro�e energiju na ucenje umesto na zaradivanje. Firme koje savladaju osnove zaraduju bez obzira na to �ta algoritam radi ove nedelje.
+Firme koje jure svaki novi trend troï¿½e energiju na ucenje umesto na zaradivanje. Firme koje savladaju osnove zaraduju bez obzira na to ï¿½ta algoritam radi ove nedelje.
 
-Ako �elite strukturiran pogled na va� biznis, pogledajte na� [consulting program](/consulting).
+Ako ï¿½elite strukturiran pogled na vaï¿½ biznis, pogledajte naï¿½ [consulting program](/consulting).
 
-Takode preporucujemo: [13 godina poslovnog iskustva: najskuplje gre�ke koje firme prave](/blog/13-godina-poslovnog-iskustva-najskuplje-greske).
+Takode preporucujemo: [13 godina poslovnog iskustva: najskuplje greï¿½ke koje firme prave](/blog/13-godina-poslovnog-iskustva-najskuplje-greske).
 
 ---
 
-�elite marketing koji se oslanja na principe, a ne na trendove? [Javite nam se](/kontakt). Napravicemo sistem koji radi i za godinu dana, ne samo dok traje poslednji hack.
+ï¿½elite marketing koji se oslanja na principe, a ne na trendove? [Javite nam se](/kontakt). Napravicemo sistem koji radi i za godinu dana, ne samo dok traje poslednji hack.
 `,
   },
   {
     slug: 'kako-napraviti-marketing-budzet-koji-ima-smisla',
-    title: 'Kako napraviti marketing bud�et koji ima smisla',
-    excerpt: 'Vecina firmi ili tro�i premalo na marketing pa se ni�ta ne de�ava, ili tro�i bez plana pa ne zna �ta radi. Evo kako to srediti.',
+    title: 'Kako napraviti marketing budï¿½et koji ima smisla',
+    excerpt: 'Vecina firmi ili troï¿½i premalo na marketing pa se niï¿½ta ne deï¿½ava, ili troï¿½i bez plana pa ne zna ï¿½ta radi. Evo kako to srediti.',
     date: '2026-02-24',
     category: 'Biznis',
     readTime: '7 min',
     content: `
 ## Dva nacina da bacite novac na marketing
 
-Prvi: ulo�ite 200� mesecno u oglase i ocekujete rezultate. To je kao da uplatite jednu kartu u kladionici i ocekujete da se obogatite. Matematika ne radi.
+Prvi: uloï¿½ite 200ï¿½ mesecno u oglase i ocekujete rezultate. To je kao da uplatite jednu kartu u kladionici i ocekujete da se obogatite. Matematika ne radi.
 
-Drugi: ulo�ite 5.000� mesecno bez jasnog plana gde tacno odlazi svaki evro. Na kraju meseca imate screenshot grafikona koji raste i report koji ka�e "brand awareness je porastao." Ali prodaja? Ista.
+Drugi: uloï¿½ite 5.000ï¿½ mesecno bez jasnog plana gde tacno odlazi svaki evro. Na kraju meseca imate screenshot grafikona koji raste i report koji kaï¿½e "brand awareness je porastao." Ali prodaja? Ista.
 
-Izmedu ova dva ekstrema postoji pristup koji funkcioni�e: bud�et baziran na brojevima, ne na osecaju.
+Izmedu ova dva ekstrema postoji pristup koji funkcioniï¿½e: budï¿½et baziran na brojevima, ne na osecaju.
 
-## Pocnite od cilja, ne od bud�eta
+## Pocnite od cilja, ne od budï¿½eta
 
-Vecina firmi pravi bud�et ovako: "Imamo 2.000� za marketing ovog meseca." Onda razmi�ljaju �ta da rade sa tim novcem.
+Vecina firmi pravi budï¿½et ovako: "Imamo 2.000ï¿½ za marketing ovog meseca." Onda razmiï¿½ljaju ï¿½ta da rade sa tim novcem.
 
 Bolje je obrnuti redosled. Pocnite od cilja.
 
-Koliko novih klijenata vam treba mesecno? Recimo 20. Koliko vredi svaki klijent tokom godine? Recimo 1.500�. Znaci 20 novih klijenata donosi 30.000� godi�njeg prihoda.
+Koliko novih klijenata vam treba mesecno? Recimo 20. Koliko vredi svaki klijent tokom godine? Recimo 1.500ï¿½. Znaci 20 novih klijenata donosi 30.000ï¿½ godiï¿½njeg prihoda.
 
-Sad pitanje postaje: koliko ste spremni da platite za klijenta od 1.500�? Ako je odgovor 150� (10% godi�nje vrednosti), va� mesecni bud�et je 3.000� za 20 klijenata.
+Sad pitanje postaje: koliko ste spremni da platite za klijenta od 1.500ï¿½? Ako je odgovor 150ï¿½ (10% godiï¿½nje vrednosti), vaï¿½ mesecni budï¿½et je 3.000ï¿½ za 20 klijenata.
 
-Ovo nije savr�en izracun. Ali je beskonacno bolji od "dajmo 2.000� i vidimo �ta se desi."
+Ovo nije savrï¿½en izracun. Ali je beskonacno bolji od "dajmo 2.000ï¿½ i vidimo ï¿½ta se desi."
 
-## Koliko zapravo ko�ta jedan klijent
+## Koliko zapravo koï¿½ta jedan klijent
 
-Evo realnih brojeva za razlicite kanale (proseci za srpsko tr�i�te, varira po industriji):
+Evo realnih brojeva za razlicite kanale (proseci za srpsko trï¿½iï¿½te, varira po industriji):
 
 **Google Ads (Search)**
-- Cena po kliku: 0.30-1.50�
+- Cena po kliku: 0.30-1.50ï¿½
 - Konverzija na landing: 3-8%
-- Cena po upitu: 10-50�
+- Cena po upitu: 10-50ï¿½
 - Konverzija upita u klijenta: 20-40%
-- Cena po klijentu: 25-250�
+- Cena po klijentu: 25-250ï¿½
 
 **Meta Ads (Facebook/Instagram)**
-- Cena po kliku: 0.15-0.80�
+- Cena po kliku: 0.15-0.80ï¿½
 - Konverzija na landing: 2-6%
-- Cena po upitu: 5-40�
+- Cena po upitu: 5-40ï¿½
 - Konverzija upita u klijenta: 15-30%
-- Cena po klijentu: 15-200�
+- Cena po klijentu: 15-200ï¿½
 
 **SEO (organski)**
-- Mesecna investicija: 500-2.000�
+- Mesecna investicija: 500-2.000ï¿½
 - Vreme do rezultata: 3-6 meseci
-- Cena po klijentu (kad se ustabili): 5-30�
-- Kumulativna vrednost: raste sa vremenom bez povecanja tro�kova
+- Cena po klijentu (kad se ustabili): 5-30ï¿½
+- Kumulativna vrednost: raste sa vremenom bez povecanja troï¿½kova
 
-Ovi brojevi izgledaju apstraktno dok ne ubacite svoje. Kad znate koliko ko�ta va� klik, va� upit i va� klijent, bud�et prestaje da bude misterija.
+Ovi brojevi izgledaju apstraktno dok ne ubacite svoje. Kad znate koliko koï¿½ta vaï¿½ klik, vaï¿½ upit i vaï¿½ klijent, budï¿½et prestaje da bude misterija.
 
-> Firma koja zna svoje brojeve nikad ne pita "koliko da ulo�im u marketing." Pita "koliko klijenata hocu ovog meseca" i izracuna.
+> Firma koja zna svoje brojeve nikad ne pita "koliko da uloï¿½im u marketing." Pita "koliko klijenata hocu ovog meseca" i izracuna.
 
 ## Pravilo 70/20/10
 
-Kad konacno odredite ukupan bud�et, pitanje je kako ga rasporediti. Evo pristupa koji radi za vecinu firmi:
+Kad konacno odredite ukupan budï¿½et, pitanje je kako ga rasporediti. Evo pristupa koji radi za vecinu firmi:
 
-**70% na ono �to dokazano radi.** Ako vam Google Ads donosi klijente po prihvatljivoj ceni, najveci deo bud�eta ide tamo. Ovo nije mesto za eksperimente. Ovo je motor koji vam placa racune.
+**70% na ono ï¿½to dokazano radi.** Ako vam Google Ads donosi klijente po prihvatljivoj ceni, najveci deo budï¿½eta ide tamo. Ovo nije mesto za eksperimente. Ovo je motor koji vam placa racune.
 
-**20% na skaliranje i optimizaciju.** Testiranje novih kreativa, novih publika, novih landing stranica za kanale koji vec rade. Cilj: pobolj�ati ono �to radi i pro�iriti doseg.
+**20% na skaliranje i optimizaciju.** Testiranje novih kreativa, novih publika, novih landing stranica za kanale koji vec rade. Cilj: poboljï¿½ati ono ï¿½to radi i proï¿½iriti doseg.
 
 **10% na eksperimente.** Novi kanal, novi format, nova ponuda. Ovo je mesto gde testirate TikTok, testirate video oglase, testirate novu strategiju. Ako radi, prebacujete u 70% kategoriju. Ako ne radi, gubite samo 10%.
 
-Gre�ka koju firme prave: stave 50% bud�eta u eksperimente jer je novi kanal "uzbudljiv." Pa kad ne donese rezultate za mesec dana, zakljuce da marketing ne radi.
+Greï¿½ka koju firme prave: stave 50% budï¿½eta u eksperimente jer je novi kanal "uzbudljiv." Pa kad ne donese rezultate za mesec dana, zakljuce da marketing ne radi.
 
-## �ta da radite kad je bud�et mali
+## ï¿½ta da radite kad je budï¿½et mali
 
-Recimo da imate 500� mesecno. To nije dovoljno za agresivno skaliranje, ali je dovoljno za sistem koji radi.
+Recimo da imate 500ï¿½ mesecno. To nije dovoljno za agresivno skaliranje, ali je dovoljno za sistem koji radi.
 
-**Sa 500� mesecno:**
-- 400� na jedan kanal (Google ili Meta, ne oba)
-- 100� na alate (email platforma, landing page builder)
+**Sa 500ï¿½ mesecno:**
+- 400ï¿½ na jedan kanal (Google ili Meta, ne oba)
+- 100ï¿½ na alate (email platforma, landing page builder)
 - Fokus na jednu ponudu, jednu publiku, jednu poruku
-- Sve ostalo radite sami: sadr�aj, email, objave
+- Sve ostalo radite sami: sadrï¿½aj, email, objave
 
-Poenta: bolje je biti prisutan na jednom mestu nego razvodnjeno prisutan na pet. Kad jedan kanal pocne da zaraduje vi�e nego �to ko�ta, reinvestirate profit u �irenje.
+Poenta: bolje je biti prisutan na jednom mestu nego razvodnjeno prisutan na pet. Kad jedan kanal pocne da zaraduje viï¿½e nego ï¿½to koï¿½ta, reinvestirate profit u ï¿½irenje.
 
-**Sa 2.000� mesecno:**
-- 1.400� na glavni kanal (vec dokazan)
-- 400� na drugi kanal (testiranje)
-- 200� na alate i sadr�aj
-- Moguce anga�ovati freelancera za kreative
+**Sa 2.000ï¿½ mesecno:**
+- 1.400ï¿½ na glavni kanal (vec dokazan)
+- 400ï¿½ na drugi kanal (testiranje)
+- 200ï¿½ na alate i sadrï¿½aj
+- Moguce angaï¿½ovati freelancera za kreative
 
-**Sa 5.000�+ mesecno:**
+**Sa 5.000ï¿½+ mesecno:**
 - Pun multi-channel pristup
-- Anga�man agencije ili in-house specijaliste
+- Angaï¿½man agencije ili in-house specijaliste
 - Retargeting, email automatizacija, A/B testiranje
 - Mesecni audit i optimizacija
 
-## Skriveni tro�kovi koje svi zaborave
+## Skriveni troï¿½kovi koje svi zaborave
 
-Kad firma ka�e "na� marketing bud�et je 3.000�," obicno misli samo na ad spend. Ali pravi tro�ak ukljucuje:
+Kad firma kaï¿½e "naï¿½ marketing budï¿½et je 3.000ï¿½," obicno misli samo na ad spend. Ali pravi troï¿½ak ukljucuje:
 
-**Kreativa.** Neko mora da napravi oglase, slike, video. Ili placate dizajnera ili tro�ite svoje vreme. I jedno i drugo ima cenu.
+**Kreativa.** Neko mora da napravi oglase, slike, video. Ili placate dizajnera ili troï¿½ite svoje vreme. I jedno i drugo ima cenu.
 
-**Landing stranice.** Oglasi vode na stranicu. Ta stranica mora biti dobra. Izrada, testiranje, odr�avanje.
+**Landing stranice.** Oglasi vode na stranicu. Ta stranica mora biti dobra. Izrada, testiranje, odrï¿½avanje.
 
-**Alati.** Email platforma, CRM, analitika, heat mape. Pojedinacno malo, ali skupljeno zna da bude 200-500� mesecno.
+**Alati.** Email platforma, CRM, analitika, heat mape. Pojedinacno malo, ali skupljeno zna da bude 200-500ï¿½ mesecno.
 
-**Vreme za analizu.** Neko mora da gleda brojeve svake nedelje i donosi odluke. Ako je to vlasnik firme koji zaraduje 50� po satu, svaki sat analize ko�ta 50�.
+**Vreme za analizu.** Neko mora da gleda brojeve svake nedelje i donosi odluke. Ako je to vlasnik firme koji zaraduje 50ï¿½ po satu, svaki sat analize koï¿½ta 50ï¿½.
 
-Realan bud�et ukljucuje sve ovo. Ako imate 3.000� za ad spend, ukupan marketin�ki tro�ak je verovatno 4.500-5.000�.
+Realan budï¿½et ukljucuje sve ovo. Ako imate 3.000ï¿½ za ad spend, ukupan marketinï¿½ki troï¿½ak je verovatno 4.500-5.000ï¿½.
 
-## Kad povecati bud�et
+## Kad povecati budï¿½et
 
-Jedini validan razlog za povecanje bud�eta: kad dokazano zaradujete vi�e nego �to tro�ite i �elite da zaradujete jo� vi�e.
+Jedini validan razlog za povecanje budï¿½eta: kad dokazano zaradujete viï¿½e nego ï¿½to troï¿½ite i ï¿½elite da zaradujete joï¿½ viï¿½e.
 
-Konkretno: ako tro�ite 2.000� i dobijate 10 klijenata po 300� godi�nje (3.000� ukupno), imate pozitivan ROI. Sad ima smisla povecati na 3.000� i videti da li dobijete 15 klijenata.
+Konkretno: ako troï¿½ite 2.000ï¿½ i dobijate 10 klijenata po 300ï¿½ godiï¿½nje (3.000ï¿½ ukupno), imate pozitivan ROI. Sad ima smisla povecati na 3.000ï¿½ i videti da li dobijete 15 klijenata.
 
-Nema smisla povecavati bud�et ako:
-- Ne znate koliko ko�ta va� klijent
-- Trenutni bud�et ne donosi merljive rezultate
+Nema smisla povecavati budï¿½et ako:
+- Ne znate koliko koï¿½ta vaï¿½ klijent
+- Trenutni budï¿½et ne donosi merljive rezultate
 - Nemate sistem za pracenje odakle dolaze upiti
 - Povecavate jer "treba ulagati u marketing" bez konkretnog plana
 
 ## Kad smanjiti ili pauzirati
 
-Ponekad je pametno smanjiti. Ako je CPA (cena po klijentu) porasla za 50%+ bez jasnog razloga, ne�to ne valja. Pauziranje i analiza su bolji od bacanja novca u rupu.
+Ponekad je pametno smanjiti. Ako je CPA (cena po klijentu) porasla za 50%+ bez jasnog razloga, neï¿½to ne valja. Pauziranje i analiza su bolji od bacanja novca u rupu.
 
-Sezona igra ulogu. Ako ste u industriji sa izra�enom sezonalno�cu, nema smisla tro�iti isti bud�et u mrtvom periodu. Smanjite, sacuvajte, pa udarite punom snagom kad sezona krene.
+Sezona igra ulogu. Ako ste u industriji sa izraï¿½enom sezonalnoï¿½cu, nema smisla troï¿½iti isti budï¿½et u mrtvom periodu. Smanjite, sacuvajte, pa udarite punom snagom kad sezona krene.
 
-I najva�nije: nikad ne smanjujte bud�et samo zato �to je "skupo." Skupo je relativan pojam. Ako svaki ulo�en evro donosi dva nazad, marketing nije tro�ak. Marketing je investicija sa pozitivnim prinosom.
+I najvaï¿½nije: nikad ne smanjujte budï¿½et samo zato ï¿½to je "skupo." Skupo je relativan pojam. Ako svaki uloï¿½en evro donosi dva nazad, marketing nije troï¿½ak. Marketing je investicija sa pozitivnim prinosom.
 
-> Marketing bud�et nije cifra koju "mo�ete da priu�tite." Marketing bud�et je odgovor na pitanje: koliko ste spremni da platite za jednog novog klijenta?
+> Marketing budï¿½et nije cifra koju "moï¿½ete da priuï¿½tite." Marketing budï¿½et je odgovor na pitanje: koliko ste spremni da platite za jednog novog klijenta?
 
-Ako �elite strukturiran pogled na va� biznis, pogledajte na� [consulting program](/consulting).
+Ako ï¿½elite strukturiran pogled na vaï¿½ biznis, pogledajte naï¿½ [consulting program](/consulting).
 
-Takode preporucujemo: [Koliko zapravo ko�ta lo� marketing (skriveni tro�kovi koje niko ne pominje)](/blog/koliko-kosta-los-marketing).
+Takode preporucujemo: [Koliko zapravo koï¿½ta loï¿½ marketing (skriveni troï¿½kovi koje niko ne pominje)](/blog/koliko-kosta-los-marketing).
 
 ---
 
-�elite pomoc da napravite marketing bud�et koji zapravo donosi rezultate? [Javite nam se](/kontakt). Proci cemo kroz va�e brojeve i napraviti plan koji ima smisla za va� biznis.
+ï¿½elite pomoc da napravite marketing budï¿½et koji zapravo donosi rezultate? [Javite nam se](/kontakt). Proci cemo kroz vaï¿½e brojeve i napraviti plan koji ima smisla za vaï¿½ biznis.
 `,
   },
   {
     slug: 'ugc-buducnost-oglasa',
-    title: 'Za�to je UGC buducnost oglasa (i kako ga koristiti)',
-    excerpt: 'Profesionalni oglasi sve slabije konvertuju. Sadr�aj koji izgleda kao da ga je snimio kupac radi bolje od studijskog materijala.',
+    title: 'Zaï¿½to je UGC buducnost oglasa (i kako ga koristiti)',
+    excerpt: 'Profesionalni oglasi sve slabije konvertuju. Sadrï¿½aj koji izgleda kao da ga je snimio kupac radi bolje od studijskog materijala.',
     date: '2026-02-24',
     category: 'Marketing',
     readTime: '7 min',
     content: `
 ## Profesionalni oglasi gube bitku
 
-Korisnici su razvili slepilo za klasicne reklame. Savr�ena produkcija, studijsko osvetljenje, profesionalni glumci sa isplaniranim osmehom. Mozak to prepoznaje kao reklamu za manje od sekunde i nastavlja da skroluje.
+Korisnici su razvili slepilo za klasicne reklame. Savrï¿½ena produkcija, studijsko osvetljenje, profesionalni glumci sa isplaniranim osmehom. Mozak to prepoznaje kao reklamu za manje od sekunde i nastavlja da skroluje.
 
-Istovremeno, sadr�aj koji izgleda kao da ga je snimio obican covek telefonom zaustavlja pa�nju. Ne zato �to je lep. Zato �to izgleda stvarno.
+Istovremeno, sadrï¿½aj koji izgleda kao da ga je snimio obican covek telefonom zaustavlja paï¿½nju. Ne zato ï¿½to je lep. Zato ï¿½to izgleda stvarno.
 
-Meta je objavio podatak da oglasi u UGC formatu (user generated content) imaju 4x veci CTR od studijski produciranih oglasa. TikTok je oti�ao korak dalje i bukvalno savetuje brendove: "Ne pravite reklame. Pravite TikTok-ove."
+Meta je objavio podatak da oglasi u UGC formatu (user generated content) imaju 4x veci CTR od studijski produciranih oglasa. TikTok je otiï¿½ao korak dalje i bukvalno savetuje brendove: "Ne pravite reklame. Pravite TikTok-ove."
 
-## �ta je UGC (i �ta nije)
+## ï¿½ta je UGC (i ï¿½ta nije)
 
-UGC nije bukvalno sadr�aj koji prave va�i kupci. U kontekstu placenog marketinga, UGC je stil sadr�aja koji izgleda autenticno, cak i kad je planiran i placen.
+UGC nije bukvalno sadrï¿½aj koji prave vaï¿½i kupci. U kontekstu placenog marketinga, UGC je stil sadrï¿½aja koji izgleda autenticno, cak i kad je planiran i placen.
 
 Postoje dve kategorije:
 
-**Organski UGC** � kupac snima recenziju, raspakivanje, iskustvo sa proizvodom. Ovo je zlato kad se desi spontano, ali ne mo�ete racunati na to kao strategiju.
+**Organski UGC** ï¿½ kupac snima recenziju, raspakivanje, iskustvo sa proizvodom. Ovo je zlato kad se desi spontano, ali ne moï¿½ete racunati na to kao strategiju.
 
-**Placeni UGC** � anga�ujete kreatora koji snima sadr�aj u UGC stilu. Izgleda spontano, ali iza toga stoji bri?, skripta i jasna poruka. Ovo je skalabilna strategija.
+**Placeni UGC** ï¿½ angaï¿½ujete kreatora koji snima sadrï¿½aj u UGC stilu. Izgleda spontano, ali iza toga stoji bri?, skripta i jasna poruka. Ovo je skalabilna strategija.
 
-Kljucna razlika od influenser marketinga: UGC kreator ne objavljuje na svom profilu. Pravi sadr�aj koji vi koristite kao oglas na va�im kanalima.
+Kljucna razlika od influenser marketinga: UGC kreator ne objavljuje na svom profilu. Pravi sadrï¿½aj koji vi koristite kao oglas na vaï¿½im kanalima.
 
-## Za�to UGC radi bolje
+## Zaï¿½to UGC radi bolje
 
 ### 1. Poverenje kroz autenticnost
 
-Kad covek vidi profesionalni oglas, zna da je sve name�teno. Kad vidi nekoga ko prica u kameru telefona o svom iskustvu, mozak to procesira drugacije. Cak i kad zna da je placeno, forma sama po sebi aktivira vece poverenje.
+Kad covek vidi profesionalni oglas, zna da je sve nameï¿½teno. Kad vidi nekoga ko prica u kameru telefona o svom iskustvu, mozak to procesira drugacije. Cak i kad zna da je placeno, forma sama po sebi aktivira vece poverenje.
 
-Studija Nielsena pokazuje da 92% potro�aca veruje preporukama drugih ljudi (cak i nepoznatih) vi�e nego brendiranom sadr�aju.
+Studija Nielsena pokazuje da 92% potroï¿½aca veruje preporukama drugih ljudi (cak i nepoznatih) viï¿½e nego brendiranom sadrï¿½aju.
 
-### 2. Ni�i tro�kovi produkcije
+### 2. Niï¿½i troï¿½kovi produkcije
 
-Jedan profesionalni video oglas sa snimanjem, monta�om, glumcima i post-produkcijom mo�e ko�tati 3.000-10.000�. Jedan UGC video ko�ta 100-500�, a cesto konvertuje bolje.
+Jedan profesionalni video oglas sa snimanjem, montaï¿½om, glumcima i post-produkcijom moï¿½e koï¿½tati 3.000-10.000ï¿½. Jedan UGC video koï¿½ta 100-500ï¿½, a cesto konvertuje bolje.
 
-To ne znaci da nikad ne treba praviti profesionalni sadr�aj. Znaci da za placeni marketing, odnos ulaganja i povrata kod UGC-a cesto nema konkurenciju.
+To ne znaci da nikad ne treba praviti profesionalni sadrï¿½aj. Znaci da za placeni marketing, odnos ulaganja i povrata kod UGC-a cesto nema konkurenciju.
 
-### 3. Lak�e testiranje varijanti
+### 3. Lakï¿½e testiranje varijanti
 
-Kad mo�ete da dobijete 10-20 UGC videa za cenu jednog profesionalnog, imate mnogo vi�e materijala za testiranje. Vi�e varijanti znaci br�e pronala�enje pobednika.
+Kad moï¿½ete da dobijete 10-20 UGC videa za cenu jednog profesionalnog, imate mnogo viï¿½e materijala za testiranje. Viï¿½e varijanti znaci brï¿½e pronalaï¿½enje pobednika.
 
 U placenom marketingu, brzina testiranja je direktno proporcionalna brzini optimizacije. Firma koja testira 20 kreativa nedeljno naspram firme koja testira 2 mesecno ima nepravicnu prednost.
 
@@ -6420,55 +6647,55 @@ U placenom marketingu, brzina testiranja je direktno proporcionalna brzini optim
 ### Struktura koja radi (hook-story-CTA)
 
 **Hook (prve 3 sekunde):** Zaustavite skrolovanje. Ne logo, ne uvod. Direktno u stvar.
-- "Probao sam 5 razlicitih agencija pre nego �to sam na�ao ovu."
-- "Evo �ta se desilo kad sam promenio landing stranicu."
+- "Probao sam 5 razlicitih agencija pre nego ï¿½to sam naï¿½ao ovu."
+- "Evo ï¿½ta se desilo kad sam promenio landing stranicu."
 - "Niko mi nije rekao ovo o Facebook oglasima."
 
-**Story (15-45 sekundi):** Ispricajte iskustvo. Problem koji je postojao, �ta se promenilo, konkretan rezultat.
+**Story (15-45 sekundi):** Ispricajte iskustvo. Problem koji je postojao, ï¿½ta se promenilo, konkretan rezultat.
 
-**CTA (poslednje 3-5 sekundi):** Jedan jasan poziv na akciju. Link u opisu, kliknite ovde, zaka�ite poziv.
+**CTA (poslednje 3-5 sekundi):** Jedan jasan poziv na akciju. Link u opisu, kliknite ovde, zakaï¿½ite poziv.
 
-### Tipovi UGC sadr�aja koji konvertuju
+### Tipovi UGC sadrï¿½aja koji konvertuju
 
 **Svedocanstvo (testimonijal):** Covek prica o svom iskustvu sa proizvodom/uslugom. Najjednostavniji i najefektniji format.
 
-**"Raspakivanje" iskustva:** Korak po korak �ta se de�avalo od prvog kontakta do rezultata.
+**"Raspakivanje" iskustva:** Korak po korak ï¿½ta se deï¿½avalo od prvog kontakta do rezultata.
 
-**Problem/re�enje:** Kreator opisuje problem koji je imao, pa pokazuje kako ga je va� proizvod/usluga re�io.
+**Problem/reï¿½enje:** Kreator opisuje problem koji je imao, pa pokazuje kako ga je vaï¿½ proizvod/usluga reï¿½io.
 
 **Pre i posle:** Vizuelni prikaz transformacije. Posebno mocno za usluge gde je rezultat vidljiv (dizajn, marketing metrike, fizicki proizvodi).
 
 ## Gde pronaci UGC kreatore
 
-Za srpsko tr�i�te, opcije su:
+Za srpsko trï¿½iï¿½te, opcije su:
 
-**Direktno** � Kontaktirajte mikro-influensere (1.000-10.000 pratilaca) sa ponudom za UGC saradnju. Mnogi od njih rado prave sadr�aj koji se koristi kao oglas, bez obaveze objavljivanja na svom profilu.
+**Direktno** ï¿½ Kontaktirajte mikro-influensere (1.000-10.000 pratilaca) sa ponudom za UGC saradnju. Mnogi od njih rado prave sadrï¿½aj koji se koristi kao oglas, bez obaveze objavljivanja na svom profilu.
 
-**Va�i postojeci kupci** � Najautenticniji sadr�aj dolazi od pravih korisnika. Ponudite popust ili bonus u zamenu za kratko svedocanstvo.
+**Vaï¿½i postojeci kupci** ï¿½ Najautenticniji sadrï¿½aj dolazi od pravih korisnika. Ponudite popust ili bonus u zamenu za kratko svedocanstvo.
 
-**UGC platforme** � Postoje specijalizovane platforme (Billo, Insense, JoinBrands) koje povezuju brendove sa UGC kreatorima. Vecina pokriva i ovaj region.
+**UGC platforme** ï¿½ Postoje specijalizovane platforme (Billo, Insense, JoinBrands) koje povezuju brendove sa UGC kreatorima. Vecina pokriva i ovaj region.
 
-## Koliko UGC ko�ta
+## Koliko UGC koï¿½ta
 
-Realne cene za srpsko tr�i�te:
+Realne cene za srpsko trï¿½iï¿½te:
 
-- Jedan UGC video (30-60 sekundi): 50-200�
-- Paket od 5 videa sa jednim kreatorom: 200-700�
+- Jedan UGC video (30-60 sekundi): 50-200ï¿½
+- Paket od 5 videa sa jednim kreatorom: 200-700ï¿½
 - Organski UGC od kupaca: besplatno (ali nepredvidljivo)
 
-Uporedite to sa profesionalnom produkcijom gde jedan video ko�ta koliko ceo mesec UGC sadr�aja. Matematika je jasna.
+Uporedite to sa profesionalnom produkcijom gde jedan video koï¿½ta koliko ceo mesec UGC sadrï¿½aja. Matematika je jasna.
 
-## Gre�ke koje treba izbegavati
+## Greï¿½ke koje treba izbegavati
 
-**Preterano skriptovan sadr�aj.** Ako UGC zvuci kao da kreator cita teleprompter, izgubili ste poentu. Dajte smernice, ne skriptu rec po rec.
+**Preterano skriptovan sadrï¿½aj.** Ako UGC zvuci kao da kreator cita teleprompter, izgubili ste poentu. Dajte smernice, ne skriptu rec po rec.
 
-**Savr�ena produkcija.** Malo nesavr�ena rasveta, prirodan zvuk okoline, kamera u ruci. Ovo nije bug, ovo je feature. Savr�enost ubija autenticnost.
+**Savrï¿½ena produkcija.** Malo nesavrï¿½ena rasveta, prirodan zvuk okoline, kamera u ruci. Ovo nije bug, ovo je feature. Savrï¿½enost ubija autenticnost.
 
 **Jedan kreativ za sve platforme.** Instagram Reels, TikTok i YouTube Shorts imaju razlicitu publiku i razlicit algoritam. Prilagodite format platformi.
 
 **Bez pracenja performansi.** UGC nije zamena za strategiju. Svaki video mora imati UTM, svaki oglas mora imati merljiv cilj. Autenticnost i analitika idu zajedno.
 
-> Firme koje kombinuju autentican UGC sadr�aj sa preciznim targetiranjem dobijaju najbolje rezultate u placenom marketingu. Jedno bez drugog je nepotpuno.
+> Firme koje kombinuju autentican UGC sadrï¿½aj sa preciznim targetiranjem dobijaju najbolje rezultate u placenom marketingu. Jedno bez drugog je nepotpuno.
 
 ## Kako poceti
 
@@ -6481,19 +6708,19 @@ Ako nikad niste koristili UGC, pocnite jednostavno:
 
 Rezultati obicno govore sami za sebe. Kad vidite da video snimljen telefonom konvertuje bolje od profesionalne produkcije, pristup se menja zauvek.
 
-Saznajte kako [upravljamo dru�tvenim mre�ama](/drustvene-mreze) za firme koje �ele rezultate, ne samo pratioce.
+Saznajte kako [upravljamo druï¿½tvenim mreï¿½ama](/drustvene-mreze) za firme koje ï¿½ele rezultate, ne samo pratioce.
 
-Takode preporucujemo: [Video marketing: za�to video dominira i kako poceti](/blog/video-marketing-zasto-video-dominira).
+Takode preporucujemo: [Video marketing: zaï¿½to video dominira i kako poceti](/blog/video-marketing-zasto-video-dominira).
 
 ---
 
-�elite da testirate UGC kampanje za va� biznis? [Javite nam se](/kontakt). Pomoci cemo vam da pronadete kreatore, napravite strategiju i pokrenete prve oglase.
+ï¿½elite da testirate UGC kampanje za vaï¿½ biznis? [Javite nam se](/kontakt). Pomoci cemo vam da pronadete kreatore, napravite strategiju i pokrenete prve oglase.
 `,
   },
   {
     slug: 'automatizacija-marketinga-sta-mozete-delegirati-masini',
-    title: 'Automatizacija marketinga: �ta mo�ete delegirati ma�ini',
-    excerpt: 'Neki zadaci tro�e sate va�eg vremena svake nedelje, a mogli bi da se zavr�e bez ijednog klika. Pitanje je samo koje.',
+    title: 'Automatizacija marketinga: ï¿½ta moï¿½ete delegirati maï¿½ini',
+    excerpt: 'Neki zadaci troï¿½e sate vaï¿½eg vremena svake nedelje, a mogli bi da se zavrï¿½e bez ijednog klika. Pitanje je samo koje.',
     date: '2026-02-26',
     category: 'Marketing',
     readTime: '7 min',
@@ -6502,57 +6729,57 @@ Takode preporucujemo: [Video marketing: za�to video dominira i kako poceti](/b
 
 Kad neko pomene automatizaciju marketinga, prva asocijacija je obicno masovno slanje mejlova ili botovi koji odgovaraju na poruke. To je najmanji deo price.
 
-Prava automatizacija znaci da se ponavljajuci zadaci koji ne zahtevaju kreativnost ili odlucivanje rade sami. Vi i va� tim se fokusirate na ono �to zahteva razmi�ljanje, strategiju i ljudski kontakt.
+Prava automatizacija znaci da se ponavljajuci zadaci koji ne zahtevaju kreativnost ili odlucivanje rade sami. Vi i vaï¿½ tim se fokusirate na ono ï¿½to zahteva razmiï¿½ljanje, strategiju i ljudski kontakt.
 
-Firma sa 3 zaposlena koja automatizuje pravilne stvari mo�e da ostvari isti output kao firma sa 8 zaposlenih koja sve radi rucno. Ne zato �to je tehnologija magicna, vec zato �to vecina timova tro�i 60% radnog vremena na zadatke koji se ponavljaju identicno svake nedelje.
+Firma sa 3 zaposlena koja automatizuje pravilne stvari moï¿½e da ostvari isti output kao firma sa 8 zaposlenih koja sve radi rucno. Ne zato ï¿½to je tehnologija magicna, vec zato ï¿½to vecina timova troï¿½i 60% radnog vremena na zadatke koji se ponavljaju identicno svake nedelje.
 
-## �ta vredi automatizovati
+## ï¿½ta vredi automatizovati
 
 ### Email sekvence nakon prvog kontakta
 
-Neko popuni formu na sajtu. �ta se desi posle? U vecini firmi, neko to vidi sutra ujutru, pa rucno po�alje mejl, pa zaboravi follow-up.
+Neko popuni formu na sajtu. ï¿½ta se desi posle? U vecini firmi, neko to vidi sutra ujutru, pa rucno poï¿½alje mejl, pa zaboravi follow-up.
 
-Automatizovano: cim neko popuni formu, dobije personalizovan mejl u roku od 60 sekundi. Posle 2 dana dobije drugi mejl sa korisnim sadr�ajem. Posle 5 dana dobije treci sa ponudom. Niko iz tima ne mora da razmi�lja o tome.
+Automatizovano: cim neko popuni formu, dobije personalizovan mejl u roku od 60 sekundi. Posle 2 dana dobije drugi mejl sa korisnim sadrï¿½ajem. Posle 5 dana dobije treci sa ponudom. Niko iz tima ne mora da razmiï¿½lja o tome.
 
-Ova jedna automatizacija mo�e da poveca konverziju sa upita u klijenta za 30-40%. Ne zato �to je mejl bolji od ljudskog odgovora, vec zato �to sti�e odmah umesto sutra.
+Ova jedna automatizacija moï¿½e da poveca konverziju sa upita u klijenta za 30-40%. Ne zato ï¿½to je mejl bolji od ljudskog odgovora, vec zato ï¿½to stiï¿½e odmah umesto sutra.
 
 ### Lead scoring i kvalifikacija
 
 Svi lead-ovi nisu jednaki. Neko ko je posetio stranicu sa cenama tri puta i otvorio dva mejla je vredniji od nekog ko je samo preuzeo besplatan PDF.
 
-Automatizovan lead scoring dodeljuje bodove na osnovu pona�anja: poseta sajtu, otvaranje mejlova, klikovi, vreme provedeno na kljucnim stranicama. Kad lead prede odredeni prag, va� prodajni tim dobije notifikaciju da je vreme za poziv.
+Automatizovan lead scoring dodeljuje bodove na osnovu ponaï¿½anja: poseta sajtu, otvaranje mejlova, klikovi, vreme provedeno na kljucnim stranicama. Kad lead prede odredeni prag, vaï¿½ prodajni tim dobije notifikaciju da je vreme za poziv.
 
 Bez ovoga, prodajci gube vreme na hladne kontakte dok pravi kupci cekaju.
 
-### Izve�tavanje i dashboard
+### Izveï¿½tavanje i dashboard
 
-Koliko vremena nedeljno tro�ite na pravljenje izve�taja? Kopiranje podataka iz Google Analytics u spreadsheet, dodavanje podataka iz CRM-a, formatiranje za prezentaciju.
+Koliko vremena nedeljno troï¿½ite na pravljenje izveï¿½taja? Kopiranje podataka iz Google Analytics u spreadsheet, dodavanje podataka iz CRM-a, formatiranje za prezentaciju.
 
-Automatizovan dashboard se a�urira u realnom vremenu. Svaki ponedeljak ujutru dobijete mejl sa kljucnim metrikama. Ako ne�to drasticno padne, dobijete alert odmah umesto da to otkrijete na mesecnom sastanku.
+Automatizovan dashboard se aï¿½urira u realnom vremenu. Svaki ponedeljak ujutru dobijete mejl sa kljucnim metrikama. Ako neï¿½to drasticno padne, dobijete alert odmah umesto da to otkrijete na mesecnom sastanku.
 
-### Objavljivanje na dru�tvenim mre�ama
+### Objavljivanje na druï¿½tvenim mreï¿½ama
 
-Planiranje i zakazivanje objava unapred za celu nedelju ili mesec. Alati kao Buffer ili Later omogucavaju da u jednom popodnevu pripremite sadr�aj za 30 dana.
+Planiranje i zakazivanje objava unapred za celu nedelju ili mesec. Alati kao Buffer ili Later omogucavaju da u jednom popodnevu pripremite sadrï¿½aj za 30 dana.
 
-Ali pa�nja: automatizujte distribuciju, ne kreaciju. Sadr�aj i dalje mora da bude ljudski, relevantan i prilagoden platformi. Automatizovano objavljivanje istog teksta na 5 platformi nije strategija. To je lenjost koja se vidi.
+Ali paï¿½nja: automatizujte distribuciju, ne kreaciju. Sadrï¿½aj i dalje mora da bude ljudski, relevantan i prilagoden platformi. Automatizovano objavljivanje istog teksta na 5 platformi nije strategija. To je lenjost koja se vidi.
 
-## �ta ne treba automatizovati
+## ï¿½ta ne treba automatizovati
 
 ### Odgovore na upite klijenata
 
-Chatbot koji odgovara na FAQ pitanja je koristan. Chatbot koji poku�ava da zameni pravi razgovor sa potencijalnim klijentom je �tetan. Ljudi prepoznaju automatizovan odgovor za 3 sekunde i osecaj koji ostaje je: ovoj firmi nije stalo.
+Chatbot koji odgovara na FAQ pitanja je koristan. Chatbot koji pokuï¿½ava da zameni pravi razgovor sa potencijalnim klijentom je ï¿½tetan. Ljudi prepoznaju automatizovan odgovor za 3 sekunde i osecaj koji ostaje je: ovoj firmi nije stalo.
 
 Koristite automatizaciju da usmerite upit pravoj osobi, da obavestite tim odmah, da prikupite osnovne informacije pre razgovora. Ali sam razgovor mora biti ljudski.
 
-### Kreativni sadr�aj
+### Kreativni sadrï¿½aj
 
-AI alati mogu da pomognu sa prvim draftom, istra�ivanjem, strukturom. Ali finalni sadr�aj koji predstavlja va� brend mora da prode kroz ljudski filter. Ton, humor, kontekst, lokalne reference, to ma�ina ne pogada dovoljno dobro.
+AI alati mogu da pomognu sa prvim draftom, istraï¿½ivanjem, strukturom. Ali finalni sadrï¿½aj koji predstavlja vaï¿½ brend mora da prode kroz ljudski filter. Ton, humor, kontekst, lokalne reference, to maï¿½ina ne pogada dovoljno dobro.
 
-Automatizujte distribuciju sadr�aja. Ne automatizujte njegovu kreaciju.
+Automatizujte distribuciju sadrï¿½aja. Ne automatizujte njegovu kreaciju.
 
-### Strate�ke odluke
+### Strateï¿½ke odluke
 
-Podaci vam ka�u �ta se de�ava. Ne ka�u vam za�to ili �ta da uradite povodom toga. Automatizovani izve�taj vam poka�e da je bounce rate porastao za 15%. Odluka da li je problem u sadr�aju, brzini sajta ili pogre�nom targetiranju zahteva ljudsko razumevanje konteksta.
+Podaci vam kaï¿½u ï¿½ta se deï¿½ava. Ne kaï¿½u vam zaï¿½to ili ï¿½ta da uradite povodom toga. Automatizovani izveï¿½taj vam pokaï¿½e da je bounce rate porastao za 15%. Odluka da li je problem u sadrï¿½aju, brzini sajta ili pogreï¿½nom targetiranju zahteva ljudsko razumevanje konteksta.
 
 ## Alati koji rade posao
 
@@ -6564,80 +6791,80 @@ Ne treba vam skupa enterprise platforma da pocnete. Evo minimalnog stack-a:
 - **Analitika:** Google Analytics 4 + Looker Studio (besplatno)
 - **Forme i workflow:** Typeform + Zapier (ili Make)
 
-Ukupan tro�ak za pocetak: 0-50� mesecno. U�teda u vremenu: 15-20 sati nedeljno za tim od 3 osobe.
+Ukupan troï¿½ak za pocetak: 0-50ï¿½ mesecno. Uï¿½teda u vremenu: 15-20 sati nedeljno za tim od 3 osobe.
 
-> Automatizacija ne zamenjuje ljude. Ona zamenjuje dosadne, ponavljajuce zadatke koje ljudi ne bi trebalo da rade. Rezultat je tim koji radi pametnije, ne te�e.
+> Automatizacija ne zamenjuje ljude. Ona zamenjuje dosadne, ponavljajuce zadatke koje ljudi ne bi trebalo da rade. Rezultat je tim koji radi pametnije, ne teï¿½e.
 
 ## Odakle poceti
 
-Ako nikad niste automatizovali ni�ta, evo redosleda:
+Ako nikad niste automatizovali niï¿½ta, evo redosleda:
 
 1. **Email welcome sekvenca** (dan 1): automatski mejl posle prijave/upita
-2. **Dashboard** (nedelja 1): automatski nedeljni izve�taj kljucnih metrika
+2. **Dashboard** (nedelja 1): automatski nedeljni izveï¿½taj kljucnih metrika
 3. **Social scheduling** (nedelja 2): zakazivanje objava za mesec unapred
-4. **Lead scoring** (mesec 2): bodovanje kontakata na osnovu pona�anja
+4. **Lead scoring** (mesec 2): bodovanje kontakata na osnovu ponaï¿½anja
 5. **Workflow integracije** (mesec 3): povezivanje alata da podaci teku bez rucnog kopiranja
 
-Svaki korak se gradi na prethodnom. Ne poku�avajte sve odjednom.
+Svaki korak se gradi na prethodnom. Ne pokuï¿½avajte sve odjednom.
 
-Saznajte vi�e o na�em [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
+Saznajte viï¿½e o naï¿½em [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
 
 Takode preporucujemo: [Kako napraviti sales funnel koji radi dok vi spavate](/blog/sales-funnel-koji-radi-na-autopilotu).
 
 ---
 
-Ako �elite pomoc da postavite automatizaciju koja zaista radi za va� biznis, [javite nam se](/kontakt). Napravicemo vam plan koji �tedi vreme i donosi rezultate.
+Ako ï¿½elite pomoc da postavite automatizaciju koja zaista radi za vaï¿½ biznis, [javite nam se](/kontakt). Napravicemo vam plan koji ï¿½tedi vreme i donosi rezultate.
 `,
   },
   {
     slug: 'lokalni-biznis-vs-online-hibridna-strategija',
-    title: 'Lokalni biznis vs. online: za�to hibridna strategija pobeduje',
-    excerpt: 'Cist online ili cist offline pristup ostavlja novac na stolu. Firme koje kombinuju oba kanala rastu br�e od onih koje biraju stranu.',
+    title: 'Lokalni biznis vs. online: zaï¿½to hibridna strategija pobeduje',
+    excerpt: 'Cist online ili cist offline pristup ostavlja novac na stolu. Firme koje kombinuju oba kanala rastu brï¿½e od onih koje biraju stranu.',
     date: '2026-02-26',
     category: 'Biznis',
     readTime: '8 min',
     content: `
-## La�na dilema koja koci rast
+## Laï¿½na dilema koja koci rast
 
-Postoji jedan razgovor koji se ponavlja u skoro svakoj firmi koja ima fizicku lokaciju. Neko ka�e: "Treba nam jaci online marketing." Neko drugi odgovori: "Nama dolaze ljudi u�ivo, internet nam ne treba toliko."
+Postoji jedan razgovor koji se ponavlja u skoro svakoj firmi koja ima fizicku lokaciju. Neko kaï¿½e: "Treba nam jaci online marketing." Neko drugi odgovori: "Nama dolaze ljudi uï¿½ivo, internet nam ne treba toliko."
 
-Oboje gre�e. Ne zato �to nemaju poentu, nego zato �to postavljaju pogre�no pitanje. Pitanje nije "online ili offline". Pitanje je kako ih spojiti da svaki kanal pojacava onaj drugi.
+Oboje greï¿½e. Ne zato ï¿½to nemaju poentu, nego zato ï¿½to postavljaju pogreï¿½no pitanje. Pitanje nije "online ili offline". Pitanje je kako ih spojiti da svaki kanal pojacava onaj drugi.
 
-Frizerski salon koji ima 200 pratilaca na Instagramu i punu knjigu termina nije propao na internetu. Samo nije iskoristio potencijal. Tih 200 pratilaca mo�e da postane 2.000 uz minimalan trud, a svaki novi pratilac je potencijalan klijent koji �ivi u krugu od 5 kilometara.
+Frizerski salon koji ima 200 pratilaca na Instagramu i punu knjigu termina nije propao na internetu. Samo nije iskoristio potencijal. Tih 200 pratilaca moï¿½e da postane 2.000 uz minimalan trud, a svaki novi pratilac je potencijalan klijent koji ï¿½ivi u krugu od 5 kilometara.
 
-Sa druge strane, online prodavnica koja ignori�e lokalni kontekst gubi specificnu prednost koju ima. Kad kupac zna da iza sajta stoji firma iz njegovog grada, poverenje raste. I konverzija sa njim.
+Sa druge strane, online prodavnica koja ignoriï¿½e lokalni kontekst gubi specificnu prednost koju ima. Kad kupac zna da iza sajta stoji firma iz njegovog grada, poverenje raste. I konverzija sa njim.
 
-## �ta lokalni biznisi propu�taju na internetu
+## ï¿½ta lokalni biznisi propuï¿½taju na internetu
 
 ### Google mapa je besplatan izlog
 
-Google Business Profile je verovatno najmocniji besplatan alat koji mali biznisi ne koriste kako treba. Kad neko ukuca "frizer Zrenjanin" ili "stomatolog Novi Sad", Google prika�e mapu sa 3 rezultata. Biti u ta 3 rezultata znaci besplatan priliv novih klijenata svaki dan.
+Google Business Profile je verovatno najmocniji besplatan alat koji mali biznisi ne koriste kako treba. Kad neko ukuca "frizer Zrenjanin" ili "stomatolog Novi Sad", Google prikaï¿½e mapu sa 3 rezultata. Biti u ta 3 rezultata znaci besplatan priliv novih klijenata svaki dan.
 
-A �ta treba za to? Popunjen profil, redovne fotografije, odgovaranje na recenzije i tacno radno vreme. Ni�ta komplikovano. Ni�ta skupo. A 90% lokalnih firmi to ne radi ili radi polovicno.
+A ï¿½ta treba za to? Popunjen profil, redovne fotografije, odgovaranje na recenzije i tacno radno vreme. Niï¿½ta komplikovano. Niï¿½ta skupo. A 90% lokalnih firmi to ne radi ili radi polovicno.
 
 ### Recenzije su nova preporuka od usta do usta
 
-Pre 10 godina, kad je nekom trebao vodoinstalater, pitao je kom�iju. Danas otvori Google i gleda ocene. Firma sa 47 recenzija i prosekom 4.8 dobija poziv. Firma sa 3 recenzije i prosekom 4.2 ne dobija ni�ta, bez obzira na to koliko je zapravo dobra.
+Pre 10 godina, kad je nekom trebao vodoinstalater, pitao je komï¿½iju. Danas otvori Google i gleda ocene. Firma sa 47 recenzija i prosekom 4.8 dobija poziv. Firma sa 3 recenzije i prosekom 4.2 ne dobija niï¿½ta, bez obzira na to koliko je zapravo dobra.
 
-Sistem za prikupljanje recenzija je jedan od najlak�ih projekata sa najvecim povratom. Automatski SMS ili mejl posle obavljene usluge sa linkom na Google recenziju. Jednostavno, a rezultati su vidljivi za mesec dana.
+Sistem za prikupljanje recenzija je jedan od najlakï¿½ih projekata sa najvecim povratom. Automatski SMS ili mejl posle obavljene usluge sa linkom na Google recenziju. Jednostavno, a rezultati su vidljivi za mesec dana.
 
 ### Sajt koji radi 24/7 umesto vas
 
-Fizicka radnja radi 8 ili 10 sati dnevno. Sajt radi non-stop. Klijent koji u 23:00 tra�i "popravka telefona sutra ujutru" mo�e da zaka�e termin na va�em sajtu dok vi spavate. Bez sajta, taj klijent ode kod konkurencije koja ima online zakazivanje.
+Fizicka radnja radi 8 ili 10 sati dnevno. Sajt radi non-stop. Klijent koji u 23:00 traï¿½i "popravka telefona sutra ujutru" moï¿½e da zakaï¿½e termin na vaï¿½em sajtu dok vi spavate. Bez sajta, taj klijent ode kod konkurencije koja ima online zakazivanje.
 
 I ne treba vam sajt od 5.000 evra. Jedna stranica sa uslugama, cenama, lokacijom i formom za zakazivanje je dovoljna za pocetak. Kompleksnost dolazi kasnije, kad promet opravda ulaganje.
 
-## �ta online biznisi propu�taju bez lokalne prisutnosti
+## ï¿½ta online biznisi propuï¿½taju bez lokalne prisutnosti
 
 ### Poverenje koje dolazi iz fizickog kontakta
 
-Online prodavnica iz Srbije koja nema adresu na sajtu automatski gubi procenat kupaca koji �ele da znaju ko stoji iza toga. To ne mora da bude fizicka radnja. Dovoljna je adresa, broj telefona koji neko podi�e i fotografija tima.
+Online prodavnica iz Srbije koja nema adresu na sajtu automatski gubi procenat kupaca koji ï¿½ele da znaju ko stoji iza toga. To ne mora da bude fizicka radnja. Dovoljna je adresa, broj telefona koji neko podiï¿½e i fotografija tima.
 
-Jedan od na�ih klijenata je imao odlican web shop ali slabu konverziju. Dodali smo sekciju "O nama" sa fotografijama magacina i tima, adresom i Google mapom. Konverzija je skocila 34% u prvom mesecu. Ni�ta drugo se nije promenilo.
+Jedan od naï¿½ih klijenata je imao odlican web shop ali slabu konverziju. Dodali smo sekciju "O nama" sa fotografijama magacina i tima, adresom i Google mapom. Konverzija je skocila 34% u prvom mesecu. Niï¿½ta drugo se nije promenilo.
 
 ### Lokalni dogadaji kao marketing kanal
 
-Pop-up prodaje, sajmovi, lokalne manifestacije. Zvuci staromodno, ali za online brendove koji �ele da izgrade zajednicu, ovo je zlato. Jedan dan na sajmu donese 50-100 novih mejl adresa ljudi koji su fizicki videli i probali proizvod. Kvalitet tih kontakata je 5x bolji od prosecnog online lead-a.
+Pop-up prodaje, sajmovi, lokalne manifestacije. Zvuci staromodno, ali za online brendove koji ï¿½ele da izgrade zajednicu, ovo je zlato. Jedan dan na sajmu donese 50-100 novih mejl adresa ljudi koji su fizicki videli i probali proizvod. Kvalitet tih kontakata je 5x bolji od prosecnog online lead-a.
 
 ### Lokalni SEO kao konkurentska prednost
 
@@ -6647,43 +6874,43 @@ Online biznis koji cilja "celu Srbiju" se takmici sa hiljadama. Online biznis ko
 
 ### Korak 1: Mapiranje dodirnih tacaka
 
-Napravite listu svih mesta gde potencijalni klijent mo�e da vas pronade: Google pretraga, Instagram, preporuka prijatelja, prolazak pored radnje, sajam, lokalna grupa na Fejsbuku. Za svaku dodirnu tacku, odredite �ta klijent treba da vidi i koji je sledeci korak.
+Napravite listu svih mesta gde potencijalni klijent moï¿½e da vas pronade: Google pretraga, Instagram, preporuka prijatelja, prolazak pored radnje, sajam, lokalna grupa na Fejsbuku. Za svaku dodirnu tacku, odredite ï¿½ta klijent treba da vidi i koji je sledeci korak.
 
-### Korak 2: Online podr�ava offline
+### Korak 2: Online podrï¿½ava offline
 
-Svaka offline aktivnost treba da ima online komponentu. Otvorili ste novu lokaciju? To je post na dru�tvenim mre�ama. Imali dobar dogadaj? To je sadr�aj za sledece 2 nedelje. Klijent je zadovoljan? To je recenzija na Google-u.
+Svaka offline aktivnost treba da ima online komponentu. Otvorili ste novu lokaciju? To je post na druï¿½tvenim mreï¿½ama. Imali dobar dogadaj? To je sadrï¿½aj za sledece 2 nedelje. Klijent je zadovoljan? To je recenzija na Google-u.
 
-Offline aktivnosti generi�u autentican sadr�aj koji online publika �eli da vidi. Ne tra�ite �ta da objavljujete. Dokumentujte ono �to vec radite.
+Offline aktivnosti generiï¿½u autentican sadrï¿½aj koji online publika ï¿½eli da vidi. Ne traï¿½ite ï¿½ta da objavljujete. Dokumentujte ono ï¿½to vec radite.
 
-### Korak 3: Offline podr�ava online
+### Korak 3: Offline podrï¿½ava online
 
-Online kampanja generi�e upite. Ali gde ti upiti zavr�avaju? Ako imate fizicku lokaciju, pozovite ljude da dodu. "Zaka�ite besplatnu konsultaciju u na�em prostoru." Konverzija sa licnog sastanka je 5-10x veca od konverzije preko mejla.
+Online kampanja generiï¿½e upite. Ali gde ti upiti zavrï¿½avaju? Ako imate fizicku lokaciju, pozovite ljude da dodu. "Zakaï¿½ite besplatnu konsultaciju u naï¿½em prostoru." Konverzija sa licnog sastanka je 5-10x veca od konverzije preko mejla.
 
-Cak i ako nemate radnju, kreirajte razloge za licni kontakt. Dostava umesto slanja po�tom za lokalne kupce. Besplatan pregled ili procena na licu mesta. Svaki fizicki kontakt pojacava vezu sa brendom.
+Cak i ako nemate radnju, kreirajte razloge za licni kontakt. Dostava umesto slanja poï¿½tom za lokalne kupce. Besplatan pregled ili procena na licu mesta. Svaki fizicki kontakt pojacava vezu sa brendom.
 
 ### Korak 4: Zajednicki podaci
 
-Ovo je deo koji vecina firmi preskace. Online i offline podaci treba da �ive na istom mestu. Koliko klijenata je do�lo preko Google-a a koliko preko preporuke? Koji kanal ima veci prosecan racun? Gde je veca stopa povratka?
+Ovo je deo koji vecina firmi preskace. Online i offline podaci treba da ï¿½ive na istom mestu. Koliko klijenata je doï¿½lo preko Google-a a koliko preko preporuke? Koji kanal ima veci prosecan racun? Gde je veca stopa povratka?
 
-Bez ovih podataka, svaka odluka o bud�etu je nagadanje. Sa njima, znate tacno gde svaki dinar donosi najvi�e.
+Bez ovih podataka, svaka odluka o budï¿½etu je nagadanje. Sa njima, znate tacno gde svaki dinar donosi najviï¿½e.
 
-## Gre�ke koje skupo ko�taju
+## Greï¿½ke koje skupo koï¿½taju
 
 ### Razdvojeni timovi
 
-Najce�ca gre�ka: jedan covek vodi radnju, drugi vodi Instagram, treci vodi sajt, i niko ne razgovara sa drugima. Poruka na sajtu ne odgovara onome �to se govori u radnji. Akcija na Instagramu ne postoji na sajtu. Klijent je zbunjen.
+Najceï¿½ca greï¿½ka: jedan covek vodi radnju, drugi vodi Instagram, treci vodi sajt, i niko ne razgovara sa drugima. Poruka na sajtu ne odgovara onome ï¿½to se govori u radnji. Akcija na Instagramu ne postoji na sajtu. Klijent je zbunjen.
 
-Re�enje nije komplikovan sistem. Re�enje je nedeljni sastanak od 15 minuta gde se uskladuju poruke, akcije i prioriteti.
+Reï¿½enje nije komplikovan sistem. Reï¿½enje je nedeljni sastanak od 15 minuta gde se uskladuju poruke, akcije i prioriteti.
 
-### Sve ili ni�ta pristup
+### Sve ili niï¿½ta pristup
 
-Firma odluci da "ude u online" i potro�i 3.000 evra na sajt, 1.000 na oglase, 500 na dizajn, sve u prvom mesecu. Posle 60 dana nema rezultata jer nije bilo strategije, samo potro�nja. Razocarenje. Zakljucak: "Online marketing ne radi za nas."
+Firma odluci da "ude u online" i potroï¿½i 3.000 evra na sajt, 1.000 na oglase, 500 na dizajn, sve u prvom mesecu. Posle 60 dana nema rezultata jer nije bilo strategije, samo potroï¿½nja. Razocarenje. Zakljucak: "Online marketing ne radi za nas."
 
-Radi. Ali ne radi bez plana, bez pracenja i bez strpljenja. Bolje je poceti sa 200 evra mesecno i jasnom strategijom nego sa 5.000 i nadom da ce se ne�to desiti.
+Radi. Ali ne radi bez plana, bez pracenja i bez strpljenja. Bolje je poceti sa 200 evra mesecno i jasnom strategijom nego sa 5.000 i nadom da ce se neï¿½to desiti.
 
 ### Ignorisanje mobilnog iskustva
 
-68% lokalnih pretraga dolazi sa telefona. Ako va� sajt na telefonu izgleda kao da ga je pravio neko 2012. godine, gubite 2 od 3 potencijalna klijenta pre nego �to procitaju i prvu recenicu.
+68% lokalnih pretraga dolazi sa telefona. Ako vaï¿½ sajt na telefonu izgleda kao da ga je pravio neko 2012. godine, gubite 2 od 3 potencijalna klijenta pre nego ï¿½to procitaju i prvu recenicu.
 
 > Firme koje spajaju online i offline ne rastu linearno. One rastu eksponencijalno, jer svaki kanal pojacava onaj drugi. To nije teorija. To su brojevi koje vidimo kod svakog klijenta koji primeni hibridni pristup.
 
@@ -6696,229 +6923,229 @@ Ako imate fizicku lokaciju ali slab online prisustvo:
 
 Ako imate online biznis ali nema lokalnog kontakta:
 1. Dodajte adresu, telefon i fotografije tima na sajt (danas)
-2. Istra�ite jedan lokalni dogadaj gde mo�ete ucestvovati (ova nedelja)
-3. Pokrenite lokalni SEO za va� grad (do kraja meseca)
+2. Istraï¿½ite jedan lokalni dogadaj gde moï¿½ete ucestvovati (ova nedelja)
+3. Pokrenite lokalni SEO za vaï¿½ grad (do kraja meseca)
 
-Korak po korak. Ne treba vam savr�ena strategija. Treba vam prvi potez.
+Korak po korak. Ne treba vam savrï¿½ena strategija. Treba vam prvi potez.
 
-Saznajte vi�e o na�em [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
+Saznajte viï¿½e o naï¿½em [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
 
-Takode preporucujemo: [Lokalni SEO: kako se pojaviti prvi kad neko pretra�i u va�em gradu](/blog/lokalni-seo-kako-se-pojaviti-prvi).
+Takode preporucujemo: [Lokalni SEO: kako se pojaviti prvi kad neko pretraï¿½i u vaï¿½em gradu](/blog/lokalni-seo-kako-se-pojaviti-prvi).
 
 ---
 
-�elite pomoc da napravite hibridnu strategiju za va� biznis? [Javite nam se](/kontakt). Analiziracemo va�e online i offline kanale i napraviti plan koji ih spaja u sistem za rast.
+ï¿½elite pomoc da napravite hibridnu strategiju za vaï¿½ biznis? [Javite nam se](/kontakt). Analiziracemo vaï¿½e online i offline kanale i napraviti plan koji ih spaja u sistem za rast.
 `,
   },
   {
     slug: 'kako-citati-marketing-izvestaj',
-    title: 'Kako citati marketing izve�taj (vodic za vlasnike firmi)',
-    excerpt: 'Vecina vlasnika firmi dobije mesecni izve�taj od agencije i ne zna �ta gleda. Evo �ta zapravo treba da tra�ite u brojevima.',
+    title: 'Kako citati marketing izveï¿½taj (vodic za vlasnike firmi)',
+    excerpt: 'Vecina vlasnika firmi dobije mesecni izveï¿½taj od agencije i ne zna ï¿½ta gleda. Evo ï¿½ta zapravo treba da traï¿½ite u brojevima.',
     date: '2026-02-26',
     category: 'Marketing',
     readTime: '7 min',
     content: `
-## Problem sa izve�tajima koje dobijate
+## Problem sa izveï¿½tajima koje dobijate
 
-Agencija po�alje PDF od 15 strana. Pun grafova, procenata, strelica nagore. Izgleda impresivno. Ali vi ga otvorite, pogledate 2 minuta i zatvorite jer ne znate �ta od toga znaci bilo �ta konkretno za va� biznis.
+Agencija poï¿½alje PDF od 15 strana. Pun grafova, procenata, strelica nagore. Izgleda impresivno. Ali vi ga otvorite, pogledate 2 minuta i zatvorite jer ne znate ï¿½ta od toga znaci bilo ï¿½ta konkretno za vaï¿½ biznis.
 
-To nije va�a gre�ka. Vecina marketing izve�taja je napravljena da izgleda dobro, ne da bude korisna. Napunjeni su metrikama koje zvuce va�no ali nemaju veze sa onim �to vas zapravo zanima: da li zaradujem vi�e nego �to tro�im?
+To nije vaï¿½a greï¿½ka. Vecina marketing izveï¿½taja je napravljena da izgleda dobro, ne da bude korisna. Napunjeni su metrikama koje zvuce vaï¿½no ali nemaju veze sa onim ï¿½to vas zapravo zanima: da li zaradujem viï¿½e nego ï¿½to troï¿½im?
 
-Ovaj tekst je kratki vodic za vlasnike firmi koji �ele da za 5 minuta iz bilo kog izve�taja izvuku ono �to je bitno i prepoznaju kad ih neko voza.
+Ovaj tekst je kratki vodic za vlasnike firmi koji ï¿½ele da za 5 minuta iz bilo kog izveï¿½taja izvuku ono ï¿½to je bitno i prepoznaju kad ih neko voza.
 
 ## Tri broja koja morate znati napamet
 
-Pre nego �to otvorite bilo koji izve�taj, imate tri pitanja na koja morate znati odgovor. Ako va�a agencija ne stavlja ove brojeve na prvu stranu, tra�ite ih odmah.
+Pre nego ï¿½to otvorite bilo koji izveï¿½taj, imate tri pitanja na koja morate znati odgovor. Ako vaï¿½a agencija ne stavlja ove brojeve na prvu stranu, traï¿½ite ih odmah.
 
 ### 1. Cena po akviziciji (CPA)
 
-Koliko vas ko�ta jedan novi klijent ili jedna prodaja. Ne klik, ne pregled, ne "engagement". Koliko para morate da date da neko izvadi novcanik i plati.
+Koliko vas koï¿½ta jedan novi klijent ili jedna prodaja. Ne klik, ne pregled, ne "engagement". Koliko para morate da date da neko izvadi novcanik i plati.
 
-Ako tro�ite 1.000 evra mesecno na oglase i dobijete 20 kupaca, va� CPA je 50 evra. Ako je va�a prosecna prodaja 200 evra, to je dobar posao. Ako je prosecna prodaja 60 evra, imate problem.
+Ako troï¿½ite 1.000 evra mesecno na oglase i dobijete 20 kupaca, vaï¿½ CPA je 50 evra. Ako je vaï¿½a prosecna prodaja 200 evra, to je dobar posao. Ako je prosecna prodaja 60 evra, imate problem.
 
-CPA je broj koji direktno govori da li va� marketing zaraduje ili gubi novac. Sve ostalo je kontekst.
+CPA je broj koji direktno govori da li vaï¿½ marketing zaraduje ili gubi novac. Sve ostalo je kontekst.
 
 ### 2. ROAS (Return on Ad Spend)
 
-Za svaki evro ulo�en u oglase, koliko se vrati. Ako potro�ite 1.000 evra i generi�ete 5.000 evra prihoda, ROAS je 5x.
+Za svaki evro uloï¿½en u oglase, koliko se vrati. Ako potroï¿½ite 1.000 evra i generiï¿½ete 5.000 evra prihoda, ROAS je 5x.
 
-Ali pa�nja: ROAS od 5x ne znaci automatski da ste profitabilni. Morate oduzeti tro�kove proizvoda, dostave, plata, agencije. Realan profit se racuna nakon svega toga. ROAS je dobar pokazatelj efikasnosti oglasa, ali nije isti kao profit.
+Ali paï¿½nja: ROAS od 5x ne znaci automatski da ste profitabilni. Morate oduzeti troï¿½kove proizvoda, dostave, plata, agencije. Realan profit se racuna nakon svega toga. ROAS je dobar pokazatelj efikasnosti oglasa, ali nije isti kao profit.
 
-Zdrav ROAS zavisi od industrije. Za e-commerce sa niskim mar�ama, treba vam minimum 4-5x. Za usluge sa visokim mar�ama, i 2x mo�e biti odlican.
+Zdrav ROAS zavisi od industrije. Za e-commerce sa niskim marï¿½ama, treba vam minimum 4-5x. Za usluge sa visokim marï¿½ama, i 2x moï¿½e biti odlican.
 
 ### 3. Trend, ne snapshot
 
-Jedan mesec ne znaci ni�ta. Dva meseca su naznaka. Tri meseca su trend. Kad gledate izve�taj, ne gledate jedan broj. Gledate da li broj ide gore, dole, ili stoji.
+Jedan mesec ne znaci niï¿½ta. Dva meseca su naznaka. Tri meseca su trend. Kad gledate izveï¿½taj, ne gledate jedan broj. Gledate da li broj ide gore, dole, ili stoji.
 
-CPA od 50 evra u januaru je samo broj. CPA koji je bio 80 u novembru, 65 u decembru i 50 u januaru je prica o kampanji koja se pobolj�ava. CPA koji je bio 30 pa skocio na 50 je upozorenje.
+CPA od 50 evra u januaru je samo broj. CPA koji je bio 80 u novembru, 65 u decembru i 50 u januaru je prica o kampanji koja se poboljï¿½ava. CPA koji je bio 30 pa skocio na 50 je upozorenje.
 
-Uvek tra�ite grafik sa vi�e meseci. Ako agencija �alje samo tekuci mesec, pitajte za poredenje.
+Uvek traï¿½ite grafik sa viï¿½e meseci. Ako agencija ï¿½alje samo tekuci mesec, pitajte za poredenje.
 
-## Metrike koje zvuce va�no ali nisu
+## Metrike koje zvuce vaï¿½no ali nisu
 
 ### Impressions (prikazi)
 
-"Va� oglas je prikazan 500.000 puta." I? To znaci da je pola miliona ljudi moglo da ga vidi. Ne da ga je videlo. Ne da ga je procitalo. Ne da je uradilo bilo �ta. Impressions su ulazni podatak, ne rezultat. Koristite ih samo za kontekst, nikad kao merilo uspeha.
+"Vaï¿½ oglas je prikazan 500.000 puta." I? To znaci da je pola miliona ljudi moglo da ga vidi. Ne da ga je videlo. Ne da ga je procitalo. Ne da je uradilo bilo ï¿½ta. Impressions su ulazni podatak, ne rezultat. Koristite ih samo za kontekst, nikad kao merilo uspeha.
 
 ### Reach (doseg)
 
-Slicno kao impressions, samo �to broji unikatne ljude. "Dosegli smo 120.000 ljudi." Opet, to samo znaci da su imali priliku da vide oglas. Niko ne placa racune dosegom.
+Slicno kao impressions, samo ï¿½to broji unikatne ljude. "Dosegli smo 120.000 ljudi." Opet, to samo znaci da su imali priliku da vide oglas. Niko ne placa racune dosegom.
 
 ### Engagement rate
 
-Lajkovi, komentari, deljenja. Lepo za ego, beskorisno za bankovni racun. Firma mo�e imati engagement od 8% i nula prodaja. Druga firma ima engagement od 0.5% i pun raspored. Engagement meri koliko je sadr�aj zanimljiv, ne koliko je profitabilan.
+Lajkovi, komentari, deljenja. Lepo za ego, beskorisno za bankovni racun. Firma moï¿½e imati engagement od 8% i nula prodaja. Druga firma ima engagement od 0.5% i pun raspored. Engagement meri koliko je sadrï¿½aj zanimljiv, ne koliko je profitabilan.
 
 ### CTR (Click-Through Rate)
 
-Procenat ljudi koji klikne na oglas. Koristan za optimizaciju oglasa, ali sam po sebi ne govori ni�ta. CTR od 5% je odlican, ali ako ti klikovi dolaze od pogre�ne publike, tro�ite bud�et na radoznale ljude koji nikad nece kupiti.
+Procenat ljudi koji klikne na oglas. Koristan za optimizaciju oglasa, ali sam po sebi ne govori niï¿½ta. CTR od 5% je odlican, ali ako ti klikovi dolaze od pogreï¿½ne publike, troï¿½ite budï¿½et na radoznale ljude koji nikad nece kupiti.
 
-## �ta zapravo tra�iti u izve�taju
+## ï¿½ta zapravo traï¿½iti u izveï¿½taju
 
-### Koliko novca ste ulo�ili i koliko se vratilo
+### Koliko novca ste uloï¿½ili i koliko se vratilo
 
-Ovo treba da bude na prvoj strani, velikim slovima. Ulo�eno: X evra. Vraceno: Y evra. Razlika: Z evra. Sve ostalo je obja�njenje tog broja.
+Ovo treba da bude na prvoj strani, velikim slovima. Uloï¿½eno: X evra. Vraceno: Y evra. Razlika: Z evra. Sve ostalo je objaï¿½njenje tog broja.
 
 ### Koji kanal donosi kupce
 
-Nije svaki kanal jednako efikasan. Mo�da Facebook donosi jeftine klikove ali skupe kupce. Mo�da Google ko�ta vi�e po kliku ali svaki treci klik postaje prodaja. Izve�taj treba jasno da razdvoji kanale i poka�e koji radi i koji ne radi.
+Nije svaki kanal jednako efikasan. Moï¿½da Facebook donosi jeftine klikove ali skupe kupce. Moï¿½da Google koï¿½ta viï¿½e po kliku ali svaki treci klik postaje prodaja. Izveï¿½taj treba jasno da razdvoji kanale i pokaï¿½e koji radi i koji ne radi.
 
-### �ta je testirano i �ta je nauceno
+### ï¿½ta je testirano i ï¿½ta je nauceno
 
-Dobar izve�taj ne ka�e samo �ta se desilo. Ka�e �ta je testirano, �ta je radilo, �ta nije, i �ta se menja sledeceg meseca. Ako izve�taj nema sekciju "testovi i ucenja", agencija samo pu�ta oglase i nada se. To nije strategija.
+Dobar izveï¿½taj ne kaï¿½e samo ï¿½ta se desilo. Kaï¿½e ï¿½ta je testirano, ï¿½ta je radilo, ï¿½ta nije, i ï¿½ta se menja sledeceg meseca. Ako izveï¿½taj nema sekciju "testovi i ucenja", agencija samo puï¿½ta oglase i nada se. To nije strategija.
 
-### Gde je bud�et potro�en
+### Gde je budï¿½et potroï¿½en
 
-Detaljan pregled potro�nje po kampanji i kanalu. Ako vidite da 70% bud�eta ide na kampanju koja donosi 20% rezultata, znate gde je problem. Ovo je podatak koji mnoge agencije namerno zakopaju duboko u izve�taj.
+Detaljan pregled potroï¿½nje po kampanji i kanalu. Ako vidite da 70% budï¿½eta ide na kampanju koja donosi 20% rezultata, znate gde je problem. Ovo je podatak koji mnoge agencije namerno zakopaju duboko u izveï¿½taj.
 
-## Crvene zastavice u izve�tajima
+## Crvene zastavice u izveï¿½tajima
 
 ### Samo vanity metrike, bez konverzija
 
-Ako ceo izve�taj govori o dosegu, prikazima i engagement-u, a nigde ne pi�e koliko ste zaradili, ne�to nije u redu. Ili agencija ne prati konverzije (veliki problem) ili ih namerno ne prikazuje (jo� veci problem).
+Ako ceo izveï¿½taj govori o dosegu, prikazima i engagement-u, a nigde ne piï¿½e koliko ste zaradili, neï¿½to nije u redu. Ili agencija ne prati konverzije (veliki problem) ili ih namerno ne prikazuje (joï¿½ veci problem).
 
 ### "Rast" bez konteksta
 
-"CTR je porastao za 25%!" U redu. Sa koliko na koliko? Sa 0.4% na 0.5%? To je statisticki rast ali prakticno beznacajan. Svaki procenat u izve�taju treba da ima apsolutnu vrednost pored sebe.
+"CTR je porastao za 25%!" U redu. Sa koliko na koliko? Sa 0.4% na 0.5%? To je statisticki rast ali prakticno beznacajan. Svaki procenat u izveï¿½taju treba da ima apsolutnu vrednost pored sebe.
 
 ### Nema poredenja sa prethodnim periodom
 
-Brojevi bez konteksta su beskorisni. 100 leadova ovog meseca zvuci dobro. Ali ako ste pro�log meseca imali 150, to je pad od 33%. Uvek tra�ite mesec-za-mesec poredenje.
+Brojevi bez konteksta su beskorisni. 100 leadova ovog meseca zvuci dobro. Ali ako ste proï¿½log meseca imali 150, to je pad od 33%. Uvek traï¿½ite mesec-za-mesec poredenje.
 
 ### Jedna strana akcije, pet strana grafova
 
-Dobar izve�taj je kratak na grafikama i dugacak na uvidu i planu. Lo� izve�taj je obrnuto. Ako agencija tro�i 10 strana na grafove a jednu recenicu na "�ta radimo dalje", prioriteti su im pogre�ni.
+Dobar izveï¿½taj je kratak na grafikama i dugacak na uvidu i planu. Loï¿½ izveï¿½taj je obrnuto. Ako agencija troï¿½i 10 strana na grafove a jednu recenicu na "ï¿½ta radimo dalje", prioriteti su im pogreï¿½ni.
 
 ## Pitanja koja morate postaviti agenciji
 
-Posle svakog izve�taja, postavite ova pitanja. Odgovori ce vam reci da li agencija zna �ta radi ili improvizuje.
+Posle svakog izveï¿½taja, postavite ova pitanja. Odgovori ce vam reci da li agencija zna ï¿½ta radi ili improvizuje.
 
-1. **"Koji oglas/kampanja je doneo najvi�e prodaja ovog meseca?"** Ako ne mogu da odgovore za 10 sekundi, ne prate konverzije kako treba.
+1. **"Koji oglas/kampanja je doneo najviï¿½e prodaja ovog meseca?"** Ako ne mogu da odgovore za 10 sekundi, ne prate konverzije kako treba.
 
-2. **"�ta planirate da promenite sledeceg meseca i za�to?"** Ako je odgovor "nastavljamo isto", ili nemaju plan ili im nije stalo. Marketing bez iteracije je bacanje para.
+2. **"ï¿½ta planirate da promenite sledeceg meseca i zaï¿½to?"** Ako je odgovor "nastavljamo isto", ili nemaju plan ili im nije stalo. Marketing bez iteracije je bacanje para.
 
-3. **"Koliki je na� CPA u poredenju sa industrijskim prosekom?"** Ovo pokazuje da li znaju va�u industriju ili rade isti �ablon za sve klijente.
+3. **"Koliki je naï¿½ CPA u poredenju sa industrijskim prosekom?"** Ovo pokazuje da li znaju vaï¿½u industriju ili rade isti ï¿½ablon za sve klijente.
 
-4. **"Gde biste preraspodelili bud�et da imate 20% vi�e?"** Odgovor otkriva da li zaista razumeju �ta radi i gde je prostor za rast.
+4. **"Gde biste preraspodelili budï¿½et da imate 20% viï¿½e?"** Odgovor otkriva da li zaista razumeju ï¿½ta radi i gde je prostor za rast.
 
-5. **"Mo�ete li mi objasniti ovaj pad/rast u jednoj recenici?"** Ako treba 5 minuta da objasne jednostavan podatak, ili ne razumeju ga sami, ili ga namerno komplikuju.
+5. **"Moï¿½ete li mi objasniti ovaj pad/rast u jednoj recenici?"** Ako treba 5 minuta da objasne jednostavan podatak, ili ne razumeju ga sami, ili ga namerno komplikuju.
 
-> Marketing izve�taj ne treba da bude dokument koji citate jednom mesecno iz obaveze. Treba da bude alat koji vam za 5 minuta ka�e: da li zaradujemo, gde zaradujemo najvi�e, i �ta radimo sledece.
+> Marketing izveï¿½taj ne treba da bude dokument koji citate jednom mesecno iz obaveze. Treba da bude alat koji vam za 5 minuta kaï¿½e: da li zaradujemo, gde zaradujemo najviï¿½e, i ï¿½ta radimo sledece.
 
 ## Napravite sopstveni dashboard
 
-Ne morate da cekate mesecni izve�taj da biste znali gde stojite. Evo minimalnog setup-a:
+Ne morate da cekate mesecni izveï¿½taj da biste znali gde stojite. Evo minimalnog setup-a:
 
-1. **Google Analytics 4** na sajtu (besplatno) za pracenje odakle dolaze posetioci i �ta rade
+1. **Google Analytics 4** na sajtu (besplatno) za pracenje odakle dolaze posetioci i ï¿½ta rade
 2. **UTM parametri** na svim linkovima iz oglasa da znate tacno koji oglas je doveo kog kupca
-3. **Nedeljni pregled** 3 kljucna broja: ukupna potro�nja, broj konverzija, CPA
+3. **Nedeljni pregled** 3 kljucna broja: ukupna potroï¿½nja, broj konverzija, CPA
 4. **Mesecni trend** u spreadsheet-u: unosite iste brojeve svaki mesec i pratite kretanje
 
-15 minuta nedeljno. To je sve �to vam treba da nikad vi�e ne budete u mraku oko sopstvenog marketinga.
+15 minuta nedeljno. To je sve ï¿½to vam treba da nikad viï¿½e ne budete u mraku oko sopstvenog marketinga.
 
-Saznajte vi�e o na�em [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
+Saznajte viï¿½e o naï¿½em [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
 
 Takode preporucujemo: [Kako meriti ROI marketinga: KPI vodic za vlasnike firmi](/blog/kako-meriti-roi-marketinga-kpi-vodic).
 
 ---
 
-�elite marketing izve�taje koji zapravo imaju smisla? [Javite nam se](/kontakt). Na�i izve�taji stavljaju zaradu na prvu stranu, ne grafove.
+ï¿½elite marketing izveï¿½taje koji zapravo imaju smisla? [Javite nam se](/kontakt). Naï¿½i izveï¿½taji stavljaju zaradu na prvu stranu, ne grafove.
 `,
   },
   {
     slug: 'zasto-vas-sajt-ne-prodaje',
-    title: 'Za�to va� sajt ne prodaje (i �ta da promenite danas)',
-    excerpt: 'Sajt izgleda lepo, ali telefon ne zvoni. Problem skoro nikad nije u dizajnu. Problem je u tome �to sajt ne radi ono za �ta je napravljen.',
+    title: 'Zaï¿½to vaï¿½ sajt ne prodaje (i ï¿½ta da promenite danas)',
+    excerpt: 'Sajt izgleda lepo, ali telefon ne zvoni. Problem skoro nikad nije u dizajnu. Problem je u tome ï¿½to sajt ne radi ono za ï¿½ta je napravljen.',
     date: '2026-02-27',
     category: 'CRO',
     readTime: '8 min',
     content: `
 ## Lep sajt koji ne zaraduje
 
-Firma ulo�i 2.000 ili 5.000 evra u novi sajt. Dizajn je moderan. Fotografije profesionalne. Logo na mestu. Vlasnik poka�e sajt prijateljima i svi ka�u da izgleda odlicno.
+Firma uloï¿½i 2.000 ili 5.000 evra u novi sajt. Dizajn je moderan. Fotografije profesionalne. Logo na mestu. Vlasnik pokaï¿½e sajt prijateljima i svi kaï¿½u da izgleda odlicno.
 
 Mesec dana kasnije, sajt ima 800 poseta i 2 upita. Od ta 2 upita, jedan pita za cenu i nestane. Vlasnik zakljuci da mu internet ne treba ili da ljudi jednostavno ne kupuju online.
 
-Ni jedno ni drugo nije tacno. Problem je u sajtu, ali ne u tome kako izgleda. Problem je u tome �ta sajt radi, tacnije, �ta ne radi.
+Ni jedno ni drugo nije tacno. Problem je u sajtu, ali ne u tome kako izgleda. Problem je u tome ï¿½ta sajt radi, tacnije, ï¿½ta ne radi.
 
-## Gre�ka broj 1: Nema jasnog poziva na akciju
+## Greï¿½ka broj 1: Nema jasnog poziva na akciju
 
-Otvorite sajt prosecne firme u Srbiji. �ta vidite? Slider sa 3 slike, "Dobrodo�li na na� sajt", paragraf o istoriji firme, i negde dole kontakt forma.
+Otvorite sajt prosecne firme u Srbiji. ï¿½ta vidite? Slider sa 3 slike, "Dobrodoï¿½li na naï¿½ sajt", paragraf o istoriji firme, i negde dole kontakt forma.
 
-Posetioc je do�ao sa Google-a jer ima konkretan problem. Tra�i vodoinstalatera, stomatologa, teretanu, racunovodu. Otvori sajt i dobije korporativnu prezentaciju umesto odgovora na pitanje. Posle 8 sekundi zatvori tab i ode kod konkurencije.
+Posetioc je doï¿½ao sa Google-a jer ima konkretan problem. Traï¿½i vodoinstalatera, stomatologa, teretanu, racunovodu. Otvori sajt i dobije korporativnu prezentaciju umesto odgovora na pitanje. Posle 8 sekundi zatvori tab i ode kod konkurencije.
 
-Svaka stranica na sajtu mora imati jedan jasan poziv na akciju. Ne tri. Ne pet. Jedan. "Zaka�ite termin." "Zatra�ite ponudu." "Pozovite nas." Dugme mora biti vidljivo bez skrolovanja i mora biti ocigledno �ta se desi kad kliknete.
+Svaka stranica na sajtu mora imati jedan jasan poziv na akciju. Ne tri. Ne pet. Jedan. "Zakaï¿½ite termin." "Zatraï¿½ite ponudu." "Pozovite nas." Dugme mora biti vidljivo bez skrolovanja i mora biti ocigledno ï¿½ta se desi kad kliknete.
 
-Firma koja stavi dugme "Zaka�i besplatan pregled" u prvih 3 sekunde posetiocevog iskustva dobija 3-5x vi�e upita od firme koja sakriva kontakt formu na dnu cetvrte stranice.
+Firma koja stavi dugme "Zakaï¿½i besplatan pregled" u prvih 3 sekunde posetiocevog iskustva dobija 3-5x viï¿½e upita od firme koja sakriva kontakt formu na dnu cetvrte stranice.
 
-## Gre�ka broj 2: Govorite o sebi umesto o kupcu
+## Greï¿½ka broj 2: Govorite o sebi umesto o kupcu
 
-"Osnovani 2008. godine, na�a kompanija se bavi..." Ovo nikoga ne zanima. Kupac ne tra�i va�u biografiju. Kupac tra�i re�enje za svoj problem.
+"Osnovani 2008. godine, naï¿½a kompanija se bavi..." Ovo nikoga ne zanima. Kupac ne traï¿½i vaï¿½u biografiju. Kupac traï¿½i reï¿½enje za svoj problem.
 
-Umesto "Mi nudimo profesionalne stomatolo�ke usluge", napi�ite "Zubobolja u 2 ujutru? Primamo hitne slucajeve bez cekanja." Umesto "Na�a firma se bavi web dizajnom od 2015.", napi�ite "Va� sajt ne donosi klijente? Napravicemo vam sajt koji ih privlaci."
+Umesto "Mi nudimo profesionalne stomatoloï¿½ke usluge", napiï¿½ite "Zubobolja u 2 ujutru? Primamo hitne slucajeve bez cekanja." Umesto "Naï¿½a firma se bavi web dizajnom od 2015.", napiï¿½ite "Vaï¿½ sajt ne donosi klijente? Napravicemo vam sajt koji ih privlaci."
 
-Svaka recenica na sajtu treba da odgovori na pitanje koje kupac ima u glavi. A to pitanje nikad nije "kad je ova firma osnovana?" Pitanje je "mogu li oni da re�e moj problem, koliko brzo i koliko me to ko�ta?"
+Svaka recenica na sajtu treba da odgovori na pitanje koje kupac ima u glavi. A to pitanje nikad nije "kad je ova firma osnovana?" Pitanje je "mogu li oni da reï¿½e moj problem, koliko brzo i koliko me to koï¿½ta?"
 
-Prolazite kroz svaku stranicu sajta i za svaku recenicu se zapitajte: da li ovo poma�e kupcu da donese odluku? Ako ne poma�e, ili je promenite ili je obri�ite.
+Prolazite kroz svaku stranicu sajta i za svaku recenicu se zapitajte: da li ovo pomaï¿½e kupcu da donese odluku? Ako ne pomaï¿½e, ili je promenite ili je obriï¿½ite.
 
-## Gre�ka broj 3: Sajt je spor
+## Greï¿½ka broj 3: Sajt je spor
 
-Google je objavio podatak koji mnogi ignori�u: 53% mobilnih korisnika napusti sajt ako se ne ucita za 3 sekunde. Tri sekunde. Toliko traje jedno duboko udisanje.
+Google je objavio podatak koji mnogi ignoriï¿½u: 53% mobilnih korisnika napusti sajt ako se ne ucita za 3 sekunde. Tri sekunde. Toliko traje jedno duboko udisanje.
 
-A prosecan sajt male firme u Srbiji se ucitava 6-8 sekundi na mobilnom. To znaci da polovina posetilaca ode pre nego �to vidi i prvu rec.
+A prosecan sajt male firme u Srbiji se ucitava 6-8 sekundi na mobilnom. To znaci da polovina posetilaca ode pre nego ï¿½to vidi i prvu rec.
 
-Najce�ci krivci: neoptimizovane slike (JPEG od 3MB umesto WebP od 80KB), previ�e plugin-ova na WordPress-u, jeftin hosting koji deli server sa 500 drugih sajtova.
+Najceï¿½ci krivci: neoptimizovane slike (JPEG od 3MB umesto WebP od 80KB), previï¿½e plugin-ova na WordPress-u, jeftin hosting koji deli server sa 500 drugih sajtova.
 
-Testiranje je besplatno. Otvorite PageSpeed Insights, ukucajte svoj sajt i pogledajte rezultat. Ako je ispod 50 na mobilnom, gubite klijente svaki dan. I popravka obicno ne ko�ta mnogo, ali morate znati da problem postoji.
+Testiranje je besplatno. Otvorite PageSpeed Insights, ukucajte svoj sajt i pogledajte rezultat. Ako je ispod 50 na mobilnom, gubite klijente svaki dan. I popravka obicno ne koï¿½ta mnogo, ali morate znati da problem postoji.
 
-## Gre�ka broj 4: Ne radi na telefonu
+## Greï¿½ka broj 4: Ne radi na telefonu
 
-68% svih pretraga u Srbiji dolazi sa mobilnog telefona. Dva od tri potencijalna klijenta gledaju va� sajt na ekranu od 6 inca. Ako treba da zumirate da procitate tekst, ako dugmad ne rade na dodir, ako se stranica raspada na manjem ekranu, gubite vecinu prometa.
+68% svih pretraga u Srbiji dolazi sa mobilnog telefona. Dva od tri potencijalna klijenta gledaju vaï¿½ sajt na ekranu od 6 inca. Ako treba da zumirate da procitate tekst, ako dugmad ne rade na dodir, ako se stranica raspada na manjem ekranu, gubite vecinu prometa.
 
-"Responsivan dizajn" nije bonus. To je minimum. I ne znaci samo da se elementi preslo�e. Znaci da je iskustvo na telefonu jednako dobro kao na racunaru. Tekst citljiv bez zumiranja. Dugmad dovoljno velika za prst. Forme koje ne zahtevaju preciznost hirurga.
+"Responsivan dizajn" nije bonus. To je minimum. I ne znaci samo da se elementi presloï¿½e. Znaci da je iskustvo na telefonu jednako dobro kao na racunaru. Tekst citljiv bez zumiranja. Dugmad dovoljno velika za prst. Forme koje ne zahtevaju preciznost hirurga.
 
-Otvorite svoj sajt na telefonu. Probajte da uradite ono �to biste �eleli da kupac uradi: zaka�ete termin, po�aljete upit, kupite proizvod. Ako vam treba vi�e od 30 sekundi ili ako ste se bilo gde zbunili, zamislite kako se oseca neko ko vas prvi put vidi.
+Otvorite svoj sajt na telefonu. Probajte da uradite ono ï¿½to biste ï¿½eleli da kupac uradi: zakaï¿½ete termin, poï¿½aljete upit, kupite proizvod. Ako vam treba viï¿½e od 30 sekundi ili ako ste se bilo gde zbunili, zamislite kako se oseca neko ko vas prvi put vidi.
 
-## Gre�ka broj 5: Nema socijalnog dokaza
+## Greï¿½ka broj 5: Nema socijalnog dokaza
 
-Kupac je na va�em sajtu. Usluga mu odgovara. Cena je OK. Ali ne�to ga koci. Ne zna da li mo�e da vam veruje. Nikad nije cuo za va�u firmu. Nema koga da pita.
+Kupac je na vaï¿½em sajtu. Usluga mu odgovara. Cena je OK. Ali neï¿½to ga koci. Ne zna da li moï¿½e da vam veruje. Nikad nije cuo za vaï¿½u firmu. Nema koga da pita.
 
-Tu dolaze recenzije, reference i studije slucaja. Jedna recenica zadovoljnog klijenta vredi vi�e od cele stranice "O nama". Broj zavr�enih projekata, godine iskustva, logotipi firmi sa kojima ste radili, sve to smanjuje rizik u kupcevoj glavi.
+Tu dolaze recenzije, reference i studije slucaja. Jedna recenica zadovoljnog klijenta vredi viï¿½e od cele stranice "O nama". Broj zavrï¿½enih projekata, godine iskustva, logotipi firmi sa kojima ste radili, sve to smanjuje rizik u kupcevoj glavi.
 
-Firma bez ijedne recenzije na sajtu tra�i od kupca da im veruje na rec. A na internetu, gde je konkurencija na jedan klik, verovanje na rec nije dovoljno.
+Firma bez ijedne recenzije na sajtu traï¿½i od kupca da im veruje na rec. A na internetu, gde je konkurencija na jedan klik, verovanje na rec nije dovoljno.
 
 Minimum: 3-5 kratkih izjava klijenata sa imenom i firmom. Idealno: studija slucaja sa konkretnim brojevima. "Konverzija je porasla 2x za 3 meseca" ubija svaku sumnju.
 
-## Gre�ka broj 6: Nema pracenja
+## Greï¿½ka broj 6: Nema pracenja
 
-Ovo je najskuplja gre�ka jer je nevidljiva. Sajt radi, ljudi dolaze, ali vi ne znate odakle dolaze, �ta rade na sajtu, gde odustaju.
+Ovo je najskuplja greï¿½ka jer je nevidljiva. Sajt radi, ljudi dolaze, ali vi ne znate odakle dolaze, ï¿½ta rade na sajtu, gde odustaju.
 
-Bez Google Analytics-a (besplatan) ne znate da li va� sajt posecuje 50 ili 500 ljudi mesecno. Bez pracenja konverzija ne znate da li oglas od 300 evra donosi 10 upita ili nijedan. Bez heatmapa ne znate da niko ne skroluje ispod prvog ekrana.
+Bez Google Analytics-a (besplatan) ne znate da li vaï¿½ sajt posecuje 50 ili 500 ljudi mesecno. Bez pracenja konverzija ne znate da li oglas od 300 evra donosi 10 upita ili nijedan. Bez heatmapa ne znate da niko ne skroluje ispod prvog ekrana.
 
 Sajt bez analitike je kao radnja bez kase. Znate da radi, ali ne znate da li zaraduje.
 
-Postavljanje osnovnog pracenja traje sat vremena i ne ko�ta ni�ta. Google Analytics 4, Google Search Console, i Facebook Pixel ako imate oglase. Sa ta tri alata znate odakle dolaze posetioci, �ta rade i da li kupuju.
+Postavljanje osnovnog pracenja traje sat vremena i ne koï¿½ta niï¿½ta. Google Analytics 4, Google Search Console, i Facebook Pixel ako imate oglase. Sa ta tri alata znate odakle dolaze posetioci, ï¿½ta rade i da li kupuju.
 
-## �ta promeniti danas
+## ï¿½ta promeniti danas
 
 Ako niste sigurni odakle da pocnete, evo redosleda po uticaju na rezultat:
 
@@ -6926,235 +7153,235 @@ Ako niste sigurni odakle da pocnete, evo redosleda po uticaju na rezultat:
 
 2. **Brzina sajta** (ovaj vikend). Testirajte na PageSpeed Insights. Kompresujte slike, uklonite nepotrebne plugin-ove.
 
-3. **Mobilno iskustvo** (ovaj vikend). Prodite ceo sajt na telefonu. Sve �to ne radi glatko, popravite ili uklonite.
+3. **Mobilno iskustvo** (ovaj vikend). Prodite ceo sajt na telefonu. Sve ï¿½to ne radi glatko, popravite ili uklonite.
 
 4. **3 recenzije klijenata** (ova nedelja). Zamolite najbolje klijente za kratku izjavu. Stavite na pocetnu stranicu.
 
-5. **Google Analytics** (ova nedelja). Besplatno. Sat vremena za postavljanje. Vrednost: znate �ta se zapravo de�ava.
+5. **Google Analytics** (ova nedelja). Besplatno. Sat vremena za postavljanje. Vrednost: znate ï¿½ta se zapravo deï¿½ava.
 
-> Lep sajt bez konverzija je skupa vizit karta. Sajt koji prodaje ne mora da bude lep. Mora da bude jasan, brz i usmeren na ono �to kupac tra�i.
+> Lep sajt bez konverzija je skupa vizit karta. Sajt koji prodaje ne mora da bude lep. Mora da bude jasan, brz i usmeren na ono ï¿½to kupac traï¿½i.
 
-Pogledajte na� [web design pristup](/web-design) i kako pravimo sajtove koji pretvaraju posetioce u klijente.
+Pogledajte naï¿½ [web design pristup](/web-design) i kako pravimo sajtove koji pretvaraju posetioce u klijente.
 
 Takode preporucujemo: [A/B testiranje: male promene, veliki rezultati](/blog/ab-testiranje-male-promene-veliki-rezultati).
 
 ---
 
-�elite da va� sajt pocne da donosi klijente umesto da samo zauzima prostor na internetu? [Javite nam se](/kontakt). Analiziracemo va� sajt i reci vam tacno �ta treba da se promeni.
+ï¿½elite da vaï¿½ sajt pocne da donosi klijente umesto da samo zauzima prostor na internetu? [Javite nam se](/kontakt). Analiziracemo vaï¿½ sajt i reci vam tacno ï¿½ta treba da se promeni.
 `,
   },
   {
     slug: 'kako-napisati-ponudu-koja-zatvara-posao',
     title: 'Kako napisati ponudu koja zatvara posao za 24 sata',
-    excerpt: 'Vecina ponuda zavr�i u folderu "procitacu kasnije" i nikad se ne otvori ponovo. Evo strukture koja tera klijenta da odgovori danas.',
+    excerpt: 'Vecina ponuda zavrï¿½i u folderu "procitacu kasnije" i nikad se ne otvori ponovo. Evo strukture koja tera klijenta da odgovori danas.',
     date: '2026-02-27',
     category: 'Biznis',
     readTime: '8 min',
     content: `
 ## Ponuda koja ceka je ponuda koja umire
 
-Po�aljete ponudu. Klijent ka�e "Super, proucicu pa vam se javim." Prode dan. Dva. Nedelja. Po�aljete follow-up. Ti�ina. Posle mesec dana vidite da je anga�ovao nekog drugog.
+Poï¿½aljete ponudu. Klijent kaï¿½e "Super, proucicu pa vam se javim." Prode dan. Dva. Nedelja. Poï¿½aljete follow-up. Tiï¿½ina. Posle mesec dana vidite da je angaï¿½ovao nekog drugog.
 
-Nije problem �to je izabrao konkurenciju. Problem je �to va�a ponuda nije bila dovoljno ubedljiva da donese odluku dok je interes bio na vrhuncu. A interes je na vrhuncu u prvih 24 sata posle razgovora. Posle toga, svaki sat koji prode smanjuje �ansu za zatvaranje.
+Nije problem ï¿½to je izabrao konkurenciju. Problem je ï¿½to vaï¿½a ponuda nije bila dovoljno ubedljiva da donese odluku dok je interes bio na vrhuncu. A interes je na vrhuncu u prvih 24 sata posle razgovora. Posle toga, svaki sat koji prode smanjuje ï¿½ansu za zatvaranje.
 
-Ponuda nije dokument koji opisuje �ta radite. Ponuda je alat koji poma�e klijentu da donese odluku. I struktura tog alata je va�nija od toga koliko je lep PDF.
+Ponuda nije dokument koji opisuje ï¿½ta radite. Ponuda je alat koji pomaï¿½e klijentu da donese odluku. I struktura tog alata je vaï¿½nija od toga koliko je lep PDF.
 
-## Problem na prvom mestu, ne va�a usluga
+## Problem na prvom mestu, ne vaï¿½a usluga
 
-Prva stvar koju klijent vidi kad otvori ponudu ne sme da bude lista va�ih usluga. Mora da bude opis njegovog problema. Njegovim recima. Onako kako ga je opisao na sastanku.
+Prva stvar koju klijent vidi kad otvori ponudu ne sme da bude lista vaï¿½ih usluga. Mora da bude opis njegovog problema. Njegovim recima. Onako kako ga je opisao na sastanku.
 
-"Trenutno dobijate oko 15 upita mesecno sa sajta, ali samo 2-3 se pretvaraju u kupce. Va� prosecan klijent vredi 800 evra, �to znaci da gubite potencijalnih 8.000-10.000 evra mesecno na upitima koji propadnu."
+"Trenutno dobijate oko 15 upita mesecno sa sajta, ali samo 2-3 se pretvaraju u kupce. Vaï¿½ prosecan klijent vredi 800 evra, ï¿½to znaci da gubite potencijalnih 8.000-10.000 evra mesecno na upitima koji propadnu."
 
-Ovo radi iz dva razloga. Prvo, klijent vidi da ste ga zaista slu�ali. Drugo, vidi cenu nere�avanja problema. To vi�e nije "tro�i 2.000 evra na marketing". To je "investiraj 2.000 da prestanem da gubim 10.000."
+Ovo radi iz dva razloga. Prvo, klijent vidi da ste ga zaista sluï¿½ali. Drugo, vidi cenu nereï¿½avanja problema. To viï¿½e nije "troï¿½i 2.000 evra na marketing". To je "investiraj 2.000 da prestanem da gubim 10.000."
 
-Ako ne znate tacne brojeve, pitajte pre nego �to po�aljete ponudu. "Koliko upita dobijate mesecno? Koliki je prosecan racun?" Tri pitanja koja menjaju celu dinamiku pregovora.
+Ako ne znate tacne brojeve, pitajte pre nego ï¿½to poï¿½aljete ponudu. "Koliko upita dobijate mesecno? Koliki je prosecan racun?" Tri pitanja koja menjaju celu dinamiku pregovora.
 
 ## Tri opcije, ne jedna
 
-Ponuda sa jednom cenom stavlja klijenta u binarnu poziciju: da ili ne. Ponuda sa tri opcije menja pitanje iz "da li da kupim" u "koju opciju da izaberem". To je ogromna psiholo�ka razlika.
+Ponuda sa jednom cenom stavlja klijenta u binarnu poziciju: da ili ne. Ponuda sa tri opcije menja pitanje iz "da li da kupim" u "koju opciju da izaberem". To je ogromna psiholoï¿½ka razlika.
 
 Struktura koja radi:
 
 **Opcija 1: Starter**
-Minimum koji re�ava glavni problem. Najni�a cena. Za klijente koji �ele da pocnu oprezno.
+Minimum koji reï¿½ava glavni problem. Najniï¿½a cena. Za klijente koji ï¿½ele da pocnu oprezno.
 
 **Opcija 2: Profesionalni** (preporuceno)
-Ovo je opcija koju zapravo �elite da izaberu. Ukljucuje sve iz Startera plus stvari koje znacajno pobolj�avaju rezultat. Oznacite je kao "Najpopularniji" ili "Preporuceno".
+Ovo je opcija koju zapravo ï¿½elite da izaberu. Ukljucuje sve iz Startera plus stvari koje znacajno poboljï¿½avaju rezultat. Oznacite je kao "Najpopularniji" ili "Preporuceno".
 
 **Opcija 3: Premium**
-Za klijente koji �ele sve. Najvi�a cena. Cak i ako je niko ne izabere, postoji zato �to srednju opciju cini razumnijom.
+Za klijente koji ï¿½ele sve. Najviï¿½a cena. Cak i ako je niko ne izabere, postoji zato ï¿½to srednju opciju cini razumnijom.
 
-Kad klijent gleda samo jednu cenu od 3.000 evra, razmi�lja da li je to skupo. Kad gleda 1.500 / 3.000 / 6.000, misli da je 3.000 razuman izbor. Ista cena, potpuno drugacija percepcija.
+Kad klijent gleda samo jednu cenu od 3.000 evra, razmiï¿½lja da li je to skupo. Kad gleda 1.500 / 3.000 / 6.000, misli da je 3.000 razuman izbor. Ista cena, potpuno drugacija percepcija.
 
 ## Rezultat pre metode
 
-Klijenta ne zanima �ta cete raditi. Zanima ga �ta ce on dobiti. "12 SEO optimizovanih blog postova mesecno" je metoda. "Rast organskog prometa za 40-60% u 90 dana" je rezultat.
+Klijenta ne zanima ï¿½ta cete raditi. Zanima ga ï¿½ta ce on dobiti. "12 SEO optimizovanih blog postova mesecno" je metoda. "Rast organskog prometa za 40-60% u 90 dana" je rezultat.
 
-Za svaku stavku u ponudi, postavite pitanje: "Pa �ta?" Radimo SEO optimizaciju. Pa �ta? Pa to znaci da cete se pojavljivati na prvoj strani Google-a za kljucne pretrage u va�em gradu. Pa �ta? Pa to znaci 30-50 novih posetilaca dnevno koji aktivno tra�e va�u uslugu. Ovo poslednje ide u ponudu.
+Za svaku stavku u ponudi, postavite pitanje: "Pa ï¿½ta?" Radimo SEO optimizaciju. Pa ï¿½ta? Pa to znaci da cete se pojavljivati na prvoj strani Google-a za kljucne pretrage u vaï¿½em gradu. Pa ï¿½ta? Pa to znaci 30-50 novih posetilaca dnevno koji aktivno traï¿½e vaï¿½u uslugu. Ovo poslednje ide u ponudu.
 
 Lista rezultata treba da bude konkretna:
 - Broj novih upita mesecno
 - Ocekivani rast prometa
-- U�teda vremena u satima nedeljno
+- Uï¿½teda vremena u satima nedeljno
 - Projektovani ROI u evrima
 
-�to su brojevi konkretniji, ponuda je ubedljivija. "Znacajan rast" ne znaci ni�ta. "+45% konverzija na osnovu rada sa slicnim klijentima" znaci sve.
+ï¿½to su brojevi konkretniji, ponuda je ubedljivija. "Znacajan rast" ne znaci niï¿½ta. "+45% konverzija na osnovu rada sa slicnim klijentima" znaci sve.
 
 ## Vremenski okvir sa miljokazima
 
-Klijent ne �eli da cuje "rezultati za 3-6 meseci". �eli da zna �ta se de�ava svake nedelje. Ponuda treba da sadr�i jasan raspored:
+Klijent ne ï¿½eli da cuje "rezultati za 3-6 meseci". ï¿½eli da zna ï¿½ta se deï¿½ava svake nedelje. Ponuda treba da sadrï¿½i jasan raspored:
 
-**Nedelja 1-2:** Audit, istra�ivanje, postavljanje pracenja
+**Nedelja 1-2:** Audit, istraï¿½ivanje, postavljanje pracenja
 **Nedelja 3-4:** Lansiranje kampanja, prvi testovi
 **Mesec 2:** Optimizacija na osnovu prvih rezultata
-**Mesec 3:** Skaliranje onoga �to radi
+**Mesec 3:** Skaliranje onoga ï¿½to radi
 
-Svaki korak sa konkretnim isporukom. Ne "radimo analizu" nego "dobijate izve�taj od 15 strana sa 3 preporuke za trenutno pobolj�anje".
+Svaki korak sa konkretnim isporukom. Ne "radimo analizu" nego "dobijate izveï¿½taj od 15 strana sa 3 preporuke za trenutno poboljï¿½anje".
 
-Vremenski okvir radi dve stvari: smanjuje strah od nepoznatog i stvara osecaj da se ne�to konkretno de�ava od prvog dana.
+Vremenski okvir radi dve stvari: smanjuje strah od nepoznatog i stvara osecaj da se neï¿½to konkretno deï¿½ava od prvog dana.
 
 ## Socijalni dokaz unutar ponude
 
-Nemojte pretpostavljati da je klijent procitao va� sajt ili video recenzije. Stavite dokaz direktno u ponudu. Jedna mini studija slucaja, tri recenice, koja je relevantna za klijentovu situaciju.
+Nemojte pretpostavljati da je klijent procitao vaï¿½ sajt ili video recenzije. Stavite dokaz direktno u ponudu. Jedna mini studija slucaja, tri recenice, koja je relevantna za klijentovu situaciju.
 
 "Salon Lilium je imao slicnu situaciju: nizak broj online rezervacija uprkos punom rasporedu od preporuka. Posle optimizacije sajta i pokretanja lokalne kampanje, online rezervacije su porasle 260% za 4 meseca."
 
-Ovo nije hvalisanje. Ovo je dokaz da znate �ta radite sa klijentima koji imaju isti problem. Ako imate vi�e relevantnih primera, stavite 2-3. Ako imate tacne brojeve, koristite ih.
+Ovo nije hvalisanje. Ovo je dokaz da znate ï¿½ta radite sa klijentima koji imaju isti problem. Ako imate viï¿½e relevantnih primera, stavite 2-3. Ako imate tacne brojeve, koristite ih.
 
-## Rok va�enja i sledeci korak
+## Rok vaï¿½enja i sledeci korak
 
-Ponuda bez roka je ponuda bez hitnosti. "Ova ponuda va�i do petka, 7. marta" daje klijentu jasan okvir za odluku. Ne zato �to ga pritiskate, nego zato �to kapaciteti jesu ograniceni i cene se menjaju.
+Ponuda bez roka je ponuda bez hitnosti. "Ova ponuda vaï¿½i do petka, 7. marta" daje klijentu jasan okvir za odluku. Ne zato ï¿½to ga pritiskate, nego zato ï¿½to kapaciteti jesu ograniceni i cene se menjaju.
 
-Isto tako, ponuda mora da se zavr�i sa jednim jasnim sledecim korakom. Ne "javite nam se kad budete spremni". Nego:
+Isto tako, ponuda mora da se zavrï¿½i sa jednim jasnim sledecim korakom. Ne "javite nam se kad budete spremni". Nego:
 
 "Da pokrenemo projekat, potrebno je:
 1. Potvrda opcije koja vam odgovara (mejlom ili pozivom)
-2. Potpis ugovora (�aljemo digitalno, 2 minuta)
+2. Potpis ugovora (ï¿½aljemo digitalno, 2 minuta)
 3. Uplata prvog dela (50%)
 Startujemo u roku od 48 sati od potvrde."
 
-Kad je sledeci korak jasan i lak, odluka postaje lak�a. Kad klijent mora da smi�lja �ta da uradi posle citanja ponude, najce�ce ne uradi ni�ta.
+Kad je sledeci korak jasan i lak, odluka postaje lakï¿½a. Kad klijent mora da smiï¿½lja ï¿½ta da uradi posle citanja ponude, najceï¿½ce ne uradi niï¿½ta.
 
 ## Struktura ponude koja radi
 
-Evo redosleda koji koristimo za na�e klijente:
+Evo redosleda koji koristimo za naï¿½e klijente:
 
 1. **Naslov** sa imenom klijenta (personalizacija)
 2. **Rezime problema** (2-3 recenice, njihovim recima)
-3. **Cena nere�avanja** (koliko ih ko�ta status quo mesecno)
-4. **Predlo�eno re�enje** (rezultati, ne metode)
+3. **Cena nereï¿½avanja** (koliko ih koï¿½ta status quo mesecno)
+4. **Predloï¿½eno reï¿½enje** (rezultati, ne metode)
 5. **Tri opcije** sa cenama
 6. **Vremenski okvir** sa miljokazima
 7. **Socijalni dokaz** (1-2 relevantne studije)
 8. **Garancija ili smanjenje rizika** (ako je primenljivo)
-9. **Rok va�enja** i jasan sledeci korak
+9. **Rok vaï¿½enja** i jasan sledeci korak
 
-Cela ponuda na 2-3 strane. Ne 15. Klijent treba da mo�e da je procita za 5 minuta i da zna tacno �ta dobija, koliko ko�ta i �ta treba da uradi.
+Cela ponuda na 2-3 strane. Ne 15. Klijent treba da moï¿½e da je procita za 5 minuta i da zna tacno ï¿½ta dobija, koliko koï¿½ta i ï¿½ta treba da uradi.
 
-> Ponuda nije prezentacija va�e firme. Ponuda je most izmedu klijentovog problema i va�eg re�enja. �to je taj most kraci i jasniji, br�e ga klijent prede.
+> Ponuda nije prezentacija vaï¿½e firme. Ponuda je most izmedu klijentovog problema i vaï¿½eg reï¿½enja. ï¿½to je taj most kraci i jasniji, brï¿½e ga klijent prede.
 
-Ako �elite strukturiran pogled na va� biznis, pogledajte na� [consulting program](/consulting).
+Ako ï¿½elite strukturiran pogled na vaï¿½ biznis, pogledajte naï¿½ [consulting program](/consulting).
 
-Takode preporucujemo: [Anatomija neodoljive ponude: za�to vecina firmi prodaje pogre�no](/blog/ponuda-koju-niko-ne-moze-da-odbije).
+Takode preporucujemo: [Anatomija neodoljive ponude: zaï¿½to vecina firmi prodaje pogreï¿½no](/blog/ponuda-koju-niko-ne-moze-da-odbije).
 
 ---
 
-�elite pomoc da napravite ponudu koja se ne ignori�e? [Javite nam se](/kontakt). Napravicemo vam strukturu koja zatvara posao dok je klijent jo� zagrejan.
+ï¿½elite pomoc da napravite ponudu koja se ne ignoriï¿½e? [Javite nam se](/kontakt). Napravicemo vam strukturu koja zatvara posao dok je klijent joï¿½ zagrejan.
 `,
   },
   {
     slug: 'facebook-vs-instagram-oglasi-gde-je-vasa-publika',
-    title: 'Facebook vs Instagram oglasi: gde je va�a publika?',
-    excerpt: 'Obe platforme koriste isti Ads Manager, ali publika se pona�a potpuno drugacije. Pogre�an izbor platforme znaci bacanje bud�eta.',
+    title: 'Facebook vs Instagram oglasi: gde je vaï¿½a publika?',
+    excerpt: 'Obe platforme koriste isti Ads Manager, ali publika se ponaï¿½a potpuno drugacije. Pogreï¿½an izbor platforme znaci bacanje budï¿½eta.',
     date: '2026-02-27',
     category: 'Marketing',
     readTime: '7 min',
     content: `
 ## Isti sistem, razliciti ljudi
 
-Facebook i Instagram se reklamiraju iz istog Meta Ads Managera. Isti bud�et, isti alati za targetiranje, isti piksel. Zbog toga mnogi vlasnici firmi tretiraju obe platforme kao jednu stvar i pu�taju isti oglas na oba mesta.
+Facebook i Instagram se reklamiraju iz istog Meta Ads Managera. Isti budï¿½et, isti alati za targetiranje, isti piksel. Zbog toga mnogi vlasnici firmi tretiraju obe platforme kao jednu stvar i puï¿½taju isti oglas na oba mesta.
 
-To je gre�ka koja ko�ta. Iste platforme koriste razliciti ljudi sa razlicitim navikama. Nacin na koji neko koristi Facebook u 9 ujutru uz kafu potpuno se razlikuje od toga kako skroluje Instagram u 11 uvece u krevetu. Oglas koji radi na jednoj platformi mo�e da propadne na drugoj.
+To je greï¿½ka koja koï¿½ta. Iste platforme koriste razliciti ljudi sa razlicitim navikama. Nacin na koji neko koristi Facebook u 9 ujutru uz kafu potpuno se razlikuje od toga kako skroluje Instagram u 11 uvece u krevetu. Oglas koji radi na jednoj platformi moï¿½e da propadne na drugoj.
 
-Razumevanje te razlike je osnova za svaku odluku o tome gde staviti bud�et.
+Razumevanje te razlike je osnova za svaku odluku o tome gde staviti budï¿½et.
 
 ## Ko je na Facebooku
 
-Facebook u Srbiji i dalje ima najveci broj korisnika od svih dru�tvenih mre�a. Ali demografija se promenila. Nije vi�e platforma za tinejd�ere. To je platforma za ljude od 30 do 65 godina koji koriste Facebook kao kombinaciju vesti, grupa i Marketplace-a.
+Facebook u Srbiji i dalje ima najveci broj korisnika od svih druï¿½tvenih mreï¿½a. Ali demografija se promenila. Nije viï¿½e platforma za tinejdï¿½ere. To je platforma za ljude od 30 do 65 godina koji koriste Facebook kao kombinaciju vesti, grupa i Marketplace-a.
 
 Prosecan Facebook korisnik u Srbiji:
 - Izmedu 30 i 55 godina
 - Clan je 10-20 grupa (lokalne grupe, hobiji, kupoprodaja)
 - Koristi Marketplace za kupovinu i prodaju
-- Cita du�e tekstualne postove
+- Cita duï¿½e tekstualne postove
 - Reaguje na ponude sa jasnom cenom i koristima
 
-Facebook je jak za lokalne biznise, usluge i B2B. Stomatolog u Novom Sadu, autoservis u Ni�u, racunovodstvena agencija u Beogradu. Ljudi koji tra�e konkretno re�enje za konkretan problem i spremni su da citaju ponudu od 3 paragrafa pre nego �to kliknu.
+Facebook je jak za lokalne biznise, usluge i B2B. Stomatolog u Novom Sadu, autoservis u Niï¿½u, racunovodstvena agencija u Beogradu. Ljudi koji traï¿½e konkretno reï¿½enje za konkretan problem i spremni su da citaju ponudu od 3 paragrafa pre nego ï¿½to kliknu.
 
 ## Ko je na Instagramu
 
-Instagram privlaci mladu publiku, ali ne iskljucivo. Kljucna razlika nije starost nego pona�anje. Instagram korisnik ne cita, gleda. Skroluje brzo. Zaustavlja se na vizuelno privlacnom sadr�aju. Odluku donosi za 1-2 sekunde.
+Instagram privlaci mladu publiku, ali ne iskljucivo. Kljucna razlika nije starost nego ponaï¿½anje. Instagram korisnik ne cita, gleda. Skroluje brzo. Zaustavlja se na vizuelno privlacnom sadrï¿½aju. Odluku donosi za 1-2 sekunde.
 
 Prosecan Instagram korisnik:
 - Izmedu 18 i 40 godina
 - Prati brendove i influensere
 - Kupuje na osnovu vizuelnog utiska
-- Reaguje na Stories i Reels vi�e nego na postove u feed-u
+- Reaguje na Stories i Reels viï¿½e nego na postove u feed-u
 - Ceni estetiku i autenticnost
 
-Instagram je jak za proizvode koje mo�ete pokazati: moda, kozmetika, hrana, name�taj, fitnes. Za usluge radi kad mo�ete da poka�ete rezultat: pre/posle transformacije, snimci iz salona, kratki video testimoniali.
+Instagram je jak za proizvode koje moï¿½ete pokazati: moda, kozmetika, hrana, nameï¿½taj, fitnes. Za usluge radi kad moï¿½ete da pokaï¿½ete rezultat: pre/posle transformacije, snimci iz salona, kratki video testimoniali.
 
 ## Kad koristiti Facebook oglase
 
 ### Lokalne usluge
 
-Zubar, majstor, advokat, salon. Ljudi koji tra�e uslugu u svom gradu. Facebook targeting po lokaciji i interesovanjima je precizniji za ovaj tip biznisa. Lead form oglasi na Facebooku generi�u kontakte po ceni od 1-5 evra za lokalne usluge.
+Zubar, majstor, advokat, salon. Ljudi koji traï¿½e uslugu u svom gradu. Facebook targeting po lokaciji i interesovanjima je precizniji za ovaj tip biznisa. Lead form oglasi na Facebooku generiï¿½u kontakte po ceni od 1-5 evra za lokalne usluge.
 
-Jedan od na�ih klijenata, Focus Fizikal, je sa bud�etom od samo 60 evra generisao 63 prijave za anti-celulit tretman. Cena po prijavi: 0,96 evra. To je moguce zato �to Facebook publika u tim godinama aktivno tra�i zdravstvene i wellness usluge.
+Jedan od naï¿½ih klijenata, Focus Fizikal, je sa budï¿½etom od samo 60 evra generisao 63 prijave za anti-celulit tretman. Cena po prijavi: 0,96 evra. To je moguce zato ï¿½to Facebook publika u tim godinama aktivno traï¿½i zdravstvene i wellness usluge.
 
 ### B2B usluge
 
-Firme koje prodaju drugim firmama. Konsalting, IT usluge, marketing, knjigovodstvo. Vlasnici malih firmi u Srbiji i dalje provode vreme na Facebooku, posebno u poslovnim grupama. Oglas koji se pojavi u feed-u dok citaju grupu "Preduzetnici Srbije" ima vecu �ansu za klik nego isti oglas na Instagramu.
+Firme koje prodaju drugim firmama. Konsalting, IT usluge, marketing, knjigovodstvo. Vlasnici malih firmi u Srbiji i dalje provode vreme na Facebooku, posebno u poslovnim grupama. Oglas koji se pojavi u feed-u dok citaju grupu "Preduzetnici Srbije" ima vecu ï¿½ansu za klik nego isti oglas na Instagramu.
 
-### Proizvodi sa obja�njenjem
+### Proizvodi sa objaï¿½njenjem
 
-Ako va� proizvod zahteva edukaciju kupca (suplementi, softver, specijalizovana oprema), Facebook vam daje prostor za to. Du�i tekst u oglasu, link ka landing stranici sa detaljnim obja�njenjem, carousel format sa vi�e informacija.
+Ako vaï¿½ proizvod zahteva edukaciju kupca (suplementi, softver, specijalizovana oprema), Facebook vam daje prostor za to. Duï¿½i tekst u oglasu, link ka landing stranici sa detaljnim objaï¿½njenjem, carousel format sa viï¿½e informacija.
 
 ## Kad koristiti Instagram oglase
 
 ### Vizuelni proizvodi
 
-Odeca, nakit, kozmetika, hrana, dekoracija. Ako va� proizvod izgleda dobro na slici, Instagram je primarni kanal. Korisnici na Instagramu su naviknuti da kupuju na osnovu vizuelnog utiska. Ceo proces od videnja proizvoda do kupovine mo�e da traje 30 sekundi.
+Odeca, nakit, kozmetika, hrana, dekoracija. Ako vaï¿½ proizvod izgleda dobro na slici, Instagram je primarni kanal. Korisnici na Instagramu su naviknuti da kupuju na osnovu vizuelnog utiska. Ceo proces od videnja proizvoda do kupovine moï¿½e da traje 30 sekundi.
 
-### Brendovi sa �ivotnim stilom
+### Brendovi sa ï¿½ivotnim stilom
 
 Fitnes, putovanja, wellness, luksuz. Instagram ne prodaje proizvod, prodaje osecaj. Firma koja prodaje proteine ne reklamira nutritivne vrednosti. Reklamira transformaciju, energiju, rezultat. To je Instagram jezik.
 
 ### Mlada demografija (18-35)
 
-Ako vam je ciljna grupa ispod 35 godina, Instagram je verovatno primarna platforma. Ne zato �to Facebook nema mlade korisnike, nego zato �to mladi na Facebooku ne kupuju. Na Instagramu kupuju.
+Ako vam je ciljna grupa ispod 35 godina, Instagram je verovatno primarna platforma. Ne zato ï¿½to Facebook nema mlade korisnike, nego zato ï¿½to mladi na Facebooku ne kupuju. Na Instagramu kupuju.
 
 ### Reels i kratki video
 
-Ako imate sadr�aj koji se mo�e pretvoriti u kratki video (15-60 sekundi), Instagram Reels trenutno ima najbolji organski doseg od svih formata na obe platforme. Algoritam gura Reels sadr�aj cak i korisnicima koji vas ne prate. Besplatan doseg koji Facebook vi�e ne nudi.
+Ako imate sadrï¿½aj koji se moï¿½e pretvoriti u kratki video (15-60 sekundi), Instagram Reels trenutno ima najbolji organski doseg od svih formata na obe platforme. Algoritam gura Reels sadrï¿½aj cak i korisnicima koji vas ne prate. Besplatan doseg koji Facebook viï¿½e ne nudi.
 
-## Gre�ke koje vidimo kod klijenata
+## Greï¿½ke koje vidimo kod klijenata
 
 ### Isti kreativ na obe platforme
 
 Oglas sa 4 paragrafa teksta radi na Facebooku. Na Instagramu ga niko ne cita. Oglas sa lepom slikom i 5 reci radi na Instagramu. Na Facebooku ne daje dovoljno informacija za klik.
 
-Svaka platforma zahteva prilagoden kreativ. Ne morate da pravite potpuno razlicite kampanje, ali morate da prilagodite format: du�i tekst za Facebook, jaci vizual za Instagram.
+Svaka platforma zahteva prilagoden kreativ. Ne morate da pravite potpuno razlicite kampanje, ali morate da prilagodite format: duï¿½i tekst za Facebook, jaci vizual za Instagram.
 
-### "Automatski plasmani" bez razmi�ljanja
+### "Automatski plasmani" bez razmiï¿½ljanja
 
-Meta Ads Manager nudi opciju Advantage+ Placements koja automatski rasporeduje bud�et. Ovo mo�e da radi dobro kad imate dovoljno podataka (500+ konverzija mesecno). Za manje bud�ete, rucno razdvajanje platformi daje bolju kontrolu i jasniju sliku �ta radi.
+Meta Ads Manager nudi opciju Advantage+ Placements koja automatski rasporeduje budï¿½et. Ovo moï¿½e da radi dobro kad imate dovoljno podataka (500+ konverzija mesecno). Za manje budï¿½ete, rucno razdvajanje platformi daje bolju kontrolu i jasniju sliku ï¿½ta radi.
 
-### Merenje pogre�nih metrika
+### Merenje pogreï¿½nih metrika
 
 Na Facebooku pratite: CPA (cena po akciji), konverzije, ROAS. Na Instagramu pratite: engagement rate na Reels-u, Story interakcije, klikove na profil, saves. Ista metrika ne znaci isto na obe platforme.
 
-## Kako podeliti bud�et
+## Kako podeliti budï¿½et
 
 Nema univerzalnog odgovora, ali evo polazne tacke:
 
@@ -7170,154 +7397,154 @@ Facebook 80% / Instagram 20%
 **Fitnes, wellness, lifestyle:**
 Facebook 30% / Instagram 70%
 
-Pustite kampanje 2 nedelje sa ovom raspodelom. Pogledajte CPA po platformi. Prebacite bud�et tamo gde je CPA ni�i. Ponovite svake 2 nedelje.
+Pustite kampanje 2 nedelje sa ovom raspodelom. Pogledajte CPA po platformi. Prebacite budï¿½et tamo gde je CPA niï¿½i. Ponovite svake 2 nedelje.
 
-Ovo nije set-and-forget. Efikasnost platformi se menja sa sezonom, sadr�ajem i pona�anjem publike. Ono �to radi u januaru ne mora da radi u junu.
+Ovo nije set-and-forget. Efikasnost platformi se menja sa sezonom, sadrï¿½ajem i ponaï¿½anjem publike. Ono ï¿½to radi u januaru ne mora da radi u junu.
 
-> Ne birajte platformu na osnovu toga gde vi provodite vreme. Birajte na osnovu toga gde va�i kupci donose odluke o kupovini. To su cesto potpuno razlicita mesta.
+> Ne birajte platformu na osnovu toga gde vi provodite vreme. Birajte na osnovu toga gde vaï¿½i kupci donose odluke o kupovini. To su cesto potpuno razlicita mesta.
 
-Saznajte kako [upravljamo dru�tvenim mre�ama](/drustvene-mreze) za firme koje �ele rezultate, ne samo pratioce.
+Saznajte kako [upravljamo druï¿½tvenim mreï¿½ama](/drustvene-mreze) za firme koje ï¿½ele rezultate, ne samo pratioce.
 
-Takode preporucujemo: [Za�to organski doseg umire i �ta pametne firme rade umesto toga](/blog/organski-doseg-umire-sta-raditi).
+Takode preporucujemo: [Zaï¿½to organski doseg umire i ï¿½ta pametne firme rade umesto toga](/blog/organski-doseg-umire-sta-raditi).
 
 ---
 
-Niste sigurni gde va�a publika zapravo jeste? [Javite nam se](/kontakt). Analiziracemo va�e podatke i reci vam tacno gde da stavite svaki evro bud�eta.
+Niste sigurni gde vaï¿½a publika zapravo jeste? [Javite nam se](/kontakt). Analiziracemo vaï¿½e podatke i reci vam tacno gde da stavite svaki evro budï¿½eta.
 `,
   },
   {
     slug: 'koliko-kosta-los-marketing',
-    title: 'Koliko zapravo ko�ta lo� marketing (skriveni tro�kovi koje niko ne pominje)',
-    excerpt: 'Lo� marketing nije besplatan samo zato �to ne daje rezultate. Ko�ta vas mnogo vi�e nego �to mislite, i to na mestima gde ne gledate.',
+    title: 'Koliko zapravo koï¿½ta loï¿½ marketing (skriveni troï¿½kovi koje niko ne pominje)',
+    excerpt: 'Loï¿½ marketing nije besplatan samo zato ï¿½to ne daje rezultate. Koï¿½ta vas mnogo viï¿½e nego ï¿½to mislite, i to na mestima gde ne gledate.',
     date: '2026-02-27',
     category: 'Biznis',
     readTime: '8 min',
     content: `
-## Lo� marketing ima cenu. Samo je ne vidite na fakturi.
+## Loï¿½ marketing ima cenu. Samo je ne vidite na fakturi.
 
-Kad kampanja ne donese rezultate, vlasnik firme obicno ka�e jednu od dve stvari: "Marketing ne radi za na� biznis" ili "Probali smo, bacili smo pare."
+Kad kampanja ne donese rezultate, vlasnik firme obicno kaï¿½e jednu od dve stvari: "Marketing ne radi za naï¿½ biznis" ili "Probali smo, bacili smo pare."
 
-Obe izjave su pogre�ne iz istog razloga. Marketing je radio. Radio je protiv vas.
+Obe izjave su pogreï¿½ne iz istog razloga. Marketing je radio. Radio je protiv vas.
 
-Svaki oglas koji po�aljete u svet radi ne�to. Ili privlaci prave ljude, ili odbija prave ljude i privlaci pogre�ne. "Ni�ta se nije desilo" ne postoji. Uvek se ne�to desi. Pitanje je samo da li ste merili pravu stvar.
+Svaki oglas koji poï¿½aljete u svet radi neï¿½to. Ili privlaci prave ljude, ili odbija prave ljude i privlaci pogreï¿½ne. "Niï¿½ta se nije desilo" ne postoji. Uvek se neï¿½to desi. Pitanje je samo da li ste merili pravu stvar.
 
-Ako vam treba realan okvir koliko marketing uop�te treba da ko�ta kad je zdrav, pogledajte i [cene digitalnog marketinga](/cene-digitalnog-marketinga) kao baznu referencu pre nego �to procenjujete da li je problem u bud�etu ili u izvedbi.
+Ako vam treba realan okvir koliko marketing uopï¿½te treba da koï¿½ta kad je zdrav, pogledajte i [cene digitalnog marketinga](/cene-digitalnog-marketinga) kao baznu referencu pre nego ï¿½to procenjujete da li je problem u budï¿½etu ili u izvedbi.
 
-## Direktni tro�kovi: pare koje vidite
+## Direktni troï¿½kovi: pare koje vidite
 
-Ovo je lak deo. Potro�ili ste 2.000� mesecno na Facebook oglase. Dobili ste 4 upita. Nijedan nije kupio. Rezultat: -2.000�.
+Ovo je lak deo. Potroï¿½ili ste 2.000ï¿½ mesecno na Facebook oglase. Dobili ste 4 upita. Nijedan nije kupio. Rezultat: -2.000ï¿½.
 
-Ali vecina firmi stane tu. Gledaju samo novac koji su uplatili platformi ili agenciji. To je kao da merite �tetu od poplave tako �to gledate samo racun za vodu.
+Ali vecina firmi stane tu. Gledaju samo novac koji su uplatili platformi ili agenciji. To je kao da merite ï¿½tetu od poplave tako ï¿½to gledate samo racun za vodu.
 
-Direktni tro�kovi lo�ih kampanja:
-- Bud�et za oglase koji ne konvertuju
+Direktni troï¿½kovi loï¿½ih kampanja:
+- Budï¿½et za oglase koji ne konvertuju
 - Honorar agencije ili freelancera
 - Alati i pretplate (email platforma, CRM, analitika)
-- Dizajn i produkcija sadr�aja koji niko ne vidi
+- Dizajn i produkcija sadrï¿½aja koji niko ne vidi
 
-Ako ho�ete da uporedite kako taj tro�ak izgleda po kanalu, korisno je da pogledate i [Google reklame cenu](/google-reklame-cena) i [koliko ko�ta Facebook reklama](/koliko-kosta-facebook-reklama), jer tek tada vidite da problem �esto nije u platformi nego u tome kako je kampanja slo�ena.
+Ako hoï¿½ete da uporedite kako taj troï¿½ak izgleda po kanalu, korisno je da pogledate i [Google reklame cenu](/google-reklame-cena) i [koliko koï¿½ta Facebook reklama](/koliko-kosta-facebook-reklama), jer tek tada vidite da problem ï¿½esto nije u platformi nego u tome kako je kampanja sloï¿½ena.
 
-Ovo je obicno 1.000-5.000� mesecno za malu firmu. Neprijatno, ali pre�ivljivo. Problem je �to je ovo tek pocetak.
+Ovo je obicno 1.000-5.000ï¿½ mesecno za malu firmu. Neprijatno, ali preï¿½ivljivo. Problem je ï¿½to je ovo tek pocetak.
 
-## Oportunitetni tro�ak: pare koje niste zaradili
+## Oportunitetni troï¿½ak: pare koje niste zaradili
 
-Svaki mesec koji provedete sa lo�im marketingom je mesec u kome niste imali dobar marketing. To zvuci ocigledno, ali posledice su ogromne.
+Svaki mesec koji provedete sa loï¿½im marketingom je mesec u kome niste imali dobar marketing. To zvuci ocigledno, ali posledice su ogromne.
 
-Recimo da firma mo�e da generi�e 30 kvalitetnih upita mesecno sa dobrim marketingom. Sa lo�im marketingom, generi�e 5. Razlika je 25 upita. Ako prosecna konverzija iznosi 20% i prosecna vrednost klijenta je 500�, to je 25 x 0.2 x 500� = 2.500� izgubljenog prihoda mesecno.
+Recimo da firma moï¿½e da generiï¿½e 30 kvalitetnih upita mesecno sa dobrim marketingom. Sa loï¿½im marketingom, generiï¿½e 5. Razlika je 25 upita. Ako prosecna konverzija iznosi 20% i prosecna vrednost klijenta je 500ï¿½, to je 25 x 0.2 x 500ï¿½ = 2.500ï¿½ izgubljenog prihoda mesecno.
 
-Ali nije samo taj mesec. Ti klijenti bi kupovali ponovo. Preporucivali bi vas. Godi�nji gubitak od jednog lo�eg meseca mo�e biti 10x veci od direktnog tro�ka oglasa.
+Ali nije samo taj mesec. Ti klijenti bi kupovali ponovo. Preporucivali bi vas. Godiï¿½nji gubitak od jednog loï¿½eg meseca moï¿½e biti 10x veci od direktnog troï¿½ka oglasa.
 
-Tri firme u istoj bran�i startuju istog meseca. Firma A pogodi marketing iz starta. Firma B proma�i prvih 6 meseci pa ispravi. Firma C nikad ne ispravi.
+Tri firme u istoj branï¿½i startuju istog meseca. Firma A pogodi marketing iz starta. Firma B promaï¿½i prvih 6 meseci pa ispravi. Firma C nikad ne ispravi.
 
-Posle godinu dana, Firma A ima 300 klijenata i reputaciju. Firma B ima 150 i igra catch-up. Firma C ima 40 i razmi�lja da zatvori.
+Posle godinu dana, Firma A ima 300 klijenata i reputaciju. Firma B ima 150 i igra catch-up. Firma C ima 40 i razmiï¿½lja da zatvori.
 
 Razlika nije bila u proizvodu, ceni ili lokaciji. Razlika je bila u tome koliko brzo su poceli da komuniciraju sa pravim ljudima na pravi nacin.
 
-## Tro�kovi poverenja: �teta koju ne mo�ete izbrisati
+## Troï¿½kovi poverenja: ï¿½teta koju ne moï¿½ete izbrisati
 
 Ovo je najskuplji deo i niko ne prica o njemu.
 
-Lo� oglas nije nevidljiv. Lo� oglas je vidljiv i govori pogre�nu stvar. Svaki covek koji vidi va� lo� oglas formira mi�ljenje o va�em biznisu. I to mi�ljenje ostaje.
+Loï¿½ oglas nije nevidljiv. Loï¿½ oglas je vidljiv i govori pogreï¿½nu stvar. Svaki covek koji vidi vaï¿½ loï¿½ oglas formira miï¿½ljenje o vaï¿½em biznisu. I to miï¿½ljenje ostaje.
 
-Zamislite stomatolo�ku ordinaciju koja na Facebooku reklamira "POPUST 50% NA SVE TRETMANE!!!" sa stock fotografijom nasmejanog modela. �ta potencijalni pacijent zakljuci? Da je ordinacija ocajna za pacijente. Da kvalitet nije prioritet. Da je jeftino = sumnjivo kad su va�i zubi u pitanju.
+Zamislite stomatoloï¿½ku ordinaciju koja na Facebooku reklamira "POPUST 50% NA SVE TRETMANE!!!" sa stock fotografijom nasmejanog modela. ï¿½ta potencijalni pacijent zakljuci? Da je ordinacija ocajna za pacijente. Da kvalitet nije prioritet. Da je jeftino = sumnjivo kad su vaï¿½i zubi u pitanju.
 
-Taj isti covek mo�da vidi bolji oglas iste ordinacije 6 meseci kasnije. Hoce li kliknuti? Verovatno ne. Prvo mi�ljenje je vec formirano.
+Taj isti covek moï¿½da vidi bolji oglas iste ordinacije 6 meseci kasnije. Hoce li kliknuti? Verovatno ne. Prvo miï¿½ljenje je vec formirano.
 
-�teta poverenja se manifestuje ovako:
-- Ljudi vide va� brend i asociraju ga sa niskim kvalitetom
+ï¿½teta poverenja se manifestuje ovako:
+- Ljudi vide vaï¿½ brend i asociraju ga sa niskim kvalitetom
 - Konkurencija sa boljim marketingom postaje default izbor
-- Va�a cena mora da bude ni�a jer brend ne nosi premijum
-- Zapo�ljavanje postaje te�e jer kandidati guglaju firmu
+- Vaï¿½a cena mora da bude niï¿½a jer brend ne nosi premijum
+- Zapoï¿½ljavanje postaje teï¿½e jer kandidati guglaju firmu
 
-> Jedan lo� oglas ne uni�ti biznis. Ali 12 meseci lo�ih oglasa stvori reputaciju iz koje je skupo izaci.
+> Jedan loï¿½ oglas ne uniï¿½ti biznis. Ali 12 meseci loï¿½ih oglasa stvori reputaciju iz koje je skupo izaci.
 
-## Interni tro�kovi: vreme i energija
+## Interni troï¿½kovi: vreme i energija
 
-Vlasnik firme koji se sam bavi marketingom "jer agencija nije radila posao" tro�i 10-15 sati nedeljno na ne�to u cemu nije strucan. Tih 15 sati nedeljno je 60 sati mesecno. Godi�nje, to je 720 sati.
+Vlasnik firme koji se sam bavi marketingom "jer agencija nije radila posao" troï¿½i 10-15 sati nedeljno na neï¿½to u cemu nije strucan. Tih 15 sati nedeljno je 60 sati mesecno. Godiï¿½nje, to je 720 sati.
 
-Ako je satnica vlasnika 50� (konzervativno za nekoga ko vodi firmu), to je 36.000� godi�nje ulo�eno u marketing koji i dalje ne radi. Plus stres. Plus odluke u drugim delovima biznisa koje pate jer vlasnik gleda Facebook Ads Manager umesto da radi ono u cemu je dobar.
+Ako je satnica vlasnika 50ï¿½ (konzervativno za nekoga ko vodi firmu), to je 36.000ï¿½ godiï¿½nje uloï¿½eno u marketing koji i dalje ne radi. Plus stres. Plus odluke u drugim delovima biznisa koje pate jer vlasnik gleda Facebook Ads Manager umesto da radi ono u cemu je dobar.
 
-Interni tim koji poku�ava da radi marketing bez jasne strategije pati od istog problema: puno aktivnosti, malo rezultata. Objavljuju na Instagramu jer "treba biti prisutan." �alju newsletter jer "svi imaju newsletter." Prave blog jer "SEO je bitan."
+Interni tim koji pokuï¿½ava da radi marketing bez jasne strategije pati od istog problema: puno aktivnosti, malo rezultata. Objavljuju na Instagramu jer "treba biti prisutan." ï¿½alju newsletter jer "svi imaju newsletter." Prave blog jer "SEO je bitan."
 
 Aktivnost bez strategije izgleda kao posao. Ali to je trcanje na traci. Puno znoja, nula pomeranja.
 
-## Kako prepoznati da vas marketing ko�ta vi�e nego �to mislite
+## Kako prepoznati da vas marketing koï¿½ta viï¿½e nego ï¿½to mislite
 
 Pet signala da je vreme za promenu:
 
-**1. Ne znate odakle dolaze va�i klijenti.**
-Ako ne mo�ete da ka�ete "42% na�ih klijenata dolazi sa Google pretrage, 28% sa preporuka, 18% sa Facebooka," ne mo�ete ni da znate �ta radi a �ta ne.
+**1. Ne znate odakle dolaze vaï¿½i klijenti.**
+Ako ne moï¿½ete da kaï¿½ete "42% naï¿½ih klijenata dolazi sa Google pretrage, 28% sa preporuka, 18% sa Facebooka," ne moï¿½ete ni da znate ï¿½ta radi a ï¿½ta ne.
 
 **2. Menjate agenciju svake godine.**
 Problem verovatno nije agencija. Problem je ili u ocekivanjima, ili u brifu, ili u samoj ponudi.
 
-**3. Va� marketing izgleda isto kao konkurentski.**
-Ako neko mo�e da zameni va� logo sa logom konkurencije i oglas i dalje ima smisla, nemate pozicioniranje. Imate genericne poruke.
+**3. Vaï¿½ marketing izgleda isto kao konkurentski.**
+Ako neko moï¿½e da zameni vaï¿½ logo sa logom konkurencije i oglas i dalje ima smisla, nemate pozicioniranje. Imate genericne poruke.
 
-**4. Jedina metrika koju pratite je "koliko smo potro�ili."**
-Tro�ak bez konteksta je besmislen broj. 5.000� za 50 klijenata je odlicno. 5.000� za 2 klijenta je katastrofa. Isti iznos, potpuno drugacija prica.
+**4. Jedina metrika koju pratite je "koliko smo potroï¿½ili."**
+Troï¿½ak bez konteksta je besmislen broj. 5.000ï¿½ za 50 klijenata je odlicno. 5.000ï¿½ za 2 klijenta je katastrofa. Isti iznos, potpuno drugacija prica.
 
-**5. Nemate jasan odgovor na "za�to bi neko izabrao vas?"**
-Ako va� tim ne mo�e u jednoj recenici da objasni za�to ste bolji izbor od alternative, nijedan oglas nece pomoci. Marketing pojacava poruku. Ako poruka ne postoji, pojacavate ti�inu.
+**5. Nemate jasan odgovor na "zaï¿½to bi neko izabrao vas?"**
+Ako vaï¿½ tim ne moï¿½e u jednoj recenici da objasni zaï¿½to ste bolji izbor od alternative, nijedan oglas nece pomoci. Marketing pojacava poruku. Ako poruka ne postoji, pojacavate tiï¿½inu.
 
 ## Matematika popravljanja
 
-Uzmimo realan primer. Firma tro�i 3.000� mesecno na marketing koji donosi 10 upita i 2 klijenta (CPA = 1.500�, konverzija upita u klijenta = 20%).
+Uzmimo realan primer. Firma troï¿½i 3.000ï¿½ mesecno na marketing koji donosi 10 upita i 2 klijenta (CPA = 1.500ï¿½, konverzija upita u klijenta = 20%).
 
-Posle revizije strategije, ista firma tro�i 3.000� i dobija 35 upita i 8 klijenata (CPA = 375�, konverzija = 23%).
+Posle revizije strategije, ista firma troï¿½i 3.000ï¿½ i dobija 35 upita i 8 klijenata (CPA = 375ï¿½, konverzija = 23%).
 
-Razlika: 6 klijenata vi�e mesecno. Ako svaki klijent vredi 800�, to je 4.800� dodatnog prihoda. Za istu investiciju.
+Razlika: 6 klijenata viï¿½e mesecno. Ako svaki klijent vredi 800ï¿½, to je 4.800ï¿½ dodatnog prihoda. Za istu investiciju.
 
-Za godinu dana: 57.600� razlike. A klijenti kupuju ponovo, preporucuju, ostavljaju recenzije. Compound efekat radi za vas umesto protiv vas.
+Za godinu dana: 57.600ï¿½ razlike. A klijenti kupuju ponovo, preporucuju, ostavljaju recenzije. Compound efekat radi za vas umesto protiv vas.
 
-Ne morate da tro�ite vi�e. Morate da tro�ite pametnije. I morate da pocnete �to pre, jer svaki mesec lo�eg marketinga je mesec u kome vam konkurencija uzima klijente koje ste vi trebali da imate.
+Ne morate da troï¿½ite viï¿½e. Morate da troï¿½ite pametnije. I morate da pocnete ï¿½to pre, jer svaki mesec loï¿½eg marketinga je mesec u kome vam konkurencija uzima klijente koje ste vi trebali da imate.
 
-Ako u ovom trenutku niste sigurni gde ta�no curi novac, dva najprakti�nija slede�a koraka su [konsultantski pregled prioriteta](/consulting) i provera da li vam sajt uop�te zatvara dovoljno dobro kroz [CRO optimizaciju](/cro).
+Ako u ovom trenutku niste sigurni gde taï¿½no curi novac, dva najpraktiï¿½nija sledeï¿½a koraka su [konsultantski pregled prioriteta](/consulting) i provera da li vam sajt uopï¿½te zatvara dovoljno dobro kroz [CRO optimizaciju](/cro).
 
-Saznajte vi�e o na�em [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
+Saznajte viï¿½e o naï¿½em [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
 
-Takode preporucujemo: [Kako napraviti marketing bud�et koji ima smisla](/blog/kako-napraviti-marketing-budzet-koji-ima-smisla).
+Takode preporucujemo: [Kako napraviti marketing budï¿½et koji ima smisla](/blog/kako-napraviti-marketing-budzet-koji-ima-smisla).
 
 ---
 
-�elite da izracunamo koliko vas zapravo ko�ta trenutni marketing? [Javite nam se](/kontakt) za besplatnu analizu. Pogledacemo va�e brojke i reci vam gde curi novac.
+ï¿½elite da izracunamo koliko vas zapravo koï¿½ta trenutni marketing? [Javite nam se](/kontakt) za besplatnu analizu. Pogledacemo vaï¿½e brojke i reci vam gde curi novac.
 `,
   },
   {
     slug: 'kako-napraviti-landing-stranicu-koja-konvertuje',
     title: 'Kako napraviti landing stranicu koja konvertuje 20%+',
-    excerpt: 'Vecina landing stranica konvertuje 2-3% posetilaca. Neke konvertuju 20% i vi�e. Razlika nije u dizajnu. Razlika je u strukturi.',
+    excerpt: 'Vecina landing stranica konvertuje 2-3% posetilaca. Neke konvertuju 20% i viï¿½e. Razlika nije u dizajnu. Razlika je u strukturi.',
     date: '2026-02-27',
     category: 'CRO',
     readTime: '9 min',
     content: `
-## Prosecna landing stranica je skupa gre�ka
+## Prosecna landing stranica je skupa greï¿½ka
 
-Svaki posetilac koji dode na landing stranicu i ode bez akcije je bacen novac. Ako placate klik 1� i konvertujete 2% posetilaca, va� stvarni tro�ak po klijentu je 50�. Sa konverzijom od 20%, taj isti klik ko�ta 5� po klijentu.
+Svaki posetilac koji dode na landing stranicu i ode bez akcije je bacen novac. Ako placate klik 1ï¿½ i konvertujete 2% posetilaca, vaï¿½ stvarni troï¿½ak po klijentu je 50ï¿½. Sa konverzijom od 20%, taj isti klik koï¿½ta 5ï¿½ po klijentu.
 
-Ista reklama. Isti bud�et. Deset puta jeftiniji rezultat. Jedina promenljiva je stranica na koju klik vodi.
+Ista reklama. Isti budï¿½et. Deset puta jeftiniji rezultat. Jedina promenljiva je stranica na koju klik vodi.
 
-Problem je �to vecina firmi pravi landing stranice po osecaju. Lep dizajn, par recenica o firmi, kontakt forma na dnu. To nije landing stranica. To je digitalna vizit karta koju niko ne cita.
+Problem je ï¿½to vecina firmi pravi landing stranice po osecaju. Lep dizajn, par recenica o firmi, kontakt forma na dnu. To nije landing stranica. To je digitalna vizit karta koju niko ne cita.
 
 ## Anatomija stranice koja konvertuje
 
@@ -7325,28 +7552,28 @@ Stranice sa visokom konverzijom nisu slucajnost. Sve dele istu strukturu, bez ob
 
 **1. Naslov koji govori rezultat, ne proces**
 
-Lo� naslov: "Marketing usluge za va� biznis"
-Dobar naslov: "Dobijte 3x vi�e upita bez povecanja bud�eta za oglase"
+Loï¿½ naslov: "Marketing usluge za vaï¿½ biznis"
+Dobar naslov: "Dobijte 3x viï¿½e upita bez povecanja budï¿½eta za oglase"
 
 Posetilac donosi odluku da li ostaje ili odlazi u prvih 3-5 sekundi. U tom vremenu procita naslov i podnaslov. Ako tu ne vidi konkretan razlog da ostane, zatvara tab.
 
-Naslov mora da odgovori na pitanje: "�ta ja dobijam ako ostanem na ovoj stranici?"
+Naslov mora da odgovori na pitanje: "ï¿½ta ja dobijam ako ostanem na ovoj stranici?"
 
-**2. Podnaslov koji obja�njava kako**
+**2. Podnaslov koji objaï¿½njava kako**
 
-Naslov hvata pa�nju. Podnaslov daje dovoljno konteksta da posetilac nastavi da cita. Ne treba da objasni sve, samo da poka�e da postoji konkretan put od problema do re�enja.
+Naslov hvata paï¿½nju. Podnaslov daje dovoljno konteksta da posetilac nastavi da cita. Ne treba da objasni sve, samo da pokaï¿½e da postoji konkretan put od problema do reï¿½enja.
 
-"Na� tim analizira va�e trenutne kampanje, identifikuje gde curite novac i pravi plan koji donosi merljive rezultate za 30 dana."
+"Naï¿½ tim analizira vaï¿½e trenutne kampanje, identifikuje gde curite novac i pravi plan koji donosi merljive rezultate za 30 dana."
 
 **3. Vizuelni dokaz iznad fold-a**
 
-Pre nego �to covek procita i jednu rec teksta, oci skeniraju stranicu. Ako vidi screenshot rezultata, video testimonial ili brojku u velikom fontu, to mu signalizira: "Ovo je ozbiljno."
+Pre nego ï¿½to covek procita i jednu rec teksta, oci skeniraju stranicu. Ako vidi screenshot rezultata, video testimonial ili brojku u velikom fontu, to mu signalizira: "Ovo je ozbiljno."
 
-Neke od najkonvertnijih stranica koje smo radili imaju samo broj iznad fold-a. "64,4M RSD" ili "63 prijave za �60". Ni�ta drugo ne treba da ka�e "mi znamo �ta radimo" bolje od konkretnog rezultata.
+Neke od najkonvertnijih stranica koje smo radili imaju samo broj iznad fold-a. "64,4M RSD" ili "63 prijave za ï¿½60". Niï¿½ta drugo ne treba da kaï¿½e "mi znamo ï¿½ta radimo" bolje od konkretnog rezultata.
 
-## Gre�ka broj 1: previ�e opcija
+## Greï¿½ka broj 1: previï¿½e opcija
 
-Jedna stranica = jedan cilj. Ni vi�e, ni manje.
+Jedna stranica = jedan cilj. Ni viï¿½e, ni manje.
 
 Ako landing stranica ima navigaciju ka drugim stranicama, linkove ka blogu, tri razlicite ponude i dva CTA dugmeta sa razlicitim akcijama, posetilac je zbunjen. Zbunjen posetilac ne kupuje. Zbunjen posetilac zatvara tab.
 
@@ -7354,15 +7581,15 @@ Svaki link koji ne vodi ka konverziji je izlaz sa stranice. Svaki izlaz smanjuje
 
 Najbolje landing stranice nemaju navigaciju, nemaju footer sa 20 linkova i nemaju sidebar. Imaju jedan put: od vrha do dna, do dugmeta.
 
-## Gre�ka broj 2: fokus na sebi umesto na kupcu
+## Greï¿½ka broj 2: fokus na sebi umesto na kupcu
 
 "Mi smo firma sa 15 godina iskustva, sertifikovanim timom i modernom opremom."
 
 Nikoga nije briga. Bar ne na pocetku.
 
-Posetilac je do�ao sa problemom. Hoce da sazna da li vi re�avate taj problem. Ako prvih 300 reci pricaju o vama, o va�im nagradama, o va�oj misiji, posetilac je vec oti�ao.
+Posetilac je doï¿½ao sa problemom. Hoce da sazna da li vi reï¿½avate taj problem. Ako prvih 300 reci pricaju o vama, o vaï¿½im nagradama, o vaï¿½oj misiji, posetilac je vec otiï¿½ao.
 
-Struktura koja radi: prvo njegov problem, pa va�e re�enje, pa dokaz da re�enje funkcioni�e, pa tek onda ko ste vi.
+Struktura koja radi: prvo njegov problem, pa vaï¿½e reï¿½enje, pa dokaz da reï¿½enje funkcioniï¿½e, pa tek onda ko ste vi.
 
 ## Sekcija koja menja sve: social proof
 
@@ -7370,63 +7597,63 @@ Ljudi veruju ljudima. Ne veruju firmama, brendovima ni reklamama. Veruju drugim 
 
 Testimonijali na landing stranici povecavaju konverziju u proseku za 34%. Ali ne bilo kakvi testimonijali.
 
-**Lo� testimonijal:** "Odlican tim, preporucujem!" � Petar P.
+**Loï¿½ testimonijal:** "Odlican tim, preporucujem!" ï¿½ Petar P.
 
-**Dobar testimonijal:** "Za 3 meseca nam je promet porastao sa 400.000 na 2.400.000 RSD mesecno. Konacno imamo predvidljiv tok klijenata." � Dr. Marko, Ordinacija Medifizio
+**Dobar testimonijal:** "Za 3 meseca nam je promet porastao sa 400.000 na 2.400.000 RSD mesecno. Konacno imamo predvidljiv tok klijenata." ï¿½ Dr. Marko, Ordinacija Medifizio
 
 Razlika je u specificnosti. Konkretan broj, konkretan vremenski okvir, konkretan rezultat. To je dokaz, ne kompliment.
 
-## Forma: manje polja = vi�e konverzija
+## Forma: manje polja = viï¿½e konverzija
 
-Svako polje u formi je prepreka. Istra�ivanja pokazuju da smanjenje broja polja sa 11 na 4 povecava konverziju za 120%.
+Svako polje u formi je prepreka. Istraï¿½ivanja pokazuju da smanjenje broja polja sa 11 na 4 povecava konverziju za 120%.
 
 Za prvu konverziju vam treba: ime i email. Ili ime i broj telefona. To je dovoljno da zapocnete razgovor.
 
-Firme koje tra�e naziv firme, poziciju, bud�et, industriju, broj zaposlenih i krvnu grupu na prvom kontaktu gube vecinu potencijalnih klijenata. Te informacije dobijate u razgovoru, ne u formi.
+Firme koje traï¿½e naziv firme, poziciju, budï¿½et, industriju, broj zaposlenih i krvnu grupu na prvom kontaktu gube vecinu potencijalnih klijenata. Te informacije dobijate u razgovoru, ne u formi.
 
 ## CTA dugme: jedno, jasno, vidljivo
 
-"Po�alji" nije CTA. "Saznajte vi�e" nije CTA.
+"Poï¿½alji" nije CTA. "Saznajte viï¿½e" nije CTA.
 
-CTA mora da ka�e �ta posetilac dobija kad klikne:
-- "Zaka�i besplatnu analizu"
+CTA mora da kaï¿½e ï¿½ta posetilac dobija kad klikne:
+- "Zakaï¿½i besplatnu analizu"
 - "Dobij ponudu za 24h"
 - "Pokreni kampanju"
 
-Dugme mora da bude kontrastne boje u odnosu na ostatak stranice. Ako je sajt prete�no beo i plav, dugme je narand�asto ili zeleno. Poenta je da se ne mo�e ne primetiti.
+Dugme mora da bude kontrastne boje u odnosu na ostatak stranice. Ako je sajt preteï¿½no beo i plav, dugme je narandï¿½asto ili zeleno. Poenta je da se ne moï¿½e ne primetiti.
 
 I ne samo jedno dugme na dnu. CTA se ponavlja minimum 3 puta: posle naslova, posle social proof sekcije i na samom dnu.
 
 ## Brzina ucitavanja: tihi ubica konverzije
 
-Svaka sekunda ka�njenja smanjuje konverziju za 7%. Ako se stranica ucitava 5 sekundi umesto 2, izgubili ste 21% potencijalnih klijenata pre nego �to su videli i jednu rec.
+Svaka sekunda kaï¿½njenja smanjuje konverziju za 7%. Ako se stranica ucitava 5 sekundi umesto 2, izgubili ste 21% potencijalnih klijenata pre nego ï¿½to su videli i jednu rec.
 
-Stvari koje usporavaju landing stranicu: velike slike koje nisu kompresovane, nepotrebni skriptovi, spor hosting, previ�e fontova.
+Stvari koje usporavaju landing stranicu: velike slike koje nisu kompresovane, nepotrebni skriptovi, spor hosting, previï¿½e fontova.
 
-Testiranje brzine: Google PageSpeed Insights, besplatan alat. Ako skor nije iznad 85 na mobilnom, imate problem koji vas ko�ta novca svaki dan.
+Testiranje brzine: Google PageSpeed Insights, besplatan alat. Ako skor nije iznad 85 na mobilnom, imate problem koji vas koï¿½ta novca svaki dan.
 
-## Mobilni korisnici: 70% va�eg saobracaja
+## Mobilni korisnici: 70% vaï¿½eg saobracaja
 
-Ako landing stranica ne izgleda savr�eno na telefonu, gubite vecinu posetilaca. Ne "dobro izgleda". Savr�eno.
+Ako landing stranica ne izgleda savrï¿½eno na telefonu, gubite vecinu posetilaca. Ne "dobro izgleda". Savrï¿½eno.
 
-To znaci: tekst citljiv bez zumiranja, dugme dovoljno veliko za palac, forma koja se mo�e popuniti jednom rukom, slike koje se brzo ucitavaju na mobilnom internetu.
+To znaci: tekst citljiv bez zumiranja, dugme dovoljno veliko za palac, forma koja se moï¿½e popuniti jednom rukom, slike koje se brzo ucitavaju na mobilnom internetu.
 
 Vecina firmi pravi landing stranicu na desktop-u i onda "prilagodi za mobilni". Trebalo bi da bude obrnuto. Napravite za mobilni, pa prilagodite za desktop.
 
-## Testiranje: jedini nacin da saznate �ta radi
+## Testiranje: jedini nacin da saznate ï¿½ta radi
 
-Nikad ne lansirajte jednu verziju landing stranice i smatrajte posao zavr�enim.
+Nikad ne lansirajte jednu verziju landing stranice i smatrajte posao zavrï¿½enim.
 
-A/B testiranje je jedini pouzdan nacin da saznate �ta va�i posetioci zapravo hoce. Promenite naslov, pustite 500 posetilaca na svaku verziju, pogledajte brojke. Promenite boju dugmeta. Promenite redosled sekcija. Promenite sliku.
+A/B testiranje je jedini pouzdan nacin da saznate ï¿½ta vaï¿½i posetioci zapravo hoce. Promenite naslov, pustite 500 posetilaca na svaku verziju, pogledajte brojke. Promenite boju dugmeta. Promenite redosled sekcija. Promenite sliku.
 
-Male promene daju velike rezultate. Jedan na� klijent je promenio naslov sa "Zakazite konsultacije" na "Saznajte koliko gubite na lo�em marketingu" i konverzija je skocila sa 3.8% na 11.2%.
+Male promene daju velike rezultate. Jedan naï¿½ klijent je promenio naslov sa "Zakazite konsultacije" na "Saznajte koliko gubite na loï¿½em marketingu" i konverzija je skocila sa 3.8% na 11.2%.
 
 ## Ceklista za landing stranicu koja konvertuje
 
-Pre nego �to pustite stranicu live, proverite:
+Pre nego ï¿½to pustite stranicu live, proverite:
 
 - ? Naslov govori rezultat, ne proces
-- ? Podnaslov obja�njava kako u jednoj recenici
+- ? Podnaslov objaï¿½njava kako u jednoj recenici
 - ? Vizuelni dokaz iznad fold-a (broj, screenshot, video)
 - ? Nema navigacije ni sporednih linkova
 - ? Social proof sa konkretnim brojevima
@@ -7437,191 +7664,191 @@ Pre nego �to pustite stranicu live, proverite:
 - ? Mobilni prikaz testiran na pravom telefonu
 - ? Jedna ponuda, jedan cilj, jedna akcija
 
-## Konverzija nije sreca. Konverzija je in�enjering
+## Konverzija nije sreca. Konverzija je inï¿½enjering
 
-Landing stranice koje konvertuju 20%+ ne nastaju slucajno. Nastaju iz razumevanja kako ljudi donose odluke, �ta ih koci i �ta ih pokrece.
+Landing stranice koje konvertuju 20%+ ne nastaju slucajno. Nastaju iz razumevanja kako ljudi donose odluke, ï¿½ta ih koci i ï¿½ta ih pokrece.
 
-Svaka sekcija na stranici ima posao. Naslov hvata pa�nju. Tekst gradi poverenje. Social proof elimini�e sumnju. CTA daje jasnu sledecu akciju.
+Svaka sekcija na stranici ima posao. Naslov hvata paï¿½nju. Tekst gradi poverenje. Social proof eliminiï¿½e sumnju. CTA daje jasnu sledecu akciju.
 
 Kad sve to radi zajedno, konverzija raste. Ne za 10-20%. Za 3x, 5x, ponekad 10x.
 
-Pogledajte na� [web design pristup](/web-design) i kako pravimo sajtove koji pretvaraju posetioce u klijente.
+Pogledajte naï¿½ [web design pristup](/web-design) i kako pravimo sajtove koji pretvaraju posetioce u klijente.
 
-Takode preporucujemo: [Za�to va� sajt ne prodaje (i �ta da promenite danas)](/blog/zasto-vas-sajt-ne-prodaje).
+Takode preporucujemo: [Zaï¿½to vaï¿½ sajt ne prodaje (i ï¿½ta da promenite danas)](/blog/zasto-vas-sajt-ne-prodaje).
 
 ---
 
-�elite da napravimo landing stranicu koja zapravo konvertuje va�e posetioce u klijente? [Javite nam se](/kontakt) i pogledacemo �ta mo�emo da uradimo sa va�im saobracajem.
+ï¿½elite da napravimo landing stranicu koja zapravo konvertuje vaï¿½e posetioce u klijente? [Javite nam se](/kontakt) i pogledacemo ï¿½ta moï¿½emo da uradimo sa vaï¿½im saobracajem.
 `,
   },
   {
     slug: 'kako-povecati-online-prodaju',
     title: 'Kako povecati prodaju online prodavnice: 10 konkretnih koraka',
-    excerpt: 'Imati web shop i imati web shop koji prodaje su dve potpuno razlicite stvari. Evo �ta zapravo radi na srpskom tr�i�tu u 2026.',
+    excerpt: 'Imati web shop i imati web shop koji prodaje su dve potpuno razlicite stvari. Evo ï¿½ta zapravo radi na srpskom trï¿½iï¿½tu u 2026.',
     date: '2026-03-05',
     category: 'E-Commerce',
     readTime: '9 min',
     content: `
 ## Vecina online prodavnica u Srbiji ne prodaje dovoljno
 
-Nije problem u proizvodu. Nije ni u ceni. Problem je �to vecina vlasnika tretira web shop kao digitalnu vitrinu, ubaci proizvode, stavi cene i ceka. A onda se cude kad jedini koji kupuju su prijatelji i rodbina.
+Nije problem u proizvodu. Nije ni u ceni. Problem je ï¿½to vecina vlasnika tretira web shop kao digitalnu vitrinu, ubaci proizvode, stavi cene i ceka. A onda se cude kad jedini koji kupuju su prijatelji i rodbina.
 
-Online prodaja u Srbiji raste svake godine, ali rast tr�i�ta ne znaci automatski rast va�e prodavnice. Neko taj novac uzima. Pitanje je samo ko.
+Online prodaja u Srbiji raste svake godine, ali rast trï¿½iï¿½ta ne znaci automatski rast vaï¿½e prodavnice. Neko taj novac uzima. Pitanje je samo ko.
 
-Evo 10 stvari koje zapravo pomeraju prodaju. Sve testirane na srpskom tr�i�tu, sa realnim brojevima.
+Evo 10 stvari koje zapravo pomeraju prodaju. Sve testirane na srpskom trï¿½iï¿½tu, sa realnim brojevima.
 
 ## 1. Popravite brzinu sajta pre bilo cega drugog
 
-Svaka sekunda sporije ucitavanja smanjuje konverziju za oko 7%. Ako vam sajt ucitava 5 sekundi umesto 2, gubite otprilike 20% potencijalnih kupaca. Oni ni ne vide va�e proizvode.
+Svaka sekunda sporije ucitavanja smanjuje konverziju za oko 7%. Ako vam sajt ucitava 5 sekundi umesto 2, gubite otprilike 20% potencijalnih kupaca. Oni ni ne vide vaï¿½e proizvode.
 
-Proverite brzinu na [PageSpeed Insights](https://pagespeed.web.dev/) i ciljajte skor iznad 80 za mobilne uredaje. Najveci problemi su obicno prevelike slike (koristite WebP format), previ�e pluginova i lo� hosting.
+Proverite brzinu na [PageSpeed Insights](https://pagespeed.web.dev/) i ciljajte skor iznad 80 za mobilne uredaje. Najveci problemi su obicno prevelike slike (koristite WebP format), previï¿½e pluginova i loï¿½ hosting.
 
 ## 2. Pojednostavite checkout do bola
 
-65% kupaca u Srbiji i dalje preferira pouzece. Ako va� checkout tra�i registraciju, 15 polja za popunjavanje i tri koraka potvrde, izgubili ste ih pre nego �to su stigli do dugmeta "Naruci".
+65% kupaca u Srbiji i dalje preferira pouzece. Ako vaï¿½ checkout traï¿½i registraciju, 15 polja za popunjavanje i tri koraka potvrde, izgubili ste ih pre nego ï¿½to su stigli do dugmeta "Naruci".
 
-Omogucite gostujucu kupovinu. Smanjite polja na minimum: ime, adresa, telefon. Ponudite pouzece kao prvu opciju, karticu kao drugu. Svako polje koje mo�ete da uklonite vredi 1-3% konverzije.
+Omogucite gostujucu kupovinu. Smanjite polja na minimum: ime, adresa, telefon. Ponudite pouzece kao prvu opciju, karticu kao drugu. Svako polje koje moï¿½ete da uklonite vredi 1-3% konverzije.
 
-## 3. Stranice proizvoda su va�i prodavci
+## 3. Stranice proizvoda su vaï¿½i prodavci
 
-Lo�a stranica proizvoda ubija prodaju. Jedna mala slika, dva reda opisa i dugme "Kupi" nije dovoljno.
+Loï¿½a stranica proizvoda ubija prodaju. Jedna mala slika, dva reda opisa i dugme "Kupi" nije dovoljno.
 
-�ta radi:
+ï¿½ta radi:
 - **5-8 fotografija** iz razlicitih uglova, na beloj pozadini i u kontekstu
 - **Video od 15-30 sekundi** koji pokazuje proizvod u upotrebi
-- **Opis koji re�ava problem**, ne lista karakteristike. "Dr�i temperaturu 12 sati" umesto "termos od 500ml"
+- **Opis koji reï¿½ava problem**, ne lista karakteristike. "Drï¿½i temperaturu 12 sati" umesto "termos od 500ml"
 - **Recenzije kupaca.** Proizvodi sa barem 5 recenzija konvertuju 270% bolje od onih bez ijedne. Molite kupce za review nakon isporuke.
 
 ## 4. Retargeting nije opcija, obavezan je
 
 97% posetilaca nece kupiti iz prvog dolaska. Ali 70% od tih 97% ce kupiti u sledecih 30 dana, pod uslovom da ih podsetite da postoji.
 
-Meta retargeting (Facebook + Instagram) za web shopove u Srbiji ima CPC oko 0,03-0,08�. Za bud�et od 5-10� dnevno pratite ljude koji su gledali proizvode i pokazujete im upravo te proizvode ponovo. ROI na retargetingu je obicno 5-10x jer ciljate ljude koji su vec pokazali nameru.
+Meta retargeting (Facebook + Instagram) za web shopove u Srbiji ima CPC oko 0,03-0,08ï¿½. Za budï¿½et od 5-10ï¿½ dnevno pratite ljude koji su gledali proizvode i pokazujete im upravo te proizvode ponovo. ROI na retargetingu je obicno 5-10x jer ciljate ljude koji su vec pokazali nameru.
 
-## 5. Email nije mrtav, vi samo ne �aljete
+## 5. Email nije mrtav, vi samo ne ï¿½aljete
 
-Email marketing i dalje ima najbolji ROI od svih kanala. 36� za svaki ulo�eni 1�, prema proseku u e-commerce-u. U Srbiji ga skoro niko ne koristi kako treba.
+Email marketing i dalje ima najbolji ROI od svih kanala. 36ï¿½ za svaki uloï¿½eni 1ï¿½, prema proseku u e-commerce-u. U Srbiji ga skoro niko ne koristi kako treba.
 
 Minimum koji vam treba:
-- **Dobrodo�lica** (automatski email sa kuponom 10% za prvu kupovinu)
-- **Napu�tena korpa** (email 1h nakon napu�tanja, pa jo� jedan posle 24h)
+- **Dobrodoï¿½lica** (automatski email sa kuponom 10% za prvu kupovinu)
+- **Napuï¿½tena korpa** (email 1h nakon napuï¿½tanja, pa joï¿½ jedan posle 24h)
 - **Post-purchase** (zahvalnica + pitanje za recenziju 7 dana nakon isporuke)
 
-Ova tri automatska emaila mogu da podignu prihod za 15-25% bez ikakvog dodatnog truda nakon pode�avanja.
+Ova tri automatska emaila mogu da podignu prihod za 15-25% bez ikakvog dodatnog truda nakon podeï¿½avanja.
 
 ## 6. Google Shopping za Srbiju
 
-Google Shopping oglasi prikazuju va�e proizvode sa slikom, cenom i nazivom direktno u Google pretrazi. U Srbiji je konkurencija na Shopping-u i dalje relativno mala, �to znaci niske CPC-ove.
+Google Shopping oglasi prikazuju vaï¿½e proizvode sa slikom, cenom i nazivom direktno u Google pretrazi. U Srbiji je konkurencija na Shopping-u i dalje relativno mala, ï¿½to znaci niske CPC-ove.
 
-Treba vam Google Merchant Center nalog i XML feed proizvoda. Vecina platformi (WooCommerce, Shopify) ima pluginove koji generi�u feed automatski. Pocnite sa bud�etom od 10-15� dnevno i pratite ROAS (cilj: minimum 4x).
+Treba vam Google Merchant Center nalog i XML feed proizvoda. Vecina platformi (WooCommerce, Shopify) ima pluginove koji generiï¿½u feed automatski. Pocnite sa budï¿½etom od 10-15ï¿½ dnevno i pratite ROAS (cilj: minimum 4x).
 
-## 7. Cene u dinarima, bez skrivenih tro�kova
+## 7. Cene u dinarima, bez skrivenih troï¿½kova
 
 71% online kupovina u Srbiji je u dinarima. Ako prikazujete cene u evrima, gubite poverenje od starta.
 
-Jo� bitnije: tro�kovi dostave moraju biti vidljivi PRE checkoutea. Ni�ta ne ubija konverziju kao "iznenadenje" od 500 dinara na poslednjem koraku. Razmislite o besplatnoj dostavi iznad odredenog iznosa (npr. 3.000 RSD). To dodatno podi�e prosecnu vrednost korpe jer ljudi dodaju jo� jedan proizvod da bi pre�li prag.
+Joï¿½ bitnije: troï¿½kovi dostave moraju biti vidljivi PRE checkoutea. Niï¿½ta ne ubija konverziju kao "iznenadenje" od 500 dinara na poslednjem koraku. Razmislite o besplatnoj dostavi iznad odredenog iznosa (npr. 3.000 RSD). To dodatno podiï¿½e prosecnu vrednost korpe jer ljudi dodaju joï¿½ jedan proizvod da bi preï¿½li prag.
 
 ## 8. Mobilni sajt nije "nice to have"
 
-Preko 70% poseta web shopovima u Srbiji dolazi sa telefona. Ako va�a prodavnica nije savr�ena na mobilnom, odbijate vecinu potencijalnih kupaca.
+Preko 70% poseta web shopovima u Srbiji dolazi sa telefona. Ako vaï¿½a prodavnica nije savrï¿½ena na mobilnom, odbijate vecinu potencijalnih kupaca.
 
-Testirajte sami: otvorite svoj shop na telefonu i poku�ajte da kupite ne�to. Ako vam treba vi�e od 60 sekundi od stranice proizvoda do narud�bine, imate problem. Dugmad moraju biti dovoljno velika za palac. Tekst citljiv bez zumiranja. Filter proizvoda pristupacan jednim dodirom.
+Testirajte sami: otvorite svoj shop na telefonu i pokuï¿½ajte da kupite neï¿½to. Ako vam treba viï¿½e od 60 sekundi od stranice proizvoda do narudï¿½bine, imate problem. Dugmad moraju biti dovoljno velika za palac. Tekst citljiv bez zumiranja. Filter proizvoda pristupacan jednim dodirom.
 
-## 9. Dru�tvene mre�e kao kanal prodaje, ne samo branding
+## 9. Druï¿½tvene mreï¿½e kao kanal prodaje, ne samo branding
 
 Instagram Shopping i Facebook Shops dozvoljavaju tagovanje proizvoda direktno u postovima. Kupac vidi majicu na slici, tapne, vidi cenu i ide na checkout. Bez lutanja po sajtu.
 
-Kombinujte to sa kratkim video recenzijama (UGC sadr�aj). Jedan autentican video zadovoljnog kupca prodaje vi�e od 10 profesionalnih fotografija. Ponudite popust ili poklon kupcima koji snime kratku recenziju va�eg proizvoda.
+Kombinujte to sa kratkim video recenzijama (UGC sadrï¿½aj). Jedan autentican video zadovoljnog kupca prodaje viï¿½e od 10 profesionalnih fotografija. Ponudite popust ili poklon kupcima koji snime kratku recenziju vaï¿½eg proizvoda.
 
 ## 10. Pratite brojeve, ne osecanja
 
-Ne mo�ete pobolj�ati ono �to ne merite. Minimum metrika koje morate pratiti nedeljno:
+Ne moï¿½ete poboljï¿½ati ono ï¿½to ne merite. Minimum metrika koje morate pratiti nedeljno:
 - **Konverzija** (procenat posetilaca koji kupe)
 - **Prosecna vrednost korpe**
-- **Stopa napu�tanja korpe**
-- **Tro�ak po akviziciji** (koliko vas ko�ta jedan novi kupac)
-- **ROAS po kanalu** (koji kanal donosi najvi�e za ulo�eno)
+- **Stopa napuï¿½tanja korpe**
+- **Troï¿½ak po akviziciji** (koliko vas koï¿½ta jedan novi kupac)
+- **ROAS po kanalu** (koji kanal donosi najviï¿½e za uloï¿½eno)
 
-Google Analytics je besplatan i dovoljan za pocetak. Ako nemate ni to pode�eno, to je prvi korak pre svega ostalog.
+Google Analytics je besplatan i dovoljan za pocetak. Ako nemate ni to podeï¿½eno, to je prvi korak pre svega ostalog.
 
-## �ta od svega ovoga da uradite prvo?
+## ï¿½ta od svega ovoga da uradite prvo?
 
-Ne poku�avajte svih 10 stvari odjednom. Pocnite od onoga �to vam trenutno gubi najvi�e novca:
+Ne pokuï¿½avajte svih 10 stvari odjednom. Pocnite od onoga ï¿½to vam trenutno gubi najviï¿½e novca:
 1. Ako je checkout komplikovan, pojednostavite ga (korak 2)
 2. Ako nemate retargeting, ukljucite ga (korak 4)
 3. Ako nemate email automatizacije, podeset ih (korak 5)
 
-Ove tri stvari su najbr�e za implementaciju i najbr�e vracaju ulo�eno.
+Ove tri stvari su najbrï¿½e za implementaciju i najbrï¿½e vracaju uloï¿½eno.
 
-Pogledajte na� vodic [Web Shop Nema Prodaju? 5 Razloga i Re�enja](/web-shop-nema-prodaju) za detaljniju dijagnostiku ako va� shop stoji.
+Pogledajte naï¿½ vodic [Web Shop Nema Prodaju? 5 Razloga i Reï¿½enja](/web-shop-nema-prodaju) za detaljniju dijagnostiku ako vaï¿½ shop stoji.
 
-Takode korisno: [Koliko ko�ta Facebook reklama u Srbiji?](/koliko-kosta-facebook-reklama) za konkretne brojeve o placenom ogla�avanju.
+Takode korisno: [Koliko koï¿½ta Facebook reklama u Srbiji?](/koliko-kosta-facebook-reklama) za konkretne brojeve o placenom oglaï¿½avanju.
 
 ---
 
-�elite da pogledamo va� web shop i uka�emo na konkretne probleme? [Javite se](/kontakt) za besplatnu dijagnostiku va�e online prodavnice.
+ï¿½elite da pogledamo vaï¿½ web shop i ukaï¿½emo na konkretne probleme? [Javite se](/kontakt) za besplatnu dijagnostiku vaï¿½e online prodavnice.
 `,
   },
   {
     slug: 'jednacina-vrednosti-zasto-ljudi-kupuju',
-    title: 'Jednacina vrednosti: za�to ljudi kupuju (ili ne kupuju) od vas',
-    excerpt: 'Postoji formula za percepciju vrednosti. Ako je razumete, mo�ete prodati isti proizvod za duplo vecu cenu. Ako ne, i najni�a cena ce vam biti previsoka.',
+    title: 'Jednacina vrednosti: zaï¿½to ljudi kupuju (ili ne kupuju) od vas',
+    excerpt: 'Postoji formula za percepciju vrednosti. Ako je razumete, moï¿½ete prodati isti proizvod za duplo vecu cenu. Ako ne, i najniï¿½a cena ce vam biti previsoka.',
     date: '2026-03-05',
     category: 'Prodaja',
     readTime: '8 min',
     content: `
 ## Cena nikad nije pravi razlog
 
-Kad neko ka�e "preskupo je", to skoro nikad ne znaci da nema para. Znaci da ne vidi dovoljno vrednosti za tu cenu.
+Kad neko kaï¿½e "preskupo je", to skoro nikad ne znaci da nema para. Znaci da ne vidi dovoljno vrednosti za tu cenu.
 
-Isti covek koji ka�e da je 500 evra za marketing "preskupo" ce sledece nedelje dati 1.200 evra za telefon. Cena nije problem. Percepcija vrednosti jeste.
+Isti covek koji kaï¿½e da je 500 evra za marketing "preskupo" ce sledece nedelje dati 1.200 evra za telefon. Cena nije problem. Percepcija vrednosti jeste.
 
 Alex Hormozi, covek koji je izgradio portfolio kompanija od preko 100 miliona dolara, ima formulu za ovo. Zove je jednacina vrednosti (Value Equation). Formula izgleda ovako:
 
-**Vrednost = (�eljeni ishod x Verovatnoca uspeha) / (Vreme cekanja x Ulo�en trud)**
+**Vrednost = (ï¿½eljeni ishod x Verovatnoca uspeha) / (Vreme cekanja x Uloï¿½en trud)**
 
-Gornji deo razlomka treba da bude �to veci. Donji deo �to manji. Kad to postignete, cena postaje nebitna.
+Gornji deo razlomka treba da bude ï¿½to veci. Donji deo ï¿½to manji. Kad to postignete, cena postaje nebitna.
 
-## Cetiri poluge koje kontroli�ete
+## Cetiri poluge koje kontroliï¿½ete
 
-### 1. �eljeni ishod: �ta kupac zapravo hoce
+### 1. ï¿½eljeni ishod: ï¿½ta kupac zapravo hoce
 
-Ljudi ne kupuju proizvode. Kupuju promenu stanja. Firma ne kupuje sajt. Kupuje vi�e upita, bolji imid� ili manje glavobolje sa starim sajtom koji se raspada.
+Ljudi ne kupuju proizvode. Kupuju promenu stanja. Firma ne kupuje sajt. Kupuje viï¿½e upita, bolji imidï¿½ ili manje glavobolje sa starim sajtom koji se raspada.
 
 Ako prodajete "izradu sajta od 5 stranica sa responsive dizajnom i kontakt formom", prodajete feature-e. Ako prodajete "sajt koji vam donosi 30 upita mesecno umesto 3", prodajete ishod.
 
-Mi u Platinum Zenith uvek prvo pitamo klijenta: "�ta bi za vas bio idealan rezultat za 6 meseci?" Odgovor na to pitanje defini�e celu strategiju.
+Mi u Platinum Zenith uvek prvo pitamo klijenta: "ï¿½ta bi za vas bio idealan rezultat za 6 meseci?" Odgovor na to pitanje definiï¿½e celu strategiju.
 
 ### 2. Verovatnoca uspeha: da li kupac veruje da ce to zaista raditi
 
-Mo�ete obecati sve. Pitanje je da li vam kupac veruje.
+Moï¿½ete obecati sve. Pitanje je da li vam kupac veruje.
 
 Ovo se gradi sa:
 
 - Konkretni rezultati prethodnih klijenata (ne "povecali smo prodaju" nego "sa 12 na 47 upita mesecno za 90 dana")
 - Garancije koje smanjuju rizik (besplatne konsultacije, probni period, jasno definisani KPI)
 - Recenzije i testimonijali od stvarnih ljudi
-- Transparentnost u procesu (klijent vidi �ta radite, kad radite i za�to)
+- Transparentnost u procesu (klijent vidi ï¿½ta radite, kad radite i zaï¿½to)
 
-�to je va�a ponuda nepoznatija, to vam treba vi�e dokaza. Novi brend mora da kompenzuje nedostatak reputacije sa vi�kom socijalnog dokaza.
+ï¿½to je vaï¿½a ponuda nepoznatija, to vam treba viï¿½e dokaza. Novi brend mora da kompenzuje nedostatak reputacije sa viï¿½kom socijalnog dokaza.
 
 ### 3. Vreme cekanja: koliko brzo kupac vidi rezultat
 
-Ljudi placaju premium za brzinu. Ekspresna dostava ko�ta vi�e. Privatni doktor ko�ta vi�e. Fast food ko�ta vi�e po kalorijama od kuvanja kod kuce.
+Ljudi placaju premium za brzinu. Ekspresna dostava koï¿½ta viï¿½e. Privatni doktor koï¿½ta viï¿½e. Fast food koï¿½ta viï¿½e po kalorijama od kuvanja kod kuce.
 
-Kad firma ceka 6 meseci da vidi prvi rezultat marketinga, motivacija opada. Mesecne fakture pristi�u, a rezultata nema.
+Kad firma ceka 6 meseci da vidi prvi rezultat marketinga, motivacija opada. Mesecne fakture pristiï¿½u, a rezultata nema.
 
-Zato mi postavljamo kratkorocne ciljeve unutar dugorocne strategije. Prva kampanja se pu�ta u roku od 2 nedelje. Prvi podaci sti�u za mesec dana. Dugorocna SEO strategija radi u pozadini dok placeni oglasi donose upite odmah.
+Zato mi postavljamo kratkorocne ciljeve unutar dugorocne strategije. Prva kampanja se puï¿½ta u roku od 2 nedelje. Prvi podaci stiï¿½u za mesec dana. Dugorocna SEO strategija radi u pozadini dok placeni oglasi donose upite odmah.
 
-Smanjite vreme cekanja i vrednost va�e ponude raste automatski.
+Smanjite vreme cekanja i vrednost vaï¿½e ponude raste automatski.
 
-### 4. Ulo�en trud: koliko kupac mora da se muci
+### 4. Uloï¿½en trud: koliko kupac mora da se muci
 
 Zamislite dva scenarija:
 
-**Scenario A:** Agencija vam po�alje spisak od 47 stvari koje treba da uradite, tra�i 200 fotografija, tekstove za svaku stranicu i pristup 8 razlicitih naloga.
+**Scenario A:** Agencija vam poï¿½alje spisak od 47 stvari koje treba da uradite, traï¿½i 200 fotografija, tekstove za svaku stranicu i pristup 8 razlicitih naloga.
 
-**Scenario B:** Agencija ka�e "po�aljite nam logo i pristup hosting nalogu, ostalo cemo mi."
+**Scenario B:** Agencija kaï¿½e "poï¿½aljite nam logo i pristup hosting nalogu, ostalo cemo mi."
 
 Isti rezultat. Scenario B je vredniji jer zahteva manje truda od kupca.
 
@@ -7631,28 +7858,28 @@ Isti rezultat. Scenario B je vredniji jer zahteva manje truda od kupca.
 
 Zamislite da nudite SEO optimizaciju za 400 evra mesecno.
 
-Kupac razmi�lja: "400 evra? Za �ta tacno?"
+Kupac razmiï¿½lja: "400 evra? Za ï¿½ta tacno?"
 
 Sad primenimo jednacinu:
 
-- **�eljeni ishod:** "Va� sajt ce biti na prvoj strani Googla za kljucne reci koje va�i kupci zapravo pretra�uju. To znaci 20-50 novih posetilaca dnevno koji tra�e tacno ono �to vi prodajete."
-- **Verovatnoca:** "Evo 3 klijenta u va�oj industriji kojima smo to uradili. Evo screenshot-ova pre i posle. Evo njihovih kontakata ako �elite da ih pozovete."
-- **Vreme:** "Tehnicku optimizaciju zavr�avamo u prvom mesecu. Prve pomake u rangiranju vidite za 60-90 dana. Za 6 meseci ste na prvoj strani."
-- **Trud:** "Vi nam date pristup sajtu i 30 minuta za intervju o va�em poslu. Mi radimo sve ostalo. �aljemo mesecni izve�taj sa konkretnim brojevima."
+- **ï¿½eljeni ishod:** "Vaï¿½ sajt ce biti na prvoj strani Googla za kljucne reci koje vaï¿½i kupci zapravo pretraï¿½uju. To znaci 20-50 novih posetilaca dnevno koji traï¿½e tacno ono ï¿½to vi prodajete."
+- **Verovatnoca:** "Evo 3 klijenta u vaï¿½oj industriji kojima smo to uradili. Evo screenshot-ova pre i posle. Evo njihovih kontakata ako ï¿½elite da ih pozovete."
+- **Vreme:** "Tehnicku optimizaciju zavrï¿½avamo u prvom mesecu. Prve pomake u rangiranju vidite za 60-90 dana. Za 6 meseci ste na prvoj strani."
+- **Trud:** "Vi nam date pristup sajtu i 30 minuta za intervju o vaï¿½em poslu. Mi radimo sve ostalo. ï¿½aljemo mesecni izveï¿½taj sa konkretnim brojevima."
 
-Sad tih 400 evra zvuci kao sitnica. Ne zato �to se cena promenila, nego zato �to se percepcija vrednosti promenila.
+Sad tih 400 evra zvuci kao sitnica. Ne zato ï¿½to se cena promenila, nego zato ï¿½to se percepcija vrednosti promenila.
 
-## Gre�ka koju prave 90% firmi
+## Greï¿½ka koju prave 90% firmi
 
-Kad im neko ka�e "preskupo", snize cenu. Time ne re�avaju problem. Samo smanjuju vrednost ponude u ocima kupca.
+Kad im neko kaï¿½e "preskupo", snize cenu. Time ne reï¿½avaju problem. Samo smanjuju vrednost ponude u ocima kupca.
 
-Umesto da sni�avate cenu, povecajte vrednost. Dodajte garanciju. Poka�ite jo� jedan case study. Smanjite vreme do rezultata. Preuzmite deo posla sa kupca.
+Umesto da sniï¿½avate cenu, povecajte vrednost. Dodajte garanciju. Pokaï¿½ite joï¿½ jedan case study. Smanjite vreme do rezultata. Preuzmite deo posla sa kupca.
 
 Posao nikad ne gubi klijente zbog cene. Gubi ih zbog nedovoljne percepcije vrednosti.
 
 ## Primenite ovo danas
 
-Uzmite va�u glavnu ponudu i proverite svaku polugu:
+Uzmite vaï¿½u glavnu ponudu i proverite svaku polugu:
 
 1. Da li kupac jasno vidi ISHOD (ne feature-e)?
 2. Da li ima dovoljno DOKAZA da mu veruje?
@@ -7661,13 +7888,13 @@ Uzmite va�u glavnu ponudu i proverite svaku polugu:
 
 Ako bilo koja od ove cetiri stavke nije jasna, tu gubite klijente. Ne na ceni.
 
-Pogledajte kako mi pristupamo izgradnji ponuda u na�im [cenama i modelima saradnje](/cene-digitalnog-marketinga) i za�to na�i klijenti placaju premium bez pregovaranja.
+Pogledajte kako mi pristupamo izgradnji ponuda u naï¿½im [cenama i modelima saradnje](/cene-digitalnog-marketinga) i zaï¿½to naï¿½i klijenti placaju premium bez pregovaranja.
 
 Takode preporucujemo: [Kako napisati ponudu koja zatvara posao](/blog/kako-napisati-ponudu-koja-zatvara-posao).
 
 ---
 
-Trebate pomoc da repozicionirate va�u ponudu tako da kupci prestanu da pricaju o ceni? [Javite nam se](/kontakt).
+Trebate pomoc da repozicionirate vaï¿½u ponudu tako da kupci prestanu da pricaju o ceni? [Javite nam se](/kontakt).
 `,
   },
   {
@@ -7682,23 +7909,23 @@ Trebate pomoc da repozicionirate va�u ponudu tako da kupci prestanu da pricaju
 
 Vecina vlasnika firmi u Srbiji pridobija klijente na isti nacin: preporuke. Neko ih preporuci nekom, taj neko pozove, dogovore se.
 
-Funkcioni�e. Do trenutka kad ne funkcioni�e. Jer preporuke ne mo�ete kontrolisati. Ne mo�ete reci "ove nedelje mi treba 20 novih upita" i ocekivati da telefon zazvoni.
+Funkcioniï¿½e. Do trenutka kad ne funkcioniï¿½e. Jer preporuke ne moï¿½ete kontrolisati. Ne moï¿½ete reci "ove nedelje mi treba 20 novih upita" i ocekivati da telefon zazvoni.
 
-Alex Hormozi, koji je pomogao stotinama kompanija da predu 10 miliona dolara godi�njeg prihoda, ima jednostavan okvir za ovo. On ka�e da postoje samo 4 nacina da dobijete klijente. Sve ostalo su varijacije ove cetvorke.
+Alex Hormozi, koji je pomogao stotinama kompanija da predu 10 miliona dolara godiï¿½njeg prihoda, ima jednostavan okvir za ovo. On kaï¿½e da postoje samo 4 nacina da dobijete klijente. Sve ostalo su varijacije ove cetvorke.
 
 ## Kanal 1: Topli pristup (warm outreach)
 
-Ljudi koji vas vec poznaju. Biv�i klijenti, poznanici, ljudi koji su vas pratili na mre�ama ali nikad kupili.
+Ljudi koji vas vec poznaju. Bivï¿½i klijenti, poznanici, ljudi koji su vas pratili na mreï¿½ama ali nikad kupili.
 
 **Kako izgleda u praksi:**
 
-Otvorite listu kontakata. Nadite 100 ljudi koji bi mogli imati koristi od va�eg proizvoda ili usluge. Pi�ete im poruku. Ne genericnu "zdravo, da li vam treba marketing" poruku, vec personalizovanu. "Zdravo Marko, video sam da si otvorio novi restoran. Cestitam. Imamo program za lokalne restorane koji je doneo 40% vi�e rezervacija u prva 3 meseca. Zanima te?"
+Otvorite listu kontakata. Nadite 100 ljudi koji bi mogli imati koristi od vaï¿½eg proizvoda ili usluge. Piï¿½ete im poruku. Ne genericnu "zdravo, da li vam treba marketing" poruku, vec personalizovanu. "Zdravo Marko, video sam da si otvorio novi restoran. Cestitam. Imamo program za lokalne restorane koji je doneo 40% viï¿½e rezervacija u prva 3 meseca. Zanima te?"
 
 **Prednosti:** Visoka stopa odgovora. Ljudi vas vec poznaju pa je poverenje vece. Besplatno je.
 
 **Mane:** Ogranicen doseg. Lista kontakata se iscrpi. Ne skalira se u beskonacnost.
 
-**Kad koristiti:** Na startu. Kad nemate bud�et za oglase. Kad treba brzo da napunite kalendar. Svaka firma bi trebalo da pocne ovde.
+**Kad koristiti:** Na startu. Kad nemate budï¿½et za oglase. Kad treba brzo da napunite kalendar. Svaka firma bi trebalo da pocne ovde.
 
 Mi smo u Platinum Zenith na pocetku dobili prvih 10 klijenata upravo ovako. Bez oglasa, bez sajta, samo direktni razgovori sa ljudima kojima smo mogli pomoci.
 
@@ -7708,55 +7935,55 @@ Ljudi koji vas ne poznaju. Email, poruke, pozivi osobama koje nikad nisu cule za
 
 **Kako izgleda u praksi:**
 
-Identifikujete 500 firmi u va�oj ciljnoj grupi. Napi�ete im email sa konkretnom ponudom. Ne prodajete u prvom emailu. Nudite ne�to od vrednosti: besplatan audit, vodic, analizu. Cilj je da odgovore. Prodaja dolazi posle.
+Identifikujete 500 firmi u vaï¿½oj ciljnoj grupi. Napiï¿½ete im email sa konkretnom ponudom. Ne prodajete u prvom emailu. Nudite neï¿½to od vrednosti: besplatan audit, vodic, analizu. Cilj je da odgovore. Prodaja dolazi posle.
 
-**Prednosti:** Skalabilno. Mo�ete kontaktirati 100 novih ljudi dnevno. Ne zavisite od algoritama niti od bud�eta za oglase.
+**Prednosti:** Skalabilno. Moï¿½ete kontaktirati 100 novih ljudi dnevno. Ne zavisite od algoritama niti od budï¿½eta za oglase.
 
-**Mane:** Niska stopa odgovora (1-3% za dobar email). Zahteva istra�ivanje i personalizaciju. Mo�e biti naporno.
+**Mane:** Niska stopa odgovora (1-3% za dobar email). Zahteva istraï¿½ivanje i personalizaciju. Moï¿½e biti naporno.
 
-**Kad koristiti:** Kad imate jasno definisanu ciljnu grupu. Kad znate tacno kome mo�ete pomoci i kako. Kad �elite kontrolu nad brojem novih kontakata.
+**Kad koristiti:** Kad imate jasno definisanu ciljnu grupu. Kad znate tacno kome moï¿½ete pomoci i kako. Kad ï¿½elite kontrolu nad brojem novih kontakata.
 
-**Hormozi pravilo:** Po�aljite 100 personalizovanih poruka pre nego �to zakljucite da "hladni pristup ne radi". Vecina ljudi odustane posle 10. To je kao da ka�ete "teretana ne radi" posle jednog treninga.
+**Hormozi pravilo:** Poï¿½aljite 100 personalizovanih poruka pre nego ï¿½to zakljucite da "hladni pristup ne radi". Vecina ljudi odustane posle 10. To je kao da kaï¿½ete "teretana ne radi" posle jednog treninga.
 
-## Kanal 3: Sadr�aj (content)
+## Kanal 3: Sadrï¿½aj (content)
 
-Blog tekstovi, video snimci, postovi na mre�ama, podkasti. Informacije koje privlace ljude koji imaju problem koji vi re�avate.
+Blog tekstovi, video snimci, postovi na mreï¿½ama, podkasti. Informacije koje privlace ljude koji imaju problem koji vi reï¿½avate.
 
 **Kako izgleda u praksi:**
 
-Pi�ete o temama koje va�a ciljna grupa pretra�uje. Snimate video u kome obja�njavate kako re�iti konkretan problem. Pravite vodic koji ljudi preuzimaju. Vremenom, gradite publiku koja vam veruje.
+Piï¿½ete o temama koje vaï¿½a ciljna grupa pretraï¿½uje. Snimate video u kome objaï¿½njavate kako reï¿½iti konkretan problem. Pravite vodic koji ljudi preuzimaju. Vremenom, gradite publiku koja vam veruje.
 
-**Prednosti:** Radi dugorocno. Jedan dobar blog tekst privlaci posetioce godinama. Gradi autoritet i poverenje pre nego �to uop�te pricate sa kupcem.
+**Prednosti:** Radi dugorocno. Jedan dobar blog tekst privlaci posetioce godinama. Gradi autoritet i poverenje pre nego ï¿½to uopï¿½te pricate sa kupcem.
 
 **Mane:** Sporo. Potrebno je 3-6 meseci konzistentnog rada da vidite rezultate. Zahteva disciplinu i redovnost.
 
-**Kad koristiti:** Kad imate ekspertizu koju mo�ete da podelite. Kad igrate dugorocnu igru. Kad �elite da kupci dolaze kod vas umesto da vi idete kod njih.
+**Kad koristiti:** Kad imate ekspertizu koju moï¿½ete da podelite. Kad igrate dugorocnu igru. Kad ï¿½elite da kupci dolaze kod vas umesto da vi idete kod njih.
 
-Ovaj blog je primer. Vi citate ovaj tekst jer ste tra�ili ne�to vezano za marketing. Mi vam dajemo korisnu informaciju. Kad vam zatreba agencija, vec nas poznajete.
+Ovaj blog je primer. Vi citate ovaj tekst jer ste traï¿½ili neï¿½to vezano za marketing. Mi vam dajemo korisnu informaciju. Kad vam zatreba agencija, vec nas poznajete.
 
 ## Kanal 4: Placeni oglasi (paid ads)
 
-Facebook, Instagram, Google, TikTok, LinkedIn. Placate platformi da va�a poruka stigne do ljudi koji vas ne poznaju.
+Facebook, Instagram, Google, TikTok, LinkedIn. Placate platformi da vaï¿½a poruka stigne do ljudi koji vas ne poznaju.
 
 **Kako izgleda u praksi:**
 
-Napravite oglas sa jakom ponudom. Ciljate ljude po lokaciji, interesovanjima, demografiji. Placate po kliku ili prikazivanju. Merite koliko vas ko�ta svaki upit i svaki novi klijent.
+Napravite oglas sa jakom ponudom. Ciljate ljude po lokaciji, interesovanjima, demografiji. Placate po kliku ili prikazivanju. Merite koliko vas koï¿½ta svaki upit i svaki novi klijent.
 
-**Prednosti:** Brzo. Rezultati se vide za 24-48 sati. Potpuna kontrola nad bud�etom. Skalabilno. Ako 1.000 evra donosi 10 klijenata, 2.000 evra donosi 20.
+**Prednosti:** Brzo. Rezultati se vide za 24-48 sati. Potpuna kontrola nad budï¿½etom. Skalabilno. Ako 1.000 evra donosi 10 klijenata, 2.000 evra donosi 20.
 
-**Mane:** Ko�ta. Pogre�no postavljeni oglasi bacaju novac. Zahteva tehnicko znanje. Kad prestanete da placate, prestaju i rezultati.
+**Mane:** Koï¿½ta. Pogreï¿½no postavljeni oglasi bacaju novac. Zahteva tehnicko znanje. Kad prestanete da placate, prestaju i rezultati.
 
-**Kad koristiti:** Kad imate ponudu koja je potvrdena (vec ste prodali bar 10 komada rucno). Kad znate koliko vam vredi klijent i koliko smete da platite za akviziciju. Kad �elite brze rezultate.
+**Kad koristiti:** Kad imate ponudu koja je potvrdena (vec ste prodali bar 10 komada rucno). Kad znate koliko vam vredi klijent i koliko smete da platite za akviziciju. Kad ï¿½elite brze rezultate.
 
 ## Koji je pravi za vas?
 
 Hormozi preporucuje sledeci redosled:
 
-**Korak 1: Topli pristup.** Pocnite sa ljudima koji vas poznaju. Validirajte ponudu. Saznajte �ta radi a �ta ne.
+**Korak 1: Topli pristup.** Pocnite sa ljudima koji vas poznaju. Validirajte ponudu. Saznajte ï¿½ta radi a ï¿½ta ne.
 
-**Korak 2: Hladni pristup ILI sadr�aj.** Izaberite jedno. Topli pristup kombinujte sa hladnim (ako ste dobri u direktnoj komunikaciji) ili sa sadr�ajem (ako ste bolji u pisanju/snimanju).
+**Korak 2: Hladni pristup ILI sadrï¿½aj.** Izaberite jedno. Topli pristup kombinujte sa hladnim (ako ste dobri u direktnoj komunikaciji) ili sa sadrï¿½ajem (ako ste bolji u pisanju/snimanju).
 
-**Korak 3: Placeni oglasi.** Tek kad imate ponudu koja radi, poruku koja rezonira i sistem za obradu upita. Oglasi pojacavaju ono �to vec funkcioni�e. Ako osnova ne radi, oglasi samo br�e tro�e novac.
+**Korak 3: Placeni oglasi.** Tek kad imate ponudu koja radi, poruku koja rezonira i sistem za obradu upita. Oglasi pojacavaju ono ï¿½to vec funkcioniï¿½e. Ako osnova ne radi, oglasi samo brï¿½e troï¿½e novac.
 
 **Korak 4: Kombinacija.** Kad savladate jedan kanal, dodajte drugi. Ali nikad sva cetiri odjednom. To je najsigurniji nacin da ni jedan ne radi kako treba.
 
@@ -7764,66 +7991,66 @@ Hormozi preporucuje sledeci redosled:
 
 Hormozi ima jedno pravilo koje sve ovo spaja. Zove ga "pravilo 100":
 
-Svaki dan uradite 100 akcija vezanih za pridobijanje klijenata. To mo�e biti 100 poslatih emailova, 100 minuta kreiranja sadr�aja, 100 evra potro�enih na oglase ili 100 poruka.
+Svaki dan uradite 100 akcija vezanih za pridobijanje klijenata. To moï¿½e biti 100 poslatih emailova, 100 minuta kreiranja sadrï¿½aja, 100 evra potroï¿½enih na oglase ili 100 poruka.
 
-Kljuc je konzistentnost. Ne 100 jednog dana i onda ni�ta naredna dva dana. Nego 100 svaki dan, 90 dana zaredom. Posle 90 dana, ili imate klijente ili ste otkrili da je problem u ponudi, ne u distribuciji.
+Kljuc je konzistentnost. Ne 100 jednog dana i onda niï¿½ta naredna dva dana. Nego 100 svaki dan, 90 dana zaredom. Posle 90 dana, ili imate klijente ili ste otkrili da je problem u ponudi, ne u distribuciji.
 
 ## Gde mi ulazimo
 
-Mi u Platinum Zenith poma�emo firmama da izaberu pravi kanal za svoju situaciju i da ga izvedu kako treba.
+Mi u Platinum Zenith pomaï¿½emo firmama da izaberu pravi kanal za svoju situaciju i da ga izvedu kako treba.
 
-Neko treba samo postavljanje Google Ads kampanje. Neko treba kompletnu strategiju od sadr�aja do placenih oglasa. Neko samo treba da mu neko napravi landing stranicu na koju ce slati hladne emailove.
+Neko treba samo postavljanje Google Ads kampanje. Neko treba kompletnu strategiju od sadrï¿½aja do placenih oglasa. Neko samo treba da mu neko napravi landing stranicu na koju ce slati hladne emailove.
 
-Nema jednog odgovora za sve. Ali postoji pravi odgovor za vas, i obicno je jednostavniji nego �to mislite.
+Nema jednog odgovora za sve. Ali postoji pravi odgovor za vas, i obicno je jednostavniji nego ï¿½to mislite.
 
-Pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga) i uporedite model saradnje koji najbolje odgovara va�oj fazi rasta.
+Pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga) i uporedite model saradnje koji najbolje odgovara vaï¿½oj fazi rasta.
 
 Takode preporucujemo: [Lead magneti koji zapravo konvertuju](/blog/lead-magneti-koji-zapravo-konvertuju).
 
 ---
 
-Niste sigurni koji kanal je pravi za va� biznis? [Zaka�ite besplatne konsultacije](/kontakt) i pomoci cemo vam da odaberete.
+Niste sigurni koji kanal je pravi za vaï¿½ biznis? [Zakaï¿½ite besplatne konsultacije](/kontakt) i pomoci cemo vam da odaberete.
 `,
   },
   {
     slug: 'kako-skalirati-placene-oglase-bez-bacanja-novca',
     title: 'Kako skalirati placene oglase bez bacanja novca',
-    excerpt: 'Vecina firmi koje koriste placene oglase ili tro�i premalo da vidi rezultate ili previ�e na pogre�ne stvari. Evo sistema za skaliranje koji zapravo funkcioni�e.',
+    excerpt: 'Vecina firmi koje koriste placene oglase ili troï¿½i premalo da vidi rezultate ili previï¿½e na pogreï¿½ne stvari. Evo sistema za skaliranje koji zapravo funkcioniï¿½e.',
     date: '2026-03-05',
     category: 'Marketing',
     readTime: '8 min',
     content: `
 ## Tri faze placenih oglasa
 
-Alex Hormozi, ciji portfolio kompanija generi�e stotine miliona dolara godi�nje, opisuje skaliranje placenih oglasa kroz tri faze. Svaka firma prolazi kroz sve tri, i preskakanje bilo koje faze ko�ta mnogo vi�e nego �to u�tedi.
+Alex Hormozi, ciji portfolio kompanija generiï¿½e stotine miliona dolara godiï¿½nje, opisuje skaliranje placenih oglasa kroz tri faze. Svaka firma prolazi kroz sve tri, i preskakanje bilo koje faze koï¿½ta mnogo viï¿½e nego ï¿½to uï¿½tedi.
 
 ### Faza 1: Pratite novac
 
-Pre nego �to potro�ite prvi evro na oglase, morate znati �ta se de�ava sa svakim klikom.
+Pre nego ï¿½to potroï¿½ite prvi evro na oglase, morate znati ï¿½ta se deï¿½ava sa svakim klikom.
 
-Zvuci ocigledno. Nije. Broj firmi u Srbiji koje tro�e 500-2.000 evra mesecno na Facebook i Google oglase bez ikakvog trackinga je zastra�ujuc. Nemaju piksel na sajtu. Ne prate konverzije. Ne znaju koji oglas je doneo koji upit.
+Zvuci ocigledno. Nije. Broj firmi u Srbiji koje troï¿½e 500-2.000 evra mesecno na Facebook i Google oglase bez ikakvog trackinga je zastraï¿½ujuc. Nemaju piksel na sajtu. Ne prate konverzije. Ne znaju koji oglas je doneo koji upit.
 
-Kad ih pitate "koliko vas ko�ta jedan klijent", odgovore "ne znamo." To je kao da vozite auto nocu sa uga�enim farovima i nadate se da necete udariti u ne�to.
+Kad ih pitate "koliko vas koï¿½ta jedan klijent", odgovore "ne znamo." To je kao da vozite auto nocu sa ugaï¿½enim farovima i nadate se da necete udariti u neï¿½to.
 
-**�ta treba da imate pre prvog evra na oglase:**
+**ï¿½ta treba da imate pre prvog evra na oglase:**
 
-- Facebook Pixel instaliran i pode�en na sajtu
+- Facebook Pixel instaliran i podeï¿½en na sajtu
 - Google Analytics sa definisanim ciljevima (konverzijama)
 - Google Ads konverziono pracenje
 - UTM parametri na svim linkovima iz oglasa
 - CRM ili barem spreadsheet gde pratite: upit, izvor, da li je zatvoren, za koliko
 
-Ovo ne traje du�e od jednog dana za postavljanje. A �tedi vam hiljade evra u narednim mesecima.
+Ovo ne traje duï¿½e od jednog dana za postavljanje. A ï¿½tedi vam hiljade evra u narednim mesecima.
 
 ### Faza 2: Gubite novac (namerno)
 
 Ova faza zbunjuje ljude. Ali je logicna.
 
-Kad pokrenete prve kampanje, kupujete podatke. Ne kupujete klijente. Platforma treba da nauci ko reaguje na va�e oglase, koji vizuali rade, koji naslovi privlace klikove, koja publika konvertuje.
+Kad pokrenete prve kampanje, kupujete podatke. Ne kupujete klijente. Platforma treba da nauci ko reaguje na vaï¿½e oglase, koji vizuali rade, koji naslovi privlace klikove, koja publika konvertuje.
 
-U prvom mesecu, ocekujte da potro�ite vi�e nego �to zaradite. To nije gubitak. To je investicija u podatke koji ce vam sledece mesece u�tedeti desetine hiljada.
+U prvom mesecu, ocekujte da potroï¿½ite viï¿½e nego ï¿½to zaradite. To nije gubitak. To je investicija u podatke koji ce vam sledece mesece uï¿½tedeti desetine hiljada.
 
-Hormozi ka�e: "Svi �ele da preskoce na deo gde �tampaju novac. Ali ne mo�ete �tampati novac dok ne znate koji papir ide u ma�inu."
+Hormozi kaï¿½e: "Svi ï¿½ele da preskoce na deo gde ï¿½tampaju novac. Ali ne moï¿½ete ï¿½tampati novac dok ne znate koji papir ide u maï¿½inu."
 
 **Tokom ove faze:**
 
@@ -7833,72 +8060,72 @@ Hormozi ka�e: "Svi �ele da preskoce na deo gde �tampaju novac. Ali ne mo�
 - Pratite cenu po kliku, cenu po upitu i cenu po klijentu za svaku varijaciju
 - Ne gasiti kampanje posle 2 dana jer "ne rade". Dajte im bar 5-7 dana i minimum 1.000 prikaza po varijanti
 
-### Faza 3: �tampate novac
+### Faza 3: ï¿½tampate novac
 
-Posle faze 2, imate podatke. Znate koji oglas konvertuje. Znate koja publika reaguje. Znate koliko vas ko�ta svaki upit i svaki klijent.
+Posle faze 2, imate podatke. Znate koji oglas konvertuje. Znate koja publika reaguje. Znate koliko vas koï¿½ta svaki upit i svaki klijent.
 
-Sad radite jednu stvar: ulo�ite vi�e novca u ono �to radi.
+Sad radite jednu stvar: uloï¿½ite viï¿½e novca u ono ï¿½to radi.
 
-Oglas koji donosi upite za 8 evra po komadu? Podignite bud�et. Publika koja konvertuje dvostruko bolje od ostalih? Fokusirajte se na nju. Landing stranica sa 12% konverzije? �aljite sav trafik tamo.
+Oglas koji donosi upite za 8 evra po komadu? Podignite budï¿½et. Publika koja konvertuje dvostruko bolje od ostalih? Fokusirajte se na nju. Landing stranica sa 12% konverzije? ï¿½aljite sav trafik tamo.
 
 Ovo zvuci jednostavno jer jeste. Kompleksnost je u fazi 2. Faza 3 je cista matematika.
 
-## 70/20/10 pravilo za bud�et
+## 70/20/10 pravilo za budï¿½et
 
-Kad imate kampanje koje rade, raspodela bud�eta izgleda ovako:
+Kad imate kampanje koje rade, raspodela budï¿½eta izgleda ovako:
 
-**70% ide na dokazane pobednike.** Oglasi i publike za koje znate da funkcioni�u. Tu je va� profit. Ne dirajte ono �to radi.
+**70% ide na dokazane pobednike.** Oglasi i publike za koje znate da funkcioniï¿½u. Tu je vaï¿½ profit. Ne dirajte ono ï¿½to radi.
 
-**20% ide na varijacije pobednika.** Isti oglas sa drugacijim naslovom. Ista publika sa malo �irim targetiranjem. Ista ponuda sa drugacijom slikom. Male promene koje mogu da pobolj�aju performanse, ali sa niskim rizikom.
+**20% ide na varijacije pobednika.** Isti oglas sa drugacijim naslovom. Ista publika sa malo ï¿½irim targetiranjem. Ista ponuda sa drugacijom slikom. Male promene koje mogu da poboljï¿½aju performanse, ali sa niskim rizikom.
 
-**10% ide na eksperimente.** Potpuno nova kreativa. Nova publika. Nova ponuda. Ovde tra�ite sledeceg pobednika. Vecina eksperimenata nece raditi. Ali kad jedan proradi, prebacujete ga u kategoriju pobednika.
+**10% ide na eksperimente.** Potpuno nova kreativa. Nova publika. Nova ponuda. Ovde traï¿½ite sledeceg pobednika. Vecina eksperimenata nece raditi. Ali kad jedan proradi, prebacujete ga u kategoriju pobednika.
 
-Ovaj sistem sprecava dve najce�ce gre�ke: gasiti kampanje koje rade da bi probali ne�to novo, i nikad ne testirati ni�ta novo jer se bojite da izgubite ono �to imate.
+Ovaj sistem sprecava dve najceï¿½ce greï¿½ke: gasiti kampanje koje rade da bi probali neï¿½to novo, i nikad ne testirati niï¿½ta novo jer se bojite da izgubite ono ï¿½to imate.
 
 ## Hook-first pristup: prvih 5 sekundi su sve
 
 Hormozi insistira da 80% vremena provedete na "hook" (prvih 5 sekundi videa ili prvu recenicu teksta). Ostatak je nebitan ako hook ne zaustavi skrolovanje.
 
-**Hookovi koji rade na srpskom tr�i�tu:**
+**Hookovi koji rade na srpskom trï¿½iï¿½tu:**
 
 - Konkretan broj: "347 firmi je povecalo upite za 3x koristeci ovu metodu"
-- Provokativno pitanje: "Da li tro�ite 500 evra mesecno na oglase koji ne donose ni�ta?"
-- Suprotno od ocekivanog: "Prestanite da se reklamirate na Instagramu (evo za�to)"
-- Licni iskaz: "Potro�ili smo 12.000 evra na oglase pre nego �to smo shvatili ovu gre�ku"
+- Provokativno pitanje: "Da li troï¿½ite 500 evra mesecno na oglase koji ne donose niï¿½ta?"
+- Suprotno od ocekivanog: "Prestanite da se reklamirate na Instagramu (evo zaï¿½to)"
+- Licni iskaz: "Potroï¿½ili smo 12.000 evra na oglase pre nego ï¿½to smo shvatili ovu greï¿½ku"
 
-Svaki oglas koji napravite, napravite sa 3-5 razlicitih hookova. Isto telo teksta, isti vizual, ali drugaciji naslov i prva recenica. Razlika u performansama mo�e biti 300% samo na osnovu hooka.
+Svaki oglas koji napravite, napravite sa 3-5 razlicitih hookova. Isto telo teksta, isti vizual, ali drugaciji naslov i prva recenica. Razlika u performansama moï¿½e biti 300% samo na osnovu hooka.
 
-## Retargeting: gde se gubi najvi�e novca
+## Retargeting: gde se gubi najviï¿½e novca
 
-95% posetilaca va�eg sajta ode bez akcije. Ali su videli va�u stranicu, procitali va� sadr�aj, mo�da cak pogledali cene. Zainteresovani su. Samo nisu spremni.
+95% posetilaca vaï¿½eg sajta ode bez akcije. Ali su videli vaï¿½u stranicu, procitali vaï¿½ sadrï¿½aj, moï¿½da cak pogledali cene. Zainteresovani su. Samo nisu spremni.
 
-Retargeting im ponovo prikazuje va� oglas. Ali ne isti oglas. Retargeting kampanja treba da ima drugaciju poruku od prve:
+Retargeting im ponovo prikazuje vaï¿½ oglas. Ali ne isti oglas. Retargeting kampanja treba da ima drugaciju poruku od prve:
 
-- **Prva kampanja (hladna publika):** Predstavite problem i ponudite re�enje
-- **Retargeting 1 (posle posete sajtu):** Poka�ite social proof (recenzije, rezultati klijenata)
-- **Retargeting 2 (posle 7 dana):** Ponudite ne�to konkretno (besplatan audit, vodic, konsultacije)
+- **Prva kampanja (hladna publika):** Predstavite problem i ponudite reï¿½enje
+- **Retargeting 1 (posle posete sajtu):** Pokaï¿½ite social proof (recenzije, rezultati klijenata)
+- **Retargeting 2 (posle 7 dana):** Ponudite neï¿½to konkretno (besplatan audit, vodic, konsultacije)
 
-Svaki korak smanjuje rizik u ocima kupca. Prvo ste ga upoznali sa problemom. Onda ste pokazali da drugi veruju vama. Onda ste ponudili ne�to besplatno da napravi prvi korak.
+Svaki korak smanjuje rizik u ocima kupca. Prvo ste ga upoznali sa problemom. Onda ste pokazali da drugi veruju vama. Onda ste ponudili neï¿½to besplatno da napravi prvi korak.
 
-Firmama koje nemaju retargeting, ka�emo isto: bacate 95% svog trafika. Bukvalno.
+Firmama koje nemaju retargeting, kaï¿½emo isto: bacate 95% svog trafika. Bukvalno.
 
-## Koliko treba ulo�iti da vidite rezultate
+## Koliko treba uloï¿½iti da vidite rezultate
 
-Za firme u Srbiji, minimalni mesecni bud�et za placene oglase koji ima smisla je:
+Za firme u Srbiji, minimalni mesecni budï¿½et za placene oglase koji ima smisla je:
 
-- **Facebook/Instagram Ads:** 300 evra mesecno za bud�et + 200-500 evra za upravljanje
-- **Google Ads:** 400 evra mesecno za bud�et + 200-600 evra za upravljanje
-- **Oba kanala:** 700+ evra za bud�et + 400-800 evra za upravljanje
+- **Facebook/Instagram Ads:** 300 evra mesecno za budï¿½et + 200-500 evra za upravljanje
+- **Google Ads:** 400 evra mesecno za budï¿½et + 200-600 evra za upravljanje
+- **Oba kanala:** 700+ evra za budï¿½et + 400-800 evra za upravljanje
 
-Ispod ovih cifara, nemate dovoljno podataka da optimizujete. Algoritam nema sa cim da radi. Rezultati su nepouzdani i ne mo�ete donositi odluke na osnovu njih.
+Ispod ovih cifara, nemate dovoljno podataka da optimizujete. Algoritam nema sa cim da radi. Rezultati su nepouzdani i ne moï¿½ete donositi odluke na osnovu njih.
 
-Pogledajte na� detaljniji pregled [cena digitalnog marketinga](/cene-digitalnog-marketinga) u Srbiji za 2026. godinu.
+Pogledajte naï¿½ detaljniji pregled [cena digitalnog marketinga](/cene-digitalnog-marketinga) u Srbiji za 2026. godinu.
 
-## Nemojte pojacavati ono �to ne radi
+## Nemojte pojacavati ono ï¿½to ne radi
 
-Ovo je mo�da najbitnija lekcija. Placeni oglasi su pojacivac. Pojacavaju rezultate dobre ponude i dobrog sajta. Ali isto tako pojacavaju i probleme lo�e ponude i lo�eg sajta.
+Ovo je moï¿½da najbitnija lekcija. Placeni oglasi su pojacivac. Pojacavaju rezultate dobre ponude i dobrog sajta. Ali isto tako pojacavaju i probleme loï¿½e ponude i loï¿½eg sajta.
 
-Ako va�a landing stranica konvertuje 1% posetilaca u upite, bacanje vi�e novca na oglase samo znaci da cete br�e bacati novac. Popravite stranicu prvo. Podignite konverziju na 5-10%. Onda pojacajte bud�et.
+Ako vaï¿½a landing stranica konvertuje 1% posetilaca u upite, bacanje viï¿½e novca na oglase samo znaci da cete brï¿½e bacati novac. Popravite stranicu prvo. Podignite konverziju na 5-10%. Onda pojacajte budï¿½et.
 
 Redosled je bitan: ponuda, sajt, pracenje, pa tek onda oglasi.
 
@@ -7906,13 +8133,13 @@ Takode preporucujemo: [Kako napraviti landing stranicu koja konvertuje](/blog/ka
 
 ---
 
-�elite da postavimo sistem placenih oglasa koji zapravo zaraduje? [Javite nam se](/kontakt) za besplatan pregled va�e trenutne situacije.
+ï¿½elite da postavimo sistem placenih oglasa koji zapravo zaraduje? [Javite nam se](/kontakt) za besplatan pregled vaï¿½e trenutne situacije.
 `,
   },
   {
     slug: 'netokracija-cro-case',
     title: 'DRAFT: Kako smo povecali profit 4x kroz nekoliko kljucnih CRO izmena na domacem web shopu',
-    excerpt: 'Prica iz prakse: najveci domaci brend anatomske obuce je kroz nekoliko pametnih promena podigao profit 4x. Evo �ta je tacno uradeno i kako to mo�ete da primenite.',
+    excerpt: 'Prica iz prakse: najveci domaci brend anatomske obuce je kroz nekoliko pametnih promena podigao profit 4x. Evo ï¿½ta je tacno uradeno i kako to moï¿½ete da primenite.',
     date: '2026-03-08',
     category: 'E-Commerce',
     readTime: '11 min',
@@ -7925,182 +8152,182 @@ Ovo je draft verzija pripremljena za editorial review.
 
 ## Kratak kontekst
 
-Ovo je prica iz rada sa najvecim domacim brendom anatomske obuce. Ime ne navodimo javno, ali broj poseta i porud�bina je veliki. Zato se svaka promena brzo vidi.
+Ovo je prica iz rada sa najvecim domacim brendom anatomske obuce. Ime ne navodimo javno, ali broj poseta i porudï¿½bina je veliki. Zato se svaka promena brzo vidi.
 
 Problem je bio jasan. Posete su postojale, ali prodaja nije pratila taj broj. Ljudi udu na sajt, pogledaju proizvod, ubace u korpu i onda odustanu.
 
-To nije izuzetak. Baymard Institute pokazuje da je prosecna stopa napu�tanja korpe oko 70%. Zato je fokus bio da smanjimo odustajanje u kljucnim koracima, a ne da jurimo samo vi�e klikova.
+To nije izuzetak. Baymard Institute pokazuje da je prosecna stopa napuï¿½tanja korpe oko 70%. Zato je fokus bio da smanjimo odustajanje u kljucnim koracima, a ne da jurimo samo viï¿½e klikova.
 
-Najva�nija odluka je bila da ne di�emo odmah bud�et za oglase. Prvo smo sredili put kupca kroz sajt. Tek posle toga ima smisla da se jace placa saobracaj.
+Najvaï¿½nija odluka je bila da ne diï¿½emo odmah budï¿½et za oglase. Prvo smo sredili put kupca kroz sajt. Tek posle toga ima smisla da se jace placa saobracaj.
 
 ## 1) Ubrzali smo mobilni sajt (46 -> 99)
 
-�ta smo uradili: popravili smo tehnicke stvari koje usporavaju ucitavanje. Posebno smo sredili stranicu proizvoda i korpu, jer tu kupac odlucuje.
+ï¿½ta smo uradili: popravili smo tehnicke stvari koje usporavaju ucitavanje. Posebno smo sredili stranicu proizvoda i korpu, jer tu kupac odlucuje.
 
-Kakav je rezultat: manje ljudi je napu�talo sajt odmah, a vi�e njih je dolazilo do korpe. To je bio prvi veliki pomak.
+Kakav je rezultat: manje ljudi je napuï¿½talo sajt odmah, a viï¿½e njih je dolazilo do korpe. To je bio prvi veliki pomak.
 
-Za�to je ovo bitno: Google je jo� ranije objavio da 53% mobilnih korisnika napusti stranicu ako ucitavanje traje du�e od 3 sekunde. Kad smo ubrzali kriticne stranice, sklonili smo veliki deo tog pocetnog gubitka.
+Zaï¿½to je ovo bitno: Google je joï¿½ ranije objavio da 53% mobilnih korisnika napusti stranicu ako ucitavanje traje duï¿½e od 3 sekunde. Kad smo ubrzali kriticne stranice, sklonili smo veliki deo tog pocetnog gubitka.
 
-Kako ovo mo�ete da primenite kod sebe: izmerite tri stranice koje nose prodaju, pocetna, proizvod i korpa. Ako su te tri strane spore, svaki dinar za oglas je skuplji nego �to treba.
+Kako ovo moï¿½ete da primenite kod sebe: izmerite tri stranice koje nose prodaju, pocetna, proizvod i korpa. Ako su te tri strane spore, svaki dinar za oglas je skuplji nego ï¿½to treba.
 
 ## 2) Mini-korpa je dobila jasan cilj
 
-�ta smo uradili: u mini-korpu smo dodali jasan prikaz koliko jo� fali do besplatne dostave.
+ï¿½ta smo uradili: u mini-korpu smo dodali jasan prikaz koliko joï¿½ fali do besplatne dostave.
 
-Kakav je rezultat: prosecna vrednost porud�bine je porasla. Kupac je imao jasan razlog da doda jo� jedan proizvod.
+Kakav je rezultat: prosecna vrednost porudï¿½bine je porasla. Kupac je imao jasan razlog da doda joï¿½ jedan proizvod.
 
-Kako ovo mo�ete da primenite kod sebe: ako imate prag za besplatnu dostavu, prika�ite ga tamo gde kupac donosi odluku. Ne sakrivajte ga do kraja kupovine.
+Kako ovo moï¿½ete da primenite kod sebe: ako imate prag za besplatnu dostavu, prikaï¿½ite ga tamo gde kupac donosi odluku. Ne sakrivajte ga do kraja kupovine.
 
 ## 3) Dodali smo smislen predlog proizvoda
 
-�ta smo uradili: umesto nasumicnih preporuka, prikazivali smo proizvode koji stvarno idu zajedno sa onim �to je vec u korpi.
+ï¿½ta smo uradili: umesto nasumicnih preporuka, prikazivali smo proizvode koji stvarno idu zajedno sa onim ï¿½to je vec u korpi.
 
-Kakav je rezultat: vi�e dodatnih kupovina i veci racun, bez grubog prodajnog pritiska.
+Kakav je rezultat: viï¿½e dodatnih kupovina i veci racun, bez grubog prodajnog pritiska.
 
-Kako ovo mo�ete da primenite kod sebe: za svaki top proizvod odredite 2-3 prirodna dodatka. Ako ne mo�ete da objasnite za�to idu zajedno, taj predlog nije dobar.
+Kako ovo moï¿½ete da primenite kod sebe: za svaki top proizvod odredite 2-3 prirodna dodatka. Ako ne moï¿½ete da objasnite zaï¿½to idu zajedno, taj predlog nije dobar.
 
 ## 4) Uveli smo realan prikaz zaliha
 
-�ta smo uradili: prikazivali smo stvarno stanje zaliha po velicinama.
+ï¿½ta smo uradili: prikazivali smo stvarno stanje zaliha po velicinama.
 
-Kakav je rezultat: manje odlaganja odluke. Ljudi su br�e kupovali kada su videli koliko brojeva je ostalo.
+Kakav je rezultat: manje odlaganja odluke. Ljudi su brï¿½e kupovali kada su videli koliko brojeva je ostalo.
 
-Kako ovo mo�ete da primenite kod sebe: ne koristite la�nu hitnost. Prika�ite realan broj komada i redovno osve�avajte stanje.
+Kako ovo moï¿½ete da primenite kod sebe: ne koristite laï¿½nu hitnost. Prikaï¿½ite realan broj komada i redovno osveï¿½avajte stanje.
 
 ## 5) Niwa je aktivirao kupon u pravom trenutku
 
-�ta smo uradili: kada korisnik ubaci dva proizvoda u korpu, Niwa po�alje dodatni kupon koji kratko traje.
+ï¿½ta smo uradili: kada korisnik ubaci dva proizvoda u korpu, Niwa poï¿½alje dodatni kupon koji kratko traje.
 
-Kakav je rezultat: vi�e kupaca je zavr�avalo kupovinu umesto da ostavi korpu za kasnije.
+Kakav je rezultat: viï¿½e kupaca je zavrï¿½avalo kupovinu umesto da ostavi korpu za kasnije.
 
-Kako ovo mo�ete da primenite kod sebe: kupon dajte kada je namera kupovine vec visoka. Ako kupon ide svima stalno, gubi snagu.
+Kako ovo moï¿½ete da primenite kod sebe: kupon dajte kada je namera kupovine vec visoka. Ako kupon ide svima stalno, gubi snagu.
 
-## 6) Niwa je re�io najvecu dilemu: velicina
+## 6) Niwa je reï¿½io najvecu dilemu: velicina
 
-�ta smo uradili: kada sistem prepozna oklevanje, Niwa pokrece kratku poruku i vodi kupca kroz vodic velicina.
+ï¿½ta smo uradili: kada sistem prepozna oklevanje, Niwa pokrece kratku poruku i vodi kupca kroz vodic velicina.
 
-Kakav je rezultat: manje napu�tenih korpi zbog pitanja da li ce broj odgovarati.
+Kakav je rezultat: manje napuï¿½tenih korpi zbog pitanja da li ce broj odgovarati.
 
-Za�to chat poma�e: Salesforce istra�ivanja pokazuju da kupci ocekuju vrlo brz odgovor kada kontaktiraju brend. Kada kupac dobije pomoc odmah, manja je �ansa da napusti kupovinu i ode kod konkurencije.
+Zaï¿½to chat pomaï¿½e: Salesforce istraï¿½ivanja pokazuju da kupci ocekuju vrlo brz odgovor kada kontaktiraju brend. Kada kupac dobije pomoc odmah, manja je ï¿½ansa da napusti kupovinu i ode kod konkurencije.
 
-Kako ovo mo�ete da primenite kod sebe: nadite jedan glavni razlog odustajanja i napravite jednu kratku pomoc ba� za taj razlog.
+Kako ovo moï¿½ete da primenite kod sebe: nadite jedan glavni razlog odustajanja i napravite jednu kratku pomoc baï¿½ za taj razlog.
 
 ## 7) Exit trenutak smo iskoristili pametno
 
-�ta smo uradili: kada korisnik krene da zatvori sajt, Niwa prika�e kratak interaktivan i komican GIF koji ga vrati u tok kupovine.
+ï¿½ta smo uradili: kada korisnik krene da zatvori sajt, Niwa prikaï¿½e kratak interaktivan i komican GIF koji ga vrati u tok kupovine.
 
-Kakav je rezultat: deo ljudi koji bi oti�ao bez kupovine ostao je jo� malo i zavr�io porud�binu.
+Kakav je rezultat: deo ljudi koji bi otiï¿½ao bez kupovine ostao je joï¿½ malo i zavrï¿½io porudï¿½binu.
 
-Kako ovo mo�ete da primenite kod sebe: poruka na izlazu treba da bude kratka i korisna. Ako deluje napadno, efekat je suprotan.
+Kako ovo moï¿½ete da primenite kod sebe: poruka na izlazu treba da bude kratka i korisna. Ako deluje napadno, efekat je suprotan.
 
 ## Glavna lekcija
 
-Profit je porastao 4x, ali ne zbog jednog trika. Rast je do�ao iz vi�e malih, pametnih promena koje su skinule trenje na pravim mestima.
+Profit je porastao 4x, ali ne zbog jednog trika. Rast je doï¿½ao iz viï¿½e malih, pametnih promena koje su skinule trenje na pravim mestima.
 
 Redosled je bio presudan: prvo brzina, pa jasnija korpa, pa pametne poruke u pravom trenutku. Tek posle toga ima smisla da pojacate oglase.
 
 ## Kako da ovo primenite za 14 dana
 
-Prva tri dana radite brzinu i mapu tacaka gde ljudi odustaju. Sledeca cetiri dana sredite mini-korpu i predloge proizvoda. U drugoj nedelji uvedite realnu zalihu, jednu pametnu poruku za glavni prigovor i test poruku na izlazu. Na kraju merite tri broja: prosecnu vrednost porud�bine, stopu konverzije i stopu napu�tanja korpe.
+Prva tri dana radite brzinu i mapu tacaka gde ljudi odustaju. Sledeca cetiri dana sredite mini-korpu i predloge proizvoda. U drugoj nedelji uvedite realnu zalihu, jednu pametnu poruku za glavni prigovor i test poruku na izlazu. Na kraju merite tri broja: prosecnu vrednost porudï¿½bine, stopu konverzije i stopu napuï¿½tanja korpe.
 
 Ako se ta tri broja pomere u dobrom smeru, na pravom si putu.
 
 ---
 
-Za �iri kontekst pogledajte i [A/B testiranje: male promene, veliki rezultati](/blog/ab-testiranje-male-promene-veliki-rezultati), [Web shop nema prodaju: 5 razloga i re�enja](/web-shop-nema-prodaju) i [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026).
+Za ï¿½iri kontekst pogledajte i [A/B testiranje: male promene, veliki rezultati](/blog/ab-testiranje-male-promene-veliki-rezultati), [Web shop nema prodaju: 5 razloga i reï¿½enja](/web-shop-nema-prodaju) i [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026).
 `,
   },,
   {
     slug: 'hormozi-ponuda-kojoj-klijent-ne-kaze-ne',
-    title: 'Alex Hormozi pristup: kako da napravite ponudu kojoj klijent te�ko ka�e ne',
+    title: 'Alex Hormozi pristup: kako da napravite ponudu kojoj klijent teï¿½ko kaï¿½e ne',
     excerpt: 'Dobra usluga nije dovoljna ako ponuda nije jasna. Evo prakticnog okvira kako da formirate ponudu koja smanjuje rizik klijenta i povecava prodaju.',
     date: '2026-03-10',
     category: 'Marketing',
     readTime: '8 min',
     content: `
-## Za�to vecina ponuda ne prolazi
+## Zaï¿½to vecina ponuda ne prolazi
 
-Najce�ci problem nije cena. Problem je nejasna vrednost. Klijent ne vidi tacno �ta dobija, kada dobija i kako merimo rezultat.
+Najceï¿½ci problem nije cena. Problem je nejasna vrednost. Klijent ne vidi tacno ï¿½ta dobija, kada dobija i kako merimo rezultat.
 
-Hormozi pristup je jednostavan: ponuda mora da podigne �eljeni ishod, skrati vreme do rezultata i smanji trud i rizik za klijenta.
+Hormozi pristup je jednostavan: ponuda mora da podigne ï¿½eljeni ishod, skrati vreme do rezultata i smanji trud i rizik za klijenta.
 
-## 1) Defini�ite ishod koji klijent kupuje
+## 1) Definiï¿½ite ishod koji klijent kupuje
 
-Ne prodajete �SEO uslugu�. Klijent kupuje vi�e upita i vi�e prodaje.
+Ne prodajete ï¿½SEO usluguï¿½. Klijent kupuje viï¿½e upita i viï¿½e prodaje.
 
 ## 2) Uklonite nejasnoce iz ponude
 
-U svakoj ponudi jasno napi�ite:
-- �ta tacno radite,
+U svakoj ponudi jasno napiï¿½ite:
+- ï¿½ta tacno radite,
 - koliko cesto,
 - ko je odgovoran,
 - koji je rok prve isporuke.
 
 ## 3) Smanjite rizik za klijenta
 
-Klijent ne voli nepoznat rizik. Zato uvedite za�titu:
+Klijent ne voli nepoznat rizik. Zato uvedite zaï¿½titu:
 - jasan probni period,
 - KPI koji su transparentni,
 - plan korekcije ako rezultati kasne.
 
 ## 4) Pojacajte vrednost kroz strukturu isporuke
 
-Ista usluga deluje vrednije kada je struktura jasna: pocetni audit, plan po fazama, nedeljni update, mesecni izve�taj.
+Ista usluga deluje vrednije kada je struktura jasna: pocetni audit, plan po fazama, nedeljni update, mesecni izveï¿½taj.
 
 ## 5) Cena bez konteksta je samo broj
 
-Cenu uvek vezujte za ishod i obim posla. Umesto jedne cifre, prika�ite pakete i �ta svaki paket re�ava.
+Cenu uvek vezujte za ishod i obim posla. Umesto jedne cifre, prikaï¿½ite pakete i ï¿½ta svaki paket reï¿½ava.
 
 ## Zakljucak
 
-Kad klijent vidi jasan ishod, plan i kontrolu rizika, odluka dolazi br�e. To je su�tina ponude kojoj je te�ko reci ne.
+Kad klijent vidi jasan ishod, plan i kontrolu rizika, odluka dolazi brï¿½e. To je suï¿½tina ponude kojoj je teï¿½ko reci ne.
 
-Ako �elite �iri kontekst, pogledajte i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share), [cene digitalnog marketinga](/cene-digitalnog-marketinga), [kako izabrati pravu marketing agenciju](/blog/kako-izabrati-pravu-marketing-agenciju) i [konsultantski pregled ponude i prioriteta](/consulting).
+Ako ï¿½elite ï¿½iri kontekst, pogledajte i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share), [cene digitalnog marketinga](/cene-digitalnog-marketinga), [kako izabrati pravu marketing agenciju](/blog/kako-izabrati-pravu-marketing-agenciju) i [konsultantski pregled ponude i prioriteta](/consulting).
 
-Ako �elite da pretvorimo ovu logiku u konkretnu ponudu za va� biznis, [javite se](/kontakt) i dobicete jasan predlog sledecih koraka.
+Ako ï¿½elite da pretvorimo ovu logiku u konkretnu ponudu za vaï¿½ biznis, [javite se](/kontakt) i dobicete jasan predlog sledecih koraka.
 `,
   }
 ,
   {
     slug: 'leila-hormozi-sistem-za-rast-biznisa',
-    title: 'Leila Hormozi lekcija: za�to biznis ne raste bez jasnog sistema',
-    excerpt: 'Mnogo firmi ne zapinje na prodaji, nego na haosu posle prodaje. Evo jednostavnog okvira kako da uvedete sistem i rastete bez ga�enja po�ara svaki dan.',
+    title: 'Leila Hormozi lekcija: zaï¿½to biznis ne raste bez jasnog sistema',
+    excerpt: 'Mnogo firmi ne zapinje na prodaji, nego na haosu posle prodaje. Evo jednostavnog okvira kako da uvedete sistem i rastete bez gaï¿½enja poï¿½ara svaki dan.',
     date: '2026-03-10',
     category: 'Biznis',
     readTime: '8 min',
     content: `
-## Problem koji gu�i rast
+## Problem koji guï¿½i rast
 
-Vecina vlasnika misli da je glavni problem "treba nam vi�e klijenata". U praksi, cesto je obrnuto. Klijenti dodu, ali tim nema jasan sistem isporuke. Tada krece haos: ka�njenja, gre�ke, stres i pad kvaliteta.
+Vecina vlasnika misli da je glavni problem "treba nam viï¿½e klijenata". U praksi, cesto je obrnuto. Klijenti dodu, ali tim nema jasan sistem isporuke. Tada krece haos: kaï¿½njenja, greï¿½ke, stres i pad kvaliteta.
 
 Leila Hormozi stalno ponavlja istu stvar: rast bez sistema nije rast, to je kratkorocno preopterecenje.
 
-## Kako izgleda lo� sistem u praksi
+## Kako izgleda loï¿½ sistem u praksi
 
 Prepoznacete ga po ovim signalima:
 - svaka nova osoba u timu pita iste stvari,
 - proces zavisi od "jednog heroja" koji sve zna,
 - vlasnik stalno uskace da gasi probleme,
-- rezultat zavisi od raspolo�enja, ne od procesa.
+- rezultat zavisi od raspoloï¿½enja, ne od procesa.
 
-Ako imate ova 4 signala, problem nije u ljudima. Problem je u tome �to posao nije pretvoren u jasan operativni sistem.
+Ako imate ova 4 signala, problem nije u ljudima. Problem je u tome ï¿½to posao nije pretvoren u jasan operativni sistem.
 
 ## Okvir: 4 koraka za stabilan rast
 
-### 1) Defini�ite standard isporuke
+### 1) Definiï¿½ite standard isporuke
 
-Napi�ite �ta znaci "dobro odraden posao". Bez toga nema kvaliteta koji se mo�e ponavljati.
+Napiï¿½ite ï¿½ta znaci "dobro odraden posao". Bez toga nema kvaliteta koji se moï¿½e ponavljati.
 
-Primer: umesto "dobra kampanja", defini�ite minimum: broj testova, KPI pragovi, rok za prvi izve�taj i format preporuka.
+Primer: umesto "dobra kampanja", definiï¿½ite minimum: broj testova, KPI pragovi, rok za prvi izveï¿½taj i format preporuka.
 
 ### 2) Dokumentujte kljucne procese
 
-Ne treba vam 200 stranica dokumentacije. Dovoljno je da opi�ete 5-7 procesa koji najvi�e uticu na prihod.
+Ne treba vam 200 stranica dokumentacije. Dovoljno je da opiï¿½ete 5-7 procesa koji najviï¿½e uticu na prihod.
 
-Za svaki proces napi�ite:
-- ulaz (�ta je potrebno da pocne),
+Za svaki proces napiï¿½ite:
+- ulaz (ï¿½ta je potrebno da pocne),
 - korake,
-- izlaz (�ta mora biti zavr�eno),
+- izlaz (ï¿½ta mora biti zavrï¿½eno),
 - vlasnika procesa.
 
 ### 3) Uvedite ritam kontrole
@@ -8110,23 +8337,23 @@ Bez ritma, sistem se raspadne. Uvedite jednostavan operativni tempo:
 - mesecni pregled uskih grla,
 - kvartalni update procesa.
 
-To je dovoljno da tim vidi �ta radi, �ta ne radi i �ta menjamo sledece.
+To je dovoljno da tim vidi ï¿½ta radi, ï¿½ta ne radi i ï¿½ta menjamo sledece.
 
 ### 4) Smanjite zavisnost od vlasnika
 
 Ako sve staje kad vi niste tu, firma nije skalabilna. Cilj sistema je da rezultat bude stabilan i kada vlasnik nije u svakom detalju.
 
-To znaci: jasne odgovornosti, merljivi standardi i proces koji mo�e da preuzme drugi clan tima.
+To znaci: jasne odgovornosti, merljivi standardi i proces koji moï¿½e da preuzme drugi clan tima.
 
-## Najveca gre�ka
+## Najveca greï¿½ka
 
-Najveca gre�ka je da uvodite nove alate pre nego �to sredite osnovni proces. Alat ne popravlja lo� sistem, samo ga br�e �iri kroz firmu.
+Najveca greï¿½ka je da uvodite nove alate pre nego ï¿½to sredite osnovni proces. Alat ne popravlja loï¿½ sistem, samo ga brï¿½e ï¿½iri kroz firmu.
 
 Prvo proces, pa ljudi, pa alat.
 
 ## Kratka checklista
 
-Pre nego �to krenete dalje, proverite:
+Pre nego ï¿½to krenete dalje, proverite:
 - Da li je standard isporuke napisan?
 - Da li su kljucni procesi dokumentovani?
 - Da li postoji ritam kontrole?
@@ -8136,54 +8363,54 @@ Ako je odgovor "ne" na bilo koje pitanje, tu je sledeci prioritet.
 
 ## Zakljucak
 
-Leila pristup je jednostavan: sistem pre brzine. Kada proces radi stabilno, rast vi�e nije haos nego planiran rezultat.
+Leila pristup je jednostavan: sistem pre brzine. Kada proces radi stabilno, rast viï¿½e nije haos nego planiran rezultat.
 
-Ako �elite �iri kontekst, pogledajte i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share), [kako izabrati pravu marketing agenciju](/blog/kako-izabrati-pravu-marketing-agenciju) i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Ako ï¿½elite ï¿½iri kontekst, pogledajte i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share), [kako izabrati pravu marketing agenciju](/blog/kako-izabrati-pravu-marketing-agenciju) i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 `,
   }
 ,
   {
     slug: 'sabri-suby-kako-do-vise-upita-bez-veceg-budzeta',
-    title: 'Sabri Suby pristup: kako do vi�e upita bez veceg bud�eta',
-    excerpt: 'Ako oglasi tro�e bud�et, a upiti stoje, problem cesto nije cena klika nego poruka i ponuda. Evo prakticnog okvira koji mo�ete odmah da primenite.',
+    title: 'Sabri Suby pristup: kako do viï¿½e upita bez veceg budï¿½eta',
+    excerpt: 'Ako oglasi troï¿½e budï¿½et, a upiti stoje, problem cesto nije cena klika nego poruka i ponuda. Evo prakticnog okvira koji moï¿½ete odmah da primenite.',
     date: '2026-03-10',
     category: 'Marketing',
     readTime: '9 min',
     content: `
-## Za�to bud�et nije prvi problem
+## Zaï¿½to budï¿½et nije prvi problem
 
-Kada kampanje ne daju rezultat, vecina firmi odmah poveca bud�et. To je najskuplja gre�ka. Ako poruka i ponuda nisu jasne, veci bud�et samo br�e potro�i novac.
+Kada kampanje ne daju rezultat, vecina firmi odmah poveca budï¿½et. To je najskuplja greï¿½ka. Ako poruka i ponuda nisu jasne, veci budï¿½et samo brï¿½e potroï¿½i novac.
 
 Sabri Suby okvir krece od osnove: prvo popravljate poruku, zatim ponudu, pa tek onda skaliranje.
 
 ## 1) Poruka mora da pogodi konkretan problem
 
-Ne pi�ite op�te poruke tipa "poma�emo biznisima da rastu". Kupac mora da prepozna sebe u prvoj recenici.
+Ne piï¿½ite opï¿½te poruke tipa "pomaï¿½emo biznisima da rastu". Kupac mora da prepozna sebe u prvoj recenici.
 
 Bolje je:
 - "Imate posete, ali malo upita?"
 - "Placate oglase, a leadovi su slabi?"
-- "Tim vam tro�i vreme na neozbiljne upite?"
+- "Tim vam troï¿½i vreme na neozbiljne upite?"
 
-Kada problem zvuci tacno, pa�nja raste odmah.
+Kada problem zvuci tacno, paï¿½nja raste odmah.
 
 ## 2) Ponuda mora da smanji rizik
 
 Ljudi ne kupuju kada ne veruju da ce dobiti rezultat. Zato ponuda mora da bude jasna i bez magle:
-- �ta tacno dobijaju,
+- ï¿½ta tacno dobijaju,
 - u kom roku,
 - kako merite uspeh,
-- �ta se de�ava ako rezultat kasni.
+- ï¿½ta se deï¿½ava ako rezultat kasni.
 
 To ne znaci velika obecanja. Znaci fer i precizan okvir.
 
 ## 3) Funnel mora da bude kratak i jasan
 
-Najvi�e upita se gubi izmedu oglasa i forme. Ako je stranica spora, tekst nejasan ili CTA slab, upit propada.
+Najviï¿½e upita se gubi izmedu oglasa i forme. Ako je stranica spora, tekst nejasan ili CTA slab, upit propada.
 
 Proverite tri stvari:
 1. Da li je naslov jasan za 3 sekunde?
-2. Da li forma tra�i samo nu�no?
+2. Da li forma traï¿½i samo nuï¿½no?
 3. Da li je sledeci korak potpuno jasan?
 
 Ako ove tri tacke rade, rezultat se vidi brzo.
@@ -8193,7 +8420,7 @@ Ako ove tri tacke rade, rezultat se vidi brzo.
 Dobra kreativa nije "lepa" kreativa. Dobra kreativa je ona koja jasno komunicira:
 - problem,
 - posledicu,
-- re�enje,
+- reï¿½enje,
 - poziv na akciju.
 
 Jedan jak ugao cesto radi bolje od deset prosecnih oglasa.
@@ -8201,16 +8428,16 @@ Jedan jak ugao cesto radi bolje od deset prosecnih oglasa.
 ## 5) Merenje mora da vodi sledecu odluku
 
 Bez metrike nema optimizacije. Minimalni set koji treba pratiti:
-- CTR (da li poruka privlaci pa�nju),
+- CTR (da li poruka privlaci paï¿½nju),
 - stopa konverzije landing stranice,
 - cena po kvalifikovanom upitu,
 - procenat zakazanih poziva iz upita.
 
-Ako znate ove brojeve, znate i �ta tacno treba popraviti.
+Ako znate ove brojeve, znate i ï¿½ta tacno treba popraviti.
 
 ## Brza checklista za narednih 7 dana
 
-Dan 1-2: prepi�ite poruku da re�ava jedan konkretan problem.
+Dan 1-2: prepiï¿½ite poruku da reï¿½ava jedan konkretan problem.
 
 Dan 3-4: zategnite ponudu (jasan ishod, rok i nacin merenja).
 
@@ -8220,64 +8447,64 @@ Dan 6-7: testirajte 2 ugla kreativa i izaberite pobednika po kvalifikovanim upit
 
 ## Zakljucak
 
-Vi�e upita bez veceg bud�eta je moguce kada poruka i ponuda rade zajedno. To je su�tina Sabri Suby pristupa: jasnoca pre skaliranja.
+Viï¿½e upita bez veceg budï¿½eta je moguce kada poruka i ponuda rade zajedno. To je suï¿½tina Sabri Suby pristupa: jasnoca pre skaliranja.
 
-Ako �elite �iri kontekst, pogledajte i [Google reklame cena](/google-reklame-cena), [Instagram reklame cena](/instagram-reklame-cena) i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share).
+Ako ï¿½elite ï¿½iri kontekst, pogledajte i [Google reklame cena](/google-reklame-cena), [Instagram reklame cena](/instagram-reklame-cena) i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share).
 
-Ako �elite da pogledamo gde vam ta�no puca funnel i �ta prvo treba zategnuti, [javite se](/kontakt) i dobicete konkretan predlog prioriteta.
+Ako ï¿½elite da pogledamo gde vam taï¿½no puca funnel i ï¿½ta prvo treba zategnuti, [javite se](/kontakt) i dobicete konkretan predlog prioriteta.
 `,
   }
 ,
   {
     slug: 'alex-hormozi-grand-slam-ponuda-za-usluge',
-    title: 'Alex Hormozi Grand Slam ponuda: kako da uslugu pretvorite u ponudu koju je te�ko odbiti',
-    excerpt: 'Dobar marketing ne poma�e ako je ponuda slaba. Evo jednostavnog okvira kako da podignete vrednost usluge, smanjite rizik za klijenta i ubrzate odluku.',
+    title: 'Alex Hormozi Grand Slam ponuda: kako da uslugu pretvorite u ponudu koju je teï¿½ko odbiti',
+    excerpt: 'Dobar marketing ne pomaï¿½e ako je ponuda slaba. Evo jednostavnog okvira kako da podignete vrednost usluge, smanjite rizik za klijenta i ubrzate odluku.',
     date: '2026-03-10',
     category: 'Marketing',
     readTime: '9 min',
     content: `
-## Za�to mnogo firmi ima upite, ali slabu prodaju
+## Zaï¿½to mnogo firmi ima upite, ali slabu prodaju
 
-Najce�ci problem nije broj upita. Problem je �to ponuda zvuci isto kao kod svih ostalih. Kada klijent ne vidi jasnu razliku, odluka se svodi na cenu. Tada pregovori traju dugo, mar�a pada, a zatvaranje poslova ide sporo.
+Najceï¿½ci problem nije broj upita. Problem je ï¿½to ponuda zvuci isto kao kod svih ostalih. Kada klijent ne vidi jasnu razliku, odluka se svodi na cenu. Tada pregovori traju dugo, marï¿½a pada, a zatvaranje poslova ide sporo.
 
-Alex Hormozi to re�ava kroz �Grand Slam� logiku: ponuda mora da bude toliko jasna i korisna da klijent razume vrednost bez dodatnog obja�njavanja.
+Alex Hormozi to reï¿½ava kroz ï¿½Grand Slamï¿½ logiku: ponuda mora da bude toliko jasna i korisna da klijent razume vrednost bez dodatnog objaï¿½njavanja.
 
-## 1) Pocnite od ishoda koji klijent �eli
+## 1) Pocnite od ishoda koji klijent ï¿½eli
 
-Ne kupuje se �SEO�, �oglasi� ili �sajt�. Kupuje se rezultat: vi�e upita, vi�e prodaje, stabilniji rast.
+Ne kupuje se ï¿½SEOï¿½, ï¿½oglasiï¿½ ili ï¿½sajtï¿½. Kupuje se rezultat: viï¿½e upita, viï¿½e prodaje, stabilniji rast.
 
-Zato ponuda treba da pocne recenicom koja jasno ka�e ishod. Na primer:
-- vi�e kvalifikovanih upita u narednih 90 dana,
-- ni�i tro�ak po upitu,
-- bolji odnos ulo�enog bud�eta i prihoda.
+Zato ponuda treba da pocne recenicom koja jasno kaï¿½e ishod. Na primer:
+- viï¿½e kvalifikovanih upita u narednih 90 dana,
+- niï¿½i troï¿½ak po upitu,
+- bolji odnos uloï¿½enog budï¿½eta i prihoda.
 
-Kad je ishod jasan, klijent lak�e vidi za�to ula�e.
+Kad je ishod jasan, klijent lakï¿½e vidi zaï¿½to ulaï¿½e.
 
 ## 2) Povecajte verovatnocu uspeha
 
-Klijent ne placa trud, vec �ansu da dobije rezultat. Tu �ansu podi�ete tako �to u ponudi jasno poka�ete sistem rada:
+Klijent ne placa trud, vec ï¿½ansu da dobije rezultat. Tu ï¿½ansu podiï¿½ete tako ï¿½to u ponudi jasno pokaï¿½ete sistem rada:
 - pocetni audit,
 - plan po fazama,
 - nedeljne optimizacije,
-- mesecni izve�taj sa sledecim koracima.
+- mesecni izveï¿½taj sa sledecim koracima.
 
-�to je sistem jasniji, ponuda izgleda ozbiljnije i sigurnije.
+ï¿½to je sistem jasniji, ponuda izgleda ozbiljnije i sigurnije.
 
 ## 3) Smanjite vreme do prvog rezultata
 
-Ljudi odustaju kada misle da ce cekati predugo. Zato defini�ite prvi vidljiv pomak brzo.
+Ljudi odustaju kada misle da ce cekati predugo. Zato definiï¿½ite prvi vidljiv pomak brzo.
 
-Primer: u prvoj nedelji ide tehnicki setup i merenje, u drugoj test kampanje, u trecoj prve optimizacije. Klijent odmah vidi da se ne�to konkretno de�ava.
+Primer: u prvoj nedelji ide tehnicki setup i merenje, u drugoj test kampanje, u trecoj prve optimizacije. Klijent odmah vidi da se neï¿½to konkretno deï¿½ava.
 
-## 4) Smanjite napor koji klijent mora da ulo�i
+## 4) Smanjite napor koji klijent mora da uloï¿½i
 
-Ako klijent mora da vodi ceo proces, ponuda deluje te�ka. Zato jasno napi�ite �ta vi preuzimate, a �ta tra�ite od klijenta.
+Ako klijent mora da vodi ceo proces, ponuda deluje teï¿½ka. Zato jasno napiï¿½ite ï¿½ta vi preuzimate, a ï¿½ta traï¿½ite od klijenta.
 
 Dobar odnos je: vi preuzimate kompleksno, klijent daje kljucne inpute. To povecava verovatnocu da saradnja stvarno krene.
 
 ## 5) Uvedite mehanizam smanjenja rizika
 
-Veliki razlog za �javicu se kasnije� je strah od pogre�ne odluke. Zato ponuda mora da ima fer za�titu:
+Veliki razlog za ï¿½javicu se kasnijeï¿½ je strah od pogreï¿½ne odluke. Zato ponuda mora da ima fer zaï¿½titu:
 - transparentne KPI,
 - jasan period evaluacije,
 - plan korekcije ako rezultat kasni.
@@ -8286,50 +8513,50 @@ Ne obecavajte nemoguce. Dajte realan okvir koji gradi poverenje.
 
 ## 6) Spakujte ponudu tako da je lako uporediva
 
-Umesto jedne �magicne� cifre, prika�ite nivoe ponude i �ta svaki nivo re�ava. Klijent tada ne kupuje naslepo, nego bira prema cilju i bud�etu.
+Umesto jedne ï¿½magicneï¿½ cifre, prikaï¿½ite nivoe ponude i ï¿½ta svaki nivo reï¿½ava. Klijent tada ne kupuje naslepo, nego bira prema cilju i budï¿½etu.
 
-Kada je struktura jasna, manje je praznih pregovora i br�e dolazi do odluke.
+Kada je struktura jasna, manje je praznih pregovora i brï¿½e dolazi do odluke.
 
 ## Brza checklista pre slanja ponude
 
-Pre nego �to po�aljete ponudu, proverite:
+Pre nego ï¿½to poï¿½aljete ponudu, proverite:
 - Da li je ishod napisan jednom jasnom recenicom?
 - Da li je plan rada po fazama konkretan?
 - Da li je vreme do prvog rezultata jasno?
 - Da li je rizik za klijenta smanjen kroz transparentan okvir?
 
-Ako je odgovor �da� na sva pitanja, ponuda je spremna.
+Ako je odgovor ï¿½daï¿½ na sva pitanja, ponuda je spremna.
 
 ## Zakljucak
 
-Hormozi pristup nije �fensi prodaja�. To je disciplina: jasna vrednost, jasan sistem i jasan rizik. Kada to postavite kako treba, razgovor vi�e nije �za�to je skupo�, nego �kada krecemo�.
+Hormozi pristup nije ï¿½fensi prodajaï¿½. To je disciplina: jasna vrednost, jasan sistem i jasan rizik. Kada to postavite kako treba, razgovor viï¿½e nije ï¿½zaï¿½to je skupoï¿½, nego ï¿½kada krecemoï¿½.
 
-Ako �elite da uporedite modele naplate i bud�eta, pogledajte i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share), [cene digitalnog marketinga](/cene-digitalnog-marketinga) i [Google reklame cena](/google-reklame-cena).
+Ako ï¿½elite da uporedite modele naplate i budï¿½eta, pogledajte i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share), [cene digitalnog marketinga](/cene-digitalnog-marketinga) i [Google reklame cena](/google-reklame-cena).
 `,
   }
 ,
   {
     slug: 'leila-hormozi-kpi-tabla-za-stabilan-rast',
-    title: 'Leila Hormozi KPI tabla: kako da vodi� firmu bez haosa i ga�enja po�ara',
-    excerpt: 'Kad tim nema jasne brojeve, odluke se donose po osecaju. Evo jednostavne KPI table koja poma�e da vidi� �ta stvarno koci rast i �ta prvo popraviti.',
+    title: 'Leila Hormozi KPI tabla: kako da vodiï¿½ firmu bez haosa i gaï¿½enja poï¿½ara',
+    excerpt: 'Kad tim nema jasne brojeve, odluke se donose po osecaju. Evo jednostavne KPI table koja pomaï¿½e da vidiï¿½ ï¿½ta stvarno koci rast i ï¿½ta prvo popraviti.',
     date: '2026-03-10',
     category: 'Biznis',
     readTime: '8 min',
     content: `
-## Za�to firme zapinju i kada imaju promet
+## Zaï¿½to firme zapinju i kada imaju promet
 
-Mnoge firme rastu u prihodima, ali vlasnik i dalje oseca da stalno gasi po�are. Razlog je jednostavan: nema jasne KPI table koja pokazuje gde tacno curi rezultat.
+Mnoge firme rastu u prihodima, ali vlasnik i dalje oseca da stalno gasi poï¿½are. Razlog je jednostavan: nema jasne KPI table koja pokazuje gde tacno curi rezultat.
 
 Leila Hormozi pristup je praktican: ne treba vam 40 metrika, treba vam mali broj pravih brojeva koji vode odluku.
 
-## �ta je KPI tabla koja radi
+## ï¿½ta je KPI tabla koja radi
 
 Dobra tabla ima 3 nivoa:
 1. marketing,
 2. prodaja,
 3. isporuka.
 
-Ako nedostaje jedan nivo, dobija� iskrivljenu sliku. Na primer, marketing mo�e da izgleda odlicno, ali ako prodaja slabo zatvara, firma i dalje trpi.
+Ako nedostaje jedan nivo, dobijaï¿½ iskrivljenu sliku. Na primer, marketing moï¿½e da izgleda odlicno, ali ako prodaja slabo zatvara, firma i dalje trpi.
 
 ## 1) Marketing KPI koji moraju da postoje
 
@@ -8349,21 +8576,21 @@ Bez ovih brojeva, prodaja je "osecaj":
 - prosecna vrednost ugovora,
 - vreme od prvog kontakta do potpisa.
 
-Kada ove brojke padnu, zna� da problem nije u marketingu nego u prodajnom toku.
+Kada ove brojke padnu, znaï¿½ da problem nije u marketingu nego u prodajnom toku.
 
-## 3) KPI isporuke koji �tite profit
+## 3) KPI isporuke koji ï¿½tite profit
 
-Rast bez kontrole isporuke jede mar�u. Prati:
+Rast bez kontrole isporuke jede marï¿½u. Prati:
 - prosecno vreme isporuke,
-- procenat ka�njenja,
+- procenat kaï¿½njenja,
 - broj revizija po projektu,
 - zadovoljstvo klijenta posle prve faze.
 
-Ako ovi KPI nisu pod kontrolom, rast ce te skupo ko�tati.
+Ako ovi KPI nisu pod kontrolom, rast ce te skupo koï¿½tati.
 
 ## Kako da tabela bude stvarno korisna
 
-Tabela mora da vodi akciju, ne da bude ukras. Zato za svaki KPI defini�i:
+Tabela mora da vodi akciju, ne da bude ukras. Zato za svaki KPI definiï¿½i:
 - ciljnu vrednost,
 - alarm prag,
 - sledeci korak kada KPI ude u crveno.
@@ -8371,45 +8598,45 @@ Tabela mora da vodi akciju, ne da bude ukras. Zato za svaki KPI defini�i:
 Primer:
 Ako je cena po kvalifikovanom upitu iznad cilja 2 nedelje zaredom, radi se revizija kreativa i publika.
 
-## Najveca gre�ka
+## Najveca greï¿½ka
 
-Najce�ca gre�ka je da tim prati previ�e brojeva. Tada niko ne zna �ta je prioritet. Bolje je 10 KPI koje svi razumeju nego 50 koje niko ne koristi.
+Najceï¿½ca greï¿½ka je da tim prati previï¿½e brojeva. Tada niko ne zna ï¿½ta je prioritet. Bolje je 10 KPI koje svi razumeju nego 50 koje niko ne koristi.
 
 ## Nedeljni ritam koji Leila stil preporucuje
 
 Jedan kratak sastanak nedeljno:
 - 10 minuta pregled KPI,
-- 10 minuta �ta je crveno,
+- 10 minuta ï¿½ta je crveno,
 - 10 minuta koji je jedan fokus za sledecu nedelju.
 
 To je dovoljno da firma ostane u kontroli i dok raste.
 
 ## Zakljucak
 
-KPI tabla nije administracija. To je komandna tabla firme. Kada je jednostavna i disciplinovano vodena, odluke su br�e, tim je mirniji i rast postaje predvidljiv.
+KPI tabla nije administracija. To je komandna tabla firme. Kada je jednostavna i disciplinovano vodena, odluke su brï¿½e, tim je mirniji i rast postaje predvidljiv.
 
-Za �iri kontekst pogledajte i [Leila Hormozi sistem za rast biznisa](/blog/leila-hormozi-sistem-za-rast-biznisa), [cene digitalnog marketinga](/cene-digitalnog-marketinga) i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share).
+Za ï¿½iri kontekst pogledajte i [Leila Hormozi sistem za rast biznisa](/blog/leila-hormozi-sistem-za-rast-biznisa), [cene digitalnog marketinga](/cene-digitalnog-marketinga) i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share).
 `,
   },
   {
     slug: 'koliko-traje-seo-da-donese-rezultate-u-srbiji',
     title: 'Koliko traje SEO da donese rezultate u Srbiji (realni rokovi za 2026)',
-    excerpt: 'SEO nije sprint ni magija preko noci. Pogledajte realne rokove po fazama, �ta se meri u prvih 30/60/90 dana i kako da znate da li strategija stvarno radi.',
+    excerpt: 'SEO nije sprint ni magija preko noci. Pogledajte realne rokove po fazama, ï¿½ta se meri u prvih 30/60/90 dana i kako da znate da li strategija stvarno radi.',
     date: '2026-03-10',
     category: 'SEO',
     readTime: '9 min',
     content: `
-## Kratak odgovor: SEO obicno tra�i 3 do 6 meseci za stabilne rezultate
+## Kratak odgovor: SEO obicno traï¿½i 3 do 6 meseci za stabilne rezultate
 
-Ako �elite iskren odgovor na pitanje "koliko traje SEO", onda je to najce�ce **3-6 meseci** da vidite konzistentan rast kvalitetnog organskog saobracaja i upita.
+Ako ï¿½elite iskren odgovor na pitanje "koliko traje SEO", onda je to najceï¿½ce **3-6 meseci** da vidite konzistentan rast kvalitetnog organskog saobracaja i upita.
 
 Nekad se pomaci vide i ranije (posebno na long-tail upitima), ali ozbiljniji pomak za konkurentne kljucne reci gotovo nikad ne dolazi za 2-3 nedelje.
 
 SEO je sistem. I kao svaki sistem, ima faze.
 
-## Za�to vecina ocekuje prebrze rezultate
+## Zaï¿½to vecina ocekuje prebrze rezultate
 
-Glavni problem nije SEO. Problem su pogre�na ocekivanja.
+Glavni problem nije SEO. Problem su pogreï¿½na ocekivanja.
 
 Mnogi vlasnici firmi cuju:
 - "Bicete prvi na Google za 30 dana",
@@ -8419,13 +8646,13 @@ Mnogi vlasnici firmi cuju:
 To zvuci lepo, ali u praksi je red flag.
 
 Google rangiranje zavisi od:
-- kvaliteta i relevantnosti sadr�aja,
+- kvaliteta i relevantnosti sadrï¿½aja,
 - tehnickog zdravlja sajta,
-- konkurencije u ni�i,
+- konkurencije u niï¿½i,
 - autoriteta domena,
 - korisnickih signala i namere pretrage.
 
-Nijedan ozbiljan tim ne mo�e garantovati tacan datum i tacnu poziciju. Mo�e da garantuje disciplinovan proces i merljiv napredak.
+Nijedan ozbiljan tim ne moï¿½e garantovati tacan datum i tacnu poziciju. Moï¿½e da garantuje disciplinovan proces i merljiv napredak.
 
 ## Realna SEO vremenska linija (30 / 60 / 90 / 180 dana)
 
@@ -8435,35 +8662,35 @@ U ovoj fazi cilj nije "pozicija #1", nego stabilna osnova:
 - tehnicki audit (indexability, canonical, sitemap, brzina),
 - keyword mapiranje po nameri,
 - optimizacija title/meta/H1 strukture,
-- plan sadr�aja i internih linkova.
+- plan sadrï¿½aja i internih linkova.
 
-�ta je dobar signal u ovoj fazi:
-- vi�e pravilno indeksiranih stranica,
-- manje tehnickih gre�aka,
+ï¿½ta je dobar signal u ovoj fazi:
+- viï¿½e pravilno indeksiranih stranica,
+- manje tehnickih greï¿½aka,
 - rast impresija za ciljane upite.
 
-### 30-60 dana: prvi sadr�ajni i on-page pomaci
+### 30-60 dana: prvi sadrï¿½ajni i on-page pomaci
 
 Ovde se vidi da li plan postaje operativa:
 - izlaze nove optimizovane stranice i blogovi,
 - jaca topical coverage za prioritetne teme,
 - uvodi se konzistentan internal linking.
 
-�ta je dobar signal:
+ï¿½ta je dobar signal:
 - long-tail kljucne reci pocinju da ulaze u top 20 / top 10,
 - CTR raste zbog boljih naslova i opisa,
 - prvi organski upiti dolaze na nove URL-ove.
 
 ### 60-90 dana: validacija strategije
 
-Sada vec mo�ete proceniti da li SEO ide u dobrom smeru.
+Sada vec moï¿½ete proceniti da li SEO ide u dobrom smeru.
 
 Ako je strategija zdrava, u ovom periodu obicno vidite:
 - jasniji rast organskog saobracaja,
-- vi�e stranica koje rangiraju za komercijalne upite,
+- viï¿½e stranica koje rangiraju za komercijalne upite,
 - pad zavisnosti od jednog kanala.
 
-Ako nema napretka, radi se korekcija: keyword intent, sadr�ajna dubina, interna arhitektura, ili tehnicki bottleneck.
+Ako nema napretka, radi se korekcija: keyword intent, sadrï¿½ajna dubina, interna arhitektura, ili tehnicki bottleneck.
 
 ### 90-180 dana: ozbiljniji poslovni efekat
 
@@ -8472,27 +8699,27 @@ Ovde SEO postaje kanal koji realno doprinosi pipeline-u.
 U ovoj fazi se ocekuje:
 - stabilniji priliv organskih leadova,
 - bolja vidljivost za money keywords,
-- predvidljiviji rast bez proporcionalnog rasta ad bud�eta.
+- predvidljiviji rast bez proporcionalnog rasta ad budï¿½eta.
 
-Ako je cilj i dalje samo "vi�e poseta", proma�ili ste poentu. Fokus je na kvalifikovanim upitima i prihodu.
+Ako je cilj i dalje samo "viï¿½e poseta", promaï¿½ili ste poentu. Fokus je na kvalifikovanim upitima i prihodu.
 
-## �ta najvi�e utice na brzinu SEO rezultata
+## ï¿½ta najviï¿½e utice na brzinu SEO rezultata
 
-### 1) Koliko je ni�a konkurentna
+### 1) Koliko je niï¿½a konkurentna
 
 "Digitalni marketing", "advokat Beograd" ili "stomatolog Novi Sad" nemaju isti nivo borbe.
 
-�to je konkurencija veca, to je du�i period do ozbiljnog pomaka.
+ï¿½to je konkurencija veca, to je duï¿½i period do ozbiljnog pomaka.
 
 ### 2) Stanje sajta pre pocetka
 
-Ako sajt ima tehnicke probleme (sporo ucitavanje, duplikati, lo�a struktura), prvo se gasi po�ar.
+Ako sajt ima tehnicke probleme (sporo ucitavanje, duplikati, loï¿½a struktura), prvo se gasi poï¿½ar.
 
 To uspori pocetak, ali ubrza rezultat kasnije jer gradite na zdravoj osnovi.
 
-### 3) Kvalitet sadr�aja i namera
+### 3) Kvalitet sadrï¿½aja i namera
 
-SEO sadr�aj nije "du�ina teksta". Bitno je da strana pogodi konkretnu nameru korisnika i vodi ka sledecem koraku.
+SEO sadrï¿½aj nije "duï¿½ina teksta". Bitno je da strana pogodi konkretnu nameru korisnika i vodi ka sledecem koraku.
 
 ### 4) Autoritet domena
 
@@ -8502,72 +8729,72 @@ Novi domeni obicno sporije dobijaju poverenje nego domeni sa istorijom i kvalite
 
 Jedan clanak mesecno pa pauza od dva meseca nije strategija. Kontinuitet je ogroman faktor.
 
-## Kako da znate da li SEO ide dobro i pre nego �to dodu veliki brojevi
+## Kako da znate da li SEO ide dobro i pre nego ï¿½to dodu veliki brojevi
 
 Pratite leading indikatore:
 - rast impresija za ciljane upite,
 - rast broja rangiranih keyword-a u top 20,
 - povecanje broja landing stranica koje dobijaju organski saobracaj,
 - bolji CTR na postojecim pozicijama,
-- vi�e branded pretraga kroz vreme.
+- viï¿½e branded pretraga kroz vreme.
 
 Ako ovo raste, obicno i leadovi dolaze sa malim vremenskim pomakom.
 
-## Najce�ce SEO gre�ke koje produ�avaju rok
+## Najceï¿½ce SEO greï¿½ke koje produï¿½avaju rok
 
-### Gre�ka 1: stalna promena pravca
+### Greï¿½ka 1: stalna promena pravca
 
 Ako na svake 2 nedelje menjate strategiju, SEO resetujete iznova.
 
-### Gre�ka 2: fokus na vanity metrike
+### Greï¿½ka 2: fokus na vanity metrike
 
 Pozicija za jednu rec nije uspeh ako ne donosi upite.
 
-### Gre�ka 3: sadr�aj bez interne strukture
+### Greï¿½ka 3: sadrï¿½aj bez interne strukture
 
 Objavljivanje bez internih linkova i tematskih klastera usporava ceo efekat.
 
-### Gre�ka 4: ocekivanje da SEO zameni sve ostale kanale
+### Greï¿½ka 4: ocekivanje da SEO zameni sve ostale kanale
 
 SEO i placeni oglasi rade najbolje zajedno. SEO gradi dugorocnu bazu, oglasi donose brz volumen.
 
-Ako �elite i paid benchmark, pogledajte [Google reklame cena](/google-reklame-cena), [Instagram reklame cena](/instagram-reklame-cena) i [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026).
+Ako ï¿½elite i paid benchmark, pogledajte [Google reklame cena](/google-reklame-cena), [Instagram reklame cena](/instagram-reklame-cena) i [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026).
 
 ## Realan zakljucak za vlasnike firmi
 
 SEO je sporiji od oglasa na pocetku, ali je dugorocno stabilniji i profitabilniji kad se radi kako treba.
 
-Ako tra�ite rezultat "odmah", SEO nije pravi prvi potez. Ako gradite kanal koji za 6-12 meseci mo�e da nosi ozbiljan deo pipeline-a, SEO je jedan od najboljih poteza koje mo�ete napraviti.
+Ako traï¿½ite rezultat "odmah", SEO nije pravi prvi potez. Ako gradite kanal koji za 6-12 meseci moï¿½e da nosi ozbiljan deo pipeline-a, SEO je jedan od najboljih poteza koje moï¿½ete napraviti.
 
-Za konkretan plan po va�oj ni�i pogledajte [SEO optimizacija cena](/seo-optimizacija-cena), [cene digitalnog marketinga](/cene-digitalnog-marketinga) i javite se preko [kontakt forme](/kontakt).
+Za konkretan plan po vaï¿½oj niï¿½i pogledajte [SEO optimizacija cena](/seo-optimizacija-cena), [cene digitalnog marketinga](/cene-digitalnog-marketinga) i javite se preko [kontakt forme](/kontakt).
 `,
   },
   {
     slug: 'google-business-profil-optimizacija-cena-srbija-2026',
-    title: 'Google Business profil optimizacija: cena u Srbiji 2026 i �ta realno dobijate',
-    excerpt: 'Ako vam tra�e od 50� do 1.000� za Google Business optimizaciju, nije ista usluga. Evo realnih raspona cena, �ta mora da ude u posao i kako da merite da li vam se ulaganje isplati.',
+    title: 'Google Business profil optimizacija: cena u Srbiji 2026 i ï¿½ta realno dobijate',
+    excerpt: 'Google Business optimizacija ne kosta isto za svaku firmu. Evo realnih cena u Srbiji, sta mora da udje u posao i kako da procenis da li se ulaganje isplati.',
     date: '2026-03-10',
     category: 'SEO',
     readTime: '9 min',
     content: `
-## Za�to je Google Business profil jedan od najisplativijih kanala za lokalne firme
+## Zaï¿½to je Google Business profil jedan od najisplativijih kanala za lokalne firme
 
-Kad neko ukuca "stomatolog Novi Sad", "advokat Beograd" ili "restoran blizu mene", odluka se cesto donosi pre nego �to korisnik uop�te klikne na sajt.
+Kad neko ukuca "stomatolog Novi Sad", "advokat Beograd" ili "restoran blizu mene", odluka se cesto donosi pre nego ï¿½to korisnik uopï¿½te klikne na sajt.
 
 Prvo vidi mapu, ocene, fotografije i kratke informacije iz Google Business profila.
 
 Zato Google Business optimizacija nije kozmetika. To je direktan kanal za pozive, poruke i upite.
 
-## Kratak odgovor: koliko ko�ta Google Business optimizacija u Srbiji
+## Kratak odgovor: koliko koï¿½ta Google Business optimizacija u Srbiji
 
-U 2026. najce�ci raspon je:
-- **jednokratni setup:** 150-500�
-- **mesecna optimizacija:** 120-600� mesecno
-- **lokalni SEO + GBP paket:** 300-1.200� mesecno
+U 2026. najceï¿½ci raspon je:
+- **jednokratni setup:** 150-500ï¿½
+- **mesecna optimizacija:** 120-600ï¿½ mesecno
+- **lokalni SEO + GBP paket:** 300-1.200ï¿½ mesecno
 
 Ako je cena preniska, obicno dobijate samo osnovno popunjavanje profila. Ako je previsoka bez jasnog plana i metrika, placate "pakovanje" bez stvarnog efekta.
 
-## �ta ulazi u cenu (i �ta obavezno treba da tra�ite)
+## ï¿½ta ulazi u cenu (i ï¿½ta obavezno treba da traï¿½ite)
 
 ### 1) Tehnicki setup profila
 
@@ -8575,7 +8802,7 @@ Osnovne stvari koje moraju biti uradene kako treba:
 - tacan naziv, kategorije i podkategorije,
 - NAP konzistentnost (name/address/phone) kroz sve kanale,
 - radno vreme, usluge i opis sa lokalnim kljucnim recima,
-- pravilno pode�eni CTA dugmici (poziv, poruka, sajt, ruta).
+- pravilno podeï¿½eni CTA dugmici (poziv, poruka, sajt, ruta).
 
 Bez ovoga ne postoji dobra osnova.
 
@@ -8605,99 +8832,99 @@ Ljudi biraju ocima. Profil bez kvalitetnih fotografija gubi klikove cak i kad se
 Minimum:
 - naslovna + logo + enterijer/eksterijer,
 - tim/usluga/proces,
-- mesecno osve�avanje sadr�aja.
+- mesecno osveï¿½avanje sadrï¿½aja.
 
 ### 5) Lokalni SEO povezivanje sa sajtom
 
-Google Business sam ne re�ava sve. Najbolji rezultat dolazi kad je povezan sa ciljanim landing stranicama.
+Google Business sam ne reï¿½ava sve. Najbolji rezultat dolazi kad je povezan sa ciljanim landing stranicama.
 
-Na primer: profil vodi na stranicu kao �to je [marketing agencija Zrenjanin](/marketing-agencija-zrenjanin), dok je �ira strategija pokrivena kroz [SEO optimizacija cena](/seo-optimizacija-cena).
+Na primer: profil vodi na stranicu kao ï¿½to je [marketing agencija Zrenjanin](/marketing-agencija-zrenjanin), dok je ï¿½ira strategija pokrivena kroz [SEO optimizacija cena](/seo-optimizacija-cena).
 
 ## Raspon cena po nivou usluge
 
-### Basic (150-300� setup ili 120-200� mesecno)
+### Basic (150-300ï¿½ setup ili 120-200ï¿½ mesecno)
 
 Dobijate osnovno sredivanje profila i povremene objave.
 
-Dovoljno za firme koje tek krecu i nemaju konkurentnu lokalnu ni�u.
+Dovoljno za firme koje tek krecu i nemaju konkurentnu lokalnu niï¿½u.
 
-### Growth (300-700� mesecno)
+### Growth (300-700ï¿½ mesecno)
 
-Pored setup-a ide aktivna optimizacija, recenzije, sadr�aj i monitoring.
+Pored setup-a ide aktivna optimizacija, recenzije, sadrï¿½aj i monitoring.
 
-Ovo je najce�ci sweet spot za ordinacije, salone, restorane i uslu�ne biznise.
+Ovo je najceï¿½ci sweet spot za ordinacije, salone, restorane i usluï¿½ne biznise.
 
-### Performance lokalni paket (700-1.200�+ mesecno)
+### Performance lokalni paket (700-1.200ï¿½+ mesecno)
 
-Ukljucuje lokalni SEO cluster (profil + landing stranice + tracking + testiranje ponuda), cesto u kombinaciji sa placenim kampanjama kao �to je [Google reklame cena](/google-reklame-cena).
+Ukljucuje lokalni SEO cluster (profil + landing stranice + tracking + testiranje ponuda), cesto u kombinaciji sa placenim kampanjama kao ï¿½to je [Google reklame cena](/google-reklame-cena).
 
-Za biznise koji �ele agresivniji rast i jasnu kontrolu po lead-u.
+Za biznise koji ï¿½ele agresivniji rast i jasnu kontrolu po lead-u.
 
 ## Kako da proverite da li ponuda vredi
 
-Ne gledajte samo cenu. Tra�ite 5 konkretnih stvari:
+Ne gledajte samo cenu. Traï¿½ite 5 konkretnih stvari:
 1. Koji KPI se prati svakog meseca?
 2. Kako izgleda plan recenzija?
 3. Koliko objava ide i sa kojim ciljem?
-4. Kako je re�eno merenje poziva i upita?
+4. Kako je reï¿½eno merenje poziva i upita?
 5. Ko je odgovoran za korekcije ako rezultat kasni?
 
-Ako agencija ne mo�e jasno da odgovori, verovatno ne kupujete sistem nego "odr�avanje prisustva".
+Ako agencija ne moï¿½e jasno da odgovori, verovatno ne kupujete sistem nego "odrï¿½avanje prisustva".
 
 ## Koje metrike treba da rastu
 
 U prvih 60-90 dana zdravog rada treba da vidite:
-- vi�e prikaza u Google Maps rezultatima,
+- viï¿½e prikaza u Google Maps rezultatima,
 - rast akcija (poziv, poruka, ruta, klik ka sajtu),
 - bolji odnos profila prema lokalnim konkurentima,
-- vi�e upita sa lokalnom namerom.
+- viï¿½e upita sa lokalnom namerom.
 
 Ako se prate samo "pregledi", bez poslovnih akcija, to nije dovoljno.
 
-## Najce�ce gre�ke koje prave firme
+## Najceï¿½ce greï¿½ke koje prave firme
 
-### Gre�ka 1: Profil se otvori i ostavi bez aktivnosti
+### Greï¿½ka 1: Profil se otvori i ostavi bez aktivnosti
 
 To je kao da otvorite lokal bez radnog vremena i bez table.
 
-### Gre�ka 2: NAP podaci nisu uskladeni
+### Greï¿½ka 2: NAP podaci nisu uskladeni
 
-Razlicit broj telefona ili adresa na sajtu, mre�ama i direktorijumima ru�i poverenje signala.
+Razlicit broj telefona ili adresa na sajtu, mreï¿½ama i direktorijumima ruï¿½i poverenje signala.
 
-### Gre�ka 3: Nema procesa za recenzije
+### Greï¿½ka 3: Nema procesa za recenzije
 
 Bez kontinuiteta recenzija profil stagnira, cak i kad je tehnicki lepo sreden.
 
-### Gre�ka 4: Nema veze sa ponudom i prodajom
+### Greï¿½ka 4: Nema veze sa ponudom i prodajom
 
 Profil mora da vodi ka jasnoj sledecoj akciji: poziv, termin, upit.
 
-Ako �elite da sredite i prodajni deo posle klika, pogledajte i [cene digitalnog marketinga](/cene-digitalnog-marketinga) i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+Ako ï¿½elite da sredite i prodajni deo posle klika, pogledajte i [cene digitalnog marketinga](/cene-digitalnog-marketinga) i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
 
 ## Zakljucak
 
-Google Business optimizacija je jedan od retkih kanala gde relativno malo ulaganje mo�e brzo da vrati vrednost, posebno za lokalne usluge.
+Google Business optimizacija je jedan od retkih kanala gde relativno malo ulaganje moï¿½e brzo da vrati vrednost, posebno za lokalne usluge.
 
-Ako �elite da procenimo va� profil i damo realan plan po ni�i i gradu, javite se preko [kontakt forme](/kontakt).
+Ako ï¿½elite da procenimo vaï¿½ profil i damo realan plan po niï¿½i i gradu, javite se preko [kontakt forme](/kontakt).
 `,
   },
   {
     slug: 'cena-odrzavanja-wordpress-sajta-srbija-2026',
-    title: 'Cena odr�avanja WordPress sajta u Srbiji 2026: �ta ulazi i koliko realno ko�ta',
+    title: 'Cena odrï¿½avanja WordPress sajta u Srbiji 2026: ï¿½ta ulazi i koliko realno koï¿½ta',
     excerpt: 'Nije isto da li neko samo klikne update jednom mesecno ili stvarno cuva sajt od pada, hakovanja i gubitka leadova. Evo realnih cena odrzavanja WordPress sajta u Srbiji.',
     date: '2026-03-10',
     category: 'WordPress',
     readTime: '8 min',
     content: `
-## Koliko ko�ta odr�avanje WordPress sajta u Srbiji
+## Koliko koï¿½ta odrï¿½avanje WordPress sajta u Srbiji
 
-Ako �elite kratak odgovor: u 2026. najce�ci raspon za odr�avanje WordPress sajta je **50� do 400� mesecno**.
+Ako ï¿½elite kratak odgovor: u 2026. najceï¿½ci raspon za odrï¿½avanje WordPress sajta je **50ï¿½ do 400ï¿½ mesecno**.
 
-Za jednostavan prezentacioni sajt obicno je dovoljno 50-120� mesecno. Za ozbiljniji poslovni sajt ili WooCommerce web shop, realnije je 150-400� mesecno.
+Za jednostavan prezentacioni sajt obicno je dovoljno 50-120ï¿½ mesecno. Za ozbiljniji poslovni sajt ili WooCommerce web shop, realnije je 150-400ï¿½ mesecno.
 
-Problem je �to "odr�avanje" nije standardizovana usluga. Kod jedne agencije to znaci 15 minuta mesecno. Kod druge znaci aktivan monitoring, backup, sigurnost i tehnicka podr�ka.
+Problem je ï¿½to "odrï¿½avanje" nije standardizovana usluga. Kod jedne agencije to znaci 15 minuta mesecno. Kod druge znaci aktivan monitoring, backup, sigurnost i tehnicka podrï¿½ka.
 
-## �ta ulazi u cenu odr�avanja (i �ta mora da bude jasno u ponudi)
+## ï¿½ta ulazi u cenu odrï¿½avanja (i ï¿½ta mora da bude jasno u ponudi)
 
 ### 1) Tehnicki update-i
 
@@ -8705,38 +8932,38 @@ Problem je �to "odr�avanje" nije standardizovana usluga. Kod jedne agencije 
 - update tema i plugin-ova
 - test kompatibilnosti posle update-a
 
-Ako nema testiranja, update mo�e da pokvari formu, checkout ili mobilni prikaz.
+Ako nema testiranja, update moï¿½e da pokvari formu, checkout ili mobilni prikaz.
 
 ### 2) Backup i plan oporavka
 
 Minimalno: dnevni ili nedeljni backup + jasno vreme vracanja sajta.
 
-Dobar paket odr�avanja mora da ka�e:
+Dobar paket odrï¿½avanja mora da kaï¿½e:
 - gde se backup cuva,
 - koliko dugo se cuva,
-- koliko brzo sajt mo�e da se vrati online.
+- koliko brzo sajt moï¿½e da se vrati online.
 
 ### 3) Security monitoring
 
 WordPress sajt bez sigurnosnog nadzora je otvorena meta.
 
-Tra�ite da paket ukljucuje:
+Traï¿½ite da paket ukljucuje:
 - malware scan,
-- brute-force za�titu,
+- brute-force zaï¿½titu,
 - hardening login-a,
 - redovan pregled sigurnosnih logova.
 
-### 4) Performance odr�avanje
+### 4) Performance odrï¿½avanje
 
 Ako je sajt spor, placate skuplji klik i dobijate manje upita.
 
-Zato odr�avanje treba da pokrije i:
+Zato odrï¿½avanje treba da pokrije i:
 - optimizaciju slika,
 - cache i minify kontrolu,
 - proveru Core Web Vitals trendova,
 - uklanjanje plugin bloat-a.
 
-### 5) Podr�ka za sadr�aj i manje izmene
+### 5) Podrï¿½ka za sadrï¿½aj i manje izmene
 
 Vecini firmi treba i "operativna" pomoc:
 - izmena teksta,
@@ -8744,11 +8971,11 @@ Vecini firmi treba i "operativna" pomoc:
 - objava bloga,
 - sitne UX korekcije.
 
-Ako to nije ukljuceno, dobicete dodatne sate i neplaniran tro�ak.
+Ako to nije ukljuceno, dobicete dodatne sate i neplaniran troï¿½ak.
 
-## Realni paketi odr�avanja u praksi
+## Realni paketi odrï¿½avanja u praksi
 
-### Basic (50-120� / mesec)
+### Basic (50-120ï¿½ / mesec)
 
 Za male prezentacione sajtove bez cestih izmena.
 
@@ -8757,17 +8984,17 @@ Tipicno ukljucuje:
 - osnovni security plugin,
 - 1-2 manje izmene mesecno.
 
-### Growth (120-250� / mesec)
+### Growth (120-250ï¿½ / mesec)
 
 Za firme kojima sajt aktivno donosi upite.
 
 Tipicno ukljucuje:
 - sve iz Basic paketa,
 - proaktivni monitoring,
-- performance odr�avanje,
-- br�i support response.
+- performance odrï¿½avanje,
+- brï¿½i support response.
 
-### Commerce / Lead-Gen Pro (250-400�+ / mesec)
+### Commerce / Lead-Gen Pro (250-400ï¿½+ / mesec)
 
 Za web shop i sajtove gde pad sajta direktno znaci gubitak prodaje.
 
@@ -8775,68 +9002,68 @@ Tipicno ukljucuje:
 - prioritetni support,
 - napredni security,
 - staging testiranje pre vecih update-a,
-- redovne tehnicke izve�taje i preporuke.
+- redovne tehnicke izveï¿½taje i preporuke.
 
-## Najskuplja gre�ka: "najjeftinije odr�avanje"
+## Najskuplja greï¿½ka: "najjeftinije odrï¿½avanje"
 
 Najjeftinija ponuda cesto izgleda dobro dok se ne desi problem.
 
-Kad padne forma za upit ili checkout ne radi 48 sati, �teta je mnogo veca od razlike izmedu 80� i 200� mesecno.
+Kad padne forma za upit ili checkout ne radi 48 sati, ï¿½teta je mnogo veca od razlike izmedu 80ï¿½ i 200ï¿½ mesecno.
 
-Odr�avanje nije tro�ak koji samo "mora da postoji". To je osiguranje prihoda i reputacije.
+Odrï¿½avanje nije troï¿½ak koji samo "mora da postoji". To je osiguranje prihoda i reputacije.
 
-## Kako da zna� da li je ponuda za odr�avanje dobra
+## Kako da znaï¿½ da li je ponuda za odrï¿½avanje dobra
 
-Pre potpisivanja tra�i 6 konkretnih odgovora:
+Pre potpisivanja traï¿½i 6 konkretnih odgovora:
 
 1. Koliko cesto i kada se rade update-i?
 2. Da li postoji staging pre vecih izmena?
 3. Koji je realan response time za hitne probleme?
 4. Gde su backup-i i koliko dugo se cuvaju?
 5. Da li paket ukljucuje i performance proveru?
-6. �ta je ukljuceno u mesecne izmene, a �ta se dodatno naplacuje?
+6. ï¿½ta je ukljuceno u mesecne izmene, a ï¿½ta se dodatno naplacuje?
 
 Ako su odgovori nejasni, dobicete nejasan rezultat.
 
-Za �iru sliku tro�ka sajta pogledajte i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
-Ako �elite da pove�ete odr�avanje sa rastom organskog saobracaja, pogledajte [SEO optimizacija cena](/seo-optimizacija-cena).
-Za kontekst performansi landing stranica, korisno je i [izrada landing stranice: cena, rokovi, �ta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
+Za ï¿½iru sliku troï¿½ka sajta pogledajte i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+Ako ï¿½elite da poveï¿½ete odrï¿½avanje sa rastom organskog saobracaja, pogledajte [SEO optimizacija cena](/seo-optimizacija-cena).
+Za kontekst performansi landing stranica, korisno je i [izrada landing stranice: cena, rokovi, ï¿½ta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
 
 ---
 
-Ako �elite da procenimo va� trenutni sajt i damo realan plan odr�avanja po prioritetima, javite se kroz [kontakt formu](/kontakt).
+Ako ï¿½elite da procenimo vaï¿½ trenutni sajt i damo realan plan odrï¿½avanja po prioritetima, javite se kroz [kontakt formu](/kontakt).
 `,
   },
   {
     slug: 'vodjenje-drustvenih-mreza-cena-srbija-2026',
-    title: 'Vodenje dru�tvenih mre�a cena u Srbiji 2026: �ta ulazi i koliko realno ko�ta',
+    title: 'Vodenje druï¿½tvenih mreï¿½a cena u Srbiji 2026: ï¿½ta ulazi i koliko realno koï¿½ta',
     excerpt: 'Cene vodenja drustvenih mreza idu od 150e do 2.000e+ mesecno, ali razlika nije samo u broju objava. Evo sta stvarno placate i koji paket ima smisla za vas biznis.',
     date: '2026-03-10',
     category: 'Digitalni marketing',
     readTime: '9 min',
     content: `
-## Koliko ko�ta vodenje dru�tvenih mre�a u Srbiji
+## Koliko koï¿½ta vodenje druï¿½tvenih mreï¿½a u Srbiji
 
-Ako �elite kratak odgovor: u 2026. najce�ci raspon za vodenje dru�tvenih mre�a u Srbiji je **150� do 2.000�+ mesecno**.
+Ako ï¿½elite kratak odgovor: u 2026. najceï¿½ci raspon za vodenje druï¿½tvenih mreï¿½a u Srbiji je **150ï¿½ do 2.000ï¿½+ mesecno**.
 
-- Mikro biznisi uglavnom su u rasponu 150-400�.
-- Lokalne firme sa ozbiljnijim ciljem rasta najce�ce su 400-900�.
-- Brendovi koji aktivno skaliraju kampanje idu 900-2.000�+.
+- Mikro biznisi uglavnom su u rasponu 150-400ï¿½.
+- Lokalne firme sa ozbiljnijim ciljem rasta najceï¿½ce su 400-900ï¿½.
+- Brendovi koji aktivno skaliraju kampanje idu 900-2.000ï¿½+.
 
-Najveca gre�ka je da se cena poredi samo po broju objava. Objave su samo mali deo posla.
+Najveca greï¿½ka je da se cena poredi samo po broju objava. Objave su samo mali deo posla.
 
-## Za�to dve ponude mogu da se razlikuju 5x
+## Zaï¿½to dve ponude mogu da se razlikuju 5x
 
 Kod jedne agencije "vodenje" znaci 8 Canva objava mesecno i to je to.
 Kod druge ukljucuje strategiju, kreativu, community management, placene kampanje, testiranje i mesecnu optimizaciju.
 
 Zato je prvo pitanje: **da li kupujete prisustvo ili rezultat?**
 
-Ako �elite �iri kontekst usluga i modela saradnje, pogledajte i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Ako ï¿½elite ï¿½iri kontekst usluga i modela saradnje, pogledajte i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-## �ta mora da bude ukljuceno u cenu
+## ï¿½ta mora da bude ukljuceno u cenu
 
-### 1) Strategija i plan sadr�aja
+### 1) Strategija i plan sadrï¿½aja
 
 Bez strategije dobijate "lepe postove" bez poslovnog efekta.
 
@@ -8846,13 +9073,13 @@ Minimum koji treba da postoji:
 - plan tema po prodajnom levku,
 - jasni ciljevi po kanalu.
 
-### 2) Produkcija sadr�aja
+### 2) Produkcija sadrï¿½aja
 
 Ovde obicno ide najveci deo vremena:
 - copywriting,
 - dizajn statika i karusela,
 - kratki video/reels format,
-- prilagodavanje formata po mre�i.
+- prilagodavanje formata po mreï¿½i.
 
 Broj objava je bitan, ali kvalitet poruke i kreativa je bitniji.
 
@@ -8864,69 +9091,69 @@ Ako ovo nije ukljuceno, gubite leadove koji su vec pokazali interesovanje.
 
 ### 4) Placene kampanje (kad su deo paketa)
 
-Organski sadr�aj retko sam iznese ozbiljan rast.
+Organski sadrï¿½aj retko sam iznese ozbiljan rast.
 
 Zato se cesto kombinuje sa oglasima:
 - Meta Ads (Facebook/Instagram),
 - retargeting publike,
 - kampanje za lead ili prodaju.
 
-Za paid benchmarke pogledajte [koliko ko�ta Facebook reklama](/koliko-kosta-facebook-reklama) i [Instagram reklame cena](/instagram-reklame-cena).
+Za paid benchmarke pogledajte [koliko koï¿½ta Facebook reklama](/koliko-kosta-facebook-reklama) i [Instagram reklame cena](/instagram-reklame-cena).
 
 ### 5) Merenje i optimizacija
 
-Bez analitike ne znate da li sadr�aj radi.
+Bez analitike ne znate da li sadrï¿½aj radi.
 
-Tra�ite da paket ukljucuje:
-- mesecni izve�taj sa KPI-jima,
-- zakljucke �ta radi/ne radi,
+Traï¿½ite da paket ukljucuje:
+- mesecni izveï¿½taj sa KPI-jima,
+- zakljucke ï¿½ta radi/ne radi,
 - konkretne sledece testove.
 
 ## Realni cenovni modeli u 2026.
 
-### Basic (150-400� / mesecno)
+### Basic (150-400ï¿½ / mesecno)
 
-Najce�ce ukljucuje:
+Najceï¿½ce ukljucuje:
 - 8-12 objava,
 - osnovni dizajn i copy,
 - minimalni community management.
 
 Dovoljno za pocetno prisustvo, ali obicno nedovoljno za ozbiljan rast leadova.
 
-### Growth (400-900� / mesecno)
+### Growth (400-900ï¿½ / mesecno)
 
-Najce�ci model za lokalne firme i B2B usluge:
+Najceï¿½ci model za lokalne firme i B2B usluge:
 - 12-20 objava,
 - bolji mix formata,
 - aktivnija komunikacija sa publikom,
-- redovni mesecni izve�taji.
+- redovni mesecni izveï¿½taji.
 
 Ovo je cesto najbolji odnos cene i rezultata.
 
-### Performance (900-2.000�+ / mesecno)
+### Performance (900-2.000ï¿½+ / mesecno)
 
-Za firme koje �ele agresivniji rast:
+Za firme koje ï¿½ele agresivniji rast:
 - full content + video,
 - community + DM proces,
 - paid kampanje i testiranje,
 - dublja analitika i optimizacija funnel-a.
 
-Ako vam je fokus lead generation, ovo se cesto kombinuje sa stranicom [dru�tvene mre�e](/drustvene-mreze) i jasnim CTA tokovima.
+Ako vam je fokus lead generation, ovo se cesto kombinuje sa stranicom [druï¿½tvene mreï¿½e](/drustvene-mreze) i jasnim CTA tokovima.
 
 ## Kako da procenite da li je ponuda dobra
 
-Pre nego �to potpi�ete, tra�ite jasne odgovore na 6 pitanja:
+Pre nego ï¿½to potpiï¿½ete, traï¿½ite jasne odgovore na 6 pitanja:
 
-1. Koliko sadr�aja mesecno i u kojim formatima?
+1. Koliko sadrï¿½aja mesecno i u kojim formatima?
 2. Da li je community management ukljucen ili se posebno placa?
 3. Koje KPI metrike pratite (ne samo reach)?
 4. Ko pravi kreativu i ko odobrava objave?
-5. Da li je ukljuceno testiranje oglasa i bud�etiranje?
-6. �ta je rok za prve merljive rezultate?
+5. Da li je ukljuceno testiranje oglasa i budï¿½etiranje?
+6. ï¿½ta je rok za prve merljive rezultate?
 
-Ako su odgovori nejasni, velika je �ansa da cete platiti aktivnost, a ne rezultat.
+Ako su odgovori nejasni, velika je ï¿½ansa da cete platiti aktivnost, a ne rezultat.
 
-## Najce�ce gre�ke koje di�u tro�ak bez efekta
+## Najceï¿½ce greï¿½ke koje diï¿½u troï¿½ak bez efekta
 
 - Fokus samo na broj objava, bez strategije.
 - Kopiranje trendova bez veze sa ponudom.
@@ -8934,13 +9161,13 @@ Ako su odgovori nejasni, velika je �ansa da cete platiti aktivnost, a ne rezul
 - Bez landing stranice koja zatvara lead.
 - Bez mesecne optimizacije i testiranja.
 
-Dru�tvene mre�e rade najbolje kad su povezane sa celim sistemom akvizicije, a ne kao izolovan kanal.
+Druï¿½tvene mreï¿½e rade najbolje kad su povezane sa celim sistemom akvizicije, a ne kao izolovan kanal.
 
 ## Zakljucak
 
-Cena vodenja dru�tvenih mre�a zavisi od dubine posla, ne od estetike feed-a.
+Cena vodenja druï¿½tvenih mreï¿½a zavisi od dubine posla, ne od estetike feed-a.
 
-Ako �elite realnu procenu po va�oj ni�i, cilju i bud�etu, javite se preko [kontakt forme](/kontakt) i dobicete konkretan plan �ta ima smisla da radite sada, a �ta kasnije.
+Ako ï¿½elite realnu procenu po vaï¿½oj niï¿½i, cilju i budï¿½etu, javite se preko [kontakt forme](/kontakt) i dobicete konkretan plan ï¿½ta ima smisla da radite sada, a ï¿½ta kasnije.
 `,
   },
   {
@@ -9700,6 +9927,7 @@ export const blogPosts = rawBlogPosts.filter((post) => {
   seenSlugs.add(post.slug)
   return true
 })
+
 
 
 

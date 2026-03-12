@@ -56,6 +56,7 @@
     "seo:wordpress-linking": "node scripts/seo-wordpress-page-linking-audit.mjs",
     "seo:blog-schema": "node scripts/seo-blog-schema-audit.mjs",
     "seo:blog-listing-schema": "node scripts/seo-blog-listing-schema-audit.mjs",
+    "seo:blog-feed-freshness": "node scripts/seo-blog-feed-freshness-audit.mjs",
     "seo:pricing-blog-linking": "node scripts/seo-pricing-blog-linking-audit.mjs",
     "seo:commercial-blog-cta": "node scripts/seo-commercial-blog-cta-audit.mjs",
     "seo:article-og": "node scripts/seo-article-og-audit.mjs",
