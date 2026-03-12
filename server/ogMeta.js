@@ -1121,6 +1121,32 @@ const serverFaqByPath = {
   ],
 }
 
+const serverHowToByPath = {
+  '/google-reklame-cena': {
+    name: 'Kako da izračunate budžet za Google Ads bez nagađanja',
+    description: 'Praktičan postupak za određivanje održivog Google Ads budžeta na osnovu vrednosti klijenta, ciljnog CPA i potrebnog broja leadova.',
+    totalTime: 'PT20M',
+    step: [
+      {
+        name: 'Definišite vrednost jednog klijenta ili porudžbine',
+        text: 'Prvo zapišite koliko vam u proseku vredi jedan novi klijent ili jedna porudžbina. Bez te brojke ne možete znati koliki CPA zaista imate prostora da platite.',
+      },
+      {
+        name: 'Odredite maksimalni prihvatljiv CPA',
+        text: 'Izračunajte kolika cena po leadu ili kupovini vam i dalje ostavlja zdravu maržu. To je gornja granica preko koje kampanja više nije održiva.',
+      },
+      {
+        name: 'Izračunajte potreban broj leadova za ciljani prihod',
+        text: 'Povežite target prihoda sa prosečnom stopom zatvaranja prodaje, pa izračunajte koliko vam kvalifikovanih leadova realno treba svakog meseca.',
+      },
+      {
+        name: 'Postavite test budžet sa dovoljno podataka za optimizaciju',
+        text: 'Prvi budžet postavite tako da u prvih 30 dana dobijete barem 200 do 400 klikova i dovoljno konverzija za ozbiljnu optimizaciju, umesto da kampanju gasite na osnovu premalo podataka.',
+      },
+    ],
+  },
+}
+
 function injectServerFaqSchema(html, cleanPath) {
   const schemaId = 'ld-faq-server'
   const faqs = serverFaqByPath[cleanPath]
@@ -1143,6 +1169,32 @@ function injectServerFaqSchema(html, cleanPath) {
   }
 
   return upsertJsonLdScript(html, schemaId, faqSchema)
+}
+
+function injectServerHowToSchema(html, cleanPath, canonicalUrl) {
+  const schemaId = 'ld-howto-server'
+  const howTo = serverHowToByPath[cleanPath]
+
+  if (!howTo) {
+    return removeJsonLdScript(html, schemaId)
+  }
+
+  return upsertJsonLdScript(html, schemaId, {
+    '@context': 'https://schema.org',
+    '@type': 'HowTo',
+    name: howTo.name,
+    description: howTo.description,
+    totalTime: howTo.totalTime,
+    inLanguage: 'sr-RS',
+    url: canonicalUrl,
+    step: howTo.step.map((item, index) => ({
+      '@type': 'HowToStep',
+      position: index + 1,
+      name: item.name,
+      text: item.text,
+      url: `${canonicalUrl}#korak-${index + 1}`,
+    })),
+  })
 }
 
 function injectServerArticleSchema(html, cleanPath, canonicalUrl) {
@@ -1614,6 +1666,7 @@ export function injectOgMeta(html, pathname) {
   result = injectServerCoreSchemas(result, cleanPath)
   result = injectServerRouteSpecificSchema(result, cleanPath)
   result = injectServerFaqSchema(result, cleanPath)
+  result = injectServerHowToSchema(result, cleanPath, canonicalUrl)
   result = injectServerArticleSchema(result, cleanPath, canonicalUrl)
   result = injectServerBlogListingSchema(result, cleanPath)
   result = injectServerBreadcrumbSchema(result, cleanPath, canonicalUrl, meta)
