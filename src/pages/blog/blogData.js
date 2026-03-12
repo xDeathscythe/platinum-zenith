@@ -1,5 +1,104 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'google-reklame-za-vodoinstalatere-cena-leada-srbija-2026',
+    title: 'Google reklame za vodoinstalatere u Srbiji 2026: cena leada, budzet i kako da telefon zvoni',
+    excerpt: 'Koliko realno kostaju Google reklame za vodoinstalatere u Srbiji 2026, koji budzet ima smisla i kako da smanjite cenu upita bez gubitka kvaliteta poziva.',
+    date: '2026-03-12',
+    category: 'Google Ads',
+    readTime: '9 min',
+    content: `
+## Google reklame za vodoinstalatere u Srbiji 2026: kratak odgovor
+
+Ako trazis upit **google reklame za vodoinstalatere cena**, realan okvir za srpsko trziste je:
+
+- **Start test faza:** 300e-800e mesecno
+- **Stabilan lead flow:** 800e-1.800e mesecno
+- **Skaliranje vise zona i usluga:** 1.800e+ mesecno
+
+Za siri benchmark Search troska pogledaj i [Google reklame cena](/google-reklame-cena).
+
+## Koliko kosta lead za vodoinstalaterske usluge
+
+Posle prve optimizacije, tipicni rasponi su najcesce:
+
+- **CPC:** 0.15e-0.95e
+- **Kvalifikovan upit:** 6e-32e
+- **Hitan izlazak na teren:** 12e-55e
+
+Najvaznije: ne juriti najjeftiniji klik. Kod vodoinstalatera je bitnije da dobijes poziv koji ima jasan kvar i realnu nameru, nego 10 slabih upita.
+
+## Gde najcesce "curi" budzet
+
+1. **Sve usluge u jednoj kampanji**  
+   Ciscenje slivnika, zamena bojlera i hitne intervencije nemaju isti intent i ne smeju da dele isti budzet.
+
+2. **Siroke kljucne reci bez namere**  
+   Upiti tipa "voda", "kupatilo" i slicno trose novac, ali ne donose dovoljno ozbiljne pozive.
+
+3. **Nema lokalne kontrole**  
+   Ako ne zakljucas grad/opstinu, placas klikove iz zona koje ne pokrivas.
+
+4. **Slab landing posle klika**  
+   Oglas obecava "dolazak za 30 min", a stranica nema jasan CTA ni broj telefona iznad prevoja.
+
+Ako ti treba okvir za post-click deo, pogledaj i [izradu landing stranice: cena, rokovi, sta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
+
+## Struktura kampanje koja obicno radi
+
+### 1) Hitne intervencije (high intent)
+Upiti sa recima: "hitno", "odmah", "non-stop", "24h".
+
+### 2) Planirane usluge
+Zamena sanitarija, bojlera, slavina, odgusenje odvoda.
+
+### 3) Branded kampanja
+Za naziv firme, da konkurencija ne uzima korisnika koji vec trazi tebe.
+
+### 4) Remarketing
+Podsetnik korisnicima koji su posetili sajt ali nisu pozvali.
+
+Ovakva podela daje bolju kontrolu i cistije odluke za optimizaciju.
+
+## Landing stranica za vodoinstalatere: sta mora da postoji
+
+Da bi Search radio profitabilno, landing mora da zatvori odluku brzo:
+
+- jasan naslov (usluga + grad),
+- istaknut broj telefona i click-to-call dugme,
+- zona pokrivanja i procenjeni rok dolaska,
+- 3-5 recenzija sa konkretnim kvarovima,
+- jednostavan mini-formular za korisnike koji ne zovu odmah.
+
+Ako korisnik posle klika ne zna sta je sledeci korak, cena leada raste cak i kad je CPC dobar.
+
+## KPI koje treba pratiti svake nedelje
+
+Nemoj gledati samo klikove. Fokusiraj se na:
+
+1. cenu kvalifikovanog poziva,
+2. procenat poziva koji prelaze u izlazak,
+3. cenu izlaska na teren,
+4. procenat izlazaka koji postaju naplacen posao,
+5. prosecnu vrednost posla po tipu usluge.
+
+Tek kad ove brojke gledas zajedno, znas da li kampanja donosi profit ili samo aktivnost.
+
+## 30-dnevni plan bez lutanja
+
+- **Nedelja 1:** tracking + podela kampanja po intentu i zoni.
+- **Nedelja 2:** search term ciscenje + negativne reci + test 2-3 oglasa po grupi.
+- **Nedelja 3:** dorada landing strane i CTA toka.
+- **Nedelja 4:** preraspodela budzeta samo na segmente sa najboljim odnosom cena poziva / kvalitet upita.
+
+Za siri plan raspodele ulaganja po kanalima pogledaj i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Zakljucak
+
+Google reklame za vodoinstalatere u Srbiji 2026 mogu donositi stabilan tok poziva, ali samo kada su kampanje odvojene po nameri, lokaciji i tipu usluge.
+Ako hoces, mozemo uraditi brz audit tvog naloga i oznaciti 3 najbrza poteza za nizi trosak kvalitetnog leada preko [kontakt forme](/kontakt).
+`,
+  },
+  {
     slug: 'google-reklame-za-gradjevinske-firme-cena-leada-srbija-2026',
     title: 'Google reklame za gradjevinske firme u Srbiji 2026: cena leada, budzet i profit po projektu',
     excerpt: 'Koliko realno kostaju Google reklame za gradjevinske firme u Srbiji 2026, koji budzet ima smisla i kako da spustite cenu upita bez losih leadova.',

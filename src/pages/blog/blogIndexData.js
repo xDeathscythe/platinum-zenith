@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-reklame-za-vodoinstalatere-cena-leada-srbija-2026",
+    "title": "Google reklame za vodoinstalatere u Srbiji 2026: cena leada, budzet i kako da telefon zvoni",
+    "excerpt": "Koliko realno kostaju Google reklame za vodoinstalatere u Srbiji 2026, koji budzet ima smisla i kako da smanjite cenu upita bez gubitka kvaliteta poziva.",
+    "date": "2026-03-12",
+    "category": "Google Ads",
+    "readTime": "9 min",
+    "isDraft": false
+  },
+  {
     "slug": "google-reklame-za-gradjevinske-firme-cena-leada-srbija-2026",
     "title": "Google reklame za gradjevinske firme u Srbiji 2026: cena leada, budzet i profit po projektu",
     "excerpt": "Koliko realno kostaju Google reklame za gradjevinske firme u Srbiji 2026, koji budzet ima smisla i kako da spustite cenu upita bez losih leadova.",
