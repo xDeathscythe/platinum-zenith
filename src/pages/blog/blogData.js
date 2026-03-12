@@ -1,4 +1,1218 @@
-const rawBlogPosts = [
+﻿const rawBlogPosts = [
+  {
+    slug: 'instagram-reklame-za-stomatologe-cena-termina-srbija-2026',
+    title: 'Instagram reklame za stomatologe u Srbiji 2026: cena termina i budzet',
+    excerpt: 'Koliki budzet treba ordinaciji za Instagram oglase u Srbiji 2026 i kako da merite cenu zakazanog termina bez praznih leadova.',
+    date: '2026-03-12',
+    category: 'Instagram Ads',
+    readTime: '10 min',
+    content: `
+## Instagram reklame za stomatologe u Srbiji 2026: kratak odgovor
+
+Ako pretrazujes upit **instagram reklame za stomatologe cena Srbija**, najkorisniji okvir je:
+- vecina ordinacija pocinje sa **400e-1.600e mesecno** medijskog budzeta,
+- kampanja je zdrava tek kad meris **cenu zakazanog termina** i stopu dolaska,
+- broj poruka bez zakazivanja nije rezultat, nego lazni signal.
+
+Za siri benchmark Meta kanala pogledaj i [Instagram reklame cena](/instagram-reklame-cena).
+
+## Koliki budzet ima smisla za ordinaciju koja krece od nule
+
+Praktican raspored po fazama:
+
+- **Test faza (400e-800e/mes):** validacija poruke, publike i oglasa.
+- **Stabilizacija (800e-1.600e/mes):** gasenje slabih segmenata i fokus na pobednicke ad setove.
+- **Skaliranje (1.600e+/mes):** tek kad je cena termina odrziva najmanje 3-4 nedelje uzastopno.
+
+Ako paralelno pokreces i Search kanal za visoki intent, koristan kontekst je [Google reklame cena](/google-reklame-cena).
+
+## Metrika koja odlucuje: cena zakazanog termina, ne cena poruke
+
+Najveca greska kod stomatoloskih naloga je optimizacija na:
+- reach,
+- lajkove,
+- jeftine poruke.
+
+To su pomocni signali, ali biznis metrika je:
+1. broj zakazanih termina,
+2. cena po zakazanom terminu,
+3. procenat pacijenata koji se stvarno pojave.
+
+Ako ove tri brojke nisu pod kontrolom, kampanja izgleda aktivno, ali marza trpi.
+
+## Sta najvise podize cenu termina bez da primetis
+
+1. **Genericka poruka oglasa**
+   Oglas "najbolji stomatolog" ne filtrira intent i dovodi slabije upite.
+
+2. **Landing ili DM tok bez jasnog sledeceg koraka**
+   Ako korisnik ne vidi jasan CTA za zakazivanje, poruka ostaje samo razgovor.
+
+3. **Spor odgovor ordinacije**
+   Kod medicinskih usluga, lead hladni brzo. Kasni odgovor direktno podize efektivni CPL.
+
+4. **Mesanje razlicitih usluga u isti set**
+   Estetika, implantologija i hitne intervencije retko rade pod istom logikom poruke i publike.
+
+Ako hoces da uskladis i organski lokalni sloj, povezi ovaj kanal sa [Google Business profilom za stomatologe](/blog/google-business-profil-za-stomatologe-srbija-2026).
+
+## Kreative koje najcesce rade za stomatoloske usluge
+
+U praksi bolje rade konkretni uglovi nego opsti branding:
+
+- "pre/posle" edukativni format (kada je eticki i pravno dozvoljeno),
+- kratak video procesa (higijena, oprema, tim),
+- mini FAQ format: bol, trajanje tretmana, oporavak,
+- lokalni trust signal: lokacija, iskustvo doktora, recenzije.
+
+Za siri sistem pozicioniranja ordinacije pogledaj i [marketing za stomatologe](/marketing-za-stomatologe).
+
+## Kako da proveris da li kampanja ima ekonomiju
+
+Jednostavan okvir:
+- prosecna vrednost tretmana,
+- bruto marza,
+- procenat zakazanih koji dodju,
+- procenat termina koji postanu placena usluga.
+
+Primer:
+- prosecna vrednost: 280e,
+- bruto marza: 55% (154e),
+- zakazan -> dosao: 70%,
+- dosao -> placena usluga: 50%.
+
+Efektivna vrednost zakazanog termina je oko 53.9e (154e x 0.7 x 0.5).
+Ako je realna cena termina duze iznad tog nivoa, treba menjati poruku, funnel ili kvalifikaciju leadova.
+
+## 30-dnevni operativni plan
+
+- **Nedelja 1:** tracking, setovanje lead kvalifikacije i 3 kreativna ugla.
+- **Nedelja 2:** gasenje slabih ad setova, uvodjenje retargeting segmenta.
+- **Nedelja 3:** test nove ponude (npr. pregled + plan terapije) i CTA formulacije.
+- **Nedelja 4:** preraspodela budzeta iskljucivo na segmente sa najboljim odnosom cena termina / kvalitet pacijenta.
+
+Ako pre slanja vise saobracaja hoces da sredis prodajni deo sajta, koristan kontekst je i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+
+## Zakljucak
+
+Instagram reklame za stomatologe u Srbiji 2026 mogu donositi stabilan kalendar samo kad kampanju vodis kroz cenu termina i kvalitet pacijenata, ne kroz vanity metrike.
+Ako hoces, mogu da uradim mini audit tvog naloga i oznacim 3 poteza koji najbrze spustaju cenu zakazanog termina - javi se preko [kontakt forme](/kontakt).
+`,
+  },
+  {
+    slug: 'instagram-reklame-za-restorane-cena-rezervacije-srbija-2026',
+    title: 'Instagram reklame za restorane u Srbiji 2026: cena rezervacije, budzet i kreativa koja puni stolove',
+    excerpt: 'Detaljan vodic za restorane: koliki budzet ima smisla za Instagram reklame u Srbiji 2026, kako da merite cenu rezervacije i koje kreativa + landing kombinacije donose vise punih termina.',
+    date: '2026-03-12',
+    category: 'Instagram Ads',
+    readTime: '10 min',
+    content: `
+## Instagram reklame za restorane u Srbiji 2026: kratak odgovor
+
+Ako trazis upit **instagram reklame za restorane cena Srbija**, najkorisniji odgovor je:
+- vecina restorana krece sa **350e-1.500e mesecno** medijskog budzeta,
+- cena rezervacije je odrziva tek kad su ponuda, kreativa i stranica posle klika uskladjene,
+- jeftin klik bez rezervacije je trosak, ne rezultat.
+
+Za siri benchmark Meta kanala pogledaj i [Instagram reklame cena](/instagram-reklame-cena).
+
+## Koliki budzet ima smisla za start
+
+Za vecinu lokalnih restorana u Srbiji 2026, realan start okvir izgleda ovako:
+
+- **Test faza (350e-700e/mes):** validacija ponude, ugla poruke i publike.
+- **Stabilizacija (700e-1.500e/mes):** zadrzavanje pobednickih oglasa i ciscenje slabih segmenata.
+- **Skaliranje (1.500e+/mes):** tek kada postoji stabilan trend rezervacija po odrzivoj ceni.
+
+Ako restoran radi i Search kanal, koristan paralelan kontekst je [Google reklame cena](/google-reklame-cena).
+
+## Najveca greska: optimizacija na reach umesto na rezervacije
+
+Mnogo naloga izgleda "aktivno" ali ne puni stolove.
+Razlog je sto se kampanja meri povrsnim signalima:
+- reach,
+- lajkovi,
+- video views.
+
+To nisu lose metrike, ali nisu glavna poslovna metrika restorana.
+Primarni KPI treba da bude:
+
+1. broj rezervacija,
+2. cena po rezervaciji,
+3. procenat rezervacija koje se stvarno pojave.
+
+Bez ova tri broja, budzet se uglavnom trosi naslepo.
+
+## Formula koja cuva marzu restorana
+
+Praktican okvir za maksimalno odrzivu cenu rezervacije:
+
+- prosecna vrednost racuna,
+- bruto marza,
+- procenat gostiju koji dodju,
+- broj gostiju po rezervaciji.
+
+Primer:
+- prosecni racun po osobi: 18e,
+- prosecno 2 osobe po rezervaciji = 36e prihod,
+- bruto marza: 60% = 21.6e,
+- no-show stopa: 20%.
+
+Efektivna vrednost potvrdene rezervacije je oko 17.3e.
+Ako je cena rezervacije dugorocno iznad tog nivoa, kampanja mora korekciju (ponuda, publika ili funnel).
+
+## Kreativa koja radi za restorane (bez generickih stock oglasa)
+
+Kod restorana najbolje prolaze konkretni i "opipljivi" oglasi:
+
+- kratki reel sa 1 potpis jelom + jasna cena,
+- UGC kadar atmosfere petak/subota vece,
+- limitirana ponuda (npr. lunch menu radnim danima),
+- proof elementi: broj recenzija, ocena, lokacija i brz nacin rezervacije.
+
+Ako gradis i siri sistem organskog + placenog rasta, dobar oslonac je [marketing za restorane](/marketing-za-restorane).
+
+## Landing i rezervacija tok: gde se gubi najvise novca
+
+Cak i dobar oglas pada ako korisnik posle klika ne zna sta da uradi.
+Najcesci problemi:
+
+1. Link vodi na genericki homepage bez CTA-a.
+2. Meni se ucitava sporo na mobilnom.
+3. Dugme za rezervaciju je skriveno ispod prevoja.
+4. Forma trazi previse podataka.
+
+Pravilo: od oglasa do potvrde rezervacije mora biti sto manje koraka.
+Ako restoran tek sredjuje prodajnu infrastrukturu sajta, koristan je i vodic [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+
+## 30-dnevni plan koji mozes odmah primeniti
+
+- **Nedelja 1:** tracking (poziv, WhatsApp, forma) + 3 creative ugla.
+- **Nedelja 2:** gasenje slabih oglasa, dodavanje remarketing publike.
+- **Nedelja 3:** A/B test ponude (menu, termin, bonus) i CTA teksta.
+- **Nedelja 4:** preraspodela budzeta samo na segmente sa zdravom cenom rezervacije.
+
+Ako zelis da uporedis i Search kanal trosak po intentu, pogledaj [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026).
+
+## Zakljucak
+
+Instagram reklame za restorane u Srbiji 2026 mogu donositi stabilne rezervacije, ali samo kad se meri cena rezervacije i radi iteracija svake nedelje.
+Ako zelis, mogu da uradim mini audit tvog naloga i oznacim 3 poteza koji najbrze spustaju cenu rezervacije — javi se preko [kontakt forme](/kontakt).
+`,
+  },
+  {
+    slug: 'google-business-profil-za-stomatologe-srbija-2026',
+    title: 'Google Business profil za stomatologe u Srbiji 2026: kako do vise poziva i zakazanih termina',
+    excerpt: 'Praktican vodic za stomatoloske ordinacije: kako da optimizujete Google Business profil, skupite vise recenzija i pretvorite lokalne pretrage u stvarne pacijente.',
+    date: '2026-03-12',
+    category: 'Lokalni SEO',
+    readTime: '9 min',
+    content: `
+## Zasto je Google Business profil najbrzi SEO kanal za ordinacije
+
+Ako pretrazujete upit **google business profil stomatolog Srbija**, verovatno vec znate problem:
+ljudi vas traze na Google-u, ali pozivi i zakazivanja nisu u skladu sa brojem pretraga.
+
+Kod stomatoloskih usluga odluka se cesto donosi direktno na mapi:
+- ocena,
+- broj recenzija,
+- fotografije ordinacije,
+- i koliko profil deluje aktivno.
+
+Zato Google Business profil nije "sporedna stvar". To je jedna od glavnih prodajnih stranica lokalne ordinacije.
+Ako zelis siri kontekst marketing sistema za ovu nishu, pogledaj i [marketing za stomatologe](/marketing-za-stomatologe).
+
+## Sta Google najvise gleda kod lokalnog rangiranja ordinacija
+
+Za stomatoloske profile u praksi najvise pomera rezultat sledeci paket signala:
+
+1. **Kategorije i usluge**
+   Primarna kategorija mora da bude tacna, a sekcija usluga detaljna po zahvatima.
+
+2. **Recenzije i odgovori na recenzije**
+   Broj, kvalitet i svezina recenzija direktno uticu i na klik i na poverenje.
+
+3. **Lokalna relevantnost sajta**
+   Profil koji vodi na slabu ili nejasnu stranicu gubi potencijalni upit posle klika.
+
+4. **Aktivnost profila**
+   Redovne objave, nove fotografije i azuran Q&A deo pokazuju da ordinacija "zivi".
+
+Drugim recima: nije dovoljno samo otvoriti profil. Potrebna je operativa.
+
+## Setup koji pravi razliku u prvih 30 dana
+
+Ako hoces brz i cist start, fokusiraj se na ovo:
+
+- unesi tacan naziv ordinacije (bez keyword spam varijanti),
+- postavi primarnu i sekundarne kategorije po stvarnim uslugama,
+- popuni usluge i opise sa lokalnim intentom,
+- postavi jasan CTA ka pozivu i zakazivanju,
+- proveri da su telefon, adresa i radno vreme identicni na sajtu i profilu.
+
+Za tehnicki i cenovni okvir rada na sajtu, koristan je i [SEO optimizacija cena](/seo-optimizacija-cena).
+
+## Recenzije: najjaci signal poverenja kod stomatoloskih usluga
+
+Najveca greska ordinacija je da cekaju da recenzije "same dodju".
+To se retko desava u dovoljnom volumenu.
+
+Bolji pristup je jednostavan sistem:
+
+- svakom zadovoljnom pacijentu posalji kratak zahtev za recenziju,
+- olaksaj proces jednim direktnim linkom,
+- odgovori na svaku recenziju u roku 24-48h,
+- ubaci prirodne termine usluge i lokacije u odgovore.
+
+Ovo ne podize samo poziciju. Podize i stopu poziva jer ljudi biraju ordinaciju kojoj vise veruju.
+
+## Fotografije i vizuelni signal koji podize CTR
+
+Kod stomatologije je strah normalan deo odluke.
+Zato fotografije nisu ukras, nego signal sigurnosti.
+
+Minimum koji treba da postoji:
+
+- ulaz i cekaonica,
+- tim i doktori,
+- oprema i higijenski standard,
+- kratke "before/after" ilustracije tamo gde je dozvoljeno.
+
+Kad profil izgleda zivo i uredno, veci procenat ljudi klikne na poziv umesto da otvori konkurenciju.
+
+## Kako spojiti profil i sajt da lead ne propadne
+
+Google profil dovodi korisnika do vrata.
+Sajt i landing zatvaraju odluku.
+
+Najbolje radi kada:
+
+- klik iz profila vodi na stranicu koja direktno odgovara nameri pretrage,
+- na toj stranici odmah postoji jasan CTA,
+- dokaz poverenja (recenzije, iskustvo, proces) je iznad prevoja,
+- forma ili poziv su maksimalno jednostavni.
+
+Ako ordinacija paralelno radi i paid kanal, pogledaj i [Google reklame cena](/google-reklame-cena) za realan budzet okvir.
+
+## 30-dnevni plan za vise lokalnih poziva
+
+**Nedelja 1:**
+- potpuni audit profila,
+- korekcija kategorija, usluga i NAP podataka,
+- postavljanje osnovnih CTA elemenata.
+
+**Nedelja 2:**
+- sistem za prikupljanje recenzija,
+- objava 2-3 lokalno relevantne profil objave,
+- osvezenje foto galerije.
+
+**Nedelja 3:**
+- optimizacija stranice na koju profil salje saobracaj,
+- povezivanje profila i lead tracking-a,
+- dorada Q&A sekcije.
+
+**Nedelja 4:**
+- analiza poziva, klikova i poruka,
+- fokus na segmente sa najboljim signalom,
+- plan narednih iteracija po rezultatima.
+
+## Najcesce greske koje usporavaju rast
+
+1. Profil je otvoren, ali mesecima bez aktivnosti.
+2. Recenzije se ne traze sistemski.
+3. Razliciti telefon i adresa na sajtu i profilu.
+4. Klik vodi na genericku homepage stranicu bez CTA-a.
+5. Merenje je ograniceno na "preglede", bez pracenja realnih poziva i upita.
+
+## Zakljucak
+
+Google Business profil za stomatoloske ordinacije u Srbiji 2026 moze biti najbrzi put do vise poziva i zakazanih termina, ali samo kada se vodi kao kanal, ne kao jednokratni setup.
+Ako hoces, mogu da uradim brz audit tvog profila i oznacim 3 izmene koje najbrze podizu broj kvalitetnih upita - javi se preko [kontakt forme](/kontakt).
+`,
+  },
+  {
+    slug: 'google-ads-za-b2b-cena-leada-srbija-2026',
+    title: 'Google Ads za B2B u Srbiji 2026: cena leada, SQL kvalitet i budzet koji ima smisla',
+    excerpt: 'Koliko realno kosta Google Ads za B2B firme u Srbiji 2026, koji CPL raspon ima smisla po niši i kako da merite SQL kvalitet umesto da jurite jeftine leadove bez pipeline-a.',
+    date: '2026-03-12',
+    category: 'Google Ads',
+    readTime: '10 min',
+    content: `
+## Google Ads za B2B u Srbiji 2026: kratak odgovor bez ulepsavanja
+
+Ako trazis upit **google ads za b2b cena leada Srbija**, realan odgovor je:
+- vecina B2B firmi krece sa **900e-3.500e mesecnog budzeta**,
+- CPL je siroka metrika i ne znaci mnogo bez SQL kvaliteta,
+- profit ne dolazi iz jeftinog klika, nego iz leadova koji ulaze u pipeline i zatvaraju se.
+
+Za siri budzetski okvir pogledaj i [Google reklame cena](/google-reklame-cena).
+
+## Koliki CPL je realan za B2B u Srbiji
+
+Posle prve faze optimizacije, tipicni rasponi su:
+
+- **CPC (Search):** 0.35e-2.80e
+- **CPL (MQL):** 18e-140e
+- **Cena SQL-a:** 60e-420e
+
+Raspon zavisi od vertikale, duzine prodajnog ciklusa i toga da li targetiras "problem aware" ili "ready-to-buy" upite.
+
+## Gde B2B kampanje najcesce gube novac
+
+### 1) Merenje se zavrsi na form submit-u
+Forma je tek pocetak. Ako ne meris sta je postao SQL i sta je uslo u ponudu, optimizujes pogresan signal.
+
+### 2) Jedna landing strana za vise person-a
+CEO, Operations i Marketing lead ne kupuju iz istog razloga. Kada svi vide istu poruku, konverzija i kvalitet lead-a padaju.
+
+### 3) Nema jasnog qualification layer-a
+Ako forma ne filtrira neadekvatne upite, sales tim trosi vreme na leadove koji nikad nece kupiti.
+
+### 4) Keyword mapa je previse informativna
+Upiti sa edukativnim intentom su korisni za content, ali ne i za performance kampanju koja treba da donese pipeline sada.
+
+Ako hoces da uskladis paid i ponudu pre nego sto povecas budzet, koristan kontekst je i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Kako da izracunas maksimalno odrziv SQL cost
+
+Praktican okvir:
+
+- prosecna vrednost ugovora,
+- bruto marza,
+- SQL -> ponuda stopa,
+- ponuda -> klijent stopa.
+
+Primer:
+
+- prosecna vrednost ugovora: 2.400e
+- bruto marza: 45% (1.080e)
+- SQL -> ponuda: 50%
+- ponuda -> klijent: 30%
+
+Efektivna vrednost jednog SQL-a je oko 162e (1.080e x 0.50 x 0.30).
+To znaci da SQL cost znacajno iznad tog nivoa trazi korekciju keyword intent-a, poruke ili kvalifikacije.
+
+## Struktura B2B Google Ads kampanje koja najcesce radi
+
+- **Kampanja 1: high-intent problem/solution query-jevi**
+- **Kampanja 2: competitor/alternative query-jevi**
+- **Kampanja 3: branded + defense**
+- **Kampanja 4: remarketing za decision stage posetioce**
+
+Svaka kampanja treba:
+- jasan CTA (audit, konsultacija, demo),
+- odvojenu landing poruku,
+- qualification pitanje koje odvaja MQL od SQL lead-a.
+
+Za pricing benchmark po kliku mozes pogledati i [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026).
+
+## 30-dnevni plan za B2B firme koje krecu od nule
+
+- **Nedelja 1:** tracking + CRM mapiranje (MQL, SQL, ponuda)
+- **Nedelja 2:** launch po intent segmentima + inicijalni negative keywords
+- **Nedelja 3:** search term pruning + poruke po personi
+- **Nedelja 4:** preraspodela budzeta samo na segmente sa zdravim SQL trendom
+
+Kluc je da svakih 7 dana gasis ono sto ne ulazi u prodajni tok, a ne samo ono sto ima skuplji klik.
+
+## Zakljucak
+
+Google Ads za B2B u Srbiji 2026 moze biti stabilan pipeline kanal, ali samo kada KPI nije "jeftin CPL" nego odrziv SQL cost i stopa zatvaranja.
+Ako hoces, mogu da uradim brzi audit kampanje i oznacim 3 poteza koji najbrze popravljaju kvalitet leadova — javi se preko [kontakt forme](/kontakt).
+`,
+  },
+  {
+    slug: 'google-ads-za-ecommerce-cena-prodaje-srbija-2026',
+    title: 'Google Ads za e-commerce u Srbiji 2026: cena prodaje, ROAS i budzet bez bacanja para',
+    excerpt: 'Koliko realno kosta Google Ads za web shop u Srbiji 2026: CPC, CPA, ROAS, test budzet i koraci kako da skalis samo ono sto je profitabilno.',
+    date: '2026-03-12',
+    category: 'E-Commerce',
+    readTime: '9 min',
+    content: `
+## Kratak odgovor: Google Ads za web shop moze biti i najbrzi rast i najbrze bacanje budzeta
+
+Ako trazis upit **google ads za ecommerce cena Srbija**, realan odgovor je:
+- test budzet za vecinu web shopova je **700e-2.500e mesecno**,
+- cena klika je bitna, ali je mnogo bitnija **cena prodaje (CPA)**,
+- skaliranje ima smisla tek kad je odnos marze i troska akvizicije zdrav.
+
+Drugim recima: nije pitanje koliko kosta klik, nego koliko te na kraju kosta jedna profitabilna porudzbina.
+Za siri okvir Search troskova pogledaj i [Google reklame cena](/google-reklame-cena).
+
+## Koliko su realni CPC i CPA rasponi za e-commerce u Srbiji
+
+Tipicni rasponi posle inicijalne optimizacije:
+
+- **CPC (Search):** 0.18e-0.95e
+- **CPA (prodaja):** 8e-45e
+- **ROAS:** 2.5x-8x (zavisno od marze i kategorije)
+
+Kod nizih marzi i agresivne konkurencije (fashion, beauty, gadgeti), "lepi" ROAS brojevi cesto kriju slab profit.
+Zato CPA i neto marza moraju da se gledaju zajedno, ne odvojeno.
+
+## Zasto dve radnje sa slicnim proizvodom imaju duplo razlicitu cenu prodaje
+
+Najvece razlike obicno nisu u platformi, nego u sistemu:
+
+1. **Keyword intent je presirok**
+   Ako targetiras informativne upite, placas klikove koji ne kupuju.
+
+2. **Feed i struktura kampanja su neuredni**
+   Pogresne kategorije i losi naslovi proizvoda dizu trosak i obaraju relevantnost.
+
+3. **Landing stranica ne zatvara signal iz oglasa**
+   Korisnik klikne na "akcija + besplatna dostava", a na stranici to ne vidi odmah.
+
+4. **Nema discipline oko negativnih kljucnih reci**
+   Budzet ode na pretrage koje deluju aktivno, ali nemaju kupovni intent.
+
+5. **Checkout ima trenje**
+   Ako proces kupovine traje dugo ili deluje nepoverljivo, cena prodaje ode gore i kad je klik jeftin.
+
+Ako hoces da prvo sredis konverziju pre skaliranja budzeta, koristan sledeci korak je [Web shop nema prodaju](/web-shop-nema-prodaju).
+
+## Kako da izracunas maksimalno odrziv CPA za svoj web shop
+
+Jednostavan model:
+
+- prosecna vrednost porudzbine (AOV),
+- bruto marza,
+- procenat povrata/refunda,
+- operativni trosak po porudzbini.
+
+Primer:
+
+- AOV: 62e
+- bruto marza: 42% (26.04e)
+- refund/povrat efekat: -2e
+- operativni trosak: -4e
+
+Efektivna vrednost porudzbine je oko 20e.
+To znaci da CPA znacajno iznad 20e pojede vecinu profita i trazi hitnu korekciju kampanja ili ponude.
+
+## 30-dnevni plan za e-commerce Google Ads bez lutanja
+
+### Nedelja 1: ciscenje osnove
+- segmentacija kampanja po intentu i kategorijama,
+- provera tracking-a i conversion event-a,
+- inicijalna negativna keyword lista.
+
+### Nedelja 2: poruka i feed optimizacija
+- dorada naslova proizvoda i ad copy-ja,
+- test 2-3 ugla ponude,
+- uskladjivanje oglasa i landing poruke 1:1.
+
+### Nedelja 3: pruning i preraspodela
+- gasenje ad grupa bez signala,
+- budzet ka segmentima sa zdravim CPA trendom,
+- search term cleanup.
+
+### Nedelja 4: skaliranje pobednika
+- povecanje budzeta na profitabilnim segmentima,
+- retargeting dorada,
+- plan sledecih eksperimenata po marzi i zalihama.
+
+Ako paralelno sredjujes i infrastrukturu sajta, pogledaj i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena). Za siri budzet kontekst po kanalima korisno je i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Najcesce greske koje u praksi najbrze pojedu budzet
+
+1. **Skaliranje prerano**
+   Dizanje budzeta pre nego sto se stabilizuje CPA obicno ubrza gubitak.
+
+2. **Fokus samo na ROAS**
+   ROAS bez marze i operativnih troskova daje lazni osecaj sigurnosti.
+
+3. **Jedna kampanja za sve proizvode**
+   Kategorije sa razlicitim marginama ne smeju biti u istom budzetskom dzepu.
+
+4. **Ignorisanje pretraga korisnika**
+   Search terms izvestaj je najbrzi nacin da vidis gde curi novac.
+
+5. **Nema veze izmedju ads tima i prodaje/logistike**
+   Ako nema informacija o povratima i kvalitetu porudzbina, optimizacija je nepotpuna.
+
+## Zakljucak
+
+Google Ads za e-commerce u Srbiji 2026 moze biti predvidljiv kanal rasta, ali samo ako se vodi po marzi i ceni prodaje, ne po vanity metrikama.
+Ako hoces, mogu da uradim brz audit trenutnih kampanja i oznacim 3 poteza koji najbrze spustaju cenu profitabilne porudzbine - javi se preko [kontakt forme](/kontakt).
+`,
+  },
+  {
+    slug: 'google-ads-za-advokate-cena-klijenta-srbija-2026',
+    title: 'Google Ads za advokate u Srbiji 2026: cena klijenta, budzet i kako da ne bacite novac',
+    excerpt: 'Realni CPC/CPL rasponi za advokatske kampanje u Srbiji 2026, koliko budzeta treba za test i kako da merite cenu klijenta umesto cene klika.',
+    date: '2026-03-12',
+    category: 'Google Ads',
+    readTime: '9 min',
+    content: `
+## Google Ads za advokate u Srbiji 2026: kratak odgovor
+
+Ako trazis upit **google ads za advokate cena Srbija**, najprakticniji odgovor je:
+- realan test budzet za vecinu kancelarija je **800e-2.500e mesecno**,
+- cena klika cesto zavisi od grada i oblasti prava,
+- profitabilnost ne meri CPC, nego **cena zakazanih konsultacija i potpisanih klijenata**.
+
+Advokatsko trziste je osetljivo jer je intent visok, a konkurencija agresivna. Zato setup i disciplina prave vecu razliku od samog budzeta.
+Za siri benchmark po Search kanalu pogledaj i [Google reklame cena](/google-reklame-cena).
+
+## Koliko kosta klik i lead za advokatske usluge
+
+Tipicni rasponi koje advokatske kancelarije vide nakon pocetnog perioda optimizacije:
+
+- **CPC (Search):** 0.35e-2.40e
+- **CPL (upit/poziv):** 12e-70e
+- **Cena zakazane konsultacije:** 25e-140e
+
+Raspon je sirok jer nisu isti upiti za:
+- razvode,
+- naknadu stete,
+- radno pravo,
+- privredno pravo,
+- krivicne predmete.
+
+U oblastima sa visom vrednoscu slucaja mozes tolerisati visi CPL, ali samo ako je intake proces brz i disciplinovan.
+
+## Gde kancelarije najcesce gube novac
+
+### 1) Mesaju sve oblasti prava u jednu kampanju
+
+Kad su razvod, steta i privreda u istoj grupi, Google teze razume signal, a budzet odlazi na slabiji intent.
+Bolje je odvojiti kampanje po oblasti prava i po gradu.
+
+### 2) Oglas obecava jedno, landing strana pokazuje drugo
+
+Ako korisnik trazi "advokat za naknadu stete Beograd", ne sme da sleti na genericku "o nama" stranicu.
+Landing mora 1:1 da potvrdi upit, problem i sledeci korak.
+
+### 3) Nema discipline sa negativnim kljucnim recima
+
+Upiti tipa "besplatni pravni saveti", "zakon pdf" ili studentske pretrage mogu pojesti znacajan deo budzeta bez ijednog ozbiljnog lead-a.
+
+### 4) Spor odgovor na lead
+
+Kod pravnih usluga brzina odgovora direktno utice na stopu zakazivanja.
+Lead koji se pozove za 10 minuta i lead koji se pozove posle 3 sata nisu isti kvalitet.
+
+## Struktura kampanje koja najcesce radi
+
+Praktican model za kancelarije u Srbiji:
+
+- **Kampanja 1: high-intent non-brand upiti** (npr. "advokat naknada stete")
+- **Kampanja 2: geo + service kombinacije** (npr. "advokat radno pravo Novi Sad")
+- **Kampanja 3: branded odbrana** (naziv kancelarije + varijacije)
+- **Kampanja 4: remarketing za posetioce koji nisu poslali upit**
+
+Svaka kampanja mora imati:
+- zasebne oglase,
+- zasebne ekstenzije,
+- posebnu landing poruku,
+- jasan CTA za konsultaciju.
+
+Ako gradis i organsku poziciju za ovaj segment, povezi i sa [marketing za advokate](/marketing-za-advokate).
+
+## Kako da izracunas maksimalno odrziv CPL
+
+Jednostavan okvir koji kancelarije mogu odmah da koriste:
+
+- prosecna vrednost slucaja,
+- prosecna bruto marza,
+- procenat leadova koji zakazu konsultaciju,
+- procenat konsultacija koje postanu klijenti.
+
+Primer:
+
+- prosecna vrednost slucaja: 900e
+- bruto marza: 60% (540e)
+- lead -> konsultacija: 35%
+- konsultacija -> klijent: 30%
+
+Efektivna vrednost lead-a je oko 56.7e (540e x 0.35 x 0.30).
+To znaci da CPL znacajno iznad tog nivoa trazi korekciju keyword-a, ponude ili landing-a.
+
+## Sta mora da postoji na landing strani za advokatske oglase
+
+Minimum za bolju stopu konverzije:
+
+- jasan naslov sa konkretnom oblascu prava,
+- kratko objasnjen proces saradnje,
+- kredibilitet (iskustvo, rezultati, recenzije gde je dozvoljeno),
+- transparentan sledeci korak (poziv ili forma),
+- mobilna brzina i jednostavna forma.
+
+Ako zelis da sredis i conversion deo posle klika, koristan sledeci korak je [CRO optimizacija](/cro).
+
+## 30-dnevni plan bez rasipanja budzeta
+
+- **Nedelja 1:** tracking setup, struktura kampanja po oblasti prava, inicijalna keyword mapa
+- **Nedelja 2:** launch oglasa + prve negativne kljucne reci + test dva ugla poruke
+- **Nedelja 3:** search term cleanup, gasenje slabih ad grupa, preraspodela budzeta
+- **Nedelja 4:** dorada landing sekcija i skaliranje segmenata sa najboljim odnosom CPL i zakazanih konsultacija
+
+Paralelno, uskladi model saradnje sa realnim obimom posla kroz [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Zakljucak
+
+Google Ads za advokate u Srbiji 2026 moze biti vrlo profitabilan, ali samo kada meris cenu klijenta, a ne cenu klika.
+Ako hoces, mogu da uradim brz audit postojece kampanje i oznacim 3 najbrze izmene koje najvise spustaju cenu kvalitetnog lead-a - javi se preko [kontakt forme](/kontakt).
+`,
+  },
+  {
+    slug: 'alex-hormozi-core-4-lead-magnet-srbija-2026',
+    title: 'Alex Hormozi Core 4 lead magnet sistem: kako da dobijete vise kvalitetnih upita u Srbiji 2026',
+    excerpt: 'Praktican vodic kako da primenis Hormozi Core 4 lead magnet okvir na srpsko trziste i povecas broj kvalitetnih upita bez dupliranja budzeta.',
+    date: '2026-03-11',
+    category: 'Lead Generation',
+    readTime: '9 min',
+    content: `
+## Zasto vecina lead magneta ne radi ni posle 1.000 klikova
+
+Najcesci problem nije traffic. Problem je sto ponuda za lead izgleda kao jos jedan PDF koji niko ne zeli.
+Ako korisnik ne oseca da dobija konkretan rezultat odmah, nece ostaviti kontakt ni kad je klik jeftin.
+
+Alex Hormozi ovo resava kroz jednostavan okvir koji mozes da primenis i na srpskom trzistu: **Core 4 lead magnets**.
+Poenta nije da delis vise besplatnog sadrzaja, nego da snizis rizik odluke i ubrzas put do poverenja.
+
+Ako prvo zelis siru sliku medijskog budzeta i cene klika, pogledaj i [Google reklame cena](/google-reklame-cena).
+
+## Sta je Hormozi Core 4 i kako to izgleda u praksi
+
+Core 4 okvir grupise lead magnete u cetiri formata koji najcesce podizu stopu prijave:
+
+1. **Checklist** - brzo uklanja haos i daje korisniku sledeci korak.
+2. **Template** - korisnik dobija gotov model koji moze odmah da primeni.
+3. **Script/Swipe file** - skracuje vreme za prodaju, outreach ili follow-up.
+4. **Kalkulator/scorecard** - daje personalizovan rezultat i resetuje ocekivanja.
+
+U Srbiji najbolje rade formati koji daju osecaj "ovo mogu da upotrebim danas", bez dugih teorijskih lekcija.
+
+## Kako da izaberes pravi lead magnet za svoju nišu
+
+Prvo pitanje nije "sta da damo besplatno", nego **koji mikrorazultat kupac zeli pre kupovine**.
+
+Primeri:
+
+- agencija za oglase: mini audit checklista + budget planner,
+- web studio: landing page brief template,
+- B2B usluge: discovery call script + qualification scorecard,
+- lokalni biznisi: 7-dnevni plan objava + CTA ideje.
+
+Ako lead magnet ne skrati put do prve male pobede, bice lep fajl koji niko ne otvara.
+
+## Core 4 za srpsko trziste: konkretan primer kampanje
+
+Recimo da prodajes uslugu vodjenja Google Ads kampanja.
+Umesto generickog "vodica za oglase", koristi sledeci stack:
+
+- **Checklist:** "12 gresaka koje dizu CPC u Srbiji".
+- **Template:** Google Ads account struktura po intentu.
+- **Script:** follow-up poruke za leadove koji se ne jave odmah.
+- **Kalkulator:** procena odrzivog CPL-a po marzi i stopi zatvaranja.
+
+Ovako svaka osoba koja ostavi kontakt dobija opipljivu vrednost, a ti dobijas kvalifikovaniji razgovor.
+Za uporedni benchmark po kanalima korisno je i [Instagram reklame cena](/instagram-reklame-cena).
+
+## Gde firme najcesce pogrese sa lead magnetima
+
+### 1) Poklanjaju previse, a ne vode ka sledecem koraku
+Lead magnet treba da otvori vrata ka razgovoru, ne da zameni celu uslugu.
+
+### 2) Nema jasnog CTA-a posle preuzimanja
+Ako posle download-a nema poziva na dijagnostiku, audit ili konsultaciju, lead ostaje hladan.
+
+### 3) Nema segmentacije po intentu
+Nije isti lead koji trazi "cena" i lead koji trazi "kako da krenem". Poruka i sledeci korak moraju biti razliciti.
+
+### 4) Meri se broj leadova, ne kvalitet
+Nizak CPL je beskoristan ako prodajni tim dobija nekvalifikovane upite.
+
+## Kako da meris da li Core 4 stvarno radi
+
+Prati 5 metrika zajedno:
+
+- stopa prijave na landing stranici,
+- cena lead-a (CPL),
+- procenat zakazanih poziva iz lead magneta,
+- procenat kvalifikovanih razgovora,
+- prihod po kvalifikovanom lead-u.
+
+Ako raste samo broj prijava, a ne raste kvalitet razgovora, treba korigovati temu magneta i CTA tok.
+Za bolju konverziju posle klika pogledaj i [CRO optimizaciju](/cro).
+
+## 30-dnevni plan implementacije bez haosa
+
+### Nedelja 1: definisi mikrorazultat
+- izaberi jedan bolni problem koji kupac zeli da resi odmah,
+- napisi checklistu ili template na 1-2 strane,
+- dodaj CTA ka kratkoj dijagnostici.
+
+### Nedelja 2: launch i validacija
+- pokreni kampanju sa 2-3 ugla poruke,
+- testiraj dva naslova lead magneta,
+- prati prijavu i kvalitet prvih razgovora.
+
+### Nedelja 3: optimizacija
+- ukloni segmente sa slabim signalom,
+- pojacaj ono sto donosi zakazane pozive,
+- unapredi follow-up poruke za tople leadove.
+
+### Nedelja 4: skaliranje
+- ubaci drugi format iz Core 4 (npr. kalkulator uz checklist),
+- standardizuj reporting ritam,
+- dokumentuj sta najvise podize kvalitet upita.
+
+Ako zelis da ovaj sistem pretvoris u stabilan prodajni proces, pogledaj i [cene digitalnog marketinga](/cene-digitalnog-marketinga) i javi se preko [kontakt forme](/kontakt).
+
+## Zakljucak
+
+Hormozi Core 4 radi zato sto spaja vrednost i brz sledeci korak: korisnik dobija realnu pomoc, a biznis dobija kvalitetnije upite.
+Ako hoces, mogu da ti slozim Core 4 lead magnet plan za tvoju konkretnu nishu i kanal, pa da test krene vec ove nedelje.
+`,
+  },
+  {
+    slug: 'google-ads-za-stomatologe-cena-leada-srbija-2026',
+    title: 'Google Ads za stomatologe u Srbiji 2026: realna cena leada i kako da ne spalite budzet',
+    excerpt: 'Google Ads za stomatologe u Srbiji 2026: realni CPC i CPL rasponi, budzet za start i koraci za vise zakazanih termina.',
+    date: '2026-03-11',
+    category: 'Google Ads',
+    readTime: '9 min',
+    content: `
+## Kratak odgovor: Google Ads za stomatologe radi, ali samo ako merite cenu zakazanog termina, ne cenu klika
+
+Ako pretrazujes upit **google ads za stomatologe cena Srbija**, najkorisniji odgovor je sledeci:
+za vecinu ordinacija zdrav start je **700e-2.500e mesecno medijskog budzeta**, uz disciplinovanu optimizaciju i jasan plan po uslugama.
+
+Najvaznije: nemoj da vodis kampanju po logici "sto jeftiniji klik".
+Ordinaciji je bitna **cena zakazanog termina** i kvalitet pacijenta, ne vanity brojke.
+
+Za siri okvir medijskog budzeta pogledaj i [Google reklame cena](/google-reklame-cena).
+
+## Koliko realno kosta lead za stomatoloske usluge u Srbiji
+
+Tipicni rasponi koje ordinacije vide posle inicijalnog perioda stabilizacije:
+
+- **CPC (Search):** 0.20e-1.10e
+- **CPL (upit/poziv):** 9e-45e
+- **Cena zakazanog termina:** 18e-90e
+
+Raspon je sirok jer nije ista ekonomija za:
+- redovan pregled,
+- estetske usluge,
+- implantologiju,
+- hitne intervencije.
+
+High-ticket usluge mogu tolerisati visi CPL, dok kod nizih vrednosti usluga kampanja mora biti mnogo preciznija.
+
+## Zasto neke ordinacije plate duplo vise za isti broj upita
+
+Najcesca razlika nije "trziste" nego setup.
+U praksi, najvece gubitke prave ove 4 stvari:
+
+1. **Sve usluge su u jednoj kampanji**
+   Kad su ciscenje kamenca, implanti i hitne usluge u istom bucket-u, signal je mutan i budzet ide na pogresne upite.
+
+2. **Landing stranica ne prati intent pretrage**
+   Korisnik trazi "zubni implant cena", a padne na genericku stranicu "o nama". To skoro uvek digne cenu lead-a.
+
+3. **Bez negativnih kljucnih reci**
+   Upiti poput "besplatno", "fakultet", "plate stomatologa" pojedu budzet bez ikakvog poslovnog efekta.
+
+4. **Spor odgovor na upit**
+   Ako se na lead odgovori nakon 2-3 sata, vrednost tog klika drasticno pada.
+
+## Struktura kampanje koja najcesce radi za ordinacije
+
+Praktican model za 2026 na srpskom trzistu:
+
+- **Kampanja 1: High intent treatment keywords**
+  (npr. implant, krunica, ortodoncija po usluzi)
+- **Kampanja 2: Branded + local intent**
+  (naziv ordinacije + grad/opstina)
+- **Kampanja 3: Emergency/urgent intent**
+  (npr. "zubobolja hitno", gde ordinacija to realno pokriva)
+- **Kampanja 4: Remarketing**
+  (za korisnike koji su posetili sajt, ali nisu zakazali)
+
+Svaka kampanja treba poseban oglasni ugao, odvojene extension-e i landing poruku 1:1 sa query-jem.
+
+Ako razvijas i lokalnu organsku vidljivost, dobar paralelan potez je [marketing za stomatologe](/marketing-za-stomatologe).
+
+## Kako da izracunate da li kampanja ima smisla
+
+Najjednostavniji okvir:
+
+- prosecna vrednost tretmana,
+- bruto marza,
+- procenat ljudi koji se pojave na terminu,
+- procenat onih koji prihvate terapiju.
+
+Primer:
+
+- prosecna vrednost usluge: 320e
+- bruto marza: 50% (160e)
+- od lead-a do zakazanog termina: 40%
+- od termina do placene usluge: 60%
+
+Efektivna vrednost lead-a je ~38.4e (160e x 0.4 x 0.6).
+To znaci da CPL znacajno iznad tog nivoa trazi hitnu korekciju ponude, keyword-a ili landing-a.
+
+## Landing stranica za stomatoloske oglase: sta mora da postoji
+
+Za medicinske usluge poverenje je pola prodaje.
+Minimum koji landing mora da pokrije:
+
+- jasan naslov sa uslugom i lokacijom,
+- doktor/tim i kredibilitet (sertifikati, iskustvo),
+- 2-3 konkretna dokaza (recenzije, rezultati, pre/posle gde je dozvoljeno),
+- jednostavan CTA (poziv ili zakazivanje),
+- mobilna brzina ispod 3 sekunde.
+
+Ako i dalje saljes paid traffic na genericki homepage, kampanja ce skoro uvek biti skuplja nego sto mora.
+Za trosak i scope izrade takvih stranica pogledaj [izradu landing stranice: cena, rokovi, sta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
+
+## 30-dnevni plan za ordinacije koje krecu od nule
+
+- **Nedelja 1:** tracking setup, conversion ciljevi, keyword mapiranje po usluzi
+- **Nedelja 2:** launch 2-3 kampanje sa odvojenim oglasima i ad extension-ima
+- **Nedelja 3:** search term cleanup, negativne reci, prva preraspodela budzeta
+- **Nedelja 4:** landing dorade + fokus na segmente sa najboljim odnosom CPL i zakazanih termina
+
+Kluc: svake nedelje gasiti ono sto nema signal i gurati ono sto donosi kvalitetne pacijente.
+
+## Najcesce greske koje najbrze pojedu budzet ordinacije
+
+1. **Pogresan KPI**
+   Tim slavi nizak CPC, a kalendar termina nije pun.
+
+2. **Jedan oglas za sve usluge**
+   Implant i regularan pregled nemaju isti kupovni intent.
+
+3. **Nema discipline u negative keyword listi**
+   Ovo je jedan od najbrzih nacina da se CPL spusti bez dodatnog budzeta.
+
+4. **Nema povezivanja marketinga i recepcije**
+   Ako call handling nije brz i strukturiran, pola marketing ulaganja se izgubi posle klika.
+
+Za poredjenje sa drugim kanalima, korisno je i [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama).
+
+## Zakljucak
+
+Google Ads za stomatologe u Srbiji 2026 moze biti izuzetno profitabilan kanal, ali samo kad je vezan za realne poslovne metrike: zakazan termin, dolazak pacijenta i vrednost terapije.
+Ako hoces, mozemo uraditi brz audit tvoje trenutne kampanje i oznaciti 3 poteza koji najbrze spustaju cenu kvalitetnog lead-a - javi se preko [kontakt forme](/kontakt).
+`,
+  },
+  {
+    slug: 'facebook-ads-cena-po-industriji-srbija-2026',
+    title: 'Facebook Ads cena po industriji u Srbiji 2026: realni CPC/CPL rasponi i budzeti za test',
+    excerpt: 'Detaljan vodic za Facebook Ads cenu po industriji u Srbiji 2026: realni rasponi CPC/CPL metrika, starter budzeti i kako da procenis kada kampanja ima zdrav ROI.',
+    date: '2026-03-11',
+    category: 'Marketing',
+    readTime: '9 min',
+    content: `
+## Kratak odgovor: Facebook Ads cena u Srbiji najvise zavisi od industrije i faze ponude
+
+Ako trazis upit **facebook ads cena po industriji Srbija**, najkraci odgovor je da trosak moze da varira i 3-4x izmedju nisa.
+Razlog nije samo konkurencija u aukciji, vec i kvalitet ponude, trust signali i brzina prodajnog follow-upa.
+
+Tipicni rasponi koje firme vide tokom 2026:
+
+- **Lokalne usluge (saloni, fitnes, edukacije):** CPC 0.08e-0.30e, CPL 4e-18e
+- **E-commerce (srednja korpa):** CPC 0.10e-0.45e, CPA 6e-28e
+- **B2B usluge i konsulting:** CPC 0.25e-0.90e, CPL 18e-85e
+- **Visoko-konkurentne nise (pravne, finansije):** CPC 0.45e-1.40e, CPL 35e-120e+
+
+Ako zelis sire poredjenje i po drugim kanalima, pogledaj i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Za baseline procenu samog Meta troska po kampanji, dobar orijentir je i [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama).
+
+## Zasto je ista "Facebook kampanja" jeftina u jednoj, a skupa u drugoj industriji
+
+Najcesce razlika dolazi iz 5 faktora:
+
+1. koliko je publika komercijalno "vrela" (buyer intent),
+2. koliko brzo i jasno nudis sledeci korak,
+3. da li landing stranica uklanja sumnje pre forme,
+4. da li sales tim kontaktira lead dok je jos sveze zainteresovan,
+5. da li optimizujes na kvalitet lead-a ili samo na broj formi.
+
+Kad ova logika nije postavljena, kampanja moze da ima lep CTR i los poslovni rezultat.
+
+## Facebook Ads cena po industriji: realni benchmark rasponi
+
+### 1) Lokalne usluge (stomatolog, estetski studio, trener)
+
+- **CPC:** 0.08e-0.25e
+- **CPL (forma/poruka):** 4e-15e
+- **Starter test budzet:** 500e-1.000e mesecno
+
+Ovde najvise pravi razliku geografski targeting i jasan offer (npr. pregled, procena, mini konsultacija).
+
+### 2) E-commerce (fashion, beauty, niche retail)
+
+- **CPC:** 0.10e-0.45e
+- **CPA:** 6e-28e
+- **Starter test budzet:** 900e-2.500e mesecno
+
+Kod web shop modela je kriticno da pratis marzu, ne samo ROAS. Ako hoces da uskladis i sajt stranu sistema, koristan kontekst je [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+
+### 3) B2B usluge (agencije, software, profesionalne usluge)
+
+- **CPC:** 0.25e-0.90e
+- **CPL:** 18e-85e
+- **Starter test budzet:** 1.200e-3.500e mesecno
+
+B2B u Srbiji obicno trazi duzi period testiranja poruke i strozu kvalifikaciju leadova pre predaje sales timu.
+
+### 4) High-ticket i visoko-konkurentne nise
+
+- **CPC:** 0.45e-1.40e
+- **CPL:** 35e-120e+
+- **Starter test budzet:** 2.000e-5.000e+
+
+Ovde je najbolji rezultat kad se Facebook koristi za demand capture + retargeting, uz paralelan Search kanal. Za Search benchmark pogledaj i [Google reklame cena](/google-reklame-cena).
+
+## Kako da procenis da li je CPL zdrav za tvoj biznis
+
+Praktican okvir:
+
+- prosecna vrednost kupovine ili klijenta,
+- bruto marza,
+- stopa zatvaranja lead-a,
+- procenat ponovljenih kupovina (ako postoji).
+
+Brzi primer:
+
+- prosecna vrednost klijenta: 900e
+- marza: 40% (360e)
+- stopa zatvaranja lead-a: 20% (1 od 5)
+
+U tom slucaju, maksimalan odrziv CPL je oko 72e (360e / 5).
+Sve ispod toga moze biti zdravo, ali tek kada je kvalitet lead-a stabilan.
+
+## Najcesce greske koje vestacki podizu cenu oglasa
+
+1. **Kreative bez jasne ponude** - klik dolazi, ali lead ne.
+2. **Preusko ili presiroko targetiranje** - ili nema volumena, ili leadovi nisu relevantni.
+3. **Landing bez trust elemenata** - nema dokaza, nema rezultata, nema sledeceg koraka.
+4. **Spor follow-up** - lead hladan pre prvog kontakta.
+5. **Optimizacija samo na najjeftiniji klik** - biznis cilj ostane bez fokusa.
+
+Za dublji kontekst Meta kanala, korisno je i [Instagram reklame cena](/instagram-reklame-cena), jer u praksi vecina naloga radi kao jedinstven Meta sistem.
+
+## 30-dnevni test plan koji daje realnu sliku cene
+
+- **Nedelja 1:** setup merenja + 3 glavna ugla poruke
+- **Nedelja 2:** test 4-6 kreativa po uglu i inicijalni retargeting
+- **Nedelja 3:** gasenje slabih ad setova, scale najboljih i landing iteracija
+- **Nedelja 4:** stabilizacija CPL/CPA i plan budzeta za naredni mesec
+
+Ako posle 30 dana nemas jasnu sliku koji segment donosi kvalitetne leadove, problem je najcesce u strukturi testa, ne u platformi.
+
+## Zakljucak
+
+Za upit **facebook ads cena po industriji Srbija**, poenta nije da juris najnizi CPC, nego da izgradis predvidljiv sistem koji pretvara budzet u prihod.
+Ako zelis, mozemo uraditi brzi audit tvog naloga i reci gde tacno curi budzet - javi se preko [kontakt forme](/kontakt).
+`,
+  },
+  {
+    slug: 'marketing-agencija-cena-srbija-2026',
+    title: 'Marketing agencija cena u Srbiji 2026: paketi, rasponi i kako da procenis isplativost',
+    excerpt: 'Koliko kosta marketing agencija u Srbiji 2026, koji modeli naplate postoje i kako da procenis da li ponuda donosi profit ili samo aktivnost bez rezultata.',
+    date: '2026-03-11',
+    category: 'Marketing',
+    readTime: '10 min',
+    content: `
+## Kratak odgovor: marketing agencija u Srbiji najcesce je 400e do 3.500e+ mesecno
+
+Ako trazis brz odgovor za upit **marketing agencija cena**, realan raspon zavisi od modela saradnje, obima kanala i nivoa odgovornosti koji agencija preuzima.
+
+Najcesci rasponi koje firme vide u praksi:
+
+- **Starter lokalni paket:** 400e-900e mesecno
+- **Growth paket (vise kanala):** 900e-1.800e mesecno
+- **Performance / scale paket:** 1.800e-3.500e+ mesecno
+
+Za sire budzete po kanalima pogledaj i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Zasto dve agencije sa slicnim cenama daju potpuno razlicite rezultate
+
+Na papiru obe ponude mogu zvucati slicno: vođenje kampanja, content, reporting.
+U realnosti, razlika je ogromna ako jedna agencija radi sistemski, a druga samo operativno.
+
+Najveca razlika obicno je u ovih 5 stvari:
+
+1. da li postoji jasna strategija po fazama funnel-a,
+2. da li se meri kvalitet lead-ova (ne samo broj),
+3. da li je landing infrastruktura deo posla,
+4. da li se kreativ i ponuda testiraju kontinuirano,
+5. da li postoji ritam optimizacije iz nedelje u nedelju.
+
+Ako placas samo objave i osnovne kampanje bez ovoga, najcesce kupujes aktivnost, ne rast.
+
+## Modeli naplate koje ces najcesce videti
+
+### 1) Fiksni mesecni fee
+Najpregledniji model za vecinu firmi. Lakse je planiranje cashflow-a i internog budzeta.
+
+### 2) Procenat od ad spend-a
+Cesci kod vecih naloga. Moze biti dobar ako je jasno definisano sta ulazi u scope dok budzet raste.
+
+### 3) Hibrid (fiksni fee + performance komponenta)
+Dobar kada obe strane zele uskladjen interes oko rezultata.
+Ali metrike moraju biti ugovorene unapred (kvalifikovan lead, SQL, revenue attribution), inace dolazi do konfuzije.
+
+Ako razmatras saradnju po rezultatu, korisno je i poređenje [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share).
+
+## Sta mora da ulazi u ozbiljan agencijski paket
+
+Ako hoces predvidljiv rast, minimalni paket bi trebalo da pokrije:
+
+- strategiju i prioritete po kvartalu,
+- setup i verifikaciju trackinga,
+- copy + kreativno testiranje,
+- optimizaciju landing iskustva,
+- nedeljnu optimizaciju kampanja,
+- jasan reporting sa sledecim akcijama,
+- uskladjivanje marketing i sales feedback-a.
+
+Za Search kanal benchmark mozes proveriti kroz [Google reklame cena](/google-reklame-cena),
+a za Meta kroz [Instagram reklame cena](/instagram-reklame-cena).
+
+## 6 crvenih zastavica da je ponuda preskupa i kad nije visoka
+
+1. **Nema jasnog plana rada za prvih 90 dana.**
+2. **Izvestaj je samo screenshot platformi bez zakljucaka.**
+3. **Nema vlasnistva nad nalozima i podacima.**
+4. **Nema rada na landing-u i konverzijama.**
+5. **Sve KPI metrike su vanity (reach, impresije) bez poslovnog ishoda.**
+6. **Ne postoji jasan owner za rezultat ni sa jedne strane.**
+
+Cak i niska cena postaje skupa kad nema mehanizma koji vodi ka prihodu.
+
+## Kako da izracunas da li je agencija isplativa
+
+Praktican okvir za procenu:
+
+- koliki je prosecni prihod po klijentu,
+- kolika je bruto marza,
+- kolika je stopa zatvaranja lead-ova,
+- koliki je ukupan trosak marketinga (fee + media + produkcija).
+
+Primer:
+
+- prosecna vrednost klijenta: 1.200e
+- marza: 45% (540e)
+- stopa zatvaranja: 20% (1 od 5)
+
+Maksimalan odrziv trosak po kvalifikovanom lead-u je oko 108e (540e / 5).
+Ako te agencijski sistem drzi stabilno ispod toga, saradnja je zdrava.
+
+## 90-dnevni plan koji najcesce daje realnu sliku
+
+- **Dani 1-30:** audit, tracking cleanup, poruka i ponuda, quick wins
+- **Dani 31-60:** testiranje kreativa, publika i landing varijanti
+- **Dani 61-90:** skala onoga sto radi + gasenje onoga sto ne radi
+
+Posle 90 dana bi trebalo da vidis trend u kvalitetu upita, brzini prodaje i trosku akvizicije.
+Ako nema jasnog trenda, problem je najcesce u procesu, ne u budzetu.
+
+## Zakljucak
+
+Za temu **marketing agencija cena Srbija**, pravo pitanje nije "ko je najjeftiniji", vec "ko moze da pretvori budzet u predvidljiv pipeline".
+Ako zelis, mozemo uraditi brz audit tvoje trenutne strukture i oznaciti 3 poteza koji najbrze popravljaju ROI — javi se preko [kontakt forme](/kontakt).
+`,
+  },
+  {
+    slug: 'lead-generation-cena-srbija-2026',
+    title: 'Lead generation cena u Srbiji 2026: koliko stvarno kosta kvalitetan upit',
+    excerpt: 'Praktican vodic koliko kosta lead generation u Srbiji 2026: realni CPL rasponi, sta podize cenu i kako da razlikujete "jeftin lead" od profitabilnog upita.',
+    date: '2026-03-11',
+    category: 'Lead Generation',
+    readTime: '9 min',
+    content: `
+## Kratak odgovor: lead generation u Srbiji najcesce je 12e do 90e po kvalifikovanom upitu
+
+Ako pretrazujete **lead generation cena Srbija**, najrealniji odgovor je: zavisi od nise, kompleksnosti ponude i kvaliteta prodajnog procesa nakon upita.
+
+Tipicni rasponi koje firme vidaju u praksi:
+
+- **Lokalne usluge:** 12e-35e po kvalifikovanom upitu
+- **B2B usluge srednje vrednosti:** 25e-60e po upitu
+- **Vise-ticket ponude (pravne, finansijske, specijalizovane usluge):** 45e-90e+
+
+Za siru sliku budzeta po kanalima, pogledajte i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Zasto ista "lead gen" usluga moze imati duplo razlicitu cenu
+
+Najveca razlika skoro nikad nije samo u ceni oglasa.
+Razlika je u sistemu koji stoji iza kampanje:
+
+1. kvalitet poruke i ponude,
+2. kvalitet landing stranice,
+3. brzina i disciplina follow-up procesa,
+4. nacin na koji merite kvalifikovan lead.
+
+Ako agencija meri samo broj formi, a ne kvalitet upita, vrlo lako mozete dobiti nizi CPL i slabiji prihod.
+
+## Sta obavezno mora da ulazi u ozbiljan lead generation paket
+
+Ako zelite predvidljiv kanal, paket treba da pokrije vise od same kampanje:
+
+- istrazivanje trzista i buyer intent kljucnih reci,
+- izradu/optimizaciju landing stranice za konverziju,
+- setup trackinga (GA4, events, CRM pipeline),
+- testiranje oglasa i poruka po segmentima,
+- retargeting za korisnike koji nisu odmah konvertovali,
+- nedeljni reporting: CPL, kvalitet lead-ova, stopa zatvaranja.
+
+Ako zelite benchmark za Search kanal, pogledajte i [Google reklame cena](/google-reklame-cena),
+a za Meta kanal [Instagram reklame cena](/instagram-reklame-cena).
+
+## Najcesce greske koje prave da lead generation izgleda "preskupo"
+
+### 1) Kampanja vodi na slabu landing stranicu
+Ako stranica nema jasan offer, trust elemente i CTA, klikovi se placaju, ali upiti ne dolaze.
+
+### 2) Presiroko targetiranje
+"Svi su nam kupci" skoro uvek znaci visok trosak i nizak kvalitet lead-ova.
+
+### 3) Nema brzog follow-up procesa
+Lead koji ceka 6 sati ima drasticno manju sansu da postane klijent nego lead koji dobije odgovor za 5-15 minuta.
+
+### 4) Fokus samo na cenu klika
+Jeftin klik ne znaci dobar posao. Profit meri kvalitet i zatvaranje, ne samo CPC.
+
+Ako zelite da prvo sredite stranicu pre skaliranja kampanja, koristan vodic je [izrada landing stranice: cena, rokovi, sta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
+
+## Kako da procenite da li je lead generation "isplativ"
+
+Koristite jednostavan okvir:
+
+- prosecna vrednost klijenta,
+- bruto marza po klijentu,
+- procenat zatvaranja lead-ova,
+- maksimalan CPL koji ostavlja zdravu marginu.
+
+Primer:
+
+- vrednost klijenta: 800e
+- marza: 50% (400e)
+- stopa zatvaranja: 20% (1 od 5 lead-ova)
+
+Maksimalan odrziv CPL je oko 80e (400e / 5), ali cilj je da budete znacajno ispod toga radi prostora za rast.
+
+## 90-dnevni plan koji obicno daje stabilan rezultat
+
+- **Dani 1-30:** audit ponude, tracking setup, inicijalni test oglasa i landing varijanti
+- **Dani 31-60:** optimizacija po kvalitetu lead-ova, ne samo po kolicini
+- **Dani 61-90:** skaliranje segmenata sa najboljim odnosom CPL i stope zatvaranja
+
+Kada sistem radi, lead generation prestaje da bude "trosak oglasa" i postaje predvidljiv kanal rasta.
+
+## Zakljucak
+
+Za upit **lead generation cena Srbija**, pravo pitanje nije "koliko najjeftinije", vec "koliko placam po lead-u koji realno postaje klijent".
+Ako zelite, mozemo uraditi kratak audit vaseg funnel-a i oznaciti 3 poteza koji najbrze spustaju cenu po kvalitetnom upitu - javite se preko [kontakt forme](/kontakt).
+`,
+  },
   {
     slug: 'lokalni-seo-cena-zrenjanin-2026',
     title: 'Lokalni SEO cena u Zrenjaninu 2026: koliko košta i šta realno dobijate',
@@ -643,91 +1857,91 @@ Ako želiš, možemo da rastavimo tvoju trenutnu ponudu i složimo novu verziju 
   },
   {
     slug: 'google-ads-cena-po-kliku-srbija-2026',
-    title: 'Google Ads cena po kliku u Srbiji 2026: realni CPC rasponi po ni?i i intentu',
-    excerpt: 'Detaljan vodi? za Google Ads cena po kliku u Srbiji 2026: realni CPC opsezi po ni?i, ?ta ih menja i kako da planirate bud?et po fazama bez naga?anja.',
+    title: 'Google Ads cena po kliku u Srbiji 2026: realni CPC rasponi po niši i intentu',
+    excerpt: 'Detaljan vodič za Google Ads cenu po kliku u Srbiji 2026: realni CPC opsezi po niši, šta ih menja i kako da planirate budžet po fazama bez nagađanja.',
     date: '2026-03-11',
     category: 'Google Ads',
     readTime: '11 min',
     content: `
 ## Google Ads cena po kliku u Srbiji 2026: kratak odgovor bez magle
 
-Ako tra?ite jednu ?prose?nu? cenu klika za Srbiju, gotovo sigurno ?ete pogre?no planirati bud?et.
-U realnosti, **Google Ads cena po kliku** mo?e biti i 0,20? i 2,50?+, u zavisnosti od ni?e, grada, namere pretrage i kvaliteta naloga.
+Ako tražite jednu „prosečnu“ cenu klika za Srbiju, gotovo sigurno ćete pogrešno planirati budžet.
+U realnosti, **Google Ads cena po kliku** može biti i 0,20€ i 2,50€+, u zavisnosti od niše, grada, namere pretrage i kvaliteta naloga.
 
-Za ?iru sliku ukupnog ulaganja (medija + upravljanje), pogledajte i [Google reklame cena](/google-reklame-cena).
+Za širu sliku ukupnog ulaganja (medija + upravljanje), pogledajte i [Google reklame cena](/google-reklame-cena).
 
-## Realni CPC rasponi po ni?ama (Search kampanje, Srbija)
+## Realni CPC rasponi po nišama (Search kampanje, Srbija)
 
-Naj?e??i opsezi koje vidimo u praksi:
+Najčešći opsezi koje vidimo u praksi:
 
-- **Lokalne usluge (saloni, mini-servisi): 0,15? ? 0,55?**
-- **Ku?ne i terenske usluge (klime, stolarija, vodoinstalater): 0,35? ? 1,30?**
-- **Medicina i stomatologija (privatni sektor): 0,60? ? 1,90?**
-- **Pravne i finansijske usluge: 0,90? ? 3,00?**
-- **B2B specijalizovane usluge (software, industrija, consulting): 0,70? ? 2,30?**
-- **E-commerce pretraga (zavisno od kategorije): 0,20? ? 1,20?**
+- **Lokalne usluge (saloni, mini-servisi): 0,15€ – 0,55€**
+- **Kućne i terenske usluge (klime, stolarija, vodoinstalater): 0,35€ – 1,30€**
+- **Medicina i stomatologija (privatni sektor): 0,60€ – 1,90€**
+- **Pravne i finansijske usluge: 0,90€ – 3,00€**
+- **B2B specijalizovane usluge (software, industrija, consulting): 0,70€ – 2,30€**
+- **E-commerce pretraga (zavisno od kategorije): 0,20€ – 1,20€**
 
 Ovo su **realni rasponi**, ne garancije.
-Poenta: bud?et planirajte po svojoj ni?i i kvalitetu lead-a, ne po ?proseku sa foruma?.
+Poenta: budžet planirajte po svojoj niši i kvalitetu lead-a, ne po „proseku sa foruma“.
 
-## Za?to isti biznis u dva grada ?esto pla?a razli?it CPC
+## Zašto isti biznis u dva grada često plaća različit CPC
 
-Isti tip usluge mo?e imati primetno druga?iji CPC izme?u Beograda, Novog Sada i manjih gradova.
-Razlog nije samo konkurencija, ve? i:
+Isti tip usluge može imati primetno drugačiji CPC između Beograda, Novog Sada i manjih gradova.
+Razlog nije samo konkurencija, već i:
 
-- gustina ogla?iva?a po terminu,
+- gustina oglašivača po terminu,
 - kvalitet aukcije kroz istoriju naloga,
-- odnos mobilnog i desktop saobra?aja,
-- ?hitnost? upita (npr. kvar/servis odmah),
+- odnos mobilnog i desktop saobraćaja,
+- „hitnost“ upita (npr. kvar/servis odmah),
 - kvalitet landing stranice za konkretan upit.
 
-Ako landing ne prati obe?anje iz oglasa, Quality Score pada, a klik postaje skuplji.
+Ako landing ne prati obećanje iz oglasa, Quality Score pada, a klik postaje skuplji.
 
-## Intent menja cenu vi?e nego ?to ve?ina o?ekuje
+## Intent menja cenu više nego što većina očekuje
 
-Klju?na re? nije dovoljna; bitna je namera korisnika:
+Ključna reč nije dovoljna; bitna je namera korisnika:
 
-- **Informativni intent** (??ta je?, ?kako radi?) uglavnom nosi ni?i CPC, ali slabiji komercijalni signal.
-- **Komercijalni intent** (?cena?, ?ponuda?, ?agencija?) ?esto ima vi?i CPC i bolji potencijal za lead.
-- **Transakcioni intent** (?zakazi?, ?kupi?, ?kontakt?) je ?esto najskuplji, ali i najvredniji.
+- **Informativni intent** („šta je?“, „kako radi?“) uglavnom nosi niži CPC, ali slabiji komercijalni signal.
+- **Komercijalni intent** („cena?“, „ponuda?“, „agencija?“) često ima viši CPC i bolji potencijal za lead.
+- **Transakcioni intent** („zakaži?“, „kupi?“, „kontakt?“) je često najskuplji, ali i najvredniji.
 
-Zato je zdravije optimizovati ka **CPL i kvalitetu lead-a**, ne ka ?najjeftinijem kliku?.
+Zato je zdravije optimizovati ka **CPL-u i kvalitetu lead-a**, ne ka „najjeftinijem kliku“.
 
-## Koliki bud?et vam realno treba za test fazu
+## Koliki budžet vam realno treba za test fazu
 
-Prakti?an model za start:
+Praktičan model za start:
 
-1. Defini?ite ciljnu ni?u i o?ekivani CPC raspon.
-2. Planirajte minimum **250?400 klikova mese?no** da imate smislen uzorak.
-3. Dodajte bud?et za upravljanje i tracking setup.
+1. Definišite ciljnu nišu i očekivani CPC raspon.
+2. Planirajte minimum **250–400 klikova mesečno** da imate smislen uzorak.
+3. Dodajte budžet za upravljanje i tracking setup.
 
 Primer:
-Ako je va? prose?an CPC oko 0,85?, test bud?et za mediju je okvirno **212??340?**.
-Ako ?elite br?e u?enje (vi?e oglasa, vi?e ad grupa), bud?et raste proporcionalno.
+Ako je vaš prosečan CPC oko 0,85€, test budžet za mediju je okvirno **212€–340€**.
+Ako želite brže učenje (više oglasa, više ad grupa), budžet raste proporcionalno.
 
-Za pore?enje sa drugim kanalima, pogledajte i [Instagram reklame cena](/instagram-reklame-cena) i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Za poređenje sa drugim kanalima, pogledajte i [Instagram reklame cena](/instagram-reklame-cena) i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-## Naj?e??i razlozi zbog kojih CPC ?be?i? navi?e
+## Najčešći razlozi zbog kojih CPC „beži“ naviše
 
-U praksi, rast CPC-a naj?e??e dolazi iz kombinacije slede?ih problema:
+U praksi, rast CPC-a najčešće dolazi iz kombinacije sledećih problema:
 
-- pre?irok keyword set bez discipline negativnih re?i,
+- preširok keyword set bez discipline negativnih reči,
 - slabi oglasi sa niskim CTR-om,
 - ad grupe bez jasnog tematskog fokusa,
 - landing stranica koja ne odgovara pretrazi 1:1,
-- retka optimizacija search terms izve?taja,
-- previ?e oslanjanja na automatiku bez kontrole kvaliteta lead-a.
+- retka optimizacija search terms izveštaja,
+- previše oslanjanja na automatiku bez kontrole kvaliteta lead-a.
 
-Ako vam landing stranica nije spremna za paid traffic, prvo re?ite temelj kroz [izradu landing stranice: cena, rokovi, ?ta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
+Ako vam landing stranica nije spremna za paid traffic, prvo rešite temelj kroz [izradu landing stranice: cena, rokovi, šta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
 
 ## Kako da spustite CPC bez pada kvaliteta lead-ova
 
-Najbolji rezultati obi?no dolaze iz ovih koraka:
+Najbolji rezultati obično dolaze iz ovih koraka:
 
 1. **Segmentacija kampanja po intentu** (brand / usluga / problem / lokacija).
-2. **Nedeljno ?i??enje search terms-a** + dosledna negativna lista.
+2. **Nedeljno čišćenje search terms-a** + dosledna negativna lista.
 3. **A/B test oglasa** sa jasnim value proposition porukama.
-4. **Landing poruka 1:1** sa ta?nim query-jem iz oglasa.
+4. **Landing poruka 1:1** sa tačnim query-jem iz oglasa.
 5. **Kontrola brzine i UX-a stranice** radi boljeg Quality Score-a.
 6. **Optimizacija prema CPL-u i kvalitetu upita**, ne samo prema CPC-u.
 
@@ -735,19 +1949,19 @@ Ako treba da uskladite sajt i oglase kao sistem, korisno je i [izrada WordPress 
 
 ## Mini plan za 30 dana (za stabilan start)
 
-- **Nedelja 1:** setup strukture, inicijalni keyword klasteri, 2?3 oglasa po ad grupi
-- **Nedelja 2:** analiza search terms-a, negativne liste, ga?enje o?iglednog otpada
+- **Nedelja 1:** setup strukture, inicijalni keyword klasteri, 2-3 oglasa po ad grupi
+- **Nedelja 2:** analiza search terms-a, negativne liste, gašenje očiglednog otpada
 - **Nedelja 3:** dorada oglasa i landing sekcija sa slabim CR-om
-- **Nedelja 4:** preraspodela bud?eta na ad grupe sa najboljim CPL trendom
+- **Nedelja 4:** preraspodela budžeta na ad grupe sa najboljim CPL trendom
 
-Na kraju meseca pravo pitanje nije ?koliko je klik?, ve? **?koliko ko?ta kvalifikovan lead koji mo?e da se zatvori?**.
+Na kraju meseca pravo pitanje nije „koliko je klik?“, već **„koliko košta kvalifikovan lead koji može da se zatvori?“**.
 
-## Zaklju?ak
+## Zaključak
 
 Google Ads cena po kliku u Srbiji 2026 nema jednu univerzalnu cifru.
-Realan CPC zavisi od ni?e, grada, intenta i kvaliteta izvr?enja kampanje + landing-a.
+Realan CPC zavisi od niše, grada, intenta i kvaliteta izvršenja kampanje + landing-a.
 
-Ako ?elite preciznu procenu za va? slu?aj (CPC raspon + test bud?et + plan optimizacije), [javite nam se](/kontakt) i dobi?ete konkretan plan po fazama.
+Ako želite preciznu procenu za vaš slučaj (CPC raspon + test budžet + plan optimizacije), [javite nam se](/kontakt) i dobićete konkretan plan po fazama.
 `,
   },
   {
@@ -6618,6 +7832,340 @@ Prvo zaposljavanje u marketingu nije HR zadatak. To je operativna odluka o tome 
 
 Ako hoces, mozemo zajedno da napravimo scorecard i 90-dnevni plan pa da u intervju udjes sa jasnim kriterijumima, umesto sa osecajem. Javi se preko [kontakt forme](/kontakt).
 `,
+  },
+  {
+    slug: 'tiktok-reklame-cena-srbija-2026',
+    title: 'TikTok reklame cena u Srbiji 2026: realni budzeti, CPM/CPC rasponi i kada se isplate',
+    excerpt: 'Koliko kostaju TikTok reklame u Srbiji 2026, koji budzet ima smisla za test i kako da procenis da li kanal donosi profit ili samo jeftine preglede bez prodaje.',
+    date: '2026-03-11',
+    category: 'Marketing',
+    readTime: '9 min',
+    content: `
+## TikTok reklame cena u Srbiji 2026: kratak odgovor
+
+Ako trazis upit **tiktok reklame cena Srbija**, realan start za vecinu firmi je:
+
+- **medijski budzet:** 500e-1.500e mesecno
+- **upravljanje kampanjama:** 200e-700e mesecno
+- **kreativa (UGC/video varijante):** 150e-1.200e mesecno
+
+Ukupan trosak zato nije samo "koliko kosta klik", nego kombinacija medije + kreativne produkcije + operativne optimizacije.
+
+Ako hoces siri benchmark po kanalima, pogledaj i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Sta najvise utice na cenu TikTok oglasa
+
+TikTok aukcija je osetljiva na signal kvaliteta kreative. To znaci da dve firme sa slicnim budzetom mogu imati potpuno razlicit CPM i CPA.
+Najveci uticaj najcesce imaju:
+
+1. **Hook u prve 2 sekunde videa**
+2. **Match izmedju oglasa i landing stranice**
+3. **Kvalitet ponude (jasan razlog da korisnik ostavi kontakt ili kupi)**
+4. **Event tracking i pravilno mapirana konverzija**
+5. **Brzina iteracije (koliko cesto testiras nove uglove poruke)**
+
+Ako kreativa kasni, kampanja skoro uvek postaje skupa bez obzira na velicinu budzeta.
+
+## Realni rasponi metrika za TikTok u Srbiji (2026)
+
+Orijentacioni rasponi koje firme najcesce vide u fazi zdravog testiranja:
+
+- **CPM:** 1.8e-7.5e
+- **CPC:** 0.05e-0.35e
+- **CTR:** 0.8%-2.8%
+- **CPA (lead/ecom akcija):** 6e-45e
+
+Napomena: jeftin CPC sam po sebi nije cilj. Ako klik ne prelazi u upit ili kupovinu, nizak CPC je samo "lep broj" bez biznis efekta.
+
+## Budzeti po fazi rasta
+
+### 1) Test faza (500e-1.500e/mes)
+
+Dovoljno za 3-6 kreativnih uglova i inicijalni funnel test.
+Cilj nije scale, nego da saznas koji message i koja publika prave stabilan signal konverzije.
+
+### 2) Stabilizacija (1.500e-4.000e/mes)
+
+Kad se pojavi prvi winner, budzet se usmerava na ono sto radi.
+Uvodi se ritam nedeljnih kreativnih iteracija i jasna segmentacija cold/warm publike.
+
+### 3) Skaliranje (4.000e+/mes)
+
+Tek ovde ima smisla ozbiljnije horizontalno i vertikalno skaliranje.
+Fokus prelazi sa "sto vise pregleda" na profitabilan rast po proizvodu/usluzi i segmentu publike.
+
+## Koliko kosta vodjenje TikTok kampanja
+
+Najcesci modeli naplate u Srbiji:
+
+- **fiksno mesecno:** 200e-700e
+- **fiksno + performance bonus:** npr. manji fiksni deo + bonus po lead-u/prodaji
+- **procenat medijskog budzeta:** uglavnom 10%-20% kod vecih naloga
+
+Ako zelis da uporedis sa Meta kanalom, pogledaj i [Instagram reklame cena](/instagram-reklame-cena).
+Za Search intent saobracaj dobar paralelan benchmark je [Google reklame cena](/google-reklame-cena).
+
+## Najcesce greske koje vestacki podizu TikTok cenu
+
+1. **Kreativa izgleda kao TV reklama**
+   TikTok publika bolje reaguje na native, autenticne formate nego na preterano polished spotove.
+
+2. **Prekasna iteracija**
+   Ako cekas 3-4 nedelje da promenis los ad, spaljujes budzet bez ucenja.
+
+3. **Slab landing posle dobrog oglasa**
+   Dobar video dovede klik, ali bez jasne ponude i CTA-a konverzija pada.
+
+4. **Optimizacija samo na view/click metrike**
+   Fokus mora biti na CPA i kvalitetu kupca/leada, ne na vanity metrikama.
+
+5. **Nema sistema za merenje**
+   Bez cistog tracking-a ne znas koji segment stvarno donosi prihod.
+
+Ako treba da podignes konverziju posle klika, pogledaj i [CRO optimizaciju](/cro).
+
+## Kako da izracunas da li ti se TikTok isplati
+
+Jednostavan okvir:
+
+- prosecan prihod po kupcu/klijentu,
+- bruto marza,
+- stopa konverzije iz lead-a u kupca,
+- ciljna cena akvizicije (CPA).
+
+Primer:
+
+- prihod po kupcu: 240e
+- marza: 45% (108e)
+- stopa zatvaranja lead-a: 25% (1 od 4)
+
+Maksimalno odrziv CPL je ~27e (108e / 4).
+Ako je stvarni CPL duze vreme znacajno iznad toga, kanal trazi korekciju ponude, kreative ili funnel-a.
+
+## Zakljucak
+
+Za upit **tiktok reklame cena Srbija 2026**, najvaznije je da trosak gledas kao sistem, a ne kao jednu metriku.
+Kada uskladis kreativu, tracking i landing, TikTok moze biti vrlo profitabilan kanal i za lead gen i za e-commerce.
+
+Ako hoces, mozemo uraditi brzi audit postojece kampanje i reci gde curi budzet pre nego sto povecas ulaganje - javi se preko [kontakt forme](/kontakt).
+`,
+  },
+  {
+    slug: 'koliko-brzo-google-ads-donosi-prve-klijente-srbija-2026',
+    title: 'Koliko brzo Google Ads donosi prve klijente u Srbiji 2026: realni rokovi i sta meriti',
+    excerpt: 'Ako tek krecete sa Google oglasima, najvece pitanje je kada stizu prvi ozbiljni leadovi. Evo realnog 7/30/90 plana, sta usporava rezultat i kako da izbegnete bacanje budzeta.',
+    date: '2026-03-12',
+    category: 'Google Ads',
+    readTime: '8 min',
+    content: `
+## Kratak odgovor: prvi leadovi mogu doci brzo, stabilni rezultati traze 30-90 dana
+
+Za upit **koliko brzo Google Ads donosi klijente u Srbiji**, realan odgovor je:
+- prvi klikovi i prvi upiti mogu doci u prvim danima,
+- stabilan tok kvalitetnih leadova najcesce dolazi u periodu od 30 do 90 dana.
+
+Razlog je jednostavan: kampanji treba vreme da prikupi signal, a timu treba vreme da ispegla poruku, keyword intent i landing stranicu.
+Ako prvo zelis budzet okvir, pogledaj i [Google reklame cena](/google-reklame-cena).
+
+## Kako izgleda realna vremenska linija
+
+### Prvih 7 dana: tehnicki start i prvi signal
+
+U ovoj fazi cilj nije profitabilno skaliranje, nego cist start:
+- postavljen tracking,
+- jasna struktura kampanje po intentu,
+- prve negativne kljucne reci,
+- osnovni CTA koji odgovara upitu.
+
+U ovoj nedelji vec mozes dobiti prve upite, ali je rano za ozbiljne zakljucke.
+
+### 7-30 dana: ciscenje saobracaja i kvaliteta leadova
+
+Ovde se pravi najveca razlika izmedju kampanja koje prezive i onih koje trose budzet.
+
+Sta se radi:
+- ciscenje search terms izvestaja,
+- gasenje slabih ad grupa,
+- test 2-3 poruke oglasa,
+- uskladjivanje oglasa i landing sekcije 1:1.
+
+Na kraju prvog meseca vec treba da vidis trend cene leada i kvalitet razgovora sa leadovima.
+
+### 30-90 dana: stabilizacija i skaliranje
+
+Ako su osnove zdrave, ovaj period donosi:
+- predvidljiviji CPL,
+- bolji procenat zakazanih poziva,
+- jasnije segmente koje ima smisla skalirati.
+
+Tek tada ima smisla jace dizati budzet. Pre toga, veci budzet samo ubrzava gubitak na losim segmentima.
+
+## Sta najvise usporava rezultate
+
+### 1) Siroke kljucne reci bez kontrole
+
+Ako targetiras informativne termine bez kupovnog intenta, dobices jeftine klikove i slabe upite.
+
+### 2) Slaba landing stranica
+
+Dobar oglas ne moze da spasi stranicu koja nema jasan headline, dokaz i CTA.
+Ako treba da sredis taj deo, pogledaj i [CRO optimizaciju](/cro).
+
+### 3) Optimizacija samo po CPC-u
+
+Nizak klik nije cilj. Cilj je kvalitetan lead koji moze da se zatvori u prodaji.
+
+### 4) Spora reakcija na lead
+
+Ako prodajni tim odgovara kasno, marketing izgleda losije nego sto jeste.
+Lead koji ceka satima gotovo uvek konvertuje slabije.
+
+## Koje metrike treba da gledas od prvog dana
+
+Ne treba ti 20 dashboard-a. Dovoljno je da pratis:
+- cenu kvalifikovanog leada,
+- procenat zakazanih poziva iz leadova,
+- procenat zatvaranja iz zakazanih poziva,
+- trend po ad grupi (ne samo zbirno).
+
+Ako ove metrike idu u dobrom smeru, kampanja sazreva kako treba.
+Za detaljniji benchmark klikova pogledaj [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026).
+
+## Kada ima smisla reci da kampanja "radi"
+
+Kampanja realno "radi" kada ispuni 3 uslova:
+1. leadovi dolaze u kontinuitetu,
+2. CPL je u odrzivom odnosu prema marzi,
+3. prodaja potvrdi da leadovi imaju kvalitet, ne samo kolicinu.
+
+Dok nemas ova 3 uslova zajedno, jos si u fazi validacije.
+
+## Brzi 30-dnevni plan bez lutanja
+
+- **Dan 1-3:** tracking, struktura kampanje, inicijalni oglasi.
+- **Dan 4-10:** analiza search terms i negativne reci.
+- **Dan 11-20:** test novih poruka i landing varijanti.
+- **Dan 21-30:** prebacivanje budzeta na pobednicke segmente.
+
+Ako paralelno planiras i social kanal, koristan kontekst je [Instagram reklame cena](/instagram-reklame-cena) i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Zakljucak
+
+Google Ads moze da donese prve klijente vrlo brzo, ali stabilan i profitabilan sistem obicno trazi 30-90 dana discipline.
+Ako hoces, mozemo uraditi brz audit tvoje trenutne kampanje i reci koja 3 poteza najbrze popravljaju kvalitet leadova - javi se preko [kontakt forme](/kontakt).
+`,
+  },
+  {
+    slug: 'youtube-reklame-cena-srbija-2026',
+    title: 'YouTube reklame cena u Srbiji 2026: budzet, CPV/CPC rasponi i kada se isplate',
+    excerpt: 'Koliko kostaju YouTube oglasi u Srbiji 2026, koji test budzet ima smisla i kako da meris da li video kampanje donose profit ili samo preglede bez prodaje.',
+    date: '2026-03-12',
+    category: 'Video Marketing',
+    readTime: '9 min',
+    content: `
+## YouTube reklame cena u Srbiji 2026: kratak odgovor
+
+Ako trazis upit **youtube reklame cena Srbija**, realan okvir za vecinu firmi je:
+- medijski test budzet: **400e-1.500e mesecno**,
+- upravljanje kampanjama: **200e-700e mesecno**,
+- kreativa/video adaptacije: **150e-1.200e mesecno**.
+
+Najvaznije: YouTube kampanje nisu samo trosak po pregledu. Prava slika je odnos izmedju ulozenog budzeta i kvaliteta publike koju dovodis u dalji funnel.
+Za siri pregled po kanalima pogledaj i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Sta najvise utice na cenu YouTube oglasa
+
+Cenu na YouTube-u obicno oblikuju 4 faktora:
+
+1. **Nisa i konkurencija**
+2. **Kvalitet videa u prvih 5 sekundi**
+3. **Publika i targeting preciznost**
+4. **Cilj kampanje (view, traffic, lead, prodaja)**
+
+Ako je uvod spor i ne zaustavlja paznju, kampanja skupo kupuje slabe preglede. Ako je poruka jasna i relevantna, isti budzet donosi veci signal za retargeting i prodaju.
+
+## Realni CPV/CPC rasponi za srpsko trziste
+
+Tipicni rasponi posle inicijalne optimizacije:
+- **CPV (cost per view):** 0.01e-0.06e
+- **CPC (traffic kampanje):** 0.08e-0.45e
+- **CTR:** 0.6%-1.8%
+
+Brojevi variraju po industriji, ali je kljucno da CPV ne posmatras izolovano. Jeftin pregled ne znaci nista ako korisnik ne prelazi na sledeci korak.
+
+## Kada YouTube ima najvise smisla
+
+YouTube cesto radi najbolje u ove 3 situacije:
+
+1. **Imas kompleksniju uslugu/proizvod** i treba ti vise prostora da objasnis ponudu.
+2. **Gradis brend + potraznju**, pa kasnije zatvaras kroz Search i retargeting.
+3. **Vec imas saobracaj i funnel**, pa video sluzi da podigne poverenje pre odluke.
+
+Ako trazis cist "intent now" saobracaj, paralelno pogledaj i [Google reklame cena](/google-reklame-cena). Za Meta benchmark koristan je i [Instagram reklame cena](/instagram-reklame-cena).
+
+## Najcesce greske koje podizu cenu bez rezultata
+
+### 1) Fokus samo na view metrike
+
+Veliki broj pregleda izgleda lepo u izvestaju, ali ne garantuje prihod.
+Ako ne pratis prelazak korisnika na sajt i dalje korake, ne znas da li kampanja radi biznis posao.
+
+### 2) Slab hook na pocetku videa
+
+Prvih nekoliko sekundi odlucuje da li korisnik ostaje. Ako uvod kasni sa porukom, placas skip bez stvarnog efekta.
+
+### 3) Video i landing nisu uskladjeni
+
+Ako video obecava jedno, a landing pokazuje drugo, pada i konverzija i kvalitet leadova.
+Za popravku tog dela pogledaj [CRO optimizaciju](/cro).
+
+### 4) Nema sekvenciranja publike
+
+YouTube retko radi najbolje kao "jedan video i gotovo". Potrebna je sekvenca: awareness video, pa retargeting poruka, pa jasan CTA oglas.
+
+## Budzet po fazama (praktican okvir)
+
+### Faza 1: Test (400e-1.500e/mes)
+
+Cilj je da validiras poruku, publiku i pocetni video ugao. Ne skaliras prerano.
+
+### Faza 2: Stabilizacija (1.500e-4.000e/mes)
+
+Zadrzavas video uglove koji rade, gasis slabe i uvodis retargeting sloj.
+
+### Faza 3: Skaliranje (4.000e+/mes)
+
+Tek kada funnel pokazuje zdrav cost-per-lead / cost-per-sale trend, ima smisla ozbiljno dizati spend.
+
+## Kako meriti da li se YouTube isplati
+
+Umesto da gledas samo CPV, prati:
+- cenu kvalifikovanog lead-a,
+- procenat zakazanih poziva iz leadova,
+- cenu po prodaji,
+- assisted conversion uticaj na Search i branded pretrage.
+
+Praktican primer:
+- prosecna vrednost klijenta: 1.000e
+- bruto marza: 40% (400e)
+- lead to client: 20% (1 od 5)
+
+Maksimalno odrziv CPL je oko 80e (400e / 5). Ako je stvarni CPL duze iznad tog nivoa, potrebna je korekcija poruke, targetinga ili landing toka.
+
+## 30-dnevni plan bez lutanja
+
+- **Dan 1-5:** definisi jednu poruku i jedan glavni CTA.
+- **Dan 6-10:** lansiraj 2-3 video varijante sa razlicitim hookom.
+- **Dan 11-20:** ugasi slabije varijante, pojacaj pobednicke.
+- **Dan 21-30:** dodaj retargeting sloj i meri kvalitet leadova, ne samo klikove.
+
+Ako YouTube koristis kao deo sireg sistema, obavezno uskladi ga sa stranicama koje zatvaraju upit i sa [kontakt tokom](/kontakt).
+
+## Zakljucak
+
+YouTube reklame u Srbiji 2026 mogu biti vrlo isplative kada imaju jasan funnel i merljive KPI-jeve.
+Ako hoces, mogu da uradim brz audit trenutne YouTube kampanje i oznacim 3 izmene koje najbrze popravljaju kvalitet leadova i ROI - javi se preko [kontakt forme](/kontakt).
+`,
   }
 
 ]
@@ -6630,3 +8178,7 @@ export const blogPosts = rawBlogPosts.filter((post) => {
   seenSlugs.add(post.slug)
   return true
 })
+
+
+
+
