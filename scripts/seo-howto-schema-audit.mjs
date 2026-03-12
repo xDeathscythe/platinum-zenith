@@ -11,6 +11,8 @@ const REQUIRED_ROUTES = {
   '/google-reklame-cena': {
     minSteps: 4,
     expectedName: 'Kako da izračunate budžet za Google Ads bez nagađanja',
+    componentPath: path.join(root, 'src', 'pages', 'GoogleReklameCenaPage.jsx'),
+    expectedAnchors: ['vrednost-klijenta', 'maksimalni-cpa', 'broj-leadova', 'test-budzet-google'],
   },
   '/instagram-reklame-cena': {
     minSteps: 4,
@@ -21,6 +23,8 @@ const REQUIRED_ROUTES = {
   '/izrada-wordpress-sajta-cena': {
     minSteps: 4,
     expectedName: 'Kako da procenite realan budžet za izradu WordPress sajta',
+    componentPath: path.join(root, 'src', 'pages', 'IzradaWordpressSajtaCenaPage.jsx'),
+    expectedAnchors: ['tip-sajta', 'scope-funkcionalnosti', 'tco-plan', 'post-launch-plan'],
   },
 }
 

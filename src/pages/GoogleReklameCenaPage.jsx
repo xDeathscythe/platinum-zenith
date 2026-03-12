@@ -353,12 +353,15 @@ export default function GoogleReklameCenaPage() {
 
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[760px] mx-auto">
-          <h2 className="text-[24px] md:text-[30px] font-medium text-ink mb-4 text-center">Kako da izračunate budžet bez nagađanja</h2>
+          <h2 id="vrednost-klijenta" className="text-[24px] md:text-[30px] font-medium text-ink mb-4 text-center">Kako da izračunate budžet bez nagađanja</h2>
           <p className="text-[15px] text-ink-3 text-center mb-8 max-w-[620px] mx-auto">
             Najbrži način da izbegnete bacanje budžeta je da Google Ads cenu povežete sa maržom, a ne samo sa cenom klika.
           </p>
 
           <div className="bg-panel rounded-[16px] border border-edge p-6 md:p-7">
+            <span id="maksimalni-cpa" className="block h-0 overflow-hidden" aria-hidden="true" />
+            <span id="broj-leadova" className="block h-0 overflow-hidden" aria-hidden="true" />
+            <span id="test-budzet-google" className="block h-0 overflow-hidden" aria-hidden="true" />
             <ol className="space-y-3">
               {budgetPlannerSteps.map((step, idx) => (
                 <li key={step} className="flex items-start gap-3 text-[14px] text-ink-2 leading-relaxed">

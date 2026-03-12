@@ -1130,18 +1130,22 @@ const serverHowToByPath = {
       {
         name: 'Definišite vrednost jednog klijenta ili porudžbine',
         text: 'Prvo zapišite koliko vam u proseku vredi jedan novi klijent ili jedna porudžbina. Bez te brojke ne možete znati koliki CPA zaista imate prostora da platite.',
+        anchor: 'vrednost-klijenta',
       },
       {
         name: 'Odredite maksimalni prihvatljiv CPA',
         text: 'Izračunajte kolika cena po leadu ili kupovini vam i dalje ostavlja zdravu maržu. To je gornja granica preko koje kampanja više nije održiva.',
+        anchor: 'maksimalni-cpa',
       },
       {
         name: 'Izračunajte potreban broj leadova za ciljani prihod',
         text: 'Povežite target prihoda sa prosečnom stopom zatvaranja prodaje, pa izračunajte koliko vam kvalifikovanih leadova realno treba svakog meseca.',
+        anchor: 'broj-leadova',
       },
       {
         name: 'Postavite test budžet sa dovoljno podataka za optimizaciju',
         text: 'Prvi budžet postavite tako da u prvih 30 dana dobijete barem 200 do 400 klikova i dovoljno konverzija za ozbiljnu optimizaciju, umesto da kampanju gasite na osnovu premalo podataka.',
+        anchor: 'test-budzet-google',
       },
     ],
   },
@@ -1180,18 +1184,22 @@ const serverHowToByPath = {
       {
         name: 'Definišite poslovni cilj i tip sajta',
         text: 'Prvo odredite da li vam treba prezentacioni, lead generation ili WooCommerce sajt, jer od tipa projekta direktno zavise arhitektura, obim rada i početni budžet.',
+        anchor: 'tip-sajta',
       },
       {
         name: 'Mapirajte stranice i funkcionalnosti pre ponude',
         text: 'Napravite listu potrebnih stranica, formi, integracija i custom sekcija pre nego što tražite cenu, pošto nejasan scope skoro uvek vodi ka kasnijim doplatama.',
+        anchor: 'scope-funkcionalnosti',
       },
       {
         name: 'Odvojite jednokratni trošak izrade i mesečni TCO',
         text: 'Pored launch cene posebno planirajte hosting, licence, maintenance i backup politiku, jer ukupni godišnji trošak vlasništva daje realniju sliku ulaganja od same početne cifre.',
+        anchor: 'tco-plan',
       },
       {
         name: 'Uvedite 90-dnevni plan optimizacije posle launch-a',
         text: 'Dogovorite unapred šta se radi u prva tri meseca nakon puštanja sajta, uključujući SEO i CRO iteracije, kako biste brže pretvorili saobraćaj u konkretne upite ili prodaje.',
+        anchor: 'post-launch-plan',
       },
     ],
   },

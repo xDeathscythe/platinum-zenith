@@ -252,7 +252,10 @@ export default function IzradaWordpressSajtaCenaPage() {
 
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[760px] mx-auto">
-          <h2 className="text-[22px] md:text-[30px] font-medium text-ink mb-8 text-center">Kako izgleda transparentna WordPress ponuda</h2>
+          <h2 id="tip-sajta" className="text-[22px] md:text-[30px] font-medium text-ink mb-8 text-center">Kako izgleda transparentna WordPress ponuda</h2>
+          <span id="scope-funkcionalnosti" className="block h-0 overflow-hidden" aria-hidden="true" />
+          <span id="tco-plan" className="block h-0 overflow-hidden" aria-hidden="true" />
+          <span id="post-launch-plan" className="block h-0 overflow-hidden" aria-hidden="true" />
           <div className="space-y-6">
             {quoteSteps.map((step, index) => (
               <div key={step.title} className="bg-panel rounded-[16px] border border-edge p-5 md:p-6">
@@ -294,6 +297,29 @@ export default function IzradaWordpressSajtaCenaPage() {
                 <div className="px-5 pb-5 text-[14px] text-ink-2 leading-relaxed">{f.a}</div>
               </details>
             ))}
+          </div>
+        </div>
+      </section>
+
+      <section className="px-4 md:px-8 pb-10 md:pb-14">
+        <div className="max-w-[900px] mx-auto">
+          <h2 className="text-[22px] md:text-[28px] font-medium text-ink mb-4 text-center">Šta ide uz izradu WordPress sajta</h2>
+          <p className="text-[15px] text-ink-3 text-center mb-8 max-w-[700px] mx-auto">
+            Cena izrade sajta ima smisla tek kada je povežemo sa akvizicijom, konverzijom i održivim rastom. Ove usluge najčešće donose najveći ROI posle lansiranja.
+          </p>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+            <Link to="/web-design" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Web design i UX</div>
+              <div className="text-[12px] text-ink-3">Struktura stranice koja vodi korisnika ka upitu</div>
+            </Link>
+            <Link to="/digitalni-marketing" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Digitalni marketing</div>
+              <div className="text-[12px] text-ink-3">Kvalitetan saobraćaj da novi sajt ne ostane „prazan“</div>
+            </Link>
+            <Link to="/cro" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">CRO optimizacija</div>
+              <div className="text-[12px] text-ink-3">Iteracije koje povećavaju procenat konverzije</div>
+            </Link>
           </div>
         </div>
       </section>
