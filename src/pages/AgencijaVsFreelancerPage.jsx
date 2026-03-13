@@ -183,6 +183,39 @@ export default function AgencijaVsFreelancerPage() {
         </div>
       </section>
 
+      {/* Quick decision test */}
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[760px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
+          <h2 className="text-[22px] md:text-[26px] font-medium text-ink mb-5">Brz test: kako da presečete za 5 minuta?</h2>
+          <div className="text-[15px] text-ink-2 leading-relaxed space-y-4">
+            <p>
+              Ako i dalje vagate između agencije i freelancera, ne pokušavajte da rešite dilemu tako što ćete tražiti "ko je generalno bolji". To pitanje skoro nikad ne pomaže. Mnogo je korisnije da pogledate šta tačno morate da rešite u narednih 90 dana.
+            </p>
+            <p>
+              Ako vam treba samo jedan jasno definisan zadatak, na primer landing stranica, jedan dizajn ili tehnička dorada, freelancer često ima više smisla. Ako istovremeno pokušavate da rešite sajt, oglase, SEO i praćenje upita, tada uglavnom više gubite na koordinaciji nego što uštedite na nižoj početnoj ceni.
+            </p>
+            <p>
+              Dobar praktičan test je sledeći: ako već danas znate da ćete posle sajta morati da planirate i{' '}
+              <Link to="/cene-izrade-sajta" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+                izradu sajta
+              </Link>{' '}
+              plus{' '}
+              <Link to="/cene-digitalnog-marketinga" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+                marketing budžet
+              </Link>,
+              onda ste verovatno već bliže agencijskom modelu, čak i ako vam freelancer na startu deluje jeftinije.
+            </p>
+            <p>
+              Ako želite da presečemo bez nagađanja, pošaljite nam kratko šta vam treba kroz{' '}
+              <Link to="/kontakt" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+                kontakt formu
+              </Link>{' '}
+              i dobićete iskren odgovor da li vam je racionalniji freelancer, agencija ili hibridni model.
+            </p>
+          </div>
+        </div>
+      </section>
+
       {/* Red flags */}
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[760px] mx-auto">
@@ -284,27 +317,6 @@ export default function AgencijaVsFreelancerPage() {
         </div>
       </section>
 
-      {/* JSON-LD: FAQPage + BreadcrumbList */}
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
-        "@context": "https://schema.org",
-        "@graph": [
-          {
-            "@type": "FAQPage",
-            "mainEntity": faqs.map(f => ({
-              "@type": "Question",
-              "name": f.q,
-              "acceptedAnswer": { "@type": "Answer", "text": f.a }
-            }))
-          },
-          {
-            "@type": "BreadcrumbList",
-            "itemListElement": [
-              { "@type": "ListItem", "position": 1, "name": "Početna", "item": "https://platinumzenith.com/" },
-              { "@type": "ListItem", "position": 2, "name": "Agencija vs freelancer", "item": "https://platinumzenith.com/agencija-vs-freelancer" }
-            ]
-          }
-        ]
-      })}} />
     </div>
   )
 }
