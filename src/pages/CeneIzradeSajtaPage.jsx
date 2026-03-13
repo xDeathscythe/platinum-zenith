@@ -108,6 +108,35 @@ export default function CeneIzradeSajtaPage() {
         </div>
       </section>
 
+      {/* Offer Comparison */}
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[760px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
+          <h2 className="text-[22px] md:text-[26px] font-medium text-ink mb-5">Kako da uporedite dve ponude za sajt, a da ne pogrešite?</h2>
+          <div className="text-[15px] text-ink-2 leading-relaxed space-y-4">
+            <p>
+              Kada dobijete dve ponude, problem skoro nikad nije samo u ceni. Problem je što na papiru obe mogu da deluju slično, a da u praksi znače potpuno različit rezultat.
+            </p>
+            <p>
+              Jedna ponuda često pokriva samo dizajn i postavljanje sajta. Druga uključuje strukturu stranica, SEO osnovu, mobilnu optimizaciju, merenje upita i prostor za revizije. Na prvoj ćete uštedeti danas. Na drugoj ćete mnogo verovatnije uštedeti za šest meseci, jer nećete popravljati stvari koje su preskočene u startu.
+            </p>
+            <p>
+              Najlakši način da uporedite ponude je da pitate tri vrlo prosta pitanja: šta tačno ulazi u cenu, šta se dodatno naplaćuje i kako će se meriti da li sajt radi posao. Ako na ta tri pitanja nema jasnog odgovora, cena vam ne govori dovoljno.
+            </p>
+            <p>
+              Ako želite i širi kontekst oko izbora izvođača, pogledajte i{' '}
+              <Link to="/agencija-vs-freelancer" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+                agencija vs freelancer
+              </Link>{' '}
+              i{' '}
+              <Link to="/consulting" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+                konsultantski pregled prioriteta
+              </Link>,
+              jer je to često brži put do dobre odluke nego još jedna PDF ponuda.
+            </p>
+          </div>
+        </div>
+      </section>
+
       {/* Cheap Warning */}
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[760px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
@@ -219,27 +248,6 @@ export default function CeneIzradeSajtaPage() {
         </div>
       </section>
 
-      {/* JSON-LD: FAQPage + BreadcrumbList */}
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
-        "@context": "https://schema.org",
-        "@graph": [
-          {
-            "@type": "FAQPage",
-            "mainEntity": faqs.map(f => ({
-              "@type": "Question",
-              "name": f.q,
-              "acceptedAnswer": { "@type": "Answer", "text": f.a }
-            }))
-          },
-          {
-            "@type": "BreadcrumbList",
-            "itemListElement": [
-              { "@type": "ListItem", "position": 1, "name": "Početna", "item": "https://platinumzenith.com/" },
-              { "@type": "ListItem", "position": 2, "name": "Cene izrade sajta", "item": "https://platinumzenith.com/cene-izrade-sajta" }
-            ]
-          }
-        ]
-      })}} />
     </div>
   )
 }
