@@ -33,6 +33,7 @@ const checks = [
   { name: 'Instagram money-page contextual linking', script: 'scripts/seo-instagram-page-linking-audit.mjs' },
   { name: 'In-house vs agency contextual linking', script: 'scripts/seo-inhouse-vs-agency-linking-audit.mjs' },
   { name: 'Pricing model contextual linking', script: 'scripts/seo-pricing-model-linking-audit.mjs' },
+  { name: 'Comparison pages cluster linking', script: 'scripts/seo-comparison-pages-linking-audit.mjs' },
   { name: 'WordPress money-page contextual linking', script: 'scripts/seo-wordpress-page-linking-audit.mjs' },
   { name: 'Feed/Sitemap consistency', script: 'scripts/seo-feed-sitemap-audit.mjs' },
   { name: 'Blog feed freshness (dates vs RSS/sitemap)', script: 'scripts/seo-blog-feed-freshness-audit.mjs' },

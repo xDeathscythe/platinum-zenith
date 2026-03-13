@@ -57,6 +57,7 @@
     "seo:instagram-linking": "node scripts/seo-instagram-page-linking-audit.mjs",
     "seo:inhouse-vs-agency-linking": "node scripts/seo-inhouse-vs-agency-linking-audit.mjs",
     "seo:pricing-model-linking": "node scripts/seo-pricing-model-linking-audit.mjs",
+    "seo:comparison-linking": "node scripts/seo-comparison-pages-linking-audit.mjs",
     "seo:wordpress-linking": "node scripts/seo-wordpress-page-linking-audit.mjs",
     "seo:image-loading": "node scripts/seo-image-loading-strategy-audit.mjs",
     "seo:blog-schema": "node scripts/seo-blog-schema-audit.mjs",
