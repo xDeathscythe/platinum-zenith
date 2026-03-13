@@ -2,12 +2,12 @@ import { Link } from 'react-router-dom'
 import usePageMeta from '../hooks/usePageMeta'
 
 const services = [
-  { title: 'Izrada sajtova', desc: 'Custom dizajn koji konvertuje posetioce u kupce. PageSpeed 95+, mobile-first, SEO od prvog dana.', icon: '🌐', link: '/web-dizajn' },
-  { title: 'SEO optimizacija', desc: 'Rangiranje na Google-u za pretrage koje vaši kupci koriste. Lokalni i nacionalni SEO.', icon: '📈', link: '/seo-optimizacija' },
+  { title: 'Izrada sajtova', desc: 'Custom dizajn koji konvertuje posetioce u kupce. PageSpeed 95+, mobile-first, SEO od prvog dana.', icon: '🌐', link: '/web-design' },
+  { title: 'SEO optimizacija', desc: 'Rangiranje na Google-u za pretrage koje vaši kupci koriste. Lokalni i nacionalni SEO.', icon: '📈', link: '/seo-optimizacija-cena' },
   { title: 'Google Ads', desc: 'Plaćeni oglasi sa preciznim targetiranjem. Svaki dinar uložen mora da se vrati kroz prodaju.', icon: '🎯', link: '/digitalni-marketing' },
   { title: 'Društvene mreže', desc: 'Strategija, sadržaj i oglasi na Facebook-u i Instagram-u sa fokusom na rezultate.', icon: '📱', link: '/drustvene-mreze' },
-  { title: 'CRO optimizacija', desc: 'Pretvaramo posetioce u kupce. Male izmene na sajtu mogu značiti veliku razliku u prihodu.', icon: '⚡', link: '/cro-optimizacija' },
-  { title: 'Konsalting', desc: 'Stručan savet i jasan plan. Ne morate da angažujete agenciju za sve.', icon: '💡', link: '/konsalting' },
+  { title: 'CRO optimizacija', desc: 'Pretvaramo posetioce u kupce. Male izmene na sajtu mogu značiti veliku razliku u prihodu.', icon: '⚡', link: '/cro' },
+  { title: 'Konsalting', desc: 'Stručan savet i jasan plan. Ne morate da angažujete agenciju za sve.', icon: '💡', link: '/consulting' },
 ]
 
 const bgReasons = [

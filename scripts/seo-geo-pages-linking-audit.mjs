@@ -44,6 +44,10 @@ for (const rule of PAGE_RULES) {
     issues.push(`${rule.label}: missing /kontakt CTA path`)
   }
 
+  if (!uniqueLinks.includes('/consulting')) {
+    issues.push(`${rule.label}: missing /consulting path`)
+  }
+
   if (priceHits.length < 1) {
     issues.push(`${rule.label}: expected at least 1 price/money-page link`)
   }
