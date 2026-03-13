@@ -957,8 +957,24 @@ export const pageSchemas = {
         "description": "Rasponi cena WordPress sajtova i WooCommerce prodavnica, rokovi i mesečni troškovi održavanja koji utiču na ukupnu cenu.",
         "inLanguage": "sr-RS",
         "isPartOf": { "@id": SITE_URL },
+        "mainEntity": { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#service` },
         "about": { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#service` },
-        "breadcrumb": { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#breadcrumb` }
+        "mentions": [
+          { "@id": `${SITE_URL}/web-design#service` },
+          { "@id": `${SITE_URL}/cro#service` },
+          { "@id": `${SITE_URL}/google-reklame-cena#service` },
+          { "@id": `${SITE_URL}/instagram-reklame-cena#service` },
+          { "@id": `${SITE_URL}/cene-digitalnog-marketinga#service` }
+        ],
+        "breadcrumb": { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#breadcrumb` },
+        "potentialAction": {
+          "@type": "ContactAction",
+          "name": "Zatražite procenu WordPress projekta",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": `${SITE_URL}/kontakt`
+          }
+        }
       },
       {
         "@type": "Service",
@@ -967,19 +983,146 @@ export const pageSchemas = {
         "description": "Izrada WordPress sajta i WooCommerce shopa sa jasnim rasponima cena, rokovima, planom isporuke i mesečnim operativnim troškovima.",
         "serviceType": "WordPress web development",
         "url": `${SITE_URL}/izrada-wordpress-sajta-cena`,
+        "mainEntityOfPage": { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#webpage` },
         "areaServed": { "@type": "Country", "name": "Srbija" },
         "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL },
-        "offers": { "@type": "AggregateOffer", "priceCurrency": "EUR", "lowPrice": "400", "highPrice": "9000", "offerCount": "4" },
-        "hasOfferCatalog": {
-          "@type": "OfferCatalog",
-          "name": "WordPress paketi",
-          "itemListElement": [
-            { "@type": "Offer", "name": "Start WordPress sajt", "priceCurrency": "EUR", "price": "400" },
-            { "@type": "Offer", "name": "Poslovni WordPress", "priceCurrency": "EUR", "price": "900" },
-            { "@type": "Offer", "name": "WordPress + WooCommerce", "priceCurrency": "EUR", "price": "1600" },
-            { "@type": "Offer", "name": "Custom WordPress sistem", "priceCurrency": "EUR", "price": "3500" }
-          ]
-        }
+        "offers": {
+          "@type": "AggregateOffer",
+          "priceCurrency": "EUR",
+          "lowPrice": "400",
+          "highPrice": "9000",
+          "offerCount": "4"
+        },
+        "hasOfferCatalog": [
+          { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#project-tiers` },
+          { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#recurring-costs` }
+        ],
+        "subjectOf": [
+          { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#howto-transparent-offer` },
+          { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#cost-drivers` },
+          { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#common-mistakes` }
+        ],
+        "additionalProperty": [
+          { "@type": "PropertyValue", "name": "Tipični rokovi", "value": "1-8 nedelja (u zavisnosti od obima projekta)" },
+          { "@type": "PropertyValue", "name": "Mesečni maintenance", "value": "50€ - 200€" },
+          { "@type": "PropertyValue", "name": "Godišnji TCO raspon", "value": "2.200€ - 13.000€ za aktivne biznis sajtove" }
+        ]
+      },
+      {
+        "@type": "OfferCatalog",
+        "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#project-tiers`,
+        "name": "WordPress paketi po obimu projekta",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Start WordPress sajt",
+            "description": "Do 6 stranica, premium tema i osnovni SEO setup.",
+            "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "400", "maxPrice": "900" }
+          },
+          {
+            "@type": "Offer",
+            "name": "Poslovni WordPress",
+            "description": "Do 15 stranica, custom sekcije, blog i tracking setup.",
+            "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "900", "maxPrice": "2200" }
+          },
+          {
+            "@type": "Offer",
+            "name": "WordPress + WooCommerce",
+            "description": "E-commerce setup sa checkout tokom, email automacijama i SEO osnovom.",
+            "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "1600", "maxPrice": "4500" }
+          },
+          {
+            "@type": "Offer",
+            "name": "Custom WordPress sistem",
+            "description": "Napredna rešenja sa API integracijama i custom plugin logikom.",
+            "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "3500", "maxPrice": "9000" }
+          }
+        ]
+      },
+      {
+        "@type": "OfferCatalog",
+        "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#recurring-costs`,
+        "name": "Mesečni i godišnji operativni troškovi WordPress sajta",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Domen + hosting",
+            "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "8", "maxPrice": "35", "billingDuration": "P1M" }
+          },
+          {
+            "@type": "Offer",
+            "name": "Premium plugin licence",
+            "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "5", "maxPrice": "40", "billingDuration": "P1M" }
+          },
+          {
+            "@type": "Offer",
+            "name": "Maintenance (update + backup + monitoring)",
+            "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "50", "maxPrice": "200", "billingDuration": "P1M" }
+          },
+          {
+            "@type": "Offer",
+            "name": "Content i CRO iteracije",
+            "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "120", "maxPrice": "500", "billingDuration": "P1M" }
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#howto-transparent-offer`,
+        "name": "Kako izgleda transparentna WordPress ponuda bez skrivenih troškova",
+        "description": "Proces za procenu scope-a, izračunavanje TCO i planiranje post-launch iteracija pre potpisivanja projekta.",
+        "inLanguage": "sr-RS",
+        "totalTime": "P14D",
+        "about": { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#service` },
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Definiši scope i funkcionalnosti",
+            "text": "Mapiraj cilj sajta, broj stranica, integracije i sadržaj kako bi procena bila realna od prvog drafta ponude.",
+            "url": `${SITE_URL}/izrada-wordpress-sajta-cena#scope-funkcionalnosti`
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Razdvoji jednokratni i mesečni trošak",
+            "text": "Odvoj launch cenu od operativnih troškova (hosting, licence, maintenance) da bi ROI projekcije bile realne.",
+            "url": `${SITE_URL}/izrada-wordpress-sajta-cena#tco-plan`
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Potvrdi 90-dnevni post-launch plan",
+            "text": "Zaključi prioritete za SEO, CRO i akviziciju kako sajt ne bi ostao pasivan nakon puštanja u rad.",
+            "url": `${SITE_URL}/izrada-wordpress-sajta-cena#post-launch-plan`
+          }
+        ]
+      },
+      {
+        "@type": "ItemList",
+        "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#cost-drivers`,
+        "name": "Glavni faktori koji utiču na cenu WordPress sajta",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 6,
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Template ili custom dizajn" },
+          { "@type": "ListItem", "position": 2, "name": "Broj i složenost stranica" },
+          { "@type": "ListItem", "position": 3, "name": "Plugin ekosistem" },
+          { "@type": "ListItem", "position": 4, "name": "SEO i struktura sadržaja" },
+          { "@type": "ListItem", "position": 5, "name": "Brzina i hosting" },
+          { "@type": "ListItem", "position": 6, "name": "Sigurnost i backup politika" }
+        ]
+      },
+      {
+        "@type": "ItemList",
+        "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#common-mistakes`,
+        "name": "Najčešće greške pri izboru WordPress izvođača",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 5,
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Kupovina najjeftinije ponude" },
+          { "@type": "ListItem", "position": 2, "name": "Previše plugin-ova bez plana" },
+          { "@type": "ListItem", "position": 3, "name": "Nema staging okruženja" },
+          { "@type": "ListItem", "position": 4, "name": "Ignorisanje mobilnog UX-a" },
+          { "@type": "ListItem", "position": 5, "name": "Nedefinisan maintenance" }
+        ]
       },
       {
         "@type": "BreadcrumbList",
@@ -991,6 +1134,7 @@ export const pageSchemas = {
       },
       {
         "@type": "FAQPage",
+        "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#faq`,
         "mainEntity": [
           {
             "@type": "Question",
