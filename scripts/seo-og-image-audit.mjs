@@ -27,17 +27,32 @@ function extractMeta(html, pattern) {
   return m ? m[1] : ''
 }
 
+function toPublicAssetPath(siteUrl) {
+  if (!siteUrl || !siteUrl.startsWith(`${SITE_URL}/`)) return ''
+  const relative = siteUrl.replace(SITE_URL, '')
+  return path.join(root, 'public', relative.replace(/^\//, ''))
+}
+
 const appText = read(appPath)
 const htmlTemplate = read(htmlPath)
 
 const staticRoutes = parseStaticRoutes(appText)
 const routes = new Set(staticRoutes)
 
-const firstPublicPost = blogPosts.find((p) => p?.slug && !p?.isDraft)
-if (firstPublicPost) routes.add(`/blog/${firstPublicPost.slug}`)
+const uniquePublicPosts = [...new Map(
+  blogPosts
+    .filter((post) => post?.slug && !post?.isDraft)
+    .map((post) => [post.slug, post]),
+).values()]
 
-const firstDraftPost = blogPosts.find((p) => p?.slug && p?.isDraft)
-if (firstDraftPost) routes.add(`/draft/${firstDraftPost.slug}`)
+const uniqueDraftPosts = [...new Map(
+  blogPosts
+    .filter((post) => post?.slug && post?.isDraft)
+    .map((post) => [post.slug, post]),
+).values()]
+
+for (const post of uniquePublicPosts) routes.add(`/blog/${post.slug}`)
+for (const post of uniqueDraftPosts) routes.add(`/draft/${post.slug}`)
 
 const expectedCustomImage = {
   '/google-reklame-cena': `${SITE_URL}/pz-og.jpg`,
@@ -106,6 +121,20 @@ for (const route of routes) {
 
   if (expectedCustomAlt[route] && ogImageAlt !== expectedCustomAlt[route]) {
     issues.push(`${route}: expected custom og:image:alt "${expectedCustomAlt[route]}", got "${ogImageAlt}"`)
+  }
+
+  if (ogImage) {
+    const publicAsset = toPublicAssetPath(ogImage)
+    if (!publicAsset || !fs.existsSync(publicAsset)) {
+      issues.push(`${route}: og:image points to missing public asset (${ogImage})`)
+    }
+  }
+
+  if (twImage) {
+    const publicAsset = toPublicAssetPath(twImage)
+    if (!publicAsset || !fs.existsSync(publicAsset)) {
+      issues.push(`${route}: twitter:image points to missing public asset (${twImage})`)
+    }
   }
 }
 
