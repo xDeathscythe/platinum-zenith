@@ -192,6 +192,42 @@ export default function InHouseVsAgencijaPage() {
         </div>
       </section>
 
+      {/* 90-day decision test */}
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[760px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
+          <h2 className="text-[22px] md:text-[26px] font-medium text-ink mb-5">Brz test odluke za narednih 90 dana</h2>
+          <div className="text-[15px] text-ink-2 leading-relaxed space-y-4">
+            <p>
+              Ako u naredna tri meseca morate da pokrenete sajt, oglase i praćenje upita, a nemate internu osobu koja to može da vodi svakog dana, in-house tim vam verovatno nije prvi racionalan korak. U toj fazi je skoro uvek važnije da dobijete brzinu, proces i pokrivenost više disciplina nego da odmah zapošljavate.
+            </p>
+            <p>
+              U praksi to znači da prvo treba da znate koliki vam je realan{' '}
+              <Link to="/cene-digitalnog-marketinga" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+                marketing budžet
+              </Link>{' '}
+              i koliki deo odlazi na{' '}
+              <Link to="/google-reklame-cena" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+                Google oglase
+              </Link>{' '}
+              ili druge kanale. Tek kada to imate pod kontrolom, ima smisla da razmišljate da li je vreme za interni tim.
+            </p>
+            <p>
+              Ako već imate stabilan priliv leadova, jasne interne procese i osobu koja može da koordinira marketing iznutra, tada in-house model počinje da ima više smisla. Ako to još nemate, agencija je obično brži i jeftiniji način da prvo napravite sistem, pa tek onda da ga internalizujete.
+            </p>
+            <p>
+              Ako hoćeš da presečemo bez nagađanja, pošalji kroz{' '}
+              <Link to="/kontakt" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+                kontakt formu
+              </Link>{' '}
+              kratak opis biznisa i dobićeš iskren predlog da li ti sada više ima smisla agencija, freelancer, interni tim ili hibridni model. Ako želiš prvo neutralan pregled prioriteta, tu je i{' '}
+              <Link to="/consulting" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+                konsultantski razgovor
+              </Link>.
+            </p>
+          </div>
+        </div>
+      </section>
+
       {/* Hybrid Model */}
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[760px] mx-auto">
@@ -285,27 +321,6 @@ export default function InHouseVsAgencijaPage() {
         </div>
       </section>
 
-      {/* JSON-LD */}
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
-        "@context": "https://schema.org",
-        "@graph": [{
-          "@type": "Article",
-          "headline": "In-house tim ili marketing agencija: šta se više isplati u 2026",
-          "author": { "@type": "Person", "name": "Aleksandar Nenadović" },
-          "publisher": { "@type": "Organization", "name": "Platinum Zenith" },
-          "datePublished": "2026-03-04",
-          "url": "https://platinumzenith.com/in-house-tim-vs-agencija"
-        }, {
-          "@type": "FAQPage",
-          "mainEntity": faqs.map(f => ({ "@type": "Question", "name": f.q, "acceptedAnswer": { "@type": "Answer", "text": f.a } }))
-        }, {
-          "@type": "BreadcrumbList",
-          "itemListElement": [
-            { "@type": "ListItem", "position": 1, "name": "Početna", "item": "https://platinumzenith.com/" },
-            { "@type": "ListItem", "position": 2, "name": "In-house tim vs Agencija", "item": "https://platinumzenith.com/in-house-tim-vs-agencija" }
-          ]
-        }]
-      })}} />
     </div>
   )
 }
