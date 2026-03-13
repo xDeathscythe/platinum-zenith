@@ -574,6 +574,22 @@ const SERVER_ROUTE_SCHEMAS = {
       url: SITE_URL,
     },
   },
+  '/agencija-vs-freelancer': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Strategijsko savetovanje: agencija vs freelancer',
+    serviceType: 'Marketing vendor selection consulting',
+    url: `${SITE_URL}/agencija-vs-freelancer`,
+    areaServed: {
+      '@type': 'Country',
+      name: 'Srbija',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
   '/seo-optimizacija-cena': {
     '@context': 'https://schema.org',
     '@type': 'Service',
@@ -1181,6 +1197,20 @@ const serverFaqByPath = {
     {
       q: 'Koji je prvi korak kada web shop ne konvertuje?',
       a: 'Prvi korak je analiza funnel-a po fazama, od izvora saobraćaja do checkout-a, da se jasno vidi gde se gubi najveći broj korisnika i šta prvo treba popraviti.',
+    },
+  ],
+  '/agencija-vs-freelancer': [
+    {
+      q: 'Da li je agencija uvek bolja od freelancera?',
+      a: 'Ne. Za male, jasno definisane projekte, dobar freelancer je često bolji izbor. Agencija ima smisla kad vam treba tim koji pokriva više oblasti ili kad je projekat dovoljno velik da jedna osoba ne može da ga iznese sama.',
+    },
+    {
+      q: 'Koliko košta rad sa agencijom u Srbiji?',
+      a: 'Zavisi od obima. Mesečni marketing paketi kreću od 500€, izrada sajta od 800€. Za pun paket, poput sajta, marketinga i strategije, računajte okvirno na 1.500€ do 3.000€ mesečno, uz ceo tim u pozadini.',
+    },
+    {
+      q: 'Kako da proverim da li je freelancer pouzdan?',
+      a: 'Tražite portfolio sa realnim projektima, ne template sajtovima. Pitajte za reference, dogovorite manji probni projekat i obavezno tražite jasan pisani dogovor oko rokova, opsega i odgovornosti.',
     },
   ],
   '/faq': [

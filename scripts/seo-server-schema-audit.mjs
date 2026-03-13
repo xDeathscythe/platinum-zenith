@@ -104,6 +104,10 @@ const checks = [
     expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: true, noindex: false },
   },
   {
+    route: '/agencija-vs-freelancer',
+    expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: true, noindex: false },
+  },
+  {
     route: '/cene-digitalnog-marketinga',
     expect: { breadcrumb: true, faq: true, article: false, blogListing: false, routeSchema: true, noindex: false },
   },
