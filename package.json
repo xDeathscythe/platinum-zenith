@@ -58,6 +58,7 @@
     "seo:inhouse-vs-agency-linking": "node scripts/seo-inhouse-vs-agency-linking-audit.mjs",
     "seo:pricing-model-linking": "node scripts/seo-pricing-model-linking-audit.mjs",
     "seo:comparison-linking": "node scripts/seo-comparison-pages-linking-audit.mjs",
+    "seo:comparison-schema": "node scripts/seo-comparison-pages-schema-audit.mjs",
     "seo:geo-linking": "node scripts/seo-geo-pages-linking-audit.mjs",
     "seo:geo-intent": "node scripts/seo-geo-intent-audit.mjs",
     "seo:wordpress-linking": "node scripts/seo-wordpress-page-linking-audit.mjs",

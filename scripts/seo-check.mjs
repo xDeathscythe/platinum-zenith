@@ -34,6 +34,7 @@ const checks = [
   { name: 'In-house vs agency contextual linking', script: 'scripts/seo-inhouse-vs-agency-linking-audit.mjs' },
   { name: 'Pricing model contextual linking', script: 'scripts/seo-pricing-model-linking-audit.mjs' },
   { name: 'Comparison pages cluster linking', script: 'scripts/seo-comparison-pages-linking-audit.mjs' },
+  { name: 'Comparison pages cluster schema coverage', script: 'scripts/seo-comparison-pages-schema-audit.mjs' },
   { name: 'Geo landing pages contextual linking', script: 'scripts/seo-geo-pages-linking-audit.mjs' },
   { name: 'Geo landing pages local-intent parity', script: 'scripts/seo-geo-intent-audit.mjs' },
   { name: 'WordPress money-page contextual linking', script: 'scripts/seo-wordpress-page-linking-audit.mjs' },
