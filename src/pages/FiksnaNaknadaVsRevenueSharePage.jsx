@@ -194,6 +194,46 @@ export default function FiksnaNaknadaVsRevenueSharePage() {
         </div>
       </section>
 
+      {/* When revenue share is a bad idea */}
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[760px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
+          <h2 className="text-[22px] md:text-[26px] font-medium text-ink mb-5">Kada revenue share zapravo nema smisla?</h2>
+          <div className="text-[15px] text-ink-2 leading-relaxed space-y-4">
+            <p>
+              Revenue share zvuči privlačno jer spušta početni rizik, ali nije automatski dobar model za svaki biznis. Ako nemate jasan način da merite prihod, leadove ili rezervacije, vrlo brzo ulazite u sivu zonu u kojoj obe strane misle da rade dobru stvar, a niko nije siguran kako se rezultat zapravo računa.
+            </p>
+            <p>
+              Isto važi i kada vam je marža preniska ili prodajni proces previše zavisi od offline koraka koje agencija ne može da kontroliše. U tim situacijama je često zdravije da prvo sredite{' '}
+              <Link to="/cene-digitalnog-marketinga" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+                osnovni marketing sistem i budžet
+              </Link>{' '}
+              ili da prođete kroz{' '}
+              <Link to="/consulting" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+                konsultantski pregled prioriteta
+              </Link>,
+              pa tek onda da ulazite u model naplate koji zavisi od performansi.
+            </p>
+            <p>
+              Dobar praktičan test je sledeći: ako već danas ne možete jasno da kažete koliko vam vredi jedan lead, jedna porudžbina ili jedan nov klijent, onda revenue share verovatno nije prvi korak. U tom slučaju je mnogo korisnije da prvo definišete metrike i proverite koliko vam trenutno košta kanal kao što su{' '}
+              <Link to="/google-reklame-cena" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+                Google oglasi
+              </Link>{' '}
+              ili{' '}
+              <Link to="/instagram-reklame-cena" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+                Instagram reklame
+              </Link>.
+            </p>
+            <p>
+              Ako hoćeš iskrenu procenu koji model ti ima više smisla za tvoj biznis, pošalji nam kratko kako trenutno dolaziš do prodaje kroz{' '}
+              <Link to="/kontakt" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+                kontakt formu
+              </Link>{' '}
+              i reći ćemo ti direktno da li ti je racionalnija fiksna naknada, revenue share ili hibrid.
+            </p>
+          </div>
+        </div>
+      </section>
+
       {/* Myths */}
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[760px] mx-auto">
@@ -311,16 +351,6 @@ export default function FiksnaNaknadaVsRevenueSharePage() {
         </div>
       </section>
 
-      {/* JSON-LD FAQPage — BreadcrumbList handled by usePageMeta */}
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": faqs.map(f => ({
-          "@type": "Question",
-          "name": f.q,
-          "acceptedAnswer": { "@type": "Answer", "text": f.a }
-        }))
-      })}} />
     </div>
   )
 }
