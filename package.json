@@ -61,6 +61,7 @@
     "seo:comparison-schema": "node scripts/seo-comparison-pages-schema-audit.mjs",
     "seo:geo-linking": "node scripts/seo-geo-pages-linking-audit.mjs",
     "seo:geo-intent": "node scripts/seo-geo-intent-audit.mjs",
+    "seo:geo-headings": "node scripts/seo-geo-pages-headings-audit.mjs",
     "seo:geo-schema": "node scripts/seo-geo-pages-schema-audit.mjs",
     "seo:wordpress-linking": "node scripts/seo-wordpress-page-linking-audit.mjs",
     "seo:image-loading": "node scripts/seo-image-loading-strategy-audit.mjs",

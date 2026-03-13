@@ -37,6 +37,7 @@ const checks = [
   { name: 'Comparison pages cluster schema coverage', script: 'scripts/seo-comparison-pages-schema-audit.mjs' },
   { name: 'Geo landing pages contextual linking', script: 'scripts/seo-geo-pages-linking-audit.mjs' },
   { name: 'Geo landing pages local-intent parity', script: 'scripts/seo-geo-intent-audit.mjs' },
+  { name: 'Geo landing pages heading/local-signal coverage', script: 'scripts/seo-geo-pages-headings-audit.mjs' },
   { name: 'Geo landing pages schema coverage', script: 'scripts/seo-geo-pages-schema-audit.mjs' },
   { name: 'WordPress money-page contextual linking', script: 'scripts/seo-wordpress-page-linking-audit.mjs' },
   { name: 'Feed/Sitemap consistency', script: 'scripts/seo-feed-sitemap-audit.mjs' },
