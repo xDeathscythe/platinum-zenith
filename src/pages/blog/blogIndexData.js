@@ -3,6 +3,204 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-privatne-skole-cena-upisa-srbija-2026",
+    "title": "Google Ads za privatne skole u Srbiji 2026: cena lead-a, budzet i vise upisa",
+    "excerpt": "Koliko realno kostaju Google Ads kampanje za privatne skole u Srbiji 2026, koji budzet ima smisla po fazama i kako da smanjite cenu kvalifikovanog upita bez praznih prijava.",
+    "date": "2026-03-14",
+    "category": "Google Ads",
+    "readTime": "10 min",
+    "isDraft": false
+  },
+  {
+    "slug": "instagram-reklame-za-privatne-vrtice-cena-upisa-srbija-2026",
+    "title": "Instagram reklame za privatne vrtice u Srbiji 2026: cena upisa i budzet",
+    "excerpt": "Koliko realno kostaju Instagram reklame za privatne vrtice u Srbiji 2026, koji budzet ima smisla i kako da spustite cenu kvalitetne prijave bez praznih poruka.",
+    "date": "2026-03-14",
+    "category": "Instagram Ads",
+    "readTime": "10 min",
+    "isDraft": false
+  },
+  {
+    "slug": "google-ads-za-veterinarske-ambulante-cena-leada-srbija-2026",
+    "title": "Google Ads za veterinarske ambulante u Srbiji 2026: cena lead-a, budzet i vise pregleda",
+    "excerpt": "Koliko realno kostaju Google Ads kampanje za veterinarske ambulante u Srbiji 2026, koji budzet ima smisla i kako da spustite cenu kvalifikovanog upita bez praznih poziva.",
+    "date": "2026-03-14",
+    "category": "Google Ads",
+    "readTime": "10 min",
+    "isDraft": false
+  },
+  {
+    "slug": "google-ads-za-teretane-i-fitnes-studije-cena-leada-srbija-2026",
+    "title": "Google Ads za teretane i fitnes studije u Srbiji 2026: cena lead-a i budzet",
+    "excerpt": "Koliko realno kostaju Google Ads kampanje za teretane i fitnes studije u Srbiji 2026, koji budzet ima smisla po fazama i kako da spustite cenu kvalitetne prijave.",
+    "date": "2026-03-14",
+    "category": "Google Ads",
+    "readTime": "10 min",
+    "isDraft": false
+  },
+  {
+    "slug": "google-ads-za-domove-za-stare-cena-leada-srbija-2026",
+    "title": "Google Ads za domove za stare u Srbiji 2026: cena lead-a, budzet i vise ozbiljnih prijava",
+    "excerpt": "Koliko realno kostaju Google Ads kampanje za domove za stare u Srbiji 2026, koji budzet ima smisla i kako da spustite cenu kvalifikovanog upita bez praznih poziva.",
+    "date": "2026-03-14",
+    "category": "Google Ads",
+    "readTime": "10 min",
+    "isDraft": false
+  },
+  {
+    "slug": "google-ads-za-agencije-za-nekretnine-cena-leada-srbija-2026",
+    "title": "Google Ads za agencije za nekretnine u Srbiji 2026: cena lead-a, budzet i vise ozbiljnih kupaca",
+    "excerpt": "Koliko realno kostaju Google Ads kampanje za agencije za nekretnine u Srbiji 2026, koji budzet ima smisla po fazama i kako da spustite cenu ozbiljnog upita bez praznih poziva.",
+    "date": "2026-03-14",
+    "category": "Google Ads",
+    "readTime": "10 min",
+    "isDraft": false
+  },
+  {
+    "slug": "google-ads-za-privatne-vrtice-cena-upisa-srbija-2026",
+    "title": "Google Ads za privatne vrtice u Srbiji 2026: cena upisa, budzet i vise kvalifikovanih prijava",
+    "excerpt": "Koliko realno kostaju Google Ads kampanje za privatne vrtice u Srbiji 2026, koji budzet ima smisla po sezoni i kako da spustite cenu kvalitetne prijave bez praznih poziva.",
+    "date": "2026-03-14",
+    "category": "Google Ads",
+    "readTime": "10 min",
+    "isDraft": false
+  },
+  {
+    "slug": "google-ads-za-salone-namestaja-cena-leada-srbija-2026",
+    "title": "Google Ads za salone namestaja u Srbiji 2026: cena lead-a, budzet i vise kupaca",
+    "excerpt": "Koliko realno kostaju Google Ads kampanje za salone namestaja u Srbiji 2026, koji budzet ima smisla po fazama i kako da smanjite cenu kvalitetnog upita bez praznih klikova.",
+    "date": "2026-03-14",
+    "category": "Google Ads",
+    "readTime": "10 min",
+    "isDraft": false
+  },
+  {
+    "slug": "google-ads-za-skolice-stranih-jezika-cena-upisa-srbija-2026",
+    "title": "Google Ads za skolice stranih jezika u Srbiji 2026: cena upisa, budzet i manje praznih upita",
+    "excerpt": "Koliko realno kostaju Google Ads kampanje za skolice stranih jezika u Srbiji 2026, koji budzet ima smisla po sezoni i kako da spustite cenu kvalitetnog upisa bez praznih prijava.",
+    "date": "2026-03-14",
+    "category": "Google Ads",
+    "readTime": "10 min",
+    "isDraft": false
+  },
+  {
+    "slug": "google-ads-za-autoskole-cena-upisa-srbija-2026",
+    "title": "Google Ads za auto skole u Srbiji 2026: cena upisa, budzet i manje praznih poziva",
+    "excerpt": "Koliko realno kostaju Google Ads kampanje za auto skole u Srbiji 2026, koji budzet ima smisla po sezoni i kako da spustite cenu kvalitetnog upisa bez praznih poziva.",
+    "date": "2026-03-14",
+    "category": "Google Ads",
+    "readTime": "10 min",
+    "isDraft": false
+  },
+  {
+    "slug": "google-ads-za-firme-za-selidbe-cena-poziva-srbija-2026",
+    "title": "Google Ads za firme za selidbe u Srbiji 2026: cena poziva, budzet i manje izgubljenih upita",
+    "excerpt": "Koliko realno kostaju Google Ads kampanje za firme za selidbe u Srbiji 2026, koji budzet ima smisla po sezoni i kako da spustite cenu kvalitetnog poziva bez praznih voznji.",
+    "date": "2026-03-14",
+    "category": "Google Ads",
+    "readTime": "10 min",
+    "isDraft": false
+  },
+  {
+    "slug": "google-ads-za-privatne-klinike-cena-leada-srbija-2026",
+    "title": "Google Ads za privatne klinike u Srbiji 2026: cena lead-a, budzet i manje praznih upita",
+    "excerpt": "Koliko realno kostaju Google Ads kampanje za privatne klinike u Srbiji 2026, koji budzet ima smisla po fazama i kako da spustis cenu kvalitetnog medicinskog upita.",
+    "date": "2026-03-14",
+    "category": "Google Ads",
+    "readTime": "10 min",
+    "isDraft": false
+  },
+  {
+    "slug": "redizajn-wordpress-sajta-cena-srbija-2026",
+    "title": "Redizajn WordPress sajta cena u Srbiji 2026: sta podize trosak i kako da izbegnes SEO pad",
+    "excerpt": "Koliko realno kosta redizajn WordPress sajta u Srbiji 2026, sta najvise podize cenu i kako da uradis vizuelno osvezenje bez pada SEO pozicija i leadova.",
+    "date": "2026-03-14",
+    "category": "WordPress",
+    "readTime": "11 min",
+    "isDraft": false
+  },
+  {
+    "slug": "google-ads-za-knjigovodstvene-agencije-cena-leada-srbija-2026",
+    "title": "Google Ads za knjigovodstvene agencije u Srbiji 2026: cena lead-a i profitabilan budzet",
+    "excerpt": "Koliko kostaju Google Ads kampanje za knjigovodstvene agencije u Srbiji 2026, koji budzet ima smisla po fazama i kako da smanjite cenu kvalifikovanog upita bez praznih poziva.",
+    "date": "2026-03-14",
+    "category": "Google Ads",
+    "readTime": "10 min",
+    "isDraft": false
+  },
+  {
+    "slug": "facebook-reklame-za-stomatologe-cena-termina-srbija-2026",
+    "title": "Facebook reklame za stomatologe u Srbiji 2026: cena termina i budzet",
+    "excerpt": "Koliko realno kostaju Facebook reklame za stomatoloske ordinacije u Srbiji 2026, koji budzet ima smisla po fazama i kako da spustite cenu zakazanog termina bez praznih leadova.",
+    "date": "2026-03-14",
+    "category": "Facebook Ads",
+    "readTime": "10 min",
+    "isDraft": false
+  },
+  {
+    "slug": "google-ads-za-bravare-cena-leada-srbija-2026",
+    "title": "Google Ads za bravare u Srbiji 2026: cena lead-a, budzet i vise hitnih poziva",
+    "excerpt": "Koliko realno kostaju Google Ads kampanje za bravare u Srbiji 2026, koji budzet ima smisla po fazama i kako da spustite cenu kvalitetnog upita bez izgubljenih poziva.",
+    "date": "2026-03-14",
+    "category": "Google Ads",
+    "readTime": "10 min",
+    "isDraft": false
+  },
+  {
+    "slug": "google-ads-za-elektricare-cena-leada-srbija-2026",
+    "title": "Google Ads za elektricare u Srbiji 2026: cena lead-a, budzet i vise hitnih intervencija",
+    "excerpt": "Koliko realno kostaju Google Ads kampanje za elektricare u Srbiji 2026, koji budzet ima smisla po fazama i kako da spustite cenu kvalitetnog upita bez praznih poziva.",
+    "date": "2026-03-14",
+    "category": "Google Ads",
+    "readTime": "10 min",
+    "isDraft": false
+  },
+  {
+    "slug": "google-ads-za-keramicare-cena-leada-srbija-2026",
+    "title": "Google Ads za keramicare u Srbiji 2026: cena lead-a, budzet i vise kvalitetnih upita",
+    "excerpt": "Koliko realno kostaju Google Ads kampanje za keramicare u Srbiji 2026, koji budzet ima smisla po fazama i kako da smanjis cenu kvalitetnog upita bez praznih poziva.",
+    "date": "2026-03-14",
+    "category": "Google Ads",
+    "readTime": "10 min",
+    "isDraft": false
+  },
+  {
+    "slug": "google-ads-za-klima-servis-cena-leada-srbija-2026",
+    "title": "Google Ads za klima servis u Srbiji 2026: cena lead-a, sezona i profitabilan raspored budzeta",
+    "excerpt": "Koliko realno kostaju Google Ads kampanje za klima servis u Srbiji 2026, koji budzet ima smisla po sezoni i kako da spustite cenu kvalitetnog upita bez praznih poziva.",
+    "date": "2026-03-14",
+    "category": "Google Ads",
+    "readTime": "10 min",
+    "isDraft": false
+  },
+  {
+    "slug": "google-ads-za-stolare-cena-leada-srbija-2026",
+    "title": "Google Ads za stolare u Srbiji 2026: cena lead-a, budzet i vise upita za namestaj po meri",
+    "excerpt": "Koliko realno kostaju Google Ads kampanje za stolare u Srbiji 2026, koji budzet ima smisla i kako da spustite cenu kvalitetnog upita bez praznih poziva.",
+    "date": "2026-03-13",
+    "category": "Google Ads",
+    "readTime": "10 min",
+    "isDraft": false
+  },
+  {
+    "slug": "migracija-sajta-na-wordpress-cena-srbija-2026",
+    "title": "Migracija sajta na WordPress cena u Srbiji 2026: troskovi, rizici i SEO-safe plan",
+    "excerpt": "Koliko realno kosta migracija sajta na WordPress u Srbiji 2026, sta najcesce podize cenu i kako da prebacis sajt bez pada pozicija, leadova i prodaje.",
+    "date": "2026-03-13",
+    "category": "WordPress",
+    "readTime": "11 min",
+    "isDraft": false
+  },
+  {
+    "slug": "seo-optimizacija-wordpress-sajta-cena-srbija-2026",
+    "title": "SEO optimizacija WordPress sajta cena u Srbiji 2026: sta ulazi i kako birati ponudu",
+    "excerpt": "Koliko realno kosta SEO optimizacija WordPress sajta u Srbiji 2026, sta mora da bude ukljuceno u uslugu i kako da procenis da li ponuda donosi rast ili samo izvestaje.",
+    "date": "2026-03-13",
+    "category": "WordPress SEO",
+    "readTime": "10 min",
+    "isDraft": false
+  },
+  {
     "slug": "google-reklame-za-vodoinstalatere-cena-leada-srbija-2026",
     "title": "Google reklame za vodoinstalatere u Srbiji 2026: cena leada, budzet i kako da telefon zvoni",
     "excerpt": "Koliko realno kostaju Google reklame za vodoinstalatere u Srbiji 2026, koji budzet ima smisla i kako da smanjite cenu upita bez gubitka kvaliteta poziva.",
@@ -255,6 +453,15 @@ export const blogIndexPosts = [
     "isDraft": false
   },
   {
+    "slug": "instagram-ads-cpc-budzet-plan-srbija-2026",
+    "title": "Instagram Ads cena po kliku u Srbiji 2026: realni CPC rasponi i budï¿½et plan",
+    "excerpt": "Koliko realno koï¿½ta klik na Instagram oglasima u Srbiji 2026, od cega zavisi CPC i kako da planirate budï¿½et bez skupih greï¿½aka.",
+    "date": "2026-03-11",
+    "category": "Instagram Ads",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "alex-hormozi-100m-leads-sistem-za-vise-upita-srbija-2026",
     "title": "Alex Hormozi 100M Leads: sistem za viï¿½e upita bez duplog budï¿½eta (Srbija 2026)",
     "excerpt": "Kako da primeniï¿½ Hormozi 100M Leads pristup na srpsko trï¿½iï¿½te: bolji hook, jasnija ponuda i kvalitetniji leadovi bez bacanja budï¿½eta.",
@@ -283,11 +490,11 @@ export const blogIndexPosts = [
   },
   {
     "slug": "google-ads-cena-po-kliku-srbija-2026",
-    "title": "Google Ads cena po kliku u Srbiji 2026: realni CPC rasponi po niï¿½i i intentu",
-    "excerpt": "Koliko Google Ads klik realno kosta u Srbiji 2026, zasto isti upit ne placa isto svaka firma i kako da procenis da li ti je CPC zdrav ili samo deluje jeftino.",
-    "date": "2026-03-11",
+    "title": "Google Ads cena po kliku u Srbiji 2026: realni CPC rasponi po nisi i intentu",
+    "excerpt": "Koliko Google Ads klik realno kosta u Srbiji 2026, koji su rasponi po industrijama i kako da razlikujes zdrav CPC od skupe kampanje koja samo izgleda jeftino.",
+    "date": "2026-03-14",
     "category": "Google Ads",
-    "readTime": "11 min",
+    "readTime": "12 min",
     "isDraft": false
   },
   {
@@ -864,6 +1071,69 @@ export const blogIndexPosts = [
     "date": "2026-03-12",
     "category": "Google Ads",
     "readTime": "9 min",
+    "isDraft": false
+  },
+  {
+    "slug": "vodjenje-google-ads-kampanja-fee-izbor-partnera-srbija-2026",
+    "title": "Vodjenje Google Ads kampanja cena u Srbiji 2026: sta ulazi u fee i kako da izaberes partnera",
+    "excerpt": "Koliko realno kosta vodjenje Google Ads kampanja u Srbiji 2026, kada je fiksni fee bolji od procenta budzeta i kako da procenis da li agencija pravi profit ili samo trosi klikove.",
+    "date": "2026-03-12",
+    "category": "Google Ads",
+    "readTime": "9 min",
+    "isDraft": false
+  },
+  {
+    "slug": "google-ads-za-arhitektonske-biroe-cena-upita-srbija-2026",
+    "title": "Google Ads za arhitektonske biroe u Srbiji 2026: cena upita, budzet i kvalitet lead-a",
+    "excerpt": "Koliko realno kostaju Google Ads kampanje za arhitektonske biroe u Srbiji 2026, koji budzet ima smisla po fazama i kako da povecas broj ozbiljnih upita za projekte.",
+    "date": "2026-03-13",
+    "category": "Google Ads",
+    "readTime": "10 min",
+    "isDraft": false
+  },
+  {
+    "slug": "kako-odrediti-budzet-za-google-reklame-srbija-2026",
+    "title": "Kako odrediti budzet za Google reklame u Srbiji 2026: praktican model pre prvog evra",
+    "excerpt": "Korak-po-korak model kako da izracunate realan Google Ads budzet u Srbiji 2026, od maksimalnog CPL-a do test faze i skaliranja bez rasipanja para.",
+    "date": "2026-03-14",
+    "category": "Google Ads",
+    "readTime": "11 min",
+    "isDraft": false
+  },
+  {
+    "slug": "linkedin-reklame-cena-srbija-2026",
+    "title": "LinkedIn reklame cena u Srbiji 2026: realni CPL rasponi, budzet i kada se isplate",
+    "excerpt": "Koliko kostaju LinkedIn reklame u Srbiji 2026, koji budzet ima smisla za B2B lead gen i kako da procenis da li kanal donosi pipeline ili samo skupe klikove.",
+    "date": "2026-03-14",
+    "category": "LinkedIn Ads",
+    "readTime": "10 min",
+    "isDraft": false
+  },
+  {
+    "slug": "google-ads-za-auto-placeve-cena-leada-srbija-2026",
+    "title": "Google Ads za auto placeve u Srbiji 2026: cena lead-a, budzet i vise ozbiljnih kupaca",
+    "excerpt": "Koliko realno kostaju Google Ads kampanje za auto placeve u Srbiji 2026, koji budzet ima smisla po fazama i kako da smanjite cenu ozbiljnog upita bez praznih poziva.",
+    "date": "2026-03-14",
+    "category": "Google Ads",
+    "readTime": "10 min",
+    "isDraft": false
+  },
+  {
+    "slug": "google-ads-za-stamparije-cena-leada-srbija-2026",
+    "title": "Google Ads za stamparije u Srbiji 2026: cena lead-a, budzet i vise profitabilnih B2B upita",
+    "excerpt": "Koliko realno kostaju Google Ads kampanje za stamparije u Srbiji 2026, koji budzet ima smisla i kako da smanjite cenu kvalitetnog upita bez praznih poziva i neisplativih poslova.",
+    "date": "2026-03-14",
+    "category": "Google Ads",
+    "readTime": "10 min",
+    "isDraft": false
+  },
+  {
+    "slug": "landing-stranica-za-google-ads-cena-srbija-2026",
+    "title": "Landing stranica za Google Ads: cena u Srbiji 2026, rokovi i sta stvarno ulazi",
+    "excerpt": "Koliko realno kosta landing stranica za Google Ads u Srbiji 2026, koji su tipicni rasponi po fazama i sta mora da postoji da klikovi postanu upiti i prodaja.",
+    "date": "2026-03-14",
+    "category": "Web Design",
+    "readTime": "10 min",
     "isDraft": false
   }
 ]
