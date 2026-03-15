@@ -64,6 +64,7 @@ const checks = [
   { name: 'Blog article schema', script: 'scripts/seo-blog-schema-audit.mjs' },
   { name: 'Blog listing schema quality (/blog)', script: 'scripts/seo-blog-listing-schema-audit.mjs' },
   { name: 'Pricing blog internal linking', script: 'scripts/seo-pricing-blog-linking-audit.mjs' },
+  { name: 'Blog post cross-linking (commercial CTA)', script: 'scripts/seo-blog-crosslinking-audit.mjs' },
   { name: 'Commercial blog CTA paths', script: 'scripts/seo-commercial-blog-cta-audit.mjs' },
   { name: 'Meta title/description quality', script: 'scripts/seo-meta-quality-audit.mjs', args: ['--strict'] },
   { name: 'Blog meta title/excerpt quality', script: 'scripts/seo-blog-meta-audit.mjs', args: ['--strict'] },
