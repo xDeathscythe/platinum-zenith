@@ -1,8 +1,72 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'izrada-web-shopa-cena-srbija-2026',
+    title: 'Izrada web shopa cena u Srbiji 2026: koliko kosta internet prodavnica koja donosi profit',
+    excerpt: 'Detaljan pregled cena za izradu web shopa u Srbiji u 2026. godini. Saznajte razlike izmedu sablona i custom resenja, kao i skrivene troskove najjeftinijih opcija.',
+    date: '2026-03-15',
+    category: 'Biznis',
+    readTime: '9 min',
+    content: `
+## Koliko kosta izrada web shopa u Srbiji 2026. godine
+
+Pitanje cene internet prodavnice najcesce daje najsiri moguci raspon odgovora. Ako ukucate **izrada web shopa cena**, dobicete ponude koje idu od par stotina evra do desetina hiljada. Za vlasnika biznisa koji zeli opipljiv povrat investicije, ovaj raspon stvara konfuziju.
+
+U 2026. godini na srpskom trzistu, realni rasponi cena za funkcionalan web shop najcesce izgledaju ovako:
+
+- **Osnovni WooCommerce web shop (do 100 proizvoda, dizajn baziran na sablonu):** 600e - 1.500e.
+- **Srednji e-commerce sistem (do 2.000 proizvoda, napredniji filteri, integracija kartica i kurirskih sluzbi):** 1.500e - 4.500e.
+- **Custom web shop resenja (kompleksne integracije sa ERP sistemima, unikatni procesi kupovine):** 4.500e - 12.000e+.
+
+Za poredenje sa klasicnim prezentacionim sajtovima, korisno je pogledati nas opsti presek za [cene izrade sajta](/cene-izrade-sajta).
+
+## Zasto dve agencije nude potpuno razlicite cene za isti web shop
+
+Kada jedna ponuda iznosi 800e, a druga 3.500e za navodno isti spisak zahteva, razlika obicno lezi u dubini optimizacije onoga sto kupac ne vidi na prvi pogled. 
+
+Jeftina ponuda najcesce podrazumeva preuzimanje gotove teme, dodavanje vasih boja i ubacivanje prvih deset proizvoda. Skuplja ponuda obicno obuhvata prilagodavanje korisnickog iskustva (UX), brzinu ucitavanja, strukturu baze podataka i ozbiljnu SEO osnovu. Ako web shop izgleda lepo, ali kupcima treba osam sekundi da otvore stranicu sa proizvodom, konverzija ce biti nepostojeca.
+
+Vecina "jeftinih" web shopova se srusi pod prvim ozbiljnim saobracajem kada pokrenete placene oglase. Ako zelite da saznate vise o tome kako planirati oglasavanje za e-commerce, procitajte detalje za [Google reklame cena](/google-reklame-cena) i [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama).
+
+## Skriveni troskovi koji se cesto zaboravljaju
+
+Sama izrada prodavnice je tek prvi korak. Firme cesto izracunaju samo pocetnu investiciju, a preskoce operativne troskove koji stizu iz meseca u mesec.
+
+### Domen, hosting i SSL
+Obican sajt trpi jeftin hosting. Web shop ne trpi. Brzina transakcije i sigurnost zahtevaju ozbiljnije servere. Za kvalitetan e-commerce hosting potrebno je odvojiti izmedu 150e i 400e godisnje, zavisno od kolicine prometa.
+
+### Integracija platnih procesora
+Ukoliko zelite da kupci placaju karticama, banke traze odredene tehnicke i pravne standarde na sajtu. Sama implementacija bankovnog payment gateway sistema najcesce kosta dodatnih 150e do 300e, uz proviziju koju banka uzima po transakciji.
+
+### Odrzavanje i tehnicka podrska
+Internet prodavnica je ziv mehanizam. Dodaci (pluginovi) se azuriraju, platforme menjaju sigurnosne standarde, a povremeno se desi da neka funkcija na kasi zakaze usled apdejta. Tehnicko odrzavanje za web shopove obicno iznosi izmedu 100e i 400e mesecno. Bez odrzavanja, rizikujete da izgubite prodaje dok spavate. Detaljniji presek troskova za slicne usluge imamo na stranici za [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+
+## Problem praznih polica i SEO optimizacije
+
+Najtezi deo posle podizanja web shopa jeste popunjavanje artikala i optimizacija za Google. Agencija u osnovnoj ceni gotovo nikada ne unosi svih vasih hiljadu proizvoda. Oni unose testnih deset do trideset, dok je ostatak zaduzenje vaseg tima.
+
+Isto vazi za vidljivost. Web shop sa fabrickim opisima proizvoda koje koriste i vasi konkurenti nece rangirati na pretragama. Tehnicki i sadrzajni SEO za e-commerce se dodatno naplacuje. Ako zelite sistem koji organski privlaci kupce, predlazemo da se informisete kroz stranicu [SEO optimizacija cena](/seo-optimizacija-cena).
+
+## Sta izabrati u skladu sa budzetom
+
+Ukoliko krecete od nule, testirate trziste i imate do par desetina proizvoda, WooCommerce prodavnica postavljena od strane proverenog developera je apsolutno ispravan pocetak. Ne morate investirati u preskupe sisteme dok nemate dokazanu prodaju.
+
+Ukoliko vec imate prodaju na drustvenim mrezama, ozbiljan inventar robe i zelite da prestanete rucno da pisete racune i adrese za kurirske sluzbe, tada se isplati preci u visi cenovni rang i automatizovati logistiku. Web shop koji kosta 3.000e isplati se vrlo brzo ako vasem timu ustedeti pedeset sati rada nedeljno na obradi porudzbina.
+
+U slucaju da imate specifican asortiman, potrebu za B2B veleprodajnim portalom skrivenim od maloprodaje, ili sinhronizaciju lagera sa vasim racunovodstvenim programom svaka dva sata, tu se prica prebacuje iskljucivo na skuplja custom resenja. Pokusaj da se ovi slozeni procesi "uguraju" u jeftin sablon uvek zavrsava pucanjem sistema.
+
+## Prvi korak pre nego sto ulozite novac
+
+Najgora strategija je posaljete upit na dvadeset adresa sa tekstom "koliko kosta web shop" i izaberete onog ko ponudi najnizu cifru. 
+
+Uvek trazite specifikaciju. Sta se desava kada kupac stavi proizvod u korpu a ne zavrsi kupovinu? Da li je sajt optimizovan za napustene korpe? Kako su resene varijacije proizvoda poput boja i velicina, i da li to usporava ucitavanje slika? 
+
+Ako trazite partnera koji ne podize samo vizuelni okvir vec gradi prodajni alat fokusiran na povecanje prihoda, slobodno se obratite nasem timu. Mozete nas dobiti uvek kroz zvanicni [kontakt](/kontakt) kako bismo zajedno presli vase zahteve i formirali predlog koji se vama stvarno isplati.
+`
+  },
+  {
     slug: 'vodjenje-drustvenih-mreza-cena-srbija-2026',
     title: 'Vodjenje drustvenih mreza cena u Srbiji 2026: Koliko realno kosta i sta dobijate',
-    excerpt: 'Koliko kosta vodjenje drustvenih mreza u Srbiji 2026? Detaljan vodic kroz cene za freelancere i marketing agencije, sta tacno ulazi u mesecni paket i zasto najjeftinija opcija cesto ubija prodaju.',
+    excerpt: 'Koliko kosta vodjenje drustvenih mreza u Srbiji 2026? Vodic kroz cene za freelancere i agencije, sta ulazi u paket i zasto najjeftinija opcija ubija prodaju.',
     date: '2026-03-15',
     category: 'Marketing',
     readTime: '8 min',
@@ -54,7 +118,9 @@ Dizajni se stancuju, tekst je pisan od strane AI robota (bez review-a), angazova
 
 Ako ozbiljno gledate na nastup vase firme online u 2026. godini, budzetirajte srednju visu klasu (350eur - 600eur) gde znate da vas brend nece biti sablon.
 Ukoliko razmisljate sire o izradi sajtova i marketingu, korisno je procitati vise o troskovima [cene izrade sajta](/cene-izrade-sajta) kao i uopsteno o [cenama digitalnog marketinga](/cene-digitalnog-marketinga) te o [vodjenju Instagram reklama](/instagram-reklame-cena).
-`
+
+
+Ako zelite strategiju koja vas brend podize na visi nivo, javite se preko nase [kontakt forme](/kontakt) za prilagodjen plan. Za kompletan pregled, pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga) i [SEO optimizacija cena](/seo-optimizacija-cena).`
   },
 
   {
@@ -88,7 +154,7 @@ Ako vas zanima kako ovo izgleda u sirem kontekstu na celom Meta ekosistemu, kori
 ### 2. TikTok Ads troskovi (prosek za Srbiju)
 TikTok saobracaj je ogroman i jeftin. Ali publika je brza, skroluje bez milosti i teze vadi karticu za skuplje stvari.
 - **CPC (cena klika):** 0.02e do 0.15e zavisno od formata.
-- **Prednost:** Mozete dobiti 10.000 pregleda videa za budzet sa kojim bi na Instagramu dobili jedva 1.500. Ali, conversion rate (stopa konverzije) na sajtu je cesto niza. Zato web shop mora biti maksimalno optimizovan i konvertovati taj jeftin saobracaj, u cemu vam moze pomoci [CRO optimizacija konverzija sajta](/blog/sta-je-cro-optimizacija-konverzija).
+- **Prednost:** Mozete dobiti 10.000 pregleda videa za budzet sa kojim bi na Instagramu dobili jedva 1.500. Ali, conversion rate (stopa konverzije) na sajtu je cesto niza. Zato web shop mora biti maksimalno optimizovan i konvertovati taj jeftin saobracaj, u cemu vam moze pomoci [CRO optimizacija konverzija sajta](/cro).
 
 ## Kvalitet Lead-ova: Koji kanal donosi prave kupce?
 
@@ -110,7 +176,7 @@ Ne morate da birate iskljucivo jedan. Ali, ako vam je budzet ogranicen, evo prav
 2. **Ako prodajete usluge, B2B ili premium proizvode:** Meta (Instagram i Facebook) je jedini logican izbor za start.
 3. **Ako skalirate ozbiljan biznis:** Koristite TikTok za hladnu publiku (Top of Funnel) zbog jeftinog dosega, a zatim te iste ljude "retargetirajte" na Instagramu sa jacom, konkretnijom ponudom za kupovinu.
 
-Ovo je pristup koji preporucuje i vecina strucnjaka za skaliranje o kojem mozete procitati u [kako naci klijente za digitalni marketing](/blog/kako-naci-klijente-digitalni-marketing-srbija-2026).
+Ovo je pristup koji preporucuje i vecina strucnjaka za skaliranje o kojem mozete procitati u [kako naci klijente za digitalni marketing](/digitalni-marketing).
 
 ## Zakljucak: Nemojte kopirati strategiju sa jednog na drugi
 
@@ -120,7 +186,9 @@ Najveca greska koju vidjamo u 2026. godini je kada brendovi snime profi reklamu 
 - Na TikToku prodajete **proces, "hook" i zabavu**.
 
 Za kraj, ako niste sigurni ko ce vam ovo kvalitetno izvesti, a sumnjate u in-house opciju, procitajte detaljnu analizu [in-house tim vs agencija](/in-house-tim-vs-agencija) pre donosenja odluke.
-`
+
+
+Saznaj kako da usmeris budzet u kanale koji konvertuju umesto da gubis novac na slepe testove. Javi se putem [kontakt forme](/kontakt) za precizan [digitalni marketing](/digitalni-marketing) plan.`
   },
   {
     slug: 'seo-optimizacija-za-web-shop-cena-srbija-2026',
@@ -15017,6 +15085,7 @@ export const blogPosts = rawBlogPosts.filter((post) => {
   seenSlugs.add(post.slug)
   return true
 })
+
 
 
 

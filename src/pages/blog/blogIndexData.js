@@ -3,9 +3,18 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "izrada-web-shopa-cena-srbija-2026",
+    "title": "Izrada web shopa cena u Srbiji 2026: koliko kosta internet prodavnica koja donosi profit",
+    "excerpt": "Detaljan pregled cena za izradu web shopa u Srbiji u 2026. godini. Saznajte razlike izmedu sablona i custom resenja, kao i skrivene troskove najjeftinijih opcija.",
+    "date": "2026-03-15",
+    "category": "Biznis",
+    "readTime": "9 min",
+    "isDraft": false
+  },
+  {
     "slug": "vodjenje-drustvenih-mreza-cena-srbija-2026",
     "title": "Vodjenje drustvenih mreza cena u Srbiji 2026: Koliko realno kosta i sta dobijate",
-    "excerpt": "Koliko kosta vodjenje drustvenih mreza u Srbiji 2026? Detaljan vodic kroz cene za freelancere i marketing agencije, sta tacno ulazi u mesecni paket i zasto najjeftinija opcija cesto ubija prodaju.",
+    "excerpt": "Koliko kosta vodjenje drustvenih mreza u Srbiji 2026? Vodic kroz cene za freelancere i agencije, sta ulazi u paket i zasto najjeftinija opcija ubija prodaju.",
     "date": "2026-03-15",
     "category": "Marketing",
     "readTime": "8 min",

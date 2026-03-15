@@ -138,8 +138,16 @@ function resolveComponentFile(importPath) {
   return null
 }
 
+import { execSync } from 'child_process'
+
 function toDateOnlyFromMtime(filePath) {
   if (!filePath) return today
+  try {
+    const gitDate = execSync(`git log -1 --format=%cs -- "${filePath}"`, { encoding: 'utf8' }).trim()
+    if (gitDate && /^\d{4}-\d{2}-\d{2}$/.test(gitDate)) {
+      return gitDate
+    }
+  } catch (err) {}
   try {
     const mtime = fs.statSync(filePath).mtime
     return mtime.toISOString().slice(0, 10)
