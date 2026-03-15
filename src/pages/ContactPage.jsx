@@ -193,6 +193,64 @@ export default function ContactPage() {
         </div>
       </div>
     </section>
+
+    <section className="pb-20 md:pb-24 px-4 md:px-8">
+      <div className="max-w-[1100px] mx-auto">
+        <div className="bg-panel border border-edge rounded-[18px] p-6 md:p-8">
+          <h2 className="text-[24px] md:text-[30px] font-medium text-ink mb-3">Korisni linkovi pre početka saradnje</h2>
+          <p className="text-[15px] text-ink-3 leading-relaxed mb-8 max-w-[760px]">
+            Ako želite da pre poziva prođete kroz način rada, alate i pravne informacije, ispod su ključne stranice koje najčešće traže timovi pre odluke.
+          </p>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            <Link to="/faq" className="rounded-[12px] border border-edge bg-page/50 p-4 hover:border-indigo-500/35 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">FAQ</div>
+              <div className="text-[12px] text-ink-3">Najčešća pitanja o procesu saradnje i rezultatima.</div>
+            </Link>
+
+            <Link to="/o-nama" className="rounded-[12px] border border-edge bg-page/50 p-4 hover:border-indigo-500/35 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">O nama</div>
+              <div className="text-[12px] text-ink-3">Ko smo, kako radimo i šta nam je fokus u isporuci.</div>
+            </Link>
+
+            <Link to="/alati/roi-kalkulator" className="rounded-[12px] border border-edge bg-page/50 p-4 hover:border-indigo-500/35 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">ROI kalkulator</div>
+              <div className="text-[12px] text-ink-3">Brza procena povraćaja ulaganja pre lansiranja kampanje.</div>
+            </Link>
+
+            <Link to="/industrije/startapovi" className="rounded-[12px] border border-edge bg-page/50 p-4 hover:border-indigo-500/35 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Marketing za startapove</div>
+              <div className="text-[12px] text-ink-3">Model rada za brzi rast u ranoj i growth fazi.</div>
+            </Link>
+
+            <Link to="/uslovi-koriscenja" className="rounded-[12px] border border-edge bg-page/50 p-4 hover:border-indigo-500/35 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Uslovi korišćenja</div>
+              <div className="text-[12px] text-ink-3">Pravila korišćenja sajta i odgovornosti obe strane.</div>
+            </Link>
+
+            <Link to="/politika-privatnosti" className="rounded-[12px] border border-edge bg-page/50 p-4 hover:border-indigo-500/35 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Politika privatnosti</div>
+              <div className="text-[12px] text-ink-3">Način obrade i čuvanja podataka koje delite sa nama.</div>
+            </Link>
+
+            <Link to="/uslovi-kupovine" className="rounded-[12px] border border-edge bg-page/50 p-4 hover:border-indigo-500/35 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Uslovi kupovine</div>
+              <div className="text-[12px] text-ink-3">Komercijalni uslovi za usluge koje ugovarate online.</div>
+            </Link>
+
+            <Link to="/nacin-placanja" className="rounded-[12px] border border-edge bg-page/50 p-4 hover:border-indigo-500/35 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Način plaćanja</div>
+              <div className="text-[12px] text-ink-3">Pregled metoda plaćanja i dinamike naplate.</div>
+            </Link>
+
+            <Link to="/dostava" className="rounded-[12px] border border-edge bg-page/50 p-4 hover:border-indigo-500/35 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Dostava</div>
+              <div className="text-[12px] text-ink-3">Informacije o isporuci i rokovima kada je primenljivo.</div>
+            </Link>
+          </div>
+        </div>
+      </div>
+    </section>
     </>
   )
 }

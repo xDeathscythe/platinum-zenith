@@ -74,6 +74,33 @@ const managementPricing = [
   },
 ]
 
+const managementFeeModels = [
+  {
+    model: 'Fiksna mesečna naknada',
+    fee: '250 - 900€/mes',
+    bestFor: 'Biznise koji žele stabilan trošak i jasnu podelu odgovornosti po sprintu.',
+    caution: 'Ako scope nije precizno definisan, deo optimizacija lako ostane van dogovora.',
+  },
+  {
+    model: 'Procenat od medijskog budžeta',
+    fee: '8% - 15% budžeta',
+    bestFor: 'Naloge sa velikim budžetom i brzim tempom skaliranja kroz više kampanja.',
+    caution: 'Bez performance guardrail-a agencija može biti motivisana na veći spend umesto bolji profit.',
+  },
+  {
+    model: 'Hibrid (fiksno + procenat)',
+    fee: '200 - 500€ + 5% - 10%',
+    bestFor: 'Kompanije koje žele baznu operativu plus dodatni rad kada kampanje ubrzano rastu.',
+    caution: 'Potrebna je jasna granica šta ulazi u bazu, a šta ulazi u varijabilni deo.',
+  },
+  {
+    model: 'Performance bonus (CPA/ROAS target)',
+    fee: 'Fiksno + bonus po rezultatu',
+    bestFor: 'Timove koji imaju čist tracking i mogu da prate profit po kanalu, ne samo broj leadova.',
+    caution: 'Ako CRM i atribucija nisu čisti, lako dolazi do spora oko toga šta je stvarno “rezultat”.',
+  },
+]
+
 const metrics = [
   {
     metric: 'CPC (Search) u Srbiji',
@@ -94,6 +121,30 @@ const metrics = [
     metric: 'ROAS / ROI',
     srbija: '3x - 10x',
     note: 'Za stabilne naloge cilj je profitabilan rast, ne samo više klikova. Bitna je marža po usluzi/proizvodu.',
+  },
+]
+
+const intentBenchmarks = [
+  {
+    intent: 'Brend upiti (ime firme/proizvoda)',
+    cpc: '0,06 - 0,22€',
+    cpa: '4 - 18€',
+    conversionRate: '12% - 28%',
+    note: 'Najjeftiniji klikovi i najviši intent, ali samo ako postoji dovoljno pretrage brenda i dobra reputacija.',
+  },
+  {
+    intent: 'Komercijalni non-brand upiti',
+    cpc: '0,35 - 1,60€',
+    cpa: '12 - 65€',
+    conversionRate: '4% - 14%',
+    note: 'Glavni izvor novih leadova. Ovde se najviše isplati rad na search terms higijeni i landing relevantnosti.',
+  },
+  {
+    intent: 'Visokovredni / urgent upiti',
+    cpc: '1,10 - 3,40€',
+    cpa: '35 - 160€',
+    conversionRate: '3% - 9%',
+    note: 'Klik je skuplji zbog konkurencije, ali lead može imati znatno veću vrednost i brži povrat investicije.',
   },
 ]
 
@@ -125,6 +176,36 @@ const industryBenchmarks = [
     cpa: '35 - 120€',
     budget: '1.200 - 5.000€/mes',
     note: 'Konkurencija je visoka, pa landing kvalitet i trust elementi odlučuju profitabilnost.',
+  },
+]
+
+const cityBenchmarks = [
+  {
+    city: 'Beograd',
+    cpc: '0,35 - 1,80€',
+    cpa: '15 - 90€',
+    budget: '900 - 3.500€/mes',
+    note: 'Najveća konkurencija i najveći volumen pretrage. Bez dobrog quality score-a i jasnog lead funnel-a CPC brzo raste.',
+    route: '/marketing-agencija-beograd',
+    routeLabel: 'Marketing agencija Beograd',
+  },
+  {
+    city: 'Novi Sad',
+    cpc: '0,22 - 1,10€',
+    cpa: '12 - 55€',
+    budget: '600 - 2.100€/mes',
+    note: 'Stabilan odnos volumena i konkurencije. Dobar fit za firme koje žele predvidljiv lead flow bez enterprise troška.',
+    route: '/marketing-agencija-novi-sad',
+    routeLabel: 'Marketing agencija Novi Sad',
+  },
+  {
+    city: 'Zrenjanin i manji gradovi',
+    cpc: '0,12 - 0,65€',
+    cpa: '8 - 35€',
+    budget: '300 - 1.200€/mes',
+    note: 'Niži CPC, ali i manji obim pretrage. Ključ je uska lokalna struktura kampanja i brza obrada upita.',
+    route: '/marketing-agencija-zrenjanin',
+    routeLabel: 'Marketing agencija Zrenjanin',
   },
 ]
 
@@ -187,6 +268,18 @@ const faqs = [
     q: 'Da li mogu sam da vodim kampanje?',
     a: 'Možete, ali bez jasne strukture i trackinga često dolazi do rasipanja budžeta. Ako vodite kampanje sami, krenite sa uskim setom ključnih reči i jasnim ciljem konverzije.',
   },
+  {
+    q: 'Koliko košta vođenje Google Ads kampanja bez medijskog budžeta?',
+    a: 'Za većinu firmi u Srbiji vođenje kampanja je najčešće 250-700€ mesečno. Tačan fee zavisi od broja kampanja, obima testiranja i nivoa analitike koji vam je potreban.',
+  },
+  {
+    q: 'Da li budžet treba povećavati odmah ili postepeno?',
+    a: 'U praksi je sigurnije postepeno skaliranje (20-30% na 7-10 dana) kada kampanja drži stabilan CPA. Naglo podizanje budžeta često remeti delivery i diže cenu leada.',
+  },
+  {
+    q: 'Da li Google Ads ima smisla za B2B sa manjim obimom pretrage?',
+    a: 'Da, ako su ključne reči usko vezane za komercijalni intent i ako pratite kvalitet leadova, ne samo broj formi. Kod B2B-a je često važniji profit po klijentu nego volumen klikova.',
+  },
 ]
 
 const relatedPosts = [
@@ -196,6 +289,11 @@ const relatedPosts = [
 ]
   .map((slug) => blogIndexPosts.find((post) => post.slug === slug))
   .filter(Boolean)
+
+const nicheGoogleAdsGuides = blogIndexPosts
+  .filter((post) => post.slug.startsWith('google-ads-za-') && !post.isDraft)
+  .sort((a, b) => new Date(b.date) - new Date(a.date))
+  .slice(0, 24)
 
 export default function GoogleReklameCenaPage() {
   usePageMeta()
@@ -300,6 +398,38 @@ export default function GoogleReklameCenaPage() {
       </section>
 
       <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[980px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
+          <h2 id="modeli-naplate-google-ads" className="text-[24px] md:text-[30px] font-medium text-ink mb-4 text-center">Modeli naplate vođenja Google Ads kampanja</h2>
+          <p className="text-[15px] text-ink-3 text-center mb-8 max-w-[780px] mx-auto">
+            Pored raspona cena, važan je i model naplate. Dobar model štiti profit, usklađuje očekivanja i sprečava da rast budžeta automatski znači i rast troška bez rezultata.
+          </p>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {managementFeeModels.map((item) => (
+              <div key={item.model} className="rounded-[14px] border border-edge bg-page/40 p-5 md:p-6">
+                <h3 className="text-[16px] font-medium text-ink mb-2">{item.model}</h3>
+                <div className="text-[20px] font-semibold text-ink mb-3">{item.fee}</div>
+                <p className="text-[13px] text-ink-2 leading-relaxed mb-3">{item.bestFor}</p>
+                <p className="text-[12px] text-ink-3 leading-relaxed">⚠️ {item.caution}</p>
+              </div>
+            ))}
+          </div>
+
+          <p className="text-[14px] text-ink-3 leading-relaxed mt-8 text-center max-w-[760px] mx-auto">
+            Ako niste sigurni da li vam više odgovara fiksna naknada, procenat ili hibrid, uporedite modele na{' '}
+            <Link to="/fiksna-naknada-vs-revenue-share" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+              vodiču fiksna naknada vs revenue share
+            </Link>{' '}
+            i pošaljite nam strukturu ponude kroz{' '}
+            <Link to="/kontakt" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+              kontakt formu
+            </Link>{' '}
+            za brzu validaciju pre potpisa.
+          </p>
+        </div>
+      </section>
+
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[900px] mx-auto">
           <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-4 text-center">Benchmark za srpsko tržište</h2>
           <p className="text-[15px] text-ink-3 text-center mb-10 max-w-[620px] mx-auto">
@@ -330,6 +460,46 @@ export default function GoogleReklameCenaPage() {
       </section>
 
       <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[980px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
+          <h2 id="cpc-po-intentu" className="text-[24px] md:text-[30px] font-medium text-ink mb-4 text-center">Google Ads cena po kliku po intentu</h2>
+          <p className="text-[15px] text-ink-3 text-center mb-8 max-w-[780px] mx-auto">
+            Ista industrija može imati potpuno drugačiji CPC ako se menja intent ključne reči. Zato je korisno da odvojite brend, komercijalne i urgent upite već u startu.
+          </p>
+
+          <div className="space-y-4">
+            {intentBenchmarks.map((item) => (
+              <div key={item.intent} className="rounded-[14px] border border-edge bg-page/40 p-5 md:p-6">
+                <h3 className="text-[16px] font-medium text-ink mb-4">{item.intent}</h3>
+                <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 mb-4">
+                  <div>
+                    <div className="text-[11px] uppercase tracking-widest text-ink-4 mb-1">CPC</div>
+                    <div className="text-[15px] font-semibold text-ink">{item.cpc}</div>
+                  </div>
+                  <div>
+                    <div className="text-[11px] uppercase tracking-widest text-ink-4 mb-1">CPA</div>
+                    <div className="text-[15px] font-semibold text-ink">{item.cpa}</div>
+                  </div>
+                  <div>
+                    <div className="text-[11px] uppercase tracking-widest text-ink-4 mb-1">CVR</div>
+                    <div className="text-[15px] font-semibold text-ink">{item.conversionRate}</div>
+                  </div>
+                </div>
+                <p className="text-[13px] text-ink-2 leading-relaxed">{item.note}</p>
+              </div>
+            ))}
+          </div>
+
+          <p className="text-[14px] text-ink-3 leading-relaxed mt-8 text-center max-w-[760px] mx-auto">
+            Za detaljniji raspon po industriji, pročitajte i{' '}
+            <Link to="/blog/google-ads-cena-po-kliku-srbija-2026" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+              Google Ads cena po kliku u Srbiji 2026
+            </Link>{' '}
+            i uporedite ga sa vašim realnim search terms izveštajem.
+          </p>
+        </div>
+      </section>
+
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[980px] mx-auto">
           <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-4 text-center">Google reklame cena po niši (Srbija 2026)</h2>
           <p className="text-[15px] text-ink-3 text-center mb-10 max-w-[760px] mx-auto">
@@ -355,6 +525,41 @@ export default function GoogleReklameCenaPage() {
                   </div>
                 </div>
                 <p className="text-[13px] text-ink-2 leading-relaxed">{item.note}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[980px] mx-auto">
+          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-4 text-center">Google reklame cena po gradu (Srbija)</h2>
+          <p className="text-[15px] text-ink-3 text-center mb-10 max-w-[760px] mx-auto">
+            Isti tip kampanje može imati različit trošak u zavisnosti od grada i konkurencije. Ovi rasponi pomažu da realnije postavite očekivanja pre lansiranja.
+          </p>
+
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+            {cityBenchmarks.map((item) => (
+              <div key={item.city} className="bg-panel rounded-[16px] border border-edge p-5 md:p-6">
+                <h3 className="text-[17px] font-medium text-ink mb-4">{item.city}</h3>
+                <div className="grid grid-cols-3 gap-2 mb-4">
+                  <div>
+                    <div className="text-[11px] uppercase tracking-widest text-ink-4 mb-1">CPC</div>
+                    <div className="text-[14px] font-semibold text-ink">{item.cpc}</div>
+                  </div>
+                  <div>
+                    <div className="text-[11px] uppercase tracking-widest text-ink-4 mb-1">CPA</div>
+                    <div className="text-[14px] font-semibold text-ink">{item.cpa}</div>
+                  </div>
+                  <div>
+                    <div className="text-[11px] uppercase tracking-widest text-ink-4 mb-1">Budžet</div>
+                    <div className="text-[14px] font-semibold text-ink">{item.budget}</div>
+                  </div>
+                </div>
+                <p className="text-[13px] text-ink-2 leading-relaxed mb-4">{item.note}</p>
+                <Link to={item.route} className="text-[13px] text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+                  Pogledajte vodič: {item.routeLabel}
+                </Link>
               </div>
             ))}
           </div>
@@ -482,6 +687,28 @@ export default function GoogleReklameCenaPage() {
               <div className="text-[14px] font-medium text-ink mb-1">Cene digitalnog marketinga</div>
               <div className="text-[12px] text-ink-3">Uporedi Google sa ukupnim marketinškim troškom</div>
             </Link>
+          </div>
+        </div>
+      </section>
+
+      <section className="px-4 md:px-8 pb-12 md:pb-16">
+        <div className="max-w-[980px] mx-auto">
+          <h2 className="text-[22px] md:text-[28px] font-medium text-ink mb-4 text-center">Google Ads vodiči po nišama</h2>
+          <p className="text-[14px] text-ink-3 leading-relaxed text-center mb-8 max-w-[760px] mx-auto">
+            Ako želite preciznije procene za konkretnu industriju, otvorite relevantan vodič ispod. Ove strane su vezane direktno za cenu leada, budžet po niši i tipične greške u setup-u kampanje.
+          </p>
+
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+            {nicheGoogleAdsGuides.map((post) => (
+              <Link
+                key={post.slug}
+                to={`/blog/${post.slug}`}
+                className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors"
+              >
+                <div className="text-[14px] font-medium text-ink mb-2 line-clamp-2">{post.title}</div>
+                <div className="text-[12px] text-ink-3 line-clamp-3">{post.excerpt}</div>
+              </Link>
+            ))}
           </div>
         </div>
       </section>

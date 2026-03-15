@@ -93,7 +93,7 @@ export default function SeoOptimizacijaCenaPage() {
       {/* Timeline */}
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[760px] mx-auto">
-          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-10 text-center">Šta da očekujete i kada?</h2>
+          <h2 id="seo-vremenski-okvir" className="text-[26px] md:text-[34px] font-medium text-ink mb-10 text-center">Šta da očekujete i kada?</h2>
           <div className="space-y-6">
             {timeline.map(t => (
               <div key={t.month} className="flex gap-5">
@@ -131,10 +131,14 @@ export default function SeoOptimizacijaCenaPage() {
         <div className="max-w-[760px] mx-auto">
           <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-6 text-center">Kako mi radimo SEO?</h2>
           <div className="text-[15px] text-ink-2 leading-relaxed space-y-4">
+            <span id="audit-temelji" className="block h-0 overflow-hidden" aria-hidden="true" />
             <p>Počinjemo sa detaljnim auditom vašeg sajta. Gledamo tehničke greške, brzinu učitavanja, strukturu sadržaja i profil linkova. Na osnovu toga pravimo plan sa jasnim prioritetima.</p>
+            <span id="keyword-intent" className="block h-0 overflow-hidden" aria-hidden="true" />
             <p>Fokusiramo se na ključne reči koje vaši potencijalni kupci zaista pretražuju. Ne one sa najviše pretraga, nego one sa najboljom namerom kupovine. Razlika je kao između "šta je SEO" i "SEO agencija Zrenjanin".</p>
-            <p>Svaki mesec dobijate izveštaj sa konkretnim brojevima. Pozicije, saobraćaj, konverzije. Bez marketinških fraza, samo podaci na osnovu kojih možete da donesete odluku.</p>
-            <p>Za ozbiljne projekte nudimo <Link to="/cene-digitalnog-marketinga" className="text-ink underline">revenue share model</Link>. Naša zarada je direktno vezana za vaš rast, što znači da imamo isti cilj.</p>
+            <span id="seo-plan-90-dana" className="block h-0 overflow-hidden" aria-hidden="true" />
+            <p>Definišemo 90-dnevni plan sadržaja i internog linkovanja, pa ga povezujemo sa stranicama koje direktno donose upite poput <Link to="/google-reklame-cena" className="text-ink underline">Google reklame cena</Link> i <Link to="/cene-digitalnog-marketinga" className="text-ink underline">cene digitalnog marketinga</Link>.</p>
+            <span id="seo-kpi-izvestaj" className="block h-0 overflow-hidden" aria-hidden="true" />
+            <p>Svaki mesec dobijate izveštaj sa konkretnim brojevima: pozicije, saobraćaj i konverzije. Bez marketinških fraza, samo podaci na osnovu kojih možete da donesete odluku i procenite sledeći korak budžeta.</p>
           </div>
         </div>
       </section>
@@ -198,27 +202,6 @@ export default function SeoOptimizacijaCenaPage() {
         </div>
       </section>
 
-      {/* JSON-LD: FAQPage + BreadcrumbList */}
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
-        "@context": "https://schema.org",
-        "@graph": [
-          {
-            "@type": "FAQPage",
-            "mainEntity": faqs.map(f => ({
-              "@type": "Question",
-              "name": f.q,
-              "acceptedAnswer": { "@type": "Answer", "text": f.a }
-            }))
-          },
-          {
-            "@type": "BreadcrumbList",
-            "itemListElement": [
-              { "@type": "ListItem", "position": 1, "name": "Početna", "item": "https://platinumzenith.com/" },
-              { "@type": "ListItem", "position": 2, "name": "SEO optimizacija cena", "item": "https://platinumzenith.com/seo-optimizacija-cena" }
-            ]
-          }
-        ]
-      })}} />
     </div>
   )
 }

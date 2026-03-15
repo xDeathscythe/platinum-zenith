@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "seo-optimizacija-za-web-shop-cena-srbija-2026",
+    "title": "SEO optimizacija za web shop u Srbiji 2026: realne cene, rokovi i sta stvarno placate",
+    "excerpt": "Koliko kosta SEO optimizacija za web shop u Srbiji 2026, zasto e-commerce SEO zahteva drugaciji pristup i kada se investicija stvarno isplati.",
+    "date": "2026-03-15",
+    "category": "SEO",
+    "readTime": "9 min",
+    "isDraft": false
+  },
+  {
     "slug": "landing-stranica-za-google-ads-kako-spustiti-cenu-leada-srbija-2026",
     "title": "Landing stranica za Google Ads u Srbiji 2026: kako da spustis cenu lead-a bez veceg budzeta",
     "excerpt": "Praktican vodic kako da landing stranica za Google Ads u Srbiji 2026 podigne konverziju i smanji cenu kvalifikovanog upita bez dodatnog ad spend-a.",

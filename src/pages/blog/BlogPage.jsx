@@ -1,10 +1,53 @@
 import { useState, useMemo } from 'react'
 import { Link } from 'react-router-dom'
 import BottomCTA from '../../components/BottomCTA'
-import { blogPosts } from './blogData'
+import { blogIndexPosts } from './blogIndexData'
 
-const PUBLIC_BLOG_POSTS = blogPosts.filter(p => !p.isDraft)
+const PUBLIC_BLOG_POSTS = blogIndexPosts.filter(p => !p.isDraft)
 const CATEGORIES = ['Sve', ...Array.from(new Set(PUBLIC_BLOG_POSTS.map(p => p.category)))]
+
+const MONEY_RESOURCE_LINKS = [
+  {
+    to: '/google-reklame-cena',
+    title: 'Google reklame cena',
+    desc: 'CPC rasponi, budžeti i model vođenja kampanja za 2026.',
+  },
+  {
+    to: '/instagram-reklame-cena',
+    title: 'Instagram reklame cena',
+    desc: 'Koliko košta Meta kanal i kako planirati budžet po fazama.',
+  },
+  {
+    to: '/izrada-wordpress-sajta-cena',
+    title: 'Izrada WordPress sajta cena',
+    desc: 'Rasponi ulaganja, rokovi i šta pravi razliku u konverziji.',
+  },
+  {
+    to: '/seo-optimizacija-cena',
+    title: 'SEO optimizacija cena',
+    desc: 'Paketi, obim rada i realna očekivanja po fazama rasta.',
+  },
+  {
+    to: '/cene-digitalnog-marketinga',
+    title: 'Cene digitalnog marketinga',
+    desc: 'Uporedni pregled ulaganja po kanalima i modelima saradnje.',
+  },
+  {
+    to: '/cene-izrade-sajta',
+    title: 'Cene izrade sajta',
+    desc: 'Brzi cenovni okvir za prezentacione, lead-gen i shop projekte.',
+  },
+  {
+    to: '/fiksna-naknada-vs-revenue-share',
+    title: 'Fiksna naknada vs revenue share',
+    desc: 'Kada je koji model naplate bolji prema marži i riziku.',
+  },
+  {
+    to: '/kontakt',
+    title: 'Kontakt i konsultacije',
+    desc: 'Pošaljite upit i dobijte preporuku prioriteta za narednih 90 dana.',
+  },
+]
 
 export default function BlogPage() {
   const [active, setActive] = useState('Sve')
@@ -33,37 +76,92 @@ export default function BlogPage() {
     [sortedPosts]
   )
 
-  const blogCollectionSchema = useMemo(() => ({
-    '@context': 'https://schema.org',
-    '@graph': [
-      {
-        '@type': 'Blog',
-        name: 'Platinum Zenith Blog',
-        description: 'Praktični saveti o marketingu, prodaji i rastu biznisa.',
-        url: 'https://platinumzenith.com/blog',
-        inLanguage: 'sr-RS',
-        publisher: {
-          '@type': 'Organization',
-          name: 'Platinum Zenith',
-          url: 'https://platinumzenith.com',
+  const blogCollectionSchema = useMemo(() => {
+    const siteUrl = 'https://platinumzenith.com'
+
+    return {
+      '@context': 'https://schema.org',
+      '@graph': [
+        {
+          '@type': 'CollectionPage',
+          '@id': `${siteUrl}/blog#webpage`,
+          name: 'Platinum Zenith Blog',
+          description: 'Praktični saveti o marketingu, prodaji i rastu biznisa.',
+          url: `${siteUrl}/blog`,
+          inLanguage: 'sr-RS',
+          mainEntity: { '@id': `${siteUrl}/blog#blog` },
+          breadcrumb: { '@id': `${siteUrl}/blog#breadcrumb` },
+          isPartOf: { '@id': `${siteUrl}/#website` },
         },
-      },
-      {
-        '@type': 'ItemList',
-        itemListElement: sortedPosts.slice(0, 30).map((post, index) => ({
-          '@type': 'ListItem',
-          position: index + 1,
-          url: `https://platinumzenith.com/blog/${post.slug}`,
-          item: {
-            '@type': 'BlogPosting',
-            headline: post.title,
-            datePublished: post.date,
-            description: post.excerpt,
+        {
+          '@type': 'Blog',
+          '@id': `${siteUrl}/blog#blog`,
+          name: 'Platinum Zenith Blog',
+          description: 'Praktični saveti o marketingu, prodaji i rastu biznisa.',
+          url: `${siteUrl}/blog`,
+          inLanguage: 'sr-RS',
+          publisher: {
+            '@type': 'Organization',
+            name: 'Platinum Zenith',
+            url: siteUrl,
           },
-        })),
-      },
-    ],
-  }), [sortedPosts])
+          about: MONEY_RESOURCE_LINKS.map((resource) => ({
+            '@type': 'WebPage',
+            '@id': `${siteUrl}${resource.to}`,
+            url: `${siteUrl}${resource.to}`,
+            name: resource.title,
+          })),
+          hasPart: sortedPosts.slice(0, 30).map((post) => ({
+            '@id': `${siteUrl}/blog/${post.slug}#article`,
+          })),
+        },
+        {
+          '@type': 'BreadcrumbList',
+          '@id': `${siteUrl}/blog#breadcrumb`,
+          itemListElement: [
+            {
+              '@type': 'ListItem',
+              position: 1,
+              name: 'Početna',
+              item: siteUrl,
+            },
+            {
+              '@type': 'ListItem',
+              position: 2,
+              name: 'Blog',
+              item: `${siteUrl}/blog`,
+            },
+          ],
+        },
+        {
+          '@type': 'ItemList',
+          name: 'Najnoviji članci',
+          itemListElement: sortedPosts.slice(0, 30).map((post, index) => ({
+            '@type': 'ListItem',
+            position: index + 1,
+            url: `${siteUrl}/blog/${post.slug}`,
+            item: {
+              '@type': 'BlogPosting',
+              '@id': `${siteUrl}/blog/${post.slug}#article`,
+              headline: post.title,
+              datePublished: post.date,
+              description: post.excerpt,
+            },
+          })),
+        },
+        {
+          '@type': 'ItemList',
+          name: 'Ključni cenovni vodiči i usluge',
+          itemListElement: MONEY_RESOURCE_LINKS.map((resource, index) => ({
+            '@type': 'ListItem',
+            position: index + 1,
+            url: `${siteUrl}${resource.to}`,
+            name: resource.title,
+          })),
+        },
+      ],
+    }
+  }, [sortedPosts])
 
   return (
     <>
@@ -186,18 +284,18 @@ export default function BlogPage() {
 
           <div className="grid md:grid-cols-2 gap-8">
             <div>
-              <h3 className="text-[12px] uppercase tracking-[0.18em] text-ink-2 mb-3">Ključne stranice</h3>
-              <div className="flex flex-wrap gap-2">
-                <Link to="/faq" className="text-[13px] text-ink-2 hover:text-ink bg-tint border border-edge-2 rounded-full px-3 py-1.5 transition-colors">FAQ</Link>
-                <Link to="/o-nama" className="text-[13px] text-ink-2 hover:text-ink bg-tint border border-edge-2 rounded-full px-3 py-1.5 transition-colors">O nama</Link>
-                <Link to="/uslovi-koriscenja" className="text-[13px] text-ink-2 hover:text-ink bg-tint border border-edge-2 rounded-full px-3 py-1.5 transition-colors">Uslovi korišćenja</Link>
-                <Link to="/uslovi-kupovine" className="text-[13px] text-ink-2 hover:text-ink bg-tint border border-edge-2 rounded-full px-3 py-1.5 transition-colors">Uslovi kupovine</Link>
-                <Link to="/nacin-placanja" className="text-[13px] text-ink-2 hover:text-ink bg-tint border border-edge-2 rounded-full px-3 py-1.5 transition-colors">Način plaćanja</Link>
-                <Link to="/dostava" className="text-[13px] text-ink-2 hover:text-ink bg-tint border border-edge-2 rounded-full px-3 py-1.5 transition-colors">Dostava</Link>
-                <Link to="/politika-privatnosti" className="text-[13px] text-ink-2 hover:text-ink bg-tint border border-edge-2 rounded-full px-3 py-1.5 transition-colors">Politika privatnosti</Link>
-                <Link to="/industrije/startapovi" className="text-[13px] text-ink-2 hover:text-ink bg-tint border border-edge-2 rounded-full px-3 py-1.5 transition-colors">Marketing za startapove</Link>
-                <Link to="/alati/roi-kalkulator" className="text-[13px] text-ink-2 hover:text-ink bg-tint border border-edge-2 rounded-full px-3 py-1.5 transition-colors">ROI kalkulator</Link>
-                <Link to="/facebook-oglasi-ne-rade" className="text-[13px] text-ink-2 hover:text-ink bg-tint border border-edge-2 rounded-full px-3 py-1.5 transition-colors">Facebook oglasi ne rade</Link>
+              <h3 className="text-[12px] uppercase tracking-[0.18em] text-ink-2 mb-3">Cenovni vodiči i money stranice</h3>
+              <div className="grid sm:grid-cols-2 gap-3">
+                {MONEY_RESOURCE_LINKS.map((resource) => (
+                  <Link
+                    key={resource.to}
+                    to={resource.to}
+                    className="group block rounded-[12px] border border-edge-2 bg-tint p-4 hover:border-white/[0.14] transition-colors"
+                  >
+                    <h4 className="text-[14px] font-medium text-ink mb-1.5 group-hover:text-white transition-colors">{resource.title}</h4>
+                    <p className="text-[12px] leading-[1.55] text-ink-2">{resource.desc}</p>
+                  </Link>
+                ))}
               </div>
             </div>
 

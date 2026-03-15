@@ -34,6 +34,79 @@ const tiers = [
   },
 ]
 
+const pricingModels = [
+  {
+    name: 'Fiksna projektna cena',
+    range: '400 - 4.500 EUR',
+    description: 'Najcesci model kada je scope jasan: znas ukupnu cenu, rok i tacno sta ulazi u isporuku.',
+  },
+  {
+    name: 'Milestone naplata (40/40/20)',
+    range: '900 - 9.000 EUR',
+    description: 'Placanje kroz faze (start, staging, launch) daje bolju kontrolu rizika za obe strane.',
+  },
+  {
+    name: 'Time & material',
+    range: '25 - 60 EUR/sat',
+    description: 'Model za kompleksnije projekte sa promenljivim scope-om i cestim iteracijama tokom razvoja.',
+  },
+  {
+    name: 'Launch + mesecni retainer',
+    range: '350 - 1.200 EUR/mes',
+    description: 'Kombinacija inicijalne izrade i kontinuiranog maintenance/CRO rada kada sajt treba stalno da raste.',
+  },
+]
+
+const deliveryTimelines = [
+  {
+    project: 'Start WordPress sajt',
+    timeline: '1 - 2 nedelje',
+    note: 'Do 6 stranica, bez kompleksnih integracija.',
+  },
+  {
+    project: 'Poslovni WordPress',
+    timeline: '2 - 5 nedelja',
+    note: 'Vise sekcija, blog, tracking i detaljniji sadrzaj.',
+  },
+  {
+    project: 'WordPress + WooCommerce',
+    timeline: '4 - 8 nedelja',
+    note: 'Katalog, checkout, placanja i QA kroz realne kupovine.',
+  },
+  {
+    project: 'Custom WordPress sistem',
+    timeline: '6 - 12 nedelja',
+    note: 'API integracije, posebni workflow-i i zahtevniji deployment plan.',
+  },
+]
+
+const businessTypeBenchmarks = [
+  {
+    segment: 'Lokalne usluge (ordinacije, saloni, servisi)',
+    launchRange: '700 - 1.800€',
+    monthlyRange: '180 - 600€ / mes',
+    focus: 'Brz sajt, lokalni SEO i jasna forma za upite.',
+  },
+  {
+    segment: 'B2B lead generation',
+    launchRange: '1.200 - 3.200€',
+    monthlyRange: '250 - 900€ / mes',
+    focus: 'Case studies, CRM forme i precizan tracking leadova.',
+  },
+  {
+    segment: 'WooCommerce retail i niche shopovi',
+    launchRange: '1.800 - 5.000€',
+    monthlyRange: '350 - 1.400€ / mes',
+    focus: 'Katalog, checkout optimizacija i performance pod opterecenjem.',
+  },
+  {
+    segment: 'Multi-location i franšizni sistemi',
+    launchRange: '2.500 - 7.000€',
+    monthlyRange: '500 - 1.800€ / mes',
+    focus: 'Više lokacija, napredne forme i centralizovan sadržaj.',
+  },
+]
+
 const factors = [
   {
     title: 'Template ili custom dizajn',
@@ -86,6 +159,38 @@ const recurringCosts = [
     yearly: '1.440 - 6.000€',
     note: 'Posle launch-a najviše vrednosti dolazi iz iteracija headline-a, CTA elemenata i landing sekcija.',
   },
+]
+
+const maintenanceTiers = [
+  {
+    name: 'Basic Care',
+    range: '70 - 120€ / mes',
+    description: 'Za manje poslovne sajtove kojima su prioritet redovni update-i, backup i uptime monitoring.',
+  },
+  {
+    name: 'Growth Care',
+    range: '150 - 350€ / mes',
+    description: 'Za lead-gen sajtove gde uz maintenance ulaze tehnički SEO check-ovi i manje CRO iteracije.',
+  },
+  {
+    name: 'E-commerce Care',
+    range: '250 - 650€ / mes',
+    description: 'Za WooCommerce projekte sa kontrolom checkout toka, performansi i hitnim intervencijama.',
+  },
+  {
+    name: 'SLA + Dev sprint',
+    range: '500 - 1.200€ / mes',
+    description: 'Za biznise kojima je sajt direktan prihod i potreban je prioritetni razvojni slot.',
+  },
+]
+
+const handoverDeliverables = [
+  'Admin pristupi i vlasnistvo nad svim nalozima',
+  'Backup + restore procedura koju tim moze da prati',
+  'Lista plugin licenci i datuma obnove',
+  'GA4/GTM mapa dogadjaja i konverzija',
+  'Kratko editor uputstvo za izmene sadrzaja',
+  '90-dnevni backlog prioriteta posle launch-a',
 ]
 
 const quoteSteps = [
@@ -192,7 +297,7 @@ export default function IzradaWordpressSajtaCenaPage() {
 
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[1100px] mx-auto">
-          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-10 text-center">Paketi po fazama i potrebama</h2>
+          <h2 id="project-tiers" className="text-[26px] md:text-[34px] font-medium text-ink mb-10 text-center">Paketi po fazama i potrebama</h2>
           <p className="text-[14px] text-ink-3 leading-relaxed text-center mb-8 max-w-[760px] mx-auto">
             Ako planiraš i budžet za akviziciju odmah posle launch-a, pogledaj i{' '}
             <Link to="/google-reklame-cena" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
@@ -226,8 +331,80 @@ export default function IzradaWordpressSajtaCenaPage() {
       </section>
 
       <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[980px] mx-auto">
+          <h2 id="pricing-models" className="text-[24px] md:text-[32px] font-medium text-ink mb-6 text-center">Modeli naplate WordPress projekta</h2>
+          <p className="text-[14px] text-ink-3 leading-relaxed text-center mb-8 max-w-[760px] mx-auto">
+            Dve ponude sa istom "finalnom cenom" mogu imati potpuno drugaciji rizik i obim. Zato je vazno da pre ugovaranja jasno znas i model naplate, ne samo brojku na ponudi.
+          </p>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {pricingModels.map((model) => (
+              <div key={model.name} className="bg-panel rounded-[16px] border border-edge p-5 md:p-6">
+                <div className="text-[12px] uppercase tracking-wider text-ink-4 mb-2">{model.range}</div>
+                <h3 className="text-[18px] font-medium text-ink mb-2">{model.name}</h3>
+                <p className="text-[14px] text-ink-2 leading-relaxed">{model.description}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[980px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
+          <h2 id="delivery-timelines" className="text-[22px] md:text-[28px] font-medium text-ink mb-4">Tipicni rokovi izrade po obimu projekta</h2>
+          <p className="text-[14px] text-ink-3 leading-relaxed mb-6 max-w-[820px]">
+            Najveci problem kod WordPress ponuda je "rok po osecaju". Ovi rasponi sluze kao realan benchmark da lakse prepoznas da li je plan isporuke odrziv.
+          </p>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {deliveryTimelines.map((item) => (
+              <div key={item.project} className="rounded-[14px] border border-edge bg-bg p-4">
+                <div className="text-[12px] uppercase tracking-wider text-ink-4 mb-2">{item.timeline}</div>
+                <h3 className="text-[16px] font-medium text-ink mb-1">{item.project}</h3>
+                <p className="text-[13px] text-ink-2 leading-relaxed">{item.note}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[980px] mx-auto">
+          <h2 id="business-type-benchmarks" className="text-[24px] md:text-[32px] font-medium text-ink mb-6 text-center">Raspon cene po tipu biznisa</h2>
+          <p className="text-[14px] text-ink-3 leading-relaxed text-center mb-8 max-w-[780px] mx-auto">
+            Ovi benchmark rasponi pomažu da proceniš da li je ponuda realna za tvoj model prodaje. Ako radiš lokalni servisni biznis,
+            uporedi i sa{' '}
+            <Link to="/marketing-za-stomatologe" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+              lokalnim lead-gen pristupom
+            </Link>{' '}
+            ili sa{' '}
+            <Link to="/cene-digitalnog-marketinga" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+              kompletnim budžetom digitalnog marketinga
+            </Link>{' '}
+            da ne planiraš sajt izolovano od akvizicije.
+          </p>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {businessTypeBenchmarks.map((benchmark) => (
+              <div key={benchmark.segment} className="bg-panel rounded-[16px] border border-edge p-5 md:p-6">
+                <h3 className="text-[17px] font-medium text-ink mb-3">{benchmark.segment}</h3>
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-3">
+                  <div className="rounded-[10px] border border-edge/70 bg-bg px-3 py-2">
+                    <div className="text-[11px] uppercase tracking-wider text-ink-4 mb-1">Launch</div>
+                    <div className="text-[14px] font-medium text-ink">{benchmark.launchRange}</div>
+                  </div>
+                  <div className="rounded-[10px] border border-edge/70 bg-bg px-3 py-2">
+                    <div className="text-[11px] uppercase tracking-wider text-ink-4 mb-1">Operativno</div>
+                    <div className="text-[14px] font-medium text-ink">{benchmark.monthlyRange}</div>
+                  </div>
+                </div>
+                <p className="text-[13px] text-ink-2 leading-relaxed">{benchmark.focus}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[760px] mx-auto">
-          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-10 text-center">Od čega zavisi cena WordPress sajta?</h2>
+          <h2 id="cost-drivers" className="text-[26px] md:text-[34px] font-medium text-ink mb-10 text-center">Od cega zavisi cena WordPress sajta?</h2>
           <div className="space-y-8">
             {factors.map(f => (
               <div key={f.title}>
@@ -252,7 +429,7 @@ export default function IzradaWordpressSajtaCenaPage() {
 
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[980px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
-          <h2 className="text-[22px] md:text-[28px] font-medium text-ink mb-4">Koliko košta WordPress sajt mesečno nakon izrade?</h2>
+          <h2 id="recurring-costs" className="text-[22px] md:text-[28px] font-medium text-ink mb-4">Koliko kosta WordPress sajt mesecno nakon izrade?</h2>
           <p className="text-[15px] text-ink-2 leading-relaxed mb-6">
             Većina firmi planira samo početni trošak izrade, a preskoči operativni deo koji direktno utiče na stabilnost i rast sajta.
             Zato pre ugovaranja gledajte i ukupni godišnji trošak vlasništva (TCO), ne samo cenu launch-a.
@@ -294,8 +471,27 @@ export default function IzradaWordpressSajtaCenaPage() {
       </section>
 
       <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[980px] mx-auto">
+          <h2 id="maintenance-tiers" className="text-[24px] md:text-[32px] font-medium text-ink mb-6 text-center">Paketi odrzavanja posle launch-a</h2>
+          <p className="text-[14px] text-ink-3 leading-relaxed text-center mb-8 max-w-[760px] mx-auto">
+            Kada sajt pocne da donosi upite ili prodaju, maintenance vise nije "tehnicki trosak" nego osiguranje prihoda. Ovi rasponi pomazu da izaberes nivo podrške prema riziku koji nosi tvoj biznis model.
+          </p>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {maintenanceTiers.map((tier) => (
+              <div key={tier.name} className="bg-panel rounded-[16px] border border-edge p-5 md:p-6">
+                <div className="text-[12px] uppercase tracking-wider text-ink-4 mb-2">{tier.range}</div>
+                <h3 className="text-[18px] font-medium text-ink mb-2">{tier.name}</h3>
+                <p className="text-[14px] text-ink-2 leading-relaxed">{tier.description}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[760px] mx-auto">
-          <h2 id="tip-sajta" className="text-[22px] md:text-[30px] font-medium text-ink mb-8 text-center">Kako izgleda transparentna WordPress ponuda</h2>
+          <h2 id="howto-transparent-offer" className="text-[22px] md:text-[30px] font-medium text-ink mb-8 text-center">Kako izgleda transparentna WordPress ponuda</h2>
+          <span id="tip-sajta" className="block h-0 overflow-hidden" aria-hidden="true" />
           <span id="scope-funkcionalnosti" className="block h-0 overflow-hidden" aria-hidden="true" />
           <span id="tco-plan" className="block h-0 overflow-hidden" aria-hidden="true" />
           <span id="post-launch-plan" className="block h-0 overflow-hidden" aria-hidden="true" />
@@ -315,7 +511,24 @@ export default function IzradaWordpressSajtaCenaPage() {
 
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[760px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
-          <h2 className="text-[22px] md:text-[26px] font-medium text-ink mb-5">Najčešće greške pri izboru izvođača</h2>
+          <h2 id="handover-deliverables" className="text-[22px] md:text-[28px] font-medium text-ink mb-5">Sta mora da bude deo handover-a</h2>
+          <p className="text-[14px] text-ink-3 leading-relaxed mb-5">
+            Ako ove stavke nisu eksplicitno predate, maintenance obicno postaje skuplji vec u prvih 60 dana. Trazi ih kao deo finalne isporuke.
+          </p>
+          <ul className="space-y-3">
+            {handoverDeliverables.map((item, index) => (
+              <li key={item} className="rounded-[12px] border border-edge/70 bg-bg px-4 py-3 text-[14px] text-ink-2 leading-relaxed flex items-start gap-3">
+                <span className="text-ink-4 text-[12px] mt-[2px]">{index + 1}.</span>
+                <span>{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </section>
+
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[760px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
+          <h2 id="common-mistakes" className="text-[22px] md:text-[26px] font-medium text-ink mb-5">Najčešće greške pri izboru izvođača</h2>
           <div className="space-y-6">
             {mistakes.map((m, i) => (
               <div key={m.title}>
@@ -329,7 +542,7 @@ export default function IzradaWordpressSajtaCenaPage() {
 
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[760px] mx-auto">
-          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-10 text-center">Česta pitanja</h2>
+          <h2 id="faq" className="text-[26px] md:text-[34px] font-medium text-ink mb-10 text-center">Česta pitanja</h2>
           <div className="space-y-5">
             {faqs.map(f => (
               <details key={f.q} className="group bg-panel rounded-[14px] border border-edge">
@@ -416,31 +629,6 @@ export default function IzradaWordpressSajtaCenaPage() {
         </div>
       </section>
 
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify({
-            '@context': 'https://schema.org',
-            '@graph': [
-              {
-                '@type': 'FAQPage',
-                mainEntity: faqs.map(f => ({
-                  '@type': 'Question',
-                  name: f.q,
-                  acceptedAnswer: { '@type': 'Answer', text: f.a },
-                })),
-              },
-              {
-                '@type': 'BreadcrumbList',
-                itemListElement: [
-                  { '@type': 'ListItem', position: 1, name: 'Početna', item: 'https://platinumzenith.com/' },
-                  { '@type': 'ListItem', position: 2, name: 'Izrada WordPress sajta cena', item: 'https://platinumzenith.com/izrada-wordpress-sajta-cena' },
-                ],
-              },
-            ],
-          }),
-        }}
-      />
 
     </div>
   )

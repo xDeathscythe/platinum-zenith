@@ -319,9 +319,9 @@ export default function FiksnaNaknadaVsRevenueSharePage() {
               <div className="text-[14px] font-medium text-ink mb-1">Agencija vs freelancer</div>
               <div className="text-[12px] text-ink-3">Kako da izaberete izvođača</div>
             </Link>
-            <Link to="/cene-digitalnog-marketinga" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
-              <div className="text-[14px] font-medium text-ink mb-1">Naši paketi</div>
-              <div className="text-[12px] text-ink-3">Starter, Growth, Enterprise</div>
+            <Link to="/in-house-tim-vs-agencija" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">In-house tim vs agencija</div>
+              <div className="text-[12px] text-ink-3">Uporedi fiksni trošak internog tima sa outsourcing modelom</div>
             </Link>
             <Link to="/google-reklame-cena" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
               <div className="text-[14px] font-medium text-ink mb-1">Google reklame cena</div>

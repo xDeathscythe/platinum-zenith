@@ -1,6 +1,6 @@
 import fs from 'fs'
 import path from 'path'
-import { blogPosts } from '../src/pages/blog/blogData.js'
+import { blogIndexPosts } from '../src/pages/blog/blogIndexData.js'
 
 const SITE_URL = 'https://platinumzenith.com'
 
@@ -20,7 +20,7 @@ function toRfc2822(dateValue) {
 }
 
 const publicPosts = [...new Map(
-  blogPosts
+  blogIndexPosts
     .filter((post) => post?.slug && !post?.isDraft)
     .map((post) => [post.slug, post]),
 ).values()]

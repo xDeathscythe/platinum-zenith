@@ -6,6 +6,7 @@ import Reveal from '../components/Reveal'
 const B = import.meta.env.BASE_URL
 const heroHomeDark = `${B}hero-home-dark.webp`
 const heroHomeLight = `${B}hero-home-light.webp`
+const SITE_URL = 'https://platinumzenith.com'
 
 const studies = [
   {
@@ -60,6 +61,56 @@ const colorMap = {
 }
 
 export default function CaseStudiesPage() {
+  const caseStudiesJsonLd = {
+    '@context': 'https://schema.org',
+    '@graph': [
+      {
+        '@type': 'CollectionPage',
+        '@id': `${SITE_URL}/case-studies#webpage`,
+        url: `${SITE_URL}/case-studies`,
+        name: 'Studije slučaja | Platinum Zenith',
+        inLanguage: 'sr-RS',
+        isPartOf: { '@id': `${SITE_URL}#website` },
+        about: { '@id': `${SITE_URL}#organization` },
+        breadcrumb: { '@id': `${SITE_URL}/case-studies#breadcrumb` },
+        mainEntity: { '@id': `${SITE_URL}/case-studies#itemlist` },
+      },
+      {
+        '@type': 'ItemList',
+        '@id': `${SITE_URL}/case-studies#itemlist`,
+        itemListElement: studies.map((study, index) => ({
+          '@type': 'ListItem',
+          position: index + 1,
+          url: `${SITE_URL}/case-studies#study-${index + 1}`,
+          item: {
+            '@type': 'CreativeWork',
+            name: `${study.client} — studija slučaja`,
+            description: study.solution,
+            about: study.industry,
+          },
+        })),
+      },
+      {
+        '@type': 'BreadcrumbList',
+        '@id': `${SITE_URL}/case-studies#breadcrumb`,
+        itemListElement: [
+          {
+            '@type': 'ListItem',
+            position: 1,
+            name: 'Početna',
+            item: `${SITE_URL}/`,
+          },
+          {
+            '@type': 'ListItem',
+            position: 2,
+            name: 'Studije slučaja',
+            item: `${SITE_URL}/case-studies`,
+          },
+        ],
+      },
+    ],
+  }
+
   return (
     <>
       <PageMeta title="Studije Slucaja" description="Studije slučaja sa realnim rezultatima klijenata: rast prihoda, niži trošak po kupovini i bolji ROI kroz digitalni marketing, web sajt i CRO optimizaciju." />
@@ -113,7 +164,7 @@ export default function CaseStudiesPage() {
             const c = colorMap[s.color]
             return (
               <Reveal key={s.client}>
-                <div className={`bg-panel rounded-[16px] p-8 md:p-10 border ${c.border}`}>
+                <div id={`study-${i + 1}`} className={`bg-panel rounded-[16px] p-8 md:p-10 border ${c.border}`}>
                   {/* Header */}
                   <div className="flex flex-col md:flex-row md:items-center md:justify-between mb-8 gap-3">
                     <div>
@@ -171,6 +222,11 @@ export default function CaseStudiesPage() {
           })}
         </div>
       </section>
+
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(caseStudiesJsonLd) }}
+      />
 
       <BottomCTA />
     </>

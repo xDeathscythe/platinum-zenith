@@ -7,9 +7,45 @@ import BottomCTA from '../components/BottomCTA'
 
 const heroHomeDark = `${import.meta.env.BASE_URL}hero-home-dark.webp`
 const heroHomeLight = `${import.meta.env.BASE_URL}hero-home-light.webp`
+const SITE_URL = 'https://platinumzenith.com'
 
 export default function AboutPage() {
   const [openItem, setOpenItem] = useState(null)
+
+  const aboutJsonLd = {
+    '@context': 'https://schema.org',
+    '@graph': [
+      {
+        '@type': 'AboutPage',
+        '@id': `${SITE_URL}/o-nama#webpage`,
+        url: `${SITE_URL}/o-nama`,
+        name: 'O nama | Platinum Zenith',
+        inLanguage: 'sr-RS',
+        description: 'Priča o nastanku Platinum Zenith agencije, modelu saradnje i rezultatima sa klijentima.',
+        isPartOf: { '@id': `${SITE_URL}#website` },
+        about: { '@id': `${SITE_URL}#organization` },
+        breadcrumb: { '@id': `${SITE_URL}/o-nama#breadcrumb` },
+      },
+      {
+        '@type': 'BreadcrumbList',
+        '@id': `${SITE_URL}/o-nama#breadcrumb`,
+        itemListElement: [
+          {
+            '@type': 'ListItem',
+            position: 1,
+            name: 'Početna',
+            item: `${SITE_URL}/`,
+          },
+          {
+            '@type': 'ListItem',
+            position: 2,
+            name: 'O nama',
+            item: `${SITE_URL}/o-nama`,
+          },
+        ],
+      },
+    ],
+  }
 
   const howItWorks = [
     {
@@ -253,6 +289,11 @@ export default function AboutPage() {
           </Reveal>
         </div>
       </section>
+
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(aboutJsonLd) }}
+      />
 
       {/* BottomCTA removed per Aco request */}
     </>

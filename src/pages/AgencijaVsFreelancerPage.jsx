@@ -280,9 +280,9 @@ export default function AgencijaVsFreelancerPage() {
               <div className="text-[14px] font-medium text-ink mb-1">Naši paketi</div>
               <div className="text-[12px] text-ink-3">Starter, Growth, Enterprise</div>
             </Link>
-            <Link to="/case-studies" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
-              <div className="text-[14px] font-medium text-ink mb-1">Case studies</div>
-              <div className="text-[12px] text-ink-3">Rezultati naših klijenata</div>
+            <Link to="/consulting" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Poslovni consulting</div>
+              <div className="text-[12px] text-ink-3">Kada vam treba strategija pre izbora tima</div>
             </Link>
             <Link to="/blog/kako-izabrati-pravu-marketing-agenciju" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
               <div className="text-[14px] font-medium text-ink mb-1">Kako izabrati agenciju</div>

@@ -130,9 +130,9 @@ export default function MarketingAgencijaBgPage() {
               <div className="text-[14px] font-medium text-ink mb-1">Cene digitalnog marketinga</div>
               <div className="text-[12px] text-ink-3">Koliko košta marketing mesečno</div>
             </Link>
-            <Link to="/blog/kako-izabrati-pravu-marketing-agenciju" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
-              <div className="text-[14px] font-medium text-ink mb-1">Kako izabrati agenciju</div>
-              <div className="text-[12px] text-ink-3">7 znakova za pravi izbor partnera</div>
+            <Link to="/consulting" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Marketing konsulting</div>
+              <div className="text-[12px] text-ink-3">1:1 plan rasta i prioriteti za BG tržište</div>
             </Link>
             <Link to="/google-reklame-cena" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
               <div className="text-[14px] font-medium text-ink mb-1">Google reklame cena</div>

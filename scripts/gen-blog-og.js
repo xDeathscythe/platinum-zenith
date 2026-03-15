@@ -1,5 +1,5 @@
 /**
- * Build-time script: extract public blog metadata from blogData.js
+ * Build-time script: extract public blog metadata from blog data/index
  * into a compact JSON file that server-side OG + Article schema injection can use.
  * Run after vite build (or before server start).
  */
@@ -7,18 +7,25 @@ import { writeFileSync } from 'fs'
 import { fileURLToPath } from 'url'
 import { dirname, join } from 'path'
 import { blogPosts } from '../src/pages/blog/blogData.js'
+import { blogIndexPosts } from '../src/pages/blog/blogIndexData.js'
 
 const __filename = fileURLToPath(import.meta.url)
 const __dir = dirname(__filename)
 const root = join(__dir, '..')
 
-const uniquePublicPosts = [...new Map(
-  blogPosts
+const publicIndexPosts = [...new Map(
+  blogIndexPosts
     .filter((post) => post?.slug && !post?.isDraft)
     .map((post) => [post.slug, post]),
 ).values()]
 
-const posts = uniquePublicPosts
+const ogImageBySlug = new Map(
+  blogPosts
+    .filter((post) => post?.slug && !post?.isDraft)
+    .map((post) => [post.slug, post.ogImage || null]),
+)
+
+const posts = publicIndexPosts
   .sort((a, b) => a.slug.localeCompare(b.slug))
   .map((post) => ({
     slug: post.slug,
@@ -27,7 +34,7 @@ const posts = uniquePublicPosts
     date: post.date || null,
     category: post.category || null,
     author: 'Aleksandar Nenadović',
-    ogImage: post.ogImage || null,
+    ogImage: ogImageBySlug.get(post.slug) || null,
   }))
 
 const outDir = join(root, 'server')

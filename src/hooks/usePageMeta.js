@@ -55,9 +55,9 @@ export default function usePageMeta() {
       const normalizedPath = pathname === '/' ? '/' : pathname.replace(/\/+$/, '')
       const shouldNoIndex = normalizedPath.startsWith('/draft/') || INTERNAL_NOINDEX_PATHS.has(normalizedPath)
 
+      const defaultRobots = 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1'
       const robotsTag = document.querySelector('meta[name="robots"]')
       if (robotsTag) {
-        const defaultRobots = 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1'
         robotsTag.setAttribute('content', shouldNoIndex ? 'noindex, nofollow' : defaultRobots)
       }
 
@@ -91,6 +91,13 @@ export default function usePageMeta() {
       const twDesc = document.querySelector('meta[name="twitter:description"]')
       if (twDesc) twDesc.setAttribute('content', meta.description)
 
+      const articlePublished = document.querySelector('meta[property="article:published_time"]')
+      const articleModified = document.querySelector('meta[property="article:modified_time"]')
+      const articleSection = document.querySelector('meta[property="article:section"]')
+      if (articlePublished) articlePublished.setAttribute('content', '')
+      if (articleModified) articleModified.setAttribute('content', '')
+      if (articleSection) articleSection.setAttribute('content', '')
+
       setJsonLd('ld-org', orgSchema)
       setJsonLd('ld-local-business', localBusinessSchema)
       if (pathname === '/') setJsonLd('ld-website', websiteSchema)
@@ -113,10 +120,26 @@ export default function usePageMeta() {
           const post = blogPosts.find(p => p.slug === blogMatch[1])
           if (post) {
             document.title = `${post.title} | Platinum Zenith Blog`
-            if (descTag) descTag.setAttribute('content', post.excerpt)
+            const postDescription = post.excerpt || meta.description
+            const postImage = post.ogImage
+              || (post.image
+                ? (post.image.startsWith('http') ? post.image : `${SITE_URL}${post.image}`)
+                : `${SITE_URL}/og-image.jpg`)
+            const postImageAlt = post.ogImageAlt || `${post.title} | Platinum Zenith`
+
+            if (descTag) descTag.setAttribute('content', postDescription)
             if (ogTitle) ogTitle.setAttribute('content', post.title)
-            if (ogDesc) ogDesc.setAttribute('content', post.excerpt)
-            if (robotsTag && post.isDraft) robotsTag.setAttribute('content', 'noindex, nofollow')
+            if (ogDesc) ogDesc.setAttribute('content', postDescription)
+            if (ogImage) ogImage.setAttribute('content', postImage)
+            if (ogImageAlt) ogImageAlt.setAttribute('content', postImageAlt)
+            if (twTitle) twTitle.setAttribute('content', post.title)
+            if (twDesc) twDesc.setAttribute('content', postDescription)
+            if (twImage) twImage.setAttribute('content', postImage)
+            if (twImageAlt) twImageAlt.setAttribute('content', postImageAlt)
+            if (articlePublished) articlePublished.setAttribute('content', post.date || '')
+            if (articleModified) articleModified.setAttribute('content', post.updatedAt || post.date || '')
+            if (articleSection) articleSection.setAttribute('content', post.category || 'Blog')
+            if (robotsTag) robotsTag.setAttribute('content', post.isDraft ? 'noindex, nofollow' : defaultRobots)
 
             setJsonLd('ld-breadcrumb', {
               '@context': 'https://schema.org',

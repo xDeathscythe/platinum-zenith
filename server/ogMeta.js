@@ -248,7 +248,7 @@ const SERVER_ROUTE_SCHEMAS = {
     '@type': 'Service',
     '@id': `${SITE_URL}/google-reklame-cena#service`,
     name: 'Google Ads upravljanje kampanjama',
-    description: 'Google Ads upravljanje sa jasnim budžetskim fazama, cenom vođenja kampanja i optimizacijom troška po leadu.',
+    description: 'Google reklame cena u Srbiji 2026: realni CPC i CPA po niši, budžeti po fazi rasta i cena vođenja Google Ads kampanja sa fokusom na profit, ne samo klikove.',
     serviceType: 'Google Ads management',
     url: `${SITE_URL}/google-reklame-cena`,
     areaServed: {
@@ -322,7 +322,7 @@ const SERVER_ROUTE_SCHEMAS = {
     '@type': 'Service',
     '@id': `${SITE_URL}/instagram-reklame-cena#service`,
     name: 'Instagram Ads upravljanje kampanjama',
-    description: 'Instagram Ads upravljanje sa jasnim budžetskim fazama, realnom cenom vođenja kampanja i fokusom na kvalitetne upite i prodaju.',
+    description: 'Instagram reklame cena u Srbiji 2026: CPC, CPM i CPA benchmark, Reels troškovi, preporučeni start budžet i cena vođenja kampanja pre skaliranja.',
     serviceType: 'Instagram advertising management',
     url: `${SITE_URL}/instagram-reklame-cena`,
     areaServed: {
@@ -396,7 +396,7 @@ const SERVER_ROUTE_SCHEMAS = {
     '@type': 'Service',
     '@id': `${SITE_URL}/izrada-wordpress-sajta-cena#service`,
     name: 'Izrada WordPress sajta',
-    description: 'Izrada WordPress sajta i WooCommerce shopa sa jasnim rasponima cena, rokovima, planom isporuke i mesečnim operativnim troškovima.',
+    description: 'Izrada WordPress sajta cena u Srbiji 2026: raspon za prezentacione i WooCommerce projekte, rokovi i održavanje, uz jasnu cenu bez skrivenih troškova.',
     serviceType: 'WordPress web development',
     url: `${SITE_URL}/izrada-wordpress-sajta-cena`,
     areaServed: {
@@ -594,7 +594,7 @@ const SERVER_ROUTE_SCHEMAS = {
     '@context': 'https://schema.org',
     '@type': 'Service',
     name: 'SEO optimizacija cena',
-    description: 'SEO optimizacija sa jasnim paketima, tehničkim auditom, planom sadržaja i mesečnim optimizacijama za rast organskog saobraćaja.',
+    description: 'Cene SEO optimizacije u Srbiji 2026: koliko košta lokalni SEO, content i link building, koji paket ima smisla po fazi rasta i kako da procenite realan ROI.',
     serviceType: 'SEO services',
     url: `${SITE_URL}/seo-optimizacija-cena`,
     areaServed: {
@@ -841,7 +841,7 @@ const ogMeta = {
   },
   '/seo-optimizacija-cena': {
     title: 'Koliko Košta SEO Optimizacija u Srbiji 2026 | Cene SEO | Platinum Zenith',
-    description: 'Realne cene SEO optimizacije u Srbiji: osnovni paketi od 300€, napredni od 500€ i premium od 1.200€ mesečno, uz audit sajta i plan rasta pozicija.',
+    description: 'Cene SEO optimizacije u Srbiji 2026: koliko košta lokalni SEO, content i link building, koji paket ima smisla po fazi rasta i kako da procenite realan ROI.',
     ogImage: `${SITE_URL}/pz-og.jpg`,
     ogImageAlt: 'SEO optimizacija cena u Srbiji 2026 - vodič kroz pakete',
   },
@@ -853,7 +853,7 @@ const ogMeta = {
   },
   '/cene-izrade-sajta': {
     title: 'Koliko Košta Izrada Sajta u Srbiji 2026 | Cene i Vodič | Platinum Zenith',
-    description: 'Realne cene izrade sajta u Srbiji za 2026. Prezentacioni sajt od 300€, poslovni od 800€, web shop od 1.500€. Vodič kroz cene bez skrivenih troškova.',
+    description: 'Cene izrade sajta u Srbiji 2026: prezentacioni, poslovni i web shop paketi, rokovi isporuke, održavanje i troškovi koji se najčešće prećute u ponudi.',
     ogImage: `${SITE_URL}/pz-og.jpg`,
     ogImageAlt: 'Koliko košta izrada sajta u Srbiji - cenovni vodič 2026',
   },
@@ -863,7 +863,7 @@ const ogMeta = {
   },
   '/cene-digitalnog-marketinga': {
     title: 'Koliko Košta Digitalni Marketing u Srbiji 2026 | Cene i Vodič | Platinum Zenith',
-    description: 'Realne cene digitalnog marketinga u Srbiji za 2026. Mesečni paketi od 300€, SEO od 200€, Google Ads od 200€. Vodič kroz troškove po usluzi.',
+    description: 'Cene digitalnog marketinga u Srbiji 2026: mesečni budžeti za SEO, Google Ads i Meta Ads, šta ulazi u agencijski fee i kako da planirate profitabilan rast.',
     ogImage: `${SITE_URL}/pz-og.jpg`,
     ogImageAlt: 'Cene digitalnog marketinga u Srbiji 2026 - pregled usluga',
   },
@@ -881,25 +881,25 @@ const ogMeta = {
   },
   '/koliko-kosta-facebook-reklama': {
     title: 'Koliko Košta Facebook Reklama u Srbiji 2026 | Vodič Kroz Cene | Platinum Zenith',
-    description: 'Realne cene Facebook i Instagram oglasa u Srbiji za 2026. CPC od 0,05€, mesečni budžet od 200€. Vodič kroz troškove i česte greške.',
+    description: 'Koliko košta Facebook reklama u Srbiji 2026: realni CPC/CPM/CPA rasponi, početni budžeti, cena vođenja kampanja i greške koje najskuplje podižu trošak.',
     ogImage: `${SITE_URL}/pz-og.jpg`,
     ogImageAlt: 'Koliko košta Facebook reklama u Srbiji - vodič kroz troškove',
   },
   '/google-reklame-cena': {
     title: 'Google Reklame Cena 2026 + Vođenje Kampanja | Platinum Zenith',
-    description: 'Koliko koštaju Google reklame i vođenje Google Ads kampanja u Srbiji 2026: CPC rasponi, budžeti po fazama rasta i realna cena upravljanja.',
+    description: 'Google reklame cena u Srbiji 2026: realni CPC i CPA po niši, budžeti po fazi rasta i cena vođenja Google Ads kampanja sa fokusom na profit, ne samo klikove.',
     ogImage: `${SITE_URL}/pz-og.jpg`,
     ogImageAlt: 'Google reklame cena u Srbiji 2026 - vodič Platinum Zenith',
   },
   '/instagram-reklame-cena': {
     title: 'Instagram Reklame Cena 2026 + Vođenje Kampanja | Platinum Zenith',
-    description: 'Koliko koštaju Instagram reklame, Reels oglasi i vođenje Instagram Ads kampanja u Srbiji 2026: CPC, CPM, budžeti po fazama rasta i realna cena upravljanja.',
+    description: 'Instagram reklame cena u Srbiji 2026: CPC, CPM i CPA benchmark, Reels troškovi, preporučeni start budžet i cena vođenja kampanja pre skaliranja.',
     ogImage: `${SITE_URL}/pz-og.jpg`,
     ogImageAlt: 'Instagram reklame cena u Srbiji 2026 - vodič Platinum Zenith',
   },
   '/izrada-wordpress-sajta-cena': {
     title: 'Izrada WordPress Sajta Cena u Srbiji 2026 | Platinum Zenith',
-    description: 'Cena izrade WordPress sajta u Srbiji 2026: paketi za prezentacione i WooCommerce sajtove, rokovi, održavanje i realni skriveni troškovi.',
+    description: 'Izrada WordPress sajta cena u Srbiji 2026: raspon za prezentacione i WooCommerce projekte, rokovi i održavanje, uz jasnu cenu bez skrivenih troškova.',
     ogImage: `${SITE_URL}/pz-og.jpg`,
     ogImageAlt: 'Izrada WordPress sajta cena u Srbiji 2026 - vodič Platinum Zenith',
   },

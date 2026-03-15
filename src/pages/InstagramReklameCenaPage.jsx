@@ -74,6 +74,29 @@ const managementPricing = [
   },
 ]
 
+const pricingModels = [
+  {
+    model: 'Fiksna mesečna naknada',
+    range: '200 - 650€ + medijski budžet',
+    when: 'Najbolje za firme kojima treba predvidljiv mesečni trošak i jasan scope optimizacije.',
+  },
+  {
+    model: 'Procenat od medijskog budžeta',
+    range: '8% - 15% ad spend-a',
+    when: 'Najčešće kod naloga koji brzo skaliraju i imaju više kampanja po funnel-u.',
+  },
+  {
+    model: 'Hibrid (fiksno + procenat)',
+    range: '180 - 450€ + 5% - 10% spend-a',
+    when: 'Dobar balans kada postoje i operativni minimum i agresivni periodi skaliranja.',
+  },
+  {
+    model: 'Performance bonus',
+    range: 'Fiksna baza + bonus po CPA/ROAS cilju',
+    when: 'Ima smisla samo kada su tracking, attribution i ownership KPI-jeva jasno dogovoreni.',
+  },
+]
+
 const metrics = [
   {
     metric: 'CPC (Srbija)',
@@ -270,6 +293,17 @@ const relatedPosts = [
   .map((slug) => blogIndexPosts.find((post) => post.slug === slug))
   .filter(Boolean)
 
+const nicheInstagramGuides = [
+  'instagram-reklame-za-autoservise-cena-upita-srbija-2026',
+  'instagram-reklame-za-restorane-cena-rezervacije-srbija-2026',
+  'instagram-reklame-za-stomatologe-cena-termina-srbija-2026',
+  'instagram-reklame-za-advokate-cena-klijenta-srbija-2026',
+  'vodjenje-instagram-ads-kampanja-cena-srbija-2026',
+  'instagram-reklame-cena-po-kliku-srbija-2026',
+]
+  .map((slug) => blogIndexPosts.find((post) => post.slug === slug))
+  .filter(Boolean)
+
 export default function InstagramReklameCenaPage() {
   usePageMeta()
 
@@ -293,7 +327,7 @@ export default function InstagramReklameCenaPage() {
 
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div id="test-budzet" className="max-w-[1100px] mx-auto">
-          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-10 text-center">Budžeti po fazama</h2>
+          <h2 id="budget-tiers" className="text-[26px] md:text-[34px] font-medium text-ink mb-10 text-center">Budžeti po fazama</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-5 items-stretch">
             {budgetTiers.map(t => (
               <div key={t.name} className="bg-panel rounded-[20px] border border-edge p-6 md:p-8 flex flex-col min-h-[340px]">
@@ -345,7 +379,7 @@ export default function InstagramReklameCenaPage() {
 
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[920px] mx-auto">
-          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-4 text-center">Vođenje Instagram Ads kampanja — cena upravljanja</h2>
+          <h2 id="management-models" className="text-[26px] md:text-[34px] font-medium text-ink mb-4 text-center">Vođenje Instagram Ads kampanja — cena upravljanja</h2>
           <p className="text-[15px] text-ink-3 text-center mb-10 max-w-[700px] mx-auto">
             Pored medijskog budžeta, ključna stavka je cena vođenja kampanja. Rasponi ispod su realni za srpsko tržište u 2026. i pomažu da procenite da li je ponuda održiva.
           </p>
@@ -362,6 +396,19 @@ export default function InstagramReklameCenaPage() {
             ))}
           </div>
 
+          <div id="pricing-models" className="mt-6 bg-panel rounded-[16px] border border-edge p-5 md:p-6">
+            <h3 className="text-[18px] font-medium text-ink mb-4">Modeli naplate vođenja Instagram kampanja</h3>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              {pricingModels.map((item) => (
+                <div key={item.model} className="rounded-[12px] border border-edge bg-page p-4">
+                  <div className="text-[15px] font-medium text-ink mb-1">{item.model}</div>
+                  <div className="text-[13px] text-ink mb-2">{item.range}</div>
+                  <div className="text-[12px] text-ink-3 leading-relaxed">{item.when}</div>
+                </div>
+              ))}
+            </div>
+          </div>
+
           <p className="text-[14px] text-ink-3 leading-relaxed mt-8 text-center max-w-[700px] mx-auto">
             Za detaljniji benchmark troška klika i creative performansi pogledajte i
             {' '}
@@ -374,7 +421,7 @@ export default function InstagramReklameCenaPage() {
 
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[900px] mx-auto">
-          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-4 text-center">Benchmark za srpsko tržište</h2>
+          <h2 id="market-benchmarks" className="text-[26px] md:text-[34px] font-medium text-ink mb-4 text-center">Benchmark za srpsko tržište</h2>
           <p className="text-[15px] text-ink-3 text-center mb-10 max-w-[620px] mx-auto">
             Ovi rasponi su praktičan orijentir da znate da li je kampanja u zdravoj zoni ili traži ozbiljnu optimizaciju.
           </p>
@@ -438,7 +485,7 @@ export default function InstagramReklameCenaPage() {
 
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[980px] mx-auto">
-          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-4 text-center">Instagram Reels reklame cena u Srbiji (2026)</h2>
+          <h2 id="placement-benchmarks" className="text-[26px] md:text-[34px] font-medium text-ink mb-4 text-center">Instagram Reels reklame cena u Srbiji (2026)</h2>
           <p className="text-[15px] text-ink-3 text-center mb-10 max-w-[760px] mx-auto">
             Reels je često najbrži način da se spusti cena po kliku, ali samo kada su prva sekunda i poruka jasne. Ovi rasponi pomažu da proceniš da li su kampanje zdrave po placement-u.
           </p>
@@ -482,7 +529,7 @@ export default function InstagramReklameCenaPage() {
 
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[980px] mx-auto">
-          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-4 text-center">Instagram vs Facebook raspodela budžeta (praktični scenariji)</h2>
+          <h2 id="split-scenarios" className="text-[26px] md:text-[34px] font-medium text-ink mb-4 text-center">Instagram vs Facebook raspodela budžeta (praktični scenariji)</h2>
           <p className="text-[15px] text-ink-3 text-center mb-10 max-w-[780px] mx-auto">
             Jedna od najskupljih grešaka je da ceo Meta budžet završi na jednom placement-u. Ovi scenariji daju početni okvir raspodele koji se zatim koriguje po stvarnim rezultatima kampanje.
           </p>
@@ -517,7 +564,7 @@ export default function InstagramReklameCenaPage() {
           </div>
 
           <div className="mt-8 bg-panel rounded-[16px] border border-edge p-5 md:p-6">
-            <h3 className="text-[17px] font-medium text-ink mb-4">Pravila za skaliranje bez rasipanja budžeta</h3>
+            <h3 id="split-rules" className="text-[17px] font-medium text-ink mb-4">Pravila za skaliranje bez rasipanja budžeta</h3>
             <ul className="space-y-3">
               {splitRules.map(rule => (
                 <li key={rule} className="flex items-start gap-2 text-[14px] text-ink-2 leading-relaxed">
@@ -565,7 +612,7 @@ export default function InstagramReklameCenaPage() {
 
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[760px] mx-auto">
-          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-10 text-center">5 grešaka koje dižu trošak</h2>
+          <h2 id="cost-mistakes" className="text-[26px] md:text-[34px] font-medium text-ink mb-10 text-center">5 grešaka koje dižu trošak</h2>
           <div className="space-y-8">
             {mistakes.map((m, i) => (
               <div key={m.title}>
@@ -592,7 +639,7 @@ export default function InstagramReklameCenaPage() {
 
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[760px] mx-auto">
-          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-10 text-center">Česta pitanja</h2>
+          <h2 id="faq" className="text-[26px] md:text-[34px] font-medium text-ink mb-10 text-center">Česta pitanja</h2>
           <div className="space-y-5">
             {faqs.map(f => (
               <details key={f.q} className="group bg-panel rounded-[14px] border border-edge">
@@ -654,6 +701,28 @@ export default function InstagramReklameCenaPage() {
               <div className="text-[14px] font-medium text-ink mb-1">Cene digitalnog marketinga</div>
               <div className="text-[12px] text-ink-3">Širi pregled troškova po kanalu</div>
             </Link>
+          </div>
+        </div>
+      </section>
+
+      <section className="px-4 md:px-8 pb-12 md:pb-16">
+        <div className="max-w-[980px] mx-auto">
+          <h2 className="text-[22px] md:text-[28px] font-medium text-ink mb-4 text-center">Instagram Ads vodiči po nišama</h2>
+          <p className="text-[14px] text-ink-3 leading-relaxed text-center mb-8 max-w-[760px] mx-auto">
+            Ako želiš precizniji benchmark po industriji, otvori nišni vodič ispod. Svaki članak je vezan za cenu upita/rezervacije i konkretne greške koje najviše dižu trošak kampanje.
+          </p>
+
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+            {nicheInstagramGuides.map((post) => (
+              <Link
+                key={post.slug}
+                to={`/blog/${post.slug}`}
+                className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors"
+              >
+                <div className="text-[14px] font-medium text-ink mb-2 line-clamp-2">{post.title}</div>
+                <div className="text-[12px] text-ink-3 line-clamp-3">{post.excerpt}</div>
+              </Link>
+            ))}
           </div>
         </div>
       </section>

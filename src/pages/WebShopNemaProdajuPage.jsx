@@ -82,7 +82,7 @@ export default function WebShopNemaProdajuPage() {
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[800px] mx-auto space-y-10">
           {reasons.map(r => (
-            <div key={r.num} className="bg-panel rounded-[20px] border border-edge p-6 md:p-8">
+            <div id={`razlog-${r.num}`} key={r.num} className="bg-panel rounded-[20px] border border-edge p-6 md:p-8">
               <div className="flex items-start gap-4 mb-5">
                 <span className="flex-shrink-0 text-[32px] font-bold text-ink/10">{r.num}</span>
                 <h2 className="text-[20px] md:text-[24px] font-medium text-ink leading-tight">{r.title}</h2>
@@ -110,7 +110,7 @@ export default function WebShopNemaProdajuPage() {
       {/* Quick wins */}
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[800px] mx-auto">
-          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-4 text-center">6 brzih popravki koje možete uraditi danas</h2>
+          <h2 id="brze-popravke-web-shop" className="text-[26px] md:text-[34px] font-medium text-ink mb-4 text-center">6 brzih popravki koje možete uraditi danas</h2>
           <p className="text-[15px] text-ink-3 text-center mb-10 max-w-[600px] mx-auto">
             Pre nego što angažujete agenciju ili potrošite novac na oglase, probajte ove besplatne ili jeftine popravke.
           </p>
@@ -179,7 +179,7 @@ export default function WebShopNemaProdajuPage() {
       {/* FAQ */}
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[760px] mx-auto">
-          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-10 text-center">Česta pitanja</h2>
+          <h2 id="faq-web-shop-prodaja" className="text-[26px] md:text-[34px] font-medium text-ink mb-10 text-center">Česta pitanja</h2>
           <div className="space-y-5">
             {faqs.map(f => (
               <details key={f.q} className="group bg-panel rounded-[14px] border border-edge">
@@ -211,27 +211,6 @@ export default function WebShopNemaProdajuPage() {
         </div>
       </section>
 
-      {/* JSON-LD: FAQPage + BreadcrumbList */}
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
-        "@context": "https://schema.org",
-        "@graph": [
-          {
-            "@type": "FAQPage",
-            "mainEntity": faqs.map(f => ({
-              "@type": "Question",
-              "name": f.q,
-              "acceptedAnswer": { "@type": "Answer", "text": f.a }
-            }))
-          },
-          {
-            "@type": "BreadcrumbList",
-            "itemListElement": [
-              { "@type": "ListItem", "position": 1, "name": "Početna", "item": "https://platinumzenith.com/" },
-              { "@type": "ListItem", "position": 2, "name": "Web shop nema prodaju", "item": "https://platinumzenith.com/web-shop-nema-prodaju" }
-            ]
-          }
-        ]
-      })}} />
     </div>
   )
 }

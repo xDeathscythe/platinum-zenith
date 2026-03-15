@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import PageMeta from '../components/PageMeta'
 import { motion, AnimatePresence } from '../components/Motion'
 import { Link } from 'react-router-dom'
 import Reveal from '../components/Reveal'
@@ -163,33 +162,8 @@ function FAQItem({ question, answer, index }) {
 }
 
 export default function FAQPage() {
-  // Generate FAQ + breadcrumb structured data for Google rich results
-  const faqSchema = {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "FAQPage",
-        "mainEntity": faqData.flatMap(cat => cat.questions.map(q => ({
-          "@type": "Question",
-          "name": q.q,
-          "acceptedAnswer": { "@type": "Answer", "text": q.a }
-        })))
-      },
-      {
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Početna", "item": "https://platinumzenith.com/" },
-          { "@type": "ListItem", "position": 2, "name": "FAQ", "item": "https://platinumzenith.com/faq" }
-        ]
-      }
-    ]
-  }
-
   return (
     <>
-      {/* FAQ Schema for Google */}
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
-
       {/* Hero */}
       <section className="relative flex flex-col items-center text-center pt-[200px] md:pt-[260px] pb-[80px] md:pb-[120px] px-4 md:px-8 overflow-hidden min-h-[70vh]">
         <div className="absolute inset-0 z-0">

@@ -72,6 +72,13 @@ const hiddenCosts = [
   { title: 'Izrada landing stranica', text: 'Kampanja bez landing stranice je bacanje novca. Ako agencija vodi Google Ads ali vam ne pravi landing stranicu na koju vodi trafik, rezultati će biti slabi. Proverte da li je ovo uključeno.' },
 ]
 
+const budgetPlanningSteps = [
+  'Postavite cilj prihoda i broj novih upita/prodaja koje želite mesečno.',
+  'Odredite maksimalni prihvatljiv trošak po upitu (CPL) i po prodaji (CPA) koji ostavlja zdravu maržu.',
+  'Podelite budžet na test fazu (30-40%), stabilan kanal koji već radi (40-50%) i eksperimentisanje (10-20%).',
+  'Držite isti budžet minimum 90 dana da biste imali dovoljno podataka za ozbiljnu optimizaciju.',
+]
+
 const faqs = [
   { q: 'Koliko treba uložiti u marketing mesečno?', a: 'Za male firme u Srbiji, minimum koji ima smisla je 500-800€ mesečno (uključujući budžet za oglase). Ispod toga nemate dovoljno podataka da optimizujete kampanje. Za srednje firme, 1.500-3.000€ je realan raspon.' },
   { q: 'Kad se vide rezultati?', a: 'Plaćeni oglasi daju prve rezultate za 2-4 nedelje. SEO optimizacija zahteva 3-6 meseci za ozbiljnije pomake. Društvene mreže traže minimum 3 meseca konzistentnog rada da se vide efekti na prodaju.' },
@@ -106,7 +113,7 @@ export default function CeneDigitalnogMarketingaPage() {
       {/* Packages */}
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[1100px] mx-auto">
-          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-10 text-center">Mesečni paketi agencija u Srbiji</h2>
+          <h2 id="paketi-marketinga" className="text-[26px] md:text-[34px] font-medium text-ink mb-10 text-center">Mesečni paketi agencija u Srbiji</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-5 items-stretch">
             {packages.map(p => (
               <div key={p.name} className="bg-panel rounded-[20px] border border-edge p-6 md:p-8 flex flex-col min-h-[340px]">
@@ -131,7 +138,7 @@ export default function CeneDigitalnogMarketingaPage() {
       {/* Per-service breakdown */}
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[900px] mx-auto">
-          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-4 text-center">Cene po usluzi</h2>
+          <h2 id="cene-po-usluzi" className="text-[26px] md:text-[34px] font-medium text-ink mb-4 text-center">Cene po usluzi</h2>
           <p className="text-[15px] text-ink-3 text-center mb-10 max-w-[600px] mx-auto">
             Ako vam ne treba pun paket, evo koliko košta svaka usluga pojedinačno kad je naručujete od agencije u Srbiji.
           </p>
@@ -152,7 +159,7 @@ export default function CeneDigitalnogMarketingaPage() {
       {/* Hidden costs */}
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[760px] mx-auto">
-          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-10 text-center">Troškovi koje mnogi zaborave</h2>
+          <h2 id="skriveni-troskovi" className="text-[26px] md:text-[34px] font-medium text-ink mb-10 text-center">Troškovi koje mnogi zaborave</h2>
           <div className="space-y-8">
             {hiddenCosts.map(h => (
               <div key={h.title}>
@@ -164,10 +171,32 @@ export default function CeneDigitalnogMarketingaPage() {
         </div>
       </section>
 
+      {/* Budget planning */}
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[760px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
+          <h2 id="kako-odrediti-budzet" className="text-[22px] md:text-[26px] font-medium text-ink mb-4">Kako da odredite budžet bez nagađanja</h2>
+          <p className="text-[15px] text-ink-2 leading-relaxed mb-6">
+            Ako želite da marketing bude investicija, a ne trošak, budžet mora biti vezan za cilj prihoda i maržu — ne za osećaj. Ovaj okvir koristimo kao početnu kalkulaciju pre prve kampanje.
+          </p>
+          <span id="cilj-prihoda" className="block h-0 overflow-hidden" aria-hidden="true" />
+          <span id="maksimalni-cpl-cpa" className="block h-0 overflow-hidden" aria-hidden="true" />
+          <span id="raspodela-budzeta" className="block h-0 overflow-hidden" aria-hidden="true" />
+          <span id="period-optimizacije" className="block h-0 overflow-hidden" aria-hidden="true" />
+          <ol className="space-y-3">
+            {budgetPlanningSteps.map((step, idx) => (
+              <li key={step} className="flex items-start gap-3 text-[14px] text-ink-2 leading-relaxed">
+                <span className="h-6 w-6 rounded-full bg-ink/10 text-ink text-[12px] font-semibold flex items-center justify-center flex-shrink-0">{idx + 1}</span>
+                {step}
+              </li>
+            ))}
+          </ol>
+        </div>
+      </section>
+
       {/* Reality check */}
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[760px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
-          <h2 className="text-[22px] md:text-[26px] font-medium text-ink mb-5">Šta zapravo možete očekivati?</h2>
+          <h2 id="realna-ocekivanja" className="text-[22px] md:text-[26px] font-medium text-ink mb-5">Šta zapravo možete očekivati?</h2>
           <div className="text-[15px] text-ink-2 leading-relaxed space-y-4">
             <p>
               Marketing nije dugme koje pritisnete i sutra imate 50 novih klijenata. Firme koje to očekuju se razočaraju posle prvog meseca.
@@ -188,7 +217,7 @@ export default function CeneDigitalnogMarketingaPage() {
       {/* FAQ */}
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[760px] mx-auto">
-          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-10 text-center">Česta pitanja</h2>
+          <h2 id="faq-cene-marketinga" className="text-[26px] md:text-[34px] font-medium text-ink mb-10 text-center">Česta pitanja</h2>
           <div className="space-y-5">
             {faqs.map(f => (
               <details key={f.q} className="group bg-panel rounded-[14px] border border-edge">
@@ -253,27 +282,6 @@ export default function CeneDigitalnogMarketingaPage() {
         </div>
       </section>
 
-      {/* JSON-LD: FAQPage + BreadcrumbList */}
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
-        "@context": "https://schema.org",
-        "@graph": [
-          {
-            "@type": "FAQPage",
-            "mainEntity": faqs.map(f => ({
-              "@type": "Question",
-              "name": f.q,
-              "acceptedAnswer": { "@type": "Answer", "text": f.a }
-            }))
-          },
-          {
-            "@type": "BreadcrumbList",
-            "itemListElement": [
-              { "@type": "ListItem", "position": 1, "name": "Početna", "item": "https://platinumzenith.com/" },
-              { "@type": "ListItem", "position": 2, "name": "Cene digitalnog marketinga", "item": "https://platinumzenith.com/cene-digitalnog-marketinga" }
-            ]
-          }
-        ]
-      })}} />
     </div>
   )
 }

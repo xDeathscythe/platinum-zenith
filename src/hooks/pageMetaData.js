@@ -45,17 +45,17 @@ export const pageMeta = {
   '/industrije/saas': { title: 'SaaS Marketing za Rast MRR-a | Platinum Zenith', description: 'SaaS marketing za brži MRR rast: akvizicija korisnika, onboarding, aktivacija, retencija i smanjenje churn-a kroz full-funnel strategiju.', keywords: 'SaaS marketing, MRR rast, B2B marketing' },
   '/industrije/lokalni-biznisi': { title: 'Marketing za Lokalne Biznise | Platinum Zenith', description: 'Marketing za lokalne biznise: Google Business optimizacija, lokalni SEO, oglasi i kampanje koje dovode više poziva i upita.', keywords: 'lokalni marketing, lokalni SEO, Google Business' },
   '/marketing-agencija-beograd': { title: 'Marketing Agencija za Beograd | Digitalni Marketing | Platinum Zenith', description: 'Marketing agencija za Beograd: SEO, Google Ads, Meta Ads i landing stranice koje povećavaju kvalifikovane upite, uz mesečne izveštaje i jasan ROI po kanalu.', keywords: 'marketing agencija beograd, digitalni marketing beograd, seo beograd, izrada sajta beograd, google ads beograd' },
-  '/seo-optimizacija-cena': { title: 'Koliko Košta SEO Optimizacija u Srbiji 2026 | Cene SEO | Platinum Zenith', description: 'Realne cene SEO optimizacije u Srbiji: osnovni paketi od 300€, napredni od 500€ i premium od 1.200€ mesečno, uz audit sajta i plan rasta pozicija.', keywords: 'seo optimizacija cena, koliko košta seo, seo cena srbija, seo agencija cena, cena seo optimizacije' },
+  '/seo-optimizacija-cena': { title: 'Koliko Košta SEO Optimizacija u Srbiji 2026 | Cene SEO | Platinum Zenith', description: 'Cene SEO optimizacije u Srbiji 2026: koliko košta lokalni SEO, content i link building, koji paket ima smisla po fazi rasta i kako da procenite realan ROI.', keywords: 'seo optimizacija cena, koliko košta seo, seo cena srbija, seo agencija cena, cena seo optimizacije' },
   '/marketing-agencija-zrenjanin': { title: 'Marketing Agencija Zrenjanin | Digitalni Marketing | Platinum Zenith', description: 'Digitalni marketing u Zrenjaninu za lokalne firme: SEO, Google Ads, društvene mreže i optimizacija sajta koja donosi više poziva, upita i prodaja.', keywords: 'marketing agencija zrenjanin, digitalni marketing zrenjanin, izrada sajta zrenjanin, seo zrenjanin, web dizajn zrenjanin' },
-  '/cene-izrade-sajta': { title: 'Koliko Košta Izrada Sajta u Srbiji 2026 | Cene i Vodič | Platinum Zenith', description: 'Realne cene izrade sajta u Srbiji za 2026. Prezentacioni sajt od 300€, poslovni od 800€, web shop od 1.500€. Vodič kroz cene bez skrivenih troškova.', keywords: 'cena izrade sajta, koliko košta sajt, izrada sajta cena, web dizajn cena, izrada sajta srbija, cena web sajta' },
+  '/cene-izrade-sajta': { title: 'Koliko Košta Izrada Sajta u Srbiji 2026 | Cene i Vodič | Platinum Zenith', description: 'Cene izrade sajta u Srbiji 2026: prezentacioni, poslovni i web shop paketi, rokovi isporuke, održavanje i troškovi koji se najčešće prećute u ponudi.', keywords: 'cena izrade sajta, koliko košta sajt, izrada sajta cena, web dizajn cena, izrada sajta srbija, cena web sajta' },
   '/agencija-vs-freelancer': { title: 'Agencija ili Freelancer? Uporedni Vodič za 2026 | Platinum Zenith', description: 'Agencija vs freelancer: realno poređenje po ceni, kvalitetu, rokovima i pouzdanosti. Konkretni saveti za firme u Srbiji.', keywords: 'agencija vs freelancer, agencija ili freelancer, izrada sajta agencija, freelancer sajt, marketing agencija srbija, freelancer vs agencija cena' },
-  '/cene-digitalnog-marketinga': { title: 'Koliko Košta Digitalni Marketing u Srbiji 2026 | Cene i Vodič | Platinum Zenith', description: 'Realne cene digitalnog marketinga u Srbiji za 2026. Mesečni paketi od 300€, SEO od 200€, Google Ads od 200€. Vodič kroz troškove po usluzi.', keywords: 'cena digitalnog marketinga, koliko košta marketing, marketing agencija cena, SEO cena, Google Ads cena, Facebook Ads cena, digitalni marketing srbija' },
+  '/cene-digitalnog-marketinga': { title: 'Koliko Košta Digitalni Marketing u Srbiji 2026 | Cene i Vodič | Platinum Zenith', description: 'Cene digitalnog marketinga u Srbiji 2026: mesečni budžeti za SEO, Google Ads i Meta Ads, šta ulazi u agencijski fee i kako da planirate profitabilan rast.', keywords: 'cena digitalnog marketinga, koliko košta marketing, marketing agencija cena, SEO cena, Google Ads cena, Facebook Ads cena, digitalni marketing srbija' },
   '/marketing-agencija-novi-sad': { title: 'Marketing Agencija Novi Sad | Digitalni Marketing | Platinum Zenith', description: 'Marketing agencija za Novi Sad: SEO, Google Ads, Meta kampanje i web optimizacija za stabilan rast upita i prodaje uz transparentno praćenje budžeta.', keywords: 'marketing agencija novi sad, digitalni marketing novi sad, SEO novi sad, izrada sajta novi sad, google ads novi sad, marketing vojvodina' },
   '/web-shop-nema-prodaju': { title: 'Web Shop Nema Prodaju? 5 Razloga i Rešenja | Platinum Zenith', description: 'Vaš web shop ima posete, ali nema prodaju? Otkrivamo 5 najčešćih razloga, konkretna rešenja za svaki problem i korake za brže podizanje konverzije.', keywords: 'web shop nema prodaju, zašto web shop ne prodaje, online prodavnica bez prodaje, e-commerce konverzija, web shop optimizacija, checkout optimizacija' },
-  '/koliko-kosta-facebook-reklama': { title: 'Koliko Košta Facebook Reklama u Srbiji 2026 | Vodič Kroz Cene | Platinum Zenith', description: 'Realne cene Facebook i Instagram oglasa u Srbiji za 2026. CPC od 0,05€, mesečni budžet od 200€. Vodič kroz troškove i česte greške.', keywords: 'koliko košta facebook reklama, facebook oglasi cena, instagram oglasi cena srbija, facebook ads srbija, cena oglašavanja na facebooku, meta ads cena' },
-  '/google-reklame-cena': { title: 'Google Reklame Cena 2026 + Vo\u0111enje Kampanja | Platinum Zenith', description: 'Koliko ko\u0161taju Google reklame i vo\u0111enje Google Ads kampanja u Srbiji 2026: CPC rasponi, bud\u017eeti po fazama rasta i realna cena upravljanja.', keywords: 'google reklame cena, google ads cena, koliko kostaju google reklame, cena po kliku google, vodjenje google ads kampanja cena, upravljanje google ads kampanjama' },
-  '/instagram-reklame-cena': { title: 'Instagram Reklame Cena 2026 + Vođenje Kampanja | Platinum Zenith', description: 'Koliko koštaju Instagram reklame, Reels oglasi i vođenje Instagram Ads kampanja u Srbiji 2026: CPC, CPM, budžeti po fazama rasta i realna cena upravljanja.', keywords: 'instagram reklame cena, instagram ads cena, instagram reels reklame cena, koliko kostaju instagram reklame, cena instagram oglasa, instagram oglasavanje srbija, vodjenje instagram ads kampanja cena, upravljanje instagram reklamama' },
-  '/izrada-wordpress-sajta-cena': { title: 'Izrada WordPress Sajta Cena u Srbiji 2026 | Platinum Zenith', description: 'Cena izrade WordPress sajta u Srbiji 2026: paketi za prezentacione i WooCommerce sajtove, rokovi, održavanje i realni skriveni troškovi.', keywords: 'izrada wordpress sajta cena, wordpress sajt cena, koliko kosta wordpress sajt, wordpress izrada sajta srbija, woocommerce cena izrade, odrzavanje wordpress sajta' },
+  '/koliko-kosta-facebook-reklama': { title: 'Koliko Košta Facebook Reklama u Srbiji 2026 | Vodič Kroz Cene | Platinum Zenith', description: 'Koliko košta Facebook reklama u Srbiji 2026: realni CPC/CPM/CPA rasponi, početni budžeti, cena vođenja kampanja i greške koje najskuplje podižu trošak.', keywords: 'koliko košta facebook reklama, facebook oglasi cena, instagram oglasi cena srbija, facebook ads srbija, cena oglašavanja na facebooku, meta ads cena' },
+  '/google-reklame-cena': { title: 'Google Reklame Cena 2026 + Vo\u0111enje Kampanja | Platinum Zenith', description: 'Google reklame cena u Srbiji 2026: realni CPC i CPA po niši, budžeti po fazi rasta i cena vođenja Google Ads kampanja sa fokusom na profit, ne samo klikove.', keywords: 'google reklame cena, google ads cena, koliko kostaju google reklame, cena po kliku google, vodjenje google ads kampanja cena, upravljanje google ads kampanjama' },
+  '/instagram-reklame-cena': { title: 'Instagram Reklame Cena 2026 + Vođenje Kampanja | Platinum Zenith', description: 'Instagram reklame cena u Srbiji 2026: CPC, CPM i CPA benchmark, Reels troškovi, preporučeni start budžet i cena vođenja kampanja pre skaliranja.', keywords: 'instagram reklame cena, instagram ads cena, instagram reels reklame cena, koliko kostaju instagram reklame, cena instagram oglasa, instagram oglasavanje srbija, vodjenje instagram ads kampanja cena, upravljanje instagram reklamama' },
+  '/izrada-wordpress-sajta-cena': { title: 'Izrada WordPress Sajta Cena u Srbiji 2026 | Platinum Zenith', description: 'Izrada WordPress sajta cena u Srbiji 2026: raspon za prezentacione i WooCommerce projekte, rokovi i održavanje, uz jasnu cenu bez skrivenih troškova.', keywords: 'izrada wordpress sajta cena, wordpress sajt cena, koliko kosta wordpress sajt, wordpress izrada sajta srbija, woocommerce cena izrade, odrzavanje wordpress sajta' },
   '/marketing-za-advokate': { title: 'Marketing za Advokate u Srbiji | Platinum Zenith', description: 'Marketing za advokatske kancelarije u Srbiji: SEO, Google Ads, sajt i content strategija koja donosi kvalifikovane upite i stabilan rast klijenata.', keywords: 'marketing za advokate, digitalni marketing advokatska kancelarija, google ads advokat, seo za advokate, sajt za advokatsku kancelariju, marketing pravne usluge' },
   '/marketing-za-stomatologe': { title: 'Marketing za Stomatologe u Srbiji | Platinum Zenith', description: 'Specijalizovani marketing za stomatološke ordinacije: Google Ads, lokalni SEO, sajt i kampanje koje pune kalendar novim pacijentima i povećavaju prihod.', keywords: 'marketing za stomatologe, digitalni marketing stomatologija, google ads stomatolog, seo za stomatologe, sajt za ordinaciju, marketing stomatološka ordinacija' },
   '/marketing-za-restorane': { title: 'Marketing za Restorane | Digitalni Marketing za Ugostiteljstvo | Platinum Zenith', description: 'Marketing za restorane u Srbiji: Google Business, društvene mreže, oglasi i sajt koji povećavaju rezervacije, porudžbine i popunjenost stolova.', keywords: 'marketing za restorane, digitalni marketing ugostiteljstvo, restoran marketing srbija, google business restoran, instagram za restorane, sajt za restoran' },
@@ -945,67 +945,340 @@ export const pageSchemas = {
       }
     ]
   },
-  '/koliko-kosta-facebook-reklama': {
+    '/koliko-kosta-facebook-reklama': {
     "@context": "https://schema.org",
     "@graph": [
       {
         "@type": "WebPage",
         "@id": `${SITE_URL}/koliko-kosta-facebook-reklama#webpage`,
         "url": `${SITE_URL}/koliko-kosta-facebook-reklama`,
-        "name": "Koliko košta Facebook reklama u Srbiji 2026",
-        "description": "Realni troškovi Facebook i Instagram oglasa u Srbiji 2026: CPC, CPM, CPA, budžetski rasponi i cena vođenja kampanja.",
+        "name": "Koliko kosta Facebook reklama u Srbiji 2026",
+        "description": "Praktican vodic kroz realne troskove Facebook i Instagram oglasa u Srbiji 2026, sa budzetskim fazama, CPC/CPA rasponima i cenom vodjenja kampanja.",
         "inLanguage": "sr-RS",
         "isPartOf": { "@id": SITE_URL },
+        "about": { "@id": `${SITE_URL}/koliko-kosta-facebook-reklama#service` },
+        "breadcrumb": { "@id": `${SITE_URL}/koliko-kosta-facebook-reklama#breadcrumb` },
+        "mainEntity": [
+          { "@id": `${SITE_URL}/koliko-kosta-facebook-reklama#article` },
+          { "@id": `${SITE_URL}/koliko-kosta-facebook-reklama#service` },
+          { "@id": `${SITE_URL}/koliko-kosta-facebook-reklama#budget-tiers` },
+          { "@id": `${SITE_URL}/koliko-kosta-facebook-reklama#management-models` },
+          { "@id": `${SITE_URL}/koliko-kosta-facebook-reklama#pricing-models` },
+          { "@id": `${SITE_URL}/koliko-kosta-facebook-reklama#placement-benchmarks` },
+          { "@id": `${SITE_URL}/koliko-kosta-facebook-reklama#funnel-split` },
+          { "@id": `${SITE_URL}/koliko-kosta-facebook-reklama#cost-mistakes` },
+          { "@id": `${SITE_URL}/koliko-kosta-facebook-reklama#howto-budget` },
+          { "@id": `${SITE_URL}/koliko-kosta-facebook-reklama#faq` }
+        ],
+        "mentions": [
+          { "@id": `${SITE_URL}/google-reklame-cena#service` },
+          { "@id": `${SITE_URL}/instagram-reklame-cena#service` },
+          { "@id": `${SITE_URL}/cene-digitalnog-marketinga#service` },
+          { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#service` },
+          { "@id": `${SITE_URL}/cro#service` }
+        ],
+        "potentialAction": {
+          "@type": "ContactAction",
+          "name": "Zakazite procenu Meta Ads budzeta",
+          "target": `${SITE_URL}/kontakt`
+        }
+      },
+      {
+        "@type": "Article",
+        "@id": `${SITE_URL}/koliko-kosta-facebook-reklama#article`,
+        "headline": "Koliko kosta Facebook reklama u Srbiji 2026: CPC, CPM, CPA i cena vodjenja kampanja",
+        "description": "Realni benchmark rasponi i praktican plan budzeta za Facebook i Instagram oglase na trzistu Srbije.",
+        "author": { "@type": "Person", "name": "Aleksandar Nenadovic" },
+        "publisher": { "@id": `${SITE_URL}#organization` },
+        "inLanguage": "sr-RS",
+        "datePublished": "2026-03-06",
+        "dateModified": "2026-03-15",
+        "mainEntityOfPage": { "@id": `${SITE_URL}/koliko-kosta-facebook-reklama#webpage` },
         "about": { "@id": `${SITE_URL}/koliko-kosta-facebook-reklama#service` }
       },
       {
         "@type": "Service",
         "@id": `${SITE_URL}/koliko-kosta-facebook-reklama#service`,
         "name": "Meta Ads upravljanje kampanjama",
-        "description": "Planiranje, vođenje i optimizacija Facebook i Instagram kampanja sa jasnim budžetskim fazama i fokusom na merljive konverzije.",
+        "description": "Planiranje, vodjenje i optimizacija Facebook i Instagram kampanja sa jasnim budzetskim fazama i fokusom na profitabilne konverzije.",
         "serviceType": "Meta Ads management",
         "url": `${SITE_URL}/koliko-kosta-facebook-reklama`,
         "areaServed": { "@type": "Country", "name": "Srbija" },
         "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL },
-        "offers": { "@type": "AggregateOffer", "priceCurrency": "EUR", "lowPrice": "200", "highPrice": "5000", "offerCount": "4" },
-        "hasOfferCatalog": {
-          "@type": "OfferCatalog",
-          "name": "Meta Ads budžetske faze",
-          "itemListElement": [
-            { "@type": "Offer", "name": "Testiranje", "priceCurrency": "EUR", "price": "200" },
-            { "@type": "Offer", "name": "Rast", "priceCurrency": "EUR", "price": "500" },
-            { "@type": "Offer", "name": "Ozbiljan marketing", "priceCurrency": "EUR", "price": "1500" },
-            { "@type": "Offer", "name": "Enterprise", "priceCurrency": "EUR", "price": "5000" }
-          ]
-        }
+        "mainEntityOfPage": { "@id": `${SITE_URL}/koliko-kosta-facebook-reklama#webpage` },
+        "offers": {
+          "@type": "AggregateOffer",
+          "priceCurrency": "EUR",
+          "lowPrice": "200",
+          "highPrice": "5000",
+          "offerCount": "4"
+        },
+        "hasOfferCatalog": [
+          { "@id": `${SITE_URL}/koliko-kosta-facebook-reklama#budget-tiers` },
+          { "@id": `${SITE_URL}/koliko-kosta-facebook-reklama#management-models` },
+          { "@id": `${SITE_URL}/koliko-kosta-facebook-reklama#pricing-models` }
+        ],
+        "subjectOf": [
+          { "@id": `${SITE_URL}/koliko-kosta-facebook-reklama#placement-benchmarks` },
+          { "@id": `${SITE_URL}/koliko-kosta-facebook-reklama#funnel-split` },
+          { "@id": `${SITE_URL}/koliko-kosta-facebook-reklama#cost-mistakes` },
+          { "@id": `${SITE_URL}/koliko-kosta-facebook-reklama#howto-budget` }
+        ],
+        "additionalProperty": [
+          { "@type": "PropertyValue", "name": "Tipicni CPC raspon", "value": "0,05 EUR - 0,65 EUR" },
+          { "@type": "PropertyValue", "name": "Tipicni CPM raspon", "value": "2 EUR - 11 EUR" },
+          { "@type": "PropertyValue", "name": "Tipicni CPA raspon", "value": "4 EUR - 45 EUR" },
+          { "@type": "PropertyValue", "name": "Preporuceni test period", "value": "21-30 dana" }
+        ]
+      },
+      {
+        "@type": "OfferCatalog",
+        "@id": `${SITE_URL}/koliko-kosta-facebook-reklama#budget-tiers`,
+        "name": "Budzetske faze za Facebook i Instagram oglase",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Test faza",
+            "description": "Pocetni period validacije publike, ponude i kreativa.",
+            "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "200", "maxPrice": "600" }
+          },
+          {
+            "@type": "Offer",
+            "name": "Stabilan lead flow",
+            "description": "Faza kontinuiteta i optimizacije za stabilan broj upita.",
+            "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "600", "maxPrice": "1800" }
+          },
+          {
+            "@type": "Offer",
+            "name": "Skaliranje",
+            "description": "Povecanje obima kampanja uz kontrolu CPA i ROAS metrika.",
+            "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "1800", "maxPrice": "5000" }
+          },
+          {
+            "@type": "Offer",
+            "name": "Enterprise",
+            "description": "Model za vise trzista i slozenije funnel scenarije.",
+            "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "5000" }
+          }
+        ]
+      },
+      {
+        "@type": "OfferCatalog",
+        "@id": `${SITE_URL}/koliko-kosta-facebook-reklama#management-models`,
+        "name": "Cena vodjenja Meta Ads kampanja",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Freelance / mikro tim",
+            "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "120", "maxPrice": "300", "billingDuration": "P1M" }
+          },
+          {
+            "@type": "Offer",
+            "name": "Specijalizovana agencija",
+            "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "250", "maxPrice": "700", "billingDuration": "P1M" }
+          },
+          {
+            "@type": "Offer",
+            "name": "Enterprise vodjenje",
+            "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "700", "billingDuration": "P1M" }
+          }
+        ]
+      },
+      {
+        "@type": "OfferCatalog",
+        "@id": `${SITE_URL}/koliko-kosta-facebook-reklama#pricing-models`,
+        "name": "Modeli naplate za Meta Ads",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Fiksna mesecna naknada",
+            "description": "Predvidljiv mesecni trosak uz jasno definisan scope optimizacije.",
+            "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "200", "maxPrice": "650", "billingDuration": "P1M" }
+          },
+          {
+            "@type": "Offer",
+            "name": "Procenat od ad spend-a",
+            "description": "Model 8-15% medijskog budzeta za naloge u fazi ubrzanog rasta.",
+            "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "8", "maxPrice": "15", "unitText": "%" }
+          },
+          {
+            "@type": "Offer",
+            "name": "Hibridni model",
+            "description": "Kombinacija fiksnog dela i varijabilnog bonusa po performansu.",
+            "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "180", "maxPrice": "500", "billingDuration": "P1M" }
+          }
+        ]
+      },
+      {
+        "@type": "ItemList",
+        "@id": `${SITE_URL}/koliko-kosta-facebook-reklama#placement-benchmarks`,
+        "name": "Benchmark rasponi po placement-u",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "Thing",
+              "name": "Instagram Reels",
+              "description": "Najcesce nizi CPM uz dobar hook u prvih 2-3 sekunde.",
+              "additionalProperty": [
+                { "@type": "PropertyValue", "name": "CPM", "value": "2,5 - 8,5 EUR" },
+                { "@type": "PropertyValue", "name": "CPC", "value": "0,07 - 0,40 EUR" },
+                { "@type": "PropertyValue", "name": "CPA", "value": "5 - 28 EUR" }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Thing",
+              "name": "Facebook Feed",
+              "description": "Stabilan placement za lead generation i remarketing kampanje.",
+              "additionalProperty": [
+                { "@type": "PropertyValue", "name": "CPM", "value": "3 - 10 EUR" },
+                { "@type": "PropertyValue", "name": "CPC", "value": "0,12 - 0,65 EUR" },
+                { "@type": "PropertyValue", "name": "CPA", "value": "8 - 45 EUR" }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "Thing",
+              "name": "Facebook/Instagram Stories",
+              "description": "Cesto efikasan remarketing sloj kada je ponuda jasna i kratka.",
+              "additionalProperty": [
+                { "@type": "PropertyValue", "name": "CPM", "value": "2 - 7 EUR" },
+                { "@type": "PropertyValue", "name": "CPC", "value": "0,05 - 0,30 EUR" },
+                { "@type": "PropertyValue", "name": "CPA", "value": "4 - 22 EUR" }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "@type": "ItemList",
+        "@id": `${SITE_URL}/koliko-kosta-facebook-reklama#funnel-split`,
+        "name": "Primer raspodele budzeta po funnel-u",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": { "@type": "Thing", "name": "Cold publika", "description": "55-70% budzeta za akviziciju novih korisnika." }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": { "@type": "Thing", "name": "Warm publika", "description": "20-30% budzeta za edukaciju i engagement." }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": { "@type": "Thing", "name": "Hot/remarketing", "description": "10-20% budzeta za zavrsni push ka konverziji." }
+          }
+        ]
+      },
+      {
+        "@type": "ItemList",
+        "@id": `${SITE_URL}/koliko-kosta-facebook-reklama#cost-mistakes`,
+        "name": "Najcesce greske koje podizu cenu Meta kampanja",
+        "numberOfItems": 5,
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Presiroko targetiranje bez segmentacije publike" },
+          { "@type": "ListItem", "position": 2, "name": "Jedna kreativa predugo bez osvezavanja" },
+          { "@type": "ListItem", "position": 3, "name": "Optimizacija po klikovima umesto po konverzijama" },
+          { "@type": "ListItem", "position": 4, "name": "Slaba landing stranica i spor follow-up leadova" },
+          { "@type": "ListItem", "position": 5, "name": "Skaliranje budzeta bez validiranih CPA granica" }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": `${SITE_URL}/koliko-kosta-facebook-reklama#howto-budget`,
+        "name": "Kako postaviti Meta Ads budzet za prvih 90 dana",
+        "description": "Praktican model za planiranje, validaciju i skaliranje Facebook/Instagram kampanja bez rasipanja budzeta.",
+        "inLanguage": "sr-RS",
+        "totalTime": "P90D",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "position": 1,
+            "name": "Definisite cilj i maksimalni CPA",
+            "text": "Postavite koliko leadova/prodaja zelite mesecno i koliki CPA ostavlja zdravu marzu.",
+            "url": `${SITE_URL}/koliko-kosta-facebook-reklama#cilj-kampanje`
+          },
+          {
+            "@type": "HowToStep",
+            "position": 2,
+            "name": "Pokrenite test sa vise kreativnih uglova",
+            "text": "Testirajte najmanje 3-5 oglasa i odvojite cold, warm i hot publike.",
+            "url": `${SITE_URL}/koliko-kosta-facebook-reklama#budzet-faze-rasta`
+          },
+          {
+            "@type": "HowToStep",
+            "position": 3,
+            "name": "Uvedite nedeljnu optimizaciju",
+            "text": "Gasite slabe ad set-ove, osvezavajte kreative i pratite kvalitet upita, ne samo volumen.",
+            "url": `${SITE_URL}/koliko-kosta-facebook-reklama#kako-smanjiti-cenu-facebook-reklama`
+          },
+          {
+            "@type": "HowToStep",
+            "position": 4,
+            "name": "Skalirajte samo profitabilne kampanje",
+            "text": "Povecavajte budzet postepeno 15-25% nedeljno na kampanjama koje drze ciljnu cenu akvizicije.",
+            "url": `${SITE_URL}/koliko-kosta-facebook-reklama#checklist-pre-nego-sto-povecas-budzet`
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": `${SITE_URL}/koliko-kosta-facebook-reklama#breadcrumb`,
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Pocetna", "item": SITE_URL },
+          { "@type": "ListItem", "position": 2, "name": "Koliko kosta Facebook reklama", "item": `${SITE_URL}/koliko-kosta-facebook-reklama` }
+        ]
       },
       {
         "@type": "FAQPage",
+        "@id": `${SITE_URL}/koliko-kosta-facebook-reklama#faq`,
         "mainEntity": [
           {
             "@type": "Question",
-            "name": "Koliko novca treba za početak?",
-            "acceptedAnswer": { "@type": "Answer", "text": "Minimum koji ima smisla je oko 200€ mesečno za medijski budžet, plus 200-300€ za vođenje kampanja. Ispod toga je teško dobiti dovoljno podataka za pouzdanu optimizaciju." }
+            "name": "Koliki je minimalni budzet za pocetak?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Realan minimum je oko 200-300 EUR mesecno za medijski budzet, plus trosak vodjenja kampanja." }
           },
           {
             "@type": "Question",
-            "name": "Da li mogu sam da vodim Facebook oglase?",
-            "acceptedAnswer": { "@type": "Answer", "text": "Možete, ali bez iskustva cena po konverziji često bude 2-3x viša. Ako krećete sami, počnite sa manjim budžetom i jasnim konverzijskim ciljem." }
+            "name": "Koliko kosta vodjenje Facebook i Instagram kampanja?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Za manje naloge vodjenje je obicno 120-300 EUR mesecno, a za aktivnije naloge 250-700 EUR mesecno u zavisnosti od obima rada." }
           },
           {
             "@type": "Question",
-            "name": "Facebook ili Instagram oglasi?",
-            "acceptedAnswer": { "@type": "Answer", "text": "Oba placement-a rade kroz isti Meta Ads sistem. U praksi najbolji rezultat najčešće daje kombinacija Facebook i Instagram inventara uz testiranje kreativnog formata." }
+            "name": "Da li je bolje ulagati u Facebook ili Instagram?",
+            "acceptedAnswer": { "@type": "Answer", "text": "U praksi najbolje radi kombinacija oba placement-a, uz raspodelu budzeta prema tipu publike i performansama kreativa." }
           },
           {
             "@type": "Question",
-            "name": "Kad se vide rezultati?",
-            "acceptedAnswer": { "@type": "Answer", "text": "Prve klikove vidite brzo, ali za stabilnu optimizaciju najčešće je potrebno 2-4 nedelje kontinuiranog rada i testiranja." }
+            "name": "Koliko brzo mogu da se vide rezultati?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Prvi signali dolaze u prvim danima, ali za stabilne zakljucke i optimizaciju najcesce je potrebno 2-4 nedelje kontinuiranog rada." }
           },
           {
             "@type": "Question",
-            "name": "Da li Facebook oglasi rade za B2B?",
-            "acceptedAnswer": { "@type": "Answer", "text": "Da, posebno kroz lead forme, webinar funnel i edukativni sadržaj. Cena lead-a je obično viša nego u B2C, ali je i vrednost klijenta znatno veća." }
+            "name": "Sta najvise utice na cenu reklame?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Najveci uticaj imaju kvalitet kreative, jasna ponuda, relevantnost publike i kvalitet landing stranice posle klika." }
+          },
+          {
+            "@type": "Question",
+            "name": "Da li Meta oglasi rade za B2B usluge?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Da, posebno uz lead magnet, edukativni sadrzaj i jasan follow-up proces prodajnog tima." }
+          },
+          {
+            "@type": "Question",
+            "name": "Kako da znam da li je kampanja profitabilna?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Pratite CPA i kvalitet leadova u odnosu na prosecnu vrednost klijenta i marzu. Ako ostaje profit posle svih troskova, kampanja je odrziva." }
           }
         ]
       }
@@ -1031,6 +1304,8 @@ export const pageSchemas = {
           { "@id": `${SITE_URL}/google-reklame-cena#budget-tiers` },
           { "@id": `${SITE_URL}/google-reklame-cena#management-models` },
           { "@id": `${SITE_URL}/google-reklame-cena#pricing-models` },
+          { "@id": `${SITE_URL}/google-reklame-cena#cost-breakdown` },
+          { "@id": `${SITE_URL}/google-reklame-cena#market-metrics` },
           { "@id": `${SITE_URL}/google-reklame-cena#howto-budget` },
           { "@id": `${SITE_URL}/google-reklame-cena#industry-benchmarks` },
           { "@id": `${SITE_URL}/google-reklame-cena#intent-benchmarks` },
@@ -1081,6 +1356,8 @@ export const pageSchemas = {
           { "@id": `${SITE_URL}/google-reklame-cena#pricing-models` }
         ],
         "subjectOf": [
+          { "@id": `${SITE_URL}/google-reklame-cena#cost-breakdown` },
+          { "@id": `${SITE_URL}/google-reklame-cena#market-metrics` },
           { "@id": `${SITE_URL}/google-reklame-cena#howto-budget` },
           { "@id": `${SITE_URL}/google-reklame-cena#industry-benchmarks` },
           { "@id": `${SITE_URL}/google-reklame-cena#intent-benchmarks` },
@@ -1175,6 +1452,94 @@ export const pageSchemas = {
             "name": "Performance bonus (CPA/ROAS target)",
             "description": "Fiksna baza uz bonus kada se ispune dogovoreni profitni KPI-jevi.",
             "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "200", "billingDuration": "P1M" }
+          }
+        ]
+      },
+      {
+        "@type": "ItemList",
+        "@id": `${SITE_URL}/google-reklame-cena#cost-breakdown`,
+        "name": "Sta ulazi u ukupan trosak Google Ads kampanja",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "Thing",
+              "name": "Budzet za klikove (Google)",
+              "description": "Direktna medijska potrosnja koja zavisi od konkurencije, kvaliteta oglasa i landing stranice."
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Thing",
+              "name": "Vodjenje kampanja (agencija)",
+              "description": "Research kljucnih reci, setup kampanja, optimizacija i izvestavanje kroz mesecne iteracije."
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "Thing",
+              "name": "Kreativa i copy",
+              "description": "Tekstovi oglasa, asseti za Performance Max i testiranje varijanti ponude koje uticu na CPC i konverzije."
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@type": "Thing",
+              "name": "Landing i tracking infrastruktura",
+              "description": "Landing stranice, GA4 i konverzijski tracking bez kojih nije moguce meriti profitabilnost kampanje."
+            }
+          }
+        ]
+      },
+      {
+        "@type": "ItemList",
+        "@id": `${SITE_URL}/google-reklame-cena#market-metrics`,
+        "name": "Kljucne Google Ads metrike za srpsko trziste",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "Thing",
+              "name": "CPC (Search)",
+              "description": "Tipican raspon 0,10-1,20 EUR, uz vise cene u konkurentnim B2B i pravnim nisama."
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Thing",
+              "name": "CTR (Search)",
+              "description": "Tipican raspon 4%-12%, kao indikator relevantnosti oglasa i search namere."
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "Thing",
+              "name": "CPA (lead)",
+              "description": "Tipican raspon 8-60 EUR, zavisno od konkurencije, vrednosti ponude i kvaliteta prodajnog procesa."
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@type": "Thing",
+              "name": "ROAS/ROI",
+              "description": "Tipican raspon 3x-10x kada su kampanje i landing optimizovani po profitabilnosti, ne po kliku."
+            }
           }
         ]
       },
@@ -1354,6 +1719,21 @@ export const pageSchemas = {
             "@type": "Question",
             "name": "Da li mogu sam da vodim kampanje?",
             "acceptedAnswer": { "@type": "Answer", "text": "Mozete, ali bez jasne strukture i trackinga cesto dolazi do rasipanja budzeta. Ako vodite kampanje sami, krenite sa uskim setom kljucnih reci i jasnim ciljem konverzije." }
+          },
+          {
+            "@type": "Question",
+            "name": "Koliko kosta vodjenje Google Ads kampanja bez medijskog budzeta?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Za vecinu firmi u Srbiji vodjenje kampanja je najcesce 250-700EUR mesecno. Tacan fee zavisi od broja kampanja, obima testiranja i nivoa analitike koji vam je potreban." }
+          },
+          {
+            "@type": "Question",
+            "name": "Da li budzet treba povecavati odmah ili postepeno?",
+            "acceptedAnswer": { "@type": "Answer", "text": "U praksi je sigurnije postepeno skaliranje (20-30% na 7-10 dana) kada kampanja drzi stabilan CPA. Naglo podizanje budzeta cesto remeti delivery i dize cenu leada." }
+          },
+          {
+            "@type": "Question",
+            "name": "Da li Google Ads ima smisla za B2B sa manjim obimom pretrage?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Da, ako su kljucne reci usko vezane za komercijalni intent i ako pratite kvalitet leadova, ne samo broj formi. Kod B2B-a je cesto vazniji profit po klijentu nego volumen klikova." }
           }
         ]
       }
@@ -1791,15 +2171,20 @@ export const pageSchemas = {
         "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#webpage`,
         "url": `${SITE_URL}/izrada-wordpress-sajta-cena`,
         "name": "Koliko košta izrada WordPress sajta u Srbiji 2026",
-        "description": "Rasponi cena WordPress sajtova i WooCommerce prodavnica, rokovi i mesečni troškovi održavanja koji utiču na ukupnu cenu.",
+        "description": "Izrada WordPress sajta cena kroz realne raspone za WordPress i WooCommerce projekte, rokove i mesečne troškove održavanja.",
         "inLanguage": "sr-RS",
         "isPartOf": { "@id": SITE_URL },
         "mainEntity": [
           { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#article` },
           { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#service` },
           { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#project-tiers` },
+          { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#pricing-models` },
           { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#recurring-costs` },
+          { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#maintenance-tiers` },
           { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#howto-transparent-offer` },
+          { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#handover-deliverables` },
+          { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#delivery-timelines` },
+          { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#business-type-benchmarks` },
           { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#cost-drivers` },
           { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#common-mistakes` },
           { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#faq` }
@@ -1826,12 +2211,12 @@ export const pageSchemas = {
         "@type": "Article",
         "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#article`,
         "headline": "Izrada WordPress sajta cena u Srbiji 2026: paketi, rokovi i stvarni troskovi",
-        "description": "Detaljan vodic kroz cenu WordPress i WooCommerce projekata u Srbiji, sa rasponima po obimu, rokovima i mesečnim operativnim troskovima.",
+        "description": "Detaljan vodič kroz cenu izrade WordPress i WooCommerce projekata u Srbiji, sa paketima po obimu, rokovima i mesečnim operativnim troškovima.",
         "inLanguage": "sr-RS",
         "author": { "@type": "Person", "name": "Aleksandar Nenadović" },
         "publisher": { "@id": `${SITE_URL}#organization` },
         "datePublished": "2026-03-10",
-        "dateModified": "2026-03-14",
+        "dateModified": "2026-03-15",
         "mainEntityOfPage": { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#webpage` },
         "about": { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#service` }
       },
@@ -1854,16 +2239,21 @@ export const pageSchemas = {
         },
         "hasOfferCatalog": [
           { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#project-tiers` },
-          { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#recurring-costs` }
+          { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#pricing-models` },
+          { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#recurring-costs` },
+          { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#maintenance-tiers` }
         ],
         "subjectOf": [
           { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#howto-transparent-offer` },
+          { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#handover-deliverables` },
+          { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#delivery-timelines` },
+          { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#business-type-benchmarks` },
           { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#cost-drivers` },
           { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#common-mistakes` }
         ],
         "additionalProperty": [
           { "@type": "PropertyValue", "name": "Tipični rokovi", "value": "1-8 nedelja (u zavisnosti od obima projekta)" },
-          { "@type": "PropertyValue", "name": "Mesečni maintenance", "value": "50€ - 200€" },
+          { "@type": "PropertyValue", "name": "Mesečni maintenance", "value": "70€ - 1.200€ (u zavisnosti od SLA nivoa)" },
           { "@type": "PropertyValue", "name": "Godišnji TCO raspon", "value": "2.200€ - 13.000€ za aktivne biznis sajtove" }
         ]
       },
@@ -1926,6 +2316,68 @@ export const pageSchemas = {
         ]
       },
       {
+        "@type": "OfferCatalog",
+        "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#maintenance-tiers`,
+        "name": "Paketi održavanja WordPress sajta nakon launch-a",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Basic Care",
+            "description": "Mesečni update-i, backup i monitoring za manje poslovne sajtove.",
+            "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "70", "maxPrice": "120", "billingDuration": "P1M" }
+          },
+          {
+            "@type": "Offer",
+            "name": "Growth Care",
+            "description": "Maintenance + tehnički SEO i male CRO iteracije za lead-gen sajtove.",
+            "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "150", "maxPrice": "350", "billingDuration": "P1M" }
+          },
+          {
+            "@type": "Offer",
+            "name": "E-commerce Care",
+            "description": "WooCommerce podrška sa testiranjem checkout-a, performansi i incident response slojem.",
+            "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "250", "maxPrice": "650", "billingDuration": "P1M" }
+          },
+          {
+            "@type": "Offer",
+            "name": "SLA + Dev sprint",
+            "description": "Prioritetni razvojni slot i brzi oporavak za sajtove sa kritičnim prihodnim tokom.",
+            "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "500", "maxPrice": "1200", "billingDuration": "P1M" }
+          }
+        ]
+      },
+      {
+        "@type": "OfferCatalog",
+        "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#pricing-models`,
+        "name": "Modeli naplate WordPress projekta",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Fiksna projektna cena",
+            "description": "Jasno definisan scope i ukupna cena pre početka rada.",
+            "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "400", "maxPrice": "4500" }
+          },
+          {
+            "@type": "Offer",
+            "name": "Milestone naplata (40/40/20)",
+            "description": "Plaćanje kroz faze isporuke za bolju kontrolu rizika i obima projekta.",
+            "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "900", "maxPrice": "9000" }
+          },
+          {
+            "@type": "Offer",
+            "name": "Time & material",
+            "description": "Fleksibilan model za kompleksne projekte sa promenljivim scope-om.",
+            "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "25", "maxPrice": "60", "unitText": "EUR/sat" }
+          },
+          {
+            "@type": "Offer",
+            "name": "Launch + mesečni retainer",
+            "description": "Kombinacija inicijalne izrade i kontinuiranog maintenance/CRO rada.",
+            "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "350", "maxPrice": "1200", "billingDuration": "P1M" }
+          }
+        ]
+      },
+      {
         "@type": "HowTo",
         "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#howto-transparent-offer`,
         "name": "Kako izgleda transparentna WordPress ponuda bez skrivenih troškova",
@@ -1956,6 +2408,21 @@ export const pageSchemas = {
       },
       {
         "@type": "ItemList",
+        "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#handover-deliverables`,
+        "name": "Šta treba da dobijete na handover-u WordPress projekta",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 6,
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Admin pristupi i vlasništvo nad nalogom" },
+          { "@type": "ListItem", "position": 2, "name": "Backup i restore procedura" },
+          { "@type": "ListItem", "position": 3, "name": "Inventar plugin licenci i rokova" },
+          { "@type": "ListItem", "position": 4, "name": "GA4/GTM tracking mapa događaja" },
+          { "@type": "ListItem", "position": 5, "name": "Editor uputstvo za sadržaj i medija fajlove" },
+          { "@type": "ListItem", "position": 6, "name": "90-dnevni backlog prioriteta" }
+        ]
+      },
+      {
+        "@type": "ItemList",
         "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#cost-drivers`,
         "name": "Glavni faktori koji utiču na cenu WordPress sajta",
         "itemListOrder": "https://schema.org/ItemListOrderAscending",
@@ -1967,6 +2434,64 @@ export const pageSchemas = {
           { "@type": "ListItem", "position": 4, "name": "SEO i struktura sadržaja" },
           { "@type": "ListItem", "position": 5, "name": "Brzina i hosting" },
           { "@type": "ListItem", "position": 6, "name": "Sigurnost i backup politika" }
+        ]
+      },
+      {
+        "@type": "ItemList",
+        "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#delivery-timelines`,
+        "name": "Tipični rokovi izrade WordPress projekta",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 4,
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "item": { "@type": "Thing", "name": "Start WordPress sajt", "description": "1-2 nedelje" } },
+          { "@type": "ListItem", "position": 2, "item": { "@type": "Thing", "name": "Poslovni WordPress", "description": "2-5 nedelja" } },
+          { "@type": "ListItem", "position": 3, "item": { "@type": "Thing", "name": "WordPress + WooCommerce", "description": "4-8 nedelja" } },
+          { "@type": "ListItem", "position": 4, "item": { "@type": "Thing", "name": "Custom WordPress sistem", "description": "6-12 nedelja" } }
+        ]
+      },
+      {
+        "@type": "ItemList",
+        "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#business-type-benchmarks`,
+        "name": "Raspon cene WordPress projekta po tipu biznisa",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "Thing",
+              "name": "Lokalne usluge",
+              "description": "Tipičan launch 700-1.800 EUR + operativni raspon 180-600 EUR mesečno za lokalni SEO i lead flow."
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Thing",
+              "name": "B2B lead generation",
+              "description": "Tipičan launch 1.200-3.200 EUR + operativni raspon 250-900 EUR mesečno za CRM i sadržajni funnel."
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "Thing",
+              "name": "WooCommerce retail",
+              "description": "Tipičan launch 1.800-5.000 EUR + operativni raspon 350-1.400 EUR mesečno za katalog i konverzije."
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@type": "Thing",
+              "name": "Multi-location i franšizni sistemi",
+              "description": "Tipičan launch 2.500-7.000 EUR + operativni raspon 500-1.800 EUR mesečno za više lokacija i workflow automatizaciju."
+            }
+          }
         ]
       },
       {
@@ -2046,7 +2571,40 @@ export const pageSchemas = {
         "inLanguage": "sr-RS",
         "isPartOf": { "@id": SITE_URL },
         "about": { "@id": `${SITE_URL}/seo-optimizacija-cena#service` },
-        "primaryImageOfPage": { "@type": "ImageObject", "url": `${SITE_URL}/pz-og.jpg` }
+        "breadcrumb": { "@id": `${SITE_URL}/seo-optimizacija-cena#breadcrumb` },
+        "primaryImageOfPage": { "@type": "ImageObject", "url": `${SITE_URL}/pz-og.jpg` },
+        "mainEntity": [
+          { "@id": `${SITE_URL}/seo-optimizacija-cena#article` },
+          { "@id": `${SITE_URL}/seo-optimizacija-cena#service` },
+          { "@id": `${SITE_URL}/seo-optimizacija-cena#package-tiers` },
+          { "@id": `${SITE_URL}/seo-optimizacija-cena#cost-drivers` },
+          { "@id": `${SITE_URL}/seo-optimizacija-cena#results-timeline` },
+          { "@id": `${SITE_URL}/seo-optimizacija-cena#implementation-howto` },
+          { "@id": `${SITE_URL}/seo-optimizacija-cena#faq` }
+        ],
+        "mentions": [
+          { "@id": `${SITE_URL}/google-reklame-cena#service` },
+          { "@id": `${SITE_URL}/cene-digitalnog-marketinga#service` },
+          { "@id": `${SITE_URL}/web-design#service` }
+        ],
+        "potentialAction": {
+          "@type": "ContactAction",
+          "target": `${SITE_URL}/kontakt`,
+          "name": "Zatražite besplatan SEO audit"
+        }
+      },
+      {
+        "@type": "Article",
+        "@id": `${SITE_URL}/seo-optimizacija-cena#article`,
+        "headline": "Koliko košta SEO optimizacija u Srbiji 2026: paketi, rokovi i očekivani rezultati",
+        "description": "Praktičan vodič kroz SEO cene u Srbiji: paketi, vremenski okvir rezultata, najčešći mitovi i konkretan plan rada.",
+        "inLanguage": "sr-RS",
+        "author": { "@type": "Person", "name": "Aleksandar Nenadović" },
+        "publisher": { "@id": `${SITE_URL}#organization` },
+        "datePublished": "2026-03-04",
+        "dateModified": "2026-03-14",
+        "mainEntityOfPage": { "@id": `${SITE_URL}/seo-optimizacija-cena#webpage` },
+        "about": { "@id": `${SITE_URL}/seo-optimizacija-cena#service` }
       },
       {
         "@type": "Service",
@@ -2055,36 +2613,135 @@ export const pageSchemas = {
         "description": "SEO optimizacija sa tehničkim auditom, content planom i kontinuiranom optimizacijom za rast organskog saobraćaja i upita.",
         "serviceType": "Search Engine Optimization",
         "url": `${SITE_URL}/seo-optimizacija-cena`,
+        "mainEntityOfPage": { "@id": `${SITE_URL}/seo-optimizacija-cena#webpage` },
         "areaServed": { "@type": "Country", "name": "Srbija" },
         "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL },
         "offers": { "@type": "AggregateOffer", "priceCurrency": "EUR", "lowPrice": "300", "highPrice": "3000", "offerCount": "3" },
-        "hasOfferCatalog": {
-          "@type": "OfferCatalog",
-          "name": "SEO paketi",
-          "itemListElement": [
-            {
-              "@type": "Offer",
-              "name": "Osnovni SEO",
-              "description": "Lokalni SEO i tehničke osnove za manje biznise.",
-              "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "300", "maxPrice": "500", "billingDuration": "P1M" }
-            },
-            {
-              "@type": "Offer",
-              "name": "Napredni SEO",
-              "description": "SEO rast kroz sadržaj, tehničke iteracije i konkurentsku analizu.",
-              "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "500", "maxPrice": "1200", "billingDuration": "P1M" }
-            },
-            {
-              "@type": "Offer",
-              "name": "Premium SEO",
-              "description": "Agresivan SEO pristup za visoko konkurentne niše.",
-              "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "1200", "maxPrice": "3000", "billingDuration": "P1M" }
-            }
-          ]
-        }
+        "hasOfferCatalog": [
+          { "@id": `${SITE_URL}/seo-optimizacija-cena#package-tiers` }
+        ],
+        "subjectOf": [
+          { "@id": `${SITE_URL}/seo-optimizacija-cena#cost-drivers` },
+          { "@id": `${SITE_URL}/seo-optimizacija-cena#results-timeline` },
+          { "@id": `${SITE_URL}/seo-optimizacija-cena#implementation-howto` }
+        ],
+        "additionalProperty": [
+          { "@type": "PropertyValue", "name": "Preporučeni period evaluacije", "value": "90 dana" },
+          { "@type": "PropertyValue", "name": "Tipični prvi pomaci", "value": "1-2 meseca za lokalne upite" },
+          { "@type": "PropertyValue", "name": "Ozbiljniji rezultat za konkurentne upite", "value": "4-6 meseci" }
+        ]
+      },
+      {
+        "@type": "OfferCatalog",
+        "@id": `${SITE_URL}/seo-optimizacija-cena#package-tiers`,
+        "name": "SEO paketi",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Osnovni SEO",
+            "description": "Lokalni SEO i tehničke osnove za manje biznise.",
+            "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "300", "maxPrice": "500", "billingDuration": "P1M" }
+          },
+          {
+            "@type": "Offer",
+            "name": "Napredni SEO",
+            "description": "SEO rast kroz sadržaj, tehničke iteracije i konkurentsku analizu.",
+            "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "500", "maxPrice": "1200", "billingDuration": "P1M" }
+          },
+          {
+            "@type": "Offer",
+            "name": "Premium SEO",
+            "description": "Agresivan SEO pristup za visoko konkurentne niše.",
+            "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "EUR", "minPrice": "1200", "maxPrice": "3000", "billingDuration": "P1M" }
+          }
+        ]
+      },
+      {
+        "@type": "ItemList",
+        "@id": `${SITE_URL}/seo-optimizacija-cena#cost-drivers`,
+        "name": "Ključni faktori koji utiču na cenu SEO optimizacije",
+        "numberOfItems": 6,
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Tehničko stanje sajta i brzina učitavanja" },
+          { "@type": "ListItem", "position": 2, "name": "Konkurentnost ključnih reči i industrije" },
+          { "@type": "ListItem", "position": 3, "name": "Obim sadržaja i content produkcije mesečno" },
+          { "@type": "ListItem", "position": 4, "name": "Kvalitet internog linkovanja i strukture stranica" },
+          { "@type": "ListItem", "position": 5, "name": "Kvalitet backlink profila i domen autoritet" },
+          { "@type": "ListItem", "position": 6, "name": "Brzina obrade leadova i poslovni kapacitet" }
+        ]
+      },
+      {
+        "@type": "ItemList",
+        "@id": `${SITE_URL}/seo-optimizacija-cena#results-timeline`,
+        "name": "SEO vremenski okvir rezultata",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": { "@type": "Thing", "name": "Mesec 1-2: audit i tehnički temelji", "description": "Tehnički audit sajta, istraživanje ključnih reči i optimizacija postojećih stranica." }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": { "@type": "Thing", "name": "Mesec 3-4: sadržaj i linkovi", "description": "Objava novih sadržaja i početak sistemskog internog i eksternog linkovanja." }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": { "@type": "Thing", "name": "Mesec 5-6: rast i konverzija", "description": "Rast organskog saobraćaja i optimizacija ka većem broju kvalifikovanih upita." }
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": `${SITE_URL}/seo-optimizacija-cena#implementation-howto`,
+        "name": "Kako izgleda SEO plan rada za prvih 90 dana",
+        "description": "Operativni SEO plan u četiri koraka: audit, keyword intent, content plan i KPI izveštavanje.",
+        "inLanguage": "sr-RS",
+        "totalTime": "P90D",
+        "about": { "@id": `${SITE_URL}/seo-optimizacija-cena#service` },
+        "step": [
+          {
+            "@type": "HowToStep",
+            "position": 1,
+            "name": "Audit i tehnički temelji",
+            "text": "Analiza tehničkih grešaka, brzine učitavanja i trenutnih SEO blokera koji koče rast.",
+            "url": `${SITE_URL}/seo-optimizacija-cena#audit-temelji`
+          },
+          {
+            "@type": "HowToStep",
+            "position": 2,
+            "name": "Keyword intent mapa",
+            "text": "Biranje ključnih reči sa realnom namerom kupovine umesto fokusiranja na prazne volumene pretrage.",
+            "url": `${SITE_URL}/seo-optimizacija-cena#keyword-intent`
+          },
+          {
+            "@type": "HowToStep",
+            "position": 3,
+            "name": "90-dnevni sadržajni plan",
+            "text": "Planiranje novih stranica i blog sadržaja koji internim linkovanjem guraju money stranice ka vrhu.",
+            "url": `${SITE_URL}/seo-optimizacija-cena#seo-plan-90-dana`
+          },
+          {
+            "@type": "HowToStep",
+            "position": 4,
+            "name": "SEO KPI izveštaj i iteracije",
+            "text": "Mesečni pregled pozicija, organskog saobraćaja i konverzija uz jasne naredne prioritete.",
+            "url": `${SITE_URL}/seo-optimizacija-cena#seo-kpi-izvestaj`
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": `${SITE_URL}/seo-optimizacija-cena#breadcrumb`,
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Početna", "item": SITE_URL },
+          { "@type": "ListItem", "position": 2, "name": "SEO optimizacija cena", "item": `${SITE_URL}/seo-optimizacija-cena` }
+        ]
       },
       {
         "@type": "FAQPage",
+        "@id": `${SITE_URL}/seo-optimizacija-cena#faq`,
         "mainEntity": [
           {
             "@type": "Question",

@@ -75,6 +75,8 @@ app.use('/api/admin', adminRoutes)
 const LEGACY_REDIRECTS = new Map([
   ['/paketi', '/cene-digitalnog-marketinga'],
   ['/studije-slucaja', '/case-studies'],
+  ['/blog/alex-hormozi-value-equation-ponuda-koja-prodaje-srbija-2026', '/blog/alex-hormozi-value-equation-ponuda-koja-se-prodaje-srbija-2026'],
+  ['/blog/alex-hormozi-ponuda-koja-prodaje-srbija-2026', '/blog/alex-hormozi-value-equation-ponuda-koja-se-prodaje-srbija-2026'],
 ])
 
 const INTERNAL_NOINDEX_PATHS = new Set([

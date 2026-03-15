@@ -1,4 +1,71 @@
-const rawBlogPosts = [
+﻿const rawBlogPosts = [
+  {
+    slug: 'seo-optimizacija-za-web-shop-cena-srbija-2026',
+    title: 'SEO optimizacija za web shop u Srbiji 2026: realne cene, rokovi i sta stvarno placate',
+    excerpt: 'Koliko kosta SEO optimizacija za web shop u Srbiji 2026, zasto e-commerce SEO zahteva drugaciji pristup i kada se investicija stvarno isplati.',
+    date: '2026-03-15',
+    category: 'SEO',
+    readTime: '9 min',
+    content: `
+## SEO optimizacija za web shop u Srbiji 2026: kratak odgovor
+
+Ako vas zanima upit **seo optimizacija za web shop cena**, u 2026. godini na srpskom trzistu taj opseg najcesce izgleda ovako:
+
+- **Mali web shop (do 500 proizvoda, osnovna optimizacija):** 300e-500e mesecno.
+- **Srednji web shop (500-2.000 proizvoda, tehnicki SEO + sadrzaj):** 500e-1.200e mesecno.
+- **Veliki e-commerce sistemi (kategorije, filteri, skaliranje):** 1.200e-2.500e+ mesecno.
+
+Za siri uvid u standardne SEO pakete, pogledajte i nas pregled za [SEO optimizacija cena](/seo-optimizacija-cena).
+
+## Zasto web shop SEO kosta drugacije od obicnog sajta
+
+Optimizovati sajt usluzne firme od 15 stranica nije isto sto i optimizovati web shop sa 3.000 proizvoda i 50 kategorija. 
+Web shopovi imaju specificne tehnicke izazove koji direktno ruse rangiranje ako se ne rese odmah.
+
+Tri najcesca razloga zasto web shop ne raste organski:
+1. **Kanibalizacija kljucnih reci:** vise proizvoda se bori za isti termin.
+2. **Dupli sadrzaj (Duplicate content):** filteri, varijacije boja i velicina stvaraju stotine url-ova koji zbunjuju Google.
+3. **Prazne stranice proizvoda (Thin content):** proizvod ima samo sliku, cenu i jednu recenicu opisa preuzetu od dobavljaca.
+
+## Faze e-commerce SEO optimizacije koje donose prodaju
+
+Ozbiljan rad na web shopu ne podrazumeva samo ubacivanje kljucnih reci u naslove. 
+Proces koji daje stabilan rast najcesce prolazi kroz cetiri faze.
+
+### 1) Tehnicki temelj i arhitektura
+Pre nego sto pocnemo da pisemo opise, sajt mora tehnicki da bude cist. To znaci da sredimo problem sa fasetiranim pretragama (filterima) kako Google ne bi indeksirao hiljade beskorisnih stranica. Popravljamo brzinu, resavamo preusmeravanja i uvodimo jasnu hijerarhiju kategorija. Ako web shop tehnicki skripi, svaki dalji trud je bacanje novca.
+
+### 2) Optimizacija kategorija (Money pages)
+Ljudi najcesce ne traze konkretan model cipela, vec kucaju "zimske cipele za planinarenje". Zato kategorije moraju da funkcionisu kao landing stranice. Moraju da imaju jasan naslov, optimizovan opis ispod proizvoda i strukturu koja posetioca brzo vodi do kupovine.
+
+### 3) Optimizacija stranica proizvoda
+Slike moraju da budu brze, opisi moraju da budu originalni, a url-ovi logicni. Umesto da koristimo fabricke opise koje ima jos 20 drugih prodavnica, kreiramo tekst koji prodaje i usput odgovara na nameru pretrage.
+
+### 4) Skaliranje i autoritet (Link building)
+Kada je kuca sredjena, prelazimo na gradjenje autoriteta. To radimo kroz pametan content marketing na blogu (vodici za kupovinu, saveti) i dobijanje kvalitetnih povratnih linkova ka vasim najbitnijim kategorijama.
+
+Ako vas usput zanima isplativost u poredjenju sa oglasima za web shop, koristan resurs je [Google reklame cena](/google-reklame-cena).
+
+## Posle koliko vremena web shop pocinje da vraca ulozene pare
+
+Ovo je cesto pitanje broj jedan, a odgovor trazi strpljenje. Za SEO rezultate na postojecem web shopu najcesce je potrebno 3 do 6 meseci da vidite prvi merljiv rast saobracaja. Za potpuno nov web shop, taj period iznosi od 6 do 12 meseci.
+
+SEO nije dugme za brzu zaradu. To je investicija u sistem koji vas na kraju kosta manje po prodatom proizvodu od bilo koje placene reklame. Ako vam treba prodaja sutra, usmerite budzet u oglase, a za orijentir koristite [Instagram reklame cena](/instagram-reklame-cena) i [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama). 
+
+Ova dva kanala rade najbolje kada se postave paralelno, kako biste za godinu dana manje zavisili samo od placenog saobracaja.
+
+## Gde vlasnici web shopova najcesce bacaju novac
+
+Najskuplja greska koju vidjamo jeste angazovanje nekoga ko ce mesecima "pisati tekstove" za proizvode koji nikada nece rangirati, jer sama arhitektura sajta to ne dozvoljava. Tehnicki SEO uvek ide prvi.
+
+Druga zabluda je ulaganje celog budzeta u izradu sajta bez ikakvog plana sta se desava dan posle pustanja. Ako gradite sajt ili radite redizajn, informisite se na vreme kroz [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena) kako ne biste SEO ostavili za kraj. Dodavanje SEO strategije "preko" gotovog, zatvorenog e-commerce sistema najcesce kosta vise nego da je radjeno u startu.
+
+## Kakav plan vama odgovara?
+
+Ako trazite nacin da smanjite cenu po akviziciji kupca i stabilizujete saobracaj bez rasta troskova za oglase, obratite nam se kroz nas [kontakt](/kontakt) formular. 
+Brzo cemo pregledati vas web shop, izvuci najveca uska grla i predloziti plan koji resava ono sto vas trenutno blokira u rastu.
+`
+  },
   {
     slug: 'landing-stranica-za-google-ads-kako-spustiti-cenu-leada-srbija-2026',
     title: 'Landing stranica za Google Ads u Srbiji 2026: kako da spustis cenu lead-a bez veceg budzeta',
@@ -14827,6 +14894,7 @@ export const blogPosts = rawBlogPosts.filter((post) => {
   seenSlugs.add(post.slug)
   return true
 })
+
 
 
 

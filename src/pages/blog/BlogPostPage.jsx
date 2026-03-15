@@ -26,7 +26,174 @@ const componentMap = {
   '{{pyramid-full-funnel}}': PyramidFullFunnel,
 }
 
+const MONEY_PAGES = [
+  {
+    to: '/google-reklame-cena',
+    title: 'Google reklame cena',
+    desc: 'Realni CPC rasponi, budžeti i cena vođenja kampanja.',
+  },
+  {
+    to: '/instagram-reklame-cena',
+    title: 'Instagram reklame cena',
+    desc: 'Koliko košta Meta kanal i šta najviše utiče na cenu upita.',
+  },
+  {
+    to: '/koliko-kosta-facebook-reklama',
+    title: 'Koliko košta Facebook reklama',
+    desc: 'Budžet po fazama i najčešće greške koje dižu cenu lead-a.',
+  },
+  {
+    to: '/seo-optimizacija-cena',
+    title: 'SEO optimizacija cena',
+    desc: 'Paketi, obim rada i šta ulazi u SEO saradnju u Srbiji.',
+  },
+  {
+    to: '/izrada-wordpress-sajta-cena',
+    title: 'Izrada WordPress sajta cena',
+    desc: 'Trošak izrade, rokovi i šta pravi razliku u konverziji sajta.',
+  },
+  {
+    to: '/cene-izrade-sajta',
+    title: 'Cene izrade sajta',
+    desc: 'Brz pregled cenovnih raspona za biznis sajt, shop i custom rešenja.',
+  },
+  {
+    to: '/cene-digitalnog-marketinga',
+    title: 'Cene digitalnog marketinga',
+    desc: 'Uporedni pregled ulaganja po kanalu i nivou usluge.',
+  },
+  {
+    to: '/fiksna-naknada-vs-revenue-share',
+    title: 'Fiksna naknada vs revenue share',
+    desc: 'Koji model saradnje je bolji prema marži, riziku i cilju rasta.',
+  },
+]
 
+const MONEY_PAGE_BY_PATH = new Map(MONEY_PAGES.map((item) => [item.to, item]))
+
+const MONEY_LINK_GROUPS = [
+  {
+    keywords: ['google', 'search', 'cpc', 'ppc', 'reklam', 'oglas', 'meta ads', 'instagram', 'facebook', 'youtube', 'tiktok'],
+    links: ['/google-reklame-cena', '/instagram-reklame-cena', '/koliko-kosta-facebook-reklama'],
+  },
+  {
+    keywords: ['seo', 'organski', 'keyword', 'ključ', 'backlink', 'content', 'blog', 'rank', 'serp'],
+    links: ['/seo-optimizacija-cena', '/cene-digitalnog-marketinga', '/google-reklame-cena'],
+  },
+  {
+    keywords: ['wordpress', 'webshop', 'woocommerce', 'sajt', 'website', 'landing', 'konverzij', 'cro', 'checkout'],
+    links: ['/izrada-wordpress-sajta-cena', '/cene-izrade-sajta', '/seo-optimizacija-cena'],
+  },
+  {
+    keywords: ['strategij', 'agencij', 'budžet', 'budget', 'roi', 'funnel', 'lead', 'prodaj', 'akvizic'],
+    links: ['/cene-digitalnog-marketinga', '/fiksna-naknada-vs-revenue-share', '/seo-optimizacija-cena'],
+  },
+]
+
+const MONEY_LINK_FALLBACK = ['/cene-digitalnog-marketinga', '/google-reklame-cena', '/izrada-wordpress-sajta-cena']
+
+function getMoneyLinksForPost(post) {
+  const haystack = `${post?.title || ''} ${(post?.slug || '').replaceAll('-', ' ')} ${post?.content || ''}`.toLowerCase()
+  const selected = []
+  const selectedSet = new Set()
+
+  for (const group of MONEY_LINK_GROUPS) {
+    if (!group.keywords.some((keyword) => haystack.includes(keyword))) continue
+
+    for (const path of group.links) {
+      if (selectedSet.has(path)) continue
+      const item = MONEY_PAGE_BY_PATH.get(path)
+      if (!item) continue
+      selected.push(item)
+      selectedSet.add(path)
+      if (selected.length >= 3) return selected
+    }
+  }
+
+  for (const path of MONEY_LINK_FALLBACK) {
+    if (selectedSet.has(path)) continue
+    const item = MONEY_PAGE_BY_PATH.get(path)
+    if (!item) continue
+    selected.push(item)
+    selectedSet.add(path)
+    if (selected.length >= 3) break
+  }
+
+  return selected
+}
+
+function stripMarkdownForSchema(text) {
+  return text
+    .replace(/\*\*(.*?)\*\*/g, '$1')
+    .replace(/\[(.*?)\]\((.*?)\)/g, '$1')
+    .replace(/`([^`]+)`/g, '$1')
+    .replace(/\s+/g, ' ')
+    .trim()
+}
+
+function extractFaqEntriesFromContent(content) {
+  if (!content) return []
+
+  const lines = content.split('\n')
+  const entries = []
+  const seenQuestions = new Set()
+
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i].trim()
+    if (!line.startsWith('### ')) continue
+
+    const rawQuestion = stripMarkdownForSchema(line.slice(4))
+    if (!rawQuestion.endsWith('?')) continue
+
+    const normalizedQuestion = rawQuestion.toLowerCase()
+    if (seenQuestions.has(normalizedQuestion)) continue
+
+    const answerParts = []
+    let j = i + 1
+
+    while (j < lines.length) {
+      const nextLine = lines[j].trim()
+
+      if (!nextLine) {
+        j += 1
+        continue
+      }
+
+      if (nextLine.startsWith('## ') || nextLine.startsWith('### ') || nextLine === '---' || nextLine.startsWith('{{')) {
+        break
+      }
+
+      if (nextLine.startsWith('- ')) {
+        const listItems = []
+        while (j < lines.length && lines[j].trim().startsWith('- ')) {
+          listItems.push(stripMarkdownForSchema(lines[j].trim().slice(2)))
+          j += 1
+        }
+        if (listItems.length > 0) {
+          answerParts.push(listItems.join('; '))
+        }
+        continue
+      }
+
+      answerParts.push(stripMarkdownForSchema(nextLine))
+      j += 1
+    }
+
+    const answer = answerParts.join(' ').replace(/\s+/g, ' ').trim()
+    if (answer.length >= 30) {
+      entries.push({
+        question: rawQuestion,
+        answer,
+      })
+      seenQuestions.add(normalizedQuestion)
+    }
+
+    i = j - 1
+    if (entries.length >= 8) break
+  }
+
+  return entries
+}
 
 function ShareButtons({ title, slug }) {
   const url = `https://platinumzenith.com/blog/${slug}`
@@ -272,6 +439,8 @@ export default function BlogPostPage() {
     .filter(p => p.category === post.category && p.slug !== post.slug)
     .slice(0, 3)
 
+  const moneyLinks = getMoneyLinksForPost(post)
+
   const articleSchema = {
     '@context': 'https://schema.org',
     '@type': 'BlogPosting',
@@ -304,6 +473,20 @@ export default function BlogPostPage() {
     image: post.image ? `https://platinumzenith.com${post.image}` : 'https://platinumzenith.com/og-image.jpg',
   }
 
+  const faqEntries = extractFaqEntriesFromContent(post.content)
+  const faqSchema = faqEntries.length >= 2 ? {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqEntries.map((entry) => ({
+      '@type': 'Question',
+      name: entry.question,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: entry.answer,
+      },
+    })),
+  } : null
+
   /* Breadcrumb schema is emitted by usePageMeta.js (ld-breadcrumb) — no duplicate here */
 
   return (
@@ -313,6 +496,13 @@ export default function BlogPostPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
       />
+      {faqSchema && (
+        <script
+          id="ld-faq-blog"
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        />
+      )}
       <ReadingProgress />
 
       <header className="blog-header">
@@ -351,6 +541,21 @@ export default function BlogPostPage() {
       <div className="blog-content">
         {elements}
       </div>
+
+      {moneyLinks.length > 0 && (
+        <section className="blog-money-links">
+          <h2 className="blog-money-links-title">Ključne stranice za sledeći korak</h2>
+          <div className="blog-money-links-grid">
+            {moneyLinks.map((item) => (
+              <Link key={item.to} to={item.to} className="blog-money-link-card">
+                <h3 className="blog-money-link-h3">{item.title}</h3>
+                <p className="blog-money-link-desc">{item.desc}</p>
+                <span className="blog-money-link-cta">Otvori stranicu →</span>
+              </Link>
+            ))}
+          </div>
+        </section>
+      )}
 
       {related.length > 0 && (
         <section className="blog-related">
@@ -728,6 +933,64 @@ const blogStyles = `
     opacity: 0.7;
   }
 
+  .blog-money-links {
+    max-width: 1040px;
+    margin: 0 auto;
+    padding: 24px 24px 0;
+  }
+
+  .blog-money-links-title {
+    font-size: 24px;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 26px;
+    letter-spacing: -0.02em;
+  }
+
+  .blog-money-links-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 16px;
+  }
+
+  .blog-money-link-card {
+    display: block;
+    text-decoration: none;
+    border: 1px solid var(--edge-2, rgba(255,255,255,0.12));
+    border-radius: 14px;
+    background: var(--panel, rgba(255,255,255,0.03));
+    padding: 18px;
+    transition: border-color 0.2s, transform 0.2s;
+  }
+
+  .blog-money-link-card:hover {
+    border-color: rgba(96,165,250,0.55);
+    transform: translateY(-1px);
+  }
+
+  .blog-money-link-h3 {
+    margin: 0 0 8px;
+    font-size: 16px;
+    line-height: 1.35;
+    font-weight: 600;
+    color: var(--ink, #fff);
+  }
+
+  .blog-money-link-desc {
+    margin: 0;
+    font-size: 14px;
+    line-height: 1.55;
+    color: var(--ink-2, rgba(255,255,255,0.6));
+  }
+
+  .blog-money-link-cta {
+    display: inline-block;
+    margin-top: 14px;
+    font-size: 13px;
+    font-weight: 500;
+    color: #60a5fa;
+  }
+
   .blog-related {
     max-width: 1040px;
     margin: 0 auto;
@@ -928,6 +1191,21 @@ const blogStyles = `
       padding-left: 12px;
       padding-right: 12px;
       padding-bottom: 12px;
+    }
+
+    .blog-money-links {
+      padding-top: 10px;
+      padding-left: 18px;
+      padding-right: 18px;
+    }
+
+    .blog-money-links-title {
+      font-size: 20px;
+      margin-bottom: 18px;
+    }
+
+    .blog-money-links-grid {
+      grid-template-columns: 1fr;
     }
 
     .blog-related {

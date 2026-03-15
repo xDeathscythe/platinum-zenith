@@ -6,13 +6,13 @@ const services = [
     title: 'Izrada sajtova',
     desc: 'Od poslovnih prezentacija do web shopova. Custom dizajn prilagodjen vašem brendu, optimizovan za brzinu i mobilne uredjaje.',
     icon: '🌐',
-    link: '/web-dizajn',
+    link: '/web-design',
   },
   {
     title: 'SEO optimizacija',
     desc: 'Rangiranje na Google-u za ključne reči koje vaši kupci zaista pretražuju. Lokalna i nacionalna optimizacija.',
     icon: '📈',
-    link: '/seo-optimizacija',
+    link: '/seo-optimizacija-cena',
   },
   {
     title: 'Društvene mreže',
@@ -30,13 +30,13 @@ const services = [
     title: 'CRO optimizacija',
     desc: 'Pretvaramo vaše posetioce u kupce. Male izmene na sajtu mogu značiti veliku razliku u prihodu.',
     icon: '⚡',
-    link: '/cro-optimizacija',
+    link: '/cro',
   },
   {
     title: 'Konsalting',
     desc: 'Ne morate da angažujete agenciju za sve. Ponekad vam treba samo stručan savet i jasan plan.',
     icon: '💡',
-    link: '/konsalting',
+    link: '/consulting',
   },
 ]
 
@@ -189,9 +189,9 @@ export default function MarketingAgencijaZrenjaninPage() {
               <div className="text-[14px] font-medium text-ink mb-1">Cene digitalnog marketinga</div>
               <div className="text-[12px] text-ink-3">Koliko košta marketing mesečno</div>
             </Link>
-            <Link to="/blog/kako-izabrati-pravu-marketing-agenciju" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
-              <div className="text-[14px] font-medium text-ink mb-1">Kako izabrati agenciju</div>
-              <div className="text-[12px] text-ink-3">7 znakova za pravi izbor partnera</div>
+            <Link to="/consulting" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Marketing konsulting</div>
+              <div className="text-[12px] text-ink-3">1:1 plan rasta i prioriteti za ZR tržište</div>
             </Link>
             <Link to="/google-reklame-cena" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
               <div className="text-[14px] font-medium text-ink mb-1">Google reklame cena</div>
