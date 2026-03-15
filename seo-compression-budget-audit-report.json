@@ -1,0 +1,46 @@
+{
+  "generatedAt": "2026-03-15T17:08:26.782Z",
+  "compressedChunkCount": 65,
+  "publicBlogCount": 136,
+  "blogDataBrotliBudgetKb": 231,
+  "checks": [
+    {
+      "label": "index JS (brotli)",
+      "file": "index-D1pRg4uh.js.br",
+      "sizeKb": 13.56,
+      "maxKb": 15
+    },
+    {
+      "label": "vendor-react JS (brotli)",
+      "file": "vendor-react-D-tFKdcd.js.br",
+      "sizeKb": 54,
+      "maxKb": 58
+    },
+    {
+      "label": "vendor-router JS (brotli)",
+      "file": "vendor-router-WzOq1lTH.js.br",
+      "sizeKb": 10.67,
+      "maxKb": 24
+    },
+    {
+      "label": "vendor-motion JS (brotli)",
+      "file": "vendor-motion-INGeV9gw.js.br",
+      "sizeKb": 33.97,
+      "maxKb": 36
+    },
+    {
+      "label": "blogData JS (brotli)",
+      "file": "blogData-BEQCfkS-.js.br",
+      "sizeKb": 170.33,
+      "maxKb": 231
+    },
+    {
+      "label": "main CSS (brotli)",
+      "file": "index-B2FfdKJD.css.br",
+      "sizeKb": 13.44,
+      "maxKb": 15
+    }
+  ],
+  "issueCount": 0,
+  "issues": []
+}

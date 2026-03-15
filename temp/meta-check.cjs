@@ -1,0 +1,10 @@
+const fs=require('fs');
+const app=fs.readFileSync('src/App.jsx','utf8');
+const routes=[...app.matchAll(/<Route\s+path="([^"]+)"/g)].map(m=>m[1]).filter(p=>!p.includes('*'));
+const meta=fs.readFileSync('src/hooks/pageMetaData.js','utf8');
+const keys=[...meta.matchAll(/^\s*'([^']+)'\s*:\s*\{/gm)].map(m=>m[1]);
+const missing=routes.filter(r=>!keys.includes(r));
+const extra=keys.filter(k=>!routes.includes(k));
+console.log('routes',routes.length,'meta keys',keys.length);
+console.log('missing',missing);
+console.log('extra',extra);

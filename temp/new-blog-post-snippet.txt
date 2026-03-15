@@ -1,0 +1,108 @@
+  {
+    slug: 'google-ads-za-privatne-klinike-cena-leada-srbija-2026',
+    title: 'Google Ads za privatne klinike u Srbiji 2026: cena leada, budzet i kako da popunis termine',
+    excerpt: 'Koliko realno kostaju Google Ads kampanje za privatne klinike u Srbiji 2026, koji budzet ima smisla po grani medicine i kako da snizis cenu kvalitetnog pacijenta bez praznih upita.',
+    date: '2026-03-13',
+    category: 'Google Ads',
+    readTime: '10 min',
+    content: `
+## Google Ads za privatne klinike u Srbiji 2026: kratak odgovor
+
+Ako trazis upit **google ads za privatne klinike cena**, realan okvir za vecinu klinika u Srbiji je:
+
+- **Start test faza:** 700e-1.800e/mes,
+- **Stabilan tok kvalitetnih upita:** 1.800e-4.500e/mes,
+- **Skaliranje vise usluga i lokacija:** 4.500e+/mes.
+
+To je raspon medijskog ulaganja, ne garancija rezultata. Za siri Search benchmark pogledaj i [Google reklame cena](/google-reklame-cena).
+
+## Zasto klinike cesto plate klik, a ne dobiju pacijenta
+
+Najcesci problem nije samo cena klika. Problem je sto kampanja i landing ne filtriraju intent dovoljno dobro.
+
+Tipican scenario izgleda ovako:
+1. korisnik trazi "pregled + grad",
+2. klikne oglas,
+3. sleti na opstu stranicu bez jasne usluge, doktora i sledeceg koraka,
+4. upit ostaje slab ili korisnik odlazi kod konkurencije.
+
+Zato je kod klinika kljuc da meris **cenu zakazanog pregleda**, ne samo CPC.
+
+## Realni rasponi po granama (Srbija 2026)
+
+U praksi najcesce vidimo ove orijentire posle prve ozbiljne optimizacije:
+
+- **Stomatologija i estetska medicina:** CPC 0.35e-1.50e | kvalifikovan lead 12e-70e
+- **Dermatologija i anti-age tretmani:** CPC 0.30e-1.20e | kvalifikovan lead 10e-55e
+- **Fizikalna i rehabilitacija:** CPC 0.20e-0.90e | kvalifikovan lead 8e-40e
+- **Poliklinicki paketi i sistematski pregledi:** CPC 0.40e-1.80e | kvalifikovan lead 15e-85e
+
+Ako hoces da uporedis i model ukupnog ulaganja po kanalima, koristan je i pregled [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Struktura kampanje koja najcesce radi za privatne klinike
+
+### 1) Podela po intentu usluge
+Ne mesaj estetske, dijagnosticke i hitne upite u jednu kampanju. Razlicit intent trazi razlicit oglas i landing poruku.
+
+### 2) Podela po lokaciji
+Odvoji budzet po gradu/opstini koju klinika realno pokriva. Kod medicine lokalna relevantnost direktno utice na konverziju.
+
+### 3) Podela po vrednosti termina
+Nije isto voditi kampanju za pregled od 3.000 RSD i proceduru visoke vrednosti. Segmentacija po LTV-u cuva marzu.
+
+### 4) Remarketing za tople korisnike
+Veliki broj pacijenata ne zakaze termin iz prvog klika. Remarketing vraca korisnike koji su gledali uslugu, ali nisu poslali upit.
+
+## Landing strana koja pretvara klik u zakazan pregled
+
+Kod klinika landing mora da odgovori na tri pitanja u prvih par sekundi:
+
+- da li radite bas uslugu koju trazim,
+- ko radi pregled/tretman,
+- kako i kada mogu da zakazem.
+
+Minimum iznad prevoja:
+
+1. naslov sa uslugom + lokacijom,
+2. jasan CTA (poziv, Viber/WhatsApp ili forma),
+3. trust signali (licenca, iskustvo, recenzije),
+4. kratko objasnjen proces (trajanje, priprema, rezultat),
+5. FAQ sa najcescim pitanjima o terminu i ceni.
+
+Ako radis i SEO stranu akvizicije, dobar nastavak je [SEO optimizacija cena](/seo-optimizacija-cena). Za dentalni segment pogledaj i [marketing za stomatologe](/marketing-za-stomatologe).
+
+## KPI koji treba pratiti svake nedelje
+
+Nemoj voditi kampanju po kliku. Fokus drzi na:
+
+1. ceni kvalifikovanog lead-a,
+2. procentu lead-ova koji postaju zakazan pregled,
+3. ceni zakazanog pregleda,
+4. stopi dolaska na termin,
+5. prosecnoj vrednosti pacijenta po usluzi.
+
+Tek kada ove metrike gledas zajedno, znas da li Google Ads pravi profit ili samo aktivnost.
+
+## 30-dnevni plan bez bacanja budzeta
+
+- **Nedelja 1:** tracking setup, podela kampanja po intentu i uslugama, bazni oglasi.
+- **Nedelja 2:** search terms ciscenje, negativne reci, test 2-3 oglasa po segmentu.
+- **Nedelja 3:** dorada landing poruke i CTA toka prema najjacem intentu.
+- **Nedelja 4:** preraspodela budzeta samo na segmente sa najboljim odnosom cena lead-a / zakazan pregled.
+
+Ako pored Search kanala planiras i Meta kanal za demand capture, pogledaj i [Instagram reklame cena](/instagram-reklame-cena).
+
+## Najskuplje greske koje klinike prave
+
+1. **Jedna kampanja za sve usluge** - algoritam trosi budzet na jeftinije, ali slabije upite.
+2. **Presiroke kljucne reci bez negativnih reci** - informativne pretrage jedu budzet.
+3. **Slab post-click deo** - oglas obecava jedno, landing pokazuje drugo.
+4. **Kasna reakcija na lead** - i najbolji lead hladi se ako odgovor kasni.
+5. **Merenje samo CPC-a** - bez podataka o zakazanim terminima ne znas pravi ROI.
+
+## Zakljucak
+
+Google Ads za privatne klinike u Srbiji 2026 moze da donese stabilan tok profitabilnih pacijenata kada kampanje vodis po intentu, usluzi i kvalitetu lead-a, ne po najjeftinijem kliku.
+Ako hoces, mogu da uradim mini audit tvog naloga i oznacim 3 najbrza poteza za nizu cenu zakazanog pregleda preko [kontakt forme](/kontakt).
+`,
+  },

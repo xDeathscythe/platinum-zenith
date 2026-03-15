@@ -1,0 +1,26 @@
+{
+  "generatedAt": "2026-03-15T17:12:46.239Z",
+  "pagesChecked": 3,
+  "issueCount": 0,
+  "checks": [
+    {
+      "route": "/marketing-agencija-beograd",
+      "h1Count": 1,
+      "h2Count": 6,
+      "h1": "marketing agencija za beograd"
+    },
+    {
+      "route": "/marketing-agencija-zrenjanin",
+      "h1Count": 1,
+      "h2Count": 6,
+      "h1": "marketing agencija u zrenjaninu"
+    },
+    {
+      "route": "/marketing-agencija-novi-sad",
+      "h1Count": 1,
+      "h2Count": 7,
+      "h1": "marketing agencija za novi sad"
+    }
+  ],
+  "issues": []
+}

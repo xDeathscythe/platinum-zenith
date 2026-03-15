@@ -1,0 +1,102 @@
+  {
+    slug: 'google-ads-za-agencije-za-nekretnine-cena-leada-srbija-2026',
+    title: 'Google Ads za agencije za nekretnine u Srbiji 2026: cena lead-a, budzet i kako do ozbiljnih kupaca',
+    excerpt: 'Koliko realno kostaju Google Ads kampanje za agencije za nekretnine u Srbiji 2026, koji budzet ima smisla i kako da spustite cenu lead-a bez praznih upita.',
+    date: '2026-03-13',
+    category: 'Google Ads',
+    readTime: '10 min',
+    content: `
+## Google Ads za agencije za nekretnine u Srbiji 2026: kratak odgovor
+
+Ako trazis upit **google ads za agenciju za nekretnine cena**, realan okvir za srpsko trziste 2026 najcesce izgleda ovako:
+
+- **Start test faza:** 700e-1.800e/mes,
+- **Stabilan lead flow:** 1.800e-4.000e/mes,
+- **Skaliranje po gradovima i segmentima nekretnina:** 4.000e+/mes.
+
+Za siri Search benchmark pogledaj i [Google reklame cena](/google-reklame-cena).
+
+## Koliko realno kosta lead za nekretnine
+
+Posle prve ozbiljne optimizacije, najcesci rasponi su:
+
+- **CPC:** 0.25e-1.60e,
+- **kvalifikovan lead:** 18e-95e,
+- **zakazan obilazak ili konsultacija:** 35e-180e.
+
+Najveca razlika nije samo u ceni klika, nego u kvalitetu upita.
+Lead koji nema budzet, rok i lokaciju izgleda "jeftino" u tabeli, ali je skup za prodajni tim.
+
+## Gde agencije za nekretnine najcesce gube budzet
+
+### 1) Mesanje kupovine, izdavanja i prodaje investitora u istim kampanjama
+Kupac stana za zivot, investitor i zakupac ne traze iste informacije i ne donose odluku istim tempom.
+
+### 2) Presiroke kljucne reci
+Upiti tipa "stanovi beograd" bez dodatne namere cesto vuku informativan saobracaj koji ne zavrsava u ozbiljnom razgovoru.
+
+### 3) Slab post-click deo
+Oglas obecava "aktuelnu ponudu i brz odgovor", a korisnik sleti na opstu stranicu bez filtera, cene i jasnog sledeceg koraka.
+
+### 4) Kasan follow-up
+Kod nekretnina brzina odgovora pravi ogromnu razliku. Lead koji ceka satima cesto vec razgovara sa drugom agencijom.
+
+Ako zelis da sredis post-click deo, koristan je i vodic [izrada landing stranice: cena, rokovi, sta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
+
+## Struktura kampanje koja najcesce radi
+
+### 1) Kampanje po intentu
+Odvoji:
+- kupovinu,
+- izdavanje,
+- prodaju nekretnine,
+- investitorske upite.
+
+### 2) Kampanje po lokaciji i tipu nekretnine
+Nije ista ekonomika za "garsonjera Novi Sad" i "kuca Beograd okolina".
+
+### 3) High-intent keyword sloj
+Poseban budzet za upite sa jasnim signalom odluke (cena, agencija, konsultacija, procena).
+
+### 4) Branded + remarketing sloj
+Branded stiti vase ime, remarketing vraca korisnike koji su gledali konkretne oglase nekretnina ali nisu poslali upit.
+
+## Landing koji pretvara klik u ozbiljan razgovor
+
+Kod nekretnina korisnik brzo procenjuje poverenje. Zato iznad prevoja moraju da budu:
+
+1. jasan naslov po lokaciji i segmentu,
+2. konkretna ponuda ili tip nekretnina,
+3. vidljiv CTA (poziv, WhatsApp ili forma),
+4. trust signali (broj realizacija, recenzije, iskustvo agenta),
+5. jednostavan put do prve konsultacije.
+
+Ako planiras i tehnicku obnovu sajta agencije, pogledaj i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+
+## KPI koji imaju smisla svake nedelje
+
+Nemoj voditi kampanje po impresijama. Fokus drzi na:
+
+1. ceni kvalifikovanog lead-a,
+2. procentu lead-ova koji postaju zakazan razgovor,
+3. ceni zakazanog obilaska,
+4. procentu razgovora koji postaju ugovor,
+5. prihodu po kampanji i segmentu nekretnina.
+
+Tek kada ove brojke gledas zajedno, znas da li Google Ads pravi pipeline ili samo aktivnost.
+
+## 30-dnevni plan bez lutanja
+
+- **Nedelja 1:** tracking setup, podela kampanja po intentu i lokaciji, bazni oglasi.
+- **Nedelja 2:** search terms ciscenje, negativne reci, test 2-3 oglasa po grupi.
+- **Nedelja 3:** dorada landing poruke i CTA toka.
+- **Nedelja 4:** preraspodela budzeta samo na segmente sa najboljim odnosom cena lead-a / kvalitet lead-a.
+
+Za siri okvir alokacije po kanalima pogledaj i [cene digitalnog marketinga](/cene-digitalnog-marketinga). Ako paralelno radis demand capture na Meta kanalima, koristan benchmark je [Instagram reklame cena](/instagram-reklame-cena).
+
+## Zakljucak
+
+Google Ads za agencije za nekretnine u Srbiji 2026 moze da donese stabilan tok ozbiljnih kupaca kada kampanje vodis po intentu, lokaciji i kvalitetu upita, ne po najjeftinijem kliku.
+Ako hoces, mogu da uradim mini audit naloga i oznacim 3 najbrza poteza za nizu cenu kvalitetnog lead-a preko [kontakt forme](/kontakt).
+`,
+  },

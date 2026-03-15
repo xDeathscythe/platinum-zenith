@@ -1,0 +1,125 @@
+  {
+    slug: 'google-ads-za-fizioterapeute-cena-termina-srbija-2026',
+    title: 'Google Ads za fizioterapeute u Srbiji 2026: cena termina, budzet i kako da smanjis prazne upite',
+    excerpt: 'Koliko realno kostaju Google Ads kampanje za fizio ordinacije u Srbiji 2026, koji budzet ima smisla i kako da spustis cenu zakazanog termina bez praznih poziva.',
+    date: '2026-03-15',
+    category: 'Google Ads',
+    readTime: '10 min',
+    content: `
+## Google Ads za fizioterapeute: kratak odgovor
+
+Ako trazis upit **google ads za fizioterapeute cena**, realni rasponi u Srbiji 2026 najcesce izgledaju ovako:
+
+- **CPC:** 0.18e-0.95e,
+- **cena kvalifikovanog upita:** 7e-32e,
+- **cena zakazanog termina:** 12e-55e,
+- **test budzet za prvi mesec:** 350e-900e.
+
+U gradovima sa jacom konkurencijom (Beograd, Novi Sad) raspon ide vise, dok je u manjim gradovima cesto nizi ako su kampanje usko segmentirane.
+Za siri benchmark pogledaj i [google reklame cena](/google-reklame-cena).
+
+## Sta najvise podize cenu termina
+
+Kod fizio kampanja problem retko bude samo u ceni klika.
+Najcesce cenu termina podizu tri stvari:
+
+1. preopsirni keyword set bez jasnog intenta,
+2. landing koji ne filtrira hitne i nehitne slucajeve,
+3. spor odgovor na prvi poziv ili formu.
+
+Ako kampanja dovede relevantnog korisnika, a ordinacija odgovori posle 2-3 sata, deo upita ode konkurenciji.
+Zato je bitan i operativni deo, ne samo Ads nalog.
+
+## Rasponi po intentu (fizio usluge)
+
+Najprakticnije je da kampanju podelis po intentu:
+
+- **urgent bol / hitan termin:** skuplji klik, ali najbrzi put do termina,
+- **specificna terapija (diskus hernija, vrat, rame, koleno):** srednji CPC i dobar kvalitet lead-a,
+- **edukativni upiti (vezbe kod kuce):** jeftiniji klik, ali slabija konverzija bez jakog CTA-a.
+
+Ako sve ovo ubacis u isti ad group, poruka postaje mutna i quality score pada.
+Bolje rade odvojene kampanje sa jasnim landing blokovima po problemu.
+
+## Kako postaviti budzet bez nagadjanja
+
+Praktican model za fizioterapeute:
+
+1. odredi prosecnu vrednost jednog novog pacijenta,
+2. odredi koliko termina treba mesecno,
+3. postavi maksimalni CPA koji ostavlja zdravu marzu,
+4. tek onda postavi dnevni budzet.
+
+Primer:
+
+- prosecna vrednost pacijenta: 140e,
+- cilj: 18 novih pacijenata mesecno,
+- maksimalni CPA: 35e,
+- maksimalan medijski trosak: oko 630e.
+
+Za kompletan plan troska po kanalima vidi i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Landing struktura koja najcesce radi za fizio ordinacije
+
+Google Ads za fizio ne treba da vodi na genericki homepage.
+Landing treba da ima:
+
+- jasno navedene probleme koje resavas,
+- istaknutu lokaciju i radno vreme,
+- kratak dokaz poverenja (recenzije, broj pacijenata, iskustvo),
+- jedan glavni CTA (poziv ili forma),
+- FAQ koji skida glavne dileme pre zakazivanja.
+
+Ako je sajt spor ili nepregledan na mobilnom, kampanja placa klikove koji ne postaju termini.
+Za post-click deo pogledaj i [izrada wordpress sajta cena](/izrada-wordpress-sajta-cena).
+
+## 5 gresaka koje fizio ordinacije najcesce prave
+
+### 1) Jedna kampanja za sve terapije
+Bolje radi podela po usluzi ili problemu (ledja, vrat, sportske povrede) jer ad copy postaje konkretniji.
+
+### 2) Bez negativnih kljucnih reci
+Bez negativnih reci kampanja cesto hvata informativne upite koji ne vode zakazivanju.
+
+### 3) Preslab CTA na landingu
+Ako korisnik ne zna sta je sledeci korak u prvih par sekundi, konverzija pada.
+
+### 4) Nema pracenja poziva
+Ako se ne prati call tracking, lako deluje da kampanja ne radi iako telefoni zvone.
+
+### 5) Fokus na jeftin CPC umesto na cenu termina
+Cilj nije najjeftiniji klik, vec stabilan broj kvalitetnih zakazivanja.
+
+## Kako da spustis cenu termina u 30 dana
+
+- **Nedelja 1:** ciscenje keyword seta + dodavanje negativnih reci,
+- **Nedelja 2:** nova ad copy varijanta po glavnim terapijama,
+- **Nedelja 3:** dorada landing sekcija (dokaz, CTA, FAQ),
+- **Nedelja 4:** budzet prebaciti samo na ad grupe koje drze ciljani CPA.
+
+Ako paralelno planiras i social kanal, uporedi sa [instagram reklame cena](/instagram-reklame-cena).
+
+## FAQ: Google Ads za fizioterapeute
+
+### Koliki je minimalan budzet za fizio kampanje?
+Praktican minimum je 350e-500e mesecno za mediju, plus cena vodjenja. Ispod toga je tesko prikupiti dovoljno podataka za ozbiljnu optimizaciju.
+
+### Koliko brzo stizu prvi upiti?
+Prvi pozivi obicno stizu brzo, cesto u prvih nekoliko dana. Za stabilniju cenu termina i bolju predvidljivost obicno treba 3-5 nedelja.
+
+### Da li je bolje voditi kampanju po usluzi ili po lokaciji?
+Najcesce najbolje radi kombinacija: kampanja po usluzi, a unutar nje ad copy i ekstenzije vezane za lokaciju ordinacije.
+
+### Da li vredi raditi Google Ads ako ordinacija radi samo jedan tip terapije?
+Da, ako su kljucne reci usko vezane za komercijalni intent i ako landing jasno objasnjava kome je usluga namenjena.
+
+### Kako da znam da li je kampanja profitabilna?
+Prati cenu zakazanog termina i procenat pacijenata koji nastavljaju terapijski plan. Ako kampanja donosi pacijente sa zdravom marginom, model je odrziv.
+
+## Zakljucak
+
+Google Ads za fizioterapeute u Srbiji 2026 moze da bude vrlo profitabilan kada se kampanje vode po intentu, a landing i follow-up proces prate isti cilj: zakazan termin, ne samo klik.
+Ako hoces, mogu da mapiram 3 najbrza poteza za tvoju ordinaciju preko [kontakt forme](/kontakt).
+`,
+  },
+

@@ -1,0 +1,194 @@
+{
+  "generatedAt": "2026-03-15T17:12:48.502Z",
+  "targets": 17,
+  "failing": 0,
+  "checks": [
+    {
+      "route": "/google-reklame-cena",
+      "component": "GoogleReklameCenaPage",
+      "file": "src\\pages\\GoogleReklameCenaPage.jsx",
+      "uniqueInternalLinks": 12,
+      "hasKontakt": true,
+      "hasRouteSchema": true,
+      "hasFaqSchema": true,
+      "hasBreadcrumbSchema": true,
+      "issues": []
+    },
+    {
+      "route": "/instagram-reklame-cena",
+      "component": "InstagramReklameCenaPage",
+      "file": "src\\pages\\InstagramReklameCenaPage.jsx",
+      "uniqueInternalLinks": 10,
+      "hasKontakt": true,
+      "hasRouteSchema": true,
+      "hasFaqSchema": true,
+      "hasBreadcrumbSchema": true,
+      "issues": []
+    },
+    {
+      "route": "/izrada-wordpress-sajta-cena",
+      "component": "IzradaWordpressSajtaCenaPage",
+      "file": "src\\pages\\IzradaWordpressSajtaCenaPage.jsx",
+      "uniqueInternalLinks": 11,
+      "hasKontakt": true,
+      "hasRouteSchema": true,
+      "hasFaqSchema": true,
+      "hasBreadcrumbSchema": true,
+      "issues": []
+    },
+    {
+      "route": "/koliko-kosta-facebook-reklama",
+      "component": "KolikoKostaFacebookReklamaPage",
+      "file": "src\\pages\\KolikoKostaFacebookReklamaPage.jsx",
+      "uniqueInternalLinks": 6,
+      "hasKontakt": true,
+      "hasRouteSchema": true,
+      "hasFaqSchema": true,
+      "hasBreadcrumbSchema": true,
+      "issues": []
+    },
+    {
+      "route": "/seo-optimizacija-cena",
+      "component": "SeoOptimizacijaCenaPage",
+      "file": "src\\pages\\SeoOptimizacijaCenaPage.jsx",
+      "uniqueInternalLinks": 6,
+      "hasKontakt": true,
+      "hasRouteSchema": true,
+      "hasFaqSchema": true,
+      "hasBreadcrumbSchema": true,
+      "issues": []
+    },
+    {
+      "route": "/cene-izrade-sajta",
+      "component": "CeneIzradeSajtaPage",
+      "file": "src\\pages\\CeneIzradeSajtaPage.jsx",
+      "uniqueInternalLinks": 7,
+      "hasKontakt": true,
+      "hasRouteSchema": true,
+      "hasFaqSchema": true,
+      "hasBreadcrumbSchema": true,
+      "issues": []
+    },
+    {
+      "route": "/cene-digitalnog-marketinga",
+      "component": "CeneDigitalnogMarketingaPage",
+      "file": "src\\pages\\CeneDigitalnogMarketingaPage.jsx",
+      "uniqueInternalLinks": 7,
+      "hasKontakt": true,
+      "hasRouteSchema": true,
+      "hasFaqSchema": true,
+      "hasBreadcrumbSchema": true,
+      "issues": []
+    },
+    {
+      "route": "/marketing-agencija-beograd",
+      "component": "MarketingAgencijaBgPage",
+      "file": "src\\pages\\MarketingAgencijaBgPage.jsx",
+      "uniqueInternalLinks": 8,
+      "hasKontakt": true,
+      "hasRouteSchema": true,
+      "hasFaqSchema": true,
+      "hasBreadcrumbSchema": true,
+      "issues": []
+    },
+    {
+      "route": "/marketing-agencija-zrenjanin",
+      "component": "MarketingAgencijaZrenjaninPage",
+      "file": "src\\pages\\MarketingAgencijaZrenjaninPage.jsx",
+      "uniqueInternalLinks": 8,
+      "hasKontakt": true,
+      "hasRouteSchema": true,
+      "hasFaqSchema": true,
+      "hasBreadcrumbSchema": true,
+      "issues": []
+    },
+    {
+      "route": "/marketing-agencija-novi-sad",
+      "component": "MarketingAgencijaNsPage",
+      "file": "src\\pages\\MarketingAgencijaNsPage.jsx",
+      "uniqueInternalLinks": 8,
+      "hasKontakt": true,
+      "hasRouteSchema": true,
+      "hasFaqSchema": true,
+      "hasBreadcrumbSchema": true,
+      "issues": []
+    },
+    {
+      "route": "/in-house-tim-vs-agencija",
+      "component": "InHouseVsAgencijaPage",
+      "file": "src\\pages\\InHouseVsAgencijaPage.jsx",
+      "uniqueInternalLinks": 8,
+      "hasKontakt": true,
+      "hasRouteSchema": true,
+      "hasFaqSchema": true,
+      "hasBreadcrumbSchema": true,
+      "issues": []
+    },
+    {
+      "route": "/fiksna-naknada-vs-revenue-share",
+      "component": "FiksnaNaknadaVsRevenueSharePage",
+      "file": "src\\pages\\FiksnaNaknadaVsRevenueSharePage.jsx",
+      "uniqueInternalLinks": 8,
+      "hasKontakt": true,
+      "hasRouteSchema": true,
+      "hasFaqSchema": true,
+      "hasBreadcrumbSchema": true,
+      "issues": []
+    },
+    {
+      "route": "/facebook-oglasi-ne-rade",
+      "component": "FacebookOglasiNeRadePage",
+      "file": "src\\pages\\FacebookOglasiNeRadePage.jsx",
+      "uniqueInternalLinks": 8,
+      "hasKontakt": true,
+      "hasRouteSchema": true,
+      "hasFaqSchema": true,
+      "hasBreadcrumbSchema": true,
+      "issues": []
+    },
+    {
+      "route": "/web-shop-nema-prodaju",
+      "component": "WebShopNemaProdajuPage",
+      "file": "src\\pages\\WebShopNemaProdajuPage.jsx",
+      "uniqueInternalLinks": 6,
+      "hasKontakt": true,
+      "hasRouteSchema": true,
+      "hasFaqSchema": true,
+      "hasBreadcrumbSchema": true,
+      "issues": []
+    },
+    {
+      "route": "/marketing-za-advokate",
+      "component": "MarketingZaAdvokatePage",
+      "file": "src\\pages\\MarketingZaAdvokatePage.jsx",
+      "uniqueInternalLinks": 10,
+      "hasKontakt": true,
+      "hasRouteSchema": true,
+      "hasFaqSchema": true,
+      "hasBreadcrumbSchema": true,
+      "issues": []
+    },
+    {
+      "route": "/marketing-za-stomatologe",
+      "component": "MarketingZaStomatologePage",
+      "file": "src\\pages\\MarketingZaStomatologePage.jsx",
+      "uniqueInternalLinks": 10,
+      "hasKontakt": true,
+      "hasRouteSchema": true,
+      "hasFaqSchema": true,
+      "hasBreadcrumbSchema": true,
+      "issues": []
+    },
+    {
+      "route": "/marketing-za-restorane",
+      "component": "MarketingZaRestoranePage",
+      "file": "src\\pages\\MarketingZaRestoranePage.jsx",
+      "uniqueInternalLinks": 10,
+      "hasKontakt": true,
+      "hasRouteSchema": true,
+      "hasFaqSchema": true,
+      "hasBreadcrumbSchema": true,
+      "issues": []
+    }
+  ]
+}

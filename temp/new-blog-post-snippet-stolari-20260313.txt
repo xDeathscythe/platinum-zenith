@@ -1,0 +1,107 @@
+  {
+    slug: 'google-ads-za-stolare-cena-leada-srbija-2026',
+    title: 'Google Ads za stolare u Srbiji 2026: cena lead-a, budzet i vise upita za namestaj po meri',
+    excerpt: 'Koliko realno kostaju Google Ads kampanje za stolare u Srbiji 2026, koji budzet ima smisla i kako da spustite cenu kvalitetnog upita bez praznih poziva.',
+    date: '2026-03-13',
+    category: 'Google Ads',
+    readTime: '10 min',
+    content: `
+## Google Ads za stolare u Srbiji 2026: kratak odgovor
+
+Ako trazis upit **google ads za stolare cena**, najpracticalniji okvir za srpsko trziste 2026 je:
+
+- **start test faza:** 350e-900e/mes,
+- **stabilan priliv upita za namestaj po meri:** 900e-2.200e/mes,
+- **skaliranje po gradovima i tipovima projekata:** 2.200e+/mes.
+
+Za siri benchmark Search troska pogledaj i [Google reklame cena](/google-reklame-cena).
+
+## Koliko realno kosta lead za stolarske usluge
+
+Posle prve ozbiljne optimizacije, najcesci rasponi su:
+
+- **CPC:** 0.18e-1.10e,
+- **kvalifikovan upit:** 9e-45e,
+- **izlazak na merenje / ozbiljan razgovor:** 20e-95e.
+
+Kod stolara nije dovoljno da korisnik samo "posalje poruku".
+Najvise vredi upit koji ima jasan prostor, okvirni budzet i rok izrade.
+
+## Gde stolari najcesce gube budzet
+
+### 1) Sve usluge u jednoj kampanji
+Kuhinjski namestaj, plakari po meri, kancelarijski elementi i vrata ne smeju da budu u istoj ad grupi.
+Razlicit intent trazi razlicit oglas i razlicit landing ugao.
+
+### 2) Presiroke kljucne reci
+Upiti tipa "namestaj" ili "stolarija" cesto trose budzet bez jasne komercijalne namere.
+Bolje rade fraze koje ukljucuju uslugu + grad + signal odluke (cena, po meri, merenje, ponuda).
+
+### 3) Slab post-click deo
+Oglas obecava "namestaj po meri", a korisnik sleti na genericku stranicu bez galerije radova, procesa i sledeceg koraka.
+Ako hoces da popravis taj deo, koristan je vodic [izrada landing stranice: cena, rokovi, sta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
+
+### 4) Kasan odgovor na upit
+Kod stolarskih projekata korisnik cesto kontaktira vise radionica isti dan.
+Ako odgovor stigne kasno, lead odlazi konkurenciji koja je brze zakazala merenje.
+
+## Struktura kampanje koja najcesce radi za stolare
+
+### 1) Kampanje po usluzi
+Odvoji minimum:
+- kuhinje po meri,
+- plakare i ugradne elemente,
+- komercijalne prostore,
+- vrata i posebne projekte.
+
+### 2) Kampanje po lokaciji
+Razdvoji gradove/opstine koje tim realno pokriva.
+Klik iz zone koju ne mozes brzo da servisiras je skoro uvek skup klik.
+
+### 3) Branded kampanja
+Kad neko trazi ime radionice, branded sloj cuva klik od konkurencije.
+
+### 4) Remarketing
+Vrati korisnike koji su gledali galeriju i cenovni okvir, ali nisu poslali upit.
+
+## Landing koji pretvara klik u merenje
+
+Ako saljes Google saobracaj, iznad prevoja moraju da budu:
+
+1. jasan naslov (usluga + lokacija),
+2. 6-10 konkretnih primera radova,
+3. okvir procesa (merenje, ponuda, izrada, montaza),
+4. trust signali (iskustvo, recenzije, garancija),
+5. jedan glavni CTA (poziv ili forma za merenje).
+
+Ako planiras i tehnicku obnovu sajta, pogledaj i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+
+## KPI koji imaju smisla svake nedelje
+
+Nemoj voditi kampanje po impresijama i jeftinom kliku.
+Fokus drzi na:
+
+1. ceni kvalifikovanog upita,
+2. procentu upita koji prelaze u zakazano merenje,
+3. ceni zakazanog merenja,
+4. procentu merenja koji prelaze u ponudu,
+5. procentu ponuda koje postaju ugovoreni projekat.
+
+Tek kad ove brojke gledas zajedno, znas da li Google Ads pravi zdrav pipeline ili samo aktivnost.
+
+## Primer 30-dnevnog plana bez lutanja
+
+- **Nedelja 1:** tracking setup, podela kampanja po usluzi i lokaciji, bazni oglasi.
+- **Nedelja 2:** search terms ciscenje, negativne reci, test 2-3 oglasa po ad grupi.
+- **Nedelja 3:** dorada landing poruke i forme za merenje.
+- **Nedelja 4:** preraspodela budzeta samo na segmente sa najboljim odnosom cena upita / kvalitet lead-a.
+
+Za siri raspored ulaganja po kanalima pogledaj i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Ako paralelno radis demand capture na Meta kanalima, uporedi i [Instagram reklame cena](/instagram-reklame-cena).
+
+## Zakljucak
+
+Google Ads za stolare u Srbiji 2026 moze da donese stabilan tok profitabilnih projekata kada kampanje vodis po usluzi, lokaciji i kvalitetu upita, ne po najjeftinijem kliku.
+Ako hoces, mogu da uradim mini audit naloga i oznacim 3 najbrza poteza za nizu cenu kvalitetnog lead-a preko [kontakt forme](/kontakt).
+`,
+  },

@@ -1,0 +1,29 @@
+{
+  "generatedAt": "2026-03-15T17:12:46.159Z",
+  "pagesChecked": 3,
+  "issueCount": 0,
+  "checks": [
+    {
+      "label": "/marketing-agencija-beograd",
+      "file": "src/pages/MarketingAgencijaBgPage.jsx",
+      "uniqueLinks": 8,
+      "priceHits": 3,
+      "hasKontakt": true
+    },
+    {
+      "label": "/marketing-agencija-zrenjanin",
+      "file": "src/pages/MarketingAgencijaZrenjaninPage.jsx",
+      "uniqueLinks": 8,
+      "priceHits": 3,
+      "hasKontakt": true
+    },
+    {
+      "label": "/marketing-agencija-novi-sad",
+      "file": "src/pages/MarketingAgencijaNsPage.jsx",
+      "uniqueLinks": 8,
+      "priceHits": 3,
+      "hasKontakt": true
+    }
+  ],
+  "issues": []
+}

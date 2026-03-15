@@ -1,0 +1,123 @@
+  {
+    slug: 'odrzavanje-wordpress-sajta-cena-srbija-2026',
+    title: 'Odrzavanje WordPress sajta cena u Srbiji 2026: mesecni paketi i sta ulazi u cenu',
+    excerpt: 'Koliko realno kosta odrzavanje WordPress sajta u Srbiji 2026, koje stavke su obavezne svakog meseca i kako da izaberes paket koji cuva SEO, brzinu i sigurnost bez nepotrebnog troska.',
+    date: '2026-03-15',
+    category: 'WordPress',
+    readTime: '10 min',
+    content: `
+## Odrzavanje WordPress sajta cena u Srbiji 2026: kratak odgovor
+
+Ako trazis upit **odrzavanje wordpress sajta cena**, realni rasponi na srpskom trzistu u 2026 najcesce izgledaju ovako:
+
+- **osnovni maintenance paket (mali sajt):** 70e-180e/mes,
+- **standardni poslovni paket (aktivan sajt + forme + SEO):** 180e-450e/mes,
+- **napredni paket (WooCommerce, kampanje, veci promet):** 450e-1.200e+/mes.
+
+Ako pravis novi sajt i planiras trosak od starta, pogledaj i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+
+## Zasto "imam sajt" ne znaci da je sajt bezbedan i stabilan
+
+WordPress sajt nije jednokratan projekat koji se "zavrsi" pa zaboravi.
+Svakog meseca se menjaju:
+
+1. WordPress core,
+2. plugin-i i teme,
+3. bezbednosni rizici,
+4. Google kriterijumi kvaliteta (brzina, UX, trust signali).
+
+Ako to ne odrzavas redovno, prvo padne brzina i konverzija, a zatim i SEO vidljivost.
+Zato maintenance nije trosak "za svaki slucaj" nego osiguranje prihoda koji sajt treba da donosi.
+
+## Sta mora da ulazi u ozbiljan WordPress maintenance paket
+
+Minimum koji treba da trazis u ponudi:
+
+- redovni update WordPress core-a, plugin-a i tema,
+- dnevni ili nedeljni backup sa testiranim restore postupkom,
+- bezbednosni monitoring i blokada sumnjivih pokusaja logovanja,
+- uptime monitoring + reakcija na kriticne prekide,
+- osnovna optimizacija performansi (cache, image, database cleanup),
+- mesecni kratki izvestaj: sta je uradjeno, sta je rizik, sta je sledeci korak.
+
+Ako maintenance ne ukljucuje ove stavke, placas "tehnicku dezuru", a ne pravi sistem odrzavanja.
+
+## Najcesce greske koje kasnije kostaju mnogo vise
+
+### 1) "Sami cemo kliknuti update"
+Rucni update bez staging provere cesto razbije checkout, formu ili tracking skripte.
+Jedan los update moze pojesti visemesecnu ustedu.
+
+### 2) Backup postoji, ali restore nije testiran
+Backup koji ne moze da se vrati u roku od par minuta nema operativnu vrednost.
+
+### 3) Nema prioritizacije plugin-a
+Mnogo sajtova drzi plugin-e koji vise nisu potrebni, ali i dalje usporavaju sajt i otvaraju security rizik.
+
+### 4) Nema dogovorenog SLA vremena reakcije
+Kad padne sajt tokom kampanje, razlika izmedju reakcije u 20 minuta i 6 sati je direktno izgubljen prihod.
+
+Ako sajt koristis za aktivnu akviziciju, povezi maintenance i sa [Google reklame cena](/google-reklame-cena) da znas koliki je rizik kada placeni saobracaj dolazi na nestabilnu stranicu.
+
+## Kako da procenis koji maintenance paket je realan za tvoj biznis
+
+Praktican okvir:
+
+### Paket A (70e-180e/mes)
+Za prezentacione sajtove sa manjim prometom.
+Bitno: update, backup, osnovni security monitoring.
+
+### Paket B (180e-450e/mes)
+Za firme koje aktivno skupljaju leadove kroz kontakt forme i SEO.
+Bitno: update + backup + monitoring + periodicna optimizacija brzine + incident support.
+
+### Paket C (450e-1.200e+/mes)
+Za WooCommerce, sajtove sa kampanjama i vecim prometom.
+Bitno: sve iz B + prioritetni SLA, staging proces, napredniji log monitoring i kvartalni tehnicki audit.
+
+Ako ti je organski promet bitan kanal, maintenance treba da ukljuci i koordinaciju sa [SEO optimizacija cena](/seo-optimizacija-cena).
+
+## KPI koje maintenance stvarno treba da cuva
+
+Ne meri samo "da li sajt radi".
+Prati i ove brojke:
+
+1. uptime procenat,
+2. prosecan response time kriticnih stranica,
+3. vreme reakcije na incident,
+4. broj bezbednosnih incidenata,
+5. trend Core Web Vitals metrika,
+6. broj leadova/porudzbina pre i posle vecih update-a.
+
+Kad maintenance tim prati ove KPI-jeve, smanjuje se broj "iznenadnih" problema i lakse se planira rast.
+
+## 30-dnevni plan za prelazak sa haoticnog na stabilan WordPress setup
+
+- **Nedelja 1:** tehnicki audit plugin-a, tema, server logova i backup procesa.
+- **Nedelja 2:** ciscenje nepotrebnih plugin-a + sigurnosno ojacavanje + monitoring setup.
+- **Nedelja 3:** optimizacija performansi na kriticnim stranicama (home, usluge, kontakt).
+- **Nedelja 4:** dokumentovan maintenance ritam + mesecni KPI report + plan sledecih optimizacija.
+
+Za komercijalni kontekst ulaganja pogledaj i [cene digitalnog marketinga](/cene-digitalnog-marketinga), da maintenance i akvizicija rade kao jedan sistem.
+
+## FAQ: odrzavanje WordPress sajta
+
+### Da li mi maintenance treba ako imam mali sajt?
+Da, jer i mali sajt moze biti meta napada ili pasti posle update konflikta. Razlika je samo u obimu paketa, ne u potrebi za odrzavanjem.
+
+### Da li je jeftinije da placam samo kad nesto pukne?
+Kratkorocno deluje jeftinije, ali je najcesce skuplje. Hitne intervencije, izgubljeni leadovi i SEO pad obicno kostaju vise od redovnog maintenance paketa.
+
+### Koliko cesto treba raditi update?
+Najcesce nedeljno ili dvonedeljno, uz staging proveru za kriticne plugin-e (checkout, forme, analitika).
+
+### Da li maintenance ukljucuje i SEO rad?
+Osnovni maintenance cuva tehnicku bazu (stabilnost, brzina, sigurnost). SEO strategija i rast sadrzaja se obicno dogovaraju kao poseban sloj.
+
+## Zakljucak
+
+Odrzavanje WordPress sajta u Srbiji 2026 nije "dodatni trosak" nego operativna zastita prodaje, SEO vidljivosti i reputacije.
+Ako hoces, mogu da ti dam brz maintenance gap audit i oznacim prve 3 stavke koje najvise smanjuju rizik preko [kontakt forme](/kontakt).
+`,
+  },
+

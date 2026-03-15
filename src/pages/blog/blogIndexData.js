@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "tiktok-vs-instagram-reklame-srbija-2026",
+    "title": "TikTok reklame vs Instagram reklame: gde uloziti budzet u Srbiji 2026?",
+    "excerpt": "Prakticno poredjenje cene klika, kvaliteta lead-ova i organskog dosega na TikToku i Instagramu za trziste Srbije. Sta se isplati za B2B, a sta za e-commerce?",
+    "date": "2026-03-15",
+    "category": "Marketing",
+    "readTime": "6 min",
+    "isDraft": false
+  },
+  {
     "slug": "seo-optimizacija-za-web-shop-cena-srbija-2026",
     "title": "SEO optimizacija za web shop u Srbiji 2026: realne cene, rokovi i sta stvarno placate",
     "excerpt": "Koliko kosta SEO optimizacija za web shop u Srbiji 2026, zasto e-commerce SEO zahteva drugaciji pristup i kada se investicija stvarno isplati.",

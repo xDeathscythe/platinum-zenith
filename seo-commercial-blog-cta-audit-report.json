@@ -1,0 +1,563 @@
+{
+  "generatedAt": "2026-03-15T17:12:48.205Z",
+  "postsChecked": 111,
+  "issueCount": 0,
+  "checked": [
+    {
+      "route": "/blog/seo-optimizacija-za-web-shop-cena-srbija-2026",
+      "serviceHits": 6,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/landing-stranica-za-google-ads-kako-spustiti-cenu-leada-srbija-2026",
+      "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/odrzavanje-wordpress-sajta-cena-srbija-2026",
+      "serviceHits": 5,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/seo-za-stomatoloske-ordinacije-cena-srbija-2026",
+      "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/wordpress-sajt-za-stomatolosku-ordinaciju-cena-srbija-2026",
+      "serviceHits": 5,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/vodjenje-facebook-ads-kampanja-cena-srbija-2026",
+      "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/alex-hormozi-value-equation-ponuda-koja-se-prodaje-srbija-2026",
+      "serviceHits": 5,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/instagram-reklame-za-kozmeticke-salone-cena-termina-srbija-2026",
+      "serviceHits": 5,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-ads-za-krovopokrivace-cena-leada-srbija-2026",
+      "serviceHits": 5,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-ads-za-fizioterapeute-cena-termina-srbija-2026",
+      "serviceHits": 5,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/seo-audit-sajta-checklist-srbija-2026",
+      "serviceHits": 5,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-ads-za-vodoinstalatere-cena-poziva-srbija-2026",
+      "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-ads-za-privatne-skole-cena-upisa-srbija-2026",
+      "serviceHits": 5,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/instagram-reklame-za-privatne-vrtice-cena-upisa-srbija-2026",
+      "serviceHits": 5,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-ads-za-veterinarske-ambulante-cena-leada-srbija-2026",
+      "serviceHits": 5,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-ads-za-teretane-i-fitnes-studije-cena-leada-srbija-2026",
+      "serviceHits": 5,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-ads-za-domove-za-stare-cena-leada-srbija-2026",
+      "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-ads-za-agencije-za-nekretnine-cena-leada-srbija-2026",
+      "serviceHits": 5,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-ads-za-privatne-vrtice-cena-upisa-srbija-2026",
+      "serviceHits": 5,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-ads-za-salone-namestaja-cena-leada-srbija-2026",
+      "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-ads-za-skolice-stranih-jezika-cena-upisa-srbija-2026",
+      "serviceHits": 3,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-ads-za-autoskole-cena-upisa-srbija-2026",
+      "serviceHits": 3,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-ads-za-firme-za-selidbe-cena-poziva-srbija-2026",
+      "serviceHits": 5,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-ads-za-privatne-klinike-cena-leada-srbija-2026",
+      "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/redizajn-wordpress-sajta-cena-srbija-2026",
+      "serviceHits": 5,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-ads-za-knjigovodstvene-agencije-cena-leada-srbija-2026",
+      "serviceHits": 5,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/facebook-reklame-za-stomatologe-cena-termina-srbija-2026",
+      "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-ads-za-bravare-cena-leada-srbija-2026",
+      "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-ads-za-elektricare-cena-leada-srbija-2026",
+      "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-ads-za-keramicare-cena-leada-srbija-2026",
+      "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-ads-za-klima-servis-cena-leada-srbija-2026",
+      "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-ads-za-stolare-cena-leada-srbija-2026",
+      "serviceHits": 5,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/migracija-sajta-na-wordpress-cena-srbija-2026",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/seo-optimizacija-wordpress-sajta-cena-srbija-2026",
+      "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-reklame-za-vodoinstalatere-cena-leada-srbija-2026",
+      "serviceHits": 3,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-reklame-za-gradjevinske-firme-cena-leada-srbija-2026",
+      "serviceHits": 3,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/seo-za-advokate-cena-srbija-2026",
+      "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/instagram-reklame-za-autoservise-cena-upita-srbija-2026",
+      "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/instagram-ads-cena-po-kliku-srbija-2026",
+      "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/izrada-wordpress-sajta-cena-po-tipu-biznisa-srbija-2026",
+      "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/meta-ads-cena-po-kliku-srbija-2026",
+      "serviceHits": 5,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/leila-hormozi-onboarding-sistem-zadrzavanje-klijenata-srbija-2026",
+      "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/sabri-suby-7-hour-followup-sistem-srbija-2026",
+      "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-ads-za-kozmeticki-salon-cena-termina-srbija-2026",
+      "serviceHits": 3,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/instagram-reklame-za-advokate-cena-klijenta-srbija-2026",
+      "serviceHits": 3,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-ads-za-autoservise-cena-leada-srbija-2026",
+      "serviceHits": 3,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/vodjenje-instagram-ads-kampanja-cena-srbija-2026",
+      "serviceHits": 3,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/woocommerce-sajt-cena-srbija-2026",
+      "serviceHits": 3,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/leila-hormozi-weekly-scorecard-marketing-srbija-2026",
+      "serviceHits": 3,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/instagram-reklame-za-stomatologe-cena-termina-srbija-2026",
+      "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/instagram-reklame-za-restorane-cena-rezervacije-srbija-2026",
+      "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-ads-za-b2b-cena-leada-srbija-2026",
+      "serviceHits": 3,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-ads-za-ecommerce-cena-prodaje-srbija-2026",
+      "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-ads-za-advokate-cena-klijenta-srbija-2026",
+      "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/alex-hormozi-core-4-lead-magnet-srbija-2026",
+      "serviceHits": 5,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-ads-za-stomatologe-cena-leada-srbija-2026",
+      "serviceHits": 3,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/facebook-ads-cena-po-industriji-srbija-2026",
+      "serviceHits": 6,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/marketing-agencija-cena-srbija-2026",
+      "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/lead-generation-cena-srbija-2026",
+      "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/lokalni-seo-cena-zrenjanin-2026",
+      "serviceHits": 3,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/vodjenje-instagram-profila-cena-srbija-2026",
+      "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/instagram-ads-cpc-budzet-plan-srbija-2026",
+      "serviceHits": 5,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/alex-hormozi-100m-leads-sistem-za-vise-upita-srbija-2026",
+      "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-ads-za-lokalne-biznise-kako-spustiti-cenu-leada-srbija-2026",
+      "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-ads-cena-po-kliku-srbija-2026",
+      "serviceHits": 6,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/vodjenje-google-ads-kampanja-cena-srbija-2026",
+      "serviceHits": 3,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu",
+      "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/copywriting-formule-koje-rade",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/kako-meriti-roi-marketinga-kpi-vodic",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/lead-magneti-koji-zapravo-konvertuju",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/video-marketing-zasto-video-dominira",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/seo-vs-ppc-sta-je-bolje-za-dugorocni-rast",
+      "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/komunikacija-u-prodaji-kako-napisati-ponudu",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/kako-izabrati-pravu-marketing-agenciju",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/social-proof-recenzije-za-vise-prodaje",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/17-godina-marketing-iskustva",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/ponuda-koju-niko-ne-moze-da-odbije",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-ads-vs-facebook-ads-koji-je-bolji",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/content-marketing-dugorocna-investicija",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/lokalni-seo-kako-se-pojaviti-prvi",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/email-marketing-kralj-konverzija",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/5-gresaka-landing-stranice-konverzije",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/17-godina-marketing-iskustva-u-jednom-tekstu",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/kako-napraviti-marketing-budzet-koji-ima-smisla",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/automatizacija-marketinga-sta-mozete-delegirati-masini",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/kako-citati-marketing-izvestaj",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/zasto-vas-sajt-ne-prodaje",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/koliko-kosta-los-marketing",
+      "serviceHits": 7,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/kako-napraviti-landing-stranicu-koja-konvertuje",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/kako-povecati-online-prodaju",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/cetiri-nacina-da-dobijete-klijente",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/hormozi-ponuda-kojoj-klijent-ne-kaze-ne",
+      "serviceHits": 3,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/sabri-suby-kako-do-vise-upita-bez-veceg-budzeta",
+      "serviceHits": 3,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/koliko-traje-seo-da-donese-rezultate-u-srbiji",
+      "serviceHits": 5,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-business-profil-optimizacija-cena-srbija-2026",
+      "serviceHits": 5,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/cena-odrzavanja-wordpress-sajta-srbija-2026",
+      "serviceHits": 3,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/vodjenje-drustvenih-mreza-cena-srbija-2026",
+      "serviceHits": 5,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/sabri-suby-offer-stack-google-ads-leadovi-srbija-2026",
+      "serviceHits": 6,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/leila-hormozi-kada-zaposliti-prvog-marketing-menadzera",
+      "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/tiktok-reklame-cena-srbija-2026",
+      "serviceHits": 5,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/koliko-brzo-google-ads-donosi-prve-klijente-srbija-2026",
+      "serviceHits": 5,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/youtube-reklame-cena-srbija-2026",
+      "serviceHits": 6,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-ads-za-restorane-cena-rezervacije-srbija-2026",
+      "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/vodjenje-google-ads-kampanja-fee-izbor-partnera-srbija-2026",
+      "serviceHits": 5,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-ads-za-arhitektonske-biroe-cena-upita-srbija-2026",
+      "serviceHits": 5,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/kako-odrediti-budzet-za-google-reklame-srbija-2026",
+      "serviceHits": 5,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/linkedin-reklame-cena-srbija-2026",
+      "serviceHits": 5,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-ads-za-auto-placeve-cena-leada-srbija-2026",
+      "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-ads-za-stamparije-cena-leada-srbija-2026",
+      "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/landing-stranica-za-google-ads-cena-srbija-2026",
+      "serviceHits": 5,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-ads-budzet-kalkulator-cpa-srbija-2026",
+      "serviceHits": 5,
+      "hasKontakt": true
+    }
+  ],
+  "issues": []
+}

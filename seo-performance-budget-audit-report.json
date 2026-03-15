@@ -1,0 +1,42 @@
+{
+  "generatedAt": "2026-03-15T17:08:28.644Z",
+  "jsChunkCount": 64,
+  "publicBlogCount": 136,
+  "blogDataBudgetKb": 748,
+  "criticalTotalKb": 404.96,
+  "criticalBudgetKb": 460,
+  "checks": [
+    {
+      "label": "index chunk",
+      "file": "index-D1pRg4uh.js",
+      "sizeKb": 52.86,
+      "maxKb": 70
+    },
+    {
+      "label": "vendor-react chunk",
+      "file": "vendor-react-D-tFKdcd.js",
+      "sizeKb": 199.58,
+      "maxKb": 210
+    },
+    {
+      "label": "vendor-router chunk",
+      "file": "vendor-router-WzOq1lTH.js",
+      "sizeKb": 33.34,
+      "maxKb": 85
+    },
+    {
+      "label": "vendor-motion chunk",
+      "file": "vendor-motion-INGeV9gw.js",
+      "sizeKb": 119.17,
+      "maxKb": 140
+    },
+    {
+      "label": "blogData chunk",
+      "file": "blogData-BEQCfkS-.js",
+      "sizeKb": 674,
+      "maxKb": 748
+    }
+  ],
+  "issueCount": 0,
+  "issues": []
+}

@@ -1,0 +1,131 @@
+  {
+    slug: 'google-ads-za-privatne-vrtice-cena-upisa-srbija-2026',
+    title: 'Google Ads za privatne vrtice u Srbiji 2026: cena upisa, budzet i vise kvalifikovanih prijava',
+    excerpt: 'Koliko realno kostaju Google Ads kampanje za privatne vrtice u Srbiji 2026, koji budzet ima smisla po sezoni i kako da spustite cenu kvalitetne prijave bez praznih poziva.',
+    date: '2026-03-14',
+    category: 'Google Ads',
+    readTime: '10 min',
+    content: `
+## Google Ads za privatne vrtice u Srbiji 2026: kratak odgovor
+
+Ako trazis upit **google ads za privatne vrtice cena**, realan okvir za srpsko trziste u 2026 najcesce izgleda ovako:
+
+- **test faza:** 350e-900e/mes,
+- **stabilan priliv prijava:** 900e-2.200e/mes,
+- **skaliranje po opstinama i programima:** 2.200e+/mes.
+
+Za siri benchmark troska kanala pogledaj i [Google reklame cena](/google-reklame-cena), a za raspodelu ulaganja po kanalima [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Koliko realno kosta prijava i upis deteta
+
+Posle 4-8 nedelja uredne optimizacije, najcesci rasponi su:
+
+- **CPC:** 0.20e-1.10e,
+- **kvalifikovana prijava (poziv ili forma):** 12e-55e,
+- **potvrdjen upis:** 70e-320e.
+
+Raspon je siri jer nije isto da li kampanja targetira:
+
+1. jaslice,
+2. predskolski program,
+3. celodnevni boravak,
+4. bilingvalni premium program.
+
+Skuplji klik nije problem ako dovodi roditelje koji su spremni da donesu odluku u narednih 7-14 dana.
+
+## Gde privatni vrtici najcesce gube budzet
+
+### 1) Jedna kampanja za sve uzraste i sve programe
+Kada su jaslice, vrtic i predskolski program u istoj kampanji, poruka je preopsirna i quality score pada.
+Bolje radi segmentacija po programu + nameri (cena, lokacija, adaptacija, termini).
+
+### 2) Landing ne odgovara na strah roditelja
+Roditelja ne zanima samo cena. Zanima ga bezbednost, kadar, broj dece po grupi i adaptacija.
+Ako to nije jasno iznad prevoja, klik ode konkurenciji.
+Za strukturu stranice koja bolje zatvara prijavu pogledaj i [izradu landing stranice: cena, rokovi, sta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
+
+### 3) Nema filtera za neadekvatne upite
+Bez negativnih kljucnih reci kampanja vuce upite tipa:
+- drzavni vrtic konkurs,
+- posao vaspitacica,
+- besplatan program,
+- gradovi koje ne pokrivate.
+
+### 4) Spora reakcija na prijavu
+Ako roditelj popuni formu, a odgovor dobije tek sutradan, lead je prakticno izgubljen.
+Za privatne vrtice brzina follow-up-a je deo same cene upisa.
+
+## Struktura kampanje koja najcesce radi
+
+### 1) Kampanje po nameri roditelja
+Odvojiti najmanje:
+- "upis privatni vrtic + grad/opstina",
+- "jaslice + cena",
+- "vrtic sa produzenim boravkom",
+- "bilingvalni vrtic".
+
+Tako poruka oglasa i landing sekcije mogu da budu 1:1 uskladjene.
+
+### 2) Geo segmentacija po realnom radijusu
+Roditelji retko biraju vrtic daleko od kuce ili posla.
+Bolje rade kampanje po opstinama i jasnim map pinovima, uz posebne poruke za lokaciju.
+Za lokalni SEO ugao korisni su i [marketing agencija Beograd](/marketing-agencija-beograd) i [marketing agencija Novi Sad](/marketing-agencija-novi-sad).
+
+### 3) Search + remarketing za donosioce odluke
+Search hvata visoku nameru, a remarketing vraca roditelje koji su gledali stranicu ali nisu poslali prijavu.
+Remarketing kreativa treba da naglasi:
+- bezbednosni protokol,
+- iskustvo vaspitaca,
+- adaptacioni plan,
+- slobodna mesta i sledeci termin obilaska.
+
+### 4) Jasna podela budzeta po sezoni
+Najveci pritisak je pred upisne rokove (prolece/leto). U tom periodu kampanja treba vise budzeta, a van sezone fokus ide na nurturing i remarketing.
+
+## Landing koji pretvara klik u stvarnu prijavu
+
+Ako placas klik, landing mora odmah da odgovori na 5 pitanja roditelja:
+
+1. gde se vrtic nalazi i koje opstine pokriva,
+2. koji programi postoje po uzrastu,
+3. kako izgleda adaptacija i dnevna rutina,
+4. koliki je cenovni raspon i sta ulazi u cenu,
+5. kako izgleda prvi korak prijave (poziv, obilazak, razgovor).
+
+Praktican minimum sekcija:
+- hero sa jasnim CTA (zakazi obilazak),
+- trust blok (tim, licence, bezbednost),
+- galerija prostora + dnevni ritam,
+- FAQ o ceni, obrocima i adaptaciji,
+- klikabilan telefon + forma iznad prevoja.
+
+Ako zelis da dodatno sredis i sajt kao prodajni alat, pogledaj [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+
+## KPI koje treba pratiti svake nedelje
+
+Ne meri samo broj klikova. Za privatne vrtice su bitnije ove metrike:
+
+1. cena kvalifikovane prijave,
+2. procenat prijava koje dolaze na obilazak,
+3. procenat obilazaka koji prelaze u upis,
+4. vreme odgovora na lead,
+5. stvarna cena potvrdjenog upisa.
+
+Tek kad to meris, znas da kampanja donosi rast, a ne samo saobracaj.
+
+## 30-dnevni plan bez lutanja
+
+- **Nedelja 1:** setup po programima + geo segmentacija + call/form tracking.
+- **Nedelja 2:** ciscenje search terms + negativne reci + dorada copy-ja po intentu.
+- **Nedelja 3:** optimizacija landing sekcija (bezbednost, adaptacija, cena, CTA).
+- **Nedelja 4:** preraspodela budzeta na segmente sa najboljim odnosom cena prijave / kvalitet upisa.
+
+Ako hoces benchmark i za druge kanale, pogledaj i [instagram reklame cena](/instagram-reklame-cena) i [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026).
+
+## Zakljucak
+
+Google Ads za privatne vrtice u Srbiji 2026 moze da donese stabilan priliv upisa kada kampanje vodis po programu, lokaciji i brzini obrade leadova, ne po najjeftinijem kliku.
+Ako hoces, mogu da oznacim 3 najbrza poteza za nizi trosak kvalifikovane prijave preko [kontakt forme](/kontakt).
+`,
+  },
+

@@ -1,0 +1,26 @@
+{
+  "generatedAt": "2026-03-15T17:12:46.083Z",
+  "pagesChecked": 3,
+  "issueCount": 0,
+  "checks": [
+    {
+      "label": "/agencija-vs-freelancer",
+      "file": "src/pages/AgencijaVsFreelancerPage.jsx",
+      "totalLinks": 10,
+      "requiredLinks": 4
+    },
+    {
+      "label": "/in-house-tim-vs-agencija",
+      "file": "src/pages/InHouseVsAgencijaPage.jsx",
+      "totalLinks": 13,
+      "requiredLinks": 4
+    },
+    {
+      "label": "/fiksna-naknada-vs-revenue-share",
+      "file": "src/pages/FiksnaNaknadaVsRevenueSharePage.jsx",
+      "totalLinks": 13,
+      "requiredLinks": 5
+    }
+  ],
+  "issues": []
+}

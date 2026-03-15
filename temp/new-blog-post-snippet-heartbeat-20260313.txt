@@ -1,0 +1,100 @@
+  {
+    slug: 'instagram-reklame-cena-po-gradu-srbija-2026',
+    title: 'Instagram reklame cena po gradu u Srbiji 2026: Beograd, Novi Sad, Nis i realni CPC/CPL rasponi',
+    excerpt: 'Koliko realno kostaju Instagram reklame po gradovima u Srbiji 2026, gde su najvece razlike u CPC/CPL i kako da postavis budzet koji ima smisla po lokaciji.',
+    date: '2026-03-13',
+    category: 'Instagram Ads',
+    readTime: '10 min',
+    content: `
+## Instagram reklame cena po gradu u Srbiji 2026: kratak odgovor
+
+Ako trazis upit **instagram reklame cena po gradu**, najprakticniji okvir za srpsko trziste 2026 je:
+
+- **Beograd:** visi CPM/CPC, ali i veci volumen publike,
+- **Novi Sad:** stabilan odnos cene i kvaliteta lead-a,
+- **Nis i veci regionalni centri:** cesto nizi klik, ali i manji reach,
+- **manji gradovi:** najnizi trosak po prikazu, ali treba precizniji creative i jaci trust signal.
+
+Za glavni benchmark po kanalima pogledaj i [Instagram reklame cena](/instagram-reklame-cena).
+
+## Realni rasponi po gradovima (Instagram Ads)
+
+Orijentacioni rasponi posle prve ozbiljne optimizacije:
+
+- **Beograd:** CPC 0.18e-0.95e, CPL 9e-55e,
+- **Novi Sad:** CPC 0.12e-0.68e, CPL 7e-38e,
+- **Nis:** CPC 0.10e-0.60e, CPL 6e-34e,
+- **manji gradovi:** CPC 0.08e-0.52e, CPL 5e-30e.
+
+Raspon je siri ako je ponuda skupa, konkurencija jaka ili landing slab.
+Ako zelis da uporedis i Search kanal, pogledaj [Google reklame cena](/google-reklame-cena).
+
+## Zasto isti Instagram klik nema istu cenu u svakom gradu
+
+### 1) Razlicit nivo konkurencije
+U Beogradu se vise oglasivaca bori za istu publiku, pa aukcija brze podize CPM i CPC.
+
+### 2) Razlicit kvalitet publike po intentu
+Nije svaka publika sa nizim klikom bolja. U nekim gradovima lead kosta manje, ali je stopa zatvaranja slabija.
+
+### 3) Razlicit creative fit po lokaciji
+Poruka koja radi u jednom gradu ne mora da radi u drugom. Lokalni ton, primeri i trust elementi menjaju CTR i CPL.
+
+### 4) Razlicit funnel posle klika
+Ako landing ili follow-up kasni, jeftin klik postaje skup lead.
+Za taj deo koristan je i vodic [landing stranica za Google Ads: cena, rokovi i sta obara CPL](/blog/landing-stranica-za-google-ads-cena-srbija-2026).
+
+## Kako postaviti budzet po gradu bez bacanja novca
+
+Praktican start model za vecinu usluznih biznisa:
+
+1. **70% budzeta** na grad koji vec donosi najbolji odnos cena lead-a i kvaliteta,
+2. **20% budzeta** na drugi prioritetni grad za kontrolisani rast,
+3. **10% budzeta** za test novih lokacija i creative varijanti.
+
+Posle 14-21 dana preraspodeli budzet prema kvalitetu lead-a, ne prema najjeftinijem kliku.
+Za siri raspored ulaganja po kanalima pogledaj i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Struktura kampanja koja najbolje radi za geo-targeting
+
+### 1) Odvojeni ad setovi po gradu
+Nemoj sve gradove u isti ad set. Svaka lokacija treba svoju poruku, budzet i KPI prag.
+
+### 2) Lokalizovan creative
+Ubaci grad u hook, naslov i CTA. Lokalni signal najcesce podize relevance i spusta cenu rezultata.
+
+### 3) Poseban retargeting sloj
+Retargeting publika po gradu pomaze da isti budzet vrati vise toplih lead-ova.
+
+### 4) Jasna podela po intentu
+Odvoji awareness, consideration i conversion sloj. Mesanje faza obicno muti podatke i otezava optimizaciju.
+
+## KPI koji imaju smisla na nivou grada
+
+Nemoj voditi geo kampanje samo po CPM-u i kliku.
+Fokus drzi na:
+
+1. ceni kvalifikovanog lead-a po gradu,
+2. procentu lead-ova koji ulaze u realan prodajni razgovor,
+3. ceni zakazanog poziva/sastanka,
+4. procentu zatvaranja po gradu,
+5. profitu po lokaciji.
+
+Tek kad ove brojke povezes, znas gde vredi skalirati.
+Za uporedni pogled Meta kanala pogledaj i [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama).
+
+## 30-dnevni plan optimizacije po gradovima
+
+- **Nedelja 1:** podela kampanja po gradovima + tracking setup.
+- **Nedelja 2:** test 2-3 creative poruke po lokaciji.
+- **Nedelja 3:** ciscenje nekvalitetnih publika i preraspodela budzeta.
+- **Nedelja 4:** skaliranje samo gradova koji drze zdrav odnos CPL i prodajnog kvaliteta.
+
+Ako paralelno radis i Search demand capture, sinhronizuj podatke sa [Google Ads cena po gradu u Srbiji 2026](/blog/google-ads-cena-po-gradu-srbija-2026).
+
+## Zakljucak
+
+Instagram reklame cena po gradu u Srbiji 2026 ima smisla tek kada gledas i cenu lead-a i kvalitet prodajnog ishoda po lokaciji.
+Ako hoces, mogu da uradim mini geo-audit kampanja i oznacim 3 najbrza poteza za nizi CPL preko [kontakt forme](/kontakt).
+`,
+  },

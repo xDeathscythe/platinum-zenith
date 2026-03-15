@@ -1,4 +1,70 @@
 ﻿const rawBlogPosts = [
+
+  {
+    slug: 'tiktok-vs-instagram-reklame-srbija-2026',
+    title: 'TikTok reklame vs Instagram reklame: gde uloziti budzet u Srbiji 2026?',
+    excerpt: 'Prakticno poredjenje cene klika, kvaliteta lead-ova i organskog dosega na TikToku i Instagramu za trziste Srbije. Sta se isplati za B2B, a sta za e-commerce?',
+    date: '2026-03-15',
+    category: 'Marketing',
+    readTime: '6 min',
+    content: `
+## TikTok reklame vs Instagram reklame: kratak odgovor za 2026. godinu
+
+Ako se pitate **tiktok vs instagram reklame gde uloziti**, situacija na srpskom trzistu je sada prilicno jasna, i najcesce zavisi od toga sta prodajete i kome.
+
+- **TikTok reklame (prednosti):** Cena klika (CPC) je znatno jeftinija, doseg je brutalan, CPM (cena za 1000 prikaza) je nizak. Idealan kanal za masovne B2C proizvode, e-commerce ispod 5.000 RSD, impulsivne kupovine, i brending.
+- **Instagram reklame (prednosti):** Kvalitet lead-ova je bolji. Kupovna moc korisnika na platformi je veca, napredno targetiranje je i dalje preciznije (Meta pixel). Idealan kanal za B2B, skuplje usluge i proizvode preko 10.000 RSD.
+
+Za dodatni kontekst koliko ovo kosta, pogledajte i nas detaljan vodic [Instagram reklame cena](/instagram-reklame-cena).
+
+## Cena po kliku (CPC) i cena konverzije (CPA): Srbija 2026
+
+Kada klijenti predju sa Instagrama na TikTok, prvi sok je cena. TikTok CPC u Srbiji je cesto i do 3-5 puta nizi nego na Instagramu. Medjutim, to je zamka ako gledate samo klikove, a ne prodaju.
+
+### 1. Instagram Ads troskovi (prosek za Srbiju)
+Meta (Instagram/Facebook) ima najpametniji algoritam za konverzije. Zna tacno ko ima kreditnu karticu i ko je spreman da kupi sada.
+- **CPC (cena klika):** 0.10e do 0.50e+ zavisno od nise.
+- **Prednost:** Konverzije su skuplje, ali stabilnije. Kupac koji dodje preko Instagrama obicno donosi brzi ROI za skuplje ponude.
+
+Ako vas zanima kako ovo izgleda u sirem kontekstu na celom Meta ekosistemu, korisno je pogledati [koliko kosta facebook reklama](/koliko-kosta-facebook-reklama).
+
+### 2. TikTok Ads troskovi (prosek za Srbiju)
+TikTok saobracaj je ogroman i jeftin. Ali publika je brza, skroluje bez milosti i teze vadi karticu za skuplje stvari.
+- **CPC (cena klika):** 0.02e do 0.15e zavisno od formata.
+- **Prednost:** Mozete dobiti 10.000 pregleda videa za budzet sa kojim bi na Instagramu dobili jedva 1.500. Ali, conversion rate (stopa konverzije) na sajtu je cesto niza. Zato web shop mora biti maksimalno optimizovan i konvertovati taj jeftin saobracaj, u cemu vam moze pomoci [CRO optimizacija konverzija sajta](/blog/sta-je-cro-optimizacija-konverzija).
+
+## Kvalitet Lead-ova: Koji kanal donosi prave kupce?
+
+Ovo je pitanje na kom vecina agencija padne kada klijentu nudi "milione pregleda".
+
+### Gde TikTok briljira (E-commerce i impulsivna kupovina)
+Ako prodajete maske za telefone, jeftiniju sminku, patike, gadgete, odecu, ili energetska pica - TikTok je apsolutni pobednik. Vizuelni prikaz (kako proizvod radi) kroz "User Generated Content" (UGC) stil razbija na TikToku. Tu korisnici ne traze profi reklamu, vec zabavu i sirov, nestrukturiran prikaz onoga sto kupuju.
+
+### Gde Instagram i dalje vlada (B2B, visoka estetika i premium proizvode)
+Ako vodite [marketing za stomatologe](/marketing-za-stomatologe), prodajete premium namestaj, ili nudite izradu sajtova (za koje su cene navedene na [cene izrade sajta](/cene-izrade-sajta)), Instagram je i dalje neprevazidjen. Ljudi na Instagramu vole status, estetiku, poverenje i autoritet. Instagram profili funkcionisu kao moderni sajtovi - ljudi proveravaju vase highlightse i komentare pre nego sto vam daju 500e ili 1.000e.
+
+Ako zelite da vidite kako ovo integrisati sa ozbiljnom placenom strategijom, provera opcija je bitna na [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Koji kanal izabrati? 3 jednostavna pravila
+
+Ne morate da birate iskljucivo jedan. Ali, ako vam je budzet ogranicen, evo pravila za 2026. godinu:
+
+1. **Ako je proizvod ispod 5.000 RSD i jako vizuelan:** Krenite sa TikTok reklamama. Iskoristite nizak CPM da testirate uglove videa.
+2. **Ako prodajete usluge, B2B ili premium proizvode:** Meta (Instagram i Facebook) je jedini logican izbor za start.
+3. **Ako skalirate ozbiljan biznis:** Koristite TikTok za hladnu publiku (Top of Funnel) zbog jeftinog dosega, a zatim te iste ljude "retargetirajte" na Instagramu sa jacom, konkretnijom ponudom za kupovinu.
+
+Ovo je pristup koji preporucuje i vecina strucnjaka za skaliranje o kojem mozete procitati u [kako naci klijente za digitalni marketing](/blog/kako-naci-klijente-digitalni-marketing-srbija-2026).
+
+## Zakljucak: Nemojte kopirati strategiju sa jednog na drugi
+
+Najveca greska koju vidjamo u 2026. godini je kada brendovi snime profi reklamu za Instagram, i onda isti taj video uplate na TikToku. TikTok organski odbija sve sto izgleda kao reklama.
+
+- Na Instagramu prodajete **rezultat i estetiku**.
+- Na TikToku prodajete **proces, "hook" i zabavu**.
+
+Za kraj, ako niste sigurni ko ce vam ovo kvalitetno izvesti, a sumnjate u in-house opciju, procitajte detaljnu analizu [in-house tim vs agencija](/in-house-tim-vs-agencija) pre donosenja odluke.
+`
+  },
   {
     slug: 'seo-optimizacija-za-web-shop-cena-srbija-2026',
     title: 'SEO optimizacija za web shop u Srbiji 2026: realne cene, rokovi i sta stvarno placate',

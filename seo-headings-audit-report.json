@@ -1,0 +1,845 @@
+{
+  "generatedAt": "2026-03-15T17:12:45.541Z",
+  "routesChecked": 38,
+  "issueCount": 0,
+  "checked": [
+    {
+      "route": "/web-design",
+      "component": "WebDesignPage",
+      "file": "src\\pages\\WebDesignPage.jsx",
+      "sequence": [
+        1,
+        2,
+        3,
+        2,
+        2,
+        3,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 7,
+        "h3": 6,
+        "total": 14
+      }
+    },
+    {
+      "route": "/digitalni-marketing",
+      "component": "MarketingPage",
+      "file": "src\\pages\\MarketingPage.jsx",
+      "sequence": [
+        1,
+        2,
+        3,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 2,
+        "h3": 1,
+        "total": 4
+      }
+    },
+    {
+      "route": "/consulting",
+      "component": "ConsultingPage",
+      "file": "src\\pages\\ConsultingPage.jsx",
+      "sequence": [
+        1,
+        2,
+        2,
+        3,
+        3,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 3,
+        "h3": 7,
+        "total": 11
+      }
+    },
+    {
+      "route": "/cro",
+      "component": "CROPage",
+      "file": "src\\pages\\CROPage.jsx",
+      "sequence": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 3,
+        "h3": 3,
+        "total": 7
+      }
+    },
+    {
+      "route": "/drustvene-mreze",
+      "component": "SocialMediaPage",
+      "file": "src\\pages\\SocialMediaPage.jsx",
+      "sequence": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 4,
+        "h3": 4,
+        "total": 9
+      }
+    },
+    {
+      "route": "/faq",
+      "component": "FAQPage",
+      "file": "src\\pages\\FAQPage.jsx",
+      "sequence": [
+        1,
+        2,
+        3
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 1,
+        "h3": 1,
+        "total": 3
+      }
+    },
+    {
+      "route": "/kontakt",
+      "component": "ContactPage",
+      "file": "src\\pages\\ContactPage.jsx",
+      "sequence": [
+        1,
+        2,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 2,
+        "h3": 0,
+        "total": 3
+      }
+    },
+    {
+      "route": "/o-nama",
+      "component": "AboutPage",
+      "file": "src\\pages\\AboutPage.jsx",
+      "sequence": [
+        1,
+        2,
+        2,
+        3,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 3,
+        "h3": 1,
+        "total": 5
+      }
+    },
+    {
+      "route": "/case-studies",
+      "component": "CaseStudiesPage",
+      "file": "src\\pages\\CaseStudiesPage.jsx",
+      "sequence": [
+        1,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 1,
+        "h3": 0,
+        "total": 2
+      }
+    },
+    {
+      "route": "/uslovi-koriscenja",
+      "component": "TermsPage",
+      "file": "src\\pages\\TermsPage.jsx",
+      "sequence": [
+        1,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 1,
+        "h3": 0,
+        "total": 2
+      }
+    },
+    {
+      "route": "/uslovi-kupovine",
+      "component": "UsloviKupovinePage",
+      "file": "src\\pages\\UsloviKupovinePage.jsx",
+      "sequence": [
+        1,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 1,
+        "h3": 0,
+        "total": 2
+      }
+    },
+    {
+      "route": "/nacin-placanja",
+      "component": "NacinPlacanjaPage",
+      "file": "src\\pages\\NacinPlacanjaPage.jsx",
+      "sequence": [
+        1,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 1,
+        "h3": 0,
+        "total": 2
+      }
+    },
+    {
+      "route": "/dostava",
+      "component": "DostavaPage",
+      "file": "src\\pages\\DostavaPage.jsx",
+      "sequence": [
+        1,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 1,
+        "h3": 0,
+        "total": 2
+      }
+    },
+    {
+      "route": "/politika-privatnosti",
+      "component": "PrivacyPage",
+      "file": "src\\pages\\PrivacyPage.jsx",
+      "sequence": [
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 4,
+        "h3": 3,
+        "total": 8
+      }
+    },
+    {
+      "route": "/blog",
+      "component": "BlogPage",
+      "file": "src\\pages\\blog\\BlogPage.jsx",
+      "sequence": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        4,
+        3
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 2,
+        "h3": 3,
+        "total": 7
+      }
+    },
+    {
+      "route": "/industrije/e-commerce",
+      "component": "EcommercePage",
+      "file": "src\\pages\\industries\\EcommercePage.jsx",
+      "sequence": [
+        1,
+        2,
+        2,
+        3,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 3,
+        "h3": 1,
+        "total": 5
+      }
+    },
+    {
+      "route": "/industrije/saas",
+      "component": "SaasPage",
+      "file": "src\\pages\\industries\\SaasPage.jsx",
+      "sequence": [
+        1,
+        2,
+        2,
+        3,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 3,
+        "h3": 1,
+        "total": 5
+      }
+    },
+    {
+      "route": "/industrije/lokalni-biznisi",
+      "component": "LocalBusinessPage",
+      "file": "src\\pages\\industries\\LocalBusinessPage.jsx",
+      "sequence": [
+        1,
+        2,
+        2,
+        3,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 3,
+        "h3": 1,
+        "total": 5
+      }
+    },
+    {
+      "route": "/industrije/startapovi",
+      "component": "StartupsPage",
+      "file": "src\\pages\\industries\\StartupsPage.jsx",
+      "sequence": [
+        1,
+        2,
+        2,
+        3,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 3,
+        "h3": 1,
+        "total": 5
+      }
+    },
+    {
+      "route": "/alati/roi-kalkulator",
+      "component": "ROICalculatorPage",
+      "file": "src\\pages\\ROICalculatorPage.jsx",
+      "sequence": [
+        1,
+        2,
+        2,
+        3,
+        3
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 2,
+        "h3": 2,
+        "total": 5
+      }
+    },
+    {
+      "route": "/cene-izrade-sajta",
+      "component": "CeneIzradeSajtaPage",
+      "file": "src\\pages\\CeneIzradeSajtaPage.jsx",
+      "sequence": [
+        1,
+        2,
+        2,
+        3,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 8,
+        "h3": 1,
+        "total": 10
+      }
+    },
+    {
+      "route": "/agencija-vs-freelancer",
+      "component": "AgencijaVsFreelancerPage",
+      "file": "src\\pages\\AgencijaVsFreelancerPage.jsx",
+      "sequence": [
+        1,
+        2,
+        3,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 10,
+        "h3": 2,
+        "total": 13
+      }
+    },
+    {
+      "route": "/cene-digitalnog-marketinga",
+      "component": "CeneDigitalnogMarketingaPage",
+      "file": "src\\pages\\CeneDigitalnogMarketingaPage.jsx",
+      "sequence": [
+        1,
+        2,
+        3,
+        2,
+        2,
+        3,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 8,
+        "h3": 2,
+        "total": 11
+      }
+    },
+    {
+      "route": "/marketing-agencija-novi-sad",
+      "component": "MarketingAgencijaNsPage",
+      "file": "src\\pages\\MarketingAgencijaNsPage.jsx",
+      "sequence": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 7,
+        "h3": 2,
+        "total": 10
+      }
+    },
+    {
+      "route": "/web-shop-nema-prodaju",
+      "component": "WebShopNemaProdajuPage",
+      "file": "src\\pages\\WebShopNemaProdajuPage.jsx",
+      "sequence": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 6,
+        "h3": 0,
+        "total": 7
+      }
+    },
+    {
+      "route": "/koliko-kosta-facebook-reklama",
+      "component": "KolikoKostaFacebookReklamaPage",
+      "file": "src\\pages\\KolikoKostaFacebookReklamaPage.jsx",
+      "sequence": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        2,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 8,
+        "h3": 3,
+        "total": 12
+      }
+    },
+    {
+      "route": "/google-reklame-cena",
+      "component": "GoogleReklameCenaPage",
+      "file": "src\\pages\\GoogleReklameCenaPage.jsx",
+      "sequence": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        2,
+        3,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 15,
+        "h3": 8,
+        "total": 24
+      }
+    },
+    {
+      "route": "/instagram-reklame-cena",
+      "component": "InstagramReklameCenaPage",
+      "file": "src\\pages\\InstagramReklameCenaPage.jsx",
+      "sequence": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        3,
+        2,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 14,
+        "h3": 10,
+        "total": 25
+      }
+    },
+    {
+      "route": "/izrada-wordpress-sajta-cena",
+      "component": "IzradaWordpressSajtaCenaPage",
+      "file": "src\\pages\\IzradaWordpressSajtaCenaPage.jsx",
+      "sequence": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        2,
+        3,
+        2,
+        3,
+        2,
+        2,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 14,
+        "h3": 8,
+        "total": 23
+      }
+    },
+    {
+      "route": "/marketing-agencija-zrenjanin",
+      "component": "MarketingAgencijaZrenjaninPage",
+      "file": "src\\pages\\MarketingAgencijaZrenjaninPage.jsx",
+      "sequence": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 6,
+        "h3": 2,
+        "total": 9
+      }
+    },
+    {
+      "route": "/seo-optimizacija-cena",
+      "component": "SeoOptimizacijaCenaPage",
+      "file": "src\\pages\\SeoOptimizacijaCenaPage.jsx",
+      "sequence": [
+        1,
+        2,
+        2,
+        3,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 7,
+        "h3": 1,
+        "total": 9
+      }
+    },
+    {
+      "route": "/marketing-agencija-beograd",
+      "component": "MarketingAgencijaBgPage",
+      "file": "src\\pages\\MarketingAgencijaBgPage.jsx",
+      "sequence": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 6,
+        "h3": 2,
+        "total": 9
+      }
+    },
+    {
+      "route": "/facebook-oglasi-ne-rade",
+      "component": "FacebookOglasiNeRadePage",
+      "file": "src\\pages\\FacebookOglasiNeRadePage.jsx",
+      "sequence": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        2,
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 8,
+        "h3": 5,
+        "total": 14
+      }
+    },
+    {
+      "route": "/fiksna-naknada-vs-revenue-share",
+      "component": "FiksnaNaknadaVsRevenueSharePage",
+      "file": "src\\pages\\FiksnaNaknadaVsRevenueSharePage.jsx",
+      "sequence": [
+        1,
+        2,
+        2,
+        2,
+        3,
+        2,
+        3,
+        3,
+        2,
+        2,
+        2,
+        3,
+        3,
+        2,
+        2,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 10,
+        "h3": 5,
+        "total": 16
+      }
+    },
+    {
+      "route": "/in-house-tim-vs-agencija",
+      "component": "InHouseVsAgencijaPage",
+      "file": "src\\pages\\InHouseVsAgencijaPage.jsx",
+      "sequence": [
+        1,
+        2,
+        2,
+        3,
+        2,
+        3,
+        3,
+        2,
+        2,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 9,
+        "h3": 4,
+        "total": 14
+      }
+    },
+    {
+      "route": "/marketing-za-restorane",
+      "component": "MarketingZaRestoranePage",
+      "file": "src\\pages\\MarketingZaRestoranePage.jsx",
+      "sequence": [
+        1,
+        2,
+        3,
+        2,
+        2,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 7,
+        "h3": 2,
+        "total": 10
+      }
+    },
+    {
+      "route": "/marketing-za-stomatologe",
+      "component": "MarketingZaStomatologePage",
+      "file": "src\\pages\\MarketingZaStomatologePage.jsx",
+      "sequence": [
+        1,
+        2,
+        3,
+        2,
+        2,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 7,
+        "h3": 2,
+        "total": 10
+      }
+    },
+    {
+      "route": "/marketing-za-advokate",
+      "component": "MarketingZaAdvokatePage",
+      "file": "src\\pages\\MarketingZaAdvokatePage.jsx",
+      "sequence": [
+        1,
+        2,
+        3,
+        2,
+        2,
+        2,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 8,
+        "h3": 2,
+        "total": 11
+      }
+    }
+  ],
+  "issues": []
+}

@@ -1,0 +1,56 @@
+{
+  "generatedAt": "2026-03-15T17:12:45.670Z",
+  "filesChecked": 6,
+  "issueCount": 0,
+  "checks": [
+    {
+      "file": "src/components/AppPreview.jsx",
+      "images": 1,
+      "eagerCount": 0,
+      "highCount": 0,
+      "maxEager": 0,
+      "allowHighPriority": false
+    },
+    {
+      "file": "src/components/Features.jsx",
+      "images": 3,
+      "eagerCount": 0,
+      "highCount": 0,
+      "maxEager": 0,
+      "allowHighPriority": false
+    },
+    {
+      "file": "src/components/Navbar.jsx",
+      "images": 1,
+      "eagerCount": 1,
+      "highCount": 1,
+      "maxEager": 1,
+      "allowHighPriority": true
+    },
+    {
+      "file": "src/components/ui/animated-characters-login-page.jsx",
+      "images": 2,
+      "eagerCount": 2,
+      "highCount": 0,
+      "maxEager": 2,
+      "allowHighPriority": false
+    },
+    {
+      "file": "src/pages/CaseStudiesPage.jsx",
+      "images": 1,
+      "eagerCount": 0,
+      "highCount": 0,
+      "maxEager": 0,
+      "allowHighPriority": false
+    },
+    {
+      "file": "src/pages/WebDesignPage.jsx",
+      "images": 1,
+      "eagerCount": 0,
+      "highCount": 0,
+      "maxEager": 0,
+      "allowHighPriority": false
+    }
+  ],
+  "issues": []
+}

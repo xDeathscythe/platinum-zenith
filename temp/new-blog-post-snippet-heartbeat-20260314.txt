@@ -1,0 +1,117 @@
+  {
+    slug: 'google-ads-za-salone-namestaja-cena-leada-srbija-2026',
+    title: 'Google Ads za salone namestaja u Srbiji 2026: cena lead-a, budzet i vise kupaca sa jasnom namerom',
+    excerpt: 'Koliko realno kostaju Google Ads kampanje za salone namestaja u Srbiji 2026, koji budzet ima smisla po fazama i kako da smanjite cenu kvalitetnog upita bez praznih klikova.',
+    date: '2026-03-14',
+    category: 'Google Ads',
+    readTime: '10 min',
+    content: `
+## Google Ads za salone namestaja u Srbiji 2026: kratak odgovor
+
+Ako trazis upit **google ads za salone namestaja cena**, realan okvir za srpsko trziste u 2026 najcesce izgleda ovako:
+
+- **test faza:** 400e-1.000e/mes,
+- **stabilan priliv kvalitetnih upita:** 1.000e-2.800e/mes,
+- **skaliranje po kategorijama i gradovima:** 2.800e+/mes.
+
+Za siri benchmark Search troska pogledaj i [Google reklame cena](/google-reklame-cena), a za ukupni raspored ulaganja po kanalima [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Koliko realno kosta lead za salon namestaja
+
+Posle 4-8 nedelja uredne optimizacije, najcesci rasponi su:
+
+- **CPC:** 0.18e-1.25e,
+- **kvalifikovan upit (telefon ili forma):** 14e-68e,
+- **zakazana poseta salonu / merenje:** 35e-150e.
+
+Razlika je velika jer nije isto da li oglas targetira:
+
+1. gotove garniture iz zaliha,
+2. kuhinje po meri,
+3. plakare po meri,
+4. premium enterijer sa duzim ciklusom odluke.
+
+Skuplji klik ne mora biti los, ako donosi ozbiljnije upite sa realnim budzetom.
+
+## Gde saloni namestaja najcesce gube budzet
+
+### 1) Sve kategorije proizvoda u jednoj kampanji
+Kada su kuhinje, garniture, stolovi i plakari u istoj ad grupi, poruka postaje preopsirna i quality score pada.
+Bolje radi segmentacija po kategoriji + intentu (cena, po meri, brzo, premium).
+
+### 2) Slab feed i neuredni nazivi proizvoda
+Ako naziv proizvoda nije jasan ili nema cenu i materijal, klikovi dolaze bez ozbiljne kupovne namere.
+
+### 3) Landing koji ne zatvara sumnju kupca
+Ako stranica nema dimenzije, rok izrade, materijale i model placanja, korisnik odlazi konkurenciji.
+Ako ti je bottleneck posle klika, pogledaj i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+
+### 4) Nema odvajanja hot i cold upita
+Upiti tipa "cena kuhinje po meri" i "ideje za dnevnu sobu" ne smeju imati isti tretman i isti bid.
+
+## Struktura kampanje koja najcesce radi
+
+### 1) Kampanje po kategoriji i marzi
+Odvojiti najmanje:
+- kuhinje po meri,
+- plakare i americke plakare,
+- ugaone i trosede,
+- trpezarijski program,
+- akcijski artikli.
+
+### 2) Search + Performance Max uz jasan signal
+Search hvata jasan intent, dok PMax siri doseg uz kvalitetan feed i kreativu.
+Ali bez kontrole pretraga i redovnog ciscenja terms izvestaja, trosak brzo bezi.
+
+### 3) Geo segmentacija po realnoj logistici
+Ako pokrivate Beograd, Novi Sad i okolinu, kampanje i poruke treba da budu odvojene po dostupnosti isporuke i montaze.
+Za lokalni ugao korisni su i [marketing agencija Beograd](/marketing-agencija-beograd) i [marketing agencija Novi Sad](/marketing-agencija-novi-sad).
+
+### 4) Remarketing sa konkretnom ponudom
+Posetioci koji su gledali kategoriju, ali nisu poslali upit, vracaju se kroz:
+- rok isporuke,
+- varijante materijala,
+- social proof,
+- jasan CTA za merenje ili ponudu.
+
+## Landing koji pretvara klik u ozbiljan upit
+
+Ako vec placas saobracaj, landing mora da uradi pola prodaje pre poziva:
+
+1. jasan naslov (kategorija + grad + kljucna korist),
+2. 6-12 relevantnih primera (fotografije + cena od-do),
+3. proces saradnje (upit -> merenje -> predlog -> realizacija),
+4. trust signali (recenzije, broj realizacija, garancija),
+5. jedan glavni CTA (zakazi merenje / trazi ponudu).
+
+Ako prodajni deo nije jasan, kampanja moze imati promet, ali ne i kvalitetne upite.
+
+## KPI koje treba pratiti svake nedelje
+
+Ne vodi kampanju po jeftinom kliku.
+Za salone namestaja su bitnije ove metrike:
+
+1. cena kvalifikovanog upita,
+2. procenat upita koji prelaze u merenje,
+3. procenat merenja koji prelazi u ponudu,
+4. procenat ponuda koje postaju prodaja,
+5. bruto marza po prodaji iz oglasa.
+
+Tek tada znas da li Google Ads pravi zdrav rast, a ne samo volumen.
+
+## 30-dnevni plan bez lutanja
+
+- **Nedelja 1:** setup kampanja po kategoriji + tracking za pozive i forme.
+- **Nedelja 2:** ciscenje search terms + negativne reci + bolji asset copy.
+- **Nedelja 3:** dorada landing sekcija (materijal, rok, cena opseg, CTA).
+- **Nedelja 4:** preraspodela budzeta samo na segmente sa najboljim odnosom cena upita / kvalitet.
+
+Za detaljniji benchmark cene klika pogledaj [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026), a za model saradnje i [vodjenje Google Ads kampanja cena](/blog/vodjenje-google-ads-kampanja-cena-srbija-2026).
+
+## Zakljucak
+
+Google Ads za salone namestaja u Srbiji 2026 moze da donese stabilan priliv kupaca kada kampanje vodis po kategoriji proizvoda, marzi i kvalitetu upita, ne po najjeftinijem kliku.
+Ako hoces, mogu da uradim mini audit i oznacim 3 najbrza poteza za nizi trosak kvalifikovanog upita preko [kontakt forme](/kontakt).
+`,
+  },
+
