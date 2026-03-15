@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "vodjenje-drustvenih-mreza-cena-srbija-2026",
+    "title": "Vodjenje drustvenih mreza cena u Srbiji 2026: Koliko realno kosta i sta dobijate",
+    "excerpt": "Koliko kosta vodjenje drustvenih mreza u Srbiji 2026? Detaljan vodic kroz cene za freelancere i marketing agencije, sta tacno ulazi u mesecni paket i zasto najjeftinija opcija cesto ubija prodaju.",
+    "date": "2026-03-15",
+    "category": "Marketing",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "tiktok-vs-instagram-reklame-srbija-2026",
     "title": "TikTok reklame vs Instagram reklame: gde uloziti budzet u Srbiji 2026?",
     "excerpt": "Prakticno poredjenje cene klika, kvaliteta lead-ova i organskog dosega na TikToku i Instagramu za trziste Srbije. Sta se isplati za B2B, a sta za e-commerce?",
@@ -1116,15 +1125,6 @@ export const blogIndexPosts = [
     "date": "2026-03-10",
     "category": "WordPress",
     "readTime": "8 min",
-    "isDraft": false
-  },
-  {
-    "slug": "vodjenje-drustvenih-mreza-cena-srbija-2026",
-    "title": "Vodenje društvenih mreža cena u Srbiji 2026: šta ulazi i koliko realno košta",
-    "excerpt": "Cene vodenja drustvenih mreza idu od 150e do 2.000e+ mesecno, ali razlika nije samo u broju objava. Evo sta stvarno placate i koji paket ima smisla za vas biznis.",
-    "date": "2026-03-10",
-    "category": "Digitalni marketing",
-    "readTime": "9 min",
     "isDraft": false
   },
   {

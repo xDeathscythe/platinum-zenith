@@ -1,4 +1,61 @@
 ﻿const rawBlogPosts = [
+  {
+    slug: 'vodjenje-drustvenih-mreza-cena-srbija-2026',
+    title: 'Vodjenje drustvenih mreza cena u Srbiji 2026: Koliko realno kosta i sta dobijate',
+    excerpt: 'Koliko kosta vodjenje drustvenih mreza u Srbiji 2026? Detaljan vodic kroz cene za freelancere i marketing agencije, sta tacno ulazi u mesecni paket i zasto najjeftinija opcija cesto ubija prodaju.',
+    date: '2026-03-15',
+    category: 'Marketing',
+    readTime: '8 min',
+    content: `
+## Vodjenje drustvenih mreza cena u Srbiji 2026 (kratak odgovor)
+
+Ako trazite upit **vodjenje drustvenih mreza cena**, evo najiskrenijeg odgovora za srpsko trziste u 2026. godini: raspon je najcesce **od 150eur do 800eur+ mesecno**.
+
+Ipak, ogromna je razlika izmedju toga sta dobijate za 150eur, a sta za 800eur.
+
+- **Mesecni paket od 150eur do 250eur:** Ovo obicno nudi pocetnik freelancer ili "fabrika" agencija. Dobijate genericke Canva objave, 3-4 posta nedeljno i osnovno zakazivanje (scheduling). Nema ozbiljne strategije ni vodjenja placenih reklama.
+- **Mesecni paket od 350eur do 600eur:** Standardna cena za iskusnog freelancera ili manju agenciju. Ukljucuje custom dizajn prilagodjen vasem brendu, copywriting, Reels montazu, strategiju sadrzaja, moderaciju stranice i vodjenje Facebook i Instagram reklama.
+- **Mesecni paket od 800eur i vise:** Premium nivo koji podrazumeva izlazak na teren (slikanje, snimanje, produkciju), napredne prodajne levkove (funnele), profesionalni copywriting po Alex Hormozi ili Sabri Suby modelu, kao i detaljnu analitiku.
+
+Cena je direktno srazmerna klijentskoj usluzi i dubini preuzetog posla sa vas na tim.
+
+## Sta realno ulazi u paket za vodjenje drustvenih mreza?
+
+Kada placate vodjenje mreza (Facebook, Instagram, LinkedIn, TikTok), nije sustina samo u broju "slika mesecno". Fokusirajte se na proces.
+
+### 1. Strategija i vizuelni identitet
+Uvek bezite od ponuda gde vas neko pita "Sta da objavimo sutra?". Dobra agencija prvo postavlja jasnu grid strategiju i ton komunikacije (Tone of Voice).
+
+### 2. Kreiranje sadrzaja i dizajn
+Paket mora ukljucivati graficki dizajn (prilagodjen a ne skinut sa template baze bez modifikacije) i copywriting - tekstove koji zaustavljaju scroll ("hook") i podsticu reakciju (CTA).
+
+### 3. Video produkcija (Reels, TikTok)
+U 2026. godini, samo staticne slike ne rade dovoljno dobro za doseg publike. Ugovoreni paket treba jasno definisati koliko Reels ili TikTok videa dobijate, kao i da li vi dostavljate sirov materijal ili ga agencija dolazi i snima.
+
+### 4. Zakazivanje (Scheduling) i moderacija
+Vas posao nije da brinete kada se objavljuje post. Agencija odrzava kontinuitet i odgovara na komentare (ili filtrira spam komentare). 
+
+### 5. Vodjenje oglasnih kampanja
+Vodjenje drustvenih mreza gubi 80% smisla ako nema paid strategije. Boost postova nije strategija! Potrebne su profesionalne kampanje iz Meta Ads Manager-a.
+
+## Zasto vas paket od 100eur najcesce kosta mnogo vise?
+
+Ovo zvuci kontraintuitivno, ali "jeftin" menadzer drustvenih mreza je najskuplji eksperiment. Zasto? Zato sto se vas biznis spusta u genericku fabriku sadrzaja.
+
+Dizajni se stancuju, tekst je pisan od strane AI robota (bez review-a), angazovanje publike opada i polako gubite profesionalni utisak pred novim klijentima. Pritom, trosite budzet na reklame koje vode ljude na dosadan i mrtav profil.
+
+## Kako odabrati pravog partnera?
+
+1. **Trazite studiju slucaja (Case Study):** Nemojte gledati samo lepe slike iz portfolija, gledajte rezultate - broj ostvarenih lead-ova ili rast prihoda.
+2. **Razumite model rada:** Dilema izmedju freelancera i tima je realna - [agencija vs freelancer](/agencija-vs-freelancer). Agencija nudi tim ljudi, a freelancer je jedna osoba koja uvek moze da "pregori" od viska posla.
+3. **Bezite od laznih pratilaca:** Nema potrebe za uslugama koje obecavaju "2.000 novih pratilaca mesecno" za malu cenu. Vi zelite prodaju, a ne botove.
+
+## Zakljucak
+
+Ako ozbiljno gledate na nastup vase firme online u 2026. godini, budzetirajte srednju visu klasu (350eur - 600eur) gde znate da vas brend nece biti sablon.
+Ukoliko razmisljate sire o izradi sajtova i marketingu, korisno je procitati vise o troskovima [cene izrade sajta](/cene-izrade-sajta) kao i uopsteno o [cenama digitalnog marketinga](/cene-digitalnog-marketinga) te o [vodjenju Instagram reklama](/instagram-reklame-cena).
+`
+  },
 
   {
     slug: 'tiktok-vs-instagram-reklame-srbija-2026',
