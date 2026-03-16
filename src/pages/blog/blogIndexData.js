@@ -3,6 +3,24 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "kako-naci-pacijente-za-stomatolosku-ordinaciju-srbija-2026",
+    "title": "Kako naci pacijente za stomatolosku ordinaciju u Srbiji (2026)",
+    "excerpt": "Marketing za stomatologe se promenio. Saznajte kako da prestanete da zavisite od preporuka i izgradite stabilan sistem koji ordinaciji donosi kvalitetne pacijente svakog meseca.",
+    "date": "2026-03-16",
+    "category": "Marketing",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
+    "slug": "izrada-woocommerce-web-shopa-cena-srbija-2026",
+    "title": "Izrada WooCommerce web shopa cena u Srbiji 2026: skriveni troskovi i rasponi",
+    "excerpt": "Koliko realno kosta izrada WooCommerce web shopa u 2026? Pogledajte realne raspone cena, razlike izmedu sablona i custom resenja, kao i cesto zaboravljeno odrzavanje.",
+    "date": "2026-03-15",
+    "category": "Biznis",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "izrada-web-shopa-cena-srbija-2026",
     "title": "Izrada web shopa cena u Srbiji 2026: koliko kosta internet prodavnica koja donosi profit",
     "excerpt": "Detaljan pregled cena za izradu web shopa u Srbiji u 2026. godini. Saznajte razlike izmedu sablona i custom resenja, kao i skrivene troskove najjeftinijih opcija.",

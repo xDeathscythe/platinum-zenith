@@ -1,5 +1,112 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'kako-naci-pacijente-za-stomatolosku-ordinaciju-srbija-2026',
+    title: 'Kako naci pacijente za stomatolosku ordinaciju u Srbiji (2026)',
+    excerpt: 'Marketing za stomatologe se promenio. Saznajte kako da prestanete da zavisite od preporuka i izgradite stabilan sistem koji ordinaciji donosi kvalitetne pacijente svakog meseca.',
+    date: '2026-03-16',
+    category: 'Marketing',
+    readTime: '8 min',
+    content: `
+## Najveci problem vecine stomatoloskih ordinacija
+
+Vecina ordinacija u Srbiji i dalje zavisi od jednog jedinog kanala akvizicije: **preporuke od usta do usta**.
+Preporuke su sjajne. To su najtopliji pacijenti, sa najvisim nivoom poverenja, i obicno najmanje pitaju za cenu.
+
+Ali preporuke imaju jedan sistemski problem – **nisu skalabilne i nisu predvidive**.
+Ne mozete sutra odluciti "ovog meseca zelim 20% vise pacijenata" i pojacati preporuke. Kada otvorite novu stolicu ili zaposlite novog doktora, ocekivanje da ce prazan hod popuniti preporuke najcesce dovodi do stresa i finansijskog minusa.
+
+Zbog toga, ozbiljne ordinacije u 2026. godini ne prepustaju punjenje rasporeda slucajnosti, vec investiraju u [digitalni marketing](/digitalni-marketing) kako bi obezbedile konstantan priliv novih upita.
+
+## Sta pacijenti zapravo traze na internetu
+
+Pacijent retko trazi ordinaciju kada mu je dosadno. Trazi je kada ima problem (bol) ili kada ima zelju (estetika). 
+
+- **Hitne intervencije (bol):** Ovo je saobracaj visokog intent-a. Kada osobu boli zub u 2 ujutru, ona ne skroluje Instagram. Ona otvara Google i kuca "stomatolog dezurni Novi Sad" ili "popravka zuba hitno". Ako se tu ne pojavite medju prva 3 rezultata, ta osoba odlazi kod konkurencije.
+- **Estetska stomatologija (zelja):** Ljudi mesecima i godinama razmisljaju o ispravljanju zuba (folije, fiksne proteze) ili o fasetama i beljenju. Ovo je proces edukacije. Za ovu vrstu publike, vizuelni prikaz rezultata (pre/posle) na Instagramu prodaje uslugu, dok Google pomaze kad vec donesu odluku.
+
+Za razlicite usluge potrebni su razliciti kanali. Vise o formiranju ovog plana procitajte u vodicu za [marketing za stomatologe](/marketing-za-stomatologe).
+
+## 3 kanala koja provereno rade za stomatologe u Srbiji
+
+### 1. Google Business Profil (Lokalni SEO)
+Kada pacijent trazi stomatologa, on trazi stomatologa u svojoj blizini. Google Mapa je najvazniji digitalni izlog koji vasa ordinacija ima. 
+Optimizovan profil sa jasnim radnim vremenom, profesionalnim slikama ordinacije (bez previse medicinske opreme koja plasi ljude) i pravim Google recenzijama donosi i do 40% svih organskih upita.
+
+Za detaljne cene i isplativost ovakve strategije, pogledajte nas presek za [SEO optimizacija cena](/seo-optimizacija-cena).
+
+### 2. Google Ads kampanje za kljucne usluge
+Ako nemate vremena da cekate 6 meseci da se rangirate organski, [Google reklame](/google-reklame-cena) vas stavljaju na vrh vec istog dana.
+Caka je u tome da ne reklamirate "stomatolosku ordinaciju", vec specificne usluge koje imaju visoku profitnu marginu: ugradnja implanata, all-on-4, fiksne proteze i estetska stomatologija. Oglas koji targetira osobu koja bas tog dana trazi "cene ugradnje implanata Beograd" vredi neuporedivo vise od oglasa koji se vrti nasumicno na Facebooku.
+
+### 3. Edukativni i "Pre/Posle" sadrzaj na drustvenim mrezama
+Strah od zubara je i dalje jedan od najjacih psiholoskih blokatora. Vaš zadatak na mrezama nije da pricate o medicinskim alatima, vec da pokazujete ljude.
+Video snimci gde doktor jednostavnim recima objasnjava proces (npr. "Da li ugradnja implanta boli?"), ili video reakcije pacijenata kada prvi put vide svoj novi osmeh u ogledalu – to je sadrzaj koji topi strah i gradi autoritet. 
+
+Za benchmark ulaganja u ove kanale, pogledajte i [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama) ili proverite prosecan budzet kroz nas clanak [vodjenje drustvenih mreza cena](/drustvene-mreze).
+
+## Zasto vas sadasnji marketing mozda ne radi
+
+Ako vec placate oglase ili vodite drustvene mreze, a ne vidite rezultat, problem se obicno svodi na dve greske:
+
+1. **Oglasi ne vode na landing stranicu:** Ako platite klik za "folije za ispravljanje zuba", a korisnika posaljete na vasu opstu pocetnu stranicu gde mora sam da trazi tu uslugu, on ce u 80% slucajeva zatvoriti sajt. Svaka kljucna usluga mora imati svoju optimizovanu landing stranicu. Vise o tome procitajte u delu [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+2. **Predugacak proces zakazivanja:** Pacijent je na sajtu i zeli termin. Da li moze da popuni kratku formu u 3 klika? Ili mora da pise mejl i ceka odgovor do sutra? Ako mu ne otezate, konverzija raste.
+
+## Sta uraditi sledece?
+
+Umesto da ulazete pare na slepo u boostovanje Instagram postova, krenite od usluga koje donose najveci profit i najbrzi povrat novca. Targetirajte ljude koji te usluge vec traze na Google-u.
+
+Ako zelite jasan sistem koji vasoj ordinaciji garantuje predvidiv broj pacijenata svakog meseca, bez stresa da li cete "popuniti stolicu", javite se nasem timu putem [kontakt forme](/kontakt) da razmotrimo vas trenutni polozaj na trzistu.
+`
+  },
+  {
+    slug: 'izrada-woocommerce-web-shopa-cena-srbija-2026',
+    title: 'Izrada WooCommerce web shopa cena u Srbiji 2026: skriveni troskovi i rasponi',
+    excerpt: 'Koliko realno kosta izrada WooCommerce web shopa u 2026? Pogledajte realne raspone cena, razlike izmedu sablona i custom resenja, kao i cesto zaboravljeno odrzavanje.',
+    date: '2026-03-15',
+    category: 'Biznis',
+    readTime: '8 min',
+    content: `
+## WooCommerce kao standard za web shop u Srbiji
+
+Kada preduzetnici traze upit **izrada web shopa**, najcesce na kraju dobiju ponudu za WooCommerce. Razlog je jednostavan: WooCommerce pokrece preko 30% svih e-commerce sajtova na svetu. Fleksibilan je, integrise se sa svim domacim bankama i kurirskim sluzbama, a vi ostajete jedini vlasnik svog koda.
+
+Ali **izrada WooCommerce web shopa cena** varira ekstremno. Zasto jedna agencija trazi 600 evra, a druga 3.500 evra za naizgled istu stvar? Odgovor lezi u onome sto se desava ispod haube.
+
+Za generalni pregled cena izrade prezentacionih sajtova, pogledajte nas vodic za [cene izrade sajta](/cene-izrade-sajta).
+
+## Osnovni, srednji i napredni WooCommerce: sta birate?
+
+Na trzistu u Srbiji 2026. godine, mozemo podeliti WooCommerce projekte u tri realne kategorije.
+
+### 1) MVP web shop (600e - 1.200e)
+Ovo je osnovna postavka. Agencija kupuje gotovu temu, ubacuje vas logo, postavlja boje vaseg brenda i instalira osnovne pluginove. Proizvode najcesce unosite sami. Ovo je odlican izbor ako tek testirate ideju i imate vrlo ogranicen asortiman robe. Problem nastaje kada ovakav sajt opteretite vecim saobracajem jer gotove teme cesto imaju losiji kod koji usporava ucitavanje.
+
+### 2) Optimizovan prodajni sistem (1.500e - 3.500e)
+Ovde ne kupujete samo lep dizajn. Placate arhitekturu koja prodaje. Dobijate brz sajt (jer se radi prilagodjen dizajn bez nepotrebnog koda), napredne filtere za pretragu proizvoda, automatsko pracenje napustenih korpi i integraciju sa vasim knjigovodstvom. Ovo je nivo u koji vredi uloziti ako ozbiljno planirate skaliranje kroz [Google reklame cena](/google-reklame-cena).
+
+### 3) Enterprise WooCommerce (4.000e+)
+Ako imate 5.000+ artikala, slozene B2B i B2C cenovnike, potrebu za sinhronizacijom lagera u realnom vremenu sa eksternim ERP sistemom (kao sto su Pantheon ili Billans), nalazite se u enterprise segmentu. Tu ne postoje sabloni, sve se razvija od nule kako bi sistem bio maksimalno pouzdan pod opterecenjem.
+
+## Najveca greska: zaboravljeni troskovi odrzavanja
+
+WooCommerce nije proizvod koji kupite i ostavite na serveru da radi sam. To je ziv softver. Zahteva azuriranje WordPress jezgra, same WooCommerce platforme, kao i svih dodataka koji povezuju sajt sa bankom ili postom.
+
+Ako sajt ne odrzavate, on prvo postaje spor, a zatim ranjiv na hakerske napade. Kada vam sajt padne usred kampanje za Crni petak, izgubljeni prihod u tih par sati cesto daleko premasuje cenu godisnjeg odrzavanja. Realna cena kvalitetnog tehnickog odrzavanja u Srbiji iznosi izmedju 100 i 300 evra mesecno. Vise o odrzavanju mozete procitati u clanku [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+
+## Nema prodaje bez saobracaja
+
+Puno vlasnika firmi izdvoji ceo marketing budzet za izradu sajta, zaboravljajuci da onlajn prodavnica bez posetilaca lici na radnju u pustinji. Nakon sto pustite sajt, morate uloziti u vidljivost.
+
+Za brze rezultate, oslanjate se na placene kampanje. Ako zelite dugorocan, stabilan i besplatan saobracaj, ulozicete u SEO za web shopove. Vise o organskom pozicioniranju i njegovim troskovima procitajte u vodicu za [SEO optimizacija cena](/seo-optimizacija-cena). Takodje, za informisanje o troskovima drustvenih mreza posetite [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama).
+
+## Kako da dobijete tacnu ponudu
+
+Nemojte slati genericke upite agencijama. Navedite im tacan broj proizvoda, nacin na koji zelite da naplacujete robu, i da li vam je potrebna automatska veza sa sistemom za fakturisanje. 
+
+Ako vam je potrebna stabilna, brza prodavnica koja pretvara klikove u prodaju, slobodno se javite preko nase [kontakt forme](/kontakt) i napravicemo konkretan plan i procenu budzeta za vas WooCommerce sistem.
+`
+  },
+  {
     slug: 'izrada-web-shopa-cena-srbija-2026',
     title: 'Izrada web shopa cena u Srbiji 2026: koliko kosta internet prodavnica koja donosi profit',
     excerpt: 'Detaljan pregled cena za izradu web shopa u Srbiji u 2026. godini. Saznajte razlike izmedu sablona i custom resenja, kao i skrivene troskove najjeftinijih opcija.',
@@ -15085,6 +15192,8 @@ export const blogPosts = rawBlogPosts.filter((post) => {
   seenSlugs.add(post.slug)
   return true
 })
+
+
 
 
 
