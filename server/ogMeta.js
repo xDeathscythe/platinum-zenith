@@ -446,6 +446,22 @@ const SERVER_ROUTE_SCHEMAS = {
       ],
     },
   },
+  '/marketing-za-nekretnine': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Marketing za agencije za nekretnine',
+    serviceType: 'Real estate marketing',
+    url: `${SITE_URL}/marketing-za-nekretnine`,
+    areaServed: {
+      '@type': 'Country',
+      name: 'Srbija',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
   '/marketing-za-advokate': {
     '@context': 'https://schema.org',
     '@type': 'Service',
@@ -907,6 +923,10 @@ const ogMeta = {
     title: 'DRAFT: Kako smo povećali profit 4x kroz CRO izmene | Platinum Zenith',
     description: 'Interni draft case study članka za Netokraciju o CRO optimizaciji: brzina sajta, mini-korpa, order bumps i Niwa AI logika u realnom e-commerce toku.',
   },
+  '/marketing-za-nekretnine': {
+    title: 'Marketing za Agencije za Nekretnine | Platinum Zenith',
+    description: 'Digitalni marketing za agencije za nekretnine u Srbiji. Povećajte broj kupaca i prodavaca kroz Google Ads, SEO i Meta kampanje za nekretnine.',
+  },
   '/marketing-za-advokate': {
     title: 'Marketing za Advokate u Srbiji | Platinum Zenith',
     description: 'Marketing za advokatske kancelarije u Srbiji: SEO, Google Ads, sajt i content strategija koja donosi kvalifikovane upite i stabilan rast klijenata.',
@@ -1045,6 +1065,16 @@ const serverFaqByPath = {
     {
       q: 'Koji su najčešći skriveni troškovi WordPress projekta?',
       a: 'Najčešće su to premium licence, hitne intervencije bez maintenance plana i kasne UX/SEO dorade. Zato je važno da roadmap i održavanje budu deo dogovora od starta.',
+    },
+  ],
+  '/marketing-za-nekretnine': [
+    {
+      q: 'Koji kanali najbolje rade za nekretnine?',
+      a: 'Google Ads donosi kupce koji aktivno traže specifične stanove, dok Meta Ads sa video turama podiže interesovanje i prikuplja kontakte prodavaca.',
+    },
+    {
+      q: 'Koliko traje SEO za agenciju za nekretnine?',
+      a: 'Lokalni SEO može pokazati prve rezultate za nekoliko nedelja na nivou grada, dok nacionalne pretrage zahtevaju više meseci rada.',
     },
   ],
   '/marketing-za-advokate': [

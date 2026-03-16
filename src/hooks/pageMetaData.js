@@ -56,6 +56,11 @@ export const pageMeta = {
   '/google-reklame-cena': { title: 'Google Reklame Cena 2026 + Vo\u0111enje Kampanja | Platinum Zenith', description: 'Google reklame cena u Srbiji 2026: realni CPC i CPA po niši, budžeti po fazi rasta i cena vođenja Google Ads kampanja sa fokusom na profit, ne samo klikove.', keywords: 'google reklame cena, google ads cena, koliko kostaju google reklame, cena po kliku google, vodjenje google ads kampanja cena, upravljanje google ads kampanjama' },
   '/instagram-reklame-cena': { title: 'Instagram Reklame Cena 2026 + Vođenje Kampanja | Platinum Zenith', description: 'Instagram reklame cena u Srbiji 2026: CPC, CPM i CPA benchmark, Reels troškovi, preporučeni start budžet i cena vođenja kampanja pre skaliranja.', keywords: 'instagram reklame cena, instagram ads cena, instagram reels reklame cena, koliko kostaju instagram reklame, cena instagram oglasa, instagram oglasavanje srbija, vodjenje instagram ads kampanja cena, upravljanje instagram reklamama' },
   '/izrada-wordpress-sajta-cena': { title: 'Izrada WordPress Sajta Cena u Srbiji 2026 | Platinum Zenith', description: 'Izrada WordPress sajta cena u Srbiji 2026: raspon za prezentacione i WooCommerce projekte, rokovi i održavanje, uz jasnu cenu bez skrivenih troškova.', keywords: 'izrada wordpress sajta cena, wordpress sajt cena, koliko kosta wordpress sajt, wordpress izrada sajta srbija, woocommerce cena izrade, odrzavanje wordpress sajta' },
+  '/marketing-za-nekretnine': {
+    title: 'Marketing za Agencije za Nekretnine | Platinum Zenith',
+    description: 'Digitalni marketing za agencije za nekretnine u Srbiji. Povećajte broj kupaca i prodavaca kroz Google Ads, SEO i Meta kampanje za nekretnine.',
+    keywords: 'marketing za nekretnine, agencija za nekretnine marketing, digitalni marketing nekretnine, seo za nekretnine, google oglasi prodaja stanova',
+  },
   '/marketing-za-advokate': { title: 'Marketing za Advokate u Srbiji | Platinum Zenith', description: 'Marketing za advokatske kancelarije u Srbiji: SEO, Google Ads, sajt i content strategija koja donosi kvalifikovane upite i stabilan rast klijenata.', keywords: 'marketing za advokate, digitalni marketing advokatska kancelarija, google ads advokat, seo za advokate, sajt za advokatsku kancelariju, marketing pravne usluge' },
   '/marketing-za-stomatologe': { title: 'Marketing za Stomatologe u Srbiji | Platinum Zenith', description: 'Specijalizovani marketing za stomatološke ordinacije: Google Ads, lokalni SEO, sajt i kampanje koje pune kalendar novim pacijentima i povećavaju prihod.', keywords: 'marketing za stomatologe, digitalni marketing stomatologija, google ads stomatolog, seo za stomatologe, sajt za ordinaciju, marketing stomatološka ordinacija' },
   '/marketing-za-restorane': { title: 'Marketing za Restorane | Digitalni Marketing za Ugostiteljstvo | Platinum Zenith', description: 'Marketing za restorane u Srbiji: Google Business, društvene mreže, oglasi i sajt koji povećavaju rezervacije, porudžbine i popunjenost stolova.', keywords: 'marketing za restorane, digitalni marketing ugostiteljstvo, restoran marketing srbija, google business restoran, instagram za restorane, sajt za restoran' },
@@ -794,6 +799,64 @@ export const pageSchemas = {
   '/marketing-agencija-beograd': { "@context": "https://schema.org", "@type": "ProfessionalService", "name": "Platinum Zenith - Marketing Agencija Beograd", "description": "Digitalni marketing za firme u Beogradu kroz SEO, Google Ads, društvene mreže i optimizaciju konverzije.", "url": `${SITE_URL}/marketing-agencija-beograd`, "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL }, "areaServed": { "@type": "City", "name": "Beograd" }, "serviceType": "Digital Marketing", "hasOfferCatalog": { "@type": "OfferCatalog", "name": "Marketing usluge za Beograd", "itemListElement": [ { "@type": "Offer", "name": "SEO optimizacija" }, { "@type": "Offer", "name": "Google Ads kampanje" }, { "@type": "Offer", "name": "Društvene mreže" } ] } },
   '/marketing-agencija-novi-sad': { "@context": "https://schema.org", "@type": "ProfessionalService", "name": "Platinum Zenith - Marketing Agencija Novi Sad", "description": "Digitalni marketing za firme u Novom Sadu kroz SEO, Google Ads, društvene mreže i optimizaciju konverzije.", "url": `${SITE_URL}/marketing-agencija-novi-sad`, "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL }, "areaServed": { "@type": "City", "name": "Novi Sad" }, "serviceType": "Digital Marketing", "hasOfferCatalog": { "@type": "OfferCatalog", "name": "Marketing usluge za Novi Sad", "itemListElement": [ { "@type": "Offer", "name": "SEO optimizacija" }, { "@type": "Offer", "name": "Google Ads kampanje" }, { "@type": "Offer", "name": "Društvene mreže" } ] } },
   '/marketing-za-restorane': { "@context": "https://schema.org", "@type": "Service", "name": "Marketing za restorane", "description": "Marketing za restorane kroz Google Business, društvene mreže i oglase koji povećavaju rezervacije, porudžbine i popunjenost stolova.", "url": `${SITE_URL}/marketing-za-restorane`, "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL }, "serviceType": "Restaurant Marketing", "areaServed": { "@type": "Country", "name": "Srbija" }, "hasOfferCatalog": { "@type": "OfferCatalog", "name": "Marketing usluge za restorane", "itemListElement": [ { "@type": "Offer", "name": "Google Business optimizacija" }, { "@type": "Offer", "name": "Meta kampanje za rezervacije" }, { "@type": "Offer", "name": "Lokalni performance oglasi" } ] } },
+  '/marketing-za-nekretnine': {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": `${SITE_URL}/marketing-za-nekretnine#webpage`,
+        "url": `${SITE_URL}/marketing-za-nekretnine`,
+        "name": "Marketing za Agencije za Nekretnine | Platinum Zenith",
+        "description": "Digitalni marketing za agencije za nekretnine u Srbiji. Povećajte broj kupaca i prodavaca kroz Google Ads, SEO i Meta kampanje za nekretnine.",
+        "isPartOf": { "@id": `${SITE_URL}/#website` },
+        "about": { "@id": `${SITE_URL}/marketing-za-nekretnine#service` },
+        "breadcrumb": { "@id": `${SITE_URL}/marketing-za-nekretnine#breadcrumb` }
+      },
+      {
+        "@type": "Service",
+        "@id": `${SITE_URL}/marketing-za-nekretnine#service`,
+        "name": "Marketing za agencije za nekretnine",
+        "serviceType": "Real estate marketing",
+        "url": `${SITE_URL}/marketing-za-nekretnine`,
+        "mainEntityOfPage": { "@id": `${SITE_URL}/marketing-za-nekretnine#webpage` },
+        "provider": { "@id": `${SITE_URL}/#organization` },
+        "areaServed": {
+          "@type": "Country",
+          "name": "Srbija"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": `${SITE_URL}/marketing-za-nekretnine#breadcrumb`,
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Početna", "item": SITE_URL },
+          { "@type": "ListItem", "position": 2, "name": "Marketing za nekretnine", "item": `${SITE_URL}/marketing-za-nekretnine` }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "@id": `${SITE_URL}/marketing-za-nekretnine#faq`,
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Koji kanali najbolje rade za nekretnine?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Google Ads donosi kupce koji aktivno traže specifične stanove, dok Meta Ads sa video turama podiže interesovanje i prikuplja kontakte prodavaca."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Koliko traje SEO za agenciju za nekretnine?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Lokalni SEO može pokazati prve rezultate za nekoliko nedelja na nivou grada, dok nacionalne pretrage zahtevaju više meseci rada."
+            }
+          }
+        ]
+      }
+    ]
+  },
   '/marketing-za-advokate': { "@context": "https://schema.org", "@type": "Service", "name": "Marketing za advokate", "description": "Marketing za advokatske kancelarije kroz SEO, Google Ads, sajt i content strategiju koja donosi kvalifikovane upite.", "url": `${SITE_URL}/marketing-za-advokate`, "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL }, "serviceType": "Legal Services Marketing", "areaServed": { "@type": "Country", "name": "Srbija" }, "hasOfferCatalog": { "@type": "OfferCatalog", "name": "Marketing usluge za advokate", "itemListElement": [ { "@type": "Offer", "name": "SEO za pravne usluge" }, { "@type": "Offer", "name": "Google Ads za advokate" }, { "@type": "Offer", "name": "Sadržaj i lead forma optimizacija" } ] } },
   '/marketing-za-stomatologe': { "@context": "https://schema.org", "@type": "Service", "name": "Marketing za stomatologe", "description": "Marketing za stomatološke ordinacije kroz Google Ads, lokalni SEO, sajt i kampanje koje pune kalendar novim pacijentima.", "url": `${SITE_URL}/marketing-za-stomatologe`, "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL }, "serviceType": "Dental Marketing", "areaServed": { "@type": "Country", "name": "Srbija" }, "hasOfferCatalog": { "@type": "OfferCatalog", "name": "Marketing usluge za stomatologe", "itemListElement": [ { "@type": "Offer", "name": "Google Ads za ordinacije" }, { "@type": "Offer", "name": "Lokalni SEO za ordinacije" }, { "@type": "Offer", "name": "Lead funnel optimizacija" } ] } },
   '/web-shop-nema-prodaju': {

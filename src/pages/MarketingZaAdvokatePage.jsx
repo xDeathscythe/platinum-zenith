@@ -196,6 +196,10 @@ export default function MarketingZaAdvokatePage() {
               <span className="text-[20px] block mb-1">💻</span>
               <span className="text-[14px] font-medium text-ink">SaaS</span>
             </Link>
+            <Link to="/marketing-za-nekretnine" className="bg-panel rounded-[14px] border border-edge p-4 hover:border-ink-4 transition-colors text-center">
+              <span className="text-[20px] block mb-1">🏢</span>
+              <span className="text-[14px] font-medium text-ink">Nekretnine</span>
+            </Link>
           </div>
           <div className="mt-4 flex flex-wrap justify-center gap-3 text-[13px]">
             <Link to="/in-house-tim-vs-agencija" className="text-ink-3 hover:text-ink transition-colors">In-house vs agencija →</Link>
