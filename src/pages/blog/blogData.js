@@ -1,5 +1,68 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'izrada-sajta-za-restorane-cena-srbija-2026',
+    title: 'Izrada sajta za restorane cena u Srbiji 2026: koliko kosta sajt koji stvarno donosi rezervacije',
+    excerpt: 'Koliko kosta izrada sajta za restorane i kafice u Srbiji 2026, sta mora da sadrzi za dobar lokalni SEO i zasto lose postavljen meni odbija goste.',
+    date: '2026-03-16',
+    category: 'Web Design',
+    readTime: '8 min',
+    content: `
+## Izrada sajta za restorane u Srbiji 2026: kratak odgovor
+
+Ako trazite upit **izrada sajta za restorane cena**, u 2026. godini na srpskom trzistu taj opseg najcesce izgleda ovako:
+
+- **Osnovni prezentacioni sajt (one-pager sa menijem i kontaktom):** 300e-600e.
+- **Srednji restoranski sajt (rezervacije, galerije, optimizovan SEO za dostavu):** 600e-1.200e.
+- **Napredna resenja (sopstveni sistem za dostavu, napredne integracije):** 1.200e-3.000e+.
+
+Za siri uvid u standardne pakete za druge tipove biznisa, pogledajte nas pregled za [cene izrade sajta](/cene-izrade-sajta) i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+
+## Zasto sajt za restoran nije isto sto i obican sajt
+
+Vecina ugostitelja misli da im treba samo lepa slika enterijera i spisak hrane. Zato 80% sajtova restorana ne donosi nove goste.
+Sajt restorana mora da resi tri konkretna problema gosta u roku od 15 sekundi:
+1. Gde se nalazite (i da li ima parking)?
+2. Sta ima da se jede (i koliko to kosta)?
+3. Kako da rezervisem sto?
+
+Ako posetilac mora da skine PDF fajl od 10 megabajta na telefonu samo da bi video cenu kafe, izgubili ste gosta.
+
+## Sta mora da ulazi u cenu dobrog sajta za restoran
+
+Kada dobijete ponudu, cena sama po sebi ne znaci mnogo bez specifikacije. Evo sta ozbiljna [izrada web sajtova](/web-design) za ugostiteljstvo mora da obuhvati:
+
+### 1) Mobilni prikaz kao apsolutni prioritet
+Preko 85% pretraga za restoranima desava se na mobilnim telefonima dok su ljudi u pokretu. Sajt koji nije savrseno citljiv na malom ekranu je beskoristan. Dugme "Pozovi odmah" mora da reaguje na dodir i direktno okrene broj, bez potrebe za kopiranjem.
+
+### 2) Interaktivni digitalni meni
+Najveca greska restorana je uploadovanje skeniranog menija kao slike. Google ne moze da procita tekst sa slike. Ako neko trazi "najbolji biftek Zrenjanin", vas sajt se nece pojaviti ukoliko biftek postoji samo kao slika u PDF-u. Meni mora biti kucan kroz HTML kako bi doneo ozbiljan [Lokalni SEO](/seo-optimizacija-cena).
+
+### 3) Lokalni SEO i Google Business sinhronizacija
+Lokalni SEO je zivototok za restorane. Vas sajt mora biti povezan i uskladjen sa vasim Google Business profilom. Imena jela, cene i radno vreme moraju biti konzistentni, a sam sajt mora imati Schema.org "Restaurant" markup kako bi Google tacno znao kakvu hranu sluzite i kada radite.
+
+### 4) Sistem za rezervacije i narucivanje
+Ako ne zelite da placate 30% provizije Glovo i Wolt aplikacijama, sajt moze integrisati sopstveni sistem za dostavu ili jednostavno, brzo zakazivanje stola preko WhatsApp-a ili mejla, cime zadrzavate celu marzu za sebe.
+
+## Skriveni troskovi o kojima morate misliti
+
+Kada racunate budzet, ne zaboravite operativne troskove koji stizu nakon sto sajt bude pusten u rad. Restoran stalno menja ponudu, izbacuje sezonska jela i organizuje proslave. Azuriranje sajta mora da bude brzo i lako, a redovno tehnicko odrzavanje i hosting obicno iznose izmedju 50e i 150e mesecno. Detaljnije o ovome mozete procitati na stranici [cena odrzavanja WordPress sajta](/blog/cena-odrzavanja-wordpress-sajta-srbija-2026).
+
+## Kako dovesti goste nakon sto je sajt gotov?
+
+Sajt je vasa digitalna kuca, ali vam trebaju putevi koji vode do nje. Za restorane i kafice, najbolji kratkorocni ROI (povrat investicije) najcesce dolazi kroz lokalne [Facebook i Instagram reklame](/koliko-kosta-facebook-reklama).
+
+Ovi kanali omogucavaju da prikazete primamljiv video snimak vase hrane iskljucivo ljudima koji se trenutno nalaze u krugu od 5 kilometara od vaseg lokala, bas u vreme pred rucak ili veceru. Ako zelite da znate i koliki budzet vam je potreban, pogledajte i nas [Instagram reklame cena](/instagram-reklame-cena) presek.
+
+Za dalji rast usmeren na pretrazivac i dugorocnu strategiju (npr. proslave firmi, krstenja, svadbe), [Google reklame cena](/google-reklame-cena) vam daje odlican orijentir kako da zauzmete prve pozicije kada ljudi traze "restoran za proslave".
+
+## Isplati li se custom sajt za restoran?
+
+Da li vam je potreban custom sajt zavisi od ambicija. Za pocetak, lep, brz i SEO optimizovan WordPress sajt baziran na postojecoj strukturi radi fenomenalan posao.
+
+Ukoliko zelite partnera koji ce vam postaviti bazu koja ne trazi prepravke svakih sest meseci, obratite nam se kroz nasu [kontakt formu](/kontakt). Pregledacemo vase trenutno stanje na internetu i predloziti konkretne korake da od lokalne publike napravite redovne goste.
+`
+  },
+  {
     slug: 'kako-naci-pacijente-za-stomatolosku-ordinaciju-srbija-2026',
     title: 'Kako naci pacijente za stomatolosku ordinaciju u Srbiji (2026)',
     excerpt: 'Marketing za stomatologe se promenio. Saznajte kako da prestanete da zavisite od preporuka i izgradite stabilan sistem koji ordinaciji donosi kvalitetne pacijente svakog meseca.',
@@ -15192,6 +15255,7 @@ export const blogPosts = rawBlogPosts.filter((post) => {
   seenSlugs.add(post.slug)
   return true
 })
+
 
 
 
