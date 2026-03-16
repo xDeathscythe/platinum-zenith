@@ -2416,6 +2416,8 @@ Za detaljniji benchmark CPC raspona pogledaj [Google Ads cena po kliku u Srbiji 
 
 Ako ciljas i demand capture na drustvenim mrezama, koristan paralelan okvir je i [Instagram reklame cena](/instagram-reklame-cena).
 
+Za sveobuhvatan pristup rastu agencije i investitora, pogledaj i nas vodic za [marketing za nekretnine](/marketing-za-nekretnine).
+
 ## Zakljucak
 
 Google Ads za agencije za nekretnine u Srbiji 2026 moze da donese stabilan priliv ozbiljnih kupaca kada kampanje vodis po lokaciji, intentu i brzini obrade leadova, ne po najjeftinijem kliku.

@@ -20,18 +20,27 @@ const routeMap = {
   'Uslovi korišćenja': '/uslovi-koriscenja',
   'Uslovi kupovine': '/uslovi-kupovine',
   'Način plaćanja': '/nacin-placanja',
-  'Dostava': '/dostava',
+    'Dostava': '/dostava',
   'Politika privatnosti': '/politika-privatnosti',
+  'Marketing za restorane': '/marketing-za-restorane',
+  'Marketing za stomatologe': '/marketing-za-stomatologe',
+  'Marketing za advokate': '/marketing-za-advokate',
+  'Marketing za nekretnine': '/marketing-za-nekretnine',
+  'Google Ads cena': '/google-reklame-cena',
+  'Instagram reklame cena': '/instagram-reklame-cena',
+  'Izrada sajta cena': '/izrada-wordpress-sajta-cena',
+  'SEO optimizacija cena': '/seo-optimizacija-cena',
 }
 
 const columns = [
   [
     { title: 'Usluge', links: ['Digitalni Marketing', 'Web Design', 'CRO Optimizacija', 'Društvene Mreže', 'Poslovno Savetovanje'] },
-    { title: 'Industrije', links: ['E-Commerce', 'SaaS', 'Lokalni Biznisi', 'Startapovi'] },
+    { title: 'Industrije', links: ['E-Commerce', 'SaaS', 'Lokalni Biznisi', 'Startapovi', 'Marketing za restorane', 'Marketing za stomatologe', 'Marketing za advokate', 'Marketing za nekretnine'] },
   ],
   [
     { title: 'Kompanija', links: ['O nama', 'Case Studies', 'Blog'] },
-    { title: 'Resursi', links: ['ROI Kalkulator', 'Marketing Vodič', 'FAQ'] },
+    { title: 'Resursi', links: ['ROI Kalkulator', 'Marketing Vodic', 'FAQ'] },
+    { title: 'Popularno', links: ['Google Ads cena', 'Instagram reklame cena', 'Izrada sajta cena', 'SEO optimizacija cena'] },
   ],
   [
     { title: 'Kontakt', links: ['aleksandar@platinumzenith.com', '+381 66 816 8929', 'Ruže Šulman 19, Zrenjanin'] },
@@ -131,3 +140,6 @@ export default function Footer() {
     </footer>
   )
 }
+
+
+
