@@ -174,7 +174,8 @@ export default function MarketingZaStomatologePage() {
             <Link to="/cene-digitalnog-marketinga" className="text-ink-3 hover:text-ink transition-colors">Cene marketinga →</Link>
             <Link to="/fiksna-naknada-vs-revenue-share" className="text-ink-3 hover:text-ink transition-colors">Revenue share model →</Link>
             <Link to="/seo-optimizacija-cena" className="text-ink-3 hover:text-ink transition-colors">Cene SEO optimizacije →</Link>
-            <Link to="/blog/google-ads-vs-facebook-ads-koji-je-bolji" className="text-ink-3 hover:text-ink transition-colors">Google vs Facebook oglasi →</Link>
+            <Link to="/blog/kako-naci-pacijente-za-stomatolosku-ordinaciju-srbija-2026" className="text-ink-3 hover:text-ink transition-colors">Kako naći pacijente (2026) →</Link>
+              <Link to="/blog/google-ads-vs-facebook-ads-koji-je-bolji" className="text-ink-3 hover:text-ink transition-colors">Google vs Facebook oglasi →</Link>
             <Link to="/google-reklame-cena" className="text-ink-3 hover:text-ink transition-colors">Google reklame cena →</Link>
             <Link to="/instagram-reklame-cena" className="text-ink-3 hover:text-ink transition-colors">Instagram reklame cena →</Link>
           </div>

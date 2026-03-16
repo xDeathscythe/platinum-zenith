@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-15T17:12:45.541Z",
-  "routesChecked": 38,
+  "generatedAt": "2026-03-16T09:04:01.882Z",
+  "routesChecked": 39,
   "issueCount": 0,
   "checked": [
     {
@@ -784,13 +784,14 @@
         2,
         2,
         2,
+        2,
         2
       ],
       "counts": {
         "h1": 1,
-        "h2": 7,
+        "h2": 8,
         "h3": 2,
-        "total": 10
+        "total": 11
       }
     },
     {
@@ -838,6 +839,25 @@
         "h2": 8,
         "h3": 2,
         "total": 11
+      }
+    },
+    {
+      "route": "/marketing-za-nekretnine",
+      "component": "MarketingZaNekretninePage",
+      "file": "src\\pages\\MarketingZaNekretninePage.jsx",
+      "sequence": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 3,
+        "h3": 2,
+        "total": 6
       }
     }
   ],

@@ -128,6 +128,7 @@ export default function MarketingZaNekretninePage() {
             <Link to="/google-reklame-cena" className="text-ink-3 hover:text-ink transition-colors">Google reklame cena</Link>
             <Link to="/instagram-reklame-cena" className="text-ink-3 hover:text-ink transition-colors">Instagram reklame cena</Link>
             <Link to="/izrada-wordpress-sajta-cena" className="text-ink-3 hover:text-ink transition-colors">Izrada sajta za nekretnine cena</Link>
+              <Link to="/blog/google-ads-za-agencije-za-nekretnine-cena-leada-srbija-2026" className="text-ink-3 hover:text-ink transition-colors">Google Ads za agencije za nekretnine →</Link>
           </div>
         </div>
       </div>

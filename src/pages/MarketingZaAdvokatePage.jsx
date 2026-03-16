@@ -208,6 +208,8 @@ export default function MarketingZaAdvokatePage() {
             <Link to="/blog/kako-izabrati-pravu-marketing-agenciju" className="text-ink-3 hover:text-ink transition-colors">Kako izabrati agenciju →</Link>
             <Link to="/google-reklame-cena" className="text-ink-3 hover:text-ink transition-colors">Google reklame cena →</Link>
             <Link to="/instagram-reklame-cena" className="text-ink-3 hover:text-ink transition-colors">Instagram reklame cena →</Link>
+              <Link to="/blog/google-ads-za-advokate-cena-klijenta-srbija-2026" className="text-ink-3 hover:text-ink transition-colors">Google Ads za advokate →</Link>
+              <Link to="/blog/instagram-reklame-za-advokate-cena-klijenta-srbija-2026" className="text-ink-3 hover:text-ink transition-colors">Instagram reklame za advokate →</Link>
           </div>
         </div>
       </section>

@@ -198,7 +198,33 @@ export default function MarketingZaRestoranePage() {
         </div>
       </section>
 
-      {/* Bottom CTA */}
+            {/* Cross-links */}
+        <section className="px-4 md:px-8 pb-16 md:pb-24">
+          <div className="max-w-[760px] mx-auto">
+            <h2 className="text-[20px] font-medium text-ink mb-5 text-center">Radimo i sa drugim industrijama</h2>
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+              <Link to="/marketing-za-stomatologe" className="bg-panel rounded-[14px] border border-edge p-4 hover:border-ink-4 transition-colors text-center">
+                <span className="text-[20px] block mb-1">🦷</span>
+                <span className="text-[14px] font-medium text-ink">Stomatolozi</span>
+              </Link>
+              <Link to="/marketing-za-advokate" className="bg-panel rounded-[14px] border border-edge p-4 hover:border-ink-4 transition-colors text-center">
+                <span className="text-[20px] block mb-1">⚖️</span>
+                <span className="text-[14px] font-medium text-ink">Advokati</span>
+              </Link>
+              <Link to="/marketing-za-nekretnine" className="bg-panel rounded-[14px] border border-edge p-4 hover:border-ink-4 transition-colors text-center">
+                <span className="text-[20px] block mb-1">🏠</span>
+                <span className="text-[14px] font-medium text-ink">Nekretnine</span>
+              </Link>
+            </div>
+            <div className="mt-4 flex flex-wrap justify-center gap-3 text-[13px]">
+              <Link to="/blog/instagram-reklame-za-restorane-cena-rezervacije-srbija-2026" className="text-ink-3 hover:text-ink transition-colors">Instagram reklame za restorane →</Link>
+              <Link to="/blog/google-ads-za-restorane-cena-rezervacije-srbija-2026" className="text-ink-3 hover:text-ink transition-colors">Google Ads za restorane →</Link>
+              <Link to="/cene-digitalnog-marketinga" className="text-ink-3 hover:text-ink transition-colors">Cene marketinga →</Link>
+            </div>
+          </div>
+        </section>
+
+        {/* Bottom CTA */}
       <section className="px-4 md:px-8 pb-20 md:pb-32">
         <div className="max-w-[600px] mx-auto text-center">
           <h2 className="text-[22px] md:text-[28px] font-medium text-ink mb-4">Vaša hrana zaslužuje pun restoran</h2>

@@ -1,8 +1,33 @@
 {
-  "generatedAt": "2026-03-15T17:12:48.205Z",
-  "postsChecked": 111,
+  "generatedAt": "2026-03-16T09:04:04.436Z",
+  "postsChecked": 115,
   "issueCount": 0,
   "checked": [
+    {
+      "route": "/blog/izrada-sajta-za-restorane-cena-srbija-2026",
+      "serviceHits": 7,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/izrada-woocommerce-web-shopa-cena-srbija-2026",
+      "serviceHits": 5,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/izrada-web-shopa-cena-srbija-2026",
+      "serviceHits": 5,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/vodjenje-drustvenih-mreza-cena-srbija-2026",
+      "serviceHits": 5,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/tiktok-vs-instagram-reklame-srbija-2026",
+      "serviceHits": 7,
+      "hasKontakt": true
+    },
     {
       "route": "/blog/seo-optimizacija-za-web-shop-cena-srbija-2026",
       "serviceHits": 6,
@@ -481,11 +506,6 @@
     {
       "route": "/blog/cena-odrzavanja-wordpress-sajta-srbija-2026",
       "serviceHits": 3,
-      "hasKontakt": true
-    },
-    {
-      "route": "/blog/vodjenje-drustvenih-mreza-cena-srbija-2026",
-      "serviceHits": 5,
       "hasKontakt": true
     },
     {

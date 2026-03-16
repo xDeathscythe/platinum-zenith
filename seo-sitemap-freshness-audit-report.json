@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-03-15T17:12:47.024Z",
+  "generatedAt": "2026-03-16T09:04:03.256Z",
   "routesChecked": 13,
   "issueCount": 0,
   "checks": [
     {
       "route": "/google-reklame-cena",
       "file": "src/pages/GoogleReklameCenaPage.jsx",
-      "sitemapLastmod": "2026-03-14",
-      "gitLastmod": "2026-03-12"
+      "sitemapLastmod": "2026-03-15",
+      "gitLastmod": "2026-03-15"
     },
     {
       "route": "/instagram-reklame-cena",
       "file": "src/pages/InstagramReklameCenaPage.jsx",
-      "sitemapLastmod": "2026-03-14",
-      "gitLastmod": "2026-03-12"
+      "sitemapLastmod": "2026-03-15",
+      "gitLastmod": "2026-03-15"
     },
     {
       "route": "/izrada-wordpress-sajta-cena",
       "file": "src/pages/IzradaWordpressSajtaCenaPage.jsx",
       "sitemapLastmod": "2026-03-15",
-      "gitLastmod": "2026-03-12"
+      "gitLastmod": "2026-03-15"
     },
     {
       "route": "/cene-izrade-sajta",
@@ -30,44 +30,44 @@
     {
       "route": "/cene-digitalnog-marketinga",
       "file": "src/pages/CeneDigitalnogMarketingaPage.jsx",
-      "sitemapLastmod": "2026-03-14",
-      "gitLastmod": "2026-03-10"
+      "sitemapLastmod": "2026-03-15",
+      "gitLastmod": "2026-03-15"
     },
     {
       "route": "/seo-optimizacija-cena",
       "file": "src/pages/SeoOptimizacijaCenaPage.jsx",
-      "sitemapLastmod": "2026-03-13",
-      "gitLastmod": "2026-03-10"
+      "sitemapLastmod": "2026-03-15",
+      "gitLastmod": "2026-03-15"
     },
     {
       "route": "/koliko-kosta-facebook-reklama",
       "file": "src/pages/KolikoKostaFacebookReklamaPage.jsx",
-      "sitemapLastmod": "2026-03-11",
-      "gitLastmod": "2026-03-10"
+      "sitemapLastmod": "2026-03-15",
+      "gitLastmod": "2026-03-15"
     },
     {
       "route": "/marketing-agencija-beograd",
       "file": "src/pages/MarketingAgencijaBgPage.jsx",
-      "sitemapLastmod": "2026-03-13",
-      "gitLastmod": "2026-03-13"
+      "sitemapLastmod": "2026-03-15",
+      "gitLastmod": "2026-03-15"
     },
     {
       "route": "/marketing-agencija-zrenjanin",
       "file": "src/pages/MarketingAgencijaZrenjaninPage.jsx",
-      "sitemapLastmod": "2026-03-13",
-      "gitLastmod": "2026-03-10"
+      "sitemapLastmod": "2026-03-15",
+      "gitLastmod": "2026-03-15"
     },
     {
       "route": "/marketing-agencija-novi-sad",
       "file": "src/pages/MarketingAgencijaNsPage.jsx",
-      "sitemapLastmod": "2026-03-13",
-      "gitLastmod": "2026-03-10"
+      "sitemapLastmod": "2026-03-15",
+      "gitLastmod": "2026-03-15"
     },
     {
       "route": "/agencija-vs-freelancer",
       "file": "src/pages/AgencijaVsFreelancerPage.jsx",
-      "sitemapLastmod": "2026-03-13",
-      "gitLastmod": "2026-03-13"
+      "sitemapLastmod": "2026-03-15",
+      "gitLastmod": "2026-03-15"
     },
     {
       "route": "/in-house-tim-vs-agencija",
@@ -78,8 +78,8 @@
     {
       "route": "/fiksna-naknada-vs-revenue-share",
       "file": "src/pages/FiksnaNaknadaVsRevenueSharePage.jsx",
-      "sitemapLastmod": "2026-03-13",
-      "gitLastmod": "2026-03-13"
+      "sitemapLastmod": "2026-03-15",
+      "gitLastmod": "2026-03-15"
     }
   ],
   "issues": []
