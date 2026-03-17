@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "seo-za-privatne-vrtice-cena-srbija-2026",
+    "title": "SEO za privatne vrtice u Srbiji 2026: cena, lokalni SEO i upisi bez oglasa",
+    "excerpt": "Koliko kosta SEO optimizacija za privatni vrtic u Srbiji 2026. Realni rasponi cena, sta donosi lokalni SEO i kako popuniti grupe organskim putem.",
+    "date": "2026-03-17",
+    "category": "SEO",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "seo-za-privatne-klinike-cena-srbija-2026",
     "title": "SEO za privatne klinike u Srbiji 2026: cena, rokovi i kako privuci pacijente bez oglasa",
     "excerpt": "Koliko kosta SEO optimizacija za privatnu kliniku u Srbiji 2026. Realni rasponi cena, sta donosi lokalni SEO i zasto organski saobracaj smanjuje zavisnost od oglasa.",
