@@ -1405,5 +1405,14 @@ export const blogIndexPosts = [
     "category": "Instagram Ads",
     "readTime": "10 min",
     "isDraft": false
+  },
+  {
+    "slug": "seo-za-racunovodje-cena-srbija-2026",
+    "title": "SEO za racunovodje u Srbiji 2026: cena, lokalni SEO i kako do vise klijenata",
+    "excerpt": "Koliko realno kosta SEO za racunovodstvene agencije u Srbiji 2026, sta ulazi u cenu i kako da merite rezultat kroz nove klijente umesto praznog saobracaja.",
+    "date": "2026-03-17",
+    "category": "Lokalni SEO",
+    "readTime": "10 min",
+    "isDraft": false
   }
 ]

@@ -251,6 +251,10 @@ export default function MarketingZaRacunovodjePage() {
               <span className="text-[13px] text-ink-3 uppercase tracking-wider">Instagram Ads</span>
               <p className="text-[15px] font-medium text-ink mt-1">Instagram reklame za racunovodje: koliko kosta novi klijent</p>
             </Link>
+            <Link to="/blog/seo-za-racunovodje-cena-srbija-2026" className="p-5 rounded-2xl bg-surface-1 hover:bg-surface-2 transition-colors border border-ink/5">
+              <span className="text-[13px] text-ink-3 uppercase tracking-wider">Lokalni SEO</span>
+              <p className="text-[15px] font-medium text-ink mt-1">SEO za racunovodje: cena, lokalni SEO i kako do vise klijenata</p>
+            </Link>
           </div>
         </div>
       </section>

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-17T09:31:17.482Z",
+  "generatedAt": "2026-03-17T10:29:29.456Z",
   "targets": 23,
   "failing": 0,
   "checks": [
@@ -249,7 +249,7 @@
       "route": "/marketing-za-racunovodje",
       "component": "MarketingZaRacunovodjePage",
       "file": "src\\pages\\MarketingZaRacunovodjePage.jsx",
-      "uniqueInternalLinks": 15,
+      "uniqueInternalLinks": 16,
       "hasKontakt": true,
       "hasRouteSchema": true,
       "hasFaqSchema": true,
