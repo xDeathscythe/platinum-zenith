@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "video-marketing-za-male-firme-srbija-2026",
+    "title": "Video marketing za male firme u Srbiji 2026: budzet, alati i strategija bez velikog tima",
+    "excerpt": "Kako male firme u Srbiji koriste video marketing 2026. Realni budzeti, alati za snimanje i montazu, platforme i tipovi videa koji donose rezultate.",
+    "date": "2026-03-17",
+    "category": "Video Marketing",
+    "readTime": "9 min",
+    "isDraft": false
+  },
+  {
     "slug": "kako-pokrenuti-online-prodavnicu-srbija-2026",
     "title": "Kako pokrenuti online prodavnicu u Srbiji 2026: platforma, troskovi i prvi koraci",
     "excerpt": "Prakticni vodic za pokretanje online prodavnice u Srbiji 2026. WooCommerce vs Shopify, troskovi, placanje, dostava i marketing koji donosi prvu prodaju.",
