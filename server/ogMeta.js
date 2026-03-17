@@ -654,6 +654,22 @@ const SERVER_ROUTE_SCHEMAS = {
       url: SITE_URL,
     },
   },
+  '/marketing-agencija-nis': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Marketing agencija Nis',
+    serviceType: 'Digital marketing agency services',
+    url: `${SITE_URL}/marketing-agencija-nis`,
+    areaServed: {
+      '@type': 'City',
+      name: 'Nis',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
   '/in-house-tim-vs-agencija': {
     '@context': 'https://schema.org',
     '@type': 'Service',
@@ -984,6 +1000,12 @@ const ogMeta = {
     description: 'Marketing agencija za Novi Sad: SEO, Google Ads, Meta kampanje i web optimizacija za stabilan rast upita i prodaje uz transparentno praćenje budžeta.',
     ogImage: `${SITE_URL}/pz-og.jpg`,
     ogImageAlt: 'Marketing agencija Novi Sad - SEO i PPC za stabilan rast',
+  },
+  '/marketing-agencija-nis': {
+    title: 'Marketing Agencija za Nis | Digitalni Marketing | Platinum Zenith',
+    description: 'Marketing agencija za Nis: SEO, Google Ads i Meta kampanje koje povecavaju upite i prodaju uz nize troskove akvizicije.',
+    ogImage: `${SITE_URL}/pz-og.jpg`,
+    ogImageAlt: 'Marketing agencija Nis - digitalni marketing za jug Srbije',
   },
   '/web-shop-nema-prodaju': {
     title: 'Web Shop Nema Prodaju? 5 Razloga i Rešenja | Platinum Zenith',
@@ -1401,6 +1423,16 @@ const serverFaqByPath = {
     {
       q: 'Koliko vremena treba da kampanje u Novom Sadu daju stabilne rezultate?',
       a: 'Prvi signali dolaze brzo kroz plaćene kanale, ali stabilan i predvidljiv rezultat obično dolazi nakon više iteracija optimizacije kroz nekoliko ciklusa.',
+    },
+  ],
+  '/marketing-agencija-nis': [
+    {
+      q: 'Da li imate klijente na jugu Srbije?',
+      a: 'Da, radimo sa firmama iz cele Srbije. Komunikacija je online, a rezultati su merljivi bez obzira na udaljenost.',
+    },
+    {
+      q: 'Koliko je jeftiniji CPC u Nisu u poredjenju sa Beogradom?',
+      a: 'Za vecinu lokalnih usluga, CPC u Nisu je dva do tri puta nizi nego u Beogradu, sto znaci vise klikova za isti budzet.',
     },
   ],
   '/seo-optimizacija-cena': [

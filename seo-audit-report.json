@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-03-17T12:59:20.621Z",
-  "routeCount": 53,
-  "pageMetaCount": 48,
-  "ogMetaCount": 47,
-  "missingOgRoutes": [
-    "/marketing-za-privatne-vrtice"
-  ],
+  "generatedAt": "2026-03-17T18:31:18.513Z",
+  "routeCount": 54,
+  "pageMetaCount": 49,
+  "ogMetaCount": 49,
+  "missingOgRoutes": [],
   "metaVsOgDiffs": [],
   "fixApplied": false,
   "fixedCount": 0

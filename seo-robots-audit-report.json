@@ -1,9 +1,7 @@
 {
-  "generatedAt": "2026-03-17T12:59:21.026Z",
-  "publicRoutesChecked": 49,
+  "generatedAt": "2026-03-17T18:31:18.944Z",
+  "publicRoutesChecked": 50,
   "internalRoutesChecked": 6,
-  "issueCount": 1,
-  "issues": [
-    "/marketing-za-privatne-vrtice: public route should be indexable; got \"noindex, nofollow\""
-  ]
+  "issueCount": 0,
+  "issues": []
 }

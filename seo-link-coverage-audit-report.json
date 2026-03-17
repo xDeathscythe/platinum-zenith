@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-03-17T12:59:21.393Z",
-  "routesChecked": 206,
-  "linksScanned": 1394,
+  "generatedAt": "2026-03-17T18:31:19.348Z",
+  "routesChecked": 214,
+  "linksScanned": 1440,
   "issueCount": 0,
-  "warningCount": 1,
+  "warningCount": 0,
   "issues": [],
-  "warnings": [
-    "/marketing-za-privatne-vrtice: no inbound internal links detected"
-  ]
+  "warnings": []
 }
