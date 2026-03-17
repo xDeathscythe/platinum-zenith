@@ -526,6 +526,22 @@ const SERVER_ROUTE_SCHEMAS = {
       url: SITE_URL,
     },
   },
+  '/marketing-za-racunovodje': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Marketing za računovodstvene agencije',
+    serviceType: 'Accounting marketing',
+    url: `${SITE_URL}/marketing-za-racunovodje`,
+    areaServed: {
+      '@type': 'Country',
+      name: 'Srbija',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
   '/marketing-za-advokate': {
     '@context': 'https://schema.org',
     '@type': 'Service',
@@ -1237,6 +1253,29 @@ const serverFaqByPath = {
       a: 'Da. Pilates studio, yoga sala, CrossFit box i boutique gym zahtevaju prilagodjen pristup jer zive od manjeg broja premium clanova, ali principi lokalnog marketinga su isti.',
     },
   ],
+  '/marketing-za-racunovodje': [
+    {
+      q: 'Koliko košta marketing za računovodstvenu agenciju?',
+      a: 'Osnovni paket (sajt + SEO + Google Business) kreće od 400€ mesečno. Sa Google Ads kampanjama, realan budžet je 600-1.500€ mesečno. Jedan novi klijent koji ostaje godinu dana obično pokriva troškove marketinga za ceo kvartal.'
+    },
+    {
+      q: 'Da li se isplati ulagati u marketing kad radim sam?',
+      a: 'Posebno tada. Solo računovođe imaju kapacitet za 30-50 klijenata. Cilj nije 100 upita mesečno, nego 3-5 kvalitetnih klijenata koji odgovaraju vašem profilu. Ciljani marketing to omogućava.'
+    },
+    {
+      q: 'Koliko brzo mogu očekivati nove klijente?',
+      a: 'Google Ads donosi upite za 1-2 nedelje. SEO zahteva 3-6 meseci za značajne rezultate. Preporuka je kombinacija: oglasi za brze rezultate, SEO za dugoročni tok klijenata bez plaćanja po kliku.'
+    },
+    {
+      q: 'Koji tip sadržaja najbolje radi za računovođe?',
+      a: 'Praktični vodiči o poreskim obavezama, rokovima, razlike između oblika poslovanja (paušalac vs DOO). Ljudi pretražuju ove teme pre nego što izaberu računovođu, i kad nađu koristan odgovor na vašem sajtu, veruju vam.'
+    },
+    {
+      q: 'Da li radite samo sa agencijama iz velikih gradova?',
+      a: 'Ne. Radimo sa računovodstvenim agencijama iz cele Srbije. U manjim gradovima online konkurencija je slabija, pa su rezultati brži. Ako nudite cloud knjigovodstvo, geografija uopšte nije ograničenje.'
+    }
+  ],
+
   '/marketing-za-advokate': [
     {
       q: 'Da li advokati smeju da se reklamiraju?',
