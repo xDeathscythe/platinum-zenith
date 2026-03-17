@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "kako-meriti-roi-digitalnog-marketinga-srbija-2026",
+    "title": "Kako meriti ROI digitalnog marketinga u Srbiji 2026: formule, alati i realni primeri",
+    "excerpt": "Prakticni vodic za merenje ROI digitalnog marketinga u Srbiji. Formule, besplatni alati, KPI po kanalu i realni primeri iz srpskog trzista.",
+    "date": "2026-03-17",
+    "category": "Marketing",
+    "readTime": "9 min",
+    "isDraft": false
+  },
+  {
     "slug": "seo-za-privatne-vrtice-cena-srbija-2026",
     "title": "SEO za privatne vrtice u Srbiji 2026: cena, lokalni SEO i upisi bez oglasa",
     "excerpt": "Koliko kosta SEO optimizacija za privatni vrtic u Srbiji 2026. Realni rasponi cena, sta donosi lokalni SEO i kako popuniti grupe organskim putem.",

@@ -1,5 +1,111 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'kako-meriti-roi-digitalnog-marketinga-srbija-2026',
+    title: 'Kako meriti ROI digitalnog marketinga u Srbiji 2026: formule, alati i realni primeri',
+    excerpt: 'Prakticni vodic za merenje ROI digitalnog marketinga u Srbiji. Formule, besplatni alati, KPI po kanalu i realni primeri iz srpskog trzista.',
+    date: '2026-03-17',
+    category: 'Marketing',
+    readTime: '9 min',
+    content: `
+## Zasto vecina firmi u Srbiji ne zna koliko im se marketing isplati
+
+Vlasnik firme placa 500 evra mesecno za Google Ads, 300 evra za Instagram i 200 evra za SEO. Na kraju meseca pita agenciju: "Da li mi se ovo isplati?" Agencija salje izvestaj sa 15.000 impresija, 800 klikova i 120 lajkova. Vlasnik klima glavom, ali i dalje ne zna odgovor.
+
+Problem nije u marketingu. Problem je u merenju. Ako ne znate koliko vas kosta svaki novi klijent i koliko taj klijent vredi, svaka mesecna faktura je kockanje.
+
+## Osnovna ROI formula za digitalni marketing
+
+Formula je jednostavna:
+
+**ROI = (Prihod od marketinga - Troskovi marketinga) / Troskovi marketinga x 100%**
+
+Primer: ulozili ste 1.000 evra mesecno u Google Ads. Dobili ste 8 novih klijenata koji su doneli 5.000 evra prihoda. ROI = (5.000 - 1.000) / 1.000 x 100 = 400%.
+
+Formula deluje jednostavno, ali u praksi postoje dva problema. Prvi: kako znati koji prihod je dosao iz kog kanala. Drugi: kako racunati dugorocnu vrednost klijenta, ne samo prvu kupovinu.
+
+## Metrike koje zapravo imaju znacaj
+
+### Cena po lead-u (CPL)
+Koliko kosta jedan kvalifikovan upit iz svakog kanala. Ako Google Ads donosi lead za 25 evra, a Instagram za 60 evra, ali Instagram lead-ovi cesce postanu klijenti, slika se menja.
+
+### Cena po akviziciji (CPA)
+Koliko kosta svaki PLACENI klijent, ne samo upit. CPA = ukupni marketing troskovi / broj novih klijenata. Ako trosim 1.000 evra mesecno i dobijem 10 klijenata, CPA je 100 evra.
+
+### Lifetime Value klijenta (LTV)
+Koliko novca prosecni klijent ostavi tokom cele saradnje. Racunovodja koji placa 200 evra mesecno i ostane 3 godine ima LTV od 7.200 evra. Ako je CPA za tog klijenta bio 150 evra, to je izuzetan ROI.
+
+### LTV:CPA odnos
+Zdrav biznis ima LTV:CPA odnos od minimum 3:1. Ako je LTV 7.200 evra i CPA 150 evra, odnos je 48:1, sto je odlicno. Ako je LTV 500 evra i CPA 400 evra, odnos je 1.25:1, sto znaci da jedva pokrivate troskove.
+
+## Kako pratiti ROI po kanalu
+
+### Google Ads
+Najpreciznije merenje od svih kanala. Povezite Google Ads sa Google Analytics 4, postavite conversion tracking za forme, pozive i kupovine, i svaka konverzija se automatski vezuje za kampanju, kljucnu rec i oglas koji ju je generisao. Za detaljan pregled troskova po nisi pogledajte [Google reklame cena](/google-reklame-cena).
+
+### Instagram / Meta Ads
+Meta Pixel na sajtu belezi svaku konverziju. Problem: Meta cesto precenjuje sopstvene rezultate jer broji i view-through konverzije (neko je video oglas ali kliknuo direktno na sajt). Koristite UTM parametre za proveru u Google Analytics-u.
+
+### SEO
+Najteze za merenje jer rezultati dolaze postepeno. U Google Search Console pratite rast klikova i pozicija. U GA4 pratite organski saobracaj i konverzije iz organskog kanala. Uporedite tromesecne periode da vidite trend.
+
+### Email marketing
+Najpreciznije merenje posle Google Ads-a. Svaki email ima open rate, click rate i conversion rate. Povezite sa CRM-om da vidite koliko prihoda je generisao svaki email.
+
+## Besplatni alati koji su vam dovoljni za pocetak
+
+1. **Google Analytics 4** — besplatan, obavezan za svaki sajt. Prati saobracaj, konverzije i atribuciju po kanalu.
+2. **Google Search Console** — besplatan, pokazuje koje pretrage dovode ljude na sajt i gde se rangirate.
+3. **Google Looker Studio** — besplatan dashboard gde spajate podatke iz razlicitih izvora u jedan izvestaj.
+4. **Meta Business Suite** — besplatan za pradjenje Instagram/Facebook performansi.
+
+Za naprednije pracenje postoje CRM alati, ali za vecinu malih firmi u Srbiji ova cetiri alata pokrivaju 90% potreba.
+
+## Realni primeri iz srpskog trzista
+
+### Primer 1: Stomatolog u Novom Sadu
+- Mesecni budzet: 600 evra (Google Ads 400e + SEO 200e)
+- Novih pacijenata mesecno: 12
+- CPA: 50 evra
+- Prosecna vrednost pacijenta (godisnje): 400 evra
+- ROI prvog meseca: 700%
+
+### Primer 2: E-commerce modni brend
+- Mesecni budzet: 1.500 evra (Instagram 800e + Google 500e + email 200e)
+- Narudzbine iz marketinga: 85
+- Prosecna narudzbina: 45 evra
+- Ukupan prihod: 3.825 evra
+- ROI: 155%
+
+### Primer 3: B2B softverska firma
+- Mesecni budzet: 2.000 evra (LinkedIn 800e + Google 700e + content 500e)
+- Kvalifikovanih lead-ova: 6
+- Zatvorenih ugovora: 2
+- Prosecna vrednost ugovora: 5.000 evra
+- CPA: 1.000 evra, ali LTV: 15.000 evra (3 godine)
+- LTV:CPA odnos: 15:1
+
+## Najcesce greske u merenju ROI-a
+
+### Racunanje samo prvih 30 dana
+Klijent koji je dosao iz Google Ads u januaru moze kupovati do kraja godine. Ako merite samo prvu kupovinu, potcenjujete ROI.
+
+### Atribucija poslednjem kliku
+Klijent je video Instagram oglas, kliknuo na Google Ads nedelju dana kasnije, i konvertovao iz email-a. Kome pripisujete prodaju? Vecina firmi pripisuje poslednjem kliku (email), ali to ne znaci da Instagram i Google Ads nisu bili kljucni u procesu.
+
+### Ignorisanje vremena
+SEO od 500 evra mesecno mozda ne pokazuje ROI prvih 6 meseci, ali u mesecu 12 donosi saobracaj koji bi kroz Google Ads kostao 3.000 evra mesecno.
+
+## Kako poceti od danas
+
+1. Ako nemate Google Analytics 4 na sajtu, to je prvi korak.
+2. Postavite conversion tracking za kontakt forme i pozive.
+3. Kreirajte jednostavan spreadsheet gde svaki mesec beležite: troskovi po kanalu, broj lead-ova, broj klijenata, prihod.
+4. Posle 3 meseca imate dovoljno podataka da znate koji kanal ima najbolji ROI.
+
+Za profesionalni pristup merenju i optimizaciji marketinga, pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga) ili nas kontaktirajte za besplatnu analizu vašeg trenutnog marketing ROI-a preko [kontakt forme](/kontakt).
+`
+  },
+  {
     slug: 'seo-za-privatne-vrtice-cena-srbija-2026',
     title: 'SEO za privatne vrtice u Srbiji 2026: cena, lokalni SEO i upisi bez oglasa',
     excerpt: 'Koliko kosta SEO optimizacija za privatni vrtic u Srbiji 2026. Realni rasponi cena, sta donosi lokalni SEO i kako popuniti grupe organskim putem.',
@@ -17626,6 +17732,7 @@ export const blogPosts = rawBlogPosts.filter((post) => {
   seenSlugs.add(post.slug)
   return true
 })
+
 
 
 
