@@ -1,5 +1,93 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'web-dizajn-trendovi-srbija-2026',
+    title: 'Web dizajn trendovi u Srbiji 2026: sta zapravo donosi konverzije',
+    excerpt: 'Koji web dizajn trendovi zapravo pomazu srpskim firmama da prodaju vise online. Bez floskula o metaverse-u, samo ono sto radi na domacem trzistu.',
+    date: '2026-03-17',
+    category: 'Web Design',
+    readTime: '7 min',
+    content: `
+## Web dizajn u Srbiji 2026: sta se promenilo i zasto je vazno
+
+Vecina clanaka o web dizajn trendovima nabrojava stvari kao sto su 3D animacije, AI generativne slike i glasovna navigacija. Mozda to radi u Americi, ali srpski korisnici imaju drugacije navike, sporiji internet na mobilnim mrezama i nula tolerancije za sajtove koji se sporo ucitavaju.
+
+Ovo je prakticna lista onoga sto zapravo pomaze srpskim firmama da dobiju vise upita i prodaja sa sajta.
+
+## 1. Brzina ucitavanja je dizajn odluka
+
+Sajt koji se ucitava 4 sekunde gubi 53% mobilnih posetilaca pre nego sto vide prvu stranicu. U Srbiji, gde veliki deo saobracaja dolazi sa 4G mreza sa promenljivim kvalitetom signala, ovo je kriticno.
+
+Sta to konkretno znaci za dizajn:
+- Slike u WebP formatu umesto PNG/JPG (30-50% manje)
+- Lazy loading za sve ispod prvog ekrana
+- Sistemski fontovi ili maksimalno 2 custom fonta
+- Minimalan JavaScript na pocetnom ucitavanju
+
+Ako sajt nema Core Web Vitals u zelenom, sve ostale dizajn odluke su nebitne jer ih korisnici nece ni videti.
+
+## 2. Mobile-first nije opcija nego polazna tacka
+
+65%+ saobracaja na srpskim sajtovima dolazi sa mobilnih uredjaja. Ali "responsive dizajn" ne znaci samo da se elementi smeste na uzi ekran.
+
+Mobile-first dizajn znaci da pocinjete projektovanje sa telefonom. Navigacija mora da radi sa palcem jedne ruke. Dugmad za CTA moraju biti dovoljno velika da ih pogodite iz prvog pokusaja. Forme ne smeju imati vise od 3-4 polja na telefonu.
+
+Prakticna provera: otvorite sajt na telefonu i pokusajte da zavrsite akciju (zakazivanje termina, slanje upita, kupovina) koristeci samo jednu ruku. Ako je tesko, dizajn ne radi.
+
+## 3. Jasna hijerarhija umesto kreativnog haosa
+
+Posetilac ima 3-5 sekundi da shvati sta firma radi i sta treba da uradi sledece. Kreativni layout-i sa nestandardnom navigacijom i tekstom rasutim po stranici zbunjuju korisnike umesto da ih impresioniraju.
+
+Ono sto radi:
+- Jedan jasan naslov iznad pregiba koji opisuje sta firma radi i za koga
+- Jedan CTA button koji govori korisniku sta da uradi sledece
+- Vizuelni social proof (logotipi klijenata, broj zavrenih projekata, recenzije)
+- Konzistentna navigacija sa maksimalno 6-7 stavki
+
+## 4. Forme koje ne teraju ljude da odustanu
+
+Svako dodatno polje u kontakt formi smanjuje konverziju za 4-5%. Vecina srpskih sajtova trazi ime, prezime, email, telefon, firmu, grad, poruku i "kako ste culi za nas". To je 8 polja za nekoga ko samo zeli da pita koliko nesto kosta.
+
+Minimalna forma koja radi: ime, kontakt (email ili telefon — jedno polje), poruka. Sve ostalo mozete pitati u odgovoru.
+
+Ako vam je forma dugacka jer morate da kvalifikujete lead-ove, koristite visekoracnu formu (wizard) gde svaki korak ima 1-2 pitanja. Psihologija commitment-a: kad neko popuni prvi korak, mnogo veca je sansa da zavrsi preostale.
+
+## 5. Tipografija i razmaci umesto dekoracija
+
+Najcistija promena koju mozete napraviti na prosecnom srpskom sajtu: povecajte razmake izmedju sekcija, povecajte velicinu body teksta na 18px minimum i koristite maksimalno 2 fonta.
+
+Srpski jezik ima dijakritike (s, c, z, dj) koje zauzimaju vise vizuelnog prostora nego engleski. Font koji izgleda odlicno na engleskom tekstu moze izgledati zaguseno na srpskom. Testirajte tipografiju sa stvarnim srpskim tekstom, ne sa Lorem ipsum.
+
+## 6. Trust signali iznad pregiba
+
+Srpski korisnici su skepticni prema online firmama. Prvo pitanje koje postavljaju je "da li je ovo legitimna firma". Zato trust signali moraju biti vidljivi bez skrolovanja:
+
+- Logotipi klijenata ili partnera
+- Broj godina poslovanja
+- Google recenzije sa ocenom (ne samo zvezdice nego i broj recenzija)
+- Profesionalne fotografije tima ili prostora (ne stock fotografije)
+
+Stock fotografije nasmejanih ljudi u kancelariji su postale signal za "ovo je genericki sajt" i kontraefekat su. Bolje staviti pravu fotografiju kancelarije (cak i ako nije savrsena) nego laznu sliku.
+
+## 7. Lokalizacija nije samo prevod
+
+Sajt na srpskom treba da ima:
+- Cene u dinarima (ili evrima sa naznakom) — ne u dolarima
+- Srpske primere i reference (ne americke case study)
+- Kontakt koji ukljucuje telefon (srpski korisnici i dalje preferiraju poziv)
+- Adresu i mapu (posebno za lokalne biznise)
+
+Sajt koji izgleda kao prevedena americka stranica gubi kredibilitet kod lokalnih korisnika.
+
+## Sta ovo znaci za vas sajt
+
+Ako vas sajt ne prolazi ove osnovne provere, nijedan vizuelni trend ga nece spasiti. Lepi sajtovi koji su spori, konfuzni na telefonu i nemaju jasne CTA su samo skupi digitalni brosevi koji nikoga ne ubede.
+
+Za detaljniju analizu pogledajte [cene izrade sajta](/cene-izrade-sajta) i [WordPress sajtove](/izrada-wordpress-sajta-cena).
+
+Ako zelite nezavisnu procenu koliko vas trenutni sajt gubi posetilaca i prodaja, javite se preko [kontakt forme](/kontakt).
+`
+  },
+  {
     slug: 'on-page-seo-checklista-srbija-2026',
     title: 'On-page SEO checklista za sajt u Srbiji 2026: 15 koraka koji zapravo menjaju rang',
     excerpt: 'Kompletna on-page SEO checklista za srpske sajtove u 2026. Bez genericnih saveta — samo koraci koji zaista uticu na Google rang i organski saobracaj.',
@@ -17834,6 +17922,7 @@ export const blogPosts = rawBlogPosts.filter((post) => {
   seenSlugs.add(post.slug)
   return true
 })
+
 
 
 

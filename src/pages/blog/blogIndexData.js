@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "web-dizajn-trendovi-srbija-2026",
+    "title": "Web dizajn trendovi u Srbiji 2026: sta zapravo donosi konverzije",
+    "excerpt": "Koji web dizajn trendovi zapravo pomazu srpskim firmama da prodaju vise online. Bez floskula o metaverse-u, samo ono sto radi na domacem trzistu.",
+    "date": "2026-03-17",
+    "category": "Web Design",
+    "readTime": "7 min",
+    "isDraft": false
+  },
+  {
     "slug": "on-page-seo-checklista-srbija-2026",
     "title": "On-page SEO checklista za sajt u Srbiji 2026: 15 koraka koji zapravo menjaju rang",
     "excerpt": "Kompletna on-page SEO checklista za srpske sajtove u 2026. Bez genericnih saveta — samo koraci koji zaista uticu na Google rang i organski saobracaj.",
