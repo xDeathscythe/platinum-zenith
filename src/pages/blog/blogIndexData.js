@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "email-marketing-cena-srbija-2026",
+    "title": "Email marketing cena u Srbiji 2026: alati, strategije i realan ROI",
+    "excerpt": "Koliko kosta email marketing za firmu u Srbiji 2026. Poredjenje alata (Mailchimp, Brevo, Klaviyo), cene po broju kontakata i strategije koje donose rezultate.",
+    "date": "2026-03-17",
+    "category": "Marketing",
+    "readTime": "9 min",
+    "isDraft": false
+  },
+  {
     "slug": "web-dizajn-trendovi-srbija-2026",
     "title": "Web dizajn trendovi u Srbiji 2026: sta zapravo donosi konverzije",
     "excerpt": "Koji web dizajn trendovi zapravo pomazu srpskim firmama da prodaju vise online. Bez floskula o metaverse-u, samo ono sto radi na domacem trzistu.",

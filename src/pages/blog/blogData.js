@@ -1,5 +1,84 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'email-marketing-cena-srbija-2026',
+    title: 'Email marketing cena u Srbiji 2026: alati, strategije i realan ROI',
+    excerpt: 'Koliko kosta email marketing za firmu u Srbiji 2026. Poredjenje alata (Mailchimp, Brevo, Klaviyo), cene po broju kontakata i strategije koje donose rezultate.',
+    date: '2026-03-17',
+    category: 'Marketing',
+    readTime: '9 min',
+    content: `
+## Email marketing cena u Srbiji 2026: kratak odgovor
+
+Mesecni troskovi email marketinga za srpsku firmu najcesce izgledaju ovako:
+
+- **Micro biznis (do 500 kontakata):** 0e-25e mesecno za alat + 200e-400e za outsource vodjenje, ili 0e ako radite sami.
+- **Mali biznis (500-5.000 kontakata):** 25e-80e mesecno za alat + 300e-600e za kreiranje kampanja i automatizacija.
+- **Srednji biznis (5.000-25.000 kontakata):** 80e-250e mesecno za alat + 500e-1.200e za strategiju i implementaciju.
+- **Veci biznis (25.000+ kontakata):** 250e-800e+ mesecno za alat + 800e-2.000e+ za full-service upravljanje.
+
+Za siru sliku troskova digitalnog marketinga pogledaj [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Zasto email marketing jos uvek ima najveci ROI od svih kanala
+
+Prosecni ROI email marketinga je oko 36:1 prema DMA izvestajima. Za svaki ulozeni euro vratite 36. Nijedan drugi digitalni kanal ne dolazi ni blizu ovog odnosa.
+
+Razlog je jednostavan: email lista je vas vlasnistvo. Instagram moze da vam smanji reach sutra, Google moze da vas skloni iz rezultata posle update-a algoritma. Vas email list niko ne moze da vam oduzme.
+
+Za srpske firme email je posebno relevantan jer je trziste dovoljno malo da personalizovane kampanje prave ogromnu razliku. Kad imate 3.000 kontakata u Srbiji, mozete ih segmentirati po gradu, industriji i ponasanju tako precizno da svaki mejl deluje kao da je pisan rucno.
+
+## Poredjenje email marketing alata za srpske firme
+
+### Brevo (ex Sendinblue) — najbolji odnos cene i mogucnosti
+Besplatan plan do 300 mejlova dnevno (neograniceni kontakti). Placeni planovi od 25e mesecno za 20.000 mejlova. Automatizacije, landing stranice i CRM ukljuceni. Serveri u EU (GDPR compliance iz kutije). Srpski interfejs nije dostupan ali je podrska na engleskom dobra.
+
+### Mailchimp — najpopularniji ali najskuplji
+Besplatan plan do 500 kontakata i 1.000 mejlova mesecno. Placeni planovi od 13$ mesecno ali cena brzo raste sa brojem kontakata. Na 5.000 kontakata placate 65$ mesecno. Na 25.000 kontakata vec ste na 200const rawBlogPosts = [. Odlicni template-ovi i integracije ali cena postaje problem za rastuce firme.
+
+### Klaviyo — za e-commerce
+Besplatan plan do 250 kontakata. Specijalizovan za e-commerce sa dubinskim integracijama za Shopify i WooCommerce. Automatizovani tokovi (abandoned cart, post-purchase, win-back) su mnogo napredniji nego kod konkurencije. Cena: od 20$ mesecno za 500 kontakata do 150const rawBlogPosts = [ za 10.000. Za online prodavnice u Srbiji ovo je najjaci alat.
+
+### MailerLite — jednostavnost i pristupacna cena
+Besplatan plan do 1.000 pretplatnika. Placeni planovi od 9$ mesecno. Drag-and-drop editor je intuitivan, automatizacije su solidne za tu cenu. Odlican izbor za firme koje tek pocinju sa email marketingom i zele nesto jednostavno.
+
+## Koje automatizacije donose najvise novca
+
+### Welcome serijal (obavezna automatizacija)
+Serija od 3-5 mejlova koji se salju novim pretplatnicima. Prvi mejl odmah (hvala + obecani sadrzaj), drugi posle 2 dana (vasa prica i vrednosti), treci posle 4 dana (socijalni dokaz i testimonijali), cetvrti posle 7 dana (ponuda ili poziv na akciju). Welcome serijali imaju 4-5x veci open rate od regularnih kampanja.
+
+### Abandoned cart (za e-commerce)
+Mejl posle 1h, drugi posle 24h, treci posle 72h. Prosecno vracate 5-15% napustenih korpi. Za online prodavnicu sa 100 napustenih korpi mesecno i prosecnom vrednsocu od 50e, to je 250-750e dodatnog prihoda mesecno. Automatski. Samo od jedne automatizacije.
+
+### Post-purchase follow-up
+Mejl 3 dana posle kupovine (kako koristite proizvod), mejl posle 14 dana (review/feedback), mejl posle 30 dana (cross-sell srodnih proizvoda). Povecava repeat purchase rate i gradi lojalnost.
+
+### Re-engagement za neaktivne kontakte
+Mejl posle 60 dana neaktivnosti (nedostajete nam), ponuda posle 90 dana (specijalni popust za povratak), posle 120 dana odjava iz liste. Cisti listu i smanjuje troskove alata jer ne placate za kontakte koji nikad ne otvaraju vase mejlove.
+
+## Najcesce greske srpskih firmi u email marketingu
+
+### 1) Kupuju email liste
+Kupljena lista garantuje spam complaint-e, lose otvaranje i potencijalnu crnu listu domene. Jedan los send na kupljenu listu od 5.000 kontakata moze da unisti reputaciju domene za mesece. Gradite listu organski ili ne radite uopste.
+
+### 2) Salju isti mejl celoj listi
+Segmentacija je razlika izmedju 15% open rate-a i 40% open rate-a. Minimum segmentacija: po lokaciji, po istoriji kupovine, po interesovanju. Personalizovani mejl ne znaci samo "Zdravo [Ime]" — znaci relevantan sadrzaj za tu osobu.
+
+### 3) Salju samo kad imaju nesto za prodati
+Email lista koja prima samo promotivne mejlove brzo gubi pretplatnike. Odnos bi trebalo da bude 80% vrednost (saveti, vodici, novosti) i 20% prodaja. Gradite poverenje kroz vrednost, pa je prodaja prirodan nastavak.
+
+### 4) Ne prate metrike koje su vazne
+Open rate i click rate su pocetni indikatori ali pravi KPI je revenue po mejlu i revenue po pretplatniku mesecno. Ako ne povezete email alat sa prodajnim podataka, optimizujete naslepo.
+
+## Plan za prvih 60 dana
+
+- **Nedelja 1-2:** Izaberite alat, uvezite postojecu bazu, postavite branding (logo, boje, template).
+- **Nedelja 3-4:** Napravite welcome serijal i lead magnet (vodic, checklista, popust). Postavite signup formu na sajt.
+- **Nedelja 5-6:** Posaljite prvu regularnu kampanju. Analizirajte open rate, click rate i odjave.
+- **Nedelja 7-8:** Postavite prvu automatizaciju (abandoned cart za e-commerce ili lead nurture za usluge). Segmentirajte listu na minimum 2-3 grupe.
+
+Za pomoc oko postavljanja email marketinga koji zaista donosi rezultate, [javite nam se](/kontakt). Ako zelite da kombinujete email sa placenim kanalima, pogledaj i [Instagram reklame cena](/instagram-reklame-cena) za poredjenje ROI-a po kanalima.
+`
+  },
+  {
     slug: 'web-dizajn-trendovi-srbija-2026',
     title: 'Web dizajn trendovi u Srbiji 2026: sta zapravo donosi konverzije',
     excerpt: 'Koji web dizajn trendovi zapravo pomazu srpskim firmama da prodaju vise online. Bez floskula o metaverse-u, samo ono sto radi na domacem trzistu.',
@@ -17922,6 +18001,7 @@ export const blogPosts = rawBlogPosts.filter((post) => {
   seenSlugs.add(post.slug)
   return true
 })
+
 
 
 
