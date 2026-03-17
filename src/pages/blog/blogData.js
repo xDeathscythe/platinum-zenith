@@ -1,5 +1,85 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'google-ads-za-racunovodje-cena-klijenta-srbija-2026',
+    title: 'Google Ads za racunovodje u Srbiji 2026: cena po klijentu i budzet plan',
+    excerpt: 'Koliko kosta Google Ads kampanja za knjigovodstvenu agenciju u Srbiji 2026. Realni CPC, CPL benchmarci i struktura koja donosi B2B klijente.',
+    date: '2026-03-17',
+    category: 'Marketing',
+    readTime: '8 min',
+    content: `
+## Google Ads za racunovodje u Srbiji 2026: kratak odgovor
+
+Ako trazis upit **google ads za racunovodje cena**, realan okvir za srpsko trziste u 2026. najcesce izgleda ovako:
+
+- **Mikro budzet (testiranje):** 200e-400e mesecno (ad spend) + 200e-350e fee za vodjenje.
+- **Standardni budzet (stabilni upiti):** 400e-900e mesecno (ad spend) + 300e-500e fee.
+- **Rast budzet (vise lokacija ili specijalizovane usluge):** 900e-2.000e+ (ad spend) + 500e-800e fee.
+
+Za siri kontekst troskova pogledaj i [Google reklame cena](/google-reklame-cena).
+
+## Zasto Google Ads radi drugacije za racunovodje nego za vecinu biznisa
+
+Knjigovodstvene usluge su B2B biznis sa visokim lifetime value-om klijenta. Jedna firma koja postane vas klijent placa mesecnu naknadu godinama. To znaci da mozete sebi priustiti veci CPA (cenu po akviziciji) nego sto bi mogao e-commerce sa jednokratnom prodajom.
+
+Druga specificnost je da su pretrage veoma jasne po nameri. Ko kuca "knjigovodstvena agencija Beograd" ili "racunovodja za doo cena" vec ima firmu i trazi saradnika. Nema mnogo "radoznalih" klikova kao na Instagramu. Skoro svaki klik je od nekoga ko aktivno trazi uslugu.
+
+Zato je Google Search za racunovodje jedan od najcistijih demand capture kanala. Problem je sto konkurencija to takodje zna, pa su CPC-jevi za kljucne pojmove umereno visoki.
+
+## Struktura kampanje koja najcesce radi za knjigovodstvene agencije
+
+### Kampanja 1: Brand Search (zastita brenda)
+
+Ako vas neko trazi po imenu firme, morate biti prvi rezultat. Konkurenti cesto licitiraju na vase ime. Brand kampanja kosta minimalno (CPC ispod 0.10e) ali stiti vas od gubitka klijenata koji vas vec poznaju.
+
+### Kampanja 2: High-intent Search (core usluge)
+
+Kljucne reci: "knjigovodstvena agencija [grad]", "racunovodja za preduzetnika", "vodjenje poslovnih knjiga cena", "PDV prijava racunovodja".
+
+Ovo su upiti sa najjacim komercijalnim intentom. Svaki klik je od nekoga ko aktivno trazi uslugu. CPC je visi (0.50e-2.00e) ali kvalitet lead-ova je izuzetan.
+
+### Kampanja 3: Problem-based Search (specifični problemi)
+
+Kljucne reci: "kasnjenje PDV prijave kazna", "kako otvoriti doo u Srbiji", "poreske olaksice za IT firme".
+
+Ovi upiti pokazuju da neko ima konkretan problem koji racunovodja resava. CPC je nizi jer konkurencija obicno ne cilja ove termine. Lead kvalitet je dobar jer je osoba u aktivnoj fazi resavanja problema.
+
+## Najcesce greske koje knjigovodstvene agencije prave na Google Ads
+
+### 1) Ciljaju previse siroke termine
+"Racunovodstvo" kao kljucna rec privlaci studente, ljude koji traze posao i radoznale. "Knjigovodstvena agencija za doo Novi Sad" privlaci ljude koji su spremni da plate. Razlika u kvalitetu je ogromna.
+
+### 2) Landing stranica je homepage umesto specijalizovane ponude
+Oglas kaze "Vodjenje knjiga za preduzetnike" a klik vodi na genericki sajt sa svim uslugama. Landing stranica mora da se poklapa sa obecanem iz oglasa. Posebna stranica za preduzetnike, posebna za doo, posebna za pausalce.
+
+### 3) Ne prate sta se desava posle klika
+Bez conversion tracking-a ne znate koji keyword donosi klijente, a koji samo trosi budzet. Racunovodja koji ne prati konverzije optimizuje kampanju naslcpo.
+
+### 4) Ignorisu negativne kljucne reci
+Bez negativnih kljucnih reci (npr. "posao", "praksa", "besplatno", "kurs"), znacajan deo budzeta odlazi na klikove koji nikada nece postati klijenti.
+
+## Realni CPL benchmarci za racunovodje u Srbiji
+
+Posle 4-8 nedelja ozbiljne optimizacije, tipicni rasponi su:
+
+- **Vodjenje knjiga za preduzetnike:** 15e-35e po lead-u.
+- **Kompletno knjigovodstvo za doo:** 25e-60e po lead-u.
+- **Specijalizovane usluge (transfer pricing, poreski konsalting):** 40e-80e+ po lead-u.
+
+Ako vam lifetime value klijenta iznosi 3.000e-5.000e+ (sto je normalno za visegodisnju saradnju), CPL od 40e je izuzetno isplativ.
+
+## 30-dnevni plan za knjigovodstvenu agenciju
+
+- **Nedelja 1:** Postavite conversion tracking, napravite landing stranice za 2-3 core usluge, definisajte negativne kljucne reci.
+- **Nedelja 2:** Pokrenite Brand Search i jednu High-intent kampanju sa budzetom od 15e dnevno.
+- **Nedelja 3:** Analizirajte search terms report, dodajte negativne kljucne reci, testirajte 2 varijante oglasa.
+- **Nedelja 4:** Dodajte Problem-based kampanju, analizirajte CPL po kampanjama i kljucnim recima.
+
+Za poredjenje sa SEO pristupom pogledaj [SEO za racunovodje](/blog/seo-za-racunovodje-cena-srbija-2026), a za kompletnu strategiju [marketing za racunovodje](/marketing-za-racunovodje).
+
+Ako zelite da procenimo potencijal Google Ads kampanja za vasu agenciju, javite se preko [kontakt forme](/kontakt) za besplatnu analizu kljucnih reci i procenu budzeta.
+`
+  },
+  {
     slug: 'b2b-marketing-srbija-2026-vodic',
     title: 'B2B marketing u Srbiji 2026: Kako do pravih klijenata bez rasipanja budzeta',
     excerpt: 'Vecina B2B firmi u Srbiji rasipa budzet na drustvene mreze koje donose samo lajkove, umesto da grade sistem koji direktno dovodi donosioce odluka. Evo sta stvarno radi u 2026.',
@@ -16917,6 +16997,7 @@ export const blogPosts = rawBlogPosts.filter((post) => {
   seenSlugs.add(post.slug)
   return true
 })
+
 
 
 

@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-racunovodje-cena-klijenta-srbija-2026",
+    "title": "Google Ads za racunovodje u Srbiji 2026: cena po klijentu i budzet plan",
+    "excerpt": "Koliko kosta Google Ads kampanja za knjigovodstvenu agenciju u Srbiji 2026. Realni CPC, CPL benchmarci i struktura koja donosi B2B klijente.",
+    "date": "2026-03-17",
+    "category": "Marketing",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "b2b-marketing-srbija-2026-vodic",
     "title": "B2B marketing u Srbiji 2026: Kako do pravih klijenata bez rasipanja budzeta",
     "excerpt": "Vecina B2B firmi u Srbiji rasipa budzet na drustvene mreze koje donose samo lajkove, umesto da grade sistem koji direktno dovodi donosioce odluka. Evo sta stvarno radi u 2026.",
