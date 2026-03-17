@@ -25,7 +25,7 @@ const TARGET_ROUTES = [
   '/web-shop-nema-prodaju',
   '/marketing-za-advokate',
   '/marketing-za-stomatologe',
-  '/marketing-za-restorane',
+  '/marketing-za-restorane', '/marketing-za-nekretnine', '/marketing-za-frizerske-salone', '/marketing-za-autoservise', '/marketing-za-kozmeticke-salone', '/marketing-za-teretane', '/marketing-za-racunovodje',
 ]
 
 function read(file) {

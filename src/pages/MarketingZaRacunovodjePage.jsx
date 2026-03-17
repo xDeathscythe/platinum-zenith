@@ -238,6 +238,23 @@ export default function MarketingZaRacunovodjePage() {
         </div>
       </section>
 
+      {/* Related Articles */}
+      <section className="px-4 md:px-8 pb-16">
+        <div className="max-w-[800px] mx-auto">
+          <h2 className="text-[20px] md:text-[24px] font-medium text-ink mb-6 text-center">Korisni vodiči za računovođe</h2>
+          <div className="grid md:grid-cols-2 gap-4">
+            <Link to="/blog/google-ads-za-knjigovodstvene-agencije-cena-leada-srbija-2026" className="p-5 rounded-2xl bg-surface-1 hover:bg-surface-2 transition-colors border border-ink/5">
+              <span className="text-[13px] text-ink-3 uppercase tracking-wider">Google Ads</span>
+              <p className="text-[15px] font-medium text-ink mt-1">Google Ads za knjigovodstvene agencije: cena lead-a i budzet</p>
+            </Link>
+            <Link to="/blog/instagram-reklame-za-racunovodje-cena-klijenta-srbija-2026" className="p-5 rounded-2xl bg-surface-1 hover:bg-surface-2 transition-colors border border-ink/5">
+              <span className="text-[13px] text-ink-3 uppercase tracking-wider">Instagram Ads</span>
+              <p className="text-[15px] font-medium text-ink mt-1">Instagram reklame za racunovodje: koliko kosta novi klijent</p>
+            </Link>
+          </div>
+        </div>
+      </section>
+
       {/* Bottom CTA */}
       <section className="px-4 md:px-8 pb-20 md:pb-32">
         <div className="max-w-[600px] mx-auto text-center">

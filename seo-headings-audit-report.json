@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-17T08:29:48.997Z",
+  "generatedAt": "2026-03-17T09:31:14.503Z",
   "routesChecked": 44,
   "issueCount": 0,
   "checked": [
@@ -967,13 +967,14 @@
         2,
         2,
         2,
+        2,
         2
       ],
       "counts": {
         "h1": 1,
-        "h2": 8,
+        "h2": 9,
         "h3": 2,
-        "total": 11
+        "total": 12
       }
     }
   ],

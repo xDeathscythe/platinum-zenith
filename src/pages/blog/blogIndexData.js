@@ -1396,5 +1396,14 @@ export const blogIndexPosts = [
     "category": "Instagram Ads",
     "readTime": "10 min",
     "isDraft": false
+  },
+  {
+    "slug": "instagram-reklame-za-racunovodje-cena-klijenta-srbija-2026",
+    "title": "Instagram reklame za racunovodje u Srbiji 2026: koliko kosta novi klijent i sta zapravo radi",
+    "excerpt": "Koliko kostaju Instagram reklame za racunovodstvene agencije u Srbiji 2026, koji tipovi kampanja donose klijente i kako da ne bacite budzet na pogresan format.",
+    "date": "2026-03-17",
+    "category": "Instagram Ads",
+    "readTime": "10 min",
+    "isDraft": false
   }
 ]

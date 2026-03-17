@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-17T08:29:52.578Z",
-  "postsChecked": 127,
+  "generatedAt": "2026-03-17T09:31:17.177Z",
+  "postsChecked": 128,
   "issueCount": 0,
   "checked": [
     {
@@ -635,6 +635,11 @@
     },
     {
       "route": "/blog/instagram-reklame-za-teretane-cena-upisa-srbija-2026",
+      "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/instagram-reklame-za-racunovodje-cena-klijenta-srbija-2026",
       "serviceHits": 4,
       "hasKontakt": true
     }
