@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "on-page-seo-checklista-srbija-2026",
+    "title": "On-page SEO checklista za sajt u Srbiji 2026: 15 koraka koji zapravo menjaju rang",
+    "excerpt": "Kompletna on-page SEO checklista za srpske sajtove u 2026. Bez genericnih saveta — samo koraci koji zaista uticu na Google rang i organski saobracaj.",
+    "date": "2026-03-17",
+    "category": "SEO",
+    "readTime": "9 min",
+    "isDraft": false
+  },
+  {
     "slug": "kako-meriti-roi-digitalnog-marketinga-srbija-2026",
     "title": "Kako meriti ROI digitalnog marketinga u Srbiji 2026: formule, alati i realni primeri",
     "excerpt": "Prakticni vodic za merenje ROI digitalnog marketinga u Srbiji. Formule, besplatni alati, KPI po kanalu i realni primeri iz srpskog trzista.",

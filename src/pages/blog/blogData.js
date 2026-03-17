@@ -1,5 +1,107 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'on-page-seo-checklista-srbija-2026',
+    title: 'On-page SEO checklista za sajt u Srbiji 2026: 15 koraka koji zapravo menjaju rang',
+    excerpt: 'Kompletna on-page SEO checklista za srpske sajtove u 2026. Bez genericnih saveta — samo koraci koji zaista uticu na Google rang i organski saobracaj.',
+    date: '2026-03-17',
+    category: 'SEO',
+    readTime: '9 min',
+    content: `
+## Zasto vecina SEO checklisti ne pomaze
+
+Vecina vodiča za on-page SEO ponavlja iste savete iz 2018. "Stavite keyword u title" i "koristite alt tagove" su korisni koliko i savet "jedite manje" nekome ko pokusava da smrsa. Tehniki tacno, prakticno beskorisno bez konteksta.
+
+Ova checklista je drugacija jer je bazirana na tome sta zapravo menja rang za sajtove koji rade na srpskom trzistu. Redosled koraka nije slucajan — poredani su po uticaju na poziciju.
+
+## Korak 1: Proverite da li vas sajt uopste moze da se indeksira
+
+Pre bilo kakve optimizacije, otvorite Google Search Console i pogledajte koliko stranica je indeksirano. Ako imate 50 stranica a Google je indeksirao 15, imate tehncki problem koji nijedan keyword nece resiti. Najcesci uzroci: robots.txt blokira crawlere, noindex tag na vaznim stranicama, canonical tag pokazuje na pogresnu URL adresu.
+
+Proverite: [Google Search Console](https://search.google.com/search-console) → Indexing → Pages.
+
+## Korak 2: Title tag koji radi dvostruki posao
+
+Title tag je i dalje najjaci on-page signal. Ali vecina sajtova pravi istu gresku: pisu title samo za Google, zaboravljajuci da covek mora da klikne na njega. Dobar title ima keyword blizu pocetka i razlog za klik.
+
+Primer koji ne radi: "SEO optimizacija | Kompanija XYZ"
+Primer koji radi: "SEO optimizacija za mala preduzeca u Srbiji — cene i rokovi"
+
+Razlika: drugi title ima keyword, lokalni signal (Srbija) i obecanje konkretne informacije (cene i rokovi) koja motivise klik.
+
+## Korak 3: Meta description koji povecava CTR
+
+Meta description ne utice direktno na rang, ali utice na klik. Google meri koliko ljudi klikne na vas rezultat u odnosu na konkurenciju. Veci CTR = vise organskog saobracaja = bolji rang tokom vremena.
+
+Pisanje meta opisa: pocnite sa koriscu za citaoca, ubacite jedan ili dva kljucna pojma (Google ih bolduje u rezultatima), zavrsiste sa pozivom na akciju ili obecanjem. Duzina: 140-155 karaktera.
+
+## Korak 4: URL struktura koja ima smisla
+
+Kratke URL adrese rangiraju bolje od dugackih. Ali jos vaznije: URL mora da bude citljiv i da sadrzi glavnu kljucnu rec.
+
+Lose: /page?id=4523
+Bolje: /usluge/seo-optimizacija
+Najbolje: /seo-optimizacija-cena
+
+Izbegavajte srpska slova u URL-u (č, ć, š, ž, đ). Koristite latinicnu transliteraciju bez dijakritika. Google bolje razume "seo-optimizacija" nego "seo-optimizаcijа" sa cirilicnim karakterima.
+
+## Korak 5: H1 tag — jedan po stranici, keyword unutra
+
+Svaka stranica treba tacno jedan H1 tag. Trebalo bi da sadrzi glavni keyword za tu stranicu, ali ne mora da bude identican title tagu. H1 je za citaoca koji je vec na stranici, title je za citaoca u Google rezultatima.
+
+## Korak 6: Heading hijerarhija koja pomaze Google-u da razume strukturu
+
+H2 tagovi su podteme. H3 tagovi su podteme podtema. Nikad ne preskacite nivoe (H1 pa odmah H4). Svaki H2 bi trebalo da sadrzi sekundarnu kljucnu rec ili varijaciju glavne.
+
+Ovo nije samo SEO — struktuiran sadrzaj drzi ljude na stranici duze, sto Google takodje meri.
+
+## Korak 7: Sadrzaj koji zapravo odgovara na pretragu
+
+Google-ov cilj je da korisnik dobije odgovor bez da mora da klikne na drugi rezultat. Ako neko trazi "koliko kosta SEO optimizacija", a vas clanak pocne sa istorijom SEO-a, gubite poziciju. Odgovorite na pitanje u prvih 100 reci, pa onda dajte detalje.
+
+Za siru sliku troskova pogledaj [cene digitalnog marketinga](/cene-digitalnog-marketinga) ili specficino [SEO optimizacija cena](/seo-optimizacija-cena).
+
+## Korak 8: Interna linkovi — najjeftiniji SEO hack
+
+Svaka stranica koja nema nijedan interni link ka njoj je "ostrvo" koje Google teze pronalazi i rangira. Svaka nova stranica treba minimum 3 interna linka sa relevantnih postojecih stranica.
+
+Anchor tekst internog linka treba da sadrzi keyword ciljne stranice. "Kliknite ovde" ne pomaze Google-u da razume gde vodi link.
+
+## Korak 9: Slike — kompresija, format, alt tekst
+
+Slike su najcesci razlog sporog sajta. WebP format stedi 25-35% velicine u odnosu na JPEG bez vidljive razlike u kvalitetu. Svaka slika treba deskriptivan alt tekst koji opisuje sta je na slici i, gde je prirodno, sadrzi kljucnu rec.
+
+Lazy loading za slike koje nisu u vidljivom delu ekrana smanjuje vreme ucitavanja za 40-60%.
+
+## Korak 10: Core Web Vitals — brzina koja utice na rang
+
+Od 2021. Google koristi Core Web Vitals kao faktor rangiranja. Tri metrike: LCP (koliko brzo se ucitava glavni sadrzaj), FID/INP (koliko brzo stranica reaguje na klik), CLS (koliko se layout pomera tokom ucitavanja).
+
+Proverite: [PageSpeed Insights](https://pagespeed.web.dev/) za vas sajt. Fokusirajte se na mobilne rezultate jer Google koristi mobile-first indexing.
+
+## Korak 11: Schema markup za bogate rezultate
+
+Structured data ne menja direktno poziciju, ali povecava vidljivost u rezultatima. FAQ schema prikazuje pitanja i odgovore direktno u Google-u. LocalBusiness schema poboljsava lokalne rezultate. Article schema pomaze blogovima da se pojave u vest sekciji.
+
+## Korak 12: HTTPS i mobilnaResponzivnost
+
+Ovo je 2026 — ako vas sajt jos nema SSL sertifikat ili nije prilagodjen za mobilne, to je hitno. Google daje prednost HTTPS sajtovima i koristi mobilnu verziju za rangiranje.
+
+## Korak 13: Sprecite kanibalizaciju kljucnih reci
+
+Ako imate tri stranice koje ciljaju istu kljucnu rec, Google ne zna koju da rangira i obicno ne rangira nijednu dobro. Proverite u Search Console koji upiti vode na koje stranice. Ako isti upit vodi na vise stranica, konsoldiujte ih ili jasno diferenciirajte sadrzaj.
+
+## Korak 14: Azurirajte stari sadrzaj
+
+Blog post iz 2023. sa zastarelim statistikama gubi poziciju. Google preferira svez sadrzaj. Proverite svoje najpopularnije stranice, azurirajte podatke, dodajte nove sekcije i promenite datum objave. Cesto je brze poboljsati postojeci clanak nego napisati novi.
+
+## Korak 15: Merenje i iteracija
+
+On-page SEO nije jednokratan posao. Postavite mesecni ciklus: proverite Search Console za nove upite, pogledajte koje stranice gube poziciju, analizirajte sta konkurencija radi za kljucne termine.
+
+Za pomoc oko SEO optimizacije vaseg sajta, javite se preko [kontakt forme](/kontakt) za besplatnu analizu.
+`
+  },
+  {
     slug: 'kako-meriti-roi-digitalnog-marketinga-srbija-2026',
     title: 'Kako meriti ROI digitalnog marketinga u Srbiji 2026: formule, alati i realni primeri',
     excerpt: 'Prakticni vodic za merenje ROI digitalnog marketinga u Srbiji. Formule, besplatni alati, KPI po kanalu i realni primeri iz srpskog trzista.',
@@ -17732,6 +17834,7 @@ export const blogPosts = rawBlogPosts.filter((post) => {
   seenSlugs.add(post.slug)
   return true
 })
+
 
 
 
