@@ -542,6 +542,22 @@ const SERVER_ROUTE_SCHEMAS = {
       url: SITE_URL,
     },
   },
+  '/marketing-za-privatne-klinike': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Marketing za privatne klinike',
+    serviceType: 'Healthcare marketing',
+    url: `${SITE_URL}/marketing-za-privatne-klinike`,
+    areaServed: {
+      '@type': 'Country',
+      name: 'Srbija',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
   '/marketing-za-advokate': {
     '@context': 'https://schema.org',
     '@type': 'Service',
@@ -1027,6 +1043,10 @@ const ogMeta = {
     title: 'Marketing za Računovodstvene Agencije u Srbiji | Platinum Zenith',
     description: 'Specijalizovani marketing za računovođe i knjigovođe u Srbiji. B2B Google Ads, SEO i LinkedIn strategije koje donose stabilne klijente.',
   },
+  '/marketing-za-privatne-klinike': {
+    title: 'Marketing za Privatne Klinike u Srbiji | Platinum Zenith',
+    description: 'Marketing za privatne klinike u Srbiji: Google Ads po specijalizaciji, lokalni SEO, sajt za zakazivanje i remarketing koji dovodi pacijente sa pravom namerom.',
+  },
   '/marketing-za-advokate': {
     title: 'Marketing za Advokate u Srbiji | Platinum Zenith',
     description: 'Marketing za advokatske kancelarije u Srbiji: SEO, Google Ads, sajt i content strategija koja donosi kvalifikovane upite i stabilan rast klijenata.',
@@ -1274,6 +1294,29 @@ const serverFaqByPath = {
       q: 'Da li radite samo sa agencijama iz velikih gradova?',
       a: 'Ne. Radimo sa računovodstvenim agencijama iz cele Srbije. U manjim gradovima online konkurencija je slabija, pa su rezultati brži. Ako nudite cloud knjigovodstvo, geografija uopšte nije ograničenje.'
     }
+  ],
+
+  '/marketing-za-privatne-klinike': [
+    {
+      q: 'Koliki budzet treba privatnoj klinici za Google Ads?',
+      a: 'Za pocetak, 400 do 800 evra mesecno za ad spend obicno pokriva 2-3 specijalizacije u jednom gradu. Klinike sa vise lokacija ili premium uslugama idu iznad toga, ali je bitno da se budzet rasporedi po uslugama koje nose najvisu maruzu.',
+    },
+    {
+      q: 'Koliko brzo klinika moze da vidi nove pacijente iz kampanja?',
+      a: 'Google Ads za zdravstvene usluge obicno donosi prve kvalitetne upite vec u prvoj nedelji. Realnija slika o ceni pacijenta i kvalitetu leadova formira se kroz 4 do 6 nedelja rada.',
+    },
+    {
+      q: 'Da li smemo da koristimo pre-posle fotografije u reklamama?',
+      a: 'Google i Meta imaju stroga pravila za zdravstveni marketing. Pre-posle slike su ogranicene, ali postoje nacini da se grade poverenje bez krsenja politika: edukativni sadrzaj, video objasnjenja i recenzije.',
+    },
+    {
+      q: 'Kako merite uspeh kampanje za kliniku?',
+      a: 'Pratimo cenu po kvalifikovanom upitu, stopu konverzije sa sajta, broj zakazanih pregleda i prihod po pacijentu. Cilj nije samo dovesti klikove, nego pacijente koji zaista zakazu i dodju na pregled.',
+    },
+    {
+      q: 'Da li klinici treba sajt ako vec ima profil na doktorima.rs?',
+      a: 'Portal je koristan za recenzije, ali ne daje kontrolu nad porukom, cenama, lekarima i zakazivanjem. Sopstveni sajt znaci pun utisak o klinici bez distrakcija od konkurentskih oglasa.',
+    },
   ],
 
   '/marketing-za-advokate': [

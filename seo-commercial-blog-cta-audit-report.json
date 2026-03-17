@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-03-17T10:29:29.155Z",
-  "postsChecked": 129,
+  "generatedAt": "2026-03-17T11:40:23.100Z",
+  "postsChecked": 131,
   "issueCount": 0,
   "checked": [
+    {
+      "route": "/blog/google-ads-za-racunovodje-cena-klijenta-srbija-2026",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
     {
       "route": "/blog/b2b-marketing-srbija-2026-vodic",
       "serviceHits": 3,
@@ -646,6 +651,11 @@
     {
       "route": "/blog/seo-za-racunovodje-cena-srbija-2026",
       "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/seo-za-stomatologe-cena-srbija-2026",
+      "serviceHits": 2,
       "hasKontakt": true
     }
   ],

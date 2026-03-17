@@ -99,6 +99,15 @@ export const pageMeta = {
     og: { title: 'Marketing za Računovodstvene Agencije u Srbiji | Platinum Zenith', description: 'Specijalizovani marketing za računovođe i knjigovođe u Srbiji. B2B Google Ads, SEO i LinkedIn strategije koje donose stabilne klijente.' },
     twitter: { title: 'Marketing za Računovodstvene Agencije u Srbiji | Platinum Zenith', description: 'Specijalizovani marketing za računovođe i knjigovođe u Srbiji. B2B Google Ads, SEO i LinkedIn strategije koje donose stabilne klijente.' },
   },
+
+  '/marketing-za-privatne-klinike': {
+    robots: 'index, follow',
+    title: 'Marketing za Privatne Klinike u Srbiji | Platinum Zenith',
+    description: 'Marketing za privatne klinike u Srbiji: Google Ads po specijalizaciji, lokalni SEO, sajt za zakazivanje i remarketing koji dovodi pacijente sa pravom namerom.',
+    keywords: 'marketing za privatne klinike, digitalni marketing klinika, google ads privatna klinika, seo za klinike, marketing zdravstvo srbija, privatna klinika oglasi',
+    og: { title: 'Marketing za Privatne Klinike u Srbiji | Platinum Zenith', description: 'Marketing za privatne klinike u Srbiji: Google Ads po specijalizaciji, lokalni SEO, sajt za zakazivanje i remarketing koji dovodi pacijente sa pravom namerom.' },
+    twitter: { title: 'Marketing za Privatne Klinike u Srbiji | Platinum Zenith', description: 'Marketing za privatne klinike u Srbiji: Google Ads po specijalizaciji, lokalni SEO, sajt za zakazivanje i remarketing koji dovodi pacijente sa pravom namerom.' },
+  },
 }
 
 export const orgSchema = {
@@ -3214,6 +3223,104 @@ export const pageSchemas = {
         "@type": "FAQPage",
         "@id": `${SITE_URL}/marketing-za-autoservise#faq`,
         "mainEntity": []
+      }
+    ]
+  },
+  '/marketing-za-privatne-klinike': {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": `${SITE_URL}/marketing-za-privatne-klinike#webpage`,
+        "url": `${SITE_URL}/marketing-za-privatne-klinike`,
+        "name": "Marketing za Privatne Klinike u Srbiji | Platinum Zenith",
+        "description": "Marketing za privatne klinike u Srbiji: Google Ads po specijalizaciji, lokalni SEO, sajt za zakazivanje i remarketing koji dovodi pacijente sa pravom namerom.",
+        "isPartOf": { "@id": `${SITE_URL}/#website` },
+        "about": { "@id": `${SITE_URL}/marketing-za-privatne-klinike#service` },
+        "breadcrumb": { "@id": `${SITE_URL}/marketing-za-privatne-klinike#breadcrumb` },
+        "mainEntity": [
+          { "@id": `${SITE_URL}/marketing-za-privatne-klinike#service` },
+          { "@id": `${SITE_URL}/marketing-za-privatne-klinike#faq` }
+        ],
+        "potentialAction": {
+          "@type": "ContactAction",
+          "name": "Zakazite analizu klinike",
+          "target": `${SITE_URL}/kontakt`
+        }
+      },
+      {
+        "@type": "Service",
+        "@id": `${SITE_URL}/marketing-za-privatne-klinike#service`,
+        "name": "Marketing za privatne klinike",
+        "serviceType": "Healthcare Marketing",
+        "url": `${SITE_URL}/marketing-za-privatne-klinike`,
+        "mainEntityOfPage": { "@id": `${SITE_URL}/marketing-za-privatne-klinike#webpage` },
+        "provider": { "@id": `${SITE_URL}/#organization` },
+        "areaServed": { "@type": "Country", "name": "Srbija" },
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "Marketing usluge za privatne klinike",
+          "itemListElement": [
+            { "@type": "Offer", "name": "Google Ads kampanje po specijalizaciji" },
+            { "@type": "Offer", "name": "Lokalni SEO i Google Business" },
+            { "@type": "Offer", "name": "Sajt za zakazivanje i konverziju" },
+            { "@type": "Offer", "name": "Remarketing i edukativni sadrzaj" }
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": `${SITE_URL}/marketing-za-privatne-klinike#breadcrumb`,
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Pocetna", "item": SITE_URL },
+          { "@type": "ListItem", "position": 2, "name": "Marketing za privatne klinike", "item": `${SITE_URL}/marketing-za-privatne-klinike` }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "@id": `${SITE_URL}/marketing-za-privatne-klinike#faq`,
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Koliki budzet treba privatnoj klinici za Google Ads?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Za pocetak, 400 do 800 evra mesecno za ad spend obicno pokriva 2-3 specijalizacije u jednom gradu. Klinike sa vise lokacija ili premium uslugama idu iznad toga."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Koliko brzo klinika moze da vidi nove pacijente iz kampanja?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Google Ads za zdravstvene usluge obicno donosi prve kvalitetne upite vec u prvoj nedelji. Realnija slika o ceni pacijenta i kvalitetu leadova formira se kroz 4 do 6 nedelja rada."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Da li smemo da koristimo pre-posle fotografije u reklamama?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Google i Meta imaju stroga pravila za zdravstveni marketing. Pre-posle slike su ogranicene, ali postoje nacini da se grade poverenje bez krsenja politika: edukativni sadrzaj, video objasnjenja i recenzije."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Kako merite uspeh kampanje za kliniku?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Pratimo cenu po kvalifikovanom upitu, stopu konverzije sa sajta, broj zakazanih pregleda i prihod po pacijentu."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Da li klinici treba sajt ako vec ima profil na doktorima.rs?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Portal je koristan za recenzije, ali ne daje kontrolu nad porukom, cenama, lekarima i zakazivanjem. Sopstveni sajt znaci pun utisak o klinici bez distrakcija od konkurentskih oglasa."
+            }
+          }
+        ]
       }
     ]
   },

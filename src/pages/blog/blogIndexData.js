@@ -1423,5 +1423,14 @@ export const blogIndexPosts = [
     "category": "Lokalni SEO",
     "readTime": "10 min",
     "isDraft": false
+  },
+  {
+    "slug": "seo-za-stomatologe-cena-srbija-2026",
+    "title": "SEO za stomatologe u Srbiji 2026: cena, lokalni SEO i kako do vise pacijenata",
+    "excerpt": "Koliko realno kosta SEO za stomatolosku ordinaciju u Srbiji 2026, sta donosi lokalni SEO za stomatologe i kako da merite rezultat kroz zakazane termine, a ne kroz pozicije.",
+    "date": "2026-03-17",
+    "category": "Lokalni SEO",
+    "readTime": "11 min",
+    "isDraft": false
   }
 ]

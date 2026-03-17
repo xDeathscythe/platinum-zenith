@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-17T10:29:26.509Z",
-  "routesChecked": 44,
+  "generatedAt": "2026-03-17T11:40:20.502Z",
+  "routesChecked": 45,
   "issueCount": 0,
   "checked": [
     {
@@ -975,6 +975,29 @@
         "h2": 9,
         "h3": 2,
         "total": 12
+      }
+    },
+    {
+      "route": "/marketing-za-privatne-klinike",
+      "component": "MarketingZaPrivatneKlinikePage",
+      "file": "src\\pages\\MarketingZaPrivatneKlinikePage.jsx",
+      "sequence": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 7,
+        "h3": 2,
+        "total": 10
       }
     }
   ],

@@ -178,6 +178,10 @@ export default function MarketingZaStomatologePage() {
               <Link to="/blog/google-ads-vs-facebook-ads-koji-je-bolji" className="text-ink-3 hover:text-ink transition-colors">Google vs Facebook oglasi →</Link>
             <Link to="/google-reklame-cena" className="text-ink-3 hover:text-ink transition-colors">Google reklame cena →</Link>
             <Link to="/instagram-reklame-cena" className="text-ink-3 hover:text-ink transition-colors">Instagram reklame cena →</Link>
+            <Link to="/blog/seo-za-stomatologe-cena-srbija-2026" className="text-ink-3 hover:text-ink transition-colors">SEO za stomatologe (2026) →</Link>
+            <Link to="/blog/google-ads-za-stomatologe-cena-leada-srbija-2026" className="text-ink-3 hover:text-ink transition-colors">Google Ads za stomatologe →</Link>
+            <Link to="/blog/instagram-reklame-za-stomatologe-cena-termina-srbija-2026" className="text-ink-3 hover:text-ink transition-colors">Instagram za stomatologe →</Link>
+            <Link to="/blog/facebook-reklame-za-stomatologe-cena-termina-srbija-2026" className="text-ink-3 hover:text-ink transition-colors">Facebook Ads za stomatologe →</Link>
           </div>
         </div>
       </section>

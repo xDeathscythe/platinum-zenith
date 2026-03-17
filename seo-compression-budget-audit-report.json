@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-03-17T08:29:48.046Z",
-  "compressedChunkCount": 67,
-  "publicBlogCount": 154,
-  "blogDataBrotliBudgetKb": 262,
+  "generatedAt": "2026-03-17T11:33:40.960Z",
+  "compressedChunkCount": 72,
+  "publicBlogCount": 156,
+  "blogDataBrotliBudgetKb": 265,
   "checks": [
     {
       "label": "index JS (brotli)",
-      "file": "index-CwwOk_Jr.js.br",
-      "sizeKb": 13.67,
+      "file": "index-Ci_0j-5S.js.br",
+      "sizeKb": 13.85,
       "maxKb": 15
     },
     {
@@ -30,14 +30,14 @@
     },
     {
       "label": "blogData JS (brotli)",
-      "file": "blogData-kAHgXY65.js.br",
-      "sizeKb": 179.99,
-      "maxKb": 262
+      "file": "blogData-BYBOXFTH.js.br",
+      "sizeKb": 202.76,
+      "maxKb": 265
     },
     {
       "label": "main CSS (brotli)",
-      "file": "index-aO1Ojrb1.css.br",
-      "sizeKb": 13.76,
+      "file": "index-CUakLHo9.css.br",
+      "sizeKb": 13.92,
       "maxKb": 15
     }
   ],

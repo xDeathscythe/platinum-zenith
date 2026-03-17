@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-17T10:29:29.456Z",
+  "generatedAt": "2026-03-17T11:40:23.402Z",
   "targets": 23,
   "failing": 0,
   "checks": [
@@ -172,7 +172,7 @@
       "route": "/marketing-za-stomatologe",
       "component": "MarketingZaStomatologePage",
       "file": "src\\pages\\MarketingZaStomatologePage.jsx",
-      "uniqueInternalLinks": 12,
+      "uniqueInternalLinks": 16,
       "hasKontakt": true,
       "hasRouteSchema": true,
       "hasFaqSchema": true,
