@@ -146,6 +146,11 @@ const relatedLinks = [
     desc: 'Detaljan vodic: koliko kosta Google reklama za kliniku, CPC po specijalizaciji i realni budzeti u Srbiji.',
   },
   {
+    to: '/blog/instagram-reklame-za-privatne-klinike-cena-pacijenta-srbija-2026',
+    title: 'Instagram reklame za privatne klinike',
+    desc: 'Koliko kostaju Instagram kampanje za kliniku, struktura po specijalizaciji i realni CPL benchmarci.',
+  },
+  {
     to: '/marketing-za-stomatologe',
     title: 'Marketing za stomatologe',
     desc: 'Ako imate i stomatolosku praksu, pogledajte specijalizovani vodic za ordinacije.',

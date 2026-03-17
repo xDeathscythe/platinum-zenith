@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "instagram-reklame-za-privatne-klinike-cena-pacijenta-srbija-2026",
+    "title": "Instagram reklame za privatne klinike u Srbiji 2026: cena pacijenta i budzet plan",
+    "excerpt": "Koliko realno kostaju Instagram reklame za privatne klinike u Srbiji 2026, koji budzet ima smisla po specijalizaciji i kako smanjiti cenu zakazivanja.",
+    "date": "2026-03-17",
+    "category": "Marketing",
+    "readTime": "10 min",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-racunovodje-cena-klijenta-srbija-2026",
     "title": "Google Ads za racunovodje u Srbiji 2026: cena po klijentu i budzet plan",
     "excerpt": "Koliko kosta Google Ads kampanja za knjigovodstvenu agenciju u Srbiji 2026. Realni CPC, CPL benchmarci i struktura koja donosi B2B klijente.",
