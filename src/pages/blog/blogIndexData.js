@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "instagram-reklame-za-stomatologe-cena-pacijenta-srbija-2026",
+    "title": "Instagram reklame za stomatologe u Srbiji 2026: cena po pacijentu i budzet plan",
+    "excerpt": "Koliko kosta Instagram oglas za stomatolosku ordinaciju u Srbiji 2026. Realni CPC, CPL i budzet rasponi za zakazivanje novih pacijenata.",
+    "date": "2026-03-17",
+    "category": "Marketing",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "izrada-sajta-za-restorane-cena-srbija-2026",
     "title": "Izrada sajta za restorane cena u Srbiji 2026: koliko kosta sajt koji stvarno donosi rezervacije",
     "excerpt": "Koliko kosta izrada sajta za restorane i kafice u Srbiji 2026, sta mora da sadrzi za dobar lokalni SEO i zasto lose postavljen meni odbija goste.",

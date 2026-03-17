@@ -1,5 +1,85 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'instagram-reklame-za-stomatologe-cena-pacijenta-srbija-2026',
+    title: 'Instagram reklame za stomatologe u Srbiji 2026: cena po pacijentu i budzet plan',
+    excerpt: 'Koliko kosta Instagram oglas za stomatolosku ordinaciju u Srbiji 2026. Realni CPC, CPL i budzet rasponi za zakazivanje novih pacijenata.',
+    date: '2026-03-17',
+    category: 'Marketing',
+    readTime: '8 min',
+    content: `
+## Instagram reklame za stomatologe u Srbiji 2026: kratak odgovor
+
+Ako trazis upit **instagram reklame za stomatologe cena**, realni okvir za srpsko trziste u 2026. najcesce izgleda ovako:
+
+- **Mikro budzet (testiranje):** 150e-300e mesecno (ad spend) + 150e-250e fee za vodjenje.
+- **Standardni budzet (stabilni termini):** 300e-700e mesecno (ad spend) + 250e-400e fee.
+- **Rast budzet (vise lokacija ili specijalizovani tretmani):** 700e-1.500e+ (ad spend) + 400e-700e fee.
+
+Za siri kontekst placenih kanala, pogledaj i [Instagram reklame cena](/instagram-reklame-cena) i [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama).
+
+## Zasto stomatoloske ordinacije imaju specificnu dinamiku na Instagramu
+
+Stomatoloska usluga ima jednu veliku prednost na Instagramu: pre/posle transformacije su prirodno vizuelno privlacne. Beljenje zuba, ortodoncija, estetske fasete i implanti su sadrzaj koji zaustavi skrol bez dodatnog truda.
+
+Druga specificnost je da pacijenti retko traze stomatologa preko Instagrama aktivno. Umesto toga, oglas ih hvata u momentu kad nisu razmisljali o tome, ali vidljiv rezultat pokrene zelju da zakazu konsultaciju. Ovo je klasican primer demand generation kanala, ne demand capture kanala kao sto je Google.
+
+Zato Instagram reklame za ordinacije rade drugacije od Google Ads-a. Umesto da ciljate ljude koji vec kucaju "stomatolog Beograd", vi gradite zelju kod ljudi koji jos nisu odlucili da im treba intervencija. To menja i tip kreativa i ocekivanja od brzine povrata.
+
+Za poredjenje sa Google kanalom pogledaj [Google reklame cena](/google-reklame-cena).
+
+## Struktura kampanje koja najcesce radi za ordinacije
+
+### Faza 1: Awareness kreativa (pre/posle galerije)
+
+Karusel ili Reels sa pre/posle fotografijama pacijenata (uz saglasnost). Naslov tipa: "Pogledajte razliku posle samo jedne posete." CTA: "Zakazite besplatnu konsultaciju."
+
+Ovo je vrh funnel-a. Cilj nije prodaja, nego zaustaviti skrol i pokrenuti interes.
+
+### Faza 2: Retargeting sa socijalnim dokazom
+
+Svako ko je video prvu reklamu ili posetio Instagram profil dobija drugu reklamu sa recenzijama pravih pacijenata. Video testimonijal od 30 sekundi radi bolje nego bilo koji dizajn.
+
+### Faza 3: Booking CTA (zakazivanje)
+
+Finalna reklama ide samo ljudima koji su interagovali u prethodne dve faze. Direktan CTA ka formi za zakazivanje ili Viber/WhatsApp poruci. Ovo je momenat konverzije.
+
+## Najcesce greske koje ordinacije prave na Instagramu
+
+### 1) Koriste stock fotografije umesto realnih rezultata
+Pacijenti prepoznaju stock osmeh za 2 sekunde. Autenticne pre/posle fotografije konvertuju 3-5x bolje od kupljenih slika.
+
+### 2) Nemaju jasan sledeći korak posle klika
+Oglas vodi na Instagram profil ili genericki sajt umesto na stranicu sa formom za zakazivanje. Svaki klik koji ne zavrsi na jasnom CTA-u je bacen novac.
+
+### 3) Ciljaju presirok radius
+Ordinacija u Novom Sadu nema korist od prikazivanja reklame ljudima u Nisu. Geotargeting na 10-15km radius oko lokacije je pravilo za stomatoloske kampanje.
+
+### 4) Ne prate sta se desava posle klika
+Bez Facebook Pixel-a i event tracking-a ne znate koji oglas je zapravo doneo zakazivanje. Optimizujete na osnovu lajkova umesto na osnovu pravih termina.
+
+## Realni CPL benchmarci za stomatologe u Srbiji
+
+Posle 4-8 nedelja ozbiljne optimizacije, tipicni rasponi su:
+
+- **Konsultacije (beljenje, estetika):** 8e-20e po lead-u.
+- **Implanti i protetika (veca vrednost):** 15e-40e po lead-u.
+- **Ortodoncija (fiksne proteze, aparatici):** 12e-30e po lead-u.
+
+Ako vam CPL prelazi gornju granicu posle 6 nedelja, problem je najcesce u kreativu ili u tome sta pacijent vidi posle klika.
+
+## 30-dnevni plan za stomatolosku ordinaciju
+
+- **Nedelja 1:** Prikupite 5-10 pre/posle fotografija, snimite 2 kratka video testimonijala, postavite Pixel na sajt.
+- **Nedelja 2:** Pokrenite awareness kampanju (karusel sa transformacijama) sa budzetom od 10e dnevno.
+- **Nedelja 3:** Dodajte retargeting sloj sa recenzijama za sve koji su videli prvu reklamu.
+- **Nedelja 4:** Pokrenite booking kampanju samo za warm publiku. Analizirajte CPL i kvalitet lead-ova.
+
+Za siru sliku digitalnog marketinga za vasu ordinaciju, pogledaj kompletnu stranicu [marketing za stomatologe](/marketing-za-stomatologe) i nase pristupe na [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+Ako zelite da procenimo potencijal Instagram kampanja za vasu ordinaciju, javite se preko [kontakt forme](/kontakt) za besplatnu analizu.
+`
+  },
+  {
     slug: 'izrada-sajta-za-restorane-cena-srbija-2026',
     title: 'Izrada sajta za restorane cena u Srbiji 2026: koliko kosta sajt koji stvarno donosi rezervacije',
     excerpt: 'Koliko kosta izrada sajta za restorane i kafice u Srbiji 2026, sta mora da sadrzi za dobar lokalni SEO i zasto lose postavljen meni odbija goste.',
@@ -15985,6 +16065,7 @@ export const blogPosts = rawBlogPosts.filter((post) => {
   seenSlugs.add(post.slug)
   return true
 })
+
 
 
 
