@@ -1007,6 +1007,10 @@ const ogMeta = {
     title: 'Marketing za Teretane i Fitnes Studije u Srbiji | Platinum Zenith',
     description: 'Marketing za teretane i fitnes studije u Srbiji: lokalni SEO, Google Ads, Instagram kampanje i retencija koji pune salu i zadrzavaju clanove.',
   },
+  '/marketing-za-racunovodje': {
+    title: 'Marketing za Računovodstvene Agencije u Srbiji | Platinum Zenith',
+    description: 'Specijalizovani marketing za računovođe i knjigovođe u Srbiji. B2B Google Ads, SEO i LinkedIn strategije koje donose stabilne klijente.',
+  },
   '/marketing-za-advokate': {
     title: 'Marketing za Advokate u Srbiji | Platinum Zenith',
     description: 'Marketing za advokatske kancelarije u Srbiji: SEO, Google Ads, sajt i content strategija koja donosi kvalifikovane upite i stabilan rast klijenata.',

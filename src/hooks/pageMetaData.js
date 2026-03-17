@@ -90,6 +90,15 @@ export const pageMeta = {
   '/facebook-oglasi-ne-rade': { title: 'Facebook Oglasi Ne Rade? 6 Razloga i Kako Popraviti | Platinum Zenith', description: 'Zašto vaši Facebook oglasi ne donose rezultate i šta konkretno da promenite. Dijagnostika najčešćih grešaka sa koracima za popravku.', keywords: 'facebook oglasi ne rade, facebook ads ne rade, zašto ne rade facebook oglasi, facebook reklame ne funkcionišu, problemi sa facebook oglasima, facebook kampanja ne daje rezultate' },
   '/alati/roi-kalkulator': { title: 'ROI Kalkulator za Marketing | Besplatan Alat | Platinum Zenith', description: 'Besplatan ROI kalkulator za marketing: unesite budžet, prihod i maržu, pa odmah izračunajte realan povrat investicije i profit kampanja.', keywords: 'ROI kalkulator, povrat investicije, marketing ROI, marketing budžet, kalkulator profita' },
   '/industrije/startapovi': { title: 'Marketing za Startapove | Platinum Zenith', description: 'Marketing za startapove od validacije ideje do skaliranja: pozicioniranje, akvizicija prvih korisnika i ubrzanje product-market fit-a.', keywords: 'startup marketing, growth hacking' },
+
+  '/marketing-za-racunovodje': {
+    robots: 'index, follow',
+    title: 'Marketing za Računovodstvene Agencije u Srbiji | Platinum Zenith',
+    description: 'Specijalizovani marketing za računovođe i knjigovođe u Srbiji. B2B Google Ads, SEO i LinkedIn strategije koje donose stabilne klijente.',
+    keywords: 'marketing za racunovodje, knjigovodstvena agencija marketing, digitalni marketing racunovodstvo, b2b marketing srbija, seo za racunovodje',
+    og: { title: 'Marketing za Računovodstvene Agencije u Srbiji | Platinum Zenith', description: 'Specijalizovani marketing za računovođe i knjigovođe u Srbiji. B2B Google Ads, SEO i LinkedIn strategije koje donose stabilne klijente.' },
+    twitter: { title: 'Marketing za Računovodstvene Agencije u Srbiji | Platinum Zenith', description: 'Specijalizovani marketing za računovođe i knjigovođe u Srbiji. B2B Google Ads, SEO i LinkedIn strategije koje donose stabilne klijente.' },
+  },
 }
 
 export const orgSchema = {
@@ -3133,6 +3142,81 @@ export const pageSchemas = {
     ]
   },
   '/draft/netokracija-cro-case': { "@context": "https://schema.org", "@type": "WebPage", "name": "Draft: CRO case study za Netokraciju", "url": `${SITE_URL}/draft/netokracija-cro-case`, "inLanguage": "sr-RS", "isPartOf": { "@type": "WebSite", "name": "Platinum Zenith", "url": SITE_URL } },
+  
+  '/marketing-za-racunovodje': {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": `${SITE_URL}/marketing-za-racunovodje#webpage`,
+        "url": `${SITE_URL}/marketing-za-racunovodje`,
+        "name": "Marketing za Računovodstvene Agencije u Srbiji | Platinum Zenith",
+        "description": "Specijalizovani marketing za računovođe i knjigovođe u Srbiji.",
+        "isPartOf": { "@id": `${SITE_URL}/#website` },
+        "about": { "@id": `${SITE_URL}/marketing-za-racunovodje#service` },
+        "breadcrumb": { "@id": `${SITE_URL}/marketing-za-racunovodje#breadcrumb` }
+      },
+      {
+        "@type": "Service",
+        "@id": `${SITE_URL}/marketing-za-racunovodje#service`,
+        "name": "Marketing za računovodstvene agencije",
+        "serviceType": "B2B Marketing",
+        "url": `${SITE_URL}/marketing-za-racunovodje`,
+        "mainEntityOfPage": { "@id": `${SITE_URL}/marketing-za-racunovodje#webpage` },
+        "provider": { "@id": `${SITE_URL}/#organization` }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": `${SITE_URL}/marketing-za-racunovodje#breadcrumb`,
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Početna", "item": SITE_URL },
+          { "@type": "ListItem", "position": 2, "name": "Marketing za računovođe", "item": `${SITE_URL}/marketing-za-racunovodje` }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "@id": `${SITE_URL}/marketing-za-racunovodje#faq`,
+        "mainEntity": []
+      }
+    ]
+  },
+  '/marketing-za-autoservise': {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": `${SITE_URL}/marketing-za-autoservise#webpage`,
+        "url": `${SITE_URL}/marketing-za-autoservise`,
+        "name": "Marketing za Autoservise u Srbiji | Platinum Zenith",
+        "description": "Marketing za autoservise u Srbiji: lokalni SEO, Google Ads, sajt i kampanje koje donose pozive i pune raspored.",
+        "isPartOf": { "@id": `${SITE_URL}/#website` },
+        "about": { "@id": `${SITE_URL}/marketing-za-autoservise#service` },
+        "breadcrumb": { "@id": `${SITE_URL}/marketing-za-autoservise#breadcrumb` }
+      },
+      {
+        "@type": "Service",
+        "@id": `${SITE_URL}/marketing-za-autoservise#service`,
+        "name": "Marketing za autoservise",
+        "serviceType": "Automotive Marketing",
+        "url": `${SITE_URL}/marketing-za-autoservise`,
+        "mainEntityOfPage": { "@id": `${SITE_URL}/marketing-za-autoservise#webpage` },
+        "provider": { "@id": `${SITE_URL}/#organization` }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": `${SITE_URL}/marketing-za-autoservise#breadcrumb`,
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Početna", "item": SITE_URL },
+          { "@type": "ListItem", "position": 2, "name": "Marketing za autoservise", "item": `${SITE_URL}/marketing-za-autoservise` }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "@id": `${SITE_URL}/marketing-za-autoservise#faq`,
+        "mainEntity": []
+      }
+    ]
+  },
   '/alati/roi-kalkulator': { "@context": "https://schema.org", "@type": "SoftwareApplication", "name": "ROI Kalkulator za Marketing", "applicationCategory": "BusinessApplication", "operatingSystem": "Web", "offers": { "@type": "Offer", "price": "0", "priceCurrency": "EUR" }, "description": "Besplatan interaktivni kalkulator za izračunavanje povrata investicije u marketing.", "url": `${SITE_URL}/alati/roi-kalkulator`, "provider": { "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL } }
 }
 

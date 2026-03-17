@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "b2b-marketing-srbija-2026-vodic",
+    "title": "B2B marketing u Srbiji 2026: Kako do pravih klijenata bez rasipanja budzeta",
+    "excerpt": "Vecina B2B firmi u Srbiji rasipa budzet na drustvene mreze koje donose samo lajkove, umesto da grade sistem koji direktno dovodi donosioce odluka. Evo sta stvarno radi u 2026.",
+    "date": "2026-03-17",
+    "category": "Marketing",
+    "readTime": "7 min read",
+    "isDraft": false
+  },
+  {
     "slug": "instagram-reklame-za-agencije-za-nekretnine-cena-srbija-2026",
     "title": "Instagram reklame za agencije za nekretnine u Srbiji 2026: cena upita i budzet plan",
     "excerpt": "Koliko kosta Instagram oglas za agenciju za nekretnine u Srbiji 2026. CPC, CPL benchmarci i struktura kampanje koja donosi kupce i prodavce.",

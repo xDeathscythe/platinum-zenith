@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-03-17T05:59:05.109Z",
-  "routesChecked": 192,
-  "linksScanned": 1255,
+  "generatedAt": "2026-03-17T08:29:49.319Z",
+  "routesChecked": 198,
+  "linksScanned": 1301,
   "issueCount": 0,
-  "warningCount": 0,
+  "warningCount": 1,
   "issues": [],
-  "warnings": []
+  "warnings": [
+    "/marketing-za-racunovodje: no inbound internal links detected"
+  ]
 }
