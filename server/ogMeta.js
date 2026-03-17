@@ -462,12 +462,44 @@ const SERVER_ROUTE_SCHEMAS = {
       url: SITE_URL,
     },
   },
+  '/marketing-za-autoservise': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Marketing za autoservise',
+    serviceType: 'Auto repair shop marketing',
+    url: `${SITE_URL}/marketing-za-autoservise`,
+    areaServed: {
+      '@type': 'Country',
+      name: 'Srbija',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
   '/marketing-za-frizerske-salone': {
     '@context': 'https://schema.org',
     '@type': 'Service',
     name: 'Marketing za frizerske salone',
     serviceType: 'Hair salon marketing',
     url: `${SITE_URL}/marketing-za-frizerske-salone`,
+    areaServed: {
+      '@type': 'Country',
+      name: 'Srbija',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
+  '/marketing-za-kozmeticke-salone': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Marketing za kozmeticke salone',
+    serviceType: 'Beauty salon marketing',
+    url: `${SITE_URL}/marketing-za-kozmeticke-salone`,
     areaServed: {
       '@type': 'Country',
       name: 'Srbija',
@@ -943,9 +975,17 @@ const ogMeta = {
     title: 'Marketing za Agencije za Nekretnine | Platinum Zenith',
     description: 'Digitalni marketing za agencije za nekretnine u Srbiji. Povećajte broj kupaca i prodavaca kroz Google Ads, SEO i Meta kampanje za nekretnine.',
   },
+  '/marketing-za-autoservise': {
+    title: 'Marketing za Autoservise u Srbiji | Platinum Zenith',
+    description: 'Marketing za autoservise u Srbiji: lokalni SEO, Google Ads, sajt i kampanje koje donose pozive i pune raspored servisa.',
+  },
   '/marketing-za-frizerske-salone': {
     title: 'Marketing za Frizerske Salone u Srbiji | Platinum Zenith',
     description: 'Marketing za frizerske salone u Srbiji: lokalni SEO, Instagram, Google Ads i booking funnel koji donose vise rezervacija i manje praznih termina.',
+  },
+  '/marketing-za-kozmeticke-salone': {
+    title: 'Marketing za Kozmeticke Salone u Srbiji | Platinum Zenith',
+    description: 'Marketing za kozmeticke salone u Srbiji: lokalni SEO, Instagram, Google Ads i booking funnel koji donose vise zakazivanja i manje praznih termina.',
   },
   '/marketing-za-advokate': {
     title: 'Marketing za Advokate u Srbiji | Platinum Zenith',
@@ -1097,6 +1137,24 @@ const serverFaqByPath = {
       a: 'Lokalni SEO može pokazati prve rezultate za nekoliko nedelja na nivou grada, dok nacionalne pretrage zahtevaju više meseci rada.',
     },
   ],
+  '/marketing-za-autoservise': [
+    {
+      q: 'Koliko brzo autoservis moze da dobije nove musterije preko Google-a?',
+      a: 'Ako je Google Business profil dobro popunjen i kampanja pravilno podesena, prvi pozivi obicno stizu vec u prvoj ili drugoj nedelji. Za stabilan protok obicno treba 4 do 6 nedelja optimizacije.',
+    },
+    {
+      q: 'Da li autoservis mora da ima sajt ili je dovoljan Google Business?',
+      a: 'Google Business je obavezan minimum, ali sajt sa jasnim cenama, uslugama i recenzijama drasticno povecava poverenje i konverziju. Ljudi cesto uporedjuju dva-tri servisa pre nego sto pozovu.',
+    },
+    {
+      q: 'Koliko kosta marketing za autoservis mesecno?',
+      a: 'Zavisi od grada i konkurencije, ali vecina autoservisa u Srbiji krece sa 300 do 800 evra mesecno za Google Ads i lokalni SEO. Bitnije od budzeta je da se prati cena po pozivu i zakazivanju.',
+    },
+    {
+      q: 'Koje usluge autoservisa se najlakse reklamiraju?',
+      a: 'Hitne usluge kao sto su zamena ulja, klima servis, dijagnostika i vulkanizerske usluge imaju jak intent na pretrazi. Sezonske kampanje za klimu ili zimske gume takodje donose odlicne rezultate.',
+    },
+  ],
   '/marketing-za-frizerske-salone': [
     {
       q: 'Da li su za frizerski salon vazniji Instagram ili Google?',
@@ -1113,6 +1171,24 @@ const serverFaqByPath = {
     {
       q: 'Koje usluge najcesce prve gurate kod salona?',
       a: 'To zavisi od cilja i kapaciteta, ali cesto prvo guramo tretmane koji imaju dobru marzu, jak vizuelni efekat i veci lifetime value. Poenta nije da reklamiramo sve, nego ono sto najzdravije puni kalendar.',
+    },
+  ],
+  '/marketing-za-kozmeticke-salone': [
+    {
+      q: 'Da li su za kozmeticki salon vazniji Instagram ili Google?',
+      a: 'Oba kanala imaju razlicitu ulogu. Google hvata ljude koji sada traze tretman u svom gradu, dok Instagram gradi zelju, poverenje i vraca ljude koji jos razmisljaju. Vecina salona profitira kad oba kanala rade zajedno.',
+    },
+    {
+      q: 'Koliko brzo salon moze da vidi vise zakazivanja?',
+      a: 'Ako su ponuda, booking put i lokalni signal dobro postavljeni, prvi kvalitetni upiti mogu da stignu vec u prvoj nedelji. Realnija slika o ceni termina obicno se vidi kroz 3 do 6 nedelja.',
+    },
+    {
+      q: 'Da li salonu treba sajt ako vec ima jak Instagram profil?',
+      a: 'Najcesce da. Instagram je odlican za paznju, ali sajt ili landing pomaze klijentu da brzo vidi cene, usluge, lokaciju, recenzije i jasan sledeci korak bez lutanja kroz DM poruke.',
+    },
+    {
+      q: 'Koliki budzet treba za pocetak?',
+      a: 'Za Google Ads u kozmetici, realan start je 250 do 500 evra mesecno za ad spend, plus fee za vodjenje kampanje. Za Instagram, slican raspon moze da donese prve rezultate ako je kreativa i ponuda dobro postavljena.',
     },
   ],
   '/marketing-za-advokate': [

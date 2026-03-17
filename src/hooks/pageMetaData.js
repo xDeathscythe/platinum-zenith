@@ -71,6 +71,11 @@ export const pageMeta = {
     description: 'Marketing za autoservise u Srbiji: lokalni SEO, Google Ads, sajt i kampanje koje donose pozive i pune raspored servisa.',
     keywords: 'marketing za autoservise, digitalni marketing autoservis, google ads autoservis, seo za autoservis, reklame za autoservis, sajt za autoservis',
   },
+  '/marketing-za-kozmeticke-salone': {
+    title: 'Marketing za Kozmeticke Salone u Srbiji | Platinum Zenith',
+    description: 'Marketing za kozmeticke salone u Srbiji: lokalni SEO, Instagram, Google Ads i booking funnel koji donose vise zakazivanja i manje praznih termina.',
+    keywords: 'marketing za kozmeticke salone, marketing za kozmeticki salon, digitalni marketing kozmeticki salon, instagram reklame kozmeticki salon, google ads kozmeticki salon, seo za salon',
+  },
   '/marketing-za-advokate': { title: 'Marketing za Advokate u Srbiji | Platinum Zenith', description: 'Marketing za advokatske kancelarije u Srbiji: SEO, Google Ads, sajt i content strategija koja donosi kvalifikovane upite i stabilan rast klijenata.', keywords: 'marketing za advokate, digitalni marketing advokatska kancelarija, google ads advokat, seo za advokate, sajt za advokatsku kancelariju, marketing pravne usluge' },
   '/marketing-za-stomatologe': { title: 'Marketing za Stomatologe u Srbiji | Platinum Zenith', description: 'Specijalizovani marketing za stomatološke ordinacije: Google Ads, lokalni SEO, sajt i kampanje koje pune kalendar novim pacijentima i povećavaju prihod.', keywords: 'marketing za stomatologe, digitalni marketing stomatologija, google ads stomatolog, seo za stomatologe, sajt za ordinaciju, marketing stomatološka ordinacija' },
   '/marketing-za-restorane': { title: 'Marketing za Restorane | Digitalni Marketing za Ugostiteljstvo | Platinum Zenith', description: 'Marketing za restorane u Srbiji: Google Business, društvene mreže, oglasi i sajt koji povećavaju rezervacije, porudžbine i popunjenost stolova.', keywords: 'marketing za restorane, digitalni marketing ugostiteljstvo, restoran marketing srbija, google business restoran, instagram za restorane, sajt za restoran' },
@@ -950,6 +955,96 @@ export const pageSchemas = {
             "acceptedAnswer": {
               "@type": "Answer",
               "text": "To zavisi od cilja i kapaciteta, ali cesto prvo guramo tretmane koji imaju dobru marzu, jak vizuelni efekat i veci lifetime value. Poenta nije da reklamiramo sve, nego ono sto najzdravije puni kalendar."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  '/marketing-za-kozmeticke-salone': {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": `${SITE_URL}/marketing-za-kozmeticke-salone#webpage`,
+        "url": `${SITE_URL}/marketing-za-kozmeticke-salone`,
+        "name": "Marketing za Kozmeticke Salone u Srbiji | Platinum Zenith",
+        "description": "Marketing za kozmeticke salone u Srbiji: lokalni SEO, Instagram, Google Ads i booking funnel koji donose vise zakazivanja i manje praznih termina.",
+        "isPartOf": { "@id": `${SITE_URL}/#website` },
+        "about": { "@id": `${SITE_URL}/marketing-za-kozmeticke-salone#service` },
+        "breadcrumb": { "@id": `${SITE_URL}/marketing-za-kozmeticke-salone#breadcrumb` },
+        "mainEntity": [
+          { "@id": `${SITE_URL}/marketing-za-kozmeticke-salone#service` },
+          { "@id": `${SITE_URL}/marketing-za-kozmeticke-salone#faq` }
+        ],
+        "potentialAction": {
+          "@type": "ContactAction",
+          "name": "Zakazite analizu salona",
+          "target": `${SITE_URL}/kontakt`
+        }
+      },
+      {
+        "@type": "Service",
+        "@id": `${SITE_URL}/marketing-za-kozmeticke-salone#service`,
+        "name": "Marketing za kozmeticke salone",
+        "serviceType": "Beauty salon marketing",
+        "url": `${SITE_URL}/marketing-za-kozmeticke-salone`,
+        "mainEntityOfPage": { "@id": `${SITE_URL}/marketing-za-kozmeticke-salone#webpage` },
+        "provider": { "@id": `${SITE_URL}/#organization` },
+        "areaServed": { "@type": "Country", "name": "Srbija" },
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "Marketing usluge za kozmeticke salone",
+          "itemListElement": [
+            { "@type": "Offer", "name": "Instagram i Meta kampanje za kozmeticke salone" },
+            { "@type": "Offer", "name": "Lokalni SEO i Google Business" },
+            { "@type": "Offer", "name": "Landing i booking funnel optimizacija" },
+            { "@type": "Offer", "name": "Google Ads za kozmeticke salone" }
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": `${SITE_URL}/marketing-za-kozmeticke-salone#breadcrumb`,
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Pocetna", "item": SITE_URL },
+          { "@type": "ListItem", "position": 2, "name": "Marketing za kozmeticke salone", "item": `${SITE_URL}/marketing-za-kozmeticke-salone` }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "@id": `${SITE_URL}/marketing-za-kozmeticke-salone#faq`,
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Da li su za kozmeticki salon vazniji Instagram ili Google?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Oba kanala imaju razlicitu ulogu. Google hvata ljude koji sada traze tretman u svom gradu, dok Instagram gradi zelju, poverenje i vraca ljude koji jos razmisljaju. Vecina salona profitira kad oba kanala rade zajedno."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Koliko brzo salon moze da vidi vise zakazivanja?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ako su ponuda, booking put i lokalni signal dobro postavljeni, prvi kvalitetni upiti mogu da stignu vec u prvoj nedelji. Realnija slika o ceni termina obicno se vidi kroz 3 do 6 nedelja."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Da li salonu treba sajt ako vec ima jak Instagram profil?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Najcesce da. Instagram je odlican za paznju, ali sajt ili landing pomaze klijentu da brzo vidi cene, usluge, lokaciju, recenzije i jasan sledeci korak bez lutanja kroz DM poruke."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Koliki budzet treba za pocetak?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Za Google Ads u kozmetici, realan start je 250 do 500 evra mesecno za ad spend, plus fee za vodjenje kampanje. Za Instagram, slican raspon moze da donese prve rezultate ako je kreativa i ponuda dobro postavljena."
             }
           }
         ]

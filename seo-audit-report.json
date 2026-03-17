@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-03-17T02:28:55.691Z",
-  "routeCount": 48,
-  "pageMetaCount": 43,
-  "ogMetaCount": 42,
-  "missingOgRoutes": [
-    "/marketing-za-autoservise"
-  ],
+  "generatedAt": "2026-03-17T03:28:32.816Z",
+  "routeCount": 49,
+  "pageMetaCount": 44,
+  "ogMetaCount": 44,
+  "missingOgRoutes": [],
   "metaVsOgDiffs": [],
   "fixApplied": false,
   "fixedCount": 0

@@ -1,13 +1,11 @@
 {
-  "generatedAt": "2026-03-17T02:28:58.300Z",
-  "staticRoutesChecked": 42,
+  "generatedAt": "2026-03-17T03:28:35.431Z",
+  "staticRoutesChecked": 43,
   "blogRoutesChecked": 144,
   "draftRoutesChecked": 1,
-  "routesChecked": 187,
-  "issueCount": 1,
+  "routesChecked": 188,
+  "issueCount": 0,
   "warningCount": 0,
-  "issues": [
-    "/marketing-za-autoservise: twitter:description differs from og:description"
-  ],
+  "issues": [],
   "warnings": []
 }

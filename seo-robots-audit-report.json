@@ -1,9 +1,7 @@
 {
-  "generatedAt": "2026-03-17T02:28:56.069Z",
-  "publicRoutesChecked": 44,
+  "generatedAt": "2026-03-17T03:28:33.195Z",
+  "publicRoutesChecked": 45,
   "internalRoutesChecked": 6,
-  "issueCount": 1,
-  "issues": [
-    "/marketing-za-autoservise: public route should be indexable; got \"noindex, nofollow\""
-  ]
+  "issueCount": 0,
+  "issues": []
 }
