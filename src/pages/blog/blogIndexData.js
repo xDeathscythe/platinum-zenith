@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "kako-pokrenuti-online-prodavnicu-srbija-2026",
+    "title": "Kako pokrenuti online prodavnicu u Srbiji 2026: platforma, troskovi i prvi koraci",
+    "excerpt": "Prakticni vodic za pokretanje online prodavnice u Srbiji 2026. WooCommerce vs Shopify, troskovi, placanje, dostava i marketing koji donosi prvu prodaju.",
+    "date": "2026-03-17",
+    "category": "E-Commerce",
+    "readTime": "10 min",
+    "isDraft": false
+  },
+  {
     "slug": "linkedin-marketing-za-b2b-firme-srbija-2026",
     "title": "LinkedIn marketing za B2B firme u Srbiji 2026: strategija, budzet i rezultati",
     "excerpt": "Kako B2B firme u Srbiji koriste LinkedIn za generisanje lead-ova 2026. Organski vs placeni, content koji radi na srpskom trzistu i realni budzeti.",
