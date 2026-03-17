@@ -126,6 +126,10 @@ export default function MarketingAgencijaBgPage() {
               <div className="text-[14px] font-medium text-ink mb-1">Marketing agencija Nis</div>
               <div className="text-[12px] text-ink-3">Digitalni marketing za jug Srbije</div>
             </Link>
+            <Link to="/marketing-agencija-kragujevac" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Marketing agencija Kragujevac</div>
+              <div className="text-[12px] text-ink-3">Digitalni marketing za Sumadiju</div>
+            </Link>
             <Link to="/marketing-agencija-zrenjanin" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
               <div className="text-[14px] font-medium text-ink mb-1">Marketing agencija Zrenjanin</div>
               <div className="text-[12px] text-ink-3">Lokalna agencija za Banat</div>

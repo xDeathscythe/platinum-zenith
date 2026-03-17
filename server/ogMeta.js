@@ -670,6 +670,22 @@ const SERVER_ROUTE_SCHEMAS = {
       url: SITE_URL,
     },
   },
+  '/marketing-agencija-kragujevac': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Marketing agencija Kragujevac',
+    serviceType: 'Digital marketing agency services',
+    url: `${SITE_URL}/marketing-agencija-kragujevac`,
+    areaServed: {
+      '@type': 'City',
+      name: 'Kragujevac',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
   '/in-house-tim-vs-agencija': {
     '@context': 'https://schema.org',
     '@type': 'Service',
@@ -1006,6 +1022,12 @@ const ogMeta = {
     description: 'Marketing agencija za Nis: SEO, Google Ads i Meta kampanje koje povecavaju upite i prodaju uz nize troskove akvizicije.',
     ogImage: `${SITE_URL}/pz-og.jpg`,
     ogImageAlt: 'Marketing agencija Nis - digitalni marketing za jug Srbije',
+  },
+  '/marketing-agencija-kragujevac': {
+    title: 'Marketing Agencija za Kragujevac | Digitalni Marketing | Platinum Zenith',
+    description: 'Marketing agencija za Kragujevac i Sumadiju: SEO, Google Ads i Meta kampanje za lokalne firme koje zele vise upita i prodaje uz merljiv ROI.',
+    ogImage: `${SITE_URL}/pz-og.jpg`,
+    ogImageAlt: 'Marketing agencija Kragujevac - digitalni marketing za Sumadiju',
   },
   '/web-shop-nema-prodaju': {
     title: 'Web Shop Nema Prodaju? 5 Razloga i Rešenja | Platinum Zenith',
@@ -1433,6 +1455,16 @@ const serverFaqByPath = {
     {
       q: 'Koliko je jeftiniji CPC u Nisu u poredjenju sa Beogradom?',
       a: 'Za vecinu lokalnih usluga, CPC u Nisu je dva do tri puta nizi nego u Beogradu, sto znaci vise klikova za isti budzet.',
+    },
+  ],
+  '/marketing-agencija-kragujevac': [
+    {
+      q: 'Zasto bih birao agenciju koja nije iz Kragujevca?',
+      a: 'Zato sto lokacija agencije ne odredjuje kvalitet rada. Digitalni marketing se radi online. Bitni su rezultati, ne fizicka blizina kancelarije.',
+    },
+    {
+      q: 'Kakav je CPC u Kragujevcu u odnosu na Beograd?',
+      a: 'Za lokalne usluge, CPC u Kragujevcu je obicno dva do tri puta nizi nego u Beogradu. Manja konkurencija znaci vise klikova za isti budzet.',
     },
   ],
   '/seo-optimizacija-cena': [
