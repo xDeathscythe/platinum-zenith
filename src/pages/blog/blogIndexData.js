@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "seo-za-privatne-klinike-cena-srbija-2026",
+    "title": "SEO za privatne klinike u Srbiji 2026: cena, rokovi i kako privuci pacijente bez oglasa",
+    "excerpt": "Koliko kosta SEO optimizacija za privatnu kliniku u Srbiji 2026. Realni rasponi cena, sta donosi lokalni SEO i zasto organski saobracaj smanjuje zavisnost od oglasa.",
+    "date": "2026-03-17",
+    "category": "SEO",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "instagram-reklame-za-privatne-klinike-cena-pacijenta-srbija-2026",
     "title": "Instagram reklame za privatne klinike u Srbiji 2026: cena pacijenta i budzet plan",
     "excerpt": "Koliko realno kostaju Instagram reklame za privatne klinike u Srbiji 2026, koji budzet ima smisla po specijalizaciji i kako smanjiti cenu zakazivanja.",

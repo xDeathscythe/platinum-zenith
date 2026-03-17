@@ -1,5 +1,78 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'seo-za-privatne-klinike-cena-srbija-2026',
+    title: 'SEO za privatne klinike u Srbiji 2026: cena, rokovi i kako privuci pacijente bez oglasa',
+    excerpt: 'Koliko kosta SEO optimizacija za privatnu kliniku u Srbiji 2026. Realni rasponi cena, sta donosi lokalni SEO i zasto organski saobracaj smanjuje zavisnost od oglasa.',
+    date: '2026-03-17',
+    category: 'SEO',
+    readTime: '8 min',
+    content: `
+## SEO za privatne klinike u Srbiji 2026: kratak odgovor
+
+Ako trazis upit **seo za privatnu kliniku cena**, realan raspon za srpsko trziste u 2026. najcesce izgleda ovako:
+
+- **Starter lokalni SEO (GBP + osnovna optimizacija):** 300e-500e mesecno.
+- **Growth paket (GBP + sajt + sadrzaj + lokalni linkovi):** 500e-1.000e mesecno.
+- **Performance pristup (tehnicka optimizacija + content marketing + geo-stranice):** 1.000e-2.000e+ mesecno.
+
+Za siru sliku SEO troskova pogledaj i [SEO optimizacija cena](/seo-optimizacija-cena).
+
+## Zasto je SEO za privatne klinike drugaciji od SEO-a za obicne firme
+
+Zdravstveni sektor ima specificne izazove koje vecina SEO agencija ne razume. Google primenjuje strozi standard za medicinski sadrzaj (E-E-A-T: Experience, Expertise, Authoritativeness, Trustworthiness). To znaci da blogovi o zdravlju moraju da imaju jasnog autora sa medicinskim kredibilitetom, inace ih Google potiskuje.
+
+Druga specificnost je da pacijenti pretrazuju simptome, ne dijagnoze. Neko ne kuca "ultrazvuk abdomena Beograd" nego "bol u stomaku desna strana". Klinika koja ima sadrzaj koji odgovara na simptome hvata pacijente mnogo ranije u procesu odlucivanja.
+
+Treca specificnost je da je lokalna komponenta presudna. Pacijent nece putovati 100 kilometara za rutinski pregled. Google mapa i lokalni SEO su za kliniku jednako vazni kao i organski saobracaj sa sajta.
+
+## Sta ulazi u SEO paket za privatnu kliniku
+
+### Google Business Profile optimizacija
+Kompletan profil sa svim specijalizacijama i uslugama, profesionalne fotografije ordinacija i opreme, radno vreme sa hitnim prijemom ako postoji, redovni GBP postovi o novim uslugama ili opremi. Odgovaranje na svaku recenziju je obavezno jer pacijenti citaju odgovore pre zakazivanja.
+
+### Stranice za svaku uslugu i specijalizaciju
+Svaka usluga zasluzuje posebnu stranicu: ginekologija, kardiologija, dermatologija, laboratorija, ultrazvuk. Stranica mora da ima jasnu cenu (ili cenovni raspon), opis procedure, ocekivano trajanje i CTA za zakazivanje. "Ultrazvuk abdomena [grad] cena" je mnogo laksi za rangiranje nego genericki "privatna klinika".
+
+### Medicinski sadrzaj sa E-E-A-T signalima
+Blog postovi koje potpisuje lekar sa klinike sa jasnim biografijama i referencama. Sadrzaj tipa "kad ici kod kardiologa", "priprema za kolonoskopiju" ili "razlika izmedju MR i CT snimanja" privlaci pacijente u fazi istrazivanja i gradi autoritet klinike.
+
+### Prikupljanje recenzija
+Automatski sistem posle zavrsetka pregleda sa linkom na Google recenziju. Klinike sa 200+ recenzija dominiraju lokalnom mapom. Pacijenti veruju recenzijama drugih pacijenata vise nego bilo cemu na sajtu.
+
+## Koliko vremena treba da se vide rezultati
+
+Za lokalni SEO privatne klinike: prvi pomaci na Google mapi za 4-8 nedelja (uz aktivan rad na GBP-u i recenzijama). Organski saobracaj sa sajta krece da raste za 3-6 meseci za manje konkurentne specijalizacije, i 6-12 meseci za visoko konkurentne termine.
+
+Kljucna prednost SEO-a u odnosu na oglase: kad ugasite Google Ads, saobracaj stane istog dana. Organski saobracaj nastavlja da raste i posle prestanka aktivnog rada.
+
+Za uporedni pregled placenih kanala pogledaj [Google reklame cena](/google-reklame-cena) i nasu analizu [Instagram reklama za privatne klinike](/blog/instagram-reklame-za-privatne-klinike-cena-pacijenta-srbija-2026).
+
+## Gde privatne klinike najcesce gube novac na SEO
+
+### 1) Sadrzaj bez medicinskog autora
+Google je 2018. uveo "Medic Update" koji je drasticno srusio sajtove sa medicinskim sadrzajem bez jasnog autorstva. Blog post o simptomima koji nema ime lekara, biografiju i reference nece rangirati koliko god da je dobro napisan.
+
+### 2) Ignorisu simptom-bazirane pretrage
+Vecina klinika optimizuje za nazive usluga ("ultrazvuk", "laboratorija") ali ignoriSe pretrage po simptomima koje pacijenti zapravo koriste. "Bol u grudima kad udahnem" ima veci volumen pretrazivanja od "kardiologija Novi Sad".
+
+### 3) Nemaju sistem za recenzije
+Klinika sa 30 recenzija i prosekom 4.8 gubi od klinike sa 250 recenzija i prosekom 4.5. Volumen je jaci signal od prosecne ocene za Google algoritam.
+
+### 4) Sajt je spor i nije prilagodjen za mobilne uredjaje
+Pacijenti cesto pretrazuju sa telefona, cesto u situacijama kada im je potreban brz odgovor. Sajt koji se ucitava 5 sekundi gubi 50% posetilaca pre nego sto vide prvu rec.
+
+## Plan za prvih 90 dana
+
+- **Mesec 1:** GBP kompletna optimizacija, sistem za recenzije, osnovna on-page optimizacija sa stranicama za top 5 usluga.
+- **Mesec 2:** Kreiranje 6-8 blog postova o simptomima i pripremama za procedure, registracija na zdravstvene direktorijume.
+- **Mesec 3:** Analiza rezultata iz Search Console, dodavanje stranica za preostale specijalizacije, prvi izvestaj o organskom rastu.
+
+Za kompletnu strategiju digitalnog prisustva vase klinike, pogledaj i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+Ako zelite da procenimo kako vasa klinika trenutno stoji na Google-u i koliko novih pacijenata moze da dodje iz organskog saobracaja, javite se preko [kontakt forme](/kontakt).
+`
+  },
+  {
     slug: 'instagram-reklame-za-privatne-klinike-cena-pacijenta-srbija-2026',
     title: 'Instagram reklame za privatne klinike u Srbiji 2026: cena pacijenta i budzet plan',
     excerpt: 'Koliko realno kostaju Instagram reklame za privatne klinike u Srbiji 2026, koji budzet ima smisla po specijalizaciji i kako smanjiti cenu zakazivanja.',
@@ -17336,6 +17409,7 @@ export const blogPosts = rawBlogPosts.filter((post) => {
   seenSlugs.add(post.slug)
   return true
 })
+
 
 
 
