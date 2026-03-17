@@ -155,6 +155,11 @@ const relatedLinks = [
     title: 'Google Ads za kozmeticke salone',
     desc: 'Koliko kostaju Google reklame za salon, koji budzet ima smisla i kako da dovedete klijente koji vec traze vas tip tretmana.',
   },
+  {
+    to: '/blog/seo-za-kozmeticke-salone-cena-srbija-2026',
+    title: 'SEO za kozmeticke salone',
+    desc: 'Cena lokalnog SEO-a za kozmeticke salone, sta ulazi u optimizaciju i kako meriti rezultat kroz zakazane termine.',
+  },
 ]
 
 export default function MarketingZaKozmetickeSalonePage() {

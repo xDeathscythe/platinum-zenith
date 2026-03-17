@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-17T03:59:42.109Z",
-  "postsChecked": 118,
+  "generatedAt": "2026-03-17T04:29:37.812Z",
+  "postsChecked": 119,
   "issueCount": 0,
   "checked": [
     {
@@ -590,6 +590,11 @@
     },
     {
       "route": "/blog/google-ads-za-frizerske-salone-cena-srbija-2026",
+      "serviceHits": 5,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/seo-za-kozmeticke-salone-cena-srbija-2026",
       "serviceHits": 5,
       "hasKontakt": true
     }

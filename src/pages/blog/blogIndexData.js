@@ -1315,5 +1315,14 @@ export const blogIndexPosts = [
     "category": "Marketing",
     "readTime": 9,
     "isDraft": false
+  },
+  {
+    "slug": "seo-za-kozmeticke-salone-cena-srbija-2026",
+    "title": "SEO za kozmeticke salone u Srbiji 2026: cena, lokalni SEO i kako do vise termina",
+    "excerpt": "Koliko kosta SEO za kozmeticke salone u Srbiji 2026, zasto lokalni SEO presuduje i kako da merite rezultat kroz zakazane termine, ne kroz pozicije.",
+    "date": "2026-03-17",
+    "category": "Lokalni SEO",
+    "readTime": "10 min",
+    "isDraft": false
   }
 ]
