@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "seo-za-teretane-cena-srbija-2026",
+    "title": "SEO za teretane u Srbiji 2026: cena, rokovi i kako privuci nove clanove bez oglasa",
+    "excerpt": "Koliko kosta SEO optimizacija za teretanu u Srbiji 2026. Realni rasponi cena, sta donosi lokalni SEO i zasto Google mapa moze biti jaci kanal od Instagram-a.",
+    "date": "2026-03-17",
+    "category": "SEO",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "seo-za-autoservise-cena-srbija-2026",
     "title": "SEO za autoservise u Srbiji 2026: cena, rokovi i sta donosi nove musterije",
     "excerpt": "Koliko kosta SEO optimizacija za autoservis u Srbiji 2026. Realni rasponi cena, sta ulazi u uslugu i kako Google mapa postaje vas najjaci kanal za nove klijente.",

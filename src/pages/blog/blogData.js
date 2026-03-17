@@ -1,5 +1,75 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'seo-za-teretane-cena-srbija-2026',
+    title: 'SEO za teretane u Srbiji 2026: cena, rokovi i kako privuci nove clanove bez oglasa',
+    excerpt: 'Koliko kosta SEO optimizacija za teretanu u Srbiji 2026. Realni rasponi cena, sta donosi lokalni SEO i zasto Google mapa moze biti jaci kanal od Instagram-a.',
+    date: '2026-03-17',
+    category: 'SEO',
+    readTime: '8 min',
+    content: `
+## SEO za teretane u Srbiji 2026: kratak odgovor
+
+Ako trazis upit **seo za teretanu cena**, realan raspon za srpsko trziste u 2026. najcesce izgleda ovako:
+
+- **Starter lokalni SEO (GBP + osnovna optimizacija):** 200e-400e mesecno.
+- **Growth paket (GBP + sajt + sadrzaj + lokalni linkovi):** 400e-800e mesecno.
+- **Performance pristup (tehnicka optimizacija + content + geo-stranice):** 800e-1.500e+ mesecno.
+
+Za siri kontekst SEO troskova pogledaj i [SEO optimizacija cena](/seo-optimizacija-cena).
+
+## Zasto lokalni SEO radi za teretane bolje nego sto vecina misli
+
+Teretana je hiperloklani biznis. Niko ne putuje 20 minuta da trenira kad ima teretanu na 5 minuta od kuce ili posla. Kad neko kuca "teretana blizu mene" ili "teretana [kvart/grad]", trazi tacno ono sto vi nudite, i bira izmedju prvih nekoliko rezultata.
+
+Problem je sto vecina teretana ulaze u Instagram content i placene oglase, a ignoriSe Google mapu i organski saobracaj. A upravo tamo vas traze ljudi koji su vec doneli odluku da se upisu i samo biraju gde.
+
+Google Business Profile za teretanu je kao svetleci natpis na glavnoj ulici. Razlika je sto ne plaCate zakup, a vidljivost moze biti veca nego fizicka lokacija.
+
+## Sta ulazi u SEO paket za teretanu
+
+### Google Business Profile optimizacija
+Kompletan profil sa svim uslugama (grupni treninzi, personalni trening, sauna, suplementi), profesionalne fotografije prostora i opreme, radno vreme sa praznicima, redovni GBP postovi sa akcijama i novostima.
+
+### Lokalna optimizacija sajta
+Posebne stranice za svaku uslugu: personalni trening, grupni programi, fitnes za pocetnike, bodybuilding program, rehabilitacija. Svaka stranica cilja konkretan upit. "Personalni trening [grad] cena" je mnogo laksi za rangiranje nego genericki "teretana".
+
+### Prikupljanje recenzija
+Automatski sistem (SMS ili Viber posle prvog meseca clanarine) sa linkom na Google recenziju. Teretane sa 100+ recenzija dominiraju lokalnom mapom. Cak i ako je prosek 4.3, volumen pobedzuje konkurenta sa 15 recenzija i prosekom 5.0.
+
+### Content marketing
+Blog postovi koji ciljaju pretrage tipa "kako poceti trenirati", "plan ishrane za pocetnike", "vezbanje kod kuce vs teretana". Ovi postovi privlace ljude u fazi istrazivanja i vode ih ka vasem sajtu. Odatle je kratak put do upisa.
+
+## Koliko vremena treba da se vide rezultati
+
+Za lokalni SEO teretane: prvi vidljivi pomaci na Google mapi za 4-8 nedelja (uz aktivan rad na GBP-u i recenzijama). Organski saobracaj sa sajta obicno krece da raste za 3-6 meseci.
+
+Kljucna razlika u odnosu na oglase: kad ugasite Google Ads, saobracaj odmah stane. Kad ugazite SEO, organski saobracaj nastavlja da raste i posle prestanka aktivnog rada.
+
+Za uporedni pregled placenih kanala pogledaj [Google reklame cena](/google-reklame-cena) i nasu analizu [Instagram reklama za teretane](/blog/instagram-reklame-za-teretane-cena-upisa-srbija-2026).
+
+## Gde teretane najcesce gube novac na SEO
+
+### 1) Fokus na nacionalne kljucne reci umesto lokalnih
+Rangirati se za "teretana" na nivou cele Srbije je skoro nemoguce za jednu lokaciju. Ali rangirati se za "teretana Vozdovac" ili "fitnes centar Novi Sad Liman" je realno za 2-3 meseca.
+
+### 2) Sajt bez pojedinacnih stranica za usluge
+Sajt sa jednom stranicom "Usluge" koja lista sve u tri reda ne moze da rangira ni za jednu konkretnu pretragu. Svaka usluga zasluzuje svoju stranicu sa sopstvenim naslovom, opisom i CTA-om.
+
+### 3) Ignorisanje sezonskih pretraga
+Januar i septembar su vrhunci pretrazivanja "teretana" u Srbiji. SEO koji se pokrene u novembru hvata januarski talas. SEO koji se pokrene u februaru propusta najvazniji mesec u godini.
+
+## Plan za prvih 90 dana
+
+- **Mesec 1:** GBP kompletna optimizacija, postavljanje sistema za recenzije, osnovna on-page optimizacija sajta sa stranicama za svaku uslugu.
+- **Mesec 2:** Kreiranje 4-6 blog postova za pretrage u fazi istrazivanja, registracija na lokalne direktorijume, dodavanje fotografija prostora.
+- **Mesec 3:** Analiza rezultata iz Search Console, iteracija sadrzaja na osnovu podataka, priprema za sezonski talas (ako je blizu).
+
+Za kompletnu strategiju digitalnog prisustva vase teretane, pogledaj [marketing za teretane](/marketing-za-teretane) i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+Ako zelite da procenimo kako vasa teretana trenutno stoji na Google-u i koliko novih clanova moze da dodje iz organskog saobracaja, javite se preko [kontakt forme](/kontakt).
+`
+  },
+  {
     slug: 'seo-za-autoservise-cena-srbija-2026',
     title: 'SEO za autoservise u Srbiji 2026: cena, rokovi i sta donosi nove musterije',
     excerpt: 'Koliko kosta SEO optimizacija za autoservis u Srbiji 2026. Realni rasponi cena, sta ulazi u uslugu i kako Google mapa postaje vas najjaci kanal za nove klijente.',
@@ -16328,6 +16398,7 @@ export const blogPosts = rawBlogPosts.filter((post) => {
   seenSlugs.add(post.slug)
   return true
 })
+
 
 
 
