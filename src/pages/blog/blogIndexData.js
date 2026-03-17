@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "linkedin-marketing-za-b2b-firme-srbija-2026",
+    "title": "LinkedIn marketing za B2B firme u Srbiji 2026: strategija, budzet i rezultati",
+    "excerpt": "Kako B2B firme u Srbiji koriste LinkedIn za generisanje lead-ova 2026. Organski vs placeni, content koji radi na srpskom trzistu i realni budzeti.",
+    "date": "2026-03-17",
+    "category": "Marketing",
+    "readTime": "9 min",
+    "isDraft": false
+  },
+  {
     "slug": "kako-odabrati-agenciju-za-digitalni-marketing-srbija-2026",
     "title": "Kako odabrati agenciju za digitalni marketing u Srbiji 2026: 9 pitanja pre potpisivanja ugovora",
     "excerpt": "Praktican vodic kako izabrati agenciju za digitalni marketing u Srbiji 2026: koja pitanja postaviti, sta traziti u ponudi i koje crvene zastavice odmah eliminisu kandidata.",
