@@ -151,6 +151,11 @@ const relatedLinks = [
     title: 'Google Ads za frizerske salone',
     desc: 'Koliko kostaju Google reklame za salon, koji budzet ima smisla i kako da dovedete klijente koji vec traze vas tip usluge.',
   },
+  {
+    to: '/blog/seo-za-frizerske-salone-cena-srbija-2026',
+    title: 'SEO za frizerske salone',
+    desc: 'Koliko kosta SEO za salon, zasto lokalni SEO dominira i kako meriti rezultat kroz zakazane termine.',
+  },
 ]
 
 export default function MarketingZaFrizerskeSalonePage() {
