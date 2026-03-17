@@ -1,5 +1,76 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'seo-za-autoservise-cena-srbija-2026',
+    title: 'SEO za autoservise u Srbiji 2026: cena, rokovi i sta donosi nove musterije',
+    excerpt: 'Koliko kosta SEO optimizacija za autoservis u Srbiji 2026. Realni rasponi cena, sta ulazi u uslugu i kako Google mapa postaje vas najjaci kanal za nove klijente.',
+    date: '2026-03-17',
+    category: 'SEO',
+    readTime: '8 min',
+    content: `
+## SEO za autoservise u Srbiji 2026: kratak odgovor
+
+Ako trazis upit **seo za autoservis cena**, realan raspon za srpsko trziste u 2026. najcesce izgleda ovako:
+
+- **Starter lokalni SEO (GBP + osnovna optimizacija):** 200e-400e mesecno.
+- **Growth paket (GBP + sajt + sadrzaj + lokalni linkovi):** 400e-800e mesecno.
+- **Performance pristup (tehnicka optimizacija + content marketing + geo-stranice):** 800e-1.500e+ mesecno.
+
+Za siru sliku SEO troskova pogledaj i [SEO optimizacija cena](/seo-optimizacija-cena).
+
+## Zasto je lokalni SEO najisplativiji kanal za autoservis
+
+Autoservis je biznis koji zivi od geografske blizine. Niko ne vozi 30 kilometara da promeni ulje ili zameni kocnice. Kad nekom zatreba servis, kuca "autoservis blizu mene" ili "autoservis + ime grada" i bira jedan od prvih rezultata.
+
+Google Business Profile (Google mapa) je za autoservis ekvivalent lokacije na prometnom bulevaru, samo besplatan. Problem je sto vecina servisa ili nema profil, ili ga ima napola popunjen sa jednom fotografijom iz 2019.
+
+Tri stvari koje autoservisu donose 80% lokalnog SEO rezultata:
+1. Kompletan i redovno azuriran Google Business Profile sa svim uslugama, radnim vremenom i fotografijama.
+2. Recenzije koje se aktivno prikupljaju (bar 2-3 nove mesecno).
+3. Sajt koji jasno prikazuje usluge, cene i lokaciju sa optimizovanim naslovima za lokalne pretrage.
+
+## Sta ulazi u SEO paket za autoservis
+
+### Google Business Profile optimizacija
+Popunjavanje svih polja, dodavanje svih kategorija usluga (ne samo "autoservis" nego i "vulkanizer", "auto elektricar", "zamena ulja" itd.), upload profesionalnih fotografija radionice, odgovaranje na recenzije. Ovo je osnova svega.
+
+### Lokalna optimizacija sajta
+Svaka usluga treba svoju stranicu: zamena ulja, dijagnostika, limarija, farbanje, klima servis. Svaka stranica cilja konkretan upit tipa "zamena ulja [grad] cena". Bez ovih stranica, sajt se takmici za jedan genericki termin umesto za dvadeset konkretnih.
+
+### Prikupljanje recenzija
+Sistem za automatsko slanje SMS-a ili Viber poruke posle zavrsetka usluge sa direktnim linkom na Google recenziju. Servisi koji ovo rade konzistentno za 6 meseci skupe 50-100 recenzija i dominiraju lokalnom mapom.
+
+### Lokalni linkovi i citati
+Registracija na srpskim direktorijumima (Halo Oglasi, 011info, lokalni portali), partnerstvo sa auto delovi prodavnicama za uzajamne linkove. Ovo Google-u signalizira da ste realan lokalni biznis.
+
+## Koliko vremena treba da se vide rezultati
+
+Za lokalni SEO autoservisa, prvi vidljivi pomaci na Google mapi su najcesce za 4-8 nedelja (sa aktivnim radom na GBP-u i recenzijama). Za organski saobracaj sa sajta, realan rok je 3-6 meseci.
+
+Ako vam treba saobracaj odmah dok SEO radi u pozadini, kombinacija sa placenim oglasima je najefikasnija. Za orijentir pogledaj [Google reklame cena](/google-reklame-cena) i nasu analizu troskova za [Google Ads za autoservise](/blog/google-ads-za-autoservise-cena-leada-srbija-2026).
+
+## Gde autoservisi najcesce gube novac na SEO
+
+### 1) Placaju nekoga da "pise tekstove" bez lokalne strategije
+Blog post o "5 znakova da vam trebaju nove kocnice" nece rangirati ako sajt nema osnovnu tehnicku strukturu i lokalne signale. Sadrzaj bez temelja je bacen novac.
+
+### 2) Ignorisu Google mapu i fokusiraju se samo na sajt
+Za lokalni biznis poput autoservisa, Google mapa cesto donosi 3-5x vise poziva nego organski rezultati. Ako birate jedno, birajte mapu.
+
+### 3) Nemaju sistem za recenzije
+Servis sa 12 recenzija i prosekom 4.9 gubi od servisa sa 87 recenzija i prosekom 4.6. Volumen recenzija je jaci signal od prosecne ocene (iznad 4.0).
+
+## Plan za prvih 90 dana
+
+- **Mesec 1:** GBP kompletna optimizacija, sistem za recenzije, osnovna on-page optimizacija sajta.
+- **Mesec 2:** Kreiranje stranica za svaku uslugu sa lokalnim keyword-ima, registracija na 10-15 direktorijuma.
+- **Mesec 3:** Analiza rezultata, iteracija sadrzaja na osnovu podataka iz Search Console, dodavanje jos fotografija i GBP postova.
+
+Za kompletnu strategiju digitalnog marketinga za vas autoservis, pogledaj i [marketing za autoservise](/marketing-za-autoservise) i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+Ako zelite da procenimo gde vas autoservis trenutno stoji na Google-u i sta konkretno treba da se popravi, javite se preko [kontakt forme](/kontakt).
+`
+  },
+  {
     slug: 'instagram-reklame-za-stomatologe-cena-pacijenta-srbija-2026',
     title: 'Instagram reklame za stomatologe u Srbiji 2026: cena po pacijentu i budzet plan',
     excerpt: 'Koliko kosta Instagram oglas za stomatolosku ordinaciju u Srbiji 2026. Realni CPC, CPL i budzet rasponi za zakazivanje novih pacijenata.',
@@ -16257,6 +16328,7 @@ export const blogPosts = rawBlogPosts.filter((post) => {
   seenSlugs.add(post.slug)
   return true
 })
+
 
 
 

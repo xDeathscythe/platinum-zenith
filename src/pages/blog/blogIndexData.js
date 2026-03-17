@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "seo-za-autoservise-cena-srbija-2026",
+    "title": "SEO za autoservise u Srbiji 2026: cena, rokovi i sta donosi nove musterije",
+    "excerpt": "Koliko kosta SEO optimizacija za autoservis u Srbiji 2026. Realni rasponi cena, sta ulazi u uslugu i kako Google mapa postaje vas najjaci kanal za nove klijente.",
+    "date": "2026-03-17",
+    "category": "SEO",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "instagram-reklame-za-stomatologe-cena-pacijenta-srbija-2026",
     "title": "Instagram reklame za stomatologe u Srbiji 2026: cena po pacijentu i budzet plan",
     "excerpt": "Koliko kosta Instagram oglas za stomatolosku ordinaciju u Srbiji 2026. Realni CPC, CPL i budzet rasponi za zakazivanje novih pacijenata.",
