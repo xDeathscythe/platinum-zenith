@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "social-media-strategija-za-male-firme-srbija-2026",
+    "title": "Social media strategija za male firme u Srbiji 2026: koje mreze, koliko cesto i sta postati",
+    "excerpt": "Prakticna social media strategija za male firme u Srbiji 2026. Koje platforme biriti, optimalna ucestalost objava i tipovi sadrzaja koji donose rezultate.",
+    "date": "2026-03-17",
+    "category": "Social Media",
+    "readTime": "9 min",
+    "isDraft": false
+  },
+  {
     "slug": "video-marketing-za-male-firme-srbija-2026",
     "title": "Video marketing za male firme u Srbiji 2026: budzet, alati i strategija bez velikog tima",
     "excerpt": "Kako male firme u Srbiji koriste video marketing 2026. Realni budzeti, alati za snimanje i montazu, platforme i tipovi videa koji donose rezultate.",
