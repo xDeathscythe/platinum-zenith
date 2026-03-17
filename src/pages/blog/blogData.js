@@ -14207,6 +14207,141 @@ Ako hoces, mogu da uradim brz audit tvoje kampanje i oznacim 3 poteza koji najbr
 `,
   },
   {
+    slug: 'seo-za-restorane-cena-srbija-2026',
+    title: 'SEO za restorane u Srbiji 2026: cena, lokalni SEO i kako do vise rezervacija',
+    excerpt: 'Koliko kosta SEO za restorane u Srbiji 2026, sta realno donosi lokalni SEO za ugostiteljstvo i kako da merite rezultat kroz rezervacije i posete, a ne kroz pozicije.',
+    date: '2026-03-17',
+    category: 'Lokalni SEO',
+    readTime: '10 min',
+    content: `
+## SEO za restorane u Srbiji 2026: kratak odgovor
+
+Ako trazite konkretan raspon za upit **seo za restorane cena**, evo kako to najcesce izgleda na srpskom trzistu u 2026:
+
+- **Osnovni lokalni SEO (jedna lokacija, Google Business, NAP):** 200e-500e mesecno.
+- **Srednji model (lokal + content + on-page + interlinking):** 500e-1.200e mesecno.
+- **Vise lokacija ili agresivniji rast:** 1.200e-2.500e+ mesecno.
+
+Realan benchmark zavisi od grada, broja lokacija i koliko daleko ste od prvih pet rezultata za "restoran [grad]".
+Za siri pregled cena po tipovima usluga, pogledajte i [SEO optimizacija cena](/seo-optimizacija-cena).
+
+## Zasto je SEO za restorane drugaciji od SEO-a za druge biznise
+
+Vecina restorana misli da im treba "par kljucnih reci i to je to". U praksi, ugostiteljski SEO ima specificnosti koje ga odvajaju od standardnog modela:
+
+1. **Lokalni intent dominira.** Skoro svaka pretraga ukljucuje grad ili "blizu mene". Ako niste u Google Maps paketu, praktično ne postojite.
+
+2. **Odluka se donosi brzo.** Korisnik ne istrazuje nedeljama kao kod advokata ili stomatologa. Pretrazuje, gleda recenzije, bira za 2 minuta.
+
+3. **Vizuelni signal je presudan.** Fotografija jela u Google Business profilu moze biti vaznija od cele stranice teksta.
+
+4. **Sezonalnost i timing.** Petak uvece, nedelja rucak, praznici, vruc dan za bascu. SEO treba da hvata ove mikro-momente.
+
+5. **Recenzije su SEO signal.** Google eksplicitno koristi recenzije za rangiranje u lokalnom paketu. Restoran sa 4.6 i 200 recenzija ce rangirati bolje od onog sa 4.9 i 12 recenzija.
+
+## Sta ulazi u cenu SEO-a za restoran
+
+Kada vam neko ponudi "SEO paket za 300 evra", vazno je da znate sta bi zapravo trebalo da bude ukljuceno:
+
+### 1) Google Business optimizacija
+
+Ovo je temelj svega. Profil mora biti kompletan: tacne kategorije (ne samo "restoran" nego i "kafic", "picerija", "organizacija proslava" ako to nudite), radno vreme, fotografije enterijera i jela, meni, specijaliteti.
+
+Redovni Google Posts (dnevni specijal, dogadjaj, nova jela) signaliziraju Google-u da je biznis aktivan. Ovo je besplatno, ali zahteva konzistentnost.
+
+### 2) Lokalni NAP i citati
+
+Ime, adresa, telefon (NAP) moraju biti identicni na sajtu, Google-u, TripAdvisoru, Gastronautu, socijalnim mrezama. Jedna razlika u broju telefona moze da zbuni Google i gurne vas nize.
+
+### 3) On-page SEO sajta
+
+Svaka stranica na sajtu mora imati jasan naslov sa lokacijom: "Italijanski restoran Novi Sad" umesto samo "Dobrodosli". Heading struktura, meta opisi, alt tekst na slikama jela.
+
+HTML meni umesto PDF-a ili slike je obavezan. Google ne moze da procita fotografisani meni, sto znaci da gubite sve pretrage tipa "biftek [grad]" ili "pizza blizu mene cena".
+
+Za tehnicke detalje oko sajta, pogledajte i [izrada sajta za restorane](/blog/izrada-sajta-za-restorane-cena-srbija-2026).
+
+### 4) Content koji hvata realne pretrage gostiju
+
+Blog postovi i stranice koje odgovaraju na konkretne upite:
+- "najbolji restoran za proslavu u [grad]"
+- "restoran sa bastom [grad]"
+- "gde jesti bezglutensku hranu [grad]"
+- "restoran za poslovni rucak [grad]"
+
+Svaki takav tekst je prilika da se pojavite u organskom rezultatu za pretragu koju niko od konkurencije ne cilja.
+
+### 5) Schema markup
+
+Restaurant schema, LocalBusiness, meni markup, recenzije. Ovo pomaze Google-u da razume sta nudite i prikazuje bogat rezultat u pretrazi (zvezdice, cenovni rang, radno vreme).
+
+## Koliko traje da SEO za restoran pocne da daje rezultat
+
+Realna ocekivanja za srpsko trziste:
+
+- **Prvih 30 dana:** tehnicka stabilizacija, Google Business optimizacija, NAP konzistentnost. Rezultat: pojava u lokalnom paketu za nizak-konkurentne upite.
+
+- **60-90 dana:** prvi pomaci na lokalno ciljane pretrage ("restoran za veceru [grad]", "picerija blizu mene"). Vise poziva direktno sa Google-a.
+
+- **4-6 meseci:** stabilan dotok rezervacija i poziva iz organskih izvora. Manje oslanjanje na placene oglase.
+
+Jedina izuzetka: ako je vas Google Business profil potpuno nov, inicijalni period moze biti duzi jer Google treba vremena da izgradi poverenje u lokaciju.
+
+## KPI koji imaju smisla za restoranski SEO
+
+Pozicije su korisne kao indikator, ali nisu krajnji cilj. Pratite:
+
+- **Broj poziva sa Google Business profila** (Google direktno daje ovaj podatak).
+- **Klikovi na rutu do restorana** (koliko ljudi trazilo uputstvo).
+- **Zahtevi za rezervaciju sa sajta** (forma, telefon, online booking).
+- **Procenat novih vs. povratnih gostiju** (ako pratite kroz loyalty ili POS sistem).
+- **Mesecni trend pregleda na Google Maps** (raste ili stagnira).
+
+Tek kada ove brojke rastu mesec za mesecom, mozete reci da SEO radi.
+
+Za siru sliku o [marketingu za restorane](/marketing-za-restorane) i koji kanali imaju smisla pored SEO-a, pogledajte nas vodic.
+
+## Model budzeta koji restoranima obicno funkcionise
+
+Prakticni okvir za 2026:
+
+- **Mesec 1:** kompletna Google Business revizija + on-page osnova na sajtu + NAP audit.
+- **Mesec 2-3:** content cluster za kljucne pretrage gostiju (tip kuhinje + grad + prigoda) + unutrasnje linkovanje.
+- **Mesec 4+:** mesecni odrzavanje profila, novi sadrzaj, pracenje KPI, reakcija na recenzije.
+
+Paralelno, lokalni SEO dobro funkcionise uz [Instagram reklame za restorane](/blog/instagram-reklame-za-restorane-cena-rezervacije-srbija-2026) i [Google Ads za restorane](/blog/google-ads-za-restorane-cena-rezervacije-srbija-2026) za brzi inicijalni dotok gostiju dok SEO efekti sazrevaju.
+
+## Najcesce greske koje podizu troskove bez rezultata
+
+1. **Oslanjanje iskljucivo na Instagram umesto na lokalni SEO.** Instagram je odlican za vizuelni sadrzaj, ali ne hvata ljude koji aktivno pretrazuju gde ce jesti veceras.
+
+2. **PDF meni umesto HTML-a.** Svaki put kad uploadujete skeniran meni, gubite desetine potencijalnih pretraga.
+
+3. **Ignorisanje recenzija.** Neodgovorena negativna recenzija signalizira Google-u i gostima da vam nije stalo.
+
+4. **Isti title tag na svakoj stranici.** "Restoran Bella" na svakoj stranici umesto "Pizza Margherita - Restoran Bella Novi Sad" ne pomaze ni Google-u ni gostu.
+
+5. **Nema stranice za svaki tip dogadjaja koji nudite.** Ako imate baštu, odvojenu salu za proslave, degustacioni meni - svaka od tih usluga zasluzuje svoju stranicu sa relevantnim kljucnim recima.
+
+## Kako da procenite da li je ponuda za restoranski SEO postena
+
+Pre nego sto potpišete ugovor, pitajte:
+
+- Da li je Google Business profil ukljucen ili je "extra"?
+- Koliko novih stranica sadrzaja mesecno dobijate?
+- Kako izgleda mesecni izvestaj i koji KPI se prate?
+- Da li je meni optimizacija (HTML konverzija) ukljucena?
+- Ko odgovara na recenzije i da li je to deo paketa?
+
+Ako ponuda ne pokriva bar lokalni SEO + content + Google Business aktivnost, verovatno placate parcijalan posao koji nece doneti pun rezultat.
+
+## Zakljucak
+
+SEO za restorane u Srbiji 2026 je pre svega lokalni posao: Google Business, recenzije, NAP konzistentnost i sadrzaj koji hvata realne pretrage gostiju. Nije skup, ali zahteva konzistentnost.
+Ako zelite da znate gde vam je najveci prostor za napredak, javite se za besplatan mini audit preko [kontakt forme](/kontakt).
+`,
+  },
+  {
     slug: 'vodjenje-google-ads-kampanja-fee-izbor-partnera-srbija-2026',
     title: 'Vodjenje Google Ads kampanja cena u Srbiji 2026: sta ulazi u fee i kako da izaberes partnera',
     excerpt: 'Koliko realno kosta vodjenje Google Ads kampanja u Srbiji 2026, kada je fiksni fee bolji od procenta budzeta i kako da procenis da li agencija pravi profit ili samo trosi klikove.',

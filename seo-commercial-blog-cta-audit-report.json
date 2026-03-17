@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-17T03:28:35.780Z",
-  "postsChecked": 117,
+  "generatedAt": "2026-03-17T03:59:42.109Z",
+  "postsChecked": 118,
   "issueCount": 0,
   "checked": [
     {
@@ -536,6 +536,11 @@
     {
       "route": "/blog/google-ads-za-restorane-cena-rezervacije-srbija-2026",
       "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/seo-za-restorane-cena-srbija-2026",
+      "serviceHits": 2,
       "hasKontakt": true
     },
     {

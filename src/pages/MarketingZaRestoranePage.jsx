@@ -219,6 +219,7 @@ export default function MarketingZaRestoranePage() {
             <div className="mt-4 flex flex-wrap justify-center gap-3 text-[13px]">
               <Link to="/blog/instagram-reklame-za-restorane-cena-rezervacije-srbija-2026" className="text-ink-3 hover:text-ink transition-colors">Instagram reklame za restorane →</Link>
               <Link to="/blog/google-ads-za-restorane-cena-rezervacije-srbija-2026" className="text-ink-3 hover:text-ink transition-colors">Google Ads za restorane →</Link>
+              <Link to="/blog/seo-za-restorane-cena-srbija-2026" className="text-ink-3 hover:text-ink transition-colors">SEO za restorane →</Link>
               <Link to="/cene-digitalnog-marketinga" className="text-ink-3 hover:text-ink transition-colors">Cene marketinga →</Link>
             </div>
           </div>

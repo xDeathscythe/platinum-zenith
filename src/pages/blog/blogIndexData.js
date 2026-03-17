@@ -1218,6 +1218,15 @@ export const blogIndexPosts = [
     "isDraft": false
   },
   {
+    "slug": "seo-za-restorane-cena-srbija-2026",
+    "title": "SEO za restorane u Srbiji 2026: cena, lokalni SEO i kako do vise rezervacija",
+    "excerpt": "Koliko kosta SEO za restorane u Srbiji 2026, sta realno donosi lokalni SEO za ugostiteljstvo i kako da merite rezultat kroz rezervacije i posete, a ne kroz pozicije.",
+    "date": "2026-03-17",
+    "category": "Lokalni SEO",
+    "readTime": "10 min",
+    "isDraft": false
+  },
+  {
     "slug": "vodjenje-google-ads-kampanja-fee-izbor-partnera-srbija-2026",
     "title": "Vodjenje Google Ads kampanja cena u Srbiji 2026: sta ulazi u fee i kako da izaberes partnera",
     "excerpt": "Koliko realno kosta vodjenje Google Ads kampanja u Srbiji 2026, kada je fiksni fee bolji od procenta budzeta i kako da procenis da li agencija pravi profit ili samo trosi klikove.",
