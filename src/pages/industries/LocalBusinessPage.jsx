@@ -118,6 +118,9 @@ export default function LocalBusinessPage() {
                 <span key={ind} className="text-[13px] text-ink-3 bg-tint px-4 py-2 rounded-full border border-edge-2">{ind}</span>
               ))}
             </div>
+            <p className="text-[14px] text-ink-3 leading-[24px] max-w-[620px] mx-auto mt-5">
+              Ako vodite salon i hocete vise rezervacija umesto samog reach-a, otvorite i <Link to="/marketing-za-frizerske-salone" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">marketing za frizerske salone</Link> za lokalni SEO, Instagram i booking funnel strategiju.
+            </p>
           </Reveal>
         </div>
       </section>

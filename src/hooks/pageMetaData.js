@@ -61,6 +61,11 @@ export const pageMeta = {
     description: 'Digitalni marketing za agencije za nekretnine u Srbiji. Povećajte broj kupaca i prodavaca kroz Google Ads, SEO i Meta kampanje za nekretnine.',
     keywords: 'marketing za nekretnine, agencija za nekretnine marketing, digitalni marketing nekretnine, seo za nekretnine, google oglasi prodaja stanova',
   },
+  '/marketing-za-frizerske-salone': {
+    title: 'Marketing za Frizerske Salone u Srbiji | Platinum Zenith',
+    description: 'Marketing za frizerske salone u Srbiji: lokalni SEO, Instagram, Google Ads i booking funnel koji donose vise rezervacija i manje praznih termina.',
+    keywords: 'marketing za frizerske salone, marketing za frizere, digitalni marketing frizerski salon, instagram reklame frizerski salon, google ads frizerski salon, seo za salon',
+  },
   '/marketing-za-advokate': { title: 'Marketing za Advokate u Srbiji | Platinum Zenith', description: 'Marketing za advokatske kancelarije u Srbiji: SEO, Google Ads, sajt i content strategija koja donosi kvalifikovane upite i stabilan rast klijenata.', keywords: 'marketing za advokate, digitalni marketing advokatska kancelarija, google ads advokat, seo za advokate, sajt za advokatsku kancelariju, marketing pravne usluge' },
   '/marketing-za-stomatologe': { title: 'Marketing za Stomatologe u Srbiji | Platinum Zenith', description: 'Specijalizovani marketing za stomatološke ordinacije: Google Ads, lokalni SEO, sajt i kampanje koje pune kalendar novim pacijentima i povećavaju prihod.', keywords: 'marketing za stomatologe, digitalni marketing stomatologija, google ads stomatolog, seo za stomatologe, sajt za ordinaciju, marketing stomatološka ordinacija' },
   '/marketing-za-restorane': { title: 'Marketing za Restorane | Digitalni Marketing za Ugostiteljstvo | Platinum Zenith', description: 'Marketing za restorane u Srbiji: Google Business, društvene mreže, oglasi i sajt koji povećavaju rezervacije, porudžbine i popunjenost stolova.', keywords: 'marketing za restorane, digitalni marketing ugostiteljstvo, restoran marketing srbija, google business restoran, instagram za restorane, sajt za restoran' },
@@ -857,7 +862,96 @@ export const pageSchemas = {
       }
     ]
   },
-  '/marketing-za-advokate': { "@context": "https://schema.org", "@type": "Service", "name": "Marketing za advokate", "description": "Marketing za advokatske kancelarije kroz SEO, Google Ads, sajt i content strategiju koja donosi kvalifikovane upite.", "url": `${SITE_URL}/marketing-za-advokate`, "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL }, "serviceType": "Legal Services Marketing", "areaServed": { "@type": "Country", "name": "Srbija" }, "hasOfferCatalog": { "@type": "OfferCatalog", "name": "Marketing usluge za advokate", "itemListElement": [ { "@type": "Offer", "name": "SEO za pravne usluge" }, { "@type": "Offer", "name": "Google Ads za advokate" }, { "@type": "Offer", "name": "Sadržaj i lead forma optimizacija" } ] } },
+  '/marketing-za-frizerske-salone': {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": `${SITE_URL}/marketing-za-frizerske-salone#webpage`,
+        "url": `${SITE_URL}/marketing-za-frizerske-salone`,
+        "name": "Marketing za Frizerske Salone u Srbiji | Platinum Zenith",
+        "description": "Marketing za frizerske salone u Srbiji: lokalni SEO, Instagram, Google Ads i booking funnel koji donose vise rezervacija i manje praznih termina.",
+        "isPartOf": { "@id": `${SITE_URL}/#website` },
+        "about": { "@id": `${SITE_URL}/marketing-za-frizerske-salone#service` },
+        "breadcrumb": { "@id": `${SITE_URL}/marketing-za-frizerske-salone#breadcrumb` },
+        "mainEntity": [
+          { "@id": `${SITE_URL}/marketing-za-frizerske-salone#service` },
+          { "@id": `${SITE_URL}/marketing-za-frizerske-salone#faq` }
+        ],
+        "potentialAction": {
+          "@type": "ContactAction",
+          "name": "Zakazite analizu salona",
+          "target": `${SITE_URL}/kontakt`
+        }
+      },
+      {
+        "@type": "Service",
+        "@id": `${SITE_URL}/marketing-za-frizerske-salone#service`,
+        "name": "Marketing za frizerske salone",
+        "serviceType": "Hair salon marketing",
+        "url": `${SITE_URL}/marketing-za-frizerske-salone`,
+        "mainEntityOfPage": { "@id": `${SITE_URL}/marketing-za-frizerske-salone#webpage` },
+        "provider": { "@id": `${SITE_URL}/#organization` },
+        "areaServed": { "@type": "Country", "name": "Srbija" },
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "Marketing usluge za frizerske salone",
+          "itemListElement": [
+            { "@type": "Offer", "name": "Instagram i Meta kampanje za salone" },
+            { "@type": "Offer", "name": "Lokalni SEO i Google Business" },
+            { "@type": "Offer", "name": "Landing i booking funnel optimizacija" }
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": `${SITE_URL}/marketing-za-frizerske-salone#breadcrumb`,
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Pocetna", "item": SITE_URL },
+          { "@type": "ListItem", "position": 2, "name": "Marketing za frizerske salone", "item": `${SITE_URL}/marketing-za-frizerske-salone` }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "@id": `${SITE_URL}/marketing-za-frizerske-salone#faq`,
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Da li su za frizerski salon vazniji Instagram ili Google?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Google hvata ljude koji sada traze salon, dok Instagram gradi zelju, poverenje i vraca ljude koji jos razmisljaju. Najjaci rezultat je obicno kombinacija, ali ne krecemo naslepo na sve odjednom."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Koliko brzo salon moze da vidi vise rezervacija?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ako su ponuda, booking put i lokalni signal dobro postavljeni, prvi kvalitetni upiti mogu da stignu brzo, a realnija slika o ceni rezervacije obicno se vidi kroz prve 3 do 6 nedelja."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Da li salonu treba sajt ako vec ima aktivan Instagram?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Vrlo cesto da. Instagram je dobar za paznju, ali sajt ili landing pomaze da klijent brzo vidi usluge, lokaciju, recenzije i jasan sledeci korak bez lutanja kroz DM poruke."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Koje usluge najcesce prve gurate kod salona?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "To zavisi od cilja i kapaciteta, ali cesto prvo guramo tretmane koji imaju dobru marzu, jak vizuelni efekat i veci lifetime value. Poenta nije da reklamiramo sve, nego ono sto najzdravije puni kalendar."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  '/marketing-za-advokate': { "@context": "https://schema.org", "@type": "Service", "name": "Marketing za advokate", "description": "Marketing za advokatske kancelarije kroz SEO, Google Ads, sajt i content strategija koja donosi kvalifikovane upite.", "url": `${SITE_URL}/marketing-za-advokate`, "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL }, "serviceType": "Legal Services Marketing", "areaServed": { "@type": "Country", "name": "Srbija" }, "hasOfferCatalog": { "@type": "OfferCatalog", "name": "Marketing usluge za advokate", "itemListElement": [ { "@type": "Offer", "name": "SEO za pravne usluge" }, { "@type": "Offer", "name": "Google Ads za advokate" }, { "@type": "Offer", "name": "Sadržaj i lead forma optimizacija" } ] } },
   '/marketing-za-stomatologe': { "@context": "https://schema.org", "@type": "Service", "name": "Marketing za stomatologe", "description": "Marketing za stomatološke ordinacije kroz Google Ads, lokalni SEO, sajt i kampanje koje pune kalendar novim pacijentima.", "url": `${SITE_URL}/marketing-za-stomatologe`, "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL }, "serviceType": "Dental Marketing", "areaServed": { "@type": "Country", "name": "Srbija" }, "hasOfferCatalog": { "@type": "OfferCatalog", "name": "Marketing usluge za stomatologe", "itemListElement": [ { "@type": "Offer", "name": "Google Ads za ordinacije" }, { "@type": "Offer", "name": "Lokalni SEO za ordinacije" }, { "@type": "Offer", "name": "Lead funnel optimizacija" } ] } },
   '/web-shop-nema-prodaju': {
     "@context": "https://schema.org",

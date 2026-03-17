@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-03-16T09:04:21.898Z",
-  "compressedChunkCount": 66,
+  "generatedAt": "2026-03-16T13:37:06.787Z",
+  "compressedChunkCount": 67,
   "publicBlogCount": 142,
   "blogDataBrotliBudgetKb": 241,
   "checks": [
     {
       "label": "index JS (brotli)",
-      "file": "index-BNRXXYKA.js.br",
-      "sizeKb": 13.64,
+      "file": "index-CwwOk_Jr.js.br",
+      "sizeKb": 13.67,
       "maxKb": 15
     },
     {
@@ -36,8 +36,8 @@
     },
     {
       "label": "main CSS (brotli)",
-      "file": "index-Clg_k4H4.css.br",
-      "sizeKb": 13.65,
+      "file": "index-aO1Ojrb1.css.br",
+      "sizeKb": 13.76,
       "maxKb": 15
     }
   ],

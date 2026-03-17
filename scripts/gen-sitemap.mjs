@@ -47,6 +47,7 @@ const HIGH_PRIORITY_PATHS = new Set([
   '/marketing-za-advokate',
   '/marketing-za-stomatologe',
   '/marketing-za-restorane',
+  '/marketing-za-frizerske-salone',
   '/in-house-tim-vs-agencija',
   '/fiksna-naknada-vs-revenue-share',
   '/facebook-oglasi-ne-rade',

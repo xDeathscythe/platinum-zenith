@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-03-16T09:04:23.755Z",
-  "jsChunkCount": 65,
+  "generatedAt": "2026-03-16T13:37:08.669Z",
+  "jsChunkCount": 66,
   "publicBlogCount": 142,
   "blogDataBudgetKb": 781,
-  "criticalTotalKb": 405.17,
+  "criticalTotalKb": 405.39,
   "criticalBudgetKb": 460,
   "checks": [
     {
       "label": "index chunk",
-      "file": "index-BNRXXYKA.js",
-      "sizeKb": 53.07,
+      "file": "index-CwwOk_Jr.js",
+      "sizeKb": 53.29,
       "maxKb": 70
     },
     {

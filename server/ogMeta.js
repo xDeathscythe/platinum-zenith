@@ -462,6 +462,22 @@ const SERVER_ROUTE_SCHEMAS = {
       url: SITE_URL,
     },
   },
+  '/marketing-za-frizerske-salone': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Marketing za frizerske salone',
+    serviceType: 'Hair salon marketing',
+    url: `${SITE_URL}/marketing-za-frizerske-salone`,
+    areaServed: {
+      '@type': 'Country',
+      name: 'Srbija',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
   '/marketing-za-advokate': {
     '@context': 'https://schema.org',
     '@type': 'Service',
@@ -927,6 +943,10 @@ const ogMeta = {
     title: 'Marketing za Agencije za Nekretnine | Platinum Zenith',
     description: 'Digitalni marketing za agencije za nekretnine u Srbiji. Povećajte broj kupaca i prodavaca kroz Google Ads, SEO i Meta kampanje za nekretnine.',
   },
+  '/marketing-za-frizerske-salone': {
+    title: 'Marketing za Frizerske Salone u Srbiji | Platinum Zenith',
+    description: 'Marketing za frizerske salone u Srbiji: lokalni SEO, Instagram, Google Ads i booking funnel koji donose vise rezervacija i manje praznih termina.',
+  },
   '/marketing-za-advokate': {
     title: 'Marketing za Advokate u Srbiji | Platinum Zenith',
     description: 'Marketing za advokatske kancelarije u Srbiji: SEO, Google Ads, sajt i content strategija koja donosi kvalifikovane upite i stabilan rast klijenata.',
@@ -1075,6 +1095,24 @@ const serverFaqByPath = {
     {
       q: 'Koliko traje SEO za agenciju za nekretnine?',
       a: 'Lokalni SEO može pokazati prve rezultate za nekoliko nedelja na nivou grada, dok nacionalne pretrage zahtevaju više meseci rada.',
+    },
+  ],
+  '/marketing-za-frizerske-salone': [
+    {
+      q: 'Da li su za frizerski salon vazniji Instagram ili Google?',
+      a: 'Google hvata ljude koji sada traze salon, dok Instagram gradi zelju, poverenje i vraca ljude koji jos razmisljaju. Najjaci rezultat je obicno kombinacija, ali ne krecemo naslepo na sve odjednom.',
+    },
+    {
+      q: 'Koliko brzo salon moze da vidi vise rezervacija?',
+      a: 'Ako su ponuda, booking put i lokalni signal dobro postavljeni, prvi kvalitetni upiti mogu da stignu brzo, a realnija slika o ceni rezervacije obicno se vidi kroz prve 3 do 6 nedelja.',
+    },
+    {
+      q: 'Da li salonu treba sajt ako vec ima aktivan Instagram?',
+      a: 'Vrlo cesto da. Instagram je dobar za paznju, ali sajt ili landing pomaze da klijent brzo vidi usluge, lokaciju, recenzije i jasan sledeci korak bez lutanja kroz DM poruke.',
+    },
+    {
+      q: 'Koje usluge najcesce prve gurate kod salona?',
+      a: 'To zavisi od cilja i kapaciteta, ali cesto prvo guramo tretmane koji imaju dobru marzu, jak vizuelni efekat i veci lifetime value. Poenta nije da reklamiramo sve, nego ono sto najzdravije puni kalendar.',
     },
   ],
   '/marketing-za-advokate': [
