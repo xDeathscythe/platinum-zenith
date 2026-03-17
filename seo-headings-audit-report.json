@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-17T04:58:18.335Z",
-  "routesChecked": 42,
+  "generatedAt": "2026-03-17T05:59:04.778Z",
+  "routesChecked": 43,
   "issueCount": 0,
   "checked": [
     {
@@ -910,6 +910,29 @@
       "route": "/marketing-za-kozmeticke-salone",
       "component": "MarketingZaKozmetickeSalonePage",
       "file": "src\\pages\\MarketingZaKozmetickeSalonePage.jsx",
+      "sequence": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 7,
+        "h3": 2,
+        "total": 10
+      }
+    },
+    {
+      "route": "/marketing-za-teretane",
+      "component": "MarketingZaTeretanePage",
+      "file": "src\\pages\\MarketingZaTeretanePage.jsx",
       "sequence": [
         1,
         2,

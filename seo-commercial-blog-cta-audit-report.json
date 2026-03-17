@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-03-17T04:58:20.887Z",
-  "postsChecked": 120,
+  "generatedAt": "2026-03-17T05:59:07.318Z",
+  "postsChecked": 122,
   "issueCount": 0,
   "checked": [
+    {
+      "route": "/blog/instagram-reklame-za-stomatologe-cena-pacijenta-srbija-2026",
+      "serviceHits": 5,
+      "hasKontakt": true
+    },
     {
       "route": "/blog/izrada-sajta-za-restorane-cena-srbija-2026",
       "serviceHits": 7,
@@ -601,6 +606,11 @@
     {
       "route": "/blog/seo-za-kozmeticke-salone-cena-srbija-2026",
       "serviceHits": 5,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/instagram-reklame-za-teretane-cena-upisa-srbija-2026",
+      "serviceHits": 4,
       "hasKontakt": true
     }
   ],

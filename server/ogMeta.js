@@ -510,6 +510,22 @@ const SERVER_ROUTE_SCHEMAS = {
       url: SITE_URL,
     },
   },
+  '/marketing-za-teretane': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Marketing za teretane i fitnes studije',
+    serviceType: 'Gym and fitness marketing',
+    url: `${SITE_URL}/marketing-za-teretane`,
+    areaServed: {
+      '@type': 'Country',
+      name: 'Srbija',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
   '/marketing-za-advokate': {
     '@context': 'https://schema.org',
     '@type': 'Service',
@@ -987,6 +1003,10 @@ const ogMeta = {
     title: 'Marketing za Kozmeticke Salone u Srbiji | Platinum Zenith',
     description: 'Marketing za kozmeticke salone u Srbiji: lokalni SEO, Instagram, Google Ads i booking funnel koji donose vise zakazivanja i manje praznih termina.',
   },
+  '/marketing-za-teretane': {
+    title: 'Marketing za Teretane i Fitnes Studije u Srbiji | Platinum Zenith',
+    description: 'Marketing za teretane i fitnes studije u Srbiji: lokalni SEO, Google Ads, Instagram kampanje i retencija koji pune salu i zadrzavaju clanove.',
+  },
   '/marketing-za-advokate': {
     title: 'Marketing za Advokate u Srbiji | Platinum Zenith',
     description: 'Marketing za advokatske kancelarije u Srbiji: SEO, Google Ads, sajt i content strategija koja donosi kvalifikovane upite i stabilan rast klijenata.',
@@ -1189,6 +1209,28 @@ const serverFaqByPath = {
     {
       q: 'Koliki budzet treba za pocetak?',
       a: 'Za Google Ads u kozmetici, realan start je 250 do 500 evra mesecno za ad spend, plus fee za vodjenje kampanje. Za Instagram, slican raspon moze da donese prve rezultate ako je kreativa i ponuda dobro postavljena.',
+    },
+  ],
+  '/marketing-za-teretane': [
+    {
+      q: 'Da li teretani vise odgovara Google ili Instagram marketing?',
+      a: 'Google hvata ljude koji aktivno traze teretanu u svom kraju i spremni su da se upisu. Instagram gradi zelju, pokazuje atmosferu i vraca ljude koji razmisljaju. Najbolji rezultat dolazi kada oba kanala rade zajedno.',
+    },
+    {
+      q: 'Koliko brzo mogu da ocekujem nove clanove?',
+      a: 'Ako su ponuda i landing dobro postavljeni, prvi upiti za probni trening mogu doci vec u prvoj nedelji kampanje. Stabilnija slika o ceni po clanu i kvalitetu upisa obicno se vidi kroz 4 do 8 nedelja.',
+    },
+    {
+      q: 'Koji budzet je realan za pocetak?',
+      a: 'Za Meta kampanje, realan start je 300 do 600 evra mesecno za ad spend, plus fee za vodjenje. Za Google Ads u fitnes industriji, slican raspon moze dati rezultate u lokalnom krugu.',
+    },
+    {
+      q: 'Kako da zadrzim clanove, ne samo da upisem nove?',
+      a: 'Retencija pocinje od onboarding iskustva: prvi trening, follow-up poruka, raspored. Marketing pomaze kroz automatizovane email/SMS sekvence, loyalty ponude i win-back kampanje za neaktivne clanove.',
+    },
+    {
+      q: 'Da li radite i za male studije, ne samo za velike sale?',
+      a: 'Da. Pilates studio, yoga sala, CrossFit box i boutique gym zahtevaju prilagodjen pristup jer zive od manjeg broja premium clanova, ali principi lokalnog marketinga su isti.',
     },
   ],
   '/marketing-za-advokate': [

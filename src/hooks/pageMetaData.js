@@ -76,6 +76,11 @@ export const pageMeta = {
     description: 'Marketing za kozmeticke salone u Srbiji: lokalni SEO, Instagram, Google Ads i booking funnel koji donose vise zakazivanja i manje praznih termina.',
     keywords: 'marketing za kozmeticke salone, marketing za kozmeticki salon, digitalni marketing kozmeticki salon, instagram reklame kozmeticki salon, google ads kozmeticki salon, seo za salon',
   },
+  '/marketing-za-teretane': {
+    title: 'Marketing za Teretane i Fitnes Studije u Srbiji | Platinum Zenith',
+    description: 'Marketing za teretane i fitnes studije u Srbiji: lokalni SEO, Google Ads, Instagram kampanje i retencija koji pune salu i zadrzavaju clanove.',
+    keywords: 'marketing za teretane, marketing za fitnes, digitalni marketing teretana, google ads teretana, instagram reklame fitnes, seo za teretanu, marketing fitnes studio',
+  },
   '/marketing-za-advokate': { title: 'Marketing za Advokate u Srbiji | Platinum Zenith', description: 'Marketing za advokatske kancelarije u Srbiji: SEO, Google Ads, sajt i content strategija koja donosi kvalifikovane upite i stabilan rast klijenata.', keywords: 'marketing za advokate, digitalni marketing advokatska kancelarija, google ads advokat, seo za advokate, sajt za advokatsku kancelariju, marketing pravne usluge' },
   '/marketing-za-stomatologe': { title: 'Marketing za Stomatologe u Srbiji | Platinum Zenith', description: 'Specijalizovani marketing za stomatološke ordinacije: Google Ads, lokalni SEO, sajt i kampanje koje pune kalendar novim pacijentima i povećavaju prihod.', keywords: 'marketing za stomatologe, digitalni marketing stomatologija, google ads stomatolog, seo za stomatologe, sajt za ordinaciju, marketing stomatološka ordinacija' },
   '/marketing-za-restorane': { title: 'Marketing za Restorane | Digitalni Marketing za Ugostiteljstvo | Platinum Zenith', description: 'Marketing za restorane u Srbiji: Google Business, društvene mreže, oglasi i sajt koji povećavaju rezervacije, porudžbine i popunjenost stolova.', keywords: 'marketing za restorane, digitalni marketing ugostiteljstvo, restoran marketing srbija, google business restoran, instagram za restorane, sajt za restoran' },
@@ -1045,6 +1050,104 @@ export const pageSchemas = {
             "acceptedAnswer": {
               "@type": "Answer",
               "text": "Za Google Ads u kozmetici, realan start je 250 do 500 evra mesecno za ad spend, plus fee za vodjenje kampanje. Za Instagram, slican raspon moze da donese prve rezultate ako je kreativa i ponuda dobro postavljena."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  '/marketing-za-teretane': {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": `${SITE_URL}/marketing-za-teretane#webpage`,
+        "url": `${SITE_URL}/marketing-za-teretane`,
+        "name": "Marketing za Teretane i Fitnes Studije u Srbiji | Platinum Zenith",
+        "description": "Marketing za teretane i fitnes studije u Srbiji: lokalni SEO, Google Ads, Instagram kampanje i retencija koji pune salu i zadrzavaju clanove.",
+        "isPartOf": { "@id": `${SITE_URL}/#website` },
+        "about": { "@id": `${SITE_URL}/marketing-za-teretane#service` },
+        "breadcrumb": { "@id": `${SITE_URL}/marketing-za-teretane#breadcrumb` },
+        "mainEntity": [
+          { "@id": `${SITE_URL}/marketing-za-teretane#service` },
+          { "@id": `${SITE_URL}/marketing-za-teretane#faq` }
+        ],
+        "potentialAction": {
+          "@type": "ContactAction",
+          "name": "Zakazite analizu sale",
+          "target": `${SITE_URL}/kontakt`
+        }
+      },
+      {
+        "@type": "Service",
+        "@id": `${SITE_URL}/marketing-za-teretane#service`,
+        "name": "Marketing za teretane i fitnes studije",
+        "serviceType": "Gym and fitness marketing",
+        "url": `${SITE_URL}/marketing-za-teretane`,
+        "mainEntityOfPage": { "@id": `${SITE_URL}/marketing-za-teretane#webpage` },
+        "provider": { "@id": `${SITE_URL}/#organization` },
+        "areaServed": { "@type": "Country", "name": "Srbija" },
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "Marketing usluge za teretane i fitnes studije",
+          "itemListElement": [
+            { "@type": "Offer", "name": "Google Ads za teretane i fitnes centre" },
+            { "@type": "Offer", "name": "Instagram i Meta kampanje za upis clanova" },
+            { "@type": "Offer", "name": "Lokalni SEO i Google Business" },
+            { "@type": "Offer", "name": "Retencija i win-back kampanje" }
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": `${SITE_URL}/marketing-za-teretane#breadcrumb`,
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Pocetna", "item": SITE_URL },
+          { "@type": "ListItem", "position": 2, "name": "Marketing za teretane", "item": `${SITE_URL}/marketing-za-teretane` }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "@id": `${SITE_URL}/marketing-za-teretane#faq`,
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Da li teretani vise odgovara Google ili Instagram marketing?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Google hvata ljude koji aktivno traze teretanu u svom kraju i spremni su da se upisu. Instagram gradi zelju, pokazuje atmosferu i vraca ljude koji razmisljaju. Najbolji rezultat dolazi kada oba kanala rade zajedno."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Koliko brzo mogu da ocekujem nove clanove?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ako su ponuda i landing dobro postavljeni, prvi upiti za probni trening mogu doci vec u prvoj nedelji kampanje. Stabilnija slika o ceni po clanu i kvalitetu upisa obicno se vidi kroz 4 do 8 nedelja."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Koji budzet je realan za pocetak?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Za Meta kampanje, realan start je 300 do 600 evra mesecno za ad spend, plus fee za vodjenje. Za Google Ads u fitnes industriji, slican raspon moze dati rezultate u lokalnom krugu."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Kako da zadrzim clanove, ne samo da upisem nove?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Retencija pocinje od onboarding iskustva: prvi trening, follow-up poruka, raspored. Marketing pomaze kroz automatizovane email/SMS sekvence, loyalty ponude i win-back kampanje za neaktivne clanove."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Da li radite i za male studije, ne samo za velike sale?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Da. Pilates studio, yoga sala, CrossFit box i boutique gym zahtevaju prilagodjen pristup jer zive od manjeg broja premium clanova, ali principi lokalnog marketinga su isti."
             }
           }
         ]

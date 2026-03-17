@@ -1342,5 +1342,14 @@ export const blogIndexPosts = [
     "category": "Lokalni SEO",
     "readTime": "10 min",
     "isDraft": false
+  },
+  {
+    "slug": "instagram-reklame-za-teretane-cena-upisa-srbija-2026",
+    "title": "Instagram reklame za teretane u Srbiji 2026: cena upisa, budzet i kako popuniti salu",
+    "excerpt": "Koliko kostaju Instagram reklame za teretane i fitnes studije u Srbiji 2026, koji budzet ima smisla i kako da dovedete clanove koji zapravo ostaju duze od januara.",
+    "date": "2026-03-17",
+    "category": "Instagram Ads",
+    "readTime": "10 min",
+    "isDraft": false
   }
 ]
