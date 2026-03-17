@@ -108,6 +108,14 @@ export const pageMeta = {
     og: { title: 'Marketing za Privatne Klinike u Srbiji | Platinum Zenith', description: 'Marketing za privatne klinike u Srbiji: Google Ads po specijalizaciji, lokalni SEO, sajt za zakazivanje i remarketing koji dovodi pacijente sa pravom namerom.' },
     twitter: { title: 'Marketing za Privatne Klinike u Srbiji | Platinum Zenith', description: 'Marketing za privatne klinike u Srbiji: Google Ads po specijalizaciji, lokalni SEO, sajt za zakazivanje i remarketing koji dovodi pacijente sa pravom namerom.' },
   },
+  '/marketing-za-privatne-vrtice': {
+    robots: 'index, follow',
+    title: 'Marketing za Privatne Vrtice u Srbiji | Platinum Zenith',
+    description: 'Marketing za privatne vrtice u Srbiji: lokalni SEO, Google Ads, Instagram kampanje i sajt koji popunjavaju grupe kvalitetnim upisima tokom cele godine.',
+    keywords: 'marketing za privatne vrtice, marketing za vrtic, digitalni marketing vrtic, google ads privatni vrtic, instagram vrtic, seo za vrtic, upis u vrtic reklame',
+    og: { title: 'Marketing za Privatne Vrtice u Srbiji | Platinum Zenith', description: 'Marketing za privatne vrtice u Srbiji: lokalni SEO, Google Ads, Instagram kampanje i sajt koji popunjavaju grupe kvalitetnim upisima tokom cele godine.' },
+    twitter: { title: 'Marketing za Privatne Vrtice u Srbiji | Platinum Zenith', description: 'Marketing za privatne vrtice u Srbiji: lokalni SEO, Google Ads, Instagram kampanje i sajt koji popunjavaju grupe kvalitetnim upisima tokom cele godine.' },
+  },
 }
 
 export const orgSchema = {

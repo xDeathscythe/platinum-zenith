@@ -17399,6 +17399,152 @@ Kljuc je pristup koji spaja tehnicku optimizaciju sa realnim medicinskim autorit
 Ako zelite brzu analizu vaseg sajta i Google Business profila sa 3 konkretna koraka za vise zakazanih termina, javite se preko [kontakt forme](/kontakt).
 `,
   },
+  {
+    slug: 'google-ads-za-kozmeticki-salon-cena-termina-srbija-2026',
+    title: 'Google Ads za kozmeticke salone u Srbiji 2026: cena termina, budzet i strategija',
+    excerpt: 'Koliko kostaju Google reklame za kozmeticke salone u Srbiji 2026, koji budzet ima smisla i kako da dovedete klijente koji vec traze vas tip tretmana.',
+    date: '2026-03-17',
+    category: 'Marketing',
+    readTime: 9,
+    content: `
+## Google Ads za kozmeticke salone: kratak odgovor
+
+Ako trazite upit **google ads za kozmeticki salon cena**, evo prakticnog okvira za srpsko trziste 2026:
+
+- **CPC (cena po kliku):** 0,07e - 0,45e za lokalne search termine
+- **Cena zakazanog termina:** 4e - 18e zavisno od tretmana i lokacije
+- **Minimalni mesecni budzet za pouzdan test:** 150e - 350e
+- **Break-even:** najcesce posle 2-4 nedelje kad se kampanja optimizuje
+
+Za siri kontekst o cenama digitalnog oglasavanja, pogledajte [Google reklame cena](/google-reklame-cena).
+
+## Zasto Google Ads radi za kozmeticke salone
+
+Instagram gradi zelju i vizuelnu privlacnost. Google hvata ljude koji **vec traze resenje** za konkretan problem.
+
+Kada neko kuca "kozmeticki salon tretman lica Beograd" ili "depilacija cena Novi Sad", ta osoba ne razgleda inspiraciju. Ona trazi gde da ode i zavrsi posao. Ako se vas salon ne pojavljuje, termin ide konkurenciji.
+
+Klik sa Google pretrage konvertuje 3 do 5 puta bolje nego nasumicni klik sa drustvenih mreza. Razlog je jednostavan: intent je jaci.
+
+Za celokupnu strategiju i poredjenje kanala, pogledajte nas vodic za [marketing za kozmeticke salone](/marketing-za-kozmeticke-salone).
+
+## Koje kampanje imaju smisla za kozmeticki salon
+
+Ne treba vam 10 kampanja. Treba vam 2-4 koje pokrivaju razlicite namere i vrednosti usluga:
+
+### 1. Search kampanja za lokalne upite
+
+Ovo je osnova. Hvata ljude koji traze salon u svom kraju, danas ili ove nedelje.
+
+Kljucne reci koje najcesce donose termine:
+- "kozmeticki salon [grad/naselje]"
+- "depilacija [grad] cena"
+- "tretman lica [grad]"
+- "ciscenje lica [grad]"
+- "manikir pedikir [grad]"
+
+Negativne kljucne reci su obavezne. Iskljucite "kurs", "skola", "posao", "zaposlenje", "besplatno" — ovi upiti trose budzet bez ijednog zakazivanja.
+
+### 2. Kampanja za premium tretmane
+
+Usluge sa vecom marzom zasluzuju posebnu kampanju sa posebnom landing stranicom:
+- Hemijski piling, mikronidling
+- Mezoterapija lica
+- Laser tretmani (uklanjanje kapilara, podmladjivanje)
+- Anti-age paketi
+- Trajno uklanjanje dlaka
+
+CPC je ovde visi (0,25e - 0,65e), ali jedan premium termin vredi 80e - 300e+. ROI je daleko bolji nego za bazicne usluge.
+
+### 3. Sezonske kampanje
+
+Pred maturske, vencanja, praznike, leto. Ove kampanje palite 4-6 nedelja pre sezone i gasite kad prodje.
+
+Sezonski intent je jak i ljudi zakazu brzo. Konkurencija cesto kasni sa pripremom, pa rani start daje prednost.
+
+### 4. Remarketing
+
+Posetioci koji su vec bili na vasem sajtu ali nisu zakazali. Mali budzet (50e-100e/mesecno), visoka konverzija jer im je salon vec poznat.
+
+## Landing stranica: gde vecina salona gubi novac
+
+Google moze da dovede klikove, ali ako klik vodi na Instagram profil, homepage bez jasnog poziva na akciju ili stranicu koja se sporo ucitava, budzet je bacen.
+
+Sta landing stranica za kozmeticki salon mora da ima:
+
+- **Dugme za zakazivanje ili poziv** iznad prevoja na mobilnom
+- **Fotografije vaseg prostora i rada**, ne stock slike
+- **Cene ili cenovni raspon** za usluge koje reklamirate
+- **Google recenzije** ugradjene na stranicu
+- **Lokacija i radno vreme** odmah vidljivi
+- **Sertifikati i aparati** koje koristite (poverenje)
+
+Ako nemate sajt ili vas trenutni sajt ne konvertuje, pogledajte [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena) za realan okvir troskova.
+
+## Koliko realno kosta Google Ads za kozmeticki salon mesecno
+
+| Velicina salona | Mesecni budzet | Ocekivani termini | Cena po terminu |
+|---|---|---|---|
+| Mali salon (1-2 radna mesta) | 150e - 300e | 12 - 35 | 6e - 15e |
+| Srednji salon (3-5 radnih mesta) | 300e - 600e | 30 - 80 | 5e - 12e |
+| Premium salon / vise lokacija | 600e - 1.800e | 70 - 220+ | 4e - 9e |
+
+Ovi brojevi pretpostavljaju optimizovanu landing stranicu i salon sa minimum 10+ Google recenzija i ocenom 4.5+.
+
+Za poredjenje troskova sa organskim pristupom, koristan je vodic o [SEO optimizacija cena](/seo-optimizacija-cena).
+
+## Google Business profil: obavezan saveznik uz Ads
+
+Google Business profil je za kozmeticke salone cesto vredniji od samog sajta:
+
+- Pojavljuje se u mapi sa recenzijama, slikama i direktnim pozivom
+- Prikazuje radno vreme, lokaciju i sve usluge
+- Besplatan je, a Google ga preferira za lokalne upite
+- Local Service Ads (LSA) zahtevaju aktivan GMB
+
+Pre pokretanja kampanje: dodajte sve usluge sa cenama, postavite kvalitetne fotografije salona, aparata i radova, i aktivno trazite recenzije od zadovoljnih klijenata.
+
+## Tracking: bez merenja nema optimizacije
+
+Minimalan tracking setup za salon:
+
+1. **Google Ads conversion tracking** na zakazivanje ili kontakt formu
+2. **Call tracking** za telefonske termine (u beauty segmentu 40-60% zakazivanja ide telefonom)
+3. **Google Analytics 4** za ponasanje na sajtu
+
+Bez ovoga ne znate koji kljucni termin donosi termin, a koji samo trosi budzet. Vise o merenju rezultata u nasem vodivu za [KPI i ROI marketing](/blog/kako-meriti-roi-marketinga-kpi-vodic).
+
+## Google Ads vs Instagram za kozmeticke salone
+
+| | Google Ads | Instagram |
+|---|---|---|
+| Tip publike | Ljudi koji traze konkretan tretman | Ljudi koji se inspirisu vizuelno |
+| Brzina rezultata | Termin moze doci prvog dana | Gradi se publika tokom nedelja |
+| Najbolje za | Lokalni intent, premium tretmani, hitne potrebe | Vizuelni wow efekat, pre/posle rezultati, branding |
+| Mana | Ogranicen volumen kljucnih reci | Nizi intent, duzi put do zakazivanja |
+
+Najbolji rezultat je kombinacija: Google Ads hvata ljude sa jasnom namerom, Instagram gradi zelju i poverenje. Vise o Instagram pristupu u nasem clanku o [Instagram reklamama za kozmeticke salone](/blog/instagram-reklame-za-kozmeticke-salone-cena-termina-srbija-2026).
+
+Za siru sliku o tome [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama) i gde se uklapa u miks kanala, pogledajte detaljan cenovnik.
+
+## Ceste greske kozmetickih salona na Google Ads
+
+1. **Jedna kampanja za sve usluge.** Depilacija i mezoterapija nemaju istu publiku ni istu vrednost. Razdvojite ih.
+2. **Nema negativnih kljucnih reci.** Bez toga placate klikove od ljudi koji traze "kozmeticki kurs" ili "posao u salonu".
+3. **Oglas vodi na Instagram.** Google reklama mora da vodi na stranicu sa jasnim pozivom na akciju, ne na drustvenu mrezu.
+4. **Nema pracenja poziva.** U beauty industriji velik procenat zakazivanja dolazi telefonom. Ako ne pratite pozive, ne znate sta radi.
+5. **Odustaju posle nedelju dana.** Google Ads treba 2-3 nedelje za optimizaciju. Pravi ROI se vidi posle mesec dana doslednog rada.
+6. **Ne koriste lokacijske ekstenzije.** Za salon gde lokacija igra kljucnu ulogu, lokacijske i callout ekstenzije podizu CTR za 15-25%.
+
+## Zakljucak
+
+Google Ads za kozmeticke salone u Srbiji 2026 je jedan od najbrze isplativih kanala kada se pravilno postavi. Kljuc je razdvajanje kampanja po tipu tretmana, kvalitetna landing stranica sa jasnim CTA-om i dosledno pracenje cene po zakazanom terminu.
+
+Za celokupnu strategiju digitalnog marketinga za kozmeticke salone, pogledajte i nas vodic za [SEO za kozmeticke salone](/blog/seo-za-kozmeticke-salone-cena-srbija-2026) i [Instagram reklame za kozmeticke salone](/blog/instagram-reklame-za-kozmeticke-salone-cena-termina-srbija-2026).
+
+Ako zelite da proverite da li Google Ads ima smisla za vas salon ili vam treba pomoc sa postavkom, javite se preko [kontakt forme](/kontakt).
+`,
+  },
 ]
 
 const seenSlugs = new Set()

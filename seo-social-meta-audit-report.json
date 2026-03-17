@@ -1,11 +1,13 @@
 {
-  "generatedAt": "2026-03-17T12:02:46.382Z",
-  "staticRoutesChecked": 46,
-  "blogRoutesChecked": 159,
+  "generatedAt": "2026-03-17T12:59:23.346Z",
+  "staticRoutesChecked": 47,
+  "blogRoutesChecked": 160,
   "draftRoutesChecked": 1,
-  "routesChecked": 206,
-  "issueCount": 0,
+  "routesChecked": 208,
+  "issueCount": 1,
   "warningCount": 0,
-  "issues": [],
+  "issues": [
+    "/marketing-za-privatne-vrtice: twitter:description differs from og:description"
+  ],
   "warnings": []
 }
