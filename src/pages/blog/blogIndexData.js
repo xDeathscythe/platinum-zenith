@@ -1288,5 +1288,14 @@ export const blogIndexPosts = [
     "category": "Google Ads",
     "readTime": "11 min",
     "isDraft": false
+  },
+  {
+    "slug": "instagram-marketing-za-frizerske-salone-srbija-2026",
+    "title": "Instagram marketing za frizerske salone u Srbiji 2026: kako popuniti termine",
+    "excerpt": "Praktican vodic za vlasnike salona: koji Instagram format donosi zakazivanja, koliki budzet ima smisla i kako meriti da li vam marketing zaista puni stolice.",
+    "date": "2026-03-17",
+    "category": "Drustvene Mreze",
+    "readTime": "10 min",
+    "isDraft": false
   }
 ]

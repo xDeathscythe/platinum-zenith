@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-17T01:26:43.611Z",
-  "postsChecked": 115,
+  "generatedAt": "2026-03-17T01:31:20.334Z",
+  "postsChecked": 116,
   "issueCount": 0,
   "checked": [
     {
@@ -576,6 +576,11 @@
     {
       "route": "/blog/google-ads-budzet-kalkulator-cpa-srbija-2026",
       "serviceHits": 5,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/instagram-marketing-za-frizerske-salone-srbija-2026",
+      "serviceHits": 7,
       "hasKontakt": true
     }
   ],

@@ -15247,6 +15247,146 @@ Google Ads budzet kalkulator nije tabelica za lep izvestaj, nego finansijski fil
 Ako hoces, mogu da ti proverim cilj, CPA granicu i test budzet za tvoj slucaj preko [kontakt forme](/kontakt).
 `,
   },
+  {
+    slug: 'instagram-marketing-za-frizerske-salone-srbija-2026',
+    title: 'Instagram marketing za frizerske salone u Srbiji 2026: kako popuniti termine',
+    excerpt: 'Praktican vodic za vlasnike salona: koji Instagram format donosi zakazivanja, koliki budzet ima smisla i kako meriti da li vam marketing zaista puni stolice.',
+    date: '2026-03-17',
+    category: 'Drustvene Mreze',
+    readTime: '10 min',
+    content: `
+## Instagram marketing za frizerske salone: kratak odgovor
+
+Ako trazite upit **instagram marketing za frizerske salone**, evo sustine: Instagram je najprirodniji kanal za salone jer klijenti biraju frizer prema vizuelnom utisku. Ali lep feed bez jasnog puta do zakazivanja je bacen novac.
+
+Ono sto zaista puni termine:
+1. Before-after Reels za tretmane sa visokom percipiranom vrednoscu (balayage, keratinsko ravnanje, muske fade frizure),
+2. Story ponude za prazne termine istog ili sledeceg dana,
+3. Landing stranica ili link u bio koji vodi direktno na zakazivanje, ne na genericku pocetnu stranu.
+
+Za siri pregled kako to izgleda u praksi za salone, pogledajte nas vodic za [marketing za frizerske salone](/marketing-za-frizerske-salone).
+
+## Zasto Instagram radi za salone bolje nego za vecinu biznisa
+
+Frizerski salon prodaje vizuelnu transformaciju. To znaci da sadrzaj prirodno izaziva reakciju, deljenje i spremanje, sto su signali koje Instagram algoritam nagradjuje.
+
+Ali vecina salona pravi istu gresku: objavljuju slike gotove frizure bez konteksta i bez poziva na akciju. Klijent vidi, lajkuje, skroluje dalje i nikad ne zakaze.
+
+Razlika izmedju salona koji popunjava raspored i onog koji ima lep feed ali prazne stolice je u jednom koraku: svaki post mora da skrati razdaljinu izmedju inspiracije i termina.
+
+## Koji format zaista donosi zakazivanja
+
+### Before-after Reels
+
+Najjaci format za salone. Pokazujete transformaciju u 15-30 sekundi. Kljucni detalji:
+- Snimajte u istom osvetljenju (pre i posle) tako da razlika bude ocigledna,
+- dodajte tekst na ekranu sa nazivom tretmana i cenom,
+- u opisu stavite poziv na akciju (zakazite putem linka u bio, posaljite DM za termin).
+
+Reels ovog tipa imaju 3-5x veci reach od obicnih slika jer ih algoritam gura ljudima koji vec gledaju salonski sadrzaj.
+
+### Story ponude za prazne termine
+
+Ako imate praznu stolicu sutra u 14h, Story sa jasnom ponudom (npr. "-20% na sisanje i feniranje, slobodan termin sutra 14-15h, prvi koji posalje DM") moze da popuni rupu u rasporedu istog dana. To ne razvodnava cenu jer je ograniceno i kontekstualno.
+
+### Carousel sa savetima
+
+Carousel postovi tipa "5 stvari koje morate reci frizeru pre balayage-a" ili "Kako odrzavati boju izmedju termina" grade autoritet i cuvaju vas u feedu izmedju termina. Nisu direktna konverzija, ali drze vas u svesti klijenta koji razmislja o sledecoj poseti.
+
+### Kolaboracije sa lokalnim profilima
+
+Zajednicki Reel sa lokalnom vizazistkicom, salkonom lepote ili bridal studijom otvara publiku koja vec trazi slicne usluge. Algoritam to dodatno pojacava jer obe publike reaguju.
+
+## Koliko kosta Instagram marketing za salon
+
+Ovde treba razdvojiti organski od placenog sadrzaja:
+
+### Organski sadrzaj (vas vreme ili outsource)
+
+- Ako snimate sami: prakticno besplatno, ali trosi 3-5 sati nedeljno za 3-4 posta i Stories,
+- ako angazujete nekoga za content kreaciju: 200-500e mesecno za manje pakete u Srbiji,
+- agencija koja radi komplet (strategija, kreativa, objave, odgovaranje na poruke): od 500e mesecno nagore.
+
+### Placene reklame (Instagram Ads)
+
+Za salone, Instagram Ads ima smisla kad zelite da prosirite doseg van postojece publike, posebno za:
+- nove tretmane koje zelite da predstavite,
+- popunjavanje mrtvog perioda (januar, mart),
+- privlacenje nove publike u odredjenom delu grada.
+
+Budzet za pocetnu fazu: 150-300e mesecno je dovoljan za test koji pokazuje da li placeni format donosi zakazivanja.
+
+Ako radite siri marketing miks koji ukljucuje i Google Ads ili SEO, korisno je videti i benchmarkove za [Instagram reklame cena](/instagram-reklame-cena) i [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama).
+
+## Najvece greske salona na Instagramu
+
+### 1. Lep feed, nula poziva na akciju
+
+Ako niko ne zna kako da zakaze (link u bio ne vodi nigde korisno, nema CTA u postovima), gledaoci ostaju gledaoci.
+
+### 2. Objavljivanje bez ritma
+
+Algoritam kaze: ko objavljuje redovno, taj se prikazuje. Tri posta ove nedelje, pa nista dve nedelje, ubija reach.
+
+### 3. Ignorisanje DM-ova i komentara
+
+Kad neko pita "koliko kosta balayage?" u komentaru i ne dobije odgovor za sat vremena, odlazi kod salona koji je odgovorio. Svaki neodgovoren DM je izgubljen termin.
+
+### 4. Samo slike gotove frizure bez cene i konteksta
+
+Ljudi zele da znaju: koliko kosta, koliko traje, da li radite taj tip kose. Ako moraju da pitaju za svaki detalj, mnogi nece.
+
+## Kako meriti da li Instagram zaista donosi termine
+
+Ne merite uspeh brojem pratilaca. Merite ga ovako:
+
+1. **Broj DM-ova sa upitom za termin** (ovo je vas lead),
+2. **Broj klikova na link u bio** (ka stranici za zakazivanje ili WhatsApp-u),
+3. **Popunjenost rasporeda** (procenat popunjenih termina mesec za mesecom),
+4. **Prosecna vrednost termina** (da li vam Instagram dovodi samo obicna sisanja od 1000 din ili i premium tretmane od 5000+ din).
+
+Ako pratilaca raste ali zakazivanja ne, problem je u konverzionom putu, ne u sadrzaju.
+
+## Sta je bolje: raditi sam ili angazovati agenciju
+
+### Radite sami ako:
+- imate zaposlenog (ili ste vi taj) ko uziva u snimanju i ima oko za estetiku,
+- imate 3-5 sati nedeljno za kreaciju i odgovaranje,
+- salon tek pocinje i budzet za agenciju nema smisla.
+
+### Angazujte pomoc ako:
+- snimate kvalitetan sadrzaj ali zakazivanja ne rastu (problem je strategija, ne kreativa),
+- nemate vremena da odrzavate ritam objava,
+- zelite da testirate placene reklame a nemate iskustva sa Ads managerom.
+
+Za salone koji razmatraju profesionalnu podrsku, pogled na nase usluge za [marketing za frizerske salone](/marketing-za-frizerske-salone) i [digitalni marketing](/digitalni-marketing) moze da razjasni sta tacno agencija radi u tom slucaju.
+
+## Landing stranica ili sajt: sta salon zaista treba
+
+Instagram bez sajta ili landing-a koji omogucava brzo zakazivanje gubi konverzije. Stranica ne mora biti komplikovana:
+- jasna lista usluga sa cenama,
+- dugme za zakazivanje (online booking, WhatsApp ili telefon),
+- recenzije i galerija radova,
+- radno vreme i lokacija.
+
+Ako razmatrate izradu sajta za salon, korisno je videti [cene izrade sajta](/cene-izrade-sajta) i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+
+## SEO i Instagram zajedno: kombinacija koja donosi rezultate
+
+Instagram donosi brzu vidljivost i emotivni impuls. Ali ljudi koji traze "frizerski salon Novi Sad centar" na Google-u vec imaju nameru da zakazu. Kad kombinujete:
+- Instagram za gornji deo levka (inspiracija, poverenje, upoznavanje),
+- lokalni SEO i Google Business za ljude koji vec traze ([SEO optimizacija cena](/seo-optimizacija-cena)),
+- Google Ads za hitne upite ([Google reklame cena](/google-reklame-cena)),
+
+dobijate sistem koji popunjava raspored iz vise izvora, ne samo jednog.
+
+## Zakljucak
+
+Instagram marketing za frizerske salone u Srbiji ne mora biti komplikovan. Treba vam: dobar vizuelni sadrzaj (koji vec imate jer radite sa ljudima svaki dan), jasan poziv na akciju u svakom postu, i kratak put od pogleda do zakazivanja.
+
+Ako zelite da proverite koliko bi koristio Instagram marketing za vas salon ili vam treba strategija prilagodjena vasem rasporedu i budzetu, javite se preko [kontakt forme](/kontakt).
+`,
+  },
 ]
 
 const seenSlugs = new Set()

@@ -141,6 +141,11 @@ const relatedLinks = [
     title: 'Drustvene mreze',
     desc: 'Siri pregled contenta, community rada i placenih kampanja za brendove koji zive na drustvenim mrezama.',
   },
+  {
+    to: '/blog/instagram-marketing-za-frizerske-salone-srbija-2026',
+    title: 'Instagram marketing za frizerske salone',
+    desc: 'Detaljan vodic: koji formati donose zakazivanja, koliki budzet, kako meriti popunjenost rasporeda.',
+  },
 ]
 
 export default function MarketingZaFrizerskeSalonePage() {
