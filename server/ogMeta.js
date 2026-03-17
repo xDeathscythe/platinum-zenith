@@ -1047,6 +1047,10 @@ const ogMeta = {
     title: 'Marketing za Privatne Klinike u Srbiji | Platinum Zenith',
     description: 'Marketing za privatne klinike u Srbiji: Google Ads po specijalizaciji, lokalni SEO, sajt za zakazivanje i remarketing koji dovodi pacijente sa pravom namerom.',
   },
+  '/marketing-za-privatne-vrtice': {
+    title: 'Marketing za Privatne Vrtice u Srbiji | Platinum Zenith',
+    description: 'Marketing za privatne vrtice u Srbiji: lokalni SEO, Google Ads, Instagram kampanje i sajt koji popunjavaju grupe kvalitetnim upisima tokom cele godine.',
+  },
   '/marketing-za-advokate': {
     title: 'Marketing za Advokate u Srbiji | Platinum Zenith',
     description: 'Marketing za advokatske kancelarije u Srbiji: SEO, Google Ads, sajt i content strategija koja donosi kvalifikovane upite i stabilan rast klijenata.',
