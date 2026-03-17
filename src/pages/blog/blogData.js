@@ -1,5 +1,84 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'kako-odabrati-agenciju-za-digitalni-marketing-srbija-2026',
+    title: 'Kako odabrati agenciju za digitalni marketing u Srbiji 2026: 9 pitanja pre potpisivanja ugovora',
+    excerpt: 'Praktican vodic kako izabrati agenciju za digitalni marketing u Srbiji 2026: koja pitanja postaviti, sta traziti u ponudi i koje crvene zastavice odmah eliminisu kandidata.',
+    date: '2026-03-17',
+    category: 'Marketing',
+    readTime: '9 min',
+    content: `
+## Zasto je izbor agencije tezi nego sto izgleda
+
+Srpsko trziste digitalnog marketinga eksplodiralo je u poslednjih par godina. Svaki drugi freelancer se proglasio za agenciju, svaka agencija obecava "eksponencijalni rast". A vi imate ogranicen budzet i ne mozete priustiti da potrosite 6 meseci i 3.000 evra na nekoga ko ne zna sta radi.
+
+Ovaj vodic prolazi kroz 9 konkretnih pitanja koja odvajaju ozbiljne agencije od onih koje zive od prodaje dim i ogledala. Pre nego sto potpisete ista, proverite svaku od ovih tacaka.
+
+## 1. "Pokazite mi 3 klijenta iz moje industrije"
+
+Genericki portfolio sa 50 logoa ne znaci nista. Agencija koja je radila za frizerski salon ne zna automatski kako da radi Google Ads za stomatologiju. Trazite konkretne primere iz vase nise ili bar slicne. Ako nemaju, pitajte zasto misle da mogu da vam pomognu.
+
+Crvena zastavica: "Radimo sa svim industrijama, isti principi vaze." Principi mozda jesu isti, ali su kljucne reci, kreativa, ciljne grupe i konverzija potpuno razliciti.
+
+## 2. "Koji su vasi KPI i kako ih merite?"
+
+Dobra agencija ne obecava "vise pratilaca" ili "bolju vidljivost". Pita vas koliko vam vredi klijent, koliki vam je mesecni kapacitet i koliko mozete da potrosite za jednu akviziciju. Onda definise metrike: cena po lead-u (CPL), cena po akviziciji (CPA), return on ad spend (ROAS).
+
+Ako vam neko obecava "rezultate za 30 dana" bez da je pitao za vas biznis model, razmislite ponovo.
+
+Za vise o tome kako meriti ROI pogledajte [kako meriti ROI digitalnog marketinga](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
+
+## 3. "Ko ce konkretno raditi na mom nalogu?"
+
+U vecini agencija vas upozna CEO ili sales osoba, a posle vas prebaci na juniora koji je prosle godine zavrsio fakultet. Trazite da upoznate konkretnu osobu koja ce pisati vase oglase, postavljati kampanje i analizirati rezultate. Pitajte koliko aktivnih klijenata ta osoba ima.
+
+Ako jedan account manager vodi 30+ klijenata, necete dobiti paznju koja vam treba. Optimalan broj je 8-15, zavisno od kompleksnosti.
+
+## 4. "Koji je minimalni budzet i sta je ukljuceno?"
+
+Transparentnost u cenama je signal ozbiljnosti. Profesionalna agencija ima jasnu cenovnu strukturu: fee za vodjenje + preporuceni ad spend. Zna da vam kaze donji prag ispod kojeg ne vredi pocinjati.
+
+Za realne raspone cena u Srbiji pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+Crvena zastavica: agencija koja trazi 500 evra mesecno za "sve" (SEO, Google Ads, Instagram, email marketing, content). Za tu cenu ne mozete dobiti kvalitetan rad ni na jednom kanalu, kamoli na svim. Bolje uloziti 500 evra u jedan kanal i raditi ga kako treba.
+
+## 5. "Koliko cesto dobijam izvestaje i sta sadrze?"
+
+Mesecni izvestaj je minimum. Dobar izvestaj sadrzi: sta je uradjeno, koji su rezultati, sta se planira za sledeci mesec i gde se trosi budzet. Izvestaj koji sadrzi samo screenshot-ove grafika iz Google Analytics bez konteksta je beskoristan.
+
+Pitajte da vidite primer izvestaja koji salju postojecim klijentima. Ako ne mogu da vam pokazu, to vam govori dovoljno.
+
+## 6. "Da li ja zadrzavam pristup svim nalozima?"
+
+Vas Google Ads nalog, Facebook Business Manager, Google Analytics, Search Console: sve mora biti na vase ime. Agencija dobija pristup kao korisnik, ne kao vlasnik. Ako zavrsite saradnju, morate moci da preuzmete sve bez zastoja.
+
+Crvena zastavica: "Mi cemo otvoriti naloge za vas, ne brinite." Ovo znaci da ce vam sve ostati zarobljeno kod njih kad odlucite da odete.
+
+## 7. "Koji je vas proces za prvih 30 dana?"
+
+Profesionalna agencija ima strukturiran onboarding: audit vaseg trenutnog stanja, definisanje ciljeva, setup tracking-a, kreiranje strategije i tek onda pokretanje kampanja. Ako vam neko obecava da ce "sutra" pokrenuti kampanje, nece uraditi research koji je neophodan.
+
+Dobar redosled: nedelja 1 audit + tracking, nedelja 2-3 strategija + kreativa, nedelja 4 lanciranje sa pravilnom strukturom.
+
+## 8. "Sta se desava ako zelim da prekinem saradnju?"
+
+Ugovor na godinu dana sa kaznom za raskid je praksa nekih agencija. Profesionalne agencije rade na mesecnom ugovoru sa otkaznim rokom od 30 dana. Rezultati su ti koji zadrzavaju klijenta, ne ugovor.
+
+Pitajte konkretno: sta ce se desiti sa mojim nalozima, kampanjama i pristupima ako prestanem da placam sledeceg meseca?
+
+## 9. "Koja je vasa specijalizacija?"
+
+Agencija koja radi "sve" retko radi nesto odlicno. Trazite agenciju koja ima jasnu specijalizaciju: performance marketing (Google/Meta Ads), SEO, content marketing, ili web development. Ako vam treba vise kanala, bolje je imati jednu agenciju za performance i drugu za branding nego jednu koja radi oboje prosecno.
+
+Za poredjenje izmedju internog tima i agencije pogledajte [in-house tim vs agencija](/in-house-tim-vs-agencija).
+
+## Brza checklista pre potpisivanja
+
+Agencija ima relevantno iskustvo u vasoj nisi. Definisu merljive KPI pre pocetka rada. Upoznali ste osobu koja ce raditi na vasem nalogu. Cene su transparentne i realne za obim posla. Mesecni izvestaji sa akcijama, ne samo grafikoni. Vi ste vlasnik svih naloga i pristupa. Strukturiran onboarding proces (ne "pocinjemo odmah"). Mesecni ugovor bez penala za raskid. Jasna specijalizacija, ne "radimo sve".
+
+Ako trazite agenciju koja ispunjava sve ove kriterijume za srpsko trziste, pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga) ili se javite na [kontakt](/kontakt).
+`
+  },
+  {
     slug: 'email-marketing-cena-srbija-2026',
     title: 'Email marketing cena u Srbiji 2026: alati, strategije i realan ROI',
     excerpt: 'Koliko kosta email marketing za firmu u Srbiji 2026. Poredjenje alata (Mailchimp, Brevo, Klaviyo), cene po broju kontakata i strategije koje donose rezultate.',

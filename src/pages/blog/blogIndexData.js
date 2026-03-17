@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "kako-odabrati-agenciju-za-digitalni-marketing-srbija-2026",
+    "title": "Kako odabrati agenciju za digitalni marketing u Srbiji 2026: 9 pitanja pre potpisivanja ugovora",
+    "excerpt": "Praktican vodic kako izabrati agenciju za digitalni marketing u Srbiji 2026: koja pitanja postaviti, sta traziti u ponudi i koje crvene zastavice odmah eliminisu kandidata.",
+    "date": "2026-03-17",
+    "category": "Marketing",
+    "readTime": "9 min",
+    "isDraft": false
+  },
+  {
     "slug": "email-marketing-cena-srbija-2026",
     "title": "Email marketing cena u Srbiji 2026: alati, strategije i realan ROI",
     "excerpt": "Koliko kosta email marketing za firmu u Srbiji 2026. Poredjenje alata (Mailchimp, Brevo, Klaviyo), cene po broju kontakata i strategije koje donose rezultate.",
