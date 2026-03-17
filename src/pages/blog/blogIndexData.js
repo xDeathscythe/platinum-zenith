@@ -1297,5 +1297,14 @@ export const blogIndexPosts = [
     "category": "Drustvene Mreze",
     "readTime": "10 min",
     "isDraft": false
+  },
+  {
+    "slug": "google-ads-za-frizerske-salone-cena-srbija-2026",
+    "title": "Google Ads za frizerske salone u Srbiji 2026: cena termina, budzet i strategija",
+    "excerpt": "Koliko kostaju Google reklame za frizerske salone u Srbiji 2026, koji budzet ima smisla i kako da dovedete klijente koji vec traze vas tip usluge.",
+    "date": "2026-03-17",
+    "category": "Marketing",
+    "readTime": 9,
+    "isDraft": false
   }
 ]

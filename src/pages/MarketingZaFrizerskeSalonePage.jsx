@@ -146,6 +146,11 @@ const relatedLinks = [
     title: 'Instagram marketing za frizerske salone',
     desc: 'Detaljan vodic: koji formati donose zakazivanja, koliki budzet, kako meriti popunjenost rasporeda.',
   },
+  {
+    to: '/blog/google-ads-za-frizerske-salone-cena-srbija-2026',
+    title: 'Google Ads za frizerske salone',
+    desc: 'Koliko kostaju Google reklame za salon, koji budzet ima smisla i kako da dovedete klijente koji vec traze vas tip usluge.',
+  },
 ]
 
 export default function MarketingZaFrizerskeSalonePage() {

@@ -53,6 +53,7 @@ const MarketingZaStomatologePage = lazy(() => import('./pages/MarketingZaStomato
 const MarketingZaAdvokatePage = lazy(() => import('./pages/MarketingZaAdvokatePage'))
 const MarketingZaNekretninePage = lazy(() => import('./pages/MarketingZaNekretninePage'))
 const MarketingZaFrizerskeSalonePage = lazy(() => import('./pages/MarketingZaFrizerskeSalonePage'))
+const MarketingZaAutoservisePage = lazy(() => import('./pages/MarketingZaAutoservisePage'))
 
 // Admin pages
 const LoginPage = lazy(() => import('./pages/admin/LoginPage'))
@@ -151,6 +152,7 @@ function PublicLayout() {
             <Route path="/marketing-za-advokate" element={<MarketingZaAdvokatePage />} />
             <Route path="/marketing-za-nekretnine" element={<MarketingZaNekretninePage />} />
             <Route path="/marketing-za-frizerske-salone" element={<MarketingZaFrizerskeSalonePage />} />
+            <Route path="/marketing-za-autoservise" element={<MarketingZaAutoservisePage />} />
             <Route path="/draft/:slug" element={<BlogPostPage />} />
             <Route path="*" element={<NotFoundPage />} />
           </Routes>

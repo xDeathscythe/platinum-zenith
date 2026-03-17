@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-17T01:31:17.827Z",
-  "routesChecked": 40,
+  "generatedAt": "2026-03-17T02:28:56.116Z",
+  "routesChecked": 41,
   "issueCount": 0,
   "checked": [
     {
@@ -864,6 +864,29 @@
       "route": "/marketing-za-frizerske-salone",
       "component": "MarketingZaFrizerskeSalonePage",
       "file": "src\\pages\\MarketingZaFrizerskeSalonePage.jsx",
+      "sequence": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 7,
+        "h3": 2,
+        "total": 10
+      }
+    },
+    {
+      "route": "/marketing-za-autoservise",
+      "component": "MarketingZaAutoservisePage",
+      "file": "src\\pages\\MarketingZaAutoservisePage.jsx",
       "sequence": [
         1,
         2,

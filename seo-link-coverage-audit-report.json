@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-03-17T01:31:18.145Z",
-  "routesChecked": 183,
-  "linksScanned": 1158,
+  "generatedAt": "2026-03-17T02:28:56.434Z",
+  "routesChecked": 185,
+  "linksScanned": 1182,
   "issueCount": 0,
-  "warningCount": 0,
+  "warningCount": 1,
   "issues": [],
-  "warnings": []
+  "warnings": [
+    "/marketing-za-autoservise: no inbound internal links detected"
+  ]
 }

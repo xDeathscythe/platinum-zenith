@@ -66,6 +66,11 @@ export const pageMeta = {
     description: 'Marketing za frizerske salone u Srbiji: lokalni SEO, Instagram, Google Ads i booking funnel koji donose vise rezervacija i manje praznih termina.',
     keywords: 'marketing za frizerske salone, marketing za frizere, digitalni marketing frizerski salon, instagram reklame frizerski salon, google ads frizerski salon, seo za salon',
   },
+  '/marketing-za-autoservise': {
+    title: 'Marketing za Autoservise u Srbiji | Platinum Zenith',
+    description: 'Marketing za autoservise u Srbiji: lokalni SEO, Google Ads, sajt i kampanje koje donose pozive i pune raspored servisa.',
+    keywords: 'marketing za autoservise, digitalni marketing autoservis, google ads autoservis, seo za autoservis, reklame za autoservis, sajt za autoservis',
+  },
   '/marketing-za-advokate': { title: 'Marketing za Advokate u Srbiji | Platinum Zenith', description: 'Marketing za advokatske kancelarije u Srbiji: SEO, Google Ads, sajt i content strategija koja donosi kvalifikovane upite i stabilan rast klijenata.', keywords: 'marketing za advokate, digitalni marketing advokatska kancelarija, google ads advokat, seo za advokate, sajt za advokatsku kancelariju, marketing pravne usluge' },
   '/marketing-za-stomatologe': { title: 'Marketing za Stomatologe u Srbiji | Platinum Zenith', description: 'Specijalizovani marketing za stomatološke ordinacije: Google Ads, lokalni SEO, sajt i kampanje koje pune kalendar novim pacijentima i povećavaju prihod.', keywords: 'marketing za stomatologe, digitalni marketing stomatologija, google ads stomatolog, seo za stomatologe, sajt za ordinaciju, marketing stomatološka ordinacija' },
   '/marketing-za-restorane': { title: 'Marketing za Restorane | Digitalni Marketing za Ugostiteljstvo | Platinum Zenith', description: 'Marketing za restorane u Srbiji: Google Business, društvene mreže, oglasi i sajt koji povećavaju rezervacije, porudžbine i popunjenost stolova.', keywords: 'marketing za restorane, digitalni marketing ugostiteljstvo, restoran marketing srbija, google business restoran, instagram za restorane, sajt za restoran' },

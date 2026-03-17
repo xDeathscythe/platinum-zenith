@@ -15387,6 +15387,144 @@ Instagram marketing za frizerske salone u Srbiji ne mora biti komplikovan. Treba
 Ako zelite da proverite koliko bi koristio Instagram marketing za vas salon ili vam treba strategija prilagodjena vasem rasporedu i budzetu, javite se preko [kontakt forme](/kontakt).
 `,
   },
+  {
+    slug: 'google-ads-za-frizerske-salone-cena-srbija-2026',
+    title: 'Google Ads za frizerske salone u Srbiji 2026: cena termina, budzet i strategija',
+    excerpt: 'Koliko kostaju Google reklame za frizerske salone u Srbiji 2026, koji budzet ima smisla i kako da dovedete klijente koji vec traze vas tip usluge.',
+    date: '2026-03-17',
+    category: 'Marketing',
+    readTime: 9,
+    content: `
+## Google Ads za frizerske salone: kratak odgovor
+
+Ako trazite upit **google ads za frizerske salone cena**, evo prakticnog okvira za srpsko trziste 2026:
+
+- **CPC (cena po kliku):** 0,08e - 0,40e za lokalne search termine
+- **Cena zakazanog termina:** 3e - 15e zavisno od usluge i lokacije
+- **Minimalni mesecni budzet za pouzdan test:** 150e - 300e
+- **Break-even:** najcesce posle 2-4 nedelje kad se kampanja optimizuje
+
+Za siri kontekst o cenama digitalnog oglasavanja, pogledajte [Google reklame cena](/google-reklame-cena).
+
+## Zasto Google Ads ima smisla za salone
+
+Instagram prodaje vizuelni utisak i gradi zelju. Google hvata ljude koji **vec imaju nameru** da zakazu.
+
+Kada neko kuca "frizerski salon centar Novi Sad" ili "balayage Beograd cena", ta osoba ne razgleda. Ona trazi gde da ode. Ako se ne pojavljujete na prvoj strani rezultata, taj termin popunjava konkurencija.
+
+Razlika u kvalitetu leada je ogromna. Klik sa Google pretrage ima 3 do 5 puta vecu sansu da postane zakazan termin u odnosu na nasumicni klik sa drustvenih mreza.
+
+Za uporedni pregled kanala i kako se uklapaju u celokupnu strategiju, pogledajte nas vodic za [marketing za frizerske salone](/marketing-za-frizerske-salone).
+
+## Koje kampanje imaju smisla za frizerski salon
+
+Ne treba vam 10 kampanja. Treba vam 2-3 koje pokrivaju razlicite namere:
+
+### 1. Search kampanja za hitne/lokalne upite
+
+Ovo je jezgro. Ljudi koji traze salon u svom kraju, danas ili ove nedelje.
+
+Kljucne reci koje najcesce rade:
+- "frizerski salon [grad/naselje]"
+- "musko sisanje [grad]"
+- "farbanje kose cena [grad]"
+- "balayage [grad]"
+- "keratin tretman [grad]"
+
+Negativne kljucne reci su jednako vazne. Iskljucite "besplatno", "kurs", "posao", "zaposlenje" i slicne upite koji trose budzet bez ijednog zakazivanja.
+
+### 2. Kampanja za premium tretmane
+
+Usluge sa vecom marzom zasluzuju posebnu kampanju sa posebnom landing stranicom:
+- Balayage, ombre, highlights
+- Keratinski tretmani
+- Bridal hair / svecane frizure
+- Hair extensions
+
+Ovde CPC moze biti visi (0,25e - 0,60e), ali jedan zakazan premium tretman vredi 50e - 200e+, pa je ROI daleko bolji nego za obicno sisanje.
+
+### 3. Sezonske kampanje
+
+Matura, vencanja, praznicki period, leto. Ove kampanje palite 4-6 nedelja pre sezone i gasite kad prodje.
+
+Ovo je prilika za visi budzet na kratak period, jer je intent jak i konkurencija cesto zakasni sa pripremom.
+
+## Landing stranica: gde vecina salona gubi novac
+
+Google moze da dovede 100 klikova dnevno, ali ako klik vodi na Instagram profil, na homepage bez jasnog CTA-a ili na stranicu sa sporim ucitavanjem, budzet je bacen.
+
+Sta landing stranica za frizerski salon mora da ima:
+
+- **Dugme za zakazivanje ili poziv iznad prevoja** na mobilnom
+- **Fotografije vaseg rada**, ne stock slike
+- **Cene ili cenovni raspon** za usluge koje reklamirate (ljudi zele transparentnost)
+- **Google recenzije** ugradjene na stranicu
+- **Lokacija i radno vreme** odmah vidljivi
+
+Ako nemate sajt, ili vas trenutni sajt ne konvertuje, pogledajte [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena) za realan okvir troskova.
+
+## Koliko realno kosta Google Ads za salon mesecno
+
+| Velicina salona | Mesecni budzet | Ocekivani termini | Cena po terminu |
+|---|---|---|---|
+| Mali salon (1-2 stolice) | 150e - 250e | 15 - 40 | 5e - 12e |
+| Srednji salon (3-5 stolica) | 250e - 500e | 30 - 80 | 4e - 10e |
+| Premium salon / vise lokacija | 500e - 1.500e | 60 - 200+ | 3e - 8e |
+
+Ovi brojevi pretpostavljaju da je landing stranica optimizovana i da salon ima makar 10+ Google recenzija sa ocenom 4.5+.
+
+Za kontekst troskova i poredjenje sa organskim pristupom, koristan je i vodic o [SEO optimizacija cena](/seo-optimizacija-cena).
+
+## Google Business profil: besplatan saveznik uz Ads
+
+Kada pokrenete Google Ads, vas Google Business profil dobija dodatnu tezinu. Salonima je GMB profil cesto vredniji od samog sajta jer:
+
+- Pojavljuje se u mapi sa recenzijama i fotografijama
+- Prikazuje radno vreme, lokaciju i direktan poziv
+- Besplatan je, a Google ga preferira za lokalne upite
+
+Optimizujte ga pre nego sto upalite prvu kampanju. Dodajte sve usluge, uradite fotografije salona i radova, i aktivno trazite recenzije od zadovoljnih klijenata.
+
+## Tracking: bez merenja nema optimizacije
+
+Minimalan tracking setup za salon:
+
+1. **Google Ads conversion tracking** na zakazivanje ili poziv
+2. **Call tracking** za telefonske termine (mnogi klijenti salona zovu, ne popunjavaju forme)
+3. **Google Analytics 4** za ponasanje na sajtu
+
+Bez ovoga ne znate koji kljucni termin donosi termin, a koji samo trosi budzet. Vise o merenju rezultata u nasem vodivu za [KPI i ROI marketing](/blog/kako-meriti-roi-marketinga-kpi-vodic).
+
+## Google Ads vs Instagram za frizerske salone
+
+Nije pitanje "ili/ili". Oba kanala rade, ali razlicito:
+
+| | Google Ads | Instagram |
+|---|---|---|
+| Tip publike | Ljudi koji vec traze salon | Ljudi koji razgledaju i inspirisu se |
+| Brzina rezultata | Termin moze doci prvog dana | Gradi se publika tokom nedelja |
+| Najbolje za | Lokalni intent, premium tretmani | Vizuelni wow efekat, branding |
+| Mana | Ogranicen volumen kljucnih reci | Nizi intent, duzi put do zakazivanja |
+
+Najbolji rezultat je kombinacija: Google Ads hvata ljude sa namerom, Instagram gradi zelju i poverenje. Vise o Instagram pristupu za salone u nasem clanku o [Instagram marketingu za frizerske salone](/blog/instagram-marketing-za-frizerske-salone-srbija-2026).
+
+Za siru sliku o [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama) i kako se uklapa u miks, pogledajte detaljan cenovnik.
+
+## Ceste greske salona na Google Ads
+
+1. **Jedna kampanja za sve usluge.** Musko sisanje i bridal hair nemaju istu publiku ni istu vrednost. Razdvojite ih.
+2. **Nema negativnih kljucnih reci.** Bez toga placate klikove od ljudi koji traze "frizerski kurs" ili "posao u salonu".
+3. **Oglas vodi na Instagram.** Google reklama mora da vodi na stranicu sa jasnim CTA-om, ne na drustvenu mrezu.
+4. **Nema pracenja poziva.** U frizerskoj industriji vise od 60% zakazivanja dolazi telefonom. Ako ne pratite pozive, ne znate sta radi.
+5. **Odustaju posle 5 dana.** Google Ads treba 2-3 nedelje za optimizaciju. Prvi rezultati dolaze brzo, ali pravi ROI se vidi posle mesec dana.
+
+## Zakljucak
+
+Google Ads za frizerske salone u Srbiji 2026 je jedan od najbrze isplativih kanala kada se pravilno postavi. Kljuc je u razdvajanju kampanja po usluzi, kvalitetnoj landing stranici i doslednom pracenju cene po zakazanom terminu.
+
+Ako zelite da proverite da li Google Ads ima smisla za vas salon ili vam treba pomoc sa postavkom, javite se preko [kontakt forme](/kontakt).
+`,
+  },
 ]
 
 const seenSlugs = new Set()

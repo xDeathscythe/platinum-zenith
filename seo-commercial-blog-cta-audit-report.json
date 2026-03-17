@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-17T01:31:20.334Z",
-  "postsChecked": 116,
+  "generatedAt": "2026-03-17T02:28:58.638Z",
+  "postsChecked": 117,
   "issueCount": 0,
   "checked": [
     {
@@ -581,6 +581,11 @@
     {
       "route": "/blog/instagram-marketing-za-frizerske-salone-srbija-2026",
       "serviceHits": 7,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-ads-za-frizerske-salone-cena-srbija-2026",
+      "serviceHits": 5,
       "hasKontakt": true
     }
   ],
