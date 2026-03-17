@@ -3,6 +3,24 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "instagram-reklame-za-agencije-za-nekretnine-cena-srbija-2026",
+    "title": "Instagram reklame za agencije za nekretnine u Srbiji 2026: cena upita i budzet plan",
+    "excerpt": "Koliko kosta Instagram oglas za agenciju za nekretnine u Srbiji 2026. CPC, CPL benchmarci i struktura kampanje koja donosi kupce i prodavce.",
+    "date": "2026-03-17",
+    "category": "Marketing",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
+    "slug": "seo-za-agencije-za-nekretnine-cena-srbija-2026",
+    "title": "SEO za agencije za nekretnine u Srbiji 2026: cena i kako rangirati listing-e",
+    "excerpt": "Koliko kosta SEO za agenciju za nekretnine u Srbiji 2026. Realni rasponi cena i kako organski saobracaj moze smanjiti zavisnost od placenih portala.",
+    "date": "2026-03-17",
+    "category": "SEO",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "seo-za-teretane-cena-srbija-2026",
     "title": "SEO za teretane u Srbiji 2026: cena, rokovi i kako privuci nove clanove bez oglasa",
     "excerpt": "Koliko kosta SEO optimizacija za teretanu u Srbiji 2026. Realni rasponi cena, sta donosi lokalni SEO i zasto Google mapa moze biti jaci kanal od Instagram-a.",

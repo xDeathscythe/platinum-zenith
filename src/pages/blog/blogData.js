@@ -1,5 +1,150 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'instagram-reklame-za-agencije-za-nekretnine-cena-srbija-2026',
+    title: 'Instagram reklame za agencije za nekretnine u Srbiji 2026: cena upita i budzet plan',
+    excerpt: 'Koliko kosta Instagram oglas za agenciju za nekretnine u Srbiji 2026. CPC, CPL benchmarci i struktura kampanje koja donosi kupce i prodavce.',
+    date: '2026-03-17',
+    category: 'Marketing',
+    readTime: '8 min',
+    content: `
+## Instagram reklame za agencije za nekretnine u Srbiji 2026: kratak odgovor
+
+Ako trazis upit **instagram reklame za nekretnine cena**, realan okvir za srpsko trziste u 2026. najcesce izgleda ovako:
+
+- **Test budzet:** 200e-400e mesecno (ad spend) + 150e-300e fee za vodjenje.
+- **Standardni budzet:** 400e-900e mesecno (ad spend) + 300e-500e fee.
+- **Agresivni rast:** 900e-2.000e+ (ad spend) + 500e-800e fee.
+
+Za siri kontekst pogledaj i [Instagram reklame cena](/instagram-reklame-cena) i [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama).
+
+## Zasto nekretnine rade drugacije na Instagramu
+
+Nekretnine su vizuelni proizvod. Lepa fotografija stana ili kuce prirodno privlaci paznju u feed-u. Ali razlika izmedju agencije koja dobija upite i agencije koja samo dobija lajkove je u tome kako se kampanja struktuira posle tog prvog vizuelnog kontakta.
+
+Kupac nekretnine ne donosi odluku iz impulsa. Od prvog interesovanja do zakazivanja razgledanja prolazi od nedelju dana do nekoliko meseci. Zato Instagram kampanja za nekretnine mora da ima vise slojeva, ne samo jednu reklamu koja kaze "Pozovite nas."
+
+### Dva odvojena funnel-a: kupci i prodavci
+
+Vecina agencija pravi istu reklamu za sve. Ali kupac stana i vlasnik koji zeli da proda stan imaju potpuno razlicite motivacije. Kampanje moraju biti razdvojene od pocetka.
+
+Za kupce: karuseli sa nekretninama, video ture, "novo u ponudi" formati.
+Za prodavce: edukativni sadrzaj tipa "5 gresaka koje smanjuju cenu vaseg stana", besplatna procena vrednosti kao lead magnet.
+
+## Struktura kampanje koja najcesce radi
+
+### Faza 1: Vizuelni hook (nove nekretnine i edukacija)
+Karuseli sa profesionalnim fotografijama nekretnina. Svaki slajd jedna prostorija. Poslednji slajd: CTA za cenu i detalje. Paralelno: edukativni Reels za prodavce.
+
+### Faza 2: Retargeting sa socijalnim dokazom
+Svako ko je video prvu reklamu dobija testimonijal zadovoljnog kupca ili prodavca. "Prodali smo stan za 3 nedelje, 8% iznad pocetne cene."
+
+### Faza 3: Lead capture
+Forma za zakazivanje razgledanja (kupci) ili besplatnu procenu (prodavci). Samo za ljude koji su prosli prve dve faze.
+
+## Realni CPL benchmarci za nekretnine u Srbiji
+
+Posle 4-8 nedelja optimizacije, tipicni rasponi su:
+
+- **Upiti kupaca za stanove:** 10e-25e po lead-u.
+- **Upiti prodavaca (procena vrednosti):** 8e-18e po lead-u.
+- **Luksuzne nekretnine:** 20e-50e po lead-u.
+
+Kvalitet lead-a je kljucan. Jeftin lead koji nikad ne dodje na razgledanje je skuplji od lead-a za 25e koji potpise ugovor.
+
+## Najcesce greske agencija za nekretnine na Instagramu
+
+### 1) Objavljuju samo listing-e bez konteksta
+Slika stana sa cenom i kvadraturom nije reklama. To je oglas na KP. Instagram zahteva pricu: ko je idealan kupac, sta cini lokaciju posebnom, kako izgleda zivot u tom prostoru.
+
+### 2) Ne razdvajaju kupce od prodavaca
+Ista reklama za obe publike znaci da nijedna ne reaguje dovoljno. Razdvojeni funnel-i sa razlicitim kreativima i CTA-ovima donose 2-3x bolji CPL.
+
+### 3) Nemaju landing stranicu za upite
+Link u bio koji vodi na genericki sajt sa 200 nekretnina zbunjuje. Svaka kampanja treba svoju landing stranicu sa jasnim CTA-om.
+
+## 30-dnevni plan za agenciju za nekretnine
+
+- **Nedelja 1:** Profesionalne fotografije 5 best nekretnina, postavljanje Pixel-a, kreiranje landing stranica za kupce i prodavce.
+- **Nedelja 2:** Pokretanje awareness kampanje (karuseli) sa budzetom od 15e dnevno.
+- **Nedelja 3:** Dodavanje retargeting sloja sa testimonijalom.
+- **Nedelja 4:** Pokretanje lead kampanja za warm publiku. Merenje CPL-a za kupce i prodavce odvojeno.
+
+Za kompletnu strategiju pogledaj [marketing za nekretnine](/marketing-za-nekretnine) i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+Ako zelite da procenimo potencijal Instagram kampanja za vasu agenciju, javite se preko [kontakt forme](/kontakt).
+`
+  },
+  {
+    slug: 'seo-za-agencije-za-nekretnine-cena-srbija-2026',
+    title: 'SEO za agencije za nekretnine u Srbiji 2026: cena i kako rangirati listing-e',
+    excerpt: 'Koliko kosta SEO za agenciju za nekretnine u Srbiji 2026. Realni rasponi cena i kako organski saobracaj moze smanjiti zavisnost od placenih portala.',
+    date: '2026-03-17',
+    category: 'SEO',
+    readTime: '8 min',
+    content: `
+## SEO za agencije za nekretnine u Srbiji 2026: kratak odgovor
+
+Ako trazis upit **seo za agencije za nekretnine cena**, realan raspon za srpsko trziste u 2026. najcesce izgleda ovako:
+
+- **Starter lokalni SEO (GBP + osnovna optimizacija):** 300e-500e mesecno.
+- **Growth paket (GBP + sajt + lokacione stranice + linkovi):** 500e-1.000e mesecno.
+- **Performance pristup (tehnicka optimizacija + content + geo-landing stranice):** 1.000e-2.000e+ mesecno.
+
+Za siru sliku SEO troskova pogledaj i [SEO optimizacija cena](/seo-optimizacija-cena).
+
+## Zasto agencije za nekretnine trebaju sopstveni SEO umesto da zavise od portala
+
+Vecina agencija za nekretnine u Srbiji zavisi od portala tipa 4zida, Halooglasi i Nekretnine.rs za listing-e. Problem sa tim pristupom je da placate za svaki oglas, nemate kontrolu nad algoritmom i takmicite se sa svim ostalim agencijama na istom mestu.
+
+Sopstveni sajt sa dobrim SEO-om vam daje kanal koji ne placate po oglasu. Kad neko kuca "stanovi na prodaju Novi Sad Liman" ili "kuce Dedinje cena", vas sajt moze da se pojavi u organskim rezultatima bez placanja portalu.
+
+Dodatna prednost: posetioci koji dodju na vas sajt vide samo vase nekretnine, ne i konkurentske. To dramaticno povecava sansu za upit.
+
+## Sta ulazi u SEO paket za agenciju za nekretnine
+
+### Google Business Profile optimizacija
+Kompletan profil sa svim lokacijama (ako imate vise kancelarija), kategorije za sve tipove usluga (prodaja, izdavanje, procena), profesionalne fotografije kancelarije i tima.
+
+### Lokacione landing stranice
+Ovo je kljuc za nekretnine. Posebna stranica za svaki grad i kvart koji pokrivate: "Stanovi na prodaju Vracar", "Kuce Sremska Kamenica", "Izdavanje stanova Nis centar". Svaka stranica sa lokalnim sadrzajem, mapom i listom nekretnina.
+
+### Optimizacija listing stranica
+Svaka nekretnina na sajtu treba optimizovan naslov, opis sa kljucnim recima (lokacija, tip, kvadratura) i schema markup za RealEstateListing. Ovo omogucava Google-u da prikaze vase nekretnine u rich results.
+
+### Content marketing
+Blog postovi koji ciljaju informacione pretrage: "prosecna cena kvadrata [grad] 2026", "kako kupiti prvi stan u Srbiji", "sta proveriti pre kupovine stana". Ovi tekstovi privlace kupce u ranoj fazi istrazivanja.
+
+## Koliko vremena treba da se vide rezultati
+
+Za lokalni SEO (Google mapa): 4-8 nedelja uz aktivan rad na GBP-u i recenzijama.
+Za organski saobracaj sa lokacionih stranica: 3-6 meseci.
+Za ranking listing-a za konkretne pretrage: 4-8 meseci (zavisi od konkurencije u gradu).
+
+Kombinacija sa placenim kanalima ubrzava proces. Za orijentir pogledaj [Google reklame cena](/google-reklame-cena) i [Google Ads za agencije za nekretnine](/blog/google-ads-za-agencije-za-nekretnine-cena-leada-srbija-2026).
+
+## Gde agencije najcesce gube novac na SEO
+
+### 1) Sajt ima samo listing-e bez lokalnog sadrzaja
+Google ne moze da rangira stranicu sa samo adresom, cenom i 5 fotografija. Potreban je sadrzaj koji objasnjava lokaciju, infrastrukturu, blizinu skola i prevoza.
+
+### 2) Nemaju schema markup za nekretnine
+Bez strukturiranih podataka, Google ne prepoznaje vase stranice kao listing-e nekretnina. Sa RealEstateListing schema-om, dobijate sanse za rich results sa slikom i cenom direktno u pretrazi.
+
+### 3) Jedan sajt za sve gradove bez geo-stranica
+Ako pokrivate Beograd, Novi Sad i Nis sa jednom stranicom "Ponuda", ne mozete rangirati ni za jedan grad. Svaki grad i svaki veci kvart treba svoju stranicu.
+
+## Plan za prvih 90 dana
+
+- **Mesec 1:** GBP optimizacija, kreiranje geo-landing stranica za top 3-5 lokacija, osnovna schema markup implementacija.
+- **Mesec 2:** Content marketing (3-4 blog posta o trzistu nekretnina u vasim gradovima), optimizacija listing stranica, registracija na lokalne direktorijume.
+- **Mesec 3:** Analiza rezultata iz Search Console, iteracija sadrzaja, dodavanje novih geo-stranica za kvartove unutar gradova.
+
+Za kompletnu strategiju pogledaj [marketing za nekretnine](/marketing-za-nekretnine) i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+Ako zelite da procenimo kako vasa agencija stoji na Google-u i koliko novih upita moze da dodje iz organskog saobracaja, javite se preko [kontakt forme](/kontakt).
+`
+  },
+  {
     slug: 'seo-za-teretane-cena-srbija-2026',
     title: 'SEO za teretane u Srbiji 2026: cena, rokovi i kako privuci nove clanove bez oglasa',
     excerpt: 'Koliko kosta SEO optimizacija za teretanu u Srbiji 2026. Realni rasponi cena, sta donosi lokalni SEO i zasto Google mapa moze biti jaci kanal od Instagram-a.',
@@ -16398,6 +16543,7 @@ export const blogPosts = rawBlogPosts.filter((post) => {
   seenSlugs.add(post.slug)
   return true
 })
+
 
 
 
