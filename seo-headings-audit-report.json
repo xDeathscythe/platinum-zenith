@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-18T14:29:21.887Z",
-  "routesChecked": 51,
+  "generatedAt": "2026-03-18T18:30:41.033Z",
+  "routesChecked": 52,
   "issueCount": 0,
   "checked": [
     {
@@ -1135,6 +1135,33 @@
       "route": "/marketing-agencija-cacak",
       "component": "MarketingAgencijaCacakPage",
       "file": "src\\pages\\MarketingAgencijaCacakPage.jsx",
+      "sequence": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        2,
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 8,
+        "h3": 5,
+        "total": 14
+      }
+    },
+    {
+      "route": "/marketing-agencija-kraljevo",
+      "component": "MarketingAgencijaKraljevoPage",
+      "file": "src\\pages\\MarketingAgencijaKraljevoPage.jsx",
       "sequence": [
         1,
         2,

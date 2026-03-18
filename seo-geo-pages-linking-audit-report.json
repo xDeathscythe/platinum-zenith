@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-18T14:29:22.558Z",
+  "generatedAt": "2026-03-18T18:30:41.651Z",
   "pagesChecked": 3,
   "issueCount": 0,
   "checks": [
     {
       "label": "/marketing-agencija-beograd",
       "file": "src/pages/MarketingAgencijaBgPage.jsx",
-      "uniqueLinks": 13,
+      "uniqueLinks": 14,
       "priceHits": 3,
       "hasKontakt": true
     },
@@ -20,7 +20,7 @@
     {
       "label": "/marketing-agencija-novi-sad",
       "file": "src/pages/MarketingAgencijaNsPage.jsx",
-      "uniqueLinks": 13,
+      "uniqueLinks": 14,
       "priceHits": 3,
       "hasKontakt": true
     }

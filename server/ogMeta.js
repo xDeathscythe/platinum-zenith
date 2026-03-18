@@ -734,6 +734,22 @@ const SERVER_ROUTE_SCHEMAS = {
       url: SITE_URL,
     },
   },
+  '/marketing-agencija-kraljevo': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Marketing agencija Kraljevo',
+    serviceType: 'Digital marketing agency services',
+    url: `${SITE_URL}/marketing-agencija-kraljevo`,
+    areaServed: {
+      '@type': 'City',
+      name: 'Kraljevo',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
   '/in-house-tim-vs-agencija': {
     '@context': 'https://schema.org',
     '@type': 'Service',
@@ -1094,6 +1110,12 @@ const ogMeta = {
     description: 'Marketing agencija za Cacak i Moravicki okrug: SEO, Google Ads i Meta kampanje za lokalne firme koje zele vise upita i prodaje uz merljiv ROI.',
     ogImage: `${SITE_URL}/pz-og.jpg`,
     ogImageAlt: 'Marketing agencija Cacak - digitalni marketing za Moravicki okrug',
+  },
+  '/marketing-agencija-kraljevo': {
+    title: 'Marketing Agencija za Kraljevo | Digitalni Marketing | Platinum Zenith',
+    description: 'Marketing agencija za Kraljevo i Raski okrug: SEO, Google Ads i Meta kampanje za lokalne firme koje zele vise upita i prodaje uz merljiv ROI.',
+    ogImage: `${SITE_URL}/pz-og.jpg`,
+    ogImageAlt: 'Marketing agencija Kraljevo - digitalni marketing za Raski okrug',
   },
   '/web-shop-nema-prodaju': {
     title: 'Web Shop Nema Prodaju? 5 Razloga i Rešenja | Platinum Zenith',
