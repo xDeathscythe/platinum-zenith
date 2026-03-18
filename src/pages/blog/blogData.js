@@ -1,5 +1,104 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'hladni-pozivi-cold-calling-skripta-srbija-2026',
+    title: 'Hladni pozivi u Srbiji 2026: B2B skripta i strategija koja donosi sastanke',
+    excerpt: 'Da li cold calling i dalje radi u Srbiji? Praktican vodic, B2B skripte za hladne pozive, prevazilazenje prigovora i kako doci do direktora.',
+    date: '2026-03-18',
+    category: 'Prodaja',
+    readTime: '8 min',
+    content: `
+## Da li hladni pozivi (cold calling) rade u Srbiji 2026?
+
+Kratak odgovor: Da, ali ne onako kako su radili pre 5 godina.
+
+Dug odgovor: Ako kupite bazu od 1.000 firmi iz APR-a, date asistentu da ih redom zove i cita genericku skriptu "Dobar dan, mi smo firma X i nudimo uslugu Y" -- uspesnost ce vam biti ispod 0.1%.
+
+Medjutim, ako hladni poziv koristite kao **deo sirg B2B sistema**, on ostaje najbrzi nacin da probijete barijere do donosioca odluke.
+
+Za siri pregled B2B prodaje i lead generationa, pogledajte nas tekst o tome [kako zatvoriti klijenta u B2B prodaji](/blog/b2b-prodaja-kako-zatvoriti-klijenta-srbija-2026).
+
+## Toplo vs. Hladno: Zasto cisti cold calling odumire
+
+Uspesan B2B proces u 2026. godini se oslanja na **zagrevanje leada pre poziva**.
+
+**Primer dobrog procesa:**
+1. Pronadjete direktora na LinkedIn-u i ostavite smislen komentar na njegov post.
+2. Posaljete kratak, personalizovan email (bez prodaje, samo pruzanje vrednosti).
+3. **Zatim zovete.**
+
+Kada tada pozovete, vi vise niste anonimni prodavac. Vi ste "ona osoba sa LinkedIna" ili "osoba koja mi je poslala onaj email". To dramticno menja ton razgovora sa sekretaricom, a kasnije i sa direktorom.
+
+## Kako prevazici sekretaricu ("Gatekeeper-a")
+
+U srpskim firmama, poslovne sekretarice su trenirane da blokiraju prodavce. Ako zvucite kao prodavac, necete doci do direktora.
+
+**Los pristup:** "Dobar dan, ovde Petar iz firme X, da li mogu dobiti direktora Marka, zeleo bih da mu predstavim nase usluge?" (Blokada: "Direktor je na sastanku, posaljite ponudu na info@firma.rs").
+
+**Dobar pristup (The Peer Approach):** "Dobar dan, Petar ovde. Treba mi Marko Jovanovic kratko."
+Ovaj pristup zvuci kao da zove ravnopravan partner (peer), a ne prodavac. Cesto ce uslediti pitanje: "Ko ga trazi?"
+**Odgovor:** "Petar Markovic iz firme X. Zovem u vezi [konkretan, poslovni razlog koji nije direktna prodaja, npr: analize njihovog sajta koju smo uradili]."
+
+## Savrsena Cold Calling skripta za Srbiju
+
+Kada dobijete direktora na telefon, imate maksimalno 15 sekundi da ga ubedite da vas ne prekine.
+
+### 1) Uvod i dozvola (Pattern Interrupt)
+
+Direktori ocekuju laznu ljubaznost ("Kako ste danas?"). Umesto toga, budite direktni i profesionalni.
+
+*Skripta:* "Marko, dobar dan. Petar ovde iz firme X. Znam da vas prekidam, pa cu biti maksimalno kratak. Da li imate 30 sekundi da vam kazem zasto zovem, pa vi odlucite da li ima smisla da nastavimo razgovor?"
+
+Ovo postuje njihovo vreme i daje im kontrolu (oni odlucuju). U 90% slucajeva ce reci "Recite brzo".
+
+### 2) "Zasto bas vi" (Personalizacija)
+
+Pokazite da niste nasumicno okrenuli broj.
+
+*Skripta:* "Razlog zasto vas zovem je sto pratim vas rad na [projektu/trzistu], i video sam da trenutno investirate u [specifična oblast]."
+
+### 3) Izjave o problemu (Value Proposition kroz probleme)
+
+Ne pricajte sta vi radite. Pricajte koje probleme resavate, i pitajte da li oni imaju te probleme.
+
+*Skripta:* "Mi inace radimo sa firmama u vasoj industriji, i vecina direktora sa kojima pricam mi kaze da se trenutno najvise bore sa dva problema: prvo, [Problem 1 - npr. skupi clickovi na Google Ads-u], i drugo, [Problem 2 - npr. niska konverzija na sajtu]. Da li se i vi mozda suocavate sa necim od ovoga, ili kod vas stvari funkcionisu savrseno?"
+
+Ovo je kljucni trenutak. Ako imaju problem, razgovor prelazi iz "prodaje" u "konsultaciju".
+
+### 4) Poziv na akciju (The Close)
+
+Cilj hladnog poziva **nije da proda uslugu**. Cilj je **da proda sledeci sastanak**.
+
+*Skripta:* "Razumem. Na osnovu toga sto ste rekli, verujem da vam mozemo pomoci da to resite, bas kao sto smo uradili za [Ime slicne firme]. Ne zelim sada da vam oduzimam vreme jer nisam najavljen. Da li ste otvoreni da zakazemo kratak video poziv u sredu od 15 minuta, samo da vam pokazem kako to radimo, pa vi vidite ima li to smisla za vas?"
+
+## Kako resavati najcesce prigovore (Objection Handling)
+
+### Prigovor 1: "Pošaljite mi to na mail"
+
+Ovo je uljudan nacin da vas odbiju. 
+*Resenje:* "Naravno Marko, poslacu vam kratak pregled. Ali samo da bih bio siguran da vam saljem nesto korisno, a ne genericki materijal -- da li vas trenutno vise interesuje [Opcija A] ili [Opcija B]?"
+Ovo vas cesto vraca u konverzaciju.
+
+### Prigovor 2: "Vec saradjujemo sa drugom agencijom/firmom"
+
+Ovo je zapravo odlican znak -- to znaci da vec placaju za uslugu koju vi nudite i razumeju vrednost.
+*Resenje:* "To je odlicno, znaci da ozbiljno shvatate [ovu oblast]. Zovem vas bas zato da bih vam ponudio drugaciju perspektivu. Ne trazim da otkazete saradnju sa njima. Zelim samo da odvojimo 10 minuta sledece nedelje da uporedite nase brojke sa onim sto trenutno dobijate. Ako ste vi vec prezadovoljni rezultatima, mozemo tu i zavrsiti. Zvuci fer?"
+
+### Prigovor 3: "Nemam vremena sada"
+
+*Resenje:* "Potpuno razumem. Zato cu sada i spustiti slusalicu. Da li je utorak u 10 ujutru bolje vreme da vas nakratko pozovem?"
+
+Za dodatnu strategiju oko postizanja boljih stopa konverzije na sastancima i digitalnog prisustva, pogledajte i nas vodic o [kako odabrati agenciju za digitalni marketing](/blog/kako-odabrati-agenciju-za-digitalni-marketing-srbija-2026).
+
+## Plan u 3 koraka za primenu 
+
+1. **Definisite Ideal Customer Profile (ICP)** -- kome tacno prodajete i koje su njihove tri najvece "bolne tacke".
+2. **Kreirajte svoju skriptu** -- prilagodite sablon iznad svom trzistu i uvezbavajte ga naglas dok ne zvuci prirodno. 
+3. **Primenite "Warm Calling" taktiku** -- uvek nadjite nacin da stupite u kontakt na LinkedIn-u ili putem emaila par dana pre nego sto podignete slusalicu.
+
+Za sveobuhvatnu marketing strategiju koja generise leadove pre nego sto ih uopste pozovete, javite se preko [kontakt forme](/kontakt) -- pomoci cemo vam da napravite sistem koji automatski pronalazi klijente.
+`
+  },
+  {
     slug: 'b2b-prodaja-kako-zatvoriti-klijenta-srbija-2026',
     title: 'B2B prodaja u Srbiji 2026: kako generisati leadove i zatvoriti ugovore',
     excerpt: 'Praktican vodic za B2B prodaju u Srbiji 2026. Od pronalazenja kontakata preko hladnog outreach-a do prodajnog sastanka koji konvertuje bez spustanja cene.',

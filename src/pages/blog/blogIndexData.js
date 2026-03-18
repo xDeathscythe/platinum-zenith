@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "hladni-pozivi-cold-calling-skripta-srbija-2026",
+    "title": "Hladni pozivi u Srbiji 2026: B2B skripta i strategija koja donosi sastanke",
+    "excerpt": "Da li cold calling i dalje radi u Srbiji? Praktican vodic, B2B skripte za hladne pozive, prevazilazenje prigovora i kako doci do direktora.",
+    "date": "2026-03-18",
+    "category": "Prodaja",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "b2b-prodaja-kako-zatvoriti-klijenta-srbija-2026",
     "title": "B2B prodaja u Srbiji 2026: kako generisati leadove i zatvoriti ugovore",
     "excerpt": "Praktican vodic za B2B prodaju u Srbiji 2026. Od pronalazenja kontakata preko hladnog outreach-a do prodajnog sastanka koji konvertuje bez spustanja cene.",
