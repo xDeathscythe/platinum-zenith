@@ -1,5 +1,97 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'b2b-prodaja-kako-zatvoriti-klijenta-srbija-2026',
+    title: 'B2B prodaja u Srbiji 2026: kako generisati leadove i zatvoriti ugovore',
+    excerpt: 'Praktican vodic za B2B prodaju u Srbiji 2026. Od pronalazenja kontakata preko hladnog outreach-a do prodajnog sastanka koji konvertuje bez spustanja cene.',
+    date: '2026-03-18',
+    category: 'Prodaja',
+    readTime: '9 min',
+    content: `
+## Zasto stari nacini B2B prodaje vise ne rade u Srbiji
+
+Hladni pozivi direktoru (koji se nikad ne javlja), genericki emailovi sa naslovom "Nasa ponuda", i obecanja o "najboljem kvalitetu i najnizim cenama". Ovo je B2B prodaja iz 2015. godine. U 2026. godini, ovakav pristup vas samo stavlja na spam listu.
+
+Direktori i donosioci odluka u srpskim firmama su danas zatrpani ponudama. Da biste zatvorili B2B ugovor, morate doneti konkretnu vrednost pre nego sto uopste trazite sastanak. 
+
+Za pregled marketing kanala koji generisu B2B leadove, pogledajte nas vodic o [cenama digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Faza 1: Generisanje B2B leadova
+
+### LinkedIn kao primarni kanal
+
+U B2B svetu, [LinkedIn marketing](/blog/linkedin-marketing-za-b2b-firme-srbija-2026) je apsolutni kralj u Srbiji sa preko 1.2 miliona korisnika. Ali nemojte koristiti automatizovane alate za slanje "konektujmo se i evo moje ponude" poruka.
+
+**Strategija koja radi:**
+1. Pronadjite 50 donosioca odluka u firmama koje su vam idealni klijenti.
+2. Pratite njihov sadrzaj 2 nedelje i ostavljajte smislene komentare.
+3. Posaljite zahtev za konekciju BEZ prodajne poruke. Sacekajte da prihvate.
+4. Nakon nedelju dana, podelite nesto konkretno s njima (npr. "Primetio sam X na vasem sajtu, evo kako to resavaju slicne firme u inostranstvu").
+
+### Google Ads (Search) za high-intent leadove
+
+Dok LinkedIn gura vasu poruku ljudima koji je mozda ne traze, Google Ads hvata ljude koji aktivno guglaju resenje. "Softver za magacin", "agencija za zaposljavanje radnika iz inostranstva", "proizvodnja kartonske ambalaze na veliko".
+
+Klik na B2B Google Ads-u u Srbiji kosta izmedju 0.5 i 3 EUR, ali kvalitet leada je vrhunski. Pogledajte nas tekst o [cenama Google reklama](/google-reklame-cena) za detaljnije budzete.
+
+## Faza 2: Outreach (Prvi kontakt)
+
+### Kako napisati hladni email koji donosi sastanak
+
+Direktor ne zeli da cita istorijat vase firme u 5 paragrafa. On zeli da zna sta on dobija. 
+
+**Struktura savrsenog B2B emaila (max 100 reci):**
+- **Personalizacija:** "Video sam vas nedavni post o X" ili "Primetio sam da ste prosirili tim u odeljenju Y".
+- **Problem:** "Vecina firmi u vasoj bransi gubi 15% profita na Z."
+- **Resenje (bez hvalisanja):** "Mi smo pomogli [ime slicne firme] da taj problem svede na 2% za manje od mesec dana."
+- **Low-friction CTA:** "Da li ste otvoreni da vam u utorak posaljem kratak video od 2 minuta kako smo to uradili?" (Ne trazite odmah sastanak od 30 minuta!)
+
+## Faza 3: Prodajni sastanak (Discovery Call)
+
+Najveca greska u B2B prodaji je koriscenje prvog sastanka za prezentaciju vase usluge. Prvi sastanak (Discovery) sluzi isljućivo da postavite pravu dijagnozu.
+
+### Pravilo 70/30
+
+Klijent treba da prica 70% vremena, vi 30%. Vasa uloga je da postavljate prava pitanja:
+- "Gde gubite najvise vremena trenutno?"
+- "Koliko vas kosta taj problem na mesecnom nivou?"
+- "Sta ste do sada pokusali da uradite povodom toga?"
+- "Zasto to nije uspelo?"
+
+Kad klijent sam artikulise koliko ga boli trenutna situacija, vasa usluga vise nije trosak -- ona je investicija u ustedu ili rast.
+
+## Faza 4: Zatvaranje ugovora (Closing)
+
+### Kako izbeci "poslacemo vam ponudu pa se cujemo"
+
+Ova recenica ubija 80% B2B dogovora u Srbiji. Kad posaljete PDF ponudu na mail, gubite kontrolu nad procesom. 
+
+**Bolji pristup:**
+1. Na kraju Discovery poziva recite: "Na osnovu ovoga, definitivno vam mozemo pomoci. Potrebno mi je 48 sati da sastavim precizan plan. Da li vam odgovara da se cujemo u cetvrtak u 14h da prodjemo zajedno kroz to?"
+2. Zakazite sledeci korak (Proposal review) odmah, dok ste na pozivu.
+3. Na sledecem pozivu podelite ekran, prodjite kroz resenje zajedno, i odgovorite na pitanja u realnom vremenu.
+
+### Kako odgovoriti na "Preskupi ste"
+
+Ovo nije odbijanje. Ovo je zahtev za opravdanjem vrednosti. 
+
+Ako prodajete uslugu od 2.000 EUR, a klijent kaze da je skupo, nemojte odmah nuditi popust. Pitajte: "Preskupo u odnosu na sta?" ili "Razumem. Hajde da pogledamo opet matematiku -- ako vam ovaj sistem donese/ustedi 15.000 EUR godisnje, da li investicija od 2.000 EUR i dalje deluje visoko?"
+
+Ako odmah spustite cenu, pokazujete da vasa usluga nikada nije ni vredela tu cifru.
+
+## 30-dnevni plan za povecanje B2B prodaje
+
+**Nedelja 1:** Optimizujte LinkedIn profil. On mora izgledati kao landing stranica, ne kao CV. Identifikujte 50 potencijalnih klijenata.
+
+**Nedelja 2:** Krenite sa ostavljanjem komentara na objave vasih meta. Posaljite prvih 15 personalizovanih poruka (bez pitch-a).
+
+**Nedelja 3:** Krenite sa follow-up porukama za one koji su prihvatili konekciju. Predlozite slanje korisnog resursa, ne sastanak. 
+
+**Nedelja 4:** Analizirajte rezultate. Ako imate problem da dobijete odgovore, menjajte poruku. Ako dobijate odgovore ali ne sastanke, menjajte CTA.
+
+Za pomoc sa B2B marketing strategijom i kreiranjem kampanja koje donose kvalifikovane leadove, javite se preko [kontakt forme](/kontakt) -- rado cemo analizirati vas prodajni levak.
+`
+  },
+  {
     slug: 'tiktok-reklame-cena-srbija-2026',
     title: 'TikTok reklame u Srbiji 2026: cene, budzeti i ko treba da se oglasava',
     excerpt: 'Koliko kostaju TikTok reklame u Srbiji 2026. CPM i CPA benchmarci, minimalni dnevni budzeti i za koje firme ovaj kanal donosi najbolji ROI.',

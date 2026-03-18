@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "b2b-prodaja-kako-zatvoriti-klijenta-srbija-2026",
+    "title": "B2B prodaja u Srbiji 2026: kako generisati leadove i zatvoriti ugovore",
+    "excerpt": "Praktican vodic za B2B prodaju u Srbiji 2026. Od pronalazenja kontakata preko hladnog outreach-a do prodajnog sastanka koji konvertuje bez spustanja cene.",
+    "date": "2026-03-18",
+    "category": "Prodaja",
+    "readTime": "9 min",
+    "isDraft": false
+  },
+  {
     "slug": "tiktok-reklame-cena-srbija-2026",
     "title": "TikTok reklame u Srbiji 2026: cene, budzeti i ko treba da se oglasava",
     "excerpt": "Koliko kostaju TikTok reklame u Srbiji 2026. CPM i CPA benchmarci, minimalni dnevni budzeti i za koje firme ovaj kanal donosi najbolji ROI.",
