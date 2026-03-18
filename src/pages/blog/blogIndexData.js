@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "ab-testiranje-sajta-srbija-2026",
+    "title": "A/B testiranje sajta u Srbiji 2026: kako doneti odluke na osnovu podataka",
+    "excerpt": "Vodic za A/B testiranje za srpske firme 2026. Besplatni alati, sta testirati prvo, koliko saobracaja treba i kako interpretirati rezultate.",
+    "date": "2026-03-18",
+    "category": "CRO",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "google-business-profile-optimizacija-srbija-2026",
     "title": "Google Business Profile optimizacija u Srbiji 2026: kompletna checklista",
     "excerpt": "Kako optimizovati Google Business profil za lokalni biznis u Srbiji 2026. Checklista sa 15 koraka za vece prisustvo na Google Mapi i vise poziva.",

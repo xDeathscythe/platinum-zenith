@@ -1,5 +1,106 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'ab-testiranje-sajta-srbija-2026',
+    title: 'A/B testiranje sajta u Srbiji 2026: kako doneti odluke na osnovu podataka',
+    excerpt: 'Vodic za A/B testiranje za srpske firme 2026. Besplatni alati, sta testirati prvo, koliko saobracaja treba i kako interpretirati rezultate.',
+    date: '2026-03-18',
+    category: 'CRO',
+    readTime: '8 min',
+    content: `
+## Zasto intuicija nije dovoljna za odluke na sajtu
+
+"Mislim da bi crveno dugme bolje radilo." "Hajde da stavimo veci font." "Dodajmo jos jedan slider na pocetnu."
+
+Ovako vecina firmi u Srbiji donosi odluke o dizajnu i sadrzaju sajta -- na osnovu licnog ukusa. Problem: vas ukus nije ukus vasih kupaca. A/B testiranje zamenjuje nagadjanje merenjem.
+
+Umesto da se raspravljate 2 sata da li da promenite naslov, pustite obe verzije i vidite koja donosi vise prodaja. Podaci pobedjuju argumente.
+
+Za siri kontekst o optimizaciji konverzije pogledajte [CRO vodic za srpske sajtove](/blog/optimizacija-konverzije-sajta-cro-srbija-2026).
+
+## Sta je A/B test i kako funkcionise
+
+A/B test (ili split test) je eksperiment gde jednoj polovini posetilaca prikazujete verziju A, a drugoj polovini verziju B iste stranice. Pratite koja verzija donosi vise konverzija (kupovina, registracija, popunjavanje forme).
+
+**Primer:** Imate landing stranicu sa CTA dugmetom "Posaljite upit". Napravite kopiju stranice gde dugme kaze "Zatrazite besplatnu procenu". Pustite obe verzije 2 nedelje i merite koja ima visi procenat klikova.
+
+Kljucno pravilo: **testirate JEDNU stvar istovremeno**. Ako promenite naslov, dugme i sliku odjednom, necete znati sta je napravilo razliku.
+
+## Besplatni alati za A/B testiranje
+
+### Google Optimize zamena: Microsoft Clarity + GA4
+
+Google je ugasio Optimize u 2023. Za srpske firme u 2026, najbolja besplatna kombinacija je:
+
+**Microsoft Clarity** -- snima ponasanje korisnika (heatmape, snimci sesija, scroll mape). Potpuno besplatan, bez limita na saobracaj. Instalira se za 5 minuta.
+
+**GA4 (Google Analytics 4)** -- prati konverzije i omogucava poredjenje performansi razlicitih URL-ova. U kombinaciji sa UTM parametrima, mozete pratiti A/B testove bez placenog alata.
+
+### Za firme sa budzetom
+
+**VWO** (Visual Website Optimizer) -- vizuelni editor za kreiranje A/B varijanti bez kodiranja. Od 99 USD mesecno.
+**Optimizely** -- enterprise resenje za vece firme sa velikim saobracajem.
+
+## Sta testirati prvo (po prioritetu)
+
+### 1) Naslov na landing stranici
+
+Naslov je prva stvar koju posetilac vidi. Promena naslova moze da poveca konverziju za 10-40%. Testirajte:
+- Benefit vs. feature naslov ("Ustedite 30% na porez" vs. "Profesionalne knjigovodstvene usluge")
+- Pitanje vs. tvrdnja ("Da li gubite novac na lose oglase?" vs. "Prestanite da gubite novac na lose oglase")
+- Sa brojem vs. bez broja ("5 razloga da..." vs. "Razlozi da...")
+
+### 2) CTA dugme (tekst, boja, pozicija)
+
+Tekst na dugmetu ima ogroman uticaj. "Submit" je najgori moguci tekst. Testirajte specificne poruke:
+- "Zelim ponudu" vs. "Posalji upit"
+- "Pocni besplatno" vs. "Probaj 14 dana"
+
+Boja dugmeta: testirajte kontrastnu boju koja se razlikuje od ostatka stranice (ne mora biti crvena -- mora biti uocljiva).
+
+### 3) Forma (broj polja)
+
+Svako polje koje uklonite iz kontakt forme povecava konverziju za 10-15%. Testirajte 5 polja vs 3 polja. U vecini slucajeva, ime + email + jedna poruka je sve sto vam treba za prvi kontakt.
+
+### 4) Social proof pozicija
+
+Gde staviti testimonijale? Testirajte: odmah ispod naslova vs. pored CTA dugmeta vs. u posebnoj sekciji. Pozicija social proof-a moze da promeni konverziju za 15-25%.
+
+## Koliko saobracaja vam treba za validan test
+
+Ovo je kljucno pitanje koje vecina ljudi ne razume. Ako imate 50 posetilaca dnevno i pustite test na 3 dana, imate 150 posetilaca u svakoj grupi. To je premalo za statisticki znacajan rezultat.
+
+**Pravilo palca:**
+- Minimum 100 konverzija po varijanti za pouzdan rezultat
+- Ako vam je stopa konverzije 2%, trebate 5.000 posetilaca po varijanti
+- Test mora trajati minimum 2 pune nedelje (da pokrije razlicite dane u nedelji)
+
+Za sajtove sa manje od 1.000 posetilaca mesecno, A/B testiranje u klasicnom smislu nije prakticno. Koristite radikalne promene (potpuno nov dizajn stranice) umesto sitnih tweakova, jer vam trebaju vece razlike da biste videli efekat sa malim uzorkom.
+
+## Kako interpretirati rezultate
+
+### Statistical Significance
+
+Ne reagujte na rezultate pre nego sto dostignete 95% statisticke znacajnosti. Ako posle 3 dana varijanta B ima 3% visu konverziju, to moze biti slucajnost. Sacekajte da kalkulator kaze 95%+ pre nego sto proglasiste pobednika.
+
+Besplatan kalkulator: AB Test Calculator od Evan Miller-a (abtestguide.com/calc/).
+
+### Gledajte prihod, ne samo klikove
+
+Varijanta B moze imati visi CTR ali nizi prihod (jer privlaci pogresne ljude). Uvek merite krajnji cilj -- prodaju, kvalifikovani lead, prihod -- ne samo intermedijarne metrike.
+
+Za kompletnu metodologiju merenja, pogledajte [kako meriti ROI digitalnog marketinga](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
+
+## Najcesce greske u A/B testiranju
+
+- **Prekratko trajanje testa** -- minimum 2 nedelje, cak i ako vam se cini da vec imate pobednika
+- **Testiranje previse stvari odjednom** -- jedna promena = jedan test
+- **Ignorisanje mobilnih korisnika** -- proverite rezultate za desktop i mobilne posebno, promena koja radi na desktopu moze da ne radi na telefonu
+- **Nijedna hipoteza** -- pre testa napisite sta ocekujete i zasto ("Ocekujem da ce krathe dugme povecati klikove jer je jasnije")
+
+Za profesionalnu CRO strategiju i A/B testing program, javite se preko [kontakt forme](/kontakt).
+`
+  },
+  {
     slug: 'google-business-profile-optimizacija-srbija-2026',
     title: 'Google Business Profile optimizacija u Srbiji 2026: kompletna checklista',
     excerpt: 'Kako optimizovati Google Business profil za lokalni biznis u Srbiji 2026. Checklista sa 15 koraka za vece prisustvo na Google Mapi i vise poziva.',
