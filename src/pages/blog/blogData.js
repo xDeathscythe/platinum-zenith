@@ -1,5 +1,101 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'woocommerce-vs-shopify-srbija-2026',
+    title: 'WooCommerce vs Shopify u Srbiji 2026: koji je bolji izbor za vasu prodavnicu',
+    excerpt: 'Detaljno poredjenje WooCommerce-a i Shopify-ja za srpsko trziste 2026. Troskovi, placanje, dostava, skalabilnost i koji je pravi izbor za vas biznis.',
+    date: '2026-03-18',
+    category: 'WordPress',
+    readTime: '9 min',
+    content: `
+## Zasto ovo poredjenje izgleda drugacije u Srbiji nego u ostatku sveta
+
+Vecina clanaka o WooCommerce vs Shopify na engleskom jeziku pretpostavlja da imate pristup Shopify Payments, Apple Pay, Shop Pay i celom Shopify ekosistemu. U Srbiji 2026, situacija je drugacija.
+
+Shopify Payments nije dostupan u Srbiji. To znaci da morate koristiti third-party payment gateway (Stripe preko posrednika ili lokalne banke), sto povecava troskove i komplikuje integraciju. WooCommerce, s druge strane, ima direktne integracije sa srpskim bankama (Banca Intesa, OTP) i dostavnim sluzbama.
+
+Za sire informacije o pokretanju online prodavnice, pogledajte nas [vodic za e-commerce u Srbiji](/blog/kako-pokrenuti-online-prodavnicu-srbija-2026).
+
+## Troskovi: Realno poredjenje za srpsko trziste
+
+### WooCommerce (WordPress)
+- **Hosting:** 50-300 EUR/godisnje (Hostinger, SiteGround)
+- **Domen:** 10-15 EUR/godisnje
+- **SSL:** Besplatan (Let's Encrypt)
+- **Tema:** 0-60 EUR jednokratno
+- **Placanje:** Integracija sa lokalnim bankama (jednokratna cena 100-500 EUR za custom integraciju, ili besplatan plugin)
+- **Ukupno prva godina:** 100-800 EUR
+- **Mesecni troskovi posle:** 5-25 EUR (hosting)
+
+### Shopify
+- **Basic plan:** 29 USD mesecno (348 USD/godisnje)
+- **Transakcioni fee (bez Shopify Payments):** 2% na svaku prodaju
+- **Domen:** 14 USD/godisnje
+- **Tema:** 0-350 USD
+- **Placanje:** Third-party gateway provizija 2-3.5% + Shopify-jev fee od 2%
+- **Ukupno prva godina:** 450-1.200 USD
+- **Mesecni troskovi posle:** 29-79 USD + transakcioni fee
+
+Za male prodavnice sa 50-200 porudzbina mesecno, WooCommerce je 3-5x jeftiniji ukupno. Za detaljnu analizu cena pogledajte [cene izrade sajta](/cene-izrade-sajta) i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+
+## Lokalno placanje i dostava
+
+### Placanje karticama
+**WooCommerce:** Direktna integracija sa Banca Intesa eCommerce i OTP Pay. Provizija: 2-3% po transakciji. Bez dodatnih posrednika.
+**Shopify:** Potreban Stripe (koji zahteva posrednika za srpske firme) ili third-party gateway. Shopify dodaje 2% transakcioni fee na sve sto nije Shopify Payments.
+
+### Pouzece (Cash on Delivery)
+**WooCommerce:** Ugradjeno. Radi odmah.
+**Shopify:** Moguce ali zahteva dodatnu konfiguraciju.
+
+### Dostavne sluzbe
+**WooCommerce:** Pluginovi za D Express, BEX, Post Express, AKS. Vecina ima besplatan plugin ili API integraciju.
+**Shopify:** Nema native integracije sa srpskim dostavama. Morate koristiti Shopify Shipping rules ili custom app.
+
+## Kontrola i prilagodljivost
+
+### WooCommerce prednosti
+- **Potpuna kontrola** nad kodom, dizajnom i funkcionalnostima
+- **Neograniceni pluginovi** (60.000+ besplatnih na WordPress.org)
+- **Vlasnistvo nad podacima** -- baza podataka je vasa, na vasem serveru
+- **Custom razvoj** -- mozete napraviti bilo sta (loyalty program, custom checkout, B2B pricing)
+- **AI integracija** -- mozete dodati AI asistenta poput [Niwa AI](https://niwachat.com) za automatsku prodaju
+
+### Shopify prednosti
+- **Jednostavnost** -- ne morate brinuti o hostingu, sigurnosti, azuriranjima
+- **Uptime garancija** -- Shopify se nikad ne rusi (za razliku od loseg hostinga)
+- **App Store** -- plaćeni dodaci koji rade "iz kutije"
+- **Checkout optimizacija** -- Shopify-jev checkout proces je jedan od najboljih na svetu
+
+## Za koga je WooCommerce bolji izbor?
+
+- Firme koje zele **potpunu kontrolu** nad sajtom
+- E-commerce sa **lokalizovanim placanjem** (srpske banke, pouzece)
+- Biznisi koji planiraju **custom funkcionalnosti** (B2B cene, membership, custom checkout)
+- Firme sa postojecim WordPress sajtom koje dodaju prodavnicu
+- Budzet-svesni preduzetnici (posebno u prvoj godini)
+
+## Za koga je Shopify bolji izbor?
+
+- Firme koje **ne zele tehnicke brige** (hosting, bezbednost, azuriranja)
+- Brendovi koji prodaju **pretezno u inostranstvu** (gde Shopify Payments radi)
+- Biznisi kojima treba **brz start** (prodavnica za 1-2 dana)
+- Firme sa vecim budzetom koje mogu da podnesu mesecne pretplate i transakcione fee-ove
+
+## Nasa preporuka za srpsko trziste u 2026
+
+Za vecinu srpskih firmi, **WooCommerce je bolji izbor**. Razlozi:
+1. Direktna integracija sa lokalnim bankama i dostavama
+2. Nema transakcionog fee-a (osim bankine provizije)
+3. 3-5x nizi troskovi u prvoj godini
+4. Potpuna kontrola i vlasnistvo nad podacima
+5. Mogucnost dodavanja AI prodajnog asistenta
+
+Shopify ima smisla samo ako prodajete globalno i Shopify Payments radi u vasoj zemlji, ili ako vam je tehnicka jednostavnost vaznija od cene.
+
+Za pomoc sa izborom platforme ili izradom online prodavnice, javite se preko [kontakt forme](/kontakt).
+`
+  },
+  {
     slug: 'upravljanje-reputacijom-drustvene-mreze-srbija-2026',
     title: 'Upravljanje online reputacijom na drustvenim mrezama u Srbiji 2026',
     excerpt: 'Kako odgovarati na negativne komentare, voditi kriznu komunikaciju i graditi poverenje na Instagramu i Facebooku za srpske firme u 2026.',

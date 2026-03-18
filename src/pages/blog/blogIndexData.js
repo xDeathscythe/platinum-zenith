@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "woocommerce-vs-shopify-srbija-2026",
+    "title": "WooCommerce vs Shopify u Srbiji 2026: koji je bolji izbor za vasu prodavnicu",
+    "excerpt": "Detaljno poredjenje WooCommerce-a i Shopify-ja za srpsko trziste 2026. Troskovi, placanje, dostava, skalabilnost i koji je pravi izbor za vas biznis.",
+    "date": "2026-03-18",
+    "category": "WordPress",
+    "readTime": "9 min",
+    "isDraft": false
+  },
+  {
     "slug": "upravljanje-reputacijom-drustvene-mreze-srbija-2026",
     "title": "Upravljanje online reputacijom na drustvenim mrezama u Srbiji 2026",
     "excerpt": "Kako odgovarati na negativne komentare, voditi kriznu komunikaciju i graditi poverenje na Instagramu i Facebooku za srpske firme u 2026.",
