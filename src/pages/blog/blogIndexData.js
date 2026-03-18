@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "linkedin-retargeting-b2b-kampanje-srbija-2026",
+    "title": "LinkedIn retargeting: Kako vratiti B2B donosioce odluka na sajt u 2026",
+    "excerpt": "Vodic za LinkedIn retargeting kampanje u Srbiji. Kako koristiti Insight Tag, Company Targeting i Document Ads za smanjenje cene lead-a i zatvaranje ugovora.",
+    "date": "2026-03-18",
+    "category": "LinkedIn Ads",
+    "readTime": "7 min",
+    "isDraft": false
+  },
+  {
     "slug": "linkedin-reklame-cena-b2b-marketing-srbija-2026",
     "title": "LinkedIn reklame cena u Srbiji 2026: Vodic za isplativ B2B marketing",
     "excerpt": "Koliko kostaju LinkedIn reklame u Srbiji 2026. Realan CPC, Lead Gen forme, InMail kampanje i kako smanjiti cenu klika za B2B ciljne grupe.",

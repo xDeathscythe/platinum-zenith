@@ -1,5 +1,86 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'linkedin-retargeting-b2b-kampanje-srbija-2026',
+    title: 'LinkedIn retargeting: Kako vratiti B2B donosioce odluka na sajt u 2026',
+    excerpt: 'Vodic za LinkedIn retargeting kampanje u Srbiji. Kako koristiti Insight Tag, Company Targeting i Document Ads za smanjenje cene lead-a i zatvaranje ugovora.',
+    date: '2026-03-18',
+    category: 'LinkedIn Ads',
+    readTime: '7 min',
+    content: `
+## Zasto hladni LinkedIn Ads ne donose B2B klijente iz prve
+
+Vecina srpskih firmi koje probaju LinkedIn Ads napravi istu gresku: postave "Zatrazite ponudu" oglas, usmere ga na 50.000 direktora u Srbiji, potrose 500 EUR i ne dobiju nijedan lead. Onda zakljuce da je "LinkedIn preskup".
+
+Problem nije u ceni. Problem je sto B2B donosioci odluka ne kupuju softver od 10.000 EUR ili konsultantske usluge na prvi klik. B2B kupovni proces zahteva u proseku 7-12 "dodira" sa brendom pre nego sto dodje do sastanka.
+
+Zato su **LinkedIn retargeting kampanje** tajno oruzje B2B prodaje. Omogucavaju vam da iskoristite onaj skupi prvi klik tako sto cete osobu pratiti mesecima dok ne bude spremna za razgovor.
+
+Za razumevanje pocetnih troskova pogledajte nas tekst o [cenama LinkedIn reklama u Srbiji](/blog/linkedin-reklame-cena-b2b-marketing-srbija-2026).
+
+## Kako radi LinkedIn Insight Tag (Pixel)
+
+Insight Tag je LinkedIn-ova verzija Facebook Pixela. To je kod koji postavljate na svoj sajt kako biste pratili ko vas posecuje.
+
+Ali tu lezi kljucna prednost LinkedIn-a: dok vam Facebook kaze "posetilo vas je 100 ljudi iz Beograda starih 35 godina", LinkedIn Insight Tag vam daje **demografiju po profesijama**. Mozete videti koje firme, iz kojih industrija i ljudi na kojim pozicijama posecuju vas sajt -- i to potpuno besplatno, i bez pustanja oglasa.
+
+### Sta vam treba za pocetak
+
+Da biste pokrenuli retargeting na LinkedIn-u, vasa publika (Website Audience) mora imati najmanje 300 clanova. Zato prvo morate dovesti saobracaj -- organski, preko Google Ads-a ili email marketinga. Ako vec imate [Google reklame](/google-reklame-cena), LinkedIn Insight Tag ce hvatati te ljude i omoguciti vam da ih targetirate na LinkedIn-u.
+
+## 3 Isplative Retargeting Strategije
+
+### 1) "The Trust Builder" (Social Proof Retargeting)
+
+Osoba je posetila vasu stranicu o uslugama, ali nije popunila kontakt formu. Sta raditi?
+
+**Los pristup:** Prikazati im oglas "Vratite se i zakazite sastanak".
+**Dobar pristup:** Prikazati im oglas sa studijom slucaja kako ste resili problem firmi slicnoj njihovoj.
+
+Kada direktor procita vasu ponudu i ode, on verovatno trazi jos informacija o tome da li ste pouzdani. Retargeting oglas koji sadrzi video izjavu postojeceg klijenta (testimonijal) je najjaci nacin da ga vratite na sajt.
+
+### 2) Document Ads Retargeting
+
+Dokument oglasi (PDF karuseli u feed-u) su najangazovaniji format na LinkedInu. 
+
+**Strategija:**
+- Napravite checklistu od 5 strana (npr. "Checklista za migraciju ERP softvera").
+- Pokrenite Document Ad kampanju na sve posjetioce sajta u poslednjih 90 dana.
+- Zasto radi: Ovi ljudi vas vec znaju, a PDF format im deluje edukativno, a ne prodajno. Dok citaju slajdove, podsecaju se na vasu ekspertizu. 
+
+### 3) Company Targeting (Account-Based Marketing)
+
+Ovo nije klasican retargeting, ali je povezano. Ako Insight Tag pokaze da vas sajt cesto posecuju zaposleni iz kompanije "Nelt", vi mozete kreirati publiku koja cilja **iskljucivo donosioce odluka u Neltu** i 10 slicnih kompanija.
+
+Tako umesto da cekate da vas kontaktiraju, vi se aktivno prikazujete pred ocima menadzmenta firme koja vec cita vas sajt.
+
+Za vise o B2B zatvaranju ugovora, procitajte i nas vodic o [B2B prodaji](/blog/b2b-prodaja-kako-zatvoriti-klijenta-srbija-2026).
+
+## Kako kombinovati Google Ads i LinkedIn Retargeting
+
+Najefikasniji B2B marketing levak u Srbiji trenutno izgleda ovako:
+
+1. **Google Ads (High Intent):** Osoba gugla "softver za pracenje zaliha" i dolazi na vas sajt. Klik je kostao 1 EUR. Ne kupuje odmah.
+2. **LinkedIn Insight Tag:** Osoba je prepoznata na vasem sajtu (npr. menadzer nabavke u proizvodnoj firmi).
+3. **LinkedIn Retargeting:** Ista ta osoba narednih nedelja vidi vase strucne PDF karusele i video izjave klijenata na svom LinkedIn feed-u. Klik kosta manje od 1.5 EUR jer je publika topla.
+4. **Konverzija:** Posle 3-4 nedelje, menadzer popunjava formu na LinkedInu ili ide direktno na vas sajt.
+
+Bez retargetinga, vi biste platili taj prvi klik na Google-u 1 EUR i izgubili tu osobu zauvek. Ovim pristupom smanjujete ukupni [CPA i povecavate ROI digitalnog marketinga](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
+
+## Najcesce greske u LinkedIn retargetingu
+
+### 1) Publika je predugo u retargetingu
+Ako vas neko nije kontaktirao 90 dana nakon sto je posetio sajt, verovatno ni nece. Postavite limit trajanja publike (Website Retargeting Window) na 30 do 60 dana maksimum za vecinu B2B usluga.
+
+### 2) Preveliki budzet za malu publiku
+Ako imate samo 500 posetilaca na sajtu mesecno, budzet za retargeting na LinkedIn-u ne treba da prelazi 3-5 EUR dnevno. Veci budzet od toga znaci da ce istih 500 ljudi gledati vas oglas po 5 puta dnevno -- sto dovodi do "ad fatigue" fenomena.
+
+### 3) Nema iskljucenja postojecih klijenata
+Ako vam neko vec placa za usluge, ne treba da ga bombardujete oglasima. Koristite "Exclude" opciju u LinkedIn Campaign Manager-u da uklonite listu emailova vasih postojecih klijenata.
+
+Za profesionalno vodjenje B2B kampanja i postavljanje retargeting levka, javite se preko [kontakt forme](/kontakt).
+`
+  },
+  {
     slug: 'linkedin-reklame-cena-b2b-marketing-srbija-2026',
     title: 'LinkedIn reklame cena u Srbiji 2026: Vodic za isplativ B2B marketing',
     excerpt: 'Koliko kostaju LinkedIn reklame u Srbiji 2026. Realan CPC, Lead Gen forme, InMail kampanje i kako smanjiti cenu klika za B2B ciljne grupe.',
