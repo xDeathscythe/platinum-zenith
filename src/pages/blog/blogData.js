@@ -1,5 +1,83 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'upravljanje-reputacijom-drustvene-mreze-srbija-2026',
+    title: 'Upravljanje online reputacijom na drustvenim mrezama u Srbiji 2026',
+    excerpt: 'Kako odgovarati na negativne komentare, voditi kriznu komunikaciju i graditi poverenje na Instagramu i Facebooku za srpske firme u 2026.',
+    date: '2026-03-18',
+    category: 'Drustvene Mreze',
+    readTime: '7 min',
+    content: `
+## Zasto se o vasoj firmi vec prica -- sa vama ili bez vas
+
+Svaki put kada kupac ima iskustvo sa vasim proizvodom ili uslugom, on ima mogucnost da to iskustvo podeli sa hiljadama ljudi jednim klikom. Negativna recenzija na Google-u, ljutiti komentar na Instagramu, ili TikTok video o losem iskustvu mogu za 24 sata da naprave vise stete nego sto godinu dana dobrog rada moze da popravi.
+
+Dobre vesti: isto tako, jedan viralnn pozitivni testimonijal moze da vam donese mesecni promet za nedelju dana.
+
+Online reputacija nije nesto sto "prepustate sudbini". To je proces koji se aktivno vodi. Za siru strategiju drustvenih mreza pogledajte [social media strategiju za male firme u Srbiji](/blog/social-media-strategija-za-male-firme-srbija-2026).
+
+## Kako odgovarati na negativne komentare (bez da izazovete jos veci skandal)
+
+### Zlatno pravilo: NIKADA ne brisati komentare
+
+Jedino gore od negativnog komentara je **obrisan** negativan komentar. Autor ce napraviti screenshot, objaviti ga na Storiju i napisati "Ova firma brise negativne recenzije". Sad imate 10x veci problem.
+
+Izuzetak: brisete samo spam, uvrede licne prirode ili objave koje nemaju veze sa vama.
+
+### Sablon za odgovor na negativnu recenziju
+
+1. **Zahvalite na povratnoj informaciji** (zvuci kontraintuitivno, ali pokazuje zrelost).
+2. **Priznajte problem** (ne pravdajte se, ne okrivljujte klijenta).
+3. **Ponudite konkretno resenje** (ne "javite nam se" nego "poslacu vam zamenu danas").
+4. **Premestite razgovor u privatni kanal** ("Poslala sam vam poruku u DM da resimo ovo odmah").
+
+**Primer losseg odgovora:** "Nije tacno, mi uvek isporucujemo na vreme, mozda je dostava zakasnila."
+**Primer dobreg odgovora:** "Zao nam je sto vasa porudzbina nije stigla na vreme. To nije nivo usluge koji zelimo da pruzimo. Upravo sam vam poslala poruku u DM da ovo resimo i pobrinemo se da budete zadovoljni."
+
+## Proaktivno gradjenje reputacije (Pre nego sto dodje kriza)
+
+### Prikupljanje pozitivnih recenzija
+
+Ne cekajte da zadovoljni klijenti sami ostave recenziju. 95% njih to nece uraditi osim ako ih ne pitate. Evo sistema:
+
+1. Posle uspesne isporuke ili zavrsetka usluge, posaljite kratku poruku: "Da li ste zadovoljni? Ako jeste, bio bih zahvalan za kratak utisak na Google-u / Instagramu."
+2. Posaljite DIREKTAN link na Google recenziju (mozete ga generisati u Google Business profilu).
+3. Postavite podsetnik 3 dana posle kupovine (automatski email ili SMS).
+
+Za vodjenje drustvenih mreza uz ustedu vremena, procitajte i nas [vodic za samostalno vodjenje mreza](/blog/kako-voditi-drustvene-mreze-srbija-2026).
+
+### User-Generated Content (UGC)
+
+Ohrabrite klijente da vas oznace kada koriste vas proizvod. Repostujte njihov sadrzaj na vasem profilu (sa dozvolom). Ovo je najjaci oblik socijalnog dokaza jer dolazi od stvarnih ljudi, ne od vase marketinig agencije.
+
+## Krizna komunikacija: Sta raditi kada stvari krenu naopako
+
+### Pravilo prvih 60 minuta
+
+Kada se pojavi ozbiljan problem (defektan proizvod, skandal sa zaposlenim, netacan podatak u reklami), imate manje od sat vremena da odreagirate pre nego sto se narativ otrgne kontroli.
+
+**Korak 1 (prvih 15 min):** Nemojte panicno brisati postove ili komentare. Procenite situaciju. Koliko je ozbiljno? Da li je problem realan?
+**Korak 2 (prvih 30 min):** Pripremite kratak statement. Nema pravdanja. "Svesni smo problema. Radimo na resenju. Evo sta cemo da uradimo."
+**Korak 3 (prvih 60 min):** Objavite statement na svim aktivnim kanalima. Odgovarajte na komentare sa istom porukom.
+
+### Sta NIKADA ne raditi u krizi
+
+- **Ne ignorisati problem** ("mozda ce proci samo"). Nece.
+- **Ne okrivljavati klijenta** ("trebalo je da procitate uputstvo"). 
+- **Ne lagati** ("to nije nas proizvod"). Ako je vas proizvod, priznajte.
+- **Ne koristiti humor** u ozbiljnim situacijama. Mozete delomvati bezobzirno.
+
+## Monitoring: Kako znati sta se prica o vama
+
+Postavite besplatne alate koji vas obavestaju kada neko pomene vase ime:
+
+- **Google Alerts:** Unesite ime firme, proizvoda i kljucnih ljudi. Dobijate email kad Google indeksira novi pomen.
+- **Instagram/Facebook notifikacije:** Ukljucite obavestenja za oznake (@mention) i komentare.
+- **Brand mentions u pretrazi:** Jednom nedeljno, ukucajte ime firme u Google i proverite prvu i drugu stranicu rezultata.
+
+Za kompletnu digitalnu strategiju koja ukljucuje i reputaciju i placene kampanje, pogledajte [cene digitalnog marketinga u Srbiji](/cene-digitalnog-marketinga) ili se javite preko [kontakt forme](/kontakt).
+`
+  },
+  {
     slug: 'kako-pokrenuti-marketing-agenciju-srbija-2026',
     title: 'Kako pokrenuti marketing agenciju u Srbiji 2026: od prvog klijenta do stabilnog prihoda',
     excerpt: 'Vodic za pokretanje marketing agencije u Srbiji 2026. Izbor nise, formiranje cena, pronalazenje prvih klijenata i skaliranje bez zaposljavanja.',

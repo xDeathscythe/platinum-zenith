@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "upravljanje-reputacijom-drustvene-mreze-srbija-2026",
+    "title": "Upravljanje online reputacijom na drustvenim mrezama u Srbiji 2026",
+    "excerpt": "Kako odgovarati na negativne komentare, voditi kriznu komunikaciju i graditi poverenje na Instagramu i Facebooku za srpske firme u 2026.",
+    "date": "2026-03-18",
+    "category": "Drustvene Mreze",
+    "readTime": "7 min",
+    "isDraft": false
+  },
+  {
     "slug": "kako-pokrenuti-marketing-agenciju-srbija-2026",
     "title": "Kako pokrenuti marketing agenciju u Srbiji 2026: od prvog klijenta do stabilnog prihoda",
     "excerpt": "Vodic za pokretanje marketing agencije u Srbiji 2026. Izbor nise, formiranje cena, pronalazenje prvih klijenata i skaliranje bez zaposljavanja.",
