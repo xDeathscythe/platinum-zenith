@@ -1,5 +1,106 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'kako-napraviti-landing-stranicu-koja-konvertuje-srbija-2026',
+    title: 'Kako napraviti landing stranicu koja konvertuje u Srbiji 2026',
+    excerpt: 'Vodic za kreiranje landing stranice koja pretvara posetioce u klijente. 7 elemenata koji cine razliku izmedju 1% i 10% stope konverzije.',
+    date: '2026-03-18',
+    category: 'Lead Generation',
+    readTime: '8 min',
+    content: `
+## Zasto vasa landing stranica ne konvertuje (i sta da uradite)
+
+Vecina landing stranica srpskih firmi ima istu bolest: pokusavaju da kazu previse. Posetioca bombarduju sa 15 usluga, 3 slidera, biografijom firme od 1992. godine i kontakt formom od 8 polja negde na dnu stranice.
+
+Landing stranica ima jedan jedini cilj: da posetilac uradi JEDNU stvar. Popuni formu. Zatrazi ponudu. Zakaze poziv. Kupi proizvod. Sve sto ne sluzi tom cilju mora da ode.
+
+Za tehnicke aspekte optimizacije pogledajte [on-page SEO checklistu](/blog/on-page-seo-checklista-srbija-2026) i nas vodic za [CRO optimizaciju](/blog/optimizacija-konverzije-sajta-cro-srbija-2026).
+
+## 7 Elemenata landing stranice koja konvertuje
+
+### 1) Naslov koji obecava konkretan rezultat
+
+Posetilac vidi vas naslov i za 3 sekunde odlucuje da li ostaje ili odlazi. Naslov mora jasno reci STA dobija ako ostane.
+
+**Los naslov:** "Dobrodosli u nasu agenciju za digitalni marketing"
+**Dobar naslov:** "Dupliramo broj upita sa Google-a za 90 dana -- ili ne placate"
+
+Pravilo: naslov treba da zavrsi recenicu "Zelim da..." iz perspektive kupca.
+
+### 2) Podnaslov koji objasnjava KAKO
+
+Naslov hvata paznju. Podnaslov daje kontekst. Jednom recenicom objasnite mehanizam ili pristup.
+
+**Primer:** "Koristimo kombinaciju Google Ads kampanja i CRO optimizacije da pretvorimo vas postojeci saobracaj u kvalifikovane upite."
+
+### 3) Vizuelni dokaz (Hero Image ili Video)
+
+Slika proizvoda u upotrebi, screenshot rezultata, ili kratki video od 30-60 sekundi. Vizualni element mora podrzavati obecanje iz naslova, ne samo da bude dekorativan.
+
+Najbolji format: kratki video testimonijal klijenta. Konvertuje 80% bolje od staticne slike.
+
+### 4) Bullet poeni (3-5 benefita)
+
+Ljudi ne citaju velike blokove teksta na landing stranicama. Oni skeniraju. Dajte im 3-5 konkretnih benefita u bullet formatu:
+
+- "Vise upita bez povecanja budzeta za reklame"
+- "Rezultati vidljivi vec u prvom mesecu"
+- "Bez dugih ugovora -- mesec za mesec saradnja"
+
+### 5) Social proof iznad forme
+
+Testimonijali, logotipi klijenata, ocene (4.9/5 na Google-u), ili konkretan broj ("Pomogoli smo 150+ firmi u Srbiji"). Social proof mora biti neposredno pre ili pored kontakt forme.
+
+Ljudi ne popunjavaju forme jer im je tesko da ukucaju ime -- vec zato sto ne veruju da ce dobiti vrednost zauzvrat. Social proof resava taj problem.
+
+### 6) Forma sa minimalnim brojem polja
+
+Svako polje koje dodate smanjuje konverziju za 10-15%. Za vecinu biznisa, dovoljno je:
+- Ime
+- Email (ili telefon)
+- Jedna kratka poruka (opciono)
+
+Tekst na dugmetu: nikad "Posalji" ili "Submit". Koristite akcioni tekst koji zavrsava obecanje: "Zelim besplatnu analizu" ili "Posaljite mi ponudu".
+
+Za detaljnu analizu formi i checkout procesa pogledajte [optimizaciju konverzije](/blog/optimizacija-konverzije-sajta-cro-srbija-2026).
+
+### 7) Urgency ili garancija
+
+Dajte razlog da posetilac reaguje SADA, a ne sutra (kada ce vas zaboraviti):
+- **Urgency:** "Besplatna analiza -- samo 5 mesta ovog meseca"
+- **Garancija:** "Ako ne vidite rast u 60 dana, vracamo novac"
+- **Social proof urgency:** "Ove nedelje smo primili 12 novih upita"
+
+## Sta NE staviti na landing stranicu
+
+- **Navigacioni meni:** Svaki link koji nije vas CTA je izlaz sa stranice. Uklonite meni ili ga svedite na logo i CTA dugme.
+- **Vise ponuda:** Jedna stranica = jedna ponuda. Ako imate 3 usluge, napravite 3 landing stranice.
+- **Dugacku biografiju firme:** Niko ne cita "Osnovani smo 2005. godine sa vizijom...". Kratka recenica o kredibilitetu je dovoljna.
+- **Genericki stock fotografije:** Nasmejana zena sa slusalicama ne prodaje nista. Koristite prave fotografije vaseg tima ili proizvoda.
+
+## Gde slati saobracaj na landing stranicu
+
+Landing stranica bez saobracaja je billboard u pustinji. Evo odakle da dovedete ljude:
+
+**Google Ads (Search)** -- najbolji izvor jer ljudi vec traze vasu uslugu. Oglas vodi direktno na landing stranicu, ne na homepage. Za budzete pogledajte [Google reklame cena](/google-reklame-cena).
+
+**Facebook/Instagram Ads** -- za ponude koje resavaju jasan problem. Lead magnet (besplatan vodic, popust) radi bolje od direktne prodaje. Za cene pogledajte [Instagram reklame cena](/instagram-reklame-cena).
+
+**Email kampanje** -- ako imate postojecu email listu, landing stranica za novu ponudu konvertuje 3-5x bolje nego obican email sa linkom na homepage. Vise u nasem [vodicu za email listu](/blog/email-lista-za-male-firme-srbija-2026).
+
+## Kako meriti uspesnost landing stranice
+
+Tri metrike koje morate pratiti:
+
+1. **Conversion Rate (CR):** Procenat posetilaca koji popune formu. Zdrav prosek za Srbiju: 3-8% za usluge, 1-3% za e-commerce.
+2. **Cost per Lead (CPL):** Koliko vas kosta jedan lead (budzet za reklame / broj leadova). Cilj: CPL manji od 5% od prosecne vrednosti klijenta.
+3. **Bounce Rate:** Procenat ljudi koji odu bez ijedne interakcije. Ako je preko 70%, nesto je fundamentalno pogresno (spor sajt, los naslov, ili pogresna publika).
+
+Za kompletnu metodologiju merenja procitajte [kako meriti ROI digitalnog marketinga](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
+
+Za izradu landing stranice koja donosi rezultate, javite se preko [kontakt forme](/kontakt) -- analiziracemo vas trenutni funnel i predloziti konkretna poboljsanja.
+`
+  },
+  {
     slug: 'ab-testiranje-sajta-srbija-2026',
     title: 'A/B testiranje sajta u Srbiji 2026: kako doneti odluke na osnovu podataka',
     excerpt: 'Vodic za A/B testiranje za srpske firme 2026. Besplatni alati, sta testirati prvo, koliko saobracaja treba i kako interpretirati rezultate.',

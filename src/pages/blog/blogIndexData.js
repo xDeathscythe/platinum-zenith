@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "kako-napraviti-landing-stranicu-koja-konvertuje-srbija-2026",
+    "title": "Kako napraviti landing stranicu koja konvertuje u Srbiji 2026",
+    "excerpt": "Vodic za kreiranje landing stranice koja pretvara posetioce u klijente. 7 elemenata koji cine razliku izmedju 1% i 10% stope konverzije.",
+    "date": "2026-03-18",
+    "category": "Lead Generation",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "ab-testiranje-sajta-srbija-2026",
     "title": "A/B testiranje sajta u Srbiji 2026: kako doneti odluke na osnovu podataka",
     "excerpt": "Vodic za A/B testiranje za srpske firme 2026. Besplatni alati, sta testirati prvo, koliko saobracaja treba i kako interpretirati rezultate.",
