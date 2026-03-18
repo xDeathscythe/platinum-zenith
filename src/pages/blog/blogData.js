@@ -1,5 +1,81 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'linkedin-reklame-cena-b2b-marketing-srbija-2026',
+    title: 'LinkedIn reklame cena u Srbiji 2026: Vodic za isplativ B2B marketing',
+    excerpt: 'Koliko kostaju LinkedIn reklame u Srbiji 2026. Realan CPC, Lead Gen forme, InMail kampanje i kako smanjiti cenu klika za B2B ciljne grupe.',
+    date: '2026-03-18',
+    category: 'LinkedIn Ads',
+    readTime: '9 min',
+    content: `
+## Zasto su LinkedIn reklame toliko skuplje od Facebooka?
+
+Kada prvi put otvorite LinkedIn Campaign Manager, verovatno cete doziveti "cenovni sok". Dok na Facebooku placate klik 0.10 EUR do 0.50 EUR, LinkedIn ce vam traziti 3, 5 ili cak 8 EUR za jedan klik.
+
+Da li to znaci da su LinkedIn oglasi neisplativi? Ne. To znaci da **klik na LinkedInu nije isto sto i klik na Facebooku**.
+
+Na Facebooku placate da dosegnete masu. Na LinkedInu placate pristup specificnom coveku -- direktoru IT firme iz Beograda, menadzeru logistike u kompaniji od 50-200 ljudi, ili HR direktoru u bankarskom sektoru. Taj nivo B2B preciznosti ne postoji ni na jednoj drugoj platformi.
+
+Za siri pregled cena ostalih kanala u B2B marketingu, pogledajte nas tekst o [cenama digitalnog marketinga](/cene-digitalnog-marketinga) ili [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama) u Srbiji.
+
+## Realne cene LinkedIn reklama u Srbiji (2026 benchmark)
+
+Cene variraju zavisno od publike, ali evo prosecnih cifara za B2B trziste Srbije u 2026. godini:
+
+- **CPC (Cena po kliku):** 1.5 EUR -- 4.5 EUR (za sire IT/Business pozicije)
+- **CPC za C-level (direktore):** 3.5 EUR -- 8.0 EUR+
+- **CPM (Cena za 1.000 prikaza):** 25 EUR -- 50 EUR
+- **CPS (Cost per Send za InMail):** 0.40 EUR -- 0.90 EUR po uspesno dostavljenoj poruci
+- **CPL (Cena po lead-u preko forme):** 15 EUR -- 80 EUR
+
+Zasto je ovaj CPL (15-80 EUR) i dalje isplativ? Zato sto u B2B prodaji jedan klijent cesto vredi hiljade ili desetine hiljada evra. Ako potrosite 50 EUR da dobijete kontakt osobe koja moze da potpise ugovor od 10.000 EUR -- to je fantastican ROI.
+
+## 3 Tipa LinkedIn kampanja koja donose rezultate u Srbiji
+
+### 1) Lead Gen Forms (Najjaci B2B format)
+
+Umesto da korisnika saljete na svoj sajt, kada klikne na vas oglas, otvara se forma direktno unutar LinkedIn-a. Profil podaci (ime, prezime, firma, pozicija, email) su **automatski popunjeni**.
+
+**Zasto radi:** Korisnik ne mora nista da kuca. Stopa konverzije je cesto 3-5x veca nego kada ga saljete na vasu landing stranicu.
+**Kada koristiti:** Preuzimanje B2B izvestaja, whitepapera, prijava za webinar ili besplatnu konsultaciju.
+
+### 2) Sponsored Content (Edukativni Karuseli)
+
+PDF karusel dokumenti sponzorisani u feedu. Ovi formati beleze najduze vreme zadrzavanja.
+
+**Zasto radi:** Ljudi vole da "listaju" slajdove na LinkedInu. Ako prenesete vrednost kroz 5-6 konkretnih slajdova pre nego sto trazite nesto od njih, gradite ogroman autoritet.
+**Kada koristiti:** Brand awareness i retargeting. Podelite "Kako-da" vodic ili deo iz vase studije slucaja.
+
+### 3) Sponsored InMail (Conversation Ads)
+
+Direktna poruka u inboks vase ciljne grupe. Oglas se naplacuje samo kada je osoba aktivna na LinkedInu (dostavljena poruka).
+
+**Zasto radi:** Osecaj je licniji (kao 1-na-1 poruka). Nudi opcije u vidu dugmica (npr. "Zelim demo" i "Samo zelim vise info").
+**Kada koristiti:** Za pozive na ekskluzivne dogadjaje ili za jako malu, visokokvalifikovanu publiku (npr. zelite da dosegnete tacno 200 HR direktora u Srbiji).
+
+## Najcesce greske zbog kojih cete baciti pare na LinkedInu
+
+### 1) Koriscenje "Audience Expansion" opcije
+Facebookov algoritam je pametan -- kad mu kazete "nadi mi slicne", on nalazi odlicne ljude. LinkedIn algoritam nije ni blizu toliko pametan. "Audience Expansion" ce vase skupe klikove potrositi na ljude koji uopste nisu vasa ciljna grupa. **Uvek iskljucite ovu opciju.**
+
+### 2) Prevelika publika
+Ako vam je publika na LinkedInu veca od 100.000 ljudi u Srbiji, kampanja vam je previse siroka. Za uspesnu B2B kampanju, ciljajte od 10.000 do 40.000 maksimalno.
+
+### 3) Trazite prodaju na hladno (Cold Pitch)
+"Mi smo softverska firma, kupite nas softver." Ovo ne radi. Niko ne kupuje softver od 5.000 EUR preko oglasa na mrezama. Nudite **korisnost** (besplatan sablon, kalkulator, analiza), dobijte email adresu, pa prodajte kroz sekvencu ili direktan poziv. Pogledajte nas vodic o [kako zatvoriti klijenta u B2B prodaji](/blog/b2b-prodaja-kako-zatvoriti-klijenta-srbija-2026).
+
+### 4) Kratak prozor za rezultate
+B2B prodajni ciklus traje 3 do 9 meseci. Ocekivati da ce LinkedIn kampanja u prvih 14 dana vratiti kompletan ROI je iluzija. LinkedIn kampanja puni vrh vaseg prodajnog levka. Zato je vazno procitati i [kako meriti ROI digitalnog marketinga](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
+
+## Minimalni budzet za pocetak
+
+Da biste uopste znali da li vam LinkedIn radi posao, potreban vam je budzet od **minimum 500 do 800 EUR** za probni mesec. Ispod toga, sa klikovima od 2-4 EUR, necete dobiti dovoljno podataka za donosenje zakljucaka. 
+
+Ako vam je taj budzet prevelik, bolje je da taj novac preusmerite na Google Ads (Search) za konkretne upite ili da se posvetite organskom [LinkedIn B2B marketingu](/blog/linkedin-marketing-za-b2b-firme-srbija-2026).
+
+Za konsultacije oko optimalnog mix-a kanala i B2B digitalne strategije, javite se preko [kontakt forme](/kontakt) -- rado cemo vam analizirati potencijal trzista.
+`
+  },
+  {
     slug: 'hladni-pozivi-cold-calling-skripta-srbija-2026',
     title: 'Hladni pozivi u Srbiji 2026: B2B skripta i strategija koja donosi sastanke',
     excerpt: 'Da li cold calling i dalje radi u Srbiji? Praktican vodic, B2B skripte za hladne pozive, prevazilazenje prigovora i kako doci do direktora.',
