@@ -1,5 +1,94 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'kako-voditi-drustvene-mreze-srbija-2026',
+    title: 'Kako samostalno voditi drustvene mreze u Srbiji 2026: alati, planiranje i organizacija vremena',
+    excerpt: 'Praktican vodic za preduzetnike koji sami vode drustvene mreze. Alati za dizajn i zakazivanje postova, content kalendar i kako ustedeti vreme na drustvenim mrezama u 2026.',
+    date: '2026-03-18',
+    category: 'Social Media',
+    readTime: '9 min',
+    content: `
+## Izazov samostalnog vodjenja drustvenih mreza
+
+Kao vlasnik male firme u Srbiji, verovatno radite sve: prodaju, nabavku, finansije, i -- negde u medjuvremenu -- marketing na drustvenim mrezama. Rezultat je cesto neredovno objavljivanje, pad kvaliteta i "burnout" oko kreiranja sadrzaja.
+
+Ipak, vodjenje drustvenih mreza ne mora da oduzima 3 sata dnevno. Pravilnom organizacijom, automatizacijom i koriscenjem pravih alata, kvalitetno prisustvo na internetu mozete svesti na **3-4 sata nedeljno**.
+
+Za pregled strategije i tipova sadrzaja, pogledaj nas tekst o [social media strategiji za male firme](/blog/social-media-strategija-za-male-firme-srbija-2026). Ako razmisljate da prepustite posao profesionalcima, proverite [cene digitalnog marketinga u Srbiji](/cene-digitalnog-marketinga).
+
+## Batch kreiranje: Tajna konzistentnosti
+
+Najgori nacin da vodite mreze je da svakog jutra razmisljate "Sta da objavim danas?". To iscrpljuje kreativnu energiju i neminovno dovodi do preskakanja objava kad se pojavi hitan problem u poslu.
+
+Resenje je **batch kreiranje** -- pravljenje vise objava odjednom.
+
+### Kako organizovati batch sesiju
+
+1. **Ideacija (30 min nedeljno):** Izdvojite vreme iskljucivo za smisljanje tema. Ne dizajnirate nista, ne pisete ceo tekst. Samo belezite teme. "Post o novoj usluzi", "Savet za odrzavanje", "Behind-the-scenes slika magacina".
+2. **Kreiranje (2 sata nedeljno):** Uzmite listu tema. Dizajnirajte sve slike/videa u Canvi i napisite tekstove za sve objave za narednu nedelju ili dve.
+3. **Zakazivanje (30 min nedeljno):** Ubacite sve gotove objave u alat za zakazivanje i postavite tacan datum i vreme.
+
+Ovim pristupom zavrsavate ceo nedeljni posao iz jednog sedenja, dok ste "u zoni".
+
+## Najbolji alati za samostalno vodjenje drustvenih mreza (2026)
+
+### Za dizajn i vizuale
+
+**Canva** -- nezamenljiva. Besplatna verzija je odlicna, Pro verzija vredi svakog dinara. Kreirajte 3-4 "template-a" za vas brend (boje, fontovi) i samo menjajte tekst/slike unutra. Ovo garantuje prepoznatljiv vizuelni identitet.
+
+**CapCut** -- za obradu video formata (Reels, TikTok, Shorts). CapCut nudi odlicne opcije za auto-titlove (radi pristojno i na srpskom), seckanje i efekte. Ima odlicnu besplatnu verziju i radi na racunaru i telefonu. Detaljnije u nasem [vodicu za video marketing](/blog/video-marketing-za-male-firme-srbija-2026).
+
+### Za zakazivanje objava
+
+**Meta Business Suite** -- potpuno besplatan zvanicni alat od Mete. Olican za istovremeno zakazivanje na Facebooku i Instagramu (ukljucujuci Stories). Mane: moze biti spor, ne podrzava druge mreze poput LinkedIna ili TikToka.
+
+**Later / Buffer** -- sjajni third-party alati. Omogucavaju vizuelni pregled Instagram grid-a, analitiku i podrzavaju vise razlicitih mreza sa jednog mesta. Besplatni planovi su cesto dovoljni za male firme.
+
+### Za pisanje i ideje
+
+Ne morate sve pisati od nule. Alati poput **ChatGPT** ili **Claude** mogu biti od pomoci -- ne da pisu umesto vas, vec kao "asistenti za ideje". Trazite: "Daj mi 5 ideja za objave za automehanicara koje odgovaraju na cesta pitanja musterija".
+
+## Sistematizacija kroz Content Kalendar
+
+Content kalendar ne mora biti kompleksan softver. Obicna Google Tabela ili Trello tabla vrsi posao.
+
+Evo kako izgleda jednostavan, funkcionalan kalendar:
+
+- **Kolona 1 (Datum/Vreme):** Npr. Ponedeljak, 18:00
+- **Kolona 2 (Mreza):** Npr. Instagram Reel
+- **Kolona 3 (Tema/Cilj):** Npr. Edukacija - kako odabrati velicinu
+- **Kolona 4 (Status):** Ideja / U izradi / Spremno / Zakazano
+- **Kolona 5 (Tekst i fajlovi):** Link ka Canva fajlu i tekst objave
+
+Planiranje vam omogucava da pratite pravilo 80/20 -- 80% vrednost i edukacija, 20% direktna prodaja.
+
+## Kada odgovarati na poruke i komentare
+
+Konzistentno objavljivanje gubi smisao ako ignorisete komentare i upite. Ipak, ne mozete prekidati rad svakih 10 minuta zbog novog Instagram komentara.
+
+**Pravilo dva puta dnevno:**
+Iskljucite push notifikacije. Odredite dva termina dnevno (npr. ujutru u 09:00 i pred kraj radnog vremena u 16:30) kada cete uci na mreze, odgovoriti na sve poruke, lajkovati komentare i uzvratiti interakciju. Ovo stedi ogromnu kolicinu vremena i cuva fokus.
+
+**Brzi odgovori:**
+U Meta Business Suite-u napravite "Saved Replies" (sacuvane odgovore) za pitanja koja dobijate svaki dan (Cena? Radno vreme? Gde se nalazite? Kakva je dostava?). Ovo ce vam prepoloviti vreme provedeno u Inbox-u.
+
+## 4 najcesce greske "samostalnih" menadzera mreza
+
+### 1) Teznja ka savrsenstvu na ustrb konzistentnosti
+Bolje je objaviti 3 "dobre" objave nedeljno nego jednu "savrsenu" u mesec dana. Drustvene mreze nagradjuju aktivnost. Oprema i dizajn ne moraju biti profesionalni, bitno je da je sadrzaj koristan publici.
+
+### 2) Postovi bez "Poziva na akciju" (CTA)
+Svaka objava mora da uputi pratioca sta da uradi sledece. "Sacuvaj ovaj post", "Podeli sa nekim kome treba", "Oznaci u komentaru", ili za prodajne postove "Link je u opisu profila". Ako im ne kazete sta da urade, najcesce nece uraditi nista.
+
+### 3) Ignorisanje video sadrzaja
+Osecate nelagodu pred kamerom? Moracete da je prevazidjete. Kratki vertikalni videi (Reels, TikTok, Shorts) trenutno imaju nesrazmerno veliki organski doseg u poredjenju sa statickim slikama. Ne morate plesati; jednostavno pricanje u kameru i objasnjavanje vaseg posla je dovoljno.
+
+### 4) Prodaja, prodaja, prodaja
+Ljudi ne idu na Instagram da gledaju katalog proizvoda. Ako je svaka vasa objava slika proizvoda i cena, ljudi ce vas brzo prestati pratiti ili ce vas ignorisati. Fokusirajte se na resavanje problema vase publike.
+
+Za profesionalnu podrsku i vodjenje kampanja, javite se preko [kontakt forme](/kontakt) -- rado cemo vam pomoci da oslobodite svoje vreme za upravljanje biznisom.
+`
+  },
+  {
     slug: 'facebook-ads-remarketing-strategija-srbija-2026',
     title: 'Facebook Ads remarketing u Srbiji 2026: strategija koja vraca kupce',
     excerpt: 'Kako postaviti Facebook remarketing kampanju u Srbiji 2026. Custom Audiences, Lookalike, dinamicni oglasi i budzeti koji donose najvisi ROI.',

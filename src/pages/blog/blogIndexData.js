@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "kako-voditi-drustvene-mreze-srbija-2026",
+    "title": "Kako samostalno voditi drustvene mreze u Srbiji 2026: alati, planiranje i organizacija vremena",
+    "excerpt": "Praktican vodic za preduzetnike koji sami vode drustvene mreze. Alati za dizajn i zakazivanje postova, content kalendar i kako ustedeti vreme na drustvenim mrezama u 2026.",
+    "date": "2026-03-18",
+    "category": "Social Media",
+    "readTime": "9 min",
+    "isDraft": false
+  },
+  {
     "slug": "facebook-ads-remarketing-strategija-srbija-2026",
     "title": "Facebook Ads remarketing u Srbiji 2026: strategija koja vraca kupce",
     "excerpt": "Kako postaviti Facebook remarketing kampanju u Srbiji 2026. Custom Audiences, Lookalike, dinamicni oglasi i budzeti koji donose najvisi ROI.",
