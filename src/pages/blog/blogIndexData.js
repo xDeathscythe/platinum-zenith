@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "facebook-ads-remarketing-strategija-srbija-2026",
+    "title": "Facebook Ads remarketing u Srbiji 2026: strategija koja vraca kupce",
+    "excerpt": "Kako postaviti Facebook remarketing kampanju u Srbiji 2026. Custom Audiences, Lookalike, dinamicni oglasi i budzeti koji donose najvisi ROI.",
+    "date": "2026-03-18",
+    "category": "Facebook Ads",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "email-lista-za-male-firme-srbija-2026",
     "title": "Kako izgraditi email listu od nule za male firme u Srbiji 2026",
     "excerpt": "Prakticni vodic za izgradnju email liste za male firme u Srbiji. Lead magneti koji rade, alati, landing stranice i strategija prvog meseca.",

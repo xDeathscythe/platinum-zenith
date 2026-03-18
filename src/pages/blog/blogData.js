@@ -1,5 +1,111 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'facebook-ads-remarketing-strategija-srbija-2026',
+    title: 'Facebook Ads remarketing u Srbiji 2026: strategija koja vraca kupce',
+    excerpt: 'Kako postaviti Facebook remarketing kampanju u Srbiji 2026. Custom Audiences, Lookalike, dinamicni oglasi i budzeti koji donose najvisi ROI.',
+    date: '2026-03-18',
+    category: 'Facebook Ads',
+    readTime: '8 min',
+    content: `
+## Zasto remarketing donosi najvisi ROI od svih Facebook kampanja
+
+97% posetilaca vaseg sajta odlazi bez kupovine. To nije neuspeh -- to je normalno ponasanje. Problem nastaje kad te ljude nikad vise ne vidite. Remarketing ih vraca nazad.
+
+Facebook remarketing kampanje imaju 3-5x visi CTR i 50-70% nizi CPA od kampanja koje ciljaju hladnu publiku. Razlog je jednostavan: remarketing doseze ljude koji vas vec poznaju. Oni su vec bili na vasem sajtu, pogledali proizvod, mozda stavili nesto u korpu. Treba im jos jedan podsticaj da zavrse kupovinu.
+
+Za siru sliku Facebook troskova pogledaj [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama).
+
+## Tipovi remarketing kampanja koje rade u Srbiji
+
+### 1) Website Custom Audience (svi posetioci sajta)
+
+Najjednostavniji remarketing: kreirate publiku od svih koji su posetili vas sajt u poslednjih 30-180 dana. Facebook Pixel prati posete i omogucava vam da tim ljudima prikazujete oglase.
+
+Preporuka za Srbiju: pocnite sa 30-dnevnim prozorom za e-commerce (kupovni ciklus je krace) i 90-dnevnim za usluge (odluke traju duze).
+
+### 2) Product Page Viewers (posetili konkretan proizvod)
+
+Precizniji od opceg remarketinga. Kreirate publiku od ljudi koji su pogledali specifican proizvod ali nisu kupili. Oglas im prikazuje taj isti proizvod sa podsticajem (popust, besplatna dostava, ogranicena ponuda).
+
+Ovo radi izuzetno dobro za e-commerce sa vecim brojem proizvoda.
+
+### 3) Cart Abandoners (ostavili korpu)
+
+Najvrednija remarketing publika. Ovi ljudi su dosli na sajt, izabrali proizvod, stavili ga u korpu -- i onda otisli. Oni su bili na jedan klik od kupovine.
+
+Tipicna strategija: dan 1 posle napustanja korpe -- podsecanje. Dan 3 -- ponudite besplatnu dostavu. Dan 7 -- ponudite mali popust. Stopa povratka: 10-25% za srpsko trziste.
+
+### 4) Lookalike na osnovu kupaca
+
+Ovo nije klasican remarketing ali radi u tandemu: uploadujete listu postojecih kupaca i Facebook kreira publiku ljudi koji im slice. Lookalike 1% u Srbiji daje oko 45.000-55.000 ljudi. Kombinirajte sa remarketing kreativom za najjaci efekat.
+
+### 5) Engagement Custom Audience
+
+Remarketing na ljude koji su interagovali sa vasim sadrzajem na Facebooku ili Instagramu: gledali video, reagovali na post, poslali poruku. Ovi ljudi vas poznaju ali mozda nikad nisu bili na sajtu.
+
+## Kako postaviti Facebook Pixel za remarketing
+
+Bez Pixela nema remarketinga. Evo koraka:
+
+- Idite na Meta Events Manager i kreirajte Pixel
+- Instalirajte Pixel kod na sajt (WordPress plugin ili rucno u header)
+- Podesiti standardne dogadjaje: PageView, ViewContent, AddToCart, Purchase
+- Sacekajte 3-7 dana da se Pixel napuni podacima pre pokretanja kampanja
+
+Za WooCommerce sajtove: koristite plugin "Facebook for WooCommerce" koji automatski salje sve e-commerce dogadjaje.
+
+## Budzeti za remarketing kampanje u Srbiji
+
+Remarketing zahteva manji budzet od cold kampanja jer je publika manja:
+
+- **Mikro budzet (testiranje):** 5-10 EUR dnevno -- dovoljno za sajt sa 500-2.000 posetilaca mesecno
+- **Standardni budzet:** 10-25 EUR dnevno -- za sajt sa 2.000-10.000 posetilaca
+- **Growth budzet:** 25-50+ EUR dnevno -- za sajt sa 10.000+ posetilaca
+
+Kljucno pravilo: remarketing budzet treba biti 15-25% ukupnog ad spend-a. Ostatak ide na acquisition (hladnu publiku).
+
+Za poredjenje sa Google Ads pogledaj [Google reklame cena](/google-reklame-cena).
+
+## Kreativa za remarketing: sta radi
+
+### Za Cart Abandoners
+
+"Zaboravili ste nesto u korpi" sa slikom proizvoda. Jednostavno i direktno. Dodajte urgency: "Rezervisano jos 24h" ili "Ostala su samo 3 komada".
+
+### Za Product Viewers
+
+Dinamicni oglasi koji automatski prikazuju proizvode koje je osoba gledala. Facebook Dynamic Ads radi ovo automatski iz vaseg proizvod kataloga.
+
+### Za General Visitors
+
+Socijalni dokaz: recenzije kupaca, pre/posle slike, studija slucaja. Ovi ljudi vas vec poznaju -- sad im treba razlog da veruju.
+
+### Za Lookalike
+
+Edukativni sadrzaj koji resava problem vase ciljne grupe. Blog post, video vodic, besplatan alat. Cilj nije prodaja nego da ih upoznate sa brendom pre nego sto krenete sa prodajnim porukama.
+
+## Najcesce greske u Facebook remarketingu
+
+### 1) Ista poruka za sve faze
+
+Osoba koja je posetila homepage i osoba koja je ostavila korpu zahtevaju potpuno razlicite poruke. Segmentirajte publiku po ponasanju, ne salajte isti oglas svima.
+
+### 2) Prevelika ucestalost (ad fatigue)
+
+Kada ista osoba vidi vas oglas 10+ puta, efekat postaje negativan. Ogranicite frequency na 3-5 prikaza nedeljno. Rotirajte kreativu svakih 7-14 dana.
+
+### 3) Predugacak remarketing prozor
+
+180 dana remarketinga za e-commerce je previse. Posle 30 dana, verovatnoca konverzije drasticno pada. Koristite kraci prozor sa jacim ponudama.
+
+### 4) Nema iskljucenja kupaca
+
+Ako neko vec kupi, iskljucite ga iz remarketing kampanje. Nista nije iritantnije od oglasa za proizvod koji ste vec kupili. Napravite Custom Audience od kupaca i koristite je kao exclusion.
+
+Za kompletnu strategiju digitalnog prisustva pogledaj [cene digitalnog marketinga](/cene-digitalnog-marketinga) ili se javite preko [kontakt forme](/kontakt).
+`
+  },
+  {
     slug: 'email-lista-za-male-firme-srbija-2026',
     title: 'Kako izgraditi email listu od nule za male firme u Srbiji 2026',
     excerpt: 'Prakticni vodic za izgradnju email liste za male firme u Srbiji. Lead magneti koji rade, alati, landing stranice i strategija prvog meseca.',
