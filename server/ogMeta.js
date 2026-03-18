@@ -686,6 +686,22 @@ const SERVER_ROUTE_SCHEMAS = {
       url: SITE_URL,
     },
   },
+  '/marketing-agencija-subotica': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Marketing agencija Subotica',
+    serviceType: 'Digital marketing agency services',
+    url: `${SITE_URL}/marketing-agencija-subotica`,
+    areaServed: {
+      '@type': 'City',
+      name: 'Subotica',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
   '/in-house-tim-vs-agencija': {
     '@context': 'https://schema.org',
     '@type': 'Service',
@@ -1028,6 +1044,12 @@ const ogMeta = {
     description: 'Marketing agencija za Kragujevac i Sumadiju: SEO, Google Ads i Meta kampanje za lokalne firme koje zele vise upita i prodaje uz merljiv ROI.',
     ogImage: `${SITE_URL}/pz-og.jpg`,
     ogImageAlt: 'Marketing agencija Kragujevac - digitalni marketing za Sumadiju',
+  },
+  '/marketing-agencija-subotica': {
+    title: 'Marketing Agencija za Suboticu | Digitalni Marketing | Platinum Zenith',
+    description: 'Marketing agencija za Suboticu i severnu Vojvodinu: SEO, Google Ads i Meta kampanje za lokalne firme koje zele vise upita i prodaje uz merljiv ROI.',
+    ogImage: `${SITE_URL}/pz-og.jpg`,
+    ogImageAlt: 'Marketing agencija Subotica - digitalni marketing za severnu Vojvodinu',
   },
   '/web-shop-nema-prodaju': {
     title: 'Web Shop Nema Prodaju? 5 Razloga i Rešenja | Platinum Zenith',
@@ -1465,6 +1487,16 @@ const serverFaqByPath = {
     {
       q: 'Kakav je CPC u Kragujevcu u odnosu na Beograd?',
       a: 'Za lokalne usluge, CPC u Kragujevcu je obicno dva do tri puta nizi nego u Beogradu. Manja konkurencija znaci vise klikova za isti budzet.',
+    },
+  ],
+  '/marketing-agencija-subotica': [
+    {
+      q: 'Zasto bih birao agenciju koja nije iz Subotice?',
+      a: 'Zato sto kvalitet digitalnog marketinga ne zavisi od fizicke lokacije agencije. Rad se odvija online, rezultati su merljivi, a komunikacija funkcionise jednako dobro preko video poziva.',
+    },
+    {
+      q: 'Da li mozete da radite kampanje i na madjarskom jeziku?',
+      a: 'Mozemo da prilagodimo kampanje za dvojezicnu publiku u Subotici. Lokalni SEO i oglasi na madjarskom pomazu da dopremo do svih potencijalnih klijenata.',
     },
   ],
   '/seo-optimizacija-cena': [
