@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-03-18T02:29:01.074Z",
-  "postsChecked": 140,
+  "generatedAt": "2026-03-18T10:29:00.617Z",
+  "postsChecked": 141,
   "issueCount": 0,
   "checked": [
+    {
+      "route": "/blog/landing-page-optimizacija-konverzije-srbija-2026",
+      "serviceHits": 3,
+      "hasKontakt": true
+    },
     {
       "route": "/blog/video-marketing-za-male-firme-srbija-2026",
       "serviceHits": 3,

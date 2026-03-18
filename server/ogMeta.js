@@ -702,6 +702,22 @@ const SERVER_ROUTE_SCHEMAS = {
       url: SITE_URL,
     },
   },
+  '/marketing-agencija-pancevo': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Marketing agencija Pancevo',
+    serviceType: 'Digital marketing agency services',
+    url: `${SITE_URL}/marketing-agencija-pancevo`,
+    areaServed: {
+      '@type': 'City',
+      name: 'Pancevo',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
   '/in-house-tim-vs-agencija': {
     '@context': 'https://schema.org',
     '@type': 'Service',
@@ -1050,6 +1066,12 @@ const ogMeta = {
     description: 'Marketing agencija za Suboticu i severnu Vojvodinu: SEO, Google Ads i Meta kampanje za lokalne firme koje zele vise upita i prodaje uz merljiv ROI.',
     ogImage: `${SITE_URL}/pz-og.jpg`,
     ogImageAlt: 'Marketing agencija Subotica - digitalni marketing za severnu Vojvodinu',
+  },
+  '/marketing-agencija-pancevo': {
+    title: 'Marketing Agencija za Pancevo | Digitalni Marketing | Platinum Zenith',
+    description: 'Marketing agencija za Pancevo i juzni Banat: SEO, Google Ads i Meta kampanje za lokalne firme koje zele vise upita i prodaje uz merljiv ROI.',
+    ogImage: `${SITE_URL}/pz-og.jpg`,
+    ogImageAlt: 'Marketing agencija Pancevo - digitalni marketing za juzni Banat',
   },
   '/web-shop-nema-prodaju': {
     title: 'Web Shop Nema Prodaju? 5 Razloga i Rešenja | Platinum Zenith',
@@ -1497,6 +1519,16 @@ const serverFaqByPath = {
     {
       q: 'Da li mozete da radite kampanje i na madjarskom jeziku?',
       a: 'Mozemo da prilagodimo kampanje za dvojezicnu publiku u Subotici. Lokalni SEO i oglasi na madjarskom pomazu da dopremo do svih potencijalnih klijenata.',
+    },
+  ],
+  '/marketing-agencija-pancevo': [
+    {
+      q: 'Zasto bih birao agenciju koja nije iz Panceva?',
+      a: 'Zato sto kvalitet digitalnog marketinga ne zavisi od fizicke lokacije agencije. Rad se odvija online, rezultati su merljivi, a komunikacija funkcionise jednako dobro preko video poziva.',
+    },
+    {
+      q: 'Da li pokrivate i okolna mesta poput Starceva i Omoljice?',
+      a: 'Naravno. Lokalni SEO i Google Ads kampanje mogu da ciljaju ceo juzni Banat, ukljucujuci Starcevo, Omoljicu, Opovo i Kovin.',
     },
   ],
   '/seo-optimizacija-cena': [

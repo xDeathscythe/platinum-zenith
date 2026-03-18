@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-18T02:28:59.800Z",
+  "generatedAt": "2026-03-18T10:28:59.371Z",
   "routesChecked": 13,
   "issueCount": 0,
   "checks": [
@@ -48,8 +48,8 @@
     {
       "route": "/marketing-agencija-beograd",
       "file": "src/pages/MarketingAgencijaBgPage.jsx",
-      "sitemapLastmod": "2026-03-17",
-      "gitLastmod": "2026-03-17"
+      "sitemapLastmod": "2026-03-18",
+      "gitLastmod": "2026-03-18"
     },
     {
       "route": "/marketing-agencija-zrenjanin",
@@ -60,8 +60,8 @@
     {
       "route": "/marketing-agencija-novi-sad",
       "file": "src/pages/MarketingAgencijaNsPage.jsx",
-      "sitemapLastmod": "2026-03-17",
-      "gitLastmod": "2026-03-17"
+      "sitemapLastmod": "2026-03-18",
+      "gitLastmod": "2026-03-18"
     },
     {
       "route": "/agencija-vs-freelancer",

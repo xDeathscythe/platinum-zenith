@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-18T02:28:58.208Z",
-  "routesChecked": 49,
+  "generatedAt": "2026-03-18T10:28:57.858Z",
+  "routesChecked": 50,
   "issueCount": 0,
   "checked": [
     {
@@ -1081,6 +1081,33 @@
       "route": "/marketing-agencija-subotica",
       "component": "MarketingAgencijaSuboticaPage",
       "file": "src\\pages\\MarketingAgencijaSuboticaPage.jsx",
+      "sequence": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        2,
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 8,
+        "h3": 5,
+        "total": 14
+      }
+    },
+    {
+      "route": "/marketing-agencija-pancevo",
+      "component": "MarketingAgencijaPancevoPage",
+      "file": "src\\pages\\MarketingAgencijaPancevoPage.jsx",
       "sequence": [
         1,
         2,
