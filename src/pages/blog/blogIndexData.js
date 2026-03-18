@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "marketing-strategija-za-rast-firme-srbija-2026",
+    "title": "Marketing strategija za rast firme u Srbiji 2026: od prezivljavanja do skaliranja",
+    "excerpt": "Zasto taktike bez strategije trose budzet. Praktican vodic za postavljanje marketing strategije koja donosi predvidljiv rast na srpskom trzistu u 2026.",
+    "date": "2026-03-18",
+    "category": "Marketing Strategija",
+    "readTime": "9 min",
+    "isDraft": false
+  },
+  {
     "slug": "linkedin-retargeting-b2b-kampanje-srbija-2026",
     "title": "LinkedIn retargeting: Kako vratiti B2B donosioce odluka na sajt u 2026",
     "excerpt": "Vodic za LinkedIn retargeting kampanje u Srbiji. Kako koristiti Insight Tag, Company Targeting i Document Ads za smanjenje cene lead-a i zatvaranje ugovora.",

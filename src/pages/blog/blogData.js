@@ -1,5 +1,81 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'marketing-strategija-za-rast-firme-srbija-2026',
+    title: 'Marketing strategija za rast firme u Srbiji 2026: od prezivljavanja do skaliranja',
+    excerpt: 'Zasto taktike bez strategije trose budzet. Praktican vodic za postavljanje marketing strategije koja donosi predvidljiv rast na srpskom trzistu u 2026.',
+    date: '2026-03-18',
+    category: 'Marketing Strategija',
+    readTime: '9 min',
+    content: `
+## Taktika bez strategije je buka pre poraza
+
+"Trebaju nam Facebook reklame." "Moramo da snimamo za TikTok." "Hajde da napravimo novi sajt."
+
+Ovo su taktike. Ako ih primenjujete nasumicno, bez sirg plana, samo cete potrositi novac. Prava marketing strategija odgovara na tri pitanja: **kome** prodajete, **koji problem** im resavate, i **gde** se oni nalaze kada traze resenje.
+
+Kada imate strategiju, izbor kanala (Google, Meta, LinkedIn) postaje matematicka odluka, a ne stvar licnog osecaja.
+
+Za uvid u to koliko kosta primena ovih taktika, pogledajte nas vodic o [cenama digitalnog marketinga u Srbiji](/cene-digitalnog-marketinga).
+
+## Faza 1: Temelj (Sredjivanje "kante koja curi")
+
+Pre nego sto ulozite i jedan evro u reklame, morate biti sigurni da vas sistem moze da zadrzi ljude koje dovedete.
+
+### Sajt koji konvertuje
+Vas sajt nije digitalna vizitkarta. To je vas najbolji prodavac koji radi 24/7. Ako sajt ucitava duze od 3 sekunde, ako nema jasan poziv na akciju (CTA) iznad prevoja, ili ako nije prilagodjen za mobilne telefone -- gubite novac sa svakim klikom.
+Proucite [on-page SEO checklistu](/blog/on-page-seo-checklista-srbija-2026) da biste osigurali tehnicku ispravnost.
+
+### Ponuda kojoj je tesko reci NE (Grand Slam Offer)
+Ljudi ne kupuju "knjigovodstvene usluge" ili "izradu sajta". Kupuju "miran san pred inspekcijom" ili "sistem koji automatski donosi klijente". Vasa ponuda mora da zvuci toliko dobro da bi se klijent osecao glupo da kaze ne.
+
+## Faza 2: Akvizicija (Dovodjenje saobracaja)
+
+Kada imate dobru ponudu i sajt koji radi, vreme je za saobracaj. Nemojte biti na svim mrezama. Odaberite jedan kanal koji se zasniva na nameri (Search) i jedan koji se zasniva na paznji (Social).
+
+### Search kanali (Google Ads i SEO)
+Ovo su kanali gde ljudi vec znaju sta zele i aktivno traze. 
+- **Google Ads:** Brz povrat investicije. Placate klik samo kada neko trazi vasu uslugu. Ako prodajete skuplje proizvode ili B2B usluge, ovo je kanal broj 1. (Vise o [Google Ads cenama](/google-reklame-cena)).
+- **SEO Optimzacija:** Spora, ali donosi najvisi dugorocni ROI. Tekstovi koje danas napisete dovodice vam besplatne klijente za 3 godine. (Vise o [SEO cenama](/seo-optimizacija-cena)).
+
+### Social kanali (Meta, LinkedIn, TikTok)
+Ovo su kanali gde prekidate ljude dok rade nesto drugo. Oglasi moraju biti vizuelno privlacni i nuditi instant vrednost.
+- **Instagram/Facebook:** Najbolje za B2C, e-commerce, restorane, salone. (Vise o [Facebook reklamama](/koliko-kosta-facebook-reklama)).
+- **LinkedIn:** Najjaci kanal za B2B u Srbiji. O tome smo pisali u nasem [vodicu za B2B LinkedIn reklame](/blog/linkedin-reklame-cena-b2b-marketing-srbija-2026).
+
+## Faza 3: Retencija (Zadrzavanje i ponovna prodaja)
+
+Najskuplji klijent je novi klijent. Zadrzavanje postojecih klijenata je mesto gde se pravi stvarni profit.
+
+### Email lista i remarketing
+Ako imate e-commerce biznis, a nemate email automatizacije za napustenu korpu i dobrodoslicu, gubite 15-20% prihoda svakog meseca. Pored emaila, postavite remarketing kampanje za sve posetioce sajta koji nisu kupili.
+Procitajte nas [vodic za izgradnju email liste](/blog/email-lista-za-male-firme-srbija-2026).
+
+### Customer Success sistem
+Kako tretirate klijenta prvih 30 dana nakon kupovine odredjuje da li ce ostati sa vama godinama ili ce vas napustiti cim se pojavi jeftinija opcija. Onboarding sistem je jednako vazan kao i prodajni sistem.
+
+## Kako rasporediti marketing budzet u 2026.
+
+Zlatno pravilo "70/20/10" za srpske firme u rastu:
+
+- **70% budzeta:** Kanali koji provereno rade i donose ROI (npr. Google Search i Facebook Retargeting).
+- **20% budzeta:** Optimizacija i sirenje onoga sto radi (novi kreativni formati, dublji SEO).
+- **10% budzeta:** Testiranje potpuno novih kanala (TikTok, LinkedIn lead gen forme).
+
+Nemojte rasporediti budzet na 5 kanala ravnomerno. Nadjite jedan koji radi, investirajte u njega dok ne udarite u plafon isplativosti, pa tek onda dodajte drugi kanal.
+
+Za detaljnu procenu povrata investicije po kanalu, koristite metode opisane u nasem [vodicu za merenje ROI](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
+
+## Sta odabrati: In-house tim ili marketing agenciju?
+
+Ovo je kljucna odluka u fazi rasta. 
+Ako vam je marketing budzet ispod 1.000 EUR mesecno, verovatno cete morati da radite sami (ili uz pomoc freelance konsultanta). 
+Kada predjete tu cifru, vreme je za strucnu pomoc. Angazovanje full-stack agencije kosta isto kao jedan junior zaposleni (koji tek treba da uci), a dobijate ceo tim eksperata (dizajner, copywriter, media buyer, SEO strucnjak). 
+Vise o ovoj dilemi procitajte u analizi [In-house vs Agencija](/in-house-tim-vs-agencija).
+
+Ako vasem biznisu treba jasna, profitabilna marketing strategija zasnovana na podacima, javite se preko [kontakt forme](/kontakt) -- poslacemo vam predlog plana.
+`
+  },
+  {
     slug: 'linkedin-retargeting-b2b-kampanje-srbija-2026',
     title: 'LinkedIn retargeting: Kako vratiti B2B donosioce odluka na sajt u 2026',
     excerpt: 'Vodic za LinkedIn retargeting kampanje u Srbiji. Kako koristiti Insight Tag, Company Targeting i Document Ads za smanjenje cene lead-a i zatvaranje ugovora.',
