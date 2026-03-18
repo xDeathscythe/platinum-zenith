@@ -1,5 +1,79 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'ubrzavanje-wordpress-sajta-tehnicki-seo-srbija-2026',
+    title: 'Ubrzavanje WordPress sajta: Vodic za tehnicki SEO u 2026. godini',
+    excerpt: 'Spor sajt ubija vas SEO i konverzije. Saznajte kako da ubrzate WordPress sajt u Srbiji: hosting, caching, WebP slike i optimizacija za mobilne uredjaje.',
+    date: '2026-03-18',
+    category: 'WordPress SEO',
+    readTime: '8 min',
+    content: `
+## Zasto spori sajtovi vise nemaju sansu kod Google-a
+
+U 2026. godini, preko 75% poseta domacim sajtovima dolazi sa mobilnih telefona (cesto na 4G mrezama dok su ljudi u pokretu). Google je to shvatio odavno i prebacio ceo svoj indeks na "Mobile-First". 
+
+Sta to znaci za vas WordPress sajt? Ako se vasa stranica ucitava duze od 3 sekunde na mobilnom telefonu, Google ce vas spustiti na nize pozicije, cak i ako imate najbolji sadrzaj na svetu. Spor sajt znaci lose korisnicko iskustvo, a Google ne zeli da salje svoje korisnike na frustrirajuce stranice.
+
+Iza pada SEO ranga krije se jos opasniji problem: **pad konverzija**. Amazon je davno dokazao da ih svaka desetinka sekunde ucitavanja kosta 1% prihoda.
+
+Za detaljan vodic o pripremi sajta za konverzije, pogledajte nas tekst o [optimizaciji konverzije sajta](/blog/optimizacija-konverzije-sajta-cro-srbija-2026). Ako trazite agenciju za izradu sajta, proverite nas tekst o [cenama izrade WordPress sajta](/izrada-wordpress-sajta-cena).
+
+## 4 Glavna krivca za spor WordPress sajt (i kako ih resiti)
+
+### 1) Los Shared Hosting
+
+Vecina domacih firmi placa hosting 30-50 EUR godisnje. Ovaj tip hostinga (Shared Hosting) znaci da vas sajt deli server sa jos 500 drugih sajtova. Kad jedan sajt ima skok saobracaja, vas sajt usporava.
+
+**Resenje u 2026:**
+Zaboravite na najjeftinije opcije. Predjite na Cloud ili premium WordPress hosting (npr. Hostinger Cloud, SiteGround, Kinsta). Razlika u ceni od 5-10 EUR mesecno ce se isplatiti kroz povecanu prodaju vec u prvoj nedelji.
+
+### 2) Preteske, neoptimizovane slike
+
+Ako ste slikali proizvod novim iPhone-om (gde slika ima 6 MB) i direktno je okacili na WordPress, napravili ste SEO katastrofu.
+
+**Resenje u 2026:**
+Nijedna slika na vasem sajtu ne sme biti preko 200-300 KB.
+1. Instalirajte plugin za optimizaciju slika (npr. LiteSpeed Cache Image Optimization ili Smush).
+2. Automatski konvertujte sve slike u **WebP format** (koji je 30% laksi od JPG-a bez gubitka kvaliteta).
+3. Obavezno koristite "Lazy Loading" -- to znaci da se slike ucitavaju tek kada korisnik doskroluje do njih, a ne sve odjednom prilikom otvaranja sajta.
+
+### 3) Previse nepotrebnih pluginova
+
+WordPress je fantastican jer za sve postoji plugin. Ali svaki plugin koji dodate usporava sajt ucitavajuci svoje skripte i CSS fajlove. Sajt sa 45 pluginova nikada nece biti brz.
+
+**Resenje u 2026:**
+- Obrisite pluginove koje ne koristite.
+- Zamenite vise manjih pluginova jednim kompleksnim (npr. koristite jednu SEO platformu umesto 3 razlicita SEO dodatka).
+- Izbegavajte pluginove za "Slider-e" i snezne pahuljice. Ne donose prodaju, a ubijaju brzinu.
+
+### 4) Odsustvo Caching sistema (Kesiranje)
+
+Svaki put kada neko poseti vas sajt, WordPress mora da pita bazu podataka za sadrzaj, sklopi ga u HTML i posalje korisniku. To zahteva vreme. 
+
+**Resenje u 2026:**
+Kesiranje pravi "sliku" vaseg sklopljenog sajta i odmah je isporucuje posetiocu, zaobilazeci bazu podataka. Brzina ucitavanja se obicno prepolovi cim se ukljuci kesiranje. Odlicni pluginovi: LiteSpeed Cache (najbolji ako ste na LiteSpeed serveru), WP Rocket ili W3 Total Cache.
+
+## Kako Core Web Vitals direktno uticu na vas rang
+
+Google meri tri kljucne metrike (Core Web Vitals) i daje vam ocenu u Google Search Console:
+
+- **LCP (Largest Contentful Paint):** Koliko vremena treba da se ucita najveci element na ekranu (obobicno glavna slika). Mora biti ispod 2.5 sekunde.
+- **FID/INP (Interaction to Next Paint):** Koliko brzo sajt reaguje kada kliknete na nesto. 
+- **CLS (Cumulative Layout Shift):** Da li sajt "poskakuje" dok se ucitava (npr. kada se pojavi reklama i pomeri tekst koji ste poceli da citate).
+
+Ako ove brojke svetle crveno u vasoj konzoli, vas trud oko pisanja sadrzaja pada u vodu.
+
+## Plan za ubrzavanje sajta za 7 dana
+
+**Dan 1:** Testirajte trenutnu brzinu preko [Google PageSpeed Insights](https://pagespeed.web.dev/) (gledajte mobile rezultat!). Zapisite brojke.
+**Dan 2:** Ažurirajte WordPress, temu i pluginove. Obrisi sve sto ne koristite aktivno.
+**Dan 3:** Instalirajte Caching plugin i optimizujte bazu podataka (brisanje starih post revizija, spam komentara).
+**Dan 4:** Ukljucite optimizaciju slika (WebP konverzija) i prebacite na asinhrono ucitavanje JS fajlova (Deffer/Async).
+**Dan 7:** Ponovo testirajte brzinu na PageSpeed Insights i uporedite sa Danom 1.
+
+Ako vam je potrebna tehnicka SEO optimizacija celog WordPress sistema ili dubinska procena sajta, javite se preko [kontakt forme](/kontakt) -- izradicemo akcioni plan za vracanje na prvu stranicu Google-a. Za siri kontekst o optimizaciji celog online prisustva, proverite nasu [on-page SEO checklistu](/blog/on-page-seo-checklista-srbija-2026).
+`
+  },
+  {
     slug: 'meta-ads-advantage-plus-kampanje-srbija-2026',
     title: 'Meta Ads u Srbiji 2026: Zasto Advantage+ kampanje pobedjuju rucno targetiranje',
     excerpt: 'Da li i dalje rucno podesavate interesovanja na Facebooku i Instagramu? Saznajte zasto Advantage+ kampanje donose bolji ROI za srpsko trziste u 2026.',

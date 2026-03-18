@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "ubrzavanje-wordpress-sajta-tehnicki-seo-srbija-2026",
+    "title": "Ubrzavanje WordPress sajta: Vodic za tehnicki SEO u 2026. godini",
+    "excerpt": "Spor sajt ubija vas SEO i konverzije. Saznajte kako da ubrzate WordPress sajt u Srbiji: hosting, caching, WebP slike i optimizacija za mobilne uredjaje.",
+    "date": "2026-03-18",
+    "category": "WordPress SEO",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "meta-ads-advantage-plus-kampanje-srbija-2026",
     "title": "Meta Ads u Srbiji 2026: Zasto Advantage+ kampanje pobedjuju rucno targetiranje",
     "excerpt": "Da li i dalje rucno podesavate interesovanja na Facebooku i Instagramu? Saznajte zasto Advantage+ kampanje donose bolji ROI za srpsko trziste u 2026.",
