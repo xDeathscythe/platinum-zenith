@@ -1,5 +1,78 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'meta-ads-advantage-plus-kampanje-srbija-2026',
+    title: 'Meta Ads u Srbiji 2026: Zasto Advantage+ kampanje pobedjuju rucno targetiranje',
+    excerpt: 'Da li i dalje rucno podesavate interesovanja na Facebooku i Instagramu? Saznajte zasto Advantage+ kampanje donose bolji ROI za srpsko trziste u 2026.',
+    date: '2026-03-18',
+    category: 'Meta Ads',
+    readTime: '7 min',
+    content: `
+## Zasto stari nacin targetiranja na Facebooku vise ne radi
+
+Pre 2024. godine, kljuc uspesne Facebook i Instagram kampanje u Srbiji bilo je "mikro-targetiranje". Birali ste interesovanja: "zene 25-35", "vole fitnes", "citaju Cosmopolitan", "putuju cesto".
+
+U 2026. godini, ovakav pristup vas samo kosta vise novca. Algoritam Mete je danas pametniji od bilo kog oglasivaca. Kada mu ogranicite publiku rucnim interesovanjima, vi zapravo sprecavate algoritam da pronadje kupce koji se ne uklapaju u vasu usku definiciju, ali bi rado kupili vas proizvod.
+
+Dobrodosli u eru **Advantage+** kampanja i masinskog ucenja.
+
+Za osnovni pregled cena oglasavanja, pogledajte nase vodice o [cenama Facebook reklama](/koliko-kosta-facebook-reklama) i [cenama Instagram reklama](/instagram-reklame-cena).
+
+## Sta su Meta Advantage+ kampanje?
+
+Advantage+ (ranije poznato kao Automated App Ads ili Smart Shopping) je Metin AI sistem koji automatski pronalazi kupce. Vi dajete budzet i kreativu (slike/video), a algoritam radi sve ostalo: testira formate, rotira tekstove, i sam trazi publiku sirom cele Srbije bez da vi unosite ijedno interesovanje.
+
+### Advantage+ Shopping Campaigns (ASC)
+Dizajnirane iskljucivo za e-commerce (online prodavnice). ASC zahteva Meta Pixel i produktni katalog.
+- **Prednost:** Smanjuje cenu po akviziciji (CPA) u proseku za 17% u odnosu na rucne kampanje.
+- **Kako radi:** Automatski prepoznaje koji proizvodi iz vaseg kataloga konvertuju najbolje za konkretnog korisnika.
+
+Ako tek otvarate prodavnicu, procitajte i [kako pokrenuti online prodavnicu u Srbiji](/blog/kako-pokrenuti-online-prodavnicu-srbija-2026).
+
+## Kako struktuirati Advantage+ kampanju za Srbiju
+
+### 1) Siroka publika (Broad Targeting)
+Jedina ogranicenja koja treba da postavite su geografska lokacija (Srbija) i mozda pol/godine ako vas proizvod iskljucuje odredjenu grupu. **Ostavite interesovanja prazna.** Algoritam ce sam shvatiti ko kupuje na osnovu podataka sa vaseg Pixela.
+
+### 2) Raznovrsna kreativa (Creative Diversity)
+Ovo je najbitniji korak. Posto algoritam radi targetiranje, **kreativa je vase novo targetiranje**. 
+Algoritmu morate dati dovoljno "materijala" za rad. U jednu Advantage+ kampanju ubacite:
+- 2 kratka Reels/TikTok stila videa
+- 1 edukativni karusel
+- 2 staticne slike proizvoda u upotrebi
+- 1 slika sa testimonijalom kupca
+
+Za vise informacija o video sadrzaju, pogledajte [video marketing za male firme](/blog/video-marketing-za-male-firme-srbija-2026).
+
+### 3) Dinamicki tekstovi (Dynamic Creative)
+Unesite 3 razlicita glavna teksta (Primary Text) i 3 razlicita naslova (Headline). Meta ce ih automatski miksati i sklapati dobitne kombinacije.
+- Tekst 1: Kratko i prodajno
+- Tekst 2: Duga prica (Storytelling)
+- Tekst 3: Fokus na resavanje problema (Pain points)
+
+## Kada rucno targetiranje i dalje ima smisla
+
+Advantage+ nije magicni stapic za bas svaki biznis. Postoje situacije kada rucno postavljanje kampanja radi bolje na srpskom trzistu:
+
+**1. Hiperlokalni biznisi:** Ako imate frizerski salon na Vracaru, siroka publika vam ne treba. Treba vam uski radijus oko vase lokacije. (Pogledajte [social media strategiju za male firme](/blog/social-media-strategija-za-male-firme-srbija-2026)).
+**2. B2B i veoma uske nise:** Ako prodajete viljuskare, ASC algoritam ce potrositi puno budzeta pre nego sto nadje kupce, jer ih ima premalo. Za B2B je cesto isplativiji [LinkedIn marketing](/blog/linkedin-reklame-cena-b2b-marketing-srbija-2026).
+**3. "Hladan" Pixel:** ASC kampanja se hrani podacima. Ako imate nov sajt i Pixel nema zabelezene kupovine, Advantage+ nece znati sta da trazi. Prvo zagrejte Pixel klasicnim saobracajem.
+
+## Plan prelaska na Advantage+
+
+Da biste testirali ovu promenu bez rizika za vas budzet:
+
+1. **Ne gasite odmah stare kampanje.** Neka rade uporedo sa novom.
+2. Odvojite 20-30% budzeta za novu Advantage+ Shopping kampanju.
+3. Ubacite svoje istorijski najbolje oglase u nju.
+4. Sacekajte 7-10 dana bez menjanja budzeta (algoritmu treba vremena da uci).
+5. Analizirajte ROAS (Return on Ad Spend). Ako ASC donosi jeftinije kupce, postepeno mu prebacujte sve veci deo budzeta.
+
+Da biste precizno znali sta vam donosi novac, naucite [kako meriti ROI digitalnog marketinga](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
+
+Ako vam je potrebna pomoc oko prelaska na AI-vodjene Meta kampanje ili optimizacije postojeceg levka, javite se preko [kontakt forme](/kontakt) -- izradicemo custom strategiju za vas brend.
+`
+  },
+  {
     slug: 'optimizacija-konverzije-sajta-cro-srbija-2026',
     title: 'Optimizacija konverzije (CRO) u Srbiji 2026: kako da isti saobracaj donese vise prodaje',
     excerpt: 'Zasto povecanje budzeta za reklame nije uvek resenje. Vodic za CRO (Conversion Rate Optimization) u Srbiji: brzina, trust signali, forme i checkout proces.',

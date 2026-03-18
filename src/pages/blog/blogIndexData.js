@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "meta-ads-advantage-plus-kampanje-srbija-2026",
+    "title": "Meta Ads u Srbiji 2026: Zasto Advantage+ kampanje pobedjuju rucno targetiranje",
+    "excerpt": "Da li i dalje rucno podesavate interesovanja na Facebooku i Instagramu? Saznajte zasto Advantage+ kampanje donose bolji ROI za srpsko trziste u 2026.",
+    "date": "2026-03-18",
+    "category": "Meta Ads",
+    "readTime": "7 min",
+    "isDraft": false
+  },
+  {
     "slug": "optimizacija-konverzije-sajta-cro-srbija-2026",
     "title": "Optimizacija konverzije (CRO) u Srbiji 2026: kako da isti saobracaj donese vise prodaje",
     "excerpt": "Zasto povecanje budzeta za reklame nije uvek resenje. Vodic za CRO (Conversion Rate Optimization) u Srbiji: brzina, trust signali, forme i checkout proces.",
