@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "kako-izabrati-poslovni-model-za-online-biznis-srbija-2026",
+    "title": "Kako izabrati poslovni model za online biznis u Srbiji 2026",
+    "excerpt": "Pausalac, DOO ili preduzetnik? Vodic za izbor poslovnog modela za online biznis u Srbiji 2026 sa uporednim pregledom poreza, odgovornosti i fleksibilnosti.",
+    "date": "2026-03-18",
+    "category": "Biznis",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "kako-napraviti-landing-stranicu-koja-konvertuje-srbija-2026",
     "title": "Kako napraviti landing stranicu koja konvertuje u Srbiji 2026",
     "excerpt": "Vodic za kreiranje landing stranice koja pretvara posetioce u klijente. 7 elemenata koji cine razliku izmedju 1% i 10% stope konverzije.",

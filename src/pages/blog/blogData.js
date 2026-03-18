@@ -1,5 +1,109 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'kako-izabrati-poslovni-model-za-online-biznis-srbija-2026',
+    title: 'Kako izabrati poslovni model za online biznis u Srbiji 2026',
+    excerpt: 'Pausalac, DOO ili preduzetnik? Vodic za izbor poslovnog modela za online biznis u Srbiji 2026 sa uporednim pregledom poreza, odgovornosti i fleksibilnosti.',
+    date: '2026-03-18',
+    category: 'Biznis',
+    readTime: '8 min',
+    content: `
+## Tri pitanja pre nego sto pokrenete online biznis u Srbiji
+
+Pre nego sto napravite sajt, pre nego sto pustite prvu reklamu, morate odgovoriti na tri pitanja koja odredjuju koliko ce vas kostati drzava svake godine:
+
+1. **Koliko ocekujete da zaradite?** (ovo odredjuje da li je pausalno oporezivanje uopste opcija)
+2. **Da li planirate da imate zaposlene?** (DOO je obavezan za zaposljavanje)
+3. **Da li prodajete fizicke proizvode ili usluge?** (PDV prag je 8 miliona RSD)
+
+Pogresna odluka vas moze kostati hiljade evra godisnje u nepotrebnim porezima. Ispravna odluka vam moze ustedeti istu cifru.
+
+Za pregled troskova marketinga pogledajte [cene digitalnog marketinga u Srbiji](/cene-digitalnog-marketinga).
+
+## Opcija 1: Pausalac (Preduzetnik pausalac)
+
+### Kome odgovara
+Freelanceri, konsultanti, mali e-commerce sa prihodima ispod 6 miliona RSD godisnje (~50.000 EUR). Idealan za pocetak jer je najjednostavniji i najjeftiniji oblik poslovanja.
+
+### Kako radi porez
+Placate fiksni mesecni iznos koji odredjuje Poreska uprava na osnovu vase delatnosti i lokacije. Za IT i marketing delatnosti u Beogradu, pausalni porez je oko 15.000-25.000 RSD mesecno. Za isti biznis u manjim gradovima, moze biti 8.000-15.000 RSD.
+
+### Prednosti
+- **Najnizi administrativni trosak** -- ne morate voditi poslovne knjige
+- **Fiksni porez** -- znate unapred koliko placate, bez iznenaddjenja
+- **Najbrze otvaranje** -- registracija za 1-2 dana
+
+### Mane
+- **Limit prihoda:** 6 miliona RSD godisnje. Predjete li ovu cifru, automatski prelazite na vodjenje knjiga.
+- **Licna odgovornost:** Odgovarate celokupnom licnom imovinom za dugove firme.
+- **Nema PDV-a:** Ne mozete odbiti ulazni PDV (sto je problem ako kupujete robu za dalju prodaju).
+
+## Opcija 2: Preduzetnik (sa vodjenjem knjiga)
+
+### Kome odgovara
+Online biznisi koji premasuju pausalni limit ili kojima je isplativije vodjenje knjiga (veliki troskovi koji se mogu odbiti od poreza).
+
+### Kako radi porez
+Placate porez na neto dobit (prihodi minus rashodi). Stopa poreza na prihod je 10%. Doprinosi se obracunavaju na osnovicu.
+
+### Prednosti
+- **Nema limita prihoda**
+- **Odbijate troskove** -- sve poslovne troskove (hosting, reklame, softver, kancelarija) odbijate od poreske osnovice
+- **PDV opcija** -- mozete se registrovati za PDV i odbijati ulazni porez
+
+### Mane
+- **Administrativni trosak:** Morate imati knjigovodju (100-200 EUR mesecno)
+- **Licna odgovornost:** Kao kod pausalca -- odgovarate celokupnom imovinom
+
+## Opcija 3: DOO (Drustvo sa Ogranicenom Odgovornoscu)
+
+### Kome odgovara
+Ozbiljni online biznisi sa vecim prometom, planovima za zaposljavanje i potrebom za pravnom zastitom.
+
+### Kako radi porez
+Porez na dobit pravnih lica: 15%. Ako isplacujete sebi dividendu, na to ide dodatnih 15% (efektivna stopa na isplacenu dobit: ~28%). Alternativno, mozete sebe zaposliti u DOO-u i isplacivati platu (koja ide na trosak firme).
+
+### Prednosti
+- **Ogranicena odgovornost** -- odgovarate samo do visine uloskog kapitala (minimum 100 RSD), ne licnom imovinom
+- **Kredibilitet** -- DOO deluje ozbiljnije za vece klijente i partnere
+- **Zaposljavanje** -- jedini nacin za legalno zaposljavanje radnika
+- **Prodaja firme** -- DOO mozete prodati, preduzetnicku radnju ne mozete
+
+### Mane
+- **Visi administrativni troskovi** (bookkeeping, pravnik, registracija)
+- **Dvostruko oporezivanje** dividendi (15% na dobit + 15% na isplatu)
+- **Komplikovanije zatvaranje** (likvidacija traje mesecima)
+
+## Uporedna tabela za online biznis u Srbiji
+
+Za e-commerce koji planira prihod od 30.000 EUR godisnje:
+
+- **Pausalac:** Porez ~200 EUR/mesecno, bez knjigovodje, nema PDV odbijanja. Ukupno: ~2.400 EUR/godisnje.
+- **Preduzetnik:** Porez ~10% na neto dobit. Ako imate 10.000 EUR troskova (hosting, reklame), porez na 20.000 EUR dobiti = 2.000 EUR + doprinosi. Ukupno: ~4.500 EUR/godisnje ali sa manjom neto dobiti jer ste odbili troskove.
+- **DOO:** Porez 15% na dobit + dividende. Ukupno porez: ~5.500-6.000 EUR, ali sa ogranijenom odgovornoscu.
+
+Za male online biznise do 50.000 EUR prihoda, **pausalac je gotovo uvek najisplativiji** start. Predjite na DOO tek kad vam treba zaposljavanje ili pravna zastita.
+
+## PDV: Kada se registrovati
+
+Obaveza registracije nastaje kad predjete **8 miliona RSD prometa** u poslednjih 12 meseci (~68.000 EUR). Za e-commerce ovo znaci ukupnu prodaju, ne profit.
+
+Mozete se dobrovoljno registrovati i ranije ako kupujete robu sa PDV-om (jer mozete odbiti ulazni PDV). Za usluzne firme koje nemaju veliki ulazni PDV, bolje je sacekati obavezu.
+
+## Najcesce greske pri izboru poslovnog modela
+
+### 1) Pokretanje DOO-a za mali freelance biznis
+Ako radite sami i zaradjujete 20.000 EUR godisnje, DOO vas kosta 3.000-4.000 EUR vise u porezima i administraciji nego pausalno. Pokrenite DOO kad vam zaista treba.
+
+### 2) Ignorisanje PDV praga
+Kad predjete 8 miliona RSD bez registracije, kaznete se. Pratite promet i registrujte se na vreme.
+
+### 3) Mesanje licnih i poslovnih finansija
+Cak i kao pausalac, otvorite poseban poslovni racun. Mesanje licnih i poslovnih transakcija je najcesci razlog za probleme sa inspekcijom.
+
+Ako vam je potrebna pomoc sa digitalnim marketingom za vas online biznis, javite se preko [kontakt forme](/kontakt). Pogledajte i nas vodic za [pokretanje online prodavnice u Srbiji](/blog/kako-pokrenuti-online-prodavnicu-srbija-2026) i [marketing strategiju za rast firme](/blog/marketing-strategija-za-rast-firme-srbija-2026).
+`
+  },
+  {
     slug: 'kako-napraviti-landing-stranicu-koja-konvertuje-srbija-2026',
     title: 'Kako napraviti landing stranicu koja konvertuje u Srbiji 2026',
     excerpt: 'Vodic za kreiranje landing stranice koja pretvara posetioce u klijente. 7 elemenata koji cine razliku izmedju 1% i 10% stope konverzije.',
