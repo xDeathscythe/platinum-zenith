@@ -1,5 +1,117 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'google-search-console-vodic-za-pocetnike-srbija-2026',
+    title: 'Google Search Console vodic za pocetnike u Srbiji 2026',
+    excerpt: 'Kako koristiti Google Search Console za pracenje SEO rezultata. Registracija, verifikacija, analiza klikova i ispravka gresaka za srpske sajtove.',
+    date: '2026-03-18',
+    category: 'SEO',
+    readTime: '8 min',
+    content: `
+## Zasto je Google Search Console obavezan alat za svaki sajt
+
+Google Search Console (GSC) je besplatan alat koji vam pokazuje kako Google vidi vas sajt. Bez njega, optimizujete SEO naslepo -- ne znate za koje upite se pojavljujete, koliko klikova dobijate, niti da li Google uopste moze da procita vase stranice.
+
+Vecina vlasnika sajtova u Srbiji ili nema instaliran GSC ili ga ima ali nikad ne otvara. To je kao da imate radnju i nikad ne pogledate koliko ljudi ulazi i koliko kupuje.
+
+Za siru sliku SEO troskova pogledajte [SEO optimizacija cena](/seo-optimizacija-cena).
+
+## Kako registrovati sajt u Google Search Console
+
+### Korak 1: Idite na search.google.com/search-console
+
+Ulogujte se sa Google nalogom koji zelite da koristite za upravljanje sajtom.
+
+### Korak 2: Dodajte property
+
+GSC nudi dva tipa:
+- **Domain property** (preporuceno): Pokriva sve varijante vaseg domena (www i bez www, http i https). Verifikacija zahteva DNS zapis.
+- **URL prefix property:** Pokriva samo jednu varijantu (npr. samo https://example.com). Verifikacija je laksa (HTML tag ili fajl).
+
+Za vecinu sajtova, **Domain property** je bolji izbor jer pokriva sve varijante.
+
+### Korak 3: Verifikujte vlasnistvo
+
+Za Domain property: dodajte TXT zapis koji GSC generise u DNS podesavanja vaseg domena (Hostinger, GoDaddy, itd.). Verifikacija traje od 5 minuta do 24 sata.
+
+Za URL prefix: stavite HTML tag u head sekciju sajta ili uploadujte HTML fajl u root folder.
+
+### Korak 4: Sacekajte podatke
+
+GSC pocinje da prikuplja podatke od momenta verifikacije. Trebace vam 3-7 dana da dobijete dovoljno podataka za analizu.
+
+## 5 Najvaznijih izvestaja u Google Search Console
+
+### 1) Performance (Ucinak)
+
+Ovo je najvazniji izvestaj. Pokazuje:
+- **Total clicks** -- koliko ljudi je kliknulo na vas sajt iz Google pretrage
+- **Total impressions** -- koliko puta se vas sajt pojavio u rezultatima
+- **Average CTR** (Click Through Rate) -- procenat ljudi koji su kliknuli nakon sto su videli vas rezultat
+- **Average position** -- prosecna pozicija u rezultatima pretrage
+
+**Najkorisnija funkcija:** Filtrirajte po "Queries" da vidite za koje kljucne reci se pojavljujete. Ovo vam govori tacno sta ljudi kucaju u Google kad nadju vas sajt.
+
+### 2) Coverage / Pages (Indeksiranje)
+
+Pokazuje koliko stranica je Google indeksirao i da li ima gresaka. Crvene greske znace da Google ne moze da procita neku stranicu -- sto znaci da ta stranica ne postoji u pretrazivacim rezultatima.
+
+Najcesci problemi:
+- **404 greske** -- stranica ne postoji (obrisana ili promenjen URL)
+- **Redirected** -- stranica preusmerava na drugu lokaciju
+- **Crawled, not indexed** -- Google je procitao stranicu ali odlucio da je ne ukljuci u rezultate (los sadrzaj, duplikat, ili thin content)
+
+### 3) Sitemaps
+
+Ovde submitujete sitemap.xml vaseg sajta. Sitemap govori Google-u koje stranice postoje i koliko su vazne.
+
+Ako koristite WordPress, sitemap se automatski generise na vasajt.com/sitemap.xml. Samo kopirajte taj URL i submitujte ga u GSC.
+
+### 4) Core Web Vitals
+
+Pokazuje performanse sajta po Google-ovim standardima (brzina, stabilnost, interaktivnost). Ako su rezultati losi, to direktno utice na rangiranje. Za detalje o ubrzavanju sajta pogledajte [WordPress tehnicki SEO vodic](/blog/ubrzavanje-wordpress-sajta-tehnicki-seo-srbija-2026).
+
+### 5) Links
+
+Pokazuje koji sajtovi linkuju ka vasem (backlinks) i kako su vase interne stranice povezane. Korisno za razumevanje autoriteta sajta i otkrivanje potencijalno stetnih linkova.
+
+## Kako koristiti GSC podatke za poboljsanje SEO-a
+
+### Strategija 1: Pronadjite "low-hanging fruit" kljucne reci
+
+Filtrirajte Performance izvestaj po poziciji 5-20. Ovo su kljucne reci gde se pojavljujete na drugoj stranici Google-a ili pri dnu prve. Mala poboljsanja (bolji naslov, vise sadrzaja, interni linkovi) mogu ih podici na prvu stranicu.
+
+### Strategija 2: Poboljsajte CTR za postojece pozicije
+
+Ako imate kljucnu rec na poziciji 3 ali CTR je samo 2%, problem je u naslovu ili meta opisu. Prepisuite title tag i meta description da budu privlacniji. Zdrav CTR za poziciju 3 je 8-12%.
+
+### Strategija 3: Popravite greske u indeksiranju
+
+Idite na Coverage izvestaj i popravite sve crvene greske. Svaka ispravljena greska znaci da Google moze da indeksira jos jednu stranicu -- sto je jos jedna sansa da vas neko nadje.
+
+Za kompletnu checklistu pogledajte [on-page SEO checklistu](/blog/on-page-seo-checklista-srbija-2026).
+
+### Strategija 4: Pratite promene posle SEO izmena
+
+Kad napravite promenu na sajtu (novi blog post, promenjen naslov, dodat structured data), GSC vam pokazuje efekat za 2-4 nedelje. Koristite "Compare" opciju da uporedite performanse pre i posle promene.
+
+## Najcesce greske pri koriscenju GSC
+
+### 1) Gledanje samo ukupnih brojki
+"Imamo 10.000 impressions" ne znaci nista ako ne znate za koje upite. Uvek analizirajte po kljucnim recima i po stranicama.
+
+### 2) Ignorisanje "Crawled, not indexed" stranica
+Ove stranice Google smatra nedovoljno kvalitetnim. Ili ih poboljsajte (dodajte sadrzaj, unique content) ili ih obrisite/redirect-ujte.
+
+### 3) Nesubmitovanje sitemap-a
+Bez sitemap-a, Google mora sam da otkriva vase stranice. Sitemap ubrzava indeksiranje novih stranica za 50-80%.
+
+### 4) Panika zbog dnevnih fluktuacija
+Rangiranje varira iz dana u dan. Gledajte trendove na mesecnom nivou, ne dnevne skokove i padove.
+
+Za pomoc sa SEO strategijom i interpretacijom GSC podataka, javite se preko [kontakt forme](/kontakt). Pogledajte i [kako meriti ROI digitalnog marketinga](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026) za kompletnu sliku.
+`
+  },
+  {
     slug: 'kako-izabrati-poslovni-model-za-online-biznis-srbija-2026',
     title: 'Kako izabrati poslovni model za online biznis u Srbiji 2026',
     excerpt: 'Pausalac, DOO ili preduzetnik? Vodic za izbor poslovnog modela za online biznis u Srbiji 2026 sa uporednim pregledom poreza, odgovornosti i fleksibilnosti.',
