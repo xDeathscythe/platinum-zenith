@@ -1,5 +1,91 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'kako-pokrenuti-marketing-agenciju-srbija-2026',
+    title: 'Kako pokrenuti marketing agenciju u Srbiji 2026: od prvog klijenta do stabilnog prihoda',
+    excerpt: 'Vodic za pokretanje marketing agencije u Srbiji 2026. Izbor nise, formiranje cena, pronalazenje prvih klijenata i skaliranje bez zaposljavanja.',
+    date: '2026-03-18',
+    category: 'Agency Growth',
+    readTime: '9 min',
+    content: `
+## Zasto je 2026. godina idealna za pokretanje marketing agencije u Srbiji
+
+Srpsko trziste digitalnog marketinga raste 20-30% godisnje, a vecina malih i srednjih firmi jos uvek nema ozbiljno digitalno prisustvo. Tu ulazite vi.
+
+Ali upozorenje: "Radim marketing" nije pozicija. To je isto kao da lekar kaze "Lecim ljude". Kljuc uspesne agencije u Srbiji je **specijalizacija** -- uzak fokus na odredjen tip klijenta ili odredjen kanal.
+
+Za pregled koliko mozete naplacivati, pogledajte nas tekst o [cenama digitalnog marketinga u Srbiji](/cene-digitalnog-marketinga).
+
+## Korak 1: Izaberite nisu (i drzite se nje)
+
+Generalisticke agencije ("radimo sve za sve") imaju najnizi profit i najvisi churn klijenata. Klijent koji placa 300 EUR za "komplet marketing" ocekuje rezultate iz svih kanala -- sto je nemoguce za tu cenu.
+
+### Specijalizacija po industriji
+Izaberite jednu industriju i postanite najbolji u njoj:
+- Marketing za stomatologe (pogledajte [primer nise](/marketing-za-stomatologe))
+- Marketing za restorane (pogledajte [primer nise](/marketing-za-restorane))
+- Marketing za advokate (pogledajte [primer nise](/marketing-za-advokate))
+
+Prednost: razumete jezik klijenta, imate studije slucaja iz iste bransse, mozete kreirati sablon procese.
+
+### Specijalizacija po kanalu
+Alternativno, postanite ekspert za jedan kanal:
+- Samo [Google Ads](/google-reklame-cena) za lokalne biznise
+- Samo [SEO optimizacija](/seo-optimizacija-cena) za e-commerce
+- Samo [Instagram marketing](/instagram-reklame-cena) za ugostiteljstvo
+
+## Korak 2: Formirajte cene koje vas ne unistav
+
+Najcesci razlog zasto mlade agencije u Srbiji propadaju nije nedostatak klijenata -- vec **preniske cene**. Ako naplacujete 200 EUR mesecno za vodjenje kompletnog marketinga, morate imati 20+ klijenata da biste prezveli. Sa 20 klijenata, kvalitet pada, klijenti odlaze, i vi radite 14 sati dnevno za platu od operatera u call centru.
+
+### Tri modela naplate
+1. **Mesecni retainer:** Fiksna mesecna naknada za definisan obim posla. Najpredvidljiviji prihod. Preporuka: minimum 500 EUR mesecno po klijentu za ozbiljan rad.
+2. **Procenat od ad spend-a:** 15-25% od budzeta za reklame. Dobar za agencije fokusirane na placene kampanje.
+3. **Performance based (Revenue Share):** Naplacujete procenat od prodaje koju generisete. Visok rizik, ali i visoka zarada kad radi. Vise o modelima u nasoj analizi [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share).
+
+## Korak 3: Pronadjite prvih 5 klijenata
+
+### Metod 1: Besplatan audit
+Pronadjite 20 firmi u vasoj nisi. Napravite kratku analizu njihovog sajta/marketinga (5-10 minuta po firmi). Posaljite im rezultat sa 3 konkretna predloga za poboljsanje -- bez trazenja necega zauzvrat. 3-5 od njih ce vam se javiti.
+
+### Metod 2: Referalni (Preporuke)
+Radite odlican posao za svakog klijenta. Zatrazite preporuku EKSPLICITNO: "Da li poznajete jos nekog vlasnika firme koji bi imao koristi od ovoga?" Jedan zadovoljan klijent donosi 2-3 nova u prvoj godini.
+
+### Metod 3: Vas sopstveni marketing
+Ako ste marketing agencija koja nema svoj marketing, nesto ne stima. Koristite svoj sajt, blog i drustvene mreze kao prikaz sposobnosti. Pisanje [blogova koji donose organski saobracaj](/blog/on-page-seo-checklista-srbija-2026) je najjeftiniji nacin za dugorocnu akviziciju klijenata.
+
+## Korak 4: Sistematizujte isporuku
+
+Posle 5. klijenta, ako i dalje svaki zadatak radite od nule, necete moci da rastetete. Kreirajte procese:
+
+- **Onboarding checklista:** Sta radite prvih 7 dana sa novim klijentom (pristup nalogu, audit, strategija).
+- **Mesecni izvestaj sablon:** Standardizovan izvestaj koji saljete svakog meseca (rezultati, sledeci koraci).
+- **SOP za svaki kanal:** Korak-po-korak procedura za postavljanje kampanja, pisanje postova, SEO optimizaciju.
+
+Za uporedbu da li vam se vise isplati [in-house tim ili agencijski model](/in-house-tim-vs-agencija) pogledajte nasu analizu.
+
+## Korak 5: Skalirajte bez zaposljavanja (prvih 12 meseci)
+
+Nemojte zaposljavati ljude pre nego sto zaradite bar 3.000-5.000 EUR mesecno stabilno. Do tada koristite:
+
+- **Freelancere** za dizajn (Canva Pro + freelancer sa Fiverr/Upwork za kompleksnije zadatke).
+- **AI alate** za pisanje sadrzaja, kreiranje vizuala i automatizaciju repetitivnih zadataka.
+- **Projektne saradnike** umesto zaposlenih (placate po projektu, ne fiksnu platu).
+
+## Najcesce greske mladih agencija u Srbiji
+
+### 1) Primaju svakog klijenta
+Klijent koji placa 150 EUR i stalno trazi vise je gori od nijednog klijenta. Naucite da kazete "ne" poslovima koji ne spadaju u vasu nisu ili su ispod vaseg cenovnog praga.
+
+### 2) Ne mere rezultate
+Ako ne mozete klijentu da pokazete konkretan broj (leadovi, prodaje, saobracaj), on ce vas zameniti cim mu neko ponudi nizu cenu. Procitajte [kako meriti ROI](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
+
+### 3) Fokus na nove klijente umesto na zadrzavanje postojecih
+Trosak akvizicije novog klijenta je 5-7x veci od zadrzavanja postojeceg. Investirajte u odnos sa klijentima koje vec imate.
+
+Za konsultacije oko pokretanja ili skaliranja agencije, javite se preko [kontakt forme](/kontakt).
+`
+  },
+  {
     slug: 'ubrzavanje-wordpress-sajta-tehnicki-seo-srbija-2026',
     title: 'Ubrzavanje WordPress sajta: Vodic za tehnicki SEO u 2026. godini',
     excerpt: 'Spor sajt ubija vas SEO i konverzije. Saznajte kako da ubrzate WordPress sajt u Srbiji: hosting, caching, WebP slike i optimizacija za mobilne uredjaje.',

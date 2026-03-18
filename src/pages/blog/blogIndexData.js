@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "kako-pokrenuti-marketing-agenciju-srbija-2026",
+    "title": "Kako pokrenuti marketing agenciju u Srbiji 2026: od prvog klijenta do stabilnog prihoda",
+    "excerpt": "Vodic za pokretanje marketing agencije u Srbiji 2026. Izbor nise, formiranje cena, pronalazenje prvih klijenata i skaliranje bez zaposljavanja.",
+    "date": "2026-03-18",
+    "category": "Agency Growth",
+    "readTime": "9 min",
+    "isDraft": false
+  },
+  {
     "slug": "ubrzavanje-wordpress-sajta-tehnicki-seo-srbija-2026",
     "title": "Ubrzavanje WordPress sajta: Vodic za tehnicki SEO u 2026. godini",
     "excerpt": "Spor sajt ubija vas SEO i konverzije. Saznajte kako da ubrzate WordPress sajt u Srbiji: hosting, caching, WebP slike i optimizacija za mobilne uredjaje.",
