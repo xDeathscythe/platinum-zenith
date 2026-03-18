@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "tiktok-reklame-cena-srbija-2026",
+    "title": "TikTok reklame u Srbiji 2026: cene, budzeti i ko treba da se oglasava",
+    "excerpt": "Koliko kostaju TikTok reklame u Srbiji 2026. CPM i CPA benchmarci, minimalni dnevni budzeti i za koje firme ovaj kanal donosi najbolji ROI.",
+    "date": "2026-03-18",
+    "category": "Video Marketing",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "kako-voditi-drustvene-mreze-srbija-2026",
     "title": "Kako samostalno voditi drustvene mreze u Srbiji 2026: alati, planiranje i organizacija vremena",
     "excerpt": "Praktican vodic za preduzetnike koji sami vode drustvene mreze. Alati za dizajn i zakazivanje postova, content kalendar i kako ustedeti vreme na drustvenim mrezama u 2026.",
@@ -1386,15 +1395,6 @@ export const blogIndexPosts = [
     "date": "2026-03-10",
     "category": "Marketing",
     "readTime": "8 min",
-    "isDraft": false
-  },
-  {
-    "slug": "tiktok-reklame-cena-srbija-2026",
-    "title": "TikTok reklame cena u Srbiji 2026: realni budzeti, CPM/CPC rasponi i kada se isplate",
-    "excerpt": "Koliko kostaju TikTok reklame u Srbiji 2026, koji budzet ima smisla za test i kako da procenis da li kanal donosi profit ili samo jeftine preglede bez prodaje.",
-    "date": "2026-03-11",
-    "category": "Marketing",
-    "readTime": "9 min",
     "isDraft": false
   },
   {

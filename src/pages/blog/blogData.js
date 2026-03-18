@@ -1,5 +1,105 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'tiktok-reklame-cena-srbija-2026',
+    title: 'TikTok reklame u Srbiji 2026: cene, budzeti i ko treba da se oglasava',
+    excerpt: 'Koliko kostaju TikTok reklame u Srbiji 2026. CPM i CPA benchmarci, minimalni dnevni budzeti i za koje firme ovaj kanal donosi najbolji ROI.',
+    date: '2026-03-18',
+    category: 'Video Marketing',
+    readTime: '8 min',
+    content: `
+## Zasto TikTok Ads vise nije samo za "klince"
+
+Najveca zabluda srpskih preduzetnika u 2026. godini je da su na TikToku samo deca. Demografija se drasticno promenila -- preko 40% aktivnih korisnika u Srbiji sada ima izmedju 25 i 45 godina. To su ljudi sa kupovnom moci.
+
+Jos vaznije, TikTok algoritam drugacije funkcionise od Facebooka i Instagrama. On ne nagradjuje koga pratite, vec kakav sadrzaj konzumirate. To znaci da vase reklame mogu doci do publike brze i jeftinije nego na Meta platformama, ali samo ako je kreativa prilagodjena mrezi.
+
+Za uporedni pregled troskova na razlicitim kanalima pogledaj [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Cena TikTok reklama u Srbiji: Konkretni brojevi
+
+TikTok je i dalje jedan od najpovoljnijih kanala za generisanje reach-a u Srbiji, iako su cene konverzija slicnije Instagramu.
+
+### Osnovne metrike (Benchmark za 2026)
+
+- **CPM (Cena za 1.000 prikaza):** 0.30 - 1.20 EUR (3x do 5x jeftinije od Instagrama).
+- **CPC (Cena po kliku):** 0.05 - 0.25 EUR.
+- **CPA (Cena po akviziciji/kupovini):** 3.00 - 12.00 EUR (zavisno od industrije i cene proizvoda).
+
+Ove brojke vaze za siroko targetiranje. TikTok algoritam je najbolji kada mu date slobodu (Broad Targeting) i pustite da sama kreativa filtrira publiku.
+
+### Minimalni budzeti
+
+Za razliku od Facebooka gde mozete krenuti sa 5 EUR dnevno, TikTok Ads Manager ima striktnija ogranicenja:
+
+- **Minimalni dnevni budzet na nivou kampanje:** 50 EUR.
+- **Minimalni dnevni budzet na nivou ad grupe:** 20 EUR.
+
+Ovo znaci da vam treba **minimum 600 EUR mesecno** samo za ad spend da biste uopste pokrenuli ozbiljnu TikTok kampanju. Ako imate manji budzet, fokusirajte se na organski TikTok ili pogledajte [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama).
+
+## Za koje industrije TikTok Ads radi najbolje?
+
+### 1) E-commerce (fizicki proizvodi)
+
+Proizvodi ispod 50 EUR (5.000-6.000 RSD) konvertuju najbolje. Impulsivna kupovina je srž TikToka. Sminka, kozmetika, gadgeti, odeca i dodaci za kucu su apsolutni sampioni. U ovim nisama TikTok CPA cesto nadmasuje Instagram.
+
+### 2) Aplikacije i softver
+
+Posto korisnici vec koriste mobilni telefon, instalacija aplikacije (App Install) je na jedan klik. Cene instalacija na TikToku su cesto 30-50% nize nego na Google Play ili Apple Search oglasima.
+
+### 3) Edukacija i Info-proizvodi
+
+Kursevi jezika, finansijska edukacija, fitness programi. Krati "tip/trik" videi koji vode na lead magnet konvertuju odlicno. Pogledaj nas vodic o [izgradnji email liste](/blog/email-lista-za-male-firme-srbija-2026) za nastavak ovog funnel-a.
+
+### Ko NE treba da koristi TikTok Ads (za sad)
+
+Skupi B2B proizvodi, industrijska oprema i ekstremno usko targetirane lokalne usluge (npr. "vodoinstalater Zemun"). Za ove biznise [Google reklame](/google-reklame-cena) su i dalje neuporedivo bolja opcija.
+
+## Kreativa: Najjaci adut TikTok kampanja
+
+Na TikToku vazi pravilo: **"Don't make ads. Make TikToks."**
+
+Ako prebacite ugladjen korporativni video sa Instagrama na TikTok, propasce. Korisnici TikToka imaju radar za "klasicne" reklame i scrolluju ih u prvih 0.5 sekundi.
+
+### Sta radi u 2026?
+
+**UGC (User Generated Content)** -- video snimljen telefonom gde stvarna osoba (ili kreator) koristi proizvod. Deluje kao organski post, a ne kao oglas.
+
+**"Hook" u prve 3 sekunde** -- tekst na ekranu i verbalna izjava koja gadja problem kupca odmah. Npr: "Greska koju pravis sa pranjem kose..." umesto "Nas novi sampon je...".
+
+**Native elementi** -- koristite TikTok fontove, trending muziku, i text-to-speech glasove. Oglas mora izgledati kao da pripada platformi.
+
+**Brzi rezovi** -- menjajte kadar ili tekst svakih 2-3 sekunde. Zadrzavanje paznje je kljuc.
+
+Za vise saveta o pravljenju videa, pogledaj [video marketing vodic za male firme](/blog/video-marketing-za-male-firme-srbija-2026).
+
+## Kako strukturirati TikTok kampanju
+
+Kao i svaka ozbiljna strategija, TikTok Ads zahteva testiranje:
+
+**Faza 1 (Testiranje kreative):** Pokrenite 3-5 potpuno razlicitih videa sa sirokim targetiranjem. Budzet od 20 EUR po ad grupi. Pratite koji video ima najbolji "Hook rate" (procenat ljudi koji odgleda prve 3 sekunde) i CTR.
+
+**Faza 2 (Optimizacija):** Ugasite videe koji ne rade. Napravite varijacije videa koji radi najbolje (promenite prvih 3 sekunde, dodajte drugi poziv na akciju).
+
+**Faza 3 (Skaliranje):** Kada nadjete "pobednicki" video koji donosi profitabilne konverzije, postepeno povecavajte dnevni budzet za 20% na svaka dva dana. Nemojte udvostruciti budzet odjednom jer cete zbuniti algoritam.
+
+## Najcesce greske na TikTok oglasima
+
+### 1) Oslanjanje na jedan video
+
+Creative fatigue (zastarevanje kreative) se desava neverovatno brzo na TikToku. Video koji danas donosi prodaje moze potpuno stati za dve nedelje. Morate imati stalan priliv novih videa za testiranje.
+
+### 2) Preusko targetiranje
+
+Klijenti cesto zele da targetiraju "zene, 25-30, koje prate fitnes i zive u Novom Sadu". Na TikToku je ovo greska. Mreza radi najbolje sa masovnim podacima. Izaberite siroko ("Srbija, 18+") i pustite kreativni sadrzaj da privuce prave ljude.
+
+### 3) Ignorisanje komentara
+
+TikTok reklame dozvoljavaju komentare. Korisnici cesto pitaju za cenu, dostavu ili iskustva u komentarima oglasa. Ako ne odgovarate, gubite konverzije. Ako ne brisete spam/hate komentare, oglas ce dobiti los engagement.
+
+Ukoliko zelite da pokrenete profitabilne TikTok kampanje za vas e-commerce ili info biznis, javite se preko [kontakt forme](/kontakt) i proverite da li je vas proizvod dobar fit za ovu mrezu.
+`
+  },
+  {
     slug: 'kako-voditi-drustvene-mreze-srbija-2026',
     title: 'Kako samostalno voditi drustvene mreze u Srbiji 2026: alati, planiranje i organizacija vremena',
     excerpt: 'Praktican vodic za preduzetnike koji sami vode drustvene mreze. Alati za dizajn i zakazivanje postova, content kalendar i kako ustedeti vreme na drustvenim mrezama u 2026.',
