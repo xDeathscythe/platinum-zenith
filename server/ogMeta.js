@@ -750,6 +750,22 @@ const SERVER_ROUTE_SCHEMAS = {
       url: SITE_URL,
     },
   },
+  '/marketing-agencija-krusevac': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Marketing agencija Krusevac',
+    serviceType: 'Digital marketing agency services',
+    url: `${SITE_URL}/marketing-agencija-krusevac`,
+    areaServed: {
+      '@type': 'City',
+      name: 'Krusevac',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
   '/in-house-tim-vs-agencija': {
     '@context': 'https://schema.org',
     '@type': 'Service',
@@ -1116,6 +1132,12 @@ const ogMeta = {
     description: 'Marketing agencija za Kraljevo i Raski okrug: SEO, Google Ads i Meta kampanje za lokalne firme koje zele vise upita i prodaje uz merljiv ROI.',
     ogImage: `${SITE_URL}/pz-og.jpg`,
     ogImageAlt: 'Marketing agencija Kraljevo - digitalni marketing za Raski okrug',
+  },
+  '/marketing-agencija-krusevac': {
+    title: 'Marketing Agencija za Krusevac | Digitalni Marketing | Platinum Zenith',
+    description: 'Marketing agencija za Krusevac i Rasinski okrug: SEO, Google Ads i Meta kampanje za lokalne firme koje zele vise upita i prodaje uz merljiv ROI.',
+    ogImage: `${SITE_URL}/pz-og.jpg`,
+    ogImageAlt: 'Marketing agencija Krusevac - digitalni marketing za Rasinski okrug',
   },
   '/web-shop-nema-prodaju': {
     title: 'Web Shop Nema Prodaju? 5 Razloga i Rešenja | Platinum Zenith',

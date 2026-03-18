@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-03-18T18:30:43.828Z",
-  "postsChecked": 149,
+  "generatedAt": "2026-03-18T22:28:20.795Z",
+  "postsChecked": 150,
   "issueCount": 0,
   "checked": [
+    {
+      "route": "/blog/kako-napraviti-landing-stranicu-koja-konvertuje-srbija-2026",
+      "serviceHits": 3,
+      "hasKontakt": true
+    },
     {
       "route": "/blog/kako-pokrenuti-marketing-agenciju-srbija-2026",
       "serviceHits": 5,
