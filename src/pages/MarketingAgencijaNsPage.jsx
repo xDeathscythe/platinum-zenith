@@ -158,6 +158,10 @@ export default function MarketingAgencijaNsPage() {
               <div className="text-[14px] font-medium text-ink mb-1">Marketing za Pancevo</div>
               <div className="text-[12px] text-ink-3">Digitalni marketing za juzni Banat</div>
             </Link>
+            <Link to="/marketing-agencija-cacak" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Marketing za Cacak</div>
+              <div className="text-[12px] text-ink-3">Digitalni marketing za Moravicki okrug</div>
+            </Link>
             <Link to="/agencija-vs-freelancer" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
               <div className="text-[14px] font-medium text-ink mb-1">Agencija vs freelancer</div>
               <div className="text-[12px] text-ink-3">Kako da izaberete</div>

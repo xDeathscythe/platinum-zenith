@@ -718,6 +718,22 @@ const SERVER_ROUTE_SCHEMAS = {
       url: SITE_URL,
     },
   },
+  '/marketing-agencija-cacak': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Marketing agencija Cacak',
+    serviceType: 'Digital marketing agency services',
+    url: `${SITE_URL}/marketing-agencija-cacak`,
+    areaServed: {
+      '@type': 'City',
+      name: 'Cacak',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
   '/in-house-tim-vs-agencija': {
     '@context': 'https://schema.org',
     '@type': 'Service',
@@ -1072,6 +1088,12 @@ const ogMeta = {
     description: 'Marketing agencija za Pancevo i juzni Banat: SEO, Google Ads i Meta kampanje za lokalne firme koje zele vise upita i prodaje uz merljiv ROI.',
     ogImage: `${SITE_URL}/pz-og.jpg`,
     ogImageAlt: 'Marketing agencija Pancevo - digitalni marketing za juzni Banat',
+  },
+  '/marketing-agencija-cacak': {
+    title: 'Marketing Agencija za Cacak | Digitalni Marketing | Platinum Zenith',
+    description: 'Marketing agencija za Cacak i Moravicki okrug: SEO, Google Ads i Meta kampanje za lokalne firme koje zele vise upita i prodaje uz merljiv ROI.',
+    ogImage: `${SITE_URL}/pz-og.jpg`,
+    ogImageAlt: 'Marketing agencija Cacak - digitalni marketing za Moravicki okrug',
   },
   '/web-shop-nema-prodaju': {
     title: 'Web Shop Nema Prodaju? 5 Razloga i Rešenja | Platinum Zenith',
@@ -1529,6 +1551,16 @@ const serverFaqByPath = {
     {
       q: 'Da li pokrivate i okolna mesta poput Starceva i Omoljice?',
       a: 'Naravno. Lokalni SEO i Google Ads kampanje mogu da ciljaju ceo juzni Banat, ukljucujuci Starcevo, Omoljicu, Opovo i Kovin.',
+    },
+  ],
+  '/marketing-agencija-cacak': [
+    {
+      q: 'Zasto bih birao agenciju koja nije iz Cacka?',
+      a: 'Zato sto kvalitet digitalnog marketinga ne zavisi od fizicke lokacije agencije. Rad se odvija online, rezultati su merljivi, a komunikacija funkcionise jednako dobro preko video poziva.',
+    },
+    {
+      q: 'Da li pokrivate i okolna mesta poput Gornjeg Milanovca i Lucana?',
+      a: 'Naravno. Lokalni SEO i Google Ads kampanje mogu da ciljaju ceo Moravicki okrug, ukljucujuci Gornji Milanovac, Lucane, Ivanjicu i okolna naselja.',
     },
   ],
   '/seo-optimizacija-cena': [

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-18T10:29:00.919Z",
+  "generatedAt": "2026-03-18T14:29:25.163Z",
   "targets": 23,
   "failing": 0,
   "checks": [
@@ -84,7 +84,7 @@
       "route": "/marketing-agencija-beograd",
       "component": "MarketingAgencijaBgPage",
       "file": "src\\pages\\MarketingAgencijaBgPage.jsx",
-      "uniqueInternalLinks": 12,
+      "uniqueInternalLinks": 13,
       "hasKontakt": true,
       "hasRouteSchema": true,
       "hasFaqSchema": true,
@@ -106,7 +106,7 @@
       "route": "/marketing-agencija-novi-sad",
       "component": "MarketingAgencijaNsPage",
       "file": "src\\pages\\MarketingAgencijaNsPage.jsx",
-      "uniqueInternalLinks": 12,
+      "uniqueInternalLinks": 13,
       "hasKontakt": true,
       "hasRouteSchema": true,
       "hasFaqSchema": true,
