@@ -1,5 +1,94 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'google-business-profile-optimizacija-srbija-2026',
+    title: 'Google Business Profile optimizacija u Srbiji 2026: kompletna checklista',
+    excerpt: 'Kako optimizovati Google Business profil za lokalni biznis u Srbiji 2026. Checklista sa 15 koraka za vece prisustvo na Google Mapi i vise poziva.',
+    date: '2026-03-18',
+    category: 'Lokalni SEO',
+    readTime: '8 min',
+    content: `
+## Zasto je Google Business Profile najvazniji besplatni alat za lokalni biznis
+
+Kada neko u Srbiji kuca "frizerski salon blizu mene" ili "autoservis Novi Sad", Google prikazuje tri rezultata na mapi -- takozvani "Local Pack". Firme u tom Local Pack-u dobijaju 44% svih klikova. Firme ispod mape dobijaju mrvice.
+
+Vas Google Business Profile (GBP, ranije poznat kao Google My Business) odredjuje da li cete biti u ta tri mesta ili ce vas konkurent zauzeti vasu poziciju. I za razliku od Google Ads-a, GBP je potpuno besplatan.
+
+Za siru sliku lokalnog SEO-a pogledajte [SEO optimizacija cena](/seo-optimizacija-cena).
+
+## 15 koraka za kompletnu GBP optimizaciju
+
+### 1) Proverite vlasnistvo nad profilom
+
+Pre svega, budite sigurni da ste vi vlasnik vaseg GBP profila. Mnoge firme u Srbiji imaju profile koje je Google automatski kreirao (ili ih je kreirao bivsi zaposleni/agencija). Idite na google.com/business i provjerite pristup.
+
+### 2) Izaberite primarne i sekundarne kategorije
+
+Primarna kategorija je najvazniji faktor za rangiranje na mapi. Ako ste stomatolog, primarna kategorija mora biti "Zubar" (Dentist), ne "Medicinski centar". Dodajte 2-3 sekundarne kategorije koje precizno opisuju vase usluge (npr. "Oralni hirurg", "Kozmeticka stomatologija").
+
+### 3) Napisite optimizovan opis firme (750 karaktera)
+
+Google vam daje 750 karaktera za opis. Iskoristite ih sve. Stavite najvaznije kljucne reci u prvu recenicu. Ne kopirajte opis sa sajta -- napisite jedinstven tekst koji ukljucuje grad, usluge i ono po cemu se razlikujete od konkurencije.
+
+### 4) Dodajte sve usluge sa opisima
+
+GBP ima sekciju "Usluge" gde mozete nabrojati svaku uslugu sa kratkim opisom i cenom. Vecina srpskih firmi ovo ne popunjava. Svaka usluga koju dodate je nova kljucna rec po kojoj vas Google moze prikazati.
+
+### 5) Postavite profesionalne fotografije
+
+Profili sa vise od 100 fotografija dobijaju 520% vise poziva od profila bez fotografija (Google-ov podatak). Dodajte: fotografiju fasade (spolja), enterijera, tima, proizvoda/usluga u akciji. Svaku nedelju dodajte bar 2-3 nove fotografije.
+
+### 6) Popunite radno vreme (ukljucujuci praznike)
+
+Netacno radno vreme je jedan od najcescih razloga za negativne recenzije ("Dosao sam a zatvoreno je"). Azurirajte radno vreme za sve drzavne praznike unapred.
+
+### 7) Dodajte posebne atribute
+
+GBP nudi atribute specificne za vasu industriju: "Besplatan WiFi", "Pristupacno za invalidska kolica", "Parking dostupan", "Prihvata kartice". Svaki atribut poboljsava vidljivost za relevantne pretrage.
+
+### 8) Aktivirajte Messaging (poruke)
+
+GBP Messaging omogucava klijentima da vam posalju poruku direktno iz Google pretrage. Firme koje imaju aktivno dopisivanje dobijaju 2x vise upita. Odgovarajte u roku od sat vremena.
+
+### 9) Objavite GBP postove (nedeljno)
+
+Malo ko u Srbiji koristi GBP postove, a oni direktno uticu na rangiranje. Objavite: ponude, novosti, dogadjaje, novi proizvod. Jedan post nedeljno je minimum. Post traje 7 dana pre nego sto istekne.
+
+### 10) Kreirajte Q&A sekciju sami
+
+Ne cekajte da klijenti postavljaju pitanja. Sami postavite 10-15 najcescih pitanja i odgovorite na njih. Ovo se prikazuje u vasem profilu i ubrzava odluku potencijalnih klijenata.
+
+### 11) Skupljajte recenzije sistematski
+
+Recenzije su drugi najvazniji faktor za rangiranje (posle kategorije). Kreirajte link za recenziju i salajte ga svakom klijentu posle zavrsetka usluge. Cilj: minimum 5 novih recenzija mesecno.
+
+### 12) Odgovarajte na SVAKU recenziju
+
+Google nagradjuje profile koji odgovaraju na recenzije. I na pozitivne i na negativne. Za negativne, koristite pristup koji smo opisali u nasem [vodicu za upravljanje reputacijom](/blog/upravljanje-reputacijom-drustvene-mreze-srbija-2026).
+
+### 13) Dodajte proizvode/meni
+
+Ako imate e-commerce ili restoran, dodajte proizvode ili meni direktno u GBP. Ovo se prikazuje u vasem profilu i povecava vreme provedeno na vasem listingu.
+
+### 14) Koristite UTM parametre za pracenje
+
+Dodajte UTM parametre na link vaseg sajta u GBP-u kako biste u Google Analytics-u videli koliko saobracaja dolazi sa GBP profila. Za merenje rezultata procitajte [kako meriti ROI digitalnog marketinga](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
+
+### 15) Proverite NAP konzistentnost
+
+NAP = Name, Address, Phone. Ime firme, adresa i telefon moraju biti IDENTIENI na GBP profilu, vasem sajtu, Facebooku, Yellow Pages, i svim direktorijumima. Svaka nekonzistentnost zbunjuje Google i smanjuje rangiranje.
+
+## Najcesce greske na GBP profilima u Srbiji
+
+- **Nema fotografija** -- profil bez slika deluje kao napustena firma
+- **Netacna kategorija** -- "Kompanija" umesto specificne kategorije
+- **Nema odgovora na recenzije** -- signal Google-u da vlasnik ne brine o korisnicima  
+- **Staro radno vreme** -- posebno tokom praznika
+- **Keyword stuffing u imenu firme** -- dodavanje kljucnih reci u ime firme je protiv Google-ovih pravila i moze dovesti do suspenzije profila
+
+Za profesionalnu optimizaciju GBP profila i kompletnu lokalnu SEO strategiju, javite se preko [kontakt forme](/kontakt). Pogledajte i nase lokalne stranice za [marketing u Beogradu](/marketing-agencija-beograd), [Novom Sadu](/marketing-agencija-novi-sad) ili [Nisu](/marketing-agencija-nis).
+`
+  },
+  {
     slug: 'woocommerce-vs-shopify-srbija-2026',
     title: 'WooCommerce vs Shopify u Srbiji 2026: koji je bolji izbor za vasu prodavnicu',
     excerpt: 'Detaljno poredjenje WooCommerce-a i Shopify-ja za srpsko trziste 2026. Troskovi, placanje, dostava, skalabilnost i koji je pravi izbor za vas biznis.',

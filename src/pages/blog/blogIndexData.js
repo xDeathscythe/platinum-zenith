@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-business-profile-optimizacija-srbija-2026",
+    "title": "Google Business Profile optimizacija u Srbiji 2026: kompletna checklista",
+    "excerpt": "Kako optimizovati Google Business profil za lokalni biznis u Srbiji 2026. Checklista sa 15 koraka za vece prisustvo na Google Mapi i vise poziva.",
+    "date": "2026-03-18",
+    "category": "Lokalni SEO",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "woocommerce-vs-shopify-srbija-2026",
     "title": "WooCommerce vs Shopify u Srbiji 2026: koji je bolji izbor za vasu prodavnicu",
     "excerpt": "Detaljno poredjenje WooCommerce-a i Shopify-ja za srpsko trziste 2026. Troskovi, placanje, dostava, skalabilnost i koji je pravi izbor za vas biznis.",
