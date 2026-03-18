@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "email-lista-za-male-firme-srbija-2026",
+    "title": "Kako izgraditi email listu od nule za male firme u Srbiji 2026",
+    "excerpt": "Prakticni vodic za izgradnju email liste za male firme u Srbiji. Lead magneti koji rade, alati, landing stranice i strategija prvog meseca.",
+    "date": "2026-03-18",
+    "category": "Lead Generation",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "landing-page-optimizacija-konverzije-srbija-2026",
     "title": "Landing page optimizacija: 12 promena koje povecavaju konverzije za 30-80%",
     "excerpt": "Prakticne CRO promene za landing stranice u Srbiji 2026. Konkretni primeri, A/B test rezultati i greske koje kostaju konverzije.",
