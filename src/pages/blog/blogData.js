@@ -1,5 +1,81 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'optimizacija-konverzije-sajta-cro-srbija-2026',
+    title: 'Optimizacija konverzije (CRO) u Srbiji 2026: kako da isti saobracaj donese vise prodaje',
+    excerpt: 'Zasto povecanje budzeta za reklame nije uvek resenje. Vodic za CRO (Conversion Rate Optimization) u Srbiji: brzina, trust signali, forme i checkout proces.',
+    date: '2026-03-18',
+    category: 'Growth',
+    readTime: '8 min',
+    content: `
+## Zasto bacate novac na reklame ako vam sajt ne konvertuje
+
+Vecina firmi u Srbiji misli da im treba vise saobracaja. Zato dupliraju budzete za [Google reklame](/google-reklame-cena) ili [Facebook Ads](/koliko-kosta-facebook-reklama).
+
+Ali evo jednostavne matematike:
+- Sajt A: 10.000 posetilaca x 1% konverzija = 100 prodaja
+- Sajt B: 10.000 posetilaca x 2% konverzija = 200 prodaja
+
+Sajt B zaradjuje duplo vise novca sa **potpuno istim marketing budzetom**. To je moc optimizacije konverzije (Conversion Rate Optimization - CRO). Umesto da placate Marku Zakerbergu za vise klikova, placate jednokratnu promenu na sajtu koja zauvek donosi vise kupaca.
+
+Uvid u cene izrade optimizovanog sajta potrazite u nasem tekstu o [cenama izrade WordPress sajta](/izrada-wordpress-sajta-cena).
+
+## 4 Elementa koja ubijaju konverziju na srpskim sajtovima
+
+Kada analiziramo zasto sajtovi domacih firmi gube potencijalne klijente, 90% problema spada u ove cetiri kategorije:
+
+### 1) Brzina ucitavanja (3-sekundno pravilo)
+
+Svaka sekunda ucitavanja preko 3 sekunde obara konverziju za 20%. U 2026. godini, preko 70% saobracaja dolazi sa mobilnih telefona. Ako vas sajt na mobilnom internetu (4G/5G) otvara sliku od 5 megabajta na naslovnoj strani, posetilac odlazi pre nego sto vidi vasu ponudu.
+**Resenje:** Optimizujte slike na WebP format, ukljucite caching, prebacite se na brz lokalni ili cloud hosting. Pogledajte nasu [on-page SEO checklistu](/blog/on-page-seo-checklista-srbija-2026) za tehnicke detalje.
+
+### 2) Konfuzan CTA (Poziv na akciju)
+
+"Saznaj vise" nije dobar CTA. Gde dugme vodi? Sta ce se desiti kada kliknem? Ljudi ne zele da uce, zele da rese problem.
+**Los CTA:** "Nase usluge" ili "Posaljite poruku"
+**Dobar CTA:** "Zatrazite besplatnu procenu" ili "Pogledajte cenovnik"
+
+### 3) Previse polja u kontakt formi
+
+Za [B2B prodaju i lead generation](/blog/b2b-prodaja-kako-zatvoriti-klijenta-srbija-2026), forma je mesto gde se gubi najvise ljudi. Ako za preuzimanje obicnog PDF vodica trazite ime, prezime, email, broj telefona, ime firme i PIB -- konverzija ce vam biti ispod 1%.
+**Pravilo:** Trazite samo ono sto vam apsolutno treba u toj fazi. Ime i email su dovoljni za prvi kontakt.
+
+### 4) Nedostatak "Trust Signala"
+
+Zasto bi neko vama dao novac preko interneta? Trust signali moraju biti vidljivi pre nego sto zatraze novac ili podatke:
+- Testimonijali sa pravim imenima i slikama (ili jos bolje, video izjave).
+- Logotipi firmi sa kojima ste radili.
+- Bezbednosni bedzevi (SSL, sigurno placanje) blizu checkout dugmeta.
+- Jasan povratni period (npr. "14 dana garancija povrata").
+
+## Kako optimizovati e-commerce (Checkout levak)
+
+Ako imate online prodavnicu, fokusirajte se iskljucivo na korpu i checkout.
+
+**Guest Checkout je obavezan:** Forsiranje kreiranja naloga pre kupovine unistava 35% prodaja. Dozvolite ljudima da kupe kao gosti.
+**Jedna stranica za naplatu:** Ako kupac mora da klikne "Dalje" cetiri puta da bi platio, odustace. Svedite sve na jednu stranicu.
+**Jasni troskovi dostave odmah:** Najjaci razlog za napustanje korpe je skriveni trosak dostave koji se pojavi na poslednjem koraku. Trosak dostave mora biti jasan cim se proizvod stavi u korpu.
+
+Vise o postavljanju webshopa potrazite u nasem [e-commerce vodicu](/blog/kako-pokrenuti-online-prodavnicu-srbija-2026).
+
+## Kako meriti uspesnost CRO strategije
+
+Da biste optimizovali, morate meriti. Tri alata su vam neophodna:
+
+1. **Google Analytics 4:** Merite odakle dolaze ljudi koji kupuju. Ne samo klikove, vec postotak konverzije po kanalu. (Vise o tome [kako meriti ROI digitalnog marketinga](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026)).
+2. **Microsoft Clarity (ili Hotjar):** Besplatni alati koji snimaju ekran posetilaca. Kada vidite snimak kako korisnik besno klikce na dugme koje ne radi, znacete sta treba popraviti u 5 minuta.
+3. **A/B Testing:** Ne nagadjajte da li ce crveno ili zeleno dugme raditi bolje. Pustite pola saobracaja na crveno, pola na zeleno, i pratite brojke.
+
+## 30-dnevni plan za CRO unapredjenje vaseg sajta
+
+**Nedelja 1:** Instalirajte Microsoft Clarity na sajt. Analizirajte brzinu sajta preko Google PageSpeed Insights. Smanjite slike koje usporavaju ucitavanje.
+**Nedelja 2:** Pregledajte snimke sa Clarity-ja. Potrazite mesta gde ljudi skroluju gore-dole (konfuzija) ili odustaju kod formi. Smanjite kontakt forme na max 3 polja.
+**Nedelja 3:** Proverite sve CTA dugmice. Promenite genericke "Saznaj vise" tekstove u akcione poruke ("Zakazi konsultaciju", "Preuzmi cenovnik").
+**Nedelja 4:** Pratite promenu u konverzijama u odnosu na prosli mesec. Ponovite proces sa novim hipotezama.
+
+Za profesionalni CRO audit vaseg sajta i implementaciju resenja koja povecavaju profit, javite se preko [kontakt forme](/kontakt) -- pronaci cemo uska grla u vasem prodajnom levku.
+`
+  },
+  {
     slug: 'marketing-strategija-za-rast-firme-srbija-2026',
     title: 'Marketing strategija za rast firme u Srbiji 2026: od prezivljavanja do skaliranja',
     excerpt: 'Zasto taktike bez strategije trose budzet. Praktican vodic za postavljanje marketing strategije koja donosi predvidljiv rast na srpskom trzistu u 2026.',

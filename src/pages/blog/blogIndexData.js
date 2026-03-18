@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "optimizacija-konverzije-sajta-cro-srbija-2026",
+    "title": "Optimizacija konverzije (CRO) u Srbiji 2026: kako da isti saobracaj donese vise prodaje",
+    "excerpt": "Zasto povecanje budzeta za reklame nije uvek resenje. Vodic za CRO (Conversion Rate Optimization) u Srbiji: brzina, trust signali, forme i checkout proces.",
+    "date": "2026-03-18",
+    "category": "Growth",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "marketing-strategija-za-rast-firme-srbija-2026",
     "title": "Marketing strategija za rast firme u Srbiji 2026: od prezivljavanja do skaliranja",
     "excerpt": "Zasto taktike bez strategije trose budzet. Praktican vodic za postavljanje marketing strategije koja donosi predvidljiv rast na srpskom trzistu u 2026.",
