@@ -1,5 +1,124 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'content-marketing-plan-za-male-firme-srbija-2026',
+    title: 'Content marketing plan za male firme u Srbiji 2026: od nule do organskog saobracaja',
+    excerpt: 'Kako napraviti content marketing plan koji donosi organski saobracaj. Izbor tema, format sadrzaja, distribucija i merenje rezultata za srpske firme.',
+    date: '2026-03-19',
+    category: 'Marketing',
+    readTime: '9 min',
+    content: `
+## Zasto content marketing radi bolje od reklama na duge staze
+
+Reklame prestaju da rade cim prestanete da placate. Blog post koji napisete danas moze da donosi posetioce 3, 5, cak 10 godina -- besplatno.
+
+Content marketing nije zamena za placene kampanje. To je njihov multiplikator. Firma koja ima 50 blog postova ima 50 landing stranica na koje moze da salje platfceni saobracaj, 50 tema za drustvene mreze i 50 razloga da Google pokaze njen sajt u rezultatima pretrage.
+
+Za mali biznis u Srbiji sa ogranicenim budzetom, content marketing je najisplativija dugorocna investicija. Problem je sto vecina odustane posle 3 meseca jer ne vidi rezultate -- a rezultati dolaze posle 6-12 meseci konzistentnog rada.
+
+Za pregled svih marketing troskova pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga). Za tehnicku SEO stranu pogledajte [on-page SEO checklistu](/blog/on-page-seo-checklista-srbija-2026).
+
+## Korak 1: Definisajte za koga pisete (Buyer Persona)
+
+Ne pisete za "sve". Pisete za jednu konkretnu osobu -- vaseg idealnog kupca.
+
+**Primer za marketing agenciju:**
+- Ime: Marko, 35 godina, vlasnik male IT firme u Beogradu
+- Problem: nema vremena za marketing, pokusao sam-da-vodi Instagram i odustao
+- Kako trazi resenje: gugla "koliko kosta marketing agencija" ili "kako naci klijente online"
+- Sta ga brine: da ne baci novac na agenciju koja nece doneti rezultate
+
+Svaki tekst koji napisete treba da odgovori na Markovo pitanje ili resi Markov problem. Ako ne moze, ne pisite ga.
+
+## Korak 2: Pronadjite teme koje ljudi zaista traze
+
+Ne nagadjajte o cemu da pisete. Koristite podatke.
+
+**Besplatni alati za istrazivanje tema:**
+- **Google Search Console** -- pogledajte za koje upite se vec pojavljujete i napisite detaljniji sadrzaj o tim temama. Pogledajte nas [GSC vodic](/blog/google-search-console-vodic-za-pocetnike-srbija-2026).
+- **Google Autocomplete** -- kucajte pocetak upita i pogledajte sta Google predlaze
+- **AnswerThePublic** (besplatan) -- pokazuje pitanja koja ljudi postavljaju o vasoj temi
+- **Vasih 10 najcescih pitanja** -- sta vas kupci najcesce pitaju? Svako pitanje je blog post
+
+**Prioritet tema:**
+1. "Money" teme (direktno vezane za vasu uslugu): "koliko kosta X", "kako odabrati Y"
+2. "Problem" teme (resavaju konkretan problem): "zasto moj sajt ne prodaje", "kako povecati prodaju"
+3. "Edukativne" teme (grade autoritet): "vodic za X", "sta je Y i kako radi"
+
+## Korak 3: Izaberite format sadrzaja
+
+### Blog postovi (temelj)
+
+Minimum 1.000 reci po postu. Google preferira duzi, detaljniji sadrzaj koji kompletno pokriva temu. Post od 500 reci retko rangira za konkurentne termine.
+
+**Struktura koja radi:**
+- H2 naslov koji sadrzi kljucnu rec
+- Uvod koji odmah daje vrednost (ne "u danasnjem digitalnom dobu...")
+- 3-5 H2 sekcija sa H3 podsekcijama
+- Bullet poeni za laksi pregled
+- CTA na kraju (link ka kontaktu ili usluzi)
+
+### Video sadrzaj
+
+Jedan blog post moze postati YouTube video, 3 Instagram Reels-a i TikTok klip. Ponovo koristite sadrzaj umesto da pravite sve od nule. Za video strategiju pogledajte [video marketing vodic](/blog/video-marketing-za-male-firme-srbija-2026).
+
+### Infografike i vizuali
+
+Kompleksne podatke pretvorite u vizuelne formate. Infografika se deli 3x cesce od teksta na drustvenim mrezama.
+
+## Korak 4: Napravite content kalendar
+
+Bez kalendara, content marketing je haotican. Jedne nedelje napisete 3 posta, sledece 5 nedelja nista.
+
+**Minimalna kadenca za rezultate:**
+- Blog: 1 post nedeljno (4 mesecno)
+- Drustvene mreze: 3-4 posta nedeljno
+- Email: 1 newsletter mesecno (za pocetak)
+
+**Primer mesecnog kalendara:**
+- Nedelja 1: "Money" blog post + 3 social posta iz njega
+- Nedelja 2: "Problem" blog post + 3 social posta + newsletter
+- Nedelja 3: "Edukativni" blog post + 3 social posta
+- Nedelja 4: Video sadrzaj (rekapitulacija meseca) + 3 social posta
+
+Za upravljanje drustvenim mrezama pogledajte [vodic za samostalno vodjenje mreza](/blog/kako-voditi-drustvene-mreze-srbija-2026).
+
+## Korak 5: Distribuirajte sadrzaj (ne samo objavite i cekajte)
+
+Objaviti blog post i cekati da ga Google pronadje nije strategija. Aktivno distribuirajte sadrzaj:
+
+- **Email lista:** Posaljite novi blog post pretplatnicima. Pogledajte [vodic za email listu](/blog/email-lista-za-male-firme-srbija-2026).
+- **Drustvene mreze:** Svaki blog post = 3-5 social media postova (razliciti uglovi)
+- **Google Ads:** Promovisite najbolje blog postove za relevantne upite. Pogledajte [Google reklame cena](/google-reklame-cena).
+- **LinkedIn:** Za B2B, delite kljucne zakljucke iz bloga. Pogledajte [LinkedIn marketing vodic](/blog/linkedin-marketing-za-b2b-firme-srbija-2026).
+
+## Korak 6: Merite rezultate (i prilagodjajte)
+
+Posle 3 meseca, analizirajte:
+
+- **Koji postovi dobijaju najvise saobracaja?** Napisite vise o tim temama.
+- **Koji postovi imaju najvisu konverziju?** To su vasi "money" postovi -- optimizujte ih.
+- **Odakle dolazi saobracaj?** Organski (Google), drustvene mreze, email? Investirajte u kanal koji radi.
+
+Za kompletnu metodologiju merenja pogledajte [kako meriti ROI digitalnog marketinga](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
+
+## Najcesce greske u content marketing-u
+
+### 1) Odustajanje posle 3 meseca
+Content marketing je maraton, ne sprint. Prosecno treba 6-12 meseci da pocnete da vidite organski saobracaj. Vecina firmi odustane bas pred metu.
+
+### 2) Pisanje za sebe umesto za kupca
+"Nasa firma je osnovana 1998. godine..." ne zanima nikog. Pisete odgovore na pitanja koja vasi kupci postavljaju, ne autobiografiju firme.
+
+### 3) Nijedan CTA u sadrzaju
+Svaki blog post mora da uputi citaoca na sledeci korak: "zatrazite ponudu", "preuzmite vodic", "zakazite konsultaciju". Bez CTA, sadrzaj zabavlja ali ne prodaje.
+
+### 4) Fokus na kvantitet umesto kvalitet
+Jedan temeljni blog post od 2.000 reci mesecno je bolji od 8 povrsnih postova od 300 reci. Google nagradjuje dubinu i ekspertizu.
+
+Za izradu content marketing strategije i redovnu produkciju sadrzaja, javite se preko [kontakt forme](/kontakt).
+`
+  },
+  {
     slug: 'zadrzavanje-kupaca-customer-retention-srbija-2026',
     title: 'Zadrzavanje kupaca u Srbiji 2026: zasto je 5x jeftinije od pronalazenja novih',
     excerpt: 'Vodic za customer retention u Srbiji. Loyalty programi, post-purchase komunikacija, churn prevencija i kako povecati lifetime value kupca.',

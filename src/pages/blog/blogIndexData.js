@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "content-marketing-plan-za-male-firme-srbija-2026",
+    "title": "Content marketing plan za male firme u Srbiji 2026: od nule do organskog saobracaja",
+    "excerpt": "Kako napraviti content marketing plan koji donosi organski saobracaj. Izbor tema, format sadrzaja, distribucija i merenje rezultata za srpske firme.",
+    "date": "2026-03-19",
+    "category": "Marketing",
+    "readTime": "9 min",
+    "isDraft": false
+  },
+  {
     "slug": "zadrzavanje-kupaca-customer-retention-srbija-2026",
     "title": "Zadrzavanje kupaca u Srbiji 2026: zasto je 5x jeftinije od pronalazenja novih",
     "excerpt": "Vodic za customer retention u Srbiji. Loyalty programi, post-purchase komunikacija, churn prevencija i kako povecati lifetime value kupca.",
