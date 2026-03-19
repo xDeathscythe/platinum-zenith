@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-quality-score-vodic-srbija-2026",
+    "title": "Google Ads Quality Score: kako smanjiti cenu klika i poboljsati poziciju oglasa",
+    "excerpt": "Vodic za razumevanje i poboljsanje Google Ads Quality Score-a. Kako 3 faktora odredjuju koliko placate po kliku i kako da ih optimizujete.",
+    "date": "2026-03-19",
+    "category": "Google Ads",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "ai-alati-za-marketing-srbija-2026",
     "title": "AI alati za marketing u Srbiji 2026: koji zaista stede vreme i novac",
     "excerpt": "Pregled AI alata za marketing koji rade u praksi 2026. Od pisanja sadrzaja do analize podataka — sta koristiti i sta preskociti.",

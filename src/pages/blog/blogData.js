@@ -1,5 +1,108 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'google-ads-quality-score-vodic-srbija-2026',
+    title: 'Google Ads Quality Score: kako smanjiti cenu klika i poboljsati poziciju oglasa',
+    excerpt: 'Vodic za razumevanje i poboljsanje Google Ads Quality Score-a. Kako 3 faktora odredjuju koliko placate po kliku i kako da ih optimizujete.',
+    date: '2026-03-19',
+    category: 'Google Ads',
+    readTime: '8 min',
+    content: `
+## Zasto placate vise od konkurencije za isti klik
+
+Dva oglasivaca ciljaju istu kljucnu rec. Jedan placa 0.80 EUR po kliku i pojavljuje se na poziciji 1. Drugi placa 1.50 EUR i pojavljuje se na poziciji 3. Razlika? Quality Score.
+
+Quality Score (QS) je Google-ova ocena od 1 do 10 koja pokazuje koliko je vas oglas relevantan za korisnika. Visi QS znaci nizu cenu po kliku i bolju poziciju. Nizi QS znaci da placate vise za gore rezultate.
+
+Google koristi QS jer zeli da korisnicima pokaze relevantne oglase. Ako vas oglas ne odgovara na ono sto korisnik trazi, Google ce vas kazniti visom cenom -- ili vas uopste nece prikazati.
+
+Za pregled troskova kampanja pogledajte [Google reklame cena](/google-reklame-cena).
+
+## 3 Faktora koji odredjuju Quality Score
+
+### 1) Expected Click-Through Rate (ocekivani CTR)
+
+Google predvidja koliko je verovatno da ce korisnik kliknuti na vas oglas za datu kljucnu rec. Ako je vas istorijski CTR nizak, Google pretpostavlja da oglas nije relevantan.
+
+**Kako poboljsati:**
+- Stavite kljucnu rec u naslov oglasa (ne samo u opis)
+- Koristite brojeve i konkretne ponude ("Od 2.990 RSD" umesto "Povoljne cene")
+- Testirajte minimum 3 varijante naslova istovremeno
+- Dodajte ad extensions (sitelinks, callouts, structured snippets) -- oni povecavaju vizuelnu velicinu oglasa i CTR
+
+Za copywriting formule pogledajte [kako pisati oglase koji konvertuju](/blog/kako-pisati-oglase-koji-konvertuju-srbija-2026).
+
+### 2) Ad Relevance (relevantnost oglasa)
+
+Koliko se tekst vaseg oglasa poklapa sa kljucnom reci koju korisnik trazi. Ako neko trazi "stomatolog Novi Sad" a vas oglas kaze "Medicinske usluge za celu porodicu" -- relevantnost je niska.
+
+**Kako poboljsati:**
+- Organizujte kampanju u male, tematske ad grupe (5-15 kljucnih reci po grupi, ne 50)
+- Svaka ad grupa treba da ima oglase ciji tekst direktno sadrzi kljucne reci iz te grupe
+- Ne mesajte razlicite usluge u jednu ad grupu ("stomatolog" i "ortodont" su dve razlicite ad grupe)
+
+### 3) Landing Page Experience (iskustvo na landing stranici)
+
+Google proverava stranicu na koju vas oglas vodi. Ako oglas obecava "besplatan pregled stomatologa" ali landing stranica govori o svim uslugama klinike bez pomena besplatnog pregleda -- iskustvo je lose.
+
+**Kako poboljsati:**
+- Svaka ad grupa treba da vodi na specifičnu landing stranicu (ne na homepage)
+- Naslov landing stranice mora da se poklapa sa obecanjem iz oglasa
+- Stranica mora da se brzo ucitava (ispod 3 sekunde na mobilnom)
+- Sadrzaj mora biti relevantan za kljucnu rec
+- CTA mora biti jasan i vidljiv
+
+Za kreiranje landing stranica pogledajte [vodic za landing stranice koje konvertuju](/blog/kako-napraviti-landing-stranicu-koja-konvertuje-srbija-2026).
+
+## Kako proveriti Quality Score
+
+1. U Google Ads, idite na Keywords tab
+2. Kliknite na "Columns" (Kolone) i dodajte: Quality Score, Expected CTR, Ad Relevance, Landing Page Experience
+3. Svaka kljucna rec ima ocenu od 1 do 10
+
+**Tumacenje:**
+- **8-10:** Odlicno. Ne dirajte.
+- **5-7:** Prosecno. Ima prostora za poboljsanje.
+- **1-4:** Problem. Hitno optimizujte ili pauzirajte kljucnu rec.
+
+## Kako QS direktno utice na cenu klika
+
+Google koristi formulu: **Ad Rank = Max CPC Bid x Quality Score**
+
+Primer:
+- Oglasivac A: Bid 1.00 EUR x QS 8 = Ad Rank 8 → Pozicija 1, placa ~0.75 EUR
+- Oglasivac B: Bid 1.50 EUR x QS 4 = Ad Rank 6 → Pozicija 2, placa ~1.30 EUR
+
+Oglasivac A placa MANJE i ima BOLJU poziciju jer ima visi Quality Score. To je sustina -- QS je multiplikator koji nagradjuje relevantnost.
+
+## 7-Dnevni plan za poboljsanje Quality Score
+
+**Dan 1:** Proverite QS za sve aktivne kljucne reci. Identifikujte one sa QS ispod 5.
+
+**Dan 2:** Reorganizujte ad grupe. Razbijte velike grupe (20+ kljucnih reci) u manje, tematski fokusirane (5-10 reci).
+
+**Dan 3:** Prepisaite oglase za svaku ad grupu. Ubacite kljucnu rec u naslov. Dodajte konkretan benefit i CTA.
+
+**Dan 4:** Proverite landing stranice. Da li se poklapaju sa porukom oglasa? Da li se brzo ucitavaju?
+
+**Dan 5:** Dodajte negativne kljucne reci da eliminisete irelevantan saobracaj.
+
+**Dan 6:** Ukljucite ad extensions (sitelinks, callouts, structured snippets, location).
+
+**Dan 7:** Analizirajte CTR po oglasu. Pauzirajte oglase sa CTR ispod 3%.
+
+Za merenje ukupnih rezultata pogledajte [kako meriti ROI digitalnog marketinga](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
+
+## Najcesce greske koje ubijaju Quality Score
+
+- **Jedna ad grupa za sve** -- "Sve usluge" ad grupa sa 100 kljucnih reci ima najnizi mogući QS
+- **Generic landing stranica** -- homepage kao landing za sve oglase
+- **Ignorisanje negativnih kljucnih reci** -- irelevantan saobracaj ubija CTR koji ubija QS
+- **Promena oglasa svaki dan** -- Google treba 7-14 dana da evaluira oglas. Strpljenje.
+
+Za profesionalno vodjenje Google Ads kampanja i optimizaciju Quality Score-a, javite se preko [kontakt forme](/kontakt).
+`
+  },
+  {
     slug: 'ai-alati-za-marketing-srbija-2026',
     title: 'AI alati za marketing u Srbiji 2026: koji zaista stede vreme i novac',
     excerpt: 'Pregled AI alata za marketing koji rade u praksi 2026. Od pisanja sadrzaja do analize podataka — sta koristiti i sta preskociti.',
