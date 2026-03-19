@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "outsourcing-za-male-firme-srbija-2026",
+    "title": "Outsourcing za male firme u Srbiji 2026: sta delegirati i koliko kosta",
+    "excerpt": "Vodic za outsourcing za srpske preduzetnike. Koji poslovi se isplate delegirati, gde naci freelancere i kako kontrolisati kvalitet bez gubitka vremena.",
+    "date": "2026-03-20",
+    "category": "Biznis",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "lokalni-seo-citati-direktorijumi-srbija-2026",
     "title": "Lokalni SEO citati i direktorijumi u Srbiji 2026: gde registrovati firmu",
     "excerpt": "Lista najvaznijih online direktorijuma za srpske firme 2026. Kako NAP konzistentnost i lokalni citati poboljsavaju rangiranje na Google mapi.",

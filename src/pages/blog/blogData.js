@@ -1,5 +1,118 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'outsourcing-za-male-firme-srbija-2026',
+    title: 'Outsourcing za male firme u Srbiji 2026: sta delegirati i koliko kosta',
+    excerpt: 'Vodic za outsourcing za srpske preduzetnike. Koji poslovi se isplate delegirati, gde naci freelancere i kako kontrolisati kvalitet bez gubitka vremena.',
+    date: '2026-03-20',
+    category: 'Biznis',
+    readTime: '8 min',
+    content: `
+## Zasto preduzetnici u Srbiji rade sve sami (i zasto to ne radi)
+
+Tipican vlasnik male firme u Srbiji je istovremeno direktor, knjigovodja, marketar, prodavac, customer support i IT odeljenje. Radi 14 sati dnevno i zardjuje manje po satu nego da radi za nekog drugog.
+
+Problem nije nedostatak truda. Problem je sto radite poslove koji kostaju 5-10 EUR po satu (admin, dizajn, data entry) umesto da se fokusirate na poslove koji vrede 50-100 EUR po satu (prodaja, strategija, odnosi sa klijentima).
+
+Outsourcing ne znaci da imate 50 zaposlenih. Znaci da placate specijalistu da uradi posao bolje i brze nego vi -- dok vi radite ono u cemu ste najbolji.
+
+Za marketing outsourcing pogledajte [in-house tim vs agencija](/in-house-tim-vs-agencija) i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Sta delegirati prvo (po prioritetu)
+
+### 1) Knjigovodstvo i porezi
+
+Ovo je prvi posao koji svaki preduzetnik treba da delegira. Razlozi:
+- Greska u porezu vas kosta visestruko vise nego mesecna naknada knjigovodje
+- Zakonske obaveze se stalno menjaju -- knjigovodja ih prati, vi ne morate
+- Vase vreme je bolje utroseno na zaradu nego na fakture
+
+**Cena:** 60-200 EUR mesecno za pausalca, 100-300 EUR za DOO. Za izbor poslovnog modela pogledajte [vodic za online biznis](/blog/kako-izabrati-poslovni-model-za-online-biznis-srbija-2026).
+
+### 2) Dizajn i vizualni sadrzaj
+
+Ako provodite 3 sata pravechi Instagram post u Canvi, to je 3 sata oduzeto od prodaje. Freelance dizajner ce to uraditi za 1 sat, bolje od vas, za 10-30 EUR.
+
+**Cena:** 10-30 EUR po social media grafici, 50-200 EUR za logo, 100-500 EUR za komplet vizuelnog identiteta.
+
+### 3) Tekst i copywriting
+
+Blog postovi, opisi proizvoda, email kampanje, tekstovi za sajt. Pisanje kvalitetnog sadrzaja zahteva vreme i vestinu.
+
+**Cena:** 20-50 EUR po blog postu (1.000 reci), 5-15 EUR po opisu proizvoda. Za content strategiju pogledajte [content marketing plan](/blog/content-marketing-plan-za-male-firme-srbija-2026).
+
+### 4) Digitalni marketing
+
+Google Ads, Facebook kampanje, SEO -- ovo su vestine koje zahtevaju konstantno ucenje i praksu. Losa kampanja ne samo da ne donosi rezultate -- aktivno gubi novac.
+
+**Cena:** 300-1.000 EUR mesecno za agenciju. Pogledajte [kako odabrati agenciju](/blog/kako-odabrati-agenciju-za-digitalni-marketing-srbija-2026).
+
+### 5) Admin i data entry
+
+Unos podataka, organizacija fajlova, zakazivanje, email filtriranje. Sve sto je repetitivno i ne zahteva vasu ekspertizu.
+
+**Cena:** 3-8 EUR po satu za virtualnog asistenta iz Srbije.
+
+## Gde naci freelancere u Srbiji
+
+### Domace platforme
+
+**Jooble.org / HelloWorld.rs** -- za lokalne freelancere koji razumeju srpsko trziste.
+
+**LinkedIn** -- pretrazite po vestini i lokaciji. Direktan kontakt, bez provizija platforme. Pogledajte [LinkedIn marketing vodic](/blog/linkedin-marketing-za-b2b-firme-srbija-2026).
+
+**Preporuke** -- pitajte u preduzetnickim grupama na Facebooku (Srpski preduzetnici, Startap zajednica Srbija). Najkvalitetniji freelanceri dolaze preko preporuka.
+
+### Medjunarodne platforme
+
+**Upwork** -- najveci izbor, ali trazi vreme za filtriranje kvalitetnih freelancera. Provizija platforme 5-20%.
+
+**Fiverr** -- za manje, jednokratne projekte (logo, banner, kratki tekst). Brz i jeftin, ali kvalitet varira.
+
+## Kako kontrolisati kvalitet outsource-ovanog posla
+
+### 1) Definisajte ocekivanja UNAPRED
+
+Ne trazite "napravite mi lep sajt". Trazite: "Trebam landing stranicu sa ovim naslovom, ovim CTA-om, u ovom roku, sa ovim primerom kao referenca." Sto je brief precizniji, rezultat je bolji.
+
+### 2) Koristite milestone placanje
+
+Ne placajte sve unapred. Podelite projekat na faze i placajte posle svake zavrsenee faze. 30% avans + 40% posle drafta + 30% posle finalne verzije.
+
+### 3) Sedmicni check-in (ne dnevni)
+
+Nemojte mikromenadzerisati. Dogovorite sedmicni poziv ili izvestaj. Prekomerna kontrola ubija produktivnost i gusi kreativnost.
+
+### 4) Dokumentujte procese (SOP)
+
+Napisite Standard Operating Procedure za svaki delegiran zadatak. "Ovako se objavljuje post na Instagramu", "Ovako se odgovara na email upit". SOP omogucava da zamenite freelancera bez gubitka znanja.
+
+## Matematika outsourcinga: kada ima smisla
+
+Formula: **Vas satni zarada > Cena freelancera po satu?** Ako da -- delegirajte.
+
+**Primer:**
+- Vi zaradjujete 30 EUR po satu na prodaji
+- Freelance dizajner kosta 15 EUR po satu
+- Svaki sat koji provedete na dizajnu vas kosta 30 EUR (propustena prodaja) + 15 EUR (losiji dizajn nego profesionalac)
+- Svaki sat koji delegirate dizajneru stedite 15 EUR i dobijate bolji rezultat
+
+**Kad outsourcing NEMA smisla:**
+- Posao zahteva duboko poznavanje vaseg proizvoda koje freelancer ne moze da stekne
+- Cena freelancera je visa od vase zarade po satu
+- Posao je jednokratan i brze je da ga sami zavrsite nego da napisete brief
+
+## Plan za pocetak outsourcinga
+
+**Mesec 1:** Delegirajte knjigovodstvo i 1 repetitivni zadatak (npr. social media grafike).
+
+**Mesec 2:** Dodajte content writing (blog postovi) ili admin support.
+
+**Mesec 3:** Evaluirajte rezultate. Koliko sati ste ustedeli? Da li je kvalitet bolji? Koliko ste vise zaradili fokusirajuci se na prodaju?
+
+Za pomoc sa marketing outsourcingom i strategijom delegiranja, javite se preko [kontakt forme](/kontakt). Pogledajte i [pricing strategiju za usluzne firme](/blog/pricing-strategija-za-usluzne-firme-srbija-2026) da biste optimizovali koliko naplacujete.
+`
+  },
+  {
     slug: 'lokalni-seo-citati-direktorijumi-srbija-2026',
     title: 'Lokalni SEO citati i direktorijumi u Srbiji 2026: gde registrovati firmu',
     excerpt: 'Lista najvaznijih online direktorijuma za srpske firme 2026. Kako NAP konzistentnost i lokalni citati poboljsavaju rangiranje na Google mapi.',
