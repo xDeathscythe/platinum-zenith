@@ -1,5 +1,122 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'instagram-shopping-srbija-2026-vodic-za-e-commerce',
+    title: 'Instagram Shopping u Srbiji 2026: vodic za e-commerce prodaju preko Instagrama',
+    excerpt: 'Kako postaviti Instagram Shopping za srpsku online prodavnicu. Katalog proizvoda, tagovanje, Checkout i koliko prodaja dolazi sa Instagrama u 2026.',
+    date: '2026-03-19',
+    category: 'Instagram Ads',
+    readTime: '8 min',
+    content: `
+## Instagram vise nije samo za slike -- to je prodajna platforma
+
+U Srbiji 2026, Instagram se transformisao iz platforme za deljenje fotografija u ozbiljan prodajni kanal. Instagram Shopping omogucava korisnicima da pregledaju proizvode, vide cene i kupe direktno iz aplikacije -- bez napustanja Instagrama.
+
+Za e-commerce biznise u Srbiji, ovo znaci novu prodajnu vitrinu koja radi 24/7, gde kupci vec provode 45+ minuta dnevno. Pitanje nije da li vam treba Instagram Shopping, nego koliko prodaja gubite svaki dan bez njega.
+
+Za pregled troskova Instagram kampanja pogledajte [Instagram reklame cena](/instagram-reklame-cena).
+
+## Kako postaviti Instagram Shopping za srpsku firmu
+
+### Preduslov 1: Business ili Creator nalog
+
+Licni nalog ne moze koristiti Shopping. Prebacite se na Business (preporuka za firme) ili Creator nalog u podesavanjima.
+
+### Preduslov 2: Facebook stranica povezana sa Instagramom
+
+Instagram Shopping radi kroz Meta Commerce Manager, koji zahteva povezanu Facebook stranicu. Ako je nemate, napravite je -- ne mora biti aktivna, samo mora postojati.
+
+### Preduslov 3: Katalog proizvoda
+
+Imate dve opcije za kreiranje kataloga:
+- **Rucno u Commerce Manager-u:** Dodajte proizvode jedan po jedan sa slikama, cenama i opisima. Dobro za manje kataloge (do 50 proizvoda).
+- **Automatski sync sa WooCommerce-om:** Koristite plugin "Facebook for WooCommerce" koji automatski sync-uje ceo vas katalog. Preporuka za vece prodavnice.
+
+### Korak po korak setup
+
+1. Idite na Commerce Manager (commerce.facebook.com)
+2. Kreirajte Shop i povežite ga sa Instagramom
+3. Dodajte proizvode (rucno ili sync)
+4. Sacekajte odobrenje od Mete (obicno 1-3 dana)
+5. Ukljucite Shopping u Instagram podesavanjima
+6. Pocnite da tagujete proizvode u postovima i Stories-ima
+
+## Kako tagovanje proizvoda povecava prodaju
+
+### Tagovanje u Feed postovima
+
+Kad objavite sliku proizvoda, mozete ga tagovati kao sto biste tagovili osobu. Korisnik tapne na proizvod, vidi ime i cenu, i moze direktno da ode na stranicu proizvoda.
+
+**Primer:** Objavite sliku korisnika koji nosi vasu torbu. Tagujte torbu. Kad neko tapne, vidi "Kožna torba Milano - 8.990 RSD" i moze odmah da kupi.
+
+### Tagovanje u Stories
+
+Stories sa product sticker-om imaju 2x veci engagement od obicnih Stories. Korisnik swipe-uje gore i direktno prelazi na proizvod.
+
+### Shopping tab na profilu
+
+Kad aktivirate Shopping, na vasem profilu se pojavljuje tab sa ikonom torbe. Tu su svi vasi proizvodi organizovani -- kao mini webshop unutar Instagrama.
+
+## Koliko prodaje zaista dolazi sa Instagrama u Srbiji
+
+Realni benchmarci za srpske e-commerce biznise u 2026:
+
+- **Udeo u ukupnom saobracaju:** Instagram obicno cini 15-30% ukupnog saobracaja za fashion, kozmetiku i lifestyle brendove.
+- **Konverzija iz Instagrama:** 1.5-3% (niza od Google-a jer je publika u "browse" modu, ne "buy" modu).
+- **Prosecna vrednost porudzbine:** 10-20% niza nego sa Google-a (impulzivne kupovine manjih vrednosti).
+- **Povrat kupaca:** 25-40% kupaca sa Instagrama kupuje ponovo u roku od 90 dana (jer vas prate i vide nove proizvode).
+
+Instagram nije kanal za jednokratnu prodaju. To je kanal za **izgradnju baze lojalnih kupaca** koji kupuju redovno.
+
+## Instagram Ads za Shopping
+
+### Collection Ads
+
+Prikazu jednu veliku sliku ili video na vrhu, sa 4 proizvoda ispod. Korisnik moze da pregleda i kupi bez napustanja Instagrama. Idealno za lansiranje nove kolekcije.
+
+### Dynamic Product Ads
+
+Automatski prikazuju proizvode koje je korisnik ranije gledao na vasem sajtu. Ovo je remarketing koji koristi vas Instagram katalog. Za vise o remarketingu pogledajte [Facebook Ads remarketing strategiju](/blog/facebook-ads-remarketing-strategija-srbija-2026).
+
+### Shopping Ads u Explore tabu
+
+Vasi proizvodi se pojavljuju u Explore feed-u korisnika koji gledaju slican sadrzaj. Organsko otkrivanje novih kupaca.
+
+## Sta ne radi za Instagram Shopping u Srbiji
+
+### Instagram Checkout
+
+Direktna kupovina unutar Instagram aplikacije (bez odlaska na sajt) trenutno NIJE dostupna u Srbiji. Korisnici moraju kliknuti na proizvod i zavrsiti kupovinu na vasem sajtu. To znaci da vas sajt mora biti brz i mobilno optimizovan.
+
+### Podrska za sve kategorije
+
+Meta ne dozvoljava Shopping za sve vrste proizvoda. Zabranjene kategorije ukljucuju: alkohol, duvan, lek bez recepta, oruzje i usluge (Shopping je samo za fizicke proizvode).
+
+## 5 Saveta za maksimizaciju prodaje preko Instagram Shopping-a
+
+### 1) Profesionalne fotografije proizvoda
+
+Instagram je vizuelna platforma. Amaterske fotografije ne prodaju. Investirajte u lifestyle fotografije (proizvod u upotrebi) i flatlay kompozicije (proizvod na cistoj pozadini sa rekvizitima). Za video sadrzaj pogledajte [video marketing za male firme](/blog/video-marketing-za-male-firme-srbija-2026).
+
+### 2) Tagujte proizvode u SVIM postovima
+
+Ne samo u prodajnim postovima. Ako objavite behind-the-scenes, tagujte proizvod koji se vidi u pozadini. Svaki post je prilika za prodaju.
+
+### 3) Koristite Shopping u Reels
+
+Reels imaju najveci organski doseg na Instagramu 2026. Pokazite proizvod u akciji (30-60 sekundi) i tagujte ga. Reels sa Shopping tagom imaju 35% visi engagement od Reels bez taga.
+
+### 4) Regularna objava novih proizvoda
+
+Instagram algoritam favorizuje profile koji redovno dodaju nove proizvode u katalog. Dodajte bar 2-3 nova proizvoda mesecno (ili nove varijante postojecih).
+
+### 5) Povežite sa email listom
+
+Koristite Instagram da privucete ljude na email listu (preko bio linka ili Stories sticker-a). Email ima 3-5x visu konverziju od Instagrama za ponovne kupovine. Pogledajte [kako izgraditi email listu](/blog/email-lista-za-male-firme-srbija-2026).
+
+Za pomoc sa Instagram Shopping setup-om i kampanjama, javite se preko [kontakt forme](/kontakt).
+`
+  },
+  {
     slug: 'google-search-console-vodic-za-pocetnike-srbija-2026',
     title: 'Google Search Console vodic za pocetnike u Srbiji 2026',
     excerpt: 'Kako koristiti Google Search Console za pracenje SEO rezultata. Registracija, verifikacija, analiza klikova i ispravka gresaka za srpske sajtove.',

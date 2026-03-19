@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "instagram-shopping-srbija-2026-vodic-za-e-commerce",
+    "title": "Instagram Shopping u Srbiji 2026: vodic za e-commerce prodaju preko Instagrama",
+    "excerpt": "Kako postaviti Instagram Shopping za srpsku online prodavnicu. Katalog proizvoda, tagovanje, Checkout i koliko prodaja dolazi sa Instagrama u 2026.",
+    "date": "2026-03-19",
+    "category": "Instagram Ads",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "google-search-console-vodic-za-pocetnike-srbija-2026",
     "title": "Google Search Console vodic za pocetnike u Srbiji 2026",
     "excerpt": "Kako koristiti Google Search Console za pracenje SEO rezultata. Registracija, verifikacija, analiza klikova i ispravka gresaka za srpske sajtove.",
