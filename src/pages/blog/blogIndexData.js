@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "wordpress-bezbednost-vodic-srbija-2026",
+    "title": "WordPress bezbednost u 2026: 10 koraka da zastite sajt od hakera",
+    "excerpt": "Vodic za zastitu WordPress sajta od hakovanja. 10 prakticnih koraka koje svaki vlasnik sajta u Srbiji moze da primeni danas bez tehnickog znanja.",
+    "date": "2026-03-19",
+    "category": "WordPress",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "email-automatizacija-za-webshop-srbija-2026",
     "title": "Email automatizacija za webshop u Srbiji 2026: 5 sekvenci koje prodaju dok spavate",
     "excerpt": "Kako postaviti email automatizaciju za WooCommerce ili Shopify u Srbiji. 5 sekvenci koje donose 15-25% vise prihoda bez dodatnog rada.",

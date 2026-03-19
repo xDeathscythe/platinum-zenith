@@ -1,5 +1,109 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'wordpress-bezbednost-vodic-srbija-2026',
+    title: 'WordPress bezbednost u 2026: 10 koraka da zastite sajt od hakera',
+    excerpt: 'Vodic za zastitu WordPress sajta od hakovanja. 10 prakticnih koraka koje svaki vlasnik sajta u Srbiji moze da primeni danas bez tehnickog znanja.',
+    date: '2026-03-19',
+    category: 'WordPress',
+    readTime: '8 min',
+    content: `
+## Zasto su WordPress sajtovi cestea meta hakera
+
+WordPress pokrece 43% svih sajtova na internetu. To ga cini najcescom metom za automatizovane napade -- botovi skeniraju internet i pokusavaju poznate ranjivosti na milionima WordPress instalacija istovremeno.
+
+Dobra vest: vecina napada je automatizovana i cilja sajtove sa osnovnim propustima. Ako primenite 10 koraka iz ovog vodica, eliminisete 95% rizika. Ne morate biti programer -- vecina koraka se radi u par klikova.
+
+Za tehnicku optimizaciju sajta pogledajte [WordPress speed vodic](/blog/ubrzavanje-wordpress-sajta-tehnicki-seo-srbija-2026). Za cene izrade sigurnog sajta pogledajte [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+
+## Korak 1: Azurirajte WordPress, temu i pluginove
+
+Najcesci razlog za hakovanje WordPress sajta su zastareli pluginovi sa poznatim ranjivostima. Hakeri koriste javno objavljene ranjivosti (CVE) i skeniraju sajtove koji nisu azurirani.
+
+**Sta da uradite:** Idite na Dashboard > Updates i azurirajte SVE -- WordPress core, temu i sve pluginove. Ukljucite automatska azuriranja za minor verzije.
+
+**Vazno:** Pre azuriranja uvek napravite backup. Nekad azuriranje moze da pokvari sajt ako plugin nije kompatibilan.
+
+## Korak 2: Koristite jake lozinke (i nikad "admin" kao username)
+
+Najjednostavniji napad: bot pokusa da se uloguje sa "admin" / "password123". Ako vam je username "admin" i lozinka je kratka, sajt ce biti hakovan za manje od sat vremena.
+
+**Sta da uradite:**
+- Promenite username (ne moze se menjati iz WP-a, ali mozete kreirati novog admin usera i obrisati starog)
+- Lozinka mora biti 12+ karaktera sa velikim slovima, brojevima i specijalnim znakovima
+- Koristite password manager (Bitwarden je besplatan)
+
+## Korak 3: Instalirajte sigurnosni plugin
+
+Za pocetnike preporucujem jedan od ova tri:
+
+**Wordfence** (besplatan) -- firewall + malware scanner + brute force zastita. Najkompletniji besplatni security plugin.
+
+**Sucuri Security** (besplatan) -- security audit log + file integrity monitoring. Lagan i ne usporava sajt.
+
+**iThemes Security** (besplatan) -- 30+ sigurnosnih podesavanja sa jednim klikom. Dobar za pocetnike.
+
+Ne instalirajte vise od jednog sigurnosnog plugina -- mogu se sukobiti.
+
+## Korak 4: Limitirajte pokusaje logovanja
+
+Brute force napad pokusava hiljade kombinacija lozinki. Bez zastite, bot moze da pokusa 10.000 lozinki u sat vremena.
+
+**Sta da uradite:** Vecina sigurnosnih pluginova ima ovu opciju. Limitirajte na 3-5 pokusaja, pa lockout od 15 minuta. Ili koristite dedicated plugin: "Limit Login Attempts Reloaded" (besplatan).
+
+## Korak 5: Ukljucite dvofaktorsku autentifikaciju (2FA)
+
+Cak i ako neko pogodi vasu lozinku, bez drugog faktora ne moze da udje. 2FA salje kod na vas telefon ili koristi aplikaciju (Google Authenticator, Authy).
+
+**Sta da uradite:** Wordfence ima ugradjeni 2FA. Alternativno, koristite plugin "WP 2FA" (besplatan).
+
+## Korak 6: Promenite default login URL
+
+WordPress login je uvek na vasajt.com/wp-admin ili /wp-login.php. Svaki bot to zna.
+
+**Sta da uradite:** Koristite plugin "WPS Hide Login" (besplatan) da promenite URL na nesto unikatno, npr. vasajt.com/moj-tajni-login. Botovi nece naci stranicu za login.
+
+## Korak 7: Redovni backup-ovi
+
+Ako se desi najgore -- sajt bude hakovan -- backup je vasa polisa osiguranja. Bez backup-a, gubite sve.
+
+**Sta da uradite:**
+- Koristite plugin: UpdraftPlus (besplatan) ili BlogVault
+- Podesiti automatski backup: jednom dnevno za e-commerce, jednom nedeljno za blogove
+- Cuvajte backup van servera (Google Drive, Dropbox) -- ako haker dobije pristup serveru, obrisace i backup
+
+## Korak 8: SSL sertifikat (HTTPS)
+
+Ako vas sajt jos uvek pocinje sa http:// umesto https://, imate ozbiljan problem. Google ga oznacava kao "Not Secure" i rang vam pada.
+
+**Sta da uradite:** Vecina hosting provajdera (Hostinger, SiteGround) nudi besplatan SSL (Let's Encrypt). Aktivirajte ga u hosting panelu i instalirajte "Really Simple SSL" plugin da preusmerite sav saobracaj na HTTPS.
+
+## Korak 9: Iskljucite XML-RPC ako ga ne koristite
+
+XML-RPC je stari WordPress protokol koji se danas koristi uglavnom za brute force napade. Ako ne koristite WordPress mobilnu aplikaciju ili Jetpack, iskljucite ga.
+
+**Sta da uradite:** Dodajte u .htaccess fajl:
+xmlrpc.php blokada (pitajte developera) ili koristite opciju u Wordfence/iThemes pluginu.
+
+## Korak 10: Pratite aktivnost na sajtu
+
+Ako neko uspe da udje na vas sajt, zelite da to saznate sto pre. Audit log prati ko se ulogovao, sta je menjao i kada.
+
+**Sta da uradite:** Koristite "WP Activity Log" plugin (besplatan) koji belezi sve promene na sajtu. Postavite email obavestenje za login sa nepoznate IP adrese.
+
+## Sta raditi ako je sajt vec hakovan
+
+1. **Ne panicite.** Sajt se moze restaurirati.
+2. **Stavite sajt u maintenance mode** da posetioci ne vide hakovan sadrzaj.
+3. **Kontaktirajte hosting** -- mnogi provajderi imaju malware removal uslugu.
+4. **Restore backup** ako imate svez backup od pre hakovanja.
+5. **Promenite SVE lozinke** -- WordPress admin, hosting, FTP, baza podataka, email.
+6. **Skenirajte sajt** sa Wordfence ili Sucuri da pronadjete zarazen fajl.
+7. **Azurirajte SVE** -- core, temu, pluginove. Obrisite pluginove koje ne koristite.
+
+Za profesionalnu zastitu sajta i sigurnosni audit, javite se preko [kontakt forme](/kontakt). Pogledajte i [cene odrzavanja WordPress sajta](/blog/odrzavanje-wordpress-sajta-cena-srbija-2026) koje ukljucuju redovne sigurnosne provere.
+`
+  },
+  {
     slug: 'email-automatizacija-za-webshop-srbija-2026',
     title: 'Email automatizacija za webshop u Srbiji 2026: 5 sekvenci koje prodaju dok spavate',
     excerpt: 'Kako postaviti email automatizaciju za WooCommerce ili Shopify u Srbiji. 5 sekvenci koje donose 15-25% vise prihoda bez dodatnog rada.',
