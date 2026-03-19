@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "ai-alati-za-marketing-srbija-2026",
+    "title": "AI alati za marketing u Srbiji 2026: koji zaista stede vreme i novac",
+    "excerpt": "Pregled AI alata za marketing koji rade u praksi 2026. Od pisanja sadrzaja do analize podataka — sta koristiti i sta preskociti.",
+    "date": "2026-03-19",
+    "category": "Marketing",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "digitalni-marketing-za-pocetnike-kompletni-vodic-srbija-2026",
     "title": "Digitalni marketing za pocetnike u Srbiji 2026: kompletni vodic od A do Z",
     "excerpt": "Sve sto treba da znate o digitalnom marketingu na jednom mestu. Od SEO i Google Ads do drustvenih mreza i email marketinga za srpsko trziste.",

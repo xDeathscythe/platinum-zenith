@@ -1,5 +1,128 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'ai-alati-za-marketing-srbija-2026',
+    title: 'AI alati za marketing u Srbiji 2026: koji zaista stede vreme i novac',
+    excerpt: 'Pregled AI alata za marketing koji rade u praksi 2026. Od pisanja sadrzaja do analize podataka — sta koristiti i sta preskociti.',
+    date: '2026-03-19',
+    category: 'Marketing',
+    readTime: '8 min',
+    content: `
+## AI nije buducnost marketinga -- AI je sadasnjost
+
+U 2026. godini, pitanje nije "da li da koristim AI za marketing" nego "koliko vremena gubim jer ga ne koristim". Firme koje koriste AI alate za rutinske marketing zadatke ustedaju 10-15 sati nedeljno -- vreme koje mogu da ulozse u strategiju i odnose sa klijentima.
+
+Ali postoji zamka: trziste je preplavljeno AI alatima koji obecavaju sve i ne isporucuju nista. Ovaj vodic pokriva samo alate koji su dokazano korisni za male i srednje firme u Srbiji.
+
+Za pregled marketing troskova pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## AI za pisanje sadrzaja
+
+### ChatGPT / Claude / Gemini
+
+Korisno za: brainstorming ideja za blog postove, drafting email kampanja, pisanje opisa proizvoda, generisanje social media postova.
+
+**Kako koristiti pametno:** Ne kopirajte AI tekst direktno. Koristite ga kao polaznu tacku koju prilagodjite svom tonu i dodajete sopstveno iskustvo. Google prepoznaje i kaznjava genericni AI sadrzaj -- ali kvalitetan sadrzaj koji je AI pomogao da napravite je sasvim OK.
+
+**Troskovi:** ChatGPT Plus 20 USD/mesecno, Claude Pro 20 USD/mesecno, Gemini Advanced 20 USD/mesecno. Besplatni planovi su dovoljni za pocetak.
+
+### Jasper / Copy.ai
+
+Specijalizovani za marketing copy. Imaju templejte za Google Ads naslove, Facebook oglas tekst, email subject line-ove. Korisno ako pisete mnogo oglasa.
+
+**Troskovi:** 39-59 USD/mesecno. Za vecinu malih firmi u Srbiji, ChatGPT je dovoljno dobar zamena.
+
+## AI za slike i dizajn
+
+### Canva AI (Magic Studio)
+
+Vec koristite Canvu za dizajn? Magic Studio dodaje AI generisanje slika, automatsko uklanjanje pozadine, resize za sve platforme i text-to-image. Integrisano u alat koji vec znate.
+
+**Troskovi:** Canva Pro 13 USD/mesecno (ukljucuje Magic Studio).
+
+### Midjourney / DALL-E
+
+Za unikatne vizuale koje ne mozete naci na stock foto sajtovima. Proizvod na apstraktnoj pozadini, ilustracije za blog, custom grafike za drustvene mreze.
+
+**Troskovi:** Midjourney 10-30 USD/mesecno, DALL-E kroz ChatGPT Plus (20 USD/mesecno).
+
+**Upozorenje:** AI generisane slike ponekad imaju artefakte (cudni prsti, iskrivljen tekst). Uvek proverite pre objavljivanja.
+
+## AI za video
+
+### CapCut AI features
+
+Auto-titlovi (rade solidno na srpskom), AI montaza (automatski sece pauze i "umm" zvukove), text-to-speech za voiceover.
+
+**Troskovi:** Besplatan plan dovoljan za 90% potreba. Pro 8 USD/mesecno.
+
+Za video strategiju pogledajte [video marketing vodic](/blog/video-marketing-za-male-firme-srbija-2026).
+
+### Opus Clip
+
+Automatski sece duge videe (YouTube, podcast) u kratke klipove za Reels/TikTok/Shorts. AI bira najzanimljivije delove.
+
+**Troskovi:** Besplatan plan za 10 klipova mesecno. Pro od 15 USD/mesecno.
+
+## AI za email marketing
+
+### Brevo / MailerLite AI
+
+Oba alata imaju AI koji pomaze u pisanju subject line-ova, predvidjanju najboljeg vremena za slanje i segmentaciji publike. AI za email marketing je vec ugradjn u alate koje verovatno koristite.
+
+Za postavljanje email automatizacije pogledajte [email automatizacija za webshop](/blog/email-automatizacija-za-webshop-srbija-2026) i [vodic za email listu](/blog/email-lista-za-male-firme-srbija-2026).
+
+## AI za analitiku i izvestavanje
+
+### Google Analytics 4 (AI Insights)
+
+GA4 ima ugradjenu AI koja automatski detektuje anomalije (nagli pad saobracaja, skok u konverzijama) i predlaze segmente publike. Potpuno besplatno.
+
+Za GA4 setup pogledajte [GA4 vodic za pocetnike](/blog/google-analytics-4-vodic-za-pocetnike-srbija-2026).
+
+### ChatGPT za analizu podataka
+
+Eksportujte CSV iz Google Ads ili GA4, uploadujte u ChatGPT (Plus) i trazite analizu: "Koji su mi top 5 kljucne reci po konverzijama?", "Gde gubim najvise budzeta?", "Kakav je trend poslednjih 3 meseca?"
+
+## AI za SEO
+
+### Surfer SEO / Clearscope
+
+Analiziraju top 10 rezultata za kljucnu rec i daju preporuke za vas sadrzaj: koje reci da koristite, kolika duzina teksta treba, koje teme da pokrijete.
+
+**Troskovi:** 89-199 USD/mesecno. Za manje firme, Google Search Console + zdravi razum je cesto dovoljan. Pogledajte [GSC vodic](/blog/google-search-console-vodic-za-pocetnike-srbija-2026).
+
+### Niwa AI (za WooCommerce)
+
+AI prodajni asistent koji automatski odgovara na pitanja kupaca, preporucuje proizvode i hvata lead-ove 24/7. Nije klasican SEO alat ali direktno utice na konverziju sajta.
+
+## Sta AI NE moze (jos uvek) da zameni
+
+### Strategiju
+
+AI moze da napise 100 blog postova ali ne moze da odluci KOJE teme su vazne za vas biznis. Strategija zahteva razumevanje trzista, konkurencije i vasih ciljeva. Za strategiju pogledajte [marketing strategija vodic](/blog/marketing-strategija-za-rast-firme-srbija-2026).
+
+### Autenticnost
+
+Kupci osecaju razliku izmedju genericnog AI teksta i iskustva iz prakse. Vasa prica, vasi rezultati, vasa perspektiva -- to AI ne moze da replicira.
+
+### Odnose sa klijentima
+
+AI moze da poslje automated follow-up ali ne moze da izgradi poverenje koje dolazi iz licnog kontakta. Za B2B pogledajte [B2B prodaja vodic](/blog/b2b-prodaja-kako-zatvoriti-klijenta-srbija-2026).
+
+## Preporuceni AI stack za malu firmu u Srbiji (ispod 50 USD/mesecno)
+
+- **Pisanje:** ChatGPT Plus (20 USD) -- pokriva sadrzaj, oglase, email
+- **Dizajn:** Canva Pro (13 USD) -- pokriva slike, video, social media
+- **Video:** CapCut besplatan -- pokriva montazu i titlove
+- **Email:** MailerLite besplatan (do 1.000 pretplatnika) -- pokriva automatizaciju
+- **Analitika:** GA4 + Search Console (besplatno) -- pokriva merenje
+
+**Ukupno: 33 USD mesecno** za kompletnu AI-pojacanu marketing infrastrukturu.
+
+Za pomoc sa integracijom AI alata u vas marketing, javite se preko [kontakt forme](/kontakt).
+`
+  },
+  {
     slug: 'digitalni-marketing-za-pocetnike-kompletni-vodic-srbija-2026',
     title: 'Digitalni marketing za pocetnike u Srbiji 2026: kompletni vodic od A do Z',
     excerpt: 'Sve sto treba da znate o digitalnom marketingu na jednom mestu. Od SEO i Google Ads do drustvenih mreza i email marketinga za srpsko trziste.',
