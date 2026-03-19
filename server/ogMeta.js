@@ -814,6 +814,22 @@ const SERVER_ROUTE_SCHEMAS = {
       url: SITE_URL,
     },
   },
+  '/marketing-agencija-novi-pazar': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Marketing agencija Novi Pazar',
+    serviceType: 'Digital marketing agency services',
+    url: `${SITE_URL}/marketing-agencija-novi-pazar`,
+    areaServed: {
+      '@type': 'City',
+      name: 'Novi Pazar',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
   '/in-house-tim-vs-agencija': {
     '@context': 'https://schema.org',
     '@type': 'Service',
@@ -1204,6 +1220,12 @@ const ogMeta = {
     description: 'Marketing agencija za Valjevo i Kolubarski okrug: SEO, Google Ads i Meta kampanje za lokalne firme uz merljiv ROI.',
     ogImage: `${SITE_URL}/pz-og.jpg`,
     ogImageAlt: 'Marketing agencija Valjevo - digitalni marketing za Kolubarski okrug',
+  },
+  '/marketing-agencija-novi-pazar': {
+    title: 'Marketing Agencija za Novi Pazar | Digitalni Marketing | Platinum Zenith',
+    description: 'Marketing agencija za Novi Pazar i Raski okrug: SEO, Google Ads i Meta kampanje za tekstilnu industriju, ugostiteljstvo i lokalne firme.',
+    ogImage: `${SITE_URL}/pz-og.jpg`,
+    ogImageAlt: 'Marketing agencija Novi Pazar - digitalni marketing za Raski okrug',
   },
   '/web-shop-nema-prodaju': {
     title: 'Web Shop Nema Prodaju? 5 Razloga i Rešenja | Platinum Zenith',

@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-03-19T10:29:25.707Z",
-  "postsChecked": 154,
+  "generatedAt": "2026-03-19T14:29:47.422Z",
+  "postsChecked": 156,
   "issueCount": 0,
   "checked": [
+    {
+      "route": "/blog/ai-alati-za-marketing-srbija-2026",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/digitalni-marketing-za-pocetnike-kompletni-vodic-srbija-2026",
+      "serviceHits": 6,
+      "hasKontakt": true
+    },
     {
       "route": "/blog/content-marketing-plan-za-male-firme-srbija-2026",
       "serviceHits": 3,
