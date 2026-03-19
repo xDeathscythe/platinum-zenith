@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-03-19T06:29:51.503Z",
-  "postsChecked": 153,
+  "generatedAt": "2026-03-19T10:29:25.707Z",
+  "postsChecked": 154,
   "issueCount": 0,
   "checked": [
+    {
+      "route": "/blog/content-marketing-plan-za-male-firme-srbija-2026",
+      "serviceHits": 3,
+      "hasKontakt": true
+    },
     {
       "route": "/blog/wordpress-bezbednost-vodic-srbija-2026",
       "serviceHits": 2,

@@ -798,6 +798,22 @@ const SERVER_ROUTE_SCHEMAS = {
       url: SITE_URL,
     },
   },
+  '/marketing-agencija-valjevo': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Marketing agencija Valjevo',
+    serviceType: 'Digital marketing agency services',
+    url: `${SITE_URL}/marketing-agencija-valjevo`,
+    areaServed: {
+      '@type': 'City',
+      name: 'Valjevo',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
   '/in-house-tim-vs-agencija': {
     '@context': 'https://schema.org',
     '@type': 'Service',
@@ -1182,6 +1198,12 @@ const ogMeta = {
     description: 'Marketing agencija za Uzice i Zlatiborski okrug: SEO, Google Ads i kampanje na drustvenim mrezama za lokalne firme i turizam uz merljiv ROI.',
     ogImage: `${SITE_URL}/pz-og.jpg`,
     ogImageAlt: 'Marketing agencija Uzice - digitalni marketing za Zlatiborski okrug',
+  },
+  '/marketing-agencija-valjevo': {
+    title: 'Marketing Agencija za Valjevo | Digitalni Marketing | Platinum Zenith',
+    description: 'Marketing agencija za Valjevo i Kolubarski okrug: SEO, Google Ads i Meta kampanje za lokalne firme uz merljiv ROI.',
+    ogImage: `${SITE_URL}/pz-og.jpg`,
+    ogImageAlt: 'Marketing agencija Valjevo - digitalni marketing za Kolubarski okrug',
   },
   '/web-shop-nema-prodaju': {
     title: 'Web Shop Nema Prodaju? 5 Razloga i Rešenja | Platinum Zenith',

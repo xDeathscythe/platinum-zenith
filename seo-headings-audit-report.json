@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-19T06:29:48.832Z",
-  "routesChecked": 55,
+  "generatedAt": "2026-03-19T10:29:22.952Z",
+  "routesChecked": 56,
   "issueCount": 0,
   "checked": [
     {
@@ -1243,6 +1243,33 @@
       "route": "/marketing-agencija-uzice",
       "component": "MarketingAgencijaUzicePage",
       "file": "src\\pages\\MarketingAgencijaUzicePage.jsx",
+      "sequence": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        2,
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 8,
+        "h3": 5,
+        "total": 14
+      }
+    },
+    {
+      "route": "/marketing-agencija-valjevo",
+      "component": "MarketingAgencijaValjevoPage",
+      "file": "src\\pages\\MarketingAgencijaValjevoPage.jsx",
       "sequence": [
         1,
         2,
