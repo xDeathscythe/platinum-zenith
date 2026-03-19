@@ -1,5 +1,210 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'pricing-strategija-za-usluzne-firme-srbija-2026',
+    title: 'Pricing strategija za usluzne firme u Srbiji 2026: kako formirati cene koje privlace',
+    excerpt: 'Kako postaviti cene usluga u Srbiji 2026 da budu profitabilne i privlacne. Value-based pricing, paketi, anchoring i najcesce greske.',
+    date: '2026-03-19',
+    category: 'Biznis',
+    readTime: '8 min',
+    content: `
+## Zasto vecina usluznih firmi u Srbiji postavlja cene pogresno
+
+"Koliko naplacuju drugi?" Ovo je prvo pitanje koje svaki vlasnik usluzne firme u Srbiji postavi kad formira cene. I to je tacno pogresan pristup.
+
+Kad formirate cene na osnovu konkurencije, uvek cete biti u trci ka dnu. Neko ce uvek biti jeftiniji. A kupci koji biraju iskljucivo po ceni su najgori kupci -- napustice vas cim neko ponudi 10% manje.
+
+Umesto toga, cene treba formirati na osnovu **vrednosti koju pruzate klijentu**, ne na osnovu vasih troskova ili konkurencije.
+
+Za siru sliku marketing troskova pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga). Za modele naplate pogledajte [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share).
+
+## 3 Modela formiranja cena za usluge
+
+### Model 1: Cost-Plus (Troskovi + marza)
+
+Formula: Vasi troskovi + zeljena marza = cena.
+
+**Primer:** Izrada sajta vas kosta 500 EUR (alati, hosting, vase vreme po 10 EUR/h za 50h). Dodajete 50% marzu. Cena: 750 EUR.
+
+**Problem:** Ovaj model potpuno ignoriose vrednost za klijenta. Sajt koji klijentu donese 50.000 EUR godisnje vredi mnogo vise od 750 EUR.
+
+### Model 2: Competition-Based (Na osnovu konkurencije)
+
+Formula: Prosecna cena na trzistu +/- vasa pozicija.
+
+**Problem:** Ako svi naplacuju malo, svi zaradjuju malo. Ne znate da li konkurencija zaradjuje ili gubi novac na toj ceni.
+
+### Model 3: Value-Based (Na osnovu vrednosti) -- PREPORUKA
+
+Formula: Koliko vasa usluga vredi klijentu x procenat te vrednosti.
+
+**Primer:** Vasa SEO usluga donese klijentu 10 novih kupaca mesecno. Svaki kupac vredi 500 EUR. To je 5.000 EUR mesecno nove vrednosti. Naplacujete 800 EUR mesecno -- klijent dobija 6x vise nego sto placa. Svi su zadovoljni.
+
+Za primer ovog modela pogledajte [kako odabrati agenciju](/blog/kako-odabrati-agenciju-za-digitalni-marketing-srbija-2026).
+
+## Kako paketi povecavaju prodaju
+
+Umesto jedne cene, ponudite 3 paketa. Ovo nije samo marketing trik -- to je dokazan psiholoski princip.
+
+### Strategija 3 paketa (Good-Better-Best)
+
+**Paket 1 "Starter" (najjeftiniji):** Osnovna usluga. Sluzi da privuce kupce koji jos nisu sigurni. 30% kupaca bira ovaj paket.
+
+**Paket 2 "Growth" (srednji):** Najkompletnija vrednost za cenu. OVO je paket koji zelite da kupci biraju. 50% kupaca bira srednji paket (jer izgleda kao "razuman izbor").
+
+**Paket 3 "Premium" (najskuplji):** Sve ukljuceno + ekskluzivni dodaci. 20% kupaca bira ovaj paket. Ali njegov pravi cilj je da srednji paket izgleda razumno u poredjenju.
+
+### Anchoring efekat
+
+Kad neko prvi put vidi cenu od 2.000 EUR za Premium paket, Growth paket od 800 EUR deluje kao odlicna ponuda. Bez Premium paketa, tih istih 800 EUR bi delovalo "skupo".
+
+## Kako komunicirati cenu bez da klijent kaze "preskupo"
+
+### 1) Vodite sa vrednoscu, ne sa cenom
+
+**Pogresno:** "Nasa usluga kosta 1.000 EUR mesecno."
+**Ispravno:** "Sistem koji donosi 15-20 novih upita mesecno. Investicija: 1.000 EUR."
+
+### 2) Razbijte na manje periode
+
+1.200 EUR godisnje zvuci skupo. 100 EUR mesecno zvuci prihvatljivo. 3.3 EUR dnevno -- manje od kafe.
+
+### 3) Uporedite sa alternativom
+
+"Zaposliti junior marketing menadzera kosta 800-1.200 EUR mesecno + porezi + obuka. Nasa agencija vam daje ceo tim eksperata za istu cenu." Za vise o ovoj argumentaciji pogledajte [in-house tim vs agencija](/in-house-tim-vs-agencija).
+
+## Kada podici cene (i kako)
+
+### Signali da su vase cene preniske
+
+- Svaki klijent prihvata ponudu bez pregovaranja (niko ne kaze "skupo")
+- Radite vise sati nego sto je isplativo za tu cenu
+- Imate punu listu cekanja a ne mozete da primite nove klijente
+- Kvalitet rada pada jer imate previse klijenata za premalo novca
+
+### Kako podici cene za postojece klijente
+
+1. Najavite povecanje 30-60 dana unapred
+2. Objasnite zasto (inflacija, prosiren obim, novi alati)
+3. Ponudite "loyalty" cenu koja je niza od nove cene za stare klijente
+4. Nikad se ne izvinjavajte sto podizete cene -- to signalizira da ni vi ne verujete u svoju vrednost
+
+Za B2B prodajne strategije i pregovaranje o cenama pogledajte [B2B prodaja vodic](/blog/b2b-prodaja-kako-zatvoriti-klijenta-srbija-2026).
+
+## Najcesce greske u formiranju cena
+
+### 1) Naplacujete po satu umesto po vrednosti
+Sat vaseg vremena ne vredi isto za svakog klijenta. SEO audit za malu pekaru i za e-commerce od milion evra ne treba da imaju istu cenu.
+
+### 2) Dajete popuste previse lako
+Svaki popust smanjuje percepciju vrednosti. Umesto popusta, dodajte vrednost: "Ne mogu da spustim cenu, ali mogu da ukljucim X besplatno."
+
+### 3) Ne revidirate cene godisnje
+Inflacija, novi alati, vase iskustvo -- sve to raste. Cene koje ste postavili pre 2 godine verovatno vise ne odrazavaju vasu vrednost.
+
+Za pomoc sa pricing strategijom i marketing planom, javite se preko [kontakt forme](/kontakt).
+`
+  },
+  {
+    slug: 'google-analytics-4-vodic-za-pocetnike-srbija-2026',
+    title: 'Google Analytics 4 vodic za pocetnike u Srbiji 2026: sta pratiti i kako',
+    excerpt: 'Kako koristiti Google Analytics 4 za male firme u Srbiji. Instalacija, kljucni izvestaji, konverzije i kako razumeti odakle dolaze kupci.',
+    date: '2026-03-19',
+    category: 'Marketing',
+    readTime: '8 min',
+    content: `
+## Zasto je GA4 obavezan za svaki biznis koji ima sajt
+
+Google Analytics 4 (GA4) vam govori ko dolazi na vas sajt, odakle dolazi, sta radi i da li kupuje. Bez njega, ulazete u marketing naslepo -- ne znate koji kanal donosi kupce, koja stranica ih gubi i gde bacate novac.
+
+Vecina srpskih firmi ili nema GA4 instaliran ili ga ima ali nikad ne gleda. Ovo je kao da vozite auto sa zatvorenim ocima i nadate se da cete stici na odrediste.
+
+Za SEO stranu analitike pogledajte [Google Search Console vodic](/blog/google-search-console-vodic-za-pocetnike-srbija-2026). Za pregled marketing troskova pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Kako instalirati GA4 na WordPress sajt
+
+### Korak 1: Kreirajte GA4 property
+
+Idite na analytics.google.com, ulogujte se i kliknite "Create Property". Unesite ime sajta, timezone (Europe/Belgrade) i valutu (RSD ili EUR).
+
+### Korak 2: Dobijte Measurement ID
+
+Posle kreiranja property-ja, idite na Data Streams > Web > dodajte vas sajt. Dobicete Measurement ID koji pocinje sa "G-" (npr. G-ABC123XYZ).
+
+### Korak 3: Instalirajte na sajt
+
+**Najlaksi nacin (WordPress):** Instalirajte plugin "Site Kit by Google" (besplatan, zvanican Google plugin). Poveze GA4 sa jednim klikom.
+
+**Alternativa:** Kopirajte GA4 tag u header sajta (Salient tema > Header Scripts, ili koristite "Insert Headers and Footers" plugin).
+
+## 5 Izvestaja koje svaki vlasnik firme mora da prati
+
+### 1) Acquisition Overview (Odakle dolaze posetioci)
+
+Ovo je najvazniji izvestaj. Pokazuje koji kanal dovodi posetioce:
+- **Organic Search** -- Google pretraga (besplatan saobracaj)
+- **Paid Search** -- Google Ads klikovi
+- **Social** -- Facebook, Instagram, LinkedIn
+- **Direct** -- direktno ukucali URL
+- **Referral** -- linkovi sa drugih sajtova
+
+Ako 80% saobracaja dolazi sa jednog kanala, imate rizik. Diversifikujte.
+
+### 2) Pages and Screens (Koje stranice gledaju)
+
+Pokazuje koje stranice dobijaju najvise pregleda. Ako vas blog dobija 5x vise saobracaja od stranice usluga, to znaci da imate dobar sadrzaj ali slabo povezivanje sa prodajnim stranicama. Dodajte CTA linkove iz blogova ka uslugama.
+
+### 3) Conversions (Konverzije)
+
+GA4 prati "Events" umesto "Goals". Postavite kljucne konverzije:
+- Popunjena kontakt forma
+- Klik na "Pozovi" dugme
+- Zavrsena kupovina (za e-commerce)
+- Preuzimanje PDF-a ili kataloga
+
+Bez postavljenih konverzija, GA4 je samo brojac poseta -- ne govori vam nista o prodaji.
+
+### 4) User Demographics (Ko su vasi posetioci)
+
+Starost, pol, lokacija, uredjaj (telefon vs desktop). Ako 75% saobracaja dolazi sa telefona a sajt nije mobilno optimizovan -- tu gubite prodaje. Za mobilnu optimizaciju pogledajte [mobilni dizajn vodic](/blog/mobilni-dizajn-sajta-srbija-2026).
+
+### 5) Engagement (Angažovanost)
+
+GA4 uvodi "Engaged Sessions" -- sesije gde je korisnik proveo 10+ sekundi, pogledao 2+ stranice ili izvrsio konverziju. Engagement rate je korisniji od bounce rate-a jer pokazuje da li ljudi zaista citaju vas sadrzaj.
+
+## Kako postaviti konverzije u GA4
+
+### Za kontakt formu
+
+Koristite Contact Form 7 ili WPForms Events integration. Kad neko popuni formu, GA4 belezi event "generate_lead". Oznacite taj event kao konverziju u GA4 > Admin > Conversions.
+
+### Za e-commerce
+
+WooCommerce + GA4 integracija (kroz Site Kit ili "WooCommerce Google Analytics" plugin) automatski prati: view_item, add_to_cart, begin_checkout, purchase. Svaki korak u kupovnom procesu postaje vidljiv.
+
+### Za pozive
+
+Ako imate "Pozovi" dugme na sajtu, dodajte event tracking na klik. Ili koristite Google Tag Manager za laksu implementaciju.
+
+## Najcesce greske pri koriscenju GA4
+
+### 1) Gledanje samo ukupnih poseta
+"Imali smo 5.000 poseta ovog meseca" ne znaci nista ako ne znate koliko je konvertovalo. Fokusirajte se na konverzije po kanalu, ne na ukupne brojke.
+
+### 2) Ignorisanje mobilnih korisnika
+Ako je mobilni bounce rate duplo veci od desktop-a, imate problem sa mobilnim iskustvom. GA4 > Tech > Platform/Device Breakdown ce vam to pokazati.
+
+### 3) Nefiltriranje internog saobracaja
+Ako vi i vas tim svakodnevno posecujete sajt, to iskrivljuje podatke. Filtrirajte interne IP adrese u GA4 > Admin > Data Streams > Configure Tag Settings > Define internal traffic.
+
+### 4) Ocekivanje instant podataka
+GA4 ima do 48h kasnjenja za neke izvestaje. Ne panicite ako danas ne vidite jucerasnje podatke.
+
+Za kompletnu metodologiju merenja marketing rezultata pogledajte [kako meriti ROI digitalnog marketinga](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
+
+Za pomoc sa postavljanjem GA4 i interpretacijom podataka, javite se preko [kontakt forme](/kontakt).
+`
+  },
+  {
     slug: 'content-marketing-plan-za-male-firme-srbija-2026',
     title: 'Content marketing plan za male firme u Srbiji 2026: od nule do organskog saobracaja',
     excerpt: 'Kako napraviti content marketing plan koji donosi organski saobracaj. Izbor tema, format sadrzaja, distribucija i merenje rezultata za srpske firme.',

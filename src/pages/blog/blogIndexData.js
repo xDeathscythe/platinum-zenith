@@ -3,6 +3,24 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "pricing-strategija-za-usluzne-firme-srbija-2026",
+    "title": "Pricing strategija za usluzne firme u Srbiji 2026: kako formirati cene koje privlace",
+    "excerpt": "Kako postaviti cene usluga u Srbiji 2026 da budu profitabilne i privlacne. Value-based pricing, paketi, anchoring i najcesce greske.",
+    "date": "2026-03-19",
+    "category": "Biznis",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
+    "slug": "google-analytics-4-vodic-za-pocetnike-srbija-2026",
+    "title": "Google Analytics 4 vodic za pocetnike u Srbiji 2026: sta pratiti i kako",
+    "excerpt": "Kako koristiti Google Analytics 4 za male firme u Srbiji. Instalacija, kljucni izvestaji, konverzije i kako razumeti odakle dolaze kupci.",
+    "date": "2026-03-19",
+    "category": "Marketing",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "content-marketing-plan-za-male-firme-srbija-2026",
     "title": "Content marketing plan za male firme u Srbiji 2026: od nule do organskog saobracaja",
     "excerpt": "Kako napraviti content marketing plan koji donosi organski saobracaj. Izbor tema, format sadrzaja, distribucija i merenje rezultata za srpske firme.",
