@@ -1,5 +1,104 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'email-automatizacija-za-webshop-srbija-2026',
+    title: 'Email automatizacija za webshop u Srbiji 2026: 5 sekvenci koje prodaju dok spavate',
+    excerpt: 'Kako postaviti email automatizaciju za WooCommerce ili Shopify u Srbiji. 5 sekvenci koje donose 15-25% vise prihoda bez dodatnog rada.',
+    date: '2026-03-19',
+    category: 'E-Commerce',
+    readTime: '8 min',
+    content: `
+## Zasto rucno slanje emailova ubija vas e-commerce biznis
+
+Ako i dalje rucno saljete emailove kupcima -- "Hvala na kupovini", "Imate popust za rodjendan", "Zaboravili ste nesto u korpi" -- gubite dva resursa: svoje vreme i novac koji bi automatizacija zaradila dok spavate.
+
+E-commerce biznisi sa email automatizacijom generisu 15-25% vise prihoda od onih bez nje. To nisu marketinski trikovi -- to su emailovi koji se salju u tacno pravom trenutku tacno pravoj osobi.
+
+Za pregled email marketing alata i cena pogledajte [email marketing cena u Srbiji](/blog/email-marketing-cena-srbija-2026). Za Instagram strategiju koja hrani vasu listu pogledajte [Instagram reklame cena](/instagram-reklame-cena). Za pokretanje online prodavnice pogledajte [e-commerce vodic za Srbiju](/blog/kako-pokrenuti-online-prodavnicu-srbija-2026).
+
+## Sekvenca 1: Welcome (Dobrodoslica) -- aktivira se odmah posle registracije
+
+Ovo je email sa najvisim open rate-om koji cete ikad imati (60-80%). Iskoristite ga pametno.
+
+**Email 1 (odmah):** Hvala na registraciji + popust kod od 10% za prvu kupovinu. Kratko, jasno, sa velikim CTA dugmetom.
+
+**Email 2 (dan 2):** Prica o brendu. Ko ste, zasto radite to sto radite, sta vas razlikuje. Ljudi kupuju od ljudi, ne od firmi.
+
+**Email 3 (dan 4):** Social proof -- najbolje prodavani proizvodi ili recenzije kupaca. "Ovo kupci najvise vole" sa 3-4 proizvoda.
+
+**Email 4 (dan 7):** Podsecanje na popust. "Vas kod od 10% istice za 48h." Urgency koja konvertuje.
+
+## Sekvenca 2: Napustena korpa (Abandoned Cart) -- aktivira se 1h posle napustanja
+
+Ovo je sekvenca koja vraca najveci ROI. 70% korpi se napusti, ali 10-25% se moze vratiti sa pravom porukom.
+
+**Email 1 (1h posle):** "Zaboravili ste nesto?" Sa slikom proizvoda iz korpe i direktnim linkom nazad. Bez popusta -- jos uvek.
+
+**Email 2 (24h posle):** "Jos uvek razmisljate?" Dodajte social proof: "Ovaj proizvod kupilo je 150+ ljudi ovog meseca." Ili besplatnu dostavu.
+
+**Email 3 (72h posle):** Poslednja sansa. Mali popust (5-10%) ili besplatna dostava. "Ne zelimo da propustite ovo." Posle ovog emaila, odustanite -- ne zelite da budete spam.
+
+Za remarketing van emaila pogledajte [Facebook Ads remarketing strategiju](/blog/facebook-ads-remarketing-strategija-srbija-2026).
+
+## Sekvenca 3: Post-purchase (Posle kupovine) -- aktivira se posle isporuke
+
+Vecina webshopova salje "Hvala na kupovini" i tu staje. To je propustena prilika.
+
+**Email 1 (odmah posle kupovine):** Potvrda porudzbine sa tracking informacijama. Standard.
+
+**Email 2 (dan posle isporuke):** "Da li vam se svidelo?" Kratko pitanje + link na Google recenziju. Kupci koji su upravo dobili paket su najvise motivisani da ostave pozitivan utisak.
+
+**Email 3 (7 dana posle):** Cross-sell. Na osnovu onoga sto su kupili, preporucite komplementarne proizvode. "Ljudi koji su kupili X takodje vole Y."
+
+**Email 4 (30 dana posle):** "Vreme za dopunu?" Za potrosne proizvode (kozmetika, hrana, suplementi) ovo je zlatni email. Podsecanje u tacno pravom trenutku.
+
+## Sekvenca 4: Win-back (Reaktivacija) -- aktivira se 60 dana bez kupovine
+
+Kupac koji nije kupio 60+ dana polako vas zaboravlja. Win-back sekvenca ga vraca.
+
+**Email 1 (dan 60):** "Nedostajete nam." Podsecanje na brend + novosti (novi proizvodi, nove kolekcije).
+
+**Email 2 (dan 75):** Ekskluzivna ponuda samo za stare kupce. "Vas ekskluzivni popust od 15%." Ovaj email treba da se oseca kao privilegija, ne kao spam.
+
+**Email 3 (dan 90):** Poslednji pokusaj. "Zelimo da ostanemo u kontaktu. Ako vise ne zelite nase emailove, razumemo." Cesto upravo ovaj email izazove kupovinu jer ljudi ne zele da "izgube" pristup.
+
+## Sekvenca 5: Rodjendan / VIP -- aktivira se na datum rodjendana
+
+Ako prikupljate datum rodjendana prilikom registracije, ovo je najlaksi nacin za prodaju sa visokom konverzijom.
+
+**Email (na rodjendan):** "Srecan rodjendan! Evo vas poklon -- 20% popust na sve, vazi 7 dana." Personalizovan, sa imenom kupca. Open rate za birthday emailove: 45-55%.
+
+**VIP varijanta:** Za kupce koji su potrosili vise od odredjenog iznosa (npr. 20.000 RSD godisnje), posaljite specijalan VIP email sa vecim popustom ili ranim pristupom novim kolekcijama.
+
+## Koji alat koristiti za automatizaciju u Srbiji
+
+### Za WooCommerce
+
+**MailerLite** -- besplatan do 1.000 pretplatnika, ima WooCommerce integraciju, drag-and-drop editor za automatizacije. Najlaksi za pocetak.
+
+**Klaviyo** -- najjaci za e-commerce, ali skuplji. Duboka WooCommerce integracija, prediktivna analitika, napredna segmentacija. Isplativ za prodavnice sa 5.000+ kontakata.
+
+**Brevo (Sendinblue)** -- besplatan do 300 emailova dnevno. Dobar za transakcione emailove i jednostavne automatizacije.
+
+### Za Shopify
+
+Shopify ima ugradjeni email marketing, ali za ozbiljne automatizacije koristite Klaviyo ili Omnisend.
+
+## Koliko prihoda donosi email automatizacija
+
+Realni benchmarci za srpske webshopove:
+
+- **Welcome sekvenca:** 3-8% prihoda od novih pretplatnika u prvom mesecu
+- **Napustena korpa:** 5-12% spasen prihod (od ukupno napustenih korpi)
+- **Post-purchase cross-sell:** 8-15% kupaca kupi preporuceni proizvod
+- **Win-back:** 3-7% reaktiviranih kupaca
+- **Birthday:** 15-25% konverzija (najvisa od svih sekvenci)
+
+Ukupan doprinos email automatizacije: 15-25% ukupnog prihoda webshopa. Za merenje rezultata pogledajte [kako meriti ROI digitalnog marketinga](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
+
+Ako zelite da postavite email automatizaciju za vas webshop, javite se preko [kontakt forme](/kontakt) -- napravicemo sistem koji prodaje dok vi spaavate.
+`
+  },
+  {
     slug: 'mobilni-dizajn-sajta-srbija-2026',
     title: 'Mobilni dizajn sajta u Srbiji 2026: zasto je telefon vazniji od desktopa',
     excerpt: 'Preko 75% saobracaja u Srbiji dolazi sa telefona. Vodic za mobilni web dizajn koji konvertuje: brzina, navigacija, forme i tipovi sadrzaja.',

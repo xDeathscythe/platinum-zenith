@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "email-automatizacija-za-webshop-srbija-2026",
+    "title": "Email automatizacija za webshop u Srbiji 2026: 5 sekvenci koje prodaju dok spavate",
+    "excerpt": "Kako postaviti email automatizaciju za WooCommerce ili Shopify u Srbiji. 5 sekvenci koje donose 15-25% vise prihoda bez dodatnog rada.",
+    "date": "2026-03-19",
+    "category": "E-Commerce",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "mobilni-dizajn-sajta-srbija-2026",
     "title": "Mobilni dizajn sajta u Srbiji 2026: zasto je telefon vazniji od desktopa",
     "excerpt": "Preko 75% saobracaja u Srbiji dolazi sa telefona. Vodic za mobilni web dizajn koji konvertuje: brzina, navigacija, forme i tipovi sadrzaja.",
