@@ -3,6 +3,24 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "digitalni-marketing-za-pocetnike-kompletni-vodic-srbija-2026",
+    "title": "Digitalni marketing za pocetnike u Srbiji 2026: kompletni vodic od A do Z",
+    "excerpt": "Sve sto treba da znate o digitalnom marketingu na jednom mestu. Od SEO i Google Ads do drustvenih mreza i email marketinga za srpsko trziste.",
+    "date": "2026-03-19",
+    "category": "Marketing",
+    "readTime": "10 min",
+    "isDraft": false
+  },
+  {
+    "slug": "kako-pisati-oglase-koji-konvertuju-srbija-2026",
+    "title": "Kako pisati oglase koji konvertuju u Srbiji 2026: copywriting formule za Google i Meta",
+    "excerpt": "Vodic za pisanje reklama koje donose klikove i prodaju. PAS, AIDA i 4U formule prilagodjene za Google Ads i Meta oglase na srpskom trzistu.",
+    "date": "2026-03-19",
+    "category": "Marketing",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "pricing-strategija-za-usluzne-firme-srbija-2026",
     "title": "Pricing strategija za usluzne firme u Srbiji 2026: kako formirati cene koje privlace",
     "excerpt": "Kako postaviti cene usluga u Srbiji 2026 da budu profitabilne i privlacne. Value-based pricing, paketi, anchoring i najcesce greske.",

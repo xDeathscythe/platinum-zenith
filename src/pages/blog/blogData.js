@@ -1,5 +1,198 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'digitalni-marketing-za-pocetnike-kompletni-vodic-srbija-2026',
+    title: 'Digitalni marketing za pocetnike u Srbiji 2026: kompletni vodic od A do Z',
+    excerpt: 'Sve sto treba da znate o digitalnom marketingu na jednom mestu. Od SEO i Google Ads do drustvenih mreza i email marketinga za srpsko trziste.',
+    date: '2026-03-19',
+    category: 'Marketing',
+    readTime: '10 min',
+    content: `
+## Sta je digitalni marketing i zasto ga svaka firma u Srbiji treba
+
+Digitalni marketing je svaka aktivnost koja koristi internet da pronadje i privuce kupce. To ukljucuje Google pretragu, drustvene mreze, email, sajt i placene oglase. U 2026. godini, 85% kupaca u Srbiji istrazuje proizvode i usluge online pre nego sto donese odluku o kupovini.
+
+Firma bez digitalnog prisustva je nevidljiva firma. Ovaj vodic pokriva sve kanale koje mala firma u Srbiji treba da razume, po redosledu prioriteta.
+
+Za detaljan pregled koliko sve kosta pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Kanal 1: Sajt (Vasa digitalna baza)
+
+Sve pocinje od sajta. Drustvene mreze, oglasi, email -- sve vodi ka sajtu gde se desava konverzija (kupovina, upit, zakazivanje).
+
+**Sta dobar sajt mora da ima:**
+- Ucitavanje ispod 3 sekunde na telefonu
+- Jasan naslov koji govori sta radite i za koga
+- CTA dugme vidljivo bez skrolovanja
+- Kontakt informacije (telefon, adresa, radno vreme)
+- Mobilno optimizovan dizajn (75%+ saobracaja dolazi sa telefona)
+
+Za cene izrade pogledajte [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena). Za mobilni dizajn pogledajte [mobilni dizajn vodic](/blog/mobilni-dizajn-sajta-srbija-2026).
+
+## Kanal 2: Google Ads (Placeni saobracaj sa namerom)
+
+Google Ads hvata ljude koji VEC traze vasu uslugu. Kad neko kuca "stomatolog Beograd", on vec zna da mu treba stomatolog -- samo bira kojeg.
+
+**Za koga je:** Svaki lokalni biznis, usluzne firme, B2B. Posebno za firme sa visim vrednostima usluga (gde jedan klijent pokriva cenu kampanje).
+
+**Budzet za pocetak:** 300-500 EUR mesecno za lokalni biznis u Srbiji. Za detaljne cene pogledajte [Google reklame cena](/google-reklame-cena).
+
+## Kanal 3: SEO (Besplatni saobracaj iz Google-a)
+
+SEO optimizacija je proces poboljsanja sajta da bi se pojavio na prvoj stranici Google-a za relevantne pretrage -- BEZ placanja po kliku.
+
+**Za koga je:** Svaka firma koja planira da bude prisutna online duze od 6 meseci. SEO je dugorocna investicija koja raste eksponencijalno.
+
+**Rokovi:** Prve rezultate ocekujte za 3-6 meseci. Puni efekat za 6-12 meseci. Ali jednom kad dostignete vrh, saobracaj je besplatan. Za cene pogledajte [SEO optimizacija cena](/seo-optimizacija-cena).
+
+## Kanal 4: Drustvene mreze (Izgradnja publike)
+
+Facebook, Instagram, LinkedIn, TikTok -- svaka platforma ima svoju publiku i svrhu.
+
+**Instagram:** Za vizuelne biznise (restorani, saloni, butici, fitnes). Pogledajte [social media strategiju](/blog/social-media-strategija-za-male-firme-srbija-2026).
+
+**Facebook:** Za lokalne biznise koji ciljaju 35+ demografiju. Pogledajte [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama).
+
+**LinkedIn:** Za B2B firme, konsultante, agencije. Pogledajte [LinkedIn marketing vodic](/blog/linkedin-marketing-za-b2b-firme-srbija-2026).
+
+**TikTok:** Za brendove koji ciljaju 18-35 demografiju sa kreativnim video sadrzajem.
+
+## Kanal 5: Email marketing (Najvisa konverzija)
+
+Email ima najvisu stopu konverzije od svih kanala -- 3-5x visu od drustvenih mreza. Problem je sto vecina firmi nema email listu.
+
+**Kako poceti:** Ponudite nesto korisno u zamenu za email (popust, PDF vodic, checklista). Zatim salajte redovne emailove sa vrednoscu, ne samo ponudama. Pogledajte [vodic za email listu](/blog/email-lista-za-male-firme-srbija-2026).
+
+## Kanal 6: Content marketing (Dugorocni rast)
+
+Blog postovi, video sadrzaj, infografike -- sve sto edukuje vasu publiku i gradi autoritet. Content marketing ne prodaje direktno ali privlaci ljude koji ce kasnije kupiti.
+
+**Minimum:** 1 blog post nedeljno + 3-4 social media posta. Pogledajte [content marketing plan](/blog/content-marketing-plan-za-male-firme-srbija-2026).
+
+## Kako sve ovo uklopiti u strategiju
+
+### Ako imate 500 EUR mesecno:
+- **60%** Google Ads (300 EUR) -- brz povrat
+- **20%** SEO (100 EUR) -- dugorocni rast
+- **20%** Content/Social (100 EUR) -- gradnja brenda
+
+### Ako imate 1.000 EUR mesecno:
+- **40%** Google Ads (400 EUR)
+- **25%** SEO + Content (250 EUR)
+- **20%** Facebook/Instagram Ads (200 EUR)
+- **15%** Email marketing alat + kampanje (150 EUR)
+
+### Ako imate 2.000+ EUR mesecno:
+Razmotrite angazovanje agencije umesto da radite sami. Pogledajte [in-house tim vs agencija](/in-house-tim-vs-agencija) i [kako odabrati agenciju](/blog/kako-odabrati-agenciju-za-digitalni-marketing-srbija-2026).
+
+## Kako meriti da li radi
+
+Tri kljucna pitanja svaki mesec:
+1. **Odakle dolaze kupci?** (Google Analytics) -- pogledajte [GA4 vodic](/blog/google-analytics-4-vodic-za-pocetnike-srbija-2026)
+2. **Koliko kosta svaki kupac?** (CPA po kanalu)
+3. **Koji kanal donosi najvise profita?** (ne saobracaja -- profita)
+
+Za kompletnu metodologiju pogledajte [kako meriti ROI digitalnog marketinga](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
+
+## Najcesce greske pocetnika
+
+- **Biti na svim kanalima odjednom:** Bolje je biti odlican na 2 kanala nego prosean na 5.
+- **Ocekivati instant rezultate:** Marketing je maraton. Minimum 3-6 meseci konzistentnog rada za vidljive rezultate.
+- **Ignorisati merenje:** Bez podataka, ne znate sta radi. Instalirajte GA4 i Search Console od prvog dana.
+- **Raditi sve sami zauvek:** Kad zarada pokrije trosak agencije, delegirajte marketing i fokusirajte se na ono u cemu ste ekspert.
+
+Za besplatnu procenu vaseg digitalnog prisustva, javite se preko [kontakt forme](/kontakt).
+`
+  },
+  {
+    slug: 'kako-pisati-oglase-koji-konvertuju-srbija-2026',
+    title: 'Kako pisati oglase koji konvertuju u Srbiji 2026: copywriting formule za Google i Meta',
+    excerpt: 'Vodic za pisanje reklama koje donose klikove i prodaju. PAS, AIDA i 4U formule prilagodjene za Google Ads i Meta oglase na srpskom trzistu.',
+    date: '2026-03-19',
+    category: 'Marketing',
+    readTime: '8 min',
+    content: `
+## Zasto vecina oglasa u Srbiji ne donosi rezultate
+
+Otvorite Google i kucajte bilo koji komercijalni upit na srpskom. Pogledajte oglase na vrhu. Vecina kaze istu stvar: "Kvalitetne usluge po povoljnim cenama. Kontaktirajte nas." Nista konkretno, nista razlicito, nista sto bi vas nateralo da kliknete.
+
+Los oglas trosi budzet bez rezultata. Dobar oglas sa istim budzetom donosi 3-5x vise klikova i 2x vise konverzija. Razlika nije u budzetu nego u recima koje koristite.
+
+Za pregled troskova kampanja pogledajte [Google reklame cena](/google-reklame-cena) i [Instagram reklame cena](/instagram-reklame-cena).
+
+## Formula 1: PAS (Problem - Agitate - Solution)
+
+Najjaca formula za Google Search oglase jer cilja ljude koji vec imaju problem.
+
+**Problem:** Imenujte problem koji kupac ima.
+**Agitate:** Pojacajte bol -- pokazite sta se desava ako problem ne resi.
+**Solution:** Ponudite vase resenje.
+
+**Primer za stomatolog (Google Ads):**
+- Naslov: "Bol u zubu vas budi nocu?"
+- Opis: "Svaki odlozen dan znaci skuplji tretman. Zakazite danas -- hitni pregled istog dana, bezbolna dijagnostika. Placanje na rate."
+
+**Primer za autoservis:**
+- Naslov: "Motor lupa? Ne cekajte da stane na sred puta"
+- Opis: "Besplatna dijagnostika za vozila svih marki. Zakazite termin danas -- servis za 24h."
+
+## Formula 2: AIDA (Attention - Interest - Desire - Action)
+
+Najbolja za Meta oglase (Facebook/Instagram) gde prekidate ljude dok skroluju.
+
+**Attention:** Zaustavite scroll sa jakom prvom recenicom ili slikom.
+**Interest:** Dajte razlog da nastave da citaju.
+**Desire:** Stvorite zelju za vasim proizvodom/uslugom.
+**Action:** Recite im tacno sta da urade.
+
+**Primer za kozmeticki salon (Instagram Ad):**
+- Hook: "Vase koze za 60 minuta" [attention]
+- "Tretman koji kombinuje 3 tehnologije za vidljiv rezultat posle jedne posete" [interest]
+- "95% klijentkinja zakaze ponovo u roku od mesec dana" [desire]
+- "Zakazite besplatan konsultativni pregled -- link u opisu" [action]
+
+## Formula 3: 4U (Urgent - Unique - Ultra-specific - Useful)
+
+Idealna za naslove email kampanja i retargeting oglasa.
+
+**Urgent:** Zasto sada?
+**Unique:** Sta je drugacije kod vas?
+**Ultra-specific:** Konkretan broj ili rezultat.
+**Useful:** Sta kupac dobija?
+
+**Primer:** "Samo do petka: SEO audit koji vam za 48h pokazuje tacno zasto vas sajt ne rangira (besplatno za prvih 10 firmi)"
+
+## 5 Saveta za bolje oglase na srpskom trzistu
+
+### 1) Koristite brojeve
+
+"Povecajte prodaju" je slabo. "Povecajte prodaju za 35% u 90 dana" je jako. Mozak registruje konkretne brojeve kao verodostojnije.
+
+### 2) Stavite lokaciju u oglas
+
+Za lokalne biznise, "Stomatolog Novi Sad" u naslovu donosi 20-30% visi CTR nego genericki "Stomatolog". Ljudi veruju lokalnim firmama vise.
+
+### 3) Ukljucite cenu (ako je konkurentna)
+
+"Od 2.990 RSD" u oglasu filtrira ljude kojima je preskupo i privlaci ljude koji su spremni da plate. Smanjuje klikove od ljudi koji nikad ne bi kupili.
+
+### 4) Testirajte 3 varijante uvek
+
+Ne pisete jedan oglas. Pisete minimum 3 varijante sa razlicitim naslovima, opisima ili CTA-ovima. Pustite ih 7-14 dana i zadrzite pobednika. Za A/B testiranje pogledajte [vodic za testiranje](/blog/ab-testiranje-sajta-srbija-2026).
+
+### 5) CTA mora biti konkretan
+
+"Saznajte vise" je najslabiji CTA. Bolji: "Preuzmite cenovnik", "Zakazite besplatan pregled", "Dobijte ponudu za 2h".
+
+## Najcesce greske u copywritingu oglasa
+
+- **Fokus na firmu umesto na kupca:** "Mi smo lideri u oblasti..." ne zanima nikog. "Vi dobijate..." zanima svakoga.
+- **Previse informacija:** Oglas nije brosura. Jedna poruka, jedan CTA.
+- **Isti oglas za sve publike:** Hladna publika treba edukaciju. Topla publika treba ponudu. Remarketing treba urgency. Za remarketing strategiju pogledajte [Facebook Ads remarketing](/blog/facebook-ads-remarketing-strategija-srbija-2026).
+
+Za profesionalno pisanje oglasa i vodjenje kampanja, javite se preko [kontakt forme](/kontakt).
+`
+  },
+  {
     slug: 'pricing-strategija-za-usluzne-firme-srbija-2026',
     title: 'Pricing strategija za usluzne firme u Srbiji 2026: kako formirati cene koje privlace',
     excerpt: 'Kako postaviti cene usluga u Srbiji 2026 da budu profitabilne i privlacne. Value-based pricing, paketi, anchoring i najcesce greske.',
