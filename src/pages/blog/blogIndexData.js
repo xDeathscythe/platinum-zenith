@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "mobilni-dizajn-sajta-srbija-2026",
+    "title": "Mobilni dizajn sajta u Srbiji 2026: zasto je telefon vazniji od desktopa",
+    "excerpt": "Preko 75% saobracaja u Srbiji dolazi sa telefona. Vodic za mobilni web dizajn koji konvertuje: brzina, navigacija, forme i tipovi sadrzaja.",
+    "date": "2026-03-19",
+    "category": "Web Design",
+    "readTime": "7 min",
+    "isDraft": false
+  },
+  {
     "slug": "instagram-shopping-srbija-2026-vodic-za-e-commerce",
     "title": "Instagram Shopping u Srbiji 2026: vodic za e-commerce prodaju preko Instagrama",
     "excerpt": "Kako postaviti Instagram Shopping za srpsku online prodavnicu. Katalog proizvoda, tagovanje, Checkout i koliko prodaja dolazi sa Instagrama u 2026.",

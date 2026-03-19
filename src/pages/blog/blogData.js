@@ -1,5 +1,88 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'mobilni-dizajn-sajta-srbija-2026',
+    title: 'Mobilni dizajn sajta u Srbiji 2026: zasto je telefon vazniji od desktopa',
+    excerpt: 'Preko 75% saobracaja u Srbiji dolazi sa telefona. Vodic za mobilni web dizajn koji konvertuje: brzina, navigacija, forme i tipovi sadrzaja.',
+    date: '2026-03-19',
+    category: 'Web Design',
+    readTime: '7 min',
+    content: `
+## 75% vasih posetilaca vas gleda sa telefona
+
+Statistika za srpske sajtove u 2026. je jasna: tri od cetiri posete dolaze sa mobilnog uredjaja. Vecina tih korisnika je na 4G mrezi, cesto u pokretu, sa palcem kao jedinim alatom za navigaciju.
+
+Ako ste sajt dizajnirali za desktop i onda ga "prilagodili" za mobilni, radite naopako. Moderni pristup je mobile-first: prvo dizajnirate za telefon, pa onda za desktop dodajete prostor.
+
+Za kompletnu sliku troskova izrade sajta pogledajte [cene izrade sajta](/cene-izrade-sajta) i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+
+## 5 Pravila mobilnog dizajna koji konvertuje
+
+### 1) Jedan cilj po ekranu
+
+Na desktopu mozete staviti sidebar, meni, banner i CTA na isti ekran. Na telefonu to je haos. Svaki ekran (viewport) treba da ima JEDAN jasan cilj: ili da procita naslov, ili da klikne dugme, ili da popuni formu.
+
+Ako korisnik mora da skroluje levo-desno, zumiira ili traži gde da klikne -- izgubili ste ga.
+
+### 2) Palac-prijateljska zona
+
+Vecina ljudi koristi telefon jednom rukom. Oblast koju palac lako doseze je donji deo ekrana. CTA dugmad, meni i najvaznije akcije treba da budu u toj zoni -- ne na vrhu stranice gde palac ne doseze.
+
+**Dobra praksa:** Sticky CTA dugme na dnu ekrana koje prati korisnika dok skroluje. "Zakazi konsultaciju" ili "Dodaj u korpu" uvek dostupno jednim dodirom.
+
+### 3) Font minimum 16px
+
+Tekst manji od 16px na telefonu primorava korisnika da zumira. Google takodje kaznjava sajtove sa premalom velicinom fonta. Naslovi: 24-32px. Tekst: 16-18px. CTA dugmad: tekst 16px+, visina dugmeta minimum 44px (Apple-ov standard za touch target).
+
+### 4) Slike koje se prilagodjavaju
+
+Jedna slika od 2MB na desktop verziji ubija mobilni saobracaj. Koristite responsive slike (srcset atribut u HTML-u) koje servira manju verziju za telefone. WebP format stedi 30% u odnosu na JPG bez gubitka kvaliteta. Lazy loading je obavezan -- slike se ucitavaju tek kad korisnik doskroluje do njih.
+
+Za tehnicke detalje optimizacije pogledajte [WordPress speed vodic](/blog/ubrzavanje-wordpress-sajta-tehnicki-seo-srbija-2026).
+
+### 5) Forme sa maksimalno 3 polja
+
+Kucanje na telefonu je sporo i frustrirajuce. Svako polje koje dodate u kontakt formu smanjuje konverziju za 10-15%. Za mobilne korisnike, trazite samo ono sto je apsolutno neophodno: ime + email ili telefon.
+
+Bonus: koristite odgovarajuce input tipove (type="tel" za telefon, type="email" za email) da se pojavi prava tastatura. Za detaljniju analizu formi pogledajte [kako napraviti landing stranicu koja konvertuje](/blog/kako-napraviti-landing-stranicu-koja-konvertuje-srbija-2026).
+
+## Navigacija na mobilnom: hamburger meni nije jedini put
+
+Hamburger meni (tri crte u gornjem uglu) je standard, ali nije uvek najbolje resenje. Korisnici ga cesto ignorisu jer je "sakriven".
+
+**Alternative:**
+- **Bottom navigation bar** (kao u Instagram aplikaciji) -- 3-5 ikonica na dnu ekrana, uvek vidljive
+- **Sticky header sa CTA** -- logo + jedno dugme (npr. "Nazovi") uvek vidljivo na vrhu
+- **Accordion meni** -- kategorije koje se otvaraju dodirom, bez napustanja stranice
+
+Za e-commerce, kombinacija bottom navigation + search bar na vrhu je najefektivnija za mobilne korisnike.
+
+## Kako testirati mobilni dizajn
+
+### Google PageSpeed Insights (Mobile tab)
+
+Idite na pagespeed.web.dev i testirajte MOBILNU verziju sajta. Rezultat ispod 50 znaci ozbiljne probleme. Cilj: 70+ za prihvatljivo, 90+ za odlicno.
+
+### Chrome DevTools Device Mode
+
+U Chrome browser-u pritisnite F12, pa kliknite ikonu telefona (Toggle Device Toolbar). Mozete simulirati razlicite telefone (iPhone, Samsung, Pixel) i videti kako sajt izgleda.
+
+### Pravi test na telefonu
+
+Simulacija nije zamena za pravi test. Otvorite sajt na svom telefonu, probajte da zavrsite kupovinu ili popunite formu. Ako vam je tesko -- vašim kupcima je jos teze.
+
+Za kompletnu CRO strategiju koja ukljucuje mobilnu optimizaciju pogledajte [optimizaciju konverzije sajta](/blog/optimizacija-konverzije-sajta-cro-srbija-2026).
+
+## Najcesce greske mobilnog dizajna u Srbiji
+
+- **Pop-up koji zaklanja ceo ekran** -- Google kaznjava intrusive interstitials na mobilnim. Koristite mali banner na dnu umesto full-screen pop-up-a.
+- **Horizontalni scroll** -- ako korisnik moze da skroluje levo-desno, nesto je slomljeno. Obicno je uzrok slika ili tabela koja je sira od ekrana.
+- **Nevidljiv CTA** -- dugme koje izgleda kao deo teksta. Na mobilnom, CTA mora biti veliki, kontrastne boje i jasno odvojen od ostalog sadrzaja.
+- **Autoplay video sa zvukom** -- nista ne tera korisnika da brze zatvori stranicu. Ako koristite video, neka bude bez zvuka sa titlovima.
+
+Za profesionalni redizajn sajta sa mobilnim fokusom, javite se preko [kontakt forme](/kontakt).
+`
+  },
+  {
     slug: 'instagram-shopping-srbija-2026-vodic-za-e-commerce',
     title: 'Instagram Shopping u Srbiji 2026: vodic za e-commerce prodaju preko Instagrama',
     excerpt: 'Kako postaviti Instagram Shopping za srpsku online prodavnicu. Katalog proizvoda, tagovanje, Checkout i koliko prodaja dolazi sa Instagrama u 2026.',
