@@ -766,6 +766,22 @@ const SERVER_ROUTE_SCHEMAS = {
       url: SITE_URL,
     },
   },
+  '/marketing-agencija-leskovac': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Marketing agencija Leskovac',
+    serviceType: 'Digital marketing agency services',
+    url: `${SITE_URL}/marketing-agencija-leskovac`,
+    areaServed: {
+      '@type': 'City',
+      name: 'Leskovac',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
   '/in-house-tim-vs-agencija': {
     '@context': 'https://schema.org',
     '@type': 'Service',
@@ -1138,6 +1154,12 @@ const ogMeta = {
     description: 'Marketing agencija za Krusevac i Rasinski okrug: SEO, Google Ads i Meta kampanje za lokalne firme koje zele vise upita i prodaje uz merljiv ROI.',
     ogImage: `${SITE_URL}/pz-og.jpg`,
     ogImageAlt: 'Marketing agencija Krusevac - digitalni marketing za Rasinski okrug',
+  },
+  '/marketing-agencija-leskovac': {
+    title: 'Marketing Agencija za Leskovac | Digitalni Marketing | Platinum Zenith',
+    description: 'Marketing agencija za Leskovac i Jablanicki okrug: SEO, Google Ads i Meta kampanje za lokalne firme koje zele vise upita i prodaje uz merljiv ROI.',
+    ogImage: `${SITE_URL}/pz-og.jpg`,
+    ogImageAlt: 'Marketing agencija Leskovac - digitalni marketing za Jablanicki okrug',
   },
   '/web-shop-nema-prodaju': {
     title: 'Web Shop Nema Prodaju? 5 Razloga i Rešenja | Platinum Zenith',

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-18T22:28:17.864Z",
-  "routesChecked": 53,
+  "generatedAt": "2026-03-19T02:29:15.848Z",
+  "routesChecked": 54,
   "issueCount": 0,
   "checked": [
     {
@@ -1189,6 +1189,33 @@
       "route": "/marketing-agencija-krusevac",
       "component": "MarketingAgencijaKrusevacPage",
       "file": "src\\pages\\MarketingAgencijaKrusevacPage.jsx",
+      "sequence": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        2,
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 8,
+        "h3": 5,
+        "total": 14
+      }
+    },
+    {
+      "route": "/marketing-agencija-leskovac",
+      "component": "MarketingAgencijaLeskovacPage",
+      "file": "src\\pages\\MarketingAgencijaLeskovacPage.jsx",
       "sequence": [
         1,
         2,

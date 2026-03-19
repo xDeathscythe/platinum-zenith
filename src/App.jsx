@@ -66,6 +66,7 @@ const MarketingAgencijaPancevoPage = lazy(() => import('./pages/MarketingAgencij
 const MarketingAgencijaCacakPage = lazy(() => import('./pages/MarketingAgencijaCacakPage'))
 const MarketingAgencijaKraljevoPage = lazy(() => import('./pages/MarketingAgencijaKraljevoPage'))
 const MarketingAgencijaKrusevacPage = lazy(() => import('./pages/MarketingAgencijaKrusevacPage'))
+const MarketingAgencijaLeskovacPage = lazy(() => import('./pages/MarketingAgencijaLeskovacPage'))
 
 // Admin pages
 const LoginPage = lazy(() => import('./pages/admin/LoginPage'))
@@ -177,6 +178,7 @@ function PublicLayout() {
             <Route path="/marketing-agencija-cacak" element={<MarketingAgencijaCacakPage />} />
             <Route path="/marketing-agencija-kraljevo" element={<MarketingAgencijaKraljevoPage />} />
             <Route path="/marketing-agencija-krusevac" element={<MarketingAgencijaKrusevacPage />} />
+              <Route path="/marketing-agencija-leskovac" element={<MarketingAgencijaLeskovacPage />} />
             <Route path="/draft/:slug" element={<BlogPostPage />} />
             <Route path="*" element={<NotFoundPage />} />
           </Routes>

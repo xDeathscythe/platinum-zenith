@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-03-18T22:28:20.795Z",
-  "postsChecked": 150,
+  "generatedAt": "2026-03-19T02:29:18.538Z",
+  "postsChecked": 151,
   "issueCount": 0,
   "checked": [
+    {
+      "route": "/blog/instagram-shopping-srbija-2026-vodic-za-e-commerce",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
     {
       "route": "/blog/kako-napraviti-landing-stranicu-koja-konvertuje-srbija-2026",
       "serviceHits": 3,

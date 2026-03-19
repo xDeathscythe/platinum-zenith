@@ -154,6 +154,10 @@ export default function MarketingAgencijaBgPage() {
               <div className="text-[14px] font-medium text-ink mb-1">Marketing agencija Krusevac</div>
               <div className="text-[12px] text-ink-3">Digitalni marketing za Rasinski okrug</div>
             </Link>
+            <Link to="/marketing-agencija-leskovac" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Marketing agencija Leskovac</div>
+              <div className="text-[12px] text-ink-3">Digitalni marketing za Jablanicki okrug</div>
+            </Link>
             <Link to="/cene-digitalnog-marketinga" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
               <div className="text-[14px] font-medium text-ink mb-1">Cene digitalnog marketinga</div>
               <div className="text-[12px] text-ink-3">Koliko košta marketing mesečno</div>
