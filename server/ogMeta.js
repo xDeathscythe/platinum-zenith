@@ -830,6 +830,22 @@ const SERVER_ROUTE_SCHEMAS = {
       url: SITE_URL,
     },
   },
+  '/marketing-agencija-sabac': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Marketing agencija Sabac',
+    serviceType: 'Digital marketing agency services',
+    url: `${SITE_URL}/marketing-agencija-sabac`,
+    areaServed: {
+      '@type': 'City',
+      name: 'Sabac',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
   '/in-house-tim-vs-agencija': {
     '@context': 'https://schema.org',
     '@type': 'Service',
@@ -1226,6 +1242,12 @@ const ogMeta = {
     description: 'Marketing agencija za Novi Pazar i Raski okrug: SEO, Google Ads i Meta kampanje za tekstilnu industriju, ugostiteljstvo i lokalne firme.',
     ogImage: `${SITE_URL}/pz-og.jpg`,
     ogImageAlt: 'Marketing agencija Novi Pazar - digitalni marketing za Raski okrug',
+  },
+  '/marketing-agencija-sabac': {
+    title: 'Marketing Agencija za Sabac | Digitalni Marketing | Platinum Zenith',
+    description: 'Marketing agencija za Sabac i Macvanski okrug: SEO, Google Ads i Meta kampanje za poljoprivredu, prehrambenu industriju i lokalne firme.',
+    ogImage: `${SITE_URL}/pz-og.jpg`,
+    ogImageAlt: 'Marketing agencija Sabac - digitalni marketing za Macvanski okrug',
   },
   '/web-shop-nema-prodaju': {
     title: 'Web Shop Nema Prodaju? 5 Razloga i Rešenja | Platinum Zenith',
