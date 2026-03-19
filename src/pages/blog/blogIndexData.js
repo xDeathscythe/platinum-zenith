@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "zadrzavanje-kupaca-customer-retention-srbija-2026",
+    "title": "Zadrzavanje kupaca u Srbiji 2026: zasto je 5x jeftinije od pronalazenja novih",
+    "excerpt": "Vodic za customer retention u Srbiji. Loyalty programi, post-purchase komunikacija, churn prevencija i kako povecati lifetime value kupca.",
+    "date": "2026-03-19",
+    "category": "Biznis",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "wordpress-bezbednost-vodic-srbija-2026",
     "title": "WordPress bezbednost u 2026: 10 koraka da zastite sajt od hakera",
     "excerpt": "Vodic za zastitu WordPress sajta od hakovanja. 10 prakticnih koraka koje svaki vlasnik sajta u Srbiji moze da primeni danas bez tehnickog znanja.",

@@ -1,5 +1,123 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'zadrzavanje-kupaca-customer-retention-srbija-2026',
+    title: 'Zadrzavanje kupaca u Srbiji 2026: zasto je 5x jeftinije od pronalazenja novih',
+    excerpt: 'Vodic za customer retention u Srbiji. Loyalty programi, post-purchase komunikacija, churn prevencija i kako povecati lifetime value kupca.',
+    date: '2026-03-19',
+    category: 'Biznis',
+    readTime: '8 min',
+    content: `
+## Matematika retencije: zasto gubite novac jureći nove kupce
+
+Vecina srpskih firmi ulaze 90% marketing budzeta u akviziciju novih kupaca i 10% u zadrzavanje postojecih. To je potpuno naopako.
+
+Brojke su jasne:
+- Pronalazenje novog kupca kosta **5-7x vise** nego zadrzavanje postojeceg
+- Povecanje retencije za samo **5%** povecava profit za **25-95%** (Harvard Business Review)
+- Postojeci kupci trose **67% vise** od novih kupaca
+- Verovatnoca prodaje postojecem kupcu je **60-70%**, a novom samo **5-20%**
+
+Ako vam mesecni churn (odliv) iznosi 5%, za godinu dana izgubite 46% baze kupaca. To znaci da morate duplo vise da ulozite u akviziciju samo da biste ostali na istom nivou.
+
+Za kompletnu strategiju digitalnog prisustva pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## 5 Strategija za zadrzavanje kupaca
+
+### 1) Post-purchase komunikacija (prvih 30 dana)
+
+Prvih 30 dana posle kupovine odredjuje da li ce kupac postati lojalan ili ce vas zaboraviti. Vecina firmi posle prodaje prestaje da komunicira -- velika greska.
+
+**Akcioni plan:**
+- **Dan 0:** Potvrda porudzbine + tracking informacije
+- **Dan 1 posle isporuke:** "Da li je sve stiglo u redu?" (pokazuje brigu)
+- **Dan 7:** Saveti za koriscenje proizvoda (edukacija)
+- **Dan 14:** Zamolba za recenziju
+- **Dan 30:** Ekskluzivan popust za sledecu kupovinu
+
+Automatizujte ovo sa email sekvencama. Za detaljniji vodic pogledajte [email automatizaciju za webshop](/blog/email-automatizacija-za-webshop-srbija-2026).
+
+### 2) Loyalty program (nagradite lojalnost)
+
+Ne morate imati kompleksan sistem sa karticama i app-om. Jednostavni loyalty programi koji rade u Srbiji:
+
+**Bodovni sistem:** Svaki dinar potrosnje = 1 bod. 1000 bodova = 500 RSD popust. Jednostavno i transparentno.
+
+**VIP nivoi:** Bronze (0-10.000 RSD), Silver (10.000-30.000 RSD), Gold (30.000+ RSD). Svaki nivo donosi vece benefite (besplatna dostava, rani pristup, ekskluzivni popusti).
+
+**Referral program:** "Preporuci prijatelju i oboje dobijate 10% popust." Win-win koji organshi siri bazu kupaca.
+
+Za WooCommerce: plugin "Points and Rewards" (besplatan) ili "WooCommerce Loyalty Points" implementira bodovni sistem za 15 minuta.
+
+### 3) Personalizovana komunikacija
+
+"Dragi kupce" ne radi. "Marko, na osnovu vase poslednje kupovine, mislimo da bi vam se ovo svidelo" -- radi.
+
+**Segmentacija po ponasanju:**
+- Kupci koji su kupili samo jednom (cilj: druga kupovina)
+- Kupci koji kupuju redovno (cilj: povecati prosecnu vrednost)
+- Kupci koji nisu kupili 60+ dana (cilj: reaktivacija)
+- VIP kupci (cilj: zadrzati i nagraditi)
+
+Svaki segment dobija drugaciju poruku u drugom trenutku.
+
+### 4) Proaktivno resavanje problema
+
+Ne cekajte da se kupac zalali. Proaktivno identifikujte i resite probleme pre nego sto postanu razlog za odlazak.
+
+**Signali upozorenja:**
+- Kupac koji je slao email podrsku 2+ puta u mesec dana
+- Pad frekvencije kupovine (kupovao mesecno, sad nije kupio 2 meseca)
+- Negativna recenzija ili komentar na drustvenim mrezama
+
+Kad primetite signal, reagujte: licni email od vlasnika, popust kao izvinjenje, ili poziv da popricjate. Jedan proaktivan kontakt moze da spreci odlazak kupca koji bi vas kostao stotine evra u zameni.
+
+Za upravljanje reputacijom pogledajte [vodic za drustvene mreze](/blog/upravljanje-reputacijom-drustvene-mreze-srbija-2026).
+
+### 5) Community building (gradnja zajednice)
+
+Kupci koji se osecaju kao deo zajednice retko odlaze. Ovo ne znaci da morate napraviti Facebook grupu od 10.000 ljudi. Znaci da morate stvoriti osecaj pripadnosti.
+
+**Taktike:**
+- Ekskluzivna Facebook/Telegram grupa za kupce
+- "Behind the scenes" sadrzaj koji ne vidja siri auditorijum
+- Pozivanje kupaca da budu deo razvoja novih proizvoda (glasanja, ankete)
+- UGC (User Generated Content) -- delite slike i price vasih kupaca
+
+## Kako meriti retention (3 kljucne metrike)
+
+### Customer Retention Rate (CRR)
+
+Formula: ((Kupci na kraju perioda - Novi kupci) / Kupci na pocetku perioda) x 100
+
+Zdrav CRR za e-commerce u Srbiji: 20-30% (na 12-mesecnom periodu). Za SaaS/pretplate: 85-95%.
+
+### Customer Lifetime Value (CLV)
+
+Formula: Prosecna vrednost porudzbine x Prosecna frekvencija kupovine x Prosecni vek kupca
+
+Ako je prosecna porudzbina 5.000 RSD, kupac kupuje 4x godisnje i ostaje 3 godine: CLV = 5.000 x 4 x 3 = 60.000 RSD. To je cifra koju mozete investirati u zadrzavanje tog kupca.
+
+### Net Promoter Score (NPS)
+
+Jedno pitanje: "Od 1 do 10, koliko biste preporucili nasu firmu prijatelju?" Promoteri (9-10) su vasi ambasadori. Detraktori (0-6) su u opasnosti da odu. Fokusirajte se na pretvaranje neutralnih (7-8) u promotere.
+
+Za kompletnu metodologiju merenja pogledajte [kako meriti ROI digitalnog marketinga](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
+
+## Najcesce greske u customer retention-u
+
+### 1) Tretiranje svih kupaca isto
+VIP kupac koji trosi 50.000 RSD godisnje ne treba da dobija isti email kao kupac koji je kupio jednom za 2.000 RSD. Segmentirajte i personalizujte.
+
+### 2) Popusti kao jedini alat za retenciju
+Ako jedini razlog zasto kupac ostaje je popust, on ce otici cim konkurent ponudi veci. Gradite vrednost: edukacija, zajednica, iskustvo -- ne samo nizu cenu.
+
+### 3) Ignorisanje churned kupaca
+Kupac koji je otisao moze da se vrati. Win-back kampanja 60-90 dana posle poslednje kupovine vraca 3-7% kupaca. To je besplatan novac koji vecina firmi ostavlja na stolu.
+
+Za strategiju zadrzavanja kupaca i personalizovanu email komunikaciju, javite se preko [kontakt forme](/kontakt).
+`
+  },
+  {
     slug: 'wordpress-bezbednost-vodic-srbija-2026',
     title: 'WordPress bezbednost u 2026: 10 koraka da zastite sajt od hakera',
     excerpt: 'Vodic za zastitu WordPress sajta od hakovanja. 10 prakticnih koraka koje svaki vlasnik sajta u Srbiji moze da primeni danas bez tehnickog znanja.',
