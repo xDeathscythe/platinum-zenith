@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "lokalni-seo-citati-direktorijumi-srbija-2026",
+    "title": "Lokalni SEO citati i direktorijumi u Srbiji 2026: gde registrovati firmu",
+    "excerpt": "Lista najvaznijih online direktorijuma za srpske firme 2026. Kako NAP konzistentnost i lokalni citati poboljsavaju rangiranje na Google mapi.",
+    "date": "2026-03-19",
+    "category": "Lokalni SEO",
+    "readTime": "7 min",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-quality-score-vodic-srbija-2026",
     "title": "Google Ads Quality Score: kako smanjiti cenu klika i poboljsati poziciju oglasa",
     "excerpt": "Vodic za razumevanje i poboljsanje Google Ads Quality Score-a. Kako 3 faktora odredjuju koliko placate po kliku i kako da ih optimizujete.",

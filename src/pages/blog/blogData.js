@@ -1,5 +1,121 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'lokalni-seo-citati-direktorijumi-srbija-2026',
+    title: 'Lokalni SEO citati i direktorijumi u Srbiji 2026: gde registrovati firmu',
+    excerpt: 'Lista najvaznijih online direktorijuma za srpske firme 2026. Kako NAP konzistentnost i lokalni citati poboljsavaju rangiranje na Google mapi.',
+    date: '2026-03-19',
+    category: 'Lokalni SEO',
+    readTime: '7 min',
+    content: `
+## Sta su lokalni citati i zasto su bitni za rang na mapi
+
+Lokalni citat (local citation) je svako pominjanje imena, adrese i telefona (NAP) vase firme na internetu. Google koristi ove citate da potvrdi da vasa firma zaista postoji na toj lokaciji.
+
+Sto vise kvalitetnih, konzistentnih citata imate -- to vise Google veruje vasem Google Business profilu i rangira vas vise na mapi. Firma sa 50 konzistentnih citata ce gotovo uvek biti iznad firme sa 5 citata (uz ostale faktore jednake).
+
+Za kompletnu optimizaciju Google Business profila pogledajte [GBP checklistu](/blog/google-business-profile-optimizacija-srbija-2026). Za cene SEO usluga pogledajte [SEO optimizacija cena](/seo-optimizacija-cena).
+
+## NAP konzistentnost: najvazniji faktor
+
+NAP = Name, Address, Phone. Ove tri informacije moraju biti IDENTICNE svuda na internetu.
+
+**Primer problema:**
+- Google Business: "Platinum Zenith d.o.o., Ruze Sulman 19, Zrenjanin, 065-123-4567"
+- Facebook: "Platinum Zenith, R. Sulman 19, 23000 Zrenjanin, 065/123-4567"
+- Yellow Pages: "PLATINUM ZENITH DOO, Ruze Sulman 19, Zrenjanin, +381651234567"
+
+Google vidi tri razlicite firme. Rezultat: konfuzija i nizi rang.
+
+**Resenje:** Odaberite jedan format za ime, adresu i telefon. Koristite ga IDENTICNO svuda. Bez skracivanja, bez razlicitih formata broja telefona.
+
+## Top 15 direktorijuma za srpske firme (2026)
+
+### Tier 1: Obavezni (najjaci uticaj)
+
+1. **Google Business Profile** -- najvazniji od svih. Pogledajte [kompletnu checklistu](/blog/google-business-profile-optimizacija-srbija-2026).
+2. **Facebook Business Page** -- drugi najcesci izvor citata u Srbiji.
+3. **Kupujem Prodajem** (kupujemprodajem.com) -- najveci srpski marketplace.
+4. **Halooglasi** (halooglasi.com) -- veliki klasifikovani portal.
+5. **Infostud / Poslovi** (poslovi.infostud.com) -- posebno ako zaposljavate.
+
+### Tier 2: Vazni (dobar uticaj)
+
+6. **Yellow Pages Serbia** (zutestranice.rs / yellowpages.rs)
+7. **Poslovne strane** (poslovnestrane.rs)
+8. **Moj Biznis** (mojbiznis.rs)
+9. **Instagram Business** -- funkcija lokacije
+10. **LinkedIn Company Page** -- posebno za B2B. Pogledajte [LinkedIn marketing vodic](/blog/linkedin-marketing-za-b2b-firme-srbija-2026).
+
+### Tier 3: Korisni (dodatni autoritet)
+
+11. **TripAdvisor** (za ugostiteljstvo i turizam)
+12. **Booking.com** (za smestaj)
+13. **Njuskalo.rs** -- drugi klasifikovani portal
+14. **Lokalni portali** (gradski sajtovi: 021.rs, 011info.com, mojgrad.rs)
+15. **Apple Maps** (maps.apple.com/place) -- cesto se zaboravlja
+
+### Industrijsko-specificni direktorijumi
+
+- **Stomatolozi:** doktori.rs, moj-lekar.rs
+- **Advokati:** advokatskakancelarija.rs
+- **Restorani:** gastrovodic.rs, TripAdvisor
+- **Autoservisi:** autoservis.rs, mojauto.rs
+- **Nekretnine:** 4zida.rs, nekretnine.rs
+
+## Kako registrovati firmu na direktorijumima (efikasno)
+
+### Korak 1: Pripremite NAP podatke
+
+Pre bilo kakve registracije, napisite tacne podatke koje cete koristiti svuda:
+
+- **Ime firme:** Tacno kako je registrovano (sa ili bez d.o.o. -- ali isto svuda)
+- **Adresa:** Ulica, broj, grad, postanski broj (isti format svuda)
+- **Telefon:** Jedan format (npr. +381 65 123 4567)
+- **Website:** https://vasajt.com (sa https)
+- **Email:** info@vasajt.com
+- **Radno vreme:** Tačno
+- **Kategorija/Delatnost:** Ista kljucna rec svuda
+
+### Korak 2: Registrujte Tier 1 prvo
+
+Pocnite sa 5 obaveznih direktorijuma. Kompletno popunite profil na svakom -- ne samo ime i telefon, vec i opis, slike, kategorije, radno vreme.
+
+### Korak 3: Dodajte Tier 2 i Tier 3
+
+Sledecih nedelja dodajte po 2-3 direktorijuma. Nemojte sve odjednom -- Google sumnja na iznenadni porast citata.
+
+### Korak 4: Proverite konzistentnost
+
+Jednom mesecno, guglajte ime vase firme u navodnicima i proverite da li se NAP podaci poklapaju na svim sajtovima. Ispravite razlike.
+
+## Kako citati uticu na lokalno rangiranje
+
+Google koristi 3 kategorije signala za Local Pack (3 rezultata na mapi):
+
+1. **Relevantnost** -- koliko se vasa firma poklapa sa pretragom (kategorija, opis, usluge)
+2. **Udaljenost** -- koliko je firma blizu korisnika koji pretrazuje
+3. **Prominentnost** -- koliko je firma "poznata" na internetu (citati, recenzije, linkovi)
+
+Citati direktno uticu na prominentnost. Vise citata = vise prominentnosti = visi rang na mapi.
+
+## Najcesce greske sa lokalnim citatima
+
+### 1) Dupli profili
+Ako imate dva Google Business profila za istu lokaciju, Google ce kazniti oba. Trazite duplikate i obrisite/mergujte ih.
+
+### 2) Zastareli podaci
+Promenili ste adresu pre 2 godine ali stara adresa je i dalje na 10 sajtova? Azurirajte SVE citate posle svake promene.
+
+### 3) Ignorisanje negativnih citata
+Ponekad se pojave lazni ili pogresni citati. Kontaktirajte sajt i trazite ispravku ili uklanjanje.
+
+### 4) Samo online prisustvo bez recenzija
+Citati su polovina price. Recenzije su druga polovina. Profil sa 50 citata i 5 recenzija ce uvek izgubiti od profila sa 30 citata i 100 recenzija.
+
+Za profesionalnu lokalnu SEO strategiju i registraciju na direktorijumima, javite se preko [kontakt forme](/kontakt). Pogledajte i nase lokalne stranice za [marketing u Beogradu](/marketing-agencija-beograd), [Novom Sadu](/marketing-agencija-novi-sad) ili [Zrenjaninu](/marketing-agencija-zrenjanin).
+`
+  },
+  {
     slug: 'google-ads-quality-score-vodic-srbija-2026',
     title: 'Google Ads Quality Score: kako smanjiti cenu klika i poboljsati poziciju oglasa',
     excerpt: 'Vodic za razumevanje i poboljsanje Google Ads Quality Score-a. Kako 3 faktora odredjuju koliko placate po kliku i kako da ih optimizujete.',
