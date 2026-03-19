@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-03-19T02:29:18.538Z",
-  "postsChecked": 151,
+  "generatedAt": "2026-03-19T06:29:51.503Z",
+  "postsChecked": 153,
   "issueCount": 0,
   "checked": [
+    {
+      "route": "/blog/wordpress-bezbednost-vodic-srbija-2026",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/email-automatizacija-za-webshop-srbija-2026",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
     {
       "route": "/blog/instagram-shopping-srbija-2026-vodic-za-e-commerce",
       "serviceHits": 2,

@@ -782,6 +782,22 @@ const SERVER_ROUTE_SCHEMAS = {
       url: SITE_URL,
     },
   },
+  '/marketing-agencija-uzice': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Marketing agencija Uzice',
+    serviceType: 'Digital marketing agency services',
+    url: `${SITE_URL}/marketing-agencija-uzice`,
+    areaServed: {
+      '@type': 'City',
+      name: 'Uzice',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
   '/in-house-tim-vs-agencija': {
     '@context': 'https://schema.org',
     '@type': 'Service',
@@ -1160,6 +1176,12 @@ const ogMeta = {
     description: 'Marketing agencija za Leskovac i Jablanicki okrug: SEO, Google Ads i Meta kampanje za lokalne firme koje zele vise upita i prodaje uz merljiv ROI.',
     ogImage: `${SITE_URL}/pz-og.jpg`,
     ogImageAlt: 'Marketing agencija Leskovac - digitalni marketing za Jablanicki okrug',
+  },
+  '/marketing-agencija-uzice': {
+    title: 'Marketing Agencija za Uzice | Digitalni Marketing | Platinum Zenith',
+    description: 'Marketing agencija za Uzice i Zlatiborski okrug: SEO, Google Ads i kampanje na drustvenim mrezama za lokalne firme i turizam uz merljiv ROI.',
+    ogImage: `${SITE_URL}/pz-og.jpg`,
+    ogImageAlt: 'Marketing agencija Uzice - digitalni marketing za Zlatiborski okrug',
   },
   '/web-shop-nema-prodaju': {
     title: 'Web Shop Nema Prodaju? 5 Razloga i Rešenja | Platinum Zenith',
