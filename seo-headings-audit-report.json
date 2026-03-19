@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-19T18:29:32.494Z",
-  "routesChecked": 58,
+  "generatedAt": "2026-03-19T22:28:32.346Z",
+  "routesChecked": 59,
   "issueCount": 0,
   "checked": [
     {
@@ -1324,6 +1324,33 @@
       "route": "/marketing-agencija-sabac",
       "component": "MarketingAgencijaSabacPage",
       "file": "src\\pages\\MarketingAgencijaSabacPage.jsx",
+      "sequence": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        2,
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 8,
+        "h3": 5,
+        "total": 14
+      }
+    },
+    {
+      "route": "/marketing-agencija-smederevo",
+      "component": "MarketingAgencijaSmederevoPage",
+      "file": "src\\pages\\MarketingAgencijaSmederevoPage.jsx",
       "sequence": [
         1,
         2,
