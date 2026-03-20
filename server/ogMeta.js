@@ -862,6 +862,22 @@ const SERVER_ROUTE_SCHEMAS = {
       url: SITE_URL,
     },
   },
+  '/marketing-agencija-sremska-mitrovica': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Marketing agencija Sremska Mitrovica',
+    serviceType: 'Digital marketing agency services',
+    url: `${SITE_URL}/marketing-agencija-sremska-mitrovica`,
+    areaServed: {
+      '@type': 'City',
+      name: 'Sremska Mitrovica',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
   '/in-house-tim-vs-agencija': {
     '@context': 'https://schema.org',
     '@type': 'Service',
@@ -1270,6 +1286,12 @@ const ogMeta = {
     description: 'Marketing agencija za Smederevo i Podunavski okrug: SEO, Google Ads i Meta kampanje za industriju, usluzni sektor i lokalne firme.',
     ogImage: `${SITE_URL}/pz-og.jpg`,
     ogImageAlt: 'Marketing agencija Smederevo - digitalni marketing za Podunavski okrug',
+  },
+  '/marketing-agencija-sremska-mitrovica': {
+    title: 'Marketing Agencija za Sremsku Mitrovicu | Digitalni Marketing | Platinum Zenith',
+    description: 'Marketing agencija za Sremsku Mitrovicu i Sremski okrug: SEO, Google Ads i Meta kampanje za prehrambenu industriju, poljoprivredu i lokalne firme.',
+    ogImage: `${SITE_URL}/pz-og.jpg`,
+    ogImageAlt: 'Marketing agencija Sremska Mitrovica - digitalni marketing za Sremski okrug',
   },
   '/web-shop-nema-prodaju': {
     title: 'Web Shop Nema Prodaju? 5 Razloga i Rešenja | Platinum Zenith',
