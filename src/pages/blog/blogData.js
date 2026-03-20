@@ -1,5 +1,107 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'google-ads-performance-max-srbija-2026',
+    title: 'Google Ads Performance Max u Srbiji 2026: kada koristiti i kako postaviti',
+    excerpt: 'Vodic za Google Performance Max kampanje na srpskom trzistu. Kada PMax radi bolje od Search-a, kako ga postaviti i sta ne raditi.',
+    date: '2026-03-20',
+    category: 'Google Ads',
+    readTime: '8 min',
+    content: `
+## Sta je Performance Max i zasto ga Google forsira
+
+Performance Max (PMax) je Google-ov AI-vodjen tip kampanje koji automatski prikazuje vase oglase na SVIM Google kanalima: Search, Display, YouTube, Gmail, Discover i Maps -- sve iz jedne kampanje.
+
+Google aktivno gura sve oglasivace ka PMax-u jer mu daje potpunu kontrolu nad tim gde i kada se vasi oglasi prikazuju. Za Google je to idealno. Za vas -- zavisi od situacije.
+
+PMax nije zamena za Search kampanje. To je dodatni kanal koji radi najbolje u kombinaciji sa postojecim Search kampanjama.
+
+Za osnove Google Ads-a pogledajte [Google reklame cena](/google-reklame-cena). Za Quality Score optimizaciju pogledajte [Quality Score vodic](/blog/google-ads-quality-score-vodic-srbija-2026).
+
+## Kada PMax radi u Srbiji (i kada ne radi)
+
+### PMax RADI za:
+
+**E-commerce sa katalogom proizvoda:** Ako imate WooCommerce ili Shopify sa 50+ proizvoda i Google Merchant Center povezan, PMax Shopping kampanja moze da donese odlicne rezultate. AI automatski bira koji proizvod da prikaze kom korisniku.
+
+**Firme sa jakim brand-om:** Ako ljudi vec traze vase ime, PMax ce efikasno konvertovati taj saobracaj na svim kanalima (ukljucujuci YouTube i Gmail).
+
+**Remarketing:** PMax koristi vasu publiku (posetioci sajta, email lista) i pronalazi slicne ljude. Ovo radi posebno dobro ako imate 1.000+ posetilaca mesecno.
+
+### PMax NE RADI za:
+
+**Lokalne usluzne firme sa malim budzetom:** Stomatolog u Nisu sa 200 EUR mesecno ce bolje proci sa cistim Search kampanjama. PMax trosi budzet na Display i YouTube gde konverzija za lokalne usluge je niska.
+
+**Firme bez konverzijskog pracenja:** PMax se oslanja na Conversion data da uci. Bez postavljenih konverzija (kontakt forma, poziv, kupovina), AI nema podatke za optimizaciju i trosi budzet nasumicno.
+
+**Nove firme bez istorije:** PMax treba minimum 30 konverzija mesecno da efikasno optimizuje. Ako tek pocinjete i imate 5 konverzija mesecno, Search kampanja je bolji izbor.
+
+## Kako postaviti Performance Max kampanju
+
+### Korak 1: Postavite konverzije PRVO
+
+Pre nego sto aktivirate PMax, morate imati barem jednu konverziju u Google Ads-u:
+- Kontakt forma (za usluge)
+- Telefonski poziv sa sajta (za lokalne biznise)
+- Kupovina (za e-commerce)
+- Lead gen forma (za B2B)
+
+PMax bez konverzija je kao GPS bez destinacije -- ide svuda ali ne stize nikuda.
+
+### Korak 2: Kreirajte Asset Group
+
+Asset Group je kolekcija kreativnih materijala koje PMax kombinuje automatski:
+
+- **Headlines (naslovi):** Minimum 5, maksimum 15. Mesajte kratke (30 karaktera) i duge (90 karaktera).
+- **Descriptions (opisi):** Minimum 2, maksimum 5. Jedan kratak (60 char), ostali dugi (90 char).
+- **Images (slike):** Minimum 3 landscape (1200x628), 3 square (1200x1200), 1 portrait (960x1200).
+- **Videos:** Minimum 1 (YouTube link). Ako nemate video, Google ce automatski napraviti los slideshow od vasih slika -- bolje je da uploadujete sopstveni video od 15-30 sekundi. Za video pogledajte [video marketing vodic](/blog/video-marketing-za-male-firme-srbija-2026).
+- **Logo:** Vas logo u square i landscape formatu.
+- **Final URL:** Vasa landing stranica.
+
+### Korak 3: Audience Signals (ne targeting)
+
+PMax ne koristi "targeting" kao Search -- koristi "signale" koji govore AI-ju gde da pocne sa pretragom publike. AI moze da ide i van vasih signala ako nadje bolje rezultate.
+
+**Korisni signali:**
+- Vasa email lista (uploadujte Customer Match listu)
+- Posetioci vaseg sajta (remarketing lista)
+- Custom Segment: ljudi koji su guglali vase kljucne reci ili posecivali slicne sajtove
+- Demografija i interesovanja
+
+### Korak 4: Budzet i bidding
+
+**Minimum budzet za Srbiju:** 20-30 EUR dnevno (600-900 EUR mesecno). Ispod toga PMax nema dovoljno podataka da uci.
+
+**Bidding strategija:** "Maximize Conversions" za pocetak. Kad imate 30+ konverzija mesecno, predjite na "Target CPA" sa ciljanom cenom po konverziji.
+
+## PMax vs Search: uporedna tabela za Srbiju
+
+| Faktor | Search | Performance Max |
+|--------|--------|-----------------|
+| Kontrola | Visoka (vi birate kljucne reci) | Niska (AI bira) |
+| Transparentnost | Vidite tacno gde se prikazujete | "Crna kutija" -- ogranicen uvid |
+| Min. budzet | 200-300 EUR/mesecno | 600-900 EUR/mesecno |
+| Najbolje za | Lokalne usluge, B2B | E-commerce, remarketing |
+| Vreme do rezultata | 2-4 nedelje | 4-8 nedelja (AI learning period) |
+
+## Najcesce greske sa PMax-om u Srbiji
+
+### 1) Pokretanje bez Search kampanje
+PMax "krade" brand saobracaj koji bi ionako dosao preko Search-a, pa izgleda kao da ima dobar ROI. Uvek imajte aktivnu Brand Search kampanju pored PMax-a da biste videli pravu sliku.
+
+### 2) Premalo kreativnih materijala
+Ako date AI-ju 3 naslova i 1 sliku, on nema sta da kombinuje. Dajte mu sto vise materijala (15 naslova, 10+ slika, 2+ videa) da bi nasao dobitnu kombinaciju.
+
+### 3) Gledanje rezultata pre 4 nedelje
+PMax ima "learning period" od 2-4 nedelje gde trosi budzet da nauci sta radi. Ne gasite kampanju posle 5 dana jer "ne konvertuje". Strpljenje.
+
+### 4) Nema iskljucenja za iOS/desktop
+Provjerite Asset Group izvestaj: ako PMax prikazuje vase oglase na Display mrezi beskorisnim sajtovima, mozete dodati placement iskljucenja.
+
+Za kompletnu Google Ads strategiju i vodjenje PMax kampanja, javite se preko [kontakt forme](/kontakt). Pogledajte i [kako meriti ROI](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026) za pravilnu evaluaciju PMax rezultata.
+`
+  },
+  {
     slug: 'webinari-za-lead-generation-srbija-2026',
     title: 'Webinari za lead generation u Srbiji 2026: kako privuci kvalifikovane upite',
     excerpt: 'Kako koristiti webinare za generisanje B2B i B2C leadova u Srbiji. Platforma, promocija, prezentacija i follow-up koji zatvara prodaje.',

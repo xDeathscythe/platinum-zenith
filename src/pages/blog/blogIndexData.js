@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-performance-max-srbija-2026",
+    "title": "Google Ads Performance Max u Srbiji 2026: kada koristiti i kako postaviti",
+    "excerpt": "Vodic za Google Performance Max kampanje na srpskom trzistu. Kada PMax radi bolje od Search-a, kako ga postaviti i sta ne raditi.",
+    "date": "2026-03-20",
+    "category": "Google Ads",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "webinari-za-lead-generation-srbija-2026",
     "title": "Webinari za lead generation u Srbiji 2026: kako privuci kvalifikovane upite",
     "excerpt": "Kako koristiti webinare za generisanje B2B i B2C leadova u Srbiji. Platforma, promocija, prezentacija i follow-up koji zatvara prodaje.",
