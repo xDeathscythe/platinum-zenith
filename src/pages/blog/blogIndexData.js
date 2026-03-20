@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "backlink-strategija-za-srpske-sajtove-2026",
+    "title": "Backlink strategija za srpske sajtove 2026: kako dobiti linkove koji pomazu SEO",
+    "excerpt": "Kako izgraditi kvalitetne backlinkove za sajt u Srbiji 2026. Besplatne metode, outreach sablon, srpski portali za guest postove i sta izbegavati.",
+    "date": "2026-03-20",
+    "category": "SEO",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-performance-max-srbija-2026",
     "title": "Google Ads Performance Max u Srbiji 2026: kada koristiti i kako postaviti",
     "excerpt": "Vodic za Google Performance Max kampanje na srpskom trzistu. Kada PMax radi bolje od Search-a, kako ga postaviti i sta ne raditi.",

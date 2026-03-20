@@ -1,5 +1,124 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'backlink-strategija-za-srpske-sajtove-2026',
+    title: 'Backlink strategija za srpske sajtove 2026: kako dobiti linkove koji pomazu SEO',
+    excerpt: 'Kako izgraditi kvalitetne backlinkove za sajt u Srbiji 2026. Besplatne metode, outreach sablon, srpski portali za guest postove i sta izbegavati.',
+    date: '2026-03-20',
+    category: 'SEO',
+    readTime: '8 min',
+    content: `
+## Zasto su backlinkovi i dalje faktor #1 za rangiranje
+
+Google koristi backlinkove kao "glasove poverenja". Kad drugi sajt linkuje ka vasem, to govori Google-u: "Ovaj sajt ima sadrzaj koji vredi podeliti." Sto vise kvalitetnih sajtova linkuje ka vasem, Google vas rangira vise.
+
+U 2026. godini, backlinkovi su i dalje u top 3 ranking faktora (zajedno sa sadrzajem i tehnickim SEO-om). Sajt bez backlink-ova retko rangira za konkurentne termine, bez obzira koliko dobar sadrzaj ima.
+
+Za tehnicku SEO stranu pogledajte [on-page SEO checklistu](/blog/on-page-seo-checklista-srbija-2026). Za cene SEO usluga pogledajte [SEO optimizacija cena](/seo-optimizacija-cena).
+
+## Kvalitet vs kvantitet: zasto 10 dobrih linkova bije 1.000 losih
+
+Jedan link sa blic.rs ili b92.net vredi vise nego 500 linkova sa random blogova koji postoje samo da prodaju linkove. Google je pametan -- raspoznaje prirodne linkove od kupljenih.
+
+**Karakteristike kvalitetnog backlinka:**
+- Dolazi sa sajta koji ima sopstveni saobracaj i autoritet
+- Kontekstualan je (u tekstu, ne u footeru ili sidebar-u)
+- Relevantan za vasu bransu (link sa medicinskog portala za stomatologa)
+- "Dofollow" (prenosi SEO vrednost)
+
+**Karakteristike loseg backlinka:**
+- Sa spammy sajtova koji prodaju linkove za 5 EUR
+- U footeru sa 200 drugih linkova
+- Potpuno nerelevantna kategorija
+- Iz link farmi ili PBN-ova (Private Blog Networks)
+
+## 7 Besplatnih metoda za dobijanje backlinkova u Srbiji
+
+### 1) Guest posting na srpskim portalima
+
+Napisite kvalitetan clanak za portal u vasoj bransi. Dobijate backlink u autorskoj biografiji ili u tekstu.
+
+**Srpski portali koji prihvataju guest postove:**
+- Netokracija (tech, marketing)
+- Startit (startapi, tech)
+- eKapija (biznis, ekonomija)
+- PCPress (tech, IT)
+- Lokalni mediji (regionalni portali cesto traze kvalitetan sadrzaj)
+
+**Outreach sablon:**
+"Zdravo [ime urednika], pratim [portal] i primetio sam da cesto pisete o [tema]. Imam ideju za clanak koji bi bio koristan vasim citaocima: [naslov + 2-3 bullet poena]. Da li vas to zanima?"
+
+### 2) Digitalni PR (vesti i saopstenja)
+
+Kad lansirte novi proizvod, dostignete milestone ili imate zanimljivu pricu -- posaljite vest novinarima. Jedan clanak na B92 ili Blic-u donosi ogroman autoriteet.
+
+**Kako naci novinare:**
+- Linkedin pretrazga: "novinar [vasa industrija]"
+- Twitter/X: novinari cesto dele sta rade i za koji medij pisu
+- Muck Rack ili lokalni PR kontakti
+
+### 3) HARO / SourceBottle (odgovaranje na novinarska pitanja)
+
+Novinari stalno traze izvore za clanke. Registrujte se na helpareporter.com (HARO) ili sourcebottle.com. Svaki dan dobijate pitanja novinara. Kad odgovorite sa ekspertskim misljenjeem, dobijate backlink iz clanka.
+
+### 4) Polomljeni linkovi (Broken Link Building)
+
+Pronadjite sajtove u vasoj bransi koji imaju linkove ka stranicama koje vise ne postoje (404 greske). Kontaktirajte vlasnika: "Primetio sam da link ka [X] na vasoj stranici [URL] ne radi. Mi imamo slican sadrzaj koji bi mogao da zameni taj link: [vas URL]."
+
+Besplatan alat: Ahrefs Broken Link Checker (besplatna verzija) ili Check My Links (Chrome extension).
+
+### 5) Kreiranje "linkable" sadrzaja
+
+Odredjen tip sadrzaja prirodno privlaci linkove:
+- **Originalna istrazivanja:** "Analiza 500 srpskih sajtova: koliko ih ima SSL" -- mediji i blogeri ce linkirati ka statistici
+- **Besplatni alati:** Kalkulator, checklista, sablon -- svaki put kad neko podeli alat, to je potencijalan link
+- **Infografike:** Vizuelni sadrzaj se deli 3x cesce od teksta
+
+### 6) Registracija na direktorijumima
+
+Vec pokrili smo ovo detaljno u [vodicu za lokalne citate i direktorijume](/blog/lokalni-seo-citati-direktorijumi-srbija-2026). Direktorijumi ne daju najjace linkove ali su temelj lokalnog SEO profila.
+
+### 7) Partnerski linkovi
+
+Ako saradjujete sa drugim firmama (dobavljaci, partneri, klijenti), trazite uzajamne linkove. "Mi cemo vas staviti na nasu partneri stranicu ako vi nas stavite na svoju." Jednostavno i besplatno.
+
+## Kako NE treba graditi backlinkove
+
+### Kupovina linkova sa Fiverr-a
+"100 backlinks za 5 EUR" = 100 spammy linkova koji ce vam napraviti vise stete nego koristi. Google algoritam prepoznaje kupljene linkove i moze da kazni vas sajt (Google Penalty).
+
+### PBN (Private Blog Network)
+Mreza laznih blogova koji postoje samo da medjusobno linkuju. Google ih detektuje i kaznjava sve sajtove u mrezi. Izbegavajte.
+
+### Razmena linkova u velikom obimu
+"Ja linkiram tebe, ti linkiras mene" sa 50 sajtova je neprirodan pattern koji Google prepoznaje. Manja, relevantna razmena je OK, ali masovna razmena je rizicna.
+
+### Komentari sa linkovima
+Ostavljanje komentara sa linkom na blogovima i forumima ne daje SEO vrednost (vecina je "nofollow") i izgleda kao spam.
+
+## Koliko backlinkova vam treba
+
+Zavisi od konkurencije za vase kljucne reci:
+
+- **Nisko konkurentne reci** (lokalni biznis + grad): 10-30 kvalitetnih linkova
+- **Srednje konkurentne** (usluga + Srbija): 30-100 kvalitetnih linkova
+- **Visoko konkurentne** (genericki termin bez lokacije): 100-300+ kvalitetnih linkova
+
+Fokusirajte se na 2-4 nova kvalitetna linka mesecno. To je 24-48 godisnje -- sasvim dovoljno za vec binu srpskih firmi.
+
+## Kako pratiti backlinkove
+
+**Besplatni alati:**
+- Google Search Console > Links > External links (pokazuje ko linkuje ka vasem sajtu)
+- Ahrefs Free Backlink Checker (ogranicen ali koristan za brzu proveru)
+
+**Placeni alati:**
+- Ahrefs (99 USD/mesecno) -- najkompletniji backlink alat
+- SEMrush (130 USD/mesecno) -- backlink audit + monitoring
+
+Za kompletnu SEO strategiju koja ukljucuje i backlink building, javite se preko [kontakt forme](/kontakt). Pogledajte i [Google Search Console vodic](/blog/google-search-console-vodic-za-pocetnike-srbija-2026) za pracenje vasih backlink rezultata.
+`
+  },
+  {
     slug: 'google-ads-performance-max-srbija-2026',
     title: 'Google Ads Performance Max u Srbiji 2026: kada koristiti i kako postaviti',
     excerpt: 'Vodic za Google Performance Max kampanje na srpskom trzistu. Kada PMax radi bolje od Search-a, kako ga postaviti i sta ne raditi.',
