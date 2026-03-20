@@ -878,6 +878,22 @@ const SERVER_ROUTE_SCHEMAS = {
       url: SITE_URL,
     },
   },
+  '/marketing-agencija-vranje': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Marketing agencija Vranje',
+    serviceType: 'Digital marketing agency services',
+    url: `${SITE_URL}/marketing-agencija-vranje`,
+    areaServed: {
+      '@type': 'City',
+      name: 'Vranje',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
   '/in-house-tim-vs-agencija': {
     '@context': 'https://schema.org',
     '@type': 'Service',
@@ -1292,6 +1308,12 @@ const ogMeta = {
     description: 'Marketing agencija za Sremsku Mitrovicu i Sremski okrug: SEO, Google Ads i Meta kampanje za prehrambenu industriju, poljoprivredu i lokalne firme.',
     ogImage: `${SITE_URL}/pz-og.jpg`,
     ogImageAlt: 'Marketing agencija Sremska Mitrovica - digitalni marketing za Sremski okrug',
+  },
+  '/marketing-agencija-vranje': {
+    title: 'Marketing Agencija za Vranje | Digitalni Marketing | Platinum Zenith',
+    description: 'Marketing agencija za Vranje i Pcinski okrug: SEO, Google Ads i Meta kampanje za tekstilnu industriju, turizam i lokalne firme na jugu Srbije.',
+    ogImage: `${SITE_URL}/pz-og.jpg`,
+    ogImageAlt: 'Marketing agencija Vranje - digitalni marketing za Pcinski okrug',
   },
   '/web-shop-nema-prodaju': {
     title: 'Web Shop Nema Prodaju? 5 Razloga i Rešenja | Platinum Zenith',

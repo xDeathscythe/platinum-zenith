@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-19T22:28:32.346Z",
-  "routesChecked": 59,
+  "generatedAt": "2026-03-20T06:28:28.719Z",
+  "routesChecked": 61,
   "issueCount": 0,
   "checked": [
     {
@@ -1351,6 +1351,60 @@
       "route": "/marketing-agencija-smederevo",
       "component": "MarketingAgencijaSmederevoPage",
       "file": "src\\pages\\MarketingAgencijaSmederevoPage.jsx",
+      "sequence": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        2,
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 8,
+        "h3": 5,
+        "total": 14
+      }
+    },
+    {
+      "route": "/marketing-agencija-sremska-mitrovica",
+      "component": "MarketingAgencijaSremskaMitrovicaPage",
+      "file": "src\\pages\\MarketingAgencijaSremskaMitrovicaPage.jsx",
+      "sequence": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        2,
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 8,
+        "h3": 5,
+        "total": 14
+      }
+    },
+    {
+      "route": "/marketing-agencija-vranje",
+      "component": "MarketingAgencijaVranjePage",
+      "file": "src\\pages\\MarketingAgencijaVranjePage.jsx",
       "sequence": [
         1,
         2,
