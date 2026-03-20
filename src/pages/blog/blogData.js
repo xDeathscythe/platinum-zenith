@@ -1,5 +1,130 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'psihologija-kupovine-kako-sajt-utice-na-odluke-srbija-2026',
+    title: 'Psihologija kupovine: kako vas sajt utice na odluke kupaca u 2026',
+    excerpt: 'Kako koristiti psihologiju kupovine na sajtu da povecate prodaju. Social proof, urgency, anchoring i 7 drugih principa koji menjaju ponasanje kupaca.',
+    date: '2026-03-20',
+    category: 'CRO',
+    readTime: '8 min',
+    content: `
+## Kupci ne donose racionalne odluke (i to je vasa prednost)
+
+Vecina vlasnika sajtova dizajnira stranice kao da su kupci roboti koji uporeduju specifikacije i biraju najlogicniju opciju. U stvarnosti, 95% kupovnih odluka se donosi podsvesno -- na osnovu emocija, socijalnog pritiska i kognitivnih precica.
+
+To ne znaci da manipulisete kupce. Znaci da im olaksavate odluku tako sto koristite principe koji su duboko ukorenjeni u ljudskom ponasanju.
+
+Za tehnicku stranu optimizacije pogledajte [CRO vodic za srpske sajtove](/blog/optimizacija-konverzije-sajta-cro-srbija-2026) i [A/B testiranje vodic](/blog/ab-testiranje-sajta-srbija-2026).
+
+## 9 Principa psihologije kupovine za vas sajt
+
+### 1) Social Proof (Socijalni dokaz)
+
+Ljudi rade ono sto drugi ljudi rade. Ako vidim da je 500 ljudi kupilo ovaj proizvod i ostavilo 4.8 zvezdica, osecam se sigurnije da i ja kupim.
+
+**Kako primeniti:**
+- Recenzije kupaca sa pravim imenima i fotografijama (ne "Korisnik123")
+- Broj prodatih komada ("Preko 2.000 zadovoljnih kupaca")
+- Logotipi firmi sa kojima radite (za B2B)
+- "Najpopularnije" ili "Bestseller" oznake na proizvodima
+
+### 2) Urgency (Hitnost)
+
+Kad nesto moze da saceka -- sacekace zauvek. Urgency tera ljude da donesu odluku sada.
+
+**Kako primeniti:**
+- Ogranicena ponuda: "Popust vazi do petka"
+- Zalihe: "Ostalo jos 3 komada"
+- Tajmer koji odbrojava (ali mora biti ISTINIT -- lazni tajmeri unistav poverenje)
+- Sezonske ponude: "Letnja akcija -- samo ovog meseca"
+
+**Vazno:** Urgency mora biti iskrena. Ako kazete "ostala 2 komada" a imate magacin pun -- kupci ce shvatiti i nece vam verovati nikad vise.
+
+### 3) Anchoring (Sidrebnnje)
+
+Prva cena koju kupac vidi postaje "sidro" za sve buduce procene. Ako prvo vidi da proizvod kosta 15.000 RSD a onda vidi da je na popustu za 9.900 RSD -- 9.900 deluje kao odlicna ponuda. Bez sidra od 15.000, istih 9.900 bi mozda delovalo skupo.
+
+**Kako primeniti:**
+- Prikaz originalne cene precrtane pored nove
+- "Ustedite 5.000 RSD" poruka
+- Premium paket kao sidro za srednji paket (koji zelite da kupci biraju). Za pricing pogledajte [pricing strategija vodic](/blog/pricing-strategija-za-usluzne-firme-srbija-2026).
+
+### 4) Loss Aversion (Averzija prema gubitku)
+
+Ljudi osecaju gubitak 2x jace nego dobitak. "Ne propustite" je jace od "Uzmite".
+
+**Kako primeniti:**
+- "Ne propustite ovu ponudu" umesto "Iskoristite ovu ponudu"
+- "Gubite 3 potencijalna klijenta dnevno bez AI asistenta" umesto "Dobijte vise klijenata"
+- Probni period: "Probajte 14 dana besplatno" -- kad nesto vec imate, tesko je da se odreknete
+
+### 5) Reciprocity (Reciprocitet)
+
+Kad neko nesto da besplatno, osecamo obavezu da uzvratimo. To je zasto besplatni uzorci, vodicci i konsultacije rade tako dobro.
+
+**Kako primeniti:**
+- Besplatan vodic u zamenu za email (lead magnet). Pogledajte [vodic za email listu](/blog/email-lista-za-male-firme-srbija-2026).
+- Besplatan audit ili procena
+- Korisni blog postovi koji resavaju stvarne probleme (upravo to sto vi citate sada)
+
+### 6) Authority (Autoritet)
+
+Ljudi slusaju eksperte. Ako Google kaze da ste #1, ako imate 10 godina iskustva, ako ste radili sa poznatim brendovima -- to je autoritet.
+
+**Kako primeniti:**
+- Sertifikati i nagrade vidljive na sajtu
+- "Google Partner" ili "Meta Business Partner" bedz
+- Godine iskustva: "12 godina u digitalnom marketingu"
+- Gostovanja u medijima ili publikacijama
+
+### 7) Paradox of Choice (Paradoks izbora)
+
+Previse opcija paralizuje. Studjia o dzemu: kad su kupci imali 24 opcije, kupilo je 3%. Kad su imali 6 opcija, kupilo je 30%.
+
+**Kako primeniti:**
+- Ponudite 3 paketa (ne 7)
+- Na landing stranici: jedan proizvod, jedan CTA
+- Za e-commerce: "Preporucujemo" oznaka na jednom proizvodu umesto da kupac bira iz 50
+
+### 8) Commitment & Consistency (Doslednost)
+
+Kad neko napravi mali korak, verovatnije je da ce napraviti i veci. Zato "besplatan uzorak" vodi ka punoj kupovini.
+
+**Kako primeniti:**
+- Mikro-konverzije pre glavne: "Preuzmite besplatno" pre "Kupite"
+- Kviz koji vodi ka preporuci proizvoda
+- Email sekvenca koja gradi poverenje pre ponude. Pogledajte [email automatizaciju](/blog/email-automatizacija-za-webshop-srbija-2026).
+
+### 9) Framing (Uokviravanje)
+
+Ista informacija, razlicit okvir -- razlicit rezultat.
+- "95% kupaca je zadovoljno" > "5% kupaca je nezadovoljno"
+- "Ustedite 500 RSD" > "Kosta 500 RSD manje"
+- "Investicija od 1.000 EUR mesecno" > "Trošak od 1.000 EUR mesecno"
+
+## Kako kombinovati principe na jednoj stranici
+
+Primer optimizovane product stranice:
+
+1. **Naslov:** Benefit-fokusiran (ne samo ime proizvoda)
+2. **Social proof:** Zvezdice + broj recenzija odmah ispod naslova
+3. **Cena:** Originalna precrtana + nova cena (anchoring)
+4. **Urgency:** "Akcija do kraja meseca" ili "Ostalo 5 na stanju"
+5. **CTA:** Veliko dugme "Dodaj u korpu" (ne "Kupi" -- manji commitment)
+6. **Authority:** "Preporuceno od strane..." ili sertifikat
+7. **Reciprocity:** "Besplatna dostava za porudzbine preko 5.000 RSD"
+
+Za kompletnu CRO strategiju pogledajte [optimizaciju konverzije sajta](/blog/optimizacija-konverzije-sajta-cro-srbija-2026).
+
+## Gde NE treba koristiti ove principe
+
+- **Ne lazite:** Lazna urgency, lazne recenzije i lazni popusti unistav reputaciju. Pogledajte [upravljanje reputacijom](/blog/upravljanje-reputacijom-drustvene-mreze-srbija-2026).
+- **Ne manipulisite:** Cilj je da olaksate odluku, ne da prevarite kupca.
+- **Ne preterujte:** Stranica sa 5 tajmera, 10 pop-up-ova i blesavim bojama izgleda kao spam, ne kao profesionalan sajt.
+
+Za profesionalnu optimizaciju sajta i primenu ovih principa, javite se preko [kontakt forme](/kontakt).
+`
+  },
+  {
     slug: 'outsourcing-za-male-firme-srbija-2026',
     title: 'Outsourcing za male firme u Srbiji 2026: sta delegirati i koliko kosta',
     excerpt: 'Vodic za outsourcing za srpske preduzetnike. Koji poslovi se isplate delegirati, gde naci freelancere i kako kontrolisati kvalitet bez gubitka vremena.',

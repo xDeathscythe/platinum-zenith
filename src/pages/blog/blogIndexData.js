@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "psihologija-kupovine-kako-sajt-utice-na-odluke-srbija-2026",
+    "title": "Psihologija kupovine: kako vas sajt utice na odluke kupaca u 2026",
+    "excerpt": "Kako koristiti psihologiju kupovine na sajtu da povecate prodaju. Social proof, urgency, anchoring i 7 drugih principa koji menjaju ponasanje kupaca.",
+    "date": "2026-03-20",
+    "category": "CRO",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "outsourcing-za-male-firme-srbija-2026",
     "title": "Outsourcing za male firme u Srbiji 2026: sta delegirati i koliko kosta",
     "excerpt": "Vodic za outsourcing za srpske preduzetnike. Koji poslovi se isplate delegirati, gde naci freelancere i kako kontrolisati kvalitet bez gubitka vremena.",
