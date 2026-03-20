@@ -1399,6 +1399,17 @@ const ogMeta = {
     title: 'Marketing za Privatne Klinike u Srbiji | Platinum Zenith',
     description: 'Marketing za privatne klinike u Srbiji: Google Ads po specijalizaciji, lokalni SEO, sajt za zakazivanje i remarketing koji dovodi pacijente sa pravom namerom.',
   },
+  '/marketing-za-hotele-i-smestaj': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Marketing za hotele, apartmane i smestaj',
+    serviceType: 'Hospitality and tourism marketing',
+    url: `${SITE_URL}/marketing-za-hotele-i-smestaj`,
+    areaServed: { '@type': 'Country', name: 'Srbija' },
+    provider: { '@type': 'Organization', name: 'Platinum Zenith', url: SITE_URL },
+    title: 'Marketing za Hotele, Apartmane i Smestaj u Srbiji | Platinum Zenith',
+    description: 'Marketing za hotele i smestaj u Srbiji: SEO, Google Ads i sadrzaj koji puni sobe i smanjuje zavisnost od Booking-a.',
+  },
   '/marketing-za-privatne-vrtice': {
     title: 'Marketing za Privatne Vrtice u Srbiji | Platinum Zenith',
     description: 'Marketing za privatne vrtice u Srbiji: lokalni SEO, Google Ads, Instagram kampanje i sajt koji popunjavaju grupe kvalitetnim upisima tokom cele godine.',

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-20T10:30:52.151Z",
-  "routesChecked": 62,
+  "generatedAt": "2026-03-20T14:31:25.584Z",
+  "routesChecked": 63,
   "issueCount": 0,
   "checked": [
     {
@@ -1453,6 +1453,29 @@
         "h2": 8,
         "h3": 5,
         "total": 14
+      }
+    },
+    {
+      "route": "/marketing-za-hotele-i-smestaj",
+      "component": "MarketingZaHoteleISmestajPage",
+      "file": "src\\pages\\MarketingZaHoteleISmestajPage.jsx",
+      "sequence": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 7,
+        "h3": 2,
+        "total": 10
       }
     }
   ],

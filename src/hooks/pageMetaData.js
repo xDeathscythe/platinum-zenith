@@ -124,6 +124,14 @@ export const pageMeta = {
     og: { title: 'Marketing za Privatne Klinike u Srbiji | Platinum Zenith', description: 'Marketing za privatne klinike u Srbiji: Google Ads po specijalizaciji, lokalni SEO, sajt za zakazivanje i remarketing koji dovodi pacijente sa pravom namerom.' },
     twitter: { title: 'Marketing za Privatne Klinike u Srbiji | Platinum Zenith', description: 'Marketing za privatne klinike u Srbiji: Google Ads po specijalizaciji, lokalni SEO, sajt za zakazivanje i remarketing koji dovodi pacijente sa pravom namerom.' },
   },
+  '/marketing-za-hotele-i-smestaj': {
+    robots: 'index, follow',
+    title: 'Marketing za Hotele, Apartmane i Smestaj u Srbiji | Platinum Zenith',
+    description: 'Marketing za hotele i smestaj u Srbiji: SEO, Google Ads i sadrzaj koji puni sobe i smanjuje zavisnost od Booking-a.',
+    keywords: 'marketing za hotele, marketing za apartmane, digitalni marketing smestaj, google ads hotel, instagram hotel, seo za smestaj, direktne rezervacije hotel, marketing turizam srbija',
+    og: { title: 'Marketing za Hotele, Apartmane i Smestaj u Srbiji | Platinum Zenith', description: 'Marketing za hotele i smestaj u Srbiji: SEO, Google Ads i sadrzaj koji puni sobe i smanjuje zavisnost od Booking-a.' },
+    twitter: { title: 'Marketing za Hotele, Apartmane i Smestaj u Srbiji | Platinum Zenith', description: 'Marketing za hotele i smestaj u Srbiji: SEO, Google Ads i sadrzaj koji puni sobe i smanjuje zavisnost od Booking-a.' },
+  },
   '/marketing-za-privatne-vrtice': {
     robots: 'index, follow',
     title: 'Marketing za Privatne Vrtice u Srbiji | Platinum Zenith',
@@ -1190,6 +1198,104 @@ export const pageSchemas = {
             "acceptedAnswer": {
               "@type": "Answer",
               "text": "Da. Pilates studio, yoga sala, CrossFit box i boutique gym zahtevaju prilagodjen pristup jer zive od manjeg broja premium clanova, ali principi lokalnog marketinga su isti."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  '/marketing-za-hotele-i-smestaj': {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": `${SITE_URL}/marketing-za-hotele-i-smestaj#webpage`,
+        "url": `${SITE_URL}/marketing-za-hotele-i-smestaj`,
+        "name": "Marketing za Hotele, Apartmane i Smestaj u Srbiji | Platinum Zenith",
+        "description": "Marketing za hotele i smestaj u Srbiji: SEO, Google Ads i sadrzaj koji puni sobe i smanjuje zavisnost od Booking-a.",
+        "isPartOf": { "@id": `${SITE_URL}/#website` },
+        "about": { "@id": `${SITE_URL}/marketing-za-hotele-i-smestaj#service` },
+        "breadcrumb": { "@id": `${SITE_URL}/marketing-za-hotele-i-smestaj#breadcrumb` },
+        "mainEntity": [
+          { "@id": `${SITE_URL}/marketing-za-hotele-i-smestaj#service` },
+          { "@id": `${SITE_URL}/marketing-za-hotele-i-smestaj#faq` }
+        ],
+        "potentialAction": {
+          "@type": "ContactAction",
+          "name": "Zakazite analizu objekta",
+          "target": `${SITE_URL}/kontakt`
+        }
+      },
+      {
+        "@type": "Service",
+        "@id": `${SITE_URL}/marketing-za-hotele-i-smestaj#service`,
+        "name": "Marketing za hotele, apartmane i smestaj",
+        "serviceType": "Hospitality and tourism marketing",
+        "url": `${SITE_URL}/marketing-za-hotele-i-smestaj`,
+        "mainEntityOfPage": { "@id": `${SITE_URL}/marketing-za-hotele-i-smestaj#webpage` },
+        "provider": { "@id": `${SITE_URL}/#organization` },
+        "areaServed": { "@type": "Country", "name": "Srbija" },
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "Marketing usluge za hotele i smestaj",
+          "itemListElement": [
+            { "@type": "Offer", "name": "Google Ads za hotele i smestaj" },
+            { "@type": "Offer", "name": "Lokalni SEO i Google Business za smestajne objekte" },
+            { "@type": "Offer", "name": "Instagram i Meta kampanje za rezervacije" },
+            { "@type": "Offer", "name": "Sajt sa booking engine-om za direktne rezervacije" }
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": `${SITE_URL}/marketing-za-hotele-i-smestaj#breadcrumb`,
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Pocetna", "item": SITE_URL },
+          { "@type": "ListItem", "position": 2, "name": "Marketing za hotele i smestaj", "item": `${SITE_URL}/marketing-za-hotele-i-smestaj` }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "@id": `${SITE_URL}/marketing-za-hotele-i-smestaj#faq`,
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Da li marketing moze da smanji zavisnost od Booking-a i Airbnb-a?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Da, i to je jedan od glavnih ciljeva. Kroz SEO, Google Ads i remarketing gradimo kanal direktnih rezervacija koji ne placa proviziju. OTA platforme i dalje koristimo za vidljivost, ali cilj je da sve veci deo gostiju rezervise direktno."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Koliko brzo mogu da ocekujem rezultate?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Google Ads kampanje mogu doneti prve upite za rezervaciju vec u prvoj nedelji. Lokalni SEO i sadrzaj daju rezultate kroz 2 do 4 meseca. Realan cilj za prvih 90 dana je merljiv porast direktnih rezervacija i smanjenje zavisnosti od posrednika."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Koji budzet je realan za pocetak?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Za Google Ads u turizmu, realan start je 400 do 800 evra mesecno za ad spend, zavisno od destinacije i konkurencije. Za Meta kampanje van sezone, 200 do 500 evra moze popuniti praznine. Plus fee za vodjenje i optimizaciju."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Radite li samo sa hotelima ili i sa apartmanima i vilama?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Radimo sa svim tipovima smestaja: hoteli, apartmani, vile, etno sela, banje, hosteli i glamping objekti. Pristup prilagodjujemo tipu objekta, kapacitetu i ciljnoj publici."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Da li mi treba poseban sajt ili je dovoljan Booking profil?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Booking profil je neophodan za vidljivost, ali direktne rezervacije bez provizije zahtevaju sopstveni sajt sa booking engine-om. Razlika od 15 do 25 posto provizije po rezervaciji brzo opravdava ulaganje u sajt."
             }
           }
         ]
