@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-20T06:28:28.719Z",
-  "routesChecked": 61,
+  "generatedAt": "2026-03-20T10:30:52.151Z",
+  "routesChecked": 62,
   "issueCount": 0,
   "checked": [
     {
@@ -1405,6 +1405,33 @@
       "route": "/marketing-agencija-vranje",
       "component": "MarketingAgencijaVranjePage",
       "file": "src\\pages\\MarketingAgencijaVranjePage.jsx",
+      "sequence": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        2,
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 8,
+        "h3": 5,
+        "total": 14
+      }
+    },
+    {
+      "route": "/marketing-agencija-sombor",
+      "component": "MarketingAgencijaSomborPage",
+      "file": "src\\pages\\MarketingAgencijaSomborPage.jsx",
       "sequence": [
         1,
         2,

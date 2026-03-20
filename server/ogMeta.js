@@ -894,6 +894,22 @@ const SERVER_ROUTE_SCHEMAS = {
       url: SITE_URL,
     },
   },
+  '/marketing-agencija-sombor': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Marketing agencija Sombor',
+    serviceType: 'Digital marketing agency services',
+    url: `${SITE_URL}/marketing-agencija-sombor`,
+    areaServed: {
+      '@type': 'City',
+      name: 'Sombor',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
   '/in-house-tim-vs-agencija': {
     '@context': 'https://schema.org',
     '@type': 'Service',
@@ -1315,6 +1331,12 @@ const ogMeta = {
     ogImage: `${SITE_URL}/pz-og.jpg`,
     ogImageAlt: 'Marketing agencija Vranje - digitalni marketing za Pcinski okrug',
   },
+    '/marketing-agencija-sombor': {
+      title: 'Marketing Agencija za Sombor | Digitalni Marketing | Platinum Zenith',
+      description: 'Marketing agencija za Sombor i Zapadnobacki okrug: SEO, Google Ads i Meta kampanje za lokalne firme u zapadnoj Vojvodini.',
+      ogImage: `${SITE_URL}/pz-og.jpg`,
+      ogImageAlt: 'Marketing agencija Sombor - digitalni marketing za Zapadnobacki okrug',
+    },
   '/web-shop-nema-prodaju': {
     title: 'Web Shop Nema Prodaju? 5 Razloga i Rešenja | Platinum Zenith',
     description: 'Vaš web shop ima posete, ali nema prodaju? Otkrivamo 5 najčešćih razloga, konkretna rešenja za svaki problem i korake za brže podizanje konverzije.',

@@ -1,8 +1,23 @@
 {
-  "generatedAt": "2026-03-20T06:28:31.531Z",
-  "postsChecked": 159,
+  "generatedAt": "2026-03-20T10:30:55.061Z",
+  "postsChecked": 162,
   "issueCount": 0,
   "checked": [
+    {
+      "route": "/blog/backlink-strategija-za-srpske-sajtove-2026",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-ads-performance-max-srbija-2026",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/webinari-za-lead-generation-srbija-2026",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
     {
       "route": "/blog/outsourcing-za-male-firme-srbija-2026",
       "serviceHits": 2,
