@@ -1,5 +1,127 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'optimizacija-product-stranice-e-commerce-srbija-2026',
+    title: 'Optimizacija product stranice za e-commerce u Srbiji 2026: 12 elemenata koji prodaju',
+    excerpt: 'Kako optimizovati stranicu proizvoda za vise prodaje. 12 elemenata koje svaki webshop u Srbiji mora da ima na product stranici da bi konvertovao.',
+    date: '2026-03-20',
+    category: 'E-Commerce',
+    readTime: '8 min',
+    content: `
+## Product stranica je mesto gde se desava (ili ne desava) prodaja
+
+Mozete imati savrsene reklame, odlican SEO i hiljade posetilaca -- ali ako product stranica ne ubedi kupca da klikne "Dodaj u korpu", sve je uzalud.
+
+U srpskom e-commerce-u, prosecna stopa konverzije product stranice je 1.5-3%. To znaci da od 100 ljudi koji pogledaju proizvod, 97-98 ode bez kupovine. Optimizacijom elemenata na ovoj stranici mozete podici konverziju na 4-6% -- sto je dvostruko vise prodaja sa istim saobracajem.
+
+Za siru sliku e-commerce troskova pogledajte [kako pokrenuti online prodavnicu](/blog/kako-pokrenuti-online-prodavnicu-srbija-2026). Za CRO principe pogledajte [optimizaciju konverzije sajta](/blog/optimizacija-konverzije-sajta-cro-srbija-2026).
+
+## 12 Elemenata product stranice koji prodaju
+
+### 1) Profesionalne fotografije (minimum 5)
+
+Kupac ne moze da dotakne proizvod. Fotografija je jedini nacin da ga "oseti". Minimum 5 slika:
+- Glavna slika (proizvod na cistoj pozadini)
+- 2 slike iz razlicitih uglova
+- 1 slika sa dimenzijama ili u kontekstu (proizvod u ruci, na stolu, na coveku)
+- 1 slika detalja (tekstura, sav, etiketa)
+
+**WebP format** za brze ucitavanje. Lazy loading za slike ispod fold-a. Za tehnicku optimizaciju pogledajte [WordPress speed vodic](/blog/ubrzavanje-wordpress-sajta-tehnicki-seo-srbija-2026).
+
+### 2) Naslov sa beneftom (ne samo ime proizvoda)
+
+**Lose:** "Crna kozna torba M-200"
+**Dobro:** "Crna kozna torba za laptop 15.6 inch -- vodootporna, sa garantijom 3 godine"
+
+Naslov treba da sadrzi: sta je + za koga je + kljucni benefit.
+
+### 3) Cena (vidljiva, jasna, bez iznenaddjenja)
+
+Cena mora biti vidljiva bez skrolovanja. Ako imate popust, prikazite originalnu cenu precrtanu i novu cenu pored (anchoring efekat). Za psihologiju cena pogledajte [psihologija kupovine vodic](/blog/psihologija-kupovine-kako-sajt-utice-na-odluke-srbija-2026).
+
+Ako cena ukljucuje PDV, napisite to. Ako dostava nije besplatna, prikazite procenjeni trosak dostave odmah -- ne na checkout-u.
+
+### 4) CTA dugme "Dodaj u korpu" (veliko i kontrastno)
+
+CTA mora biti:
+- Iznad fold-a (vidljivo bez skrolovanja)
+- Kontrastne boje u odnosu na ostatak stranice
+- Tekst: "Dodaj u korpu" (ne "Kupi" -- manji commitment)
+- Minimum 44px visina (touch-friendly za mobilne)
+
+### 5) Kratki opis (above fold)
+
+2-3 recenice koje sazetro opisuju zasto kupac treba ovaj proizvod. Ne tehnicke specifikacije -- benefite. "Idealna za svakodnevnu upotrebu. Staje laptop, dokumenta i licne stvari. Vodootporni materijal za kisne dane."
+
+### 6) Detaljni opis (below fold)
+
+Posle CTA dugmeta, dodajte detaljniji opis sa:
+- Materijal i sastav
+- Dimenzije i tezina
+- Uputstvo za koriscenje/odrzavanje
+- Cemu sluzi i za koga je namenjen
+
+Koristite H2/H3 naslove i bullet poene -- niko ne cita paragraf od 500 reci na product stranici.
+
+### 7) Recenzije kupaca (social proof)
+
+Proizvodi sa recenzijama se prodaju 270% vise od proizvoda bez recenzija. Minimum sto vam treba:
+- Zvezdice (1-5) vidljive odmah ispod naslova
+- Broj recenzija
+- 3-5 tekst recenzija sa imenom kupca
+
+Za prikupljanje recenzija pogledajte [customer retention vodic](/blog/zadrzavanje-kupaca-customer-retention-srbija-2026).
+
+### 8) Trust signali pored CTA dugmeta
+
+Neposredno pored "Dodaj u korpu" stavite:
+- "Besplatna dostava" ikonica (ako nudite)
+- "Povrat u roku od 14 dana" 
+- "Sigurno placanje" sa ikonicama kartica
+- "Dostava za 1-3 radna dana"
+
+### 9) Dostupnost na stanju
+
+"Na stanju" (zeleno) ili "Ostalo jos 3 komada" (urgency). Nikad ne prikazujte "Nema na stanju" bez alternative ("Obavestite me kad stigne").
+
+### 10) Cross-sell i upsell
+
+**Cross-sell:** "Kupci koji su kupili ovo takodje su kupili..." -- 3-4 komplementarna proizvoda.
+**Upsell:** "Nadogradite na Premium verziju za samo 2.000 RSD vise."
+
+Ovo povecava prosecnu vrednost korpe za 15-25%. Za email cross-sell pogledajte [email automatizaciju](/blog/email-automatizacija-za-webshop-srbija-2026).
+
+### 11) FAQ sekcija na product stranici
+
+Odgovorite na 3-5 najcescih pitanja direktno na stranici proizvoda. Ovo smanjuje potrebu za customer support-om i uklanda sumnje pre kupovine. Bonus: FAQ schema markup za SEO.
+
+### 12) Structured data (Schema markup)
+
+Product schema govori Google-u cenu, dostupnost, recenzije i slike. Rezultat: rich snippets u Google rezultatima sa zvezdicama i cenom -- sto povecava CTR za 30-40%.
+
+Za WooCommerce, vecina tema automatski dodaje Product schema. Proverite sa Google Rich Results Test (search.google.com/test/rich-results).
+
+## Mobile-first product stranica
+
+70%+ kupaca u Srbiji kupuje sa telefona. Na mobilnom:
+- Slike moraju biti swipe-able (galerija, ne jedna slika)
+- CTA dugme mora biti sticky (prati korisnika dok skroluje)
+- Cena uvek vidljiva
+- Forme za varijacije (velicina, boja) dovoljno velike za prst
+
+Za mobilni dizajn pogledajte [mobilni dizajn vodic](/blog/mobilni-dizajn-sajta-srbija-2026).
+
+## Najcesce greske na product stranicama u Srbiji
+
+- **Jedna slika** -- kupac ne moze da donese odluku na osnovu jedne fotografije
+- **Opis copy-paste od dobavljaca** -- Google kaznjava duplikat sadrzaj; napisite sopstveni opis
+- **Skrivena cena** -- "Kontaktirajte nas za cenu" ubija konverziju na e-commerce-u
+- **Nema recenzija** -- cak i 3 recenzije su bolje od nula
+- **Spor sajt** -- svaka sekunda ucitavanja preko 3 sekunde kosta 20% konverzije
+
+Za profesionalnu optimizaciju vaseg webshopa i product stranica, javite se preko [kontakt forme](/kontakt). Za cene izrade pogledajte [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+`
+  },
+  {
     slug: 'backlink-strategija-za-srpske-sajtove-2026',
     title: 'Backlink strategija za srpske sajtove 2026: kako dobiti linkove koji pomazu SEO',
     excerpt: 'Kako izgraditi kvalitetne backlinkove za sajt u Srbiji 2026. Besplatne metode, outreach sablon, srpski portali za guest postove i sta izbegavati.',

@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "optimizacija-product-stranice-e-commerce-srbija-2026",
+    "title": "Optimizacija product stranice za e-commerce u Srbiji 2026: 12 elemenata koji prodaju",
+    "excerpt": "Kako optimizovati stranicu proizvoda za vise prodaje. 12 elemenata koje svaki webshop u Srbiji mora da ima na product stranici da bi konvertovao.",
+    "date": "2026-03-20",
+    "category": "E-Commerce",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "backlink-strategija-za-srpske-sajtove-2026",
     "title": "Backlink strategija za srpske sajtove 2026: kako dobiti linkove koji pomazu SEO",
     "excerpt": "Kako izgraditi kvalitetne backlinkove za sajt u Srbiji 2026. Besplatne metode, outreach sablon, srpski portali za guest postove i sta izbegavati.",
