@@ -1,5 +1,129 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'facebook-ads-za-e-commerce-srbija-2026',
+    title: 'Facebook Ads za e-commerce u Srbiji 2026: struktura kampanja koja donosi prodaju',
+    excerpt: 'Kako strukturisati Facebook Ads kampanje za online prodavnicu u Srbiji. Funnel od awareness do remarketing, kreativa, budzeti i realni ROAS benchmarci.',
+    date: '2026-03-20',
+    category: 'Facebook Ads',
+    readTime: '8 min',
+    content: `
+## Zasto vecina webshopova u Srbiji gubi novac na Facebook Ads
+
+Tipican scenario: vlasnik webshopa boost-uje post sa slikom proizvoda, potrosssi 100 EUR, dobije 5.000 pregleda i 0 prodaja. Zakljuci da "Facebook ne radi za prodaju" i vrati se na organske objave.
+
+Problem nije Facebook. Problem je odsustvo strukture. Boost post nije kampanja. Kampanja je sistem koji vodi kupca od "nikad cuo za vas" do "upravo kupio".
+
+Za pregled troskova pogledajte [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama). Za remarketing strategiju pogledajte [Facebook Ads remarketing vodic](/blog/facebook-ads-remarketing-strategija-srbija-2026).
+
+## 3-Fazni funnel za e-commerce na Facebooku
+
+### Faza 1: Top of Funnel -- Awareness (40% budzeta)
+
+Cilj: prikazite vas brend i proizvode ljudima koji vas ne poznaju.
+
+**Tip kampanje:** Traffic ili Video Views
+**Publika:** Broad targeting (samo Srbija + starost + pol) ili Lookalike 1% na osnovu kupaca
+**Kreativa:** Video 15-30 sekundi koji pokazuje proizvod u upotrebi. Lifestyle sadrzaj, ne katalog. Pogledajte [video marketing vodic](/blog/video-marketing-za-male-firme-srbija-2026).
+**Budzet:** 5-15 EUR dnevno
+**Metrika:** CPM (cena za 1.000 prikaza), Video Watch Rate, Outbound CTR
+
+**Primer za fashion webshop:** Video "Jesen/Zima kolekcija 2026" sa modelom koji nosi vase komade. 20 sekundi, sa muzikom, bez teksta. Cilj: ljudi da vas zapamte.
+
+### Faza 2: Middle of Funnel -- Consideration (30% budzeta)
+
+Cilj: ljudima koji su videli Fazu 1 pokazite zasto da kupe BAS od vas.
+
+**Tip kampanje:** Engagement ili Catalog Sales (Dynamic Ads)
+**Publika:** 
+- Video viewers (75%+ pogledali video iz Faze 1)
+- Website visitors (poslednjih 30 dana)
+- Engagers (lajkovali, komentarisali, podelili)
+**Kreativa:** Carousel sa najboljim proizvodima, testimonijali kupaca, UGC (user generated content), edukativni sadrzaj ("Kako odabrati pravu velicinu")
+**Budzet:** 5-10 EUR dnevno
+**Metrika:** CTR, CPC, Add-to-Cart rate
+
+### Faza 3: Bottom of Funnel -- Conversion (30% budzeta)
+
+Cilj: naterajte ljude koji su vec pokazali interes da zavrse kupovinu.
+
+**Tip kampanje:** Conversions (Purchase) ili Catalog Sales (Retargeting)
+**Publika:**
+- Add-to-Cart ali nije kupio (poslednjih 7 dana)
+- Viewed Content ali nije dodao u korpu (poslednjih 14 dana)
+- Checkout Started ali nije zavrsio (poslednjih 3 dana)
+**Kreativa:** Dynamic Product Ads (automatski prikazuju proizvode koje je osoba gledala), popust/besplatna dostava ponuda, urgency ("Ostalo 3 na stanju")
+**Budzet:** 5-10 EUR dnevno
+**Metrika:** ROAS, CPA, Purchase volume
+
+## Realni ROAS benchmarci za Srbiju 2026
+
+ROAS (Return on Ad Spend) = Prihod od kampanje / Potroseno na kampanju
+
+- **Fashion/Odeca:** ROAS 3-5x (potrosite 1 EUR, zaradite 3-5 EUR)
+- **Kozmetika:** ROAS 4-7x (visoke marze)
+- **Hrana/Suplementi:** ROAS 2-4x (nize marze ali cesta ponovljena kupovina)
+- **Elektronika:** ROAS 2-3x (nize marze, visa konkurencija)
+- **Kuci dekor:** ROAS 3-5x (visa prosecna vrednost korpe)
+
+**Minimum za profitabilnost:** ROAS 2x (pokrivate troskove proizvoda + dostave + oglasa). Sve iznad 3x je zdravo. Za detaljno merenje pogledajte [kako meriti ROI](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
+
+## Kreativa koja prodaje na Facebooku za e-commerce
+
+### 1) UGC (User Generated Content) stil
+
+Snimak "obicnog" kupca koji otpakuje i pokazuje proizvod. Izgleda autenticno, ne kao reklama. Konvertuje 2-3x bolje od profesionalnih studijskih snimaka.
+
+### 2) Before/After
+
+Idealno za kozmetiku, fitness, renoviranje. Vizuelna promena je najjaci prodajni argument.
+
+### 3) Problem-Solution
+
+"Umeseni ste od kise? Nasa jakna je vodootporna. Testirano na kiisi od 50mm/h." Pokazi problem, pokazi resenje, pozovi na akciju.
+
+### 4) Collection Ads
+
+Hero slika ili video + 4 proizvoda ispod. Kupac pregleda mini-katalog bez napustanja Facebooka. Idealno za nove kolekcije ili "best of" selekciju.
+
+## Facebook Pixel: temelj svega
+
+Bez pravilno postavljenog Pixela, Facebook kampanje za e-commerce su slepe. Pixel mora pratiti:
+
+- **ViewContent** -- posetio stranicu proizvoda
+- **AddToCart** -- dodao u korpu
+- **InitiateCheckout** -- poceo checkout
+- **Purchase** -- zavrsio kupovinu (sa vrednoscu)
+
+Za WooCommerce: "Facebook for WooCommerce" plugin automatski postavlja sve evente. Za Instagram Shopping integraciju pogledajte [Instagram Shopping vodic](/blog/instagram-shopping-srbija-2026-vodic-za-e-commerce).
+
+## Budzet plan za webshop sa 300-1.000 EUR mesecno
+
+### 300 EUR mesecno (pocetak)
+- TOF (Awareness): 120 EUR (4 EUR/dan)
+- MOF (Retargeting engagers): 90 EUR (3 EUR/dan)  
+- BOF (Cart abandoners): 90 EUR (3 EUR/dan)
+
+### 600 EUR mesecno (rast)
+- TOF: 240 EUR (8 EUR/dan) -- testiranje vise kreativa
+- MOF: 180 EUR (6 EUR/dan) -- Dynamic Ads + testimonijali
+- BOF: 180 EUR (6 EUR/dan) -- urgency + popusti
+
+### 1.000 EUR mesecno (skaliranje)
+- TOF: 400 EUR -- Broad + Lookalike publike
+- MOF: 300 EUR -- Collection Ads + UGC
+- BOF: 300 EUR -- Dynamic retargeting + email remarketing
+
+## Najcesce greske e-commerce Facebook kampanja
+
+- **Samo BOF bez TOF:** Ako ne punite vrh levka novim ljudima, remarketing publika se brzo iscrpi.
+- **Jedna kreativa za sve:** TOF treba brand awareness sadrzaj. BOF treba urgency i popuste. Razlicite faze zahtevaju razlicite poruke.
+- **Boost Post umesto Ads Manager:** Boost je najskuplji i najnefekasniji nacin oglasavanja na Facebooku. Uvek koristite Ads Manager.
+- **Nema testiranja:** Pustite 3-5 varijanti kreative istovremeno. Posle 7 dana, gasaete gubitnike i skalirajte pobednike. Za testiranje pogledajte [A/B testing vodic](/blog/ab-testiranje-sajta-srbija-2026).
+
+Za profesionalno vodjenje Facebook kampanja za vas webshop, javite se preko [kontakt forme](/kontakt). Za optimizaciju product stranica pogledajte [product page vodic](/blog/optimizacija-product-stranice-e-commerce-srbija-2026).
+`
+  },
+  {
     slug: 'optimizacija-product-stranice-e-commerce-srbija-2026',
     title: 'Optimizacija product stranice za e-commerce u Srbiji 2026: 12 elemenata koji prodaju',
     excerpt: 'Kako optimizovati stranicu proizvoda za vise prodaje. 12 elemenata koje svaki webshop u Srbiji mora da ima na product stranici da bi konvertovao.',

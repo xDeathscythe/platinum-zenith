@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "facebook-ads-za-e-commerce-srbija-2026",
+    "title": "Facebook Ads za e-commerce u Srbiji 2026: struktura kampanja koja donosi prodaju",
+    "excerpt": "Kako strukturisati Facebook Ads kampanje za online prodavnicu u Srbiji. Funnel od awareness do remarketing, kreativa, budzeti i realni ROAS benchmarci.",
+    "date": "2026-03-20",
+    "category": "Facebook Ads",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "optimizacija-product-stranice-e-commerce-srbija-2026",
     "title": "Optimizacija product stranice za e-commerce u Srbiji 2026: 12 elemenata koji prodaju",
     "excerpt": "Kako optimizovati stranicu proizvoda za vise prodaje. 12 elemenata koje svaki webshop u Srbiji mora da ima na product stranici da bi konvertovao.",
