@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-20T18:28:59.023Z",
-  "postsChecked": 165,
+  "generatedAt": "2026-03-20T22:28:51.320Z",
+  "postsChecked": 166,
   "issueCount": 0,
   "checked": [
     {
@@ -826,6 +826,11 @@
     {
       "route": "/blog/seo-za-stomatologe-cena-srbija-2026",
       "serviceHits": 2,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/instagram-reklame-za-hotele-i-smestaj-cena-rezervacije-srbija-2026",
+      "serviceHits": 3,
       "hasKontakt": true
     }
   ],

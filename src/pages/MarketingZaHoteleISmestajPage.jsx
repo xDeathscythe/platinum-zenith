@@ -126,6 +126,11 @@ const relatedLinks = [
     desc: 'Detaljan vodic o tipovima kampanja, budzetima i ceni po direktnoj rezervaciji za smestajne objekte u Srbiji.',
   },
   {
+    to: '/blog/instagram-reklame-za-hotele-i-smestaj-cena-rezervacije-srbija-2026',
+    title: 'Instagram reklame za hotele i smestaj',
+    desc: 'Vizuelne kampanje, budzeti po tipu objekta i strategija za direktne rezervacije umesto OTA provizija.',
+  },
+  {
     to: '/google-reklame-cena',
     title: 'Google reklame cena',
     desc: 'Koliko kosta da uhvatite goste koji traze smestaj u vasem gradu ili na vasoj destinaciji.',

@@ -1909,5 +1909,14 @@ export const blogIndexPosts = [
     "category": "Lokalni SEO",
     "readTime": "11 min",
     "isDraft": false
+  },
+  {
+    "slug": "instagram-reklame-za-hotele-i-smestaj-cena-rezervacije-srbija-2026",
+    "title": "Instagram reklame za hotele i smestaj u Srbiji 2026: cena po rezervaciji i strategija",
+    "excerpt": "Koliko kostaju Instagram reklame za hotele, apartmane i vile u Srbiji. Tipovi kampanja, budzeti, kreativa koja privlaci goste i strategija za direktne rezervacije.",
+    "date": "2026-03-20",
+    "category": "Instagram Ads",
+    "readTime": 10,
+    "isDraft": false
   }
 ]
