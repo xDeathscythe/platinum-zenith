@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "webinari-za-lead-generation-srbija-2026",
+    "title": "Webinari za lead generation u Srbiji 2026: kako privuci kvalifikovane upite",
+    "excerpt": "Kako koristiti webinare za generisanje B2B i B2C leadova u Srbiji. Platforma, promocija, prezentacija i follow-up koji zatvara prodaje.",
+    "date": "2026-03-20",
+    "category": "Lead Generation",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "psihologija-kupovine-kako-sajt-utice-na-odluke-srbija-2026",
     "title": "Psihologija kupovine: kako vas sajt utice na odluke kupaca u 2026",
     "excerpt": "Kako koristiti psihologiju kupovine na sajtu da povecate prodaju. Social proof, urgency, anchoring i 7 drugih principa koji menjaju ponasanje kupaca.",

@@ -1,5 +1,115 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'webinari-za-lead-generation-srbija-2026',
+    title: 'Webinari za lead generation u Srbiji 2026: kako privuci kvalifikovane upite',
+    excerpt: 'Kako koristiti webinare za generisanje B2B i B2C leadova u Srbiji. Platforma, promocija, prezentacija i follow-up koji zatvara prodaje.',
+    date: '2026-03-20',
+    category: 'Lead Generation',
+    readTime: '8 min',
+    content: `
+## Zasto su webinari najefikasniji lead magnet za skupe usluge
+
+Email vodic privlaci ljude koji traze besplatnu informaciju. Webinar privlaci ljude koji su spremni da izdvoje 45-60 minuta svog vremena da vas saslusaju. To je potpuno drugaciji nivo namere.
+
+Firme koje prodaju usluge vredne 1.000+ EUR (agencije, konsultanti, softver, edukacija) imaju najvisi ROI od webinara jer:
+- Ucesnik vidi vase lice i glas (poverenje)
+- Imate 45-60 minuta da demonstrirate ekspertizu (ne 5 sekundi kao oglas)
+- Stopa konverzije iz webinara u prodaju je 5-20% (uporedite sa 1-3% za hladni saobracaj)
+- Svaki ucesnik je dao ime, email i potvrdio prisustvo (kvalifikovan lead)
+
+Za ostale lead generation taktike pogledajte [vodic za email listu](/blog/email-lista-za-male-firme-srbija-2026) i [Google reklame cena](/google-reklame-cena) i [landing stranica vodic](/blog/kako-napraviti-landing-stranicu-koja-konvertuje-srbija-2026).
+
+## Koje platforme koristiti za webinare u Srbiji
+
+### Besplatne opcije
+
+**Zoom Free** -- do 40 minuta sa 100 ucesnika. Dovoljno za pocetak, ali vremensko ogranicenje pritiska.
+
+**Google Meet** -- bez vremenskog ogranicenja za Google Workspace korisnike. Jednostavno, radi u browseru.
+
+**YouTube Live** -- neograniceno trajanje, neogranicen broj gledalaca. Nema interakciju kao Zoom ali odlicno za vece dogadjaje. Snimak ostaje na kanalu zauvek.
+
+### Placene opcije (kad porastate)
+
+**Zoom Pro** (14 USD/mesecno) -- bez vremenskog limita, snimanje, breakout sobe, ankete.
+
+**Demio / WebinarJam** -- specijalizovane za marketing webinare sa ugradjenim landing stranicama, email sekvencama i analitikom.
+
+## Anatomija webinara koji konvertuje
+
+### Pre webinara (Promocija)
+
+**Landing stranica za registraciju:**
+- Naslov sa jasnim benefitom: "Naucite kako da dobijete 20 novih klijenata mesecno bez povecanja budzeta"
+- 3-4 bullet poena sta ce ucesnik nauciti
+- Datum, vreme i trajanje
+- Forma: ime + email (to je sve sto treba)
+
+**Promocija:**
+- Email lista (ako imate) -- 2 emaila: najava + podsecanje dan pre
+- Facebook/Instagram oglas ciljen na vasu ciljnu grupu -- budzet 50-150 EUR za 100-300 registracija
+- LinkedIn post i oglas za B2B webinare. Pogledajte [LinkedIn reklame vodic](/blog/linkedin-reklame-cena-b2b-marketing-srbija-2026).
+- Organsko deljenje na drustvenim mrezama
+
+**Ocekivanja:** 30-50% registrovanih ce se zaista pojaviti. Ako imate 200 registracija, ocekujte 60-100 uzivo gledalaca.
+
+### Tokom webinara (Prezentacija)
+
+**Struktura koja radi (60 minuta):**
+
+**0-5 min: Uvodenje.** Ko ste, zasto ste kvalifikovani da pricatae o ovoj temi. Kratko, bez hvalisanja.
+
+**5-35 min: Edukativni deo.** Pruuzite STVARNU vrednost. Ne 30 minuta reklamiranja. Naucite ih nesto konkretno sto mogu da primene vec danas. Ljudi koji dobiju vrednost besplatno veruju da ce za novac dobiti jos vise.
+
+**35-45 min: Tranzicija ka ponudi.** "Upravo ste videli kako X radi. Sada cu vam pokazati kako mi radimo ovo za nase klijente..." Prikaz studije slucaja, rezultati, proces saradnje.
+
+**45-55 min: Ponuda.** Jasna, konkretna ponuda sa rokom. "Za sve ucesnike ovog webinara: besplatan audit vaseg sajta + 20% popust na prvi mesec saradnje -- vazi do petka."
+
+**55-60 min: Q&A.** Odgovarajte na pitanja uzivo. Ovo je najjaci deo -- ljudi koji postavljaju pitanja su najblizi kupovini.
+
+### Posle webinara (Follow-up)
+
+Ovo je gde se zapravo desava prodaja. Vecina ucesnika nece kupiti tokom webinara -- ali 70% ce kupiti u sledecih 7 dana ako ih pravilno follow-up-ujete.
+
+**Dan 0 (odmah posle):** Email sa snimkom webinara + prezentacijom + ponovljena ponuda.
+
+**Dan 1:** Email sa studijom slucaja ili testimonijalom koji podrzava ono sto ste pricali.
+
+**Dan 3:** "Imate li pitanja?" -- licna poruka, ne masovna. Za B2B mozete i nazvati telefontom. Pogledajte [vodic za B2B prodaju](/blog/b2b-prodaja-kako-zatvoriti-klijenta-srbija-2026).
+
+**Dan 5:** Podsecanje na rok ponude. "Vasa ekskluzivna ponuda istice za 48h."
+
+**Dan 7:** Poslednji email. "Ponuda je istekla, ali ako zelite da razgovaramo, javite se." Za email automatizaciju pogledajte [email automatizaciju za webshop](/blog/email-automatizacija-za-webshop-srbija-2026).
+
+## Koliko kosta i koliko donosi
+
+### Troskovi jednog webinara
+
+- Platforma: 0-14 USD (Zoom Free/Pro)
+- Promocija: 50-150 EUR (Facebook/Instagram Ad)
+- Vase vreme: 4-6 sati (priprema + prezentacija + follow-up)
+- **Ukupno: 50-170 EUR**
+
+### Ocekivani rezultati
+
+Sa 100 registracija i 50 ucesnika:
+- 5-10 ozbiljnih upita (10-20% konverzija iz webinara)
+- 2-5 zatvorenih prodaja u narednih 30 dana
+- Ako vasa usluga vredi 1.000 EUR, to je 2.000-5.000 EUR od jednog webinara
+
+**ROI: 10-30x ulozenog.** Malo koji marketing kanal moze da se meri sa ovim.
+
+## Najcesce greske na webinarima u Srbiji
+
+- **Previse prodaje, premalo vrednosti:** Ako 40 od 60 minuta reklamirate, ljudi odlaze. Pravilo 80/20: 80% edukacija, 20% ponuda.
+- **Los zvuk:** Investirajte 30 EUR u USB mikrofon. Los zvuk je razlog #1 zasto ljudi napustaju webinar u prvih 5 minuta.
+- **Nema follow-up-a:** 70% prodaja se desava POSLE webinara. Bez email sekvence, gubite vecinu potencijala.
+- **Predugacak webinar:** 45-60 minuta je optimalno. Preko 90 minuta -- ljudi gube koncentraciju.
+
+Za pomoc sa organizacijom webinara i marketing funnel-om koji konvertuje ucesnike u klijente, javite se preko [kontakt forme](/kontakt). Za merenje rezultata pogledajte [kako meriti ROI](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
+`
+  },
+  {
     slug: 'psihologija-kupovine-kako-sajt-utice-na-odluke-srbija-2026',
     title: 'Psihologija kupovine: kako vas sajt utice na odluke kupaca u 2026',
     excerpt: 'Kako koristiti psihologiju kupovine na sajtu da povecate prodaju. Social proof, urgency, anchoring i 7 drugih principa koji menjaju ponasanje kupaca.',
