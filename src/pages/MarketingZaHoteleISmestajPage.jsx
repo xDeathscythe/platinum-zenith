@@ -121,6 +121,11 @@ const faqs = [
 
 const relatedLinks = [
   {
+    to: '/blog/google-ads-za-hotele-i-smestaj-cena-rezervacije-srbija-2026',
+    title: 'Google Ads za hotele i smestaj',
+    desc: 'Detaljan vodic o tipovima kampanja, budzetima i ceni po direktnoj rezervaciji za smestajne objekte u Srbiji.',
+  },
+  {
     to: '/google-reklame-cena',
     title: 'Google reklame cena',
     desc: 'Koliko kosta da uhvatite goste koji traze smestaj u vasem gradu ili na vasoj destinaciji.',

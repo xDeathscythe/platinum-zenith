@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-hotele-i-smestaj-cena-rezervacije-srbija-2026",
+    "title": "Google Ads za hotele i smestaj u Srbiji 2026: kako smanjiti zavisnost od Booking-a",
+    "excerpt": "Koliko kosta Google Ads za hotele, apartmane i vile u Srbiji. Tipovi kampanja, budzeti, cena po direktnoj rezervaciji i strategija za smanjenje OTA provizije.",
+    "date": "2026-03-20",
+    "category": "Google Ads",
+    "readTime": "9 min",
+    "isDraft": false
+  },
+  {
     "slug": "facebook-ads-za-e-commerce-srbija-2026",
     "title": "Facebook Ads za e-commerce u Srbiji 2026: struktura kampanja koja donosi prodaju",
     "excerpt": "Kako strukturisati Facebook Ads kampanje za online prodavnicu u Srbiji. Funnel od awareness do remarketing, kreativa, budzeti i realni ROAS benchmarci.",

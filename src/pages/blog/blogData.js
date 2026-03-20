@@ -1,5 +1,192 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'google-ads-za-hotele-i-smestaj-cena-rezervacije-srbija-2026',
+    title: 'Google Ads za hotele i smestaj u Srbiji 2026: kako smanjiti zavisnost od Booking-a',
+    excerpt: 'Koliko kosta Google Ads za hotele, apartmane i vile u Srbiji. Tipovi kampanja, budzeti, cena po direktnoj rezervaciji i strategija za smanjenje OTA provizije.',
+    date: '2026-03-20',
+    category: 'Google Ads',
+    readTime: '9 min',
+    content: `
+## Zasto vecina smestajnih objekata u Srbiji ne koristi Google Ads
+
+Booking uzima 15 posto. Airbnb uzima 3 posto od domacina plus 14 posto od gosta. Expedia, Hotels.com, slicna prica. Za objekat sa 50 nocenja mesecno po prosecnoj ceni od 60 evra, to je 450 do 750 evra mesecno u provizijama koje odlaze platformi.
+
+A vecina vlasnika smatra da je to "cena poslovanja" i da je Google Ads nesto komplikovano, skupo ili namenjeno samo velikim hotelskim lancima.
+
+Problem nije sto je Google Ads komplikovan. Problem je sto niko nije objasnio kako se meri: da li je jeftinije platiti Google za direktnu rezervaciju ili platiti Booking proviziju za istu tu rezervaciju. Odgovor je skoro uvek isti: Google je jeftiniji kad se postavi kako treba.
+
+Za siru sliku o troskovima Google reklama pogledajte [Google reklame cena](/google-reklame-cena). Za celokupnu marketing strategiju za smestaj, korisno je videti [marketing za hotele i smestaj](/marketing-za-hotele-i-smestaj).
+
+## Kako gosti traze smestaj na Google-u
+
+Pre nego sto palimo kampanje, treba razumeti sta gost kuca u Google:
+
+**Faza 1: Istrazivanje destinacije**
+- "sta posetiti na Zlatiboru zimi"
+- "banje u Srbiji za vikend"
+- "Fruska Gora izleti"
+
+**Faza 2: Trazenje smestaja**
+- "hotel Zlatibor cena"
+- "apartmani Sokobanja"
+- "smestaj Tara vikend"
+- "vile sa bazenom Srbija"
+
+**Faza 3: Konkretna rezervacija**
+- "hotel Zlatibor slobodne sobe april"
+- "apartman Kopaonik 4 osobe cena"
+- "glamping Srbija rezervacija"
+
+Faza 1 je za content marketing i SEO. Faze 2 i 3 su gde Google Ads donosi direktne rezervacije. Tu gost vec zna sta hoce i spreman je da plati.
+
+## 4 tipa Google Ads kampanja za smestajne objekte
+
+### 1. Search kampanje za direktne pretrage smestaja
+
+Ovo je temelj. Gost kuca "apartmani Zlatibor cena" i umesto da klikne na Booking rezultat, klikne na vas oglas koji vodi na vas sajt sa direktnom rezervacijom.
+
+Kljucne reci koje najcesce donose rezervacije:
+- "[tip smestaja] [destinacija]" — hotel Zlatibor, apartmani Sokobanja
+- "[tip smestaja] [destinacija] cena" — vila Tara cena nocenja
+- "smestaj [destinacija] [period]" — smestaj Kopaonik nova godina
+- "[destinacija] sobe slobodne" — Vrnjacka Banja sobe slobodne
+
+Negativne kljucne reci su obavezne: iskljucite "posao", "zaposlenje", "recenzije", "forum", "booking" (ako ne zelite da placate klik onome ko ionako ide na Booking).
+
+CPC za smestaj u Srbiji: 0,15e do 0,80e zavisno od destinacije i sezone. Zlatibor i Kopaonik su najskuplji, banje i manje destinacije jeftiniji.
+
+### 2. Performance Max kampanje
+
+Google-ov najnoviji tip kampanje koji automatski prikazuje oglase na Search, Display, YouTube, Maps, Gmail i Discover. Za smestaj je koristan jer:
+- Prikazuje vas objekat na Google Maps uz Search rezultate
+- Automatski optimizuje kreative za razlicite formate
+- Koristi machine learning za targetiranje gostiju sa najvisim intent-om
+
+Potrebno: kvalitetne fotografije objekta (minimum 15), logotip, tekst oglasa i konverziono pracenje. Bez toga Performance Max nece imati materijal za rad.
+
+### 3. Sezonske kampanje za van-sezonske periode
+
+Ovo je gde vecina objekata gubi najvise novca na OTA provizijama jer nemaju alternativu. Kad je puna sezona, sobe se pune same. Problem je oktobar, novembar, mart.
+
+Pristup: posebna kampanja za svaki van-sezonski paket.
+- "Vikend za dvoje" paketi za parove (oktobar-mart)
+- "Wellness vikend" za banje i spa objekte (cela godina)
+- "Team building" i poslovni smestaj (cela godina)
+- Sezonski paketi vezani za dogadjaje u regionu
+
+Budzet se pali samo kad treba popuniti kapacitet, gasi se kad je puno. Fleksibilnost koju Booking ne nudi.
+
+### 4. Remarketing kampanje
+
+Gost je posetio vas sajt, gledao sobe, mozda cak poceo rezervaciju ali nije zavrsio. Remarketing mu prikazuje vas objekat na sajtovima koje posle toga posecuje.
+
+Za smestaj, remarketing je posebno efikasan jer:
+- Period odlucivanja je 3 do 14 dana (gost ne rezervise odmah)
+- Gost poredi vise objekata i zaboravi koje je gledao
+- Cena remarketing klika je 2 do 5 puta niza od obicnog Search klika
+
+Budzet: 50e do 150e mesecno je dovoljno za objekat sa 500 do 2.000 posetilaca sajta mesecno.
+
+## Landing stranica: gde se gube direktne rezervacije
+
+Google Ads moze dovesti gosta na vas sajt. Ali ako sajt izgleda kao da ga niko nije azurirao od 2019, nema jasnu cenu, nema dostupnost i nema nacin da se rezervise u dva klika, gost zatvara tab i ide na Booking gde zna sta ga ceka.
+
+Sta landing stranica za smestaj mora da ima:
+
+1. **Galerija sa profesionalnim fotografijama** soba, zajednickih prostora i okoline (minimum 10-15 slika)
+2. **Cene ili cenovni raspon** jasno vidljivi bez skrolovanja
+3. **Dostupnost ili kalendar** ako imate booking engine
+4. **Dugme za rezervaciju ili poziv** iznad prevoja na mobilnom
+5. **Google recenzije** ugradjene na stranicu (poverenje)
+6. **Lokacija na mapi** sa uputstvom za dolazak
+7. **Sadrzaj u okolini** — sta gost moze da radi, vidi, poseti
+
+Ako nemate sajt ili vas trenutni sajt ne konvertuje, pogledajte [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena) za realan okvir troskova. Za optimizaciju konverzije na postojecem sajtu korisno je videti [CRO optimizaciju](/cro).
+
+## Koliko realno kosta Google Ads za smestaj u Srbiji
+
+| Tip objekta | Mesecni budzet | Ocekivane rezervacije | Cena po rezervaciji |
+|---|---|---|---|
+| Apartman (1-3 jedinice) | 150e - 350e | 8 - 25 | 10e - 20e |
+| Vila ili etno kuca | 250e - 500e | 10 - 30 | 12e - 22e |
+| Mali hotel (10-30 soba) | 400e - 1.000e | 25 - 80 | 10e - 18e |
+| Hotel / resort (30+ soba) | 800e - 3.000e+ | 50 - 200+ | 8e - 16e |
+
+Uporedite sa Booking provizijom: za nocenje od 60e, Booking uzima 9e do 15e. Ako vas Google Ads donosi rezervaciju za 12e, vec ste na nuli, a za visenocne boravke ste u plusu jer se provizija racuna po nocenju, a CPA po rezervaciji.
+
+Za detaljniji pregled troskova po kanalu, pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Google Business profil: besplatne rezervacije pored placenih
+
+Pre nego sto potrosite prvi evro na Ads, sredite Google Business profil. Za smestajne objekte to znaci:
+
+- **Sve sobe i paketi** kao proizvodi sa cenama
+- **Fotografije** svakog tipa sobe, zajednickih prostora, hrane, okoline (minimum 20)
+- **Radno vreme** prijave i odjave
+- **Odgovori na SVE recenzije** — pozitivne i negativne
+- **Objave** o specijalnim ponudama, sezonskim paketima, dogadjajima
+- **Link za direktnu rezervaciju** ili poziv
+
+Kompletan Google Business profil dobija besplatnu vidljivost na Google Maps. Kad tome dodate Ads, imate i placenu i organsku prisutnost za iste pretrage.
+
+Za organsku strategiju pogledajte [SEO optimizacija cena](/seo-optimizacija-cena).
+
+## Merenje: jedina metrika koja je bitna
+
+Zaboravite klikove, prikaze, CTR. Za smestaj postoji jedna bitna metrika: **cena po zavrsenoj rezervaciji** (CPA — Cost Per Acquisition).
+
+Kako se meri:
+1. **Google Ads conversion tracking** na formu za rezervaciju ili booking engine potvrdu
+2. **Call tracking** za telefonske rezervacije (u srpskom turizmu 30-50% rezervacija dolazi telefonom)
+3. **Google Analytics 4** za ponasanje na sajtu i padove u toku rezervacije
+4. **Offline conversion import** za rezervacije koje dodju telefonom ili mejlom posle klika na oglas
+
+Bez ovoga ne znate koji kljucni termin donosi rezervaciju, a koji samo trosi budzet. Vise o merenju rezultata u [KPI i ROI marketing vodiču](/blog/kako-meriti-roi-marketinga-kpi-vodic).
+
+## Google Ads vs OTA platforme: poredjenje troskova
+
+| | Google Ads | Booking.com | Airbnb |
+|---|---|---|---|
+| Trosak po rezervaciji | 8e - 22e (fiksno po rezervaciji) | 15-25% po nocenju | 3% domacin + 14% gost |
+| Kontrola cene | Vi birate budzet i CPA cilj | Platforma diktira proviziju | Platforma diktira proviziju |
+| Podaci o gostu | Imate email, telefon, ime | Platforma drzi podatke | Platforma drzi podatke |
+| Povratni gosti | Mozete ih kontaktirati direktno | Moraju ponovo proci platformu | Moraju ponovo proci platformu |
+| Vidljivost | Zavisna od budzeta | Zavisna od rangiranja na platformi | Zavisna od rangiranja na platformi |
+
+Kljucna razlika: kad gost rezervise preko vaseg sajta, imate njegov email i telefon. Mozete mu poslati ponudu za sledecu sezonu, za rodjendan, za praznike. Kad rezervise preko Booking-a, podatke drzi Booking.
+
+## Sezonalnost: kada paliti, kada gasiti
+
+Najcesca greska: isti budzet cele godine. Smestaj ima izrazenu sezonalnost i budzet mora to da prati.
+
+**Puna sezona (jun-septembar za letnje, dec-mart za zimske destinacije):**
+Smanjen budzet ili pauza. Kapacitet se puni organskim putem i OTA platformama. Ads su opravdani samo ako imate vise kapaciteta nego sto sezona popuni.
+
+**Prelazni periodi (april-maj, oktobar-novembar):**
+Maksimalan budzet. Ovo je gde Google Ads pravi najvecu razliku jer OTA platforme ne promotivisu vase specijalne ponude, a vi mozete.
+
+**Mrtva sezona (zavisno od destinacije):**
+Srednji budzet fokusiran iskljucivo na van-sezonske pakete. Vikend ponude, wellness, team building, praznici.
+
+## Ceste greske smestajnih objekata na Google Ads
+
+1. **Jedna kampanja za sve.** Apartman za 4 osobe i lux vila sa bazenom nemaju istu publiku. Razdvojite ih.
+2. **Oglas vodi na homepage.** Gost koji trazi "apartman Zlatibor 4 osobe" mora da dodje na stranicu tog konkretnog apartmana, ne na pocetnu stranu sajta.
+3. **Nema pracenja rezervacija.** Bez conversion tracking-a ne znate sta radi. Mozete trositi 500 evra mesecno i misliti da ne radi, a zapravo donosi 30 rezervacija telefonom koje ne pratite.
+4. **Isti budzet cele godine.** Sezona se sama popuni. Van sezone treba gurati Ads. Obrnuto od onoga sto vecina radi.
+5. **Ne koriste lokacijske ekstenzije.** Za smestaj gde je lokacija kljucni faktor, lokacijske i callout ekstenzije podizu CTR za 20-30%.
+6. **Zanemaruju mobilni.** Preko 70% pretraga za smestaj dolazi sa telefona. Ako sajt nije brz i citljiv na mobilnom, placate klikove koji ne konvertuju.
+
+## Zakljucak
+
+Google Ads za hotele i smestaj u Srbiji nije zamena za Booking ili Airbnb. To je kanal koji postepeno smanjuje zavisnost od platformi tako sto gradi tok direktnih rezervacija po nizoj ceni nego sto je provizija. Za objekat sa 50+ nocenja mesecno, razlika se meri u stotinama evra mesecno.
+
+Pocnite sa Search kampanjom za 2-3 najjaca kljucna termina (tip smestaja + destinacija), pratite koliko kosta svaka rezervacija i uporedite sa Booking provizijom. Ako je jeftinije, pojacajte. Ako nije, optimizujte landing stranicu i kreative pre nego sto odustanete.
+
+Za celokupnu strategiju digitalnog marketinga za smestaj pogledajte [marketing za hotele i smestaj](/marketing-za-hotele-i-smestaj). Ako zelite analizu da li Google Ads ima smisla za vas objekat, javite se preko [kontakt forme](/kontakt).
+`,
+  },
+  {
     slug: 'facebook-ads-za-e-commerce-srbija-2026',
     title: 'Facebook Ads za e-commerce u Srbiji 2026: struktura kampanja koja donosi prodaju',
     excerpt: 'Kako strukturisati Facebook Ads kampanje za online prodavnicu u Srbiji. Funnel od awareness do remarketing, kreativa, budzeti i realni ROAS benchmarci.',
