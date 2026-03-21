@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-21T06:29:43.529Z",
-  "routesChecked": 64,
+  "generatedAt": "2026-03-21T10:30:42.869Z",
+  "routesChecked": 65,
   "issueCount": 0,
   "checked": [
     {
@@ -1459,6 +1459,33 @@
       "route": "/marketing-agencija-pozarevac",
       "component": "MarketingAgencijaPozarevacPage",
       "file": "src\\pages\\MarketingAgencijaPozarevacPage.jsx",
+      "sequence": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        2,
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 8,
+        "h3": 5,
+        "total": 14
+      }
+    },
+    {
+      "route": "/marketing-agencija-jagodina",
+      "component": "MarketingAgencijaJagodinaPage",
+      "file": "src\\pages\\MarketingAgencijaJagodinaPage.jsx",
       "sequence": [
         1,
         2,

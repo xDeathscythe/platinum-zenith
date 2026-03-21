@@ -926,6 +926,22 @@ const SERVER_ROUTE_SCHEMAS = {
       url: SITE_URL,
     },
   },
+  '/marketing-agencija-jagodina': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Marketing agencija Jagodina',
+    serviceType: 'Digital marketing agency services',
+    url: `${SITE_URL}/marketing-agencija-jagodina`,
+    areaServed: {
+      '@type': 'City',
+      name: 'Jagodina',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: 'Platinum Zenith',
+      url: SITE_URL,
+    },
+  },
   '/in-house-tim-vs-agencija': {
     '@context': 'https://schema.org',
     '@type': 'Service',
@@ -1358,6 +1374,12 @@ const ogMeta = {
       description: 'Marketing agencija za Pozarevac i Branicevski okrug: SEO, Google Ads i Meta kampanje za lokalne firme u istocnoj Srbiji.',
       ogImage: `${SITE_URL}/pz-og.jpg`,
       ogImageAlt: 'Marketing agencija Pozarevac - digitalni marketing za Branicevski okrug',
+    },
+    '/marketing-agencija-jagodina': {
+      title: 'Marketing Agencija za Jagodinu | Digitalni Marketing | Platinum Zenith',
+      description: 'Marketing agencija za Jagodinu i Pomoravski okrug: SEO, Google Ads i Meta kampanje za lokalne firme u centralnoj Srbiji.',
+      ogImage: `${SITE_URL}/pz-og.jpg`,
+      ogImageAlt: 'Marketing agencija Jagodina - digitalni marketing za Pomoravski okrug',
     },
   '/web-shop-nema-prodaju': {
     title: 'Web Shop Nema Prodaju? 5 Razloga i Rešenja | Platinum Zenith',
