@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026",
+    "title": "Koliko firme trose na marketing: procenat prihoda po industriji (2025-2026 podaci)",
+    "excerpt": "Realni podaci o marketing budzetu kao procentu prihoda po industriji u 2025-2026. Gartner, Deloitte i CMO Survey benchmarci za B2B i B2C firme.",
+    "date": "2026-03-21",
+    "category": "Biznis",
+    "readTime": "9 min",
+    "isDraft": false
+  },
+  {
     "slug": "engagement-rate-po-platformi-instagram-tiktok-linkedin-2026",
     "title": "Engagement rate po platformi 2026: gde vasa publika zaista reaguje",
     "excerpt": "Uporedni podaci o engagement rate-u na Instagramu, TikToku, LinkedIn-u i Facebooku u 2025-2026. Koja platforma donosi najvise interakcija i zasto.",

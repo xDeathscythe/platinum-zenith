@@ -1,5 +1,161 @@
 const rawBlogPosts = [
   {
+    slug: 'koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026',
+    title: 'Koliko firme trose na marketing: procenat prihoda po industriji (2025-2026 podaci)',
+    excerpt: 'Realni podaci o marketing budzetu kao procentu prihoda po industriji u 2025-2026. Gartner, Deloitte i CMO Survey benchmarci za B2B i B2C firme.',
+    date: '2026-03-21',
+    category: 'Biznis',
+    readTime: '9 min',
+    content: `
+## Pitanje koje svaki vlasnik firme postavi
+
+"Koliko bi trebalo da trosim na marketing?"
+
+Odgovor "zavisi" je tacan ali beskoristan. Zato ovde nema teorija -- samo podaci iz Gartner CMO Spend Survey-a, Deloitte CMO Survey-a i HubSpot industrisjkih istrazivannja za 2025-2026.
+
+Za prakticni vodic za pravljenje budzeta pogledajte [kako napraviti marketing budzet koji ima smisla](/blog/kako-napraviti-marketing-budzet-koji-ima-smisla). Za pregled cena digitalnog marketinga pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Prosecni marketing budzet u 2025: 7.7% prihoda
+
+Prema Gartner 2025 CMO Spend Survey-u (400+ marketinskih direktora, pretezno kompanije sa 1+ milijardi dolara prihoda), marketing budzet prosecne firme iznosi **7.7% ukupnog prihoda** kompanije. Ovo je identicno procentu iz 2024 -- budzeti su se stabilizovali posle godina rasta.
+
+Istrazivanje je sprovedeno u februaru-martu 2025. Kljucni nalaz: vecina CMO-ova smatra da je ovo nedovoljno za punu realizaciju strategije. Odgovor? Veci fokus na AI i automatizaciju radi efikasnosti.
+
+Za manje firme (ispod 50M EUR prihoda), procenat je tipicno visi -- 10-15% -- jer je potrebno vise ulaganja u izgradnju prepoznatljivosti.
+
+## B2B vs B2C: ko trosi vise?
+
+| Segment | Procenat prihoda | Tipican raspon |
+|---------|-----------------|----------------|
+| **B2B kompanije** | 2-8% | Manji budzet, duzi prodajni ciklus |
+| **B2C kompanije** | 8-15% | Veci budzet, potreban siri doseg |
+| **Startapovi / rast** | 15-30% | Agresivno ulaganje za pozicioniranje |
+| **Zrele kompanije** | 5-7% | Odrzavanje sa poznatim brandom |
+
+**Zasto B2C firme trose vise?** Prodaju masovnoj publici. Kad imate milion potencijalnih kupaca umesto 500 firmi, treba vam vise kanala, vise oglasa, vise sadrzaja da dodjete do svakoga.
+
+Za B2B marketing strategiju pogledajte [B2B marketing vodic za Srbiju](/blog/b2b-marketing-srbija-2026-vodic). Za e-commerce marketing pogledajte [Facebook Ads za e-commerce vodic](/blog/facebook-ads-za-e-commerce-srbija-2026).
+
+## Marketing budzet po industriji (2025-2026 benchmarci)
+
+Podaci iz Gartner CMO Survey-a, HubSpot Industry Benchmarks-a i Deloitte CMO Survey-a:
+
+### Industrije sa najvecim budzetima (13%+ prihoda)
+
+- **Komunikacije i mediji:** 13-15% prihoda. Ovde se najvise trosi jer je marketing sustinski proizvod ovih kompanija.
+- **Potrosacka dobra (FMCG):** do 18% prihoda. Procter & Gamble, Unilever i slicni trose milijarde jer se bore za mesto na polici i u svesti potrosaca.
+- **Edukacija:** oko 14.5% prihoda. Online kursevi, privatni fakulteti i ed-tech kompanije ulazu agresivno u akviziciju studenata.
+
+### Industrije sa srednjim budzetima (7-12% prihoda)
+
+- **Maloprodaja i e-commerce:** 8-12% prihoda. Posebno visok za D2C brendove (do 20% u fazi rasta). Za e-commerce CRO pogledajte [optimizacija konverzije sajta vodic](/blog/optimizacija-konverzije-sajta-cro-srbija-2026).
+- **Tehnologija i softver:** 8-15% prihoda (prosek 9.2%). SaaS kompanije cesto trose na gornjoj granici jer je customer acquisition cost (CAC) visok a lifetime value jos visi.
+- **Zdravstvo i farmacija:** 6-10% prihoda (prosek 9.3%). Regulatorna ogranicenja ogranicavaju kanale ali ne i budzetiranje.
+- **Nekretnine:** oko 9.8% prihoda. Visoka vrednost pojedinacne transakcije opravdava znacajno ulaganje u marketing.
+- **Finansijske usluge:** 7-10% prihoda (prosek oko 7.2% za velike banke, 11% za fintech).
+
+### Industrije sa nizim budzetima (pod 7% prihoda)
+
+- **Proizvodnja i industrija:** 3-7% prihoda (prosek 6.7%). Veci deo budzeta ide na sajmove i direktnu prodaju nego na digitalni marketing.
+- **IT i poslovne usluge:** oko 5.8% prihoda. Referencni marketing i word-of-mouth smanjuju potrebu za placenim kanalima.
+- **Profesionalne usluge (advokatske kancelarije, racunovodje):** oko 7% prihoda. Pogledajte [marketing za advokate](/marketing-za-advokate) za specificne strategije.
+
+## Uporedna tabela: marketing budzet po industriji
+
+| Industrija | % prihoda | Kljucni kanali |
+|-----------|----------|----------------|
+| Komunikacije/Mediji | 13-15% | Content, social, programmatic |
+| FMCG / Potrosacka dobra | do 18% | TV, digital, influencer |
+| Edukacija | ~14.5% | Search, content, social ads |
+| E-commerce | 8-12% | Paid social, search, email |
+| Tehnologija/SaaS | 8-15% | Content, search, ABM |
+| Zdravstvo/Farmacija | 6-10% | Search, content, konferencije |
+| Nekretnine | ~9.8% | Search, social, portali |
+| Finansije | 7-10% | Search, content, branding |
+| Proizvodnja | 3-7% | Sajmovi, search, email |
+| IT usluge | ~5.8% | Referral, content, LinkedIn |
+| Profesionalne usluge | ~7% | SEO, referral, networking |
+
+## Gde firme trose marketing budzet (raspodela po kanalima)
+
+Prema Deloitte CMO Survey-u za 2025, raspodela unutar marketing budzeta izgleda ovako:
+
+| Kanal | % marketing budzeta |
+|-------|-------------------|
+| **Drustvene mreze** | 11.3% |
+| **Content marketing** | 10.2% |
+| **Placena pretraga (PPC)** | 9.8% |
+| **SEO / organska pretraga** | 8-12% |
+| **Email marketing** | 5-8% |
+| **Tradicionalni mediji** | 20-35% (u padu) |
+
+**Digitalno vs tradicionalno:** Digitalni kanali sada cine 75% globalnog marketing budzeta (Dentsu, 2025). Tradicionalni mediji (TV, print, bilbordi) su pali na 25% -- i nastavljaju da padaju za 3.7% godisnje.
+
+Za konkretne cene po kanalu u Srbiji pogledajte:
+- [Google reklame cena](/google-reklame-cena)
+- [Koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama)
+- [Instagram reklame cena](/instagram-reklame-cena)
+- [SEO optimizacija cena](/seo-optimizacija-cena)
+
+## Koliko bi VASA firma trebalo da trosi
+
+### Formule za razlicite faze
+
+**Startap / nova firma (0-2 godine):**
+- 15-30% prihoda na marketing
+- Fokus: izgradnja prepoznatljivosti + prvi klijenti
+- Kanali: placena pretraga (brzi rezultati) + content (dugorocni)
+
+**Firma u rastu (2-5 godina):**
+- 10-15% prihoda
+- Fokus: skaliranje proverenih kanala + testiranje novih
+- Kanali: remarketing + SEO + email automatizacija
+
+**Zrela firma (5+ godina):**
+- 5-8% prihoda
+- Fokus: odrzavanje pozicije + optimizacija troskova
+- Kanali: branding + retention + organski doseg
+
+### Pravilo 70/20/10
+
+Mnoge uspesne firme koriste ovu raspodelu budzeta:
+- **70%** na proverene kanale (ono sto vec radi)
+- **20%** na kanale u rastu (obecavajuci ali nepotvrdeni)
+- **10%** na eksperimente (novi formati, platforme, pristupi)
+
+Ovo sprecava i preteranu konzervativnost i neodgovorno trosenje na neproverene taktike.
+
+## Sta se desava kad trosiste premalo
+
+Gartner-ov nalaz da je 7.7% prihoda "nedovoljno za punu realizaciju strategije" je upozorenje. Firme koje trose ispod svog industrijskog benchmarka obicno:
+
+- Gube market share konkurentima koji ulazu vise
+- Imaju sporiji rast prihoda (Deloitte: korelacija izmedju marketing ulaganja i rasta prihoda je statisticki znacajna)
+- Zavise od jednog kanala (obicno preporuke) sto je rizicno
+
+Ali bacanje novca takodje ne radi. Bitno je meriti ROI svakog kanala. Za to pogledajte [kako meriti ROI digitalnog marketinga](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
+
+## Prakticni primer za firmu u Srbiji
+
+**Firma:** Web agencija sa 200.000 EUR godisnjeg prihoda
+**Industrija benchmark:** IT usluge, 5.8%
+**Preporuceni budzet:** 200.000 x 0.058 = 11.600 EUR godisnje (~967 EUR mesecno)
+
+**Raspodela po kanalima:**
+- SEO i content: 350 EUR/mes (organski rast, blog, linkovi)
+- Google Ads: 300 EUR/mes (high-intent pretrage)
+- LinkedIn: 200 EUR/mes (B2B mrezenje + oglasi)
+- Email marketing: 67 EUR/mes (alat + automatizacija)
+- Alokacija za testiranje: 50 EUR/mes
+
+To je realan budzet za firmu te velicine u Srbiji. Ni premalo ni preterano. Sa dobrom strategijom, moze doneti 3-5x povrat na ulaganje.
+
+Za pomoc sa kreiranjem marketing budzeta za vasu firmu, javite se preko [kontakt forme](/kontakt). Za pregled svih nasih usluga pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+*Izvori: Gartner 2025 CMO Spend Survey (maj 2025, 400+ CMO-ova), Deloitte/Duke CMO Survey (februar 2025, 300+ marketinskih lidera), HubSpot State of Marketing Report (2025), Dentsu Global Ad Spend Forecasts (2025).*
+`
+  },
+  {
     slug: 'engagement-rate-po-platformi-instagram-tiktok-linkedin-2026',
     title: 'Engagement rate po platformi 2026: gde vasa publika zaista reaguje',
     excerpt: 'Uporedni podaci o engagement rate-u na Instagramu, TikToku, LinkedIn-u i Facebooku u 2025-2026. Koja platforma donosi najvise interakcija i zasto.',

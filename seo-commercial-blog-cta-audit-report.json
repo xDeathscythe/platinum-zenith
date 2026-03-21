@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-03-21T14:28:19.022Z",
-  "postsChecked": 171,
+  "generatedAt": "2026-03-21T18:29:42.155Z",
+  "postsChecked": 173,
   "issueCount": 0,
   "checked": [
+    {
+      "route": "/blog/koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026",
+      "serviceHits": 7,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/koliko-kosta-novi-klijent-cpa-po-industriji-google-facebook-2026",
+      "serviceHits": 3,
+      "hasKontakt": true
+    },
     {
       "route": "/blog/koliko-zapravo-zaradjuje-email-marketing-roi-po-industriji-2026",
       "serviceHits": 2,
