@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "digitalni-marketing-statistika-srbija-2026",
+    "title": "Digitalni marketing u Srbiji 2026: 50 statistika koje svaki biznis treba da zna",
+    "excerpt": "50 kljucnih statistika o digitalnom marketingu u Srbiji za 2026. godinu. Google Ads, SEO, drustvene mreze, e-commerce i email — brojke koje odlucuju.",
+    "date": "2026-03-21",
+    "category": "Marketing",
+    "readTime": "10 min",
+    "isDraft": false
+  },
+  {
     "slug": "najbolji-wordpress-pluginovi-za-male-firme-srbija-2026",
     "title": "Najbolji WordPress pluginovi za male firme u Srbiji 2026: 15 obaveznih",
     "excerpt": "Lista od 15 WordPress pluginova koje svaka mala firma u Srbiji treba da ima. SEO, bezbednost, brzina, forme i e-commerce — besplatni i placeni.",

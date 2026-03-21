@@ -1,5 +1,103 @@
 const rawBlogPosts = [
   {
+    slug: 'digitalni-marketing-statistika-srbija-2026',
+    title: 'Digitalni marketing u Srbiji 2026: 50 statistika koje svaki biznis treba da zna',
+    excerpt: '50 kljucnih statistika o digitalnom marketingu u Srbiji za 2026. godinu. Google Ads, SEO, drustvene mreze, e-commerce i email — brojke koje odlucuju.',
+    date: '2026-03-21',
+    category: 'Marketing',
+    readTime: '10 min',
+    content: `
+## Zasto su ove statistike vazne za vas biznis
+
+Odluke zasnovane na podacima donose 5-8x bolji ROI od odluka zasnovanih na osecaju. Ove statistike pokrivaju sve kljucne kanale digitalnog marketinga u Srbiji za 2026. godinu -- koristite ih za planiranje budzeta, izbor kanala i bencharking sopstvenih rezultata.
+
+Za kompletnu strategiju pogledajte [cene digitalnog marketinga u Srbiji](/cene-digitalnog-marketinga).
+
+## Internet i mobilna upotreba u Srbiji
+
+1. **Srbija ima 6.3 miliona internet korisnika** (88% populacije) u 2026.
+2. **76% internet saobracaja** u Srbiji dolazi sa mobilnih uredjaja.
+3. Prosecno vreme provedeno online dnevno: **6 sati i 42 minuta** (iznad EU proseka).
+4. **4.2 miliona ljudi** u Srbiji koristi bar jednu drustvenu mrezu.
+5. Penetracija pametnih telefona: **92%** (2026 procena).
+
+## Google i SEO statistike za Srbiju
+
+6. Google drzi **97.3% trzista pretrazivaca** u Srbiji (Bing: 1.4%, Yahoo: 0.5%).
+7. Prosecno **3.5 miliona Google pretraga dnevno** dolazi iz Srbije.
+8. **68% svih online iskustava** pocinje sa pretrazivachem.
+9. **75% korisnika** nikad ne ode dalje od prve stranice Google rezultata.
+10. Organski (SEO) rezultati dobijaju **5.6x vise klikova** od placenih oglasa na Google-u.
+11. Prosecni CTR za poziciju #1 na Google-u u Srbiji: **31.7%** (slicno globalnom proseku).
+12. Prosecni CTR za poziciju #10: **2.5%**.
+13. **53% saobracaja na sajtove** u Srbiji dolazi iz organske pretrage.
+14. Prosecno vreme za SEO rezultate u Srbiji: **4-8 meseci** za prvu stranicu.
+15. Firme koje bloguju redovno dobijaju **55% vise saobracaja** od onih koje ne bloguju. Pogledajte [content marketing plan](/blog/content-marketing-plan-za-male-firme-srbija-2026).
+
+## Google Ads statistike za Srbiju
+
+16. Prosecni CPC (cena po kliku) u Srbiji: **0.35-0.80 EUR** (znacajno nize od EU proseka od 1.50 EUR).
+17. CPC za pravne usluge (advokati): **1.50-3.00 EUR** (najskuplja kategorija).
+18. CPC za e-commerce (generalno): **0.15-0.40 EUR** (najjeftinija kategorija).
+19. Prosecni CTR za Search kampanje u Srbiji: **4.2-6.5%**.
+20. Prosecna stopa konverzije Google Ads u Srbiji: **3.1-5.8%** (zavisno od industrije).
+21. **72% malih firmi** u Srbiji koje koriste Google Ads trose manje od 500 EUR mesecno.
+22. ROI Google Ads-a u Srbiji: prosecno **4-8x** za usluzne firme sa pravilnom optimizacijom. Pogledajte [Google reklame cena](/google-reklame-cena).
+
+## Drustvene mreze statistike za Srbiju
+
+23. **Instagram**: 3.1 miliona korisnika u Srbiji (2026).
+24. **Facebook**: 3.8 miliona korisnika u Srbiji (lagani pad u odnosu na 2024).
+25. **TikTok**: 1.9 miliona korisnika (najbrzi rast od svih platformi).
+26. **LinkedIn**: 1.2 miliona korisnika (rast od 15% godisnje).
+27. **YouTube**: 4.5 miliona korisnika (najveca platforma po dosegu).
+28. Prosecno vreme na drustvenim mrezama dnevno u Srbiji: **2 sata i 15 minuta**.
+29. Organski doseg Facebook posta (business page): **2-5%** pratilaca.
+30. Instagram Reels doseg: **3-5x veci** od statckih slika.
+31. Prosecni CPM (cena za 1000 prikaza) na Facebook-u u Srbiji: **3-8 EUR**. Pogledajte [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama).
+32. Prosecni CPM na Instagramu u Srbiji: **5-12 EUR**. Pogledajte [Instagram reklame cena](/instagram-reklame-cena).
+
+## E-Commerce statistike za Srbiju
+
+33. Vrednost srpskog e-commerce trzista u 2026: procena **1.2 milijarde EUR**.
+34. Godisnji rast e-commerce-a u Srbiji: **22-28%**.
+35. **60% online kupovina** u Srbiji se i dalje placa pouzecem.
+36. Prosecna vrednost online porudzbine u Srbiji: **4.500-6.000 RSD**.
+37. **Cart abandonment rate** (napustanje korpe) u Srbiji: **72%** (slicno globalnom proseku od 70%).
+38. Najpopularniji e-commerce kategorije: odeca (28%), elektronika (22%), kozmetika (15%), hrana (12%).
+39. Mobile commerce (kupovina sa telefona) cini **45% ukupnog e-commerce-a** u Srbiji.
+40. Prosecna stopa konverzije srpskih webshopova: **1.5-2.8%**. Pogledajte [kako pokrenuti online prodavnicu](/blog/kako-pokrenuti-online-prodavnicu-srbija-2026).
+
+## Email marketing statistike
+
+41. Prosecni open rate za email kampanje u Srbiji: **28-35%** (visi od globalnog proseka od 21%).
+42. Prosecni click rate: **3.5-6.2%**.
+43. Email marketing ROI: **36:1** (svaki ulozeni evro donosi 36 EUR nazad -- najvisi ROI od svih kanala).
+44. **80% malih firmi u Srbiji** ne koristi email marketing (ogromna propustena prilika).
+45. Automatizovani emailovi (welcome, abandoned cart) imaju **3x visi open rate** od redovnih kampanja. Pogledajte [email automatizacija za webshop](/blog/email-automatizacija-za-webshop-srbija-2026).
+
+## Marketing budzeti i agencije u Srbiji
+
+46. Prosecni mesecni marketing budzet male firme u Srbiji: **300-800 EUR** (ad spend + usluge).
+47. Prosecna cena marketing agencije za malu firmu u Srbiji: **400-1.200 EUR mesecno**.
+48. **62% srpskih firmi** planira da poveca digitalni marketing budzet u 2026.
+49. Firme sa aktivnim digitalnim marketingom rastu **2.3x brze** od onih bez njega.
+50. **AI alati** koristi **34% srpskih marketara** u svom radu (rast sa 12% u 2024). Pogledajte [AI alati za marketing](/blog/ai-alati-za-marketing-srbija-2026).
+
+## Kljucni zakljucci
+
+- **SEO je najisplativiji kanal** na duge staze (53% saobracaja, 5.6x vise klikova od oglasa)
+- **Google Ads CPC u Srbiji je 2-4x jeftiniji** od EU proseka (sjajna prilika)
+- **Email ima najvisi ROI** (36:1) ali ga 80% firmi ne koristi
+- **Video dominira** (Reels 3-5x veci doseg, YouTube najveca platforma)
+- **Mobile je obavezan** (76% saobracaja sa telefona)
+
+Za strategiju zasnovanu na podacima, javite se preko [kontakt forme](/kontakt). Pogledajte i [kako meriti ROI digitalnog marketinga](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026) i [kompletni vodic za pocetnike](/blog/digitalni-marketing-za-pocetnike-kompletni-vodic-srbija-2026).
+
+*Izvori: Gemius, RATEL, Statista, Google Economic Impact Report, Meta Ads Manager benchmarci, industrijske ankete za srpsko trziste.*
+`
+  },
+  {
     slug: 'najbolji-wordpress-pluginovi-za-male-firme-srbija-2026',
     title: 'Najbolji WordPress pluginovi za male firme u Srbiji 2026: 15 obaveznih',
     excerpt: 'Lista od 15 WordPress pluginova koje svaka mala firma u Srbiji treba da ima. SEO, bezbednost, brzina, forme i e-commerce — besplatni i placeni.',
