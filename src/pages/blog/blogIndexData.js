@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "video-marketing-roi-kratki-video-reels-tiktok-statistika-2026",
+    "title": "Video marketing ROI: zasto kratki video donosi najbolje rezultate u 2026",
+    "excerpt": "Statistike o ROI video marketinga u 2026. Reels, TikTok i YouTube Shorts engagement, konverzije i zasto 93% firmi planira da ulaze vise u video.",
+    "date": "2026-03-21",
+    "category": "Video Marketing",
+    "readTime": "7 min",
+    "isDraft": false
+  },
+  {
     "slug": "koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026",
     "title": "Koliko firme trose na marketing: procenat prihoda po industriji (2025-2026 podaci)",
     "excerpt": "Realni podaci o marketing budzetu kao procentu prihoda po industriji u 2025-2026. Gartner, Deloitte i CMO Survey benchmarci za B2B i B2C firme.",

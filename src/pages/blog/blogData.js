@@ -1,5 +1,108 @@
 const rawBlogPosts = [
   {
+    slug: 'video-marketing-roi-kratki-video-reels-tiktok-statistika-2026',
+    title: 'Video marketing ROI: zasto kratki video donosi najbolje rezultate u 2026',
+    excerpt: 'Statistike o ROI video marketinga u 2026. Reels, TikTok i YouTube Shorts engagement, konverzije i zasto 93% firmi planira da ulaze vise u video.',
+    date: '2026-03-21',
+    category: 'Video Marketing',
+    readTime: '7 min',
+    content: `
+## 93% firmi kaze da video donosi dobar ROI — najvise ikad
+
+Video marketing nije trend koji dolazi i prolazi. U 2025. godini, **93% firmi** izvestava o pozitivnom ROI od video marketinga — to je najvisa cifra ikad zabelezenaa, rast od 3% u odnosu na 2024.
+
+A **95% firmi** smatra video vaznim delom svoje marketing strategije (rast od 7% u odnosu na 2024). Firme koje koriste video imaju **49% brzi rast prihoda** od onih koje ne koriste.
+
+Za prakticne savete pogledajte [video marketing vodic za male firme](/blog/video-marketing-za-male-firme-srbija-2026).
+
+## Kratki video dominira svim metrikama
+
+### Konverzije
+
+Kratki interaktivni video povecava prodaju i konverzije za do **80%**. Sajtovi sa videom imaju prosecnu konverziju od **4.8%** vs **2.9%** za sajtove bez videa.
+
+- **89% potrosaca** kaze da ih je video ubedio da kupe proizvod ili uslugu (2025)
+- **55% potrosaca** gleda video pre kupovine
+- **73% potrosaca** preferira kratki video za ucenje o proizvodu (nad tekstom, slikama ili dugim videom)
+
+### Engagement po platformi (kratki video format)
+
+| Platforma | Engagement Rate | Dnevni pregledi | Trend |
+|-----------|----------------|-----------------|-------|
+| YouTube Shorts | **5.91%** | 200 milijardi | ↑↑ Eksplodira |
+| TikTok | **4.90%** | 1+ milijarda | ↑ Stabilan rast |
+| Instagram Reels | **1.23-1.48%** | 140 milijardi (IG+FB) | → Stabilan |
+
+**Iznenaddjenje:** YouTube Shorts je pretekao TikTok po engagement rate-u u 2025 (5.91% vs 4.90%). A Instagram Reels, iako ima najnizi engagement, i dalje ima **2x vise engagement** od staticnih slika na IG-u.
+
+### Vreme provedeno na sajtu
+
+Korisnici provode **88% vise vremena** na sajtovima koji imaju video sadrzaj. Ovo direktno utice na SEO jer Google meri "dwell time" kao signal kvaliteta. Za SEO uticaj pogledajte [kako brzina sajta utice na rangiranje](/blog/kako-brzina-sajta-utice-na-rangiranje-na-googlu-2026).
+
+## Koliko kosta i koliko vraca
+
+### Globalna potrosnja na video reklame
+
+- **2024:** 191 milijardi USD
+- **2025:** 207.5 milijardi USD (+8.4%)
+- Od toga **kratki video:** 111 milijardi USD u 2025 (+12% rast)
+
+### ROI po formatu
+
+- **Kratki video (Reels/TikTok/Shorts):** Najvisi ROI — najjeftiniji za produkciju, najveci organski doseg
+- **Dugi video (YouTube):** Dobar ROI za edukativni sadrzaj i SEO (YouTube je drugi pretrazivac)
+- **Live video:** Nizak trosak ali nepredvidiv doseg
+- **Produkcijski video (studijsko snimanje):** Visok trosak, nizak organski doseg (bolji za placene kampanje)
+
+### Minimalna investicija za male firme
+
+Telefon sa dobrom kamerom + CapCut (besplatan) + 2-3 sata nedeljno = **0 EUR mesecno** za alate. Jedina investicija je vase vreme. Za alate pogledajte [AI alati za marketing](/blog/ai-alati-za-marketing-srbija-2026).
+
+## Reels vs TikTok vs Shorts: sta koristiti
+
+### TikTok
+
+**Za koga:** B2C firme koje ciljaju 18-35 godiste. Vizuelni proizvodi, lifestyle, zabava.
+**Prednost:** Najveci organski doseg za nove naloge. Algoritam daje sansu svakome.
+**Idealna duzina videa:** 21-34 sekunde
+
+### Instagram Reels
+
+**Za koga:** Brendovi sa postojecim IG prisustvom. Vizuelni biznisi (moda, hrana, lepota).
+**Prednost:** Integrisan sa Instagram shopom. Reels cine **46% vremena provedenog na IG** u 2025.
+**Idealna duzina videa:** 15-30 sekundi
+Za placene kampanje pogledajte [Instagram reklame cena](/instagram-reklame-cena).
+
+### YouTube Shorts
+
+**Za koga:** Svi koji vec imaju YouTube kanal ili zele dugorocni SEO efekat.
+**Prednost:** Najvisi engagement rate (5.91%). Shorts hrane dugi YouTube kanal. **200 milijardi dnevnih pregleda** u 2025 (3x vise nego krajem 2024).
+**Idealna duzina videa:** 50-60 sekundi (blizu limita)
+
+## 5 Cinjenica koje bi trebalo da vas ubede
+
+1. **90% marketara** izvestava o pozitivnom ROI od video marketinga (Wyzowl 2024)
+2. **87% marketara** direktno pripisuje video povecanju prodaje (Wyzowl 2024)
+3. **2 od 3 potrosaca** (66%) kaze da im je kratki video najzanimljiviji format sadrzaja
+4. Sajtovi sa videom imaju **53% vecu sansu** da se pojave na prvoj stranici Google-a (Moovly)
+5. Globalna potrosnja na kratki video reklame raste **12% godisnje** — brze od bilo kog drugog formata
+
+## Kako poceti sa video marketingom danas
+
+**Nedelja 1:** Snimite 3 kratka videa telefonom (behind-the-scenes, odgovor na FAQ, proizvod u akciji). Objavite na Reels i TikTok.
+
+**Nedelja 2:** Analizirajte koji video je imao najvise pregleda. Ponovite taj format.
+
+**Nedelja 3:** Dodajte titlove (CapCut auto-captions) i testirajte YouTube Shorts.
+
+**Nedelja 4:** Napravite content kalendar za sledeci mesec sa 3-4 videa nedeljno.
+
+Za profesionalnu video strategiju i produkciju, javite se preko [kontakt forme](/kontakt). Za kompletnu strategiju pogledajte [content marketing plan](/blog/content-marketing-plan-za-male-firme-srbija-2026).
+
+*Izvori: Wyzowl State of Video Marketing (2024, 2025), Socialinsider Social Media Benchmarks (2025), eMarketer Digital Video Spending Report (2025), Hootsuite Social Trends (2025), Inbeat Agency YouTube Shorts Statistics (2025).*
+`
+  },
+  {
     slug: 'koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026',
     title: 'Koliko firme trose na marketing: procenat prihoda po industriji (2025-2026 podaci)',
     excerpt: 'Realni podaci o marketing budzetu kao procentu prihoda po industriji u 2025-2026. Gartner, Deloitte i CMO Survey benchmarci za B2B i B2C firme.',
