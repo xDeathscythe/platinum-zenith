@@ -1,8 +1,23 @@
 {
-  "generatedAt": "2026-03-21T10:30:45.765Z",
-  "postsChecked": 168,
+  "generatedAt": "2026-03-21T14:28:19.022Z",
+  "postsChecked": 171,
   "issueCount": 0,
   "checked": [
+    {
+      "route": "/blog/koliko-zapravo-zaradjuje-email-marketing-roi-po-industriji-2026",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/mobilna-vs-desktop-kupovina-konverzije-statistika-2026",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/digitalni-marketing-statistika-srbija-2026",
+      "serviceHits": 5,
+      "hasKontakt": true
+    },
     {
       "route": "/blog/najbolji-wordpress-pluginovi-za-male-firme-srbija-2026",
       "serviceHits": 3,

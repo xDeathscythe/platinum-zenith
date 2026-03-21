@@ -1,5 +1,156 @@
 const rawBlogPosts = [
   {
+    slug: 'koliko-klikova-dobija-prvi-rezultat-na-google-ctr-po-poziciji-2026',
+    title: 'Koliko klikova zapravo dobija prvi rezultat na Google-u: CTR po poziciji i uticaj AI pregleda',
+    excerpt: 'Organski CTR po poziciji na Google-u 2026. Koliko klikova dobijaju pozicije 1-10, kako AI pregledi smanjuju klikove i zasto 60% pretraga zavrsi bez klika.',
+    date: '2026-03-21',
+    category: 'SEO',
+    readTime: '9 min',
+    content: `
+## 60% Google pretraga zavrsi bez ijednog klika
+
+Od svakih 1.000 pretraga na Google-u, samo 374 klika zavrsi na otvorenom webu — ostalo odlazi na Google-ove sopstvene servise (YouTube, Maps) ili korisnik uopste ne klikne nigde. To je podatak iz SparkToro/Datos studije za 2024, a trend se ubrzava u 2026.
+
+Za firme u Srbiji koje ulazu u SEO ili razmisljaju o tome, ovo menja racunicu. Rangiranje na prvoj poziciji vise ne znaci isto sto je znacilo pre tri godine. Ali NE znaci ni da je SEO mrtav — samo da se pravila menjaju.
+
+Za pregled koliko kosta profesionalan SEO u Srbiji pogledajte [SEO optimizacija cena](/seo-optimizacija-cena).
+
+## CTR po poziciji: koliko klikova zaista dobija svaka pozicija
+
+Podaci iz First Page Sage, Advanced Web Ranking i Ahrefs studija (2024-2026):
+
+### Kada NEMA AI pregleda na stranici rezultata
+
+- **Pozicija 1:** CTR **39.8%** — skoro 4 od 10 korisnika klikne na prvi rezultat
+- **Pozicija 2:** CTR **18.7%** — duplo manje od prvog
+- **Pozicija 3:** CTR **10.2%** — ovde vec pada naglo
+- **Pozicija 4:** CTR **7.4%**
+- **Pozicija 5:** CTR **5.1%**
+- **Pozicija 6:** CTR **4.5%**
+- **Pozicija 7:** CTR **3.4%**
+- **Pozicija 8:** CTR **2.6%**
+- **Pozicija 9:** CTR **2.4%**
+- **Pozicija 10:** CTR **2.2%**
+
+Prva tri rezultata zajedno odnose **68.7%** svih klikova. Ako niste u top 3 — delite preostalih 31% sa 7 drugih rezultata i svim reklamama iznad vas.
+
+### Kada JE prisutan Google AI pregled
+
+Situacija se drasticno menja kad Google prikaze AI-generisani odgovor na vrhu:
+
+- **Pozicija 1:** CTR pada na **15-20%** (sa 40% — pad od skoro 50%)
+- **Pozicija 2:** CTR **8-12%**
+- **Pozicija 3:** CTR **5-7%**
+- **Ukupni organski CTR:** samo **8%** naspram **15%** bez AI pregleda (Pew Research Center, mart 2025)
+
+Seer Interactive studija (jun 2024 - septembar 2025) pokazuje da je organski CTR za pretrage sa AI pregledom pao za **61%**. Cak i za pretrage BEZ AI pregleda, CTR je opao za **41%** u istom periodu — jer se korisnicko ponasanje generalno menja.
+
+## Sta su "zero-click" pretrage i zasto rastu
+
+Zero-click pretraga je svaka pretraga gde korisnik dobije odgovor direktno na Google stranici i ne klikne ni na jedan sajt.
+
+Podaci o rastu zero-click pretraga:
+
+- **2020:** ~50% pretraga zavrsavalo bez klika
+- **2024:** 58.5% u SAD, 59.7% u EU (SparkToro/Datos)
+- **2025:** 60%+ prosek, do 77% na mobilnim uredjajima
+- **2026 (procena):** 65-70% prema Gartner i Bain & Company predikcijama
+
+Na mobilnom telefonu je jos gore — do **77%** pretraga zavrsi bez klika jer AI odgovor i Google-ovi widgeti zauzimaju ceo ekran.
+
+### Glavni uzroci zero-click rasta:
+
+1. **AI pregledi** — Google generise odgovor direktno na stranici rezultata
+2. **Featured snippets** — definicije, liste i tabele prikazane iznad rezultata
+3. **Knowledge paneli** — informacije o firmama, osobama, pojmovima
+4. **Instant alati** — kalkulator, konvertor valuta, vreme, rezultati
+5. **Klikovi na Google servise** — 14.3% klikova u SAD odlazi na YouTube, Maps, Images
+
+## Kako AI pregledi menjaju SEO igru u 2026
+
+Google AI Overviews (ranije Search Generative Experience) su sada prisutni u **~30%** svih pretraga (Graphite analiza, novembar 2025). Za informativne upite taj procenat prelazi **88%**.
+
+### Negativna strana
+
+- Ahrefs studija (decembar 2025): prisustvo AI pregleda smanjuje CTR za prvu poziciju za **58%**
+- Seer Interactive: organski CTR za AI pretrage pao sa 1.76% na 0.61%
+- WordStream predikcija: organski CTR ce opasti za dodatnih **25%** do kraja 2026
+
+### Pozitivna strana
+
+- Brendovi koji su **citirani unutar AI pregleda** dobijaju **35% vise organskih klikova** i **91% vise klikova na oglase** (Seer Interactive Q3 2025)
+- Featured snippet na poziciji nula ima CTR od **42.9%** — visi od obicne prve pozicije
+
+Zakljucak: SEO se ne gasi, ali se transformise. Cilj vise nije samo "biti prvi" — vec biti **citiran u AI odgovoru**.
+
+## Sta ovo znaci za firme u Srbiji
+
+### 1) Transakcione pretrage i dalje donose klikove
+
+AI pregledi dominiraju na informativnim upitima ("sta je SEO", "kako radi Google Ads"). Ali kad neko trazi "SEO agencija Beograd cena" ili "izrada sajta Novi Sad" — to su transakcioni upiti gde korisnik ZELI da klikne i kontaktira nekog.
+
+Fokusirajte se na pretrage sa kupovnom namerom. Za analizu troskova digitalnog marketinga pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+### 2) Lokalni SEO postaje jos vazniji
+
+Google My Business rezultati i dalje dobijaju klikove jer prikazuju telefon, adresu, recenzije i dugme za poziv. Lokalni pack (3 rezultata na mapi) ima prosecni CTR od **42%** za prvu poziciju.
+
+Za lokalni SEO i Google Business optimizaciju pogledajte [Google Business profil optimizacija](/blog/google-business-profil-optimizacija-cena-srbija-2026).
+
+### 3) Brendiranje i prepoznatljivost
+
+Kad korisnik vidi vase ime u AI pregledu, u featured snippet-u, u lokalnom pack-u i u organskim rezultatima — sanse da klikne na vas rastu eksponencijalno. Zato je visekanalski marketing (SEO + Google Ads + drustvene mreze) vazniji nego ikad.
+
+Za kompletnu strategiju pogledajte [Google reklame cena](/google-reklame-cena).
+
+### 4) Sadrzaj koji cilja AI citiranje
+
+Da biste bili citirani u Google AI pregledu:
+
+- Pisete jasne, cinjenicne odgovore na konkretna pitanja
+- Koristite strukturirane podatke (schema markup)
+- Imate autoritativan domen sa kvalitetnim backlinkovima
+- Sadrzaj sadrzi originalne podatke, statistike ili istrazivanja
+
+## Desktop vs mobilni CTR
+
+Razlike su znacajne:
+
+- **Desktop pozicija 1:** CTR ~42-45% (veci ekran = vise prostora za organske rezultate)
+- **Mobilni pozicija 1:** CTR ~27-32% (AI pregled, reklame i SERP features zauzimaju vise prostora)
+- **Zero-click na desktopu:** ~47%
+- **Zero-click na mobilnom:** ~77%
+
+Imajuci u vidu da **75% saobracaja u Srbiji dolazi sa mobilnih uredjaja** (podatak iz naseg clanka o [mobilnoj vs desktop kupovini](/blog/mobilna-vs-desktop-kupovina-konverzije-statistika-2026)), optimizacija za mobilni prikaz nije opcija — vec preduslov.
+
+## Kako da se prilagodite novim pravilima
+
+### Investirajte u tehnicku SEO osnovu
+
+Brzina sajta, mobilna optimizacija i strukturirani podaci su temelj. Bez njih ne mozete da udjete u featured snippet ni AI pregled. Pogledajte [kako brzina sajta utice na rangiranje](/blog/kako-brzina-sajta-utice-na-rangiranje-na-googlu-2026).
+
+### Ciljajte long-tail i transakcione upite
+
+Umesto "SEO Srbija" (informativno, AI ce dati odgovor), ciljajte "koliko kosta SEO za stomatolosku ordinaciju u Beogradu" — tu korisnik trazi konkretnu ponudu.
+
+### Gradite brend van Google-a
+
+Email lista, drustvene mreze, YouTube kanal — svaki kanal koji ne zavisi od Google algoritma je osiguranje. Za email marketing statistike pogledajte [koliko zaradjuje email marketing po industriji](/blog/koliko-zapravo-zaradjuje-email-marketing-roi-po-industriji-2026).
+
+### Budite izvor podataka
+
+Sajtovi koji objavljuju originalna istrazivanja, ankete i statistike imaju daleko vece sanse da budu citirani u AI pregledima. Umesto da prepisujete tudje podatke — pravite sopstvene.
+
+## Zakljucak
+
+CTR za prvu poziciju na Google-u pao je sa ~28% u 2024. na ~20% u 2025. i nastavlja da opada. AI pregledi smanjuju organski CTR za do 61%, a 60% svih pretraga zavrsi bez ijednog klika.
+
+Ali SEO nije mrtav — transformise se. Firme koje se prilagode (transakcioni upiti, lokalni SEO, AI citiranje, brendiranje) ce i dalje dobijati kvalitetan organski saobracaj. One koje nastave sa starim pristupom ("samo rangirati se na prvu stranu") ce gubiti.
+
+Za profesionalnu SEO strategiju prilagodjenu 2026. godini, pogledajte [SEO optimizacija cena](/seo-optimizacija-cena) ili se javite preko [kontakt forme](/kontakt).
+`,
+  },
+  {
     slug: 'koliko-zapravo-zaradjuje-email-marketing-roi-po-industriji-2026',
     title: 'Koliko zapravo zaradjuje email marketing: ROI po industriji i tipu kampanje',
     excerpt: 'Koliko novca email marketing donosi po ulozenom evru. ROI benchmarci po industriji, konverzije po tipu emaila i zasto je email i dalje najisplativiji kanal.',

@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "koliko-klikova-dobija-prvi-rezultat-na-google-ctr-po-poziciji-2026",
+    "title": "Koliko klikova zapravo dobija prvi rezultat na Google-u: CTR po poziciji i uticaj AI pregleda",
+    "excerpt": "Organski CTR po poziciji na Google-u 2026. Koliko klikova dobijaju pozicije 1-10, kako AI pregledi smanjuju klikove i zasto 60% pretraga zavrsi bez klika.",
+    "date": "2026-03-21",
+    "category": "SEO",
+    "readTime": "9 min",
+    "isDraft": false
+  },
+  {
     "slug": "koliko-zapravo-zaradjuje-email-marketing-roi-po-industriji-2026",
     "title": "Koliko zapravo zaradjuje email marketing: ROI po industriji i tipu kampanje",
     "excerpt": "Koliko novca email marketing donosi po ulozenom evru. ROI benchmarci po industriji, konverzije po tipu emaila i zasto je email i dalje najisplativiji kanal.",
