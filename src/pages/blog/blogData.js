@@ -1,5 +1,112 @@
 const rawBlogPosts = [
   {
+    slug: 'koliko-zapravo-zaradjuje-email-marketing-roi-po-industriji-2026',
+    title: 'Koliko zapravo zaradjuje email marketing: ROI po industriji i tipu kampanje',
+    excerpt: 'Koliko novca email marketing donosi po ulozenom evru. ROI benchmarci po industriji, konverzije po tipu emaila i zasto je email i dalje najisplativiji kanal.',
+    date: '2026-03-21',
+    category: 'Marketing',
+    readTime: '8 min',
+    content: `
+## 36 evra za svaki ulozeni evro — ali samo ako znate sta radite
+
+Email marketing ima prosecni ROI od **36:1** -- svaki ulozeni evro donosi 36 evra prihoda. To je daleko najvisi ROI od svih digitalnih marketing kanala. Za poredjenje: Google Ads donosi prosecno 8:1, a drustvene mreze 2.5-5:1.
+
+Ali ova cifra je PROSEK. Neke firme dobijaju 76:1 ROI (Omnisend podatak za US e-commerce u 2025), dok druge jedva pokrivaju troskove alata. Razlika je u strategiji, segmentaciji i automatizaciji.
+
+Za email alate i cene pogledajte [email marketing cena u Srbiji](/blog/email-marketing-cena-srbija-2026). Za postavljanje automatizacija pogledajte [email automatizacija za webshop](/blog/email-automatizacija-za-webshop-srbija-2026).
+
+## ROI email marketinga po industriji
+
+Podaci iz Litmus, Klaviyo i MailerLite istrazivannja (2024-2025):
+
+- **E-commerce i retail:** ROI **42:1** (najvisi jer je direktna prodaja preko emaila merljiva do poslednjeg dinara)
+- **SaaS i tehnologija:** ROI **36:1** (duzi prodajni ciklus ali visi lifetime value)
+- **B2B usluge:** ROI **38:1** (email je primarni B2B kanal za lead nurturing)
+- **Putovanja i turizam:** ROI **34:1** (sezonski ali jak)
+- **Finansije i osiguranje:** ROI **30:1** (regulatorna ogranicenja smanjuju agresivnost)
+- **Neprofitne organizacije:** ROI **28:1** (donacije i fundraising)
+
+E-commerce ima najvisi ROI jer moze tacno da izmeri koliko je prihoda doslo iz svakog emaila. B2B firme cesto imaju problem sa atribucijom jer je prodajni ciklus 3-9 meseci.
+
+## Konverzija po tipu email kampanje
+
+Svi emaili nisu jednaki. Automatizovani emailovi generisu **320% vise prihoda** od manuelno poslanih kampanja (Omnisend 2024).
+
+### Welcome email (dobrodoslica)
+- **Open rate:** 60-82% (najvisi od svih tipova emaila)
+- **Click rate:** 14-22%
+- **Konverzija:** 3-5x visa od regularnog newsletter-a
+- Ovo je email koji ljudi OCEKUJU -- zato ga otvaraju
+
+### Abandoned cart email (napustena korpa)
+- **Open rate:** 41-45%
+- **Click rate:** 8-12%
+- **Recovery rate:** 10-15% napustenih korpi se vrati (neke industrije i do 25%)
+- Prosecna vrednost spasene korpe: 65-100 USD (globalno)
+- Za e-commerce sa 1.000 napustenih korpi mesecno, to je 100-150 spasenih porudzbina
+
+### Post-purchase email (posle kupovine)
+- **Open rate:** 55-65%
+- **Cross-sell konverzija:** 8-15% kupaca kupi preporuceni proizvod
+- **Review request konverzija:** 5-8% kupaca ostavi recenziju
+
+### Win-back email (reaktivacija)
+- **Open rate:** 22-28%
+- **Reaktivacija:** 3-7% neaktivnih kupaca se vrati
+- Svaki reaktivirani kupac je besplatan lead (vec imate podatke)
+
+### Birthday/Anniversary email
+- **Open rate:** 45-55%
+- **Konverzija:** 15-25% (najvisa konverzija od svih tipova)
+- Personalizacija + popust + emotivna veza = prodaja
+
+Za postavljanje svih ovih sekvenci pogledajte [5 email sekvenci za webshop](/blog/email-automatizacija-za-webshop-srbija-2026).
+
+## Zasto 80% srpskih firmi ne koristi email marketing
+
+Uprkos ovim brojevima, procena je da **80% malih firmi u Srbiji** ne koristi email marketing uopste. Razlozi:
+
+### 1) "Nemam email listu"
+
+Ovo je razlog, ne izgovor. Svaka firma moze da pocne da gradi listu od danas. Pogledajte [vodic za izgradnju email liste](/blog/email-lista-za-male-firme-srbija-2026).
+
+### 2) "Email je mrtav, svi koriste Instagram"
+
+Email ima 4.6 milijardi korisnika globalno (2025). Instagram ima 2 milijarde. Email je 2.3x veci. Plus, prosecni engagement na email-u (open rate 28-35%) je daleko visi od Instagram-a (engagement rate 1-3%).
+
+### 3) "Ne znam koji alat da koristim"
+
+MailerLite je besplatan do 1.000 pretplatnika. Setup traje 30 minuta. Nema izgovora. Za pogled alata pogledajte [email marketing alati i cene](/blog/email-marketing-cena-srbija-2026).
+
+### 4) "Moji emaili zavrsavaju u spam-u"
+
+Ovo je tehnici problem sa resenjejm: verifikujte domen (SPF + DKIM + DMARC), koristite SMTP plugin (FluentSMTP ili WP Mail SMTP) i ne saljite sa free email adrese (gmail, yahoo).
+
+## Email vs drustvene mreze: uporedni podaci
+
+| Metrika | Email | Instagram | Facebook |
+|---------|-------|-----------|----------|
+| Prosecni ROI | 36:1 | 5:1 | 4:1 |
+| Prosecni reach | 90%+ inbox | 5-10% pratilaca | 2-5% pratilaca |
+| Prosecna konverzija | 1.2-5% | 0.5-1.5% | 0.3-1% |
+| Vlasnistvo nad publikom | Da (vasa lista) | Ne (Meta-ina platforma) | Ne (Meta-ina platforma) |
+| Personalizacija | Visoka (ime, ponasanje, istorija) | Niska | Niska |
+
+Email je jedini kanal gde STE VLASNIK publike. Ako Instagram sutra ugasi vas nalog, gubite sve pratioce. Email listu ne moze niko da vam oduzme.
+
+## Koliko treba investirati u email marketing
+
+- **Alat:** 0-30 EUR mesecno (MailerLite/Brevo besplatno do 1.000 kontakata)
+- **Postavljanje automatizacija:** jednokratno 200-500 EUR (ili DIY sa vodcem)
+- **Mesecno odrzavanje:** 2-4 sata (kreiranje kampanja + analiza)
+- **Ocekivani povrat:** 10-50x investicije u roku od 6 meseci
+
+Za pomoc sa email marketing strategijom, javite se preko [kontakt forme](/kontakt). Za kompletnu digitalnu strategiju pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+*Izvori: Litmus Email Marketing ROI Report (2024), Klaviyo E-Commerce Benchmarks (2024), Omnisend Email Marketing Statistics (2025), MailerLite Industry Benchmarks (2025), Statista Email Users Worldwide (2025).*
+`
+  },
+  {
     slug: 'mobilna-vs-desktop-kupovina-konverzije-statistika-2026',
     title: 'Mobilna vs desktop kupovina: ko zaista kupuje i gde gubite prodaju',
     excerpt: 'Statistike o mobilnoj vs desktop kupovini 2026. Zasto 75% saobracaja dolazi sa telefona ali desktop i dalje ima vecu konverziju — i kako to popraviti.',

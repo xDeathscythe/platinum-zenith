@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "koliko-zapravo-zaradjuje-email-marketing-roi-po-industriji-2026",
+    "title": "Koliko zapravo zaradjuje email marketing: ROI po industriji i tipu kampanje",
+    "excerpt": "Koliko novca email marketing donosi po ulozenom evru. ROI benchmarci po industriji, konverzije po tipu emaila i zasto je email i dalje najisplativiji kanal.",
+    "date": "2026-03-21",
+    "category": "Marketing",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "mobilna-vs-desktop-kupovina-konverzije-statistika-2026",
     "title": "Mobilna vs desktop kupovina: ko zaista kupuje i gde gubite prodaju",
     "excerpt": "Statistike o mobilnoj vs desktop kupovini 2026. Zasto 75% saobracaja dolazi sa telefona ali desktop i dalje ima vecu konverziju — i kako to popraviti.",
