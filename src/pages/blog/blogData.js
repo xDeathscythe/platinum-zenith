@@ -1,5 +1,103 @@
 const rawBlogPosts = [
   {
+    slug: 'uticaj-online-recenzija-na-prodaju-statistika-2026',
+    title: 'Uticaj online recenzija na prodaju: koliko zvezde i komentari zaista menjaju konverziju',
+    excerpt: 'Statistike o uticaju recenzija na odluku o kupovini u 2025-2026. Koliko recenzija treba, zasto 4 zvezdice pobedjuju 5 i kako odgovoriti na negativne.',
+    date: '2026-03-21',
+    category: 'CRO',
+    readTime: '7 min',
+    content: `
+## 93% kupaca cita recenzije pre kupovine — da li ih imate?
+
+U 2025. godini, **93% potrosaca** kaze da online recenzije uticu na njihove odluke o kupovini. To nije opcija -- to je uslov za prodaju. Firme bez recenzija gube kupce koji odlaze kod konkurencije sa 200+ ocena.
+
+A brojke su jos drasticnije: **92% kupaca** okleva da kupi ako nema nijedne recenzije, a **44% uopste nece kupiti** od firme bez online recenzija.
+
+Za upravljanje reputacijom pogledajte [vodic za drustvene mreze](/blog/upravljanje-reputacijom-drustvene-mreze-srbija-2026). Za cene SEO usluga pogledajte [SEO optimizacija cena](/seo-optimizacija-cena). Za prikupljanje recenzija pogledajte [GBP optimizacija](/blog/google-business-profile-optimizacija-srbija-2026).
+
+## Koliko recenzija treba za maksimalnu konverziju
+
+Podaci iz Fera.ai, Spiegel Research Center i Power Reviews istrazivanja:
+
+- **1 recenzija** povecava konverziju za **10%**
+- **5 recenzija** povecava konverziju za **270%** (dramatican skok)
+- **30 recenzija** povecava konverziju za **25%** (u odnosu na 5)
+- **100+ recenzija** povecava konverziju za **37%** (u odnosu na 0)
+- Proizvodi sa recenzijama imaju **19.8% visu prodaju** od proizvoda bez recenzija
+
+Zakljucak: od 0 do 5 recenzija je OGROMAN skok. Posle 30, rast se usporava. Fokus za male firme: dodjite do 30 recenzija sto pre.
+
+## Zvezdice: zasto 4.0-4.7 prodaje bolje od 5.0
+
+Ovo zvuci kontraintuitivno ali je dokazano: proizvodi sa savrsenom ocenom od 5.0 konvertuju LOSIJE od onih sa 4.0-4.7.
+
+- **94% svih kupovina** se desava za proizvode sa prosekom 4+ zvezdice
+- **54% porudzbina** ide na 5-star proizvode, **40%** na 4-star
+- **70% potrosaca** nece verovati firmi sa manje od 4 zvezdice
+- **52% kupaca** trazi minimum 4.0 prosek
+- Ispod **3.3 zvezdice** vecina kupaca nece ni razmatrati kupovinu
+
+**Zasto 5.0 nije optimalno:** Kupci smatraju savrsen prosek laznim. Nekoliko kritika (ali ne previse) cini firmu verodostojnijom. Idealni raspon: **4.2-4.7 zvezdica**.
+
+## Poverenje: recenzije vs preporuke prijatelja
+
+Mozda vas iznenaditi ali statistike su jasne:
+
+- **54% potrosaca** veruje online recenzijama VISE nego preporukama prijatelja (Reputation.com 2024)
+- **49% kupaca** veruje recenzijama JEDNAKO kao preporukama
+- **75.5% potrosaca** izrazava poverenje u online recenzije generalno
+- Prosecno kupci citaju **7 recenzija** pre nego sto steknu poverenje u firmu
+
+Ali postoji upozorenje: **75% potrosaca** brine o laznim recenzijama, a **53%** se plasi da AI generise lazne ocene. Trustpilot je u 2024. uklonio **4.5 miliona laznih recenzija** (7% svih postavljenih).
+
+## Negativne recenzije: pretnja ili prilika?
+
+### Koliko stete negativne recenzije
+
+- **67% potrosaca** ce odustati od kupovine zbog negativnih recenzija
+- **1 negativna recenzija** moze da odvrati do **30 potencijalnih kupaca**
+- **4+ negativne recenzije** smanjuju prodaju za **70%**
+
+### Ali odgovaranje na negativne recenzije MENJA igru
+
+- **88% potrosaca** smatra da je odgovor firme na recenzije vazan
+- **85%** uzima u obzir odgovore na negativne recenzije pri odluci
+- Firme koje odgovore na negativnu recenziju u roku od **24h** beleže **33% sanse** da kupac povisi ocenu
+- Cak i negativne recenzije (ako firma odgovori) mogu POVECATI konverziju za do **85%** (jer pokazuju transparentnost)
+
+### Kako odgovoriti na negativnu recenziju
+
+1. Zahvalite na povratnoj informaciji
+2. Priznajte problem (ne pravdajte se)
+3. Ponudite konkretno resenje
+4. Premestite razgovor u privatni kanal
+
+Za detaljan vodic pogledajte [upravljanje reputacijom](/blog/upravljanje-reputacijom-drustvene-mreze-srbija-2026).
+
+## Recenzije po platformi: gde su najvaznije
+
+### Google Business Profile
+Najvaznija platforma za lokalne biznise. Broj recenzija direktno utice na poziciju na Google mapi. Pogledajte [GBP optimizacija](/blog/google-business-profile-optimizacija-srbija-2026).
+
+### Product reviews na vasem sajtu
+Za e-commerce, recenzije na samoj product stranici povecavaju konverziju za 270% (5+ recenzija). Pogledajte [product page optimizacija](/blog/optimizacija-product-stranice-e-commerce-srbija-2026).
+
+### Facebook recenzije
+Manje uticajne od Google-a ali doprinose overall online prisustvu i social proof-u.
+
+## Kako prikupiti vise recenzija (bez kupovine)
+
+1. **Automatski email posle kupovine:** Dan posle isporuke, posaljite email sa direktnim linkom za recenziju. Pogledajte [email automatizacija](/blog/email-automatizacija-za-webshop-srbija-2026).
+2. **QR kod na ambalazi:** Na pakovanju proizvoda, QR kod koji vodi na Google recenziju.
+3. **SMS podsecanje:** Kratak SMS 3 dana posle kupovine sa linkom.
+4. **Ne kupujte recenzije:** Google detektuje i kaznjava kupljene recenzije. Fokusirajte se na organske.
+
+Za profesionalnu strategiju prikupljanja recenzija i upravljanja reputacijom, javite se preko [kontakt forme](/kontakt). Za zadrzavanje kupaca pogledajte [customer retention vodic](/blog/zadrzavanje-kupaca-customer-retention-srbija-2026).
+
+*Izvori: Reputation.com Consumer Survey (2024), Spiegel Research Center (2024), Fera.ai E-Commerce Review Statistics (2025), Trustpilot Trust Report (2025), BrightLocal Consumer Review Survey (2025), Birdeye State of Online Reviews (2024).*
+`
+  },
+  {
     slug: 'napustanje-korpe-statistika-po-industriji-2026',
     title: 'Napustanje korpe u e-commerce: statistika po industriji i kako spasiti izgubljene prodaje',
     excerpt: 'Cart abandonment rate po industriji u 2025-2026. Razlozi zasto 73% kupaca odustaje i koliko prodaja mozete spasiti sa 3 email-a.',

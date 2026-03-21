@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "uticaj-online-recenzija-na-prodaju-statistika-2026",
+    "title": "Uticaj online recenzija na prodaju: koliko zvezde i komentari zaista menjaju konverziju",
+    "excerpt": "Statistike o uticaju recenzija na odluku o kupovini u 2025-2026. Koliko recenzija treba, zasto 4 zvezdice pobedjuju 5 i kako odgovoriti na negativne.",
+    "date": "2026-03-21",
+    "category": "CRO",
+    "readTime": "7 min",
+    "isDraft": false
+  },
+  {
     "slug": "napustanje-korpe-statistika-po-industriji-2026",
     "title": "Napustanje korpe u e-commerce: statistika po industriji i kako spasiti izgubljene prodaje",
     "excerpt": "Cart abandonment rate po industriji u 2025-2026. Razlozi zasto 73% kupaca odustaje i koliko prodaja mozete spasiti sa 3 email-a.",
