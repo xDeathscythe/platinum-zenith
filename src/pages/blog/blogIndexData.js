@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "najbolji-wordpress-pluginovi-za-male-firme-srbija-2026",
+    "title": "Najbolji WordPress pluginovi za male firme u Srbiji 2026: 15 obaveznih",
+    "excerpt": "Lista od 15 WordPress pluginova koje svaka mala firma u Srbiji treba da ima. SEO, bezbednost, brzina, forme i e-commerce — besplatni i placeni.",
+    "date": "2026-03-21",
+    "category": "WordPress",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-hotele-i-smestaj-cena-rezervacije-srbija-2026",
     "title": "Google Ads za hotele i smestaj u Srbiji 2026: kako smanjiti zavisnost od Booking-a",
     "excerpt": "Koliko kosta Google Ads za hotele, apartmane i vile u Srbiji. Tipovi kampanja, budzeti, cena po direktnoj rezervaciji i strategija za smanjenje OTA provizije.",

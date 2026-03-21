@@ -1,5 +1,126 @@
 const rawBlogPosts = [
   {
+    slug: 'najbolji-wordpress-pluginovi-za-male-firme-srbija-2026',
+    title: 'Najbolji WordPress pluginovi za male firme u Srbiji 2026: 15 obaveznih',
+    excerpt: 'Lista od 15 WordPress pluginova koje svaka mala firma u Srbiji treba da ima. SEO, bezbednost, brzina, forme i e-commerce — besplatni i placeni.',
+    date: '2026-03-21',
+    category: 'WordPress',
+    readTime: '8 min',
+    content: `
+## Zasto je izbor pluginova vazniji nego sto mislite
+
+WordPress je mocan jer ima 60.000+ besplatnih pluginova. Ali previse pluginova usporava sajt, stvara bezbednosne rupe i komplikuje odrzavanje. Cilj nije instalirati 40 pluginova nego izabrati 10-15 pravih koji pokrivaju sve sto vam treba.
+
+Za tehnicku optimizaciju pogledajte [WordPress speed vodic](/blog/ubrzavanje-wordpress-sajta-tehnicki-seo-srbija-2026). Za bezbednost pogledajte [WordPress bezbednost vodic](/blog/wordpress-bezbednost-vodic-srbija-2026).
+
+## SEO pluginovi (obavezan 1)
+
+### Yoast SEO (besplatan)
+
+Najkorisniji plugin na celom WordPress-u. Radi: meta naslovi i opisi, XML sitemap, breadcrumb navigacija, robots.txt, redirect menadzer, analiza sadrzaja. Pro verzija (99 EUR/god) dodaje naprednu analizu i redirect manager.
+
+**Alternativa:** RankMath (besplatan sa vise feature-a od Yoast Free, ali komplikovaniji za pocetnike).
+
+**Pravilo:** Instalirajte JEDAN SEO plugin, ne oba. Za SEO cene pogledajte [SEO optimizacija cena](/seo-optimizacija-cena).
+
+## Bezbednosni pluginovi (obavezan 1)
+
+### Wordfence (besplatan)
+
+Firewall, malware skener, brute force zastita i 2FA -- sve u jednom. Besplatna verzija je dovoljna za 90% sajtova. Premium (119 USD/god) dodaje real-time firewall rules i priority support.
+
+**Alternativa:** Sucuri Security (laksi, manje agresivan) ili iThemes Security (vise opcija za pocetnike).
+
+## Brzina i cache (obavezan 1)
+
+### LiteSpeed Cache (besplatan)
+
+Ako ste na LiteSpeed serveru (Hostinger, vecina srpskih hostinga), ovo je daleko najbolji cache plugin. Page cache, browser cache, CSS/JS optimizacija, image optimization, lazy loading -- sve besplatno.
+
+**Alternativa za Apache/Nginx:** WP Rocket (59 USD/god) -- plaCen ali fantastican. Najlaksi za postavljanje od svih cache pluginova.
+
+**Alternativa besplatna:** W3 Total Cache (komplikovaniji ali mocan).
+
+## Forme (obavezan 1)
+
+### WPForms Lite (besplatan)
+
+Drag-and-drop kontakt forma za 5 minuta. Lite verzija pokriva osnovnu kontakt formu. Pro verzija (79 USD/god) dodaje ankete, placanje, conditional logic i multi-step forme.
+
+**Alternativa:** Contact Form 7 (besplatan, star ali stabilan) ili Fluent Forms (moderan, brz).
+
+Za optimizaciju formi pogledajte [landing stranica vodic](/blog/kako-napraviti-landing-stranicu-koja-konvertuje-srbija-2026).
+
+## Backup (obavezan 1)
+
+### UpdraftPlus (besplatan)
+
+Automatski backup sajta na Google Drive, Dropbox ili S3. Jedan klik restore. Besplatna verzija pokriva sve sto mala firma treba. Premium (70 USD/god) dodaje inkrementalni backup i migraciju.
+
+## Analitika (obavezan 1)
+
+### Site Kit by Google (besplatan)
+
+Povezuje Google Analytics 4, Search Console, PageSpeed Insights i AdSense na jednom mestu u WordPress dasboard-u. Zvanican Google plugin. Za GA4 vodic pogledajte [Google Analytics 4 vodic](/blog/google-analytics-4-vodic-za-pocetnike-srbija-2026).
+
+## Optimizacija slika (obavezan 1)
+
+### ShortPixel (besplatan do 100 slika/mesecno)
+
+Automatski kompresuje slike pri uploadu i konvertuje u WebP format. Dramticno smanjuje velicinu slika bez vidljivog gubitka kvaliteta. Placeni plan od 5 USD mesecno za vecinu sajtova.
+
+**Alternativa:** Imagify (WP Rocket ekosistem) ili Smush (besplatan do 50MB).
+
+## E-Commerce (ako imate prodavnicu)
+
+### WooCommerce (besplatan)
+
+Jedini ozbiljan e-commerce plugin za WordPress. Pokrece 25% svih online prodavnica na svetu. Za poredjenje sa Shopify pogledajte [WooCommerce vs Shopify](/blog/woocommerce-vs-shopify-srbija-2026).
+
+### Niwa AI (besplatan + premium)
+
+AI prodajni asistent za WooCommerce koji automatski odgovara na pitanja kupaca, preporucuje proizvode i hvata lead-ove 24/7. Pogledajte [niwachat.com](https://niwachat.com) za detalje.
+
+## Dodatni korisni pluginovi
+
+### Elementor (page builder)
+
+Za vizuelno kreiranje stranica bez kodiranja. Besplatna verzija pokriva osnovno. Pro (59 USD/god) dodaje WooCommerce widgete, popup builder i theme builder.
+
+### Redirection (besplatan)
+
+Upravlja 301 redirect-ima kad menjate URL-ove. Sprečava 404 greske koje ubijaju SEO. Za vise o redirekcijama pogledajte [GSC vodic](/blog/google-search-console-vodic-za-pocetnike-srbija-2026).
+
+### WP Mail SMTP (besplatan)
+
+WordPress default email cesto zavrsava u spam-u. Ovaj plugin usmerava emailove kroz pravi SMTP server (Gmail, Brevo, Mailgun) i drasticno poboljsava isporuku.
+
+### TablePress (besplatan)
+
+Za kreiranje responsivnih tabela bez kodiranja. Korisno za cenovnike, poredjenja i specifikacije.
+
+### Cookie Notice (besplatan)
+
+GDPR/ePrivacy compliant cookie banner. Obavezan za sve sajtove koji koriste Google Analytics ili Facebook Pixel.
+
+## Koliko pluginova je previise?
+
+**Optimalno:** 10-20 aktivnih pluginova za mali biznis sajt.
+**Previse:** 30+ -- sajt se usporava, raste rizik od konflikata i bezbednosnih problema.
+
+**Pravilo:** Ako plugin ne koristite aktivno, deaktivirajte ga i obrisite. Neaktivni pluginovi su i dalje bezbednosni rizik.
+
+## Kako proveriti da li plugin usporava sajt
+
+1. Instalirajte "Query Monitor" plugin (besplatan, za debug)
+2. Otvorite sajt i pogledajte koji pluginovi trose najvise resursa
+3. Testirajte brzinu pre i posle deaktivacije sumnjivog plugina
+4. Koristite PageSpeed Insights za merenje ucinka
+
+Za profesionalnu WordPress optimizaciju i izbor pluginova, javite se preko [kontakt forme](/kontakt). Za cene izrade sajta pogledajte [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+`
+  },
+  {
     slug: 'google-ads-za-hotele-i-smestaj-cena-rezervacije-srbija-2026',
     title: 'Google Ads za hotele i smestaj u Srbiji 2026: kako smanjiti zavisnost od Booking-a',
     excerpt: 'Koliko kosta Google Ads za hotele, apartmane i vile u Srbiji. Tipovi kampanja, budzeti, cena po direktnoj rezervaciji i strategija za smanjenje OTA provizije.',
