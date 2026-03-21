@@ -1,5 +1,130 @@
 const rawBlogPosts = [
   {
+    slug: 'koliko-kosta-novi-klijent-cpa-po-industriji-google-facebook-2026',
+    title: 'Koliko kosta novi klijent: CPA benchmarci po industriji za Google i Facebook Ads',
+    excerpt: 'Realni CPA (cena po akviziciji) benchmarci po industriji za Google Ads i Facebook Ads u 2025-2026. Koliko firme zapravo placaju za svakog novog klijenta.',
+    date: '2026-03-21',
+    category: 'Google Ads',
+    readTime: '8 min',
+    content: `
+## Zasto morate znati koliko vas kosta novi klijent
+
+CPA (Cost Per Acquisition) je jedina metrika koja zaista odredjuje da li je vasa kampanja profitabilna. Ne CTR, ne impressions, ne engagement -- koliko EUR placate za svakog novog klijenta ili lead-a.
+
+Ako vas prosecni klijent donosi 500 EUR profita, a CPA je 50 EUR -- svaka kampanja je 10x isplativa. Ako je CPA 600 EUR -- gubite novac na svakoj prodaji. Bez poznavanja ove brojke, marketing je kockanje.
+
+Za pregled troskova pogledajte [Google reklame cena](/google-reklame-cena) i [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama).
+
+## Google Ads CPA po industriji (2025 benchmarci)
+
+Podaci iz WordStream, Triple Whale i Adbacklog istrazivannja na desetinama hiljada Google Ads naloga:
+
+### Najjeftiniji CPA (ispod 40 EUR)
+
+- **Restorani i hrana:** 30 EUR (nizak CPA jer je konverzija obicno rezervacija ili narudzbina, ne velika prodaja)
+- **Automotive servis i delovi:** 28 EUR
+- **Kucni ljubimci:** 25 EUR (najnizi CPA od svih industrija -- 4% pad u odnosu na 2024)
+- **Putovanja (oprema):** 28 EUR
+- **Maloprodaja (Apparel):** 45 EUR
+
+### Srednji CPA (40-80 EUR)
+
+- **Fitness i zdravlje:** 78 EUR
+- **Edukacija:** 73 EUR
+- **Putovanja i turizam:** 45 EUR
+- **Stomatologija:** 65-75 EUR (visok CPC ali dobar lifetime value pacijenta)
+- **Pravne usluge:** 86 EUR
+
+### Visok CPA (80+ EUR)
+
+- **B2B usluge:** 116 EUR (najskuplji, ali jedan B2B klijent vredi hiljade EUR)
+- **Nekretnine:** 117 EUR (takodje visok ali jedan deal = velika provizija)
+- **Kucni servisi (renoviranje):** 87 EUR
+- **Finansije i osiguranje:** 82 EUR
+
+**Kljucni trend 2024-2025:** Prosecni CPA je porastao za **12.35%** godisnje (medijana porasla sa 21 na 24 EUR). Konkurencija raste, cene rastu.
+
+## Facebook Ads CPA po industriji (2025 benchmarci)
+
+Podaci iz WordStream i Adbacklog na hiljade Meta Ads naloga:
+
+### Najjeftiniji CPA (ispod 20 EUR)
+
+- **Restorani i hrana:** 3 EUR (!!) (najnizi od svih industrija -- Facebook reklama sa ponudom i direktnom rezervacijom)
+- **Nekretnine:** 17 EUR (iznenadnjujuce nisko jer su lead gen forme na Facebooku efikasne)
+- **Zaposljavanje:** 18 EUR
+
+### Srednji CPA (20-50 EUR)
+
+- **Maloprodaja:** 20 EUR
+- **Lepota i kozmetika:** 51 EUR
+- **Automotive:** 44 EUR
+- **Renoviranje doma:** 45 EUR
+
+### Visok CPA (50+ EUR)
+
+- **Stomatologija:** 77 EUR (najvisi CPA na Facebook-u!)
+- **Fitness i zdravlje:** 53 EUR
+- **IT usluge:** 55 EUR
+
+**Meta Ads trend:** Prosecni CPA je porastao sa 22 EUR (2024) na 28 EUR (2025) za lead gen kampanje -- rast od **24%**.
+
+## Google vs Facebook: gde je jeftiniji klijent?
+
+| Industrija | Google CPA | Facebook CPA | Jeftiniji kanal |
+|-----------|-----------|-------------|-----------------|
+| Restorani | 30 EUR | 3 EUR | Facebook (10x!) |
+| Nekretnine | 117 EUR | 17 EUR | Facebook (7x) |
+| Stomatologija | 70 EUR | 77 EUR | Google (marginalno) |
+| B2B usluge | 116 EUR | 55 EUR | Facebook (2x) |
+| Maloprodaja | 45 EUR | 20 EUR | Facebook (2.2x) |
+| Fitness | 78 EUR | 53 EUR | Facebook (1.5x) |
+
+**Zakljucak:** Facebook je generalno jeftiniji po lead-u, ALI Google lead-ovi su cesto kvalitetniji (osoba je aktivno trazila uslugu). Idealna strategija je kombinacija: Google za high-intent pretrage + Facebook za remarketing i awareness.
+
+Za LinkedIn CPA (B2B) pogledajte [LinkedIn reklame cena](/blog/linkedin-reklame-cena-b2b-marketing-srbija-2026).
+
+## Kako izracunati da li je vas CPA profitabilan
+
+Formula: **Maximalni dozvoljeni CPA = Lifetime Value kupca x Profit marza**
+
+**Primer za stomatolog:**
+- Prosecni pacijent donosi 2.000 EUR u 3 godine
+- Profit marza: 40%
+- Max CPA = 2.000 x 0.4 = 800 EUR
+- Trenutni CPA: 70 EUR
+- **ROI: 11x** -- svaki ulozeni evro donosi 11 evra profita
+
+**Primer za e-commerce (moda):**
+- Prosecna vrednost porudzbine: 50 EUR
+- Profit marza: 30%
+- Max CPA za prvu kupovinu = 50 x 0.3 = 15 EUR
+- Ali ako je CLV 200 EUR (4 kupovine), Max CPA = 200 x 0.3 = 60 EUR
+- Trenutni CPA: 45 EUR
+- **ROI: pozitivan** ali samo ako imate retenciju
+
+Za detaljno merenje pogledajte [kako meriti ROI digitalnog marketinga](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026). Za customer retention pogledajte [zadrzavanje kupaca vodic](/blog/zadrzavanje-kupaca-customer-retention-srbija-2026).
+
+## Kako smanjiti CPA (bez smanjenja kvaliteta lead-ova)
+
+### 1) Poboljsajte Quality Score na Google-u
+Visi Quality Score = nizi CPC = nizi CPA. Pogledajte [Quality Score vodic](/blog/google-ads-quality-score-vodic-srbija-2026).
+
+### 2) Koristite remarketing
+Remarketing ima 3-5x nizi CPA od cold kampanja jer ciljate ljude koji vas vec poznaju. Pogledajte [Facebook remarketing vodic](/blog/facebook-ads-remarketing-strategija-srbija-2026).
+
+### 3) Optimizujte landing stranice
+Poboljsanje konverzije sa 2% na 4% prepolovljuje CPA bez promene budzeta. Pogledajte [landing stranica vodic](/blog/kako-napraviti-landing-stranicu-koja-konvertuje-srbija-2026).
+
+### 4) Iskljucite neproduktivne kljucne reci
+Pregledajte Search Terms report nedeljno i dodajte negativne kljucne reci. 20-30% budzeta obicno odlazi na irelevantan saobracaj.
+
+Za profesionalno vodjenje kampanja i optimizaciju CPA, javite se preko [kontakt forme](/kontakt).
+
+*Izvori: WordStream Google Ads Benchmarks (2024, 2025), WordStream Facebook Ads Benchmarks (2024, 2025), Triple Whale E-Commerce Benchmarks (2025), Adbacklog Industry Benchmarks (2025).*
+`
+  },
+  {
     slug: 'koliko-klikova-dobija-prvi-rezultat-na-google-ctr-po-poziciji-2026',
     title: 'Koliko klikova zapravo dobija prvi rezultat na Google-u: CTR po poziciji i uticaj AI pregleda',
     excerpt: 'Organski CTR po poziciji na Google-u 2026. Koliko klikova dobijaju pozicije 1-10, kako AI pregledi smanjuju klikove i zasto 60% pretraga zavrsi bez klika.',

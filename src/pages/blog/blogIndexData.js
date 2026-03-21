@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "koliko-kosta-novi-klijent-cpa-po-industriji-google-facebook-2026",
+    "title": "Koliko kosta novi klijent: CPA benchmarci po industriji za Google i Facebook Ads",
+    "excerpt": "Realni CPA (cena po akviziciji) benchmarci po industriji za Google Ads i Facebook Ads u 2025-2026. Koliko firme zapravo placaju za svakog novog klijenta.",
+    "date": "2026-03-21",
+    "category": "Google Ads",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "koliko-klikova-dobija-prvi-rezultat-na-google-ctr-po-poziciji-2026",
     "title": "Koliko klikova zapravo dobija prvi rezultat na Google-u: CTR po poziciji i uticaj AI pregleda",
     "excerpt": "Organski CTR po poziciji na Google-u 2026. Koliko klikova dobijaju pozicije 1-10, kako AI pregledi smanjuju klikove i zasto 60% pretraga zavrsi bez klika.",
