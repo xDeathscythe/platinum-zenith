@@ -27,6 +27,8 @@ Podaci iz istrazivannja na milionima web stranica pokazuju jasan trend: **svaka 
 
 Ove brojke nisu zaokruzene procene -- to su mereni podaci sa miliona transakcija.
 
+{{speed-impact-chart}}
+
 Za optimizaciju konverzije pogledajte [CRO vodic](/blog/optimizacija-konverzije-sajta-cro-srbija-2026).
 
 ## Kako brzina utice na bounce rate (napustanje sajta)

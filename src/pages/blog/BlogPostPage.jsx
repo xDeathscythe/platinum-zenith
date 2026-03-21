@@ -12,6 +12,7 @@ import FbCreativeTypes from './illustrations/FbCreativeTypes'
 import PyramidHero from './illustrations/PyramidHero'
 import PyramidGoogleAds from './illustrations/PyramidGoogleAds'
 import PyramidFullFunnel from './illustrations/PyramidFullFunnel'
+import SpeedImpactChart from './SpeedImpactChart'
 
 const componentMap = {
   '{{pyramid}}': BuyerPyramid,
@@ -24,6 +25,7 @@ const componentMap = {
   '{{pyramid-hero}}': PyramidHero,
   '{{pyramid-google-ads}}': PyramidGoogleAds,
   '{{pyramid-full-funnel}}': PyramidFullFunnel,
+  '{{speed-impact-chart}}': SpeedImpactChart,
 }
 
 const MONEY_PAGES = [
