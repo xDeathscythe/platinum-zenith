@@ -1,5 +1,112 @@
 const rawBlogPosts = [
   {
+    slug: 'mobilna-vs-desktop-kupovina-konverzije-statistika-2026',
+    title: 'Mobilna vs desktop kupovina: ko zaista kupuje i gde gubite prodaju',
+    excerpt: 'Statistike o mobilnoj vs desktop kupovini 2026. Zasto 75% saobracaja dolazi sa telefona ali desktop i dalje ima vecu konverziju — i kako to popraviti.',
+    date: '2026-03-21',
+    category: 'E-Commerce',
+    readTime: '8 min',
+    content: `
+## Paradoks mobilne kupovine: vise saobracaja, manje prodaje
+
+Evo brojke koja zbunjuje vecinu vlasnika webshopova: **75% saobracaja** dolazi sa mobilnih uredjaja, ali **desktop ima 1.5-2x vecu konverziju**. Ljudi pregledaju proizvode na telefonu, ali kupuju na racunaru.
+
+Ovo nije "problem mobilnog interneta". Ovo je problem loseg mobilnog iskustva na vecini sajtova. I to je ogromna prilika za firme koje ga rese.
+
+Za optimizaciju mobilnog dizajna pogledajte [mobilni dizajn vodic](/blog/mobilni-dizajn-sajta-srbija-2026). Za konverzijsku optimizaciju pogledajte [CRO vodic](/blog/optimizacija-konverzije-sajta-cro-srbija-2026).
+
+## Konverzija po uredjaju: konkretne cifre
+
+Podaci iz istrazivannja na milionima e-commerce transakcija (2024-2025):
+
+- **Desktop konverzija:** prosecno **3.5%** (neki izvori beleze i do 3.9%)
+- **Mobilna konverzija:** prosecno **2.0-2.1%** (gotovo duplo nize)
+- **Tablet konverzija:** prosecno **2.1%** (izmedju mobilnog i desktopa)
+- **Mobilna aplikacija konverzija:** prosecno **6.0%** (3x vise od mobilnog browsera!)
+
+Razlika izmedju mobilnog browsera (2%) i mobilne aplikacije (6%) pokazuje da problem nije u uredjaju -- nego u iskustvu koje pruzate.
+
+## Gde saobracaj zaista dolazi (i gde se gubi)
+
+- **75% ukupnog e-commerce saobracaja** dolazi sa mobilnih uredjaja (2024-2025 globalno)
+- **70% Shopify saobracaja** dolazi sa telefona
+- Ali samo **57% e-commerce prodaje** se zavrsi na mobilnom (ostatak prelazi na desktop)
+- **60% kupaca** pregledava na telefonu ali zavrsava kupovinu na desktopu
+
+To znaci da vam **skoro polovina mobilnih posetilaca** odlazi da zavrsi kupovinu negde drugde -- ili je uopste ne zavrsi.
+
+## Zasto mobilna konverzija zaostaje: 6 dokazanih razloga
+
+### 1) Visok cart abandonment na mobilnom
+
+- **Mobilni cart abandonment:** 84.8% (vs 70% na desktopu -- razlika od 14.8 procentnih poena)
+- U Q3 2024: mobilni cart abandonment je bio **83.6%** -- i dalje 15.3% visi od desktopa
+
+Ljudi stave u korpu ali odustanu jer je checkout proces na telefonu frustrirajuc.
+
+### 2) Spor checkout proces
+
+Na malom ekranu, kucanje adrese, broja kartice i podataka za dostavu traje 2-3x duze nego na tastaturi. Svako polje koje dodate smanjuje konverziju za 10-15%. Pogledajte [optimizaciju product stranice](/blog/optimizacija-product-stranice-e-commerce-srbija-2026).
+
+### 3) Nedostaju express payment opcije
+
+**Apple Pay, Google Pay, Shop Pay** dramaticno skracuju checkout na mobilnom (jedan tap umesto kucanja). Sajtovi sa express payment imaju **1.7x vecu mobilnu konverziju** od onih bez.
+
+### 4) Navigacija dizajnirana za desktop
+
+Hamburger meni sa 47 stavki, mali dugmici, zoom-in na tekst. Sajt koji "radi" na mobilnom i sajt koji je **dizajniran za mobilni** su dve potpuno razlicite stvari.
+
+### 5) Sporo ucitavanje na mobilnom
+
+Prosecna mobilna stranica se ucitava **6.3 sekundi** -- daleko od preporucenih 2 sekunde. Svaka sekunda iznad 3 povecava bounce rate za 32%. Pogledajte [uticaj brzine na rangiranje](/blog/kako-brzina-sajta-utice-na-rangiranje-na-googlu-2026).
+
+### 6) Nedostatak poverenja na malom ekranu
+
+Trust signali (sertifikati, recenzije, garancije) su cesto skriveni ili premali na mobilnom. Kupac ne vidi "sigurno placanje" bedz jer je ispod fold-a.
+
+## Kako povecati mobilnu konverziju: 5 dokazanih resenja
+
+### 1) Guest Checkout (obavezan)
+
+**35% kupaca** odustane zato sto moraju da kreiraju nalog. Na mobilnom, ta brojka je jos veca. Omogucite kupovinu bez registracije.
+
+### 2) Autofill i express payment
+
+Implementirajte Apple Pay / Google Pay. Omogucite autofill za adresu i karticu (HTML autocomplete atributi). Smanjite checkout na 2-3 tap-a.
+
+### 3) Sticky CTA dugme
+
+"Dodaj u korpu" dugme koje prati korisnika dok skroluje. Na mobilnom, ovo povecava Add-to-Cart rate za **15-20%**.
+
+### 4) Optimizujte slike za mobilni
+
+Koristite responsive slike (srcset), WebP format i lazy loading. Cilj: first meaningful paint ispod 2 sekunde na 4G mrezi.
+
+### 5) Pojednostavite forme
+
+Maximum 3 polja na mobilnom. Koristite odgovarajuce input tipove (tel, email) za pravu tastaturu. Pogledajte [landing stranica vodic](/blog/kako-napraviti-landing-stranicu-koja-konvertuje-srbija-2026).
+
+## Trend: mobilna kupovina raste brze nego ikad
+
+Uprkos nizoj konverziji, mobilna kupovina dominira po obimu:
+- **57% globalne e-commerce prodaje** se desava na mobilnom (2024)
+- **59%** procena za 2025
+- Holiday sezona 2023: mobilni je **prvi put prestignuo desktop** u ukupnoj prodaji
+- Mobilna e-commerce prodaja u SAD: **564 milijardi USD** u 2024
+- **76% kupaca** kaze da kupuje na telefonu jer "stedi vreme"
+
+Firme koje optimizuju mobilno iskustvo sada ce imati ogromnu prednost jer vecina konkurencije to jos uvek ne radi.
+
+## Kljucni zakljucak
+
+Desktop ima vecu konverziju, ali mobilni ima 3x vise saobracaja. Matematika je jasna: **poboljsanje mobilne konverzije sa 2% na 3%** (sto je dostizno sa gore navedenim optimizacijama) efektivno **povecava ukupnu prodaju za 35-50%** bez ijednog evra u reklame.
+
+Za profesionalnu optimizaciju mobilnog iskustva vaseg webshopa, javite se preko [kontakt forme](/kontakt). Za cene izrade pogledajte [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+
+*Izvori: Statista Mobile Commerce Report (2024), Adobe Analytics Holiday Report (2024), Baymard Institute Cart Abandonment Study (2024), Shopify Commerce Report (2025), Oberlo Mobile E-Commerce Statistics (2025).*
+`
+  },
+  {
     slug: 'kako-brzina-sajta-utice-na-rangiranje-na-googlu-2026',
     title: 'Kako brzina ucitavanja sajta utice na rangiranje na Google-u: podaci i statistike',
     excerpt: 'Konkretne statistike o uticaju brzine sajta na Google rang, konverzije i bounce rate. Koliko vas svaka sekunda kasnjenja kosta u prodaji i poziciji.',

@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "mobilna-vs-desktop-kupovina-konverzije-statistika-2026",
+    "title": "Mobilna vs desktop kupovina: ko zaista kupuje i gde gubite prodaju",
+    "excerpt": "Statistike o mobilnoj vs desktop kupovini 2026. Zasto 75% saobracaja dolazi sa telefona ali desktop i dalje ima vecu konverziju — i kako to popraviti.",
+    "date": "2026-03-21",
+    "category": "E-Commerce",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "kako-brzina-sajta-utice-na-rangiranje-na-googlu-2026",
     "title": "Kako brzina ucitavanja sajta utice na rangiranje na Google-u: podaci i statistike",
     "excerpt": "Konkretne statistike o uticaju brzine sajta na Google rang, konverzije i bounce rate. Koliko vas svaka sekunda kasnjenja kosta u prodaji i poziciji.",
