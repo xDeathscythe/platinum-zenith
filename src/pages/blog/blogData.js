@@ -1,5 +1,110 @@
 const rawBlogPosts = [
   {
+    slug: 'napustanje-korpe-statistika-po-industriji-2026',
+    title: 'Napustanje korpe u e-commerce: statistika po industriji i kako spasiti izgubljene prodaje',
+    excerpt: 'Cart abandonment rate po industriji u 2025-2026. Razlozi zasto 73% kupaca odustaje i koliko prodaja mozete spasiti sa 3 email-a.',
+    date: '2026-03-21',
+    category: 'E-Commerce',
+    readTime: '7 min',
+    content: `
+## 73% online korpi ostaje napusteno — ali 260 milijardi dolara moze da se spasi
+
+Svaki put kad kupac stavi proizvod u korpu i ode bez kupovine, vi gubite novac. U 2025. godini, prosecna stopa napustanja korpe globalno iznosi **73-75%**. Za webshop sa 100 porudzbina dnevno, to znaci da je jos **270 kupaca** stavilo nesto u korpu i otislo.
+
+Dobra vest: analitacari procenjuju da se **260 milijardi USD godisnje** moze spasiti optimizacijom checkout-a i email recovery kampanjama.
+
+Za postavljanje recovery emailova pogledajte [email automatizacija za webshop](/blog/email-automatizacija-za-webshop-srbija-2026). Za cene izrade webshopa pogledajte [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena). Za optimizaciju product stranica pogledajte [12 elemenata koji prodaju](/blog/optimizacija-product-stranice-e-commerce-srbija-2026).
+
+## Cart abandonment rate po industriji (2024-2025)
+
+### Najvisi abandonment (80%+)
+
+- **Luksuz i nakit:** 81-83% (visoka cena = duze razmisljanje)
+- **Putovanja:** 81-82% (kompleksna kupovina sa vise opcija)
+- **Lepota i kozmetika:** 81% (impulzivno stavljanje u korpu, racionalno odustajanje)
+- **Kucni dekor i namestaj:** 79-80% (skupe stavke, zahtevaju razgovor sa partnerom)
+- **Telekomunikacije:** 79% (komplikovani planovi i ugovori)
+
+### Srednji abandonment (60-80%)
+
+- **Moda i odeca:** 76-79% (nesigurnost oko velicine/fit-a)
+- **Elektronika:** 74% (uporedna kupovina, cekanje popusta)
+- **Genericki e-commerce prosek:** 73%
+- **Sport i rekreacija:** 70%
+
+### Najnizi abandonment (50-60%)
+
+- **Namirnice (groceries):** 50% (hitna potreba, manja cena po artiklu)
+- **Kucni ljubimci:** 53-55% (emocionalna kupovina, redovna potreba)
+- **Farmacija:** 57% (medicinska potreba = manja verovatnoca odustajanja)
+- **B2B e-commerce:** 57% (odluka vec doneta pre dodavanja u korpu)
+
+## 10 Razloga zasto kupci napustaju korpu
+
+Podaci iz Baymard Institute, Oberlo i Bolt istrazivanja (2024):
+
+1. **Skriveni troskovi (dostava, porez):** 48-55% kupaca — **razlog #1**
+2. **Obavezna registracija:** 24-26% (forsiranje kreiranja naloga)
+3. **Nepoverenje u sajt (bezbednost kartice):** 25%
+4. **Spora dostava:** 21-23%
+5. **Komplikovan checkout:** 17-31% (previse koraka ili polja)
+6. **Nemogu da vidim ukupnu cenu unapred:** 21%
+7. **Losa politika povrata:** 18%
+8. **Nedostaju zeljeni nacini placanja:** 13-22%
+9. **Tehnicki problemi (crash sajta):** 14-17%
+10. **Samo pregledaju, nisu spremni za kupovinu:** 48% (ne mozete eliminisati, ali mozete remarketing)
+
+Za psihologiju kupovine pogledajte [CRO principi](/blog/psihologija-kupovine-kako-sajt-utice-na-odluke-srbija-2026).
+
+## Koliko prodaja mozete spasiti: recovery statistike
+
+### Abandoned cart emailovi
+
+- **Open rate:** 45% (3x vise od regularnog newsletter-a!)
+- **Click-through rate:** 21%
+- **50% klikova** zavrsava kupovinom
+- **10% ukupno izgubljenog prihoda** se moze spasiti samo emailom
+- **Revenue per recipient:** 3.65 USD (najvise od svih automatizovanih emailova)
+- Kampanja sa **3 emaila** donosi **69% vise porudzbina** od kampanje sa 1 emailom
+
+### Optimalna email sekvenca za recovery
+
+**Email 1 (1h posle napustanja):** "Zaboravili ste nesto?" + slika proizvoda + direktan link. BEZ popusta.
+**Email 2 (24h posle):** "Jos uvek razmisljate?" + social proof (recenzije, broj prodatih) + besplatna dostava.
+**Email 3 (72h posle):** "Poslednja sansa" + 5-10% popust + urgency ("vas artikal je jos na stanju").
+
+### Remarketing oglasi
+
+Facebook/Instagram retargeting na cart abandoners donosi 3-5x visi ROAS od hladnih kampanja. Pogledajte [Facebook remarketing vodic](/blog/facebook-ads-remarketing-strategija-srbija-2026).
+
+## 5 Promena koje odmah smanjuju abandonment
+
+### 1) Prikazite sve troskove ODMAH
+
+Dostava, porez, pakovanje — sve mora biti vidljivo PRE checkout-a. Idealno: na samoj product stranici. Ako nudite besplatnu dostavu iznad odredjenog iznosa, napisite to velikim slovima.
+
+### 2) Omogucite Guest Checkout
+
+35% kupaca odustaje zbog obavezne registracije. "Kupite kao gost" dugme je obavezno. Podatke za nalog mozete traziti POSLE kupovine: "Zelite da sacuvate podatke za sledecu kupovinu?"
+
+### 3) Dodajte express payment
+
+Apple Pay, Google Pay, pouzece. Svaki payment metod koji skracuje kucanje na telefonu smanjuje abandonment za 5-10%. Za mobilnu optimizaciju pogledajte [mobilni dizajn vodic](/blog/mobilni-dizajn-sajta-srbija-2026).
+
+### 4) Prikazite trust signale pored checkout dugmeta
+
+"Sigurno placanje" bedz, "Povrat u roku od 14 dana", logotipi kartica — sve neposredno pored "Plati" dugmeta. Kupac treba da se oseca sigurno u sekundi kad donosi odluku.
+
+### 5) Smanjite checkout na 1-2 koraka
+
+Svaki dodatni korak u checkout-u gubi 10% kupaca. One-page checkout je idealan. Za WooCommerce koristite plugin "CheckoutWC" ili "CartFlows".
+
+Za profesionalnu optimizaciju checkout-a i smanjenje cart abandonment-a, javite se preko [kontakt forme](/kontakt). Pogledajte i [kako pokrenuti online prodavnicu](/blog/kako-pokrenuti-online-prodavnicu-srbija-2026).
+
+*Izvori: Baymard Institute Cart Abandonment Research (2024), Oberlo Cart Abandonment Statistics (2025), Bolt Commerce Report (2024), Klaviyo Abandoned Cart Benchmarks (2025), Dynamic Yield Cart Abandonment Benchmark (2025).*
+`
+  },
+  {
     slug: 'video-marketing-roi-kratki-video-reels-tiktok-statistika-2026',
     title: 'Video marketing ROI: zasto kratki video donosi najbolje rezultate u 2026',
     excerpt: 'Statistike o ROI video marketinga u 2026. Reels, TikTok i YouTube Shorts engagement, konverzije i zasto 93% firmi planira da ulaze vise u video.',

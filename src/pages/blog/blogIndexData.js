@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "napustanje-korpe-statistika-po-industriji-2026",
+    "title": "Napustanje korpe u e-commerce: statistika po industriji i kako spasiti izgubljene prodaje",
+    "excerpt": "Cart abandonment rate po industriji u 2025-2026. Razlozi zasto 73% kupaca odustaje i koliko prodaja mozete spasiti sa 3 email-a.",
+    "date": "2026-03-21",
+    "category": "E-Commerce",
+    "readTime": "7 min",
+    "isDraft": false
+  },
+  {
     "slug": "video-marketing-roi-kratki-video-reels-tiktok-statistika-2026",
     "title": "Video marketing ROI: zasto kratki video donosi najbolje rezultate u 2026",
     "excerpt": "Statistike o ROI video marketinga u 2026. Reels, TikTok i YouTube Shorts engagement, konverzije i zasto 93% firmi planira da ulaze vise u video.",
