@@ -1,5 +1,107 @@
 const rawBlogPosts = [
   {
+    slug: 'engagement-rate-po-platformi-instagram-tiktok-linkedin-2026',
+    title: 'Engagement rate po platformi 2026: gde vasa publika zaista reaguje',
+    excerpt: 'Uporedni podaci o engagement rate-u na Instagramu, TikToku, LinkedIn-u i Facebooku u 2025-2026. Koja platforma donosi najvise interakcija i zasto.',
+    date: '2026-03-21',
+    category: 'Social Media',
+    readTime: '7 min',
+    content: `
+## Ne merite pratioce — merite engagement
+
+Imate 10.000 pratilaca na Instagramu ali svaki post dobija 50 lajkova? Vas engagement rate je 0.5% -- sto znaci da vas 99.5% pratilaca ignoriše. Broj pratilaca je metrika sujete. Engagement rate je metrika koja pokazuje da li vas publika zaista slusa.
+
+Engagement rate = (lajkovi + komentari + deljenja + sacuvano) / doseg x 100
+
+Evo kako stoje stvari po platformama u 2025-2026, na osnovu podataka iz Buffer, Socialinsider i Rival IQ istrazivannja.
+
+Za kompletnu strategiju drustvenih mreza pogledajte [social media vodic](/blog/social-media-strategija-za-male-firme-srbija-2026). Za cene drustvenih mreza pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## LinkedIn: iznenaddjujuci pobednik u 2026
+
+LinkedIn je platforma sa najvisom stopom engagement-a u 2025-2026 — i to sa znacajnim rastom.
+
+- **Prosecni engagement rate (2025):** 5.2-6.5%
+- **Medijana (januar 2025):** 8.01% (skok sa 6.0% u januaru 2024 — rast od 33%)
+- **Rast u odnosu na 2024:** +30%
+
+**Zasto LinkedIn raste dok ostali padaju:**
+- Manja konkurencija sadrzaja (manje objava nego na IG/FB, svaka dobija vise paznje)
+- Algoritam aktivno nagradjuje konverzaciju (komentari > lajkovi)
+- Raznovrsni formati (karuseli, dokumenti, ankete, video) svi imaju jak doseg
+- Profesionalna publika koja je fokusiranija (ne skroluje bezveze kao na IG)
+
+Za B2B firme u Srbiji, LinkedIn je trenutno **najisplativija platforma** za organski doseg. Pogledajte [LinkedIn marketing vodic](/blog/linkedin-marketing-za-b2b-firme-srbija-2026).
+
+## TikTok: i dalje kralj engagement-a (ali pada)
+
+- **Prosecni engagement rate (2025):** 3.7-4.9%
+- **Medijana (januar 2025):** 4.56% (pad sa 5.14% u januaru 2024)
+- **Trend:** Stabilan ali lagano opadajuci (-11% god-za-god)
+
+**Zasto TikTok pada:**
+- Prezasicenost sadrzaja (previse kreatorsa, algoritam mora da deli paznju)
+- Promena u ponasanju: korisnici gledaju vise ali manje interaguju (pasivni scroll)
+- Rast "watch time" metrike umesto lajkova/komentara
+
+Za firme koje ciljaju 18-35 demografiju, TikTok je i dalje izuzetno jak kanal. Ali ocekujte pad engagement-a kako platforma sazreva.
+
+## Instagram: najveci pad u 2026
+
+- **Prosecni engagement rate (2025):** 0.5-1.2% (Buffer: 1.16%, Socialinsider: 0.50%)
+- **Medijana (januar 2025):** 0.36-0.50%
+- **Pad u odnosu na 2024:** -58% (sa 2.94% u januaru 2024 na ~1.16%)
+
+**Zasto Instagram drasticno pada:**
+- Prezasicenost sadrzaja i reklama u feed-u
+- Algoritam forsira Reels nad svime ostalim — staticki postovi dobijaju minimalan doseg
+- Privatne interakcije (DM, Stories) rastu ali se ne racunaju u javni engagement
+- Vise firmi na platformi = manje organskog dosega po firmi
+- Korisnici prelaze na "sacuvaj" umesto "lajkuj" (saves se ne vide javno)
+
+**Sta raditi:** Fokusirajte se na Reels (3-5x veci doseg od statica) i Stories (zadrza publiku aktivnom). Za placene kampanje pogledajte [Instagram reklame cena](/instagram-reklame-cena).
+
+## Facebook: najnizi engagement, ali stabilan
+
+- **Prosecni engagement rate (2025):** 0.06-0.20%
+- **Trend:** Stabilan (lagan rast sa 0.11% u H1 2024 na 0.20% u maju 2025)
+
+**Zasto je engagement nizak:**
+- Najveca platforma = najvise "sumova" u feed-u
+- Organki doseg za biznis stranice: 2-5% pratilaca
+- Korisnicka baza stari (35+ demografija dominira)
+
+**Kada i dalje ima smisla:** Facebook grupe i marketplace i dalje imaju jak engagement. Za lokalne biznise koji ciljaju 35+ publiku, Facebook stranica + grupe su relevantniji od Instagram-a. Za placene kampanje pogledajte [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama).
+
+## Uporedna tabela: engagement rate po platformi (2025)
+
+| Platforma | Engagement Rate | Trend | Najbolje za |
+|-----------|----------------|-------|-------------|
+| **LinkedIn** | 5.2-6.5% | ↑ +30% | B2B, profesionalne usluge, konsultanti |
+| **TikTok** | 3.7-4.9% | ↓ -11% | B2C, mlada publika, vizuelni proizvodi |
+| **Instagram** | 0.5-1.2% | ↓↓ -58% | Vizuelni brendovi (sa Reels fokusom) |
+| **Facebook** | 0.06-0.20% | → stabilan | Lokalni biznisi, 35+ demografija |
+
+## Sta ovo znaci za vasu strategiju
+
+### Ako ste B2B firma
+LinkedIn je vaš primarni kanal. Postite 3-5x nedeljno sa ličnog profila (ne company page). Engagement ce biti 5-10x visi nego na bilo kojoj drugoj platformi.
+
+### Ako ste e-commerce / B2C
+TikTok + Instagram Reels. Fokusirajte se na video sadrzaj. Staticki postovi na IG su praktično mrtvi za organski doseg.
+
+### Ako ste lokalni biznis
+Facebook grupe + Google Business postovi. Instagram samo ako imate vizuelno privlačan biznis (restoran, salon, butik).
+
+### Za sve
+Email lista ima veći "engagement" od bilo koje platforme — open rate 28-35% vs Instagram 0.5%. Pogledajte [email marketing ROI vodic](/blog/koliko-zapravo-zaradjuje-email-marketing-roi-po-industriji-2026).
+
+Za pomoc sa strategijom drustvenih mreza, javite se preko [kontakt forme](/kontakt). Za samostalno vodjenje pogledajte [vodic za drustvene mreze](/blog/kako-voditi-drustvene-mreze-srbija-2026).
+
+*Izvori: Buffer State of Social Media Report (2025), Socialinsider Social Media Benchmarks (2025), Rival IQ Industry Benchmarks (2025), Metricool LinkedIn Statistics (2025).*
+`
+  },
+  {
     slug: 'koliko-kosta-novi-klijent-cpa-po-industriji-google-facebook-2026',
     title: 'Koliko kosta novi klijent: CPA benchmarci po industriji za Google i Facebook Ads',
     excerpt: 'Realni CPA (cena po akviziciji) benchmarci po industriji za Google Ads i Facebook Ads u 2025-2026. Koliko firme zapravo placaju za svakog novog klijenta.',

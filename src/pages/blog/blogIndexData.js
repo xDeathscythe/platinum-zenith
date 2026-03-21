@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "engagement-rate-po-platformi-instagram-tiktok-linkedin-2026",
+    "title": "Engagement rate po platformi 2026: gde vasa publika zaista reaguje",
+    "excerpt": "Uporedni podaci o engagement rate-u na Instagramu, TikToku, LinkedIn-u i Facebooku u 2025-2026. Koja platforma donosi najvise interakcija i zasto.",
+    "date": "2026-03-21",
+    "category": "Social Media",
+    "readTime": "7 min",
+    "isDraft": false
+  },
+  {
     "slug": "koliko-kosta-novi-klijent-cpa-po-industriji-google-facebook-2026",
     "title": "Koliko kosta novi klijent: CPA benchmarci po industriji za Google i Facebook Ads",
     "excerpt": "Realni CPA (cena po akviziciji) benchmarci po industriji za Google Ads i Facebook Ads u 2025-2026. Koliko firme zapravo placaju za svakog novog klijenta.",
