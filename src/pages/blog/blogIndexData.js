@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "kako-brzina-sajta-utice-na-rangiranje-na-googlu-2026",
+    "title": "Kako brzina ucitavanja sajta utice na rangiranje na Google-u: podaci i statistike",
+    "excerpt": "Konkretne statistike o uticaju brzine sajta na Google rang, konverzije i bounce rate. Koliko vas svaka sekunda kasnjenja kosta u prodaji i poziciji.",
+    "date": "2026-03-21",
+    "category": "SEO",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "digitalni-marketing-statistika-srbija-2026",
     "title": "Digitalni marketing u Srbiji 2026: 50 statistika koje svaki biznis treba da zna",
     "excerpt": "50 kljucnih statistika o digitalnom marketingu u Srbiji za 2026. godinu. Google Ads, SEO, drustvene mreze, e-commerce i email — brojke koje odlucuju.",

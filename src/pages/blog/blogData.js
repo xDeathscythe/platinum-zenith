@@ -1,5 +1,114 @@
 const rawBlogPosts = [
   {
+    slug: 'kako-brzina-sajta-utice-na-rangiranje-na-googlu-2026',
+    title: 'Kako brzina ucitavanja sajta utice na rangiranje na Google-u: podaci i statistike',
+    excerpt: 'Konkretne statistike o uticaju brzine sajta na Google rang, konverzije i bounce rate. Koliko vas svaka sekunda kasnjenja kosta u prodaji i poziciji.',
+    date: '2026-03-21',
+    category: 'SEO',
+    readTime: '8 min',
+    content: `
+## Koliko brzo mora da se ucita sajt da bi bio na prvoj stranici Google-a
+
+Sajtovi na prvoj stranici Google-a ucitavaju se u proseku za **1.65 sekundi**. Google zvanicno preporucuje da stranica bude potpuno ucitana za **manje od 2 sekunde**. Sve iznad 3 sekunde smatra se sporim -- i Google i korisnici vas kaznjavaju.
+
+Ali ovo nije samo teorija. Evo tacnih brojki iz istrazivannja sprovedenih 2024-2025. godine.
+
+Za praktican vodic kako ubrzati WordPress sajt pogledajte [tehnicki SEO vodic](/blog/ubrzavanje-wordpress-sajta-tehnicki-seo-srbija-2026). Za kompletnu on-page checklistu pogledajte [SEO checklista](/blog/on-page-seo-checklista-srbija-2026).
+
+## Koliko svaka sekunda kasnjenja kosta u konverzijama
+
+Podaci iz istrazivannja na milionima web stranica pokazuju jasan trend: **svaka dodatna sekunda ucitavanja drasticno smanjuje prodaju**.
+
+- **1 sekunda kasnjenja** = pad konverzije za **7%** (Akamai istraživanje). Za webshop koji zaradjuje 100.000 EUR godisnje, to je gubitak od 7.000 EUR.
+- **Sajt koji se ucita za 1 sekundu** ima prosecnu konverziju od **27%** (Portent studija 2024).
+- **Sajt koji se ucita za 5 sekundi** ima konverziju **5x nizu** od sajta koji se ucita za 1 sekundu.
+- **Svaka dodatna sekunda** izmedju 0 i 5 sekundi smanjuje e-commerce konverziju za prosecno **4.42%**.
+- **Poboljsanje brzine za samo 0.1 sekunde** na mobilnom povecava retail konverzije za **8.4%** (Deloitte istraživanje za Google).
+
+Ove brojke nisu zaokruzene procene -- to su mereni podaci sa miliona transakcija.
+
+Za optimizaciju konverzije pogledajte [CRO vodic](/blog/optimizacija-konverzije-sajta-cro-srbija-2026).
+
+## Kako brzina utice na bounce rate (napustanje sajta)
+
+Bounce rate je procenat ljudi koji odu sa sajta bez ijedne interakcije. Sporost je ubica -- evo koliko:
+
+- Ucitavanje **1-2 sekunde**: bounce rate samo **9%** (skoro svi ostaju).
+- Ucitavanje **3 sekunde**: bounce rate raste za **32%** u odnosu na 1 sekundu (Google istraživanje).
+- Ucitavanje **5 sekundi**: bounce rate skace na **38%** i verovatnoca napustanja raste za **90%**.
+- Ucitavanje **10+ sekundi**: verovatnoca napustanja raste za **123%** u odnosu na 1 sekundu.
+- **53% mobilnih korisnika** napusta sajt koji se ucitava duze od 3 sekunde (Google/SOASTA istraživanje).
+- **40% desktop korisnika** napusta sajt posle 3 sekunde cekanja.
+- Prosecni bounce rate za e-commerce: **47%** na desktopu, **56.8%** na mobilnom.
+
+Svaki posetilac koji ode zbog sporosti je potencijalni kupac koji se nikad nece vratiti.
+
+## Core Web Vitals: kako Google meri brzinu
+
+Od 2021. godine Google koristi **Core Web Vitals** kao direktan ranking faktor. Tri metrike:
+
+### LCP (Largest Contentful Paint) -- brzina ucitavanja
+
+Meri koliko treba da se ucita najvi element na ekranu (obicno hero slika ili naslov).
+- **Dobar:** ispod 2.5 sekundi
+- **Potrebno poboljsanje:** 2.5-4.0 sekunde
+- **Los:** iznad 4.0 sekundi
+
+**Uticaj na rang:** Sajtovi koji su smanjili LCP za 1 sekundu beleže prosecno **17% rast organskog saobracaja** (Chrome UX Report 2024).
+
+### INP (Interaction to Next Paint) -- interaktivnost
+
+Zamenio FID u martu 2024. Meri koliko brzo sajt reaguje kad korisnik klikne ili tapne.
+- **Dobar:** ispod 200ms
+- **Potrebno poboljsanje:** 200-500ms
+- **Los:** iznad 500ms
+
+### CLS (Cumulative Layout Shift) -- vizuelna stabilnost
+
+Meri da li se elementi "pomeraju" dok se stranica ucitava (npr. tekst se pomeri kad se ucita reklama).
+- **Dobar:** ispod 0.1
+- **Los:** iznad 0.25
+
+**Uticaj na poslovanje:** Firme koje su optimizovale CLS beleže **11% nizi bounce rate** i **20% veci engagement** (Web.dev studija 2024).
+
+## Mobilna brzina: jos vaznija od desktop-a
+
+Google koristi **mobile-first indexing** -- sto znaci da rang vaseg sajta odredjuje MOBILNA verzija, ne desktop.
+
+- **76% saobracaja u Srbiji** dolazi sa mobilnih uredjaja.
+- Prosecna mobilna stranica se ucitava za **6.3 sekundi** -- daleko od Google-ovog preporucenog limita od 2 sekunde.
+- Mobilna stranica se ucitava **70.9% sporije** od desktop verzije istog sajta.
+- Webshopovi sa mobilnim ucitavanjem ispod **5 sekundi generisiu 2x vise prihoda** od sporijih.
+- Poboljsanje mobilne brzine za samo **2 sekunde** moze povecati konverzije za **27%** (Google/Deloitte).
+
+Za mobilnu optimizaciju pogledajte [mobilni dizajn vodic](/blog/mobilni-dizajn-sajta-srbija-2026).
+
+## Sta mozete da uradite danas (3 najbrza poboljsanja)
+
+### 1) Konvertujte slike u WebP format
+
+Najveci krivac za spor sajt su neoptimizovane slike. WebP format je **30% laksi** od JPG-a bez gubitka kvaliteta. Na WordPress-u koristite ShortPixel ili LiteSpeed Cache za automatsku konverziju.
+
+### 2) Ukljucite cache (kesiranje)
+
+Kesiranje cuva "gotovu" verziju stranice i servira je bez ponovnog ucitavanja iz baze. Smanjuje vreme ucitavanja za **50-70%**. Preporuceni plugin: LiteSpeed Cache (besplatan) ili WP Rocket (placen).
+
+### 3) Uklonite nepotrebne pluginove
+
+Svaki plugin dodaje CSS i JavaScript fajlove koji usporavaju sajt. Pregledajte listu pluginova i deaktivirajte sve sto ne koristite aktivno. Pogledajte [15 obaveznih WordPress pluginova](/blog/najbolji-wordpress-pluginovi-za-male-firme-srbija-2026) za optimalan set.
+
+## Kako proveriti brzinu vaseg sajta
+
+1. **Google PageSpeed Insights** (pagespeed.web.dev) -- besplatno, daje ocenu 0-100 i konkretne preporuke
+2. **GTmetrix** (gtmetrix.com) -- detaljnija analiza sa waterfall dijagramom
+3. **Google Search Console > Core Web Vitals** -- pokazuje kako Google vidi vas sajt. Pogledajte [GSC vodic](/blog/google-search-console-vodic-za-pocetnike-srbija-2026).
+
+Za profesionalnu optimizaciju brzine sajta, javite se preko [kontakt forme](/kontakt). Za cene izrade brzog sajta pogledajte [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+
+*Izvori podataka: Google/SOASTA Research (2024), Akamai State of Online Retail (2024), Portent Speed & Conversion Study (2024), Deloitte/Google Milliseconds Make Millions Study, Chrome UX Report (2024), Web.dev Core Web Vitals Impact Study.*
+`
+  },
+  {
     slug: 'digitalni-marketing-statistika-srbija-2026',
     title: 'Digitalni marketing u Srbiji 2026: 50 statistika koje svaki biznis treba da zna',
     excerpt: '50 kljucnih statistika o digitalnom marketingu u Srbiji za 2026. godinu. Google Ads, SEO, drustvene mreze, e-commerce i email — brojke koje odlucuju.',
