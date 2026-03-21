@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-03-21T18:29:42.155Z",
-  "postsChecked": 173,
+  "generatedAt": "2026-03-21T22:29:20.951Z",
+  "postsChecked": 177,
   "issueCount": 0,
   "checked": [
+    {
+      "route": "/blog/cena-po-leadu-po-industriji-benchmark-statistika-2026",
+      "serviceHits": 6,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/uticaj-online-recenzija-na-prodaju-statistika-2026",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/napustanje-korpe-statistika-po-industriji-2026",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/video-marketing-roi-kratki-video-reels-tiktok-statistika-2026",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
     {
       "route": "/blog/koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026",
       "serviceHits": 7,

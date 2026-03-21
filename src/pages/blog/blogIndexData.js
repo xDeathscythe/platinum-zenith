@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "cena-po-leadu-po-industriji-benchmark-statistika-2026",
+    "title": "Koliko kosta jedan lead: cena po leadu (CPL) po industriji i kanalu u 2025-2026",
+    "excerpt": "Benchmark podaci za cost per lead po industriji i marketing kanalu. Google Ads, Facebook, SEO, LinkedIn â€” koliko zaista kosta jedan kvalifikovan lead u Srbiji i svetu.",
+    "date": "2026-03-22",
+    "category": "Marketing",
+    "readTime": "9 min",
+    "isDraft": false
+  },
+  {
     "slug": "uticaj-online-recenzija-na-prodaju-statistika-2026",
     "title": "Uticaj online recenzija na prodaju: koliko zvezde i komentari zaista menjaju konverziju",
     "excerpt": "Statistike o uticaju recenzija na odluku o kupovini u 2025-2026. Koliko recenzija treba, zasto 4 zvezdice pobedjuju 5 i kako odgovoriti na negativne.",
@@ -77,7 +86,7 @@ export const blogIndexPosts = [
   {
     "slug": "mobilna-vs-desktop-kupovina-konverzije-statistika-2026",
     "title": "Mobilna vs desktop kupovina: ko zaista kupuje i gde gubite prodaju",
-    "excerpt": "Statistike o mobilnoj vs desktop kupovini 2026. Zasto 75% saobracaja dolazi sa telefona ali desktop i dalje ima vecu konverziju — i kako to popraviti.",
+    "excerpt": "Statistike o mobilnoj vs desktop kupovini 2026. Zasto 75% saobracaja dolazi sa telefona ali desktop i dalje ima vecu konverziju â€” i kako to popraviti.",
     "date": "2026-03-21",
     "category": "E-Commerce",
     "readTime": "8 min",
@@ -95,7 +104,7 @@ export const blogIndexPosts = [
   {
     "slug": "digitalni-marketing-statistika-srbija-2026",
     "title": "Digitalni marketing u Srbiji 2026: 50 statistika koje svaki biznis treba da zna",
-    "excerpt": "50 kljucnih statistika o digitalnom marketingu u Srbiji za 2026. godinu. Google Ads, SEO, drustvene mreze, e-commerce i email — brojke koje odlucuju.",
+    "excerpt": "50 kljucnih statistika o digitalnom marketingu u Srbiji za 2026. godinu. Google Ads, SEO, drustvene mreze, e-commerce i email â€” brojke koje odlucuju.",
     "date": "2026-03-21",
     "category": "Marketing",
     "readTime": "10 min",
@@ -104,7 +113,7 @@ export const blogIndexPosts = [
   {
     "slug": "najbolji-wordpress-pluginovi-za-male-firme-srbija-2026",
     "title": "Najbolji WordPress pluginovi za male firme u Srbiji 2026: 15 obaveznih",
-    "excerpt": "Lista od 15 WordPress pluginova koje svaka mala firma u Srbiji treba da ima. SEO, bezbednost, brzina, forme i e-commerce — besplatni i placeni.",
+    "excerpt": "Lista od 15 WordPress pluginova koje svaka mala firma u Srbiji treba da ima. SEO, bezbednost, brzina, forme i e-commerce â€” besplatni i placeni.",
     "date": "2026-03-21",
     "category": "WordPress",
     "readTime": "8 min",
@@ -203,7 +212,7 @@ export const blogIndexPosts = [
   {
     "slug": "ai-alati-za-marketing-srbija-2026",
     "title": "AI alati za marketing u Srbiji 2026: koji zaista stede vreme i novac",
-    "excerpt": "Pregled AI alata za marketing koji rade u praksi 2026. Od pisanja sadrzaja do analize podataka — sta koristiti i sta preskociti.",
+    "excerpt": "Pregled AI alata za marketing koji rade u praksi 2026. Od pisanja sadrzaja do analize podataka â€” sta koristiti i sta preskociti.",
     "date": "2026-03-19",
     "category": "Marketing",
     "readTime": "8 min",
@@ -554,7 +563,7 @@ export const blogIndexPosts = [
   {
     "slug": "on-page-seo-checklista-srbija-2026",
     "title": "On-page SEO checklista za sajt u Srbiji 2026: 15 koraka koji zapravo menjaju rang",
-    "excerpt": "Kompletna on-page SEO checklista za srpske sajtove u 2026. Bez genericnih saveta — samo koraci koji zaista uticu na Google rang i organski saobracaj.",
+    "excerpt": "Kompletna on-page SEO checklista za srpske sajtove u 2026. Bez genericnih saveta â€” samo koraci koji zaista uticu na Google rang i organski saobracaj.",
     "date": "2026-03-17",
     "category": "SEO",
     "readTime": "9 min",
@@ -1058,7 +1067,7 @@ export const blogIndexPosts = [
   {
     "slug": "instagram-ads-cena-po-kliku-srbija-2026",
     "title": "Instagram Ads cena po kliku u Srbiji 2026: realni CPC rasponi i kako da spustis trosak leada",
-    "excerpt": "Praktican vodič za Instagram Ads CPC u Srbiji 2026: rasponi po niši, glavni razlozi visokog klika i konkretni potezi za niži trošak uz bolji kvalitet upita.",
+    "excerpt": "Praktican vodiÄ za Instagram Ads CPC u Srbiji 2026: rasponi po niÅ¡i, glavni razlozi visokog klika i konkretni potezi za niÅ¾i troÅ¡ak uz bolji kvalitet upita.",
     "date": "2026-03-12",
     "category": "Instagram Ads",
     "readTime": "9 min",
@@ -1184,7 +1193,7 @@ export const blogIndexPosts = [
   {
     "slug": "google-ads-za-b2b-cena-leada-srbija-2026",
     "title": "Google Ads za B2B u Srbiji 2026: cena leada, SQL kvalitet i budzet koji ima smisla",
-    "excerpt": "Koliko realno kosta Google Ads za B2B firme u Srbiji 2026, koji CPL raspon ima smisla po niši i kako da merite SQL kvalitet umesto da jurite jeftine leadove bez pipeline-a.",
+    "excerpt": "Koliko realno kosta Google Ads za B2B firme u Srbiji 2026, koji CPL raspon ima smisla po niÅ¡i i kako da merite SQL kvalitet umesto da jurite jeftine leadove bez pipeline-a.",
     "date": "2026-03-12",
     "category": "Google Ads",
     "readTime": "10 min",
@@ -1255,8 +1264,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "lokalni-seo-cena-zrenjanin-2026",
-    "title": "Lokalni SEO cena u Zrenjaninu 2026: koliko košta i šta realno dobijate",
-    "excerpt": "Praktican vodic za lokalni SEO u Zrenjaninu: realni rasponi cena, šta mora da ulazi u uslugu i kako da procenite da li ponuda donosi upite ili samo \"aktivnost\".",
+    "title": "Lokalni SEO cena u Zrenjaninu 2026: koliko koÅ¡ta i Å¡ta realno dobijate",
+    "excerpt": "Praktican vodic za lokalni SEO u Zrenjaninu: realni rasponi cena, Å¡ta mora da ulazi u uslugu i kako da procenite da li ponuda donosi upite ili samo \"aktivnost\".",
     "date": "2026-03-11",
     "category": "SEO",
     "readTime": "9 min",
@@ -1264,8 +1273,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "vodjenje-instagram-profila-cena-srbija-2026",
-    "title": "Vodenje Instagram profila cena u Srbiji 2026: šta ulazi u paket i koliko je realno",
-    "excerpt": "Koliko košta vodenje Instagram profila u Srbiji 2026, koje su realne razlike izmedu paketa i kako da izbegnete uslugu koja izgleda jeftino, a ne donosi rezultate.",
+    "title": "Vodenje Instagram profila cena u Srbiji 2026: Å¡ta ulazi u paket i koliko je realno",
+    "excerpt": "Koliko koÅ¡ta vodenje Instagram profila u Srbiji 2026, koje su realne razlike izmedu paketa i kako da izbegnete uslugu koja izgleda jeftino, a ne donosi rezultate.",
     "date": "2026-03-11",
     "category": "Social Media",
     "readTime": "9 min",
@@ -1273,8 +1282,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "instagram-ads-cpc-budzet-plan-srbija-2026",
-    "title": "Instagram Ads cena po kliku u Srbiji 2026: realni CPC rasponi i budžet plan",
-    "excerpt": "Koliko realno košta klik na Instagram oglasima u Srbiji 2026, od cega zavisi CPC i kako da planirate budžet bez skupih grešaka.",
+    "title": "Instagram Ads cena po kliku u Srbiji 2026: realni CPC rasponi i budÅ¾et plan",
+    "excerpt": "Koliko realno koÅ¡ta klik na Instagram oglasima u Srbiji 2026, od cega zavisi CPC i kako da planirate budÅ¾et bez skupih greÅ¡aka.",
     "date": "2026-03-11",
     "category": "Instagram Ads",
     "readTime": "8 min",
@@ -1282,8 +1291,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "alex-hormozi-100m-leads-sistem-za-vise-upita-srbija-2026",
-    "title": "Alex Hormozi 100M Leads: sistem za više upita bez duplog budžeta (Srbija 2026)",
-    "excerpt": "Kako da primeniš Hormozi 100M Leads pristup na srpsko tržište: bolji hook, jasnija ponuda i kvalitetniji leadovi bez bacanja budžeta.",
+    "title": "Alex Hormozi 100M Leads: sistem za viÅ¡e upita bez duplog budÅ¾eta (Srbija 2026)",
+    "excerpt": "Kako da primeniÅ¡ Hormozi 100M Leads pristup na srpsko trÅ¾iÅ¡te: bolji hook, jasnija ponuda i kvalitetniji leadovi bez bacanja budÅ¾eta.",
     "date": "2026-03-11",
     "category": "Lead Generation",
     "readTime": "9 min",
@@ -1292,7 +1301,7 @@ export const blogIndexPosts = [
   {
     "slug": "google-ads-za-lokalne-biznise-kako-spustiti-cenu-leada-srbija-2026",
     "title": "Google Ads za lokalne biznise: kako spustiti cenu leada u Srbiji 2026",
-    "excerpt": "Praktican vodic za lokalne firme u Srbiji: kako da kroz bolju strukturu kampanje i landing stranicu smanjite cenu upita bez povecanja budžeta.",
+    "excerpt": "Praktican vodic za lokalne firme u Srbiji: kako da kroz bolju strukturu kampanje i landing stranicu smanjite cenu upita bez povecanja budÅ¾eta.",
     "date": "2026-03-11",
     "category": "Google Ads",
     "readTime": "9 min",
@@ -1309,8 +1318,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "vodjenje-google-ads-kampanja-cena-srbija-2026",
-    "title": "Vodenje Google Ads kampanja: cena u Srbiji 2026 (šta ulazi u uslugu)",
-    "excerpt": "Koliko košta vodenje Google Ads kampanja u Srbiji 2026, šta ulazi u mesecni fee i kako da procenite da li je ponuda agencije realna ili preskupa.",
+    "title": "Vodenje Google Ads kampanja: cena u Srbiji 2026 (Å¡ta ulazi u uslugu)",
+    "excerpt": "Koliko koÅ¡ta vodenje Google Ads kampanja u Srbiji 2026, Å¡ta ulazi u mesecni fee i kako da procenite da li je ponuda agencije realna ili preskupa.",
     "date": "2026-03-10",
     "category": "Google Ads",
     "readTime": "8 min",
@@ -1328,7 +1337,7 @@ export const blogIndexPosts = [
   {
     "slug": "copywriting-formule-koje-rade",
     "title": "Kako napisati oglas koji prodaje: copywriting formule koje rade",
-    "excerpt": "Nije bitno koliko ljudi vidi vaš oglas. Bitno je koliko ih ne može da odoli a da ne klikne. Evo formula koje to postižu.",
+    "excerpt": "Nije bitno koliko ljudi vidi vaÅ¡ oglas. Bitno je koliko ih ne moÅ¾e da odoli a da ne klikne. Evo formula koje to postiÅ¾u.",
     "date": "2026-02-21",
     "category": "Marketing",
     "readTime": "7 min",
@@ -1337,7 +1346,7 @@ export const blogIndexPosts = [
   {
     "slug": "ab-testiranje-male-promene-veliki-rezultati",
     "title": "A/B testiranje: male promene, veliki rezultati",
-    "excerpt": "Promena boje dugmeta sama po sebi nece spasiti loš sajt, ali prava A/B testiranja mogu udvostruciti konverzije kada se testira ponuda, struktura i CTA tok.",
+    "excerpt": "Promena boje dugmeta sama po sebi nece spasiti loÅ¡ sajt, ali prava A/B testiranja mogu udvostruciti konverzije kada se testira ponuda, struktura i CTA tok.",
     "date": "2026-02-21",
     "category": "CRO",
     "readTime": "6 min",
@@ -1346,7 +1355,7 @@ export const blogIndexPosts = [
   {
     "slug": "kako-meriti-roi-marketinga-kpi-vodic",
     "title": "Kako meriti ROI marketinga: KPI vodic za vlasnike firmi",
-    "excerpt": "Ako ne merite marketing, kockate se budžetom. Ovo je 8 kljucnih KPI brojeva koje svaka firma treba da prati da bi znala šta donosi profit, a šta troši novac.",
+    "excerpt": "Ako ne merite marketing, kockate se budÅ¾etom. Ovo je 8 kljucnih KPI brojeva koje svaka firma treba da prati da bi znala Å¡ta donosi profit, a Å¡ta troÅ¡i novac.",
     "date": "2026-02-21",
     "category": "Marketing",
     "readTime": "6 min",
@@ -1363,8 +1372,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "brending-za-male-firme-identitet-vazniji-od-loga",
-    "title": "Brending za male firme: zašto je identitet vašniji od loga",
-    "excerpt": "Logo je samo pocetak. Brend je utisak koji ljudi pamte. Evo kako male firme grade jasan identitet koji podiže poverenje, cenu i prodaju.",
+    "title": "Brending za male firme: zaÅ¡to je identitet vaÅ¡niji od loga",
+    "excerpt": "Logo je samo pocetak. Brend je utisak koji ljudi pamte. Evo kako male firme grade jasan identitet koji podiÅ¾e poverenje, cenu i prodaju.",
     "date": "2026-02-21",
     "category": "Marketing",
     "readTime": "6 min",
@@ -1372,8 +1381,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "video-marketing-zasto-video-dominira",
-    "title": "Video marketing: zašto video dominira i kako poceti",
-    "excerpt": "Video cini 82% internet saobracaja. Firme koje ne koriste video gube pažnju publike pre prvog kontakta sa ponudom i ostaju korak iza konkurencije.",
+    "title": "Video marketing: zaÅ¡to video dominira i kako poceti",
+    "excerpt": "Video cini 82% internet saobracaja. Firme koje ne koriste video gube paÅ¾nju publike pre prvog kontakta sa ponudom i ostaju korak iza konkurencije.",
     "date": "2026-02-21",
     "category": "Marketing",
     "readTime": "5 min",
@@ -1381,8 +1390,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "seo-vs-ppc-sta-je-bolje-za-dugorocni-rast",
-    "title": "SEO vs PPC: šta je bolje za dugorocni rast",
-    "excerpt": "SEO je maraton, PPC je sprint. Za vecinu firmi najbolji rast dolazi iz pametne kombinacije oba kanala, uz jasan plan budžeta i ciljeva.",
+    "title": "SEO vs PPC: Å¡ta je bolje za dugorocni rast",
+    "excerpt": "SEO je maraton, PPC je sprint. Za vecinu firmi najbolji rast dolazi iz pametne kombinacije oba kanala, uz jasan plan budÅ¾eta i ciljeva.",
     "date": "2026-02-21",
     "category": "SEO",
     "readTime": "6 min",
@@ -1391,7 +1400,7 @@ export const blogIndexPosts = [
   {
     "slug": "psihologija-zaradjivanja-mentalni-blokovi",
     "title": "Psihologija zaradivanja: mentalni blokovi koji koce rast firme",
-    "excerpt": "Najveca prepreka rastu cesto nije tržište, vec nacin razmišljanja vlasnika firme. Evo koji mentalni blokovi koce zaradu i kako da ih razbijete.",
+    "excerpt": "Najveca prepreka rastu cesto nije trÅ¾iÅ¡te, vec nacin razmiÅ¡ljanja vlasnika firme. Evo koji mentalni blokovi koce zaradu i kako da ih razbijete.",
     "date": "2026-02-20",
     "category": "Biznis",
     "readTime": "7 min",
@@ -1400,7 +1409,7 @@ export const blogIndexPosts = [
   {
     "slug": "komunikacija-u-prodaji-kako-napisati-ponudu",
     "title": "Komunikacija u prodaji: kako napisati ponudu koja zatvara",
-    "excerpt": "Ponude koje se šalju i zaborave vs ponude nakon kojih klijent pita \"Kad možemo da pocnemo?\" Razlika je u strukturi.",
+    "excerpt": "Ponude koje se Å¡alju i zaborave vs ponude nakon kojih klijent pita \"Kad moÅ¾emo da pocnemo?\" Razlika je u strukturi.",
     "date": "2026-02-20",
     "category": "Biznis",
     "readTime": "6 min",
@@ -1409,7 +1418,7 @@ export const blogIndexPosts = [
   {
     "slug": "kako-izabrati-pravu-marketing-agenciju",
     "title": "Kako izabrati pravu marketing agenciju (i ne baciti novac)",
-    "excerpt": "Tržište je puno agencija koje obecavaju rezultate. Evo 7 znakova koji razlikuju agencije koje isporucuju od onih koje pricaju.",
+    "excerpt": "TrÅ¾iÅ¡te je puno agencija koje obecavaju rezultate. Evo 7 znakova koji razlikuju agencije koje isporucuju od onih koje pricaju.",
     "date": "2026-02-20",
     "category": "Marketing",
     "readTime": "6 min",
@@ -1417,7 +1426,7 @@ export const blogIndexPosts = [
   },
   {
     "slug": "social-proof-recenzije-za-vise-prodaje",
-    "title": "Social proof: kako koristiti recenzije za više prodaje",
+    "title": "Social proof: kako koristiti recenzije za viÅ¡e prodaje",
     "excerpt": "92% kupaca cita recenzije pre kupovine. Evo kako da recenzije rade za vas umesto da stoje kao ukras na sajtu i da ih ljudi jedva primete.",
     "date": "2026-02-20",
     "category": "Marketing",
@@ -1426,8 +1435,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "retargeting-zasto-95-posetilaca-ne-kupi",
-    "title": "Retargeting: zašto 95% posetilaca nikad ne kupi iz prvog pokušaja",
-    "excerpt": "Placate saobracaj koji odlazi. Retargeting vraca te ljude po ceni i do 5-10x nižoj od prvog klika i pretvara izgubljene posete u konkretne upite i prodaju.",
+    "title": "Retargeting: zaÅ¡to 95% posetilaca nikad ne kupi iz prvog pokuÅ¡aja",
+    "excerpt": "Placate saobracaj koji odlazi. Retargeting vraca te ljude po ceni i do 5-10x niÅ¾oj od prvog klika i pretvara izgubljene posete u konkretne upite i prodaju.",
     "date": "2026-02-20",
     "category": "Marketing",
     "readTime": "5 min",
@@ -1435,8 +1444,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "customer-retention-zadrzati-vs-naci-novog",
-    "title": "Customer retention: zašto je jeftinije zadržati nego naci novog kupca",
-    "excerpt": "Novi kupac košta 5-7x više od zadržavanja postojeceg. Ovaj vodic pokazuje kako retention strategije povecavaju profit bez dizanja budžeta za akviziciju.",
+    "title": "Customer retention: zaÅ¡to je jeftinije zadrÅ¾ati nego naci novog kupca",
+    "excerpt": "Novi kupac koÅ¡ta 5-7x viÅ¡e od zadrÅ¾avanja postojeceg. Ovaj vodic pokazuje kako retention strategije povecavaju profit bez dizanja budÅ¾eta za akviziciju.",
     "date": "2026-02-20",
     "category": "Marketing",
     "readTime": "6 min",
@@ -1445,7 +1454,7 @@ export const blogIndexPosts = [
   {
     "slug": "17-godina-marketing-iskustva",
     "title": "17 godina marketing iskustva u jednom tekstu",
-    "excerpt": "šta se menja u marketingu, a šta ostaje isto decenijama? Evo lekcija koje koštaju godine i milione da se nauce.",
+    "excerpt": "Å¡ta se menja u marketingu, a Å¡ta ostaje isto decenijama? Evo lekcija koje koÅ¡taju godine i milione da se nauce.",
     "date": "2026-02-20",
     "category": "Marketing",
     "readTime": "8 min",
@@ -1453,8 +1462,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "13-godina-poslovnog-iskustva-najskuplje-greske",
-    "title": "13 godina poslovnog iskustva: najskuplje greške koje firme prave",
-    "excerpt": "Svaka od ovih grešaka košta firme hiljade evra i mesece izgubljenog vremena. Ovo su lekcije iz 13 godina rada koje mogu odmah da vam sacuvaju budžet.",
+    "title": "13 godina poslovnog iskustva: najskuplje greÅ¡ke koje firme prave",
+    "excerpt": "Svaka od ovih greÅ¡aka koÅ¡ta firme hiljade evra i mesece izgubljenog vremena. Ovo su lekcije iz 13 godina rada koje mogu odmah da vam sacuvaju budÅ¾et.",
     "date": "2026-02-20",
     "category": "Biznis",
     "readTime": "7 min",
@@ -1463,7 +1472,7 @@ export const blogIndexPosts = [
   {
     "slug": "od-nule-do-prvog-miliona-konkretni-koraci",
     "title": "Od nule do prvog miliona: konkretni koraci za vlasnike firmi",
-    "excerpt": "Nema precica, ali postoji redosled koji štedi godine lutanja. Ovo su koraci koji najbrže vode od starta biznisa do prvog miliona prihoda.",
+    "excerpt": "Nema precica, ali postoji redosled koji Å¡tedi godine lutanja. Ovo su koraci koji najbrÅ¾e vode od starta biznisa do prvog miliona prihoda.",
     "date": "2026-02-20",
     "category": "Biznis",
     "readTime": "8 min",
@@ -1471,8 +1480,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "kako-se-kretati-10x-brze-kao-vlasnik-firme",
-    "title": "Kako se kretati 10x brže kao vlasnik firme",
-    "excerpt": "Produktivnost nije o tome da radite više sati. Produktivnost je o eliminaciji svega što ne proizvodi rezultate.",
+    "title": "Kako se kretati 10x brÅ¾e kao vlasnik firme",
+    "excerpt": "Produktivnost nije o tome da radite viÅ¡e sati. Produktivnost je o eliminaciji svega Å¡to ne proizvodi rezultate.",
     "date": "2026-02-20",
     "category": "Biznis",
     "readTime": "6 min",
@@ -1480,8 +1489,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "zasto-vecina-firmi-stagnira-posle-prvog-miliona",
-    "title": "Zašto vecina firmi stagnira posle prvog miliona",
-    "excerpt": "Dostizanje prvog miliona zahteva jednu vrstu posla, ali prelazak na sledeci nivo traži drugaciji sistem, timsku strukturu i disciplinu izvršenja.",
+    "title": "ZaÅ¡to vecina firmi stagnira posle prvog miliona",
+    "excerpt": "Dostizanje prvog miliona zahteva jednu vrstu posla, ali prelazak na sledeci nivo traÅ¾i drugaciji sistem, timsku strukturu i disciplinu izvrÅ¡enja.",
     "date": "2026-02-20",
     "category": "Biznis",
     "readTime": "6 min",
@@ -1498,8 +1507,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "pricing-psihologija-kontrola-percepcije-cene",
-    "title": "Pricing psihologija: kako brendovi kontrolišu percepciju cene",
-    "excerpt": "Cena nije broj. Cena je prica koju kupac prica sam sebi. Evo kako firme koje naplacuju 10x više koriste psihologiju da to opravdaju.",
+    "title": "Pricing psihologija: kako brendovi kontroliÅ¡u percepciju cene",
+    "excerpt": "Cena nije broj. Cena je prica koju kupac prica sam sebi. Evo kako firme koje naplacuju 10x viÅ¡e koriste psihologiju da to opravdaju.",
     "date": "2026-02-20",
     "category": "Marketing",
     "readTime": "7 min",
@@ -1507,8 +1516,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "ponuda-koju-niko-ne-moze-da-odbije",
-    "title": "Anatomija neodoljive ponude: zašto vecina firmi prodaje pogrešno",
-    "excerpt": "Vecina firmi se takmici cenom. Firme koje razumeju anatomiju ponude se takmice vrednošću. Evo kako napraviti ponudu koja se ne odbija.",
+    "title": "Anatomija neodoljive ponude: zaÅ¡to vecina firmi prodaje pogreÅ¡no",
+    "excerpt": "Vecina firmi se takmici cenom. Firme koje razumeju anatomiju ponude se takmice vrednoÅ¡Ä‡u. Evo kako napraviti ponudu koja se ne odbija.",
     "date": "2026-02-20",
     "category": "Biznis",
     "readTime": "7 min",
@@ -1516,8 +1525,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "organski-doseg-umire-sta-raditi",
-    "title": "Zašto organski doseg umire i šta pametne firme rade umesto toga",
-    "excerpt": "Facebook organski doseg pao na 2%. Instagram sledi isti trend. Evo šta firme koje i dalje rastu rade drugacije.",
+    "title": "ZaÅ¡to organski doseg umire i Å¡ta pametne firme rade umesto toga",
+    "excerpt": "Facebook organski doseg pao na 2%. Instagram sledi isti trend. Evo Å¡ta firme koje i dalje rastu rade drugacije.",
     "date": "2026-02-20",
     "category": "Marketing",
     "readTime": "6 min",
@@ -1525,8 +1534,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "google-ads-vs-facebook-ads-koji-je-bolji",
-    "title": "Google Ads vs Facebook Ads: koji je bolji za vaš biznis",
-    "excerpt": "Google Ads hvata ljude koji aktivno traže rešenje, Facebook Ads ljude koji tek otkrivaju ponudu. Pravi izbor zavisi od marže, cilja kampanje i brzine povrata.",
+    "title": "Google Ads vs Facebook Ads: koji je bolji za vaÅ¡ biznis",
+    "excerpt": "Google Ads hvata ljude koji aktivno traÅ¾e reÅ¡enje, Facebook Ads ljude koji tek otkrivaju ponudu. Pravi izbor zavisi od marÅ¾e, cilja kampanje i brzine povrata.",
     "date": "2026-02-20",
     "category": "Marketing",
     "readTime": "6 min",
@@ -1535,7 +1544,7 @@ export const blogIndexPosts = [
   {
     "slug": "content-marketing-dugorocna-investicija",
     "title": "Content marketing: investicija koja se vraca godinama",
-    "excerpt": "Blog post koji ste napisali pre 2 godine i dalje donosi saobracaj. Facebook oglas od pre 2 godine ne donosi ništa. Evo zašto je to bitno.",
+    "excerpt": "Blog post koji ste napisali pre 2 godine i dalje donosi saobracaj. Facebook oglas od pre 2 godine ne donosi niÅ¡ta. Evo zaÅ¡to je to bitno.",
     "date": "2026-02-20",
     "category": "Marketing",
     "readTime": "6 min",
@@ -1552,7 +1561,7 @@ export const blogIndexPosts = [
   },
   {
     "slug": "lokalni-seo-kako-se-pojaviti-prvi",
-    "title": "Lokalni SEO: kako se pojaviti prvi kad neko pretraži u vašem gradu",
+    "title": "Lokalni SEO: kako se pojaviti prvi kad neko pretraÅ¾i u vaÅ¡em gradu",
     "excerpt": "Kada neko iz vaseg grada pretrazi uslugu koju nudite, treba da vidi vas pre konkurencije. Evo kako da lokalni SEO to stvarno uradi za vas biznis.",
     "date": "2026-02-20",
     "category": "SEO",
@@ -1561,8 +1570,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "email-marketing-kralj-konverzija",
-    "title": "Email marketing: zašto je email i dalje kralj konverzija",
-    "excerpt": "Email marketing i dalje daje vrhunski povrat ulaganja. Saznajte kako e-commerce i uslužne firme kroz email povecavaju ponovne kupovine i mesecni prihod.",
+    "title": "Email marketing: zaÅ¡to je email i dalje kralj konverzija",
+    "excerpt": "Email marketing i dalje daje vrhunski povrat ulaganja. Saznajte kako e-commerce i usluÅ¾ne firme kroz email povecavaju ponovne kupovine i mesecni prihod.",
     "date": "2026-02-20",
     "category": "Marketing",
     "readTime": "7 min",
@@ -1570,8 +1579,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "5-gresaka-landing-stranice-konverzije",
-    "title": "5 grešaka na landing stranicama koje ubijaju konverzije",
-    "excerpt": "Vecina landing stranica izgubi 90-95% posetilaca bez konverzije. Problem obicno nisu posetilokupci vec dizajn koji sabotira odluku. Evo pet grešaka koje koštaju najviše.",
+    "title": "5 greÅ¡aka na landing stranicama koje ubijaju konverzije",
+    "excerpt": "Vecina landing stranica izgubi 90-95% posetilaca bez konverzije. Problem obicno nisu posetilokupci vec dizajn koji sabotira odluku. Evo pet greÅ¡aka koje koÅ¡taju najviÅ¡e.",
     "date": "2026-02-20",
     "category": "CRO",
     "readTime": "6 min",
@@ -1580,7 +1589,7 @@ export const blogIndexPosts = [
   {
     "slug": "facebook-oglasi-koji-zapravo-rade",
     "title": "Facebook oglasi koji zapravo rade: psihologija iza klika",
-    "excerpt": "Vecina firmi troši novac na Facebook oglase koji izgledaju kao oglasi. A ljudi mrze oglase. Evo kako napraviti oglas koji izgleda kao sadržaj i konvertuje kao ludo.",
+    "excerpt": "Vecina firmi troÅ¡i novac na Facebook oglase koji izgledaju kao oglasi. A ljudi mrze oglase. Evo kako napraviti oglas koji izgleda kao sadrÅ¾aj i konvertuje kao ludo.",
     "date": "2026-02-20",
     "category": "Marketing",
     "readTime": "8 min",
@@ -1588,8 +1597,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "piramida-kupaca-4-tipa-publike",
-    "title": "Piramida kupaca: zašto vecina firmi gubi 97% tr�išta",
-    "excerpt": "Vecina firmi se bori za isti mali procenat kupaca koji su spremni da kupe odmah. U meduvremenu, ogromna vecina tr�išta prolazi pored njih nezapaženo.",
+    "title": "Piramida kupaca: zaÅ¡to vecina firmi gubi 97% trï¿½iÅ¡ta",
+    "excerpt": "Vecina firmi se bori za isti mali procenat kupaca koji su spremni da kupe odmah. U meduvremenu, ogromna vecina trï¿½iÅ¡ta prolazi pored njih nezapaÅ¾eno.",
     "date": "2026-02-20",
     "category": "Marketing",
     "readTime": "6 min",
@@ -1597,7 +1606,7 @@ export const blogIndexPosts = [
   },
   {
     "slug": "pricing-psihologija-kako-luksuzni-brendovi-kontrolisu-percepciju-cene",
-    "title": "Pricing psihologija: kako luksuzni brendovi kontrolišu percepciju cene",
+    "title": "Pricing psihologija: kako luksuzni brendovi kontroliÅ¡u percepciju cene",
     "excerpt": "Cena nije broj. Cena je prica. Firme koje ovo razumeju ne prodaju jeftinije od konkurencije. Prodaju drugacije.",
     "date": "2026-02-24",
     "category": "Biznis",
@@ -1615,8 +1624,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "kako-napraviti-marketing-budzet-koji-ima-smisla",
-    "title": "Kako napraviti marketing budžet koji ima smisla",
-    "excerpt": "Vecina firmi ili troši premalo na marketing pa se ništa ne dešava, ili troši bez plana pa ne zna šta radi. Evo kako to srediti.",
+    "title": "Kako napraviti marketing budÅ¾et koji ima smisla",
+    "excerpt": "Vecina firmi ili troÅ¡i premalo na marketing pa se niÅ¡ta ne deÅ¡ava, ili troÅ¡i bez plana pa ne zna Å¡ta radi. Evo kako to srediti.",
     "date": "2026-02-24",
     "category": "Biznis",
     "readTime": "7 min",
@@ -1624,8 +1633,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "ugc-buducnost-oglasa",
-    "title": "Zašto je UGC buducnost oglasa (i kako ga koristiti)",
-    "excerpt": "Profesionalni oglasi sve slabije konvertuju. Sadržaj koji izgleda kao da ga je snimio kupac radi bolje od studijskog materijala.",
+    "title": "ZaÅ¡to je UGC buducnost oglasa (i kako ga koristiti)",
+    "excerpt": "Profesionalni oglasi sve slabije konvertuju. SadrÅ¾aj koji izgleda kao da ga je snimio kupac radi bolje od studijskog materijala.",
     "date": "2026-02-24",
     "category": "Marketing",
     "readTime": "7 min",
@@ -1633,8 +1642,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "automatizacija-marketinga-sta-mozete-delegirati-masini",
-    "title": "Automatizacija marketinga: šta možete delegirati mašini",
-    "excerpt": "Neki zadaci troše sate vašeg vremena svake nedelje, a mogli bi da se završe bez ijednog klika. Pitanje je samo koje.",
+    "title": "Automatizacija marketinga: Å¡ta moÅ¾ete delegirati maÅ¡ini",
+    "excerpt": "Neki zadaci troÅ¡e sate vaÅ¡eg vremena svake nedelje, a mogli bi da se zavrÅ¡e bez ijednog klika. Pitanje je samo koje.",
     "date": "2026-02-26",
     "category": "Marketing",
     "readTime": "7 min",
@@ -1642,8 +1651,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "lokalni-biznis-vs-online-hibridna-strategija",
-    "title": "Lokalni biznis vs. online: zašto hibridna strategija pobeduje",
-    "excerpt": "Cist online ili cist offline pristup ostavlja novac na stolu. Firme koje kombinuju oba kanala rastu brže od onih koje biraju stranu.",
+    "title": "Lokalni biznis vs. online: zaÅ¡to hibridna strategija pobeduje",
+    "excerpt": "Cist online ili cist offline pristup ostavlja novac na stolu. Firme koje kombinuju oba kanala rastu brÅ¾e od onih koje biraju stranu.",
     "date": "2026-02-26",
     "category": "Biznis",
     "readTime": "8 min",
@@ -1651,8 +1660,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "kako-citati-marketing-izvestaj",
-    "title": "Kako citati marketing izveštaj (vodic za vlasnike firmi)",
-    "excerpt": "Vecina vlasnika firmi dobije mesecni izveštaj od agencije i ne zna šta gleda. Evo šta zapravo treba da tražite u brojevima.",
+    "title": "Kako citati marketing izveÅ¡taj (vodic za vlasnike firmi)",
+    "excerpt": "Vecina vlasnika firmi dobije mesecni izveÅ¡taj od agencije i ne zna Å¡ta gleda. Evo Å¡ta zapravo treba da traÅ¾ite u brojevima.",
     "date": "2026-02-26",
     "category": "Marketing",
     "readTime": "7 min",
@@ -1660,8 +1669,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "zasto-vas-sajt-ne-prodaje",
-    "title": "Zašto vaš sajt ne prodaje (i šta da promenite danas)",
-    "excerpt": "Sajt izgleda lepo, ali telefon ne zvoni. Problem skoro nikad nije u dizajnu. Problem je u tome što sajt ne radi ono za šta je napravljen.",
+    "title": "ZaÅ¡to vaÅ¡ sajt ne prodaje (i Å¡ta da promenite danas)",
+    "excerpt": "Sajt izgleda lepo, ali telefon ne zvoni. Problem skoro nikad nije u dizajnu. Problem je u tome Å¡to sajt ne radi ono za Å¡ta je napravljen.",
     "date": "2026-02-27",
     "category": "CRO",
     "readTime": "8 min",
@@ -1670,7 +1679,7 @@ export const blogIndexPosts = [
   {
     "slug": "kako-napisati-ponudu-koja-zatvara-posao",
     "title": "Kako napisati ponudu koja zatvara posao za 24 sata",
-    "excerpt": "Vecina ponuda završi u folderu \"procitacu kasnije\" i nikad se ne otvori ponovo. Evo strukture koja tera klijenta da odgovori danas.",
+    "excerpt": "Vecina ponuda zavrÅ¡i u folderu \"procitacu kasnije\" i nikad se ne otvori ponovo. Evo strukture koja tera klijenta da odgovori danas.",
     "date": "2026-02-27",
     "category": "Biznis",
     "readTime": "8 min",
@@ -1678,8 +1687,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "facebook-vs-instagram-oglasi-gde-je-vasa-publika",
-    "title": "Facebook vs Instagram oglasi: gde je vaša publika?",
-    "excerpt": "Obe platforme koriste isti Ads Manager, ali publika se ponaša potpuno drugacije. Pogrešan izbor platforme znaci bacanje budžeta.",
+    "title": "Facebook vs Instagram oglasi: gde je vaÅ¡a publika?",
+    "excerpt": "Obe platforme koriste isti Ads Manager, ali publika se ponaÅ¡a potpuno drugacije. PogreÅ¡an izbor platforme znaci bacanje budÅ¾eta.",
     "date": "2026-02-27",
     "category": "Marketing",
     "readTime": "7 min",
@@ -1687,8 +1696,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "koliko-kosta-los-marketing",
-    "title": "Koliko zapravo košta loš marketing (skriveni troškovi koje niko ne pominje)",
-    "excerpt": "Loš marketing nije besplatan samo zato što ne daje rezultate. Košta vas mnogo više nego što mislite, i to na mestima gde ne gledate.",
+    "title": "Koliko zapravo koÅ¡ta loÅ¡ marketing (skriveni troÅ¡kovi koje niko ne pominje)",
+    "excerpt": "LoÅ¡ marketing nije besplatan samo zato Å¡to ne daje rezultate. KoÅ¡ta vas mnogo viÅ¡e nego Å¡to mislite, i to na mestima gde ne gledate.",
     "date": "2026-02-27",
     "category": "Biznis",
     "readTime": "8 min",
@@ -1697,7 +1706,7 @@ export const blogIndexPosts = [
   {
     "slug": "kako-napraviti-landing-stranicu-koja-konvertuje",
     "title": "Kako napraviti landing stranicu koja konvertuje 20%+",
-    "excerpt": "Vecina landing stranica konvertuje 2-3% posetilaca. Neke konvertuju 20% i više. Razlika nije u dizajnu. Razlika je u strukturi.",
+    "excerpt": "Vecina landing stranica konvertuje 2-3% posetilaca. Neke konvertuju 20% i viÅ¡e. Razlika nije u dizajnu. Razlika je u strukturi.",
     "date": "2026-02-27",
     "category": "CRO",
     "readTime": "9 min",
@@ -1706,7 +1715,7 @@ export const blogIndexPosts = [
   {
     "slug": "kako-povecati-online-prodaju",
     "title": "Kako povecati prodaju online prodavnice: 10 konkretnih koraka",
-    "excerpt": "Imati web shop i imati web shop koji prodaje su dve potpuno razlicite stvari. Evo šta zapravo radi na srpskom tržištu u 2026.",
+    "excerpt": "Imati web shop i imati web shop koji prodaje su dve potpuno razlicite stvari. Evo Å¡ta zapravo radi na srpskom trÅ¾iÅ¡tu u 2026.",
     "date": "2026-03-05",
     "category": "E-Commerce",
     "readTime": "9 min",
@@ -1714,8 +1723,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "jednacina-vrednosti-zasto-ljudi-kupuju",
-    "title": "Jednacina vrednosti: zašto ljudi kupuju (ili ne kupuju) od vas",
-    "excerpt": "Postoji formula za percepciju vrednosti. Ako je razumete, možete prodati isti proizvod za duplo vecu cenu. Ako ne, i najniža cena ce vam biti previsoka.",
+    "title": "Jednacina vrednosti: zaÅ¡to ljudi kupuju (ili ne kupuju) od vas",
+    "excerpt": "Postoji formula za percepciju vrednosti. Ako je razumete, moÅ¾ete prodati isti proizvod za duplo vecu cenu. Ako ne, i najniÅ¾a cena ce vam biti previsoka.",
     "date": "2026-03-05",
     "category": "Prodaja",
     "readTime": "8 min",
@@ -1733,7 +1742,7 @@ export const blogIndexPosts = [
   {
     "slug": "kako-skalirati-placene-oglase-bez-bacanja-novca",
     "title": "Kako skalirati placene oglase bez bacanja novca",
-    "excerpt": "Vecina firmi koje koriste placene oglase ili troši premalo da vidi rezultate ili previše na pogrešne stvari. Evo sistema za skaliranje koji zapravo funkcioniše.",
+    "excerpt": "Vecina firmi koje koriste placene oglase ili troÅ¡i premalo da vidi rezultate ili previÅ¡e na pogreÅ¡ne stvari. Evo sistema za skaliranje koji zapravo funkcioniÅ¡e.",
     "date": "2026-03-05",
     "category": "Marketing",
     "readTime": "8 min",
@@ -1742,7 +1751,7 @@ export const blogIndexPosts = [
   {
     "slug": "netokracija-cro-case",
     "title": "DRAFT: Kako smo povecali profit 4x kroz nekoliko kljucnih CRO izmena na domacem web shopu",
-    "excerpt": "Prica iz prakse: najveci domaci brend anatomske obuce je kroz nekoliko pametnih promena podigao profit 4x. Evo šta je tacno uradeno i kako to možete da primenite.",
+    "excerpt": "Prica iz prakse: najveci domaci brend anatomske obuce je kroz nekoliko pametnih promena podigao profit 4x. Evo Å¡ta je tacno uradeno i kako to moÅ¾ete da primenite.",
     "date": "2026-03-08",
     "category": "E-Commerce",
     "readTime": "11 min",
@@ -1750,7 +1759,7 @@ export const blogIndexPosts = [
   },
   {
     "slug": "hormozi-ponuda-kojoj-klijent-ne-kaze-ne",
-    "title": "Alex Hormozi pristup: kako da napravite ponudu kojoj klijent teško kaže ne",
+    "title": "Alex Hormozi pristup: kako da napravite ponudu kojoj klijent teÅ¡ko kaÅ¾e ne",
     "excerpt": "Dobra usluga nije dovoljna ako ponuda nije jasna. Evo prakticnog okvira kako da formirate ponudu koja smanjuje rizik klijenta i povecava prodaju.",
     "date": "2026-03-10",
     "category": "Marketing",
@@ -1759,8 +1768,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "leila-hormozi-sistem-za-rast-biznisa",
-    "title": "Leila Hormozi lekcija: zašto biznis ne raste bez jasnog sistema",
-    "excerpt": "Mnogo firmi ne zapinje na prodaji, nego na haosu posle prodaje. Evo jednostavnog okvira kako da uvedete sistem i rastete bez gašenja požara svaki dan.",
+    "title": "Leila Hormozi lekcija: zaÅ¡to biznis ne raste bez jasnog sistema",
+    "excerpt": "Mnogo firmi ne zapinje na prodaji, nego na haosu posle prodaje. Evo jednostavnog okvira kako da uvedete sistem i rastete bez gaÅ¡enja poÅ¾ara svaki dan.",
     "date": "2026-03-10",
     "category": "Biznis",
     "readTime": "8 min",
@@ -1768,8 +1777,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "sabri-suby-kako-do-vise-upita-bez-veceg-budzeta",
-    "title": "Sabri Suby pristup: kako do više upita bez veceg budžeta",
-    "excerpt": "Ako oglasi troše budžet, a upiti stoje, problem cesto nije cena klika nego poruka i ponuda. Evo prakticnog okvira koji možete odmah da primenite.",
+    "title": "Sabri Suby pristup: kako do viÅ¡e upita bez veceg budÅ¾eta",
+    "excerpt": "Ako oglasi troÅ¡e budÅ¾et, a upiti stoje, problem cesto nije cena klika nego poruka i ponuda. Evo prakticnog okvira koji moÅ¾ete odmah da primenite.",
     "date": "2026-03-10",
     "category": "Marketing",
     "readTime": "9 min",
@@ -1777,8 +1786,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "alex-hormozi-grand-slam-ponuda-za-usluge",
-    "title": "Alex Hormozi Grand Slam ponuda: kako da uslugu pretvorite u ponudu koju je teško odbiti",
-    "excerpt": "Dobar marketing ne pomaže ako je ponuda slaba. Evo jednostavnog okvira kako da podignete vrednost usluge, smanjite rizik za klijenta i ubrzate odluku.",
+    "title": "Alex Hormozi Grand Slam ponuda: kako da uslugu pretvorite u ponudu koju je teÅ¡ko odbiti",
+    "excerpt": "Dobar marketing ne pomaÅ¾e ako je ponuda slaba. Evo jednostavnog okvira kako da podignete vrednost usluge, smanjite rizik za klijenta i ubrzate odluku.",
     "date": "2026-03-10",
     "category": "Marketing",
     "readTime": "9 min",
@@ -1786,8 +1795,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "leila-hormozi-kpi-tabla-za-stabilan-rast",
-    "title": "Leila Hormozi KPI tabla: kako da vodiš firmu bez haosa i gašenja požara",
-    "excerpt": "Kad tim nema jasne brojeve, odluke se donose po osecaju. Evo jednostavne KPI table koja pomaže da vidiš šta stvarno koci rast i šta prvo popraviti.",
+    "title": "Leila Hormozi KPI tabla: kako da vodiÅ¡ firmu bez haosa i gaÅ¡enja poÅ¾ara",
+    "excerpt": "Kad tim nema jasne brojeve, odluke se donose po osecaju. Evo jednostavne KPI table koja pomaÅ¾e da vidiÅ¡ Å¡ta stvarno koci rast i Å¡ta prvo popraviti.",
     "date": "2026-03-10",
     "category": "Biznis",
     "readTime": "8 min",
@@ -1796,7 +1805,7 @@ export const blogIndexPosts = [
   {
     "slug": "koliko-traje-seo-da-donese-rezultate-u-srbiji",
     "title": "Koliko traje SEO da donese rezultate u Srbiji (realni rokovi za 2026)",
-    "excerpt": "SEO nije sprint ni magija preko noci. Pogledajte realne rokove po fazama, šta se meri u prvih 30/60/90 dana i kako da znate da li strategija stvarno radi.",
+    "excerpt": "SEO nije sprint ni magija preko noci. Pogledajte realne rokove po fazama, Å¡ta se meri u prvih 30/60/90 dana i kako da znate da li strategija stvarno radi.",
     "date": "2026-03-10",
     "category": "SEO",
     "readTime": "9 min",
@@ -1804,7 +1813,7 @@ export const blogIndexPosts = [
   },
   {
     "slug": "google-business-profil-optimizacija-cena-srbija-2026",
-    "title": "Google Business profil optimizacija: cena u Srbiji 2026 i šta realno dobijate",
+    "title": "Google Business profil optimizacija: cena u Srbiji 2026 i Å¡ta realno dobijate",
     "excerpt": "Google Business optimizacija ne kosta isto za svaku firmu. Evo realnih cena u Srbiji, sta mora da udje u posao i kako da procenis da li se ulaganje isplati.",
     "date": "2026-03-10",
     "category": "SEO",
@@ -1813,7 +1822,7 @@ export const blogIndexPosts = [
   },
   {
     "slug": "cena-odrzavanja-wordpress-sajta-srbija-2026",
-    "title": "Cena održavanja WordPress sajta u Srbiji 2026: šta ulazi i koliko realno košta",
+    "title": "Cena odrÅ¾avanja WordPress sajta u Srbiji 2026: Å¡ta ulazi i koliko realno koÅ¡ta",
     "excerpt": "Nije isto da li neko samo klikne update jednom mesecno ili stvarno cuva sajt od pada, hakovanja i gubitka leadova. Evo realnih cena odrzavanja WordPress sajta u Srbiji.",
     "date": "2026-03-10",
     "category": "WordPress",
