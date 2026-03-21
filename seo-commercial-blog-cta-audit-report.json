@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-20T22:28:51.320Z",
-  "postsChecked": 166,
+  "generatedAt": "2026-03-21T02:29:54.718Z",
+  "postsChecked": 167,
   "issueCount": 0,
   "checked": [
     {
@@ -831,6 +831,11 @@
     {
       "route": "/blog/instagram-reklame-za-hotele-i-smestaj-cena-rezervacije-srbija-2026",
       "serviceHits": 3,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/seo-za-hotele-i-smestaj-cena-srbija-2026",
+      "serviceHits": 4,
       "hasKontakt": true
     }
   ],

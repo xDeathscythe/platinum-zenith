@@ -1918,5 +1918,14 @@ export const blogIndexPosts = [
     "category": "Instagram Ads",
     "readTime": 10,
     "isDraft": false
+  },
+  {
+    "slug": "seo-za-hotele-i-smestaj-cena-srbija-2026",
+    "title": "SEO za hotele i smestaj u Srbiji 2026: cena, lokalni SEO i kako smanjiti zavisnost od Booking-a",
+    "excerpt": "Koliko kosta SEO optimizacija za hotel, apartman ili vilu u Srbiji 2026. Realni rasponi cena, sta donosi lokalni SEO i zasto organski saobracaj smanjuje provizije OTA platformama.",
+    "date": "2026-03-21",
+    "category": "SEO",
+    "readTime": 9,
+    "isDraft": false
   }
 ]
