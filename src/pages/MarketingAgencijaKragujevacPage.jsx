@@ -184,6 +184,10 @@ export default function MarketingAgencijaKragujevacPage() {
               <div className="text-[14px] font-medium text-ink mb-1">Cene digitalnog marketinga</div>
               <div className="text-[12px] text-ink-3">Koliko kosta marketing mesecno</div>
             </Link>
+            <Link to="/marketing-agencija-pozarevac" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Marketing agencija Pozarevac</div>
+              <div className="text-[12px] text-ink-3">Digitalni marketing za Branicevski okrug</div>
+            </Link>
             <Link to="/cene-izrade-sajta" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
               <div className="text-[14px] font-medium text-ink mb-1">Cene izrade sajta</div>
               <div className="text-[12px] text-ink-3">Koliko kosta sajt u Srbiji</div>

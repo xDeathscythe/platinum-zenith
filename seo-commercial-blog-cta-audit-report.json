@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-03-21T02:29:54.718Z",
-  "postsChecked": 167,
+  "generatedAt": "2026-03-21T06:29:46.364Z",
+  "postsChecked": 168,
   "issueCount": 0,
   "checked": [
+    {
+      "route": "/blog/najbolji-wordpress-pluginovi-za-male-firme-srbija-2026",
+      "serviceHits": 3,
+      "hasKontakt": true
+    },
     {
       "route": "/blog/google-ads-za-hotele-i-smestaj-cena-rezervacije-srbija-2026",
       "serviceHits": 6,

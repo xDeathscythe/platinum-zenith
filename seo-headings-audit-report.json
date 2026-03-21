@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-21T02:29:51.830Z",
-  "routesChecked": 63,
+  "generatedAt": "2026-03-21T06:29:43.529Z",
+  "routesChecked": 64,
   "issueCount": 0,
   "checked": [
     {
@@ -1432,6 +1432,33 @@
       "route": "/marketing-agencija-sombor",
       "component": "MarketingAgencijaSomborPage",
       "file": "src\\pages\\MarketingAgencijaSomborPage.jsx",
+      "sequence": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        2,
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 8,
+        "h3": 5,
+        "total": 14
+      }
+    },
+    {
+      "route": "/marketing-agencija-pozarevac",
+      "component": "MarketingAgencijaPozarevacPage",
+      "file": "src\\pages\\MarketingAgencijaPozarevacPage.jsx",
       "sequence": [
         1,
         2,
