@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "koliko-dugacak-treba-da-bude-blog-post-za-seo-statistika-2026",
+    "title": "Koliko dugacak treba da bude blog post za SEO: sta podaci zaista pokazuju",
+    "excerpt": "Da li duzi blog postovi rangiraju bolje na Google-u? Statistike o duzini sadrzaja, prosecnom broju reci na prvoj stranici i kada kratko pobedjuje.",
+    "date": "2026-03-22",
+    "category": "SEO",
+    "readTime": "7 min",
+    "isDraft": false
+  },
+  {
     "slug": "lokalni-seo-near-me-pretrage-statistika-konverzije-2026",
     "title": "Lokalni SEO i \"near me\" pretrage: statistika konverzija, klikova i ROI u 2026",
     "excerpt": "Koliko \"near me\" pretraga mesecno dolazi na Google, koliki procenat zavrsava kupovinom i kakav ROI donosi lokalni SEO? Citirani podaci za 2025-2026.",

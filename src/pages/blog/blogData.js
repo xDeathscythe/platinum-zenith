@@ -1,5 +1,103 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'koliko-dugacak-treba-da-bude-blog-post-za-seo-statistika-2026',
+    title: 'Koliko dugacak treba da bude blog post za SEO: sta podaci zaista pokazuju',
+    excerpt: 'Da li duzi blog postovi rangiraju bolje na Google-u? Statistike o duzini sadrzaja, prosecnom broju reci na prvoj stranici i kada kratko pobedjuje.',
+    date: '2026-03-22',
+    category: 'SEO',
+    readTime: '7 min',
+    content: `
+## Google kaze da duzina nije faktor — ali podaci govore suprotno
+
+Google zvanicno tvrdi da broj reci nije ranking faktor. Tehnicki, to je tacno — ne postoji algoritam koji broji reci i nagradjuje duze tekstove. Ali u praksi, duzi sadrzaj ima VISE mogucnosti da demonstrira E-E-A-T (Experience, Expertise, Authority, Trust), pokrije temu kompletno i sakupi vise backlink-ova.
+
+Evo sta podaci zaista pokazuju.
+
+Za on-page SEO praksu pogledajte [SEO checklistu](/blog/on-page-seo-checklista-srbija-2026). Za backlink strategiju pogledajte [backlink vodic](/blog/backlink-strategija-za-srpske-sajtove-2026).
+
+## Prosecna duzina sadrzaja na prvoj stranici Google-a
+
+Podaci iz Backlinko, HubSpot i Rank Tracker istrazivannja (2024-2025):
+
+- **Backlinko studija (2024):** Prosecna duzina stranica na prvoj stranici: **1.500 reci**
+- **Rank Tracker analiza (2025):** Prosecna prva stranica: **1.447 reci**
+- **HubSpot podatak (2025):** Uspesni blog postovi prosecno: **1.333-1.416 reci**
+- **Top-ranking blog postovi (2025):** Prosecno **2.450 reci** (za konkurentne terme)
+- **Rast u poslednjih 5 godina:** Prosecna duzina blog posta porasla za **42%** (sa 1.050 reci u 2019 na 1.490 u 2024)
+
+**Kljucna cifra:** Vecina sadrzaja na prvoj stranici Google-a ima izmedju **1.000 i 2.500 reci**. Postovi ispod 300 reci retko rangiraju za bilo sta osim najjednostavnijih upita.
+
+## Dugi vs kratki sadrzaj: sta podaci kazu
+
+### Dugi sadrzaj (1.000+ reci) — SEO prednosti
+
+- Sadrzaj sa 2.000+ reci ima **2.5x vecu sansu** da dobro rangira i generise backlink-ove
+- Duzi sadrzaj zahteva update **2.3x redje** da odrzsi poziciju (jer je kompletni od pocetka)
+- Prosecno vreme na stranici je **40-60% duze** za dugi sadrzaj (bolji dwell time signal za Google)
+- Dugi vodici generisu **3x vise social share-ova** od kratkih postova
+
+### Kratki sadrzaj (pod 1.000 reci) — kada ima smisla
+
+- **FAQ odgovori:** Kratko, direktno, tacno. Google cesto prikazuje u Featured Snippet.
+- **Vesti i updates:** Aktuelnost je vaznija od dubine.
+- **Lokalne pretrage:** "Stomatolog Beograd radno vreme" ne zahteva 2.000 reci.
+- **Mobilni korisnici:** Vecina citaoca preferira sadrzaj ispod 1.000 reci za brzo konzumiranje.
+
+### Optimalna zona: 1.500-2.500 reci
+
+Podaci konzistentno pokazuju da je "sweet spot" za SEO blog postove izmedju **1.500 i 2.500 reci**. Dovoljno dugo da pokrije temu kompletno, ali ne toliko dugo da citaoci gube interes.
+
+**Upozorenje:** Sadrzaj sa 7.000+ reci ponekad rangira LOSIJE od sadrzaja od 3.000-5.000 reci jer gubi fokus i engagement.
+
+## Kvalitet vs kvantitet: sta Google zapravo meri
+
+Google-ov May 2024 API leak otkrio je vazan detalj: "thin content" se NE ocenjuje po broju reci vec po **originalnosti**. To znaci:
+
+- **500 reci originalnog, unikatnog sadrzaja** > 2.000 reci prepisanog ili generisanog teksta
+- **Jedinstven ugao** na temu je vazniji od duzine
+- **Prakticna vrednost** (actionable advice) rangira bolje od teorijskog sadrzaja iste duzine
+- **E-E-A-T signali** (ko je autor, kakvo iskustvo ima) su vazniji od broja reci
+
+Za content strategiju pogledajte [content marketing plan](/blog/content-marketing-plan-za-male-firme-srbija-2026).
+
+## Koliko reci po tipu sadrzaja
+
+Na osnovu agregiranih podataka iz vise studija:
+
+| Tip sadrzaja | Optimalna duzina | Primer |
+|-------------|-----------------|--------|
+| Blog post (edukativni) | 1.500-2.500 reci | Vodici, how-to, analize |
+| Blog post (news) | 300-800 reci | Aktuelne vesti, updates |
+| Landing stranica | 500-1.000 reci | Prodajne stranice, usluge |
+| Product opis (e-commerce) | 150-300 reci | Opisi proizvoda |
+| Pillar page (stubni sadrzaj) | 3.000-5.000 reci | Kompletni vodici po temi |
+| Stat-based clanak | 1.500-3.000 reci | Statistike, benchmark podaci |
+| FAQ stranica | 1.000-2.000 reci | 10-20 pitanja i odgovora |
+
+## Kako odrediti pravu duzinu za vas post
+
+### Korak 1: Guglajte vas ciljni upit
+
+Pogledajte prvih 5 rezultata. Koliko reci imaju? To je vas benchmark. Ne morate biti duzi -- ali morate pokriti sve sto oni pokrivaju + nesto vise.
+
+### Korak 2: Proverite Search Intent
+
+- **Informativni upit** ("kako radi SEO"): Duzi sadrzaj (1.500+)
+- **Transakcioni upit** ("SEO agencija cena"): Kraci, fokusiran na konverziju (800-1.200)
+- **Navigacioni upit** ("Google Analytics login"): Ne treba vas blog post
+
+### Korak 3: Ne dodajte filler
+
+Ako ste kompletno pokrili temu u 1.200 reci, ne dodajte jos 800 reci "filler-a" samo da biste dosli do 2.000. Google prepoznaje padding i penalizuje ga nizim engagement metrikama.
+
+Za pracenje rezultata pogledajte [Google Search Console vodic](/blog/google-search-console-vodic-za-pocetnike-srbija-2026) i [kako meriti ROI](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
+
+Za profesionalnu content strategiju koja balansira duzinu, kvalitet i SEO, javite se preko [kontakt forme](/kontakt). Za cene SEO usluga pogledajte [SEO optimizacija cena](/seo-optimizacija-cena).
+
+*Izvori: Backlinko First Page Ranking Study (2024), HubSpot Blog Research (2025), Rank Tracker Content Length Statistics (2025), Search Engine Land Content Depth Analysis (2025), Google May 2024 API Leak Analysis.*
+`
+  },
+  {
     slug: 'lokalni-seo-near-me-pretrage-statistika-konverzije-2026',
     title: 'Lokalni SEO i "near me" pretrage: statistika konverzija, klikova i ROI u 2026',
     excerpt: 'Koliko "near me" pretraga mesecno dolazi na Google, koliki procenat zavrsava kupovinom i kakav ROI donosi lokalni SEO? Citirani podaci za 2025-2026.',
