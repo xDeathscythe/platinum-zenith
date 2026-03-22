@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "koliko-firmi-koristi-ai-statistika-produktivnost-roi-2026",
+    "title": "Koliko firmi zaista koristi AI u 2026: usvajanje, produktivnost i ROI u brojevima",
+    "excerpt": "Statistike o AI usvajanju u biznisu 2025-2026. Koliko firmi koristi AI, koliki je rast produktivnosti i da li se investicija zaista vraca.",
+    "date": "2026-03-22",
+    "category": "Marketing",
+    "readTime": "7 min",
+    "isDraft": false
+  },
+  {
     "slug": "prosecna-stopa-konverzije-po-industriji-benchmark-statistika-2026",
     "title": "Prosecna stopa konverzije po industriji: benchmark podaci za 2025-2026",
     "excerpt": "Koliki je prosek konverzije u e-commerce, B2B, SaaS i na landing stranicama? Benchmark statistika po industriji, uredjaju i kanalu sa citiranim izvorima.",
