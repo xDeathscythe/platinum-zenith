@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "lokalni-seo-near-me-pretrage-statistika-konverzije-2026",
+    "title": "Lokalni SEO i \"near me\" pretrage: statistika konverzija, klikova i ROI u 2026",
+    "excerpt": "Koliko \"near me\" pretraga mesecno dolazi na Google, koliki procenat zavrsava kupovinom i kakav ROI donosi lokalni SEO? Citirani podaci za 2025-2026.",
+    "date": "2026-03-22",
+    "category": "SEO",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "koliko-firmi-koristi-ai-statistika-produktivnost-roi-2026",
     "title": "Koliko firmi zaista koristi AI u 2026: usvajanje, produktivnost i ROI u brojevima",
     "excerpt": "Statistike o AI usvajanju u biznisu 2025-2026. Koliko firmi koristi AI, koliki je rast produktivnosti i da li se investicija zaista vraca.",

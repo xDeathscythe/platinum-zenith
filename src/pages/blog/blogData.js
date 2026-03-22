@@ -1,5 +1,138 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'lokalni-seo-near-me-pretrage-statistika-konverzije-2026',
+    title: 'Lokalni SEO i "near me" pretrage: statistika konverzija, klikova i ROI u 2026',
+    excerpt: 'Koliko "near me" pretraga mesecno dolazi na Google, koliki procenat zavrsava kupovinom i kakav ROI donosi lokalni SEO? Citirani podaci za 2025-2026.',
+    date: '2026-03-22',
+    category: 'SEO',
+    readTime: '8 min',
+    tags: ['lokalni SEO', 'near me', 'Google Business Profile', 'local pack', 'statistika', 'konverzija', 'ROI'],
+    content: `
+## 1.5 milijardi "near me" pretraga mesecno — a koliko vas pronadje?
+
+Svaki mesec **1.5 milijardi pretraga** na Google-u sadrzi frazu "near me" ili "blizu mene". To je oko **50 miliona lokalnih pretraga dnevno**. Rast ovih upita u poslednjih pet godina prelazi **500%**, a za specificne varijante poput "near me" + "can I buy" rast je cak **900%** u periodu od dve godine.
+
+Od svih Google pretraga, **46% ima lokalnu nameru** — korisnik trazi nesto u svom okruzenju. To znaci da skoro polovina svih upita na najposecenijem sajtu na planeti ima direktnu vezu sa fizickim lokacijama i lokalnim firmama.
+
+Za optimizaciju vaseg Google profila pogledajte [Google Business Profile checklista](/blog/google-business-profile-optimizacija-srbija-2026). Za cene SEO usluga pogledajte [SEO optimizacija cena](/seo-optimizacija-cena).
+
+## Ko pretrazuje "near me" i na cemu
+
+Lokalne pretrage su dominantno mobilni fenomen:
+
+- **84% "near me" pretraga** dolazi sa mobilnih uredjaja
+- **82% korisnika pametnih telefona** koristi "near me" pretrage prilikom kupovine
+- **78% svih "near me" upita** dolazi kombinovano sa mobilnih uredjaja i glasovnih pretraga
+- **58% potrosaca** koristi glasovnu pretragu za pronalazenje lokalnih firmi
+- **76% glasovnih pretraga** sadrzi "near me" ili drugu frazu sa lokalnom namerom
+
+Glasovna pretraga menja sve. Kad neko kaze "Hey Google, frizer blizu mene", algoritam radi sa potpuno istim faktorima rangiranja kao i tekstualna pretraga — ali format odgovora daje jos manje rezultata. Obicno samo jedan.
+
+Za mobilne konverzije pogledajte [mobilna vs desktop kupovina statistiku](/blog/mobilna-vs-desktop-kupovina-konverzije-statistika-2026).
+
+## Konverzija "near me" pretraga: od pretrage do kupovine
+
+Ovo su podaci koji razdvajaju lokalni SEO od svakog drugog marketinskog kanala:
+
+- **76% korisnika** koji pretrazuju "near me" na telefonu **poseti fizicku radnju u roku od 24 sata**
+- **28% tih pretraga** zavrsi se **kupovinom**
+- **88% korisnika** pametnih telefona koji urade lokalnu pretragu poseti ili pozove firmu **u roku od nedelju dana**
+- **78% lokacijski baziranih mobilnih pretraga** rezultira **offline kupovinom**
+
+Za poredjenje: prosecna e-commerce konverzija je 2.5-3%. Email marketing konvertuje 7%. A lokalna pretraga na mobilnom konvertuje **28% u direktnu kupovinu** i **76% u fizicku posetu** za 24 sata.
+
+Nijedan drugi kanal ne isporucuje ovu kombinaciju namere i akcije. Potrosac koji pretrazuje "stomatolog blizu mene" ne istrazuje — on zakazuje termin. Potrosac koji trazi "autoservis u blizini" ne cita blogove — on vozi do prvog rezultata.
+
+Za konverzije po industriji pogledajte [benchmark stope konverzije](/blog/prosecna-stopa-konverzije-po-industriji-benchmark-statistika-2026).
+
+## Google Local Pack: gde se desava 42% klikova
+
+Google Local Pack (gornja tri rezultata sa mapom) pojavljuje se na **93% pretraga sa lokalnom namerom**. Od korisnika koji vide Local Pack:
+
+- **42% klikne** na rezultat unutar Local Pack-a
+- **Position #1:** prima **17.6-23.6%** svih klikova
+- **Position #2:** prima **15.4%** klikova
+- **Position #3:** prima **15.1%** klikova
+
+Za poredjenje sa standardnim organskim rezultatima:
+
+- Local Pack rezultati: **44%** klikova
+- Organski rezultati ispod: **29%** klikova
+- Placeni oglasi: **19%** klikova
+
+Firme u Local Pack-u dobijaju **126% vise saobracaja** i **93% vise akcija** (pozivi, klikovi na sajt, zahtevi za navigaciju) u poredjenju sa firmama na pozicijama 4-10.
+
+### Poverenje u Local Pack
+
+- **68% pretrazivaca** veruje Local Pack rezultatima
+- **27%** veruje standardnim organskim rezultatima
+- **10%** veruje placenim oglasima
+
+Kad se firma pojavi u Local Pack-u, korisnik je vec na pola puta do kupovine. Za razliku od organske pozicije gde korisnik moze biti u fazi istrazivanja, Local Pack korisnik trazi akciju — poziv, adresu, sajt.
+
+Za cene Google oglasa pogledajte [Google Ads cena u Srbiji](/google-reklame-cena).
+
+## Google Business Profile: brojevi koji menjaju igru
+
+Kompletnost i aktivnost vaseg Google Business Profila (ranije Google My Business) direktno utice na vidljivost:
+
+- Firme sa **kompletnim i verifikovanim GBP-om** su **80% verovatnije** da se pojave u pretragama
+- Te firme su **2.7 puta** verovatnije da budu smatrane "pouzdanim"
+- Korisnici su **70% skloniji da posete** i **50% skloniji da kupe** od firme sa kompletnim profilom
+
+### Benchmark performansi GBP-a (2025-2026)
+
+- **Klikovi na sajt:** 4-7% gledalaca (B2B servisi: 10-12%)
+- **Klikovi za poziv:** 5-8% gledalaca (servisne firme: 10-15%)
+- **Zahtevi za navigaciju:** 3-5% gledalaca (restorani i maloprodaja: 7-10%)
+- **Fotografije:** Profili sa fotografijama dobijaju **30-50% vise pregleda**; profili sa 10+ fotografija dobijaju **duplo** vise interakcija
+- **Prosecna ocena:** 4.0-4.5 zvezdica je prosek; **4.2+ zvezdice** znacajno utice na konverziju
+
+### Recenzije menjaju konverziju
+
+- Povecanje prosecne ocene za **jednu zvezdicu** poboljsava konverziju na GBP-u za **44%**
+- Svakih **10 novih recenzija** poboljsava konverziju za **2.8%**
+- **84% potrosaca** veruje online recenzijama koliko i licnim preporukama
+- **71% potrosaca** koristi Google za citanje recenzija lokalnih firmi
+
+Za uticaj recenzija na prodaju pogledajte [online recenzije statistiku](/blog/uticaj-online-recenzija-na-prodaju-statistika-2026).
+
+## ROI lokalnog SEO-a: koliko se vraca
+
+Lokalni SEO ima jedne od najvisih stopa povrata u digitalnom marketingu:
+
+- **Prosecni ROI:** 2.5 puta ulozeno
+- **Lokalne servisne firme:** 200-500% ROI u periodu od 6-12 meseci
+- **Firme u Local Pack-u:** 126% vise saobracaja i 93% vise akcija od onih van top 3
+
+Za firmu koja ulozi 500 evra mesecno u lokalni SEO (optimizacija profila, recenzije, lokalni sadrzaj, citati), povrat od 1.250-2.500 evra mesecno u novim klijentima je realan i dokumentovan benchmark.
+
+Za poredjenje troskova pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## AI Overviews menjaju lokalne pretrage
+
+Google AI Overviews (automatski generisani odgovori na vrhu pretrage) menjaju dinamiku lokalnog SEO-a u 2025-2026:
+
+- **40.16% lokalnih poslovnih upita** pokrece Google AI Overview
+- **92% korisnika** koji vide AI sazetke **nikad ne klikne** na tradicionalne rezultate ispod
+- AI sistemi direktno vuku podatke iz Google Business Profila za preporuke
+
+To znaci dve stvari. Prvo, ako vas GBP nije kompletan i aktivan, AI ga moze preskociti. Drugo, firme koje se pojave u AI odgovorima za lokalne pretrage dobijaju efektivno **monopol** na tu pretragu — jer 92% korisnika ne skroluje dalje.
+
+Za CTR po poziciji na Google-u pogledajte [koliko klikova dobija prvi rezultat](/blog/koliko-klikova-dobija-prvi-rezultat-na-google-ctr-po-poziciji-2026).
+
+## Sta ovo znaci za vasu firmu
+
+Lokalni SEO nije "bonus" za firme sa fizickom lokacijom — on je primarni kanal akvizicije. Polovina svih Google pretraga je lokalna. Tri cetvrtine tih korisnika poseti fizicku radnju u roku od 24 sata. Skoro trecina kupi.
+
+Firma koja nema optimizovan Google Business Profile, nema recenzije i ne pojavljuje se u Local Pack-u propusta kanal koji konvertuje bolje od svakog drugog oblika digitalnog marketinga.
+
+Za besplatnu analizu vaseg lokalnog SEO stanja i Google Business Profila, javite se preko [kontakt forme](/kontakt). Za pregled svih marketing troskova pogledajte [koliko firme trose na marketing](/blog/koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026).
+
+*Izvori: Google/Think with Google (2024), BrightLocal Local Consumer Survey (2025), SOCi Local SEO Statistics (2025), SeerInteractive Local SEO Guide (2025), Search Engine Land Local Pack Data (2025), Starfish Reviews GBP Statistics (2025), BirdEye State of Google Business Profiles (2025), First Page Sage CTR Study (2025), Sterling Sky State of Local SEO (2026).*
+`
+  },
+  {
     slug: 'koliko-firmi-koristi-ai-statistika-produktivnost-roi-2026',
     title: 'Koliko firmi zaista koristi AI u 2026: usvajanje, produktivnost i ROI u brojevima',
     excerpt: 'Statistike o AI usvajanju u biznisu 2025-2026. Koliko firmi koristi AI, koliki je rast produktivnosti i da li se investicija zaista vraca.',

@@ -1,11 +1,13 @@
 {
-  "generatedAt": "2026-03-22T02:28:56.529Z",
+  "generatedAt": "2026-03-22T06:29:11.734Z",
   "staticRoutesChecked": 66,
-  "blogRoutesChecked": 227,
+  "blogRoutesChecked": 229,
   "draftRoutesChecked": 1,
-  "routesChecked": 294,
+  "routesChecked": 296,
   "issueCount": 0,
-  "warningCount": 0,
+  "warningCount": 1,
   "issues": [],
-  "warnings": []
+  "warnings": [
+    "/blog/lokalni-seo-near-me-pretrage-statistika-konverzije-2026: og:title length 99 outside 20-95"
+  ]
 }
