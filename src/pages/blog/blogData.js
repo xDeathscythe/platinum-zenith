@@ -1,5 +1,187 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'cena-oglasavanja-na-drustvenim-mrezama-cpc-ctr-roi-po-platformi-2026',
+    title: 'Cena oglasavanja na drustvenim mrezama: CPC, CTR i ROI po platformi u 2025-2026',
+    excerpt: 'Koliko kosta oglas na Facebooku, Instagramu, LinkedInu i TikToku? Benchmark podaci za CPC, CTR, konverziju i ROAS po platformi sa citiranim izvorima.',
+    date: '2026-03-22',
+    category: 'Social Media',
+    readTime: '9 min',
+    content: `
+## Koliko zaista kosta oglas na drustvenim mrezama
+
+Globalna potrosnja na oglasavanje na drustvenim mrezama u 2025. godini dostigla je 207 milijardi dolara, sto je rast od 15% u odnosu na prethodnu godinu. Ali prava pitanja za firme u Srbiji nisu o globalnim ciframa. Pitanje je: koliko kosta JEDAN klik, koliko ljudi zaista klikne na oglas i koliko novca se vrati po ulozenom dinaru.
+
+Evo podataka po platformi, citiranih iz vodecih izvora za 2025-2026.
+
+Za siru sliku o marketing budzetu pogledajte [koliko firme trose na marketing po industriji](/blog/koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026). Za poredjenje Google Ads i Facebook Ads pogledajte [Google Ads vs Facebook Ads vodic](/blog/google-ads-vs-facebook-ads-koji-je-bolji).
+
+## Facebook (Meta Ads): i dalje najjeftiniji klik za vecinu
+
+Facebook ostaje najisplativija platforma za siroku publiku. Evo benchmark podataka:
+
+### Cena po kliku (CPC)
+
+- **Prosecni CPC (sve industrije):** $0.50-$0.60 (WordStream 2025)
+- **CPC za traffic kampanje:** $0.70
+- **CPC za lead kampanje:** $1.92
+- **CPC za retargeting:** obicno 20-30% nizi od cold audience kampanja
+
+### Stopa klikanja (CTR)
+
+- **Prosecni CTR (sve industrije):** 1.5-1.8%
+- **CTR za traffic kampanje:** 1.71%
+- **CTR za lead kampanje:** 2.59%
+- **Video oglasi:** do 2% CTR (visi od staticnih)
+
+### Konverzija i ROI
+
+- **Prosecna stopa konverzije:** 8.95% (sve industrije, WordStream 2025)
+- **Konverzija za lead generation:** 7.72%
+- **Restorani i hrana:** 18.25% konverzija (najvisa industrija)
+- **Advokatske kancelarije:** 10.53%
+- **Fitness:** 14.29%
+- **ROAS:** prosecno 4x (4 dolara povrata na 1 dolar potrosnje)
+- **Retargeting vs cold audience:** 367% visa konverzija
+
+### Troskovi po impresiji
+
+- **CPM (cena na 1000 prikaza):** $10-$15
+- **CPL (cena po leadu):** $5-$20
+
+Za detaljan vodic o Facebook reklamama pogledajte [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama). Za remarketing strategiju pogledajte [Facebook Ads remarketing vodic](/blog/facebook-ads-remarketing-strategija-srbija-2026).
+
+## Instagram: skuplji klik, veca vrednost korpe
+
+Instagram generalno ima visi CPC od Facebooka, ali i visu prosecnu vrednost porudzbine.
+
+### CPC i CTR
+
+- **Prosecni CPC:** $1.10 (neke industrije do $2.50)
+- **CPM:** $7-$13.20
+- **Cost per engagement:** $0.03-$0.08
+- **Reels oglasi:** 27% visi engagement od staticnih feed oglasa
+
+### Konverzija i performanse
+
+- **Prosecna konverzija:** 1-3% (zavisno od industrije i kreative)
+- **Prosecna vrednost porudzbine:** $65 po prodaji (vs Facebook $55)
+- **Completion rate za Stories oglase:** 82%
+- **Carousel postovi:** 0.55% engagement rate (najvisji format)
+- **Influencer sadrzaj vs brendirani:** 3x visi engagement
+
+### ROI
+
+- **Influencer kampanje:** $4.12 povrata na $1 potrosnje
+- **Globalni ad doseg:** 1.74 milijarde korisnika u 2025.
+- **Vizuelne industrije (moda, beauty):** najvisji ROI na Instagramu
+
+Za engagement benchmark po platformi pogledajte [engagement rate statistiku](/blog/engagement-rate-po-platformi-instagram-tiktok-linkedin-2026).
+
+## LinkedIn: najskuplji klik, ali najbolji B2B leadovi
+
+LinkedIn je platforma gde CPC boli, ali kvalitet leadova nadoknadjuje cenu.
+
+### CPC i CPM
+
+- **Prosecni CPC:** $3.94-$5.26 (moze ici do $7 za Single Image Ads)
+- **CPM:** $31-$38 (u konkurentnim industrijama $50-$100)
+- **CPL sa Lead Gen Forms:** $75-$150
+- **CPL sa landing stranicama:** $100-$200
+- **Kampanje sa CTR iznad 0.7%:** 15% nizi CPC
+
+### CTR i konverzija
+
+- **Medijan CTR:** 0.52% (sve kampanje)
+- **Single Image Ads CTR:** 0.50-0.60%
+- **Lead Gen Forms konverzija:** 6-10% (duplo vise od eksternih landing stranica)
+- **Neki izvestaji:** do 13% konverzija sa Lead Gen Forms
+
+### ROI i kvalitet leadova
+
+- **82% B2B leadova sa drustvenih mreza** dolazi sa LinkedIna
+- **3x vise kvalifikovanih leadova** nego Facebook za B2B
+- **ABM kampanje:** 200% bolji ROI nego standardne
+- **Q3:** najbolji pipeline ROI (6.01x)
+- **Q4:** najvisi revenue ROI (2.46x jer raniji pipeline konvertuje)
+- **Video oglasi:** generisu 2x vise leadova od staticnih kreativa
+
+Za poredjenje trosenja po kanalu pogledajte [cena po leadu po industriji](/blog/cena-po-leadu-po-industriji-benchmark-statistika-2026).
+
+## TikTok: najbrzi rast, najjeftiniji CPM
+
+TikTok je platforma sa najbrzim rastom ad spend-a i iznenadujuce jakim konverzijama.
+
+### CPC i CPM
+
+- **Prosecni CPC:** $0.50-$0.61 (medijan)
+- **CPM:** $7-$8.30 (znacajno nizi od Facebooka i LinkedIna)
+- **Rast ad spend-a:** 45% godisnje (sa $37 milijardi u 2025.)
+- **Globalni ad doseg:** 1.59 milijardi korisnika
+
+### CTR po industriji
+
+- **Prosecni CTR:** 0.84%
+- **E-commerce:** 0.9-1.2%
+- **Beauty:** 1.0-1.5%
+- **B2B/Finansije:** 0.5-0.7%
+
+### Konverzija i ROAS
+
+- **Prosecna konverzija:** 1.1-2.4% (kreativno zavisno)
+- **ROAS:** 5.1:1 ($5.10 povrata na $1 potrosnje)
+- **Kratkorocni ROAS:** 4x-12x
+- **Dugorocni ROAS:** 3x-5x
+- **36% svih direktnih kupovina** na drustvenim mrezama desava se na TikToku
+- **Engagement rate:** 4.07% (vs Instagram 1.22%, Facebook 0.09%)
+
+Za ROAS benchmark po industriji pogledajte [ROAS statistiku](/blog/roas-po-industriji-i-platformi-benchmark-statistika-2026).
+
+## Uporedna tabela: sve platforme na jednom mestu
+
+| Platforma | Prosecni CPC | CTR | Konverzija | CPM | ROAS |
+|-----------|-------------|-----|------------|-----|------|
+| Facebook | $0.50-0.60 | 1.5-1.8% | 8.95% | $10-15 | 4:1 |
+| Instagram | $1.10-2.50 | ~1% | 1-3% | $7-13 | 4.12:1 (influencer) |
+| LinkedIn | $3.94-5.26 | 0.52% | 6-10% (Lead Forms) | $31-38 | 6:1 (Q3 pipeline) |
+| TikTok | $0.50-0.61 | 0.84% | 1.1-2.4% | $7-8.30 | 5.1:1 |
+
+## Sta ovo znaci za firme u Srbiji
+
+### 1) Facebook je i dalje "sigurna opcija" za pocetak
+
+Sa CPC-em od $0.50-$0.60 i konverzijom od skoro 9%, Facebook ostaje najisplativija platforma za vecinu firmi u Srbiji. Lokalni CPC je cesto jos nizi (0.10-0.30 EUR za srpsko trziste). Za pocetnike pogledajte [digitalni marketing vodic](/blog/digitalni-marketing-za-pocetnike-kompletni-vodic-srbija-2026).
+
+### 2) LinkedIn se isplati samo za B2B
+
+Ako prodajete drugim firmama, CPC od $4-5 je opravdan jer 82% B2B leadova dolazi odatle. Ako prodajete krajnjim korisnicima, LinkedIn je bacanje novca.
+
+### 3) TikTok je nisko visece voce
+
+Sa ROAS-om od 5.1:1 i najnizim CPM-om, TikTok je podvrednovana platforma. Problem za srpsko trziste: manja korisnicka baza i manje precizno targetiranje za lokalne firme.
+
+### 4) Retargeting je obavezan
+
+Retargeting na Facebooku donosi 367% vecu konverziju od hladne publike. Ako ne radite retargeting, ostavljate novac na stolu. Za detaljan vodic pogledajte [remarketing strategiju](/blog/facebook-ads-remarketing-strategija-srbija-2026).
+
+### 5) Video formati dominiraju na svim platformama
+
+67% budeta za oglase na drustvenim mrezama ide u video sadrzaj. Reels na Instagramu, TikTok video, LinkedIn video oglasi. Ako i dalje koristite samo staticne slike, zaostajete za konkurencijom. Za video statistiku pogledajte [video marketing ROI vodic](/blog/video-marketing-roi-kratki-video-reels-tiktok-statistika-2026).
+
+## Kljucni zakljucci
+
+- Globalni ad spend na drustvenim mrezama: $207 milijardi u 2025 (+15%)
+- Facebook CPC $0.50-0.60, konverzija 8.95%, ROAS 4:1
+- LinkedIn CPC $3.94-5.26, ali 82% B2B leadova dolazi odatle
+- TikTok najbrzi rast (45% g/g), ROAS 5.1:1, najjeftiniji CPM
+- Retargeting na Facebooku: 367% visa konverzija od cold audience
+- Video formati: 67% budeta ide u video sadrzaj
+
+Za besplatnu analizu vasih kampanja na drustvenim mrezama, javite se preko [kontakt forme](/kontakt).
+
+*Izvori: WordStream Facebook Ads Benchmarks 2025, Quimby Digital Social Media Marketing Cost 2025, SocialPulseStats Social Media Advertising Statistics 2025, CloselyhQ LinkedIn Ad Benchmarks 2025, Nav43 LinkedIn Ads Benchmarks 2025, MarketingLTB TikTok/LinkedIn/Facebook Ads Statistics 2025, Hootsuite Social Media Trends 2025, SEO Design Chicago Instagram Advertising Statistics, HockeyStack LinkedIn Ads Benchmarks.*
+`,
+  },
+  {
     slug: 'featured-snippet-i-ai-overview-uticaj-na-klikove-statistika-2026',
     title: 'Featured Snippet i AI Overview: koliko klikova zaista dobijate sa pozicije 0',
     excerpt: 'Statistike o Featured Snippet CTR-u i uticaju Google AI Overview-a na organski saobracaj. Koliko klikova gubite i kako se prilagoditi u 2026.',
@@ -25782,6 +25964,7 @@ export const blogPosts = rawBlogPosts.filter((post) => {
   seenSlugs.add(post.slug)
   return true
 })
+
 
 
 

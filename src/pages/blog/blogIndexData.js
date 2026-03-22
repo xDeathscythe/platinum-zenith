@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "cena-oglasavanja-na-drustvenim-mrezama-cpc-ctr-roi-po-platformi-2026",
+    "title": "Cena oglasavanja na drustvenim mrezama: CPC, CTR i ROI po platformi u 2025-2026",
+    "excerpt": "Koliko kosta oglas na Facebooku, Instagramu, LinkedInu i TikToku? Benchmark podaci za CPC, CTR, konverziju i ROAS po platformi sa citiranim izvorima.",
+    "date": "2026-03-22",
+    "category": "Social Media",
+    "readTime": "9 min",
+    "isDraft": false
+  },
+  {
     "slug": "featured-snippet-i-ai-overview-uticaj-na-klikove-statistika-2026",
     "title": "Featured Snippet i AI Overview: koliko klikova zaista dobijate sa pozicije 0",
     "excerpt": "Statistike o Featured Snippet CTR-u i uticaju Google AI Overview-a na organski saobracaj. Koliko klikova gubite i kako se prilagoditi u 2026.",

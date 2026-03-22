@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-03-22T18:29:15.531Z",
-  "postsChecked": 181,
+  "generatedAt": "2026-03-22T22:31:47.261Z",
+  "postsChecked": 182,
   "issueCount": 0,
   "checked": [
+    {
+      "route": "/blog/cena-oglasavanja-na-drustvenim-mrezama-cpc-ctr-roi-po-platformi-2026",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
     {
       "route": "/blog/koliko-dugacak-treba-da-bude-blog-post-za-seo-statistika-2026",
       "serviceHits": 2,
