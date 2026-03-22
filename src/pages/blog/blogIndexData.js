@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "prosecna-stopa-konverzije-po-industriji-benchmark-statistika-2026",
+    "title": "Prosecna stopa konverzije po industriji: benchmark podaci za 2025-2026",
+    "excerpt": "Koliki je prosek konverzije u e-commerce, B2B, SaaS i na landing stranicama? Benchmark statistika po industriji, uredjaju i kanalu sa citiranim izvorima.",
+    "date": "2026-03-22",
+    "category": "CRO",
+    "readTime": "9 min",
+    "isDraft": false
+  },
+  {
     "slug": "cena-po-leadu-po-industriji-benchmark-statistika-2026",
     "title": "Koliko kosta jedan lead: cena po leadu (CPL) po industriji i kanalu u 2025-2026",
     "excerpt": "Benchmark podaci za cost per lead po industriji i marketing kanalu. Google Ads, Facebook, SEO, LinkedIn â€” koliko zaista kosta jedan kvalifikovan lead u Srbiji i svetu.",

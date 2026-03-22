@@ -1,5 +1,165 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'prosecna-stopa-konverzije-po-industriji-benchmark-statistika-2026',
+    title: 'Prosecna stopa konverzije po industriji: benchmark podaci za 2025-2026',
+    excerpt: 'Koliki je prosek konverzije u e-commerce, B2B, SaaS i na landing stranicama? Benchmark statistika po industriji, uredjaju i kanalu sa citiranim izvorima.',
+    date: '2026-03-22',
+    category: 'CRO',
+    readTime: '9 min',
+    tags: ['konverzija', 'conversion rate', 'benchmark', 'e-commerce', 'B2B', 'SaaS', 'CRO', 'landing stranica', 'statistika'],
+    content: `
+## Koja je "normalna" stopa konverzije za vasu industriju?
+
+Kad vlasnik firme pita "da li je nas sajt dobar", prvi odgovor je uvek u konverzijama. Ali bez referentne tacke, ta cifra nista ne znaci. Globalna prosecna stopa konverzije u e-commerce-u za 2025. iznosi **2.5% do 3%**, prema podacima Dynamic Yield-a i Shopify-a. To znaci da od 100 posetilaca, samo dvoje ili troje kupuje.
+
+Problem je sto "prosek" krije ogromne razlike medju industrijama. Hrana i pice konvertuju tri puta bolje od namestaja. Mobilni uredjaji zaostaju za desktopom. A izvor saobracaja menja sve.
+
+Za podatke o cenama po leadu pogledajte [cena po leadu po industriji](/blog/cena-po-leadu-po-industriji-benchmark-statistika-2026). Za brzinu sajta i konverzije pogledajte [kako brzina sajta utice na rangiranje](/blog/kako-brzina-sajta-utice-na-rangiranje-na-googlu-2026).
+
+## E-commerce: konverzija po industriji (2025)
+
+Podaci iz Dynamic Yield Benchmark Report-a i Red Stag Fulfillment analize za 2025:
+
+**Najvise konvertuju:**
+- **Hrana i pice:** 6.02%
+- **Zdravlje i lepota:** 4.55%
+- **Multi-brand maloprodaja:** 4.90%
+- **Kucni ljubimci:** 7.32% (februar 2025, sezonski pik)
+
+**Sredina tabele:**
+- **Moda i odeca:** 3.01%
+- **Potrosacki proizvodi:** 3.01%
+- **Potrosacka elektronika:** 3.55%
+
+**Najnize konvertuju:**
+- **Kuca i namestaj:** 1.24%
+- **Luksuz i nakit:** 1.19%
+- **B2B proizvodnja (e-commerce):** 1.8%
+
+Pravilo je jednostavno: jeftiniji proizvodi koji se cesto kupuju (hrana, kozmetika) imaju vise konverzije. Skupi proizvodi sa dugim ciklusom odlucivanja (namestaj, luksuz) konvertuju znatno losije.
+
+Za probleme sa prodajom u web shopovima pogledajte [zasto web shop nema prodaju](/web-shop-nema-prodaju). Za napustanje korpe pogledajte [cart abandonment statistiku](/blog/napustanje-korpe-statistika-po-industriji-2026).
+
+## Shopify vs BigCommerce: konverzija po platformi
+
+**Shopify (2025):**
+- Prosek svih prodavnica: **1.4% do 1.8%**
+- Ustanovljene prodavnice (6+ meseci): **2.5% do 4%**
+- Top 20% prodavnica: iznad **3.2%**
+- Top 10% prodavnica: iznad **4.7%**
+
+**BigCommerce (2025):**
+- Prosek svih prodavnica: **2.5%**
+- Visi od Shopify proseka, ali manji broj ukupnih prodavnica
+
+Razlika dolazi iz strukture korisnika. Shopify privlaci vise pocetnika sa novim prodavnicama, sto spusta prosek. BigCommerce ima veci udeo etabliranih trgovaca.
+
+Za izradu e-commerce sajta pogledajte [cene izrade WordPress sajta](/blog/izrada-wordpress-sajta-cena-po-tipu-biznisa-srbija-2026).
+
+## Desktop vs mobilni: konverzija po uredjaju (2025-2026)
+
+Jedan od najbitnijih faktora za konverziju je uredjaj:
+
+- **Desktop:** 4.8% prosecna konverzija (2026)
+- **Mobilni:** 2.9% prosecna konverzija (2026)
+- **Tablet:** 3.4% prosecna konverzija (2025)
+
+Desktop konvertuje **65% bolje** od mobilnog, uprkos tome sto mobilni generise veci deo saobracaja. Razlozi: manji ekrani, teze popunjavanje formi, vise distraktora, losija optimizacija checkout-a.
+
+Za povezanost sa mobilnom kupovinom pogledajte [mobilna vs desktop kupovina statistiku](/blog/mobilna-vs-desktop-kupovina-konverzije-statistika-2026).
+
+## Konverzija po izvoru saobracaja (2025)
+
+Odakle posetioci dolaze dramaticno utice na to da li ce kupiti:
+
+- **Referral (preporuke):** 5.4%
+- **Email marketing:** 4.5% do 7.0%
+- **Organska pretraga (SEO):** 2.1% do 3.0%
+- **Placeni oglasi (PPC):** 1.0% do 2.5%
+- **Drustvene mreze:** 0.7%
+
+Email i referral saobracaj konvertuju 5 do 8 puta bolje od drustvenih mreza. Razlog: posetioci sa email-a i preporuka vec poznaju brend i imaju nameru kupovine.
+
+Za ROI email marketinga pogledajte [koliko zaradjuje email marketing](/blog/koliko-zapravo-zaradjuje-email-marketing-roi-po-industriji-2026). Za cene SEO-a pogledajte [SEO optimizacija cena](/seo-optimizacija-cena).
+
+## Landing stranice: konverzija po industriji (2025)
+
+Prema Unbounce Conversion Benchmark Report-u za Q4 2024/2025, medijalna konverzija landing stranica:
+
+- **Zabava i nagradne igre:** 12.3% (sweepstakes do 47.5%)
+- **Finansijske usluge:** 8.3% (osiguranje do 18.2%)
+- **Prosek svih industrija:** 6.6%
+- **SaaS:** 3.8%
+
+**WordStream benchmark za Google Ads konverzije (2025):**
+- Prosek svih industrija: **7.52%**
+- **Autoservis i delovi:** 14.67%
+- **Zivotinje i kucni ljubimci:** 13.07%
+- **Lekari i hirurzi:** 11.62%
+- **Namestaj:** 2.73%
+- **Finansije i osiguranje:** 2.55%
+
+Razlika izmedju najboljih i najlosijih industrija je skoro **6x**. Firma koja "konvertuje 3%" moze biti odlicna u finansijama, ali katastrofalna u autoservisu.
+
+Za optimizaciju landing stranica pogledajte [5 gresaka na landing stranicama](/blog/5-gresaka-landing-stranice-konverzije). Za cene digitalnog marketinga pogledajte [kompletni cenovnik](/cene-digitalnog-marketinga).
+
+## B2B konverzije: duzi ciklus, drugacije metrike (2025)
+
+B2B ima potpuno drugaciju dinamiku od B2C:
+
+**B2B konverzija po industriji (visitor-to-lead):**
+- **Pravne usluge:** 7.4%
+- **Profesionalne usluge:** 4% do 6%
+- **Zdravstvo:** 3% do 4%
+- **Finansije:** 3% do 4%
+- **HVAC i kucne usluge:** 3.1%
+- **Zaposlavanje i kadrovi:** 2.9%
+- **Nekretnine:** 2.7%
+- **B2B e-commerce:** 1.8%
+- **IT i telekomunikacije:** 1.5%
+
+**B2B prodajni levak (benchmark 2025):**
+1. Posetilac do leada: 0.8% do 2.5% (top performeri 3% do 5%)
+2. Lead do MQL: 20% do 40%
+3. MQL do SQL: 20% do 35%
+4. SQL do prilike: 30% do 50%
+5. Prilika do ugovora: 20% do 35%
+
+Za firme u Srbiji koje razmatraju marketing agenciju, ovi podaci pomazu da se postave realna ocekivanja. Pogledajte [kako izabrati marketing agenciju](/blog/kako-izabrati-pravu-marketing-agenciju).
+
+## SaaS: gde je 2% zapravo dobro (2025-2026)
+
+SaaS proizvodi imaju specifican funnel sa besplatnim probnim periodima:
+
+- **Visitor-to-lead (prosek):** 1.5% do 2.5%
+- **Visitor-to-lead (top 10%):** 8% do 15%
+- **MQL-to-SQL:** 32% do 40%
+- **SQL-to-close:** 20% do 25% (top performeri 30%+)
+
+**Po SaaS kategoriji:**
+- **HR Tech:** 3% do 6%
+- **CRM softver (visitor-to-trial):** 9.7%
+- **EdTech (visitor-to-trial):** 10.3%
+- **Cybersecurity:** 1% do 2%
+
+Za SaaS firme, konverzija od 2% iz organskog saobracaja je solidna. Problem nastaje kad se poredi sa EdTech-om koji ima 5x vece stope zahvaljujuci impulsivnijoj odluci o kupovini.
+
+## Sta ovo znaci za vas biznis?
+
+Tri prakticna zakljucka iz svih ovih podataka:
+
+**1. Ne merite se sa "globalnim prosekom."** Konverzija od 2% u e-commerce namestaju je odlicna. Ista cifra u hrani i picu je zabrinjavajuca.
+
+**2. Optimizujte mobilnu verziju.** Desktop konvertuje 65% bolje. Vecina firmi ima sajt "koji radi na telefonu", ali nije optimizovan za mobilnu kupovinu. Pojednostavite checkout, smanjite broj koraka, ubrzajte ucitavanje.
+
+**3. Ulagite u email i referral programe.** Umesto da jurite sve vise saobracaja sa drustvenih mreza (0.7% konverzija), ulagite u kanale koji vec konvertuju 5x do 10x bolje.
+
+Za kompletnu analizu koliko firme trose na marketing pogledajte [marketing budzet po industriji](/blog/koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026). Za CPA benchmark po industriji pogledajte [koliko kosta novi klijent](/blog/koliko-kosta-novi-klijent-cpa-po-industriji-google-facebook-2026).
+
+Ako zelite da proverite da li je stopa konverzije vaseg sajta u skladu sa benchmark-ovima za vasu industriju, javite se preko [kontakt forme](/kontakt).
+`,
+  },
+  {
     slug: 'cena-po-leadu-po-industriji-benchmark-statistika-2026',
     title: 'Koliko kosta jedan lead: cena po leadu (CPL) po industriji i kanalu u 2025-2026',
     excerpt: 'Benchmark podaci za cost per lead po industriji i marketing kanalu. Google Ads, Facebook, SEO, LinkedIn â€” koliko zaista kosta jedan kvalifikovan lead u Srbiji i svetu.',
