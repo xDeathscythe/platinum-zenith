@@ -2098,5 +2098,14 @@ export const blogIndexPosts = [
     "category": "Marketing",
     "readTime": "9 min",
     "isDraft": false
+  },
+  {
+    "slug": "bounce-rate-po-industriji-uredjaju-i-izvoru-saobracaja-benchmark-2026",
+    "title": "Bounce rate po industriji, uredjaju i izvoru saobracaja: benchmark podaci za 2025-2026",
+    "excerpt": "Koliki je prosecan bounce rate po industriji, mobilni vs desktop, organski vs social saobracaj? Citirane statistike i GA4 engagement rate benchmark za 2025-2026.",
+    "date": "2026-03-22",
+    "category": "CRO",
+    "readTime": "9 min",
+    "isDraft": false
   }
 ]
