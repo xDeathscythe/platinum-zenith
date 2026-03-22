@@ -25082,6 +25082,166 @@ Ako zelite da proverite u kom stanju je SEO vaseg smestajnog objekta ili vam tre
 `,
   },
 
+  {
+    slug: 'roas-po-industriji-i-platformi-benchmark-statistika-2026',
+    title: 'ROAS po industriji i platformi: benchmark za Google Ads, Meta Ads i e-commerce (2026)',
+    excerpt: 'Koliki je prosecan ROAS za Google Ads, Meta Ads, Amazon i TikTok? Benchmark po industriji (e-commerce, pravo, auto, zdravstvo, SaaS) sa citiranim izvorima za 2025-2026.',
+    date: '2026-03-22',
+    category: 'Google Ads',
+    readTime: '10 min',
+    tags: ['ROAS', 'return on ad spend', 'Google Ads', 'Facebook Ads', 'Meta Ads', 'benchmark', 'statistika', 'e-commerce', 'ROI'],
+    content: `
+## Koliko vam se svaki dinar ulozen u reklame zapravo vraca?
+
+ROAS (Return on Ad Spend) je najdirektnija metrika profitabilnosti oglasavanja. Ako ulozite 100 evra u Google Ads i zaradite 350 evra prihoda, vas ROAS je 3.5:1. Jednostavno — ali vecina firmi nema pojma da li im je ROAS dobar ili los za njihovu industriju.
+
+Prema podacima Triple Whale za 2025, **medijana ROAS za Google Ads iznosi 3.52:1**, dok je za Meta Ads **2.21:1**. Ali te cifre bez konteksta industrije i tipa kampanje ne znace mnogo. Pravne usluge na Google Ads-u imaju ROAS 4.21:1, dok video kampanje jedva dostizu 0.52:1.
+
+Za planiranje budzeta pogledajte [koliko firme trose na marketing](/blog/koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026). Za cenu po leadu po industriji pogledajte [CPL benchmark statistiku](/blog/cena-po-leadu-po-industriji-benchmark-statistika-2026).
+
+## Google Ads ROAS po tipu kampanje (2025)
+
+Nije svaka Google Ads kampanja ista. Podaci Triple Whale i WebFX za 2025 pokazuju dramaticne razlike po tipu kampanje:
+
+- **Search kampanje:** 5.17:1 — najvisI ROAS jer hvataju ljude sa aktivnom kupovnom namerom
+- **Shopping kampanje:** 2.88:1 — vizuelni produkti sa jasnom cenom
+- **Performance Max:** 2.57:1 — Google-ov automatizovani format koji koristi sve kanale
+- **Video kampanje (YouTube):** 0.52:1 — primarno za brand awareness, ne za direktnu prodaju
+- **Display kampanje:** 0.12:1 — najnizi povracaj, fokus na vidljivost
+
+Zakljucak: **Search kampanje donose 43x veci ROAS od Display-a**. Ako imate ogranicen budzet i trebaju vam prodaje — Search je jedini pravi izbor. Display i Video imaju smisla samo kada vec imate Search pokrivenu i zelite da sirite prepoznatljivost brenda.
+
+Ukupan medijani ROAS za Google Ads **pao je 10% u 2025** u odnosu na 2024, uprkos porastu CTR-a. Klikovi konvertuju losije, sto ukazuje na rastuci znacaj kvaliteta landing stranice. Za optimizaciju stranica pogledajte [landing page optimizacija](/blog/landing-page-optimizacija-konverzije-srbija-2026).
+
+## Google Ads ROAS po industriji (2025)
+
+Podaci WebFX, Focus Digital i LeverDigital za 2025 po industriji:
+
+**Industrije sa najvisim ROAS-om:**
+- **Pravne usluge:** 4.21:1 — visoke vrednosti predmeta i jaka konverzija kompenzuju skupi CPC (cesto $6-$10 po kliku)
+- **Auto industrija (prodaja/delovi):** 3.85:1 — pouzdana potraznja, cesto lokalna
+- **Zdravstvo i medicina:** 3.64:1 — urgentne pretrage poput "zubar hitno" ili "kardiolog pregled" konvertuju brzo
+
+**Industrije sa umerenim ROAS-om:**
+- **E-commerce (prosek svih kategorija):** 2.87:1 — pad od 4% u odnosu na 2024
+- **Finansije i osiguranje:** 2.50-3.00:1
+- **Obrazovanje:** 2.00-2.50:1
+
+**Industrije sa nizim ROAS-om:**
+- **B2B SaaS:** 1.55:1 — ali lifetime value klijenata cesto prelazi $10.000, pa se cak i nizak ROAS isplati
+- **Turizam i putovanja:** 1.50-2.00:1 — sezonalnost i duge odluke
+
+Za srpsko trziste, pogledajte [Google reklame cena](/google-reklame-cena) i [Google Ads za lokalne biznise](/blog/google-ads-za-lokalne-biznise-kako-spustiti-cenu-leada-srbija-2026).
+
+## Meta Ads (Facebook + Instagram) ROAS po industriji (2025)
+
+Meta Ads u 2025. pokazuju pozitivan trend — **12 od 15 pracenih industrija** ima poboljsanje ROAS-a u odnosu na 2024. Podaci Triple Whale i InBeat za 2025:
+
+**Ukupna medijana Meta Ads ROAS: 2.21:1** (2.19 po nekim izvorima)
+
+**Sales kampanje na Meta-i:** medijana ROAS od **4.87:1** — znacajno vise od Traffic (0.52) i Engagement (0.70) kampanja.
+
+**ROAS po industriji na Meta Ads-u (2025):**
+- **Auto delovi:** 6.76:1
+- **Nakit i aksesoari:** 4.00:1
+- **Beba i deca proizvodi:** 3.80:1
+- **Hrana i pice:** 3.40:1
+- **Elektronika:** 3.02:1
+- **Kucni ljubimci:** 2.50:1
+- **Kuca i basta:** 2.18:1 (rast 7% YoY)
+- **B2B SaaS:** 1.60:1
+- **Hrana i pice (maloprodaja):** 1.56:1 (rast 7.17% YoY)
+
+Kljucni nalaz: **retargeting kampanje na Meta Ads-u daju 71% visi ROAS od prospecting kampanja**. To znaci da bi firma koja trosi 100% budzeta na hladnu publiku trebalo da prebaci bar 25-30% na retargeting za dramaticno bolji ukupni povracaj.
+
+Za detaljne cene Meta Ads-a pogledajte [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama). Za remarketing strategiju pogledajte [Facebook remarketing vodic](/blog/facebook-ads-remarketing-strategija-srbija-2026).
+
+## E-commerce ROAS: detaljni pregled po nisi (2025)
+
+E-commerce firme su najzavisnije od ROAS-a kao metrike jer direktno mere prihod po svakom potrosenom dinaru. Podaci UpCounting i Rule1 AI za 2025:
+
+**Ukupan e-commerce ROAS (svi kanali): 2.87:1** — pad 4% u odnosu na godinu pre.
+
+**E-commerce ROAS po nisi:**
+- **Kuca i basta:** 6.70:1 (blended) — ubedljivo najvisI, verovatno zbog viseg AOV
+- **Moda i odeca:** 4.30:1
+- **Nakit:** 4.00:1
+- **Beba proizvodi:** 3.80:1
+- **Lepota i kozmetika:** 2.80-3.60:1 (social ROAS 3.50 u Q1 2025)
+- **Hrana i pice:** 3.40:1
+- **Elektronika:** 3.02:1
+- **Kucni ljubimci:** 2.50:1
+- **Zdravlje i suplementi:** 2.30:1
+
+Za e-commerce strategije pogledajte [web shop nema prodaju — zasto i sta uraditi](/web-shop-nema-prodaju) i [napustanje korpe statistika](/blog/napustanje-korpe-statistika-po-industriji-2026).
+
+## ROAS po platformi: ko pobeduje u 2025?
+
+Kada uporedimo ROAS po platformi, Google i dalje vodi, ali neke platforme iznenaduju:
+
+- **Amazon Ads:** 7.95:1 — daleko najvisI, jer korisnici na Amazonu vec imaju kupovnu nameru
+- **Google Ads (search):** 5.17:1
+- **Google Ads (ukupno):** 3.52:1
+- **Meta Ads (Sales kampanje):** 4.87:1
+- **Meta Ads (ukupno):** 2.21:1
+- **TikTok Ads:** 1.41:1 — najnizi medju velikim platformama
+
+**Affiliate marketing** u retail sektoru i dalje daje impresivan ROAS od **$11 za svaki ulozen $1** (prema AllInclusiveMarketing), mada je blago pao sa $12 u 2021.
+
+Za detaljan poredjenje Google i Facebook Ads-a pogledajte [Google Ads vs Facebook Ads](/blog/google-ads-vs-facebook-ads-koji-je-bolji).
+
+## Zasto ROAS pada i sta mozete uraditi
+
+Prosecni ROAS na Google Ads-u pao je **10% u 2025** u odnosu na 2024. Razlozi:
+
+**1. Rast CPC-a bez rasta konverzije**
+Troskovi po kliku rastu u **87% industrija** na Google Ads-u. Vise platite za isti klik, ali landing stranica i ponuda ostaju iste — rezultat je nizi ROAS.
+
+**2. AI Overviews jedu organski i plateni saobracaj**
+Google-ov AI Overview daje odgovore direktno u pretrazi, smanjujuci broj klikova. Prema Seer Interactive, **organski CTR za upite sa AI Overviews pada za 18-25%**. Platene reklame takodje gube impresije.
+
+**3. Privacy promene degradiraju targeting**
+iOS ATT, blokiranje third-party cookies i consent promene smanjuju preciznost targetiranja, sto znaci vise potrosenog budzeta na neodgovarajucu publiku.
+
+**Sta pomaze:**
+- Investirajte u **kvalitet landing stranica** — firme koje testiraju i optimizuju landing stranice imaju 20-50% visi ROAS od onih sa generickim stranama. Pogledajte [5 gresaka na landing stranicama](/blog/5-gresaka-landing-stranice-konverzije).
+- **Server-side tracking** umesto klijentskog — obnavlja 15-30% izgubljenih konverzija koje browser blokira
+- **Broad match + smart bidding:** Google-ov AI bidding sve bolje optimizuje za konverzije, ali zahteva minimum 30 konverzija mesecno za pouzdanu optimizaciju
+- **Kombinujte SEO i Ads:** SEO hvata informacione upite (ROAS = beskonacno jer je klik besplatan), Ads hvata hitne kupovne namere. Zajedno daju bolji ukupni marketing ROAS. Pogledajte [SEO optimizacija cena](/seo-optimizacija-cena).
+
+## ROAS vs ROI: koja metrika je zapravo bitnija?
+
+ROAS meri samo prihod u odnosu na trosak oglasavanja. Ali ne ukljucuje:
+- Trosak agencije/freelancera koji vodi kampanje
+- Trosak izrade kreativnih materijala (video, grafika)
+- Trosak platforme/alata (analytics, CRM, email)
+- Marzu proizvoda
+
+Primer: ROAS od 3:1 na Google Ads-u zvuci dobro. Ali ako je vasa marza 30%, zapravo zaradjujete $0.90 na svaki $1 ulozen u reklame. Kada dodate agencijsku proviziju (obicno 15-20% od budzeta), mozete biti u minusu.
+
+Zato je **ROI (Return on Investment)** preciznija metrika za donosenje poslovnih odluka, dok je ROAS korisna operativna metrika za optimizaciju kampanja.
+
+Za kompletan vodic o merenju marketing ROI-a pogledajte [kako meriti ROI digitalnog marketinga](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
+
+## Sta znace ovi benchmark podaci za vasu firmu?
+
+Koristite ovu tabelu kao kompas:
+
+- Ako prodajete pravne usluge i vas Google Ads ROAS je ispod 3:1 — kampanje treba optimizovati (benchmark: 4.21:1)
+- Ako imate e-commerce i Meta ROAS je iznad 3:1 — nadmasite prosek (benchmark: 2.21:1)
+- Ako ste B2B SaaS sa ROAS-om 1.5:1 ali LTV klijenta je $15.000 — to je odlican rezultat
+- Ako trgate TikTok Ads ROAS ispod 1:1 — preispitajte da li je platforma uopste pravi kanal za vas
+
+ROAS sam po sebi ne govori da li je marketing profitabilan. Moze samo da pokaze da li performanse idu u dobrom ili losom smeru. Za punu sliku, kombinujte ROAS sa CPA, LTV i ukupnim marketing ROI-om.
+
+Za konzultacije o optimizaciji vaseg ROAS-a ili kompletnu analizu kampanja, [kontaktirajte nas](/kontakt).
+
+---
+
+*Izvori: Triple Whale Google Ads Benchmarks 2025, Triple Whale Meta Ads Benchmarks 2025, WebFX Average ROAS by Industry 2025, Focus Digital Google Ads ROAS 2025, LeverDigital Google Ads Benchmarks 2025, UpCounting E-commerce ROAS 2025, Rule1 AI ROAS Benchmarks 2025, InBeat Facebook Ads ROAS 2025, AllInclusiveMarketing Affiliate ROAS Benchmarks 2025, Seer Interactive AI Overviews Impact Study.*
+`,
+  },
+
 ]
 
 const seenSlugs = new Set()

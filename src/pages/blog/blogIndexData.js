@@ -2071,5 +2071,14 @@ export const blogIndexPosts = [
     "category": "SEO",
     "readTime": 9,
     "isDraft": false
+  },
+  {
+    "slug": "roas-po-industriji-i-platformi-benchmark-statistika-2026",
+    "title": "ROAS po industriji i platformi: benchmark za Google Ads, Meta Ads i e-commerce (2026)",
+    "excerpt": "Koliki je prosecan ROAS za Google Ads, Meta Ads, Amazon i TikTok? Benchmark po industriji (e-commerce, pravo, auto, zdravstvo, SaaS) sa citiranim izvorima za 2025-2026.",
+    "date": "2026-03-22",
+    "category": "Google Ads",
+    "readTime": "10 min",
+    "isDraft": false
   }
 ]

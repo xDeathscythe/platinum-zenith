@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-22T06:29:12.170Z",
-  "postsChecked": 178,
+  "generatedAt": "2026-03-22T10:28:03.930Z",
+  "postsChecked": 179,
   "issueCount": 0,
   "checked": [
     {
@@ -890,6 +890,11 @@
     },
     {
       "route": "/blog/seo-za-hotele-i-smestaj-cena-srbija-2026",
+      "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/roas-po-industriji-i-platformi-benchmark-statistika-2026",
       "serviceHits": 4,
       "hasKontakt": true
     }
