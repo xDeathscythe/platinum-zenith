@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-03-22T10:28:03.930Z",
-  "postsChecked": 179,
+  "generatedAt": "2026-03-22T14:29:03.480Z",
+  "postsChecked": 181,
   "issueCount": 0,
   "checked": [
+    {
+      "route": "/blog/koliko-dugacak-treba-da-bude-blog-post-za-seo-statistika-2026",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
     {
       "route": "/blog/lokalni-seo-near-me-pretrage-statistika-konverzije-2026",
       "serviceHits": 4,
@@ -896,6 +901,11 @@
     {
       "route": "/blog/roas-po-industriji-i-platformi-benchmark-statistika-2026",
       "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/email-marketing-open-rate-ctr-benchmark-po-industriji-2026",
+      "serviceHits": 3,
       "hasKontakt": true
     }
   ],

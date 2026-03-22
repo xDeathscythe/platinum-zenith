@@ -2089,5 +2089,14 @@ export const blogIndexPosts = [
     "category": "Google Ads",
     "readTime": "10 min",
     "isDraft": false
+  },
+  {
+    "slug": "email-marketing-open-rate-ctr-benchmark-po-industriji-2026",
+    "title": "Email marketing open rate i CTR po industriji: benchmark podaci za 2025-2026",
+    "excerpt": "Koliki je prosecan open rate i CTR email kampanja po industriji? Benchmark statistika za e-commerce, B2B, SaaS, neprofitne organizacije i zdravstvo sa citiranim izvorima.",
+    "date": "2026-03-22",
+    "category": "Marketing",
+    "readTime": "9 min",
+    "isDraft": false
   }
 ]

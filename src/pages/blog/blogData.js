@@ -25339,6 +25339,156 @@ Za konzultacije o optimizaciji vaseg ROAS-a ili kompletnu analizu kampanja, [kon
 *Izvori: Triple Whale Google Ads Benchmarks 2025, Triple Whale Meta Ads Benchmarks 2025, WebFX Average ROAS by Industry 2025, Focus Digital Google Ads ROAS 2025, LeverDigital Google Ads Benchmarks 2025, UpCounting E-commerce ROAS 2025, Rule1 AI ROAS Benchmarks 2025, InBeat Facebook Ads ROAS 2025, AllInclusiveMarketing Affiliate ROAS Benchmarks 2025, Seer Interactive AI Overviews Impact Study.*
 `,
   },
+  {
+    slug: 'email-marketing-open-rate-ctr-benchmark-po-industriji-2026',
+    title: 'Email marketing open rate i CTR po industriji: benchmark podaci za 2025-2026',
+    excerpt: 'Koliki je prosecan open rate i CTR email kampanja po industriji? Benchmark statistika za e-commerce, B2B, SaaS, neprofitne organizacije i zdravstvo sa citiranim izvorima.',
+    date: '2026-03-22',
+    category: 'Marketing',
+    readTime: '9 min',
+    content: `
+## Koliki open rate i CTR zaista mozete ocekivati od email marketinga
+
+Vecina firmi salje emailove i nada se dobrim rezultatima. Ali bez benchmark podataka po industriji, nemaju pojma da li je njihov open rate od 25% odlican, prosecan ili zabrinjavajuc. Odgovor zavisi od toga u kojoj ste industriji, kome pisete i kakav tip email-a saljete.
+
+Za ROI email marketinga pogledajte [email marketing ROI statistika](/blog/koliko-zapravo-zaradjuje-email-marketing-roi-po-industriji-2026). Za automatizaciju email-ova pogledajte [email automatizacija za webshop](/blog/email-automatizacija-za-webshop-srbija-2026).
+
+## Prosecni open rate email kampanja (2025-2026)
+
+Prosecni open rate varira zavisno od izvora i metodologije, ali opseg za 2025 je bio:
+
+- **Ukupan prosek svih industrija:** 39.26% (ActiveCampaign, 2026) / 36-43% (MailerLite, 2025)
+- **Medijana po razlicitim platformama:** 21-25% (Brevo/HubSpot, 2025)
+
+Razlika izmedju platformi postoji zato sto neki provajderi (npr. Apple Mail Privacy Protection) automatski beleze "open" i tako infliraju cifre. ActiveCampaign i MailerLite imaju vise malih biznisa sa angazovanim listama, dok HubSpot i Brevo obuhvataju i hladnije B2B liste.
+
+**Kljucna cifra:** Ako vam je open rate iznad 35%, performanse su nadprosecne u vecini industrija. Ispod 20% je signal za ciscenje liste ili reviziju subject line strategije.
+
+## Open rate po industriji (2025-2026 benchmark)
+
+Podaci iz MailerLite, ActiveCampaign i Brevo izvestaja:
+
+**Top industrije po open rate-u:**
+- **Neprofitne organizacije:** 42-52% — najvisi open rate od svih vertikala. Donatori otvaraju emailove jer imaju emocionalnu vezu sa misijom.
+- **Zdravstvo i fitnes:** 41-49% — pacijenti i clanovi otvaraju jer se tice njihovog zdravlja. Podsetnici za termine imaju open rate i do 65%.
+- **Edukacija (fakulteti, kursevi):** 43-44% — studenti i polaznici otvaraju jer propustanje informacije znaci propustanje roka.
+- **Hobiji i licni interesi:** 53% — hobi zajednice otvaraju jer ZELE sadrzaj (nisu ga dobili jer su negde kupovali).
+- **Turizam i ugostiteljstvo:** 40-45% — sezonske ponude i inspiration emails rade odlicno.
+
+**Srednja kategorija:**
+- **B2B usluge i konsalting:** 39-40% — profesionalni kontekst, ljudi skeniraju za vrednost.
+- **Marketing i agencije:** 39% — marketari otvaraju vise jer znaju da se unutra krije konkurentska praksa.
+- **Softver i SaaS:** 38-39% — product update emailovi imaju visi open rate od promotivnih.
+- **Izdavastvo i mediji:** 34-43% — newsletteri sa kvalitetnim sadrzajem imaju lojalne citaoce.
+
+**Nize od proseka:**
+- **E-commerce i retail:** 18-33% — najveci volumen emailova, korisnici su "naviknuti" i selektivno otvaraju samo kad je popust.
+- **Finansije i osiguranje:** 25-32% — regulatorna obavestenja otvaraju svi, ali promotivni padaju.
+
+Za cene email marketing usluga pogledajte [email marketing cena](/blog/email-marketing-cena-srbija-2026). Za rast email liste pogledajte [email lista za male firme](/blog/email-lista-za-male-firme-srbija-2026).
+
+## Click-through rate (CTR) po industriji
+
+CTR je strozviji pokazatelj od open rate-a jer zahteva stvarnu akciju. Proseci za 2025-2026:
+
+- **Ukupan prosek:** 1.34-2.62% (vecina studija)
+- **ActiveCampaign prosek (2026):** 6.21% — ali meri klik od otvorenih, ne od poslatih
+
+**Najvisi CTR:**
+- **Neprofitne organizacije:** 2.7-2.9% — jasni CTA-ovi (doniraj, potpisi peticiju) koji ne zahtevaju kupovinu.
+- **Blogeri i autori:** 2.75% — citaoci kliknu na novi clanak jer se isplati procitati.
+- **Konsalting:** 2.41% — B2B korisnici kliknu jer traze konkretna resenja za svoj problem.
+- **Turizam:** 2.43% — slike destinacija + last-minute ponude pokrecu klik.
+
+**Prosecan CTR:**
+- **B2B usluge:** 2.21% — link ka studiji slucaja ili webinaru.
+- **Zdravstvo:** 1.45% — pacijenti kliknu samo kad je relevantno za njihov konkretan problem.
+- **Softver:** 1.15% — korisnici kliknu na release notes ili feature announcemente.
+
+**Najnizi CTR:**
+- **E-commerce:** 0.8-1.07% — paradoks visokog volumena. Saljete 5 email-ova nedeljno, CTR pada sa svakim sledecim.
+
+Za optimizaciju konverzija na sajtu pogledajte [stopu konverzije po industriji](/blog/prosecna-stopa-konverzije-po-industriji-benchmark-statistika-2026). Za cene Google reklama pogledajte [Google reklame cena](/google-reklame-cena).
+
+## Bounce rate i unsubscribe rate: zdravlje email liste
+
+Dva metrika koja ukazuju na kvalitet liste:
+
+**Bounce rate benchmark (2025):**
+- **Prosecan bounce rate svih industrija:** 0.5-1.0%
+- **E-commerce:** 0.19-0.62% — ciscene, aktivne liste
+- **Lepota i nega:** 0.26-0.42%
+- **Konsalting i agencije:** 0.79-0.93% — visa stopa jer se poslovni emailovi cesce menjaju
+- **Gradjevinarstvo:** 1.04-1.28% — najvise bounceova jer zaposleni cesce menjaju firme
+
+**Crvena linija:** Bounce rate iznad 2% znaci da imate problem sa listom. Vecina ESP-ova (Mailchimp, ActiveCampaign) ce suspendovati nalog ako bounce rate predje 5%.
+
+**Unsubscribe rate benchmark (2025):**
+- **Prosecan za sve industrije:** 0.14-0.25%
+- **Edukacija:** 0.02% — najmanje odjava jer je sadrzaj direktno koristan
+- **Marketing i agencije:** 0.01% — profesionalci znaju da ce im trebati te informacije
+- **Foto i video:** 0.40% — kreativci cesce "cististe" inbox
+- **Restorani i kafici:** 0.39% — korisnici se prijave za popust i odjave posle koriscenja
+
+**Pravilo:** Unsubscribe rate ispod 0.2% je zdrav. Iznad 0.5% znaci da saljete presto ili nebitno.
+
+## Email marketing ROI: zasto je kanal i dalje broj 1
+
+Pored svih metrika, ROI je ono sto na kraju odredjuje da li email marketing opravdava investiciju:
+
+- **Prosecan ROI:** 36-42 USD za svaki 1 USD ulozen (DMA/Litmus, 2025)
+- **E-commerce i retail:** do 45 USD po ulozenom dolaru
+- **Personalizovani emailovi:** 6x vise transakcija i do 122% bolji ROI
+- **Automatizovane kampanje:** 320% vise prihoda od manuelnih
+- **Segmentirane kampanje:** 760% vise prihoda od nesegmentiranih
+
+**Poredjenje sa drugim kanalima:**
+- Email: 36-42 USD po ulozenom dolaru
+- SEO: 22 USD po ulozenom dolaru
+- Google Ads: 2-8 USD po ulozenom dolaru (zavisno od industrije)
+- Social media: 2.80 USD po ulozenom dolaru
+
+Za kompletnu analizu marketing troskova pogledajte [koliko firme trose na marketing](/blog/koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026). Za CPA benchmark pogledajte [koliko kosta novi klijent](/blog/koliko-kosta-novi-klijent-cpa-po-industriji-google-facebook-2026).
+
+## Sta zapravo poboljsava open rate i CTR
+
+Iz istrazivanja za 2025-2026, ovo su konkretni faktori:
+
+**Za visi open rate:**
+- **Personalizacija subject line-a:** +26% open rate kad je ime primaoca ili firma u naslovu
+- **Send time optimizacija:** Utorak i cetvrtak, 10:00-11:00 lokalno vreme donose 15-20% vise otvaranja
+- **Preheader tekst:** Email sa custom preheader-om ima 7% visi open rate od onog sa default tekstom
+- **Mobile optimizacija:** 61% emailova se otvara na mobilnom — neresponzivan email se brise za 3 sekunde
+
+**Za visi CTR:**
+- **Jedan jasan CTA:** Emailovi sa jednim CTA dugmetom imaju 371% vise klikova od onih sa vise linkova
+- **Interaktivni elementi:** AMP emailovi i ankete povisuju CTR za 73%
+- **Segmentacija:** Ciljani emailovi imaju 100.95% visi CTR od blast emailova
+- **A/B testiranje:** Firme koje redovno testiraju imaju 83% bolji ukupan email ROI
+
+Za landing stranicu na koju salju email klikovi pogledajte [5 gresaka na landing stranicama](/blog/5-gresaka-landing-stranice-konverzije). Za cene digitalnog marketinga pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Kako interpretirati benchmark za svoju firmu
+
+Benchmark je startna tacka, ne konacna presuda. Evo kako ga koristiti:
+
+**1. Uporedite sa svojom industrijom, ne sa ukupnim prosekom.** E-commerce firma sa open rate-om od 25% je iznad industrijskog proseka (18-25%), iako je ispod ukupnog proseka (39%).
+
+**2. Pratite trendove, ne apsolutne brojeve.** Ako vam je open rate pao sa 30% na 22% za 3 meseca, to je problem bez obzira na benchmark.
+
+**3. Razlikujte tipove emailova.** Transakcioni emailovi (potvrde narudzbi, resetovanje lozinke) imaju open rate 80-90%. Marketinski newsletter 20-40%. Uporedjivati ih nema smisla.
+
+**4. Cistite listu redovno.** Email adrasa koja se nije otvorila 6+ meseci rusci vam prosek i deliverability. Izbacite je ili pokrenite re-engagement kampanju.
+
+**5. Gledajte prihod po email-u, ne samo CTR.** CTR od 1% koji generise 50 EUR po poslatom emailu je bolji od CTR-a od 3% koji generise 5 EUR.
+
+Za pomoc oko email marketing strategije, automatizacije ili optimizacije kampanja, [kontaktirajte nas](/kontakt).
+
+---
+
+*Izvori: ActiveCampaign Email Marketing Benchmarks 2026, MailerLite Industry Benchmarks 2025, Brevo Email Marketing Benchmarks 2025, HubSpot Average Email Open Rate Benchmark 2025, DMA/Litmus Email Marketing ROI Report 2025, Omnisend E-commerce Email Benchmarks 2025.*
+`,
+  },
 
 ]
 
