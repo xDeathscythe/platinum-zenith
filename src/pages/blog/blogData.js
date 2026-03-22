@@ -1,5 +1,109 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'featured-snippet-i-ai-overview-uticaj-na-klikove-statistika-2026',
+    title: 'Featured Snippet i AI Overview: koliko klikova zaista dobijate sa pozicije 0',
+    excerpt: 'Statistike o Featured Snippet CTR-u i uticaju Google AI Overview-a na organski saobracaj. Koliko klikova gubite i kako se prilagoditi u 2026.',
+    date: '2026-03-22',
+    category: 'SEO',
+    readTime: '7 min',
+    content: `
+## Pozicija 0 nije ono sto je nekad bila
+
+Featured Snippet ("pozicija nula") nekada je bio sveti gral SEO-a. Vas sadrzaj se pojavljuje na vrhu Google-a, iznad svih rezultata, sa istaknutim odgovorom. Ali u 2025-2026, situacija se komplikuje: Google AI Overview se pojavljuje IZNAD Featured Snippet-a i "krade" klikove od svih.
+
+Evo sta podaci pokazuju o trenutnom stanju.
+
+Za siroku SEO strategiju pogledajte [SEO optimizacija cena](/seo-optimizacija-cena). Za CTR po poziciji pogledajte [Google organski CTR vodic](/blog/koliko-klikova-dobija-prvi-rezultat-na-google-ctr-po-poziciji-2026).
+
+## Featured Snippet CTR: i dalje jak ali ne kao pre
+
+### Koliko klikova donosi Featured Snippet
+
+- **Prosecni CTR Featured Snippet-a (2025):** 35-42.9%
+- **CTR prvog organskog rezultata (bez Snippet-a):** 39.8%
+- **Featured Snippet nadmasuje poziciju 1** — 42.9% vs 39.8% (Moz 2025)
+- Owning featured snippet moze povecati saobracaj za do **850%** za specifican upit (Ahrefs)
+
+### Ali kad Featured Snippet postoji, ostali rezultati gube
+
+- Pozicija 1 gubi u proseku **5.3% CTR-a** kad je Snippet prisutan
+- Pozicije 2-10 gube jos drasticnije jer Snippet "krade" paznju
+- **Paradoks:** Snippet-om DOBIJATE klikove ako ste VI u Snippet-u, ali GUBITE ako niste
+
+## AI Overview: nova pretnja za organski saobracaj
+
+Google AI Overview (AIO) je AI-generisan odgovor koji se pojavljuje na vrhu SERP-a, cesto IZNAD Featured Snippet-a. Lansiran 2024, rapidno se siri.
+
+### Koliko cesto se AI Overview pojavljuje
+
+- **Septembar 2024:** Pojavljuje se za 12% Google pretraga (skok sa 5% u julu 2024)
+- **Mart 2025:** 13.1% upita na US desktapu (skoro duplo od januara 2025)
+- **Trend:** Stalan rast — ocekuje se 20-25% do kraja 2026
+
+### Koliko klikova gubi organski saobracaj kad se pojavi AIO
+
+- **Prosecni pad CTR-a kad AIO postoji:** -15.49% za organske rezultate
+- **Kad su prisutni AIO + Featured Snippet zajedno:** pad CTR-a od **-37.04%** (duplo gori)
+- **Zero-click pretrage sa AIO-m:** prosecno **83%** pretraga zavrsi bez klika (vs 65% bez AIO-a)
+
+To znaci: kad Google prikaze AI Overview, **samo 17% korisnika** klikne na bilo koji sajt. Ostali dobiju odgovor direktno iz AI-ja.
+
+## Zero-click trend: 65% pretraga nema klik
+
+Siri kontekst za razumevanje situacije:
+
+- **2025:** 65%+ svih Google pretraga zavrsi BEZ klika na sajt
+- **2024:** 58-60% (rast od 5-7% za godinu dana)
+- **Mobilne pretrage:** Jos visi procenat zero-click (70%+)
+- **Voice search:** Gotovo 100% zero-click (asistent daje odgovor glasom)
+
+Za siri kontekst pogledajte [organski CTR statistiku](/blog/koliko-klikova-dobija-prvi-rezultat-na-google-ctr-po-poziciji-2026).
+
+## Kako se prilagoditi: strategija za 2026
+
+### 1) Budite IZVOR za AI Overview
+
+Google AIO citira izvore. Ako vas sajt ima:
+- Strukturisane podatke (tabele, liste, step-by-step)
+- Jasan, koncizan odgovor na pitanje u prvih 2-3 recenice
+- Jak E-E-A-T (ekspertiza, autoritet, poverenje)
+
+Postoji veca sansa da AIO CITIRA vas sajt, sto donosi vidljivost cak i bez direktnog klika.
+
+### 2) Ciljajte komercijalne upite (ne informativne)
+
+Informativni upiti ("sta je SEO") dominantno dobijaju AIO/zero-click. Komercijalni upiti ("SEO agencija cena Beograd") i dalje generisu klikove jer Google zna da korisnik zeli da KUPI, ne samo da sazna. Za Google Ads na komercijalnim upitima pogledajte [Google reklame cena](/google-reklame-cena).
+
+### 3) Optimizujte za Featured Snippet format
+
+I dalje vredi ciljati Featured Snippet jer donosi 35-43% CTR. Optimizacija:
+- **Paragraph Snippet:** Dajte direktan odgovor u 2-3 recenice na pocetak sekcije
+- **List Snippet:** Koristite numerirane/bullet liste (H2 + lista ispod)
+- **Table Snippet:** Koristite HTML tabele sa jasnim header-ima
+- Odgovorite na pitanje koje pocinje sa "Kako", "Sta je", "Zasto", "Koliko"
+
+### 4) Investirajte u brend
+
+Kad neko trazi vas BREND po imenu, AIO se ne pojavljuje. Izgradnja prepoznatljivog brenda je jedina 100% zastita od zero-click pretrazivanja. Svaki blog post, svaki social media post, svaki podcast — gradi vas brend. Za strategiju pogledajte [content marketing plan](/blog/content-marketing-plan-za-male-firme-srbija-2026).
+
+### 5) Diversifikujte izvore saobracaja
+
+Ne oslanjajte se iskljucivo na Google organski saobracaj. Email lista, drustvene mreze, YouTube, LinkedIn, referral partneri — svaki kanal koji ne zavisi od Google algoritma je osiguranje. Za email pogledajte [email marketing ROI vodic](/blog/koliko-zapravo-zaradjuje-email-marketing-roi-po-industriji-2026).
+
+## Kljucni zakljucci
+
+- Featured Snippet i dalje donosi 35-43% CTR — vredi ciljati
+- AI Overview smanjuje CTR za -15% (sa Snippetom -37%)
+- 65% pretraga je zero-click (83% kad AIO postoji)
+- Komercijalni upiti i brendirane pretrage su bezbedniji od informativnih
+- Budite izvor za AI citiranje, ne samo za klikove
+
+Za SEO strategiju prilagodjenu AI eri, javite se preko [kontakt forme](/kontakt).
+
+*Izvori: Moz Featured Snippet Study (2025), Ahrefs CTR Research (2024), Amsive AI Overview Impact Study (2025), SparkToro/Datos Zero-Click Research (2024-2025), Inner Spark Creative SEO Statistics (2025).*
+`
+  },
+  {
     slug: 'koliko-dugacak-treba-da-bude-blog-post-za-seo-statistika-2026',
     title: 'Koliko dugacak treba da bude blog post za SEO: sta podaci zaista pokazuju',
     excerpt: 'Da li duzi blog postovi rangiraju bolje na Google-u? Statistike o duzini sadrzaja, prosecnom broju reci na prvoj stranici i kada kratko pobedjuje.',

@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "featured-snippet-i-ai-overview-uticaj-na-klikove-statistika-2026",
+    "title": "Featured Snippet i AI Overview: koliko klikova zaista dobijate sa pozicije 0",
+    "excerpt": "Statistike o Featured Snippet CTR-u i uticaju Google AI Overview-a na organski saobracaj. Koliko klikova gubite i kako se prilagoditi u 2026.",
+    "date": "2026-03-22",
+    "category": "SEO",
+    "readTime": "7 min",
+    "isDraft": false
+  },
+  {
     "slug": "koliko-dugacak-treba-da-bude-blog-post-za-seo-statistika-2026",
     "title": "Koliko dugacak treba da bude blog post za SEO: sta podaci zaista pokazuju",
     "excerpt": "Da li duzi blog postovi rangiraju bolje na Google-u? Statistike o duzini sadrzaja, prosecnom broju reci na prvoj stranici i kada kratko pobedjuje.",
