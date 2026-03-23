@@ -1,11 +1,8 @@
 {
-  "generatedAt": "2026-03-23T18:33:49.412Z",
-  "checks": 244,
-  "publicBlogRoutes": 242,
+  "generatedAt": "2026-03-23T22:29:57.150Z",
+  "checks": 245,
+  "publicBlogRoutes": 243,
   "draftRoutes": 1,
-  "issueCount": 2,
-  "issues": [
-    "/blog/google-ads-cpc-ctr-konverzija-po-industriji-benchmark-2026: public blog missing article:* meta values",
-    "/blog/google-ads-cpc-ctr-konverzija-po-industriji-benchmark-2026: public blog should be indexable (got robots=\"noindex, nofollow\")"
-  ]
+  "issueCount": 0,
+  "issues": []
 }

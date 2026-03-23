@@ -1,11 +1,8 @@
 {
-  "generatedAt": "2026-03-23T18:33:46.395Z",
-  "publicBlogPosts": 242,
-  "sitemapUrls": 308,
-  "rssItems": 241,
-  "issueCount": 2,
-  "issues": [
-    "rss.xml item count mismatch (rss=241, publicPosts=242)",
-    "rss.xml missing blog URL: https://platinumzenith.com/blog/google-ads-cpc-ctr-konverzija-po-industriji-benchmark-2026"
-  ]
+  "generatedAt": "2026-03-23T22:29:54.977Z",
+  "publicBlogPosts": 243,
+  "sitemapUrls": 309,
+  "rssItems": 243,
+  "issueCount": 0,
+  "issues": []
 }

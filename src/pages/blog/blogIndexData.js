@@ -2179,5 +2179,23 @@ export const blogIndexPosts = [
     "category": "CRO",
     "readTime": "11 min",
     "isDraft": false
+  },
+  {
+    "slug": "google-ads-cpc-ctr-konverzija-po-industriji-benchmark-2026",
+    "title": "Google Ads CPC, CTR i konverzija po industriji: benchmark podaci za 2025-2026",
+    "excerpt": "Koliko kosta klik na Google Ads, kakav je CTR i koja je prosecna konverzija po industriji? Citirani benchmark podaci iz WordStream i LocalIQ istrazivanja za 2025-2026.",
+    "date": "2026-03-23",
+    "category": "Marketing",
+    "readTime": "9 min",
+    "isDraft": false
+  },
+  {
+    "slug": "facebook-ads-cpc-ctr-konverzija-cpl-po-industriji-benchmark-2026",
+    "title": "Facebook Ads CPC, CTR, konverzija i CPL po industriji: benchmark podaci za 2025-2026",
+    "excerpt": "Koliko kosta klik na Facebook, kakav je CTR, konverzija i cena po leadu za razlicite industrije? Citirani benchmark podaci iz WordStream/LocalIQ istrazivanja za 2025.",
+    "date": "2026-03-23",
+    "category": "Marketing",
+    "readTime": "10 min",
+    "isDraft": false
   }
 ]

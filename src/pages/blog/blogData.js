@@ -27107,6 +27107,200 @@ Za pomoc oko optimizacije vasih Google Ads kampanja i smanjenja cene leada, [kon
 `,
   },
 
+  {
+    slug: 'facebook-ads-cpc-ctr-konverzija-cpl-po-industriji-benchmark-2026',
+    title: 'Facebook Ads CPC, CTR, konverzija i CPL po industriji: benchmark podaci za 2025-2026',
+    excerpt: 'Koliko kosta klik na Facebook, kakav je CTR, konverzija i cena po leadu za razlicite industrije? Citirani benchmark podaci iz WordStream/LocalIQ istrazivanja za 2025.',
+    date: '2026-03-23',
+    category: 'Marketing',
+    readTime: '10 min',
+    content: `
+## Prosecni klik na Facebook reklame kosta $0.70 (traffic) i $1.92 (leadovi) — ali razlike po industriji su ogromne
+
+Prema WordStream/LocalIQ Facebook Ads Benchmark istrazivanju za 2025 (analiza preko 1.000 kampanja), Facebook (Meta) reklame ostaju znacajno jeftinije od Google Ads po kliku. Prosecni CPC za traffic kampanje iznosi **$0.70** (pad od 6.67% u odnosu na prethodnu godinu), dok lead kampanje imaju prosecni CPC od **$1.92** (blagi rast od 2.13% YoY).
+
+Za poredjenje sa Google Ads gde je prosecni CPC **$5.26**, pogledajte [Google Ads CPC, CTR i konverzija po industriji](/blog/google-ads-cpc-ctr-konverzija-po-industriji-benchmark-2026). Za siru sliku o troskovima akvizicije pogledajte [CPA benchmark po industriji](/blog/koliko-kosta-novi-klijent-cpa-po-industriji-google-facebook-2026).
+
+## CPC po industriji: Traffic kampanje (optimizovane za klikove)
+
+### Industrije sa najnizim CPC-om (Traffic, 2025)
+
+| Industrija | Prosecni CPC |
+|-----------|-------------|
+| Kupovina i pokloni | $0.34 |
+| Sport i rekreacija | $0.41 |
+| Umetnost i zabava | $0.49 |
+| Putovanja | $0.51 |
+| Restorani i hrana | $0.72 |
+| Lepota i nega | $0.74 |
+| Poslovne usluge | $0.75 |
+
+### Industrije sa najvisim CPC-om (Traffic, 2025)
+
+| Industrija | Prosecni CPC |
+|-----------|-------------|
+| Finansije i osiguranje | $1.22 |
+| Licne usluge | $1.00 |
+| Dom i renoviranje | $0.99 |
+| Nekretnine | $0.91 |
+| Obrazovanje i obuka | $0.86 |
+| Advokati i pravne usluge | $0.86 |
+| Industrija i komercijala | $0.86 |
+
+Kupovina i pokloni ($0.34) i Sport i rekreacija ($0.41) imaju najjeftinije klikove jer su to "anytime" kategorije — ljudi ne moraju biti aktivno u trzisnom modu da kliknu na takav oglas. Finansije i osiguranje ($1.22) su najskuplje jer je visoka konkurencija za ogranicenije trziste.
+
+YoY trendovi: Kupovina i pokloni je imala pad CPC-a od **46%**, dok su Restorani i hrana porasli **44%** u CPC-u.
+
+## CPC po industriji: Lead kampanje (optimizovane za konverzije)
+
+| Industrija | Prosecni CPC (Leads) |
+|-----------|---------------------|
+| Restorani i hrana | $0.74 |
+| Karijera i zaposljavanje | $0.86 |
+| Sport i rekreacija | $1.07 |
+| Umetnost i zabava | $1.08 |
+| Nekretnine | $1.57 |
+| Obrazovanje i obuka | $1.65 |
+| Industrija i komercijala | $1.80 |
+| Licne usluge | $2.08 |
+| Namestaj | $2.18 |
+| Dom i renoviranje | $2.23 |
+| Lekari i hirurzi | $2.23 |
+| Zdravlje i fitnes | $2.64 |
+| Lepota i nega | $3.06 |
+| Advokati i pravne usluge | $4.10 |
+| Stomatolozi | $9.78 |
+
+Stomatolozi placaju enormnih **$9.78 po kliku** na lead kampanjama — skoro 5x proseka. Advokati su drugi sa $4.10. Na drugom kraju, Restorani ($0.74) i Zaposljavanje ($0.86) imaju najjeftinije klikove za lead generisanje.
+
+Za detaljnu analizu Facebook vs Google cena pogledajte [Google Ads vs Facebook Ads — koji je bolji](/blog/google-ads-vs-facebook-ads-koji-je-bolji). Ako razmatrate Facebook oglasavanje, pogledajte nase usluge za [Facebook reklame](/koliko-kosta-facebook-reklama).
+
+## CTR po industriji: ko dobija klikove na Facebooku
+
+### Traffic kampanje — prosecni CTR: 1.71%
+
+| Industrija | Prosecni CTR |
+|-----------|-------------|
+| Kupovina i pokloni | 4.13% |
+| Putovanja | 2.76% |
+| Sport i rekreacija | 2.60% |
+| Umetnost i zabava | 2.10% |
+| Lepota i nega | 1.81% |
+| Advokati i pravne usluge | 1.76% |
+| Licne usluge | 1.70% |
+| Nekretnine | 1.68% |
+| Restorani i hrana | 1.67% |
+| Zivotinje i ljubimci | 1.64% |
+| Zdravlje i fitnes | 1.63% |
+| Automobili - prodaja | 1.48% |
+| Obrazovanje i obuka | 1.45% |
+| Namestaj | 1.39% |
+| Poslovne usluge | 1.38% |
+| Industrija i komercijala | 1.36% |
+| Odeca/moda i nakit | 1.29% |
+| Dom i renoviranje | 1.28% |
+| Finansije i osiguranje | 0.98% |
+| Lekari i hirurzi | 0.83% |
+| Auto servisi i delovi | 0.80% |
+
+Kupovina i pokloni (4.13%) ima CTR **2.4x veci od proseka** — vizuelno privlacni proizvodi na Facebooku jednostavno privlace klikove. Auto servisi (0.80%) i Lekari (0.83%) imaju najnize CTR-ove jer je tesko napraviti "klikabilan" oglas za usluge gde korisnik mora biti aktivno u problemu.
+
+YoY: Kupovina i pokloni je porasla **146%** u CTR-u, a Sport i rekreacija **102%**. Nekretnine su pale **36%**, a Auto servisi **27%**.
+
+### Lead kampanje — prosecni CTR: 2.59%
+
+| Industrija | Prosecni CTR (Leads) |
+|-----------|---------------------|
+| Umetnost i zabava | 3.92% |
+| Nekretnine | 3.75% |
+| Sport i rekreacija | 3.41% |
+| Lekari i hirurzi | 3.02% |
+| Restorani i hrana | 2.97% |
+| Karijera i zaposljavanje | 2.81% |
+| Lepota i nega | 2.55% |
+| Advokati i pravne usluge | 2.11% |
+| Industrija i komercijala | 2.08% |
+| Licne usluge | 1.99% |
+| Dom i renoviranje | 1.94% |
+| Obrazovanje i obuka | 1.86% |
+| Zdravlje i fitnes | 1.72% |
+| Namestaj | 1.48% |
+| Stomatolozi | 1.05% |
+
+Lead kampanje imaju prosecno **visi CTR** (2.59%) od traffic kampanja (1.71%). Meta algoritam za leads cilj bolje targetira korisnike sa visokom namerom. Umetnost i zabava vodi sa 3.92%, dok Stomatolozi (1.05%) imaju najnizi CTR.
+
+## Konverzija po industriji: ko pretvara klikove u leadove
+
+Prosecna konverzija na Facebook lead kampanjama: **7.72%** (pad sa 8.67% prosle godine).
+
+| Industrija | Prosecna konverzija | CPL |
+|-----------|--------------------|----|
+| Restorani i hrana | 18.25% | $3.16 |
+| Advokati i pravne usluge | 10.53% | $18.17 |
+| Obrazovanje i obuka | 10.08% | $28.22 |
+| Nekretnine | 9.53% | $16.61 |
+| Umetnost i zabava | 9.34% | $18.17 |
+| Industrija i komercijala | 9.34% | $37.34 |
+| Stomatolozi | 6.38% | $76.71 |
+| Licne usluge | 6.51% | $30.57 |
+| Karijera i zaposljavanje | 5.77% | $17.64 |
+| Zdravlje i fitnes | 5.63% | $52.98 |
+| Sport i rekreacija | 5.48% | $19.30 |
+| Lepota i nega | 5.29% | $51.42 |
+| Dom i renoviranje | 5.22% | $41.26 |
+| Lekari i hirurzi | 4.51% | $47.47 |
+| Namestaj | 3.77% | $40.04 |
+
+Restorani i hrana dominiraju sa konverzijom od **18.25%** i neverovatnim CPL-om od samo **$3.16** — najjeftiniji leadovi na celoj Meta platformi. Razlog: nizak prag za akciju (rezervacija, porudzbina) i jaka lokalna namera.
+
+Advokati imaju visoku konverziju (10.53%) uprkos skupom kliku ($4.10), jer Lead Ads format eliminise trenje — korisnik ne napusta Facebook. Njihov CPL od $18.17 je znacajno nizi od Google Ads ekvivalenta ($131.63).
+
+**Najskuplji leadovi:** Stomatolozi ($76.71 CPL), Zdravlje i fitnes ($52.98), Lepota i nega ($51.42). Kombinacija niskog CTR-a, visokog CPC-a i umerene konverzije cini ove nise zahtevnijim.
+
+## Facebook vs Google Ads: poredjenje kljucnih metrika
+
+| Metrika | Facebook Ads | Google Ads |
+|---------|-------------|------------|
+| Prosecni CPC (traffic/search) | $0.70 | $5.26 |
+| Prosecni CPC (leads) | $1.92 | $5.26 |
+| Prosecni CTR | 1.71% (traffic) / 2.59% (leads) | 6.66% (search) |
+| Prosecna konverzija | 7.72% | 7.52% |
+| Prosecni CPL | $27.66 | $70.11 |
+
+Facebook je **3-7x jeftiniji po kliku**, ali Google ima **2.5-4x visi CTR** jer targetira aktivnu pretragu. Konverzije su slicne (7-8%), ali CPL je na Facebooku **2.5x nizi** od Google-a. Idealna strategija kombinuje oba kanala.
+
+Za detaljniji pregled ROAS-a po platformi pogledajte [ROAS benchmark po industriji](/blog/roas-po-industriji-i-platformi-benchmark-statistika-2026). Za retargeting strategije pogledajte [Retargeting/remarketing benchmark statistika](/blog/retargeting-remarketing-statistika-ctr-roas-konverzija-2026).
+
+## Kljucni trendovi za 2025-2026
+
+**Traffic kampanje poboljsane:** CTR porastao 8.23% YoY na 1.71%, CPC pao 6.67% na $0.70 — vise klikova za manje para.
+
+**Lead kampanje poskupele:** CPL porastao **20.94%** na $27.66. Glavni razlozi: veca konkurencija, privacy ogranicenja, inflacija. Ali i dalje 2.5x jeftinije od Google Ads lead generisanja.
+
+**Konverzija u padu:** 80% industrija je imalo nizu konverziju nego prosle godine. Ekonomska nesigurnost (manje kupovine zabave, renoviranja, lepote) igra ulogu.
+
+**Video dominira:** Reels i Stories formati imaju visi engagement. Meta Advantage+ Shopping kampanje i AI optimizacija poboljsavaju efikasnost.
+
+**Privacy i tracking:** Conversions API (CAPI) postaje neophodan jer iOS i browser privacy unapredjenja ogranicavaju Pixel tracking.
+
+## Sta ovo znaci za vas biznis
+
+**Ako imate niski CPC sektor** (restorani, sport, zabava): Facebook traffic kampanje su izuzetno isplative sa CPC ispod $0.50 — investirajte u kreativu i remarketing.
+
+**Ako ste u skupom sektoru** (stomatologija, advokati, lepota): fokusirajte se na Lead Ads format koji smanjuje CPL drasticno u poredjenju sa Google Ads. Stomatolozi placaju $76.71 CPL na Facebooku vs $131.63+ na Google-u.
+
+**Za e-commerce:** kombinujte traffic kampanje (jeftin CPC od $0.34-$0.86) sa retargetingom za maksimalnu konverziju. Pogledajte [napustanje korpe statistika](/blog/napustanje-korpe-statistika-po-industriji-2026) za remarketing taktike.
+
+**Za lokalne biznise:** Restorani sa $3.16 CPL-om su dokaz da Facebook Lead Ads rade odlicno za lokalne usluge sa niskim pragom akcije. Pogledajte detaljnije [Facebook Ads za lokalne biznise](/blog/facebook-ads-cena-po-industriji-srbija-2026).
+
+Za pomoc oko pokretanja ili optimizacije vasih Facebook kampanja, [kontaktirajte nas](/kontakt).
+
+---
+
+*Izvori: WordStream Facebook Ads Benchmarks 2025 (april 2024 - mart 2025, 1.000+ kampanja), LocalIQ Facebook Advertising Benchmarks 2025, WordStream Google Ads Benchmarks 2025 (za poredjenje).*
+`,
+  },
+
 ]
 
 const seenSlugs = new Set()
