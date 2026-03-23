@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-03-23T14:32:27.884Z",
-  "blogPostsChecked": 241,
-  "publicPostsChecked": 240,
+  "generatedAt": "2026-03-23T18:33:49.539Z",
+  "blogPostsChecked": 243,
+  "publicPostsChecked": 242,
   "draftPostsChecked": 1,
-  "issueCount": 0,
-  "issues": []
+  "issueCount": 1,
+  "issues": [
+    "/blog/google-ads-cpc-ctr-konverzija-po-industriji-benchmark-2026: missing/invalid ld-article-server"
+  ]
 }

@@ -26909,6 +26909,204 @@ Za kompletnu analizu vaseg churn rate-a i strategiju za smanjenje odliva klijena
 `,
   },
 
+  {
+    slug: 'google-ads-cpc-ctr-konverzija-po-industriji-benchmark-2026',
+    title: 'Google Ads CPC, CTR i konverzija po industriji: benchmark podaci za 2025-2026',
+    excerpt: 'Koliko kosta klik na Google Ads, kakav je CTR i koja je prosecna konverzija po industriji? Citirani benchmark podaci iz WordStream i LocalIQ istrazivanja za 2025-2026.',
+    date: '2026-03-23',
+    category: 'Marketing',
+    readTime: '9 min',
+    content: `
+## Prosecni klik na Google Ads kosta $5.26 — ali raspon je od $1.60 do $8.58
+
+Prema WordStream/LocalIQ benchmark istrazivanju za 2025 (april 2024 - mart 2025, hiljade kampanja u SAD-u), prosecni CPC na Google Ads iznosi **$5.26** za sve industrije. To je rast od **12.88%** u odnosu na prethodnu godinu.
+
+Ali prosek ne govori mnogo. Advokati placaju $8.58 po kliku, dok zabavna industrija placa $1.60. Razlika je ogromna jer zavisi od konkurencije, vrednosti klijenta i namere pretrage.
+
+Za kontekst o troskovima akvizicije pogledajte [CPA benchmark po industriji](/blog/koliko-kosta-novi-klijent-cpa-po-industriji-google-facebook-2026). Za siru sliku o ROAS-u pogledajte [ROAS benchmark po industriji](/blog/roas-po-industriji-i-platformi-benchmark-statistika-2026).
+
+## CPC po industriji: ko placa najvise, ko najmanje
+
+### Industrije sa najvisim CPC-om (2025)
+
+| Industrija | Prosecni CPC | Godisnja promena |
+|-----------|-------------|-----------------|
+| Advokati i pravne usluge | $8.58 | Stabilno visoko |
+| Stomatologija | $7.85 | +8% YoY |
+| Dom i renoviranje | $7.85 | +15% YoY |
+| Obrazovanje i obuka | $6.23 | +41.91% YoY |
+| Licne usluge | $5.81 | +10% YoY |
+| Lepota i nega | $5.70 | Rast |
+| Industrija i komercijala | $5.70 | Stabilno |
+| Poslovne usluge | $5.58 | +12% YoY |
+
+Pravne usluge dominiraju jer jedan klijent moze vredeti $5.000-$50.000+. Zato advokati nemaju problem da plate $8+ po kliku. Obrazovanje je dozivelo najdramaticniji skok od skoro 42% jer sve vise skola i kurseva ulazi u Google Ads.
+
+### Industrije sa najnizim CPC-om (2025)
+
+| Industrija | Prosecni CPC |
+|-----------|-------------|
+| Nekretnine | $1.55 |
+| Umetnost i zabava | $1.60 |
+| Restorani i hrana | $2.05 |
+| Putovanja | $2.12 |
+| Sport i rekreacija | ispod $3.00 |
+| Zivotinje i ljubimci | $3.97 |
+| Auto servisi i delovi | $3.90 |
+| Namestaj | $3.86 |
+| Kupovina i pokloni | $3.49 |
+| Finansije i osiguranje | $3.46 |
+
+Niski CPC ne znaci uvek jeftinu akviziciju. Namestaj ima CPC od $3.86, ali konverziju od samo 2.73%, sto znaci da je cost per lead zapravo $121.51. Nekretnine imaju najjeftiniji klik ($1.55), ali konverzija od 3.28% znaci sporiji put do zavrsetka posla.
+
+Za detaljnu analizu Facebook vs Google CPC-a pogledajte [Google Ads vs Facebook Ads](/blog/google-ads-vs-facebook-ads-koji-je-bolji). Ako vam treba pomoc oko podesavanja kampanja, pogledajte nase [Google reklame usluge](/google-reklame-cena).
+
+## CTR po industriji: ko dobija klikove, ko ne
+
+### Prosecni CTR za Search Ads (2025)
+
+Ukupan prosek za Google Search Ads u 2025: **6.66%**. CTR je porastao za 3.74% u odnosu na prethodnu godinu, delom zato sto Google menja izgled SERP-a tako da oglasi izgledaju sve slicnije organskim rezultatima.
+
+| Industrija | Prosecni CTR (Search) | Trend |
+|-----------|----------------------|-------|
+| Umetnost i zabava | 13.10% | Najvisi |
+| Sport i rekreacija | 9.19% | Veoma visoko |
+| Kupovina i pokloni | 8.92% | Visoko |
+| Nekretnine | 8.90% | Visoko |
+| Auto (generalno) | 8.29% | Rast |
+| Moda i nakit | 6.77% | Prosecno |
+| Zivotinje i ljubimci | 6.58% | Prosecno |
+| Obrazovanje | 6.40% | Prosecno |
+| Zdravlje i fitnes | 6.40% | Prosecno |
+| Finansije i osiguranje | 6.20% | Prosecno |
+| Advokati i pravne usluge | 5.97% | Ispod proseka |
+| Poslovne usluge | 5.56% | Nize |
+| Auto servisi | 5.56% | Nize |
+| Stomatologija | 5.44% | Najnizi medju usluznim |
+
+Zabavna industrija ima CTR od 13.10% jer je pretraga uglavnom informativna i korisnici klikcu slobodnije. Advokati imaju niski CTR (5.97%) uprkos visokom CPC-u jer korisnici pazljivo biraju na sta ce kliknuti kada je u pitanju pravni problem.
+
+### CTR za Display Ads (2025)
+
+Display oglasi imaju drasticno nizi CTR jer ne odgovaraju na direktnu nameru korisnika:
+
+| Tip | Prosecni CTR |
+|-----|-------------|
+| Display (svi) | 0.46%-0.51% |
+| Display — umetnost i zabava | 1.55% |
+| Display — nekretnine | 1.08% |
+| Display — auto | 0.60% |
+| Display — e-commerce | 0.51% |
+| Display — B2B | 0.46% |
+| Performance Max | 4.20% |
+
+Search CTR nadmasuje Display za **680%** u proseku. Performance Max kampanje (koje kombinuju Search, Display, YouTube i Shopping) postizu CTR od 4.2%, sto je 32% bolje od cistog Search-a zahvaljujuci AI optimizaciji.
+
+Za benchmark CTR podatke po drustvenim mrezama pogledajte [cena oglasavanja na drustvenim mrezama](/blog/cena-oglasavanja-na-drustvenim-mrezama-cpc-ctr-roi-po-platformi-2026).
+
+## Konverzija po industriji: gde klikovi postaju klijenti
+
+### Prosecna konverzija na Google Ads (2025)
+
+Prosek za sve industrije: **7.52%**. Konverzija je porasla za 6.84% u odnosu na prethodnu godinu.
+
+| Industrija | Prosecna konverzija | Trend |
+|-----------|-------------------|-------|
+| Auto servisi i delovi | 14.67% | Najbolji |
+| Zivotinje i ljubimci | 13.07% | Odlicno |
+| Lekari i hirurzi | 11.62% | Veoma visoko |
+| Sport i rekreacija | visoko | +42.43% YoY |
+| Obrazovanje | visoko | +43.87% YoY |
+| Moda i nakit | prosecno | +14.69% YoY |
+| Nekretnine | 3.28% | Nisko |
+| Namestaj | 2.73% | Nisko |
+| Finansije i osiguranje | 2.55% | Najnize |
+
+Auto servisi konvertuju najbolje (14.67%) jer korisnik koji pretrazuje "zamena ulja u blizini" ima hitnu potrebu. Finansije imaju najnizu konverziju (2.55%) jer je proces odlucivanja dug i komplikovan.
+
+Obrazovanje je dozivelo najveci skok konverzije (+43.87% YoY) jer su skole i kursevi poboljsali landing stranice i uveli bolje lead magnete. Sport i rekreacija takodje skakao za 42.43%.
+
+Za benchmark konverzija po svim kanalima pogledajte [prosecna stopa konverzije po industriji](/blog/prosecna-stopa-konverzije-po-industriji-benchmark-statistika-2026).
+
+## Cost per lead: koliko zapravo kosta jedan lead
+
+### Prosecni CPL na Google Ads (2025)
+
+Ukupan prosek: **$70.11** (rast od 5.13% u odnosu na $66.69 prethodne godine).
+
+| Industrija | Prosecni CPL | CPC | Konverzija |
+|-----------|-------------|-----|-----------|
+| Auto servisi i delovi | $28.50 | $3.90 | 14.67% |
+| Restorani i hrana | $30.27 | $2.05 | ~6.8% |
+| Umetnost i zabava | $30.27 | $1.60 | ~5.3% |
+| Zivotinje i ljubimci | $31.82 | $3.97 | 13.07% |
+| Sport i rekreacija | ~$33 | <$3 | visoko |
+| Stomatologija | ~$72 | $7.85 | ~11% |
+| Obrazovanje | ~$55 | $6.23 | visoko |
+| Poslovne usluge | $103.54 | $5.58 | ~5.4% |
+| Namestaj | $121.51 | $3.86 | 2.73% |
+| Advokati i pravne usluge | $131.63 | $8.58 | ~6.5% |
+
+Najjeftiniji lead je u auto servisima ($28.50) jer je kombinacija umerenog CPC-a i visoke konverzije. Najskuplji lead je kod advokata ($131.63) jer se visok CPC mnozi sa umerenom konverzijom. Ali preciznija metrika nije CPL nego odnos CPL prema vrednosti klijenta. Advokat koji placa $131 po leadu, a od klijenta zaradjuje $5.000+, ima odlican ROI.
+
+Za detaljnu analizu cost per lead-a pogledajte [cena po leadu po industriji](/blog/cena-po-leadu-po-industriji-benchmark-statistika-2026).
+
+## Kljucni trendovi za 2025-2026
+
+### CPC raste, ali i performanse
+
+Tri istovremena trenda definisu Google Ads trziste:
+
+1. **CPC raste za 87% industrija** jer vise oglasivaca znaci vece aukcijske cene. E-commerce vertikale beleze rast CPC-a od 20-30% od sredine 2025.
+
+2. **CTR takodje raste** jer novi formati oglasa, prosirenja i SERP promene dovode do toga da korisnici cesce klikcu na oglase. Rast CTR-a od 2.07% do 16.30% zavisno od industrije.
+
+3. **Konverzije su u porastu** jer bolje landing stranice, AI optimizacija i poboljsani Quality Score-ovi podizu konverzije u vecini sektora.
+
+### Search dominira, ali Performance Max raste
+
+- Search kampanje: **56.2%** ukupne potrosnje na Google Ads
+- Performance Max: **13-18%** mesecnog budzeta (stabilan ali ogranien rast)
+- Shopping: vazan za e-commerce, cesto jeftiniji CPC od Search-a
+
+### Sezonalnost: kada je klik najjeftiniji
+
+- **Februar** je najisplativiji period, manja konkurencija posle novogodisnjeg pika
+- **Septembar** donosi najveci rast CPC-a jer firme pripremaju Q4 kampanje za praznike
+- **Q4 (oktobar-decembar)** je najskuplji period za e-commerce i retail
+
+### Kvalitet podataka postaje kriticna prednost
+
+Google-ovi algoritmi sve vise zavise od conversion signala. Firme sa cistim i dobro strukturiranim podacima (pravilno podeseni conversion tracking, offline konverzije, CRM integracija) dobijaju bolje performanse od algoritama.
+
+## Sta ovo znaci za srpsko trziste
+
+CPC na srpskom trzistu je 3-10x nizi od americkog. Ako advokat u SAD-u placa $8.58 po kliku, advokat u Beogradu placa 50-150 RSD. Ali proporcionalni odnosi izmedju industrija su slicni: pravne usluge, stomatologija i renoviranje imaju najskuplje klikove i u Srbiji.
+
+Kljucna razlika je u tome sto srpsko trziste jos nije zasiceno. CTR-ovi su cesto visi jer je konkurencija za oglasni prostor manja, a konverzije mogu biti bolje ako imate solidnu landing stranicu jer je ponuda na srpskom jeziku ogranicena.
+
+Za detaljne benchmark podatke za Srbiju pogledajte [Google Ads cena po kliku u Srbiji](/blog/google-ads-cena-po-kliku-srbija-2026) i za specificne nise [Google Ads za lokalne biznise](/blog/google-ads-za-lokalne-biznise-kako-spustiti-cenu-leada-srbija-2026). Za SEO pristup pogledajte nasu ponudu za [SEO optimizaciju](/seo-optimizacija-cena).
+
+## Kako koristiti ove benchmark podatke
+
+Benchmark podaci su polazna tacka, ne cilj. Evo kako ih primeniti:
+
+**Ako vam je CPC iznad proseka za industriju** proverite Quality Score. Nizak QS (ispod 6) povecava cenu klika za 25-400%. Poboljsajte relevantnost oglasa i landing stranice.
+
+**Ako vam je CTR ispod proseka** testirajte naslove oglasa, dodajte prosirenja (sitelinks, callouts, structured snippets) i proverite da li ciljate prave kljucne reci.
+
+**Ako vam je konverzija ispod proseka** problem je verovatno na landing stranici, ne u oglasu. Brzina ucitavanja, jasna ponuda, jednostavan formular i socijalni dokazi su osnova.
+
+**Ako vam je CPL previsok** podelite kampanje po nameri (brand vs genericki vs konkurentski), iskljucite neproduktivne kljucne reci i testirajte razlicite bid strategije.
+
+Za pomoc oko optimizacije vasih Google Ads kampanja i smanjenja cene leada, [kontaktirajte nas](/kontakt).
+
+---
+
+*Izvori: WordStream Google Ads Benchmarks 2025, LocalIQ Search Advertising Benchmarks 2025, WordStream PPC Benchmarks, StoreGrowers Google Ads Benchmarks, Focus Digital Average CPC by Industry 2025, Quimby Digital What Businesses Really Pay, Pixis AI 2025 Google Advertising Benchmarks, Triple Whale Google Ads Benchmarks 2025, TerraHQ Google Ads Benchmarks 2025, Adbacklog Google Ads Benchmarks per Industry 2025, Search Engine Journal CTR Benchmarks 2025, MarketingLTB Display Ads CTR Benchmarks.*
+`,
+  },
+
 ]
 
 const seenSlugs = new Set()

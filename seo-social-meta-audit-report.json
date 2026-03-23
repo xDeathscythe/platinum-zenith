@@ -1,12 +1,14 @@
 {
-  "generatedAt": "2026-03-23T14:32:27.640Z",
+  "generatedAt": "2026-03-23T18:33:49.291Z",
   "staticRoutesChecked": 66,
-  "blogRoutesChecked": 240,
+  "blogRoutesChecked": 242,
   "draftRoutesChecked": 1,
-  "routesChecked": 307,
-  "issueCount": 0,
+  "routesChecked": 309,
+  "issueCount": 1,
   "warningCount": 1,
-  "issues": [],
+  "issues": [
+    "/blog/google-ads-cpc-ctr-konverzija-po-industriji-benchmark-2026: twitter:description differs from og:description"
+  ],
   "warnings": [
     "/blog/lokalni-seo-near-me-pretrage-statistika-konverzije-2026: og:title length 99 outside 20-95"
   ]

@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-03-23T14:32:28.071Z",
-  "postsChecked": 184,
+  "generatedAt": "2026-03-23T18:33:49.738Z",
+  "postsChecked": 186,
   "issueCount": 0,
   "checked": [
+    {
+      "route": "/blog/seo-vs-ppc-uporedna-statistika-konverzija-cena-roi-2026",
+      "serviceHits": 3,
+      "hasKontakt": true
+    },
     {
       "route": "/blog/retargeting-remarketing-statistika-ctr-roas-konverzija-2026",
       "serviceHits": 2,
@@ -920,6 +925,11 @@
     },
     {
       "route": "/blog/email-marketing-open-rate-ctr-benchmark-po-industriji-2026",
+      "serviceHits": 3,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/google-ads-cpc-ctr-konverzija-po-industriji-benchmark-2026",
       "serviceHits": 3,
       "hasKontakt": true
     }
