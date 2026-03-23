@@ -1,5 +1,105 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'influencer-marketing-roi-mikro-vs-makro-statistika-2026',
+    title: 'Influencer marketing ROI: zasto mikro influenseri donose vise od velikih',
+    excerpt: 'Statistike o influencer marketing ROI-ju 2025-2026. Mikro vs makro influenseri, cena po engagement-u, konverzija i kada se isplati koji tip saradnje.',
+    date: '2026-03-23',
+    category: 'Marketing',
+    readTime: '7 min',
+    content: `
+## 5.20 EUR za svaki ulozeni evro — ali samo sa pravim influenserom
+
+Influencer marketing donosi prosecno **5.20 EUR za svaki ulozeni evro** (5.2x ROI). E-commerce brendovi postizu i **6-10x** povrat. Ali ove cifre kriju ogromnu razliku: kampanja sa pogresnimm influenserom moze da donese NULA prodaja.
+
+Industrija je u 2025. dostigla **24-32 milijarde USD** globalno, sa procenom od 47.8 milijardi do 2027. I najvazniji trend: **mikro influenseri pobedjuju velike** po gotovo svim metrikama.
+
+Za kompletnu strategiju drustvenih mreza pogledajte [social media vodic](/blog/social-media-strategija-za-male-firme-srbija-2026). Za placene kampanje pogledajte [Instagram reklame cena](/instagram-reklame-cena).
+
+## Mikro vs Makro influenseri: podaci
+
+### Engagement rate
+
+| Tip | Pratioci | Engagement rate | Cena po engagement-u |
+|-----|---------|----------------|---------------------|
+| **Nano** | 1K-10K | 5-8% | ~0.10 EUR |
+| **Mikro** | 10K-100K | 4-8% | ~0.20 EUR |
+| **Srednji** | 100K-500K | 2-4% | ~0.25 EUR |
+| **Makro** | 500K-1M | 1-2% | ~0.33 EUR |
+| **Mega** | 1M+ | 0.5-1.5% | 0.50+ EUR |
+
+**Kljucni uvid:** Mikro influenseri imaju **3-4x visi engagement** od makro influensera. Za istu investiciju, dobijate vise interakcija.
+
+### Konverzija (prodaja)
+
+- **Mikro influenseri:** 20% visa konverzija od vecih influensera
+- **Razlog:** Njihovi pratioci ih dozivljavaju kao prijatelje, ne kao celebove. Preporuka od mikro influensera deluje kao preporuka od poznanika.
+- Kampanje sa mikro influenserima generisu **5-6.50 EUR prihoda** po ulozenomm evru
+
+### Cena (CPM — cena za 1.000 prikaza)
+
+- **Mikro influenseri:** Medijana CPM **119 EUR** (sto znaci da za 119 EUR, vas sadrzaj vidi 1.000 ljudi koji su aktivno zainteresovani)
+- **Makro influenseri:** Medijana CPM **300+ EUR**
+- Mikro = **2.5x jeftiniji** po prikazu
+
+## Zasto 73% brendova bira mikro influensere
+
+Podaci iz HypeAuditor, Aspire i influenceflow istrazivannja (2024-2025):
+
+- **73% brendova** preferira mikro i mid-tier influensere (rast sa 60% u 2023)
+- **43% brendova** je u 2024 prebacilo budzet ka manjim influenserima
+- **Razlozi:** Visi engagement-to-cost ratio, autenticniji sadrzaj, bolja konverzija, manja cena po rezultatu
+
+### Kada MAKRO influenseri i dalje imaju smisla
+
+- **Lansiranje novog brenda:** Kad vam treba mass awareness brzo
+- **Legitimitet:** Velika imena daju kredibilitet (posebno za premium brendove)
+- **Specifican doseg:** Kad trebate doseci specifican segment koji prati jednog velikog influensera
+
+### Hibridna strategija (preporuka)
+
+Najuspesniji brendovi u 2025 koriste oba:
+1. **Mikro influenseri za testiranje:** Testirate poruku, kreativu i ponudu sa 5-10 mikro influensera (mali budzet, brzi rezultati)
+2. **Makro za skaliranje:** Kad nadjete poruku koja radi, platite makro influenseru da je amplificira (veci budzet, siri doseg)
+
+## Kako izracunati ROI influenser kampanje
+
+### Formula
+
+**ROI = (Prihod od kampanje - Trosak kampanje) / Trosak kampanje x 100**
+
+### Primer za srpsku firmu
+
+- **Trosak:** 5 mikro influensera x 200 EUR = 1.000 EUR
+- **Doseg:** 5 x 30.000 pratilaca x 5% engagement = 7.500 interakcija
+- **Konverzija:** 2% od interakcija = 150 prodaja
+- **Prosecna vrednost porudzbine:** 3.000 RSD (~25 EUR)
+- **Prihod:** 150 x 25 = 3.750 EUR
+- **ROI:** (3.750 - 1.000) / 1.000 x 100 = **275%** (3.75x)
+
+## Najcesce greske u influencer marketingu u Srbiji
+
+### 1) Biranje influensera po broju pratilaca
+
+100.000 pratilaca ne znaci nista ako su kupljeni ili neaktivni. Proverite engagement rate, kvalitet komentara (botovi vs pravi ljudi) i relevantnost za vas proizvod.
+
+### 2) Jedan post i gotovo
+
+Jedna objava retko donosi merljive rezultate. Minimum je 3-5 objava tokom 2-4 nedelje sa istim influenserom da se izgradi poverenje njegove publike u vas brend.
+
+### 3) Nema tracking-a
+
+Bez UTM parametara, promo kodova ili affiliate linkova ne mozete znati koliko prodaja je doslo od kog influensera. Uvek koristite merljive alate. Za merenje rezultata pogledajte [kako meriti ROI](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
+
+### 4) Previse kontrole nad sadrzajem
+
+Influenser zna svoju publiku bolje od vas. Dajte im key messages i CTA ali pustite da sadrzaj bude u njihovom stilu. Preterano skriptovani postovi deluju lazno i konvertuju losije.
+
+Za pomoc sa influenser strategijom i selekcijom, javite se preko [kontakt forme](/kontakt). Za video sadrzaj pogledajte [video marketing vodic](/blog/video-marketing-za-male-firme-srbija-2026).
+
+*Izvori: HypeAuditor State of Influencer Marketing (2025), Aspire State of Influencer Marketing (2025), InfluenceFlow Pricing Benchmarks (2025), PR Newswire Influencer Marketing Data (2025), JoinBrands ROI Study (2025).*
+`
+  },
+  {
     slug: 'cena-oglasavanja-na-drustvenim-mrezama-cpc-ctr-roi-po-platformi-2026',
     title: 'Cena oglasavanja na drustvenim mrezama: CPC, CTR i ROI po platformi u 2025-2026',
     excerpt: 'Koliko kosta oglas na Facebooku, Instagramu, LinkedInu i TikToku? Benchmark podaci za CPC, CTR, konverziju i ROAS po platformi sa citiranim izvorima.',

@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "influencer-marketing-roi-mikro-vs-makro-statistika-2026",
+    "title": "Influencer marketing ROI: zasto mikro influenseri donose vise od velikih",
+    "excerpt": "Statistike o influencer marketing ROI-ju 2025-2026. Mikro vs makro influenseri, cena po engagement-u, konverzija i kada se isplati koji tip saradnje.",
+    "date": "2026-03-23",
+    "category": "Marketing",
+    "readTime": "7 min",
+    "isDraft": false
+  },
+  {
     "slug": "cena-oglasavanja-na-drustvenim-mrezama-cpc-ctr-roi-po-platformi-2026",
     "title": "Cena oglasavanja na drustvenim mrezama: CPC, CTR i ROI po platformi u 2025-2026",
     "excerpt": "Koliko kosta oglas na Facebooku, Instagramu, LinkedInu i TikToku? Benchmark podaci za CPC, CTR, konverziju i ROAS po platformi sa citiranim izvorima.",
