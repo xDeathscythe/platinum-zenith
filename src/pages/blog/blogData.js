@@ -1,5 +1,184 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'retargeting-remarketing-statistika-ctr-roas-konverzija-2026',
+    title: 'Retargeting i remarketing statistika: CTR, ROAS, konverzija i CPC benchmark podaci za 2025-2026',
+    excerpt: 'Koliki je prosecni CTR retargeting oglasa, koliko kosta klik, kakav ROAS ocekivati i koliko retargeting povecava konverziju? Citirani benchmark podaci za 2025-2026 po platformi.',
+    date: '2026-03-23',
+    category: 'Marketing',
+    readTime: '9 min',
+    content: `
+## Zasto retargeting ostaje najefikasniji oblik digitalnog oglasavanja
+
+Od svih posetilaca koji dodju na sajt, 98% nece kupiti prilikom prve posete. To znaci da firma koja ne koristi retargeting prepusta gotovo ceo saobracaj konkurenciji ili zaboravu. Retargeting (ili remarketing) omogucava da se ponovo obratite ljudima koji su vec pokazali interesovanje, bilo da su pogledali proizvod, dodali u korpu ili samo proveli vreme na sajtu.
+
+Prema DemandSage i MarketingLTB podacima za 2025, 77% marketara koristi retargeting kao deo svoje oglasne strategije, a 48% planira da poveca buddzet za retargeting u narednoj godini. Retargetirani korisnici su 70% skloniji konverziji od hladne publike.
+
+Za kontekst o troskovima akvizicije bez retargetinga pogledajte [CPA benchmark po industriji](/blog/koliko-kosta-novi-klijent-cpa-po-industriji-google-facebook-2026). Za siroku sliku o konverzijama pogledajte [benchmark konverzija po industriji](/blog/prosecna-stopa-konverzije-po-industriji-benchmark-statistika-2026).
+
+## CTR retargeting oglasa: 10x bolji od standardnog displeja
+
+Klik-through rate (CTR) je prva metrika koja pokazuje koliko retargeting nadmasuje obican display.
+
+**CTR retargeting vs standardni display (2025):**
+
+| Tip kampanje | Prosecni CTR | Napomena |
+|-------------|-------------|---------|
+| Retargeting oglasi (prosek) | 0.9%-1.2% | Rast sa 0.8% u 2024 |
+| Standardni display oglasi | 0.05%-0.07% | Baseline za poredjenje |
+| Google Display retargeting | 0.7%-1.2% | GDN remarketing kampanje |
+| Facebook retargeting | 0.9%-1.1% | 94% visi CTR od standardnog displeja |
+| Dinamicki retargeting | do 2x standardnog | Personalizovani product ads |
+| Mobilni retargeting | +30-50% vs desktop | Vise interakcije na mobilnim uredjajima |
+| Visoko segmentirani (nedavni posetioci) | 1%-2% | Najtoplija publika |
+
+Retargetirani oglasi postizu CTR koji je 10-13 puta visi od standardnog displeja. Na mobilnim uredjajima taj odnos je jos bolji jer korisnici cesce interaguju sa poznatim brendovima dok skroluju feed.
+
+Dinamicki retargeting (koji prikazuje tacno proizvod koji je korisnik gledao) moze da udvostruci CTR u poredjenju sa generickim retargeting kreativima. Ovo je razlog zasto e-commerce brendovi sve vise prelaze na dinamicke kampanje.
+
+Za benchmark podatke o CTR-u i CPC-u po drustvenim mrezama pogledajte [cena oglasavanja na drustvenim mrezama](/blog/cena-oglasavanja-na-drustvenim-mrezama-cpc-ctr-roi-po-platformi-2026).
+
+## CPC retargetinga: jeftiniji klik, toplija publika
+
+Osim sto ima bolji CTR, retargeting donosi i nizi trosak po kliku jer platforme nagradjuju visi engagement score.
+
+**CPC retargeting po platformi (2025):**
+
+| Platforma | Prosecni CPC | Poredjenje sa hladnim kampanjama |
+|-----------|-------------|--------------------------------|
+| Google Display retargeting | $0.25-$1.50 | 30-60% jeftiniji od cold display |
+| Facebook retargeting | $0.50-$1.20 | Znacajno ispod proseka za hladne |
+| LinkedIn retargeting | $4-$8 | Skuplji, ali za B2B opravdan |
+| Programmatic/display (prosek) | $0.40-$1.10 | Retargeting segment |
+| Ukupni prosek retargetinga | $0.95-$1.25 | Pad sa $1.30 u 2024 |
+
+Prosecni CPC za retargeting u 2025 iznosi $0.95-$1.25, sto je pad u odnosu na $1.30 godinu ranije. Ovaj trend ukazuje na bolju efikasnost biddinga i vecu konkurentnost retargeting aukcija koje platforme optimizuju za konverzije.
+
+LinkedIn retargeting je najskuplji ($4-$8 po kliku), ali za B2B kompanije ciji je prosecni deal vredan hiljade evra, taj trosak je cesto opravdan. Facebook i Google Display su najisplativije platforme za e-commerce i B2C retargeting.
+
+Za detaljne podatke o ROAS-u po platformi pogledajte [ROAS benchmark po industriji i platformi](/blog/roas-po-industriji-i-platformi-benchmark-statistika-2026).
+
+## ROAS i ROI: koliko retargeting zaista vraca
+
+Return on Ad Spend (ROAS) je metrika koja pokazuje koliko prihoda donosi svaki ulozen dolar u oglase. Retargeting konsistentno isporucuje najvisi ROAS od svih kanala.
+
+**ROAS retargetinga po vertikali (2025):**
+
+| Vertikala | Prosecni ROAS | Napomena |
+|-----------|-------------|---------|
+| E-commerce retargeting | 8:1 | Najbolji rezultat medju vertikalama |
+| Retail brendovi | 6:1 | Fizicki + online prodavci |
+| SaaS brendovi | 4:1 | Duzi sales cycle, ali visok LTV |
+| Opsti prosek (sve industrije) | 4.2x | Rast sa 4.0x u 2024 |
+| Dinamicki product ads | +50-150% boost | Poboljsanje nad generickim retargetingom |
+| AI-powered kampanje | do 10x ROAS | Napredna segmentacija i bidding |
+
+Prosecni ROAS za retargeting u 2025 iznosi 4.2x, sto je blagi rast u odnosu na 4.0x godinu ranije. E-commerce retargeting prednjaci sa ROAS-om od 8:1, dok SaaS kompanije postizu 4:1 zbog duzeg prodajnog ciklusa.
+
+Dinamicki product ads (DPA) mogu da podignu ROAS za 50-150% u poredjenju sa statickim kreativima. AI-powered kampanje sa prediktivnom segmentacijom guraju pojedinacne kampanje i do 10x ROAS-a.
+
+## Konverzije: retargeting kao multiplikator prodaje
+
+Konverzija je krajnji cilj, i tu retargeting pokazuje najvecu prednost.
+
+**Uticaj retargetinga na konverziju (2025):**
+
+| Metrika | Vrednost | Izvor |
+|---------|---------|-------|
+| Verovatnoca konverzije retargetiranih korisnika | 70% veca | DemandSage 2025 |
+| Prosecno povecanje konverzije | 30-50% | Cropink, MarketingLTB |
+| Maksimalno povecanje konverzije | do 150% | SQ Magazine 2025 |
+| AI dinamicki retargeting lift | do 187% | SQ Magazine 2025 |
+| Subscription + churn scoring | do 212% | Napredni use case |
+| Cross-device retargeting boost | +20% | Multi-device korisnici |
+| Email + retargeting kombinacija | +287% | Multi-channel pristup |
+| Google Ads retargeting CVR | 7.5% | Rast sa 7.2% u 2024 |
+
+Retargetirani korisnici konvertuju 70% cesce od novih posetilaca. Kada se retargeting kombinuje sa email remarketingom, konverzija moze da poraste za 287% u poredjenju sa single-channel pristupom.
+
+Cross-device retargeting (prikaz oglasa na mobilnom korisniku koji je gledao sajt na desktopu) dodatno podize konverzije za 20%.
+
+Za podatke o email remarketingu pogledajte [email marketing open rate i CTR benchmark](/blog/email-marketing-open-rate-ctr-benchmark-po-industriji-2026).
+
+## CPA: retargeting smanjuje trosak akvizicije za 50%
+
+Posto retargeting cilja toplu publiku, trosak po akviziciji (CPA) je drasticno nizi.
+
+**CPA poredjenje: retargeting vs hladne kampanje (2025):**
+
+| Tip kampanje | Prosecni CPA | Razlika |
+|-------------|-------------|---------|
+| Retargeting kampanje | $15-$25 | Baseline |
+| Standardne display kampanje | $30+ | 50-100% skuplji |
+| First-party data retargeting | jos 58% nizi CPA | Best-in-class segment |
+
+Retargeting kampanje imaju prosecni CPA od $15-$25, dok standardne display kampanje kostaju $30 i vise. Razlika je jos veca kod firmi koje koriste first-party data, gde se CPA smanjuje za dodatnih 58%.
+
+Ovo znaci da firma sa 100 konverzija mesecno i CPA od $30 moze da smanji trosak na $15-$20 preusmeravanjem budzeta ka retargetingu, stedeci $1.000-$1.500 mesecno na istu kolicinu prodaje.
+
+Za siru sliku o troskovima akvizicije pogledajte [CPA benchmark po industriji](/blog/koliko-kosta-novi-klijent-cpa-po-industriji-google-facebook-2026).
+
+## Retargeting i napustanje korpe: povracaj izgubljenih kupaca
+
+Napustanje korpe je najocigledniji use case za retargeting jer su ti korisnici bili na korak od kupovine.
+
+**Retargeting vs napustanje korpe (2025):**
+
+| Metrika | Vrednost |
+|---------|---------|
+| Prosecna stopa napustanja korpe | 70% |
+| Mobilna stopa napustanja | 80-84% |
+| Povratak kupaca sa retargetingom | 26% |
+| Povratak kupaca bez retargetinga | 8% |
+| Smanjenje abandonment rate-a | 6.5-26% |
+| Abandoned cart email open rate | 45-50.5% |
+| Abandoned cart email CTR | 8.4-21% |
+| SMS recovery vs email | 26% bolji recovery |
+| 3 emaila vs 1 email | 37% vise oporavljenih korpi |
+
+Sa retargetingom, 26% kupaca koji su napustili korpu se vraca da zavrsi kupovinu, u poredjenju sa samo 8% bez retargetinga. Kombinacija retargeting oglasa sa email recovery kampanjom daje najbolje rezultate.
+
+Tri recovery emaila oporavljaju 37% vise korpi nego jedan. Personalizovani emailovi konvertuju 2.5 puta bolje od generickih, a dodavanje slika proizvoda u email povecava klikove za 15%.
+
+Za detaljne podatke o napustanju korpe pogledajte [napustanje korpe statistika po industriji](/blog/napustanje-korpe-statistika-po-industriji-2026).
+
+## Koliko budzeta alocirati na retargeting
+
+Pitanje koliko budzeta izdvojiti za retargeting je jedno od najcescih u digital marketingu.
+
+**Preporucena alokacija budzeta (2025):**
+- Preporuka eksperata: 15-30% ukupnog oglasnog budzeta za retargeting
+- 70% marketara vec ima dedicirani retargeting buddzet
+- Samo 32% marketara personalizuje retargeting oglase (sto znaci ogroman prostor za poboljsanje)
+
+Firma sa mesecnim budzetom od 2.000 evra za oglasavanje treba da izdvoji 300-600 evra za retargeting. S obzirom na 4.2x prosecni ROAS, tih 600 evra moze da generise 2.520 evra prihoda, sto je cesto bolji povrat od bilo kog drugog kanala.
+
+Za podatke o optimalnom marketinskom budzetu pogledajte [koliko firme trose na marketing](/blog/koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026).
+
+## Retargeting i brand awareness: nevidljivi efekat
+
+Retargeting ne sluzi samo za direktne konverzije. PPC search oglasi podizu brand awareness za 80% cak i kada korisnici ne kliknu na oglas. Za retargeting display oglase, efekat je slican: korisnici koji vide vas brend vise puta razvijaju prepoznatljivost i poverenje.
+
+Prema Cropink podacima, 78% potrosaca je spremnije da kupi od brendova koje prate na drustvenim mrezama. Retargeting efektivno pretvara jednokratne posetioce u pratioce koji prepoznaju vas brend.
+
+Ovo je posebno vazno za firme sa duzim prodajnim ciklusom (B2B, SaaS, visok AOV) gde kupac mozda nece kupiti odmah, ali ce se setiti brenda kada bude spreman.
+
+Za kontekst o zadrzavanju kupaca pogledajte [customer retention vodic](/blog/zadrzavanje-kupaca-customer-retention-srbija-2026). Za CLV benchmark pogledajte [Customer Lifetime Value po industriji](/blog/customer-lifetime-value-clv-po-industriji-benchmark-statistika-2026).
+
+## Kljucni zakljucci za 2026
+
+Retargeting je kanal sa najboljim odnosom ulaganja i povrata u digitalnom marketingu. CTR je 10x visi od standardnog displeja, CPC je 30-60% nizi od hladnih kampanja, a konverzija je 70% veca. Za e-commerce, prosecni ROAS od 8:1 znaci da svaki ulozen dolar vraca osam.
+
+Firme koje ne koriste retargeting efektivno bacaju 92% svog saobracaja. One koje ga koriste, ali bez personalizacije i dinamickih kreativa, ostavljaju dodatnih 50-150% performansi na stolu.
+
+Ako zelite da implementirate retargeting strategiju za vas biznis ili optimizujete postojece kampanje, pogledajte [nase usluge digitalnog marketinga](/digitalni-marketing) i pogledajte [koliko kosta Facebook reklama](/blog/facebook-ads-cena-po-industriji-srbija-2026), pa nas kontaktirajte na [kontakt stranici](/kontakt).
+
+---
+
+*Izvori: DemandSage Retargeting Statistics 2025, MarketingLTB Retargeting Statistics Report, SQ Magazine Retargeting Ad Performance Statistics, Cropink Retargeting Statistics 2025, Amra and Elma Top Retargeting Ad Statistics, NewswireJet Retargeting Statistics, CoreAndMoreTechnologies Remarketing Optimization 2025, SellersCommerce Cart Abandonment Statistics, VWO Cart Abandonment Recovery Data.*
+`
+  },
+
+  {
     slug: 'prosecna-vrednost-porudzbine-aov-po-industriji-benchmark-statistika-2026',
     title: 'Prosecna vrednost porudzbine (AOV) po industriji: benchmark podaci za 2025-2026',
     excerpt: 'Kolika je prosecna vrednost narudzbine u e-commerce-u, modi, elektronici i food delivery-ju? Citirani benchmark podaci za 2025-2026, AOV po uredjaju i strategije za povecanje.',

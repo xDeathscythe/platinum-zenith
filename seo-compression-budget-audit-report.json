@@ -1,46 +1,16 @@
 {
-  "generatedAt": "2026-03-23T10:33:04.811Z",
-  "compressedChunkCount": 92,
-  "publicBlogCount": 239,
-  "blogDataBrotliBudgetKb": 406,
-  "checks": [
-    {
-      "label": "index JS (brotli)",
-      "file": "index-D5xdwe8M.js.br",
-      "sizeKb": 14.4,
-      "maxKb": 15
-    },
-    {
-      "label": "vendor-react JS (brotli)",
-      "file": "vendor-react-D-tFKdcd.js.br",
-      "sizeKb": 54,
-      "maxKb": 58
-    },
-    {
-      "label": "vendor-router JS (brotli)",
-      "file": "vendor-router-WzOq1lTH.js.br",
-      "sizeKb": 10.67,
-      "maxKb": 24
-    },
-    {
-      "label": "vendor-motion JS (brotli)",
-      "file": "vendor-motion-INGeV9gw.js.br",
-      "sizeKb": 33.97,
-      "maxKb": 36
-    },
-    {
-      "label": "blogData JS (brotli)",
-      "file": "blogData-DXhhXHJz.js.br",
-      "sizeKb": 336.33,
-      "maxKb": 406
-    },
-    {
-      "label": "main CSS (brotli)",
-      "file": "index-DPJr_5Vs.css.br",
-      "sizeKb": 13.98,
-      "maxKb": 15
-    }
-  ],
-  "issueCount": 0,
-  "issues": []
+  "generatedAt": "2026-03-23T14:32:22.896Z",
+  "compressedChunkCount": 0,
+  "publicBlogCount": 240,
+  "blogDataBrotliBudgetKb": 408,
+  "checks": [],
+  "issueCount": 6,
+  "issues": [
+    "Missing compressed chunk for index JS (brotli) (index-*.js.br)",
+    "Missing compressed chunk for vendor-react JS (brotli) (vendor-react-*.js.br)",
+    "Missing compressed chunk for vendor-router JS (brotli) (vendor-router-*.js.br)",
+    "Missing compressed chunk for vendor-motion JS (brotli) (vendor-motion-*.js.br)",
+    "Missing compressed chunk for blogData JS (brotli) (blogData-*.js.br)",
+    "Missing compressed chunk for main CSS (brotli) (index-*.css.br)"
+  ]
 }

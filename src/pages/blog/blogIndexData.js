@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "retargeting-remarketing-statistika-ctr-roas-konverzija-2026",
+    "title": "Retargeting i remarketing statistika: CTR, ROAS, konverzija i CPC benchmark podaci za 2025-2026",
+    "excerpt": "Koliki je prosecni CTR retargeting oglasa, koliko kosta klik, kakav ROAS ocekivati i koliko retargeting povecava konverziju? Citirani benchmark podaci za 2025-2026 po platformi.",
+    "date": "2026-03-23",
+    "category": "Marketing",
+    "readTime": "9 min",
+    "isDraft": false
+  },
+  {
     "slug": "prosecna-vrednost-porudzbine-aov-po-industriji-benchmark-statistika-2026",
     "title": "Prosecna vrednost porudzbine (AOV) po industriji: benchmark podaci za 2025-2026",
     "excerpt": "Kolika je prosecna vrednost narudzbine u e-commerce-u, modi, elektronici i food delivery-ju? Citirani benchmark podaci za 2025-2026, AOV po uredjaju i strategije za povecanje.",

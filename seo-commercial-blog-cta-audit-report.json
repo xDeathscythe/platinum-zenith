@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-03-23T10:33:10.074Z",
-  "postsChecked": 183,
+  "generatedAt": "2026-03-23T14:32:28.071Z",
+  "postsChecked": 184,
   "issueCount": 0,
   "checked": [
+    {
+      "route": "/blog/retargeting-remarketing-statistika-ctr-roas-konverzija-2026",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
     {
       "route": "/blog/influencer-marketing-roi-mikro-vs-makro-statistika-2026",
       "serviceHits": 2,
