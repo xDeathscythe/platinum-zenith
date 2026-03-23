@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "seo-vs-ppc-uporedna-statistika-konverzija-cena-roi-2026",
+    "title": "SEO vs PPC u brojevima: konverzija, cena i ROI — sta se zaista isplati",
+    "excerpt": "Uporedna statistika SEO vs PPC u 2025-2026. Organski vs placeni saobracaj po konverziji, ceni, CTR-u i dugorocnom ROI-ju sa citiranim izvorima.",
+    "date": "2026-03-23",
+    "category": "SEO",
+    "readTime": "7 min",
+    "isDraft": false
+  },
+  {
     "slug": "retargeting-remarketing-statistika-ctr-roas-konverzija-2026",
     "title": "Retargeting i remarketing statistika: CTR, ROAS, konverzija i CPC benchmark podaci za 2025-2026",
     "excerpt": "Koliki je prosecni CTR retargeting oglasa, koliko kosta klik, kakav ROAS ocekivati i koliko retargeting povecava konverziju? Citirani benchmark podaci za 2025-2026 po platformi.",

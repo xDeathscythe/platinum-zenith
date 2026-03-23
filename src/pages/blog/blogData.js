@@ -1,5 +1,130 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'seo-vs-ppc-uporedna-statistika-konverzija-cena-roi-2026',
+    title: 'SEO vs PPC u brojevima: konverzija, cena i ROI — sta se zaista isplati',
+    excerpt: 'Uporedna statistika SEO vs PPC u 2025-2026. Organski vs placeni saobracaj po konverziji, ceni, CTR-u i dugorocnom ROI-ju sa citiranim izvorima.',
+    date: '2026-03-23',
+    category: 'SEO',
+    readTime: '7 min',
+    content: `
+## 53% saobracaja je organski, 5% je placeni — ali to nije cela prica
+
+Organski saobracaj (SEO) cini **53.3%** ukupnog web saobracaja globalno. Placeni saobracaj (PPC) cini oko **5%**. Na prvi pogled, SEO pobedjuje ubedljivo. Ali PPC donosi saobracaj ODMAH, dok SEO zahteva mesece rada pre prvih rezultata.
+
+Prava odluka nije "SEO ili PPC" — vec "koliko u svaki i kada". Evo sta podaci kazu.
+
+Za cene pogledajte [Google reklame cena](/google-reklame-cena) i [SEO optimizacija cena](/seo-optimizacija-cena).
+
+## Konverzija: organski vs placeni
+
+### Prosecna konverzija po kanalu
+
+- **SEO (organski):** 2.4% prosecno (First Page Sage 2025)
+- **PPC (placeni):** 1.3% prosecno (isti izvor)
+- **Alternativni podaci:** SEO 14.6% vs PPC 10% (starije ali cesto citirano istrazivanje)
+- **Google Ads prosek (2024):** 6.96% (ali ovo ukljucuje i branded pretrage koje dizu prosek)
+
+### Konverzija po tipu biznisa
+
+| Tip | SEO konverzija | PPC konverzija |
+|-----|---------------|----------------|
+| **B2B** | 2.6% | 1.5% |
+| **B2C** | 2.1% | 1.2% |
+
+**Zakljucak:** SEO konvertuje **1.5-2x bolje** od PPC-a jer organski posetioci imaju vecu nameru (aktivno su trazili i izabrali vas sajt, ne kliknuli na reklamu).
+
+## CTR (Click-Through Rate): ko dobija vise klikova
+
+- **Pozicija #1 organski:** 27.6% svih klikova (bez AI Overview-a)
+- **Placeni oglas #1:** 2-5% klikova (korisnici preferiraju organske rezultate)
+- **Svi organski rezultati** dobijaju **5.6x vise klikova** od svih placenih oglasa zajedno
+
+### Uticaj AI Overview-a na oba kanala
+
+- Organski CTR PAD kada AIO postoji: **-67.8%**
+- Placeni CTR PAD kada AIO postoji: **-58.0%**
+- AI Overview udara na OBA kanala, ali organski trpi vise
+
+Za detalje o AI Overview uticaju pogledajte [Featured Snippet i AI Overview vodic](/blog/featured-snippet-i-ai-overview-uticaj-na-klikove-statistika-2026).
+
+## Cena: koliko kosta svaki posetilac
+
+### SEO troskovi
+
+- **Mesecna investicija:** 300-2.000 EUR (agencija ili in-house)
+- **Vreme do rezultata:** 4-8 meseci za prvu stranicu
+- **Cena po kliku posle rangiranja:** 0 EUR (besplatno zauvek)
+- **Dugorocni trosak po poseti:** Pada eksponencijalno sa vremenom
+
+### PPC troskovi
+
+- **Prosecni CPC (Google Ads, globalno):** 4.66 USD (2024)
+- **CPC u Srbiji:** 0.35-0.80 EUR (2-4x jeftiniji od globalnog proseka)
+- **Cena po kliku:** Konstantna — svaki klik kosta isto
+- **Kad ugasite kampanju:** Saobracaj ODMAH pada na nulu
+
+### Matematika na 12 meseci
+
+**Scenario:** 1.000 poseta mesecno za lokalni biznis u Srbiji
+
+**SEO put:**
+- Investicija: 800 EUR/mesecno x 12 = 9.600 EUR
+- Mesec 1-4: 100 poseta (dok se rangira)
+- Mesec 5-12: 1.000+ poseta mesecno (besplatno)
+- Ukupno poseta za godinu: ~8.400
+- Cena po poseti: **1.14 EUR** (i pada svake godine)
+
+**PPC put:**
+- CPC: 0.50 EUR x 1.000 poseta = 500 EUR/mesecno
+- 12 meseci: 500 x 12 = 6.000 EUR
+- Ukupno poseta: 12.000
+- Cena po poseti: **0.50 EUR** (ali ostaje ista zauvek)
+
+**Godina 2 (bez dodatne SEO investicije):**
+- SEO: 12.000 poseta, trosak odrzavanja ~200 EUR/mesecno = 2.400 EUR = **0.20 EUR po poseti**
+- PPC: 12.000 poseta, trosak isti = 6.000 EUR = **0.50 EUR po poseti**
+
+**SEO pobedjuje od godine 2** jer cena pada dok saobracaj raste.
+
+## ROI: dugorocni povrat
+
+- **SEO ROI (posle 12+ meseci):** 500-1.300% (SaaS i e-commerce)
+- **PPC ROI (prosek):** 200-400% (za dobro optimizovane kampanje)
+- **SEO + PPC zajedno:** 15-20% visi ukupni ROI nego bilo koji kanal sam
+
+Za merenje ROI-ja pogledajte [kako meriti ROI digitalnog marketinga](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
+
+## Kada koristiti SEO, kada PPC
+
+### SEO je bolji za:
+
+- Dugorocni, predvidljiv saobracaj
+- Izgradnju autoriteta i poverenja (korisnici vise veruju organskim rezultatima)
+- Nize troskove po poseti na duge staze
+- Content marketing i edukativni sadrzaj
+- Lokalni SEO (Google Business Profile). Pogledajte [GBP optimizacija](/blog/google-business-profile-optimizacija-srbija-2026).
+
+### PPC je bolji za:
+
+- Instant saobracaj (kampanja → klikovi za sat vremena)
+- Testiranje kljucnih reci pre SEO investicije
+- Sezonske ponude i promocije
+- Nove firme bez organskog autoriteta
+- Konkurentne nise gde SEO zahteva 12+ meseci
+
+### Idealna kombinacija
+
+1. **Pocnite sa PPC** za instant saobracaj i prikupljanje podataka o kljucnim recima
+2. **Paralelno gradite SEO** (blog sadrzaj, tehnicka optimizacija)
+3. **Kad SEO pocne da donosi saobracaj** (mesec 4-6), smanjite PPC budzet za te kljucne reci
+4. **PPC zadrzite** za remarketing i sezonske kampanje
+
+Za kompletnu strategiju pogledajte [marketing strategija vodic](/blog/marketing-strategija-za-rast-firme-srbija-2026). Za pomoc sa izborom kanala javite se preko [kontakt forme](/kontakt).
+
+*Izvori: First Page Sage SEO vs PPC Statistics (2025), BrightEdge Organic Search Share (2024), WordStream Google Ads Benchmarks (2024), RankFuse CTR Trends Analysis (2025), Search Engine Journal SEO vs PPC Guide (2025).*
+`
+  },
+  {
     slug: 'retargeting-remarketing-statistika-ctr-roas-konverzija-2026',
     title: 'Retargeting i remarketing statistika: CTR, ROAS, konverzija i CPC benchmark podaci za 2025-2026',
     excerpt: 'Koliki je prosecni CTR retargeting oglasa, koliko kosta klik, kakav ROAS ocekivati i koliko retargeting povecava konverziju? Citirani benchmark podaci za 2025-2026 po platformi.',
