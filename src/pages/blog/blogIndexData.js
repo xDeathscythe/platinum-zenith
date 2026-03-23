@@ -2134,5 +2134,14 @@ export const blogIndexPosts = [
     "category": "CRO",
     "readTime": "10 min",
     "isDraft": false
+  },
+  {
+    "slug": "churn-rate-po-industriji-benchmark-statistika-2026",
+    "title": "Churn rate po industriji: benchmark podaci o odlivu klijenata za 2025-2026",
+    "excerpt": "Koliki je prosecan churn rate u SaaS-u, e-commerce-u, telekomunikacijama i bankarstvu? Citirani benchmark podaci za 2025-2026 sa strategijama za smanjenje odliva.",
+    "date": "2026-03-23",
+    "category": "CRO",
+    "readTime": "11 min",
+    "isDraft": false
   }
 ]

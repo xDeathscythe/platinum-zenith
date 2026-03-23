@@ -26127,6 +26127,214 @@ Za kompletnu analizu vaseg CLV-a, retencije i strategiju za povecanje vrednosti 
 *Izvori: Bain & Company/Harvard Business Review Retention Study, CustomerGauge Average CLV by Industry 2025, Kixie CLV Calculator Guide, GrowSurf CLV Statistics 2025, Tips on Blogging CLV Statistics, Rivo E-commerce CLV Benchmarks, UpCounting E-commerce Churn Report 2025, Vena Solutions SaaS Churn Benchmarks 2025, Pavilion B2B SaaS Performance Benchmarks 2025, Phoenix Strategy Group CAC Benchmarks 2025, Orb SaaS Benchmarks 2025, Genesys Growth CLV Statistics 2026, Emarsys CLV Benchmarks and Drivers, Pendo SaaS User Retention Benchmarks 2025.*
 `,
   },
+  {
+    slug: 'churn-rate-po-industriji-benchmark-statistika-2026',
+    title: 'Churn rate po industriji: benchmark podaci o odlivu klijenata za 2025-2026',
+    excerpt: 'Koliki je prosecan churn rate u SaaS-u, e-commerce-u, telekomunikacijama i bankarstvu? Citirani benchmark podaci za 2025-2026 sa strategijama za smanjenje odliva.',
+    date: '2026-03-23',
+    category: 'CRO',
+    readTime: '11 min',
+    content: `
+## Sta je churn rate i zasto je kriticna metrika za svaki biznis
+
+Churn rate (stopa odliva klijenata) pokazuje procenat kupaca ili pretplatnika koji prestanu da koriste proizvod ili uslugu u odredjenom periodu. Firma moze da raste samo ako stopa akvizicije prevazilazi stopu odliva. Ako mesecno gubite 5% korisnika, za godinu dana izgubite skoro polovinu baze (46%), sto znaci da morate neprekidno trpati nove klijente samo da biste stajali u mestu.
+
+Prema Recurly Research podacima za 2025, prosecna mesecna stopa odliva u svim industrijama iznosi 3.27%, od cega je 2.41% dobrovoljni churn (klijent sam otkazuje) i 0.86% nedobrovoljni churn (neuspela placanja, istekle kartice).
+
+Za povezanu metriku o vrednosti zadrzanog klijenta pogledajte [CLV benchmark po industriji](/blog/customer-lifetime-value-clv-po-industriji-benchmark-statistika-2026). Za razumevanje troska zamene izgubljenog klijenta pogledajte [CPA benchmark po industriji](/blog/koliko-kosta-novi-klijent-cpa-po-industriji-google-facebook-2026).
+
+## SaaS churn rate: gde se vas proizvod pozicionira
+
+SaaS industrija ima najvise granuliranih benchmark podataka jer se odliv direktno meri kroz otkazivanje pretplata.
+
+**Opsti SaaS benchmark (2025-2026):**
+- Prosecan godisnji churn: 3.8% (svi segmenti), 4.9% za B2B SaaS konkretno
+- "Dobar" mesecni churn: ispod 1% (oko 5% godisnje)
+- Best-in-class kompanije: ispod 3% godisnje
+- Pretplatnicki servisi sire: 10-20% godisnje
+
+Prema Vena Solutions i Vitally podacima, B2B SaaS ima prosecan churn od 3.5% godisnje (2.6% dobrovoljni + 0.8% nedobrovoljni). Medijana je nesto visa, 10-12% godisnje, sto ukazuje da manji broj velikih kompanija sa niskim churnom spusta prosek.
+
+**SaaS churn po velicini kompanije:**
+
+| Segment | Mesecni churn | Godisnji churn |
+|---------|---------------|----------------|
+| SMB (mali biznisi) | 3-7% | 30-58% |
+| Mid-market | 1-3% | 11-22% |
+| Enterprise | 0.5-2% | 3-10% |
+
+Enterprise klijenti imaju najnizi churn zbog duzih ugovora, dublje integracije proizvoda u poslovne procese i visih troskova prelaska na konkurenciju. SMB segment ima najvisi churn jer su kupci osetljiviji na cenu, koriste krace ugovore i lakse prelaze na alternativu.
+
+**SaaS churn po fazi rasta (ARR):**
+- **Early-stage (ispod $300K ARR):** 6.5% mesecno
+- **Growth stage ($1M-$3M ARR):** 3.7% mesecno
+- **Scale stage ($8M+ ARR):** 3.1% mesecno
+- **Large scale ($15M+ ARR):** 1.8% neto MRR churn, mnoge kompanije postizu nulti ili negativan neto churn
+
+**SaaS churn po vertikali:**
+- **Infrastrukturni SaaS:** 1.8% mesecno (najnizi, jer je proizvod mission-critical)
+- **ERP sistemi:** 2.1% mesecno, 22.9% godisnje
+- **Marketing i prodajni alati:** 4.8-8.1% mesecno (intenzivna konkurencija)
+- **Healthcare SaaS:** 7.5% mesecno
+- **EdTech:** 9.6% mesecno (duplo vise nego 2024)
+- **E-commerce Enablement SaaS:** 6.8% mesecno, 59.4% godisnje
+
+Za kontekst retencije pogledajte [zadrzavanje kupaca](/blog/zadrzavanje-kupaca-customer-retention-srbija-2026) i [onboarding sistem za zadrzavanje klijenata](/blog/leila-hormozi-onboarding-sistem-zadrzavanje-klijenata-srbija-2026).
+
+## E-commerce churn rate: jednokratna kupovina vs pretplata
+
+E-commerce ima dramaticno razlicit churn zavisno od modela poslovanja.
+
+**Tradicionalni e-commerce (jednokratne kupovine):**
+- Prosecan godisnji churn: 70-75% (tri od cetiri kupca ne kupe ponovo sledece godine)
+- Bazna retencija: oko 30%
+- Samo 10% novih Shopify prodavnica ostaje aktivno nakon 90 dana
+- Godisnji merchant churn na Shopify: oko 28%
+
+**Pretplatnicki e-commerce:**
+- Prosecan mesecni churn: 3.4% (dobrovoljni + nedobrovoljni)
+- Consumer goods i retail pretplate: 4.1% mesecno (3.3% dobrovoljni, 0.8% nedobrovoljni)
+- Godisnji billing modeli zadrzavaju 28% korisnika nakon prve godine
+
+**E-commerce retencija po kategoriji:**
+- **Namirnice i food delivery:** 40-65% retencija, 65.2% namera ponovne kupovine
+- **Pet supplies:** 30%+ repeat stopa, pretplatnicki model dominira
+- **Moda:** 24.4% retencija (fast fashion 31%, luksuz 19%)
+- **Elektronika:** 18% retencija (duzi ciklusi zamene)
+- **Luksuzni proizvodi:** 9.9% repeat stopa
+
+Za optimizaciju konverzija iz postojeceg saobracaja pogledajte [benchmark konverzija po industriji](/blog/prosecna-stopa-konverzije-po-industriji-benchmark-statistika-2026). Za problematiku napustanja korpe pogledajte [napustanje korpe statistika](/blog/napustanje-korpe-statistika-po-industriji-2026).
+
+## Telekomunikacije: industrija sa hronicno visokim churnom
+
+Telekomunikacijska industrija godinama ima jednu od najvisih stopa odliva.
+
+**Benchmark podaci (2025):**
+- Prosecan godisnji churn: 21.5-22%
+- Raspon: 20-50% godisnje zavisno od trzista i segmenta
+- Prepaid korisnici: do 70% godisnje u nekim trzistima
+- Severna Amerika: 14.64-20% (stabilnije)
+- Evropa: 20-44% (visi churn)
+
+Glavni pokretaci odliva u telekomu su kvalitet mreze, cena i losa korisnicka podrska. Korisnici menjaju operatera cesto jer su troskovi prelaska niski (prenosivost broja), a ponude konkurencije agresivne.
+
+## Bankarstvo: digitalne banke menjaju pravila igre
+
+**Benchmark podaci (2025):**
+- Prosecna globalna stopa odliva u bankarstvu: 17.6%
+- Severnoamericke retail banke: 19.2%
+- Digitalne banke (neobanke): 10.8% (najnizi u sektoru)
+- Finansijski sektor sire: 15-25% godisnje, medijana 19%
+- 17-18% potrosaca razmislja o promeni banke godisnje
+
+Digitalne banke imaju znacajno nizi churn zahvaljujuci boljem korisnickom iskustvu i brzoj podrsci. Tradicionalne banke gube korisnike prvenstveno zbog losih digitalnih interfejsa.
+
+## Osiguranje: premije guraju klijente ka izlazu
+
+**Benchmark podaci (2025):**
+- Auto osiguranje: 29% churn rate (znacajan skok)
+- Siri sektor osiguranja: retencija pala na 78% (22% churn), pad od istorijskog proseka od 85%
+- Rastuce premije su glavni pokretac odliva
+
+Industrija osiguranja je na prekretnici. Istorijski visoke stope zadrzavanja (oko 85%) se raspadaju pod pritiskom rastucih premija. Klijenti sve cesce porede ponude online i menjaju osiguravace.
+
+## Streaming i mediji: borba za paznju
+
+**Benchmark podaci (2025):**
+- Video streaming: 5.5% mesecni churn (oko 40% godisnje)
+- Audio streaming: 12% godisnje
+- Premium streaming servisi (SAD): 4.6% mesecno
+- Premium CTV platforme: 4.1% mesecno (najnizi u kategoriji)
+- Netflix: 1-3% mesecno (lideri industrije)
+- 39% potrosaca otkazalo bar jedan SVOD servis u poslednjih 6 meseci
+- Gen Z i milenijalci: preko 50% otkazalo bar jedan servis
+
+Cena je primarni faktor otkazivanja pretplate na streaming servise. Sa prosecnim domacinstom koje se pretplacuje na 3-4 servisa, konsolidacija je neizbezna.
+
+## B2B vs B2C: strukturne razlike u churnu
+
+| Metrika | B2B | B2C |
+|---------|-----|-----|
+| Prosecna 12-mesecna retencija | 82-90% | 72-74% |
+| Prosecan godisnji churn | 5-10% | 20-30% |
+| SaaS retencija | 74% | nizi (zavisno od nise) |
+| Pretplatnicki churn (mesecni) | 3.27% prosek | 4.1%+ |
+
+B2B kupci imaju 25% visu retenciju u pretplatnickim modelima (90% naspram 72% za B2C). Ovo je posledica duzih evaluacionih ciklusa, vise zainteresovanih strana u odlucivanju i dublje integracije proizvoda u poslovne procese.
+
+Za email strategije koje smanjuju odliv pogledajte [email marketing ROI po industriji](/blog/koliko-zapravo-zaradjuje-email-marketing-roi-po-industriji-2026) i [email marketing open rate benchmark](/blog/email-marketing-open-rate-ctr-benchmark-po-industriji-2026).
+
+## Dobrovoljni vs nedobrovoljni churn
+
+Svaki biznis gubi klijente na dva nacina:
+
+**Dobrovoljni churn (klijent svesno otkazuje):**
+- Prosek: 2.41% mesecno
+- Uzroci: nezadovoljstvo, bolja alternativa, promena potreba, cena
+
+**Nedobrovoljni churn (tehnicki/platni razlozi):**
+- Prosek: 0.86% mesecno
+- Uzroci: istekla kartica, neuspelo placanje, billing greske
+- Kod kompanija sa osnovnim billing recovery-jem: 20-40% ukupnog churna
+- Kod kompanija sa naprednim sistemima: samo 5-15% ukupnog churna
+
+Nedobrovoljni churn je paradoksalno laksi za resavanje jer ne zahteva promenu percepcije kupca, vec optimizaciju platnog procesa. Dunning (automatski email za neuspela placanja) i smart retry logika mogu da smanje nedobrovoljni churn za 50-70%.
+
+## Koliko churn zapravo kosta
+
+Matematika odliva je brutalna:
+- 5% mesecni churn = 46% godisnji gubitak baze
+- 10% mesecni churn = 72% godisnji gubitak (zamena cele baze svake godine)
+- Prema Bain & Company, zamena izgubljenog klijenta kosta 5-25x vise nego zadrzavanje postojeceg
+
+Firma sa 1.000 klijenata i 5% mesecnim churnom mora mesecno da akvizira 50 novih klijenata samo da bi ostala na istom broju. Ako je CPA (cena akvizicije) 50 evra, to je 2.500 evra mesecno samo za odrzavanje statusa quo, bez rasta.
+
+Za detaljne podatke o troskovima akvizicije pogledajte [CPA po industriji](/blog/koliko-kosta-novi-klijent-cpa-po-industriji-google-facebook-2026).
+
+## 7 strategija za smanjenje churn rate-a
+
+### 1. Identifikujte rizicne korisnike pre nego sto odu
+Pratite signale: pad koriscenja, smanjenje interakcija, sporije placanje. Proaktivan outreach klijentima koji pokazuju rane signale odliva smanjuje churn za 15-25%.
+
+### 2. Popravite onboarding
+SMB SaaS churn se koncentrise u prvih 90 dana. Strukturiran onboarding sa milestones i time-to-value fokusom drasticno smanjuje early churn.
+
+### 3. Resavanje nedobrovoljnog churna
+Implementirajte dunning sekvence (3-5 email-ova za neuspelo placanje), smart retry logiku, i alternativne metode placanja. Ovo moze da eliminis 50-70% nedobrovoljnog churna.
+
+### 4. Koristite exit survey
+Kad klijent otkazuje, pitajte zasto u jednom kratkom pitanju. Agregiran feedback otkriva sistemske probleme koje mozete da resite pre nego sto vise klijenata ode iz istog razloga.
+
+### 5. Ponudite fleksibilnost umesto otkazivanja
+Pause opcija, downgrade plana, ili privremeni popust zadrzavaju klijenta u ekosistemu. Klijent koji pauzira pretplatu ima daleko vecu verovatnocu povratka od onog koji potpuno otkaze.
+
+### 6. Izgradite switching costs kroz integracije
+Infrastrukturni SaaS ima 1.8% mesecni churn upravo zato sto je duboko integrisan u poslovne procese. Sto je vasa integracija dublja, to je prelazak na konkurenciju skuplji i komplikovaniji.
+
+### 7. Merite i pratite kohortno
+Ne gledate ukupan churn jer maskira trendove. Merite churn po kohorti (mesec prijavljivanja), po segmentu (SMB vs enterprise), i po kanalu akvizicije da biste nasli gde je problem i gde treba intervenisati.
+
+## Zakljucak: gde je vas churn u poredjenju sa benchmarkom
+
+| Industrija/segment | Dobar churn | Prosecan | Visok (alarm) |
+|--------------------|-------------|----------|---------------|
+| SaaS Enterprise | <5% godisnje | 5-10% | >15% |
+| SaaS SMB | <20% godisnje | 30-40% | >50% |
+| E-commerce (repeat) | <60% godisnje | 70-75% | >80% |
+| E-commerce (pretplata) | <25% godisnje | 35-40% | >50% |
+| Telekom | <15% godisnje | 20-25% | >30% |
+| Bankarstvo | <12% godisnje | 17-19% | >25% |
+| Streaming | <3% mesecno | 4-5.5% | >7% |
+
+Ako vam je churn iznad industrijskog proseka, fokusirajte se prvo na nedobrovoljni churn (tehnicki najlakse resiv), zatim na onboarding (prvih 90 dana), pa tek onda na retencijske kampanje za aktivnu bazu.
+
+Za kompletnu analizu vaseg churn rate-a i strategiju za smanjenje odliva klijenata, [kontaktirajte nas](/kontakt).
+
+---
+
+*Izvori: Recurly Research Churn Rate Benchmarks 2025, Vena Solutions SaaS Churn Rate Benchmarks, Vitally SaaS Churn Benchmarks, ChurnBuster B2B SaaS Churn Report, ChurnFree B2B SaaS Churn Rate Benchmarks, MRRSaver SaaS Churn Benchmarks 2025, UserJot SaaS Churn Rate Benchmarks, Focus Digital Average Churn Rate by Industry, LighterCapital B2B SaaS Startup Benchmarks 2025, UpCounting E-commerce Churn Report 2025, Growth-onomics Churn Rate Benchmarks by Industry 2025, CustomerGauge Average Churn Rate by Industry, ChurnKey State of Retention Report 2025, Rivo B2B Customer Retention Statistics, MarketingLTB Customer Retention Statistics, TridensТechnology Telecom Churn Report, InsuranceNewsNet Insurance Churn Trends 2026, Deloitte Digital Media Trends 2025.*
+`,
+  },
 
 ]
 
