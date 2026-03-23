@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-03-23T06:29:59.482Z",
-  "postsChecked": 182,
+  "generatedAt": "2026-03-23T10:33:10.074Z",
+  "postsChecked": 183,
   "issueCount": 0,
   "checked": [
+    {
+      "route": "/blog/influencer-marketing-roi-mikro-vs-makro-statistika-2026",
+      "serviceHits": 2,
+      "hasKontakt": true
+    },
     {
       "route": "/blog/cena-oglasavanja-na-drustvenim-mrezama-cpc-ctr-roi-po-platformi-2026",
       "serviceHits": 2,

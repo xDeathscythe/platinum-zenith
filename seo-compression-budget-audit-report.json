@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-03-23T06:29:54.380Z",
+  "generatedAt": "2026-03-23T10:33:04.811Z",
   "compressedChunkCount": 92,
-  "publicBlogCount": 237,
-  "blogDataBrotliBudgetKb": 403,
+  "publicBlogCount": 239,
+  "blogDataBrotliBudgetKb": 406,
   "checks": [
     {
       "label": "index JS (brotli)",
@@ -32,7 +32,7 @@
       "label": "blogData JS (brotli)",
       "file": "blogData-DXhhXHJz.js.br",
       "sizeKb": 336.33,
-      "maxKb": 403
+      "maxKb": 406
     },
     {
       "label": "main CSS (brotli)",

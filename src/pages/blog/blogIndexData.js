@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "prosecna-vrednost-porudzbine-aov-po-industriji-benchmark-statistika-2026",
+    "title": "Prosecna vrednost porudzbine (AOV) po industriji: benchmark podaci za 2025-2026",
+    "excerpt": "Kolika je prosecna vrednost narudzbine u e-commerce-u, modi, elektronici i food delivery-ju? Citirani benchmark podaci za 2025-2026, AOV po uredjaju i strategije za povecanje.",
+    "date": "2026-03-23",
+    "category": "CRO",
+    "readTime": "10 min",
+    "isDraft": false
+  },
+  {
     "slug": "influencer-marketing-roi-mikro-vs-makro-statistika-2026",
     "title": "Influencer marketing ROI: zasto mikro influenseri donose vise od velikih",
     "excerpt": "Statistike o influencer marketing ROI-ju 2025-2026. Mikro vs makro influenseri, cena po engagement-u, konverzija i kada se isplati koji tip saradnje.",
