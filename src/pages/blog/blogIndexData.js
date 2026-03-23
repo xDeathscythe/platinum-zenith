@@ -2125,5 +2125,14 @@ export const blogIndexPosts = [
     "category": "CRO",
     "readTime": "9 min",
     "isDraft": false
+  },
+  {
+    "slug": "customer-lifetime-value-clv-po-industriji-benchmark-statistika-2026",
+    "title": "Customer Lifetime Value (CLV) po industriji: benchmark podaci i statistika za 2025-2026",
+    "excerpt": "Kolika je prosecna vrednost klijenta po industriji, koji CLV:CAC odnos je zdrav i kako retencija pomera profit? Citirani benchmark podaci za 2025-2026.",
+    "date": "2026-03-23",
+    "category": "CRO",
+    "readTime": "10 min",
+    "isDraft": false
   }
 ]
