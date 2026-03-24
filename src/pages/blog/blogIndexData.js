@@ -3,6 +3,24 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "koliko-vremena-treba-za-seo-rezultate-po-konkurentnosti-2026",
+    "title": "Koliko vremena treba za SEO rezultate: rokovi po konkurentnosti kljucnih reci",
+    "excerpt": "Realni rokovi za SEO rezultate u 2025-2026. Koliko meseci treba za prvu stranicu za nisko, srednje i visoko konkurentne kljucne reci.",
+    "date": "2026-03-24",
+    "category": "SEO",
+    "readTime": "6 min",
+    "isDraft": false
+  },
+  {
+    "slug": "b2b-vs-b2c-marketing-razlike-u-brojevima-statistika-2026",
+    "title": "B2B vs B2C marketing u brojevima: prodajni ciklus, konverzija, kanali i budzet",
+    "excerpt": "Uporedna statistika B2B vs B2C marketinga 2025-2026. Sales cycle, konverzija, preferred kanali i marketing budzet kao procenat prihoda.",
+    "date": "2026-03-24",
+    "category": "Marketing",
+    "readTime": "7 min",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-smart-bidding-vs-manual-statistika-2026",
     "title": "Google Ads Smart Bidding vs rucno: koliko automatizacija zaista poboljsava rezultate",
     "excerpt": "Statistike o Google Ads Smart Bidding performansama 2025-2026. Target CPA vs Target ROAS, manual vs automated i koliko AI poboljsava konverzije.",

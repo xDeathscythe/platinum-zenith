@@ -1,5 +1,199 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'koliko-vremena-treba-za-seo-rezultate-po-konkurentnosti-2026',
+    title: 'Koliko vremena treba za SEO rezultate: rokovi po konkurentnosti kljucnih reci',
+    excerpt: 'Realni rokovi za SEO rezultate u 2025-2026. Koliko meseci treba za prvu stranicu za nisko, srednje i visoko konkurentne kljucne reci.',
+    date: '2026-03-24',
+    category: 'SEO',
+    readTime: '6 min',
+    content: `
+## "Koliko treba da prodje dok vidim rezultate?" — najcesce pitanje klijenta
+
+Svaki vlasnik firme koji razmislja o SEO investiciji pita isto pitanje. I zaslluzuje iskren odgovor: **4-12 meseci** zavisno od konkurentnosti, trenutnog stanja sajta i obima rada.
+
+Ovo nije marketing floskula. To su podaci iz istrazivanja na hiljade sajtova.
+
+Za SEO cene pogledajte [SEO optimizacija cena](/seo-optimizacija-cena). Za tehnicku pripremu pogledajte [on-page SEO checklistu](/blog/on-page-seo-checklista-srbija-2026).
+
+## Rokovi po konkurentnosti kljucnih reci
+
+### Nisko konkurentne reci (lokalni + nisa)
+
+**Primer:** "autoservis Zrenjanin", "frizerski salon Pancevo radno vreme"
+
+- **Vreme do prve stranice:** 2-4 meseca
+- **Vreme do top 3:** 3-6 meseci
+- **Zasto brzo:** Mala konkurencija, Google Business Profile igra veliku ulogu, lokalni signali (NAP, recenzije) brzo deluju
+
+Za lokalni SEO pogledajte [GBP optimizacija](/blog/google-business-profile-optimizacija-srbija-2026) i [lokalni citati vodic](/blog/lokalni-seo-citati-direktorijumi-srbija-2026).
+
+### Srednje konkurentne reci (industrija + grad)
+
+**Primer:** "stomatolog Beograd", "marketing agencija Novi Sad", "izrada sajta cena"
+
+- **Vreme do prve stranice:** 4-8 meseci
+- **Vreme do top 3:** 6-12 meseci
+- **Sta treba:** Solidan sadrzaj (10-20 blog postova), tehnicka optimizacija, 20-50 kvalitetnih backlink-ova
+
+### Visoko konkurentne reci (genericki termin)
+
+**Primer:** "SEO optimizacija", "digitalni marketing", "izrada web sajta"
+
+- **Vreme do prve stranice:** 8-18 meseci
+- **Vreme do top 3:** 12-24 meseca
+- **Sta treba:** 50+ stranica sadrzaja, 100+ kvalitetnih backlink-ova, jak domain authority, tehnicka perfektnost
+
+Za backlink strategiju pogledajte [backlink vodic](/blog/backlink-strategija-za-srpske-sajtove-2026).
+
+## Faktori koji ubrzavaju (ili usporavaju) rezultate
+
+### Ubrzavaju
+
+- **Postojeci domain authority** (sajt koji vec postoji 3+ godine raste brze od novog)
+- **Tehnicka ispravnost** (brz sajt, mobile-friendly, bez gresaka). Pogledajte [brzina sajta vodic](/blog/kako-brzina-sajta-utice-na-rangiranje-na-googlu-2026).
+- **Redovni sadrzaj** (1+ blog nedeljno drasticno ubrzava indeksiranje)
+- **Jak lokalni signal** (GBP sa 50+ recenzija za lokalne biznise)
+
+### Usporavaju
+
+- **Nov domen** (Google "sandbox" za nove domene: 3-6 meseci pre ozbiljnog rangiranja)
+- **Tehnicke greske** (spor sajt, broken linkovi, duplicate content)
+- **Neredovan sadrzaj** (1 blog mesecno je premalo za konkurentne termine)
+- **Google penalti** (link spam, thin content — moze trajati mesecima da se oporavi)
+
+## Tipicna SEO putanja za srpski biznis
+
+**Mesec 1-2:** Tehnicka optimizacija, keyword istrazivanje, content plan. Nema vidljivih promena u rangu.
+
+**Mesec 3-4:** Prvih 10-15 blog postova objavljeno. Pocetak indeksiranja. Neke long-tail reci pocivju da se pojavljuju na stranici 2-3.
+
+**Mesec 5-6:** Long-tail reci ulaze na prvu stranicu. Saobracaj pocinje da raste (obicno 50-100% u odnosu na mesec 1).
+
+**Mesec 7-9:** Srednje konkurentne reci ulaze na prvu stranicu. Saobracaj raste 200-400%. Pocinje generisanje lead-ova.
+
+**Mesec 10-12:** Jak rast za vecinu ciljanih reci. ROI postaje pozitivan. Saobracaj 500-1000% u odnosu na pocetak.
+
+**Godina 2+:** Compound efekat — svaki novi sadrzaj rangira brze jer sajt ima autoritet. Cena po poseti pada eksponencijalno.
+
+Za merenje rezultata pogledajte [Google Search Console vodic](/blog/google-search-console-vodic-za-pocetnike-srbija-2026) i [kako meriti ROI](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
+
+## Zasto firme odustaju prekasno (ili prerano)
+
+- **Prerano:** 60% firmi odustaje od SEO-a posle 3 meseca jer "ne vide rezultate". Ali rezultati dolaze u mesecu 5-6. Odustajanje u mesecu 3 je kao da trenirate za maraton 2 meseca i odustanete dan pre trke.
+- **Prekasno:** Neke firme nastavljaju sa neefektivnom SEO strategijom 12+ meseci bez merenja. Ako nema napretka posle 6 meseci, strategija treba reviziju — ne nuzno odustajanje.
+
+Za profesionalnu SEO strategiju sa realnim rokovima i merljivim ciljevima, javite se preko [kontakt forme](/kontakt).
+
+*Izvori: Ahrefs Time to Rank Study (2024), Backlinko First Page Ranking Factors (2024), First Page Sage SEO Timeline Data (2025), Search Engine Journal SEO ROI Guide (2025).*
+`
+  },
+  {
+    slug: 'b2b-vs-b2c-marketing-razlike-u-brojevima-statistika-2026',
+    title: 'B2B vs B2C marketing u brojevima: prodajni ciklus, konverzija, kanali i budzet',
+    excerpt: 'Uporedna statistika B2B vs B2C marketinga 2025-2026. Sales cycle, konverzija, preferred kanali i marketing budzet kao procenat prihoda.',
+    date: '2026-03-24',
+    category: 'Marketing',
+    readTime: '7 min',
+    content: `
+## B2B prodajni ciklus traje 10 meseci — B2C kupovina 10 sekundi
+
+Najveca razlika izmedju B2B i B2C marketinga nije u kanalima ni budzetima. Razlika je u **vremenu** koje kupac trosi na odluku. B2B kupac prolazi kroz 10 meseci istrazivanja, prezentacija i internih odobrenja. B2C kupac vidi reklamu na Instagramu i kupuje za 2 minuta.
+
+Ova fundamentalna razlika menja SVE: koji sadrzaj pravite, gde ga plasirate i koliko kosta da dobijete klijenta.
+
+Za B2B strategiju pogledajte [B2B prodaja vodic](/blog/b2b-prodaja-kako-zatvoriti-klijenta-srbija-2026). Za B2C pogledajte [social media strategija](/blog/social-media-strategija-za-male-firme-srbija-2026).
+
+## Prodajni ciklus: B2B vs B2C
+
+- **B2B prosecni ciklus (2025):** 10.1 meseci (pad sa 11.3 u 2024)
+- **B2B enterprise deals (100K+ USD):** 6-9+ meseci
+- **B2B software (mid-market):** 3-6 meseci
+- **Broj donosioca odluka u B2B (2025):** 25 stakeholdera prosecno (rast sa 16 u 2017!)
+- **B2B kupac:** Konzumira **13 komada sadrzaja** pre nego sto kontaktira prodavca
+- **60% B2B kupovina** se zavrsi na osnovu digitalnog sadrzaja bez licnog kontakta
+
+- **B2C prosecni ciklus:** Minuti do dana (zavisno od cene)
+- **B2C retail:** ~70 dana prosecno (za skuplje artikle)
+- **B2C impulzivna kupovina:** Sekunde
+
+## Konverzija po kanalu: B2B vs B2C
+
+| Metrika | B2B | B2C |
+|---------|-----|-----|
+| **Visitor → Lead** | 0.8-2.5% | 1.5-4% |
+| **Lead → MQL** | 20-40% | N/A (obicno nema MQL) |
+| **MQL → SQL** | 12-35% | N/A |
+| **SQL → Won** | 20-35% | N/A |
+| **Email konverzija** | 2.4% | 2.8% |
+| **Ukupna konverzija (web)** | 2-5% | 2-4% |
+
+**Kljucni uvid:** B2B ima nizu inicijalnu konverziju ali **mnogo veci lifetime value** po klijentu. Jedan B2B klijent moze da vredi koliko 100 B2C kupaca.
+
+Za konverzijske benchmark-e pogledajte [konverzija po industriji vodic](/blog/prosecna-stopa-konverzije-po-industriji-benchmark-statistika-2026).
+
+## Preferred kanali: gde B2B i B2C kupci provode vreme
+
+### B2B top kanali (2024-2025)
+
+1. **LinkedIn:** 89% B2B marketara koristi za lead gen, 84% ga smatra najvrednijim
+2. **Email:** 77% B2B kupaca preferira kontakt emailom, 83% marketara ga smatra kljucnim
+3. **SEO/Content:** Prosecni B2B kupac cita 13 sadrzaja pre odluke
+4. **Google Ads (Search):** 64% B2B marketara koristi PPC
+5. **Dogadjaji (in-person + virtual):** I dalje jak izvor lead-ova
+
+Za LinkedIn pogledajte [LinkedIn reklame vodic](/blog/linkedin-reklame-cena-b2b-marketing-srbija-2026).
+
+### B2C top kanali (2024-2025)
+
+1. **Social Media (Instagram, TikTok, Facebook):** 95% kompanija koristi, dual-purpose (brend + prodaja)
+2. **Email marketing:** Najvisi ROI za B2C (36:1+)
+3. **Paid social:** Najveci deo B2C budzeta
+4. **Kratki video:** Reels, TikTok, Shorts — dominira engagement
+5. **Influencer marketing:** Posebno mikro influenseri
+
+Za Instagram pogledajte [Instagram reklame cena](/instagram-reklame-cena).
+
+## Marketing budzet: procenat prihoda
+
+### B2B (2024-2025)
+
+- **Prosecni budzet:** 7.7-8.4% prihoda (pad sa 9.1% u 2023)
+- **Preporuka:** 2-5% za ustanovljene firme, 10-15% za rast
+- **Digitalni deo:** ~50% ukupnog budzeta
+- **Raspodela digitalnog:** Content (40-50%), Ads (30-40%), SEO (20-30%), Tech/Tools (10-15%)
+- **65% B2B marketara** ocekuje rast budzeta u 2025
+
+### B2C (2024-2025)
+
+- **Prosecni budzet:** 5.7-12% prihoda (visi od B2B!)
+- **Preporuka:** 5-10% za uspostavljene brendove, 15-25% za rast
+- **Raspodela:** Paid digital (25-35%), Social media (20%), Influencer (10-15%)
+- **86% B2C marketara** planira povecanje investicije u 2024
+
+Za marketing budzet benchmark-e pogledajte [koliko firme trose na marketing](/blog/koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026).
+
+## Sta ovo znaci za srpske firme
+
+### Ako ste B2B firma u Srbiji
+
+- Investirajte u **LinkedIn + email + content marketing** (blog, studije slucaja)
+- Ocekujte duzi sales cycle — budite strpljivi i konzistentni
+- Svaki lead je vredan — CPA od 100 EUR za klijenta od 10.000 EUR je sjajan deal
+- AI alati za personalizaciju su kljuc. Pogledajte [AI alati vodic](/blog/ai-alati-za-marketing-srbija-2026).
+
+### Ako ste B2C firma u Srbiji
+
+- Fokus na **social media + video + influensere** za awareness
+- **Email** za konverziju i retenciju (najvisi ROI)
+- Brzina je kljuc — od reklame do kupovine mora biti sto manje koraka
+- Investirajte u mobilno iskustvo (75%+ saobracaja). Pogledajte [mobilni dizajn vodic](/blog/mobilni-dizajn-sajta-srbija-2026).
+
+Za pomoc sa marketing strategijom javite se preko [kontakt forme](/kontakt). Za cene pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+*Izvori: Corporate Visions B2B Buying Behavior (2025), HubSpot Marketing Statistics (2025), Sellers Commerce B2B Statistics (2025), Gartner CMO Survey (2024), Forrester B2C Planning Guide (2024).*
+`
+  },
+  {
     slug: 'google-ads-smart-bidding-vs-manual-statistika-2026',
     title: 'Google Ads Smart Bidding vs rucno: koliko automatizacija zaista poboljsava rezultate',
     excerpt: 'Statistike o Google Ads Smart Bidding performansama 2025-2026. Target CPA vs Target ROAS, manual vs automated i koliko AI poboljsava konverzije.',
