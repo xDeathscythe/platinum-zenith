@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-roi-statistika-roas-po-industriji-srbija-2026",
+    "title": "Google Ads ROI: koliko zapravo zaradjujete na svaki ulozeni dinar (podaci po industriji)",
+    "excerpt": "Prosecni Google Ads ROI je 200%, ali ROAS varira od 0.7x u finansijama do 8x u pravnim uslugama. Benchmark podaci po industriji za 2025-2026.",
+    "date": "2026-03-24",
+    "category": "Marketing",
+    "readTime": "9 min",
+    "isDraft": false
+  },
+  {
     "slug": "kako-rasporediti-marketing-budzet-po-kanalima-statistika-2026",
     "title": "Kako rasporediti marketing budzet po kanalima u 2026 (B2B i B2C statistika)",
     "excerpt": "Gde firme zaista trose novac? Podaci o raspodeli marketing budzeta za 2025-2026. B2B vs B2C, digital vs traditional, i 70/20/10 pravilo alokacije.",
