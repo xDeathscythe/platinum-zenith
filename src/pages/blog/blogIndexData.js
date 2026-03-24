@@ -2332,5 +2332,14 @@ export const blogIndexPosts = [
     "category": "Statistika",
     "readTime": 8,
     "isDraft": false
+  },
+  {
+    "slug": "ab-testiranje-cro-konverzije-statistika-koliko-testova-treba-2026",
+    "title": "A/B testiranje i CRO: koliko testova treba za rast konverzija u 2026",
+    "excerpt": "Samo 1 od 8 A/B testova daje pobednika, ali pobednicki testovi podizu konverzije za 61%. CRO alati donose 223% ROI. Evo statistika koje menjaju pristup optimizaciji.",
+    "date": "2026-03-24",
+    "category": "Statistika",
+    "readTime": 7,
+    "isDraft": false
   }
 ]
