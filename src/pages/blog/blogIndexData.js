@@ -2215,5 +2215,14 @@ export const blogIndexPosts = [
     "category": "Marketing",
     "readTime": "10 min",
     "isDraft": false
+  },
+  {
+    "slug": "youtube-ads-cpv-ctr-view-rate-konverzija-po-industriji-benchmark-2026",
+    "title": "YouTube Ads CPV, CTR, view rate i konverzija po industriji: benchmark podaci za 2025-2026",
+    "excerpt": "Koliko kosta pregled YouTube reklame, kakav je CTR i view rate po industriji, koji format donosi najbolji ROI? Citirani benchmark podaci za 2025.",
+    "date": "2026-03-24",
+    "category": "Marketing",
+    "readTime": "11 min",
+    "isDraft": false
   }
 ]

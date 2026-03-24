@@ -27595,6 +27595,178 @@ Za pomoc oko pokretanja ili optimizacije vasih LinkedIn kampanja, [kontaktirajte
 `,
   },
 
+  {
+    slug: 'youtube-ads-cpv-ctr-view-rate-konverzija-po-industriji-benchmark-2026',
+    title: 'YouTube Ads CPV, CTR, view rate i konverzija po industriji: benchmark podaci za 2025-2026',
+    excerpt: 'Koliko kosta pregled YouTube reklame, kakav je CTR i view rate po industriji, koji format donosi najbolji ROI? Citirani benchmark podaci za 2025.',
+    date: '2026-03-24',
+    category: 'Marketing',
+    readTime: '11 min',
+    content: `
+## YouTube je treca najveca reklamna platforma — a po ceni pregleda daleko najjeftinija
+
+Sa prosecnim CPV-om od **$0.026** i preko **2.5 milijarde aktivnih korisnika mesecno**, YouTube nudi nesto sto ni Facebook ni Google Search ne mogu: video format uz targeting preciznost Google ekosistema. Prosecni CPM od **$3.50** cini ga atraktivnim za brendove kojima je video kljucan za prodaju.
+
+Za poredjenje sa drugim platformama pogledajte [Facebook Ads benchmark po industriji](/blog/facebook-ads-cpc-ctr-konverzija-cpl-po-industriji-benchmark-2026), [Google Ads benchmark po industriji](/blog/google-ads-cpc-ctr-konverzija-po-industriji-benchmark-2026) i [LinkedIn Ads benchmark po industriji](/blog/linkedin-ads-cpc-ctr-konverzija-cpl-po-industriji-benchmark-2026).
+
+## Prosecni CPV, CTR, view rate i konverzija na YouTube-u (2025)
+
+| Metrika | Prosek | Raspon |
+|---------|--------|--------|
+| CPV (cost per view) | $0.026 | $0.01 - $0.10 |
+| CPM (cost per 1.000 prikaza) | $3.50 | $3.24 - $10.00 |
+| CPC (cost per click) | $0.49 | $0.10 - $0.65 |
+| CTR (click-through rate) | 0.65% | 0.31% - 1.00% |
+| View rate (stopa gledanja) | 31.9% | 15.7% - 35.4% |
+| Konverzija (e-commerce) | 0.05% - 0.50% | do 1.8% za optimizovane kampanje |
+| Konverzija (lead generation) | 0.50% | do 1.5% sa Lead Forms |
+| ROAS (prosek) | 4.5:1 | 2:1 - 8:1 |
+
+YouTube je pre svega **top-of-funnel kanal** — direktne konverzije su nize nego na Search-u ili Meta Ads, ali **view-through konverzije** (korisnik gleda reklamu pa konvertuje kasnije) cine pravu vrednost platforme.
+
+## CTR po industriji
+
+| Industrija | Prosecni CTR |
+|-----------|-------------|
+| Igracke (Toys) | 1.00% |
+| Gaming | 0.90% |
+| Retail i e-commerce | 0.84% |
+| Turizam i putovanja | 0.78% |
+| Automobilska industrija | 0.65% |
+| Edukacija | 0.56% |
+| Zdravstvo i osiguranje | 0.45% |
+| Lepota i kozmetika | 0.44% |
+| Zabava (Entertainment) | 0.43% |
+| Moda (Fashion) | 0.40% |
+| Finansije i bankarstvo | 0.31% |
+| Tehnologija (B2B) | 0.31% |
+
+Industrije sa vizuelno privlacnim proizvodima (igracke, gaming, retail) imaju najvisi CTR. Finansije i B2B tech imaju najnizi CTR jer je YouTube prirodno manje pogodan za suvoparnu B2B ponudu — ali to ne znaci da ne radi, samo da je pristup drugaciji.
+
+## View rate po industriji
+
+| Industrija | Prosecni view rate |
+|-----------|-------------------|
+| Edukacija | 35.4% |
+| Automobilska industrija | 35.4% |
+| Finansije i osiguranje | 35.4% |
+| Moda (Fashion) | 32.0% |
+| Telekomunikacije | 31.9% |
+| Beba i nega dece | 31.2% |
+| Zdravstvo i osiguranje | 31.2% |
+| Igracke (Toys) | 31.0% |
+| Kucni aparati | 30.7% |
+| Zabava (Entertainment) | 30.2% |
+| Restorani | 29.7% |
+| Lepota i kozmetika | 29.6% |
+| Turizam i putovanja | 29.6% |
+| Retail i e-commerce | 15.7% |
+
+Edukacija, auto industrija i finansije imaju **najvisi view rate (35.4%)** — korisnici gledaju duze jer je sadrzaj informativan i relevantan. Retail ima **najnizi view rate (15.7%)** jer korisnici brzo skipuju reklame za proizvode koje vec poznaju.
+
+**Zanimljiv kontrast:** Retail ima najvisi CTR (0.84%) ali najnizi view rate. Ljudi ne gledaju celu reklamu, ali cim vide proizvod koji ih zanima — kliknu. Za razliku, edukacija ima nizak CTR ali najvisi view rate: ljudi gledaju ali ne kliknu odmah.
+
+## CPV po industriji
+
+| Industrija | Prosecni CPV | Relativni nivo |
+|-----------|-------------|---------------|
+| Zdravstvo i osiguranje | $0.071 | Najvisi |
+| Automobilska industrija | $0.058 | Visok |
+| Finansije i osiguranje | $0.048 | Visok |
+| Turizam i putovanja | $0.047 | Srednji |
+| Retail i e-commerce | $0.045 | Srednji |
+| Tehnologija | $0.038 | Srednji |
+| Edukacija | $0.037 | Nizak |
+| Zabava (Entertainment) | $0.035 | Nizak |
+| Lepota i kozmetika | $0.034 | Nizak |
+
+Zdravstvo i osiguranje imaju **daleko najvisi CPV ($0.071)** — regulativa i specifican targeting dizu cenu. Lepota i zabava su najjeftiniji kanali za doseg jer imaju siroku, manje konkurentnu publiku.
+
+## Benchmark po formatu reklame
+
+| Format | Trajanje | Model naplate | Prosecna cena | CTR | Completion rate |
+|--------|----------|--------------|---------------|-----|----------------|
+| Skippable In-Stream (TrueView) | 15s - 3min | CPV | $0.02-$0.10 CPV | 0.5% - 2.0% | ~30% |
+| Non-Skippable In-Stream | 15-20s | CPM | $6-$10 CPM | <0.3% | 100% |
+| Bumper Ads | 6s | CPM | $3.24-$4.37 CPM | <0.1% | 100% |
+| YouTube Shorts | 6-60s | CPV/CPM | $0.10-$0.30 CPV | 0.3% - 0.8% | 60-80% |
+| Discovery/In-Feed | Thumbnail + naslov | CPC | $0.10-$0.30 CPC | 0.5% - 1.5% | N/A |
+
+**Skippable In-Stream** je daleko najpopularniji format jer placate samo kad neko stvarno pogleda vasu reklamu (30s+ ili interakcija). **Bumper Ads** su najjeftiniji po 1.000 prikaza — idealni za brand recall kampanje sa kratkom porukom.
+
+**Non-Skippable** garantuje kompletno gledanje, ali ima najnizi CTR jer korisnici cekaju da prodje reklama umesto da aktivno kliknu. Koristite ih kad je poruka bitna sama po sebi, ne kad trazite klik.
+
+## YouTube vs Facebook vs Google: poredjenje troskova
+
+| Metrika | YouTube | Facebook | Google Search |
+|---------|---------|----------|--------------|
+| Prosecni CPC | $0.49 | $0.70 (traffic) | $5.26 |
+| Prosecni CPM | $3.50 | $5-$15 | N/A |
+| CTR | 0.65% | 1.71% | 6.66% |
+| Konverzija | 0.05-0.50% | 7.72% | 7.52% |
+| ROAS | 4.5:1 | 4.87:1 | 5.17:1 |
+| Najbolje za | Awareness, video branding | Sirokopaletni performance | Search intent, direktna kupovina |
+
+YouTube ima **najnizu cenu po 1.000 prikaza** od svih velikih platformi. Ali konverzija je najniza jer je to pre svega awareness kanal. Kombinacija YouTube (awareness) + Google Search (conversion) + Facebook (retargeting) je najjaci full-funnel pristup.
+
+Za detaljno poredjenje Google i Facebook troskova pogledajte [Google Ads vs Facebook Ads: koji je bolji](/blog/google-ads-vs-facebook-ads-koji-je-bolji) i [ROAS po industriji i platformi](/blog/roas-po-industriji-i-platformi-benchmark-statistika-2026).
+
+## Preporuke za mesecni budzet
+
+| Velicina biznisa | Mesecni budzet | Preporucen pristup |
+|-----------------|----------------|-------------------|
+| Mali biznis / testiranje | $300 - $1.000 | Skippable In-Stream, usko targetiranje, 1-2 kreativa |
+| Rastuca firma | $1.000 - $5.000 | Mix Skippable + Bumper, A/B testiranje, retargeting |
+| Srednja firma | $5.000 - $25.000 | Full-funnel (Bumper za reach + Skippable za engagement + Discovery za intent) |
+| Enterprise / lanciranje | $25.000+ | Masthead + Non-Skippable + Demand Gen kampanje |
+
+**Minimum za smisleno testiranje:** $500 mesecno tokom 60-90 dana. Ispod toga nemate dovoljno podataka za optimizaciju.
+
+## YouTube Shorts Ads — novi igrac
+
+YouTube Shorts imaju **2 milijarde dnevnih pregleda** i postaju kljucan format za oglasavanje. Benchmark podaci za Shorts Ads (2025):
+
+| Metrika | Prosek |
+|---------|--------|
+| CPV | $0.10 - $0.30 |
+| CTR | 0.3% - 0.8% |
+| View rate | 60% - 80% |
+| CPM | $5 - $12 |
+
+Shorts su skuplji po pregledu od standardnih In-Stream reklama, ali imaju **2x visi view rate** jer je format prirodniji za mobilne korisnike. Za e-commerce i DTC brendove koji vec imaju kratki video sadrzaj (reels, TikTok), Shorts su logican sledeci korak.
+
+## Kljucni trendovi za 2025-2026
+
+**Demand Gen zamenjuje Video Action Campaigns.** Od septembra 2025, Google automatski prebacuje stare Video Action kampanje u Demand Gen format koji pokriva YouTube + Discover + Gmail + Display Network. Siri reach, ali manje kontrole nad plasmanom.
+
+**AI kreativ postaje standard.** YouTube sada automatski generise varijante reklama, trimuje dugacke videe u krace verzije za Shorts i testira thumbnail-ove. Brendovi koji koriste AI kreativ alate izvestavaju o **15-20% nizi CPV**.
+
+**Connected TV (CTV) raste.** Preko 45% YouTube gledanja se desava na TV ekranima. Non-Skippable i Bumper Ads na CTV imaju **90%+ completion rate** i premium CPM-ove ($15-$25).
+
+**View-through attribution postaje kriticna.** Vecina YouTube konverzija se ne desava kroz direktan klik. Google Enhanced Conversions i Data-Driven Attribution modeli hvataju konverzije koje se desavaju 7-30 dana posle gledanja reklame.
+
+**CPV blago raste.** Godisnji rast CPV-a je oko **5-8%** jer sve vise brendova ulazi na platformu. Ipak, YouTube ostaje najjeftiniji video kanal po pregledu u poredjenju sa Meta ($0.10-$0.30) i TikTok ($0.02-$0.10 CPV, ali visi CPM).
+
+## Sta ovo znaci za vas biznis
+
+**Ako prodajete vizuelne proizvode** (moda, hrana, lepota, namestaj): YouTube je idealan jer mozete pokazati proizvod u akciji. Fokusirajte se na Skippable In-Stream (prvih 5 sekundi su kriticne) i Shorts Ads za remarketing.
+
+**Ako ste B2B ili SaaS firma:** YouTube nije primarni performance kanal, ali jeste kljucan za brand building. Koristite edukativne videe (how-to, case study) kao Skippable In-Stream i targetirajte po Custom Intent (bazirano na Google pretragama vasih potencijalnih klijenata).
+
+**Ako imate ogranicen budzet:** Krenite sa **Bumper Ads za reach** (najnizi CPM od $3.24) + **Skippable In-Stream za engagement** (najnizi CPV od $0.02). Ne koristite Non-Skippable dok nemate proveren kreativ.
+
+**Ako ste e-commerce u Srbiji:** YouTube reklame su znacajno jeftinije na srpskom trzistu nego u SAD. Prosecni CPV za region je **50-70% nizi** od globalnog proseka. Kombinirajte YouTube awareness sa [Google Search kampanjama](/google-reklame-cena) za zatvaranje prodaje.
+
+**Za lokalne biznise:** YouTube je odlican za restorane, salone, fitnes centre — svako ko moze da pokaze atmosferu prostora ili rezultate rada. [Lokalni SEO](/blog/lokalni-seo-near-me-pretrage-statistika-konverzije-2026) + YouTube daju najjaci lokalni efekat.
+
+Za pomoc oko pokretanja ili optimizacije vasih YouTube kampanja, [kontaktirajte nas](/kontakt).
+
+---
+
+*Izvori: StoreGrowers YouTube Ads Benchmarks 2025 (CPV, CTR, view rate po industriji), MegaDigital YouTube Ad Benchmarks 2026, AdOutreach YouTube Ads 2026 Playbook, MarketingLTB YouTube Ads Statistics 2025, AWiSee YouTube Ad Benchmarks, QuimbyDigital YouTube Ads Cost Guide 2025, AdBacklog YouTube Ads Benchmarks Per Industry 2025, StrikeSocial YouTube Advertising Cost, SocialPulseStats Social Media Advertising Statistics 2025, Triple Whale ROAS Benchmarks 2025, Focus Digital Google Ads ROAS.*
+`,
+  },
+
 ]
 
 const seenSlugs = new Set()
