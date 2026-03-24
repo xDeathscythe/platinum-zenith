@@ -1,5 +1,111 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'google-ads-smart-bidding-vs-manual-statistika-2026',
+    title: 'Google Ads Smart Bidding vs rucno: koliko automatizacija zaista poboljsava rezultate',
+    excerpt: 'Statistike o Google Ads Smart Bidding performansama 2025-2026. Target CPA vs Target ROAS, manual vs automated i koliko AI poboljsava konverzije.',
+    date: '2026-03-24',
+    category: 'Google Ads',
+    readTime: '7 min',
+    content: `
+## 80% oglasivaca vec koristi automatsko licitiranje — a ostali gube novac
+
+U 2025. godini, **vise od 80% Google Ads oglasivaca** koristi neku formu automatskog licitiranja (Smart Bidding). Razlog je jednostavan: AI optimizuje licitacije u realnom vremenu, analizirajuci stotine signala koje ljudski mozak ne moze da procesira.
+
+Firme koje koriste AI-based optimizaciju beleeze **25% vise konverzija** i **20% efikasniji CPA**. A rucno upravljani nalozi, cak i sa Smart Bidding-om aktivnim, propustaju **35-50% potencijalnog ucinaka** (Amanda AI istrazivanje 2025).
+
+Za pregled Google Ads troskova pogledajte [Google reklame cena](/google-reklame-cena). Za Quality Score optimizaciju pogledajte [Quality Score vodic](/blog/google-ads-quality-score-vodic-srbija-2026).
+
+## Smart Bidding performanse: konkretni brojevi
+
+### Generalni podaci (2024-2025 benchmark)
+
+- **CTR prosek:** Porastao za 3.74% god-za-god
+- **CPC prosek:** Porastao za 12.88% (konkurencija raste)
+- **Konverzija (CVR):** Poboljsana za 6.84% 
+- **CPL (Cost Per Lead):** Porastao na 70.11 USD (sa 66.69 USD — rast od 5.13%)
+- **Smart Bidding smanjuje CPA** za do **30%** u odnosu na rucno licitiranje
+
+### Autonomni AI vs rucno upravljanje (Amanda AI studija)
+
+Najzanimljivija studija iz 2025. uporedila je potpuno autonomnu AI optimizaciju sa rucnim upravljanjem Smart Bidding kampanjama:
+
+**Target CPA nalozi (autonomni AI):**
+- Stvarni CPA bio **18% ispod targeta** (AI je nadmasio cilj)
+- **46% vise konverzija** nego rucno upravljani nalozi
+- **97% iskoristenje budzeta** (rucno: obicno 70-80%)
+
+**Autonomni AI vs manual (generalno):**
+- AI donosi **40-65% bolje rezultate** za i Target CPA i Target ROAS
+- **71% rucno upravljanih naloga** koristi samo 50-65% potencijala cak i kad ima Smart Bidding ukljucen
+
+## Target CPA vs Target ROAS: koji izabrati
+
+### Target CPA (cena po akviziciji)
+
+**Za koga:** Lead generation, usluzne firme, biznisi sa konzistentnom vrednoscu konverzije.
+
+**Kako radi:** Postavite ciljani CPA (npr. 50 EUR) i Google optimizuje licitacije da maksimizuje konverzije na toj ceni.
+
+**Performanse:**
+- Bolji za **46% naloga** (Groas.ai istrazivanje)
+- Idealan kad imate jednu vrstu konverzije (form, poziv, preuzimanje)
+- Minimum: **30 konverzija mesecno** za efikasno ucenje algoritma
+
+### Target ROAS (povrat na potrosnju za reklame)
+
+**Za koga:** E-commerce, webshopovi sa razlicitim cenama proizvoda, biznisi koji mere prihod po kliku.
+
+**Kako radi:** Postavite ciljani ROAS (npr. 400% = 4 EUR prihoda za svaki 1 EUR potrosnje) i Google optimizuje za maksimizaciju prihoda.
+
+**Performanse:**
+- Bolji za **54% naloga** (isti izvor)
+- Za e-commerce sa katalogom: **31% bolje performanse** od Target CPA
+- Prelazak sa Target CPA na Target ROAS donosi **14% vise vrednosti konverzija**
+
+### Maximize Conversions
+
+**Za koga:** Pocetak kampanje, testiranje, kad nemate dovoljno podataka za Target CPA/ROAS.
+
+**Kako radi:** Google trosi ceo budzet pokusavajuci da maksimizuje broj konverzija bez cenovnog targeta.
+
+**Performanse:** 
+- PMax kampanje sa Maximize Conversions: +1% ROAS god-za-god (Q3 2024)
+- Dobar za volume ali manje kontrole nad cenom po konverziji
+
+## Kada rucno licitiranje i dalje ima smisla
+
+### 1) Novi nalozi bez podataka
+
+Ako nemate 30 konverzija mesecno, Smart Bidding nema dovoljno podataka za ucenje. Pocnite rucno, prikupite podatke 2-4 nedelje, pa predjite na automatsko.
+
+### 2) Veoma mala nisa
+
+Za ultra-specificne kljucne reci sa malom pretragom (10-50 mesecno), AI algoritam nema dovoljno signala. Rucna kontrola daje bolje rezultate.
+
+### 3) Limitiran budzet (ispod 300 EUR mesecno)
+
+Sa malim budzetom, svaki klik je vazan. Rucna kontrola vam daje preciznost da birate gde tacno ide svaki evro.
+
+### 4) Ucenje i razumevanje
+
+Ako tek pocinjete sa Google Ads-om, rucno licitiranje vas uci kako sistem funkcionise. Preskocite na automatsko tek kad razumete osnove.
+
+## Kako precu na Smart Bidding: 4 koraka
+
+**Korak 1:** Postavite conversion tracking (obavezno pre bilo kakvog Smart Bidding-a). Za setup pogledajte [GA4 vodic](/blog/google-analytics-4-vodic-za-pocetnike-srbija-2026).
+
+**Korak 2:** Pocnite sa Maximize Conversions (bez targeta) da Google prikupi podatke (2-4 nedelje).
+
+**Korak 3:** Kad imate 30+ konverzija mesecno, predjite na Target CPA (za lead gen) ili Target ROAS (za e-commerce).
+
+**Korak 4:** Sacekajte learning period (7-14 dana) bez menjanja budzeta ili targeta. AI treba vremena da se prilagodi.
+
+Za profesionalno vodjenje Google Ads kampanja i Smart Bidding optimizaciju, javite se preko [kontakt forme](/kontakt). Za PMax kampanje pogledajte [Performance Max vodic](/blog/google-ads-performance-max-srbija-2026).
+
+*Izvori: Amanda AI Autonomous Optimization Study (2025), WordStream Google Ads Benchmarks (2025), Groas.ai Target ROAS vs CPA Study (2025), Code3 Search Ads Trends (2025), Impulse Analytics Bidding Strategy Comparison (2025).*
+`
+  },
+  {
     slug: 'seo-vs-ppc-uporedna-statistika-konverzija-cena-roi-2026',
     title: 'SEO vs PPC u brojevima: konverzija, cena i ROI — sta se zaista isplati',
     excerpt: 'Uporedna statistika SEO vs PPC u 2025-2026. Organski vs placeni saobracaj po konverziji, ceni, CTR-u i dugorocnom ROI-ju sa citiranim izvorima.',

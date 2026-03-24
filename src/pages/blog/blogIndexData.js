@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-smart-bidding-vs-manual-statistika-2026",
+    "title": "Google Ads Smart Bidding vs rucno: koliko automatizacija zaista poboljsava rezultate",
+    "excerpt": "Statistike o Google Ads Smart Bidding performansama 2025-2026. Target CPA vs Target ROAS, manual vs automated i koliko AI poboljsava konverzije.",
+    "date": "2026-03-24",
+    "category": "Google Ads",
+    "readTime": "7 min",
+    "isDraft": false
+  },
+  {
     "slug": "seo-vs-ppc-uporedna-statistika-konverzija-cena-roi-2026",
     "title": "SEO vs PPC u brojevima: konverzija, cena i ROI — sta se zaista isplati",
     "excerpt": "Uporedna statistika SEO vs PPC u 2025-2026. Organski vs placeni saobracaj po konverziji, ceni, CTR-u i dugorocnom ROI-ju sa citiranim izvorima.",
