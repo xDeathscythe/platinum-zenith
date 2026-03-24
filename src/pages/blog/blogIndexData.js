@@ -2341,5 +2341,14 @@ export const blogIndexPosts = [
     "category": "Statistika",
     "readTime": 7,
     "isDraft": false
+  },
+  {
+    "slug": "tiktok-ads-cpc-ctr-konverzija-cpm-po-industriji-benchmark-2026",
+    "title": "TikTok Ads CPC, CTR, konverzija i CPM po industriji: benchmark podaci za 2025-2026",
+    "excerpt": "Koliko kosta klik na TikToku, kakav je CTR i konverzija po industriji, kako se TikTok poredi sa Facebook i Google? Citirani benchmark podaci za 2025.",
+    "date": "2026-03-24",
+    "category": "Marketing",
+    "readTime": "12 min",
+    "isDraft": false
   }
 ]

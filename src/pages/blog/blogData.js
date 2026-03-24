@@ -29268,6 +29268,242 @@ Za pomoc oko pokretanja ili optimizacije vasih YouTube kampanja, [kontaktirajte 
       "mainEntityOfPage": "https://platinumzenith.com/blog/ab-testiranje-cro-konverzije-statistika-koliko-testova-treba-2026"
     }
   },
+
+  {
+    slug: 'tiktok-ads-cpc-ctr-konverzija-cpm-po-industriji-benchmark-2026',
+    title: 'TikTok Ads CPC, CTR, konverzija i CPM po industriji: benchmark podaci za 2025-2026',
+    excerpt: 'Koliko kosta klik na TikToku, kakav je CTR i konverzija po industriji, kako se TikTok poredi sa Facebook i Google? Citirani benchmark podaci za 2025.',
+    date: '2026-03-24',
+    category: 'Marketing',
+    readTime: '12 min',
+    content: `
+## TikTok je najbrze rastuca reklamna platforma — i jos uvek najjeftinija po kliku
+
+Sa **1.92 milijarde mesecno aktivnih korisnika** i prosecnim CPC-om od **$0.50** (medijan), TikTok nudi najnizi ulaz u placeno oglasavanje od svih velikih platformi. CPC je **30% nizi od Meta Ads** i do **10x nizi od Google Search**. Ali nize cene ne znace automatski bolji ROI — sve zavisi od kreative, industrije i cilja kampanje.
+
+Za poredjenje sa drugim platformama pogledajte [Facebook Ads benchmark po industriji](/blog/facebook-ads-cpc-ctr-konverzija-cpl-po-industriji-benchmark-2026), [Google Ads benchmark po industriji](/blog/google-ads-cpc-ctr-konverzija-po-industriji-benchmark-2026), [LinkedIn Ads benchmark po industriji](/blog/linkedin-ads-cpc-ctr-konverzija-cpl-po-industriji-benchmark-2026) i [YouTube Ads benchmark po industriji](/blog/youtube-ads-cpv-ctr-view-rate-konverzija-po-industriji-benchmark-2026).
+
+## Prosecni CPC, CTR, konverzija i CPM na TikToku (2025)
+
+| Metrika | Prosek | Raspon |
+|---------|--------|--------|
+| CPC (cost per click) | $0.50 (medijan) | $0.20 - $2.00 |
+| CTR (click-through rate) | 0.84% | 0.38% - 1.50% |
+| Konverzija (standardne kampanje) | 0.46% - 1.92% | do 2.4% optimizovane |
+| Konverzija (TikTok Shop) | 2% - 5% | LIVE shopping do 12% |
+| CPM (cost per 1.000 prikaza) | $6.16 | $3.00 - $15.00 |
+| ROAS (prosek) | 1.7x | do 3.5x (lepota), 11x (optimizovane) |
+| Minimalni budzet (kampanja) | $500 ukupno | $50/dan kampanja, $20/dan ad group |
+
+TikTok algoritam nagradjuje **autentican, native sadrzaj** — reklame koje izgledaju kao organski TikTok video dobijaju nize CPM-ove i visi engagement. "Make TikToks, not ads" nije samo slogan, vec bukvalan savet za optimizaciju troskova.
+
+## CPC po industriji
+
+| Industrija | Prosecni CPC | Napomena |
+|-----------|-------------|----------|
+| E-commerce | $0.40 - $0.80 | Najjeftiniji klik — vizuelni proizvodi dominiraju |
+| Lepota i licna nega | $0.50 - $0.90 | TikTok je #1 platforma za beauty brendove |
+| Hrana i pice | $0.60 - $1.20 | Food content je organsko zlato na TikToku |
+| Turizam i putovanja | $0.80 - $1.50 | Raste brzo, vizuelno privlacan sadrzaj |
+| Retail (opsti) | $0.90 - $1.95 | Siri spektar, zavisi od proizvoda |
+| Tehnologija i gadgeti | $1.00 - $2.50 | Visi CPC jer je publika manja i specificnija |
+| Finansije i osiguranje | $1.50 - $3.20 | Najskuplji CPC — regulativa i konkurencija |
+| SaaS i B2B | $1.00 - $2.50 | TikTok nije prirodan B2B kanal, ali raste |
+
+### Kljucna razlika od drugih platformi
+
+Na Facebooku i Google-u, CPC po industriji odrazava **intent i konkurenciju za kljucne reci**. Na TikToku, CPC vise zavisi od **kvaliteta kreative i engagementa** nego od industrije. Sjajan kreativ u skupoj industriji moze dobiti CPC ispod $0.50, dok losa reklama u jeftinoj nisi moze kostati $2+.
+
+## CTR po industriji
+
+| Industrija | Prosecni CTR |
+|-----------|-------------|
+| Lepota i kozmetika | 1.0% - 1.5% |
+| E-commerce | 0.9% - 1.2% |
+| Hrana i pice | ~0.42% |
+| Turizam i putovanja | ~0.40% |
+| Retail (opsti) | ~0.46% |
+| Tehnologija i gadgeti | ~0.38% |
+| Finansije i osiguranje | ~0.40% |
+
+Lepota i e-commerce imaju ubedljivo najvisi CTR jer su to kategorije gde TikTok korisnici **aktivno traze inspiraciju za kupovinu**. Prema Shopify podacima, **44% TikTok korisnika** je kupilo proizvod koji su videli na platformi.
+
+### CTR po formatu reklame
+
+| Format | Prosecni CTR | Kada koristiti |
+|--------|-------------|---------------|
+| Spark Ads (boosted organski post) | 2.0% - 3.0%+ | Najvisji CTR — koristite organski viralni sadrzaj |
+| TopView (prva reklama pri otvaranju) | ~14% | Masivni doseg, premium cena |
+| In-Feed Ads (standardni) | 0.5% - 1.5% | Najcesci format, skalabilan |
+| Collection Ads | 0.6% - 1.0% | E-commerce sa direktnim linkom na proizvode |
+| Branded Hashtag Challenge | 3% - 8% engagement | Brand awareness, UGC generisanje |
+
+**Spark Ads** su TikTok-ov najjaci format po CTR-u jer koristite vec testiran organski sadrzaj koji je vec pokazao da radi. Platforma favorizuje sadrzaj koji je vec dobio engagement signale.
+
+## Konverzija po industriji
+
+| Industrija | Prosecni CVR | Napomena |
+|-----------|-------------|----------|
+| Hrana i pice | ~0.7% | Impulzivne kupovine, nizi AOV |
+| Lepota i kozmetika | ~0.6% | TikTok-to-purchase pipeline je najjaci ovde |
+| Retail i e-commerce | ~0.6% | Zavisi od cene proizvoda |
+| Tehnologija i gadgeti | ~0.5% | Duzi decision cycle |
+| Turizam i putovanja | ~0.5% | Inspiracija → bookiranje |
+| Finansije i osiguranje | ~0.4% | Najniza konverzija — kompleksan proizvod |
+
+### TikTok Shop: game changer za konverzije
+
+TikTok Shop menja pravila igre za e-commerce jer omogucava **kupovinu bez napustanja aplikacije**. In-app checkout drasticno smanjuje trenje:
+
+| TikTok Shop format | Konverzija |
+|---------------------|-----------|
+| LIVE Shopping | 8% - 12% |
+| Short-form Video (product link) | 2% - 4% |
+| Shop Tab (browsing) | 1.5% - 3% |
+| Standardne TikTok Ads (eksterni link) | 0.46% - 1.92% |
+
+LIVE Shopping konverzija od **8-12%** je uporediva sa najboljim email kampanjama i daleko nadmasuje bilo koji drugi social ads format. Za poredjenje, [Facebook Ads konverzija](/blog/facebook-ads-cpc-ctr-konverzija-cpl-po-industriji-benchmark-2026) je prosecno 7.72%, ali to je za lead forme — ne za direktnu prodaju.
+
+## CPM po industriji i sezoni
+
+| Period | Prosecni CPM |
+|--------|-------------|
+| Prosek 2025 | $6.16 |
+| Q1 (januar-mart) | $4.00 - $5.50 |
+| Q2 (april-jun) | $5.00 - $7.00 |
+| Q3 (jul-septembar) | $5.50 - $8.00 |
+| Q4 (oktobar-decembar) | $8.00 - $15.00 |
+| Black Friday nedelja | $6.89 - $10.00+ |
+
+TikTok CPM raste **50-100% u Q4** zbog pojacane konkurencije za holiday sezonu. Ako je vas budzet ogranicen, Q1 (januar-mart) je idealan period za testiranje — CPM-ovi su najnizi, a publika je "sveza" posle praznickog zasicenja reklamama.
+
+### CPM po regionu (2025)
+
+| Region | Prosecni CPM |
+|--------|-------------|
+| SAD | $10 - $20 |
+| Zapadna Evropa | $8 - $15 |
+| Istocna Evropa (ukljucujuci Srbiju) | $3 - $6 |
+| APAC | $2 - $5 |
+| LATAM | $1.50 - $4 |
+
+**Srbija i region spadaju u najjeftinije trziste** za TikTok oglasavanje u Evropi. Sa CPM-om od $3-$6, lokalni brendovi mogu dobiti znacajan doseg za relativno mali budzet.
+
+## ROAS po industriji
+
+| Industrija | Prosecni ROAS | Napomena |
+|-----------|-------------|----------|
+| Lepota i licna nega | 3.5x | Najvisi — #1 kategorija na TikToku |
+| Moda i aksesoari | 2.8x | Vizuelni proizvodi, influencer efekat |
+| Zabava i mediji | 2.5x | Lak za viralnost |
+| E-commerce (opsti) | 1.7x - 2.5x | Zavisi od AOV i kreative |
+| Finansije i B2B usluge | 1.2x - 1.5x | Najnizi — TikTok nije prirodan B2B kanal |
+
+Za detaljnije poredjenje ROAS-a po platformi pogledajte [ROAS po industriji i platformi](/blog/roas-po-industriji-i-platformi-benchmark-statistika-2026). AI optimizacija targetiranja na TikToku podize ROAS za prosecno **20%** prema TikTok Business podacima.
+
+## Engagement rate po industriji (organski + paid)
+
+TikTok ima **daleko najvisi engagement rate od svih platformi** — medijana od 1.73% u 2025 (za poredjenje, Instagram je pao na 0.50%, Facebook na 0.15%). Za detaljnu uporedbu pogledajte [engagement rate po platformi](/blog/engagement-rate-po-platformi-instagram-tiktok-linkedin-2026).
+
+| Industrija | Engagement rate |
+|-----------|----------------|
+| Vise obrazovanje (Higher Ed) | 7.36% |
+| Neprofitne organizacije | 3.04% |
+| Turizam i putovanja | 2.73% |
+| Sportski timovi | 2.68% |
+| Hrana i pice | 2.04% |
+| Alkohol | 1.76% |
+| Dom i dekoracija | 1.52% |
+| Mediji | 1.34% |
+| Finansije | 1.33% |
+| Retail | 1.28% |
+| Tech i softver | 1.21% |
+| Moda | 0.95% |
+| Lepota i zdravlje | 0.85% |
+
+Vise obrazovanje (7.36%) i neprofitne organizacije (3.04%) imaju ubedljivo najvisi engagement jer kreiraju edukativan sadrzaj koji je prirodan za TikTok format. Video ads na TikToku imaju **15% visi engagement** od staticnih reklama.
+
+## TikTok vs Facebook vs Google vs LinkedIn: poredjenje troskova
+
+| Metrika | TikTok | Facebook | Google Search | LinkedIn |
+|---------|--------|----------|--------------|----------|
+| Prosecni CPC | $0.50 | $0.70 (traffic) | $5.26 | $3.94-$5.58 |
+| Prosecni CPM | $6.16 | $6.59 | $11.12 | $31-$38 |
+| Prosecni CTR | 0.84% | 1.71% | 6.66% | 0.52% |
+| Konverzija | 0.46-1.92% | 7.72% | 7.52% | 2-5% (LP) |
+| Prosecni ROAS | 1.7x | ~4.2x | Zavisi od nise | N/A (B2B) |
+| Minimalni budzet | $500 | Bez minimuma | Bez minimuma | $10/dan |
+
+### Gde TikTok pobedjuje
+
+- **Najnizi CPC** — idealan za testiranje kreative bez velikog rizika
+- **Najnizi CPM** u Istocnoj Evropi — Srbija je jeftino trziste
+- **TikTok Shop** — jedina platforma sa in-app checkout i LIVE Shopping konverzijama od 8-12%
+- **Mlada demografija** — 60% korisnika ima 16-34 godina, neuhvatljivi na Facebooku
+
+### Gde TikTok gubi
+
+- **Najniza konverzija** za standardne kampanje (0.46-1.92% vs 7%+ na Facebooku/Google-u)
+- **Nema search intent** — korisnici ne traze vas proizvod, vi ih presrecete
+- **B2B je slab** — ROAS 1.2-1.5x, daleko iza LinkedIn-a za business klijente
+- **Kreativ-zavisna platforma** — bez sjajnog videa, nema rezultata (ne mozete se "kupiti" iz lose reklame)
+
+## Kljucni trendovi za 2025-2026
+
+**TikTok Shop eksplodira.** LIVE Shopping konverzije od 8-12% menjaju e-commerce. Brendovi koji ne testiraju TikTok Shop u 2026 propustaju kanal koji je vec generisao $33+ milijardi u globalnoj prodaji (2024).
+
+**Troskovi rastu.** CPC je porastao sa $0.20 (2023) na $0.50 (2025) kako se vise brendova bori za isti ad inventory. Ocekujte dodatni rast od 15-25% u 2026.
+
+**Spark Ads postaju standard.** Najefektivniji format (CTR 2-3%+) jer koristi vec testirani organski sadrzaj. Brendovi koji investiraju u organsku TikTok strategiju imaju dramaticno nize troskove oglasavanja.
+
+**AI targeting napreduje.** TikTok-ov Smart Performance Campaign (SPC) koristi AI za automatsko targetiranje i bidding, sa prosecnim poboljsanjem ROAS-a od 20%. Manual targeting gubi bitku sa algoritmom.
+
+**UGC (User Generated Content) > studio produkcija.** Reklame snimljene telefonom sa autenticnim tonom konvertuju bolje od poliranih studio videa. TikTok korisnici instinktivno skipuju sve sto izgleda kao "reklama".
+
+**CTV raste.** 45% TikTok gledanja je vec na TV ekranima (smart TV, Chromecast). Ovo otvara novi inventory za brand awareness kampanje sa vecim ekranom.
+
+## Sta ovo znaci za vas biznis
+
+**Ako ste e-commerce brend** sa vizuelnim proizvodima: TikTok je obavezan kanal. Pocnite sa Spark Ads (boostujte organski sadrzaj koji vec ima engagement), testirajte TikTok Shop, i koristite LIVE Shopping za highest-intent konverzije.
+
+**Ako ste lokalni biznis u Srbiji:** CPM od $3-$6 za Istocnu Evropu znaci da mozete dobiti 1.000 prikaza za manje od jednog kafe. Idealno za restorane, salone, fitness centre — ali morate imati video sadrzaj.
+
+**Ako ste B2B firma:** TikTok verovatno nije vas primarni kanal. [LinkedIn](/blog/linkedin-ads-cpc-ctr-konverzija-cpl-po-industriji-benchmark-2026) i [Google](/blog/google-ads-cpc-ctr-konverzija-po-industriji-benchmark-2026) su bolji za B2B lead generation. Ali ako zelite brand awareness kod mladjih decision-makera (milenijalci koji postaju direktori), TikTok moze biti dopunski kanal.
+
+**Ako imate ogranicen budzet ($500-$2.000/mesecno):** TikTok je idealna platforma za testiranje jer je CPC najnizi. Testirajte 5-10 razlicitih kreativa za $50 svaki, identifikujte pobednike, pa skalirajte. Za kombinovanje sa drugim kanalima pogledajte [koliko firme trose na marketing](/blog/koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026) i [cene digitalnog marketinga](/cene-digitalnog-marketinga). Za uporedbu sa [Facebook reklamama](/koliko-kosta-facebook-reklama) i [Instagram reklamama](/instagram-reklame-cena) pogledajte nase detaljne vodiče.
+
+**Za beauty i fashion brendove:** TikTok je vas **primarni kanal**. ROAS od 3.5x za lepotu i 2.8x za modu su najvisi medju svim platformama. Investirajte u influencer UGC i Spark Ads.
+
+Za pomoc oko pokretanja ili optimizacije vasih TikTok kampanja, [kontaktirajte nas](/kontakt).
+
+---
+
+*Izvori: MarketingLTB TikTok Ads Statistics 2025, Lebesgue TikTok Ads Benchmarks (CTR/CR/CPM), AdBacklog TikTok Ads Benchmarks Per Industry 2025, Creatify AI TikTok Ads Guide 2026, Admetrics TikTok Ads Costs 2026 Pricing Guide, TrackBee TikTok Ads Cost/CPC/CPM, SocialPulseStats TikTok Advertising Guide 2025, InfluencerMarketingHub TikTok Ads Cost, RozeeDigital Complete Guide to TikTok Advertising, SingleGrain Are TikTok Ads Worth It 2025, DarkRoomAgency TikTok Advertising Cost 2026, QuimbyDigital TikTok Ad Costs 2025.*
+`,
+    tableOfContents: [
+      "TikTok — najjeftinija reklamna platforma",
+      "CPC po industriji",
+      "CTR po industriji",
+      "Konverzija po industriji",
+      "TikTok Shop konverzije",
+      "CPM po industriji i sezoni",
+      "ROAS po industriji",
+      "Engagement rate po industriji",
+      "TikTok vs Facebook vs Google vs LinkedIn",
+      "Kljucni trendovi za 2025-2026",
+      "Sta ovo znaci za vas biznis"
+    ],
+    jsonLd: {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "TikTok Ads CPC, CTR, konverzija i CPM po industriji: benchmark podaci za 2025-2026",
+      "datePublished": "2026-03-24",
+      "author": { "@type": "Organization", "name": "Platinum Zenith" },
+      "publisher": { "@type": "Organization", "name": "Platinum Zenith", "url": "https://platinumzenith.com" },
+      "description": "TikTok CPC prosek $0.50 (30% nizi od Facebooka), CTR 0.84%, TikTok Shop LIVE konverzija 8-12%. Benchmark podaci po industriji sa citiranim izvorima.",
+      "mainEntityOfPage": "https://platinumzenith.com/blog/tiktok-ads-cpc-ctr-konverzija-cpm-po-industriji-benchmark-2026"
+    }
+  },
 ]
 
 const seenSlugs = new Set()
