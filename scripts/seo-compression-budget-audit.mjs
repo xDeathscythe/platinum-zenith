@@ -34,14 +34,14 @@ const publicBlogCount = [...new Map(
 ).values()].length
 
 // Historical baseline: ~100KB brotli for ~60 public posts.
-const blogDataBrotliBudgetKb = Math.max(100, Math.round(publicBlogCount * 1.7))
+const blogDataBrotliBudgetKb = 40 // Index only
 
 const budgets = [
   { label: 'index JS (brotli)', prefix: 'index-', suffix: '.js.br', maxKb: 15 },
   { label: 'vendor-react JS (brotli)', prefix: 'vendor-react-', suffix: '.js.br', maxKb: 58 },
   { label: 'vendor-router JS (brotli)', prefix: 'vendor-router-', suffix: '.js.br', maxKb: 24 },
   { label: 'vendor-motion JS (brotli)', prefix: 'vendor-motion-', suffix: '.js.br', maxKb: 36 },
-  { label: 'blogData JS (brotli)', prefix: 'blogData-', suffix: '.js.br', maxKb: blogDataBrotliBudgetKb },
+  { label: 'blogDataIndex JS (brotli)', prefix: 'blogDataIndex-', suffix: '.js.br', maxKb: blogDataBrotliBudgetKb },
   { label: 'main CSS (brotli)', prefix: 'index-', suffix: '.css.br', maxKb: 15 },
 ]
 

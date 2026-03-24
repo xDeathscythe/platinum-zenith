@@ -114,10 +114,10 @@ export default function usePageMeta() {
 
       const blogMatch = pathname.match(/^\/blog\/(.+)$/)
       if (blogMatch) {
-        import('../pages/blog/blogData').then(({ blogPosts }) => {
+        import('../pages/blog/blogDataIndex').then(({ blogPostBySlug }) => {
           if (cancelled) return
 
-          const post = blogPosts.find(p => p.slug === blogMatch[1])
+          const post = blogPostBySlug.get(blogMatch[1])
           if (post) {
             document.title = `${post.title} | Platinum Zenith Blog`
             const postDescription = post.excerpt || meta.description

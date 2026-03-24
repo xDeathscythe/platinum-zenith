@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import { useParams, Link, useLocation } from 'react-router-dom'
-import { blogPosts } from './blogData'
+import { blogPostBySlug, blogPostIndex } from './blogDataIndex'
 import { blogIllustrationMap } from './BlogIllustrations'
 import BuyerPyramid from './BuyerPyramid'
 import FunnelComparison from './FunnelComparison'
@@ -299,9 +299,38 @@ function ReadingProgress() {
 export default function BlogPostPage() {
   const { slug } = useParams()
   const { pathname } = useLocation()
-  const post = blogPosts.find(p => p.slug === slug)
+  
+  const [content, setContent] = useState(null)
+  const [loadingContent, setLoadingContent] = useState(true)
+  const [contentError, setContentError] = useState(false)
+
+  const basePost = blogPostBySlug.get(slug)
   const isDraftRoute = pathname.startsWith('/draft/')
-  const shouldHidePost = !post || (post.isDraft && !isDraftRoute) || (!post.isDraft && isDraftRoute)
+  const shouldHidePost = !basePost || (basePost.isDraft && !isDraftRoute) || (!basePost.isDraft && isDraftRoute)
+
+  useEffect(() => {
+    if (shouldHidePost) return
+    let mounted = true
+    setLoadingContent(true)
+    setContentError(false)
+    
+    import(`./blogContent/${slug}.js`)
+      .then((mod) => {
+        if (mounted) {
+          setContent(mod.default)
+          setLoadingContent(false)
+        }
+      })
+      .catch((err) => {
+        console.error('Failed to load blog content:', err)
+        if (mounted) {
+          setContentError(true)
+          setLoadingContent(false)
+        }
+      })
+      
+    return () => { mounted = false }
+  }, [slug, shouldHidePost])
 
   if (shouldHidePost) {
     return (
@@ -314,6 +343,38 @@ export default function BlogPostPage() {
       </div>
     )
   }
+
+  if (loadingContent) {
+    return (
+      <div className="min-h-screen flex items-center justify-center pt-24 pb-16">
+        <div className="w-full max-w-[800px] mx-auto px-4 md:px-8 space-y-6 animate-pulse">
+          <div className="h-4 bg-edge w-24 rounded"></div>
+          <div className="h-12 bg-edge w-3/4 rounded"></div>
+          <div className="h-4 bg-edge w-1/3 rounded"></div>
+          <div className="pt-8 space-y-4">
+            <div className="h-4 bg-edge w-full rounded"></div>
+            <div className="h-4 bg-edge w-full rounded"></div>
+            <div className="h-4 bg-edge w-5/6 rounded"></div>
+            <div className="h-4 bg-edge w-full rounded"></div>
+          </div>
+        </div>
+      </div>
+    )
+  }
+
+  if (contentError || !content) {
+    return (
+      <div className="min-h-screen flex items-center justify-center">
+        <div className="text-center">
+          <h2 className="text-[32px] font-bold mb-4">Greška</h2>
+          <p className="text-ink-3 text-[18px] mb-8">Nije moguće učitati sadržaj bloga.</p>
+          <button onClick={() => window.location.reload()} className="text-blue-400 hover:underline">Pokušajte ponovo</button>
+        </div>
+      </div>
+    )
+  }
+
+  const post = { ...basePost, content }
 
   const lines = post.content.split('\n')
   const hasEmbeddedVisualComponents = lines.some(line => componentMap[line.trim()])
@@ -437,7 +498,7 @@ export default function BlogPostPage() {
     )
   }
 
-  const related = blogPosts
+  const related = blogPostIndex
     .filter(p => p.category === post.category && p.slug !== post.slug)
     .slice(0, 3)
 
