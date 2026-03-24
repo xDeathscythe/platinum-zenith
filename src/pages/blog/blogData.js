@@ -1,5 +1,106 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'personalizacija-u-marketingu-uticaj-na-prihod-konverziju-statistika-2026',
+    title: 'Personalizacija u marketingu: koliko zaista povecava prihod i konverziju',
+    excerpt: 'Statistike o uticaju personalizacije na prihod, konverziju i zadrzavanje kupaca. Zasto personalizovani CTA konvertuje 202% bolje i kako poceti.',
+    date: '2026-03-24',
+    category: 'Marketing',
+    readTime: '7 min',
+    content: `
+## 71% kupaca ocekuje personalizaciju — a 76% je frustrirano kad je nema
+
+Personalizacija u marketingu vise nije "nice to have". To je **ocekivanje**. Podaci iz McKinsey, Salesforce i Instapage istrazivanja (2024-2025) su nedvosmisleni: kupci koji dobijaju personalizovano iskustvo trose **34-38% vise** od onih koji ga ne dobijaju.
+
+A firme koje su lideri u personalizaciji generisu **40% vise prihoda** od konkurencije.
+
+Za email personalizaciju pogledajte [email automatizacija za webshop](/blog/email-automatizacija-za-webshop-srbija-2026). Za kompletnu strategiju pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Uticaj na prihod: konkretne cifre
+
+- **Lideri u personalizaciji** generisu **40% vise prihoda** od sporijih konkurenata (McKinsey)
+- **80% biznisa** izvestava da kupci trose vise (prosecno **34-38% vise**) kad je iskustvo personalizovano
+- Personalizacija donosi **5-15% rast prihoda** za vecinu firmi, a top performeri vide i vise
+- **Segmentirani emailovi** generisu **58% ukupnog email prihoda**
+- Personalizovane preporuke proizvoda cine do **31% e-commerce prihoda** za aktivne sesije
+- Firme sa naprednom segmentacijom beleeze **760% rast email prihoda** (!!)
+- Marketing efikasnost se poboljsava za **10-30%** sa personalizacijom
+
+## Uticaj na konverziju: gde se vidi razlika
+
+### Personalizovani CTA (Call-to-Action)
+
+- Personalizovani CTA konvertuje **202% bolje** od generickog (Instapage)
+- Konvertuje **42% vise posetilaca** u lead-ove od netargetiranog CTA
+- "Dragi Marko, evo vaseg ekskluzivnog popusta" vs "Pogledajte nase ponude" — razlika je dramaticna
+
+### Personalizovane preporuke proizvoda
+
+- Povecavaju konverziju za do **320%** (!)
+- Kupci koji kliknu personalizovanu preporuku su **4.5x skloniji** kupovini
+- Na sajtu: "Na osnovu vase poslednje kupovine..." sekcija
+
+### Personalizovani emailovi
+
+- **6x visa stopa transakcija** od nepersonalizovanih
+- Povecavaju customer lifetime value za do **15%**
+- Personalizovani subject line povecava open rate za **26%**
+
+### Website personalizacija
+
+- E-commerce: **20% rast prodaje** sa personalizacijom
+- **65% e-commerce sajtova** izvestava o boljoj konverziji posle uvodjenja personalizacije
+- Personalizovani search rezultati na sajtu poboljsavaju konverziju za **15-30%**
+- Personalizovane landing stranice dizu konverziju za **26%**
+
+Za CRO strategiju pogledajte [optimizacija konverzije](/blog/optimizacija-konverzije-sajta-cro-srbija-2026).
+
+## Segmentacija: osnova personalizacije
+
+### Rezultati segmentacije
+
+- Firme sa naprednom segmentacijom imaju **2-3x vise konverzije** od onih bez
+- Segmentacija moze dovesti do **50% rasta konverzije**
+- Segmentirane email kampanje imaju **14% visi open rate** i **101% vise klikova**
+- Prosecni **12% rast ukupnog prihoda** sa segmentacijom
+
+### Jednostavna segmentacija za pocetak
+
+Ne morate imati AI i big data. Pocnite sa 4 segmenta:
+
+1. **Novi posetioci** (nikad kupili) → edukativni sadrzaj + popust za prvu kupovinu
+2. **Jednom kupili** → cross-sell preporuke + podsecanje
+3. **Ponavljajuci kupci** → VIP ponude + ekskluzivan pristup
+4. **Neaktivni** (60+ dana bez kupovine) → win-back kampanja
+
+Za zadrzavanje kupaca pogledajte [customer retention vodic](/blog/zadrzavanje-kupaca-customer-retention-srbija-2026).
+
+## Gde poceti sa personalizacijom (3 najlaksa koraka)
+
+### 1) Email ime + ponasanje
+
+Stavite ime kupca u subject line (+26% open rate). Segmentirajte po poslednjoj kupovini. Besplatno u svakom email alatu (MailerLite, Brevo, Klaviyo). Za email alate pogledajte [email marketing cena](/blog/email-marketing-cena-srbija-2026).
+
+### 2) Product preporuke na sajtu
+
+"Ljudi koji su kupili X takodje su kupili Y" sekcija na product stranicama. Za WooCommerce: ugradjeni "Related Products" widget ili AI preporuke sa Niwa AI.
+
+### 3) Personalizovani retargeting
+
+Prikazujte kupcu TACAN proizvod koji je gledao na vasem sajtu (Dynamic Ads na Facebooku/Instagramu). Pogledajte [Facebook remarketing vodic](/blog/facebook-ads-remarketing-strategija-srbija-2026).
+
+## Koliko personalizacija kosta
+
+- **Nivo 1 (besplatno):** Email segmentacija + ime, WooCommerce related products
+- **Nivo 2 (50-100 EUR/mesecno):** Klaviyo/ActiveCampaign za naprednu automatizaciju
+- **Nivo 3 (200+ EUR/mesecno):** AI-based personalizacija (Niwa AI, Dynamic Yield)
+- **Enterprise (1.000+ EUR/mesecno):** Full personalization stack (CDP + AI + A/B testiranje)
+
+Za pomoc sa personalizacijom vaseg marketinga, javite se preko [kontakt forme](/kontakt).
+
+*Izvori: McKinsey Next in Personalization Report (2024), Salesforce State of the Connected Customer (2024), Instapage Personalization Statistics (2025), Contentful Personalization Data (2025), Marketing LTB Segmentation Statistics (2025).*
+`
+  },
+  {
     slug: '250-blog-postova-na-platinum-zenith-milestone-2026',
     title: 'Od 0 do 250 blog postova: lekcije iz izgradnje content marketinga za srpsku agenciju',
     excerpt: 'Kako smo napisali 250 blog postova za Platinum Zenith u 2026. Proces, pravila, alati, SEO audit sistem i sta smo naucili iz podataka.',

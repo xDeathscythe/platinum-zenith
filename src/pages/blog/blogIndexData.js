@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "personalizacija-u-marketingu-uticaj-na-prihod-konverziju-statistika-2026",
+    "title": "Personalizacija u marketingu: koliko zaista povecava prihod i konverziju",
+    "excerpt": "Statistike o uticaju personalizacije na prihod, konverziju i zadrzavanje kupaca. Zasto personalizovani CTA konvertuje 202% bolje i kako poceti.",
+    "date": "2026-03-24",
+    "category": "Marketing",
+    "readTime": "7 min",
+    "isDraft": false
+  },
+  {
     "slug": "250-blog-postova-na-platinum-zenith-milestone-2026",
     "title": "Od 0 do 250 blog postova: lekcije iz izgradnje content marketinga za srpsku agenciju",
     "excerpt": "Kako smo napisali 250 blog postova za Platinum Zenith u 2026. Proces, pravila, alati, SEO audit sistem i sta smo naucili iz podataka.",
