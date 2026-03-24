@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-23T22:29:57.514Z",
-  "postsChecked": 187,
+  "generatedAt": "2026-03-24T02:30:53.986Z",
+  "postsChecked": 188,
   "issueCount": 0,
   "checked": [
     {
@@ -936,6 +936,11 @@
     {
       "route": "/blog/facebook-ads-cpc-ctr-konverzija-cpl-po-industriji-benchmark-2026",
       "serviceHits": 2,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/linkedin-ads-cpc-ctr-konverzija-cpl-po-industriji-benchmark-2026",
+      "serviceHits": 3,
       "hasKontakt": true
     }
   ],

@@ -27301,6 +27301,194 @@ Za pomoc oko pokretanja ili optimizacije vasih Facebook kampanja, [kontaktirajte
 `,
   },
 
+  {
+    slug: 'linkedin-ads-cpc-ctr-konverzija-cpl-po-industriji-benchmark-2026',
+    title: 'LinkedIn Ads CPC, CTR, konverzija i CPL po industriji: benchmark podaci za 2025-2026',
+    excerpt: 'Koliko kosta klik na LinkedIn, kakav je CTR, konverzija i cena po leadu za razlicite industrije? Citirani benchmark podaci za 2025.',
+    date: '2026-03-24',
+    category: 'Marketing',
+    readTime: '10 min',
+    content: `
+## LinkedIn je najskuplja reklamna platforma — ali za B2B, nista ne isporucuje kvalitetnije leadove
+
+LinkedIn kontrolise **39% svih B2B oglasnih budzeta** globalno. Prosecni CPC od **$3.94** (medijan) do **$5.58** (globalni prosek) cini ga 2-3x skupljim od Facebooka po kliku. Ali kada vas jedan ugovor vredi $10.000-$100.000+, cena po kliku prestaje da bude relevantna — bitna je cena po kvalitetnom leadu.
+
+Za poredjenje sa drugim platformama pogledajte [Facebook Ads benchmark po industriji](/blog/facebook-ads-cpc-ctr-konverzija-cpl-po-industriji-benchmark-2026) i [Google Ads benchmark po industriji](/blog/google-ads-cpc-ctr-konverzija-po-industriji-benchmark-2026). Za siru sliku o troskovima akvizicije po kanalima pogledajte [CPA benchmark po industriji](/blog/koliko-kosta-novi-klijent-cpa-po-industriji-google-facebook-2026).
+
+## Prosecni CPC, CTR, konverzija i CPL na LinkedIn-u (2025)
+
+| Metrika | Medijan / Prosek | Raspon |
+|---------|-----------------|--------|
+| CPC (cost per click) | $3.94 (medijan), $5.58 (globalni prosek) | $2.44 - $8.04 |
+| CTR (click-through rate) | 0.52% (medijan) | 0.39% - 0.80% |
+| Konverzija (landing page) | 2% - 5% | zavisno od ponude |
+| Konverzija (Lead Gen Form) | 6% - 10% | do 2x bolja od landing page |
+| CPL (cost per lead) | $128 (medijan) | $60 - $150+ |
+| CPM (cost per 1.000 prikaza) | $31 - $38 | $50 - $100 u konkurentnim nisama |
+
+Kampanje sa CTR iznad **0.7%** uzivaju **15% nizi CPC** jer LinkedIn nagradjuje relevantnost nizom cenom aukcije.
+
+## CPC po industriji
+
+| Industrija | Prosecni CPC | Napomena |
+|-----------|-------------|----------|
+| Finansije i osiguranje | $2.50 - $3.00 | Najjeftiniji klik uprkos visokom CPL-u |
+| Edukacija | $3.00 - $5.00 | Umereni troskovi, dobar engagement |
+| Poslovne usluge | $4.00 - $5.00 | Sirok spektar |
+| Marketing i agencije | $4.00 - $5.00 | Umereni, ali konkurentno trziste |
+| Zdravstvo (Healthcare) | $5.00 - $7.00 | Visok CPC, dugi prodajni ciklusi |
+| SaaS / Softver | $5.00 - $8.04 | Najskuplji — medijan $8.04 |
+
+### CPC po seniornosti targetirane publike
+
+| Seniority | Prosecni CPC |
+|-----------|-------------|
+| Senior donosioci odluka (VP, Director, Owner) | $6.40+ |
+| Junior zaposleni | $4.40 |
+
+**Zakljucak:** Sto je visi nivo odlucivanja koji targetirate, visi je CPC. Ali senior leadovi imaju **3-5x veci close rate** od junior kontakata, pa je ROI cesto bolji uprkos skupljim klikovima.
+
+### CPC po job funkciji
+
+| Funkcija | Prosecni CPC |
+|----------|-------------|
+| IT (Information Technology) | $7.90 |
+| Product Management | $7.30 |
+| Finansije | $6.90 |
+| Marketing | $6.80 |
+| Biznis Development | $6.30 |
+| Human Resources | $6.00 |
+| Media i komunikacije | $5.60 |
+| Operacije | $5.70 |
+| Inzenjerstvo | $5.10 |
+| Racunovodstvo | $5.00 |
+| Edukacija | $4.90 |
+| Prodaja (Sales) | $5.40 |
+
+IT i Product Management su najskuplje funkcije jer su to key decision-makeri za SaaS i tech kupovine.
+
+## CTR po industriji
+
+| Industrija | Prosecni CTR |
+|-----------|-------------|
+| Retail | 0.80% |
+| Transport i logistika | 0.67% |
+| Zdravstvo (Healthcare) | 0.58% |
+| Consumer Goods | 0.60% |
+| Marketing i agencije | 0.53% |
+| Poslovne usluge (Corporate Services) | 0.50% |
+| Finansije, osiguranje, bankarstvo | 0.49% |
+| Proizvodnja (Manufacturing) | 0.49% |
+| Edukacija | 0.42% |
+| Media i komunikacije | 0.42% |
+| Hardware i networking | 0.40% |
+| Softver i internet (SaaS) | 0.39% |
+
+### CTR po regionu
+
+| Region | Prosecni CTR | Prosecni CPC |
+|--------|-------------|-------------|
+| APAC (Azija-Pacifik) | 1.04% | $1.03 |
+| LATAM (Latinska Amerika) | 0.63% | $2.18 |
+| NAMER (Severna Amerika) | 0.58% | $3.39 |
+| EMEA (Evropa, Bliski Istok, Afrika) | 0.28% | $5.17 |
+| Globalni prosek | 0.53% | $5.74 |
+
+**EMEA (gde spada i Srbija) ima najnizi CTR i najvisi CPC.** Ovo znaci da srpske firme koje se reklamiraju na LinkedIn-u moraju imati izuzetno dobar kreativ i precizno targetiranje jer je trziste zasiceno LinkedIn reklamama.
+
+APAC je suprotnost — najvisi CTR (1.04%) i najnizi CPC ($1.03). Razlog: manje zasicen oglasni prostor i veci organski engagement na platformi.
+
+## Konverzija i CPL po industriji
+
+| Industrija | Konverzija | CPL (cost per lead) |
+|-----------|-----------|-------------------|
+| Finansije i osiguranje | ~5% | $90 - $120 |
+| Zdravstvo (Healthcare) | ~3-4% | $100 - $150 |
+| SaaS / Softver | ~3% | $100 - $125 |
+| Marketing i agencije | ~3% | ~$100 |
+| Poslovne usluge | ~3% | ~$60 |
+| Edukacija | ~2-3% | $60 - $70 |
+
+### Lead Gen Form vs Landing Page
+
+| Metoda | Konverzija | CPL efekat |
+|--------|-----------|------------|
+| LinkedIn Lead Gen Form | 6% - 10% | ~25% nizi CPL |
+| Eksterna landing page | 2% - 5% | Visi CPL, ali bolji kvalitet podataka |
+
+LinkedIn Lead Gen Form konzistentno konvertuje **2x bolje** od eksternih landing stranica jer korisnik ne napusta LinkedIn — podaci se auto-popunjavaju iz profila. Manje trenja = vise leadova.
+
+## Benchmark po formatu reklame
+
+| Format | CTR | CPC | Konverzija | Najbolje za |
+|--------|-----|-----|-----------|------------|
+| Sponsored Content (slika) | 0.50-0.60% | $5-$7 | 3-10% (form) | Traffic, awareness, lead gen |
+| Video Ads | 0.40-0.44% | $7-$9 | 2-3% | Brand awareness, retargeting |
+| Carousel Ads | 0.40-0.49% | $2.15 | ~3% | Storytelling, vise proizvoda |
+| Lead Gen Forms | ~0.50% | $5-$7 | 6-10%+ | Lead generisanje na skali |
+| Message Ads (InMail) | ~3% (open) | $0.50-$1/slanje | ~5% | Eventi, ABM, personalne ponude |
+| Text Ads | ~0.02% | $4-$6 | Niska | Brand prisutnost, retargeting |
+| Follower Ads | 0.04% | $7.70 | ~$11/follower | Rast publike na LinkedIn stranici |
+
+### Saveti po formatu
+
+**Carousel Ads** su najjeftiniji po CPC-u ($2.15) i odlicni za sekvencijalno predstavljanje ponude — ali CTR je nizi jer zahtevaju interakciju (prevlacenje kartica).
+
+**Video Ads** su najskuplji ($7-$9 CPC), ali LinkedIn video inventory je porastao **74% u 2025**. Drzite video ispod 30 sekundi — medijana completion rate je samo **23%**. Ispod 15 sekundi je jos bolje za feed kampanje.
+
+**Message Ads** imaju ubedljivo najvisi CTR (~3%) jer dolaze direktno u inbox. Ali su skupi po slanju i rade samo sa preciznim targetiranjem. Idealni za ABM (Account Based Marketing) pristup.
+
+## LinkedIn vs Facebook vs Google Ads: poredjenje
+
+| Metrika | LinkedIn Ads | Facebook Ads | Google Ads |
+|---------|-------------|-------------|------------|
+| Prosecni CPC | $3.94-$5.58 | $0.70 (traffic), $1.92 (leads) | $5.26 |
+| Prosecni CTR | 0.52% | 1.71% (traffic), 2.59% (leads) | 6.66% |
+| Konverzija | 2-5% (LP), 6-10% (form) | 7.72% | 7.52% |
+| CPL | $128 (medijan) | $27.66 | $70.11 |
+| Kvalitet leadova | Najvisi (decision-makers) | Srednji | Visok (search intent) |
+| Najbolje za | B2B, high-ticket | B2C, e-commerce, lokalni | Sve sa search intentom |
+
+**LinkedIn je 5-8x skuplji od Facebooka po leadu** ($128 vs $27.66). Zasto ga uopste koristiti? Zato sto LinkedIn leadovi su najcesci donosioci odluka — direktori, VP-ovi, vlasnici — dok Facebook leadovi su sire ciljana publika.
+
+Za B2B firme gde jedan klijent vredi $5.000-$50.000+, CPL od $128 je cena rucka u poredjenju sa vrednescu ugovora.
+
+Za detaljnije poredjenje pogledajte [Google Ads vs Facebook Ads: koji je bolji](/blog/google-ads-vs-facebook-ads-koji-je-bolji) i [ROAS po industriji i platformi](/blog/roas-po-industriji-i-platformi-benchmark-statistika-2026).
+
+## Kljucni trendovi za 2025-2026
+
+**Troskovi rastu.** LinkedIn CPC raste iz godine u godinu jer sve vise B2B brendova prelazi na platformu. EMEA trziste je posebno zasiceno sa CTR-om od samo 0.28%.
+
+**Lead Gen Forms dominiraju.** Native LinkedIn forme konvertuju 2x bolje od eksternih landing stranica uz ~25% nizi CPL. Ako ne koristite Lead Gen Forms, placate previse po leadu.
+
+**Video raste.** 74% rast video inventara u 2025. LinkedIn se pomera ka creator-driven sadrzaju i Video Ads postaju kljucni za top-of-funnel.
+
+**AI i automatizacija.** Predictive audiences, smart bidding i AI-generisan copy postaju standard. LinkedIn Conversions API (CAPI) zamenjuje cookie-based tracking.
+
+**ABM postaje sofisticiraniji.** Account-Based Marketing alati dozvoljavaju targetiranje specificnih kompanija i decision-makera na nivou koji ni jedna druga platforma ne nudi.
+
+**Retargeting je kljucan.** Kampanje koje retargetiraju manje, high-intent publike imaju **2-3x nizi CPL** od siroko targetiranih kampanja. Osvezavajte kreativu svakih 14 dana da izbegnete ad fatigue.
+
+## Sta ovo znaci za vas biznis
+
+**Ako ste B2B firma** sa high-ticket ponudom ($5.000+ po ugovoru): LinkedIn je verovatno vas najprofitabilniji kanal uprkos visokom CPL-u. Fokusirajte se na Lead Gen Forms i precizno targetiranje po seniornosti i job funkciji.
+
+**Ako ste u SaaS-u:** Pripremite se na CPC od $5-$8. Koristite Carousel Ads (najjeftiniji CPC od $2.15) za objasnjavanje kompleksnog proizvoda, pa retargetirajte sa Lead Gen Forms.
+
+**Ako ciljate EMEA trziste** (ukljucujuci Srbiju): CTR je samo 0.28%, CPC $5.17 — morate imati izuzetan kreativ i messaging da se probijete. "Pattern interrupt" u copy-ju je obavezan.
+
+**Ako imate ogranicen budzet:** Kombinirajte LinkedIn sa [Facebook Ads](/blog/facebook-ads-cpc-ctr-konverzija-cpl-po-industriji-benchmark-2026) — koristite Facebook za awareness i retargeting (CPC $0.70), a LinkedIn samo za finalni push ka senior decision-makerima.
+
+**Za lokalne biznise u Srbiji:** LinkedIn verovatno nije vas primarni kanal. [Facebook](/koliko-kosta-facebook-reklama) i [Google](/google-reklame-cena) su bolji za lokalni reach. LinkedIn koristite samo ako prodajete B2B usluge firmama.
+
+Za pomoc oko pokretanja ili optimizacije vasih LinkedIn kampanja, [kontaktirajte nas](/kontakt).
+
+---
+
+*Izvori: CloselyHQ LinkedIn Ad Benchmarks 2025 (CPC, CPM, CTR po industriji i regionu), AdBacklog LinkedIn Ads Benchmarks Per Industry 2025, TheB2BHouse LinkedIn Ad Benchmarks 2026 (CTR, CPC po job funkciji i seniornosti), Nav43 2025 LinkedIn Ads Benchmarks (SaaS/Tech), Huble LinkedIn Ads Benchmarks (regionalni podaci i format benchmarkovi), AgencyAnalytics LinkedIn Ads Benchmarks 2025, SpeedworkSocial LinkedIn Ads Benchmarks.*
+`,
+  },
+
 ]
 
 const seenSlugs = new Set()

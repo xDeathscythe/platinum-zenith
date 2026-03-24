@@ -1,16 +1,46 @@
 {
-  "generatedAt": "2026-03-23T18:33:44.586Z",
-  "compressedChunkCount": 0,
-  "publicBlogCount": 242,
-  "blogDataBrotliBudgetKb": 411,
-  "checks": [],
-  "issueCount": 6,
-  "issues": [
-    "Missing compressed chunk for index JS (brotli) (index-*.js.br)",
-    "Missing compressed chunk for vendor-react JS (brotli) (vendor-react-*.js.br)",
-    "Missing compressed chunk for vendor-router JS (brotli) (vendor-router-*.js.br)",
-    "Missing compressed chunk for vendor-motion JS (brotli) (vendor-motion-*.js.br)",
-    "Missing compressed chunk for blogData JS (brotli) (blogData-*.js.br)",
-    "Missing compressed chunk for main CSS (brotli) (index-*.css.br)"
-  ]
+  "generatedAt": "2026-03-24T02:31:14.761Z",
+  "compressedChunkCount": 92,
+  "publicBlogCount": 244,
+  "blogDataBrotliBudgetKb": 415,
+  "checks": [
+    {
+      "label": "index JS (brotli)",
+      "file": "index-BbV5NSf3.js.br",
+      "sizeKb": 14.4,
+      "maxKb": 15
+    },
+    {
+      "label": "vendor-react JS (brotli)",
+      "file": "vendor-react-D-tFKdcd.js.br",
+      "sizeKb": 54,
+      "maxKb": 58
+    },
+    {
+      "label": "vendor-router JS (brotli)",
+      "file": "vendor-router-WzOq1lTH.js.br",
+      "sizeKb": 10.67,
+      "maxKb": 24
+    },
+    {
+      "label": "vendor-motion JS (brotli)",
+      "file": "vendor-motion-INGeV9gw.js.br",
+      "sizeKb": 33.97,
+      "maxKb": 36
+    },
+    {
+      "label": "blogData JS (brotli)",
+      "file": "blogData-BjuVGUyB.js.br",
+      "sizeKb": 354.79,
+      "maxKb": 415
+    },
+    {
+      "label": "main CSS (brotli)",
+      "file": "index-DPJr_5Vs.css.br",
+      "sizeKb": 13.98,
+      "maxKb": 15
+    }
+  ],
+  "issueCount": 0,
+  "issues": []
 }

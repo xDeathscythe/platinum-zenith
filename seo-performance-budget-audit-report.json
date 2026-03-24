@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-03-23T02:31:21.346Z",
+  "generatedAt": "2026-03-24T02:31:16.749Z",
   "jsChunkCount": 91,
-  "publicBlogCount": 236,
-  "blogDataBudgetKb": 1298,
+  "publicBlogCount": 244,
+  "blogDataBudgetKb": 1342,
   "criticalTotalKb": 410.79,
   "criticalBudgetKb": 460,
   "checks": [
     {
       "label": "index chunk",
-      "file": "index-D5xdwe8M.js",
+      "file": "index-BbV5NSf3.js",
       "sizeKb": 58.69,
       "maxKb": 70
     },
@@ -32,13 +32,13 @@
     },
     {
       "label": "blogData chunk",
-      "file": "blogData-DXhhXHJz.js",
-      "sizeKb": 1328.27,
-      "maxKb": 1298
+      "file": "blogData-BjuVGUyB.js",
+      "sizeKb": 1403.66,
+      "maxKb": 1342
     }
   ],
   "issueCount": 1,
   "issues": [
-    "blogData chunk exceeded budget: 1328.27KB > 1298KB (blogData-DXhhXHJz.js)"
+    "blogData chunk exceeded budget: 1403.66KB > 1342KB (blogData-BjuVGUyB.js)"
   ]
 }

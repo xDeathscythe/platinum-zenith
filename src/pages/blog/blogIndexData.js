@@ -2197,5 +2197,14 @@ export const blogIndexPosts = [
     "category": "Marketing",
     "readTime": "10 min",
     "isDraft": false
+  },
+  {
+    "slug": "linkedin-ads-cpc-ctr-konverzija-cpl-po-industriji-benchmark-2026",
+    "title": "LinkedIn Ads CPC, CTR, konverzija i CPL po industriji: benchmark podaci za 2025-2026",
+    "excerpt": "Koliko kosta klik na LinkedIn, kakav je CTR, konverzija i cena po leadu za razlicite industrije? Citirani benchmark podaci za 2025.",
+    "date": "2026-03-24",
+    "category": "Marketing",
+    "readTime": "10 min",
+    "isDraft": false
   }
 ]
