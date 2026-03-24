@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-24T19:47:37.588Z",
-  "postsChecked": 203,
+  "generatedAt": "2026-03-24T22:37:02.779Z",
+  "postsChecked": 204,
   "issueCount": 0,
   "checked": [
     {
@@ -1016,6 +1016,11 @@
     {
       "route": "/blog/tiktok-ads-cpc-ctr-konverzija-cpm-po-industriji-benchmark-2026",
       "serviceHits": 4,
+      "hasKontakt": true
+    },
+    {
+      "route": "/blog/marketing-automatizacija-roi-usvajanje-produktivnost-benchmark-statistika-2026",
+      "serviceHits": 3,
       "hasKontakt": true
     }
   ],

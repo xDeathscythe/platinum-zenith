@@ -2359,5 +2359,14 @@ export const blogIndexPosts = [
     "category": "Marketing",
     "readTime": "12 min",
     "isDraft": false
+  },
+  {
+    "slug": "marketing-automatizacija-roi-usvajanje-produktivnost-benchmark-statistika-2026",
+    "title": "Marketing automatizacija: ROI, usvajanje i produktivnost — benchmark za 2025-2026",
+    "excerpt": "Marketing automatizacija donosi $5.44 na svaki ulozeni dolar (544% ROI). Trziste vredi $47 milijardi, 76% firmi koristi automatizaciju. Citirani podaci.",
+    "date": "2026-03-25",
+    "category": "Marketing",
+    "readTime": "14 min",
+    "isDraft": false
   }
 ]
