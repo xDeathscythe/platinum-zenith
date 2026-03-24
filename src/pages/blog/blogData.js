@@ -1,5 +1,129 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'checkout-optimizacija-statistika-konverzija-forme-placanje-2026',
+    title: 'Checkout optimizacija: koliko polja, nacina placanja i koraka treba za maksimalnu prodaju',
+    excerpt: 'Statistike o checkout optimizaciji 2025-2026. Koliko polja smanjuje konverziju, zasto guest checkout povecava prodaju 45% i uticaj nacina placanja.',
+    date: '2026-03-24',
+    category: 'CRO',
+    readTime: '7 min',
+    content: `
+## Vas checkout je mesto gde gubite najvise novca
+
+Prosecna stopa napustanja korpe je **70-75%** — ali za mobile korisnike skace na **85.65%**. Vecina tog gubitka ne dolazi od nedostatka interesovanja kupca. Dolazi od loseg checkout iskustva.
+
+Optimizacija checkout procesa moze povecati konverziju za do **35%** bez ijednog evra ulozenog u reklame. To je najisplativija investicija koju e-commerce moze da napravi.
+
+Za napustanje korpe po industriji pogledajte [cart abandonment statistika](/blog/napustanje-korpe-statistika-po-industriji-2026). Za cene izrade webshopa pogledajte [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena). Za product stranice pogledajte [12 elemenata koji prodaju](/blog/optimizacija-product-stranice-e-commerce-srbija-2026).
+
+## One-page vs multi-step checkout: podaci
+
+### One-page checkout pobedjuje
+
+- Prelazak na one-page checkout poboljsava konverziju za **7-10%**
+- Neke prodavnice beleeze skok sa 54% na **60%+ konverzije** na checkout-u
+- Vreme zavrsetka: manje od **1 minuta** (vs 1:40 za multi-step)
+- **21% manji drop-off** u poredfjenju sa vise-koracnim checkout-om
+- Shopify je one-page checkout ucinio **default-om** za nove prodavnice u 2025
+
+### Kada multi-step ima smisla
+
+- Za kompleksne porudzbine (B2B sa fakturom, custom narudzbine)
+- Kad imate dugi formular koji ne moze stati na jedan ekran
+- Progress bar moze pomocci: "Korak 2 od 3" daje osecaj kontrole
+
+## Guest checkout: 24% kupaca odlazi bez njega
+
+### Statistike
+
+- **24% kupaca** napusta checkout jer moraju da kreiraju nalog
+- **43% online kupaca** preferira guest checkout
+- **72% kupaca** koristi guest checkout kad je dostupan
+- Ponudjivanje guest checkout opcije povecava konverziju za **20-45%**
+- Ali samo **60% online prodavnica** nudi guest checkout (ogromna propustena prilika!)
+
+### Kako implementirati pametno
+
+Ponudite tri opcije:
+1. **Guest Checkout** (bez registracije)
+2. **Login** (za postojece korisnike)
+3. **Napravi nalog POSLE kupovine** ("Zelite da sacuvate podatke za sledecu kupovinu?")
+
+Treca opcija je kljucna: kupac zavrsi kupovinu BEZ stresa registracije, a vi i dalje dobijete nalog.
+
+## Broj polja u formi: svako polje kosta konverziju
+
+### Podaci o broju polja
+
+- Prosecni checkout u 2024: **11.3 polja** kroz **5.1 korak** (Baymard Institute)
+- Optimizovani checkout: **7 polja** ili manje
+- Smanjenje sa 4 na 3 polja povecava konverziju za **skoro 50%** (!!)
+- Optimalna zona za forme: **3-5 polja**
+- **40% mobilnih korisnika** napusta checkout zbog teskog unosa podataka
+
+### Sta ZAISTA treba
+
+Minimum za checkout:
+1. **Email** (za potvrdu i pracenje)
+2. **Ime i prezime** (za isporuku)
+3. **Adresa** (za dostavu)
+4. **Telefon** (za kurira)
+5. **Nacin placanja**
+
+SVE OSTALO je opciono i treba biti sakriveno ili uklonjeno. Pogledajte [landing stranica vodic](/blog/kako-napraviti-landing-stranicu-koja-konvertuje-srbija-2026) za optimizaciju formi.
+
+## Nacini placanja: kako uticu na konverziju
+
+### Vise opcija = vise prodaje
+
+- Dodavanje **bar jednog dodatnog nacina placanja** povecava konverziju za **7.4%** i prihod za **12%** (Stripe istrazivannje)
+- Prodavnice sa **vise opcija** imaju do **25% visu konverziju** od onih sa ogranicenim izborom
+- **PayPal** integracija povecava konverziju za **88.7%** (jer kupci veruju PayPal-u)
+- **Buy Now Pay Later** (BNPL) opcije povecavaju konverziju za prosecno **30%**
+- **32% potrosaca** planira da POVECA koriscenje digitalnih novcanika (Apple Pay, Google Pay) u 2025
+- **94% kupaca** je pod uticajem prikaza cena u lokalnoj valuti
+
+### Za srpsko trziste
+
+Obavezni nacini placanja za WooCommerce u Srbiji:
+1. **Pouzece** (COD) — i dalje 60% online kupovina u Srbiji
+2. **Kartice** (Banca Intesa / OTP Pay integracija)
+3. **PayPal** (za kupce koji nemaju domacu karticu ili kupuju iz inostranstva)
+
+Opciono ali preporuceno:
+4. **Uplacivanje na racun** (virman / transfer)
+
+Za pokretanje webshopa pogledajte [e-commerce vodic za Srbiju](/blog/kako-pokrenuti-online-prodavnicu-srbija-2026).
+
+## Mobile checkout: gde se gubi najvise
+
+- **85.65% mobilnih korpi** se napusti (vs 70% desktop)
+- **40% mobilnih korisnika** navodi tezak unos podataka kao razlog
+- Shop Pay (Shopify) ima **50% bolju konverziju** od obicnog guest checkout-a zahvaljujuci one-tap
+- Apple Pay / Google Pay eliminisu kucanje na telefonu — **dramaticno smanjuju mobile abandonment**
+
+### Mobile checkout best practices
+
+- **Sticky CTA dugme** na dnu ekrana
+- **Autofill** za adresu i karticu (HTML autocomplete atributi)
+- **Numericki input** za telefon i postanski broj (type="tel")
+- **Express payment** dugmici na vrhu checkout-a (Apple Pay, Google Pay)
+
+Za mobilni dizajn pogledajte [mobilni dizajn vodic](/blog/mobilni-dizajn-sajta-srbija-2026).
+
+## Koliko vas los checkout kosta (matematika)
+
+**Scenario:** Webshop sa 1.000 posetilaca mesecno, prosecna porudzbina 5.000 RSD
+
+- **Trenutna konverzija:** 2% = 20 porudzbina = 100.000 RSD
+- **Posle checkout optimizacije (+35%):** 2.7% = 27 porudzbina = 135.000 RSD
+- **Razlika:** 35.000 RSD mesecno = **420.000 RSD godisnje** — od jedne optimizacije
+
+Za profesionalnu CRO optimizaciju vaseg checkout-a, javite se preko [kontakt forme](/kontakt). Za merenje rezultata pogledajte [kako meriti ROI](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
+
+*Izvori: Baymard Institute Checkout UX Research (2024), Stripe Global Payment Methods Impact Study (2025), Shopify Commerce Report (2025), Swell Checkout Statistics (2025), PPRO Local Payment Methods Report (2025).*
+`
+  },
+  {
     slug: 'sms-marketing-open-rate-ctr-konverzija-roi-benchmark-po-industriji-2026',
     title: 'SMS marketing statistika: open rate 98%, CTR do 36% i ROI 71$ po dolaru',
     excerpt: 'Benchmark podaci za SMS marketing po industriji: open rate, CTR, konverzija, ROI, opt-in, unsubscribe rate i cena po poruci. Zasto SMS nadmasuje email i social.',

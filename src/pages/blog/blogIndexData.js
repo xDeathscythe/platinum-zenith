@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "checkout-optimizacija-statistika-konverzija-forme-placanje-2026",
+    "title": "Checkout optimizacija: koliko polja, nacina placanja i koraka treba za maksimalnu prodaju",
+    "excerpt": "Statistike o checkout optimizaciji 2025-2026. Koliko polja smanjuje konverziju, zasto guest checkout povecava prodaju 45% i uticaj nacina placanja.",
+    "date": "2026-03-24",
+    "category": "CRO",
+    "readTime": "7 min",
+    "isDraft": false
+  },
+  {
     "slug": "sms-marketing-open-rate-ctr-konverzija-roi-benchmark-po-industriji-2026",
     "title": "SMS marketing statistika: open rate 98%, CTR do 36% i ROI 71$ po dolaru",
     "excerpt": "Benchmark podaci za SMS marketing po industriji: open rate, CTR, konverzija, ROI, opt-in, unsubscribe rate i cena po poruci. Zasto SMS nadmasuje email i social.",
