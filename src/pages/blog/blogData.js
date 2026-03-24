@@ -1,5 +1,92 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'kako-rasporediti-marketing-budzet-po-kanalima-statistika-2026',
+    title: 'Kako rasporediti marketing budzet po kanalima u 2026 (B2B i B2C statistika)',
+    excerpt: 'Gde firme zaista trose novac? Podaci o raspodeli marketing budzeta za 2025-2026. B2B vs B2C, digital vs traditional, i 70/20/10 pravilo alokacije.',
+    date: '2026-03-24',
+    category: 'Marketing',
+    readTime: '8 min',
+    content: `
+## "Gde da ulozim sledecih 1.000 evra?"
+
+Ovo je najcesce pitanje vlasnika firmi u Srbiji. Odgovor ne bi trebalo da bude zasnovan na intuiciji ili na tome koji prodavac oglasa vas je poslednji zvao. Odgovor lezi u tome sta zapravo radi za uspesne firme u vasoj industriji.
+
+Podaci iz Gartner i Deloitte/CMO Survey istrazivanja (2024-2025) daju jasnu sliku kako najuspesnije firme alociraju svoje marketing budzete danas.
+
+Za opste cene u Srbiji pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Koliki procenat prihoda treba uloziti u marketing
+
+Pre nego sto rasporedite budzet, morate znati koliki on treba da bude. U 2025. godini, marketing budzeti u proseku iznose:
+
+- **B2B firme:** 7.7% do 8.7% od ukupnog prihoda
+- **B2C firme:** 10.1% do 11.4% od ukupnog prihoda
+- **Startup / firme u brzom rastu:** 15% do 25% (neki investiraju i do 50% u fazi agresivnog rasta)
+
+B2C firme uvek trose veci procenat na marketing jer zavise od masovnog dosega i volumena, dok B2B firme cesto imaju dugorocne ugovore i manji broj velikih klijenata. Za detaljnije podatke pogledajte [koliko firme trose na marketing](/blog/koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026).
+
+## Digitalno vs Tradicionalno (61% vs 39%)
+
+Trend prelaska na digitalno se ubrzava, ali tradicionalni marketing nije mrtav.
+
+- **Digitalni kanali:** 61.1% ukupnog marketing budzeta (rast sa 56% u 2024)
+- **Tradicionalni kanali:** 38.9% (TV, radio, bilbordi, print)
+
+Zanimljiv podatak: i pored digitalne dominacije, 93% marketing lidera kaze da ce zadrzati investicije u in-person dogadjaje (konferencije, sajmovi) u 2026. godini. Ljudi su zeljni fizickog kontakta posle godina zoom sastanaka.
+
+## Gde ide digitalni budzet (Top 4 kanala)
+
+Od onih 61.1% koji idu na digitalni marketing, evo kako se novac deli (prosek za sve industrije u 2025):
+
+1. **Paid Search (Google Ads):** 13.9% digitalnog budzeta
+2. **Digital Display (Banneri):** 12.5%
+3. **Paid Social (Meta, TikTok, LinkedIn):** 12.2%
+4. **Email marketing:** 7.4%
+5. **SEO i Organski content:** 8-12%
+
+Google Ads i dalje uzima najveci deo kolaca jer donosi najdirektniji ROI. Ljudi na Google-u vec traze da kupe. Za cene klikova pogledajte [Google Ads cene u Srbiji](/google-reklame-cena).
+
+## B2B vs B2C alokacija: kljucne razlike
+
+### Kako B2B firme rasporedjuju budzet
+
+B2B prodajni ciklus je dug (prosecno 10.1 meseci u 2025). Zato B2B budzet izgleda drugacije:
+
+- **Content marketing i SEO:** 20-30% budzeta. Blogovi, whitepaperi, studije slucaja grade autoritet tokom dugog prodajnog ciklusa.
+- **Paid Ads (LinkedIn + Google Search):** 30-40%. Cene klikova su visoke (vidite [LinkedIn Ads cene](/blog/linkedin-reklame-cena-b2b-marketing-srbija-2026)), ali je namera kupca jasna.
+- **Dogadjaji / Sales enablement:** 15-20%.
+- **Marketing tehnologije (CRM, automatizacija):** 10-15%.
+
+Najveci ROI za B2B firme dolazi od **SEO/Website/Blog** napora.
+
+### Kako B2C firme rasporedjuju budzet
+
+B2C prodaja je brza, impulsivna i vizuelna. Zato B2C alocira 61.4% celokupnog budzeta iskljucivo na digitalne kanale:
+
+- **Paid Social & Display:** 40-50%. Fokus na brzinu i volumen konverzija.
+- **Social media & Influenseri:** 20-35%. Gradnja brenda kroz zajednicu.
+- **Email marketing:** 10-15%. Zadrzavanje kupaca (najvisi ROI za e-commerce).
+
+Za cene drustvenih mreza pogledajte [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama) i [Instagram reklame cena](/instagram-reklame-cena).
+
+## Pravilo 70/20/10 za planiranje budzeta
+
+Najsigurniji okvir za raspodelu budzeta za male i srednje firme u Srbiji 2026. godine je takozvano 70/20/10 pravilo:
+
+- **70% budzeta u "Proven" (Sigurno):** Kanali koji vec donose merljive rezultate. Za vecinu firmi u Srbiji to su Google Search oglasi i Facebook/Instagram retargeting. Ovo je novac koji placa plate.
+- **20% budzeta u "Growth" (Rast):** Kanali koji pokazuju potencijal ali jos nisu optimizovani. Na primer, SEO, email automatizacija ili LinkedIn oglasi.
+- **10% budzeta u "Experiment" (Eksperiment):** Testiranje potpuno novih stvari gde mozete izgubiti novac, ali potencijalna nagrada je ogromna. Na primer: TikTok oglasi, AI influenseri, novi formati videa.
+
+Kada "Eksperiment" kanal dokaze da donosi ROI, prebacujete ga u "Growth" korpu, a zatim u "Sigurno" korpu.
+
+Za pomoc oko merenja i pracenja rezultata na svim kanalima, preporucujemo nas tekst [kako meriti ROI digitalnog marketinga](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026). 
+
+Ako vam je potrebna pomoc da pravilno rasporedite vas marketing budzet za maksimalan povrat u Srbiji, javite se preko [kontakt forme](/kontakt) -- izradicemo detaljan plan za vasu industriju.
+
+*Izvori: Gartner CMO Spend Survey (2024-2025), The CMO Survey by Deloitte (2025), BrandRatna Marketing Budget by Industry (2025), Transmission B2B Budget Benchmarks (2025).*
+`
+  },
+  {
     slug: 'content-marketing-vs-placeni-oglasi-roi-cena-po-leadu-statistika-2026',
     title: 'Content marketing vs placeni oglasi: koji donosi bolji ROI na duge staze',
     excerpt: 'Uporedna statistika content marketinga vs placenih oglasa. ROI 748% vs 200%, cena po lead-u, organska konverzija 14.6% vs 1.7% i kada koristiti koji.',

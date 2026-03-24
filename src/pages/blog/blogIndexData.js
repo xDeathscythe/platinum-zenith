@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "kako-rasporediti-marketing-budzet-po-kanalima-statistika-2026",
+    "title": "Kako rasporediti marketing budzet po kanalima u 2026 (B2B i B2C statistika)",
+    "excerpt": "Gde firme zaista trose novac? Podaci o raspodeli marketing budzeta za 2025-2026. B2B vs B2C, digital vs traditional, i 70/20/10 pravilo alokacije.",
+    "date": "2026-03-24",
+    "category": "Marketing",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "content-marketing-vs-placeni-oglasi-roi-cena-po-leadu-statistika-2026",
     "title": "Content marketing vs placeni oglasi: koji donosi bolji ROI na duge staze",
     "excerpt": "Uporedna statistika content marketinga vs placenih oglasa. ROI 748% vs 200%, cena po lead-u, organska konverzija 14.6% vs 1.7% i kada koristiti koji.",
