@@ -3,6 +3,24 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "250-blog-postova-na-platinum-zenith-milestone-2026",
+    "title": "Od 0 do 250 blog postova: lekcije iz izgradnje content marketinga za srpsku agenciju",
+    "excerpt": "Kako smo napisali 250 blog postova za Platinum Zenith u 2026. Proces, pravila, alati, SEO audit sistem i sta smo naucili iz podataka.",
+    "date": "2026-03-24",
+    "category": "Marketing",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
+    "slug": "ugc-user-generated-content-uticaj-na-prodaju-statistika-2026",
+    "title": "UGC (User Generated Content): koliko sadrzaj kupaca zaista utice na prodaju",
+    "excerpt": "Statistike o UGC uticaju na poverenje, konverziju i prodaju 2025-2026. Zasto 90% kupaca vise veruje sadrzaju korisnika nego brendovima.",
+    "date": "2026-03-24",
+    "category": "Marketing",
+    "readTime": "6 min",
+    "isDraft": false
+  },
+  {
     "slug": "koliko-vremena-treba-za-seo-rezultate-po-konkurentnosti-2026",
     "title": "Koliko vremena treba za SEO rezultate: rokovi po konkurentnosti kljucnih reci",
     "excerpt": "Realni rokovi za SEO rezultate u 2025-2026. Koliko meseci treba za prvu stranicu za nisko, srednje i visoko konkurentne kljucne reci.",

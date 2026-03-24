@@ -1,5 +1,162 @@
 ﻿const rawBlogPosts = [
   {
+    slug: '250-blog-postova-na-platinum-zenith-milestone-2026',
+    title: 'Od 0 do 250 blog postova: lekcije iz izgradnje content marketinga za srpsku agenciju',
+    excerpt: 'Kako smo napisali 250 blog postova za Platinum Zenith u 2026. Proces, pravila, alati, SEO audit sistem i sta smo naucili iz podataka.',
+    date: '2026-03-24',
+    category: 'Marketing',
+    readTime: '8 min',
+    content: `
+## 250 blog postova: sta smo naucili
+
+Platinum Zenith sajt je dostigao milestone od **250 objavljenih blog postova** — svi prolaze 60-point SEO audit bez ijedne greske. Ovo nije samo brojka; to je sistem koji smo gradili mesecima.
+
+Ovaj post pokriva lekcije, pravila i alate koji stoje iza tog sistema. Ako gradite content marketing za svoj biznis, ovo su konkretne stvari koje mozete primeniti.
+
+Za content strategiju pogledajte [content marketing plan](/blog/content-marketing-plan-za-male-firme-srbija-2026). Za merenje rezultata pogledajte [kako meriti ROI](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
+
+## Pravila koja smo postavili od pocetka
+
+### 1) Svaki post mora proci 60 SEO checkova pre objavljivanja
+
+Automatski audit sistem proverava: title duzinu (35-95 karaktera), heading hijerarhiju, minimum 3 interna linka, broken link integritet, meta description kvalitet, SERP snippet sirinu, keyword gustinu, AI vocabulary filter i jos 50+ provera.
+
+Nijedan post se ne objavljuje dok ne prodje SVE provere. Bez izuzetaka.
+
+### 2) Humanizer na sav tekst
+
+Automatski filter uklanja AI vokabular: "delve", "landscape", "leverage", "robust", "comprehensive", "cutting-edge", "game-changer", "seamlessly". Plus uklanja em dasheve, smart quotes i filler fraze ("In today's digital landscape...").
+
+### 3) Minimum 3 interna linka po postu
+
+Svaki post mora da linkuje ka bar 3 druge stranice na sajtu. Ovo gradi internu strukturu linkova koja pomaze Google-u da razume sajt i distribuira autoritet.
+
+### 4) CTA ka kontakt formi
+
+Svaki post zavrsava sa konkretnim pozivom na akciju — link ka kontakt formi ili relevantnoj usluzi.
+
+### 5) Relativni linkovi, nikad puni URL
+
+Interni linkovi moraju biti relativni (/blog/...), ne puni URL (https://platinumzenith.com/blog/...). Ovo je SEO best practice i nas audit to proverava.
+
+## Tipovi sadrzaja koji smo objavili
+
+### Vodici po industriji (12 nisa x 3 bloga = 36+ postova)
+
+Svaka industrija (stomatolozi, advokati, restorani, frizeri, kozmeticki saloni, autoservisi, nekretnine, teretane, racunovodje, privatne klinike, privatni vrtici, hoteli) ima minimum 3 cluster bloga: Google Ads + Instagram + SEO.
+
+### Stat-based clanci (20+ postova)
+
+Topic-focused clanci puni statistika sa citiranim izvorima. Dizajnirani da privuku backlinkove i AI citacije. Primer: [kako brzina sajta utice na rangiranje](/blog/kako-brzina-sajta-utice-na-rangiranje-na-googlu-2026).
+
+### Vodici za alate i platforme (30+ postova)
+
+Prakticni vodici za Google Ads, Facebook Ads, Instagram, LinkedIn, email marketing, WordPress, WooCommerce. Sa konkretnim koracima i budzet planovima.
+
+### Geo landing stranice (21 grad)
+
+Svaki veci grad u Srbiji ima landing stranicu sa lokalnim SEO signalima, FAQ schema-om i cross-linkovima.
+
+### Hormozi/Suby inspirisani postovi (17 postova)
+
+Clanci inspirisani konceptima od Alex Hormozi, Leila Hormozi i Sabri Suby — prilagodjeni za srpsko trziste.
+
+## Sta smo naucili iz podataka
+
+### 1) Stat clanci privlace najvise backlink-ova
+
+Postovi sa konkretnim statistikama i izvorima (npr. "73% korpi se napusti") su najcitaraniji i najlinkovaniji tip sadrzaja. Pogledajte [napustanje korpe statistika](/blog/napustanje-korpe-statistika-po-industriji-2026).
+
+### 2) Dugacki postovi rangiraju bolje
+
+Nasi postovi od 1.500+ reci konzistentno rangiraju vise od kracih. Ali kvalitet je vazniji od duzine — padding ne pomaze. Pogledajte [duzina blog posta za SEO](/blog/koliko-dugacak-treba-da-bude-blog-post-za-seo-statistika-2026).
+
+### 3) Konzistentnost bije intenzitet
+
+Jedan post dnevno, svaki dan, bez preskakanja — je bolji od 10 postova u jednom danu pa nista nedelju dana. Google nagradjuje konzistentnost.
+
+### 4) Internal linking je podcenjen
+
+Svaki novi post koji linkuje ka starijim postovima podize rang OBILJ postova, ne samo novog. Mreza internih linkova je multiplikator.
+
+### 5) AI audit spreckava greske
+
+Automatski 60-point audit je spreccio stotine gresaka koje bi inace prosle: broken linkovi, predugacki naslovi, AI vokabular, dupliran heading, nedostajuci schema. Bez audita, kvalitet bi neizbezno pao sa obimom.
+
+## Sta je sledece
+
+Sa 250 postova, fokus se pomera sa kvantiteta na kvalitet: animirani vizuali (SpeedImpactChart i slicni), dublja istrazivanja za stat clanke, i news agregator za aktuelne vesti iz AI i marketing sveta.
+
+Za profesionalnu content strategiju zasnovanu na ovim principima, javite se preko [kontakt forme](/kontakt). Za cene pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+`
+  },
+  {
+    slug: 'ugc-user-generated-content-uticaj-na-prodaju-statistika-2026',
+    title: 'UGC (User Generated Content): koliko sadrzaj kupaca zaista utice na prodaju',
+    excerpt: 'Statistike o UGC uticaju na poverenje, konverziju i prodaju 2025-2026. Zasto 90% kupaca vise veruje sadrzaju korisnika nego brendovima.',
+    date: '2026-03-24',
+    category: 'Marketing',
+    readTime: '6 min',
+    content: `
+## 90% kupaca veruje sadrzaju drugih kupaca vise nego vasim reklamama
+
+User Generated Content (UGC) — recenzije, fotografije, video unboxing-i, komentari — je sadrzaj koji vasi kupci prave sami. I podaci iz 2024-2025 su nedvosmisleni: **90% potrosaca** veruje UGC-ju vise nego konvencionalnim reklamama.
+
+UGC trziste je poraslo na **7.6 milijardi USD** u 2025, rast od 69% u odnosu na 4.5 milijardi u 2024. Ovo nije trend — ovo je fundamentalna promena u tome kako kupci donose odluke.
+
+Za social proof strategiju pogledajte [uticaj recenzija na prodaju](/blog/uticaj-online-recenzija-na-prodaju-statistika-2026). Za cene marketinga pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga). Za influencer marketing pogledajte [mikro vs makro influenseri](/blog/influencer-marketing-roi-mikro-vs-makro-statistika-2026).
+
+## UGC i poverenje: konkretne cifre
+
+- **90% potrosaca** veruje UGC-ju vise od tradicionalnog oglasavanja (2024)
+- **84% potrosaca** vise veruje brendu koji koristi UGC u marketingu
+- **84% milenijalaca** kaze da UGC povecava njihovo poverenje u brend
+- **79% potrosaca** se oseca ugodnije sa brendovima koji prikazuju UGC
+- UGC se smatra **50% verodostojnijim** i **20% uticajnijim** od ostalih tipova medija
+
+## UGC i konverzija: koliko prodaje donosi
+
+- **79% kupaca** kaze da UGC visoko utice na njihove odluke o kupovini
+- Brendovi sa UGC-jem imaju **29% visu web konverziju** od onih bez
+- UGC na product stranicama povecava konverziju za do **8%** (neki izvori: do 161%)
+- Sajt sa UGC-jem: **90% duze vreme** provedeno na stranici
+- UGC reklame imaju **4x visi CTR** od tradicionalnih reklama
+- Na TikToku i Instagramu: UGC reklame generisu **3x visi engagement** i **40% vise instalacija** od studijski snimljenih
+- Kampanje sa UGC-jem u purchase path-u: prosecno **10% vise konverzija**
+
+## Vrste UGC-ja koje rade za srpske firme
+
+### 1) Recenzije i ocene
+
+Najjednostavniji i najefikasniji oblik UGC-ja. Za prikupljanje pogledajte [GBP optimizacija](/blog/google-business-profile-optimizacija-srbija-2026).
+
+### 2) Fotografije kupaca
+
+"Real people, real results" — slike proizvoda u stvarnom zivotu. Pozovite kupce da vas oznace na Instagramu i repostujte njihov sadrzaj.
+
+### 3) Video unboxing / review
+
+Najpopularniji UGC format na TikToku i YouTube-u. Kupac snima otpakivanje i prvo iskustvo sa proizvodom. Za video strategiju pogledajte [video marketing vodic](/blog/video-marketing-za-male-firme-srbija-2026).
+
+### 4) Testimonijali
+
+Pisane ili video izjave zadovoljnih kupaca. Na landing stranicama povecavaju konverziju za 15-25%. Pogledajte [landing stranica vodic](/blog/kako-napraviti-landing-stranicu-koja-konvertuje-srbija-2026).
+
+## Kako prikupiti UGC (besplatno)
+
+1. **Post-purchase email:** "Podelite sliku sa proizvodom i oznacite nas za 10% popust na sledecu kupovinu"
+2. **Instagram hashtag:** Kreirajte brendirani hashtag i ohrabrite kupce da ga koriste
+3. **Recenzije:** Automatski email 3 dana posle isporuke sa linkom za recenziju
+4. **Takmicenje:** "Podelite sliku, pobednik dobija poklon paket"
+
+Za email automatizaciju pogledajte [email sekvence za webshop](/blog/email-automatizacija-za-webshop-srbija-2026).
+
+Za pomoc sa UGC strategijom i customer engagement-om, javite se preko [kontakt forme](/kontakt).
+
+*Izvori: CrowdRiff UGC Statistics (2025), Influee UGC Research (2025), inBeat Agency UGC Data (2025), CreatorLabz Year in Review (2025), Podium UGC Stats (2024).*
+`
+  },
+  {
     slug: 'koliko-vremena-treba-za-seo-rezultate-po-konkurentnosti-2026',
     title: 'Koliko vremena treba za SEO rezultate: rokovi po konkurentnosti kljucnih reci',
     excerpt: 'Realni rokovi za SEO rezultate u 2025-2026. Koliko meseci treba za prvu stranicu za nisko, srednje i visoko konkurentne kljucne reci.',
