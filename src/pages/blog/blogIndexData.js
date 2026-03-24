@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "sms-marketing-open-rate-ctr-konverzija-roi-benchmark-po-industriji-2026",
+    "title": "SMS marketing statistika: open rate 98%, CTR do 36% i ROI 71$ po dolaru",
+    "excerpt": "Benchmark podaci za SMS marketing po industriji: open rate, CTR, konverzija, ROI, opt-in, unsubscribe rate i cena po poruci. Zasto SMS nadmasuje email i social.",
+    "date": "2026-03-24",
+    "category": "Marketing",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "voice-search-glasovna-pretraga-uticaj-na-lokalni-seo-statistika-2026",
     "title": "Voice search i lokalni SEO: kako glasovna pretraga menja nacin na koji kupci vas pronalaze",
     "excerpt": "Statistike o glasovnoj pretrazi 2025-2026. 76% voice search upita je lokalno, 8.4 milijarde glasovnih asistenata i kako optimizovati za \"blizu mene\".",

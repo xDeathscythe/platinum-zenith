@@ -1,5 +1,165 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'sms-marketing-open-rate-ctr-konverzija-roi-benchmark-po-industriji-2026',
+    title: 'SMS marketing statistika: open rate 98%, CTR do 36% i ROI 71$ po dolaru',
+    excerpt: 'Benchmark podaci za SMS marketing po industriji: open rate, CTR, konverzija, ROI, opt-in, unsubscribe rate i cena po poruci. Zasto SMS nadmasuje email i social.',
+    date: '2026-03-24',
+    category: 'Marketing',
+    readTime: '8 min',
+    content: `
+## 98% otvorenih poruka — i 90% procitano za 3 minuta
+
+SMS marketing ima **open rate od 90-98%** (Omnisend, SimpleTexting, 2025). Za poredjenje, email prosek je 20-25%. To je razlika koja menja kalkulaciju svakog marketing budzeta.
+
+A od tih otvorenih poruka, **90% se procita unutar 3 minuta** od prijema. Nije pitanje da li ce korisnik videti poruku — vec da li je sadrzaj dovoljno dobar da ga pokrene na akciju.
+
+Za poredjenje sa email metrikom pogledajte [email marketing open rate i CTR benchmark](/blog/email-marketing-open-rate-ctr-benchmark-po-industriji-2026). Za kompletnu strategiju pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Click-through rate: 8.9% do 36%
+
+SMS kampanje generisu **CTR izmedju 19% i 36%** u proseku (Sakari, Omnisend, 2025). Ali ta cifra varira znacajno zavisno od tipa poruke:
+
+- **SMS kampanje (broadcast):** dobar CTR je **8.9-14.5%**, odlican **14.6%+** (Klaviyo Benchmarks, 2026)
+- **Automatizovane poruke (flows):** CTR **10.9-14.9%**, top performeri **16%+** (Klaviyo Benchmarks, 2026)
+- **Finansijski sektor:** 72% kompanija prijavljuje CTR **iznad 20%** (Sakari, 2025)
+- **Poruke poslate unutar 5 minuta** od korisnicke akcije imaju znacajno veci CTR od zakazanih kampanja (Infobip, 2025)
+
+Za kontekst: prosecni CTR za email je **2-3%**, a za Facebook Ads **1.71%** (WordStream, 2025). SMS dobija **5-10x veci engagement** po poslatoj poruci.
+
+Uporedite sa [Facebook Ads CTR benchmark](/blog/facebook-ads-cpc-ctr-konverzija-cpl-po-industriji-benchmark-2026) i [Google Ads CTR benchmark](/blog/google-ads-cpc-ctr-konverzija-po-industriji-benchmark-2026).
+
+## Konverzija po industriji
+
+Prosecna konverzija SMS kampanja zavisi od industrije i tipa automatizacije:
+
+**Po industriji (Sakari, EntrepreneursHQ, 2025):**
+
+| Industrija | Konverzija |
+|---|---|
+| Tehnologija | 31-40% |
+| Ugostiteljstvo | 20%+ (69% firmi prijavljuje) |
+| Gradjevinarstvo / Edukacija / Proizvodnja | 21-30% |
+| Finansije / Zdravstvo | 20%+ |
+| Retail / E-commerce | 11-20% |
+| Lokalni servisi | 25-35% (podsetnici, ponude, follow-up) |
+
+**Po tipu automatizacije (Klaviyo, 2026):**
+
+| Tip poruke | Konverzija |
+|---|---|
+| Rollover kampanje | 37.2% |
+| Order bump | 26.2% |
+| Text-to-buy drop | 5.5% |
+| E-commerce flow (abandoned cart, welcome) | 12-18% |
+| Broadcast kampanja (batch-and-blast) | ispod 1% |
+
+Kljucna lekcija: **automatizovane, ponasanjem trigerovane poruke konvertuju 10-30x bolje** od generickih broadcast kampanja.
+
+Pogledajte i [prosecnu stopu konverzije po industriji](/blog/prosecna-stopa-konverzije-po-industriji-benchmark-statistika-2026) za siri kontekst.
+
+## ROI: 71$ za svaki potroseni dolar
+
+SMS marketing generise **prosecno $71 za svaki $1 ulozen** (Project Broadcast, AudienceTap, 2025-2026). To je visestruko veci ROI od vecine digitalnih kanala:
+
+- **Email marketing ROI:** $36-42 po dolaru (DMA/Litmus, 2025)
+- **Google Ads ROAS:** prosek 5.17:1 (Triple Whale, 2025)
+- **Facebook Ads ROAS:** prosek 4.87:1 (Triple Whale, 2025)
+- **SMS marketing ROI:** do **71:1** — ili **7.100%**
+
+**ROI po tipu poruke:**
+
+- **SMS flows (automatizovani):** generisu **8x veci prihod po primaocu** od kampanja (Klaviyo, 2026)
+- **E-commerce automatizovane poruke:** $0.74 po slanju vs $0.15 za broadcast (OpenSend, 2025)
+- **Text-to-buy programi:** ROI **13x do 35x** (AudienceTap, 2025)
+- **Retail flash sale SMS:** ROI **preko 3.000%** (Omnisend, 2025)
+
+Za svaku **1.000 SMS pretplatnika**, brendovi generisu **$600-$1.850 mesecno** (OpenSend, 2025).
+
+Uporedite sa [ROAS po industriji i platformi](/blog/roas-po-industriji-i-platformi-benchmark-statistika-2026).
+
+## Opt-in, unsubscribe i cena po poruci
+
+**Opt-in rate:**
+
+- **84% potrosaca** je vec opt-in za SMS od biznisa u 2025 — rast od 6.3% u odnosu na 2024 (SimpleTexting, 2025)
+- Prosecni opt-in sa sajta: **1.8-3.2%** posetilaca
+- Opt-in pokrenut incentivom (popust, besplatna dostava) ima **54% vecu konverziju** od generickog poziva
+
+**Unsubscribe rate:**
+
+- Prosek: **ispod 3.5%**, cesto ispod **1.5%** (MarketingLTB, Omnisend, 2025)
+- E-commerce i retail: **1-2%** mesecno
+- Mesecni churn: oko **1.8%**
+- **Kriticna granica:** vise od 4-6 promotivnih poruka nedeljno dovodi do **39% odliva pretplatnika**
+
+**Cena po poruci:**
+
+- **SMS:** $0.01-$0.05 po poruci
+- **MMS (slika/video):** $0.03-$0.10 po poruci
+- Volume popusti: 10.000+ poruka mesecno moze spustiti cenu na **ispod $0.01**
+
+Za uporednu analizu troskova pogledajte [koliko firme trose na marketing](/blog/koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026) i [cenu po leadu po industriji](/blog/cena-po-leadu-po-industriji-benchmark-statistika-2026).
+
+## SMS vs email vs social: direktno poredjenje
+
+| Metrika | SMS | Email | Facebook Ads |
+|---|---|---|---|
+| Open rate | 90-98% | 20-25% | N/A |
+| CTR | 8.9-36% | 2-3% | 1.71% |
+| Konverzija | 8-40% (zavisi od tipa) | 2-5% | 7.72% (lead) |
+| ROI | $71 po $1 | $36-42 po $1 | 4.87:1 |
+| Cena po kontaktu | $0.01-0.05 | $0.001-0.005 | $0.50-1.92 CPC |
+| Vreme do citanja | 3 minuta | 6+ sati | Promenljivo |
+
+SMS nije zamena za email ili paid ads. Ali za **hitne ponude, podsetnike, abandoned cart recovery i flash prodaje** — nema kanala koji se moze meriti sa ovim engagement ciframa.
+
+Za detaljnu email statistiku pogledajte [koliko zaradjuje email marketing](/blog/koliko-zapravo-zaradjuje-email-marketing-roi-po-industriji-2026). Za Facebook metriku pogledajte [Facebook Ads benchmark](/blog/facebook-ads-cpc-ctr-konverzija-cpl-po-industriji-benchmark-2026).
+
+## Koliko SMS donosi e-commerce brendovima
+
+SMS marketing cini **10-20% ukupnog prihoda** za vecinu DTC brendova, a top performeri dostignu i **26% narudzbi iz SMS kanala** (OpenSend, Omnisend, 2025).
+
+Konkretni primeri iz e-commerce automatizacije:
+
+- **Abandoned cart SMS:** $4-$11 prihoda po poruci za odecne brendove
+- **Low inventory alert:** $1.50-$3.20 po poruci
+- **Welcome flow SMS:** konverzija 12-18% (Klaviyo, 2026)
+- **Personalizovane poruke:** 35% veci engagement od generickih (Infobip, 2025)
+
+Kljucni takeaway: **automatizovani SMS generise 5x vise prihoda po slanju** od broadcast kampanja ($0.74 vs $0.15 — OpenSend, 2025).
+
+Za strategiju sprecavanja napustanja korpe pogledajte [napustanje korpe statistika](/blog/napustanje-korpe-statistika-po-industriji-2026). Za customer lifetime value pogledajte [CLV benchmark](/blog/customer-lifetime-value-clv-po-industriji-benchmark-statistika-2026).
+
+## Kada SMS marketing ima smisla (a kada ne)
+
+SMS je najefikasniji za:
+
+1. **Abandoned cart recovery** — kombinacija email + SMS daje 287% vecu konverziju od samog emaila (VWO, 2025)
+2. **Flash prodaje i vremenski ogranicene ponude** — 90% procitanost za 3 minuta je idealna za urgentne CTA
+3. **Podsetnike za zakazane termine** — smanjuju no-show za 30-40%
+4. **Order confirmation i shipping update** — 50%+ kupaca preferira SMS za transakcione poruke
+5. **Re-engagement neaktivnih kupaca** — SMS reactivation flow konvertuje 3-5x bolje od email re-engagement sekvence
+
+SMS **nije idealan** za:
+
+- Dugi edukativni sadrzaj (ogranicenje na 160 karaktera)
+- Hladni outreach (zahteva prethodni opt-in, regulisan zakonom)
+- Visokofrekventnu komunikaciju (vise od 4-6 poruka nedeljno = odliv)
+
+Za retargeting strategiju pogledajte [retargeting i remarketing statistika](/blog/retargeting-remarketing-statistika-ctr-roas-konverzija-2026).
+
+## Kljucni zakljucci
+
+SMS marketing u 2026. nudi metriku koju nijedan drugi kanal ne moze da replicira: **98% open rate, CTR do 36%, i ROI od $71 po dolaru**. Ali razlika izmedju prosecnog i vrhunskog SMS programa je ogromna — broadcast kampanje konvertuju ispod 1%, dok automatizovane, ponasanjem trigerovane poruke dostizu 37%.
+
+Za srpsko trziste, gde je penetracija mobilnih telefona iznad 90% i SMS ostaje primarni komunikacioni kanal za znacajan deo populacije, ovi benchmarci su posebno relevantni.
+
+Zelite da integrisete SMS u svoju marketing strategiju? [Javite nam se](/kontakt) za besplatnu konsultaciju i analizu koliko bi SMS automation mogao da donese vasem biznisu.
+
+**Izvori citirani u ovom clanku:** Omnisend (2025), SimpleTexting (2025), Sakari SMS Marketing Benchmarks (2025), Klaviyo SMS Benchmarks (2026), Project Broadcast (2026), OpenSend E-commerce SMS Stats (2025), Infobip SMS Benchmarks (2025), MarketingLTB (2025), EntrepreneursHQ SMS Statistics (2025), AudienceTap SMS Statistics (2025), WordStream Ads Benchmarks (2025), DMA/Litmus Email ROI Report (2025), Triple Whale Platform Benchmarks (2025), VWO Retargeting Statistics (2025).
+`
+  },
+  {
     slug: 'voice-search-glasovna-pretraga-uticaj-na-lokalni-seo-statistika-2026',
     title: 'Voice search i lokalni SEO: kako glasovna pretraga menja nacin na koji kupci vas pronalaze',
     excerpt: 'Statistike o glasovnoj pretrazi 2025-2026. 76% voice search upita je lokalno, 8.4 milijarde glasovnih asistenata i kako optimizovati za "blizu mene".',
