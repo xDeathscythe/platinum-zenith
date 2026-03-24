@@ -1,5 +1,104 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'voice-search-glasovna-pretraga-uticaj-na-lokalni-seo-statistika-2026',
+    title: 'Voice search i lokalni SEO: kako glasovna pretraga menja nacin na koji kupci vas pronalaze',
+    excerpt: 'Statistike o glasovnoj pretrazi 2025-2026. 76% voice search upita je lokalno, 8.4 milijarde glasovnih asistenata i kako optimizovati za "blizu mene".',
+    date: '2026-03-24',
+    category: 'Lokalni SEO',
+    readTime: '7 min',
+    content: `
+## 8.4 milijarde glasovnih asistenata — vise nego ljudi na planeti
+
+Voice search (glasovna pretraga) nije buducnost. To je sadasnjost sa **8.4 milijarde glasovnih asistenata** u upotrebi globalno u 2024 — vise od ukupne svetske populacije. Svaki pametni telefon, pametni zvucnik i auto ima glasovnog asistenta.
+
+Za lokalne biznise u Srbiji, ovo je izuzetno vazno jer **76% svih glasovnih pretraga** ima lokalni intent — "restoran blizu mene", "stomatolog otvoreno sada", "autoservis u blizini".
+
+Za lokalni SEO pogledajte [GBP optimizacija](/blog/google-business-profile-optimizacija-srbija-2026). Za lokalne citate pogledajte [citati i direktorijumi vodic](/blog/lokalni-seo-citati-direktorijumi-srbija-2026).
+
+## Koliko ljudi koristi glasovnu pretragu
+
+- **20.5% globalnog stanovnistva** aktivno koristi voice search (2025)
+- **35% Amerikanaca** starijih od 12 godina poseduje pametni zvucnik (101M+ korisnika)
+- **27% korisnika** koristi voice search na mobilnom telefonu
+- **71% korisnika** preferira glasovnu pretragu kad zele brz odgovor bez kucanja
+- Prosecni voice search upit ima **29 reci** (5x duze od tekst pretrage)
+
+## Lokalni uticaj: zasto je voice search vazan za vas biznis
+
+### 76% je lokalno
+
+- **76% glasovnih pretraga** ima lokalni intent ("near me", "blizu mene", "u blizini")
+- **58% korisnika** koristi voice search da pronadje lokalne prodavnice i usluge
+- **27% posetilaca** posle glasovne pretrage ode na sajt tog biznisa
+- Lokalni voice upiti su cesto spontani i traze trenutnu informaciju ("da li je otvoreno", "koji je broj telefona")
+
+### Primeri upita koje vasi kupci vec koriste
+
+- "Koji je najbolji stomatolog blizu mene?"
+- "Frizerski salon koji prima bez zakazivanja"
+- "Dostava hrane otvoreno sada"
+- "Autoservis zamena ulja cena"
+- "Marketing agencija u Beogradu"
+
+Za SEO troskove pogledajte [SEO optimizacija cena](/seo-optimizacija-cena).
+
+## Kako optimizovati za voice search (5 koraka)
+
+### 1) FAQ stranice sa konverzacionim pitanjima
+
+Voice search upiti su pitanja: "Kako", "Koji", "Gde", "Koliko". Napravite FAQ sekciju na sajtu sa tacnim pitanjima koja vasi kupci postavljaju glasom. Odgovorite u 2-3 recenice (Featured Snippet format).
+
+**50% voice search odgovora** dolazi iz Featured Snippet-ova. Pogledajte [Featured Snippet vodic](/blog/featured-snippet-i-ai-overview-uticaj-na-klikove-statistika-2026).
+
+### 2) Lokalni SEO signali
+
+- **Google Business Profile** mora biti kompletno popunjen (radno vreme, adresa, telefon, kategorija)
+- **NAP konzistentnost** na svim platformama (isto ime, adresa, telefon svuda)
+- **Recenzije** — vise recenzija = vecu sansa da Google vas preporuci glasom
+
+Za GBP pogledajte [kompletna checklista](/blog/google-business-profile-optimizacija-srbija-2026).
+
+### 3) Structured Data (Schema markup)
+
+LocalBusiness schema govori Google-u tacno gde ste, sta radite i kad ste otvoreni. Ovo je kljucno za glasovne upite tipa "koji je otvoreno sada blizu mene".
+
+### 4) Brzina sajta (obavezno)
+
+Voice search korisnici ocekuju INSTANT odgovor. Ako se sajt ucitava 5 sekundi, Google nece vas predloziti kao glasovni rezultat. Pogledajte [brzina sajta uticaj na rangiranje](/blog/kako-brzina-sajta-utice-na-rangiranje-na-googlu-2026).
+
+### 5) Long-tail kljucne reci u prirodnom govoru
+
+Umesto "stomatolog Beograd", optimizujte za "koji je najbolji stomatolog u Beogradu za deciju stomatologiju". Voice search upiti su dugi i konverzacioni — vasi sadrzaj treba da odrazava nacin na koji ljudi GOVORE, ne kako kucaju.
+
+## Smart zvucnici: trziste i trendovi
+
+- **Amazon Echo:** 65-67% trzisnog udela u SAD (dominantan)
+- **Google Nest:** 17-27%
+- **Apple HomePod:** 15-21%
+- **Globalno trziste pametnih zvucnika:** 15.1 milijardi USD (2025), prognoza 52.4 milijarde do 2030
+- **Google Assistant** razume ~100% pitanja i daje tacan odgovor u 92.9% slucajeva
+
+## Sta ovo znaci za srpske firme
+
+Voice search u Srbiji je jos uvek u ranoj fazi (vecina koristi Google Assistant na telefonu, pametni zvucnici su retki). Ali trend raste brzo:
+
+- **Mladi korisnici** (18-35) vec redovno koriste glasovnu pretragu na telefonu
+- **Lokalne pretrage** su najcesce (76%) — idealno za male biznise
+- Firme koje se sad optimizuju za voice search ce imati prednost kad trend eksplodira
+
+### Prioritetne akcije za srpske firme
+
+1. Popunite GBP profil do kraja (100%)
+2. Dodajte FAQ sa konverzacionim pitanjima na sajt
+3. Ubrzajte sajt na ispod 3 sekunde
+4. Koristite structured data (LocalBusiness schema)
+
+Za profesionalnu lokalnu SEO strategiju, javite se preko [kontakt forme](/kontakt). Za kompletnu digitalnu strategiju pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+*Izvori: DemandSage Voice Search Statistics (2025), Sixth City Marketing Voice Search Stats (2025), Electroiq Smart Speaker Statistics (2025), Fortune Business Insights Smart Speaker Market (2025), Boston Institute of Analytics Voice SEO (2025).*
+`
+  },
+  {
     slug: 'personalizacija-u-marketingu-uticaj-na-prihod-konverziju-statistika-2026',
     title: 'Personalizacija u marketingu: koliko zaista povecava prihod i konverziju',
     excerpt: 'Statistike o uticaju personalizacije na prihod, konverziju i zadrzavanje kupaca. Zasto personalizovani CTA konvertuje 202% bolje i kako poceti.',

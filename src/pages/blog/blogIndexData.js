@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "voice-search-glasovna-pretraga-uticaj-na-lokalni-seo-statistika-2026",
+    "title": "Voice search i lokalni SEO: kako glasovna pretraga menja nacin na koji kupci vas pronalaze",
+    "excerpt": "Statistike o glasovnoj pretrazi 2025-2026. 76% voice search upita je lokalno, 8.4 milijarde glasovnih asistenata i kako optimizovati za \"blizu mene\".",
+    "date": "2026-03-24",
+    "category": "Lokalni SEO",
+    "readTime": "7 min",
+    "isDraft": false
+  },
+  {
     "slug": "personalizacija-u-marketingu-uticaj-na-prihod-konverziju-statistika-2026",
     "title": "Personalizacija u marketingu: koliko zaista povecava prihod i konverziju",
     "excerpt": "Statistike o uticaju personalizacije na prihod, konverziju i zadrzavanje kupaca. Zasto personalizovani CTA konvertuje 202% bolje i kako poceti.",
