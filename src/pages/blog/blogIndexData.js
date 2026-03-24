@@ -2323,5 +2323,14 @@ export const blogIndexPosts = [
     "category": "Marketing",
     "readTime": "11 min",
     "isDraft": false
+  },
+  {
+    "slug": "zadrzavanje-kupaca-retention-rate-churn-lojalnost-statistika-2026",
+    "title": "Zadrzavanje kupaca: retention, churn i lojalnost u brojevima za 2026",
+    "excerpt": "Koliko kosta izgubiti kupca? 5-25x je skuplje naci novog nego zadrzati postojeceg. Pogledajte retention, churn i loyalty statistike po industriji za 2026.",
+    "date": "2026-03-24",
+    "category": "Statistika",
+    "readTime": 8,
+    "isDraft": false
   }
 ]
