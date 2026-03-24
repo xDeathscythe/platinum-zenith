@@ -1,5 +1,108 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'content-marketing-vs-placeni-oglasi-roi-cena-po-leadu-statistika-2026',
+    title: 'Content marketing vs placeni oglasi: koji donosi bolji ROI na duge staze',
+    excerpt: 'Uporedna statistika content marketinga vs placenih oglasa. ROI 748% vs 200%, cena po lead-u, organska konverzija 14.6% vs 1.7% i kada koristiti koji.',
+    date: '2026-03-24',
+    category: 'Marketing',
+    readTime: '7 min',
+    content: `
+## Content marketing: 748% ROI. Placeni oglasi: 200% ROI. Ali pricekajte...
+
+Na prvi pogled, content marketing pobedjuje ubedljivo: SEO-fokusiran sadrzaj donosi do **748% ROI** dok PPC prosecno donosi **200%**. Ali ove brojke kriju vazan detalj: content marketing zahteva **6-12 meseci** da pocne da vraca, dok placeni oglasi donose rezultate **istog dana**.
+
+Prava strategija nije "jedno ili drugo". Prava strategija je "oba, u pravom momentu".
+
+Za content strategiju pogledajte [content marketing plan](/blog/content-marketing-plan-za-male-firme-srbija-2026). Za troskove oglasavanja pogledajte [Google reklame cena](/google-reklame-cena).
+
+## ROI uporedna tabela
+
+| Kanal | Prosecni ROI | Vreme do ROI | Trajnost |
+|-------|-------------|-------------|----------|
+| **SEO/Content** | 748% (high-intent) | 6-12 meseci | Godinama (compound) |
+| **B2B Content** | 3:1 do 13:1 | 6-12 meseci | Godinama |
+| **Google Ads (PPC)** | 200% (2:1) | Isti dan | Dok placate |
+| **Facebook Ads** | 175% (1.75:1) | Isti dan | Dok placate |
+| **Retargeting** | 10x visi CTR | 1-7 dana | Dok placate |
+
+**Kljucni podatak:** Firme sa dokumentovanom content strategijom imaju **33-60% visi ROI** od onih bez (Content Marketing Institute). Za merenje pogledajte [kako meriti ROI](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
+
+## Cena po lead-u: content vs placeni
+
+### Content marketing CPL (2025)
+
+- **SEO:** prosecno **30 USD** po lead-u (najjeftiniji kanal!)
+- **Email marketing:** prosecno **50 USD**
+- **Webinari:** prosecno **70 USD**
+- **Organsko:** E-commerce **83 USD**, Fintech **410 USD**, Edukacija **700 USD**
+- **Content generalno:** 3x vise lead-ova za **62% manju cenu** od standardnog oglasavanja
+
+### Placeni oglasi CPL (2025)
+
+- **Google Ads:** prosecno **70 USD** (rast 5.13% god-za-god)
+- **Facebook Ads:** prosecno **22 USD** (najjeftiniji placeni kanal)
+- **LinkedIn Ads:** **15-350 USD** (zavisi od preciznosti targetiranja)
+- **Bing Ads:** prosecno **41 USD**
+- **Prosek svih industrija:** ~**200 USD** (raspon 10-500+ USD)
+
+**Zakljucak:** Content marketing donosi lead-ove za **62% manje** od placenih oglasa, ali zahteva vise vremena i strpljenja.
+
+## Konverzija: organski vs outbound
+
+Ovo je mozda najvaznija statistika:
+
+- **Organski lead-ovi (SEO/content):** konverzija **14.6%**
+- **Outbound lead-ovi (hladni pozivi, reklame):** konverzija **1.7%**
+
+Organski lead konvertuje **8.5x bolje** jer je kupac SAM dosao do vas — aktivno je trazio resenje i pronasao vas sadrzaj. Pogledajte [SEO vs PPC uporedna statistika](/blog/seo-vs-ppc-uporedna-statistika-konverzija-cena-roi-2026).
+
+## Dugorocni efekat: content raste, oglasi ne
+
+### Content marketing compound efekat
+
+- Blog post koji napisete danas moze da donosi saobracaj **3-5+ godina**
+- Svaki novi post pojacava autoritet celokupnog sajta
+- Cena po poseti **pada** sa vremenom dok sadrzaj raste
+- Firme koje redovno bloguju imaju **13x vecu sansu** za pozitivan ROI (HubSpot)
+- Cena po lead-u je **pala 19% god-za-god** za content marketing
+
+### Placeni oglasi: linearan trosak
+
+- Klik kosta isto danas i za godinu dana (ili vise — CPC raste 13% godisnje)
+- Ugasite kampanju = saobracaj odmah pada na NULU
+- ROI ostaje **konstantan ili pada** zbog ad fatigue i konkurencije
+- Zahteva stalnu optimizaciju i svez kreativni sadrzaj
+
+## Kada koristiti content, kada placene oglase
+
+### Content marketing je bolji za:
+
+- Firme koje planiraju dugorocno (6+ meseci horizont)
+- B2B biznise gde je sales cycle dug (kupac istrazuje pre odluke)
+- Industrije sa visokim CPC-om (pravne usluge, finansije, nekretnine)
+- Izgradnju autoriteta i poverenja (kupci vise veruju organskim rezultatima)
+- SEO rangiranje i organski saobracaj
+
+### Placeni oglasi su bolji za:
+
+- Instant rezultate (lansiranje proizvoda, sezonske ponude)
+- Testiranje poruka i kljucnih reci pre SEO investicije
+- Remarketing (vracanje posetilaca koji su vec bili na sajtu). Pogledajte [Facebook remarketing vodic](/blog/facebook-ads-remarketing-strategija-srbija-2026).
+- Nove firme bez organskog autoriteta
+- E-commerce sa kratkim kupovnim ciklusom
+
+### Idealna kombinacija (preporuceni budzet split)
+
+**Godina 1:** 60% placeni / 40% content (treba vam instant saobracaj dok gradite sadrzaj)
+**Godina 2:** 40% placeni / 60% content (organski pocinje da donosi rezultate)
+**Godina 3+:** 20% placeni / 80% content (content dominira, placeni samo za remarketing i sezonske kampanje)
+
+Za kompletnu strategiju pogledajte [marketing strategija vodic](/blog/marketing-strategija-za-rast-firme-srbija-2026). Za pomoc sa content i paid strategijom javite se preko [kontakt forme](/kontakt).
+
+*Izvori: Content Marketing Institute ROI Report (2025), HubSpot State of Marketing (2025), WordStream Google Ads Benchmarks (2025), First Page Sage SEO ROI Study (2025), Marketing LTB Content Marketing Statistics (2025).*
+`
+  },
+  {
     slug: 'cena-akvizicije-kupca-cac-po-industriji-benchmark-statistika-2026',
     title: 'Koliko kosta novi kupac: CAC benchmark po industriji, kanalu i poslovnom modelu 2026',
     excerpt: 'Prosecna cena akvizicije kupca (CAC) po industriji i marketing kanalu. B2B vs B2C, SaaS vs e-commerce, organic vs paid — benchmark podaci za 2025-2026.',
@@ -58,7 +161,7 @@ B2C firme imaju nize CAC-ove jer je odluka o kupovini brza, obicno ne zahteva ko
 
 Hrana i pice ima najnizi CAC ($45-$53) jer je ponavljanje kupovine cesto i marketing oslonjen na lokalni doseg. Luksuzna roba i zdravstvo imaju znacajno vise troskove jer zahtevaju duze razmatranje i vecu dozu poverenja pre konverzije.
 
-Za prosecnu vrednost narudzbe po industriji pogledajte [AOV benchmark](/blog/aov-prosecna-vrednost-porudzbine-po-industriji-benchmark-statistika-2026).
+Za prosecnu vrednost narudzbe po industriji pogledajte [AOV benchmark](/blog/prosecna-vrednost-porudzbine-aov-po-industriji-benchmark-statistika-2026).
 
 ## CAC po marketing kanalu: gde je najjeftiniji kupac
 

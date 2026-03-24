@@ -3,6 +3,24 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "content-marketing-vs-placeni-oglasi-roi-cena-po-leadu-statistika-2026",
+    "title": "Content marketing vs placeni oglasi: koji donosi bolji ROI na duge staze",
+    "excerpt": "Uporedna statistika content marketinga vs placenih oglasa. ROI 748% vs 200%, cena po lead-u, organska konverzija 14.6% vs 1.7% i kada koristiti koji.",
+    "date": "2026-03-24",
+    "category": "Marketing",
+    "readTime": "7 min",
+    "isDraft": false
+  },
+  {
+    "slug": "cena-akvizicije-kupca-cac-po-industriji-benchmark-statistika-2026",
+    "title": "Koliko kosta novi kupac: CAC benchmark po industriji, kanalu i poslovnom modelu 2026",
+    "excerpt": "Prosecna cena akvizicije kupca (CAC) po industriji i marketing kanalu. B2B vs B2C, SaaS vs e-commerce, organic vs paid — benchmark podaci za 2025-2026.",
+    "date": "2026-03-24",
+    "category": "Marketing",
+    "readTime": "9 min",
+    "isDraft": false
+  },
+  {
     "slug": "checkout-optimizacija-statistika-konverzija-forme-placanje-2026",
     "title": "Checkout optimizacija: koliko polja, nacina placanja i koraka treba za maksimalnu prodaju",
     "excerpt": "Statistike o checkout optimizaciji 2025-2026. Koliko polja smanjuje konverziju, zasto guest checkout povecava prodaju 45% i uticaj nacina placanja.",
