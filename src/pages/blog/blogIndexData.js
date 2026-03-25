@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "content-marketing-statistika-roi-blog-lead-generation-cpl-2026",
+    "title": "Content marketing statistika (2026): ROI, cena po leadu i uticaj bloga na prodaju",
+    "excerpt": "Content marketing donosi 3x vise leadova od outbound marketinga po 62% nizoj ceni. Prosečan ROI je 3$ na svaki ulozen dolar. Podaci za B2B i B2C.",
+    "date": "2026-03-25",
+    "category": "Marketing",
+    "readTime": "9 min",
+    "isDraft": false
+  },
+  {
     "slug": "video-marketing-statistika-roi-kratki-video-youtube-tiktok-reels-2026",
     "title": "Video marketing u brojevima: ROI, kratki video, YouTube, TikTok i Reels (2026)",
     "excerpt": "93% marketera belezi pozitivan ROI od videa. Video na landing stranici povecava konverziju do 86%. Kratki video 2.5x veci engagement. Benchmarke po platformi.",

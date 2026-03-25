@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-03-25T14:31:38.793Z",
-  "postsChecked": 208,
+  "generatedAt": "2026-03-25T15:37:51.484Z",
+  "postsChecked": 209,
   "issueCount": 0,
   "checked": [
+    {
+      "route": "/blog/content-marketing-statistika-roi-blog-lead-generation-cpl-2026",
+      "serviceHits": 3,
+      "hasKontakt": true
+    },
     {
       "route": "/blog/video-marketing-statistika-roi-kratki-video-youtube-tiktok-reels-2026",
       "serviceHits": 3,
