@@ -1,12 +1,8 @@
 const fs = require('fs')
 let c = fs.readFileSync('src/pages/blog/blogData.js', 'utf8')
 c = c.replaceAll(
-  '/blog/roas-po-industriji-i-platformi-facebook-google-tiktok-linkedin-2026',
-  '/blog/roas-po-industriji-i-platformi-benchmark-statistika-2026'
-)
-c = c.replaceAll(
-  '/blog/retargeting-zasto-95-posto-posetilaca-ne-kupi-iz-prve',
-  '/blog/retargeting-zasto-95-posetilaca-ne-kupi'
+  '/blog/koliko-zapravo-zaradjuje-email-marketing-roi-statistika-2026',
+  '/blog/koliko-zapravo-zaradjuje-email-marketing-roi-po-industriji-2026'
 )
 fs.writeFileSync('src/pages/blog/blogData.js', c, 'utf8')
-console.log('Fixed broken links')
+console.log('Fixed')

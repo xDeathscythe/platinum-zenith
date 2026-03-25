@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-03-25T08:41:20.817Z",
-  "postsChecked": 205,
+  "generatedAt": "2026-03-25T09:37:14.780Z",
+  "postsChecked": 206,
   "issueCount": 0,
   "checked": [
+    {
+      "route": "/blog/influencer-marketing-statistika-roi-mikro-influenseri-ugc-2026",
+      "serviceHits": 3,
+      "hasKontakt": true
+    },
     {
       "route": "/blog/core-web-vitals-page-speed-konverzija-bounce-rate-seo-statistika-2026",
       "serviceHits": 4,

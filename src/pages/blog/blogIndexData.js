@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "influencer-marketing-statistika-roi-mikro-influenseri-ugc-2026",
+    "title": "Influencer marketing u brojevima: ROI, mikro-influenseri i UGC (statistika za 2026)",
+    "excerpt": "Trziste influencer marketinga 32.5 milijardi dolara. Prosecni ROI 5.78x. Mikro-influenseri imaju 60% visi engagement uz desetinu cene. UGC konvertuje 10x bolje.",
+    "date": "2026-03-25",
+    "category": "Marketing",
+    "readTime": "9 min",
+    "isDraft": false
+  },
+  {
     "slug": "drustvene-mreze-statistika-korisnici-engagement-vreme-ad-spend-2026",
     "title": "Drustvene mreze u brojevima: korisnici, engagement, vreme i potrosnja na oglase (2026)",
     "excerpt": "5.66 milijardi korisnika, 2h 23min dnevno, TikTok engagement 4.2%, globalna potrosnja na oglase 277 milijardi dolara. Benchmark podaci po platformi.",
@@ -2381,7 +2390,7 @@ export const blogIndexPosts = [
   {
     "slug": "marketing-automatizacija-roi-usvajanje-produktivnost-benchmark-statistika-2026",
     "title": "Marketing automatizacija: ROI, usvajanje i produktivnost — benchmark za 2025-2026",
-    "excerpt": "Marketing automatizacija donosi $5.44 na svaki ulozeni dolar (544% ROI). Trziste vredi $47 milijardi, 76% firmi koristi automatizaciju. Citirani podaci.",
+    "excerpt": "Marketing automatizacija donosi 5.44 dolara na svaki ulozeni dolar (544% ROI). Trziste vredi $47 milijardi, 76% firmi koristi automatizaciju. Citirani podaci.",
     "date": "2026-03-25",
     "category": "Marketing",
     "readTime": "14 min",

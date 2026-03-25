@@ -5,169 +5,132 @@ const blogDataPath = path.join(__dirname, 'src', 'pages', 'blog', 'blogData.js')
 let content = fs.readFileSync(blogDataPath, 'utf8')
 
 const newPost = `  {
-    slug: 'drustvene-mreze-statistika-korisnici-engagement-vreme-ad-spend-2026',
-    title: 'Drustvene mreze u brojevima: korisnici, engagement, vreme i potrosnja na oglase (2026)',
-    excerpt: '5.66 milijardi korisnika, 2h 23min dnevno, TikTok engagement 4.2%, globalna potrosnja na oglase $277B. Benchmark podaci po platformi.',
+    slug: 'influencer-marketing-statistika-roi-mikro-influenseri-ugc-2026',
+    title: 'Influencer marketing u brojevima: ROI, mikro-influenseri i UGC (statistika za 2026)',
+    excerpt: 'Trziste influencer marketinga 32.5 milijardi dolara. Prosecni ROI 5.78x. Mikro-influenseri imaju 60% visi engagement uz desetinu cene. UGC konvertuje 10x bolje.',
     date: '2026-03-25',
     category: 'Marketing',
-    readTime: '10 min',
+    readTime: '9 min',
     content: \`
-## 5.66 milijardi ljudi koristi drustvene mreze
+## Industrija od 32.5 milijardi dolara
 
-Taj broj je tesko zamisliti. Skoro 70% celokupne svetske populacije ima nalog na bar jednoj platformi. I ta cifra raste za oko 260 miliona novih korisnika godisnje.
+Influencer marketing je prestao da bude eksperiment pre nekoliko godina. U 2025. je dostigao 32.55 milijardi dolara globalno, a u 2026. prelazi 40 milijardi. Rast od 33% godisnje, vec celu deceniju.
 
-Ali za vlasnike firmi, ukupan broj korisnika je beskoristan bez konteksta. Bitno je gde su VASI potencijalni kupci, koliko vremena provode tamo, i kolika je sansa da primete vasu poruku.
+Ali za vecinu firmi u Srbiji, influencer marketing i dalje znaci "platimo nekoga sa 100.000 pratilaca da objavi story." Podaci pokazuju da je taj pristup los. Evo zasto.
 
-Evo sta kazu podaci za svaku platformu.
+## ROI koji opravdava ulaganje
 
-## Broj korisnika po platformi (2025-2026)
+Prosecni povrat: **5.78 dolara na svaki ulozen dolar.** Top kampanje dostizu 11 do 18 dolara povrata.
 
-### Facebook — i dalje najveci
+To cini influencer marketing jednim od kanala sa najvisim ROI-em u digitalnom marketingu. Za poredjenje, prosecni Google Ads ROI je [oko 2x](/blog/google-ads-roi-statistika-roas-po-industriji-srbija-2026), a email marketing donosi [oko 36-42 dolara na dolar](/blog/koliko-zapravo-zaradjuje-email-marketing-roi-statistika-2026).
 
-- **3.07 milijardi** mesecno aktivnih korisnika u 2025, rast ka **3.22 milijarde** u 2026
-- Najstarija demografija medju velikim platformama, ali i dalje dominantan za lokalne biznise
-- U Srbiji i regionu, Facebook ostaje primarna platforma za oglas ciljanje 25-65 godine
+Ipak, 56% marketera kaze da im je merenje ROI-a influencer kampanja i dalje izazov. Problem nije u kanalu, vec u tome sto vecina firmi nema pravilno konverziono pracenje za influencer saradnje.
 
-Za cene oglasavanja pogledajte [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama).
+Uprkos tome, 80% brendova je zadrzalo ili povecalo budzet za influencere u 2025, a 74% planira dalje povecanje u 2026.
 
-### YouTube — druga po velicini mreza na svetu
+## Zasto mikro-influenseri pobedjuju
 
-- **2.53 milijarde** korisnika u 2025, rast ka **2.85 milijardi** u 2026
-- Druga najpopularnija pretrazivacka platforma posle Google-a
-- Video sadrzaj koji ostaje relevantan mesecima i godinama (za razliku od postova na feedu)
+Ovo je podatak koji menja pristup: mikro-influenseri (10.000 do 100.000 pratilaca) imaju **60% visi engagement** od mega-influensera, uz otprilike **desetinu cene.**
 
-### Instagram — 3 milijarde aktivnih korisnika
+### Engagement rate po velicini naloga
 
-- **3 milijarde** MAU u 2025
-- Reels format dominira organski doseg
-- Kriticna platforma za vizuelne biznise (moda, hrana, nekretnine, lepota)
+**Instagram:**
+- Nano-influenseri (1K-10K): 3.5-8% engagement
+- Mikro-influenseri (10K-100K): 2.5-5% engagement (prosek 3.86%)
+- Mega-influenseri (1M+): 1.21% engagement
 
-Za cene pogledajte [Instagram reklame cena](/instagram-reklame-cena).
+**TikTok:**
+- Nano-influenseri: 10.3% engagement
+- Mikro-influenseri (10K-50K): 8.7% engagement
 
-### TikTok — najbrzi rast u istoriji
+Razlika je ogromna. Nano-influenser na TikToku ima 10.3% engagement, dok mega-influenser jedva prelazi 1%. Razlog: manja publika znaci bliskiji odnos, vise komentara i interakcija. Algoritam to nagradjuje.
 
-- **1.99 milijardi** korisnika u 2025
-- Preko **150 miliona** mesecno aktivnih korisnika samo u SAD-u
-- Publika se siri: vise nije samo za tinejdzere, 35-54 godina je najbrze rastuci segment
+### Sta to znaci u praksi
 
-### LinkedIn — B2B dominacija
+Umesto da platite jednog influensera sa milion pratilaca (recimo 2.000-5.000 evra za post), mozete angazovati 10 mikro-influensera po 200-500 evra i dobiti:
+- Vecu ukupnu pokrivenost
+- Raznolikiji sadrzaj
+- Autenticnije preporuke
+- Bolji engagement i konverziju
 
-- Presao **1 milijardu** clanova u 2025
-- Jedina platforma gde je profesionalni kontekst default
-- Najbolji organski doseg medju svim platformama za B2B sadrzaj
+73% brendova vec preferira saradnju sa mikro i mid-tier kreatorima. Trend je jasan.
 
-### Ostale platforme
+## Kratki video dominira
 
-- **WhatsApp:** 3 milijarde MAU (bitno za direktnu komunikaciju, ne za oglase)
-- **Telegram:** 1 milijarda MAU
-- **X (bivsi Twitter):** 660 miliona u 2026 (blagi pad)
-- **Pinterest:** 520 miliona (jak za e-commerce, pogotovo zenski proizvodi)
-- **Reddit:** 770 miliona (raste kao izvor za Google pretragu)
-- **Threads:** 380 miliona MAU u 2026 (znacajan rast sa 285M u 2025)
+Najefektivniji format za influencer marketing: **kratki video od 20 do 40 sekundi.** TikTok i Instagram Reels su platforme gde influenser sadrzaj najvise konvertuje.
 
-Prosecna osoba koristi **6.8 do 8 razlicitih platformi** mesecno. To znaci da vasi kupci nisu na jednom mestu. Ali ne morate biti svuda. Morate biti tamo gde su oni najaktivniji.
+Za poredjenje engagement-a po platformi pogledajte [drustvene mreze statistika](/blog/drustvene-mreze-statistika-korisnici-engagement-vreme-ad-spend-2026).
 
-## Koliko vremena ljudi provode na drustvenim mrezama
+## UGC (User-Generated Content) — statistika koja menja igru
 
-Globalni prosek u 2026: **2 sata i 23 minuta dnevno.**
+UGC je sadrzaj koji kreiraju korisnici, ne brend. Recenzije, unboxing videi, fotografije proizvoda od strane kupaca, komentari i testimonijali. Trziste UGC platformi doseze 8.48 milijardi dolara u 2026.
 
-Ovo je ostalo relativno stabilno poslednjih godina (oko 2h 20min do 2h 25min). Ali raspodela po platformi se menja:
+### Poverenje
 
-- **TikTok:** 58 minuta dnevno (najvise od svih platformi)
-- **Instagram:** 52 minuta dnevno
-- **Facebook:** 38 minuta dnevno
+- **92%** potrosaca veruje preporukama drugih korisnika vise nego porukama brendova
+- **79%** kaze da UGC direktno utice na njihovu odluku o kupovini
+- **61%** veruje preporukama influensera
 
-TikTok je jedina platforma gde korisnici provode vise vremena nego prosle godine. Instagram drzi tempo, dok Facebook lagano gubi vreme korisnika ali ne i njihov broj.
+### Engagement
 
-Za firme ovo znaci: imate oko **38 minuta** da dosegnete nekog na Facebooku. Na TikToku imate 58 minuta. Ali kvalitet te paznje nije isti. Na TikToku korisnik brzo skroluje, na LinkedInu citao jedan post 3 minuta.
+- UGC generise **6.9x veci engagement** nego sadrzaj koji kreira brend
+- Kampanje sa UGC-jem imaju **50% visi engagement rate**
+- Instagram postovi sa UGC-jem dobijaju **70% vise interakcija**
 
-## Engagement rate po platformi (benchmark 2026)
+### Konverzije
 
-Ovo je najbitniji podatak za firme koje koriste drustvene mreze za marketing. Engagement rate pokazuje koliki procenat ljudi koji vide vas post zapravo reaguje (lajk, komentar, deljenje, klik).
+- UGC postovi imaju **10x vecu stopu konverzije** od standardnih brandiranih postova
+- E-commerce stranice sa UGC-jem konvertuju **74% bolje** nego one bez njega
+- UGC oglasi imaju **4x visi CTR** (click-through rate) i **50% nizi CPC** (cost per click)
 
-### Prosecni engagement rate po platformi
+### Platformski podaci
 
-- **TikTok:** 4.2% (najvisi medju svim platformama, rast od 49% u odnosu na prethodnu godinu)
-- **LinkedIn:** 2.1%
-- **Instagram Reels:** 1.23%
-- **Instagram (ukupno):** 0.48%
-- **X (Twitter):** 0.48%
-- **Facebook:** 0.15%
+- UGC na TikToku je **22% efikasniji** od brendiranog sadrzaja
+- Nadmasuje Facebook oglase za **32%** i obicne oglase za **46%**
 
-TikTok dominira sa ogromnom razlikom. Engagement od 4.2% znaci da na svakih 1.000 pregleda dobijete 42 interakcije. Na Facebooku je to samo 1.5.
+Zakljucak: kupci veruju drugim kupcima, ne vasem marketing timu. Ako ne koristite UGC, propustate najjeftiniji i najefikasniji oblik sadrzaja koji postoji.
 
-Ali pazite na kontekst: visok engagement ne znaci automatski visoku prodaju. TikTok engagement je cesto "pasivan" (gledanje videa), dok LinkedIn engagement (komentar na post) cesto vodi ka poslovnom razgovoru.
+## Kako poceti sa influencer marketingom u Srbiji
 
-### Engagement po velicini naloga
+### 1. Pocnite sa mikro-influenserima u vasoj nisi
 
-Manji nalozi imaju veci engagement rate. Ovo vazi za sve platforme:
+Ne trazite popularnost, trazite relevantnost. Frizerka sa 3.000 pratilaca u Novom Sadu koja pokazuje frizure u vasem salonu donosi vise klijenata nego lifestyle influenser sa 100.000 pratilaca iz Beograda.
 
-- Nalozi ispod 10.000 pratilaca: 2-5x veci engagement od naloga sa milion+
-- Razlog: algoritam favorizuje bliskost i relevantnost nad velicinom publike
+### 2. Koristite UGC kao osnovu za oglase
 
-Za firme u Srbiji sa 500-5.000 pratilaca, ovo je dobra vest. Vas engagement moze biti daleko iznad proseka ako je sadrzaj relevantan za vasu nisu.
+Najbolji Facebook i Instagram oglasi u 2026. nisu studijski snimljeni spotovi. To su autenticni videi korisnika koji pricaju o iskustvu sa vasim proizvodom. Koristite ih kao ad creative i gledajte kako vam CPC pada.
 
-## Potrosnja na oglase na drustvenim mrezama
+### 3. Merite konverzije, ne lajkove
 
-### Globalna slika
+Dajte svakom influenseru jedinstven link ili promo kod. Pratite koliko prodaja dolazi od svake saradnje. Bez ovoga, ne znate da li vam influencer marketing radi ili ne.
 
-- **$277 milijardi** potroseno na social media oglase u 2025
-- Rast od **13.6%** u odnosu na prethodnu godinu
-- Social media oglasi rastu brze nego search oglasi
-- U 2026, globalna potrosnja na oglase prelazi **$1 trilion** (svi kanali), od cega je 74.4% digitalno
+### 4. Dugorocne saradnje rade bolje
 
-### Gde idu pare?
+Jednom postu niko ne veruje. Tri do sest meseci konzistentne saradnje sa istim kreatorom gradi poverenje kod publike. To je kad influenser prestane da bude "oglas" i postane "preporuka."
 
-Meta (Facebook + Instagram) uzima najveci deo kolaca, ali TikTok raste najbrze. YouTube je stabilan drugi. LinkedIn je skup ali precizan za B2B.
+### 5. Testirajte na malom budzetu
 
-Za konkretne cene u Srbiji pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga) i [Google Ads cene](/google-reklame-cena).
+Pocnite sa 300-500 evra mesecno na 2-3 mikro-influensera. Merite rezultate 60 dana. Skaliranje dolazi posle, kad imate podatke o tome sta radi.
 
-### ROI po platformi
+Za cene oglasavanja na drustvenim mrezama pogledajte [Instagram reklame cena](/instagram-reklame-cena) i [Facebook reklame cena](/koliko-kosta-facebook-reklama).
 
-Vracanje na investiciju zavisi od industrije i ciljeva, ali generalni trend je:
+## Zakljucak: autenticnost pobedjuje budzet
 
-- **Facebook/Instagram:** najstabilniji ROI za e-commerce i lokalne usluge
-- **TikTok:** najbolji CPM (cena po 1.000 prikaza), ali konverzija zahteva dobar funnel
-- **LinkedIn:** najskuplji CPC, ali najvisi kvalitet lead-ova za B2B
-- **YouTube:** dugotrajni ROI jer video ostaje aktivan mesecima
+Influencer marketing od 32.5 milijardi dolara nije samo za velike brendove. Mikro-influenseri sa 3.86% engagement-om i UGC sa 10x vecom konverzijom su dostupni svakoj firmi, ukljucujuci i vasu.
 
-Za detaljnije poredjenje pogledajte [ROAS po platformi](/blog/roas-po-industriji-i-platformi-facebook-google-tiktok-linkedin-2026).
+Kljuc: ne kupujete doseg. Kupujete poverenje. I to poverenje se gradi kroz autenticne preporuke, ne kroz placene postove koji izgledaju kao reklame.
 
-## Sta ovo znaci za vas biznis u Srbiji
-
-### Ako imate lokalni biznis
-
-Facebook je i dalje vas primarni kanal. Najveca baza korisnika 30-65 godina u Srbiji, precizno geografsko ciljanje, relativno nizak CPC. Dodajte Instagram za vizuelni sadrzaj.
-
-### Ako prodajete online (e-commerce)
-
-Instagram + Facebook su osnova. TikTok za gornji deo funnela (svest o brendu). Pinterest ako prodajete vizuelne proizvode (nakit, odeca, dekoracija). Retargeting je obavezan jer samo [2-5% posetilaca kupi iz prve](/blog/retargeting-zasto-95-posto-posetilaca-ne-kupi-iz-prve).
-
-### Ako nudite B2B usluge
-
-LinkedIn je neizbezno. Najvisi engagement za profesionalni sadrzaj, precizno ciljanje po poziciji, industriji i velicini firme. Skuplji, ali kvalitetniji.
-
-### Ako ciljate mlađu publiku (18-34)
-
-TikTok i Instagram Reels. Engagement rate koji daleko nadmasuje sve ostale platforme. Ali sadrzaj mora biti autentican. Poliran korporativni sadrzaj ne radi na TikToku.
-
-## Zakljucak: brojevi nisu strategija
-
-5.66 milijardi korisnika zvuci impresivno u prezentaciji. Ali vas biznis ne treba 5 milijardi. Treba vam 500 pravih kupaca.
-
-Koristite ove podatke da izaberete GIDE cete biti prisutni i koliko cete uloziti. Ne pokusavajte da budete svuda. Budite tamo gde su vasi kupci najaktivniji, sa sadrzajem koji zapravo resava njihove probleme.
-
-Ako niste sigurni odakle da krenete, [javite nam se](/kontakt) za besplatnu analizu vasih kanala.
+Ako vam treba pomoc sa strategijom, [javite nam se](/kontakt).
 \`,
     schema: {
       "@context": "https://schema.org",
       "@type": "Article",
-      "headline": "Drustvene mreze u brojevima: korisnici, engagement, vreme i potrosnja na oglase (2026)",
+      "headline": "Influencer marketing u brojevima: ROI, mikro-influenseri i UGC (statistika za 2026)",
       "datePublished": "2026-03-25",
       "author": { "@type": "Organization", "name": "Platinum Zenith" },
       "publisher": { "@type": "Organization", "name": "Platinum Zenith", "url": "https://platinumzenith.com" },
-      "description": "5.66 milijardi korisnika, 2h 23min dnevno, TikTok engagement 4.2%, globalna potrosnja na oglase $277B. Benchmark podaci po platformi.",
-      "mainEntityOfPage": "https://platinumzenith.com/blog/drustvene-mreze-statistika-korisnici-engagement-vreme-ad-spend-2026"
+      "description": "Trziste influencer marketinga 32.5 milijardi dolara. Prosecni ROI 5.78x. Mikro-influenseri imaju 60% visi engagement uz desetinu cene. UGC konvertuje 10x bolje.",
+      "mainEntityOfPage": "https://platinumzenith.com/blog/influencer-marketing-statistika-roi-mikro-influenseri-ugc-2026"
     }
   },
 `
