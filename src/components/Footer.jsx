@@ -26,6 +26,7 @@ const routeMap = {
   'Marketing za stomatologe': '/marketing-za-stomatologe',
   'Marketing za advokate': '/marketing-za-advokate',
   'Marketing za nekretnine': '/marketing-za-nekretnine',
+  'Marketing za građevinske firme': '/marketing-za-gradjevinske-firme',
   'Marketing za frizerske salone': '/marketing-za-frizerske-salone',
   'Google Ads cena': '/google-reklame-cena',
   'Instagram reklame cena': '/instagram-reklame-cena',
@@ -36,7 +37,7 @@ const routeMap = {
 const columns = [
   [
     { title: 'Usluge', links: ['Digitalni Marketing', 'Web Design', 'CRO Optimizacija', 'Društvene Mreže', 'Poslovno Savetovanje'] },
-    { title: 'Industrije', links: ['E-Commerce', 'SaaS', 'Lokalni Biznisi', 'Startapovi', 'Marketing za restorane', 'Marketing za stomatologe', 'Marketing za advokate', 'Marketing za nekretnine', 'Marketing za frizerske salone'] },
+    { title: 'Industrije', links: ['E-Commerce', 'SaaS', 'Lokalni Biznisi', 'Startapovi', 'Marketing za restorane', 'Marketing za stomatologe', 'Marketing za advokate', 'Marketing za nekretnine', 'Marketing za građevinske firme', 'Marketing za frizerske salone'] },
   ],
   [
     { title: 'Kompanija', links: ['O nama', 'Case Studies', 'Blog'] },

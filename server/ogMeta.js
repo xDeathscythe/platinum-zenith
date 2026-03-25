@@ -1471,6 +1471,17 @@ const ogMeta = {
     title: 'Marketing za Privatne Skole, Kurseve i Autoskole u Srbiji | Platinum Zenith',
     description: 'Marketing za obrazovne institucije u Srbiji: Google Ads, lokalni SEO, Instagram kampanje i sajt koji pune upisne liste privatnih skola, jezickih skola i autoskola.',
   },
+  '/marketing-za-gradjevinske-firme': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Marketing za građevinske firme',
+    serviceType: 'Construction marketing',
+    url: `${SITE_URL}/marketing-za-gradjevinske-firme`,
+    areaServed: { '@type': 'Country', name: 'Srbija' },
+    provider: { '@type': 'Organization', name: 'Platinum Zenith', url: SITE_URL },
+    title: 'Marketing za Građevinske Firme | Platinum Zenith',
+    description: 'Povećajte broj upita za građevinske projekte kroz SEO, Google Ads i web dizajn. Generisanje leadova za visoku gradnju i renovacije.',
+  },
   '/marketing-za-kafice-i-barove': {
     '@context': 'https://schema.org',
     '@type': 'Service',
@@ -1493,6 +1504,10 @@ const ogMeta = {
   '/marketing-za-restorane': {
     title: 'Marketing za Restorane | Digitalni Marketing za Ugostiteljstvo | Platinum Zenith',
     description: 'Marketing za restorane u Srbiji: Google Business, društvene mreže, oglasi i sajt koji povećavaju rezervacije, porudžbine i popunjenost stolova.',
+  },
+  '/marketing-za-gradjevinske-firme': {
+    title: 'Marketing za Građevinske Firme | Platinum Zenith',
+    description: 'Povećajte broj upita za građevinske projekte kroz SEO, Google Ads i web dizajn. Generisanje leadova za visoku gradnju i renovacije.',
   },
   '/marketing-za-kafice-i-barove': {
     title: 'Marketing za Kafice i Barove u Srbiji | Platinum Zenith',
@@ -1733,6 +1748,16 @@ const serverFaqByPath = {
       q: 'Da li treba da imamo sajt pre nego sto pocnemo sa kampanjama?',
       a: 'Sajt nije obavezan za start, ali drasticno poboljsava rezultate. Mozemo poceti sa landing stranicom za jednu uslugu i prosiriti kasnije. Bitno je da posetilac moze da se javi u dva klika.',
     },
+  ],
+  '/marketing-za-gradjevinske-firme': [
+    {
+      q: 'Koliko košta marketing za građevinsku firmu?',
+      a: 'Zavisi od vaših ciljeva. Lokalni SEO i održavanje kreću od 400€ mesečno. Za ozbiljnije Google i LinkedIn Ads kampanje, preporučujemo budžet od 1.000€ do 3.000€ mesečno. Jedan dobijen tender ili projekat izgradnje pokriva višemesečni budžet.'
+    },
+    {
+      q: 'Mi radimo samo B2B (sa investitorima). Da li nam trebaju društvene mreže?',
+      a: 'Facebook i Instagram možda nisu primarni, ali LinkedIn jeste. Investitori vas proveravaju online. Ako vaš sajt i LinkedIn profil izgledaju profesionalno, šanse za dobijanje posla drastično rastu.'
+    }
   ],
   '/marketing-za-kafice-i-barove': [
     {
