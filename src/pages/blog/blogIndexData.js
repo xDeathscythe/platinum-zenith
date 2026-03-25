@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "video-marketing-statistika-roi-kratki-video-youtube-tiktok-reels-2026",
+    "title": "Video marketing u brojevima: ROI, kratki video, YouTube, TikTok i Reels (2026)",
+    "excerpt": "93% marketera belezi pozitivan ROI od videa. Video na landing stranici povecava konverziju do 86%. Kratki video 2.5x veci engagement. Benchmarke po platformi.",
+    "date": "2026-03-25",
+    "category": "Marketing",
+    "readTime": "9 min",
+    "isDraft": false
+  },
+  {
     "slug": "b2b-marketing-statistika-lead-generation-prodajni-ciklus-linkedin-2026",
     "title": "B2B marketing u brojevima: lead generation, prodajni ciklus i LinkedIn (statistika 2026)",
     "excerpt": "Prosecni B2B prodajni ciklus traje 10.1 meseci sa 88 touchpointa. LinkedIn donosi 80% B2B leadova sa drustvenih mreza. Benchmark podaci za 2026.",

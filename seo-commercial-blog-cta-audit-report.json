@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-03-25T11:36:43.043Z",
-  "postsChecked": 207,
+  "generatedAt": "2026-03-25T13:36:48.262Z",
+  "postsChecked": 208,
   "issueCount": 0,
   "checked": [
+    {
+      "route": "/blog/video-marketing-statistika-roi-kratki-video-youtube-tiktok-reels-2026",
+      "serviceHits": 3,
+      "hasKontakt": true
+    },
     {
       "route": "/blog/b2b-marketing-statistika-lead-generation-prodajni-ciklus-linkedin-2026",
       "serviceHits": 3,

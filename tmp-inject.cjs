@@ -5,166 +5,131 @@ const blogDataPath = path.join(__dirname, 'src', 'pages', 'blog', 'blogData.js')
 let content = fs.readFileSync(blogDataPath, 'utf8')
 
 const newPost = `  {
-    slug: 'b2b-marketing-statistika-lead-generation-prodajni-ciklus-linkedin-2026',
-    title: 'B2B marketing u brojevima: lead generation, prodajni ciklus i LinkedIn (statistika 2026)',
-    excerpt: 'Prosecni B2B prodajni ciklus traje 10.1 meseci sa 88 touchpointa. LinkedIn donosi 80% B2B leadova sa drustvenih mreza. Benchmark podaci za 2026.',
+    slug: 'video-marketing-statistika-roi-kratki-video-youtube-tiktok-reels-2026',
+    title: 'Video marketing u brojevima: ROI, kratki video, YouTube, TikTok i Reels (2026)',
+    excerpt: '93% marketera belezi pozitivan ROI od videa. Video na landing stranici povecava konverziju do 86%. Kratki video 2.5x veci engagement. Benchmarke po platformi.',
     date: '2026-03-25',
     category: 'Marketing',
-    readTime: '10 min',
+    readTime: '9 min',
     content: \`
-## B2B kupovina traje 10 meseci i ukljucuje 10 ljudi
+## 93% marketera kaze da im video donosi dobar ROI
 
-Ako prodajete firmama, a ne krajnjim potrosacima, igra je potpuno drugacija. B2B prodajni ciklus u 2025. godini traje u proseku **10.1 meseci.** Kupac prolazi kroz 272 dana od prvog interesovanja do potpisa, sa prosecno **88 dodirnih tacaka** preko 4 razlicita kanala.
+Video marketing nije "bilo bi lepo da imamo." To je kanal koji 93% marketera ocenjuje kao profitabilan, a firme koje ga koriste rastu skoro 50% brze od onih koje ne koriste.
 
-I ne donosi odluku sam. U prosecnu B2B kupovinu ukljuceno je **10 zainteresovanih strana** (rast sa 6.8 u prethodnim godinama). To znaci da vasa poruka mora da ubedi ne jednu osobu, vec ceo tim.
+Uprkos tome, vecina firmi u Srbiji i dalje tretira video kao luksuz. "Skupo je snimiti," "nemamo opremu," "ne znamo sta da snimimo." A u medjuvremenu, jedan video snimljen telefonom za Instagram Reels moze da konvertuje bolje od cele landing stranice.
 
-Za firme u Srbiji koje prodaju drugim firmama, ovo menja citavu strategiju. Nema "lansiramo kampanju i cekamo pozive." Treba sistem koji gradi poverenje tokom meseci i doseze vise donosilaca odluka istovremeno.
+Evo sta kazu podaci.
 
-## Gde nastaju B2B leadovi (podaci o kanalima)
+## ROI i konverzije: zasto video pobedjuje
 
-Najkorisceniji kanali za B2B lead generation u 2025-2026:
+### ROI koji opravdava ulaganje
 
-- **Email marketing:** 66% marketera ga koristi kao primarni kanal
-- **Placeni oglasi na drustvenim mrezama:** 58%
-- **Placena pretraga (Google Ads):** 50%
-- **SEO (organska pretraga):** 47%
+- **93%** marketera belezi pozitivan ROI od video marketinga u 2025
+- **82%** i dalje belezi dobar ROI u 2026
+- Firme koje koriste video u strategiji rastu **skoro 50% brze**
 
-Email i dalje dominira jer B2B kupac vec ima odnos sa brendom pre nego sto kupi. Organska pretraga je sporija ali donosi najkvalitetnije leadove jer hvata ljude u momentu aktivnog trazenja resenja.
+### Uticaj na konverzije
 
-Za cene oglasavanja po kanalu pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+- Video na landing stranici povecava konverziju za **do 86%**
+- Stranice sa video sadrzajem imaju prosecnu konverziju od **4.8%** (bez videa: 2.9%)
+- **82%** ljudi kaze da ih je gledanje videa ubedilo da kupe proizvod
+- AI-generisani demo videi proizvoda povecavaju konverziju za **40%**
 
-## Konverzije u B2B: ocekivanja vs realnost
+Za optimizaciju konverzija na vasem sajtu pogledajte [CRO optimizaciju](/cro).
 
-### Prosecni B2B conversion rate: 2.6%
+## Kratki video: 2.5x veci engagement
 
-Ovo je znatno nize od B2C proseka. Ali u B2B, jedan klijent moze da vredi 10.000 do 100.000+ evra godisnje, pa i nizak procenat konverzije moze da bude izuzetno profitabilan.
+Kratki video (do 60 sekundi) je najefektivniji format u digitalnom marketingu u 2026:
 
-### Konverzije po kanalu
+- Generise **2.5x vise engagementa** od dugackih videa
+- **85%** marketera ga smatra najefikasnijim formatom na drustvenim mrezama
+- **66%** kaze da je najzanimljiviji tip sadrzaja
+- **73%** potrosaca preferira kratki video za istrazivanje proizvoda
+- Globalna potrosnja na kratke video oglase: **111 milijardi dolara** u 2025, projekcija 145.8 milijardi do 2028
 
-- **Landing stranice (sve industrije):** 6.6% prosek (raspon 3.8% za SaaS do 12.3% za evente)
-- **B2B email marketing:** 2.4% konverzija (open rate 43.46%, click rate 2.09%)
-- **Video marketing:** 1.3% konverzija (ali 85% video marketera kaze da video pomaze u generisanju leadova)
+Prosecni gledalac odgleda **41-80%** kratkog videa. To je mnogo vise nego kod dugih formata gde vecina napusti posle prvih 20%.
 
-### Najcesci problem: kvalitet leadova
+## YouTube: 36.1 milijardi dolara prihoda od oglasa
 
-- **45%** marketera kaze da je pronalazenje kvalitetnih leadova izazov broj jedan
-- **84%** firmi ima problem sa konverzijom MQL (Marketing Qualified Lead) u SQL (Sales Qualified Lead)
+YouTube i dalje dominira kao video platforma sa nekim impresivnim brojevima:
 
-Drugim recima: dovesti ljude na sajt nije problem. Problem je dovesti PRAVE ljude i ubediti ih da su dovoljno zainteresovani za razgovor sa vasim prodajnim timom. Za optimizaciju konverzija pogledajte [CRO optimizaciju](/cro).
+- **Prihod od oglasa:** 36.1 milijardi dolara u 2025, projekcija 42.4 milijarde u 2026
+- **79%** potrosaca kaze da YouTube utice na njihove odluke o kupovini
+- Gledaoci koji vide proizvod na YouTube-u su **64% verovatnije** da ce kupiti u naredna 24 sata
 
-## Prodajni ciklus se produzava (i to je normalno)
+### YouTube Shorts
 
-**74% marketera** kaze da se B2B prodajni ciklusi produzavaju. Evo zasto:
+- Shorts je povecao ukupne preglede na platformi za **76%** izmedju 2024 i 2025
+- Engagement rate: **4.4% do 7.91%** (najvisi medju short-form platformama)
+- Za male kreatore (ispod 100K pratilaca), Shorts konzistentno donosi jaci doseg nego na drugim platformama
 
-- Kupci provode **220 dana** (7 meseci) na samostalnom istrazivanju pre nego sto kontaktiraju prodavca
-- Prosecno putovanje kupca ukljucuje **88 dodirnih tacaka** (rast sa 76)
-- Odluke se donose u grupi od **10 zainteresovanih strana** (rast sa 6.8)
+YouTube je jedinstven jer sadrzaj ostaje relevantan mesecima i godinama. Blog post koji napisete danas moze da donosi saobracaj godinama. Isto vazi za YouTube video. Za poredjenje sa drugim platformama pogledajte [drustvene mreze statistika](/blog/drustvene-mreze-statistika-korisnici-engagement-vreme-ad-spend-2026).
 
-Ali evo kljucnog podatka: **92% kupaca** zapocinue proces sa bar jednim vendorom u glavi. I **95% vremena** pobednik dolazi sa "Day One shortliste" kupca.
+## TikTok: 96% visi ROAS od ostalih kanala
 
-To znaci da ako niste u svesti kupca PRE nego sto pocne da trazi resenje, vec ste izgubili. Brending i content marketing nisu opcioni u B2B. Oni su preduslov da uopste udjete u igru.
+TikTok nije samo za ples. Podaci za 2025-2026:
 
-## Content marketing: 34% B2B budzeta
+- **1.9 milijardi** mesecno aktivnih korisnika u 2026
+- **Prihod od oglasa:** 34.8 milijardi dolara u 2026
+- **45.5%** korisnika se pretvori u kupce (najvisa konverzija medju platformama)
+- **96% visi ROAS** od proseka ostalih digitalnih kanala
+- **1.7x vise deljenja** od Instagrama (algoritam gura sadrzaj i ne-pratiteljima)
+- Prosecni engagement: **4.90%** (nano-influenseri do 10.3%)
 
-### Koliko firme ulazu
+TikTok-ova prednost: algoritam distribucije. Na Instagramu, vas post vide vasi pratioci. Na TikToku, dobro osmisljeni video moze da dosegne milione potpuno novih ljudi. Za cene TikTok oglasa pogledajte [TikTok vs Instagram reklame](/blog/tiktok-vs-instagram-reklame-srbija-2026).
 
-- Content marketing zauzima **34% ukupnog B2B marketing budzeta** (treca najveca stavka)
-- **46%** B2B marketera ocekuje rast content marketing budzeta
-- **32%** planira povecanje ulaganja u owned media (sajt, blog, email) u 2026
+## Instagram Reels: 30.81% reach rate
 
-### Sta radi
+Reels su postali centar Instagram-a:
 
-- Firme koje koriste blog imaju **13x vise leadova** od onih koje ne koriste
-- **91%** marketera ukljucuje content marketing u strategiju
-- Kratki video je format sa najvisim ROI-em i najvisim rastom investicija
+- Zauzimaju **50% ukupnog vremena** provedenog na Instagramu
+- **140 milijardi** dnevnih pregleda
+- Reach rate: **30.81%** (vise nego duplo od karuzela, slika i Stories-a)
+- Reels oglasi imaju **41% visi CTR** od staticnih oglasa
+- **Preko polovine** svih Instagram oglasa u 2025 su isli na Reels format
+- Biznisi koji koriste Reels beleaze **29% rast ROI-a**
 
-### Content formati koji rade u B2B
+### Reels vs TikTok za e-commerce
 
-- **65%** B2B kupaca preferira kratki sadrzaj (blog postovi, infografike)
-- Kratki video dominira po ROI-u
-- **91%** firmi koristi video kao marketing alat u 2026
+Zanimljiv podatak: za e-commerce, Instagram Reels donosi **1.3x vecu konverziju** od TikToka. Razlog: integrisane Shopping funkcije. Korisnik moze da vidi proizvod u Reels-u i kupi ga bez napustanja aplikacije.
 
-### AI u content marketingu
+Za cene Instagram oglasa pogledajte [Instagram reklame cena](/instagram-reklame-cena).
 
-- **95%** B2B marketera koristi AI alate
-- 62% koristi AI za brainstorming, 53% za rezimiranje, 44% za pisanje drafta
-- **45%** planira povecanje ulaganja u AI marketing alate u 2026
+## Koji format odabrati za vas biznis
 
-Za nase klijente: content marketing nije "pisanje blogova kad imamo vremena." To je sistematski proces koji zauzima trecinu budzeta najuspesnijih B2B firmi.
+### Lokalni biznisi (restorani, saloni, klinike)
 
-## LinkedIn: 41% B2B ad budzeta
+**Instagram Reels + TikTok.** Snimite proces rada, pre/posle rezultate, zadovoljne klijente. Telefon je dovoljan. Autenticnost je bitnija od produkcije.
 
-LinkedIn je postao dominantna platforma za B2B marketing sa ubedljivim podacima:
+### E-commerce
 
-### Budzet i doseg
+**Instagram Reels (prioritet) + TikTok + YouTube Shorts.** Reels za direktnu prodaju (Shopping integracija), TikTok za doseg i svest o brendu, Shorts za SEO i dugorocni saobracaj.
 
-- LinkedIn sada uzima **41% ukupnog B2B ad budzeta** (najveca pojedinacna investicija)
-- **62%** marketera kaze da LinkedIn donosi leadove dvostruko brze od drugih platformi
-- LinkedIn generise **80% B2B leadova** sa drustvenih mreza
+### B2B usluge
 
-### LinkedIn ROAS: jedina platforma sa pozitivnim povratom
+**YouTube (dugi format) + LinkedIn video.** Edukativni sadrzaj koji demonstrira ekspertizu. Case studies, how-to vodici, objasnjenja procesa. Za B2B statistiku pogledajte [B2B marketing benchmarke](/blog/b2b-marketing-statistika-lead-generation-prodajni-ciklus-linkedin-2026).
 
-Prema Dreamdata izvestaju za 2026:
+### Budzet od nula evra
 
-- **LinkedIn ROAS:** 121% (pozitivan)
-- **Google Search ROAS:** 67%
-- **Meta ROAS:** 51%
+Pocnite sa telefonom. Jedan kratki video nedeljno na Instagram Reels. Bez skripte, bez produkcije, bez savrsenog osvetljenja. Algoritam nagradjuje konzistentnost i autenticnost, ne produkcijsku vrednost.
 
-LinkedIn je jedina platforma koja konzistentno donosi pozitivan ROAS u B2B. Za detaljnije podatke o LinkedIn oglasima pogledajte [LinkedIn reklame za B2B](/blog/linkedin-reklame-cena-b2b-marketing-srbija-2026).
+## Zakljucak: video nije opcija
 
-### LinkedIn Ad benchmarke (2026)
+Stranice sa videom konvertuju 86% bolje. Kratki video ima 2.5x veci engagement. TikTok konvertuje 45.5% korisnika u kupce. YouTube utice na 79% odluka o kupovini.
 
-- **CTR (Sponsored Content):** 0.44% do 0.65%
-- **CPC:** 5.58 dolara (globalni prosek)
-- **CPM:** 33.80 dolara
-- **Conversion rate:** 5% do 15%
-- **CPL:** 15 do 350 dolara (EMEA prosek: 120 dolara)
-- **Video engagement:** 1.6% (3x vise od ne-video sadrzaja)
-- **Video watch time:** rast od 36% u odnosu na prethodnu godinu
+Jedino pitanje koje ostaje: koliko dugo mozete da priustite da NE koristite video?
 
-### Tip sadrzaja koji radi na LinkedInu
-
-Korisnici zele edukativni sadrzaj. Tekstualni postovi i dalje imaju jak engagement. Video raste najbrze (36% vise gledanja). Kljuc: budite korisni, ne promotivni.
-
-## Lead nurturing: gde se gubi najvise novca
-
-Vecina B2B firmi ulaze u generisanje leadova ali zapostavljaju nurturing (negovanje odnosa sa leadovima koji nisu spremni za kupovinu).
-
-- **47%** B2B timova planira povecanje budzeta za lead nurturing u 2026
-- Lead nurturing povecava prodajne prilike za **10-20%**
-- **42%** marketera belezi **20% poboljsanje** performansi sa nurturingom
-
-Bez nurturinga, placate za leadove koji nikad ne konvertuju. Sa nurturingom, pretvarate "mozda za 6 meseci" u "hajde da razgovaramo."
-
-## Preporuke za B2B firme u Srbiji
-
-### 1. Investirajte u sadrzaj koji edukuje
-
-Blog, case studies, whitepapers. Kupac provodi 7 meseci u samostalnom istrazivanju. Ako vas sadrzaj ne postoji u tom periodu, neko drugi ce biti na njihovoj shortlisti.
-
-### 2. LinkedIn nije opcija, vec obaveza
-
-Sa 80% B2B leadova sa drustvenih mreza i jedinim pozitivnim ROAS-om, LinkedIn je kanal koji B2B firme ne smeju da ignorisu. Pocnite sa organskim sadrzajem, pa dodajte placene oglase.
-
-### 3. Fokusirajte se na kvalitet leadova, ne kvantitet
-
-84% firmi ima problem sa konverzijom MQL u SQL. Bolje je imati 10 kvalifikovanih leadova mesecno nego 100 koji "samo gledaju." Kvalifikacija pocinje na sajtu: koristite forme koje filtriraju ozbiljne kupce.
-
-### 4. Planirajte za dug ciklus
-
-10 meseci, 88 dodirnih tacaka, 10 donosilaca odluka. Vasa strategija mora da pokrije ceo period, ne samo prvi kontakt. Email sekvence, retargeting i content koji odgovara na pitanja u svakoj fazi kupovine.
-
-Ako vam treba pomoc sa B2B strategijom, [javite nam se](/kontakt) za besplatnu analizu.
+Ako vam treba pomoc sa video strategijom ili kompletnim digitalnim marketingom, [javite nam se](/kontakt).
 \`,
     schema: {
       "@context": "https://schema.org",
       "@type": "Article",
-      "headline": "B2B marketing u brojevima: lead generation, prodajni ciklus i LinkedIn (statistika 2026)",
+      "headline": "Video marketing u brojevima: ROI, kratki video, YouTube, TikTok i Reels (2026)",
       "datePublished": "2026-03-25",
       "author": { "@type": "Organization", "name": "Platinum Zenith" },
       "publisher": { "@type": "Organization", "name": "Platinum Zenith", "url": "https://platinumzenith.com" },
-      "description": "Prosecni B2B prodajni ciklus traje 10.1 meseci sa 88 touchpointa. LinkedIn donosi 80% B2B leadova sa drustvenih mreza. Benchmark podaci za 2026.",
-      "mainEntityOfPage": "https://platinumzenith.com/blog/b2b-marketing-statistika-lead-generation-prodajni-ciklus-linkedin-2026"
+      "description": "93% marketera belezi pozitivan ROI od videa. Video na landing stranici povecava konverziju do 86%. Kratki video 2.5x veci engagement. Benchmarke po platformi.",
+      "mainEntityOfPage": "https://platinumzenith.com/blog/video-marketing-statistika-roi-kratki-video-youtube-tiktok-reels-2026"
     }
   },
 `
