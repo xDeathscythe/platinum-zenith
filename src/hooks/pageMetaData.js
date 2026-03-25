@@ -142,7 +142,15 @@ export const pageMeta = {
     og: { title: 'Marketing za Privatne Skole, Kurseve i Autoskole u Srbiji | Platinum Zenith', description: 'Marketing za obrazovne institucije u Srbiji: Google Ads, lokalni SEO, Instagram kampanje i sajt koji pune upisne liste privatnih skola, jezickih skola i autoskola.' },
     twitter: { title: 'Marketing za Privatne Skole, Kurseve i Autoskole u Srbiji | Platinum Zenith', description: 'Marketing za obrazovne institucije u Srbiji: Google Ads, lokalni SEO, Instagram kampanje i sajt koji pune upisne liste privatnih skola, jezickih skola i autoskola.' },
   },
-  '/marketing-za-gradjevinske-firme': {
+  '/marketing-za-zanatlije': {
+      robots: 'index, follow',
+      title: 'Digitalni Marketing za Majstore i Zanatlije | Platinum Zenith',
+      description: 'Specijalizovan digitalni marketing za zanatlije, električare, vodoinstalatere i keramičare. Google Ads za hitne intervencije, lokalni SEO i izrada brzih sajtova.',
+      keywords: 'marketing za majstore, marketing za zanatlije, marketing za elektricare, marketing za vodoinstalatere, google ads za majstore, lokalni seo srbija',
+      og: { title: 'Digitalni Marketing za Majstore i Zanatlije | Platinum Zenith', description: 'Specijalizovan digitalni marketing za zanatlije, električare, vodoinstalatere i keramičare. Google Ads za hitne intervencije, lokalni SEO i izrada brzih sajtova.' },
+      twitter: { title: 'Digitalni Marketing za Majstore i Zanatlije | Platinum Zenith', description: 'Specijalizovan digitalni marketing za zanatlije, električare, vodoinstalatere i keramičare. Google Ads za hitne intervencije, lokalni SEO i izrada brzih sajtova.' },
+    },
+    '/marketing-za-gradjevinske-firme': {
     robots: 'index, follow',
     title: 'Marketing za Građevinske Firme | Platinum Zenith',
     description: 'Povećajte broj upita za građevinske projekte kroz SEO, Google Ads i web dizajn. Generisanje leadova za visoku gradnju i renovacije.',

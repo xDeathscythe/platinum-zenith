@@ -81,6 +81,8 @@ const MarketingZaHoteleISmestajPage = lazy(() => import('./pages/MarketingZaHote
 const MarketingZaObrazovanjePage = lazy(() => import('./pages/MarketingZaObrazovanjePage'))
 const MarketingZaKaficeIBarovePage = lazy(() => import('./pages/MarketingZaKaficeIBarovePage'))
 const MarketingZaGradjevinskeFirmePage = lazy(() => import('./pages/MarketingZaGradjevinskeFirmePage'))
+const MarketingZaZanatlijePage = lazy(() => import('./pages/MarketingZaZanatlijePage'))
+const MarketingZaZanatlijePage = lazy(() => import('./pages/MarketingZaZanatlijePage'))
 
 // Admin pages
 const LoginPage = lazy(() => import('./pages/admin/LoginPage'))
@@ -207,6 +209,7 @@ function PublicLayout() {
             <Route path="/marketing-za-obrazovanje" element={<MarketingZaObrazovanjePage />} />
             <Route path="/marketing-za-kafice-i-barove" element={<MarketingZaKaficeIBarovePage />} />
             <Route path="/marketing-za-gradjevinske-firme" element={<MarketingZaGradjevinskeFirmePage />} />
+            <Route path="/marketing-za-zanatlije" element={<MarketingZaZanatlijePage />} />`n            <Route path="/marketing-za-zanatlije" element={<MarketingZaZanatlijePage />} />
             <Route path="/draft/:slug" element={<BlogPostPage />} />
             <Route path="*" element={<NotFoundPage />} />
           </Routes>
