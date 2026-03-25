@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-03-25T02:31:32.241Z",
-  "compressedChunkCount": 356,
+  "generatedAt": "2026-03-25T06:30:43.103Z",
+  "compressedChunkCount": 357,
   "publicBlogCount": 262,
   "blogDataBrotliBudgetKb": 40,
   "checks": [
     {
       "label": "index JS (brotli)",
-      "file": "index-D0q7qppP.js.br",
-      "sizeKb": 14.44,
+      "file": "index-C2w38Elv.js.br",
+      "sizeKb": 14.4,
       "maxKb": 15
     },
     {

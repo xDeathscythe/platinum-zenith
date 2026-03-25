@@ -2368,5 +2368,14 @@ export const blogIndexPosts = [
     "category": "Marketing",
     "readTime": "14 min",
     "isDraft": false
+  },
+  {
+    "slug": "web-dizajn-statistika-konverzije-poverenje-bounce-rate-ux-2026",
+    "title": "Web dizajn statistika 2026: kako izgled sajta utice na poverenje, konverzije i bounce rate",
+    "excerpt": "94% prvog utiska zavisi od dizajna. 75% korisnika procenjuje kredibilitet firme po sajtu. UX ROI 9,900%, svaka sekunda kasnjenja -7% konverzija. Podaci za 2025-2026.",
+    "date": "2026-03-25",
+    "category": "Web dizajn",
+    "readTime": "11 min",
+    "isDraft": false
   }
 ]
