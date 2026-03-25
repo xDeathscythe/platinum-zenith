@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-03-25T06:34:29.280Z",
-  "postsChecked": 204,
+  "generatedAt": "2026-03-25T07:37:26.659Z",
+  "postsChecked": 205,
   "issueCount": 0,
   "checked": [
+    {
+      "route": "/blog/core-web-vitals-page-speed-konverzija-bounce-rate-seo-statistika-2026",
+      "serviceHits": 4,
+      "hasKontakt": true
+    },
     {
       "route": "/blog/google-ads-roi-statistika-roas-po-industriji-srbija-2026",
       "serviceHits": 3,

@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "core-web-vitals-page-speed-konverzija-bounce-rate-seo-statistika-2026",
+    "title": "Core Web Vitals i brzina sajta: kako uticu na konverzije, bounce rate i SEO (podaci za 2026)",
+    "excerpt": "Samo 62% mobilnih stranica prolazi LCP test. Kasnjenje od 1 sekunde smanjuje konverzije do 7%. Benchmark podaci za CWV, brzinu i uticaj na rangiranje.",
+    "date": "2026-03-25",
+    "category": "SEO",
+    "readTime": "9 min",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-roi-statistika-roas-po-industriji-srbija-2026",
     "title": "Google Ads ROI: koliko zapravo zaradjujete na svaki ulozeni dinar (podaci po industriji)",
     "excerpt": "Prosecni Google Ads ROI je 200%, ali ROAS varira od 0.7x u finansijama do 8x u pravnim uslugama. Benchmark podaci po industriji za 2025-2026.",

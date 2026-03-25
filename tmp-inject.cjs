@@ -5,165 +5,144 @@ const blogDataPath = path.join(__dirname, 'src', 'pages', 'blog', 'blogData.js')
 let content = fs.readFileSync(blogDataPath, 'utf8')
 
 const newPost = `  {
-    slug: 'google-ads-roi-statistika-roas-po-industriji-srbija-2026',
-    title: 'Google Ads ROI: koliko zapravo zaradjujete na svaki ulozeni dinar (podaci po industriji)',
-    excerpt: 'Prosecni Google Ads ROI je 200%, ali stvarni ROAS varira od 0.7x u finansijama do 8x u pravnim uslugama. Benchmark podaci po industriji, tipu kampanje i savet kako izracunati vas break-even.',
-    date: '2026-03-24',
-    category: 'Marketing',
+    slug: 'core-web-vitals-page-speed-konverzija-bounce-rate-seo-statistika-2026',
+    title: 'Core Web Vitals i brzina sajta: kako uticu na konverzije, bounce rate i SEO (podaci za 2026)',
+    excerpt: 'Samo 62% mobilnih stranica prolazi LCP test. Kasnjenje od 1 sekunde smanjuje konverzije do 7%. Benchmark podaci za CWV, brzinu i uticaj na rangiranje.',
+    date: '2026-03-25',
+    category: 'SEO',
     readTime: '9 min',
     content: \`
-## Svaki vlasnik firme pita isto pitanje
+## Koliko brzo se ucitava vas sajt?
 
-"Koliko cu zaraditi ako ulozim 500 evra u Google Ads?"
+Ako ne znate odgovor na ovo pitanje, imate problem. Ne zato sto je brzina tehnicka zanimljivost, vec zato sto direktno utice na to koliko posetilaca ce zapravo postati vasi kupci.
 
-Odgovor koji cete najcesce cuti na internetu: "2 dolara za svaki ulozen dolar." To je prosek koji Google voli da citira. Ali prosek sakriva ogromne razlike izmedju industrija, tipova kampanja i kvaliteta upravljanja nalogom.
+Google je 2021. godine uveo Core Web Vitals kao faktor rangiranja. Od tada, ovi pokazatelji su postali standard za merenje korisnickog iskustva na vebu. U 2026. godini, CWV nisu samo SEO metrika. Oni su indikator koliko ozbiljno shvatate korisnike koji dolaze na vas sajt.
 
-Neko u pravnim uslugama moze da izvuce 8x povrat na svaki dinar. Neko u finansijskom sektoru zavrsi na 0.7x i ostane u minusu. Razlika nije u platformi. Razlika je u tome koliko razumete svoju matematiku pre nego sto kliknete "Pokreni kampanju."
+## Sta su Core Web Vitals (tri metrike koje morate znati)
 
-Za konkretne cene klikova po industrijama pogledajte [Google Ads cene u Srbiji](/google-reklame-cena).
+### LCP (Largest Contentful Paint) — brzina ucitavanja
 
-## Sta je ROAS i zasto vas ROI laze
+Meri kada se najveci vidljiv element na stranici (obicno glavna slika ili naslov) pojavi na ekranu.
 
-Pre bilo kakvih podataka, moramo razjasniti dva pojma koja se konstantno mesaju:
+- **Dobar:** ispod 2.5 sekunde
+- **Potrebno poboljsanje:** 2.5 do 4 sekunde
+- **Los:** preko 4 sekunde
 
-- **ROAS (Return on Ad Spend):** prihod podeljen troskovima oglasa. Ako potrosite 100 evra i zaradite 400, ROAS je 4x.
-- **ROI (Return on Investment):** profit podeljen ukupnom investicijom. Ukljucuje plate, alate, proviziju agencije, vreme. Skoro uvek nizi od ROAS-a.
+Trenutno stanje: samo **62% mobilnih stranica** prolazi LCP test. Ovo je najtezi CWV za optimizaciju jer zavisi od velicine slika, servera, koda i svega sto se ucitava pre glavnog sadrzaja.
 
-Problem: vecina platformi prikazuje ROAS koji koristi last-click atribuciju. To znaci da Google sebi pripisuje konverziju cak i kad je korisnik vec znao za vas brend i ionako bi kupio.
+### INP (Interaction to Next Paint) — interaktivnost
 
-Marketing Mix Modeli (MMM) koji mere inkrementalni uticaj daju realnije brojke. I ti brojevi su i dalje pozitivni za Google Ads, samo ne toliko sjanji koliko ih Google platforma prikazuje.
+Zamenio je stari FID u martu 2024. Meri koliko brzo stranica reaguje na SVE interakcije korisnika (klikovi, tapovi, unos sa tastature), ne samo na prvu.
 
-## Prosecni ROAS po industriji (2025-2026 benchmark podaci)
+- **Dobar:** ispod 200 milisekundi
+- **Los:** preko 500 milisekundi
 
-Evo sta zapravo pokazuju podaci za razlicite industrije:
+WordPress sajtovi su iznenadujuce dobri ovde: **98% prolazi INP na desktopu** i 88% na mobilnom. Razlog: vecina WordPress tema nema tezak JavaScript koji blokira interakciju.
 
-### Usluzne delatnosti
+### CLS (Cumulative Layout Shift) — vizuelna stabilnost
 
-- **Pravne usluge:** 8.0x ROAS (vrednost jednog slucaja pokriva mesece oglasavanja)
-- **Profesionalne usluge:** 3x do 6x ROAS (zavisno od kvaliteta lead-ova i stope zatvaranja)
-- **Lokalne usluge i mali biznisi:** 2x+ ROAS (uz ciljanje na visoko-namerne pretrage i preciznu geografiju)
+Meri koliko se sadrzaj "pomera" tokom ucitavanja. Znate onu situaciju kad kliknete dugme, ali se stranica pomeri i kliknete nesto drugo? To je los CLS.
 
-### Proizvodnja i industrija
+- **Dobar:** ispod 0.1
+- **Los:** preko 0.25
 
-- **Teska oprema i industrijske masine:** 6.86x ROAS (mali volumen, ali ogromna vrednost po transakciji)
-- **Proizvodnja (B2B opsti):** 5.36x ROAS za PPC u 2026
-- **Proizvodnja (manji obim):** 1.8x do 2.3x u zavisnosti od slozenosti prodajnog ciklusa
+Ovo je najlaksi CWV za prolaz: **81% mobilnih stranica** vec ima dobar CLS globalno.
 
-### E-commerce
+## Kako brzina sajta utice na konverzije
 
-- **Prosecni e-commerce ROAS:** 2.87x u 2025. godini (4% pad u odnosu na prethodnu godinu)
-- **Moda i odeca:** 3.40x
-- **Kuca i basta:** 3.80x
-- **Elektronika:** 3.02x
-- **Lepota i nega:** 2.80x
-- **Hrana i pice:** 2.60x
-- **Zdravlje i wellness:** 2.12x
+Veza izmedju brzine i novca je direktna i izmerena u desetinama studija:
 
-### Tehnologija
+- **Kasnjenje od 1 sekunde** u ucitavanju smanjuje konverzije za **4.4% do 7%**
+- E-commerce sajtovi koji optimizuju CWV do "dobar" nivoa beleze **15-30% poboljsanje** u konverzijama
+- Brzi checkout proces znaci manje napustenih korpi
+- Sajt koji se ucitava za **2 sekunde** ima bounce rate od 9%, dok sajt koji se ucitava **5 sekundi** ima bounce rate od 38%
 
-- **B2B SaaS:** 1.5x do 3x na prvom dodiru (srednji SaaS 2.6x, top 25% preko 4.1x)
-- **Enterprise B2B Tech:** 3.2x prosecni ROAS
+Za nase klijente, ovo znaci sledece: mozete imati savrsene oglase na [Google-u](/google-reklame-cena) ili [Instagramu](/instagram-reklame-cena), ali ako vas sajt kasni, vise od trecine placanog saobracaja ce otici pre nego sto vidi vasu ponudu.
 
-### Finansije
+## Bounce rate po brzini ucitavanja (benchmark 2026)
 
-- **Finansijske usluge:** 0.7x ROAS na placanoj pretrazi (glavni razlog: ekstremno skupe kljucne reci i dug prodajni ciklus)
+Podaci pokazuju jasnu korelaciju izmedju LCP vrednosti i stope napustanja:
 
-## ROAS po tipu Google Ads kampanje
+- **LCP ispod 2 sekunde:** bounce rate 28-35%
+- **LCP 2-4 sekunde:** bounce rate 40-52%
+- **LCP preko 4 sekunde:** bounce rate 55-70%
 
-Nisu sve kampanje jednake. Inkrementalni ROI (koliko je oglasavanje zapravo uzrokovalo, ne samo pripisalo sebi) po tipu kampanje u 2026:
+Kriticna granica: **53% mobilnih korisnika napusta sajt** koji se ucitava duze od 3 sekunde. Na mobilnom, svaka sekunda kasnjenja kosta vise nego na desktopu jer su korisnici manje strpljivi i cesto koriste sporije mreze.
 
-- **Search Brand:** 8.05x medijana (do 11.48x za top performere). Zvuci sjajno, ali pazi: ovi korisnici bi mozda kupili i bez oglasa
-- **Search Non-Brand:** 5.21x medijana (do 11.93x). Najveci potencijal jer hvata ljude koji vas jos ne znaju
-- **Performance Max:** 4.64x medijana. Konzistentan, ali sa ogranicenim plafonom rasta
-- **Video / YouTube:** 2.70x medijana. Potcenjen kanal koji konkurise cenom daleko skupljim formatima
-- **Demand Gen / Discovery:** 2.22x medijana. Dobro za gornji deo funnel-a, ali slabiji direktni povrat
+Dobra vest: poboljsanje CWV moze da smanji bounce rate za **do 29%**. To je skoro trecina manje izgubljenih posetilaca bez ikakvog dodatnog ulaganja u oglase.
 
-Za poredjenje sa drugim kanalima pogledajte [Google Ads vs Facebook Ads](/blog/google-ads-vs-facebook-ads-koji-je-bolji-za-vas-biznis).
+## CWV i SEO rangiranje — sta kazu podaci
 
-## Kako izracunati vas break-even ROAS
+Core Web Vitals su potvrdjen faktor rangiranja u okviru Google-ovog Page Experience signala. Ali koliko zapravo uticu?
 
-Ovo je korak koji vecina preskoce. Pre nego sto pogledate benchmark podatke i zakljucite da je vas ROAS "dobar" ili "los", morate znati sopstvenu break-even tacku.
+- Stranice na **poziciji 1** u Google rezultatima imaju **10% vecu verovatnocu** da prolaze CWV testove u odnosu na stranice na poziciji 9
+- CWV funkcionisu kao "tiebreaker" kada je kvalitet sadrzaja slican izmedju konkurenata
+- Mobilne performanse nose vecu tezinu jer Google koristi mobile-first indeksiranje
+- Preko **60% web saobracaja** dolazi sa mobilnih uredjaja
 
-Formula:
+CWV nece pretvoriti los sadrzaj u prvi rezultat. Ali ce spreciti dobar sadrzaj da dostigne pun potencijal ako su performanse losee. Za detaljniju analizu SEO optimizacije pogledajte [SEO optimizacija cena](/seo-optimizacija-cena).
 
-**Break-even ROAS = 1 / Profitna marza**
+## Tri metrike koje su najbitnije za vas biznis
 
-Primeri:
+### Ako imate e-commerce sajt
 
-- Profitna marza 50%: break-even ROAS = 2x (sve iznad 2x je profit)
-- Profitna marza 30%: break-even ROAS = 3.33x
-- Profitna marza 20%: break-even ROAS = 5x
-- Profitna marza 10%: break-even ROAS = 10x
+**LCP je prioritet.** Korisnici moraju da vide proizvod brzo. Slike proizvoda su cesto najveci element na stranici i glavni uzrok sporog LCP-a. Optimizujte slike (WebP format, lazy loading, pravilne dimenzije) i brizete brz server.
 
-E-commerce sa marzom od 20% koji ostvaruje ROAS od 3x izgleda kao da zardjuje, ali je zapravo u gubitku. Zato industrija benchmark sam po sebi ne znaci nista bez vase finansijske realnosti.
+### Ako imate usluzni sajt
 
-## Zasto firme u Srbiji imaju nizi ROAS nego globalni proseci
+**CLS je prioritet.** Forme za kontakt i pozive na akciju ne smeju da "skacu" dok se stranica ucitava. Korisnik koji promasi dugme "Zakazite termin" jer se layout pomerio je korisnik kojeg ste izgubili. Za savete o dizajnu sajta pogledajte [izradu sajta](/cene-izrade-sajta).
 
-Nekoliko faktora specificnih za srpsko trziste:
+### Ako imate blog ili content sajt
 
-**1. Manji obim pretrage.** Manje pretrazivanja znaci manje mogucnosti za optimizaciju. Google-ov algoritam treba volumen podataka da bi naucio koje konverzije donose rezultate.
+**INP je prioritet.** Korisnici klikcu na linkove, otvaraju menije, skroluju. Svaka od tih interakcija mora biti brza. Tezak JavaScript (pogotovo od analitike i reklama) je najcesci uzrok loseg INP-a.
 
-**2. Nedostatak konverzionog pracenja.** Ogroman procenat srpskih sajtova nema pravilno podesen Google Tag Manager, konverzione akcije ili offline konverziono pracenje. Bez podataka, algoritam radi naslepo.
+## Kako proveriti vase Core Web Vitals
 
-**3. Landing stranice koje ne konvertuju.** Prosecna stopa konverzije na Google Search kampanjama je oko 4.4%. Mnogi srpski biznisi imaju stopu ispod 1% jer salju saobracaj na homepage umesto na dedicirane landing stranice. Za savete o optimizaciji pogledajte [kako napraviti landing stranicu](/blog/kako-napraviti-landing-stranicu-koja-konvertuje).
+Pet besplatnih alata:
 
-**4. Kratki testni periodi.** Firma ulozi 200 evra za 2 nedelje, ne vidi rezultate i zakljuci da "Google Ads ne radi." Algoritmu treba minimum 2-4 nedelje i bar 15-30 konverzija mesecno da bi efektivno optimizovao.
+1. **Google PageSpeed Insights** (pagespeed.web.dev) — najjednostavniji, unos URL-a i dobijete izvestaj
+2. **Google Search Console** — Core Web Vitals izvestaj za ceo sajt baziran na realnim korisnicima
+3. **Lighthouse** (ugradjen u Chrome DevTools) — detaljniji tehnicki izvestaj
+4. **GTmetrix** — vizuelni waterfall prikaz ucitavanja
+5. **web.dev/measure** — Google-ov alat sa preporukama
 
-## 5 koraka za poboljsanje vaseg Google Ads ROI
+Najbitniji izvor su **field data** (podaci od realnih korisnika) u Search Console, ne lab data iz Lighthouse-a. Lab data pokazuje potencijal; field data pokazuje stvarnost.
 
-### 1. Postavite konverziono pracenje pre bilo cega drugog
+## Najcesce greske na srpskim sajtovima
 
-Ne otvarajte Google Ads nalog dok nemate: Google Tag Manager, konverzione akcije za svaki cilj (kupovina, poziv, kontakt forma, chat), i Enhanced Conversions za bolji matching. Ovo je preduslov, ne opcija.
+Na osnovu naseg iskustva sa klijentskim sajtovima u Srbiji, ovo su najcesci problemi:
 
-### 2. Razdvojte brand i non-brand kampanje
+**1. Neoptimizovane slike.** JPEG od 3MB za baner koji se prikazuje u 1200px sirine. Resenje: WebP format, pravilne dimenzije, lazy loading za sve slike ispod prvog ekrana.
 
-Brand kampanje (ljudi koji traze vas naziv) imaju 8x ROI, ali to je mahom saobracaj koji bi dosao i organskim putem. Non-brand kampanje (ljudi koji traze vasu uslugu/proizvod) su gde je pravi rast. Merite ih odvojeno i ne dozvolite da vam brand kampanja maskira los non-brand performans.
+**2. Spor hosting.** Deljeni hosting sa serverom u Nemackoj za sajt koji cilja publiku u Srbiji. TTFB (Time to First Byte) preko 800ms pre nego sto se ista ucita. Resenje: hosting sa serverom blize ciljanoj publici, CDN za staticke resurse.
 
-### 3. Koristite negativne kljucne reci agresivno
+**3. Previse pluginova (WordPress).** Prosecni WordPress sajt u Srbiji ima 25-40 pluginova, od kojih se 10+ ucitava na svakoj stranici. Svaki plugin dodaje JavaScript i CSS koji usporavaju ucitavanje. Resenje: audit pluginova, uklanjanje nepotrebnih, odlozeno ucitavanje skripti.
 
-Tipicna kampanja u Srbiji trosi 20-40% budzeta na potpuno nebitne pretrage. Pregled search terms izvestaja bi trebalo raditi minimum jednom nedeljno. Blokirajte sve sto nema jasnu kupovnu nameru.
+**4. Nedostajuce width/height atribute na slikama.** Bez ovih atributa, browser ne zna koliko prostora da rezervise za sliku, sto uzrokuje layout shift (los CLS). Resenje: uvek definisati width i height na img elementima.
 
-### 4. Testirajte landing stranice, ne samo oglase
+**5. Trecopartijske skripte bez kontrole.** Google Analytics, Facebook Pixel, chat widgeti, heatmaps — svaki dodaje 50-200ms na ucitavanje. Resenje: ucitavajte ih asinhrono i sa defer atributom.
 
-70% rezultata dolazi od onoga sto se desi posle klika. Posaljite korisnike na stranu koja direktno odgovara na njihovu pretragu, sa jednim jasnim pozivom na akciju. Ne na homepage.
+## Zakljucak: brzina nije luksuz
 
-### 5. Dajte algoritmu dovoljno podataka i vremena
+Core Web Vitals nisu tehnicka zanimljivost za programere. Oni su direktno povezani sa novcem koji zaradjujete (ili gubite) online.
 
-Minimum 15 konverzija mesecno po kampnji za automatske strategije licitiranja (Target CPA, Target ROAS, Maximize Conversions). Ispod toga, koristite manuelno licitiranje ili Enhanced CPC dok ne sakupite dovoljno podataka.
+Sajt koji se ucitava za 2 sekunde umesto 5 ima duplo manji bounce rate, do 30% vise konverzija, i bolju poziciju na Google-u. A optimizacija CWV je jednokratna investicija koja donosi rezultate mesecima i godinama.
 
-## Kada Google Ads nije pravi kanal
-
-Iskreno: postoje situacije gde Google Ads nije odgovor.
-
-- **Niski mesecni budzet (ispod 300 evra):** nedovoljno podataka za optimizaciju, bolje uloziti u SEO ili drustvene mreze
-- **Proizvod/usluga bez pretrazivacke potraznje:** ako niko ne trazi to sto nudite, Search Ads nece pomoci (probajte Display ili Social)
-- **Nedovoljno jasna ponuda:** ako nemate jasnu razliku od konkurencije, platicete za klikove koji se nece pretvoriti u prodaju
-- **Sajt bez mobilne verzije:** 60%+ saobracaja je sa mobilnih uredjaja, a konverzije na losem mobilnom sajtu su blizu nule
-
-Ako niste sigurni koji kanal je pravi za vas, pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga) ili nas [kontaktirajte direktno](/kontakt) za besplatnu analizu.
-
-## Zakljucak: ROAS je kompas, ne cilj
-
-Prosecni Google Ads ROI od 200% zvuci lepo u prezentaciji. Ali vas konkretni ROAS zavisi od vase marze, kvaliteta sajta, konkurencije u vasoj nisi i koliko dobro upravljate kampanjom.
-
-Firme koje mere, optimizuju i razumeju svoju matematiku redovno dostizu 4-8x ROAS. Firme koje "samo pokrenu kampanju i cekaju" zavrsavaju ispod break-even tacke i zakljucuju da digitalni marketing ne radi.
-
-Razlika nije u platformi. Razlika je u pristupu.
+Ako vas sajt ne prolazi CWV testove, prvi korak je besplatan: otvorite [PageSpeed Insights](https://pagespeed.web.dev/), unesite vas URL i pogledajte rezultat. Ako vam treba pomoc sa optimizacijom, [javite nam se](/kontakt).
 \`,
     schema: {
       "@context": "https://schema.org",
       "@type": "Article",
-      "headline": "Google Ads ROI: koliko zapravo zaradjujete na svaki ulozeni dinar (podaci po industriji)",
-      "datePublished": "2026-03-24",
+      "headline": "Core Web Vitals i brzina sajta: kako uticu na konverzije, bounce rate i SEO (podaci za 2026)",
+      "datePublished": "2026-03-25",
       "author": { "@type": "Organization", "name": "Platinum Zenith" },
       "publisher": { "@type": "Organization", "name": "Platinum Zenith", "url": "https://platinumzenith.com" },
-      "description": "Prosecni Google Ads ROI je 200%, ali stvarni ROAS varira od 0.7x u finansijama do 8x u pravnim uslugama. Benchmark podaci po industriji, tipu kampanje i savet kako izracunati vas break-even.",
-      "mainEntityOfPage": "https://platinumzenith.com/blog/google-ads-roi-statistika-roas-po-industriji-srbija-2026"
+      "description": "Samo 62% mobilnih stranica prolazi LCP test. Kasnjenje od 1 sekunde smanjuje konverzije do 7%. Benchmark podaci za CWV, brzinu i uticaj na rangiranje.",
+      "mainEntityOfPage": "https://platinumzenith.com/blog/core-web-vitals-page-speed-konverzija-bounce-rate-seo-statistika-2026"
     }
   },
 `
 
-// Inject at top of array
 content = content.replace(
   'const rawBlogPosts = [\n',
   'const rawBlogPosts = [\n' + newPost
