@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-03-25T10:34:00.883Z",
-  "postsChecked": 206,
+  "generatedAt": "2026-03-25T11:36:43.043Z",
+  "postsChecked": 207,
   "issueCount": 0,
   "checked": [
+    {
+      "route": "/blog/b2b-marketing-statistika-lead-generation-prodajni-ciklus-linkedin-2026",
+      "serviceHits": 3,
+      "hasKontakt": true
+    },
     {
       "route": "/blog/influencer-marketing-statistika-roi-mikro-influenseri-ugc-2026",
       "serviceHits": 3,

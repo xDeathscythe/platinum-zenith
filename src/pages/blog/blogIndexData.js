@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "b2b-marketing-statistika-lead-generation-prodajni-ciklus-linkedin-2026",
+    "title": "B2B marketing u brojevima: lead generation, prodajni ciklus i LinkedIn (statistika 2026)",
+    "excerpt": "Prosecni B2B prodajni ciklus traje 10.1 meseci sa 88 touchpointa. LinkedIn donosi 80% B2B leadova sa drustvenih mreza. Benchmark podaci za 2026.",
+    "date": "2026-03-25",
+    "category": "Marketing",
+    "readTime": "10 min",
+    "isDraft": false
+  },
+  {
     "slug": "influencer-marketing-statistika-roi-mikro-influenseri-ugc-2026",
     "title": "Influencer marketing u brojevima: ROI, mikro-influenseri i UGC (statistika za 2026)",
     "excerpt": "Trziste influencer marketinga 32.5 milijardi dolara. Prosecni ROI 5.78x. Mikro-influenseri imaju 60% visi engagement uz desetinu cene. UGC konvertuje 10x bolje.",

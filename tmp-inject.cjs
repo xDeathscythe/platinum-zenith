@@ -5,132 +5,166 @@ const blogDataPath = path.join(__dirname, 'src', 'pages', 'blog', 'blogData.js')
 let content = fs.readFileSync(blogDataPath, 'utf8')
 
 const newPost = `  {
-    slug: 'influencer-marketing-statistika-roi-mikro-influenseri-ugc-2026',
-    title: 'Influencer marketing u brojevima: ROI, mikro-influenseri i UGC (statistika za 2026)',
-    excerpt: 'Trziste influencer marketinga 32.5 milijardi dolara. Prosecni ROI 5.78x. Mikro-influenseri imaju 60% visi engagement uz desetinu cene. UGC konvertuje 10x bolje.',
+    slug: 'b2b-marketing-statistika-lead-generation-prodajni-ciklus-linkedin-2026',
+    title: 'B2B marketing u brojevima: lead generation, prodajni ciklus i LinkedIn (statistika 2026)',
+    excerpt: 'Prosecni B2B prodajni ciklus traje 10.1 meseci sa 88 touchpointa. LinkedIn donosi 80% B2B leadova sa drustvenih mreza. Benchmark podaci za 2026.',
     date: '2026-03-25',
     category: 'Marketing',
-    readTime: '9 min',
+    readTime: '10 min',
     content: \`
-## Industrija od 32.5 milijardi dolara
+## B2B kupovina traje 10 meseci i ukljucuje 10 ljudi
 
-Influencer marketing je prestao da bude eksperiment pre nekoliko godina. U 2025. je dostigao 32.55 milijardi dolara globalno, a u 2026. prelazi 40 milijardi. Rast od 33% godisnje, vec celu deceniju.
+Ako prodajete firmama, a ne krajnjim potrosacima, igra je potpuno drugacija. B2B prodajni ciklus u 2025. godini traje u proseku **10.1 meseci.** Kupac prolazi kroz 272 dana od prvog interesovanja do potpisa, sa prosecno **88 dodirnih tacaka** preko 4 razlicita kanala.
 
-Ali za vecinu firmi u Srbiji, influencer marketing i dalje znaci "platimo nekoga sa 100.000 pratilaca da objavi story." Podaci pokazuju da je taj pristup los. Evo zasto.
+I ne donosi odluku sam. U prosecnu B2B kupovinu ukljuceno je **10 zainteresovanih strana** (rast sa 6.8 u prethodnim godinama). To znaci da vasa poruka mora da ubedi ne jednu osobu, vec ceo tim.
 
-## ROI koji opravdava ulaganje
+Za firme u Srbiji koje prodaju drugim firmama, ovo menja citavu strategiju. Nema "lansiramo kampanju i cekamo pozive." Treba sistem koji gradi poverenje tokom meseci i doseze vise donosilaca odluka istovremeno.
 
-Prosecni povrat: **5.78 dolara na svaki ulozen dolar.** Top kampanje dostizu 11 do 18 dolara povrata.
+## Gde nastaju B2B leadovi (podaci o kanalima)
 
-To cini influencer marketing jednim od kanala sa najvisim ROI-em u digitalnom marketingu. Za poredjenje, prosecni Google Ads ROI je [oko 2x](/blog/google-ads-roi-statistika-roas-po-industriji-srbija-2026), a email marketing donosi [oko 36-42 dolara na dolar](/blog/koliko-zapravo-zaradjuje-email-marketing-roi-statistika-2026).
+Najkorisceniji kanali za B2B lead generation u 2025-2026:
 
-Ipak, 56% marketera kaze da im je merenje ROI-a influencer kampanja i dalje izazov. Problem nije u kanalu, vec u tome sto vecina firmi nema pravilno konverziono pracenje za influencer saradnje.
+- **Email marketing:** 66% marketera ga koristi kao primarni kanal
+- **Placeni oglasi na drustvenim mrezama:** 58%
+- **Placena pretraga (Google Ads):** 50%
+- **SEO (organska pretraga):** 47%
 
-Uprkos tome, 80% brendova je zadrzalo ili povecalo budzet za influencere u 2025, a 74% planira dalje povecanje u 2026.
+Email i dalje dominira jer B2B kupac vec ima odnos sa brendom pre nego sto kupi. Organska pretraga je sporija ali donosi najkvalitetnije leadove jer hvata ljude u momentu aktivnog trazenja resenja.
 
-## Zasto mikro-influenseri pobedjuju
+Za cene oglasavanja po kanalu pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-Ovo je podatak koji menja pristup: mikro-influenseri (10.000 do 100.000 pratilaca) imaju **60% visi engagement** od mega-influensera, uz otprilike **desetinu cene.**
+## Konverzije u B2B: ocekivanja vs realnost
 
-### Engagement rate po velicini naloga
+### Prosecni B2B conversion rate: 2.6%
 
-**Instagram:**
-- Nano-influenseri (1K-10K): 3.5-8% engagement
-- Mikro-influenseri (10K-100K): 2.5-5% engagement (prosek 3.86%)
-- Mega-influenseri (1M+): 1.21% engagement
+Ovo je znatno nize od B2C proseka. Ali u B2B, jedan klijent moze da vredi 10.000 do 100.000+ evra godisnje, pa i nizak procenat konverzije moze da bude izuzetno profitabilan.
 
-**TikTok:**
-- Nano-influenseri: 10.3% engagement
-- Mikro-influenseri (10K-50K): 8.7% engagement
+### Konverzije po kanalu
 
-Razlika je ogromna. Nano-influenser na TikToku ima 10.3% engagement, dok mega-influenser jedva prelazi 1%. Razlog: manja publika znaci bliskiji odnos, vise komentara i interakcija. Algoritam to nagradjuje.
+- **Landing stranice (sve industrije):** 6.6% prosek (raspon 3.8% za SaaS do 12.3% za evente)
+- **B2B email marketing:** 2.4% konverzija (open rate 43.46%, click rate 2.09%)
+- **Video marketing:** 1.3% konverzija (ali 85% video marketera kaze da video pomaze u generisanju leadova)
 
-### Sta to znaci u praksi
+### Najcesci problem: kvalitet leadova
 
-Umesto da platite jednog influensera sa milion pratilaca (recimo 2.000-5.000 evra za post), mozete angazovati 10 mikro-influensera po 200-500 evra i dobiti:
-- Vecu ukupnu pokrivenost
-- Raznolikiji sadrzaj
-- Autenticnije preporuke
-- Bolji engagement i konverziju
+- **45%** marketera kaze da je pronalazenje kvalitetnih leadova izazov broj jedan
+- **84%** firmi ima problem sa konverzijom MQL (Marketing Qualified Lead) u SQL (Sales Qualified Lead)
 
-73% brendova vec preferira saradnju sa mikro i mid-tier kreatorima. Trend je jasan.
+Drugim recima: dovesti ljude na sajt nije problem. Problem je dovesti PRAVE ljude i ubediti ih da su dovoljno zainteresovani za razgovor sa vasim prodajnim timom. Za optimizaciju konverzija pogledajte [CRO optimizaciju](/cro).
 
-## Kratki video dominira
+## Prodajni ciklus se produzava (i to je normalno)
 
-Najefektivniji format za influencer marketing: **kratki video od 20 do 40 sekundi.** TikTok i Instagram Reels su platforme gde influenser sadrzaj najvise konvertuje.
+**74% marketera** kaze da se B2B prodajni ciklusi produzavaju. Evo zasto:
 
-Za poredjenje engagement-a po platformi pogledajte [drustvene mreze statistika](/blog/drustvene-mreze-statistika-korisnici-engagement-vreme-ad-spend-2026).
+- Kupci provode **220 dana** (7 meseci) na samostalnom istrazivanju pre nego sto kontaktiraju prodavca
+- Prosecno putovanje kupca ukljucuje **88 dodirnih tacaka** (rast sa 76)
+- Odluke se donose u grupi od **10 zainteresovanih strana** (rast sa 6.8)
 
-## UGC (User-Generated Content) — statistika koja menja igru
+Ali evo kljucnog podatka: **92% kupaca** zapocinue proces sa bar jednim vendorom u glavi. I **95% vremena** pobednik dolazi sa "Day One shortliste" kupca.
 
-UGC je sadrzaj koji kreiraju korisnici, ne brend. Recenzije, unboxing videi, fotografije proizvoda od strane kupaca, komentari i testimonijali. Trziste UGC platformi doseze 8.48 milijardi dolara u 2026.
+To znaci da ako niste u svesti kupca PRE nego sto pocne da trazi resenje, vec ste izgubili. Brending i content marketing nisu opcioni u B2B. Oni su preduslov da uopste udjete u igru.
 
-### Poverenje
+## Content marketing: 34% B2B budzeta
 
-- **92%** potrosaca veruje preporukama drugih korisnika vise nego porukama brendova
-- **79%** kaze da UGC direktno utice na njihovu odluku o kupovini
-- **61%** veruje preporukama influensera
+### Koliko firme ulazu
 
-### Engagement
+- Content marketing zauzima **34% ukupnog B2B marketing budzeta** (treca najveca stavka)
+- **46%** B2B marketera ocekuje rast content marketing budzeta
+- **32%** planira povecanje ulaganja u owned media (sajt, blog, email) u 2026
 
-- UGC generise **6.9x veci engagement** nego sadrzaj koji kreira brend
-- Kampanje sa UGC-jem imaju **50% visi engagement rate**
-- Instagram postovi sa UGC-jem dobijaju **70% vise interakcija**
+### Sta radi
 
-### Konverzije
+- Firme koje koriste blog imaju **13x vise leadova** od onih koje ne koriste
+- **91%** marketera ukljucuje content marketing u strategiju
+- Kratki video je format sa najvisim ROI-em i najvisim rastom investicija
 
-- UGC postovi imaju **10x vecu stopu konverzije** od standardnih brandiranih postova
-- E-commerce stranice sa UGC-jem konvertuju **74% bolje** nego one bez njega
-- UGC oglasi imaju **4x visi CTR** (click-through rate) i **50% nizi CPC** (cost per click)
+### Content formati koji rade u B2B
 
-### Platformski podaci
+- **65%** B2B kupaca preferira kratki sadrzaj (blog postovi, infografike)
+- Kratki video dominira po ROI-u
+- **91%** firmi koristi video kao marketing alat u 2026
 
-- UGC na TikToku je **22% efikasniji** od brendiranog sadrzaja
-- Nadmasuje Facebook oglase za **32%** i obicne oglase za **46%**
+### AI u content marketingu
 
-Zakljucak: kupci veruju drugim kupcima, ne vasem marketing timu. Ako ne koristite UGC, propustate najjeftiniji i najefikasniji oblik sadrzaja koji postoji.
+- **95%** B2B marketera koristi AI alate
+- 62% koristi AI za brainstorming, 53% za rezimiranje, 44% za pisanje drafta
+- **45%** planira povecanje ulaganja u AI marketing alate u 2026
 
-## Kako poceti sa influencer marketingom u Srbiji
+Za nase klijente: content marketing nije "pisanje blogova kad imamo vremena." To je sistematski proces koji zauzima trecinu budzeta najuspesnijih B2B firmi.
 
-### 1. Pocnite sa mikro-influenserima u vasoj nisi
+## LinkedIn: 41% B2B ad budzeta
 
-Ne trazite popularnost, trazite relevantnost. Frizerka sa 3.000 pratilaca u Novom Sadu koja pokazuje frizure u vasem salonu donosi vise klijenata nego lifestyle influenser sa 100.000 pratilaca iz Beograda.
+LinkedIn je postao dominantna platforma za B2B marketing sa ubedljivim podacima:
 
-### 2. Koristite UGC kao osnovu za oglase
+### Budzet i doseg
 
-Najbolji Facebook i Instagram oglasi u 2026. nisu studijski snimljeni spotovi. To su autenticni videi korisnika koji pricaju o iskustvu sa vasim proizvodom. Koristite ih kao ad creative i gledajte kako vam CPC pada.
+- LinkedIn sada uzima **41% ukupnog B2B ad budzeta** (najveca pojedinacna investicija)
+- **62%** marketera kaze da LinkedIn donosi leadove dvostruko brze od drugih platformi
+- LinkedIn generise **80% B2B leadova** sa drustvenih mreza
 
-### 3. Merite konverzije, ne lajkove
+### LinkedIn ROAS: jedina platforma sa pozitivnim povratom
 
-Dajte svakom influenseru jedinstven link ili promo kod. Pratite koliko prodaja dolazi od svake saradnje. Bez ovoga, ne znate da li vam influencer marketing radi ili ne.
+Prema Dreamdata izvestaju za 2026:
 
-### 4. Dugorocne saradnje rade bolje
+- **LinkedIn ROAS:** 121% (pozitivan)
+- **Google Search ROAS:** 67%
+- **Meta ROAS:** 51%
 
-Jednom postu niko ne veruje. Tri do sest meseci konzistentne saradnje sa istim kreatorom gradi poverenje kod publike. To je kad influenser prestane da bude "oglas" i postane "preporuka."
+LinkedIn je jedina platforma koja konzistentno donosi pozitivan ROAS u B2B. Za detaljnije podatke o LinkedIn oglasima pogledajte [LinkedIn reklame za B2B](/blog/linkedin-reklame-cena-b2b-marketing-srbija-2026).
 
-### 5. Testirajte na malom budzetu
+### LinkedIn Ad benchmarke (2026)
 
-Pocnite sa 300-500 evra mesecno na 2-3 mikro-influensera. Merite rezultate 60 dana. Skaliranje dolazi posle, kad imate podatke o tome sta radi.
+- **CTR (Sponsored Content):** 0.44% do 0.65%
+- **CPC:** 5.58 dolara (globalni prosek)
+- **CPM:** 33.80 dolara
+- **Conversion rate:** 5% do 15%
+- **CPL:** 15 do 350 dolara (EMEA prosek: 120 dolara)
+- **Video engagement:** 1.6% (3x vise od ne-video sadrzaja)
+- **Video watch time:** rast od 36% u odnosu na prethodnu godinu
 
-Za cene oglasavanja na drustvenim mrezama pogledajte [Instagram reklame cena](/instagram-reklame-cena) i [Facebook reklame cena](/koliko-kosta-facebook-reklama).
+### Tip sadrzaja koji radi na LinkedInu
 
-## Zakljucak: autenticnost pobedjuje budzet
+Korisnici zele edukativni sadrzaj. Tekstualni postovi i dalje imaju jak engagement. Video raste najbrze (36% vise gledanja). Kljuc: budite korisni, ne promotivni.
 
-Influencer marketing od 32.5 milijardi dolara nije samo za velike brendove. Mikro-influenseri sa 3.86% engagement-om i UGC sa 10x vecom konverzijom su dostupni svakoj firmi, ukljucujuci i vasu.
+## Lead nurturing: gde se gubi najvise novca
 
-Kljuc: ne kupujete doseg. Kupujete poverenje. I to poverenje se gradi kroz autenticne preporuke, ne kroz placene postove koji izgledaju kao reklame.
+Vecina B2B firmi ulaze u generisanje leadova ali zapostavljaju nurturing (negovanje odnosa sa leadovima koji nisu spremni za kupovinu).
 
-Ako vam treba pomoc sa strategijom, [javite nam se](/kontakt).
+- **47%** B2B timova planira povecanje budzeta za lead nurturing u 2026
+- Lead nurturing povecava prodajne prilike za **10-20%**
+- **42%** marketera belezi **20% poboljsanje** performansi sa nurturingom
+
+Bez nurturinga, placate za leadove koji nikad ne konvertuju. Sa nurturingom, pretvarate "mozda za 6 meseci" u "hajde da razgovaramo."
+
+## Preporuke za B2B firme u Srbiji
+
+### 1. Investirajte u sadrzaj koji edukuje
+
+Blog, case studies, whitepapers. Kupac provodi 7 meseci u samostalnom istrazivanju. Ako vas sadrzaj ne postoji u tom periodu, neko drugi ce biti na njihovoj shortlisti.
+
+### 2. LinkedIn nije opcija, vec obaveza
+
+Sa 80% B2B leadova sa drustvenih mreza i jedinim pozitivnim ROAS-om, LinkedIn je kanal koji B2B firme ne smeju da ignorisu. Pocnite sa organskim sadrzajem, pa dodajte placene oglase.
+
+### 3. Fokusirajte se na kvalitet leadova, ne kvantitet
+
+84% firmi ima problem sa konverzijom MQL u SQL. Bolje je imati 10 kvalifikovanih leadova mesecno nego 100 koji "samo gledaju." Kvalifikacija pocinje na sajtu: koristite forme koje filtriraju ozbiljne kupce.
+
+### 4. Planirajte za dug ciklus
+
+10 meseci, 88 dodirnih tacaka, 10 donosilaca odluka. Vasa strategija mora da pokrije ceo period, ne samo prvi kontakt. Email sekvence, retargeting i content koji odgovara na pitanja u svakoj fazi kupovine.
+
+Ako vam treba pomoc sa B2B strategijom, [javite nam se](/kontakt) za besplatnu analizu.
 \`,
     schema: {
       "@context": "https://schema.org",
       "@type": "Article",
-      "headline": "Influencer marketing u brojevima: ROI, mikro-influenseri i UGC (statistika za 2026)",
+      "headline": "B2B marketing u brojevima: lead generation, prodajni ciklus i LinkedIn (statistika 2026)",
       "datePublished": "2026-03-25",
       "author": { "@type": "Organization", "name": "Platinum Zenith" },
       "publisher": { "@type": "Organization", "name": "Platinum Zenith", "url": "https://platinumzenith.com" },
-      "description": "Trziste influencer marketinga 32.5 milijardi dolara. Prosecni ROI 5.78x. Mikro-influenseri imaju 60% visi engagement uz desetinu cene. UGC konvertuje 10x bolje.",
-      "mainEntityOfPage": "https://platinumzenith.com/blog/influencer-marketing-statistika-roi-mikro-influenseri-ugc-2026"
+      "description": "Prosecni B2B prodajni ciklus traje 10.1 meseci sa 88 touchpointa. LinkedIn donosi 80% B2B leadova sa drustvenih mreza. Benchmark podaci za 2026.",
+      "mainEntityOfPage": "https://platinumzenith.com/blog/b2b-marketing-statistika-lead-generation-prodajni-ciklus-linkedin-2026"
     }
   },
 `
