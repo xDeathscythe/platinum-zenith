@@ -1,0 +1,8 @@
+const { injectOgMeta } = require('./server/ogMeta.js')
+const fs = require('fs')
+const html = fs.readFileSync('index.html', 'utf8')
+const out = injectOgMeta(html, '/blog/drustvene-mreze-statistika-korisnici-engagement-vreme-ad-spend-2026')
+const descMatch = out.match(/og:description[^>]*content="([^"]+)"/)
+console.log('og:description:', descMatch ? descMatch[1] : 'MISSING')
+const twMatch = out.match(/twitter:description[^>]*content="([^"]+)"/)
+console.log('tw:description:', twMatch ? twMatch[1] : 'MISSING')

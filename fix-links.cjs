@@ -1,24 +1,12 @@
-const fs = require('fs');
-let c = fs.readFileSync('src/pages/blog/blogData.js', 'utf8');
-
-const slug = 'zadrzavanje-kupaca-retention-rate-churn-lojalnost-statistika-2026';
-const slugIdx = c.indexOf(slug);
-const contentStart = c.indexOf('content: `', slugIdx);
-const contentEnd = c.indexOf('`,', contentStart + 10);
-
-let blogContent = c.substring(contentStart + 10, contentEnd);
-
-// Convert HTML <a href="/path">text</a> to markdown [text](/path)
-blogContent = blogContent.replace(/<a href="([^"]+)">([^<]+)<\/a>/g, '[$2]($1)');
-
-c = c.substring(0, contentStart + 10) + blogContent + c.substring(contentEnd);
-
-fs.writeFileSync('src/pages/blog/blogData.js', c, 'utf8');
-
-// Verify
-const verify = fs.readFileSync('src/pages/blog/blogData.js', 'utf8');
-const vSlug = verify.indexOf(slug);
-const vContent = verify.substring(verify.indexOf('content: `', vSlug) + 10, verify.indexOf('`,', verify.indexOf('content: `', vSlug) + 10));
-const mdLinks = [...vContent.matchAll(/\]\(([^)]+)\)/g)].map(m => m[1]);
-const internal = mdLinks.filter(l => l.startsWith('/'));
-console.log('Internal links found:', internal.length, internal);
+const fs = require('fs')
+let c = fs.readFileSync('src/pages/blog/blogData.js', 'utf8')
+c = c.replaceAll(
+  '/blog/roas-po-industriji-i-platformi-facebook-google-tiktok-linkedin-2026',
+  '/blog/roas-po-industriji-i-platformi-benchmark-statistika-2026'
+)
+c = c.replaceAll(
+  '/blog/retargeting-zasto-95-posto-posetilaca-ne-kupi-iz-prve',
+  '/blog/retargeting-zasto-95-posetilaca-ne-kupi'
+)
+fs.writeFileSync('src/pages/blog/blogData.js', c, 'utf8')
+console.log('Fixed broken links')

@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "drustvene-mreze-statistika-korisnici-engagement-vreme-ad-spend-2026",
+    "title": "Drustvene mreze u brojevima: korisnici, engagement, vreme i potrosnja na oglase (2026)",
+    "excerpt": "5.66 milijardi korisnika, 2h 23min dnevno, TikTok engagement 4.2%, globalna potrosnja na oglase 277 milijardi dolara. Benchmark podaci po platformi.",
+    "date": "2026-03-25",
+    "category": "Marketing",
+    "readTime": "10 min",
+    "isDraft": false
+  },
+  {
     "slug": "core-web-vitals-page-speed-konverzija-bounce-rate-seo-statistika-2026",
     "title": "Core Web Vitals i brzina sajta: kako uticu na konverzije, bounce rate i SEO (podaci za 2026)",
     "excerpt": "Samo 62% mobilnih stranica prolazi LCP test. Kasnjenje od 1 sekunde smanjuje konverzije do 7%. Benchmark podaci za CWV, brzinu i uticaj na rangiranje.",

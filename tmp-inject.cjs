@@ -5,140 +5,169 @@ const blogDataPath = path.join(__dirname, 'src', 'pages', 'blog', 'blogData.js')
 let content = fs.readFileSync(blogDataPath, 'utf8')
 
 const newPost = `  {
-    slug: 'core-web-vitals-page-speed-konverzija-bounce-rate-seo-statistika-2026',
-    title: 'Core Web Vitals i brzina sajta: kako uticu na konverzije, bounce rate i SEO (podaci za 2026)',
-    excerpt: 'Samo 62% mobilnih stranica prolazi LCP test. Kasnjenje od 1 sekunde smanjuje konverzije do 7%. Benchmark podaci za CWV, brzinu i uticaj na rangiranje.',
+    slug: 'drustvene-mreze-statistika-korisnici-engagement-vreme-ad-spend-2026',
+    title: 'Drustvene mreze u brojevima: korisnici, engagement, vreme i potrosnja na oglase (2026)',
+    excerpt: '5.66 milijardi korisnika, 2h 23min dnevno, TikTok engagement 4.2%, globalna potrosnja na oglase $277B. Benchmark podaci po platformi.',
     date: '2026-03-25',
-    category: 'SEO',
-    readTime: '9 min',
+    category: 'Marketing',
+    readTime: '10 min',
     content: \`
-## Koliko brzo se ucitava vas sajt?
+## 5.66 milijardi ljudi koristi drustvene mreze
 
-Ako ne znate odgovor na ovo pitanje, imate problem. Ne zato sto je brzina tehnicka zanimljivost, vec zato sto direktno utice na to koliko posetilaca ce zapravo postati vasi kupci.
+Taj broj je tesko zamisliti. Skoro 70% celokupne svetske populacije ima nalog na bar jednoj platformi. I ta cifra raste za oko 260 miliona novih korisnika godisnje.
 
-Google je 2021. godine uveo Core Web Vitals kao faktor rangiranja. Od tada, ovi pokazatelji su postali standard za merenje korisnickog iskustva na vebu. U 2026. godini, CWV nisu samo SEO metrika. Oni su indikator koliko ozbiljno shvatate korisnike koji dolaze na vas sajt.
+Ali za vlasnike firmi, ukupan broj korisnika je beskoristan bez konteksta. Bitno je gde su VASI potencijalni kupci, koliko vremena provode tamo, i kolika je sansa da primete vasu poruku.
 
-## Sta su Core Web Vitals (tri metrike koje morate znati)
+Evo sta kazu podaci za svaku platformu.
 
-### LCP (Largest Contentful Paint) — brzina ucitavanja
+## Broj korisnika po platformi (2025-2026)
 
-Meri kada se najveci vidljiv element na stranici (obicno glavna slika ili naslov) pojavi na ekranu.
+### Facebook — i dalje najveci
 
-- **Dobar:** ispod 2.5 sekunde
-- **Potrebno poboljsanje:** 2.5 do 4 sekunde
-- **Los:** preko 4 sekunde
+- **3.07 milijardi** mesecno aktivnih korisnika u 2025, rast ka **3.22 milijarde** u 2026
+- Najstarija demografija medju velikim platformama, ali i dalje dominantan za lokalne biznise
+- U Srbiji i regionu, Facebook ostaje primarna platforma za oglas ciljanje 25-65 godine
 
-Trenutno stanje: samo **62% mobilnih stranica** prolazi LCP test. Ovo je najtezi CWV za optimizaciju jer zavisi od velicine slika, servera, koda i svega sto se ucitava pre glavnog sadrzaja.
+Za cene oglasavanja pogledajte [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama).
 
-### INP (Interaction to Next Paint) — interaktivnost
+### YouTube — druga po velicini mreza na svetu
 
-Zamenio je stari FID u martu 2024. Meri koliko brzo stranica reaguje na SVE interakcije korisnika (klikovi, tapovi, unos sa tastature), ne samo na prvu.
+- **2.53 milijarde** korisnika u 2025, rast ka **2.85 milijardi** u 2026
+- Druga najpopularnija pretrazivacka platforma posle Google-a
+- Video sadrzaj koji ostaje relevantan mesecima i godinama (za razliku od postova na feedu)
 
-- **Dobar:** ispod 200 milisekundi
-- **Los:** preko 500 milisekundi
+### Instagram — 3 milijarde aktivnih korisnika
 
-WordPress sajtovi su iznenadujuce dobri ovde: **98% prolazi INP na desktopu** i 88% na mobilnom. Razlog: vecina WordPress tema nema tezak JavaScript koji blokira interakciju.
+- **3 milijarde** MAU u 2025
+- Reels format dominira organski doseg
+- Kriticna platforma za vizuelne biznise (moda, hrana, nekretnine, lepota)
 
-### CLS (Cumulative Layout Shift) — vizuelna stabilnost
+Za cene pogledajte [Instagram reklame cena](/instagram-reklame-cena).
 
-Meri koliko se sadrzaj "pomera" tokom ucitavanja. Znate onu situaciju kad kliknete dugme, ali se stranica pomeri i kliknete nesto drugo? To je los CLS.
+### TikTok — najbrzi rast u istoriji
 
-- **Dobar:** ispod 0.1
-- **Los:** preko 0.25
+- **1.99 milijardi** korisnika u 2025
+- Preko **150 miliona** mesecno aktivnih korisnika samo u SAD-u
+- Publika se siri: vise nije samo za tinejdzere, 35-54 godina je najbrze rastuci segment
 
-Ovo je najlaksi CWV za prolaz: **81% mobilnih stranica** vec ima dobar CLS globalno.
+### LinkedIn — B2B dominacija
 
-## Kako brzina sajta utice na konverzije
+- Presao **1 milijardu** clanova u 2025
+- Jedina platforma gde je profesionalni kontekst default
+- Najbolji organski doseg medju svim platformama za B2B sadrzaj
 
-Veza izmedju brzine i novca je direktna i izmerena u desetinama studija:
+### Ostale platforme
 
-- **Kasnjenje od 1 sekunde** u ucitavanju smanjuje konverzije za **4.4% do 7%**
-- E-commerce sajtovi koji optimizuju CWV do "dobar" nivoa beleze **15-30% poboljsanje** u konverzijama
-- Brzi checkout proces znaci manje napustenih korpi
-- Sajt koji se ucitava za **2 sekunde** ima bounce rate od 9%, dok sajt koji se ucitava **5 sekundi** ima bounce rate od 38%
+- **WhatsApp:** 3 milijarde MAU (bitno za direktnu komunikaciju, ne za oglase)
+- **Telegram:** 1 milijarda MAU
+- **X (bivsi Twitter):** 660 miliona u 2026 (blagi pad)
+- **Pinterest:** 520 miliona (jak za e-commerce, pogotovo zenski proizvodi)
+- **Reddit:** 770 miliona (raste kao izvor za Google pretragu)
+- **Threads:** 380 miliona MAU u 2026 (znacajan rast sa 285M u 2025)
 
-Za nase klijente, ovo znaci sledece: mozete imati savrsene oglase na [Google-u](/google-reklame-cena) ili [Instagramu](/instagram-reklame-cena), ali ako vas sajt kasni, vise od trecine placanog saobracaja ce otici pre nego sto vidi vasu ponudu.
+Prosecna osoba koristi **6.8 do 8 razlicitih platformi** mesecno. To znaci da vasi kupci nisu na jednom mestu. Ali ne morate biti svuda. Morate biti tamo gde su oni najaktivniji.
 
-## Bounce rate po brzini ucitavanja (benchmark 2026)
+## Koliko vremena ljudi provode na drustvenim mrezama
 
-Podaci pokazuju jasnu korelaciju izmedju LCP vrednosti i stope napustanja:
+Globalni prosek u 2026: **2 sata i 23 minuta dnevno.**
 
-- **LCP ispod 2 sekunde:** bounce rate 28-35%
-- **LCP 2-4 sekunde:** bounce rate 40-52%
-- **LCP preko 4 sekunde:** bounce rate 55-70%
+Ovo je ostalo relativno stabilno poslednjih godina (oko 2h 20min do 2h 25min). Ali raspodela po platformi se menja:
 
-Kriticna granica: **53% mobilnih korisnika napusta sajt** koji se ucitava duze od 3 sekunde. Na mobilnom, svaka sekunda kasnjenja kosta vise nego na desktopu jer su korisnici manje strpljivi i cesto koriste sporije mreze.
+- **TikTok:** 58 minuta dnevno (najvise od svih platformi)
+- **Instagram:** 52 minuta dnevno
+- **Facebook:** 38 minuta dnevno
 
-Dobra vest: poboljsanje CWV moze da smanji bounce rate za **do 29%**. To je skoro trecina manje izgubljenih posetilaca bez ikakvog dodatnog ulaganja u oglase.
+TikTok je jedina platforma gde korisnici provode vise vremena nego prosle godine. Instagram drzi tempo, dok Facebook lagano gubi vreme korisnika ali ne i njihov broj.
 
-## CWV i SEO rangiranje — sta kazu podaci
+Za firme ovo znaci: imate oko **38 minuta** da dosegnete nekog na Facebooku. Na TikToku imate 58 minuta. Ali kvalitet te paznje nije isti. Na TikToku korisnik brzo skroluje, na LinkedInu citao jedan post 3 minuta.
 
-Core Web Vitals su potvrdjen faktor rangiranja u okviru Google-ovog Page Experience signala. Ali koliko zapravo uticu?
+## Engagement rate po platformi (benchmark 2026)
 
-- Stranice na **poziciji 1** u Google rezultatima imaju **10% vecu verovatnocu** da prolaze CWV testove u odnosu na stranice na poziciji 9
-- CWV funkcionisu kao "tiebreaker" kada je kvalitet sadrzaja slican izmedju konkurenata
-- Mobilne performanse nose vecu tezinu jer Google koristi mobile-first indeksiranje
-- Preko **60% web saobracaja** dolazi sa mobilnih uredjaja
+Ovo je najbitniji podatak za firme koje koriste drustvene mreze za marketing. Engagement rate pokazuje koliki procenat ljudi koji vide vas post zapravo reaguje (lajk, komentar, deljenje, klik).
 
-CWV nece pretvoriti los sadrzaj u prvi rezultat. Ali ce spreciti dobar sadrzaj da dostigne pun potencijal ako su performanse losee. Za detaljniju analizu SEO optimizacije pogledajte [SEO optimizacija cena](/seo-optimizacija-cena).
+### Prosecni engagement rate po platformi
 
-## Tri metrike koje su najbitnije za vas biznis
+- **TikTok:** 4.2% (najvisi medju svim platformama, rast od 49% u odnosu na prethodnu godinu)
+- **LinkedIn:** 2.1%
+- **Instagram Reels:** 1.23%
+- **Instagram (ukupno):** 0.48%
+- **X (Twitter):** 0.48%
+- **Facebook:** 0.15%
 
-### Ako imate e-commerce sajt
+TikTok dominira sa ogromnom razlikom. Engagement od 4.2% znaci da na svakih 1.000 pregleda dobijete 42 interakcije. Na Facebooku je to samo 1.5.
 
-**LCP je prioritet.** Korisnici moraju da vide proizvod brzo. Slike proizvoda su cesto najveci element na stranici i glavni uzrok sporog LCP-a. Optimizujte slike (WebP format, lazy loading, pravilne dimenzije) i brizete brz server.
+Ali pazite na kontekst: visok engagement ne znaci automatski visoku prodaju. TikTok engagement je cesto "pasivan" (gledanje videa), dok LinkedIn engagement (komentar na post) cesto vodi ka poslovnom razgovoru.
 
-### Ako imate usluzni sajt
+### Engagement po velicini naloga
 
-**CLS je prioritet.** Forme za kontakt i pozive na akciju ne smeju da "skacu" dok se stranica ucitava. Korisnik koji promasi dugme "Zakazite termin" jer se layout pomerio je korisnik kojeg ste izgubili. Za savete o dizajnu sajta pogledajte [izradu sajta](/cene-izrade-sajta).
+Manji nalozi imaju veci engagement rate. Ovo vazi za sve platforme:
 
-### Ako imate blog ili content sajt
+- Nalozi ispod 10.000 pratilaca: 2-5x veci engagement od naloga sa milion+
+- Razlog: algoritam favorizuje bliskost i relevantnost nad velicinom publike
 
-**INP je prioritet.** Korisnici klikcu na linkove, otvaraju menije, skroluju. Svaka od tih interakcija mora biti brza. Tezak JavaScript (pogotovo od analitike i reklama) je najcesci uzrok loseg INP-a.
+Za firme u Srbiji sa 500-5.000 pratilaca, ovo je dobra vest. Vas engagement moze biti daleko iznad proseka ako je sadrzaj relevantan za vasu nisu.
 
-## Kako proveriti vase Core Web Vitals
+## Potrosnja na oglase na drustvenim mrezama
 
-Pet besplatnih alata:
+### Globalna slika
 
-1. **Google PageSpeed Insights** (pagespeed.web.dev) — najjednostavniji, unos URL-a i dobijete izvestaj
-2. **Google Search Console** — Core Web Vitals izvestaj za ceo sajt baziran na realnim korisnicima
-3. **Lighthouse** (ugradjen u Chrome DevTools) — detaljniji tehnicki izvestaj
-4. **GTmetrix** — vizuelni waterfall prikaz ucitavanja
-5. **web.dev/measure** — Google-ov alat sa preporukama
+- **$277 milijardi** potroseno na social media oglase u 2025
+- Rast od **13.6%** u odnosu na prethodnu godinu
+- Social media oglasi rastu brze nego search oglasi
+- U 2026, globalna potrosnja na oglase prelazi **$1 trilion** (svi kanali), od cega je 74.4% digitalno
 
-Najbitniji izvor su **field data** (podaci od realnih korisnika) u Search Console, ne lab data iz Lighthouse-a. Lab data pokazuje potencijal; field data pokazuje stvarnost.
+### Gde idu pare?
 
-## Najcesce greske na srpskim sajtovima
+Meta (Facebook + Instagram) uzima najveci deo kolaca, ali TikTok raste najbrze. YouTube je stabilan drugi. LinkedIn je skup ali precizan za B2B.
 
-Na osnovu naseg iskustva sa klijentskim sajtovima u Srbiji, ovo su najcesci problemi:
+Za konkretne cene u Srbiji pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga) i [Google Ads cene](/google-reklame-cena).
 
-**1. Neoptimizovane slike.** JPEG od 3MB za baner koji se prikazuje u 1200px sirine. Resenje: WebP format, pravilne dimenzije, lazy loading za sve slike ispod prvog ekrana.
+### ROI po platformi
 
-**2. Spor hosting.** Deljeni hosting sa serverom u Nemackoj za sajt koji cilja publiku u Srbiji. TTFB (Time to First Byte) preko 800ms pre nego sto se ista ucita. Resenje: hosting sa serverom blize ciljanoj publici, CDN za staticke resurse.
+Vracanje na investiciju zavisi od industrije i ciljeva, ali generalni trend je:
 
-**3. Previse pluginova (WordPress).** Prosecni WordPress sajt u Srbiji ima 25-40 pluginova, od kojih se 10+ ucitava na svakoj stranici. Svaki plugin dodaje JavaScript i CSS koji usporavaju ucitavanje. Resenje: audit pluginova, uklanjanje nepotrebnih, odlozeno ucitavanje skripti.
+- **Facebook/Instagram:** najstabilniji ROI za e-commerce i lokalne usluge
+- **TikTok:** najbolji CPM (cena po 1.000 prikaza), ali konverzija zahteva dobar funnel
+- **LinkedIn:** najskuplji CPC, ali najvisi kvalitet lead-ova za B2B
+- **YouTube:** dugotrajni ROI jer video ostaje aktivan mesecima
 
-**4. Nedostajuce width/height atribute na slikama.** Bez ovih atributa, browser ne zna koliko prostora da rezervise za sliku, sto uzrokuje layout shift (los CLS). Resenje: uvek definisati width i height na img elementima.
+Za detaljnije poredjenje pogledajte [ROAS po platformi](/blog/roas-po-industriji-i-platformi-facebook-google-tiktok-linkedin-2026).
 
-**5. Trecopartijske skripte bez kontrole.** Google Analytics, Facebook Pixel, chat widgeti, heatmaps — svaki dodaje 50-200ms na ucitavanje. Resenje: ucitavajte ih asinhrono i sa defer atributom.
+## Sta ovo znaci za vas biznis u Srbiji
 
-## Zakljucak: brzina nije luksuz
+### Ako imate lokalni biznis
 
-Core Web Vitals nisu tehnicka zanimljivost za programere. Oni su direktno povezani sa novcem koji zaradjujete (ili gubite) online.
+Facebook je i dalje vas primarni kanal. Najveca baza korisnika 30-65 godina u Srbiji, precizno geografsko ciljanje, relativno nizak CPC. Dodajte Instagram za vizuelni sadrzaj.
 
-Sajt koji se ucitava za 2 sekunde umesto 5 ima duplo manji bounce rate, do 30% vise konverzija, i bolju poziciju na Google-u. A optimizacija CWV je jednokratna investicija koja donosi rezultate mesecima i godinama.
+### Ako prodajete online (e-commerce)
 
-Ako vas sajt ne prolazi CWV testove, prvi korak je besplatan: otvorite [PageSpeed Insights](https://pagespeed.web.dev/), unesite vas URL i pogledajte rezultat. Ako vam treba pomoc sa optimizacijom, [javite nam se](/kontakt).
+Instagram + Facebook su osnova. TikTok za gornji deo funnela (svest o brendu). Pinterest ako prodajete vizuelne proizvode (nakit, odeca, dekoracija). Retargeting je obavezan jer samo [2-5% posetilaca kupi iz prve](/blog/retargeting-zasto-95-posto-posetilaca-ne-kupi-iz-prve).
+
+### Ako nudite B2B usluge
+
+LinkedIn je neizbezno. Najvisi engagement za profesionalni sadrzaj, precizno ciljanje po poziciji, industriji i velicini firme. Skuplji, ali kvalitetniji.
+
+### Ako ciljate mlađu publiku (18-34)
+
+TikTok i Instagram Reels. Engagement rate koji daleko nadmasuje sve ostale platforme. Ali sadrzaj mora biti autentican. Poliran korporativni sadrzaj ne radi na TikToku.
+
+## Zakljucak: brojevi nisu strategija
+
+5.66 milijardi korisnika zvuci impresivno u prezentaciji. Ali vas biznis ne treba 5 milijardi. Treba vam 500 pravih kupaca.
+
+Koristite ove podatke da izaberete GIDE cete biti prisutni i koliko cete uloziti. Ne pokusavajte da budete svuda. Budite tamo gde su vasi kupci najaktivniji, sa sadrzajem koji zapravo resava njihove probleme.
+
+Ako niste sigurni odakle da krenete, [javite nam se](/kontakt) za besplatnu analizu vasih kanala.
 \`,
     schema: {
       "@context": "https://schema.org",
       "@type": "Article",
-      "headline": "Core Web Vitals i brzina sajta: kako uticu na konverzije, bounce rate i SEO (podaci za 2026)",
+      "headline": "Drustvene mreze u brojevima: korisnici, engagement, vreme i potrosnja na oglase (2026)",
       "datePublished": "2026-03-25",
       "author": { "@type": "Organization", "name": "Platinum Zenith" },
       "publisher": { "@type": "Organization", "name": "Platinum Zenith", "url": "https://platinumzenith.com" },
-      "description": "Samo 62% mobilnih stranica prolazi LCP test. Kasnjenje od 1 sekunde smanjuje konverzije do 7%. Benchmark podaci za CWV, brzinu i uticaj na rangiranje.",
-      "mainEntityOfPage": "https://platinumzenith.com/blog/core-web-vitals-page-speed-konverzija-bounce-rate-seo-statistika-2026"
+      "description": "5.66 milijardi korisnika, 2h 23min dnevno, TikTok engagement 4.2%, globalna potrosnja na oglase $277B. Benchmark podaci po platformi.",
+      "mainEntityOfPage": "https://platinumzenith.com/blog/drustvene-mreze-statistika-korisnici-engagement-vreme-ad-spend-2026"
     }
   },
 `
