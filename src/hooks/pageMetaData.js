@@ -142,6 +142,14 @@ export const pageMeta = {
     og: { title: 'Marketing za Privatne Skole, Kurseve i Autoskole u Srbiji | Platinum Zenith', description: 'Marketing za obrazovne institucije u Srbiji: Google Ads, lokalni SEO, Instagram kampanje i sajt koji pune upisne liste privatnih skola, jezickih skola i autoskola.' },
     twitter: { title: 'Marketing za Privatne Skole, Kurseve i Autoskole u Srbiji | Platinum Zenith', description: 'Marketing za obrazovne institucije u Srbiji: Google Ads, lokalni SEO, Instagram kampanje i sajt koji pune upisne liste privatnih skola, jezickih skola i autoskola.' },
   },
+  '/marketing-za-kafice-i-barove': {
+    robots: 'index, follow',
+    title: 'Marketing za Kafice i Barove u Srbiji | Platinum Zenith',
+    description: 'Marketing za kafice i barove u Srbiji: Google Business optimizacija, Instagram kampanje, lokalni SEO i dogadjaji koji pune stolove svaki dan, ne samo vikendom.',
+    keywords: 'marketing za kafice, marketing za barove, marketing za kafane, digitalni marketing kafic, google business kafic, instagram reklame bar, lokalni seo kafic, marketing ugostiteljstvo srbija',
+    og: { title: 'Marketing za Kafice i Barove u Srbiji | Platinum Zenith', description: 'Marketing za kafice i barove u Srbiji: Google Business optimizacija, Instagram kampanje, lokalni SEO i dogadjaji koji pune stolove svaki dan, ne samo vikendom.' },
+    twitter: { title: 'Marketing za Kafice i Barove u Srbiji | Platinum Zenith', description: 'Marketing za kafice i barove u Srbiji: Google Business optimizacija, Instagram kampanje, lokalni SEO i dogadjaji koji pune stolove svaki dan, ne samo vikendom.' },
+  },
   '/marketing-za-privatne-vrtice': {
     robots: 'index, follow',
     title: 'Marketing za Privatne Vrtice u Srbiji | Platinum Zenith',
@@ -1404,6 +1412,104 @@ export const pageSchemas = {
             "acceptedAnswer": {
               "@type": "Answer",
               "text": "Sajt nije obavezan za start, ali drasticno poboljsava rezultate. Mozemo poceti sa landing stranicom za jednu uslugu i prosiriti kasnije. Bitno je da posetilac moze da se javi u dva klika."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  '/marketing-za-kafice-i-barove': {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": `${SITE_URL}/marketing-za-kafice-i-barove#webpage`,
+        "url": `${SITE_URL}/marketing-za-kafice-i-barove`,
+        "name": "Marketing za Kafice i Barove u Srbiji | Platinum Zenith",
+        "description": "Marketing za kafice i barove u Srbiji: Google Business optimizacija, Instagram kampanje, lokalni SEO i dogadjaji koji pune stolove svaki dan, ne samo vikendom.",
+        "isPartOf": { "@id": `${SITE_URL}/#website` },
+        "about": { "@id": `${SITE_URL}/marketing-za-kafice-i-barove#service` },
+        "breadcrumb": { "@id": `${SITE_URL}/marketing-za-kafice-i-barove#breadcrumb` },
+        "mainEntity": [
+          { "@id": `${SITE_URL}/marketing-za-kafice-i-barove#service` },
+          { "@id": `${SITE_URL}/marketing-za-kafice-i-barove#faq` }
+        ],
+        "potentialAction": {
+          "@type": "ContactAction",
+          "name": "Zakazite analizu lokala",
+          "target": `${SITE_URL}/kontakt`
+        }
+      },
+      {
+        "@type": "Service",
+        "@id": `${SITE_URL}/marketing-za-kafice-i-barove#service`,
+        "name": "Marketing za kafice i barove",
+        "serviceType": "Cafe and bar marketing",
+        "url": `${SITE_URL}/marketing-za-kafice-i-barove`,
+        "mainEntityOfPage": { "@id": `${SITE_URL}/marketing-za-kafice-i-barove#webpage` },
+        "provider": { "@id": `${SITE_URL}/#organization` },
+        "areaServed": { "@type": "Country", "name": "Srbija" },
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "Marketing usluge za kafice i barove",
+          "itemListElement": [
+            { "@type": "Offer", "name": "Google Business optimizacija za kafice" },
+            { "@type": "Offer", "name": "Instagram i Meta kampanje za lokalni doseg" },
+            { "@type": "Offer", "name": "Lokalni SEO za ugostiteljske objekte" },
+            { "@type": "Offer", "name": "Sajt i landing stranice za barove" }
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": `${SITE_URL}/marketing-za-kafice-i-barove#breadcrumb`,
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Pocetna", "item": SITE_URL },
+          { "@type": "ListItem", "position": 2, "name": "Marketing za kafice i barove", "item": `${SITE_URL}/marketing-za-kafice-i-barove` }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "@id": `${SITE_URL}/marketing-za-kafice-i-barove#faq`,
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Da li se marketing isplati za kafic sa prosecnom potrosnjom od 500 dinara?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Jedan novi redovni gost koji dodje tri puta nedeljno donese 6.000 do 8.000 dinara mesecno. Ako kampanja od 100 evra donese 20 novih redovnih gostiju, to je 120.000 do 160.000 dinara mesecnog prihoda. Marketing se ne meri po jednoj kafi vec po vrednosti redovnog gosta."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Koji kanal je najvazniji za lokalni kafic ili bar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Google Business profil je najvazniji jer hvata ljude koji aktivno traze kafic u blizini. Instagram je drugi jer gradi svest i prikazuje atmosferu. Idealno je koristiti oba jer pokrivaju razlicite faze odluke."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Koliko vremena treba da se vide rezultati?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Google Business optimizacija pocinje da daje rezultate za 2 do 4 nedelje. Instagram kampanje mogu doneti prve nove goste vec u prvoj nedelji ako je kreativ dobar i targetiranje precizno."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Nemamo budzet za veliki marketing, sta je minimum?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Google Business optimizacija je besplatna i daje najveci povrat. Za Instagram reklame, 50 do 100 evra mesecno za lokalni kafic moze biti dovoljno da testirate sta radi. Pocnite sa jednim kanalom i sirite kad vidite rezultat."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Da li nam treba sajt ako imamo Instagram i Google profil?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Za pocetak ne mora. Ali kad zelite da prikazete meni, dogadjaje i primate rezervacije na jednom mestu, jednostavna landing stranica znacajno pomaze. Posebno ako imate dogadjaje ili specijalne ponude koje se menjaju."
             }
           }
         ]

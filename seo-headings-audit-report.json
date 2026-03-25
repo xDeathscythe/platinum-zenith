@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-25T13:36:44.917Z",
-  "routesChecked": 66,
+  "generatedAt": "2026-03-25T14:31:35.403Z",
+  "routesChecked": 67,
   "issueCount": 0,
   "checked": [
     {
@@ -1536,6 +1536,29 @@
       "route": "/marketing-za-obrazovanje",
       "component": "MarketingZaObrazovanjePage",
       "file": "src\\pages\\MarketingZaObrazovanjePage.jsx",
+      "sequence": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 7,
+        "h3": 2,
+        "total": 10
+      }
+    },
+    {
+      "route": "/marketing-za-kafice-i-barove",
+      "component": "MarketingZaKaficeIBarovePage",
+      "file": "src\\pages\\MarketingZaKaficeIBarovePage.jsx",
       "sequence": [
         1,
         2,
