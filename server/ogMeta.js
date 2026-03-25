@@ -1443,6 +1443,15 @@ const ogMeta = {
     title: 'Marketing za Privatne Klinike u Srbiji | Platinum Zenith',
     description: 'Marketing za privatne klinike u Srbiji: Google Ads po specijalizaciji, lokalni SEO, sajt za zakazivanje i remarketing koji dovodi pacijente sa pravom namerom.',
   },
+  '/marketing-za-obrazovanje': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Marketing za obrazovne institucije',
+    serviceType: 'Education marketing',
+    url: `${SITE_URL}/marketing-za-obrazovanje`,
+    areaServed: { '@type': 'Country', name: 'Srbija' },
+    provider: { '@type': 'Organization', name: 'Platinum Zenith', url: SITE_URL },
+  },
   '/marketing-za-hotele-i-smestaj': {
     '@context': 'https://schema.org',
     '@type': 'Service',
@@ -1457,6 +1466,10 @@ const ogMeta = {
   '/marketing-za-privatne-vrtice': {
     title: 'Marketing za Privatne Vrtice u Srbiji | Platinum Zenith',
     description: 'Marketing za privatne vrtice u Srbiji: lokalni SEO, Google Ads, Instagram kampanje i sajt koji popunjavaju grupe kvalitetnim upisima tokom cele godine.',
+  },
+  '/marketing-za-obrazovanje': {
+    title: 'Marketing za Privatne Skole, Kurseve i Autoskole u Srbiji | Platinum Zenith',
+    description: 'Marketing za obrazovne institucije u Srbiji: Google Ads, lokalni SEO, Instagram kampanje i sajt koji pune upisne liste privatnih skola, jezickih skola i autoskola.',
   },
   '/marketing-za-advokate': {
     title: 'Marketing za Advokate u Srbiji | Platinum Zenith',
@@ -1682,6 +1695,28 @@ const serverFaqByPath = {
     {
       q: 'Da li radite i za male studije, ne samo za velike sale?',
       a: 'Da. Pilates studio, yoga sala, CrossFit box i boutique gym zahtevaju prilagodjen pristup jer zive od manjeg broja premium clanova, ali principi lokalnog marketinga su isti.',
+    },
+  ],
+  '/marketing-za-obrazovanje': [
+    {
+      q: 'Da li marketing radi za male privatne skole ili samo za velike lance?',
+      a: 'Male skole cesto imaju prednost jer mogu da komuniciraju licniji pristup, manje grupe i konkretne rezultate. Marketing samo pojacava tu poruku i stavlja je pred ljude koji je traze.',
+    },
+    {
+      q: 'Koliko vremena treba da se vide prvi rezultati?',
+      a: 'Google Ads moze doneti prve upite za probni cas vec u prvoj nedelji. Za stabilniju sliku o ceni po upisu i kvalitetu kontakata, racunajte na 4 do 8 nedelja testiranja i optimizacije.',
+    },
+    {
+      q: 'Koji budzet je realan za pocetak kampanje?',
+      a: 'Za Google Ads u obrazovanju, realan start je 250 do 500 evra mesecno za ad spend, plus fee za vodjenje. Za Meta kampanje slican raspon moze dati dovoljno podataka za optimizaciju.',
+    },
+    {
+      q: 'Kako funkcionise marketing za autoskole?',
+      a: 'Autoskole imaju specificnu dinamiku: polaznik bira po ceni, lokaciji i prolaznosti. Google Ads sa lokalnim targetiranjem i jasnim cenama na landing stranici donosi najkvalitetnije upite.',
+    },
+    {
+      q: 'Da li treba da imamo sajt pre nego sto pocnemo sa kampanjama?',
+      a: 'Sajt nije obavezan za start, ali drasticno poboljsava rezultate. Mozemo poceti sa landing stranicom za jednu uslugu i prosiriti kasnije. Bitno je da posetilac moze da se javi u dva klika.',
     },
   ],
   '/marketing-za-racunovodje': [

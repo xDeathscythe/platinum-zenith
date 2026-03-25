@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-25T09:37:11.415Z",
-  "routesChecked": 65,
+  "generatedAt": "2026-03-25T10:33:57.527Z",
+  "routesChecked": 66,
   "issueCount": 0,
   "checked": [
     {
@@ -1513,6 +1513,29 @@
       "route": "/marketing-za-hotele-i-smestaj",
       "component": "MarketingZaHoteleISmestajPage",
       "file": "src\\pages\\MarketingZaHoteleISmestajPage.jsx",
+      "sequence": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 7,
+        "h3": 2,
+        "total": 10
+      }
+    },
+    {
+      "route": "/marketing-za-obrazovanje",
+      "component": "MarketingZaObrazovanjePage",
+      "file": "src\\pages\\MarketingZaObrazovanjePage.jsx",
       "sequence": [
         1,
         2,

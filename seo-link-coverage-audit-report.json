@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-03-25T09:37:11.903Z",
-  "routesChecked": 331,
-  "linksScanned": 4161,
+  "generatedAt": "2026-03-25T10:33:57.995Z",
+  "routesChecked": 332,
+  "linksScanned": 4175,
   "issueCount": 0,
-  "warningCount": 0,
+  "warningCount": 1,
   "issues": [],
-  "warnings": []
+  "warnings": [
+    "/marketing-za-obrazovanje: no inbound internal links detected"
+  ]
 }

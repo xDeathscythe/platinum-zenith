@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-03-25T06:30:45.136Z",
-  "jsChunkCount": 356,
-  "publicBlogCount": 262,
-  "blogDataBudgetKb": 1441,
-  "criticalTotalKb": 410.81,
+  "generatedAt": "2026-03-25T10:34:24.357Z",
+  "jsChunkCount": 360,
+  "publicBlogCount": 266,
+  "blogDataBudgetKb": 1463,
+  "criticalTotalKb": 411.02,
   "criticalBudgetKb": 460,
   "checks": [
     {
       "label": "index chunk",
-      "file": "index-C2w38Elv.js",
-      "sizeKb": 58.71,
+      "file": "index-DR-KnmyI.js",
+      "sizeKb": 58.92,
       "maxKb": 70
     },
     {

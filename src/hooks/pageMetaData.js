@@ -134,6 +134,14 @@ export const pageMeta = {
     og: { title: 'Marketing za Hotele, Apartmane i Smestaj u Srbiji | Platinum Zenith', description: 'Marketing za hotele i smestaj u Srbiji: SEO, Google Ads i sadrzaj koji puni sobe i smanjuje zavisnost od Booking-a.' },
     twitter: { title: 'Marketing za Hotele, Apartmane i Smestaj u Srbiji | Platinum Zenith', description: 'Marketing za hotele i smestaj u Srbiji: SEO, Google Ads i sadrzaj koji puni sobe i smanjuje zavisnost od Booking-a.' },
   },
+  '/marketing-za-obrazovanje': {
+    robots: 'index, follow',
+    title: 'Marketing za Privatne Skole, Kurseve i Autoskole u Srbiji | Platinum Zenith',
+    description: 'Marketing za obrazovne institucije u Srbiji: Google Ads, lokalni SEO, Instagram kampanje i sajt koji pune upisne liste privatnih skola, jezickih skola i autoskola.',
+    keywords: 'marketing za privatne skole, marketing za skole stranih jezika, marketing za autoskole, digitalni marketing obrazovanje, google ads privatna skola, instagram reklame skola, seo za obrazovne institucije, marketing kursevi srbija',
+    og: { title: 'Marketing za Privatne Skole, Kurseve i Autoskole u Srbiji | Platinum Zenith', description: 'Marketing za obrazovne institucije u Srbiji: Google Ads, lokalni SEO, Instagram kampanje i sajt koji pune upisne liste privatnih skola, jezickih skola i autoskola.' },
+    twitter: { title: 'Marketing za Privatne Skole, Kurseve i Autoskole u Srbiji | Platinum Zenith', description: 'Marketing za obrazovne institucije u Srbiji: Google Ads, lokalni SEO, Instagram kampanje i sajt koji pune upisne liste privatnih skola, jezickih skola i autoskola.' },
+  },
   '/marketing-za-privatne-vrtice': {
     robots: 'index, follow',
     title: 'Marketing za Privatne Vrtice u Srbiji | Platinum Zenith',
@@ -1298,6 +1306,104 @@ export const pageSchemas = {
             "acceptedAnswer": {
               "@type": "Answer",
               "text": "Booking profil je neophodan za vidljivost, ali direktne rezervacije bez provizije zahtevaju sopstveni sajt sa booking engine-om. Razlika od 15 do 25 posto provizije po rezervaciji brzo opravdava ulaganje u sajt."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  '/marketing-za-obrazovanje': {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": `${SITE_URL}/marketing-za-obrazovanje#webpage`,
+        "url": `${SITE_URL}/marketing-za-obrazovanje`,
+        "name": "Marketing za Privatne Skole, Kurseve i Autoskole u Srbiji | Platinum Zenith",
+        "description": "Marketing za obrazovne institucije u Srbiji: Google Ads, lokalni SEO, Instagram kampanje i sajt koji pune upisne liste privatnih skola, jezickih skola i autoskola.",
+        "isPartOf": { "@id": `${SITE_URL}/#website` },
+        "about": { "@id": `${SITE_URL}/marketing-za-obrazovanje#service` },
+        "breadcrumb": { "@id": `${SITE_URL}/marketing-za-obrazovanje#breadcrumb` },
+        "mainEntity": [
+          { "@id": `${SITE_URL}/marketing-za-obrazovanje#service` },
+          { "@id": `${SITE_URL}/marketing-za-obrazovanje#faq` }
+        ],
+        "potentialAction": {
+          "@type": "ContactAction",
+          "name": "Zakazite analizu institucije",
+          "target": `${SITE_URL}/kontakt`
+        }
+      },
+      {
+        "@type": "Service",
+        "@id": `${SITE_URL}/marketing-za-obrazovanje#service`,
+        "name": "Marketing za obrazovne institucije",
+        "serviceType": "Education marketing",
+        "url": `${SITE_URL}/marketing-za-obrazovanje`,
+        "mainEntityOfPage": { "@id": `${SITE_URL}/marketing-za-obrazovanje#webpage` },
+        "provider": { "@id": `${SITE_URL}/#organization` },
+        "areaServed": { "@type": "Country", "name": "Srbija" },
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "Marketing usluge za obrazovne institucije",
+          "itemListElement": [
+            { "@type": "Offer", "name": "Google Ads za privatne skole i kurseve" },
+            { "@type": "Offer", "name": "Lokalni SEO i Google Business za obrazovanje" },
+            { "@type": "Offer", "name": "Instagram i Meta kampanje za upis polaznika" },
+            { "@type": "Offer", "name": "Sajt i landing stranice za obrazovne institucije" }
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": `${SITE_URL}/marketing-za-obrazovanje#breadcrumb`,
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Pocetna", "item": SITE_URL },
+          { "@type": "ListItem", "position": 2, "name": "Marketing za obrazovanje", "item": `${SITE_URL}/marketing-za-obrazovanje` }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "@id": `${SITE_URL}/marketing-za-obrazovanje#faq`,
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Da li marketing radi za male privatne skole ili samo za velike lance?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Male skole cesto imaju prednost jer mogu da komuniciraju licniji pristup, manje grupe i konkretne rezultate. Marketing samo pojacava tu poruku i stavlja je pred ljude koji je traze."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Koliko vremena treba da se vide prvi rezultati?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Google Ads moze doneti prve upite za probni cas vec u prvoj nedelji. Za stabilniju sliku o ceni po upisu i kvalitetu kontakata, racunajte na 4 do 8 nedelja testiranja i optimizacije."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Koji budzet je realan za pocetak kampanje?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Za Google Ads u obrazovanju, realan start je 250 do 500 evra mesecno za ad spend, plus fee za vodjenje. Za Meta kampanje slican raspon moze dati dovoljno podataka za optimizaciju."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Kako funkcionise marketing za autoskole?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Autoskole imaju specificnu dinamiku: polaznik bira po ceni, lokaciji i prolaznosti. Google Ads sa lokalnim targetiranjem i jasnim cenama na landing stranici donosi najkvalitetnije upite."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Da li treba da imamo sajt pre nego sto pocnemo sa kampanjama?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sajt nije obavezan za start, ali drasticno poboljsava rezultate. Mozemo poceti sa landing stranicom za jednu uslugu i prosiriti kasnije. Bitno je da posetilac moze da se javi u dva klika."
             }
           }
         ]
