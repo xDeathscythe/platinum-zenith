@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "mobilni-marketing-i-m-commerce-statistika-2026",
+    "title": "Mobilni marketing u 2026: 60% trzista, konverzije od 2.8% i ROI mobilnih aplikacija",
+    "excerpt": "Mobilna trgovina (m-commerce) dostize 2.4 triliona dolara u 2026. Telefon donosi 75% saobracaja, ali konverzije variraju. Saznajte benchmark podatke po industriji.",
+    "date": "2026-03-26",
+    "category": "Marketing",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "content-marketing-statistika-roi-blog-lead-generation-cpl-2026",
     "title": "Content marketing statistika (2026): ROI, cena po leadu i uticaj bloga na prodaju",
     "excerpt": "Content marketing donosi 3x vise leadova od outbound marketinga po 62% nizoj ceni. Prosečan ROI je 3$ na svaki ulozen dolar. Podaci za B2B i B2C.",

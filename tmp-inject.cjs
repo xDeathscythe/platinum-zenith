@@ -5,121 +5,81 @@ const blogDataPath = path.join(__dirname, 'src', 'pages', 'blog', 'blogData.js')
 let content = fs.readFileSync(blogDataPath, 'utf8')
 
 const newPost = `  {
-    slug: 'content-marketing-statistika-roi-blog-lead-generation-cpl-2026',
-    title: 'Content marketing statistika (2026): ROI, cena po leadu i uticaj bloga na prodaju',
-    excerpt: 'Content marketing donosi 3x vise leadova od outbound marketinga po 62% nizoj ceni. Prosečan ROI je 3$ na svaki ulozen dolar. Podaci za B2B i B2C.',
-    date: '2026-03-25',
+    slug: 'mobilni-marketing-i-m-commerce-statistika-2026',
+    title: 'Mobilni marketing u 2026: 60% trzista, konverzije od 2.8% i ROI mobilnih aplikacija',
+    excerpt: 'Mobilna trgovina (m-commerce) dostize 2.4 triliona dolara u 2026. Telefon donosi 75% saobracaja, ali konverzije variraju. Saznajte benchmark podatke po industriji.',
+    date: '2026-03-26',
     category: 'Marketing',
-    readTime: '9 min',
+    readTime: '8 min',
     content: \`
-## Zasto tekst i dalje prodaje
+## M-commerce: dominacija pametnih telefona
 
-U eri videa i drustvenih mreza, mnogi su predvideli smrt pisanog sadrzaja i blogova. Podaci za 2025. i 2026. godinu pokazuju potpuno suprotno: content marketing raste ka industriji od **107.5 milijardi dolara**, a blogovi su i dalje treci najkorisceniji format na svetu.
+Kada ste poslednji put kupili nesto preko racunara? Ako ste kao vecina, verovatno je to bilo pre vise nedelja. Mobilni telefoni vise nisu "drugi ekran". Oni su prvi, glavni, a cesto i jedini ekran koji kupci koriste.
 
-Razlog je jednostavan: video privlaci paznju, ali tekst prodaje i edukuje. Kad kupac zeli da sazna *kako* nesto radi, koliko kosta i zasto je bolje od konkurencije, on cita.
+Mobilna trgovina (m-commerce) ocekuje se da dostigne vrednost od **2.4 triliona dolara** u 2026. godini. Mobilni telefoni sada cine oko **60% celokupne globalne e-commerce prodaje**. 
 
-Evo konkretnih brojki koje dokazuju zasto je sadrzaj najvrednija dugorocna investicija koju vasa firma moze da napravi.
+Ovo nije buducnost. Ovo je sadasnjost, a brojke pokazuju koliko brzo se menja ponasanje potrosaca.
 
-## ROI content marketinga: 3 dolara na svaki ulozen dolar
+## Saobracaj vs Konverzija: mobilni paradoks
 
-Kada ulozite 100 evra u Facebook oglase, dobijete odredjen broj klikova. Kad budzet nestane, klikovi staju. 
-Kada ulozite 100 evra u kvalitetan blog post, on moze da donosi saobracaj i klijente mesecima i godinama besplatno.
+Evo najveceg izazova u m-commerce-u: mobilni telefoni donose najvise saobracaja, ali desktop racunari i dalje (cesto) donose vise novca po poseti.
 
-Zbog toga su razlike u ROI-u ogromne:
+- **Udeo u saobracaju:** Mobilni uredjaji generisu **75% do 78% celokupnog e-commerce saobracaja** globalno.
+- **Konverzija:** U 2026. godini, prosecna stopa konverzije na mobilnim uredjajima je porasla na **2.8%**, izjednacavajuci se sa desktop konverzijama u nekim industrijama. (Istorijski prosek je godinama bio oko 1.8%).
 
-- **Prosecan ROI content marketinga:** $3 povrata na svaki $1 ulog
-- **Prosecan ROI placenih oglasa:** $1.80 povrata na svaki $1 ulog
-- **B2B ekstrem:** Uz pravilnu SEO strategiju, ROI B2B content marketinga moze dostici neverovatnih **748%**
+Ovo izjednacavanje konverzija je ogroman napredak. Razlozi za to su bolji mobilni UX (User Experience), brzi sajtovi ([Core Web Vitals](/blog/core-web-vitals-page-speed-konverzija-bounce-rate-seo-statistika-2026)), i sveprisutnost mobilnih novcanika poput Apple Pay-a i Google Pay-a koji omogucavaju "one-click" kupovinu.
 
-Uprkos ovim brojevima, 56% B2B marketera kaze da im je merenje ROI-a od sadrzaja i dalje izazov. Razlog je to sto content retko donosi konverziju na "prvi klik". Korisnik procita tri vasa bloga tokom mesec dana, a onda direktno ukuca ime vase firme u Google i kupi. Google Analytics ce zaslugu pripisati "direct" saobracaju, iako je sadrzaj obavio prodaju.
+### Konverzije po industriji (mobilni web)
 
-Zanimljivo je i sta firme navode kao glavni benefit sadrzaja. To vise nije samo prodaja. **61% marketera navodi izgradnju poverenja i kredibiliteta** kao glavni povrat, sto je vaznije i od direktnog lead generation-a (55%).
+Nisu sve industrije jednake kada je rec o mobilnoj kupovini:
 
-## Cena po leadu (CPL) i generisanje potencijalnih kupaca
+- **Hrana i pice:** 6.11% (ljudi narucuju u hodu)
+- **Moda i odeca:** stabilnih 2.5% - 3.5%
+- **Luksuzna roba:** 1.19% (kupci skupe robe vise vole veliki ekran za detaljno razgledanje)
 
-Content marketing je ubedljivo najisplativiji nacin za generisanje leadova (potencijalnih kupaca koji su ostavili kontakt podatke).
+Zanimljiv podatak: **shopping aplikacije** konvertuju znatno bolje od mobilnog web-a. Prosecna konverzija u nativnim aplikacijama je **3.5%**, naspram 2% na webu. Aplikacije nude brzinu, push notifikacije i personalizaciju.
 
-- Generise **3x vise leadova** od tradicionalnog outbound marketinga (hladni pozivi, bilbordi, TV)
-- Kosta **62% manje** po generisanom leadu
-- **87% B2B marketera** uspesno koristi content za generisanje leadova
+## Troskovi i ROI mobilnog marketinga
 
-### Benchmark cene po leadu (CPL) za 2026:
+Mobilni marketing sada privlaci **70% ukupnih budzeta za oglasavanje**. Zasto? Jer tamo su oci korisnika.
 
-- **Prosecan CPL (sve industrije):** $198.44
-- **E-commerce i HVAC:** oko $91-$92
-- **B2B SaaS:** $237
-- **Visoko obrazovanje:** $982
-- **Google Ads prosek:** $70.11
+Kada gledamo Return on Ad Spend (ROAS) na mobilnim kampanjama za 2025-2026, brojke su sledece (medijana):
+- **Google Ads:** 3.31x
+- **Meta (Facebook/Instagram):** 2.19x
+- **TikTok:** 1.41x
 
-A sada uporedite to sa organskim saobracajem: **SEO i content marketing imaju prosecan dugorocni CPL od samo $31.**
+Dok TikTok moze imati [najveci reach i engagement](/blog/drustvene-mreze-statistika-korisnici-engagement-vreme-ad-spend-2026), Google Ads ostaje sampion direktne konverzije zbog visoke namere kupca.
 
-Razlika u ceni je tolika da 61% firmi planira povecanje budzeta za content marketing u 2026. godini.
+Posebno se izdvaja **SMS marketing** sa zapanjujucim brojkama:
+- **Open rate:** priblizno 98%
+- **Click-through rate (CTR):** 19% do 36%
+- **ROI:** Procenjuje se na neverovatnih $71 za svaki ulozen dolar. SMS kampanje za napustenu korpu su jedan od najefikasnijih alata za e-commerce.
 
-Za detaljniji uvid u cene usluga pogledajte nas vodic za [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+## Sta ovo znaci za vas biznis u Srbiji?
 
-## Blogovi: masina za generisanje leadova
+### 1. Optimizacija za mobilne vise nije dovoljna – potreban je "Mobile-First" dizajn
 
-Ako mislite da niko vise ne cita blogove, brojke vas demantuju:
+Ako vas sajt "radi" na mobilnom, ali zahteva zumiranje, popunjavanje dugih formi ili se sporo ucitava, gubite novac svake sekunde. Dizajnirajte za telefon, a desktop neka bude adaptacija. Elementi moraju biti krupni, dugmici prilagodjeni palcu, a navigacija intuitivna.
 
-- Firme koje imaju aktivan blog privlace **55% vise posetilaca** na sajt
-- Generisu **13x vise leadova** u odnosu na firme bez bloga
-- Firme koje objavljuju konzistentno (npr. 15 postova mesecno) mogu ocekivati prosecno 1.200 novih organskih leadova mesecno
+### 2. Sredite proces placanja (Checkout)
 
-**Sta cini uspesan blog post u 2026?**
-Prosecna duzina uspesnog posta je oko **1.350 reci**. Zasto? Zato sto Google i citaoci traze sveobuhvatne odgovore na svoja pitanja. Kratki postovi od 300 reci vise ne prolaze u SEO rezultatima. 
+Razlog broj jedan za napustenu korpu na mobilnom telefonu je "previse koraka u checkoutu". Implementirajte brza resenja za placanje, sacuvane podatke, i smanjite broj obaveznih polja na minimum.
 
-Mala preduzeca su najveci dobitnici: ona imaju **23% vecu sansu** da vide pozitivan ROI od bloga u odnosu na velike korporacije. Zato sto na lokalu, jedan dobar, edukativan post moze da vas pozicionira iznad sve konkurencije u gradu.
+### 3. Vreme provedeno na aplikacijama vs browser
 
-Za informacije o uticaju sadrzaja i SEO-a na rast posetite nasu stranicu za [SEO optimizaciju](/seo-optimizacija-cena).
+Od ukupnog vremena provedenog na telefonu, neverovatnih **92% se provodi u aplikacijama** (najvise drustvenim mrezama). To znaci da vase Facebook, Instagram i TikTok kampanje direktno hvataju korisnike u njihovom prirodnom "mobilnom habitatu".
 
-## B2B vs B2C: razlike u sadrzaju
-
-Content marketing koriste i B2B (73%) i B2C (70%) firme, ali na potpuno razlicite nacine.
-
-### B2C (Biznis ka potrosacu)
-- B2C sadrzaj generise neverovatnih **9.7x vise deljenja** na drustvenim mrezama
-- Najbolje prolaze: dogadjaji, kratki tekstovi i videi
-- 43.3% B2C marketera ocenjuje svoju strategiju kao veoma uspesnu
-
-### B2B (Biznis ka biznisu)
-- Oslanjaju se na: kratke clanke (92%), videe (76%) i studije slucaja (75%)
-- Najveci ROI dolazi iskljucivo od **owned media**: websajt, blog, i SEO
-- Veca investicija u kvalitet: B2B kupac zahteva detaljne informacije, studije slucaja i podatke pre donosenja odluke
-
-Ova podela pokazuje da B2C firme mogu da se oslone na drustvene mreze za viralnost, dok B2B firme grade "biblioteke znanja" na svojim sajtovima.
-
-Vise o B2B trendovima pronadjite u nasem tekstu o [B2B marketingu i prodajnim ciklusima](/blog/b2b-marketing-statistika-lead-generation-prodajni-ciklus-linkedin-2026).
-
-## Kako AI menja proizvodnju sadrzaja
-
-Vestacka inteligencija (AI) nije ubila content marketing, vec ga je ubrzala:
-
-- **89%** marketera vec koristi generativni AI
-- Kako se koristi: brainstorming tema (62%), rezimiranje (53%), i pisanje prvih nacrta (44%)
-- Rezultat: **68% biznisa** belezi rast ROI-a zbog koriscenja AI alata
-- Firme koje koriste AI za generisanje leadova vide **50% vise prodajno-spremnih leadova** uz do 60% nize troskove akvizicije (CAC)
-
-U 2026. godini, 94% marketera planira integraciju AI alata u svoj proces rada. Ali AI ne zamenjuje eksperte. On generise ideje i prve nacrte, dok ljudi dodaju iskustvo, emociju i specifican ugao firme koji gradi pomenuto poverenje. 
-
-Sadrzaj koji zvuci kao robot nece konvertovati. Zato je proces uredjivanja postao vazniji od samog pisanja.
-
-## Zakljucak: investicija, a ne trosak
-
-Ako platite oglas na bilbordu ili Facebook-u, vi iznajmljujete paznju. Cim prestanete da placate, paznja nestaje.
-
-Kada napisete kvalitetan blog post, optimizujete ga za pretragu i postavite na svoj sajt, vi **gradite sopstveni digitalni asset**. Taj post radi za vas 24 sata dnevno, 365 dana u godini, bez dodatnih troskova. Sa ROI-em od $3 na $1 i cenom leada od $31, content marketing je dokazano najstabilniji temelj rasta u 2026. godini.
-
-Spremni ste da izgradite vasu masinu za leadove? [Kontaktirajte nas](/kontakt) za besplatnu analizu i plan.
+Zelite li da iskoristite prednosti m-commerce trenda i optimizujete vas sajt za bolje mobilne konverzije? Pogledajte nase usluge za [CRO optimizaciju](/cro) i [SEO](/seo-optimizacija-cena) ili nas [kontaktirajte](/kontakt) za besplatnu analizu.
 \`,
     schema: {
       "@context": "https://schema.org",
       "@type": "Article",
-      "headline": "Content marketing statistika (2026): ROI, cena po leadu i uticaj bloga na prodaju",
-      "datePublished": "2026-03-25",
+      "headline": "Mobilni marketing u 2026: 60% trzista, konverzije od 2.8% i ROI mobilnih aplikacija",
+      "datePublished": "2026-03-26",
       "author": { "@type": "Organization", "name": "Platinum Zenith" },
       "publisher": { "@type": "Organization", "name": "Platinum Zenith", "url": "https://platinumzenith.com" },
-      "description": "Content marketing donosi 3x vise leadova od outbound marketinga po 62% nizoj ceni. Prosečan ROI je 3$ na svaki ulozen dolar. Podaci za B2B i B2C.",
-      "mainEntityOfPage": "https://platinumzenith.com/blog/content-marketing-statistika-roi-blog-lead-generation-cpl-2026"
+      "description": "Mobilna trgovina (m-commerce) dostize 2.4 triliona dolara u 2026. Telefon donosi 75% saobracaja, ali konverzije variraju. Saznajte benchmark podatke po industriji.",
+      "mainEntityOfPage": "https://platinumzenith.com/blog/mobilni-marketing-i-m-commerce-statistika-2026"
     }
   },
 `

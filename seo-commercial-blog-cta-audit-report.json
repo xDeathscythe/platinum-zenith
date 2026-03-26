@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-03-26T08:08:44.381Z",
-  "postsChecked": 209,
+  "generatedAt": "2026-03-26T09:17:19.326Z",
+  "postsChecked": 210,
   "issueCount": 0,
   "checked": [
+    {
+      "route": "/blog/mobilni-marketing-i-m-commerce-statistika-2026",
+      "serviceHits": 3,
+      "hasKontakt": true
+    },
     {
       "route": "/blog/content-marketing-statistika-roi-blog-lead-generation-cpl-2026",
       "serviceHits": 3,
