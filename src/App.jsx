@@ -82,6 +82,7 @@ const MarketingZaObrazovanjePage = lazy(() => import('./pages/MarketingZaObrazov
 const MarketingZaKaficeIBarovePage = lazy(() => import('./pages/MarketingZaKaficeIBarovePage'))
 const MarketingZaGradjevinskeFirmePage = lazy(() => import('./pages/MarketingZaGradjevinskeFirmePage'))
 const MarketingZaZanatlijePage = lazy(() => import('./pages/MarketingZaZanatlijePage'))
+const MarketingZaSaloneNamestajaPage = lazy(() => import('./pages/MarketingZaSaloneNamestajaPage'))
 const MarketingZaZanatlijePage = lazy(() => import('./pages/MarketingZaZanatlijePage'))
 
 // Admin pages
@@ -209,7 +210,8 @@ function PublicLayout() {
             <Route path="/marketing-za-obrazovanje" element={<MarketingZaObrazovanjePage />} />
             <Route path="/marketing-za-kafice-i-barove" element={<MarketingZaKaficeIBarovePage />} />
             <Route path="/marketing-za-gradjevinske-firme" element={<MarketingZaGradjevinskeFirmePage />} />
-            <Route path="/marketing-za-zanatlije" element={<MarketingZaZanatlijePage />} />`n            <Route path="/marketing-za-zanatlije" element={<MarketingZaZanatlijePage />} />
+            <Route path="/marketing-za-zanatlije" element={<MarketingZaZanatlijePage />} />
+            <Route path="/marketing-za-salone-namestaja" element={<MarketingZaSaloneNamestajaPage />} />`n            <Route path="/marketing-za-zanatlije" element={<MarketingZaZanatlijePage />} />
             <Route path="/draft/:slug" element={<BlogPostPage />} />
             <Route path="*" element={<NotFoundPage />} />
           </Routes>

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-03-25T18:31:53.573Z",
-  "routeCount": 73,
-  "trailingSlashAliasChecks": 72,
-  "queryHashAliasChecks": 218,
-  "totalChecks": 363,
+  "generatedAt": "2026-03-26T08:08:40.727Z",
+  "routeCount": 74,
+  "trailingSlashAliasChecks": 73,
+  "queryHashAliasChecks": 221,
+  "totalChecks": 368,
   "issueCount": 0,
   "issues": []
 }

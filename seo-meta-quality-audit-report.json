@@ -1,10 +1,8 @@
 {
-  "generatedAt": "2026-03-25T18:32:02.223Z",
-  "pagesChecked": 71,
+  "generatedAt": "2026-03-26T08:08:44.419Z",
+  "pagesChecked": 72,
   "issuesCount": 0,
-  "warningsCount": 1,
+  "warningsCount": 0,
   "issues": [],
-  "warnings": [
-    "/marketing-za-zanatlije: title length 82 (target 35-80)"
-  ]
+  "warnings": []
 }

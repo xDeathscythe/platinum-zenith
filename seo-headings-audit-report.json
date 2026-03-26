@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-25T18:31:57.180Z",
-  "routesChecked": 70,
+  "generatedAt": "2026-03-26T08:08:40.961Z",
+  "routesChecked": 71,
   "issueCount": 0,
   "checked": [
     {
@@ -1603,6 +1603,27 @@
       "route": "/marketing-za-zanatlije",
       "component": "MarketingZaZanatlijePage",
       "file": "src\\pages\\MarketingZaZanatlijePage.jsx",
+      "sequence": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 4,
+        "h3": 3,
+        "total": 8
+      }
+    },
+    {
+      "route": "/marketing-za-salone-namestaja",
+      "component": "MarketingZaSaloneNamestajaPage",
+      "file": "src\\pages\\MarketingZaSaloneNamestajaPage.jsx",
       "sequence": [
         1,
         2,

@@ -142,6 +142,14 @@ export const pageMeta = {
     og: { title: 'Marketing za Privatne Skole, Kurseve i Autoskole u Srbiji | Platinum Zenith', description: 'Marketing za obrazovne institucije u Srbiji: Google Ads, lokalni SEO, Instagram kampanje i sajt koji pune upisne liste privatnih skola, jezickih skola i autoskola.' },
     twitter: { title: 'Marketing za Privatne Skole, Kurseve i Autoskole u Srbiji | Platinum Zenith', description: 'Marketing za obrazovne institucije u Srbiji: Google Ads, lokalni SEO, Instagram kampanje i sajt koji pune upisne liste privatnih skola, jezickih skola i autoskola.' },
   },
+  '/marketing-za-salone-namestaja': {
+    robots: 'index, follow',
+    title: 'Marketing za Salone Nameštaja | Platinum Zenith',
+    description: 'Povećajte foot traffic u salonu i e-commerce prodaju. Google Ads, Meta retargeting i SEO optimizacija za salone nameštaja.',
+    keywords: 'marketing za salone namestaja, digitalni marketing namestaj, prodaja namestaja online, reklamiranje salona namestaja, seo za namestaj',
+    og: { title: 'Marketing za Salone Nameštaja | Platinum Zenith', description: 'Povećajte foot traffic u salonu i e-commerce prodaju. Google Ads, Meta retargeting i SEO optimizacija za salone nameštaja.' },
+    twitter: { title: 'Marketing za Salone Nameštaja | Platinum Zenith', description: 'Povećajte foot traffic u salonu i e-commerce prodaju. Google Ads, Meta retargeting i SEO optimizacija za salone nameštaja.' },
+  },
   '/marketing-za-zanatlije': {
       robots: 'index, follow',
       title: 'Digitalni Marketing za Majstore i Zanatlije | Platinum Zenith',

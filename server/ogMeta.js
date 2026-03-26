@@ -1471,7 +1471,11 @@ const ogMeta = {
     title: 'Marketing za Privatne Skole, Kurseve i Autoskole u Srbiji | Platinum Zenith',
     description: 'Marketing za obrazovne institucije u Srbiji: Google Ads, lokalni SEO, Instagram kampanje i sajt koji pune upisne liste privatnih skola, jezickih skola i autoskola.',
   },
-  '/marketing-za-zanatlije': {
+    '/marketing-za-salone-namestaja': {
+    title: 'Marketing za Salone Nameštaja | Platinum Zenith',
+    description: 'Povećajte foot traffic u salonu i e-commerce prodaju. Google Ads, Meta retargeting i SEO optimizacija za salone nameštaja.',
+  },
+'/marketing-za-zanatlije': {
     title: 'Digitalni Marketing za Majstore i Zanatlije | Platinum Zenith',
     description: 'Specijalizovan digitalni marketing za zanatlije, električare, vodoinstalatere i keramičare. Google Ads za hitne intervencije, lokalni SEO i izrada brzih sajtova.',
     image: 'https://platinumzenith.com/og-images/default-og.png', // Fallback, would be nice to generate specific
