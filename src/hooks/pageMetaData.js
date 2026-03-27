@@ -148,6 +148,13 @@ export const pageMeta = {
     description: 'Povećajte foot traffic u salonu i e-commerce prodaju. Google Ads, Meta retargeting i SEO optimizacija za salone nameštaja.',
     keywords: 'marketing za salone namestaja, digitalni marketing namestaj, prodaja namestaja online, reklamiranje salona namestaja, seo za namestaj',
     og: { title: 'Marketing za Salone Nameštaja | Platinum Zenith', description: 'Povećajte foot traffic u salonu i e-commerce prodaju. Google Ads, Meta retargeting i SEO optimizacija za salone nameštaja.' },
+  '/marketing-za-turisticke-agencije': {
+    title: 'Marketing za Turističke Agencije | Povećajte Broj Rezervacija | PZ',
+    description: 'Digitalni marketing za turističke agencije. Oglasne kampanje na Google, Meta (Facebook, Instagram) mrežama koje donose rane rezervacije i stabilan rast prometa.',
+    keywords: 'marketing za turističke agencije, digitalni marketing turizam, reklame za putovanja, google ads turizam, social media turističke agencije',
+    type: 'website'
+  },
+
     twitter: { title: 'Marketing za Salone Nameštaja | Platinum Zenith', description: 'Povećajte foot traffic u salonu i e-commerce prodaju. Google Ads, Meta retargeting i SEO optimizacija za salone nameštaja.' },
   },
   '/marketing-za-zanatlije': {

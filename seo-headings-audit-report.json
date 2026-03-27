@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-26T09:17:15.901Z",
-  "routesChecked": 71,
+  "generatedAt": "2026-03-27T08:03:35.239Z",
+  "routesChecked": 72,
   "issueCount": 0,
   "checked": [
     {
@@ -1624,6 +1624,27 @@
       "route": "/marketing-za-salone-namestaja",
       "component": "MarketingZaSaloneNamestajaPage",
       "file": "src\\pages\\MarketingZaSaloneNamestajaPage.jsx",
+      "sequence": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2
+      ],
+      "counts": {
+        "h1": 1,
+        "h2": 4,
+        "h3": 3,
+        "total": 8
+      }
+    },
+    {
+      "route": "/marketing-za-turisticke-agencije",
+      "component": "MarketingZaTuristickeAgencijePage",
+      "file": "src\\pages\\MarketingZaTuristickeAgencijePage.jsx",
       "sequence": [
         1,
         2,

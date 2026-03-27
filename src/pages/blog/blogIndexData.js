@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "tiktok-ads-statistika-roi-konverzija-benchmark-2026",
+    "title": "TikTok Ads statistika 2026: ROI, konverzije, CPM i engagement benchmark podaci",
+    "excerpt": "TikTok konvertuje 45.5% korisnika u kupce. Prosecan engagement 4.90%, TikTok Shop konverzija do 12%. Pogledajte benchmark podatke za 2026. godinu.",
+    "date": "2026-03-26",
+    "category": "Marketing",
+    "readTime": "8 min",
+    "isDraft": false
+  },
+  {
     "slug": "mobilni-marketing-i-m-commerce-statistika-2026",
     "title": "Mobilni marketing u 2026: 60% trzista, konverzije od 2.8% i ROI mobilnih aplikacija",
     "excerpt": "Mobilna trgovina (m-commerce) dostize 2.4 triliona dolara u 2026. Telefon donosi 75% saobracaja, ali konverzije variraju. Saznajte benchmark podatke po industriji.",

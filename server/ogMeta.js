@@ -1475,6 +1475,14 @@ const ogMeta = {
     title: 'Marketing za Salone Nameštaja | Platinum Zenith',
     description: 'Povećajte foot traffic u salonu i e-commerce prodaju. Google Ads, Meta retargeting i SEO optimizacija za salone nameštaja.',
   },
+  '/marketing-za-turisticke-agencije': {
+    title: 'Marketing za Turističke Agencije | Generišite Rezervacije Tokom Cele Godine | PZ',
+    description: 'Dokazane marketinške strategije za turističke agencije u Srbiji. Smanjite zavisnost od sezone, povećajte rani buking i izgradite prepoznatljiv brend.',
+    url: 'https://platinumzenith.com/marketing-za-turisticke-agencije',
+    image: 'https://platinumzenith.com/seo-bg.png', // Or some other default image
+    type: 'website'
+  },
+
 '/marketing-za-zanatlije': {
     title: 'Digitalni Marketing za Majstore i Zanatlije | Platinum Zenith',
     description: 'Specijalizovan digitalni marketing za zanatlije, električare, vodoinstalatere i keramičare. Google Ads za hitne intervencije, lokalni SEO i izrada brzih sajtova.',

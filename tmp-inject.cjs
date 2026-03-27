@@ -5,81 +5,92 @@ const blogDataPath = path.join(__dirname, 'src', 'pages', 'blog', 'blogData.js')
 let content = fs.readFileSync(blogDataPath, 'utf8')
 
 const newPost = `  {
-    slug: 'mobilni-marketing-i-m-commerce-statistika-2026',
-    title: 'Mobilni marketing u 2026: 60% trzista, konverzije od 2.8% i ROI mobilnih aplikacija',
-    excerpt: 'Mobilna trgovina (m-commerce) dostize 2.4 triliona dolara u 2026. Telefon donosi 75% saobracaja, ali konverzije variraju. Saznajte benchmark podatke po industriji.',
+    slug: 'tiktok-ads-statistika-roi-konverzija-benchmark-2026',
+    title: 'TikTok Ads statistika 2026: ROI, konverzije, CPM i engagement benchmark podaci',
+    excerpt: 'TikTok konvertuje 45.5% korisnika u kupce. Prosecan engagement 4.90%, TikTok Shop konverzija do 12%. Pogledajte benchmark podatke za 2026. godinu.',
     date: '2026-03-26',
     category: 'Marketing',
     readTime: '8 min',
     content: \`
-## M-commerce: dominacija pametnih telefona
+## Platforma koja je redefinisala oglasavanje
 
-Kada ste poslednji put kupili nesto preko racunara? Ako ste kao vecina, verovatno je to bilo pre vise nedelja. Mobilni telefoni vise nisu "drugi ekran". Oni su prvi, glavni, a cesto i jedini ekran koji kupci koriste.
+Ako jos uvek mislite da je TikTok "aplikacija za decu koja plesu", vasa konkurencija vam upravo preuzima kupce. Sa **1.9 milijardi** aktivnih korisnika mesecno u 2026. godini, TikTok je postao gigant e-commerce i digitalnog oglasavanja.
 
-Mobilna trgovina (m-commerce) ocekuje se da dostigne vrednost od **2.4 triliona dolara** u 2026. godini. Mobilni telefoni sada cine oko **60% celokupne globalne e-commerce prodaje**. 
+Podaci pokazuju jasnu promenu: TikTok vise nije samo platforma za svest o brendu (brand awareness). To je sada "bottom of the funnel" masina za direktnu prodaju.
 
-Ovo nije buducnost. Ovo je sadasnjost, a brojke pokazuju koliko brzo se menja ponasanje potrosaca.
+Evo konkretnih benchmark podataka koji ce vam pomoci da isplanirate vas [digitalni marketing](/digitalni-marketing) budzet za 2026.
 
-## Saobracaj vs Konverzija: mobilni paradoks
+## Demografija: kupovna moc na TikToku
 
-Evo najveceg izazova u m-commerce-u: mobilni telefoni donose najvise saobracaja, ali desktop racunari i dalje (cesto) donose vise novca po poseti.
+Mit o tome da su na TikToku samo tinejdzeri je davno srusen:
 
-- **Udeo u saobracaju:** Mobilni uredjaji generisu **75% do 78% celokupnog e-commerce saobracaja** globalno.
-- **Konverzija:** U 2026. godini, prosecna stopa konverzije na mobilnim uredjajima je porasla na **2.8%**, izjednacavajuci se sa desktop konverzijama u nekim industrijama. (Istorijski prosek je godinama bio oko 1.8%).
+- **25-34 godine:** 35.3% korisnika (najveca demografska grupa)
+- **35-44 godine:** belezi najveci rast od cak **34%** u odnosu na proslu godinu
+- **18-34 godine:** cini 78% celokupne aktivne baze korisnika
 
-Ovo izjednacavanje konverzija je ogroman napredak. Razlozi za to su bolji mobilni UX (User Experience), brzi sajtovi ([Core Web Vitals](/blog/core-web-vitals-page-speed-konverzija-bounce-rate-seo-statistika-2026)), i sveprisutnost mobilnih novcanika poput Apple Pay-a i Google Pay-a koji omogucavaju "one-click" kupovinu.
+Polna struktura je skoro izjednacena, sa 54.5% muskaraca i 45.5% zena globalno. Korisnici provode neverovatnih **95 minuta dnevno** na aplikaciji. To je vise od sat i po vremena svakog dana gde algoritmi analiziraju njihova interesovanja sa laserskom preciznoscu.
 
-### Konverzije po industriji (mobilni web)
+Za detaljno poredjenje korisnika na razlicitim platformama, procitajte nas vodic o [drustvenim mrezama u brojevima](/blog/drustvene-mreze-statistika-korisnici-engagement-vreme-ad-spend-2026).
 
-Nisu sve industrije jednake kada je rec o mobilnoj kupovini:
+## Engagement (Angazovanost): Zasto TikTok dominira
 
-- **Hrana i pice:** 6.11% (ljudi narucuju u hodu)
-- **Moda i odeca:** stabilnih 2.5% - 3.5%
-- **Luksuzna roba:** 1.19% (kupci skupe robe vise vole veliki ekran za detaljno razgledanje)
+Algoritam TikToka (For You Page) se fundamentalno razlikuje od Instagrama ili Facebooka. On ne prikazuje sadrzaj na osnovu toga koga pratite, vec na osnovu onoga sto vas zadrzava da gledate. To omogucava nerealne stope angazovanosti.
 
-Zanimljiv podatak: **shopping aplikacije** konvertuju znatno bolje od mobilnog web-a. Prosecna konverzija u nativnim aplikacijama je **3.5%**, naspram 2% na webu. Aplikacije nude brzinu, push notifikacije i personalizaciju.
+- **Prosecan engagement rate:** 4.90% (vise od bilo koje druge velike platforme)
+- **Nalozi ispod 10k pratilaca (Nano-influenseri):** 4.7% do cak 10.3% engagement rate
 
-## Troskovi i ROI mobilnog marketinga
+Ono sto je najvaznije za brendove: **"Lo-fi" sadrzaj pobedjuje.** Videi snimljeni telefonom, koji izgledaju autenticno (User-Generated Content - UGC), generisu daleko vise komentara i interakcija od visokobudzetnih, ispoliranih reklama. 
 
-Mobilni marketing sada privlaci **70% ukupnih budzeta za oglasavanje**. Zasto? Jer tamo su oci korisnika.
+Detalje o uticaju kreatora mozete pronaci u nasem tekstu o [influencer marketing statistici](/blog/influencer-marketing-statistika-roi-mikro-influenseri-ugc-2026).
 
-Kada gledamo Return on Ad Spend (ROAS) na mobilnim kampanjama za 2025-2026, brojke su sledece (medijana):
-- **Google Ads:** 3.31x
-- **Meta (Facebook/Instagram):** 2.19x
-- **TikTok:** 1.41x
+## ROI i Konverzije: Masina za e-commerce
 
-Dok TikTok moze imati [najveci reach i engagement](/blog/drustvene-mreze-statistika-korisnici-engagement-vreme-ad-spend-2026), Google Ads ostaje sampion direktne konverzije zbog visoke namere kupca.
+Ovo je deo koji najvise zanima vlasnike firmi. Koliko TikTok zaista prodaje?
 
-Posebno se izdvaja **SMS marketing** sa zapanjujucim brojkama:
-- **Open rate:** priblizno 98%
-- **Click-through rate (CTR):** 19% do 36%
-- **ROI:** Procenjuje se na neverovatnih $71 za svaki ulozen dolar. SMS kampanje za napustenu korpu su jedan od najefikasnijih alata za e-commerce.
+- **45.5% korisnika** u SAD-u ce napraviti kupovinu preko platforme u 2026. To je najvisi procenat medju svim drustvenim mrezama.
+- Zapanjujucih **39% SVIH kupovina** na internetu je na neki nacin pod uticajem TikTok sadrzaja.
+- TikTok oglasi generisu **1.8x visu nameru za kupovinu** od TV oglasa i 1.4x visu od drugih drustvenih mreza.
+- **92% korisnika** preduzima akciju (lajk, komentar, share, KUPNJA) nakon gledanja videa.
 
-## Sta ovo znaci za vas biznis u Srbiji?
+### TikTok Shop menja pravila igre
 
-### 1. Optimizacija za mobilne vise nije dovoljna – potreban je "Mobile-First" dizajn
+Uvodjenjem TikTok Shop-a, korisnici kupuju bez napustanja aplikacije, sto je rezultiralo neverovatnim stopama konverzije:
 
-Ako vas sajt "radi" na mobilnom, ali zahteva zumiranje, popunjavanje dugih formi ili se sporo ucitava, gubite novac svake sekunde. Dizajnirajte za telefon, a desktop neka bude adaptacija. Elementi moraju biti krupni, dugmici prilagodjeni palcu, a navigacija intuitivna.
+- Prosecna TikTok Shop konverzija: **3.4%**
+- Affiliate sadrzaj: **3-6%**
+- TikTok LIVE prodaja: neverovatnih **5% do 12% konverzije**
 
-### 2. Sredite proces placanja (Checkout)
+Za poredjenje standardnih e-commerce konverzija, pogledajte nas tekst o [mobilnom marketingu i m-commerce-u](/blog/mobilni-marketing-i-m-commerce-statistika-2026).
 
-Razlog broj jedan za napustenu korpu na mobilnom telefonu je "previse koraka u checkoutu". Implementirajte brza resenja za placanje, sacuvane podatke, i smanjite broj obaveznih polja na minimum.
+## Cene oglasavanja (CPM i CPC Benchmark)
 
-### 3. Vreme provedeno na aplikacijama vs browser
+S obzirom na globalni ad revenue koji se blizi cifri od **34.8 milijardi dolara**, oglasavanje na TikToku poskupljuje, ali je i dalje isplativije od tradicionalnih platformi za odredjene nise.
 
-Od ukupnog vremena provedenog na telefonu, neverovatnih **92% se provodi u aplikacijama** (najvise drustvenim mrezama). To znaci da vase Facebook, Instagram i TikTok kampanje direktno hvataju korisnike u njihovom prirodnom "mobilnom habitatu".
+- **CPM (Cena za 1.000 prikaza):** U proseku varira oko $3.21, s tim da u SAD-u i UK-u moze dostici i $9.16. I dalje povoljnije od [LinkedIn Ads](/blog/b2b-marketing-statistika-lead-generation-prodajni-ciklus-linkedin-2026).
+- **CPC (Cena po kliku):** Generalni prosek je oko $0.22, sa rasponom do $1.00 u zavisnosti od trzista i industrije.
+- **Video View kampanje:** CPC moze biti veci (oko $6.08), jer ciljate korisnike koji ce odgledati video do kraja.
 
-Zelite li da iskoristite prednosti m-commerce trenda i optimizujete vas sajt za bolje mobilne konverzije? Pogledajte nase usluge za [CRO optimizaciju](/cro) i [SEO](/seo-optimizacija-cena) ili nas [kontaktirajte](/kontakt) za besplatnu analizu.
+Iako su CPC i CPM relativno niski, prava vrednost TikToka lezi u tome sto organski (besplatan) doseg cesto moze da prevazidje placene kampanje, ukoliko je sadrzaj kreiran u formatu koji platforma favorizuje (autenticnost, trendovi, kratak format). Vise o tome procitajte u nasem clanku o [video marketing statistici](/blog/video-marketing-statistika-roi-kratki-video-youtube-tiktok-reels-2026).
+
+## Kako optimizovati TikTok strategiju za 2026?
+
+1. **UGC je kralj:** Nemojte praviti reklame, pravite TikTokove. Angazujte stvarne korisnike vaseg proizvoda (mikro-influensere) da ga koriste u svakodnevnom zivotu.
+2. **Prvih 3 sekunde su sve:** Morate zaustaviti palac ("hook"). Ako korisnik ne oseti vrednost ili zabavu odmah, prelazi na sledeci video.
+3. **Povezani zvuk i muzika:** Zvuk nije opcija na TikToku, on je osnova. Koristite popularne (trending) audio zapise, ali osigurajte da imate prava za koriscenje u komercijalne svrhe (Commercial Music Library).
+4. **Iskoristite TikTok Shop i affiliate:** Ukoliko e-commerce platforma to omogucava u vasoj zemlji, integrisite katalog direktno u videe.
+5. **Budite strpljivi sa algoritmom:** Algoritmu je potrebno od 50 do 100 konverzija da bi "naucio" ko su vasi idealni kupci za TikTok Ads.
+
+Zelite li da vas brend dominira na TikToku i generise realne prihode, a ne samo preglede? [Kontaktirajte Platinum Zenith tim](/kontakt) za besplatnu analizu i strategiju prilagodjenu vasem trzistu.
 \`,
     schema: {
       "@context": "https://schema.org",
       "@type": "Article",
-      "headline": "Mobilni marketing u 2026: 60% trzista, konverzije od 2.8% i ROI mobilnih aplikacija",
+      "headline": "TikTok Ads statistika 2026: ROI, konverzije, CPM i engagement benchmark podaci",
       "datePublished": "2026-03-26",
       "author": { "@type": "Organization", "name": "Platinum Zenith" },
       "publisher": { "@type": "Organization", "name": "Platinum Zenith", "url": "https://platinumzenith.com" },
-      "description": "Mobilna trgovina (m-commerce) dostize 2.4 triliona dolara u 2026. Telefon donosi 75% saobracaja, ali konverzije variraju. Saznajte benchmark podatke po industriji.",
-      "mainEntityOfPage": "https://platinumzenith.com/blog/mobilni-marketing-i-m-commerce-statistika-2026"
+      "description": "TikTok konvertuje 45.5% korisnika u kupce. Prosecan engagement 4.90%, TikTok Shop konverzija do 12%. Pogledajte benchmark podatke za 2026. godinu.",
+      "mainEntityOfPage": "https://platinumzenith.com/blog/tiktok-ads-statistika-roi-konverzija-benchmark-2026"
     }
   },
 `
