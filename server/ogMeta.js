@@ -1471,7 +1471,18 @@ const ogMeta = {
     title: 'Marketing za Privatne Skole, Kurseve i Autoskole u Srbiji | Platinum Zenith',
     description: 'Marketing za obrazovne institucije u Srbiji: Google Ads, lokalni SEO, Instagram kampanje i sajt koji pune upisne liste privatnih skola, jezickih skola i autoskola.',
   },
-    '/marketing-za-salone-namestaja': {
+    '/marketing-za-transport-i-logistiku': {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Marketing za transport i logistiku',
+    serviceType: 'Logistics and transport marketing',
+    url: `${SITE_URL}/marketing-za-transport-i-logistiku`,
+    areaServed: { '@type': 'Country', name: 'Srbija' },
+    provider: { '@type': 'Organization', name: 'Platinum Zenith', url: SITE_URL },
+    title: 'Marketing za Transport i Logistiku | Platinum Zenith',
+    description: 'Povećajte B2B upite i smanjite prazne ture kroz SEO, LinkedIn Lead Generation i Google Ads kampanje za transportne firme i špedicije.',
+  },
+  '/marketing-za-salone-namestaja': {
     title: 'Marketing za Salone Nameštaja | Platinum Zenith',
     description: 'Povećajte foot traffic u salonu i e-commerce prodaju. Google Ads, Meta retargeting i SEO optimizacija za salone nameštaja.',
   },

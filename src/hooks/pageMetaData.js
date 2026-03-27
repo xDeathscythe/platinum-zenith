@@ -142,6 +142,14 @@ export const pageMeta = {
     og: { title: 'Marketing za Privatne Skole, Kurseve i Autoskole u Srbiji | Platinum Zenith', description: 'Marketing za obrazovne institucije u Srbiji: Google Ads, lokalni SEO, Instagram kampanje i sajt koji pune upisne liste privatnih skola, jezickih skola i autoskola.' },
     twitter: { title: 'Marketing za Privatne Skole, Kurseve i Autoskole u Srbiji | Platinum Zenith', description: 'Marketing za obrazovne institucije u Srbiji: Google Ads, lokalni SEO, Instagram kampanje i sajt koji pune upisne liste privatnih skola, jezickih skola i autoskola.' },
   },
+  '/marketing-za-transport-i-logistiku': {
+    robots: 'index, follow',
+    title: 'Marketing za Transport i Logistiku | Platinum Zenith',
+    description: 'Povećajte B2B upite i smanjite prazne ture kroz SEO, LinkedIn Lead Generation i Google Ads kampanje za transportne firme i špedicije.',
+    keywords: 'marketing za transport, marketing za logistiku, marketing za spediciju, b2b marketing transport, seo za transport, google ads transport',
+    og: { title: 'Marketing za Transport i Logistiku | Platinum Zenith', description: 'Povećajte B2B upite i smanjite prazne ture kroz SEO, LinkedIn Lead Generation i Google Ads kampanje za transportne firme i špedicije.' },
+    twitter: { title: 'Marketing za Transport i Logistiku | Platinum Zenith', description: 'Povećajte B2B upite i smanjite prazne ture kroz SEO, LinkedIn Lead Generation i Google Ads kampanje za transportne firme i špedicije.' },
+  },
   '/marketing-za-salone-namestaja': {
     robots: 'index, follow',
     title: 'Marketing za Salone Nameštaja | Platinum Zenith',
