@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-27T08:03:35.239Z",
+  "generatedAt": "2026-03-28T08:57:26.005Z",
   "routesChecked": 72,
   "issueCount": 0,
   "checked": [
@@ -1642,9 +1642,9 @@
       }
     },
     {
-      "route": "/marketing-za-turisticke-agencije",
-      "component": "MarketingZaTuristickeAgencijePage",
-      "file": "src\\pages\\MarketingZaTuristickeAgencijePage.jsx",
+      "route": "/marketing-za-transport-i-logistiku",
+      "component": "MarketingZaTransportILogistikuPage",
+      "file": "src\\pages\\MarketingZaTransportILogistikuPage.jsx",
       "sequence": [
         1,
         2,
@@ -1663,9 +1663,9 @@
       }
     },
     {
-      "route": "/marketing-za-zanatlije",
-      "component": "MarketingZaZanatlijePage",
-      "file": "src\\pages\\MarketingZaZanatlijePage.jsx",
+      "route": "/marketing-za-turisticke-agencije",
+      "component": "MarketingZaTuristickeAgencijePage",
+      "file": "src\\pages\\MarketingZaTuristickeAgencijePage.jsx",
       "sequence": [
         1,
         2,

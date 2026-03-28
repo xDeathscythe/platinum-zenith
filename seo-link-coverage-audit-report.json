@@ -1,15 +1,16 @@
 {
-  "generatedAt": "2026-03-27T08:03:35.739Z",
-  "routesChecked": 342,
-  "linksScanned": 4260,
+  "generatedAt": "2026-03-28T08:57:26.493Z",
+  "routesChecked": 343,
+  "linksScanned": 4263,
   "issueCount": 0,
-  "warningCount": 5,
+  "warningCount": 6,
   "issues": [],
   "warnings": [
     "/marketing-za-obrazovanje: no inbound internal links detected",
     "/marketing-za-gradjevinske-firme: no inbound internal links detected",
     "/marketing-za-zanatlije: no inbound internal links detected",
     "/marketing-za-salone-namestaja: no inbound internal links detected",
+    "/marketing-za-transport-i-logistiku: no inbound internal links detected",
     "/marketing-za-turisticke-agencije: no inbound internal links detected"
   ]
 }

@@ -1,4 +1,4 @@
-import { useState, useEffect, lazy, Suspense } from 'react'
+﻿import { useState, useEffect, lazy, Suspense } from 'react'
 import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom'
 import Navbar from './components/Navbar'
 import usePageMeta from './hooks/usePageMeta'
@@ -81,11 +81,12 @@ const MarketingZaHoteleISmestajPage = lazy(() => import('./pages/MarketingZaHote
 const MarketingZaObrazovanjePage = lazy(() => import('./pages/MarketingZaObrazovanjePage'))
 const MarketingZaKaficeIBarovePage = lazy(() => import('./pages/MarketingZaKaficeIBarovePage'))
 const MarketingZaGradjevinskeFirmePage = lazy(() => import('./pages/MarketingZaGradjevinskeFirmePage'))
-const MarketingZaZanatlijePage = lazy(() => import('./pages/MarketingZaZanatlijePage'))
+
 const MarketingZaSaloneNamestajaPage = lazy(() => import('./pages/MarketingZaSaloneNamestajaPage'))
+const MarketingZaZanatlijePage = lazy(() => import('./pages/MarketingZaZanatlijePage'))
 const MarketingZaTransportILogistikuPage = lazy(() => import('./pages/MarketingZaTransportILogistikuPage'))
 const MarketingZaTuristickeAgencijePage = lazy(() => import('./pages/MarketingZaTuristickeAgencijePage'))
-const MarketingZaZanatlijePage = lazy(() => import('./pages/MarketingZaZanatlijePage'))
+
 
 // Admin pages
 const LoginPage = lazy(() => import('./pages/admin/LoginPage'))
@@ -215,7 +216,7 @@ function PublicLayout() {
             <Route path="/marketing-za-zanatlije" element={<MarketingZaZanatlijePage />} />
             <Route path="/marketing-za-salone-namestaja" element={<MarketingZaSaloneNamestajaPage />} />
             <Route path="/marketing-za-transport-i-logistiku" element={<MarketingZaTransportILogistikuPage />} />
-            <Route path="/marketing-za-turisticke-agencije" element={<MarketingZaTuristickeAgencijePage />} />`n            <Route path="/marketing-za-zanatlije" element={<MarketingZaZanatlijePage />} />
+            <Route path="/marketing-za-turisticke-agencije" element={<MarketingZaTuristickeAgencijePage />} />
             <Route path="/draft/:slug" element={<BlogPostPage />} />
             <Route path="*" element={<NotFoundPage />} />
           </Routes>
