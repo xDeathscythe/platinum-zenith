@@ -2600,7 +2600,9 @@ export const pageSchemas = {
           { "@id": `${SITE_URL}/instagram-reklame-cena#budget-tiers` },
           { "@id": `${SITE_URL}/instagram-reklame-cena#management-models` },
           { "@id": `${SITE_URL}/instagram-reklame-cena#pricing-models` },
+          { "@id": `${SITE_URL}/instagram-reklame-cena#cost-breakdown` },
           { "@id": `${SITE_URL}/instagram-reklame-cena#market-benchmarks` },
+          { "@id": `${SITE_URL}/instagram-reklame-cena#industry-benchmarks` },
           { "@id": `${SITE_URL}/instagram-reklame-cena#placement-benchmarks` },
           { "@id": `${SITE_URL}/instagram-reklame-cena#split-scenarios` },
           { "@id": `${SITE_URL}/instagram-reklame-cena#cost-mistakes` },
@@ -2663,7 +2665,9 @@ export const pageSchemas = {
         ],
         "subjectOf": [
           { "@id": `${SITE_URL}/instagram-reklame-cena#howto` },
+          { "@id": `${SITE_URL}/instagram-reklame-cena#cost-breakdown` },
           { "@id": `${SITE_URL}/instagram-reklame-cena#market-benchmarks` },
+          { "@id": `${SITE_URL}/instagram-reklame-cena#industry-benchmarks` },
           { "@id": `${SITE_URL}/instagram-reklame-cena#placement-benchmarks` },
           { "@id": `${SITE_URL}/instagram-reklame-cena#split-scenarios` },
           { "@id": `${SITE_URL}/instagram-reklame-cena#cost-mistakes` }
@@ -2762,6 +2766,50 @@ export const pageSchemas = {
       },
       {
         "@type": "ItemList",
+        "@id": `${SITE_URL}/instagram-reklame-cena#cost-breakdown`,
+        "name": "Šta ulazi u ukupan trošak Instagram reklama",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "Thing",
+              "name": "Budžet za prikaz i klik (Meta)",
+              "description": "Trošak koji ide direktno Meta platformi za prikazivanje oglasa na Instagramu."
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Thing",
+              "name": "Upravljanje kampanjama",
+              "description": "Planiranje, postavka, optimizacija i izveštavanje kroz fiksnu naknadu ili procenat medijskog budžeta."
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "Thing",
+              "name": "Produkcija kreativa",
+              "description": "Trošak videa, UGC-a i statika koji direktno utiču na CTR, CPC i cenu po rezultatu."
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@type": "Thing",
+              "name": "Landing i konverzije",
+              "description": "Trošak landing stranice i konverzijskog trackinga bez kog nema pouzdane optimizacije."
+            }
+          }
+        ]
+      },
+      {
+        "@type": "ItemList",
         "@id": `${SITE_URL}/instagram-reklame-cena#market-benchmarks`,
         "name": "Instagram Ads benchmark metrike za Srbiju (2026)",
         "numberOfItems": 4,
@@ -2812,6 +2860,41 @@ export const pageSchemas = {
               "additionalProperty": [
                 { "@type": "PropertyValue", "name": "Raspon", "value": "2,5x - 9x" }
               ]
+            }
+          }
+        ]
+      },
+      {
+        "@type": "ItemList",
+        "@id": `${SITE_URL}/instagram-reklame-cena#industry-benchmarks`,
+        "name": "Instagram Ads benchmark po nišama u Srbiji",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "Thing",
+              "name": "E-commerce (fashion / beauty / lifestyle)",
+              "description": "CPC 0,10-0,45€, CPA 6-28€ i tipičan budžet 500-2.500€ mesečno."
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Thing",
+              "name": "Lokalne usluge (saloni, fitnes, ordinacije)",
+              "description": "CPC 0,06-0,30€, CPA 4-20€ i tipičan budžet 300-1.500€ mesečno."
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "Thing",
+              "name": "Premium usluge (B2B, konsultacije, high-ticket)",
+              "description": "CPC 0,25-0,95€, CPA 18-90€ i tipičan budžet 900-5.000€ mesečno."
             }
           }
         ]
