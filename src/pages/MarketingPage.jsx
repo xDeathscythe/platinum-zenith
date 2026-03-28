@@ -15,6 +15,7 @@ const relatedPosts = [
 const heroMktgDark = `${import.meta.env.BASE_URL}hero-mktg-dark.webp`
 const heroMktgLight = `${import.meta.env.BASE_URL}hero-mktg-light.webp`
 
+
 /* ─── Dashboard Mockup ─── */
 function DashboardMock() {
   const [activeChannel, setActiveChannel] = useState(0)
@@ -290,6 +291,149 @@ export default function MarketingPage() {
                 {i < 3 && <div className="h-px bg-edge-2 mt-6" />}
               </Reveal>
             ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ─── Industry Solutions Hub ─── */}
+      <section className="py-20 px-4 md:px-8">
+        <div className="max-w-[1100px] mx-auto">
+          <Reveal className="mb-12 max-w-[760px]">
+            <span className="text-[12px] uppercase tracking-[0.18em] text-ink-2 block mb-3">Marketing po industriji</span>
+            <h2 className="text-[30px] md:text-[42px] font-medium text-ink tracking-[-1px] leading-[1.15] mb-4">
+              Nisu isti leadovi za građevinu,<br className="hidden md:inline" /> proizvodnju, turizam i lokalne usluge
+            </h2>
+            <p className="text-[15px] md:text-[17px] text-ink-2 leading-[28px]">
+              Zato smo napravili posebne landing stranice za industrije gde se upit, prodajni ciklus, budžet i način odlučivanja značajno razlikuju. Ako želite primer koji je bliži vašem modelu prodaje, krenite od niše ispod.
+            </p>
+          </Reveal>
+
+          <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-3">
+            <Reveal delay={0}>
+              <Link to="/marketing-za-transport-i-logistiku" className="group block h-full rounded-[18px] border border-edge-2 bg-panel p-6 hover:bg-tint transition-colors">
+                <div className="flex items-start justify-between gap-4 mb-4">
+                  <h3 className="text-[18px] md:text-[20px] font-medium text-ink leading-[1.25] max-w-[280px]">Marketing za transport i logistiku</h3>
+                  <span className="inline-flex h-10 w-10 items-center justify-center rounded-full bg-tint text-ink-2 group-hover:text-ink transition-colors">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M7 17L17 7M9 7h8v8" /></svg>
+                  </span>
+                </div>
+                <p className="text-[14px] md:text-[15px] text-ink-2 leading-[25px] mb-5">
+                  Za firme kojima trebaju kvalitetni B2B upiti, manje praznih tura i jasniji funnel od LinkedIn-a do prodajnog poziva.
+                </p>
+                <span className="inline-flex items-center gap-2 text-[13px] font-medium text-ink">
+                  Otvorite industrijski landing
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M5 12h14M12 5l7 7-7 7" /></svg>
+                </span>
+              </Link>
+            </Reveal>
+
+            <Reveal delay={40}>
+              <Link to="/marketing-za-proizvodne-firme" className="group block h-full rounded-[18px] border border-edge-2 bg-panel p-6 hover:bg-tint transition-colors">
+                <div className="flex items-start justify-between gap-4 mb-4">
+                  <h3 className="text-[18px] md:text-[20px] font-medium text-ink leading-[1.25] max-w-[280px]">Marketing za proizvodne firme</h3>
+                  <span className="inline-flex h-10 w-10 items-center justify-center rounded-full bg-tint text-ink-2 group-hover:text-ink transition-colors">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M7 17L17 7M9 7h8v8" /></svg>
+                  </span>
+                </div>
+                <p className="text-[14px] md:text-[15px] text-ink-2 leading-[25px] mb-5">
+                  Za proizvodne pogone i industrijske dobavljače kojima trebaju upiti sa ozbiljnijim budžetom, tehnički tačan landing i duži prodajni ciklus.
+                </p>
+                <span className="inline-flex items-center gap-2 text-[13px] font-medium text-ink">
+                  Otvorite industrijski landing
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M5 12h14M12 5l7 7-7 7" /></svg>
+                </span>
+              </Link>
+            </Reveal>
+
+            <Reveal delay={80}>
+              <Link to="/marketing-za-turisticke-agencije" className="group block h-full rounded-[18px] border border-edge-2 bg-panel p-6 hover:bg-tint transition-colors">
+                <div className="flex items-start justify-between gap-4 mb-4">
+                  <h3 className="text-[18px] md:text-[20px] font-medium text-ink leading-[1.25] max-w-[280px]">Marketing za turističke agencije</h3>
+                  <span className="inline-flex h-10 w-10 items-center justify-center rounded-full bg-tint text-ink-2 group-hover:text-ink transition-colors">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M7 17L17 7M9 7h8v8" /></svg>
+                  </span>
+                </div>
+                <p className="text-[14px] md:text-[15px] text-ink-2 leading-[25px] mb-5">
+                  Za agencije koje moraju da prodaju aranžmane kroz sezonu, pune upite i remarketing ka ljudima koji su već gledali ponudu.
+                </p>
+                <span className="inline-flex items-center gap-2 text-[13px] font-medium text-ink">
+                  Otvorite industrijski landing
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M5 12h14M12 5l7 7-7 7" /></svg>
+                </span>
+              </Link>
+            </Reveal>
+
+            <Reveal delay={120}>
+              <Link to="/marketing-za-salone-namestaja" className="group block h-full rounded-[18px] border border-edge-2 bg-panel p-6 hover:bg-tint transition-colors">
+                <div className="flex items-start justify-between gap-4 mb-4">
+                  <h3 className="text-[18px] md:text-[20px] font-medium text-ink leading-[1.25] max-w-[280px]">Marketing za salone nameštaja</h3>
+                  <span className="inline-flex h-10 w-10 items-center justify-center rounded-full bg-tint text-ink-2 group-hover:text-ink transition-colors">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M7 17L17 7M9 7h8v8" /></svg>
+                  </span>
+                </div>
+                <p className="text-[14px] md:text-[15px] text-ink-2 leading-[25px] mb-5">
+                  Za salone i proizvođače nameštaja kojima trebaju showroom posete, upiti za izradu po meri i bolji odnos između oglasa i prodajnog tima.
+                </p>
+                <span className="inline-flex items-center gap-2 text-[13px] font-medium text-ink">
+                  Otvorite industrijski landing
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M5 12h14M12 5l7 7-7 7" /></svg>
+                </span>
+              </Link>
+            </Reveal>
+
+            <Reveal delay={160}>
+              <Link to="/marketing-za-gradjevinske-firme" className="group block h-full rounded-[18px] border border-edge-2 bg-panel p-6 hover:bg-tint transition-colors">
+                <div className="flex items-start justify-between gap-4 mb-4">
+                  <h3 className="text-[18px] md:text-[20px] font-medium text-ink leading-[1.25] max-w-[280px]">Marketing za građevinske firme</h3>
+                  <span className="inline-flex h-10 w-10 items-center justify-center rounded-full bg-tint text-ink-2 group-hover:text-ink transition-colors">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M7 17L17 7M9 7h8v8" /></svg>
+                  </span>
+                </div>
+                <p className="text-[14px] md:text-[15px] text-ink-2 leading-[25px] mb-5">
+                  Za izvođače i građevinske firme kojima treba više ozbiljnih ponuda, manje neozbiljnih leadova i jasniji proof na landing stranici.
+                </p>
+                <span className="inline-flex items-center gap-2 text-[13px] font-medium text-ink">
+                  Otvorite industrijski landing
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M5 12h14M12 5l7 7-7 7" /></svg>
+                </span>
+              </Link>
+            </Reveal>
+
+            <Reveal delay={200}>
+              <Link to="/marketing-za-zanatlije" className="group block h-full rounded-[18px] border border-edge-2 bg-panel p-6 hover:bg-tint transition-colors">
+                <div className="flex items-start justify-between gap-4 mb-4">
+                  <h3 className="text-[18px] md:text-[20px] font-medium text-ink leading-[1.25] max-w-[280px]">Marketing za zanatlije</h3>
+                  <span className="inline-flex h-10 w-10 items-center justify-center rounded-full bg-tint text-ink-2 group-hover:text-ink transition-colors">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M7 17L17 7M9 7h8v8" /></svg>
+                  </span>
+                </div>
+                <p className="text-[14px] md:text-[15px] text-ink-2 leading-[25px] mb-5">
+                  Za lokalne majstore kojima je presudno da ih kupac nađe brzo, razume šta rade i odmah ima jasan sledeći korak za poziv ili upit.
+                </p>
+                <span className="inline-flex items-center gap-2 text-[13px] font-medium text-ink">
+                  Otvorite industrijski landing
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M5 12h14M12 5l7 7-7 7" /></svg>
+                </span>
+              </Link>
+            </Reveal>
+
+            <Reveal delay={240}>
+              <Link to="/marketing-za-obrazovanje" className="group block h-full rounded-[18px] border border-edge-2 bg-panel p-6 hover:bg-tint transition-colors">
+                <div className="flex items-start justify-between gap-4 mb-4">
+                  <h3 className="text-[18px] md:text-[20px] font-medium text-ink leading-[1.25] max-w-[280px]">Marketing za obrazovanje</h3>
+                  <span className="inline-flex h-10 w-10 items-center justify-center rounded-full bg-tint text-ink-2 group-hover:text-ink transition-colors">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M7 17L17 7M9 7h8v8" /></svg>
+                  </span>
+                </div>
+                <p className="text-[14px] md:text-[15px] text-ink-2 leading-[25px] mb-5">
+                  Za škole, kurseve i edukativne programe koji žele više prijava, kvalitetnije roditeljske upite i stranicu koja gradi poverenje pre razgovora.
+                </p>
+                <span className="inline-flex items-center gap-2 text-[13px] font-medium text-ink">
+                  Otvorite industrijski landing
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M5 12h14M12 5l7 7-7 7" /></svg>
+                </span>
+              </Link>
+            </Reveal>
           </div>
         </div>
       </section>
