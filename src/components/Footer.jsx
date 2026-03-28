@@ -28,6 +28,10 @@ const routeMap = {
   'Marketing za nekretnine': '/marketing-za-nekretnine',
   'Marketing za građevinske firme': '/marketing-za-gradjevinske-firme',
   'Marketing za transport i logistiku': '/marketing-za-transport-i-logistiku',
+  'Marketing za turističke agencije': '/marketing-za-turisticke-agencije',
+  'Marketing za proizvodne firme': '/marketing-za-proizvodne-firme',
+  'Marketing za salone nameštaja': '/marketing-za-salone-namestaja',
+  'Marketing za zanatlije': '/marketing-za-zanatlije',
   'Marketing za frizerske salone': '/marketing-za-frizerske-salone',
   'Google Ads cena': '/google-reklame-cena',
   'Instagram reklame cena': '/instagram-reklame-cena',
@@ -38,7 +42,7 @@ const routeMap = {
 const columns = [
   [
     { title: 'Usluge', links: ['Digitalni Marketing', 'Web Design', 'CRO Optimizacija', 'Društvene Mreže', 'Poslovno Savetovanje'] },
-    { title: 'Industrije', links: ['E-Commerce', 'SaaS', 'Lokalni Biznisi', 'Startapovi', 'Marketing za restorane', 'Marketing za stomatologe', 'Marketing za advokate', 'Marketing za nekretnine', 'Marketing za građevinske firme', 'Marketing za transport i logistiku', 'Marketing za frizerske salone'] },
+    { title: 'Industrije', links: ['E-Commerce', 'SaaS', 'Lokalni Biznisi', 'Startapovi', 'Marketing za restorane', 'Marketing za stomatologe', 'Marketing za advokate', 'Marketing za nekretnine', 'Marketing za građevinske firme', 'Marketing za transport i logistiku', 'Marketing za turističke agencije', 'Marketing za proizvodne firme', 'Marketing za salone nameštaja', 'Marketing za zanatlije', 'Marketing za frizerske salone'] },
   ],
   [
     { title: 'Kompanija', links: ['O nama', 'Case Studies', 'Blog'] },
