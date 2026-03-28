@@ -1,5 +1,110 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'e-commerce-statistika-2026-napustena-korpa-konverzija',
+    title: 'E-commerce statistika 2026: stopa konverzije, napuštena korpa i prosečna vrednost porudžbine',
+    excerpt: 'Globalno tržište dostiže 6.88 triliona dolara. Saznajte benchmark podatke za 2026: prosečna konverzija (1.9%), napuštena korpa (70.2%) i AOV po industriji.',
+    date: '2026-03-28',
+    category: 'E-Commerce',
+    readTime: '10 min',
+    content: `
+## E-commerce tržište dostiže 6.88 triliona dolara
+
+Online prodaja nastavlja svoj nezaustavljiv rast. U 2026. godini, globalno B2C (Business-to-Consumer) e-commerce tržište projektovano je na neverovatnih **6.88 triliona dolara**, a preko 3 milijarde ljudi kupuje online svake godine.
+
+Još impresivniji podatak? **B2B e-commerce** (prodaja između firmi) vredi skoro pet puta više i dostiže neverovatnih **32.11 triliona dolara** u 2026.
+
+Iako celo tržište raste, borba za kupce nikada nije bila skuplja. Prosečan CAC (Customer Acquisition Cost) skočio je na oko **156 dolara**, zbog čega optimizacija trenutne prodavnice (CRO) i zadržavanje kupaca (LTV) postaju bitniji od pukog dovođenja novog saobraćaja.
+
+Hajde da pogledamo ključne benchmark podatke za e-commerce u 2026. godini.
+
+## Stopa napuštene korpe (Cart Abandonment Rate)
+
+Ovo je broj koji web prodavcima zadaje najviše glavobolje. Prosečna globalna stopa napuštene korpe u 2026. iznosi oko **70.2%**.
+
+Drugim rečima, od svakih 10 ljudi koji dodaju proizvod u vašu korpu, njih 7 nikada ne završi kupovinu. 
+
+Ako se bavite [izradom web sajta](/cene-izrade-sajta) za e-commerce, evo zbog čega korisnici najčešće odustaju:
+- **48%** napušta zbog skrivenih i iznenadnih troškova (poštarina, porezi, provizije). (Preko 90% odustaje ako je poštarina previsoka).
+- **18% - 26%** odustaje ako sajt zahteva obaveznu registraciju i otvaranje naloga.
+- **17% - 22%** odustaje ako je sam proces checkouta predugačak ili previše komplikovan.
+- **13%** odustaje ako ne mogu da pronađu svoj preferirani način plaćanja.
+- **57%** kupaca će potpuno napustiti stranicu ukoliko učitavanje traje duže od 3 sekunde. (Detalje pročitajte u analizi [brzine sajta i CWV](/blog/core-web-vitals-page-speed-konverzija-bounce-rate-seo-statistika-2026)).
+
+Stopa napuštene korpe jako varira u zavisnosti od uređaja koji korisnik koristi. Mobilni telefoni (80.2% - 85.6%) imaju znatno višu stopu napuštanja u poređenju sa desktop računarima (68% - 72%).
+
+### Prosečna napuštena korpa po industrijama:
+- Moda i obuća: 76%
+- Luksuzna roba: 78%
+- Nameštaj i oprema za kuću: 81%
+- Elektronika: 70%
+- Namirnice: 60%
+
+Zato su **Abandoned Cart Email** sekvence danas obavezan alat svakog trgovca. Pročitajte naš [vodič za ROI email marketinga](/blog/koliko-zapravo-zaradjuje-email-marketing-roi-po-industriji-2026) da vidite koliko se novca vraća kroz prosto podsećanje kupaca na napuštene artikle.
+
+## Stopa konverzije (Conversion Rate Benchmark)
+
+Koliko posetilaca kupi proizvod? U 2026. godini, prosečna stopa konverzije za web prodavnice kreće se oko **1.9% do 2.5%**. Vrhunski e-commerce biznisi ("top performers") redovno probijaju prag od 4.5% do 6%.
+
+Mobilne konverzije (1.2% - 1.8%) tradicionalno kaskaju za desktop konverzijama (2.6% - 3.9%), zbog nepoverenja pri ukucavanju kartice i nezgodnog ekrana. Zanimljivo je da nativne shopping mobilne aplikacije uveliko konvertuju preko 3.5%, što ukazuje da korisnici prosto žele sigurniji i brži UX za mobilno plaćanje.
+
+Više o ovome pročitajte u našem tekstu [Mobilni marketing i m-commerce u 2026](/blog/mobilni-marketing-i-m-commerce-statistika-2026).
+
+### Konverzije po industriji u 2026. godini:
+- **Hrana i piće:** oko 4.9% (Najveća konverzija jer se kupuje namenski).
+- **Kozmetika i lepota:** 3.7% do 6.8% (Industrija visoke lojalnosti kupaca).
+- **Moda i obuća:** 1.6% - 1.9% (Visoka konverzija otežana problemima sa određivanjem veličine i velikim procentom vraćene robe).
+- **Nameštaj i dekor:** 1.4% - 1.9% (Velike, promišljene odluke).
+- **Elektronika:** 1.3% (Duži ciklus istraživanja i komparacije cena).
+- **Luksuzna roba:** oko 1.1% - 1.2% (Vrtoglavi iznosi koji zahtevaju "nurturing" strategiju i konsultacije).
+
+Za bolje pozicioniranje stranica i višu konverziju ključan je dobar [lokalni i tehnički SEO](/seo-optimizacija-cena), ali i detaljna optimizacija konverzije korisničkog iskustva ([CRO](/cro)).
+
+## Prosečna vrednost porudžbine (AOV)
+
+Average Order Value (AOV) govori koliko novca kupac u proseku ostavi tokom jedne transakcije. Globalni AOV u e-commercu trenutno iznosi oko **$172 dolara**.
+
+Opet vidimo raskorak između uređaja:
+- **Desktop AOV:** oko $230
+- **Mobilni AOV:** oko $149
+
+Kupci na telefonu obavljaju više sitnih "impulsivnih" kupovina, dok kapitalnije stvari planiraju sa većeg ekrana gde mogu pažljivije proučiti recenzije, dimenzije i uslove plaćanja.
+
+### AOV po industrijama u 2026:
+- **Luksuz i nakit:** preko $349 (često doseže preko $400 u mesecima praznika).
+- **Nameštaj i enterijer:** oko $303.
+- **Roba široke potrošnje:** oko $280.
+- **Kozmetika i lepota:** $67 - $74.
+- **Oprema za kućne ljubimce i veterina:** $58 - $68.
+
+## Social Commerce (Prodaja preko društvenih mreža)
+
+Kupovina bez napuštanja društvenih mreža (Facebook, Instagram, TikTok Shop) više nije sporedan kanal. Ovaj segment dostiže vrednost od **2.9 triliona dolara** u 2026. Samo Instagram okuplja preko 1.4 milijardi ljudi koji svakodnevno koriste platformu za pronalaženje i kupovinu proizvoda.
+
+Najbrže rastući igrač je nesumnjivo TikTok, gde skoro polovina američkih korisnika (45.5%) obavi direktnu kupovinu pod uticajem videa. Ako vas zanima reklamiranje na ovom kanalu, pročitajte [statistiku i ROI za TikTok ads](/blog/tiktok-ads-statistika-roi-konverzija-benchmark-2026).
+
+## Zaključak: Zadržavanje je novo "dovođenje"
+
+Sa rastom cene digitalnog oglašavanja (Google i Meta Ads), prosečni trošak akvizicije kupca penje se na oko $156. Biznisi u e-commerce sektoru u 2026. godini ne smeju da gube novac na neoptimizovane funnele.
+
+Tri najprofitabilnija koraka koja vlasnik online prodavnice sada može uraditi su:
+1. Optimizacija "Checkout" forme i transparentno objavljivanje troškova poštarine.
+2. Smanjenje stope napuštenih korpi pomoću automatskih email i retargeting kampanja.
+3. Povećanje vrednosti korpe (AOV) tehnikama kao što su *Cross-sell* (često kupovani proizvodi) i uvođenje besplatne poštarine za porudžbine iznad određenog iznosa.
+
+Tražite stručan tim koji može podići performanse vaše prodavnice, [kontaktirajte nas danas](/kontakt) i proverite šta bismo optimizovali kod vas.
+`,
+    schema: {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "E-commerce statistika 2026: stopa konverzije, napuštena korpa i prosečna vrednost porudžbine",
+      "datePublished": "2026-03-28",
+      "author": { "@type": "Organization", "name": "Platinum Zenith" },
+      "publisher": { "@type": "Organization", "name": "Platinum Zenith", "url": "https://platinumzenith.com" },
+      "description": "Globalno tržište dostiže 6.88 triliona dolara. Saznajte benchmark podatke za 2026: prosečna konverzija (1.9%), napuštena korpa (70.2%) i AOV po industriji.",
+      "mainEntityOfPage": "https://platinumzenith.com/blog/e-commerce-statistika-2026-napustena-korpa-konverzija"
+    }
+  },
+  {
     slug: 'tiktok-ads-statistika-roi-konverzija-benchmark-2026',
     title: 'TikTok Ads statistika 2026: ROI, konverzije, CPM i engagement benchmark podaci',
     excerpt: 'TikTok konvertuje 45.5% korisnika u kupce. Prosecan engagement 4.90%, TikTok Shop konverzija do 12%. Pogledajte benchmark podatke za 2026. godinu.',
@@ -19507,6 +19612,16 @@ Pre odluke gledaj tri stvari:
 
 Ako zelis precizan opseg cene i rokova za tvoj funnel, javi se preko [kontakt forme](/kontakt) i dobices plan po prioritetima.
 `,
+    schema: {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "Izrada landing stranice: cena, rokovi i sta ulazi u cenu (Srbija 2026)",
+      "datePublished": "2026-03-11",
+      "author": { "@type": "Organization", "name": "Platinum Zenith" },
+      "publisher": { "@type": "Organization", "name": "Platinum Zenith", "url": "https://platinumzenith.com" },
+      "description": "Koliko realno kosta izrada landing stranice u Srbiji 2026, sta tacno ulazi u cenu i kako da procenis ponudu pre nego sto potrosis budzet na saobracaj.",
+      "mainEntityOfPage": "https://platinumzenith.com/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu"
+    }
   },
   {
     slug: 'copywriting-formule-koje-rade',
