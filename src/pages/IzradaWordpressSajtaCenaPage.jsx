@@ -581,28 +581,44 @@ export default function IzradaWordpressSajtaCenaPage() {
       </section>
 
       <section className="px-4 md:px-8 pb-16 md:pb-24">
-        <div className="max-w-[760px] mx-auto">
-          <h2 className="text-[22px] md:text-[26px] font-medium text-ink mb-6 text-center">Povezane stranice</h2>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-4">
-            <Link to="/cene-izrade-sajta" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
-              <div className="text-[14px] font-medium text-ink mb-1">Cene izrade sajta</div>
-              <div className="text-[12px] text-ink-3">Širi pregled po tipovima</div>
-            </Link>
-            <Link to="/instagram-reklame-cena" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
-              <div className="text-[14px] font-medium text-ink mb-1">Instagram reklame cena</div>
-              <div className="text-[12px] text-ink-3">Planiraj social budžet uz budžet sajta</div>
+        <div className="max-w-[980px] mx-auto">
+          <h2 className="text-[22px] md:text-[26px] font-medium text-ink mb-4 text-center">Povezane stranice i naredni koraci</h2>
+          <p className="text-[14px] md:text-[15px] text-ink-3 text-center max-w-[760px] mx-auto mb-8 leading-relaxed">
+            Sama izrada sajta je tek početak. Ako želite da WordPress projekat stvarno donosi upite, prodaju i stabilan rast,
+            obično se odmah otvaraju i pitanja SEO-a, održavanja, landing stranica i budžeta za akviziciju.
+          </p>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+            <Link to="/seo-optimizacija-cena" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">SEO optimizacija cena</div>
+              <div className="text-[12px] text-ink-3">Šta posle izrade sajta donosi organski saobraćaj</div>
             </Link>
             <Link to="/google-reklame-cena" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
               <div className="text-[14px] font-medium text-ink mb-1">Google reklame cena</div>
-              <div className="text-[12px] text-ink-3">Kako planirati budžet za akviziciju</div>
+              <div className="text-[12px] text-ink-3">Kako planirati budžet za upite odmah posle lansiranja</div>
             </Link>
-            <Link to="/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
-              <div className="text-[14px] font-medium text-ink mb-1">Cena landing stranice</div>
-              <div className="text-[12px] text-ink-3">Rokovi i šta realno ulazi u cenu</div>
+            <Link to="/instagram-reklame-cena" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Instagram reklame cena</div>
+              <div className="text-[12px] text-ink-3">Ako vam je vizuelni kanal važan za prodaju ili leadove</div>
             </Link>
             <Link to="/cene-digitalnog-marketinga" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
               <div className="text-[14px] font-medium text-ink mb-1">Cene digitalnog marketinga</div>
-              <div className="text-[12px] text-ink-3">Poveži cenu sajta i budžet za rast</div>
+              <div className="text-[12px] text-ink-3">Šira slika kada sajt povezujete sa rastom</div>
+            </Link>
+            <Link to="/cene-izrade-sajta" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Cene izrade sajta</div>
+              <div className="text-[12px] text-ink-3">Širi pregled po tipovima i obimu projekta</div>
+            </Link>
+            <Link to="/blog/odrzavanje-wordpress-sajta-cena-srbija-2026" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Održavanje WordPress sajta</div>
+              <div className="text-[12px] text-ink-3">Koliko realno koštaju update-i, backup i sigurnost</div>
+            </Link>
+            <Link to="/blog/woocommerce-sajt-cena-srbija-2026" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">WooCommerce sajt cena</div>
+              <div className="text-[12px] text-ink-3">Ako vam treba web shop, ne običan prezentacioni sajt</div>
+            </Link>
+            <Link to="/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Cena landing stranice</div>
+              <div className="text-[12px] text-ink-3">Kada vam treba stranica za kampanju, ne ceo sajt</div>
             </Link>
           </div>
         </div>
