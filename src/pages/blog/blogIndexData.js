@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "6-marketinskih-principa-koji-spustaju-cenu-leada-i-dizu-prodaju",
+    "title": "6 marketinških principa koji spuštaju cenu leada i dižu prodaju",
+    "excerpt": "Najbolji marketing ne počinje ponudom. Počinje sadržajem koji prodaje, dijagnozom pre poziva, obrađenim prigovorima i jasnim brojevima kao što su CAC i LTV.",
+    "date": "2026-03-28",
+    "category": "Marketing",
+    "readTime": "9 min",
+    "isDraft": false
+  },
+  {
     "slug": "e-commerce-statistika-2026-napustena-korpa-konverzija",
     "title": "E-commerce statistika 2026: stopa konverzije, napuštena korpa i prosečna vrednost porudžbine",
     "excerpt": "Globalno tržište dostiže 6.88 triliona dolara. Saznajte benchmark podatke za 2026: prosečna konverzija (1.9%), napuštena korpa (70.2%) i AOV po industriji.",

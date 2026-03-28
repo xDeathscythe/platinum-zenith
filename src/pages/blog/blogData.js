@@ -1,5 +1,194 @@
 ﻿const rawBlogPosts = [
   {
+    slug: '6-marketinskih-principa-koji-spustaju-cenu-leada-i-dizu-prodaju',
+    title: '6 marketinških principa koji spuštaju cenu leada i dižu prodaju',
+    excerpt: 'Najbolji marketing ne počinje ponudom. Počinje sadržajem koji prodaje, dijagnozom pre poziva, obrađenim prigovorima i jasnim brojevima kao što su CAC i LTV.',
+    date: '2026-03-28',
+    category: 'Marketing',
+    readTime: '9 min',
+    content: `
+## Većina firmi i dalje prodaje na najteži način
+
+Mnogo firmi i dalje radi istu stvar: pusti oglas, pošalji ljude na stranicu, traži da odmah pošalju upit ili zakažu poziv, pa se onda čude što je lead skup, što se prodaja vuče i što tim stalno mora da "pegla" loš marketing na pozivu.
+
+Problem obično nije u tome što tržište "ne reaguje". Problem je što je put do kupovine loše postavljen.
+
+Dobar marketing ne počinje od pitanja: "Kako da zatvorimo više ljudi na pozivu?" Dobar marketing počinje mnogo ranije. Počinje od sadržaja, pozicioniranja, dijagnoze i načina na koji potencijalni klijent razume sopstveni problem.
+
+U ovom tekstu ću sažeti šest principa koji prave ogromnu razliku kada firma želi više kvalitetnih upita, niži trošak akvizicije i lakšu prodaju.
+
+> Marketing treba da uradi težak deo posla pre nego što prodaja uopšte krene.
+
+## 1. Najbolji oglasi često već postoje u vašem organskom sadržaju
+
+Ako već objavljujete video sadržaj, podcaste, edukativne klipove ili duže objave, velika je šansa da su vam najbolji oglasi već snimljeni.
+
+Većina firmi organski sadržaj tretira kao jednu aktivnost, a paid kampanje kao sasvim drugu. To je greška.
+
+Pametniji potez je sledeći:
+- pogledate koji organski sadržaj je dobio najveći reach, zadržavanje pažnje, share-ove i komentare,
+- uzmete 2 do 3 najbolja komada,
+- ubacite nekoliko kratkih CTA momenata kroz sadržaj,
+- i pustite ih kao paid creative.
+
+Zašto ovo radi? Zato što je tržište već pokazalo da sadržaj drži pažnju. Nije teorija. Nije pretpostavka. Već imate signal da taj komad radi.
+
+Danas algoritam mnogo bolje razume kome treba prikazati poruku ako sama kreativa nosi dovoljno konteksta. Zato duži video ne mora da bude mana. U nekim slučajevima baš duži video postaje najbolji filter za ozbiljnog kupca.
+
+Ovo je posebno korisno ako radite [Google reklame](/google-reklame-cena), [Instagram kampanje](/instagram-reklame-cena) ili lead generation za skuplje usluge gde korisnik ne kupuje impulsivno.
+
+## 2. Ne prodajte samo ishod. Prodajte svoj način kako do njega dolazite
+
+Najveći broj firmi obećava isto:
+- više leadova,
+- više prodaje,
+- bolji sajt,
+- više rezervacija,
+- više klijenata.
+
+Ako svi obećavaju isti rezultat, kupac vrlo brzo krene da upoređuje samo cenu.
+
+Tu nastaje problem.
+
+Zato je mnogo pametnije da ne prodajete samo krajnji ishod, nego i **mehanizam** kojim do tog ishoda dolazite. Drugim rečima: zašto je vaš proces drugačiji od generičke usluge na tržištu?
+
+To može biti:
+- vaš framework za audit,
+- način na koji gradite landing stranicu,
+- metod za segmentaciju publike,
+- sistem za obradu leadova,
+- SOP kojim spajate kampanje, stranicu i prodaju.
+
+Ne mora da bude "revolucionarno". Mora da bude jasno, logično i imenovano.
+
+Kada proces dobije ime i strukturu, ponuda više ne zvuči kao roba. Tada prestajete da budete samo još jedna agencija, freelancer ili tim koji "radi isto što i svi ostali".
+
+Ako želite primer kako se ovo prevodi u konkretnu ponudu, pogledajte i tekst [Ponuda koju niko ne može da odbije](/blog/ponuda-koju-niko-ne-moze-da-odbije).
+
+## 3. Nemojte odmah tražiti poziv. Prvo uradite dijagnozu
+
+Jedan od najvećih razloga zašto su leadovi skupi jeste to što firma prerano traži veliki korak.
+
+"Zakažite poziv."
+"Tražite ponudu."
+"Ostavite broj."
+
+To zvuči normalno kad ga čitate iz ugla prodavca. Iz ugla kupca to je i dalje veliki zahtev.
+
+Mnogo bolji pristup je da pre tog koraka postoji dijagnoza. To može biti:
+- kviz,
+- kalkulator,
+- audit,
+- mini procena stanja,
+- formular koji vraća personalizovan zaključak.
+
+Poenta nije da forma bude duža. Poenta je da korisnik dobije osećaj da je nešto naučio o svojoj situaciji.
+
+Kada čovek kroz proces sam vidi gde mu curi novac, zašto mu je cena leada previsoka ili gde mu landing stranica gubi konverziju, sledeći korak više ne deluje kao pritisak. Deluje kao logičan nastavak.
+
+Zato interaktivni formati često rade bolje od generičnog "kontaktirajte nas" CTA-a. Lični podatak ima veću vrednost kad mu prethodi korisna dijagnoza.
+
+Za sličan princip pogledajte i naš tekst o tome [kako napraviti landing stranicu koja konvertuje](/blog/kako-napraviti-landing-stranicu-koja-konvertuje-srbija-2026).
+
+> Ljudi mnogo lakše prihvate rešenje kada prvo jasno vide sopstveni problem.
+
+## 4. Prigovori ne treba da se rešavaju tek na pozivu
+
+Svaka firma ima isti obrazac. Prodaja se stalno vrti oko nekoliko istih pitanja:
+- "Zašto je ovo skuplje od drugih?"
+- "Da li ovo radi za moj tip biznisa?"
+- "Zašto da krenemo baš sada?"
+- "Šta ako ne dobijemo rezultat?"
+- "Zašto da ne zaposlimo nekoga interno?"
+
+Ako se ista pitanja stalno pojavljuju na pozivima, to je marketinški signal. Ne prodajni.
+
+Drugim rečima: marketing još nije odradio svoj deo posla.
+
+Pametniji sistem izgleda ovako:
+1. Izvučete najčešće prigovore iz sales call transkripata, formi, komentara i mejlova.
+2. Grupšete ih po temama.
+3. Ugradite ih u oglase, landing stranicu, FAQ, case study sekcije i email follow-up.
+
+Kada se to uradi kako treba, prodajni razgovor prestaje da bude borba oko sumnji i postaje razgovor o sledećem koraku.
+
+Ovo je jedan od razloga zašto [landing stranica za Google Ads](/blog/landing-stranica-za-google-ads-cena-srbija-2026) ne sme da bude samo lep dizajn. Ona mora da preuzme deo posla koji bi inače radio sales tim.
+
+## 5. Ako poruka ne zadrži pažnju, ostatak funnel-a ne postoji
+
+Ljudi često vole da pričaju o offeru, cenama, bonusima, garancijama i close rate-u. Sve je to važno. Ali ništa od toga ne pomaže ako poruka ne bude konzumirana.
+
+Tu dolazimo do jedne proste istine: **konzumacija dolazi pre konverzije**.
+
+Ako želite više prodaje, prvo morate da dobijete više pažnje. A pažnja se ne dobija dosadnim, sterilnim copy-jem koji zvuči kao još jedna firma sa istim obećanjima.
+
+Zato showmanship nije površna stvar. To je deo performansa marketinga.
+
+To u praksi znači:
+- jači hook,
+- jasnija priča,
+- konkretniji kontrast,
+- više emocije i napetosti,
+- manje generičnih tvrdnji,
+- više stvarnih scena, posledica i momenata koji ostaju u glavi.
+
+Jedan od najjačih formata je i dalje founder story ili priča koja objašnjava kako je problem otkriven, šta nije radilo i šta je promenilo igru. Dobra priča ne zvuči kao reklama. Zvuči kao nešto što čovek želi da čuje do kraja.
+
+Ako želite da vam sadržaj zadrži pažnju, ne pišite ga kao brošuru. Pišite ga kao da pričate nešto vredno prepričavanja.
+
+## 6. Ako ne znate brojeve, ne znate koliko agresivno smete da rastete
+
+Mnoge firme i dalje razmišljaju ovako: "Naš marketinški budžet je 1.500 evra mesečno." Kraj priče.
+
+To nije dovoljno.
+
+Ako marketing radi, pravo pitanje nije samo koliko trošite. Pravo pitanje je koliko vraća, koliko brzo vraća i koliko sigurno možete da skalirate.
+
+Četiri broja su ovde presudna:
+- **CPL**: koliko vas košta kvalifikovan lead,
+- **CAC**: koliko vas košta novi klijent,
+- **LTV**: koliko vam taj klijent vredi kroz celu saradnju,
+- **Payback period**: za koliko vremena vraćate uloženi novac.
+
+Kada znate te brojeve, marketing prestaje da bude magla i postaje sistem.
+
+Na primer, ako vam je [cena akvizicije kupca](/blog/koliko-kosta-novi-klijent-cpa-po-industriji-google-facebook-2026) 200 evra, a klijent vam vredi 2.000 evra kroz 12 meseci, to je potpuno drugačija odluka od situacije u kojoj vam klijent vredi 350 evra jednokratno.
+
+Tu se odlučuje da li možete da ubrzate rast ili ćete napraviti cash-flow rupu.
+
+Za praktičan nastavak ove teme pogledajte i:
+- [Kako napraviti marketing budžet koji ima smisla](/blog/kako-napraviti-marketing-budzet-koji-ima-smisla)
+- [Kako meriti ROI marketinga](/blog/kako-meriti-roi-marketinga-kpi-vodic)
+- [Cena akvizicije kupca po industriji](/blog/cena-akvizicije-kupca-cac-po-industriji-benchmark-statistika-2026)
+
+## Šta povezuje svih šest principa
+
+Na papiru deluju kao odvojene taktike, ali suština je ista.
+
+Dobar marketing:
+- koristi sadržaj kao prodajno sredstvo,
+- ne ulazi u rat cenama bez potrebe,
+- radi dijagnozu pre ponude,
+- rešava sumnje pre prodaje,
+- zna da pažnja dolazi pre konverzije,
+- i meri ekonomiju akvizicije hladne glave.
+
+Kad se to spoji, dobijate sistem u kom marketing ne pravi buku nego donosi ozbiljnije razgovore, lakšu prodaju i zdraviji rast.
+
+Ako želite da vam pregledamo funnel, oglase, landing stranicu i ekonomiju akvizicije, javite se preko [kontakt forme](/kontakt). Pokazaćemo vam gde trenutno curi novac i šta ima najviše smisla da se sredi prvo.
+`,
+    schema: {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "6 marketinških principa koji spuštaju cenu leada i dižu prodaju",
+      "datePublished": "2026-03-28",
+      "author": { "@type": "Organization", "name": "Platinum Zenith" },
+      "publisher": { "@type": "Organization", "name": "Platinum Zenith", "url": "https://platinumzenith.com" },
+      "description": "Najbolji marketing ne počinje ponudom. Počinje sadržajem koji prodaje, dijagnozom pre poziva, obrađenim prigovorima i jasnim brojevima kao što su CAC i LTV.",
+      "mainEntityOfPage": "https://platinumzenith.com/blog/6-marketinskih-principa-koji-spustaju-cenu-leada-i-dizu-prodaju"
+    }
+  },
+  {
     slug: 'e-commerce-statistika-2026-napustena-korpa-konverzija',
     title: 'E-commerce statistika 2026: stopa konverzije, napuštena korpa i prosečna vrednost porudžbine',
     excerpt: 'Globalno tržište dostiže 6.88 triliona dolara. Saznajte benchmark podatke za 2026: prosečna konverzija (1.9%), napuštena korpa (70.2%) i AOV po industriji.',
