@@ -16,9 +16,9 @@ export const pageMeta = {
     keywords: 'web dizajn, izrada sajta, web development, WordPress, React, responsive dizajn, sajt koji prodaje',
   },
   '/digitalni-marketing': {
-    title: 'Digitalni Marketing | Zenith Sistem | Platinum Zenith',
-    description: 'Meta Ads, Google Ads i TikTok Ads kampanje sa jasnim KPI-jevima, optimizacijom budžeta i sistemom koji donosi predvidljivu akviziciju klijenata.',
-    keywords: 'digitalni marketing, Meta Ads, Google Ads, TikTok Ads, ROAS, PPC, online oglašavanje',
+    title: 'Digitalni Marketing u Srbiji | Google, Meta i SEO | Platinum Zenith',
+    description: 'Digitalni marketing u Srbiji za rast upita i prodaje: Google Ads, Meta Ads, SEO, landing stranice i funnel optimizacija prilagođena vašoj industriji.',
+    keywords: 'digitalni marketing, google ads, meta ads, seo, landing stranice, funnel optimizacija, online oglašavanje, marketing srbija',
   },
   '/consulting': {
     title: 'Poslovno Savetovanje | Platinum Zenith',

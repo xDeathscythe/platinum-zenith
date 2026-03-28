@@ -1173,8 +1173,8 @@ const ogMeta = {
     description: 'Sajtovi koji pretvaraju posetioce u klijente uz mobile-first UX, PageSpeed 95+ i strukturu koja podiže upite, prodaju i dugoročnu SEO vidljivost.',
   },
   '/digitalni-marketing': {
-    title: 'Digitalni Marketing | Zenith Sistem | Platinum Zenith',
-    description: 'Meta Ads, Google Ads i TikTok Ads kampanje sa jasnim KPI-jevima, optimizacijom budžeta i sistemom koji donosi predvidljivu akviziciju klijenata.',
+    title: 'Digitalni Marketing u Srbiji | Google, Meta i SEO | Platinum Zenith',
+    description: 'Digitalni marketing u Srbiji za rast upita i prodaje: Google Ads, Meta Ads, SEO, landing stranice i funnel optimizacija prilagođena vašoj industriji.',
   },
   '/consulting': {
     title: 'Poslovno Savetovanje | Platinum Zenith',
