@@ -256,7 +256,64 @@ export const websiteSchema = {
 
 export const pageSchemas = {
   '/web-design': { "@context": "https://schema.org", "@type": "Service", "name": "Web Design & Izrada Sajta", "description": "Izrada sajtova sa fokusom na brzinu, UX i konverzije: od strukture stranica do tehničke SEO optimizacije.", "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL }, "serviceType": "Web Design", "areaServed": { "@type": "Country", "name": "Srbija" }, "hasOfferCatalog": { "@type": "OfferCatalog", "name": "Web design usluge", "itemListElement": [ { "@type": "Offer", "name": "Prezentacioni sajt", "description": "Brz i SEO-pripremljen sajt za usluge" }, { "@type": "Offer", "name": "Poslovni sajt", "description": "Struktura za upite, lead forme i tracking" }, { "@type": "Offer", "name": "Web shop", "description": "E-commerce sa optimizovanim checkout tokom" } ] } },
-  '/digitalni-marketing': { "@context": "https://schema.org", "@type": "Service", "name": "Digitalni Marketing", "description": "Digitalni marketing kroz Meta, Google i TikTok kampanje sa jasnim KPI ciljevima, optimizacijom budžeta i planom skaliranja.", "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL }, "serviceType": "Digital Marketing", "areaServed": { "@type": "Country", "name": "Srbija" }, "hasOfferCatalog": { "@type": "OfferCatalog", "name": "Digital marketing usluge", "itemListElement": [ { "@type": "Offer", "name": "Meta Ads", "description": "Akvizicija i retargeting kroz Facebook i Instagram" }, { "@type": "Offer", "name": "Google Ads", "description": "Search, Display i Performance Max kampanje" }, { "@type": "Offer", "name": "TikTok Ads", "description": "Kampanje za awareness i performance" } ] } },
+  '/digitalni-marketing': {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": `${SITE_URL}/digitalni-marketing#webpage`,
+        "url": `${SITE_URL}/digitalni-marketing`,
+        "name": "Digitalni Marketing | Zenith Sistem | Platinum Zenith",
+        "description": "Meta Ads, Google Ads i TikTok Ads kampanje sa jasnim KPI ciljevima, optimizacijom budžeta i sistemom koji donosi predvidljivu akviziciju klijenata.",
+        "inLanguage": "sr-RS",
+        "isPartOf": { "@id": SITE_URL },
+        "about": { "@id": `${SITE_URL}/digitalni-marketing#service` },
+        "mainEntity": { "@id": `${SITE_URL}/digitalni-marketing#industry-solutions` }
+      },
+      {
+        "@type": "Service",
+        "@id": `${SITE_URL}/digitalni-marketing#service`,
+        "name": "Digitalni Marketing",
+        "description": "Digitalni marketing kroz Meta, Google i TikTok kampanje sa jasnim KPI ciljevima, optimizacijom budžeta i planom skaliranja.",
+        "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL },
+        "serviceType": "Digital Marketing",
+        "areaServed": { "@type": "Country", "name": "Srbija" },
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "Digital marketing usluge",
+          "itemListElement": [
+            { "@type": "Offer", "name": "Meta Ads", "description": "Akvizicija i retargeting kroz Facebook i Instagram" },
+            { "@type": "Offer", "name": "Google Ads", "description": "Search, Display i Performance Max kampanje" },
+            { "@type": "Offer", "name": "TikTok Ads", "description": "Kampanje za awareness i performance" }
+          ]
+        }
+      },
+      {
+        "@type": "ItemList",
+        "@id": `${SITE_URL}/digitalni-marketing#industry-solutions`,
+        "name": "Marketing po industriji",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 7,
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "url": `${SITE_URL}/marketing-za-transport-i-logistiku`, "name": "Marketing za transport i logistiku" },
+          { "@type": "ListItem", "position": 2, "url": `${SITE_URL}/marketing-za-proizvodne-firme`, "name": "Marketing za proizvodne firme" },
+          { "@type": "ListItem", "position": 3, "url": `${SITE_URL}/marketing-za-turisticke-agencije`, "name": "Marketing za turističke agencije" },
+          { "@type": "ListItem", "position": 4, "url": `${SITE_URL}/marketing-za-salone-namestaja`, "name": "Marketing za salone nameštaja" },
+          { "@type": "ListItem", "position": 5, "url": `${SITE_URL}/marketing-za-gradjevinske-firme`, "name": "Marketing za građevinske firme" },
+          { "@type": "ListItem", "position": 6, "url": `${SITE_URL}/marketing-za-zanatlije`, "name": "Marketing za zanatlije" },
+          { "@type": "ListItem", "position": 7, "url": `${SITE_URL}/marketing-za-obrazovanje`, "name": "Marketing za obrazovanje" }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": `${SITE_URL}/digitalni-marketing#breadcrumbs`,
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Početna", "item": SITE_URL },
+          { "@type": "ListItem", "position": 2, "name": "Digitalni marketing", "item": `${SITE_URL}/digitalni-marketing` }
+        ]
+      }
+    ]
+  },
   '/consulting': { "@context": "https://schema.org", "@type": "Service", "name": "Poslovno Savetovanje", "description": "Poslovno savetovanje za vlasnike firmi: audit trenutnog stanja, plan rasta i implementacija kroz jasne akcione korake.", "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL }, "serviceType": "Business Consulting", "areaServed": { "@type": "Country", "name": "Srbija" }, "hasOfferCatalog": { "@type": "OfferCatalog", "name": "Consulting programi", "itemListElement": [ { "@type": "Offer", "name": "Biznis audit", "description": "Analiza uskih grla i prioriteta za rast" }, { "@type": "Offer", "name": "Strategija rasta", "description": "Plan akvizicije, ponude i pozicioniranja" }, { "@type": "Offer", "name": "Implementacija", "description": "Operativna podrška u sprovođenju plana" } ] } },
   '/cro': { "@context": "https://schema.org", "@type": "Service", "name": "CRO Optimizacija", "description": "CRO optimizacija koja povećava broj upita i prodaja kroz analizu ponašanja korisnika, A/B testove i UX poboljšanja.", "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL }, "serviceType": "Conversion Rate Optimization", "areaServed": { "@type": "Country", "name": "Srbija" }, "hasOfferCatalog": { "@type": "OfferCatalog", "name": "CRO usluge", "itemListElement": [ { "@type": "Offer", "name": "CRO audit", "description": "Analiza toka korisnika i tačaka odustajanja" }, { "@type": "Offer", "name": "A/B test iteracije", "description": "Testiranje varijanti CTA, forme i ponude" }, { "@type": "Offer", "name": "UX optimizacija", "description": "Poboljšanja stranica za veći procenat konverzije" } ] } },
   '/drustvene-mreze': { "@context": "https://schema.org", "@type": "Service", "name": "Upravljanje Društvenim Mrežama", "description": "Instagram, Facebook, TikTok i LinkedIn upravljanje za rast upita, zajednice i prodaje kroz sadržaj i plaćene kampanje.", "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL }, "serviceType": "Social Media Management", "areaServed": { "@type": "Country", "name": "Srbija" }, "hasOfferCatalog": { "@type": "OfferCatalog", "name": "SMM usluge", "itemListElement": [ { "@type": "Offer", "name": "Content plan", "description": "Plan sadržaja po kanalu i cilju" }, { "@type": "Offer", "name": "Community management", "description": "Moderacija i odgovori na poruke i komentare" }, { "@type": "Offer", "name": "Plaćene kampanje", "description": "Meta i TikTok oglasi za akviziciju i retargeting" } ] } },

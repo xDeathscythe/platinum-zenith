@@ -167,6 +167,7 @@ const SERVER_ROUTE_SCHEMAS = {
     '@context': 'https://schema.org',
     '@type': 'Service',
     name: 'Digitalni marketing usluge',
+    description: 'Digitalni marketing kroz Meta, Google i TikTok kampanje sa jasnim KPI ciljevima, optimizacijom budzeta i planom skaliranja.',
     serviceType: 'Digitalni marketing',
     url: `${SITE_URL}/digitalni-marketing`,
     areaServed: {
@@ -174,9 +175,19 @@ const SERVER_ROUTE_SCHEMAS = {
       name: 'Srbija',
     },
     provider: {
+      '@id': `${SITE_URL}#organization`,
       '@type': 'Organization',
       name: 'Platinum Zenith',
       url: SITE_URL,
+    },
+    hasOfferCatalog: {
+      '@type': 'OfferCatalog',
+      name: 'Digital marketing usluge',
+      itemListElement: [
+        { '@type': 'Offer', name: 'Meta Ads', description: 'Akvizicija i retargeting kroz Facebook i Instagram' },
+        { '@type': 'Offer', name: 'Google Ads', description: 'Search, Display i Performance Max kampanje' },
+        { '@type': 'Offer', name: 'TikTok Ads', description: 'Kampanje za awareness i performance' },
+      ],
     },
   },
   '/web-design': {
