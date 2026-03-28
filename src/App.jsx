@@ -2,12 +2,12 @@
 import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom'
 import Navbar from './components/Navbar'
 import usePageMeta from './hooks/usePageMeta'
-import useAnalyticsTracking from './hooks/useAnalyticsTracking'
 import HomePage from './pages/HomePage'
 
 // Lazy load non-critical shared UI
 const Footer = lazy(() => import('./components/Footer'))
 const CalFloatingButton = lazy(() => import('./components/CalFloatingButton'))
+const AnalyticsTracker = lazy(() => import('./components/AnalyticsTracker'))
 
 // Lazy load secondary pages for code splitting
 const WebDesignPage = lazy(() => import('./pages/WebDesignPage'))
@@ -103,7 +103,6 @@ function ScrollToTop() {
   const { pathname } = useLocation()
   useEffect(() => { window.scrollTo(0, 0) }, [pathname])
   usePageMeta()
-  useAnalyticsTracking()
   return null
 }
 
@@ -118,20 +117,27 @@ function PageLoader() {
 function PublicLayout() {
   const [sidebarOpen, setSidebarOpen] = useState(false)
   const [showCal, setShowCal] = useState(false)
+  const [showAnalytics, setShowAnalytics] = useState(false)
 
   useEffect(() => {
-    let timeoutId
-    let idleId
+    let calTimeoutId
+    let calIdleId
+    let analyticsTimeoutId
+    let analyticsIdleId
 
     if (typeof window !== 'undefined' && 'requestIdleCallback' in window) {
-      idleId = window.requestIdleCallback(() => setShowCal(true), { timeout: 5000 })
+      analyticsIdleId = window.requestIdleCallback(() => setShowAnalytics(true), { timeout: 2500 })
+      calIdleId = window.requestIdleCallback(() => setShowCal(true), { timeout: 5000 })
     } else {
-      timeoutId = setTimeout(() => setShowCal(true), 4500)
+      analyticsTimeoutId = setTimeout(() => setShowAnalytics(true), 1800)
+      calTimeoutId = setTimeout(() => setShowCal(true), 4500)
     }
 
     return () => {
-      if (idleId && typeof window !== 'undefined' && 'cancelIdleCallback' in window) window.cancelIdleCallback(idleId)
-      if (timeoutId) clearTimeout(timeoutId)
+      if (analyticsIdleId && typeof window !== 'undefined' && 'cancelIdleCallback' in window) window.cancelIdleCallback(analyticsIdleId)
+      if (calIdleId && typeof window !== 'undefined' && 'cancelIdleCallback' in window) window.cancelIdleCallback(calIdleId)
+      if (analyticsTimeoutId) clearTimeout(analyticsTimeoutId)
+      if (calTimeoutId) clearTimeout(calTimeoutId)
     }
   }, [])
 
@@ -227,6 +233,11 @@ function PublicLayout() {
           <Footer />
         </Suspense>
       </div>
+      {showAnalytics && (
+        <Suspense fallback={null}>
+          <AnalyticsTracker />
+        </Suspense>
+      )}
       {showCal && (
         <Suspense fallback={null}>
           <CalFloatingButton />
