@@ -1394,8 +1394,8 @@ const ogMeta = {
     ogImageAlt: 'Koliko košta Facebook reklama u Srbiji - vodič kroz troškove',
   },
   '/google-reklame-cena': {
-    title: 'Google Reklame Cena 2026 + Vođenje Kampanja | Platinum Zenith',
-    description: 'Google reklame cena u Srbiji 2026: realni CPC i CPA po niši, budžeti po fazi rasta i cena vođenja Google Ads kampanja sa fokusom na profit, ne samo klikove.',
+    title: 'Google Reklame Cena 2026: CPC, CPA i Budžet | Platinum Zenith',
+    description: 'Google reklame cena u Srbiji 2026: realni CPC i CPA po niši, preporučeni start budžeti i cena vođenja Google Ads kampanja za profitabilan rast.',
     ogImage: `${SITE_URL}/pz-og.jpg`,
     ogImageAlt: 'Google reklame cena u Srbiji 2026 - vodič Platinum Zenith',
   },
