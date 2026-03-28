@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "e-commerce-statistika-2026-napustena-korpa-konverzija",
+    "title": "E-commerce statistika 2026: stopa konverzije, napuštena korpa i prosečna vrednost porudžbine",
+    "excerpt": "Globalno tržište dostiže 6.88 triliona dolara. Saznajte benchmark podatke za 2026: prosečna konverzija (1.9%), napuštena korpa (70.2%) i AOV po industriji.",
+    "date": "2026-03-28",
+    "category": "E-Commerce",
+    "readTime": "10 min",
+    "isDraft": false
+  },
+  {
     "slug": "tiktok-ads-statistika-roi-konverzija-benchmark-2026",
     "title": "TikTok Ads statistika 2026: ROI, konverzije, CPM i engagement benchmark podaci",
     "excerpt": "TikTok konvertuje 45.5% korisnika u kupce. Prosecan engagement 4.90%, TikTok Shop konverzija do 12%. Pogledajte benchmark podatke za 2026. godinu.",
@@ -1588,8 +1597,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "google-ads-cena-po-kliku-srbija-2026",
-    "title": "Google Ads cena po kliku u Srbiji 2026: realni CPC rasponi po nisi i intentu",
-    "excerpt": "Koliko Google Ads klik realno kosta u Srbiji 2026, koji su rasponi po industrijama i kako da razlikujes zdrav CPC od skupe kampanje koja samo izgleda jeftino.",
+    "title": "Google Ads cena po kliku u Srbiji 2026: realni CPC rasponi po nisama",
+    "excerpt": "Koliko klik na Google Ads realno kosta u Srbiji 2026, koji su CPC rasponi po nisama i kako da procenis da li placas zdrav klik ili samo skup saobracaj.",
     "date": "2026-03-14",
     "category": "Google Ads",
     "readTime": "12 min",

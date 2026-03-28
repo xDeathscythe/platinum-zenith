@@ -19294,19 +19294,19 @@ Ako ï¿½eliï¿½, moÅ¾emo da rastavimo tvoju trenutnu ponudu i sloÅ¡imo n
   },
   {
     slug: 'google-ads-cena-po-kliku-srbija-2026',
-    title: 'Google Ads cena po kliku u Srbiji 2026: realni CPC rasponi po nisi i intentu',
-    excerpt: 'Koliko Google Ads klik realno kosta u Srbiji 2026, koji su rasponi po industrijama i kako da razlikujes zdrav CPC od skupe kampanje koja samo izgleda jeftino.',
+    title: 'Google Ads cena po kliku u Srbiji 2026: realni CPC rasponi po nisama',
+    excerpt: 'Koliko klik na Google Ads realno kosta u Srbiji 2026, koji su CPC rasponi po nisama i kako da procenis da li placas zdrav klik ili samo skup saobracaj.',
     date: '2026-03-14',
     category: 'Google Ads',
     readTime: '12 min',
     content: `
 ## Google Ads cena po kliku u Srbiji 2026: kratak odgovor
 
-Ako trazis jednu prosecnu cenu klika za celo trziste, najverovatnije ces pogresno planirati budzet.
-U praksi se **Google Ads cena po kliku u Srbiji 2026** najcesce krece od oko **0.15e do 3.20e+**, zavisno od nise, grada, intenziteta konkurencije i namere korisnika.
+Ako trazis jednu "prosecnu" cenu klika za celo trziste, kreces od pogresnog pitanja.
+Klik za frizerski salon u Zrenjaninu i klik za advokata u Beogradu ne mogu da kostaju isto, niti treba da kostaju isto.
 
-Klik od 0.35e nije automatski "dobar", kao sto klik od 1.40e nije automatski "los".
-Pravo pitanje je: da li taj klik donosi kvalifikovan upit ili samo traffic bez rezultata.
+U praksi se **Google Ads cena po kliku u Srbiji 2026** najcesce krece od oko **0.15e do 3.20e+**, ali taj raspon sam po sebi ne govori mnogo.
+Bitnije je da znas iz koje nise dolazis, kakav intent gadjas i da li taj klik donosi upit koji vredi.
 
 Za siri okvir ukupnog ulaganja (ne samo CPC) pogledaj i [Google reklame cena](/google-reklame-cena).
 
@@ -19386,8 +19386,11 @@ Na kraju meseca glavno pitanje nije "koliko je klik", nego **koliko kosta kvalif
 
 ## Zakljucak
 
-Ako treba da zapamtis jednu stvar: CPC je korisna metrika, ali samo u kontekstu intenta, landing kvaliteta i poslovnog ishoda.
-Nizak klik bez upita je skup. Visi klik koji donosi kvalitetnog klijenta moze biti najisplativiji.
+CPC je koristan kompas, ali nije cilj.
+Ako klik kosta malo, a dovodi lose upite, kampanja je i dalje skupa. Ako klik kosta vise, a dovodi posao koji mozes da zatvoris, taj CPC moze biti sasvim zdrav.
+
+Najgora greska je da budzet planiras po nekoj "prosecnoj ceni klika" sa interneta.
+Mnogo je pametnije da krenes od svoje nise, svoje marze i kvaliteta leadova koje zelis da dobijes.
 
 Ako hoces, mogu da ti slozim brz benchmark za tvoju industriju (CPC raspon + test budzet + prve optimizacije) preko [kontakt forme](/kontakt).
 `,
