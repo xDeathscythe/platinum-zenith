@@ -2,49 +2,120 @@ import { Link } from 'react-router-dom'
 import usePageMeta from '../hooks/usePageMeta'
 
 const challenges = [
-  { icon: '🚚', title: 'B2B poverenje', desc: 'Transportne i špediterske usluge zahtevaju visok nivo poverenja. Klijenti vam predaju vrednu robu. Vaš marketing mora da odiše sigurnošću, tačnošću i profesionalizmom.' },
-  { icon: '🌍', title: 'Internacionalni doseg', desc: 'Ako radite međunarodni transport, vaši potencijalni klijenti traže partnere na više jezika. SEO i Google Ads kampanje moraju biti precizno targetirane po regionima.' },
-  { icon: '👥', title: 'Dugoročna B2B partnerstva', desc: 'Ne tražite jednokratne vožnje, već ugovore na godišnjem nivou. LinkedIn i B2B networking su često efikasniji od masovnog reklamiranja na mrežama.' },
-  { icon: '📦', title: 'Problem "praznih tura"', desc: 'Optimizacija kapaciteta je ključ u logistici. Pametne "Lead Generation" kampanje vam mogu pomoći da pronađete robu za povratne ture i maksimalno iskoristite flotu.' },
-  { icon: '📞', title: 'Brzina odgovora', desc: 'Kada klijentu hitno treba prevoz robe, on ne čeka. Ako vaš sajt nije na vrhu pretrage i nema brz klik za poziv, gubite posao.' },
-  { icon: '🧑‍🔧', title: 'Zapošljavanje vozača', desc: 'U transportu uvek fali dobrih vozača. Snažan brend i ciljane Facebook kampanje (Employer Branding) pomažu u zapošljavanju pouzdanih radnika.' },
+  {
+    icon: '🚛',
+    title: 'B2B poverenje',
+    desc: 'Transportne i špediterske usluge ne kupuju se impulsivno. Klijent vam poverava robu, rokove i reputaciju. Sajt i oglasi moraju odmah da uliju sigurnost.'
+  },
+  {
+    icon: '🌍',
+    title: 'Regionalni i međunarodni upiti',
+    desc: 'Ako radite Srbija-EU ili specifične koridore, ponuda mora da bude vezana za konkretne rute, tip robe i vrstu transporta. Široke poruke ovde slabo rade.'
+  },
+  {
+    icon: '🤝',
+    title: 'Dugoročniji ugovori',
+    desc: 'Najvredniji klijenti nisu jednokratni prevozi već firme koje traže stabilnog partnera za više tura, više država i više meseci unapred.'
+  },
+  {
+    icon: '📦',
+    title: 'Prazne ture i neiskorišćen kapacitet',
+    desc: 'Kada kamion vraćate poluprazan, profit nestaje vrlo brzo. Marketing mora da puni pipeline upita, ne samo da donosi povremene pozive.'
+  },
+  {
+    icon: '⏱️',
+    title: 'Brzina odgovora odlučuje posao',
+    desc: 'Kod hitnih pošiljki prvi odgovor često uzima posao. Ako landing stranica nije jasna i kontakt nije odmah vidljiv, lead odlazi konkurenciji.'
+  },
+  {
+    icon: '👷',
+    title: 'Zapošljavanje vozača i operativnog kadra',
+    desc: 'Mnoge transportne firme paralelno traže i klijente i ljude. Employer branding i kampanje za zapošljavanje često moraju da rade uz prodajne kampanje.'
+  },
 ]
 
 const services = [
   {
-    title: 'Google Ads (Search) za hitne upite',
-    desc: 'Biti prvi kada klijent ukuca "kombi prevoz inostranstvo" ili "međunarodna špedicija".',
-    items: ['Targetiranje ključnih reči sa jasnom namerom zakupa prevoza', 'Kampanje za specifične rute (npr. zbirni transport Srbija-Nemačka)', 'Poziv-na-klik ekstenzije za hitne B2B upite', 'Optimizacija cene po lead-u (CPL)'],
+    title: 'Google Ads za hitne i komercijalne upite',
+    desc: 'Hvatamo firme koje već traže prevoz, špediciju ili zbirni transport.',
+    items: [
+      'Search kampanje za upite kao što su "transport robe nemačka srbija" i "međunarodna špedicija"',
+      'Odvojene grupe oglasa za konkretne rute, tip robe i vrstu usluge',
+      'Call ekstenzije i lead forme za hitne B2B upite',
+      'Optimizacija cene po upitu umesto pukog jurcanja klikova'
+    ],
   },
   {
-    title: 'B2B Lead Generation na LinkedIn-u',
-    desc: 'Pronalazak direktora logistike i nabavke u proizvodnim firmama.',
-    items: ['Precizno targetiranje donosilaca odluka u industriji', 'LinkedIn Lead Gen forme za ugovaranje dugoročne saradnje', 'Građenje autoriteta (članci o carinskim procedurama, Incoterms)', 'Direktne poruke (InMail) kampanje za B2B partnerstva'],
+    title: 'SEO za logističke i transportne usluge',
+    desc: 'Gradimo organsku vidljivost za usluge koje donose ozbiljnije upite i dugoročniji ROI.',
+    items: [
+      'Stranice za FTL, LTL, zbirni, ADR, frigo i vangabaritni transport',
+      'SEO struktura po rutama, državama i industrijama',
+      'Brz, jasan i mobilno optimizovan sajt za menadžere koji proveravaju ponude u pokretu',
+      'Sadržaj koji objašnjava procedure, rokove i tipične greške u organizaciji transporta'
+    ],
   },
   {
-    title: 'SEO optimizacija sajta za logistiku',
-    desc: 'Dugoročni organski rast za sve vrste transportnih i špediterskih usluga.',
-    items: ['Stranice posvećene specifičnim tipovima robe (ADR, frigo, vangabaritni)', 'Lokalni i internacionalni SEO na više jezika', 'Tehnički brz i mobilno-responzivan sajt', 'Edukativni blog o procedurama (carina, dokumentacija)'],
+    title: 'LinkedIn i B2B lead generation',
+    desc: 'Za firme koje žele veće ugovore, ne samo pojedinačne vožnje.',
+    items: [
+      'Targetiranje direktora logistike, nabavke i operacija',
+      'Lead Gen forme za sastanke i procenu potreba',
+      'Sadržaj koji gradi autoritet kroz praktične teme, ne generički PR',
+      'Retargeting za posetioce koji su već gledali ponudu ili case study'
+    ],
   },
   {
-    title: 'Employer Branding (Zapošljavanje)',
-    desc: 'Oglasi i brending koji privlače profesionalne vozače i dispečere.',
-    items: ['Meta (Facebook) kampanje za regrutaciju vozača', 'Video intervjui zaposlenih (prikaz sigurnosti i benefita)', 'Optimizacija "Karijera" stranice na sajtu', 'Kampanje sa fokusom na radne uslove i flotu vozila'],
+    title: 'Employer branding za vozače i logistički tim',
+    desc: 'Kada rastete, marketing mora da puni i pipeline kandidata.',
+    items: [
+      'Meta kampanje za zapošljavanje vozača i dispečera',
+      'Landing stranice sa jasnim uslovima, rutama i tipom vozila',
+      'Video i foto materijal koji prikazuje realne uslove rada',
+      'Odvajanje kampanja za zapošljavanje od kampanja za prodaju usluga'
+    ],
   },
 ]
 
 const metrics = [
-  { num: '300%+', label: 'Rast B2B upita', desc: 'Kroz kombinaciju Google Search kampanja i LinkedIn Lead Generation formi.' },
-  { num: '8-15x', label: 'Povrat investicije (ROAS)', desc: 'Jedan dugoročni ugovor o transportu često isplati marketing budžet za celu godinu.' },
-  { num: '-40%', label: 'Cena po upitu (CPA)', desc: 'Značajno smanjenje troškova akvizicije optimizacijom B2B kampanja i odredišnih stranica.' },
+  {
+    num: '3x+',
+    label: 'više kvalifikovanih upita',
+    desc: 'Kada se Search kampanje i landing stranice slože oko konkretnih ruta i usluga.'
+  },
+  {
+    num: '8-15x',
+    label: 'povrat investicije',
+    desc: 'Kod firmi koje zatvore i nekoliko jačih mesečnih ugovora, marketing se isplati brzo.'
+  },
+  {
+    num: '-30% do -40%',
+    label: 'niža cena po ledu',
+    desc: 'Nakon čišćenja broad targetiranja, boljeg copy-ja i jačeg post-click iskustva.'
+  },
 ]
 
 const faqs = [
-  { q: 'Mi radimo samo B2B transport kamionima. Da li su društvene mreže za nas?', a: 'Facebook verovatno nije kanal za direktnu prodaju B2B transporta, ali je ključan za Employer Branding (zapošljavanje vozača). S druge strane, LinkedIn je izuzetno moćan alat za B2B prodaju i građenje odnosa sa direktorima logistike.' },
-  { q: 'Koliki nam budžet treba za Google Ads?', a: 'Zavisi od vaših ruta i usluga. Za međunarodni transport i zbirne utovare, preporučujemo početni budžet od minimum 1.000€ do 2.000€ mesečno. Konkurencija za ove ključne reči je jaka, ali su i ugovori vrlo visoke vrednosti.' },
-  { q: 'Da li možete da nam pomognete da smanjimo "prazne ture"?', a: 'Da. Kroz ciljane Google Ads i LinkedIn kampanje možemo targetirati specifične regione gde vam najčešće nedostaje roba za povratne ture. Kampanje se mogu paliti i gasiti po potrebi.' },
-  { q: 'Kako se meri uspeh marketinga u špediciji?', a: 'Merenje je jednostavno: pratimo broj popunjenih "Zahteva za ponudu", broj direktnih poziva sa sajta i konverzije iz B2B LinkedIn kampanja. Povezujemo te podatke sa vašim prodajnim timom kako bismo izračunali tačan ROAS.' },
-  { q: 'Poredimo se sa velikim međunarodnim logističkim kompanijama. Kako da se istaknemo?', a: 'Fleksibilnošću i brzinom. Veliki sistemi su spori. Vaš sajt i poruka moraju da naglase lični pristup, direktnu komunikaciju sa dispečerom i brza rešenja bez birokratije.' },
+  {
+    q: 'Radimo isključivo B2B. Da li Meta kampanje uopšte imaju smisla?',
+    a: 'Za direktnu prodaju transportnih usluga Google Search i SEO su obično jači kanali. Meta ima više smisla za remarketing, employer branding i održavanje prisutnosti kod publike koja vas već zna.'
+  },
+  {
+    q: 'Koliki budžet je realan za Google Ads u transportu i logistici?',
+    a: 'Za ozbiljnije testiranje obično preporučujemo bar 1.000€ do 2.000€ mesečno po tržištu ili grupi usluga. Ispod toga se podaci skupljaju sporo, posebno ako ciljate više ruta i više država.'
+  },
+  {
+    q: 'Možete li da pomognete oko praznih tura?',
+    a: 'Da, ali ne kroz generičnu kampanju za sve. Najbolje rade kampanje vezane za konkretne pravce, regione i tip prevoza gde vam najčešće ostaje nepopunjen kapacitet.'
+  },
+  {
+    q: 'Šta je važnije, sajt ili oglasi?',
+    a: 'Oba. Ako nemate dobar sajt, platićete klik i izgubiti upit. Ako imate dobar sajt bez saobraćaja, niko ga neće videti. Najbolji rezultat dolazi kada se kanal i landing strana rade kao jedan sistem.'
+  },
+  {
+    q: 'Koliko brzo možemo da očekujemo prve rezultate?',
+    a: 'Plaćene kampanje mogu da donesu prve relevantne upite u roku od nekoliko dana. SEO je sporiji, ali vremenom spušta cenu akvizicije i donosi stabilniji priliv tražnji.'
+  },
 ]
 
 export default function MarketingZaTransportILogistikuPage() {
@@ -54,12 +125,18 @@ export default function MarketingZaTransportILogistikuPage() {
     <>
       <section className="pt-[140px] pb-20 md:pt-[200px] md:pb-28 px-4 md:px-8 bg-panel overflow-hidden border-b border-edge-2">
         <div className="max-w-[1000px] mx-auto text-center relative z-10">
-          <p className="text-[13px] md:text-[14px] text-ink-3 uppercase tracking-[2px] font-medium mb-6">Marketing za Transport i Logistiku</p>
+          <p className="text-[13px] md:text-[14px] text-ink-3 uppercase tracking-[2px] font-medium mb-6">Marketing za transport i logistiku</p>
           <h1 className="text-[32px] md:text-[56px] font-medium leading-[1.1] tracking-[-1.5px] text-ink mb-6">
-            Više punih tura. Manje "praznih kilometara".
+            Više punih tura. Manje praznih kilometara.
           </h1>
-          <p className="text-[16px] md:text-[18px] text-ink-2 max-w-[600px] mx-auto leading-relaxed mb-10">
-            Dovodimo vam B2B klijente kojima je hitno potreban transport. Kroz Google Ads, SEO i LinkedIn, gradimo bazu direktnih partnera za vašu špediciju.
+          <p className="text-[16px] md:text-[18px] text-ink-2 max-w-[700px] mx-auto leading-relaxed mb-10">
+            Dovodimo vam B2B upite za transport, špediciju i logističke usluge kroz
+            {' '}
+            <Link to="/google-reklame-cena" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">Google Ads</Link>,
+            {' '}
+            <Link to="/seo-optimizacija-cena" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">SEO</Link>
+            {' '}
+            i landing stranice koje jasno objašnjavaju šta radite, gde radite i zašto treba da vas pozovu baš sada.
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
             <Link to="/kontakt" className="inline-flex items-center justify-center h-12 px-8 rounded-full bg-inv-bg text-inv-fg text-[15px] font-medium hover:bg-inv-bg-hover transition-colors w-full sm:w-auto">
@@ -75,8 +152,10 @@ export default function MarketingZaTransportILogistikuPage() {
       <section className="py-20 md:py-28 px-4 md:px-8 bg-page">
         <div className="max-w-[1200px] mx-auto">
           <div className="text-center mb-16">
-            <h2 className="text-[28px] md:text-[40px] font-medium tracking-[-1px] text-ink mb-4">Logistika zahteva B2B pristup</h2>
-            <p className="text-[16px] text-ink-2 max-w-[600px] mx-auto">U transportu, svaki "prazan" kilometar košta. Pravi marketing vam obezbeđuje poslove kada vam najviše trebaju.</p>
+            <h2 className="text-[28px] md:text-[40px] font-medium tracking-[-1px] text-ink mb-4">Zašto marketing u logistici traži drugačiji pristup</h2>
+            <p className="text-[16px] text-ink-2 max-w-[700px] mx-auto">
+              Ovde ne prodajete impulsivnu kupovinu. Prodajete pouzdanost, rok, komunikaciju i osećaj da roba neće kasniti. Zato copy, struktura sajta i kanal akvizicije moraju da budu mnogo precizniji nego kod generičkih uslužnih biznisa.
+            </p>
           </div>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
             {challenges.map((c, i) => (
@@ -107,8 +186,12 @@ export default function MarketingZaTransportILogistikuPage() {
       <section className="py-20 md:py-28 px-4 md:px-8 bg-page">
         <div className="max-w-[1000px] mx-auto">
           <div className="text-center mb-16">
-            <h2 className="text-[28px] md:text-[40px] font-medium tracking-[-1px] text-ink mb-4">Sistem prodaje za transportne kompanije</h2>
-            <p className="text-[16px] text-ink-2 max-w-[600px] mx-auto">Strategija koja targetira direktore nabavke i logistike.</p>
+            <h2 className="text-[28px] md:text-[40px] font-medium tracking-[-1px] text-ink mb-4">Kako izgleda sistem koji donosi ozbiljnije upite</h2>
+            <p className="text-[16px] text-ink-2 max-w-[720px] mx-auto">
+              Ako želite nižu cenu po upitu, nije dovoljno samo pustiti oglase. Potrebni su dobar funnel, jasan CTA i sajt koji ne guši konverziju. Zato uz kampanje često sređujemo i
+              {' '}
+              <Link to="/izrada-wordpress-sajta-cena" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">prodajni deo sajta</Link>.
+            </p>
           </div>
           <div className="space-y-6">
             {services.map((s, i) => (
@@ -154,9 +237,9 @@ export default function MarketingZaTransportILogistikuPage() {
 
       <section className="py-20 md:py-28 px-4 md:px-8 bg-blue-600 text-white text-center">
         <div className="max-w-[800px] mx-auto">
-          <h2 className="text-[32px] md:text-[48px] font-medium tracking-[-1px] mb-6 text-white">Spremni za više ugovora i vožnji?</h2>
-          <p className="text-[16px] md:text-[18px] text-white/80 mb-10 max-w-[600px] mx-auto">
-            Zakazivanje besplatne analize vas ne obavezuje na saradnju. Pregledaćemo vaš trenutni sajt, online prisustvo i dati vam predlog B2B strategije za rast.
+          <h2 className="text-[32px] md:text-[48px] font-medium tracking-[-1px] mb-6 text-white">Ako hoćete više ugovora, krenimo od stranice koja zatvara upit</h2>
+          <p className="text-[16px] md:text-[18px] text-white/80 mb-10 max-w-[620px] mx-auto">
+            Pregledaćemo vaš trenutni sajt, Google prisustvo i prodajni tok. Dobićete konkretan plan šta prvo treba srediti da biste dobijali više kvalitetnih upita, ne samo više saobraćaja.
           </p>
           <Link to="/kontakt" className="inline-flex items-center justify-center h-12 px-8 rounded-full bg-white text-blue-600 text-[15px] font-medium hover:bg-gray-50 transition-colors">
             Zakažite besplatne konsultacije

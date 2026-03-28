@@ -1472,32 +1472,37 @@ const ogMeta = {
     description: 'Marketing za obrazovne institucije u Srbiji: Google Ads, lokalni SEO, Instagram kampanje i sajt koji pune upisne liste privatnih skola, jezickih skola i autoskola.',
   },
     '/marketing-za-transport-i-logistiku': {
-    '@context': 'https://schema.org',
-    '@type': 'Service',
-    name: 'Marketing za transport i logistiku',
-    serviceType: 'Logistics and transport marketing',
-    url: `${SITE_URL}/marketing-za-transport-i-logistiku`,
-    areaServed: { '@type': 'Country', name: 'Srbija' },
-    provider: { '@type': 'Organization', name: 'Platinum Zenith', url: SITE_URL },
     title: 'Marketing za Transport i Logistiku | Platinum Zenith',
-    description: 'Povećajte B2B upite i smanjite prazne ture kroz SEO, LinkedIn Lead Generation i Google Ads kampanje za transportne firme i špedicije.',
+    description: 'Povećajte B2B upite i smanjite prazne ture kroz SEO, LinkedIn lead generation i Google Ads kampanje za transportne firme i špedicije.',
+    url: SITE_URL + '/marketing-za-transport-i-logistiku',
+    image: 'https://platinumzenith.com/seo-bg.png',
+    type: 'website'
   },
   '/marketing-za-salone-namestaja': {
     title: 'Marketing za Salone Nameštaja | Platinum Zenith',
-    description: 'Povećajte foot traffic u salonu i e-commerce prodaju. Google Ads, Meta retargeting i SEO optimizacija za salone nameštaja.',
-  },
-  '/marketing-za-turisticke-agencije': {
-    title: 'Marketing za Turističke Agencije | Generišite Rezervacije Tokom Cele Godine | PZ',
-    description: 'Dokazane marketinške strategije za turističke agencije u Srbiji. Smanjite zavisnost od sezone, povećajte rani buking i izgradite prepoznatljiv brend.',
-    url: 'https://platinumzenith.com/marketing-za-turisticke-agencije',
-    image: 'https://platinumzenith.com/seo-bg.png', // Or some other default image
+    description: 'Povećajte posete salonu i online prodaju kroz Google Ads, Meta retargeting i SEO optimizaciju za salone nameštaja.',
+    url: SITE_URL + '/marketing-za-salone-namestaja',
+    image: 'https://platinumzenith.com/seo-bg.png',
     type: 'website'
   },
-
-'/marketing-za-zanatlije': {
+  '/marketing-za-turisticke-agencije': {
+    title: 'Marketing za Turističke Agencije | Povećajte Broj Rezervacija | PZ',
+    description: 'Digitalni marketing za turističke agencije. Google i Meta kampanje koje donose rane rezervacije, bolji buking i stabilniji rast tokom cele godine.',
+    url: SITE_URL + '/marketing-za-turisticke-agencije',
+    image: 'https://platinumzenith.com/seo-bg.png',
+    type: 'website'
+  },
+  '/marketing-za-proizvodne-firme': {
+    title: 'Marketing za Proizvodne Firme | Platinum Zenith',
+    description: 'B2B marketing za proizvodnju i industriju: LinkedIn generisanje leadova, Google Ads i SEO za stabilan rast i predvidljiviji pipeline upita.',
+    url: SITE_URL + '/marketing-za-proizvodne-firme',
+    image: 'https://platinumzenith.com/seo-bg.png',
+    type: 'website'
+  },
+  '/marketing-za-zanatlije': {
     title: 'Digitalni Marketing za Majstore i Zanatlije | Platinum Zenith',
-    description: 'Specijalizovan digitalni marketing za zanatlije, električare, vodoinstalatere i keramičare. Google Ads za hitne intervencije, lokalni SEO i izrada brzih sajtova.',
-    image: 'https://platinumzenith.com/og-images/default-og.png', // Fallback, would be nice to generate specific
+    description: 'Digitalni marketing za zanatlije, električare i vodoinstalatere: Google Ads za hitne intervencije, lokalni SEO i sajtovi koji donose više upita.',
+    image: 'https://platinumzenith.com/og-images/default-og.png',
     type: 'website'
   },
   '/marketing-za-gradjevinske-firme': {

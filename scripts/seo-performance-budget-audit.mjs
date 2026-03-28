@@ -23,8 +23,9 @@ const stats = jsFiles.map((file) => {
   return { file, size, sizeKb: bytesToKb(size) }
 })
 
-function findChunk(prefix) {
-  return stats.find((s) => s.file.startsWith(prefix))
+function findChunk(prefixes) {
+  const list = Array.isArray(prefixes) ? prefixes : [prefixes]
+  return stats.find((s) => list.some((prefix) => s.file.startsWith(prefix)))
 }
 
 const publicBlogCount = [...new Map(
@@ -42,16 +43,17 @@ const budgets = [
   { label: 'vendor-react chunk', prefix: 'vendor-react-', maxKb: 210 },
   { label: 'vendor-router chunk', prefix: 'vendor-router-', maxKb: 85 },
   { label: 'vendor-motion chunk', prefix: 'vendor-motion-', maxKb: 140 },
-  { label: 'blogData chunk', prefix: 'blogData-', maxKb: blogDataBudgetKb },
+  { label: 'blogData chunk', prefixes: ['blogData-', 'blogDataIndex-', 'blogIndexData-'], maxKb: blogDataBudgetKb },
 ]
 
 const issues = []
 const checks = []
 
 for (const budget of budgets) {
-  const chunk = findChunk(budget.prefix)
+  const chunk = findChunk(budget.prefixes ?? budget.prefix)
   if (!chunk) {
-    issues.push(`Missing chunk for ${budget.label} (${budget.prefix}*.js)`)
+    const expected = Array.isArray(budget.prefixes) ? budget.prefixes.join(' | ') : `${budget.prefix}*.js`
+    issues.push(`Missing chunk for ${budget.label} (${expected})`)
     continue
   }
 
