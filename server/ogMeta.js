@@ -271,6 +271,16 @@ const SERVER_ROUTE_SCHEMAS = {
       name: 'Platinum Zenith',
       url: SITE_URL,
     },
+    audience: {
+      '@type': 'BusinessAudience',
+      audienceType: 'Mala i srednja preduzeća, e-commerce brendovi i uslužne firme u Srbiji',
+    },
+    availableChannel: {
+      '@type': 'ServiceChannel',
+      serviceUrl: `${SITE_URL}/kontakt`,
+      availableLanguage: ['sr', 'en'],
+    },
+    serviceOutput: ['Kvalifikovani leadovi', 'Profitabilniji CPA', 'Jasniji plan Google Ads budžeta'],
     offers: {
       '@type': 'AggregateOffer',
       priceCurrency: 'EUR',

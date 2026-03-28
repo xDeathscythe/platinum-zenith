@@ -2249,6 +2249,9 @@ export const pageSchemas = {
         "url": `${SITE_URL}/google-reklame-cena`,
         "areaServed": { "@type": "Country", "name": "Srbija" },
         "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL },
+        "audience": { "@type": "BusinessAudience", "audienceType": "Mala i srednja preduzeca, e-commerce brendovi i usluzne firme u Srbiji" },
+        "availableChannel": { "@type": "ServiceChannel", "serviceUrl": `${SITE_URL}/kontakt`, "availableLanguage": ["sr", "en"] },
+        "serviceOutput": ["Kvalifikovani leadovi", "Profitabilniji CPA", "Jasniji plan Google Ads budzeta"],
         "mainEntityOfPage": { "@id": `${SITE_URL}/google-reklame-cena#webpage` },
         "offers": { "@type": "AggregateOffer", "priceCurrency": "EUR", "lowPrice": "300", "highPrice": "6000", "offerCount": "4" },
         "hasOfferCatalog": [
