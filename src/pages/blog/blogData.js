@@ -19394,6 +19394,16 @@ Mnogo je pametnije da krenes od svoje nise, svoje marze i kvaliteta leadova koje
 
 Ako hoces, mogu da ti slozim brz benchmark za tvoju industriju (CPC raspon + test budzet + prve optimizacije) preko [kontakt forme](/kontakt).
 `,
+    schema: {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "Google Ads cena po kliku u Srbiji 2026: realni CPC rasponi po nisama",
+      "datePublished": "2026-03-14",
+      "author": { "@type": "Organization", "name": "Platinum Zenith" },
+      "publisher": { "@type": "Organization", "name": "Platinum Zenith", "url": "https://platinumzenith.com" },
+      "description": "Koliko klik na Google Ads realno kosta u Srbiji 2026, koji su CPC rasponi po nisama i kako da procenis da li placas zdrav klik ili samo skup saobracaj.",
+      "mainEntityOfPage": "https://platinumzenith.com/blog/google-ads-cena-po-kliku-srbija-2026"
+    }
   },
   {
     slug: 'vodjenje-google-ads-kampanja-cena-srbija-2026',
