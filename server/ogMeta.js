@@ -355,6 +355,19 @@ const SERVER_ROUTE_SCHEMAS = {
       name: 'Platinum Zenith',
       url: SITE_URL,
     },
+    audience: {
+      '@type': 'BusinessAudience',
+      audienceType: 'Mala i srednja preduzeca, e-commerce brendovi i usluzne firme u Srbiji',
+    },
+    availableChannel: {
+      '@type': 'ServiceChannel',
+      serviceUrl: `${SITE_URL}/kontakt`,
+      providesService: { '@type': 'Service', name: 'Besplatna procena oglasnog budzeta' },
+    },
+    serviceOutput: {
+      '@type': 'Thing',
+      name: 'Stabilan dotok upita, poruka i porudzbina sa Instagrama uz definisan ROAS/CPA.',
+    },
     offers: {
       '@type': 'AggregateOffer',
       priceCurrency: 'EUR',
@@ -1421,8 +1434,8 @@ const ogMeta = {
     ogImageAlt: 'Google reklame cena u Srbiji 2026 - vodič Platinum Zenith',
   },
   '/instagram-reklame-cena': {
-    title: 'Instagram Reklame Cena 2026 + Vođenje Kampanja | Platinum Zenith',
-    description: 'Instagram reklame cena u Srbiji 2026: CPC, CPM i CPA benchmark, Reels troškovi, preporučeni start budžet i cena vođenja kampanja pre skaliranja.',
+    title: 'Instagram reklame cena u Srbiji 2026 | CPM, CPC i vođenje',
+    description: 'Koliko koštaju Instagram reklame u Srbiji 2026: cena po kliku (CPC), CPM rasponi, Reels troškovi i realna cena vođenja kampanja za stabilan rast.',
     ogImage: `${SITE_URL}/pz-og.jpg`,
     ogImageAlt: 'Instagram reklame cena u Srbiji 2026 - vodič Platinum Zenith',
   },
