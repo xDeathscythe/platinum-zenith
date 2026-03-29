@@ -755,6 +755,9 @@ export const pageSchemas = {
         "areaServed": { "@type": "Country", "name": "Srbija" },
         "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL },
         "mainEntityOfPage": { "@id": `${SITE_URL}/cene-digitalnog-marketinga#webpage` },
+        "audience": { "@type": "BusinessAudience", "audienceType": "Firme u Srbiji koje zele predvidljivu cenu i ROI od marketinga" },
+        "availableChannel": { "@type": "ServiceChannel", "serviceUrl": `${SITE_URL}/kontakt`, "providesService": { "@type": "Service", "name": "Procena marketing budzeta" } },
+        "serviceOutput": { "@type": "Thing", "name": "Konsolidovan marketing sistem za generisanje upita, prodaja i merljiv rast." },
         "offers": {
           "@type": "AggregateOffer",
           "priceCurrency": "EUR",
@@ -3609,6 +3612,9 @@ export const pageSchemas = {
         "mainEntityOfPage": { "@id": `${SITE_URL}/seo-optimizacija-cena#webpage` },
         "areaServed": { "@type": "Country", "name": "Srbija" },
         "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL },
+        "audience": { "@type": "BusinessAudience", "audienceType": "Lokalni biznisi, B2B firme i e-commerce brendovi u Srbiji" },
+        "availableChannel": { "@type": "ServiceChannel", "serviceUrl": `${SITE_URL}/kontakt`, "providesService": { "@type": "Service", "name": "Besplatan SEO audit sajta" } },
+        "serviceOutput": { "@type": "Thing", "name": "Stabilan rast organskog saobracaja, bolja vidljivost na Google-u i dugorocno smanjenje cene akvizicije klijenta." },
         "offers": { "@type": "AggregateOffer", "priceCurrency": "EUR", "lowPrice": "300", "highPrice": "3000", "offerCount": "3" },
         "hasOfferCatalog": [
           { "@id": `${SITE_URL}/seo-optimizacija-cena#package-tiers` }
