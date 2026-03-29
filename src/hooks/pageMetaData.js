@@ -73,7 +73,7 @@ export const pageMeta = {
   '/koliko-kosta-facebook-reklama': { title: 'Koliko Košta Facebook Reklama u Srbiji 2026 | Vodič Kroz Cene | Platinum Zenith', description: 'Koliko košta Facebook reklama u Srbiji 2026: realni CPC/CPM/CPA rasponi, početni budžeti, cena vođenja kampanja i greške koje najskuplje podižu trošak.', keywords: 'koliko košta facebook reklama, facebook oglasi cena, instagram oglasi cena srbija, facebook ads srbija, cena oglašavanja na facebooku, meta ads cena' },
   '/google-reklame-cena': { title: 'Google reklame cena u Srbiji 2026 | CPC, CPA i budžet', description: 'Koliko koštaju Google reklame u Srbiji 2026: cena po kliku, CPA po ledu, preporučeni start budžeti i cena vođenja kampanja po fazi rasta.', keywords: 'google reklame cena, google ads cena, koliko kostaju google reklame, cena po kliku google, budzet za google reklame, vodjenje google ads kampanja cena, upravljanje google ads kampanjama' },
   '/instagram-reklame-cena': { title: 'Instagram reklame cena u Srbiji 2026 | CPM, CPC i vođenje', description: 'Koliko koštaju Instagram reklame u Srbiji 2026: cena po kliku (CPC), CPM rasponi, Reels troškovi i realna cena vođenja kampanja za stabilan rast.', keywords: 'instagram reklame cena, instagram ads cena, instagram reels reklame cena, koliko kostaju instagram reklame, cena instagram oglasa, instagram oglasavanje srbija, vodjenje instagram ads kampanja cena, upravljanje instagram reklamama' },
-  '/izrada-wordpress-sajta-cena': { title: 'Izrada WordPress Sajta Cena u Srbiji 2026 | Platinum Zenith', description: 'Izrada WordPress sajta cena u Srbiji 2026: raspon za prezentacione i WooCommerce projekte, rokovi i održavanje, uz jasnu cenu bez skrivenih troškova.', keywords: 'izrada wordpress sajta cena, wordpress sajt cena, koliko kosta wordpress sajt, wordpress izrada sajta srbija, woocommerce cena izrade, odrzavanje wordpress sajta' },
+  '/izrada-wordpress-sajta-cena': { title: 'Izrada WordPress sajta cena u Srbiji 2026 | Paketi i održavanje', description: 'Izrada WordPress sajta cena u Srbiji 2026: realni rasponi za WooCommerce i prezentacione sajtove, rokovi isporuke i cena mesečnog održavanja.', keywords: 'izrada wordpress sajta cena, wordpress sajt cena, koliko kosta wordpress sajt, wordpress izrada sajta srbija, woocommerce cena izrade, odrzavanje wordpress sajta' },
   '/marketing-za-nekretnine': {
     title: 'Marketing za Agencije za Nekretnine | Platinum Zenith',
     description: 'Digitalni marketing za agencije za nekretnine u Srbiji. Povećajte broj kupaca i prodavaca kroz Google Ads, SEO i Meta kampanje za nekretnine.',
@@ -3220,6 +3220,9 @@ export const pageSchemas = {
         "mainEntityOfPage": { "@id": `${SITE_URL}/izrada-wordpress-sajta-cena#webpage` },
         "areaServed": { "@type": "Country", "name": "Srbija" },
         "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL },
+        "audience": { "@type": "BusinessAudience", "audienceType": "Firme u Srbiji, e-commerce brendovi i agencije kojima treba stabilan sajt" },
+        "availableChannel": { "@type": "ServiceChannel", "serviceUrl": `${SITE_URL}/kontakt`, "providesService": { "@type": "Service", "name": "Besplatna procena WordPress projekta" } },
+        "serviceOutput": { "@type": "Thing", "name": "Brz, SEO-optimizovan i siguran WordPress sajt spreman za skaliranje i akviziciju." },
         "offers": {
           "@type": "AggregateOffer",
           "priceCurrency": "EUR",

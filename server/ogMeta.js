@@ -442,6 +442,19 @@ const SERVER_ROUTE_SCHEMAS = {
       name: 'Platinum Zenith',
       url: SITE_URL,
     },
+    audience: {
+      '@type': 'BusinessAudience',
+      audienceType: 'Firme u Srbiji, e-commerce brendovi i agencije kojima treba stabilan sajt',
+    },
+    availableChannel: {
+      '@type': 'ServiceChannel',
+      serviceUrl: `${SITE_URL}/kontakt`,
+      providesService: { '@type': 'Service', name: 'Besplatna procena WordPress projekta' },
+    },
+    serviceOutput: {
+      '@type': 'Thing',
+      name: 'Brz, SEO-optimizovan i siguran WordPress sajt spreman za skaliranje i akviziciju.',
+    },
     offers: {
       '@type': 'AggregateOffer',
       priceCurrency: 'EUR',
@@ -1440,8 +1453,8 @@ const ogMeta = {
     ogImageAlt: 'Instagram reklame cena u Srbiji 2026 - vodič Platinum Zenith',
   },
   '/izrada-wordpress-sajta-cena': {
-    title: 'Izrada WordPress Sajta Cena u Srbiji 2026 | Platinum Zenith',
-    description: 'Izrada WordPress sajta cena u Srbiji 2026: raspon za prezentacione i WooCommerce projekte, rokovi i održavanje, uz jasnu cenu bez skrivenih troškova.',
+    title: 'Izrada WordPress sajta cena u Srbiji 2026 | Paketi i održavanje',
+    description: 'Izrada WordPress sajta cena u Srbiji 2026: realni rasponi za WooCommerce i prezentacione sajtove, rokovi isporuke i cena mesečnog održavanja.',
     ogImage: `${SITE_URL}/pz-og.jpg`,
     ogImageAlt: 'Izrada WordPress sajta cena u Srbiji 2026 - vodič Platinum Zenith',
   },
