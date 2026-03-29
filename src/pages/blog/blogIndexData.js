@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "izrada-landing-stranice-cena-rokovi",
+    "title": "Izrada landing stranice: cena, rokovi i šta ulazi u cenu",
+    "excerpt": "Da li landing stranica košta 150 ili 1.500 evra? Saznajte realne raspone cena u Srbiji, šta tačno ulazi u tu cifru i zašto najjeftinije rešenje obično najviše košta.",
+    "date": "2026-03-29",
+    "category": "Biznis",
+    "readTime": "6 min read",
+    "isDraft": false
+  },
+  {
     "slug": "6-marketinskih-principa-koji-spustaju-cenu-leada-i-dizu-prodaju",
     "title": "6 marketinških principa koji spuštaju cenu leada i dižu prodaju",
     "excerpt": "Najbolji marketing ne počinje ponudom. Počinje sadržajem koji prodaje, dijagnozom pre poziva, obrađenim prigovorima i jasnim brojevima kao što su CAC i LTV.",

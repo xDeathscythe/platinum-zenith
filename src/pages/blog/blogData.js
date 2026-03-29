@@ -1,5 +1,69 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'izrada-landing-stranice-cena-rokovi',
+    title: 'Izrada landing stranice: cena, rokovi i šta ulazi u cenu',
+    excerpt: 'Da li landing stranica košta 150 ili 1.500 evra? Saznajte realne raspone cena u Srbiji, šta tačno ulazi u tu cifru i zašto najjeftinije rešenje obično najviše košta.',
+    date: '2026-03-29',
+    readTime: '6 min read',
+    category: 'Biznis',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Landing Page', 'Web Design', 'Konverzija'],
+    image: 'buyer.jpg',
+    content: `
+Svaki vlasnik firme pre ili kasnije dođe do trenutka kada mu zatreba landing stranica. Imate novu uslugu, pokrećete kampanju i neko vam kaže da vam ne treba ceo sajt, već samo jedna strana. Tada krenete da tražite ponude. I tu nastaje haos. 
+
+Jedan freelancer traži 150 evra, lokalna agencija pošalje predračun na 600 evra, a treća ponuda iznosi 1.500 evra. Gledate u te tri cifre i iskreno, ne znate u čemu je razlika. 
+
+Kako jedna stranica može toliko da varira u ceni? Odgovor se krije u tome šta tačno kupujete.
+
+## Template protiv sistema za konverziju
+
+Najveća greška koju ljudi prave jeste izjednačavanje "dizajna" i "rezultata". Jeftina landing stranica obično znači da će neko uzeti gotov vizuelni šablon, ubaciti vaš tekst i logo, i postaviti to na server. 
+
+To zaista košta malo. Često se uradi za vikend. Ali takva stranica retko prodaje. Nema razmišljanja o tome kako korisnik skroluje, nema testiranja naslova koji privlače pažnju i nema strategije iza pozicioniranja tastera za kupovinu.
+
+S druge strane, ozbiljna izrada landing stranice podrazumeva proces koji nije samo vizuelan. Tu ulazi postavljanje strukture koja vodi posetioca od problema ka rešenju. Tu ulazi pisanje ubedljivog copyja. Tu ulazi postavljanje praćenja (tracking) kako biste znali tačno odakle vam dolaze klijenti. Kada platite više, vi ne plaćate samo lep dizajn. Vi plaćate inženjering prodaje.
+
+> Najskuplja landing stranica je ona na koju pošaljete 1.000 evra reklamnog budžeta, a ne dobijete nijedan upit.
+
+## Realne cene izrade u Srbiji u 2026. godini
+
+Ako pogledamo trenutno stanje na tržištu u Srbiji, rasponi cena su prilično jasni kada shvatite šta svaka kategorija donosi.
+
+**Oko 150 do 300 evra (Osnovni paket)**  
+Ovo je tipična cena za freelancera početnika ili nekoga ko radi isključivo sa gotovim šablonima. Dobićete vizuelno korektnu stranicu. Međutim, od vas se obično očekuje da sami dostavite sav tekst i slike. Takođe, retko uključuje optimizaciju brzine ili postavljanje napredne analitike. Ovo rešenje ima smisla samo ako vam treba bilo kakvo prisustvo na internetu i nemate budžet za oglašavanje.
+
+**Od 500 do 900 evra (Poslovni standard)**  
+U ovom rasponu dobijate ozbiljniji pristup. Stranica se dizajnira namenski za vaš brend. Tekstovi se pišu sa ciljem da prodaju (copywriting). U cenu je uključena mobilna optimizacija koja zapravo radi kako treba, a ne samo da izgleda prihvatljivo. Ovakav projekat uključuje postavljanje osnovnog praćenja konverzija, tako da kada pokrenete Google ili Facebook kampanju, tačno znate šta se dešava. 
+
+**Preko 1.200 evra (Performance landing stranice)**  
+Ove stranice rade agencije koje su specijalizovane za prodaju i [CRO (optimizaciju stope konverzije)](/cro). U ovu cenu ulazi duboko istraživanje tržišta pre nego što se napiše prva reč. Dizajn je kreiran isključivo sa namerom da smanji trenje pri kupovini. Često uključuje A/B testiranje, napredno praćenje događaja na sajtu i naknadnu analizu ponašanja korisnika. Ovo je opcija za firme koje troše ozbiljan novac na oglase i gde svako poboljšanje konverzije od 1% znači hiljade evra profita.
+
+## Šta mora da uđe u cenu (i na šta da pazite)
+
+Kada dobijete ponudu, nemojte gledati samo krajnju cifru. Pitajte šta je tačno uključeno. Ako nešto od sledećih stavki fali, ta ponuda verovatno nije toliko povoljna kao što deluje:
+
+- **Copywriting:** Da li oni pišu prodajni tekst ili vi morate da smišljate šta ćete reći?
+- **Mobile-first dizajn:** Preko 70% saobraćaja danas dolazi sa telefona. Ako se dizajn prvo radi za desktop pa se samo "skupi" za mobilni, gubite novac.
+- **Brzina učitavanja:** Stranica mora da se učita ispod tri sekunde. Ako je spora, ljudi će odustati pre nego što vide vašu ponudu.
+- **Povezivanje analitike:** Google Analytics 4 i Facebook Pixel moraju biti ispravno postavljeni. Bez toga, oglašavanje je gubljenje novca.
+- **Osnovni on-page SEO:** Pravilno postavljeni naslovi (H1, H2), meta opisi i optimizovane slike.
+
+## Koliko dugo se čeka?
+
+Rokovi zavise od složenosti. Za jednostavne template stranice, izrada traje od 3 do 7 dana. Međutim, ako želite ozbiljnu stranicu gde se radi istraživanje i piše kvalitetan tekst, realan rok je između dve i četiri nedelje.
+
+Taj period nije samo crtanje dizajna. To je vreme potrebno da se prouči vaša ponuda, definiše idealan kupac, strukturira poruka i sve to tehnički postavi bez grešaka. Brzanje u ovoj fazi obično rezultira stranicom koja mora da se prepravlja mesec dana kasnije.
+
+Kada podvučemo crtu, [izrada sajta](/web-design) ili jedne kvalitetne landing stranice nije trošak. To je infrastruktura vašeg biznisa. Ako planirate da puštate plaćene oglase na tu stranicu, razlika između konverzije od 1% i 3% je ogromna. Viša početna cena se često isplati već u prvom mesecu kroz jeftinije upite i više prodaja. 
+
+Zato, kada birate sa kim ćete raditi, ne birajte onoga ko vam daje najnižu cenu za dizajn. Birajte onoga ko vam daje najbolji plan kako ta stranica da vrati uložen novac. Ako vam treba tim koji razume kako da pretvori klikove u prave klijente, [zakažite besplatne konsultacije](/kontakt) sa nama. Zajedno ćemo proći kroz vašu trenutnu situaciju i napraviti plan koji ima smisla.
+`
+  },
+
+  {
     slug: '6-marketinskih-principa-koji-spustaju-cenu-leada-i-dizu-prodaju',
     title: '6 marketinških principa koji spuštaju cenu leada i dižu prodaju',
     excerpt: 'Najbolji marketing ne počinje ponudom. Počinje sadržajem koji prodaje, dijagnozom pre poziva, obrađenim prigovorima i jasnim brojevima kao što su CAC i LTV.',
