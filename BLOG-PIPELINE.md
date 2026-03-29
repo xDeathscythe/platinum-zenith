@@ -72,3 +72,4 @@ Svi videi iz originalne Sabri/Hormozi liste su prepakovani u blogove.
 9. Kategorije: Marketing, SEO, CRO, Biznis
 10. Koristiti {{component}} slotove gde ima smisla
 - ? Izrada landing stranice: cena, rokovi, šta ulazi u cenu
+- ? Google Ads cena po kliku u Srbiji 2026: realni rasponi po niši

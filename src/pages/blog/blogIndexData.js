@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-cena-po-kliku-srbija-2026",
+    "title": "Google Ads cena po kliku u Srbiji 2026: realni rasponi po niši",
+    "excerpt": "Koliko tačno košta klik na Google oglasima u Srbiji? Saznajte realne CPC raspone za vašu industriju i zašto najjeftiniji klik često donosi najveći gubitak budžeta.",
+    "date": "2026-03-29",
+    "category": "Marketing",
+    "readTime": "6 min read",
+    "isDraft": false
+  },
+  {
     "slug": "izrada-landing-stranice-cena-rokovi",
     "title": "Izrada landing stranice: cena, rokovi i šta ulazi u cenu",
     "excerpt": "Da li landing stranica košta 150 ili 1.500 evra? Saznajte realne raspone cena u Srbiji, šta tačno ulazi u tu cifru i zašto najjeftinije rešenje obično najviše košta.",
@@ -1611,15 +1620,6 @@ export const blogIndexPosts = [
     "date": "2026-03-11",
     "category": "Google Ads",
     "readTime": "9 min",
-    "isDraft": false
-  },
-  {
-    "slug": "google-ads-cena-po-kliku-srbija-2026",
-    "title": "Google Ads cena po kliku u Srbiji 2026: realni CPC rasponi po nisama",
-    "excerpt": "Koliko klik na Google Ads realno kosta u Srbiji 2026, koji su CPC rasponi po nisama i kako da procenis da li placas zdrav klik ili samo skup saobracaj.",
-    "date": "2026-03-14",
-    "category": "Google Ads",
-    "readTime": "12 min",
     "isDraft": false
   },
   {

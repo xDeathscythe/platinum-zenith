@@ -1,5 +1,78 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'google-ads-cena-po-kliku-srbija-2026',
+    title: 'Google Ads cena po kliku u Srbiji 2026: realni rasponi po niši',
+    excerpt: 'Koliko tačno košta klik na Google oglasima u Srbiji? Saznajte realne CPC raspone za vašu industriju i zašto najjeftiniji klik često donosi najveći gubitak budžeta.',
+    date: '2026-03-29',
+    readTime: '6 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'PPC', 'Budžet'],
+    image: 'analytics.jpg',
+    content: `
+Pitanje "koliko košta klik na Google-u" je verovatno najčešće pitanje koje vlasnici firmi postavljaju pre pokretanja kampanje. Iako mnogi traže jedan univerzalan broj, takav broj ne postoji. Sistem funkcioniše kao aukcija u realnom vremenu.
+
+Cena zavisi od toga šta prodajete, kome prodajete i koliko su vaši konkurenti spremni da plate za tog istog kupca.
+
+Ipak, podaci sa tržišta jasno pokazuju proseke. Ako planirate Google Ads budžet za 2026. godinu, ovo su realni rasponi cene po kliku (CPC) u Srbiji.
+
+## Prosečne cene po industrijama u Srbiji
+
+**Lokalne usluge (zanati, popravke, servisi)**  
+Ovo je najkonkurentnije polje za takozvane "hitne" pretrage. Kada nekome pukne cev, taj neko ne gleda pet sajtova. On zove prvog na listi. Zbog toga firme licitiraju agresivno.
+- **Prosečan CPC:** 0,40€ do 1,50€
+- **Ekstremni slučajevi:** Hitne intervencije u Beogradu mogu ići i preko 2,50€ po kliku, jer jedan posao donosi veliku zaradu.
+
+**Medicinske i stomatološke usluge**  
+Konkurencija među privatnim klinikama je u stalnom porastu. Pacijenti traže konkretne procedure (implantati, fiksne proteze, estetska hirurgija).
+- **Prosečan CPC:** 0,50€ do 2,00€
+- Vrednost pacijenta (LTV) je visoka, pa su poliklinike spremne da plate više za poziciju broj jedan.
+
+**E-commerce (online prodaja)**  
+Kod online prodavnica, cene po kliku su niže, ali je potreban veći obim saobraćaja da bi se ostvarila konverzija. 
+- **Prosečan CPC:** 0,08€ do 0,40€
+- U e-commerce sektoru, pametnije je koristiti Performance Max i Shopping kampanje nego klasičnu pretragu za generičke pojmove.
+
+**B2B, softveri i industrijska oprema**  
+Kada prodajete mašinu od 30.000 evra ili mesečnu licencu za softver, pretraga je malo. Samim tim, svaki klik vredi zlata.
+- **Prosečan CPC:** 0,80€ do 4,00+€
+- Iako klik deluje skupo, donosi klijente sa ozbiljnim budžetima.
+
+## Zašto je jeftin klik često najskuplji
+
+Mnoge firme prave grešku jureći ključne reči koje koštaju 0,05€. Problem je u nameri korisnika (search intent). 
+
+Neko ko kuca "kako sam da popravim bojler" traži besplatan savet. Neko ko kuca "vodoinstalater hitno beograd" stoji u vodi do kolena i spreman je da plati odmah. 
+
+Firma koja juri prvi pojam dobiće 100 klikova za 5 evra i nula poziva. Firma koja licitira za drugi pojam platiće 5 evra za samo dva klika, ali će dobiti klijenta. Jeftin saobraćaj bez namere za kupovinom samo troši budžet i usporava sajt.
+
+> Klik bez namere za kupovinom je čist trošak. Klik sa pravom namerom je investicija.
+
+## Ocena kvaliteta (Quality Score) menja cenu
+
+Google nagrađuje sajtove koji korisnicima daju tačno ono što traže. Ako je vaša reklama za "knjigovodstvene usluge", a vodi na stranicu o vama umesto na konkretnu ponudu za firme, Google će vas kazniti.
+
+Niska ocena kvaliteta znači da ćete plaćati i do 50% skuplji klik od konkurenta samo da biste ostali na istoj poziciji. Sa druge strane, odlično strukturirana [landing stranica](/web-design) obara vašu cenu po kliku. Zato optimizacija samog sajta uvek mora ići pre puštanja oglasa.
+
+{{roi-calculator-cta}}
+
+## Kako postaviti profitabilnu kampanju?
+
+Fokus ne treba da bude na tome kako da smanjite cenu klika na minimum. Fokus treba da bude na ceni akvizicije klijenta (CPA). 
+
+Ako vas klik košta 1 evro, a svaki deseti posetilac zakaže termin, vaš klijent košta 10 evra. Ako ta usluga donosi 100 evra profita, matematiku je lako pratiti. 
+
+Prestanite da merite uspeh kampanje kroz broj klikova. Merite ga kroz broj prodaja i povrat uloženog novca (ROAS).
+
+Više o tome kako se formiraju [cene za Google reklame](/google-reklame-cena) i upravljanje celim nalogom pogledajte na našoj servisnoj stranici.
+
+Ako niste sigurni kako da strukturirate budžet i izaberete prave ključne reči za vašu industriju, [zakažite besplatne konsultacije](/kontakt). Pomoći ćemo vam da postavite sistem koji generiše kvalitetne upite, a ne prazan saobraćaj.
+`
+  },
+
+  {
     slug: 'izrada-landing-stranice-cena-rokovi',
     title: 'Izrada landing stranice: cena, rokovi i šta ulazi u cenu',
     excerpt: 'Da li landing stranica košta 150 ili 1.500 evra? Saznajte realne raspone cena u Srbiji, šta tačno ulazi u tu cifru i zašto najjeftinije rešenje obično najviše košta.',
