@@ -38,6 +38,16 @@ export default function PageMeta({ title, description, ogImage }) {
     setMeta('name', 'twitter:title', fullTitle)
     setMeta('name', 'twitter:image', ogImg)
 
+    let canonical = document.querySelector('link[rel="canonical"]')
+    if (!canonical) {
+      canonical = document.createElement('link')
+      canonical.setAttribute('rel', 'canonical')
+      document.head.appendChild(canonical)
+    }
+    // Remove trailing slash if present (except for homepage)
+    const canonicalUrl = url.endsWith('/') && url.length > baseUrl.length ? url.slice(0, -1) : url
+    canonical.setAttribute('href', canonicalUrl)
+
     return () => {
       document.title = `${siteName} | Digitalna Agencija`
     }

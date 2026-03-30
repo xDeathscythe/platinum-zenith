@@ -23,26 +23,4 @@
       <news:title>Izrada landing stranice: cena, rokovi i šta ulazi u cenu</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://platinumzenith.com/blog/6-marketinskih-principa-koji-spustaju-cenu-leada-i-dizu-prodaju</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Platinum Zenith</news:name>
-        <news:language>sr</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-27T23:00:00.000Z</news:publication_date>
-      <news:title>6 marketinških principa koji spuštaju cenu leada i dižu prodaju</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://platinumzenith.com/blog/e-commerce-statistika-2026-napustena-korpa-konverzija</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Platinum Zenith</news:name>
-        <news:language>sr</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-27T23:00:00.000Z</news:publication_date>
-      <news:title>E-commerce statistika 2026: stopa konverzije, napuštena korpa i prosečna vrednost porudžbine</news:title>
-    </news:news>
-  </url>
 </urlset>

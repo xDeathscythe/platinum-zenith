@@ -587,7 +587,7 @@ export default function IzradaWordpressSajtaCenaPage() {
             Sama izrada sajta je tek početak. Ako želite da WordPress projekat stvarno donosi upite, prodaju i stabilan rast,
             obično se odmah otvaraju i pitanja SEO-a, održavanja, landing stranica i budžeta za akviziciju.
           </p>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-4">
             <Link to="/seo-optimizacija-cena" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
               <div className="text-[14px] font-medium text-ink mb-1">SEO optimizacija cena</div>
               <div className="text-[12px] text-ink-3">Šta posle izrade sajta donosi organski saobraćaj</div>
@@ -603,6 +603,10 @@ export default function IzradaWordpressSajtaCenaPage() {
             <Link to="/cene-digitalnog-marketinga" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
               <div className="text-[14px] font-medium text-ink mb-1">Cene digitalnog marketinga</div>
               <div className="text-[12px] text-ink-3">Šira slika kada sajt povezujete sa rastom</div>
+            </Link>
+            <Link to="/blog/izrada-landing-stranice-cena-rokovi" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Cena landing stranice</div>
+              <div className="text-[12px] text-ink-3">Kada vam ne treba ceo sajt već jedna jaka strana</div>
             </Link>
             <Link to="/cene-izrade-sajta" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
               <div className="text-[14px] font-medium text-ink mb-1">Cene izrade sajta</div>
