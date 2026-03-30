@@ -20631,7 +20631,7 @@ Konkretan, vremenski definisan sledeci korak. Nema nejasnoce.
 
 Ako ï¿½elite strukturiran pogled na vaÅ¡ biznis, pogledajte naï¿½ [consulting program](/consulting).
 
-Takode preporucujemo: [Kako napisati ponudu koja zatvara posao za 24 sata](/blog/kako-napisati-ponudu-koja-zatvara-posao).
+Takode preporucujemo: [Kako napisati ponudu koja zatvara posao za 24 sata](/blog/komunikacija-u-prodaji-kako-napisati-ponudu).
 
 ---
 
@@ -23434,125 +23434,6 @@ Takode preporucujemo: [A/B testiranje: male promene, veliki rezultati](/blog/ab-
 `,
   },
   {
-    slug: 'kako-napisati-ponudu-koja-zatvara-posao',
-    title: 'Kako napisati ponudu koja zatvara posao za 24 sata',
-    excerpt: 'Vecina ponuda zavrÅ¡i u folderu "procitacu kasnije" i nikad se ne otvori ponovo. Evo strukture koja tera klijenta da odgovori danas.',
-    date: '2026-02-27',
-    category: 'Biznis',
-    readTime: '8 min',
-    content: `
-## Ponuda koja ceka je ponuda koja umire
-
-Poï¿½aljete ponudu. Klijent kaÅ¾e "Super, proucicu pa vam se javim." Prode dan. Dva. Nedelja. Poï¿½aljete follow-up. Tiï¿½ina. Posle mesec dana vidite da je angaï¿½ovao nekog drugog.
-
-Nije problem Å¡to je izabrao konkurenciju. Problem je Å¡to vaÅ¡a ponuda nije bila dovoljno ubedljiva da donese odluku dok je interes bio na vrhuncu. A interes je na vrhuncu u prvih 24 sata posle razgovora. Posle toga, svaki sat koji prode smanjuje ï¿½ansu za zatvaranje.
-
-Ponuda nije dokument koji opisuje Å¡ta radite. Ponuda je alat koji pomaÅ¾e klijentu da donese odluku. I struktura tog alata je vaÅ¡nija od toga koliko je lep PDF.
-
-## Problem na prvom mestu, ne vaÅ¡a usluga
-
-Prva stvar koju klijent vidi kad otvori ponudu ne sme da bude lista vaÅ¡ih usluga. Mora da bude opis njegovog problema. Njegovim recima. Onako kako ga je opisao na sastanku.
-
-"Trenutno dobijate oko 15 upita mesecno sa sajta, ali samo 2-3 se pretvaraju u kupce. Vaï¿½ prosecan klijent vredi 800 evra, Å¡to znaci da gubite potencijalnih 8.000-10.000 evra mesecno na upitima koji propadnu."
-
-Ovo radi iz dva razloga. Prvo, klijent vidi da ste ga zaista sluï¿½ali. Drugo, vidi cenu nereï¿½avanja problema. To viÅ¡e nije "troÅ¡i 2.000 evra na marketing". To je "investiraj 2.000 da prestanem da gubim 10.000."
-
-Ako ne znate tacne brojeve, pitajte pre nego Å¡to poï¿½aljete ponudu. "Koliko upita dobijate mesecno? Koliki je prosecan racun?" Tri pitanja koja menjaju celu dinamiku pregovora.
-
-## Tri opcije, ne jedna
-
-Ponuda sa jednom cenom stavlja klijenta u binarnu poziciju: da ili ne. Ponuda sa tri opcije menja pitanje iz "da li da kupim" u "koju opciju da izaberem". To je ogromna psiholoÅ¡ka razlika.
-
-Struktura koja radi:
-
-**Opcija 1: Starter**
-Minimum koji reï¿½ava glavni problem. Najniï¿½a cena. Za klijente koji ï¿½ele da pocnu oprezno.
-
-**Opcija 2: Profesionalni** (preporuceno)
-Ovo je opcija koju zapravo ï¿½elite da izaberu. Ukljucuje sve iz Startera plus stvari koje znacajno poboljï¿½avaju rezultat. Oznacite je kao "Najpopularniji" ili "Preporuceno".
-
-**Opcija 3: Premium**
-Za klijente koji ï¿½ele sve. Najviï¿½a cena. Cak i ako je niko ne izabere, postoji zato Å¡to srednju opciju cini razumnijom.
-
-Kad klijent gleda samo jednu cenu od 3.000 evra, razmiï¿½lja da li je to skupo. Kad gleda 1.500 / 3.000 / 6.000, misli da je 3.000 razuman izbor. Ista cena, potpuno drugacija percepcija.
-
-## Rezultat pre metode
-
-Klijenta ne zanima Å¡ta cete raditi. Zanima ga Å¡ta ce on dobiti. "12 SEO optimizovanih blog postova mesecno" je metoda. "Rast organskog prometa za 40-60% u 90 dana" je rezultat.
-
-Za svaku stavku u ponudi, postavite pitanje: "Pa Å¡ta?" Radimo SEO optimizaciju. Pa Å¡ta? Pa to znaci da cete se pojavljivati na prvoj strani Google-a za kljucne pretrage u vaÅ¡em gradu. Pa Å¡ta? Pa to znaci 30-50 novih posetilaca dnevno koji aktivno traÅ¾e vaÅ¡u uslugu. Ovo poslednje ide u ponudu.
-
-Lista rezultata treba da bude konkretna:
-- Broj novih upita mesecno
-- Ocekivani rast prometa
-- Uï¿½teda vremena u satima nedeljno
-- Projektovani ROI u evrima
-
-Å¡to su brojevi konkretniji, ponuda je ubedljivija. "Znacajan rast" ne znaci niÅ¡ta. "+45% konverzija na osnovu rada sa slicnim klijentima" znaci sve.
-
-## Vremenski okvir sa miljokazima
-
-Klijent ne ï¿½eli da cuje "rezultati za 3-6 meseci". ï¿½eli da zna Å¡ta se deÅ¡ava svake nedelje. Ponuda treba da sadrï¿½i jasan raspored:
-
-**Nedelja 1-2:** Audit, istraÅ¾ivanje, postavljanje pracenja
-**Nedelja 3-4:** Lansiranje kampanja, prvi testovi
-**Mesec 2:** Optimizacija na osnovu prvih rezultata
-**Mesec 3:** Skaliranje onoga Å¡to radi
-
-Svaki korak sa konkretnim isporukom. Ne "radimo analizu" nego "dobijate izveÅ¡taj od 15 strana sa 3 preporuke za trenutno poboljï¿½anje".
-
-Vremenski okvir radi dve stvari: smanjuje strah od nepoznatog i stvara osecaj da se neÅ¡to konkretno deÅ¡ava od prvog dana.
-
-## Socijalni dokaz unutar ponude
-
-Nemojte pretpostavljati da je klijent procitao vaÅ¡ sajt ili video recenzije. Stavite dokaz direktno u ponudu. Jedna mini studija slucaja, tri recenice, koja je relevantna za klijentovu situaciju.
-
-"Salon Lilium je imao slicnu situaciju: nizak broj online rezervacija uprkos punom rasporedu od preporuka. Posle optimizacije sajta i pokretanja lokalne kampanje, online rezervacije su porasle 260% za 4 meseca."
-
-Ovo nije hvalisanje. Ovo je dokaz da znate Å¡ta radite sa klijentima koji imaju isti problem. Ako imate viÅ¡e relevantnih primera, stavite 2-3. Ako imate tacne brojeve, koristite ih.
-
-## Rok vaÅ¡enja i sledeci korak
-
-Ponuda bez roka je ponuda bez hitnosti. "Ova ponuda vaÅ¡i do petka, 7. marta" daje klijentu jasan okvir za odluku. Ne zato Å¡to ga pritiskate, nego zato Å¡to kapaciteti jesu ograniceni i cene se menjaju.
-
-Isto tako, ponuda mora da se zavrÅ¡i sa jednim jasnim sledecim korakom. Ne "javite nam se kad budete spremni". Nego:
-
-"Da pokrenemo projekat, potrebno je:
-1. Potvrda opcije koja vam odgovara (mejlom ili pozivom)
-2. Potpis ugovora (ï¿½aljemo digitalno, 2 minuta)
-3. Uplata prvog dela (50%)
-Startujemo u roku od 48 sati od potvrde."
-
-Kad je sledeci korak jasan i lak, odluka postaje lakÅ¡a. Kad klijent mora da smiï¿½lja Å¡ta da uradi posle citanja ponude, najceï¿½ce ne uradi niÅ¡ta.
-
-## Struktura ponude koja radi
-
-Evo redosleda koji koristimo za naï¿½e klijente:
-
-1. **Naslov** sa imenom klijenta (personalizacija)
-2. **Rezime problema** (2-3 recenice, njihovim recima)
-3. **Cena nereï¿½avanja** (koliko ih koÅ¡ta status quo mesecno)
-4. **PredloÅ¡eno reÅ¡enje** (rezultati, ne metode)
-5. **Tri opcije** sa cenama
-6. **Vremenski okvir** sa miljokazima
-7. **Socijalni dokaz** (1-2 relevantne studije)
-8. **Garancija ili smanjenje rizika** (ako je primenljivo)
-9. **Rok vaÅ¡enja** i jasan sledeci korak
-
-Cela ponuda na 2-3 strane. Ne 15. Klijent treba da moÅ¾e da je procita za 5 minuta i da zna tacno Å¡ta dobija, koliko koÅ¡ta i Å¡ta treba da uradi.
-
-> Ponuda nije prezentacija vaÅ¡e firme. Ponuda je most izmedu klijentovog problema i vaÅ¡eg reï¿½enja. Å¡to je taj most kraci i jasniji, brÅ¾e ga klijent prede.
-
-Ako ï¿½elite strukturiran pogled na vaÅ¡ biznis, pogledajte naï¿½ [consulting program](/consulting).
-
-Takode preporucujemo: [Anatomija neodoljive ponude: zaÅ¡to vecina firmi prodaje pogreÅ¡no](/blog/ponuda-koju-niko-ne-moze-da-odbije).
-
----
-
-ï¿½elite pomoc da napravite ponudu koja se ne ignoriï¿½e? [Javite nam se](/kontakt). Napravicemo vam strukturu koja zatvara posao dok je klijent joï¿½ zagrejan.
-`,
-  },
-  {
     slug: 'facebook-vs-instagram-oglasi-gde-je-vasa-publika',
     title: 'Facebook vs Instagram oglasi: gde je vaÅ¡a publika?',
     excerpt: 'Obe platforme koriste isti Ads Manager, ali publika se ponaÅ¡a potpuno drugacije. PogreÅ¡an izbor platforme znaci bacanje budÅ¾eta.',
@@ -24153,7 +24034,7 @@ Ako bilo koja od ove cetiri stavke nije jasna, tu gubite klijente. Ne na ceni.
 
 Pogledajte kako mi pristupamo izgradnji ponuda u naï¿½im [cenama i modelima saradnje](/cene-digitalnog-marketinga) i zaÅ¡to naï¿½i klijenti placaju premium bez pregovaranja.
 
-Takode preporucujemo: [Kako napisati ponudu koja zatvara posao](/blog/kako-napisati-ponudu-koja-zatvara-posao).
+Takode preporucujemo: [Kako napisati ponudu koja zatvara posao](/blog/komunikacija-u-prodaji-kako-napisati-ponudu).
 
 ---
 

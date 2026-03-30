@@ -1983,15 +1983,6 @@ export const blogIndexPosts = [
     "isDraft": false
   },
   {
-    "slug": "kako-napisati-ponudu-koja-zatvara-posao",
-    "title": "Kako napisati ponudu koja zatvara posao za 24 sata",
-    "excerpt": "Vecina ponuda zavrÅ¡i u folderu \"procitacu kasnije\" i nikad se ne otvori ponovo. Evo strukture koja tera klijenta da odgovori danas.",
-    "date": "2026-02-27",
-    "category": "Biznis",
-    "readTime": "8 min",
-    "isDraft": false
-  },
-  {
     "slug": "facebook-vs-instagram-oglasi-gde-je-vasa-publika",
     "title": "Facebook vs Instagram oglasi: gde je vaÅ¡a publika?",
     "excerpt": "Obe platforme koriste isti Ads Manager, ali publika se ponaÅ¡a potpuno drugacije. PogreÅ¡an izbor platforme znaci bacanje budÅ¾eta.",
