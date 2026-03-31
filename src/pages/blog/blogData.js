@@ -1,5 +1,83 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'facebook-vs-instagram-oglasi-gde-je-vasa-publika',
+    title: 'Facebook vs Instagram oglasi: Gde je vaša publika u 2026?',
+    excerpt: 'Da li je Facebook mrtav i jesu li Reels jedini put do prodaje? Otkrijte kako Meta algoritam deli budžet u 2026. godini i u šta zaista treba uložiti novac za maksimalan ROAS.',
+    date: '2026-03-31',
+    readTime: '6 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Facebook Ads', 'Instagram Ads', 'Meta', 'PPC'],
+    image: 'analyze2.png',
+    content: `
+Ovo je ubedljivo najčešće pitanje na uvodnim sastancima: 
+*"Aleksandre, da li treba da ugasimo Facebook i sav budžet prebacimo na Instagram? Nismo mi za Facebook, tamo su samo penzioneri."*
+
+Kratak odgovor: Ne. 
+Duži odgovor: Ako ručno isključujete Facebook placemente, verovatno veštački dižete svoju cenu po konverziji za 20% do 40%.
+
+Hajde da razbijemo najveći mit o oglasima u 2026. godini. Vi više ne birate gde je vaša publika. [Meta algoritam (Advantage+)](/drustvene-mreze) bira umesto vas.
+
+## Mit: "Naša publika je samo na Instagramu"
+
+Ljudi obično gledaju gde oni lično provode vreme i to preslikavaju na celu populaciju. "Ja koristim samo Instagram, dakle svi moji klijenti koriste samo Instagram".
+
+Problem sa ovom logikom je što Meta zna stvari koje vi ne znate.
+- Možda vaš kupac provodi 90% vremena na Instagramu...
+- Ali možda je upravo onih 10% vremena na Facebooku vreme kada on sedi za kompjuterom, čita članke i zapravo ima **namera da kupi**.
+
+Kada kliknete na dugme za kupovinu, vi izlazite iz aplikacije. Ljudi na Instagramu su često u modu "skrolovanja i zabave". Oni mrze da izađu iz aplikacije. Ljudi na Facebooku (posebno desktop verziji) su često spremniji da kliknu na spoljni link, pročitaju tekst na sajtu i pošalju upit.
+
+Zbog toga mi u [Platinum Zenith-u](/o-nama) nikada ručno ne gasimo Facebook feed.
+
+## Kako Meta zaista deli vaš novac?
+
+Kada postavite kampanju i ostavite **Advantage+ Placements** (što je preporuka za 95% kampanja), evo šta se tačno dešava u pozadini:
+
+1. Algoritam uzima vaš oglas i deli ga svuda: Facebook feed, Instagram Reels, Stories, Audience Network.
+2. Zatim prati gde dolaze **najjeftinije konverzije**. Ne lajkovi. Konverzije.
+3. Ako vidi da Instagram Reels donose kupca za 5€, a Facebook feed za 4€, on će automatski početi da gura više budžeta ka Facebooku.
+
+Kada klijent kaže "Ugasite nam Facebook", on zapravo govori algoritmu: *"Ako nađeš klijenta na Facebooku za 4€, odbij ga. Želim da platim onog sa Instagrama 5€."*
+
+To je čist gubitak profita. 
+
+{{fb-creative}}
+
+## Da li format menja pravila igre?
+
+Apsolutno. Razlog zašto ljudima "Facebook ne radi" je često to što imaju lošu kreativu. 
+
+Instagram je neverovatno vizuelan. Ljudi reaguju na estetiku, kratke video snimke (Reels) i brzu zabavu.
+Facebook je više orijentisan na zajednicu i informaciju. Tekstualni copy na Facebook oglasu igra mnogo veću ulogu nego na Instagramu. 
+
+Ako puštate isti oglas, sa istim formatom i istim dugačkim tekstom na obe platforme, jedna će verovatno podbaciti. 
+Naš pristup je **adaptacija kreative**:
+- Kratak, dinamičan video ide primarno na Reels/Stories.
+- Slika sa jakim tekstualnim *hook-om* (naslovom) koji gađa bolnu tačku ide na feed placemente.
+
+U tekstu o tome [koliko košta Facebook reklama](/koliko-kosta-facebook-reklama) detaljno objašnjavamo kako loša kreativa direktno podiže vaš CPC (cenu po kliku).
+
+## Kada zaista treba isključiti platformu?
+
+Postoje samo dva scenarija kada ručno isključivanje ima smisla:
+
+1. **Testiranje kreative (Creative Testing):** Ako želite da napravite izolovano okruženje i vidite koji video najbolje radi isključivo na Reels formatu, onda gasite ostalo.
+2. **Loš kvalitet upita:** Ako primetite da Facebook donosi jako jeftine leadove (prijave), ali je kvalitet tih kontakata užasan u poređenju sa Instagramom, onda ima smisla usmeriti budžet tamo gde je viši kvalitet (bolji Return on Ad Spend).
+
+## Šta da promenite danas?
+
+Sledeći put kada puštate kampanju, oduprite se porivu da mikromenadžujete Metu. Dajte im vašu najbolju kreativu, dajte im budžet i dozvolite algoritmu da nađe najjeftiniju konverziju bez obzira gde se ona nalazi.
+
+Pravi problem nikada nije "Da li smo na Facebooku ili Instagramu". Pravi problem je uvek "Da li naš oglas rešava problem kupca u tri sekunde?".
+
+Ako su vaše kampanje prestale da donose profit ili mislite da bacate novac na pogrešne kanale, [javite nam se za besplatan audit naloga](/kontakt). Pokazaćemo vam tačno gde vam curi budžet i kako da ga preusmerite na konverzije.
+`
+  },
+
+  {
     slug: 'facebook-vs-instagram-oglasi-gde-je-publika',
     title: 'Facebook vs Instagram oglasi: Gde je zaista vaša publika u 2026?',
     excerpt: 'Svi govore da je Facebook mrtav i da je budućnost na Instagramu. Međutim, brojevi iz oglasnih naloga pokazuju potpuno drugačiju sliku. Otkrijte u šta zapravo treba da investirate.',

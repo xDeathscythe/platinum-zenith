@@ -3,18 +3,18 @@
 
 export const blogIndexPosts = [
   {
-    "slug": "facebook-vs-instagram-oglasi-gde-je-publika",
-    "title": "Facebook vs Instagram oglasi: Gde je zaista vaša publika u 2026?",
-    "excerpt": "Svi govore da je Facebook mrtav i da je budućnost na Instagramu. Međutim, brojevi iz oglasnih naloga pokazuju potpuno drugačiju sliku. Otkrijte u šta zapravo treba da investirate.",
+    "slug": "facebook-vs-instagram-oglasi-gde-je-vasa-publika",
+    "title": "Facebook vs Instagram oglasi: Gde je vaša publika u 2026?",
+    "excerpt": "Da li je Facebook mrtav i jesu li Reels jedini put do prodaje? Otkrijte kako Meta algoritam deli budžet u 2026. godini i u šta zaista treba uložiti novac za maksimalan ROAS.",
     "date": "2026-03-31",
     "category": "Marketing",
     "readTime": "6 min read",
     "isDraft": false
   },
   {
-    "slug": "facebook-vs-instagram-oglasi-gde-je-vasa-publika",
-    "title": "Facebook vs Instagram oglasi: gde je zaista vaša publika u 2026?",
-    "excerpt": "Puštate isti oglas i na Facebook i na Instagram? To je najbrži način da spalite budžet. Otkrijte psihološku razliku između ove dve platforme i kako da prilagodite kampanje.",
+    "slug": "facebook-vs-instagram-oglasi-gde-je-publika",
+    "title": "Facebook vs Instagram oglasi: Gde je zaista vaša publika u 2026?",
+    "excerpt": "Svi govore da je Facebook mrtav i da je budućnost na Instagramu. Međutim, brojevi iz oglasnih naloga pokazuju potpuno drugačiju sliku. Otkrijte u šta zapravo treba da investirate.",
     "date": "2026-03-31",
     "category": "Marketing",
     "readTime": "6 min read",
