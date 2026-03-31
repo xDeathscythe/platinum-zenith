@@ -1,4 +1,165 @@
 ﻿const rawBlogPosts = [
+  {
+    slug: 'facebook-vs-instagram-oglasi-gde-je-vasa-publika',
+    title: 'Facebook vs Instagram oglasi: gde je zaista vaša publika u 2026?',
+    excerpt: 'Puštate isti oglas i na Facebook i na Instagram? To je najbrži način da spalite budžet. Otkrijte psihološku razliku između ove dve platforme i kako da prilagodite kampanje.',
+    date: '2026-03-31',
+    readTime: '6 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Facebook Ads', 'Instagram Ads', 'PPC', 'Social Media'],
+    image: 'analyze2.png',
+    content: `
+Kada firma u Srbiji reši da pokrene kampanje na društvenim mrežama, najčešći pristup je takozvani "Autopilot". 
+Uđu u Meta Ads Manager, ubace sliku, stave dnevni budžet i ostave štiklirano *Advantage+ Placements*.
+
+To znači da Meta sama odlučuje gde će vaš oglas biti prikazan: malo na Facebook-u, malo na Instagramu, malo na Messenger-u.
+
+Zvuči logično, zar ne? Neka algoritam radi svoj posao.
+
+Problem je u tome što Facebook i Instagram nisu ista platforma, nemaju istu publiku i, što je najvažnije, ljudi na njima nemaju istu **psihologiju kupovine**.
+
+## Psihologija Facebook-a: Znanje i zajednica
+
+Da li ste primetili ko danas najviše koristi Facebook?
+To više nisu tinejdžeri. To su ljudi preko 30, 40 i 50 godina. 
+
+Kada korisnik uđe na Facebook, on želi da:
+1. Vidi šta rade njegovi prijatelji i porodica
+2. Pročita vesti
+3. Učestvuje u tematskim grupama (od majstora, preko roditelja, do ljubitelja automobila)
+
+Facebook je postao platforma zasnovana na **tekstu i diskusiji**. Zato oglasi sa dugačkim, edukativnim tekstom (long-form copy) i dalje savršeno rade na Facebook-u. Ljudi imaju vremena da pročitaju vašu priču.
+
+Ako prodajete B2B usluge, kompleksnije softvere, nekretnine ili skuplje usluge gde kupcu treba poverenje i edukacija, Facebook je mesto gde se donose odluke. Tu [cene digitalnog marketinga](/cene-digitalnog-marketinga) dobijaju pravi smisao jer edukovan kupac razume vrednost.
+
+## Psihologija Instagrama: Brzina i vizuelni status
+
+Instagram je čista vizuelna platforma. Fokus je na videu, brzini i estetici.
+Korisnici na Instagramu donose odluku u mikrosekundi dok skroluju kroz Stories ili Reels. 
+
+Na Instagramu ljudi žele:
+1. Zabavu (Dopamin)
+2. Inspiraciju (Estetiku)
+3. Status (Šta drugi nose, gde jedu, šta voze)
+
+Oglas sa dugačkim tekstom na Instagramu je promašaj. Niko to neće čitati.
+Ono što prodaje na Instagramu je **dinamičan video od 15 sekundi (Reels) i kvalitetan vizuelni prikaz proizvoda (UGC - User Generated Content)**.
+
+Ako imate e-commerce brend, prodajete odeću, šminku, fitnes opremu ili držite [frizerski salon](/marketing-za-frizerske-salone), Instagram mora da bude vaš primarni fokus. Tu se prodaja zatvara na emociju i impuls.
+
+## Najskuplja greška: Isti oglas za obe platforme
+
+Kada uzmete kvadratnu sliku sa puno teksta i pustite je kao oglas, na Facebook Newsfeed-u ona može izgledati solidno. 
+Kada tu istu sliku Meta prikaže na Instagram Reels-u, ona izgleda kao greška u sistemu. Odsečena je, ima crne ivice, a dugme za kupovinu je skriveno.
+
+Korisnik to odmah prepoznaje kao "lenj oglas" i skroluje dalje u deliću sekunde.
+
+Vi plaćate te prikaze. Plaćate to što vas publika ignoriše. Ako želite da vidite tačne raspone koliko košta koji klik, pogledajte naš detaljan vodič za [Instagram reklame cenu](/instagram-reklame-cena).
+
+## Gde da usmerite budžet?
+
+Pravilo je jednostavno:
+
+**Fokus na Facebook (70% budžeta) ako:**
+- Je vaš proizvod skuplji i zahteva razmišljanje.
+- Gađate stariju, kupovno moćniju demografiju (40+).
+- Prodajete B2B usluge ili radite lead generation za ozbiljnije projekte.
+
+**Fokus na Instagram (70% budžeta) ako:**
+- Vaš proizvod rešava problem odmah ili se kupuje impulsivno.
+- Možete da ga prikažete kroz atraktivan video (UGC).
+- Ciljate mlađu publiku (18-35).
+
+Naravno, idealno je koristiti obe platforme, ali sa **prilagođenom kreativom**.
+Na Facebook pošaljite edukativan tekst i karusel. Na Instagram pošaljite kratak video sa snažnim vizuelnim "hook-om".
+
+Ako niste sigurni gde se nalazi vaša publika i zašto trenutne kampanje ne daju rezultate, [zakažite besplatne konsultacije](/kontakt). Pregledaćemo vaše naloge i pokazati vam gde gubite novac.
+`
+  },
+
+  {
+    slug: 'zasto-vas-sajt-ne-prodaje-sta-promeniti',
+    title: 'Zašto vaš sajt ne prodaje (i šta da promenite danas)',
+    excerpt: 'Imate dobar proizvod, plaćate reklame i imate posete na sajtu, ali niko ne kupuje. Otkrijte 3 najčešće greške zbog kojih vaš sajt ne konvertuje i kako da ih odmah popravite.',
+    date: '2026-03-30',
+    readTime: '6 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Konverzija', 'Web Design', 'CRO'],
+    image: 'analyze.png',
+    content: `
+Ovo je scenario koji viđam svakog meseca: Firma plati hiljade evra za prelep nov sajt. Dizajn je moderan, animacije su glatke, slike su profesionalne.
+
+Onda krenu sa [Google Ads kampanjama](/google-reklame-cena) ili Facebook oglasima. Ljudi klikću, dolaze na sajt... i ništa. Nema upita, nema prodaje.
+
+Problem je u tome što je sajt dizajniran da izgleda dobro, a ne da konvertuje. 
+
+Većina sajtova pati od tri osnovne greške koje možete da popravite već danas.
+
+## 1. Vaš naslov je nevidljiv (ili previše pametan)
+
+Ljudi na internetu ne čitaju. Oni skeniraju.
+Kada neko klikne na vaš oglas, vi imate tačno 3 sekunde da mu odgovorite na jedno pitanje: **"Da li sam na pravom mestu?"**
+
+Većina firmi ovo vreme troši na prazne fraze:
+- "Inovativna rešenja za budućnost"
+- "Pomeramo granice mogućeg"
+- "Vaš pouzdan partner od 1998."
+
+Ovo ne znači apsolutno ništa. Klijent ne zna šta vi radite i odlazi.
+
+Naslov (H1) na vašoj stranici mora da bude brutalan i jasan: **Šta radite i za koga?**
+Umesto "Pomeramo granice", napišite "Softver za upravljanje magacinom koji smanjuje greške za 80%". 
+Umesto "Inovativni digitalni pristup", napišite "[Izrada WordPress sajtova](/izrada-wordpress-sajta-cena) koji dovode klijente na autopilotu".
+
+Ako u tri sekunde nije jasno šta prodajete, izgubili ste kupca.
+
+## 2. Tražite od klijenta da razmišlja (Nema jasnog CTA)
+
+Najčešći problem na B2B i uslužnim sajtovima je nedostatak pravca.
+Ljudi dođu na stranicu, pročitaju tekst i onda šta?
+
+- Neki sajtovi uopšte nemaju dugme.
+- Drugi imaju "Saznajte više" koje vodi na stranicu "O nama".
+- Treći imaju pet različitih dugmića: "Preuzmi PDF", "Zaprati nas", "Pročitaj blog", "Kontakt".
+
+Pravilo je jednostavno: **Jedna stranica = jedan jasan cilj.**
+
+Vaš Call-to-Action mora da bude direktan. "Zakažite besplatne konsultacije", "Zatražite ponudu", "Kupite odmah". 
+Ne ostavljajte korisniku opciju da razmišlja šta treba sledeće da uradi. Vodite ga za ruku. Povećanje konverzije (CRO) se uvek svodi na uklanjanje frikcije.
+
+{{cro-cta}}
+
+## 3. Imate karakteristike, ali nemate benefite
+
+Ljude ne zanimaju tehničke specifikacije vašeg proizvoda, osim ako su već odlučili da ga kupe i samo porede modele. 
+Ljude zanima **kako vaš proizvod rešava njihov problem**.
+
+Većina sajtova prodaje "Karakteristike":
+- "Naš softver ima 256-bitnu enkripciju."
+- "Ova jakna je napravljena od Gore-Tex materijala."
+- "Naša agencija ima tim od 10 ljudi."
+
+Morate prevesti karakteristike u Benefite:
+- "Vaši podaci su 100% bezbedni od hakera."
+- "Ostaćete potpuno suvi i na najjačem pljusku."
+- "Imate ceo tim stručnjaka za [cene digitalnog marketinga](/cene-digitalnog-marketinga) u rangu jedne prosečne plate."
+
+Niko ne kupuje burgiju od 8 milimetara zato što želi burgiju. Ljudi kupuju burgiju jer im treba rupa od 8 milimetara u zidu.
+
+## Zaključak
+
+Prestanite da plaćate skupe oglase dok ne sredite stranicu na koju šaljete ljude. Popravite naslove, dodajte jasan poziv na akciju i prevedite tehničke opise u jasne benefite.
+
+Ako niste sigurni gde vaš sajt "prokišnjava" i zašto posetioci ne postaju kupci, [javite nam se](/kontakt) za besplatan audit konverzije. Pokazaćemo vam tačno šta da promenite da biste od postojećeg saobraćaja napravili merljiv profit.
+`
+  },
+
 
   {
     slug: 'google-ads-cena-po-kliku-srbija-2026',

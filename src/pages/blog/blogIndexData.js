@@ -3,6 +3,24 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "facebook-vs-instagram-oglasi-gde-je-vasa-publika",
+    "title": "Facebook vs Instagram oglasi: gde je zaista vaša publika u 2026?",
+    "excerpt": "Puštate isti oglas i na Facebook i na Instagram? To je najbrži način da spalite budžet. Otkrijte psihološku razliku između ove dve platforme i kako da prilagodite kampanje.",
+    "date": "2026-03-31",
+    "category": "Marketing",
+    "readTime": "6 min read",
+    "isDraft": false
+  },
+  {
+    "slug": "zasto-vas-sajt-ne-prodaje-sta-promeniti",
+    "title": "Zašto vaš sajt ne prodaje (i šta da promenite danas)",
+    "excerpt": "Imate dobar proizvod, plaćate reklame i imate posete na sajtu, ali niko ne kupuje. Otkrijte 3 najčešće greške zbog kojih vaš sajt ne konvertuje i kako da ih odmah popravite.",
+    "date": "2026-03-30",
+    "category": "Marketing",
+    "readTime": "6 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-cena-po-kliku-srbija-2026",
     "title": "Google Ads cena po kliku u Srbiji 2026: realni rasponi po niši",
     "excerpt": "Koliko tačno košta klik na Google oglasima u Srbiji? Saznajte realne CPC raspone za vašu industriju i zašto najjeftiniji klik često donosi najveći gubitak budžeta.",
@@ -1980,15 +1998,6 @@ export const blogIndexPosts = [
     "date": "2026-02-27",
     "category": "CRO",
     "readTime": "8 min",
-    "isDraft": false
-  },
-  {
-    "slug": "facebook-vs-instagram-oglasi-gde-je-vasa-publika",
-    "title": "Facebook vs Instagram oglasi: gde je vaÅ¡a publika?",
-    "excerpt": "Obe platforme koriste isti Ads Manager, ali publika se ponaÅ¡a potpuno drugacije. PogreÅ¡an izbor platforme znaci bacanje budÅ¾eta.",
-    "date": "2026-02-27",
-    "category": "Marketing",
-    "readTime": "7 min",
     "isDraft": false
   },
   {
