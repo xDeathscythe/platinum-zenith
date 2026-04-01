@@ -1,18 +1,19 @@
-import { useState, useEffect } from 'react'
+import { useState, useEffect, lazy, Suspense } from 'react'
 import { useParams, Link, useLocation } from 'react-router-dom'
 import { blogPostBySlug, blogPostIndex } from './blogDataIndex'
 import { blogIllustrationMap } from './BlogIllustrations'
-import BuyerPyramid from './BuyerPyramid'
-import FunnelComparison from './FunnelComparison'
-import AdAnatomy from './AdAnatomy'
-import DopamineFormula from './DopamineFormula'
-import FbHero from './illustrations/FbHero'
-import FbNewsfeed from './illustrations/FbNewsfeed'
-import FbCreativeTypes from './illustrations/FbCreativeTypes'
-import PyramidHero from './illustrations/PyramidHero'
-import PyramidGoogleAds from './illustrations/PyramidGoogleAds'
-import PyramidFullFunnel from './illustrations/PyramidFullFunnel'
-import SpeedImpactChart from './SpeedImpactChart'
+
+const BuyerPyramid = lazy(() => import('./BuyerPyramid'))
+const FunnelComparison = lazy(() => import('./FunnelComparison'))
+const AdAnatomy = lazy(() => import('./AdAnatomy'))
+const DopamineFormula = lazy(() => import('./DopamineFormula'))
+const FbHero = lazy(() => import('./illustrations/FbHero'))
+const FbNewsfeed = lazy(() => import('./illustrations/FbNewsfeed'))
+const FbCreativeTypes = lazy(() => import('./illustrations/FbCreativeTypes'))
+const PyramidHero = lazy(() => import('./illustrations/PyramidHero'))
+const PyramidGoogleAds = lazy(() => import('./illustrations/PyramidGoogleAds'))
+const PyramidFullFunnel = lazy(() => import('./illustrations/PyramidFullFunnel'))
+const SpeedImpactChart = lazy(() => import('./SpeedImpactChart'))
 
 const componentMap = {
   '{{pyramid}}': BuyerPyramid,
@@ -397,7 +398,13 @@ export default function BlogPostPage() {
       const Comp = componentMap[trimmed]
       elements.push(
         <div key={key++} className="blog-wide">
-          <Comp />
+          <Suspense
+            fallback={
+              <div className="w-full min-h-[220px] rounded-[24px] border border-edge bg-panel animate-pulse" aria-hidden="true" />
+            }
+          >
+            <Comp />
+          </Suspense>
         </div>
       )
       continue
