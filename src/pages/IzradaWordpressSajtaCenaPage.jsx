@@ -212,6 +212,33 @@ const quoteSteps = [
   },
 ]
 
+const quoteRedFlags = [
+  {
+    title: 'Ponuda je samo brojka bez razbijenog scope-a',
+    text: 'Ako ne vidiš šta ulazi u cenu po stavkama, vrlo verovatno ćeš kasnije doplaćivati “sitnice” koje uopšte nisu sitnice. Dobra WordPress ponuda mora jasno da odvoji dizajn, development, QA, launch i post-launch obaveze.',
+    route: '/consulting',
+    routeLabel: 'Kako da proveriš da li je ponuda zdravo složena',
+  },
+  {
+    title: 'Niko ne pominje staging, backup i ownership pristupa',
+    text: 'To je jedna od najskupljih rupa. Kada projekat krene po zlu, tek tada svi shvate koliko vredi staging, backup i jasan vlasnik naloga. Ako to nije u ponudi, rizik nije mali nego ogroman.',
+    route: '/blog/odrzavanje-wordpress-sajta-cena-srbija-2026',
+    routeLabel: 'Šta održavanje stvarno mora da pokrije',
+  },
+  {
+    title: 'Cena deluje nisko jer su SEO, tracking i sadržaj ostavljeni za posle',
+    text: 'Mnogo “jeftinih” sajtova ispadne skupo tek posle launch-a, kada krene doplata za SEO strukturu, forme, event tracking i dorade koje su morale da budu planirane od početka.',
+    route: '/seo-optimizacija-cena',
+    routeLabel: 'Pogledaj šta nastaje kada SEO ostane van početnog plana',
+  },
+  {
+    title: 'Nema plana šta sajt radi kada krene saobraćaj',
+    text: 'Sajt bez post-launch plana često ostane lep PDF na internetu. Ako u ponudi ne postoji bar osnovna priča o akviziciji, konverziji i sledećim iteracijama, cena nije realna nego nepotpuna.',
+    route: '/google-reklame-cena',
+    routeLabel: 'Kako se sajt uklapa sa budžetom za akviziciju',
+  },
+]
+
 const mistakes = [
   {
     title: 'Kupovina najjeftinije ponude',
@@ -510,6 +537,35 @@ export default function IzradaWordpressSajtaCenaPage() {
       </section>
 
       <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[980px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
+          <h2 className="text-[24px] md:text-[30px] font-medium text-ink mb-4 text-center">Kako da prepoznaš nerealno jeftinu WordPress ponudu</h2>
+          <p className="text-[15px] text-ink-3 text-center mb-8 max-w-[760px] mx-auto">
+            Niska cifra sama po sebi nije problem. Problem je kada je ponuda niska zato što su važne stvari prećutane, izbačene ili gurnute za kasnije. Tada tek posle launch-a kreće pravo plaćanje.
+          </p>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {quoteRedFlags.map((item) => (
+              <div key={item.title} className="rounded-[14px] border border-edge bg-bg p-5 md:p-6">
+                <h3 className="text-[16px] font-medium text-ink mb-3">{item.title}</h3>
+                <p className="text-[14px] text-ink-2 leading-relaxed mb-4">{item.text}</p>
+                <Link to={item.route} className="text-[13px] text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+                  {item.routeLabel}
+                </Link>
+              </div>
+            ))}
+          </div>
+
+          <p className="text-[14px] text-ink-3 leading-relaxed mt-8 text-center max-w-[760px] mx-auto">
+            Ako već imaš ponudu na stolu i nisi siguran da li je realna ili će te kasnije udariti kroz dorade, licence i maintenance, pošalji je kroz{' '}
+            <Link to="/kontakt" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+              kontakt formu
+            </Link>{' '}
+            i reći ćemo ti šta je stvarno uključeno, a šta verovatno tek dolazi na naplatu.
+          </p>
+        </div>
+      </section>
+
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[760px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
           <h2 id="handover-deliverables" className="text-[22px] md:text-[28px] font-medium text-ink mb-5">Sta mora da bude deo handover-a</h2>
           <p className="text-[14px] text-ink-3 leading-relaxed mb-5">
@@ -604,9 +660,9 @@ export default function IzradaWordpressSajtaCenaPage() {
               <div className="text-[14px] font-medium text-ink mb-1">Cene digitalnog marketinga</div>
               <div className="text-[12px] text-ink-3">Šira slika kada sajt povezujete sa rastom</div>
             </Link>
-            <Link to="/blog/izrada-landing-stranice-cena-rokovi" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
-              <div className="text-[14px] font-medium text-ink mb-1">Cena landing stranice</div>
-              <div className="text-[12px] text-ink-3">Kada vam ne treba ceo sajt već jedna jaka strana</div>
+            <Link to="/blog/kako-napraviti-landing-stranicu-koja-konvertuje" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+              <div className="text-[14px] font-medium text-ink mb-1">Landing stranica koja konvertuje</div>
+              <div className="text-[12px] text-ink-3">Kad vam treba jedna prodajna strana, ne ceo sajt</div>
             </Link>
             <Link to="/cene-izrade-sajta" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
               <div className="text-[14px] font-medium text-ink mb-1">Cene izrade sajta</div>
