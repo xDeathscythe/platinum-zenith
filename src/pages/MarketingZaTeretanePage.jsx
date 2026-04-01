@@ -96,6 +96,33 @@ const firstMonth = [
   },
 ]
 
+const gymModes = [
+  {
+    title: 'Teretana koja hoce vise probnih treninga',
+    text: 'Ako vam je najveci problem da ljudi ne naprave prvi korak, marketing mora da skine trenje. Tu rade jasna ponuda za probni dolazak, lokalna vidljivost i poruka koja coveku odmah objasni zasto da udje bas u vasu salu, a ne da nastavi da skroluje.',
+    route: '/google-reklame-cena',
+    routeLabel: 'Kada lokalna pretraga zatvara bolje od sirokog reach-a',
+  },
+  {
+    title: 'Sala koja zeli vise standardnih clanarina',
+    text: 'Ovde nije dovoljno samo dovesti ljude na prvi trening. Treba dovesti publiku kojoj odgovaraju lokacija, raspored, atmosfera i cenovni okvir. Ako to ne filtrirate unapred, dobijate mnogo upita, a malo stvarno dobrih upisa.',
+    route: '/cene-digitalnog-marketinga',
+    routeLabel: 'Kako da paket i budzet pratite po kvalitetu upisa, ne po aktivnosti',
+  },
+  {
+    title: 'Studio koji prodaje premium coaching ili manje grupe',
+    text: 'Kad je usluga skuplja, nije poenta da oglasi dovuku sto vise ljudi. Poenta je da dovedu pravu vrstu clana. Tu vise rade trust, rezultati, profil trenera i precizna poruka nego generican fitnes content za svakoga.',
+    route: '/instagram-reklame-cena',
+    routeLabel: 'Kako Meta kampanje izgledaju kada jurite kvalitetniji lead, ne samo veci broj DM poruka',
+  },
+  {
+    title: 'Teretana koja ima upise, ali gubi clanove prebrzo',
+    text: 'Ako churn jede sav trud, problem vise nije samo akvizicija. Problem je sto nema dovoljno dobrog onboarding-a, follow-up-a i razloga da clan ostane posle prvog talasa motivacije. Tada marketing mora da pomogne i retenciji, ne samo upisu.',
+    route: '/industrije/lokalni-biznisi',
+    routeLabel: 'Sta lokalni biznis mora da sredi kada ga rast preraste',
+  },
+]
+
 const faqs = [
   {
     q: 'Da li teretani vise odgovara Google ili Instagram marketing?',
@@ -227,6 +254,31 @@ export default function MarketingZaTeretanePage() {
               </div>
             ))}
           </div>
+        </div>
+      </section>
+
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[980px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
+          <div className="max-w-[760px] mx-auto text-center mb-8">
+            <h2 className="text-[24px] md:text-[30px] font-medium text-ink mb-3">Sta radi za probni trening, clanarinu i premium coaching</h2>
+            <p className="text-[15px] text-ink-2 leading-relaxed">
+              Nije svakoj teretani potreban isti marketing. Nekome je prioritet da covek samo dodje prvi put, nekome da pretvori probni trening u clanarinu, a nekome da proda skuplji coaching ili manje grupe. Kad to ne odvojite, marketing lako pravi buku, ali ne i zdrav rast.
+            </p>
+          </div>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {gymModes.map((item) => (
+              <div key={item.title} className="rounded-[16px] border border-edge bg-page p-5 md:p-6">
+                <h3 className="text-[18px] font-medium text-ink mb-3">{item.title}</h3>
+                <p className="text-[14px] text-ink-2 leading-relaxed mb-4">{item.text}</p>
+                <Link to={item.route} className="text-[13px] text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+                  {item.routeLabel}
+                </Link>
+              </div>
+            ))}
+          </div>
+          <p className="text-[14px] text-ink-3 leading-relaxed mt-8 text-center max-w-[760px] mx-auto">
+            Ako niste sigurni da li sala prvo treba da gura probni trening, standardne clanarine, premium coaching ili retenciju, posaljite nam kratak opis kroz <Link to="/kontakt" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">kontakt formu</Link> i reci cemo vam sta ima najvise smisla da ide prvo.
+          </p>
         </div>
       </section>
 
