@@ -498,9 +498,9 @@ Ako niste sigurni gde se nalazi vaša publika i zašto trenutne kampanje ne daju
   {
     slug: 'google-ads-cena-po-kliku-srbija-2026',
     title: 'Google Ads cena po kliku u Srbiji 2026: realni rasponi po niši',
-    excerpt: 'Koliko tačno košta klik na Google oglasima u Srbiji? Saznajte realne CPC raspone za vašu industriju i zašto najjeftiniji klik često donosi najveći gubitak budžeta.',
-    date: '2026-03-29',
-    readTime: '6 min read',
+    excerpt: 'Koliko zaista košta klik na Google Ads u Srbiji 2026? Pogledajte realne CPC raspone po niši, šta ih najviše diže i kako da procenite da li je vaš klik zdrav ili preskup.',
+    date: '2026-04-01',
+    readTime: '8 min read',
     category: 'Marketing',
     author: 'Aleksandar Nenadović',
     role: 'Founder',
@@ -508,63 +508,130 @@ Ako niste sigurni gde se nalazi vaša publika i zašto trenutne kampanje ne daju
     tags: ['Google Ads', 'PPC', 'Budžet'],
     image: 'analytics.jpg',
     content: `
-Pitanje "koliko košta klik na Google-u" je verovatno najčešće pitanje koje vlasnici firmi postavljaju pre pokretanja kampanje. Iako mnogi traže jedan univerzalan broj, takav broj ne postoji. Sistem funkcioniše kao aukcija u realnom vremenu.
+Kada neko pita "koliko košta klik na Google Ads", obično traži jedan broj koji će mu rešiti dilemu oko budžeta.
 
-Cena zavisi od toga šta prodajete, kome prodajete i koliko su vaši konkurenti spremni da plate za tog istog kupca.
+Problem je što takav broj ne postoji.
+Klik za lokalnog vodoinstalatera, privatnu kliniku i B2B softver ne može da košta isto. Čak ni dva ista biznisa ne moraju da plaćaju isti klik ako se razlikuju grad, konkurencija, kvalitet oglasa i stranica na koju šalju saobraćaj.
 
-Ipak, podaci sa tržišta jasno pokazuju proseke. Ako planirate Google Ads budžet za 2026. godinu, ovo su realni rasponi cene po kliku (CPC) u Srbiji.
+Ako vam treba kratak odgovor, realan raspon za srpsko tržište u 2026. je otprilike od **0,10€ do 3,20€+ po kliku**. Ali taj raspon bez konteksta ne vredi mnogo. Bitno je da znate gde ste na tržištu i da li taj klik donosi upit koji ima smisla za vaš biznis.
 
-## Prosečne cene po industrijama u Srbiji
+## Realni CPC rasponi po niši u Srbiji
 
-**Lokalne usluge (zanati, popravke, servisi)**  
-Ovo je najkonkurentnije polje za takozvane "hitne" pretrage. Kada nekome pukne cev, taj neko ne gleda pet sajtova. On zove prvog na listi. Zbog toga firme licitiraju agresivno.
-- **Prosečan CPC:** 0,40€ do 1,50€
-- **Ekstremni slučajevi:** Hitne intervencije u Beogradu mogu ići i preko 2,50€ po kliku, jer jedan posao donosi veliku zaradu.
+Ovo su zdravi početni benchmark rasponi za planiranje Search kampanja u 2026. godini:
 
-**Medicinske i stomatološke usluge**  
-Konkurencija među privatnim klinikama je u stalnom porastu. Pacijenti traže konkretne procedure (implantati, fiksne proteze, estetska hirurgija).
-- **Prosečan CPC:** 0,50€ do 2,00€
-- Vrednost pacijenta (LTV) je visoka, pa su poliklinike spremne da plate više za poziciju broj jedan.
+**Lokalne usluge i manji servisi**  
+Frizeri, saloni, manji servisi, lokalne agencije.
+- **Tipičan CPC:** 0,10€ do 0,55€
+- Lokalni upiti sa manjom konkurencijom često prolaze povoljnije, ali volumen pretrage nije veliki.
 
-**E-commerce (online prodaja)**  
-Kod online prodavnica, cene po kliku su niže, ali je potreban veći obim saobraćaja da bi se ostvarila konverzija. 
-- **Prosečan CPC:** 0,08€ do 0,40€
-- U e-commerce sektoru, pametnije je koristiti Performance Max i Shopping kampanje nego klasičnu pretragu za generičke pojmove.
+**Hitne i terenske usluge**  
+Vodoinstalateri, klime, stolarija, servisne intervencije.
+- **Tipičan CPC:** 0,35€ do 1,50€
+- U većim gradovima i urgent scenarijima klik lako ode i preko 2€ jer korisnik traži rešenje odmah.
 
-**B2B, softveri i industrijska oprema**  
-Kada prodajete mašinu od 30.000 evra ili mesečnu licencu za softver, pretraga je malo. Samim tim, svaki klik vredi zlata.
-- **Prosečan CPC:** 0,80€ do 4,00+€
-- Iako klik deluje skupo, donosi klijente sa ozbiljnim budžetima.
+**Medicina i stomatologija**  
+Implantati, fiksne proteze, privatne ordinacije, estetske procedure.
+- **Tipičan CPC:** 0,50€ do 2,20€
+- Klik je skuplji jer je i vrednost jednog novog pacijenta visoka.
 
-## Zašto je jeftin klik često najskuplji
+**Pravne i finansijske usluge**  
+Advokati, knjigovođe, krediti, osiguranja.
+- **Tipičan CPC:** 0,90€ do 3,20€
+- Ovo je jedna od skupljih kategorija jer više firmi gađa mali broj vrlo vrednih upita.
 
-Mnoge firme prave grešku jureći ključne reči koje koštaju 0,05€. Problem je u nameri korisnika (search intent). 
+**B2B usluge, softver i industrija**  
+Softverske firme, industrijska oprema, consulting, kompleksne usluge.
+- **Tipičan CPC:** 0,70€ do 2,50€
+- Klik deluje skup, ali i jedan kvalitetan lead može imati ozbiljnu vrednost.
 
-Neko ko kuca "kako sam da popravim bojler" traži besplatan savet. Neko ko kuca "vodoinstalater hitno beograd" stoji u vodi do kolena i spreman je da plati odmah. 
+**E-commerce search kampanje**  
+Online prodaja, produktne kategorije, shopping intent.
+- **Tipičan CPC:** 0,10€ do 0,80€
+- Klik je često jeftiniji nego kod usluga, ali profit zavisi od marže, product page-a i checkout toka.
 
-Firma koja juri prvi pojam dobiće 100 klikova za 5 evra i nula poziva. Firma koja licitira za drugi pojam platiće 5 evra za samo dva klika, ali će dobiti klijenta. Jeftin saobraćaj bez namere za kupovinom samo troši budžet i usporava sajt.
+## Šta najviše diže cenu klika
 
-> Klik bez namere za kupovinom je čist trošak. Klik sa pravom namerom je investicija.
+Većina ljudi misli da Google jednostavno "odredi cenu". U praksi, CPC najviše skače zbog četiri stvari:
 
-## Ocena kvaliteta (Quality Score) menja cenu
+1. **Konkurencija za isti upit**  
+Ako više oglašivača želi istu publiku u istom trenutku, klik poskupljuje. To se posebno vidi kod pravnih, medicinskih i hitnih usluga.
 
-Google nagrađuje sajtove koji korisnicima daju tačno ono što traže. Ako je vaša reklama za "knjigovodstvene usluge", a vodi na stranicu o vama umesto na konkretnu ponudu za firme, Google će vas kazniti.
+2. **Namera korisnika**  
+Upit "šta je CRM" i upit "CRM softver cena" nisu isti svet. Drugi je skoro uvek skuplji, ali često i mnogo vredniji.
 
-Niska ocena kvaliteta znači da ćete plaćati i do 50% skuplji klik od konkurenta samo da biste ostali na istoj poziciji. Sa druge strane, odlično strukturirana [landing stranica](/web-design) obara vašu cenu po kliku. Zato optimizacija samog sajta uvek mora ići pre puštanja oglasa.
+3. **Kvalitet oglasa i CTR**  
+Slab oglas tera Google da vam naplati više da biste ostali konkurentni. Bolji CTR često znači niži CPC za istu poziciju.
+
+4. **Landing stranica i Quality Score**  
+Ako oglas obeća jedno, a klik vodi na generičku stranicu bez jasne ponude, Google to kažnjava. Zato dobra [landing stranica koja konvertuje](/blog/kako-napraviti-landing-stranicu-koja-konvertuje) nije "lep dodatak" nego direktan deo CPC matematike.
+
+## Zašto isti biznis ne plaća isti klik u svakom gradu
+
+Ista usluga u Beogradu i u manjem gradu retko ima isti trošak.
+
+U Beogradu je konkurencija veća, više firmi licitira za iste komercijalne termine i kvalitet oglasa mora da bude bolji da biste zadržali zdrav CPC. U manjim gradovima klik je često jeftiniji, ali je i broj pretraga manji, pa kampanja mora da bude uža i preciznija.
+
+Zato poređenje sa tuđim CPC-em ima smisla samo ako poredite sličnu nišu, sličan grad i sličan intent.
+
+## Jeftin klik često je najskuplji klik
+
+Ovo je deo koji ljudi najčešće promaše.
+
+Klik od 0,08€ može da izgleda sjajno u izveštaju, ali ako dovodi publiku koja samo istražuje i ne planira kupovinu, taj klik je zapravo skup. Sa druge strane, klik od 1,20€ može biti odličan ako dovodi osobu koja traži cenu, termin ili ponudu i ostavlja upit istog dana.
+
+Neko ko kuca "kako radi podno grejanje" verovatno traži informacije. Neko ko kuca "ugradnja podnog grejanja cena beograd" mnogo je bliže kupovini.
+
+Zato nemojte da jurite najniži CPC. Jurite klik koji vodi do zdravog **CPA** i kvalitetnog leada.
+
+> Nizak CPC bez kupovne namere nije ušteda. To je samo jeftin način da potrošite budžet.
+
+## Kako da izračunate prvi test budžet
+
+Najjednostavniji model za prvi mesec izgleda ovako:
+
+1. Uzmite realan CPC raspon za svoju nišu.
+2. Planirajte minimum **250 do 400 klikova** da biste imali smislen uzorak.
+3. Dodajte trošak upravljanja i trackinga.
+4. Tek onda procenite da li kampanja ima smisla za vaš profitni model.
+
+Primer:
+Ako očekujete prosečan CPC od 0,90€, samo za test fazu vam treba okvirno **225€ do 360€ medijskog budžeta**.
+Ako želite više ad grupa, više oglasa i brže učenje, budžet raste proporcionalno.
+
+Za širi okvir, ne samo za CPC nego za ukupan plan, pogledajte i naš vodič za [Google reklame cenu](/google-reklame-cena).
 
 {{roi-calculator-cta}}
 
-## Kako postaviti profitabilnu kampanju?
+## Kada je skup klik zapravo zdrav
 
-Fokus ne treba da bude na tome kako da smanjite cenu klika na minimum. Fokus treba da bude na ceni akvizicije klijenta (CPA). 
+Skup klik nije problem ako iza njega stoji dobar profit.
 
-Ako vas klik košta 1 evro, a svaki deseti posetilac zakaže termin, vaš klijent košta 10 evra. Ako ta usluga donosi 100 evra profita, matematiku je lako pratiti. 
+Ako klik košta 1,50€, ali od deset klikova dobijete jednog klijenta koji vam donosi 150€ profita, kampanja ima smisla. Ako klik košta 0,20€, a dovodi samo radoznale posetioce koji ništa ne urade, taj klik je loš bez obzira što je jeftin.
 
-Prestanite da merite uspeh kampanje kroz broj klikova. Merite ga kroz broj prodaja i povrat uloženog novca (ROAS).
+Zato u ozbiljnim nalozima CPC posmatrate zajedno sa:
+- stopom konverzije,
+- cenom leada,
+- kvalitetom leadova,
+- i konačnim profitom.
 
-Više o tome kako se formiraju [cene za Google reklame](/google-reklame-cena) i upravljanje celim nalogom pogledajte na našoj servisnoj stranici.
+Ako ovaj deo nije sređen, najčešće nije problem samo u oglasima nego i u stranici, ponudi ili follow-up procesu. Tu vredi uporediti CPC sa ukupnim funnel-om, pa po potrebi pogledati i [izradu WordPress sajta cenu](/izrada-wordpress-sajta-cena) ili [Instagram reklame cenu](/instagram-reklame-cena) ako planirate mešani kanal.
 
-Ako niste sigurni kako da strukturirate budžet i izaberete prave ključne reči za vašu industriju, [zakažite besplatne konsultacije](/kontakt). Pomoći ćemo vam da postavite sistem koji generiše kvalitetne upite, a ne prazan saobraćaj.
+## Najčešće greške zbog kojih CPC nepotrebno raste
+
+U praksi se iste stvari ponavljaju:
+- preširoke ključne reči bez dovoljno negativnih pojmova,
+- slabi oglasi sa malim CTR-om,
+- loš raspored ad grupa i mešanje različitih namera u jednoj kampanji,
+- generična landing stranica koja ne prati upit,
+- i optimizacija po "jeftinom kliku" umesto po kvalitetnom leadu.
+
+Kad se sve to skupi, kampanja izgleda kao da je Google preskup. U stvarnosti je setup loš.
+
+## Zaključak
+
+Google Ads cena po kliku u Srbiji 2026. nema jednu prosečnu vrednost koja svima pomaže. Ima smisla tek kada je vežete za svoju nišu, svoj grad i kvalitet leadova koje želite da dobijete.
+
+Ako želite, možemo da vam izračunamo realan CPC raspon za vašu industriju, prvi test budžet i koje ključne reči imaju smisla da probate prve. Javite se preko [kontakt forme](/kontakt), pa ćemo to razložiti bez nagađanja i bez praznih obećanja.
 `
   },
 
@@ -20113,119 +20180,6 @@ Ako ï¿½eliï¿½ da ponudu veï¿½eï¿½ i za kvalitet destinacije posle kl
 Hormozi value equation nije trik za copywriting â€” to je okvir da ponuda bude jasnija, vrednija i lakÅ¡a za kupovinu.
 Ako ï¿½eliï¿½, moÅ¾emo da rastavimo tvoju trenutnu ponudu i sloÅ¡imo novu verziju po ovom modelu za tvoju niï¿½u. Javi se preko [kontakt forme](/kontakt).
 `,
-  },
-  {
-    slug: 'google-ads-cena-po-kliku-srbija-2026',
-    title: 'Google Ads cena po kliku u Srbiji 2026: realni CPC rasponi po nisama',
-    excerpt: 'Koliko klik na Google Ads realno kosta u Srbiji 2026, koji su CPC rasponi po nisama i kako da procenis da li placas zdrav klik ili samo skup saobracaj.',
-    date: '2026-03-14',
-    category: 'Google Ads',
-    readTime: '12 min',
-    content: `
-## Google Ads cena po kliku u Srbiji 2026: kratak odgovor
-
-Ako trazis jednu "prosecnu" cenu klika za celo trziste, kreces od pogresnog pitanja.
-Klik za frizerski salon u Zrenjaninu i klik za advokata u Beogradu ne mogu da kostaju isto, niti treba da kostaju isto.
-
-U praksi se **Google Ads cena po kliku u Srbiji 2026** najcesce krece od oko **0.15e do 3.20e+**, ali taj raspon sam po sebi ne govori mnogo.
-Bitnije je da znas iz koje nise dolazis, kakav intent gadjas i da li taj klik donosi upit koji vredi.
-
-Za siri okvir ukupnog ulaganja (ne samo CPC) pogledaj i [Google reklame cena](/google-reklame-cena).
-
-## Realni CPC rasponi po industrijama (Search, Srbija)
-
-Ovo su prakticni benchmark rasponi za start planiranja u 2026:
-
-- **Lokalne usluge (frizeri, saloni, manji servisi):** 0.15e-0.55e
-- **Kucne/terenske usluge (klime, stolarija, vodoinstalater):** 0.35e-1.35e
-- **Medicina i stomatologija (privatni sektor):** 0.65e-2.10e
-- **Pravne i finansijske usluge:** 1.00e-3.20e
-- **B2B usluge (software, industrija, consulting):** 0.75e-2.40e
-- **E-commerce Search (zavisno od kategorije):** 0.20e-1.25e
-
-Ovi brojevi su orijentir, ne garancija. Korisni su da brzo procenis da li tvoj nalog radi u zdravom opsegu ili postoji curenje budzeta.
-
-## Zasto isti biznis ne placa isti klik u svakom gradu
-
-Ista usluga cesto ima drugaciji CPC izmedju Beograda, Novog Sada, Nisa i manjih gradova.
-Glavni razlozi su:
-
-1. broj aktivnih oglasivaca na istim terminima,
-2. snaga istorije naloga i quality signala,
-3. odnos mobile vs desktop saobracaja,
-4. hitnost upita (npr. "odmah" scenariji),
-5. kvalitet landing stranice koja prima klik.
-
-Ako landing stranica ne prati poruku oglasa 1:1, Quality Score pada i klik poskupljuje.
-Za post-click deo korisno je da procenis i [izradu WordPress sajta cena](/izrada-wordpress-sajta-cena).
-
-## Intent menja CPC vise nego sto vecina ocekuje
-
-Cena klika ne zavisi samo od reci, nego od **namere**.
-
-- **Informativni intent** ("sta je", "kako radi") cesto ima nizi CPC, ali slabiji komercijalni signal.
-- **Komercijalni intent** ("cena", "ponuda", "agencija") cesto ima visi CPC i vecu sansu za lead.
-- **Transakcioni intent** ("zakazi", "kontakt", "kupovina") je cesto najskuplji, ali i najvredniji.
-
-Zato kampanju ne treba optimizovati za "najnizi CPC", vec za **CPL i kvalitet lead-a**.
-
-## Kako da iz CPC-a izracunas realan test budzet
-
-Praktican model za prvi mesec:
-
-1. definisi realan CPC raspon za svoju industriju,
-2. planiraj minimum 250-400 klikova za smislen uzorak,
-3. dodaj trosak upravljanja i tracking setup-a,
-4. postavi prag kvaliteta lead-a pre skaliranja.
-
-Primer:
-Ako ocekujes prosek oko 0.90e po kliku, medijski test budzet je okvirno **225e-360e**.
-Ako zelis brze ucenje sa vise ad grupa i testova oglasa, budzet mora da raste proporcionalno.
-
-Za poredjenje sa social kanalom pogledaj [Instagram reklame cena](/instagram-reklame-cena), a za kompletan miks i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
-
-## Najcesci razlozi zbog kojih CPC nepotrebno raste
-
-U vecini naloga CPC "bezi" nagore zbog iste kombinacije gresaka:
-
-- previse sirok keyword set bez discipline negativnih reci,
-- slabi oglasi i nizak CTR,
-- ad grupe bez jasnog intent fokusa,
-- landing koji ne odgovara query-ju i obecanju iz oglasa,
-- retka analiza search terms izvestaja,
-- oslanjanje na automatiku bez kontrole kvaliteta upita.
-
-Ako ti kampanja trosi budzet a leadovi nisu upotrebljivi, cesto je problem i u konverzionoj putanji. Tu pomaze i [SEO optimizacija cena](/seo-optimizacija-cena) kada zelis dugorocno stabilniji traffic miks.
-
-## 30-dnevni plan za zdraviji CPC i bolji kvalitet upita
-
-- **Nedelja 1:** segmentacija kampanja po intentu + osnovni keyword klasteri.
-- **Nedelja 2:** search terms ciscenje + negativne reci + gasenje otpada.
-- **Nedelja 3:** dorada oglasa i landing sekcija sa slabim CR-om.
-- **Nedelja 4:** preraspodela budzeta na ad grupe sa najboljim CPL trendom.
-
-Na kraju meseca glavno pitanje nije "koliko je klik", nego **koliko kosta kvalifikovan lead koji mozes da zatvoris**.
-
-## Zakljucak
-
-CPC je koristan kompas, ali nije cilj.
-Ako klik kosta malo, a dovodi lose upite, kampanja je i dalje skupa. Ako klik kosta vise, a dovodi posao koji mozes da zatvoris, taj CPC moze biti sasvim zdrav.
-
-Najgora greska je da budzet planiras po nekoj "prosecnoj ceni klika" sa interneta.
-Mnogo je pametnije da krenes od svoje nise, svoje marze i kvaliteta leadova koje zelis da dobijes.
-
-Ako hoces, mogu da ti slozim brz benchmark za tvoju industriju (CPC raspon + test budzet + prve optimizacije) preko [kontakt forme](/kontakt).
-`,
-    schema: {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "headline": "Google Ads cena po kliku u Srbiji 2026: realni CPC rasponi po nisama",
-      "datePublished": "2026-03-14",
-      "author": { "@type": "Organization", "name": "Platinum Zenith" },
-      "publisher": { "@type": "Organization", "name": "Platinum Zenith", "url": "https://platinumzenith.com" },
-      "description": "Koliko klik na Google Ads realno kosta u Srbiji 2026, koji su CPC rasponi po nisama i kako da procenis da li placas zdrav klik ili samo skup saobracaj.",
-      "mainEntityOfPage": "https://platinumzenith.com/blog/google-ads-cena-po-kliku-srbija-2026"
-    }
   },
   {
     slug: 'vodjenje-google-ads-kampanja-cena-srbija-2026',
