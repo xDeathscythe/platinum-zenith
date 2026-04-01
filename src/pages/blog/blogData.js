@@ -39,7 +39,7 @@ Kada angažujete jeftinu agenciju, oni vam obično kažu: *"Samo nam pošaljite 
 Ovo je recept za katastrofu. Kao vlasnik firme, vi ste stručnjak za svoj proizvod, ali niste stručnjak za pisanje prodajnih web tekstova. Vi ćete napisati tekst koji je previše dugačak, previše tehnički i koji se fokusira na vas, a ne na probleme kupca.
 
 Ozbiljna izrada landing stranice **uvek uključuje copywriting**.
-Profesionalni copywriter ne piše tekst da bi "popunio prostor". On piše naslove koji zadržavaju pažnju i bullet poene koji [otklanjaju sumnje](/blog/zasto-vas-sajt-ne-prodaje-sta-promeniti). On zna kako da napiše "Above the fold" sekciju koja u 3 sekunde objašnjava šta prodajete i zašto je to bitno.
+Profesionalni copywriter ne piše tekst da bi "popunio prostor". On piše naslove koji zadržavaju pažnju i bullet poene koji [otklanjaju sumnje](/blog/zasto-vas-sajt-ne-prodaje). On zna kako da napiše "Above the fold" sekciju koja u 3 sekunde objašnjava šta prodajete i zašto je to bitno.
 
 Pisanje vrhunskog prodajnog teksta traje duže nego sam dizajn stranice, i zato drastično utiče na cenu.
 

@@ -216,6 +216,33 @@ const budgetPlannerSteps = [
   'Budžet postavi tako da u prvih 30 dana dobiješ dovoljno podataka za optimizaciju (minimum 200-400 klikova).',
 ]
 
+const readinessWarnings = [
+  {
+    title: 'Marža vam je tanka i svaki klik boli',
+    text: 'Ako prodajete proizvod ili uslugu sa niskom maržom, Google Ads može vrlo brzo da pojede profit. U toj situaciji prvo treba izračunati realan maksimalni CPA, pa tek onda paliti kampanju.',
+    route: '/cene-digitalnog-marketinga',
+    routeLabel: 'Pogledajte kako da složite ukupan marketing budžet',
+  },
+  {
+    title: 'Landing stranica još ne zatvara dovoljno dobro',
+    text: 'Ako klik šaljete na spor homepage ili stranicu bez jasne ponude, Google neće biti problem. Problem će biti konverzija. Tada prvo treba srediti stranicu, tracking i CTA.',
+    route: '/izrada-wordpress-sajta-cena',
+    routeLabel: 'Proverite šta ulazi u dobru prodajnu stranicu',
+  },
+  {
+    title: 'Nema ko da obradi lead u roku od 5 do 15 minuta',
+    text: 'Google Ads dovodi ljude koji već traže rešenje. Ako odgovor stigne sutra, pola vrednosti ste već izgubili. Pre lansiranja rešite proces odgovora, skriptu za prodaju i ownership nad leadovima.',
+    route: '/consulting',
+    routeLabel: 'Sredite funnel i prodajni proces pre skaliranja',
+  },
+  {
+    title: 'Kupac još nije u fazi aktivne pretrage',
+    text: 'Za neke ponude ljudi prvo moraju da vide problem, pa tek onda da traže rešenje. U tom slučaju Google Ads nije dovoljan sam. Potreban je i kanal koji gradi pažnju i potražnju.',
+    route: '/instagram-reklame-cena',
+    routeLabel: 'Uporedite kada više smisla ima Instagram kanal',
+  },
+]
+
 const mistakes = [
   {
     title: 'Gađanje preširokih ključnih reči',
@@ -597,6 +624,35 @@ export default function GoogleReklameCenaPage() {
               </Link>.
             </p>
           </div>
+        </div>
+      </section>
+
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[980px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
+          <h2 className="text-[24px] md:text-[30px] font-medium text-ink mb-4 text-center">Kada Google Ads ne treba da bude prvi potez</h2>
+          <p className="text-[15px] text-ink-3 text-center mb-8 max-w-[760px] mx-auto">
+            Google Ads hvata postojeću potražnju. Ako osnova nije sređena, klikovi samo brže pokažu gde sistem puca. Zato vredi proveriti četiri stvari pre nego što povećate budžet.
+          </p>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {readinessWarnings.map((item) => (
+              <div key={item.title} className="rounded-[14px] border border-edge bg-page/40 p-5 md:p-6">
+                <h3 className="text-[16px] font-medium text-ink mb-3">{item.title}</h3>
+                <p className="text-[14px] text-ink-2 leading-relaxed mb-4">{item.text}</p>
+                <Link to={item.route} className="text-[13px] text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+                  {item.routeLabel}
+                </Link>
+              </div>
+            ))}
+          </div>
+
+          <p className="text-[14px] text-ink-3 leading-relaxed mt-8 text-center max-w-[760px] mx-auto">
+            Ako želite da proverite da li je problem u budžetu, poruci ili stranici na koju šaljete saobraćaj, pošaljite nam URL kroz{' '}
+            <Link to="/kontakt" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+              kontakt formu
+            </Link>{' '}
+            i vratićemo vam iskren okvir šta prvo treba srediti.
+          </p>
         </div>
       </section>
 
