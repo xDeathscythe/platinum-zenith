@@ -96,6 +96,33 @@ const firstMonth = [
   },
 ]
 
+const enrollmentModes = [
+  {
+    title: 'Vrtic koji mora da popuni prazna mesta brzo',
+    text: 'Ako grupa nije puna, prioritet nije dugorocni brending nego brz i jasan put do obilaska. Tada najbolje rade lokalna pretraga, mapa, recenzije i poruka koja roditelju odmah objasni zasto da zakaze obilazak bas kod vas.',
+    route: '/google-reklame-cena',
+    routeLabel: 'Kada lokalna pretraga zatvara bolje od sirokog reach-a',
+  },
+  {
+    title: 'Vrtic koji prodaje premium program ili poseban pristup',
+    text: 'Ako nudite Montessori, dvojezicni program, manje grupe ili jaci pedagoski pristup, nije poenta da privucete sve roditelje. Poenta je da privucete one kojima je bas to vazno. Tu vise rade trust, jasan program i ozbiljan sajt nego genericka reklama.',
+    route: '/izrada-wordpress-sajta-cena',
+    routeLabel: 'Sta trazi stranica koja mora da proda program, ne samo lokaciju',
+  },
+  {
+    title: 'Vrtic koji jos nema dovoljno lokalnog poverenja',
+    text: 'Neki vrtici imaju lep prostor i dobar tim, ali ih roditelji jos ne poznaju dovoljno. Tada prvo dizete recenzije, Google profil, svakodnevne prikaze i signal bezbednosti, a tek onda pojacavate kampanje. Bez toga marketing izgleda kao reklama, a ne kao dokaz poverenja.',
+    route: '/industrije/lokalni-biznisi',
+    routeLabel: 'Sta lokalni biznis mora da sredi pre jacih kampanja',
+  },
+  {
+    title: 'Vrtic koji hoce stabilniji upis tokom cele godine',
+    text: 'Ako se oslanjate samo na glavni sezonski talas, svako prazno mesto kasnije boli mnogo vise. Tada marketing mora da radi i van spica: da hvata roditelje koji istrazuju ranije, sele se ili traze promenu vrtica usred godine.',
+    route: '/cene-digitalnog-marketinga',
+    routeLabel: 'Kako da budzet i paket vezete za realan ritam upisa, ne samo za sezonu',
+  },
+]
+
 const faqs = [
   {
     q: 'Koliki budzet treba privatnom vrticu za marketing?',
@@ -227,6 +254,31 @@ export default function MarketingZaPrivateVrticePage() {
               </div>
             ))}
           </div>
+        </div>
+      </section>
+
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[980px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
+          <div className="max-w-[760px] mx-auto text-center mb-8">
+            <h2 className="text-[24px] md:text-[30px] font-medium text-ink mb-3">Sta radi za popunu grupa, premium program i celogodisnji upis</h2>
+            <p className="text-[15px] text-ink-2 leading-relaxed">
+              Nije svakom privatnom vrticu potreban isti marketing. Nekome je prioritet da popuni prazna mesta sto pre, nekome da proda poseban program, a nekome da stabilizuje upis tokom cele godine. Kad to ne odvojite, marketing lako pravi buku, ali ne i zdravu popunjenost.
+            </p>
+          </div>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {enrollmentModes.map((item) => (
+              <div key={item.title} className="rounded-[16px] border border-edge bg-page p-5 md:p-6">
+                <h3 className="text-[18px] font-medium text-ink mb-3">{item.title}</h3>
+                <p className="text-[14px] text-ink-2 leading-relaxed mb-4">{item.text}</p>
+                <Link to={item.route} className="text-[13px] text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+                  {item.routeLabel}
+                </Link>
+              </div>
+            ))}
+          </div>
+          <p className="text-[14px] text-ink-3 leading-relaxed mt-8 text-center max-w-[760px] mx-auto">
+            Ako niste sigurni da li vrtic prvo treba da gura popunu grupa, premium program ili lokalno poverenje, posaljite nam kratak opis kroz <Link to="/kontakt" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">kontakt formu</Link> i reci cemo vam sta ima najvise smisla da ide prvo.
+          </p>
         </div>
       </section>
 
