@@ -1759,8 +1759,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "psihologija-zaradjivanja-mentalni-blokovi",
-    "title": "Psihologija zaradivanja: mentalni blokovi koji koce rast firme",
-    "excerpt": "Najveca prepreka rastu često nije tržište, vec nacin razmišljanja vlasnika firme. Evo koji mentalni blokovi koce zaradu i kako da ih razbijete.",
+    "title": "Psihologija zarađivanja: mentalni blokovi koji koče rast firme",
+    "excerpt": "Najveća prepreka rastu često nije tržište, već način razmišljanja vlasnika firme. Evo koji mentalni blokovi koče zaradu i kako da ih razbijete.",
     "date": "2026-02-20",
     "category": "Biznis",
     "readTime": "7 min",

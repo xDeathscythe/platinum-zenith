@@ -21254,77 +21254,78 @@ Niste sigurni gde da ulaete? [Javite nam se](/kontakt) i napravicemo vam plan ko
   },
   {
     slug: 'psihologija-zaradjivanja-mentalni-blokovi',
-    title: 'Psihologija zaradivanja: mentalni blokovi koji koce rast firme',
-    excerpt: 'Najveca prepreka rastu često nije tržište, vec nacin razmišljanja vlasnika firme. Evo koji mentalni blokovi koce zaradu i kako da ih razbijete.',
+    title: 'Psihologija zarađivanja: mentalni blokovi koji koče rast firme',
+    excerpt: 'Najveća prepreka rastu često nije tržište, već način razmišljanja vlasnika firme. Evo koji mentalni blokovi koče zaradu i kako da ih razbijete.',
     date: '2026-02-20',
     category: 'Biznis',
     readTime: '7 min',
     content: `
 ## Nevidljivi plafoni
 
-Postoji razlog zašto neke firme godinama zaraduju isto. Vlasnik je pametan, tržište postoji, proizvod je dobar. Ali rast se ne dešava. Ne zato što nešto ne radi, vec zato što vlasnik nesvesno koci sopstveni rast.
+Postoji razlog zašto neke firme godinama zarađuju isto. Vlasnik je pametan, tržište postoji, proizvod je dobar. Ali rast se ne dešava. Ne zato što nešto ne radi, već zato što vlasnik nesvesno koči sopstveni rast.
 
-Ovi mentalni blokovi nisu ocigledni. Niko ne kaže sebi "odlucio sam da zaradim manje nego što mogu." Ali ponašanje govori drugacije.
+Ovi mentalni blokovi nisu očigledni. Niko ne kaže sebi "odlučio sam da zaradim manje nego što mogu." Ali ponašanje govori drugačije.
 
-## Blok 1: Strah od naplacivanja pune cene
+## Blok 1: Strah od naplaćivanja pune cene
 
-Vecina vlasnika malih firmi naplacuje manje nego što bi trebalo. Ne zato što ne znaju svoju vrednost, vec zato što im je neprijatno da kau vecu cifru.
+Većina vlasnika malih firmi naplaćuje manje nego što bi trebalo. Ne zato što ne znaju svoju vrednost, već zato što im je neprijatno da kažu veću cifru.
 
-Simptomi: sniavate cenu pre nego što klijent uopte pita za popust. Radite besplatne dodatne usluge "jer ste vec tu." Izbegavate razgovor o podizanju cena sa postojecim klijentima.
+Simptomi: snižavate cenu pre nego što klijent uopšte pita za popust. Radite besplatne dodatne usluge "jer ste već tu." Izbegavate razgovor o podizanju cena sa postojećim klijentima.
 
-Realnost: klijenti koji placaju više su obicno bolji klijenti. Vie potuju vaše vreme, manje se ale i due ostaju. Nia cena ne privlaci "bolje" klijente. Privlaci klijente koji kupuju na osnovu cene.
+Realnost: klijenti koji plaćaju više su obično bolji klijenti. Više poštuju vaše vreme, manje se žale i duže ostaju. Niža cena ne privlači "bolje" klijente. Privlači klijente koji kupuju na osnovu cene.
 
-> Cena koju naplacujete je poruka tržištu o vašoj vrednosti. Niska cena ne govori "pristupacan." Govori "nisam siguran da vredi više."
+> Cena koju naplaćujete je poruka tržištu o vašoj vrednosti. Niska cena ne govori "pristupačan." Govori "nisam siguran da vredim više."
 
 ## Blok 2: Identitet vezan za naporan rad
 
-Neki vlasnici su ponosni na to koliko naporno rade. 70 sati nedeljno, bez odmora, sve rade sami. Ovo izgleda kao posvecenost ali je zapravo zamka.
+Neki vlasnici su ponosni na to koliko naporno rade. 70 sati nedeljno, bez odmora, sve rade sami. Ovo izgleda kao posvećenost, ali je zapravo zamka.
 
-Kad je vaš identitet vezan za "koliko radite," delegiranje se oseca kao gubitak. Automatizacija se oseca kao lenjost. A upravo delegiranje i automatizacija su ono što omogucava rast.
+Kad je vaš identitet vezan za "koliko radite," delegiranje se oseća kao gubitak. Automatizacija se oseća kao lenjost. A upravo delegiranje i automatizacija su ono što omogućava rast.
 
-Firme koje rastu su one ciji vlasnici mere uspeh rezultatima, ne satima rada.
+Firme koje rastu su one čiji vlasnici mere uspeh rezultatima, ne satima rada.
 
-## Blok 3: Perfekcionizam koji koci akciju
+## Blok 3: Perfekcionizam koji koči akciju
 
-"Sajt nije spreman." "Oglas treba jo malo dorade." "Ponuda mora biti savrena pre nego što je poaljemo."
+"Sajt nije spreman." "Oglas treba još malo dorade." "Ponuda mora biti savršena pre nego što je pošaljemo."
 
-Perfekcionizam maskiran kao kvalitet je jedan od najskupljih blokova. Dok vi doteruujete detalje, konkurencija lansira nešto "dovoljno dobro" i hvata klijente.
+Perfekcionizam maskiran kao kvalitet je jedan od najskupljih blokova. Dok vi doterujete detalje, konkurencija lansira nešto "dovoljno dobro" i hvata klijente.
 
-80% kvaliteta danas vredi više od 100% kvaliteta za 3 meseca. Tržište nagraduje brzinu, ne savrenstvo.
+80% kvaliteta danas vredi više od 100% kvaliteta za 3 meseca. Tržište nagrađuje brzinu, ne savršenstvo.
 
-## Blok 4: Poredenje sa pogrenim ljudima
+## Blok 4: Poređenje sa pogrešnim ljudima
 
-Gledate firmu koja zaraduje 10x više od vas i mislite: "Nikad necu stici do tog nivoa." Ili gledate firmu koja je tek pocela i mislite: "Bar sam bolji od njih."
+Gledate firmu koja zarađuje 10x više od vas i mislite: "Nikad neću stići do tog nivoa." Ili gledate firmu koja je tek počela i mislite: "Bar sam bolji od njih."
 
-Oba poredenja su destruktivna. Jedino relevantno poredenje je vi danas vs vi pre 6 meseci. Napredujete li? Ako da, sve ostalo je nebitno.
+Oba poređenja su destruktivna. Jedino relevantno poređenje je vi danas vs vi pre 6 meseci. Napredujete li? Ako da, sve ostalo je nebitno.
 
-## Blok 5: Verovanje da zaradivanje više zahteva mnogo više rada
+## Blok 5: Verovanje da zarađivanje više zahteva mnogo više rada
 
-Ovo je moda najrasprostranjeniji blok. Firma zaraduje 5.000€ mesecno i vlasnik misli: "Da bih zaradivao 50.000, morao bih da radim 10x više."
+Ovo je možda najrasprostranjeniji blok. Firma zarađuje 5.000€ mesečno i vlasnik misli: "Da bih zarađivao 50.000, morao bih da radim 10x više."
 
-U praksi, skok sa 5K na 50K retko zahteva 10x više rada. Obicno zahteva:
-- Bolju ponudu (ne više rada, vec vredniji rad)
+U praksi, skok sa 5K na 50K retko zahteva 10x više rada. Obično zahteva:
+- Bolju ponudu (ne više rada, već vredniji rad)
 - Skuplju cenu (ista usluga, bolje pozicionirana)
-- Sistem koji skalira (jedan zaposleni može opsluivati 10 klijenata umesto vi jednog)
+- Sistem koji skalira (jedan zaposleni može opsluživati 10 klijenata umesto vi jednog)
 
-Razlika izmedu 5K i 50K nije u kolicini posla. Razlika je u tome TA radite i za KOLIKO to naplacujete.
+Razlika između 5K i 50K nije u količini posla. Razlika je u tome šta radite i za koliko to naplaćujete.
 
 ## Kako se osloboditi ovih blokova
 
-Nema magicnog reenja. Ali ima konkretnih koraka:
+Nema magičnog rešenja. Ali ima konkretnih koraka:
 
-1. **Podignite cenu za 20% sledecem klijentu.** Samo da vidite šta se dešava. U 80% slucajeva, ništa loše.
-2. **Delegirajte jednu stvar ove nedelje.** Bilo šta. Administrativni zadatak, operativni posao, bilo šta što ne zahteva vas licno.
-3. **Lansirajte nešto nedovreno.** Blog post, ponuda, kampanja. Pustite da tržište vam kaže šta treba da popravite umesto da pogadate sami.
+1. **Podignite cenu za 20% sledećem klijentu.** Samo da vidite šta se dešava. U 80% slučajeva, ništa loše.
+2. **Delegirajte jednu stvar ove nedelje.** Bilo šta. Administrativni zadatak, operativni posao, bilo šta što ne zahteva vas lično.
+3. **Lansirajte nešto nedovršeno.** Blog post, ponuda, kampanja. Pustite da vam tržište kaže šta treba da popravite umesto da pogađate sami.
 
-Ako elite strukturiran pogled na vaš biznis, pogledajte na [consulting program](/consulting).
+Ako želite strukturiran pogled na vaš biznis, pogledajte naš [consulting program](/consulting).
 
-Takođe preporucujemo: [Anatomija neodoljive ponude: zašto vecina firmi prodaje pogrešno](/blog/ponuda-koju-niko-ne-moze-da-odbije).
+Takođe preporučujemo: [Anatomija neodoljive ponude: zašto većina firmi prodaje pogrešno](/blog/ponuda-koju-niko-ne-moze-da-odbije).
 
 ---
 
-Prepoznajete li neke od ovih blokova? [Javite nam se](/kontakt) i napravicemo plan kako da ih prevazidete.
+Prepoznajete li neke od ovih blokova? [Javite nam se](/kontakt) i napravićemo plan kako da ih prevaziđete.
 `,
+
   },
   {
     slug: 'komunikacija-u-prodaji-kako-napisati-ponudu',
