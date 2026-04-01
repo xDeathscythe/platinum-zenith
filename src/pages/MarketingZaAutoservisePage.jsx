@@ -96,6 +96,33 @@ const firstMonth = [
   },
 ]
 
+const serviceModes = [
+  {
+    title: 'Hitne intervencije i kvarovi koji traze brz odgovor',
+    text: 'Ako vas ljudi zovu kad auto stane, onda marketing mora da bude brz, lokalan i jasan. Tu se ne pobedjuje lepim objavama nego time sto ste prvi na pretrazi, imate poverenje i olaksavate poziv u nekoliko sekundi.',
+    route: '/google-reklame-cena',
+    routeLabel: 'Kad Search ima vise smisla od sirokog reach-a',
+  },
+  {
+    title: 'Redovan servis i usluge koje treba puniti tokom cele godine',
+    text: 'Kod redovnih servisa cilj nije samo jedan poziv danas, nego da servis postane prva opcija kojoj se musterija vraca. Tu bolje rade lokalni SEO, recenzije, mapa i jasan sistem za podsetnike nego agresivan kratkorocni push.',
+    route: '/seo-optimizacija-cena',
+    routeLabel: 'Kako organska lokalna vidljivost donosi stabilnije pozive',
+  },
+  {
+    title: 'Skuplji kvarovi i usluge sa jacom marzom',
+    text: 'Kad reklamirate menjace, dijagnostiku, klimu ili limariju, nije poenta samo veci broj upita. Poenta je da privucete ljude kojima stvarno treba ta usluga i koji nisu tu samo da pitaju okvirnu cenu pa nestanu.',
+    route: '/cene-digitalnog-marketinga',
+    routeLabel: 'Kako da marketing budzet vezete za profitabilniji tip usluge',
+  },
+  {
+    title: 'Servis koji ima promet, ali nema uredjen sistem za leadove',
+    text: 'Neki servisi imaju dovoljno interesovanja, ali pozivi, poruke i termini i dalje idu haoticno. Tada problem vise nije samo vidljivost. Problem je sto nema jasnog puta od prvog kontakta do dolaska i ponovnog dolaska musterije.',
+    route: '/industrije/lokalni-biznisi',
+    routeLabel: 'Sta prvo srediti kada lokalni biznis preraste improvizaciju',
+  },
+]
+
 const faqs = [
   {
     q: 'Da li autoservis uopste treba da se reklamira online?',
@@ -223,6 +250,31 @@ export default function MarketingZaAutoservisePage() {
               </div>
             ))}
           </div>
+        </div>
+      </section>
+
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[980px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
+          <div className="max-w-[760px] mx-auto text-center mb-8">
+            <h2 className="text-[24px] md:text-[30px] font-medium text-ink mb-3">Sta radi za hitne intervencije, redovan servis i skuplje kvarove</h2>
+            <p className="text-[15px] text-ink-2 leading-relaxed">
+              Nije svakom autoservisu potreban isti marketing. Neko zivi od hitnih kvarova, neko od stabilnog redovnog servisa, a neko od skupljih i specijalizovanih popravki. Kad to ne odvojite, lako potrosite budzet na promet koji izgleda aktivno, a ne donosi najbolji prihod.
+            </p>
+          </div>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {serviceModes.map((item) => (
+              <div key={item.title} className="rounded-[16px] border border-edge bg-page p-5 md:p-6">
+                <h3 className="text-[18px] font-medium text-ink mb-3">{item.title}</h3>
+                <p className="text-[14px] text-ink-2 leading-relaxed mb-4">{item.text}</p>
+                <Link to={item.route} className="text-[13px] text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+                  {item.routeLabel}
+                </Link>
+              </div>
+            ))}
+          </div>
+          <p className="text-[14px] text-ink-3 leading-relaxed mt-8 text-center max-w-[760px] mx-auto">
+            Ako niste sigurni da li servis prvo treba da hvata hitne pozive, da dize lokalnu reputaciju ili da gura profitabilnije kvarove, posaljite nam kratak opis kroz <Link to="/kontakt" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">kontakt formu</Link> i reci cemo vam sta ima najvise smisla da ide prvo.
+          </p>
         </div>
       </section>
 
