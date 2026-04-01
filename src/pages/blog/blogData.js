@@ -28860,136 +28860,136 @@ Ako zelite da proverite da li Instagram ima smisla za vasu agenciju ili trebate 
   {
     slug: 'seo-za-racunovodje-cena-srbija-2026',
     title: 'SEO za računovođe u Srbiji 2026: cena, lokalni SEO i kako do više klijenata',
-    excerpt: 'Koliko realno košta SEO za računovodstvene agencije u Srbiji 2026, šta ulazi u cenu i kako da merite rezultat kroz nove klijente umesto praznog saobracaja.',
+    excerpt: 'Koliko realno košta SEO za računovodstvene agencije u Srbiji 2026, šta ulazi u cenu i kako da merite rezultat kroz nove klijente umesto praznog saobraćaja.',
     date: '2026-03-17',
     category: 'Lokalni SEO',
     readTime: '10 min',
     content: `
-## SEO za racunovodje u Srbiji 2026: kratak odgovor
+## SEO za računovođe u Srbiji 2026: kratak odgovor
 
-Vlasnici malih firmi i pausalci ne biraju racunovodu na osnovu reklame. Vecina otvori Google, ukuca "racunovoda Novi Sad" ili "knjigovodstvena agencija cena", pogleda prva 3 rezultata i pozove jednog. Ako vas sajt nije medju njima, konkurent dobija poziv koji je mogao biti vas.
+Vlasnici malih firmi i paušalci ne biraju računovođu na osnovu reklame. Većina otvori Google, ukuca "računovođa Novi Sad" ili "knjigovodstvena agencija cena", pogleda prva 3 rezultata i pozove jednog. Ako vas sajt nije među njima, konkurent dobija poziv koji je mogao biti vaš.
 
-Realan raspon SEO usluge za racunovodstvenu agenciju u Srbiji 2026:
+Realan raspon SEO usluge za računovodstvenu agenciju u Srbiji 2026:
 
-- **Starter lokalni SEO:** 250–600€ mesecno
-- **Rast (lokal + content + tehnicki):** 600–1.200€ mesecno
-- **Agresivniji model (vise gradova + vise oblasti):** 1.200–2.500€+
+- **Starter lokalni SEO:** 250–600€ mesečno
+- **Rast (lokal + content + tehnički):** 600–1.200€ mesečno
+- **Agresivniji model (više gradova + više oblasti):** 1.200–2.500€+
 
-Broj sam po sebi nista ne znaci dok nije vezan za poslovni ishod: koliko novih klijenata mesecno dolazi preko sajta i kolika je njihova prosecna godisnja vrednost.
-Za siri pregled cena po delatnostima, pogledajte i [SEO optimizacija cena](/seo-optimizacija-cena).
+Broj sam po sebi ništa ne znači dok nije vezan za poslovni ishod: koliko novih klijenata mesečno dolazi preko sajta i kolika je njihova prosečna godišnja vrednost.
+Za širi pregled cena po delatnostima, pogledajte i [SEO optimizacija cena](/seo-optimizacija-cena).
 
-## Sta zapravo ulazi u SEO cenu za racunovodstvenu agenciju
+## Šta zapravo ulazi u SEO cenu za računovodstvenu agenciju
 
-Najcesca greska: kupiti "paket kljucnih reci" umesto sistema koji donosi upite.
+Najčešća greška: kupiti "paket ključnih reči" umesto sistema koji donosi upite.
 U praksi, rezultat dolazi iz 5 slojeva koji moraju raditi zajedno:
 
 1. **Lokalna osnova**
-   Google Business profil (kategorija, radno vreme, usluge), NAP konzistentnost, recenzije klijenata. Za racunovodje je ovo prva linija vidljivosti jer vecina pretraga ima lokalni intent.
+   Google Business profil (kategorija, radno vreme, usluge), NAP konzistentnost, recenzije klijenata. Za računovođe je ovo prva linija vidljivosti jer većina pretraga ima lokalni intent.
 
-2. **Tehnicki SEO sajta**
-   Brzina ucitavanja, mobilna optimizacija, heading struktura, schema markup, SSL. Mnoge racunovodstvene agencije imaju sajtove iz 2018. koji se sporo ucitavaju i nemaju HTTPS. To je prvi zid koji treba srusiti.
+2. **Tehnički SEO sajta**
+   Brzina učitavanja, mobilna optimizacija, heading struktura, schema markup, SSL. Mnoge računovodstvene agencije imaju sajtove iz 2018. koji se sporo učitavaju i nemaju HTTPS. To je prvi zid koji treba srušiti.
 
 3. **Stranica za svaku uslugu**
-   Poseban URL za "vodjenje knjiga DOO", "pausalci", "PDV evidencija", "obracun zarada", "osnivanje firme". Google ne moze da rangira jednu genericku stranicu "usluge" za 8 razlicitih pretraga.
+   Poseban URL za "vođenje knjiga DOO", "paušalci", "PDV evidencija", "obračun zarada", "osnivanje firme". Google ne može da rangira jednu generičku stranicu "usluge" za 8 različitih pretraga.
 
 4. **Content cluster oko pitanja klijenata**
-   Blog koji hvata pretrage poput "pausalac ili DOO sta se vise isplati", "rok za predaju PDV prijave", "koliko kosta racunovoda mesecno". Svaki takav tekst je ulazna tacka za ljude koji tek traze informaciju, ali sutra ce traziti i racunovodu.
+   Blog koji hvata pretrage poput "paušalac ili DOO šta se više isplati", "rok za predaju PDV prijave", "koliko košta računovođa mesečno". Svaki takav tekst je ulazna tačka za ljude koji tek traže informaciju, ali sutra će tražiti i računovođu.
 
 5. **Interno linkovanje i konverzioni put**
-   Blogovi vode ka stranicama usluga, stranice usluga ka kontakt formi. Bez ovog lanca, saobracaj dolazi ali ne pretvara se u upit.
+   Blogovi vode ka stranicama usluga, stranice usluga ka kontakt formi. Bez ovog lanca, saobraćaj dolazi ali se ne pretvara u upit.
 
-Ako vam treba novi sajt pre nego sto uopste krenete sa SEO-om, pogledajte i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+Ako vam treba novi sajt pre nego što uopšte krenete sa SEO-om, pogledajte i [izradu WordPress sajta cenu](/izrada-wordpress-sajta-cena).
 
-## Zasto je lokalni SEO za racunovodje posebno isplativ
+## Zašto je lokalni SEO za računovođe posebno isplativ
 
-Za razliku od e-commerce ili SaaS biznisa gde se takmi cijeli region, racunovodstvene agencije imaju jednu ogromnu prednost: vecina klijenata trazi lokalnog racunovodu.
+Za razliku od e-commerce ili SaaS biznisa gde se takmiči ceo region, računovodstvene agencije imaju jednu ogromnu prednost: većina klijenata traži lokalnog računovođu.
 
-To znaci da se ne takmicite sa 500 sajtova za rec "racunovoda", vec sa 5–15 agencija u svom gradu. Lokalna konkurencija je i dalje relativno slaba na nivou SEO-a. Vecina racunovodstvenih agencija u Srbiji ima osnovni sajt bez ikakve optimizacije.
+To znači da se ne takmičite sa 500 sajtova za reč "računovođa", već sa 5–15 agencija u svom gradu. Lokalna konkurencija je i dalje relativno slaba na nivou SEO-a. Većina računovodstvenih agencija u Srbiji ima osnovni sajt bez ikakve optimizacije.
 
-Prakticno:
+Praktično:
 
-- Google Business profil sa 20+ recenzija i 4.5+ ocenom cesto je dovoljan da udjete u "lokalni trojac" (map pack).
-- Jedna dobro optimizovana stranica za "racunovoda [grad]" sa realnim cenama i uslugama moze rangirati za 10+ varijacija pretrage.
-- NAP citati (ime, adresa, telefon) na srpskim direktorijumima (Halooglasi, Zlatne strane, Srbija Firme) dodatno pojacavaju lokalni signal.
+- Google Business profil sa 20+ recenzija i 4.5+ ocenom često je dovoljan da uđete u "lokalni trojac" (map pack).
+- Jedna dobro optimizovana stranica za "računovođa [grad]" sa realnim cenama i uslugama može rangirati za 10+ varijacija pretrage.
+- NAP citati (ime, adresa, telefon) na srpskim direktorijumima (Halooglasi, Zlatne strane, Srbija Firme) dodatno pojačavaju lokalni signal.
 
-Za kontekst kako lokalni SEO funkcionise u praksi, korisno je pogledati i [marketing za advokate](/marketing-za-advokate) jer je princip isti: lokalna usluga, lokalna pretraga, lokalni klijent.
+Za kontekst kako lokalni SEO funkcioniše u praksi, korisno je pogledati i [marketing za advokate](/marketing-za-advokate) jer je princip isti: lokalna usluga, lokalna pretraga, lokalni klijent.
 
-## Koliko traje da SEO za racunovodje pocne da daje rezultat
+## Koliko traje da SEO za računovođe počne da daje rezultat
 
-Realan tajmlajn za srpsko trziste 2026:
+Realan tajmlajn za srpsko tržište 2026:
 
-- **Prvih 30 dana:** tehnicka stabilizacija sajta, Google Business optimizacija, mapiranje tema i kljucnih reci po uslugama.
-- **60-90 dana:** prvi pomaci na lokalnim pretragama i long-tail upitima (npr. "racunovoda za pausalce Beograd").
-- **4-6 meseci:** stabilniji dotok upita ako je content i interna struktura konzistentna. Do ovog trenutka bi trebalo da vidite 3-8 novih mesecnih upita direktno sa Google pretrage.
+- **Prvih 30 dana:** tehnička stabilizacija sajta, Google Business optimizacija, mapiranje tema i ključnih reči po uslugama.
+- **60–90 dana:** prvi pomaci na lokalnim pretragama i long-tail upitima (npr. "računovođa za paušalce Beograd").
+- **4–6 meseci:** stabilniji dotok upita ako su content i interna struktura konzistentni. Do ovog trenutka bi trebalo da vidite 3–8 novih mesečnih upita direktno sa Google pretrage.
 
-Ovaj tajmlajn pretpostavlja da sajt vec postoji i da je tehnicka osnova solidna. Ako se sajt pravi od nule, dodajte 4-6 nedelja za razvoj.
+Ovaj tajmlajn pretpostavlja da sajt već postoji i da je tehnička osnova solidna. Ako se sajt pravi od nule, dodajte 4–6 nedelja za razvoj.
 
-## KPI koji imaju smisla za racunovodstveni SEO
+## KPI koji imaju smisla za računovodstveni SEO
 
 Pozicije na Google-u su korisna metrika, ali nisu dovoljne.
 
 Pratite ovo:
 
-- **Broj mesecnih upita sa Google pretrage** (forma, poziv, email)
-- **Procenat upita koji predju u ugovor**
-- **Prosecna godisnja vrednost klijenta** (u racunovodstvu je to obicno 12 meseci × mesecni fee, dakle 1.800–6.000€)
-- **Cena akvizicije klijenta** (ukupan SEO trosak / broj novih klijenata)
+- **Broj mesečnih upita sa Google pretrage** (forma, poziv, email)
+- **Procenat upita koji pređu u ugovor**
+- **Prosečna godišnja vrednost klijenta** (u računovodstvu je to obično 12 meseci × mesečni fee, dakle 1.800–6.000€)
+- **Cena akvizicije klijenta** (ukupan SEO trošak / broj novih klijenata)
 - **Churn rate** (koliko klijenata ostaje nakon prve godine)
 
-Kada jedan novi klijent vredi 3.000€ godisnje, a SEO kosta 600€ mesecno, dovoljno je da SEO dovede 3 nova klijenta kvartalno da bi bio u plusu.
+Kada jedan novi klijent vredi 3.000€ godišnje, a SEO košta 600€ mesečno, dovoljno je da SEO dovede 3 nova klijenta kvartalno da bi bio u plusu.
 
-Za uporedjivanje sa paid kanalima, pogledajte i [Google Ads za knjigovodstvene agencije](/blog/google-ads-za-knjigovodstvene-agencije-cena-leada-srbija-2026) i [Instagram reklame za racunovodje](/blog/instagram-reklame-za-racunovodje-cena-klijenta-srbija-2026).
+Za upoređivanje sa paid kanalima, pogledajte i [Google Ads za knjigovodstvene agencije](/blog/google-ads-za-knjigovodstvene-agencije-cena-leada-srbija-2026) i [Instagram reklame za računovođe](/blog/instagram-reklame-za-racunovodje-cena-klijenta-srbija-2026).
 
-## Model budzeta koji racunovodstvenim agencijama obicno radi
+## Model budžeta koji računovodstvenim agencijama obično radi
 
-Prakticni okvir za planiranje:
+Praktičan okvir za planiranje:
 
-**Mesec 1-2:** tehnicka optimizacija + Google Business + 3-5 stranica usluga (DOO, pausalci, obracun zarada, osnivanje firme, PDV).
+**Mesec 1–2:** tehnička optimizacija + Google Business + 3–5 stranica usluga (DOO, paušalci, obračun zarada, osnivanje firme, PDV).
 
-**Mesec 3-4:** content cluster — 4-6 blog tekstova koji odgovaraju na FAQ pitanja ("koliko kosta racunovoda", "kada se predaje zavrsni racun", "pausalac ili DOO"). Svaki tekst linkuje ka odgovarajucoj stranici usluga.
+**Mesec 3–4:** content cluster — 4–6 blog tekstova koji odgovaraju na FAQ pitanja ("koliko košta računovođa", "kada se predaje završni račun", "paušalac ili DOO"). Svaki tekst linkuje ka odgovarajućoj stranici usluge.
 
-**Mesec 5-6:** skaliranje tema koje vec donose upite. Dodavanje geo varijanti ako agencija pokriva vise gradova. Citati na lokalnim direktorijumima.
+**Mesec 5–6:** skaliranje tema koje već donose upite. Dodavanje geo varijanti ako agencija pokriva više gradova. Citati na lokalnim direktorijumima.
 
-**Mesec 7+:** odrzavanje pozicija, novi content na osnovu pitanja koja klijenti zaista postavljaju, pracenje konverzija i optimizacija stranica koje imaju saobracaj ali ne generisu upite.
+**Mesec 7+:** održavanje pozicija, novi content na osnovu pitanja koja klijenti zaista postavljaju, praćenje konverzija i optimizacija stranica koje imaju saobraćaj ali ne generišu upite.
 
-Za siri kontekst o troskovima digitalnog prisustva, pogledajte i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Za širi kontekst o troškovima digitalnog prisustva, pogledajte i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-## Najcesce greske koje dizu cenu SEO-a bez rezultata
+## Najčešće greške koje dižu cenu SEO-a bez rezultata
 
 1. **Sve usluge na jednoj stranici**
-   "Nase usluge" sa 5 stavki u bullet pointima nece rangirati ni za jednu konkretnu pretragu. Svaka usluga treba svoju stranicu sa jasnim sadrzajem.
+   "Naše usluge" sa 5 stavki u bullet pointima neće rangirati ni za jednu konkretnu pretragu. Svaka usluga treba svoju stranicu sa jasnim sadržajem.
 
 2. **Nema cena na sajtu**
-   Preduzetnici pretrazuju "racunovoda cena". Ako nemate cenovnik ili makar raspon, gubite posetu pre nego sto klijent uopste sazna ko ste. Transparentnost je SEO signal i signal poverenja.
+   Preduzetnici pretražuju "računovođa cena". Ako nemate cenovnik ili makar raspon, gubite posetu pre nego što klijent uopšte sazna ko ste. Transparentnost je SEO signal i signal poverenja.
 
 3. **Google Business profil bez recenzija**
-   Profil sa 2 recenzije nece uci u map pack kad konkurent ima 30. Aktivno trazite recenzije od zadovoljnih klijenata.
+   Profil sa 2 recenzije neće ući u map pack kad konkurent ima 30. Aktivno tražite recenzije od zadovoljnih klijenata.
 
 4. **Blog bez internog linkovanja**
-   Svaki blog tekst mora voditi ka odgovarajucoj stranici usluge ili kontakt formi. Inace tekst rangira, poseta dodje i ode bez ikakvog upita.
+   Svaki blog tekst mora voditi ka odgovarajućoj stranici usluge ili kontakt formi. Inače tekst rangira, poseta dođe i ode bez ikakvog upita.
 
 5. **Ignorisanje mobilnog iskustva**
-   Vise od 60% pretraga za lokalne usluge dolazi sa telefona. Ako sajt ne radi na mobilnom, Google to vidi i ne rangira vas.
+   Više od 60% pretraga za lokalne usluge dolazi sa telefona. Ako sajt ne radi na mobilnom, Google to vidi i ne rangira vas.
 
-Ako zelite da poboljsate konverzije na vec postojecem sajtu, koristan je vodic [izrada landing stranice: cena, rokovi, sta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
+Ako želite da poboljšate konverzije na već postojećem sajtu, koristan je vodič [izrada landing stranice: cena, rokovi, šta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
 
 ## Kako da procenite da li je SEO ponuda fer
 
-Pre nego sto potpisete ugovor, trazite jasne odgovore:
+Pre nego što potpišete ugovor, tražite jasne odgovore:
 
-- Koje usluge se optimizuju prve i zasto?
-- Koliko novih stranica i tekstova se pravi mesecno?
+- Koje usluge se optimizuju prve i zašto?
+- Koliko novih stranica i tekstova se pravi mesečno?
 - Kako izgleda plan internog linkovanja?
 - Koji KPI se koristi kao glavni poslovni signal?
 - Da li dobijate transparentan reporting koji povezuje SEO aktivnosti sa brojem upita?
 
-Ako su odgovori neodredjeni ili obecanji tipa "garantujemo prvu poziciju", to je crvena zastavica.
+Ako su odgovori neodređeni ili obećanja tipa "garantujemo prvu poziciju", to je crvena zastavica.
 
-## Zakljucak
+## Zaključak
 
-SEO za racunovodje u Srbiji 2026 ima smisla zato sto je lokalna konkurencija jos uvek slaba, a vrednost jednog klijenta je visoka i dugorocna. Kad se uradi pravilno, SEO postaje najstabilniji izvor novih klijenata bez mesecnog budzetiranja za oglase.
+SEO za računovođe u Srbiji 2026 ima smisla zato što je lokalna konkurencija još uvek slaba, a vrednost jednog klijenta je visoka i dugoročna. Kad se uradi pravilno, SEO postaje najstabilniji izvor novih klijenata bez mesečnog budžetiranja za oglase.
 
-Ako zelite brz audit vaseg trenutnog sajta i 3 najbrza poteza za vise upita od preduzetnika koji traze racunovodu, javite se preko [kontakt forme](/kontakt).
+Ako želite brz audit vašeg trenutnog sajta i 3 najbrža poteza za više upita od preduzetnika koji traže računovođu, javite se preko [kontakt forme](/kontakt).
 `,
   },
   {

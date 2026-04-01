@@ -2336,7 +2336,7 @@ export const blogIndexPosts = [
   {
     "slug": "seo-za-racunovodje-cena-srbija-2026",
     "title": "SEO za računovođe u Srbiji 2026: cena, lokalni SEO i kako do više klijenata",
-    "excerpt": "Koliko realno košta SEO za računovodstvene agencije u Srbiji 2026, šta ulazi u cenu i kako da merite rezultat kroz nove klijente umesto praznog saobracaja.",
+    "excerpt": "Koliko realno košta SEO za računovodstvene agencije u Srbiji 2026, šta ulazi u cenu i kako da merite rezultat kroz nove klijente umesto praznog saobraćaja.",
     "date": "2026-03-17",
     "category": "Lokalni SEO",
     "readTime": "10 min",
