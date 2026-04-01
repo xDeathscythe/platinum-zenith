@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "koliko-kosta-los-marketing",
+    "title": "Koliko zapravo košta loš marketing (skriveni troškovi o kojima se ne priča)",
+    "excerpt": "Najveći trošak u marketingu nije ono što ste platili agenciji, već ono što ste izgubili zbog lošeg pristupa. Otkrijte 4 skrivena troška marketinga o kojima se ne priča.",
+    "date": "2026-03-31",
+    "category": "Marketing",
+    "readTime": "7 min read",
+    "isDraft": false
+  },
+  {
     "slug": "facebook-vs-instagram-oglasi-gde-je-vasa-publika",
     "title": "Facebook vs Instagram oglasi: Gde je vaša publika u 2026?",
     "excerpt": "Da li je Facebook mrtav i jesu li Reels jedini put do prodaje? Otkrijte kako Meta algoritam deli budžet u 2026. godini i u šta zaista treba uložiti novac za maksimalan ROAS.",
@@ -16,15 +25,6 @@ export const blogIndexPosts = [
     "title": "Facebook vs Instagram oglasi: Gde je zaista vaša publika u 2026?",
     "excerpt": "Svi govore da je Facebook mrtav i da je budućnost na Instagramu. Međutim, brojevi iz oglasnih naloga pokazuju potpuno drugačiju sliku. Otkrijte u šta zapravo treba da investirate.",
     "date": "2026-03-31",
-    "category": "Marketing",
-    "readTime": "6 min read",
-    "isDraft": false
-  },
-  {
-    "slug": "zasto-vas-sajt-ne-prodaje-sta-promeniti",
-    "title": "Zašto vaš sajt ne prodaje (i šta da promenite danas)",
-    "excerpt": "Imate dobar proizvod, plaćate reklame i imate posete na sajtu, ali niko ne kupuje. Otkrijte 3 najčešće greške zbog kojih vaš sajt ne konvertuje i kako da ih odmah popravite.",
-    "date": "2026-03-30",
     "category": "Marketing",
     "readTime": "6 min read",
     "isDraft": false
@@ -2006,15 +2006,6 @@ export const blogIndexPosts = [
     "excerpt": "Sajt izgleda lepo, ali telefon ne zvoni. Problem skoro nikad nije u dizajnu. Problem je u tome Å¡to sajt ne radi ono za Å¡ta je napravljen.",
     "date": "2026-02-27",
     "category": "CRO",
-    "readTime": "8 min",
-    "isDraft": false
-  },
-  {
-    "slug": "koliko-kosta-los-marketing",
-    "title": "Koliko zapravo koÅ¡ta loÅ¡ marketing (skriveni troÅ¡kovi koje niko ne pominje)",
-    "excerpt": "LoÅ¡ marketing nije besplatan samo zato Å¡to ne daje rezultate. KoÅ¡ta vas mnogo viÅ¡e nego Å¡to mislite, i to na mestima gde ne gledate.",
-    "date": "2026-02-27",
-    "category": "Biznis",
     "readTime": "8 min",
     "isDraft": false
   },
