@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-vodic-za-pocetnike-srbija-2026",
+    "title": "Google Ads vodič za početnike u Srbiji 2026: kako krenuti bez bacanja budžeta",
+    "excerpt": "Praktičan Google Ads vodič za početnike u Srbiji: kako da izaberete prvu kampanju, složite ključne reči, odredite budžet i izbegnete greške koje najbrže spaljuju novac.",
+    "date": "2026-04-01",
+    "category": "Marketing",
+    "readTime": "9 min read",
+    "isDraft": false
+  },
+  {
     "slug": "izrada-landing-stranice-cena",
     "title": "Izrada landing stranice: cena, rokovi i šta zapravo ulazi u cenu",
     "excerpt": "Da li landing stranica treba da košta 150 ili 1.500 evra? Saznajte razlike između jeftinih templejta i custom prodajnih stranica i šta tačno ulazi u cenu.",

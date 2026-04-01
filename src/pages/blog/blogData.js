@@ -1,5 +1,321 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'google-ads-vodic-za-pocetnike-srbija-2026',
+    title: 'Google Ads vodič za početnike u Srbiji 2026: kako krenuti bez bacanja budžeta',
+    excerpt: 'Praktičan Google Ads vodič za početnike u Srbiji: kako da izaberete prvu kampanju, složite ključne reči, odredite budžet i izbegnete greške koje najbrže spaljuju novac.',
+    date: '2026-04-01',
+    readTime: '9 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'PPC', 'Lead Generation', 'Budžet'],
+    image: '/hero-mktg-dark.jpg',
+    content: `
+## Google Ads deluje jednostavno dok ne krene trošenje
+
+Mnogo firmi uđe u Google Ads sa istom idejom: otvorimo nalog, ubacimo nekoliko ključnih reči, pustimo budžet i telefon će krenuti da zvoni.
+
+Na papiru zvuči logično. U praksi se često završi ovako: ima klikova, ima troška, a ozbiljnih upita nema dovoljno. Onda kreće nervoza, menja se sve odjednom i Google Ads dobije etiketu da "ne radi".
+
+Problem obično nije u tome što kanal ne radi. Problem je što je početak postavljen pogrešno.
+
+Ovaj **Google Ads vodič za početnike u Srbiji** nije pisan za marketinške teoretičare. Pisan je za vlasnika firme, menadžera ili osobu iz tima koja prvi put ulazi u Google oglase i želi da krene bez glupog rasipanja budžeta.
+
+Ako ti treba i šira slika troškova, pogledaj i [Google reklame cena](/google-reklame-cena), a za orijentir oko klika i [Google Ads cena po kliku u Srbiji](/blog/google-ads-cena-po-kliku-srbija-2026).
+
+## Šta je Google Ads i kome zapravo ima smisla
+
+Google Ads je najjači onda kada hvata postojeću nameru. Drugim rečima, neko već traži rešenje, a ti želiš da se pojaviš u pravom trenutku.
+
+Zato Google Ads često ima više smisla za:
+- lokalne usluge,
+- ordinacije i stručne usluge,
+- B2B firme koje traže konkretne upite,
+- e-commerce sa jasnim proizvodom i zdravom maržom,
+- firme koje ne žele da čekaju mesecima da organski saobraćaj krene.
+
+Manje smisla ima kada još nemaš jasnu ponudu, nemaš stranicu koja može da primi saobraćaj ili ne znaš šta ti je zapravo konverzija.
+
+Ako si u fazi "treba nam bilo kakav saobraćaj", problem nije alat. Problem je strategija.
+
+## 1. Počni od cilja, ne od kampanje
+
+Početnici često prvo biraju kampanju, a tek posle razmišljaju šta žele da dobiju. Obrni redosled.
+
+Prvo definiši jedno od ova tri:
+- želiš **pozive**,
+- želiš **forme/upite**,
+- želiš **prodaje**.
+
+Možeš da pratiš i više stvari, ali jedna mora da bude glavna. Ako to ne odlučiš na početku, kampanja će optimizovati gomilu signala koji lepo izgledaju u izveštaju, ali ne znače mnogo za biznis.
+
+Na primer:
+- za vodoinstalatera je kvalitetan poziv važniji od dužeg boravka na sajtu,
+- za B2B uslugu važnija je kvalifikovana forma nego jeftin klik,
+- za webshop je važnija profitabilna kupovina nego veliki broj dodatih proizvoda u korpu.
+
+Pre nego što pustiš prvi evro, napiši jednu prostu rečenicu: **"Ova kampanja je uspešna ako donese X po ceni do Y."**
+
+Ako tu rečenicu ne možeš da napišeš, još nisi spreman za kampanju.
+
+## 2. Ne šalji klik na početnu stranicu
+
+Jedna od najskupljih početničkih grešaka je da sav saobraćaj ide na homepage.
+
+Ljudi ne klikću oglas da bi istraživali tvoj sajt. Klikću zato što žele konkretan odgovor na konkretan problem.
+
+Ako neko traži:
+- "google ads za advokate cena",
+- "stomatolog beograd implantati",
+- "izrada wordpress sajta cena",
+
+a ti ga pošalješ na opštu početnu stranicu, upravo si sebi podigao cenu po rezultatu.
+
+Landing strana treba da nastavi razgovor koji je oglas već otvorio. To znači:
+- isti problem,
+- ista publika,
+- ista ponuda,
+- jasan sledeći korak.
+
+Za dobar start često je važnije imati jednu čistu i fokusiranu landing stranicu nego veliki sajt sa deset menija. Ako tu zapinješ, pogledaj i [landing stranicu za Google Ads](/blog/landing-stranica-za-google-ads-cena-srbija-2026) i [izradu WordPress sajta cena](/izrada-wordpress-sajta-cena).
+
+## 3. Koju vrstu kampanje početnik treba da izabere
+
+Google nudi mnogo opcija, ali početniku ne treba sve odmah.
+
+Za većinu firmi u Srbiji najzdraviji početak izgleda ovako:
+
+### Search kampanja je obično najbolji prvi korak
+
+Ako prodaješ uslugu ili hvataš leadove, Search je najčistiji start. Ljudi već traže rešenje, a ti testiraš:
+- koje ključne reči donose ozbiljan intent,
+- koji oglasi dobijaju klik,
+- koja landing strana pretvara klik u upit.
+
+Search je posebno dobar za lokalne usluge, medicinu, pravne usluge, B2B i sve situacije gde korisnik već zna šta mu treba.
+
+### Performance Max ne treba da bude prvi potez u svakom nalogu
+
+Performance Max može da radi dobro, ali početnici ga često puste prerano. Problem je što onda nemaš dovoljno kontrole ni dovoljno istorije da razumeš šta zapravo radi.
+
+Ako nemaš uređen tracking, dobar feed ili dovoljno konverzija, PMax lako postane crna kutija koja troši budžet brže nego što ti učiš.
+
+Za više o tome kako automatika menja rezultate, pogledaj i [Google Ads Smart Bidding vs ručno](/blog/google-ads-smart-bidding-vs-manual-statistika-2026).
+
+### Display i YouTube nisu prvi prioritet za većinu početnika
+
+Ovi formati imaju svoje mesto, ali nisu najbolja škola za prvi mesec ako još ne znaš:
+- šta ti je winner poruka,
+- koja publika reaguje,
+- koja landing strana konvertuje,
+- koliko ti vredi lead ili kupovina.
+
+Drugim rečima: prvo uhvati nameru, pa onda širi doseg.
+
+## 4. Kako da biraš ključne reči bez rasipanja budžeta
+
+Početnik obično napravi jednu od dve greške:
+- ide preširoko pa hvata gomilu nerelevantnih upita,
+- ide preusko pa nema dovoljno obima za učenje.
+
+Zdrav početak je da napraviš listu po intentu.
+
+### Komercijalne ključne reči
+
+Ovo su upiti koji najčešće imaju najveću šansu da postanu posao:
+- cena,
+- ponuda,
+- usluga,
+- agencija,
+- zakazivanje,
+- kupovina,
+- blizu mene ili naziv grada.
+
+Primer:
+- "google reklame cena",
+- "seo za advokate cena",
+- "stomatolog novi sad implantati".
+
+### Problem-aware ključne reči
+
+Ovo su ljudi koji osećaju problem, ali još nisu skroz u kupovnoj fazi:
+- "kako dobiti više leadova",
+- "zašto google oglasi ne rade",
+- "koliko košta novi klijent".
+
+Takve reči mogu biti dobre, ali traže bolji sadržaj i pažljiviji landing tok.
+
+### Informativne ključne reči
+
+One mogu biti korisne za content i remarketing, ali retko su prvi izbor za mali početni budžet.
+
+Za prvi mesec je mnogo zdravije imati 10 do 30 pažljivo izabranih ključnih reči nego 200 termina ubačenih "za svaki slučaj".
+
+I još jedna stvar koju početnici stalno zaborave: **negativne ključne reči**. Ako ih ne dodaješ redovno, Google će ti vrlo rado dovesti klikove koji deluju srodno, ali nemaju komercijalnu vrednost.
+
+Ako želiš dublje da razumeš zašto klik poskupljuje, pogledaj i [Google Ads Quality Score vodič](/blog/google-ads-quality-score-vodic-srbija-2026).
+
+## 5. Oglas mora da odgovori na ono što je čovek ukucao
+
+Dobar oglas nije književnost. Dobar oglas je jasan.
+
+Ako neko traži cenu, oglasi cenu ili raspon.
+Ako neko traži rok, reci okvir.
+Ako neko traži lokalnu uslugu, pokaži lokaciju.
+Ako neko traži poverenje, ubaci dokaz.
+
+Jedan jednostavan okvir za početak:
+1. u naslov stavi glavnu ključnu reč ili problem,
+2. u drugi naslov stavi benefit ili raspon,
+3. u opis ubaci konkretan sledeći korak.
+
+Primer je mnogo bolji od generičnog obećanja:
+- loše: "Najbolji marketing za vaš biznis"
+- bolje: "Google Ads za lokalne firme | Jasna cena i plan test budžeta"
+
+Početnik često napiše oglas koji zvuči kao slogan sa bilborda. Na Search-u to ne radi najbolje. Search traži relevanciju, ne glumu.
+
+## 6. Koliki budžet ima smisla za prvi mesec
+
+Nema jedne magične cifre za sve, ali postoji zdrav način razmišljanja.
+
+Početni budžet mora da bude dovoljno velik da kupi podatke. Ako je premali, ne učiš ništa. Samo nerviraš sebe.
+
+Za planiranje koristi ovaj redosled:
+1. proceni realan CPC raspon za svoju nišu,
+2. odredi koliko klikova ti treba da vidiš signal,
+3. odvoji budžet za barem 2 do 4 nedelje bez panike,
+4. računaj i trošak landing strane, trackinga i optimizacije.
+
+Ako ti treba konkretan model, pogledaj:
+- [kako odrediti budžet za Google reklame](/blog/kako-odrediti-budzet-za-google-reklame-srbija-2026)
+- [Google Ads budžet kalkulator](/blog/google-ads-budzet-kalkulator-cpa-srbija-2026)
+- [Google reklame cena](/google-reklame-cena)
+
+Najgora odluka je da uđeš sa budžetom koji je dovoljan samo da potvrdiš sopstveni strah da kanal ne radi.
+
+## 7. Šta moraš da meriš od prvog dana
+
+Klikovi sami po sebi nisu rezultat.
+
+Za početni nalog gledaj bar ovih pet stvari:
+
+### 1) Search terms
+Ovo ti govori za šta si se stvarno prikazivao. Tu se često vidi gde budžet curi.
+
+### 2) CTR
+Ne mora da bude savršen, ali pokazuje da li oglas uopšte pogađa nameru korisnika.
+
+### 3) CPC
+Koristan je kao signal, ali nije glavna istina. Jeftin klik može biti skup ako dovodi loš upit.
+
+### 4) Conversion rate landing stranice
+Ako ljudi klikću, a ne javljaju se, možda problem nije u oglasu nego posle oglasa.
+
+### 5) Kvalitet leadova ili porudžbina
+Ovo je deo koji početnici često preskoče. Nije svaki lead dobar lead. Ako prodaja ili tim kažu da upiti nisu ozbiljni, kampanja mora da se koriguje bez obzira na to što dashboard izgleda lepo.
+
+Za širu priču o ekonomiji kampanje pogledaj i [Google Ads ROI po industriji](/blog/google-ads-roi-statistika-roas-po-industriji-srbija-2026) i [koliko košta novi klijent](/blog/koliko-kosta-novi-klijent-cpa-po-industriji-google-facebook-2026).
+
+## 8. Plan za prvih 30 dana
+
+Početniku je najveći neprijatelj impuls da svaki dan menja sve.
+
+Mnogo zdraviji ritam izgleda ovako:
+
+### Nedelja 1: čista postavka
+- postavi jednu glavnu konverziju,
+- napravi 1 do 3 uske kampanje,
+- grupiši ključne reči po intentu,
+- napiši više oglasa koji odgovaraju upitu,
+- proveri da li landing strana radi na telefonu.
+
+### Nedelja 2: čišćenje otpada
+- pregledaj search terms,
+- dodaj negativne reči,
+- ugasi očigledno loše termine,
+- proveri koje poruke imaju najbolji CTR.
+
+### Nedelja 3: popravi konverziju
+- doradi headline i CTA na strani,
+- skrati formu ako traži previše podataka,
+- ubaci proof, raspon cene ili jasan sledeći korak,
+- proveri da li telefon, forma i thank-you stranica rade bez greške.
+
+### Nedelja 4: preraspodela budžeta
+- pojačaj ono što donosi kvalitet,
+- smanji ili ugasi ono što vuče budžet bez signala,
+- ne skaliraj agresivno dok ne vidiš da leadovi imaju smisla.
+
+Poenta prvog meseca nije da pobediš tržište. Poenta je da dobiješ dovoljno čistih podataka da znaš gde ima potencijala.
+
+## Najčešće greške početnika
+
+Evo liste koja se ponavlja stalno:
+
+- kampanja kreće bez konverzionog trackinga,
+- previše ključnih reči ulazi od prvog dana,
+- sve ide na homepage,
+- oglasi zvuče lepo, ali ne odgovaraju upitu,
+- negativne reči se ne dodaju,
+- budžet je premali za ozbiljan test,
+- promene se rade svaki dan iz nervoze,
+- odluke se donose po ceni klika umesto po kvalitetu rezultata.
+
+Ako prepoznaš dve ili tri stavke sa liste, nisi jedini. To je standardan početnički put. Bitno je samo da ne ostaneš tu predugo.
+
+## Google Ads ili SEO za početak?
+
+Ovo pitanje se stalno vraća, ali odgovor nije isti za svaku firmu.
+
+Google Ads je jači kada:
+- želiš brži test ponude,
+- treba ti promet odmah,
+- hvataš jasan komercijalni intent,
+- imaš ponudu koja može brzo da se proda.
+
+SEO je jači kada:
+- želiš dugoročniji organski kanal,
+- imaš vremena da gradiš autoritet,
+- želiš da smanjiš zavisnost od plaćenog saobraćaja,
+- možeš redovno da ulažeš u sadržaj i strukturu sajta.
+
+U praksi, najzdraviji sistem često kombinuje oba. Google Ads ti brže pokaže šta tržište traži, a SEO ti vremenom spušta zavisnost od oglasa. Ako vagaš između ta dva pravca, pročitaj i [SEO vs PPC u brojevima](/blog/seo-vs-ppc-uporedna-statistika-konverzija-cena-roi-2026).
+
+## Česta pitanja
+
+### Koliki je minimalni budžet za Google Ads u Srbiji?
+
+Ne postoji ista cifra za svaku nišu, ali budžet mora biti dovoljno velik da kupi podatke za 2 do 4 nedelje smislenog testa. Ako je toliko mali da jedva dobiješ nekoliko klikova dnevno, nećeš dobiti ozbiljan signal nego samo šum.
+
+### Da li početnik treba odmah da koristi Performance Max?
+
+U većini slučajeva ne mora odmah. Za lokalne usluge i lead generation Search je obično čistiji i pregledniji početak, jer lakše vidiš koje ključne reči, oglasi i landing strane stvarno rade. Performance Max ima više smisla kada su tracking i istorija konverzija već sređeni.
+
+### Koliko brzo mogu da se vide prvi rezultati?
+
+Prve signale možeš da vidiš vrlo brzo, ali to nije isto što i stabilan zaključak. Za ozbiljniju procenu obično treba bar 2 do 4 nedelje, jer tek tada vidiš search terms, kvalitet upita i ponašanje landing strane bez previše nagađanja.
+
+### Da li mogu sam da vodim Google Ads ako sam početnik?
+
+Možeš, ako kreneš usko, disciplinovano i sa jasnim merenjem. Problem nastaje kada početnik pokuša da vodi previše kampanja, previše tipova oglasa i previše ključnih reči odjednom. Bolji start je mali nalog koji razumeš nego veliki nalog koji samo troši.
+
+### Šta je važnije: niži CPC ili bolji lead?
+
+Bolji lead. Nizak CPC lepo izgleda u tabeli, ali ne znači mnogo ako upiti nisu ozbiljni. Kampanja treba da optimizuje profitabilnost i kvalitet, ne samo jeftin klik.
+
+## Zaključak
+
+Google Ads nije komplikovan zato što je alat previše težak. Komplikovan postaje tek kada kreneš bez cilja, bez trackinga i bez stranice koja može da pretvori klik u posao.
+
+Ako si početnik, ne treba ti deset kampanja i pet različitih mreža. Treba ti čist start: jasna namera, uska lista ključnih reči, dobra landing strana i dovoljno discipline da pustiš podatke da kažu svoje.
+
+Ako želiš da ti pomognemo da složiš prvi test bez bacanja budžeta, javi se preko [kontakt forme](/kontakt). Možemo da procenimo koji tip kampanje ima najviše smisla, koliki budžet je realan i gde ti je najveći rizik pre nego što kampanja krene.
+`
+  },
+
+  {
     slug: 'izrada-landing-stranice-cena',
     title: 'Izrada landing stranice: cena, rokovi i šta zapravo ulazi u cenu',
     excerpt: 'Da li landing stranica treba da košta 150 ili 1.500 evra? Saznajte razlike između jeftinih templejta i custom prodajnih stranica i šta tačno ulazi u cenu.',
