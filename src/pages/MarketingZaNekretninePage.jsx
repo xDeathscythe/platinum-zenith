@@ -33,6 +33,33 @@ const services = [
   },
 ]
 
+const businessModels = [
+  {
+    title: 'Agencije koje žive od listinga',
+    text: 'Ako vam je najveći problem da dođete do novih prodavaca, marketing ne sme biti samo "evo novih stanova". Potrebna vam je poruka koja vlasniku nekretnine jasno kaže zašto bi poverio prodaju baš vama, a ne drugoj agenciji iz komšiluka.',
+    route: '/marketing-agencija-zrenjanin',
+    routeLabel: 'Kako lokalno pozicioniranje pomaže da dobijete više listinga',
+  },
+  {
+    title: 'Solo agenti i manji timovi',
+    text: 'Kod manjih timova lični brend agenta često prodaje jače od imena firme. Tu rade poverenje, recenzije, kratki edukativni video sadržaji i brz odgovor na upit. Nema mnogo prostora za generičan sadržaj koji zvuči kao da ga objavljuje korporacija.',
+    route: '/agencija-vs-freelancer',
+    routeLabel: 'Kada ima smisla mali agilni model, a kada treba širi tim',
+  },
+  {
+    title: 'Investitori i novogradnja',
+    text: 'Ovde nije dovoljno da ljudi samo vide stan. Moraju da razumeju projekat, lokaciju, dinamiku gradnje i razlog da ostave kontakt pre nego što konkurencija preuzme pažnju. To znači više edukacije, bolji landing tok i ozbiljniji follow-up.',
+    route: '/cene-izrade-sajta',
+    routeLabel: 'Šta traži sajt koji mora da prodaje projekat, ne samo oglas',
+  },
+  {
+    title: 'Luksuzne i više cenovne nekretnine',
+    text: 'Kod skupljih nekretnina volumen nije poenta. Poenta je kvalitet publike i način prezentacije. Jedna loša kampanja može da navuče radoznale klikove, ali ne i ozbiljne kupce. Zato se ovde više pazi na selekciju upita nego na puki broj leadova.',
+    route: '/google-reklame-cena',
+    routeLabel: 'Kako hvatati intent bez rasipanja budžeta',
+  },
+]
+
 export default function MarketingZaNekretninePage() {
   usePageMeta()
 
@@ -100,6 +127,25 @@ export default function MarketingZaNekretninePage() {
                     </li>
                   ))}
                 </ul>
+              </div>
+            ))}
+          </div>
+        </div>
+
+        {/* Fit by business model */}
+        <div className="max-w-5xl mx-auto mb-24 hero-enter-d2">
+          <div className="text-center mb-12">
+            <h2 className="text-3xl font-bold mb-4">Šta radi za investitore, agencije i pojedinačne agente?</h2>
+            <p className="text-ink-2 max-w-2xl mx-auto">Nekretnine nisu jedna niša nego nekoliko različitih prodajnih modela. Zato isti marketing plan retko radi jednako dobro za sve.</p>
+          </div>
+          <div className="grid md:grid-cols-2 gap-6">
+            {businessModels.map((item) => (
+              <div key={item.title} className="bg-panel rounded-2xl border border-edge p-6 hover:border-indigo-500/30 transition-colors">
+                <h3 className="text-xl font-bold mb-3">{item.title}</h3>
+                <p className="text-ink-2 leading-relaxed mb-4">{item.text}</p>
+                <Link to={item.route} className="text-sm text-ink-3 hover:text-ink transition-colors underline underline-offset-4 decoration-1">
+                  {item.routeLabel}
+                </Link>
               </div>
             ))}
           </div>
