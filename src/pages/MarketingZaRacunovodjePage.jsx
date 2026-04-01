@@ -48,6 +48,33 @@ const metrics = [
   { num: '15-25x', label: 'Povrat investicije', desc: 'Za 1€ uložen u marketing, računovodstvene agencije zarađuju 15-25€ kroz nove klijente.' },
 ]
 
+const clientModes = [
+  {
+    title: 'Paušalci i mali preduzetnici koji traže brz odgovor',
+    text: 'Ovim klijentima najčešće treba jednostavnost. Ne traže komplikovanu prezentaciju usluga nego jasan odgovor: koliko košta, šta dobijaju i kako brzo mogu da krenu. Tu pobedjuju brzina, transparentnost i dobra lokalna vidljivost.',
+    route: '/google-reklame-cena',
+    routeLabel: 'Kada Search hvata najvredniji hitan intent za računovođe',
+  },
+  {
+    title: 'DOO firme koje traže stabilnog dugoročnog partnera',
+    text: 'Kod ozbiljnijih firmi odluka ne pada na prvu cenu. Gledaju da li delujete pouzdano, organizovano i dovoljno ozbiljno da pratite rast biznisa. Tu više rade autoritet, jasan sajt i dobar sadržaj nego puko obećanje da ste jeftiniji.',
+    route: '/izrada-wordpress-sajta-cena',
+    routeLabel: 'Šta traži sajt koji mora da proda ozbiljnost, ne samo uslugu',
+  },
+  {
+    title: 'Sezonski talasi: završni računi, PDV i osnivanje firme',
+    text: 'Neki periodi donose ogroman skok potražnje. Ako tada nemate dobru stranicu, kampanju i jasan CTA, propustićete najlakše leadove u godini. Ovde marketing mora biti tempiran i spreman pre nego što krene gužva.',
+    route: '/cene-digitalnog-marketinga',
+    routeLabel: 'Kako budžet i paket vezati za sezonski pik, ne samo za prosečan mesec',
+  },
+  {
+    title: 'Agencija koja hoće vrednije B2B klijente, ne samo više upita',
+    text: 'Nije svaki novi klijent dobar klijent. Ako želite firmu koja ostaje duže, plaća više i manje troši vaš tim, marketing mora da filtrira. Fokus nije samo broj upita nego kvalitet i tip saradnje koji vama stvarno odgovara.',
+    route: '/seo-optimizacija-cena',
+    routeLabel: 'Kada SEO i sadržaj pomažu da privučete ozbiljnije klijente',
+  },
+]
+
 const faqs = [
   { q: 'Koliko košta marketing za računovodstvenu agenciju?', a: 'Osnovni paket (sajt + SEO + Google Business) kreće od 400€ mesečno. Sa Google Ads kampanjama, realan budžet je 600-1.500€ mesečno. Jedan novi klijent koji ostaje godinu dana obično pokriva troškove marketinga za ceo kvartal.' },
   { q: 'Da li se isplati ulagati u marketing kad radim sam?', a: 'Posebno tada. Solo računovođe imaju kapacitet za 30-50 klijenata. Cilj nije 100 upita mesečno, nego 3-5 kvalitetnih klijenata koji odgovaraju vašem profilu. Ciljani marketing to omogućava.' },
@@ -123,6 +150,32 @@ export default function MarketingZaRacunovodjePage() {
               </div>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* Decision layer */}
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[980px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
+          <div className="max-w-[760px] mx-auto text-center mb-8">
+            <h2 className="text-[24px] md:text-[30px] font-medium text-ink mb-3">Šta radi za paušalce, DOO i ozbiljnije B2B klijente</h2>
+            <p className="text-[15px] text-ink-2 leading-relaxed">
+              Nije svakoj računovodstvenoj agenciji potreban isti marketing. Nekome trebaju brzi leadovi od malih preduzetnika, nekome stabilni DOO klijenti, a nekome bolji miks vrednijih firmi. Kad to ne odvojite, marketing lako pravi promet, ali ne i zdravu knjigu klijenata.
+            </p>
+          </div>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {clientModes.map((item) => (
+              <div key={item.title} className="rounded-[16px] border border-edge bg-page p-5 md:p-6">
+                <h3 className="text-[18px] font-medium text-ink mb-3">{item.title}</h3>
+                <p className="text-[14px] text-ink-2 leading-relaxed mb-4">{item.text}</p>
+                <Link to={item.route} className="text-[13px] text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+                  {item.routeLabel}
+                </Link>
+              </div>
+            ))}
+          </div>
+          <p className="text-[14px] text-ink-3 leading-relaxed mt-8 text-center max-w-[760px] mx-auto">
+            Ako niste sigurni da li agencija prvo treba da hvata paušalce, da gradi autoritet za DOO klijente ili da filtrira ozbiljnije B2B saradnje, pošaljite nam kratak opis kroz <Link to="/kontakt" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">kontakt formu</Link> i reći ćemo vam šta ima najviše smisla da ide prvo.
+          </p>
         </div>
       </section>
 
