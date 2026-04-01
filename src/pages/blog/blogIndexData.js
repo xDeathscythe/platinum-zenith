@@ -3,6 +3,24 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "izrada-landing-stranice-cena",
+    "title": "Izrada landing stranice: cena, rokovi i šta zapravo ulazi u cenu",
+    "excerpt": "Da li landing stranica treba da košta 150 ili 1.500 evra? Saznajte razlike između jeftinih templejta i custom prodajnih stranica i šta tačno ulazi u cenu.",
+    "date": "2026-04-01",
+    "category": "Web Design",
+    "readTime": "6 min read",
+    "isDraft": false
+  },
+  {
+    "slug": "kako-napraviti-landing-stranicu-koja-konvertuje",
+    "title": "Kako napraviti landing stranicu koja konvertuje 20%+",
+    "excerpt": "Većina landing stranica ima stopu konverzije ispod 2% jer se fokusiraju na dizajn, a ne na prodaju. Evo 5 ključnih elemenata koje uspešna landing stranica mora da ima.",
+    "date": "2026-04-01",
+    "category": "CRO",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "koliko-kosta-los-marketing",
     "title": "Koliko zapravo košta loš marketing (skriveni troškovi o kojima se ne priča)",
     "excerpt": "Najveći trošak u marketingu nije ono što ste platili agenciji, već ono što ste izgubili zbog lošeg pristupa. Otkrijte 4 skrivena troška marketinga o kojima se ne priča.",
@@ -2007,15 +2025,6 @@ export const blogIndexPosts = [
     "date": "2026-02-27",
     "category": "CRO",
     "readTime": "8 min",
-    "isDraft": false
-  },
-  {
-    "slug": "kako-napraviti-landing-stranicu-koja-konvertuje",
-    "title": "Kako napraviti landing stranicu koja konvertuje 20%+",
-    "excerpt": "Vecina landing stranica konvertuje 2-3% posetilaca. Neke konvertuju 20% i viÅ¡e. Razlika nije u dizajnu. Razlika je u strukturi.",
-    "date": "2026-02-27",
-    "category": "CRO",
-    "readTime": "9 min",
     "isDraft": false
   },
   {

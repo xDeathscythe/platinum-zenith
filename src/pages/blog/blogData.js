@@ -1,5 +1,190 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'izrada-landing-stranice-cena',
+    title: 'Izrada landing stranice: cena, rokovi i šta zapravo ulazi u cenu',
+    excerpt: 'Da li landing stranica treba da košta 150 ili 1.500 evra? Saznajte razlike između jeftinih templejta i custom prodajnih stranica i šta tačno ulazi u cenu.',
+    date: '2026-04-01',
+    readTime: '6 min read',
+    category: 'Web Design',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Cene', 'Landing Page', 'Web Design', 'CRO'],
+    image: 'strategy4.png',
+    content: `
+Kada pitate "Koliko košta izrada landing stranice?", odgovori koje dobijete mogu da vas zbune. 
+Neko će vam tražiti 150 evra i reći da je gotovo za dva dana. Neko će tražiti 1.500 evra i reći da je rok tri nedelje.
+
+Kako je moguće da razlika u ceni za "istu stvar" bude desetostruka?
+
+Odgovor je jednostavan: **Ne kupujete istu stvar.** 
+Landing stranica od 150 evra je dizajn koji je samo "zakačen" na internet. Landing stranica od 1.500 evra je prodajni sistem optimizovan da posetioce pretvara u kupce. 
+
+Evo šta tačno utiče na cenu izrade landing stranice u Srbiji 2026. godine i šta dobijate za svoj novac.
+
+## 1. Templejt vs Custom dizajn optimizovan za konverziju
+
+Najveća razlika u ceni dolazi iz načina na koji se stranica pravi.
+
+**Jeftine landing stranice (150 - 300 evra):**
+Ove stranice se obično prave tako što dizajner kupi gotov templejt za 30 dolara, ubaci vaš logo, zameni slike i prekopira tekst koji ste vi poslali. Nema istraživanja vaše ciljne grupe. Nema strategije. Dobijete sajt koji "lepo izgleda", ali čija je konverzija potpuno nasumična. 
+
+**Premium landing stranice (600+ evra):**
+Ovde se ne kupuje templejt. Dizajner (ili tim) prvo analizira vaš proizvod, vašu konkurenciju i šta vaši kupci zapravo žele. Zatim se radi wireframe (strukturni nacrt) koji vodi posetioca kroz logičan prodajni proces. Svaki element - od H1 naslova do CTA dugmeta - postavljen je sa jednom jedinom namerom: da donese konverziju.
+
+## 2. Copywriting (Pisanje prodajnog teksta)
+
+Kada angažujete jeftinu agenciju, oni vam obično kažu: *"Samo nam pošaljite tekstove u Word dokumentu i mi ćemo to da ubacimo."*
+
+Ovo je recept za katastrofu. Kao vlasnik firme, vi ste stručnjak za svoj proizvod, ali niste stručnjak za pisanje prodajnih web tekstova. Vi ćete napisati tekst koji je previše dugačak, previše tehnički i koji se fokusira na vas, a ne na probleme kupca.
+
+Ozbiljna izrada landing stranice **uvek uključuje copywriting**.
+Profesionalni copywriter ne piše tekst da bi "popunio prostor". On piše naslove koji zadržavaju pažnju i bullet poene koji [otklanjaju sumnje](/blog/zasto-vas-sajt-ne-prodaje-sta-promeniti). On zna kako da napiše "Above the fold" sekciju koja u 3 sekunde objašnjava šta prodajete i zašto je to bitno.
+
+Pisanje vrhunskog prodajnog teksta traje duže nego sam dizajn stranice, i zato drastično utiče na cenu.
+
+## 3. Brzina učitavanja i tehnička optimizacija
+
+U 2026. godini, ako se vaša stranica učitava duže od 3 sekunde, vi ste već izgubili 50% mobilnih posetilaca.
+Naročito ako tu stranicu koristite za [Google Ads](/google-reklame-cena) ili [Facebook oglase](/blog/facebook-vs-instagram-oglasi-gde-je-vasa-publika).
+
+Jeftine stranice su obično pretrpane nepotrebnim kodom i ogromnim, nekompresovanim slikama. One se na telefonu učitavaju po 7 sekundi. Google to kažnjava tako što vam naplaćuje skuplji klik, a korisnici to kažnjavaju tako što prosto odu.
+
+Kvalitetna izrada podrazumeva tehničku optimizaciju:
+- Slike moraju biti kompresovane u WebP format.
+- Kod mora biti čist i minimizovan (bez nepotrebnih dodataka).
+- Skripte za praćenje (Facebook Pixel, Google Tag Manager) moraju biti implementirane pravilno, bez rušenja performansi.
+
+## 4. Analitika i praćenje (Tracking)
+
+Landing stranica nema nikakvu vrednost ako ne znate šta se na njoj dešava.
+- Koliko ljudi je kliknulo na dugme?
+- Koliko ih je popunilo formu?
+- Na kom delu stranice su odustali?
+
+Kada platite punu cenu za izradu, vi ne dobijate samo dizajn. Dobijate sistem u kome je podešena analitika (Google Analytics 4), gde su konverzije pravilno mapirane, i gde možete tačno da izračunate [povrat na investiciju (ROI)](/blog/kako-meriti-roi-marketinga-kpi-vodic).
+
+## Šta ulazi u rok izrade?
+
+Kada vam neko kaže "Gotovo za 2 dana", to znači da taj neko samo menja boje na gotovom templejtu.
+Realni rok za kvalitetnu landing stranicu je **između 10 i 20 dana**.
+
+Zašto toliko?
+1. **Istraživanje i strategija (2-3 dana):** Analiza tržišta i formiranje ponude.
+2. **Copywriting (3-5 dana):** Pisanje strukture i prodajnog teksta koji konvertuje.
+3. **Dizajn i Development (5-7 dana):** Postavljanje elemenata, mobilna optimizacija i testiranje brzine.
+4. **Tracking setup i QA (2 dana):** Podešavanje Pixela, Analitike i testiranje svih formi za kontakt.
+
+## Zaključak: Da li se isplati platiti više?
+
+Landing stranica nije trošak dizajna, već investicija u prodaju.
+Ako platite 200 evra za stranicu, i na oglase potrošite 1.000 evra sa nula rezultata - ta stranica vas nije koštala 200 evra. [Koštala vas je 1.200 evra.](/blog/koliko-kosta-los-marketing)
+
+Ako platite 1.000 evra za stranicu koja vam svakog meseca generiše 50 novih, kvalitetnih lead-ova - ta stranica je sebe isplatila u prvoj nedelji.
+
+Ukoliko planirate kampanju i potrebna vam je stranica čiji je jedini zadatak [maksimalna konverzija](/blog/kako-napraviti-landing-stranicu-koja-konvertuje), pogledajte naš proces i [zakažite besplatne konsultacije](/kontakt). Pomoći ćemo vam da razumete tačan budžet koji je potreban za vaš projekat.
+`
+  },
+
+  {
+    slug: 'kako-napraviti-landing-stranicu-koja-konvertuje',
+    title: 'Kako napraviti landing stranicu koja konvertuje 20%+',
+    excerpt: 'Većina landing stranica ima stopu konverzije ispod 2% jer se fokusiraju na dizajn, a ne na prodaju. Evo 5 ključnih elemenata koje uspešna landing stranica mora da ima.',
+    date: '2026-04-01',
+    readTime: '8 min read',
+    category: 'CRO',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Landing Page', 'Konverzija', 'Web Design', 'CRO'],
+    image: 'analyze.png',
+    content: `
+Kada pustite [Google Ads kampanju](/google-reklame-cena) ili Facebook oglas, vi ste uradili samo pola posla. 
+Doveli ste posetioca na sajt. Sada taj posetilac mora da postane kupac.
+
+Mnoge firme u Srbiji troše hiljade evra na oglase, a onda taj saobraćaj šalju na generičku početnu (Home) stranicu.
+Početna stranica služi da pokaže ko ste. Landing stranica služi da proda JEDNU specifičnu stvar.
+
+Ako vaša landing stranica ima stopu konverzije od 2%, to znači da 98 od 100 ljudi koje ste platili samo zatvori tab. 
+Ako tu stopu podignete na 4%, vi ste duplirali profit bez dodatnog ulaganja u oglase. 
+
+Evo 5 elemenata koje svaka visokokonvertujuća landing stranica mora da ima.
+
+## 1. Pravilo jednog cilja (One Page = One Goal)
+
+Glavna razlika između obične i landing stranice je fokus.
+Na običnom [WordPress sajtu](/izrada-wordpress-sajta-cena), imate meni, navigaciju, link ka blogu, link "O nama", formu za newsletter i linkove ka društvenim mrežama.
+
+Na landing stranici **nemate ništa od toga**.
+Nemate navigaciju. Nemate meni. Imate samo logo i JEDAN Call-to-Action (CTA).
+
+Zašto? Zato što svaka dodatna opcija smanjuje šansu da posetilac uradi ono zbog čega je došao. Ako ste mu prodali ideju o konsultacijama, ne nudite mu usput da čita blog. Izbor stvara paralizu. 
+
+Kada dizajnirate landing stranicu, zapitajte se: "Šta je jedina akcija koju želim da posetilac uradi?" Sve što ne vodi ka toj akciji - obrišite.
+
+## 2. "Above the Fold" odlučuje o svemu
+
+Deo ekrana koji posetilac vidi pre nego što počne da skroluje naziva se "Above the fold".
+Imate tačno tri sekunde da ga zadržite. 
+
+U ta tri sekunda, vaš posetilac mora da shvati tri stvari:
+1. Šta vi prodajete?
+2. Kako to njemu pomaže?
+3. Šta treba da uradi sledeće?
+
+Vaš H1 naslov ne sme da bude pametan. Ne sme da bude poetičan. Mora da bude jasan.
+- **Loše:** "Vaš put ka digitalnoj transformaciji."
+- **Dobro:** "Povećajte prodaju kroz Google Ads kampanje za samo 30 dana."
+
+Odmah ispod naslova ide kratak podnaslov koji objašnjava *kako* to radite, a ispod njega jasno dugme u kontrastnoj boji (npr. "Zatražite besplatnu analizu"). 
+
+## 3. Dokazi, dokazi, dokazi (Social Proof)
+
+Svi mogu da napišu "Mi smo najbolji u svom poslu". Ljudi vam ne veruju. Veruju drugim ljudima.
+
+Zbog toga su recenzije i studije slučaja najjači prodajni alat koji imate. 
+Ne stavljajte ih na dno stranice. Odmah ispod glavne sekcije (Above the fold) stavite logo firmi sa kojima ste radili ili kratku video izjavu zadovoljnog klijenta.
+
+- "Kako smo firmi X podigli prihod za 40%."
+- "Preko 5.000 zadovoljnih pacijenata."
+- Slika pravog Google Review-a sa pet zvezdica.
+
+Kada klijent vidi da su drugi već doneli tu odluku i prošli dobro, njegov osećaj rizika drastično pada.
+
+## 4. "Šta ako" sekcija (Otklanjanje prigovora)
+
+Kada posetilac skroluje vašu stranicu, on u glavi postavlja pitanja i traži razloge da ne kupi.
+- "Ovo je sigurno preskupo."
+- "Šta ako mi se ne svidi?"
+- "Koliko dugo moram da čekam isporuku?"
+
+Nemojte se praviti da ovi prigovori ne postoje. Suočite se sa njima direktno na stranici.
+
+Dodajte sekciju sa čestim pitanjima (FAQ). Dodajte jasnu garanciju (npr. "100% povraćaj novca ako niste zadovoljni u prvih 14 dana"). Ako imate višu [cenu digitalnog marketinga](/cene-digitalnog-marketinga) od konkurencije, objasnite tačno zašto vaša usluga košta više i šta sve klijent dobija.
+
+Kada odgovorite na njegove sumnje pre nego što ih on i izgovori, gradite ogroman autoritet.
+
+## 5. Brzina učitavanja je nevidljivi ubica konverzija
+
+Možete imati savršen copy, prelep dizajn i sjajnu ponudu. Ako se vaša stranica učitava duže od tri sekunde, izgubili ste 50% mobilnog saobraćaja.
+
+Posebno ako dovodite saobraćaj sa Instagrama ili Facebooka, gde ljudi klikću iz mobilne aplikacije i očekuju trenutno učitavanje. 
+
+- Kompresujte sve slike (koristite WebP format).
+- Minimizujte kod.
+- Izbegavajte preteške video backgrounde na mobilnim uređajima.
+
+Povećanje brzine učitavanja sa 4 sekunde na 2 sekunde direktno utiče na pad cene po kliku (CPC) i rast konverzije.
+
+## Od saobraćaja do profita
+
+Landing stranica nije umetničko delo. Ona je alat za konverziju. Njena jedina svrha je da pretvori anonimnog posetioca u topli lead ili kupca.
+
+Ako trošite novac na oglase, a niste sigurni da li vaša landing stranica maksimalno koristi taj saobraćaj, [zakažite besplatan audit](/kontakt). Pregledaćemo vašu stranicu, analizirati korisničko iskustvo (CRO) i dati vam konkretne korake šta da izmenite da biste duplirali konverziju već ovog meseca.
+`
+  },
+
+  {
     slug: 'koliko-kosta-los-marketing',
     title: 'Koliko zapravo košta loš marketing (skriveni troškovi o kojima se ne priča)',
     excerpt: 'Najveći trošak u marketingu nije ono što ste platili agenciji, već ono što ste izgubili zbog lošeg pristupa. Otkrijte 4 skrivena troška marketinga o kojima se ne priča.',

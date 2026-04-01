@@ -5,8 +5,24 @@
     <link>https://platinumzenith.com/blog</link>
     <description>Praktični saveti o marketingu, prodaji i rastu biznisa.</description>
     <language>sr-rs</language>
-    <lastBuildDate>Tue, 31 Mar 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://platinumzenith.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Izrada landing stranice: cena, rokovi i šta zapravo ulazi u cenu</title>
+      <link>https://platinumzenith.com/blog/izrada-landing-stranice-cena</link>
+      <guid isPermaLink="true">https://platinumzenith.com/blog/izrada-landing-stranice-cena</guid>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+      <category>Web Design</category>
+      <description>Da li landing stranica treba da košta 150 ili 1.500 evra? Saznajte koje su razlike između jeftinih templejta i custom stranica optimizovanih za konverziju, šta tačno plaćate i kako da izbegnete skrivene troškove.</description>
+    </item>
+    <item>
+      <title>Kako napraviti landing stranicu koja konvertuje 20%+</title>
+      <link>https://platinumzenith.com/blog/kako-napraviti-landing-stranicu-koja-konvertuje</link>
+      <guid isPermaLink="true">https://platinumzenith.com/blog/kako-napraviti-landing-stranicu-koja-konvertuje</guid>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+      <category>CRO</category>
+      <description>Većina landing stranica u Srbiji ima stopu konverzije ispod 2%. Zašto? Zato što se fokusiraju na dizajn umesto na prodajnu psihologiju. Evo 5 elemenata koje svaka uspešna landing stranica mora da ima.</description>
+    </item>
     <item>
       <title>Koliko zapravo košta loš marketing (skriveni troškovi o kojima se ne priča)</title>
       <link>https://platinumzenith.com/blog/koliko-kosta-los-marketing</link>
@@ -1894,14 +1910,6 @@
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
       <category>CRO</category>
       <description>Sajt izgleda lepo, ali telefon ne zvoni. Problem skoro nikad nije u dizajnu. Problem je u tome Å¡to sajt ne radi ono za Å¡ta je napravljen.</description>
-    </item>
-    <item>
-      <title>Kako napraviti landing stranicu koja konvertuje 20%+</title>
-      <link>https://platinumzenith.com/blog/kako-napraviti-landing-stranicu-koja-konvertuje</link>
-      <guid isPermaLink="true">https://platinumzenith.com/blog/kako-napraviti-landing-stranicu-koja-konvertuje</guid>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-      <category>CRO</category>
-      <description>Vecina landing stranica konvertuje 2-3% posetilaca. Neke konvertuju 20% i viÅ¡e. Razlika nije u dizajnu. Razlika je u strukturi.</description>
     </item>
     <item>
       <title>Automatizacija marketinga: Å¡ta moÅ¾ete delegirati maÅ¡ini</title>
