@@ -231,6 +231,33 @@ const ninetyDayPlan = [
   },
 ]
 
+const readinessWarnings = [
+  {
+    title: 'Ponuda traži aktivnu pretragu, ne samo pažnju',
+    text: 'Ako vas ljudi uglavnom traže tek kada imaju hitan problem ili jasnu nameru kupovine, Instagram neće biti prvi kanal koji nosi rezultat. Tu često više smisla ima Search sloj koji hvata postojeću potražnju.',
+    route: '/google-reklame-cena',
+    routeLabel: 'Uporedite kada je Google bolji prvi potez',
+  },
+  {
+    title: 'Nemate dovoljno kreativa za redovno testiranje',
+    text: 'Instagram se brzo zasiti. Ako nemate novi hook, novi kadar, novi angle ili makar svež UGC na svake 1 do 3 nedelje, cena po rezultatu obično krene nagore bez upozorenja.',
+    route: '/drustvene-mreze',
+    routeLabel: 'Pogledajte kako da složite content i paid kao jedan sistem',
+  },
+  {
+    title: 'Klik dolazi na stranicu koja ne zatvara',
+    text: 'Problem nije uvek u publici. Često oglas odradi svoj deo, a landing izgubi korisnika jer nema jasnu ponudu, trust elemente ili dobar CTA. Tada prvo popravljate stranicu, pa tek onda dižete spend.',
+    route: '/izrada-wordpress-sajta-cena',
+    routeLabel: 'Proverite šta ulazi u stranicu koja stvarno konvertuje',
+  },
+  {
+    title: 'Nemate brz follow-up za leadove',
+    text: 'Meta često donese interesovanje pre nego što donese odluku. Ako lead čeka odgovor satima, kampanja izgleda skuplje nego što jeste. Pre ozbiljnog budžeta rešite ko zove, kada odgovara i kako se lead kvalifikuje.',
+    route: '/consulting',
+    routeLabel: 'Sredite prodajni proces pre skaliranja budžeta',
+  },
+]
+
 const mistakes = [
   {
     title: 'Previše "lepe" a premalo prodajne kreative',
@@ -607,6 +634,35 @@ export default function InstagramReklameCenaPage() {
               </div>
             ))}
           </div>
+        </div>
+      </section>
+
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[980px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
+          <h2 className="text-[24px] md:text-[30px] font-medium text-ink mb-4 text-center">Kada Instagram reklame nisu prvi potez</h2>
+          <p className="text-[15px] text-ink-3 text-center mb-8 max-w-[760px] mx-auto">
+            Instagram dobro radi kada treba da probudite pažnju, ispričate priču i vizuelno pokažete ponudu. Ali postoje situacije kada nije pametno da baš on bude prvi kanal u koji sipate budžet.
+          </p>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {readinessWarnings.map((item) => (
+              <div key={item.title} className="rounded-[14px] border border-edge bg-page/40 p-5 md:p-6">
+                <h3 className="text-[16px] font-medium text-ink mb-3">{item.title}</h3>
+                <p className="text-[14px] text-ink-2 leading-relaxed mb-4">{item.text}</p>
+                <Link to={item.route} className="text-[13px] text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+                  {item.routeLabel}
+                </Link>
+              </div>
+            ))}
+          </div>
+
+          <p className="text-[14px] text-ink-3 leading-relaxed mt-8 text-center max-w-[760px] mx-auto">
+            Ako niste sigurni da li vam treba Instagram kao glavni kanal, pomoćni kanal ili samo remarketing sloj, pošaljite nam ponudu i funnel kroz{' '}
+            <Link to="/kontakt" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+              kontakt formu
+            </Link>{' '}
+            i vratićemo vam iskren predlog redosleda testiranja.
+          </p>
         </div>
       </section>
 
