@@ -1750,8 +1750,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "seo-vs-ppc-sta-je-bolje-za-dugorocni-rast",
-    "title": "SEO vs PPC: šta je bolje za dugorocni rast",
-    "excerpt": "SEO je maraton, PPC je sprint. Za vecinu firmi najbolji rast dolazi iz pametne kombinacije oba kanala, uz jasan plan budžeta i ciljeva.",
+    "title": "SEO vs PPC: šta je bolje za dugoročni rast",
+    "excerpt": "SEO je maraton, PPC je sprint. Za većinu firmi najbolji rast dolazi iz pametne kombinacije oba kanala, uz jasan plan budžeta i ciljeva.",
     "date": "2026-02-21",
     "category": "SEO",
     "readTime": "6 min",

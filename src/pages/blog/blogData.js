@@ -21179,78 +21179,79 @@ elite da pokrenete video marketing za vaš biznis? [Javite nam se](/kontakt) i n
   },
   {
     slug: 'seo-vs-ppc-sta-je-bolje-za-dugorocni-rast',
-    title: 'SEO vs PPC: šta je bolje za dugorocni rast',
-    excerpt: 'SEO je maraton, PPC je sprint. Za vecinu firmi najbolji rast dolazi iz pametne kombinacije oba kanala, uz jasan plan budžeta i ciljeva.',
+    title: 'SEO vs PPC: šta je bolje za dugoročni rast',
+    excerpt: 'SEO je maraton, PPC je sprint. Za većinu firmi najbolji rast dolazi iz pametne kombinacije oba kanala, uz jasan plan budžeta i ciljeva.',
     date: '2026-02-21',
     category: 'SEO',
     readTime: '6 min',
     content: `
-## Razlika u jednoj recenici
+## Razlika u jednoj rečenici
 
-SEO: gradite imovinu koja donosi saobracaj besplatno, ali zahteva vreme. PPC: kupujete saobracaj odmah, ali placate za svaki klik. Oba rade. Pitanje je koji je pravi za vašu situaciju.
+SEO: gradite imovinu koja donosi saobraćaj besplatno, ali zahteva vreme. PPC: kupujete saobraćaj odmah, ali plaćate za svaki klik. Oba rade. Pitanje je koji je pravi za vašu situaciju.
 
 ## Prednosti SEO-a
 
-**Compound efekat.** Blog post koji se rangira na Google-u donosi saobracaj mesecima i godinama bez dodatnog troka. Firma sa 100 rangiranih stranica dobija hiljade posetilaca mesecno besplatno.
+**Compound efekat.** Blog post koji se rangira na Google-u donosi saobraćaj mesecima i godinama bez dodatnog troška. Firma sa 100 rangiranih stranica dobija hiljade posetilaca mesečno besplatno.
 
-**Poverenje.** Organski rezultati dobijaju 70% klikova. Placeni 30%. Ljudi instinktivno više veruju organskim rezultatima.
+**Poverenje.** Organski rezultati dobijaju oko 70% klikova. Plaćeni oko 30%. Ljudi instinktivno više veruju organskim rezultatima.
 
-**Nii dugorocni troak.** Pocetna investicija u SEO je veca, ali mesecni troak opada kako se sadržaj akumulira. PPC troak ostaje konstantan ili raste.
+**Niži dugoročni trošak.** Početna investicija u SEO je veća, ali mesečni trošak opada kako se sadržaj akumulira. PPC trošak ostaje konstantan ili raste.
 
 ## Prednosti PPC-a
 
-**Brzina.** SEO zahteva 3-6 meseci za rezultate. PPC daje rezultate za 24-48 sati. Ako trebate klijente SADA, PPC je jedini odgovor.
+**Brzina.** SEO zahteva 3-6 meseci za rezultate. PPC daje rezultate za 24-48 sati. Ako trebate klijente odmah, PPC je jedini odgovor.
 
-**Preciznost.** Moete ciljati tacno koga elite: lokaciju, demografiju, interesovanja, pa cak i ljude koji su posetili vaš sajt. SEO nema tu preciznost.
+**Preciznost.** Možete ciljati tačno koga želite: lokaciju, demografiju, interesovanja, pa čak i ljude koji su posetili vaš sajt. SEO nema tu preciznost.
 
 **Predvidljivost.** Kad znate da vam svaki klik košta X i konvertuje Y%, možete precizno predvideti rezultate na osnovu budžeta.
 
-**Testiranje.** PPC je idealan za testiranje poruka, ponuda i stranica pre nego što investirate u dugorocan SEO sadržaj.
+**Testiranje.** PPC je idealan za testiranje poruka, ponuda i stranica pre nego što investirate u dugoročan SEO sadržaj.
 
-> SEO je tedni racun koji raste sa kamatom. PPC je bankomat koji daje ke odmah. Pametne firme koriste oba.
+> SEO je štedni račun koji raste sa kamatom. PPC je bankomat koji daje keš odmah. Pametne firme koriste oba.
 
 ## Kad SEO radi bolje
 
-- Dugorocni biznis sa stabilnim tržištem
+- Dugoročni biznis sa stabilnim tržištem
 - Industrije sa skupim klikovima (advokati, osiguranje, finansije)
-- Firme koje mogu da cekaju 3-6 meseci za rezultate
-- Lokalni biznisi (lokalni SEO + Google Business = besplatan saobracaj)
+- Firme koje mogu da čekaju 3-6 meseci za rezultate
+- Lokalni biznisi (lokalni SEO + Google Business = besplatan saobraćaj)
 
 ## Kad PPC radi bolje
 
 - Lansiranje novog proizvoda ili usluge
 - Sezonski biznisi (nemate 6 meseci za SEO pred sezonu)
-- Testiranje novog trišta ili ponude
+- Testiranje novog tržišta ili ponude
 - Kad trebate rezultate odmah (nov biznis, cash flow problem)
 
-## Kombinacija koja pobeduje
+## Kombinacija koja pobeđuje
 
-Najuspenije firme koriste oba kanala zajedno:
+Najuspešnije firme koriste oba kanala zajedno:
 
-**Faza 1 (mesec 1-3):** PPC za brze rezultate + pocnite sa SEO sadržajem.
-**Faza 2 (mesec 3-6):** PPC nastavlja da donosi lead-ove. SEO pocinje da se rangira.
-**Faza 3 (mesec 6+):** SEO preuzima deo saobracaja. PPC budžet se smanjuje ili preusmerava na retargeting.
+**Faza 1 (mesec 1-3):** PPC za brze rezultate + počnite sa SEO sadržajem.
+**Faza 2 (mesec 3-6):** PPC nastavlja da donosi lead-ove. SEO počinje da se rangira.
+**Faza 3 (mesec 6+):** SEO preuzima deo saobraćaja. PPC budžet se smanjuje ili preusmerava na retargeting.
 
-Rezultat: u mesecu 12, firma dobija 40-50% saobracaja besplatno (SEO) i 50-60% placeno (PPC), ali ukupan troak po lead-u je 30-40% niši jer organski saobracaj ne košta ništa.
+Rezultat: u mesecu 12, firma dobija 40-50% saobraćaja besplatno (SEO) i 50-60% plaćeno (PPC), ali ukupan trošak po lead-u je 30-40% niži jer organski saobraćaj ne košta ništa.
 
 ## Koliko investirati
 
-Za firmu sa budžetom od 2.000€ mesecno za marketing:
+Za firmu sa budžetom od 2.000€ mesečno za marketing:
 
-**Samo PPC pristup:** 2.000€ na oglase ? ~80 klikova mesecno ? 3-5 konverzija ? 400-700€ po kupcu.
+**Samo PPC pristup:** 2.000€ na oglase → oko 80 klikova mesečno → 3-5 konverzija → 400-700€ po kupcu.
 
-**Kombinovani pristup:** 1.000€ PPC + 1.000€ SEO ? 40 klikova iz PPC + rastuci organski saobracaj ? mesec 6: isti broj konverzija za 60% cene.
+**Kombinovani pristup:** 1.000€ PPC + 1.000€ SEO → 40 klikova iz PPC + rastući organski saobraćaj → mesec 6: isti broj konverzija za oko 60% cene.
 
-Pogledajte kako [na SEO pristup](/digitalni-marketing) pomaže klijentima da se pojave prvi na pretrazi.
+Pogledajte kako [naš SEO pristup](/digitalni-marketing) pomaže klijentima da se pojave prvi na pretrazi.
 
-Ako planirate placeni kanal, pogledajte i [Google reklame cena](/google-reklame-cena) i [Instagram reklame cena](/instagram-reklame-cena).
+Ako planirate plaćeni kanal, pogledajte i [Google reklame cena](/google-reklame-cena) i [Instagram reklame cena](/instagram-reklame-cena).
 
-Takođe preporucujemo: [Lokalni SEO: kako se pojaviti prvi kad neko pretraži u vašem gradu](/blog/lokalni-seo-kako-se-pojaviti-prvi).
+Takođe preporučujemo: [Lokalni SEO: kako se pojaviti prvi kad neko pretraži u vašem gradu](/blog/lokalni-seo-kako-se-pojaviti-prvi).
 
 ---
 
-Niste sigurni gde da ulaete? [Javite nam se](/kontakt) i napravicemo vam plan koji kombinuje najbolje od oba sveta.
+Niste sigurni gde da ulažete? [Javite nam se](/kontakt) i napravićemo vam plan koji kombinuje najbolje od oba sveta.
 `,
+
   },
   {
     slug: 'psihologija-zaradjivanja-mentalni-blokovi',
