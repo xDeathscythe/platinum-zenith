@@ -71,6 +71,33 @@ const localFaqs = [
   { q: 'Šta ako već imam sajt ali ne donosi rezultate?', a: 'Radimo besplatnu analizu vašeg sajta i kažemo vam konkretno šta ne valja i šta bi trebalo popraviti. Bez obaveza.' },
 ]
 
+const localFitScenarios = [
+  {
+    title: 'Zanatlije i terenske usluge',
+    text: 'Vodoinstalateri, servisi, majstori i manje građevinske ekipe obično najbrže vide rezultat kada se spoje Google pretraga, lokalni landing i brz odgovor na poziv. Tu nije poenta da budete svuda. Poenta je da vas ljudi nađu baš kad im gorite pod rukom.',
+    route: '/marketing-za-zanatlije',
+    routeLabel: 'Kako izgleda marketing za zanatlije',
+  },
+  {
+    title: 'Stomatološke ordinacije i privatne klinike',
+    text: 'Kod zdravstvenih usluga ljudi ne kupuju impulsivno. Traže poverenje, jasnu proceduru i razlog da baš vama ostave upit. Zato lokalni SEO, sadržaj i ozbiljan sajt rade zajedno, a ne svako za sebe.',
+    route: '/marketing-za-stomatologe',
+    routeLabel: 'Pogledajte pristup za stomatologe',
+  },
+  {
+    title: 'Frizerski i kozmetički saloni',
+    text: 'Za ove firme Instagram i lokalna reputacija često rade mnogo brže od generičnog “marketing paketa”. Problem nastaje kada se troši na sadržaj bez sistema za termine, upite i remarketing. Tada izgleda kao da marketing ne radi, a zapravo funnel nije zatvoren.',
+    route: '/marketing-za-frizerske-salone',
+    routeLabel: 'Šta ima smisla za salone u lokalnom tržištu',
+  },
+  {
+    title: 'Proizvodne i B2B firme iz Banata',
+    text: 'Tu prodaja retko kreće iz jedne objave. Potrebni su ozbiljniji sajt, jasna ponuda, kredibilitet i kanal koji hvata upite ljudi koji već traže partnera ili dobavljača. Drugim rečima, manje praznog reach-a, više preciznog positioning-a.',
+    route: '/marketing-za-proizvodne-firme',
+    routeLabel: 'Kako radi marketing za proizvodne firme',
+  },
+]
+
 export default function MarketingAgencijaZrenjaninPage() {
   usePageMeta()
 
@@ -133,6 +160,36 @@ export default function MarketingAgencijaZrenjaninPage() {
               </div>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* Local fit by business type */}
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[980px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
+          <h2 className="text-[24px] md:text-[30px] font-medium text-ink mb-4 text-center">Ko u Zrenjaninu najbrže vidi rezultat od digitalnog marketinga?</h2>
+          <p className="text-[15px] text-ink-3 text-center mb-8 max-w-[760px] mx-auto">
+            Nisu svim firmama potrebni isti kanali, isti budžeti ni isti tempo. Najveća greška je kada lokalni biznis uzme generičan marketing plan koji lepo zvuči, a uopšte ne prati kako se u toj branši stvarno kupuje.
+          </p>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {localFitScenarios.map((item) => (
+              <div key={item.title} className="rounded-[14px] border border-edge bg-page/40 p-5 md:p-6">
+                <h3 className="text-[16px] font-medium text-ink mb-3">{item.title}</h3>
+                <p className="text-[14px] text-ink-2 leading-relaxed mb-4">{item.text}</p>
+                <Link to={item.route} className="text-[13px] text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+                  {item.routeLabel}
+                </Link>
+              </div>
+            ))}
+          </div>
+
+          <p className="text-[14px] text-ink-3 leading-relaxed mt-8 text-center max-w-[760px] mx-auto">
+            Ako niste sigurni koji miks kanala ima smisla baš za vaš tip firme u Zrenjaninu, pošaljite nam ukratko čime se bavite kroz{' '}
+            <Link to="/kontakt" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+              kontakt formu
+            </Link>{' '}
+            i dobićete iskren predlog gde ima smisla krenuti, a gde nema.
+          </p>
         </div>
       </section>
 
