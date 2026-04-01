@@ -39,6 +39,33 @@ const metrics = [
   { num: '4-6x', label: 'Povrat investicije', desc: 'Za svaki uloženi euro u marketing, ordinacije zarađuju 4-6€ kroz nove pacijente.' },
 ]
 
+const patientModes = [
+  {
+    title: 'Hitni bolovi i pacijenti koji zovu odmah',
+    text: 'Kada nekoga zaboli zub, ne istražuje dugo. Traži ozbiljnu ordinaciju, jasan broj telefona i osećaj da će ga neko primiti brzo. Tu presuđuju Google vidljivost, mapa i snažan prvi utisak u nekoliko sekundi.',
+    route: '/google-reklame-cena',
+    routeLabel: 'Kada Search hvata najvredniji hitan intent',
+  },
+  {
+    title: 'Implanti, ortodoncija i estetske usluge',
+    text: 'Kod skupljih zahvata pacijent ne bira samo po blizini. Gleda poverenje, rezultate, objašnjenja, profil doktora i osećaj sigurnosti. Tu marketing mora da proda stručnost i iskustvo, ne samo da dovede klik.',
+    route: '/izrada-wordpress-sajta-cena',
+    routeLabel: 'Šta traži sajt koji mora prvo da izgradi poverenje za veći zahvat',
+  },
+  {
+    title: 'Porodični pacijenti i redovne kontrole',
+    text: 'Ovde nije poenta samo jedan termin. Poenta je da porodica nastavi da dolazi, preporuči vas i koristi više usluga kroz vreme. Zato više vrede lokalni autoritet, recenzije i uredan sistem zakazivanja nego bilo kakav agresivan oglas.',
+    route: '/seo-optimizacija-cena',
+    routeLabel: 'Kako lokalni SEO pravi stabilniji tok pacijenata na duži rok',
+  },
+  {
+    title: 'Ordinacija koja želi više premium pacijenata, ne samo više upita',
+    text: 'Neke ordinacije već imaju dovoljno upita, ali žele bolji miks usluga i vrednijeg pacijenta. Tada marketing mora da filtrira, ne samo da pojača broj kontakata. Fokus je na profitabilnijim procedurama i kvalitetu lead-a, ne na gomili poziva.',
+    route: '/cene-digitalnog-marketinga',
+    routeLabel: 'Kako budžet i paket vezati za bolju strukturu pacijenata',
+  },
+]
+
 const faqs = [
   { q: 'Koliko košta marketing za stomatološku ordinaciju?', a: 'Osnovni paket (Google Business + SEO + sajt održavanje) kreće od 400€ mesečno. Sa Google Ads kampanjama, realan budžet je 700-2.000€. Za perspektivu: 5 novih pacijenata mesečno po 800€ lifetime value je 4.000€ prihoda.' },
   { q: 'Da li smemo koristiti before/after slike u oglasima?', a: 'Da, ali uz pisanu dozvolu pacijenta i uz napomenu da su rezultati individualni. Facebook ima strožija pravila za zdravstvene oglase, pa koristimo pristupe koji su u skladu sa njihovom politikom.' },
@@ -92,6 +119,32 @@ export default function MarketingZaStomatologePage() {
               </div>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* Decision layer */}
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[980px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
+          <div className="max-w-[760px] mx-auto text-center mb-8">
+            <h2 className="text-[24px] md:text-[30px] font-medium text-ink mb-3">Šta radi za hitne bolove, estetiku i porodične pacijente</h2>
+            <p className="text-[15px] text-ink-2 leading-relaxed">
+              Nije svakoj ordinaciji potreban isti marketing. Jedna hoće hitne pozive, druga gradi poverenje za implante i estetiku, treća želi stabilan tok porodičnih pacijenata. Kad to ne odvojite, marketing lako izgleda aktivno, ali ne dovodi pravu vrstu termina.
+            </p>
+          </div>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {patientModes.map((item) => (
+              <div key={item.title} className="rounded-[16px] border border-edge bg-page p-5 md:p-6">
+                <h3 className="text-[18px] font-medium text-ink mb-3">{item.title}</h3>
+                <p className="text-[14px] text-ink-2 leading-relaxed mb-4">{item.text}</p>
+                <Link to={item.route} className="text-[13px] text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+                  {item.routeLabel}
+                </Link>
+              </div>
+            ))}
+          </div>
+          <p className="text-[14px] text-ink-3 leading-relaxed mt-8 text-center max-w-[760px] mx-auto">
+            Ako niste sigurni da li ordinacija prvo treba da hvata hitne pacijente, da jača premium zahvate ili da gradi dugoročni lokalni autoritet, pošaljite nam kratak opis kroz <Link to="/kontakt" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">kontakt formu</Link> i reći ćemo vam šta ima najviše smisla da ide prvo.
+          </p>
         </div>
       </section>
 
