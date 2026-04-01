@@ -71,6 +71,33 @@ const faqs = [
   { q: 'Šta ako nemam budžet ni za jedno ni za drugo?', a: 'Počnite sami. WordPress sa besplatnim temama, Canva za grafiku, Google My Business za vidljivost. Kad počnete da zarađujete, investirajte u profesionalnu pomoć. Bolje to nego loš sajt od 100€ koji odbija klijente.' },
 ]
 
+const costlyScenarios = [
+  {
+    title: 'Kad jedan čovek treba da glumi ceo tim',
+    text: 'Ako vam u isto vreme trebaju strategija, copy, dizajn, development i SEO, freelancer deluje jeftinije samo na prvoj fakturi. Posle kreću rupe: neko napiše slab tekst, neko drugi krpi brzinu, treći doradi strukturu. Tu novac ne curi na cenu rada, nego na prepravke i izgubljene mesece.',
+    route: '/cene-digitalnog-marketinga',
+    routeLabel: 'Pogledajte koliko košta kada više disciplina mora da radi zajedno',
+  },
+  {
+    title: 'Kad projekat ne sme da stane zbog jedne osobe',
+    text: 'Za landing ili jedan dizajn to je u redu. Za ozbiljniji sajt, kampanju ili launch nije. Ako sve zavisi od jedne osobe, svako kašnjenje pogađa vas direktno. Nije problem samo rok. Problem je što vam tada kasne i leadovi, i prodaja, i sledeći korak u funnel-u.',
+    route: '/izrada-wordpress-sajta-cena',
+    routeLabel: 'Šta ulazi u projekat koji traži stabilniji setup',
+  },
+  {
+    title: 'Kad vam posle sajta odmah trebaju i oglasi',
+    text: 'Mnogo firmi uzme freelancera za sajt, pa tek posle shvati da stranica nije spremna za plaćeni saobraćaj. Onda kreće nova runda troškova: tracking, CTA, forma, brzina, struktura poruke. Tada ono što je izgledalo kao ušteda postane samo odloženi račun.',
+    route: '/google-reklame-cena',
+    routeLabel: 'Uporedite cenu sajta sa realnim troškom akvizicije',
+  },
+  {
+    title: 'Kad zapravo ne kupujete izvršenje nego mir',
+    text: 'Neke firme ne plaćaju agenciju zato što vole veći tim. Plaćaju je zato što ne žele da svaki drugi dan jure ko je zadužen za šta. Ako nemate vremena za koordinaciju, reporting i gašenje malih požara, agencija ume da bude jeftinija baš zato što vam vrati fokus.',
+    route: '/consulting',
+    routeLabel: 'Kada ima smisla prvo složiti prioritete i ownership',
+  },
+]
+
 export default function AgencijaVsFreelancerPage() {
   usePageMeta()
 
@@ -213,6 +240,36 @@ export default function AgencijaVsFreelancerPage() {
               i dobićete iskren odgovor da li vam je racionalniji freelancer, agencija ili hibridni model.
             </p>
           </div>
+        </div>
+      </section>
+
+      {/* Cost of the wrong choice */}
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[980px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
+          <h2 className="text-[24px] md:text-[30px] font-medium text-ink mb-4 text-center">Kada freelancer ispadne skuplji od agencije</h2>
+          <p className="text-[15px] text-ink-3 text-center mb-8 max-w-[760px] mx-auto">
+            Ovo nije priča da je agencija "uvek bolja". Nije. Ali postoji nekoliko situacija u kojima niža početna cena samo sakrije mnogo skuplji problem koji vas sačeka malo kasnije.
+          </p>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {costlyScenarios.map((item) => (
+              <div key={item.title} className="rounded-[14px] border border-edge bg-page/40 p-5 md:p-6">
+                <h3 className="text-[16px] font-medium text-ink mb-3">{item.title}</h3>
+                <p className="text-[14px] text-ink-2 leading-relaxed mb-4">{item.text}</p>
+                <Link to={item.route} className="text-[13px] text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+                  {item.routeLabel}
+                </Link>
+              </div>
+            ))}
+          </div>
+
+          <p className="text-[14px] text-ink-3 leading-relaxed mt-8 text-center max-w-[760px] mx-auto">
+            Ako ste dobili dve ponude i ne možete da procenite da li je niža cena stvarna ušteda ili samo odloženi trošak, pošaljite ih kroz{' '}
+            <Link to="/kontakt" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+              kontakt formu
+            </Link>{' '}
+            i reći ćemo vam gde se obično krije problem.
+          </p>
         </div>
       </section>
 
