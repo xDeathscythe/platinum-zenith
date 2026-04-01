@@ -1312,7 +1312,7 @@ Tražite stručan tim koji može podići performanse vaše prodavnice, [kontakti
   {
     slug: 'tiktok-ads-statistika-roi-konverzija-benchmark-2026',
     title: 'TikTok Ads statistika 2026: ROI, konverzije, CPM i engagement benchmark podaci',
-    excerpt: 'TikTok konvertuje 45.5% korisnika u kupce. Prosecan engagement 4.90%, TikTok Shop konverzija do 12%. Pogledajte benchmark podatke za 2026. godinu.',
+    excerpt: 'TikTok konvertuje 45.5% korisnika u kupce. Prosečan engagement 4.90%, TikTok Shop konverzija do 12%. Pogledajte benchmark podatke za 2026. godinu.',
     date: '2026-03-26',
     category: 'Marketing',
     readTime: '8 min',
@@ -1400,7 +1400,7 @@ Zelite li da vas brend dominira na TikToku i generise realne prihode, a ne samo 
   },
   {
     slug: 'mobilni-marketing-i-m-commerce-statistika-2026',
-    title: 'Mobilni marketing u 2026: 60% trzista, konverzije od 2.8% i ROI mobilnih aplikacija',
+    title: 'Mobilni marketing u 2026: 60% tržišta, konverzije od 2.8% i ROI mobilnih aplikacija',
     excerpt: 'Mobilna trgovina (m-commerce) dostize 2.4 triliona dolara u 2026. Telefon donosi 75% saobracaja, ali konverzije variraju. Saznajte benchmark podatke po industriji.',
     date: '2026-03-26',
     category: 'Marketing',
@@ -1479,7 +1479,7 @@ Zelite li da iskoristite prednosti m-commerce trenda i optimizujete vas sajt za 
   {
     slug: 'content-marketing-statistika-roi-blog-lead-generation-cpl-2026',
     title: 'Content marketing statistika (2026): ROI, cena po leadu i uticaj bloga na prodaju',
-    excerpt: 'Content marketing donosi 3x vise leadova od outbound marketinga po 62% nizoj ceni. Prosečan ROI je 3$ na svaki ulozen dolar. Podaci za B2B i B2C.',
+    excerpt: 'Content marketing donosi 3x više leadova od outbound marketinga po 62% nizoj ceni. Prosečan ROI je 3$ na svaki ulozen dolar. Podaci za B2B i B2C.',
     date: '2026-03-25',
     category: 'Marketing',
     readTime: '9 min',
@@ -1597,7 +1597,7 @@ Spremni ste da izgradite vasu masinu za leadove? [Kontaktirajte nas](/kontakt) z
   {
     slug: 'video-marketing-statistika-roi-kratki-video-youtube-tiktok-reels-2026',
     title: 'Video marketing u brojevima: ROI, kratki video, YouTube, TikTok i Reels (2026)',
-    excerpt: '93% marketera belezi pozitivan ROI od videa. Video na landing stranici povecava konverziju do 86%. Kratki video 2.5x veci engagement. Benchmarke po platformi.',
+    excerpt: '93% marketera belezi pozitivan ROI od videa. Video na landing stranici povećava konverziju do 86%. Kratki video 2.5x veci engagement. Benchmarke po platformi.',
     date: '2026-03-25',
     category: 'Marketing',
     readTime: '9 min',
@@ -1725,7 +1725,7 @@ Ako vam treba pomoc sa video strategijom ili kompletnim digitalnim marketingom, 
   {
     slug: 'b2b-marketing-statistika-lead-generation-prodajni-ciklus-linkedin-2026',
     title: 'B2B marketing u brojevima: lead generation, prodajni ciklus i LinkedIn (statistika 2026)',
-    excerpt: 'Prosecni B2B prodajni ciklus traje 10.1 meseci sa 88 touchpointa. LinkedIn donosi 80% B2B leadova sa drustvenih mreza. Benchmark podaci za 2026.',
+    excerpt: 'Prosečni B2B prodajni ciklus traje 10.1 meseci sa 88 touchpointa. LinkedIn donosi 80% B2B leadova sa društvenih mreža. Benchmark podaci za 2026.',
     date: '2026-03-25',
     category: 'Marketing',
     readTime: '10 min',
@@ -1888,7 +1888,7 @@ Ako vam treba pomoc sa B2B strategijom, [javite nam se](/kontakt) za besplatnu a
   {
     slug: 'influencer-marketing-statistika-roi-mikro-influenseri-ugc-2026',
     title: 'Influencer marketing u brojevima: ROI, mikro-influenseri i UGC (statistika za 2026)',
-    excerpt: 'Trziste influencer marketinga 32.5 milijardi dolara. Prosecni ROI 5.78x. Mikro-influenseri imaju 60% visi engagement uz desetinu cene. UGC konvertuje 10x bolje.',
+    excerpt: 'Tržište influencer marketinga 32.5 milijardi dolara. Prosečni ROI 5.78x. Mikro-influenseri imaju 60% visi engagement uz desetinu cene. UGC konvertuje 10x bolje.',
     date: '2026-03-25',
     category: 'Marketing',
     readTime: '9 min',
@@ -2016,7 +2016,7 @@ Ako vam treba pomoc sa strategijom, [javite nam se](/kontakt).
   },
   {
     slug: 'drustvene-mreze-statistika-korisnici-engagement-vreme-ad-spend-2026',
-    title: 'Drustvene mreze u brojevima: korisnici, engagement, vreme i potrosnja na oglase (2026)',
+    title: 'Društvene mreže u brojevima: korisnici, engagement, vreme i potrosnja na oglase (2026)',
     excerpt: '5.66 milijardi korisnika, 2h 23min dnevno, TikTok engagement 4.2%, globalna potrosnja na oglase 277 milijardi dolara. Benchmark podaci po platformi.',
     date: '2026-03-25',
     category: 'Marketing',
@@ -2319,8 +2319,8 @@ Ako vas sajt ne prolazi CWV testove, prvi korak je besplatan: otvorite [PageSpee
   },
   {
     slug: 'google-ads-roi-statistika-roas-po-industriji-srbija-2026',
-    title: 'Google Ads ROI: koliko zapravo zaradjujete na svaki ulozeni dinar (podaci po industriji)',
-    excerpt: 'Prosecni Google Ads ROI je 200%, ali ROAS varira od 0.7x u finansijama do 8x u pravnim uslugama. Benchmark podaci po industriji za 2025-2026.',
+    title: 'Google Ads ROI: koliko zapravo zaradjujete na svaki uloženi dinar (podaci po industriji)',
+    excerpt: 'Prosečni Google Ads ROI je 200%, ali ROAS varira od 0.7x u finansijama do 8x u pravnim uslugama. Benchmark podaci po industriji za 2025-2026.',
     date: '2026-03-24',
     category: 'Marketing',
     readTime: '9 min',
@@ -2476,8 +2476,8 @@ Razlika nije u platformi. Razlika je u pristupu.
   },
   {
     slug: 'kako-rasporediti-marketing-budzet-po-kanalima-statistika-2026',
-    title: 'Kako rasporediti marketing budzet po kanalima u 2026 (B2B i B2C statistika)',
-    excerpt: 'Gde firme zaista trose novac? Podaci o raspodeli marketing budzeta za 2025-2026. B2B vs B2C, digital vs traditional, i 70/20/10 pravilo alokacije.',
+    title: 'Kako rasporediti marketing budžet po kanalima u 2026 (B2B i B2C statistika)',
+    excerpt: 'Gde firme zaista troše novac? Podaci o raspodeli marketing budžeta za 2025-2026. B2B vs B2C, digital vs traditional, i 70/20/10 pravilo alokacije.',
     date: '2026-03-24',
     category: 'Marketing',
     readTime: '8 min',
@@ -2563,8 +2563,8 @@ Ako vam je potrebna pomoc da pravilno rasporedite vas marketing budzet za maksim
   },
   {
     slug: 'content-marketing-vs-placeni-oglasi-roi-cena-po-leadu-statistika-2026',
-    title: 'Content marketing vs placeni oglasi: koji donosi bolji ROI na duge staze',
-    excerpt: 'Uporedna statistika content marketinga vs placenih oglasa. ROI 748% vs 200%, cena po lead-u, organska konverzija 14.6% vs 1.7% i kada koristiti koji.',
+    title: 'Content marketing vs plaćeni oglasi: koji donosi bolji ROI na duge staze',
+    excerpt: 'Uporedna statistika content marketinga vs plaćenih oglasa. ROI 748% vs 200%, cena po lead-u, organska konverzija 14.6% vs 1.7% i kada koristiti koji.',
     date: '2026-03-24',
     category: 'Marketing',
     readTime: '7 min',
@@ -2666,8 +2666,8 @@ Za kompletnu strategiju pogledajte [marketing strategija vodic](/blog/marketing-
   },
   {
     slug: 'cena-akvizicije-kupca-cac-po-industriji-benchmark-statistika-2026',
-    title: 'Koliko kosta novi kupac: CAC benchmark po industriji, kanalu i poslovnom modelu 2026',
-    excerpt: 'Prosecna cena akvizicije kupca (CAC) po industriji i marketing kanalu. B2B vs B2C, SaaS vs e-commerce, organic vs paid — benchmark podaci za 2025-2026.',
+    title: 'Koliko košta novi kupac: CAC benchmark po industriji, kanalu i poslovnom modelu 2026',
+    excerpt: 'Prosečna cena akvizicije kupca (CAC) po industriji i marketing kanalu. B2B vs B2C, SaaS vs e-commerce, organic vs paid — benchmark podaci za 2025-2026.',
     date: '2026-03-24',
     category: 'Marketing',
     readTime: '9 min',
@@ -2868,7 +2868,7 @@ Zelite da smanjite cenu akvizicije kupca za vas biznis? [Javite nam se](/kontakt
   {
     slug: 'checkout-optimizacija-statistika-konverzija-forme-placanje-2026',
     title: 'Checkout optimizacija: koliko polja, nacina placanja i koraka treba za maksimalnu prodaju',
-    excerpt: 'Statistike o checkout optimizaciji 2025-2026. Koliko polja smanjuje konverziju, zasto guest checkout povecava prodaju 45% i uticaj nacina placanja.',
+    excerpt: 'Statistike o checkout optimizaciji 2025-2026. Koliko polja smanjuje konverziju, zašto guest checkout povećava prodaju 45% i uticaj nacina placanja.',
     date: '2026-03-24',
     category: 'CRO',
     readTime: '7 min',
@@ -2992,7 +2992,7 @@ Za profesionalnu CRO optimizaciju vaseg checkout-a, javite se preko [kontakt for
   {
     slug: 'sms-marketing-open-rate-ctr-konverzija-roi-benchmark-po-industriji-2026',
     title: 'SMS marketing statistika: open rate 98%, CTR do 36% i ROI 71$ po dolaru',
-    excerpt: 'Benchmark podaci za SMS marketing po industriji: open rate, CTR, konverzija, ROI, opt-in, unsubscribe rate i cena po poruci. Zasto SMS nadmasuje email i social.',
+    excerpt: 'Benchmark podaci za SMS marketing po industriji: open rate, CTR, konverzija, ROI, opt-in, unsubscribe rate i cena po poruci. Zašto SMS nadmasuje email i social.',
     date: '2026-03-24',
     category: 'Marketing',
     readTime: '8 min',
@@ -3250,8 +3250,8 @@ Za profesionalnu lokalnu SEO strategiju, javite se preko [kontakt forme](/kontak
   },
   {
     slug: 'personalizacija-u-marketingu-uticaj-na-prihod-konverziju-statistika-2026',
-    title: 'Personalizacija u marketingu: koliko zaista povecava prihod i konverziju',
-    excerpt: 'Statistike o uticaju personalizacije na prihod, konverziju i zadrzavanje kupaca. Zasto personalizovani CTA konvertuje 202% bolje i kako poceti.',
+    title: 'Personalizacija u marketingu: koliko zaista povećava prihod i konverziju',
+    excerpt: 'Statistike o uticaju personalizacije na prihod, konverziju i zadržavanje kupaca. Zašto personalizovani CTA konvertuje 202% bolje i kako početi.',
     date: '2026-03-24',
     category: 'Marketing',
     readTime: '7 min',
@@ -3352,7 +3352,7 @@ Za pomoc sa personalizacijom vaseg marketinga, javite se preko [kontakt forme](/
   {
     slug: '250-blog-postova-na-platinum-zenith-milestone-2026',
     title: 'Od 0 do 250 blog postova: lekcije iz izgradnje content marketinga za srpsku agenciju',
-    excerpt: 'Kako smo napisali 250 blog postova za Platinum Zenith u 2026. Proces, pravila, alati, SEO audit sistem i sta smo naucili iz podataka.',
+    excerpt: 'Kako smo napisali 250 blog postova za Platinum Zenith u 2026. Proces, pravila, alati, SEO audit sistem i šta smo naucili iz podataka.',
     date: '2026-03-24',
     category: 'Marketing',
     readTime: '8 min',
@@ -3442,8 +3442,8 @@ Za profesionalnu content strategiju zasnovanu na ovim principima, javite se prek
   },
   {
     slug: 'ugc-user-generated-content-uticaj-na-prodaju-statistika-2026',
-    title: 'UGC (User Generated Content): koliko sadrzaj kupaca zaista utice na prodaju',
-    excerpt: 'Statistike o UGC uticaju na poverenje, konverziju i prodaju 2025-2026. Zasto 90% kupaca vise veruje sadrzaju korisnika nego brendovima.',
+    title: 'UGC (User Generated Content): koliko sadržaj kupaca zaista utiče na prodaju',
+    excerpt: 'Statistike o UGC uticaju na poverenje, konverziju i prodaju 2025-2026. Zašto 90% kupaca više veruje sadržaju korisnika nego brendovima.',
     date: '2026-03-24',
     category: 'Marketing',
     readTime: '6 min',
@@ -3508,8 +3508,8 @@ Za pomoc sa UGC strategijom i customer engagement-om, javite se preko [kontakt f
   },
   {
     slug: 'koliko-vremena-treba-za-seo-rezultate-po-konkurentnosti-2026',
-    title: 'Koliko vremena treba za SEO rezultate: rokovi po konkurentnosti kljucnih reci',
-    excerpt: 'Realni rokovi za SEO rezultate u 2025-2026. Koliko meseci treba za prvu stranicu za nisko, srednje i visoko konkurentne kljucne reci.',
+    title: 'Koliko vremena treba za SEO rezultate: rokovi po konkurentnosti ključnih reci',
+    excerpt: 'Realni rokovi za SEO rezultate u 2025-2026. Koliko meseci treba za prvu stranicu za nisko, srednje i visoko konkurentne ključne reci.',
     date: '2026-03-24',
     category: 'SEO',
     readTime: '6 min',
@@ -3596,8 +3596,8 @@ Za profesionalnu SEO strategiju sa realnim rokovima i merljivim ciljevima, javit
   },
   {
     slug: 'b2b-vs-b2c-marketing-razlike-u-brojevima-statistika-2026',
-    title: 'B2B vs B2C marketing u brojevima: prodajni ciklus, konverzija, kanali i budzet',
-    excerpt: 'Uporedna statistika B2B vs B2C marketinga 2025-2026. Sales cycle, konverzija, preferred kanali i marketing budzet kao procenat prihoda.',
+    title: 'B2B vs B2C marketing u brojevima: prodajni ciklus, konverzija, kanali i budžet',
+    excerpt: 'Uporedna statistika B2B vs B2C marketinga 2025-2026. Sales cycle, konverzija, preferred kanali i marketing budžet kao procenat prihoda.',
     date: '2026-03-24',
     category: 'Marketing',
     readTime: '7 min',
@@ -3808,8 +3808,8 @@ Za profesionalno vodjenje Google Ads kampanja i Smart Bidding optimizaciju, javi
   },
   {
     slug: 'seo-vs-ppc-uporedna-statistika-konverzija-cena-roi-2026',
-    title: 'SEO vs PPC u brojevima: konverzija, cena i ROI — sta se zaista isplati',
-    excerpt: 'Uporedna statistika SEO vs PPC u 2025-2026. Organski vs placeni saobracaj po konverziji, ceni, CTR-u i dugorocnom ROI-ju sa citiranim izvorima.',
+    title: 'SEO vs PPC u brojevima: konverzija, cena i ROI — šta se zaista isplati',
+    excerpt: 'Uporedna statistika SEO vs PPC u 2025-2026. Organski vs plaćeni saobraćaj po konverziji, ceni, CTR-u i dugoročnom ROI-ju sa citiranim izvorima.',
     date: '2026-03-23',
     category: 'SEO',
     readTime: '7 min',
@@ -3934,7 +3934,7 @@ Za kompletnu strategiju pogledajte [marketing strategija vodic](/blog/marketing-
   {
     slug: 'retargeting-remarketing-statistika-ctr-roas-konverzija-2026',
     title: 'Retargeting i remarketing statistika: CTR, ROAS, konverzija i CPC benchmark podaci za 2025-2026',
-    excerpt: 'Koliki je prosecni CTR retargeting oglasa, koliko kosta klik, kakav ROAS ocekivati i koliko retargeting povecava konverziju? Citirani benchmark podaci za 2025-2026 po platformi.',
+    excerpt: 'Koliki je prosečni CTR retargeting oglasa, koliko košta klik, kakav ROAS ocekivati i koliko retargeting povećava konverziju? Citirani benchmark podaci za 2025-2026 po platformi.',
     date: '2026-03-23',
     category: 'Marketing',
     readTime: '9 min',
@@ -4112,8 +4112,8 @@ Ako zelite da implementirate retargeting strategiju za vas biznis ili optimizuje
 
   {
     slug: 'prosecna-vrednost-porudzbine-aov-po-industriji-benchmark-statistika-2026',
-    title: 'Prosecna vrednost porudzbine (AOV) po industriji: benchmark podaci za 2025-2026',
-    excerpt: 'Kolika je prosecna vrednost narudzbine u e-commerce-u, modi, elektronici i food delivery-ju? Citirani benchmark podaci za 2025-2026, AOV po uredjaju i strategije za povecanje.',
+    title: 'Prosečna vrednost porudžbine (AOV) po industriji: benchmark podaci za 2025-2026',
+    excerpt: 'Kolika je prosečna vrednost narudzbine u e-commerce-u, modi, elektronici i food delivery-ju? Citirani benchmark podaci za 2025-2026, AOV po uredjaju i strategije za povećanje.',
     date: '2026-03-23',
     category: 'CRO',
     readTime: '10 min',
@@ -4281,7 +4281,7 @@ Za kompletnu analizu vaseg AOV-a i strategiju za povecanje vrednosti svake porud
 
   {
     slug: 'influencer-marketing-roi-mikro-vs-makro-statistika-2026',
-    title: 'Influencer marketing ROI: zasto mikro influenseri donose vise od velikih',
+    title: 'Influencer marketing ROI: zašto mikro influenseri donose više od velikih',
     excerpt: 'Statistike o influencer marketing ROI-ju 2025-2026. Mikro vs makro influenseri, cena po engagement-u, konverzija i kada se isplati koji tip saradnje.',
     date: '2026-03-23',
     category: 'Marketing',
@@ -4381,8 +4381,8 @@ Za pomoc sa influenser strategijom i selekcijom, javite se preko [kontakt forme]
   },
   {
     slug: 'cena-oglasavanja-na-drustvenim-mrezama-cpc-ctr-roi-po-platformi-2026',
-    title: 'Cena oglasavanja na drustvenim mrezama: CPC, CTR i ROI po platformi u 2025-2026',
-    excerpt: 'Koliko kosta oglas na Facebooku, Instagramu, LinkedInu i TikToku? Benchmark podaci za CPC, CTR, konverziju i ROAS po platformi sa citiranim izvorima.',
+    title: 'Cena oglasavanja na društvenim mrežama: CPC, CTR i ROI po platformi u 2025-2026',
+    excerpt: 'Koliko košta oglas na Facebooku, Instagramu, LinkedInu i TikToku? Benchmark podaci za CPC, CTR, konverziju i ROAS po platformi sa citiranim izvorima.',
     date: '2026-03-22',
     category: 'Social Media',
     readTime: '9 min',
@@ -4564,7 +4564,7 @@ Za besplatnu analizu vasih kampanja na drustvenim mrezama, javite se preko [kont
   {
     slug: 'featured-snippet-i-ai-overview-uticaj-na-klikove-statistika-2026',
     title: 'Featured Snippet i AI Overview: koliko klikova zaista dobijate sa pozicije 0',
-    excerpt: 'Statistike o Featured Snippet CTR-u i uticaju Google AI Overview-a na organski saobracaj. Koliko klikova gubite i kako se prilagoditi u 2026.',
+    excerpt: 'Statistike o Featured Snippet CTR-u i uticaju Google AI Overview-a na organski saobraćaj. Koliko klikova gubite i kako se prilagoditi u 2026.',
     date: '2026-03-22',
     category: 'SEO',
     readTime: '7 min',
@@ -4667,8 +4667,8 @@ Za SEO strategiju prilagodjenu AI eri, javite se preko [kontakt forme](/kontakt)
   },
   {
     slug: 'koliko-dugacak-treba-da-bude-blog-post-za-seo-statistika-2026',
-    title: 'Koliko dugacak treba da bude blog post za SEO: sta podaci zaista pokazuju',
-    excerpt: 'Da li duzi blog postovi rangiraju bolje na Google-u? Statistike o duzini sadrzaja, prosecnom broju reci na prvoj stranici i kada kratko pobedjuje.',
+    title: 'Koliko dugačak treba da bude blog post za SEO: šta podaci zaista pokazuju',
+    excerpt: 'Da li duži blog postovi rangiraju bolje na Google-u? Statistike o duzini sadržaja, prosecnom broju reci na prvoj stranici i kada kratko pobedjuje.',
     date: '2026-03-22',
     category: 'SEO',
     readTime: '7 min',
@@ -4766,7 +4766,7 @@ Za profesionalnu content strategiju koja balansira duzinu, kvalitet i SEO, javit
   {
     slug: 'lokalni-seo-near-me-pretrage-statistika-konverzije-2026',
     title: 'Lokalni SEO i near me pretrage: statistika i ROI za 2026',
-    excerpt: 'Koliko near me pretraga dolazi na Google, koliki deo zavrsava kupovinom i sta ti brojevi zapravo govore o lokalnom SEO-u u 2026.',
+    excerpt: 'Koliko near me pretraga dolazi na Google, koliki deo zavrsava kupovinom i šta ti brojevi zapravo govore o lokalnom SEO-u u 2026.',
     date: '2026-03-22',
     category: 'SEO',
     readTime: '8 min',
@@ -5003,7 +5003,7 @@ Za profesionalnu AI strategiju i marketing automatizaciju, javite se preko [kont
   },
   {
     slug: 'prosecna-stopa-konverzije-po-industriji-benchmark-statistika-2026',
-    title: 'Prosecna stopa konverzije po industriji: benchmark podaci za 2025-2026',
+    title: 'Prosečna stopa konverzije po industriji: benchmark podaci za 2025-2026',
     excerpt: 'Koliki je prosek konverzije u e-commerce, B2B, SaaS i na landing stranicama? Benchmark statistika po industriji, uredjaju i kanalu sa citiranim izvorima.',
     date: '2026-03-22',
     category: 'CRO',
@@ -5163,8 +5163,8 @@ Ako zelite da proverite da li je stopa konverzije vaseg sajta u skladu sa benchm
   },
   {
     slug: 'cena-po-leadu-po-industriji-benchmark-statistika-2026',
-    title: 'Koliko kosta jedan lead: cena po leadu (CPL) po industriji i kanalu u 2025-2026',
-    excerpt: 'Benchmark podaci za cost per lead po industriji i marketing kanalu. Google Ads, Facebook, SEO, LinkedIn — koliko zaista kosta jedan kvalifikovan lead u Srbiji i svetu.',
+    title: 'Koliko košta jedan lead: cena po leadu (CPL) po industriji i kanalu u 2025-2026',
+    excerpt: 'Benchmark podaci za cost per lead po industriji i marketing kanalu. Google Ads, Facebook, SEO, LinkedIn — koliko zaista košta jedan kvalifikovan lead u Srbiji i svetu.',
     date: '2026-03-22',
     category: 'Marketing',
     readTime: '9 min',
@@ -5294,7 +5294,7 @@ Benchmark podaci postoje da ih koristite kao kompas, ne kao pravilo. Vas cilj ni
   {
     slug: 'uticaj-online-recenzija-na-prodaju-statistika-2026',
     title: 'Uticaj online recenzija na prodaju: koliko zvezde i komentari zaista menjaju konverziju',
-    excerpt: 'Statistike o uticaju recenzija na odluku o kupovini u 2025-2026. Koliko recenzija treba, zasto 4 zvezdice pobedjuju 5 i kako odgovoriti na negativne.',
+    excerpt: 'Statistike o uticaju recenzija na odluku o kupovini u 2025-2026. Koliko recenzija treba, zašto 4 zvezdice pobeđuju 5 i kako odgovoriti na negativne.',
     date: '2026-03-21',
     category: 'CRO',
     readTime: '7 min',
@@ -5392,7 +5392,7 @@ Za profesionalnu strategiju prikupljanja recenzija i upravljanja reputacijom, ja
   {
     slug: 'napustanje-korpe-statistika-po-industriji-2026',
     title: 'Napustanje korpe u e-commerce: statistika po industriji i kako spasiti izgubljene prodaje',
-    excerpt: 'Cart abandonment rate po industriji u 2025-2026. Razlozi zasto 73% kupaca odustaje i koliko prodaja mozete spasiti sa 3 email-a.',
+    excerpt: 'Cart abandonment rate po industriji u 2025-2026. Razlozi zašto 73% kupaca odustaje i koliko prodaja možete spasiti sa 3 email-a.',
     date: '2026-03-21',
     category: 'E-Commerce',
     readTime: '7 min',
@@ -5496,8 +5496,8 @@ Za profesionalnu optimizaciju checkout-a i smanjenje cart abandonment-a, javite 
   },
   {
     slug: 'video-marketing-roi-kratki-video-reels-tiktok-statistika-2026',
-    title: 'Video marketing ROI: zasto kratki video donosi najbolje rezultate u 2026',
-    excerpt: 'Statistike o ROI video marketinga u 2026. Reels, TikTok i YouTube Shorts engagement, konverzije i zasto 93% firmi planira da ulaze vise u video.',
+    title: 'Video marketing ROI: zašto kratki video donosi najbolje rezultate u 2026',
+    excerpt: 'Statistike o ROI video marketinga u 2026. Reels, TikTok i YouTube Shorts engagement, konverzije i zašto 93% firmi planira da ulaze više u video.',
     date: '2026-03-21',
     category: 'Video Marketing',
     readTime: '7 min',
@@ -5599,7 +5599,7 @@ Za profesionalnu video strategiju i produkciju, javite se preko [kontakt forme](
   },
   {
     slug: 'koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026',
-    title: 'Koliko firme trose na marketing: procenat prihoda po industriji (2025-2026 podaci)',
+    title: 'Koliko firme troše na marketing: procenat prihoda po industriji (2025-2026 podaci)',
     excerpt: 'Realni podaci o marketing budzetu kao procentu prihoda po industriji u 2025-2026. Gartner, Deloitte i CMO Survey benchmarci za B2B i B2C firme.',
     date: '2026-03-21',
     category: 'Biznis',
@@ -5756,7 +5756,7 @@ Za pomoc sa kreiranjem marketing budzeta za vasu firmu, javite se preko [kontakt
   {
     slug: 'engagement-rate-po-platformi-instagram-tiktok-linkedin-2026',
     title: 'Engagement rate po platformi 2026: gde vasa publika zaista reaguje',
-    excerpt: 'Uporedni podaci o engagement rate-u na Instagramu, TikToku, LinkedIn-u i Facebooku u 2025-2026. Koja platforma donosi najvise interakcija i zasto.',
+    excerpt: 'Uporedni podaci o engagement rate-u na Instagramu, TikToku, LinkedIn-u i Facebooku u 2025-2026. Koja platforma donosi najviše interakcija i zašto.',
     date: '2026-03-21',
     category: 'Social Media',
     readTime: '7 min',
@@ -5857,8 +5857,8 @@ Za pomoc sa strategijom drustvenih mreza, javite se preko [kontakt forme](/konta
   },
   {
     slug: 'koliko-kosta-novi-klijent-cpa-po-industriji-google-facebook-2026',
-    title: 'Koliko kosta novi klijent: CPA benchmarci po industriji za Google i Facebook Ads',
-    excerpt: 'Realni CPA (cena po akviziciji) benchmarci po industriji za Google Ads i Facebook Ads u 2025-2026. Koliko firme zapravo placaju za svakog novog klijenta.',
+    title: 'Koliko košta novi klijent: CPA benchmarci po industriji za Google i Facebook Ads',
+    excerpt: 'Realni CPA (cena po akviziciji) benchmarci po industriji za Google Ads i Facebook Ads u 2025-2026. Koliko firme zapravo plaćaju za svakog novog klijenta.',
     date: '2026-03-21',
     category: 'Google Ads',
     readTime: '8 min',
@@ -5983,7 +5983,7 @@ Za profesionalno vodjenje kampanja i optimizaciju CPA, javite se preko [kontakt 
   {
     slug: 'koliko-klikova-dobija-prvi-rezultat-na-google-ctr-po-poziciji-2026',
     title: 'Koliko klikova zapravo dobija prvi rezultat na Google-u: CTR po poziciji i uticaj AI pregleda',
-    excerpt: 'Organski CTR po poziciji na Google-u 2026. Koliko klikova dobijaju pozicije 1-10, kako AI pregledi smanjuju klikove i zasto 60% pretraga zavrsi bez klika.',
+    excerpt: 'Organski CTR po poziciji na Google-u 2026. Koliko klikova dobijaju pozicije 1-10, kako AI pregledi smanjuju klikove i zašto 60% pretraga zavrsi bez klika.',
     date: '2026-03-21',
     category: 'SEO',
     readTime: '9 min',
@@ -6134,7 +6134,7 @@ Za profesionalnu SEO strategiju prilagodjenu 2026. godini, pogledajte [SEO optim
   {
     slug: 'koliko-zapravo-zaradjuje-email-marketing-roi-po-industriji-2026',
     title: 'Koliko zapravo zaradjuje email marketing: ROI po industriji i tipu kampanje',
-    excerpt: 'Koliko novca email marketing donosi po ulozenom evru. ROI benchmarci po industriji, konverzije po tipu emaila i zasto je email i dalje najisplativiji kanal.',
+    excerpt: 'Koliko novca email marketing donosi po ulozenom evru. ROI benchmarci po industriji, konverzije po tipu emaila i zašto je email i dalje najisplativiji kanal.',
     date: '2026-03-21',
     category: 'Marketing',
     readTime: '8 min',
@@ -6241,7 +6241,7 @@ Za pomoc sa email marketing strategijom, javite se preko [kontakt forme](/kontak
   {
     slug: 'mobilna-vs-desktop-kupovina-konverzije-statistika-2026',
     title: 'Mobilna vs desktop kupovina: ko zaista kupuje i gde gubite prodaju',
-    excerpt: 'Statistike o mobilnoj vs desktop kupovini 2026. Zasto 75% saobracaja dolazi sa telefona ali desktop i dalje ima vecu konverziju — i kako to popraviti.',
+    excerpt: 'Statistike o mobilnoj vs desktop kupovini 2026. Zašto 75% saobracaja dolazi sa telefona ali desktop i dalje ima veću konverziju — i kako to popraviti.',
     date: '2026-03-21',
     category: 'E-Commerce',
     readTime: '8 min',
@@ -6347,8 +6347,8 @@ Za profesionalnu optimizaciju mobilnog iskustva vaseg webshopa, javite se preko 
   },
   {
     slug: 'kako-brzina-sajta-utice-na-rangiranje-na-googlu-2026',
-    title: 'Kako brzina ucitavanja sajta utice na rangiranje na Google-u: podaci i statistike',
-    excerpt: 'Konkretne statistike o uticaju brzine sajta na Google rang, konverzije i bounce rate. Koliko vas svaka sekunda kasnjenja kosta u prodaji i poziciji.',
+    title: 'Kako brzina ucitavanja sajta utiče na rangiranje na Google-u: podaci i statistike',
+    excerpt: 'Konkretne statistike o uticaju brzine sajta na Google rang, konverzije i bounce rate. Koliko vas svaka sekunda kasnjenja košta u prodaji i poziciji.',
     date: '2026-03-21',
     category: 'SEO',
     readTime: '8 min',
@@ -6459,7 +6459,7 @@ Za profesionalnu optimizaciju brzine sajta, javite se preko [kontakt forme](/kon
   {
     slug: 'digitalni-marketing-statistika-srbija-2026',
     title: 'Digitalni marketing u Srbiji 2026: 50 statistika koje svaki biznis treba da zna',
-    excerpt: '50 kljucnih statistika o digitalnom marketingu u Srbiji za 2026. godinu. Google Ads, SEO, drustvene mreze, e-commerce i email — brojke koje odlucuju.',
+    excerpt: '50 ključnih statistika o digitalnom marketingu u Srbiji za 2026. godinu. Google Ads, SEO, društvene mreže, e-commerce i email — brojke koje odlucuju.',
     date: '2026-03-21',
     category: 'Marketing',
     readTime: '10 min',
@@ -6557,7 +6557,7 @@ Za strategiju zasnovanu na podacima, javite se preko [kontakt forme](/kontakt). 
   {
     slug: 'najbolji-wordpress-pluginovi-za-male-firme-srbija-2026',
     title: 'Najbolji WordPress pluginovi za male firme u Srbiji 2026: 15 obaveznih',
-    excerpt: 'Lista od 15 WordPress pluginova koje svaka mala firma u Srbiji treba da ima. SEO, bezbednost, brzina, forme i e-commerce — besplatni i placeni.',
+    excerpt: 'Lista od 15 WordPress pluginova koje svaka mala firma u Srbiji treba da ima. SEO, bezbednost, brzina, forme i e-commerce — besplatni i plaćeni.',
     date: '2026-03-21',
     category: 'WordPress',
     readTime: '8 min',
@@ -6678,7 +6678,7 @@ Za profesionalnu WordPress optimizaciju i izbor pluginova, javite se preko [kont
   {
     slug: 'google-ads-za-hotele-i-smestaj-cena-rezervacije-srbija-2026',
     title: 'Google Ads za hotele i smestaj u Srbiji 2026: kako smanjiti zavisnost od Booking-a',
-    excerpt: 'Koliko kosta Google Ads za hotele, apartmane i vile u Srbiji. Tipovi kampanja, budzeti, cena po direktnoj rezervaciji i strategija za smanjenje OTA provizije.',
+    excerpt: 'Koliko košta Google Ads za hotele, apartmane i vile u Srbiji. Tipovi kampanja, budžeti, cena po direktnoj rezervaciji i strategija za smanjenje OTA provizije.',
     date: '2026-03-20',
     category: 'Google Ads',
     readTime: '9 min',
@@ -6865,7 +6865,7 @@ Za celokupnu strategiju digitalnog marketinga za smestaj pogledajte [marketing z
   {
     slug: 'facebook-ads-za-e-commerce-srbija-2026',
     title: 'Facebook Ads za e-commerce u Srbiji 2026: struktura kampanja koja donosi prodaju',
-    excerpt: 'Kako strukturisati Facebook Ads kampanje za online prodavnicu u Srbiji. Funnel od awareness do remarketing, kreativa, budzeti i realni ROAS benchmarci.',
+    excerpt: 'Kako strukturisati Facebook Ads kampanje za online prodavnicu u Srbiji. Funnel od awareness do remarketing, kreativa, budžeti i realni ROAS benchmarci.',
     date: '2026-03-20',
     category: 'Facebook Ads',
     readTime: '8 min',
@@ -6989,7 +6989,7 @@ Za profesionalno vodjenje Facebook kampanja za vas webshop, javite se preko [kon
   {
     slug: 'optimizacija-product-stranice-e-commerce-srbija-2026',
     title: 'Optimizacija product stranice za e-commerce u Srbiji 2026: 12 elemenata koji prodaju',
-    excerpt: 'Kako optimizovati stranicu proizvoda za vise prodaje. 12 elemenata koje svaki webshop u Srbiji mora da ima na product stranici da bi konvertovao.',
+    excerpt: 'Kako optimizovati stranicu proizvoda za više prodaje. 12 elemenata koje svaki webshop u Srbiji mora da ima na product stranici da bi konvertovao.',
     date: '2026-03-20',
     category: 'E-Commerce',
     readTime: '8 min',
@@ -7111,7 +7111,7 @@ Za profesionalnu optimizaciju vaseg webshopa i product stranica, javite se preko
   {
     slug: 'backlink-strategija-za-srpske-sajtove-2026',
     title: 'Backlink strategija za srpske sajtove 2026: kako dobiti linkove koji pomazu SEO',
-    excerpt: 'Kako izgraditi kvalitetne backlinkove za sajt u Srbiji 2026. Besplatne metode, outreach sablon, srpski portali za guest postove i sta izbegavati.',
+    excerpt: 'Kako izgraditi kvalitetne backlinkove za sajt u Srbiji 2026. Besplatne metode, outreach sablon, srpski portali za guest postove i šta izbegavati.',
     date: '2026-03-20',
     category: 'SEO',
     readTime: '8 min',
@@ -7230,7 +7230,7 @@ Za kompletnu SEO strategiju koja ukljucuje i backlink building, javite se preko 
   {
     slug: 'google-ads-performance-max-srbija-2026',
     title: 'Google Ads Performance Max u Srbiji 2026: kada koristiti i kako postaviti',
-    excerpt: 'Vodic za Google Performance Max kampanje na srpskom trzistu. Kada PMax radi bolje od Search-a, kako ga postaviti i sta ne raditi.',
+    excerpt: 'Vodič za Google Performance Max kampanje na srpskom tržištu. Kada PMax radi bolje od Search-a, kako ga postaviti i šta ne raditi.',
     date: '2026-03-20',
     category: 'Google Ads',
     readTime: '8 min',
@@ -7441,7 +7441,7 @@ Za pomoc sa organizacijom webinara i marketing funnel-om koji konvertuje ucesnik
   },
   {
     slug: 'psihologija-kupovine-kako-sajt-utice-na-odluke-srbija-2026',
-    title: 'Psihologija kupovine: kako vas sajt utice na odluke kupaca u 2026',
+    title: 'Psihologija kupovine: kako vas sajt utiče na odluke kupaca u 2026',
     excerpt: 'Kako koristiti psihologiju kupovine na sajtu da povecate prodaju. Social proof, urgency, anchoring i 7 drugih principa koji menjaju ponasanje kupaca.',
     date: '2026-03-20',
     category: 'CRO',
@@ -7566,8 +7566,8 @@ Za profesionalnu optimizaciju sajta i primenu ovih principa, javite se preko [ko
   },
   {
     slug: 'outsourcing-za-male-firme-srbija-2026',
-    title: 'Outsourcing za male firme u Srbiji 2026: sta delegirati i koliko kosta',
-    excerpt: 'Vodic za outsourcing za srpske preduzetnike. Koji poslovi se isplate delegirati, gde naci freelancere i kako kontrolisati kvalitet bez gubitka vremena.',
+    title: 'Outsourcing za male firme u Srbiji 2026: šta delegirati i koliko košta',
+    excerpt: 'Vodič za outsourcing za srpske preduzetnike. Koji poslovi se isplate delegirati, gde naci freelancere i kako kontrolisati kvalitet bez gubitka vremena.',
     date: '2026-03-20',
     category: 'Biznis',
     readTime: '8 min',
@@ -7796,7 +7796,7 @@ Za profesionalnu lokalnu SEO strategiju i registraciju na direktorijumima, javit
   {
     slug: 'google-ads-quality-score-vodic-srbija-2026',
     title: 'Google Ads Quality Score: kako smanjiti cenu klika i poboljsati poziciju oglasa',
-    excerpt: 'Vodic za razumevanje i poboljsanje Google Ads Quality Score-a. Kako 3 faktora odredjuju koliko placate po kliku i kako da ih optimizujete.',
+    excerpt: 'Vodič za razumevanje i poboljsanje Google Ads Quality Score-a. Kako 3 faktora odredjuju koliko plaćate po kliku i kako da ih optimizujete.',
     date: '2026-03-19',
     category: 'Google Ads',
     readTime: '8 min',
@@ -7899,7 +7899,7 @@ Za profesionalno vodjenje Google Ads kampanja i optimizaciju Quality Score-a, ja
   {
     slug: 'ai-alati-za-marketing-srbija-2026',
     title: 'AI alati za marketing u Srbiji 2026: koji zaista stede vreme i novac',
-    excerpt: 'Pregled AI alata za marketing koji rade u praksi 2026. Od pisanja sadrzaja do analize podataka — sta koristiti i sta preskociti.',
+    excerpt: 'Pregled AI alata za marketing koji rade u praksi 2026. Od pisanja sadržaja do analize podataka — šta koristiti i šta preskociti.',
     date: '2026-03-19',
     category: 'Marketing',
     readTime: '8 min',
@@ -8021,8 +8021,8 @@ Za pomoc sa integracijom AI alata u vas marketing, javite se preko [kontakt form
   },
   {
     slug: 'digitalni-marketing-za-pocetnike-kompletni-vodic-srbija-2026',
-    title: 'Digitalni marketing za pocetnike u Srbiji 2026: kompletni vodic od A do Z',
-    excerpt: 'Sve sto treba da znate o digitalnom marketingu na jednom mestu. Od SEO i Google Ads do drustvenih mreza i email marketinga za srpsko trziste.',
+    title: 'Digitalni marketing za početnike u Srbiji 2026: kompletni vodič od A do Z',
+    excerpt: 'Sve sto treba da znate o digitalnom marketingu na jednom mestu. Od SEO i Google Ads do društvenih mreža i email marketinga za srpsko tržište.',
     date: '2026-03-19',
     category: 'Marketing',
     readTime: '10 min',
@@ -8126,7 +8126,7 @@ Za besplatnu procenu vaseg digitalnog prisustva, javite se preko [kontakt forme]
   {
     slug: 'kako-pisati-oglase-koji-konvertuju-srbija-2026',
     title: 'Kako pisati oglase koji konvertuju u Srbiji 2026: copywriting formule za Google i Meta',
-    excerpt: 'Vodic za pisanje reklama koje donose klikove i prodaju. PAS, AIDA i 4U formule prilagodjene za Google Ads i Meta oglase na srpskom trzistu.',
+    excerpt: 'Vodič za pisanje reklama koje donose klikove i prodaju. PAS, AIDA i 4U formule prilagođene za Google Ads i Meta oglase na srpskom tržištu.',
     date: '2026-03-19',
     category: 'Marketing',
     readTime: '8 min',
@@ -8215,7 +8215,7 @@ Za profesionalno pisanje oglasa i vodjenje kampanja, javite se preko [kontakt fo
   {
     slug: 'pricing-strategija-za-usluzne-firme-srbija-2026',
     title: 'Pricing strategija za usluzne firme u Srbiji 2026: kako formirati cene koje privlace',
-    excerpt: 'Kako postaviti cene usluga u Srbiji 2026 da budu profitabilne i privlacne. Value-based pricing, paketi, anchoring i najcesce greske.',
+    excerpt: 'Kako postaviti cene usluga u Srbiji 2026 da budu profitabilne i privlačne. Value-based pricing, paketi, anchoring i najčešće greške.',
     date: '2026-03-19',
     category: 'Biznis',
     readTime: '8 min',
@@ -8319,8 +8319,8 @@ Za pomoc sa pricing strategijom i marketing planom, javite se preko [kontakt for
   },
   {
     slug: 'google-analytics-4-vodic-za-pocetnike-srbija-2026',
-    title: 'Google Analytics 4 vodic za pocetnike u Srbiji 2026: sta pratiti i kako',
-    excerpt: 'Kako koristiti Google Analytics 4 za male firme u Srbiji. Instalacija, kljucni izvestaji, konverzije i kako razumeti odakle dolaze kupci.',
+    title: 'Google Analytics 4 vodič za početnike u Srbiji 2026: šta pratiti i kako',
+    excerpt: 'Kako koristiti Google Analytics 4 za male firme u Srbiji. Instalacija, ključni izvestaji, konverzije i kako razumeti odakle dolaze kupci.',
     date: '2026-03-19',
     category: 'Marketing',
     readTime: '8 min',
@@ -8419,8 +8419,8 @@ Za pomoc sa postavljanjem GA4 i interpretacijom podataka, javite se preko [konta
   },
   {
     slug: 'content-marketing-plan-za-male-firme-srbija-2026',
-    title: 'Content marketing plan za male firme u Srbiji 2026: od nule do organskog saobracaja',
-    excerpt: 'Kako napraviti content marketing plan koji donosi organski saobracaj. Izbor tema, format sadrzaja, distribucija i merenje rezultata za srpske firme.',
+    title: 'Content marketing plan za male firme u Srbiji 2026: od nule do organskog saobraćaja',
+    excerpt: 'Kako napraviti content marketing plan koji donosi organski saobraćaj. Izbor tema, format sadržaja, distribucija i merenje rezultata za srpske firme.',
     date: '2026-03-19',
     category: 'Marketing',
     readTime: '9 min',
@@ -8538,8 +8538,8 @@ Za izradu content marketing strategije i redovnu produkciju sadrzaja, javite se 
   },
   {
     slug: 'zadrzavanje-kupaca-customer-retention-srbija-2026',
-    title: 'Zadrzavanje kupaca u Srbiji 2026: zasto je 5x jeftinije od pronalazenja novih',
-    excerpt: 'Vodic za customer retention u Srbiji. Loyalty programi, post-purchase komunikacija, churn prevencija i kako povecati lifetime value kupca.',
+    title: 'Zadržavanje kupaca u Srbiji 2026: zašto je 5x jeftinije od pronalaženja novih',
+    excerpt: 'Vodič za customer retention u Srbiji. Loyalty programi, post-purchase komunikacija, churn prevencija i kako povećati lifetime value kupca.',
     date: '2026-03-19',
     category: 'Biznis',
     readTime: '8 min',
@@ -8657,7 +8657,7 @@ Za strategiju zadrzavanja kupaca i personalizovanu email komunikaciju, javite se
   {
     slug: 'wordpress-bezbednost-vodic-srbija-2026',
     title: 'WordPress bezbednost u 2026: 10 koraka da zastite sajt od hakera',
-    excerpt: 'Vodic za zastitu WordPress sajta od hakovanja. 10 prakticnih koraka koje svaki vlasnik sajta u Srbiji moze da primeni danas bez tehnickog znanja.',
+    excerpt: 'Vodič za zastitu WordPress sajta od hakovanja. 10 prakticnih koraka koje svaki vlasnik sajta u Srbiji može da primeni danas bez tehnickog znanja.',
     date: '2026-03-19',
     category: 'WordPress',
     readTime: '8 min',
@@ -8761,7 +8761,7 @@ Za profesionalnu zastitu sajta i sigurnosni audit, javite se preko [kontakt form
   {
     slug: 'email-automatizacija-za-webshop-srbija-2026',
     title: 'Email automatizacija za webshop u Srbiji 2026: 5 sekvenci koje prodaju dok spavate',
-    excerpt: 'Kako postaviti email automatizaciju za WooCommerce ili Shopify u Srbiji. 5 sekvenci koje donose 15-25% vise prihoda bez dodatnog rada.',
+    excerpt: 'Kako postaviti email automatizaciju za WooCommerce ili Shopify u Srbiji. 5 sekvenci koje donose 15-25% više prihoda bez dodatnog rada.',
     date: '2026-03-19',
     category: 'E-Commerce',
     readTime: '8 min',
@@ -8859,8 +8859,8 @@ Ako zelite da postavite email automatizaciju za vas webshop, javite se preko [ko
   },
   {
     slug: 'mobilni-dizajn-sajta-srbija-2026',
-    title: 'Mobilni dizajn sajta u Srbiji 2026: zasto je telefon vazniji od desktopa',
-    excerpt: 'Preko 75% saobracaja u Srbiji dolazi sa telefona. Vodic za mobilni web dizajn koji konvertuje: brzina, navigacija, forme i tipovi sadrzaja.',
+    title: 'Mobilni dizajn sajta u Srbiji 2026: zašto je telefon važniji od desktopa',
+    excerpt: 'Preko 75% saobracaja u Srbiji dolazi sa telefona. Vodič za mobilni web dizajn koji konvertuje: brzina, navigacija, forme i tipovi sadržaja.',
     date: '2026-03-19',
     category: 'Web Design',
     readTime: '7 min',
@@ -8942,7 +8942,7 @@ Za profesionalni redizajn sajta sa mobilnim fokusom, javite se preko [kontakt fo
   },
   {
     slug: 'instagram-shopping-srbija-2026-vodic-za-e-commerce',
-    title: 'Instagram Shopping u Srbiji 2026: vodic za e-commerce prodaju preko Instagrama',
+    title: 'Instagram Shopping u Srbiji 2026: vodič za e-commerce prodaju preko Instagrama',
     excerpt: 'Kako postaviti Instagram Shopping za srpsku online prodavnicu. Katalog proizvoda, tagovanje, Checkout i koliko prodaja dolazi sa Instagrama u 2026.',
     date: '2026-03-19',
     category: 'Instagram Ads',
@@ -9059,8 +9059,8 @@ Za pomoc sa Instagram Shopping setup-om i kampanjama, javite se preko [kontakt f
   },
   {
     slug: 'google-search-console-vodic-za-pocetnike-srbija-2026',
-    title: 'Google Search Console vodic za pocetnike u Srbiji 2026',
-    excerpt: 'Kako koristiti Google Search Console za pracenje SEO rezultata. Registracija, verifikacija, analiza klikova i ispravka gresaka za srpske sajtove.',
+    title: 'Google Search Console vodič za početnike u Srbiji 2026',
+    excerpt: 'Kako koristiti Google Search Console za praćenje SEO rezultata. Registracija, verifikacija, analiza klikova i ispravka grešaka za srpske sajtove.',
     date: '2026-03-18',
     category: 'SEO',
     readTime: '8 min',
@@ -9172,7 +9172,7 @@ Za pomoc sa SEO strategijom i interpretacijom GSC podataka, javite se preko [kon
   {
     slug: 'kako-izabrati-poslovni-model-za-online-biznis-srbija-2026',
     title: 'Kako izabrati poslovni model za online biznis u Srbiji 2026',
-    excerpt: 'Pausalac, DOO ili preduzetnik? Vodic za izbor poslovnog modela za online biznis u Srbiji 2026 sa uporednim pregledom poreza, odgovornosti i fleksibilnosti.',
+    excerpt: 'Paušalac, DOO ili preduzetnik? Vodič za izbor poslovnog modela za online biznis u Srbiji 2026 sa uporednim pregledom poreza, odgovornosti i fleksibilnosti.',
     date: '2026-03-18',
     category: 'Biznis',
     readTime: '8 min',
@@ -9276,7 +9276,7 @@ Ako vam je potrebna pomoc sa digitalnim marketingom za vas online biznis, javite
   {
     slug: 'kako-napraviti-landing-stranicu-koja-konvertuje-srbija-2026',
     title: 'Kako napraviti landing stranicu koja konvertuje u Srbiji 2026',
-    excerpt: 'Vodic za kreiranje landing stranice koja pretvara posetioce u klijente. 7 elemenata koji cine razliku izmedju 1% i 10% stope konverzije.',
+    excerpt: 'Vodič za kreiranje landing stranice koja pretvara posetioce u klijente. 7 elemenata koji cine razliku izmedju 1% i 10% stope konverzije.',
     date: '2026-03-18',
     category: 'Lead Generation',
     readTime: '8 min',
@@ -9377,7 +9377,7 @@ Za izradu landing stranice koja donosi rezultate, javite se preko [kontakt forme
   {
     slug: 'ab-testiranje-sajta-srbija-2026',
     title: 'A/B testiranje sajta u Srbiji 2026: kako doneti odluke na osnovu podataka',
-    excerpt: 'Vodic za A/B testiranje za srpske firme 2026. Besplatni alati, sta testirati prvo, koliko saobracaja treba i kako interpretirati rezultate.',
+    excerpt: 'Vodič za A/B testiranje za srpske firme 2026. Besplatni alati, šta testirati prvo, koliko saobracaja treba i kako interpretirati rezultate.',
     date: '2026-03-18',
     category: 'CRO',
     readTime: '8 min',
@@ -9478,7 +9478,7 @@ Za profesionalnu CRO strategiju i A/B testing program, javite se preko [kontakt 
   {
     slug: 'google-business-profile-optimizacija-srbija-2026',
     title: 'Google Business Profile optimizacija u Srbiji 2026: kompletna checklista',
-    excerpt: 'Kako optimizovati Google Business profil za lokalni biznis u Srbiji 2026. Checklista sa 15 koraka za vece prisustvo na Google Mapi i vise poziva.',
+    excerpt: 'Kako optimizovati Google Business profil za lokalni biznis u Srbiji 2026. Checklista sa 15 koraka za vece prisustvo na Google Mapi i više poziva.',
     date: '2026-03-18',
     category: 'Lokalni SEO',
     readTime: '8 min',
@@ -9567,7 +9567,7 @@ Za profesionalnu optimizaciju GBP profila i kompletnu lokalnu SEO strategiju, ja
   {
     slug: 'woocommerce-vs-shopify-srbija-2026',
     title: 'WooCommerce vs Shopify u Srbiji 2026: koji je bolji izbor za vasu prodavnicu',
-    excerpt: 'Detaljno poredjenje WooCommerce-a i Shopify-ja za srpsko trziste 2026. Troskovi, placanje, dostava, skalabilnost i koji je pravi izbor za vas biznis.',
+    excerpt: 'Detaljno poredjenje WooCommerce-a i Shopify-ja za srpsko tržište 2026. Troškovi, plaćanje, dostava, skalabilnost i koji je pravi izbor za vas biznis.',
     date: '2026-03-18',
     category: 'WordPress',
     readTime: '9 min',
@@ -9662,7 +9662,7 @@ Za pomoc sa izborom platforme ili izradom online prodavnice, javite se preko [ko
   },
   {
     slug: 'upravljanje-reputacijom-drustvene-mreze-srbija-2026',
-    title: 'Upravljanje online reputacijom na drustvenim mrezama u Srbiji 2026',
+    title: 'Upravljanje online reputacijom na društvenim mrežama u Srbiji 2026',
     excerpt: 'Kako odgovarati na negativne komentare, voditi kriznu komunikaciju i graditi poverenje na Instagramu i Facebooku za srpske firme u 2026.',
     date: '2026-03-18',
     category: 'Drustvene Mreze',
@@ -9741,7 +9741,7 @@ Za kompletnu digitalnu strategiju koja ukljucuje i reputaciju i placene kampanje
   {
     slug: 'kako-pokrenuti-marketing-agenciju-srbija-2026',
     title: 'Kako pokrenuti marketing agenciju u Srbiji 2026: od prvog klijenta do stabilnog prihoda',
-    excerpt: 'Vodic za pokretanje marketing agencije u Srbiji 2026. Izbor nise, formiranje cena, pronalazenje prvih klijenata i skaliranje bez zaposljavanja.',
+    excerpt: 'Vodič za pokretanje marketing agencije u Srbiji 2026. Izbor nise, formiranje cena, pronalazenje prvih klijenata i skaliranje bez zaposljavanja.',
     date: '2026-03-18',
     category: 'Agency Growth',
     readTime: '9 min',
@@ -9826,7 +9826,7 @@ Za konsultacije oko pokretanja ili skaliranja agencije, javite se preko [kontakt
   },
   {
     slug: 'ubrzavanje-wordpress-sajta-tehnicki-seo-srbija-2026',
-    title: 'Ubrzavanje WordPress sajta: Vodic za tehnicki SEO u 2026. godini',
+    title: 'Ubrzavanje WordPress sajta: Vodič za tehnički SEO u 2026. godini',
     excerpt: 'Spor sajt ubija vas SEO i konverzije. Saznajte kako da ubrzate WordPress sajt u Srbiji: hosting, caching, WebP slike i optimizacija za mobilne uredjaje.',
     date: '2026-03-18',
     category: 'WordPress SEO',
@@ -9900,8 +9900,8 @@ Ako vam je potrebna tehnicka SEO optimizacija celog WordPress sistema ili dubins
   },
   {
     slug: 'meta-ads-advantage-plus-kampanje-srbija-2026',
-    title: 'Meta Ads u Srbiji 2026: Zasto Advantage+ kampanje pobedjuju rucno targetiranje',
-    excerpt: 'Da li i dalje rucno podesavate interesovanja na Facebooku i Instagramu? Saznajte zasto Advantage+ kampanje donose bolji ROI za srpsko trziste u 2026.',
+    title: 'Meta Ads u Srbiji 2026: Zašto Advantage+ kampanje pobeđuju rucno targetiranje',
+    excerpt: 'Da li i dalje rucno podešavate interesovanja na Facebooku i Instagramu? Saznajte zašto Advantage+ kampanje donose bolji ROI za srpsko tržište u 2026.',
     date: '2026-03-18',
     category: 'Meta Ads',
     readTime: '7 min',
@@ -9973,8 +9973,8 @@ Ako vam je potrebna pomoc oko prelaska na AI-vodjene Meta kampanje ili optimizac
   },
   {
     slug: 'optimizacija-konverzije-sajta-cro-srbija-2026',
-    title: 'Optimizacija konverzije (CRO) u Srbiji 2026: kako da isti saobracaj donese vise prodaje',
-    excerpt: 'Zasto povecanje budzeta za reklame nije uvek resenje. Vodic za CRO (Conversion Rate Optimization) u Srbiji: brzina, trust signali, forme i checkout proces.',
+    title: 'Optimizacija konverzije (CRO) u Srbiji 2026: kako da isti saobraćaj donese više prodaje',
+    excerpt: 'Zašto povećanje budžeta za reklame nije uvek rešenje. Vodič za CRO (Conversion Rate Optimization) u Srbiji: brzina, trust signali, forme i checkout proces.',
     date: '2026-03-18',
     category: 'Growth',
     readTime: '8 min',
@@ -10050,7 +10050,7 @@ Za profesionalni CRO audit vaseg sajta i implementaciju resenja koja povecavaju 
   {
     slug: 'marketing-strategija-za-rast-firme-srbija-2026',
     title: 'Marketing strategija za rast firme u Srbiji 2026: od prezivljavanja do skaliranja',
-    excerpt: 'Zasto taktike bez strategije trose budzet. Praktican vodic za postavljanje marketing strategije koja donosi predvidljiv rast na srpskom trzistu u 2026.',
+    excerpt: 'Zašto taktike bez strategije troše budžet. Praktičan vodič za postavljanje marketing strategije koja donosi predvidljiv rast na srpskom tržištu u 2026.',
     date: '2026-03-18',
     category: 'Marketing Strategija',
     readTime: '9 min',
@@ -10126,7 +10126,7 @@ Ako vasem biznisu treba jasna, profitabilna marketing strategija zasnovana na po
   {
     slug: 'linkedin-retargeting-b2b-kampanje-srbija-2026',
     title: 'LinkedIn retargeting: Kako vratiti B2B donosioce odluka na sajt u 2026',
-    excerpt: 'Vodic za LinkedIn retargeting kampanje u Srbiji. Kako koristiti Insight Tag, Company Targeting i Document Ads za smanjenje cene lead-a i zatvaranje ugovora.',
+    excerpt: 'Vodič za LinkedIn retargeting kampanje u Srbiji. Kako koristiti Insight Tag, Company Targeting i Document Ads za smanjenje cene lead-a i zatvaranje ugovora.',
     date: '2026-03-18',
     category: 'LinkedIn Ads',
     readTime: '7 min',
@@ -10206,8 +10206,8 @@ Za profesionalno vodjenje B2B kampanja i postavljanje retargeting levka, javite 
   },
   {
     slug: 'linkedin-reklame-cena-b2b-marketing-srbija-2026',
-    title: 'LinkedIn reklame cena u Srbiji 2026: Vodic za isplativ B2B marketing',
-    excerpt: 'Koliko kostaju LinkedIn reklame u Srbiji 2026. Realan CPC, Lead Gen forme, InMail kampanje i kako smanjiti cenu klika za B2B ciljne grupe.',
+    title: 'LinkedIn reklame cena u Srbiji 2026: Vodič za isplativ B2B marketing',
+    excerpt: 'Koliko koštaju LinkedIn reklame u Srbiji 2026. Realan CPC, Lead Gen forme, InMail kampanje i kako smanjiti cenu klika za B2B ciljne grupe.',
     date: '2026-03-18',
     category: 'LinkedIn Ads',
     readTime: '9 min',
@@ -10283,7 +10283,7 @@ Za konsultacije oko optimalnog mix-a kanala i B2B digitalne strategije, javite s
   {
     slug: 'hladni-pozivi-cold-calling-skripta-srbija-2026',
     title: 'Hladni pozivi u Srbiji 2026: B2B skripta i strategija koja donosi sastanke',
-    excerpt: 'Da li cold calling i dalje radi u Srbiji? Praktican vodic, B2B skripte za hladne pozive, prevazilazenje prigovora i kako doci do direktora.',
+    excerpt: 'Da li cold calling i dalje radi u Srbiji? Praktičan vodič, B2B skripte za hladne pozive, prevazilaženje prigovora i kako doći do direktora.',
     date: '2026-03-18',
     category: 'Prodaja',
     readTime: '8 min',
@@ -10382,7 +10382,7 @@ Za sveobuhvatnu marketing strategiju koja generise leadove pre nego sto ih uopst
   {
     slug: 'b2b-prodaja-kako-zatvoriti-klijenta-srbija-2026',
     title: 'B2B prodaja u Srbiji 2026: kako generisati leadove i zatvoriti ugovore',
-    excerpt: 'Praktican vodic za B2B prodaju u Srbiji 2026. Od pronalazenja kontakata preko hladnog outreach-a do prodajnog sastanka koji konvertuje bez spustanja cene.',
+    excerpt: 'Praktičan vodič za B2B prodaju u Srbiji 2026. Od pronalaženja kontakata preko hladnog outreach-a do prodajnog sastanka koji konvertuje bez spustanja cene.',
     date: '2026-03-18',
     category: 'Prodaja',
     readTime: '9 min',
@@ -10473,8 +10473,8 @@ Za pomoc sa B2B marketing strategijom i kreiranjem kampanja koje donose kvalifik
   },
   {
     slug: 'tiktok-reklame-cena-srbija-2026',
-    title: 'TikTok reklame u Srbiji 2026: cene, budzeti i ko treba da se oglasava',
-    excerpt: 'Koliko kostaju TikTok reklame u Srbiji 2026. CPM i CPA benchmarci, minimalni dnevni budzeti i za koje firme ovaj kanal donosi najbolji ROI.',
+    title: 'TikTok reklame u Srbiji 2026: cene, budžeti i ko treba da se oglasava',
+    excerpt: 'Koliko koštaju TikTok reklame u Srbiji 2026. CPM i CPA benchmarci, minimalni dnevni budžeti i za koje firme ovaj kanal donosi najbolji ROI.',
     date: '2026-03-18',
     category: 'Video Marketing',
     readTime: '8 min',
@@ -10573,8 +10573,8 @@ Ukoliko zelite da pokrenete profitabilne TikTok kampanje za vas e-commerce ili i
   },
   {
     slug: 'kako-voditi-drustvene-mreze-srbija-2026',
-    title: 'Kako samostalno voditi drustvene mreze u Srbiji 2026: alati, planiranje i organizacija vremena',
-    excerpt: 'Praktican vodic za preduzetnike koji sami vode drustvene mreze. Alati za dizajn i zakazivanje postova, content kalendar i kako ustedeti vreme na drustvenim mrezama u 2026.',
+    title: 'Kako samostalno voditi društvene mreže u Srbiji 2026: alati, planiranje i organizacija vremena',
+    excerpt: 'Praktičan vodič za preduzetnike koji sami vode društvene mreže. Alati za dizajn i zakazivanje postova, content kalendar i kako uštedeti vreme na društvenim mrežama u 2026.',
     date: '2026-03-18',
     category: 'Social Media',
     readTime: '9 min',
@@ -10663,7 +10663,7 @@ Za profesionalnu podrsku i vodjenje kampanja, javite se preko [kontakt forme](/k
   {
     slug: 'facebook-ads-remarketing-strategija-srbija-2026',
     title: 'Facebook Ads remarketing u Srbiji 2026: strategija koja vraca kupce',
-    excerpt: 'Kako postaviti Facebook remarketing kampanju u Srbiji 2026. Custom Audiences, Lookalike, dinamicni oglasi i budzeti koji donose najvisi ROI.',
+    excerpt: 'Kako postaviti Facebook remarketing kampanju u Srbiji 2026. Custom Audiences, Lookalike, dinamicni oglasi i budžeti koji donose najvisi ROI.',
     date: '2026-03-18',
     category: 'Facebook Ads',
     readTime: '8 min',
@@ -10769,7 +10769,7 @@ Za kompletnu strategiju digitalnog prisustva pogledaj [cene digitalnog marketing
   {
     slug: 'email-lista-za-male-firme-srbija-2026',
     title: 'Kako izgraditi email listu od nule za male firme u Srbiji 2026',
-    excerpt: 'Prakticni vodic za izgradnju email liste za male firme u Srbiji. Lead magneti koji rade, alati, landing stranice i strategija prvog meseca.',
+    excerpt: 'Praktični vodič za izgradnju email liste za male firme u Srbiji. Lead magneti koji rade, alati, landing stranice i strategija prvog meseca.',
     date: '2026-03-18',
     category: 'Lead Generation',
     readTime: '8 min',
@@ -10870,7 +10870,7 @@ Za pomoc sa email marketing strategijom i izgradnjom liste, javite se preko [kon
   {
     slug: 'landing-page-optimizacija-konverzije-srbija-2026',
     title: 'Landing page optimizacija: 12 promena koje povecavaju konverzije za 30-80%',
-    excerpt: 'Prakticne CRO promene za landing stranice u Srbiji 2026. Konkretni primeri, A/B test rezultati i greske koje kostaju konverzije.',
+    excerpt: 'Praktične CRO promene za landing stranice u Srbiji 2026. Konkretni primeri, A/B test rezultati i greške koje koštaju konverzije.',
     date: '2026-03-18',
     category: 'CRO',
     readTime: '9 min',
@@ -10963,8 +10963,8 @@ Za pomoc sa optimizacijom landing stranica ili CRO auditom vaseg sajta, javite s
   },
   {
     slug: 'social-media-strategija-za-male-firme-srbija-2026',
-    title: 'Social media strategija za male firme u Srbiji 2026: koje mreze, koliko cesto i sta postati',
-    excerpt: 'Prakticna social media strategija za male firme u Srbiji 2026. Koje platforme biriti, optimalna ucestalost objava i tipovi sadrzaja koji donose rezultate.',
+    title: 'Social media strategija za male firme u Srbiji 2026: koje mreže, koliko često i šta postati',
+    excerpt: 'Praktična social media strategija za male firme u Srbiji 2026. Koje platforme biriti, optimalna ucestalost objava i tipovi sadržaja koji donose rezultate.',
     date: '2026-03-17',
     category: 'Social Media',
     readTime: '9 min',
@@ -11086,8 +11086,8 @@ Za kompletnu digital strategiju pogledaj [cene digitalnog marketinga](/cene-digi
   },
   {
     slug: 'video-marketing-za-male-firme-srbija-2026',
-    title: 'Video marketing za male firme u Srbiji 2026: budzet, alati i strategija bez velikog tima',
-    excerpt: 'Kako male firme u Srbiji koriste video marketing 2026. Realni budzeti, alati za snimanje i montazu, platforme i tipovi videa koji donose rezultate.',
+    title: 'Video marketing za male firme u Srbiji 2026: budžet, alati i strategija bez velikog tima',
+    excerpt: 'Kako male firme u Srbiji koriste video marketing 2026. Realni budžeti, alati za snimanje i montazu, platforme i tipovi videa koji donose rezultate.',
     date: '2026-03-17',
     category: 'Video Marketing',
     readTime: '9 min',
@@ -11203,8 +11203,8 @@ Za pomoc sa video marketing strategijom ili produkcijom, javite se preko [kontak
   },
   {
     slug: 'kako-pokrenuti-online-prodavnicu-srbija-2026',
-    title: 'Kako pokrenuti online prodavnicu u Srbiji 2026: platforma, troskovi i prvi koraci',
-    excerpt: 'Prakticni vodic za pokretanje online prodavnice u Srbiji 2026. WooCommerce vs Shopify, troskovi, placanje, dostava i marketing koji donosi prvu prodaju.',
+    title: 'Kako pokrenuti online prodavnicu u Srbiji 2026: platforma, troškovi i prvi koraci',
+    excerpt: 'Praktični vodič za pokretanje online prodavnice u Srbiji 2026. WooCommerce vs Shopify, troškovi, plaćanje, dostava i marketing koji donosi prvu prodaju.',
     date: '2026-03-17',
     category: 'E-Commerce',
     readTime: '10 min',
@@ -11347,8 +11347,8 @@ Ako vam je potrebna pomoc sa pokretanjem ili optimizacijom online prodavnice, ja
   },
   {
     slug: 'linkedin-marketing-za-b2b-firme-srbija-2026',
-    title: 'LinkedIn marketing za B2B firme u Srbiji 2026: strategija, budzet i rezultati',
-    excerpt: 'Kako B2B firme u Srbiji koriste LinkedIn za generisanje lead-ova 2026. Organski vs placeni, content koji radi na srpskom trzistu i realni budzeti.',
+    title: 'LinkedIn marketing za B2B firme u Srbiji 2026: strategija, budžet i rezultati',
+    excerpt: 'Kako B2B firme u Srbiji koriste LinkedIn za generisanje lead-ova 2026. Organski vs plaćeni, content koji radi na srpskom tržištu i realni budžeti.',
     date: '2026-03-17',
     category: 'Marketing',
     readTime: '9 min',
@@ -11452,7 +11452,7 @@ Za kompletnu strategiju digitalnog prisustva vase B2B firme, javite se preko [ko
   {
     slug: 'kako-odabrati-agenciju-za-digitalni-marketing-srbija-2026',
     title: 'Kako odabrati agenciju za digitalni marketing u Srbiji 2026: 9 pitanja pre potpisivanja ugovora',
-    excerpt: 'Praktican vodic kako izabrati agenciju za digitalni marketing u Srbiji 2026: koja pitanja postaviti, sta traziti u ponudi i koje crvene zastavice odmah eliminisu kandidata.',
+    excerpt: 'Praktičan vodič kako izabrati agenciju za digitalni marketing u Srbiji 2026: koja pitanja postaviti, šta tražiti u ponudi i koje crvene zastavice odmah eliminisu kandidata.',
     date: '2026-03-17',
     category: 'Marketing',
     readTime: '9 min',
@@ -11531,7 +11531,7 @@ Ako trazite agenciju koja ispunjava sve ove kriterijume za srpsko trziste, pogle
   {
     slug: 'email-marketing-cena-srbija-2026',
     title: 'Email marketing cena u Srbiji 2026: alati, strategije i realan ROI',
-    excerpt: 'Koliko kosta email marketing za firmu u Srbiji 2026. Poredjenje alata (Mailchimp, Brevo, Klaviyo), cene po broju kontakata i strategije koje donose rezultate.',
+    excerpt: 'Koliko košta email marketing za firmu u Srbiji 2026. Poredjenje alata (Mailchimp, Brevo, Klaviyo), cene po broju kontakata i strategije koje donose rezultate.',
     date: '2026-03-17',
     category: 'Marketing',
     readTime: '9 min',
@@ -11609,8 +11609,8 @@ Za pomoc oko postavljanja email marketinga koji zaista donosi rezultate, [javite
   },
   {
     slug: 'web-dizajn-trendovi-srbija-2026',
-    title: 'Web dizajn trendovi u Srbiji 2026: sta zapravo donosi konverzije',
-    excerpt: 'Koji web dizajn trendovi zapravo pomazu srpskim firmama da prodaju vise online. Bez floskula o metaverse-u, samo ono sto radi na domacem trzistu.',
+    title: 'Web dizajn trendovi u Srbiji 2026: šta zapravo donosi konverzije',
+    excerpt: 'Koji web dizajn trendovi zapravo pomazu srpskim firmama da prodaju više online. Bez floskula o metaverse-u, samo ono sto radi na domacem tržištu.',
     date: '2026-03-17',
     category: 'Web Design',
     readTime: '7 min',
@@ -11698,7 +11698,7 @@ Ako zelite nezavisnu procenu koliko vas trenutni sajt gubi posetilaca i prodaja,
   {
     slug: 'on-page-seo-checklista-srbija-2026',
     title: 'On-page SEO checklista za sajt u Srbiji 2026: 15 koraka koji zapravo menjaju rang',
-    excerpt: 'Kompletna on-page SEO checklista za srpske sajtove u 2026. Bez genericnih saveta — samo koraci koji zaista uticu na Google rang i organski saobracaj.',
+    excerpt: 'Kompletna on-page SEO checklista za srpske sajtove u 2026. Bez genericnih saveta — samo koraci koji zaista uticu na Google rang i organski saobraćaj.',
     date: '2026-03-17',
     category: 'SEO',
     readTime: '9 min',
@@ -11800,7 +11800,7 @@ Za pomoc oko SEO optimizacije vaseg sajta, javite se preko [kontakt forme](/kont
   {
     slug: 'kako-meriti-roi-digitalnog-marketinga-srbija-2026',
     title: 'Kako meriti ROI digitalnog marketinga u Srbiji 2026: formule, alati i realni primeri',
-    excerpt: 'Prakticni vodic za merenje ROI digitalnog marketinga u Srbiji. Formule, besplatni alati, KPI po kanalu i realni primeri iz srpskog trzista.',
+    excerpt: 'Praktični vodič za merenje ROI digitalnog marketinga u Srbiji. Formule, besplatni alati, KPI po kanalu i realni primeri iz srpskog tržišta.',
     date: '2026-03-17',
     category: 'Marketing',
     readTime: '9 min',
@@ -11906,7 +11906,7 @@ Za profesionalni pristup merenju i optimizaciji marketinga, pogledajte [cene dig
   {
     slug: 'seo-za-privatne-vrtice-cena-srbija-2026',
     title: 'SEO za privatne vrtice u Srbiji 2026: cena, lokalni SEO i upisi bez oglasa',
-    excerpt: 'Koliko kosta SEO optimizacija za privatni vrtic u Srbiji 2026. Realni rasponi cena, sta donosi lokalni SEO i kako popuniti grupe organskim putem.',
+    excerpt: 'Koliko košta SEO optimizacija za privatni vrtić u Srbiji 2026. Realni rasponi cena, šta donosi lokalni SEO i kako popuniti grupe organskim putem.',
     date: '2026-03-17',
     category: 'SEO',
     readTime: '8 min',
@@ -11977,7 +11977,7 @@ Ako zelite da procenimo kako vas vrtic trenutno stoji na Google-u, javite se pre
   {
     slug: 'seo-za-privatne-klinike-cena-srbija-2026',
     title: 'SEO za privatne klinike u Srbiji 2026: cena, rokovi i kako privuci pacijente bez oglasa',
-    excerpt: 'Koliko kosta SEO optimizacija za privatnu kliniku u Srbiji 2026. Realni rasponi cena, sta donosi lokalni SEO i zasto organski saobracaj smanjuje zavisnost od oglasa.',
+    excerpt: 'Koliko košta SEO optimizacija za privatnu kliniku u Srbiji 2026. Realni rasponi cena, šta donosi lokalni SEO i zašto organski saobraćaj smanjuje zavisnost od oglasa.',
     date: '2026-03-17',
     category: 'SEO',
     readTime: '8 min',
@@ -12049,8 +12049,8 @@ Ako zelite da procenimo kako vasa klinika trenutno stoji na Google-u i koliko no
   },
   {
     slug: 'instagram-reklame-za-privatne-klinike-cena-pacijenta-srbija-2026',
-    title: 'Instagram reklame za privatne klinike u Srbiji 2026: cena pacijenta i budzet plan',
-    excerpt: 'Koliko realno kostaju Instagram reklame za privatne klinike u Srbiji 2026, koji budzet ima smisla po specijalizaciji i kako smanjiti cenu zakazivanja.',
+    title: 'Instagram reklame za privatne klinike u Srbiji 2026: cena pacijenta i budžet plan',
+    excerpt: 'Koliko realno koštaju Instagram reklame za privatne klinike u Srbiji 2026, koji budžet ima smisla po specijalizaciji i kako smanjiti cenu zakazivanja.',
     date: '2026-03-17',
     category: 'Marketing',
     readTime: '10 min',
@@ -12206,8 +12206,8 @@ Ako zelite da procenimo potencijal Instagram kampanja za vasu kliniku, javite se
   },
   {
     slug: 'google-ads-za-racunovodje-cena-klijenta-srbija-2026',
-    title: 'Google Ads za racunovodje u Srbiji 2026: cena po klijentu i budzet plan',
-    excerpt: 'Koliko kosta Google Ads kampanja za knjigovodstvenu agenciju u Srbiji 2026. Realni CPC, CPL benchmarci i struktura koja donosi B2B klijente.',
+    title: 'Google Ads za računovođe u Srbiji 2026: cena po klijentu i budžet plan',
+    excerpt: 'Koliko košta Google Ads kampanja za knjigovodstvenu agenciju u Srbiji 2026. Realni CPC, CPL benchmarci i struktura koja donosi B2B klijente.',
     date: '2026-03-17',
     category: 'Marketing',
     readTime: '8 min',
@@ -12286,8 +12286,8 @@ Ako zelite da procenimo potencijal Google Ads kampanja za vasu agenciju, javite 
   },
   {
     slug: 'b2b-marketing-srbija-2026-vodic',
-    title: 'B2B marketing u Srbiji 2026: Kako do pravih klijenata bez rasipanja budzeta',
-    excerpt: 'Vecina B2B firmi u Srbiji rasipa budzet na drustvene mreze koje donose samo lajkove, umesto da grade sistem koji direktno dovodi donosioce odluka. Evo sta stvarno radi u 2026.',
+    title: 'B2B marketing u Srbiji 2026: Kako do pravih klijenata bez rasipanja budžeta',
+    excerpt: 'Većina B2B firmi u Srbiji rasipa budžet na društvene mreže koje donose samo lajkove, umesto da grade sistem koji direktno dovodi donosioce odluka. Evo šta stvarno radi u 2026.',
     date: '2026-03-17',
     readTime: '7 min read',
     category: 'Marketing',
@@ -12361,8 +12361,8 @@ Ako niste sigurni gde vasa B2B publika provodi vreme i kako da ih targetirate, p
 
   {
     slug: 'instagram-reklame-za-agencije-za-nekretnine-cena-srbija-2026',
-    title: 'Instagram reklame za agencije za nekretnine u Srbiji 2026: cena upita i budzet plan',
-    excerpt: 'Koliko kosta Instagram oglas za agenciju za nekretnine u Srbiji 2026. CPC, CPL benchmarci i struktura kampanje koja donosi kupce i prodavce.',
+    title: 'Instagram reklame za agencije za nekretnine u Srbiji 2026: cena upita i budžet plan',
+    excerpt: 'Koliko košta Instagram oglas za agenciju za nekretnine u Srbiji 2026. CPC, CPL benchmarci i struktura kampanje koja donosi kupce i prodavce.',
     date: '2026-03-17',
     category: 'Marketing',
     readTime: '8 min',
@@ -12437,7 +12437,7 @@ Ako zelite da procenimo potencijal Instagram kampanja za vasu agenciju, javite s
   {
     slug: 'seo-za-agencije-za-nekretnine-cena-srbija-2026',
     title: 'SEO za agencije za nekretnine u Srbiji 2026: cena i kako rangirati listing-e',
-    excerpt: 'Koliko kosta SEO za agenciju za nekretnine u Srbiji 2026. Realni rasponi cena i kako organski saobracaj moze smanjiti zavisnost od placenih portala.',
+    excerpt: 'Koliko košta SEO za agenciju za nekretnine u Srbiji 2026. Realni rasponi cena i kako organski saobraćaj može smanjiti zavisnost od plaćenih portala.',
     date: '2026-03-17',
     category: 'SEO',
     readTime: '8 min',
@@ -12507,7 +12507,7 @@ Ako zelite da procenimo kako vasa agencija stoji na Google-u i koliko novih upit
   {
     slug: 'seo-za-teretane-cena-srbija-2026',
     title: 'SEO za teretane u Srbiji 2026: cena, rokovi i kako privuci nove clanove bez oglasa',
-    excerpt: 'Koliko kosta SEO optimizacija za teretanu u Srbiji 2026. Realni rasponi cena, sta donosi lokalni SEO i zasto Google mapa moze biti jaci kanal od Instagram-a.',
+    excerpt: 'Koliko košta SEO optimizacija za teretanu u Srbiji 2026. Realni rasponi cena, šta donosi lokalni SEO i zašto Google mapa može biti jaci kanal od Instagram-a.',
     date: '2026-03-17',
     category: 'SEO',
     readTime: '8 min',
@@ -12576,8 +12576,8 @@ Ako zelite da procenimo kako vasa teretana trenutno stoji na Google-u i koliko n
   },
   {
     slug: 'seo-za-autoservise-cena-srbija-2026',
-    title: 'SEO za autoservise u Srbiji 2026: cena, rokovi i sta donosi nove musterije',
-    excerpt: 'Koliko kosta SEO optimizacija za autoservis u Srbiji 2026. Realni rasponi cena, sta ulazi u uslugu i kako Google mapa postaje vas najjaci kanal za nove klijente.',
+    title: 'SEO za autoservise u Srbiji 2026: cena, rokovi i šta donosi nove musterije',
+    excerpt: 'Koliko košta SEO optimizacija za autoservis u Srbiji 2026. Realni rasponi cena, šta ulazi u uslugu i kako Google mapa postaje vas najjaci kanal za nove klijente.',
     date: '2026-03-17',
     category: 'SEO',
     readTime: '8 min',
@@ -12647,8 +12647,8 @@ Ako zelite da procenimo gde vas autoservis trenutno stoji na Google-u i sta konk
   },
   {
     slug: 'instagram-reklame-za-stomatologe-cena-pacijenta-srbija-2026',
-    title: 'Instagram reklame za stomatologe u Srbiji 2026: cena po pacijentu i budzet plan',
-    excerpt: 'Koliko kosta Instagram oglas za stomatolosku ordinaciju u Srbiji 2026. Realni CPC, CPL i budzet rasponi za zakazivanje novih pacijenata.',
+    title: 'Instagram reklame za stomatologe u Srbiji 2026: cena po pacijentu i budžet plan',
+    excerpt: 'Koliko košta Instagram oglas za stomatološku ordinaciju u Srbiji 2026. Realni CPC, CPL i budžet rasponi za zakazivanje novih pacijenata.',
     date: '2026-03-17',
     category: 'Marketing',
     readTime: '8 min',
@@ -12727,8 +12727,8 @@ Ako zelite da procenimo potencijal Instagram kampanja za vasu ordinaciju, javite
   },
   {
     slug: 'izrada-sajta-za-restorane-cena-srbija-2026',
-    title: 'Izrada sajta za restorane cena u Srbiji 2026: koliko kosta sajt koji stvarno donosi rezervacije',
-    excerpt: 'Koliko kosta izrada sajta za restorane i kafice u Srbiji 2026, sta mora da sadrzi za dobar lokalni SEO i zasto lose postavljen meni odbija goste.',
+    title: 'Izrada sajta za restorane cena u Srbiji 2026: koliko košta sajt koji stvarno donosi rezervacije',
+    excerpt: 'Koliko košta izrada sajta za restorane i kafiće u Srbiji 2026, šta mora da sadrži za dobar lokalni SEO i zašto loše postavljen meni odbija goste.',
     date: '2026-03-16',
     category: 'Web Design',
     readTime: '8 min',
@@ -12790,7 +12790,7 @@ Ukoliko zelite partnera koji ce vam postaviti bazu koja ne trazi prepravke svaki
   },
   {
     slug: 'kako-naci-pacijente-za-stomatolosku-ordinaciju-srbija-2026',
-    title: 'Kako naci pacijente za stomatolosku ordinaciju u Srbiji (2026)',
+    title: 'Kako naci pacijente za stomatološku ordinaciju u Srbiji (2026)',
     excerpt: 'Marketing za stomatologe se promenio. Saznajte kako da prestanete da zavisite od preporuka i izgradite stabilan sistem koji ordinaciji donosi kvalitetne pacijente svakog meseca.',
     date: '2026-03-16',
     category: 'Marketing',
@@ -12849,8 +12849,8 @@ Ako zelite jasan sistem koji vasoj ordinaciji garantuje predvidiv broj pacijenat
   },
   {
     slug: 'izrada-woocommerce-web-shopa-cena-srbija-2026',
-    title: 'Izrada WooCommerce web shopa cena u Srbiji 2026: skriveni troskovi i rasponi',
-    excerpt: 'Koliko realno kosta izrada WooCommerce web shopa u 2026? Pogledajte realne raspone cena, razlike izmedu sablona i custom resenja, kao i cesto zaboravljeno odrzavanje.',
+    title: 'Izrada WooCommerce web shopa cena u Srbiji 2026: skriveni troškovi i rasponi',
+    excerpt: 'Koliko realno košta izrada WooCommerce web shopa u 2026? Pogledajte realne raspone cena, razlike između šablona i custom rešenja, kao i često zaboravljeno održavanje.',
     date: '2026-03-15',
     category: 'Biznis',
     readTime: '8 min',
@@ -12897,8 +12897,8 @@ Ako vam je potrebna stabilna, brza prodavnica koja pretvara klikove u prodaju, s
   },
   {
     slug: 'izrada-web-shopa-cena-srbija-2026',
-    title: 'Izrada web shopa cena u Srbiji 2026: koliko kosta internet prodavnica koja donosi profit',
-    excerpt: 'Detaljan pregled cena za izradu web shopa u Srbiji u 2026. godini. Saznajte razlike izmedu sablona i custom resenja, kao i skrivene troskove najjeftinijih opcija.',
+    title: 'Izrada web shopa cena u Srbiji 2026: koliko košta internet prodavnica koja donosi profit',
+    excerpt: 'Detaljan pregled cena za izradu web shopa u Srbiji u 2026. godini. Saznajte razlike između šablona i custom rešenja, kao i skrivene troskove najjeftinijih opcija.',
     date: '2026-03-15',
     category: 'Biznis',
     readTime: '9 min',
@@ -12961,8 +12961,8 @@ Ako trazite partnera koji ne podize samo vizuelni okvir vec gradi prodajni alat 
   },
   {
     slug: 'vodjenje-drustvenih-mreza-cena-srbija-2026',
-    title: 'Vodjenje drustvenih mreza cena u Srbiji 2026: Koliko realno kosta i sta dobijate',
-    excerpt: 'Koliko kosta vodjenje drustvenih mreza u Srbiji 2026? Vodic kroz cene za freelancere i agencije, sta ulazi u paket i zasto najjeftinija opcija ubija prodaju.',
+    title: 'Vođenje društvenih mreža cena u Srbiji 2026: Koliko realno košta i šta dobijate',
+    excerpt: 'Koliko košta vođenje društvenih mreža u Srbiji 2026? Vodič kroz cene za freelancere i agencije, šta ulazi u paket i zašto najjeftinija opcija ubija prodaju.',
     date: '2026-03-15',
     category: 'Marketing',
     readTime: '8 min',
@@ -13021,8 +13021,8 @@ Ako zelite strategiju koja vas brend podize na visi nivo, javite se preko nase [
 
   {
     slug: 'tiktok-vs-instagram-reklame-srbija-2026',
-    title: 'TikTok reklame vs Instagram reklame: gde uloziti budzet u Srbiji 2026?',
-    excerpt: 'Prakticno poredjenje cene klika, kvaliteta lead-ova i organskog dosega na TikToku i Instagramu za trziste Srbije. Sta se isplati za B2B, a sta za e-commerce?',
+    title: 'TikTok reklame vs Instagram reklame: gde uloziti budžet u Srbiji 2026?',
+    excerpt: 'Prakticno poredjenje cene klika, kvaliteta lead-ova i organskog dosega na TikToku i Instagramu za tržište Srbije. Šta se isplati za B2B, a šta za e-commerce?',
     date: '2026-03-15',
     category: 'Marketing',
     readTime: '6 min',
@@ -13088,8 +13088,8 @@ Saznaj kako da usmeris budzet u kanale koji konvertuju umesto da gubis novac na 
   },
   {
     slug: 'seo-optimizacija-za-web-shop-cena-srbija-2026',
-    title: 'SEO optimizacija za web shop u Srbiji 2026: realne cene, rokovi i sta stvarno placate',
-    excerpt: 'Koliko kosta SEO optimizacija za web shop u Srbiji 2026, zasto e-commerce SEO zahteva drugaciji pristup i kada se investicija stvarno isplati.',
+    title: 'SEO optimizacija za web shop u Srbiji 2026: realne cene, rokovi i šta stvarno plaćate',
+    excerpt: 'Koliko košta SEO optimizacija za web shop u Srbiji 2026, zašto e-commerce SEO zahteva drugaciji pristup i kada se investicija stvarno isplati.',
     date: '2026-03-15',
     category: 'SEO',
     readTime: '9 min',
@@ -13155,8 +13155,8 @@ Brzo cemo pregledati vas web shop, izvuci najveca uska grla i predloziti plan ko
   },
   {
     slug: 'landing-stranica-za-google-ads-kako-spustiti-cenu-leada-srbija-2026',
-    title: 'Landing stranica za Google Ads u Srbiji 2026: kako da spustis cenu lead-a bez veceg budzeta',
-    excerpt: 'Praktican vodic kako da landing stranica za Google Ads u Srbiji 2026 podigne konverziju i smanji cenu kvalifikovanog upita bez dodatnog ad spend-a.',
+    title: 'Landing stranica za Google Ads u Srbiji 2026: kako da spustiš cenu lead-a bez većeg budžeta',
+    excerpt: 'Praktičan vodič kako da landing stranica za Google Ads u Srbiji 2026 podigne konverziju i smanji cenu kvalifikovanog upita bez dodatnog ad spend-a.',
     date: '2026-03-15',
     category: 'CRO',
     readTime: '10 min',
@@ -13264,8 +13264,8 @@ Ako hoces, mogu da oznacim 5 najbrzih izmena za tvoju trenutnu stranicu preko [k
 
   {
     slug: 'odrzavanje-wordpress-sajta-cena-srbija-2026',
-    title: 'Odrzavanje WordPress sajta cena u Srbiji 2026: mesecni paketi i sta ulazi u cenu',
-    excerpt: 'Koliko realno kosta odrzavanje WordPress sajta u Srbiji 2026, koje stavke su obavezne svakog meseca i kako da izaberes paket koji cuva SEO, brzinu i sigurnost.',
+    title: 'Održavanje WordPress sajta cena u Srbiji 2026: mesečni paketi i šta ulazi u cenu',
+    excerpt: 'Koliko realno košta održavanje WordPress sajta u Srbiji 2026, koje stavke su obavezne svakog meseca i kako da izabereš paket koji čuva SEO, brzinu i sigurnost.',
     date: '2026-03-15',
     category: 'WordPress',
     readTime: '10 min',
@@ -13387,8 +13387,8 @@ Ako hoces, mogu da ti dam brz maintenance gap audit i oznacim prve 3 stavke koje
 
   {
     slug: 'seo-za-stomatoloske-ordinacije-cena-srbija-2026',
-    title: 'SEO za stomatoloske ordinacije u Srbiji 2026: cena, prioriteti i vise zakazanih pregleda',
-    excerpt: 'Koliko realno kosta SEO za stomatoloske ordinacije u Srbiji 2026, sta mora da udje u paket i koje izmene najbrze podizu broj zakazanih pregleda iz organske pretrage.',
+    title: 'SEO za stomatološke ordinacije u Srbiji 2026: cena, prioriteti i više zakazanih pregleda',
+    excerpt: 'Koliko realno košta SEO za stomatološke ordinacije u Srbiji 2026, šta mora da udje u paket i koje izmene najbrze podižu broj zakazanih pregleda iz organske pretrage.',
     date: '2026-03-15',
     category: 'SEO',
     readTime: '10 min',
@@ -13494,8 +13494,8 @@ Ako hoces, mogu da mapiram prve 3 SEO izmene koje bi na tvom sajtu najbrze podig
 
   {
     slug: 'wordpress-sajt-za-stomatolosku-ordinaciju-cena-srbija-2026',
-    title: 'WordPress sajt za stomatolosku ordinaciju u Srbiji 2026: cena, rokovi i sta mora da postoji',
-    excerpt: 'Koliko realno kosta WordPress sajt za stomatolosku ordinaciju u Srbiji 2026, sta ulazi u cenu i kako da sajt donosi vise zakazanih pregleda umesto samo lep dizajn.',
+    title: 'WordPress sajt za stomatološku ordinaciju u Srbiji 2026: cena, rokovi i šta mora da postoji',
+    excerpt: 'Koliko realno košta WordPress sajt za stomatološku ordinaciju u Srbiji 2026, šta ulazi u cenu i kako da sajt donosi više zakazanih pregleda umesto samo lep dizajn.',
     date: '2026-03-15',
     category: 'WordPress',
     readTime: '10 min',
@@ -13610,8 +13610,8 @@ Ako hoces, mogu da oznacim 3 najbrze izmene koje bi na tvom trenutnom sajtu najp
 
   {
     slug: 'vodjenje-facebook-ads-kampanja-cena-srbija-2026',
-    title: 'Vodjenje Facebook Ads kampanja cena u Srbiji 2026: koliko kosta i sta realno dobijas',
-    excerpt: 'Koliko realno kosta vodjenje Facebook Ads kampanja u Srbiji 2026, koji modeli naplate postoje i kako da procenis da li agencija donosi profit ili samo lep dashboard.',
+    title: 'Vođenje Facebook Ads kampanja cena u Srbiji 2026: koliko košta i šta realno dobijas',
+    excerpt: 'Koliko realno košta vođenje Facebook Ads kampanja u Srbiji 2026, koji modeli naplate postoje i kako da procenis da li agencija donosi profit ili samo lep dashboard.',
     date: '2026-03-15',
     category: 'Facebook Ads',
     readTime: '10 min',
@@ -13741,7 +13741,7 @@ Ako hoces, mogu da uradim mini audit tvog naloga i dam 3 konkretna poteza za bol
   {
     slug: 'alex-hormozi-value-equation-ponuda-koja-se-prodaje-srbija-2026',
     title: 'Alex Hormozi Value Equation 2026: ponuda koja se prodaje bez spustanja cene',
-    excerpt: 'Kako da primenis Alex Hormozi Value Equation na srpskom trzistu: jasna ponuda, bolji lead quality i veca vrednost klijenta bez dumping cena.',
+    excerpt: 'Kako da primenis Alex Hormozi Value Equation na srpskom tržištu: jasna ponuda, bolji lead quality i veca vrednost klijenta bez dumping cena.',
     date: '2026-03-15',
     category: 'Growth',
     readTime: '11 min',
@@ -13884,8 +13884,8 @@ Ako hoces, mogu da ti razlozim tvoju trenutnu ponudu kroz ova 4 faktora i dam ko
 
   {
     slug: 'instagram-reklame-za-kozmeticke-salone-cena-termina-srbija-2026',
-    title: 'Instagram reklame za kozmeticke salone u Srbiji 2026: cena termina i budzet',
-    excerpt: 'Koliko realno kostaju Instagram reklame za kozmeticke salone u Srbiji 2026, koji budzet ima smisla i kako da smanjite cenu zakazanog termina bez praznih poruka.',
+    title: 'Instagram reklame za kozmetičke salone u Srbiji 2026: cena termina i budžet',
+    excerpt: 'Koliko realno koštaju Instagram reklame za kozmetičke salone u Srbiji 2026, koji budžet ima smisla i kako da smanjite cenu zakazanog termina bez praznih poruka.',
     date: '2026-03-15',
     category: 'Instagram Ads',
     readTime: '10 min',
@@ -14035,8 +14035,8 @@ Ako hoces, mogu da oznacim 3 najbrza poteza za nizi trosak termina preko [kontak
 
   {
     slug: 'google-ads-za-krovopokrivace-cena-leada-srbija-2026',
-    title: 'Google Ads za krovopokrivace u Srbiji 2026: cena lead-a, budzet i manje praznih poziva',
-    excerpt: 'Koliko realno kostaju Google Ads kampanje za krovopokrivace u Srbiji 2026, koji budzet ima smisla i kako da spustis cenu kvalifikovanog upita bez gubljenja na nerelevantne klikove.',
+    title: 'Google Ads za krovopokrivace u Srbiji 2026: cena lead-a, budžet i manje praznih poziva',
+    excerpt: 'Koliko realno koštaju Google Ads kampanje za krovopokrivace u Srbiji 2026, koji budžet ima smisla i kako da spustiš cenu kvalifikovanog upita bez gubljenja na nerelevantne klikove.',
     date: '2026-03-15',
     category: 'Google Ads',
     readTime: '10 min',
@@ -14159,8 +14159,8 @@ Ako hoces, mogu da mapiram 3 najbrza poteza za tvoj nalog preko [kontakt forme](
 
   {
     slug: 'google-ads-za-fizioterapeute-cena-termina-srbija-2026',
-    title: 'Google Ads za fizioterapeute u Srbiji 2026: cena termina, budzet i kako da smanjis prazne upite',
-    excerpt: 'Koliko realno kostaju Google Ads kampanje za fizio ordinacije u Srbiji 2026, koji budzet ima smisla i kako da spustis cenu zakazanog termina bez praznih poziva.',
+    title: 'Google Ads za fizioterapeute u Srbiji 2026: cena termina, budžet i kako da smanjiš prazne upite',
+    excerpt: 'Koliko realno koštaju Google Ads kampanje za fizio ordinacije u Srbiji 2026, koji budžet ima smisla i kako da spustiš cenu zakazanog termina bez praznih poziva.',
     date: '2026-03-15',
     category: 'Google Ads',
     readTime: '10 min',
@@ -14284,8 +14284,8 @@ Ako hoces, mogu da mapiram 3 najbrza poteza za tvoju ordinaciju preko [kontakt f
 
   {
     slug: 'seo-audit-sajta-checklist-srbija-2026',
-    title: 'SEO audit sajta u Srbiji 2026: prakticna checklista koja donosi vise upita',
-    excerpt: 'Praktican SEO audit vodic za mala i srednja preduzeca u Srbiji: sta proveriti prvo, kako da prioritetizujes popravke i koje izmene najbrze donose vise kvalitetnih upita.',
+    title: 'SEO audit sajta u Srbiji 2026: praktična checklista koja donosi više upita',
+    excerpt: 'Praktičan SEO audit vodič za mala i srednja preduzeca u Srbiji: šta proveriti prvo, kako da prioritetizujes popravke i koje izmene najbrze donose više kvalitetnih upita.',
     date: '2026-03-15',
     category: 'SEO',
     readTime: '9 min',
@@ -14381,8 +14381,8 @@ Ako hoces, mogu da uradim i mini prioritet listu za tvoj sajt kroz [kontakt form
   },
   {
     slug: 'google-ads-za-vodoinstalatere-cena-poziva-srbija-2026',
-    title: 'Google Ads za vodoinstalatere u Srbiji 2026: cena poziva, budzet i kako da ne bacas novac',
-    excerpt: 'Koliko realno kosta Google Ads za vodoinstalaterske usluge u Srbiji 2026, koji je zdrav raspon cene poziva i kako da postavis kampanju koja puni raspored intervencija.',
+    title: 'Google Ads za vodoinstalatere u Srbiji 2026: cena poziva, budžet i kako da ne bacas novac',
+    excerpt: 'Koliko realno košta Google Ads za vodoinstalaterske usluge u Srbiji 2026, koji je zdrav raspon cene poziva i kako da postaviš kampanju koja puni raspored intervencija.',
     date: '2026-03-15',
     category: 'Google Ads',
     readTime: '10 min',
@@ -14478,8 +14478,8 @@ Ako hoces, mogu da ti slozim check-listu od 10 tacaka za audit kampanje kroz [ko
   },
   {
     slug: 'google-ads-za-privatne-skole-cena-upisa-srbija-2026',
-    title: 'Google Ads za privatne skole u Srbiji 2026: cena lead-a, budzet i vise upisa',
-    excerpt: 'Koliko realno kostaju Google Ads kampanje za privatne skole u Srbiji 2026, koji budzet ima smisla po fazama i kako da smanjite cenu kvalifikovanog upita bez praznih prijava.',
+    title: 'Google Ads za privatne škole u Srbiji 2026: cena lead-a, budžet i više upisa',
+    excerpt: 'Koliko realno koštaju Google Ads kampanje za privatne škole u Srbiji 2026, koji budžet ima smisla po fazama i kako da smanjite cenu kvalifikovanog upita bez praznih prijava.',
     date: '2026-03-14',
     category: 'Google Ads',
     readTime: '10 min',
@@ -14596,8 +14596,8 @@ Ako hoces, mogu da oznacim 3 najbrza poteza za nizi trosak kvalifikovane prijave
   },
   {
     slug: 'instagram-reklame-za-privatne-vrtice-cena-upisa-srbija-2026',
-    title: 'Instagram reklame za privatne vrtice u Srbiji 2026: cena upisa i budzet',
-    excerpt: 'Koliko realno kostaju Instagram reklame za privatne vrtice u Srbiji 2026, koji budzet ima smisla i kako da spustite cenu kvalitetne prijave bez praznih poruka.',
+    title: 'Instagram reklame za privatne vrtice u Srbiji 2026: cena upisa i budžet',
+    excerpt: 'Koliko realno koštaju Instagram reklame za privatne vrtice u Srbiji 2026, koji budžet ima smisla i kako da spustite cenu kvalitetne prijave bez praznih poruka.',
     date: '2026-03-14',
     category: 'Instagram Ads',
     readTime: '10 min',
@@ -14712,8 +14712,8 @@ Ako hoces, mogu da oznacim 3 najbrza poteza za nizi trosak kvalifikovane prijave
 
   {
     slug: 'google-ads-za-veterinarske-ambulante-cena-leada-srbija-2026',
-    title: 'Google Ads za veterinarske ambulante u Srbiji 2026: cena lead-a, budzet i vise pregleda',
-    excerpt: 'Koliko realno kostaju Google Ads kampanje za veterinarske ambulante u Srbiji 2026, koji budzet ima smisla i kako da spustite cenu kvalifikovanog upita bez praznih poziva.',
+    title: 'Google Ads za veterinarske ambulante u Srbiji 2026: cena lead-a, budžet i više pregleda',
+    excerpt: 'Koliko realno koštaju Google Ads kampanje za veterinarske ambulante u Srbiji 2026, koji budžet ima smisla i kako da spustite cenu kvalifikovanog upita bez praznih poziva.',
     date: '2026-03-14',
     category: 'Google Ads',
     readTime: '10 min',
@@ -14821,8 +14821,8 @@ Ako hoces, mogu da oznacim 3 najbrza poteza za nizi trosak kvalifikovanog zakazi
 
   {
     slug: 'google-ads-za-teretane-i-fitnes-studije-cena-leada-srbija-2026',
-    title: 'Google Ads za teretane i fitnes studije u Srbiji 2026: cena lead-a i budzet',
-    excerpt: 'Koliko realno kostaju Google Ads kampanje za teretane i fitnes studije u Srbiji 2026, koji budzet ima smisla po fazama i kako da spustite cenu kvalitetne prijave.',
+    title: 'Google Ads za teretane i fitnes studije u Srbiji 2026: cena lead-a i budžet',
+    excerpt: 'Koliko realno koštaju Google Ads kampanje za teretane i fitnes studije u Srbiji 2026, koji budžet ima smisla po fazama i kako da spustite cenu kvalitetne prijave.',
     date: '2026-03-14',
     category: 'Google Ads',
     readTime: '10 min',
@@ -14929,8 +14929,8 @@ Ako hoces, mogu da oznacim 3 najbrza poteza za nizi trosak kvalifikovane prijave
 
   {
     slug: 'google-ads-za-domove-za-stare-cena-leada-srbija-2026',
-    title: 'Google Ads za domove za stare u Srbiji 2026: cena lead-a, budzet i vise ozbiljnih prijava',
-    excerpt: 'Koliko realno kostaju Google Ads kampanje za domove za stare u Srbiji 2026, koji budzet ima smisla i kako da spustite cenu kvalifikovanog upita bez praznih poziva.',
+    title: 'Google Ads za domove za stare u Srbiji 2026: cena lead-a, budžet i više ozbiljnih prijava',
+    excerpt: 'Koliko realno koštaju Google Ads kampanje za domove za stare u Srbiji 2026, koji budžet ima smisla i kako da spustite cenu kvalifikovanog upita bez praznih poziva.',
     date: '2026-03-14',
     category: 'Google Ads',
     readTime: '10 min',
@@ -15038,8 +15038,8 @@ Ako hoces, mogu da oznacim 3 najbrza poteza za nizi trosak kvalifikovanog upita 
   },
   {
     slug: 'google-ads-za-agencije-za-nekretnine-cena-leada-srbija-2026',
-    title: 'Google Ads za agencije za nekretnine u Srbiji 2026: cena lead-a, budzet i vise ozbiljnih kupaca',
-    excerpt: 'Koliko realno kostaju Google Ads kampanje za agencije za nekretnine u Srbiji 2026, koji budzet ima smisla po fazama i kako da spustite cenu ozbiljnog upita bez praznih poziva.',
+    title: 'Google Ads za agencije za nekretnine u Srbiji 2026: cena lead-a, budžet i više ozbiljnih kupaca',
+    excerpt: 'Koliko realno koštaju Google Ads kampanje za agencije za nekretnine u Srbiji 2026, koji budžet ima smisla po fazama i kako da spustite cenu ozbiljnog upita bez praznih poziva.',
     date: '2026-03-14',
     category: 'Google Ads',
     readTime: '10 min',
@@ -15153,8 +15153,8 @@ Ako hoces, mogu da uradim mini audit i oznacim 3 najbrza poteza za nizi trosak k
 
   {
     slug: 'google-ads-za-privatne-vrtice-cena-upisa-srbija-2026',
-    title: 'Google Ads za privatne vrtice u Srbiji 2026: cena upisa, budzet i vise kvalifikovanih prijava',
-    excerpt: 'Koliko realno kostaju Google Ads kampanje za privatne vrtice u Srbiji 2026, koji budzet ima smisla po sezoni i kako da spustite cenu kvalitetne prijave bez praznih poziva.',
+    title: 'Google Ads za privatne vrtice u Srbiji 2026: cena upisa, budžet i više kvalifikovanih prijava',
+    excerpt: 'Koliko realno koštaju Google Ads kampanje za privatne vrtice u Srbiji 2026, koji budžet ima smisla po sezoni i kako da spustite cenu kvalitetne prijave bez praznih poziva.',
     date: '2026-03-14',
     category: 'Google Ads',
     readTime: '10 min',
@@ -15284,8 +15284,8 @@ Ako hoces, mogu da oznacim 3 najbrza poteza za nizi trosak kvalifikovane prijave
 
   {
     slug: 'google-ads-za-salone-namestaja-cena-leada-srbija-2026',
-    title: 'Google Ads za salone namestaja u Srbiji 2026: cena lead-a, budzet i vise kupaca',
-    excerpt: 'Koliko realno kostaju Google Ads kampanje za salone namestaja u Srbiji 2026, koji budzet ima smisla po fazama i kako da smanjite cenu kvalitetnog upita bez praznih klikova.',
+    title: 'Google Ads za salone namestaja u Srbiji 2026: cena lead-a, budžet i više kupaca',
+    excerpt: 'Koliko realno koštaju Google Ads kampanje za salone namestaja u Srbiji 2026, koji budžet ima smisla po fazama i kako da smanjite cenu kvalitetnog upita bez praznih klikova.',
     date: '2026-03-14',
     category: 'Google Ads',
     readTime: '10 min',
@@ -15401,8 +15401,8 @@ Ako hoces, mogu da uradim mini audit i oznacim 3 najbrza poteza za nizi trosak k
 
   {
     slug: 'google-ads-za-skolice-stranih-jezika-cena-upisa-srbija-2026',
-    title: 'Google Ads za skolice stranih jezika u Srbiji 2026: cena upisa, budzet i manje praznih upita',
-    excerpt: 'Koliko realno kostaju Google Ads kampanje za skolice stranih jezika u Srbiji 2026, koji budzet ima smisla po sezoni i kako da spustite cenu kvalitetnog upisa bez praznih prijava.',
+    title: 'Google Ads za skolice stranih jezika u Srbiji 2026: cena upisa, budžet i manje praznih upita',
+    excerpt: 'Koliko realno koštaju Google Ads kampanje za skolice stranih jezika u Srbiji 2026, koji budžet ima smisla po sezoni i kako da spustite cenu kvalitetnog upisa bez praznih prijava.',
     date: '2026-03-14',
     category: 'Google Ads',
     readTime: '10 min',
@@ -15530,8 +15530,8 @@ Ako hoces, mogu da uradim mini audit i oznacim 3 najbrza poteza za nizi trosak u
 
   {
     slug: 'google-ads-za-autoskole-cena-upisa-srbija-2026',
-    title: 'Google Ads za auto skole u Srbiji 2026: cena upisa, budzet i manje praznih poziva',
-    excerpt: 'Koliko realno kostaju Google Ads kampanje za auto skole u Srbiji 2026, koji budzet ima smisla po sezoni i kako da spustite cenu kvalitetnog upisa bez praznih poziva.',
+    title: 'Google Ads za auto škole u Srbiji 2026: cena upisa, budžet i manje praznih poziva',
+    excerpt: 'Koliko realno koštaju Google Ads kampanje za auto škole u Srbiji 2026, koji budžet ima smisla po sezoni i kako da spustite cenu kvalitetnog upisa bez praznih poziva.',
     date: '2026-03-14',
     category: 'Google Ads',
     readTime: '10 min',
@@ -15658,8 +15658,8 @@ Ako hoces, mogu da uradim mini audit i oznacim 3 najbrza poteza za nizi trosak u
   },
   {
     slug: 'google-ads-za-firme-za-selidbe-cena-poziva-srbija-2026',
-    title: 'Google Ads za firme za selidbe u Srbiji 2026: cena poziva, budzet i manje izgubljenih upita',
-    excerpt: 'Koliko realno kostaju Google Ads kampanje za firme za selidbe u Srbiji 2026, koji budzet ima smisla po sezoni i kako da spustite cenu kvalitetnog poziva bez praznih voznji.',
+    title: 'Google Ads za firme za selidbe u Srbiji 2026: cena poziva, budžet i manje izgubljenih upita',
+    excerpt: 'Koliko realno koštaju Google Ads kampanje za firme za selidbe u Srbiji 2026, koji budžet ima smisla po sezoni i kako da spustite cenu kvalitetnog poziva bez praznih voznji.',
     date: '2026-03-14',
     category: 'Google Ads',
     readTime: '10 min',
@@ -15785,8 +15785,8 @@ Ako hoces, mogu da uradim mini audit i oznacim 3 najbrza poteza za nizi trosak k
   },
   {
     slug: 'google-ads-za-privatne-klinike-cena-leada-srbija-2026',
-    title: 'Google Ads za privatne klinike u Srbiji 2026: cena lead-a, budzet i manje praznih upita',
-    excerpt: 'Koliko realno kostaju Google Ads kampanje za privatne klinike u Srbiji 2026, koji budzet ima smisla po fazama i kako da spustis cenu kvalitetnog medicinskog upita.',
+    title: 'Google Ads za privatne klinike u Srbiji 2026: cena lead-a, budžet i manje praznih upita',
+    excerpt: 'Koliko realno koštaju Google Ads kampanje za privatne klinike u Srbiji 2026, koji budžet ima smisla po fazama i kako da spustiš cenu kvalitetnog medicinskog upita.',
     date: '2026-03-14',
     category: 'Google Ads',
     readTime: '10 min',
@@ -15908,8 +15908,8 @@ Ako hoces, mogu da napravim konkretan 90-dnevni plan za tvoju kliniku (po usluzi
   },
   {
     slug: 'redizajn-wordpress-sajta-cena-srbija-2026',
-    title: 'Redizajn WordPress sajta cena u Srbiji 2026: sta podize trosak i kako da izbegnes SEO pad',
-    excerpt: 'Koliko realno kosta redizajn WordPress sajta u Srbiji 2026, sta najvise podize cenu i kako da uradis vizuelno osvezenje bez pada SEO pozicija i leadova.',
+    title: 'Redizajn WordPress sajta cena u Srbiji 2026: šta podiže trosak i kako da izbegneš SEO pad',
+    excerpt: 'Koliko realno košta redizajn WordPress sajta u Srbiji 2026, šta najviše podiže cenu i kako da uradis vizuelno osveženje bez pada SEO pozicija i leadova.',
     date: '2026-03-14',
     category: 'WordPress',
     readTime: '11 min',
@@ -16012,8 +16012,8 @@ Ako hoces, mogu da uradim mini audit postojeceg sajta i dam ti plan u 3 nivoa (q
   },
   {
     slug: 'google-ads-za-knjigovodstvene-agencije-cena-leada-srbija-2026',
-    title: 'Google Ads za knjigovodstvene agencije u Srbiji 2026: cena lead-a i profitabilan budzet',
-    excerpt: 'Koliko kostaju Google Ads kampanje za knjigovodstvene agencije u Srbiji 2026, koji budzet ima smisla po fazama i kako da smanjite cenu kvalifikovanog upita bez praznih poziva.',
+    title: 'Google Ads za knjigovodstvene agencije u Srbiji 2026: cena lead-a i profitabilan budžet',
+    excerpt: 'Koliko koštaju Google Ads kampanje za knjigovodstvene agencije u Srbiji 2026, koji budžet ima smisla po fazama i kako da smanjite cenu kvalifikovanog upita bez praznih poziva.',
     date: '2026-03-14',
     category: 'Google Ads',
     readTime: '10 min',
@@ -16125,8 +16125,8 @@ Ako hoces, mogu da uradim mini audit naloga i oznacim 3 najbrza poteza za nizi C
 `,
   },  {
     slug: 'facebook-reklame-za-stomatologe-cena-termina-srbija-2026',
-    title: 'Facebook reklame za stomatologe u Srbiji 2026: cena termina i budzet',
-    excerpt: 'Koliko realno kostaju Facebook reklame za stomatoloske ordinacije u Srbiji 2026, koji budzet ima smisla po fazama i kako da spustite cenu zakazanog termina bez praznih leadova.',
+    title: 'Facebook reklame za stomatologe u Srbiji 2026: cena termina i budžet',
+    excerpt: 'Koliko realno koštaju Facebook reklame za stomatološke ordinacije u Srbiji 2026, koji budžet ima smisla po fazama i kako da spustite cenu zakazanog termina bez praznih leadova.',
     date: '2026-03-14',
     category: 'Facebook Ads',
     readTime: '10 min',
@@ -16256,8 +16256,8 @@ Ako hoces, mogu da uradim mini audit naloga i oznacim 3 najbrza poteza za nizu c
   },
   {
     slug: 'google-ads-za-bravare-cena-leada-srbija-2026',
-    title: 'Google Ads za bravare u Srbiji 2026: cena lead-a, budzet i vise hitnih poziva',
-    excerpt: 'Koliko realno kostaju Google Ads kampanje za bravare u Srbiji 2026, koji budzet ima smisla po fazama i kako da spustite cenu kvalitetnog upita bez izgubljenih poziva.',
+    title: 'Google Ads za bravare u Srbiji 2026: cena lead-a, budžet i više hitnih poziva',
+    excerpt: 'Koliko realno koštaju Google Ads kampanje za bravare u Srbiji 2026, koji budžet ima smisla po fazama i kako da spustite cenu kvalitetnog upita bez izgubljenih poziva.',
     date: '2026-03-14',
     category: 'Google Ads',
     readTime: '10 min',
@@ -16368,8 +16368,8 @@ Ako hoces, mogu da uradim mini audit naloga i oznacim 3 najbrza poteza za nizu c
   },
   {
     slug: 'google-ads-za-elektricare-cena-leada-srbija-2026',
-    title: 'Google Ads za elektricare u Srbiji 2026: cena lead-a, budzet i vise hitnih intervencija',
-    excerpt: 'Koliko realno kostaju Google Ads kampanje za elektricare u Srbiji 2026, koji budzet ima smisla po fazama i kako da spustite cenu kvalitetnog upita bez praznih poziva.',
+    title: 'Google Ads za elektricare u Srbiji 2026: cena lead-a, budžet i više hitnih intervencija',
+    excerpt: 'Koliko realno koštaju Google Ads kampanje za elektricare u Srbiji 2026, koji budžet ima smisla po fazama i kako da spustite cenu kvalitetnog upita bez praznih poziva.',
     date: '2026-03-14',
     category: 'Google Ads',
     readTime: '10 min',
@@ -16480,8 +16480,8 @@ Ako hoces, mogu da uradim mini audit naloga i oznacim 3 najbrza poteza za nizu c
   },
   {
     slug: 'google-ads-za-keramicare-cena-leada-srbija-2026',
-    title: 'Google Ads za keramicare u Srbiji 2026: cena lead-a, budzet i vise kvalitetnih upita',
-    excerpt: 'Koliko realno kostaju Google Ads kampanje za keramicare u Srbiji 2026, koji budzet ima smisla po fazama i kako da smanjis cenu kvalitetnog upita bez praznih poziva.',
+    title: 'Google Ads za keramicare u Srbiji 2026: cena lead-a, budžet i više kvalitetnih upita',
+    excerpt: 'Koliko realno koštaju Google Ads kampanje za keramicare u Srbiji 2026, koji budžet ima smisla po fazama i kako da smanjiš cenu kvalitetnog upita bez praznih poziva.',
     date: '2026-03-14',
     category: 'Google Ads',
     readTime: '10 min',
@@ -16592,8 +16592,8 @@ Ako hoces, mogu da uradim mini audit naloga i oznacim 3 najbrza poteza za nizu c
   },
   {
     slug: 'google-ads-za-klima-servis-cena-leada-srbija-2026',
-    title: 'Google Ads za klima servis u Srbiji 2026: cena lead-a, sezona i profitabilan raspored budzeta',
-    excerpt: 'Koliko realno kostaju Google Ads kampanje za klima servis u Srbiji 2026, koji budzet ima smisla po sezoni i kako da spustite cenu kvalitetnog upita bez praznih poziva.',
+    title: 'Google Ads za klima servis u Srbiji 2026: cena lead-a, sezona i profitabilan raspored budžeta',
+    excerpt: 'Koliko realno koštaju Google Ads kampanje za klima servis u Srbiji 2026, koji budžet ima smisla po sezoni i kako da spustite cenu kvalitetnog upita bez praznih poziva.',
     date: '2026-03-14',
     category: 'Google Ads',
     readTime: '10 min',
@@ -16703,8 +16703,8 @@ Ako hoces, mogu da uradim mini audit naloga i oznacim 3 najbrza poteza za nizu c
   },
   {
     slug: 'google-ads-za-stolare-cena-leada-srbija-2026',
-    title: 'Google Ads za stolare u Srbiji 2026: cena lead-a, budzet i vise upita za namestaj po meri',
-    excerpt: 'Koliko realno kostaju Google Ads kampanje za stolare u Srbiji 2026, koji budzet ima smisla i kako da spustite cenu kvalitetnog upita bez praznih poziva.',
+    title: 'Google Ads za stolare u Srbiji 2026: cena lead-a, budžet i više upita za namestaj po meri',
+    excerpt: 'Koliko realno koštaju Google Ads kampanje za stolare u Srbiji 2026, koji budžet ima smisla i kako da spustite cenu kvalitetnog upita bez praznih poziva.',
     date: '2026-03-13',
     category: 'Google Ads',
     readTime: '10 min',
@@ -16810,8 +16810,8 @@ Ako hoces, mogu da uradim mini audit naloga i oznacim 3 najbrza poteza za nizu c
   },
   {
     slug: 'migracija-sajta-na-wordpress-cena-srbija-2026',
-    title: 'Migracija sajta na WordPress cena u Srbiji 2026: troskovi, rizici i SEO-safe plan',
-    excerpt: 'Koliko realno kosta migracija sajta na WordPress u Srbiji 2026, sta najcesce podize cenu i kako da prebacis sajt bez pada pozicija, leadova i prodaje.',
+    title: 'Migracija sajta na WordPress cena u Srbiji 2026: troškovi, rizici i SEO-safe plan',
+    excerpt: 'Koliko realno košta migracija sajta na WordPress u Srbiji 2026, šta najčešće podiže cenu i kako da prebacis sajt bez pada pozicija, leadova i prodaje.',
     date: '2026-03-13',
     category: 'WordPress',
     readTime: '11 min',
@@ -16927,8 +16927,8 @@ Ako hoces, mogu da uradim pre-migration audit i oznacim 3 najveca rizika pre pre
   },
   {
     slug: 'seo-optimizacija-wordpress-sajta-cena-srbija-2026',
-    title: 'SEO optimizacija WordPress sajta cena u Srbiji 2026: sta ulazi i kako birati ponudu',
-    excerpt: 'Koliko realno kosta SEO optimizacija WordPress sajta u Srbiji 2026, sta mora da bude ukljuceno u uslugu i kako da procenis da li ponuda donosi rast ili samo izvestaje.',
+    title: 'SEO optimizacija WordPress sajta cena u Srbiji 2026: šta ulazi i kako birati ponudu',
+    excerpt: 'Koliko realno košta SEO optimizacija WordPress sajta u Srbiji 2026, šta mora da bude uključeno u uslugu i kako da procenis da li ponuda donosi rast ili samo izveštaje.',
     date: '2026-03-13',
     category: 'WordPress SEO',
     readTime: '10 min',
@@ -17036,8 +17036,8 @@ Ako hoces, mogu da uradim mini SEO audit i oznacim 3 najbrza poteza za veci broj
 `,
   },  {
     slug: 'google-reklame-za-vodoinstalatere-cena-leada-srbija-2026',
-    title: 'Google reklame za vodoinstalatere u Srbiji 2026: cena leada, budzet i kako da telefon zvoni',
-    excerpt: 'Koliko realno kostaju Google reklame za vodoinstalatere u Srbiji 2026, koji budzet ima smisla i kako da smanjite cenu upita bez gubitka kvaliteta poziva.',
+    title: 'Google reklame za vodoinstalatere u Srbiji 2026: cena leada, budžet i kako da telefon zvoni',
+    excerpt: 'Koliko realno koštaju Google reklame za vodoinstalatere u Srbiji 2026, koji budžet ima smisla i kako da smanjite cenu upita bez gubitka kvaliteta poziva.',
     date: '2026-03-12',
     category: 'Google Ads',
     readTime: '9 min',
@@ -17135,8 +17135,8 @@ Ako hoces, mozemo uraditi brz audit tvog naloga i oznaciti 3 najbrza poteza za n
   },
   {
     slug: 'google-reklame-za-gradjevinske-firme-cena-leada-srbija-2026',
-    title: 'Google reklame za gradjevinske firme u Srbiji 2026: cena leada, budzet i profit po projektu',
-    excerpt: 'Koliko realno kostaju Google reklame za gradjevinske firme u Srbiji 2026, koji budzet ima smisla i kako da spustite cenu upita bez losih leadova.',
+    title: 'Google reklame za građevinske firme u Srbiji 2026: cena leada, budžet i profit po projektu',
+    excerpt: 'Koliko realno koštaju Google reklame za građevinske firme u Srbiji 2026, koji budžet ima smisla i kako da spustite cenu upita bez losih leadova.',
     date: '2026-03-12',
     category: 'Google Ads',
     readTime: '10 min',
@@ -17246,8 +17246,8 @@ Fokus na cenu klika bez kontrole kvaliteta lead-a je najbrzi put do bacanja budz
   },
   {
     slug: 'seo-za-advokate-cena-srbija-2026',
-    title: 'SEO za advokate u Srbiji 2026: cena, rokovi i kako da dobijete vise kvalitetnih upita',
-    excerpt: 'Koliko realno kosta SEO za advokatske kancelarije u Srbiji 2026, sta ulazi u cenu i kako da merite rezultat kroz kvalitetne pravne upite, a ne samo pozicije.',
+    title: 'SEO za advokate u Srbiji 2026: cena, rokovi i kako da dobijete više kvalitetnih upita',
+    excerpt: 'Koliko realno košta SEO za advokatske kancelarije u Srbiji 2026, šta ulazi u cenu i kako da merite rezultat kroz kvalitetne pravne upite, a ne samo pozicije.',
     date: '2026-03-12',
     category: 'Lokalni SEO',
     readTime: '10 min',
@@ -17362,8 +17362,8 @@ Ako hoces, mozemo uraditi brz audit tvog trenutnog sajta i pokazati 3 najbrza po
   },
   {
     slug: 'instagram-reklame-za-autoservise-cena-upita-srbija-2026',
-    title: 'Instagram reklame za autoservise u Srbiji 2026: cena upita i budzet',
-    excerpt: 'Praktican vodic za autoservise: koliki Instagram budzet ima smisla, kako da merite cenu upita i koje kreativne poruke najbrze pune raspored termina.',
+    title: 'Instagram reklame za autoservise u Srbiji 2026: cena upita i budžet',
+    excerpt: 'Praktičan vodič za autoservise: koliki Instagram budžet ima smisla, kako da merite cenu upita i koje kreativne poruke najbrze pune raspored termina.',
     date: '2026-03-12',
     category: 'Instagram Ads',
     readTime: '9 min',
@@ -17469,8 +17469,8 @@ Ako hoces, mozemo da uradimo brz audit tvoje trenutne kampanje i damo 3 najbrza 
   },
   {
     slug: 'instagram-ads-cena-po-kliku-srbija-2026',
-    title: 'Instagram Ads cena po kliku u Srbiji 2026: realni CPC rasponi i kako da spustis trosak leada',
-    excerpt: 'Praktican vodič za Instagram Ads CPC u Srbiji 2026: rasponi po niši, glavni razlozi visokog klika i konkretni potezi za niži trošak uz bolji kvalitet upita.',
+    title: 'Instagram Ads cena po kliku u Srbiji 2026: realni CPC rasponi i kako da spustiš trosak leada',
+    excerpt: 'Praktičan vodič za Instagram Ads CPC u Srbiji 2026: rasponi po niši, glavni razlozi visokog klika i konkretni potezi za niži trošak uz bolji kvalitet upita.',
     date: '2026-03-12',
     category: 'Instagram Ads',
     readTime: '9 min',
@@ -17566,8 +17566,8 @@ Prava optimizacija je da CPC, landing i prodajni follow-up rade kao jedna celina
   },
   {
     slug: 'izrada-wordpress-sajta-cena-po-tipu-biznisa-srbija-2026',
-    title: 'Izrada WordPress sajta cena po tipu biznisa u Srbiji 2026: realni rasponi i sta ulazi u cenu',
-    excerpt: 'Koliko realno kosta WordPress sajt u Srbiji 2026 za usluzni biznis, ordinaciju, web shop ili B2B firmu i kako da procenis da li ponuda stvarno ima smisla.',
+    title: 'Izrada WordPress sajta cena po tipu biznisa u Srbiji 2026: realni rasponi i šta ulazi u cenu',
+    excerpt: 'Koliko realno košta WordPress sajt u Srbiji 2026 za uslužni biznis, ordinaciju, web shop ili B2B firmu i kako da procenis da li ponuda stvarno ima smisla.',
     date: '2026-03-12',
     category: 'WordPress',
     readTime: '10 min',
@@ -17660,8 +17660,8 @@ Ako hoces, mogu da ti uradim brzu procenu postojece ponude i oznacim sta je must
   },
   {
     slug: 'meta-ads-cena-po-kliku-srbija-2026',
-    title: 'Meta Ads cena po kliku u Srbiji 2026: realni CPC rasponi i kako da spustis cenu upita',
-    excerpt: 'Koliko Meta Ads klik realno kosta u Srbiji 2026 po industriji, gde kampanje najcesce gube budzet i kako da smanjis CPC bez pada kvaliteta leadova.',
+    title: 'Meta Ads cena po kliku u Srbiji 2026: realni CPC rasponi i kako da spustiš cenu upita',
+    excerpt: 'Koliko Meta Ads klik realno košta u Srbiji 2026 po industriji, gde kampanje najčešće gube budžet i kako da smanjiš CPC bez pada kvaliteta leadova.',
     date: '2026-03-12',
     category: 'Meta Ads',
     readTime: '9 min',
@@ -17759,7 +17759,7 @@ Ako hoces, mogu da uradim mini audit i dam ti 3 konkretna poteza za nizi CPC i b
   {
     slug: 'leila-hormozi-onboarding-sistem-zadrzavanje-klijenata-srbija-2026',
     title: 'Leila Hormozi onboarding sistem: kako da zadrzis klijente u marketing agenciji (Srbija 2026)',
-    excerpt: 'Praktican onboarding framework za agencije u Srbiji: kako da u prvih 30 dana klijent vidi progres, smanjis churn i podignes LTV bez dizanja ad budzeta.',
+    excerpt: 'Praktičan onboarding framework za agencije u Srbiji: kako da u prvih 30 dana klijent vidi progres, smanjiš churn i podigneš LTV bez dizanja ad budžeta.',
     date: '2026-03-12',
     category: 'Agency Growth',
     readTime: '9 min',
@@ -17862,7 +17862,7 @@ Ako hoces, mogu da ti slozim gotov onboarding scorecard + template nedeljnog upd
   {
     slug: 'sabri-suby-7-hour-followup-sistem-srbija-2026',
     title: 'Sabri Suby 7-hour follow-up sistem: kako da ne gubis leadove u Srbiji 2026',
-    excerpt: 'Praktican framework za firme u Srbiji: kako da uvedes brz i strukturiran follow-up koji pretvara vise upita u stvarne klijente bez povecanja ad budzeta.',
+    excerpt: 'Praktičan framework za firme u Srbiji: kako da uvedes brz i strukturiran follow-up koji pretvara više upita u stvarne klijente bez povećanja ad budžeta.',
     date: '2026-03-12',
     category: 'Lead Generation',
     readTime: '9 min',
@@ -17972,8 +17972,8 @@ Ako hoces, mogu da ti slozim 7-hour follow-up skripte za tvoj konkretan funnel i
   },
   {
     slug: 'google-ads-za-kozmeticki-salon-cena-termina-srbija-2026',
-    title: 'Google Ads za kozmeticki salon u Srbiji 2026: cena termina i realan budzet',
-    excerpt: 'Praktican vodic za vlasnice kozmetickih salona: koliko kosta Google Ads u Srbiji 2026, koji budzet ima smisla i kako da merite cenu zakazanog termina umesto praznih klikova.',
+    title: 'Google Ads za kozmeticki salon u Srbiji 2026: cena termina i realan budžet',
+    excerpt: 'Praktičan vodič za vlasnice kozmetičkih salona: koliko košta Google Ads u Srbiji 2026, koji budžet ima smisla i kako da merite cenu zakazanog termina umesto praznih klikova.',
     date: '2026-03-12',
     category: 'Google Ads',
     readTime: '10 min',
@@ -18079,8 +18079,8 @@ Ako zelis, mogu da uradim mini audit tvoje postojece kampanje i oznacim 3 najbrz
   },
   {
     slug: 'instagram-reklame-za-advokate-cena-klijenta-srbija-2026',
-    title: 'Instagram reklame za advokate u Srbiji 2026: cena klijenta i budzet',
-    excerpt: 'Koliko realno kostaju Instagram reklame za advokatske kancelarije u Srbiji 2026, koji budzet ima smisla i kako da izbegnes upite koji ne postaju klijenti.',
+    title: 'Instagram reklame za advokate u Srbiji 2026: cena klijenta i budžet',
+    excerpt: 'Koliko realno koštaju Instagram reklame za advokatske kancelarije u Srbiji 2026, koji budžet ima smisla i kako da izbegneš upite koji ne postaju klijenti.',
     date: '2026-03-12',
     category: 'Instagram Ads',
     readTime: '10 min',
@@ -18199,8 +18199,8 @@ Ako hoces, mogu da uradim mini audit trenutne kampanje i oznacim gde curi budzet
   },
   {
     slug: 'google-ads-za-autoservise-cena-leada-srbija-2026',
-    title: 'Google Ads za autoservise u Srbiji 2026: cena leada, budzet i kako da telefon zvoni',
-    excerpt: 'Koliko realno kosta Google Ads za auto servis u Srbiji 2026, koji budzet ima smisla za start i kako da spustite cenu upita bez praznih poziva.',
+    title: 'Google Ads za autoservise u Srbiji 2026: cena leada, budžet i kako da telefon zvoni',
+    excerpt: 'Koliko realno košta Google Ads za auto servis u Srbiji 2026, koji budžet ima smisla za start i kako da spustite cenu upita bez praznih poziva.',
     date: '2026-03-12',
     category: 'Google Ads',
     readTime: '9 min',
@@ -18303,8 +18303,8 @@ Ako hoces, mogu da uradim mini audit tvoje trenutne kampanje i predlozim tacno g
   },
   {
     slug: 'vodjenje-instagram-ads-kampanja-cena-srbija-2026',
-    title: 'Vodjenje Instagram Ads kampanja cena u Srbiji 2026: sta realno ulazi u mesecni fee',
-    excerpt: 'Koliko kosta vodjenje Instagram Ads kampanja u Srbiji 2026, koji modeli naplate postoje i kako da procenis da li agencijski fee stvarno donosi bolji CPL i veci profit.',
+    title: 'Vođenje Instagram Ads kampanja cena u Srbiji 2026: šta realno ulazi u mesečni fee',
+    excerpt: 'Koliko košta vođenje Instagram Ads kampanja u Srbiji 2026, koji modeli naplate postoje i kako da procenis da li agencijski fee stvarno donosi bolji CPL i veci profit.',
     date: '2026-03-12',
     category: 'Instagram Ads',
     readTime: '9 min',
@@ -18423,8 +18423,8 @@ Ako hoces, mogu da uradim mini audit tvoje trenutne ponude za vodjenje i oznacim
   },
   {
     slug: 'woocommerce-sajt-cena-srbija-2026',
-    title: 'WooCommerce sajt cena u Srbiji 2026: koliko realno kosta webshop koji prodaje',
-    excerpt: 'Realni rasponi za WooCommerce izradu u Srbiji 2026: sta ulazi u cenu, koji su skriveni troskovi i kako da izbegnes webshop koji izgleda lepo, a ne prodaje.',
+    title: 'WooCommerce sajt cena u Srbiji 2026: koliko realno košta webshop koji prodaje',
+    excerpt: 'Realni rasponi za WooCommerce izradu u Srbiji 2026: šta ulazi u cenu, koji su skriveni troškovi i kako da izbegneš webshop koji izgleda lepo, a ne prodaje.',
     date: '2026-03-12',
     category: 'WordPress',
     readTime: '10 min',
@@ -18549,7 +18549,7 @@ Ako hoces, mogu da uradim mini audit tvoje trenutne ponude i oznacim sta fali pr
   {
     slug: 'leila-hormozi-weekly-scorecard-marketing-srbija-2026',
     title: 'Leila Hormozi weekly scorecard: kako da marketing sistem radi i bez vlasnika (Srbija 2026)',
-    excerpt: 'Praktican Leila Hormozi pristup za firme u Srbiji: koje marketing KPI-jeve pratiti svake nedelje, kako postaviti ownership i kada menjati kanal umesto da samo dizete budzet.',
+    excerpt: 'Praktičan Leila Hormozi pristup za firme u Srbiji: koje marketing KPI-jeve pratiti svake nedelje, kako postaviti ownership i kada menjati kanal umesto da samo dizete budžet.',
     date: '2026-03-12',
     category: 'Marketing Strategija',
     readTime: '9 min',
@@ -18643,8 +18643,8 @@ Kad su KPI-jevi jasni, ownership definisan i pragovi reakcije unapred dogovoreni
   },
   {
     slug: 'instagram-reklame-za-stomatologe-cena-termina-srbija-2026',
-    title: 'Instagram reklame za stomatologe u Srbiji 2026: cena termina i budzet',
-    excerpt: 'Koliki budzet treba ordinaciji za Instagram oglase u Srbiji 2026 i kako da merite cenu zakazanog termina bez praznih leadova.',
+    title: 'Instagram reklame za stomatologe u Srbiji 2026: cena termina i budžet',
+    excerpt: 'Koliki budžet treba ordinaciji za Instagram oglase u Srbiji 2026 i kako da merite cenu zakazanog termina bez praznih leadova.',
     date: '2026-03-12',
     category: 'Instagram Ads',
     readTime: '10 min',
@@ -18743,8 +18743,8 @@ Ako hoces, mogu da uradim mini audit tvog naloga i oznacim 3 poteza koji najbrze
   },
   {
     slug: 'instagram-reklame-za-restorane-cena-rezervacije-srbija-2026',
-    title: 'Instagram reklame za restorane u Srbiji 2026: cena rezervacije i budzet',
-    excerpt: 'Koliki budzet ima smisla za Instagram reklame restorana u Srbiji 2026, kako da merite cenu rezervacije i koje poruke najcesce dovode ljude do rezervacije.',
+    title: 'Instagram reklame za restorane u Srbiji 2026: cena rezervacije i budžet',
+    excerpt: 'Koliki budžet ima smisla za Instagram reklame restorana u Srbiji 2026, kako da merite cenu rezervacije i koje poruke najčešće dovode ljude do rezervacije.',
     date: '2026-03-12',
     category: 'Instagram Ads',
     readTime: '10 min',
@@ -18844,8 +18844,8 @@ Ako zelis, mogu da uradim mini audit tvog naloga i oznacim 3 poteza koji najbrze
   },
   {
     slug: 'google-business-profil-za-stomatologe-srbija-2026',
-    title: 'Google Business profil za stomatologe u Srbiji 2026: kako do vise poziva i zakazanih termina',
-    excerpt: 'Praktican vodic za stomatoloske ordinacije: kako da optimizujete Google Business profil, skupite vise recenzija i pretvorite lokalne pretrage u stvarne pacijente.',
+    title: 'Google Business profil za stomatologe u Srbiji 2026: kako do više poziva i zakazanih termina',
+    excerpt: 'Praktičan vodič za stomatološke ordinacije: kako da optimizujete Google Business profil, skupite više recenzija i pretvorite lokalne pretrage u stvarne pacijente.',
     date: '2026-03-12',
     category: 'Lokalni SEO',
     readTime: '9 min',
@@ -18974,8 +18974,8 @@ Ako hoces, mogu da uradim brz audit tvog profila i oznacim 3 izmene koje najbrze
   },
   {
     slug: 'google-ads-za-b2b-cena-leada-srbija-2026',
-    title: 'Google Ads za B2B u Srbiji 2026: cena leada, SQL kvalitet i budzet koji ima smisla',
-    excerpt: 'Koliko realno kosta Google Ads za B2B firme u Srbiji 2026, koji CPL raspon ima smisla po niši i kako da merite SQL kvalitet umesto da jurite jeftine leadove bez pipeline-a.',
+    title: 'Google Ads za B2B u Srbiji 2026: cena leada, SQL kvalitet i budžet koji ima smisla',
+    excerpt: 'Koliko realno košta Google Ads za B2B firme u Srbiji 2026, koji CPL raspon ima smisla po niši i kako da merite SQL kvalitet umesto da jurite jeftine leadove bez pipeline-a.',
     date: '2026-03-12',
     category: 'Google Ads',
     readTime: '10 min',
@@ -19065,8 +19065,8 @@ Ako hoces, mogu da uradim brzi audit kampanje i oznacim 3 poteza koji najbrze po
   },
   {
     slug: 'google-ads-za-ecommerce-cena-prodaje-srbija-2026',
-    title: 'Google Ads za e-commerce u Srbiji 2026: cena prodaje, ROAS i budzet bez bacanja para',
-    excerpt: 'Koliko realno kosta Google Ads za web shop u Srbiji 2026: CPC, CPA, ROAS, test budzet i koraci kako da skalis samo ono sto je profitabilno.',
+    title: 'Google Ads za e-commerce u Srbiji 2026: cena prodaje, ROAS i budžet bez bacanja para',
+    excerpt: 'Koliko realno košta Google Ads za web shop u Srbiji 2026: CPC, CPA, ROAS, test budžet i koraci kako da skalis samo ono sto je profitabilno.',
     date: '2026-03-12',
     category: 'E-Commerce',
     readTime: '9 min',
@@ -19181,8 +19181,8 @@ Ako hoces, mogu da uradim brz audit trenutnih kampanja i oznacim 3 poteza koji n
   },
   {
     slug: 'google-ads-za-advokate-cena-klijenta-srbija-2026',
-    title: 'Google Ads za advokate u Srbiji 2026: cena klijenta, budzet i kako da ne bacite novac',
-    excerpt: 'Realni CPC/CPL rasponi za advokatske kampanje u Srbiji 2026, koliko budzeta treba za test i kako da merite cenu klijenta umesto cene klika.',
+    title: 'Google Ads za advokate u Srbiji 2026: cena klijenta, budžet i kako da ne bacite novac',
+    excerpt: 'Realni CPC/CPL rasponi za advokatske kampanje u Srbiji 2026, koliko budžeta treba za test i kako da merite cenu klijenta umesto cene klika.',
     date: '2026-03-12',
     category: 'Google Ads',
     readTime: '9 min',
@@ -19300,8 +19300,8 @@ Ako hoces, mogu da uradim brz audit postojece kampanje i oznacim 3 najbrze izmen
   },
   {
     slug: 'alex-hormozi-core-4-lead-magnet-srbija-2026',
-    title: 'Alex Hormozi Core 4 lead magnet sistem: kako da dobijete vise kvalitetnih upita u Srbiji 2026',
-    excerpt: 'Praktican vodic kako da primenis Hormozi Core 4 lead magnet okvir na srpsko trziste i povecas broj kvalitetnih upita bez dupliranja budzeta.',
+    title: 'Alex Hormozi Core 4 lead magnet sistem: kako da dobijete više kvalitetnih upita u Srbiji 2026',
+    excerpt: 'Praktičan vodič kako da primenis Hormozi Core 4 lead magnet okvir na srpsko tržište i povećaš broj kvalitetnih upita bez dupliranja budžeta.',
     date: '2026-03-11',
     category: 'Lead Generation',
     readTime: '9 min',
@@ -19412,8 +19412,8 @@ Ako hoces, mogu da ti slozim Core 4 lead magnet plan za tvoju konkretnu nishu i 
   },
   {
     slug: 'google-ads-za-stomatologe-cena-leada-srbija-2026',
-    title: 'Google Ads za stomatologe u Srbiji 2026: realna cena leada i kako da ne spalite budzet',
-    excerpt: 'Google Ads za stomatologe u Srbiji 2026: realni CPC i CPL rasponi, budzet za start i koraci za vise zakazanih termina.',
+    title: 'Google Ads za stomatologe u Srbiji 2026: realna cena leada i kako da ne spalite budžet',
+    excerpt: 'Google Ads za stomatologe u Srbiji 2026: realni CPC i CPL rasponi, budžet za start i koraci za više zakazanih termina.',
     date: '2026-03-11',
     category: 'Google Ads',
     readTime: '9 min',
@@ -19544,8 +19544,8 @@ Ako hoces, mozemo uraditi brz audit tvoje trenutne kampanje i oznaciti 3 poteza 
   },
   {
     slug: 'facebook-ads-cena-po-industriji-srbija-2026',
-    title: 'Facebook Ads cena po industriji u Srbiji 2026: realni CPC/CPL rasponi i budzeti za test',
-    excerpt: 'Detaljan vodic za Facebook Ads cenu po industriji u Srbiji 2026: realni rasponi CPC/CPL metrika, starter budzeti i kako da procenis kada kampanja ima zdrav ROI.',
+    title: 'Facebook Ads cena po industriji u Srbiji 2026: realni CPC/CPL rasponi i budžeti za test',
+    excerpt: 'Detaljan vodič za Facebook Ads cenu po industriji u Srbiji 2026: realni rasponi CPC/CPL metrika, starter budžeti i kako da procenis kada kampanja ima zdrav ROI.',
     date: '2026-03-11',
     category: 'Marketing',
     readTime: '9 min',
@@ -19657,7 +19657,7 @@ Ako zelis, mozemo uraditi brzi audit tvog naloga i reci gde tacno curi budzet - 
   {
     slug: 'marketing-agencija-cena-srbija-2026',
     title: 'Marketing agencija cena u Srbiji 2026: paketi, rasponi i kako da procenis isplativost',
-    excerpt: 'Koliko kosta marketing agencija u Srbiji 2026, koji modeli naplate postoje i kako da procenis da li ponuda donosi profit ili samo aktivnost bez rezultata.',
+    excerpt: 'Koliko košta marketing agencija u Srbiji 2026, koji modeli naplate postoje i kako da procenis da li ponuda donosi profit ili samo aktivnost bez rezultata.',
     date: '2026-03-11',
     category: 'Marketing',
     readTime: '10 min',
@@ -19764,8 +19764,8 @@ Ako zelis, mozemo uraditi brz audit tvoje trenutne strukture i oznaciti 3 poteza
   },
   {
     slug: 'lead-generation-cena-srbija-2026',
-    title: 'Lead generation cena u Srbiji 2026: koliko stvarno kosta kvalitetan upit',
-    excerpt: 'Praktican vodic koliko kosta lead generation u Srbiji 2026: realni CPL rasponi, sta podize cenu i kako da razlikujete "jeftin lead" od profitabilnog upita.',
+    title: 'Lead generation cena u Srbiji 2026: koliko stvarno košta kvalitetan upit',
+    excerpt: 'Praktičan vodič koliko košta lead generation u Srbiji 2026: realni CPL rasponi, šta podiže cenu i kako da razlikujete "jeftin lead" od profitabilnog upita.',
     date: '2026-03-11',
     category: 'Lead Generation',
     readTime: '9 min',
@@ -19858,7 +19858,7 @@ Ako zelite, mozemo uraditi kratak audit vaseg funnel-a i oznaciti 3 poteza koji 
   {
     slug: 'lokalni-seo-cena-zrenjanin-2026',
     title: 'Lokalni SEO cena u Zrenjaninu 2026: koliko košta i šta realno dobijate',
-    excerpt: 'Praktican vodic za lokalni SEO u Zrenjaninu: realni rasponi cena, šta mora da ulazi u uslugu i kako da procenite da li ponuda donosi upite ili samo "aktivnost".',
+    excerpt: 'Praktičan vodič za lokalni SEO u Zrenjaninu: realni rasponi cena, šta mora da ulazi u uslugu i kako da procenite da li ponuda donosi upite ili samo "aktivnost".',
     date: '2026-03-11',
     category: 'SEO',
     readTime: '9 min',
@@ -19962,8 +19962,8 @@ Ako elite, možemo uraditi brzi audit i dati vam 3 prioriteta koji najbrže podi
   },
   {
     slug: 'vodjenje-instagram-profila-cena-srbija-2026',
-    title: 'Vodenje Instagram profila cena u Srbiji 2026: šta ulazi u paket i koliko je realno',
-    excerpt: 'Koliko košta vodenje Instagram profila u Srbiji 2026, koje su realne razlike izmedu paketa i kako da izbegnete uslugu koja izgleda jeftino, a ne donosi rezultate.',
+    title: 'Vođenje Instagram profila cena u Srbiji 2026: šta ulazi u paket i koliko je realno',
+    excerpt: 'Koliko košta vođenje Instagram profila u Srbiji 2026, koje su realne razlike između paketa i kako da izbegnete uslugu koja izgleda jeftino, a ne donosi rezultate.',
     date: '2026-03-11',
     category: 'Social Media',
     readTime: '9 min',
@@ -20270,7 +20270,7 @@ Ako eli, možemo proci tvoj trenutni funnel i slošiti prioritetne izmene po red
   {
     slug: 'google-ads-za-lokalne-biznise-kako-spustiti-cenu-leada-srbija-2026',
     title: 'Google Ads za lokalne biznise: kako spustiti cenu leada u Srbiji 2026',
-    excerpt: 'Praktican vodic za lokalne firme u Srbiji: kako da kroz bolju strukturu kampanje i landing stranicu smanjite cenu upita bez povecanja budžeta.',
+    excerpt: 'Praktičan vodič za lokalne firme u Srbiji: kako da kroz bolju strukturu kampanje i landing stranicu smanjite cenu upita bez povećanja budžeta.',
     date: '2026-03-11',
     category: 'Google Ads',
     readTime: '9 min',
@@ -20365,7 +20365,7 @@ Ako elite, možemo uraditi brz audit vaših kampanja i oznaciti 3 izmene koje na
   {
     slug: 'alex-hormozi-value-equation-ponuda-koja-se-prodaje-srbija-2026',
     title: 'Alex Hormozi Value Equation: kako da ponuda bude skuplja i lakša za prodaju (Srbija 2026)',
-    excerpt: 'Praktican vodic kako da primeniš Hormozi value equation na uslužni biznis u Srbiji i podigneš cenu bez pada konverzije.',
+    excerpt: 'Praktičan vodič kako da primeniš Hormozi value equation na uslužni biznis u Srbiji i podigneš cenu bez pada konverzije.',
     date: '2026-03-10',
     category: 'Prodaja',
     readTime: '10 min',
@@ -20499,8 +20499,8 @@ Ako eli, možemo da rastavimo tvoju trenutnu ponudu i slošimo novu verziju po o
   },
   {
     slug: 'vodjenje-google-ads-kampanja-cena-srbija-2026',
-    title: 'Vodenje Google Ads kampanja: cena u Srbiji 2026 (šta ulazi u uslugu)',
-    excerpt: 'Koliko košta vodenje Google Ads kampanja u Srbiji 2026, šta ulazi u mesecni fee i kako da procenite da li je ponuda agencije realna ili preskupa.',
+    title: 'Vođenje Google Ads kampanja: cena u Srbiji 2026 (šta ulazi u uslugu)',
+    excerpt: 'Koliko košta vođenje Google Ads kampanja u Srbiji 2026, šta ulazi u mesečni fee i kako da procenite da li je ponuda agencije realna ili preskupa.',
     date: '2026-03-10',
     category: 'Google Ads',
     readTime: '8 min',
@@ -20602,8 +20602,8 @@ Ako elite realnu procenu za vaš nalog (budžet + upravljanje + ocekivanja po ni
   },
   {
     slug: 'izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu',
-    title: 'Izrada landing stranice: cena, rokovi i sta ulazi u cenu (Srbija 2026)',
-    excerpt: 'Koliko realno kosta izrada landing stranice u Srbiji 2026, sta tacno ulazi u cenu i kako da procenis ponudu pre nego sto potrosis budzet na saobracaj.',
+    title: 'Izrada landing stranice: cena, rokovi i šta ulazi u cenu (Srbija 2026)',
+    excerpt: 'Koliko realno košta izrada landing stranice u Srbiji 2026, šta tacno ulazi u cenu i kako da procenis ponudu pre nego sto potrosis budžet na saobraćaj.',
     date: '2026-03-11',
     category: 'Web Design',
     readTime: '11 min',
@@ -20895,8 +20895,8 @@ elite da postavimo A/B testiranje za vaš sajt? [Javite nam se](/kontakt) i pocn
   },
   {
     slug: 'kako-meriti-roi-marketinga-kpi-vodic',
-    title: 'Kako meriti ROI marketinga: KPI vodic za vlasnike firmi',
-    excerpt: 'Ako ne merite marketing, kockate se budžetom. Ovo je 8 kljucnih KPI brojeva koje svaka firma treba da prati da bi znala šta donosi profit, a šta troši novac.',
+    title: 'Kako meriti ROI marketinga: KPI vodič za vlasnike firmi',
+    excerpt: 'Ako ne merite marketing, kockate se budžetom. Ovo je 8 ključnih KPI brojeva koje svaka firma treba da prati da bi znala šta donosi profit, a šta troši novac.',
     date: '2026-02-21',
     category: 'Marketing',
     readTime: '6 min',
@@ -21051,7 +21051,7 @@ elite da napravimo lead magnet za vaš biznis? [Javite nam se](/kontakt) i dizaj
   {
     slug: 'brending-za-male-firme-identitet-vazniji-od-loga',
     title: 'Brending za male firme: zašto je identitet vašniji od loga',
-    excerpt: 'Logo je samo pocetak. Brend je utisak koji ljudi pamte. Evo kako male firme grade jasan identitet koji podiže poverenje, cenu i prodaju.',
+    excerpt: 'Logo je samo početak. Brend je utisak koji ljudi pamte. Evo kako male firme grade jasan identitet koji podiže poverenje, cenu i prodaju.',
     date: '2026-02-21',
     category: 'Marketing',
     readTime: '6 min',
@@ -21114,7 +21114,7 @@ elite pomoc da izgradite brend koji se pamti? [Javite nam se](/kontakt) i defini
   },
   {
     slug: 'video-marketing-zasto-video-dominira',
-    title: 'Video marketing: zašto video dominira i kako poceti',
+    title: 'Video marketing: zašto video dominira i kako početi',
     excerpt: 'Video cini 82% internet saobracaja. Firme koje ne koriste video gube pažnju publike pre prvog kontakta sa ponudom i ostaju korak iza konkurencije.',
     date: '2026-02-21',
     category: 'Marketing',
@@ -21255,7 +21255,7 @@ Niste sigurni gde da ulaete? [Javite nam se](/kontakt) i napravicemo vam plan ko
   {
     slug: 'psihologija-zaradjivanja-mentalni-blokovi',
     title: 'Psihologija zaradivanja: mentalni blokovi koji koce rast firme',
-    excerpt: 'Najveca prepreka rastu cesto nije tržište, vec nacin razmišljanja vlasnika firme. Evo koji mentalni blokovi koce zaradu i kako da ih razbijete.',
+    excerpt: 'Najveca prepreka rastu često nije tržište, vec nacin razmišljanja vlasnika firme. Evo koji mentalni blokovi koce zaradu i kako da ih razbijete.',
     date: '2026-02-20',
     category: 'Biznis',
     readTime: '7 min',
@@ -21555,7 +21555,7 @@ elite da vam pomognemo da izgradite sistem za prikupljanje i koricenje recenzija
   {
     slug: 'retargeting-zasto-95-posetilaca-ne-kupi',
     title: 'Retargeting: zašto 95% posetilaca nikad ne kupi iz prvog pokušaja',
-    excerpt: 'Placate saobracaj koji odlazi. Retargeting vraca te ljude po ceni i do 5-10x nižoj od prvog klika i pretvara izgubljene posete u konkretne upite i prodaju.',
+    excerpt: 'Plaćate saobraćaj koji odlazi. Retargeting vraca te ljude po ceni i do 5-10x nižoj od prvog klika i pretvara izgubljene posete u konkretne upite i prodaju.',
     date: '2026-02-20',
     category: 'Marketing',
     readTime: '5 min',
@@ -21619,7 +21619,7 @@ elite da postavimo retargeting sistem za vaš sajt? [Javite nam se](/kontakt) i 
   {
     slug: 'customer-retention-zadrzati-vs-naci-novog',
     title: 'Customer retention: zašto je jeftinije zadržati nego naci novog kupca',
-    excerpt: 'Novi kupac košta 5-7x više od zadržavanja postojeceg. Ovaj vodic pokazuje kako retention strategije povecavaju profit bez dizanja budžeta za akviziciju.',
+    excerpt: 'Novi kupac košta 5-7x više od zadržavanja postojećeg. Ovaj vodič pokazuje kako retention strategije povecavaju profit bez dizanja budžeta za akviziciju.',
     date: '2026-02-20',
     category: 'Marketing',
     readTime: '6 min',
@@ -21967,7 +21967,7 @@ Ako elite da ubrzate rast vašeg biznisa, [javite nam se](/kontakt). Pomoci cemo
   },
   {
     slug: 'zasto-vecina-firmi-stagnira-posle-prvog-miliona',
-    title: 'Zašto vecina firmi stagnira posle prvog miliona',
+    title: 'Zašto većina firmi stagnira posle prvog miliona',
     excerpt: 'Dostizanje prvog miliona zahteva jednu vrstu posla, ali prelazak na sledeci nivo traži drugaciji sistem, timsku strukturu i disciplinu izvršenja.',
     date: '2026-02-20',
     category: 'Biznis',
@@ -22035,8 +22035,8 @@ Ako je vaša firma u ovoj zoni, [javite nam se](/kontakt). Specijalizovani smo z
   },
   {
     slug: 'od-nule-do-prvih-10000-evra-mesecno',
-    title: 'Od nule do prvih 10.000 evra mesecno: vodic za pocetnike',
-    excerpt: 'Prvih 10.000e mesecno retko dolazi iz talenta. Mnogo cesce dolazi iz nekoliko konkretnih koraka koji mogu da se ponove u skoro svakoj industriji.',
+    title: 'Od nule do prvih 10.000 evra mesečno: vodič za početnike',
+    excerpt: 'Prvih 10.000e mesečno retko dolazi iz talenta. Mnogo cesce dolazi iz nekoliko konkretnih koraka koji mogu da se ponove u skoro svakoj industriji.',
     date: '2026-02-20',
     category: 'Biznis',
     readTime: '7 min',
@@ -22108,7 +22108,7 @@ elite pomoc da napravite sistem koji vas vodi do prvih 10K mesecno? [Javite nam 
   {
     slug: 'pricing-psihologija-kontrola-percepcije-cene',
     title: 'Pricing psihologija: kako brendovi kontrolišu percepciju cene',
-    excerpt: 'Cena nije broj. Cena je prica koju kupac prica sam sebi. Evo kako firme koje naplacuju 10x više koriste psihologiju da to opravdaju.',
+    excerpt: 'Cena nije broj. Cena je priča koju kupac priča sam sebi. Evo kako firme koje naplaćuju 10x više koriste psihologiju da to opravdaju.',
     date: '2026-02-20',
     category: 'Marketing',
     readTime: '7 min',
@@ -22175,8 +22175,8 @@ Ako elite pomoc sa pricing strategijom za vaš biznis, [javite nam se](/kontakt)
   },
   {
     slug: 'ponuda-koju-niko-ne-moze-da-odbije',
-    title: 'Anatomija neodoljive ponude: zašto vecina firmi prodaje pogrešno',
-    excerpt: 'Vecina firmi se takmici cenom. Firme koje razumeju anatomiju ponude se takmice vrednošću. Evo kako napraviti ponudu koja se ne odbija.',
+    title: 'Anatomija neodoljive ponude: zašto većina firmi prodaje pogrešno',
+    excerpt: 'Većina firmi se takmici cenom. Firme koje razumeju anatomiju ponude se takmice vrednošću. Evo kako napraviti ponudu koja se ne odbija.',
     date: '2026-02-20',
     category: 'Biznis',
     readTime: '7 min',
@@ -22257,7 +22257,7 @@ elite da napravimo neodoljivu ponudu za vaš biznis? [Javite nam se](/kontakt) i
   {
     slug: 'organski-doseg-umire-sta-raditi',
     title: 'Zašto organski doseg umire i šta pametne firme rade umesto toga',
-    excerpt: 'Facebook organski doseg pao na 2%. Instagram sledi isti trend. Evo šta firme koje i dalje rastu rade drugacije.',
+    excerpt: 'Facebook organski doseg pao na 2%. Instagram sledi isti trend. Evo šta firme koje i dalje rastu rade drugačije.',
     date: '2026-02-20',
     category: 'Marketing',
     readTime: '6 min',
@@ -22400,7 +22400,7 @@ Niste sigurni gde da ulaete budžet? [Javite nam se](/kontakt) i napravicemo vam
   {
     slug: 'content-marketing-dugorocna-investicija',
     title: 'Content marketing: investicija koja se vraca godinama',
-    excerpt: 'Blog post koji ste napisali pre 2 godine i dalje donosi saobracaj. Facebook oglas od pre 2 godine ne donosi ništa. Evo zašto je to bitno.',
+    excerpt: 'Blog post koji ste napisali pre 2 godine i dalje donosi saobraćaj. Facebook oglas od pre 2 godine ne donosi ništa. Evo zašto je to bitno.',
     date: '2026-02-20',
     category: 'Marketing',
     readTime: '6 min',
@@ -22707,7 +22707,7 @@ Ako elite da vaša firma bude prva kad neko pretraži vašu uslugu u gradu, [jav
   {
     slug: 'email-marketing-kralj-konverzija',
     title: 'Email marketing: zašto je email i dalje kralj konverzija',
-    excerpt: 'Email marketing i dalje daje vrhunski povrat ulaganja. Saznajte kako e-commerce i uslužne firme kroz email povecavaju ponovne kupovine i mesecni prihod.',
+    excerpt: 'Email marketing i dalje daje vrhunski povrat ulaganja. Saznajte kako e-commerce i uslužne firme kroz email povecavaju ponovne kupovine i mesečni prihod.',
     date: '2026-02-20',
     category: 'Marketing',
     readTime: '7 min',
@@ -22860,7 +22860,7 @@ Ako elite da vaš email marketing napokon donosi rezultate, [javite nam se](/kon
   {
     slug: '5-gresaka-landing-stranice-konverzije',
     title: '5 grešaka na landing stranicama koje ubijaju konverzije',
-    excerpt: 'Vecina landing stranica izgubi 90-95% posetilaca bez konverzije. Problem obicno nisu posetilokupci vec dizajn koji sabotira odluku. Evo pet grešaka koje koštaju najviše.',
+    excerpt: 'Većina landing stranica izgubi 90-95% posetilaca bez konverzije. Problem obicno nisu posetilokupci vec dizajn koji sabotira odluku. Evo pet grešaka koje koštaju najviše.',
     date: '2026-02-20',
     category: 'CRO',
     readTime: '6 min',
@@ -23044,7 +23044,7 @@ Ako elite da vaša landing stranica konvertuje više posetilaca u klijente, [jav
   {
     slug: 'facebook-oglasi-koji-zapravo-rade',
     title: 'Facebook oglasi koji zapravo rade: psihologija iza klika',
-    excerpt: 'Vecina firmi troši novac na Facebook oglase koji izgledaju kao oglasi. A ljudi mrze oglase. Evo kako napraviti oglas koji izgleda kao sadržaj i konvertuje kao ludo.',
+    excerpt: 'Većina firmi troši novac na Facebook oglase koji izgledaju kao oglasi. A ljudi mrze oglase. Evo kako napraviti oglas koji izgleda kao sadržaj i konvertuje kao ludo.',
     date: '2026-02-20',
     category: 'Marketing',
     readTime: '8 min',
@@ -23152,8 +23152,8 @@ Ako elite da vaši Facebook oglasi konacno prave rezultate, [javite nam se](/kon
   },
   {
     slug: 'piramida-kupaca-4-tipa-publike',
-    title: 'Piramida kupaca: zašto vecina firmi gubi 97% trišta',
-    excerpt: 'Vecina firmi se bori za isti mali procenat kupaca koji su spremni da kupe odmah. U meduvremenu, ogromna vecina trišta prolazi pored njih nezapaženo.',
+    title: 'Piramida kupaca: zašto većina firmi gubi 97% tržišta',
+    excerpt: 'Većina firmi se bori za isti mali procenat kupaca koji su spremni da kupe odmah. U međuvremenu, ogromna većina tržišta prolazi pored njih nezapaženo.',
     date: '2026-02-20',
     category: 'Marketing',
     readTime: '6 min',
@@ -23271,7 +23271,7 @@ Ako vas zanima kako bi ovaj sistem izgledao za vaš biznis, [javite nam se](/kon
   {
     slug: 'pricing-psihologija-kako-luksuzni-brendovi-kontrolisu-percepciju-cene',
     title: 'Pricing psihologija: kako luksuzni brendovi kontrolišu percepciju cene',
-    excerpt: 'Cena nije broj. Cena je prica. Firme koje ovo razumeju ne prodaju jeftinije od konkurencije. Prodaju drugacije.',
+    excerpt: 'Cena nije broj. Cena je priča. Firme koje ovo razumeju ne prodaju jeftinije od konkurencije. Prodaju drugačije.',
     date: '2026-02-24',
     category: 'Biznis',
     readTime: '8 min',
@@ -23486,7 +23486,7 @@ elite marketing koji se oslanja na principe, a ne na trendove? [Javite nam se](/
   {
     slug: 'kako-napraviti-marketing-budzet-koji-ima-smisla',
     title: 'Kako napraviti marketing budžet koji ima smisla',
-    excerpt: 'Vecina firmi ili troši premalo na marketing pa se ništa ne dešava, ili troši bez plana pa ne zna šta radi. Evo kako to srediti.',
+    excerpt: 'Većina firmi ili troši premalo na marketing pa se ništa ne dešava, ili troši bez plana pa ne zna šta radi. Evo kako to srediti.',
     date: '2026-02-24',
     category: 'Biznis',
     readTime: '7 min',
@@ -23967,8 +23967,8 @@ elite pomoc da napravite hibridnu strategiju za vaš biznis? [Javite nam se](/ko
   },
   {
     slug: 'kako-citati-marketing-izvestaj',
-    title: 'Kako citati marketing izveštaj (vodic za vlasnike firmi)',
-    excerpt: 'Vecina vlasnika firmi dobije mesecni izveštaj od agencije i ne zna šta gleda. Evo šta zapravo treba da tražite u brojevima.',
+    title: 'Kako citati marketing izveštaj (vodič za vlasnike firmi)',
+    excerpt: 'Većina vlasnika firmi dobije mesečni izveštaj od agencije i ne zna šta gleda. Evo šta zapravo treba da tražite u brojevima.',
     date: '2026-02-26',
     category: 'Marketing',
     readTime: '7 min',
@@ -24201,7 +24201,7 @@ elite da vaš sajt pocne da donosi klijente umesto da samo zauzima prostor na in
   {
     slug: 'facebook-vs-instagram-oglasi-gde-je-vasa-publika',
     title: 'Facebook vs Instagram oglasi: gde je vaša publika?',
-    excerpt: 'Obe platforme koriste isti Ads Manager, ali publika se ponaša potpuno drugacije. Pogrešan izbor platforme znaci bacanje budžeta.',
+    excerpt: 'Obe platforme koriste isti Ads Manager, ali publika se ponaša potpuno drugačije. Pogrešan izbor platforme znaci bacanje budžeta.',
     date: '2026-02-27',
     category: 'Marketing',
     readTime: '7 min',
@@ -24442,7 +24442,7 @@ elite da izracunamo koliko vas zapravo košta trenutni marketing? [Javite nam se
   {
     slug: 'kako-napraviti-landing-stranicu-koja-konvertuje',
     title: 'Kako napraviti landing stranicu koja konvertuje 20%+',
-    excerpt: 'Vecina landing stranica konvertuje 2-3% posetilaca. Neke konvertuju 20% i više. Razlika nije u dizajnu. Razlika je u strukturi.',
+    excerpt: 'Većina landing stranica konvertuje 2-3% posetilaca. Neke konvertuju 20% i više. Razlika nije u dizajnu. Razlika je u strukturi.',
     date: '2026-02-27',
     category: 'CRO',
     readTime: '9 min',
@@ -24705,7 +24705,7 @@ Takođe korisno: [Koliko košta Facebook reklama u Srbiji?](/koliko-kosta-facebo
   {
     slug: 'jednacina-vrednosti-zasto-ljudi-kupuju',
     title: 'Jednacina vrednosti: zašto ljudi kupuju (ili ne kupuju) od vas',
-    excerpt: 'Postoji formula za percepciju vrednosti. Ako je razumete, možete prodati isti proizvod za duplo vecu cenu. Ako ne, i najniža cena ce vam biti previsoka.',
+    excerpt: 'Postoji formula za percepciju vrednosti. Ako je razumete, možete prodati isti proizvod za duplo veću cenu. Ako ne, i najniža cena ce vam biti previsoka.',
     date: '2026-03-05',
     category: 'Prodaja',
     readTime: '8 min',
@@ -24928,7 +24928,7 @@ Niste sigurni koji kanal je pravi za vaš biznis? [Zakaite besplatne konsultacij
   {
     slug: 'kako-skalirati-placene-oglase-bez-bacanja-novca',
     title: 'Kako skalirati placene oglase bez bacanja novca',
-    excerpt: 'Vecina firmi koje koriste placene oglase ili troši premalo da vidi rezultate ili previše na pogrešne stvari. Evo sistema za skaliranje koji zapravo funkcioniše.',
+    excerpt: 'Većina firmi koje koriste placene oglase ili troši premalo da vidi rezultate ili previše na pogrešne stvari. Evo sistema za skaliranje koji zapravo funkcioniše.',
     date: '2026-03-05',
     category: 'Marketing',
     readTime: '8 min',
@@ -25051,8 +25051,8 @@ elite da postavimo sistem placenih oglasa koji zapravo zaraduje? [Javite nam se]
   },
   {
     slug: 'netokracija-cro-case',
-    title: 'DRAFT: Kako smo povecali profit 4x kroz nekoliko kljucnih CRO izmena na domacem web shopu',
-    excerpt: 'Prica iz prakse: najveci domaci brend anatomske obuce je kroz nekoliko pametnih promena podigao profit 4x. Evo šta je tacno uradeno i kako to možete da primenite.',
+    title: 'DRAFT: Kako smo povecali profit 4x kroz nekoliko ključnih CRO izmena na domacem web shopu',
+    excerpt: 'Priča iz prakse: najveci domaci brend anatomske obuce je kroz nekoliko pametnih promena podigao profit 4x. Evo šta je tacno uradeno i kako to možete da primenite.',
     date: '2026-03-08',
     category: 'E-Commerce',
     readTime: '11 min',
@@ -25153,7 +25153,7 @@ Za iri kontekst pogledajte i [A/B testiranje: male promene, veliki rezultati](/b
   {
     slug: 'hormozi-ponuda-kojoj-klijent-ne-kaze-ne',
     title: 'Alex Hormozi pristup: kako da napravite ponudu kojoj klijent teško kaže ne',
-    excerpt: 'Dobra usluga nije dovoljna ako ponuda nije jasna. Evo prakticnog okvira kako da formirate ponudu koja smanjuje rizik klijenta i povecava prodaju.',
+    excerpt: 'Dobra usluga nije dovoljna ako ponuda nije jasna. Evo praktičnog okvira kako da formirate ponudu koja smanjuje rizik klijenta i povećava prodaju.',
     date: '2026-03-10',
     category: 'Marketing',
     readTime: '8 min',
@@ -25284,8 +25284,8 @@ Ako elite iri kontekst, pogledajte i [fiksna naknada vs revenue share](/fiksna-n
 ,
   {
     slug: 'sabri-suby-kako-do-vise-upita-bez-veceg-budzeta',
-    title: 'Sabri Suby pristup: kako do više upita bez veceg budžeta',
-    excerpt: 'Ako oglasi troše budžet, a upiti stoje, problem cesto nije cena klika nego poruka i ponuda. Evo prakticnog okvira koji možete odmah da primenite.',
+    title: 'Sabri Suby pristup: kako do više upita bez većeg budžeta',
+    excerpt: 'Ako oglasi troše budžet, a upiti stoje, problem često nije cena klika nego poruka i ponuda. Evo praktičnog okvira koji možete odmah da primenite.',
     date: '2026-03-10',
     category: 'Marketing',
     readTime: '9 min',
@@ -25685,7 +25685,7 @@ Za konkretan plan po vašoj niši pogledajte [SEO optimizacija cena](/seo-optimi
   {
     slug: 'google-business-profil-optimizacija-cena-srbija-2026',
     title: 'Google Business profil optimizacija: cena u Srbiji 2026 i šta realno dobijate',
-    excerpt: 'Google Business optimizacija ne kosta isto za svaku firmu. Evo realnih cena u Srbiji, sta mora da udje u posao i kako da procenis da li se ulaganje isplati.',
+    excerpt: 'Google Business optimizacija ne košta isto za svaku firmu. Evo realnih cena u Srbiji, šta mora da udje u posao i kako da procenis da li se ulaganje isplati.',
     date: '2026-03-10',
     category: 'SEO',
     readTime: '9 min',
@@ -25824,7 +25824,7 @@ Ako elite da procenimo vaš profil i damo realan plan po niši i gradu, javite s
   {
     slug: 'cena-odrzavanja-wordpress-sajta-srbija-2026',
     title: 'Cena održavanja WordPress sajta u Srbiji 2026: šta ulazi i koliko realno košta',
-    excerpt: 'Nije isto da li neko samo klikne update jednom mesecno ili stvarno cuva sajt od pada, hakovanja i gubitka leadova. Evo realnih cena odrzavanja WordPress sajta u Srbiji.',
+    excerpt: 'Nije isto da li neko samo klikne update jednom mesečno ili stvarno čuva sajt od pada, hakovanja i gubitka leadova. Evo realnih cena održavanja WordPress sajta u Srbiji.',
     date: '2026-03-10',
     category: 'WordPress',
     readTime: '8 min',
@@ -25949,8 +25949,8 @@ Ako elite da procenimo vaš trenutni sajt i damo realan plan održavanja po prio
   },
   {
     slug: 'vodjenje-drustvenih-mreza-cena-srbija-2026',
-    title: 'Vodenje društvenih mreža cena u Srbiji 2026: šta ulazi i koliko realno košta',
-    excerpt: 'Cene vodenja drustvenih mreza idu od 150e do 2.000e+ mesecno, ali razlika nije samo u broju objava. Evo sta stvarno placate i koji paket ima smisla za vas biznis.',
+    title: 'Vođenje društvenih mreža cena u Srbiji 2026: šta ulazi i koliko realno košta',
+    excerpt: 'Cene vođenja društvenih mreža idu od 150e do 2.000e+ mesečno, ali razlika nije samo u broju objava. Evo šta stvarno plaćate i koji paket ima smisla za vas biznis.',
     date: '2026-03-10',
     category: 'Digitalni marketing',
     readTime: '9 min',
@@ -26086,7 +26086,7 @@ Ako elite realnu procenu po vašoj niši, cilju i budžetu, javite se preko [kon
   {
     slug: 'sabri-suby-offer-stack-google-ads-leadovi-srbija-2026',
     title: 'Sabri Suby offer stack za Google Ads leadove u Srbiji 2026',
-    excerpt: 'Kako da primenis Sabri Suby offer stack pristup za vise kvalifikovanih leadova iz Google oglasa: jasna ponuda, bolji landing i realan 30-dnevni plan.',
+    excerpt: 'Kako da primenis Sabri Suby offer stack pristup za više kvalifikovanih leadova iz Google oglasa: jasna ponuda, bolji landing i realan 30-dnevni plan.',
     date: '2026-03-11',
     category: 'Google Ads',
     readTime: '9 min',
@@ -26223,8 +26223,8 @@ Ako hoces, mogu da uradim brz audit tvoje trenutne Google Ads ponude i oznacim 3
   },
   {
     slug: 'leila-hormozi-kada-zaposliti-prvog-marketing-menadzera',
-    title: 'Leila Hormozi: kada je pravo vreme da zaposlite prvog marketing menadzera',
-    excerpt: 'Praktican vodic kada i kako da zaposlite prvog marketing menadzera bez skupih gresaka: signali, scorecard, 30-60-90 plan i sta meriti odmah.',
+    title: 'Leila Hormozi: kada je pravo vreme da zaposlite prvog marketing menadžera',
+    excerpt: 'Praktičan vodič kada i kako da zaposlite prvog marketing menadžera bez skupih grešaka: signali, scorecard, 30-60-90 plan i šta meriti odmah.',
     date: '2026-03-10',
     category: 'Marketing',
     readTime: '8 min',
@@ -26286,8 +26286,8 @@ Ako hoces, mozemo zajedno da napravimo scorecard i 90-dnevni plan pa da u interv
   },
   {
     slug: 'tiktok-reklame-cena-srbija-2026',
-    title: 'TikTok reklame cena u Srbiji 2026: realni budzeti, CPM/CPC rasponi i kada se isplate',
-    excerpt: 'Koliko kostaju TikTok reklame u Srbiji 2026, koji budzet ima smisla za test i kako da procenis da li kanal donosi profit ili samo jeftine preglede bez prodaje.',
+    title: 'TikTok reklame cena u Srbiji 2026: realni budžeti, CPM/CPC rasponi i kada se isplate',
+    excerpt: 'Koliko koštaju TikTok reklame u Srbiji 2026, koji budžet ima smisla za test i kako da procenis da li kanal donosi profit ili samo jeftine preglede bez prodaje.',
     date: '2026-03-11',
     category: 'Marketing',
     readTime: '9 min',
@@ -26403,8 +26403,8 @@ Ako hoces, mozemo uraditi brzi audit postojece kampanje i reci gde curi budzet p
   },
   {
     slug: 'koliko-brzo-google-ads-donosi-prve-klijente-srbija-2026',
-    title: 'Koliko brzo Google Ads donosi prve klijente u Srbiji 2026: realni rokovi i sta meriti',
-    excerpt: 'Ako tek krecete sa Google oglasima, najvece pitanje je kada stizu prvi ozbiljni leadovi. Evo realnog 7/30/90 plana, sta usporava rezultat i kako da izbegnete bacanje budzeta.',
+    title: 'Koliko brzo Google Ads donosi prve klijente u Srbiji 2026: realni rokovi i šta meriti',
+    excerpt: 'Ako tek krecete sa Google oglasima, najvece pitanje je kada stizu prvi ozbiljni leadovi. Evo realnog 7/30/90 plana, šta usporava rezultat i kako da izbegnete bacanje budžeta.',
     date: '2026-03-12',
     category: 'Google Ads',
     readTime: '8 min',
@@ -26508,8 +26508,8 @@ Ako hoces, mozemo uraditi brz audit tvoje trenutne kampanje i reci koja 3 poteza
   },
   {
     slug: 'youtube-reklame-cena-srbija-2026',
-    title: 'YouTube reklame cena u Srbiji 2026: budzet, CPV/CPC rasponi i kada se isplate',
-    excerpt: 'Koliko kostaju YouTube oglasi u Srbiji 2026, koji test budzet ima smisla i kako da meris da li video kampanje donose profit ili samo preglede bez prodaje.',
+    title: 'YouTube reklame cena u Srbiji 2026: budžet, CPV/CPC rasponi i kada se isplate',
+    excerpt: 'Koliko koštaju YouTube oglasi u Srbiji 2026, koji test budžet ima smisla i kako da meris da li video kampanje donose profit ili samo preglede bez prodaje.',
     date: '2026-03-12',
     category: 'Video Marketing',
     readTime: '9 min',
@@ -26620,8 +26620,8 @@ Ako hoces, mogu da uradim brz audit trenutne YouTube kampanje i oznacim 3 izmene
   },
   {
     slug: 'google-ads-za-restorane-cena-rezervacije-srbija-2026',
-    title: 'Google Ads za restorane u Srbiji 2026: cena rezervacije i budzet koji puni stolove',
-    excerpt: 'Koliko realno kosta Google Ads za restorane u Srbiji 2026, koji budzet ima smisla po fazama i kako da merite cenu rezervacije, a ne samo cenu klika.',
+    title: 'Google Ads za restorane u Srbiji 2026: cena rezervacije i budžet koji puni stolove',
+    excerpt: 'Koliko realno košta Google Ads za restorane u Srbiji 2026, koji budžet ima smisla po fazama i kako da merite cenu rezervacije, a ne samo cenu klika.',
     date: '2026-03-12',
     category: 'Google Ads',
     readTime: '9 min',
@@ -26729,8 +26729,8 @@ Ako hoces, mogu da uradim brz audit tvoje kampanje i oznacim 3 poteza koji najbr
   },
   {
     slug: 'seo-za-restorane-cena-srbija-2026',
-    title: 'SEO za restorane u Srbiji 2026: cena, lokalni SEO i kako do vise rezervacija',
-    excerpt: 'Koliko kosta SEO za restorane u Srbiji 2026, sta realno donosi lokalni SEO za ugostiteljstvo i kako da merite rezultat kroz rezervacije i posete, a ne kroz pozicije.',
+    title: 'SEO za restorane u Srbiji 2026: cena, lokalni SEO i kako do više rezervacija',
+    excerpt: 'Koliko košta SEO za restorane u Srbiji 2026, šta realno donosi lokalni SEO za ugostiteljstvo i kako da merite rezultat kroz rezervacije i posete, a ne kroz pozicije.',
     date: '2026-03-17',
     category: 'Lokalni SEO',
     readTime: '10 min',
@@ -26864,8 +26864,8 @@ Ako zelite da znate gde vam je najveci prostor za napredak, javite se za besplat
   },
   {
     slug: 'vodjenje-google-ads-kampanja-fee-izbor-partnera-srbija-2026',
-    title: 'Vodjenje Google Ads kampanja cena u Srbiji 2026: sta ulazi u fee i kako da izaberes partnera',
-    excerpt: 'Koliko realno kosta vodjenje Google Ads kampanja u Srbiji 2026, kada je fiksni fee bolji od procenta budzeta i kako da procenis da li agencija pravi profit ili samo trosi klikove.',
+    title: 'Vođenje Google Ads kampanja cena u Srbiji 2026: šta ulazi u fee i kako da izabereš partnera',
+    excerpt: 'Koliko realno košta vođenje Google Ads kampanja u Srbiji 2026, kada je fiksni fee bolji od procenta budžeta i kako da procenis da li agencija pravi profit ili samo trosi klikove.',
     date: '2026-03-12',
     category: 'Google Ads',
     readTime: '9 min',
@@ -26966,8 +26966,8 @@ Ako hoces, mogu da uradim brz audit tvoje trenutne ponude i oznacim da li je fee
   },
   {
     slug: 'google-ads-za-arhitektonske-biroe-cena-upita-srbija-2026',
-    title: 'Google Ads za arhitektonske biroe u Srbiji 2026: cena upita, budzet i kvalitet lead-a',
-    excerpt: 'Koliko realno kostaju Google Ads kampanje za arhitektonske biroe u Srbiji 2026, koji budzet ima smisla po fazama i kako da povecas broj ozbiljnih upita za projekte.',
+    title: 'Google Ads za arhitektonske biroe u Srbiji 2026: cena upita, budžet i kvalitet lead-a',
+    excerpt: 'Koliko realno koštaju Google Ads kampanje za arhitektonske biroe u Srbiji 2026, koji budžet ima smisla po fazama i kako da povećaš broj ozbiljnih upita za projekte.',
     date: '2026-03-13',
     category: 'Google Ads',
     readTime: '10 min',
@@ -27072,8 +27072,8 @@ Ako hoces, mogu da uradim mini audit naloga i oznacim 3 najbrza poteza za nizi t
 
   {
     slug: 'kako-odrediti-budzet-za-google-reklame-srbija-2026',
-    title: 'Kako odrediti budzet za Google reklame u Srbiji 2026: praktican model pre prvog evra',
-    excerpt: 'Korak-po-korak model kako da izracunate realan Google Ads budzet u Srbiji 2026, od maksimalnog CPL-a do test faze i skaliranja bez rasipanja para.',
+    title: 'Kako odrediti budžet za Google reklame u Srbiji 2026: praktičan model pre prvog evra',
+    excerpt: 'Korak-po-korak model kako da izracunate realan Google Ads budžet u Srbiji 2026, od maksimalnog CPL-a do test faze i skaliranja bez rasipanja para.',
     date: '2026-03-14',
     category: 'Google Ads',
     readTime: '11 min',
@@ -27211,8 +27211,8 @@ Ako hoces, mogu da ti pomognem da izracunamo tvoj konkretan start budzet i grani
   },
   {
     slug: 'linkedin-reklame-cena-srbija-2026',
-    title: 'LinkedIn reklame cena u Srbiji 2026: realni CPL rasponi, budzet i kada se isplate',
-    excerpt: 'Koliko kostaju LinkedIn reklame u Srbiji 2026, koji budzet ima smisla za B2B lead gen i kako da procenis da li kanal donosi pipeline ili samo skupe klikove.',
+    title: 'LinkedIn reklame cena u Srbiji 2026: realni CPL rasponi, budžet i kada se isplate',
+    excerpt: 'Koliko koštaju LinkedIn reklame u Srbiji 2026, koji budžet ima smisla za B2B lead gen i kako da procenis da li kanal donosi pipeline ili samo skupe klikove.',
     date: '2026-03-14',
     category: 'LinkedIn Ads',
     readTime: '10 min',
@@ -27337,8 +27337,8 @@ Ako hoces, mogu da ti izracunam okviran budzet i CPL granice za tvoj konkretan b
 ,
   {
     slug: 'google-ads-za-auto-placeve-cena-leada-srbija-2026',
-    title: 'Google Ads za auto placeve u Srbiji 2026: cena lead-a, budzet i vise ozbiljnih kupaca',
-    excerpt: 'Koliko realno kostaju Google Ads kampanje za auto placeve u Srbiji 2026, koji budzet ima smisla po fazama i kako da smanjite cenu ozbiljnog upita bez praznih poziva.',
+    title: 'Google Ads za auto placeve u Srbiji 2026: cena lead-a, budžet i više ozbiljnih kupaca',
+    excerpt: 'Koliko realno koštaju Google Ads kampanje za auto placeve u Srbiji 2026, koji budžet ima smisla po fazama i kako da smanjite cenu ozbiljnog upita bez praznih poziva.',
     date: '2026-03-14',
     category: 'Google Ads',
     readTime: '10 min',
@@ -27462,8 +27462,8 @@ Ako hoces, mogu da oznacim 3 najbrza poteza za nizi trosak kvalifikovanog upita 
 
   {
     slug: 'google-ads-za-stamparije-cena-leada-srbija-2026',
-    title: 'Google Ads za stamparije u Srbiji 2026: cena lead-a, budzet i vise profitabilnih B2B upita',
-    excerpt: 'Koliko realno kostaju Google Ads kampanje za stamparije u Srbiji 2026, koji budzet ima smisla i kako da smanjite cenu kvalitetnog upita bez praznih poziva i neisplativih poslova.',
+    title: 'Google Ads za štamparije u Srbiji 2026: cena lead-a, budžet i više profitabilnih B2B upita',
+    excerpt: 'Koliko realno koštaju Google Ads kampanje za štamparije u Srbiji 2026, koji budžet ima smisla i kako da smanjite cenu kvalitetnog upita bez praznih poziva i neisplativih poslova.',
     date: '2026-03-14',
     category: 'Google Ads',
     readTime: '10 min',
@@ -27571,8 +27571,8 @@ Ako hoces, mogu da oznacim 3 najbrza poteza za nizi trosak kvalifikovanog upita 
 
   {
     slug: 'landing-stranica-za-google-ads-cena-srbija-2026',
-    title: 'Landing stranica za Google Ads: cena u Srbiji 2026, rokovi i sta stvarno ulazi',
-    excerpt: 'Koliko realno kosta landing stranica za Google Ads u Srbiji 2026, koji su tipicni rasponi po fazama i sta mora da postoji da klikovi postanu upiti i prodaja.',
+    title: 'Landing stranica za Google Ads: cena u Srbiji 2026, rokovi i šta stvarno ulazi',
+    excerpt: 'Koliko realno košta landing stranica za Google Ads u Srbiji 2026, koji su tipicni rasponi po fazama i šta mora da postoji da klikovi postanu upiti i prodaja.',
     date: '2026-03-14',
     category: 'Web Design',
     readTime: '10 min',
@@ -27654,7 +27654,7 @@ Ako hoces, mogu da oznacim 3 najbrze izmene na tvojoj trenutnoj stranici koje na
   {
     slug: 'alex-hormozi-value-equation-ponuda-koja-se-prodaje-srbija-2026',
     title: 'Alex Hormozi framework: kako da ponuda za uslugu zaista prodaje (Srbija 2026)',
-    excerpt: 'Praktican vodic kako da spakujes ponudu za uslugu tako da ljudi lakse kazu da, uz realne cenovne okvire i jasan implementation plan za srpsko trziste.',
+    excerpt: 'Praktičan vodič kako da spakuješ ponudu za uslugu tako da ljudi lakše kažu da, uz realne cenovne okvire i jasan implementation plan za srpsko tržište.',
     date: '2026-03-15',
     category: 'Marketing',
     readTime: '9 min',
@@ -27775,8 +27775,8 @@ Ako hoces da zajedno slozimo ponudu koja je agresivna ali i profitabilna, javi s
   },
   {
     slug: 'google-ads-budzet-kalkulator-cpa-srbija-2026',
-    title: 'Google Ads budzet kalkulator Srbija 2026: kako da postavis CPA granicu pre trosenja novca',
-    excerpt: 'Praktican vodic za firme u Srbiji: kako da izracunas realan Google Ads budzet, postavis maksimalni CPA i izbegnes trosenje novca na klikove koji ne donose profit.',
+    title: 'Google Ads budžet kalkulator Srbija 2026: kako da postaviš CPA granicu pre trošenja novca',
+    excerpt: 'Praktičan vodič za firme u Srbiji: kako da izračunaš realan Google Ads budžet, postaviš maksimalni CPA i izbegneš trosenje novca na klikove koji ne donose profit.',
     date: '2026-03-15',
     category: 'Google Ads',
     readTime: '11 min',
@@ -27906,7 +27906,7 @@ Ako hoces, mogu da ti proverim cilj, CPA granicu i test budzet za tvoj slucaj pr
   {
     slug: 'instagram-marketing-za-frizerske-salone-srbija-2026',
     title: 'Instagram marketing za frizerske salone u Srbiji 2026: kako popuniti termine',
-    excerpt: 'Praktican vodic za vlasnike salona: koji Instagram format donosi zakazivanja, koliki budzet ima smisla i kako meriti da li vam marketing zaista puni stolice.',
+    excerpt: 'Praktičan vodič za vlasnike salona: koji Instagram format donosi zakazivanja, koliki budžet ima smisla i kako meriti da li vam marketing zaista puni stolice.',
     date: '2026-03-17',
     category: 'Drustvene Mreze',
     readTime: '10 min',
@@ -28045,8 +28045,8 @@ Ako zelite da proverite koliko bi koristio Instagram marketing za vas salon ili 
   },
   {
     slug: 'google-ads-za-frizerske-salone-cena-srbija-2026',
-    title: 'Google Ads za frizerske salone u Srbiji 2026: cena termina, budzet i strategija',
-    excerpt: 'Koliko kostaju Google reklame za frizerske salone u Srbiji 2026, koji budzet ima smisla i kako da dovedete klijente koji vec traze vas tip usluge.',
+    title: 'Google Ads za frizerske salone u Srbiji 2026: cena termina, budžet i strategija',
+    excerpt: 'Koliko koštaju Google reklame za frizerske salone u Srbiji 2026, koji budžet ima smisla i kako da dovedete klijente koji vec traže vas tip usluge.',
     date: '2026-03-17',
     category: 'Marketing',
     readTime: 9,
@@ -28183,8 +28183,8 @@ Ako zelite da proverite da li Google Ads ima smisla za vas salon ili vam treba p
   },
   {
     slug: 'seo-za-frizerske-salone-cena-srbija-2026',
-    title: 'SEO za frizerske salone u Srbiji 2026: cena, lokalni SEO i kako do vise termina',
-    excerpt: 'Koliko kosta SEO za frizerski salon u Srbiji 2026, zasto lokalni SEO dominira kod salona i kako da merite rezultat kroz zakazane termine.',
+    title: 'SEO za frizerske salone u Srbiji 2026: cena, lokalni SEO i kako do više termina',
+    excerpt: 'Koliko košta SEO za frizerski salon u Srbiji 2026, zašto lokalni SEO dominira kod salona i kako da merite rezultat kroz zakazane termine.',
     date: '2026-03-17',
     category: 'Lokalni SEO',
     readTime: '11 min',
@@ -28346,8 +28346,8 @@ Ako zelite da proverite stanje vaseg sajta i lokalnog SEO-a, javite nam se za [b
   },
   {
     slug: 'seo-za-kozmeticke-salone-cena-srbija-2026',
-    title: 'SEO za kozmeticke salone u Srbiji 2026: cena, lokalni SEO i kako do vise termina',
-    excerpt: 'Koliko kosta SEO za kozmeticke salone u Srbiji 2026, zasto lokalni SEO presuduje i kako da merite rezultat kroz zakazane termine, ne kroz pozicije.',
+    title: 'SEO za kozmetičke salone u Srbiji 2026: cena, lokalni SEO i kako do više termina',
+    excerpt: 'Koliko košta SEO za kozmetičke salone u Srbiji 2026, zašto lokalni SEO presuduje i kako da merite rezultat kroz zakazane termine, ne kroz pozicije.',
     date: '2026-03-17',
     category: 'Lokalni SEO',
     readTime: '10 min',
@@ -28498,8 +28498,8 @@ Ako zelite da proverite stanje vaseg sajta i lokalnog SEO-a, javite nam se za [b
   },
   {
     slug: 'instagram-reklame-za-teretane-cena-upisa-srbija-2026',
-    title: 'Instagram reklame za teretane u Srbiji 2026: cena upisa, budzet i kako popuniti salu',
-    excerpt: 'Koliko kostaju Instagram reklame za teretane i fitnes studije u Srbiji 2026, koji budzet ima smisla i kako da dovedete clanove koji zapravo ostaju duze od januara.',
+    title: 'Instagram reklame za teretane u Srbiji 2026: cena upisa, budžet i kako popuniti salu',
+    excerpt: 'Koliko koštaju Instagram reklame za teretane i fitnes studije u Srbiji 2026, koji budžet ima smisla i kako da dovedete clanove koji zapravo ostaju duže od januara.',
     date: '2026-03-17',
     category: 'Instagram Ads',
     readTime: '10 min',
@@ -28690,8 +28690,8 @@ Ako zelite da proverite da li Instagram ima smisla za vasu salu ili vam treba st
   },
   {
     slug: 'instagram-reklame-za-racunovodje-cena-klijenta-srbija-2026',
-    title: 'Instagram reklame za racunovodje u Srbiji 2026: koliko kosta novi klijent i sta zapravo radi',
-    excerpt: 'Koliko kostaju Instagram reklame za racunovodstvene agencije u Srbiji 2026, koji tipovi kampanja donose klijente i kako da ne bacite budzet na pogresan format.',
+    title: 'Instagram reklame za računovođe u Srbiji 2026: koliko košta novi klijent i šta zapravo radi',
+    excerpt: 'Koliko koštaju Instagram reklame za računovodstvene agencije u Srbiji 2026, koji tipovi kampanja donose klijente i kako da ne bacite budžet na pogresan format.',
     date: '2026-03-17',
     category: 'Instagram Ads',
     readTime: '10 min',
@@ -28854,8 +28854,8 @@ Ako zelite da proverite da li Instagram ima smisla za vasu agenciju ili trebate 
   },
   {
     slug: 'seo-za-racunovodje-cena-srbija-2026',
-    title: 'SEO za racunovodje u Srbiji 2026: cena, lokalni SEO i kako do vise klijenata',
-    excerpt: 'Koliko realno kosta SEO za racunovodstvene agencije u Srbiji 2026, sta ulazi u cenu i kako da merite rezultat kroz nove klijente umesto praznog saobracaja.',
+    title: 'SEO za računovođe u Srbiji 2026: cena, lokalni SEO i kako do više klijenata',
+    excerpt: 'Koliko realno košta SEO za računovodstvene agencije u Srbiji 2026, šta ulazi u cenu i kako da merite rezultat kroz nove klijente umesto praznog saobracaja.',
     date: '2026-03-17',
     category: 'Lokalni SEO',
     readTime: '10 min',
@@ -28989,8 +28989,8 @@ Ako zelite brz audit vaseg trenutnog sajta i 3 najbrza poteza za vise upita od p
   },
   {
     slug: 'seo-za-stomatologe-cena-srbija-2026',
-    title: 'SEO za stomatologe u Srbiji 2026: cena, lokalni SEO i kako do vise pacijenata',
-    excerpt: 'Koliko realno kosta SEO za stomatolosku ordinaciju u Srbiji 2026, sta donosi lokalni SEO za stomatologe i kako da merite rezultat kroz zakazane termine, a ne kroz pozicije.',
+    title: 'SEO za stomatologe u Srbiji 2026: cena, lokalni SEO i kako do više pacijenata',
+    excerpt: 'Koliko realno košta SEO za stomatološku ordinaciju u Srbiji 2026, šta donosi lokalni SEO za stomatologe i kako da merite rezultat kroz zakazane termine, a ne kroz pozicije.',
     date: '2026-03-17',
     category: 'Lokalni SEO',
     readTime: '11 min',
@@ -29171,8 +29171,8 @@ Ako zelite brzu analizu vaseg sajta i Google Business profila sa 3 konkretna kor
   },
   {
     slug: 'google-ads-za-kozmeticki-salon-cena-termina-srbija-2026',
-    title: 'Google Ads za kozmeticke salone u Srbiji 2026: cena termina, budzet i strategija',
-    excerpt: 'Koliko kostaju Google reklame za kozmeticke salone u Srbiji 2026, koji budzet ima smisla i kako da dovedete klijente koji vec traze vas tip tretmana.',
+    title: 'Google Ads za kozmetičke salone u Srbiji 2026: cena termina, budžet i strategija',
+    excerpt: 'Koliko koštaju Google reklame za kozmetičke salone u Srbiji 2026, koji budžet ima smisla i kako da dovedete klijente koji vec traže vas tip tretmana.',
     date: '2026-03-17',
     category: 'Marketing',
     readTime: 9,
@@ -29318,7 +29318,7 @@ Ako zelite da proverite da li Google Ads ima smisla za vas salon ili vam treba p
   {
     slug: 'instagram-reklame-za-hotele-i-smestaj-cena-rezervacije-srbija-2026',
     title: 'Instagram reklame za hotele i smestaj u Srbiji 2026: cena po rezervaciji i strategija',
-    excerpt: 'Koliko kostaju Instagram reklame za hotele, apartmane i vile u Srbiji. Tipovi kampanja, budzeti, kreativa koja privlaci goste i strategija za direktne rezervacije.',
+    excerpt: 'Koliko koštaju Instagram reklame za hotele, apartmane i vile u Srbiji. Tipovi kampanja, budžeti, kreativa koja privlaci goste i strategija za direktne rezervacije.',
     date: '2026-03-20',
     category: 'Instagram Ads',
     readTime: 10,
@@ -29487,7 +29487,7 @@ Ako zelite da proverite da li Instagram reklame imaju smisla za vas objekat ili 
   {
     slug: 'seo-za-hotele-i-smestaj-cena-srbija-2026',
     title: 'SEO za hotele i smestaj u Srbiji 2026: cena, lokalni SEO i kako smanjiti zavisnost od Booking-a',
-    excerpt: 'Koliko kosta SEO optimizacija za hotel, apartman ili vilu u Srbiji 2026. Realni rasponi cena, sta donosi lokalni SEO i zasto organski saobracaj smanjuje provizije OTA platformama.',
+    excerpt: 'Koliko košta SEO optimizacija za hotel, apartman ili vilu u Srbiji 2026. Realni rasponi cena, šta donosi lokalni SEO i zašto organski saobraćaj smanjuje provizije OTA platformama.',
     date: '2026-03-21',
     category: 'SEO',
     readTime: 9,
@@ -29644,7 +29644,7 @@ Ako zelite da proverite u kom stanju je SEO vaseg smestajnog objekta ili vam tre
   {
     slug: 'roas-po-industriji-i-platformi-benchmark-statistika-2026',
     title: 'ROAS po industriji i platformi: benchmark za Google Ads, Meta Ads i e-commerce (2026)',
-    excerpt: 'Koliki je prosecan ROAS za Google Ads, Meta Ads, Amazon i TikTok? Benchmark po industriji (e-commerce, pravo, auto, zdravstvo, SaaS) sa citiranim izvorima za 2025-2026.',
+    excerpt: 'Koliki je prosečan ROAS za Google Ads, Meta Ads, Amazon i TikTok? Benchmark po industriji (e-commerce, pravo, auto, zdravstvo, SaaS) sa citiranim izvorima za 2025-2026.',
     date: '2026-03-22',
     category: 'Google Ads',
     readTime: '10 min',
@@ -29803,7 +29803,7 @@ Za konzultacije o optimizaciji vaseg ROAS-a ili kompletnu analizu kampanja, [kon
   {
     slug: 'email-marketing-open-rate-ctr-benchmark-po-industriji-2026',
     title: 'Email marketing open rate i CTR po industriji: benchmark podaci za 2025-2026',
-    excerpt: 'Koliki je prosecan open rate i CTR email kampanja po industriji? Benchmark statistika za e-commerce, B2B, SaaS, neprofitne organizacije i zdravstvo sa citiranim izvorima.',
+    excerpt: 'Koliki je prosečan open rate i CTR email kampanja po industriji? Benchmark statistika za e-commerce, B2B, SaaS, neprofitne organizacije i zdravstvo sa citiranim izvorima.',
     date: '2026-03-22',
     category: 'Marketing',
     readTime: '9 min',
@@ -29954,7 +29954,7 @@ Za pomoc oko email marketing strategije, automatizacije ili optimizacije kampanj
   {
     slug: 'bounce-rate-po-industriji-uredjaju-i-izvoru-saobracaja-benchmark-2026',
     title: 'Bounce rate po industriji, uredjaju i izvoru saobracaja: benchmark podaci za 2025-2026',
-    excerpt: 'Koliki je prosecan bounce rate po industriji, mobilni vs desktop, organski vs social saobracaj? Citirane statistike i GA4 engagement rate benchmark za 2025-2026.',
+    excerpt: 'Koliki je prosečan bounce rate po industriji, mobilni vs desktop, organski vs social saobraćaj? Citirane statistike i GA4 engagement rate benchmark za 2025-2026.',
     date: '2026-03-22',
     category: 'CRO',
     readTime: '9 min',
@@ -30131,7 +30131,7 @@ Za kompletnu analizu sajta i konkretne preporuke za smanjenje bounce rate-a, [ko
   {
     slug: 'customer-lifetime-value-clv-po-industriji-benchmark-statistika-2026',
     title: 'Customer Lifetime Value (CLV) po industriji: benchmark podaci i statistika za 2025-2026',
-    excerpt: 'Kolika je prosecna vrednost klijenta po industriji, koji CLV:CAC odnos je zdrav i kako retencija pomera profit? Citirani benchmark podaci za 2025-2026.',
+    excerpt: 'Kolika je prosečna vrednost klijenta po industriji, koji CLV:CAC odnos je zdrav i kako retencija pomera profit? Citirani benchmark podaci za 2025-2026.',
     date: '2026-03-23',
     category: 'CRO',
     readTime: '10 min',
@@ -30305,7 +30305,7 @@ Za kompletnu analizu vaseg CLV-a, retencije i strategiju za povecanje vrednosti 
   {
     slug: 'churn-rate-po-industriji-benchmark-statistika-2026',
     title: 'Churn rate po industriji: benchmark podaci o odlivu klijenata za 2025-2026',
-    excerpt: 'Koliki je prosecan churn rate u SaaS-u, e-commerce-u, telekomunikacijama i bankarstvu? Citirani benchmark podaci za 2025-2026 sa strategijama za smanjenje odliva.',
+    excerpt: 'Koliki je prosečan churn rate u SaaS-u, e-commerce-u, telekomunikacijama i bankarstvu? Citirani benchmark podaci za 2025-2026 sa strategijama za smanjenje odliva.',
     date: '2026-03-23',
     category: 'CRO',
     readTime: '11 min',
@@ -30514,7 +30514,7 @@ Za kompletnu analizu vaseg churn rate-a i strategiju za smanjenje odliva klijena
   {
     slug: 'google-ads-cpc-ctr-konverzija-po-industriji-benchmark-2026',
     title: 'Google Ads CPC, CTR i konverzija po industriji: benchmark podaci za 2025-2026',
-    excerpt: 'Koliko kosta klik na Google Ads, kakav je CTR i koja je prosecna konverzija po industriji? Citirani benchmark podaci iz WordStream i LocalIQ istrazivanja za 2025-2026.',
+    excerpt: 'Koliko košta klik na Google Ads, kakav je CTR i koja je prosečna konverzija po industriji? Citirani benchmark podaci iz WordStream i LocalIQ istrazivanja za 2025-2026.',
     date: '2026-03-23',
     category: 'Marketing',
     readTime: '9 min',
@@ -30712,7 +30712,7 @@ Za pomoc oko optimizacije vasih Google Ads kampanja i smanjenja cene leada, [kon
   {
     slug: 'facebook-ads-cpc-ctr-konverzija-cpl-po-industriji-benchmark-2026',
     title: 'Facebook Ads CPC, CTR, konverzija i CPL po industriji: benchmark podaci za 2025-2026',
-    excerpt: 'Koliko kosta klik na Facebook, kakav je CTR, konverzija i cena po leadu za razlicite industrije? Citirani benchmark podaci iz WordStream/LocalIQ istrazivanja za 2025.',
+    excerpt: 'Koliko košta klik na Facebook, kakav je CTR, konverzija i cena po leadu za razlicite industrije? Citirani benchmark podaci iz WordStream/LocalIQ istrazivanja za 2025.',
     date: '2026-03-23',
     category: 'Marketing',
     readTime: '10 min',
@@ -30906,7 +30906,7 @@ Za pomoc oko pokretanja ili optimizacije vasih Facebook kampanja, [kontaktirajte
   {
     slug: 'linkedin-ads-cpc-ctr-konverzija-cpl-po-industriji-benchmark-2026',
     title: 'LinkedIn Ads CPC, CTR, konverzija i CPL po industriji: benchmark podaci za 2025-2026',
-    excerpt: 'Koliko kosta klik na LinkedIn, kakav je CTR, konverzija i cena po leadu za razlicite industrije? Citirani benchmark podaci za 2025.',
+    excerpt: 'Koliko košta klik na LinkedIn, kakav je CTR, konverzija i cena po leadu za razlicite industrije? Citirani benchmark podaci za 2025.',
     date: '2026-03-24',
     category: 'Marketing',
     readTime: '10 min',
@@ -31094,7 +31094,7 @@ Za pomoc oko pokretanja ili optimizacije vasih LinkedIn kampanja, [kontaktirajte
   {
     slug: 'youtube-ads-cpv-ctr-view-rate-konverzija-po-industriji-benchmark-2026',
     title: 'YouTube Ads CPV, CTR, view rate i konverzija po industriji: benchmark podaci za 2025-2026',
-    excerpt: 'Koliko kosta pregled YouTube reklame, kakav je CTR i view rate po industriji, koji format donosi najbolji ROI? Citirani benchmark podaci za 2025.',
+    excerpt: 'Koliko košta pregled YouTube reklame, kakav je CTR i view rate po industriji, koji format donosi najbolji ROI? Citirani benchmark podaci za 2025.',
     date: '2026-03-24',
     category: 'Marketing',
     readTime: '11 min',
@@ -31266,13 +31266,13 @@ Za pomoc oko pokretanja ili optimizacije vasih YouTube kampanja, [kontaktirajte 
 
   {
     slug: "zadrzavanje-kupaca-retention-rate-churn-lojalnost-statistika-2026",
-    title: "Zadrzavanje kupaca: retention, churn i lojalnost u brojevima za 2026",
+    title: "Zadržavanje kupaca: retention, churn i lojalnost u brojevima za 2026",
     date: "2026-03-24",
     readTime: 8,
     category: "Statistika",
     image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
     popular: false,
-    excerpt: "Koliko kosta izgubiti kupca? 5-25x je skuplje naci novog nego zadrzati postojeceg. Pogledajte retention, churn i loyalty statistike po industriji za 2026.",
+    excerpt: "Koliko košta izgubiti kupca? 5-25x je skuplje naci novog nego zadržati postojećeg. Pogledajte retention, churn i loyalty statistike po industriji za 2026.",
     content: `
 <p>Svaka firma zna da treba da privlaci nove kupce. Ali mnoge zaboravljaju koliko ih kosta kad postojeci odu. Podaci za 2024. i 2025. godinu jasno pokazuju da je zadrzavanje kupaca profitabilnije od akvizicije, a programi lojalnosti daju povrat i do 700%.</p>
 
@@ -31434,7 +31434,7 @@ Za pomoc oko pokretanja ili optimizacije vasih YouTube kampanja, [kontaktirajte 
     category: "Statistika",
     image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80",
     popular: false,
-    excerpt: "Samo 1 od 8 A/B testova daje pobednika, ali pobednicki testovi podizu konverzije za 61%. CRO alati donose 223% ROI. Evo statistika koje menjaju pristup optimizaciji.",
+    excerpt: "Samo 1 od 8 A/B testova daje pobednika, ali pobednicki testovi podižu konverzije za 61%. CRO alati donose 223% ROI. Evo statistika koje menjaju pristup optimizaciji.",
     content: `
 <p>Vecina firmi zna da treba testirati svoj sajt. Ali koliko testova zaista treba da biste videli rezultate? I koliko ce vas to kostati ako ne testirate?</p>
 
@@ -31542,7 +31542,7 @@ Za pomoc oko pokretanja ili optimizacije vasih YouTube kampanja, [kontaktirajte 
   {
     slug: 'tiktok-ads-cpc-ctr-konverzija-cpm-po-industriji-benchmark-2026',
     title: 'TikTok Ads CPC, CTR, konverzija i CPM po industriji: benchmark podaci za 2025-2026',
-    excerpt: 'Koliko kosta klik na TikToku, kakav je CTR i konverzija po industriji, kako se TikTok poredi sa Facebook i Google? Citirani benchmark podaci za 2025.',
+    excerpt: 'Koliko košta klik na TikToku, kakav je CTR i konverzija po industriji, kako se TikTok poredi sa Facebook i Google? Citirani benchmark podaci za 2025.',
     date: '2026-03-24',
     category: 'Marketing',
     readTime: '12 min',
@@ -31777,7 +31777,7 @@ Za pomoc oko pokretanja ili optimizacije vasih TikTok kampanja, [kontaktirajte n
   {
     slug: 'marketing-automatizacija-roi-usvajanje-produktivnost-benchmark-statistika-2026',
     title: 'Marketing automatizacija: ROI, usvajanje i produktivnost — benchmark za 2025-2026',
-    excerpt: 'Marketing automatizacija donosi 5.44 dolara na svaki ulozeni dolar (544% ROI). Trziste vredi $47 milijardi, 76% firmi koristi automatizaciju. Citirani podaci.',
+    excerpt: 'Marketing automatizacija donosi 5.44 dolara na svaki uloženi dolar (544% ROI). Tržište vredi $47 milijardi, 76% firmi koristi automatizaciju. Citirani podaci.',
     date: '2026-03-25',
     category: 'Marketing',
     readTime: '14 min',
@@ -32046,7 +32046,7 @@ Marketing automatizacija se isplati. Pitanje nije da li je implementirati, vec k
   },
   {
     slug: 'web-dizajn-statistika-konverzije-poverenje-bounce-rate-ux-2026',
-    title: 'Web dizajn statistika 2026: kako izgled sajta utice na poverenje, konverzije i bounce rate',
+    title: 'Web dizajn statistika 2026: kako izgled sajta utiče na poverenje, konverzije i bounce rate',
     excerpt: '94% prvog utiska zavisi od dizajna. 75% korisnika procenjuje kredibilitet firme po sajtu. UX ROI 9,900%, svaka sekunda kasnjenja -7% konverzija. Podaci za 2025-2026.',
     date: '2026-03-25',
     category: 'Web dizajn',
