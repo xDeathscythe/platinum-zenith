@@ -49,6 +49,30 @@ const faqs = [
   { q: 'Kako izgleda proces saradnje?', a: 'Počinjemo sa besplatnim konsultacijama gde definišemo vaše potrebe. Zatim pripremamo predlog i ponudu. Nakon odobrenja, kreće dizajn, razvoj, vaša revizija i na kraju lansiranje.' },
 ]
 
+const formatChoices = [
+  {
+    title: 'Landing stranica',
+    price: '150 - 1.500€+',
+    text: 'Najviše smisla ima kada gurate jednu ponudu, jednu kampanju ili jedan jasan CTA. Ako vam je cilj da plaćeni saobraćaj pretvorite u upit, landing često radi bolji posao od velikog sajta.',
+    route: '/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu',
+    routeLabel: 'Pogledajte kada landing ima više smisla od celog sajta',
+  },
+  {
+    title: 'WordPress poslovni sajt',
+    price: '800 - 2.000€+',
+    text: 'Ovo je pravi izbor kada vam treba više usluga, blog, lakše uređivanje sadržaja i dobra SEO osnova. Nije samo pitanje dizajna, nego i toga da sajt može da raste sa firmom.',
+    route: '/izrada-wordpress-sajta-cena',
+    routeLabel: 'Šta realno ulazi u cenu WordPress sajta',
+  },
+  {
+    title: 'Web shop',
+    price: '1.500 - 5.000€+',
+    text: 'Ako prodajete proizvode, problem više nije samo izgled sajta. Tu ulaze checkout, dostava, emailovi, zalihe, naplata i mnogo više mesta gde loša odluka kasnije košta skuplje.',
+    route: '/web-shop-nema-prodaju',
+    routeLabel: 'Pogledajte gde shop najčešće počne da gubi prodaju',
+  },
+]
+
 export default function CeneIzradeSajtaPage() {
   usePageMeta()
 
@@ -184,6 +208,35 @@ export default function CeneIzradeSajtaPage() {
         </div>
       </section>
 
+      {/* Format chooser */}
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[980px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
+          <h2 className="text-[24px] md:text-[30px] font-medium text-ink mb-4 text-center">Šta vam zapravo treba: landing, poslovni sajt ili shop?</h2>
+          <p className="text-[15px] text-ink-3 text-center mb-8 max-w-[760px] mx-auto">
+            Ljudi često traže cenu sajta, a zapravo još nisu rešili važnije pitanje: koji format uopšte treba da naprave. Kada to promašite, i dobra cena postane loša odluka.
+          </p>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+            {formatChoices.map((item) => (
+              <div key={item.title} className="rounded-[14px] border border-edge bg-bg p-5 md:p-6">
+                <div className="text-[12px] uppercase tracking-[0.18em] text-ink-4 mb-2">{item.price}</div>
+                <h3 className="text-[18px] font-medium text-ink mb-3">{item.title}</h3>
+                <p className="text-[14px] text-ink-2 leading-relaxed mb-4">{item.text}</p>
+                <Link to={item.route} className="text-[13px] text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+                  {item.routeLabel}
+                </Link>
+              </div>
+            ))}
+          </div>
+          <p className="text-[14px] text-ink-3 leading-relaxed mt-8 text-center max-w-[760px] mx-auto">
+            Ako niste sigurni šta je pravi potez za vaš funnel, ne treba vam još jedan nasumičan quote. Treba vam jasan redosled odluka. Pošaljite nam cilj, ponudu i kanal sa kog planirate saobraćaj kroz{' '}
+            <Link to="/kontakt" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+              kontakt formu
+            </Link>{' '}
+            i reći ćemo vam da li prvo ide landing, sadržajni sajt ili shop.
+          </p>
+        </div>
+      </section>
+
       {/* FAQ */}
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[760px] mx-auto">
@@ -227,9 +280,9 @@ export default function CeneIzradeSajtaPage() {
               <div className="text-[14px] font-medium text-ink mb-1">Instagram reklame cena</div>
               <div className="text-[12px] text-ink-3">Uporedi trošak vizualnog kanala sa cenom sajta</div>
             </Link>
-            <Link to="/blog/izrada-landing-stranice-cena-rokovi" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
+            <Link to="/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu" className="bg-panel rounded-[14px] border border-edge p-5 hover:border-indigo-500/30 transition-colors">
               <div className="text-[14px] font-medium text-ink mb-1">Cena landing stranice</div>
-              <div className="text-[12px] text-ink-3">Kada vam ne treba ceo sajt već jedna strana</div>
+              <div className="text-[12px] text-ink-3">Kada vam ne treba ceo sajt već jedna prodajna strana</div>
             </Link>
           </div>
         </div>
