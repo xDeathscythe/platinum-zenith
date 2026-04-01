@@ -96,6 +96,33 @@ const firstMonth = [
   },
 ]
 
+const salonModes = [
+  {
+    title: 'Salon koji hoce vise premium tretmana',
+    text: 'Ako su vam fokus hijaluron, anti-age, laser ili tretmani sa jacom marzom, nije dovoljno da imate lep Instagram. Potrebni su bolja selekcija publike, vise poverenja i poruka koja klijentu odmah objasnjava zasto bas taj tretman i bas kod vas.',
+    route: '/instagram-reklame-cena',
+    routeLabel: 'Kako Meta budzet izgleda kada jurite kvalitetniji termin, ne samo vise poruka',
+  },
+  {
+    title: 'Salon koji mora da popuni prazne slotove ove nedelje',
+    text: 'Ovde nije poenta dugorocni reach nego brza rezervacija. Kampanja mora da gura konkretne dane, sate i tretmane koji trenutno stoje prazni. Ako sve reklamirate isto, marketing deluje aktivno, a raspored ostaje neujednacen.',
+    route: '/google-reklame-cena',
+    routeLabel: 'Kada lokalna pretraga zatvara bolje od jos jednog opsteg oglasa',
+  },
+  {
+    title: 'Salon koji tek gradi lokalno poverenje',
+    text: 'Ako vas ljudi jos ne znaju dovoljno, prerano je da se ponasate kao veliki beauty brend. Tada prvo dizete recenzije, Google profil, lokalne signale i jasan dokaz da tretmani izgledaju ozbiljno i bezbedno, ne samo lepo na Reels-u.',
+    route: '/industrije/lokalni-biznisi',
+    routeLabel: 'Sta lokalni biznis mora da sredi pre jacih kampanja',
+  },
+  {
+    title: 'Salon koji ima promet, ali nema zdrav sistem zakazivanja',
+    text: 'Neki saloni imaju dosta upita, ali sve i dalje zavisi od DM poruka, improvizacije i toga da li ce neko odmah odgovoriti. Tada problem nije samo marketing, nego to sto nema jasnog puta od interesovanja do potvrde termina i povratka klijenta.',
+    route: '/cene-digitalnog-marketinga',
+    routeLabel: 'Kako da marketing pratite po rezultatu, ne po aktivnosti',
+  },
+]
+
 const faqs = [
   {
     q: 'Da li su za kozmeticki salon vazniji Instagram ili Google?',
@@ -237,6 +264,31 @@ export default function MarketingZaKozmetickeSalonePage() {
               </div>
             ))}
           </div>
+        </div>
+      </section>
+
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[980px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
+          <div className="max-w-[760px] mx-auto text-center mb-8">
+            <h2 className="text-[24px] md:text-[30px] font-medium text-ink mb-3">Sta radi za salon koji hoce vise termina, ali i bolju vrstu termina</h2>
+            <p className="text-[15px] text-ink-2 leading-relaxed">
+              Nije svaki kozmeticki salon u istoj fazi. Nekome trebaju premium tretmani, nekome popuna praznih slotova, a nekome tek lokalno poverenje. Kad to ne odvojite, marketing lako sklizne u objave i kampanje koje lepo izgledaju, a ne resavaju pravi problem.
+            </p>
+          </div>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {salonModes.map((item) => (
+              <div key={item.title} className="rounded-[16px] border border-edge bg-page p-5 md:p-6">
+                <h3 className="text-[18px] font-medium text-ink mb-3">{item.title}</h3>
+                <p className="text-[14px] text-ink-2 leading-relaxed mb-4">{item.text}</p>
+                <Link to={item.route} className="text-[13px] text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+                  {item.routeLabel}
+                </Link>
+              </div>
+            ))}
+          </div>
+          <p className="text-[14px] text-ink-3 leading-relaxed mt-8 text-center max-w-[760px] mx-auto">
+            Ako niste sigurni da li salon prvo treba da dize premium usluge, da puni prazne slotove ili da sredi lokalno poverenje, posaljite nam kratak opis kroz <Link to="/kontakt" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">kontakt formu</Link> i reci cemo vam odakle ima smisla krenuti.
+          </p>
         </div>
       </section>
 
