@@ -21115,67 +21115,68 @@ elite pomoc da izgradite brend koji se pamti? [Javite nam se](/kontakt) i defini
   {
     slug: 'video-marketing-zasto-video-dominira',
     title: 'Video marketing: zašto video dominira i kako početi',
-    excerpt: 'Video cini 82% internet saobracaja. Firme koje ne koriste video gube pažnju publike pre prvog kontakta sa ponudom i ostaju korak iza konkurencije.',
+    excerpt: 'Video čini 82% internet saobraćaja. Firme koje ne koriste video gube pažnju publike pre prvog kontakta sa ponudom i ostaju korak iza konkurencije.',
     date: '2026-02-21',
     category: 'Marketing',
     readTime: '5 min',
     content: `
-## Brojevi koji objanjavaju sve
+## Brojevi koji objašnjavaju sve
 
-Video cini 82% ukupnog internet saobracaja. Korisnici provode 88% više vremena na sajtovima koji imaju video. Landing stranice sa video-om konvertuju 86% bolje.
+Video čini 82% ukupnog internet saobraćaja. Korisnici provode 88% više vremena na sajtovima koji imaju video. Landing stranice sa video-om konvertuju 86% bolje.
 
-Ovo nije trend. Ovo je promena u tome kako ljudi konzumiraju informacije. Tekst zahteva napor. Video se konzumira pasivno. U svetu gde je panja najredi resurs, format koji zahteva najmanje napora pobeduje.
+Ovo nije trend. Ovo je promena u tome kako ljudi konzumiraju informacije. Tekst zahteva napor. Video se konzumira pasivno. U svetu gde je pažnja najređi resurs, format koji zahteva najmanje napora pobeđuje.
 
 ## Koji tipovi videa rade za biznise
 
-### 1. Objanjavajuci video (Explainer)
+### 1. Objašnjavajući video (Explainer)
 
-60-90 sekundi. Objanjava šta firma radi, za koga i zašto. Idealno za pocetnu stranicu sajta. Posetilac koji pogleda explainer video je 1.8x spremniji da kupi.
+60-90 sekundi. Objašnjava šta firma radi, za koga i zašto. Idealno za početnu stranicu sajta. Posetilac koji pogleda explainer video je 1.8x spremniji da kupi.
 
 ### 2. Testimonijali klijenata
 
-Klijent prica o svom iskustvu. Autenticno, bez skripta (ili sa minimalom). Ovo je social proof u najmocnijem formatu. Klijent govori, buduci kupac veruje.
+Klijent priča o svom iskustvu. Autentično, bez skripta (ili sa minimumom). Ovo je social proof u najmoćnijem formatu. Klijent govori, budući kupac veruje.
 
-### 3. Kratki format za drutvene mree
+### 3. Kratki format za društvene mreže
 
-Reels, TikTok, YouTube Shorts. 15-60 sekundi. Saveti, behind the scenes, brza objanjenja. Organski doseg kratkog video formata je 3-5x veci od slika i teksta.
+Reels, TikTok, YouTube Shorts. 15-60 sekundi. Saveti, behind the scenes, brza objašnjenja. Organski doseg kratkog video formata je 3-5x veći od slika i teksta.
 
-### 4. Dui edukativni sadržaj
+### 4. Duži edukativni sadržaj
 
-YouTube video od 10-20 minuta. Detaljno objanjenje teme. Gradi autoritet i privlaci publiku koja aktivno traži reenja. YouTube je drugi najveci pretraživac na svetu.
+YouTube video od 10-20 minuta. Detaljno objašnjenje teme. Gradi autoritet i privlači publiku koja aktivno traži rešenja. YouTube je drugi najveći pretraživač na svetu.
 
-> Ne trebate produkcijski tim i studio. Telefon, prirodno svetlo i dobar sadržaj su dovoljni za pocetak. Autenticnost pobeduje produkciju.
+> Ne trebate produkcijski tim i studio. Telefon, prirodno svetlo i dobar sadržaj su dovoljni za početak. Autentičnost pobeđuje produkciju.
 
-## Kako poceti sa video marketingom
+## Kako početi sa video marketingom
 
 ### Za firme bez iskustva
 
-1. **Pocnite sa telefonom.** iPhone ili bilo koji noviji Android snima dovoljno dobar video za drutvene mree.
+1. **Počnite sa telefonom.** iPhone ili bilo koji noviji Android snima dovoljno dobar video za društvene mreže.
 2. **Prirodno svetlo.** Stanite pored prozora. Bolje nego 90% studijskog osvetljenja.
-3. **Govorite o onome što znate.** Odgovarajte na pitanja koja vam klijenti najcece postavljaju.
-4. **Kratko.** Pocnite sa 30-60 sekundi. Savladajte format pre nego što se upustite u due sadržaje.
+3. **Govorite o onome što znate.** Odgovarajte na pitanja koja vam klijenti najčešće postavljaju.
+4. **Kratko.** Počnite sa 30-60 sekundi. Savladajte format pre nego što se upustite u duže sadržaje.
 
 ### Za firme sa budžetom
 
 1. **Profesionalni explainer video** za sajt (1.000-3.000€, koristi se godinama).
-2. **Mesecna produkcija kratkog sadržaja** (4-8 kratkih videa mesecno za drutvene mree).
-3. **YouTube kanal** sa nedeljnim edukativnim sadržajem (zahteva konzistentnost, ali gradi dugorocnu imovinu).
+2. **Mesečna produkcija kratkog sadržaja** (4-8 kratkih videa mesečno za društvene mreže).
+3. **YouTube kanal** sa nedeljnim edukativnim sadržajem (zahteva konzistentnost, ali gradi dugoročnu imovinu).
 
 ## Gde objavljivati
 
-- **YouTube:** za dui sadržaj i SEO (video se rangira na Google-u)
+- **YouTube:** za duži sadržaj i SEO (video se rangira na Google-u)
 - **Instagram Reels / TikTok:** za kratki format i doseg
-- **LinkedIn:** za B2B sadržaj (video na LinkedIn-u ima 5x veci engagement od teksta)
-- **Sajt:** explainer na pocetnoj, testimonijali na stranicama usluga
+- **LinkedIn:** za B2B sadržaj (video na LinkedIn-u ima 5x veći engagement od teksta)
+- **Sajt:** explainer na početnoj, testimonijali na stranicama usluga
 
-Saznajte kako [upravljamo drutvenim mrežama](/drustvene-mreze) za firme koje ele rezultate, ne samo pratioce.
+Saznajte kako [upravljamo društvenim mrežama](/drustvene-mreze) za firme koje žele rezultate, ne samo pratioce.
 
-Takođe preporucujemo: [Zašto je UGC buducnost oglasa (i kako ga koristiti)](/blog/ugc-buducnost-oglasa).
+Takođe preporučujemo: [Zašto je UGC budućnost oglasa (i kako ga koristiti)](/blog/ugc-buducnost-oglasa).
 
 ---
 
-elite da pokrenete video marketing za vaš biznis? [Javite nam se](/kontakt) i napravicemo vam plan.
+Želite da pokrenete video marketing za vaš biznis? [Javite nam se](/kontakt) i napravićemo vam plan.
 `,
+
   },
   {
     slug: 'seo-vs-ppc-sta-je-bolje-za-dugorocni-rast',

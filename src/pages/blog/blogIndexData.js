@@ -1742,7 +1742,7 @@ export const blogIndexPosts = [
   {
     "slug": "video-marketing-zasto-video-dominira",
     "title": "Video marketing: zašto video dominira i kako početi",
-    "excerpt": "Video cini 82% internet saobracaja. Firme koje ne koriste video gube pažnju publike pre prvog kontakta sa ponudom i ostaju korak iza konkurencije.",
+    "excerpt": "Video čini 82% internet saobraćaja. Firme koje ne koriste video gube pažnju publike pre prvog kontakta sa ponudom i ostaju korak iza konkurencije.",
     "date": "2026-02-21",
     "category": "Marketing",
     "readTime": "5 min",
