@@ -48,6 +48,33 @@ const metrics = [
   { num: '8-12x', label: 'Povrat investicije', desc: 'Za 1€ uložen u marketing, advokatske kancelarije zarađuju 8-12€ kroz nove predmete.' },
 ]
 
+const matterModes = [
+  {
+    title: 'Hitni predmeti gde klijent zove odmah',
+    text: 'Kod krivice, pritvora, hitnog otkaza ili spora koji gori pod nogama, klijent nema strpljenja za dugačko istraživanje. Tu presuđuju ozbiljan prvi utisak, jasan broj telefona i jaka vidljivost na Google-u baš u trenutku kad traži pomoć.',
+    route: '/google-reklame-cena',
+    routeLabel: 'Kada Search hvata najvredniji hitan intent',
+  },
+  {
+    title: 'Porodični i nasledni predmeti gde poverenje vodi odluku',
+    text: 'Kod razvoda, starateljstva i naslednih sporova ljudi ne traže samo stručnost. Traže osećaj da će ih neko voditi mirno, jasno i bez dodatne drame. Tu više rade ton, sadržaj, recenzije i sajt koji deluje ozbiljno nego bilo kakvo agresivno oglašavanje.',
+    route: '/izrada-wordpress-sajta-cena',
+    routeLabel: 'Šta traži sajt koji mora prvo da izgradi poverenje',
+  },
+  {
+    title: 'Privredni i B2B klijenti koji biraju po autoritetu',
+    text: 'Kad vas traži firma, ne odlučuje samo po tome ko je prvi na Google-u. Gleda specijalizaciju, jasan fokus, iskustvo i to da li delujete kao neko ko razume poslovni rizik. Tu marketing mora da pojača autoritet, ne samo da donese klik.',
+    route: '/cene-digitalnog-marketinga',
+    routeLabel: 'Kako paket i budžet pratiti kroz vrednije predmete, ne samo broj upita',
+  },
+  {
+    title: 'Kancelarija koja želi dugoročan priliv kroz sadržaj i SEO',
+    text: 'Ako ne želite da svaki novi klijent zavisi od preporuke ili oglasa, morate da gradite bazu tema koje ljudi već pretražuju. To je sporije od plaćenog oglasa, ali na duži rok pravi mnogo stabilniji tok upita i jači položaj na tržištu.',
+    route: '/seo-optimizacija-cena',
+    routeLabel: 'Kada SEO ima više smisla od još jednog kratkoročnog push-a',
+  },
+]
+
 const faqs = [
   { q: 'Da li advokati smeju da se reklamiraju?', a: 'Zakon o advokaturi ograničava klasično reklamiranje, ali ne i informativni sadržaj. Sajt, blog, Google Business profil i SEO optimizacija su potpuno dozvoljeni. Ključ je da sadržaj bude informativan i edukativan, ne reklamni u klasičnom smislu.' },
   { q: 'Koliko košta marketing za advokatsku kancelariju?', a: 'Osnovni paket (sajt + SEO + Google Business) kreće od 500€ mesečno. Sa Google Ads kampanjama, realan budžet je 800-2.500€. Jedan novi klijent obično pokriva troškove marketinga za ceo mesec.' },
@@ -123,6 +150,32 @@ export default function MarketingZaAdvokatePage() {
               </div>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* Decision layer */}
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[980px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
+          <div className="max-w-[760px] mx-auto text-center mb-8">
+            <h2 className="text-[24px] md:text-[30px] font-medium text-ink mb-3">Šta radi za hitne slučajeve, porodične sporove i poslovne klijente</h2>
+            <p className="text-[15px] text-ink-2 leading-relaxed">
+              Nije svakoj kancelariji potreban isti marketing. Jedna lovi hitne pozive, druga gradi poverenje za porodične predmete, treća hoće ozbiljnije privredne klijente. Kad to ne odvojite, marketing lako deluje aktivno, a ne dovodi pravu vrstu predmeta.
+            </p>
+          </div>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {matterModes.map((item) => (
+              <div key={item.title} className="rounded-[16px] border border-edge bg-page p-5 md:p-6">
+                <h3 className="text-[18px] font-medium text-ink mb-3">{item.title}</h3>
+                <p className="text-[14px] text-ink-2 leading-relaxed mb-4">{item.text}</p>
+                <Link to={item.route} className="text-[13px] text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+                  {item.routeLabel}
+                </Link>
+              </div>
+            ))}
+          </div>
+          <p className="text-[14px] text-ink-3 leading-relaxed mt-8 text-center max-w-[760px] mx-auto">
+            Ako niste sigurni da li kancelarija prvo treba da hvata hitne leadove, da gradi autoritet ili da jača SEO bazu tema, pošaljite nam kratak opis kroz <Link to="/kontakt" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">kontakt formu</Link> i reći ćemo vam šta ima najviše smisla da ide prvo.
+          </p>
         </div>
       </section>
 
