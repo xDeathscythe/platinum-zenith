@@ -21329,42 +21329,42 @@ Prepoznajete li neke od ovih blokova? [Javite nam se](/kontakt) i napravicemo pl
   {
     slug: 'komunikacija-u-prodaji-kako-napisati-ponudu',
     title: 'Komunikacija u prodaji: kako napisati ponudu koja zatvara',
-    excerpt: 'Ponude koje se šalju i zaborave vs ponude nakon kojih klijent pita "Kad možemo da pocnemo?" Razlika je u strukturi.',
+    excerpt: 'Ponude koje se šalju i zaborave vs ponude nakon kojih klijent pita "Kad možemo da počnemo?" Razlika je u strukturi.',
     date: '2026-02-20',
     category: 'Biznis',
     readTime: '6 min',
     content: `
-## Zašto vecina ponuda završi u korpi za smece
+## Zašto većina ponuda završi u korpi za smeće
 
-Prosecna ponuda izgleda ovako: zaglavlje firme, lista usluga, tabela sa cenama, potpis. Klijent je procita za 30 sekundi, uporedi cenu sa konkurencijom i izabere jeftinijeg.
+Prosečna ponuda izgleda ovako: zaglavlje firme, lista usluga, tabela sa cenama, potpis. Klijent je pročita za 30 sekundi, uporedi cenu sa konkurencijom i izabere jeftinijeg.
 
 Problem nije u ceni. Problem je u tome što ponuda ne komunicira vrednost. Kad je jedina informacija lista usluga i cena, jedini kriterijum za odluku je cena.
 
 ## Struktura ponude koja zatvara
 
-### 1. Pocnite sa problemom klijenta, ne sa vašim uslugama
+### 1. Počnite sa problemom klijenta, ne sa vašim uslugama
 
-Prvih 3-5 recenica ponude treba da pokau da razumete situaciju klijenta. Ne genericki, vec specificno.
+Prvih 3-5 rečenica ponude treba da pokažu da razumete situaciju klijenta. Ne generički, već specifično.
 
 Loše: "Nudimo usluge digitalnog marketinga za vaš biznis."
 
-Dobro: "Vaa firma trenutno dobija oko 200 poseta mesecno na sajtu, od kojih se 3-4 konvertuju u upit. Sa 20.000 pretplata na Instagram-u, organski doseg je pao na ispod 2%. Imate publiku ali nemate sistem koji je pretvara u klijente."
+Dobro: "Vaša firma trenutno dobija oko 200 poseta mesečno na sajtu, od kojih se 3-4 konvertuju u upit. Sa 20.000 pratilaca na Instagramu, organski doseg je pao na ispod 2%. Imate publiku, ali nemate sistem koji je pretvara u klijente."
 
-Kad klijent procita ovo, razmilja: "Ovi ljudi razumeju moj problem." To je temelj za sve ostalo.
+Kad klijent pročita ovo, razmišlja: "Ovi ljudi razumeju moj problem." To je temelj za sve ostalo.
 
-### 2. Pokaite eleni rezultat pre nego što objasnite kako
+### 2. Pokažite željeni rezultat pre nego što objasnite kako
 
 Ne zanima klijenta vaš proces. Zanima ga rezultat.
 
-"Nakon 90 dana, cilj je: 800-1.200 poseta mesecno na sajtu, 15-25 kvalifikovanih upita mesecno, funkcionalan email funnel koji konvertuje 20% lead-ova u konsultacije."
+"Nakon 90 dana, cilj je: 800-1.200 poseta mesečno na sajtu, 15-25 kvalifikovanih upita mesečno, funkcionalan email funnel koji konvertuje 20% lead-ova u konsultacije."
 
 Sad klijent vidi šta dobija. Cena se procenjuje u kontekstu rezultata, ne u vakuumu.
 
-> Klijent ne kupuje vašu uslugu. Kupac kupuje buducnost u kojoj je njegov problem reen.
+> Klijent ne kupuje vašu uslugu. Kupac kupuje budućnost u kojoj je njegov problem rešen.
 
 ### 3. Objasnite proces u 3-5 koraka
 
-Kratak pregled kako cete stici do rezultata. Ne detaljan plan rada (to je za onboarding), vec dovoljno da klijent vidi da imate sistem.
+Kratak pregled kako ćete stići do rezultata. Ne detaljan plan rada (to je za onboarding), već dovoljno da klijent vidi da imate sistem.
 
 "Faza 1 (nedelja 1-2): Audit i strategija. Faza 2 (nedelja 3-4): Implementacija kampanja. Faza 3 (mesec 2+): Optimizacija i skaliranje."
 
@@ -21372,36 +21372,37 @@ Jednostavno, jasno i pokazuje da ovo nije improvizacija.
 
 ### 4. Prezentujte cenu kao investiciju sa ROI-om
 
-Ne: "Cena: 1.500€ mesecno"
+Ne: "Cena: 1.500€ mesečno"
 
-Da: "Investicija: 1.500€ mesecno. Na osnovu prosecnih rezultata u vašoj industriji, ocekivani povrat je 5-8 novih klijenata mesecno sa prosecnom vrednošću od 500€, što je 2.500-4.000€ novog prihoda mesecno."
+Da: "Investicija: 1.500€ mesečno. Na osnovu prosečnih rezultata u vašoj industriji, očekivani povrat je 5-8 novih klijenata mesečno sa prosečnom vrednošću od 500€, što je 2.500-4.000€ novog prihoda mesečno."
 
-Sad 1.500€ nije troak. To je investicija sa 2-3x povratom.
+Sad 1.500€ nije trošak. To je investicija sa 2-3x povratom.
 
 ### 5. Eliminišite rizik
 
 Dodajte garanciju ili uslov koji smanjuje rizik za klijenta:
 
-"Ako u prvih 60 dana ne vidite merljivo poboljanje u broju upita, produavamo rad besplatno do kraja kvartala."
+"Ako u prvih 60 dana ne vidite merljivo poboljšanje u broju upita, produžavamo rad besplatno do kraja kvartala."
 
-Ovo pokazuje da verujete u svoj rad. Klijent koji vidi da agencija preuzima deo rizika na sebe mnogo lake donosi odluku.
+Ovo pokazuje da verujete u svoj rad. Klijent koji vidi da agencija preuzima deo rizika na sebe mnogo lakše donosi odluku.
 
-### 6. Zavrite sa jasnim sledecim korakom
+### 6. Završite sa jasnim sledećim korakom
 
 Ne: "Javite nam se ako imate pitanja."
 
-Da: "Sledeci korak: zakazujemo 30-minutni poziv u cetvrtak u 11h gde prolazimo kroz detalje i odgovaramo na pitanja. Ako vam odgovara, odgovorite sa potvrdom i poaljemo calendar invite."
+Da: "Sledeći korak: zakazujemo 30-minutni poziv u četvrtak u 11h gde prolazimo kroz detalje i odgovaramo na pitanja. Ako vam odgovara, odgovorite sa potvrdom i šaljemo calendar invite."
 
-Konkretan, vremenski definisan sledeci korak. Nema nejasnoce.
+Konkretan, vremenski definisan sledeći korak. Nema nejasnoće.
 
-Ako elite strukturiran pogled na vaš biznis, pogledajte na [consulting program](/consulting).
+Ako želite strukturiran pogled na vaš biznis, pogledajte naš [consulting program](/consulting).
 
-Takođe preporucujemo: [Kako napisati ponudu koja zatvara posao za 24 sata](/blog/komunikacija-u-prodaji-kako-napisati-ponudu).
+Takođe preporučujemo: [Kako napisati ponudu koja zatvara posao za 24 sata](/blog/komunikacija-u-prodaji-kako-napisati-ponudu).
 
 ---
 
-elite pomoc da napravite ponudu koja zatvara klijente? [Javite nam se](/kontakt).
+Želite pomoć da napravite ponudu koja zatvara klijente? [Javite nam se](/kontakt).
 `,
+
   },
   {
     slug: 'kako-izabrati-pravu-marketing-agenciju',

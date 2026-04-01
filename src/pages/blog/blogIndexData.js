@@ -1769,7 +1769,7 @@ export const blogIndexPosts = [
   {
     "slug": "komunikacija-u-prodaji-kako-napisati-ponudu",
     "title": "Komunikacija u prodaji: kako napisati ponudu koja zatvara",
-    "excerpt": "Ponude koje se šalju i zaborave vs ponude nakon kojih klijent pita \"Kad možemo da pocnemo?\" Razlika je u strukturi.",
+    "excerpt": "Ponude koje se šalju i zaborave vs ponude nakon kojih klijent pita \"Kad možemo da počnemo?\" Razlika je u strukturi.",
     "date": "2026-02-20",
     "category": "Biznis",
     "readTime": "6 min",
