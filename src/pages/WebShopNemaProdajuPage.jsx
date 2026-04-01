@@ -56,6 +56,33 @@ const faqs = [
   { q: 'Da li je Instagram dovoljan za prodaju ili mi treba web shop?', a: 'Instagram je odličan za privlačenje pažnje, ali loš za prodaju. Ne možete filtrirati proizvode, nema korpe, nema praćenja zaliha. Koristite Instagram da dovedete ljude na web shop, ne kao zamenu za njega.' },
 ]
 
+const diagnosisScenarios = [
+  {
+    title: 'Imate posete, ali skoro niko ne dodaje u korpu',
+    text: 'To obično znači da problem nije u broju ljudi, nego u stranici proizvoda. Ljudi vide proizvod i ne dobiju dovoljno razloga da naprave sledeći korak. Tu prvo gledate slike, opise, cenu dostave, rok isporuke i koliko jasno komunicirate zašto da kupe baš kod vas.',
+    route: '/cro',
+    routeLabel: 'Šta prvo gledati kada proizvodna stranica ne zatvara',
+  },
+  {
+    title: 'Ljudi dodaju u korpu, ali odustaju na kraju',
+    text: 'To je skoro uvek checkout ili poverenje. Previše koraka, obavezna registracija, nejasna dostava, manjak opcija plaćanja ili osećaj da kupovina nije dovoljno sigurna. Tu se novac često gubi poslednjih 30 sekundi pred kupovinu.',
+    route: '/blog/koliko-kosta-los-marketing',
+    routeLabel: 'Zašto problem nije uvek u oglasima nego u sistemu posle klika',
+  },
+  {
+    title: 'Nema dovoljno poseta da biste išta zaključili',
+    text: 'Ako na sajt dolazi premalo ljudi, ne možete pošteno ni da dijagnostikujete konverziju. Tada je prioritet akvizicija: da dovedete dovoljno relevantnog saobraćaja preko Google pretrage, shopping kampanja ili remarketinga da biste uopšte videli gde funnel puca.',
+    route: '/google-reklame-cena',
+    routeLabel: 'Kako složiti prvi smislen budžet za kupovni saobraćaj',
+  },
+  {
+    title: 'Prodaja postoji, ali ne ostavlja zdrav profit',
+    text: 'Ovo je podmukao scenario. Shop tehnički prodaje, ali marža se istopi na popustima, skupom kliku, preskupoj dostavi ili lošem prosečnom iznosu korpe. Tada ne jurite samo više prodaja. Jurite bolju ekonomiku svake porudžbine.',
+    route: '/cene-digitalnog-marketinga',
+    routeLabel: 'Kada marketing treba vezati za profit, ne samo za broj porudžbina',
+  },
+]
+
 export default function WebShopNemaProdajuPage() {
   usePageMeta()
 
@@ -126,6 +153,36 @@ export default function WebShopNemaProdajuPage() {
               </div>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* Read your numbers */}
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[980px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
+          <h2 className="text-[24px] md:text-[30px] font-medium text-ink mb-4 text-center">Šta vam zapravo govore brojevi u shopu?</h2>
+          <p className="text-[15px] text-ink-3 text-center mb-8 max-w-[760px] mx-auto">
+            Većina vlasnika shopa zna samo da "nema dovoljno prodaje". To je tačno, ali nije dovoljno korisno. Mnogo je bitnije da znate na kom delu puta ljudi odustaju, jer tek tada znate da li popravljate stranicu, checkout ili saobraćaj.
+          </p>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {diagnosisScenarios.map((item) => (
+              <div key={item.title} className="rounded-[14px] border border-edge bg-page/40 p-5 md:p-6">
+                <h3 className="text-[16px] font-medium text-ink mb-3">{item.title}</h3>
+                <p className="text-[14px] text-ink-2 leading-relaxed mb-4">{item.text}</p>
+                <Link to={item.route} className="text-[13px] text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+                  {item.routeLabel}
+                </Link>
+              </div>
+            ))}
+          </div>
+
+          <p className="text-[14px] text-ink-3 leading-relaxed mt-8 text-center max-w-[760px] mx-auto">
+            Ako želite da ne nagađate, pošaljite nam osnovne brojke iz shopa kroz{' '}
+            <Link to="/kontakt" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+              kontakt formu
+            </Link>{' '}
+            i reći ćemo vam da li prvo treba da popravljate konverziju, checkout ili akviziciju.
+          </p>
         </div>
       </section>
 
