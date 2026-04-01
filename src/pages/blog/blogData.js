@@ -21050,7 +21050,7 @@ elite da napravimo lead magnet za vaš biznis? [Javite nam se](/kontakt) i dizaj
   },
   {
     slug: 'brending-za-male-firme-identitet-vazniji-od-loga',
-    title: 'Brending za male firme: zašto je identitet vašniji od loga',
+    title: 'Brending za male firme: zašto je identitet važniji od loga',
     excerpt: 'Logo je samo početak. Brend je utisak koji ljudi pamte. Evo kako male firme grade jasan identitet koji podiže poverenje, cenu i prodaju.',
     date: '2026-02-21',
     category: 'Marketing',
@@ -21058,59 +21058,60 @@ elite da napravimo lead magnet za vaš biznis? [Javite nam se](/kontakt) i dizaj
     content: `
 ## Logo nije brend
 
-Vecina vlasnika malih firmi misli da je brending = logo + boje + font. Plate dizajneru 500€ za logo, odaberu plavu i belu boju jer "deluje profesionalno" i smatraju da su gotovi sa brendingom.
+Većina vlasnika malih firmi misli da je brending = logo + boje + font. Plate dizajneru 500€ za logo, odaberu plavu i belu boju jer "deluje profesionalno" i smatraju da su gotovi sa brendingom.
 
-Onda se pitaju zašto ih niko ne pamti. Zašto klijenti ne mogu da objasne šta ih razlikuje od konkurencije. Zašto se takmice iskljucivo cenom.
+Onda se pitaju zašto ih niko ne pamti. Zašto klijenti ne mogu da objasne šta ih razlikuje od konkurencije. Zašto se takmiče isključivo cenom.
 
-Brend nije vizuelni identitet. Brend je odgovor na pitanje: "Zašto bih izabrao vas umesto bilo koga drugog?" Ako vaš odgovor na to pitanje je "jer smo profesionalni i pouzdani," imate problem. Jer to kaže svaka firma na planeti.
+Brend nije vizuelni identitet. Brend je odgovor na pitanje: "Zašto bih izabrao vas umesto bilo koga drugog?" Ako vaš odgovor na to pitanje glasi "jer smo profesionalni i pouzdani", imate problem. Jer to kaže svaka firma na planeti.
 
-## šta brend zapravo jeste
+## Šta brend zapravo jeste
 
 Brend je kombinacija tri stvari:
 
-**1. Pozicioniranje:** Za koga ste i šta reavate. "Marketing agencija za stomatološke ordinacije koje ele više pacijenata." Ne "marketing agencija."
+**1. Pozicioniranje:** Za koga ste i šta rešavate. "Marketing agencija za stomatološke ordinacije koje žele više pacijenata." Ne "marketing agencija."
 
-**2. Poruka:** Kako komunicirate. Ton, stil, recnik. Firma koja koristi "Pomaemo vam da skalirate akviziciju" i firma koja kaže "Dovedemo vam više klijenata" ciljaju razlicite ljude. Obe su OK. Ali morate izabrati.
+**2. Poruka:** Kako komunicirate. Ton, stil, rečnik. Firma koja koristi "Pomažemo vam da skalirate akviziciju" i firma koja kaže "Dovedemo vam više klijenata" ciljaju različite ljude. Obe su OK. Ali morate izabrati.
 
-**3. Iskustvo:** Kako se klijent oseca kad radi sa vama. Od prvog kontakta do poslednje fakture. Svaka tacka kontakta gradi ili rui brend.
+**3. Iskustvo:** Kako se klijent oseća kad radi sa vama. Od prvog kontakta do poslednje fakture. Svaka tačka kontakta gradi ili ruši brend.
 
-> Brend nije ono što vi kažete o sebi. Brend je ono što vaši klijenti kau o vama kad niste u sobi.
+> Brend nije ono što vi kažete o sebi. Brend je ono što vaši klijenti kažu o vama kad niste u sobi.
 
 ## Kako mala firma gradi brend
 
-### Korak 1: Definišite jednu stvar po kojoj ste drugaciji
+### Korak 1: Definišite jednu stvar po kojoj ste drugačiji
 
-Ne pet stvari. Jednu. Moe biti nia, može biti pristup, može biti garancija. Nešto što konkurencija ne radi ili ne komunicira.
+Ne pet stvari. Jednu. Može biti niša, može biti pristup, može biti garancija. Nešto što konkurencija ne radi ili ne komunicira.
 
-Primer: "Jedina agencija u Zrenjaninu koja garantuje minimum 20 lead-ova mesecno ili ne placate." To je pozicioniranje koje se pamti.
+Primer: "Jedina agencija u Zrenjaninu koja garantuje minimum 20 lead-ova mesečno ili ne plaćate." To je pozicioniranje koje se pamti.
 
 ### Korak 2: Izaberite ton komunikacije
 
-Profesionalan i ozbiljan? Oputen i prijateljski? Provokativan i direktan? Nema pogrešnog odgovora, ali morate biti dosledni. Firma koja je na sajtu formalna a na Instagram-u koristi sleng zbunjuje publiku.
+Profesionalan i ozbiljan? Opušten i prijateljski? Provokativan i direktan? Nema pogrešnog odgovora, ali morate biti dosledni. Firma koja je na sajtu formalna, a na Instagramu koristi sleng, zbunjuje publiku.
 
 ### Korak 3: Budite konzistentni svuda
 
-Isti ton na sajtu, u emailu, na drutvenim mrežama, u ponudi, na fakturi. Konzistentnost gradi prepoznatljivost. Prepoznatljivost gradi poverenje. Poverenje prodaje.
+Isti ton na sajtu, u emailu, na društvenim mrežama, u ponudi, na fakturi. Konzistentnost gradi prepoznatljivost. Prepoznatljivost gradi poverenje. Poverenje prodaje.
 
-### Korak 4: Pricajte price, ne feature-e
+### Korak 4: Pričajte priče, ne feature-e
 
-Ljudi pamte price, ne specifikacije. "Podigli smo prodaju za 40%" je podatak. "Marko je imao 3 zaposlena i razmiljao da zatvori firmu. Posle 6 meseci rada sa nama, zaposlio je jo 4 osobe" je prica.
+Ljudi pamte priče, ne specifikacije. "Podigli smo prodaju za 40%" je podatak. "Marko je imao 3 zaposlena i razmišljao da zatvori firmu. Posle 6 meseci rada sa nama, zaposlio je još 4 osobe" je priča.
 
-## Prakticni koraci za brending bez velikog budžeta
+## Praktični koraci za brending bez velikog budžeta
 
-- **Napiite "O nama" stranicu koja zapravo govori nešto.** Ne korporativni argon, vec pravu pricu o tome zašto ste poceli i kome pomažete.
-- **Izaberite 3-5 vizuelnih elemenata** i drite ih se: paleta boja, font, stil fotografija, stil ikonica.
-- **Kreirajte "brand voice" dokument:** 10-15 pravila o tome kako komunicirate. šta kažete a šta ne. Koji su vaši izrazi a koji nisu.
-- **Budite prisutni redovno.** Brend koji se pojavi jednom mesecno ne postoji u glavama ljudi.
+- **Napišite "O nama" stranicu koja zapravo govori nešto.** Ne korporativni žargon, već pravu priču o tome zašto ste počeli i kome pomažete.
+- **Izaberite 3-5 vizuelnih elemenata** i držite ih se: paleta boja, font, stil fotografija, stil ikonica.
+- **Kreirajte "brand voice" dokument:** 10-15 pravila o tome kako komunicirate. Šta kažete, a šta ne. Koji su vaši izrazi, a koji nisu.
+- **Budite prisutni redovno.** Brend koji se pojavi jednom mesečno ne postoji u glavama ljudi.
 
-Saznajte više o naem [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
+Saznajte više o našem [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
 
-Takođe preporucujemo: [Social proof: kako koristiti recenzije za više prodaje](/blog/social-proof-recenzije-za-vise-prodaje).
+Takođe preporučujemo: [Social proof: kako koristiti recenzije za više prodaje](/blog/social-proof-recenzije-za-vise-prodaje).
 
 ---
 
-elite pomoc da izgradite brend koji se pamti? [Javite nam se](/kontakt) i definisacemo vašu poziciju na tržištu.
+Želite pomoć da izgradite brend koji se pamti? [Javite nam se](/kontakt) i definisaćemo vašu poziciju na tržištu.
 `,
+
   },
   {
     slug: 'video-marketing-zasto-video-dominira',

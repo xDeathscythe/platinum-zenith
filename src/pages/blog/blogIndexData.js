@@ -1732,7 +1732,7 @@ export const blogIndexPosts = [
   },
   {
     "slug": "brending-za-male-firme-identitet-vazniji-od-loga",
-    "title": "Brending za male firme: zašto je identitet vašniji od loga",
+    "title": "Brending za male firme: zašto je identitet važniji od loga",
     "excerpt": "Logo je samo početak. Brend je utisak koji ljudi pamte. Evo kako male firme grade jasan identitet koji podiže poverenje, cenu i prodaju.",
     "date": "2026-02-21",
     "category": "Marketing",
