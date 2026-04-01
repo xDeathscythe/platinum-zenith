@@ -88,6 +88,33 @@ const faqs = [
   { q: 'Da li je jeftinije angažovati in-house marketara?', a: 'Junior marketar u Srbiji prima 500-800€ mesečno. Ali jedna osoba ne pokriva SEO, oglase, dizajn i analitiku jednako dobro. Agencija vam za sličnu cenu daje pristup celom timu sa različitim specijalizacijama.' },
 ]
 
+const packageFitWarnings = [
+  {
+    title: 'Premali budžet za previše kanala',
+    text: 'Ako imate 400 do 600 evra ukupno mesečno i pokušate da pokrijete SEO, Google Ads, Instagram, email i sadržaj odjednom, dobićete utisak da marketing "ne radi". U stvarnosti, budžet se samo razmaže toliko tanko da nijedan kanal ne dobije šansu da pokaže rezultat.',
+    route: '/google-reklame-cena',
+    routeLabel: 'Kako izgleda fokusiran test budžet po kanalu',
+  },
+  {
+    title: 'Pun servis bez jasne ponude i sajta koji zatvara',
+    text: 'Nema mnogo smisla da plaćate full-service marketing ako sajt, poruka i CTA još nisu sređeni. Tada ne kupujete rast. Kupujete ubrzano otkrivanje problema koji su već postojali. To ponekad jeste korisno, ali nije isto što i skaliranje.',
+    route: '/izrada-wordpress-sajta-cena',
+    routeLabel: 'Šta prvo mora da bude sređeno pre većeg marketing budžeta',
+  },
+  {
+    title: 'SEO paket za firmu kojoj trebaju leadovi odmah',
+    text: 'SEO je odličan kanal, ali nije hitna infuzija za prodaju. Ako firmi trebaju upiti ovog meseca, a ne za šest meseci, SEO sam po sebi nije dovoljan. Tada se obično kombinuje sa plaćenim kanalom koji donosi brži signal sa tržišta.',
+    route: '/seo-optimizacija-cena',
+    routeLabel: 'Kad SEO ima smisla kao glavni, a kad kao pomoćni kanal',
+  },
+  {
+    title: 'Snažan paket bez internog kapaciteta da obradi leadove',
+    text: 'Ovo ljudi često preskoče. Nije problem samo da li marketing može da napravi upit, nego da li firma ima ko da odgovori, kvalifikuje i zatvori posao. Ako taj deo puca, veći paket samo pravi više neobrađenih prilika i deluje skuplje nego što jeste.',
+    route: '/consulting',
+    routeLabel: 'Kako složiti ownership i proces pre nego što pojačate spend',
+  },
+]
+
 export default function CeneDigitalnogMarketingaPage() {
   usePageMeta()
 
@@ -176,7 +203,7 @@ export default function CeneDigitalnogMarketingaPage() {
         <div className="max-w-[760px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
           <h2 id="kako-odrediti-budzet" className="text-[22px] md:text-[26px] font-medium text-ink mb-4">Kako da odredite budžet bez nagađanja</h2>
           <p className="text-[15px] text-ink-2 leading-relaxed mb-6">
-            Ako želite da marketing bude investicija, a ne trošak, budžet mora biti vezan za cilj prihoda i maržu — ne za osećaj. Ovaj okvir koristimo kao početnu kalkulaciju pre prve kampanje.
+            Ako želite da marketing bude investicija, a ne trošak, budžet mora biti vezan za cilj prihoda i maržu, ne za osećaj. Ovaj okvir koristimo kao početnu kalkulaciju pre prve kampanje.
           </p>
           <span id="cilj-prihoda" className="block h-0 overflow-hidden" aria-hidden="true" />
           <span id="maksimalni-cpl-cpa" className="block h-0 overflow-hidden" aria-hidden="true" />
@@ -190,6 +217,36 @@ export default function CeneDigitalnogMarketingaPage() {
               </li>
             ))}
           </ol>
+        </div>
+      </section>
+
+      {/* Package fit */}
+      <section className="px-4 md:px-8 pb-16 md:pb-24">
+        <div className="max-w-[980px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
+          <h2 className="text-[24px] md:text-[30px] font-medium text-ink mb-4 text-center">Kada skuplji paket ne znači i bolji rezultat</h2>
+          <p className="text-[15px] text-ink-3 text-center mb-8 max-w-[760px] mx-auto">
+            Veći paket ne rešava automatski problem. Nekad samo brže pokaže da su ponuda, sajt ili prodajni proces klimavi. Zato je korisnije da paket birate po fazi biznisa nego po želji da "pokrijete sve" odjednom.
+          </p>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {packageFitWarnings.map((item) => (
+              <div key={item.title} className="rounded-[14px] border border-edge bg-page/40 p-5 md:p-6">
+                <h3 className="text-[16px] font-medium text-ink mb-3">{item.title}</h3>
+                <p className="text-[14px] text-ink-2 leading-relaxed mb-4">{item.text}</p>
+                <Link to={item.route} className="text-[13px] text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+                  {item.routeLabel}
+                </Link>
+              </div>
+            ))}
+          </div>
+
+          <p className="text-[14px] text-ink-3 leading-relaxed mt-8 text-center max-w-[760px] mx-auto">
+            Ako niste sigurni da li vam treba osnovni paket, growth setup ili nešto između, pošaljite nam cilj i okviran budžet kroz{' '}
+            <Link to="/kontakt" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">
+              kontakt formu
+            </Link>{' '}
+            i reći ćemo vam gde ima smisla krenuti bez rasipanja novca.
+          </p>
         </div>
       </section>
 
