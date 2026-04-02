@@ -104,7 +104,7 @@ export const blogIndexPosts = [
   {
     "slug": "mobilni-marketing-i-m-commerce-statistika-2026",
     "title": "Mobilni marketing u 2026: 60% tržišta, konverzije od 2.8% i ROI mobilnih aplikacija",
-    "excerpt": "Mobilna trgovina (m-commerce) dostize 2.4 triliona dolara u 2026. Telefon donosi 75% saobracaja, ali konverzije variraju. Saznajte benchmark podatke po industriji.",
+    "excerpt": "Mobilna trgovina (m-commerce) dostize 2.4 triliona dolara u 2026. Telefon donosi 75% saobraćaja, ali konverzije variraju. Saznajte benchmark podatke po industriji.",
     "date": "2026-03-26",
     "category": "Marketing",
     "readTime": "8 min",
@@ -274,8 +274,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "google-ads-smart-bidding-vs-manual-statistika-2026",
-    "title": "Google Ads Smart Bidding vs rucno: koliko automatizacija zaista poboljsava rezultate",
-    "excerpt": "Statistike o Google Ads Smart Bidding performansama 2025-2026. Target CPA vs Target ROAS, manual vs automated i koliko AI poboljsava konverzije.",
+    "title": "Google Ads Smart Bidding vs rucno: koliko automatizacija zaista poboljšava rezultate",
+    "excerpt": "Statistike o Google Ads Smart Bidding performansama 2025-2026. Target CPA vs Target ROAS, manual vs automated i koliko AI poboljšava konverzije.",
     "date": "2026-03-24",
     "category": "Google Ads",
     "readTime": "7 min",
@@ -302,7 +302,7 @@ export const blogIndexPosts = [
   {
     "slug": "prosecna-vrednost-porudzbine-aov-po-industriji-benchmark-statistika-2026",
     "title": "Prosečna vrednost porudžbine (AOV) po industriji: benchmark podaci za 2025-2026",
-    "excerpt": "Kolika je prosečna vrednost narudzbine u e-commerce-u, modi, elektronici i food delivery-ju? Citirani benchmark podaci za 2025-2026, AOV po uredjaju i strategije za povećanje.",
+    "excerpt": "Kolika je prosečna vrednost narudzbine u e-commerce-u, modi, elektronici i food delivery-ju? Citirani benchmark podaci za 2025-2026, AOV po uređaju i strategije za povećanje.",
     "date": "2026-03-23",
     "category": "CRO",
     "readTime": "10 min",
@@ -365,7 +365,7 @@ export const blogIndexPosts = [
   {
     "slug": "prosecna-stopa-konverzije-po-industriji-benchmark-statistika-2026",
     "title": "Prosečna stopa konverzije po industriji: benchmark podaci za 2025-2026",
-    "excerpt": "Koliki je prosek konverzije u e-commerce, B2B, SaaS i na landing stranicama? Benchmark statistika po industriji, uredjaju i kanalu sa citiranim izvorima.",
+    "excerpt": "Koliki je prosek konverzije u e-commerce, B2B, SaaS i na landing stranicama? Benchmark statistika po industriji, uređaju i kanalu sa citiranim izvorima.",
     "date": "2026-03-22",
     "category": "CRO",
     "readTime": "9 min",
@@ -410,7 +410,7 @@ export const blogIndexPosts = [
   {
     "slug": "koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026",
     "title": "Koliko firme troše na marketing: procenat prihoda po industriji (2025-2026 podaci)",
-    "excerpt": "Realni podaci o marketing budzetu kao procentu prihoda po industriji u 2025-2026. Gartner, Deloitte i CMO Survey benchmarci za B2B i B2C firme.",
+    "excerpt": "Realni podaci o marketing budžetu kao procentu prihoda po industriji u 2025-2026. Gartner, Deloitte i CMO Survey benchmarci za B2B i B2C firme.",
     "date": "2026-03-21",
     "category": "Biznis",
     "readTime": "9 min",
@@ -455,7 +455,7 @@ export const blogIndexPosts = [
   {
     "slug": "mobilna-vs-desktop-kupovina-konverzije-statistika-2026",
     "title": "Mobilna vs desktop kupovina: ko zaista kupuje i gde gubite prodaju",
-    "excerpt": "Statistike o mobilnoj vs desktop kupovini 2026. Zašto 75% saobracaja dolazi sa telefona ali desktop i dalje ima veću konverziju — i kako to popraviti.",
+    "excerpt": "Statistike o mobilnoj vs desktop kupovini 2026. Zašto 75% saobraćaja dolazi sa telefona ali desktop i dalje ima veću konverziju — i kako to popraviti.",
     "date": "2026-03-21",
     "category": "E-Commerce",
     "readTime": "8 min",
@@ -563,7 +563,7 @@ export const blogIndexPosts = [
   {
     "slug": "lokalni-seo-citati-direktorijumi-srbija-2026",
     "title": "Lokalni SEO citati i direktorijumi u Srbiji 2026: gde registrovati firmu",
-    "excerpt": "Lista najvaznijih online direktorijuma za srpske firme 2026. Kako NAP konzistentnost i lokalni citati poboljsavaju rangiranje na Google mapi.",
+    "excerpt": "Lista najvažnijih online direktorijuma za srpske firme 2026. Kako NAP konzistentnost i lokalni citati poboljšavaju rangiranje na Google mapi.",
     "date": "2026-03-19",
     "category": "Lokalni SEO",
     "readTime": "7 min",
@@ -644,7 +644,7 @@ export const blogIndexPosts = [
   {
     "slug": "wordpress-bezbednost-vodic-srbija-2026",
     "title": "WordPress bezbednost u 2026: 10 koraka da zastite sajt od hakera",
-    "excerpt": "Vodič za zastitu WordPress sajta od hakovanja. 10 prakticnih koraka koje svaki vlasnik sajta u Srbiji može da primeni danas bez tehnickog znanja.",
+    "excerpt": "Vodič za zaštitu WordPress sajta od hakovanja. 10 praktičnih koraka koje svaki vlasnik sajta u Srbiji može da primeni danas bez tehničkog znanja.",
     "date": "2026-03-19",
     "category": "WordPress",
     "readTime": "8 min",
@@ -662,7 +662,7 @@ export const blogIndexPosts = [
   {
     "slug": "mobilni-dizajn-sajta-srbija-2026",
     "title": "Mobilni dizajn sajta u Srbiji 2026: zašto je telefon važniji od desktopa",
-    "excerpt": "Preko 75% saobracaja u Srbiji dolazi sa telefona. Vodič za mobilni web dizajn koji konvertuje: brzina, navigacija, forme i tipovi sadržaja.",
+    "excerpt": "Preko 75% saobraćaja u Srbiji dolazi sa telefona. Vodič za mobilni web dizajn koji konvertuje: brzina, navigacija, forme i tipovi sadržaja.",
     "date": "2026-03-19",
     "category": "Web Design",
     "readTime": "7 min",
@@ -698,7 +698,7 @@ export const blogIndexPosts = [
   {
     "slug": "kako-napraviti-landing-stranicu-koja-konvertuje-srbija-2026",
     "title": "Kako napraviti landing stranicu koja konvertuje u Srbiji 2026",
-    "excerpt": "Vodič za kreiranje landing stranice koja pretvara posetioce u klijente. 7 elemenata koji cine razliku izmedju 1% i 10% stope konverzije.",
+    "excerpt": "Vodič za kreiranje landing stranice koja pretvara posetioce u klijente. 7 elemenata koji cine razliku između 1% i 10% stope konverzije.",
     "date": "2026-03-18",
     "category": "Lead Generation",
     "readTime": "8 min",
@@ -707,7 +707,7 @@ export const blogIndexPosts = [
   {
     "slug": "ab-testiranje-sajta-srbija-2026",
     "title": "A/B testiranje sajta u Srbiji 2026: kako doneti odluke na osnovu podataka",
-    "excerpt": "Vodič za A/B testiranje za srpske firme 2026. Besplatni alati, šta testirati prvo, koliko saobracaja treba i kako interpretirati rezultate.",
+    "excerpt": "Vodič za A/B testiranje za srpske firme 2026. Besplatni alati, šta testirati prvo, koliko saobraćaja treba i kako interpretirati rezultate.",
     "date": "2026-03-18",
     "category": "CRO",
     "readTime": "8 min",
@@ -725,7 +725,7 @@ export const blogIndexPosts = [
   {
     "slug": "woocommerce-vs-shopify-srbija-2026",
     "title": "WooCommerce vs Shopify u Srbiji 2026: koji je bolji izbor za vasu prodavnicu",
-    "excerpt": "Detaljno poredjenje WooCommerce-a i Shopify-ja za srpsko tržište 2026. Troškovi, plaćanje, dostava, skalabilnost i koji je pravi izbor za vas biznis.",
+    "excerpt": "Detaljno poređenje WooCommerce-a i Shopify-ja za srpsko tržište 2026. Troškovi, plaćanje, dostava, skalabilnost i koji je pravi izbor za vas biznis.",
     "date": "2026-03-18",
     "category": "WordPress",
     "readTime": "9 min",
@@ -914,7 +914,7 @@ export const blogIndexPosts = [
   {
     "slug": "email-marketing-cena-srbija-2026",
     "title": "Email marketing cena u Srbiji 2026: alati, strategije i realan ROI",
-    "excerpt": "Koliko košta email marketing za firmu u Srbiji 2026. Poredjenje alata (Mailchimp, Brevo, Klaviyo), cene po broju kontakata i strategije koje donose rezultate.",
+    "excerpt": "Koliko košta email marketing za firmu u Srbiji 2026. Poređenje alata (Mailchimp, Brevo, Klaviyo), cene po broju kontakata i strategije koje donose rezultate.",
     "date": "2026-03-17",
     "category": "Marketing",
     "readTime": "9 min",
@@ -958,7 +958,7 @@ export const blogIndexPosts = [
   },
   {
     "slug": "seo-za-privatne-klinike-cena-srbija-2026",
-    "title": "SEO za privatne klinike u Srbiji 2026: cena, rokovi i kako privuci pacijente bez oglasa",
+    "title": "SEO za privatne klinike u Srbiji 2026: cena, rokovi i kako privući pacijente bez oglasa",
     "excerpt": "Koliko košta SEO optimizacija za privatnu kliniku u Srbiji 2026. Realni rasponi cena, šta donosi lokalni SEO i zašto organski saobraćaj smanjuje zavisnost od oglasa.",
     "date": "2026-03-17",
     "category": "SEO",
@@ -1085,7 +1085,7 @@ export const blogIndexPosts = [
   {
     "slug": "tiktok-vs-instagram-reklame-srbija-2026",
     "title": "TikTok reklame vs Instagram reklame: gde uloziti budžet u Srbiji 2026?",
-    "excerpt": "Prakticno poredjenje cene klika, kvaliteta lead-ova i organskog dosega na TikToku i Instagramu za tržište Srbije. Šta se isplati za B2B, a šta za e-commerce?",
+    "excerpt": "Praktično poređenje cene klika, kvaliteta lead-ova i organskog dosega na TikToku i Instagramu za tržište Srbije. Šta se isplati za B2B, a šta za e-commerce?",
     "date": "2026-03-15",
     "category": "Marketing",
     "readTime": "6 min",
@@ -1480,7 +1480,7 @@ export const blogIndexPosts = [
   },
   {
     "slug": "google-ads-za-kozmeticki-salon-cena-termina-srbija-2026",
-    "title": "Google Ads za kozmeticki salon u Srbiji 2026: cena termina i realan budžet",
+    "title": "Google Ads za kozmetički salon u Srbiji 2026: cena termina i realan budžet",
     "excerpt": "Praktičan vodič za vlasnice kozmetičkih salona: koliko košta Google Ads u Srbiji 2026, koji budžet ima smisla i kako da merite cenu zakazanog termina umesto praznih klikova.",
     "date": "2026-03-12",
     "category": "Google Ads",
@@ -1787,7 +1787,7 @@ export const blogIndexPosts = [
   {
     "slug": "social-proof-recenzije-za-vise-prodaje",
     "title": "Social proof: kako koristiti recenzije za više prodaje",
-    "excerpt": "92% kupaca cita recenzije pre kupovine. Evo kako da recenzije rade za vas umesto da stoje kao ukras na sajtu i da ih ljudi jedva primete.",
+    "excerpt": "92% kupaca čita recenzije pre kupovine. Evo kako da recenzije rade za vas umesto da stoje kao ukras na sajtu i da ih ljudi jedva primete.",
     "date": "2026-02-20",
     "category": "Marketing",
     "readTime": "6 min",
@@ -2065,8 +2065,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "kako-skalirati-placene-oglase-bez-bacanja-novca",
-    "title": "Kako skalirati placene oglase bez bacanja novca",
-    "excerpt": "Većina firmi koje koriste placene oglase ili troši premalo da vidi rezultate ili previše na pogrešne stvari. Evo sistema za skaliranje koji zapravo funkcioniše.",
+    "title": "Kako skalirati plaćene oglase bez bacanja novca",
+    "excerpt": "Većina firmi koje koriste plaćene oglase ili troši premalo da vidi rezultate ili previše na pogrešne stvari. Evo sistema za skaliranje koji zapravo funkcioniše.",
     "date": "2026-03-05",
     "category": "Marketing",
     "readTime": "8 min",
@@ -2174,7 +2174,7 @@ export const blogIndexPosts = [
   {
     "slug": "koliko-brzo-google-ads-donosi-prve-klijente-srbija-2026",
     "title": "Koliko brzo Google Ads donosi prve klijente u Srbiji 2026: realni rokovi i šta meriti",
-    "excerpt": "Ako tek krecete sa Google oglasima, najvece pitanje je kada stizu prvi ozbiljni leadovi. Evo realnog 7/30/90 plana, šta usporava rezultat i kako da izbegnete bacanje budžeta.",
+    "excerpt": "Ako tek krećete sa Google oglasima, najveće pitanje je kada stižu prvi ozbiljni leadovi. Evo realnog 7/30/90 plana, šta usporava rezultat i kako da izbegnete bacanje budžeta.",
     "date": "2026-03-12",
     "category": "Google Ads",
     "readTime": "8 min",
@@ -2228,7 +2228,7 @@ export const blogIndexPosts = [
   {
     "slug": "kako-odrediti-budzet-za-google-reklame-srbija-2026",
     "title": "Kako odrediti budžet za Google reklame u Srbiji 2026: praktičan model pre prvog evra",
-    "excerpt": "Korak-po-korak model kako da izracunate realan Google Ads budžet u Srbiji 2026, od maksimalnog CPL-a do test faze i skaliranja bez rasipanja para.",
+    "excerpt": "Korak-po-korak model kako da izračunate realan Google Ads budžet u Srbiji 2026, od maksimalnog CPL-a do test faze i skaliranja bez rasipanja para.",
     "date": "2026-03-14",
     "category": "Google Ads",
     "readTime": "11 min",
@@ -2273,7 +2273,7 @@ export const blogIndexPosts = [
   {
     "slug": "google-ads-budzet-kalkulator-cpa-srbija-2026",
     "title": "Google Ads budžet kalkulator Srbija 2026: kako da postaviš CPA granicu pre trošenja novca",
-    "excerpt": "Praktičan vodič za firme u Srbiji: kako da izračunaš realan Google Ads budžet, postaviš maksimalni CPA i izbegneš trosenje novca na klikove koji ne donose profit.",
+    "excerpt": "Praktičan vodič za firme u Srbiji: kako da izračunaš realan Google Ads budžet, postaviš maksimalni CPA i izbegneš trošenje novca na klikove koji ne donose profit.",
     "date": "2026-03-15",
     "category": "Google Ads",
     "readTime": "11 min",
@@ -2362,7 +2362,7 @@ export const blogIndexPosts = [
   },
   {
     "slug": "seo-za-hotele-i-smestaj-cena-srbija-2026",
-    "title": "SEO za hotele i smestaj u Srbiji 2026: cena, lokalni SEO i kako smanjiti zavisnost od Booking-a",
+    "title": "SEO za hotele i smeštaj u Srbiji 2026: cena, lokalni SEO i kako smanjiti zavisnost od Booking-a",
     "excerpt": "Koliko košta SEO optimizacija za hotel, apartman ili vilu u Srbiji 2026. Realni rasponi cena, šta donosi lokalni SEO i zašto organski saobraćaj smanjuje provizije OTA platformama.",
     "date": "2026-03-21",
     "category": "SEO",
@@ -2389,7 +2389,7 @@ export const blogIndexPosts = [
   },
   {
     "slug": "bounce-rate-po-industriji-uredjaju-i-izvoru-saobracaja-benchmark-2026",
-    "title": "Bounce rate po industriji, uredjaju i izvoru saobracaja: benchmark podaci za 2025-2026",
+    "title": "Bounce rate po industriji, uređaju i izvoru saobraćaja: benchmark podaci za 2025-2026",
     "excerpt": "Koliki je prosečan bounce rate po industriji, mobilni vs desktop, organski vs social saobraćaj? Citirane statistike i GA4 engagement rate benchmark za 2025-2026.",
     "date": "2026-03-22",
     "category": "CRO",
