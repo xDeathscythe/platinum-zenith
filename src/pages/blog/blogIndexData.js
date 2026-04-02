@@ -490,7 +490,7 @@ export const blogIndexPosts = [
   },
   {
     "slug": "google-ads-za-hotele-i-smestaj-cena-rezervacije-srbija-2026",
-    "title": "Google Ads za hotele i smestaj u Srbiji 2026: kako smanjiti zavisnost od Booking-a",
+    "title": "Google Ads za hotele i smeštaj u Srbiji 2026: kako smanjiti zavisnost od Booking-a",
     "excerpt": "Koliko košta Google Ads za hotele, apartmane i vile u Srbiji. Tipovi kampanja, budžeti, cena po direktnoj rezervaciji i strategija za smanjenje OTA provizije.",
     "date": "2026-03-20",
     "category": "Google Ads",
@@ -1479,7 +1479,7 @@ export const blogIndexPosts = [
     "isDraft": false
   },
   {
-    "slug": "google-ads-za-kozmeticki-salon-cena-termina-srbija-2026",
+    "slug": "google-ads-za-kozmetički-salon-cena-termina-srbija-2026",
     "title": "Google Ads za kozmetički salon u Srbiji 2026: cena termina i realan budžet",
     "excerpt": "Praktičan vodič za vlasnice kozmetičkih salona: koliko košta Google Ads u Srbiji 2026, koji budžet ima smisla i kako da merite cenu zakazanog termina umesto praznih klikova.",
     "date": "2026-03-12",
@@ -2284,14 +2284,14 @@ export const blogIndexPosts = [
     "title": "Instagram marketing za frizerske salone u Srbiji 2026: kako popuniti termine",
     "excerpt": "Praktičan vodič za vlasnike salona: koji Instagram format donosi zakazivanja, koliki budžet ima smisla i kako meriti da li vam marketing zaista puni stolice.",
     "date": "2026-03-17",
-    "category": "Drustvene Mreze",
+    "category": "Društvene Mreže",
     "readTime": "10 min",
     "isDraft": false
   },
   {
     "slug": "google-ads-za-frizerske-salone-cena-srbija-2026",
     "title": "Google Ads za frizerske salone u Srbiji 2026: cena termina, budžet i strategija",
-    "excerpt": "Koliko koštaju Google reklame za frizerske salone u Srbiji 2026, koji budžet ima smisla i kako da dovedete klijente koji vec traže vas tip usluge.",
+    "excerpt": "Koliko koštaju Google reklame za frizerske salone u Srbiji 2026, koji budžet ima smisla i kako da dovedete klijente koji vec traže vaš tip usluge.",
     "date": "2026-03-17",
     "category": "Marketing",
     "readTime": 9,
@@ -2327,7 +2327,7 @@ export const blogIndexPosts = [
   {
     "slug": "instagram-reklame-za-racunovodje-cena-klijenta-srbija-2026",
     "title": "Instagram reklame za računovođe u Srbiji 2026: koliko košta novi klijent i šta zapravo radi",
-    "excerpt": "Koliko koštaju Instagram reklame za računovodstvene agencije u Srbiji 2026, koji tipovi kampanja donose klijente i kako da ne bacite budžet na pogresan format.",
+    "excerpt": "Koliko koštaju Instagram reklame za računovodstvene agencije u Srbiji 2026, koji tipovi kampanja donose klijente i kako da ne bacite budžet na pogrešan format.",
     "date": "2026-03-17",
     "category": "Instagram Ads",
     "readTime": "10 min",
@@ -2352,8 +2352,17 @@ export const blogIndexPosts = [
     "isDraft": false
   },
   {
+    "slug": "google-ads-za-kozmeticki-salon-cena-termina-srbija-2026",
+    "title": "Google Ads za kozmetičke salone u Srbiji 2026: cena termina, budžet i strategija",
+    "excerpt": "Koliko koštaju Google reklame za kozmetičke salone u Srbiji 2026, koji budžet ima smisla i kako da dovedete klijente koji vec traže vaš tip tretmana.",
+    "date": "2026-03-17",
+    "category": "Marketing",
+    "readTime": 9,
+    "isDraft": false
+  },
+  {
     "slug": "instagram-reklame-za-hotele-i-smestaj-cena-rezervacije-srbija-2026",
-    "title": "Instagram reklame za hotele i smestaj u Srbiji 2026: cena po rezervaciji i strategija",
+    "title": "Instagram reklame za hotele i smeštaj u Srbiji 2026: cena po rezervaciji i strategija",
     "excerpt": "Koliko koštaju Instagram reklame za hotele, apartmane i vile u Srbiji. Tipovi kampanja, budžeti, kreativa koja privlaci goste i strategija za direktne rezervacije.",
     "date": "2026-03-20",
     "category": "Instagram Ads",

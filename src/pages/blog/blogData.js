@@ -6677,23 +6677,23 @@ Za profesionalnu WordPress optimizaciju i izbor pluginova, javite se preko [kont
   },
   {
     slug: 'google-ads-za-hotele-i-smestaj-cena-rezervacije-srbija-2026',
-    title: 'Google Ads za hotele i smestaj u Srbiji 2026: kako smanjiti zavisnost od Booking-a',
+    title: 'Google Ads za hotele i smeštaj u Srbiji 2026: kako smanjiti zavisnost od Booking-a',
     excerpt: 'Koliko košta Google Ads za hotele, apartmane i vile u Srbiji. Tipovi kampanja, budžeti, cena po direktnoj rezervaciji i strategija za smanjenje OTA provizije.',
     date: '2026-03-20',
     category: 'Google Ads',
     readTime: '9 min',
     content: `
-## Zasto vecina smestajnih objekata u Srbiji ne koristi Google Ads
+## Zašto vecina smestajnih objekata u Srbiji ne koristi Google Ads
 
-Booking uzima 15 posto. Airbnb uzima 3 posto od domacina plus 14 posto od gosta. Expedia, Hotels.com, slicna prica. Za objekat sa 50 nocenja mesecno po prosecnoj ceni od 60 evra, to je 450 do 750 evra mesecno u provizijama koje odlaze platformi.
+Booking uzima 15 posto. Airbnb uzima 3 posto od domacina plus 14 posto od gosta. Expedia, Hotels.com, slicna prica. Za objekat sa 50 noćenja mesečno po prosecnoj ceni od 60 evra, to je 450 do 750 evra mesečno u provizijama koje odlaze platformi.
 
 A vecina vlasnika smatra da je to "cena poslovanja" i da je Google Ads nesto komplikovano, skupo ili namenjeno samo velikim hotelskim lancima.
 
 Problem nije sto je Google Ads komplikovan. Problem je sto niko nije objasnio kako se meri: da li je jeftinije platiti Google za direktnu rezervaciju ili platiti Booking proviziju za istu tu rezervaciju. Odgovor je skoro uvek isti: Google je jeftiniji kad se postavi kako treba.
 
-Za siru sliku o troskovima Google reklama pogledajte [Google reklame cena](/google-reklame-cena). Za celokupnu marketing strategiju za smestaj, korisno je videti [marketing za hotele i smestaj](/marketing-za-hotele-i-smestaj).
+Za siru sliku o troskovima Google reklama pogledajte [Google reklame cena](/google-reklame-cena). Za celokupnu marketing strategiju za smeštaj, korisno je videti [marketing za hotele i smeštaj](/marketing-za-hotele-i-smestaj).
 
-## Kako gosti traze smestaj na Google-u
+## Kako gosti traže smeštaj na Google-u
 
 Pre nego sto palimo kampanje, treba razumeti sta gost kuca u Google:
 
@@ -6705,7 +6705,7 @@ Pre nego sto palimo kampanje, treba razumeti sta gost kuca u Google:
 **Faza 2: Trazenje smestaja**
 - "hotel Zlatibor cena"
 - "apartmani Sokobanja"
-- "smestaj Tara vikend"
+- "smeštaj Tara vikend"
 - "vile sa bazenom Srbija"
 
 **Faza 3: Konkretna rezervacija**
@@ -6719,22 +6719,22 @@ Faza 1 je za content marketing i SEO. Faze 2 i 3 su gde Google Ads donosi direkt
 
 ### 1. Search kampanje za direktne pretrage smestaja
 
-Ovo je temelj. Gost kuca "apartmani Zlatibor cena" i umesto da klikne na Booking rezultat, klikne na vas oglas koji vodi na vas sajt sa direktnom rezervacijom.
+Ovo je temelj. Gost kuca "apartmani Zlatibor cena" i umesto da klikne na Booking rezultat, klikne na vaš oglas koji vodi na vaš sajt sa direktnom rezervacijom.
 
-Kljucne reci koje najcesce donose rezervacije:
+Ključne reći koje najčešće donose rezervacije:
 - "[tip smestaja] [destinacija]" — hotel Zlatibor, apartmani Sokobanja
-- "[tip smestaja] [destinacija] cena" — vila Tara cena nocenja
-- "smestaj [destinacija] [period]" — smestaj Kopaonik nova godina
+- "[tip smestaja] [destinacija] cena" — vila Tara cena noćenja
+- "smeštaj [destinacija] [period]" — smeštaj Kopaonik nova godina
 - "[destinacija] sobe slobodne" — Vrnjacka Banja sobe slobodne
 
-Negativne kljucne reci su obavezne: iskljucite "posao", "zaposlenje", "recenzije", "forum", "booking" (ako ne zelite da placate klik onome ko ionako ide na Booking).
+Negativne ključne reći su obavezne: iskljucite "posao", "zaposlenje", "recenzije", "forum", "booking" (ako ne zelite da plaćate klik onome ko ionako ide na Booking).
 
-CPC za smestaj u Srbiji: 0,15e do 0,80e zavisno od destinacije i sezone. Zlatibor i Kopaonik su najskuplji, banje i manje destinacije jeftiniji.
+CPC za smeštaj u Srbiji: 0,15e do 0,80e zavisno od destinacije i sezone. Zlatibor i Kopaonik su najskuplji, banje i manje destinacije jeftiniji.
 
 ### 2. Performance Max kampanje
 
-Google-ov najnoviji tip kampanje koji automatski prikazuje oglase na Search, Display, YouTube, Maps, Gmail i Discover. Za smestaj je koristan jer:
-- Prikazuje vas objekat na Google Maps uz Search rezultate
+Google-ov najnoviji tip kampanje koji automatski prikazuje oglase na Search, Display, YouTube, Maps, Gmail i Discover. Za smeštaj je koristan jer:
+- Prikazuje vaš objekat na Google Maps uz Search rezultate
 - Automatski optimizuje kreative za razlicite formate
 - Koristi machine learning za targetiranje gostiju sa najvisim intent-om
 
@@ -6747,27 +6747,27 @@ Ovo je gde vecina objekata gubi najvise novca na OTA provizijama jer nemaju alte
 Pristup: posebna kampanja za svaki van-sezonski paket.
 - "Vikend za dvoje" paketi za parove (oktobar-mart)
 - "Wellness vikend" za banje i spa objekte (cela godina)
-- "Team building" i poslovni smestaj (cela godina)
+- "Team building" i poslovni smeštaj (cela godina)
 - Sezonski paketi vezani za dogadjaje u regionu
 
-Budzet se pali samo kad treba popuniti kapacitet, gasi se kad je puno. Fleksibilnost koju Booking ne nudi.
+Budžet se pali samo kad treba popuniti kapacitet, gasi se kad je puno. Fleksibilnost koju Booking ne nudi.
 
 ### 4. Remarketing kampanje
 
-Gost je posetio vas sajt, gledao sobe, mozda cak poceo rezervaciju ali nije zavrsio. Remarketing mu prikazuje vas objekat na sajtovima koje posle toga posecuje.
+Gost je posetio vaš sajt, gledao sobe, mozda cak poceo rezervaciju ali nije zavrsio. Remarketing mu prikazuje vaš objekat na sajtovima koje posle toga posecuje.
 
-Za smestaj, remarketing je posebno efikasan jer:
+Za smeštaj, remarketing je posebno efikasan jer:
 - Period odlucivanja je 3 do 14 dana (gost ne rezervise odmah)
-- Gost poredi vise objekata i zaboravi koje je gledao
+- Gost poredi više objekata i zaboravi koje je gledao
 - Cena remarketing klika je 2 do 5 puta niza od obicnog Search klika
 
-Budzet: 50e do 150e mesecno je dovoljno za objekat sa 500 do 2.000 posetilaca sajta mesecno.
+Budžet: 50e do 150e mesečno je dovoljno za objekat sa 500 do 2.000 posetilaca sajta mesečno.
 
 ## Landing stranica: gde se gube direktne rezervacije
 
-Google Ads moze dovesti gosta na vas sajt. Ali ako sajt izgleda kao da ga niko nije azurirao od 2019, nema jasnu cenu, nema dostupnost i nema nacin da se rezervise u dva klika, gost zatvara tab i ide na Booking gde zna sta ga ceka.
+Google Ads može dovesti gosta na vaš sajt. Ali ako sajt izgleda kao da ga niko nije azurirao od 2019, nema jasnu cenu, nema dostupnost i nema nacin da se rezervise u dva klika, gost zatvara tab i ide na Booking gde zna sta ga ceka.
 
-Sta landing stranica za smestaj mora da ima:
+Sta landing stranica za smeštaj mora da ima:
 
 1. **Galerija sa profesionalnim fotografijama** soba, zajednickih prostora i okoline (minimum 10-15 slika)
 2. **Cene ili cenovni raspon** jasno vidljivi bez skrolovanja
@@ -6775,24 +6775,24 @@ Sta landing stranica za smestaj mora da ima:
 4. **Dugme za rezervaciju ili poziv** iznad prevoja na mobilnom
 5. **Google recenzije** ugradjene na stranicu (poverenje)
 6. **Lokacija na mapi** sa uputstvom za dolazak
-7. **Sadrzaj u okolini** — sta gost moze da radi, vidi, poseti
+7. **Sadržaj u okolini** — sta gost može da radi, vidi, poseti
 
-Ako nemate sajt ili vas trenutni sajt ne konvertuje, pogledajte [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena) za realan okvir troskova. Za optimizaciju konverzije na postojecem sajtu korisno je videti [CRO optimizaciju](/cro).
+Ako nemate sajt ili vaš trenutni sajt ne konvertuje, pogledajte [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena) za realan okvir troskova. Za optimizaciju konverzije na postojecem sajtu korisno je videti [CRO optimizaciju](/cro).
 
-## Koliko realno kosta Google Ads za smestaj u Srbiji
+## Koliko realno kosta Google Ads za smeštaj u Srbiji
 
-| Tip objekta | Mesecni budzet | Ocekivane rezervacije | Cena po rezervaciji |
+| Tip objekta | Mesecni budžet | Ocekivane rezervacije | Cena po rezervaciji |
 |---|---|---|---|
 | Apartman (1-3 jedinice) | 150e - 350e | 8 - 25 | 10e - 20e |
 | Vila ili etno kuca | 250e - 500e | 10 - 30 | 12e - 22e |
 | Mali hotel (10-30 soba) | 400e - 1.000e | 25 - 80 | 10e - 18e |
 | Hotel / resort (30+ soba) | 800e - 3.000e+ | 50 - 200+ | 8e - 16e |
 
-Uporedite sa Booking provizijom: za nocenje od 60e, Booking uzima 9e do 15e. Ako vas Google Ads donosi rezervaciju za 12e, vec ste na nuli, a za visenocne boravke ste u plusu jer se provizija racuna po nocenju, a CPA po rezervaciji.
+Uporedite sa Booking provizijom: za noćenje od 60e, Booking uzima 9e do 15e. Ako vaš Google Ads donosi rezervaciju za 12e, vec ste na nuli, a za visenocne boravke ste u plusu jer se provizija racuna po nocenju, a CPA po rezervaciji.
 
 Za detaljniji pregled troskova po kanalu, pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-## Google Business profil: besplatne rezervacije pored placenih
+## Google Business profil: besplatne rezervacije pored plaćenih
 
 Pre nego sto potrosite prvi evro na Ads, sredite Google Business profil. Za smestajne objekte to znaci:
 
@@ -6809,7 +6809,7 @@ Za organsku strategiju pogledajte [SEO optimizacija cena](/seo-optimizacija-cena
 
 ## Merenje: jedina metrika koja je bitna
 
-Zaboravite klikove, prikaze, CTR. Za smestaj postoji jedna bitna metrika: **cena po zavrsenoj rezervaciji** (CPA — Cost Per Acquisition).
+Zaboravite klikove, prikaze, CTR. Za smeštaj postoji jedna bitna metrika: **cena po zavrsenoj rezervaciji** (CPA — Cost Per Acquisition).
 
 Kako se meri:
 1. **Google Ads conversion tracking** na formu za rezervaciju ili booking engine potvrdu
@@ -6817,49 +6817,49 @@ Kako se meri:
 3. **Google Analytics 4** za ponasanje na sajtu i padove u toku rezervacije
 4. **Offline conversion import** za rezervacije koje dodju telefonom ili mejlom posle klika na oglas
 
-Bez ovoga ne znate koji kljucni termin donosi rezervaciju, a koji samo trosi budzet. Vise o merenju rezultata u [KPI i ROI marketing vodiču](/blog/kako-meriti-roi-marketinga-kpi-vodic).
+Bez ovoga ne znate koji ključni termin donosi rezervaciju, a koji samo troši budžet. Više o merenju rezultata u [KPI i ROI marketing vodiču](/blog/kako-meriti-roi-marketinga-kpi-vodic).
 
 ## Google Ads vs OTA platforme: poredjenje troskova
 
 | | Google Ads | Booking.com | Airbnb |
 |---|---|---|---|
-| Trosak po rezervaciji | 8e - 22e (fiksno po rezervaciji) | 15-25% po nocenju | 3% domacin + 14% gost |
-| Kontrola cene | Vi birate budzet i CPA cilj | Platforma diktira proviziju | Platforma diktira proviziju |
+| Trošak po rezervaciji | 8e - 22e (fiksno po rezervaciji) | 15-25% po nocenju | 3% domacin + 14% gost |
+| Kontrola cene | Vi birate budžet i CPA cilj | Platforma diktira proviziju | Platforma diktira proviziju |
 | Podaci o gostu | Imate email, telefon, ime | Platforma drzi podatke | Platforma drzi podatke |
 | Povratni gosti | Mozete ih kontaktirati direktno | Moraju ponovo proci platformu | Moraju ponovo proci platformu |
-| Vidljivost | Zavisna od budzeta | Zavisna od rangiranja na platformi | Zavisna od rangiranja na platformi |
+| Vidljivost | Zavisna od budžeta | Zavisna od rangiranja na platformi | Zavisna od rangiranja na platformi |
 
-Kljucna razlika: kad gost rezervise preko vaseg sajta, imate njegov email i telefon. Mozete mu poslati ponudu za sledecu sezonu, za rodjendan, za praznike. Kad rezervise preko Booking-a, podatke drzi Booking.
+Ključna razlika: kad gost rezervise preko vašeg sajta, imate njegov email i telefon. Mozete mu poslati ponudu za sledecu sezonu, za rodjendan, za praznike. Kad rezervise preko Booking-a, podatke drzi Booking.
 
 ## Sezonalnost: kada paliti, kada gasiti
 
-Najcesca greska: isti budzet cele godine. Smestaj ima izrazenu sezonalnost i budzet mora to da prati.
+Najcesca greska: isti budžet cele godine. Smeštaj ima izrazenu sezonalnost i budžet mora to da prati.
 
 **Puna sezona (jun-septembar za letnje, dec-mart za zimske destinacije):**
-Smanjen budzet ili pauza. Kapacitet se puni organskim putem i OTA platformama. Ads su opravdani samo ako imate vise kapaciteta nego sto sezona popuni.
+Smanjen budžet ili pauza. Kapacitet se puni organskim putem i OTA platformama. Ads su opravdani samo ako imate više kapaciteta nego sto sezona popuni.
 
 **Prelazni periodi (april-maj, oktobar-novembar):**
-Maksimalan budzet. Ovo je gde Google Ads pravi najvecu razliku jer OTA platforme ne promotivisu vase specijalne ponude, a vi mozete.
+Maksimalan budžet. Ovo je gde Google Ads pravi najvecu razliku jer OTA platforme ne promotivisu vaše specijalne ponude, a vi mozete.
 
 **Mrtva sezona (zavisno od destinacije):**
-Srednji budzet fokusiran iskljucivo na van-sezonske pakete. Vikend ponude, wellness, team building, praznici.
+Srednji budžet fokusiran iskljucivo na van-sezonske pakete. Vikend ponude, wellness, team building, praznici.
 
-## Ceste greske smestajnih objekata na Google Ads
+## Ceste greške smestajnih objekata na Google Ads
 
 1. **Jedna kampanja za sve.** Apartman za 4 osobe i lux vila sa bazenom nemaju istu publiku. Razdvojite ih.
-2. **Oglas vodi na homepage.** Gost koji trazi "apartman Zlatibor 4 osobe" mora da dodje na stranicu tog konkretnog apartmana, ne na pocetnu stranu sajta.
-3. **Nema pracenja rezervacija.** Bez conversion tracking-a ne znate sta radi. Mozete trositi 500 evra mesecno i misliti da ne radi, a zapravo donosi 30 rezervacija telefonom koje ne pratite.
-4. **Isti budzet cele godine.** Sezona se sama popuni. Van sezone treba gurati Ads. Obrnuto od onoga sto vecina radi.
-5. **Ne koriste lokacijske ekstenzije.** Za smestaj gde je lokacija kljucni faktor, lokacijske i callout ekstenzije podizu CTR za 20-30%.
-6. **Zanemaruju mobilni.** Preko 70% pretraga za smestaj dolazi sa telefona. Ako sajt nije brz i citljiv na mobilnom, placate klikove koji ne konvertuju.
+2. **Oglas vodi na homepage.** Gost koji traži "apartman Zlatibor 4 osobe" mora da dodje na stranicu tog konkretnog apartmana, ne na početnu stranu sajta.
+3. **Nema pracenja rezervacija.** Bez conversion tracking-a ne znate sta radi. Mozete trositi 500 evra mesečno i misliti da ne radi, a zapravo donosi 30 rezervacija telefonom koje ne pratite.
+4. **Isti budžet cele godine.** Sezona se sama popuni. Van sezone treba gurati Ads. Obrnuto od onoga sto vecina radi.
+5. **Ne koriste lokacijske ekstenzije.** Za smeštaj gde je lokacija ključni faktor, lokacijske i callout ekstenzije podizu CTR za 20-30%.
+6. **Zanemaruju mobilni.** Preko 70% pretraga za smeštaj dolazi sa telefona. Ako sajt nije brz i citljiv na mobilnom, plaćate klikove koji ne konvertuju.
 
-## Zakljucak
+## Zaključak
 
-Google Ads za hotele i smestaj u Srbiji nije zamena za Booking ili Airbnb. To je kanal koji postepeno smanjuje zavisnost od platformi tako sto gradi tok direktnih rezervacija po nizoj ceni nego sto je provizija. Za objekat sa 50+ nocenja mesecno, razlika se meri u stotinama evra mesecno.
+Google Ads za hotele i smeštaj u Srbiji nije zamena za Booking ili Airbnb. To je kanal koji postepeno smanjuje zavisnost od platformi tako sto gradi tok direktnih rezervacija po nizoj ceni nego sto je provizija. Za objekat sa 50+ noćenja mesečno, razlika se meri u stotinama evra mesečno.
 
-Pocnite sa Search kampanjom za 2-3 najjaca kljucna termina (tip smestaja + destinacija), pratite koliko kosta svaka rezervacija i uporedite sa Booking provizijom. Ako je jeftinije, pojacajte. Ako nije, optimizujte landing stranicu i kreative pre nego sto odustanete.
+Pocnite sa Search kampanjom za 2-3 najjaca ključna termina (tip smestaja + destinacija), pratite koliko kosta svaka rezervacija i uporedite sa Booking provizijom. Ako je jeftinije, pojacajte. Ako nije, optimizujte landing stranicu i kreative pre nego sto odustanete.
 
-Za celokupnu strategiju digitalnog marketinga za smestaj pogledajte [marketing za hotele i smestaj](/marketing-za-hotele-i-smestaj). Ako zelite analizu da li Google Ads ima smisla za vas objekat, javite se preko [kontakt forme](/kontakt).
+Za celokupnu strategiju digitalnog marketinga za smeštaj pogledajte [marketing za hotele i smeštaj](/marketing-za-hotele-i-smestaj). Ako zelite analizu da li Google Ads ima smisla za vaš objekat, javite se preko [kontakt forme](/kontakt).
 `,
   },
   {
@@ -17971,56 +17971,56 @@ Ako hoces, mogu da ti slozim 7-hour follow-up skripte za tvoj konkretan funnel i
 `,
   },
   {
-    slug: 'google-ads-za-kozmeticki-salon-cena-termina-srbija-2026',
+    slug: 'google-ads-za-kozmetički-salon-cena-termina-srbija-2026',
     title: 'Google Ads za kozmetički salon u Srbiji 2026: cena termina i realan budžet',
     excerpt: 'Praktičan vodič za vlasnice kozmetičkih salona: koliko košta Google Ads u Srbiji 2026, koji budžet ima smisla i kako da merite cenu zakazanog termina umesto praznih klikova.',
     date: '2026-03-12',
     category: 'Google Ads',
     readTime: '10 min',
     content: `
-## Google Ads za kozmeticki salon u Srbiji 2026: kratak odgovor
+## Google Ads za kozmetički salon u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **google ads za kozmeticki salon cena**, realan start okvir na srpskom trzistu je:
+Ako tražiš upit **google ads za kozmetički salon cena**, realan start okvir na srpskom tržištu je:
 - **300e-700e/mes** za test fazu (1 lokacija, 2-3 glavne usluge),
 - **700e-1.600e/mes** za stabilan priliv zakazanih termina,
-- **1.600e+ / mes** kada skaliras vise usluga, vise timova ili vise lokacija.
+- **1.600e+ / mes** kada skaliras više usluga, više timova ili više lokacija.
 
-Za siri pregled Search troska pogledaj i [Google reklame cena](/google-reklame-cena).
+Za širi pregled Search troška pogledaj i [Google reklame cena](/google-reklame-cena).
 
-## Zasto saloni cesto dobiju klikove, ali ne i termine
+## Zašto saloni cesto dobiju klikove, ali ne i termine
 
 Najcesci problem nije "Google je skup", nego to sto kampanja i ponuda nisu uparene.
-Klik se desi, ali korisnica ne zakaze termin jer:
+Klik se desi, ali korisnica ne zakaže termin jer:
 1. oglas je sirok i ne govori tacno koju uslugu nudi salon,
-2. landing stranica nema jasan sledeci korak,
+2. landing stranica nema jasan sledeći korak,
 3. nema signala poverenja (fotke rada, recenzije, iskustvo),
 4. forma je predugacka ili komplikovana,
 5. tim kasni sa odgovorom.
 
 U beauty nisama brzina i poverenje odluce pre nego cena.
 
-## Koliki budzet ima smisla po fazama
+## Koliki budžet ima smisla po fazama
 
 ### Faza 1: validacija (prvih 30 dana)
 - fokus: 2-3 usluge sa najvecom marzom,
-- budzet: 300e-700e,
+- budžet: 300e-700e,
 - KPI: cena kvalifikovanog upita i broj zakazanih termina.
 
 ### Faza 2: optimizacija (30-90 dana)
-- fokus: search terms ciscenje, negativne reci, bolji ad copy,
-- budzet: 700e-1.600e,
+- fokus: search terms ciscenje, negativne reći, bolji ad copy,
+- budžet: 700e-1.600e,
 - KPI: cena potvrdenog termina i procenat dolaska klijenata.
 
 ### Faza 3: skaliranje (90+ dana)
 - fokus: dodatne usluge (laser, tretmani lica, depilacija),
-- budzet: 1.600e+,
+- budžet: 1.600e+,
 - KPI: profit po terminu i popunjenost rasporeda.
 
 Ako paralelno testiras Meta kanal za demand capture, uporedi i [Instagram reklame cena](/instagram-reklame-cena).
 
 ## Realni rasponi troskova za beauty lokal u Srbiji 2026
 
-Orijentacioni rasponi koje saloni najcesce vide posle prve optimizacije:
+Orijentacioni rasponi koje saloni najčešće vide posle prve optimizacije:
 - **CPC:** 0.10e-0.65e,
 - **kvalifikovan upit:** 5e-25e,
 - **zakazan termin:** 9e-40e.
@@ -18028,20 +18028,20 @@ Orijentacioni rasponi koje saloni najcesce vide posle prve optimizacije:
 Ako je cena termina visoka, to ne mora znaciti da je kampanja losa.
 Bitnije je da li termin donosi profit, odnosno da li se klijentkinja vraca.
 
-## Kljucne reci koje donose kvalitetniji intent
+## Ključne reći koje donose kvalitetniji intent
 
-Najcesce bolji rezultat daju fraze sa jasnom namerom:
-- "kozmeticki salon [grad] cenovnik",
+Najčešće bolji rezultat daju fraze sa jasnom namerom:
+- "kozmetički salon [grad] cenovnik",
 - "hijaluron usne [grad] cena",
 - "laser epilacija [lokacija] zakazivanje",
 - "tretman lica [grad] termin".
 
-Siroki termini tipa "kozmeticar" i "lepota" znaju da pojedu budzet bez realne namere.
+Siroki termini tipa "kozmeticar" i "lepota" znaju da pojedu budžet bez realne namere.
 
 ## Landing stranica: gde kampanje najvise gube novac
 
 Za lokalni salon landing mora da zatvori odluku brzo.
-Minimalna struktura koja obicno radi:
+Minimalna struktura koja obično radi:
 1. jasan naslov po usluzi,
 2. pre i posle vizuelni primeri (gde je dozvoljeno),
 3. trust signali (ocene, broj klijentkinja, sertifikati),
@@ -18052,28 +18052,28 @@ Ako tek gradis ili menjas landing, pogledaj i [izrada landing stranice: cena, ro
 
 ## Kako da meris profit, ne samo "lep" dashboard
 
-Najvazniji KPI set za kozmeticki salon:
+Najvazniji KPI set za kozmetički salon:
 - cena potvrdenog termina,
 - procenat dolaska (show rate),
-- prosecna vrednost racuna po terminu,
+- prosečna vrednost racuna po terminu,
 - procenat ponovljenih dolazaka,
 - bruto marza po usluzi.
 
 Bez ovoga lako dodje do situacije da kampanja izgleda dobro, a raspored i profit ostanu isti.
 
-## 7 brzih poteza koji obicno spuste cenu termina
+## 7 brzih poteza koji obično spuste cenu termina
 
 1. Odvoj kampanje po usluzi (ne sve u jednu grupu).
 2. Koristi lokalni intent u kljucnim recima i oglasima.
-3. Dodaj negativne reci svake nedelje.
+3. Dodaj negativne reći svake nedelje.
 4. Upari naslov oglasa i naslov landing stranice 1:1.
 5. Istakni cenu ili raspon kada je to takticki korisno.
 6. Skrati put do zakazivanja na najvise 2 klika.
 7. Postavi SLA odgovora (npr. do 15 min u radno vreme).
 
-## Zakljucak
+## Zaključak
 
-Google Ads moze da donese stabilan tok novih termina za kozmeticki salon, ali samo ako je fokus na ceni potvrdenog termina i stvarnom profitu, ne na jeftinom kliku.
+Google Ads može da donese stabilan tok novih termina za kozmetički salon, ali samo ako je fokus na ceni potvrdenog termina i stvarnom profitu, ne na jeftinom kliku.
 Ako zelis, mogu da uradim mini audit tvoje postojece kampanje i oznacim 3 najbrza SEO/PPC poteza koji podizu broj profitabilnih zakazivanja - javi se preko [kontakt forme](/kontakt).
 `,
   },
@@ -27907,60 +27907,60 @@ Ako hoćeš, mogu da ti proverim cilj, CPA granicu i test budžet za tvoj sluča
     title: 'Instagram marketing za frizerske salone u Srbiji 2026: kako popuniti termine',
     excerpt: 'Praktičan vodič za vlasnike salona: koji Instagram format donosi zakazivanja, koliki budžet ima smisla i kako meriti da li vam marketing zaista puni stolice.',
     date: '2026-03-17',
-    category: 'Drustvene Mreze',
+    category: 'Društvene Mreže',
     readTime: '10 min',
     content: `
 ## Instagram marketing za frizerske salone: kratak odgovor
 
-Ako trazite upit **instagram marketing za frizerske salone**, evo sustine: Instagram je najprirodniji kanal za salone jer klijenti biraju frizer prema vizuelnom utisku. Ali lep feed bez jasnog puta do zakazivanja je bacen novac.
+Ako tražite upit **instagram marketing za frizerske salone**, evo sustine: Instagram je najprirodniji kanal za salone jer klijenti biraju frizer prema vizuelnom utisku. Ali lep feed bez jasnog puta do zakazivanja je bacen novac.
 
 Ono sto zaista puni termine:
 1. Before-after Reels za tretmane sa visokom percipiranom vrednoscu (balayage, keratinsko ravnanje, muske fade frizure),
-2. Story ponude za prazne termine istog ili sledeceg dana,
-3. Landing stranica ili link u bio koji vodi direktno na zakazivanje, ne na genericku pocetnu stranu.
+2. Story ponude za prazne termine istog ili sledećeg dana,
+3. Landing stranica ili link u bio koji vodi direktno na zakazivanje, ne na genericku početnu stranu.
 
-Za siri pregled kako to izgleda u praksi za salone, pogledajte nas vodic za [marketing za frizerske salone](/marketing-za-frizerske-salone).
+Za širi pregled kako to izgleda u praksi za salone, pogledajte nas vodic za [marketing za frizerske salone](/marketing-za-frizerske-salone).
 
-## Zasto Instagram radi za salone bolje nego za vecinu biznisa
+## Zašto Instagram radi za salone bolje nego za vecinu biznisa
 
-Frizerski salon prodaje vizuelnu transformaciju. To znaci da sadrzaj prirodno izaziva reakciju, deljenje i spremanje, sto su signali koje Instagram algoritam nagradjuje.
+Frizerski salon prodaje vizuelnu transformaciju. To znaci da sadržaj prirodno izaziva reakciju, deljenje i spremanje, sto su signali koje Instagram algoritam nagradjuje.
 
-Ali vecina salona pravi istu gresku: objavljuju slike gotove frizure bez konteksta i bez poziva na akciju. Klijent vidi, lajkuje, skroluje dalje i nikad ne zakaze.
+Ali vecina salona pravi istu gresku: objavljuju slike gotove frizure bez konteksta i bez poziva na akciju. Klijent vidi, lajkuje, skroluje dalje i nikad ne zakaže.
 
-Razlika izmedju salona koji popunjava raspored i onog koji ima lep feed ali prazne stolice je u jednom koraku: svaki post mora da skrati razdaljinu izmedju inspiracije i termina.
+Razlika između salona koji popunjava raspored i onog koji ima lep feed ali prazne stolice je u jednom koraku: svaki post mora da skrati razdaljinu između inspiracije i termina.
 
 ## Koji format zaista donosi zakazivanja
 
 ### Before-after Reels
 
-Najjaci format za salone. Pokazujete transformaciju u 15-30 sekundi. Kljucni detalji:
+Najjaci format za salone. Pokazujete transformaciju u 15-30 sekundi. Ključni detalji:
 - Snimajte u istom osvetljenju (pre i posle) tako da razlika bude ocigledna,
 - dodajte tekst na ekranu sa nazivom tretmana i cenom,
 - u opisu stavite poziv na akciju (zakazite putem linka u bio, posaljite DM za termin).
 
-Reels ovog tipa imaju 3-5x veci reach od obicnih slika jer ih algoritam gura ljudima koji vec gledaju salonski sadrzaj.
+Reels ovog tipa imaju 3-5x veci reach od običnih slika jer ih algoritam gura ljudima koji vec gledaju salonski sadržaj.
 
 ### Story ponude za prazne termine
 
-Ako imate praznu stolicu sutra u 14h, Story sa jasnom ponudom (npr. "-20% na sisanje i feniranje, slobodan termin sutra 14-15h, prvi koji posalje DM") moze da popuni rupu u rasporedu istog dana. To ne razvodnava cenu jer je ograniceno i kontekstualno.
+Ako imate praznu stolicu sutra u 14h, Story sa jasnom ponudom (npr. "-20% na šišanje i feniranje, slobodan termin sutra 14-15h, prvi koji posalje DM") može da popuni rupu u rasporedu istog dana. To ne razvodnava cenu jer je ograniceno i kontekstualno.
 
 ### Carousel sa savetima
 
-Carousel postovi tipa "5 stvari koje morate reci frizeru pre balayage-a" ili "Kako odrzavati boju izmedju termina" grade autoritet i cuvaju vas u feedu izmedju termina. Nisu direktna konverzija, ali drze vas u svesti klijenta koji razmislja o sledecoj poseti.
+Carousel postovi tipa "5 stvari koje morate reći frizeru pre balayage-a" ili "Kako odrzavati boju između termina" grade autoritet i cuvaju vaš u feedu između termina. Nisu direktna konverzija, ali drze vaš u svesti klijenta koji razmislja o sledecoj poseti.
 
 ### Kolaboracije sa lokalnim profilima
 
-Zajednicki Reel sa lokalnom vizazistkicom, salkonom lepote ili bridal studijom otvara publiku koja vec trazi slicne usluge. Algoritam to dodatno pojacava jer obe publike reaguju.
+Zajednicki Reel sa lokalnom vizazistkicom, salkonom lepote ili bridal studijom otvara publiku koja vec traži slicne usluge. Algoritam to dodatno pojacava jer obe publike reaguju.
 
 ## Koliko kosta Instagram marketing za salon
 
-Ovde treba razdvojiti organski od placenog sadrzaja:
+Ovde treba razdvojiti organski od placenog sadržaja:
 
-### Organski sadrzaj (vas vreme ili outsource)
+### Organski sadržaj (vaš vreme ili outsource)
 
-- Ako snimate sami: prakticno besplatno, ali trosi 3-5 sati nedeljno za 3-4 posta i Stories,
-- ako angazujete nekoga za content kreaciju: 200-500e mesecno za manje pakete u Srbiji,
-- agencija koja radi komplet (strategija, kreativa, objave, odgovaranje na poruke): od 500e mesecno nagore.
+- Ako snimate sami: praktično besplatno, ali troši 3-5 sati nedeljno za 3-4 posta i Stories,
+- ako angazujete nekoga za content kreaciju: 200-500e mesečno za manje pakete u Srbiji,
+- agencija koja radi komplet (strategija, kreativa, objave, odgovaranje na poruke): od 500e mesečno nagore.
 
 ### Placene reklame (Instagram Ads)
 
@@ -27969,15 +27969,15 @@ Za salone, Instagram Ads ima smisla kad zelite da prosirite doseg van postojece 
 - popunjavanje mrtvog perioda (januar, mart),
 - privlacenje nove publike u odredjenom delu grada.
 
-Budzet za pocetnu fazu: 150-300e mesecno je dovoljan za test koji pokazuje da li placeni format donosi zakazivanja.
+Budžet za početnu fazu: 150-300e mesečno je dovoljan za test koji pokazuje da li plaćeni format donosi zakazivanja.
 
-Ako radite siri marketing miks koji ukljucuje i Google Ads ili SEO, korisno je videti i benchmarkove za [Instagram reklame cena](/instagram-reklame-cena) i [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama).
+Ako radite širi marketing miks koji ukljucuje i Google Ads ili SEO, korisno je videti i benchmarkove za [Instagram reklame cena](/instagram-reklame-cena) i [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama).
 
-## Najvece greske salona na Instagramu
+## Najvece greške salona na Instagramu
 
 ### 1. Lep feed, nula poziva na akciju
 
-Ako niko ne zna kako da zakaze (link u bio ne vodi nigde korisno, nema CTA u postovima), gledaoci ostaju gledaoci.
+Ako niko ne zna kako da zakaže (link u bio ne vodi nigde korisno, nema CTA u postovima), gledaoci ostaju gledaoci.
 
 ### 2. Objavljivanje bez ritma
 
@@ -27995,10 +27995,10 @@ Ljudi zele da znaju: koliko kosta, koliko traje, da li radite taj tip kose. Ako 
 
 Ne merite uspeh brojem pratilaca. Merite ga ovako:
 
-1. **Broj DM-ova sa upitom za termin** (ovo je vas lead),
+1. **Broj DM-ova sa upitom za termin** (ovo je vaš lead),
 2. **Broj klikova na link u bio** (ka stranici za zakazivanje ili WhatsApp-u),
 3. **Popunjenost rasporeda** (procenat popunjenih termina mesec za mesecom),
-4. **Prosecna vrednost termina** (da li vam Instagram dovodi samo obicna sisanja od 1000 din ili i premium tretmane od 5000+ din).
+4. **Prosečna vrednost termina** (da li vam Instagram dovodi samo obicna šišanja od 1000 din ili i premium tretmane od 5000+ din).
 
 Ako pratilaca raste ali zakazivanja ne, problem je u konverzionom putu, ne u sadrzaju.
 
@@ -28007,14 +28007,14 @@ Ako pratilaca raste ali zakazivanja ne, problem je u konverzionom putu, ne u sad
 ### Radite sami ako:
 - imate zaposlenog (ili ste vi taj) ko uziva u snimanju i ima oko za estetiku,
 - imate 3-5 sati nedeljno za kreaciju i odgovaranje,
-- salon tek pocinje i budzet za agenciju nema smisla.
+- salon tek pocinje i budžet za agenciju nema smisla.
 
 ### Angazujte pomoc ako:
-- snimate kvalitetan sadrzaj ali zakazivanja ne rastu (problem je strategija, ne kreativa),
+- snimate kvalitetan sadržaj ali zakazivanja ne rastu (problem je strategija, ne kreativa),
 - nemate vremena da odrzavate ritam objava,
 - zelite da testirate placene reklame a nemate iskustva sa Ads managerom.
 
-Za salone koji razmatraju profesionalnu podrsku, pogled na nase usluge za [marketing za frizerske salone](/marketing-za-frizerske-salone) i [digitalni marketing](/digitalni-marketing) moze da razjasni sta tacno agencija radi u tom slucaju.
+Za salone koji razmatraju profesionalnu podrsku, pogled na nase usluge za [marketing za frizerske salone](/marketing-za-frizerske-salone) i [digitalni marketing](/digitalni-marketing) može da razjasni sta tacno agencija radi u tom slucaju.
 
 ## Landing stranica ili sajt: sta salon zaista treba
 
@@ -28028,46 +28028,46 @@ Ako razmatrate izradu sajta za salon, korisno je videti [cene izrade sajta](/cen
 
 ## SEO i Instagram zajedno: kombinacija koja donosi rezultate
 
-Instagram donosi brzu vidljivost i emotivni impuls. Ali ljudi koji traze "frizerski salon Novi Sad centar" na Google-u vec imaju nameru da zakazu. Kad kombinujete:
+Instagram donosi brzu vidljivost i emotivni impuls. Ali ljudi koji traže "frizerski salon Novi Sad centar" na Google-u vec imaju nameru da zakazu. Kad kombinujete:
 - Instagram za gornji deo levka (inspiracija, poverenje, upoznavanje),
-- lokalni SEO i Google Business za ljude koji vec traze ([SEO optimizacija cena](/seo-optimizacija-cena)),
+- lokalni SEO i Google Business za ljude koji vec traže ([SEO optimizacija cena](/seo-optimizacija-cena)),
 - Google Ads za hitne upite ([Google reklame cena](/google-reklame-cena)),
 
-dobijate sistem koji popunjava raspored iz vise izvora, ne samo jednog.
+dobijate sistem koji popunjava raspored iz više izvora, ne samo jednog.
 
-## Zakljucak
+## Zaključak
 
-Instagram marketing za frizerske salone u Srbiji ne mora biti komplikovan. Treba vam: dobar vizuelni sadrzaj (koji vec imate jer radite sa ljudima svaki dan), jasan poziv na akciju u svakom postu, i kratak put od pogleda do zakazivanja.
+Instagram marketing za frizerske salone u Srbiji ne mora biti komplikovan. Treba vam: dobar vizuelni sadržaj (koji vec imate jer radite sa ljudima svaki dan), jasan poziv na akciju u svakom postu, i kratak put od pogleda do zakazivanja.
 
-Ako zelite da proverite koliko bi koristio Instagram marketing za vas salon ili vam treba strategija prilagodjena vasem rasporedu i budzetu, javite se preko [kontakt forme](/kontakt).
+Ako zelite da proverite koliko bi koristio Instagram marketing za vaš salon ili vam treba strategija prilagodjena vašem rasporedu i budzetu, javite se preko [kontakt forme](/kontakt).
 `,
   },
   {
     slug: 'google-ads-za-frizerske-salone-cena-srbija-2026',
     title: 'Google Ads za frizerske salone u Srbiji 2026: cena termina, budžet i strategija',
-    excerpt: 'Koliko koštaju Google reklame za frizerske salone u Srbiji 2026, koji budžet ima smisla i kako da dovedete klijente koji vec traže vas tip usluge.',
+    excerpt: 'Koliko koštaju Google reklame za frizerske salone u Srbiji 2026, koji budžet ima smisla i kako da dovedete klijente koji vec traže vaš tip usluge.',
     date: '2026-03-17',
     category: 'Marketing',
     readTime: 9,
     content: `
 ## Google Ads za frizerske salone: kratak odgovor
 
-Ako trazite upit **google ads za frizerske salone cena**, evo prakticnog okvira za srpsko trziste 2026:
+Ako tražite upit **google ads za frizerske salone cena**, evo prakticnog okvira za srpsko trziste 2026:
 
 - **CPC (cena po kliku):** 0,08e - 0,40e za lokalne search termine
 - **Cena zakazanog termina:** 3e - 15e zavisno od usluge i lokacije
-- **Minimalni mesecni budzet za pouzdan test:** 150e - 300e
-- **Break-even:** najcesce posle 2-4 nedelje kad se kampanja optimizuje
+- **Minimalni mesecni budžet za pouzdan test:** 150e - 300e
+- **Break-even:** najčešće posle 2-4 nedelje kad se kampanja optimizuje
 
-Za siri kontekst o cenama digitalnog oglasavanja, pogledajte [Google reklame cena](/google-reklame-cena).
+Za širi kontekst o cenama digitalnog oglasavanja, pogledajte [Google reklame cena](/google-reklame-cena).
 
-## Zasto Google Ads ima smisla za salone
+## Zašto Google Ads ima smisla za salone
 
 Instagram prodaje vizuelni utisak i gradi zelju. Google hvata ljude koji **vec imaju nameru** da zakazu.
 
-Kada neko kuca "frizerski salon centar Novi Sad" ili "balayage Beograd cena", ta osoba ne razgleda. Ona trazi gde da ode. Ako se ne pojavljujete na prvoj strani rezultata, taj termin popunjava konkurencija.
+Kada neko kuca "frizerski salon centar Novi Sad" ili "balayage Beograd cena", ta osoba ne razgleda. Ona traži gde da ode. Ako se ne pojavljujete na prvoj strani rezultata, taj termin popunjava konkurencija.
 
-Razlika u kvalitetu leada je ogromna. Klik sa Google pretrage ima 3 do 5 puta vecu sansu da postane zakazan termin u odnosu na nasumicni klik sa drustvenih mreza.
+Razlika u kvalitetu leada je ogromna. Klik sa Google pretrage ima 3 do 5 puta vecu sansu da postane zakazan termin u odnosu na nasumicni klik sa društvenih mreza.
 
 Za uporedni pregled kanala i kako se uklapaju u celokupnu strategiju, pogledajte nas vodic za [marketing za frizerske salone](/marketing-za-frizerske-salone).
 
@@ -28077,16 +28077,16 @@ Ne treba vam 10 kampanja. Treba vam 2-3 koje pokrivaju razlicite namere:
 
 ### 1. Search kampanja za hitne/lokalne upite
 
-Ovo je jezgro. Ljudi koji traze salon u svom kraju, danas ili ove nedelje.
+Ovo je jezgro. Ljudi koji traže salon u svom kraju, danas ili ove nedelje.
 
-Kljucne reci koje najcesce rade:
+Ključne reći koje najčešće rade:
 - "frizerski salon [grad/naselje]"
-- "musko sisanje [grad]"
+- "musko šišanje [grad]"
 - "farbanje kose cena [grad]"
 - "balayage [grad]"
 - "keratin tretman [grad]"
 
-Negativne kljucne reci su jednako vazne. Iskljucite "besplatno", "kurs", "posao", "zaposlenje" i slicne upite koji trose budzet bez ijednog zakazivanja.
+Negativne ključne reći su jednako vazne. Iskljucite "besplatno", "kurs", "posao", "zaposlenje" i slicne upite koji trose budžet bez ijednog zakazivanja.
 
 ### 2. Kampanja za premium tretmane
 
@@ -28096,35 +28096,35 @@ Usluge sa vecom marzom zasluzuju posebnu kampanju sa posebnom landing stranicom:
 - Bridal hair / svecane frizure
 - Hair extensions
 
-Ovde CPC moze biti visi (0,25e - 0,60e), ali jedan zakazan premium tretman vredi 50e - 200e+, pa je ROI daleko bolji nego za obicno sisanje.
+Ovde CPC može biti viši (0,25e - 0,60e), ali jedan zakazan premium tretman vredi 50e - 200e+, pa je ROI daleko bolji nego za obično šišanje.
 
 ### 3. Sezonske kampanje
 
 Matura, vencanja, praznicki period, leto. Ove kampanje palite 4-6 nedelja pre sezone i gasite kad prodje.
 
-Ovo je prilika za visi budzet na kratak period, jer je intent jak i konkurencija cesto zakasni sa pripremom.
+Ovo je prilika za viši budžet na kratak period, jer je intent jak i konkurencija cesto zakasni sa pripremom.
 
 ## Landing stranica: gde vecina salona gubi novac
 
-Google moze da dovede 100 klikova dnevno, ali ako klik vodi na Instagram profil, na homepage bez jasnog CTA-a ili na stranicu sa sporim ucitavanjem, budzet je bacen.
+Google može da dovede 100 klikova dnevno, ali ako klik vodi na Instagram profil, na homepage bez jasnog CTA-a ili na stranicu sa sporim ucitavanjem, budžet je bacen.
 
 Sta landing stranica za frizerski salon mora da ima:
 
 - **Dugme za zakazivanje ili poziv iznad prevoja** na mobilnom
-- **Fotografije vaseg rada**, ne stock slike
+- **Fotografije vašeg rada**, ne stock slike
 - **Cene ili cenovni raspon** za usluge koje reklamirate (ljudi zele transparentnost)
 - **Google recenzije** ugradjene na stranicu
 - **Lokacija i radno vreme** odmah vidljivi
 
-Ako nemate sajt, ili vas trenutni sajt ne konvertuje, pogledajte [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena) za realan okvir troskova.
+Ako nemate sajt, ili vaš trenutni sajt ne konvertuje, pogledajte [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena) za realan okvir troskova.
 
-## Koliko realno kosta Google Ads za salon mesecno
+## Koliko realno kosta Google Ads za salon mesečno
 
-| Velicina salona | Mesecni budzet | Ocekivani termini | Cena po terminu |
+| Velicina salona | Mesecni budžet | Ocekivani termini | Cena po terminu |
 |---|---|---|---|
 | Mali salon (1-2 stolice) | 150e - 250e | 15 - 40 | 5e - 12e |
 | Srednji salon (3-5 stolica) | 250e - 500e | 30 - 80 | 4e - 10e |
-| Premium salon / vise lokacija | 500e - 1.500e | 60 - 200+ | 3e - 8e |
+| Premium salon / više lokacija | 500e - 1.500e | 60 - 200+ | 3e - 8e |
 
 Ovi brojevi pretpostavljaju da je landing stranica optimizovana i da salon ima makar 10+ Google recenzija sa ocenom 4.5+.
 
@@ -28132,13 +28132,13 @@ Za kontekst troskova i poredjenje sa organskim pristupom, koristan je i vodic o 
 
 ## Google Business profil: besplatan saveznik uz Ads
 
-Kada pokrenete Google Ads, vas Google Business profil dobija dodatnu tezinu. Salonima je GMB profil cesto vredniji od samog sajta jer:
+Kada pokrenete Google Ads, vaš Google Business profil dobija dodatnu tezinu. Salonima je GMB profil cesto vredniji od samog sajta jer:
 
 - Pojavljuje se u mapi sa recenzijama i fotografijama
 - Prikazuje radno vreme, lokaciju i direktan poziv
 - Besplatan je, a Google ga preferira za lokalne upite
 
-Optimizujte ga pre nego sto upalite prvu kampanju. Dodajte sve usluge, uradite fotografije salona i radova, i aktivno trazite recenzije od zadovoljnih klijenata.
+Optimizujte ga pre nego sto upalite prvu kampanju. Dodajte sve usluge, uradite fotografije salona i radova, i aktivno tražite recenzije od zadovoljnih klijenata.
 
 ## Tracking: bez merenja nema optimizacije
 
@@ -28148,7 +28148,7 @@ Minimalan tracking setup za salon:
 2. **Call tracking** za telefonske termine (mnogi klijenti salona zovu, ne popunjavaju forme)
 3. **Google Analytics 4** za ponasanje na sajtu
 
-Bez ovoga ne znate koji kljucni termin donosi termin, a koji samo trosi budzet. Vise o merenju rezultata u nasem vodivu za [KPI i ROI marketing](/blog/kako-meriti-roi-marketinga-kpi-vodic).
+Bez ovoga ne znate koji ključni termin donosi termin, a koji samo troši budžet. Više o merenju rezultata u nasem vodivu za [KPI i ROI marketing](/blog/kako-meriti-roi-marketinga-kpi-vodic).
 
 ## Google Ads vs Instagram za frizerske salone
 
@@ -28156,28 +28156,28 @@ Nije pitanje "ili/ili". Oba kanala rade, ali razlicito:
 
 | | Google Ads | Instagram |
 |---|---|---|
-| Tip publike | Ljudi koji vec traze salon | Ljudi koji razgledaju i inspirisu se |
-| Brzina rezultata | Termin moze doci prvog dana | Gradi se publika tokom nedelja |
+| Tip publike | Ljudi koji vec traže salon | Ljudi koji razgledaju i inspirisu se |
+| Brzina rezultata | Termin može doci prvog dana | Gradi se publika tokom nedelja |
 | Najbolje za | Lokalni intent, premium tretmani | Vizuelni wow efekat, branding |
-| Mana | Ogranicen volumen kljucnih reci | Nizi intent, duzi put do zakazivanja |
+| Mana | Ogranicen volumen ključnih reći | Nizi intent, duzi put do zakazivanja |
 
-Najbolji rezultat je kombinacija: Google Ads hvata ljude sa namerom, Instagram gradi zelju i poverenje. Vise o Instagram pristupu za salone u nasem clanku o [Instagram marketingu za frizerske salone](/blog/instagram-marketing-za-frizerske-salone-srbija-2026).
+Najbolji rezultat je kombinacija: Google Ads hvata ljude sa namerom, Instagram gradi zelju i poverenje. Više o Instagram pristupu za salone u nasem clanku o [Instagram marketingu za frizerske salone](/blog/instagram-marketing-za-frizerske-salone-srbija-2026).
 
 Za siru sliku o [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama) i kako se uklapa u miks, pogledajte detaljan cenovnik.
 
-## Ceste greske salona na Google Ads
+## Ceste greške salona na Google Ads
 
-1. **Jedna kampanja za sve usluge.** Musko sisanje i bridal hair nemaju istu publiku ni istu vrednost. Razdvojite ih.
-2. **Nema negativnih kljucnih reci.** Bez toga placate klikove od ljudi koji traze "frizerski kurs" ili "posao u salonu".
+1. **Jedna kampanja za sve usluge.** Musko šišanje i bridal hair nemaju istu publiku ni istu vrednost. Razdvojite ih.
+2. **Nema negativnih ključnih reći.** Bez toga plaćate klikove od ljudi koji traže "frizerski kurs" ili "posao u salonu".
 3. **Oglas vodi na Instagram.** Google reklama mora da vodi na stranicu sa jasnim CTA-om, ne na drustvenu mrezu.
-4. **Nema pracenja poziva.** U frizerskoj industriji vise od 60% zakazivanja dolazi telefonom. Ako ne pratite pozive, ne znate sta radi.
+4. **Nema pracenja poziva.** U frizerskoj industriji više od 60% zakazivanja dolazi telefonom. Ako ne pratite pozive, ne znate sta radi.
 5. **Odustaju posle 5 dana.** Google Ads treba 2-3 nedelje za optimizaciju. Prvi rezultati dolaze brzo, ali pravi ROI se vidi posle mesec dana.
 
-## Zakljucak
+## Zaključak
 
 Google Ads za frizerske salone u Srbiji 2026 je jedan od najbrze isplativih kanala kada se pravilno postavi. Kljuc je u razdvajanju kampanja po usluzi, kvalitetnoj landing stranici i doslednom pracenju cene po zakazanom terminu.
 
-Ako zelite da proverite da li Google Ads ima smisla za vas salon ili vam treba pomoc sa postavkom, javite se preko [kontakt forme](/kontakt).
+Ako zelite da proverite da li Google Ads ima smisla za vaš salon ili vam treba pomoc sa postavkom, javite se preko [kontakt forme](/kontakt).
 `,
   },
   {
@@ -28690,62 +28690,62 @@ Ako zelite da proverite da li Instagram ima smisla za vasu salu ili vam treba st
   {
     slug: 'instagram-reklame-za-racunovodje-cena-klijenta-srbija-2026',
     title: 'Instagram reklame za računovođe u Srbiji 2026: koliko košta novi klijent i šta zapravo radi',
-    excerpt: 'Koliko koštaju Instagram reklame za računovodstvene agencije u Srbiji 2026, koji tipovi kampanja donose klijente i kako da ne bacite budžet na pogresan format.',
+    excerpt: 'Koliko koštaju Instagram reklame za računovodstvene agencije u Srbiji 2026, koji tipovi kampanja donose klijente i kako da ne bacite budžet na pogrešan format.',
     date: '2026-03-17',
     category: 'Instagram Ads',
     readTime: '10 min',
     content: `
-## Instagram reklame za racunovodje u Srbiji 2026: kratak odgovor
+## Instagram reklame za računovođe u Srbiji 2026: kratak odgovor
 
-Instagram nije prvi kanal koji pada na pamet kad pomislite na knjigovodstvo. Ali vlasnici malih firmi i pausalci u Srbiji provode 30-60 minuta dnevno na Instagramu. Oglas koji im se pojavi dok skroluju moze da ih premesti iz "nemam vremena za to" u "ajde da proverim ko su ovi".
+Instagram nije prvi kanal koji pada na pamet kad pomislite na knjigovodstvo. Ali vlasnici malih firmi i paušalci u Srbiji provode 30-60 minuta dnevno na Instagramu. Oglas koji im se pojavi dok skroluju može da ih premesti iz "nemam vremena za to" u "ajde da proverim ko su ovi".
 
-Realni rasponi za Instagram kampanje racunovodstvenih agencija u Srbiji 2026:
+Realni rasponi za Instagram kampanje računovodstvenih agencija u Srbiji 2026:
 
-- **Test faza (1-2 meseca):** 200e-500e mesecno za ad spend + upravljanje.
-- **Stabilan lead flow:** 500e-1.200e mesecno.
-- **Skaliranje (vise gradova, vise usluga):** 1.200e+ mesecno.
+- **Test faza (1-2 meseca):** 200e-500e mesečno za ad spend + upravljanje.
+- **Stabilan lead flow:** 500e-1.200e mesečno.
+- **Skaliranje (više gradova, više usluga):** 1.200e+ mesečno.
 
-Za siri kontekst Meta kanala pogledaj i [Instagram reklame cena](/instagram-reklame-cena).
+Za širi kontekst Meta kanala pogledaj i [Instagram reklame cena](/instagram-reklame-cena).
 
-## Zasto Instagram uopste radi za racunovodje
+## Zašto Instagram uopšte radi za računovođe
 
-Tri razloga zasto racunovodje ne treba da ignorisu Instagram:
+Tri razloga zašto računovođe ne treba da ignorisu Instagram:
 
-1. **Publika je tamo.** Vlasnici malih firmi, novi preduzetnici i pausalci koriste Instagram svakodnevno. Ne trazite ih aktivno kao na Google-u, ali ih mozete uhvatiti pre nego sto pocnu da pretrazuju.
+1. **Publika je tamo.** Vlasnici malih firmi, novi preduzetnici i paušalci koriste Instagram svakodnevno. Ne tražite ih aktivno kao na Google-u, ali ih mozete uhvatiti pre nego sto pocnu da pretrazuju.
 
-2. **Poverenje se gradi vizuelno.** Racunovodstvo zvuci suvoparno, ali kratka objasnjenja poreskih rokova, poredjenja oblika poslovanja i konkretni saveti za uštedu poreza privlace paznju. Post koji kaze "3 greske koje pausalci prave sa PDV-om" dobija vise engagement-a nego genericki oglas.
+2. **Poverenje se gradi vizuelno.** Racunovodstvo zvuci suvoparno, ali kratka objasnjenja poreskih rokova, poredjenja oblika poslovanja i konkretni saveti za uštedu poreza privlače pažnju. Post koji kaze "3 greške koje paušalci prave sa PDV-om" dobija više engagement-a nego genericki oglas.
 
-3. **Retargeting hvata indecizirane.** Neko ko je posetio vasu stranicu ali nije poslao upit moze da vidi vas oglas na Instagramu naredne nedelje i tek tada se javi. Ovo je posebno vazno za racunovodje jer ljudi obicno ne biraju knjigovodju na prvu.
+3. **Retargeting hvata indecizirane.** Neko ko je posetio vašu stranicu ali nije poslao upit može da vidi vaš oglas na Instagramu naredne nedelje i tek tada se javi. Ovo je posebno vazno za računovođe jer ljudi obično ne biraju knjigovođu na prvu.
 
 Za poredjenje sa Search kanalom pogledaj [Google Ads za knjigovodstvene agencije](/blog/google-ads-za-knjigovodstvene-agencije-cena-leada-srbija-2026).
 
 ## Koliko realno kosta novi klijent preko Instagrama
 
-Prakticni rasponi za racunovodstvene agencije na srpskom trzistu:
+Praktični rasponi za računovodstvene agencije na srpskom tržištu:
 
 - **CPC (cena klika):** 0,15e - 0,55e. Niza konkurencija nego u e-commerce ili nekretninama jer malo racunovodja aktivno oglasava.
 - **CPL (cena lead-a):** 8e - 35e. Lead ovde znaci popunjena forma ili poruka sa konkretnim pitanjem o usluzi.
-- **Cena klijenta:** 40e - 150e. Od lead-a do potpisanog ugovora, konverzija je obicno 15-25% jer su upiti kvalifikovani (cuvek aktivno trazi racunovodju).
+- **Cena klijenta:** 40e - 150e. Od lead-a do potpisanog ugovora, konverzija je obično 15-25% jer su upiti kvalifikovani (cuvek aktivno traži racunovodju).
 
-Kljucna metrika nije CPC nego cena potpisanog klijenta. Ako klijent placa 150e mesecno i ostaje prosecno 3 godine, to je 5.400e prihoda od jednog klijenta koji vas je kostao 80e da ga nadjete.
+Ključna metrika nije CPC nego cena potpisanog klijenta. Ako klijent plaća 150e mesečno i ostaje prosečno 3 godine, to je 5.400e prihoda od jednog klijenta koji vaš je kostao 80e da ga nadjete.
 
-## Tipovi kampanja koji rade za racunovodje
+## Tipovi kampanja koji rade za računovođe
 
-### 1) Edukativni sadrzaj kao lead magnet
+### 1) Edukativni sadržaj kao lead magnet
 
-Najefektivniji format: kratki Reels ili carousel postovi koji resavaju konkretno pitanje.
+Najefektivniji format: kratki Reels ili carousel postovi koji rešavaju konkretno pitanje.
 
 Primeri koji konvertuju:
-- "Pausalac ili DOO: sta se vise isplati u 2026?"
+- "Paušalac ili DOO: sta se više isplati u 2026?"
 - "5 rokova koje morate znati ove godine"
-- "Koliko zapravo placate porez kao pausalac?"
+- "Koliko zapravo plaćate porez kao paušalac?"
 
 CTA vodi na landing stranicu sa besplatnim kalkulatorom ili mini-vodicem u zamenu za email/telefon.
 
 ### 2) Sezonske kampanje
 
 Racunovodstvo ima jasne sezonske pikove:
-- **Januar-mart:** Godisnji obracuni i zavrsni racuni. Oglas: "Rok za zavrsni racun je 30. jun — jos uvek nemate racunovodju?"
+- **Januar-mart:** Godisnji obracuni i zavrsni racuni. Oglas: "Rok za zavrsni racun je 30. jun — još uvek nemate racunovodju?"
 - **Oktobar-novembar:** PDV registracija i promena oblika poslovanja. Oglas: "Da li vam se isplati prelazak sa pausalca na DOO?"
 - **Tokom cele godine:** Osnivanje firme. Oglas: "Pokreces biznis? Racunovodstvo od prvog dana."
 
@@ -28753,18 +28753,18 @@ Sezonske kampanje imaju nizi CPL jer je urgencija prirodna, ne vestacka.
 
 ### 3) Social proof kampanje
 
-Testimonijali klijenata u video formatu. Ne mora da bude profesionalna produkcija. Klijent koji za 30 sekundi kaze "Pre sam gubio 3 sata mesecno na fakture, sad samo posaljem izvod i gotovo" vredi vise od bilo kog dizajniranog oglasa.
+Testimonijali klijenata u video formatu. Ne mora da bude profesionalna produkcija. Klijent koji za 30 sekundi kaze "Pre sam gubio 3 sata mesečno na fakture, sad samo posaljem izvod i gotovo" vredi više od bilo kog dizajniranog oglasa.
 
 ### 4) Remarketing
 
-Remarketing publika za racunovodje:
+Remarketing publika za računovođe:
 - Posetili sajt, ali nisu poslali upit (najvrednija publika).
-- Gledali vase Reels/karusel vise od 50% (zainteresovani, ali jos nisu kliknuli).
+- Gledali vaše Reels/karusel više od 50% (zainteresovani, ali još nisu kliknuli).
 - Lookalike publika od postojecih klijenata.
 
-Remarketing obicno spusti CPL za 30-50% jer su ti ljudi vec upoznati sa vama.
+Remarketing obično spusti CPL za 30-50% jer su ti ljudi vec upoznati sa vama.
 
-## Kreativa koja radi za racunovodstvene agencije
+## Kreativa koja radi za računovodstvene agencije
 
 Sta ne radi:
 - Genericke slike sa laptopom i kalkulatorom.
@@ -28772,83 +28772,83 @@ Sta ne radi:
 - Stock fotografije kancelarije.
 
 Sta radi:
-- **Konkretni brojevi.** "Klijentima ustedimo prosecno 1.200e godisnje na porezu."
+- **Konkretni brojevi.** "Klijentima ustedimo prosečno 1.200e godisnje na porezu."
 - **Pre/posle format.** "Pre: tabele u Excelu, kasnjenje sa fakturama. Posle: sve automatizovano, izvestaj na klik."
 - **Proces u 3 koraka.** "1. Posaljete izvod. 2. Mi sredimo. 3. Dobijete mesecni izvestaj."
 - **Licni brend.** Racunovodstvo je usluga poverenja. Lice vlasnika agencije u video sadrzaju gradi poverenje brze nego logo.
 
-## Budzet po fazama
+## Budžet po fazama
 
-### Mesec 1-2: Test (200e-500e mesecno)
+### Mesec 1-2: Test (200e-500e mesečno)
 
 - 2-3 razlicita kreativna pristupa (edukativni, testimonijal, sezonski).
 - 2 publike (interest targeting + lookalike od baze klijenata).
 - Cilj: CPL ispod 25e, identifikacija pobednicke kombinacije.
 
-### Mesec 3-4: Optimizacija (500e-1.200e mesecno)
+### Mesec 3-4: Optimizacija (500e-1.200e mesečno)
 
-- Pojacanje budzeta na kreativu i publiku koja radi.
+- Pojacanje budžeta na kreativu i publiku koja radi.
 - Dodavanje remarketing kampanja.
-- Cilj: CPL ispod 18e, 8-15 kvalifikovanih upita mesecno.
+- Cilj: CPL ispod 18e, 8-15 kvalifikovanih upita mesečno.
 
-### Mesec 5+: Skaliranje (1.200e+ mesecno)
+### Mesec 5+: Skaliranje (1.200e+ mesečno)
 
 - Geo-ekspanzija (ako ste u BG, kampanje za NS, Nis itd. ako nudite online knjigovodstvo).
-- Sezonski burst budzeti (januar-mart 2x veci spend).
+- Sezonski burst budžeti (januar-mart 2x veci spend).
 - Cilj: predvidiv tok novih klijenata sa jasnom cenom po klijentu.
 
-## 30-dnevni plan za racunovodje koje krecu od nule
+## 30-dnevni plan za računovođe koje krecu od nule
 
 - **Nedelja 1:** Pixel setup + kreiranje 3 kreative (edukativni carousel, testimonijal video, sezonski oglas ako je relevantan period). Pokretanje kampanja sa 2 publike.
 - **Nedelja 2:** Analiza prvih rezultata. Gasenje kreative sa CTR ispod 1%. Dodavanje novih varijacija pobednika.
 - **Nedelja 3:** Remarketing kampanja za posetioce sajta. A/B test CTA poruke na landing stranici.
-- **Nedelja 4:** Preraspodela budzeta samo na segmente sa zdravom cenom upita. Izvestaj i plan za mesec 2.
+- **Nedelja 4:** Preraspodela budžeta samo na segmente sa zdravom cenom upita. Izvestaj i plan za mesec 2.
 
-Za siri benchmark troska klika pogledaj [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026).
+Za širi benchmark troška klika pogledaj [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026).
 
-## Instagram vs Google Ads za racunovodje: sta kad
+## Instagram vs Google Ads za računovođe: sta kad
 
 | Kriterijum | Instagram | Google Ads |
 |---|---|---|
 | **Intent** | Kreira svest i interes | Hvata aktivnu pretragu |
 | **Brzina rezultata** | 2-3 nedelje za prvu konverziju | 1-2 nedelje |
 | **CPL raspon** | 8e-35e | 12e-45e |
-| **Najbolje za** | Branding, sezonske kampanje, retargeting | "Racunovodja Beograd" tip pretrage |
-| **Slabost** | Lead kvalitet varira vise | Visi CPC u konkurentnim gradovima |
+| **Najbolje za** | Branding, sezonske kampanje, retargeting | "Računovođa Beograd" tip pretrage |
+| **Slabost** | Lead kvalitet varira više | Viši CPC u konkurentnim gradovima |
 
-Idealan scenario: oba kanala rade zajedno. Google Ads hvata ljude koji aktivno traze, Instagram gradi svest i retargetuje neodlucne.
+Idealan scenario: oba kanala rade zajedno. Google Ads hvata ljude koji aktivno traže, Instagram gradi svest i retargetuje neodlucne.
 
-Za kompletan pregled usluga za vasu nisu pogledaj [marketing za racunovodje](/marketing-za-racunovodje).
+Za kompletan pregled usluga za vašu nisu pogledaj [marketing za računovođe](/marketing-za-racunovodje).
 
-## Najcesce greske racunovodja na Instagramu
+## Najčešće greške racunovodja na Instagramu
 
-1. **Previse profesionalan ton.** Instagram je opustenija platforma. "Mi smo akreditovana agencija sa 15 godina iskustva" ne zaustavlja skrol. "Evo koliko realno placate porez kao pausalac" zaustavlja.
+1. **Previse profesionalan ton.** Instagram je opustenija platforma. "Mi smo akreditovana agencija sa 15 godina iskustva" ne zaustavlja skrol. "Evo koliko realno plaćate porez kao paušalac" zaustavlja.
 
-2. **Oglas vodi na pocetnu stranu.** Svaka kampanja mora da ima landing stranicu koja odgovara na obecanje iz oglasa. Oglas za "osnivanje DOO" ne sme da vodi na stranicu o svim uslugama.
+2. **Oglas vodi na početnu stranu.** Svaka kampanja mora da ima landing stranicu koja odgovara na obecanje iz oglasa. Oglas za "osnivanje DOO" ne sme da vodi na stranicu o svim uslugama.
 
 3. **Nema follow-up sistema.** Instagram lead koji ne dobije odgovor u 2 sata verovatno ce potpisati ugovor sa nekim ko je bio brzi. Automatizovan odgovor + poziv u roku od 24h je minimum.
 
-4. **Ista kreativa mesecima.** Zasicenje publike na Instagramu je brzo. Menjajte kreative na svake 2-3 nedelje.
+4. **Ista kreativa mesecima.** Zasićenje publike na Instagramu je brzo. Menjajte kreative na svake 2-3 nedelje.
 
 5. **Ne mere se prava metrika.** Broj lajkova i pratilaca nije metrika. Broj upita, cena upita i cena potpisanog klijenta — to su jedini brojevi koji se broje.
 
 Ako pored Instagram kanala razmatrate i SEO investiciju, pogledaj [SEO optimizacija cena](/seo-optimizacija-cena) i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-## Kada Instagram nema smisla za racunovodje
+## Kada Instagram nema smisla za računovođe
 
 Iskreno, postoje situacije kad Instagram nije pravi kanal:
 
-- Ako je vas kapacitet vec popunjen i ne trazite nove klijente.
+- Ako je vaš kapacitet vec popunjen i ne tražite nove klijente.
 - Ako ciljate iskljucivo velike kompanije (500+ zaposlenih) — za njih je LinkedIn ili direktna prodaja bolji put.
-- Ako nemate vremena ni resurse za kreativu. Oglas koji se ne menja mesecima trose budzet bez rezultata.
+- Ako nemate vremena ni resurse za kreativu. Oglas koji se ne menja mesecima trose budžet bez rezultata.
 
 U svim ostalim slucajevima, posebno za agencije koje rade sa malim i srednjim firmama, Instagram je kanal koji vredi testirati.
 
-## Zakljucak
+## Zaključak
 
-Instagram reklame za racunovodje u Srbiji 2026 rade kada imate jasan sadrzaj, doslednu kreativu i brz follow-up proces za upite. Kanal nije magican, ali je za racunovodje specificno povoljan jer je konkurencija jos uvek niska a publika prisutna.
+Instagram reklame za računovođe u Srbiji 2026 rade kada imate jasan sadržaj, doslednu kreativu i brz follow-up proces za upite. Kanal nije magican, ali je za računovođe specificno povoljan jer je konkurencija još uvek niska a publika prisutna.
 
-Ako zelite da proverite da li Instagram ima smisla za vasu agenciju ili trebate pomoc da postavite kampanje koje stvarno donose klijente, javite se preko [kontakt forme](/kontakt).
+Ako zelite da proverite da li Instagram ima smisla za vašu agenciju ili trebate pomoc da postavite kampanje koje stvarno donose klijente, javite se preko [kontakt forme](/kontakt).
 `,
   },
   {
@@ -29171,7 +29171,7 @@ Ako zelite brzu analizu vaseg sajta i Google Business profila sa 3 konkretna kor
   {
     slug: 'google-ads-za-kozmeticki-salon-cena-termina-srbija-2026',
     title: 'Google Ads za kozmetičke salone u Srbiji 2026: cena termina, budžet i strategija',
-    excerpt: 'Koliko koštaju Google reklame za kozmetičke salone u Srbiji 2026, koji budžet ima smisla i kako da dovedete klijente koji vec traže vas tip tretmana.',
+    excerpt: 'Koliko koštaju Google reklame za kozmetičke salone u Srbiji 2026, koji budžet ima smisla i kako da dovedete klijente koji vec traže vaš tip tretmana.',
     date: '2026-03-17',
     category: 'Marketing',
     readTime: 9,
@@ -29191,7 +29191,7 @@ Za siri kontekst o cenama digitalnog oglasavanja, pogledajte [Google reklame cen
 
 Instagram gradi zelju i vizuelnu privlacnost. Google hvata ljude koji **vec traze resenje** za konkretan problem.
 
-Kada neko kuca "kozmeticki salon tretman lica Beograd" ili "depilacija cena Novi Sad", ta osoba ne razgleda inspiraciju. Ona trazi gde da ode i zavrsi posao. Ako se vas salon ne pojavljuje, termin ide konkurenciji.
+Kada neko kuca "kozmeticki salon tretman lica Beograd" ili "depilacija cena Novi Sad", ta osoba ne razgleda inspiraciju. Ona trazi gde da ode i završi posao. Ako se vaš salon ne pojavljuje, termin ide konkurenciji.
 
 Klik sa Google pretrage konvertuje 3 do 5 puta bolje nego nasumicni klik sa drustvenih mreza. Razlog je jednostavan: intent je jaci.
 
@@ -29233,7 +29233,7 @@ Sezonski intent je jak i ljudi zakazu brzo. Konkurencija cesto kasni sa pripremo
 
 ### 4. Remarketing
 
-Posetioci koji su vec bili na vasem sajtu ali nisu zakazali. Mali budzet (50e-100e/mesecno), visoka konverzija jer im je salon vec poznat.
+Posetioci koji su vec bili na vašem sajtu ali nisu zakazali. Mali budzet (50e-100e/mesecno), visoka konverzija jer im je salon vec poznat.
 
 ## Landing stranica: gde vecina salona gubi novac
 
@@ -29242,13 +29242,13 @@ Google moze da dovede klikove, ali ako klik vodi na Instagram profil, homepage b
 Sta landing stranica za kozmeticki salon mora da ima:
 
 - **Dugme za zakazivanje ili poziv** iznad prevoja na mobilnom
-- **Fotografije vaseg prostora i rada**, ne stock slike
+- **Fotografije vašeg prostora i rada**, ne stock slike
 - **Cene ili cenovni raspon** za usluge koje reklamirate
 - **Google recenzije** ugradjene na stranicu
 - **Lokacija i radno vreme** odmah vidljivi
 - **Sertifikati i aparati** koje koristite (poverenje)
 
-Ako nemate sajt ili vas trenutni sajt ne konvertuje, pogledajte [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena) za realan okvir troskova.
+Ako nemate sajt ili vaš trenutni sajt ne konvertuje, pogledajte [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena) za realan okvir troskova.
 
 ## Koliko realno kosta Google Ads za kozmeticki salon mesecno
 
@@ -29311,47 +29311,47 @@ Google Ads za kozmeticke salone u Srbiji 2026 je jedan od najbrze isplativih kan
 
 Za celokupnu strategiju digitalnog marketinga za kozmeticke salone, pogledajte i nas vodic za [SEO za kozmeticke salone](/blog/seo-za-kozmeticke-salone-cena-srbija-2026) i [Instagram reklame za kozmeticke salone](/blog/instagram-reklame-za-kozmeticke-salone-cena-termina-srbija-2026).
 
-Ako zelite da proverite da li Google Ads ima smisla za vas salon ili vam treba pomoc sa postavkom, javite se preko [kontakt forme](/kontakt).
+Ako zelite da proverite da li Google Ads ima smisla za vaš salon ili vam treba pomoc sa postavkom, javite se preko [kontakt forme](/kontakt).
 `,
   },
   {
     slug: 'instagram-reklame-za-hotele-i-smestaj-cena-rezervacije-srbija-2026',
-    title: 'Instagram reklame za hotele i smestaj u Srbiji 2026: cena po rezervaciji i strategija',
+    title: 'Instagram reklame za hotele i smeštaj u Srbiji 2026: cena po rezervaciji i strategija',
     excerpt: 'Koliko koštaju Instagram reklame za hotele, apartmane i vile u Srbiji. Tipovi kampanja, budžeti, kreativa koja privlaci goste i strategija za direktne rezervacije.',
     date: '2026-03-20',
     category: 'Instagram Ads',
     readTime: 10,
     content: `
-## Instagram reklame za hotele i smestaj: prakticni okvir
+## Instagram reklame za hotele i smeštaj: praktični okvir
 
 Ako upravljate hotelom, apartmanom, vilom ili etno selom u Srbiji i razmisljate o Instagram oglasavanju, evo sta ocekivati u 2026:
 
 - **CPM (cena za 1.000 prikaza):** 2,50e - 6e za srpsko trziste
 - **CPC (cena po kliku):** 0,10e - 0,45e za smestajne kampanje
 - **Cena po upitu/rezervaciji:** 8e - 35e zavisno od tipa objekta i sezone
-- **Minimalni mesecni budzet za pouzdan test:** 200e - 500e
-- **Break-even:** najcesce posle 3-6 nedelja za nove kampanje
+- **Minimalni mesecni budžet za pouzdan test:** 200e - 500e
+- **Break-even:** najčešće posle 3-6 nedelja za nove kampanje
 
-Za celokupnu sliku o cenama Instagram oglasavanja pogledajte [Instagram reklame cena](/instagram-reklame-cena). Za marketing strategiju za smestajne objekte, korisno je videti nas vodic za [marketing za hotele i smestaj](/marketing-za-hotele-i-smestaj).
+Za celokupnu sliku o cenama Instagram oglasavanja pogledajte [Instagram reklame cena](/instagram-reklame-cena). Za marketing strategiju za smestajne objekte, korisno je videti nas vodic za [marketing za hotele i smeštaj](/marketing-za-hotele-i-smestaj).
 
-## Zasto Instagram radi za smestaj
+## Zašto Instagram radi za smeštaj
 
-Odluka o putovanju i rezervaciji smestaja je vizuelna. Niko ne rezervise sobu u hotelu koji nema ni jednu fotografiju. Instagram je platforma gde ljudi aktivno traze inspiraciju za sledece putovanje, pregledaju lokacije i cuvaju mesta u kolekcije.
+Odluka o putovanju i rezervaciji smestaja je vizuelna. Niko ne rezervise sobu u hotelu koji nema ni jednu fotografiju. Instagram je platforma gde ljudi aktivno traže inspiraciju za sledeće putovanje, pregledaju lokacije i cuvaju mesta u kolekcije.
 
-Za razliku od Google Ads-a gde hvatate ljude koji vec znaju gde idu, Instagram vam omogucava da kreirate zelju kod ljudi koji jos biraju destinaciju ili tip odmora. To je posebno korisno za:
+Za razliku od Google Ads-a gde hvatate ljude koji vec znaju gde idu, Instagram vam omogucava da kreirate zelju kod ljudi koji još biraju destinaciju ili tip odmora. To je posebno korisno za:
 
 - Objekte van velikih gradova koji nemaju organsku potraznju na Google-u
 - Sezonske kapacitete kojima treba popuniti prazan period
 - Premium sobe i pakete gde vizuelni prikaz opravdava visu cenu
 - Nove objekte bez recenzija na Booking-u koji moraju da izgrade svest
 
-Za poredjenje sa Google Ads pristupom, pogledajte [Google Ads za hotele i smestaj](/blog/google-ads-za-hotele-i-smestaj-cena-rezervacije-srbija-2026).
+Za poredjenje sa Google Ads pristupom, pogledajte [Google Ads za hotele i smeštaj](/blog/google-ads-za-hotele-i-smestaj-cena-rezervacije-srbija-2026).
 
 ## 4 tipa kampanja koje rade za smestajne objekte
 
 ### 1. Awareness kampanja za destinaciju
 
-Cilj nije direktna rezervacija. Cilj je da ljudi saznaju da vas objekat postoji i da zapamte lokaciju.
+Cilj nije direktna rezervacija. Cilj je da ljudi saznaju da vaš objekat postoji i da zapamte lokaciju.
 
 Format koji radi:
 - **Reels (15-30 sekundi):** brzi prikaz objekta, okoline i jednog momenta iskustva (jutarnji pogled sa terase, bazen u sumrak, dorucak sa lokalnim proizvodima)
@@ -29359,14 +29359,14 @@ Format koji radi:
 
 Targeting:
 - Interesovanja: putovanja, Srbija turizam, vikend izleti, planine/jezera zavisno od lokacije
-- Uzrast: 25-55 za porodicni smestaj, 22-40 za boutique/glamping
-- Lokacija: Beograd, Novi Sad i jos 2-3 velika grada odakle dolazi vecina gostiju
+- Uzrast: 25-55 za porodicni smeštaj, 22-40 za boutique/glamping
+- Lokacija: Beograd, Novi Sad i još 2-3 velika grada odakle dolazi vecina gostiju
 
-Budzet: 5e - 10e dnevno je dovoljan za awareness. Cilj je reach i video views, ne konverzija.
+Budžet: 5e - 10e dnevno je dovoljan za awareness. Cilj je reach i video views, ne konverzija.
 
 ### 2. Retargeting kampanja za posete sajtu
 
-Ovo je najvrednija kampanja. Hvata ljude koji su vec bili na vasem sajtu (pregledali sobe, cene, lokaciju) ali nisu rezervisali.
+Ovo je najvrednija kampanja. Hvata ljude koji su vec bili na vašem sajtu (pregledali sobe, cene, lokaciju) ali nisu rezervisali.
 
 - **Custom Audience:** posetioci sajta u poslednjih 14-30 dana
 - **Format:** dinamicki carousel sa konkretnim sobama/paketima i cenom
@@ -29376,18 +29376,18 @@ Cena po kliku u retargetingu je niza (0,05e - 0,15e), a konverzija 3-5x visa neg
 
 ### 3. Sezonska kampanja za popunjavanje kapaciteta
 
-Vecina smestajnih objekata u Srbiji ima jasne sezone. Zlatibor i Kopaonik zimi, Fruska Gora i Tara u prolece, Sokobanja i jezera leti. Problem nastaje u periodima izmedju.
+Vecina smestajnih objekata u Srbiji ima jasne sezone. Zlatibor i Kopaonik zimi, Fruska Gora i Tara u prolece, Sokobanja i jezera leti. Problem nastaje u periodima između.
 
 Sezonske kampanje su agresivnije i vremenski ogranicene:
 - **Last-minute ponude:** "Ovog vikenda na Zlatiboru od 45e po nocenju" sa countdown sticker-om
-- **Rani booking:** "Rezervisite leto 2026 do kraja marta: 20% popust za minimum 5 nocenja"
+- **Rani booking:** "Rezervisite leto 2026 do kraja marta: 20% popust za minimum 5 noćenja"
 - **Tematski paketi:** wellness vikend, romanticni paket, team building za firme, Nova Godina
 
-Budzet: 15e - 30e dnevno tokom sezonske kampanje. Kratke kampanje (7-14 dana) sa jasnom ponudom rade bolje nego kontinuirano ograsavanje bez specifike.
+Budžet: 15e - 30e dnevno tokom sezonske kampanje. Kratke kampanje (7-14 dana) sa jasnom ponudom rade bolje nego kontinuirano ograsavanje bez specifike.
 
 ### 4. Social Proof kampanja
 
-Gosti veruju drugim gostima vise nego vasim fotografijama. UGC (User Generated Content) kampanje sa recenzijama, video testimonialima i repostovima gostiju konvertuju bolje od profesionalnih fotki.
+Gosti veruju drugim gostima više nego vasim fotografijama. UGC (User Generated Content) kampanje sa recenzijama, video testimonialima i repostovima gostiju konvertuju bolje od profesionalnih fotki.
 
 - **Format:** Reels sa citatom gosta + snimak objekta
 - **Carousel:** 3 recenzije (tekst + slika) sa razlicitih platformi (Google, Booking, TripAdvisor)
@@ -29407,37 +29407,37 @@ Ovo posebno pomaze novim objektima. Ako nemate recenzije na Booking-u, Instagram
 ### Sta ne radi
 
 - Profesionalne fotke sa wide-angle objektivom koje cine sobu vecom nego sto jeste. Gosti se osecaju prevareno i ostavljaju lose recenzije.
-- Genericki copy tipa "Vas raj za odmor". To ne govori nista specificno.
+- Genericki copy tipa "Vaš raj za odmor". To ne govori nista specificno.
 - Video duzi od 30 sekundi za awareness. Niko ne gleda minutni obilazak hotela u feed-u.
 - Oglas bez jasnog CTA. "Rezervisite direktno" sa linkom na booking stranicu je minimum.
 
-## Budzeti po tipu smestajnog objekta
+## Budžeti po tipu smestajnog objekta
 
 ### Mali apartman / vikendica (1-5 jedinica)
-- Mesecni budzet: 150e - 300e
+- Mesecni budžet: 150e - 300e
 - Fokus: retargeting + jedna sezonska kampanja
-- Ocekivani upiti: 8-20 mesecno
+- Ocekivani upiti: 8-20 mesečno
 - Cena po upitu: 10e - 25e
 
 ### Srednji objekat (6-20 soba)
-- Mesecni budzet: 300e - 800e
+- Mesecni budžet: 300e - 800e
 - Fokus: awareness + retargeting + sezonske + social proof
-- Ocekivani upiti: 20-50 mesecno
+- Ocekivani upiti: 20-50 mesečno
 - Cena po upitu: 8e - 20e
 
 ### Veci hotel / resort (20+ soba)
-- Mesecni budzet: 800e - 2.500e+
+- Mesecni budžet: 800e - 2.500e+
 - Fokus: full funnel sa odvojenim kampanjama po tipu sobe i sezoni
-- Ocekivani upiti: 50-150+ mesecno
+- Ocekivani upiti: 50-150+ mesečno
 - Cena po upitu: 6e - 15e
 
 ## Instagram vs Booking/Airbnb: poredjenje troskova
 
-Booking uzima 15% provizije. Za sobu od 80e po nocenju i prosecnom boravku od 2 nocenja, Booking uzima 24e po rezervaciji.
+Booking uzima 15% provizije. Za sobu od 80e po nocenju i prosecnom boravku od 2 noćenja, Booking uzima 24e po rezervaciji.
 
 Instagram reklama za istu rezervaciju kosta 8e - 20e. Plus ta rezervacija je direktna, gost vam daje email, mozete ga pozvati ponovo bez troskova.
 
-Razlika postaje ogromna na godsnjem nivou. Objekat sa 500 nocenja godisnje:
+Razlika postaje ogromna na godsnjem nivou. Objekat sa 500 noćenja godisnje:
 - **Booking provizija (15%):** 6.000e - 12.000e (zavisno od prosecne cene)
 - **Instagram ads za ekvivalentan obim:** 2.000e - 5.000e + direktan odnos sa gostom
 
@@ -29452,7 +29452,7 @@ Za siru analizu troskova digitalnog marketinga, pogledajte [cene digitalnog mark
 1. **Cena po upitu za rezervaciju (CPL).** Svaki upit koji dodje preko sajta, DM-a ili poziva koji je dosao iz Instagram kampanje.
 2. **Cena po potvrdenoj rezervaciji.** CPL vam govori koliko kosta lead, ali potvrdjene rezervacije su jedino sto se racuna.
 3. **ROAS za sezonske kampanje.** Ako potrosite 500e na kampanju za maj vikend i generisete 3.000e u rezervacijama, ROAS je 6:1.
-4. **Udeo direktnih rezervacija.** Pratite mesecno koliki procenat dolazi direktno (sajt + telefon) vs OTA platforme.
+4. **Udeo direktnih rezervacija.** Pratite mesečno koliki procenat dolazi direktno (sajt + telefon) vs OTA platforme.
 
 ### Meta Pixel obavezno
 
@@ -29462,25 +29462,25 @@ Instalirajte Meta Pixel na sajt i pratite:
 - Purchase (zavrsena rezervacija)
 - Lead (formular za upit)
 
-Bez Pixel-a ne mozete raditi retargeting i ne znate sta vam radi. Ovo je jedini tehnicki preduslov koji ne smete preskociti.
+Bez Pixel-a ne mozete raditi retargeting i ne znate sta vam radi. Ovo je jedini tehnički preduslov koji ne smete preskociti.
 
-## 5 najcescih gresaka smestajnih objekata na Instagramu
+## 5 najcescih grešaka smestajnih objekata na Instagramu
 
-1. **Isti budzet cele godine.** Smestaj je sezonski biznis. Pojacajte budzet 4-6 nedelja pre pocetka sezone, smanjite u mrtvom periodu.
-2. **Oglas vodi na Instagram profil umesto na sajt.** Profil je za organski sadrzaj. Oglas mora da vodi na stranicu gde gost moze rezervisati ili poslati upit.
-3. **Siroko targetiranje bez lokacije.** Ako ste na Zlatiboru, ciljajte ljude iz Beograda, Novog Sada, Kragujevca. Ne trositi budzet na ljude iz Subotice kojima je Zlatibor daleko za vikend izlet.
+1. **Isti budžet cele godine.** Smeštaj je sezonski biznis. Pojacajte budžet 4-6 nedelja pre početka sezone, smanjite u mrtvom periodu.
+2. **Oglas vodi na Instagram profil umesto na sajt.** Profil je za organski sadržaj. Oglas mora da vodi na stranicu gde gost može rezervisati ili poslati upit.
+3. **Siroko targetiranje bez lokacije.** Ako ste na Zlatiboru, ciljajte ljude iz Beograda, Novog Sada, Kragujevca. Ne trositi budžet na ljude iz Subotice kojima je Zlatibor daleko za vikend izlet.
 4. **Nema odgovora na DM upite.** Ako vam oglas generise poruke, morate da odgovarate u roku od sat vremena. Posle toga gost je vec nasao drugi objekat.
 5. **Samo profesionalne fotke.** Mesajte profesionalne sa autenticnim snimcima. Mobilni video gosta koji uziva na terasi konvertuje bolje od studijskog snimka prazne sobe.
 
-## Zakljucak
+## Zaključak
 
 Instagram reklame za smestajne objekte u Srbiji 2026 su isplativa alternativa visokim OTA provizijama. Kljuc je kombinacija awareness kampanja za novu publiku, retargeting za ljude koji su vec pokazali interesovanje i sezonskih kampanja za popunjavanje kapaciteta.
 
-Pocnite sa 200e - 300e mesecno, fokusirajte se na retargeting ako imate dovoljno poseta na sajtu, i merite sve kroz cenu po potvrdenoj rezervaciji.
+Pocnite sa 200e - 300e mesečno, fokusirajte se na retargeting ako imate dovoljno poseta na sajtu, i merite sve kroz cenu po potvrdenoj rezervaciji.
 
-Za celokupnu strategiju digitalnog marketinga za smestajne objekte, pogledajte nas vodic za [marketing za hotele i smestaj](/marketing-za-hotele-i-smestaj) i [Google Ads vodic za hotele](/blog/google-ads-za-hotele-i-smestaj-cena-rezervacije-srbija-2026).
+Za celokupnu strategiju digitalnog marketinga za smestajne objekte, pogledajte nas vodic za [marketing za hotele i smeštaj](/marketing-za-hotele-i-smestaj) i [Google Ads vodic za hotele](/blog/google-ads-za-hotele-i-smestaj-cena-rezervacije-srbija-2026).
 
-Ako zelite da proverite da li Instagram reklame imaju smisla za vas objekat ili vam treba pomoc sa postavkom, javite se preko [kontakt forme](/kontakt).
+Ako zelite da proverite da li Instagram reklame imaju smisla za vaš objekat ili vam treba pomoc sa postavkom, javite se preko [kontakt forme](/kontakt).
 `,
   },
   {
