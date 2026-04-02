@@ -1484,102 +1484,102 @@ Zelite li da iskoristite prednosti m-commerce trenda i optimizujete vas sajt za 
     category: 'Marketing',
     readTime: '9 min',
     content: `
-## Zasto tekst i dalje prodaje
+## Zašto tekst i dalje prodaje
 
-U eri videa i drustvenih mreza, mnogi su predvideli smrt pisanog sadrzaja i blogova. Podaci za 2025. i 2026. godinu pokazuju potpuno suprotno: content marketing raste ka industriji od **107.5 milijardi dolara**, a blogovi su i dalje treci najkorisceniji format na svetu.
+U eri videa i društvenih mreza, mnogi su predvideli smrt pisanog sadržaja i blogova. Podaci za 2025. i 2026. godinu pokazuju potpuno suprotno: content marketing raste ka industriji od **107.5 milijardi dolara**, a blogovi su i dalje treci najkorisceniji format na svetu.
 
-Razlog je jednostavan: video privlaci paznju, ali tekst prodaje i edukuje. Kad kupac zeli da sazna *kako* nesto radi, koliko kosta i zasto je bolje od konkurencije, on cita.
+Razlog je jednostavan: video privlaci paznju, ali tekst prodaje i edukuje. Kad kupac zeli da sazna *kako* nesto radi, koliko košta i zašto je bolje od konkurencije, on cita.
 
-Evo konkretnih brojki koje dokazuju zasto je sadrzaj najvrednija dugorocna investicija koju vasa firma moze da napravi.
+Evo konkretnih brojki koje dokazuju zašto je sadržaj najvrednija dugoročna investicija koju vasa firma moze da napravi.
 
 ## ROI content marketinga: 3 dolara na svaki ulozen dolar
 
-Kada ulozite 100 evra u Facebook oglase, dobijete odredjen broj klikova. Kad budzet nestane, klikovi staju. 
-Kada ulozite 100 evra u kvalitetan blog post, on moze da donosi saobracaj i klijente mesecima i godinama besplatno.
+Kada ulozite 100 evra u Facebook oglase, dobijete odredjen broj klikova. Kad budžet nestane, klikovi staju. 
+Kada ulozite 100 evra u kvalitetan blog post, on moze da donosi saobraćaj i klijente mesecima i godinama besplatno.
 
 Zbog toga su razlike u ROI-u ogromne:
 
-- **Prosecan ROI content marketinga:** $3 povrata na svaki $1 ulog
-- **Prosecan ROI placenih oglasa:** $1.80 povrata na svaki $1 ulog
+- **Prosečan ROI content marketinga:** $3 povrata na svaki $1 ulog
+- **Prosečan ROI plaćenih oglasa:** $1.80 povrata na svaki $1 ulog
 - **B2B ekstrem:** Uz pravilnu SEO strategiju, ROI B2B content marketinga moze dostici neverovatnih **748%**
 
-Uprkos ovim brojevima, 56% B2B marketera kaze da im je merenje ROI-a od sadrzaja i dalje izazov. Razlog je to sto content retko donosi konverziju na "prvi klik". Korisnik procita tri vasa bloga tokom mesec dana, a onda direktno ukuca ime vase firme u Google i kupi. Google Analytics ce zaslugu pripisati "direct" saobracaju, iako je sadrzaj obavio prodaju.
+Uprkos ovim brojevima, 56% B2B marketera kaze da im je merenje ROI-a od sadržaja i dalje izazov. Razlog je to sto content retko donosi konverziju na "prvi klik". Korisnik procita tri vasa bloga tokom mesec dana, a onda direktno ukuca ime vase firme u Google i kupi. Google Analytics ce zaslugu pripisati "direct" saobracaju, iako je sadržaj obavio prodaju.
 
-Zanimljivo je i sta firme navode kao glavni benefit sadrzaja. To vise nije samo prodaja. **61% marketera navodi izgradnju poverenja i kredibiliteta** kao glavni povrat, sto je vaznije i od direktnog lead generation-a (55%).
+Zanimljivo je i šta firme navode kao glavni benefit sadržaja. To više nije samo prodaja. **61% marketera navodi izgradnju poverenja i kredibiliteta** kao glavni povrat, sto je vaznije i od direktnog lead generation-a (55%).
 
 ## Cena po leadu (CPL) i generisanje potencijalnih kupaca
 
 Content marketing je ubedljivo najisplativiji nacin za generisanje leadova (potencijalnih kupaca koji su ostavili kontakt podatke).
 
-- Generise **3x vise leadova** od tradicionalnog outbound marketinga (hladni pozivi, bilbordi, TV)
-- Kosta **62% manje** po generisanom leadu
+- Generise **3x više leadova** od tradicionalnog outbound marketinga (hladni pozivi, bilbordi, TV)
+- Košta **62% manje** po generisanom leadu
 - **87% B2B marketera** uspesno koristi content za generisanje leadova
 
 ### Benchmark cene po leadu (CPL) za 2026:
 
-- **Prosecan CPL (sve industrije):** $198.44
+- **Prosečan CPL (sve industrije):** $198.44
 - **E-commerce i HVAC:** oko $91-$92
 - **B2B SaaS:** $237
 - **Visoko obrazovanje:** $982
 - **Google Ads prosek:** $70.11
 
-A sada uporedite to sa organskim saobracajem: **SEO i content marketing imaju prosecan dugorocni CPL od samo $31.**
+A sada uporedite to sa organskim saobracajem: **SEO i content marketing imaju prosečan dugoročni CPL od samo $31.**
 
-Razlika u ceni je tolika da 61% firmi planira povecanje budzeta za content marketing u 2026. godini.
+Razlika u ceni je tolika da 61% firmi planira povećanje budžeta za content marketing u 2026. godini.
 
 Za detaljniji uvid u cene usluga pogledajte nas vodic za [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
 ## Blogovi: masina za generisanje leadova
 
-Ako mislite da niko vise ne cita blogove, brojke vas demantuju:
+Ako mislite da niko više ne cita blogove, brojke vas demantuju:
 
-- Firme koje imaju aktivan blog privlace **55% vise posetilaca** na sajt
-- Generisu **13x vise leadova** u odnosu na firme bez bloga
+- Firme koje imaju aktivan blog privlace **55% više posetilaca** na sajt
+- Generisu **13x više leadova** u odnosu na firme bez bloga
 - Firme koje objavljuju konzistentno (npr. 15 postova mesecno) mogu ocekivati prosecno 1.200 novih organskih leadova mesecno
 
-**Sta cini uspesan blog post u 2026?**
-Prosecna duzina uspesnog posta je oko **1.350 reci**. Zasto? Zato sto Google i citaoci traze sveobuhvatne odgovore na svoja pitanja. Kratki postovi od 300 reci vise ne prolaze u SEO rezultatima. 
+**Šta cini uspesan blog post u 2026?**
+Prosečna duzina uspesnog posta je oko **1.350 reci**. Zašto? Zato sto Google i citaoci traze sveobuhvatne odgovore na svoja pitanja. Kratki postovi od 300 reci više ne prolaze u SEO rezultatima. 
 
-Mala preduzeca su najveci dobitnici: ona imaju **23% vecu sansu** da vide pozitivan ROI od bloga u odnosu na velike korporacije. Zato sto na lokalu, jedan dobar, edukativan post moze da vas pozicionira iznad sve konkurencije u gradu.
+Mala preduzeća su najveci dobitnici: ona imaju **23% vecu sansu** da vide pozitivan ROI od bloga u odnosu na velike korporacije. Zato sto na lokalu, jedan dobar, edukativan post moze da vas pozicionira iznad sve konkurencije u gradu.
 
-Za informacije o uticaju sadrzaja i SEO-a na rast posetite nasu stranicu za [SEO optimizaciju](/seo-optimizacija-cena).
+Za informacije o uticaju sadržaja i SEO-a na rast posetite nasu stranicu za [SEO optimizaciju](/seo-optimizacija-cena).
 
 ## B2B vs B2C: razlike u sadrzaju
 
-Content marketing koriste i B2B (73%) i B2C (70%) firme, ali na potpuno razlicite nacine.
+Content marketing koriste i B2B (73%) i B2C (70%) firme, ali na potpuno različite nacine.
 
 ### B2C (Biznis ka potrosacu)
-- B2C sadrzaj generise neverovatnih **9.7x vise deljenja** na drustvenim mrezama
+- B2C sadržaj generise neverovatnih **9.7x više deljenja** na društvenim mrežama
 - Najbolje prolaze: dogadjaji, kratki tekstovi i videi
 - 43.3% B2C marketera ocenjuje svoju strategiju kao veoma uspesnu
 
 ### B2B (Biznis ka biznisu)
 - Oslanjaju se na: kratke clanke (92%), videe (76%) i studije slucaja (75%)
 - Najveci ROI dolazi iskljucivo od **owned media**: websajt, blog, i SEO
-- Veca investicija u kvalitet: B2B kupac zahteva detaljne informacije, studije slucaja i podatke pre donosenja odluke
+- Veća investicija u kvalitet: B2B kupac zahteva detaljne informacije, studije slucaja i podatke pre donosenja odluke
 
-Ova podela pokazuje da B2C firme mogu da se oslone na drustvene mreze za viralnost, dok B2B firme grade "biblioteke znanja" na svojim sajtovima.
+Ova podela pokazuje da B2C firme mogu da se oslone na društvene mreže za viralnost, dok B2B firme grade "biblioteke znanja" na svojim sajtovima.
 
-Vise o B2B trendovima pronadjite u nasem tekstu o [B2B marketingu i prodajnim ciklusima](/blog/b2b-marketing-statistika-lead-generation-prodajni-ciklus-linkedin-2026).
+Više o B2B trendovima pronadjite u nasem tekstu o [B2B marketingu i prodajnim ciklusima](/blog/b2b-marketing-statistika-lead-generation-prodajni-ciklus-linkedin-2026).
 
-## Kako AI menja proizvodnju sadrzaja
+## Kako AI menja proizvodnju sadržaja
 
 Vestacka inteligencija (AI) nije ubila content marketing, vec ga je ubrzala:
 
 - **89%** marketera vec koristi generativni AI
 - Kako se koristi: brainstorming tema (62%), rezimiranje (53%), i pisanje prvih nacrta (44%)
-- Rezultat: **68% biznisa** belezi rast ROI-a zbog koriscenja AI alata
-- Firme koje koriste AI za generisanje leadova vide **50% vise prodajno-spremnih leadova** uz do 60% nize troskove akvizicije (CAC)
+- Rezultat: **68% biznisa** belezi rast ROI-a zbog korišćenja AI alata
+- Firme koje koriste AI za generisanje leadova vide **50% više prodajno-spremnih leadova** uz do 60% nize troskove akvizicije (CAC)
 
 U 2026. godini, 94% marketera planira integraciju AI alata u svoj proces rada. Ali AI ne zamenjuje eksperte. On generise ideje i prve nacrte, dok ljudi dodaju iskustvo, emociju i specifican ugao firme koji gradi pomenuto poverenje. 
 
-Sadrzaj koji zvuci kao robot nece konvertovati. Zato je proces uredjivanja postao vazniji od samog pisanja.
+Sadržaj koji zvuci kao robot nece konvertovati. Zato je proces uredjivanja postao vazniji od samog pisanja.
 
-## Zakljucak: investicija, a ne trosak
+## Zaključak: investicija, a ne trošak
 
-Ako platite oglas na bilbordu ili Facebook-u, vi iznajmljujete paznju. Cim prestanete da placate, paznja nestaje.
+Ako platite oglas na bilbordu ili Facebook-u, vi iznajmljujete paznju. Cim prestanete da plaćate, paznja nestaje.
 
-Kada napisete kvalitetan blog post, optimizujete ga za pretragu i postavite na svoj sajt, vi **gradite sopstveni digitalni asset**. Taj post radi za vas 24 sata dnevno, 365 dana u godini, bez dodatnih troskova. Sa ROI-em od $3 na $1 i cenom leada od $31, content marketing je dokazano najstabilniji temelj rasta u 2026. godini.
+Kada napisete kvalitetan blog post, optimizujete ga za pretragu i postavite na svoj sajt, vi **gradite sopstveni digitalni asset**. Taj post radi za vas 24 sata dnevno, 365 dana u godini, bez dodatnih troškova. Sa ROI-em od $3 na $1 i cenom leada od $31, content marketing je dokazano najstabilniji temelj rasta u 2026. godini.
 
 Spremni ste da izgradite vasu masinu za leadove? [Kontaktirajte nas](/kontakt) za besplatnu analizu i plan.
 `,
@@ -1590,14 +1590,14 @@ Spremni ste da izgradite vasu masinu za leadove? [Kontaktirajte nas](/kontakt) z
       "datePublished": "2026-03-25",
       "author": { "@type": "Organization", "name": "Platinum Zenith" },
       "publisher": { "@type": "Organization", "name": "Platinum Zenith", "url": "https://platinumzenith.com" },
-      "description": "Content marketing donosi 3x vise leadova od outbound marketinga po 62% nizoj ceni. Prosečan ROI je 3$ na svaki ulozen dolar. Podaci za B2B i B2C.",
+      "description": "Content marketing donosi 3x više leadova od outbound marketinga po 62% nizoj ceni. Prosečan ROI je 3$ na svaki ulozen dolar. Podaci za B2B i B2C.",
       "mainEntityOfPage": "https://platinumzenith.com/blog/content-marketing-statistika-roi-blog-lead-generation-cpl-2026"
     }
   },
   {
     slug: 'video-marketing-statistika-roi-kratki-video-youtube-tiktok-reels-2026',
     title: 'Video marketing u brojevima: ROI, kratki video, YouTube, TikTok i Reels (2026)',
-    excerpt: '93% marketera belezi pozitivan ROI od videa. Video na landing stranici povećava konverziju do 86%. Kratki video 2.5x veci engagement. Benchmarke po platformi.',
+    excerpt: '93% marketera belezi pozitivan ROI od videa. Video na landing stranici povećava konverziju do 86%. Kratki video 2.5x veći engagement. Benchmarke po platformi.',
     date: '2026-03-25',
     category: 'Marketing',
     readTime: '9 min',
@@ -1606,11 +1606,11 @@ Spremni ste da izgradite vasu masinu za leadove? [Kontaktirajte nas](/kontakt) z
 
 Video marketing nije "bilo bi lepo da imamo." To je kanal koji 93% marketera ocenjuje kao profitabilan, a firme koje ga koriste rastu skoro 50% brze od onih koje ne koriste.
 
-Uprkos tome, vecina firmi u Srbiji i dalje tretira video kao luksuz. "Skupo je snimiti," "nemamo opremu," "ne znamo sta da snimimo." A u medjuvremenu, jedan video snimljen telefonom za Instagram Reels moze da konvertuje bolje od cele landing stranice.
+Uprkos tome, vecina firmi u Srbiji i dalje tretira video kao luksuz. "Skupo je snimiti," "nemamo opremu," "ne znamo šta da snimimo." A u medjuvremenu, jedan video snimljen telefonom za Instagram Reels moze da konvertuje bolje od cele landing stranice.
 
-Evo sta kazu podaci.
+Evo šta kazu podaci.
 
-## ROI i konverzije: zasto video pobedjuje
+## ROI i konverzije: zašto video pobedjuje
 
 ### ROI koji opravdava ulaganje
 
@@ -1620,40 +1620,40 @@ Evo sta kazu podaci.
 
 ### Uticaj na konverzije
 
-- Video na landing stranici povecava konverziju za **do 86%**
-- Stranice sa video sadrzajem imaju prosecnu konverziju od **4.8%** (bez videa: 2.9%)
+- Video na landing stranici povećava konverziju za **do 86%**
+- Stranice sa video sadržajem imaju prosecnu konverziju od **4.8%** (bez videa: 2.9%)
 - **82%** ljudi kaze da ih je gledanje videa ubedilo da kupe proizvod
-- AI-generisani demo videi proizvoda povecavaju konverziju za **40%**
+- AI-generisani demo videi proizvoda povećavaju konverziju za **40%**
 
 Za optimizaciju konverzija na vasem sajtu pogledajte [CRO optimizaciju](/cro).
 
-## Kratki video: 2.5x veci engagement
+## Kratki video: 2.5x veći engagement
 
 Kratki video (do 60 sekundi) je najefektivniji format u digitalnom marketingu u 2026:
 
-- Generise **2.5x vise engagementa** od dugackih videa
-- **85%** marketera ga smatra najefikasnijim formatom na drustvenim mrezama
-- **66%** kaze da je najzanimljiviji tip sadrzaja
+- Generise **2.5x više engagementa** od dugackih videa
+- **85%** marketera ga smatra najefikasnijim formatom na društvenim mrežama
+- **66%** kaze da je najzanimljiviji tip sadržaja
 - **73%** potrosaca preferira kratki video za istrazivanje proizvoda
 - Globalna potrosnja na kratke video oglase: **111 milijardi dolara** u 2025, projekcija 145.8 milijardi do 2028
 
-Prosecni gledalac odgleda **41-80%** kratkog videa. To je mnogo vise nego kod dugih formata gde vecina napusti posle prvih 20%.
+Prosečni gledalac odgleda **41-80%** kratkog videa. To je mnogo više nego kod dugih formata gde vecina napusti posle prvih 20%.
 
 ## YouTube: 36.1 milijardi dolara prihoda od oglasa
 
 YouTube i dalje dominira kao video platforma sa nekim impresivnim brojevima:
 
 - **Prihod od oglasa:** 36.1 milijardi dolara u 2025, projekcija 42.4 milijarde u 2026
-- **79%** potrosaca kaze da YouTube utice na njihove odluke o kupovini
+- **79%** potrosaca kaze da YouTube utiče na njihove odluke o kupovini
 - Gledaoci koji vide proizvod na YouTube-u su **64% verovatnije** da ce kupiti u naredna 24 sata
 
 ### YouTube Shorts
 
-- Shorts je povecao ukupne preglede na platformi za **76%** izmedju 2024 i 2025
+- Shorts je povecao ukupne preglede na platformi za **76%** između 2024 i 2025
 - Engagement rate: **4.4% do 7.91%** (najvisi medju short-form platformama)
 - Za male kreatore (ispod 100K pratilaca), Shorts konzistentno donosi jaci doseg nego na drugim platformama
 
-YouTube je jedinstven jer sadrzaj ostaje relevantan mesecima i godinama. Blog post koji napisete danas moze da donosi saobracaj godinama. Isto vazi za YouTube video. Za poredjenje sa drugim platformama pogledajte [drustvene mreze statistika](/blog/drustvene-mreze-statistika-korisnici-engagement-vreme-ad-spend-2026).
+YouTube je jedinstven jer sadržaj ostaje relevantan mesecima i godinama. Blog post koji napisete danas moze da donosi saobraćaj godinama. Isto vazi za YouTube video. Za poredjenje sa drugim platformama pogledajte [društvene mreže statistika](/blog/drustvene-mreze-statistika-korisnici-engagement-vreme-ad-spend-2026).
 
 ## TikTok: 96% visi ROAS od ostalih kanala
 
@@ -1663,8 +1663,8 @@ TikTok nije samo za ples. Podaci za 2025-2026:
 - **Prihod od oglasa:** 34.8 milijardi dolara u 2026
 - **45.5%** korisnika se pretvori u kupce (najvisa konverzija medju platformama)
 - **96% visi ROAS** od proseka ostalih digitalnih kanala
-- **1.7x vise deljenja** od Instagrama (algoritam gura sadrzaj i ne-pratiteljima)
-- Prosecni engagement: **4.90%** (nano-influenseri do 10.3%)
+- **1.7x više deljenja** od Instagrama (algoritam gura sadržaj i ne-pratiteljima)
+- Prosečni engagement: **4.90%** (nano-influenseri do 10.3%)
 
 TikTok-ova prednost: algoritam distribucije. Na Instagramu, vas post vide vasi pratioci. Na TikToku, dobro osmisljeni video moze da dosegne milione potpuno novih ljudi. Za cene TikTok oglasa pogledajte [TikTok vs Instagram reklame](/blog/tiktok-vs-instagram-reklame-srbija-2026).
 
@@ -1674,7 +1674,7 @@ Reels su postali centar Instagram-a:
 
 - Zauzimaju **50% ukupnog vremena** provedenog na Instagramu
 - **140 milijardi** dnevnih pregleda
-- Reach rate: **30.81%** (vise nego duplo od karuzela, slika i Stories-a)
+- Reach rate: **30.81%** (više nego duplo od karuzela, slika i Stories-a)
 - Reels oglasi imaju **41% visi CTR** od staticnih oglasa
 - **Preko polovine** svih Instagram oglasa u 2025 su isli na Reels format
 - Biznisi koji koriste Reels beleaze **29% rast ROI-a**
@@ -1693,19 +1693,19 @@ Za cene Instagram oglasa pogledajte [Instagram reklame cena](/instagram-reklame-
 
 ### E-commerce
 
-**Instagram Reels (prioritet) + TikTok + YouTube Shorts.** Reels za direktnu prodaju (Shopping integracija), TikTok za doseg i svest o brendu, Shorts za SEO i dugorocni saobracaj.
+**Instagram Reels (prioritet) + TikTok + YouTube Shorts.** Reels za direktnu prodaju (Shopping integracija), TikTok za doseg i svest o brendu, Shorts za SEO i dugoročni saobraćaj.
 
 ### B2B usluge
 
-**YouTube (dugi format) + LinkedIn video.** Edukativni sadrzaj koji demonstrira ekspertizu. Case studies, how-to vodici, objasnjenja procesa. Za B2B statistiku pogledajte [B2B marketing benchmarke](/blog/b2b-marketing-statistika-lead-generation-prodajni-ciklus-linkedin-2026).
+**YouTube (dugi format) + LinkedIn video.** Edukativni sadržaj koji demonstrira ekspertizu. Case studies, how-to vodici, objasnjenja procesa. Za B2B statistiku pogledajte [B2B marketing benchmarke](/blog/b2b-marketing-statistika-lead-generation-prodajni-ciklus-linkedin-2026).
 
-### Budzet od nula evra
+### Budžet od nula evra
 
 Pocnite sa telefonom. Jedan kratki video nedeljno na Instagram Reels. Bez skripte, bez produkcije, bez savrsenog osvetljenja. Algoritam nagradjuje konzistentnost i autenticnost, ne produkcijsku vrednost.
 
-## Zakljucak: video nije opcija
+## Zaključak: video nije opcija
 
-Stranice sa videom konvertuju 86% bolje. Kratki video ima 2.5x veci engagement. TikTok konvertuje 45.5% korisnika u kupce. YouTube utice na 79% odluka o kupovini.
+Stranice sa videom konvertuju 86% bolje. Kratki video ima 2.5x veći engagement. TikTok konvertuje 45.5% korisnika u kupce. YouTube utiče na 79% odluka o kupovini.
 
 Jedino pitanje koje ostaje: koliko dugo mozete da priustite da NE koristite video?
 
@@ -1718,7 +1718,7 @@ Ako vam treba pomoc sa video strategijom ili kompletnim digitalnim marketingom, 
       "datePublished": "2026-03-25",
       "author": { "@type": "Organization", "name": "Platinum Zenith" },
       "publisher": { "@type": "Organization", "name": "Platinum Zenith", "url": "https://platinumzenith.com" },
-      "description": "93% marketera belezi pozitivan ROI od videa. Video na landing stranici povecava konverziju do 86%. Kratki video 2.5x veci engagement. Benchmarke po platformi.",
+      "description": "93% marketera belezi pozitivan ROI od videa. Video na landing stranici povećava konverziju do 86%. Kratki video 2.5x veći engagement. Benchmarke po platformi.",
       "mainEntityOfPage": "https://platinumzenith.com/blog/video-marketing-statistika-roi-kratki-video-youtube-tiktok-reels-2026"
     }
   },
@@ -2676,15 +2676,15 @@ Za kompletnu strategiju pogledajte [marketing strategija vodic](/blog/marketing-
 
 Customer Acquisition Cost (CAC) je ukupan iznos koji firma potrosi na marketing i prodaju da dobije jednog novog kupca. Ova metrika direktno odredjuje profitabilnost, skalabilnost i rok trajanja svakog biznisa.
 
-Prosecni CAC je **porastao 40-60% izmedju 2023. i 2025.** godine (FirstPageSage, Phoenix Strategy Group, 2025). Rast dolazi od vece konkurencije na digitalnim kanalima, strozih privacy regulativa (iOS ATT, GDPR, nestanak third-party cookieja) i rastucih cena oglasavanja na svim platformama.
+Prosečni CAC je **porastao 40-60% između 2023. i 2025.** godine (FirstPageSage, Phoenix Strategy Group, 2025). Rast dolazi od veće konkurencije na digitalnim kanalima, strozih privacy regulativa (iOS ATT, GDPR, nestanak third-party cookieja) i rastucih cena oglasavanja na svim platformama.
 
-Za kontekst o tome koliko firme izdvajaju za marketing pogledajte [marketing budzet po industriji](/blog/koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026). Za konverziju koja direktno utice na CAC pogledajte [prosecna stopa konverzije po industriji](/blog/prosecna-stopa-konverzije-po-industriji-benchmark-statistika-2026).
+Za kontekst o tome koliko firme izdvajaju za marketing pogledajte [marketing budžet po industriji](/blog/koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026). Za konverziju koja direktno utiče na CAC pogledajte [prosečna stopa konverzije po industriji](/blog/prosecna-stopa-konverzije-po-industriji-benchmark-statistika-2026).
 
 ## CAC po industriji: B2B
 
-B2B firme imaju vise CAC-ove od B2C zbog duzih prodajnih ciklusa, vise touchpoint-ova i skuplje prodajne infrastrukture (SDR timovi, demo-ovi, enterprise onboarding).
+B2B firme imaju više CAC-ove od B2C zbog duzih prodajnih ciklusa, više touchpoint-ova i skuplje prodajne infrastrukture (SDR timovi, demo-ovi, enterprise onboarding).
 
-| Industrija | Prosecni CAC |
+| Industrija | Prosečni CAC |
 |---|---|
 | SaaS (prosek) | $536-$1.200 |
 | E-commerce SaaS | $274 |
@@ -2706,7 +2706,7 @@ Za zadrzavanje kupaca pogledajte [churn rate po industriji](/blog/churn-rate-po-
 
 B2C firme imaju nize CAC-ove jer je odluka o kupovini brza, obicno ne zahteva kontakt sa prodajom i oslanja se na digitalne kanale sa nizom cenom po kliku.
 
-| Industrija | Prosecni CAC |
+| Industrija | Prosečni CAC |
 |---|---|
 | E-commerce (prosek) | $68-$84 |
 | Hrana i pice | $45-$53 |
@@ -2721,17 +2721,17 @@ B2C firme imaju nize CAC-ove jer je odluka o kupovini brza, obicno ne zahteva ko
 
 *Izvori: LoyaltyLion E-commerce CAC Report (2025), MobiLoud E-commerce Statistics (2025), UpCounting E-commerce Benchmarks (2025), AnzoloMed Healthcare Marketing (2025)*
 
-Hrana i pice ima najnizi CAC ($45-$53) jer je ponavljanje kupovine cesto i marketing oslonjen na lokalni doseg. Luksuzna roba i zdravstvo imaju znacajno vise troskove jer zahtevaju duze razmatranje i vecu dozu poverenja pre konverzije.
+Hrana i pice ima najnizi CAC ($45-$53) jer je ponavljanje kupovine cesto i marketing oslonjen na lokalni doseg. Luksuzna roba i zdravstvo imaju znacajno više troskove jer zahtevaju duze razmatranje i vecu dozu poverenja pre konverzije.
 
 Za prosecnu vrednost narudzbe po industriji pogledajte [AOV benchmark](/blog/prosecna-vrednost-porudzbine-aov-po-industriji-benchmark-statistika-2026).
 
 ## CAC po marketing kanalu: gde je najjeftiniji kupac
 
-Izbor marketing kanala direktno odredjuje koliko placate za svakog novog kupca. Razlika izmedju najefikasnijeg i najskupljeg kanala moze biti **10x**.
+Izbor marketing kanala direktno odredjuje koliko plaćate za svakog novog kupca. Razlika između najefikasnijeg i najskupljeg kanala moze biti **10x**.
 
 ### B2B kanali
 
-| Kanal | Prosecni CAC |
+| Kanal | Prosečni CAC |
 |---|---|
 | Referral / partnerski programi | $150 |
 | Inbound marketing (SEO + content) | $500-$942 |
@@ -2744,7 +2744,7 @@ Izbor marketing kanala direktno odredjuje koliko placate za svakog novog kupca. 
 
 ### B2C kanali
 
-| Kanal | Prosecni CAC |
+| Kanal | Prosečni CAC |
 |---|---|
 | Referral programi | $40-$65 |
 | TikTok Ads | $25-$45 |
@@ -2760,48 +2760,48 @@ Referral programi su najefikasniji kanal i za B2B ($150) i za B2C ($40-$65). Ugr
 
 U B2C, email marketing za e-commerce brendove ima izuzetno nizak CAC ($8-$15 po kupcu) — ali pretpostavlja vec izgradjenu listu pretplatnika. Za gradnju liste pogledajte [email marketing ROI po industriji](/blog/koliko-zapravo-zaradjuje-email-marketing-roi-po-industriji-2026).
 
-## Organic vs paid: dugorocna matematika
+## Organic vs paid: dugoročna matematika
 
-Organic kanali (SEO, content marketing) imaju vise inicijalne troskove ali CAC opada vremenom kako se sadrzaj rangira i generise besplatan saobracaj. Paid kanali (Google Ads, Facebook Ads) daju instant rezultat ali CAC ostaje konstantan ili raste.
+Organic kanali (SEO, content marketing) imaju više inicijalne troskove ali CAC opada vremenom kako se sadržaj rangira i generise besplatan saobraćaj. Paid kanali (Google Ads, Facebook Ads) daju instant rezultat ali CAC ostaje konstantan ili raste.
 
 **Organic SEO progresija:**
 
 - **Prva godina:** CAC $942 (B2B) — investicija u content production, tehnicku optimizaciju, link building
-- **Druga godina:** CAC pada na $647 — postojeci sadrzaj rangira, novi content zahteva manje ulaganja
-- **Treca godina i dalje:** CAC moze pasti na $290 — sajt ima autoritet, sadrzaj generise organski saobracaj
+- **Druga godina:** CAC pada na $647 — postojeci sadržaj rangira, novi content zahteva manje ulaganja
+- **Treca godina i dalje:** CAC moze pasti na $290 — sajt ima autoritet, sadržaj generise organski saobraćaj
 
 **Paid Search realnost:**
 
-- **Konstantni troskovi:** Google Ads CPC raste u proseku 5-10% godisnje
-- **Nema compound efekta:** kad ugasite budzet, saobracaj nestaje istog dana
-- **CPC pritisak:** sve vise brendova ulazi u bidding, podize cene za iste kljucne reci
+- **Konstantni troškovi:** Google Ads CPC raste u proseku 5-10% godisnje
+- **Nema compound efekta:** kad ugasite budžet, saobraćaj nestaje istog dana
+- **CPC pritisak:** sve više brendova ulazi u bidding, podize cene za iste ključne reci
 
-Idealna strategija: koristite paid kanale za brz feedback i inicijalne konverzije, a istovremeno gradite organic prisustvo koje smanjuje CAC dugorocno.
+Idealna strategija: koristite paid kanale za brz feedback i inicijalne konverzije, a istovremeno gradite organic prisustvo koje smanjuje CAC dugoročno.
 
 Za detaljnu metriku po kanalu pogledajte [Google Ads CPC i CTR benchmark](/blog/google-ads-cpc-ctr-konverzija-po-industriji-benchmark-2026) i [Facebook Ads benchmark](/blog/facebook-ads-cpc-ctr-konverzija-cpl-po-industriji-benchmark-2026).
 
-## LTV:CAC odnos — kljucna metrika profitabilnosti
+## LTV:CAC odnos — ključna metrika profitabilnosti
 
-Sam CAC ne znaci nista bez konteksta. Firma koja trosi $500 po kupcu koji donese $5.000 tokom zivotnog ciklusa je izuzetno profitabilna. Firma koja trosi $50 po kupcu koji kupi jednom za $60 — nije.
+Sam CAC ne znači nista bez konteksta. Firma koja troši $500 po kupcu koji donese $5.000 tokom zivotnog ciklusa je izuzetno profitabilna. Firma koja troši $50 po kupcu koji kupi jednom za $60 — nije.
 
 **Benchmark LTV:CAC odnos:**
 
-| Odnos | Sta znaci |
+| Odnos | Šta znači |
 |---|---|
 | Ispod 1:1 | Gubite novac na svakom kupcu |
 | 1:1 do 2:1 | Jedva pokrivate troskove |
 | 3:1 | Zdrav odnos — industrijsko merilo |
 | 5:1+ | Odlicno — ali mozda ne ulazete dovoljno u rast |
 
-- Zdrav benchmark: **3:1 ili vise** — za svaki $1 ulozen u akviziciju, kupac donese $3+ tokom svog zivotnog ciklusa
-- Firme sa LTV:CAC ispod 1:1 trose vise na sticanje kupca nego sto on ikad donese
+- Zdrav benchmark: **3:1 ili više** — za svaki $1 ulozen u akviziciju, kupac donese $3+ tokom svog zivotnog ciklusa
+- Firme sa LTV:CAC ispod 1:1 troše više na sticanje kupca nego sto on ikad donese
 - LTV:CAC iznad 5:1 moze znaciti da firma **ne ulaze dovoljno** u rast i propusta trzisni udeo
 
-Kljucni parametri koji uticu na LTV:CAC:
+Ključni parametri koji uticu na LTV:CAC:
 
-1. **Konverzija** — veca konverzija = nizi CAC za isti ad spend
-2. **Retention** — duze zadrzavanje = veci LTV
-3. **Average Order Value** — veci AOV = brzi payback period
+1. **Konverzija** — veća konverzija = nizi CAC za isti ad spend
+2. **Retention** — duze zadrzavanje = veći LTV
+3. **Average Order Value** — veći AOV = brzi payback period
 4. **Churn rate** — manji churn = duzi zivotni ciklus kupca
 
 Za CLV benchmark pogledajte [Customer Lifetime Value po industriji](/blog/customer-lifetime-value-clv-po-industriji-benchmark-statistika-2026). Za churn pogledajte [churn rate benchmark](/blog/churn-rate-po-industriji-benchmark-statistika-2026).
@@ -2814,7 +2814,7 @@ Kompanije koje koriste AI u marketing i sales procesima prijavljuju **smanjenje 
 - **Chatbot kvalifikacija:** AI chatbot obradjuje 60-70% pocetnih upita bez ljudskog agenta
 - **Predictive targeting:** AI modeli predvidjaju koji segmenti konvertuju — smanjuju wasted ad spend za 20-30%
 - **Automated content production:** blog postovi, email sekvence, social content — manji tim, isti output
-- **Dynamic pricing i ponude:** personalizovane ponude na osnovu ponasanja korisnika povecavaju konverziju 15-25%
+- **Dynamic pricing i ponude:** personalizovane ponude na osnovu ponasanja korisnika povećavaju konverziju 15-25%
 
 Najvazniji efekat AI-ja na CAC nije u jednoj tacki — vec u kumulativnom smanjenju gubitaka kroz ceo funnel. Kad svaki korak konvertuje 10-20% bolje, krajnji CAC moze pasti drasticno.
 
@@ -2839,26 +2839,26 @@ Za strategije smanjenja odliva pogledajte [napustanje korpe statistika](/blog/na
 
 ## Regionalne razlike u CAC-u
 
-Geografija znacajno utice na cenu akvizicije:
+Geografija znacajno utiče na cenu akvizicije:
 
 - **SAD (Zapadna obala):** 15-25% iznad proseka — najskuplje trziste
 - **Zapadna Evropa:** na nivou globalnog proseka
 - **Istocna Evropa (Srbija, Hrvatska, Rumunija):** 30-50% ispod proseka SAD-a
 - **Jugoistocna Azija:** 40-60% ispod proseka SAD-a
 
-Za srpske firme ovo znaci konkurentsku prednost: vas CAC za B2B SaaS ili e-commerce moze biti **$150-$350** gde americki konkurent placa **$500-$1.200** za istog kupca. Nizi operativni troskovi, nize cene oglasavanja i manji CPC na lokalnom trzistu.
+Za srpske firme ovo znači konkurentsku prednost: vas CAC za B2B SaaS ili e-commerce moze biti **$150-$350** gde americki konkurent placa **$500-$1.200** za istog kupca. Nizi operativni troškovi, nize cene oglasavanja i manji CPC na lokalnom tržištu.
 
 Za cene digitalnog marketinga u Srbiji pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-## Kljucni zakljucci
+## Ključni zakljucci
 
 Cena akvizicije kupca varira od **$8 (email za e-commerce) do $14.772 (enterprise fintech)** — razlika od 1.847x. Industrija, poslovni model i izbor kanala odredjuju gde ce vasa firma pasti na tom spektru.
 
 Tri pravila za zdravu ekonomiju akvizicije:
 
-1. **LTV:CAC odnos 3:1 ili vise** — ako je ispod, optimizujte retention pre nego sto pojacate acquisition spend
+1. **LTV:CAC odnos 3:1 ili više** — ako je ispod, optimizujte retention pre nego sto pojacate acquisition spend
 2. **Diverzifikujte kanale** — referral i organic smanjuju zavisnost od paid kanala ciji CPC raste svake godine
-3. **Merite po kanalu, ne ukupno** — prosecni CAC je beskorisna metrika ako ne znate koji kanal donosi profitabilne a koji neprofitabilne kupce
+3. **Merite po kanalu, ne ukupno** — prosečni CAC je beskorisna metrika ako ne znate koji kanal donosi profitabilne a koji neprofitabilne kupce
 
 Zelite da smanjite cenu akvizicije kupca za vas biznis? [Javite nam se](/kontakt) za analizu vasih marketing kanala i konkretne preporuke za optimizaciju CAC-a.
 
@@ -2867,15 +2867,15 @@ Zelite da smanjite cenu akvizicije kupca za vas biznis? [Javite nam se](/kontakt
   },
   {
     slug: 'checkout-optimizacija-statistika-konverzija-forme-placanje-2026',
-    title: 'Checkout optimizacija: koliko polja, nacina placanja i koraka treba za maksimalnu prodaju',
-    excerpt: 'Statistike o checkout optimizaciji 2025-2026. Koliko polja smanjuje konverziju, zašto guest checkout povećava prodaju 45% i uticaj nacina placanja.',
+    title: 'Checkout optimizacija: koliko polja, nacina plaćanja i koraka treba za maksimalnu prodaju',
+    excerpt: 'Statistike o checkout optimizaciji 2025-2026. Koliko polja smanjuje konverziju, zašto guest checkout povećava prodaju 45% i uticaj nacina plaćanja.',
     date: '2026-03-24',
     category: 'CRO',
     readTime: '7 min',
     content: `
 ## Vas checkout je mesto gde gubite najvise novca
 
-Prosecna stopa napustanja korpe je **70-75%** — ali za mobile korisnike skace na **85.65%**. Vecina tog gubitka ne dolazi od nedostatka interesovanja kupca. Dolazi od loseg checkout iskustva.
+Prosečna stopa napustanja korpe je **70-75%** — ali za mobile korisnike skace na **85.65%**. Vecina tog gubitka ne dolazi od nedostatka interesovanja kupca. Dolazi od loseg checkout iskustva.
 
 Optimizacija checkout procesa moze povecati konverziju za do **35%** bez ijednog evra ulozenog u reklame. To je najisplativija investicija koju e-commerce moze da napravi.
 
@@ -2888,12 +2888,12 @@ Za napustanje korpe po industriji pogledajte [cart abandonment statistika](/blog
 - Prelazak na one-page checkout poboljsava konverziju za **7-10%**
 - Neke prodavnice beleeze skok sa 54% na **60%+ konverzije** na checkout-u
 - Vreme zavrsetka: manje od **1 minuta** (vs 1:40 za multi-step)
-- **21% manji drop-off** u poredfjenju sa vise-koracnim checkout-om
+- **21% manji drop-off** u poredfjenju sa više-koracnim checkout-om
 - Shopify je one-page checkout ucinio **default-om** za nove prodavnice u 2025
 
 ### Kada multi-step ima smisla
 
-- Za kompleksne porudzbine (B2B sa fakturom, custom narudzbine)
+- Za kompleksne porudžbine (B2B sa fakturom, custom narudzbine)
 - Kad imate dugi formular koji ne moze stati na jedan ekran
 - Progress bar moze pomocci: "Korak 2 od 3" daje osecaj kontrole
 
@@ -2904,7 +2904,7 @@ Za napustanje korpe po industriji pogledajte [cart abandonment statistika](/blog
 - **24% kupaca** napusta checkout jer moraju da kreiraju nalog
 - **43% online kupaca** preferira guest checkout
 - **72% kupaca** koristi guest checkout kad je dostupan
-- Ponudjivanje guest checkout opcije povecava konverziju za **20-45%**
+- Ponudjivanje guest checkout opcije povećava konverziju za **20-45%**
 - Ali samo **60% online prodavnica** nudi guest checkout (ogromna propustena prilika!)
 
 ### Kako implementirati pametno
@@ -2914,43 +2914,43 @@ Ponudite tri opcije:
 2. **Login** (za postojece korisnike)
 3. **Napravi nalog POSLE kupovine** ("Zelite da sacuvate podatke za sledecu kupovinu?")
 
-Treca opcija je kljucna: kupac zavrsi kupovinu BEZ stresa registracije, a vi i dalje dobijete nalog.
+Treca opcija je ključna: kupac zavrsi kupovinu BEZ stresa registracije, a vi i dalje dobijete nalog.
 
-## Broj polja u formi: svako polje kosta konverziju
+## Broj polja u formi: svako polje košta konverziju
 
 ### Podaci o broju polja
 
-- Prosecni checkout u 2024: **11.3 polja** kroz **5.1 korak** (Baymard Institute)
+- Prosečni checkout u 2024: **11.3 polja** kroz **5.1 korak** (Baymard Institute)
 - Optimizovani checkout: **7 polja** ili manje
-- Smanjenje sa 4 na 3 polja povecava konverziju za **skoro 50%** (!!)
+- Smanjenje sa 4 na 3 polja povećava konverziju za **skoro 50%** (!!)
 - Optimalna zona za forme: **3-5 polja**
 - **40% mobilnih korisnika** napusta checkout zbog teskog unosa podataka
 
-### Sta ZAISTA treba
+### Šta ZAISTA treba
 
 Minimum za checkout:
 1. **Email** (za potvrdu i pracenje)
 2. **Ime i prezime** (za isporuku)
 3. **Adresa** (za dostavu)
 4. **Telefon** (za kurira)
-5. **Nacin placanja**
+5. **Nacin plaćanja**
 
 SVE OSTALO je opciono i treba biti sakriveno ili uklonjeno. Pogledajte [landing stranica vodic](/blog/kako-napraviti-landing-stranicu-koja-konvertuje-srbija-2026) za optimizaciju formi.
 
-## Nacini placanja: kako uticu na konverziju
+## Nacini plaćanja: kako uticu na konverziju
 
-### Vise opcija = vise prodaje
+### Više opcija = više prodaje
 
-- Dodavanje **bar jednog dodatnog nacina placanja** povecava konverziju za **7.4%** i prihod za **12%** (Stripe istrazivannje)
-- Prodavnice sa **vise opcija** imaju do **25% visu konverziju** od onih sa ogranicenim izborom
-- **PayPal** integracija povecava konverziju za **88.7%** (jer kupci veruju PayPal-u)
-- **Buy Now Pay Later** (BNPL) opcije povecavaju konverziju za prosecno **30%**
-- **32% potrosaca** planira da POVECA koriscenje digitalnih novcanika (Apple Pay, Google Pay) u 2025
+- Dodavanje **bar jednog dodatnog nacina plaćanja** povećava konverziju za **7.4%** i prihod za **12%** (Stripe istrazivannje)
+- Prodavnice sa **više opcija** imaju do **25% visu konverziju** od onih sa ogranicenim izborom
+- **PayPal** integracija povećava konverziju za **88.7%** (jer kupci veruju PayPal-u)
+- **Buy Now Pay Later** (BNPL) opcije povećavaju konverziju za prosecno **30%**
+- **32% potrosaca** planira da POVECA korišćenje digitalnih novcanika (Apple Pay, Google Pay) u 2025
 - **94% kupaca** je pod uticajem prikaza cena u lokalnoj valuti
 
 ### Za srpsko trziste
 
-Obavezni nacini placanja za WooCommerce u Srbiji:
+Obavezni nacini plaćanja za WooCommerce u Srbiji:
 1. **Pouzece** (COD) — i dalje 60% online kupovina u Srbiji
 2. **Kartice** (Banca Intesa / OTP Pay integracija)
 3. **PayPal** (za kupce koji nemaju domacu karticu ili kupuju iz inostranstva)
@@ -2976,12 +2976,12 @@ Za pokretanje webshopa pogledajte [e-commerce vodic za Srbiju](/blog/kako-pokren
 
 Za mobilni dizajn pogledajte [mobilni dizajn vodic](/blog/mobilni-dizajn-sajta-srbija-2026).
 
-## Koliko vas los checkout kosta (matematika)
+## Koliko vas los checkout košta (matematika)
 
-**Scenario:** Webshop sa 1.000 posetilaca mesecno, prosecna porudzbina 5.000 RSD
+**Scenario:** Webshop sa 1.000 posetilaca mesecno, prosečna porudžbina 5.000 RSD
 
-- **Trenutna konverzija:** 2% = 20 porudzbina = 100.000 RSD
-- **Posle checkout optimizacije (+35%):** 2.7% = 27 porudzbina = 135.000 RSD
+- **Trenutna konverzija:** 2% = 20 porudžbina = 100.000 RSD
+- **Posle checkout optimizacije (+35%):** 2.7% = 27 porudžbina = 135.000 RSD
 - **Razlika:** 35.000 RSD mesecno = **420.000 RSD godisnje** — od jedne optimizacije
 
 Za profesionalnu CRO optimizaciju vaseg checkout-a, javite se preko [kontakt forme](/kontakt). Za merenje rezultata pogledajte [kako meriti ROI](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
@@ -4118,17 +4118,17 @@ Ako zelite da implementirate retargeting strategiju za vas biznis ili optimizuje
     category: 'CRO',
     readTime: '10 min',
     content: `
-## Zasto je prosecna vrednost porudzbine jedna od najvaznijih e-commerce metrika
+## Zašto je prosečna vrednost porudžbine jedna od najvaznijih e-commerce metrika
 
-Prosecna vrednost porudzbine (Average Order Value, AOV) pokazuje koliko kupac u proseku potrosi po jednoj transakciji. Firma sa 1.000 porudzbina mesecno i AOV od 50 evra ima 50.000 evra prometa. Ista firma sa AOV od 75 evra ima 75.000 evra, bez ijednog novog kupca. Zato je podizanje AOV-a najbrzi nacin za rast prihoda bez povecanja troskova akvizicije.
+Prosečna vrednost porudžbine (Average Order Value, AOV) pokazuje koliko kupac u proseku potrosi po jednoj transakciji. Firma sa 1.000 porudžbina mesecno i AOV od 50 evra ima 50.000 evra prometa. Ista firma sa AOV od 75 evra ima 75.000 evra, bez ijednog novog kupca. Zato je podizanje AOV-a najbrzi nacin za rast prihoda bez povecanja troškova akvizicije.
 
-Prema SpeedCommerce i Oberlo podacima za 2024-2025, globalni prosecni AOV u e-commerce-u iznosi 144 dolara (rast od 8.7% u odnosu na 2023), sa projekcijom od 150-180 dolara do kraja 2025.
+Prema SpeedCommerce i Oberlo podacima za 2024-2025, globalni prosečni AOV u e-commerce-u iznosi 144 dolara (rast od 8.7% u odnosu na 2023), sa projekcijom od 150-180 dolara do kraja 2025.
 
 Za povezanu metriku o troskovima privlacenja kupaca pogledajte [CPA benchmark po industriji](/blog/koliko-kosta-novi-klijent-cpa-po-industriji-google-facebook-2026). Za optimizaciju konverzija pogledajte [benchmark konverzija po industriji](/blog/prosecna-stopa-konverzije-po-industriji-benchmark-statistika-2026).
 
 ## AOV po industriji: gde se vas biznis pozicionira
 
-Razlike u prosecnoj vrednosti porudzbine izmedju industrija su ogromne. Firma koja prodaje nakit ne moze da poredi svoj AOV sa food delivery servisom. Zato su benchmark podaci kriticni za realno postavljanje ciljeva.
+Razlike u prosecnoj vrednosti porudžbine između industrija su ogromne. Firma koja prodaje nakit ne moze da poredi svoj AOV sa food delivery servisom. Zato su benchmark podaci kriticni za realno postavljanje ciljeva.
 
 **AOV benchmark po industriji (2024-2025):**
 
@@ -4145,7 +4145,7 @@ Razlike u prosecnoj vrednosti porudzbine izmedju industrija su ogromne. Firma ko
 | Fashion (Q1 2025) | $191 | Oberlo Q1 2025 podaci |
 | Health i beauty (Q1 2025) | $151 | Oberlo Q1 2025 podaci |
 | Sport | $122 | Stabilna kategorija |
-| Hrana i pice | $69-$114 | Manje porudzbine, visa frekvencija |
+| Hrana i pice | $69-$114 | Manje porudžbine, visa frekvencija |
 | Multi-brand retail | $94 | Marketplace model |
 | Kucni ljubimci | $83 | Repeat kupovina, pretplatnicki modeli rastu |
 | Lepota i nega | $71 | Nizak AOV, ali visoka repeat stopa |
@@ -4158,7 +4158,7 @@ Za strategije zadrzavanja kupaca koji donose visok AOV pogledajte [CLV benchmark
 
 ## AOV po uredjaju: desktop i dalje dominira
 
-Uredjaj sa koga kupac kupuje drasticno utice na to koliko ce potrositi.
+Uredjaj sa koga kupac kupuje drasticno utiče na to koliko ce potrositi.
 
 **AOV po uredjaju (2024-2025):**
 
@@ -4169,11 +4169,11 @@ Uredjaj sa koga kupac kupuje drasticno utice na to koliko ce potrositi.
 | Tablet | ~$140 | ~$154 |
 | Mobilna aplikacija | $217 | raste |
 
-Desktop korisnici trose 50-70% vise po porudzbini od mobilnih korisnika na sajtu. Razlog: na desktopu kupci cesce kupuju skuplje proizvode jer im je pregled proizvoda udobniji, a checkout proces manje frustrirajuci.
+Desktop korisnici troše 50-70% više po porudzbini od mobilnih korisnika na sajtu. Razlog: na desktopu kupci cesce kupuju skuplje proizvode jer im je pregled proizvoda udobniji, a checkout proces manje frustrirajuci.
 
-Interesantno, mobilne aplikacije imaju AOV cak i visi od desktopa ($217 vs $197 u 2024). Ovo je posledica toga sto korisnici aplikacija vec imaju visoku purchase intent i sacuvane podatke za placanje.
+Interesantno, mobilne aplikacije imaju AOV cak i visi od desktopa ($217 vs $197 u 2024). Ovo je posledica toga sto korisnici aplikacija vec imaju visoku purchase intent i sacuvane podatke za plaćanje.
 
-Mobilna trgovina sada cini 59% svih globalnih online prodaja, ali sa nizim AOV-om po transakciji. To znaci da optimizacija mobilnog iskustva za upselling postaje kriticna.
+Mobilna trgovina sada cini 59% svih globalnih online prodaja, ali sa nizim AOV-om po transakciji. To znači da optimizacija mobilnog iskustva za upselling postaje kriticna.
 
 Za kontekst o mobilnoj vs desktop kupovini pogledajte [mobilna vs desktop konverzija](/blog/mobilna-vs-desktop-kupovina-konverzije-statistika-2026).
 
@@ -4182,63 +4182,63 @@ Za kontekst o mobilnoj vs desktop kupovini pogledajte [mobilna vs desktop konver
 Americki trziste pokazuje znacajno visi AOV od globalnog proseka.
 
 **SAD AOV trendovi (2025):**
-- Prosecni AOV u SAD: $182 (rast od 22% u odnosu na $149 prethodne godine)
+- Prosečni AOV u SAD: $182 (rast od 22% u odnosu na $149 prethodne godine)
 - Mart 2025: $159.05
 - Globalni prosek: $150
 
 Ovaj jaz ukazuje na vecu kupovnu moc americkih potrosaca, ali i na agresivnije upselling i free shipping strategije americkih e-commerce kompanija.
 
-## B2B vs B2C: potpuno razlicite dimenzije
+## B2B vs B2C: potpuno različite dimenzije
 
-B2B e-commerce ima dramaticno visi AOV od B2C, cesto u stotinama do hiljada dolara po porudzbini. Razlozi: bulk narudzbine, ponavljajuca kupovina, recurring billing i vise zainteresovanih strana u odlucivanju.
+B2B e-commerce ima dramaticno visi AOV od B2C, cesto u stotinama do hiljada dolara po porudzbini. Razlozi: bulk narudzbine, ponavljajuca kupovina, recurring billing i više zainteresovanih strana u odlucivanju.
 
 Za B2B marketing strategije pogledajte [B2B marketing vodic](/blog/b2b-marketing-srbija-2026-vodic).
 
-## 6 strategija za povecanje prosecne vrednosti porudzbine
+## 6 strategija za povećanje prosečne vrednosti porudžbine
 
 ### 1. Free shipping prag: najjednostavnija AOV poluga
 
-Postavljanje minimalnog iznosa za besplatnu dostavu je najlaksi nacin da povecate AOV. Prema istrazivanjima, free shipping prag povecava AOV za 15-30%, a 58% kupaca dodaje proizvode u korpu da bi dostiglo prag.
+Postavljanje minimalnog iznosa za besplatnu dostavu je najlaksi nacin da povecate AOV. Prema istrazivanjima, free shipping prag povećava AOV za 15-30%, a 58% kupaca dodaje proizvode u korpu da bi dostiglo prag.
 
-Preporuka je da prag postavite 10-30% iznad trenutnog AOV-a. Ako vam je prosecna korpa 65 evra, prag od 85 evra motivise kupce da dodaju jos jedan proizvod.
+Preporuka je da prag postavite 10-30% iznad trenutnog AOV-a. Ako vam je prosečna korpa 65 evra, prag od 85 evra motivise kupce da dodaju još jedan proizvod.
 
-Dinamicke poruke poput "Jos X evra do besplatne dostave" konvertuju znacajno bolje od staticnih.
+Dinamicke poruke poput "Još X evra do besplatne dostave" konvertuju znacajno bolje od staticnih.
 
-90% online kupaca navodi besplatnu dostavu kao glavni razlog za online kupovinu. Sa druge strane, 70% kupaca je napustilo korpu iskljucivo zbog troskova dostave.
+90% online kupaca navodi besplatnu dostavu kao glavni razlog za online kupovinu. Sa druge strane, 70% kupaca je napustilo korpu iskljucivo zbog troškova dostave.
 
 Za detaljne podatke o napustanju korpe pogledajte [statistika napustanja korpe](/blog/napustanje-korpe-statistika-po-industriji-2026).
 
 ### 2. Upselling: skuplja verzija istog proizvoda
 
-Upselling povecava prihod za 10-30% u proseku. Ponudite kupcu premijum verziju, veci paket ili napredniji model onoga sto vec gleda.
+Upselling povećava prihod za 10-30% u proseku. Ponudite kupcu premijum verziju, veći paket ili napredniji model onoga sto vec gleda.
 
 Upselling je 68% isplativiji od akvizicije novog kupca. Post-purchase upsell ponude (nakon sto kupac zavrsi kupovinu) dodaju 10-15% na AOV.
 
 ### 3. Cross-selling: komplementarni proizvodi
 
-Cross-selling generise 10-30% ukupnog e-commerce prihoda. Brendovi koji koriste cross-selling belize prosecni rast profita od 20%.
+Cross-selling generise 10-30% ukupnog e-commerce prihoda. Brendovi koji koriste cross-selling belize prosečni rast profita od 20%.
 
-Personalizovani cross-selling, baziran na podacima o kupcu, povecava prodaju za 35% i potrosnju po kupcu za 34%.
+Personalizovani cross-selling, baziran na podacima o kupcu, povećava prodaju za 35% i potrosnju po kupcu za 34%.
 
 Predlaganje komplementarnih proizvoda na product stranicama, u korpi ili tokom checkout-a je standard koji vecina e-commerce platformi podrzava out-of-the-box.
 
 ### 4. Product bundling: paketi po povoljnijoj ceni
 
-Bundling povecava AOV za 20-30%, a neki biznisi beleze poboljsanje i do 60%. Kupci koji kupe bundle imaju 2.7x vecu lifetime vrednost od onih koji kupe pojedinacne proizvode.
+Bundling povećava AOV za 20-30%, a neki biznisi beleze poboljsanje i do 60%. Kupci koji kupe bundle imaju 2.7x vecu lifetime vrednost od onih koji kupe pojedinacne proizvode.
 
-Personalizovani bundling donosi 40% visu retenciju u poredjenju sa standardnom prodajom. Ocekuje se da ce bundlovi ciniti 30% svih online porudzbina do kraja 2025.
+Personalizovani bundling donosi 40% visu retenciju u poredjenju sa standardnom prodajom. Ocekuje se da ce bundlovi ciniti 30% svih online porudžbina do kraja 2025.
 
 ### 5. AI preporuke: personalizacija koja prodaje
 
 Kupci koji interaguju sa AI preporukama imaju do 369% visi AOV u poredjenju sa sesijama bez preporuka. Prosecno poboljsanje je 15-30%.
 
-AI chat funkcije povecavaju AOV za 25% kod kupaca koji ih koriste. Ovo vise nije buducnost, ovo je standard za ozbiljne e-commerce operacije.
+AI chat funkcije povećavaju AOV za 25% kod kupaca koji ih koriste. Ovo više nije buducnost, ovo je standard za ozbiljne e-commerce operacije.
 
 Za kontekst o AI alatima pogledajte [statistika AI usvajanja u firmama](/blog/koliko-firmi-koristi-ai-statistika-produktivnost-roi-2026).
 
 ### 6. Pretplatnicki model: predvidljiv visok AOV
 
-Subscription modeli podizu AOV kreiranjem predvidivih, visokovrednih kupovina. Pretplatnici trose vise jer je odluka o kupovini vec doneta, a friction pri ponovnoj kupovini je minimalan.
+Subscription modeli podizu AOV kreiranjem predvidivih, visokovrednih kupovina. Pretplatnici troše više jer je odluka o kupovini vec doneta, a friction pri ponovnoj kupovini je minimalan.
 
 Za metriku retencije pretplatnika pogledajte [churn rate po industriji](/blog/churn-rate-po-industriji-benchmark-statistika-2026).
 
@@ -4246,20 +4246,20 @@ Za metriku retencije pretplatnika pogledajte [churn rate po industriji](/blog/ch
 
 Formula je jednostavna:
 
-**AOV = Ukupan prihod / Broj porudzbina**
+**AOV = Ukupan prihod / Broj porudžbina**
 
 Ali ne pratite samo jedan broj. Segmentirajte AOV po:
 - **Uredjaju** (desktop vs mobile vs app)
-- **Kanalu akvizicije** (organski vs placeni vs email vs social)
-- **Kategoriji proizvoda** (razlicite kategorije imaju razlicit AOV)
+- **Kanalu akvizicije** (organski vs plaćeni vs email vs social)
+- **Kategoriji proizvoda** (različite kategorije imaju različit AOV)
 - **Novim vs povratnim kupcima** (povratni kupci obicno imaju visi AOV)
 - **Vremenskom periodu** (sezonalnost, promotivni periodi)
 
-Pratite AOV zajedno sa konverzijom i saobracajem. Povecanje AOV-a uz pad konverzije moze da znaci da ste odvratili kupce sa nizim budzetom bez da ste privukli nove sa visim.
+Pratite AOV zajedno sa konverzijom i saobracajem. Povećanje AOV-a uz pad konverzije moze da znači da ste odvratili kupce sa nizim budzetom bez da ste privukli nove sa visim.
 
-## Zakljucak: gde je vas AOV u poredjenju sa benchmarkom
+## Zaključak: gde je vas AOV u poredjenju sa benchmarkom
 
-| Industrija | Nizak AOV (ispod proseka) | Prosecan | Dobar (iznad proseka) |
+| Industrija | Nizak AOV (ispod proseka) | Prosečan | Dobar (iznad proseka) |
 |-----------|--------------------------|----------|----------------------|
 | E-commerce generalno | <$100 | $144-$150 | >$180 |
 | Moda i odeca | <$100 | $150-$190 | >$220 |
@@ -4269,9 +4269,9 @@ Pratite AOV zajedno sa konverzijom i saobracajem. Povecanje AOV-a uz pad konverz
 | Hrana i pice | <$50 | $69-$114 | >$130 |
 | Lepota i nega | <$50 | $71-$151 | >$170 |
 
-Ako vam je AOV ispod industrijskog proseka, fokusirajte se prvo na free shipping prag (najbrza implementacija), zatim na cross-selling na product stranicama (srednja kompleksnost), pa na bundling i AI preporuke (najveci dugorocni efekat).
+Ako vam je AOV ispod industrijskog proseka, fokusirajte se prvo na free shipping prag (najbrza implementacija), zatim na cross-selling na product stranicama (srednja kompleksnost), pa na bundling i AI preporuke (najveci dugoročni efekat).
 
-Za kompletnu analizu vaseg AOV-a i strategiju za povecanje vrednosti svake porudzbine, [kontaktirajte nas](/kontakt).
+Za kompletnu analizu vaseg AOV-a i strategiju za povećanje vrednosti svake porudžbine, [kontaktirajte nas](/kontakt).
 
 ---
 
@@ -5303,39 +5303,39 @@ Benchmark podaci postoje da ih koristite kao kompas, ne kao pravilo. Vas cilj ni
 
 U 2025. godini, **93% potrosaca** kaze da online recenzije uticu na njihove odluke o kupovini. To nije opcija -- to je uslov za prodaju. Firme bez recenzija gube kupce koji odlaze kod konkurencije sa 200+ ocena.
 
-A brojke su jos drasticnije: **92% kupaca** okleva da kupi ako nema nijedne recenzije, a **44% uopste nece kupiti** od firme bez online recenzija.
+A brojke su još drasticnije: **92% kupaca** okleva da kupi ako nema nijedne recenzije, a **44% uopšte nece kupiti** od firme bez online recenzija.
 
-Za upravljanje reputacijom pogledajte [vodic za drustvene mreze](/blog/upravljanje-reputacijom-drustvene-mreze-srbija-2026). Za cene SEO usluga pogledajte [SEO optimizacija cena](/seo-optimizacija-cena). Za prikupljanje recenzija pogledajte [GBP optimizacija](/blog/google-business-profile-optimizacija-srbija-2026).
+Za upravljanje reputacijom pogledajte [vodic za društvene mreže](/blog/upravljanje-reputacijom-drustvene-mreze-srbija-2026). Za cene SEO usluga pogledajte [SEO optimizacija cena](/seo-optimizacija-cena). Za prikupljanje recenzija pogledajte [GBP optimizacija](/blog/google-business-profile-optimizacija-srbija-2026).
 
 ## Koliko recenzija treba za maksimalnu konverziju
 
-Podaci iz Fera.ai, Spiegel Research Center i Power Reviews istrazivanja:
+Podaci iz Fera.ai, Spiegel Research Center i Power Reviews istraživanja:
 
-- **1 recenzija** povecava konverziju za **10%**
-- **5 recenzija** povecava konverziju za **270%** (dramatican skok)
-- **30 recenzija** povecava konverziju za **25%** (u odnosu na 5)
-- **100+ recenzija** povecava konverziju za **37%** (u odnosu na 0)
+- **1 recenzija** povećava konverziju za **10%**
+- **5 recenzija** povećava konverziju za **270%** (dramatican skok)
+- **30 recenzija** povećava konverziju za **25%** (u odnosu na 5)
+- **100+ recenzija** povećava konverziju za **37%** (u odnosu na 0)
 - Proizvodi sa recenzijama imaju **19.8% visu prodaju** od proizvoda bez recenzija
 
-Zakljucak: od 0 do 5 recenzija je OGROMAN skok. Posle 30, rast se usporava. Fokus za male firme: dodjite do 30 recenzija sto pre.
+Zaključak: od 0 do 5 recenzija je OGROMAN skok. Posle 30, rast se usporava. Fokus za male firme: dodjite do 30 recenzija sto pre.
 
-## Zvezdice: zasto 4.0-4.7 prodaje bolje od 5.0
+## Zvezdice: zašto 4.0-4.7 prodaje bolje od 5.0
 
 Ovo zvuci kontraintuitivno ali je dokazano: proizvodi sa savrsenom ocenom od 5.0 konvertuju LOSIJE od onih sa 4.0-4.7.
 
 - **94% svih kupovina** se desava za proizvode sa prosekom 4+ zvezdice
-- **54% porudzbina** ide na 5-star proizvode, **40%** na 4-star
+- **54% porudžbina** ide na 5-star proizvode, **40%** na 4-star
 - **70% potrosaca** nece verovati firmi sa manje od 4 zvezdice
 - **52% kupaca** trazi minimum 4.0 prosek
 - Ispod **3.3 zvezdice** vecina kupaca nece ni razmatrati kupovinu
 
-**Zasto 5.0 nije optimalno:** Kupci smatraju savrsen prosek laznim. Nekoliko kritika (ali ne previse) cini firmu verodostojnijom. Idealni raspon: **4.2-4.7 zvezdica**.
+**Zašto 5.0 nije optimalno:** Kupci smatraju savrsen prosek laznim. Nekoliko kritika (ali ne previse) cini firmu verodostojnijom. Idealni raspon: **4.2-4.7 zvezdica**.
 
 ## Poverenje: recenzije vs preporuke prijatelja
 
 Mozda vas iznenaditi ali statistike su jasne:
 
-- **54% potrosaca** veruje online recenzijama VISE nego preporukama prijatelja (Reputation.com 2024)
+- **54% potrosaca** veruje online recenzijama VIŠE nego preporukama prijatelja (Reputation.com 2024)
 - **49% kupaca** veruje recenzijama JEDNAKO kao preporukama
 - **75.5% potrosaca** izrazava poverenje u online recenzije generalno
 - Prosecno kupci citaju **7 recenzija** pre nego sto steknu poverenje u firmu
@@ -5361,7 +5361,7 @@ Ali postoji upozorenje: **75% potrosaca** brine o laznim recenzijama, a **53%** 
 
 1. Zahvalite na povratnoj informaciji
 2. Priznajte problem (ne pravdajte se)
-3. Ponudite konkretno resenje
+3. Ponudite konkretno rešenje
 4. Premestite razgovor u privatni kanal
 
 Za detaljan vodic pogledajte [upravljanje reputacijom](/blog/upravljanje-reputacijom-drustvene-mreze-srbija-2026).
@@ -5369,15 +5369,15 @@ Za detaljan vodic pogledajte [upravljanje reputacijom](/blog/upravljanje-reputac
 ## Recenzije po platformi: gde su najvaznije
 
 ### Google Business Profile
-Najvaznija platforma za lokalne biznise. Broj recenzija direktno utice na poziciju na Google mapi. Pogledajte [GBP optimizacija](/blog/google-business-profile-optimizacija-srbija-2026).
+Najvaznija platforma za lokalne biznise. Broj recenzija direktno utiče na poziciju na Google mapi. Pogledajte [GBP optimizacija](/blog/google-business-profile-optimizacija-srbija-2026).
 
 ### Product reviews na vasem sajtu
-Za e-commerce, recenzije na samoj product stranici povecavaju konverziju za 270% (5+ recenzija). Pogledajte [product page optimizacija](/blog/optimizacija-product-stranice-e-commerce-srbija-2026).
+Za e-commerce, recenzije na samoj product stranici povećavaju konverziju za 270% (5+ recenzija). Pogledajte [product page optimizacija](/blog/optimizacija-product-stranice-e-commerce-srbija-2026).
 
 ### Facebook recenzije
 Manje uticajne od Google-a ali doprinose overall online prisustvu i social proof-u.
 
-## Kako prikupiti vise recenzija (bez kupovine)
+## Kako prikupiti više recenzija (bez kupovine)
 
 1. **Automatski email posle kupovine:** Dan posle isporuke, posaljite email sa direktnim linkom za recenziju. Pogledajte [email automatizacija](/blog/email-automatizacija-za-webshop-srbija-2026).
 2. **QR kod na ambalazi:** Na pakovanju proizvoda, QR kod koji vodi na Google recenziju.
@@ -5611,56 +5611,56 @@ Za profesionalnu video strategiju i produkciju, javite se preko [kontakt forme](
 
 Odgovor "zavisi" je tacan ali beskoristan. Zato ovde nema teorija -- samo podaci iz Gartner CMO Spend Survey-a, Deloitte CMO Survey-a i HubSpot industrisjkih istrazivannja za 2025-2026.
 
-Za prakticni vodic za pravljenje budzeta pogledajte [kako napraviti marketing budzet koji ima smisla](/blog/kako-napraviti-marketing-budzet-koji-ima-smisla). Za pregled cena digitalnog marketinga pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Za praktični vodic za pravljenje budžeta pogledajte [kako napraviti marketing budžet koji ima smisla](/blog/kako-napraviti-marketing-budzet-koji-ima-smisla). Za pregled cena digitalnog marketinga pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-## Prosecni marketing budzet u 2025: 7.7% prihoda
+## Prosečni marketing budžet u 2025: 7.7% prihoda
 
-Prema Gartner 2025 CMO Spend Survey-u (400+ marketinskih direktora, pretezno kompanije sa 1+ milijardi dolara prihoda), marketing budzet prosecne firme iznosi **7.7% ukupnog prihoda** kompanije. Ovo je identicno procentu iz 2024 -- budzeti su se stabilizovali posle godina rasta.
+Prema Gartner 2025 CMO Spend Survey-u (400+ marketinskih direktora, pretezno kompanije sa 1+ milijardi dolara prihoda), marketing budžet prosečne firme iznosi **7.7% ukupnog prihoda** kompanije. Ovo je identicno procentu iz 2024 -- budzeti su se stabilizovali posle godina rasta.
 
-Istrazivanje je sprovedeno u februaru-martu 2025. Kljucni nalaz: vecina CMO-ova smatra da je ovo nedovoljno za punu realizaciju strategije. Odgovor? Veci fokus na AI i automatizaciju radi efikasnosti.
+Istrazivanje je sprovedeno u februaru-martu 2025. Ključni nalaz: vecina CMO-ova smatra da je ovo nedovoljno za punu realizaciju strategije. Odgovor? Veći fokus na AI i automatizaciju radi efikasnosti.
 
-Za manje firme (ispod 50M EUR prihoda), procenat je tipicno visi -- 10-15% -- jer je potrebno vise ulaganja u izgradnju prepoznatljivosti.
+Za manje firme (ispod 50M EUR prihoda), procenat je tipicno visi -- 10-15% -- jer je potrebno više ulaganja u izgradnju prepoznatljivosti.
 
-## B2B vs B2C: ko trosi vise?
+## B2B vs B2C: ko troši više?
 
 | Segment | Procenat prihoda | Tipican raspon |
 |---------|-----------------|----------------|
-| **B2B kompanije** | 2-8% | Manji budzet, duzi prodajni ciklus |
-| **B2C kompanije** | 8-15% | Veci budzet, potreban siri doseg |
+| **B2B kompanije** | 2-8% | Manji budžet, duzi prodajni ciklus |
+| **B2C kompanije** | 8-15% | Veći budžet, potreban siri doseg |
 | **Startapovi / rast** | 15-30% | Agresivno ulaganje za pozicioniranje |
-| **Zrele kompanije** | 5-7% | Odrzavanje sa poznatim brandom |
+| **Zrele kompanije** | 5-7% | Održavanje sa poznatim brandom |
 
-**Zasto B2C firme trose vise?** Prodaju masovnoj publici. Kad imate milion potencijalnih kupaca umesto 500 firmi, treba vam vise kanala, vise oglasa, vise sadrzaja da dodjete do svakoga.
+**Zašto B2C firme troše više?** Prodaju masovnoj publici. Kad imate milion potencijalnih kupaca umesto 500 firmi, treba vam više kanala, više oglasa, više sadržaja da dodjete do svakoga.
 
 Za B2B marketing strategiju pogledajte [B2B marketing vodic za Srbiju](/blog/b2b-marketing-srbija-2026-vodic). Za e-commerce marketing pogledajte [Facebook Ads za e-commerce vodic](/blog/facebook-ads-za-e-commerce-srbija-2026).
 
-## Marketing budzet po industriji (2025-2026 benchmarci)
+## Marketing budžet po industriji (2025-2026 benchmarci)
 
 Podaci iz Gartner CMO Survey-a, HubSpot Industry Benchmarks-a i Deloitte CMO Survey-a:
 
 ### Industrije sa najvecim budzetima (13%+ prihoda)
 
-- **Komunikacije i mediji:** 13-15% prihoda. Ovde se najvise trosi jer je marketing sustinski proizvod ovih kompanija.
-- **Potrosacka dobra (FMCG):** do 18% prihoda. Procter & Gamble, Unilever i slicni trose milijarde jer se bore za mesto na polici i u svesti potrosaca.
+- **Komunikacije i mediji:** 13-15% prihoda. Ovde se najvise troši jer je marketing sustinski proizvod ovih kompanija.
+- **Potrosacka dobra (FMCG):** do 18% prihoda. Procter & Gamble, Unilever i slicni troše milijarde jer se bore za mesto na polici i u svesti potrosaca.
 - **Edukacija:** oko 14.5% prihoda. Online kursevi, privatni fakulteti i ed-tech kompanije ulazu agresivno u akviziciju studenata.
 
 ### Industrije sa srednjim budzetima (7-12% prihoda)
 
 - **Maloprodaja i e-commerce:** 8-12% prihoda. Posebno visok za D2C brendove (do 20% u fazi rasta). Za e-commerce CRO pogledajte [optimizacija konverzije sajta vodic](/blog/optimizacija-konverzije-sajta-cro-srbija-2026).
-- **Tehnologija i softver:** 8-15% prihoda (prosek 9.2%). SaaS kompanije cesto trose na gornjoj granici jer je customer acquisition cost (CAC) visok a lifetime value jos visi.
+- **Tehnologija i softver:** 8-15% prihoda (prosek 9.2%). SaaS kompanije cesto troše na gornjoj granici jer je customer acquisition cost (CAC) visok a lifetime value još visi.
 - **Zdravstvo i farmacija:** 6-10% prihoda (prosek 9.3%). Regulatorna ogranicenja ogranicavaju kanale ali ne i budzetiranje.
 - **Nekretnine:** oko 9.8% prihoda. Visoka vrednost pojedinacne transakcije opravdava znacajno ulaganje u marketing.
 - **Finansijske usluge:** 7-10% prihoda (prosek oko 7.2% za velike banke, 11% za fintech).
 
 ### Industrije sa nizim budzetima (pod 7% prihoda)
 
-- **Proizvodnja i industrija:** 3-7% prihoda (prosek 6.7%). Veci deo budzeta ide na sajmove i direktnu prodaju nego na digitalni marketing.
+- **Proizvodnja i industrija:** 3-7% prihoda (prosek 6.7%). Veći deo budžeta ide na sajmove i direktnu prodaju nego na digitalni marketing.
 - **IT i poslovne usluge:** oko 5.8% prihoda. Referencni marketing i word-of-mouth smanjuju potrebu za placenim kanalima.
 - **Profesionalne usluge (advokatske kancelarije, racunovodje):** oko 7% prihoda. Pogledajte [marketing za advokate](/marketing-za-advokate) za specificne strategije.
 
-## Uporedna tabela: marketing budzet po industriji
+## Uporedna tabela: marketing budžet po industriji
 
-| Industrija | % prihoda | Kljucni kanali |
+| Industrija | % prihoda | Ključni kanali |
 |-----------|----------|----------------|
 | Komunikacije/Mediji | 13-15% | Content, social, programmatic |
 | FMCG / Potrosacka dobra | do 18% | TV, digital, influencer |
@@ -5674,35 +5674,35 @@ Podaci iz Gartner CMO Survey-a, HubSpot Industry Benchmarks-a i Deloitte CMO Sur
 | IT usluge | ~5.8% | Referral, content, LinkedIn |
 | Profesionalne usluge | ~7% | SEO, referral, networking |
 
-## Gde firme trose marketing budzet (raspodela po kanalima)
+## Gde firme troše marketing budžet (raspodela po kanalima)
 
-Prema Deloitte CMO Survey-u za 2025, raspodela unutar marketing budzeta izgleda ovako:
+Prema Deloitte CMO Survey-u za 2025, raspodela unutar marketing budžeta izgleda ovako:
 
-| Kanal | % marketing budzeta |
+| Kanal | % marketing budžeta |
 |-------|-------------------|
-| **Drustvene mreze** | 11.3% |
+| **Društvene mreže** | 11.3% |
 | **Content marketing** | 10.2% |
 | **Placena pretraga (PPC)** | 9.8% |
 | **SEO / organska pretraga** | 8-12% |
 | **Email marketing** | 5-8% |
 | **Tradicionalni mediji** | 20-35% (u padu) |
 
-**Digitalno vs tradicionalno:** Digitalni kanali sada cine 75% globalnog marketing budzeta (Dentsu, 2025). Tradicionalni mediji (TV, print, bilbordi) su pali na 25% -- i nastavljaju da padaju za 3.7% godisnje.
+**Digitalno vs tradicionalno:** Digitalni kanali sada cine 75% globalnog marketing budžeta (Dentsu, 2025). Tradicionalni mediji (TV, print, bilbordi) su pali na 25% -- i nastavljaju da padaju za 3.7% godisnje.
 
 Za konkretne cene po kanalu u Srbiji pogledajte:
 - [Google reklame cena](/google-reklame-cena)
-- [Koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama)
+- [Koliko košta Facebook reklama](/koliko-kosta-facebook-reklama)
 - [Instagram reklame cena](/instagram-reklame-cena)
 - [SEO optimizacija cena](/seo-optimizacija-cena)
 
-## Koliko bi VASA firma trebalo da trosi
+## Koliko bi VASA firma trebalo da troši
 
-### Formule za razlicite faze
+### Formule za različite faze
 
 **Startap / nova firma (0-2 godine):**
 - 15-30% prihoda na marketing
 - Fokus: izgradnja prepoznatljivosti + prvi klijenti
-- Kanali: placena pretraga (brzi rezultati) + content (dugorocni)
+- Kanali: placena pretraga (brzi rezultati) + content (dugoročni)
 
 **Firma u rastu (2-5 godina):**
 - 10-15% prihoda
@@ -5711,33 +5711,33 @@ Za konkretne cene po kanalu u Srbiji pogledajte:
 
 **Zrela firma (5+ godina):**
 - 5-8% prihoda
-- Fokus: odrzavanje pozicije + optimizacija troskova
+- Fokus: održavanje pozicije + optimizacija troškova
 - Kanali: branding + retention + organski doseg
 
 ### Pravilo 70/20/10
 
-Mnoge uspesne firme koriste ovu raspodelu budzeta:
+Mnoge uspesne firme koriste ovu raspodelu budžeta:
 - **70%** na proverene kanale (ono sto vec radi)
 - **20%** na kanale u rastu (obecavajuci ali nepotvrdeni)
 - **10%** na eksperimente (novi formati, platforme, pristupi)
 
 Ovo sprecava i preteranu konzervativnost i neodgovorno trosenje na neproverene taktike.
 
-## Sta se desava kad trosiste premalo
+## Šta se desava kad trosiste premalo
 
-Gartner-ov nalaz da je 7.7% prihoda "nedovoljno za punu realizaciju strategije" je upozorenje. Firme koje trose ispod svog industrijskog benchmarka obicno:
+Gartner-ov nalaz da je 7.7% prihoda "nedovoljno za punu realizaciju strategije" je upozorenje. Firme koje troše ispod svog industrijskog benchmarka obicno:
 
-- Gube market share konkurentima koji ulazu vise
-- Imaju sporiji rast prihoda (Deloitte: korelacija izmedju marketing ulaganja i rasta prihoda je statisticki znacajna)
+- Gube market share konkurentima koji ulazu više
+- Imaju sporiji rast prihoda (Deloitte: korelacija između marketing ulaganja i rasta prihoda je statisticki znacajna)
 - Zavise od jednog kanala (obicno preporuke) sto je rizicno
 
-Ali bacanje novca takodje ne radi. Bitno je meriti ROI svakog kanala. Za to pogledajte [kako meriti ROI digitalnog marketinga](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
+Ali bacanje novca takođe ne radi. Bitno je meriti ROI svakog kanala. Za to pogledajte [kako meriti ROI digitalnog marketinga](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
 
-## Prakticni primer za firmu u Srbiji
+## Praktični primer za firmu u Srbiji
 
 **Firma:** Web agencija sa 200.000 EUR godisnjeg prihoda
 **Industrija benchmark:** IT usluge, 5.8%
-**Preporuceni budzet:** 200.000 x 0.058 = 11.600 EUR godisnje (~967 EUR mesecno)
+**Preporuceni budžet:** 200.000 x 0.058 = 11.600 EUR godisnje (~967 EUR mesecno)
 
 **Raspodela po kanalima:**
 - SEO i content: 350 EUR/mes (organski rast, blog, linkovi)
@@ -5746,9 +5746,9 @@ Ali bacanje novca takodje ne radi. Bitno je meriti ROI svakog kanala. Za to pogl
 - Email marketing: 67 EUR/mes (alat + automatizacija)
 - Alokacija za testiranje: 50 EUR/mes
 
-To je realan budzet za firmu te velicine u Srbiji. Ni premalo ni preterano. Sa dobrom strategijom, moze doneti 3-5x povrat na ulaganje.
+To je realan budžet za firmu te velicine u Srbiji. Ni premalo ni preterano. Sa dobrom strategijom, moze doneti 3-5x povrat na ulaganje.
 
-Za pomoc sa kreiranjem marketing budzeta za vasu firmu, javite se preko [kontakt forme](/kontakt). Za pregled svih nasih usluga pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Za pomoc sa kreiranjem marketing budžeta za vasu firmu, javite se preko [kontakt forme](/kontakt). Za pregled svih nasih usluga pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
 *Izvori: Gartner 2025 CMO Spend Survey (maj 2025, 400+ CMO-ova), Deloitte/Duke CMO Survey (februar 2025, 300+ marketinskih lidera), HubSpot State of Marketing Report (2025), Dentsu Global Ad Spend Forecasts (2025).*
 `
@@ -30135,15 +30135,15 @@ Za kompletnu analizu sajta i konkretne preporuke za smanjenje bounce rate-a, [ko
     category: 'CRO',
     readTime: '10 min',
     content: `
-## Zasto je CLV jedina metrika koja povezuje marketing, prodaju i profit
+## Zašto je CLV jedina metrika koja povezuje marketing, prodaju i profit
 
-Customer Lifetime Value (CLV) pokazuje koliko prihoda firma moze da ocekuje od jednog klijenta tokom cele saradnje. Vecina firmi meri cenu akvizicije, ali ne meri vrednost onoga sto ta akvizicija donosi dugorocno. Bez CLV-a, marketing odluke su nepotpune jer ne znate da li placate 50 evra za klijenta koji vredi 200 ili 2.000.
+Customer Lifetime Value (CLV) pokazuje koliko prihoda firma moze da ocekuje od jednog klijenta tokom cele saradnje. Vecina firmi meri cenu akvizicije, ali ne meri vrednost onoga sto ta akvizicija donosi dugoročno. Bez CLV-a, marketing odluke su nepotpune jer ne znate da li plaćate 50 evra za klijenta koji vredi 200 ili 2.000.
 
-Prema Bain & Company i Harvard Business Review podacima, povecanje retencije klijenata za samo 5% moze da podigne profit za 25-95%. Taj raspon izgleda siroko, ali poruka je jasna: zadrzavanje postojecih klijenata je daleko jeftinije i profitabilnije od konstantne akvizicije novih.
+Prema Bain & Company i Harvard Business Review podacima, povećanje retencije klijenata za samo 5% moze da podigne profit za 25-95%. Taj raspon izgleda siroko, ali poruka je jasna: zadrzavanje postojecih klijenata je daleko jeftinije i profitabilnije od konstantne akvizicije novih.
 
 Za razumevanje troska akvizicije po industriji pogledajte [CPA benchmark po industriji](/blog/koliko-kosta-novi-klijent-cpa-po-industriji-google-facebook-2026). Za siri kontekst konverzija pogledajte [benchmark konverzija po industriji](/blog/prosecna-stopa-konverzije-po-industriji-benchmark-statistika-2026).
 
-## Prosecan CLV po industriji
+## Prosečan CLV po industriji
 
 Podaci iz CustomerGauge, Kixie, GrowSurf i Tips on Blogging studija (2024-2025):
 
@@ -30167,7 +30167,7 @@ Podaci iz CustomerGauge, Kixie, GrowSurf i Tips on Blogging studija (2024-2025):
 - **E-commerce (beauty):** oko $188 prosecno
 - **Bankarstvo:** $2.000-$5.000 tokom 7-10 godina
 
-**Kriticna statistika:** Top 1% e-commerce kupaca vredi 18 puta vise od prosecnog kupca. Ovo znaci da identifikacija i negovanje najboljih klijenata moze transformisati profitabilnost celog biznisa.
+**Kriticna statistika:** Top 1% e-commerce kupaca vredi 18 puta više od prosecnog kupca. Ovo znači da identifikacija i negovanje najboljih klijenata moze transformisati profitabilnost celog biznisa.
 
 ## CLV:CAC odnos: najvazniji benchmark za odrziv rast
 
@@ -30180,18 +30180,18 @@ Odnos Customer Lifetime Value prema Customer Acquisition Cost je mozda najvaznij
 - **3:1** zdravo, industrisjki standard za vecinu sektora
 - **Iznad 5:1** moze ukazivati na premalo ulaganja u rast
 
-**Prakticno tumacenje:** Ako vas klijent vredi 3.000 evra (CLV), a kosta vas 1.000 evra da ga pridobijete (CAC), odnos je 3:1 i ekonomija je zdrava. Ako klijent vredi 500 evra a kosta 400, odnos 1.25:1 ne ostavlja prostor za operativne troskove, profit, niti za neocekivane situacije.
+**Praktično tumacenje:** Ako vas klijent vredi 3.000 evra (CLV), a košta vas 1.000 evra da ga pridobijete (CAC), odnos je 3:1 i ekonomija je zdrava. Ako klijent vredi 500 evra a košta 400, odnos 1.25:1 ne ostavlja prostor za operativne troskove, profit, niti za neocekivane situacije.
 
-Za benchmark koliko kosta lead po kanalu pogledajte [cena po leadu po industriji](/blog/cena-po-leadu-po-industriji-benchmark-statistika-2026).
+Za benchmark koliko košta lead po kanalu pogledajte [cena po leadu po industriji](/blog/cena-po-leadu-po-industriji-benchmark-statistika-2026).
 
 ## Retencija klijenata i njen uticaj na CLV
 
-Retencija je direktan multiplikator CLV-a. Svaki mesec duze saradnje povecava ukupnu vrednost klijenta bez dodatnog troska akvizicije.
+Retencija je direktan multiplikator CLV-a. Svaki mesec duze saradnje povećava ukupnu vrednost klijenta bez dodatnog troska akvizicije.
 
 **Retencija po tipu biznisa (Rivo, UpCounting, Vena Solutions 2025):**
 
 ### E-commerce retencija:
-- **Prosecna godisnja stopa zadrzavanja:** 30-38%, top performeri 50%+
+- **Prosečna godisnja stopa zadrzavanja:** 30-38%, top performeri 50%+
 - **Godisnji churn (klasican e-commerce):** 70-75%
 - **Subscription e-commerce mesecni churn:** 3.4%
 - **Po kategorijama:** kozmetika 62% retencija, pet proizvodi 30%+ (pretplata), online grocery 71%, consumer electronics 18% (najnizi)
@@ -30204,32 +30204,32 @@ Retencija je direktan multiplikator CLV-a. Svaki mesec duze saradnje povecava uk
 - **Net Revenue Retention (medijana 2025):** 106%, top performeri 120%+
 - **Gross Revenue Retention (medijana 2025):** 90%, top kvartil 95%+
 
-**Kljucna statistika:** Povratni kupci trose 67% vise od prvih kupovina. E-commerce sajt sa 1.000 kupaca gde 30% kupuje ponovo generise mnogo vise prihoda nego sajt sa 1.500 kupaca gde se samo 10% vraca.
+**Ključna statistika:** Povratni kupci troše 67% više od prvih kupovina. E-commerce sajt sa 1.000 kupaca gde 30% kupuje ponovo generise mnogo više prihoda nego sajt sa 1.500 kupaca gde se samo 10% vraca.
 
 Za strategije zadrzavanja kupaca pogledajte [retention vodic](/blog/zadrzavanje-kupaca-customer-retention-srbija-2026).
 
 ## Kako subscription model menja CLV
 
-Firme sa pretplatnickim modelom konzistentno beleze 2-3 puta veci CLV od firmi sa jednokratnim kupovinama. Razlog je predvidljivost prihoda i produzeni zivotni vek klijenta.
+Firme sa pretplatnickim modelom konzistentno beleze 2-3 puta veći CLV od firmi sa jednokratnim kupovinama. Razlog je predvidljivost prihoda i produzeni zivotni vek klijenta.
 
 **Benchmark podaci za subscription modele (Orb, SellersCommerce 2025):**
 
-- **B2B SaaS prosecni zivotni vek klijenta:** 3-5 godina (mid-market), 5-7 godina (enterprise)
-- **Subscription e-commerce:** 2.5-4x veci CLV u poredjenju sa jednokratnom kupovinom
+- **B2B SaaS prosečni zivotni vek klijenta:** 3-5 godina (mid-market), 5-7 godina (enterprise)
+- **Subscription e-commerce:** 2.5-4x veći CLV u poredjenju sa jednokratnom kupovinom
 - **SaaS CLV formula:** prosecno 3-5x godisnja vrednost ugovora
 - **Subscription e-commerce churn:** 3.4% mesecno vs 70%+ godisnji za klasican e-commerce
 
-**Prakticno:** Firma koja nadje nacin da transformise jednokratnu uslugu u recurring model (mesecni paket, godisnja pretplata, membership) automatski pomera CLV nagore bez potrebe za akvizicijom novih klijenata.
+**Praktično:** Firma koja nadje nacin da transformise jednokratnu uslugu u recurring model (mesecni paket, godisnja pretplata, membership) automatski pomera CLV nagore bez potrebe za akvizicijom novih klijenata.
 
 ## Omnichannel i personalizacija kao CLV multiplikatori
 
-Podaci iz Genesys Growth i Emarsys CLV studija (2025) pokazuju da strategija interakcije direktno utice na vrednost klijenta:
+Podaci iz Genesys Growth i Emarsys CLV studija (2025) pokazuju da strategija interakcije direktno utiče na vrednost klijenta:
 
 - **Omnichannel kupci:** 30% visi CLV u poredjenju sa single-channel kupcima
-- **Personalizacija:** firme koje rade naprednu personalizaciju generisu 40% vise prihoda od konkurencije koja ne personalizuje
-- **Samo 42% firmi** moze tacno da izmeri CLV, sto znaci da velika vecina donosi odluke bez ove kljucne metrike
+- **Personalizacija:** firme koje rade naprednu personalizaciju generisu 40% više prihoda od konkurencije koja ne personalizuje
+- **Samo 42% firmi** moze tacno da izmeri CLV, sto znači da velika vecina donosi odluke bez ove ključne metrike
 
-**Sta ovo znaci u praksi:** Firma koja koristi email + retargeting + personalizovane ponude za postojece klijente ne samo da ima nizi churn, vec ima visi prosecni racun po transakciji i duzi zivotni vek saradnje.
+**Šta ovo znači u praksi:** Firma koja koristi email + retargeting + personalizovane ponude za postojece klijente ne samo da ima nizi churn, vec ima visi prosečni racun po transakciji i duzi zivotni vek saradnje.
 
 Za benchmark email marketing performansi pogledajte [email open rate i CTR po industriji](/blog/email-marketing-open-rate-ctr-benchmark-po-industriji-2026). Za ROI email kanala pogledajte [email marketing ROI po industriji](/blog/koliko-zapravo-zaradjuje-email-marketing-roi-po-industriji-2026).
 
@@ -30238,28 +30238,28 @@ Za benchmark email marketing performansi pogledajte [email open rate i CTR po in
 Postoje dve osnovne formule. Za vecinu malih i srednjih firmi, jednostavna formula je dovoljno precizna za donosenje odluka:
 
 ### Jednostavna formula:
-CLV = Prosecna vrednost transakcije x Prosecni broj transakcija godisnje x Prosecni zivotni vek klijenta (u godinama)
+CLV = Prosečna vrednost transakcije x Prosečni broj transakcija godisnje x Prosečni zivotni vek klijenta (u godinama)
 
 **Primer za lokalni servis:**
-- Prosecna usluga: 80 evra
+- Prosečna usluga: 80 evra
 - Posete godisnje: 3
-- Prosecna saradnja: 4 godine
+- Prosečna saradnja: 4 godine
 - CLV = 80 x 3 x 4 = 960 evra
 
 ### Profit-based CLV (preciznija):
-CLV = (Prosecna vrednost transakcije x Bruto marza) x Prosecni broj transakcija x Zivotni vek - CAC
+CLV = (Prosečna vrednost transakcije x Bruto marza) x Prosečni broj transakcija x Zivotni vek - CAC
 
 **Primer za e-commerce:**
-- Prosecna porudzbina: 55 evra
+- Prosečna porudžbina: 55 evra
 - Bruto marza: 45% (24.75 evra profita)
-- Porudzbine godisnje: 2.5
+- Porudžbine godisnje: 2.5
 - Zivotni vek: 3 godine
 - CAC: 28 evra
 - CLV = (24.75 x 2.5 x 3) - 28 = 157.6 evra
 
-**Vazno:** Profit-based CLV je uvek realniji od revenue-based jer pokazuje stvarnu vrednost klijenta nakon sto se oduzmu troskovi isporuke i akvizicije.
+**Vazno:** Profit-based CLV je uvek realniji od revenue-based jer pokazuje stvarnu vrednost klijenta nakon sto se oduzmu troškovi isporuke i akvizicije.
 
-## 7 nacina da povecate CLV bez veceg ad budzeta
+## 7 nacina da povecate CLV bez većeg ad budžeta
 
 ### 1. Uvedite program lojalnosti ili membership
 Retencija raste 15-25% kod firmi sa strukturiranim programom lojalnosti. Ne mora biti kompleksno: jednostavan sistem bodova ili popust za ponovne kupce je dovoljno.
@@ -30268,7 +30268,7 @@ Retencija raste 15-25% kod firmi sa strukturiranim programom lojalnosti. Ne mora
 Prvih mesec dana je kriticni period. Klijent koji u prvih 30 dana vidi jasan progres i vrednost ostaje 3-5x duze od klijenta koji prolazi kroz haos.
 
 ### 3. Aktivirajte email automatizaciju za post-purchase
-Post-purchase email sekvenca (zahvalnica, saveti, komplementarni proizvodi) povecava repeat rate za 20-35%. Za strategije pogledajte [email automatizaciju za webshop](/blog/email-automatizacija-za-webshop-srbija-2026).
+Post-purchase email sekvenca (zahvalnica, saveti, komplementarni proizvodi) povećava repeat rate za 20-35%. Za strategije pogledajte [email automatizaciju za webshop](/blog/email-automatizacija-za-webshop-srbija-2026).
 
 ### 4. Identifikujte i negujte top 20% klijenata
 Po Pareto principu, 20% klijenata donosi 80% prihoda. Fokusirano negovanje ove grupe (personalizovane ponude, prioritetna podrska, ekskluzivan pristup) direktno pomera ukupan CLV.
@@ -30280,9 +30280,9 @@ Po Pareto principu, 20% klijenata donosi 80% prihoda. Fokusirano negovanje ove g
 Klijent koji je vec kupio ima 60-70% verovatnocu ponovne kupovine, naspram 5-20% za novog. Iskoristite svaki kontakt za relevantan dodatni predlog.
 
 ### 7. Skratite vreme odgovora na ispod 15 minuta
-Za usluzne firme, brzina odgovora direktno korelira sa zadrzavanjem. Klijent koji dobije brz i konkretan odgovor ima 40%+ vecu sansu da ostane dugorocno.
+Za usluzne firme, brzina odgovora direktno korelira sa zadrzavanjem. Klijent koji dobije brz i konkretan odgovor ima 40%+ vecu sansu da ostane dugoročno.
 
-## Zakljucak: gde je vas CLV u poredjenju sa benchmarkom
+## Zaključak: gde je vas CLV u poredjenju sa benchmarkom
 
 | Metrika | Dobro | Prosecno | Lose |
 |---------|-------|----------|------|
@@ -30292,9 +30292,9 @@ Za usluzne firme, brzina odgovora direktno korelira sa zadrzavanjem. Klijent koj
 | Repeat purchase rate | >30% | 20-30% | <15% |
 | NRR (SaaS) | >110% | 100-110% | <100% |
 
-Ako vam je CLV nizak u poredjenju sa industrijskim prosekom, pre nego sto povecate ad budzet pogledajte gde gubite postojece klijente. Najbrzi rast profita skoro uvek dolazi iz retencije, ne iz akvizicije.
+Ako vam je CLV nizak u poredjenju sa industrijskim prosekom, pre nego sto povecate ad budžet pogledajte gde gubite postojece klijente. Najbrzi rast profita skoro uvek dolazi iz retencije, ne iz akvizicije.
 
-Za kompletnu analizu vaseg CLV-a, retencije i strategiju za povecanje vrednosti klijenata, [kontaktirajte nas](/kontakt).
+Za kompletnu analizu vaseg CLV-a, retencije i strategiju za povećanje vrednosti klijenata, [kontaktirajte nas](/kontakt).
 
 ---
 
@@ -31781,27 +31781,27 @@ Za pomoc oko pokretanja ili optimizacije vasih TikTok kampanja, [kontaktirajte n
     category: 'Marketing',
     readTime: '14 min',
     tableOfContents: [
-      'Marketing automatizacija vise nije opcija',
+      'Marketing automatizacija više nije opcija',
       'Koliko trziste zaista vredi',
       'ROI: konkretni brojevi',
       'Stopa usvajanja',
-      'Sta se automatizuje',
+      'Šta se automatizuje',
       'Lead generation i konverzije',
       'Email automatizacija: kanal koji dominira',
       'Produktivnost i usteda vremena',
       'AI u marketing automatizaciji',
       'B2B vs B2C razlike',
       'Martech stack iskoriscenost',
-      'Sta ovo znaci za firme u Srbiji',
+      'Šta ovo znači za firme u Srbiji',
     ],
     content: `
-## Marketing automatizacija vise nije opcija — ko je ne koristi, zaostaje
+## Marketing automatizacija više nije opcija — ko je ne koristi, zaostaje
 
-Marketing automatizacija je presla put od "lepo je imati" do "bez toga ne mozes". Trziste je naraslo na **$47 milijardi u 2025** i raste ka **$81 milijardi do 2030** (CAGR 11.5%, prema MarketsandMarkets). Prosecni ROI? **$5.44 na svaki ulozeni dolar** — odnosno 544% povracaja (Nucleus Research). A **76% firmi** vidi pozitivan ROI u prvih 12 meseci.
+Marketing automatizacija je presla put od "lepo je imati" do "bez toga ne mozes". Trziste je naraslo na **$47 milijardi u 2025** i raste ka **$81 milijardi do 2030** (CAGR 11.5%, prema MarketsandMarkets). Prosečni ROI? **$5.44 na svaki ulozeni dolar** — odnosno 544% povracaja (Nucleus Research). A **76% firmi** vidi pozitivan ROI u prvih 12 meseci.
 
-Ovo nisu marketinske floskule. Ovo su citirani podaci koji pokazuju koliko marketing automatizacija utice na lead generation, konverzije, produktivnost i prihod — po industriji i po velicini firme.
+Ovo nisu marketinske floskule. Ovo su citirani podaci koji pokazuju koliko marketing automatizacija utiče na lead generation, konverzije, produktivnost i prihod — po industriji i po velicini firme.
 
-Ako vas zanima koliko firme generalno trose na marketing, pogledajte [koliko firme trose na marketing po industriji](/blog/koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026). Za poredjenje kanala pogledajte [email marketing ROI](/blog/koliko-zapravo-zaradjuje-email-marketing-roi-po-industriji-2026) i [ROAS po platformi](/blog/roas-po-industriji-i-platformi-benchmark-statistika-2026).
+Ako vas zanima koliko firme generalno troše na marketing, pogledajte [koliko firme troše na marketing po industriji](/blog/koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026). Za poredjenje kanala pogledajte [email marketing ROI](/blog/koliko-zapravo-zaradjuje-email-marketing-roi-po-industriji-2026) i [ROAS po platformi](/blog/roas-po-industriji-i-platformi-benchmark-statistika-2026).
 
 ## Koliko trziste marketing automatizacije zaista vredi
 
@@ -31813,19 +31813,19 @@ Ako vas zanima koliko firme generalno trose na marketing, pogledajte [koliko fir
 | Trziste softvera (uzi obuhvat, 2025) | $7.46 milijardi | Grand View Research |
 | Projekcija softvera (2030) | $15.58 milijardi | Grand View Research |
 | CAGR softvera | 15.3% | Grand View Research |
-| Udeo cloud resenja | 73.6% | MarketsandMarkets |
+| Udeo cloud rešenja | 73.6% | MarketsandMarkets |
 | Najbrze rastuci region | APAC (18.5% CAGR) | Grand View Research |
 | Najbrze rastuci segment | Analytics i reporting (13.0% CAGR) | MarketsandMarkets |
 
-Severna Amerika drzi **35.3% globalnog trzista**, ali APAC raste najbrze jer azijske firme ulaze u fazu digitalizacije gde je automatizacija prvi korak.
+Severna Amerika drzi **35.3% globalnog tržišta**, ali APAC raste najbrze jer azijske firme ulaze u fazu digitalizacije gde je automatizacija prvi korak.
 
-Cloud resenja dominiraju sa **73.6% udela** jer omogucavaju brzu implementaciju i integraciju sa CRM platformama. Lokalna instalacija se povlaci iz mainstream upotrebe.
+Cloud rešenja dominiraju sa **73.6% udela** jer omogucavaju brzu implementaciju i integraciju sa CRM platformama. Lokalna instalacija se povlaci iz mainstream upotrebe.
 
 ## ROI marketing automatizacije: konkretni brojevi
 
 | Metrika | Vrednost | Izvor |
 |---------|----------|-------|
-| Prosecni ROI po dolaru | $5.44 na $1 | Nucleus Research |
+| Prosečni ROI po dolaru | $5.44 na $1 | Nucleus Research |
 | ROI u prvih 12 meseci | 76% firmi | DemandSage/HubSpot |
 | ROI za manje od mesec dana | 12% firmi | DemandSage |
 | Forrester TEI (SOCi) | 192% ROI, payback 6 meseci | Forrester/SOCi |
@@ -31838,7 +31838,7 @@ Cloud resenja dominiraju sa **73.6% udela** jer omogucavaju brzu implementaciju 
 | Rast marketing ROI-a (Salesforce korisnici) | +25% | Salesforce |
 | HubSpot: ROI za 4 nedelje | 76% korisnika | HubSpot |
 
-### Razlika izmedju velikih i malih firmi
+### Razlika između velikih i malih firmi
 
 Enterprise firme postizu ROI kroz **konsolidaciju alata** — zamena 5-7 pojedinacnih platformi jednom unified automatizacijom donosi ustedu i od $3 miliona godisnje. Za male firme, glavni ROI dolazi iz **ustede radnog vremena** — zadaci koji su ranije trajali satima (segmentacija, email trigeri, izvestaji) sada rade sami u pozadini.
 
@@ -31853,20 +31853,20 @@ Za konkretne cene digitalnog marketinga u Srbiji pogledajte [cene digitalnog mar
 | B2B marketeri: automatizacija je kriticna | 98% | Adobe |
 | Automatizuju deo customer journey-a | 79% | DemandSage |
 | Potpuno automatizovan customer journey | 41% | Statista |
-| Planiraju povecati budzet za automatizaciju | 69% | Statista |
+| Planiraju povecati budžet za automatizaciju | 69% | Statista |
 | Koriste min. 1 formu automatizacije | 75% | Adobe |
 | B2B: koriste automatizaciju ekstenzivno | 46% | Dun & Bradstreet |
-| Smatraju lakocu koriscenja kljucnom | 86% | DemandSage |
+| Smatraju lakocu korišćenja kljucnom | 86% | DemandSage |
 | Firme: automatizacija je jako bitna za uspeh | 91% | DemandSage |
 
-### Sta se tacno automatizuje?
+### Šta se tacno automatizuje?
 
 | Oblast | % marketera koji automatizuju | Izvor |
 |--------|-------------------------------|-------|
 | Email marketing | 65% | DemandSage |
 | Social media management | 47% | DemandSage |
 | Landing stranice | 30% | DemandSage |
-| Placeni oglasi | 28% | DemandSage |
+| Plaćeni oglasi | 28% | DemandSage |
 | Campaign tracking | 25% | DemandSage |
 | Content management | 23% | DemandSage |
 | SEO | 18% | DemandSage |
@@ -31878,7 +31878,7 @@ Za konkretne cene digitalnog marketinga u Srbiji pogledajte [cene digitalnog mar
 | Live chat | 13% | DemandSage |
 | Dinamicki web formulari | 12% | DemandSage |
 
-Email ostaje ubedljivi lider (65%), ali social media i landing page automatizacija rastu najbrze. Firme koje automatizuju i email i social i landing stranice imaju **34% vise konverzija** od onih koje automatizuju samo jedan kanal.
+Email ostaje ubedljivi lider (65%), ali social media i landing page automatizacija rastu najbrze. Firme koje automatizuju i email i social i landing stranice imaju **34% više konverzija** od onih koje automatizuju samo jedan kanal.
 
 Za detalje o email automatizaciji pogledajte [email automatizacija za webshop](/blog/email-automatizacija-za-webshop-srbija-2026) i [email marketing benchmark po industriji](/blog/email-marketing-open-rate-ctr-benchmark-po-industriji-2026).
 
@@ -31886,15 +31886,15 @@ Za detalje o email automatizaciji pogledajte [email automatizacija za webshop](/
 
 | Metrika | Vrednost | Izvor |
 |---------|----------|-------|
-| Povecanje broja leadova | +80% | Invesp/DemandSage |
-| Vise kvalifikovanih leadova (video automatizacija) | +451% | DemandSage |
+| Povećanje broja leadova | +80% | Invesp/DemandSage |
+| Više kvalifikovanih leadova (video automatizacija) | +451% | DemandSage |
 | Visi conversion rate | +77% | DemandSage |
 | Rast inbound leadova (HubSpot korisnici) | 3x | HubSpot |
 | AI features: boost lead konverzije | +54% | HubSpot |
 | Firme: konverzije porasle nakon implementacije | 75%+ | DemandSage |
-| Primarni cilj: vise leadova | 61% korisnika | DemandSage |
+| Primarni cilj: više leadova | 61% korisnika | DemandSage |
 | Drugi cilj: nurturing leadova | 57% korisnika | DemandSage |
-| Treci cilj: vise prihoda od prodaje | 47% korisnika | DemandSage |
+| Treci cilj: više prihoda od prodaje | 47% korisnika | DemandSage |
 
 Automatizovani lead nurturing tokovi (welcome serije, abandoned cart, post-purchase) **konvertuju do 3x bolje** od manuelnog kontaktiranja. Tajna je u tajmingu — automatizacija salje pravu poruku u trenutku kad je lead najtopliji.
 
@@ -31915,7 +31915,7 @@ Za poredjenje cena po leadu pogledajte [CPA po industriji](/blog/koliko-kosta-no
 | Welcome email open rate | 86% | DemandSage |
 | Abandoned cart email open rate | 29.64% | DemandSage |
 | Revenue od personalizovanih emailova | 75% ukupnog email prihoda | DemandSage |
-| Firme sa automatizacijom: relevantniji emailovi | 133% veca verovatnoca | DemandSage |
+| Firme sa automatizacijom: relevantniji emailovi | 133% veća verovatnoca | DemandSage |
 
 **Dva procenta poslatih emailova generisu 37% prodaje.** Ovo je verovatno najvaznija statistika u celom clanku. Automatizovani trigeri (welcome, cart abandonment, post-purchase, browse abandonment) su neproporcionalno efikasniji od masovnih kampanja jer stizu u pravom trenutku.
 
@@ -31937,7 +31937,7 @@ Za kompletne benchmark podatke o email otvorima i klikovima pogledajte [email ma
 
 Marketing timovi koji koriste automatizaciju ne rade manje — rade **pametnije**. Umesto da junior marketar provodi 4 sata dnevno na manuelnom slanju emailova i izvestavanju, automatizacija to preuzima, a tim se fokusira na strategiju i kreativu.
 
-Za vise o tome kako AI menja marketing pogledajte [koliko firmi koristi AI](/blog/koliko-firmi-koristi-ai-statistika-produktivnost-roi-2026).
+Za više o tome kako AI menja marketing pogledajte [koliko firmi koristi AI](/blog/koliko-firmi-koristi-ai-statistika-produktivnost-roi-2026).
 
 ## AI u marketing automatizaciji: nova osnovna linija
 
@@ -31946,42 +31946,42 @@ Za vise o tome kako AI menja marketing pogledajte [koliko firmi koristi AI](/blo
 | Marketeri koji koriste AI | 92% | DemandSage |
 | Koriste i automatizaciju i AI | 64% | DemandSage |
 | AI kao najveci disruptor u 20 godina | 61% | Thunderbit/Gartner |
-| Koriste AI za kreiranje sadrzaja | 80% | Thunderbit/Gartner |
+| Koriste AI za kreiranje sadržaja | 80% | Thunderbit/Gartner |
 | Koriste AI za medijsku produkciju | 75% | Thunderbit/Gartner |
 | GenAI adoption | 85% (rast sa 75% u 2024) | Thunderbit/Gartner |
 | Firme sa GenAI budzetom | 93% | Thunderbit/Gartner |
 | CMO-i koji vide ROI od GenAI | 93% | Thunderbit/Gartner |
 | Poboljsana personalizacija (GenAI) | 94% | Thunderbit/Gartner |
 | Poboljsana efikasnost (GenAI) | 91% | Thunderbit/Gartner |
-| Usteda troskova/vremena (GenAI) | 90% | Thunderbit/Gartner |
+| Usteda troškova/vremena (GenAI) | 90% | Thunderbit/Gartner |
 | Globalna vrednost AI u marketingu (2028) | $107.54 milijardi | Statista |
 
-AI je transformisao marketing automatizaciju iz "if-then" pravila u pravu inteligenciju. Moderni sistemi ne samo da automatizuju slanje — oni **predvidjaju koji lead ce konvertovati**, **optimizuju vreme slanja** i **personalizuju sadrzaj** u realnom vremenu.
+AI je transformisao marketing automatizaciju iz "if-then" pravila u pravu inteligenciju. Moderni sistemi ne samo da automatizuju slanje — oni **predvidjaju koji lead ce konvertovati**, **optimizuju vreme slanja** i **personalizuju sadržaj** u realnom vremenu.
 
-**Kljucna promena:** AI-powered automatizacija ne zamenjuje marketere. Zamenjuje **dosadan, repetitivan deo posla** i omogucava timu da se fokusira na kreativni i strateski rad koji menja rezultate.
+**Ključna promena:** AI-powered automatizacija ne zamenjuje marketere. Zamenjuje **dosadan, repetitivan deo posla** i omogucava timu da se fokusira na kreativni i strateski rad koji menja rezultate.
 
-## Glavni razlozi zasto firme uvode automatizaciju
+## Glavni razlozi zašto firme uvode automatizaciju
 
 | Razlog | % firmi | Izvor |
 |--------|---------|-------|
 | Streamline marketing i prodaje | 35% | Ascend2 |
 | Poboljsanje customer engagementa | 34% | Ascend2 |
 | Smanjenje manuelnih taskova | 30% | Ascend2 |
-| Vise leadova | 28% | Ascend2 |
+| Više leadova | 28% | Ascend2 |
 | Optimizacija workflow-a | 25% | Ascend2 |
 | Poboljsanje kvaliteta leadova | 24% | Ascend2 |
 | Centralizacija podataka | 21% | Ascend2 |
 | Bolji marketing attribution | 17% | Ascend2 |
-| Vise touchpoint-ova | 10% | Ascend2 |
+| Više touchpoint-ova | 10% | Ascend2 |
 
 ## B2B vs B2C: razlike u automatizaciji
 
 | Aspekt | B2B | B2C |
 |--------|-----|-----|
 | Glavni cilj | Lead nurturing, pipeline | Konverzije, retention |
-| Najcesce automatizuju | Email, lead scoring, ABM | Email, social media, ads |
+| Najčešće automatizuju | Email, lead scoring, ABM | Email, social media, ads |
 | Kriticno za uspeh | 98% B2B marketera | Visoko, ali manje dokumentovano |
-| Prosecni sales cycle | 6-18 meseci | Minuti do dani |
+| Prosečni sales cycle | 6-18 meseci | Minuti do dani |
 | ROI fokus | CPL, pipeline velocity | ROAS, AOV, CLV |
 | Najveci izazov | Nedostatak strategije (49%) | Integracija podataka |
 
@@ -31989,17 +31989,17 @@ B2B firme koriste automatizaciju za **duge, kompleksne sales cikluse** gde je nu
 
 ## Martech stack: iskoriscenost i konsolidacija
 
-Jedan zanimljiv podatak: martech iskoriscenost je pala na **49%** u 2025. Firme kupuju alate ali ih ne koriste u punom kapacitetu. To znaci da polovina ulaganja u marketing tehnologiju ne donosi povracaj.
+Jedan zanimljiv podatak: martech iskoriscenost je pala na **49%** u 2025. Firme kupuju alate ali ih ne koriste u punom kapacitetu. To znači da polovina ulaganja u marketing tehnologiju ne donosi povracaj.
 
-Resenje? **Konsolidacija.** Firme koje zamene 5-7 pojedinacnih alata jednom platformom (HubSpot, Zeta, ActiveCampaign) ne samo da stede — one zapravo koriste funkcije koje su ranije ignorisale jer su bile rasute po razlicitim sistemima.
+Rešenje? **Konsolidacija.** Firme koje zamene 5-7 pojedinacnih alata jednom platformom (HubSpot, Zeta, ActiveCampaign) ne samo da stede — one zapravo koriste funkcije koje su ranije ignorisale jer su bile rasute po različitim sistemima.
 
-HubSpot trenutno drzi **34.72% globalnog trzista** marketing automatizacije sa preko 300.000 firmi. Klaviyo dominira u e-commerce segmentu (14% udela), a MailChimp je popularan medju manjim firmama (25% udela).
+HubSpot trenutno drzi **34.72% globalnog tržišta** marketing automatizacije sa preko 300.000 firmi. Klaviyo dominira u e-commerce segmentu (14% udela), a MailChimp je popularan medju manjim firmama (25% udela).
 
-## Sta ovo znaci za firme u Srbiji
+## Šta ovo znači za firme u Srbiji
 
 Marketing automatizacija nije samo za velike korporacije i americke SaaS firme. Mala firma u Srbiji moze implementirati:
 
-1. **Email automatizaciju** (welcome serija, abandoned cart, post-purchase follow-up) — ovo je najbrzi put do ROI-a, i ne kosta mnogo. ActiveCampaign, Mailchimp ili Brevo pokrivaju osnove.
+1. **Email automatizaciju** (welcome serija, abandoned cart, post-purchase follow-up) — ovo je najbrzi put do ROI-a, i ne košta mnogo. ActiveCampaign, Mailchimp ili Brevo pokrivaju osnove.
 
 2. **Social media scheduling** — automatsko objavljivanje smanjuje 5-8 sati nedeljno manuelnog rada.
 
@@ -32009,16 +32009,16 @@ Marketing automatizacija nije samo za velike korporacije i americke SaaS firme. 
 
 5. **Chatbot automatizacija** — AI chatbot na sajtu moze preuzeti 60-80% rutinskih pitanja i kvalifikovati leadove 24/7.
 
-Ako vas zanima koliko sve ovo realno kosta, pogledajte [cene digitalnog marketinga u Srbiji](/cene-digitalnog-marketinga) i [koliko kosta izrada sajta](/cene-izrade-sajta).
+Ako vas zanima koliko sve ovo realno košta, pogledajte [cene digitalnog marketinga u Srbiji](/cene-digitalnog-marketinga) i [koliko košta izrada sajta](/cene-izrade-sajta).
 
-## Rezime: kljucne statistike na jednom mestu
+## Rezime: ključne statistike na jednom mestu
 
 - **$5.44 ROI na $1** ulaganja u marketing automatizaciju
 - **76% firmi** vidi pozitivan ROI u prvih 12 meseci
-- **+80% vise leadova** kod firmi koje koriste automatizaciju
+- **+80% više leadova** kod firmi koje koriste automatizaciju
 - **2% emailova generise 37% prodaje** (automatizovani trigeri)
-- **$47 milijardi** je trenutna vrednost trzista, ide ka $81 milijardi do 2030
-- **93% firmi** ima budzet za GenAI u marketingu
+- **$47 milijardi** je trenutna vrednost tržišta, ide ka $81 milijardi do 2030
+- **93% firmi** ima budžet za GenAI u marketingu
 - **49% martech stack-a** se ne koristi — konsolidacija je kljuc
 
 Marketing automatizacija se isplati. Pitanje nije da li je implementirati, vec koliko brzo.
@@ -32055,61 +32055,61 @@ Marketing automatizacija se isplati. Pitanje nije da li je implementirati, vec k
 
 Odgovor: 0.05 sekundi. Toliko treba posiocu da formira prvi utisak o vasem sajtu. I 94% tog utiska se zasniva na dizajnu, a samo 6% na sadrzaju.
 
-To znaci da pre nego sto korisnik procita ijednu recenicu na vasoj stranici, vec je odlucio da li mu izgledate profesionalno ili ne. Nema drugog medijuma gde je presuda toliko brza i toliko vizuelna.
+To znači da pre nego sto korisnik procita ijednu recenicu na vasoj stranici, vec je odlucio da li mu izgledate profesionalno ili ne. Nema drugog medijuma gde je presuda toliko brza i toliko vizuelna.
 
-75% korisnika u 2025. godini procenjuje kredibilitet firme na osnovu web dizajna. Ne na osnovu toga sta pisete o sebi. Ne na osnovu cena. Na osnovu toga kako sajt izgleda i kako se ponasa.
+75% korisnika u 2025. godini procenjuje kredibilitet firme na osnovu web dizajna. Ne na osnovu toga šta pisete o sebi. Ne na osnovu cena. Na osnovu toga kako sajt izgleda i kako se ponasa.
 
-## Dizajn i poverenje: zasto izgled menja sve
+## Dizajn i poverenje: zašto izgled menja sve
 
 48% korisnika kaze da im je dizajn sajta primarni faktor pri proceni da li mogu da veruju firmi. Nije to apstraktan osecaj. Konkretno, 81% potrosaca u 2024. godini napusta sajt ako im deluje nepouzdano u prvih 5 sekundi.
 
-Sta cini sajt "nepouzdanim" u ocima posetioca?
+Šta cini sajt "nepouzdanim" u ocima posetioca?
 
-Zastareo vizuelni stil je prvi signal. Sajt koji izgleda kao da je pravljen 2014. godine saje poruku da firma ne ulaze u svoje prisustvo. Drugim recima: ako ne brinete o svojoj web prezentaciji, zasto bih verovao da cete brinuti o mom projektu?
+Zastareo vizuelni stil je prvi signal. Sajt koji izgleda kao da je pravljen 2014. godine saje poruku da firma ne ulaze u svoje prisustvo. Drugim recima: ako ne brinete o svojoj web prezentaciji, zašto bih verovao da cete brinuti o mom projektu?
 
-Drugi signal su tehnicke stvari kojih korisnik mozda nije ni svestan, ali ih podsvesno registruje: sporo ucitavanje, pomicanje elemenata dok se stranica ucitava (layout shift), nedostajuci HTTPS indikator. SSL sertifikati, jasne politike privatnosti i profesionalan vizuelni identitet nisu luksuz. To su minimalni uslovi za poverenje.
+Drugi signal su tehničke stvari kojih korisnik mozda nije ni svestan, ali ih podsvesno registruje: sporo ucitavanje, pomicanje elemenata dok se stranica ucitava (layout shift), nedostajuci HTTPS indikator. SSL sertifikati, jasne politike privatnosti i profesionalan vizuelni identitet nisu luksuz. To su minimalni uslovi za poverenje.
 
 Treci element: konzistentnost. Ako vasa pocetna stranica izgleda moderno a stranica usluga kao da pripada drugom sajtu, to razbija poverenje. 32% korisnika napusta cak i brendove koje voli posle nekoliko nekonzistentnih iskustava.
 
 ## UX i konverzije: svaki dolar ulozen u iskustvo korisnika vraca 100
 
-Ovo je cifra koja bi trebalo da nagna svakog vlasnika firme da se zamisli: svaki dolar ulozen u UX dizajn moze da vrati do 100 dolara. Prosecni ROI UX poboljsanja je 9,900%.
+Ovo je cifra koja bi trebalo da nagna svakog vlasnika firme da se zamisli: svaki dolar ulozen u UX dizajn moze da vrati do 100 dolara. Prosečni ROI UX poboljsanja je 9,900%.
 
 Dobar UX dizajn moze da poveca konverzije do 400%. A ne govorimo o kompleksnim redizajnima od nule. Cesto su u pitanju sistematske male promene: jasniji poziv na akciju, bolji kontrast, manji broj polja u formi, jasnija hijerarhija informacija.
 
 Obrnuto, posledice loseg korisnickog iskustva su brutalne: 88% korisnika se nece vratiti na sajt posle loseg iskustva, a 70% online biznisa ne uspeva upravo zbog lose upotrebljivosti.
 
-Za detaljniju analizu sta utice na konverzije i kako ih meriti po industriji, pogledajte [benchmark konverzija po industriji](/blog/checkout-optimizacija-statistika-konverzija-forme-placanje-2026).
+Za detaljniju analizu šta utiče na konverzije i kako ih meriti po industriji, pogledajte [benchmark konverzija po industriji](/blog/checkout-optimizacija-statistika-konverzija-forme-placanje-2026).
 
-## Brzina ucitavanja: svaka sekunda kosta novac
+## Brzina ucitavanja: svaka sekunda košta novac
 
-Prosecno vreme ucitavanja glavnog sadrzaja u 2025. je 1.9 sekundi na mobilnom i 1.7 sekundi na desktopu. Ali korisnicka ocekivanja su jos stroza: 47% korisnika smartfona ocekuje da se stranica ucita za 2 sekunde ili manje.
+Prosecno vreme ucitavanja glavnog sadržaja u 2025. je 1.9 sekundi na mobilnom i 1.7 sekundi na desktopu. Ali korisnicka ocekivanja su još stroza: 47% korisnika smartfona ocekuje da se stranica ucita za 2 sekunde ili manje.
 
-Evo sta se desava kad sajt kasni:
+Evo šta se desava kad sajt kasni:
 
 - **1 sekunda kasnjenja** smanjuje konverzije za 7%, preglede stranica za 11% i zadovoljstvo korisnika za 16%
-- **3 sekunde ucitavanja** povecavaju verovatnocu napustanja za 32% u odnosu na sajt koji se ucitava za 1 sekundu
+- **3 sekunde ucitavanja** povećavaju verovatnocu napustanja za 32% u odnosu na sajt koji se ucitava za 1 sekundu
 - **5+ sekundi**: sajt koji se ucitava 5 sekundi konvertuje tri puta losije od onog koji se ucitava za 1 sekundu
 - Sporo ucitavanje moze da "pojede" do **15% godisnjih prihoda firme**
 
 53% mobilnih korisnika napusti sajt koji se ucitava duze od 3 sekunde. Ne vrate se i ne pokusaju ponovo. Odu konkurentu.
 
-Prakticni koraci su cesto jednostavni: WebP format za slike (25-35% brze ucitavanje), lazy loading za sadrzaj ispod ekrana, minifikacija CSS/JS fajlova, CDN za staticke resurse.
+Praktični koraci su cesto jednostavni: WebP format za slike (25-35% brze ucitavanje), lazy loading za sadržaj ispod ekrana, minifikacija CSS/JS fajlova, CDN za staticke resurse.
 
-Za podatke o tome kako brzina utice na rangiranje u Google pretrazi, pogledajte [kako brzina sajta utice na rangiranje](/blog/kako-brzina-sajta-utice-na-rangiranje-na-googlu-2026).
+Za podatke o tome kako brzina utiče na rangiranje u Google pretrazi, pogledajte [kako brzina sajta utiče na rangiranje](/blog/kako-brzina-sajta-utice-na-rangiranje-na-googlu-2026).
 
-## Bounce rate: koliko posetilaca odlazi pre nego sto bilo sta urade
+## Bounce rate: koliko posetilaca odlazi pre nego sto bilo šta urade
 
-Bounce rate je procenat posetilaca koji odu sa sajta posle samo jedne stranice. Prosecni bounce rate-ovi za 2025-2026 variraju po industriji:
+Bounce rate je procenat posetilaca koji odu sa sajta posle samo jedne stranice. Prosečni bounce rate-ovi za 2025-2026 variraju po industriji:
 
 - **E-commerce:** 20-45% (prosek 45.68%)
 - **SaaS:** 35-55%
-- **Blog/sadrzajni sajtovi:** 70-90%
+- **Blog/sadržajni sajtovi:** 70-90%
 - **Landing stranice:** 60-90%
 
 30% bounce rate se generalno smatra dobrim rezultatom. Sve preko 50% za sajt koji bi trebalo da konvertuje posetioce u kupce signalizira problem.
 
-Sta najvise utice na bounce rate? Jasna navigacija moze da ga smanji za 40%. Brze ucitavanje je takodje kriticno (vec smo videli podatke gore). Mobilni uredjaji i saobracaj sa drustvenih mreza tipicno imaju vece bounce rate-ove jer su ti korisnici manje fokusirani.
+Šta najvise utiče na bounce rate? Jasna navigacija moze da ga smanji za 40%. Brze ucitavanje je takođe kriticno (vec smo videli podatke gore). Mobilni uredjaji i saobraćaj sa društvenih mreza tipicno imaju veće bounce rate-ove jer su ti korisnici manje fokusirani.
 
 ## Boje: 85% kupaca kupuje na osnovu boje
 
@@ -32126,27 +32126,27 @@ Trendovi za 2025-2026 idu ka neo-minimalnim neutralnim tonovima, vibrantnim grad
 
 ## Tipografija: 38% korisnika odustaje od loseg teksta
 
-Tipografija nije samo estetika. Losa tipografija je razlog zbog kog 38% korisnika napusti sajt jer im sadrzaj ili layout izgleda neprivlacno.
+Tipografija nije samo estetika. Losa tipografija je razlog zbog kog 38% korisnika napusti sajt jer im sadržaj ili layout izgleda neprivlacno.
 
-Kljucni principi koji uticu na citljivost i zadrzavanje:
+Ključni principi koji uticu na citljivost i zadrzavanje:
 
 - **Optimalna duzina reda:** 50-75 karaktera. Predugacki redovi zamraju oci, prekratki prekidaju tok citanja
 - **Hijerarhija naslova:** H1 > H2 > H3 mora biti vizuelno jasna, ne samo semanticki tacna
 - **Variable fontovi:** omogucavaju fleksibilnost bez dodatnog opterecenja na ucitavanje stranice
-- **Serif fontovi:** vratili su se u modu (+18% koriscenja na premium sajtovima), daju utisak autoriteta
+- **Serif fontovi:** vratili su se u modu (+18% korišćenja na premium sajtovima), daju utisak autoriteta
 
 ## Whitespace: 85% korisnika preferira "cistiju" stranicu
 
-85% korisnika preferira sajtove sa belom ili minimalnom pozadinom. 60% korisnika specificno favorizuje cist stil sa dovoljno praznog prostora oko sadrzaja.
+85% korisnika preferira sajtove sa belom ili minimalnom pozadinom. 60% korisnika specificno favorizuje cist stil sa dovoljno praznog prostora oko sadržaja.
 
 Whitespace (negativni prostor) nije "prazan prostor koji treba popuniti." To je dizajn element koji:
 
-- Fokusira paznju na CTA dugmad i kljucne poruke
-- Poboljsava citljivost teksta (posebno na mobilnim uredjajima)
+- Fokusira paznju na CTA dugmad i ključne poruke
+- Poboljsava citljivost teksta (posebno na mobilnim uređajima)
 - Daje utisak profesionalnosti i "premium" kvaliteta
 - Smanjuje kognitivno opterecenje posetioca
 
-19.2% malih firmi ima problem sa losim koriscenjem whitespace-a sto rezultira skucenim, zbunjujucim vizuelnim iskustvom. To je jedna od najcescih gresaka: strah da ce prazni prostor izgledati kao "prazan sajt" pa se svaki piksel napuni sadrzajem.
+19.2% malih firmi ima problem sa losim koriscenjem whitespace-a sto rezultira skucenim, zbunjujucim vizuelnim iskustvom. To je jedna od najcescih gresaka: strah da ce prazni prostor izgledati kao "prazan sajt" pa se svaki piksel napuni sadržajem.
 
 ## CTA dizajn: gde stoji dugme menja sve
 
@@ -32155,19 +32155,19 @@ Poziv na akciju (CTA) je mesto gde se dizajn prevodi u novac. Statistika je jasn
 - Jasan CTA moze da poveca klik-stopu za **95%**
 - CTA dugme postavljeno iznad "prevoja" (vidljivo bez skrolovanja) konvertuje **30% bolje**
 - Dodavanje jasnog CTA dugmeta moze da poveca konverzije za **80%**
-- **Trust badges** (bedzi poverenja — SSL, garancija, ocene) pored CTA povecavaju konverzije za 18%
+- **Trust badges** (bedzi poverenja — SSL, garancija, ocene) pored CTA povećavaju konverzije za 18%
 
-Personalizovani sadrzaj i CTA konvertuju znacajno bolje od generickih: personalizovani pozivi na akciju konvertuju 202% bolje od standardnih.
+Personalizovani sadržaj i CTA konvertuju znacajno bolje od generickih: personalizovani pozivi na akciju konvertuju 202% bolje od standardnih.
 
 Dobro dizajnirana landing stranica moze da poboljsa konverzije za 120%. To nije pitanje "lepog" dizajna. To je pitanje strateski postavljenih elemenata koji vode posetioca do odluke.
 
-Za vise o tome kako optimizovati checkout proces, pogledajte [checkout optimizacija statistika](/blog/checkout-optimizacija-statistika-konverzija-forme-placanje-2026).
+Za više o tome kako optimizovati checkout proces, pogledajte [checkout optimizacija statistika](/blog/checkout-optimizacija-statistika-konverzija-forme-placanje-2026).
 
 ## Responsivni dizajn: 59% kupovina je sa telefona
 
-U 2025. godini, mobilni uredjaji generisu 78% saobracaja na maloprodajnim sajtovima i 59% svih online transakcija. Responsivni dizajn moze da poveca konverzije za 11% u proseku, a strateska implementacija moze da donese poboljsanje do 400%.
+U 2025. godini, mobilni uredjaji generisu 78% saobraćaja na maloprodajnim sajtovima i 59% svih online transakcija. Responsivni dizajn moze da poveca konverzije za 11% u proseku, a strateska implementacija moze da donese poboljsanje do 400%.
 
-Ali postoji jedna vazna razlika: konverzija na mobilnom je 1.2-2.8%, dok je na desktopu 3.6-4.2%. Korisnici pretrazuju na telefonu, a kupuju na racunaru. To znaci da mobilna verzija vaseg sajta mora da bude dovoljno ubedljiva da korisnik zapamti vas brend i vrati se (ili odmah zavrsi kupovinu).
+Ali postoji jedna vazna razlika: konverzija na mobilnom je 1.2-2.8%, dok je na desktopu 3.6-4.2%. Korisnici pretrazuju na telefonu, a kupuju na racunaru. To znači da mobilna verzija vaseg sajta mora da bude dovoljno ubedljiva da korisnik zapamti vas brend i vrati se (ili odmah zavrsi kupovinu).
 
 Za detaljnije podatke o mobilnoj vs desktop kupovini, pogledajte [mobilna vs desktop kupovina statistika](/blog/mobilna-vs-desktop-kupovina-konverzije-statistika-2026).
 
@@ -32181,25 +32181,25 @@ Najcesci problemi:
 - **Nedostajuci alt tekst za slike:** 55.5% sajtova
 - **Nedostajuce labele za formular polja:** 48% sajtova
 
-71% osoba sa invaliditetom napusti sajt koji im nije pristupacan. To je ne samo eticko pitanje, vec i poslovno: u 2024. je bilo vise od 4,000 ADA tuzbi samo u SAD-u.
+71% osoba sa invaliditetom napusti sajt koji im nije pristupacan. To je ne samo eticko pitanje, vec i poslovno: u 2024. je bilo više od 4,000 ADA tuzbi samo u SAD-u.
 
-Pristupacnost takodje pozitivno utice na SEO (alt tekst, semanticki HTML, hijerarhija naslova) i konverzije (citljiviji tekst, jasnija navigacija). Poboljsanje pristupacnosti cesto poboljsava iskustvo za sve korisnike, ne samo za one sa invaliditetom.
+Pristupacnost takođe pozitivno utiče na SEO (alt tekst, semanticki HTML, hijerarhija naslova) i konverzije (citljiviji tekst, jasnija navigacija). Poboljsanje pristupacnosti cesto poboljsava iskustvo za sve korisnike, ne samo za one sa invaliditetom.
 
-## Koliko zapravo kosta ne ulagati u dizajn?
+## Koliko zapravo košta ne ulagati u dizajn?
 
 Hajde da saberemo trosakove loseg web dizajna:
 
 1. **Izgubljeni kredibilitet:** 75% korisnika procenjuje vas na osnovu sajta
-2. **Izgubljene konverzije:** los UX kosta do 400% potencijalnih konverzija
+2. **Izgubljene konverzije:** los UX košta do 400% potencijalnih konverzija
 3. **Bounce rate:** svaka sekunda kasnjenja tera ljude da odu
 4. **Smanjeni prihodi:** spor sajt moze da pojede 15% godisnjih prihoda
 5. **Pravni rizik:** nepristupacni sajtovi privlace tuzbe
 
 Cena profesionalnog web dizajna izgleda drugacije kad se uporedi sa cenom nepostojanja profesionalnog sajta. Firma sa sajtom koji konvertuje 1% umesto mogucih 3% ne gubi "procenat." Gubi dve trecine potencijalnih kupaca. Svaki dan.
 
-Za analizu koliko zapravo kosta izrada sajta, pogledajte [cene izrade sajta u Srbiji](/cene-izrade-sajta).
+Za analizu koliko zapravo košta izrada sajta, pogledajte [cene izrade sajta u Srbiji](/cene-izrade-sajta).
 
-## Kljucni brojevi za pamcenje
+## Ključni brojevi za pamcenje
 
 | Metrika | Podatak |
 |---------|---------|
@@ -32214,14 +32214,14 @@ Za analizu koliko zapravo kosta izrada sajta, pogledajte [cene izrade sajta u Sr
 | Bounce rate usled navigacije | -40% sa jasnom navigacijom |
 | Trust badge efekat | +18% konverzija |
 
-Svaki od ovih brojeva govori istu pricu: web dizajn nije trosak. To je infrastruktura koja direktno utice na to koliko novca vasa firma zaradjuje online.
+Svaki od ovih brojeva govori istu pricu: web dizajn nije trošak. To je infrastruktura koja direktno utiče na to koliko novca vasa firma zaradjuje online.
 
 *Izvori: MarketingLTB, Clutch.co, Convergine, JS-Interactive, VWO, Dovetail, WebAIM, DebugBear, BeaconWebWorks, RGC Digital Marketing, CausalFunnel*
 `,
     schema: {
       "@context": "https://schema.org",
       "@type": "Article",
-      "headline": "Web dizajn statistika 2026: kako izgled sajta utice na poverenje, konverzije i bounce rate",
+      "headline": "Web dizajn statistika 2026: kako izgled sajta utiče na poverenje, konverzije i bounce rate",
       "datePublished": "2026-03-25",
       "author": {
         "@type": "Organization",

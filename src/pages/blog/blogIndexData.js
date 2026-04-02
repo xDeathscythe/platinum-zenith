@@ -122,7 +122,7 @@ export const blogIndexPosts = [
   {
     "slug": "video-marketing-statistika-roi-kratki-video-youtube-tiktok-reels-2026",
     "title": "Video marketing u brojevima: ROI, kratki video, YouTube, TikTok i Reels (2026)",
-    "excerpt": "93% marketera belezi pozitivan ROI od videa. Video na landing stranici povećava konverziju do 86%. Kratki video 2.5x veci engagement. Benchmarke po platformi.",
+    "excerpt": "93% marketera belezi pozitivan ROI od videa. Video na landing stranici povećava konverziju do 86%. Kratki video 2.5x veći engagement. Benchmarke po platformi.",
     "date": "2026-03-25",
     "category": "Marketing",
     "readTime": "9 min",
@@ -202,8 +202,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "checkout-optimizacija-statistika-konverzija-forme-placanje-2026",
-    "title": "Checkout optimizacija: koliko polja, nacina placanja i koraka treba za maksimalnu prodaju",
-    "excerpt": "Statistike o checkout optimizaciji 2025-2026. Koliko polja smanjuje konverziju, zašto guest checkout povećava prodaju 45% i uticaj nacina placanja.",
+    "title": "Checkout optimizacija: koliko polja, nacina plaćanja i koraka treba za maksimalnu prodaju",
+    "excerpt": "Statistike o checkout optimizaciji 2025-2026. Koliko polja smanjuje konverziju, zašto guest checkout povećava prodaju 45% i uticaj nacina plaćanja.",
     "date": "2026-03-24",
     "category": "CRO",
     "readTime": "7 min",
