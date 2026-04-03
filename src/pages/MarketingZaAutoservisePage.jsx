@@ -4,13 +4,13 @@ import usePageMeta from '../hooks/usePageMeta'
 const challenges = [
   {
     icon: '01',
-    title: 'Musterija trazi servis kad se pokvari',
+    title: 'Musterija traži servis kad se pokvari',
     desc: 'Vecina vlasnika automobila ne bira autoservis unapred. Pretrazuju tek kad nastane problem, pa ko je prvi i najvidljiviji na Google-u, taj dobija poziv.',
   },
   {
     icon: '02',
     title: 'Poverenje se gradi tesko, gubi lako',
-    desc: 'Autoservis industrija ima problem sa reputacijom. Recenzije, transparentne cene i jasna komunikacija cesto presuduju pre nego sto musterija uopste dodje na dijagnostiku.',
+    desc: 'Autoservis industrija ima problem sa reputacijom. Recenzije, transparentne cene i jasna komunikacija cesto presuduju pre nego sto musterija uopšte dodje na dijagnostiku.',
   },
   {
     icon: '03',
@@ -20,24 +20,24 @@ const challenges = [
   {
     icon: '04',
     title: 'Sezonski pikovi i mrtvi periodi',
-    desc: 'Zimske gume, klima servis, tehnicki pregled. Pametno planiranje kampanja po sezonama moze da izravna prihod umesto da trpite mesece bez posla.',
+    desc: 'Zimske gume, klima servis, tehnički pregled. Pametno planiranje kampanja po sezonama može da izravna prihod umesto da trpite mesece bez posla.',
   },
   {
     icon: '05',
     title: 'Specijalizacija donosi profit',
-    desc: 'Servis koji radi sve po malo teze se reklamira. Onaj koji je poznat po dijagnostici, menjacima ili odredjenoj marki automobila lakse privlaci musterije sa vecim budzetom.',
+    desc: 'Servis koji radi sve po malo teze se reklamira. Onaj koji je poznat po dijagnostici, menjacima ili odredjenoj marki automobila lakse privlaci musterije sa vecim budžetom.',
   },
   {
     icon: '06',
     title: 'Telefonski poziv je glavna konverzija',
-    desc: 'Za razliku od e-commerce-a, kod autoservisa musterija najcesce zove telefonom. Marketing mora da vodi ka pozivu ili poruci, ne ka formi koja niko ne popunjava.',
+    desc: 'Za razliku od e-commerce-a, kod autoservisa musterija najčešće zove telefonom. Marketing mora da vodi ka pozivu ili poruci, ne ka formi koja niko ne popunjava.',
   },
 ]
 
 const playbook = [
   {
     title: 'Google Business i lokalni SEO za hitne pretrage',
-    desc: 'Kad motor zapali lampicu ili guma pukne, musterija otvara Google i trazi najblizi servis. Tu morate biti vidljivi odmah, sa jasnim informacijama.',
+    desc: 'Kad motor zapali lampicu ili guma pukne, musterija otvara Google i traži najbliži servis. Tu morate biti vidljivi odmah, sa jasnim informacijama.',
     items: [
       'Kompletno sredjen Google Business profil sa uslugama, radnim vremenom i fotografijama',
       'Lokalni SEO za grad, naselje i specificne usluge koje radite',
@@ -47,7 +47,7 @@ const playbook = [
   },
   {
     title: 'Google Ads za upite sa jakom namerom kupovine',
-    desc: 'Ljudi koji traze autoservis na Google-u imaju konkretan problem koji treba resiti. To su najkvalitetniji upiti jer musterija vec zna da treba pomoc.',
+    desc: 'Ljudi koji traže autoservis na Google-u imaju konkretan problem koji treba resiti. To su najkvalitetniji upiti jer musterija vec zna da treba pomoc.',
     items: [
       'Kampanje po tipu usluge: redovan servis, dijagnostika, limarija, klima, gume',
       'Lokalno targetiranje na opstinu, grad i okolna naselja',
@@ -57,7 +57,7 @@ const playbook = [
   },
   {
     title: 'Sajt koji pretvara posetioce u musterije',
-    desc: 'Autoservis sajt ne mora biti komplikovan. Ali mora jasno da pokaze sta radite, koliko imate iskustva i kako se zakazuje termin.',
+    desc: 'Autoservis sajt ne mora biti komplikovan. Ali mora jasno da pokaze šta radite, koliko imate iskustva i kako se zakazuje termin.',
     items: [
       'Lista usluga sa okvirnim cenama ili cenovnim rasponima',
       'Fotografije servisa, opreme i zavrsenih radova',
@@ -67,9 +67,9 @@ const playbook = [
   },
   {
     title: 'Facebook i Instagram za sezonske kampanje',
-    desc: 'Drustvene mreze kod autoservisa ne rade kao kod modnih brendova. Ali rade odlicno za sezonske akcije, podsetnike i gradnju prepoznatljivosti u lokalnoj zajednici.',
+    desc: 'Društvene mreže kod autoservisa ne rade kao kod modnih brendova. Ali rade odlicno za sezonske akcije, podsetnike i gradnju prepoznatljivosti u lokalnoj zajednici.',
     items: [
-      'Sezonske kampanje: zimske gume, klima servis, priprema za tehnicki',
+      'Sezonske kampanje: zimske gume, klima servis, priprema za tehnički',
       'Before-after fotografije popravki koje demonstriraju kvalitet',
       'Retargeting za ljude koji su posetili sajt ali nisu zvali',
       'Lokalno targetiranje na opstinu i okruzenje za brand awareness',
@@ -92,16 +92,16 @@ const firstMonth = [
   },
   {
     title: 'Nedelja 4',
-    text: 'Izbacujemo ono sto ne donosi pozive. Pojacavamo kanal koji daje najbolji odnos troska i kvaliteta upita. Pravimo plan za sledecih 60 dana.',
+    text: 'Izbacujemo ono sto ne donosi pozive. Pojacavamo kanal koji daje najbolji odnos troška i kvaliteta upita. Pravimo plan za sledecih 60 dana.',
   },
 ]
 
 const serviceModes = [
   {
-    title: 'Hitne intervencije i kvarovi koji traze brz odgovor',
+    title: 'Hitne intervencije i kvarovi koji traže brz odgovor',
     text: 'Ako vas ljudi zovu kad auto stane, onda marketing mora da bude brz, lokalan i jasan. Tu se ne pobedjuje lepim objavama nego time sto ste prvi na pretrazi, imate poverenje i olaksavate poziv u nekoliko sekundi.',
     route: '/google-reklame-cena',
-    routeLabel: 'Kad Search ima vise smisla od sirokog reach-a',
+    routeLabel: 'Kad Search ima više smisla od sirokog reach-a',
   },
   {
     title: 'Redovan servis i usluge koje treba puniti tokom cele godine',
@@ -111,34 +111,34 @@ const serviceModes = [
   },
   {
     title: 'Skuplji kvarovi i usluge sa jacom marzom',
-    text: 'Kad reklamirate menjace, dijagnostiku, klimu ili limariju, nije poenta samo veci broj upita. Poenta je da privucete ljude kojima stvarno treba ta usluga i koji nisu tu samo da pitaju okvirnu cenu pa nestanu.',
+    text: 'Kad reklamirate menjace, dijagnostiku, klimu ili limariju, nije poenta samo veći broj upita. Poenta je da privucete ljude kojima stvarno treba ta usluga i koji nisu tu samo da pitaju okvirnu cenu pa nestanu.',
     route: '/cene-digitalnog-marketinga',
-    routeLabel: 'Kako da marketing budzet vezete za profitabilniji tip usluge',
+    routeLabel: 'Kako da marketing budžet vezete za profitabilniji tip usluge',
   },
   {
-    title: 'Servis koji ima promet, ali nema uredjen sistem za leadove',
-    text: 'Neki servisi imaju dovoljno interesovanja, ali pozivi, poruke i termini i dalje idu haoticno. Tada problem vise nije samo vidljivost. Problem je sto nema jasnog puta od prvog kontakta do dolaska i ponovnog dolaska musterije.',
+    title: 'Servis koji ima promet, ali nema uređen sistem za leadove',
+    text: 'Neki servisi imaju dovoljno interesovanja, ali pozivi, poruke i termini i dalje idu haoticno. Tada problem više nije samo vidljivost. Problem je sto nema jasnog puta od prvog kontakta do dolaska i ponovnog dolaska musterije.',
     route: '/industrije/lokalni-biznisi',
-    routeLabel: 'Sta prvo srediti kada lokalni biznis preraste improvizaciju',
+    routeLabel: 'Šta prvo srediti kada lokalni biznis preraste improvizaciju',
   },
 ]
 
 const faqs = [
   {
-    q: 'Da li autoservis uopste treba da se reklamira online?',
-    a: 'Ako musterije vec traze autoservis na Google-u pre nego sto pitaju komsiju, odgovor je da. Onaj ko je vidljiv na mapi i u pretrazi dobija poziv, ostali cekaju preporuku koja mozda nikad ne dodje.',
+    q: 'Da li autoservis uopšte treba da se reklamira online?',
+    a: 'Ako musterije vec traže autoservis na Google-u pre nego sto pitaju komsiju, odgovor je da. Onaj ko je vidljiv na mapi i u pretrazi dobija poziv, ostali cekaju preporuku koja mozda nikad ne dodje.',
   },
   {
     q: 'Koliko brzo mogu da vidim nove musterije?',
-    a: 'Google Ads moze da donese prve pozive vec u prvoj nedelji. Lokalni SEO i Google Business obicno pokazuju vidljiv rast kroz 4 do 8 nedelja. Najbolji rezultat je kombinacija oba kanala.',
+    a: 'Google Ads može da donese prve pozive vec u prvoj nedelji. Lokalni SEO i Google Business obicno pokazuju vidljiv rast kroz 4 do 8 nedelja. Najbolji rezultat je kombinacija oba kanala.',
   },
   {
-    q: 'Sta ako nemam sajt, samo Instagram?',
-    a: 'Instagram je koristan za poverenje i sezonske akcije, ali vecina musterija autoservisa krece od Google pretrage. Sajt ili makar landing stranica sa brojem telefona znacajno povecava broj poziva.',
+    q: 'Šta ako nemam sajt, samo Instagram?',
+    a: 'Instagram je koristan za poverenje i sezonske akcije, ali vecina musterija autoservisa krece od Google pretrage. Sajt ili makar landing stranica sa brojem telefona znacajno povećava broj poziva.',
   },
   {
-    q: 'Koje usluge najcesce reklamirate kod autoservisa?',
-    a: 'To zavisi od kapaciteta i marze, ali najcesce krecemo od usluga sa najboljom zaradom po radnom satu: dijagnostika, menjaci, klima servis, limarija ili specijalizacija za odredjenu marku automobila.',
+    q: 'Koje usluge najčešće reklamirate kod autoservisa?',
+    a: 'To zavisi od kapaciteta i marze, ali najčešće krecemo od usluga sa najboljom zaradom po radnom satu: dijagnostika, menjaci, klima servis, limarija ili specijalizacija za odredjenu marku automobila.',
   },
 ]
 
@@ -146,7 +146,7 @@ const relatedLinks = [
   {
     to: '/google-reklame-cena',
     title: 'Google reklame cena',
-    desc: 'Koliko kosta Google Ads za lokalne biznise u Srbiji i kako planirati budzet za pozive.',
+    desc: 'Koliko kosta Google Ads za lokalne biznise u Srbiji i kako planirati budžet za pozive.',
   },
   {
     to: '/seo-optimizacija-cena',
@@ -166,12 +166,12 @@ const relatedLinks = [
   {
     to: '/blog/instagram-reklame-za-autoservise-cena-upita-srbija-2026',
     title: 'Instagram reklame za autoservise',
-    desc: 'Praktican vodic: koliki budzet, kako meriti cenu upita i koje kreativne poruke rade.',
+    desc: 'Praktican vodic: koliki budžet, kako meriti cenu upita i koje kreativne poruke rade.',
   },
   {
     to: '/blog/google-ads-za-autoservise-cena-leada-srbija-2026',
     title: 'Google Ads za autoservise',
-    desc: 'Vodic za cenu klika, budzet i kampanje za autoservis usluge na Google-u.',
+    desc: 'Vodic za cenu klika, budžet i kampanje za autoservis usluge na Google-u.',
   },
 ]
 
@@ -212,9 +212,9 @@ export default function MarketingZaAutoservisePage() {
 
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[1100px] mx-auto">
-          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-3 text-center">Zasto je marketing za autoservis drugaciji</h2>
+          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-3 text-center">Zašto je marketing za autoservis drugaciji</h2>
           <p className="text-[15px] text-ink-3 mb-10 text-center max-w-[660px] mx-auto">
-            Ovde ne pobedjuje onaj ko najvise objavljuje na mreze. Pobedjuje servis koji je najvidljiviji kad musterija ima problem i trazi resenje u svom kraju.
+            Ovde ne pobedjuje onaj ko najvise objavljuje na mreže. Pobedjuje servis koji je najvidljiviji kad musterija ima problem i traži rešenje u svom kraju.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
             {challenges.map((item) => (
@@ -230,7 +230,7 @@ export default function MarketingZaAutoservisePage() {
 
       <section id="plan" className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[920px] mx-auto">
-          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-3 text-center">Sta najcesce radi za autoservise</h2>
+          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-3 text-center">Šta najčešće radi za autoservise</h2>
           <p className="text-[15px] text-ink-3 mb-10 text-center max-w-[670px] mx-auto">
             Krecemo od kanala koji donose pozive sa jakom namerom. Ne pravimo aktivnost radi statistike, nego marketing koji zvoni telefon i puni raspored.
           </p>
@@ -256,9 +256,9 @@ export default function MarketingZaAutoservisePage() {
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[980px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
           <div className="max-w-[760px] mx-auto text-center mb-8">
-            <h2 className="text-[24px] md:text-[30px] font-medium text-ink mb-3">Sta radi za hitne intervencije, redovan servis i skuplje kvarove</h2>
+            <h2 className="text-[24px] md:text-[30px] font-medium text-ink mb-3">Šta radi za hitne intervencije, redovan servis i skuplje kvarove</h2>
             <p className="text-[15px] text-ink-2 leading-relaxed">
-              Nije svakom autoservisu potreban isti marketing. Neko zivi od hitnih kvarova, neko od stabilnog redovnog servisa, a neko od skupljih i specijalizovanih popravki. Kad to ne odvojite, lako potrosite budzet na promet koji izgleda aktivno, a ne donosi najbolji prihod.
+              Nije svakom autoservisu potreban isti marketing. Neko zivi od hitnih kvarova, neko od stabilnog redovnog servisa, a neko od skupljih i specijalizovanih popravki. Kad to ne odvojite, lako potrosite budžet na promet koji izgleda aktivno, a ne donosi najbolji prihod.
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -304,7 +304,7 @@ export default function MarketingZaAutoservisePage() {
         <div className="max-w-[780px] mx-auto bg-gradient-to-br from-blue-500/[0.10] to-amber-500/[0.08] rounded-[20px] border border-blue-500/[0.14] p-6 md:p-8 text-center">
           <h2 className="text-[22px] md:text-[28px] font-medium text-ink mb-3">Hocete da vidimo gde vas servis trenutno gubi musterije?</h2>
           <p className="text-[15px] text-ink-2 leading-relaxed max-w-[620px] mx-auto mb-5">
-            Pregledamo Google profil, sajt, recenzije, vidljivost na mapi i ponudu. Dobijate konkretan spisak koraka za vise poziva i manje praznih termina.
+            Pregledamo Google profil, sajt, recenzije, vidljivost na mapi i ponudu. Dobijate konkretan spisak koraka za više poziva i manje praznih termina.
           </p>
           <div className="flex flex-wrap justify-center gap-3">
             <Link to="/kontakt" className="inline-flex items-center gap-2 bg-inv-bg text-inv-fg text-[14px] font-medium h-11 px-6 rounded-full hover:bg-inv-bg-hover transition-colors">
@@ -361,7 +361,7 @@ export default function MarketingZaAutoservisePage() {
         <div className="max-w-[620px] mx-auto text-center">
           <h2 className="text-[22px] md:text-[28px] font-medium text-ink mb-4">Dobar servis zasluzuje da ga musterije lakse nadju</h2>
           <p className="text-[15px] text-ink-2 mb-6">
-            Ako hocete vise poziva bez bacanja budzeta na prazne klikove, javite se. Slozicemo plan za vasu lokaciju, tip usluge i kapacitet tima.
+            Ako hocete više poziva bez bacanja budžeta na prazne klikove, javite se. Slozicemo plan za vasu lokaciju, tip usluge i kapacitet tima.
           </p>
           <Link to="/kontakt" className="inline-flex items-center gap-2 bg-inv-bg text-inv-fg text-[14px] font-medium h-11 px-6 rounded-full hover:bg-inv-bg-hover transition-colors">
             Kontaktirajte nas

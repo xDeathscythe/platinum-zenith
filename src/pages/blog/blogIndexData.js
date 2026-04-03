@@ -338,7 +338,7 @@ export const blogIndexPosts = [
   {
     "slug": "koliko-dugacak-treba-da-bude-blog-post-za-seo-statistika-2026",
     "title": "Koliko dugačak treba da bude blog post za SEO: šta podaci zaista pokazuju",
-    "excerpt": "Da li duži blog postovi rangiraju bolje na Google-u? Statistike o duzini sadržaja, prosecnom broju reci na prvoj stranici i kada kratko pobedjuje.",
+    "excerpt": "Da li duži blog postovi rangiraju bolje na Google-u? Statistike o dužini sadržaja, prosečnom broju reci na prvoj stranici i kada kratko pobeđuje.",
     "date": "2026-03-22",
     "category": "SEO",
     "readTime": "7 min",
@@ -1479,7 +1479,7 @@ export const blogIndexPosts = [
     "isDraft": false
   },
   {
-    "slug": "google-ads-za-kozmetički-salon-cena-termina-srbija-2026",
+    "slug": "google-ads-za-kozmeticki-salon-cena-termina-srbija-2026",
     "title": "Google Ads za kozmetički salon u Srbiji 2026: cena termina i realan budžet",
     "excerpt": "Praktičan vodič za vlasnice kozmetičkih salona: koliko košta Google Ads u Srbiji 2026, koji budžet ima smisla i kako da merite cenu zakazanog termina umesto praznih klikova.",
     "date": "2026-03-12",
@@ -2349,15 +2349,6 @@ export const blogIndexPosts = [
     "date": "2026-03-17",
     "category": "Lokalni SEO",
     "readTime": "11 min",
-    "isDraft": false
-  },
-  {
-    "slug": "google-ads-za-kozmeticki-salon-cena-termina-srbija-2026",
-    "title": "Google Ads za kozmetičke salone u Srbiji 2026: cena termina, budžet i strategija",
-    "excerpt": "Koliko koštaju Google reklame za kozmetičke salone u Srbiji 2026, koji budžet ima smisla i kako da dovedete klijente koji vec traže vaš tip tretmana.",
-    "date": "2026-03-17",
-    "category": "Marketing",
-    "readTime": 9,
     "isDraft": false
   },
   {

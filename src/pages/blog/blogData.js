@@ -1602,15 +1602,15 @@ Spremni ste da izgradite vasu masinu za leadove? [Kontaktirajte nas](/kontakt) z
     category: 'Marketing',
     readTime: '9 min',
     content: `
-## 93% marketera kaze da im video donosi dobar ROI
+## 93% marketera kaže da im video donosi dobar ROI
 
 Video marketing nije "bilo bi lepo da imamo." To je kanal koji 93% marketera ocenjuje kao profitabilan, a firme koje ga koriste rastu skoro 50% brze od onih koje ne koriste.
 
-Uprkos tome, vecina firmi u Srbiji i dalje tretira video kao luksuz. "Skupo je snimiti," "nemamo opremu," "ne znamo šta da snimimo." A u medjuvremenu, jedan video snimljen telefonom za Instagram Reels moze da konvertuje bolje od cele landing stranice.
+Uprkos tome, vecina firmi u Srbiji i dalje tretira video kao luksuz. "Skupo je snimiti," "nemamo opremu," "ne znamo šta da snimimo." A u medjuvremenu, jedan video snimljen telefonom za Instagram Reels može da konvertuje bolje od cele landing stranice.
 
 Evo šta kazu podaci.
 
-## ROI i konverzije: zašto video pobedjuje
+## ROI i konverzije: zašto video pobeđuje
 
 ### ROI koji opravdava ulaganje
 
@@ -1622,7 +1622,7 @@ Evo šta kazu podaci.
 
 - Video na landing stranici povećava konverziju za **do 86%**
 - Stranice sa video sadržajem imaju prosecnu konverziju od **4.8%** (bez videa: 2.9%)
-- **82%** ljudi kaze da ih je gledanje videa ubedilo da kupe proizvod
+- **82%** ljudi kaže da ih je gledanje videa ubedilo da kupe proizvod
 - AI-generisani demo videi proizvoda povećavaju konverziju za **40%**
 
 Za optimizaciju konverzija na vasem sajtu pogledajte [CRO optimizaciju](/cro).
@@ -1633,8 +1633,8 @@ Kratki video (do 60 sekundi) je najefektivniji format u digitalnom marketingu u 
 
 - Generise **2.5x više engagementa** od dugackih videa
 - **85%** marketera ga smatra najefikasnijim formatom na društvenim mrežama
-- **66%** kaze da je najzanimljiviji tip sadržaja
-- **73%** potrosaca preferira kratki video za istrazivanje proizvoda
+- **66%** kaže da je najzanimljiviji tip sadržaja
+- **73%** potrosaca preferira kratki video za istraživanje proizvoda
 - Globalna potrosnja na kratke video oglase: **111 milijardi dolara** u 2025, projekcija 145.8 milijardi do 2028
 
 Prosečni gledalac odgleda **41-80%** kratkog videa. To je mnogo više nego kod dugih formata gde vecina napusti posle prvih 20%.
@@ -1644,7 +1644,7 @@ Prosečni gledalac odgleda **41-80%** kratkog videa. To je mnogo više nego kod 
 YouTube i dalje dominira kao video platforma sa nekim impresivnim brojevima:
 
 - **Prihod od oglasa:** 36.1 milijardi dolara u 2025, projekcija 42.4 milijarde u 2026
-- **79%** potrosaca kaze da YouTube utiče na njihove odluke o kupovini
+- **79%** potrosaca kaže da YouTube utiče na njihove odluke o kupovini
 - Gledaoci koji vide proizvod na YouTube-u su **64% verovatnije** da ce kupiti u naredna 24 sata
 
 ### YouTube Shorts
@@ -1653,7 +1653,7 @@ YouTube i dalje dominira kao video platforma sa nekim impresivnim brojevima:
 - Engagement rate: **4.4% do 7.91%** (najvisi medju short-form platformama)
 - Za male kreatore (ispod 100K pratilaca), Shorts konzistentno donosi jaci doseg nego na drugim platformama
 
-YouTube je jedinstven jer sadržaj ostaje relevantan mesecima i godinama. Blog post koji napisete danas moze da donosi saobraćaj godinama. Isto vazi za YouTube video. Za poredjenje sa drugim platformama pogledajte [društvene mreže statistika](/blog/drustvene-mreze-statistika-korisnici-engagement-vreme-ad-spend-2026).
+YouTube je jedinstven jer sadržaj ostaje relevantan mesecima i godinama. Blog post koji napisete danas može da donosi saobraćaj godinama. Isto vazi za YouTube video. Za poredjenje sa drugim platformama pogledajte [društvene mreže statistika](/blog/drustvene-mreze-statistika-korisnici-engagement-vreme-ad-spend-2026).
 
 ## TikTok: 96% visi ROAS od ostalih kanala
 
@@ -1666,7 +1666,7 @@ TikTok nije samo za ples. Podaci za 2025-2026:
 - **1.7x više deljenja** od Instagrama (algoritam gura sadržaj i ne-pratiteljima)
 - Prosečni engagement: **4.90%** (nano-influenseri do 10.3%)
 
-TikTok-ova prednost: algoritam distribucije. Na Instagramu, vas post vide vasi pratioci. Na TikToku, dobro osmisljeni video moze da dosegne milione potpuno novih ljudi. Za cene TikTok oglasa pogledajte [TikTok vs Instagram reklame](/blog/tiktok-vs-instagram-reklame-srbija-2026).
+TikTok-ova prednost: algoritam distribucije. Na Instagramu, vas post vide vasi pratioci. Na TikTok-u, dobro osmisljeni video može da dosegne milione potpuno novih ljudi. Za cene TikTok oglasa pogledajte [TikTok vs Instagram reklame](/blog/tiktok-vs-instagram-reklame-srbija-2026).
 
 ## Instagram Reels: 30.81% reach rate
 
@@ -1681,7 +1681,7 @@ Reels su postali centar Instagram-a:
 
 ### Reels vs TikTok za e-commerce
 
-Zanimljiv podatak: za e-commerce, Instagram Reels donosi **1.3x vecu konverziju** od TikToka. Razlog: integrisane Shopping funkcije. Korisnik moze da vidi proizvod u Reels-u i kupi ga bez napustanja aplikacije.
+Zanimljiv podatak: za e-commerce, Instagram Reels donosi **1.3x veću konverziju** od TikToka. Razlog: integrisane Shopping funkcije. Korisnik može da vidi proizvod u Reels-u i kupi ga bez napustanja aplikacije.
 
 Za cene Instagram oglasa pogledajte [Instagram reklame cena](/instagram-reklame-cena).
 
@@ -1697,11 +1697,11 @@ Za cene Instagram oglasa pogledajte [Instagram reklame cena](/instagram-reklame-
 
 ### B2B usluge
 
-**YouTube (dugi format) + LinkedIn video.** Edukativni sadržaj koji demonstrira ekspertizu. Case studies, how-to vodici, objasnjenja procesa. Za B2B statistiku pogledajte [B2B marketing benchmarke](/blog/b2b-marketing-statistika-lead-generation-prodajni-ciklus-linkedin-2026).
+**YouTube (dugi format) + LinkedIn video.** Edukativni sadržaj koji demonstrira ekspertizu. Case studies, how-to vodiči, objasnjenja procesa. Za B2B statistiku pogledajte [B2B marketing benchmarke](/blog/b2b-marketing-statistika-lead-generation-prodajni-ciklus-linkedin-2026).
 
 ### Budžet od nula evra
 
-Pocnite sa telefonom. Jedan kratki video nedeljno na Instagram Reels. Bez skripte, bez produkcije, bez savrsenog osvetljenja. Algoritam nagradjuje konzistentnost i autenticnost, ne produkcijsku vrednost.
+Pocnite sa telefonom. Jedan kratki video nedeljno na Instagram Reels. Bez skripte, bez produkcije, bez savrsenog osvetljenja. Algoritam nagrađuje konzistentnost i autenticnost, ne produkcijsku vrednost.
 
 ## Zaključak: video nije opcija
 
@@ -3814,21 +3814,21 @@ Za profesionalno vodjenje Google Ads kampanja i Smart Bidding optimizaciju, javi
     category: 'SEO',
     readTime: '7 min',
     content: `
-## 53% saobracaja je organski, 5% je placeni — ali to nije cela prica
+## 53% saobraćaja je organski, 5% je plaćeni — ali to nije cela priča
 
-Organski saobracaj (SEO) cini **53.3%** ukupnog web saobracaja globalno. Placeni saobracaj (PPC) cini oko **5%**. Na prvi pogled, SEO pobedjuje ubedljivo. Ali PPC donosi saobracaj ODMAH, dok SEO zahteva mesece rada pre prvih rezultata.
+Organski saobraćaj (SEO) cini **53.3%** ukupnog web saobraćaja globalno. Plaćeni saobraćaj (PPC) cini oko **5%**. Na prvi pogled, SEO pobeđuje ubedljivo. Ali PPC donosi saobraćaj ODMAH, dok SEO zahteva mesece rada pre prvih rezultata.
 
-Prava odluka nije "SEO ili PPC" — vec "koliko u svaki i kada". Evo sta podaci kazu.
+Prava odluka nije "SEO ili PPC" — već "koliko u svaki i kada". Evo šta podaci kazu.
 
 Za cene pogledajte [Google reklame cena](/google-reklame-cena) i [SEO optimizacija cena](/seo-optimizacija-cena).
 
-## Konverzija: organski vs placeni
+## Konverzija: organski vs plaćeni
 
-### Prosecna konverzija po kanalu
+### Prosečna konverzija po kanalu
 
-- **SEO (organski):** 2.4% prosecno (First Page Sage 2025)
-- **PPC (placeni):** 1.3% prosecno (isti izvor)
-- **Alternativni podaci:** SEO 14.6% vs PPC 10% (starije ali cesto citirano istrazivanje)
+- **SEO (organski):** 2.4% prosečno (First Page Sage 2025)
+- **PPC (plaćeni):** 1.3% prosečno (isti izvor)
+- **Alternativni podaci:** SEO 14.6% vs PPC 10% (starije ali često citirano istraživanje)
 - **Google Ads prosek (2024):** 6.96% (ali ovo ukljucuje i branded pretrage koje dizu prosek)
 
 ### Konverzija po tipu biznisa
@@ -3838,37 +3838,37 @@ Za cene pogledajte [Google reklame cena](/google-reklame-cena) i [SEO optimizaci
 | **B2B** | 2.6% | 1.5% |
 | **B2C** | 2.1% | 1.2% |
 
-**Zakljucak:** SEO konvertuje **1.5-2x bolje** od PPC-a jer organski posetioci imaju vecu nameru (aktivno su trazili i izabrali vas sajt, ne kliknuli na reklamu).
+**Zaključak:** SEO konvertuje **1.5-2x bolje** od PPC-a jer organski posetioci imaju veću nameru (aktivno su tražili i izabrali vas sajt, ne kliknuli na reklamu).
 
-## CTR (Click-Through Rate): ko dobija vise klikova
+## CTR (Click-Through Rate): ko dobija više klikova
 
 - **Pozicija #1 organski:** 27.6% svih klikova (bez AI Overview-a)
-- **Placeni oglas #1:** 2-5% klikova (korisnici preferiraju organske rezultate)
-- **Svi organski rezultati** dobijaju **5.6x vise klikova** od svih placenih oglasa zajedno
+- **Plaćeni oglas #1:** 2-5% klikova (korisnici preferiraju organske rezultate)
+- **Svi organski rezultati** dobijaju **5.6x više klikova** od svih plaćenih oglasa zajedno
 
 ### Uticaj AI Overview-a na oba kanala
 
 - Organski CTR PAD kada AIO postoji: **-67.8%**
-- Placeni CTR PAD kada AIO postoji: **-58.0%**
-- AI Overview udara na OBA kanala, ali organski trpi vise
+- Plaćeni CTR PAD kada AIO postoji: **-58.0%**
+- AI Overview udara na OBA kanala, ali organski trpi više
 
-Za detalje o AI Overview uticaju pogledajte [Featured Snippet i AI Overview vodic](/blog/featured-snippet-i-ai-overview-uticaj-na-klikove-statistika-2026).
+Za detalje o AI Overview uticaju pogledajte [Featured Snippet i AI Overview vodič](/blog/featured-snippet-i-ai-overview-uticaj-na-klikove-statistika-2026).
 
 ## Cena: koliko kosta svaki posetilac
 
-### SEO troskovi
+### SEO troškovi
 
 - **Mesecna investicija:** 300-2.000 EUR (agencija ili in-house)
 - **Vreme do rezultata:** 4-8 meseci za prvu stranicu
 - **Cena po kliku posle rangiranja:** 0 EUR (besplatno zauvek)
-- **Dugorocni trosak po poseti:** Pada eksponencijalno sa vremenom
+- **Dugoročni trošak po poseti:** Pada eksponencijalno sa vremenom
 
-### PPC troskovi
+### PPC troškovi
 
 - **Prosecni CPC (Google Ads, globalno):** 4.66 USD (2024)
 - **CPC u Srbiji:** 0.35-0.80 EUR (2-4x jeftiniji od globalnog proseka)
 - **Cena po kliku:** Konstantna — svaki klik kosta isto
-- **Kad ugasite kampanju:** Saobracaj ODMAH pada na nulu
+- **Kad ugasite kampanju:** Saobraćaj ODMAH pada na nulu
 
 ### Matematika na 12 meseci
 
@@ -3888,12 +3888,12 @@ Za detalje o AI Overview uticaju pogledajte [Featured Snippet i AI Overview vodi
 - Cena po poseti: **0.50 EUR** (ali ostaje ista zauvek)
 
 **Godina 2 (bez dodatne SEO investicije):**
-- SEO: 12.000 poseta, trosak odrzavanja ~200 EUR/mesecno = 2.400 EUR = **0.20 EUR po poseti**
-- PPC: 12.000 poseta, trosak isti = 6.000 EUR = **0.50 EUR po poseti**
+- SEO: 12.000 poseta, trošak odrzavanja ~200 EUR/mesecno = 2.400 EUR = **0.20 EUR po poseti**
+- PPC: 12.000 poseta, trošak isti = 6.000 EUR = **0.50 EUR po poseti**
 
-**SEO pobedjuje od godine 2** jer cena pada dok saobracaj raste.
+**SEO pobeđuje od godine 2** jer cena pada dok saobraćaj raste.
 
-## ROI: dugorocni povrat
+## ROI: dugoročni povrat
 
 - **SEO ROI (posle 12+ meseci):** 500-1.300% (SaaS i e-commerce)
 - **PPC ROI (prosek):** 200-400% (za dobro optimizovane kampanje)
@@ -3905,28 +3905,28 @@ Za merenje ROI-ja pogledajte [kako meriti ROI digitalnog marketinga](/blog/kako-
 
 ### SEO je bolji za:
 
-- Dugorocni, predvidljiv saobracaj
-- Izgradnju autoriteta i poverenja (korisnici vise veruju organskim rezultatima)
+- Dugoročni, predvidljiv saobraćaj
+- Izgradnju autoriteta i poverenja (korisnici više veruju organskim rezultatima)
 - Nize troskove po poseti na duge staze
-- Content marketing i edukativni sadrzaj
+- Content marketing i edukativni sadržaj
 - Lokalni SEO (Google Business Profile). Pogledajte [GBP optimizacija](/blog/google-business-profile-optimizacija-srbija-2026).
 
 ### PPC je bolji za:
 
-- Instant saobracaj (kampanja → klikovi za sat vremena)
-- Testiranje kljucnih reci pre SEO investicije
+- Instant saobraćaj (kampanja → klikovi za sat vremena)
+- Testiranje ključnih reci pre SEO investicije
 - Sezonske ponude i promocije
 - Nove firme bez organskog autoriteta
 - Konkurentne nise gde SEO zahteva 12+ meseci
 
 ### Idealna kombinacija
 
-1. **Pocnite sa PPC** za instant saobracaj i prikupljanje podataka o kljucnim recima
-2. **Paralelno gradite SEO** (blog sadrzaj, tehnicka optimizacija)
-3. **Kad SEO pocne da donosi saobracaj** (mesec 4-6), smanjite PPC budzet za te kljucne reci
+1. **Pocnite sa PPC** za instant saobraćaj i prikupljanje podataka o kljucnim recima
+2. **Paralelno gradite SEO** (blog sadržaj, tehnička optimizacija)
+3. **Kad SEO pocne da donosi saobraćaj** (mesec 4-6), smanjite PPC budzet za te ključne reci
 4. **PPC zadrzite** za remarketing i sezonske kampanje
 
-Za kompletnu strategiju pogledajte [marketing strategija vodic](/blog/marketing-strategija-za-rast-firme-srbija-2026). Za pomoc sa izborom kanala javite se preko [kontakt forme](/kontakt).
+Za kompletnu strategiju pogledajte [marketing strategija vodič](/blog/marketing-strategija-za-rast-firme-srbija-2026). Za pomoc sa izborom kanala javite se preko [kontakt forme](/kontakt).
 
 *Izvori: First Page Sage SEO vs PPC Statistics (2025), BrightEdge Organic Search Share (2024), WordStream Google Ads Benchmarks (2024), RankFuse CTR Trends Analysis (2025), Search Engine Journal SEO vs PPC Guide (2025).*
 `
@@ -4668,97 +4668,97 @@ Za SEO strategiju prilagodjenu AI eri, javite se preko [kontakt forme](/kontakt)
   {
     slug: 'koliko-dugacak-treba-da-bude-blog-post-za-seo-statistika-2026',
     title: 'Koliko dugačak treba da bude blog post za SEO: šta podaci zaista pokazuju',
-    excerpt: 'Da li duži blog postovi rangiraju bolje na Google-u? Statistike o duzini sadržaja, prosecnom broju reci na prvoj stranici i kada kratko pobedjuje.',
+    excerpt: 'Da li duži blog postovi rangiraju bolje na Google-u? Statistike o dužini sadržaja, prosečnom broju reci na prvoj stranici i kada kratko pobeđuje.',
     date: '2026-03-22',
     category: 'SEO',
     readTime: '7 min',
     content: `
-## Google kaze da duzina nije faktor — ali podaci govore suprotno
+## Google kaže da dužina nije faktor — ali podaci govore suprotno
 
-Google zvanicno tvrdi da broj reci nije ranking faktor. Tehnicki, to je tacno — ne postoji algoritam koji broji reci i nagradjuje duze tekstove. Ali u praksi, duzi sadrzaj ima VISE mogucnosti da demonstrira E-E-A-T (Experience, Expertise, Authority, Trust), pokrije temu kompletno i sakupi vise backlink-ova.
+Google zvanično tvrdi da broj reči nije ranking faktor. Tehnički, to je tačno — ne postoji algoritam koji broji reci i nagrađuje duže tekstove. Ali u praksi, duži sadržaj ima VIŠE mogućnosti da demonstrira E-E-A-T (Experience, Expertise, Authority, Trust), pokrije temu kompletno i sakupi više backlink-ova.
 
-Evo sta podaci zaista pokazuju.
+Evo šta podaci zaista pokazuju.
 
-Za on-page SEO praksu pogledajte [SEO checklistu](/blog/on-page-seo-checklista-srbija-2026). Za backlink strategiju pogledajte [backlink vodic](/blog/backlink-strategija-za-srpske-sajtove-2026).
+Za on-page SEO praksu pogledajte [SEO checklistu](/blog/on-page-seo-checklista-srbija-2026). Za backlink strategiju pogledajte [backlink vodič](/blog/backlink-strategija-za-srpske-sajtove-2026).
 
-## Prosecna duzina sadrzaja na prvoj stranici Google-a
+## Prosečna dužina sadržaja na prvoj stranici Google-a
 
 Podaci iz Backlinko, HubSpot i Rank Tracker istrazivannja (2024-2025):
 
-- **Backlinko studija (2024):** Prosecna duzina stranica na prvoj stranici: **1.500 reci**
-- **Rank Tracker analiza (2025):** Prosecna prva stranica: **1.447 reci**
-- **HubSpot podatak (2025):** Uspesni blog postovi prosecno: **1.333-1.416 reci**
-- **Top-ranking blog postovi (2025):** Prosecno **2.450 reci** (za konkurentne terme)
-- **Rast u poslednjih 5 godina:** Prosecna duzina blog posta porasla za **42%** (sa 1.050 reci u 2019 na 1.490 u 2024)
+- **Backlinko studija (2024):** Prosečna dužina stranica na prvoj stranici: **1.500 reci**
+- **Rank Tracker analiza (2025):** Prosečna prva stranica: **1.447 reci**
+- **HubSpot podatak (2025):** Uspesni blog postovi prosečno: **1.333-1.416 reci**
+- **Top-ranking blog postovi (2025):** Prosečno **2.450 reci** (za konkurentne terme)
+- **Rast u poslednjih 5 godina:** Prosečna dužina blog posta porasla za **42%** (sa 1.050 reci u 2019 na 1.490 u 2024)
 
-**Kljucna cifra:** Vecina sadrzaja na prvoj stranici Google-a ima izmedju **1.000 i 2.500 reci**. Postovi ispod 300 reci retko rangiraju za bilo sta osim najjednostavnijih upita.
+**Ključna cifra:** Vecina sadržaja na prvoj stranici Google-a ima između **1.000 i 2.500 reci**. Postovi ispod 300 reci retko rangiraju za bilo šta osim najjednostavnijih upita.
 
-## Dugi vs kratki sadrzaj: sta podaci kazu
+## Dugi vs kratki sadržaj: šta podaci kazu
 
-### Dugi sadrzaj (1.000+ reci) — SEO prednosti
+### Dugi sadržaj (1.000+ reci) — SEO prednosti
 
-- Sadrzaj sa 2.000+ reci ima **2.5x vecu sansu** da dobro rangira i generise backlink-ove
-- Duzi sadrzaj zahteva update **2.3x redje** da odrzsi poziciju (jer je kompletni od pocetka)
-- Prosecno vreme na stranici je **40-60% duze** za dugi sadrzaj (bolji dwell time signal za Google)
-- Dugi vodici generisu **3x vise social share-ova** od kratkih postova
+- Sadržaj sa 2.000+ reci ima **2.5x veću sansu** da dobro rangira i generise backlink-ove
+- Duži sadržaj zahteva update **2.3x redje** da odrzsi poziciju (jer je kompletni od pocetka)
+- Prosečno vreme na stranici je **40-60% duže** za dugi sadržaj (bolji dwell time signal za Google)
+- Dugi vodiči generisu **3x više social share-ova** od kratkih postova
 
-### Kratki sadrzaj (pod 1.000 reci) — kada ima smisla
+### Kratki sadržaj (pod 1.000 reci) — kada ima smisla
 
-- **FAQ odgovori:** Kratko, direktno, tacno. Google cesto prikazuje u Featured Snippet.
+- **FAQ odgovori:** Kratko, direktno, tačno. Google često prikazuje u Featured Snippet.
 - **Vesti i updates:** Aktuelnost je vaznija od dubine.
 - **Lokalne pretrage:** "Stomatolog Beograd radno vreme" ne zahteva 2.000 reci.
-- **Mobilni korisnici:** Vecina citaoca preferira sadrzaj ispod 1.000 reci za brzo konzumiranje.
+- **Mobilni korisnici:** Vecina citaoca preferira sadržaj ispod 1.000 reci za brzo konzumiranje.
 
 ### Optimalna zona: 1.500-2.500 reci
 
-Podaci konzistentno pokazuju da je "sweet spot" za SEO blog postove izmedju **1.500 i 2.500 reci**. Dovoljno dugo da pokrije temu kompletno, ali ne toliko dugo da citaoci gube interes.
+Podaci konzistentno pokazuju da je "sweet spot" za SEO blog postove između **1.500 i 2.500 reci**. Dovoljno dugo da pokrije temu kompletno, ali ne toliko dugo da citaoci gube interes.
 
-**Upozorenje:** Sadrzaj sa 7.000+ reci ponekad rangira LOSIJE od sadrzaja od 3.000-5.000 reci jer gubi fokus i engagement.
+**Upozorenje:** Sadržaj sa 7.000+ reci ponekad rangira LOSIJE od sadržaja od 3.000-5.000 reci jer gubi fokus i engagement.
 
-## Kvalitet vs kvantitet: sta Google zapravo meri
+## Kvalitet vs kvantitet: šta Google zapravo meri
 
-Google-ov May 2024 API leak otkrio je vazan detalj: "thin content" se NE ocenjuje po broju reci vec po **originalnosti**. To znaci:
+Google-ov May 2024 API leak otkrio je vazan detalj: "thin content" se NE ocenjuje po broju reci već po **originalnosti**. To znači:
 
-- **500 reci originalnog, unikatnog sadrzaja** > 2.000 reci prepisanog ili generisanog teksta
-- **Jedinstven ugao** na temu je vazniji od duzine
-- **Prakticna vrednost** (actionable advice) rangira bolje od teorijskog sadrzaja iste duzine
-- **E-E-A-T signali** (ko je autor, kakvo iskustvo ima) su vazniji od broja reci
+- **500 reci originalnog, unikatnog sadržaja** > 2.000 reci prepisanog ili generisanog teksta
+- **Jedinstven ugao** na temu je vazniji od dužine
+- **Praktična vrednost** (actionable advice) rangira bolje od teorijskog sadržaja iste dužine
+- **E-E-A-T signali** (ko je autor, kakvo iskustvo ima) su vazniji od broja reči
 
 Za content strategiju pogledajte [content marketing plan](/blog/content-marketing-plan-za-male-firme-srbija-2026).
 
-## Koliko reci po tipu sadrzaja
+## Koliko reci po tipu sadržaja
 
-Na osnovu agregiranih podataka iz vise studija:
+Na osnovu agregiranih podataka iz više studija:
 
-| Tip sadrzaja | Optimalna duzina | Primer |
+| Tip sadržaja | Optimalna dužina | Primer |
 |-------------|-----------------|--------|
-| Blog post (edukativni) | 1.500-2.500 reci | Vodici, how-to, analize |
+| Blog post (edukativni) | 1.500-2.500 reci | Vodiči, how-to, analize |
 | Blog post (news) | 300-800 reci | Aktuelne vesti, updates |
 | Landing stranica | 500-1.000 reci | Prodajne stranice, usluge |
 | Product opis (e-commerce) | 150-300 reci | Opisi proizvoda |
-| Pillar page (stubni sadrzaj) | 3.000-5.000 reci | Kompletni vodici po temi |
+| Pillar page (stubni sadržaj) | 3.000-5.000 reci | Kompletni vodiči po temi |
 | Stat-based clanak | 1.500-3.000 reci | Statistike, benchmark podaci |
 | FAQ stranica | 1.000-2.000 reci | 10-20 pitanja i odgovora |
 
-## Kako odrediti pravu duzinu za vas post
+## Kako odrediti pravu dužinu za vas post
 
 ### Korak 1: Guglajte vas ciljni upit
 
-Pogledajte prvih 5 rezultata. Koliko reci imaju? To je vas benchmark. Ne morate biti duzi -- ali morate pokriti sve sto oni pokrivaju + nesto vise.
+Pogledajte prvih 5 rezultata. Koliko reci imaju? To je vas benchmark. Ne morate biti duži -- ali morate pokriti sve sto oni pokrivaju + nesto više.
 
 ### Korak 2: Proverite Search Intent
 
-- **Informativni upit** ("kako radi SEO"): Duzi sadrzaj (1.500+)
-- **Transakcioni upit** ("SEO agencija cena"): Kraci, fokusiran na konverziju (800-1.200)
+- **Informativni upit** ("kako radi SEO"): Duži sadržaj (1.500+)
+- **Transakcioni upit** ("SEO agencija cena"): Kraći, fokusiran na konverziju (800-1.200)
 - **Navigacioni upit** ("Google Analytics login"): Ne treba vas blog post
 
 ### Korak 3: Ne dodajte filler
 
-Ako ste kompletno pokrili temu u 1.200 reci, ne dodajte jos 800 reci "filler-a" samo da biste dosli do 2.000. Google prepoznaje padding i penalizuje ga nizim engagement metrikama.
+Ako ste kompletno pokrili temu u 1.200 reci, ne dodajte još 800 reci "filler-a" samo da biste dosli do 2.000. Google prepoznaje padding i penalizuje ga nizim engagement metrikama.
 
-Za pracenje rezultata pogledajte [Google Search Console vodic](/blog/google-search-console-vodic-za-pocetnike-srbija-2026) i [kako meriti ROI](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
+Za pracenje rezultata pogledajte [Google Search Console vodič](/blog/google-search-console-vodič-za-pocetnike-srbija-2026) i [kako meriti ROI](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
 
-Za profesionalnu content strategiju koja balansira duzinu, kvalitet i SEO, javite se preko [kontakt forme](/kontakt). Za cene SEO usluga pogledajte [SEO optimizacija cena](/seo-optimizacija-cena).
+Za profesionalnu content strategiju koja balansira dužinu, kvalitet i SEO, javite se preko [kontakt forme](/kontakt). Za cene SEO usluga pogledajte [SEO optimizacija cena](/seo-optimizacija-cena).
 
 *Izvori: Backlinko First Page Ranking Study (2024), HubSpot Blog Research (2025), Rank Tracker Content Length Statistics (2025), Search Engine Land Content Depth Analysis (2025), Google May 2024 API Leak Analysis.*
 `
@@ -5299,13 +5299,13 @@ Benchmark podaci postoje da ih koristite kao kompas, ne kao pravilo. Vas cilj ni
     category: 'CRO',
     readTime: '7 min',
     content: `
-## 93% kupaca cita recenzije pre kupovine — da li ih imate?
+## 93% kupaca čita recenzije pre kupovine — da li ih imate?
 
-U 2025. godini, **93% potrosaca** kaze da online recenzije uticu na njihove odluke o kupovini. To nije opcija -- to je uslov za prodaju. Firme bez recenzija gube kupce koji odlaze kod konkurencije sa 200+ ocena.
+U 2025. godini, **93% potrosaca** kaže da online recenzije uticu na njihove odluke o kupovini. To nije opcija -- to je uslov za prodaju. Firme bez recenzija gube kupce koji odlaze kod konkurencije sa 200+ ocena.
 
 A brojke su još drasticnije: **92% kupaca** okleva da kupi ako nema nijedne recenzije, a **44% uopšte nece kupiti** od firme bez online recenzija.
 
-Za upravljanje reputacijom pogledajte [vodic za društvene mreže](/blog/upravljanje-reputacijom-drustvene-mreze-srbija-2026). Za cene SEO usluga pogledajte [SEO optimizacija cena](/seo-optimizacija-cena). Za prikupljanje recenzija pogledajte [GBP optimizacija](/blog/google-business-profile-optimizacija-srbija-2026).
+Za upravljanje reputacijom pogledajte [vodič za društvene mreže](/blog/upravljanje-reputacijom-drustvene-mreze-srbija-2026). Za cene SEO usluga pogledajte [SEO optimizacija cena](/seo-optimizacija-cena). Za prikupljanje recenzija pogledajte [GBP optimizacija](/blog/google-business-profile-optimizacija-srbija-2026).
 
 ## Koliko recenzija treba za maksimalnu konverziju
 
@@ -5326,10 +5326,10 @@ Ovo zvuci kontraintuitivno ali je dokazano: proizvodi sa savrsenom ocenom od 5.0
 - **94% svih kupovina** se desava za proizvode sa prosekom 4+ zvezdice
 - **54% porudžbina** ide na 5-star proizvode, **40%** na 4-star
 - **70% potrosaca** nece verovati firmi sa manje od 4 zvezdice
-- **52% kupaca** trazi minimum 4.0 prosek
+- **52% kupaca** traži minimum 4.0 prosek
 - Ispod **3.3 zvezdice** vecina kupaca nece ni razmatrati kupovinu
 
-**Zašto 5.0 nije optimalno:** Kupci smatraju savrsen prosek laznim. Nekoliko kritika (ali ne previse) cini firmu verodostojnijom. Idealni raspon: **4.2-4.7 zvezdica**.
+**Zašto 5.0 nije optimalno:** Kupci smatraju savrsen prosek laznim. Nekoliko kritika (ali ne previše) cini firmu verodostojnijom. Idealni raspon: **4.2-4.7 zvezdica**.
 
 ## Poverenje: recenzije vs preporuke prijatelja
 
@@ -5338,7 +5338,7 @@ Mozda vas iznenaditi ali statistike su jasne:
 - **54% potrosaca** veruje online recenzijama VIŠE nego preporukama prijatelja (Reputation.com 2024)
 - **49% kupaca** veruje recenzijama JEDNAKO kao preporukama
 - **75.5% potrosaca** izrazava poverenje u online recenzije generalno
-- Prosecno kupci citaju **7 recenzija** pre nego sto steknu poverenje u firmu
+- Prosečno kupci citaju **7 recenzija** pre nego sto steknu poverenje u firmu
 
 Ali postoji upozorenje: **75% potrosaca** brine o laznim recenzijama, a **53%** se plasi da AI generise lazne ocene. Trustpilot je u 2024. uklonio **4.5 miliona laznih recenzija** (7% svih postavljenih).
 
@@ -5347,7 +5347,7 @@ Ali postoji upozorenje: **75% potrosaca** brine o laznim recenzijama, a **53%** 
 ### Koliko stete negativne recenzije
 
 - **67% potrosaca** ce odustati od kupovine zbog negativnih recenzija
-- **1 negativna recenzija** moze da odvrati do **30 potencijalnih kupaca**
+- **1 negativna recenzija** može da odvrati do **30 potencijalnih kupaca**
 - **4+ negativne recenzije** smanjuju prodaju za **70%**
 
 ### Ali odgovaranje na negativne recenzije MENJA igru
@@ -5355,7 +5355,7 @@ Ali postoji upozorenje: **75% potrosaca** brine o laznim recenzijama, a **53%** 
 - **88% potrosaca** smatra da je odgovor firme na recenzije vazan
 - **85%** uzima u obzir odgovore na negativne recenzije pri odluci
 - Firme koje odgovore na negativnu recenziju u roku od **24h** beleže **33% sanse** da kupac povisi ocenu
-- Cak i negativne recenzije (ako firma odgovori) mogu POVECATI konverziju za do **85%** (jer pokazuju transparentnost)
+- Cak i negativne recenzije (ako firma odgovori) mogu POVEĆATI konverziju za do **85%** (jer pokazuju transparentnost)
 
 ### Kako odgovoriti na negativnu recenziju
 
@@ -5364,7 +5364,7 @@ Ali postoji upozorenje: **75% potrosaca** brine o laznim recenzijama, a **53%** 
 3. Ponudite konkretno rešenje
 4. Premestite razgovor u privatni kanal
 
-Za detaljan vodic pogledajte [upravljanje reputacijom](/blog/upravljanje-reputacijom-drustvene-mreze-srbija-2026).
+Za detaljan vodič pogledajte [upravljanje reputacijom](/blog/upravljanje-reputacijom-drustvene-mreze-srbija-2026).
 
 ## Recenzije po platformi: gde su najvaznije
 
@@ -5384,7 +5384,7 @@ Manje uticajne od Google-a ali doprinose overall online prisustvu i social proof
 3. **SMS podsecanje:** Kratak SMS 3 dana posle kupovine sa linkom.
 4. **Ne kupujte recenzije:** Google detektuje i kaznjava kupljene recenzije. Fokusirajte se na organske.
 
-Za profesionalnu strategiju prikupljanja recenzija i upravljanja reputacijom, javite se preko [kontakt forme](/kontakt). Za zadrzavanje kupaca pogledajte [customer retention vodic](/blog/zadrzavanje-kupaca-customer-retention-srbija-2026).
+Za profesionalnu strategiju prikupljanja recenzija i upravljanja reputacijom, javite se preko [kontakt forme](/kontakt). Za zadrzavanje kupaca pogledajte [customer retention vodič](/blog/zadrzavanje-kupaca-customer-retention-srbija-2026).
 
 *Izvori: Reputation.com Consumer Survey (2024), Spiegel Research Center (2024), Fera.ai E-Commerce Review Statistics (2025), Trustpilot Trust Report (2025), BrightLocal Consumer Review Survey (2025), Birdeye State of Online Reviews (2024).*
 `
@@ -17971,7 +17971,7 @@ Ako hoces, mogu da ti slozim 7-hour follow-up skripte za tvoj konkretan funnel i
 `,
   },
   {
-    slug: 'google-ads-za-kozmetički-salon-cena-termina-srbija-2026',
+    slug: 'google-ads-za-kozmeticki-salon-cena-termina-srbija-2026',
     title: 'Google Ads za kozmetički salon u Srbiji 2026: cena termina i realan budžet',
     excerpt: 'Praktičan vodič za vlasnice kozmetičkih salona: koliko košta Google Ads u Srbiji 2026, koji budžet ima smisla i kako da merite cenu zakazanog termina umesto praznih klikova.',
     date: '2026-03-12',

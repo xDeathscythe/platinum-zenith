@@ -5,49 +5,49 @@ const challenges = [
   {
     icon: '01',
     title: 'Januar i septembar pune salu, ostalo visi',
-    desc: 'Sezonski talasi dovode ljude koji se upisuju i odustaju za mesec dana. Bez kampanje koja drzi tempo celu godinu, prihod oscilira, a kapacitet zjapi praznim terminima.',
+    desc: 'Sezonski talasi dovode ljude koji se upisuju i odustaju za mesec dana. Bez kampanje koja drži tempo celu godinu, prihod oscilira, a kapacitet zjapi praznim terminima.',
   },
   {
     icon: '02',
-    title: 'Clan bira po blizini i prvom utisku',
-    desc: 'Vecina ljudi trazi teretanu ili studio u krugu od tri kilometra. Ako vas Google profil nema sveze slike, radno vreme i recenzije, idu na sledeci rezultat.',
+    title: 'Član bira po blizini i prvom utisku',
+    desc: 'Većina ljudi traži teretanu ili studio u krugu od tri kilometra. Ako vas Google profil nema sveže slike, radno vreme i recenzije, idu na sledeći rezultat.',
   },
   {
     icon: '03',
-    title: 'Upis nije prodaja, vec pocetak odnosa',
-    desc: 'Novi clan donosi jednu mesecnu clanarinu. Pravi prihod dolazi kada ostane 12 i vise meseci. Marketing koji hvata samo nove upise a zanemaruje retenciju trosi budzet uzalud.',
+    title: 'Upis nije prodaja, već početak odnosa',
+    desc: 'Novi član donosi jednu mesečnu članarinu. Pravi prihod dolazi kada ostane 12 i više meseci. Marketing koji hvata samo nove upise a zanemaruje retenciju troši budžet uzalud.',
   },
   {
     icon: '04',
-    title: 'Previse teretana, premalo razlike',
-    desc: 'Svaka sala nudi treninge, spravu i grupne casove. Bez jasne poruke sta vas izdvaja — programa, trenera, atmosfere ili rezultata — nadmecete se samo cenom.',
+    title: 'Previše teretana, premalo razlike',
+    desc: 'Svaka sala nudi treninge, spravu i grupne časove. Bez jasne poruke šta vas izdvaja — programa, trenera, atmosfere ili rezultata — nadmećete se samo cenom.',
   },
   {
     icon: '05',
     title: 'Instagram lajk nije jednak probnom treningu',
-    desc: 'Video transformacija moze da dobije hiljade pregleda, ali bez jasnog poziva na besplatan trening ili ponudu za upis, publika se divi bez da ikada prosetala kroz vrata.',
+    desc: 'Video transformacija može da dobije hiljade pregleda, ali bez jasnog poziva na besplatan trening ili ponudu za upis, publika se divi bez da ikada prošetala kroz vrata.',
   },
   {
     icon: '06',
-    title: 'Grupni treninzi i personalni traze razlicit pristup',
-    desc: 'Clan koji trazi grupni pilates i onaj kome treba personalni trener nemaju istu motivaciju ni budzet. Jedna kampanja za sve znaci da nijedna ne pogadja tacno.',
+    title: 'Grupni treninzi i personalni traže različit pristup',
+    desc: 'Član koji traži grupni pilates i onaj kome treba personalni trener nemaju istu motivaciju ni budžet. Jedna kampanja za sve znači da nijedna ne pogađa tačno.',
   },
 ]
 
 const playbook = [
   {
-    title: 'Google Business i lokalni SEO za ljude spremne da se upisu',
-    desc: 'Kada neko trazi teretanu u svom kraju, odluka cesto pada u prvih pet sekundi na mapi. Profil sa svezim slikama, recenzijama i radnim vremenom zatvara odluku pre nego sto klikne na sajt.',
+    title: 'Google Business i lokalni SEO za ljude spremne da se upišu',
+    desc: 'Kada neko traži teretanu u svom kraju, odluka često pada u prvih pet sekundi na mapi. Profil sa svežim slikama, recenzijama i radnim vremenom zatvara odluku pre nego što klikne na sajt.',
     items: [
       'Kompletan Google Business profil sa fotkama sale, opreme i trenera',
-      'Lokalni SEO sadrzaj za grad, naselje i tip treninga koji se trazi',
-      'Sistem za redovno prikupljanje recenzija od aktivnih clanova',
+      'Lokalni SEO sadržaj za grad, naselje i tip treninga koji se traži',
+      'Sistem za redovno prikupljanje recenzija od aktivnih članova',
       'Click-to-call i link za probni trening direktno iz pretrage',
     ],
   },
   {
     title: 'Instagram i Meta kampanje za upis i reupis',
-    desc: 'Video rezultata, atmosfere i zajednice privlaci ljude koji jos nisu odlucili. Kampanja koja pogadja pravu publiku sa pravom ponudom pretvara scroll u probni trening.',
+    desc: 'Video rezultata, atmosfere i zajednice privlači ljude koji još nisu odlučili. Kampanja koja pogađa pravu publiku sa pravom ponudom pretvara scroll u probni trening.',
     items: [
       'Kreativa koja pokazuje realne transformacije i energiju sale',
       'Kampanje za probni trening, besplatan prvi dolazak ili starter paket',
@@ -56,23 +56,23 @@ const playbook = [
     ],
   },
   {
-    title: 'Sajt ili landing koji pretvara zainteresovanog u clana',
-    desc: 'Posetilac ne sme da pogadja gde je cena, kakav je raspored i kako se prijavi. Stranica mora da skrati put od interesovanja do upisa ili probnog treninga.',
+    title: 'Sajt ili landing koji pretvara zainteresovanog u člana',
+    desc: 'Posetilac ne sme da pogađa gde je cena, kakav je raspored i kako se prijavi. Stranica mora da skrati put od interesovanja do upisa ili probnog treninga.',
     items: [
-      'Jasno prikazan cenovnik, vrste clanarina i raspored grupnih treninga',
+      'Jasno prikazan cenovnik, vrste članarina i raspored grupnih treninga',
       'Forma ili dugme za zakazivanje probnog treninga iznad prevoja',
       'Slike i snimci sale, opreme i trenera koji grade poverenje',
-      'Trust elementi: broj clanova, recenzije, lokacija i iskustvo trenera',
+      'Trust elementi: broj članova, recenzije, lokacija i iskustvo trenera',
     ],
   },
   {
-    title: 'Retencija i reupis umesto vecnog lova na nove clanove',
-    desc: 'Najjeftiniji novi clan je onaj koji vec trenira. Email i SMS podsecanja, loyalty ponude i reaktivacione kampanje vracaju ljude koji su pauzirali ili odustali.',
+    title: 'Retencija i reupis umesto večnog lova na nove članove',
+    desc: 'Najjeftiniji novi član je onaj koji već trenira. Email i SMS podsecanja, loyalty ponude i reaktivacione kampanje vraćaju ljude koji su pauzirali ili odustali.',
     items: [
-      'Automatizovani email za clanove kojima istice clanarinu za 7 dana',
-      'Win-back ponude za bivse clanove posle 30, 60 i 90 dana neaktivnosti',
-      'Referral program koji nagradjuje postojece clanove za preporuke',
-      'Pracenje churn razloga i prilagodjavanje ponude da spreci osipanje',
+      'Automatizovani email za članove kojima ističe članarinu za 7 dana',
+      'Win-back ponude za bivše članove posle 30, 60 i 90 dana neaktivnosti',
+      'Referral program koji nagrađuje postojeće članove za preporuke',
+      'Praćenje churn razloga i prilagođavanje ponude da spreči osipanje',
     ],
   },
 ]
@@ -80,7 +80,7 @@ const playbook = [
 const firstMonth = [
   {
     title: 'Nedelja 1',
-    text: 'Analiza lokacije, ciljne publike, recenzija, cenovnika i nacina na koji ljudi trenutno saznaju za vas. Biramo gde su najvece rupe.',
+    text: 'Analiza lokacije, ciljne publike, recenzija, cenovnika i načina na koji ljudi trenutno saznaju za vas. Biramo gde su najveće rupe.',
   },
   {
     title: 'Nedelja 2',
@@ -88,61 +88,61 @@ const firstMonth = [
   },
   {
     title: 'Nedelja 3',
-    text: 'Testiramo razlicite publike, ponude i kreative. Gasimo ono sto ne donosi upite, pojacavamo ono sto radi.',
+    text: 'Testiramo različite publike, ponude i kreative. Gasimo ono što ne donosi upite, pojačavamo ono što radi.',
   },
   {
     title: 'Nedelja 4',
-    text: 'Merimo cenu po upisu, kvalitet dolazaka i donosimo plan za naredna dva meseca sa budzetom koji ima smisla.',
+    text: 'Merimo cenu po upisu, kvalitet dolazaka i donosimo plan za naredna dva meseca sa budžetom koji ima smisla.',
   },
 ]
 
 const gymModes = [
   {
-    title: 'Teretana koja hoce vise probnih treninga',
-    text: 'Ako vam je najveci problem da ljudi ne naprave prvi korak, marketing mora da skine trenje. Tu rade jasna ponuda za probni dolazak, lokalna vidljivost i poruka koja coveku odmah objasni zasto da udje bas u vasu salu, a ne da nastavi da skroluje.',
+    title: 'Teretana koja hoće više probnih treninga',
+    text: 'Ako vam je najveći problem da ljudi ne naprave prvi korak, marketing mora da skine trenje. Tu rade jasna ponuda za probni dolazak, lokalna vidljivost i poruka koja čoveku odmah objasni zašto da uđe baš u vašu salu, a ne da nastavi da skroluje.',
     route: '/google-reklame-cena',
-    routeLabel: 'Kada lokalna pretraga zatvara bolje od sirokog reach-a',
+    routeLabel: 'Kada lokalna pretraga zatvara bolje od širokog reach-a',
   },
   {
-    title: 'Sala koja zeli vise standardnih clanarina',
+    title: 'Sala koja želi više standardnih članarina',
     text: 'Ovde nije dovoljno samo dovesti ljude na prvi trening. Treba dovesti publiku kojoj odgovaraju lokacija, raspored, atmosfera i cenovni okvir. Ako to ne filtrirate unapred, dobijate mnogo upita, a malo stvarno dobrih upisa.',
     route: '/cene-digitalnog-marketinga',
-    routeLabel: 'Kako da paket i budzet pratite po kvalitetu upisa, ne po aktivnosti',
+    routeLabel: 'Kako da paket i budžet pratite po kvalitetu upisa, ne po aktivnosti',
   },
   {
     title: 'Studio koji prodaje premium coaching ili manje grupe',
-    text: 'Kad je usluga skuplja, nije poenta da oglasi dovuku sto vise ljudi. Poenta je da dovedu pravu vrstu clana. Tu vise rade trust, rezultati, profil trenera i precizna poruka nego generican fitnes content za svakoga.',
+    text: 'Kad je usluga skuplja, nije poenta da oglasi dovuku što više ljudi. Poenta je da dovedu pravu vrstu člana. Tu više rade trust, rezultati, profil trenera i precizna poruka nego generičan fitnes content za svakoga.',
     route: '/instagram-reklame-cena',
-    routeLabel: 'Kako Meta kampanje izgledaju kada jurite kvalitetniji lead, ne samo veci broj DM poruka',
+    routeLabel: 'Kako Meta kampanje izgledaju kada jurite kvalitetniji lead, ne samo veći broj DM poruka',
   },
   {
-    title: 'Teretana koja ima upise, ali gubi clanove prebrzo',
-    text: 'Ako churn jede sav trud, problem vise nije samo akvizicija. Problem je sto nema dovoljno dobrog onboarding-a, follow-up-a i razloga da clan ostane posle prvog talasa motivacije. Tada marketing mora da pomogne i retenciji, ne samo upisu.',
+    title: 'Teretana koja ima upise, ali gubi članove prebrzo',
+    text: 'Ako churn jede sav trud, problem više nije samo akvizicija. Problem je što nema dovoljno dobrog onboarding-a, follow-up-a i razloga da član ostane posle prvog talasa motivacije. Tada marketing mora da pomogne i retenciji, ne samo upisu.',
     route: '/industrije/lokalni-biznisi',
-    routeLabel: 'Sta lokalni biznis mora da sredi kada ga rast preraste',
+    routeLabel: 'Šta lokalni biznis mora da sredi kada ga rast preraste',
   },
 ]
 
 const faqs = [
   {
-    q: 'Da li teretani vise odgovara Google ili Instagram marketing?',
-    a: 'Google hvata ljude koji aktivno traze teretanu u svom kraju i spremni su da se upisu. Instagram gradi zelju, pokazuje atmosferu i vraca ljude koji razmisljaju. Najbolji rezultat dolazi kada oba kanala rade zajedno.',
+    q: 'Da li teretani više odgovara Google ili Instagram marketing?',
+    a: 'Google hvata ljude koji aktivno traže teretanu u svom kraju i spremni su da se upišu. Instagram gradi želju, pokazuje atmosferu i vraća ljude koji razmišljaju. Najbolji rezultat dolazi kada oba kanala rade zajedno.',
   },
   {
-    q: 'Koliko brzo mogu da ocekujem nove clanove?',
-    a: 'Ako su ponuda i landing dobro postavljeni, prvi upiti za probni trening mogu doci vec u prvoj nedelji kampanje. Stabilnija slika o ceni po clanu i kvalitetu upisa obicno se vidi kroz 4 do 8 nedelja.',
+    q: 'Koliko brzo mogu da ocekujem nove članove?',
+    a: 'Ako su ponuda i landing dobro postavljeni, prvi upiti za probni trening mogu doći već u prvoj nedelji kampanje. Stabilnija slika o ceni po članu i kvalitetu upisa obično se vidi kroz 4 do 8 nedelja.',
   },
   {
-    q: 'Koji budzet je realan za pocetak?',
-    a: 'Za Meta kampanje, realan start je 300 do 600 evra mesecno za ad spend, plus fee za vodjenje. Za Google Ads u fitnes industriji, slican raspon moze dati rezultate u lokalnom krugu.',
+    q: 'Koji budžet je realan za početak?',
+    a: 'Za Meta kampanje, realan start je 300 do 600 evra mesecno za ad spend, plus fee za vodjenje. Za Google Ads u fitnes industriji, sličan raspon može dati rezultate u lokalnom krugu.',
   },
   {
-    q: 'Kako da zadrzim clanove, ne samo da upisem nove?',
-    a: 'Retencija pocinje od onboarding iskustva: prvi trening, follow-up poruka, raspored. Marketing pomaze kroz automatizovane email/SMS sekvence, loyalty ponude i win-back kampanje za neaktivne clanove.',
+    q: 'Kako da zadržim članove, ne samo da upisem nove?',
+    a: 'Retencija počinje od onboarding iskustva: prvi trening, follow-up poruka, raspored. Marketing pomaže kroz automatizovane email/SMS sekvence, loyalty ponude i win-back kampanje za neaktivne članove.',
   },
   {
     q: 'Da li radite i za male studije, ne samo za velike sale?',
-    a: 'Da. Pilates studio, yoga sala, CrossFit box i boutique gym zahtevaju prilagodjen pristup jer zive od manjeg broja premium clanova, ali principi lokalnog marketinga su isti.',
+    a: 'Da. Pilates studio, yoga sala, CrossFit box i boutique gym zahtevaju prilagođen pristup jer žive od manjeg broja premium članova, ali principi lokalnog marketinga su isti.',
   },
 ]
 
@@ -150,17 +150,17 @@ const relatedLinks = [
   {
     to: '/blog/instagram-reklame-za-teretane-cena-upisa-srbija-2026',
     title: 'Instagram reklame za teretane: cena upisa',
-    desc: 'Koliki budzet ima smisla za Instagram kampanje teretane, koje kreative donose upise i kako meriti cenu clana.',
+    desc: 'Koliki budžet ima smisla za Instagram kampanje teretane, koje kreative donose upise i kako meriti cenu člana.',
   },
   {
     to: '/blog/google-ads-za-teretane-i-fitnes-studije-cena-leada-srbija-2026',
     title: 'Google Ads za teretane: cena lead-a',
-    desc: 'Koliko kosta da uhvatite ljude koji traze teretanu u svom gradu kroz placenu pretragu.',
+    desc: 'Koliko košta da uhvatite ljude koji traže teretanu u svom gradu kroz placenu pretragu.',
   },
   {
     to: '/seo-optimizacija-cena',
     title: 'SEO optimizacija cena',
-    desc: 'Za sale i studije koji hoce organski priliv kroz mapu, lokalne usluge i branded pretrage.',
+    desc: 'Za sale i studije koji hoće organski priliv kroz mapu, lokalne usluge i branded pretrage.',
   },
   {
     to: '/izrada-wordpress-sajta-cena',
@@ -168,14 +168,14 @@ const relatedLinks = [
     desc: 'Ako vam trenutni sajt koci upise jer nema jasan cenovnik, raspored i poziv na akciju.',
   },
   {
-    to: '/drustvene-mreze',
-    title: 'Drustvene mreze',
-    desc: 'Siri pregled contenta, community rada i placenih kampanja za brendove na drustvenim mrezama.',
+    to: '/društvene-mreže',
+    title: 'Društvene mreže',
+    desc: 'Siri pregled contenta, community rada i placenih kampanja za brendove na društvenim mrežama.',
   },
   {
     to: '/blog/google-ads-za-teretane-i-fitnes-studije-cena-leada-srbija-2026',
     title: 'Google Ads za teretane i fitnes studije',
-    desc: 'Detaljan vodic: koliko kosta Google reklama za teretanu, koji budzet ima smisla i kako meriti cenu po novom clanu.',
+    desc: 'Detaljan vodič: koliko košta Google reklama za teretanu, koji budžet ima smisla i kako meriti cenu po novom članu.',
   },
 ]
 
@@ -194,10 +194,10 @@ export default function MarketingZaTeretanePage() {
           <h1 className="text-[30px] md:text-[50px] font-medium leading-[1.08] tracking-[-1px] text-ink mb-5">
             Marketing za teretane
             <br />
-            <span className="text-ink-2">koji puni salu i zadrzava clanove</span>
+            <span className="text-ink-2">koji puni salu i zadržava članove</span>
           </h1>
           <p className="text-[16px] md:text-[18px] text-ink-2 leading-relaxed max-w-[700px] mx-auto mb-8">
-            Teretana ne raste zato sto snizi cenu clanarinu ili objavi jos jedan video treninga. Raste kada napravi lokalnu vidljivost, jasnu ponudu i sistem koji pretvara prolaznike u clanove koji ostaju.
+            Teretana ne raste zato što snizi cenu članarinu ili objavi još jedan video treninga. Raste kada napravi lokalnu vidljivost, jasnu ponudu i sistem koji pretvara prolaznike u članove koji ostaju.
           </p>
           <div className="flex flex-wrap justify-center gap-3">
             <Link to="/kontakt" className="inline-flex items-center gap-2 bg-inv-bg text-inv-fg text-[14px] font-medium h-11 px-6 rounded-full hover:bg-inv-bg-hover transition-colors">
@@ -209,16 +209,16 @@ export default function MarketingZaTeretanePage() {
             </a>
           </div>
           <p className="text-[13px] text-ink-3 mt-5 max-w-[650px] mx-auto">
-            Ako vec testirate Meta kampanje, pogledajte i <Link to="/instagram-reklame-cena" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">Instagram reklame cena</Link>. Za lokalnu pretragu korisno je videti <Link to="/google-reklame-cena" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">Google reklame cena</Link>.
+            Ako već testirate Meta kampanje, pogledajte i <Link to="/instagram-reklame-cena" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">Instagram reklame cena</Link>. Za lokalnu pretragu korisno je videti <Link to="/google-reklame-cena" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">Google reklame cena</Link>.
           </p>
         </div>
       </section>
 
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[1100px] mx-auto">
-          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-3 text-center">Zasto je marketing za teretanu drugaciji</h2>
+          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-3 text-center">Zašto je marketing za teretanu drugačiji</h2>
           <p className="text-[15px] text-ink-3 mb-10 text-center max-w-[660px] mx-auto">
-            Fitnes industrija ne prodaje proizvod koji se kupi jednom. Prodaje naviku, zajednicu i rezultat. Marketing mora da radi na oba kraja: da dovede novog clana i da ga zadrzi.
+            Fitnes industrija ne prodaje proizvod koji se kupi jednom. Prodaje naviku, zajednicu i rezultat. Marketing mora da radi na oba kraja: da dovede novog člana i da ga zadrži.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
             {challenges.map((item) => (
@@ -234,9 +234,9 @@ export default function MarketingZaTeretanePage() {
 
       <section id="plan" className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[920px] mx-auto">
-          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-3 text-center">Sta najcesce radi za teretane i fitnes studije</h2>
+          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-3 text-center">Šta najčešće radi za teretane i fitnes studije</h2>
           <p className="text-[15px] text-ink-3 mb-10 text-center max-w-[670px] mx-auto">
-            Krecemo od kanala i aktivnosti koji realno mogu da donesu vise upisa i duze zadrzavanje clanova. Ne pravimo aktivnost radi aktivnosti, nego marketing koji puni salu.
+            Krećemo od kanala i aktivnosti koji realno mogu da donesu više upisa i duže zadržavanje članova. Ne pravimo aktivnost radi aktivnosti, nego marketing koji puni salu.
           </p>
           <div className="space-y-6">
             {playbook.map((block) => (
@@ -260,9 +260,9 @@ export default function MarketingZaTeretanePage() {
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[980px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
           <div className="max-w-[760px] mx-auto text-center mb-8">
-            <h2 className="text-[24px] md:text-[30px] font-medium text-ink mb-3">Sta radi za probni trening, clanarinu i premium coaching</h2>
+            <h2 className="text-[24px] md:text-[30px] font-medium text-ink mb-3">Šta radi za probni trening, članarinu i premium coaching</h2>
             <p className="text-[15px] text-ink-2 leading-relaxed">
-              Nije svakoj teretani potreban isti marketing. Nekome je prioritet da covek samo dodje prvi put, nekome da pretvori probni trening u clanarinu, a nekome da proda skuplji coaching ili manje grupe. Kad to ne odvojite, marketing lako pravi buku, ali ne i zdrav rast.
+              Nije svakoj teretani potreban isti marketing. Nekome je prioritet da čovek samo dođe prvi put, nekome da pretvori probni trening u članarinu, a nekome da proda skuplji coaching ili manje grupe. Kad to ne odvojite, marketing lako pravi buku, ali ne i zdrav rast.
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -277,7 +277,7 @@ export default function MarketingZaTeretanePage() {
             ))}
           </div>
           <p className="text-[14px] text-ink-3 leading-relaxed mt-8 text-center max-w-[760px] mx-auto">
-            Ako niste sigurni da li sala prvo treba da gura probni trening, standardne clanarine, premium coaching ili retenciju, posaljite nam kratak opis kroz <Link to="/kontakt" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">kontakt formu</Link> i reci cemo vam sta ima najvise smisla da ide prvo.
+            Ako niste sigurni da li sala prvo treba da gura probni trening, standardne članarine, premium coaching ili retenciju, pošaljite nam kratak opis kroz <Link to="/kontakt" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">kontakt formu</Link> i reći ćemo vam šta ima najviše smisla da ide prvo.
           </p>
         </div>
       </section>
@@ -285,9 +285,9 @@ export default function MarketingZaTeretanePage() {
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[920px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
           <div className="max-w-[720px] mx-auto text-center mb-8">
-            <h2 className="text-[24px] md:text-[30px] font-medium text-ink mb-3">Prvih 30 dana bez prazne price</h2>
+            <h2 className="text-[24px] md:text-[30px] font-medium text-ink mb-3">Prvih 30 dana bez prazne priče</h2>
             <p className="text-[15px] text-ink-2 leading-relaxed">
-              Cilj prvog meseca nije da sala samo izgleda aktivnije na mrezi. Cilj je da brzo vidimo koji kanali, ponude i publike donose upise po ceni koja ima smisla.
+              Cilj prvog meseca nije da sala samo izgleda aktivnije na mreži. Cilj je da brzo vidimo koji kanali, ponude i publike donose upise po ceni koja ima smisla.
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -299,20 +299,20 @@ export default function MarketingZaTeretanePage() {
             ))}
           </div>
           <p className="text-[14px] text-ink-3 leading-relaxed mt-6 text-center max-w-[700px] mx-auto">
-            Ako zelite siri pregled ulaganja po kanalu, pogledajte i <Link to="/google-reklame-cena" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">Google reklame cena</Link>, <Link to="/instagram-reklame-cena" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">Instagram reklame cena</Link> i <Link to="/seo-optimizacija-cena" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">SEO optimizacija cena</Link>.
+            Ako želite širi pregled ulaganja po kanalu, pogledajte i <Link to="/google-reklame-cena" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">Google reklame cena</Link>, <Link to="/instagram-reklame-cena" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">Instagram reklame cena</Link> i <Link to="/seo-optimizacija-cena" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">SEO optimizacija cena</Link>.
           </p>
         </div>
       </section>
 
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[780px] mx-auto bg-gradient-to-br from-emerald-500/[0.10] to-blue-500/[0.08] rounded-[20px] border border-emerald-500/[0.14] p-6 md:p-8 text-center">
-          <h2 className="text-[22px] md:text-[28px] font-medium text-ink mb-3">Hocete da vidimo gde vasa sala trenutno gubi clanove?</h2>
+          <h2 className="text-[22px] md:text-[28px] font-medium text-ink mb-3">Hoćete da vidimo gde vaša sala trenutno gubi članove?</h2>
           <p className="text-[15px] text-ink-2 leading-relaxed max-w-[620px] mx-auto mb-5">
-            Pregledamo Google profil, Instagram, sajt, ponudu i nacin upisa. Dobijate konkretan spisak sledecih koraka za vise clanova i manje praznih termina.
+            Pregledamo Google profil, Instagram, sajt, ponudu i način upisa. Dobijate konkretan spisak sledećih koraka za više članova i manje praznih termina.
           </p>
           <div className="flex flex-wrap justify-center gap-3">
             <Link to="/kontakt" className="inline-flex items-center gap-2 bg-inv-bg text-inv-fg text-[14px] font-medium h-11 px-6 rounded-full hover:bg-inv-bg-hover transition-colors">
-              Zakazite analizu
+              Zakažite analizu
               <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
             </Link>
             <Link to="/cene-digitalnog-marketinga" className="inline-flex items-center gap-2 text-ink-2 text-[14px] font-medium h-11 px-6 rounded-full border border-edge hover:bg-tint transition-colors">
@@ -334,7 +334,7 @@ export default function MarketingZaTeretanePage() {
             ))}
           </div>
           <div className="mt-5 flex flex-wrap justify-center gap-3 text-[13px]">
-            <Link to="/marketing-za-kozmeticke-salone" className="text-ink-3 hover:text-ink transition-colors">Marketing za kozmeticke salone</Link>
+            <Link to="/marketing-za-kozmeticke-salone" className="text-ink-3 hover:text-ink transition-colors">Marketing za kozmetičke salone</Link>
             <Link to="/marketing-za-frizerske-salone" className="text-ink-3 hover:text-ink transition-colors">Marketing za frizerske salone</Link>
             <Link to="/marketing-za-stomatologe" className="text-ink-3 hover:text-ink transition-colors">Marketing za stomatologe</Link>
             <Link to="/marketing-za-restorane" className="text-ink-3 hover:text-ink transition-colors">Marketing za restorane</Link>
@@ -346,7 +346,7 @@ export default function MarketingZaTeretanePage() {
 
       <section id="faq" className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[760px] mx-auto">
-          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-10 text-center">Cesto postavljana pitanja</h2>
+          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-10 text-center">Često postavljana pitanja</h2>
           <div className="space-y-5">
             {faqs.map((item) => (
               <details key={item.q} className="group bg-panel rounded-[14px] border border-edge">
@@ -363,9 +363,9 @@ export default function MarketingZaTeretanePage() {
 
       <section className="px-4 md:px-8 pb-20 md:pb-32">
         <div className="max-w-[620px] mx-auto text-center">
-          <h2 className="text-[22px] md:text-[28px] font-medium text-ink mb-4">Dobra sala zasluzuje da je clanovi lakse pronadju i ostanu duze</h2>
+          <h2 className="text-[22px] md:text-[28px] font-medium text-ink mb-4">Dobra sala zaslužuje da je članovi lakše pronađu i ostanu duže</h2>
           <p className="text-[15px] text-ink-2 mb-6">
-            Ako hocete vise upisa bez bacanja budzeta na prazne klikove, javite se. Slozicemo plan za vas grad, tip sale i kapacitet tima.
+            Ako hoćete više upisa bez bacanja budžeta na prazne klikove, javite se. Složićemo plan za vas grad, tip sale i kapacitet tima.
           </p>
           <Link to="/kontakt" className="inline-flex items-center gap-2 bg-inv-bg text-inv-fg text-[14px] font-medium h-11 px-6 rounded-full hover:bg-inv-bg-hover transition-colors">
             Kontaktirajte nas

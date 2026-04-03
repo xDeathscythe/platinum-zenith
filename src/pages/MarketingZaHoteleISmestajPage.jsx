@@ -9,38 +9,38 @@ const challenges = [
   },
   {
     icon: '02',
-    title: 'Sezona traje tri meseca, a fiksni troskovi dvanaest',
+    title: 'Sezona traje tri meseca, a fiksni troškovi dvanaest',
     desc: 'Leto ili zimski praznici pune kapacitet, ali od oktobra do aprila popunjenost pada ispod polovine. Bez strategije za van sezone, kasni se sa platama i odrzavanjem.',
   },
   {
     icon: '03',
     title: 'Gost bira za tri klika i poredi vas sa dvadeset objekata',
-    desc: 'Cenu, slike, recenzije i lokaciju gleda uporedo. Ako vas objekat nema sveze fotografije, jasnu ponudu i dovoljno pozitivnih utisaka, prelazi na sledeci bez razmisljanja.',
+    desc: 'Cenu, slike, recenzije i lokaciju gleda uporedo. Ako vas objekat nema sveze fotografije, jasnu ponudu i dovoljno pozitivnih utisaka, prelazi na sledeći bez razmisljanja.',
   },
   {
     icon: '04',
     title: 'Google mapa odlucuje pre nego sto gost otvori sajt',
-    desc: 'Vecina putnika trazi smestaj direktno na mapi. Ako vas Google Business profil nema tacne podatke, slike soba i odgovore na recenzije, niste ni u izboru.',
+    desc: 'Vecina putnika traži smestaj direktno na mapi. Ako vas Google Business profil nema tacne podatke, slike soba i odgovore na recenzije, niste ni u izboru.',
   },
   {
     icon: '05',
-    title: 'Strani gosti traze na engleskom, a sajt je samo na srpskom',
-    desc: 'Srbija privlaci sve vise stranih turista, narocito za gradski turizam i banje. Objekat bez engleske verzije sajta i sadrzaja gubi ceo taj segment.',
+    title: 'Strani gosti traže na engleskom, a sajt je samo na srpskom',
+    desc: 'Srbija privlaci sve više stranih turista, naročito za gradski turizam i banje. Objekat bez engleske verzije sajta i sadržaja gubi ceo taj segment.',
   },
   {
     icon: '06',
     title: 'Instagram slike sobe ne znace rezervaciju',
-    desc: 'Lepa fotka dobije lajkove, ali ako nema link za direktnu rezervaciju, cenu i dostupnost, publika skroluje dalje i rezervise na platformi gde moze da zavrsi u dva koraka.',
+    desc: 'Lepa fotka dobije lajkove, ali ako nema link za direktnu rezervaciju, cenu i dostupnost, publika skroluje dalje i rezervise na platformi gde može da zavrsi u dva koraka.',
   },
 ]
 
 const playbook = [
   {
     title: 'Google Business i lokalni SEO za direktne rezervacije',
-    desc: 'Kada gost trazi smestaj u vasem gradu ili na vasoj planini, Google mapa je prvi filter. Profil koji izgleda aktivno, ima sveze slike i dobre recenzije pretvara pretragu u poziv ili rezervaciju bez posrednika.',
+    desc: 'Kada gost traži smestaj u vasem gradu ili na vasoj planini, Google mapa je prvi filter. Profil koji izgleda aktivno, ima sveze slike i dobre recenzije pretvara pretragu u poziv ili rezervaciju bez posrednika.',
     items: [
-      'Kompletan Google Business profil sa slikama soba, sadrzaja, okoline i cenovnikom',
-      'Lokalni SEO sadrzaj za destinaciju, tip smestaja i aktivnosti u blizini',
+      'Kompletan Google Business profil sa slikama soba, sadržaja, okoline i cenovnikom',
+      'Lokalni SEO sadržaj za destinaciju, tip smestaja i aktivnosti u blizini',
       'Sistem za prikupljanje recenzija od gostiju posle boravka',
       'Direktan link za rezervaciju ili poziv iz pretrage bez odlaska na Booking',
     ],
@@ -49,7 +49,7 @@ const playbook = [
     title: 'Placene kampanje za popunjavanje van sezone',
     desc: 'Sezona se sama popuni. Problem je oktobar, novembar, mart. Ciljane Google i Meta kampanje za vikend pakete, poslovne goste, wellness ponude i dogadjaje popunjavaju praznine koje sezona ne pokriva.',
     items: [
-      'Google Ads kampanje za kljucne pretrage: smestaj + destinacija + period',
+      'Google Ads kampanje za ključne pretrage: smestaj + destinacija + period',
       'Meta kampanje sa vizuelnim kreativama za vikend pakete i specijalne ponude',
       'Remarketing za posetioce sajta koji nisu zavrsili rezervaciju',
       'Sezonske kampanje prilagodjene kalendaru dogadjaja u regionu',
@@ -57,20 +57,20 @@ const playbook = [
   },
   {
     title: 'Sajt koji pretvara posetioca u direktnu rezervaciju',
-    desc: 'Svaki klik izmedju interesovanja i rezervacije smanjuje sanse da gost zavrsi kod vas. Sajt mora da pokaze sobu, cenu i raspolozivost u tri skrola i da omoguci rezervaciju bez da gost ikada ode na OTA platformu.',
+    desc: 'Svaki klik između interesovanja i rezervacije smanjuje sanse da gost zavrsi kod vas. Sajt mora da pokaze sobu, cenu i raspolozivost u tri skrola i da omoguci rezervaciju bez da gost ikada ode na OTA platformu.',
     items: [
       'Galerija soba sa cenama, kapacitetom i raspolozivoscu na jednom mestu',
       'Booking engine ili forma za direktnu rezervaciju iznad prevoja',
       'Stranica za svaki tip smestaja, paket i specijalnu ponudu posebno',
-      'Visejezicni sadrzaj za strane goste sa prilagodjenim SEO meta podacima',
+      'Visejezicni sadržaj za strane goste sa prilagodjenim SEO meta podacima',
     ],
   },
   {
-    title: 'Sadrzaj i reputacija koji grade poverenje pre dolaska',
-    desc: 'Gost ne moze da proba sobu pre nego sto plati. Odlucuje na osnovu slika, recenzija, opisa iskustva i utiska da objekat vodi neko kome je stalo. Sadrzaj gradi to poverenje mesecima pre prve rezervacije.',
+    title: 'Sadržaj i reputacija koji grade poverenje pre dolaska',
+    desc: 'Gost ne može da proba sobu pre nego sto plati. Odlucuje na osnovu slika, recenzija, opisa iskustva i utiska da objekat vodi neko kome je stalo. Sadržaj gradi to poverenje mesecima pre prve rezervacije.',
     items: [
-      'Blog sadrzaj o destinaciji, aktivnostima i dogadjajima u okolini',
-      'Video ture soba, restorana, spa sadrzaja i okoline',
+      'Blog sadržaj o destinaciji, aktivnostima i dogadjajima u okolini',
+      'Video ture soba, restorana, spa sadržaja i okoline',
       'Aktivno upravljanje recenzijama na Google, Booking i TripAdvisor',
       'Email kampanje za bivse goste sa ponudama za povratak i preporuke',
     ],
@@ -80,11 +80,11 @@ const playbook = [
 const firstMonth = [
   {
     title: 'Nedelja 1',
-    text: 'Analiza trenutne popunjenosti, izvora rezervacija, sezonskih obrazaca i prisutnosti na Google, Booking i drustvenim mrezama. Identifikujemo gde se gube direktne rezervacije.',
+    text: 'Analiza trenutne popunjenosti, izvora rezervacija, sezonskih obrazaca i prisutnosti na Google, Booking i društvenim mrežama. Identifikujemo gde se gube direktne rezervacije.',
   },
   {
     title: 'Nedelja 2',
-    text: 'Optimizacija Google Business profila, postavljanje landing stranica za kljucne pakete i pokretanje prvih Google Ads kampanja za direktne pretrage.',
+    text: 'Optimizacija Google Business profila, postavljanje landing stranica za ključne pakete i pokretanje prvih Google Ads kampanja za direktne pretrage.',
   },
   {
     title: 'Nedelja 3',
@@ -98,16 +98,16 @@ const firstMonth = [
 
 const faqs = [
   {
-    q: 'Da li marketing moze da smanji zavisnost od Booking-a i Airbnb-a?',
-    a: 'Da, i to je jedan od glavnih ciljeva. Kroz SEO, Google Ads i remarketing gradimo kanal direktnih rezervacija koji ne placa proviziju. OTA platforme i dalje koristimo za vidljivost, ali cilj je da sve veci deo gostiju rezervise direktno.',
+    q: 'Da li marketing može da smanji zavisnost od Booking-a i Airbnb-a?',
+    a: 'Da, i to je jedan od glavnih ciljeva. Kroz SEO, Google Ads i remarketing gradimo kanal direktnih rezervacija koji ne placa proviziju. OTA platforme i dalje koristimo za vidljivost, ali cilj je da sve veći deo gostiju rezervise direktno.',
   },
   {
     q: 'Koliko brzo mogu da ocekujem rezultate?',
-    a: 'Google Ads kampanje mogu doneti prve upite za rezervaciju vec u prvoj nedelji. Lokalni SEO i sadrzaj daju rezultate kroz 2 do 4 meseca. Realan cilj za prvih 90 dana je merljiv porast direktnih rezervacija i smanjenje zavisnosti od posrednika.',
+    a: 'Google Ads kampanje mogu doneti prve upite za rezervaciju vec u prvoj nedelji. Lokalni SEO i sadržaj daju rezultate kroz 2 do 4 meseca. Realan cilj za prvih 90 dana je merljiv porast direktnih rezervacija i smanjenje zavisnosti od posrednika.',
   },
   {
-    q: 'Koji budzet je realan za pocetak?',
-    a: 'Za Google Ads u turizmu, realan start je 400 do 800 evra mesecno za ad spend, zavisno od destinacije i konkurencije. Za Meta kampanje van sezone, 200 do 500 evra moze popuniti praznine. Plus fee za vodjenje i optimizaciju.',
+    q: 'Koji budžet je realan za pocetak?',
+    a: 'Za Google Ads u turizmu, realan start je 400 do 800 evra mesecno za ad spend, zavisno od destinacije i konkurencije. Za Meta kampanje van sezone, 200 do 500 evra može popuniti praznine. Plus fee za vodjenje i optimizaciju.',
   },
   {
     q: 'Radite li samo sa hotelima ili i sa apartmanima i vilama?',
@@ -133,12 +133,12 @@ const relatedLinks = [
   {
     to: '/google-reklame-cena',
     title: 'Google reklame cena',
-    desc: 'Koliko kosta da uhvatite goste koji traze smestaj u vasem gradu ili na vasoj destinaciji.',
+    desc: 'Koliko kosta da uhvatite goste koji traže smestaj u vasem gradu ili na vasoj destinaciji.',
   },
   {
     to: '/instagram-reklame-cena',
     title: 'Instagram reklame cena',
-    desc: 'Vizuelne kampanje koje pokazuju objekat i privlace goste koji jos biraju destinaciju.',
+    desc: 'Vizuelne kampanje koje pokazuju objekat i privlace goste koji još biraju destinaciju.',
   },
   {
     to: '/seo-optimizacija-cena',
@@ -199,7 +199,7 @@ export default function MarketingZaHoteleISmestajPage() {
 
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[1100px] mx-auto">
-          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-3 text-center">Zasto je marketing za smestaj drugaciji</h2>
+          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-3 text-center">Zašto je marketing za smestaj drugaciji</h2>
           <p className="text-[15px] text-ink-3 mb-10 text-center max-w-[660px] mx-auto">
             Smestajni objekat ne prodaje proizvod koji se posalje postom. Prodaje iskustvo koje gost kupuje na osnovu slika, recenzija i utiska pre nego sto ikada kroči kroz vrata.
           </p>
@@ -217,7 +217,7 @@ export default function MarketingZaHoteleISmestajPage() {
 
       <section id="plan" className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[920px] mx-auto">
-          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-3 text-center">Sta najcesce radi za hotele, apartmane i objekte</h2>
+          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-3 text-center">Šta najčešće radi za hotele, apartmane i objekte</h2>
           <p className="text-[15px] text-ink-3 mb-10 text-center max-w-[670px] mx-auto">
             Ne pravimo marketing radi marketinga. Fokus je na kanalima koji realno donose rezervacije po ceni nizoj od provizije koju biste platili Booking-u.
           </p>
@@ -266,7 +266,7 @@ export default function MarketingZaHoteleISmestajPage() {
         <div className="max-w-[780px] mx-auto bg-gradient-to-br from-amber-500/[0.10] to-blue-500/[0.08] rounded-[20px] border border-amber-500/[0.14] p-6 md:p-8 text-center">
           <h2 className="text-[22px] md:text-[28px] font-medium text-ink mb-3">Hocete da vidimo koliko vas trenutno kostaju posrednici?</h2>
           <p className="text-[15px] text-ink-2 leading-relaxed max-w-[620px] mx-auto mb-5">
-            Pregledamo izvore rezervacija, profil na Google i platformama, sajt i ponudu. Dobijate konkretan plan za vise direktnih rezervacija i manje provizija.
+            Pregledamo izvore rezervacija, profil na Google i platformama, sajt i ponudu. Dobijate konkretan plan za više direktnih rezervacija i manje provizija.
           </p>
           <div className="flex flex-wrap justify-center gap-3">
             <Link to="/kontakt" className="inline-flex items-center gap-2 bg-inv-bg text-inv-fg text-[14px] font-medium h-11 px-6 rounded-full hover:bg-inv-bg-hover transition-colors">
@@ -323,7 +323,7 @@ export default function MarketingZaHoteleISmestajPage() {
         <div className="max-w-[620px] mx-auto text-center">
           <h2 className="text-[22px] md:text-[28px] font-medium text-ink mb-4">Dobar objekat zasluzuje goste koji dolaze direktno, ne preko posrednika</h2>
           <p className="text-[15px] text-ink-2 mb-6">
-            Ako zelite vise direktnih rezervacija bez rastuce provizije, javite se. Napravicemo plan za vas tip objekta, destinaciju i sezonu.
+            Ako zelite više direktnih rezervacija bez rastuce provizije, javite se. Napravicemo plan za vas tip objekta, destinaciju i sezonu.
           </p>
           <Link to="/kontakt" className="inline-flex items-center gap-2 bg-inv-bg text-inv-fg text-[14px] font-medium h-11 px-6 rounded-full hover:bg-inv-bg-hover transition-colors">
             Kontaktirajte nas

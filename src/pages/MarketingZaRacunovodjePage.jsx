@@ -298,15 +298,15 @@ export default function MarketingZaRacunovodjePage() {
           <div className="grid md:grid-cols-2 gap-4">
             <Link to="/blog/google-ads-za-knjigovodstvene-agencije-cena-leada-srbija-2026" className="p-5 rounded-2xl bg-surface-1 hover:bg-surface-2 transition-colors border border-ink/5">
               <span className="text-[13px] text-ink-3 uppercase tracking-wider">Google Ads</span>
-              <p className="text-[15px] font-medium text-ink mt-1">Google Ads za knjigovodstvene agencije: cena lead-a i budzet</p>
+              <p className="text-[15px] font-medium text-ink mt-1">Google Ads za knjigovodstvene agencije: cena lead-a i budžet</p>
             </Link>
             <Link to="/blog/instagram-reklame-za-racunovodje-cena-klijenta-srbija-2026" className="p-5 rounded-2xl bg-surface-1 hover:bg-surface-2 transition-colors border border-ink/5">
               <span className="text-[13px] text-ink-3 uppercase tracking-wider">Instagram Ads</span>
-              <p className="text-[15px] font-medium text-ink mt-1">Instagram reklame za racunovodje: koliko kosta novi klijent</p>
+              <p className="text-[15px] font-medium text-ink mt-1">Instagram reklame za računovođe: koliko kosta novi klijent</p>
             </Link>
             <Link to="/blog/seo-za-racunovodje-cena-srbija-2026" className="p-5 rounded-2xl bg-surface-1 hover:bg-surface-2 transition-colors border border-ink/5">
               <span className="text-[13px] text-ink-3 uppercase tracking-wider">Lokalni SEO</span>
-              <p className="text-[15px] font-medium text-ink mt-1">SEO za racunovodje: cena, lokalni SEO i kako do vise klijenata</p>
+              <p className="text-[15px] font-medium text-ink mt-1">SEO za računovođe: cena, lokalni SEO i kako do više klijenata</p>
             </Link>
           </div>
         </div>

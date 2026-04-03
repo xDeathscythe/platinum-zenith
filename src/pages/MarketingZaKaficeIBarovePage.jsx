@@ -14,8 +14,8 @@ const challenges = [
   },
   {
     icon: '03',
-    title: 'Google mapa vas ne prikazuje kad neko trazi kafic u blizini',
-    desc: 'Vecina gostiju otvori Google Maps i trazi kafic u blizini. Ako vas profil nema slike, radno vreme, recenzije i tačnu lokaciju, algoritam vas gurne ispod konkurencije.',
+    title: 'Google mapa vas ne prikazuje kad neko traži kafic u blizini',
+    desc: 'Vecina gostiju otvori Google Maps i traži kafic u blizini. Ako vas profil nema slike, radno vreme, recenzije i tačnu lokaciju, algoritam vas gurne ispod konkurencije.',
   },
   {
     icon: '04',
@@ -25,7 +25,7 @@ const challenges = [
   {
     icon: '05',
     title: 'Recenzije prave ili lome reputaciju, a niko ih ne prikuplja sistematski',
-    desc: 'Jedan negativan komentar o sporoj usluzi moze da odbije 30 potencijalnih gostiju. A 50 zadovoljnih gostiju nece sami ostaviti recenziju ako ih ne zamolite.',
+    desc: 'Jedan negativan komentar o sporoj usluzi može da odbije 30 potencijalnih gostiju. A 50 zadovoljnih gostiju nece sami ostaviti recenziju ako ih ne zamolite.',
   },
   {
     icon: '06',
@@ -37,7 +37,7 @@ const challenges = [
 const playbook = [
   {
     title: 'Google Business profil koji vas stavlja na mapu',
-    desc: 'Kad neko otvori Google Maps i trazi kafic, koktejl bar ili kafanu u svom kraju, vas profil mora da bude medju prva tri rezultata. To nije slucajnost vec optimizacija.',
+    desc: 'Kad neko otvori Google Maps i traži kafic, koktejl bar ili kafanu u svom kraju, vas profil mora da bude medju prva tri rezultata. To nije slucajnost vec optimizacija.',
     items: [
       'Kompletno popunjen profil: kategorija, radno vreme, meni, slike enterijera i pica',
       'Redovno prikupljanje recenzija od zadovoljnih gostiju sa QR kodom ili linkom',
@@ -51,13 +51,13 @@ const playbook = [
     items: [
       'Radijus targetiranje: 1-5km oko lokacije, ljudi koji zive ili rade u blizini',
       'Kreativ koji pokazuje atmosferu, ne samo proizvod: vecernji ambijent, drustvo, dogadjaj',
-      'Promocije za slabije dane: sreda happy hour, cetvrtak quiz vece, ponedeljak specijalna kafa',
-      'Retargeting na ljude koji su interagovali sa profilom ali jos nisu dosli',
+      'Promocije za slabije dane: sreda happy hour, cetvrtak quiz veće, ponedeljak specijalna kafa',
+      'Retargeting na ljude koji su interagovali sa profilom ali još nisu dosli',
     ],
   },
   {
-    title: 'Dogadjaji i sadrzaj koji daju razlog za dolazak',
-    desc: 'Kafic bez dogadjaja je jos jedno mesto za kafu. Kafic sa quiz vecerom, degustacijom vina ili akusticnim nastupom ima razlog koji privlaci ljude da dodju bas kod vas.',
+    title: 'Dogadjaji i sadržaj koji daju razlog za dolazak',
+    desc: 'Kafic bez dogadjaja je još jedno mesto za kafu. Kafic sa quiz vecerom, degustacijom vina ili akusticnim nastupom ima razlog koji privlaci ljude da dodju bas kod vas.',
     items: [
       'Kalendar dogadjaja koji se promovise kroz Google, Instagram i lokalne grupe',
       'Saradnja sa lokalnim brendovima, muzičarima i organizatorima za zajednicke evente',
@@ -67,7 +67,7 @@ const playbook = [
   },
   {
     title: 'Sajt ili landing stranica za rezervacije i meni',
-    desc: 'Ne treba vam sajt od 20 stranica. Treba vam jedno mesto gde gost za 10 sekundi vidi meni, radno vreme, lokaciju i moze da rezervise sto ili se javi na WhatsApp.',
+    desc: 'Ne treba vam sajt od 20 stranica. Treba vam jedno mesto gde gost za 10 sekundi vidi meni, radno vreme, lokaciju i može da rezervise sto ili se javi na WhatsApp.',
     items: [
       'Jedna stranica sa menijem, cenama, lokacijom i dugmetom za rezervaciju',
       'Mobilno prilagodjen dizajn jer 90% gostiju gleda sa telefona',
@@ -80,7 +80,7 @@ const playbook = [
 const firstMonth = [
   {
     title: 'Nedelja 1',
-    text: 'Analiza Google profila, recenzija, Instagram prisustva i konkurencije u vasem kraju. Identifikujemo sta radi, sta ne radi i gde je najbrza prilika.',
+    text: 'Analiza Google profila, recenzija, Instagram prisustva i konkurencije u vasem kraju. Identifikujemo šta radi, šta ne radi i gde je najbrza prilika.',
   },
   {
     title: 'Nedelja 2',
@@ -92,7 +92,7 @@ const firstMonth = [
   },
   {
     title: 'Nedelja 4',
-    text: 'Merimo cenu po novom gostu, analiziramo koje kampanje su donele ljude u lokal i pravimo plan za sledeca dva meseca sa budzeetom koji ima smisla za vasu marzu.',
+    text: 'Merimo cenu po novom gostu, analiziramo koje kampanje su donele ljude u lokal i pravimo plan za sledeća dva meseca sa budzeetom koji ima smisla za vasu marzu.',
   },
 ]
 
@@ -103,15 +103,15 @@ const faqs = [
   },
   {
     q: 'Koji kanal je najvazniji za lokalni kafic ili bar?',
-    a: 'Google Business profil je najvazniji jer hvata ljude koji aktivno traze kafic u blizini. Instagram je drugi jer gradi svest i prikazuje atmosferu. Idealno je koristiti oba jer pokrivaju razlicite faze odluke.',
+    a: 'Google Business profil je najvazniji jer hvata ljude koji aktivno traže kafic u blizini. Instagram je drugi jer gradi svest i prikazuje atmosferu. Idealno je koristiti oba jer pokrivaju razlicite faze odluke.',
   },
   {
     q: 'Koliko vremena treba da se vide rezultati?',
     a: 'Google Business optimizacija pocinje da daje rezultate za 2 do 4 nedelje. Instagram kampanje mogu doneti prve nove goste vec u prvoj nedelji ako je kreativ dobar i targetiranje precizno.',
   },
   {
-    q: 'Nemamo budzet za veliki marketing, sta je minimum?',
-    a: 'Google Business optimizacija je besplatna i daje najveci povrat. Za Instagram reklame, 50 do 100 evra mesecno za lokalni kafic moze biti dovoljno da testirate sta radi. Pocnite sa jednim kanalom i sirite kad vidite rezultat.',
+    q: 'Nemamo budžet za veliki marketing, šta je minimum?',
+    a: 'Google Business optimizacija je besplatna i daje najveci povrat. Za Instagram reklame, 50 do 100 evra mesecno za lokalni kafic može biti dovoljno da testirate šta radi. Pocnite sa jednim kanalom i sirite kad vidite rezultat.',
   },
   {
     q: 'Da li nam treba sajt ako imamo Instagram i Google profil?',
@@ -189,9 +189,9 @@ export default function MarketingZaKaficeIBarovePage() {
 
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[1100px] mx-auto">
-          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-3 text-center">Zasto je marketing za kafica i barove drugaciji</h2>
+          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-3 text-center">Zašto je marketing za kafica i barove drugaciji</h2>
           <p className="text-[15px] text-ink-3 mb-10 text-center max-w-[660px] mx-auto">
-            Kafic ne prodaje proizvod koji neko trazi online i narucuje kuci. Prodaje iskustvo, atmosferu i naviku. Marketing mora da privuce coveka da fizicki udje kroz vrata i da se vrati opet.
+            Kafic ne prodaje proizvod koji neko traži online i narucuje kuci. Prodaje iskustvo, atmosferu i naviku. Marketing mora da privuce coveka da fizicki udje kroz vrata i da se vrati opet.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
             {challenges.map((item) => (
@@ -207,9 +207,9 @@ export default function MarketingZaKaficeIBarovePage() {
 
       <section id="plan" className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[920px] mx-auto">
-          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-3 text-center">Sta najcesce radi za kafice, barove i kafane</h2>
+          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-3 text-center">Šta najčešće radi za kafice, barove i kafane</h2>
           <p className="text-[15px] text-ink-3 mb-10 text-center max-w-[670px] mx-auto">
-            Krecemo od kanala koji donose rezultat za lokalni ugostiteljski objekat bez velikog budzeta. Fokus je na vidljivost u kraju, atmosferu koja privlaci i sistem koji vraca goste.
+            Krecemo od kanala koji donose rezultat za lokalni ugostiteljski objekat bez velikog budžeta. Fokus je na vidljivost u kraju, atmosferu koja privlaci i sistem koji vraca goste.
           </p>
           <div className="space-y-6">
             {playbook.map((block) => (
@@ -254,9 +254,9 @@ export default function MarketingZaKaficeIBarovePage() {
 
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[780px] mx-auto bg-gradient-to-br from-amber-500/[0.10] to-orange-500/[0.08] rounded-[20px] border border-amber-500/[0.14] p-6 md:p-8 text-center">
-          <h2 className="text-[22px] md:text-[28px] font-medium text-ink mb-3">Hocete da vidimo zasto komsinica ima pun lokal, a vas ne?</h2>
+          <h2 className="text-[22px] md:text-[28px] font-medium text-ink mb-3">Hocete da vidimo zašto komsinica ima pun lokal, a vas ne?</h2>
           <p className="text-[15px] text-ink-2 leading-relaxed max-w-[620px] mx-auto mb-5">
-            Pregledamo Google profil, recenzije, Instagram prisustvo i lokalni SEO vaseg kafića. Dobijate konkretan spisak koraka koji donose vise gostiju bez velikog ulaganja.
+            Pregledamo Google profil, recenzije, Instagram prisustvo i lokalni SEO vaseg kafića. Dobijate konkretan spisak koraka koji donose više gostiju bez velikog ulaganja.
           </p>
           <div className="flex flex-wrap justify-center gap-3">
             <Link to="/kontakt" className="inline-flex items-center gap-2 bg-inv-bg text-inv-fg text-[14px] font-medium h-11 px-6 rounded-full hover:bg-inv-bg-hover transition-colors">
@@ -312,7 +312,7 @@ export default function MarketingZaKaficeIBarovePage() {
         <div className="max-w-[620px] mx-auto text-center">
           <h2 className="text-[22px] md:text-[28px] font-medium text-ink mb-4">Dobar kafic zasluzuje pune stolove svaki dan, ne samo vikendom</h2>
           <p className="text-[15px] text-ink-2 mb-6">
-            Ako hocete vise gostiju bez bacanja para na reklame koje ne donose ljude u lokal, javite se. Slozicemo plan za vas tip lokala, lokaciju i budzet.
+            Ako hocete više gostiju bez bacanja para na reklame koje ne donose ljude u lokal, javite se. Slozicemo plan za vas tip lokala, lokaciju i budžet.
           </p>
           <Link to="/kontakt" className="inline-flex items-center gap-2 bg-inv-bg text-inv-fg text-[14px] font-medium h-11 px-6 rounded-full hover:bg-inv-bg-hover transition-colors">
             Kontaktirajte nas

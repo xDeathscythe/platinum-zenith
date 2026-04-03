@@ -4,7 +4,7 @@ import usePageMeta from '../hooks/usePageMeta'
 const challenges = [
   {
     icon: '01',
-    title: 'Pacijent trazi odmah, ne bira dugo',
+    title: 'Pacijent traži odmah, ne bira dugo',
     desc: 'Kada nekome treba specijalisticki pregled, laboratorija ili hitna dijagnostika, odluka pada u minuti. Ako vas nema na prvoj strani pretrage, pacijent zove kliniku koja jeste.',
   },
   {
@@ -15,29 +15,29 @@ const challenges = [
   {
     icon: '03',
     title: 'Regulativa ogranicava nacin komunikacije',
-    desc: 'Zdravstveni marketing ima pravila oko toga sta smete tvrditi, kako prikazujete rezultate i na koji nacin komunicirate sa potencijalnim pacijentima. Greska moze da kosta reputaciju.',
+    desc: 'Zdravstveni marketing ima pravila oko toga šta smete tvrditi, kako prikazujete rezultate i na koji nacin komunicirate sa potencijalnim pacijentima. Greska može da kosta reputaciju.',
   },
   {
     icon: '04',
-    title: 'Svaka specijalizacija trazi drugaciji pristup',
+    title: 'Svaka specijalizacija traži drugaciji pristup',
     desc: 'Oftalmologija, ginekologija, ortopedija i laboratorijska dijagnostika ne privlace iste ljude, ne koriste iste reci i nemaju istu hitnost. Jedna kampanja za sve ne daje rezultat.',
   },
   {
     icon: '05',
     title: 'Konkurencija raste brze nego potraznja',
-    desc: 'Novih privatnih klinika je sve vise, a broj pacijenata koji pretrazuju na netu nije neogranicen. Pobeduje onaj ko lakse resava dilemu pacijenta u tom trenutku.',
+    desc: 'Novih privatnih klinika je sve više, a broj pacijenata koji pretrazuju na netu nije neogranicen. Pobeduje onaj ko lakse resava dilemu pacijenta u tom trenutku.',
   },
   {
     icon: '06',
     title: 'Cena pacijenta mora da ima smisla',
-    desc: 'Premium usluge imaju visoku maruzu, ali i skuplji lead. Rentabilnost zavisi od toga koliko precizno dovodite ljude koji zaista traze bas vasu specijalizaciju.',
+    desc: 'Premium usluge imaju visoku maruzu, ali i skuplji lead. Rentabilnost zavisi od toga koliko precizno dovodite ljude koji zaista traže bas vasu specijalizaciju.',
   },
 ]
 
 const playbook = [
   {
     title: 'Google Ads za pacijente sa jakom namerom',
-    desc: 'Kada neko trazi privatni pregled, specijalistu ili laboratoriju u svom gradu, to je signal da mu treba pomoc sada. Google Ads hvata te ljude u trenutku odlucivanja.',
+    desc: 'Kada neko traži privatni pregled, specijalistu ili laboratoriju u svom gradu, to je signal da mu treba pomoc sada. Google Ads hvata te ljude u trenutku odlucivanja.',
     items: [
       'Kampanje po specijalizaciji: kardiolog, dermatolog, ortoped, ginekolog, oftalmolog',
       'Lokalni intent: grad + usluga kao primarni keyword pristup',
@@ -47,17 +47,17 @@ const playbook = [
   },
   {
     title: 'SEO i Google Business za dugorocnu vidljivost',
-    desc: 'Placeni oglasi donose pacijente odmah, ali organski rezultati grade stabilnost. Google Business profil sa recenzijama i lokalni SEO cine da vas klinika bude vidljiva i bez aktivnog budzeta.',
+    desc: 'Placeni oglasi donose pacijente odmah, ali organski rezultati grade stabilnost. Google Business profil sa recenzijama i lokalni SEO cine da vas klinika bude vidljiva i bez aktivnog budžeta.',
     items: [
       'Optimizovan Google Business profil sa uslugama, lekarima i radnim vremenom',
-      'Sadrzaj koji odgovara na pitanja pacijenata pre zakazivanja',
+      'Sadržaj koji odgovara na pitanja pacijenata pre zakazivanja',
       'Lokalni SEO za svaki grad i naselje gde klinika pokriva pacijente',
       'Schema markup za medicinsku organizaciju, lekare i usluge',
     ],
   },
   {
     title: 'Sajt koji resava dilemu, ne samo opisuje usluge',
-    desc: 'Pacijent koji dodje na sajt vec ima problem. Ne treba mu katalog usluga, nego jasan odgovor na pitanje: da li ova klinika moze da mi pomogne, koliko to kosta i kako da zakazem.',
+    desc: 'Pacijent koji dodje na sajt vec ima problem. Ne treba mu katalog usluga, nego jasan odgovor na pitanje: da li ova klinika može da mi pomogne, koliko to kosta i kako da zakazem.',
     items: [
       'Stranica za svaku specijalizaciju sa opisom, cenama i biografijom lekara',
       'Sistem za online zakazivanje ili jasna forma za upit',
@@ -67,11 +67,11 @@ const playbook = [
   },
   {
     title: 'Remarketing i edukacija za duze odlucivanje',
-    desc: 'Operacije, estetski zahvati i dugotrajniji tretmani zahtevaju vreme za odluku. Remarketing vraca ljude koji su vec istrazivali, a edukativni sadrzaj gradi poverenje dok razmisljaju.',
+    desc: 'Operacije, estetski zahvati i dugotrajniji tretmani zahtevaju vreme za odluku. Remarketing vraca ljude koji su vec istrazivali, a edukativni sadržaj gradi poverenje dok razmisljaju.',
     items: [
       'Remarketing za posetioce koji su pogledali konkretnu uslugu ali nisu zakazali',
-      'Video sadrzaj sa lekarima koji objasnjava procedure jasno i bez strucnog zargona',
-      'Email nurturing za pacijente koji su ostavili kontakt ali jos razmisljaju',
+      'Video sadržaj sa lekarima koji objasnjava procedure jasno i bez strucnog zargona',
+      'Email nurturing za pacijente koji su ostavili kontakt ali još razmisljaju',
       'Testimonijali i case studies za zahvate gde je poverenje presudno',
     ],
   },
@@ -92,22 +92,22 @@ const firstMonth = [
   },
   {
     title: 'Nedelja 4',
-    text: 'Prosirujemo na sledece specijalizacije, ukljucujemo remarketing i pravimo plan za naredna 2 meseca rasta sa jasnim KPI po usluzi.',
+    text: 'Prosirujemo na sledeće specijalizacije, ukljucujemo remarketing i pravimo plan za naredna 2 meseca rasta sa jasnim KPI po usluzi.',
   },
 ]
 
 const faqs = [
   {
-    q: 'Koliki budzet treba privatnoj klinici za Google Ads?',
-    a: 'Za pocetak, 400 do 800 evra mesecno za ad spend obicno pokriva 2-3 specijalizacije u jednom gradu. Klinike sa vise lokacija ili premium uslugama idu iznad toga, ali je bitno da se budzet rasporedi po uslugama koje nose najvisu maruzu.',
+    q: 'Koliki budžet treba privatnoj klinici za Google Ads?',
+    a: 'Za pocetak, 400 do 800 evra mesecno za ad spend obicno pokriva 2-3 specijalizacije u jednom gradu. Klinike sa više lokacija ili premium uslugama idu iznad toga, ali je bitno da se budžet rasporedi po uslugama koje nose najvisu maruzu.',
   },
   {
-    q: 'Koliko brzo klinika moze da vidi nove pacijente iz kampanja?',
+    q: 'Koliko brzo klinika može da vidi nove pacijente iz kampanja?',
     a: 'Google Ads za zdravstvene usluge obicno donosi prve kvalitetne upite vec u prvoj nedelji. Realnija slika o ceni pacijenta i kvalitetu leadova formira se kroz 4 do 6 nedelja rada.',
   },
   {
     q: 'Da li smemo da koristimo pre-posle fotografije u reklamama?',
-    a: 'Google i Meta imaju stroga pravila za zdravstveni marketing. Pre-posle slike su ogranicene, ali postoje nacini da se grade poverenje i zelja bez krsenja politika: edukativni sadrzaj, video objasnjenja, recenzije i transparentan prikaz procesa.',
+    a: 'Google i Meta imaju stroga pravila za zdravstveni marketing. Pre-posle slike su ogranicene, ali postoje nacini da se grade poverenje i zelja bez krsenja politika: edukativni sadržaj, video objasnjenja, recenzije i transparentan prikaz procesa.',
   },
   {
     q: 'Kako merite uspeh kampanje za kliniku?',
@@ -123,12 +123,12 @@ const relatedLinks = [
   {
     to: '/google-reklame-cena',
     title: 'Google reklame cena',
-    desc: 'Koliko kosta Google Ads za zdravstvene usluge i kako izgleda budzet po specijalizaciji.',
+    desc: 'Koliko kosta Google Ads za zdravstvene usluge i kako izgleda budžet po specijalizaciji.',
   },
   {
     to: '/seo-optimizacija-cena',
     title: 'SEO optimizacija cena',
-    desc: 'Dugorocna vidljivost za klinike koje hoce stabilan priliv pacijenata bez zavisnosti od oglasa.',
+    desc: 'Dugorocna vidljivost za klinike koje hoće stabilan priliv pacijenata bez zavisnosti od oglasa.',
   },
   {
     to: '/izrada-wordpress-sajta-cena',
@@ -138,7 +138,7 @@ const relatedLinks = [
   {
     to: '/cene-digitalnog-marketinga',
     title: 'Cene digitalnog marketinga',
-    desc: 'Siri pregled mesecnih ulaganja za klinike koje zele kompletan digitalni marketing.',
+    desc: 'Siri pregled mesecnih ulaganja za klinike koje žele kompletan digitalni marketing.',
   },
   {
     to: '/blog/google-ads-za-privatne-klinike-cena-leada-srbija-2026',
@@ -175,7 +175,7 @@ export default function MarketingZaPrivatneKlinikePage() {
             <span className="text-ink-2">koji dovodi pacijente sa pravom namerom</span>
           </h1>
           <p className="text-[16px] md:text-[18px] text-ink-2 leading-relaxed max-w-[700px] mx-auto mb-8">
-            Privatna klinika ne raste od prisustva na mrezi. Raste kada pacijent koji trazi specijalistu u svom gradu lako nadje bas vas, razume sta nudite, koliko to kosta i zakaze pregled bez trenja. Pravimo marketing koji tacno to omogucava.
+            Privatna klinika ne raste od prisustva na mrezi. Raste kada pacijent koji traži specijalistu u svom gradu lako nadje bas vas, razume šta nudite, koliko to kosta i zakaže pregled bez trenja. Pravimo marketing koji tacno to omogucava.
           </p>
           <div className="flex flex-wrap justify-center gap-3">
             <Link to="/kontakt" className="inline-flex items-center gap-2 bg-inv-bg text-inv-fg text-[14px] font-medium h-11 px-6 rounded-full hover:bg-inv-bg-hover transition-colors">
@@ -194,9 +194,9 @@ export default function MarketingZaPrivatneKlinikePage() {
 
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[1100px] mx-auto">
-          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-3 text-center">Zasto je marketing za privatnu kliniku drugaciji</h2>
+          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-3 text-center">Zašto je marketing za privatnu kliniku drugaciji</h2>
           <p className="text-[15px] text-ink-3 mb-10 text-center max-w-[660px] mx-auto">
-            Zdravstvene usluge zahtevaju drugaciji pristup od vecine industrija. Poverenje, transparentnost i strucnost moraju da budu vidljivi pre nego sto pacijent uopste pozove.
+            Zdravstvene usluge zahtevaju drugaciji pristup od vecine industrija. Poverenje, transparentnost i strucnost moraju da budu vidljivi pre nego sto pacijent uopšte pozove.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
             {challenges.map((item) => (
@@ -212,7 +212,7 @@ export default function MarketingZaPrivatneKlinikePage() {
 
       <section id="plan" className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[920px] mx-auto">
-          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-3 text-center">Sta radi za privatne klinike</h2>
+          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-3 text-center">Šta radi za privatne klinike</h2>
           <p className="text-[15px] text-ink-3 mb-10 text-center max-w-[670px] mx-auto">
             Kombinacija Google Ads-a za hitan intent, SEO-a za dugorocnu vidljivost i sajta koji resava dilemu pacijenta pre nego sto podigne telefon.
           </p>
@@ -261,7 +261,7 @@ export default function MarketingZaPrivatneKlinikePage() {
         <div className="max-w-[780px] mx-auto bg-gradient-to-br from-blue-500/[0.10] to-green-500/[0.08] rounded-[20px] border border-blue-500/[0.14] p-6 md:p-8 text-center">
           <h2 className="text-[22px] md:text-[28px] font-medium text-ink mb-3">Hocete da vidimo gde vasa klinika gubi pacijente online?</h2>
           <p className="text-[15px] text-ink-2 leading-relaxed max-w-[620px] mx-auto mb-5">
-            Pregledamo sajt, Google profil, pretrazivost po specijalizacijama i nacin zakazivanja. Dobijate konkretan spisak koraka za vise kvalifikovanih upita i manji trosak po pacijentu.
+            Pregledamo sajt, Google profil, pretrazivost po specijalizacijama i nacin zakazivanja. Dobijate konkretan spisak koraka za više kvalifikovanih upita i manji trošak po pacijentu.
           </p>
           <div className="flex flex-wrap justify-center gap-3">
             <Link to="/kontakt" className="inline-flex items-center gap-2 bg-inv-bg text-inv-fg text-[14px] font-medium h-11 px-6 rounded-full hover:bg-inv-bg-hover transition-colors">
@@ -316,9 +316,9 @@ export default function MarketingZaPrivatneKlinikePage() {
 
       <section className="px-4 md:px-8 pb-20 md:pb-32">
         <div className="max-w-[620px] mx-auto text-center">
-          <h2 className="text-[22px] md:text-[28px] font-medium text-ink mb-4">Vasa klinika zasluzuje pacijente koji traze bas ono sto nudite</h2>
+          <h2 className="text-[22px] md:text-[28px] font-medium text-ink mb-4">Vasa klinika zasluzuje pacijente koji traže bas ono sto nudite</h2>
           <p className="text-[15px] text-ink-2 mb-6">
-            Ako zelite vise zakazivanja od ljudi koji vec traze vasu specijalizaciju, javite se. Slozicemo plan za vase usluge, grad i kapacitet tima.
+            Ako zelite više zakazivanja od ljudi koji vec traže vasu specijalizaciju, javite se. Slozicemo plan za vase usluge, grad i kapacitet tima.
           </p>
           <Link to="/kontakt" className="inline-flex items-center gap-2 bg-inv-bg text-inv-fg text-[14px] font-medium h-11 px-6 rounded-full hover:bg-inv-bg-hover transition-colors">
             Kontaktirajte nas

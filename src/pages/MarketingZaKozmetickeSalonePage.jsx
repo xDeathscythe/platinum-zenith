@@ -5,74 +5,74 @@ const challenges = [
   {
     icon: '01',
     title: 'Klijent bira po utisku, ne po struci',
-    desc: 'Medicinsku kozmetiku, tretmane lica ili klasicne manikire ljudi biraju na osnovu vizuelnog utiska, recenzija i brzine odgovora. Ako vas profil ne izgleda profesionalno, neko drugi zakazuje umesto vas.',
+    desc: 'Medicinsku kozmetiku, tretmane lica ili klasične manikire ljudi biraju na osnovu vizuelnog utiska, recenzija i brzine odgovora. Ako vas profil ne izgleda profesionalno, neko drugi zakazuje umesto vas.',
   },
   {
     icon: '02',
     title: 'Lokalna blizina presuduje',
-    desc: 'Vecina klijenata trazi salon u svom kraju. Google mapa, radno vreme, fotografije prostora i ocene odlucuju da li ce vas uopste razmotriti ili kliknuti na sledeci rezultat.',
+    desc: 'Većina klijenata traži salon u svom kraju. Google mapa, radno vreme, fotografije prostora i ocene odlučuju da li će vas uopšte razmotriti ili kliknuti na sledeći rezultat.',
   },
   {
     icon: '03',
-    title: 'Instagram donosi paznju, ali ne uvek i termin',
+    title: 'Instagram donosi pažnju, ali ne uvek i termin',
     desc: 'Reels sa tretmanima mogu da dobiju hiljade pregleda, ali bez jasnog poziva na zakazivanje i kratkog puta do potvrde, poruke ostaju bez termina.',
   },
   {
     icon: '04',
-    title: 'Prazni termini znace gubitak prihoda',
+    title: 'Prazni termini znače gubitak prihoda',
     desc: 'Rupe u rasporedu se ne pune same od sebe. Bez sistema koji popunjava slobodne slotove na vreme, salon radi ispod kapaciteta i gubi prihod koji je mogao da ostvari.',
   },
   {
     icon: '05',
-    title: 'Previse kanala, premalo sistema',
-    desc: 'Upiti stizu kroz Instagram DM, WhatsApp, Viber, pozive i komentare. Bez jednog mesta gde se sve prati, lead se izgubi pre nego sto odgovorite.',
+    title: 'Previše kanala, premalo sistema',
+    desc: 'Upiti stižu kroz Instagram DM, WhatsApp, Viber, pozive i komentare. Bez jednog mesta gde se sve prati, lead se izgubi pre nego što odgovorite.',
   },
   {
     icon: '06',
     title: 'Vrednost klijenta zavisi od usluge',
-    desc: 'Obicni manikir, hijaluron, laserski tretman i trajna depilacija nemaju istu marzu. Dobar marketing ne juri samo klikove, nego tretmane koji nose zdrav profit i vracaju klijenta.',
+    desc: 'Obicni manikir, hijaluron, laserski tretman i trajna depilacija nemaju istu maržu. Dobar marketing ne juri samo klikove, nego tretmane koji nose zdrav profit i vraćaju klijenta.',
   },
 ]
 
 const playbook = [
   {
     title: 'Google Business i lokalni SEO za klijente sa jakom namerom',
-    desc: 'Kada neko trazi kozmeticki salon u svom gradu, morate biti vidljivi odmah. U tom trenutku mapa, recenzije i jasna ponuda cesto zatvaraju odluku pre bilo kakvog sajta.',
+    desc: 'Kada neko traži kozmetički salon u svom gradu, morate biti vidljivi odmah. U tom trenutku mapa, recenzije i jasna ponuda često zatvaraju odluku pre bilo kakvog sajta.',
     items: [
       'Kompletan Google Business profil sa uslugama, cenama i fotografijama',
-      'Lokalni SEO sadrzaj za grad, naselje i tretmane koji se traze',
+      'Lokalni SEO sadržaj za grad, naselje i tretmane koji se traže',
       'Sistem za prikupljanje recenzija koje grade poverenje kod novih klijenata',
       'CTA za poziv, poruku ili online zakazivanje direktno iz pretrage',
     ],
   },
   {
     title: 'Instagram koji zakazuje, ne samo impresionira',
-    desc: 'Kozmeticki salon prirodno zivi na vizuelnim mrezama, ali rezultat dolazi tek kada kreativa i ponuda vode ka potvrdjenom terminu, ne ka praznom lajku.',
+    desc: 'Kozmetički salon prirodno živi na vizuelnim mrežama, ali rezultat dolazi tek kada kreativa i ponuda vode ka potvrđenom terminu, ne ka praznom lajku.',
     items: [
       'Before-after Reels i karuseli za tretmane sa jakim vizuelnim efektom',
       'Ponude za dane i sate koje treba hitno popuniti',
-      'Posebne kampanje za premium usluge sa vecom marzom',
+      'Posebne kampanje za premium usluge sa većom maržom',
       'Retargeting za ljude koji su pogledali profil ali nisu zakazali',
     ],
   },
   {
     title: 'Sajt ili landing koji skida trenje do zakazivanja',
-    desc: 'Klijent ne sme da pogadja sta radite, koliko ste ozbiljni i kako se zakazuje. Stranica mora da skrati put od interesovanja do potvrdjenog termina.',
+    desc: 'Klijent ne sme da pogađa šta radite, koliko ste ozbiljni i kako se zakazuje. Stranica mora da skrati put od interesovanja do potvrdjenog termina.',
     items: [
       'Jasno prikazane usluge sa cenama, opisom i trajanjem tretmana',
-      'Fotografije rada i prostora koje deluju autenticno',
+      'Fotografije rada i prostora koje deluju autentično',
       'Booking CTA iznad prevoja na mobilnom ekranu',
       'Trust elementi: recenzije, sertifikati, lokacija i iskustvo tima',
     ],
   },
   {
-    title: 'Kampanje po usluzi i marzi, ne jedna reklama za sve',
-    desc: 'Klasicni manikir, laserska depilacija, hijaluron i anti-age tretman ne traze istu poruku ni isti budzet. Profit raste kada ih odvojite po marzi i nameri klijenta.',
+    title: 'Kampanje po usluzi i marži, ne jedna reklama za sve',
+    desc: 'Klasicni manikir, laserska depilacija, hijaluron i anti-age tretman ne traže istu poruku ni isti budžet. Profit raste kada ih odvojite po marži i nameri klijenta.',
     items: [
       'Odvojene kampanje za high-ticket tretmane i usluge koje pune raspored',
       'Sezonske ponude za praznike, leto, maturske i svadbene sezone',
-      'Pracenje cene termina po usluzi, ne samo po kampanji',
-      'Prebacivanje budzeta na tretmane sa najboljim odnosom troska i prihoda',
+      'Praćenje cene termina po usluzi, ne samo po kampanji',
+      'Prebacivanje budžeta na tretmane sa najboljim odnosom troška i prihoda',
     ],
   },
 ]
@@ -80,7 +80,7 @@ const playbook = [
 const firstMonth = [
   {
     title: 'Nedelja 1',
-    text: 'Analiza salona, lokacije, recenzija, Instagrama, nacina zakazivanja i usluga koje nose najbolju marzu. Tu biramo sta ide prvo.',
+    text: 'Analiza salona, lokacije, recenzija, Instagrama, načina zakazivanja i usluga koje nose najbolju maržu. Tu biramo šta ide prvo.',
   },
   {
     title: 'Nedelja 2',
@@ -88,36 +88,36 @@ const firstMonth = [
   },
   {
     title: 'Nedelja 3',
-    text: 'Gasimo ono sto lepo izgleda, a ne zakazuje. Menjamo poruke, publike, termine i landing elemente koji koce konverziju.',
+    text: 'Gasimo ono što lepo izgleda, a ne zakazuje. Menjamo poruke, publike, termine i landing elemente koji koče konverziju.',
   },
   {
     title: 'Nedelja 4',
-    text: 'Sirimo budzet na tretmane i dane koji daju najbolji povrat, pa pravimo plan za sledecih 60 dana rasta.',
+    text: 'Širimo budžet na tretmane i dane koji daju najbolji povrat, pa pravimo plan za sledećih 60 dana rasta.',
   },
 ]
 
 const salonModes = [
   {
-    title: 'Salon koji hoce vise premium tretmana',
-    text: 'Ako su vam fokus hijaluron, anti-age, laser ili tretmani sa jacom marzom, nije dovoljno da imate lep Instagram. Potrebni su bolja selekcija publike, vise poverenja i poruka koja klijentu odmah objasnjava zasto bas taj tretman i bas kod vas.',
+    title: 'Salon koji hoće više premium tretmana',
+    text: 'Ako su vam fokus hijaluron, anti-age, laser ili tretmani sa jačom maržom, nije dovoljno da imate lep Instagram. Potrebni su bolja selekcija publike, više poverenja i poruka koja klijentu odmah objašnjava zašto baš taj tretman i baš kod vas.',
     route: '/instagram-reklame-cena',
-    routeLabel: 'Kako Meta budzet izgleda kada jurite kvalitetniji termin, ne samo vise poruka',
+    routeLabel: 'Kako Meta budžet izgleda kada jurite kvalitetniji termin, ne samo više poruka',
   },
   {
     title: 'Salon koji mora da popuni prazne slotove ove nedelje',
-    text: 'Ovde nije poenta dugorocni reach nego brza rezervacija. Kampanja mora da gura konkretne dane, sate i tretmane koji trenutno stoje prazni. Ako sve reklamirate isto, marketing deluje aktivno, a raspored ostaje neujednacen.',
+    text: 'Ovde nije poenta dugoročni reach nego brza rezervacija. Kampanja mora da gura konkretne dane, sate i tretmane koji trenutno stoje prazni. Ako sve reklamirate isto, marketing deluje aktivno, a raspored ostaje neujednačen.',
     route: '/google-reklame-cena',
-    routeLabel: 'Kada lokalna pretraga zatvara bolje od jos jednog opsteg oglasa',
+    routeLabel: 'Kada lokalna pretraga zatvara bolje od još jednog opšteg oglasa',
   },
   {
     title: 'Salon koji tek gradi lokalno poverenje',
-    text: 'Ako vas ljudi jos ne znaju dovoljno, prerano je da se ponasate kao veliki beauty brend. Tada prvo dizete recenzije, Google profil, lokalne signale i jasan dokaz da tretmani izgledaju ozbiljno i bezbedno, ne samo lepo na Reels-u.',
+    text: 'Ako vas ljudi još ne znaju dovoljno, prerano je da se ponašate kao veliki beauty brend. Tada prvo dižete recenzije, Google profil, lokalne signale i jasan dokaz da tretmani izgledaju ozbiljno i bezbedno, ne samo lepo na Reels-u.',
     route: '/industrije/lokalni-biznisi',
-    routeLabel: 'Sta lokalni biznis mora da sredi pre jacih kampanja',
+    routeLabel: 'Šta lokalni biznis mora da sredi pre jačih kampanja',
   },
   {
     title: 'Salon koji ima promet, ali nema zdrav sistem zakazivanja',
-    text: 'Neki saloni imaju dosta upita, ali sve i dalje zavisi od DM poruka, improvizacije i toga da li ce neko odmah odgovoriti. Tada problem nije samo marketing, nego to sto nema jasnog puta od interesovanja do potvrde termina i povratka klijenta.',
+    text: 'Neki saloni imaju dosta upita, ali sve i dalje zavisi od DM poruka, improvizacije i toga da li će neko odmah odgovoriti. Tada problem nije samo marketing, nego to što nema jasnog puta od interesovanja do potvrde termina i povratka klijenta.',
     route: '/cene-digitalnog-marketinga',
     routeLabel: 'Kako da marketing pratite po rezultatu, ne po aktivnosti',
   },
@@ -125,24 +125,24 @@ const salonModes = [
 
 const faqs = [
   {
-    q: 'Da li su za kozmeticki salon vazniji Instagram ili Google?',
-    a: 'Oba kanala imaju razlicitu ulogu. Google hvata ljude koji sada traze tretman u svom gradu, dok Instagram gradi zelju, poverenje i vraca ljude koji jos razmisljaju. Vecina salona profitira kad oba kanala rade zajedno.',
+    q: 'Da li su za kozmetički salon važniji Instagram ili Google?',
+    a: 'Oba kanala imaju različitu ulogu. Google hvata ljude koji sada traže tretman u svom gradu, dok Instagram gradi želju, poverenje i vraća ljude koji još razmišljaju. Većina salona profitira kad oba kanala rade zajedno.',
   },
   {
-    q: 'Koliko brzo salon moze da vidi vise zakazivanja?',
-    a: 'Ako su ponuda, booking put i lokalni signal dobro postavljeni, prvi kvalitetni upiti mogu da stignu vec u prvoj nedelji. Realnija slika o ceni termina i kvalitetu klijenta obicno se vidi kroz 3 do 6 nedelja.',
+    q: 'Koliko brzo salon može da vidi više zakazivanja?',
+    a: 'Ako su ponuda, booking put i lokalni signal dobro postavljeni, prvi kvalitetni upiti mogu da stignu već u prvoj nedelji. Realnija slika o ceni termina i kvalitetu klijenta obično se vidi kroz 3 do 6 nedelja.',
   },
   {
-    q: 'Da li salonu treba sajt ako vec ima jak Instagram profil?',
-    a: 'Najcesce da. Instagram je odlican za paznju, ali sajt ili landing pomaze klijentu da brzo vidi cene, usluge, lokaciju, recenzije i jasan sledeci korak bez lutanja kroz DM poruke.',
+    q: 'Da li salonu treba sajt ako već ima jak Instagram profil?',
+    a: 'Najčešće da. Instagram je odličan za pažnju, ali sajt ili landing pomaže klijentu da brzo vidi cene, usluge, lokaciju, recenzije i jasan sledeći korak bez lutanja kroz DM poruke.',
   },
   {
     q: 'Koje tretmane prvo reklamirate?',
-    a: 'To zavisi od cilja i kapaciteta salona, ali cesto prvo guramo tretmane koji imaju dobru marzu, jak vizuelni efekat i veci lifetime value. Poenta nije da reklamiramo sve, nego ono sto najzdravije puni kalendar.',
+    a: 'To zavisi od cilja i kapaciteta salona, ali često prvo guramo tretmane koji imaju dobru maržu, jak vizuelni efekat i veći lifetime value. Poenta nije da reklamiramo sve, nego ono što najzdravije puni kalendar.',
   },
   {
-    q: 'Koliki budzet treba za pocetak?',
-    a: 'Za Google Ads u kozmetici, realan start je 250 do 500 evra mesecno za ad spend, plus fee za vodjenje kampanje. Za Instagram, slican raspon moze da donese prve rezultate ako je kreativa i ponuda dobro postavljena.',
+    q: 'Koliki budžet treba za početak?',
+    a: 'Za Google Ads u kozmetici, realan start je 250 do 500 evra mesecno za ad spend, plus fee za vodjenje kampanje. Za Instagram, sličan raspon može da donese prve rezultate ako je kreativa i ponuda dobro postavljena.',
   },
 ]
 
@@ -150,17 +150,17 @@ const relatedLinks = [
   {
     to: '/instagram-reklame-cena',
     title: 'Instagram reklame cena',
-    desc: 'Benchmark za Meta budzet, CPC i CPA pre nego sto krenete da punite DM ili booking formu.',
+    desc: 'Benchmark za Meta budžet, CPC i CPA pre nego što krenete da punite DM ili booking formu.',
   },
   {
     to: '/google-reklame-cena',
     title: 'Google reklame cena',
-    desc: 'Ako zelite da uhvatite lokalni intent kada neko trazi salon ili tretman odmah sada.',
+    desc: 'Ako želite da uhvatite lokalni intent kada neko traži salon ili tretman odmah sada.',
   },
   {
     to: '/seo-optimizacija-cena',
     title: 'SEO optimizacija cena',
-    desc: 'Za salone koji hoce stabilniji organski priliv kroz mapu, lokalne usluge i branded pretrage.',
+    desc: 'Za salone koji hoće stabilniji organski priliv kroz mapu, lokalne usluge i branded pretrage.',
   },
   {
     to: '/izrada-wordpress-sajta-cena',
@@ -168,24 +168,24 @@ const relatedLinks = [
     desc: 'Ako vam trenutni sajt ili landing koci zakazivanja, ovde je realan okvir ulaganja.',
   },
   {
-    to: '/drustvene-mreze',
-    title: 'Drustvene mreze',
-    desc: 'Siri pregled contenta, community rada i placenih kampanja za brendove na drustvenim mrezama.',
+    to: '/društvene-mreže',
+    title: 'Društvene mreže',
+    desc: 'Siri pregled contenta, community rada i placenih kampanja za brendove na društvenim mrežama.',
   },
   {
     to: '/blog/instagram-reklame-za-kozmeticke-salone-cena-termina-srbija-2026',
-    title: 'Instagram reklame za kozmeticke salone',
-    desc: 'Detaljan vodic: koliko kosta Instagram reklama za kozmeticki salon, koji budzet ima smisla i kako meriti popunjenost kalendara.',
+    title: 'Instagram reklame za kozmetičke salone',
+    desc: 'Detaljan vodič: koliko košta Instagram reklama za kozmetički salon, koji budžet ima smisla i kako meriti popunjenost kalendara.',
   },
   {
     to: '/blog/google-ads-za-kozmeticki-salon-cena-termina-srbija-2026',
-    title: 'Google Ads za kozmeticke salone',
-    desc: 'Koliko kostaju Google reklame za salon, koji budzet ima smisla i kako da dovedete klijente koji vec traze vas tip tretmana.',
+    title: 'Google Ads za kozmetičke salone',
+    desc: 'Koliko koštaju Google reklame za salon, koji budžet ima smisla i kako da dovedete klijente koji već traže vas tip tretmana.',
   },
   {
     to: '/blog/seo-za-kozmeticke-salone-cena-srbija-2026',
-    title: 'SEO za kozmeticke salone',
-    desc: 'Cena lokalnog SEO-a za kozmeticke salone, sta ulazi u optimizaciju i kako meriti rezultat kroz zakazane termine.',
+    title: 'SEO za kozmetičke salone',
+    desc: 'Cena lokalnog SEO-a za kozmetičke salone, šta ulazi u optimizaciju i kako meriti rezultat kroz zakazane termine.',
   },
 ]
 
@@ -200,14 +200,14 @@ export default function MarketingZaKozmetickeSalonePage() {
           <div className="absolute inset-0 only-light" style={{ background: 'radial-gradient(ellipse at 22% 20%, rgba(236,72,153,0.08) 0%, transparent 48%), radial-gradient(ellipse at 78% 78%, rgba(168,85,247,0.06) 0%, transparent 52%)' }} />
         </div>
         <div className="relative z-10 max-w-[860px] mx-auto text-center">
-          <span className="inline-block text-[11px] uppercase tracking-[0.2em] text-ink-3 mb-5">Industrija - kozmeticki saloni</span>
+          <span className="inline-block text-[11px] uppercase tracking-[0.2em] text-ink-3 mb-5">Industrija - kozmetički saloni</span>
           <h1 className="text-[30px] md:text-[50px] font-medium leading-[1.08] tracking-[-1px] text-ink mb-5">
-            Marketing za kozmeticke salone
+            Marketing za kozmetičke salone
             <br />
             <span className="text-ink-2">koji puni kalendar vrednim terminima</span>
           </h1>
           <p className="text-[16px] md:text-[18px] text-ink-2 leading-relaxed max-w-[700px] mx-auto mb-8">
-            Kozmeticki salon ne raste zato sto objavljuje vise slika tretmana. Raste kada napravi lokalnu vidljivost, jasnu zelju za konkretnom uslugom i kratak put do zakazivanja. Pravimo sistem koji donosi vise termina i manji trosak po klijentu.
+            Kozmetički salon ne raste zato što objavljuje više slika tretmana. Raste kada napravi lokalnu vidljivost, jasnu želju za konkretnom uslugom i kratak put do zakazivanja. Pravimo sistem koji donosi više termina i manji trošak po klijentu.
           </p>
           <div className="flex flex-wrap justify-center gap-3">
             <Link to="/kontakt" className="inline-flex items-center gap-2 bg-inv-bg text-inv-fg text-[14px] font-medium h-11 px-6 rounded-full hover:bg-inv-bg-hover transition-colors">
@@ -219,16 +219,16 @@ export default function MarketingZaKozmetickeSalonePage() {
             </a>
           </div>
           <p className="text-[13px] text-ink-3 mt-5 max-w-[650px] mx-auto">
-            Ako vec testirate Meta kampanje, pogledajte i <Link to="/instagram-reklame-cena" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">Instagram reklame cena</Link>. Ako sajt ne zakazuje, koristan je i vodic za <Link to="/izrada-wordpress-sajta-cena" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">izradu WordPress sajta</Link>.
+            Ako već testirate Meta kampanje, pogledajte i <Link to="/instagram-reklame-cena" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">Instagram reklame cena</Link>. Ako sajt ne zakazuje, koristan je i vodič za <Link to="/izrada-wordpress-sajta-cena" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">izradu WordPress sajta</Link>.
           </p>
         </div>
       </section>
 
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[1100px] mx-auto">
-          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-3 text-center">Zasto je marketing za kozmeticki salon drugaciji</h2>
+          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-3 text-center">Zašto je marketing za kozmetički salon drugačiji</h2>
           <p className="text-[15px] text-ink-3 mb-10 text-center max-w-[660px] mx-auto">
-            Ovde ne pobedjuje salon sa najjacim budzetom. Pobedjuje onaj koji deluje najpouzdanije, najblize i najlakse za zakazivanje bas kada klijent pozeli tretman.
+            Ovde ne pobeđuje salon sa najjačim budžetom. Pobeđuje onaj koji deluje najpouzdanije, najbliže i najlakše za zakazivanje baš kada klijent poželi tretman.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
             {challenges.map((item) => (
@@ -244,9 +244,9 @@ export default function MarketingZaKozmetickeSalonePage() {
 
       <section id="plan" className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[920px] mx-auto">
-          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-3 text-center">Sta najcesce radi za kozmeticki salon</h2>
+          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-3 text-center">Šta najčešće radi za kozmetički salon</h2>
           <p className="text-[15px] text-ink-3 mb-10 text-center max-w-[670px] mx-auto">
-            Krecemo od kanala i usluga koji realno mogu da dignu broj zakazivanja. Ne pravimo aktivnost radi aktivnosti, nego marketing koji puni kalendar pravim tretmanima.
+            Krećemo od kanala i usluga koji realno mogu da dignu broj zakazivanja. Ne pravimo aktivnost radi aktivnosti, nego marketing koji puni kalendar pravim tretmanima.
           </p>
           <div className="space-y-6">
             {playbook.map((block) => (
@@ -270,9 +270,9 @@ export default function MarketingZaKozmetickeSalonePage() {
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[980px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
           <div className="max-w-[760px] mx-auto text-center mb-8">
-            <h2 className="text-[24px] md:text-[30px] font-medium text-ink mb-3">Sta radi za salon koji hoce vise termina, ali i bolju vrstu termina</h2>
+            <h2 className="text-[24px] md:text-[30px] font-medium text-ink mb-3">Šta radi za salon koji hoće više termina, ali i bolju vrstu termina</h2>
             <p className="text-[15px] text-ink-2 leading-relaxed">
-              Nije svaki kozmeticki salon u istoj fazi. Nekome trebaju premium tretmani, nekome popuna praznih slotova, a nekome tek lokalno poverenje. Kad to ne odvojite, marketing lako sklizne u objave i kampanje koje lepo izgledaju, a ne resavaju pravi problem.
+              Nije svaki kozmetički salon u istoj fazi. Nekome trebaju premium tretmani, nekome popuna praznih slotova, a nekome tek lokalno poverenje. Kad to ne odvojite, marketing lako sklizne u objave i kampanje koje lepo izgledaju, a ne rešavaju pravi problem.
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -287,7 +287,7 @@ export default function MarketingZaKozmetickeSalonePage() {
             ))}
           </div>
           <p className="text-[14px] text-ink-3 leading-relaxed mt-8 text-center max-w-[760px] mx-auto">
-            Ako niste sigurni da li salon prvo treba da dize premium usluge, da puni prazne slotove ili da sredi lokalno poverenje, posaljite nam kratak opis kroz <Link to="/kontakt" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">kontakt formu</Link> i reci cemo vam odakle ima smisla krenuti.
+            Ako niste sigurni da li salon prvo treba da diže premium usluge, da puni prazne slotove ili da sredi lokalno poverenje, pošaljite nam kratak opis kroz <Link to="/kontakt" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">kontakt formu</Link> i reći ćemo vam odakle ima smisla krenuti.
           </p>
         </div>
       </section>
@@ -295,9 +295,9 @@ export default function MarketingZaKozmetickeSalonePage() {
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[920px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
           <div className="max-w-[720px] mx-auto text-center mb-8">
-            <h2 className="text-[24px] md:text-[30px] font-medium text-ink mb-3">Prvih 30 dana bez prazne price</h2>
+            <h2 className="text-[24px] md:text-[30px] font-medium text-ink mb-3">Prvih 30 dana bez prazne priče</h2>
             <p className="text-[15px] text-ink-2 leading-relaxed">
-              Cilj prvog meseca nije da salon samo izgleda aktivnije na mrezi. Cilj je da brzo vidimo koji tretmani, termini i kanali daju najbolji odnos troska i zakazivanja.
+              Cilj prvog meseca nije da salon samo izgleda aktivnije na mreži. Cilj je da brzo vidimo koji tretmani, termini i kanali daju najbolji odnos troška i zakazivanja.
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -309,20 +309,20 @@ export default function MarketingZaKozmetickeSalonePage() {
             ))}
           </div>
           <p className="text-[14px] text-ink-3 leading-relaxed mt-6 text-center max-w-[700px] mx-auto">
-            Ako zelite siri pregled ulaganja po kanalu, pogledajte i <Link to="/google-reklame-cena" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">Google reklame cena</Link>, <Link to="/instagram-reklame-cena" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">Instagram reklame cena</Link> i <Link to="/seo-optimizacija-cena" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">SEO optimizacija cena</Link>.
+            Ako želite širi pregled ulaganja po kanalu, pogledajte i <Link to="/google-reklame-cena" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">Google reklame cena</Link>, <Link to="/instagram-reklame-cena" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">Instagram reklame cena</Link> i <Link to="/seo-optimizacija-cena" className="text-ink underline decoration-1 underline-offset-4 hover:opacity-80">SEO optimizacija cena</Link>.
           </p>
         </div>
       </section>
 
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[780px] mx-auto bg-gradient-to-br from-pink-500/[0.10] to-purple-500/[0.08] rounded-[20px] border border-pink-500/[0.14] p-6 md:p-8 text-center">
-          <h2 className="text-[22px] md:text-[28px] font-medium text-ink mb-3">Hocete da vidimo gde salon trenutno gubi termine?</h2>
+          <h2 className="text-[22px] md:text-[28px] font-medium text-ink mb-3">Hoćete da vidimo gde salon trenutno gubi termine?</h2>
           <p className="text-[15px] text-ink-2 leading-relaxed max-w-[620px] mx-auto mb-5">
-            Pregledamo Google profil, Instagram, sajt, ponudu i nacin zakazivanja. Dobijate konkretan spisak sledecih koraka za vise termina i manje praznih slotova.
+            Pregledamo Google profil, Instagram, sajt, ponudu i način zakazivanja. Dobijate konkretan spisak sledećih koraka za više termina i manje praznih slotova.
           </p>
           <div className="flex flex-wrap justify-center gap-3">
             <Link to="/kontakt" className="inline-flex items-center gap-2 bg-inv-bg text-inv-fg text-[14px] font-medium h-11 px-6 rounded-full hover:bg-inv-bg-hover transition-colors">
-              Zakazite analizu
+              Zakažite analizu
               <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
             </Link>
             <Link to="/cene-digitalnog-marketinga" className="inline-flex items-center gap-2 text-ink-2 text-[14px] font-medium h-11 px-6 rounded-full border border-edge hover:bg-tint transition-colors">
@@ -334,7 +334,7 @@ export default function MarketingZaKozmetickeSalonePage() {
 
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[960px] mx-auto">
-          <h2 className="text-[24px] md:text-[30px] font-medium text-ink mb-8 text-center">Srodne teme za kozmeticke salone</h2>
+          <h2 className="text-[24px] md:text-[30px] font-medium text-ink mb-8 text-center">Srodne teme za kozmetičke salone</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             {relatedLinks.map((item) => (
               <Link key={item.to} to={item.to} className="bg-panel rounded-[18px] border border-edge p-5 hover:border-ink-4 transition-colors">
@@ -356,7 +356,7 @@ export default function MarketingZaKozmetickeSalonePage() {
 
       <section id="faq" className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[760px] mx-auto">
-          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-10 text-center">Cesto postavljana pitanja</h2>
+          <h2 className="text-[26px] md:text-[34px] font-medium text-ink mb-10 text-center">Često postavljana pitanja</h2>
           <div className="space-y-5">
             {faqs.map((item) => (
               <details key={item.q} className="group bg-panel rounded-[14px] border border-edge">
@@ -373,9 +373,9 @@ export default function MarketingZaKozmetickeSalonePage() {
 
       <section className="px-4 md:px-8 pb-20 md:pb-32">
         <div className="max-w-[620px] mx-auto text-center">
-          <h2 className="text-[22px] md:text-[28px] font-medium text-ink mb-4">Dobar salon zasluzuje da ga klijenti lakse pronadju i zakazuju</h2>
+          <h2 className="text-[22px] md:text-[28px] font-medium text-ink mb-4">Dobar salon zaslužuje da ga klijenti lakše pronađu i zakazuju</h2>
           <p className="text-[15px] text-ink-2 mb-6">
-            Ako hocete vise termina bez bacanja budzeta na prazne klikove, javite se. Slozicemo plan za vas grad, tip usluge i kapacitet tima.
+            Ako hoćete više termina bez bacanja budžeta na prazne klikove, javite se. Složićemo plan za vas grad, tip usluge i kapacitet tima.
           </p>
           <Link to="/kontakt" className="inline-flex items-center gap-2 bg-inv-bg text-inv-fg text-[14px] font-medium h-11 px-6 rounded-full hover:bg-inv-bg-hover transition-colors">
             Kontaktirajte nas
