@@ -18,7 +18,7 @@ const services = [
     title: 'Društvene mreže',
     desc: 'Strategija, sadržaj i oglasi na Facebook-u i Instagram-u. Fokus na konkretne rezultate, ne samo lajkove.',
     icon: '📱',
-    link: '/drustvene-mreze',
+    link: '/društvene-mreže',
   },
   {
     title: 'Google Ads',

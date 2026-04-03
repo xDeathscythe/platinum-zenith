@@ -186,7 +186,7 @@ export default function CeneDigitalnogMarketingaPage() {
       {/* Hidden costs */}
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[760px] mx-auto">
-          <h2 id="skriveni-troskovi" className="text-[26px] md:text-[34px] font-medium text-ink mb-10 text-center">Troškovi koje mnogi zaborave</h2>
+          <h2 id="skriveni-troškovi" className="text-[26px] md:text-[34px] font-medium text-ink mb-10 text-center">Troškovi koje mnogi zaborave</h2>
           <div className="space-y-8">
             {hiddenCosts.map(h => (
               <div key={h.title}>
@@ -201,13 +201,13 @@ export default function CeneDigitalnogMarketingaPage() {
       {/* Budget planning */}
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[760px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
-          <h2 id="kako-odrediti-budzet" className="text-[22px] md:text-[26px] font-medium text-ink mb-4">Kako da odredite budžet bez nagađanja</h2>
+          <h2 id="kako-odrediti-budžet" className="text-[22px] md:text-[26px] font-medium text-ink mb-4">Kako da odredite budžet bez nagađanja</h2>
           <p className="text-[15px] text-ink-2 leading-relaxed mb-6">
             Ako želite da marketing bude investicija, a ne trošak, budžet mora biti vezan za cilj prihoda i maržu, ne za osećaj. Ovaj okvir koristimo kao početnu kalkulaciju pre prve kampanje.
           </p>
           <span id="cilj-prihoda" className="block h-0 overflow-hidden" aria-hidden="true" />
           <span id="maksimalni-cpl-cpa" className="block h-0 overflow-hidden" aria-hidden="true" />
-          <span id="raspodela-budzeta" className="block h-0 overflow-hidden" aria-hidden="true" />
+          <span id="raspodela-budžeta" className="block h-0 overflow-hidden" aria-hidden="true" />
           <span id="period-optimizacije" className="block h-0 overflow-hidden" aria-hidden="true" />
           <ol className="space-y-3">
             {budgetPlanningSteps.map((step, idx) => (

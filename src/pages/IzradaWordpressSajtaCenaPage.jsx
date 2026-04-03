@@ -38,12 +38,12 @@ const pricingModels = [
   {
     name: 'Fiksna projektna cena',
     range: '400 - 4.500 EUR',
-    description: 'Najcesci model kada je scope jasan: znas ukupnu cenu, rok i tacno sta ulazi u isporuku.',
+    description: 'Najcesci model kada je scope jasan: znas ukupnu cenu, rok i tacno šta ulazi u isporuku.',
   },
   {
     name: 'Milestone naplata (40/40/20)',
     range: '900 - 9.000 EUR',
-    description: 'Placanje kroz faze (start, staging, launch) daje bolju kontrolu rizika za obe strane.',
+    description: 'Plaćanje kroz faze (start, staging, launch) daje bolju kontrolu rizika za obe strane.',
   },
   {
     name: 'Time & material',
@@ -66,12 +66,12 @@ const deliveryTimelines = [
   {
     project: 'Poslovni WordPress',
     timeline: '2 - 5 nedelja',
-    note: 'Vise sekcija, blog, tracking i detaljniji sadrzaj.',
+    note: 'Više sekcija, blog, tracking i detaljniji sadržaj.',
   },
   {
     project: 'WordPress + WooCommerce',
     timeline: '4 - 8 nedelja',
-    note: 'Katalog, checkout, placanja i QA kroz realne kupovine.',
+    note: 'Katalog, checkout, plaćanja i QA kroz realne kupovine.',
   },
   {
     project: 'Custom WordPress sistem',
@@ -186,10 +186,10 @@ const maintenanceTiers = [
 
 const handoverDeliverables = [
   'Admin pristupi i vlasnistvo nad svim nalozima',
-  'Backup + restore procedura koju tim moze da prati',
+  'Backup + restore procedura koju tim može da prati',
   'Lista plugin licenci i datuma obnove',
   'GA4/GTM mapa dogadjaja i konverzija',
-  'Kratko editor uputstvo za izmene sadrzaja',
+  'Kratko editor uputstvo za izmene sadržaja',
   '90-dnevni backlog prioriteta posle launch-a',
 ]
 
@@ -295,8 +295,8 @@ const faqs = [
 
 const relatedPosts = [
   'izrada-wordpress-sajta-cena-po-tipu-biznisa-srbija-2026',
-  'cena-odrzavanja-wordpress-sajta-srbija-2026',
-  'izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu',
+  'cena-održavanja-wordpress-sajta-srbija-2026',
+  'izrada-landing-stranice-cena-rokovi-šta-ulazi-u-cenu',
 ]
   .map((slug) => blogIndexPosts.find((post) => post.slug === slug))
   .filter(Boolean)
@@ -499,9 +499,9 @@ export default function IzradaWordpressSajtaCenaPage() {
 
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[980px] mx-auto">
-          <h2 id="maintenance-tiers" className="text-[24px] md:text-[32px] font-medium text-ink mb-6 text-center">Paketi odrzavanja posle launch-a</h2>
+          <h2 id="maintenance-tiers" className="text-[24px] md:text-[32px] font-medium text-ink mb-6 text-center">Paketi održavanja posle launch-a</h2>
           <p className="text-[14px] text-ink-3 leading-relaxed text-center mb-8 max-w-[760px] mx-auto">
-            Kada sajt pocne da donosi upite ili prodaju, maintenance vise nije "tehnicki trosak" nego osiguranje prihoda. Ovi rasponi pomazu da izaberes nivo podrške prema riziku koji nosi tvoj biznis model.
+            Kada sajt pocne da donosi upite ili prodaju, maintenance više nije "tehnički trošak" nego osiguranje prihoda. Ovi rasponi pomazu da izaberes nivo podrške prema riziku koji nosi tvoj biznis model.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             {maintenanceTiers.map((tier) => (
@@ -567,9 +567,9 @@ export default function IzradaWordpressSajtaCenaPage() {
 
       <section className="px-4 md:px-8 pb-16 md:pb-24">
         <div className="max-w-[760px] mx-auto bg-panel rounded-[20px] border border-edge p-6 md:p-8">
-          <h2 id="handover-deliverables" className="text-[22px] md:text-[28px] font-medium text-ink mb-5">Sta mora da bude deo handover-a</h2>
+          <h2 id="handover-deliverables" className="text-[22px] md:text-[28px] font-medium text-ink mb-5">Šta mora da bude deo handover-a</h2>
           <p className="text-[14px] text-ink-3 leading-relaxed mb-5">
-            Ako ove stavke nisu eksplicitno predate, maintenance obicno postaje skuplji vec u prvih 60 dana. Trazi ih kao deo finalne isporuke.
+            Ako ove stavke nisu eksplicitno predate, maintenance obicno postaje skuplji vec u prvih 60 dana. Traži ih kao deo finalne isporuke.
           </p>
           <ul className="space-y-3">
             {handoverDeliverables.map((item, index) => (

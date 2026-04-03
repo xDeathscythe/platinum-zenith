@@ -353,7 +353,7 @@ export default function InstagramReklameCenaPage() {
       </section>
 
       <section className="px-4 md:px-8 pb-16 md:pb-24">
-        <div id="test-budzet" className="max-w-[1100px] mx-auto">
+        <div id="test-budžet" className="max-w-[1100px] mx-auto">
           <h2 id="budget-tiers" className="text-[26px] md:text-[34px] font-medium text-ink mb-10 text-center">Budžeti po fazama</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-5 items-stretch">
             {budgetTiers.map(t => (
