@@ -1317,75 +1317,75 @@ Tražite stručan tim koji može podići performanse vaše prodavnice, [kontakti
     category: 'Marketing',
     readTime: '8 min',
     content: `
-## Platforma koja je redefinisala oglasavanje
+## Platforma koja je redefinisala oglašavanje
 
-Ako jos uvek mislite da je TikTok "aplikacija za decu koja plesu", vasa konkurencija vam upravo preuzima kupce. Sa **1.9 milijardi** aktivnih korisnika mesecno u 2026. godini, TikTok je postao gigant e-commerce i digitalnog oglasavanja.
+Ako još uvek mislite da je TikTok "aplikacija za decu koja plešu", vaša konkurencija vam upravo preuzima kupce. Sa **1.9 milijardi** aktivnih korisnika mesečno u 2026. godini, TikTok je postao gigant e-commerce i digitalnog oglašavanja.
 
-Podaci pokazuju jasnu promenu: TikTok vise nije samo platforma za svest o brendu (brand awareness). To je sada "bottom of the funnel" masina za direktnu prodaju.
+Podaci pokazuju jasnu promenu: TikTok više nije samo platforma za svest o brendu (brand awareness). To je sada "bottom of the funnel" mašina za direktnu prodaju.
 
-Evo konkretnih benchmark podataka koji ce vam pomoci da isplanirate vas [digitalni marketing](/digitalni-marketing) budzet za 2026.
+Evo konkretnih benchmark podataka koji će vam pomoći da isplanirate vaš [digitalni marketing](/digitalni-marketing) budžet za 2026.
 
-## Demografija: kupovna moc na TikToku
+## Demografija: kupovna moć na TikToku
 
-Mit o tome da su na TikToku samo tinejdzeri je davno srusen:
+Mit o tome da su na TikToku samo tinejdžeri je davno srušen:
 
-- **25-34 godine:** 35.3% korisnika (najveca demografska grupa)
-- **35-44 godine:** belezi najveci rast od cak **34%** u odnosu na proslu godinu
-- **18-34 godine:** cini 78% celokupne aktivne baze korisnika
+- **25-34 godine:** 35.3% korisnika (najveća demografska grupa)
+- **35-44 godine:** beleži najveći rast od čak **34%** u odnosu na prošlu godinu
+- **18-34 godine:** čini 78% celokupne aktivne baze korisnika
 
-Polna struktura je skoro izjednacena, sa 54.5% muskaraca i 45.5% zena globalno. Korisnici provode neverovatnih **95 minuta dnevno** na aplikaciji. To je vise od sat i po vremena svakog dana gde algoritmi analiziraju njihova interesovanja sa laserskom preciznoscu.
+Polna struktura je skoro izjednačena, sa 54.5% muškaraca i 45.5% žena globalno. Korisnici provode neverovatnih **95 minuta dnevno** na aplikaciji. To je više od sat i po vremena svakog dana gde algoritmi analiziraju njihova interesovanja sa laserskom preciznošću.
 
-Za detaljno poredjenje korisnika na razlicitim platformama, procitajte nas vodic o [drustvenim mrezama u brojevima](/blog/drustvene-mreze-statistika-korisnici-engagement-vreme-ad-spend-2026).
+Za detaljno poređenje korisnika na različitim platformama, pročitajte naš vodič o [društvenim mrežama u brojevima](/blog/drustvene-mreze-statistika-korisnici-engagement-vreme-ad-spend-2026).
 
-## Engagement (Angazovanost): Zasto TikTok dominira
+## Engagement (Angažovanost): Zašto TikTok dominira
 
-Algoritam TikToka (For You Page) se fundamentalno razlikuje od Instagrama ili Facebooka. On ne prikazuje sadrzaj na osnovu toga koga pratite, vec na osnovu onoga sto vas zadrzava da gledate. To omogucava nerealne stope angazovanosti.
+Algoritam TikToka (For You Page) se fundamentalno razlikuje od Instagrama ili Facebooka. On ne prikazuje sadržaj na osnovu toga koga pratite, već na osnovu onoga što vas zadržava da gledate. To omogućava nerealne stope angažovanosti.
 
-- **Prosecan engagement rate:** 4.90% (vise od bilo koje druge velike platforme)
-- **Nalozi ispod 10k pratilaca (Nano-influenseri):** 4.7% do cak 10.3% engagement rate
+- **Prosečan engagement rate:** 4.90% (više od bilo koje druge velike platforme)
+- **Nalozi ispod 10k pratilaca (Nano-influenseri):** 4.7% do čak 10.3% engagement rate
 
-Ono sto je najvaznije za brendove: **"Lo-fi" sadrzaj pobedjuje.** Videi snimljeni telefonom, koji izgledaju autenticno (User-Generated Content - UGC), generisu daleko vise komentara i interakcija od visokobudzetnih, ispoliranih reklama. 
+Ono što je najvažnije za brendove: **"Lo-fi" sadržaj pobeđuje.** Videi snimljeni telefonom, koji izgledaju autentično (User-Generated Content - UGC), generišu daleko više komentara i interakcija od visokobudžetnih, ispoliranih reklama.
 
-Detalje o uticaju kreatora mozete pronaci u nasem tekstu o [influencer marketing statistici](/blog/influencer-marketing-statistika-roi-mikro-influenseri-ugc-2026).
+Detalje o uticaju kreatora možete pronaći u našem tekstu o [influencer marketing statistici](/blog/influencer-marketing-statistika-roi-mikro-influenseri-ugc-2026).
 
-## ROI i Konverzije: Masina za e-commerce
+## ROI i Konverzije: Mašina za e-commerce
 
-Ovo je deo koji najvise zanima vlasnike firmi. Koliko TikTok zaista prodaje?
+Ovo je deo koji najviše zanima vlasnike firmi. Koliko TikTok zaista prodaje?
 
-- **45.5% korisnika** u SAD-u ce napraviti kupovinu preko platforme u 2026. To je najvisi procenat medju svim drustvenim mrezama.
-- Zapanjujucih **39% SVIH kupovina** na internetu je na neki nacin pod uticajem TikTok sadrzaja.
-- TikTok oglasi generisu **1.8x visu nameru za kupovinu** od TV oglasa i 1.4x visu od drugih drustvenih mreza.
+- **45.5% korisnika** u SAD-u će napraviti kupovinu preko platforme u 2026. To je najviši procenat među svim društvenim mrežama.
+- Zapanjujućih **39% SVIH kupovina** na internetu je na neki način pod uticajem TikTok sadržaja.
+- TikTok oglasi generišu **1.8x višu nameru za kupovinu** od TV oglasa i 1.4x višu od drugih društvenih mreža.
 - **92% korisnika** preduzima akciju (lajk, komentar, share, KUPNJA) nakon gledanja videa.
 
 ### TikTok Shop menja pravila igre
 
-Uvodjenjem TikTok Shop-a, korisnici kupuju bez napustanja aplikacije, sto je rezultiralo neverovatnim stopama konverzije:
+Uvođenjem TikTok Shop-a, korisnici kupuju bez napuštanja aplikacije, što je rezultiralo neverovatnim stopama konverzije:
 
-- Prosecna TikTok Shop konverzija: **3.4%**
-- Affiliate sadrzaj: **3-6%**
+- Prosečna TikTok Shop konverzija: **3.4%**
+- Affiliate sadržaj: **3-6%**
 - TikTok LIVE prodaja: neverovatnih **5% do 12% konverzije**
 
-Za poredjenje standardnih e-commerce konverzija, pogledajte nas tekst o [mobilnom marketingu i m-commerce-u](/blog/mobilni-marketing-i-m-commerce-statistika-2026).
+Za poređenje standardnih e-commerce konverzija, pogledajte naš tekst o [mobilnom marketingu i m-commerce-u](/blog/mobilni-marketing-i-m-commerce-statistika-2026).
 
-## Cene oglasavanja (CPM i CPC Benchmark)
+## Cene oglašavanja (CPM i CPC Benchmark)
 
-S obzirom na globalni ad revenue koji se blizi cifri od **34.8 milijardi dolara**, oglasavanje na TikToku poskupljuje, ali je i dalje isplativije od tradicionalnih platformi za odredjene nise.
+S obzirom na globalni ad revenue koji se bliži cifri od **34.8 milijardi dolara**, oglašavanje na TikToku poskupljuje, ali je i dalje isplativije od tradicionalnih platformi za određene niše.
 
-- **CPM (Cena za 1.000 prikaza):** U proseku varira oko $3.21, s tim da u SAD-u i UK-u moze dostici i $9.16. I dalje povoljnije od [LinkedIn Ads](/blog/b2b-marketing-statistika-lead-generation-prodajni-ciklus-linkedin-2026).
-- **CPC (Cena po kliku):** Generalni prosek je oko $0.22, sa rasponom do $1.00 u zavisnosti od trzista i industrije.
-- **Video View kampanje:** CPC moze biti veci (oko $6.08), jer ciljate korisnike koji ce odgledati video do kraja.
+- **CPM (Cena za 1.000 prikaza):** U proseku varira oko $3.21, s tim da u SAD-u i UK-u može dostići i $9.16. I dalje povoljnije od [LinkedIn Ads](/blog/b2b-marketing-statistika-lead-generation-prodajni-ciklus-linkedin-2026).
+- **CPC (Cena po kliku):** Generalni prosek je oko $0.22, sa rasponom do $1.00 u zavisnosti od tržišta i industrije.
+- **Video View kampanje:** CPC može biti veći (oko $6.08), jer ciljate korisnike koji će odgledati video do kraja.
 
-Iako su CPC i CPM relativno niski, prava vrednost TikToka lezi u tome sto organski (besplatan) doseg cesto moze da prevazidje placene kampanje, ukoliko je sadrzaj kreiran u formatu koji platforma favorizuje (autenticnost, trendovi, kratak format). Vise o tome procitajte u nasem clanku o [video marketing statistici](/blog/video-marketing-statistika-roi-kratki-video-youtube-tiktok-reels-2026).
+Iako su CPC i CPM relativno niski, prava vrednost TikToka leži u tome što organski (besplatan) doseg često može da prevaziđe plaćene kampanje, ukoliko je sadržaj kreiran u formatu koji platforma favorizuje (autentičnost, trendovi, kratak format). Više o tome pročitajte u našem članku o [video marketing statistici](/blog/video-marketing-statistika-roi-kratki-video-youtube-tiktok-reels-2026).
 
 ## Kako optimizovati TikTok strategiju za 2026?
 
-1. **UGC je kralj:** Nemojte praviti reklame, pravite TikTokove. Angazujte stvarne korisnike vaseg proizvoda (mikro-influensere) da ga koriste u svakodnevnom zivotu.
-2. **Prvih 3 sekunde su sve:** Morate zaustaviti palac ("hook"). Ako korisnik ne oseti vrednost ili zabavu odmah, prelazi na sledeci video.
-3. **Povezani zvuk i muzika:** Zvuk nije opcija na TikToku, on je osnova. Koristite popularne (trending) audio zapise, ali osigurajte da imate prava za koriscenje u komercijalne svrhe (Commercial Music Library).
-4. **Iskoristite TikTok Shop i affiliate:** Ukoliko e-commerce platforma to omogucava u vasoj zemlji, integrisite katalog direktno u videe.
-5. **Budite strpljivi sa algoritmom:** Algoritmu je potrebno od 50 do 100 konverzija da bi "naucio" ko su vasi idealni kupci za TikTok Ads.
+1. **UGC je kralj:** Nemojte praviti reklame, pravite TikTokove. Angažujte stvarne korisnike vašeg proizvoda (mikro-influenseri) da ga koriste u svakodnevnom životu.
+2. **Prvih 3 sekunde su sve:** Morate zaustaviti palac ("hook"). Ako korisnik ne oseti vrednost ili zabavu odmah, prelazi na sledeći video.
+3. **Povezani zvuk i muzika:** Zvuk nije opcija na TikToku, on je osnova. Koristite popularne (trending) audio zapise, ali osigurajte da imate prava za korišćenje u komercijalne svrhe (Commercial Music Library).
+4. **Iskoristite TikTok Shop i affiliate:** Ukoliko e-commerce platforma to omogućava u vašoj zemlji, integrišite katalog direktno u videe.
+5. **Budite strpljivi sa algoritmom:** Algoritmu je potrebno od 50 do 100 konverzija da bi "naučio" ko su vaši idealni kupci za TikTok Ads.
 
-Zelite li da vas brend dominira na TikToku i generise realne prihode, a ne samo preglede? [Kontaktirajte Platinum Zenith tim](/kontakt) za besplatnu analizu i strategiju prilagodjenu vasem trzistu.
+Želite li da vaš brend dominira na TikToku i generiše realne prihode, a ne samo preglede? [Kontaktirajte Platinum Zenith tim](/kontakt) za besplatnu analizu i strategiju prilagođenu vašem tržištu.
 `,
     schema: {
       "@context": "https://schema.org",
@@ -1394,126 +1394,126 @@ Zelite li da vas brend dominira na TikToku i generise realne prihode, a ne samo 
       "datePublished": "2026-03-26",
       "author": { "@type": "Organization", "name": "Platinum Zenith" },
       "publisher": { "@type": "Organization", "name": "Platinum Zenith", "url": "https://platinumzenith.com" },
-      "description": "TikTok konvertuje 45.5% korisnika u kupce. Prosecan engagement 4.90%, TikTok Shop konverzija do 12%. Pogledajte benchmark podatke za 2026. godinu.",
+      "description": "TikTok konvertuje 45.5% korisnika u kupce. Prosečan engagement 4.90%, TikTok Shop konverzija do 12%. Pogledajte benchmark podatke za 2026. godinu.",
       "mainEntityOfPage": "https://platinumzenith.com/blog/tiktok-ads-statistika-roi-konverzija-benchmark-2026"
     }
   },
   {
     slug: 'mobilni-marketing-i-m-commerce-statistika-2026',
     title: 'Mobilni marketing u 2026: 60% tržišta, konverzije od 2.8% i ROI mobilnih aplikacija',
-    excerpt: 'Mobilna trgovina (m-commerce) dostize 2.4 triliona dolara u 2026. Telefon donosi 75% saobraćaja, ali konverzije variraju. Saznajte benchmark podatke po industriji.',
+    excerpt: 'Mobilna trgovina (m-commerce) dostiže 2.4 triliona dolara u 2026. Telefon donosi 75% saobraćaja, ali konverzije variraju. Saznajte benchmark podatke po industriji.',
     date: '2026-03-26',
     category: 'Marketing',
     readTime: '8 min',
     content: `
 ## M-commerce: dominacija pametnih telefona
 
-Kada ste poslednji put kupili nesto preko racunara? Ako ste kao vecina, verovatno je to bilo pre vise nedelja. Mobilni telefoni vise nisu "drugi ekran". Oni su prvi, glavni, a cesto i jedini ekran koji kupci koriste.
+Kada ste poslednji put kupili nešto preko računara? Ako ste kao većina, verovatno je to bilo pre više nedelja. Mobilni telefoni više nisu "drugi ekran". Oni su prvi, glavni, a često i jedini ekran koji kupci koriste.
 
-Mobilna trgovina (m-commerce) ocekuje se da dostigne vrednost od **2.4 triliona dolara** u 2026. godini. Mobilni telefoni sada cine oko **60% celokupne globalne e-commerce prodaje**. 
+Mobilna trgovina (m-commerce) očekuje se da dostigne vrednost od **2.4 triliona dolara** u 2026. godini. Mobilni telefoni sada čine oko **60% celokupne globalne e-commerce prodaje**.
 
-Ovo nije buducnost. Ovo je sadasnjost, a brojke pokazuju koliko brzo se menja ponasanje potrosaca.
+Ovo nije budućnost. Ovo je sadašnjost, a brojke pokazuju koliko brzo se menja ponašanje potrošača.
 
-## Saobracaj vs Konverzija: mobilni paradoks
+## Saobraćaj vs Konverzija: mobilni paradoks
 
-Evo najveceg izazova u m-commerce-u: mobilni telefoni donose najvise saobracaja, ali desktop racunari i dalje (cesto) donose vise novca po poseti.
+Evo najvećeg izazova u m-commerce-u: mobilni telefoni donose najviše saobraćaja, ali desktop računari i dalje (često) donose više novca po poseti.
 
-- **Udeo u saobracaju:** Mobilni uredjaji generisu **75% do 78% celokupnog e-commerce saobracaja** globalno.
-- **Konverzija:** U 2026. godini, prosecna stopa konverzije na mobilnim uredjajima je porasla na **2.8%**, izjednacavajuci se sa desktop konverzijama u nekim industrijama. (Istorijski prosek je godinama bio oko 1.8%).
+- **Udeo u saobraćaju:** Mobilni uređaji generišu **75% do 78% celokupnog e-commerce saobraćaja** globalno.
+- **Konverzija:** U 2026. godini, prosečna stopa konverzije na mobilnim uređajima je porasla na **2.8%**, izjednačavajući se sa desktop konverzijama u nekim industrijama. (Istorijski prosek je godinama bio oko 1.8%).
 
-Ovo izjednacavanje konverzija je ogroman napredak. Razlozi za to su bolji mobilni UX (User Experience), brzi sajtovi ([Core Web Vitals](/blog/core-web-vitals-page-speed-konverzija-bounce-rate-seo-statistika-2026)), i sveprisutnost mobilnih novcanika poput Apple Pay-a i Google Pay-a koji omogucavaju "one-click" kupovinu.
+Ovo izjednačavanje konverzija je ogroman napredak. Razlozi za to su bolji mobilni UX (User Experience), brži sajtovi ([Core Web Vitals](/blog/core-web-vitals-page-speed-konverzija-bounce-rate-seo-statistika-2026)), i sveprisutnost mobilnih novčanika poput Apple Pay-a i Google Pay-a koji omogućavaju "one-click" kupovinu.
 
 ### Konverzije po industriji (mobilni web)
 
-Nisu sve industrije jednake kada je rec o mobilnoj kupovini:
+Nisu sve industrije jednake kada je reč o mobilnoj kupovini:
 
-- **Hrana i pice:** 6.11% (ljudi narucuju u hodu)
-- **Moda i odeca:** stabilnih 2.5% - 3.5%
-- **Luksuzna roba:** 1.19% (kupci skupe robe vise vole veliki ekran za detaljno razgledanje)
+- **Hrana i piće:** 6.11% (ljudi naručuju u hodu)
+- **Moda i odeća:** stabilnih 2.5% - 3.5%
+- **Luksuzna roba:** 1.19% (kupci skupe robe više vole veliki ekran za detaljno razgledanje)
 
-Zanimljiv podatak: **shopping aplikacije** konvertuju znatno bolje od mobilnog web-a. Prosecna konverzija u nativnim aplikacijama je **3.5%**, naspram 2% na webu. Aplikacije nude brzinu, push notifikacije i personalizaciju.
+Zanimljiv podatak: **shopping aplikacije** konvertuju znatno bolje od mobilnog web-a. Prosečna konverzija u nativnim aplikacijama je **3.5%**, naspram 2% na webu. Aplikacije nude brzinu, push notifikacije i personalizaciju.
 
-## Troskovi i ROI mobilnog marketinga
+## Troškovi i ROI mobilnog marketinga
 
-Mobilni marketing sada privlaci **70% ukupnih budzeta za oglasavanje**. Zasto? Jer tamo su oci korisnika.
+Mobilni marketing sada privlači **70% ukupnih budžeta za oglašavanje**. Zašto? Jer tamo su oči korisnika.
 
-Kada gledamo Return on Ad Spend (ROAS) na mobilnim kampanjama za 2025-2026, brojke su sledece (medijana):
+Kada gledamo Return on Ad Spend (ROAS) na mobilnim kampanjama za 2025-2026, brojke su sledeće (medijana):
 - **Google Ads:** 3.31x
 - **Meta (Facebook/Instagram):** 2.19x
 - **TikTok:** 1.41x
 
-Dok TikTok moze imati [najveci reach i engagement](/blog/drustvene-mreze-statistika-korisnici-engagement-vreme-ad-spend-2026), Google Ads ostaje sampion direktne konverzije zbog visoke namere kupca.
+Dok TikTok može imati [najveći reach i engagement](/blog/drustvene-mreze-statistika-korisnici-engagement-vreme-ad-spend-2026), Google Ads ostaje šampion direktne konverzije zbog visoke namere kupca.
 
-Posebno se izdvaja **SMS marketing** sa zapanjujucim brojkama:
-- **Open rate:** priblizno 98%
+Posebno se izdvaja **SMS marketing** sa zapanjujućim brojkama:
+- **Open rate:** približno 98%
 - **Click-through rate (CTR):** 19% do 36%
-- **ROI:** Procenjuje se na neverovatnih $71 za svaki ulozen dolar. SMS kampanje za napustenu korpu su jedan od najefikasnijih alata za e-commerce.
+- **ROI:** Procenjuje se na neverovatnih $71 za svaki uložen dolar. SMS kampanje za napuštenu korpu su jedan od najefikasnijih alata za e-commerce.
 
-## Sta ovo znaci za vas biznis u Srbiji?
+## Šta ovo znači za vaš biznis u Srbiji?
 
-### 1. Optimizacija za mobilne vise nije dovoljna – potreban je "Mobile-First" dizajn
+### 1. Optimizacija za mobilne više nije dovoljna – potreban je "Mobile-First" dizajn
 
-Ako vas sajt "radi" na mobilnom, ali zahteva zumiranje, popunjavanje dugih formi ili se sporo ucitava, gubite novac svake sekunde. Dizajnirajte za telefon, a desktop neka bude adaptacija. Elementi moraju biti krupni, dugmici prilagodjeni palcu, a navigacija intuitivna.
+Ako vaš sajt "radi" na mobilnom, ali zahteva zumiranje, popunjavanje dugih formi ili se sporo učitava, gubite novac svake sekunde. Dizajnirajte za telefon, a desktop neka bude adaptacija. Elementi moraju biti krupni, dugmići prilagođeni palcu, a navigacija intuitivna.
 
-### 2. Sredite proces placanja (Checkout)
+### 2. Sredite proces plaćanja (Checkout)
 
-Razlog broj jedan za napustenu korpu na mobilnom telefonu je "previse koraka u checkoutu". Implementirajte brza resenja za placanje, sacuvane podatke, i smanjite broj obaveznih polja na minimum.
+Razlog broj jedan za napuštenu korpu na mobilnom telefonu je "previše koraka u checkoutu". Implementirajte brza rešenja za plaćanje, sačuvane podatke, i smanjite broj obaveznih polja na minimum.
 
 ### 3. Vreme provedeno na aplikacijama vs browser
 
-Od ukupnog vremena provedenog na telefonu, neverovatnih **92% se provodi u aplikacijama** (najvise drustvenim mrezama). To znaci da vase Facebook, Instagram i TikTok kampanje direktno hvataju korisnike u njihovom prirodnom "mobilnom habitatu".
+Od ukupnog vremena provedenog na telefonu, neverovatnih **92% se provodi u aplikacijama** (najviše društvenim mrežama). To znači da vaše Facebook, Instagram i TikTok kampanje direktno hvataju korisnike u njihovom prirodnom "mobilnom habitatu".
 
-Zelite li da iskoristite prednosti m-commerce trenda i optimizujete vas sajt za bolje mobilne konverzije? Pogledajte nase usluge za [CRO optimizaciju](/cro) i [SEO](/seo-optimizacija-cena) ili nas [kontaktirajte](/kontakt) za besplatnu analizu.
+Želite li da iskoristite prednosti m-commerce trenda i optimizujete vaš sajt za bolje mobilne konverzije? Pogledajte naše usluge za [CRO optimizaciju](/cro) i [SEO](/seo-optimizacija-cena) ili nas [kontaktirajte](/kontakt) za besplatnu analizu.
 `,
     schema: {
       "@context": "https://schema.org",
       "@type": "Article",
-      "headline": "Mobilni marketing u 2026: 60% trzista, konverzije od 2.8% i ROI mobilnih aplikacija",
+      "headline": "Mobilni marketing u 2026: 60% tržišta, konverzije od 2.8% i ROI mobilnih aplikacija",
       "datePublished": "2026-03-26",
       "author": { "@type": "Organization", "name": "Platinum Zenith" },
       "publisher": { "@type": "Organization", "name": "Platinum Zenith", "url": "https://platinumzenith.com" },
-      "description": "Mobilna trgovina (m-commerce) dostize 2.4 triliona dolara u 2026. Telefon donosi 75% saobracaja, ali konverzije variraju. Saznajte benchmark podatke po industriji.",
+      "description": "Mobilna trgovina (m-commerce) dostiže 2.4 triliona dolara u 2026. Telefon donosi 75% saobraćaja, ali konverzije variraju. Saznajte benchmark podatke po industriji.",
       "mainEntityOfPage": "https://platinumzenith.com/blog/mobilni-marketing-i-m-commerce-statistika-2026"
     }
   },
   {
     slug: 'content-marketing-statistika-roi-blog-lead-generation-cpl-2026',
     title: 'Content marketing statistika (2026): ROI, cena po leadu i uticaj bloga na prodaju',
-    excerpt: 'Content marketing donosi 3x više leadova od outbound marketinga po 62% nizoj ceni. Prosečan ROI je 3$ na svaki ulozen dolar. Podaci za B2B i B2C.',
+    excerpt: 'Content marketing donosi 3x više leadova od outbound marketinga po 62% nižoj ceni. Prosečan ROI je 3$ na svaki uložen dolar. Podaci za B2B i B2C.',
     date: '2026-03-25',
     category: 'Marketing',
     readTime: '9 min',
     content: `
 ## Zašto tekst i dalje prodaje
 
-U eri videa i društvenih mreza, mnogi su predvideli smrt pisanog sadržaja i blogova. Podaci za 2025. i 2026. godinu pokazuju potpuno suprotno: content marketing raste ka industriji od **107.5 milijardi dolara**, a blogovi su i dalje treci najkorisceniji format na svetu.
+U eri videa i društvenih mreža, mnogi su predvideli smrt pisanog sadržaja i blogova. Podaci za 2025. i 2026. godinu pokazuju potpuno suprotno: content marketing raste ka industriji od **107.5 milijardi dolara**, a blogovi su i dalje treći najkorišćeniji format na svetu.
 
-Razlog je jednostavan: video privlaci paznju, ali tekst prodaje i edukuje. Kad kupac zeli da sazna *kako* nesto radi, koliko košta i zašto je bolje od konkurencije, on cita.
+Razlog je jednostavan: video privlači pažnju, ali tekst prodaje i edukuje. Kad kupac želi da sazna *kako* nešto radi, koliko košta i zašto je bolje od konkurencije, on čita.
 
-Evo konkretnih brojki koje dokazuju zašto je sadržaj najvrednija dugoročna investicija koju vasa firma moze da napravi.
+Evo konkretnih brojki koje dokazuju zašto je sadržaj najvrednija dugoročna investicija koju vaša firma može da napravi.
 
-## ROI content marketinga: 3 dolara na svaki ulozen dolar
+## ROI content marketinga: 3 dolara na svaki uložen dolar
 
-Kada ulozite 100 evra u Facebook oglase, dobijete odredjen broj klikova. Kad budžet nestane, klikovi staju. 
-Kada ulozite 100 evra u kvalitetan blog post, on moze da donosi saobraćaj i klijente mesecima i godinama besplatno.
+Kada uložite 100 evra u Facebook oglase, dobijete određen broj klikova. Kad budžet nestane, klikovi staju.
+Kada uložite 100 evra u kvalitetan blog post, on može da donosi saobraćaj i klijente mesecima i godinama besplatno.
 
 Zbog toga su razlike u ROI-u ogromne:
 
 - **Prosečan ROI content marketinga:** $3 povrata na svaki $1 ulog
 - **Prosečan ROI plaćenih oglasa:** $1.80 povrata na svaki $1 ulog
-- **B2B ekstrem:** Uz pravilnu SEO strategiju, ROI B2B content marketinga moze dostici neverovatnih **748%**
+- **B2B ekstrem:** Uz pravilnu SEO strategiju, ROI B2B content marketinga može dostići neverovatnih **748%**
 
-Uprkos ovim brojevima, 56% B2B marketera kaze da im je merenje ROI-a od sadržaja i dalje izazov. Razlog je to sto content retko donosi konverziju na "prvi klik". Korisnik procita tri vasa bloga tokom mesec dana, a onda direktno ukuca ime vase firme u Google i kupi. Google Analytics ce zaslugu pripisati "direct" saobracaju, iako je sadržaj obavio prodaju.
+Uprkos ovim brojevima, 56% B2B marketera kaže da im je merenje ROI-a od sadržaja i dalje izazov. Razlog je to što content retko donosi konverziju na "prvi klik". Korisnik pročita tri vaša bloga tokom mesec dana, a onda direktno ukuca ime vaše firme u Google i kupi. Google Analytics će zaslugu pripisati "direct" saobraćaju, iako je sadržaj obavio prodaju.
 
-Zanimljivo je i šta firme navode kao glavni benefit sadržaja. To više nije samo prodaja. **61% marketera navodi izgradnju poverenja i kredibiliteta** kao glavni povrat, sto je vaznije i od direktnog lead generation-a (55%).
+Zanimljivo je i šta firme navode kao glavni benefit sadržaja. To više nije samo prodaja. **61% marketera navodi izgradnju poverenja i kredibiliteta** kao glavni povrat, što je važnije i od direktnog lead generation-a (55%).
 
 ## Cena po leadu (CPL) i generisanje potencijalnih kupaca
 
-Content marketing je ubedljivo najisplativiji nacin za generisanje leadova (potencijalnih kupaca koji su ostavili kontakt podatke).
+Content marketing je ubedljivo najisplativiji način za generisanje leadova (potencijalnih kupaca koji su ostavili kontakt podatke).
 
-- Generise **3x više leadova** od tradicionalnog outbound marketinga (hladni pozivi, bilbordi, TV)
+- Generiše **3x više leadova** od tradicionalnog outbound marketinga (hladni pozivi, bilbordi, TV)
 - Košta **62% manje** po generisanom leadu
-- **87% B2B marketera** uspesno koristi content za generisanje leadova
+- **87% B2B marketera** uspešno koristi content za generisanje leadova
 
 ### Benchmark cene po leadu (CPL) za 2026:
 
@@ -1523,65 +1523,65 @@ Content marketing je ubedljivo najisplativiji nacin za generisanje leadova (pote
 - **Visoko obrazovanje:** $982
 - **Google Ads prosek:** $70.11
 
-A sada uporedite to sa organskim saobracajem: **SEO i content marketing imaju prosečan dugoročni CPL od samo $31.**
+A sada uporedite to sa organskim saobraćajem: **SEO i content marketing imaju prosečan dugoročni CPL od samo $31.**
 
 Razlika u ceni je tolika da 61% firmi planira povećanje budžeta za content marketing u 2026. godini.
 
-Za detaljniji uvid u cene usluga pogledajte nas vodic za [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Za detaljniji uvid u cene usluga pogledajte naš vodič za [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-## Blogovi: masina za generisanje leadova
+## Blogovi: mašina za generisanje leadova
 
-Ako mislite da niko više ne cita blogove, brojke vas demantuju:
+Ako mislite da niko više ne čita blogove, brojke vas demantuju:
 
-- Firme koje imaju aktivan blog privlace **55% više posetilaca** na sajt
-- Generisu **13x više leadova** u odnosu na firme bez bloga
-- Firme koje objavljuju konzistentno (npr. 15 postova mesecno) mogu ocekivati prosecno 1.200 novih organskih leadova mesecno
+- Firme koje imaju aktivan blog privlače **55% više posetilaca** na sajt
+- Generišu **13x više leadova** u odnosu na firme bez bloga
+- Firme koje objavljuju konzistentno (npr. 15 postova mesečno) mogu očekivati prosečno 1.200 novih organskih leadova mesečno
 
-**Šta cini uspesan blog post u 2026?**
-Prosečna duzina uspesnog posta je oko **1.350 reci**. Zašto? Zato sto Google i citaoci traze sveobuhvatne odgovore na svoja pitanja. Kratki postovi od 300 reci više ne prolaze u SEO rezultatima. 
+**Šta čini uspešan blog post u 2026?**
+Prosečna dužina uspešnog posta je oko **1.350 reči**. Zašto? Zato što Google i čitaoci traže sveobuhvatne odgovore na svoja pitanja. Kratki postovi od 300 reči više ne prolaze u SEO rezultatima.
 
-Mala preduzeća su najveci dobitnici: ona imaju **23% vecu sansu** da vide pozitivan ROI od bloga u odnosu na velike korporacije. Zato sto na lokalu, jedan dobar, edukativan post moze da vas pozicionira iznad sve konkurencije u gradu.
+Mala preduzeća su najveći dobitnici: ona imaju **23% veću šansu** da vide pozitivan ROI od bloga u odnosu na velike korporacije. Zato što na lokalu, jedan dobar, edukativan post može da vas pozicionira iznad sve konkurencije u gradu.
 
-Za informacije o uticaju sadržaja i SEO-a na rast posetite nasu stranicu za [SEO optimizaciju](/seo-optimizacija-cena).
+Za informacije o uticaju sadržaja i SEO-a na rast posetite našu stranicu za [SEO optimizaciju](/seo-optimizacija-cena).
 
-## B2B vs B2C: razlike u sadrzaju
+## B2B vs B2C: razlike u sadržaju
 
-Content marketing koriste i B2B (73%) i B2C (70%) firme, ali na potpuno različite nacine.
+Content marketing koriste i B2B (73%) i B2C (70%) firme, ali na potpuno različite načine.
 
-### B2C (Biznis ka potrosacu)
-- B2C sadržaj generise neverovatnih **9.7x više deljenja** na društvenim mrežama
-- Najbolje prolaze: dogadjaji, kratki tekstovi i videi
-- 43.3% B2C marketera ocenjuje svoju strategiju kao veoma uspesnu
+### B2C (Biznis ka potrošaču)
+- B2C sadržaj generiše neverovatnih **9.7x više deljenja** na društvenim mrežama
+- Najbolje prolaze: događaji, kratki tekstovi i videi
+- 43.3% B2C marketera ocenjuje svoju strategiju kao veoma uspešnu
 
 ### B2B (Biznis ka biznisu)
-- Oslanjaju se na: kratke clanke (92%), videe (76%) i studije slucaja (75%)
-- Najveci ROI dolazi iskljucivo od **owned media**: websajt, blog, i SEO
-- Veća investicija u kvalitet: B2B kupac zahteva detaljne informacije, studije slucaja i podatke pre donosenja odluke
+- Oslanjaju se na: kratke članke (92%), videe (76%) i studije slučaja (75%)
+- Najveći ROI dolazi isključivo od **owned media**: websajt, blog, i SEO
+- Veća investicija u kvalitet: B2B kupac zahteva detaljne informacije, studije slučaja i podatke pre donošenja odluke
 
 Ova podela pokazuje da B2C firme mogu da se oslone na društvene mreže za viralnost, dok B2B firme grade "biblioteke znanja" na svojim sajtovima.
 
-Više o B2B trendovima pronadjite u nasem tekstu o [B2B marketingu i prodajnim ciklusima](/blog/b2b-marketing-statistika-lead-generation-prodajni-ciklus-linkedin-2026).
+Više o B2B trendovima pronađite u našem tekstu o [B2B marketingu i prodajnim ciklusima](/blog/b2b-marketing-statistika-lead-generation-prodajni-ciklus-linkedin-2026).
 
 ## Kako AI menja proizvodnju sadržaja
 
-Vestacka inteligencija (AI) nije ubila content marketing, vec ga je ubrzala:
+Veštačka inteligencija (AI) nije ubila content marketing, već ga je ubrzala:
 
-- **89%** marketera vec koristi generativni AI
+- **89%** marketera već koristi generativni AI
 - Kako se koristi: brainstorming tema (62%), rezimiranje (53%), i pisanje prvih nacrta (44%)
-- Rezultat: **68% biznisa** belezi rast ROI-a zbog korišćenja AI alata
-- Firme koje koriste AI za generisanje leadova vide **50% više prodajno-spremnih leadova** uz do 60% nize troskove akvizicije (CAC)
+- Rezultat: **68% biznisa** beleži rast ROI-a zbog korišćenja AI alata
+- Firme koje koriste AI za generisanje leadova vide **50% više prodajno-spremnih leadova** uz do 60% niže troškove akvizicije (CAC)
 
-U 2026. godini, 94% marketera planira integraciju AI alata u svoj proces rada. Ali AI ne zamenjuje eksperte. On generise ideje i prve nacrte, dok ljudi dodaju iskustvo, emociju i specifican ugao firme koji gradi pomenuto poverenje. 
+U 2026. godini, 94% marketera planira integraciju AI alata u svoj proces rada. Ali AI ne zamenjuje eksperte. On generiše ideje i prve nacrte, dok ljudi dodaju iskustvo, emociju i specifičan ugao firme koji gradi pomenuto poverenje.
 
-Sadržaj koji zvuci kao robot nece konvertovati. Zato je proces uredjivanja postao vazniji od samog pisanja.
+Sadržaj koji zvuči kao robot neće konvertovati. Zato je proces uređivanja postao važniji od samog pisanja.
 
 ## Zaključak: investicija, a ne trošak
 
-Ako platite oglas na bilbordu ili Facebook-u, vi iznajmljujete paznju. Cim prestanete da plaćate, paznja nestaje.
+Ako platite oglas na bilbordu ili Facebook-u, vi iznajmljujete pažnju. Čim prestanete da plaćate, pažnja nestaje.
 
-Kada napisete kvalitetan blog post, optimizujete ga za pretragu i postavite na svoj sajt, vi **gradite sopstveni digitalni asset**. Taj post radi za vas 24 sata dnevno, 365 dana u godini, bez dodatnih troškova. Sa ROI-em od $3 na $1 i cenom leada od $31, content marketing je dokazano najstabilniji temelj rasta u 2026. godini.
+Kada napišete kvalitetan blog post, optimizujete ga za pretragu i postavite na svoj sajt, vi **gradite sopstveni digitalni asset**. Taj post radi za vas 24 sata dnevno, 365 dana u godini, bez dodatnih troškova. Sa ROI-em od $3 na $1 i cenom leada od $31, content marketing je dokazano najstabilniji temelj rasta u 2026. godini.
 
-Spremni ste da izgradite vasu masinu za leadove? [Kontaktirajte nas](/kontakt) za besplatnu analizu i plan.
+Spremni ste da izgradite vašu mašinu za leadove? [Kontaktirajte nas](/kontakt) za besplatnu analizu i plan.
 `,
     schema: {
       "@context": "https://schema.org",
@@ -1590,7 +1590,7 @@ Spremni ste da izgradite vasu masinu za leadove? [Kontaktirajte nas](/kontakt) z
       "datePublished": "2026-03-25",
       "author": { "@type": "Organization", "name": "Platinum Zenith" },
       "publisher": { "@type": "Organization", "name": "Platinum Zenith", "url": "https://platinumzenith.com" },
-      "description": "Content marketing donosi 3x više leadova od outbound marketinga po 62% nizoj ceni. Prosečan ROI je 3$ na svaki ulozen dolar. Podaci za B2B i B2C.",
+      "description": "Content marketing donosi 3x više leadova od outbound marketinga po 62% nižoj ceni. Prosečan ROI je 3$ na svaki uložen dolar. Podaci za B2B i B2C.",
       "mainEntityOfPage": "https://platinumzenith.com/blog/content-marketing-statistika-roi-blog-lead-generation-cpl-2026"
     }
   },
@@ -1730,75 +1730,75 @@ Ako vam treba pomoc sa video strategijom ili kompletnim digitalnim marketingom, 
     category: 'Marketing',
     readTime: '10 min',
     content: `
-## B2B kupovina traje 10 meseci i ukljucuje 10 ljudi
+## B2B kupovina traje 10 meseci i uključuje 10 ljudi
 
-Ako prodajete firmama, a ne krajnjim potrosacima, igra je potpuno drugacija. B2B prodajni ciklus u 2025. godini traje u proseku **10.1 meseci.** Kupac prolazi kroz 272 dana od prvog interesovanja do potpisa, sa prosecno **88 dodirnih tacaka** preko 4 razlicita kanala.
+Ako prodajete firmama, a ne krajnjim potrošačima, igra je potpuno drugačija. B2B prodajni ciklus u 2025. godini traje u proseku **10.1 meseci.** Kupac prolazi kroz 272 dana od prvog interesovanja do potpisa, sa prosečno **88 dodirnih tačaka** preko 4 različita kanala.
 
-I ne donosi odluku sam. U prosecnu B2B kupovinu ukljuceno je **10 zainteresovanih strana** (rast sa 6.8 u prethodnim godinama). To znaci da vasa poruka mora da ubedi ne jednu osobu, vec ceo tim.
+I ne donosi odluku sam. U prosečnu B2B kupovinu uključeno je **10 zainteresovanih strana** (rast sa 6.8 u prethodnim godinama). To znači da vaša poruka mora da ubedi ne jednu osobu, već ceo tim.
 
-Za firme u Srbiji koje prodaju drugim firmama, ovo menja citavu strategiju. Nema "lansiramo kampanju i cekamo pozive." Treba sistem koji gradi poverenje tokom meseci i doseze vise donosilaca odluka istovremeno.
+Za firme u Srbiji koje prodaju drugim firmama, ovo menja čitavu strategiju. Nema "lansiramo kampanju i čekamo pozive." Treba sistem koji gradi poverenje tokom meseci i doseže više donosilaca odluka istovremeno.
 
 ## Gde nastaju B2B leadovi (podaci o kanalima)
 
-Najkorisceniji kanali za B2B lead generation u 2025-2026:
+Najkorišćeniji kanali za B2B lead generation u 2025-2026:
 
 - **Email marketing:** 66% marketera ga koristi kao primarni kanal
-- **Placeni oglasi na drustvenim mrezama:** 58%
-- **Placena pretraga (Google Ads):** 50%
+- **Plaćeni oglasi na društvenim mrežama:** 58%
+- **Plaćena pretraga (Google Ads):** 50%
 - **SEO (organska pretraga):** 47%
 
-Email i dalje dominira jer B2B kupac vec ima odnos sa brendom pre nego sto kupi. Organska pretraga je sporija ali donosi najkvalitetnije leadove jer hvata ljude u momentu aktivnog trazenja resenja.
+Email i dalje dominira jer B2B kupac već ima odnos sa brendom pre nego što kupi. Organska pretraga je sporija, ali donosi najkvalitetnije leadove jer hvata ljude u momentu aktivnog traženja rešenja.
 
-Za cene oglasavanja po kanalu pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Za cene oglašavanja po kanalu pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-## Konverzije u B2B: ocekivanja vs realnost
+## Konverzije u B2B: očekivanja vs realnost
 
-### Prosecni B2B conversion rate: 2.6%
+### Prosečni B2B conversion rate: 2.6%
 
-Ovo je znatno nize od B2C proseka. Ali u B2B, jedan klijent moze da vredi 10.000 do 100.000+ evra godisnje, pa i nizak procenat konverzije moze da bude izuzetno profitabilan.
+Ovo je znatno niže od B2C proseka. Ali u B2B, jedan klijent može da vredi 10.000 do 100.000+ evra godišnje, pa i nizak procenat konverzije može da bude izuzetno profitabilan.
 
 ### Konverzije po kanalu
 
 - **Landing stranice (sve industrije):** 6.6% prosek (raspon 3.8% za SaaS do 12.3% za evente)
 - **B2B email marketing:** 2.4% konverzija (open rate 43.46%, click rate 2.09%)
-- **Video marketing:** 1.3% konverzija (ali 85% video marketera kaze da video pomaze u generisanju leadova)
+- **Video marketing:** 1.3% konverzija (ali 85% video marketera kaže da video pomaže u generisanju leadova)
 
-### Najcesci problem: kvalitet leadova
+### Najčešći problem: kvalitet leadova
 
-- **45%** marketera kaze da je pronalazenje kvalitetnih leadova izazov broj jedan
+- **45%** marketera kaže da je pronalaženje kvalitetnih leadova izazov broj jedan
 - **84%** firmi ima problem sa konverzijom MQL (Marketing Qualified Lead) u SQL (Sales Qualified Lead)
 
-Drugim recima: dovesti ljude na sajt nije problem. Problem je dovesti PRAVE ljude i ubediti ih da su dovoljno zainteresovani za razgovor sa vasim prodajnim timom. Za optimizaciju konverzija pogledajte [CRO optimizaciju](/cro).
+Drugim rečima: dovesti ljude na sajt nije problem. Problem je dovesti PRAVE ljude i ubediti ih da su dovoljno zainteresovani za razgovor sa vašim prodajnim timom. Za optimizaciju konverzija pogledajte [CRO optimizaciju](/cro).
 
-## Prodajni ciklus se produzava (i to je normalno)
+## Prodajni ciklus se produžava (i to je normalno)
 
-**74% marketera** kaze da se B2B prodajni ciklusi produzavaju. Evo zasto:
+**74% marketera** kaže da se B2B prodajni ciklusi produžavaju. Evo zašto:
 
-- Kupci provode **220 dana** (7 meseci) na samostalnom istrazivanju pre nego sto kontaktiraju prodavca
-- Prosecno putovanje kupca ukljucuje **88 dodirnih tacaka** (rast sa 76)
+- Kupci provode **220 dana** (7 meseci) na samostalnom istraživanju pre nego što kontaktiraju prodavca
+- Prosečno putovanje kupca uključuje **88 dodirnih tačaka** (rast sa 76)
 - Odluke se donose u grupi od **10 zainteresovanih strana** (rast sa 6.8)
 
-Ali evo kljucnog podatka: **92% kupaca** zapocinue proces sa bar jednim vendorom u glavi. I **95% vremena** pobednik dolazi sa "Day One shortliste" kupca.
+Ali evo ključnog podatka: **92% kupaca** započinje proces sa bar jednim vendorom u glavi. I **95% vremena** pobednik dolazi sa "Day One shortliste" kupca.
 
-To znaci da ako niste u svesti kupca PRE nego sto pocne da trazi resenje, vec ste izgubili. Brending i content marketing nisu opcioni u B2B. Oni su preduslov da uopste udjete u igru.
+To znači da ako niste u svesti kupca PRE nego što počne da traži rešenje, već ste izgubili. Brending i content marketing nisu opcioni u B2B. Oni su preduslov da uopšte uđete u igru.
 
-## Content marketing: 34% B2B budzeta
+## Content marketing: 34% B2B budžeta
 
-### Koliko firme ulazu
+### Koliko firme ulažu
 
-- Content marketing zauzima **34% ukupnog B2B marketing budzeta** (treca najveca stavka)
-- **46%** B2B marketera ocekuje rast content marketing budzeta
-- **32%** planira povecanje ulaganja u owned media (sajt, blog, email) u 2026
+- Content marketing zauzima **34% ukupnog B2B marketing budžeta** (treća najveća stavka)
+- **46%** B2B marketera očekuje rast content marketing budžeta
+- **32%** planira povećanje ulaganja u owned media (sajt, blog, email) u 2026
 
-### Sta radi
+### Šta radi
 
-- Firme koje koriste blog imaju **13x vise leadova** od onih koje ne koriste
-- **91%** marketera ukljucuje content marketing u strategiju
-- Kratki video je format sa najvisim ROI-em i najvisim rastom investicija
+- Firme koje koriste blog imaju **13x više leadova** od onih koje ne koriste
+- **91%** marketera uključuje content marketing u strategiju
+- Kratki video je format sa najvišim ROI-em i najvišim rastom investicija
 
 ### Content formati koji rade u B2B
 
-- **65%** B2B kupaca preferira kratki sadrzaj (blog postovi, infografike)
+- **65%** B2B kupaca preferira kratki sadržaj (blog postovi, infografike)
 - Kratki video dominira po ROI-u
 - **91%** firmi koristi video kao marketing alat u 2026
 
@@ -1806,23 +1806,23 @@ To znaci da ako niste u svesti kupca PRE nego sto pocne da trazi resenje, vec st
 
 - **95%** B2B marketera koristi AI alate
 - 62% koristi AI za brainstorming, 53% za rezimiranje, 44% za pisanje drafta
-- **45%** planira povecanje ulaganja u AI marketing alate u 2026
+- **45%** planira povećanje ulaganja u AI marketing alate u 2026
 
-Za nase klijente: content marketing nije "pisanje blogova kad imamo vremena." To je sistematski proces koji zauzima trecinu budzeta najuspesnijih B2B firmi.
+Za naše klijente: content marketing nije "pisanje blogova kad imamo vremena." To je sistematski proces koji zauzima trećinu budžeta najuspešnijih B2B firmi.
 
-## LinkedIn: 41% B2B ad budzeta
+## LinkedIn: 41% B2B ad budžeta
 
 LinkedIn je postao dominantna platforma za B2B marketing sa ubedljivim podacima:
 
-### Budzet i doseg
+### Budžet i doseg
 
-- LinkedIn sada uzima **41% ukupnog B2B ad budzeta** (najveca pojedinacna investicija)
-- **62%** marketera kaze da LinkedIn donosi leadove dvostruko brze od drugih platformi
-- LinkedIn generise **80% B2B leadova** sa drustvenih mreza
+- LinkedIn sada uzima **41% ukupnog B2B ad budžeta** (najveća pojedinačna investicija)
+- **62%** marketera kaže da LinkedIn donosi leadove dvostruko brže od drugih platformi
+- LinkedIn generiše **80% B2B leadova** sa društvenih mreža
 
 ### LinkedIn ROAS: jedina platforma sa pozitivnim povratom
 
-Prema Dreamdata izvestaju za 2026:
+Prema Dreamdata izveštaju za 2026:
 
 - **LinkedIn ROAS:** 121% (pozitivan)
 - **Google Search ROAS:** 67%
@@ -1830,49 +1830,49 @@ Prema Dreamdata izvestaju za 2026:
 
 LinkedIn je jedina platforma koja konzistentno donosi pozitivan ROAS u B2B. Za detaljnije podatke o LinkedIn oglasima pogledajte [LinkedIn reklame za B2B](/blog/linkedin-reklame-cena-b2b-marketing-srbija-2026).
 
-### LinkedIn Ad benchmarke (2026)
+### LinkedIn Ad benchmarki (2026)
 
 - **CTR (Sponsored Content):** 0.44% do 0.65%
 - **CPC:** 5.58 dolara (globalni prosek)
 - **CPM:** 33.80 dolara
 - **Conversion rate:** 5% do 15%
 - **CPL:** 15 do 350 dolara (EMEA prosek: 120 dolara)
-- **Video engagement:** 1.6% (3x vise od ne-video sadrzaja)
+- **Video engagement:** 1.6% (3x više od ne-video sadržaja)
 - **Video watch time:** rast od 36% u odnosu na prethodnu godinu
 
-### Tip sadrzaja koji radi na LinkedInu
+### Tip sadržaja koji radi na LinkedInu
 
-Korisnici zele edukativni sadrzaj. Tekstualni postovi i dalje imaju jak engagement. Video raste najbrze (36% vise gledanja). Kljuc: budite korisni, ne promotivni.
+Korisnici žele edukativni sadržaj. Tekstualni postovi i dalje imaju jak engagement. Video raste najbrže (36% više gledanja). Ključ: budite korisni, ne promotivni.
 
-## Lead nurturing: gde se gubi najvise novca
+## Lead nurturing: gde se gubi najviše novca
 
-Vecina B2B firmi ulaze u generisanje leadova ali zapostavljaju nurturing (negovanje odnosa sa leadovima koji nisu spremni za kupovinu).
+Većina B2B firmi ulaže u generisanje leadova, ali zapostavlja nurturing (negovanje odnosa sa leadovima koji nisu spremni za kupovinu).
 
-- **47%** B2B timova planira povecanje budzeta za lead nurturing u 2026
-- Lead nurturing povecava prodajne prilike za **10-20%**
-- **42%** marketera belezi **20% poboljsanje** performansi sa nurturingom
+- **47%** B2B timova planira povećanje budžeta za lead nurturing u 2026
+- Lead nurturing povećava prodajne prilike za **10-20%**
+- **42%** marketera beleži **20% poboljšanje** performansi sa nurturingom
 
-Bez nurturinga, placate za leadove koji nikad ne konvertuju. Sa nurturingom, pretvarate "mozda za 6 meseci" u "hajde da razgovaramo."
+Bez nurturinga, plaćate za leadove koji nikad ne konvertuju. Sa nurturingom, pretvarate "možda za 6 meseci" u "hajde da razgovaramo."
 
 ## Preporuke za B2B firme u Srbiji
 
-### 1. Investirajte u sadrzaj koji edukuje
+### 1. Investirajte u sadržaj koji edukuje
 
-Blog, case studies, whitepapers. Kupac provodi 7 meseci u samostalnom istrazivanju. Ako vas sadrzaj ne postoji u tom periodu, neko drugi ce biti na njihovoj shortlisti.
+Blog, case studies, whitepapers. Kupac provodi 7 meseci u samostalnom istraživanju. Ako vaš sadržaj ne postoji u tom periodu, neko drugi će biti na njihovoj shortlisti.
 
-### 2. LinkedIn nije opcija, vec obaveza
+### 2. LinkedIn nije opcija, već obaveza
 
-Sa 80% B2B leadova sa drustvenih mreza i jedinim pozitivnim ROAS-om, LinkedIn je kanal koji B2B firme ne smeju da ignorisu. Pocnite sa organskim sadrzajem, pa dodajte placene oglase.
+Sa 80% B2B leadova sa društvenih mreža i jedinim pozitivnim ROAS-om, LinkedIn je kanal koji B2B firme ne smeju da ignorišu. Počnite sa organskim sadržajem, pa dodajte plaćene oglase.
 
 ### 3. Fokusirajte se na kvalitet leadova, ne kvantitet
 
-84% firmi ima problem sa konverzijom MQL u SQL. Bolje je imati 10 kvalifikovanih leadova mesecno nego 100 koji "samo gledaju." Kvalifikacija pocinje na sajtu: koristite forme koje filtriraju ozbiljne kupce.
+84% firmi ima problem sa konverzijom MQL u SQL. Bolje je imati 10 kvalifikovanih leadova mesečno nego 100 koji "samo gledaju." Kvalifikacija počinje na sajtu: koristite forme koje filtriraju ozbiljne kupce.
 
 ### 4. Planirajte za dug ciklus
 
-10 meseci, 88 dodirnih tacaka, 10 donosilaca odluka. Vasa strategija mora da pokrije ceo period, ne samo prvi kontakt. Email sekvence, retargeting i content koji odgovara na pitanja u svakoj fazi kupovine.
+10 meseci, 88 dodirnih tačaka, 10 donosilaca odluka. Vaša strategija mora da pokrije ceo period, ne samo prvi kontakt. Email sekvence, retargeting i content koji odgovara na pitanja u svakoj fazi kupovine.
 
-Ako vam treba pomoc sa B2B strategijom, [javite nam se](/kontakt) za besplatnu analizu.
+Ako vam treba pomoć sa B2B strategijom, [javite nam se](/kontakt) za besplatnu analizu.
 `,
     schema: {
       "@context": "https://schema.org",
@@ -1881,39 +1881,39 @@ Ako vam treba pomoc sa B2B strategijom, [javite nam se](/kontakt) za besplatnu a
       "datePublished": "2026-03-25",
       "author": { "@type": "Organization", "name": "Platinum Zenith" },
       "publisher": { "@type": "Organization", "name": "Platinum Zenith", "url": "https://platinumzenith.com" },
-      "description": "Prosecni B2B prodajni ciklus traje 10.1 meseci sa 88 touchpointa. LinkedIn donosi 80% B2B leadova sa drustvenih mreza. Benchmark podaci za 2026.",
+      "description": "Prosečni B2B prodajni ciklus traje 10.1 meseci sa 88 touchpointa. LinkedIn donosi 80% B2B leadova sa društvenih mreža. Benchmark podaci za 2026.",
       "mainEntityOfPage": "https://platinumzenith.com/blog/b2b-marketing-statistika-lead-generation-prodajni-ciklus-linkedin-2026"
     }
   },
   {
     slug: 'influencer-marketing-statistika-roi-mikro-influenseri-ugc-2026',
     title: 'Influencer marketing u brojevima: ROI, mikro-influenseri i UGC (statistika za 2026)',
-    excerpt: 'Tržište influencer marketinga 32.5 milijardi dolara. Prosečni ROI 5.78x. Mikro-influenseri imaju 60% visi engagement uz desetinu cene. UGC konvertuje 10x bolje.',
+    excerpt: 'Tržište influencer marketinga 32.5 milijardi dolara. Prosečni ROI 5.78x. Mikro-influenseri imaju 60% viši engagement uz desetinu cene. UGC konvertuje 10x bolje.',
     date: '2026-03-25',
     category: 'Marketing',
     readTime: '9 min',
     content: `
 ## Industrija od 32.5 milijardi dolara
 
-Influencer marketing je prestao da bude eksperiment pre nekoliko godina. U 2025. je dostigao 32.55 milijardi dolara globalno, a u 2026. prelazi 40 milijardi. Rast od 33% godisnje, vec celu deceniju.
+Influencer marketing je prestao da bude eksperiment pre nekoliko godina. U 2025. je dostigao 32.55 milijardi dolara globalno, a u 2026. prelazi 40 milijardi. Rast od 33% godišnje, već celu deceniju.
 
-Ali za vecinu firmi u Srbiji, influencer marketing i dalje znaci "platimo nekoga sa 100.000 pratilaca da objavi story." Podaci pokazuju da je taj pristup los. Evo zasto.
+Ali za većinu firmi u Srbiji, influencer marketing i dalje znači "platimo nekoga sa 100.000 pratilaca da objavi story." Podaci pokazuju da je taj pristup loš. Evo zašto.
 
 ## ROI koji opravdava ulaganje
 
-Prosecni povrat: **5.78 dolara na svaki ulozen dolar.** Top kampanje dostizu 11 do 18 dolara povrata.
+Prosečni povrat: **5.78 dolara na svaki uloženi dolar.** Top kampanje dostižu 11 do 18 dolara povrata.
 
-To cini influencer marketing jednim od kanala sa najvisim ROI-em u digitalnom marketingu. Za poredjenje, prosecni Google Ads ROI je [oko 2x](/blog/google-ads-roi-statistika-roas-po-industriji-srbija-2026), a email marketing donosi [oko 36-42 dolara na dolar](/blog/koliko-zapravo-zaradjuje-email-marketing-roi-po-industriji-2026).
+To čini influencer marketing jednim od kanala sa najvišim ROI-em u digitalnom marketingu. Za poređenje, prosečni Google Ads ROI je [oko 2x](/blog/google-ads-roi-statistika-roas-po-industriji-srbija-2026), a email marketing donosi [oko 36-42 dolara na dolar](/blog/koliko-zapravo-zaradjuje-email-marketing-roi-po-industriji-2026).
 
-Ipak, 56% marketera kaze da im je merenje ROI-a influencer kampanja i dalje izazov. Problem nije u kanalu, vec u tome sto vecina firmi nema pravilno konverziono pracenje za influencer saradnje.
+Ipak, 56% marketera kaže da im je merenje ROI-a influencer kampanja i dalje izazov. Problem nije u kanalu, već u tome što većina firmi nema pravilno konverziono praćenje za influencer saradnje.
 
-Uprkos tome, 80% brendova je zadrzalo ili povecalo budzet za influencere u 2025, a 74% planira dalje povecanje u 2026.
+Uprkos tome, 80% brendova je zadržalo ili povećalo budžet za influencere u 2025, a 74% planira dalje povećanje u 2026.
 
-## Zasto mikro-influenseri pobedjuju
+## Zašto mikro-influenseri pobeđuju
 
-Ovo je podatak koji menja pristup: mikro-influenseri (10.000 do 100.000 pratilaca) imaju **60% visi engagement** od mega-influensera, uz otprilike **desetinu cene.**
+Ovo je podatak koji menja pristup: mikro-influenseri (10.000 do 100.000 pratilaca) imaju **60% viši engagement** od mega-influensera, uz otprilike **desetinu cene.**
 
-### Engagement rate po velicini naloga
+### Engagement rate po veličini naloga
 
 **Instagram:**
 - Nano-influenseri (1K-10K): 3.5-8% engagement
@@ -1924,84 +1924,84 @@ Ovo je podatak koji menja pristup: mikro-influenseri (10.000 do 100.000 pratilac
 - Nano-influenseri: 10.3% engagement
 - Mikro-influenseri (10K-50K): 8.7% engagement
 
-Razlika je ogromna. Nano-influenser na TikToku ima 10.3% engagement, dok mega-influenser jedva prelazi 1%. Razlog: manja publika znaci bliskiji odnos, vise komentara i interakcija. Algoritam to nagradjuje.
+Razlika je ogromna. Nano-influenser na TikToku ima 10.3% engagement, dok mega-influenser jedva prelazi 1%. Razlog: manja publika znači bliskiji odnos, više komentara i interakcija. Algoritam to nagrađuje.
 
-### Sta to znaci u praksi
+### Šta to znači u praksi
 
-Umesto da platite jednog influensera sa milion pratilaca (recimo 2.000-5.000 evra za post), mozete angazovati 10 mikro-influensera po 200-500 evra i dobiti:
-- Vecu ukupnu pokrivenost
-- Raznolikiji sadrzaj
-- Autenticnije preporuke
+Umesto da platite jednog influensera sa milion pratilaca (recimo 2.000-5.000 evra za post), možete angažovati 10 mikro-influensera po 200-500 evra i dobiti:
+- Veću ukupnu pokrivenost
+- Raznolikiji sadržaj
+- Autentičnije preporuke
 - Bolji engagement i konverziju
 
-73% brendova vec preferira saradnju sa mikro i mid-tier kreatorima. Trend je jasan.
+73% brendova već preferira saradnju sa mikro i mid-tier kreatorima. Trend je jasan.
 
 ## Kratki video dominira
 
-Najefektivniji format za influencer marketing: **kratki video od 20 do 40 sekundi.** TikTok i Instagram Reels su platforme gde influenser sadrzaj najvise konvertuje.
+Najefektivniji format za influencer marketing: **kratki video od 20 do 40 sekundi.** TikTok i Instagram Reels su platforme gde influenser sadržaj najviše konvertuje.
 
-Za poredjenje engagement-a po platformi pogledajte [drustvene mreze statistika](/blog/drustvene-mreze-statistika-korisnici-engagement-vreme-ad-spend-2026).
+Za poređenje engagement-a po platformi pogledajte [društvene mreže statistika](/blog/drustvene-mreze-statistika-korisnici-engagement-vreme-ad-spend-2026).
 
 ## UGC (User-Generated Content) — statistika koja menja igru
 
-UGC je sadrzaj koji kreiraju korisnici, ne brend. Recenzije, unboxing videi, fotografije proizvoda od strane kupaca, komentari i testimonijali. Trziste UGC platformi doseze 8.48 milijardi dolara u 2026.
+UGC je sadržaj koji kreiraju korisnici, ne brend. Recenzije, unboxing videi, fotografije proizvoda od strane kupaca, komentari i testimonijali. Tržište UGC platformi doseže 8.48 milijardi dolara u 2026.
 
 ### Poverenje
 
-- **92%** potrosaca veruje preporukama drugih korisnika vise nego porukama brendova
-- **79%** kaze da UGC direktno utice na njihovu odluku o kupovini
+- **92%** potrošača veruje preporukama drugih korisnika više nego porukama brendova
+- **79%** kaže da UGC direktno utiče na njihovu odluku o kupovini
 - **61%** veruje preporukama influensera
 
 ### Engagement
 
-- UGC generise **6.9x veci engagement** nego sadrzaj koji kreira brend
-- Kampanje sa UGC-jem imaju **50% visi engagement rate**
-- Instagram postovi sa UGC-jem dobijaju **70% vise interakcija**
+- UGC generiše **6.9x veći engagement** nego sadržaj koji kreira brend
+- Kampanje sa UGC-jem imaju **50% viši engagement rate**
+- Instagram postovi sa UGC-jem dobijaju **70% više interakcija**
 
 ### Konverzije
 
-- UGC postovi imaju **10x vecu stopu konverzije** od standardnih brandiranih postova
+- UGC postovi imaju **10x veću stopu konverzije** od standardnih brandiranih postova
 - E-commerce stranice sa UGC-jem konvertuju **74% bolje** nego one bez njega
-- UGC oglasi imaju **4x visi CTR** (click-through rate) i **50% nizi CPC** (cost per click)
+- UGC oglasi imaju **4x viši CTR** (click-through rate) i **50% niži CPC** (cost per click)
 
 ### Platformski podaci
 
-- UGC na TikToku je **22% efikasniji** od brendiranog sadrzaja
-- Nadmasuje Facebook oglase za **32%** i obicne oglase za **46%**
+- UGC na TikToku je **22% efikasniji** od brendiranog sadržaja
+- Nadmašuje Facebook oglase za **32%** i obične oglase za **46%**
 
-Zakljucak: kupci veruju drugim kupcima, ne vasem marketing timu. Ako ne koristite UGC, propustate najjeftiniji i najefikasniji oblik sadrzaja koji postoji.
+Zaključak: kupci veruju drugim kupcima, ne vašem marketing timu. Ako ne koristite UGC, propuštate najjeftiniji i najefikasniji oblik sadržaja koji postoji.
 
-## Kako poceti sa influencer marketingom u Srbiji
+## Kako početi sa influencer marketingom u Srbiji
 
-### 1. Pocnite sa mikro-influenserima u vasoj nisi
+### 1. Počnite sa mikro-influenserima u vašoj niši
 
-Ne trazite popularnost, trazite relevantnost. Frizerka sa 3.000 pratilaca u Novom Sadu koja pokazuje frizure u vasem salonu donosi vise klijenata nego lifestyle influenser sa 100.000 pratilaca iz Beograda.
+Ne tražite popularnost, tražite relevantnost. Frizerka sa 3.000 pratilaca u Novom Sadu koja pokazuje frizure u vašem salonu donosi više klijenata nego lifestyle influenser sa 100.000 pratilaca iz Beograda.
 
 ### 2. Koristite UGC kao osnovu za oglase
 
-Najbolji Facebook i Instagram oglasi u 2026. nisu studijski snimljeni spotovi. To su autenticni videi korisnika koji pricaju o iskustvu sa vasim proizvodom. Koristite ih kao ad creative i gledajte kako vam CPC pada.
+Najbolji Facebook i Instagram oglasi u 2026. nisu studijski snimljeni spotovi. To su autentični videi korisnika koji pričaju o iskustvu sa vašim proizvodom. Koristite ih kao ad creative i gledajte kako vam CPC pada.
 
 ### 3. Merite konverzije, ne lajkove
 
 Dajte svakom influenseru jedinstven link ili promo kod. Pratite koliko prodaja dolazi od svake saradnje. Bez ovoga, ne znate da li vam influencer marketing radi ili ne.
 
-### 4. Dugorocne saradnje rade bolje
+### 4. Dugoročne saradnje rade bolje
 
-Jednom postu niko ne veruje. Tri do sest meseci konzistentne saradnje sa istim kreatorom gradi poverenje kod publike. To je kad influenser prestane da bude "oglas" i postane "preporuka."
+Jednom postu niko ne veruje. Tri do šest meseci konzistentne saradnje sa istim kreatorom gradi poverenje kod publike. To je kad influenser prestane da bude "oglas" i postane "preporuka."
 
-### 5. Testirajte na malom budzetu
+### 5. Testirajte na malom budžetu
 
-Pocnite sa 300-500 evra mesecno na 2-3 mikro-influensera. Merite rezultate 60 dana. Skaliranje dolazi posle, kad imate podatke o tome sta radi.
+Počnite sa 300-500 evra mesečno na 2-3 mikro-influensera. Merite rezultate 60 dana. Skaliranje dolazi posle, kad imate podatke o tome šta radi.
 
-Za cene oglasavanja na drustvenim mrezama pogledajte [Instagram reklame cena](/instagram-reklame-cena) i [Facebook reklame cena](/koliko-kosta-facebook-reklama).
+Za cene oglašavanja na društvenim mrežama pogledajte [Instagram reklame cena](/instagram-reklame-cena) i [Facebook reklame cena](/koliko-kosta-facebook-reklama).
 
-## Zakljucak: autenticnost pobedjuje budzet
+## Zaključak: autentičnost pobeđuje budžet
 
-Influencer marketing od 32.5 milijardi dolara nije samo za velike brendove. Mikro-influenseri sa 3.86% engagement-om i UGC sa 10x vecom konverzijom su dostupni svakoj firmi, ukljucujuci i vasu.
+Influencer marketing od 32.5 milijardi dolara nije samo za velike brendove. Mikro-influenseri sa 3.86% engagement-om i UGC sa 10x većom konverzijom su dostupni svakoj firmi, uključujući i vašu.
 
-Kljuc: ne kupujete doseg. Kupujete poverenje. I to poverenje se gradi kroz autenticne preporuke, ne kroz placene postove koji izgledaju kao reklame.
+Ključ: ne kupujete doseg. Kupujete poverenje. I to poverenje se gradi kroz autentične preporuke, ne kroz plaćene postove koji izgledaju kao reklame.
 
-Ako vam treba pomoc sa strategijom, [javite nam se](/kontakt).
+Ako vam treba pomoć sa strategijom, [javite nam se](/kontakt).
 `,
     schema: {
       "@context": "https://schema.org",
@@ -2010,173 +2010,173 @@ Ako vam treba pomoc sa strategijom, [javite nam se](/kontakt).
       "datePublished": "2026-03-25",
       "author": { "@type": "Organization", "name": "Platinum Zenith" },
       "publisher": { "@type": "Organization", "name": "Platinum Zenith", "url": "https://platinumzenith.com" },
-      "description": "Trziste influencer marketinga 32.5 milijardi dolara. Prosecni ROI 5.78x. Mikro-influenseri imaju 60% visi engagement uz desetinu cene. UGC konvertuje 10x bolje.",
+      "description": "Tržište influencer marketinga 32.5 milijardi dolara. Prosečni ROI 5.78x. Mikro-influenseri imaju 60% viši engagement uz desetinu cene. UGC konvertuje 10x bolje.",
       "mainEntityOfPage": "https://platinumzenith.com/blog/influencer-marketing-statistika-roi-mikro-influenseri-ugc-2026"
     }
   },
   {
     slug: 'drustvene-mreze-statistika-korisnici-engagement-vreme-ad-spend-2026',
-    title: 'Društvene mreže u brojevima: korisnici, engagement, vreme i potrosnja na oglase (2026)',
-    excerpt: '5.66 milijardi korisnika, 2h 23min dnevno, TikTok engagement 4.2%, globalna potrosnja na oglase 277 milijardi dolara. Benchmark podaci po platformi.',
+    title: 'Društvene mreže u brojevima: korisnici, engagement, vreme i potrošnja na oglase (2026)',
+    excerpt: '5.66 milijardi korisnika, 2h 23min dnevno, TikTok engagement 4.2%, globalna potrošnja na oglase 277 milijardi dolara. Benchmark podaci po platformi.',
     date: '2026-03-25',
     category: 'Marketing',
     readTime: '10 min',
     content: `
-## 5.66 milijardi ljudi koristi drustvene mreze
+## 5.66 milijardi ljudi koristi društvene mreže
 
-Taj broj je tesko zamisliti. Skoro 70% celokupne svetske populacije ima nalog na bar jednoj platformi. I ta cifra raste za oko 260 miliona novih korisnika godisnje.
+Taj broj je teško zamisliti. Skoro 70% celokupne svetske populacije ima nalog na bar jednoj platformi. I ta cifra raste za oko 260 miliona novih korisnika godišnje.
 
-Ali za vlasnike firmi, ukupan broj korisnika je beskoristan bez konteksta. Bitno je gde su VASI potencijalni kupci, koliko vremena provode tamo, i kolika je sansa da primete vasu poruku.
+Ali za vlasnike firmi, ukupan broj korisnika je beskoristan bez konteksta. Bitno je gde su VASI potencijalni kupci, koliko vremena provode tamo i kolika je šansa da primete vašu poruku.
 
-Evo sta kazu podaci za svaku platformu.
+Evo šta kažu podaci za svaku platformu.
 
 ## Broj korisnika po platformi (2025-2026)
 
-### Facebook — i dalje najveci
+### Facebook — i dalje najveći
 
-- **3.07 milijardi** mesecno aktivnih korisnika u 2025, rast ka **3.22 milijarde** u 2026
-- Najstarija demografija medju velikim platformama, ali i dalje dominantan za lokalne biznise
-- U Srbiji i regionu, Facebook ostaje primarna platforma za oglas ciljanje 25-65 godine
+- **3.07 milijardi** mesečno aktivnih korisnika u 2025, rast ka **3.22 milijarde** u 2026
+- Najstarija demografija među velikim platformama, ali i dalje dominantan za lokalne biznise
+- U Srbiji i regionu, Facebook ostaje primarna platforma za oglasno ciljanje od 25 do 65 godina
 
-Za cene oglasavanja pogledajte [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama).
+Za cene oglašavanja pogledajte [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama).
 
-### YouTube — druga po velicini mreza na svetu
+### YouTube — druga po veličini mreža na svetu
 
 - **2.53 milijarde** korisnika u 2025, rast ka **2.85 milijardi** u 2026
-- Druga najpopularnija pretrazivacka platforma posle Google-a
-- Video sadrzaj koji ostaje relevantan mesecima i godinama (za razliku od postova na feedu)
+- Druga najpopularnija pretraživačka platforma posle Google-a
+- Video sadržaj koji ostaje relevantan mesecima i godinama (za razliku od postova na feedu)
 
 ### Instagram — 3 milijarde aktivnih korisnika
 
 - **3 milijarde** MAU u 2025
-- Reels format dominira organski doseg
-- Kriticna platforma za vizuelne biznise (moda, hrana, nekretnine, lepota)
+- Reels format dominira organski dosegom
+- Kritična platforma za vizuelne biznise (moda, hrana, nekretnine, lepota)
 
 Za cene pogledajte [Instagram reklame cena](/instagram-reklame-cena).
 
-### TikTok — najbrzi rast u istoriji
+### TikTok — najbrži rast u istoriji
 
 - **1.99 milijardi** korisnika u 2025
-- Preko **150 miliona** mesecno aktivnih korisnika samo u SAD-u
-- Publika se siri: vise nije samo za tinejdzere, 35-54 godina je najbrze rastuci segment
+- Preko **150 miliona** mesečno aktivnih korisnika samo u SAD-u
+- Publika se širi: više nije samo za tinejdžere, 35-54 godina je najbrže rastući segment
 
 ### LinkedIn — B2B dominacija
 
-- Presao **1 milijardu** clanova u 2025
+- Prešao **1 milijardu** članova u 2025
 - Jedina platforma gde je profesionalni kontekst default
-- Najbolji organski doseg medju svim platformama za B2B sadrzaj
+- Najbolji organski doseg među svim platformama za B2B sadržaj
 
 ### Ostale platforme
 
 - **WhatsApp:** 3 milijarde MAU (bitno za direktnu komunikaciju, ne za oglase)
 - **Telegram:** 1 milijarda MAU
-- **X (bivsi Twitter):** 660 miliona u 2026 (blagi pad)
-- **Pinterest:** 520 miliona (jak za e-commerce, pogotovo zenski proizvodi)
+- **X (bivši Twitter):** 660 miliona u 2026 (blagi pad)
+- **Pinterest:** 520 miliona (jak za e-commerce, pogotovo ženski proizvodi)
 - **Reddit:** 770 miliona (raste kao izvor za Google pretragu)
-- **Threads:** 380 miliona MAU u 2026 (znacajan rast sa 285M u 2025)
+- **Threads:** 380 miliona MAU u 2026 (značajan rast sa 285M u 2025)
 
-Prosecna osoba koristi **6.8 do 8 razlicitih platformi** mesecno. To znaci da vasi kupci nisu na jednom mestu. Ali ne morate biti svuda. Morate biti tamo gde su oni najaktivniji.
+Prosečna osoba koristi **6.8 do 8 različitih platformi** mesečno. To znači da vaši kupci nisu na jednom mestu. Ali ne morate biti svuda. Morate biti tamo gde su oni najaktivniji.
 
-## Koliko vremena ljudi provode na drustvenim mrezama
+## Koliko vremena ljudi provode na društvenim mrežama
 
 Globalni prosek u 2026: **2 sata i 23 minuta dnevno.**
 
 Ovo je ostalo relativno stabilno poslednjih godina (oko 2h 20min do 2h 25min). Ali raspodela po platformi se menja:
 
-- **TikTok:** 58 minuta dnevno (najvise od svih platformi)
+- **TikTok:** 58 minuta dnevno (najviše od svih platformi)
 - **Instagram:** 52 minuta dnevno
 - **Facebook:** 38 minuta dnevno
 
-TikTok je jedina platforma gde korisnici provode vise vremena nego prosle godine. Instagram drzi tempo, dok Facebook lagano gubi vreme korisnika ali ne i njihov broj.
+TikTok je jedina platforma gde korisnici provode više vremena nego prošle godine. Instagram drži tempo, dok Facebook lagano gubi vreme korisnika, ali ne i njihov broj.
 
-Za firme ovo znaci: imate oko **38 minuta** da dosegnete nekog na Facebooku. Na TikToku imate 58 minuta. Ali kvalitet te paznje nije isti. Na TikToku korisnik brzo skroluje, na LinkedInu citao jedan post 3 minuta.
+Za firme ovo znači: imate oko **38 minuta** da dosegnete nekog na Facebooku. Na TikToku imate 58 minuta. Ali kvalitet te pažnje nije isti. Na TikToku korisnik brzo skroluje, a na LinkedInu čita jedan post i po nekoliko minuta.
 
 ## Engagement rate po platformi (benchmark 2026)
 
-Ovo je najbitniji podatak za firme koje koriste drustvene mreze za marketing. Engagement rate pokazuje koliki procenat ljudi koji vide vas post zapravo reaguje (lajk, komentar, deljenje, klik).
+Ovo je najbitniji podatak za firme koje koriste društvene mreže za marketing. Engagement rate pokazuje koliki procenat ljudi koji vide vaš post zapravo reaguje (lajk, komentar, deljenje, klik).
 
-### Prosecni engagement rate po platformi
+### Prosečni engagement rate po platformi
 
-- **TikTok:** 4.2% (najvisi medju svim platformama, rast od 49% u odnosu na prethodnu godinu)
+- **TikTok:** 4.2% (najviši među svim platformama, rast od 49% u odnosu na prethodnu godinu)
 - **LinkedIn:** 2.1%
 - **Instagram Reels:** 1.23%
 - **Instagram (ukupno):** 0.48%
 - **X (Twitter):** 0.48%
 - **Facebook:** 0.15%
 
-TikTok dominira sa ogromnom razlikom. Engagement od 4.2% znaci da na svakih 1.000 pregleda dobijete 42 interakcije. Na Facebooku je to samo 1.5.
+TikTok dominira sa ogromnom razlikom. Engagement od 4.2% znači da na svakih 1.000 pregleda dobijete 42 interakcije. Na Facebooku je to samo 1.5.
 
-Ali pazite na kontekst: visok engagement ne znaci automatski visoku prodaju. TikTok engagement je cesto "pasivan" (gledanje videa), dok LinkedIn engagement (komentar na post) cesto vodi ka poslovnom razgovoru.
+Ali pazite na kontekst: visok engagement ne znači automatski visoku prodaju. TikTok engagement je često "pasivan" (gledanje videa), dok LinkedIn engagement (komentar na post) često vodi ka poslovnom razgovoru.
 
-### Engagement po velicini naloga
+### Engagement po veličini naloga
 
-Manji nalozi imaju veci engagement rate. Ovo vazi za sve platforme:
+Manji nalozi imaju veći engagement rate. Ovo važi za sve platforme:
 
-- Nalozi ispod 10.000 pratilaca: 2-5x veci engagement od naloga sa milion+
-- Razlog: algoritam favorizuje bliskost i relevantnost nad velicinom publike
+- Nalozi ispod 10.000 pratilaca: 2-5x veći engagement od naloga sa milion+
+- Razlog: algoritam favorizuje bliskost i relevantnost nad veličinom publike
 
-Za firme u Srbiji sa 500-5.000 pratilaca, ovo je dobra vest. Vas engagement moze biti daleko iznad proseka ako je sadrzaj relevantan za vasu nisu.
+Za firme u Srbiji sa 500-5.000 pratilaca, ovo je dobra vest. Vaš engagement može biti daleko iznad proseka ako je sadržaj relevantan za vašu nišu.
 
-## Potrosnja na oglase na drustvenim mrezama
+## Potrošnja na oglase na društvenim mrežama
 
 ### Globalna slika
 
-- **$277 milijardi** potroseno na social media oglase u 2025
+- **$277 milijardi** potrošeno na social media oglase u 2025
 - Rast od **13.6%** u odnosu na prethodnu godinu
-- Social media oglasi rastu brze nego search oglasi
-- U 2026, globalna potrosnja na oglase prelazi **$1 trilion** (svi kanali), od cega je 74.4% digitalno
+- Social media oglasi rastu brže nego search oglasi
+- U 2026, globalna potrošnja na oglase prelazi **$1 trilion** (svi kanali), od čega je 74.4% digitalno
 
 ### Gde idu pare?
 
-Meta (Facebook + Instagram) uzima najveci deo kolaca, ali TikTok raste najbrze. YouTube je stabilan drugi. LinkedIn je skup ali precizan za B2B.
+Meta (Facebook + Instagram) uzima najveći deo kolača, ali TikTok raste najbrže. YouTube je stabilan drugi. LinkedIn je skup, ali precizan za B2B.
 
 Za konkretne cene u Srbiji pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga) i [Google Ads cene](/google-reklame-cena).
 
 ### ROI po platformi
 
-Vracanje na investiciju zavisi od industrije i ciljeva, ali generalni trend je:
+Vraćanje na investiciju zavisi od industrije i ciljeva, ali generalni trend je:
 
 - **Facebook/Instagram:** najstabilniji ROI za e-commerce i lokalne usluge
 - **TikTok:** najbolji CPM (cena po 1.000 prikaza), ali konverzija zahteva dobar funnel
-- **LinkedIn:** najskuplji CPC, ali najvisi kvalitet lead-ova za B2B
+- **LinkedIn:** najskuplji CPC, ali najviši kvalitet lead-ova za B2B
 - **YouTube:** dugotrajni ROI jer video ostaje aktivan mesecima
 
-Za detaljnije poredjenje pogledajte [ROAS po platformi](/blog/roas-po-industriji-i-platformi-benchmark-statistika-2026).
+Za detaljnije poređenje pogledajte [ROAS po platformi](/blog/roas-po-industriji-i-platformi-benchmark-statistika-2026).
 
-## Sta ovo znaci za vas biznis u Srbiji
+## Šta ovo znači za vaš biznis u Srbiji
 
 ### Ako imate lokalni biznis
 
-Facebook je i dalje vas primarni kanal. Najveca baza korisnika 30-65 godina u Srbiji, precizno geografsko ciljanje, relativno nizak CPC. Dodajte Instagram za vizuelni sadrzaj.
+Facebook je i dalje vaš primarni kanal. Najveća baza korisnika od 30 do 65 godina u Srbiji, precizno geografsko ciljanje, relativno nizak CPC. Dodajte Instagram za vizuelni sadržaj.
 
 ### Ako prodajete online (e-commerce)
 
-Instagram + Facebook su osnova. TikTok za gornji deo funnela (svest o brendu). Pinterest ako prodajete vizuelne proizvode (nakit, odeca, dekoracija). Retargeting je obavezan jer samo [2-5% posetilaca kupi iz prve](/blog/retargeting-zasto-95-posetilaca-ne-kupi).
+Instagram + Facebook su osnova. TikTok za gornji deo funnela (svest o brendu). Pinterest ako prodajete vizuelne proizvode (nakit, odeća, dekoracija). Retargeting je obavezan jer samo [2-5% posetilaca kupi iz prve](/blog/retargeting-zasto-95-posetilaca-ne-kupi).
 
 ### Ako nudite B2B usluge
 
-LinkedIn je neizbezno. Najvisi engagement za profesionalni sadrzaj, precizno ciljanje po poziciji, industriji i velicini firme. Skuplji, ali kvalitetniji.
+LinkedIn je neizbežan. Najviši engagement za profesionalni sadržaj, precizno ciljanje po poziciji, industriji i veličini firme. Skuplji, ali kvalitetniji.
 
 ### Ako ciljate mlađu publiku (18-34)
 
-TikTok i Instagram Reels. Engagement rate koji daleko nadmasuje sve ostale platforme. Ali sadrzaj mora biti autentičan. Poliran korporativni sadrzaj ne radi na TikToku.
+TikTok i Instagram Reels. Engagement rate koji daleko nadmašuje sve ostale platforme. Ali sadržaj mora biti autentičan. Poliran korporativni sadržaj ne radi na TikToku.
 
-## Zakljucak: brojevi nisu strategija
+## Zaključak: brojevi nisu strategija
 
-5.66 milijardi korisnika zvuci impresivno u prezentaciji. Ali vas biznis ne treba 5 milijardi. Treba vam 500 pravih kupaca.
+5.66 milijardi korisnika zvuči impresivno u prezentaciji. Ali vaš biznis ne treba 5 milijardi. Treba vam 500 pravih kupaca.
 
-Koristite ove podatke da izaberete GIDE cete biti prisutni i koliko cete uloziti. Ne pokusavajte da budete svuda. Budite tamo gde su vasi kupci najaktivniji, sa sadrzajem koji zapravo resava njihove probleme.
+Koristite ove podatke da izaberete gde ćete biti prisutni i koliko ćete uložiti. Ne pokušavajte da budete svuda. Budite tamo gde su vaši kupci najaktivniji, sa sadržajem koji zapravo rešava njihove probleme.
 
-Ako niste sigurni odakle da krenete, [javite nam se](/kontakt) za besplatnu analizu vasih kanala.
+Ako niste sigurni odakle da krenete, [javite nam se](/kontakt) za besplatnu analizu vaših kanala.
 `,
     schema: {
       "@context": "https://schema.org",
       "@type": "Article",
-      "headline": "Drustvene mreze u brojevima: korisnici, engagement, vreme i potrosnja na oglase (2026)",
+      "headline": "Društvene mreže u brojevima: korisnici, engagement, vreme i potrošnja na oglase (2026)",
       "datePublished": "2026-03-25",
       "author": { "@type": "Organization", "name": "Platinum Zenith" },
       "publisher": { "@type": "Organization", "name": "Platinum Zenith", "url": "https://platinumzenith.com" },
-      "description": "5.66 milijardi korisnika, 2h 23min dnevno, TikTok engagement 4.2%, globalna potrosnja na oglase 277 milijardi dolara. Benchmark podaci po platformi.",
+      "description": "5.66 milijardi korisnika, 2h 23min dnevno, TikTok engagement 4.2%, globalna potrošnja na oglase 277 milijardi dolara. Benchmark podaci po platformi.",
       "mainEntityOfPage": "https://platinumzenith.com/blog/drustvene-mreze-statistika-korisnici-engagement-vreme-ad-spend-2026"
     }
   },
@@ -2482,81 +2482,81 @@ Razlika nije u platformi. Razlika je u pristupu.
     category: 'Marketing',
     readTime: '8 min',
     content: `
-## "Gde da ulozim sledecih 1.000 evra?"
+## "Gde da uložim sledećih 1.000 evra?"
 
-Ovo je najcesce pitanje vlasnika firmi u Srbiji. Odgovor ne bi trebalo da bude zasnovan na intuiciji ili na tome koji prodavac oglasa vas je poslednji zvao. Odgovor lezi u tome sta zapravo radi za uspesne firme u vasoj industriji.
+Ovo je najčešće pitanje vlasnika firmi u Srbiji. Odgovor ne bi trebalo da bude zasnovan na intuiciji ili na tome koji prodavac oglasa vas je poslednji zvao. Odgovor leži u tome šta zapravo radi za uspešne firme u vašoj industriji.
 
-Podaci iz Gartner i Deloitte/CMO Survey istrazivanja (2024-2025) daju jasnu sliku kako najuspesnije firme alociraju svoje marketing budzete danas.
+Podaci iz Gartner i Deloitte/CMO Survey istraživanja (2024-2025) daju jasnu sliku kako najuspešnije firme alociraju svoje marketing budžete danas.
 
-Za opste cene u Srbiji pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Za opšte cene u Srbiji pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-## Koliki procenat prihoda treba uloziti u marketing
+## Koliki procenat prihoda treba uložiti u marketing
 
-Pre nego sto rasporedite budzet, morate znati koliki on treba da bude. U 2025. godini, marketing budzeti u proseku iznose:
+Pre nego što rasporedite budžet, morate znati koliki on treba da bude. U 2025. godini, marketing budžeti u proseku iznose:
 
 - **B2B firme:** 7.7% do 8.7% od ukupnog prihoda
 - **B2C firme:** 10.1% do 11.4% od ukupnog prihoda
 - **Startup / firme u brzom rastu:** 15% do 25% (neki investiraju i do 50% u fazi agresivnog rasta)
 
-B2C firme uvek trose veci procenat na marketing jer zavise od masovnog dosega i volumena, dok B2B firme cesto imaju dugorocne ugovore i manji broj velikih klijenata. Za detaljnije podatke pogledajte [koliko firme trose na marketing](/blog/koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026).
+B2C firme uvek troše veći procenat na marketing jer zavise od masovnog dosega i volumena, dok B2B firme često imaju dugoročne ugovore i manji broj velikih klijenata. Za detaljnije podatke pogledajte [koliko firme trose na marketing](/blog/koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026).
 
-## Digitalno vs Tradicionalno (61% vs 39%)
+## Digitalno vs tradicionalno (61% vs 39%)
 
 Trend prelaska na digitalno se ubrzava, ali tradicionalni marketing nije mrtav.
 
-- **Digitalni kanali:** 61.1% ukupnog marketing budzeta (rast sa 56% u 2024)
+- **Digitalni kanali:** 61.1% ukupnog marketing budžeta (rast sa 56% u 2024)
 - **Tradicionalni kanali:** 38.9% (TV, radio, bilbordi, print)
 
-Zanimljiv podatak: i pored digitalne dominacije, 93% marketing lidera kaze da ce zadrzati investicije u in-person dogadjaje (konferencije, sajmovi) u 2026. godini. Ljudi su zeljni fizickog kontakta posle godina zoom sastanaka.
+Zanimljiv podatak: i pored digitalne dominacije, 93% marketing lidera kaže da će zadržati investicije u in-person događaje (konferencije, sajmovi) u 2026. godini. Ljudi su željni fizičkog kontakta posle godina Zoom sastanaka.
 
-## Gde ide digitalni budzet (Top 4 kanala)
+## Gde ide digitalni budžet (Top 4 kanala)
 
 Od onih 61.1% koji idu na digitalni marketing, evo kako se novac deli (prosek za sve industrije u 2025):
 
-1. **Paid Search (Google Ads):** 13.9% digitalnog budzeta
-2. **Digital Display (Banneri):** 12.5%
+1. **Paid Search (Google Ads):** 13.9% digitalnog budžeta
+2. **Digital Display (banneri):** 12.5%
 3. **Paid Social (Meta, TikTok, LinkedIn):** 12.2%
 4. **Email marketing:** 7.4%
-5. **SEO i Organski content:** 8-12%
+5. **SEO i organski content:** 8-12%
 
-Google Ads i dalje uzima najveci deo kolaca jer donosi najdirektniji ROI. Ljudi na Google-u vec traze da kupe. Za cene klikova pogledajte [Google Ads cene u Srbiji](/google-reklame-cena).
+Google Ads i dalje uzima najveći deo kolača jer donosi najdirektniji ROI. Ljudi na Google-u već traže da kupe. Za cene klikova pogledajte [Google Ads cene u Srbiji](/google-reklame-cena).
 
-## B2B vs B2C alokacija: kljucne razlike
+## B2B vs B2C alokacija: ključne razlike
 
-### Kako B2B firme rasporedjuju budzet
+### Kako B2B firme raspoređuju budžet
 
-B2B prodajni ciklus je dug (prosecno 10.1 meseci u 2025). Zato B2B budzet izgleda drugacije:
+B2B prodajni ciklus je dug (prosečno 10.1 meseci u 2025). Zato B2B budžet izgleda drugačije:
 
-- **Content marketing i SEO:** 20-30% budzeta. Blogovi, whitepaperi, studije slucaja grade autoritet tokom dugog prodajnog ciklusa.
+- **Content marketing i SEO:** 20-30% budžeta. Blogovi, whitepaperi, studije slučaja grade autoritet tokom dugog prodajnog ciklusa.
 - **Paid Ads (LinkedIn + Google Search):** 30-40%. Cene klikova su visoke (vidite [LinkedIn Ads cene](/blog/linkedin-reklame-cena-b2b-marketing-srbija-2026)), ali je namera kupca jasna.
-- **Dogadjaji / Sales enablement:** 15-20%.
+- **Događaji / Sales enablement:** 15-20%.
 - **Marketing tehnologije (CRM, automatizacija):** 10-15%.
 
-Najveci ROI za B2B firme dolazi od **SEO/Website/Blog** napora.
+Najveći ROI za B2B firme dolazi od **SEO/Website/Blog** napora.
 
-### Kako B2C firme rasporedjuju budzet
+### Kako B2C firme raspoređuju budžet
 
-B2C prodaja je brza, impulsivna i vizuelna. Zato B2C alocira 61.4% celokupnog budzeta iskljucivo na digitalne kanale:
+B2C prodaja je brza, impulsivna i vizuelna. Zato B2C alocira 61.4% celokupnog budžeta isključivo na digitalne kanale:
 
 - **Paid Social & Display:** 40-50%. Fokus na brzinu i volumen konverzija.
-- **Social media & Influenseri:** 20-35%. Gradnja brenda kroz zajednicu.
-- **Email marketing:** 10-15%. Zadrzavanje kupaca (najvisi ROI za e-commerce).
+- **Social media & influenseri:** 20-35%. Gradnja brenda kroz zajednicu.
+- **Email marketing:** 10-15%. Zadržavanje kupaca (najviši ROI za e-commerce).
 
-Za cene drustvenih mreza pogledajte [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama) i [Instagram reklame cena](/instagram-reklame-cena).
+Za cene društvenih mreža pogledajte [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama) i [Instagram reklame cena](/instagram-reklame-cena).
 
-## Pravilo 70/20/10 za planiranje budzeta
+## Pravilo 70/20/10 za planiranje budžeta
 
-Najsigurniji okvir za raspodelu budzeta za male i srednje firme u Srbiji 2026. godine je takozvano 70/20/10 pravilo:
+Najsigurniji okvir za raspodelu budžeta za male i srednje firme u Srbiji 2026. godine je takozvano 70/20/10 pravilo:
 
-- **70% budzeta u "Proven" (Sigurno):** Kanali koji vec donose merljive rezultate. Za vecinu firmi u Srbiji to su Google Search oglasi i Facebook/Instagram retargeting. Ovo je novac koji placa plate.
-- **20% budzeta u "Growth" (Rast):** Kanali koji pokazuju potencijal ali jos nisu optimizovani. Na primer, SEO, email automatizacija ili LinkedIn oglasi.
-- **10% budzeta u "Experiment" (Eksperiment):** Testiranje potpuno novih stvari gde mozete izgubiti novac, ali potencijalna nagrada je ogromna. Na primer: TikTok oglasi, AI influenseri, novi formati videa.
+- **70% budžeta u "Proven" (Sigurno):** Kanali koji već donose merljive rezultate. Za većinu firmi u Srbiji to su Google Search oglasi i Facebook/Instagram retargeting. Ovo je novac koji plaća plate.
+- **20% budžeta u "Growth" (Rast):** Kanali koji pokazuju potencijal, ali još nisu optimizovani. Na primer, SEO, email automatizacija ili LinkedIn oglasi.
+- **10% budžeta u "Experiment" (Eksperiment):** Testiranje potpuno novih stvari gde možete izgubiti novac, ali potencijalna nagrada je ogromna. Na primer: TikTok oglasi, AI influenseri, novi formati videa.
 
-Kada "Eksperiment" kanal dokaze da donosi ROI, prebacujete ga u "Growth" korpu, a zatim u "Sigurno" korpu.
+Kada "Eksperiment" kanal dokaže da donosi ROI, prebacujete ga u "Growth" korpu, a zatim u "Sigurno" korpu.
 
-Za pomoc oko merenja i pracenja rezultata na svim kanalima, preporucujemo nas tekst [kako meriti ROI digitalnog marketinga](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026). 
+Za pomoć oko merenja i praćenja rezultata na svim kanalima, preporučujemo naš tekst [kako meriti ROI digitalnog marketinga](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026). 
 
-Ako vam je potrebna pomoc da pravilno rasporedite vas marketing budzet za maksimalan povrat u Srbiji, javite se preko [kontakt forme](/kontakt) -- izradicemo detaljan plan za vasu industriju.
+Ako vam je potrebna pomoć da pravilno rasporedite vaš marketing budžet za maksimalan povrat u Srbiji, javite se preko [kontakt forme](/kontakt) — izradićemo detaljan plan za vašu industriju.
 
 *Izvori: Gartner CMO Spend Survey (2024-2025), The CMO Survey by Deloitte (2025), BrandRatna Marketing Budget by Industry (2025), Transmission B2B Budget Benchmarks (2025).*
 `
@@ -3151,38 +3151,38 @@ Zelite da integrisete SMS u svoju marketing strategiju? [Javite nam se](/kontakt
   },
   {
     slug: 'voice-search-glasovna-pretraga-uticaj-na-lokalni-seo-statistika-2026',
-    title: 'Voice search i lokalni SEO: kako glasovna pretraga menja nacin na koji kupci vas pronalaze',
-    excerpt: 'Statistike o glasovnoj pretrazi 2025-2026. 76% voice search upita je lokalno, 8.4 milijarde glasovnih asistenata i kako optimizovati za "blizu mene".',
+    title: 'Voice search i lokalni SEO: kako glasovna pretraga menja način na koji vas kupci pronalaze',
+    excerpt: 'Statistike o glasovnoj pretrazi 2025-2026: 76% voice search upita je lokalno, 8.4 milijarde glasovnih asistenata i kako optimizovati za upite poput "blizu mene".',
     date: '2026-03-24',
     category: 'Lokalni SEO',
     readTime: '7 min',
     content: `
-## 8.4 milijarde glasovnih asistenata — vise nego ljudi na planeti
+## 8.4 milijarde glasovnih asistenata, više nego ljudi na planeti
 
-Voice search (glasovna pretraga) nije buducnost. To je sadasnjost sa **8.4 milijarde glasovnih asistenata** u upotrebi globalno u 2024 — vise od ukupne svetske populacije. Svaki pametni telefon, pametni zvucnik i auto ima glasovnog asistenta.
+Voice search (glasovna pretraga) nije budućnost. To je sadašnjost sa **8.4 milijarde glasovnih asistenata** u upotrebi globalno u 2024, više od ukupne svetske populacije. Svaki pametni telefon, pametni zvučnik i auto danas ima neku vrstu glasovnog asistenta.
 
-Za lokalne biznise u Srbiji, ovo je izuzetno vazno jer **76% svih glasovnih pretraga** ima lokalni intent — "restoran blizu mene", "stomatolog otvoreno sada", "autoservis u blizini".
+Za lokalne biznise u Srbiji, ovo je izuzetno važno jer **76% svih glasovnih pretraga** ima lokalni intent: "restoran blizu mene", "stomatolog otvoreno sada", "autoservis u blizini".
 
-Za lokalni SEO pogledajte [GBP optimizacija](/blog/google-business-profile-optimizacija-srbija-2026). Za lokalne citate pogledajte [citati i direktorijumi vodic](/blog/lokalni-seo-citati-direktorijumi-srbija-2026).
+Za lokalni SEO pogledajte [GBP optimizacija](/blog/google-business-profile-optimizacija-srbija-2026). Za lokalne citate pogledajte [citati i direktorijumi vodič](/blog/lokalni-seo-citati-direktorijumi-srbija-2026).
 
 ## Koliko ljudi koristi glasovnu pretragu
 
-- **20.5% globalnog stanovnistva** aktivno koristi voice search (2025)
-- **35% Amerikanaca** starijih od 12 godina poseduje pametni zvucnik (101M+ korisnika)
+- **20.5% globalnog stanovništva** aktivno koristi voice search (2025)
+- **35% Amerikanaca** starijih od 12 godina poseduje pametni zvučnik (101M+ korisnika)
 - **27% korisnika** koristi voice search na mobilnom telefonu
-- **71% korisnika** preferira glasovnu pretragu kad zele brz odgovor bez kucanja
-- Prosecni voice search upit ima **29 reci** (5x duze od tekst pretrage)
+- **71% korisnika** preferira glasovnu pretragu kad žele brz odgovor bez kucanja
+- Prosečni voice search upit ima **29 reči** (oko 5x duže od tekstualne pretrage)
 
-## Lokalni uticaj: zasto je voice search vazan za vas biznis
+## Lokalni uticaj: zašto je voice search važan za vaš biznis
 
 ### 76% je lokalno
 
 - **76% glasovnih pretraga** ima lokalni intent ("near me", "blizu mene", "u blizini")
-- **58% korisnika** koristi voice search da pronadje lokalne prodavnice i usluge
+- **58% korisnika** koristi voice search da pronađe lokalne prodavnice i usluge
 - **27% posetilaca** posle glasovne pretrage ode na sajt tog biznisa
-- Lokalni voice upiti su cesto spontani i traze trenutnu informaciju ("da li je otvoreno", "koji je broj telefona")
+- Lokalni voice upiti su često spontani i traže trenutnu informaciju ("da li je otvoreno", "koji je broj telefona")
 
-### Primeri upita koje vasi kupci vec koriste
+### Primeri upita koje vaši kupci već koriste
 
 - "Koji je najbolji stomatolog blizu mene?"
 - "Frizerski salon koji prima bez zakazivanja"
@@ -3190,51 +3190,51 @@ Za lokalni SEO pogledajte [GBP optimizacija](/blog/google-business-profile-optim
 - "Autoservis zamena ulja cena"
 - "Marketing agencija u Beogradu"
 
-Za SEO troskove pogledajte [SEO optimizacija cena](/seo-optimizacija-cena).
+Za SEO troškove pogledajte [SEO optimizacija cena](/seo-optimizacija-cena).
 
-## Kako optimizovati za voice search (5 koraka)
+## Kako optimizovati za voice search, 5 koraka
 
 ### 1) FAQ stranice sa konverzacionim pitanjima
 
-Voice search upiti su pitanja: "Kako", "Koji", "Gde", "Koliko". Napravite FAQ sekciju na sajtu sa tacnim pitanjima koja vasi kupci postavljaju glasom. Odgovorite u 2-3 recenice (Featured Snippet format).
+Voice search upiti su pitanja: "Kako", "Koji", "Gde", "Koliko". Napravite FAQ sekciju na sajtu sa tačnim pitanjima koja vaši kupci postavljaju glasom. Odgovorite u 2-3 rečenice, u Featured Snippet formatu.
 
-**50% voice search odgovora** dolazi iz Featured Snippet-ova. Pogledajte [Featured Snippet vodic](/blog/featured-snippet-i-ai-overview-uticaj-na-klikove-statistika-2026).
+**50% voice search odgovora** dolazi iz Featured Snippet-ova. Pogledajte [Featured Snippet vodič](/blog/featured-snippet-i-ai-overview-uticaj-na-klikove-statistika-2026).
 
 ### 2) Lokalni SEO signali
 
 - **Google Business Profile** mora biti kompletno popunjen (radno vreme, adresa, telefon, kategorija)
-- **NAP konzistentnost** na svim platformama (isto ime, adresa, telefon svuda)
-- **Recenzije** — vise recenzija = vecu sansa da Google vas preporuci glasom
+- **NAP konzistentnost** na svim platformama (isto ime, adresa i telefon svuda)
+- **Recenzije**: više recenzija znači veću šansu da Google vas preporuči glasom
 
-Za GBP pogledajte [kompletna checklista](/blog/google-business-profile-optimizacija-srbija-2026).
+Za GBP pogledajte [kompletnu checklistu](/blog/google-business-profile-optimizacija-srbija-2026).
 
 ### 3) Structured Data (Schema markup)
 
-LocalBusiness schema govori Google-u tacno gde ste, sta radite i kad ste otvoreni. Ovo je kljucno za glasovne upite tipa "koji je otvoreno sada blizu mene".
+LocalBusiness schema govori Google-u tačno gde ste, šta radite i kad ste otvoreni. Ovo je ključno za glasovne upite tipa "ko je otvoren sada blizu mene".
 
-### 4) Brzina sajta (obavezno)
+### 4) Brzina sajta je obavezna
 
-Voice search korisnici ocekuju INSTANT odgovor. Ako se sajt ucitava 5 sekundi, Google nece vas predloziti kao glasovni rezultat. Pogledajte [brzina sajta uticaj na rangiranje](/blog/kako-brzina-sajta-utice-na-rangiranje-na-googlu-2026).
+Voice search korisnici očekuju instant odgovor. Ako se sajt učitava 5 sekundi, Google vas neće predložiti kao glasovni rezultat. Pogledajte [brzina sajta i uticaj na rangiranje](/blog/kako-brzina-sajta-utice-na-rangiranje-na-googlu-2026).
 
-### 5) Long-tail kljucne reci u prirodnom govoru
+### 5) Long-tail ključne reči u prirodnom govoru
 
-Umesto "stomatolog Beograd", optimizujte za "koji je najbolji stomatolog u Beogradu za deciju stomatologiju". Voice search upiti su dugi i konverzacioni — vasi sadrzaj treba da odrazava nacin na koji ljudi GOVORE, ne kako kucaju.
+Umesto "stomatolog Beograd", optimizujte za "koji je najbolji stomatolog u Beogradu za dečiju stomatologiju". Voice search upiti su dugi i konverzacioni, pa vaš sadržaj treba da odražava način na koji ljudi govore, a ne samo kako kucaju.
 
-## Smart zvucnici: trziste i trendovi
+## Smart zvučnici, tržište i trendovi
 
-- **Amazon Echo:** 65-67% trzisnog udela u SAD (dominantan)
+- **Amazon Echo:** 65-67% tržišnog udela u SAD
 - **Google Nest:** 17-27%
 - **Apple HomePod:** 15-21%
-- **Globalno trziste pametnih zvucnika:** 15.1 milijardi USD (2025), prognoza 52.4 milijarde do 2030
-- **Google Assistant** razume ~100% pitanja i daje tacan odgovor u 92.9% slucajeva
+- **Globalno tržište pametnih zvučnika:** 15.1 milijardi USD (2025), prognoza 52.4 milijarde do 2030.
+- **Google Assistant** razume skoro 100% pitanja i daje tačan odgovor u 92.9% slučajeva
 
-## Sta ovo znaci za srpske firme
+## Šta ovo znači za srpske firme
 
-Voice search u Srbiji je jos uvek u ranoj fazi (vecina koristi Google Assistant na telefonu, pametni zvucnici su retki). Ali trend raste brzo:
+Voice search u Srbiji je još uvek u ranoj fazi. Većina korisnika koristi Google Assistant na telefonu, dok su pametni zvučnici i dalje ređi. Ipak, trend raste brzo:
 
-- **Mladi korisnici** (18-35) vec redovno koriste glasovnu pretragu na telefonu
-- **Lokalne pretrage** su najcesce (76%) — idealno za male biznise
-- Firme koje se sad optimizuju za voice search ce imati prednost kad trend eksplodira
+- **Mladi korisnici** (18-35) već redovno koriste glasovnu pretragu na telefonu
+- **Lokalne pretrage** su najčešće, što je idealno za male biznise
+- Firme koje se sada optimizuju za voice search imaće prednost kada trend dodatno poraste
 
 ### Prioritetne akcije za srpske firme
 
@@ -3702,106 +3702,106 @@ Za pomoc sa marketing strategijom javite se preko [kontakt forme](/kontakt). Za 
   },
   {
     slug: 'google-ads-smart-bidding-vs-manual-statistika-2026',
-    title: 'Google Ads Smart Bidding vs rucno: koliko automatizacija zaista poboljšava rezultate',
-    excerpt: 'Statistike o Google Ads Smart Bidding performansama 2025-2026. Target CPA vs Target ROAS, manual vs automated i koliko AI poboljšava konverzije.',
+    title: 'Google Ads Smart Bidding vs ručno: koliko automatizacija zaista poboljšava rezultate',
+    excerpt: 'Statistike o Google Ads Smart Bidding performansama 2025-2026: Target CPA vs Target ROAS, manual vs automated pristup i koliko AI može da poboljša konverzije.',
     date: '2026-03-24',
     category: 'Google Ads',
     readTime: '7 min',
     content: `
-## 80% oglasivaca vec koristi automatsko licitiranje — a ostali gube novac
+## 80% oglašivača već koristi automatsko licitiranje, a ostali često gube novac
 
-U 2025. godini, **vise od 80% Google Ads oglasivaca** koristi neku formu automatskog licitiranja (Smart Bidding). Razlog je jednostavan: AI optimizuje licitacije u realnom vremenu, analizirajuci stotine signala koje ljudski mozak ne moze da procesira.
+U 2025. godini, **više od 80% Google Ads oglašivača** koristi neku formu automatskog licitiranja, odnosno Smart Bidding. Razlog je jednostavan: algoritam optimizuje licitacije u realnom vremenu, analizirajući stotine signala koje ljudski mozak ne može da obradi dovoljno brzo.
 
-Firme koje koriste AI-based optimizaciju beleeze **25% vise konverzija** i **20% efikasniji CPA**. A rucno upravljani nalozi, cak i sa Smart Bidding-om aktivnim, propustaju **35-50% potencijalnog ucinaka** (Amanda AI istrazivanje 2025).
+Firme koje koriste AI optimizaciju beleže **25% više konverzija** i oko **20% efikasniji CPA**. Nasuprot tome, ručno upravljani nalozi često propuštaju značajan deo potencijala.
 
-Za pregled Google Ads troskova pogledajte [Google reklame cena](/google-reklame-cena). Za Quality Score optimizaciju pogledajte [Quality Score vodic](/blog/google-ads-quality-score-vodic-srbija-2026).
+Za pregled Google Ads troškova pogledajte [Google reklame cena](/google-reklame-cena). Za Quality Score optimizaciju pogledajte [Quality Score vodič](/blog/google-ads-quality-score-vodic-srbija-2026).
 
-## Smart Bidding performanse: konkretni brojevi
+## Smart Bidding performanse, konkretni brojevi
 
 ### Generalni podaci (2024-2025 benchmark)
 
-- **CTR prosek:** Porastao za 3.74% god-za-god
-- **CPC prosek:** Porastao za 12.88% (konkurencija raste)
-- **Konverzija (CVR):** Poboljsana za 6.84% 
-- **CPL (Cost Per Lead):** Porastao na 70.11 USD (sa 66.69 USD — rast od 5.13%)
-- **Smart Bidding smanjuje CPA** za do **30%** u odnosu na rucno licitiranje
+- **CTR prosek:** porast od 3.74% god-za-god
+- **CPC prosek:** rast od 12.88% zbog jače konkurencije
+- **Konverzija (CVR):** poboljšanje od 6.84%
+- **CPL (Cost Per Lead):** porast na 70.11 USD (sa 66.69 USD)
+- **Smart Bidding** može smanjiti CPA i do **30%** u odnosu na ručno licitiranje
 
-### Autonomni AI vs rucno upravljanje (Amanda AI studija)
+### Autonomni AI vs ručno upravljanje (Amanda AI studija)
 
-Najzanimljivija studija iz 2025. uporedila je potpuno autonomnu AI optimizaciju sa rucnim upravljanjem Smart Bidding kampanjama:
+Jedna od zanimljivijih studija iz 2025. uporedila je potpuno autonomnu AI optimizaciju sa ručnim upravljanjem kampanjama koje već koriste Smart Bidding logiku.
 
-**Target CPA nalozi (autonomni AI):**
-- Stvarni CPA bio **18% ispod targeta** (AI je nadmasio cilj)
-- **46% vise konverzija** nego rucno upravljani nalozi
-- **97% iskoristenje budzeta** (rucno: obicno 70-80%)
+**Target CPA nalozi sa autonomnim AI pristupom:**
+- stvarni CPA bio je **18% ispod targeta**
+- ostvareno je **46% više konverzija** nego kod ručno upravljanih naloga
+- iskorišćenost budžeta išla je do **97%**
 
-**Autonomni AI vs manual (generalno):**
-- AI donosi **40-65% bolje rezultate** za i Target CPA i Target ROAS
-- **71% rucno upravljanih naloga** koristi samo 50-65% potencijala cak i kad ima Smart Bidding ukljucen
+**Autonomni AI vs manual, generalno:**
+- AI donosi **40-65% bolje rezultate** za i Target CPA i Target ROAS scenarije
+- **71% ručno upravljanih naloga** koristi samo 50-65% potencijala čak i kada ima uključen Smart Bidding sloj
 
-## Target CPA vs Target ROAS: koji izabrati
+## Target CPA vs Target ROAS, koji model izabrati
 
 ### Target CPA (cena po akviziciji)
 
-**Za koga:** Lead generation, usluzne firme, biznisi sa konzistentnom vrednoscu konverzije.
+**Za koga:** lead generation, uslužne firme i biznisi sa relativno stabilnom vrednošću konverzije.
 
-**Kako radi:** Postavite ciljani CPA (npr. 50 EUR) i Google optimizuje licitacije da maksimizuje konverzije na toj ceni.
-
-**Performanse:**
-- Bolji za **46% naloga** (Groas.ai istrazivanje)
-- Idealan kad imate jednu vrstu konverzije (form, poziv, preuzimanje)
-- Minimum: **30 konverzija mesecno** za efikasno ucenje algoritma
-
-### Target ROAS (povrat na potrosnju za reklame)
-
-**Za koga:** E-commerce, webshopovi sa razlicitim cenama proizvoda, biznisi koji mere prihod po kliku.
-
-**Kako radi:** Postavite ciljani ROAS (npr. 400% = 4 EUR prihoda za svaki 1 EUR potrosnje) i Google optimizuje za maksimizaciju prihoda.
+**Kako radi:** postavite ciljani CPA (na primer 50 EUR), a Google optimizuje licitacije da maksimizuje broj konverzija oko tog okvira.
 
 **Performanse:**
-- Bolji za **54% naloga** (isti izvor)
-- Za e-commerce sa katalogom: **31% bolje performanse** od Target CPA
-- Prelazak sa Target CPA na Target ROAS donosi **14% vise vrednosti konverzija**
+- bolji izbor za **46% naloga** prema Groas.ai istraživanju
+- idealan kada imate jednu dominantnu vrstu konverzije (forma, poziv, preuzimanje)
+- praktični minimum je oko **30 konverzija mesečno** da bi algoritam imao dovoljno podataka
+
+### Target ROAS (povrat na potrošnju za reklame)
+
+**Za koga:** e-commerce, webshopovi sa različitim cenama proizvoda i biznisi koji direktno mere prihod po kliku.
+
+**Kako radi:** postavite ciljani ROAS (na primer 400%, odnosno 4 EUR prihoda na svaki 1 EUR troška), a Google optimizuje za maksimizaciju prihoda.
+
+**Performanse:**
+- bolji izbor za **54% naloga** prema istom izvoru
+- kod e-commerce naloga često daje **31% bolje performanse** od Target CPA pristupa
+- prelazak sa Target CPA na Target ROAS može doneti **14% više vrednosti konverzija**
 
 ### Maximize Conversions
 
-**Za koga:** Pocetak kampanje, testiranje, kad nemate dovoljno podataka za Target CPA/ROAS.
+**Za koga:** početak kampanje, testiranje i situacije kada još nemate dovoljno istorijskih podataka za Target CPA ili ROAS.
 
-**Kako radi:** Google trosi ceo budzet pokusavajuci da maksimizuje broj konverzija bez cenovnog targeta.
+**Kako radi:** Google troši ceo budžet pokušavajući da maksimizuje broj konverzija bez unapred postavljenog cenovnog targeta.
 
-**Performanse:** 
-- PMax kampanje sa Maximize Conversions: +1% ROAS god-za-god (Q3 2024)
-- Dobar za volume ali manje kontrole nad cenom po konverziji
+**Performanse:**
+- PMax kampanje sa Maximize Conversions strategijom beleže rast ROAS-a u benchmark podacima
+- dobar je za volumen, ali daje manje kontrole nad cenom po konverziji
 
-## Kada rucno licitiranje i dalje ima smisla
+## Kada ručno licitiranje i dalje ima smisla
 
-### 1) Novi nalozi bez podataka
+### 1) Novi nalozi bez dovoljno podataka
 
-Ako nemate 30 konverzija mesecno, Smart Bidding nema dovoljno podataka za ucenje. Pocnite rucno, prikupite podatke 2-4 nedelje, pa predjite na automatsko.
+Ako nemate oko 30 konverzija mesečno, Smart Bidding često nema dovoljno podataka za kvalitetno učenje. U tim slučajevima ima smisla krenuti ručno, skupiti signal 2-4 nedelje i tek onda preći na automatizaciju.
 
-### 2) Veoma mala nisa
+### 2) Veoma uska niša
 
-Za ultra-specificne kljucne reci sa malom pretragom (10-50 mesecno), AI algoritam nema dovoljno signala. Rucna kontrola daje bolje rezultate.
+Za ultra-specifične ključne reči sa malim obimom pretrage, algoritam ponekad nema dovoljno signala. Tada ručna kontrola može dati precizniji rezultat.
 
-### 3) Limitiran budzet (ispod 300 EUR mesecno)
+### 3) Ograničen budžet
 
-Sa malim budzetom, svaki klik je vazan. Rucna kontrola vam daje preciznost da birate gde tacno ide svaki evro.
+Ako je budžet nizak, svaki klik je važan. Ručno licitiranje daje više kontrole nad tim gde tačno ide svaki evro.
 
-### 4) Ucenje i razumevanje
+### 4) Učenje i razumevanje sistema
 
-Ako tek pocinjete sa Google Ads-om, rucno licitiranje vas uci kako sistem funkcionise. Preskocite na automatsko tek kad razumete osnove.
+Ako tek ulazite u Google Ads, ručno licitiranje može pomoći da razumete dinamiku sistema. Tek kad znate kako rade ključne reči, licitacije i kvalitet saobraćaja, automatizacija daje najbolji efekat.
 
-## Kako precu na Smart Bidding: 4 koraka
+## Kako preći na Smart Bidding, 4 koraka
 
-**Korak 1:** Postavite conversion tracking (obavezno pre bilo kakvog Smart Bidding-a). Za setup pogledajte [GA4 vodic](/blog/google-analytics-4-vodic-za-pocetnike-srbija-2026).
+**Korak 1:** postavite conversion tracking pre bilo kakvog Smart Bidding-a. Za setup pogledajte [GA4 vodič](/blog/google-analytics-4-vodic-za-pocetnike-srbija-2026).
 
-**Korak 2:** Pocnite sa Maximize Conversions (bez targeta) da Google prikupi podatke (2-4 nedelje).
+**Korak 2:** počnite sa Maximize Conversions bez targeta, kako bi Google prikupio početne podatke tokom 2-4 nedelje.
 
-**Korak 3:** Kad imate 30+ konverzija mesecno, predjite na Target CPA (za lead gen) ili Target ROAS (za e-commerce).
+**Korak 3:** kada imate 30+ konverzija mesečno, pređite na Target CPA (za lead gen) ili Target ROAS (za e-commerce).
 
-**Korak 4:** Sacekajte learning period (7-14 dana) bez menjanja budzeta ili targeta. AI treba vremena da se prilagodi.
+**Korak 4:** sačekajte learning period od 7-14 dana bez čestih promena budžeta ili targeta. Algoritmu treba vreme da se stabilizuje.
 
-Za profesionalno vodjenje Google Ads kampanja i Smart Bidding optimizaciju, javite se preko [kontakt forme](/kontakt). Za PMax kampanje pogledajte [Performance Max vodic](/blog/google-ads-performance-max-srbija-2026).
+Za profesionalno vođenje Google Ads kampanja i Smart Bidding optimizaciju, javite se preko [kontakt forme](/kontakt). Za PMax kampanje pogledajte [Performance Max vodič](/blog/google-ads-performance-max-srbija-2026).
 
 *Izvori: Amanda AI Autonomous Optimization Study (2025), WordStream Google Ads Benchmarks (2025), Groas.ai Target ROAS vs CPA Study (2025), Code3 Search Ads Trends (2025), Impulse Analytics Bidding Strategy Comparison (2025).*
 `
@@ -3934,175 +3934,175 @@ Za kompletnu strategiju pogledajte [marketing strategija vodič](/blog/marketing
   {
     slug: 'retargeting-remarketing-statistika-ctr-roas-konverzija-2026',
     title: 'Retargeting i remarketing statistika: CTR, ROAS, konverzija i CPC benchmark podaci za 2025-2026',
-    excerpt: 'Koliki je prosečni CTR retargeting oglasa, koliko košta klik, kakav ROAS ocekivati i koliko retargeting povećava konverziju? Citirani benchmark podaci za 2025-2026 po platformi.',
+    excerpt: 'Koliki je prosečni CTR retargeting oglasa, koliko košta klik, kakav ROAS očekivati i koliko retargeting povećava konverziju? Citirani benchmark podaci za 2025-2026 po platformi.',
     date: '2026-03-23',
     category: 'Marketing',
     readTime: '9 min',
     content: `
-## Zasto retargeting ostaje najefikasniji oblik digitalnog oglasavanja
+## Zašto retargeting ostaje najefikasniji oblik digitalnog oglašavanja
 
-Od svih posetilaca koji dodju na sajt, 98% nece kupiti prilikom prve posete. To znaci da firma koja ne koristi retargeting prepusta gotovo ceo saobracaj konkurenciji ili zaboravu. Retargeting (ili remarketing) omogucava da se ponovo obratite ljudima koji su vec pokazali interesovanje, bilo da su pogledali proizvod, dodali u korpu ili samo proveli vreme na sajtu.
+Od svih posetilaca koji dođu na sajt, 98% neće kupiti prilikom prve posete. To znači da firma koja ne koristi retargeting prepušta gotovo ceo saobraćaj konkurenciji ili zaboravu. Retargeting (ili remarketing) omogućava da se ponovo obratite ljudima koji su već pokazali interesovanje, bilo da su pogledali proizvod, dodali u korpu ili samo proveli vreme na sajtu.
 
-Prema DemandSage i MarketingLTB podacima za 2025, 77% marketara koristi retargeting kao deo svoje oglasne strategije, a 48% planira da poveca buddzet za retargeting u narednoj godini. Retargetirani korisnici su 70% skloniji konverziji od hladne publike.
+Prema DemandSage i MarketingLTB podacima za 2025, 77% marketara koristi retargeting kao deo svoje oglasne strategije, a 48% planira da poveća budžet za retargeting u narednoj godini. Retargetirani korisnici su 70% skloniji konverziji od hladne publike.
 
-Za kontekst o troskovima akvizicije bez retargetinga pogledajte [CPA benchmark po industriji](/blog/koliko-kosta-novi-klijent-cpa-po-industriji-google-facebook-2026). Za siroku sliku o konverzijama pogledajte [benchmark konverzija po industriji](/blog/prosecna-stopa-konverzije-po-industriji-benchmark-statistika-2026).
+Za kontekst o troškovima akvizicije bez retargetinga pogledajte [CPA benchmark po industriji](/blog/koliko-kosta-novi-klijent-cpa-po-industriji-google-facebook-2026). Za širu sliku o konverzijama pogledajte [benchmark konverzija po industriji](/blog/prosecna-stopa-konverzije-po-industriji-benchmark-statistika-2026).
 
-## CTR retargeting oglasa: 10x bolji od standardnog displeja
+## CTR retargeting oglasa: 10x bolji od standardnog displaya
 
-Klik-through rate (CTR) je prva metrika koja pokazuje koliko retargeting nadmasuje obican display.
+Click-through rate (CTR) je prva metrika koja pokazuje koliko retargeting nadmašuje običan display.
 
 **CTR retargeting vs standardni display (2025):**
 
-| Tip kampanje | Prosecni CTR | Napomena |
+| Tip kampanje | Prosečni CTR | Napomena |
 |-------------|-------------|---------|
 | Retargeting oglasi (prosek) | 0.9%-1.2% | Rast sa 0.8% u 2024 |
-| Standardni display oglasi | 0.05%-0.07% | Baseline za poredjenje |
+| Standardni display oglasi | 0.05%-0.07% | Baseline za poređenje |
 | Google Display retargeting | 0.7%-1.2% | GDN remarketing kampanje |
-| Facebook retargeting | 0.9%-1.1% | 94% visi CTR od standardnog displeja |
-| Dinamicki retargeting | do 2x standardnog | Personalizovani product ads |
-| Mobilni retargeting | +30-50% vs desktop | Vise interakcije na mobilnim uredjajima |
+| Facebook retargeting | 0.9%-1.1% | 94% viši CTR od standardnog displaya |
+| Dinamički retargeting | do 2x standardnog | Personalizovani product ads |
+| Mobilni retargeting | +30-50% vs desktop | Više interakcije na mobilnim uređajima |
 | Visoko segmentirani (nedavni posetioci) | 1%-2% | Najtoplija publika |
 
-Retargetirani oglasi postizu CTR koji je 10-13 puta visi od standardnog displeja. Na mobilnim uredjajima taj odnos je jos bolji jer korisnici cesce interaguju sa poznatim brendovima dok skroluju feed.
+Retargetirani oglasi postižu CTR koji je 10-13 puta viši od standardnog displaya. Na mobilnim uređajima taj odnos je još bolji jer korisnici češće interaguju sa poznatim brendovima dok skroluju feed.
 
-Dinamicki retargeting (koji prikazuje tacno proizvod koji je korisnik gledao) moze da udvostruci CTR u poredjenju sa generickim retargeting kreativima. Ovo je razlog zasto e-commerce brendovi sve vise prelaze na dinamicke kampanje.
+Dinamički retargeting (koji prikazuje tačno proizvod koji je korisnik gledao) može da udvostruči CTR u poređenju sa generičkim retargeting kreativima. Ovo je razlog zašto e-commerce brendovi sve više prelaze na dinamičke kampanje.
 
-Za benchmark podatke o CTR-u i CPC-u po drustvenim mrezama pogledajte [cena oglasavanja na drustvenim mrezama](/blog/cena-oglasavanja-na-drustvenim-mrezama-cpc-ctr-roi-po-platformi-2026).
+Za benchmark podatke o CTR-u i CPC-u po društvenim mrežama pogledajte [cena oglašavanja na društvenim mrežama](/blog/cena-oglasavanja-na-drustvenim-mrezama-cpc-ctr-roi-po-platformi-2026).
 
 ## CPC retargetinga: jeftiniji klik, toplija publika
 
-Osim sto ima bolji CTR, retargeting donosi i nizi trosak po kliku jer platforme nagradjuju visi engagement score.
+Osim što ima bolji CTR, retargeting donosi i niži trošak po kliku jer platforme nagrađuju viši engagement score.
 
 **CPC retargeting po platformi (2025):**
 
-| Platforma | Prosecni CPC | Poredjenje sa hladnim kampanjama |
+| Platforma | Prosečni CPC | Poređenje sa hladnim kampanjama |
 |-----------|-------------|--------------------------------|
 | Google Display retargeting | $0.25-$1.50 | 30-60% jeftiniji od cold display |
-| Facebook retargeting | $0.50-$1.20 | Znacajno ispod proseka za hladne |
+| Facebook retargeting | $0.50-$1.20 | Značajno ispod proseka za hladne |
 | LinkedIn retargeting | $4-$8 | Skuplji, ali za B2B opravdan |
 | Programmatic/display (prosek) | $0.40-$1.10 | Retargeting segment |
 | Ukupni prosek retargetinga | $0.95-$1.25 | Pad sa $1.30 u 2024 |
 
-Prosecni CPC za retargeting u 2025 iznosi $0.95-$1.25, sto je pad u odnosu na $1.30 godinu ranije. Ovaj trend ukazuje na bolju efikasnost biddinga i vecu konkurentnost retargeting aukcija koje platforme optimizuju za konverzije.
+Prosečni CPC za retargeting u 2025 iznosi $0.95-$1.25, što je pad u odnosu na $1.30 godinu ranije. Ovaj trend ukazuje na bolju efikasnost biddinga i veću konkurentnost retargeting aukcija koje platforme optimizuju za konverzije.
 
-LinkedIn retargeting je najskuplji ($4-$8 po kliku), ali za B2B kompanije ciji je prosecni deal vredan hiljade evra, taj trosak je cesto opravdan. Facebook i Google Display su najisplativije platforme za e-commerce i B2C retargeting.
+LinkedIn retargeting je najskuplji ($4-$8 po kliku), ali za B2B kompanije čiji je prosečni deal vredan hiljade evra, taj trošak je često opravdan. Facebook i Google Display su najisplativije platforme za e-commerce i B2C retargeting.
 
 Za detaljne podatke o ROAS-u po platformi pogledajte [ROAS benchmark po industriji i platformi](/blog/roas-po-industriji-i-platformi-benchmark-statistika-2026).
 
-## ROAS i ROI: koliko retargeting zaista vraca
+## ROAS i ROI: koliko retargeting zaista vraća
 
-Return on Ad Spend (ROAS) je metrika koja pokazuje koliko prihoda donosi svaki ulozen dolar u oglase. Retargeting konsistentno isporucuje najvisi ROAS od svih kanala.
+Return on Ad Spend (ROAS) je metrika koja pokazuje koliko prihoda donosi svaki uložen dolar u oglase. Retargeting konzistentno isporučuje najviši ROAS od svih kanala.
 
 **ROAS retargetinga po vertikali (2025):**
 
-| Vertikala | Prosecni ROAS | Napomena |
+| Vertikala | Prosečni ROAS | Napomena |
 |-----------|-------------|---------|
-| E-commerce retargeting | 8:1 | Najbolji rezultat medju vertikalama |
-| Retail brendovi | 6:1 | Fizicki + online prodavci |
-| SaaS brendovi | 4:1 | Duzi sales cycle, ali visok LTV |
-| Opsti prosek (sve industrije) | 4.2x | Rast sa 4.0x u 2024 |
-| Dinamicki product ads | +50-150% boost | Poboljsanje nad generickim retargetingom |
+| E-commerce retargeting | 8:1 | Najbolji rezultat među vertikalama |
+| Retail brendovi | 6:1 | Fizički + online prodavci |
+| SaaS brendovi | 4:1 | Duži sales cycle, ali visok LTV |
+| Opšti prosek (sve industrije) | 4.2x | Rast sa 4.0x u 2024 |
+| Dinamički product ads | +50-150% boost | Poboljšanje nad generičkim retargetingom |
 | AI-powered kampanje | do 10x ROAS | Napredna segmentacija i bidding |
 
-Prosecni ROAS za retargeting u 2025 iznosi 4.2x, sto je blagi rast u odnosu na 4.0x godinu ranije. E-commerce retargeting prednjaci sa ROAS-om od 8:1, dok SaaS kompanije postizu 4:1 zbog duzeg prodajnog ciklusa.
+Prosečni ROAS za retargeting u 2025 iznosi 4.2x, što je blagi rast u odnosu na 4.0x godinu ranije. E-commerce retargeting prednjači sa ROAS-om od 8:1, dok SaaS kompanije postižu 4:1 zbog dužeg prodajnog ciklusa.
 
-Dinamicki product ads (DPA) mogu da podignu ROAS za 50-150% u poredjenju sa statickim kreativima. AI-powered kampanje sa prediktivnom segmentacijom guraju pojedinacne kampanje i do 10x ROAS-a.
+Dinamički product ads (DPA) mogu da podignu ROAS za 50-150% u poređenju sa statičkim kreativima. AI-powered kampanje sa prediktivnom segmentacijom guraju pojedinačne kampanje i do 10x ROAS-a.
 
 ## Konverzije: retargeting kao multiplikator prodaje
 
-Konverzija je krajnji cilj, i tu retargeting pokazuje najvecu prednost.
+Konverzija je krajnji cilj, i tu retargeting pokazuje najveću prednost.
 
 **Uticaj retargetinga na konverziju (2025):**
 
 | Metrika | Vrednost | Izvor |
 |---------|---------|-------|
-| Verovatnoca konverzije retargetiranih korisnika | 70% veca | DemandSage 2025 |
-| Prosecno povecanje konverzije | 30-50% | Cropink, MarketingLTB |
-| Maksimalno povecanje konverzije | do 150% | SQ Magazine 2025 |
-| AI dinamicki retargeting lift | do 187% | SQ Magazine 2025 |
+| Verovatnoća konverzije retargetiranih korisnika | 70% veća | DemandSage 2025 |
+| Prosečno povećanje konverzije | 30-50% | Cropink, MarketingLTB |
+| Maksimalno povećanje konverzije | do 150% | SQ Magazine 2025 |
+| AI dinamički retargeting lift | do 187% | SQ Magazine 2025 |
 | Subscription + churn scoring | do 212% | Napredni use case |
 | Cross-device retargeting boost | +20% | Multi-device korisnici |
 | Email + retargeting kombinacija | +287% | Multi-channel pristup |
 | Google Ads retargeting CVR | 7.5% | Rast sa 7.2% u 2024 |
 
-Retargetirani korisnici konvertuju 70% cesce od novih posetilaca. Kada se retargeting kombinuje sa email remarketingom, konverzija moze da poraste za 287% u poredjenju sa single-channel pristupom.
+Retargetirani korisnici konvertuju 70% češće od novih posetilaca. Kada se retargeting kombinuje sa email remarketingom, konverzija može da poraste za 287% u poređenju sa single-channel pristupom.
 
-Cross-device retargeting (prikaz oglasa na mobilnom korisniku koji je gledao sajt na desktopu) dodatno podize konverzije za 20%.
+Cross-device retargeting (prikaz oglasa na mobilnom korisniku koji je gledao sajt na desktopu) dodatno podiže konverzije za 20%.
 
 Za podatke o email remarketingu pogledajte [email marketing open rate i CTR benchmark](/blog/email-marketing-open-rate-ctr-benchmark-po-industriji-2026).
 
-## CPA: retargeting smanjuje trosak akvizicije za 50%
+## CPA: retargeting smanjuje trošak akvizicije za 50%
 
-Posto retargeting cilja toplu publiku, trosak po akviziciji (CPA) je drasticno nizi.
+Pošto retargeting cilja toplu publiku, trošak po akviziciji (CPA) je drastično niži.
 
-**CPA poredjenje: retargeting vs hladne kampanje (2025):**
+**CPA poređenje: retargeting vs hladne kampanje (2025):**
 
-| Tip kampanje | Prosecni CPA | Razlika |
+| Tip kampanje | Prosečni CPA | Razlika |
 |-------------|-------------|---------|
 | Retargeting kampanje | $15-$25 | Baseline |
 | Standardne display kampanje | $30+ | 50-100% skuplji |
-| First-party data retargeting | jos 58% nizi CPA | Best-in-class segment |
+| First-party data retargeting | još 58% niži CPA | Best-in-class segment |
 
-Retargeting kampanje imaju prosecni CPA od $15-$25, dok standardne display kampanje kostaju $30 i vise. Razlika je jos veca kod firmi koje koriste first-party data, gde se CPA smanjuje za dodatnih 58%.
+Retargeting kampanje imaju prosečni CPA od $15-$25, dok standardne display kampanje koštaju $30 i više. Razlika je još veća kod firmi koje koriste first-party data, gde se CPA smanjuje za dodatnih 58%.
 
-Ovo znaci da firma sa 100 konverzija mesecno i CPA od $30 moze da smanji trosak na $15-$20 preusmeravanjem budzeta ka retargetingu, stedeci $1.000-$1.500 mesecno na istu kolicinu prodaje.
+Ovo znači da firma sa 100 konverzija mesečno i CPA od $30 može da smanji trošak na $15-$20 preusmeravanjem budžeta ka retargetingu, štedeći $1.000-$1.500 mesečno na istu količinu prodaje.
 
-Za siru sliku o troskovima akvizicije pogledajte [CPA benchmark po industriji](/blog/koliko-kosta-novi-klijent-cpa-po-industriji-google-facebook-2026).
+Za širu sliku o troškovima akvizicije pogledajte [CPA benchmark po industriji](/blog/koliko-kosta-novi-klijent-cpa-po-industriji-google-facebook-2026).
 
-## Retargeting i napustanje korpe: povracaj izgubljenih kupaca
+## Retargeting i napuštanje korpe: povraćaj izgubljenih kupaca
 
-Napustanje korpe je najocigledniji use case za retargeting jer su ti korisnici bili na korak od kupovine.
+Napuštanje korpe je najočigledniji use case za retargeting jer su ti korisnici bili na korak od kupovine.
 
-**Retargeting vs napustanje korpe (2025):**
+**Retargeting vs napuštanje korpe (2025):**
 
 | Metrika | Vrednost |
 |---------|---------|
-| Prosecna stopa napustanja korpe | 70% |
-| Mobilna stopa napustanja | 80-84% |
+| Prosečna stopa napuštanja korpe | 70% |
+| Mobilna stopa napuštanja | 80-84% |
 | Povratak kupaca sa retargetingom | 26% |
 | Povratak kupaca bez retargetinga | 8% |
 | Smanjenje abandonment rate-a | 6.5-26% |
 | Abandoned cart email open rate | 45-50.5% |
 | Abandoned cart email CTR | 8.4-21% |
 | SMS recovery vs email | 26% bolji recovery |
-| 3 emaila vs 1 email | 37% vise oporavljenih korpi |
+| 3 emaila vs 1 email | 37% više oporavljenih korpi |
 
-Sa retargetingom, 26% kupaca koji su napustili korpu se vraca da zavrsi kupovinu, u poredjenju sa samo 8% bez retargetinga. Kombinacija retargeting oglasa sa email recovery kampanjom daje najbolje rezultate.
+Sa retargetingom, 26% kupaca koji su napustili korpu se vraća da završi kupovinu, u poređenju sa samo 8% bez retargetinga. Kombinacija retargeting oglasa sa email recovery kampanjom daje najbolje rezultate.
 
-Tri recovery emaila oporavljaju 37% vise korpi nego jedan. Personalizovani emailovi konvertuju 2.5 puta bolje od generickih, a dodavanje slika proizvoda u email povecava klikove za 15%.
+Tri recovery emaila oporavljaju 37% više korpi nego jedan. Personalizovani emailovi konvertuju 2.5 puta bolje od generičkih, a dodavanje slika proizvoda u email povećava klikove za 15%.
 
-Za detaljne podatke o napustanju korpe pogledajte [napustanje korpe statistika po industriji](/blog/napustanje-korpe-statistika-po-industriji-2026).
+Za detaljne podatke o napuštanju korpe pogledajte [napustanje-korpe statistika po industriji](/blog/napustanje-korpe-statistika-po-industriji-2026).
 
-## Koliko budzeta alocirati na retargeting
+## Koliko budžeta alocirati na retargeting
 
-Pitanje koliko budzeta izdvojiti za retargeting je jedno od najcescih u digital marketingu.
+Pitanje koliko budžeta izdvojiti za retargeting je jedno od najčešćih u digitalnom marketingu.
 
-**Preporucena alokacija budzeta (2025):**
-- Preporuka eksperata: 15-30% ukupnog oglasnog budzeta za retargeting
-- 70% marketara vec ima dedicirani retargeting buddzet
-- Samo 32% marketara personalizuje retargeting oglase (sto znaci ogroman prostor za poboljsanje)
+**Preporučena alokacija budžeta (2025):**
+- Preporuka eksperata: 15-30% ukupnog oglasnog budžeta za retargeting
+- 70% marketara već ima dedicirani retargeting budžet
+- Samo 32% marketara personalizuje retargeting oglase (što znači ogroman prostor za poboljšanje)
 
-Firma sa mesecnim budzetom od 2.000 evra za oglasavanje treba da izdvoji 300-600 evra za retargeting. S obzirom na 4.2x prosecni ROAS, tih 600 evra moze da generise 2.520 evra prihoda, sto je cesto bolji povrat od bilo kog drugog kanala.
+Firma sa mesečnim budžetom od 2.000 evra za oglašavanje treba da izdvoji 300-600 evra za retargeting. S obzirom na 4.2x prosečni ROAS, tih 600 evra može da generiše 2.520 evra prihoda, što je često bolji povrat od bilo kog drugog kanala.
 
-Za podatke o optimalnom marketinskom budzetu pogledajte [koliko firme trose na marketing](/blog/koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026).
+Za podatke o optimalnom marketinškom budžetu pogledajte [koliko firme trose na marketing](/blog/koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026).
 
 ## Retargeting i brand awareness: nevidljivi efekat
 
-Retargeting ne sluzi samo za direktne konverzije. PPC search oglasi podizu brand awareness za 80% cak i kada korisnici ne kliknu na oglas. Za retargeting display oglase, efekat je slican: korisnici koji vide vas brend vise puta razvijaju prepoznatljivost i poverenje.
+Retargeting ne služi samo za direktne konverzije. PPC search oglasi podižu brand awareness za 80% čak i kada korisnici ne kliknu na oglas. Za retargeting display oglase, efekat je sličan: korisnici koji vide vaš brend više puta razvijaju prepoznatljivost i poverenje.
 
-Prema Cropink podacima, 78% potrosaca je spremnije da kupi od brendova koje prate na drustvenim mrezama. Retargeting efektivno pretvara jednokratne posetioce u pratioce koji prepoznaju vas brend.
+Prema Cropink podacima, 78% potrošača je spremnije da kupi od brendova koje prate na društvenim mrežama. Retargeting efektivno pretvara jednokratne posetioce u pratioce koji prepoznaju vaš brend.
 
-Ovo je posebno vazno za firme sa duzim prodajnim ciklusom (B2B, SaaS, visok AOV) gde kupac mozda nece kupiti odmah, ali ce se setiti brenda kada bude spreman.
+Ovo je posebno važno za firme sa dužim prodajnim ciklusom (B2B, SaaS, visok AOV) gde kupac možda neće kupiti odmah, ali će se setiti brenda kada bude spreman.
 
-Za kontekst o zadrzavanju kupaca pogledajte [customer retention vodic](/blog/zadrzavanje-kupaca-customer-retention-srbija-2026). Za CLV benchmark pogledajte [Customer Lifetime Value po industriji](/blog/customer-lifetime-value-clv-po-industriji-benchmark-statistika-2026).
+Za kontekst o zadržavanju kupaca pogledajte [customer retention vodič](/blog/zadrzavanje-kupaca-customer-retention-srbija-2026). Za CLV benchmark pogledajte [Customer Lifetime Value po industriji](/blog/customer-lifetime-value-clv-po-industriji-benchmark-statistika-2026).
 
-## Kljucni zakljucci za 2026
+## Ključni zaključci za 2026
 
-Retargeting je kanal sa najboljim odnosom ulaganja i povrata u digitalnom marketingu. CTR je 10x visi od standardnog displeja, CPC je 30-60% nizi od hladnih kampanja, a konverzija je 70% veca. Za e-commerce, prosecni ROAS od 8:1 znaci da svaki ulozen dolar vraca osam.
+Retargeting je kanal sa najboljim odnosom ulaganja i povrata u digitalnom marketingu. CTR je 10x viši od standardnog displaya, CPC je 30-60% niži od hladnih kampanja, a konverzija je 70% veća. Za e-commerce, prosečni ROAS od 8:1 znači da svaki uložen dolar vraća osam.
 
-Firme koje ne koriste retargeting efektivno bacaju 92% svog saobracaja. One koje ga koriste, ali bez personalizacije i dinamickih kreativa, ostavljaju dodatnih 50-150% performansi na stolu.
+Firme koje ne koriste retargeting efektivno bacaju 92% svog saobraćaja. One koje ga koriste, ali bez personalizacije i dinamičkih kreativa, ostavljaju dodatnih 50-150% performansi na stolu.
 
-Ako zelite da implementirate retargeting strategiju za vas biznis ili optimizujete postojece kampanje, pogledajte [nase usluge digitalnog marketinga](/digitalni-marketing) i pogledajte [koliko kosta Facebook reklama](/blog/facebook-ads-cena-po-industriji-srbija-2026), pa nas kontaktirajte na [kontakt stranici](/kontakt).
+Ako želite da implementirate retargeting strategiju za vaš biznis ili optimizujete postojeće kampanje, pogledajte [naše usluge digitalnog marketinga](/digitalni-marketing) i pogledajte [koliko kosta Facebook reklama](/blog/facebook-ads-cena-po-industriji-srbija-2026), pa nas kontaktirajte na [kontakt stranici](/kontakt).
 
 ---
 
@@ -4381,182 +4381,182 @@ Za pomoc sa influenser strategijom i selekcijom, javite se preko [kontakt forme]
   },
   {
     slug: 'cena-oglasavanja-na-drustvenim-mrezama-cpc-ctr-roi-po-platformi-2026',
-    title: 'Cena oglasavanja na društvenim mrežama: CPC, CTR i ROI po platformi u 2025-2026',
+    title: 'Cena oglašavanja na društvenim mrežama: CPC, CTR i ROI po platformi u 2025-2026',
     excerpt: 'Koliko košta oglas na Facebooku, Instagramu, LinkedInu i TikToku? Benchmark podaci za CPC, CTR, konverziju i ROAS po platformi sa citiranim izvorima.',
     date: '2026-03-22',
     category: 'Social Media',
     readTime: '9 min',
     content: `
-## Koliko zaista kosta oglas na drustvenim mrezama
+## Koliko zaista košta oglas na društvenim mrežama
 
-Globalna potrosnja na oglasavanje na drustvenim mrezama u 2025. godini dostigla je 207 milijardi dolara, sto je rast od 15% u odnosu na prethodnu godinu. Ali prava pitanja za firme u Srbiji nisu o globalnim ciframa. Pitanje je: koliko kosta JEDAN klik, koliko ljudi zaista klikne na oglas i koliko novca se vrati po ulozenom dinaru.
+Globalna potrošnja na oglašavanje na društvenim mrežama u 2025. godini dostigla je 207 milijardi dolara, što je rast od 15% u odnosu na prethodnu godinu. Ali prava pitanja za firme u Srbiji nisu o globalnim ciframa. Pitanje je: koliko košta JEDAN klik, koliko ljudi zaista klikne na oglas i koliko novca se vrati po uloženom dinaru.
 
-Evo podataka po platformi, citiranih iz vodecih izvora za 2025-2026.
+Evo podataka po platformi, citiranih iz vodećih izvora za 2025-2026.
 
-Za siru sliku o marketing budzetu pogledajte [koliko firme trose na marketing po industriji](/blog/koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026). Za poredjenje Google Ads i Facebook Ads pogledajte [Google Ads vs Facebook Ads vodic](/blog/google-ads-vs-facebook-ads-koji-je-bolji).
+Za širu sliku o marketing budžetu pogledajte [koliko firme troše na marketing po industriji](/blog/koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026). Za poređenje Google Ads i Facebook Ads kanala pogledajte [Google Ads vs Facebook Ads vodič](/blog/google-ads-vs-facebook-ads-koji-je-bolji).
 
-## Facebook (Meta Ads): i dalje najjeftiniji klik za vecinu
+## Facebook (Meta Ads): i dalje najjeftiniji klik za većinu
 
-Facebook ostaje najisplativija platforma za siroku publiku. Evo benchmark podataka:
+Facebook ostaje najisplativija platforma za široku publiku. Evo benchmark podataka:
 
 ### Cena po kliku (CPC)
 
-- **Prosecni CPC (sve industrije):** $0.50-$0.60 (WordStream 2025)
+- **Prosečni CPC (sve industrije):** $0.50-$0.60 (WordStream 2025)
 - **CPC za traffic kampanje:** $0.70
 - **CPC za lead kampanje:** $1.92
-- **CPC za retargeting:** obicno 20-30% nizi od cold audience kampanja
+- **CPC za retargeting:** obično 20-30% niži od cold audience kampanja
 
 ### Stopa klikanja (CTR)
 
-- **Prosecni CTR (sve industrije):** 1.5-1.8%
+- **Prosečni CTR (sve industrije):** 1.5-1.8%
 - **CTR za traffic kampanje:** 1.71%
 - **CTR za lead kampanje:** 2.59%
-- **Video oglasi:** do 2% CTR (visi od staticnih)
+- **Video oglasi:** do 2% CTR-a (viši od statičnih)
 
 ### Konverzija i ROI
 
-- **Prosecna stopa konverzije:** 8.95% (sve industrije, WordStream 2025)
+- **Prosečna stopa konverzije:** 8.95% (sve industrije, WordStream 2025)
 - **Konverzija za lead generation:** 7.72%
-- **Restorani i hrana:** 18.25% konverzija (najvisa industrija)
+- **Restorani i hrana:** 18.25% konverzija (najviša industrija)
 - **Advokatske kancelarije:** 10.53%
 - **Fitness:** 14.29%
-- **ROAS:** prosecno 4x (4 dolara povrata na 1 dolar potrosnje)
-- **Retargeting vs cold audience:** 367% visa konverzija
+- **ROAS:** prosečno 4x (4 dolara povrata na 1 dolar potrošnje)
+- **Retargeting vs cold audience:** 367% viša konverzija
 
-### Troskovi po impresiji
+### Troškovi po impresiji
 
 - **CPM (cena na 1000 prikaza):** $10-$15
 - **CPL (cena po leadu):** $5-$20
 
-Za detaljan vodic o Facebook reklamama pogledajte [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama). Za remarketing strategiju pogledajte [Facebook Ads remarketing vodic](/blog/facebook-ads-remarketing-strategija-srbija-2026).
+Za detaljan vodič o Facebook reklamama pogledajte [koliko košta Facebook reklama](/koliko-kosta-facebook-reklama). Za remarketing strategiju pogledajte [Facebook Ads remarketing vodič](/blog/facebook-ads-remarketing-strategija-srbija-2026).
 
-## Instagram: skuplji klik, veca vrednost korpe
+## Instagram: skuplji klik, veća vrednost korpe
 
-Instagram generalno ima visi CPC od Facebooka, ali i visu prosecnu vrednost porudzbine.
+Instagram generalno ima viši CPC od Facebooka, ali i višu prosečnu vrednost porudžbine.
 
 ### CPC i CTR
 
-- **Prosecni CPC:** $1.10 (neke industrije do $2.50)
+- **Prosečni CPC:** $1.10 (neke industrije do $2.50)
 - **CPM:** $7-$13.20
 - **Cost per engagement:** $0.03-$0.08
-- **Reels oglasi:** 27% visi engagement od staticnih feed oglasa
+- **Reels oglasi:** 27% viši engagement od statičnih feed oglasa
 
 ### Konverzija i performanse
 
-- **Prosecna konverzija:** 1-3% (zavisno od industrije i kreative)
-- **Prosecna vrednost porudzbine:** $65 po prodaji (vs Facebook $55)
+- **Prosečna konverzija:** 1-3% (zavisno od industrije i kreative)
+- **Prosečna vrednost porudžbine:** $65 po prodaji (vs Facebook $55)
 - **Completion rate za Stories oglase:** 82%
-- **Carousel postovi:** 0.55% engagement rate (najvisji format)
-- **Influencer sadrzaj vs brendirani:** 3x visi engagement
+- **Carousel postovi:** 0.55% engagement rate (najviši format)
+- **Influencer sadržaj vs brendirani:** 3x viši engagement
 
 ### ROI
 
-- **Influencer kampanje:** $4.12 povrata na $1 potrosnje
+- **Influencer kampanje:** $4.12 povrata na $1 potrošnje
 - **Globalni ad doseg:** 1.74 milijarde korisnika u 2025.
-- **Vizuelne industrije (moda, beauty):** najvisji ROI na Instagramu
+- **Vizuelne industrije (moda, beauty):** najviši ROI na Instagramu
 
 Za engagement benchmark po platformi pogledajte [engagement rate statistiku](/blog/engagement-rate-po-platformi-instagram-tiktok-linkedin-2026).
 
 ## LinkedIn: najskuplji klik, ali najbolji B2B leadovi
 
-LinkedIn je platforma gde CPC boli, ali kvalitet leadova nadoknadjuje cenu.
+LinkedIn je platforma gde CPC boli, ali kvalitet leadova nadoknađuje cenu.
 
 ### CPC i CPM
 
-- **Prosecni CPC:** $3.94-$5.26 (moze ici do $7 za Single Image Ads)
+- **Prosečni CPC:** $3.94-$5.26 (može ići do $7 za Single Image Ads)
 - **CPM:** $31-$38 (u konkurentnim industrijama $50-$100)
 - **CPL sa Lead Gen Forms:** $75-$150
 - **CPL sa landing stranicama:** $100-$200
-- **Kampanje sa CTR iznad 0.7%:** 15% nizi CPC
+- **Kampanje sa CTR-om iznad 0.7%:** 15% niži CPC
 
 ### CTR i konverzija
 
 - **Medijan CTR:** 0.52% (sve kampanje)
 - **Single Image Ads CTR:** 0.50-0.60%
-- **Lead Gen Forms konverzija:** 6-10% (duplo vise od eksternih landing stranica)
-- **Neki izvestaji:** do 13% konverzija sa Lead Gen Forms
+- **Lead Gen Forms konverzija:** 6-10% (duplo više od eksternih landing stranica)
+- **Neki izveštaji:** do 13% konverzija sa Lead Gen Forms
 
 ### ROI i kvalitet leadova
 
-- **82% B2B leadova sa drustvenih mreza** dolazi sa LinkedIna
-- **3x vise kvalifikovanih leadova** nego Facebook za B2B
+- **82% B2B leadova sa društvenih mreža** dolazi sa LinkedIna
+- **3x više kvalifikovanih leadova** nego Facebook za B2B
 - **ABM kampanje:** 200% bolji ROI nego standardne
 - **Q3:** najbolji pipeline ROI (6.01x)
-- **Q4:** najvisi revenue ROI (2.46x jer raniji pipeline konvertuje)
-- **Video oglasi:** generisu 2x vise leadova od staticnih kreativa
+- **Q4:** najviši revenue ROI (2.46x jer raniji pipeline konvertuje)
+- **Video oglasi:** generišu 2x više leadova od statičnih kreativa
 
-Za poredjenje trosenja po kanalu pogledajte [cena po leadu po industriji](/blog/cena-po-leadu-po-industriji-benchmark-statistika-2026).
+Za poređenje trošenja po kanalu pogledajte [cena po leadu po industriji](/blog/cena-po-leadu-po-industriji-benchmark-statistika-2026).
 
-## TikTok: najbrzi rast, najjeftiniji CPM
+## TikTok: najbrži rast, najjeftiniji CPM
 
-TikTok je platforma sa najbrzim rastom ad spend-a i iznenadujuce jakim konverzijama.
+TikTok je platforma sa najbržim rastom ad spend-a i iznenađujuće jakim konverzijama.
 
 ### CPC i CPM
 
-- **Prosecni CPC:** $0.50-$0.61 (medijan)
-- **CPM:** $7-$8.30 (znacajno nizi od Facebooka i LinkedIna)
-- **Rast ad spend-a:** 45% godisnje (sa $37 milijardi u 2025.)
+- **Prosečni CPC:** $0.50-$0.61 (medijan)
+- **CPM:** $7-$8.30 (značajno niži od Facebooka i LinkedIna)
+- **Rast ad spend-a:** 45% godišnje (sa $37 milijardi u 2025.)
 - **Globalni ad doseg:** 1.59 milijardi korisnika
 
 ### CTR po industriji
 
-- **Prosecni CTR:** 0.84%
+- **Prosečni CTR:** 0.84%
 - **E-commerce:** 0.9-1.2%
 - **Beauty:** 1.0-1.5%
 - **B2B/Finansije:** 0.5-0.7%
 
 ### Konverzija i ROAS
 
-- **Prosecna konverzija:** 1.1-2.4% (kreativno zavisno)
-- **ROAS:** 5.1:1 ($5.10 povrata na $1 potrosnje)
-- **Kratkorocni ROAS:** 4x-12x
-- **Dugorocni ROAS:** 3x-5x
-- **36% svih direktnih kupovina** na drustvenim mrezama desava se na TikToku
+- **Prosečna konverzija:** 1.1-2.4% (kreativno zavisno)
+- **ROAS:** 5.1:1 ($5.10 povrata na $1 potrošnje)
+- **Kratkoročni ROAS:** 4x-12x
+- **Dugoročni ROAS:** 3x-5x
+- **36% svih direktnih kupovina** na društvenim mrežama dešava se na TikToku
 - **Engagement rate:** 4.07% (vs Instagram 1.22%, Facebook 0.09%)
 
 Za ROAS benchmark po industriji pogledajte [ROAS statistiku](/blog/roas-po-industriji-i-platformi-benchmark-statistika-2026).
 
 ## Uporedna tabela: sve platforme na jednom mestu
 
-| Platforma | Prosecni CPC | CTR | Konverzija | CPM | ROAS |
+| Platforma | Prosečni CPC | CTR | Konverzija | CPM | ROAS |
 |-----------|-------------|-----|------------|-----|------|
 | Facebook | $0.50-0.60 | 1.5-1.8% | 8.95% | $10-15 | 4:1 |
 | Instagram | $1.10-2.50 | ~1% | 1-3% | $7-13 | 4.12:1 (influencer) |
 | LinkedIn | $3.94-5.26 | 0.52% | 6-10% (Lead Forms) | $31-38 | 6:1 (Q3 pipeline) |
 | TikTok | $0.50-0.61 | 0.84% | 1.1-2.4% | $7-8.30 | 5.1:1 |
 
-## Sta ovo znaci za firme u Srbiji
+## Šta ovo znači za firme u Srbiji
 
-### 1) Facebook je i dalje "sigurna opcija" za pocetak
+### 1) Facebook je i dalje "sigurna opcija" za početak
 
-Sa CPC-em od $0.50-$0.60 i konverzijom od skoro 9%, Facebook ostaje najisplativija platforma za vecinu firmi u Srbiji. Lokalni CPC je cesto jos nizi (0.10-0.30 EUR za srpsko trziste). Za pocetnike pogledajte [digitalni marketing vodic](/blog/digitalni-marketing-za-pocetnike-kompletni-vodic-srbija-2026).
+Sa CPC-em od $0.50-$0.60 i konverzijom od skoro 9%, Facebook ostaje najisplativija platforma za većinu firmi u Srbiji. Lokalni CPC je često još niži (0.10-0.30 EUR za srpsko tržište). Za početnike pogledajte [digitalni marketing vodič](/blog/digitalni-marketing-za-pocetnike-kompletni-vodic-srbija-2026).
 
 ### 2) LinkedIn se isplati samo za B2B
 
 Ako prodajete drugim firmama, CPC od $4-5 je opravdan jer 82% B2B leadova dolazi odatle. Ako prodajete krajnjim korisnicima, LinkedIn je bacanje novca.
 
-### 3) TikTok je nisko visece voce
+### 3) TikTok je nisko viseće voće
 
-Sa ROAS-om od 5.1:1 i najnizim CPM-om, TikTok je podvrednovana platforma. Problem za srpsko trziste: manja korisnicka baza i manje precizno targetiranje za lokalne firme.
+Sa ROAS-om od 5.1:1 i najnižim CPM-om, TikTok je potcenjena platforma. Problem za srpsko tržište: manja korisnička baza i manje precizno targetiranje za lokalne firme.
 
 ### 4) Retargeting je obavezan
 
-Retargeting na Facebooku donosi 367% vecu konverziju od hladne publike. Ako ne radite retargeting, ostavljate novac na stolu. Za detaljan vodic pogledajte [remarketing strategiju](/blog/facebook-ads-remarketing-strategija-srbija-2026).
+Retargeting na Facebooku donosi 367% veću konverziju od hladne publike. Ako ne radite retargeting, ostavljate novac na stolu. Za detaljan vodič pogledajte [remarketing strategiju](/blog/facebook-ads-remarketing-strategija-srbija-2026).
 
 ### 5) Video formati dominiraju na svim platformama
 
-67% budeta za oglase na drustvenim mrezama ide u video sadrzaj. Reels na Instagramu, TikTok video, LinkedIn video oglasi. Ako i dalje koristite samo staticne slike, zaostajete za konkurencijom. Za video statistiku pogledajte [video marketing ROI vodic](/blog/video-marketing-roi-kratki-video-reels-tiktok-statistika-2026).
+67% budžeta za oglase na društvenim mrežama ide u video sadržaj. Reels na Instagramu, TikTok video i LinkedIn video oglasi. Ako i dalje koristite samo statične slike, zaostajete za konkurencijom. Za video statistiku pogledajte [video marketing ROI vodič](/blog/video-marketing-roi-kratki-video-reels-tiktok-statistika-2026).
 
-## Kljucni zakljucci
+## Ključni zaključci
 
-- Globalni ad spend na drustvenim mrezama: $207 milijardi u 2025 (+15%)
+- Globalni ad spend na društvenim mrežama: $207 milijardi u 2025 (+15%)
 - Facebook CPC $0.50-0.60, konverzija 8.95%, ROAS 4:1
 - LinkedIn CPC $3.94-5.26, ali 82% B2B leadova dolazi odatle
-- TikTok najbrzi rast (45% g/g), ROAS 5.1:1, najjeftiniji CPM
-- Retargeting na Facebooku: 367% visa konverzija od cold audience
-- Video formati: 67% budeta ide u video sadrzaj
+- TikTok najbrži rast (45% g/g), ROAS 5.1:1, najjeftiniji CPM
+- Retargeting na Facebooku: 367% viša konverzija od cold audience
+- Video formati: 67% budžeta ide u video sadržaj
 
-Za besplatnu analizu vasih kampanja na drustvenim mrezama, javite se preko [kontakt forme](/kontakt).
+Za besplatnu analizu vaših kampanja na društvenim mrežama, javite se preko [kontakt forme](/kontakt).
 
 *Izvori: WordStream Facebook Ads Benchmarks 2025, Quimby Digital Social Media Marketing Cost 2025, SocialPulseStats Social Media Advertising Statistics 2025, CloselyhQ LinkedIn Ad Benchmarks 2025, Nav43 LinkedIn Ads Benchmarks 2025, MarketingLTB TikTok/LinkedIn/Facebook Ads Statistics 2025, Hootsuite Social Media Trends 2025, SEO Design Chicago Instagram Advertising Statistics, HockeyStack LinkedIn Ads Benchmarks.*
 `,
@@ -4569,90 +4569,90 @@ Za besplatnu analizu vasih kampanja na drustvenim mrezama, javite se preko [kont
     category: 'SEO',
     readTime: '7 min',
     content: `
-## Pozicija 0 nije ono sto je nekad bila
+## Pozicija 0 nije ono što je nekad bila
 
-Featured Snippet ("pozicija nula") nekada je bio sveti gral SEO-a. Vas sadrzaj se pojavljuje na vrhu Google-a, iznad svih rezultata, sa istaknutim odgovorom. Ali u 2025-2026, situacija se komplikuje: Google AI Overview se pojavljuje IZNAD Featured Snippet-a i "krade" klikove od svih.
+Featured Snippet ("pozicija nula") nekada je bio sveti gral SEO-a. Vaš sadržaj se pojavljuje na vrhu Google-a, iznad svih rezultata, sa istaknutim odgovorom. Ali u 2025-2026. situacija se komplikuje: Google AI Overview se pojavljuje IZNAD Featured Snippet-a i "krade" klikove od svih.
 
-Evo sta podaci pokazuju o trenutnom stanju.
+Evo šta podaci pokazuju o trenutnom stanju.
 
-Za siroku SEO strategiju pogledajte [SEO optimizacija cena](/seo-optimizacija-cena). Za CTR po poziciji pogledajte [Google organski CTR vodic](/blog/koliko-klikova-dobija-prvi-rezultat-na-google-ctr-po-poziciji-2026).
+Za širu SEO strategiju pogledajte [SEO optimizacija cena](/seo-optimizacija-cena). Za CTR po poziciji pogledajte [Google organski CTR vodič](/blog/koliko-klikova-dobija-prvi-rezultat-na-google-ctr-po-poziciji-2026).
 
-## Featured Snippet CTR: i dalje jak ali ne kao pre
+## Featured Snippet CTR: i dalje jak, ali ne kao pre
 
 ### Koliko klikova donosi Featured Snippet
 
-- **Prosecni CTR Featured Snippet-a (2025):** 35-42.9%
+- **Prosečni CTR Featured Snippet-a (2025):** 35-42.9%
 - **CTR prvog organskog rezultata (bez Snippet-a):** 39.8%
-- **Featured Snippet nadmasuje poziciju 1** — 42.9% vs 39.8% (Moz 2025)
-- Owning featured snippet moze povecati saobracaj za do **850%** za specifican upit (Ahrefs)
+- **Featured Snippet nadmašuje poziciju 1** — 42.9% vs 39.8% (Moz 2025)
+- Owning featured snippet može povećati saobraćaj za do **850%** za specifičan upit (Ahrefs)
 
 ### Ali kad Featured Snippet postoji, ostali rezultati gube
 
 - Pozicija 1 gubi u proseku **5.3% CTR-a** kad je Snippet prisutan
-- Pozicije 2-10 gube jos drasticnije jer Snippet "krade" paznju
+- Pozicije 2-10 gube još drastičnije jer Snippet "krade" pažnju
 - **Paradoks:** Snippet-om DOBIJATE klikove ako ste VI u Snippet-u, ali GUBITE ako niste
 
-## AI Overview: nova pretnja za organski saobracaj
+## AI Overview: nova pretnja za organski saobraćaj
 
-Google AI Overview (AIO) je AI-generisan odgovor koji se pojavljuje na vrhu SERP-a, cesto IZNAD Featured Snippet-a. Lansiran 2024, rapidno se siri.
+Google AI Overview (AIO) je AI-generisan odgovor koji se pojavljuje na vrhu SERP-a, često IZNAD Featured Snippet-a. Lansiran 2024, rapidno se širi.
 
-### Koliko cesto se AI Overview pojavljuje
+### Koliko često se AI Overview pojavljuje
 
 - **Septembar 2024:** Pojavljuje se za 12% Google pretraga (skok sa 5% u julu 2024)
 - **Mart 2025:** 13.1% upita na US desktapu (skoro duplo od januara 2025)
-- **Trend:** Stalan rast — ocekuje se 20-25% do kraja 2026
+- **Trend:** Stalan rast — očekuje se 20-25% do kraja 2026
 
-### Koliko klikova gubi organski saobracaj kad se pojavi AIO
+### Koliko klikova gubi organski saobraćaj kad se pojavi AIO
 
-- **Prosecni pad CTR-a kad AIO postoji:** -15.49% za organske rezultate
+- **Prosečni pad CTR-a kad AIO postoji:** -15.49% za organske rezultate
 - **Kad su prisutni AIO + Featured Snippet zajedno:** pad CTR-a od **-37.04%** (duplo gori)
-- **Zero-click pretrage sa AIO-m:** prosecno **83%** pretraga zavrsi bez klika (vs 65% bez AIO-a)
+- **Zero-click pretrage sa AIO-m:** prosečno **83%** pretraga završi bez klika (vs 65% bez AIO-a)
 
-To znaci: kad Google prikaze AI Overview, **samo 17% korisnika** klikne na bilo koji sajt. Ostali dobiju odgovor direktno iz AI-ja.
+To znači: kad Google prikaže AI Overview, **samo 17% korisnika** klikne na bilo koji sajt. Ostali dobiju odgovor direktno iz AI-ja.
 
 ## Zero-click trend: 65% pretraga nema klik
 
-Siri kontekst za razumevanje situacije:
+Širi kontekst za razumevanje situacije:
 
-- **2025:** 65%+ svih Google pretraga zavrsi BEZ klika na sajt
+- **2025:** 65%+ svih Google pretraga završi BEZ klika na sajt
 - **2024:** 58-60% (rast od 5-7% za godinu dana)
-- **Mobilne pretrage:** Jos visi procenat zero-click (70%+)
-- **Voice search:** Gotovo 100% zero-click (asistent daje odgovor glasom)
+- **Mobilne pretrage:** još viši procenat zero-click (70%+)
+- **Voice search:** gotovo 100% zero-click (asistent daje odgovor glasom)
 
-Za siri kontekst pogledajte [organski CTR statistiku](/blog/koliko-klikova-dobija-prvi-rezultat-na-google-ctr-po-poziciji-2026).
+Za širi kontekst pogledajte [organski CTR statistiku](/blog/koliko-klikova-dobija-prvi-rezultat-na-google-ctr-po-poziciji-2026).
 
 ## Kako se prilagoditi: strategija za 2026
 
 ### 1) Budite IZVOR za AI Overview
 
-Google AIO citira izvore. Ako vas sajt ima:
-- Strukturisane podatke (tabele, liste, step-by-step)
-- Jasan, koncizan odgovor na pitanje u prvih 2-3 recenice
-- Jak E-E-A-T (ekspertiza, autoritet, poverenje)
+Google AIO citira izvore. Ako vaš sajt ima:
+- strukturisane podatke (tabele, liste, step-by-step),
+- jasan, koncizan odgovor na pitanje u prve 2-3 rečenice,
+- jak E-E-A-T (ekspertiza, autoritet, poverenje),
 
-Postoji veca sansa da AIO CITIRA vas sajt, sto donosi vidljivost cak i bez direktnog klika.
+postoji veća šansa da AIO CITIRA vaš sajt, što donosi vidljivost čak i bez direktnog klika.
 
 ### 2) Ciljajte komercijalne upite (ne informativne)
 
-Informativni upiti ("sta je SEO") dominantno dobijaju AIO/zero-click. Komercijalni upiti ("SEO agencija cena Beograd") i dalje generisu klikove jer Google zna da korisnik zeli da KUPI, ne samo da sazna. Za Google Ads na komercijalnim upitima pogledajte [Google reklame cena](/google-reklame-cena).
+Informativni upiti ("šta je SEO") dominantno dobijaju AIO/zero-click. Komercijalni upiti ("SEO agencija cena Beograd") i dalje generišu klikove jer Google zna da korisnik želi da KUPI, ne samo da sazna. Za Google Ads na komercijalnim upitima pogledajte [Google reklame cena](/google-reklame-cena).
 
 ### 3) Optimizujte za Featured Snippet format
 
 I dalje vredi ciljati Featured Snippet jer donosi 35-43% CTR. Optimizacija:
-- **Paragraph Snippet:** Dajte direktan odgovor u 2-3 recenice na pocetak sekcije
-- **List Snippet:** Koristite numerirane/bullet liste (H2 + lista ispod)
+- **Paragraph Snippet:** Dajte direktan odgovor u 2-3 rečenice na početak sekcije
+- **List Snippet:** Koristite numerisane/bullet liste (H2 + lista ispod)
 - **Table Snippet:** Koristite HTML tabele sa jasnim header-ima
-- Odgovorite na pitanje koje pocinje sa "Kako", "Sta je", "Zasto", "Koliko"
+- Odgovorite na pitanje koje počinje sa "Kako", "Šta je", "Zašto", "Koliko"
 
 ### 4) Investirajte u brend
 
-Kad neko trazi vas BREND po imenu, AIO se ne pojavljuje. Izgradnja prepoznatljivog brenda je jedina 100% zastita od zero-click pretrazivanja. Svaki blog post, svaki social media post, svaki podcast — gradi vas brend. Za strategiju pogledajte [content marketing plan](/blog/content-marketing-plan-za-male-firme-srbija-2026).
+Kad neko traži vaš BREND po imenu, AIO se ne pojavljuje. Izgradnja prepoznatljivog brenda je jedina 100% zaštita od zero-click pretraživanja. Svaki blog post, svaki social media post, svaki podcast — gradi vaš brend. Za strategiju pogledajte [content marketing plan](/blog/content-marketing-plan-za-male-firme-srbija-2026).
 
-### 5) Diversifikujte izvore saobracaja
+### 5) Diversifikujte izvore saobraćaja
 
-Ne oslanjajte se iskljucivo na Google organski saobracaj. Email lista, drustvene mreze, YouTube, LinkedIn, referral partneri — svaki kanal koji ne zavisi od Google algoritma je osiguranje. Za email pogledajte [email marketing ROI vodic](/blog/koliko-zapravo-zaradjuje-email-marketing-roi-po-industriji-2026).
+Ne oslanjajte se isključivo na Google organski saobraćaj. Email lista, društvene mreže, YouTube, LinkedIn i referral partneri — svaki kanal koji ne zavisi od Google algoritma je osiguranje. Za email pogledajte [email marketing ROI vodič](/blog/koliko-zapravo-zaradjuje-email-marketing-roi-po-industriji-2026).
 
-## Kljucni zakljucci
+## Ključni zaključci
 
 - Featured Snippet i dalje donosi 35-43% CTR — vredi ciljati
 - AI Overview smanjuje CTR za -15% (sa Snippetom -37%)
@@ -4660,22 +4660,21 @@ Ne oslanjajte se iskljucivo na Google organski saobracaj. Email lista, drustvene
 - Komercijalni upiti i brendirane pretrage su bezbedniji od informativnih
 - Budite izvor za AI citiranje, ne samo za klikove
 
-Za SEO strategiju prilagodjenu AI eri, javite se preko [kontakt forme](/kontakt).
+Za SEO strategiju prilagođenu AI eri, javite se preko [kontakt forme](/kontakt).
 
 *Izvori: Moz Featured Snippet Study (2025), Ahrefs CTR Research (2024), Amsive AI Overview Impact Study (2025), SparkToro/Datos Zero-Click Research (2024-2025), Inner Spark Creative SEO Statistics (2025).*
-`
+`,
   },
   {
     slug: 'koliko-dugacak-treba-da-bude-blog-post-za-seo-statistika-2026',
     title: 'Koliko dugačak treba da bude blog post za SEO: šta podaci zaista pokazuju',
-    excerpt: 'Da li duži blog postovi rangiraju bolje na Google-u? Statistike o dužini sadržaja, prosečnom broju reci na prvoj stranici i kada kratko pobeđuje.',
+    excerpt: 'Da li duži blog postovi rangiraju bolje na Google-u? Statistike o dužini sadržaja, prosečnom broju reči na prvoj stranici i kada kratko pobeđuje.',
     date: '2026-03-22',
     category: 'SEO',
     readTime: '7 min',
-    content: `
-## Google kaže da dužina nije faktor — ali podaci govore suprotno
+    content: `## Google kaže da dužina nije faktor — ali podaci govore suprotno
 
-Google zvanično tvrdi da broj reči nije ranking faktor. Tehnički, to je tačno — ne postoji algoritam koji broji reci i nagrađuje duže tekstove. Ali u praksi, duži sadržaj ima VIŠE mogućnosti da demonstrira E-E-A-T (Experience, Expertise, Authority, Trust), pokrije temu kompletno i sakupi više backlink-ova.
+Google zvanično tvrdi da broj reči nije ranking faktor. Tehnički, to je tačno — ne postoji algoritam koji broji reči i nagrađuje duže tekstove. Ali u praksi, duži sadržaj ima VIŠE mogućnosti da demonstrira E-E-A-T (Experience, Expertise, Authority, Trust), pokrije temu kompletno i sakupi više backlink-ova.
 
 Evo šta podaci zaista pokazuju.
 
@@ -4683,85 +4682,84 @@ Za on-page SEO praksu pogledajte [SEO checklistu](/blog/on-page-seo-checklista-s
 
 ## Prosečna dužina sadržaja na prvoj stranici Google-a
 
-Podaci iz Backlinko, HubSpot i Rank Tracker istrazivannja (2024-2025):
+Podaci iz Backlinko, HubSpot i Rank Tracker istraživanja (2024-2025):
 
-- **Backlinko studija (2024):** Prosečna dužina stranica na prvoj stranici: **1.500 reci**
-- **Rank Tracker analiza (2025):** Prosečna prva stranica: **1.447 reci**
-- **HubSpot podatak (2025):** Uspesni blog postovi prosečno: **1.333-1.416 reci**
-- **Top-ranking blog postovi (2025):** Prosečno **2.450 reci** (za konkurentne terme)
-- **Rast u poslednjih 5 godina:** Prosečna dužina blog posta porasla za **42%** (sa 1.050 reci u 2019 na 1.490 u 2024)
+- **Backlinko studija (2024):** Prosečna dužina stranica na prvoj stranici: **1.500 reči**
+- **Rank Tracker analiza (2025):** Prosečna prva stranica: **1.447 reči**
+- **HubSpot podatak (2025):** Uspešni blog postovi prosečno: **1.333-1.416 reči**
+- **Top-ranking blog postovi (2025):** Prosečno **2.450 reči** (za konkurentne termine)
+- **Rast u poslednjih 5 godina:** Prosečna dužina blog posta porasla je za **42%** (sa 1.050 reči u 2019. na 1.490 u 2024.)
 
-**Ključna cifra:** Vecina sadržaja na prvoj stranici Google-a ima između **1.000 i 2.500 reci**. Postovi ispod 300 reci retko rangiraju za bilo šta osim najjednostavnijih upita.
+**Ključna cifra:** Većina sadržaja na prvoj stranici Google-a ima između **1.000 i 2.500 reči**. Postovi ispod 300 reči retko rangiraju za bilo šta osim najjednostavnijih upita.
 
-## Dugi vs kratki sadržaj: šta podaci kazu
+## Dugi vs kratki sadržaj: šta podaci kažu
 
-### Dugi sadržaj (1.000+ reci) — SEO prednosti
+### Dugi sadržaj (1.000+ reči) — SEO prednosti
 
-- Sadržaj sa 2.000+ reci ima **2.5x veću sansu** da dobro rangira i generise backlink-ove
-- Duži sadržaj zahteva update **2.3x redje** da odrzsi poziciju (jer je kompletni od pocetka)
+- Sadržaj sa 2.000+ reči ima **2.5x veću šansu** da dobro rangira i generiše backlink-ove
+- Duži sadržaj zahteva update **2.3x ređe** da održi poziciju (jer je kompletniji od početka)
 - Prosečno vreme na stranici je **40-60% duže** za dugi sadržaj (bolji dwell time signal za Google)
-- Dugi vodiči generisu **3x više social share-ova** od kratkih postova
+- Dugi vodiči generišu **3x više social share-ova** od kratkih postova
 
-### Kratki sadržaj (pod 1.000 reci) — kada ima smisla
+### Kratki sadržaj (pod 1.000 reči) — kada ima smisla
 
 - **FAQ odgovori:** Kratko, direktno, tačno. Google često prikazuje u Featured Snippet.
-- **Vesti i updates:** Aktuelnost je vaznija od dubine.
-- **Lokalne pretrage:** "Stomatolog Beograd radno vreme" ne zahteva 2.000 reci.
-- **Mobilni korisnici:** Vecina citaoca preferira sadržaj ispod 1.000 reci za brzo konzumiranje.
+- **Vesti i updates:** Aktuelnost je važnija od dubine.
+- **Lokalne pretrage:** "Stomatolog Beograd radno vreme" ne zahteva 2.000 reči.
+- **Mobilni korisnici:** Većina čitalaca preferira sadržaj ispod 1.000 reči za brzo konzumiranje.
 
-### Optimalna zona: 1.500-2.500 reci
+### Optimalna zona: 1.500-2.500 reči
 
-Podaci konzistentno pokazuju da je "sweet spot" za SEO blog postove između **1.500 i 2.500 reci**. Dovoljno dugo da pokrije temu kompletno, ali ne toliko dugo da citaoci gube interes.
+Podaci konzistentno pokazuju da je "sweet spot" za SEO blog postove između **1.500 i 2.500 reči**. Dovoljno dugo da pokrije temu kompletno, ali ne toliko dugo da čitaoci gube interes.
 
-**Upozorenje:** Sadržaj sa 7.000+ reci ponekad rangira LOSIJE od sadržaja od 3.000-5.000 reci jer gubi fokus i engagement.
+**Upozorenje:** Sadržaj sa 7.000+ reči ponekad rangira LOŠIJE od sadržaja od 3.000-5.000 reči jer gubi fokus i engagement.
 
 ## Kvalitet vs kvantitet: šta Google zapravo meri
 
-Google-ov May 2024 API leak otkrio je vazan detalj: "thin content" se NE ocenjuje po broju reci već po **originalnosti**. To znači:
+Google-ov May 2024 API leak otkrio je važan detalj: "thin content" se NE ocenjuje po broju reči, već po **originalnosti**. To znači:
 
-- **500 reci originalnog, unikatnog sadržaja** > 2.000 reci prepisanog ili generisanog teksta
-- **Jedinstven ugao** na temu je vazniji od dužine
+- **500 reči originalnog, unikatnog sadržaja** > 2.000 reči prepisanog ili generisanog teksta
+- **Jedinstven ugao** na temu je važniji od dužine
 - **Praktična vrednost** (actionable advice) rangira bolje od teorijskog sadržaja iste dužine
-- **E-E-A-T signali** (ko je autor, kakvo iskustvo ima) su vazniji od broja reči
+- **E-E-A-T signali** (ko je autor, kakvo iskustvo ima) važniji su od broja reči
 
 Za content strategiju pogledajte [content marketing plan](/blog/content-marketing-plan-za-male-firme-srbija-2026).
 
-## Koliko reci po tipu sadržaja
+## Koliko reči po tipu sadržaja
 
 Na osnovu agregiranih podataka iz više studija:
 
 | Tip sadržaja | Optimalna dužina | Primer |
 |-------------|-----------------|--------|
-| Blog post (edukativni) | 1.500-2.500 reci | Vodiči, how-to, analize |
-| Blog post (news) | 300-800 reci | Aktuelne vesti, updates |
-| Landing stranica | 500-1.000 reci | Prodajne stranice, usluge |
-| Product opis (e-commerce) | 150-300 reci | Opisi proizvoda |
-| Pillar page (stubni sadržaj) | 3.000-5.000 reci | Kompletni vodiči po temi |
-| Stat-based clanak | 1.500-3.000 reci | Statistike, benchmark podaci |
-| FAQ stranica | 1.000-2.000 reci | 10-20 pitanja i odgovora |
+| Blog post (edukativni) | 1.500-2.500 reči | Vodiči, how-to, analize |
+| Blog post (news) | 300-800 reči | Aktuelne vesti, updates |
+| Landing stranica | 500-1.000 reči | Prodajne stranice, usluge |
+| Product opis (e-commerce) | 150-300 reči | Opisi proizvoda |
+| Pillar page (stubni sadržaj) | 3.000-5.000 reči | Kompletni vodiči po temi |
+| Stat-based članak | 1.500-3.000 reči | Statistike, benchmark podaci |
+| FAQ stranica | 1.000-2.000 reči | 10-20 pitanja i odgovora |
 
-## Kako odrediti pravu dužinu za vas post
+## Kako odrediti pravu dužinu za vaš post
 
-### Korak 1: Guglajte vas ciljni upit
+### Korak 1: Guglajte vaš ciljni upit
 
-Pogledajte prvih 5 rezultata. Koliko reci imaju? To je vas benchmark. Ne morate biti duži -- ali morate pokriti sve sto oni pokrivaju + nesto više.
+Pogledajte prvih 5 rezultata. Koliko reči imaju? To je vaš benchmark. Ne morate biti duži -- ali morate pokriti sve što oni pokrivaju + nešto više.
 
 ### Korak 2: Proverite Search Intent
 
 - **Informativni upit** ("kako radi SEO"): Duži sadržaj (1.500+)
 - **Transakcioni upit** ("SEO agencija cena"): Kraći, fokusiran na konverziju (800-1.200)
-- **Navigacioni upit** ("Google Analytics login"): Ne treba vas blog post
+- **Navigacioni upit** ("Google Analytics login"): Ne treba vam blog post
 
 ### Korak 3: Ne dodajte filler
 
-Ako ste kompletno pokrili temu u 1.200 reci, ne dodajte još 800 reci "filler-a" samo da biste dosli do 2.000. Google prepoznaje padding i penalizuje ga nizim engagement metrikama.
+Ako ste kompletno pokrili temu u 1.200 reči, ne dodajte još 800 reči "filler-a" samo da biste došli do 2.000. Google prepoznaje padding i penalizuje ga nižim engagement metrikama.
 
-Za pracenje rezultata pogledajte [Google Search Console vodič](/blog/google-search-console-vodič-za-pocetnike-srbija-2026) i [kako meriti ROI](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
+Za praćenje rezultata pogledajte [Google Search Console vodič](/blog/google-search-console-vodic-za-pocetnike-srbija-2026) i [kako meriti ROI](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
 
 Za profesionalnu content strategiju koja balansira dužinu, kvalitet i SEO, javite se preko [kontakt forme](/kontakt). Za cene SEO usluga pogledajte [SEO optimizacija cena](/seo-optimizacija-cena).
 
-*Izvori: Backlinko First Page Ranking Study (2024), HubSpot Blog Research (2025), Rank Tracker Content Length Statistics (2025), Search Engine Land Content Depth Analysis (2025), Google May 2024 API Leak Analysis.*
-`
+*Izvori: Backlinko First Page Ranking Study (2024), HubSpot Blog Research (2025), Rank Tracker Content Length Statistics (2025), Search Engine Land Content Depth Analysis (2025), Google May 2024 API Leak Analysis.*`
   },
   {
     slug: 'lokalni-seo-near-me-pretrage-statistika-konverzije-2026',
@@ -5010,37 +5008,37 @@ Za profesionalnu AI strategiju i marketing automatizaciju, javite se preko [kont
     readTime: '9 min',
     tags: ['konverzija', 'conversion rate', 'benchmark', 'e-commerce', 'B2B', 'SaaS', 'CRO', 'landing stranica', 'statistika'],
     content: `
-## Koja je "normalna" stopa konverzije za vasu industriju?
+## Koja je "normalna" stopa konverzije za vašu industriju?
 
-Kad vlasnik firme pita "da li je nas sajt dobar", prvi odgovor je uvek u konverzijama. Ali bez referentne tacke, ta cifra nista ne znaci. Globalna prosecna stopa konverzije u e-commerce-u za 2025. iznosi **2.5% do 3%**, prema podacima Dynamic Yield-a i Shopify-a. To znaci da od 100 posetilaca, samo dvoje ili troje kupuje.
+Kad vlasnik firme pita "da li je naš sajt dobar", prvi odgovor je uvek u konverzijama. Ali bez referentne tačke, ta cifra ništa ne znači. Globalna prosečna stopa konverzije u e-commerce-u za 2025. iznosi **2.5% do 3%**, prema podacima Dynamic Yield-a i Shopify-a. To znači da od 100 posetilaca, samo dvoje ili troje kupuje.
 
-Problem je sto "prosek" krije ogromne razlike medju industrijama. Hrana i pice konvertuju tri puta bolje od namestaja. Mobilni uredjaji zaostaju za desktopom. A izvor saobracaja menja sve.
+Problem je što "prosek" krije ogromne razlike među industrijama. Hrana i piće konvertuju tri puta bolje od nameštaja. Mobilni uređaji zaostaju za desktopom. A izvor saobraćaja menja sve.
 
-Za podatke o cenama po leadu pogledajte [cena po leadu po industriji](/blog/cena-po-leadu-po-industriji-benchmark-statistika-2026). Za brzinu sajta i konverzije pogledajte [kako brzina sajta utice na rangiranje](/blog/kako-brzina-sajta-utice-na-rangiranje-na-googlu-2026).
+Za podatke o cenama po leadu pogledajte [cena po leadu po industriji](/blog/cena-po-leadu-po-industriji-benchmark-statistika-2026). Za brzinu sajta i konverzije pogledajte [kako brzina sajta utiče na rangiranje](/blog/kako-brzina-sajta-utice-na-rangiranje-na-googlu-2026).
 
 ## E-commerce: konverzija po industriji (2025)
 
 Podaci iz Dynamic Yield Benchmark Report-a i Red Stag Fulfillment analize za 2025:
 
-**Najvise konvertuju:**
-- **Hrana i pice:** 6.02%
+**Najviše konvertuju:**
+- **Hrana i piće:** 6.02%
 - **Zdravlje i lepota:** 4.55%
 - **Multi-brand maloprodaja:** 4.90%
-- **Kucni ljubimci:** 7.32% (februar 2025, sezonski pik)
+- **Kućni ljubimci:** 7.32% (februar 2025, sezonski pik)
 
 **Sredina tabele:**
-- **Moda i odeca:** 3.01%
-- **Potrosacki proizvodi:** 3.01%
-- **Potrosacka elektronika:** 3.55%
+- **Moda i odeća:** 3.01%
+- **Potrošački proizvodi:** 3.01%
+- **Potrošačka elektronika:** 3.55%
 
-**Najnize konvertuju:**
-- **Kuca i namestaj:** 1.24%
+**Najniže konvertuju:**
+- **Kuća i nameštaj:** 1.24%
 - **Luksuz i nakit:** 1.19%
 - **B2B proizvodnja (e-commerce):** 1.8%
 
-Pravilo je jednostavno: jeftiniji proizvodi koji se cesto kupuju (hrana, kozmetika) imaju vise konverzije. Skupi proizvodi sa dugim ciklusom odlucivanja (namestaj, luksuz) konvertuju znatno losije.
+Pravilo je jednostavno: jeftiniji proizvodi koji se često kupuju (hrana, kozmetika) imaju više konverzije. Skupi proizvodi sa dugim ciklusom odlučivanja (nameštaj, luksuz) konvertuju znatno lošije.
 
-Za probleme sa prodajom u web shopovima pogledajte [zasto web shop nema prodaju](/web-shop-nema-prodaju). Za napustanje korpe pogledajte [cart abandonment statistiku](/blog/napustanje-korpe-statistika-po-industriji-2026).
+Za probleme sa prodajom u web shopovima pogledajte [zašto web shop nema prodaju](/web-shop-nema-prodaju). Za napuštanje korpe pogledajte [cart abandonment statistiku](/blog/napustanje-korpe-statistika-po-industriji-2026).
 
 ## Shopify vs BigCommerce: konverzija po platformi
 
@@ -5052,37 +5050,37 @@ Za probleme sa prodajom u web shopovima pogledajte [zasto web shop nema prodaju]
 
 **BigCommerce (2025):**
 - Prosek svih prodavnica: **2.5%**
-- Visi od Shopify proseka, ali manji broj ukupnih prodavnica
+- Viši od Shopify proseka, ali manji broj ukupnih prodavnica
 
-Razlika dolazi iz strukture korisnika. Shopify privlaci vise pocetnika sa novim prodavnicama, sto spusta prosek. BigCommerce ima veci udeo etabliranih trgovaca.
+Razlika dolazi iz strukture korisnika. Shopify privlači više početnika sa novim prodavnicama, što spušta prosek. BigCommerce ima veći udeo etabliranih trgovaca.
 
 Za izradu e-commerce sajta pogledajte [cene izrade WordPress sajta](/blog/izrada-wordpress-sajta-cena-po-tipu-biznisa-srbija-2026).
 
-## Desktop vs mobilni: konverzija po uredjaju (2025-2026)
+## Desktop vs mobilni: konverzija po uređaju (2025-2026)
 
-Jedan od najbitnijih faktora za konverziju je uredjaj:
+Jedan od najbitnijih faktora za konverziju je uređaj:
 
-- **Desktop:** 4.8% prosecna konverzija (2026)
-- **Mobilni:** 2.9% prosecna konverzija (2026)
-- **Tablet:** 3.4% prosecna konverzija (2025)
+- **Desktop:** 4.8% prosečna konverzija (2026)
+- **Mobilni:** 2.9% prosečna konverzija (2026)
+- **Tablet:** 3.4% prosečna konverzija (2025)
 
-Desktop konvertuje **65% bolje** od mobilnog, uprkos tome sto mobilni generise veci deo saobracaja. Razlozi: manji ekrani, teze popunjavanje formi, vise distraktora, losija optimizacija checkout-a.
+Desktop konvertuje **65% bolje** od mobilnog, uprkos tome što mobilni generiše veći deo saobraćaja. Razlozi: manji ekrani, teže popunjavanje formi, više distraktora, lošija optimizacija checkout-a.
 
 Za povezanost sa mobilnom kupovinom pogledajte [mobilna vs desktop kupovina statistiku](/blog/mobilna-vs-desktop-kupovina-konverzije-statistika-2026).
 
-## Konverzija po izvoru saobracaja (2025)
+## Konverzija po izvoru saobraćaja (2025)
 
-Odakle posetioci dolaze dramaticno utice na to da li ce kupiti:
+Odakle posetioci dolaze dramatično utiče na to da li će kupiti:
 
 - **Referral (preporuke):** 5.4%
 - **Email marketing:** 4.5% do 7.0%
 - **Organska pretraga (SEO):** 2.1% do 3.0%
-- **Placeni oglasi (PPC):** 1.0% do 2.5%
-- **Drustvene mreze:** 0.7%
+- **Plaćeni oglasi (PPC):** 1.0% do 2.5%
+- **Društvene mreže:** 0.7%
 
-Email i referral saobracaj konvertuju 5 do 8 puta bolje od drustvenih mreza. Razlog: posetioci sa email-a i preporuka vec poznaju brend i imaju nameru kupovine.
+Email i referral saobraćaj konvertuju 5 do 8 puta bolje od društvenih mreža. Razlog: posetioci sa email-a i preporuka već poznaju brend i imaju nameru kupovine.
 
-Za ROI email marketinga pogledajte [koliko zaradjuje email marketing](/blog/koliko-zapravo-zaradjuje-email-marketing-roi-po-industriji-2026). Za cene SEO-a pogledajte [SEO optimizacija cena](/seo-optimizacija-cena).
+Za ROI email marketinga pogledajte [koliko zarađuje email marketing](/blog/koliko-zapravo-zaradjuje-email-marketing-roi-po-industriji-2026). Za cene SEO-a pogledajte [SEO optimizacija cena](/seo-optimizacija-cena).
 
 ## Landing stranice: konverzija po industriji (2025)
 
@@ -5096,26 +5094,26 @@ Prema Unbounce Conversion Benchmark Report-u za Q4 2024/2025, medijalna konverzi
 **WordStream benchmark za Google Ads konverzije (2025):**
 - Prosek svih industrija: **7.52%**
 - **Autoservis i delovi:** 14.67%
-- **Zivotinje i kucni ljubimci:** 13.07%
+- **Životinje i kućni ljubimci:** 13.07%
 - **Lekari i hirurzi:** 11.62%
-- **Namestaj:** 2.73%
+- **Nameštaj:** 2.73%
 - **Finansije i osiguranje:** 2.55%
 
-Razlika izmedju najboljih i najlosijih industrija je skoro **6x**. Firma koja "konvertuje 3%" moze biti odlicna u finansijama, ali katastrofalna u autoservisu.
+Razlika između najboljih i najlošijih industrija je skoro **6x**. Firma koja "konvertuje 3%" može biti odlična u finansijama, ali katastrofalna u autoservisu.
 
-Za optimizaciju landing stranica pogledajte [5 gresaka na landing stranicama](/blog/5-gresaka-landing-stranice-konverzije). Za cene digitalnog marketinga pogledajte [kompletni cenovnik](/cene-digitalnog-marketinga).
+Za optimizaciju landing stranica pogledajte [5 grešaka na landing stranicama](/blog/5-gresaka-landing-stranice-konverzije). Za cene digitalnog marketinga pogledajte [kompletni cenovnik](/cene-digitalnog-marketinga).
 
-## B2B konverzije: duzi ciklus, drugacije metrike (2025)
+## B2B konverzije: duži ciklus, drugačije metrike (2025)
 
-B2B ima potpuno drugaciju dinamiku od B2C:
+B2B ima potpuno drugačiju dinamiku od B2C:
 
 **B2B konverzija po industriji (visitor-to-lead):**
 - **Pravne usluge:** 7.4%
 - **Profesionalne usluge:** 4% do 6%
 - **Zdravstvo:** 3% do 4%
 - **Finansije:** 3% do 4%
-- **HVAC i kucne usluge:** 3.1%
-- **Zaposlavanje i kadrovi:** 2.9%
+- **HVAC i kućne usluge:** 3.1%
+- **Zapošljavanje i kadrovi:** 2.9%
 - **Nekretnine:** 2.7%
 - **B2B e-commerce:** 1.8%
 - **IT i telekomunikacije:** 1.5%
@@ -5127,11 +5125,11 @@ B2B ima potpuno drugaciju dinamiku od B2C:
 4. SQL do prilike: 30% do 50%
 5. Prilika do ugovora: 20% do 35%
 
-Za firme u Srbiji koje razmatraju marketing agenciju, ovi podaci pomazu da se postave realna ocekivanja. Pogledajte [kako izabrati marketing agenciju](/blog/kako-izabrati-pravu-marketing-agenciju).
+Za firme u Srbiji koje razmatraju marketing agenciju, ovi podaci pomažu da se postave realna očekivanja. Pogledajte [kako izabrati marketing agenciju](/blog/kako-izabrati-pravu-marketing-agenciju).
 
 ## SaaS: gde je 2% zapravo dobro (2025-2026)
 
-SaaS proizvodi imaju specifican funnel sa besplatnim probnim periodima:
+SaaS proizvodi imaju specifičan funnel sa besplatnim probnim periodima:
 
 - **Visitor-to-lead (prosek):** 1.5% do 2.5%
 - **Visitor-to-lead (top 10%):** 8% do 15%
@@ -5144,23 +5142,24 @@ SaaS proizvodi imaju specifican funnel sa besplatnim probnim periodima:
 - **EdTech (visitor-to-trial):** 10.3%
 - **Cybersecurity:** 1% do 2%
 
-Za SaaS firme, konverzija od 2% iz organskog saobracaja je solidna. Problem nastaje kad se poredi sa EdTech-om koji ima 5x vece stope zahvaljujuci impulsivnijoj odluci o kupovini.
+Za SaaS firme, konverzija od 2% iz organskog saobraćaja je solidna. Problem nastaje kad se poredi sa EdTech-om koji ima 5x veće stope zahvaljujući impulsivnijoj odluci o kupovini.
 
-## Sta ovo znaci za vas biznis?
+## Šta ovo znači za vaš biznis?
 
-Tri prakticna zakljucka iz svih ovih podataka:
+Tri praktična zaključka iz svih ovih podataka:
 
-**1. Ne merite se sa "globalnim prosekom."** Konverzija od 2% u e-commerce namestaju je odlicna. Ista cifra u hrani i picu je zabrinjavajuca.
+**1. Ne merite se sa "globalnim prosekom."** Konverzija od 2% u e-commerce nameštaju je odlična. Ista cifra u hrani i piću je zabrinjavajuća.
 
-**2. Optimizujte mobilnu verziju.** Desktop konvertuje 65% bolje. Vecina firmi ima sajt "koji radi na telefonu", ali nije optimizovan za mobilnu kupovinu. Pojednostavite checkout, smanjite broj koraka, ubrzajte ucitavanje.
+**2. Optimizujte mobilnu verziju.** Desktop konvertuje 65% bolje. Većina firmi ima sajt "koji radi na telefonu", ali nije optimizovan za mobilnu kupovinu. Pojednostavite checkout, smanjite broj koraka, ubrzajte učitavanje.
 
-**3. Ulagite u email i referral programe.** Umesto da jurite sve vise saobracaja sa drustvenih mreza (0.7% konverzija), ulagite u kanale koji vec konvertuju 5x do 10x bolje.
+**3. Ulažite u email i referral programe.** Umesto da jurite sve više saobraćaja sa društvenih mreža (0.7% konverzija), ulažite u kanale koji već konvertuju 5x do 10x bolje.
 
-Za kompletnu analizu koliko firme trose na marketing pogledajte [marketing budzet po industriji](/blog/koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026). Za CPA benchmark po industriji pogledajte [koliko kosta novi klijent](/blog/koliko-kosta-novi-klijent-cpa-po-industriji-google-facebook-2026).
+Za kompletnu analizu koliko firme troše na marketing pogledajte [marketing budžet po industriji](/blog/koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026). Za CPA benchmark po industriji pogledajte [koliko košta novi klijent](/blog/koliko-kosta-novi-klijent-cpa-po-industriji-google-facebook-2026).
 
-Ako zelite da proverite da li je stopa konverzije vaseg sajta u skladu sa benchmark-ovima za vasu industriju, javite se preko [kontakt forme](/kontakt).
+Ako želite da proverite da li je stopa konverzije vašeg sajta u skladu sa benchmark-ovima za vašu industriju, javite se preko [kontakt forme](/kontakt).
 `,
   },
+
   {
     slug: 'cena-po-leadu-po-industriji-benchmark-statistika-2026',
     title: 'Koliko košta jedan lead: cena po leadu (CPL) po industriji i kanalu u 2025-2026',
@@ -5293,17 +5292,17 @@ Benchmark podaci postoje da ih koristite kao kompas, ne kao pravilo. Vas cilj ni
   },
   {
     slug: 'uticaj-online-recenzija-na-prodaju-statistika-2026',
-    title: 'Uticaj online recenzija na prodaju: koliko zvezde i komentari zaista menjaju konverziju',
-    excerpt: 'Statistike o uticaju recenzija na odluku o kupovini u 2025-2026. Koliko recenzija treba, zašto 4 zvezdice pobeđuju 5 i kako odgovoriti na negativne.',
+    title: 'Uticaj online recenzija na prodaju: koliko zvezdice i komentari zaista menjaju konverziju',
+    excerpt: 'Statistike o uticaju recenzija na odluku o kupovini u 2025-2026: koliko recenzija treba, zašto 4 zvezdice često pobeđuju 5 i kako odgovoriti na negativne komentare.',
     date: '2026-03-21',
     category: 'CRO',
     readTime: '7 min',
     content: `
-## 93% kupaca čita recenzije pre kupovine — da li ih imate?
+## 93% kupaca čita recenzije pre kupovine, da li ih imate?
 
-U 2025. godini, **93% potrosaca** kaže da online recenzije uticu na njihove odluke o kupovini. To nije opcija -- to je uslov za prodaju. Firme bez recenzija gube kupce koji odlaze kod konkurencije sa 200+ ocena.
+U 2025. godini, **93% potrošača** kaže da online recenzije utiču na njihove odluke o kupovini. To nije opcija, to je uslov za prodaju. Firme bez recenzija gube kupce koji odlaze kod konkurencije sa 200+ ocena.
 
-A brojke su još drasticnije: **92% kupaca** okleva da kupi ako nema nijedne recenzije, a **44% uopšte nece kupiti** od firme bez online recenzija.
+A brojke su još drastičnije: **92% kupaca** okleva da kupi ako nema nijedne recenzije, a **44% uopšte neće kupiti** od firme bez online recenzija.
 
 Za upravljanje reputacijom pogledajte [vodič za društvene mreže](/blog/upravljanje-reputacijom-drustvene-mreze-srbija-2026). Za cene SEO usluga pogledajte [SEO optimizacija cena](/seo-optimizacija-cena). Za prikupljanje recenzija pogledajte [GBP optimizacija](/blog/google-business-profile-optimizacija-srbija-2026).
 
@@ -5312,182 +5311,182 @@ Za upravljanje reputacijom pogledajte [vodič za društvene mreže](/blog/upravl
 Podaci iz Fera.ai, Spiegel Research Center i Power Reviews istraživanja:
 
 - **1 recenzija** povećava konverziju za **10%**
-- **5 recenzija** povećava konverziju za **270%** (dramatican skok)
-- **30 recenzija** povećava konverziju za **25%** (u odnosu na 5)
-- **100+ recenzija** povećava konverziju za **37%** (u odnosu na 0)
-- Proizvodi sa recenzijama imaju **19.8% visu prodaju** od proizvoda bez recenzija
+- **5 recenzija** povećava konverziju za **270%**
+- **30 recenzija** povećava konverziju za **25%** u odnosu na scenario sa 5 recenzija
+- **100+ recenzija** povećava konverziju za **37%** u odnosu na scenario bez recenzija
+- Proizvodi sa recenzijama imaju **19.8% višu prodaju** od proizvoda bez recenzija
 
-Zaključak: od 0 do 5 recenzija je OGROMAN skok. Posle 30, rast se usporava. Fokus za male firme: dodjite do 30 recenzija sto pre.
+Zaključak je jasan: prelaz sa 0 na 5 recenzija pravi ogroman skok. Posle 30, rast se usporava. Fokus za male firme treba da bude da što pre dođu do prvih 30 kvalitetnih recenzija.
 
-## Zvezdice: zašto 4.0-4.7 prodaje bolje od 5.0
+## Zvezdice: zašto 4.0-4.7 često prodaje bolje od 5.0
 
-Ovo zvuci kontraintuitivno ali je dokazano: proizvodi sa savrsenom ocenom od 5.0 konvertuju LOSIJE od onih sa 4.0-4.7.
+Ovo zvuči kontraintuitivno, ali je više puta potvrđeno u istraživanjima: proizvodi sa savršenom ocenom 5.0 često konvertuju lošije od onih sa prosekom 4.0-4.7.
 
-- **94% svih kupovina** se desava za proizvode sa prosekom 4+ zvezdice
-- **54% porudžbina** ide na 5-star proizvode, **40%** na 4-star
-- **70% potrosaca** nece verovati firmi sa manje od 4 zvezdice
+- **94% svih kupovina** dešava se za proizvode sa prosekom 4+ zvezdice
+- **54% porudžbina** ide na 5-star proizvode, a **40%** na 4-star proizvode
+- **70% potrošača** neće verovati firmi sa manje od 4 zvezdice
 - **52% kupaca** traži minimum 4.0 prosek
-- Ispod **3.3 zvezdice** vecina kupaca nece ni razmatrati kupovinu
+- Ispod **3.3 zvezdice** većina kupaca neće ni razmatrati kupovinu
 
-**Zašto 5.0 nije optimalno:** Kupci smatraju savrsen prosek laznim. Nekoliko kritika (ali ne previše) cini firmu verodostojnijom. Idealni raspon: **4.2-4.7 zvezdica**.
+**Zašto 5.0 nije idealno:** kupci savršen prosek često doživljavaju kao nerealan. Nekoliko kritika, ako nisu katastrofalne i ako je firma dobro odgovorila, može povećati kredibilitet. Idealni raspon je obično **4.2-4.7 zvezdica**.
 
 ## Poverenje: recenzije vs preporuke prijatelja
 
-Mozda vas iznenaditi ali statistike su jasne:
+Možda deluje iznenađujuće, ali brojke su jasne:
 
-- **54% potrosaca** veruje online recenzijama VIŠE nego preporukama prijatelja (Reputation.com 2024)
-- **49% kupaca** veruje recenzijama JEDNAKO kao preporukama
-- **75.5% potrosaca** izrazava poverenje u online recenzije generalno
-- Prosečno kupci citaju **7 recenzija** pre nego sto steknu poverenje u firmu
+- **54% potrošača** veruje online recenzijama više nego preporukama prijatelja (Reputation.com 2024)
+- **49% kupaca** veruje recenzijama jednako kao preporukama
+- **75.5% potrošača** generalno izražava poverenje u online recenzije
+- Prosečno kupci čitaju **7 recenzija** pre nego što steknu poverenje u firmu
 
-Ali postoji upozorenje: **75% potrosaca** brine o laznim recenzijama, a **53%** se plasi da AI generise lazne ocene. Trustpilot je u 2024. uklonio **4.5 miliona laznih recenzija** (7% svih postavljenih).
+Istovremeno postoji i oprez: **75% potrošača** brine o lažnim recenzijama, a **53%** se plaši da AI generiše lažne ocene. Trustpilot je u 2024. uklonio **4.5 miliona lažnih recenzija**.
 
-## Negativne recenzije: pretnja ili prilika?
+## Negativne recenzije, pretnja ili prilika?
 
-### Koliko stete negativne recenzije
+### Koliko štete negativne recenzije
 
-- **67% potrosaca** ce odustati od kupovine zbog negativnih recenzija
+- **67% potrošača** će odustati od kupovine zbog negativnih recenzija
 - **1 negativna recenzija** može da odvrati do **30 potencijalnih kupaca**
-- **4+ negativne recenzije** smanjuju prodaju za **70%**
+- **4+ negativne recenzije** mogu smanjiti prodaju i do **70%**
 
-### Ali odgovaranje na negativne recenzije MENJA igru
+### Ali odgovor na negativnu recenziju menja igru
 
-- **88% potrosaca** smatra da je odgovor firme na recenzije vazan
+- **88% potrošača** smatra da je odgovor firme na recenzije važan
 - **85%** uzima u obzir odgovore na negativne recenzije pri odluci
-- Firme koje odgovore na negativnu recenziju u roku od **24h** beleže **33% sanse** da kupac povisi ocenu
-- Cak i negativne recenzije (ako firma odgovori) mogu POVEĆATI konverziju za do **85%** (jer pokazuju transparentnost)
+- Firme koje odgovore na negativnu recenziju u roku od **24h** beleže **33% šanse** da kupac povisi ocenu
+- Čak i negativne recenzije, ako firma odgovori dobro, mogu povećati konverziju jer pokazuju transparentnost i ozbiljnost
 
 ### Kako odgovoriti na negativnu recenziju
 
 1. Zahvalite na povratnoj informaciji
-2. Priznajte problem (ne pravdajte se)
+2. Priznajte problem bez pravdanja
 3. Ponudite konkretno rešenje
 4. Premestite razgovor u privatni kanal
 
 Za detaljan vodič pogledajte [upravljanje reputacijom](/blog/upravljanje-reputacijom-drustvene-mreze-srbija-2026).
 
-## Recenzije po platformi: gde su najvaznije
+## Recenzije po platformi, gde su najvažnije
 
 ### Google Business Profile
-Najvaznija platforma za lokalne biznise. Broj recenzija direktno utiče na poziciju na Google mapi. Pogledajte [GBP optimizacija](/blog/google-business-profile-optimizacija-srbija-2026).
+Najvažnija platforma za lokalne biznise. Broj recenzija direktno utiče na poziciju na Google mapi. Pogledajte [GBP optimizacija](/blog/google-business-profile-optimizacija-srbija-2026).
 
-### Product reviews na vasem sajtu
-Za e-commerce, recenzije na samoj product stranici povećavaju konverziju za 270% (5+ recenzija). Pogledajte [product page optimizacija](/blog/optimizacija-product-stranice-e-commerce-srbija-2026).
+### Product reviews na vašem sajtu
+Za e-commerce, recenzije na samoj product stranici mogu dramatično podići konverziju. Pogledajte [product page optimizacija](/blog/optimizacija-product-stranice-e-commerce-srbija-2026).
 
 ### Facebook recenzije
-Manje uticajne od Google-a ali doprinose overall online prisustvu i social proof-u.
+Manje su uticajne od Google-a, ali i dalje doprinose ukupnom online prisustvu i social proof-u.
 
-## Kako prikupiti više recenzija (bez kupovine)
+## Kako prikupiti više recenzija, bez kupovine lažnih ocena
 
-1. **Automatski email posle kupovine:** Dan posle isporuke, posaljite email sa direktnim linkom za recenziju. Pogledajte [email automatizacija](/blog/email-automatizacija-za-webshop-srbija-2026).
-2. **QR kod na ambalazi:** Na pakovanju proizvoda, QR kod koji vodi na Google recenziju.
-3. **SMS podsecanje:** Kratak SMS 3 dana posle kupovine sa linkom.
-4. **Ne kupujte recenzije:** Google detektuje i kaznjava kupljene recenzije. Fokusirajte se na organske.
+1. **Automatski email posle kupovine:** dan posle isporuke pošaljite email sa direktnim linkom za recenziju. Pogledajte [email automatizacija](/blog/email-automatizacija-za-webshop-srbija-2026).
+2. **QR kod na ambalaži:** na pakovanju proizvoda postavite QR kod koji vodi direktno na Google recenziju.
+3. **SMS podsećanje:** kratak SMS 3 dana posle kupovine sa linkom.
+4. **Ne kupujte recenzije:** Google ih detektuje i može kazniti profil. Fokus treba da bude na organskom prikupljanju.
 
-Za profesionalnu strategiju prikupljanja recenzija i upravljanja reputacijom, javite se preko [kontakt forme](/kontakt). Za zadrzavanje kupaca pogledajte [customer retention vodič](/blog/zadrzavanje-kupaca-customer-retention-srbija-2026).
+Za profesionalnu strategiju prikupljanja recenzija i upravljanja reputacijom, javite se preko [kontakt forme](/kontakt). Za zadržavanje kupaca pogledajte [customer retention vodič](/blog/zadrzavanje-kupaca-customer-retention-srbija-2026).
 
 *Izvori: Reputation.com Consumer Survey (2024), Spiegel Research Center (2024), Fera.ai E-Commerce Review Statistics (2025), Trustpilot Trust Report (2025), BrightLocal Consumer Review Survey (2025), Birdeye State of Online Reviews (2024).*
 `
   },
   {
     slug: 'napustanje-korpe-statistika-po-industriji-2026',
-    title: 'Napustanje korpe u e-commerce: statistika po industriji i kako spasiti izgubljene prodaje',
-    excerpt: 'Cart abandonment rate po industriji u 2025-2026. Razlozi zašto 73% kupaca odustaje i koliko prodaja možete spasiti sa 3 email-a.',
+    title: 'Napuštanje korpe u e-commerce-u: statistika po industriji i kako spasiti izgubljene prodaje',
+    excerpt: 'Cart abandonment rate po industriji u 2025-2026: zašto 73% kupaca odustaje i koliko prodaja možete spasiti uz dobar checkout i 3 recovery emaila.',
     date: '2026-03-21',
     category: 'E-Commerce',
     readTime: '7 min',
     content: `
-## 73% online korpi ostaje napusteno — ali 260 milijardi dolara moze da se spasi
+## 73% online korpi ostaje napušteno, ali 260 milijardi dolara može da se spasi
 
-Svaki put kad kupac stavi proizvod u korpu i ode bez kupovine, vi gubite novac. U 2025. godini, prosecna stopa napustanja korpe globalno iznosi **73-75%**. Za webshop sa 100 porudzbina dnevno, to znaci da je jos **270 kupaca** stavilo nesto u korpu i otislo.
+Svaki put kad kupac stavi proizvod u korpu i ode bez kupovine, gubite novac. U 2025. godini, prosečna stopa napuštanja korpe globalno iznosi **73-75%**. Za webshop sa 100 porudžbina dnevno, to znači da je još **270 kupaca** stavilo nešto u korpu i odustalo.
 
-Dobra vest: analitacari procenjuju da se **260 milijardi USD godisnje** moze spasiti optimizacijom checkout-a i email recovery kampanjama.
+Dobra vest je da analitičari procenjuju da se **260 milijardi USD godišnje** može spasiti optimizacijom checkout-a i email recovery kampanjama.
 
 Za postavljanje recovery emailova pogledajte [email automatizacija za webshop](/blog/email-automatizacija-za-webshop-srbija-2026). Za cene izrade webshopa pogledajte [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena). Za optimizaciju product stranica pogledajte [12 elemenata koji prodaju](/blog/optimizacija-product-stranice-e-commerce-srbija-2026).
 
 ## Cart abandonment rate po industriji (2024-2025)
 
-### Najvisi abandonment (80%+)
+### Najviši abandonment (80%+)
 
-- **Luksuz i nakit:** 81-83% (visoka cena = duze razmisljanje)
-- **Putovanja:** 81-82% (kompleksna kupovina sa vise opcija)
-- **Lepota i kozmetika:** 81% (impulzivno stavljanje u korpu, racionalno odustajanje)
-- **Kucni dekor i namestaj:** 79-80% (skupe stavke, zahtevaju razgovor sa partnerom)
+- **Luksuz i nakit:** 81-83% (visoka cena znači duže razmišljanje)
+- **Putovanja:** 81-82% (kompleksna kupovina sa više opcija)
+- **Lepota i kozmetika:** 81% (impulsivno stavljanje u korpu, pa racionalno odustajanje)
+- **Kućni dekor i nameštaj:** 79-80% (skupe stavke, često traže dodatno razmišljanje ili dogovor)
 - **Telekomunikacije:** 79% (komplikovani planovi i ugovori)
 
 ### Srednji abandonment (60-80%)
 
-- **Moda i odeca:** 76-79% (nesigurnost oko velicine/fit-a)
-- **Elektronika:** 74% (uporedna kupovina, cekanje popusta)
-- **Genericki e-commerce prosek:** 73%
+- **Moda i odeća:** 76-79% (nesigurnost oko veličine i fit-a)
+- **Elektronika:** 74% (uporedna kupovina i čekanje popusta)
+- **Generički e-commerce prosek:** 73%
 - **Sport i rekreacija:** 70%
 
-### Najnizi abandonment (50-60%)
+### Najniži abandonment (50-60%)
 
-- **Namirnice (groceries):** 50% (hitna potreba, manja cena po artiklu)
-- **Kucni ljubimci:** 53-55% (emocionalna kupovina, redovna potreba)
-- **Farmacija:** 57% (medicinska potreba = manja verovatnoca odustajanja)
-- **B2B e-commerce:** 57% (odluka vec doneta pre dodavanja u korpu)
+- **Namirnice (groceries):** 50% (hitna potreba i niža cena po artiklu)
+- **Kućni ljubimci:** 53-55% (emocionalna kupovina i redovna potreba)
+- **Farmacija:** 57% (medicinska potreba smanjuje verovatnoću odustajanja)
+- **B2B e-commerce:** 57% (odluka je često već doneta pre dodavanja u korpu)
 
-## 10 Razloga zasto kupci napustaju korpu
+## 10 razloga zašto kupci napuštaju korpu
 
-Podaci iz Baymard Institute, Oberlo i Bolt istrazivanja (2024):
+Podaci iz Baymard Institute, Oberlo i Bolt istraživanja (2024):
 
-1. **Skriveni troskovi (dostava, porez):** 48-55% kupaca — **razlog #1**
+1. **Skriveni troškovi (dostava, porez):** 48-55% kupaca, i to je razlog broj 1
 2. **Obavezna registracija:** 24-26% (forsiranje kreiranja naloga)
-3. **Nepoverenje u sajt (bezbednost kartice):** 25%
+3. **Nepoverenje u sajt i sigurnost plaćanja:** 25%
 4. **Spora dostava:** 21-23%
-5. **Komplikovan checkout:** 17-31% (previse koraka ili polja)
-6. **Nemogu da vidim ukupnu cenu unapred:** 21%
-7. **Losa politika povrata:** 18%
-8. **Nedostaju zeljeni nacini placanja:** 13-22%
-9. **Tehnicki problemi (crash sajta):** 14-17%
-10. **Samo pregledaju, nisu spremni za kupovinu:** 48% (ne mozete eliminisati, ali mozete remarketing)
+5. **Komplikovan checkout:** 17-31% (previše koraka ili polja)
+6. **Ne mogu da vide ukupnu cenu unapred:** 21%
+7. **Loša politika povrata:** 18%
+8. **Nedostaju željeni načini plaćanja:** 13-22%
+9. **Tehnički problemi (crash sajta):** 14-17%
+10. **Samo pregledaju i nisu spremni za kupovinu:** 48% (ovo ne možete potpuno eliminisati, ali možete remarketingom vratiti deo prometa)
 
 Za psihologiju kupovine pogledajte [CRO principi](/blog/psihologija-kupovine-kako-sajt-utice-na-odluke-srbija-2026).
 
-## Koliko prodaja mozete spasiti: recovery statistike
+## Koliko prodaja možete spasiti, recovery statistike
 
 ### Abandoned cart emailovi
 
-- **Open rate:** 45% (3x vise od regularnog newsletter-a!)
+- **Open rate:** 45% (oko 3x više od regularnog newsletter-a)
 - **Click-through rate:** 21%
-- **50% klikova** zavrsava kupovinom
-- **10% ukupno izgubljenog prihoda** se moze spasiti samo emailom
-- **Revenue per recipient:** 3.65 USD (najvise od svih automatizovanih emailova)
-- Kampanja sa **3 emaila** donosi **69% vise porudzbina** od kampanje sa 1 emailom
+- **50% klikova** završava kupovinom
+- **10% ukupno izgubljenog prihoda** može da se spasi samo emailom
+- **Revenue per recipient:** 3.65 USD (među najvišima kod automatizovanih emailova)
+- Kampanja sa **3 emaila** donosi **69% više porudžbina** od kampanje sa 1 emailom
 
 ### Optimalna email sekvenca za recovery
 
-**Email 1 (1h posle napustanja):** "Zaboravili ste nesto?" + slika proizvoda + direktan link. BEZ popusta.
-**Email 2 (24h posle):** "Jos uvek razmisljate?" + social proof (recenzije, broj prodatih) + besplatna dostava.
-**Email 3 (72h posle):** "Poslednja sansa" + 5-10% popust + urgency ("vas artikal je jos na stanju").
+**Email 1 (1h posle napuštanja):** "Zaboravili ste nešto?" + slika proizvoda + direktan link. Bez popusta.
+**Email 2 (24h posle):** "Još uvek razmišljate?" + social proof (recenzije, broj prodatih) + besplatna dostava.
+**Email 3 (72h posle):** "Poslednja šansa" + 5-10% popust + urgency poruka ("vaš artikal je još na stanju").
 
 ### Remarketing oglasi
 
-Facebook/Instagram retargeting na cart abandoners donosi 3-5x visi ROAS od hladnih kampanja. Pogledajte [Facebook remarketing vodic](/blog/facebook-ads-remarketing-strategija-srbija-2026).
+Facebook i Instagram retargeting prema cart abandonerima često donosi 3-5x viši ROAS od hladnih kampanja. Pogledajte [Facebook remarketing vodič](/blog/facebook-ads-remarketing-strategija-srbija-2026).
 
-## 5 Promena koje odmah smanjuju abandonment
+## 5 promena koje odmah smanjuju abandonment
 
-### 1) Prikazite sve troskove ODMAH
+### 1) Prikažite sve troškove odmah
 
-Dostava, porez, pakovanje — sve mora biti vidljivo PRE checkout-a. Idealno: na samoj product stranici. Ako nudite besplatnu dostavu iznad odredjenog iznosa, napisite to velikim slovima.
+Dostava, porez, pakovanje: sve mora biti vidljivo pre checkout-a. Idealno je da se vidi već na product stranici. Ako nudite besplatnu dostavu iznad određenog iznosa, napišite to jasno i rano.
 
-### 2) Omogucite Guest Checkout
+### 2) Omogućite guest checkout
 
-35% kupaca odustaje zbog obavezne registracije. "Kupite kao gost" dugme je obavezno. Podatke za nalog mozete traziti POSLE kupovine: "Zelite da sacuvate podatke za sledecu kupovinu?"
+35% kupaca odustaje zbog obavezne registracije. Dugme "Kupite kao gost" je praktično obavezno. Podatke za nalog možete tražiti posle kupovine: "Želite da sačuvate podatke za sledeću kupovinu?"
 
 ### 3) Dodajte express payment
 
-Apple Pay, Google Pay, pouzece. Svaki payment metod koji skracuje kucanje na telefonu smanjuje abandonment za 5-10%. Za mobilnu optimizaciju pogledajte [mobilni dizajn vodic](/blog/mobilni-dizajn-sajta-srbija-2026).
+Apple Pay, Google Pay, pouzeće. Svaki payment metod koji skraćuje kucanje na telefonu može smanjiti abandonment za 5-10%. Za mobilnu optimizaciju pogledajte [mobilni dizajn vodič](/blog/mobilni-dizajn-sajta-srbija-2026).
 
-### 4) Prikazite trust signale pored checkout dugmeta
+### 4) Prikažite trust signale pored checkout dugmeta
 
-"Sigurno placanje" bedz, "Povrat u roku od 14 dana", logotipi kartica — sve neposredno pored "Plati" dugmeta. Kupac treba da se oseca sigurno u sekundi kad donosi odluku.
+"Sigurno plaćanje" bedž, "Povrat u roku od 14 dana", logotipi kartica: sve to treba da bude blizu dugmeta za kupovinu. Kupac mora da se oseća sigurno baš u trenutku odluke.
 
 ### 5) Smanjite checkout na 1-2 koraka
 
-Svaki dodatni korak u checkout-u gubi 10% kupaca. One-page checkout je idealan. Za WooCommerce koristite plugin "CheckoutWC" ili "CartFlows".
+Svaki dodatni korak u checkout-u gubi deo kupaca. One-page checkout je idealan kad je moguće. Za WooCommerce često pomažu alati kao što su CheckoutWC ili CartFlows.
 
 Za profesionalnu optimizaciju checkout-a i smanjenje cart abandonment-a, javite se preko [kontakt forme](/kontakt). Pogledajte i [kako pokrenuti online prodavnicu](/blog/kako-pokrenuti-online-prodavnicu-srbija-2026).
 
@@ -5497,46 +5496,46 @@ Za profesionalnu optimizaciju checkout-a i smanjenje cart abandonment-a, javite 
   {
     slug: 'video-marketing-roi-kratki-video-reels-tiktok-statistika-2026',
     title: 'Video marketing ROI: zašto kratki video donosi najbolje rezultate u 2026',
-    excerpt: 'Statistike o ROI video marketinga u 2026. Reels, TikTok i YouTube Shorts engagement, konverzije i zašto 93% firmi planira da ulaze više u video.',
+    excerpt: 'Statistike o ROI video marketinga u 2026. Reels, TikTok i YouTube Shorts engagement, konverzije i zašto 93% firmi planira da ulaže više u video.',
     date: '2026-03-21',
     category: 'Video Marketing',
     readTime: '7 min',
     content: `
-## 93% firmi kaze da video donosi dobar ROI — najvise ikad
+## 93% firmi kaže da video donosi dobar ROI — najviše ikad
 
-Video marketing nije trend koji dolazi i prolazi. U 2025. godini, **93% firmi** izvestava o pozitivnom ROI od video marketinga — to je najvisa cifra ikad zabelezenaa, rast od 3% u odnosu na 2024.
+Video marketing nije trend koji dolazi i prolazi. U 2025. godini, **93% firmi** izveštava o pozitivnom ROI od video marketinga — to je najviša cifra ikad zabeležena, rast od 3% u odnosu na 2024.
 
-A **95% firmi** smatra video vaznim delom svoje marketing strategije (rast od 7% u odnosu na 2024). Firme koje koriste video imaju **49% brzi rast prihoda** od onih koje ne koriste.
+A **95% firmi** smatra video važnim delom svoje marketing strategije (rast od 7% u odnosu na 2024). Firme koje koriste video imaju **49% brži rast prihoda** od onih koje ne koriste.
 
-Za prakticne savete pogledajte [video marketing vodic za male firme](/blog/video-marketing-za-male-firme-srbija-2026).
+Za praktične savete pogledajte [video marketing vodič za male firme](/blog/video-marketing-za-male-firme-srbija-2026).
 
 ## Kratki video dominira svim metrikama
 
 ### Konverzije
 
-Kratki interaktivni video povecava prodaju i konverzije za do **80%**. Sajtovi sa videom imaju prosecnu konverziju od **4.8%** vs **2.9%** za sajtove bez videa.
+Kratki interaktivni video povećava prodaju i konverzije za do **80%**. Sajtovi sa videom imaju prosečnu konverziju od **4.8%** vs **2.9%** za sajtove bez videa.
 
-- **89% potrosaca** kaze da ih je video ubedio da kupe proizvod ili uslugu (2025)
-- **55% potrosaca** gleda video pre kupovine
-- **73% potrosaca** preferira kratki video za ucenje o proizvodu (nad tekstom, slikama ili dugim videom)
+- **89% potrošača** kaže da ih je video ubedio da kupe proizvod ili uslugu (2025)
+- **55% potrošača** gleda video pre kupovine
+- **73% potrošača** preferira kratki video za učenje o proizvodu (nad tekstom, slikama ili dugim videom)
 
 ### Engagement po platformi (kratki video format)
 
 | Platforma | Engagement Rate | Dnevni pregledi | Trend |
 |-----------|----------------|-----------------|-------|
-| YouTube Shorts | **5.91%** | 200 milijardi | â†‘â†‘ Eksplodira |
-| TikTok | **4.90%** | 1+ milijarda | â†‘ Stabilan rast |
-| Instagram Reels | **1.23-1.48%** | 140 milijardi (IG+FB) | â†’ Stabilan |
+| YouTube Shorts | **5.91%** | 200 milijardi | ↑↑ Eksplodira |
+| TikTok | **4.90%** | 1+ milijarda | ↑ Stabilan rast |
+| Instagram Reels | **1.23-1.48%** | 140 milijardi (IG+FB) | → Stabilan |
 
-**Iznenaddjenje:** YouTube Shorts je pretekao TikTok po engagement rate-u u 2025 (5.91% vs 4.90%). A Instagram Reels, iako ima najnizi engagement, i dalje ima **2x vise engagement** od staticnih slika na IG-u.
+**Iznenađenje:** YouTube Shorts je pretekao TikTok po engagement rate-u u 2025 (5.91% vs 4.90%). A Instagram Reels, iako ima najniži engagement, i dalje ima **2x više engagement-a** od statičnih slika na Instagramu.
 
 ### Vreme provedeno na sajtu
 
-Korisnici provode **88% vise vremena** na sajtovima koji imaju video sadrzaj. Ovo direktno utice na SEO jer Google meri "dwell time" kao signal kvaliteta. Za SEO uticaj pogledajte [kako brzina sajta utice na rangiranje](/blog/kako-brzina-sajta-utice-na-rangiranje-na-googlu-2026).
+Korisnici provode **88% više vremena** na sajtovima koji imaju video sadržaj. Ovo direktno utiče na SEO jer Google meri "dwell time" kao signal kvaliteta. Za SEO uticaj pogledajte [kako brzina sajta utiče na rangiranje](/blog/kako-brzina-sajta-utice-na-rangiranje-na-googlu-2026).
 
-## Koliko kosta i koliko vraca
+## Koliko košta i koliko vraća
 
-### Globalna potrosnja na video reklame
+### Globalna potrošnja na video reklame
 
 - **2024:** 191 milijardi USD
 - **2025:** 207.5 milijardi USD (+8.4%)
@@ -5544,53 +5543,53 @@ Korisnici provode **88% vise vremena** na sajtovima koji imaju video sadrzaj. Ov
 
 ### ROI po formatu
 
-- **Kratki video (Reels/TikTok/Shorts):** Najvisi ROI — najjeftiniji za produkciju, najveci organski doseg
-- **Dugi video (YouTube):** Dobar ROI za edukativni sadrzaj i SEO (YouTube je drugi pretrazivac)
-- **Live video:** Nizak trosak ali nepredvidiv doseg
-- **Produkcijski video (studijsko snimanje):** Visok trosak, nizak organski doseg (bolji za placene kampanje)
+- **Kratki video (Reels/TikTok/Shorts):** Najviši ROI — najjeftiniji za produkciju, najveći organski doseg
+- **Dugi video (YouTube):** Dobar ROI za edukativni sadržaj i SEO (YouTube je drugi pretraživač)
+- **Live video:** Nizak trošak, ali nepredvidiv doseg
+- **Produkcijski video (studijsko snimanje):** Visok trošak, nizak organski doseg (bolji za plaćene kampanje)
 
 ### Minimalna investicija za male firme
 
-Telefon sa dobrom kamerom + CapCut (besplatan) + 2-3 sata nedeljno = **0 EUR mesecno** za alate. Jedina investicija je vase vreme. Za alate pogledajte [AI alati za marketing](/blog/ai-alati-za-marketing-srbija-2026).
+Telefon sa dobrom kamerom + CapCut (besplatan) + 2-3 sata nedeljno = **0 EUR mesečno** za alate. Jedina investicija je vaše vreme. Za alate pogledajte [AI alati za marketing](/blog/ai-alati-za-marketing-srbija-2026).
 
-## Reels vs TikTok vs Shorts: sta koristiti
+## Reels vs TikTok vs Shorts: šta koristiti
 
 ### TikTok
 
-**Za koga:** B2C firme koje ciljaju 18-35 godiste. Vizuelni proizvodi, lifestyle, zabava.
-**Prednost:** Najveci organski doseg za nove naloge. Algoritam daje sansu svakome.
-**Idealna duzina videa:** 21-34 sekunde
+**Za koga:** B2C firme koje ciljaju 18-35 godište. Vizuelni proizvodi, lifestyle, zabava.
+**Prednost:** Najveći organski doseg za nove naloge. Algoritam daje šansu svakome.
+**Idealna dužina videa:** 21-34 sekunde
 
 ### Instagram Reels
 
-**Za koga:** Brendovi sa postojecim IG prisustvom. Vizuelni biznisi (moda, hrana, lepota).
-**Prednost:** Integrisan sa Instagram shopom. Reels cine **46% vremena provedenog na IG** u 2025.
-**Idealna duzina videa:** 15-30 sekundi
-Za placene kampanje pogledajte [Instagram reklame cena](/instagram-reklame-cena).
+**Za koga:** Brendovi sa postojećim IG prisustvom. Vizuelni biznisi (moda, hrana, lepota).
+**Prednost:** Integrisan sa Instagram shopom. Reels čine **46% vremena provedenog na IG-u** u 2025.
+**Idealna dužina videa:** 15-30 sekundi
+Za plaćene kampanje pogledajte [Instagram reklame cena](/instagram-reklame-cena).
 
 ### YouTube Shorts
 
-**Za koga:** Svi koji vec imaju YouTube kanal ili zele dugorocni SEO efekat.
-**Prednost:** Najvisi engagement rate (5.91%). Shorts hrane dugi YouTube kanal. **200 milijardi dnevnih pregleda** u 2025 (3x vise nego krajem 2024).
-**Idealna duzina videa:** 50-60 sekundi (blizu limita)
+**Za koga:** Svi koji već imaju YouTube kanal ili žele dugoročni SEO efekat.
+**Prednost:** Najviši engagement rate (5.91%). Shorts hrane dugi YouTube kanal. **200 milijardi dnevnih pregleda** u 2025 (3x više nego krajem 2024).
+**Idealna dužina videa:** 50-60 sekundi (blizu limita)
 
-## 5 Cinjenica koje bi trebalo da vas ubede
+## 5 činjenica koje bi trebalo da vas ubede
 
-1. **90% marketara** izvestava o pozitivnom ROI od video marketinga (Wyzowl 2024)
-2. **87% marketara** direktno pripisuje video povecanju prodaje (Wyzowl 2024)
-3. **2 od 3 potrosaca** (66%) kaze da im je kratki video najzanimljiviji format sadrzaja
-4. Sajtovi sa videom imaju **53% vecu sansu** da se pojave na prvoj stranici Google-a (Moovly)
-5. Globalna potrosnja na kratki video reklame raste **12% godisnje** — brze od bilo kog drugog formata
+1. **90% marketara** izveštava o pozitivnom ROI od video marketinga (Wyzowl 2024)
+2. **87% marketara** direktno pripisuje video povećanju prodaje (Wyzowl 2024)
+3. **2 od 3 potrošača** (66%) kaže da im je kratki video najzanimljiviji format sadržaja
+4. Sajtovi sa videom imaju **53% veću šansu** da se pojave na prvoj stranici Google-a (Moovly)
+5. Globalna potrošnja na kratki video reklame raste **12% godišnje** — brže od bilo kog drugog formata
 
-## Kako poceti sa video marketingom danas
+## Kako početi sa video marketingom danas
 
 **Nedelja 1:** Snimite 3 kratka videa telefonom (behind-the-scenes, odgovor na FAQ, proizvod u akciji). Objavite na Reels i TikTok.
 
-**Nedelja 2:** Analizirajte koji video je imao najvise pregleda. Ponovite taj format.
+**Nedelja 2:** Analizirajte koji video je imao najviše pregleda. Ponovite taj format.
 
 **Nedelja 3:** Dodajte titlove (CapCut auto-captions) i testirajte YouTube Shorts.
 
-**Nedelja 4:** Napravite content kalendar za sledeci mesec sa 3-4 videa nedeljno.
+**Nedelja 4:** Napravite content kalendar za sledeći mesec sa 3-4 videa nedeljno.
 
 Za profesionalnu video strategiju i produkciju, javite se preko [kontakt forme](/kontakt). Za kompletnu strategiju pogledajte [content marketing plan](/blog/content-marketing-plan-za-male-firme-srbija-2026).
 
@@ -5604,66 +5603,65 @@ Za profesionalnu video strategiju i produkciju, javite se preko [kontakt forme](
     date: '2026-03-21',
     category: 'Biznis',
     readTime: '9 min',
-    content: `
-## Pitanje koje svaki vlasnik firme postavi
+    content: `## Pitanje koje svaki vlasnik firme postavi
 
-"Koliko bi trebalo da trosim na marketing?"
+"Koliko bi trebalo da trošim na marketing?"
 
-Odgovor "zavisi" je tacan ali beskoristan. Zato ovde nema teorija -- samo podaci iz Gartner CMO Spend Survey-a, Deloitte CMO Survey-a i HubSpot industrisjkih istrazivannja za 2025-2026.
+Odgovor "zavisi" je tačan, ali beskoristan. Zato ovde nema teorije — samo podaci iz Gartner CMO Spend Survey-a, Deloitte CMO Survey-a i HubSpot industrijskih istraživanja za 2025-2026.
 
-Za praktični vodic za pravljenje budžeta pogledajte [kako napraviti marketing budžet koji ima smisla](/blog/kako-napraviti-marketing-budzet-koji-ima-smisla). Za pregled cena digitalnog marketinga pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Za praktični vodič za pravljenje budžeta pogledajte [kako napraviti marketing budžet koji ima smisla](/blog/kako-napraviti-marketing-budzet-koji-ima-smisla). Za pregled cena digitalnog marketinga pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
 ## Prosečni marketing budžet u 2025: 7.7% prihoda
 
-Prema Gartner 2025 CMO Spend Survey-u (400+ marketinskih direktora, pretezno kompanije sa 1+ milijardi dolara prihoda), marketing budžet prosečne firme iznosi **7.7% ukupnog prihoda** kompanije. Ovo je identicno procentu iz 2024 -- budzeti su se stabilizovali posle godina rasta.
+Prema Gartner 2025 CMO Spend Survey-u (400+ marketinških direktora, pretežno kompanije sa 1+ milijardi dolara prihoda), marketing budžet prosečne firme iznosi **7.7% ukupnog prihoda** kompanije. Ovo je identično procentu iz 2024 — budžeti su se stabilizovali posle godina rasta.
 
-Istrazivanje je sprovedeno u februaru-martu 2025. Ključni nalaz: vecina CMO-ova smatra da je ovo nedovoljno za punu realizaciju strategije. Odgovor? Veći fokus na AI i automatizaciju radi efikasnosti.
+Istraživanje je sprovedeno u februaru-martu 2025. Ključni nalaz: većina CMO-ova smatra da je ovo nedovoljno za punu realizaciju strategije. Odgovor? Veći fokus na AI i automatizaciju radi efikasnosti.
 
-Za manje firme (ispod 50M EUR prihoda), procenat je tipicno visi -- 10-15% -- jer je potrebno više ulaganja u izgradnju prepoznatljivosti.
+Za manje firme (ispod 50M EUR prihoda), procenat je tipično viši — 10-15% — jer je potrebno više ulaganja u izgradnju prepoznatljivosti.
 
 ## B2B vs B2C: ko troši više?
 
-| Segment | Procenat prihoda | Tipican raspon |
+| Segment | Procenat prihoda | Tipičan raspon |
 |---------|-----------------|----------------|
-| **B2B kompanije** | 2-8% | Manji budžet, duzi prodajni ciklus |
-| **B2C kompanije** | 8-15% | Veći budžet, potreban siri doseg |
+| **B2B kompanije** | 2-8% | Manji budžet, duži prodajni ciklus |
+| **B2C kompanije** | 8-15% | Veći budžet, potreban širi doseg |
 | **Startapovi / rast** | 15-30% | Agresivno ulaganje za pozicioniranje |
-| **Zrele kompanije** | 5-7% | Održavanje sa poznatim brandom |
+| **Zrele kompanije** | 5-7% | Održavanje sa poznatim brendom |
 
-**Zašto B2C firme troše više?** Prodaju masovnoj publici. Kad imate milion potencijalnih kupaca umesto 500 firmi, treba vam više kanala, više oglasa, više sadržaja da dodjete do svakoga.
+**Zašto B2C firme troše više?** Prodaju masovnoj publici. Kad imate milion potencijalnih kupaca umesto 500 firmi, treba vam više kanala, više oglasa i više sadržaja da dođete do svakoga.
 
-Za B2B marketing strategiju pogledajte [B2B marketing vodic za Srbiju](/blog/b2b-marketing-srbija-2026-vodic). Za e-commerce marketing pogledajte [Facebook Ads za e-commerce vodic](/blog/facebook-ads-za-e-commerce-srbija-2026).
+Za B2B marketing strategiju pogledajte [B2B marketing vodič za Srbiju](/blog/b2b-marketing-srbija-2026-vodic). Za e-commerce marketing pogledajte [Facebook Ads za e-commerce vodič](/blog/facebook-ads-za-e-commerce-srbija-2026).
 
 ## Marketing budžet po industriji (2025-2026 benchmarci)
 
 Podaci iz Gartner CMO Survey-a, HubSpot Industry Benchmarks-a i Deloitte CMO Survey-a:
 
-### Industrije sa najvecim budzetima (13%+ prihoda)
+### Industrije sa najvećim budžetima (13%+ prihoda)
 
-- **Komunikacije i mediji:** 13-15% prihoda. Ovde se najvise troši jer je marketing sustinski proizvod ovih kompanija.
-- **Potrosacka dobra (FMCG):** do 18% prihoda. Procter & Gamble, Unilever i slicni troše milijarde jer se bore za mesto na polici i u svesti potrosaca.
-- **Edukacija:** oko 14.5% prihoda. Online kursevi, privatni fakulteti i ed-tech kompanije ulazu agresivno u akviziciju studenata.
+- **Komunikacije i mediji:** 13-15% prihoda. Ovde se najviše troši jer je marketing suštinski proizvod ovih kompanija.
+- **Potrošačka dobra (FMCG):** do 18% prihoda. Procter & Gamble, Unilever i slični troše milijarde jer se bore za mesto na polici i u svesti potrošača.
+- **Edukacija:** oko 14.5% prihoda. Online kursevi, privatni fakulteti i ed-tech kompanije ulažu agresivno u akviziciju studenata.
 
-### Industrije sa srednjim budzetima (7-12% prihoda)
+### Industrije sa srednjim budžetima (7-12% prihoda)
 
-- **Maloprodaja i e-commerce:** 8-12% prihoda. Posebno visok za D2C brendove (do 20% u fazi rasta). Za e-commerce CRO pogledajte [optimizacija konverzije sajta vodic](/blog/optimizacija-konverzije-sajta-cro-srbija-2026).
-- **Tehnologija i softver:** 8-15% prihoda (prosek 9.2%). SaaS kompanije cesto troše na gornjoj granici jer je customer acquisition cost (CAC) visok a lifetime value još visi.
-- **Zdravstvo i farmacija:** 6-10% prihoda (prosek 9.3%). Regulatorna ogranicenja ogranicavaju kanale ali ne i budzetiranje.
-- **Nekretnine:** oko 9.8% prihoda. Visoka vrednost pojedinacne transakcije opravdava znacajno ulaganje u marketing.
+- **Maloprodaja i e-commerce:** 8-12% prihoda. Posebno visok za D2C brendove (do 20% u fazi rasta). Za e-commerce CRO pogledajte [optimizacija konverzije sajta vodič](/blog/optimizacija-konverzije-sajta-cro-srbija-2026).
+- **Tehnologija i softver:** 8-15% prihoda (prosek 9.2%). SaaS kompanije često troše na gornjoj granici jer je customer acquisition cost (CAC) visok, a lifetime value još viši.
+- **Zdravstvo i farmacija:** 6-10% prihoda (prosek 9.3%). Regulatorna ograničenja ograničavaju kanale, ali ne i budžetiranje.
+- **Nekretnine:** oko 9.8% prihoda. Visoka vrednost pojedinačne transakcije opravdava značajno ulaganje u marketing.
 - **Finansijske usluge:** 7-10% prihoda (prosek oko 7.2% za velike banke, 11% za fintech).
 
-### Industrije sa nizim budzetima (pod 7% prihoda)
+### Industrije sa nižim budžetima (pod 7% prihoda)
 
 - **Proizvodnja i industrija:** 3-7% prihoda (prosek 6.7%). Veći deo budžeta ide na sajmove i direktnu prodaju nego na digitalni marketing.
-- **IT i poslovne usluge:** oko 5.8% prihoda. Referencni marketing i word-of-mouth smanjuju potrebu za placenim kanalima.
-- **Profesionalne usluge (advokatske kancelarije, racunovodje):** oko 7% prihoda. Pogledajte [marketing za advokate](/marketing-za-advokate) za specificne strategije.
+- **IT i poslovne usluge:** oko 5.8% prihoda. Referentni marketing i word-of-mouth smanjuju potrebu za plaćenim kanalima.
+- **Profesionalne usluge (advokatske kancelarije, računovođe):** oko 7% prihoda. Pogledajte [marketing za advokate](/marketing-za-advokate) za specifične strategije.
 
 ## Uporedna tabela: marketing budžet po industriji
 
 | Industrija | % prihoda | Ključni kanali |
 |-----------|----------|----------------|
 | Komunikacije/Mediji | 13-15% | Content, social, programmatic |
-| FMCG / Potrosacka dobra | do 18% | TV, digital, influencer |
+| FMCG / Potrošačka dobra | do 18% | TV, digital, influencer |
 | Edukacija | ~14.5% | Search, content, social ads |
 | E-commerce | 8-12% | Paid social, search, email |
 | Tehnologija/SaaS | 8-15% | Content, search, ABM |
@@ -5682,12 +5680,12 @@ Prema Deloitte CMO Survey-u za 2025, raspodela unutar marketing budžeta izgleda
 |-------|-------------------|
 | **Društvene mreže** | 11.3% |
 | **Content marketing** | 10.2% |
-| **Placena pretraga (PPC)** | 9.8% |
+| **Plaćena pretraga (PPC)** | 9.8% |
 | **SEO / organska pretraga** | 8-12% |
 | **Email marketing** | 5-8% |
 | **Tradicionalni mediji** | 20-35% (u padu) |
 
-**Digitalno vs tradicionalno:** Digitalni kanali sada cine 75% globalnog marketing budžeta (Dentsu, 2025). Tradicionalni mediji (TV, print, bilbordi) su pali na 25% -- i nastavljaju da padaju za 3.7% godisnje.
+**Digitalno vs tradicionalno:** Digitalni kanali sada čine 75% globalnog marketing budžeta (Dentsu, 2025). Tradicionalni mediji (TV, print, bilbordi) pali su na 25% — i nastavljaju da padaju za 3.7% godišnje.
 
 Za konkretne cene po kanalu u Srbiji pogledajte:
 - [Google reklame cena](/google-reklame-cena)
@@ -5695,14 +5693,14 @@ Za konkretne cene po kanalu u Srbiji pogledajte:
 - [Instagram reklame cena](/instagram-reklame-cena)
 - [SEO optimizacija cena](/seo-optimizacija-cena)
 
-## Koliko bi VASA firma trebalo da troši
+## Koliko bi VAŠA firma trebalo da troši
 
 ### Formule za različite faze
 
 **Startap / nova firma (0-2 godine):**
 - 15-30% prihoda na marketing
 - Fokus: izgradnja prepoznatljivosti + prvi klijenti
-- Kanali: placena pretraga (brzi rezultati) + content (dugoročni)
+- Kanali: plaćena pretraga (brzi rezultati) + content (dugoročni)
 
 **Firma u rastu (2-5 godina):**
 - 10-15% prihoda
@@ -5716,46 +5714,46 @@ Za konkretne cene po kanalu u Srbiji pogledajte:
 
 ### Pravilo 70/20/10
 
-Mnoge uspesne firme koriste ovu raspodelu budžeta:
-- **70%** na proverene kanale (ono sto vec radi)
-- **20%** na kanale u rastu (obecavajuci ali nepotvrdeni)
+Mnoge uspešne firme koriste ovu raspodelu budžeta:
+- **70%** na proverene kanale (ono što već radi)
+- **20%** na kanale u rastu (obećavajući, ali nepotvrđeni)
 - **10%** na eksperimente (novi formati, platforme, pristupi)
 
-Ovo sprecava i preteranu konzervativnost i neodgovorno trosenje na neproverene taktike.
+Ovo sprečava i preteranu konzervativnost i neodgovorno trošenje na neproverene taktike.
 
-## Šta se desava kad trosiste premalo
+## Šta se dešava kad trošite premalo
 
-Gartner-ov nalaz da je 7.7% prihoda "nedovoljno za punu realizaciju strategije" je upozorenje. Firme koje troše ispod svog industrijskog benchmarka obicno:
+Gartner-ov nalaz da je 7.7% prihoda "nedovoljno za punu realizaciju strategije" je upozorenje. Firme koje troše ispod svog industrijskog benchmarka obično:
 
-- Gube market share konkurentima koji ulazu više
-- Imaju sporiji rast prihoda (Deloitte: korelacija između marketing ulaganja i rasta prihoda je statisticki znacajna)
-- Zavise od jednog kanala (obicno preporuke) sto je rizicno
+- Gube market share konkurentima koji ulažu više
+- Imaju sporiji rast prihoda (Deloitte: korelacija između marketing ulaganja i rasta prihoda je statistički značajna)
+- Zavise od jednog kanala (obično preporuke), što je rizično
 
 Ali bacanje novca takođe ne radi. Bitno je meriti ROI svakog kanala. Za to pogledajte [kako meriti ROI digitalnog marketinga](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
 
 ## Praktični primer za firmu u Srbiji
 
-**Firma:** Web agencija sa 200.000 EUR godisnjeg prihoda
-**Industrija benchmark:** IT usluge, 5.8%
-**Preporuceni budžet:** 200.000 x 0.058 = 11.600 EUR godisnje (~967 EUR mesecno)
+**Firma:** Web agencija sa 200.000 EUR godišnjeg prihoda  
+**Industrija benchmark:** IT usluge, 5.8%  
+**Preporučeni budžet:** 200.000 x 0.058 = 11.600 EUR godišnje (~967 EUR mesečno)
 
 **Raspodela po kanalima:**
 - SEO i content: 350 EUR/mes (organski rast, blog, linkovi)
 - Google Ads: 300 EUR/mes (high-intent pretrage)
-- LinkedIn: 200 EUR/mes (B2B mrezenje + oglasi)
+- LinkedIn: 200 EUR/mes (B2B mreženje + oglasi)
 - Email marketing: 67 EUR/mes (alat + automatizacija)
 - Alokacija za testiranje: 50 EUR/mes
 
-To je realan budžet za firmu te velicine u Srbiji. Ni premalo ni preterano. Sa dobrom strategijom, moze doneti 3-5x povrat na ulaganje.
+To je realan budžet za firmu te veličine u Srbiji. Ni premalo ni preterano. Sa dobrom strategijom može doneti 3-5x povrat na ulaganje.
 
-Za pomoc sa kreiranjem marketing budžeta za vasu firmu, javite se preko [kontakt forme](/kontakt). Za pregled svih nasih usluga pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Za pomoć sa kreiranjem marketing budžeta za vašu firmu, javite se preko [kontakt forme](/kontakt). Za pregled svih naših usluga pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-*Izvori: Gartner 2025 CMO Spend Survey (maj 2025, 400+ CMO-ova), Deloitte/Duke CMO Survey (februar 2025, 300+ marketinskih lidera), HubSpot State of Marketing Report (2025), Dentsu Global Ad Spend Forecasts (2025).*
+*Izvori: Gartner 2025 CMO Spend Survey (maj 2025, 400+ CMO-ova), Deloitte/Duke CMO Survey (februar 2025, 300+ marketinških lidera), HubSpot State of Marketing Report (2025), Dentsu Global Ad Spend Forecasts (2025).*
 `
   },
   {
     slug: 'engagement-rate-po-platformi-instagram-tiktok-linkedin-2026',
-    title: 'Engagement rate po platformi 2026: gde vasa publika zaista reaguje',
+    title: 'Engagement rate po platformi 2026: gde vaša publika zaista reaguje',
     excerpt: 'Uporedni podaci o engagement rate-u na Instagramu, TikToku, LinkedIn-u i Facebooku u 2025-2026. Koja platforma donosi najviše interakcija i zašto.',
     date: '2026-03-21',
     category: 'Social Media',
@@ -5763,94 +5761,94 @@ Za pomoc sa kreiranjem marketing budžeta za vasu firmu, javite se preko [kontak
     content: `
 ## Ne merite pratioce — merite engagement
 
-Imate 10.000 pratilaca na Instagramu ali svaki post dobija 50 lajkova? Vas engagement rate je 0.5% -- sto znaci da vas 99.5% pratilaca ignoriše. Broj pratilaca je metrika sujete. Engagement rate je metrika koja pokazuje da li vas publika zaista slusa.
+Imate 10.000 pratilaca na Instagramu, ali svaki post dobija 50 lajkova? Vaš engagement rate je 0.5% — što znači da vas 99.5% pratilaca ignoriše. Broj pratilaca je metrika sujete. Engagement rate je metrika koja pokazuje da li vas publika zaista sluša.
 
-Engagement rate = (lajkovi + komentari + deljenja + sacuvano) / doseg x 100
+Engagement rate = (lajkovi + komentari + deljenja + sačuvano) / doseg x 100
 
-Evo kako stoje stvari po platformama u 2025-2026, na osnovu podataka iz Buffer, Socialinsider i Rival IQ istrazivannja.
+Evo kako stoje stvari po platformama u 2025-2026, na osnovu podataka iz Buffer, Socialinsider i Rival IQ istraživanja.
 
-Za kompletnu strategiju drustvenih mreza pogledajte [social media vodic](/blog/social-media-strategija-za-male-firme-srbija-2026). Za cene drustvenih mreza pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Za kompletnu strategiju društvenih mreža pogledajte [social media vodič](/blog/social-media-strategija-za-male-firme-srbija-2026). Za cene društvenih mreža pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-## LinkedIn: iznenaddjujuci pobednik u 2026
+## LinkedIn: iznenađujući pobednik u 2026
 
-LinkedIn je platforma sa najvisom stopom engagement-a u 2025-2026 — i to sa znacajnim rastom.
+LinkedIn je platforma sa najvišom stopom engagement-a u 2025-2026 — i to sa značajnim rastom.
 
-- **Prosecni engagement rate (2025):** 5.2-6.5%
+- **Prosečni engagement rate (2025):** 5.2-6.5%
 - **Medijana (januar 2025):** 8.01% (skok sa 6.0% u januaru 2024 — rast od 33%)
 - **Rast u odnosu na 2024:** +30%
 
-**Zasto LinkedIn raste dok ostali padaju:**
-- Manja konkurencija sadrzaja (manje objava nego na IG/FB, svaka dobija vise paznje)
-- Algoritam aktivno nagradjuje konverzaciju (komentari > lajkovi)
+**Zašto LinkedIn raste dok ostali padaju:**
+- Manja konkurencija sadržaja (manje objava nego na IG/FB, svaka dobija više pažnje)
+- Algoritam aktivno nagrađuje konverzaciju (komentari > lajkovi)
 - Raznovrsni formati (karuseli, dokumenti, ankete, video) svi imaju jak doseg
 - Profesionalna publika koja je fokusiranija (ne skroluje bezveze kao na IG)
 
-Za B2B firme u Srbiji, LinkedIn je trenutno **najisplativija platforma** za organski doseg. Pogledajte [LinkedIn marketing vodic](/blog/linkedin-marketing-za-b2b-firme-srbija-2026).
+Za B2B firme u Srbiji, LinkedIn je trenutno **najisplativija platforma** za organski doseg. Pogledajte [LinkedIn marketing vodič](/blog/linkedin-marketing-za-b2b-firme-srbija-2026).
 
 ## TikTok: i dalje kralj engagement-a (ali pada)
 
-- **Prosecni engagement rate (2025):** 3.7-4.9%
+- **Prosečni engagement rate (2025):** 3.7-4.9%
 - **Medijana (januar 2025):** 4.56% (pad sa 5.14% u januaru 2024)
-- **Trend:** Stabilan ali lagano opadajuci (-11% god-za-god)
+- **Trend:** Stabilan, ali lagano opadajući (-11% god-za-god)
 
-**Zasto TikTok pada:**
-- Prezasicenost sadrzaja (previse kreatorsa, algoritam mora da deli paznju)
-- Promena u ponasanju: korisnici gledaju vise ali manje interaguju (pasivni scroll)
-- Rast "watch time" metrike umesto lajkova/komentara
+**Zašto TikTok pada:**
+- Prezasićenost sadržaja (previše kreatora, algoritam mora da deli pažnju)
+- Promena u ponašanju: korisnici gledaju više, ali manje interaguju (pasivni scroll)
+- Rast "watch time" metrike umesto lajkova i komentara
 
-Za firme koje ciljaju 18-35 demografiju, TikTok je i dalje izuzetno jak kanal. Ali ocekujte pad engagement-a kako platforma sazreva.
+Za firme koje ciljaju 18-35 demografiju, TikTok je i dalje izuzetno jak kanal. Ali očekujte pad engagement-a kako platforma sazreva.
 
-## Instagram: najveci pad u 2026
+## Instagram: najveći pad u 2026
 
-- **Prosecni engagement rate (2025):** 0.5-1.2% (Buffer: 1.16%, Socialinsider: 0.50%)
+- **Prosečni engagement rate (2025):** 0.5-1.2% (Buffer: 1.16%, Socialinsider: 0.50%)
 - **Medijana (januar 2025):** 0.36-0.50%
 - **Pad u odnosu na 2024:** -58% (sa 2.94% u januaru 2024 na ~1.16%)
 
-**Zasto Instagram drasticno pada:**
-- Prezasicenost sadrzaja i reklama u feed-u
-- Algoritam forsira Reels nad svime ostalim — staticki postovi dobijaju minimalan doseg
-- Privatne interakcije (DM, Stories) rastu ali se ne racunaju u javni engagement
-- Vise firmi na platformi = manje organskog dosega po firmi
-- Korisnici prelaze na "sacuvaj" umesto "lajkuj" (saves se ne vide javno)
+**Zašto Instagram drastično pada:**
+- Prezasićenost sadržaja i reklama u feed-u
+- Algoritam forsira Reels nad svime ostalim — statični postovi dobijaju minimalan doseg
+- Privatne interakcije (DM, Stories) rastu, ali se ne računaju u javni engagement
+- Više firmi na platformi = manje organskog dosega po firmi
+- Korisnici prelaze na "sačuvaj" umesto "lajkuj" (saves se ne vide javno)
 
-**Sta raditi:** Fokusirajte se na Reels (3-5x veci doseg od statica) i Stories (zadrza publiku aktivnom). Za placene kampanje pogledajte [Instagram reklame cena](/instagram-reklame-cena).
+**Šta raditi:** Fokusirajte se na Reels (3-5x veći doseg od statičnih objava) i Stories (zadržavaju publiku aktivnom). Za plaćene kampanje pogledajte [Instagram reklame cena](/instagram-reklame-cena).
 
-## Facebook: najnizi engagement, ali stabilan
+## Facebook: najniži engagement, ali stabilan
 
-- **Prosecni engagement rate (2025):** 0.06-0.20%
+- **Prosečni engagement rate (2025):** 0.06-0.20%
 - **Trend:** Stabilan (lagan rast sa 0.11% u H1 2024 na 0.20% u maju 2025)
 
-**Zasto je engagement nizak:**
-- Najveca platforma = najvise "sumova" u feed-u
-- Organki doseg za biznis stranice: 2-5% pratilaca
-- Korisnicka baza stari (35+ demografija dominira)
+**Zašto je engagement nizak:**
+- Najveća platforma = najviše "šumova" u feed-u
+- Organski doseg za biznis stranice: 2-5% pratilaca
+- Korisnička baza stari (35+ demografija dominira)
 
-**Kada i dalje ima smisla:** Facebook grupe i marketplace i dalje imaju jak engagement. Za lokalne biznise koji ciljaju 35+ publiku, Facebook stranica + grupe su relevantniji od Instagram-a. Za placene kampanje pogledajte [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama).
+**Kada i dalje ima smisla:** Facebook grupe i marketplace i dalje imaju jak engagement. Za lokalne biznise koji ciljaju 35+ publiku, Facebook stranica + grupe su relevantniji od Instagram-a. Za plaćene kampanje pogledajte [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama).
 
 ## Uporedna tabela: engagement rate po platformi (2025)
 
 | Platforma | Engagement Rate | Trend | Najbolje za |
 |-----------|----------------|-------|-------------|
-| **LinkedIn** | 5.2-6.5% | â†‘ +30% | B2B, profesionalne usluge, konsultanti |
-| **TikTok** | 3.7-4.9% | â†“ -11% | B2C, mlada publika, vizuelni proizvodi |
-| **Instagram** | 0.5-1.2% | â†“â†“ -58% | Vizuelni brendovi (sa Reels fokusom) |
-| **Facebook** | 0.06-0.20% | â†’ stabilan | Lokalni biznisi, 35+ demografija |
+| **LinkedIn** | 5.2-6.5% | ↑ +30% | B2B, profesionalne usluge, konsultanti |
+| **TikTok** | 3.7-4.9% | ↓ -11% | B2C, mlađa publika, vizuelni proizvodi |
+| **Instagram** | 0.5-1.2% | ↓↓ -58% | Vizuelni brendovi (sa Reels fokusom) |
+| **Facebook** | 0.06-0.20% | → stabilan | Lokalni biznisi, 35+ demografija |
 
-## Sta ovo znaci za vasu strategiju
+## Šta ovo znači za vašu strategiju
 
 ### Ako ste B2B firma
-LinkedIn je vaš primarni kanal. Postite 3-5x nedeljno sa ličnog profila (ne company page). Engagement ce biti 5-10x visi nego na bilo kojoj drugoj platformi.
+LinkedIn je vaš primarni kanal. Postujte 3-5x nedeljno sa ličnog profila (ne company page). Engagement će biti 5-10x viši nego na bilo kojoj drugoj platformi.
 
 ### Ako ste e-commerce / B2C
-TikTok + Instagram Reels. Fokusirajte se na video sadrzaj. Staticki postovi na IG su praktično mrtvi za organski doseg.
+TikTok + Instagram Reels. Fokusirajte se na video sadržaj. Statični postovi na Instagramu su praktično mrtvi za organski doseg.
 
 ### Ako ste lokalni biznis
 Facebook grupe + Google Business postovi. Instagram samo ako imate vizuelno privlačan biznis (restoran, salon, butik).
 
 ### Za sve
-Email lista ima veći "engagement" od bilo koje platforme — open rate 28-35% vs Instagram 0.5%. Pogledajte [email marketing ROI vodic](/blog/koliko-zapravo-zaradjuje-email-marketing-roi-po-industriji-2026).
+Email lista ima veći "engagement" od bilo koje platforme — open rate 28-35% vs Instagram 0.5%. Pogledajte [email marketing ROI vodič](/blog/koliko-zapravo-zaradjuje-email-marketing-roi-po-industriji-2026).
 
-Za pomoc sa strategijom drustvenih mreza, javite se preko [kontakt forme](/kontakt). Za samostalno vodjenje pogledajte [vodic za drustvene mreze](/blog/kako-voditi-drustvene-mreze-srbija-2026).
+Za pomoć sa strategijom društvenih mreža, javite se preko [kontakt forme](/kontakt). Za samostalno vođenje pogledajte [vodič za društvene mreže](/blog/kako-voditi-drustvene-mreze-srbija-2026).
 
 *Izvori: Buffer State of Social Media Report (2025), Socialinsider Social Media Benchmarks (2025), Rival IQ Industry Benchmarks (2025), Metricool LinkedIn Statistics (2025).*
 `
@@ -6133,107 +6131,107 @@ Za profesionalnu SEO strategiju prilagodjenu 2026. godini, pogledajte [SEO optim
   },
   {
     slug: 'koliko-zapravo-zaradjuje-email-marketing-roi-po-industriji-2026',
-    title: 'Koliko zapravo zaradjuje email marketing: ROI po industriji i tipu kampanje',
-    excerpt: 'Koliko novca email marketing donosi po ulozenom evru. ROI benchmarci po industriji, konverzije po tipu emaila i zašto je email i dalje najisplativiji kanal.',
+    title: 'Koliko zapravo zarađuje email marketing: ROI po industriji i tipu kampanje',
+    excerpt: 'Koliko novca email marketing donosi po uloženom evru: ROI benchmarci po industriji, konverzije po tipu emaila i zašto je email i dalje jedan od najisplativijih kanala.',
     date: '2026-03-21',
     category: 'Marketing',
     readTime: '8 min',
     content: `
-## 36 evra za svaki ulozeni evro — ali samo ako znate sta radite
+## 36 evra za svaki uloženi evro, ali samo ako znate šta radite
 
-Email marketing ima prosecni ROI od **36:1** -- svaki ulozeni evro donosi 36 evra prihoda. To je daleko najvisi ROI od svih digitalnih marketing kanala. Za poredjenje: Google Ads donosi prosecno 8:1, a drustvene mreze 2.5-5:1.
+Email marketing ima prosečni ROI od **36:1**. To znači da svaki uloženi evro donosi oko 36 evra prihoda. To je i dalje jedan od najviših ROI rezultata među digitalnim kanalima. Za poređenje, Google Ads donosi prosečno 8:1, a društvene mreže oko 2.5-5:1.
 
-Ali ova cifra je PROSEK. Neke firme dobijaju 76:1 ROI (Omnisend podatak za US e-commerce u 2025), dok druge jedva pokrivaju troskove alata. Razlika je u strategiji, segmentaciji i automatizaciji.
+Ali ova cifra je prosek. Neke firme dobijaju 76:1 ROI (Omnisend podatak za US e-commerce u 2025), dok druge jedva pokrivaju troškove alata. Razlika je u strategiji, segmentaciji i automatizaciji.
 
 Za email alate i cene pogledajte [email marketing cena u Srbiji](/blog/email-marketing-cena-srbija-2026). Za postavljanje automatizacija pogledajte [email automatizacija za webshop](/blog/email-automatizacija-za-webshop-srbija-2026).
 
 ## ROI email marketinga po industriji
 
-Podaci iz Litmus, Klaviyo i MailerLite istrazivannja (2024-2025):
+Podaci iz Litmus, Klaviyo i MailerLite istraživanja (2024-2025):
 
-- **E-commerce i retail:** ROI **42:1** (najvisi jer je direktna prodaja preko emaila merljiva do poslednjeg dinara)
-- **SaaS i tehnologija:** ROI **36:1** (duzi prodajni ciklus ali visi lifetime value)
+- **E-commerce i retail:** ROI **42:1** (najviši jer je direktna prodaja preko emaila merljiva do poslednjeg dinara)
+- **SaaS i tehnologija:** ROI **36:1** (duži prodajni ciklus, ali viši lifetime value)
 - **B2B usluge:** ROI **38:1** (email je primarni B2B kanal za lead nurturing)
-- **Putovanja i turizam:** ROI **34:1** (sezonski ali jak)
-- **Finansije i osiguranje:** ROI **30:1** (regulatorna ogranicenja smanjuju agresivnost)
+- **Putovanja i turizam:** ROI **34:1** (sezonski, ali i dalje jak kanal)
+- **Finansije i osiguranje:** ROI **30:1** (regulatorna ograničenja smanjuju agresivnost)
 - **Neprofitne organizacije:** ROI **28:1** (donacije i fundraising)
 
-E-commerce ima najvisi ROI jer moze tacno da izmeri koliko je prihoda doslo iz svakog emaila. B2B firme cesto imaju problem sa atribucijom jer je prodajni ciklus 3-9 meseci.
+E-commerce ima najviši ROI jer može tačno da izmeri koliko je prihoda došlo iz svakog emaila. B2B firme često imaju problem sa atribucijom jer je prodajni ciklus 3-9 meseci.
 
 ## Konverzija po tipu email kampanje
 
-Svi emaili nisu jednaki. Automatizovani emailovi generisu **320% vise prihoda** od manuelno poslanih kampanja (Omnisend 2024).
+Svi emailovi nisu jednaki. Automatizovani emailovi generišu **320% više prihoda** od ručno poslatih kampanja (Omnisend 2024).
 
-### Welcome email (dobrodoslica)
-- **Open rate:** 60-82% (najvisi od svih tipova emaila)
+### Welcome email (dobrodošlica)
+- **Open rate:** 60-82% (najviši od svih tipova emaila)
 - **Click rate:** 14-22%
-- **Konverzija:** 3-5x visa od regularnog newsletter-a
-- Ovo je email koji ljudi OCEKUJU -- zato ga otvaraju
+- **Konverzija:** 3-5x viša od regularnog newsletter-a
+- Ovo je email koji ljudi očekuju, zato ga i otvaraju
 
-### Abandoned cart email (napustena korpa)
+### Abandoned cart email (napuštena korpa)
 - **Open rate:** 41-45%
 - **Click rate:** 8-12%
-- **Recovery rate:** 10-15% napustenih korpi se vrati (neke industrije i do 25%)
-- Prosecna vrednost spasene korpe: 65-100 USD (globalno)
-- Za e-commerce sa 1.000 napustenih korpi mesecno, to je 100-150 spasenih porudzbina
+- **Recovery rate:** 10-15% napuštenih korpi se vrati (u nekim industrijama i do 25%)
+- Prosečna vrednost spašene korpe: 65-100 USD (globalno)
+- Za e-commerce sa 1.000 napuštenih korpi mesečno, to je 100-150 spašenih porudžbina
 
 ### Post-purchase email (posle kupovine)
 - **Open rate:** 55-65%
-- **Cross-sell konverzija:** 8-15% kupaca kupi preporuceni proizvod
+- **Cross-sell konverzija:** 8-15% kupaca kupi preporučeni proizvod
 - **Review request konverzija:** 5-8% kupaca ostavi recenziju
 
 ### Win-back email (reaktivacija)
 - **Open rate:** 22-28%
 - **Reaktivacija:** 3-7% neaktivnih kupaca se vrati
-- Svaki reaktivirani kupac je besplatan lead (vec imate podatke)
+- Svaki reaktivirani kupac je praktično besplatan lead, jer njegove podatke već imate
 
 ### Birthday/Anniversary email
 - **Open rate:** 45-55%
-- **Konverzija:** 15-25% (najvisa konverzija od svih tipova)
-- Personalizacija + popust + emotivna veza = prodaja
+- **Konverzija:** 15-25% (jedna od najviših konverzija među email tipovima)
+- Personalizacija + popust + emotivna veza često daju odličan rezultat
 
 Za postavljanje svih ovih sekvenci pogledajte [5 email sekvenci za webshop](/blog/email-automatizacija-za-webshop-srbija-2026).
 
-## Zasto 80% srpskih firmi ne koristi email marketing
+## Zašto 80% srpskih firmi ne koristi email marketing
 
-Uprkos ovim brojevima, procena je da **80% malih firmi u Srbiji** ne koristi email marketing uopste. Razlozi:
+Uprkos ovim brojevima, procena je da **80% malih firmi u Srbiji** ne koristi email marketing uopšte. Najčešći razlozi su sledeći:
 
 ### 1) "Nemam email listu"
 
-Ovo je razlog, ne izgovor. Svaka firma moze da pocne da gradi listu od danas. Pogledajte [vodic za izgradnju email liste](/blog/email-lista-za-male-firme-srbija-2026).
+Ovo jeste razlog, ali nije izgovor. Svaka firma može da počne da gradi listu od danas. Pogledajte [vodič za izgradnju email liste](/blog/email-lista-za-male-firme-srbija-2026).
 
 ### 2) "Email je mrtav, svi koriste Instagram"
 
-Email ima 4.6 milijardi korisnika globalno (2025). Instagram ima 2 milijarde. Email je 2.3x veci. Plus, prosecni engagement na email-u (open rate 28-35%) je daleko visi od Instagram-a (engagement rate 1-3%).
+Email ima 4.6 milijardi korisnika globalno (2025). Instagram ima oko 2 milijarde. Email je i dalje višestruko veći kanal. Plus, prosečni engagement na email-u (open rate 28-35%) je daleko viši od Instagram-a (engagement rate 1-3%).
 
 ### 3) "Ne znam koji alat da koristim"
 
-MailerLite je besplatan do 1.000 pretplatnika. Setup traje 30 minuta. Nema izgovora. Za pogled alata pogledajte [email marketing alati i cene](/blog/email-marketing-cena-srbija-2026).
+MailerLite je besplatan do 1.000 pretplatnika. Setup traje oko 30 minuta. Za pregled alata pogledajte [email marketing alati i cene](/blog/email-marketing-cena-srbija-2026).
 
-### 4) "Moji emaili zavrsavaju u spam-u"
+### 4) "Moji emailovi završavaju u spam-u"
 
-Ovo je tehnici problem sa resenjejm: verifikujte domen (SPF + DKIM + DMARC), koristite SMTP plugin (FluentSMTP ili WP Mail SMTP) i ne saljite sa free email adrese (gmail, yahoo).
+Ovo je tehnički problem sa rešivim uzrokom: verifikujte domen (SPF + DKIM + DMARC), koristite SMTP plugin (FluentSMTP ili WP Mail SMTP) i ne šaljite kampanje sa free email adrese (gmail, yahoo).
 
-## Email vs drustvene mreze: uporedni podaci
+## Email vs društvene mreže, uporedni podaci
 
 | Metrika | Email | Instagram | Facebook |
 |---------|-------|-----------|----------|
-| Prosecni ROI | 36:1 | 5:1 | 4:1 |
-| Prosecni reach | 90%+ inbox | 5-10% pratilaca | 2-5% pratilaca |
-| Prosecna konverzija | 1.2-5% | 0.5-1.5% | 0.3-1% |
-| Vlasnistvo nad publikom | Da (vasa lista) | Ne (Meta-ina platforma) | Ne (Meta-ina platforma) |
-| Personalizacija | Visoka (ime, ponasanje, istorija) | Niska | Niska |
+| Prosečni ROI | 36:1 | 5:1 | 4:1 |
+| Prosečni reach | 90%+ inbox | 5-10% pratilaca | 2-5% pratilaca |
+| Prosečna konverzija | 1.2-5% | 0.5-1.5% | 0.3-1% |
+| Vlasništvo nad publikom | Da (vaša lista) | Ne (Meta platforma) | Ne (Meta platforma) |
+| Personalizacija | Visoka (ime, ponašanje, istorija) | Niska | Niska |
 
-Email je jedini kanal gde STE VLASNIK publike. Ako Instagram sutra ugasi vas nalog, gubite sve pratioce. Email listu ne moze niko da vam oduzme.
+Email je jedini kanal gde ste stvarni vlasnik publike. Ako Instagram sutra ugasi nalog, gubite pristup pratiocima. Email listu ne može niko da vam oduzme.
 
 ## Koliko treba investirati u email marketing
 
-- **Alat:** 0-30 EUR mesecno (MailerLite/Brevo besplatno do 1.000 kontakata)
-- **Postavljanje automatizacija:** jednokratno 200-500 EUR (ili DIY sa vodcem)
-- **Mesecno odrzavanje:** 2-4 sata (kreiranje kampanja + analiza)
-- **Ocekivani povrat:** 10-50x investicije u roku od 6 meseci
+- **Alat:** 0-30 EUR mesečno (MailerLite/Brevo besplatno do 1.000 kontakata)
+- **Postavljanje automatizacija:** jednokratno 200-500 EUR (ili DIY uz vodič)
+- **Mesečno održavanje:** 2-4 sata (kreiranje kampanja + analiza)
+- **Očekivani povrat:** 10-50x investicije u roku od 6 meseci
 
-Za pomoc sa email marketing strategijom, javite se preko [kontakt forme](/kontakt). Za kompletnu digitalnu strategiju pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Za pomoć sa email marketing strategijom, javite se preko [kontakt forme](/kontakt). Za kompletnu digitalnu strategiju pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
 *Izvori: Litmus Email Marketing ROI Report (2024), Klaviyo E-Commerce Benchmarks (2024), Omnisend Email Marketing Statistics (2025), MailerLite Industry Benchmarks (2025), Statista Email Users Worldwide (2025).*
 `
@@ -6347,109 +6345,109 @@ Za profesionalnu optimizaciju mobilnog iskustva vaseg webshopa, javite se preko 
   },
   {
     slug: 'kako-brzina-sajta-utice-na-rangiranje-na-googlu-2026',
-    title: 'Kako brzina ucitavanja sajta utiče na rangiranje na Google-u: podaci i statistike',
-    excerpt: 'Konkretne statistike o uticaju brzine sajta na Google rang, konverzije i bounce rate. Koliko vas svaka sekunda kasnjenja košta u prodaji i poziciji.',
+    title: 'Kako brzina učitavanja sajta utiče na rangiranje na Google-u: podaci i statistike',
+    excerpt: 'Konkretne statistike o uticaju brzine sajta na Google rang, konverzije i bounce rate: koliko vas svaka sekunda kašnjenja košta u prodaji i poziciji.',
     date: '2026-03-21',
     category: 'SEO',
     readTime: '8 min',
     content: `
-## Koliko brzo mora da se ucita sajt da bi bio na prvoj stranici Google-a
+## Koliko brzo mora da se učita sajt da bi bio na prvoj stranici Google-a
 
-Sajtovi na prvoj stranici Google-a ucitavaju se u proseku za **1.65 sekundi**. Google zvanicno preporucuje da stranica bude potpuno ucitana za **manje od 2 sekunde**. Sve iznad 3 sekunde smatra se sporim -- i Google i korisnici vas kaznjavaju.
+Sajtovi na prvoj stranici Google-a učitavaju se u proseku za **1.65 sekundi**. Google zvanično preporučuje da stranica bude potpuno učitana za **manje od 2 sekunde**. Sve iznad 3 sekunde smatra se sporim, a i Google i korisnici to kažnjavaju.
 
-Ali ovo nije samo teorija. Evo tacnih brojki iz istrazivannja sprovedenih 2024-2025. godine.
+Ali ovo nije teorija. U nastavku su konkretne brojke iz istraživanja sprovedenih 2024-2025. godine.
 
-Za praktican vodic kako ubrzati WordPress sajt pogledajte [tehnicki SEO vodic](/blog/ubrzavanje-wordpress-sajta-tehnicki-seo-srbija-2026). Za kompletnu on-page checklistu pogledajte [SEO checklista](/blog/on-page-seo-checklista-srbija-2026).
+Za praktičan vodič kako ubrzati WordPress sajt pogledajte [tehnički SEO vodič](/blog/ubrzavanje-wordpress-sajta-tehnicki-seo-srbija-2026). Za kompletnu on-page checklistu pogledajte [SEO checklista](/blog/on-page-seo-checklista-srbija-2026).
 
-## Koliko svaka sekunda kasnjenja kosta u konverzijama
+## Koliko svaka sekunda kašnjenja košta u konverzijama
 
-Podaci iz istrazivannja na milionima web stranica pokazuju jasan trend: **svaka dodatna sekunda ucitavanja drasticno smanjuje prodaju**.
+Podaci sa miliona web stranica pokazuju jasan trend: **svaka dodatna sekunda učitavanja smanjuje prodaju**.
 
-- **1 sekunda kasnjenja** = pad konverzije za **7%** (Akamai istraživanje). Za webshop koji zaradjuje 100.000 EUR godisnje, to je gubitak od 7.000 EUR.
-- **Sajt koji se ucita za 1 sekundu** ima prosecnu konverziju od **27%** (Portent studija 2024).
-- **Sajt koji se ucita za 5 sekundi** ima konverziju **5x nizu** od sajta koji se ucita za 1 sekundu.
-- **Svaka dodatna sekunda** izmedju 0 i 5 sekundi smanjuje e-commerce konverziju za prosecno **4.42%**.
-- **Poboljsanje brzine za samo 0.1 sekunde** na mobilnom povecava retail konverzije za **8.4%** (Deloitte istraživanje za Google).
+- **1 sekunda kašnjenja** znači pad konverzije za **7%**. Za webshop koji zarađuje 100.000 EUR godišnje, to je gubitak od 7.000 EUR.
+- **Sajt koji se učita za 1 sekundu** ima prosečnu konverziju od **27%** (Portent studija 2024).
+- **Sajt koji se učita za 5 sekundi** ima konverziju oko **5x nižu** od sajta koji se učita za 1 sekundu.
+- **Svaka dodatna sekunda** između 0 i 5 sekundi smanjuje e-commerce konverziju za prosečno **4.42%**.
+- **Poboljšanje brzine za samo 0.1 sekundu** na mobilnom može povećati retail konverzije za **8.4%** (Deloitte istraživanje za Google).
 
-Ove brojke nisu zaokruzene procene -- to su mereni podaci sa miliona transakcija.
+To nisu grube procene, nego mereni podaci sa velikih uzoraka i realnih transakcija.
 
 {{speed-impact-chart}}
 
-Za optimizaciju konverzije pogledajte [CRO vodic](/blog/optimizacija-konverzije-sajta-cro-srbija-2026).
+Za optimizaciju konverzije pogledajte [CRO vodič](/blog/optimizacija-konverzije-sajta-cro-srbija-2026).
 
-## Kako brzina utice na bounce rate (napustanje sajta)
+## Kako brzina utiče na bounce rate i napuštanje sajta
 
-Bounce rate je procenat ljudi koji odu sa sajta bez ijedne interakcije. Sporost je ubica -- evo koliko:
+Bounce rate je procenat ljudi koji odu sa sajta bez ijedne interakcije. Sporost je jedan od najjačih okidača za odlazak:
 
-- Ucitavanje **1-2 sekunde**: bounce rate samo **9%** (skoro svi ostaju).
-- Ucitavanje **3 sekunde**: bounce rate raste za **32%** u odnosu na 1 sekundu (Google istraživanje).
-- Ucitavanje **5 sekundi**: bounce rate skace na **38%** i verovatnoca napustanja raste za **90%**.
-- Ucitavanje **10+ sekundi**: verovatnoca napustanja raste za **123%** u odnosu na 1 sekundu.
-- **53% mobilnih korisnika** napusta sajt koji se ucitava duze od 3 sekunde (Google/SOASTA istraživanje).
-- **40% desktop korisnika** napusta sajt posle 3 sekunde cekanja.
-- Prosecni bounce rate za e-commerce: **47%** na desktopu, **56.8%** na mobilnom.
+- Učitavanje **1-2 sekunde**: bounce rate je oko **9%**
+- Učitavanje **3 sekunde**: bounce rate raste za **32%** u odnosu na 1 sekundu
+- Učitavanje **5 sekundi**: bounce rate skače, a verovatnoća napuštanja raste za **90%**
+- Učitavanje **10+ sekundi**: verovatnoća napuštanja raste za **123%** u odnosu na 1 sekundu
+- **53% mobilnih korisnika** napušta sajt koji se učitava duže od 3 sekunde
+- **40% desktop korisnika** odustaje posle 3 sekunde čekanja
+- Prosečni bounce rate za e-commerce je oko **47%** na desktopu i **56.8%** na mobilnom
 
-Svaki posetilac koji ode zbog sporosti je potencijalni kupac koji se nikad nece vratiti.
+Svaki posetilac koji ode zbog sporosti je potencijalni kupac koji se možda više nikad neće vratiti.
 
 ## Core Web Vitals: kako Google meri brzinu
 
-Od 2021. godine Google koristi **Core Web Vitals** kao direktan ranking faktor. Tri metrike:
+Od 2021. godine Google koristi **Core Web Vitals** kao direktan ranking faktor. Tri glavne metrike su sledeće:
 
-### LCP (Largest Contentful Paint) -- brzina ucitavanja
+### LCP (Largest Contentful Paint), brzina učitavanja glavnog elementa
 
-Meri koliko treba da se ucita najvi element na ekranu (obicno hero slika ili naslov).
+Meri koliko treba da se učita najveći element na ekranu, najčešće hero slika ili naslov.
 - **Dobar:** ispod 2.5 sekundi
-- **Potrebno poboljsanje:** 2.5-4.0 sekunde
-- **Los:** iznad 4.0 sekundi
+- **Potrebno poboljšanje:** 2.5-4.0 sekunde
+- **Loš:** iznad 4.0 sekundi
 
-**Uticaj na rang:** Sajtovi koji su smanjili LCP za 1 sekundu beleže prosecno **17% rast organskog saobracaja** (Chrome UX Report 2024).
+**Uticaj na rang:** sajtovi koji su smanjili LCP za 1 sekundu beleže prosečno **17% rasta organskog saobraćaja**.
 
-### INP (Interaction to Next Paint) -- interaktivnost
+### INP (Interaction to Next Paint), interaktivnost
 
-Zamenio FID u martu 2024. Meri koliko brzo sajt reaguje kad korisnik klikne ili tapne.
+Zamenio je FID u martu 2024. Meri koliko brzo sajt reaguje kada korisnik klikne ili tapne.
 - **Dobar:** ispod 200ms
-- **Potrebno poboljsanje:** 200-500ms
-- **Los:** iznad 500ms
+- **Potrebno poboljšanje:** 200-500ms
+- **Loš:** iznad 500ms
 
-### CLS (Cumulative Layout Shift) -- vizuelna stabilnost
+### CLS (Cumulative Layout Shift), vizuelna stabilnost
 
-Meri da li se elementi "pomeraju" dok se stranica ucitava (npr. tekst se pomeri kad se ucita reklama).
+Meri da li se elementi pomeraju dok se stranica učitava, na primer kada reklama ili slika naknadno promene raspored.
 - **Dobar:** ispod 0.1
-- **Los:** iznad 0.25
+- **Loš:** iznad 0.25
 
-**Uticaj na poslovanje:** Firme koje su optimizovale CLS beleže **11% nizi bounce rate** i **20% veci engagement** (Web.dev studija 2024).
+**Uticaj na poslovanje:** firme koje su optimizovale CLS beleže **11% niži bounce rate** i **20% veći engagement**.
 
-## Mobilna brzina: jos vaznija od desktop-a
+## Mobilna brzina je još važnija od desktop-a
 
-Google koristi **mobile-first indexing** -- sto znaci da rang vaseg sajta odredjuje MOBILNA verzija, ne desktop.
+Google koristi **mobile-first indexing**, što znači da rang vašeg sajta najviše određuje mobilna verzija, ne desktop.
 
-- **76% saobracaja u Srbiji** dolazi sa mobilnih uredjaja.
-- Prosecna mobilna stranica se ucitava za **6.3 sekundi** -- daleko od Google-ovog preporucenog limita od 2 sekunde.
-- Mobilna stranica se ucitava **70.9% sporije** od desktop verzije istog sajta.
-- Webshopovi sa mobilnim ucitavanjem ispod **5 sekundi generisiu 2x vise prihoda** od sporijih.
-- Poboljsanje mobilne brzine za samo **2 sekunde** moze povecati konverzije za **27%** (Google/Deloitte).
+- **76% saobraćaja u Srbiji** dolazi sa mobilnih uređaja
+- Prosečna mobilna stranica se učitava za **6.3 sekunde**
+- Mobilna stranica se učitava **70.9% sporije** od desktop verzije istog sajta
+- Webshopovi sa mobilnim učitavanjem ispod **5 sekundi** generišu oko 2x više prihoda od sporijih
+- Poboljšanje mobilne brzine za samo **2 sekunde** može povećati konverzije za **27%**
 
-Za mobilnu optimizaciju pogledajte [mobilni dizajn vodic](/blog/mobilni-dizajn-sajta-srbija-2026).
+Za mobilnu optimizaciju pogledajte [mobilni dizajn vodič](/blog/mobilni-dizajn-sajta-srbija-2026).
 
-## Sta mozete da uradite danas (3 najbrza poboljsanja)
+## Šta možete da uradite danas, 3 najbrža poboljšanja
 
 ### 1) Konvertujte slike u WebP format
 
-Najveci krivac za spor sajt su neoptimizovane slike. WebP format je **30% laksi** od JPG-a bez gubitka kvaliteta. Na WordPress-u koristite ShortPixel ili LiteSpeed Cache za automatsku konverziju.
+Najveći krivac za spor sajt često su neoptimizovane slike. WebP je obično **30% lakši** od JPG-a bez vidljivog gubitka kvaliteta. Na WordPress-u to se lako rešava alatima kao što su ShortPixel ili LiteSpeed Cache.
 
-### 2) Ukljucite cache (kesiranje)
+### 2) Uključite cache (keširanje)
 
-Kesiranje cuva "gotovu" verziju stranice i servira je bez ponovnog ucitavanja iz baze. Smanjuje vreme ucitavanja za **50-70%**. Preporuceni plugin: LiteSpeed Cache (besplatan) ili WP Rocket (placen).
+Keširanje čuva gotovu verziju stranice i servira je bez stalnog ponovnog učitavanja iz baze. To često skraćuje vreme učitavanja za **50-70%**. U WordPress svetu najčešći izbor su LiteSpeed Cache ili WP Rocket.
 
 ### 3) Uklonite nepotrebne pluginove
 
-Svaki plugin dodaje CSS i JavaScript fajlove koji usporavaju sajt. Pregledajte listu pluginova i deaktivirajte sve sto ne koristite aktivno. Pogledajte [15 obaveznih WordPress pluginova](/blog/najbolji-wordpress-pluginovi-za-male-firme-srbija-2026) za optimalan set.
+Svaki plugin dodaje CSS i JavaScript fajlove koji mogu usporiti sajt. Pregledajte šta zaista koristite i deaktivirajte sve što nije aktivno potrebno. Pogledajte [15 obaveznih WordPress pluginova](/blog/najbolji-wordpress-pluginovi-za-male-firme-srbija-2026) za zdraviji set.
 
-## Kako proveriti brzinu vaseg sajta
+## Kako proveriti brzinu vašeg sajta
 
-1. **Google PageSpeed Insights** (pagespeed.web.dev) -- besplatno, daje ocenu 0-100 i konkretne preporuke
-2. **GTmetrix** (gtmetrix.com) -- detaljnija analiza sa waterfall dijagramom
-3. **Google Search Console > Core Web Vitals** -- pokazuje kako Google vidi vas sajt. Pogledajte [GSC vodic](/blog/google-search-console-vodic-za-pocetnike-srbija-2026).
+1. **Google PageSpeed Insights** (pagespeed.web.dev) - besplatno, sa ocenom 0-100 i jasnim preporukama
+2. **GTmetrix** (gtmetrix.com) - detaljnija analiza sa waterfall prikazom
+3. **Google Search Console > Core Web Vitals** - prikazuje kako Google vidi vaš sajt. Pogledajte [GSC vodič](/blog/google-search-console-vodic-za-pocetnike-srbija-2026).
 
 Za profesionalnu optimizaciju brzine sajta, javite se preko [kontakt forme](/kontakt). Za cene izrade brzog sajta pogledajte [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
 
@@ -7795,105 +7793,105 @@ Za profesionalnu lokalnu SEO strategiju i registraciju na direktorijumima, javit
   },
   {
     slug: 'google-ads-quality-score-vodic-srbija-2026',
-    title: 'Google Ads Quality Score: kako smanjiti cenu klika i poboljsati poziciju oglasa',
-    excerpt: 'Vodič za razumevanje i poboljsanje Google Ads Quality Score-a. Kako 3 faktora odredjuju koliko plaćate po kliku i kako da ih optimizujete.',
+    title: 'Google Ads Quality Score: kako smanjiti cenu klika i poboljšati poziciju oglasa',
+    excerpt: 'Vodič za razumevanje i poboljšanje Google Ads Quality Score-a. Kako 3 faktora određuju koliko plaćate po kliku i kako da ih optimizujete.',
     date: '2026-03-19',
     category: 'Google Ads',
     readTime: '8 min',
     content: `
-## Zasto placate vise od konkurencije za isti klik
+## Zašto plaćate više od konkurencije za isti klik
 
-Dva oglasivaca ciljaju istu kljucnu rec. Jedan placa 0.80 EUR po kliku i pojavljuje se na poziciji 1. Drugi placa 1.50 EUR i pojavljuje se na poziciji 3. Razlika? Quality Score.
+Dva oglašivača ciljaju istu ključnu reč. Jedan plaća 0.80 EUR po kliku i pojavljuje se na poziciji 1. Drugi plaća 1.50 EUR i pojavljuje se na poziciji 3. Razlika? Quality Score.
 
-Quality Score (QS) je Google-ova ocena od 1 do 10 koja pokazuje koliko je vas oglas relevantan za korisnika. Visi QS znaci nizu cenu po kliku i bolju poziciju. Nizi QS znaci da placate vise za gore rezultate.
+Quality Score (QS) je Google-ova ocena od 1 do 10 koja pokazuje koliko je vaš oglas relevantan za korisnika. Viši QS znači nižu cenu po kliku i bolju poziciju. Niži QS znači da plaćate više za gore rezultate.
 
-Google koristi QS jer zeli da korisnicima pokaze relevantne oglase. Ako vas oglas ne odgovara na ono sto korisnik trazi, Google ce vas kazniti visom cenom -- ili vas uopste nece prikazati.
+Google koristi QS jer želi da korisnicima pokaže relevantne oglase. Ako vaš oglas ne odgovara na ono što korisnik traži, Google će vas kazniti višom cenom — ili vas uopšte neće prikazati.
 
-Za pregled troskova kampanja pogledajte [Google reklame cena](/google-reklame-cena).
+Za pregled troškova kampanja pogledajte [Google reklame cena](/google-reklame-cena).
 
-## 3 Faktora koji odredjuju Quality Score
+## 3 faktora koji određuju Quality Score
 
-### 1) Expected Click-Through Rate (ocekivani CTR)
+### 1) Expected Click-Through Rate (očekivani CTR)
 
-Google predvidja koliko je verovatno da ce korisnik kliknuti na vas oglas za datu kljucnu rec. Ako je vas istorijski CTR nizak, Google pretpostavlja da oglas nije relevantan.
+Google predviđa koliko je verovatno da će korisnik kliknuti na vaš oglas za datu ključnu reč. Ako je vaš istorijski CTR nizak, Google pretpostavlja da oglas nije relevantan.
 
-**Kako poboljsati:**
-- Stavite kljucnu rec u naslov oglasa (ne samo u opis)
+**Kako poboljšati:**
+- Stavite ključnu reč u naslov oglasa (ne samo u opis)
 - Koristite brojeve i konkretne ponude ("Od 2.990 RSD" umesto "Povoljne cene")
 - Testirajte minimum 3 varijante naslova istovremeno
-- Dodajte ad extensions (sitelinks, callouts, structured snippets) -- oni povecavaju vizuelnu velicinu oglasa i CTR
+- Dodajte ad extensions (sitelinks, callouts, structured snippets) — oni povećavaju vizuelnu veličinu oglasa i CTR
 
 Za copywriting formule pogledajte [kako pisati oglase koji konvertuju](/blog/kako-pisati-oglase-koji-konvertuju-srbija-2026).
 
 ### 2) Ad Relevance (relevantnost oglasa)
 
-Koliko se tekst vaseg oglasa poklapa sa kljucnom reci koju korisnik trazi. Ako neko trazi "stomatolog Novi Sad" a vas oglas kaze "Medicinske usluge za celu porodicu" -- relevantnost je niska.
+Koliko se tekst vašeg oglasa poklapa sa ključnom reči koju korisnik traži. Ako neko traži "stomatolog Novi Sad", a vaš oglas kaže "Medicinske usluge za celu porodicu" — relevantnost je niska.
 
-**Kako poboljsati:**
-- Organizujte kampanju u male, tematske ad grupe (5-15 kljucnih reci po grupi, ne 50)
-- Svaka ad grupa treba da ima oglase ciji tekst direktno sadrzi kljucne reci iz te grupe
-- Ne mesajte razlicite usluge u jednu ad grupu ("stomatolog" i "ortodont" su dve razlicite ad grupe)
+**Kako poboljšati:**
+- Organizujte kampanju u male, tematske ad grupe (5-15 ključnih reči po grupi, ne 50)
+- Svaka ad grupa treba da ima oglase čiji tekst direktno sadrži ključne reči iz te grupe
+- Ne mešajte različite usluge u jednu ad grupu ("stomatolog" i "ortodont" su dve različite ad grupe)
 
 ### 3) Landing Page Experience (iskustvo na landing stranici)
 
-Google proverava stranicu na koju vas oglas vodi. Ako oglas obecava "besplatan pregled stomatologa" ali landing stranica govori o svim uslugama klinike bez pomena besplatnog pregleda -- iskustvo je lose.
+Google proverava stranicu na koju vaš oglas vodi. Ako oglas obećava "besplatan pregled stomatologa", ali landing stranica govori o svim uslugama klinike bez pomena besplatnog pregleda — iskustvo je loše.
 
-**Kako poboljsati:**
+**Kako poboljšati:**
 - Svaka ad grupa treba da vodi na specifičnu landing stranicu (ne na homepage)
-- Naslov landing stranice mora da se poklapa sa obecanjem iz oglasa
-- Stranica mora da se brzo ucitava (ispod 3 sekunde na mobilnom)
-- Sadrzaj mora biti relevantan za kljucnu rec
+- Naslov landing stranice mora da se poklapa sa obećanjem iz oglasa
+- Stranica mora da se brzo učitava (ispod 3 sekunde na mobilnom)
+- Sadržaj mora biti relevantan za ključnu reč
 - CTA mora biti jasan i vidljiv
 
-Za kreiranje landing stranica pogledajte [vodic za landing stranice koje konvertuju](/blog/kako-napraviti-landing-stranicu-koja-konvertuje-srbija-2026).
+Za kreiranje landing stranica pogledajte [vodič za landing stranice koje konvertuju](/blog/kako-napraviti-landing-stranicu-koja-konvertuje-srbija-2026).
 
 ## Kako proveriti Quality Score
 
 1. U Google Ads, idite na Keywords tab
 2. Kliknite na "Columns" (Kolone) i dodajte: Quality Score, Expected CTR, Ad Relevance, Landing Page Experience
-3. Svaka kljucna rec ima ocenu od 1 do 10
+3. Svaka ključna reč ima ocenu od 1 do 10
 
-**Tumacenje:**
-- **8-10:** Odlicno. Ne dirajte.
-- **5-7:** Prosecno. Ima prostora za poboljsanje.
-- **1-4:** Problem. Hitno optimizujte ili pauzirajte kljucnu rec.
+**Tumačenje:**
+- **8-10:** Odlično. Ne dirajte.
+- **5-7:** Prosečno. Ima prostora za poboljšanje.
+- **1-4:** Problem. Hitno optimizujte ili pauzirajte ključnu reč.
 
-## Kako QS direktno utice na cenu klika
+## Kako QS direktno utiče na cenu klika
 
 Google koristi formulu: **Ad Rank = Max CPC Bid x Quality Score**
 
 Primer:
-- Oglasivac A: Bid 1.00 EUR x QS 8 = Ad Rank 8 â†’ Pozicija 1, placa ~0.75 EUR
-- Oglasivac B: Bid 1.50 EUR x QS 4 = Ad Rank 6 â†’ Pozicija 2, placa ~1.30 EUR
+- Oglašivač A: Bid 1.00 EUR x QS 8 = Ad Rank 8 → Pozicija 1, plaća ~0.75 EUR
+- Oglašivač B: Bid 1.50 EUR x QS 4 = Ad Rank 6 → Pozicija 2, plaća ~1.30 EUR
 
-Oglasivac A placa MANJE i ima BOLJU poziciju jer ima visi Quality Score. To je sustina -- QS je multiplikator koji nagradjuje relevantnost.
+Oglašivač A plaća MANJE i ima BOLJU poziciju jer ima viši Quality Score. To je suština — QS je multiplikator koji nagrađuje relevantnost.
 
-## 7-Dnevni plan za poboljsanje Quality Score
+## 7-dnevni plan za poboljšanje Quality Score-a
 
-**Dan 1:** Proverite QS za sve aktivne kljucne reci. Identifikujte one sa QS ispod 5.
+**Dan 1:** Proverite QS za sve aktivne ključne reči. Identifikujte one sa QS ispod 5.
 
-**Dan 2:** Reorganizujte ad grupe. Razbijte velike grupe (20+ kljucnih reci) u manje, tematski fokusirane (5-10 reci).
+**Dan 2:** Reorganizujte ad grupe. Razbijte velike grupe (20+ ključnih reči) u manje, tematski fokusirane (5-10 reči).
 
-**Dan 3:** Prepisaite oglase za svaku ad grupu. Ubacite kljucnu rec u naslov. Dodajte konkretan benefit i CTA.
+**Dan 3:** Prepišite oglase za svaku ad grupu. Ubacite ključnu reč u naslov. Dodajte konkretan benefit i CTA.
 
-**Dan 4:** Proverite landing stranice. Da li se poklapaju sa porukom oglasa? Da li se brzo ucitavaju?
+**Dan 4:** Proverite landing stranice. Da li se poklapaju sa porukom oglasa? Da li se brzo učitavaju?
 
-**Dan 5:** Dodajte negativne kljucne reci da eliminisete irelevantan saobracaj.
+**Dan 5:** Dodajte negativne ključne reči da eliminišete irelevantan saobraćaj.
 
-**Dan 6:** Ukljucite ad extensions (sitelinks, callouts, structured snippets, location).
+**Dan 6:** Uključite ad extensions (sitelinks, callouts, structured snippets, location).
 
 **Dan 7:** Analizirajte CTR po oglasu. Pauzirajte oglase sa CTR ispod 3%.
 
 Za merenje ukupnih rezultata pogledajte [kako meriti ROI digitalnog marketinga](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
 
-## Najcesce greske koje ubijaju Quality Score
+## Najčešće greške koje ubijaju Quality Score
 
-- **Jedna ad grupa za sve** -- "Sve usluge" ad grupa sa 100 kljucnih reci ima najnizi mogući QS
-- **Generic landing stranica** -- homepage kao landing za sve oglase
-- **Ignorisanje negativnih kljucnih reci** -- irelevantan saobracaj ubija CTR koji ubija QS
-- **Promena oglasa svaki dan** -- Google treba 7-14 dana da evaluira oglas. Strpljenje.
+- **Jedna ad grupa za sve** — "Sve usluge" ad grupa sa 100 ključnih reči ima najniži mogući QS
+- **Generička landing stranica** — homepage kao landing za sve oglase
+- **Ignorisanje negativnih ključnih reči** — irelevantan saobraćaj ubija CTR koji ubija QS
+- **Promena oglasa svaki dan** — Google treba 7-14 dana da evaluira oglas. Strpljenje.
 
-Za profesionalno vodjenje Google Ads kampanja i optimizaciju Quality Score-a, javite se preko [kontakt forme](/kontakt).
+Za profesionalno vođenje Google Ads kampanja i optimizaciju Quality Score-a, javite se preko [kontakt forme](/kontakt).
 `
   },
   {
@@ -8425,117 +8423,118 @@ Za pomoc sa postavljanjem GA4 i interpretacijom podataka, javite se preko [konta
     category: 'Marketing',
     readTime: '9 min',
     content: `
-## Zasto content marketing radi bolje od reklama na duge staze
+## Zašto content marketing radi bolje od reklama na duge staze
 
-Reklame prestaju da rade cim prestanete da placate. Blog post koji napisete danas moze da donosi posetioce 3, 5, cak 10 godina -- besplatno.
+Reklame prestaju da rade čim prestanete da plaćate. Blog post koji napišete danas može da donosi posetioce 3, 5, čak 10 godina — besplatno.
 
-Content marketing nije zamena za placene kampanje. To je njihov multiplikator. Firma koja ima 50 blog postova ima 50 landing stranica na koje moze da salje platfceni saobracaj, 50 tema za drustvene mreze i 50 razloga da Google pokaze njen sajt u rezultatima pretrage.
+Content marketing nije zamena za plaćene kampanje. To je njihov multiplikator. Firma koja ima 50 blog postova ima 50 landing stranica na koje može da šalje plaćeni saobraćaj, 50 tema za društvene mreže i 50 razloga da Google pokaže njen sajt u rezultatima pretrage.
 
-Za mali biznis u Srbiji sa ogranicenim budzetom, content marketing je najisplativija dugorocna investicija. Problem je sto vecina odustane posle 3 meseca jer ne vidi rezultate -- a rezultati dolaze posle 6-12 meseci konzistentnog rada.
+Za mali biznis u Srbiji sa ograničenim budžetom, content marketing je najisplativija dugoročna investicija. Problem je što većina odustane posle 3 meseca jer ne vidi rezultate — a rezultati dolaze posle 6-12 meseci konzistentnog rada.
 
-Za pregled svih marketing troskova pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga). Za tehnicku SEO stranu pogledajte [on-page SEO checklistu](/blog/on-page-seo-checklista-srbija-2026).
+Za pregled svih marketing troškova pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga). Za tehničku SEO stranu pogledajte [on-page SEO checklistu](/blog/on-page-seo-checklista-srbija-2026).
 
-## Korak 1: Definisajte za koga pisete (Buyer Persona)
+## Korak 1: Definišite za koga pišete (Buyer Persona)
 
-Ne pisete za "sve". Pisete za jednu konkretnu osobu -- vaseg idealnog kupca.
+Ne pišete za "sve". Pišete za jednu konkretnu osobu — vašeg idealnog kupca.
 
 **Primer za marketing agenciju:**
 - Ime: Marko, 35 godina, vlasnik male IT firme u Beogradu
-- Problem: nema vremena za marketing, pokusao sam-da-vodi Instagram i odustao
-- Kako trazi resenje: gugla "koliko kosta marketing agencija" ili "kako naci klijente online"
-- Sta ga brine: da ne baci novac na agenciju koja nece doneti rezultate
+- Problem: nema vremena za marketing, pokušao je sam da vodi Instagram i odustao
+- Kako traži rešenje: gugla "koliko košta marketing agencija" ili "kako naći klijente online"
+- Šta ga brine: da ne baci novac na agenciju koja neće doneti rezultate
 
-Svaki tekst koji napisete treba da odgovori na Markovo pitanje ili resi Markov problem. Ako ne moze, ne pisite ga.
+Svaki tekst koji napišete treba da odgovori na Markovo pitanje ili reši Markov problem. Ako ne može, ne pišite ga.
 
-## Korak 2: Pronadjite teme koje ljudi zaista traze
+## Korak 2: Pronađite teme koje ljudi zaista traže
 
-Ne nagadjajte o cemu da pisete. Koristite podatke.
+Ne nagađajte o čemu da pišete. Koristite podatke.
 
-**Besplatni alati za istrazivanje tema:**
-- **Google Search Console** -- pogledajte za koje upite se vec pojavljujete i napisite detaljniji sadrzaj o tim temama. Pogledajte nas [GSC vodic](/blog/google-search-console-vodic-za-pocetnike-srbija-2026).
-- **Google Autocomplete** -- kucajte pocetak upita i pogledajte sta Google predlaze
-- **AnswerThePublic** (besplatan) -- pokazuje pitanja koja ljudi postavljaju o vasoj temi
-- **Vasih 10 najcescih pitanja** -- sta vas kupci najcesce pitaju? Svako pitanje je blog post
+**Besplatni alati za istraživanje tema:**
+- **Google Search Console** — pogledajte za koje upite se već pojavljujete i napišite detaljniji sadržaj o tim temama. Pogledajte naš [GSC vodič](/blog/google-search-console-vodic-za-pocetnike-srbija-2026).
+- **Google Autocomplete** — kucajte početak upita i pogledajte šta Google predlaže
+- **AnswerThePublic** (besplatan) — pokazuje pitanja koja ljudi postavljaju o vašoj temi
+- **Vaših 10 najčešćih pitanja** — šta vas kupci najčešće pitaju? Svako pitanje je blog post
 
 **Prioritet tema:**
-1. "Money" teme (direktno vezane za vasu uslugu): "koliko kosta X", "kako odabrati Y"
-2. "Problem" teme (resavaju konkretan problem): "zasto moj sajt ne prodaje", "kako povecati prodaju"
-3. "Edukativne" teme (grade autoritet): "vodic za X", "sta je Y i kako radi"
+1. "Money" teme (direktno vezane za vašu uslugu): "koliko košta X", "kako odabrati Y"
+2. "Problem" teme (rešavaju konkretan problem): "zašto moj sajt ne prodaje", "kako povećati prodaju"
+3. "Edukativne" teme (grade autoritet): "vodič za X", "šta je Y i kako radi"
 
-## Korak 3: Izaberite format sadrzaja
+## Korak 3: Izaberite format sadržaja
 
 ### Blog postovi (temelj)
 
-Minimum 1.000 reci po postu. Google preferira duzi, detaljniji sadrzaj koji kompletno pokriva temu. Post od 500 reci retko rangira za konkurentne termine.
+Minimum 1.000 reči po postu. Google preferira duži, detaljniji sadržaj koji kompletno pokriva temu. Post od 500 reči retko rangira za konkurentne termine.
 
 **Struktura koja radi:**
-- H2 naslov koji sadrzi kljucnu rec
-- Uvod koji odmah daje vrednost (ne "u danasnjem digitalnom dobu...")
+- H2 naslov koji sadrži ključnu reč
+- Uvod koji odmah daje vrednost (ne "u današnjem digitalnom dobu...")
 - 3-5 H2 sekcija sa H3 podsekcijama
-- Bullet poeni za laksi pregled
+- Bullet poeni za lakši pregled
 - CTA na kraju (link ka kontaktu ili usluzi)
 
-### Video sadrzaj
+### Video sadržaj
 
-Jedan blog post moze postati YouTube video, 3 Instagram Reels-a i TikTok klip. Ponovo koristite sadrzaj umesto da pravite sve od nule. Za video strategiju pogledajte [video marketing vodic](/blog/video-marketing-za-male-firme-srbija-2026).
+Jedan blog post može postati YouTube video, 3 Instagram Reels-a i TikTok klip. Ponovo koristite sadržaj umesto da pravite sve od nule. Za video strategiju pogledajte [video marketing vodič](/blog/video-marketing-za-male-firme-srbija-2026).
 
 ### Infografike i vizuali
 
-Kompleksne podatke pretvorite u vizuelne formate. Infografika se deli 3x cesce od teksta na drustvenim mrezama.
+Kompleksne podatke pretvorite u vizuelne formate. Infografika se deli 3x češće od teksta na društvenim mrežama.
 
 ## Korak 4: Napravite content kalendar
 
-Bez kalendara, content marketing je haotican. Jedne nedelje napisete 3 posta, sledece 5 nedelja nista.
+Bez kalendara, content marketing je haotičan. Jedne nedelje napišete 3 posta, sledeće 5 nedelja ništa.
 
 **Minimalna kadenca za rezultate:**
-- Blog: 1 post nedeljno (4 mesecno)
-- Drustvene mreze: 3-4 posta nedeljno
-- Email: 1 newsletter mesecno (za pocetak)
+- Blog: 1 post nedeljno (4 mesečno)
+- Društvene mreže: 3-4 posta nedeljno
+- Email: 1 newsletter mesečno (za početak)
 
-**Primer mesecnog kalendara:**
+**Primer mesečnog kalendara:**
 - Nedelja 1: "Money" blog post + 3 social posta iz njega
 - Nedelja 2: "Problem" blog post + 3 social posta + newsletter
 - Nedelja 3: "Edukativni" blog post + 3 social posta
-- Nedelja 4: Video sadrzaj (rekapitulacija meseca) + 3 social posta
+- Nedelja 4: Video sadržaj (rekapitulacija meseca) + 3 social posta
 
-Za upravljanje drustvenim mrezama pogledajte [vodic za samostalno vodjenje mreza](/blog/kako-voditi-drustvene-mreze-srbija-2026).
+Za upravljanje društvenim mrežama pogledajte [vodič za samostalno vođenje mreža](/blog/kako-voditi-drustvene-mreze-srbija-2026).
 
-## Korak 5: Distribuirajte sadrzaj (ne samo objavite i cekajte)
+## Korak 5: Distribuirajte sadržaj (ne samo objavite i čekajte)
 
-Objaviti blog post i cekati da ga Google pronadje nije strategija. Aktivno distribuirajte sadrzaj:
+Objaviti blog post i čekati da ga Google pronađe nije strategija. Aktivno distribuirajte sadržaj:
 
-- **Email lista:** Posaljite novi blog post pretplatnicima. Pogledajte [vodic za email listu](/blog/email-lista-za-male-firme-srbija-2026).
-- **Drustvene mreze:** Svaki blog post = 3-5 social media postova (razliciti uglovi)
-- **Google Ads:** Promovisite najbolje blog postove za relevantne upite. Pogledajte [Google reklame cena](/google-reklame-cena).
-- **LinkedIn:** Za B2B, delite kljucne zakljucke iz bloga. Pogledajte [LinkedIn marketing vodic](/blog/linkedin-marketing-za-b2b-firme-srbija-2026).
+- **Email lista:** Pošaljite novi blog post pretplatnicima. Pogledajte [vodič za email listu](/blog/email-lista-za-male-firme-srbija-2026).
+- **Društvene mreže:** Svaki blog post = 3-5 social media postova (različiti uglovi)
+- **Google Ads:** Promovišite najbolje blog postove za relevantne upite. Pogledajte [Google reklame cena](/google-reklame-cena).
+- **LinkedIn:** Za B2B, delite ključne zaključke iz bloga. Pogledajte [LinkedIn marketing vodič](/blog/linkedin-marketing-za-b2b-firme-srbija-2026).
 
-## Korak 6: Merite rezultate (i prilagodjajte)
+## Korak 6: Merite rezultate (i prilagođavajte)
 
 Posle 3 meseca, analizirajte:
 
-- **Koji postovi dobijaju najvise saobracaja?** Napisite vise o tim temama.
-- **Koji postovi imaju najvisu konverziju?** To su vasi "money" postovi -- optimizujte ih.
-- **Odakle dolazi saobracaj?** Organski (Google), drustvene mreze, email? Investirajte u kanal koji radi.
+- **Koji postovi dobijaju najviše saobraćaja?** Napišite više o tim temama.
+- **Koji postovi imaju najvišu konverziju?** To su vaši "money" postovi — optimizujte ih.
+- **Odakle dolazi saobraćaj?** Organski (Google), društvene mreže, email? Investirajte u kanal koji radi.
 
 Za kompletnu metodologiju merenja pogledajte [kako meriti ROI digitalnog marketinga](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
 
-## Najcesce greske u content marketing-u
+## Najčešće greške u content marketing-u
 
 ### 1) Odustajanje posle 3 meseca
-Content marketing je maraton, ne sprint. Prosecno treba 6-12 meseci da pocnete da vidite organski saobracaj. Vecina firmi odustane bas pred metu.
+Content marketing je maraton, ne sprint. Prosečno treba 6-12 meseci da počnete da vidite organski saobraćaj. Većina firmi odustane baš pred metu.
 
 ### 2) Pisanje za sebe umesto za kupca
-"Nasa firma je osnovana 1998. godine..." ne zanima nikog. Pisete odgovore na pitanja koja vasi kupci postavljaju, ne autobiografiju firme.
+"Naša firma je osnovana 1998. godine..." ne zanima nikog. Pišete odgovore na pitanja koja vaši kupci postavljaju, ne autobiografiju firme.
 
-### 3) Nijedan CTA u sadrzaju
-Svaki blog post mora da uputi citaoca na sledeci korak: "zatrazite ponudu", "preuzmite vodic", "zakazite konsultaciju". Bez CTA, sadrzaj zabavlja ali ne prodaje.
+### 3) Nijedan CTA u sadržaju
+Svaki blog post mora da uputi čitaoca na sledeći korak: "zatražite ponudu", "preuzmite vodič", "zakažite konsultaciju". Bez CTA, sadržaj zabavlja ali ne prodaje.
 
 ### 4) Fokus na kvantitet umesto kvalitet
-Jedan temeljni blog post od 2.000 reci mesecno je bolji od 8 povrsnih postova od 300 reci. Google nagradjuje dubinu i ekspertizu.
+Jedan temeljni blog post od 2.000 reči mesečno je bolji od 8 površnih postova od 300 reči. Google nagrađuje dubinu i ekspertizu.
 
-Za izradu content marketing strategije i redovnu produkciju sadrzaja, javite se preko [kontakt forme](/kontakt).
+Za izradu content marketing strategije i redovnu produkciju sadržaja, javite se preko [kontakt forme](/kontakt).
 `
   },
+
   {
     slug: 'zadrzavanje-kupaca-customer-retention-srbija-2026',
     title: 'Zadržavanje kupaca u Srbiji 2026: zašto je 5x jeftinije od pronalaženja novih',
@@ -8656,106 +8655,106 @@ Za strategiju zadrzavanja kupaca i personalizovanu email komunikaciju, javite se
   },
   {
     slug: 'wordpress-bezbednost-vodic-srbija-2026',
-    title: 'WordPress bezbednost u 2026: 10 koraka da zastite sajt od hakera',
+    title: 'WordPress bezbednost u 2026: 10 koraka da zaštite sajt od hakera',
     excerpt: 'Vodič za zaštitu WordPress sajta od hakovanja. 10 praktičnih koraka koje svaki vlasnik sajta u Srbiji može da primeni danas bez tehničkog znanja.',
     date: '2026-03-19',
     category: 'WordPress',
     readTime: '8 min',
     content: `
-## Zasto su WordPress sajtovi cestea meta hakera
+## Zašto su WordPress sajtovi česta meta hakera
 
-WordPress pokrece 43% svih sajtova na internetu. To ga cini najcescom metom za automatizovane napade -- botovi skeniraju internet i pokusavaju poznate ranjivosti na milionima WordPress instalacija istovremeno.
+WordPress pokreće 43% svih sajtova na internetu. To ga čini najčešćom metom za automatizovane napade -- botovi skeniraju internet i pokušavaju poznate ranjivosti na milionima WordPress instalacija istovremeno.
 
-Dobra vest: vecina napada je automatizovana i cilja sajtove sa osnovnim propustima. Ako primenite 10 koraka iz ovog vodica, eliminisete 95% rizika. Ne morate biti programer -- vecina koraka se radi u par klikova.
+Dobra vest: većina napada je automatizovana i cilja sajtove sa osnovnim propustima. Ako primenite 10 koraka iz ovog vodiča, eliminišete 95% rizika. Ne morate biti programer -- većina koraka se radi u par klikova.
 
-Za tehnicku optimizaciju sajta pogledajte [WordPress speed vodic](/blog/ubrzavanje-wordpress-sajta-tehnicki-seo-srbija-2026). Za cene izrade sigurnog sajta pogledajte [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+Za tehničku optimizaciju sajta pogledajte [WordPress speed vodič](/blog/ubrzavanje-wordpress-sajta-tehnicki-seo-srbija-2026). Za cene izrade sigurnog sajta pogledajte [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
 
-## Korak 1: Azurirajte WordPress, temu i pluginove
+## Korak 1: Ažurirajte WordPress, temu i pluginove
 
-Najcesci razlog za hakovanje WordPress sajta su zastareli pluginovi sa poznatim ranjivostima. Hakeri koriste javno objavljene ranjivosti (CVE) i skeniraju sajtove koji nisu azurirani.
+Najčešći razlog za hakovanje WordPress sajta su zastareli pluginovi sa poznatim ranjivostima. Hakeri koriste javno objavljene ranjivosti (CVE) i skeniraju sajtove koji nisu ažurirani.
 
-**Sta da uradite:** Idite na Dashboard > Updates i azurirajte SVE -- WordPress core, temu i sve pluginove. Ukljucite automatska azuriranja za minor verzije.
+**Šta da uradite:** Idite na Dashboard > Updates i ažurirajte SVE -- WordPress core, temu i sve pluginove. Uključite automatska ažuriranja za minor verzije.
 
-**Vazno:** Pre azuriranja uvek napravite backup. Nekad azuriranje moze da pokvari sajt ako plugin nije kompatibilan.
+**Važno:** Pre ažuriranja uvek napravite backup. Nekad ažuriranje može da pokvari sajt ako plugin nije kompatibilan.
 
 ## Korak 2: Koristite jake lozinke (i nikad "admin" kao username)
 
-Najjednostavniji napad: bot pokusa da se uloguje sa "admin" / "password123". Ako vam je username "admin" i lozinka je kratka, sajt ce biti hakovan za manje od sat vremena.
+Najjednostavniji napad: bot pokuša da se uloguje sa "admin" / "password123". Ako vam je username "admin" i lozinka je kratka, sajt će biti hakovan za manje od sat vremena.
 
-**Sta da uradite:**
-- Promenite username (ne moze se menjati iz WP-a, ali mozete kreirati novog admin usera i obrisati starog)
+**Šta da uradite:**
+- Promenite username (ne može se menjati iz WP-a, ali možete kreirati novog admin usera i obrisati starog)
 - Lozinka mora biti 12+ karaktera sa velikim slovima, brojevima i specijalnim znakovima
 - Koristite password manager (Bitwarden je besplatan)
 
 ## Korak 3: Instalirajte sigurnosni plugin
 
-Za pocetnike preporucujem jedan od ova tri:
+Za početnike preporučujem jedan od ova tri:
 
-**Wordfence** (besplatan) -- firewall + malware scanner + brute force zastita. Najkompletniji besplatni security plugin.
+**Wordfence** (besplatan) -- firewall + malware scanner + brute force zaštita. Najkompletniji besplatni security plugin.
 
 **Sucuri Security** (besplatan) -- security audit log + file integrity monitoring. Lagan i ne usporava sajt.
 
-**iThemes Security** (besplatan) -- 30+ sigurnosnih podesavanja sa jednim klikom. Dobar za pocetnike.
+**iThemes Security** (besplatan) -- 30+ sigurnosnih podešavanja sa jednim klikom. Dobar za početnike.
 
-Ne instalirajte vise od jednog sigurnosnog plugina -- mogu se sukobiti.
+Ne instalirajte više od jednog sigurnosnog plugina -- mogu se sukobiti.
 
-## Korak 4: Limitirajte pokusaje logovanja
+## Korak 4: Limitirajte pokušaje logovanja
 
-Brute force napad pokusava hiljade kombinacija lozinki. Bez zastite, bot moze da pokusa 10.000 lozinki u sat vremena.
+Brute force napad pokušava hiljade kombinacija lozinki. Bez zaštite, bot može da pokuša 10.000 lozinki u sat vremena.
 
-**Sta da uradite:** Vecina sigurnosnih pluginova ima ovu opciju. Limitirajte na 3-5 pokusaja, pa lockout od 15 minuta. Ili koristite dedicated plugin: "Limit Login Attempts Reloaded" (besplatan).
+**Šta da uradite:** Većina sigurnosnih pluginova ima ovu opciju. Limitirajte na 3-5 pokušaja, pa lockout od 15 minuta. Ili koristite dedicated plugin: "Limit Login Attempts Reloaded" (besplatan).
 
-## Korak 5: Ukljucite dvofaktorsku autentifikaciju (2FA)
+## Korak 5: Uključite dvofaktorsku autentifikaciju (2FA)
 
-Cak i ako neko pogodi vasu lozinku, bez drugog faktora ne moze da udje. 2FA salje kod na vas telefon ili koristi aplikaciju (Google Authenticator, Authy).
+Čak i ako neko pogodi vašu lozinku, bez drugog faktora ne može da uđe. 2FA šalje kod na vaš telefon ili koristi aplikaciju (Google Authenticator, Authy).
 
-**Sta da uradite:** Wordfence ima ugradjeni 2FA. Alternativno, koristite plugin "WP 2FA" (besplatan).
+**Šta da uradite:** Wordfence ima ugrađeni 2FA. Alternativno, koristite plugin "WP 2FA" (besplatan).
 
 ## Korak 6: Promenite default login URL
 
 WordPress login je uvek na vasajt.com/wp-admin ili /wp-login.php. Svaki bot to zna.
 
-**Sta da uradite:** Koristite plugin "WPS Hide Login" (besplatan) da promenite URL na nesto unikatno, npr. vasajt.com/moj-tajni-login. Botovi nece naci stranicu za login.
+**Šta da uradite:** Koristite plugin "WPS Hide Login" (besplatan) da promenite URL na nešto unikatno, npr. vasajt.com/moj-tajni-login. Botovi neće naći stranicu za login.
 
 ## Korak 7: Redovni backup-ovi
 
-Ako se desi najgore -- sajt bude hakovan -- backup je vasa polisa osiguranja. Bez backup-a, gubite sve.
+Ako se desi najgore -- sajt bude hakovan -- backup je vaša polisa osiguranja. Bez backup-a, gubite sve.
 
-**Sta da uradite:**
+**Šta da uradite:**
 - Koristite plugin: UpdraftPlus (besplatan) ili BlogVault
-- Podesiti automatski backup: jednom dnevno za e-commerce, jednom nedeljno za blogove
-- Cuvajte backup van servera (Google Drive, Dropbox) -- ako haker dobije pristup serveru, obrisace i backup
+- Podesite automatski backup: jednom dnevno za e-commerce, jednom nedeljno za blogove
+- Čuvajte backup van servera (Google Drive, Dropbox) -- ako haker dobije pristup serveru, obrišaće i backup
 
 ## Korak 8: SSL sertifikat (HTTPS)
 
-Ako vas sajt jos uvek pocinje sa http:// umesto https://, imate ozbiljan problem. Google ga oznacava kao "Not Secure" i rang vam pada.
+Ako vaš sajt još uvek počinje sa http:// umesto https://, imate ozbiljan problem. Google ga označava kao "Not Secure" i rang vam pada.
 
-**Sta da uradite:** Vecina hosting provajdera (Hostinger, SiteGround) nudi besplatan SSL (Let's Encrypt). Aktivirajte ga u hosting panelu i instalirajte "Really Simple SSL" plugin da preusmerite sav saobracaj na HTTPS.
+**Šta da uradite:** Većina hosting provajdera (Hostinger, SiteGround) nudi besplatan SSL (Let's Encrypt). Aktivirajte ga u hosting panelu i instalirajte "Really Simple SSL" plugin da preusmerite sav saobraćaj na HTTPS.
 
-## Korak 9: Iskljucite XML-RPC ako ga ne koristite
+## Korak 9: Isključite XML-RPC ako ga ne koristite
 
-XML-RPC je stari WordPress protokol koji se danas koristi uglavnom za brute force napade. Ako ne koristite WordPress mobilnu aplikaciju ili Jetpack, iskljucite ga.
+XML-RPC je stari WordPress protokol koji se danas koristi uglavnom za brute force napade. Ako ne koristite WordPress mobilnu aplikaciju ili Jetpack, isključite ga.
 
-**Sta da uradite:** Dodajte u .htaccess fajl:
+**Šta da uradite:** Dodajte u .htaccess fajl:
 xmlrpc.php blokada (pitajte developera) ili koristite opciju u Wordfence/iThemes pluginu.
 
 ## Korak 10: Pratite aktivnost na sajtu
 
-Ako neko uspe da udje na vas sajt, zelite da to saznate sto pre. Audit log prati ko se ulogovao, sta je menjao i kada.
+Ako neko uspe da uđe na vaš sajt, želite da to saznate što pre. Audit log prati ko se ulogovao, šta je menjao i kada.
 
-**Sta da uradite:** Koristite "WP Activity Log" plugin (besplatan) koji belezi sve promene na sajtu. Postavite email obavestenje za login sa nepoznate IP adrese.
+**Šta da uradite:** Koristite "WP Activity Log" plugin (besplatan) koji beleži sve promene na sajtu. Postavite email obaveštenje za login sa nepoznate IP adrese.
 
-## Sta raditi ako je sajt vec hakovan
+## Šta raditi ako je sajt već hakovan
 
-1. **Ne panicite.** Sajt se moze restaurirati.
-2. **Stavite sajt u maintenance mode** da posetioci ne vide hakovan sadrzaj.
+1. **Ne paničite.** Sajt se može restaurirati.
+2. **Stavite sajt u maintenance mode** da posetioci ne vide hakovan sadržaj.
 3. **Kontaktirajte hosting** -- mnogi provajderi imaju malware removal uslugu.
-4. **Restore backup** ako imate svez backup od pre hakovanja.
+4. **Restore backup** ako imate svež backup od pre hakovanja.
 5. **Promenite SVE lozinke** -- WordPress admin, hosting, FTP, baza podataka, email.
-6. **Skenirajte sajt** sa Wordfence ili Sucuri da pronadjete zarazen fajl.
-7. **Azurirajte SVE** -- core, temu, pluginove. Obrisite pluginove koje ne koristite.
+6. **Skenirajte sajt** sa Wordfence ili Sucuri da pronađete zaražen fajl.
+7. **Ažurirajte SVE** -- core, temu, pluginove. Obrišite pluginove koje ne koristite.
 
-Za profesionalnu zastitu sajta i sigurnosni audit, javite se preko [kontakt forme](/kontakt). Pogledajte i [cene odrzavanja WordPress sajta](/blog/odrzavanje-wordpress-sajta-cena-srbija-2026) koje ukljucuju redovne sigurnosne provere.
+Za profesionalnu zaštitu sajta i sigurnosni audit, javite se preko [kontakt forme](/kontakt). Pogledajte i [cene održavanja WordPress sajta](/blog/odrzavanje-wordpress-sajta-cena-srbija-2026) koje uključuju redovne sigurnosne provere.
 `
   },
   {
@@ -9827,75 +9826,75 @@ Za konsultacije oko pokretanja ili skaliranja agencije, javite se preko [kontakt
   {
     slug: 'ubrzavanje-wordpress-sajta-tehnicki-seo-srbija-2026',
     title: 'Ubrzavanje WordPress sajta: Vodič za tehnički SEO u 2026. godini',
-    excerpt: 'Spor sajt ubija vas SEO i konverzije. Saznajte kako da ubrzate WordPress sajt u Srbiji: hosting, caching, WebP slike i optimizacija za mobilne uredjaje.',
+    excerpt: 'Spor sajt ubija vaš SEO i konverzije. Saznajte kako da ubrzate WordPress sajt u Srbiji: hosting, caching, WebP slike i optimizacija za mobilne uređaje.',
     date: '2026-03-18',
     category: 'WordPress SEO',
     readTime: '8 min',
     content: `
-## Zasto spori sajtovi vise nemaju sansu kod Google-a
+## Zašto spori sajtovi više nemaju šansu kod Google-a
 
-U 2026. godini, preko 75% poseta domacim sajtovima dolazi sa mobilnih telefona (cesto na 4G mrezama dok su ljudi u pokretu). Google je to shvatio odavno i prebacio ceo svoj indeks na "Mobile-First". 
+U 2026. godini, preko 75% poseta domaćim sajtovima dolazi sa mobilnih telefona (često na 4G mrežama dok su ljudi u pokretu). Google je to shvatio odavno i prebacio ceo svoj indeks na "Mobile-First".
 
-Sta to znaci za vas WordPress sajt? Ako se vasa stranica ucitava duze od 3 sekunde na mobilnom telefonu, Google ce vas spustiti na nize pozicije, cak i ako imate najbolji sadrzaj na svetu. Spor sajt znaci lose korisnicko iskustvo, a Google ne zeli da salje svoje korisnike na frustrirajuce stranice.
+Šta to znači za vaš WordPress sajt? Ako se vaša stranica učitava duže od 3 sekunde na mobilnom telefonu, Google će vas spustiti na niže pozicije, čak i ako imate najbolji sadržaj na svetu. Spor sajt znači loše korisničko iskustvo, a Google ne želi da šalje svoje korisnike na frustrirajuće stranice.
 
-Iza pada SEO ranga krije se jos opasniji problem: **pad konverzija**. Amazon je davno dokazao da ih svaka desetinka sekunde ucitavanja kosta 1% prihoda.
+Iza pada SEO ranga krije se još opasniji problem: **pad konverzija**. Amazon je davno dokazao da ih svaka desetinka sekunde učitavanja košta 1% prihoda.
 
-Za detaljan vodic o pripremi sajta za konverzije, pogledajte nas tekst o [optimizaciji konverzije sajta](/blog/optimizacija-konverzije-sajta-cro-srbija-2026). Ako trazite agenciju za izradu sajta, proverite nas tekst o [cenama izrade WordPress sajta](/izrada-wordpress-sajta-cena).
+Za detaljan vodič o pripremi sajta za konverzije, pogledajte naš tekst o [optimizaciji konverzije sajta](/blog/optimizacija-konverzije-sajta-cro-srbija-2026). Ako tražite agenciju za izradu sajta, proverite naš tekst o [cenama izrade WordPress sajta](/izrada-wordpress-sajta-cena).
 
-## 4 Glavna krivca za spor WordPress sajt (i kako ih resiti)
+## 4 glavna krivca za spor WordPress sajt (i kako ih rešiti)
 
-### 1) Los Shared Hosting
+### 1) Loš Shared Hosting
 
-Vecina domacih firmi placa hosting 30-50 EUR godisnje. Ovaj tip hostinga (Shared Hosting) znaci da vas sajt deli server sa jos 500 drugih sajtova. Kad jedan sajt ima skok saobracaja, vas sajt usporava.
+Većina domaćih firmi plaća hosting 30-50 EUR godišnje. Ovaj tip hostinga (Shared Hosting) znači da vaš sajt deli server sa još 500 drugih sajtova. Kad jedan sajt ima skok saobraćaja, vaš sajt usporava.
 
-**Resenje u 2026:**
-Zaboravite na najjeftinije opcije. Predjite na Cloud ili premium WordPress hosting (npr. Hostinger Cloud, SiteGround, Kinsta). Razlika u ceni od 5-10 EUR mesecno ce se isplatiti kroz povecanu prodaju vec u prvoj nedelji.
+**Rešenje u 2026:**
+Zaboravite na najjeftinije opcije. Pređite na Cloud ili premium WordPress hosting (npr. Hostinger Cloud, SiteGround, Kinsta). Razlika u ceni od 5-10 EUR mesečno će se isplatiti kroz povećanu prodaju već u prvoj nedelji.
 
-### 2) Preteske, neoptimizovane slike
+### 2) Preteške, neoptimizovane slike
 
-Ako ste slikali proizvod novim iPhone-om (gde slika ima 6 MB) i direktno je okacili na WordPress, napravili ste SEO katastrofu.
+Ako ste slikali proizvod novim iPhone-om (gde slika ima 6 MB) i direktno je okačili na WordPress, napravili ste SEO katastrofu.
 
-**Resenje u 2026:**
-Nijedna slika na vasem sajtu ne sme biti preko 200-300 KB.
+**Rešenje u 2026:**
+Nijedna slika na vašem sajtu ne sme biti preko 200-300 KB.
 1. Instalirajte plugin za optimizaciju slika (npr. LiteSpeed Cache Image Optimization ili Smush).
-2. Automatski konvertujte sve slike u **WebP format** (koji je 30% laksi od JPG-a bez gubitka kvaliteta).
-3. Obavezno koristite "Lazy Loading" -- to znaci da se slike ucitavaju tek kada korisnik doskroluje do njih, a ne sve odjednom prilikom otvaranja sajta.
+2. Automatski konvertujte sve slike u **WebP format** (koji je 30% lakši od JPG-a bez gubitka kvaliteta).
+3. Obavezno koristite "Lazy Loading" -- to znači da se slike učitavaju tek kada korisnik doskroluje do njih, a ne sve odjednom prilikom otvaranja sajta.
 
-### 3) Previse nepotrebnih pluginova
+### 3) Previše nepotrebnih pluginova
 
-WordPress je fantastican jer za sve postoji plugin. Ali svaki plugin koji dodate usporava sajt ucitavajuci svoje skripte i CSS fajlove. Sajt sa 45 pluginova nikada nece biti brz.
+WordPress je fantastičan jer za sve postoji plugin. Ali svaki plugin koji dodate usporava sajt učitavajući svoje skripte i CSS fajlove. Sajt sa 45 pluginova nikada neće biti brz.
 
-**Resenje u 2026:**
-- Obrisite pluginove koje ne koristite.
-- Zamenite vise manjih pluginova jednim kompleksnim (npr. koristite jednu SEO platformu umesto 3 razlicita SEO dodatka).
-- Izbegavajte pluginove za "Slider-e" i snezne pahuljice. Ne donose prodaju, a ubijaju brzinu.
+**Rešenje u 2026:**
+- Obrišite pluginove koje ne koristite.
+- Zamenite više manjih pluginova jednim kompleksnim (npr. koristite jednu SEO platformu umesto 3 različita SEO dodatka).
+- Izbegavajte pluginove za "Slider-e" i snežne pahuljice. Ne donose prodaju, a ubijaju brzinu.
 
-### 4) Odsustvo Caching sistema (Kesiranje)
+### 4) Odsustvo keširanja
 
-Svaki put kada neko poseti vas sajt, WordPress mora da pita bazu podataka za sadrzaj, sklopi ga u HTML i posalje korisniku. To zahteva vreme. 
+Svaki put kada neko poseti vaš sajt, WordPress mora da pita bazu podataka za sadržaj, sklopi ga u HTML i pošalje korisniku. To zahteva vreme.
 
-**Resenje u 2026:**
-Kesiranje pravi "sliku" vaseg sklopljenog sajta i odmah je isporucuje posetiocu, zaobilazeci bazu podataka. Brzina ucitavanja se obicno prepolovi cim se ukljuci kesiranje. Odlicni pluginovi: LiteSpeed Cache (najbolji ako ste na LiteSpeed serveru), WP Rocket ili W3 Total Cache.
+**Rešenje u 2026:**
+Keširanje pravi "sliku" vašeg sklopljenog sajta i odmah je isporučuje posetiocu, zaobilazeći bazu podataka. Brzina učitavanja se obično prepolovi čim se uključi keširanje. Odlični pluginovi: LiteSpeed Cache (najbolji ako ste na LiteSpeed serveru), WP Rocket ili W3 Total Cache.
 
-## Kako Core Web Vitals direktno uticu na vas rang
+## Kako Core Web Vitals direktno utiču na vaš rang
 
-Google meri tri kljucne metrike (Core Web Vitals) i daje vam ocenu u Google Search Console:
+Google meri tri ključne metrike (Core Web Vitals) i daje vam ocenu u Google Search Console:
 
-- **LCP (Largest Contentful Paint):** Koliko vremena treba da se ucita najveci element na ekranu (obobicno glavna slika). Mora biti ispod 2.5 sekunde.
-- **FID/INP (Interaction to Next Paint):** Koliko brzo sajt reaguje kada kliknete na nesto. 
-- **CLS (Cumulative Layout Shift):** Da li sajt "poskakuje" dok se ucitava (npr. kada se pojavi reklama i pomeri tekst koji ste poceli da citate).
+- **LCP (Largest Contentful Paint):** Koliko vremena treba da se učita najveći element na ekranu (obično glavna slika). Mora biti ispod 2.5 sekunde.
+- **FID/INP (Interaction to Next Paint):** Koliko brzo sajt reaguje kada kliknete na nešto.
+- **CLS (Cumulative Layout Shift):** Da li sajt "poskakuje" dok se učitava (npr. kada se pojavi reklama i pomeri tekst koji ste počeli da čitate).
 
-Ako ove brojke svetle crveno u vasoj konzoli, vas trud oko pisanja sadrzaja pada u vodu.
+Ako ove brojke svetle crveno u vašoj konzoli, vaš trud oko pisanja sadržaja pada u vodu.
 
 ## Plan za ubrzavanje sajta za 7 dana
 
-**Dan 1:** Testirajte trenutnu brzinu preko [Google PageSpeed Insights](https://pagespeed.web.dev/) (gledajte mobile rezultat!). Zapisite brojke.
-**Dan 2:** Ažurirajte WordPress, temu i pluginove. Obrisi sve sto ne koristite aktivno.
-**Dan 3:** Instalirajte Caching plugin i optimizujte bazu podataka (brisanje starih post revizija, spam komentara).
-**Dan 4:** Ukljucite optimizaciju slika (WebP konverzija) i prebacite na asinhrono ucitavanje JS fajlova (Deffer/Async).
+**Dan 1:** Testirajte trenutnu brzinu preko [Google PageSpeed Insights](https://pagespeed.web.dev/) (gledajte mobile rezultat!). Zapišite brojke.
+**Dan 2:** Ažurirajte WordPress, temu i pluginove. Obrišite sve što ne koristite aktivno.
+**Dan 3:** Instalirajte caching plugin i optimizujte bazu podataka (brisanje starih post revizija, spam komentara).
+**Dan 4:** Uključite optimizaciju slika (WebP konverzija) i prebacite na asinhrono učitavanje JS fajlova (Defer/Async).
 **Dan 7:** Ponovo testirajte brzinu na PageSpeed Insights i uporedite sa Danom 1.
 
-Ako vam je potrebna tehnicka SEO optimizacija celog WordPress sistema ili dubinska procena sajta, javite se preko [kontakt forme](/kontakt) -- izradicemo akcioni plan za vracanje na prvu stranicu Google-a. Za siri kontekst o optimizaciji celog online prisustva, proverite nasu [on-page SEO checklistu](/blog/on-page-seo-checklista-srbija-2026).
+Ako vam je potrebna tehnička SEO optimizacija celog WordPress sistema ili dubinska procena sajta, javite se preko [kontakt forme](/kontakt) -- izradićemo akcioni plan za vraćanje na prvu stranicu Google-a. Za širi kontekst o optimizaciji celog online prisustva, proverite našu [on-page SEO checklistu](/blog/on-page-seo-checklista-srbija-2026).
 `
   },
   {
@@ -10473,23 +10472,23 @@ Za pomoc sa B2B marketing strategijom i kreiranjem kampanja koje donose kvalifik
   },
   {
     slug: 'tiktok-reklame-cena-srbija-2026',
-    title: 'TikTok reklame u Srbiji 2026: cene, budžeti i ko treba da se oglasava',
+    title: 'TikTok reklame u Srbiji 2026: cene, budžeti i ko treba da se oglašava',
     excerpt: 'Koliko koštaju TikTok reklame u Srbiji 2026. CPM i CPA benchmarci, minimalni dnevni budžeti i za koje firme ovaj kanal donosi najbolji ROI.',
     date: '2026-03-18',
     category: 'Video Marketing',
     readTime: '8 min',
     content: `
-## Zasto TikTok Ads vise nije samo za "klince"
+## Zašto TikTok Ads više nije samo za "klince"
 
-Najveca zabluda srpskih preduzetnika u 2026. godini je da su na TikToku samo deca. Demografija se drasticno promenila -- preko 40% aktivnih korisnika u Srbiji sada ima izmedju 25 i 45 godina. To su ljudi sa kupovnom moci.
+Najveća zabluda srpskih preduzetnika u 2026. godini je da su na TikToku samo deca. Demografija se drastično promenila -- preko 40% aktivnih korisnika u Srbiji sada ima između 25 i 45 godina. To su ljudi sa kupovnom moći.
 
-Jos vaznije, TikTok algoritam drugacije funkcionise od Facebooka i Instagrama. On ne nagradjuje koga pratite, vec kakav sadrzaj konzumirate. To znaci da vase reklame mogu doci do publike brze i jeftinije nego na Meta platformama, ali samo ako je kreativa prilagodjena mrezi.
+Još važnije, TikTok algoritam drugačije funkcioniše od Facebooka i Instagrama. On ne nagrađuje koga pratite, već kakav sadržaj konzumirate. To znači da vaše reklame mogu doći do publike brže i jeftinije nego na Meta platformama, ali samo ako je kreativa prilagođena mreži.
 
-Za uporedni pregled troskova na razlicitim kanalima pogledaj [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Za uporedni pregled troškova na različitim kanalima pogledaj [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
 ## Cena TikTok reklama u Srbiji: Konkretni brojevi
 
-TikTok je i dalje jedan od najpovoljnijih kanala za generisanje reach-a u Srbiji, iako su cene konverzija slicnije Instagramu.
+TikTok je i dalje jedan od najpovoljnijih kanala za generisanje reach-a u Srbiji, iako su cene konverzija sličnije Instagramu.
 
 ### Osnovne metrike (Benchmark za 2026)
 
@@ -10497,78 +10496,78 @@ TikTok je i dalje jedan od najpovoljnijih kanala za generisanje reach-a u Srbiji
 - **CPC (Cena po kliku):** 0.05 - 0.25 EUR.
 - **CPA (Cena po akviziciji/kupovini):** 3.00 - 12.00 EUR (zavisno od industrije i cene proizvoda).
 
-Ove brojke vaze za siroko targetiranje. TikTok algoritam je najbolji kada mu date slobodu (Broad Targeting) i pustite da sama kreativa filtrira publiku.
+Ove brojke važe za široko targetiranje. TikTok algoritam je najbolji kada mu date slobodu (Broad Targeting) i pustite da sama kreativa filtrira publiku.
 
-### Minimalni budzeti
+### Minimalni budžeti
 
-Za razliku od Facebooka gde mozete krenuti sa 5 EUR dnevno, TikTok Ads Manager ima striktnija ogranicenja:
+Za razliku od Facebooka gde možete krenuti sa 5 EUR dnevno, TikTok Ads Manager ima striktnija ograničenja:
 
-- **Minimalni dnevni budzet na nivou kampanje:** 50 EUR.
-- **Minimalni dnevni budzet na nivou ad grupe:** 20 EUR.
+- **Minimalni dnevni budžet na nivou kampanje:** 50 EUR.
+- **Minimalni dnevni budžet na nivou ad grupe:** 20 EUR.
 
-Ovo znaci da vam treba **minimum 600 EUR mesecno** samo za ad spend da biste uopste pokrenuli ozbiljnu TikTok kampanju. Ako imate manji budzet, fokusirajte se na organski TikTok ili pogledajte [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama).
+Ovo znači da vam treba **minimum 600 EUR mesecno** samo za ad spend da biste uopšte pokrenuli ozbiljnu TikTok kampanju. Ako imate manji budžet, fokusirajte se na organski TikTok ili pogledajte [koliko košta Facebook reklama](/koliko-kosta-facebook-reklama).
 
 ## Za koje industrije TikTok Ads radi najbolje?
 
-### 1) E-commerce (fizicki proizvodi)
+### 1) E-commerce (fizički proizvodi)
 
-Proizvodi ispod 50 EUR (5.000-6.000 RSD) konvertuju najbolje. Impulsivna kupovina je srž TikToka. Sminka, kozmetika, gadgeti, odeca i dodaci za kucu su apsolutni sampioni. U ovim nisama TikTok CPA cesto nadmasuje Instagram.
+Proizvodi ispod 50 EUR (5.000-6.000 RSD) konvertuju najbolje. Impulsivna kupovina je srž TikToka. Šminka, kozmetika, gadgeti, odeća i dodaci za kuću su apsolutni šampioni. U ovim nisama TikTok CPA često nadmašuje Instagram.
 
 ### 2) Aplikacije i softver
 
-Posto korisnici vec koriste mobilni telefon, instalacija aplikacije (App Install) je na jedan klik. Cene instalacija na TikToku su cesto 30-50% nize nego na Google Play ili Apple Search oglasima.
+Pošto korisnici već koriste mobilni telefon, instalacija aplikacije (App Install) je na jedan klik. Cene instalacija na TikToku su često 30-50% niže nego na Google Play ili Apple Search oglasima.
 
 ### 3) Edukacija i Info-proizvodi
 
-Kursevi jezika, finansijska edukacija, fitness programi. Krati "tip/trik" videi koji vode na lead magnet konvertuju odlicno. Pogledaj nas vodic o [izgradnji email liste](/blog/email-lista-za-male-firme-srbija-2026) za nastavak ovog funnel-a.
+Kursevi jezika, finansijska edukacija, fitness programi. Krati "tip/trik" videi koji vode na lead magnet konvertuju odlično. Pogledaj nas vodič o [izgradnji email liste](/blog/email-lista-za-male-firme-srbija-2026) za nastavak ovog funnel-a.
 
 ### Ko NE treba da koristi TikTok Ads (za sad)
 
 Skupi B2B proizvodi, industrijska oprema i ekstremno usko targetirane lokalne usluge (npr. "vodoinstalater Zemun"). Za ove biznise [Google reklame](/google-reklame-cena) su i dalje neuporedivo bolja opcija.
 
-## Kreativa: Najjaci adut TikTok kampanja
+## Kreativa: Najjači adut TikTok kampanja
 
-Na TikToku vazi pravilo: **"Don't make ads. Make TikToks."**
+Na TikToku važi pravilo: **"Don't make ads. Make TikToks."**
 
-Ako prebacite ugladjen korporativni video sa Instagrama na TikTok, propasce. Korisnici TikToka imaju radar za "klasicne" reklame i scrolluju ih u prvih 0.5 sekundi.
+Ako prebacite ugladjen korporativni video sa Instagrama na TikTok, propašće. Korisnici TikToka imaju radar za "klasične" reklame i scrolluju ih u prvih 0.5 sekundi.
 
-### Sta radi u 2026?
+### Šta radi u 2026?
 
 **UGC (User Generated Content)** -- video snimljen telefonom gde stvarna osoba (ili kreator) koristi proizvod. Deluje kao organski post, a ne kao oglas.
 
-**"Hook" u prve 3 sekunde** -- tekst na ekranu i verbalna izjava koja gadja problem kupca odmah. Npr: "Greska koju pravis sa pranjem kose..." umesto "Nas novi sampon je...".
+**"Hook" u prve 3 sekunde** -- tekst na ekranu i verbalna izjava koja gađa problem kupca odmah. Npr: "Greška koju praviš sa pranjem kose..." umesto "Nas novi šampon je...".
 
 **Native elementi** -- koristite TikTok fontove, trending muziku, i text-to-speech glasove. Oglas mora izgledati kao da pripada platformi.
 
-**Brzi rezovi** -- menjajte kadar ili tekst svakih 2-3 sekunde. Zadrzavanje paznje je kljuc.
+**Brzi rezovi** -- menjajte kadar ili tekst svakih 2-3 sekunde. Zadržavanje pažnje je ključ.
 
-Za vise saveta o pravljenju videa, pogledaj [video marketing vodic za male firme](/blog/video-marketing-za-male-firme-srbija-2026).
+Za više saveta o pravljenju videa, pogledaj [video marketing vodič za male firme](/blog/video-marketing-za-male-firme-srbija-2026).
 
 ## Kako strukturirati TikTok kampanju
 
 Kao i svaka ozbiljna strategija, TikTok Ads zahteva testiranje:
 
-**Faza 1 (Testiranje kreative):** Pokrenite 3-5 potpuno razlicitih videa sa sirokim targetiranjem. Budzet od 20 EUR po ad grupi. Pratite koji video ima najbolji "Hook rate" (procenat ljudi koji odgleda prve 3 sekunde) i CTR.
+**Faza 1 (Testiranje kreative):** Pokrenite 3-5 potpuno različitih videa sa širokim targetiranjem. Budžet od 20 EUR po ad grupi. Pratite koji video ima najbolji "Hook rate" (procenat ljudi koji odgleda prve 3 sekunde) i CTR.
 
 **Faza 2 (Optimizacija):** Ugasite videe koji ne rade. Napravite varijacije videa koji radi najbolje (promenite prvih 3 sekunde, dodajte drugi poziv na akciju).
 
-**Faza 3 (Skaliranje):** Kada nadjete "pobednicki" video koji donosi profitabilne konverzije, postepeno povecavajte dnevni budzet za 20% na svaka dva dana. Nemojte udvostruciti budzet odjednom jer cete zbuniti algoritam.
+**Faza 3 (Skaliranje):** Kada nađete "pobednički" video koji donosi profitabilne konverzije, postepeno povecavajte dnevni budžet za 20% na svaka dva dana. Nemojte udvostručiti budžet odjednom jer ćete zbuniti algoritam.
 
-## Najcesce greske na TikTok oglasima
+## Najčešće greške na TikTok oglasima
 
 ### 1) Oslanjanje na jedan video
 
-Creative fatigue (zastarevanje kreative) se desava neverovatno brzo na TikToku. Video koji danas donosi prodaje moze potpuno stati za dve nedelje. Morate imati stalan priliv novih videa za testiranje.
+Creative fatigue (zastarevanje kreative) se dešava neverovatno brzo na TikToku. Video koji danas donosi prodaje može potpuno stati za dve nedelje. Morate imati stalan priliv novih videa za testiranje.
 
 ### 2) Preusko targetiranje
 
-Klijenti cesto zele da targetiraju "zene, 25-30, koje prate fitnes i zive u Novom Sadu". Na TikToku je ovo greska. Mreza radi najbolje sa masovnim podacima. Izaberite siroko ("Srbija, 18+") i pustite kreativni sadrzaj da privuce prave ljude.
+Klijenti često žele da targetiraju "žene, 25-30, koje prate fitnes i žive u Novom Sadu". Na TikToku je ovo greška. Mreža radi najbolje sa masovnim podacima. Izaberite široko ("Srbija, 18+") i pustite kreativni sadržaj da privuce prave ljude.
 
 ### 3) Ignorisanje komentara
 
-TikTok reklame dozvoljavaju komentare. Korisnici cesto pitaju za cenu, dostavu ili iskustva u komentarima oglasa. Ako ne odgovarate, gubite konverzije. Ako ne brisete spam/hate komentare, oglas ce dobiti los engagement.
+TikTok reklame dozvoljavaju komentare. Korisnici često pitaju za cenu, dostavu ili iskustva u komentarima oglasa. Ako ne odgovarate, gubite konverzije. Ako ne brišete spam/hate komentare, oglas će dobiti los engagement.
 
-Ukoliko zelite da pokrenete profitabilne TikTok kampanje za vas e-commerce ili info biznis, javite se preko [kontakt forme](/kontakt) i proverite da li je vas proizvod dobar fit za ovu mrezu.
+Ukoliko želite da pokrenete profitabilne TikTok kampanje za vaš e-commerce ili info biznis, javite se preko [kontakt forme](/kontakt) i proverite da li je vaš proizvod dobar fit za ovu mrežu.
 `
   },
   {
@@ -10579,85 +10578,85 @@ Ukoliko zelite da pokrenete profitabilne TikTok kampanje za vas e-commerce ili i
     category: 'Social Media',
     readTime: '9 min',
     content: `
-## Izazov samostalnog vodjenja drustvenih mreza
+## Izazov samostalnog vođenja društvenih mreža
 
-Kao vlasnik male firme u Srbiji, verovatno radite sve: prodaju, nabavku, finansije, i -- negde u medjuvremenu -- marketing na drustvenim mrezama. Rezultat je cesto neredovno objavljivanje, pad kvaliteta i "burnout" oko kreiranja sadrzaja.
+Kao vlasnik male firme u Srbiji, verovatno radite sve: prodaju, nabavku, finansije, i -- negde u medjuvremenu -- marketing na društvenim mrežama. Rezultat je često neredovno objavljivanje, pad kvaliteta i "burnout" oko kreiranja sadržaja.
 
-Ipak, vodjenje drustvenih mreza ne mora da oduzima 3 sata dnevno. Pravilnom organizacijom, automatizacijom i koriscenjem pravih alata, kvalitetno prisustvo na internetu mozete svesti na **3-4 sata nedeljno**.
+Ipak, vođenje društvenih mreža ne mora da oduzima 3 sata dnevno. Pravilnom organizacijom, automatizacijom i korišćenjem pravih alata, kvalitetno prisustvo na internetu možete svesti na **3-4 sata nedeljno**.
 
-Za pregled strategije i tipova sadrzaja, pogledaj nas tekst o [social media strategiji za male firme](/blog/social-media-strategija-za-male-firme-srbija-2026). Ako razmisljate da prepustite posao profesionalcima, proverite [cene digitalnog marketinga u Srbiji](/cene-digitalnog-marketinga).
+Za pregled strategije i tipova sadržaja, pogledaj nas tekst o [social media strategiji za male firme](/blog/social-media-strategija-za-male-firme-srbija-2026). Ako razmišljate da prepustite posao profesionalcima, proverite [cene digitalnog marketinga u Srbiji](/cene-digitalnog-marketinga).
 
 ## Batch kreiranje: Tajna konzistentnosti
 
-Najgori nacin da vodite mreze je da svakog jutra razmisljate "Sta da objavim danas?". To iscrpljuje kreativnu energiju i neminovno dovodi do preskakanja objava kad se pojavi hitan problem u poslu.
+Najgori način da vodite mreže je da svakog jutra razmišljate "Šta da objavim danas?". To iscrpljuje kreativnu energiju i neminovno dovodi do preskakanja objava kad se pojavi hitan problem u poslu.
 
-Resenje je **batch kreiranje** -- pravljenje vise objava odjednom.
+Rešenje je **batch kreiranje** -- pravljenje više objava odjednom.
 
 ### Kako organizovati batch sesiju
 
-1. **Ideacija (30 min nedeljno):** Izdvojite vreme iskljucivo za smisljanje tema. Ne dizajnirate nista, ne pisete ceo tekst. Samo belezite teme. "Post o novoj usluzi", "Savet za odrzavanje", "Behind-the-scenes slika magacina".
-2. **Kreiranje (2 sata nedeljno):** Uzmite listu tema. Dizajnirajte sve slike/videa u Canvi i napisite tekstove za sve objave za narednu nedelju ili dve.
-3. **Zakazivanje (30 min nedeljno):** Ubacite sve gotove objave u alat za zakazivanje i postavite tacan datum i vreme.
+1. **Ideacija (30 min nedeljno):** Izdvojite vreme isključivo za smišljanje tema. Ne dizajnirate ništa, ne pišete ceo tekst. Samo beležite teme. "Post o novoj usluzi", "Savet za održavanje", "Behind-the-scenes slika magacina".
+2. **Kreiranje (2 sata nedeljno):** Uzmite listu tema. Dizajnirajte sve slike/videa u Canvi i napišite tekstove za sve objave za narednu nedelju ili dve.
+3. **Zakazivanje (30 min nedeljno):** Ubacite sve gotove objave u alat za zakazivanje i postavite tačan datum i vreme.
 
-Ovim pristupom zavrsavate ceo nedeljni posao iz jednog sedenja, dok ste "u zoni".
+Ovim pristupom završavate ceo nedeljni posao iz jednog sedenja, dok ste "u zoni".
 
-## Najbolji alati za samostalno vodjenje drustvenih mreza (2026)
+## Najbolji alati za samostalno vođenje društvenih mreža (2026)
 
 ### Za dizajn i vizuale
 
-**Canva** -- nezamenljiva. Besplatna verzija je odlicna, Pro verzija vredi svakog dinara. Kreirajte 3-4 "template-a" za vas brend (boje, fontovi) i samo menjajte tekst/slike unutra. Ovo garantuje prepoznatljiv vizuelni identitet.
+**Canva** -- nezamenljiva. Besplatna verzija je odlična, Pro verzija vredi svakog dinara. Kreirajte 3-4 "template-a" za vaš brend (boje, fontovi) i samo menjajte tekst/slike unutra. Ovo garantuje prepoznatljiv vizuelni identitet.
 
-**CapCut** -- za obradu video formata (Reels, TikTok, Shorts). CapCut nudi odlicne opcije za auto-titlove (radi pristojno i na srpskom), seckanje i efekte. Ima odlicnu besplatnu verziju i radi na racunaru i telefonu. Detaljnije u nasem [vodicu za video marketing](/blog/video-marketing-za-male-firme-srbija-2026).
+**CapCut** -- za obradu video formata (Reels, TikTok, Shorts). CapCut nudi odlične opcije za auto-titlove (radi pristojno i na srpskom), seckanje i efekte. Ima odlicnu besplatnu verziju i radi na računaru i telefonu. Detaljnije u nasem [vodicu za video marketing](/blog/video-marketing-za-male-firme-srbija-2026).
 
 ### Za zakazivanje objava
 
-**Meta Business Suite** -- potpuno besplatan zvanicni alat od Mete. Olican za istovremeno zakazivanje na Facebooku i Instagramu (ukljucujuci Stories). Mane: moze biti spor, ne podrzava druge mreze poput LinkedIna ili TikToka.
+**Meta Business Suite** -- potpuno besplatan zvanični alat od Mete. Odličan za istovremeno zakazivanje na Facebooku i Instagramu (uključujući Stories). Mane: može biti spor, ne podržava druge mreže poput LinkedIna ili TikToka.
 
-**Later / Buffer** -- sjajni third-party alati. Omogucavaju vizuelni pregled Instagram grid-a, analitiku i podrzavaju vise razlicitih mreza sa jednog mesta. Besplatni planovi su cesto dovoljni za male firme.
+**Later / Buffer** -- sjajni third-party alati. Omogućavaju vizuelni pregled Instagram grid-a, analitiku i podržavaju više različitih mreža sa jednog mesta. Besplatni planovi su često dovoljni za male firme.
 
 ### Za pisanje i ideje
 
-Ne morate sve pisati od nule. Alati poput **ChatGPT** ili **Claude** mogu biti od pomoci -- ne da pisu umesto vas, vec kao "asistenti za ideje". Trazite: "Daj mi 5 ideja za objave za automehanicara koje odgovaraju na cesta pitanja musterija".
+Ne morate sve pisati od nule. Alati poput **ChatGPT** ili **Claude** mogu biti od pomoći -- ne da pišu umesto vas, već kao "asistenti za ideje". Tražite: "Daj mi 5 ideja za objave za automehaničara koje odgovaraju na česta pitanja mušterija".
 
 ## Sistematizacija kroz Content Kalendar
 
-Content kalendar ne mora biti kompleksan softver. Obicna Google Tabela ili Trello tabla vrsi posao.
+Content kalendar ne mora biti kompleksan softver. Obična Google Tabela ili Trello tabla vrši posao.
 
 Evo kako izgleda jednostavan, funkcionalan kalendar:
 
 - **Kolona 1 (Datum/Vreme):** Npr. Ponedeljak, 18:00
-- **Kolona 2 (Mreza):** Npr. Instagram Reel
+- **Kolona 2 (Mreža):** Npr. Instagram Reel
 - **Kolona 3 (Tema/Cilj):** Npr. Edukacija - kako odabrati velicinu
 - **Kolona 4 (Status):** Ideja / U izradi / Spremno / Zakazano
 - **Kolona 5 (Tekst i fajlovi):** Link ka Canva fajlu i tekst objave
 
-Planiranje vam omogucava da pratite pravilo 80/20 -- 80% vrednost i edukacija, 20% direktna prodaja.
+Planiranje vam omogućava da pratite pravilo 80/20 -- 80% vrednost i edukacija, 20% direktna prodaja.
 
 ## Kada odgovarati na poruke i komentare
 
-Konzistentno objavljivanje gubi smisao ako ignorisete komentare i upite. Ipak, ne mozete prekidati rad svakih 10 minuta zbog novog Instagram komentara.
+Konzistentno objavljivanje gubi smisao ako ignorišete komentare i upite. Ipak, ne možete prekidati rad svakih 10 minuta zbog novog Instagram komentara.
 
 **Pravilo dva puta dnevno:**
-Iskljucite push notifikacije. Odredite dva termina dnevno (npr. ujutru u 09:00 i pred kraj radnog vremena u 16:30) kada cete uci na mreze, odgovoriti na sve poruke, lajkovati komentare i uzvratiti interakciju. Ovo stedi ogromnu kolicinu vremena i cuva fokus.
+Isključite push notifikacije. Odredite dva termina dnevno (npr. ujutru u 09:00 i pred kraj radnog vremena u 16:30) kada ćete ući na mreže, odgovoriti na sve poruke, lajkovati komentare i uzvratiti interakciju. Ovo štedi ogromnu količinu vremena i čuva fokus.
 
 **Brzi odgovori:**
-U Meta Business Suite-u napravite "Saved Replies" (sacuvane odgovore) za pitanja koja dobijate svaki dan (Cena? Radno vreme? Gde se nalazite? Kakva je dostava?). Ovo ce vam prepoloviti vreme provedeno u Inbox-u.
+U Meta Business Suite-u napravite "Saved Replies" (sačuvane odgovore) za pitanja koja dobijate svaki dan (Cena? Radno vreme? Gde se nalazite? Kakva je dostava?). Ovo će vam prepoloviti vreme provedeno u Inbox-u.
 
-## 4 najcesce greske "samostalnih" menadzera mreza
+## 4 najčešće greške "samostalnih" menadžera mreža
 
-### 1) Teznja ka savrsenstvu na ustrb konzistentnosti
-Bolje je objaviti 3 "dobre" objave nedeljno nego jednu "savrsenu" u mesec dana. Drustvene mreze nagradjuju aktivnost. Oprema i dizajn ne moraju biti profesionalni, bitno je da je sadrzaj koristan publici.
+### 1) Težnja ka savršenstvu na ustrb konzistentnosti
+Bolje je objaviti 3 "dobre" objave nedeljno nego jednu "savršenu" u mesec dana. Društvene mreže nagradjuju aktivnost. Oprema i dizajn ne moraju biti profesionalni, bitno je da je sadržaj koristan publici.
 
 ### 2) Postovi bez "Poziva na akciju" (CTA)
-Svaka objava mora da uputi pratioca sta da uradi sledece. "Sacuvaj ovaj post", "Podeli sa nekim kome treba", "Oznaci u komentaru", ili za prodajne postove "Link je u opisu profila". Ako im ne kazete sta da urade, najcesce nece uraditi nista.
+Svaka objava mora da uputi pratioca šta da uradi sledeće. "Sačuvaj ovaj post", "Podeli sa nekim kome treba", "Oznaci u komentaru", ili za prodajne postove "Link je u opisu profila". Ako im ne kažete šta da urade, najčešće neće uraditi ništa.
 
-### 3) Ignorisanje video sadrzaja
-Osecate nelagodu pred kamerom? Moracete da je prevazidjete. Kratki vertikalni videi (Reels, TikTok, Shorts) trenutno imaju nesrazmerno veliki organski doseg u poredjenju sa statickim slikama. Ne morate plesati; jednostavno pricanje u kameru i objasnjavanje vaseg posla je dovoljno.
+### 3) Ignorisanje video sadržaja
+Osećate nelagodu pred kamerom? Moraćete da je prevaziđete. Kratki vertikalni videi (Reels, TikTok, Shorts) trenutno imaju nesrazmerno veliki organski doseg u poredjenju sa statickim slikama. Ne morate plesati; jednostavno pričanje u kameru i objašnjavanje vašeg posla je dovoljno.
 
 ### 4) Prodaja, prodaja, prodaja
-Ljudi ne idu na Instagram da gledaju katalog proizvoda. Ako je svaka vasa objava slika proizvoda i cena, ljudi ce vas brzo prestati pratiti ili ce vas ignorisati. Fokusirajte se na resavanje problema vase publike.
+Ljudi ne idu na Instagram da gledaju katalog proizvoda. Ako je svaka vaša objava slika proizvoda i cena, ljudi će vas brzo prestati pratiti ili će vas ignorisati. Fokusirajte se na rešavanje problema vaše publike.
 
-Za profesionalnu podrsku i vodjenje kampanja, javite se preko [kontakt forme](/kontakt) -- rado cemo vam pomoci da oslobodite svoje vreme za upravljanje biznisom.
+Za profesionalnu podrsku i vođenje kampanja, javite se preko [kontakt forme](/kontakt) -- rado cemo vam pomoći da oslobodite svoje vreme za upravljanje biznisom.
 `
   },
   {
@@ -10964,16 +10963,16 @@ Za pomoc sa optimizacijom landing stranica ili CRO auditom vaseg sajta, javite s
   {
     slug: 'social-media-strategija-za-male-firme-srbija-2026',
     title: 'Social media strategija za male firme u Srbiji 2026: koje mreže, koliko često i šta postati',
-    excerpt: 'Praktična social media strategija za male firme u Srbiji 2026. Koje platforme biriti, optimalna ucestalost objava i tipovi sadržaja koji donose rezultate.',
+    excerpt: 'Praktična social media strategija za male firme u Srbiji 2026. Koje platforme biriti, optimalna učestalost objava i tipovi sadržaja koji donose rezultate.',
     date: '2026-03-17',
     category: 'Social Media',
     readTime: '9 min',
     content: `
-## Zasto vecina malih firmi gubi vreme na drustvenim mrezama
+## Zašto vecina malih firmi gubi vreme na društvenim mrežama
 
-Svaka mala firma u Srbiji ima bar jedan profil na drustvenim mrezama. Problem nije prisustvo nego pristup. Vecina objavljuje bez strategije -- random slike, genericke poruke, copy-paste postovi. Rezultat: nula engagement-a, nula prodaje, frustracija i zakljucak da "drustvene mreze ne rade".
+Svaka mala firma u Srbiji ima bar jedan profil na društvenim mrežama. Problem nije prisustvo nego pristup. Vecina objavljuje bez strategije -- random slike, genericke poruke, copy-paste postovi. Rezultat: nula engagement-a, nula prodaje, frustracija i zaključak da "društvene mreže ne rade".
 
-Drustvene mreze rade. Ali zahtevaju strategiju prilagodjenu velicini firme, resursima i ciljevima.
+Društvene mreže rade. Ali zahtevaju strategiju prilagodjenu velicini firme, resursima i ciljevima.
 
 ## Koja platforma za koji tip biznisa
 
@@ -10981,97 +10980,97 @@ Drustvene mreze rade. Ali zahtevaju strategiju prilagodjenu velicini firme, resu
 
 **Za koga:** Vizuelni biznisi -- restorani, saloni, butici, fitnes, kozmetika, fotografija, dizajn enterijera.
 
-**Zasto:** Najveci organski doseg trenutno dolazi sa Reels formata. Instagram favorizuje kratke videe (15-90 sekundi) i daje im 3-5x veci doseg od staticnih slika.
+**Zašto:** Najveći organski doseg trenutno dolazi sa Reels formata. Instagram favorizuje kratke videe (15-90 sekundi) i daje im 3-5x veći doseg od staticnih slika.
 
-**Ucestalost:** 4-5 postova nedeljno (mix Reels + carousel + Stories svaki dan).
+**Učestalost:** 4-5 postova nedeljno (mix Reels + carousel + Stories svaki dan).
 
-Za placene kampanje pogledaj [Instagram reklame cena](/instagram-reklame-cena).
+Za plaćene kampanje pogledaj [Instagram reklame cena](/instagram-reklame-cena).
 
 ### Facebook
 
 **Za koga:** Lokalni biznisi koji ciljaju 35+ demografiju, firme koje koriste Facebook grupe, biznisi sa e-commerce (Facebook Marketplace).
 
-**Zasto:** Organski doseg na Facebook-u je praktično mrtav (2-5% pratilaca vidi vas post). Ali Facebook grupe i Marketplace i dalje donose rezultate. Placeni oglasi na Facebook-u su jeftiniji od Instagram-a za neke demografije.
+**Zašto:** Organski doseg na Facebook-u je praktično mrtav (2-5% pratilaca vidi vaš post). Ali Facebook grupe i Marketplace i dalje donose rezultate. Plaćeni oglasi na Facebook-u su jeftiniji od Instagram-a za neke demografije.
 
-**Ucestalost:** 3-4 posta nedeljno + aktivno ucesce u relevantnim grupama.
+**Učestalost:** 3-4 posta nedeljno + aktivno učešće u relevantnim grupama.
 
 ### LinkedIn
 
 **Za koga:** B2B firme, konsultanti, agencije, IT firme, profesionalne usluge.
 
-**Zasto:** Najkvalitetniji lead-ovi za B2B. Licni profili imaju 5-10x veci doseg od company page-ova. Za vise detalja pogledaj nas vodic o [LinkedIn marketingu za B2B firme](/blog/linkedin-marketing-za-b2b-firme-srbija-2026).
+**Zašto:** Najkvalitetniji lead-ovi za B2B. Licni profili imaju 5-10x veći doseg od company page-ova. Za više detalja pogledaj nas vodič o [LinkedIn marketingu za B2B firme](/blog/linkedin-marketing-za-b2b-firme-srbija-2026).
 
-**Ucestalost:** 3-5 postova nedeljno sa licnog profila + 2 sa company page-a.
+**Učestalost:** 3-5 postova nedeljno sa licnog profila + 2 sa company page-a.
 
 ### TikTok
 
 **Za koga:** Firme koje ciljaju 18-35 demografiju, vizuelni proizvodi, entertainment-adjacent biznisi.
 
-**Zasto:** Najveci organski doseg od svih platformi. Novi nalozi mogu da dobiju desetine hiljada pregleda sa prvim videom ako je sadrzaj dobar.
+**Zašto:** Najveći organski doseg od svih platformi. Novi nalozi mogu da dobiju desetine hiljada pregleda sa prvim videom ako je sadržaj dobar.
 
-**Ucestalost:** 5-7 videa nedeljno (kratki, autenticni, trendovi).
+**Učestalost:** 5-7 videa nedeljno (kratki, autentični, trendovi).
 
 ### Google Business (bonus)
 
-Nije klasicna drustvena mreza, ali GBP postovi uticu na lokalni SEO. Svaka lokalna firma treba da objavljuje bar 2-3 GBP posta nedeljno (ponude, novosti, dogadjaji).
+Nije klasicna društvena mreža, ali GBP postovi uticu na lokalni SEO. Svaka lokalna firma treba da objavljuje bar 2-3 GBP posta nedeljno (ponude, novosti, događaji).
 
-## Content pillari: sta objavljivati
+## Content pillari: šta objavljivati
 
-Umesto da svaki dan razmisljate sta da objavite, definisajte 3-4 content pillara oko kojih rotirate sadrzaj:
+Umesto da svaki dan razmišljate šta da objavite, definisajte 3-4 content pillara oko kojih rotirate sadržaj:
 
-### 1) Edukacija (40% sadrzaja)
+### 1) Edukacija (40% sadržaja)
 
-Naucite publiku nesto korisno iz vase oblasti. FAQ vasih kupaca je zlatni rudnik za ideje. Svako pitanje koje vam klijent postavi licem u lice je potencijalan post.
+Naučite publiku nešto korisno iz vaše oblasti. FAQ vaših kupaca je zlatni rudnik za ideje. Svako pitanje koje vam klijent postavi licem u lice je potencijalan post.
 
-**Primeri:** "3 greske koje pravite kad birate [vas proizvod/uslugu]", "Kako prepoznati kvalitetan [proizvod]", "Sta morate znati pre nego sto [akcija vezana za vas biznis]".
+**Primeri:** "3 greške koje pravite kad birate [vaš proizvod/uslugu]", "Kako prepoznati kvalitetan [proizvod]", "Šta morate znati pre nego sto [akcija vezana za vaš biznis]".
 
-### 2) Behind-the-scenes (25% sadrzaja)
+### 2) Behind-the-scenes (25% sadržaja)
 
-Pokazite kako radite. Proces, tim, radni dan, priprema, pakovanje. Ovo gradi poverenje i humanizuje brend.
+Pokažite kako radite. Proces, tim, radni dan, priprema, pakovanje. Ovo gradi poverenje i humanizuje brend.
 
 **Primeri:** "Kako izgleda nas radni dan", "Proces izrade od A do Z", "Upoznajte nas tim".
 
-### 3) Social proof (20% sadrzaja)
+### 3) Social proof (20% sadržaja)
 
-Recenzije kupaca, pre/posle fotografije, studije slucaja, brojevi (prodati komadi, zadovoljni klijenti, godine iskustva).
+Recenzije kupaca, pre/posle fotografije, studije slučaja, brojevi (prodati komadi, zadovoljni klijenti, godine iskustva).
 
 **Primeri:** Testimonijal u carousel formatu, pre/posle transformacija, screenshot pozitivne recenzije sa komentarom.
 
-### 4) Ponude i CTA (15% sadrzaja)
+### 4) Ponude i CTA (15% sadržaja)
 
-Direktna prodaja -- novi proizvodi, akcije, sezonske ponude. Ovo je jedini pillar gde direktno trazite prodaju. Ako je vise od 20%, publika ce vas dozivljavati kao spam.
+Direktna prodaja -- novi proizvodi, akcije, sezonske ponude. Ovo je jedini pillar gde direktno tražite prodaju. Ako je više od 20%, publika će vas doživljavati kao spam.
 
-## Najcesce greske malih firmi na drustvenim mrezama
+## Najčešće greške malih firmi na društvenim mrežama
 
-### 1) Isti sadrzaj na svim platformama
+### 1) Isti sadržaj na svim platformama
 
-Instagram, LinkedIn i TikTok imaju razlicite publike i formate. Copy-paste istog posta na sve platforme znaci da nigde ne radite optimalno. Prilagodite bar ton i format za svaku platformu.
+Instagram, LinkedIn i TikTok imaju različite publike i formate. Copy-paste istog posta na sve platforme znači da nigde ne radite optimalno. Prilagodite bar ton i format za svaku platformu.
 
 ### 2) Fokus na broj pratilaca umesto na engagement
 
-10.000 pratilaca bez interakcije je gore od 1.000 pratilaca koji komentarisu i kupuju. Engagement rate je jedini metrik koji zaista korelira sa prodajom.
+10.000 pratilaca bez interakcije je gore od 1.000 pratilaca koji komentarišu i kupuju. Engagement rate je jedini metrik koji zaista korelira sa prodajom.
 
 ### 3) Neredovnost
 
-Objavite 10 postova u jednoj nedelji pa nestanete na mesec dana. Algoritmi kaznjavaju neredovnost. Bolje je 3 posta nedeljno konzistentno nego 10 pa nula.
+Objavite 10 postova u jednoj nedelji pa nestanete na mesec dana. Algoritmi kažnjavaju neredovnost. Bolje je 3 posta nedeljno konzistentno nego 10 pa nula.
 
 ### 4) Ignorisanje komentara i poruka
 
-Drustvene mreze su dvosmerna komunikacija. Svaki komentar koji ignorisete je propustena prilika za konverziju. Odgovarajte na sve u roku od 2 sata (algoritam nagradjuje brze odgovore).
+Društvene mreže su dvosmerna komunikacija. Svaki komentar koji ignorišete je propustena prilika za konverziju. Odgovarajte na sve u roku od 2 sata (algoritam nagrađuje brže odgovore).
 
 ### 5) Nema merenja rezultata
 
-Bez pracenja sta radi, a sta ne radi, ne mozete optimizovati strategiju. Minimum: pratite doseg, engagement rate, klikove na sajt i konverzije mesecno.
+Bez praćenja šta radi, a šta ne radi, ne možete optimizovati strategiju. Minimum: pratite doseg, engagement rate, klikove na sajt i konverzije mesecno.
 
-## Alati za efikasno upravljanje drustvenim mrezama
+## Alati za efikasno upravljanje društvenim mrežama
 
-- **Canva** -- dizajn postova, Stories templejti, carousel kreator (besplatan plan dovoljan za pocetak).
+- **Canva** -- dizajn postova, Stories templejti, carousel kreator (besplatan plan dovoljan za početak).
 - **Later/Buffer** -- zakazivanje postova unapred (besplatan plan za 1 profil po platformi).
 - **CapCut** -- montaza kratkih videa za Reels/TikTok.
 - **Meta Business Suite** -- upravljanje Facebook + Instagram sa jednog mesta (besplatan).
-- **Google Analytics** -- merenje saobracaja sa drustvenih mreza na sajt.
+- **Google Analytics** -- merenje saobraćaja sa društvenih mreža na sajt.
 
-## 30-dnevni plan za pocetak
+## 30-dnevni plan za početak
 
 **Nedelja 1:** Odaberite 1-2 platforme (ne sve odjednom). Definisajte 3 content pillara. Napravite 5 postova unapred.
 
@@ -11079,7 +11078,7 @@ Bez pracenja sta radi, a sta ne radi, ne mozete optimizovati strategiju. Minimum
 
 **Nedelja 3:** Analizirajte koji post je imao najvise engagement-a. Ponovite taj format. Testirajte carousel post.
 
-**Nedelja 4:** Napravite content kalendar za sledeci mesec. Razmotrite minimalni budzet za boost najuspesnijeg posta (20-50 EUR).
+**Nedelja 4:** Napravite content kalendar za sledeći mesec. Razmotrite minimalni budžet za boost najuspešnijeg posta (20-50 EUR).
 
 Za kompletnu digital strategiju pogledaj [cene digitalnog marketinga](/cene-digitalnog-marketinga) ili se javite preko [kontakt forme](/kontakt).
 `
@@ -11538,263 +11537,263 @@ Ako trazite agenciju koja ispunjava sve ove kriterijume za srpsko trziste, pogle
     content: `
 ## Email marketing cena u Srbiji 2026: kratak odgovor
 
-Mesecni troskovi email marketinga za srpsku firmu najcesce izgledaju ovako:
+Mesečni troškovi email marketinga za srpsku firmu najčešće izgledaju ovako:
 
-- **Micro biznis (do 500 kontakata):** 0e-25e mesecno za alat + 200e-400e za outsource vodjenje, ili 0e ako radite sami.
-- **Mali biznis (500-5.000 kontakata):** 25e-80e mesecno za alat + 300e-600e za kreiranje kampanja i automatizacija.
-- **Srednji biznis (5.000-25.000 kontakata):** 80e-250e mesecno za alat + 500e-1.200e za strategiju i implementaciju.
-- **Veci biznis (25.000+ kontakata):** 250e-800e+ mesecno za alat + 800e-2.000e+ za full-service upravljanje.
+- **Micro biznis (do 500 kontakata):** 0e-25e mesečno za alat + 200e-400e za outsource vođenje, ili 0e ako radite sami.
+- **Mali biznis (500-5.000 kontakata):** 25e-80e mesečno za alat + 300e-600e za kreiranje kampanja i automatizacija.
+- **Srednji biznis (5.000-25.000 kontakata):** 80e-250e mesečno za alat + 500e-1.200e za strategiju i implementaciju.
+- **Veći biznis (25.000+ kontakata):** 250e-800e+ mesečno za alat + 800e-2.000e+ za full-service upravljanje.
 
-Za siru sliku troskova digitalnog marketinga pogledaj [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Za širu sliku troškova digitalnog marketinga pogledaj [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-## Zasto email marketing jos uvek ima najveci ROI od svih kanala
+## Zašto email marketing još uvek ima najveći ROI od svih kanala
 
-Prosecni ROI email marketinga je oko 36:1 prema DMA izvestajima. Za svaki ulozeni euro vratite 36. Nijedan drugi digitalni kanal ne dolazi ni blizu ovog odnosa.
+Prosečni ROI email marketinga je oko 36:1 prema DMA izveštajima. Za svaki uloženi euro vratite 36. Nijedan drugi digitalni kanal ne dolazi ni blizu ovog odnosa.
 
-Razlog je jednostavan: email lista je vas vlasnistvo. Instagram moze da vam smanji reach sutra, Google moze da vas skloni iz rezultata posle update-a algoritma. Vas email list niko ne moze da vam oduzme.
+Razlog je jednostavan: email lista je vaše vlasništvo. Instagram može da vam smanji reach sutra, Google može da vas skloni iz rezultata posle update-a algoritma. Vaš email list niko ne može da vam oduzme.
 
-Za srpske firme email je posebno relevantan jer je trziste dovoljno malo da personalizovane kampanje prave ogromnu razliku. Kad imate 3.000 kontakata u Srbiji, mozete ih segmentirati po gradu, industriji i ponasanju tako precizno da svaki mejl deluje kao da je pisan rucno.
+Za srpske firme email je posebno relevantan jer je tržište dovoljno malo da personalizovane kampanje prave ogromnu razliku. Kad imate 3.000 kontakata u Srbiji, možete ih segmentirati po gradu, industriji i ponašanju tako precizno da svaki mejl deluje kao da je pisan ručno.
 
-## Poredjenje email marketing alata za srpske firme
+## Poređenje email marketing alata za srpske firme
 
-### Brevo (ex Sendinblue) — najbolji odnos cene i mogucnosti
-Besplatan plan do 300 mejlova dnevno (neograniceni kontakti). Placeni planovi od 25e mesecno za 20.000 mejlova. Automatizacije, landing stranice i CRM ukljuceni. Serveri u EU (GDPR compliance iz kutije). Srpski interfejs nije dostupan ali je podrska na engleskom dobra.
+### Brevo (ex Sendinblue) — najbolji odnos cene i mogućnosti
+Besplatan plan do 300 mejlova dnevno (neograničeni kontakti). Plaćeni planovi od 25e mesečno za 20.000 mejlova. Automatizacije, landing stranice i CRM uključeni. Serveri u EU (GDPR compliance iz kutije). Srpski interfejs nije dostupan, ali je podrška na engleskom dobra.
 
-### Mailchimp — najpopularniji ali najskuplji
-Besplatan plan do 500 kontakata i 1.000 mejlova mesecno. Placeni planovi od 13$ mesecno ali cena brzo raste sa brojem kontakata. Na 5.000 kontakata placate 65$ mesecno. Na 25.000 kontakata vec ste na 200const rawBlogPosts = [. Odlicni template-ovi i integracije ali cena postaje problem za rastuce firme.
+### Mailchimp — najpopularniji, ali najskuplji
+Besplatan plan do 500 kontakata i 1.000 mejlova mesečno. Plaćeni planovi od 13$ mesečno, ali cena brzo raste sa brojem kontakata. Na 5.000 kontakata plaćate 65$ mesečno, a na 25.000 kontakata cena već ulazi u 200$+ mesečno. Odlični template-ovi i integracije, ali cena postaje problem za rastuće firme.
 
 ### Klaviyo — za e-commerce
-Besplatan plan do 250 kontakata. Specijalizovan za e-commerce sa dubinskim integracijama za Shopify i WooCommerce. Automatizovani tokovi (abandoned cart, post-purchase, win-back) su mnogo napredniji nego kod konkurencije. Cena: od 20$ mesecno za 500 kontakata do 150const rawBlogPosts = [ za 10.000. Za online prodavnice u Srbiji ovo je najjaci alat.
+Besplatan plan do 250 kontakata. Specijalizovan za e-commerce sa dubinskim integracijama za Shopify i WooCommerce. Automatizovani tokovi (abandoned cart, post-purchase, win-back) su mnogo napredniji nego kod konkurencije. Cena ide od oko 20$ mesečno za 500 kontakata do oko 150$ za 10.000. Za online prodavnice u Srbiji ovo je najjači alat.
 
-### MailerLite — jednostavnost i pristupacna cena
-Besplatan plan do 1.000 pretplatnika. Placeni planovi od 9$ mesecno. Drag-and-drop editor je intuitivan, automatizacije su solidne za tu cenu. Odlican izbor za firme koje tek pocinju sa email marketingom i zele nesto jednostavno.
+### MailerLite — jednostavnost i pristupačna cena
+Besplatan plan do 1.000 pretplatnika. Plaćeni planovi od 9$ mesečno. Drag-and-drop editor je intuitivan, automatizacije su solidne za tu cenu. Odličan izbor za firme koje tek počinju sa email marketingom i žele nešto jednostavno.
 
-## Koje automatizacije donose najvise novca
+## Koje automatizacije donose najviše novca
 
 ### Welcome serijal (obavezna automatizacija)
-Serija od 3-5 mejlova koji se salju novim pretplatnicima. Prvi mejl odmah (hvala + obecani sadrzaj), drugi posle 2 dana (vasa prica i vrednosti), treci posle 4 dana (socijalni dokaz i testimonijali), cetvrti posle 7 dana (ponuda ili poziv na akciju). Welcome serijali imaju 4-5x veci open rate od regularnih kampanja.
+Serija od 3-5 mejlova koji se šalju novim pretplatnicima. Prvi mejl odmah (hvala + obećani sadržaj), drugi posle 2 dana (vaša priča i vrednosti), treći posle 4 dana (socijalni dokaz i testimonijali), četvrti posle 7 dana (ponuda ili poziv na akciju). Welcome serijali imaju 4-5x veći open rate od regularnih kampanja.
 
 ### Abandoned cart (za e-commerce)
-Mejl posle 1h, drugi posle 24h, treci posle 72h. Prosecno vracate 5-15% napustenih korpi. Za online prodavnicu sa 100 napustenih korpi mesecno i prosecnom vrednsocu od 50e, to je 250-750e dodatnog prihoda mesecno. Automatski. Samo od jedne automatizacije.
+Mejl posle 1h, drugi posle 24h, treći posle 72h. Prosečno vraćate 5-15% napuštenih korpi. Za online prodavnicu sa 100 napuštenih korpi mesečno i prosečnom vrednošću od 50e, to je 250-750e dodatnog prihoda mesečno. Automatski. Samo od jedne automatizacije.
 
 ### Post-purchase follow-up
-Mejl 3 dana posle kupovine (kako koristite proizvod), mejl posle 14 dana (review/feedback), mejl posle 30 dana (cross-sell srodnih proizvoda). Povecava repeat purchase rate i gradi lojalnost.
+Mejl 3 dana posle kupovine (kako koristite proizvod), mejl posle 14 dana (review/feedback), mejl posle 30 dana (cross-sell srodnih proizvoda). Povećava repeat purchase rate i gradi lojalnost.
 
 ### Re-engagement za neaktivne kontakte
-Mejl posle 60 dana neaktivnosti (nedostajete nam), ponuda posle 90 dana (specijalni popust za povratak), posle 120 dana odjava iz liste. Cisti listu i smanjuje troskove alata jer ne placate za kontakte koji nikad ne otvaraju vase mejlove.
+Mejl posle 60 dana neaktivnosti (nedostajete nam), ponuda posle 90 dana (specijalni popust za povratak), posle 120 dana odjava iz liste. Čisti listu i smanjuje troškove alata jer ne plaćate za kontakte koji nikad ne otvaraju vaše mejlove.
 
-## Najcesce greske srpskih firmi u email marketingu
+## Najčešće greške srpskih firmi u email marketingu
 
 ### 1) Kupuju email liste
-Kupljena lista garantuje spam complaint-e, lose otvaranje i potencijalnu crnu listu domene. Jedan los send na kupljenu listu od 5.000 kontakata moze da unisti reputaciju domene za mesece. Gradite listu organski ili ne radite uopste.
+Kupljena lista garantuje spam complaint-e, loše otvaranje i potencijalnu crnu listu domene. Jedan loš send na kupljenu listu od 5.000 kontakata može da uništi reputaciju domene za mesece. Gradite listu organski ili ne radite uopšte.
 
-### 2) Salju isti mejl celoj listi
-Segmentacija je razlika izmedju 15% open rate-a i 40% open rate-a. Minimum segmentacija: po lokaciji, po istoriji kupovine, po interesovanju. Personalizovani mejl ne znaci samo "Zdravo [Ime]" — znaci relevantan sadrzaj za tu osobu.
+### 2) Šalju isti mejl celoj listi
+Segmentacija je razlika između 15% open rate-a i 40% open rate-a. Minimum segmentacija: po lokaciji, po istoriji kupovine, po interesovanju. Personalizovani mejl ne znači samo "Zdravo [Ime]" — znači relevantan sadržaj za tu osobu.
 
-### 3) Salju samo kad imaju nesto za prodati
-Email lista koja prima samo promotivne mejlove brzo gubi pretplatnike. Odnos bi trebalo da bude 80% vrednost (saveti, vodici, novosti) i 20% prodaja. Gradite poverenje kroz vrednost, pa je prodaja prirodan nastavak.
+### 3) Šalju samo kad imaju nešto za prodati
+Email lista koja prima samo promotivne mejlove brzo gubi pretplatnike. Odnos bi trebalo da bude 80% vrednost (saveti, vodiči, novosti) i 20% prodaja. Gradite poverenje kroz vrednost, pa je prodaja prirodan nastavak.
 
-### 4) Ne prate metrike koje su vazne
-Open rate i click rate su pocetni indikatori ali pravi KPI je revenue po mejlu i revenue po pretplatniku mesecno. Ako ne povezete email alat sa prodajnim podataka, optimizujete naslepo.
+### 4) Ne prate metrike koje su važne
+Open rate i click rate su početni indikatori, ali pravi KPI je revenue po mejlu i revenue po pretplatniku mesečno. Ako ne povežete email alat sa prodajnim podacima, optimizujete naslepo.
 
 ## Plan za prvih 60 dana
 
-- **Nedelja 1-2:** Izaberite alat, uvezite postojecu bazu, postavite branding (logo, boje, template).
-- **Nedelja 3-4:** Napravite welcome serijal i lead magnet (vodic, checklista, popust). Postavite signup formu na sajt.
-- **Nedelja 5-6:** Posaljite prvu regularnu kampanju. Analizirajte open rate, click rate i odjave.
+- **Nedelja 1-2:** Izaberite alat, uvezite postojeću bazu, postavite branding (logo, boje, template).
+- **Nedelja 3-4:** Napravite welcome serijal i lead magnet (vodič, checklista, popust). Postavite signup formu na sajt.
+- **Nedelja 5-6:** Pošaljite prvu regularnu kampanju. Analizirajte open rate, click rate i odjave.
 - **Nedelja 7-8:** Postavite prvu automatizaciju (abandoned cart za e-commerce ili lead nurture za usluge). Segmentirajte listu na minimum 2-3 grupe.
 
-Za pomoc oko postavljanja email marketinga koji zaista donosi rezultate, [javite nam se](/kontakt). Ako zelite da kombinujete email sa placenim kanalima, pogledaj i [Instagram reklame cena](/instagram-reklame-cena) za poredjenje ROI-a po kanalima.
+Za pomoć oko postavljanja email marketinga koji zaista donosi rezultate, [javite nam se](/kontakt). Ako želite da kombinujete email sa plaćenim kanalima, pogledaj i [Instagram reklame cena](/instagram-reklame-cena) za poređenje ROI-a po kanalima.
 `
   },
   {
     slug: 'web-dizajn-trendovi-srbija-2026',
     title: 'Web dizajn trendovi u Srbiji 2026: šta zapravo donosi konverzije',
-    excerpt: 'Koji web dizajn trendovi zapravo pomazu srpskim firmama da prodaju više online. Bez floskula o metaverse-u, samo ono sto radi na domacem tržištu.',
+    excerpt: 'Koji web dizajn trendovi zapravo pomažu srpskim firmama da prodaju više online. Bez floskula o metaverse-u, samo ono što radi na domaćem tržištu.',
     date: '2026-03-17',
     category: 'Web Design',
     readTime: '7 min',
     content: `
-## Web dizajn u Srbiji 2026: sta se promenilo i zasto je vazno
+## Web dizajn u Srbiji 2026: šta se promenilo i zašto je važno
 
-Vecina clanaka o web dizajn trendovima nabrojava stvari kao sto su 3D animacije, AI generativne slike i glasovna navigacija. Mozda to radi u Americi, ali srpski korisnici imaju drugacije navike, sporiji internet na mobilnim mrezama i nula tolerancije za sajtove koji se sporo ucitavaju.
+Većina članaka o web dizajn trendovima nabraja stvari kao što su 3D animacije, AI generativne slike i glasovna navigacija. Možda to radi u Americi, ali srpski korisnici imaju drugačije navike, sporiji internet na mobilnim mrežama i nula tolerancije za sajtove koji se sporo učitavaju.
 
-Ovo je prakticna lista onoga sto zapravo pomaze srpskim firmama da dobiju vise upita i prodaja sa sajta.
+Ovo je praktična lista onoga što zapravo pomaže srpskim firmama da dobiju više upita i prodaja sa sajta.
 
-## 1. Brzina ucitavanja je dizajn odluka
+## 1. Brzina učitavanja je dizajn odluka
 
-Sajt koji se ucitava 4 sekunde gubi 53% mobilnih posetilaca pre nego sto vide prvu stranicu. U Srbiji, gde veliki deo saobracaja dolazi sa 4G mreza sa promenljivim kvalitetom signala, ovo je kriticno.
+Sajt koji se učitava 4 sekunde gubi 53% mobilnih posetilaca pre nego što vide prvu stranicu. U Srbiji, gde veliki deo saobraćaja dolazi sa 4G mreža sa promenljivim kvalitetom signala, ovo je kritično.
 
-Sta to konkretno znaci za dizajn:
+Šta to konkretno znači za dizajn:
 - Slike u WebP formatu umesto PNG/JPG (30-50% manje)
 - Lazy loading za sve ispod prvog ekrana
 - Sistemski fontovi ili maksimalno 2 custom fonta
-- Minimalan JavaScript na pocetnom ucitavanju
+- Minimalan JavaScript na početnom učitavanju
 
-Ako sajt nema Core Web Vitals u zelenom, sve ostale dizajn odluke su nebitne jer ih korisnici nece ni videti.
+Ako sajt nema Core Web Vitals u zelenom, sve ostale dizajn odluke su nebitne jer ih korisnici neće ni videti.
 
-## 2. Mobile-first nije opcija nego polazna tacka
+## 2. Mobile-first nije opcija nego polazna tačka
 
-65%+ saobracaja na srpskim sajtovima dolazi sa mobilnih uredjaja. Ali "responsive dizajn" ne znaci samo da se elementi smeste na uzi ekran.
+65%+ saobraćaja na srpskim sajtovima dolazi sa mobilnih uređaja. Ali "responsive dizajn" ne znači samo da se elementi smeste na uži ekran.
 
-Mobile-first dizajn znaci da pocinjete projektovanje sa telefonom. Navigacija mora da radi sa palcem jedne ruke. Dugmad za CTA moraju biti dovoljno velika da ih pogodite iz prvog pokusaja. Forme ne smeju imati vise od 3-4 polja na telefonu.
+Mobile-first dizajn znači da počinjete projektovanje sa telefonom. Navigacija mora da radi sa palcem jedne ruke. Dugmad za CTA moraju biti dovoljno velika da ih pogodite iz prvog pokušaja. Forme ne smeju imati više od 3-4 polja na telefonu.
 
-Prakticna provera: otvorite sajt na telefonu i pokusajte da zavrsite akciju (zakazivanje termina, slanje upita, kupovina) koristeci samo jednu ruku. Ako je tesko, dizajn ne radi.
+Praktična provera: otvorite sajt na telefonu i pokušajte da završite akciju (zakazivanje termina, slanje upita, kupovina) koristeći samo jednu ruku. Ako je teško, dizajn ne radi.
 
 ## 3. Jasna hijerarhija umesto kreativnog haosa
 
-Posetilac ima 3-5 sekundi da shvati sta firma radi i sta treba da uradi sledece. Kreativni layout-i sa nestandardnom navigacijom i tekstom rasutim po stranici zbunjuju korisnike umesto da ih impresioniraju.
+Posetilac ima 3-5 sekundi da shvati šta firma radi i šta treba da uradi sledeće. Kreativni layout-i sa nestandardnom navigacijom i tekstom rasutim po stranici zbunjuju korisnike umesto da ih impresioniraju.
 
-Ono sto radi:
-- Jedan jasan naslov iznad pregiba koji opisuje sta firma radi i za koga
-- Jedan CTA button koji govori korisniku sta da uradi sledece
-- Vizuelni social proof (logotipi klijenata, broj zavrenih projekata, recenzije)
+Ono što radi:
+- Jedan jasan naslov iznad pregiba koji opisuje šta firma radi i za koga
+- Jedan CTA button koji govori korisniku šta da uradi sledeće
+- Vizuelni social proof (logotipi klijenata, broj završenih projekata, recenzije)
 - Konzistentna navigacija sa maksimalno 6-7 stavki
 
 ## 4. Forme koje ne teraju ljude da odustanu
 
-Svako dodatno polje u kontakt formi smanjuje konverziju za 4-5%. Vecina srpskih sajtova trazi ime, prezime, email, telefon, firmu, grad, poruku i "kako ste culi za nas". To je 8 polja za nekoga ko samo zeli da pita koliko nesto kosta.
+Svako dodatno polje u kontakt formi smanjuje konverziju za 4-5%. Većina srpskih sajtova traži ime, prezime, email, telefon, firmu, grad, poruku i "kako ste čuli za nas". To je 8 polja za nekoga ko samo želi da pita koliko nešto košta.
 
-Minimalna forma koja radi: ime, kontakt (email ili telefon — jedno polje), poruka. Sve ostalo mozete pitati u odgovoru.
+Minimalna forma koja radi: ime, kontakt (email ili telefon — jedno polje), poruka. Sve ostalo možete pitati u odgovoru.
 
-Ako vam je forma dugacka jer morate da kvalifikujete lead-ove, koristite visekoracnu formu (wizard) gde svaki korak ima 1-2 pitanja. Psihologija commitment-a: kad neko popuni prvi korak, mnogo veca je sansa da zavrsi preostale.
+Ako vam je forma dugačka jer morate da kvalifikujete lead-ove, koristite višekoračnu formu (wizard) gde svaki korak ima 1-2 pitanja. Psihologija commitment-a: kad neko popuni prvi korak, mnogo veća je šansa da završi preostale.
 
 ## 5. Tipografija i razmaci umesto dekoracija
 
-Najcistija promena koju mozete napraviti na prosecnom srpskom sajtu: povecajte razmake izmedju sekcija, povecajte velicinu body teksta na 18px minimum i koristite maksimalno 2 fonta.
+Najčistija promena koju možete napraviti na prosečnom srpskom sajtu: povećajte razmake između sekcija, povećajte veličinu body teksta na 18px minimum i koristite maksimalno 2 fonta.
 
-Srpski jezik ima dijakritike (s, c, z, dj) koje zauzimaju vise vizuelnog prostora nego engleski. Font koji izgleda odlicno na engleskom tekstu moze izgledati zaguseno na srpskom. Testirajte tipografiju sa stvarnim srpskim tekstom, ne sa Lorem ipsum.
+Srpski jezik ima dijakritike (š, č, ž, đ) koje zauzimaju više vizuelnog prostora nego engleski. Font koji izgleda odlično na engleskom tekstu može izgledati zagušeno na srpskom. Testirajte tipografiju sa stvarnim srpskim tekstom, ne sa Lorem ipsum.
 
 ## 6. Trust signali iznad pregiba
 
-Srpski korisnici su skepticni prema online firmama. Prvo pitanje koje postavljaju je "da li je ovo legitimna firma". Zato trust signali moraju biti vidljivi bez skrolovanja:
+Srpski korisnici su skeptični prema online firmama. Prvo pitanje koje postavljaju je "da li je ovo legitimna firma". Zato trust signali moraju biti vidljivi bez skrolovanja:
 
 - Logotipi klijenata ili partnera
 - Broj godina poslovanja
 - Google recenzije sa ocenom (ne samo zvezdice nego i broj recenzija)
 - Profesionalne fotografije tima ili prostora (ne stock fotografije)
 
-Stock fotografije nasmejanih ljudi u kancelariji su postale signal za "ovo je genericki sajt" i kontraefekat su. Bolje staviti pravu fotografiju kancelarije (cak i ako nije savršena) nego laznu sliku.
+Stock fotografije nasmejanih ljudi u kancelariji su postale signal za "ovo je generički sajt" i kontraefekat su. Bolje staviti pravu fotografiju kancelarije (čak i ako nije savršena) nego lažnu sliku.
 
 ## 7. Lokalizacija nije samo prevod
 
 Sajt na srpskom treba da ima:
 - Cene u dinarima (ili evrima sa naznakom) — ne u dolarima
-- Srpske primere i reference (ne americke case study)
-- Kontakt koji ukljucuje telefon (srpski korisnici i dalje preferiraju poziv)
+- Srpske primere i reference (ne američke case study)
+- Kontakt koji uključuje telefon (srpski korisnici i dalje preferiraju poziv)
 - Adresu i mapu (posebno za lokalne biznise)
 
-Sajt koji izgleda kao prevedena americka stranica gubi kredibilitet kod lokalnih korisnika.
+Sajt koji izgleda kao prevedena američka stranica gubi kredibilitet kod lokalnih korisnika.
 
-## Sta ovo znaci za vas sajt
+## Šta ovo znači za vaš sajt
 
-Ako vas sajt ne prolazi ove osnovne provere, nijedan vizuelni trend ga nece spasiti. Lepi sajtovi koji su spori, konfuzni na telefonu i nemaju jasne CTA su samo skupi digitalni brosevi koji nikoga ne ubede.
+Ako vaš sajt ne prolazi ove osnovne provere, nijedan vizuelni trend ga neće spasiti. Lepi sajtovi koji su spori, konfuzni na telefonu i nemaju jasne CTA su samo skupe digitalne brošure koje nikoga ne ubede.
 
 Za detaljniju analizu pogledajte [cene izrade sajta](/cene-izrade-sajta) i [WordPress sajtove](/izrada-wordpress-sajta-cena).
 
-Ako zelite nezavisnu procenu koliko vas trenutni sajt gubi posetilaca i prodaja, javite se preko [kontakt forme](/kontakt).
+Ako želite nezavisnu procenu koliko vaš trenutni sajt gubi posetilaca i prodaja, javite se preko [kontakt forme](/kontakt).
 `
   },
   {
     slug: 'on-page-seo-checklista-srbija-2026',
     title: 'On-page SEO checklista za sajt u Srbiji 2026: 15 koraka koji zapravo menjaju rang',
-    excerpt: 'Kompletna on-page SEO checklista za srpske sajtove u 2026. Bez genericnih saveta — samo koraci koji zaista uticu na Google rang i organski saobraćaj.',
+    excerpt: 'Kompletna on-page SEO checklista za srpske sajtove u 2026. Bez generičnih saveta — samo koraci koji zaista utiču na Google rang i organski saobraćaj.',
     date: '2026-03-17',
     category: 'SEO',
     readTime: '9 min',
     content: `
-## Zasto vecina SEO checklisti ne pomaze
+## Zašto većina SEO checklisti ne pomaže
 
-Vecina vodiča za on-page SEO ponavlja iste savete iz 2018. "Stavite keyword u title" i "koristite alt tagove" su korisni koliko i savet "jedite manje" nekome ko pokusava da smrsa. Tehniki tacno, prakticno beskorisno bez konteksta.
+Većina vodiča za on-page SEO ponavlja iste savete iz 2018. "Stavite keyword u title" i "koristite alt tagove" su korisni koliko i savet "jedite manje" nekome ko pokušava da smrša. Tehnički tačno, praktično beskorisno bez konteksta.
 
-Ova checklista je drugacija jer je bazirana na tome sta zapravo menja rang za sajtove koji rade na srpskom trzistu. Redosled koraka nije slucajan — poredani su po uticaju na poziciju.
+Ova checklista je drugačija jer je bazirana na tome šta zapravo menja rang za sajtove koji rade na srpskom tržištu. Redosled koraka nije slučajan — poređani su po uticaju na poziciju.
 
-## Korak 1: Proverite da li vas sajt uopste moze da se indeksira
+## Korak 1: Proverite da li vaš sajt uopšte može da se indeksira
 
-Pre bilo kakve optimizacije, otvorite Google Search Console i pogledajte koliko stranica je indeksirano. Ako imate 50 stranica a Google je indeksirao 15, imate tehncki problem koji nijedan keyword nece resiti. Najcesci uzroci: robots.txt blokira crawlere, noindex tag na vaznim stranicama, canonical tag pokazuje na pogresnu URL adresu.
+Pre bilo kakve optimizacije, otvorite Google Search Console i pogledajte koliko stranica je indeksirano. Ako imate 50 stranica, a Google je indeksirao 15, imate tehnički problem koji nijedan keyword neće rešiti. Najčešći uzroci: robots.txt blokira crawlere, noindex tag na važnim stranicama, canonical tag pokazuje na pogrešnu URL adresu.
 
-Proverite: [Google Search Console](https://search.google.com/search-console) â†’ Indexing â†’ Pages.
+Proverite: [Google Search Console](https://search.google.com/search-console) → Indexing → Pages.
 
 ## Korak 2: Title tag koji radi dvostruki posao
 
-Title tag je i dalje najjaci on-page signal. Ali vecina sajtova pravi istu gresku: pisu title samo za Google, zaboravljajuci da covek mora da klikne na njega. Dobar title ima keyword blizu pocetka i razlog za klik.
+Title tag je i dalje najjači on-page signal. Ali većina sajtova pravi istu grešku: pišu title samo za Google, zaboravljajući da čovek mora da klikne na njega. Dobar title ima keyword blizu početka i razlog za klik.
 
 Primer koji ne radi: "SEO optimizacija | Kompanija XYZ"
-Primer koji radi: "SEO optimizacija za mala preduzeca u Srbiji — cene i rokovi"
+Primer koji radi: "SEO optimizacija za mala preduzeća u Srbiji — cene i rokovi"
 
-Razlika: drugi title ima keyword, lokalni signal (Srbija) i obecanje konkretne informacije (cene i rokovi) koja motivise klik.
+Razlika: drugi title ima keyword, lokalni signal (Srbija) i obećanje konkretne informacije (cene i rokovi) koja motiviše klik.
 
-## Korak 3: Meta description koji povecava CTR
+## Korak 3: Meta description koji povećava CTR
 
-Meta description ne utice direktno na rang, ali utice na klik. Google meri koliko ljudi klikne na vas rezultat u odnosu na konkurenciju. Veci CTR = vise organskog saobracaja = bolji rang tokom vremena.
+Meta description ne utiče direktno na rang, ali utiče na klik. Google meri koliko ljudi klikne na vaš rezultat u odnosu na konkurenciju. Veći CTR = više organskog saobraćaja = bolji rang tokom vremena.
 
-Pisanje meta opisa: pocnite sa koriscu za citaoca, ubacite jedan ili dva kljucna pojma (Google ih bolduje u rezultatima), zavrsiste sa pozivom na akciju ili obecanjem. Duzina: 140-155 karaktera.
+Pisanje meta opisa: počnite sa koristi za čitaoca, ubacite jedan ili dva ključna pojma (Google ih bolduje u rezultatima), završite sa pozivom na akciju ili obećanjem. Dužina: 140-155 karaktera.
 
 ## Korak 4: URL struktura koja ima smisla
 
-Kratke URL adrese rangiraju bolje od dugackih. Ali jos vaznije: URL mora da bude citljiv i da sadrzi glavnu kljucnu rec.
+Kratke URL adrese rangiraju bolje od dugačkih. Ali još važnije: URL mora da bude čitljiv i da sadrži glavnu ključnu reč.
 
-Lose: /page?id=4523
+Loše: /page?id=4523
 Bolje: /usluge/seo-optimizacija
 Najbolje: /seo-optimizacija-cena
 
-Izbegavajte srpska slova u URL-u (č, ć, š, ž, đ). Koristite latinicnu transliteraciju bez dijakritika. Google bolje razume "seo-optimizacija" nego "seo-optimizacija" sa cirilicnim karakterima.
+Izbegavajte srpska slova u URL-u (č, ć, š, ž, đ). Koristite latiničnu transliteraciju bez dijakritika. Google bolje razume čist ASCII slug nego URL sa ćiriličnim karakterima ili slučajno pomešanim encoding-om.
 
 ## Korak 5: H1 tag — jedan po stranici, keyword unutra
 
-Svaka stranica treba tacno jedan H1 tag. Trebalo bi da sadrzi glavni keyword za tu stranicu, ali ne mora da bude identican title tagu. H1 je za citaoca koji je vec na stranici, title je za citaoca u Google rezultatima.
+Svaka stranica treba tačno jedan H1 tag. Trebalo bi da sadrži glavni keyword za tu stranicu, ali ne mora da bude identičan title tagu. H1 je za čitaoca koji je već na stranici, title je za čitaoca u Google rezultatima.
 
-## Korak 6: Heading hijerarhija koja pomaze Google-u da razume strukturu
+## Korak 6: Heading hijerarhija koja pomaže Google-u da razume strukturu
 
-H2 tagovi su podteme. H3 tagovi su podteme podtema. Nikad ne preskacite nivoe (H1 pa odmah H4). Svaki H2 bi trebalo da sadrzi sekundarnu kljucnu rec ili varijaciju glavne.
+H2 tagovi su podteme. H3 tagovi su podteme podtema. Nikad ne preskačite nivoe (H1 pa odmah H4). Svaki H2 bi trebalo da sadrži sekundarnu ključnu reč ili varijaciju glavne.
 
-Ovo nije samo SEO — struktuiran sadrzaj drzi ljude na stranici duze, sto Google takodje meri.
+Ovo nije samo SEO — strukturiran sadržaj drži ljude na stranici duže, što Google takođe meri.
 
-## Korak 7: Sadrzaj koji zapravo odgovara na pretragu
+## Korak 7: Sadržaj koji zapravo odgovara na pretragu
 
-Google-ov cilj je da korisnik dobije odgovor bez da mora da klikne na drugi rezultat. Ako neko trazi "koliko kosta SEO optimizacija", a vas clanak pocne sa istorijom SEO-a, gubite poziciju. Odgovorite na pitanje u prvih 100 reci, pa onda dajte detalje.
+Google-ov cilj je da korisnik dobije odgovor bez da mora da klikne na drugi rezultat. Ako neko traži "koliko košta SEO optimizacija", a vaš članak počne sa istorijom SEO-a, gubite poziciju. Odgovorite na pitanje u prvih 100 reči, pa onda dajte detalje.
 
-Za siru sliku troskova pogledaj [cene digitalnog marketinga](/cene-digitalnog-marketinga) ili specficino [SEO optimizacija cena](/seo-optimizacija-cena).
+Za širu sliku troškova pogledaj [cene digitalnog marketinga](/cene-digitalnog-marketinga) ili specifično [SEO optimizacija cena](/seo-optimizacija-cena).
 
-## Korak 8: Interna linkovi — najjeftiniji SEO hack
+## Korak 8: Interni linkovi — najjeftiniji SEO hack
 
-Svaka stranica koja nema nijedan interni link ka njoj je "ostrvo" koje Google teze pronalazi i rangira. Svaka nova stranica treba minimum 3 interna linka sa relevantnih postojecih stranica.
+Svaka stranica koja nema nijedan interni link ka njoj je "ostrvo" koje Google teže pronalazi i rangira. Svaka nova stranica treba minimum 3 interna linka sa relevantnih postojećih stranica.
 
-Anchor tekst internog linka treba da sadrzi keyword ciljne stranice. "Kliknite ovde" ne pomaze Google-u da razume gde vodi link.
+Anchor tekst internog linka treba da sadrži keyword ciljne stranice. "Kliknite ovde" ne pomaže Google-u da razume gde vodi link.
 
 ## Korak 9: Slike — kompresija, format, alt tekst
 
-Slike su najcesci razlog sporog sajta. WebP format stedi 25-35% velicine u odnosu na JPEG bez vidljive razlike u kvalitetu. Svaka slika treba deskriptivan alt tekst koji opisuje sta je na slici i, gde je prirodno, sadrzi kljucnu rec.
+Slike su najčešći razlog sporog sajta. WebP format štedi 25-35% veličine u odnosu na JPEG bez vidljive razlike u kvalitetu. Svaka slika treba deskriptivan alt tekst koji opisuje šta je na slici i, gde je prirodno, sadrži ključnu reč.
 
-Lazy loading za slike koje nisu u vidljivom delu ekrana smanjuje vreme ucitavanja za 40-60%.
+Lazy loading za slike koje nisu u vidljivom delu ekrana smanjuje vreme učitavanja za 40-60%.
 
-## Korak 10: Core Web Vitals — brzina koja utice na rang
+## Korak 10: Core Web Vitals — brzina koja utiče na rang
 
-Od 2021. Google koristi Core Web Vitals kao faktor rangiranja. Tri metrike: LCP (koliko brzo se ucitava glavni sadrzaj), FID/INP (koliko brzo stranica reaguje na klik), CLS (koliko se layout pomera tokom ucitavanja).
+Od 2021. Google koristi Core Web Vitals kao faktor rangiranja. Tri metrike: LCP (koliko brzo se učitava glavni sadržaj), FID/INP (koliko brzo stranica reaguje na klik), CLS (koliko se layout pomera tokom učitavanja).
 
-Proverite: [PageSpeed Insights](https://pagespeed.web.dev/) za vas sajt. Fokusirajte se na mobilne rezultate jer Google koristi mobile-first indexing.
+Proverite: [PageSpeed Insights](https://pagespeed.web.dev/) za vaš sajt. Fokusirajte se na mobilne rezultate jer Google koristi mobile-first indexing.
 
 ## Korak 11: Schema markup za bogate rezultate
 
-Structured data ne menja direktno poziciju, ali povecava vidljivost u rezultatima. FAQ schema prikazuje pitanja i odgovore direktno u Google-u. LocalBusiness schema poboljsava lokalne rezultate. Article schema pomaze blogovima da se pojave u vest sekciji.
+Structured data ne menja direktno poziciju, ali povećava vidljivost u rezultatima. FAQ schema prikazuje pitanja i odgovore direktno u Google-u. LocalBusiness schema poboljšava lokalne rezultate. Article schema pomaže blogovima da se pojave u news sekciji.
 
-## Korak 12: HTTPS i mobilnaResponzivnost
+## Korak 12: HTTPS i mobilna responzivnost
 
-Ovo je 2026 — ako vas sajt jos nema SSL sertifikat ili nije prilagodjen za mobilne, to je hitno. Google daje prednost HTTPS sajtovima i koristi mobilnu verziju za rangiranje.
+Ovo je 2026 — ako vaš sajt još nema SSL sertifikat ili nije prilagođen za mobilne, to je hitno. Google daje prednost HTTPS sajtovima i koristi mobilnu verziju za rangiranje.
 
-## Korak 13: Sprecite kanibalizaciju kljucnih reci
+## Korak 13: Sprečite kanibalizaciju ključnih reči
 
-Ako imate tri stranice koje ciljaju istu kljucnu rec, Google ne zna koju da rangira i obicno ne rangira nijednu dobro. Proverite u Search Console koji upiti vode na koje stranice. Ako isti upit vodi na vise stranica, konsoldiujte ih ili jasno diferenciirajte sadrzaj.
+Ako imate tri stranice koje ciljaju istu ključnu reč, Google ne zna koju da rangira i obično ne rangira nijednu dobro. Proverite u Search Console koji upiti vode na koje stranice. Ako isti upit vodi na više stranica, konsolidujte ih ili jasno diferencirajte sadržaj.
 
-## Korak 14: Azurirajte stari sadrzaj
+## Korak 14: Ažurirajte stari sadržaj
 
-Blog post iz 2023. sa zastarelim statistikama gubi poziciju. Google preferira svez sadrzaj. Proverite svoje najpopularnije stranice, azurirajte podatke, dodajte nove sekcije i promenite datum objave. Cesto je brze poboljsati postojeci clanak nego napisati novi.
+Blog post iz 2023. sa zastarelim statistikama gubi poziciju. Google preferira svež sadržaj. Proverite svoje najpopularnije stranice, ažurirajte podatke, dodajte nove sekcije i promenite datum objave. Često je brže poboljšati postojeći članak nego napisati novi.
 
 ## Korak 15: Merenje i iteracija
 
-On-page SEO nije jednokratan posao. Postavite mesecni ciklus: proverite Search Console za nove upite, pogledajte koje stranice gube poziciju, analizirajte sta konkurencija radi za kljucne termine.
+On-page SEO nije jednokratan posao. Postavite mesečni ciklus: proverite Search Console za nove upite, pogledajte koje stranice gube poziciju, analizirajte šta konkurencija radi za ključne termine.
 
-Za pomoc oko SEO optimizacije vaseg sajta, javite se preko [kontakt forme](/kontakt) za besplatnu analizu.
+Za pomoć oko SEO optimizacije vašeg sajta, javite se preko [kontakt forme](/kontakt) za besplatnu analizu.
 `
   },
   {
@@ -12967,56 +12966,56 @@ Ako trazite partnera koji ne podize samo vizuelni okvir vec gradi prodajni alat 
     category: 'Marketing',
     readTime: '8 min',
     content: `
-## Vodjenje drustvenih mreza cena u Srbiji 2026 (kratak odgovor)
+## Vođenje društvenih mreža cena u Srbiji 2026 (kratak odgovor)
 
-Ako trazite upit **vodjenje drustvenih mreza cena**, evo najiskrenijeg odgovora za srpsko trziste u 2026. godini: raspon je najcesce **od 150eur do 800eur+ mesecno**.
+Ako tražite upit **vođenje društvenih mreža cena**, evo najiskrenijeg odgovora za srpsko tržište u 2026. godini: raspon je najčešće **od 150eur do 800eur+ mesecno**.
 
-Ipak, ogromna je razlika izmedju toga sta dobijate za 150eur, a sta za 800eur.
+Ipak, ogromna je razlika između toga šta dobijate za 150eur, a šta za 800eur.
 
-- **Mesecni paket od 150eur do 250eur:** Ovo obicno nudi pocetnik freelancer ili "fabrika" agencija. Dobijate genericke Canva objave, 3-4 posta nedeljno i osnovno zakazivanje (scheduling). Nema ozbiljne strategije ni vodjenja placenih reklama.
-- **Mesecni paket od 350eur do 600eur:** Standardna cena za iskusnog freelancera ili manju agenciju. Ukljucuje custom dizajn prilagodjen vasem brendu, copywriting, Reels montazu, strategiju sadrzaja, moderaciju stranice i vodjenje Facebook i Instagram reklama.
-- **Mesecni paket od 800eur i vise:** Premium nivo koji podrazumeva izlazak na teren (slikanje, snimanje, produkciju), napredne prodajne levkove (funnele), profesionalni copywriting po Alex Hormozi ili Sabri Suby modelu, kao i detaljnu analitiku.
+- **Mesecni paket od 150eur do 250eur:** Ovo obično nudi pocetnik freelancer ili "fabrika" agencija. Dobijate genericke Canva objave, 3-4 posta nedeljno i osnovno zakazivanje (scheduling). Nema ozbiljne strategije ni vođenja plaćenih reklama.
+- **Mesecni paket od 350eur do 600eur:** Standardna cena za iskusnog freelancera ili manju agenciju. Uključuje custom dizajn prilagođen vašem brendu, copywriting, Reels montazu, strategiju sadržaja, moderaciju stranice i vođenje Facebook i Instagram reklama.
+- **Mesecni paket od 800eur i više:** Premium nivo koji podrazumeva izlazak na teren (slikanje, snimanje, produkciju), napredne prodajne levkove (funnele), profesionalni copywriting po Alex Hormozi ili Sabri Suby modelu, kao i detaljnu analitiku.
 
 Cena je direktno srazmerna klijentskoj usluzi i dubini preuzetog posla sa vas na tim.
 
-## Sta realno ulazi u paket za vodjenje drustvenih mreza?
+## Šta realno ulazi u paket za vođenje društvenih mreža?
 
-Kada placate vodjenje mreza (Facebook, Instagram, LinkedIn, TikTok), nije sustina samo u broju "slika mesecno". Fokusirajte se na proces.
+Kada plaćate vođenje mreža (Facebook, Instagram, LinkedIn, TikTok), nije sustina samo u broju "slika mesecno". Fokusirajte se na proces.
 
 ### 1. Strategija i vizuelni identitet
-Uvek bezite od ponuda gde vas neko pita "Sta da objavimo sutra?". Dobra agencija prvo postavlja jasnu grid strategiju i ton komunikacije (Tone of Voice).
+Uvek bezite od ponuda gde vas neko pita "Šta da objavimo sutra?". Dobra agencija prvo postavlja jasnu grid strategiju i ton komunikacije (Tone of Voice).
 
-### 2. Kreiranje sadrzaja i dizajn
-Paket mora ukljucivati graficki dizajn (prilagodjen a ne skinut sa template baze bez modifikacije) i copywriting - tekstove koji zaustavljaju scroll ("hook") i podsticu reakciju (CTA).
+### 2. Kreiranje sadržaja i dizajn
+Paket mora uključivati graficki dizajn (prilagođen a ne skinut sa template baze bez modifikacije) i copywriting - tekstove koji zaustavljaju scroll ("hook") i podstiču reakciju (CTA).
 
 ### 3. Video produkcija (Reels, TikTok)
-U 2026. godini, samo staticne slike ne rade dovoljno dobro za doseg publike. Ugovoreni paket treba jasno definisati koliko Reels ili TikTok videa dobijate, kao i da li vi dostavljate sirov materijal ili ga agencija dolazi i snima.
+U 2026. godini, samo statične slike ne rade dovoljno dobro za doseg publike. Ugovoreni paket treba jasno definisati koliko Reels ili TikTok videa dobijate, kao i da li vi dostavljate sirov materijal ili ga agencija dolazi i snima.
 
 ### 4. Zakazivanje (Scheduling) i moderacija
-Vas posao nije da brinete kada se objavljuje post. Agencija odrzava kontinuitet i odgovara na komentare (ili filtrira spam komentare). 
+Vaš posao nije da brinete kada se objavljuje post. Agencija održava kontinuitet i odgovara na komentare (ili filtrira spam komentare). 
 
-### 5. Vodjenje oglasnih kampanja
-Vodjenje drustvenih mreza gubi 80% smisla ako nema paid strategije. Boost postova nije strategija! Potrebne su profesionalne kampanje iz Meta Ads Manager-a.
+### 5. Vođenje oglasnih kampanja
+Vođenje društvenih mreža gubi 80% smisla ako nema paid strategije. Boost postova nije strategija! Potrebne su profesionalne kampanje iz Meta Ads Manager-a.
 
-## Zasto vas paket od 100eur najcesce kosta mnogo vise?
+## Zašto vaš paket od 100eur najčešće košta mnogo više?
 
-Ovo zvuci kontraintuitivno, ali "jeftin" menadzer drustvenih mreza je najskuplji eksperiment. Zasto? Zato sto se vas biznis spusta u genericku fabriku sadrzaja.
+Ovo zvuci kontraintuitivno, ali "jeftin" menadzer društvenih mreža je najskuplji eksperiment. Zašto? Zato sto se vaš biznis spusta u genericku fabriku sadržaja.
 
-Dizajni se stancuju, tekst je pisan od strane AI robota (bez review-a), angazovanje publike opada i polako gubite profesionalni utisak pred novim klijentima. Pritom, trosite budzet na reklame koje vode ljude na dosadan i mrtav profil.
+Dizajni se stancuju, tekst je pisan od strane AI robota (bez review-a), angazovanje publike opada i polako gubite profesionalni utisak pred novim klijentima. Pritom, trosite budžet na reklame koje vode ljude na dosadan i mrtav profil.
 
 ## Kako odabrati pravog partnera?
 
-1. **Trazite studiju slucaja (Case Study):** Nemojte gledati samo lepe slike iz portfolija, gledajte rezultate - broj ostvarenih lead-ova ili rast prihoda.
-2. **Razumite model rada:** Dilema izmedju freelancera i tima je realna - [agencija vs freelancer](/agencija-vs-freelancer). Agencija nudi tim ljudi, a freelancer je jedna osoba koja uvek moze da "pregori" od viska posla.
-3. **Bezite od laznih pratilaca:** Nema potrebe za uslugama koje obecavaju "2.000 novih pratilaca mesecno" za malu cenu. Vi zelite prodaju, a ne botove.
+1. **Tražite studiju slučaja (Case Study):** Nemojte gledati samo lepe slike iz portfolija, gledajte rezultate - broj ostvarenih lead-ova ili rast prihoda.
+2. **Razumite model rada:** Dilema između freelancera i tima je realna - [agencija vs freelancer](/agencija-vs-freelancer). Agencija nudi tim ljudi, a freelancer je jedna osoba koja uvek može da "pregori" od viska posla.
+3. **Bezite od laznih pratilaca:** Nema potrebe za uslugama koje obećavaju "2.000 novih pratilaca mesecno" za malu cenu. Vi želite prodaju, a ne botove.
 
-## Zakljucak
+## Zaključak
 
-Ako ozbiljno gledate na nastup vase firme online u 2026. godini, budzetirajte srednju visu klasu (350eur - 600eur) gde znate da vas brend nece biti sablon.
-Ukoliko razmisljate sire o izradi sajtova i marketingu, korisno je procitati vise o troskovima [cene izrade sajta](/cene-izrade-sajta) kao i uopsteno o [cenama digitalnog marketinga](/cene-digitalnog-marketinga) te o [vodjenju Instagram reklama](/instagram-reklame-cena).
+Ako ozbiljno gledate na nastup vaše firme online u 2026. godini, budžetirajte srednju višu klasu (350eur - 600eur) gde znate da vaš brend neće biti šablon.
+Ukoliko razmišljate šire o izradi sajtova i marketingu, korisno je pročitati više o troskovima [cene izrade sajta](/cene-izrade-sajta) kao i uopšteno o [cenama digitalnog marketinga](/cene-digitalnog-marketinga) te o [vodjenju Instagram reklama](/instagram-reklame-cena).
 
 
-Ako zelite strategiju koja vas brend podize na visi nivo, javite se preko nase [kontakt forme](/kontakt) za prilagodjen plan. Za kompletan pregled, pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga) i [SEO optimizacija cena](/seo-optimizacija-cena).`
+Ako želite strategiju koja vaš brend podiže na viši nivo, javite se preko naše [kontakt forme](/kontakt) za prilagođen plan. Za kompletan pregled, pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga) i [SEO optimizacija cena](/seo-optimizacija-cena).`
   },
 
   {
@@ -13270,19 +13269,19 @@ Ako hoces, mogu da oznacim 5 najbrzih izmena za tvoju trenutnu stranicu preko [k
     category: 'WordPress',
     readTime: '10 min',
     content: `
-## Odrzavanje WordPress sajta cena u Srbiji 2026: kratak odgovor
+## Održavanje WordPress sajta cena u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **odrzavanje wordpress sajta cena**, realni rasponi na srpskom trzistu u 2026 najcesce izgledaju ovako:
+Ako tražiš upit **odrzavanje wordpress sajta cena**, realni rasponi na srpskom tržištu u 2026 najčešće izgledaju ovako:
 
 - **osnovni maintenance paket (mali sajt):** 70e-180e/mes,
 - **standardni poslovni paket (aktivan sajt + forme + SEO):** 180e-450e/mes,
-- **napredni paket (WooCommerce, kampanje, veci promet):** 450e-1.200e+/mes.
+- **napredni paket (WooCommerce, kampanje, veći promet):** 450e-1.200e+/mes.
 
-Ako pravis novi sajt i planiras trosak od starta, pogledaj i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+Ako praviš novi sajt i planiraš trošak od starta, pogledaj i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
 
-## Zasto "imam sajt" ne znaci da je sajt bezbedan i stabilan
+## Zašto "imam sajt" ne znači da je sajt bezbedan i stabilan
 
-WordPress sajt nije jednokratan projekat koji se "zavrsi" pa zaboravi.
+WordPress sajt nije jednokratan projekat koji se "završi" pa zaboravi.
 Svakog meseca se menjaju:
 
 1. WordPress core,
@@ -13290,42 +13289,42 @@ Svakog meseca se menjaju:
 3. bezbednosni rizici,
 4. Google kriterijumi kvaliteta (brzina, UX, trust signali).
 
-Ako to ne odrzavas redovno, prvo padne brzina i konverzija, a zatim i SEO vidljivost.
-Zato maintenance nije trosak "za svaki slucaj" nego osiguranje prihoda koji sajt treba da donosi.
+Ako to ne održavaš redovno, prvo padne brzina i konverzija, a zatim i SEO vidljivost.
+Zato maintenance nije trošak "za svaki slučaj" nego osiguranje prihoda koji sajt treba da donosi.
 
-## Sta mora da ulazi u ozbiljan WordPress maintenance paket
+## Šta mora da ulazi u ozbiljan WordPress maintenance paket
 
-Minimum koji treba da trazis u ponudi:
+Minimum koji treba da tražiš u ponudi:
 
 - redovni update WordPress core-a, plugin-a i tema,
 - dnevni ili nedeljni backup sa testiranim restore postupkom,
-- bezbednosni monitoring i blokada sumnjivih pokusaja logovanja,
-- uptime monitoring + reakcija na kriticne prekide,
+- bezbednosni monitoring i blokada sumnjivih pokušaja logovanja,
+- uptime monitoring + reakcija na kritične prekide,
 - osnovna optimizacija performansi (cache, image, database cleanup),
-- mesecni kratki izvestaj: sta je uradjeno, sta je rizik, sta je sledeci korak.
+- mesečni kratki izveštaj: šta je urađeno, šta je rizik, šta je sledeći korak.
 
-Ako maintenance ne ukljucuje ove stavke, placas "tehnicku dezuru", a ne pravi sistem odrzavanja.
+Ako maintenance ne uključuje ove stavke, plaćaš "tehničku dežuru", a ne pravi sistem održavanja.
 
-## Najcesce greske koje kasnije kostaju mnogo vise
+## Najčešće greške koje kasnije koštaju mnogo više
 
-### 1) "Sami cemo kliknuti update"
-Rucni update bez staging provere cesto razbije checkout, formu ili tracking skripte.
-Jedan los update moze pojesti visemesecnu ustedu.
+### 1) "Sami ćemo kliknuti update"
+Ručni update bez staging provere često razbije checkout, formu ili tracking skripte.
+Jedan loš update može pojesti višemesečnu uštedu.
 
 ### 2) Backup postoji, ali restore nije testiran
-Backup koji ne moze da se vrati u roku od par minuta nema operativnu vrednost.
+Backup koji ne može da se vrati u roku od par minuta nema operativnu vrednost.
 
 ### 3) Nema prioritizacije plugin-a
-Mnogo sajtova drzi plugin-e koji vise nisu potrebni, ali i dalje usporavaju sajt i otvaraju security rizik.
+Mnogo sajtova drži plugin-e koji više nisu potrebni, ali i dalje usporavaju sajt i otvaraju security rizik.
 
 ### 4) Nema dogovorenog SLA vremena reakcije
-Kad padne sajt tokom kampanje, razlika izmedju reakcije u 20 minuta i 6 sati je direktno izgubljen prihod.
+Kad padne sajt tokom kampanje, razlika između reakcije u 20 minuta i 6 sati je direktno izgubljen prihod.
 
-Ako sajt koristis za aktivnu akviziciju, povezi maintenance i sa [Google reklame cena](/google-reklame-cena) da znas koliki je rizik kada placeni saobracaj dolazi na nestabilnu stranicu.
+Ako sajt koristiš za aktivnu akviziciju, poveži maintenance i sa [Google reklame cena](/google-reklame-cena) da znaš koliki je rizik kada plaćeni saobraćaj dolazi na nestabilnu stranicu.
 
-## Kako da procenis koji maintenance paket je realan za tvoj biznis
+## Kako da proceniš koji maintenance paket je realan za tvoj biznis
 
-Praktican okvir:
+Praktičan okvir:
 
 ### Paket A (70e-180e/mes)
 Za prezentacione sajtove sa manjim prometom.
@@ -13333,55 +13332,55 @@ Bitno: update, backup, osnovni security monitoring.
 
 ### Paket B (180e-450e/mes)
 Za firme koje aktivno skupljaju leadove kroz kontakt forme i SEO.
-Bitno: update + backup + monitoring + periodicna optimizacija brzine + incident support.
+Bitno: update + backup + monitoring + periodična optimizacija brzine + incident support.
 
 ### Paket C (450e-1.200e+/mes)
-Za WooCommerce, sajtove sa kampanjama i vecim prometom.
-Bitno: sve iz B + prioritetni SLA, staging proces, napredniji log monitoring i kvartalni tehnicki audit.
+Za WooCommerce, sajtove sa kampanjama i većim prometom.
+Bitno: sve iz B + prioritetni SLA, staging proces, napredniji log monitoring i kvartalni tehnički audit.
 
-Ako ti je organski promet bitan kanal, maintenance treba da ukljuci i koordinaciju sa [SEO optimizacija cena](/seo-optimizacija-cena).
+Ako ti je organski promet bitan kanal, maintenance treba da uključuje i koordinaciju sa [SEO optimizacija cena](/seo-optimizacija-cena).
 
-## KPI koje maintenance stvarno treba da cuva
+## KPI koje maintenance stvarno treba da čuva
 
 Ne meri samo "da li sajt radi".
 Prati i ove brojke:
 
 1. uptime procenat,
-2. prosecan response time kriticnih stranica,
+2. prosečan response time kritičnih stranica,
 3. vreme reakcije na incident,
 4. broj bezbednosnih incidenata,
 5. trend Core Web Vitals metrika,
-6. broj leadova/porudzbina pre i posle vecih update-a.
+6. broj leadova/porudžbina pre i posle većih update-a.
 
-Kad maintenance tim prati ove KPI-jeve, smanjuje se broj "iznenadnih" problema i lakse se planira rast.
+Kad maintenance tim prati ove KPI-jeve, smanjuje se broj "iznenadnih" problema i lakše se planira rast.
 
-## 30-dnevni plan za prelazak sa haoticnog na stabilan WordPress setup
+## 30-dnevni plan za prelazak sa haotičnog na stabilan WordPress setup
 
-- **Nedelja 1:** tehnicki audit plugin-a, tema, server logova i backup procesa.
-- **Nedelja 2:** ciscenje nepotrebnih plugin-a + sigurnosno ojacavanje + monitoring setup.
-- **Nedelja 3:** optimizacija performansi na kriticnim stranicama (home, usluge, kontakt).
-- **Nedelja 4:** dokumentovan maintenance ritam + mesecni KPI report + plan sledecih optimizacija.
+- **Nedelja 1:** tehnički audit plugin-a, tema, server logova i backup procesa.
+- **Nedelja 2:** čišćenje nepotrebnih plugin-a + sigurnosno ojačavanje + monitoring setup.
+- **Nedelja 3:** optimizacija performansi na kritičnim stranicama (home, usluge, kontakt).
+- **Nedelja 4:** dokumentovan maintenance ritam + mesečni KPI report + plan sledećih optimizacija.
 
 Za komercijalni kontekst ulaganja pogledaj i [cene digitalnog marketinga](/cene-digitalnog-marketinga), da maintenance i akvizicija rade kao jedan sistem.
 
-## FAQ: odrzavanje WordPress sajta
+## FAQ: održavanje WordPress sajta
 
 ### Da li mi maintenance treba ako imam mali sajt?
-Da, jer i mali sajt moze biti meta napada ili pasti posle update konflikta. Razlika je samo u obimu paketa, ne u potrebi za odrzavanjem.
+Da, jer i mali sajt može biti meta napada ili pasti posle update konflikta. Razlika je samo u obimu paketa, ne u potrebi za održavanjem.
 
-### Da li je jeftinije da placam samo kad nesto pukne?
-Kratkorocno deluje jeftinije, ali je najcesce skuplje. Hitne intervencije, izgubljeni leadovi i SEO pad obicno kostaju vise od redovnog maintenance paketa.
+### Da li je jeftinije da plaćam samo kad nešto pukne?
+Kratkoročno deluje jeftinije, ali je najčešće skuplje. Hitne intervencije, izgubljeni leadovi i SEO pad obično koštaju više od redovnog maintenance paketa.
 
-### Koliko cesto treba raditi update?
-Najcesce nedeljno ili dvonedeljno, uz staging proveru za kriticne plugin-e (checkout, forme, analitika).
+### Koliko često treba raditi update?
+Najčešće nedeljno ili dvonedeljno, uz staging proveru za kritične plugin-e (checkout, forme, analitika).
 
-### Da li maintenance ukljucuje i SEO rad?
-Osnovni maintenance cuva tehnicku bazu (stabilnost, brzina, sigurnost). SEO strategija i rast sadrzaja se obicno dogovaraju kao poseban sloj.
+### Da li maintenance uključuje i SEO rad?
+Osnovni maintenance čuva tehničku bazu (stabilnost, brzina, sigurnost). SEO strategija i rast sadržaja se obično dogovaraju kao poseban sloj.
 
-## Zakljucak
+## Zaključak
 
-Odrzavanje WordPress sajta u Srbiji 2026 nije "dodatni trosak" nego operativna zastita prodaje, SEO vidljivosti i reputacije.
-Ako hoces, mogu da ti dam brz maintenance gap audit i oznacim prve 3 stavke koje najvise smanjuju rizik preko [kontakt forme](/kontakt).
+Održavanje WordPress sajta u Srbiji 2026 nije "dodatni trošak" nego operativna zaštita prodaje, SEO vidljivosti i reputacije.
+Ako hoćeš, mogu da ti dam brz maintenance gap audit i označim prve 3 stavke koje najviše smanjuju rizik preko [kontakt forme](/kontakt).
 `,
   },
 
@@ -13500,175 +13499,174 @@ Ako hoces, mogu da mapiram prve 3 SEO izmene koje bi na tvom sajtu najbrze podig
     category: 'WordPress',
     readTime: '10 min',
     content: `
-## WordPress sajt za stomatolosku ordinaciju u Srbiji 2026: kratak odgovor
+## WordPress sajt za stomatološku ordinaciju u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **wordpress sajt za stomatolosku ordinaciju cena**, realni rasponi u 2026 najcesce izgledaju ovako:
+Ako tražiš upit **wordpress sajt za stomatolosku ordinaciju cena**, realni rasponi u 2026 najčešće izgledaju ovako:
 
 - **osnovni sajt ordinacije (do 6 strana):** 600e-1.200e,
 - **lead-gen sajt sa boljim konverzijama:** 1.200e-2.500e,
-- **napredni sistem (vise usluga, vise lokacija, CRM integracije):** 2.500e-5.000e+.
+- **napredni sistem (više usluga, više lokacija, CRM integracije):** 2.500e-5.000e+.
 
-Ako hoces siri benchmark za WordPress projekte, pogledaj i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+Ako hoćeš širi benchmark za WordPress projekte, pogledaj i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
 
-## Zasto isti broj strana ne znaci istu cenu
+## Zašto isti broj strana ne znači istu cenu
 
-Dve ordinacije mogu traziti "sajt od 8 strana", ali razlika u ceni bude ogromna zbog razlike u cilju.
+Dve ordinacije mogu tražiti "sajt od 8 strana", ali razlika u ceni bude ogromna zbog razlike u cilju.
 
 Kod ordinacije sajt nije samo vizit karta. Sajt treba da:
 
 1. jasno objasni usluge i cene,
 2. izgradi poverenje kroz doktore, recenzije i rezultate,
-3. olaksa zakazivanje pregleda u par klikova,
-4. bude brz na mobilnom jer vecina pretraga dolazi sa telefona.
+3. olakša zakazivanje pregleda u par klikova,
+4. bude brz na mobilnom jer većina pretraga dolazi sa telefona.
 
-Ako bilo koji od ovih delova skripi, gubis upite i kad imas dobar promet.
+Ako bilo koji od ovih delova škripi, gubiš upite i kad imaš dobar promet.
 
-## Sta treba da ulazi u dobar sajt za ordinaciju
+## Šta treba da ulazi u dobar sajt za ordinaciju
 
-Minimum koji bi trebalo da dobijes u ponudi:
+Minimum koji bi trebalo da dobiješ u ponudi:
 
 - jasna struktura usluga (implantologija, protetika, ortodoncija, higijena),
 - landing sekcije za komercijalne upite,
-- forma + click-to-call CTA koji radi odlicno na mobilnom,
+- forma + click-to-call CTA koji radi odlično na mobilnom,
 - osnovni lokalni SEO setup (title, meta, schema, interni linkovi),
-- tehnicka optimizacija brzine i sigurnosti,
-- jednostavan CMS da tim moze sam da menja osnovne informacije.
+- tehnička optimizacija brzine i sigurnosti,
+- jednostavan CMS da tim može sam da menja osnovne informacije.
 
-Ako gradis i akviziciju paralelno, koristan nastavak su [Google reklame cena](/google-reklame-cena) i [Instagram reklame cena](/instagram-reklame-cena).
+Ako gradiš i akviziciju paralelno, koristan nastavak su [Google reklame cena](/google-reklame-cena) i [Instagram reklame cena](/instagram-reklame-cena).
 
-## Tipicni rokovi isporuke
+## Tipični rokovi isporuke
 
-Realni rokovi za vecinu ordinacija:
+Realni rokovi za većinu ordinacija:
 
 - **MVP sajt:** 7-14 dana,
 - **full lead-gen sajt:** 3-5 nedelja,
 - **sajt + dodatne landing stranice + tracking:** 5-8 nedelja.
 
-Najcesci uzrok kasnjenja nije development nego nejasni inputi (fotografije, usluge, cenovnik, odobrenja).
+Najčešći uzrok kašnjenja nije development nego nejasni inputi (fotografije, usluge, cenovnik, odobrenja).
 
-## Najskuplje greske koje dizu trosak bez potrebe
+## Najskuplje greške koje dižu trošak bez potrebe
 
 ### 1) Fokus samo na dizajn
-Lep sajt bez jakog CTA toka i jasne ponude obicno daje slab broj zakazivanja.
+Lep sajt bez jakog CTA toka i jasne ponude obično daje slab broj zakazivanja.
 
 ### 2) Nema plana za lokalni SEO
-Ako ne pokrijes lokalni intent, konkurencija uzima upite iako ti je usluga bolja.
+Ako ne pokriješ lokalni intent, konkurencija uzima upite iako ti je usluga bolja.
 
 ### 3) Nedefinisan maintenance
-WordPress bez odrzavanja brzo nakupi tehnicki dug, pa kasnije placas hitne intervencije.
+WordPress bez održavanja brzo nakupi tehnički dug, pa kasnije plaćaš hitne intervencije.
 
-### 4) Kopiranje generickih tekstova
-Ako poruka zvuci isto kao kod svih, pacijent bira po ceni umesto po poverenju.
+### 4) Kopiranje generičkih tekstova
+Ako poruka zvuči isto kao kod svih, pacijent bira po ceni umesto po poverenju.
 
 Za lokalni kontekst i poruke po industriji pogledaj i [marketing za stomatologe](/marketing-za-stomatologe).
 
-## Kako da procenis da li je ponuda realna
+## Kako da proceniš da li je ponuda realna
 
 Pre potpisa proveri ovih 6 stvari:
 
 1. Koji konkretni cilj sajt treba da postigne (broj upita, poziva, zakazivanja)?
-2. Sta je ukljuceno u cenu, a sta se posebno naplacuje?
+2. Šta je uključeno u cenu, a šta se posebno naplaćuje?
 3. Kako izgleda mobile UX i CTA tok?
-4. Kako je resen tracking (pozivi, forme, konverzije)?
-5. Sta je plan odrzavanja posle launch-a?
+4. Kako je rešen tracking (pozivi, forme, konverzije)?
+5. Šta je plan održavanja posle launch-a?
 6. Koji su prvi SEO koraci u prvih 30 dana?
 
 Ako su odgovori nejasni, rizik je visok bez obzira na "povoljnu" ponudu.
 
-## 90-dnevni plan koji najcesce daje rezultat
+## 90-dnevni plan koji najčešće daje rezultat
 
 - **Dan 1-14:** struktura ponude, wireframe i copy fokusiran na pacijenta.
 - **Dan 15-30:** development, brzina, forma, call tracking i launch.
-- **Dan 31-60:** lokalni SEO i dorada stranica sa najjacim intentom.
+- **Dan 31-60:** lokalni SEO i dorada stranica sa najjačim intentom.
 - **Dan 61-90:** optimizacija CTA sekcija i povezivanje sa kampanjama.
 
-Ako zelis i cenovni okvir za SEO deo, pogledaj [SEO optimizacija cena](/seo-optimizacija-cena).
+Ako želiš i cenovni okvir za SEO deo, pogledaj [SEO optimizacija cena](/seo-optimizacija-cena).
 
-## FAQ: WordPress sajt za stomatolosku ordinaciju
+## FAQ: WordPress sajt za stomatološku ordinaciju
 
-### Koliko kosta dobar sajt za stomatolosku ordinaciju?
-Najcesce 1.200e-2.500e za lead-gen varijantu koja ima jasnu strukturu usluga, dobar mobile UX i setup za zakazivanje.
+### Koliko košta dobar sajt za stomatološku ordinaciju?
+Najčešće 1.200e-2.500e za lead-gen varijantu koja ima jasnu strukturu usluga, dobar mobile UX i setup za zakazivanje.
 
-### Da li je moguce krenuti sa manjim budzetom?
-Da. Mozes krenuti sa MVP sajtom, ali je vazno da odmah resis CTA tok i osnovni SEO, pa da kasnije siris stranice i funkcije.
+### Da li je moguće krenuti sa manjim budžetom?
+Da. Možeš krenuti sa MVP sajtom, ali je važno da odmah rešiš CTA tok i osnovni SEO, pa da kasnije širiš stranice i funkcije.
 
-### Koliko brzo sajt moze da pocne da donosi upite?
-Prve upite mozes dobiti odmah nakon launch-a ako postoji postojeca potraznja i ako je forma jasna. Stabilniji rast obicno dolazi kroz 30-90 dana uz SEO i kampanje.
+### Koliko brzo sajt može da počne da donosi upite?
+Prve upite možeš dobiti odmah nakon launch-a ako postoji postojeća potražnja i ako je forma jasna. Stabilniji rast obično dolazi kroz 30-90 dana uz SEO i kampanje.
 
 ### Da li je bolje raditi sajt pa tek onda oglase?
-Najbolje je da sajt i akvizicioni plan idu zajedno. Ako prvo pustis oglase na slab sajt, cena lead-a skoro uvek bude veca.
+Najbolje je da sajt i akvizicioni plan idu zajedno. Ako prvo pustiš oglase na slab sajt, cena lead-a skoro uvek bude veća.
 
-### Sta je minimum odrzavanja nakon izrade?
-Minimum su update-i, backup, sigurnosni monitoring i brze intervencije kada nesto stane. Bez toga rizikujes prekid rada i pad konverzije.
+### Šta je minimum održavanja nakon izrade?
+Minimum su update-i, backup, sigurnosni monitoring i brze intervencije kada nešto stane. Bez toga rizikuješ prekid rada i pad konverzije.
 
-## Zakljucak
+## Zaključak
 
-WordPress sajt za stomatolosku ordinaciju u Srbiji 2026 nije trosak dizajna, vec prodajni sistem koji treba da pretvori posete u zakazane preglede.
-Ako hoces, mogu da oznacim 3 najbrze izmene koje bi na tvom trenutnom sajtu najpre podigle broj upita preko [kontakt forme](/kontakt).
+WordPress sajt za stomatološku ordinaciju u Srbiji 2026 nije trošak dizajna, već prodajni sistem koji treba da pretvori posete u zakazane preglede.
+Ako hoćeš, mogu da označim 3 najbrže izmene koje bi na tvom trenutnom sajtu najpre podigle broj upita preko [kontakt forme](/kontakt).
 `,
   },
 
   {
     slug: 'vodjenje-facebook-ads-kampanja-cena-srbija-2026',
-    title: 'Vođenje Facebook Ads kampanja cena u Srbiji 2026: koliko košta i šta realno dobijas',
-    excerpt: 'Koliko realno košta vođenje Facebook Ads kampanja u Srbiji 2026, koji modeli naplate postoje i kako da procenis da li agencija donosi profit ili samo lep dashboard.',
+    title: 'Vođenje Facebook Ads kampanja cena u Srbiji 2026: koliko košta i šta realno dobijaš',
+    excerpt: 'Koliko realno košta vođenje Facebook Ads kampanja u Srbiji 2026, koji modeli naplate postoje i kako da proceniš da li agencija donosi profit ili samo lep dashboard.',
     date: '2026-03-15',
     category: 'Facebook Ads',
     readTime: '10 min',
-    content: `
-## Vodjenje Facebook Ads kampanja cena u Srbiji 2026: kratak odgovor
+    content: `## Vođenje Facebook Ads kampanja cena u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **vodjenje facebook ads kampanja cena**, najcesci rasponi na srpskom trzistu u 2026 izgledaju ovako:
+Ako tražiš upit **vođenje facebook ads kampanja cena**, najčešći rasponi na srpskom tržištu u 2026. izgledaju ovako:
 
-- **freelance / junior setup:** 250e-500e mesecno,
-- **agencijski standard za SMB:** 500e-1.200e mesecno,
-- **napredni growth model (vise funnel-a, kreativni testovi, CRO):** 1.200e-3.000e+.
+- **freelance / junior setup:** 250e-500e mesečno,
+- **agencijski standard za SMB:** 500e-1.200e mesečno,
+- **napredni growth model (više funnel-a, kreativni testovi, CRO):** 1.200e-3.000e+.
 
-Model naplate moze biti fiksni fee, procenat od budzeta ili hibrid. Ako biras izmedju modela, korisno je i poredjenje [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share).
+Model naplate može biti fiksni fee, procenat od budžeta ili hibrid. Ako biraš između modela, korisno je i poređenje [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share).
 
-## Zasto "jeftino vodjenje" cesto bude najskuplje
+## Zašto "jeftino vođenje" često bude najskuplje
 
-Najveca greska je da gledas samo cenu usluge, bez kvaliteta sistema iza nje.
-Ako je fee nizak, a kampanja trosi budzet na pogresan intent i slabe kreative, ukupan trosak po klijentu postaje veci.
+Najveća greška je da gledaš samo cenu usluge, bez kvaliteta sistema iza nje.
+Ako je fee nizak, a kampanja troši budžet na pogrešan intent i slabe kreative, ukupan trošak po klijentu postaje veći.
 
-Drugim recima: nije bitno da li je menadzment 300e ili 900e ako je rezultat isti.
-Bitno je koliko te izadje **kvalifikovan lead** i koliko tih leadova postaje prodaja.
+Drugim rečima: nije bitno da li je menadžment 300e ili 900e ako je rezultat isti.
+Bitno je koliko te izađe **kvalifikovan lead** i koliko tih leadova postaje prodaja.
 
 Za benchmark CPC sloja pogledaj i [Meta Ads cena po kliku u Srbiji 2026](/blog/meta-ads-cena-po-kliku-srbija-2026).
 
-## Sta treba da ulazi u ozbiljno vodjenje Facebook Ads-a
+## Šta treba da ulazi u ozbiljno vođenje Facebook Ads-a
 
-Ako agencija samo "pusti kampanju" i jednom nedeljno posalje screenshot, to nije vodjenje.
-Minimum koji treba da dobijes:
+Ako agencija samo "pusti kampanju" i jednom nedeljno pošalje screenshot, to nije vođenje.
+Minimum koji treba da dobiješ:
 
 1. strategija po funnel fazama (cold, warm, hot),
 2. plan testiranja kreativa i poruka,
 3. event tracking i atribucija koja ima smisla,
-4. nedeljna optimizacija publika, placement-a i budzeta,
-5. mesecni performance review sa sledecim jasnim potezima.
+4. nedeljna optimizacija publika, placement-a i budžeta,
+5. mesečni performance review sa sledećim jasnim potezima.
 
-Bez ovoga placas media buying, a ne sistem rasta.
+Bez ovoga plaćaš media buying, a ne sistem rasta.
 
-## Koji model naplate ima smisla za vecinu firmi
+## Koji model naplate ima smisla za većinu firmi
 
 ### 1) Fiksni fee
-Najbolji kad je scope jasan i treba ti predvidiv trosak.
-Dobar je za firme koje tek grade proces i ne zele varijabilan overhead.
+Najbolji kad je scope jasan i treba ti predvidiv trošak.
+Dobar je za firme koje tek grade proces i ne žele varijabilan overhead.
 
-### 2) Procenat od budzeta
-Ima logiku kada je nalog vec stabilan i skaluje se.
-Problem: agencija moze imati motiv da samo digne potrosnju umesto da podigne profit.
+### 2) Procenat od budžeta
+Ima logiku kada je nalog već stabilan i skalira se.
+Problem: agencija može imati motiv da samo digne potrošnju umesto da podigne profit.
 
 ### 3) Hibrid (fiksno + performance uslov)
-Cesto najzdraviji kompromis jer pokriva operativni rad i uvodi odgovornost za rezultat.
-Ali performance deo mora biti vezan za metrike koje firma moze da verifikuje.
+Često najzdraviji kompromis jer pokriva operativni rad i uvodi odgovornost za rezultat.
+Ali performance deo mora biti vezan za metrike koje firma može da verifikuje.
 
-Ako zelis da uporedis Facebook i Search kanal po trosku i intentu, pogledaj i [google reklame cena](/google-reklame-cena) i [instagram reklame cena](/instagram-reklame-cena).
+Ako želiš da uporediš Facebook i Search kanal po trošku i intentu, pogledaj i [google reklame cena](/google-reklame-cena) i [instagram reklame cena](/instagram-reklame-cena).
 
-## Kako da procenis da li agencija stvarno radi posao
+## Kako da proceniš da li agencija stvarno radi posao
 
 Prepotentan dashboard nije dokaz.
-Ove metrike su prakticnije za evaluaciju:
+Ove metrike su praktičnije za evaluaciju:
 
 - cena kvalifikovanog upita,
 - cena zakazanog poziva/termina,
@@ -13676,66 +13674,65 @@ Ove metrike su prakticnije za evaluaciju:
 - ROAS ili blended CAC (gde je primenljivo),
 - brzina reakcije tima na promene u performansama.
 
-Ako agencija ne zna da poveze kampanju sa prodajnim ishodom, fee je sekundaran problem.
+Ako agencija ne zna da poveže kampanju sa prodajnim ishodom, fee je sekundaran problem.
 
-## Najcesce greske zbog kojih cena vodjenja ne vraca ulaganje
+## Najčešće greške zbog kojih cena vođenja ne vraća ulaganje
 
 ### 1) Jedna kampanja za sve ponude
-Razlicit intent trazi razlicit oglas, publiku i poruku.
+Različit intent traži različit oglas, publiku i poruku.
 
 ### 2) Nema ritma testiranja kreativa
-Facebook bez novog creative input-a brzo udje u zamor i rast cene.
+Facebook bez novog creative input-a brzo uđe u zamor i rast cene.
 
 ### 3) Slab post-click deo
 Klik nije cilj. Ako landing ili forma ne zatvaraju odluku, CPL raste bez obzira na dobar CTR.
-Za taj deo pogledaj i [izradu landing stranice: cena, rokovi, sta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
+Za taj deo pogledaj i [izradu landing stranice: cena, rokovi, šta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
 
 ### 4) Kasna obrada leadova
-Ako sales odgovori tek sutra, kampanja placa "vruce" upite koji se ohlade.
+Ako sales odgovori tek sutra, kampanja plaća "vruće" upite koji se ohlade.
 
-### 5) Izvestaji bez poslovnog konteksta
-"Imamo bolji CTR" ne znaci nista ako broj zakazanih sastanaka stagnira.
+### 5) Izveštaji bez poslovnog konteksta
+"Imamo bolji CTR" ne znači ništa ako broj zakazanih sastanaka stagnira.
 
-## Koliki budzet i fee imaju smisla za start
+## Koliki budžet i fee imaju smisla za start
 
-Praktican okvir za vecinu lokalnih usluga:
+Praktičan okvir za većinu lokalnih usluga:
 
-- media budzet: 600e-1.500e mesecno,
-- menadzment fee: 500e-1.200e,
-- test period: minimum 6-8 nedelja pre ozbiljnih zakljucaka.
+- media budžet: 600e-1.500e mesečno,
+- menadžment fee: 500e-1.200e,
+- test period: minimum 6-8 nedelja pre ozbiljnih zaključaka.
 
-Ispod tog volumena tesko je skupiti dovoljno signala za kvalitetnu optimizaciju.
+Ispod tog volumena teško je skupiti dovoljno signala za kvalitetnu optimizaciju.
 
-Za siri pregled ulaganja po kanalima, pogledaj [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Za širi pregled ulaganja po kanalima, pogledaj [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-## 30-dnevni plan koji najcesce donosi najbrzi pomak
+## 30-dnevni plan koji najčešće donosi najbrži pomak
 
 - **Nedelja 1:** audit naloga, tracking, definicija ICP i ponude.
 - **Nedelja 2:** launch 2-3 creative ugla i jedna jasna landing poruka.
-- **Nedelja 3:** gasenje slabih kombinacija + preraspodela budzeta.
-- **Nedelja 4:** optimizacija pobednickog ugla, dorada CTA toka i report sa sledecim fokusom.
+- **Nedelja 3:** gašenje slabih kombinacija + preraspodela budžeta.
+- **Nedelja 4:** optimizacija pobedničkog ugla, dorada CTA toka i report sa sledećim fokusom.
 
-Poenta nije da sve radi savrseno odmah, nego da svake nedelje donosis bolje odluke na realnim podacima.
+Poenta nije da sve radi savršeno odmah, nego da svake nedelje donosiš bolje odluke na realnim podacima.
 
-## FAQ: vodjenje Facebook Ads kampanja cena
+## FAQ: vođenje Facebook Ads kampanja cena
 
-### Da li je bolje platiti manji fee i veci budzet, ili obrnuto?
-Ako biras, bolji je kvalitetniji menadzment i malo manji budzet, jer losa optimizacija vrlo brzo "pojede" razliku.
+### Da li je bolje platiti manji fee i veći budžet, ili obrnuto?
+Ako biraš, bolji je kvalitetniji menadžment i malo manji budžet, jer loša optimizacija vrlo brzo "pojede" razliku.
 
-### Koliko brzo mogu da ocekujem stabilne rezultate?
-Prve signale vidis brzo, ali za stabilan CPA i predvidiv pipeline obicno treba 6-10 nedelja.
+### Koliko brzo mogu da očekujem stabilne rezultate?
+Prve signale vidiš brzo, ali za stabilan CPA i predvidiv pipeline obično treba 6-10 nedelja.
 
-### Da li mala firma moze da radi sa agencijom?
-Moze, ako postoji realan minimalni budzet i jasna ponuda. Bez toga ni najbolji menadzment ne moze da izvuce rezultat.
+### Da li mala firma može da radi sa agencijom?
+Može, ako postoji realan minimalni budžet i jasna ponuda. Bez toga ni najbolji menadžment ne može da izvuče rezultat.
 
-### Da li je procenat od budzeta los model?
-Nije automatski los, ali mora imati jasne granice i KPI-jeve koji cuvaju profit, ne samo rast potrosnje.
+### Da li je procenat od budžeta loš model?
+Nije automatski loš, ali mora imati jasne granice i KPI-jeve koji čuvaju profit, ne samo rast potrošnje.
 
-## Zakljucak
+## Zaključak
 
-Vodjenje Facebook Ads kampanja u Srbiji 2026 nije trosak koji biras po najnizoj ponudi, nego sistem koji treba da vrati ulozen novac kroz kvalitetnije leadove i bolji pipeline.
-Ako hoces, mogu da uradim mini audit tvog naloga i dam 3 konkretna poteza za bolji odnos budzeta i rezultata preko [kontakt forme](/kontakt).
-`,
+Vođenje Facebook Ads kampanja u Srbiji 2026 nije trošak koji biraš po najnižoj ponudi, nego sistem koji treba da vrati uložen novac kroz kvalitetnije leadove i bolji pipeline.
+Ako hoćeš, mogu da uradim mini audit tvog naloga i dam 3 konkretna poteza za bolji odnos budžeta i rezultata preko [kontakt forme](/kontakt).`,
   },
 
   {
@@ -14035,125 +14032,125 @@ Ako hoces, mogu da oznacim 3 najbrza poteza za nizi trosak termina preko [kontak
 
   {
     slug: 'google-ads-za-krovopokrivace-cena-leada-srbija-2026',
-    title: 'Google Ads za krovopokrivace u Srbiji 2026: cena lead-a, budžet i manje praznih poziva',
-    excerpt: 'Koliko realno koštaju Google Ads kampanje za krovopokrivace u Srbiji 2026, koji budžet ima smisla i kako da spustiš cenu kvalifikovanog upita bez gubljenja na nerelevantne klikove.',
+    title: 'Google Ads za krovopokrivače u Srbiji 2026: cena lead-a, budžet i manje praznih poziva',
+    excerpt: 'Koliko realno koštaju Google Ads kampanje za krovopokrivače u Srbiji 2026, koji budžet ima smisla i kako da spustiš cenu kvalifikovanog upita bez gubljenja na nerelevantne klikove.',
     date: '2026-03-15',
     category: 'Google Ads',
     readTime: '10 min',
     content: `
-## Google Ads za krovopokrivace: kratak odgovor
+## Google Ads za krovopokrivače: kratak odgovor
 
-Ako trazis upit **google ads za krovopokrivace cena**, realni rasponi u Srbiji 2026 obicno izgledaju ovako:
+Ako tražiš upit **google ads za krovopokrivače cena**, realni rasponi u Srbiji 2026 obično izgledaju ovako:
 
 - **CPC (klik):** 0.25e-1.40e,
 - **cena kvalifikovanog upita:** 9e-45e,
 - **cena ugovorene procene na terenu:** 18e-80e,
-- **test budzet za prvi mesec:** 450e-1.200e.
+- **test budžet za prvi mesec:** 450e-1.200e.
 
-Raspon je siri jer nije isto da li ciljas hitne sanacije posle nevremena, zamenu crepa ili kompletan novi krov.
-Za siri benchmark Search troska pogledaj i [google reklame cena](/google-reklame-cena).
+Raspon je širi jer nije isto da li ciljaš hitne sanacije posle nevremena, zamenu crepa ili kompletan novi krov.
+Za širi benchmark Search troška pogledaj i [google reklame cena](/google-reklame-cena).
 
-## Gde kampanje najcesce pucaju kod krovopokrivaca
+## Gde kampanje najčešće pucaju kod krovopokrivača
 
-Kod ove nise problem retko bude samo u "skupom kliku".
-Najcesce su tri uzroka visokog CPA:
+Kod ove niše problem retko bude samo u "skupom kliku".
+Najčešće su tri uzroka visokog CPA:
 
 1. keyword set je preopsiran i hvata DIY/informativne upite,
 2. landing ne filtrira tip objekta i obim radova,
 3. odgovor na upit kasni, pa lead ode konkurenciji.
 
-Kada se ova tri sloja srede, ista medija cesto donese vise ozbiljnih poziva bez dodatnog budzeta.
+Kada se ova tri sloja srede, ista medija često donese više ozbiljnih poziva bez dodatnog budžeta.
 
-## Intent podela koja obicno snizava cenu lead-a
+## Intent podela koja obično snižava cenu lead-a
 
-Umesto jedne kampanje "krovopokrivac", bolje radi podela po intentu:
+Umesto jedne kampanje "krovopokrivač", bolje radi podela po intentu:
 
-- **hitna sanacija curenja:** visi CPC, ali brza odluka,
+- **hitna sanacija curenja:** viši CPC, ali brza odluka,
 - **renoviranje starog krova:** srednji CPC i solidan kvalitet,
-- **novogradnja / kompletan krov:** skuplji lead, ali veca vrednost posla,
-- **limarski radovi i oluci:** cesto jeftiniji klik, dobar ulaz za upsell.
+- **novogradnja / kompletan krov:** skuplji lead, ali veća vrednost posla,
+- **limarski radovi i oluci:** često jeftiniji klik, dobar ulaz za upsell.
 
-Kada svaki intent dobije svoj oglas i landing poruku, quality score raste, a rasipanje budzeta pada.
+Kada svaki intent dobije svoj oglas i landing poruku, quality score raste, a rasipanje budžeta pada.
 
-## Koliki budzet ima smisla bez pogadjanja
+## Koliki budžet ima smisla bez pogađanja
 
-Praktican okvir za krovopokrivacke firme:
+Praktičan okvir za krovopokrivačke firme:
 
-1. izracunaj prosecnu vrednost zavrsenog posla,
-2. odredi cilj broja procena mesecno,
-3. postavi maksimalni CPA koji ostavlja zdravu marzu,
-4. tek onda zakljucaj dnevni budzet.
+1. izračunaj prosečnu vrednost završenog posla,
+2. odredi cilj broja procena mesečno,
+3. postavi maksimalni CPA koji ostavlja zdravu maržu,
+4. tek onda zaključaj dnevni budžet.
 
 Primer:
 
-- prosecna vrednost posla: 1.600e,
-- cilj: 10 kvalitetnih procena mesecno,
+- prosečna vrednost posla: 1.600e,
+- cilj: 10 kvalitetnih procena mesečno,
 - maksimalni CPA: 70e,
-- medijski budzet: oko 700e (plus fee za vodjenje).
+- medijski budžet: oko 700e (plus fee za vođenje).
 
-Za siri raspored kanala i troskova pogledaj [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Za širi raspored kanala i troškova pogledaj [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
 ## Landing koji pretvara klik u ozbiljan upit
 
-Za ovu industriju Google Ads ne treba da vodi na genericki homepage.
+Za ovu industriju Google Ads ne treba da vodi na generički homepage.
 Landing treba da ima:
 
 - jasno navedene tipove radova (sanacija, zamena, novi krov),
-- servisnu zonu (gradovi/opstine),
+- servisnu zonu (gradovi/opštine),
 - 2-3 foto primera radova pre/posle,
 - trust signale (garancija, rokovi, iskustvo),
-- jedan glavni CTA: "posalji mere i slike" ili "zakazi procenu".
+- jedan glavni CTA: "pošalji mere i slike" ili "zakazi procenu".
 
-Ako je sajt spor i nepregledan na telefonu, plakaces i na dobrim kampanjama.
-Za tehnicki deo pogledaj i [izrada wordpress sajta cena](/izrada-wordpress-sajta-cena).
+Ako je sajt spor i nepregledan na telefonu, plakaćeš i na dobrim kampanjama.
+Za tehnički deo pogledaj i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
 
-## 5 gresaka koje dizu cenu lead-a
+## 5 grešaka koje dižu cenu lead-a
 
 ### 1) Sve usluge u jednoj kampanji
-Sanacije, limarija i kompletni krovovi imaju razlicit intent i ne treba ih mesati.
+Sanacije, limarija i kompletni krovovi imaju različit intent i ne treba ih mešati.
 
-### 2) Bez negativnih kljucnih reci
-Bez minusa hvatas upite tipa "sam svoj majstor" i tutorijale.
+### 2) Bez negativnih ključnih reči
+Bez minusa hvataš upite tipa "sam svoj majstor" i tutorijale.
 
 ### 3) Oglas ne navodi servisnu zonu
-Ako radis samo jedan region, geografska poruka mora biti eksplicitna.
+Ako radiš samo jedan region, geografska poruka mora biti eksplicitna.
 
 ### 4) Nema kvalifikacije na formi
-Lead bez osnova (tip krova, povrsina, lokacija) trosi vreme prodaje.
+Lead bez osnova (tip krova, površina, lokacija) troši vreme prodaje.
 
 ### 5) Fokus na jeftin CPC umesto na ugovoreni posao
 Jeftin klik je nebitan ako ne dovede do izlaska na teren i potpisa.
 
 ## 30-dnevni plan optimizacije
 
-- **Nedelja 1:** podela kampanja po intentu + negativne reci.
+- **Nedelja 1:** podela kampanja po intentu + negativne reči.
 - **Nedelja 2:** nova ad copy varijanta po usluzi i regionu.
 - **Nedelja 3:** dorada landing sekcija (dokazi, FAQ, CTA).
-- **Nedelja 4:** budzet samo na ad grupe koje drze ciljani CPA.
+- **Nedelja 4:** budžet samo na ad grupe koje drže ciljani CPA.
 
-Ako zelis i poredjenje sa social kanalom, pogledaj [instagram reklame cena](/instagram-reklame-cena).
+Ako želiš i poređenje sa social kanalom, pogledaj [instagram reklame cena](/instagram-reklame-cena).
 
-## FAQ: Google Ads za krovopokrivace
+## FAQ: Google Ads za krovopokrivače
 
-### Koliki je minimalan budzet da kampanja ima smisla?
-Realan minimum je 450e-600e medijskog budzeta mesecno, plus vodjenje. Ispod toga je tesko skupiti dovoljno podataka za pametnu optimizaciju.
+### Koliki je minimalan budžet da kampanja ima smisla?
+Realan minimum je 450e-600e medijskog budžeta mesečno, plus vođenje. Ispod toga je teško skupiti dovoljno podataka za pametnu optimizaciju.
 
-### Koliko brzo stizu prvi ozbiljni upiti?
-Prvi pozivi cesto stizu u prvih nekoliko dana, ali za stabilan CPA i predvidljiv pipeline obicno treba 3-6 nedelja.
+### Koliko brzo stižu prvi ozbiljni upiti?
+Prvi pozivi često stižu u prvih nekoliko dana, ali za stabilan CPA i predvidljiv pipeline obično treba 3-6 nedelja.
 
 ### Da li je bolje targetirati samo jedan grad?
-Ako je tim mali, da. Uzi geo target smanjuje rasipanje i podize procenat relevantnih upita.
+Ako je tim mali, da. Uži geo target smanjuje rasipanje i podiže procenat relevantnih upita.
 
 ### Da li treba call-only kampanja?
-Za hitne intervencije cesto da, ali je najbolje da radi paralelno sa landing kampanjom koja hvata detaljnije upite.
+Za hitne intervencije često da, ali je najbolje da radi paralelno sa landing kampanjom koja hvata detaljnije upite.
 
 ### Kako znam da je kampanja profitabilna?
-Prati cenu ugovorene procene i procenat procena koje prelaze u realizovan posao. Tek tad znas pravi ROI.
+Prati cenu ugovorene procene i procenat procena koje prelaze u realizovan posao. Tek tad znaš pravi ROI.
 
-## Zakljucak
+## Zaključak
 
-Google Ads za krovopokrivace u Srbiji 2026 donosi najvise kada kampanje vodis po intentu i regionu, a landing i response proces drze isti cilj: ugovorena procena, ne samo klik.
-Ako hoces, mogu da mapiram 3 najbrza poteza za tvoj nalog preko [kontakt forme](/kontakt).
+Google Ads za krovopokrivače u Srbiji 2026 donosi najviše kada kampanje vodiš po intentu i regionu, a landing i response proces drže isti cilj: ugovorena procena, ne samo klik.
+Ako hoćeš, mogu da mapiram 3 najbrža poteza za tvoj nalog preko [kontakt forme](/kontakt).
 `,
   },
 
@@ -14381,7 +14378,7 @@ Ako hoces, mogu da uradim i mini prioritet listu za tvoj sajt kroz [kontakt form
   },
   {
     slug: 'google-ads-za-vodoinstalatere-cena-poziva-srbija-2026',
-    title: 'Google Ads za vodoinstalatere u Srbiji 2026: cena poziva, budžet i kako da ne bacas novac',
+    title: 'Google Ads za vodoinstalatere u Srbiji 2026: cena poziva, budžet i kako da ne bacaš novac',
     excerpt: 'Koliko realno košta Google Ads za vodoinstalaterske usluge u Srbiji 2026, koji je zdrav raspon cene poziva i kako da postaviš kampanju koja puni raspored intervencija.',
     date: '2026-03-15',
     category: 'Google Ads',
@@ -14389,66 +14386,66 @@ Ako hoces, mogu da uradim i mini prioritet listu za tvoj sajt kroz [kontakt form
     content: `
 ## Google Ads za vodoinstalatere: kratak odgovor
 
-Ako trazis upit **google ads za vodoinstalatere cena**, nemoj traziti jednu univerzalnu brojku.
+Ako tražiš upit **google ads za vodoinstalatere cena**, nemoj tražiti jednu univerzalnu brojku.
 Za lokalne hitne usluge u Srbiji 2026 realnije je planirati po nivou namere i vremenu javljanja:
 
-- **hitne intervencije (curenje, zapusenje, kvar):** 0.35e-1.90e CPC,
+- **hitne intervencije (curenje, zapušenje, kvar):** 0.35e-1.90e CPC,
 - **standardne usluge (zamena slavine, bojler, sanitarije):** 0.18e-0.90e CPC,
-- **komercijalni upiti (ugovorno odrzavanje objekata):** 0.60e-2.40e CPC.
+- **komercijalni upiti (ugovorno održavanje objekata):** 0.60e-2.40e CPC.
 
-Kada je kampanja dobro slozena, cena validnog poziva je najcesce **6e-35e**.
-Za siri benchmark Search ulaganja pogledaj i [google reklame cena](/google-reklame-cena).
+Kada je kampanja dobro složena, cena validnog poziva je najčešće **6e-35e**.
+Za širi benchmark Search ulaganja pogledaj i [google reklame cena](/google-reklame-cena).
 
-## Sta je "dobar" rezultat za vodoinstalatera
+## Šta je "dobar" rezultat za vodoinstalatera
 
 Vodoinstalaterski Google nalog se ne meri po jeftinom kliku, nego po kvalitetu poziva.
-Ako oglas dovede nekoga ko pita "radite li odmah danas" i ima konkretan problem, taj lead vredi mnogo vise od pet neozbiljnih klikova.
+Ako oglas dovede nekoga ko pita "radite li odmah danas" i ima konkretan problem, taj lead vredi mnogo više od pet neozbiljnih klikova.
 
-Zdrav okvir merenja obicno izgleda ovako:
+Zdrav okvir merenja obično izgleda ovako:
 
 1. **procenat javljanja na pozive sa oglasa** (koliko poziva stvarno obradite),
 2. **procenat zakazanih izlazaka na teren**,
-3. **prosecna vrednost intervencije** po tipu kvara,
-4. **vreme odgovora** (brzi poziv nazad drasticno podize konverziju).
+3. **prosečna vrednost intervencije** po tipu kvara,
+4. **vreme odgovora** (brži poziv nazad drastično podiže konverziju).
 
 Ako ti je post-click deo slab (spora forma, nejasna ponuda, slab trust), pogledaj i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
 
-## Koliki budzet ima smisla za start
+## Koliki budžet ima smisla za start
 
-Za vecinu lokalnih vodoinstalaterskih firmi, test faza bez gubljenja vremena izgleda ovako:
+Za većinu lokalnih vodoinstalaterskih firmi, test faza bez gubljenja vremena izgleda ovako:
 
 - **manji gradovi:** 300e-700e/mes,
 - **srednji gradovi:** 500e-1.100e/mes,
-- **Beograd i jaca konkurencija:** 900e-2.200e/mes.
+- **Beograd i jača konkurencija:** 900e-2.200e/mes.
 
-Ispod toga kampanja cesto nema dovoljno podataka da bi algoritam i optimizacija napravili razliku.
+Ispod toga kampanja često nema dovoljno podataka da bi algoritam i optimizacija napravili razliku.
 Bolje je 30 dana ozbiljnog testa nego 6 meseci "po malo" bez jasne slike.
 
-## Gde vodoinstalateri najcesce gube budzet
+## Gde vodoinstalateri najčešće gube budžet
 
-### 1) Previse siroki keyword-i
-Upiti tipa "vodoinstalater" bez lokacije i bez namere cesto trose budzet na radoznale klikove.
-Efikasnije je gadjati kombinacije kao "vodoinstalater [grad] hitna intervencija" i varijante po usluzi.
+### 1) Previše široki keyword-i
+Upiti tipa "vodoinstalater" bez lokacije i bez namere često troše budžet na radoznale klikove.
+Efikasnije je gađati kombinacije kao "vodoinstalater [grad] hitna intervencija" i varijante po usluzi.
 
 ### 2) Nema odvajanja hitnih i standardnih kampanja
-Hitne intervencije traze drugaciji copy, vecu brzinu javljanja i drugi raspored prikaza.
+Hitne intervencije traže drugačiji copy, veću brzinu javljanja i drugi raspored prikaza.
 Kada je sve u jednoj grupi oglasa, CPC i cena poziva rastu.
 
 ### 3) Oglasi rade i kad niko ne odgovara
-Ako pozivi dolaze nocu, vikendom ili van smene, a niko se ne javlja, placas klikove bez povrata.
+Ako pozivi dolaze noću, vikendom ili van smene, a niko se ne javlja, plaćaš klikove bez povrata.
 Raspored prikaza mora pratiti realnu operativu tima.
 
 ### 4) Nema negativnih keyword-a
-Bez negativnih termina ulazis u upite koji nisu komercijalni (DIY, tutorijali, cene delova).
-To je jedan od najbrzih nacina da kampanja "curi".
+Bez negativnih termina ulaziš u upite koji nisu komercijalni (DIY, tutorijali, cene delova).
+To je jedan od najbržih načina da kampanja "curi".
 
 ### 5) Ne meri se kvalitet poziva
-Ako pratis samo broj poziva, ne vidis koji keyword stvarno donosi posao.
+Ako pratiš samo broj poziva, ne vidiš koji keyword stvarno donosi posao.
 Zato se koristi call tracking i osnovna evidencija ishoda poziva.
 
-## Struktura kampanje koja najcesce radi
+## Struktura kampanje koja najčešće radi
 
-Praktican setup za lokalne usluge:
+Praktičan setup za lokalne usluge:
 
 - **Campaign 1: Hitne intervencije** (visok intent, jasan CTA "pozovi odmah"),
 - **Campaign 2: Standardne usluge** (bojleri, sanitarije, zamene),
@@ -14456,24 +14453,24 @@ Praktican setup za lokalne usluge:
 - **Extensions:** poziv, lokacija, istaknute usluge i radno vreme.
 
 Dodaj i lokalne landing sekcije po gradu/zoni da oglas i stranica govore istim jezikom.
-Za lokalni okvir mozes da uporedis i [marketing agencija zrenjanin](/marketing-agencija-zrenjanin).
+Za lokalni okvir možeš da uporediš i [marketing agencija zrenjanin](/marketing-agencija-zrenjanin).
 
 ## Mini formula za procenu isplativosti
 
-Pre lansiranja, uradi ovaj brzi racun:
+Pre lansiranja, uradi ovaj brži račun:
 
-1. prosecna intervencija = 65e,
-2. bruto marza = 45%,
-3. maksimalan trosak po zakazanom izlasku = 29.25e,
+1. prosečna intervencija = 65e,
+2. bruto marža = 45%,
+3. maksimalan trošak po zakazanom izlasku = 29.25e,
 4. ako 1 od 2 poziva postane izlazak, maksimalna cena poziva je oko 14.6e.
 
-Ako je kampanja iznad toga duze od test faze, ne treba "dodati jos para", nego srediti keyword, copy, raspored i obradu lead-a.
-Za siri model raspodele ulaganja pogledaj i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Ako je kampanja iznad toga duže od test faze, ne treba "dodati još para", nego srediti keyword, copy, raspored i obradu lead-a.
+Za širi model raspodele ulaganja pogledaj i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-## Zakljucak
+## Zaključak
 
-Google Ads za vodoinstalatere moze biti jedan od najbrzih nacina da popunis raspored, ali samo ako meris poslovni rezultat, ne vanity metrike.
-Ako hoces, mogu da ti slozim check-listu od 10 tacaka za audit kampanje kroz [kontakt formu](/kontakt).
+Google Ads za vodoinstalatere može biti jedan od najbržih načina da popuniš raspored, ali samo ako meriš poslovni rezultat, ne vanity metrike.
+Ako hoćeš, mogu da ti složim check-listu od 10 tačaka za audit kampanje kroz [kontakt formu](/kontakt).
 `,
   },
   {
@@ -15153,156 +15150,156 @@ Ako hoces, mogu da uradim mini audit i oznacim 3 najbrza poteza za nizi trosak k
 
   {
     slug: 'google-ads-za-privatne-vrtice-cena-upisa-srbija-2026',
-    title: 'Google Ads za privatne vrtice u Srbiji 2026: cena upisa, budžet i više kvalifikovanih prijava',
-    excerpt: 'Koliko realno koštaju Google Ads kampanje za privatne vrtice u Srbiji 2026, koji budžet ima smisla po sezoni i kako da spustite cenu kvalitetne prijave bez praznih poziva.',
+    title: 'Google Ads za privatne vrtiće u Srbiji 2026: cena upisa, budžet i više kvalifikovanih prijava',
+    excerpt: 'Koliko realno koštaju Google Ads kampanje za privatne vrtiće u Srbiji 2026, koji budžet ima smisla po sezoni i kako da spustite cenu kvalitetne prijave bez praznih poziva.',
     date: '2026-03-14',
     category: 'Google Ads',
     readTime: '10 min',
     content: `
-## Google Ads za privatne vrtice u Srbiji 2026: kratak odgovor
+## Google Ads za privatne vrtiće u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **google ads za privatne vrtice cena**, realan okvir za srpsko trziste u 2026 najcesce izgleda ovako:
+Ako tražiš upit **google ads za privatne vrtiće cena**, realan okvir za srpsko tržište u 2026 najčešće izgleda ovako:
 
 - **test faza:** 350e-900e/mes,
 - **stabilan priliv prijava:** 900e-2.200e/mes,
-- **skaliranje po opstinama i programima:** 2.200e+/mes.
+- **skaliranje po opštinama i programima:** 2.200e+/mes.
 
-Za siri benchmark troska kanala pogledaj i [Google reklame cena](/google-reklame-cena), a za raspodelu ulaganja po kanalima [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Za širi benchmark troška kanala pogledaj i [Google reklame cena](/google-reklame-cena), a za raspodelu ulaganja po kanalima [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-## Koliko realno kosta prijava i upis deteta
+## Koliko realno košta prijava i upis deteta
 
-Posle 4-8 nedelja uredne optimizacije, najcesci rasponi su:
+Posle 4-8 nedelja uredne optimizacije, najčešći rasponi su:
 
 - **CPC:** 0.20e-1.10e,
 - **kvalifikovana prijava (poziv ili forma):** 12e-55e,
-- **potvrdjen upis:** 70e-320e.
+- **potvrđen upis:** 70e-320e.
 
-Raspon je siri jer nije isto da li kampanja targetira:
+Raspon je širi jer nije isto da li kampanja targetira:
 
 1. jaslice,
-2. predskolski program,
+2. predškolski program,
 3. celodnevni boravak,
 4. bilingvalni premium program.
 
 Skuplji klik nije problem ako dovodi roditelje koji su spremni da donesu odluku u narednih 7-14 dana.
 
-## Gde privatni vrtici najcesce gube budzet
+## Gde privatni vrtići najčešće gube budžet
 
 ### 1) Jedna kampanja za sve uzraste i sve programe
-Kada su jaslice, vrtic i predskolski program u istoj kampanji, poruka je preopsirna i quality score pada.
+Kada su jaslice, vrtić i predškolski program u istoj kampanji, poruka je preopsirna i quality score pada.
 Bolje radi segmentacija po programu + nameri (cena, lokacija, adaptacija, termini).
 
 ### 2) Landing ne odgovara na strah roditelja
 Roditelja ne zanima samo cena. Zanima ga bezbednost, kadar, broj dece po grupi i adaptacija.
 Ako to nije jasno iznad prevoja, klik ode konkurenciji.
-Za strukturu stranice koja bolje zatvara prijavu pogledaj i [izradu landing stranice: cena, rokovi, sta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
+Za strukturu stranice koja bolje zatvara prijavu pogledaj i [izradu landing stranice: cena, rokovi, šta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
 
 ### 3) Nema filtera za neadekvatne upite
-Bez negativnih kljucnih reci kampanja vuce upite tipa:
-- drzavni vrtic konkurs,
-- posao vaspitacica,
+Bez negativnih ključnih reči kampanja vuče upite tipa:
+- državni vrtić konkurs,
+- posao vaspitačica,
 - besplatan program,
 - gradovi koje ne pokrivate.
 
 ### 4) Spora reakcija na prijavu
-Ako roditelj popuni formu, a odgovor dobije tek sutradan, lead je prakticno izgubljen.
-Za privatne vrtice brzina follow-up-a je deo same cene upisa.
+Ako roditelj popuni formu, a odgovor dobije tek sutradan, lead je praktično izgubljen.
+Za privatne vrtiće brzina follow-up-a je deo same cene upisa.
 
-## Struktura kampanje koja najcesce radi
+## Struktura kampanje koja najčešće radi
 
 ### 1) Kampanje po nameri roditelja
 Odvojiti najmanje:
-- "upis privatni vrtic + grad/opstina",
+- "upis privatni vrtić + grad/opština",
 - "jaslice + cena",
-- "vrtic sa produzenim boravkom",
-- "bilingvalni vrtic".
+- "vrtić sa produženim boravkom",
+- "bilingvalni vrtić".
 
-Tako poruka oglasa i landing sekcije mogu da budu 1:1 uskladjene.
+Tako poruka oglasa i landing sekcije mogu da budu 1:1 usklađene.
 
 ### 2) Geo segmentacija po realnom radijusu
-Roditelji retko biraju vrtic daleko od kuce ili posla.
-Bolje rade kampanje po opstinama i jasnim map pinovima, uz posebne poruke za lokaciju.
+Roditelji retko biraju vrtić daleko od kuće ili posla.
+Bolje rade kampanje po opštinama i jasnim map pinovima, uz posebne poruke za lokaciju.
 Za lokalni SEO ugao korisni su i [marketing agencija Beograd](/marketing-agencija-beograd) i [marketing agencija Novi Sad](/marketing-agencija-novi-sad).
 
 ### 3) Search + remarketing za donosioce odluke
-Search hvata visoku nameru, a remarketing vraca roditelje koji su gledali stranicu ali nisu poslali prijavu.
+Search hvata visoku nameru, a remarketing vraća roditelje koji su gledali stranicu ali nisu poslali prijavu.
 Remarketing kreativa treba da naglasi:
 - bezbednosni protokol,
-- iskustvo vaspitaca,
+- iskustvo vaspitača,
 - adaptacioni plan,
-- slobodna mesta i sledeci termin obilaska.
+- slobodna mesta i sledeći termin obilaska.
 
-### 4) Jasna podela budzeta po sezoni
-Najveci pritisak je pred upisne rokove (prolece/leto). U tom periodu kampanja treba vise budzeta, a van sezone fokus ide na nurturing i remarketing.
+### 4) Jasna podela budžeta po sezoni
+Najveći pritisak je pred upisne rokove (proleće/leto). U tom periodu kampanja treba više budžeta, a van sezone fokus ide na nurturing i remarketing.
 
 ## Landing koji pretvara klik u stvarnu prijavu
 
-Ako placas klik, landing mora odmah da odgovori na 5 pitanja roditelja:
+Ako plaćaš klik, landing mora odmah da odgovori na 5 pitanja roditelja:
 
-1. gde se vrtic nalazi i koje opstine pokriva,
+1. gde se vrtić nalazi i koje opštine pokriva,
 2. koji programi postoje po uzrastu,
 3. kako izgleda adaptacija i dnevna rutina,
-4. koliki je cenovni raspon i sta ulazi u cenu,
+4. koliki je cenovni raspon i šta ulazi u cenu,
 5. kako izgleda prvi korak prijave (poziv, obilazak, razgovor).
 
-Praktican minimum sekcija:
-- hero sa jasnim CTA (zakazi obilazak),
+Praktičan minimum sekcija:
+- hero sa jasnim CTA (zakaži obilazak),
 - trust blok (tim, licence, bezbednost),
 - galerija prostora + dnevni ritam,
 - FAQ o ceni, obrocima i adaptaciji,
 - klikabilan telefon + forma iznad prevoja.
 
-Ako zelis da dodatno sredis i sajt kao prodajni alat, pogledaj [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+Ako želiš da dodatno središ i sajt kao prodajni alat, pogledaj [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
 
 ## KPI koje treba pratiti svake nedelje
 
-Ne meri samo broj klikova. Za privatne vrtice su bitnije ove metrike:
+Ne meri samo broj klikova. Za privatne vrtiće su bitnije ove metrike:
 
 1. cena kvalifikovane prijave,
 2. procenat prijava koje dolaze na obilazak,
 3. procenat obilazaka koji prelaze u upis,
 4. vreme odgovora na lead,
-5. stvarna cena potvrdjenog upisa.
+5. stvarna cena potvrđenog upisa.
 
-Tek kad to meris, znas da kampanja donosi rast, a ne samo saobracaj.
+Tek kad to meriš, znaš da kampanja donosi rast, a ne samo saobraćaj.
 
 ## 30-dnevni plan bez lutanja
 
 - **Nedelja 1:** setup po programima + geo segmentacija + call/form tracking.
-- **Nedelja 2:** ciscenje search terms + negativne reci + dorada copy-ja po intentu.
+- **Nedelja 2:** čišćenje search terms + negativne reči + dorada copy-ja po intentu.
 - **Nedelja 3:** optimizacija landing sekcija (bezbednost, adaptacija, cena, CTA).
-- **Nedelja 4:** preraspodela budzeta na segmente sa najboljim odnosom cena prijave / kvalitet upisa.
+- **Nedelja 4:** preraspodela budžeta na segmente sa najboljim odnosom cena prijave / kvalitet upisa.
 
-Ako hoces benchmark i za druge kanale, pogledaj i [instagram reklame cena](/instagram-reklame-cena) i [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026).
+Ako hoćeš benchmark i za druge kanale, pogledaj i [instagram reklame cena](/instagram-reklame-cena) i [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026).
 
-## Zakljucak
+## Zaključak
 
-Google Ads za privatne vrtice u Srbiji 2026 moze da donese stabilan priliv upisa kada kampanje vodis po programu, lokaciji i brzini obrade leadova, ne po najjeftinijem kliku.
-Ako hoces, mogu da oznacim 3 najbrza poteza za nizi trosak kvalifikovane prijave preko [kontakt forme](/kontakt).
+Google Ads za privatne vrtiće u Srbiji 2026 može da donese stabilan priliv upisa kada kampanje vodiš po programu, lokaciji i brzini obrade leadova, ne po najjeftinijem kliku.
+Ako hoćeš, mogu da označim 3 najbrža poteza za niži trošak kvalifikovane prijave preko [kontakt forme](/kontakt).
 `,
   },
 
   {
     slug: 'google-ads-za-salone-namestaja-cena-leada-srbija-2026',
-    title: 'Google Ads za salone namestaja u Srbiji 2026: cena lead-a, budžet i više kupaca',
-    excerpt: 'Koliko realno koštaju Google Ads kampanje za salone namestaja u Srbiji 2026, koji budžet ima smisla po fazama i kako da smanjite cenu kvalitetnog upita bez praznih klikova.',
+    title: 'Google Ads za salone nameštaja u Srbiji 2026: cena lead-a, budžet i više kupaca',
+    excerpt: 'Koliko realno koštaju Google Ads kampanje za salone nameštaja u Srbiji 2026, koji budžet ima smisla po fazama i kako da smanjite cenu kvalitetnog upita bez praznih klikova.',
     date: '2026-03-14',
     category: 'Google Ads',
     readTime: '10 min',
     content: `
-## Google Ads za salone namestaja u Srbiji 2026: kratak odgovor
+## Google Ads za salone nameštaja u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **google ads za salone namestaja cena**, realan okvir za srpsko trziste u 2026 najcesce izgleda ovako:
+Ako tražiš upit **google ads za salone nameštaja cena**, realan okvir za srpsko tržište u 2026 najčešće izgleda ovako:
 
 - **test faza:** 400e-1.000e/mes,
 - **stabilan priliv kvalitetnih upita:** 1.000e-2.800e/mes,
 - **skaliranje po kategorijama i gradovima:** 2.800e+/mes.
 
-Za siri benchmark Search troska pogledaj i [Google reklame cena](/google-reklame-cena), a za ukupni raspored ulaganja po kanalima [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Za širi benchmark Search troška pogledaj i [Google reklame cena](/google-reklame-cena), a za ukupni raspored ulaganja po kanalima [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-## Koliko realno kosta lead za salon namestaja
+## Koliko realno košta lead za salon nameštaja
 
-Posle 4-8 nedelja uredne optimizacije, najcesci rasponi su:
+Posle 4-8 nedelja uredne optimizacije, najčešći rasponi su:
 
 - **CPC:** 0.18e-1.25e,
 - **kvalifikovan upit (telefon ili forma):** 14e-68e,
@@ -15317,7 +15314,7 @@ Razlika je velika jer nije isto da li oglas targetira:
 
 Skuplji klik ne mora biti los, ako donosi ozbiljnije upite sa realnim budzetom.
 
-## Gde saloni namestaja najcesce gube budzet
+## Gde saloni nameštaja najčešće gube budžet
 
 ### 1) Sve kategorije proizvoda u jednoj kampanji
 Kada su kuhinje, garniture, stolovi i plakari u istoj ad grupi, poruka postaje preopsirna i quality score pada.
@@ -15327,32 +15324,32 @@ Bolje radi segmentacija po kategoriji + intentu (cena, po meri, brzo, premium).
 Ako naziv proizvoda nije jasan ili nema cenu i materijal, klikovi dolaze bez ozbiljne kupovne namere.
 
 ### 3) Landing koji ne zatvara sumnju kupca
-Ako stranica nema dimenzije, rok izrade, materijale i model placanja, korisnik odlazi konkurenciji.
+Ako stranica nema dimenzije, rok izrade, materijale i model plaćanja, korisnik odlazi konkurenciji.
 Ako ti je bottleneck posle klika, pogledaj i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
 
 ### 4) Nema odvajanja hot i cold upita
 Upiti tipa "cena kuhinje po meri" i "ideje za dnevnu sobu" ne smeju imati isti tretman i isti bid.
 
-## Struktura kampanje koja najcesce radi
+## Struktura kampanje koja najčešće radi
 
 ### 1) Kampanje po kategoriji i marzi
 Odvojiti najmanje:
 - kuhinje po meri,
-- plakare i americke plakare,
+- plakare i američke plakare,
 - ugaone i trosede,
 - trpezarijski program,
 - akcijski artikli.
 
 ### 2) Search + Performance Max uz jasan signal
-Search hvata jasan intent, dok PMax siri doseg uz kvalitetan feed i kreativu.
-Ali bez kontrole pretraga i redovnog ciscenja terms izvestaja, trosak brzo bezi.
+Search hvata jasan intent, dok PMax širi doseg uz kvalitetan feed i kreativu.
+Ali bez kontrole pretraga i redovnog ciscenja terms izveštaja, trošak brzo beži.
 
 ### 3) Geo segmentacija po realnoj logistici
-Ako pokrivate Beograd, Novi Sad i okolinu, kampanje i poruke treba da budu odvojene po dostupnosti isporuke i montaze.
+Ako pokrivate Beograd, Novi Sad i okolinu, kampanje i poruke treba da budu odvojene po dostupnosti isporuke i montaže.
 Za lokalni ugao korisni su i [marketing agencija Beograd](/marketing-agencija-beograd) i [marketing agencija Novi Sad](/marketing-agencija-novi-sad).
 
 ### 4) Remarketing sa konkretnom ponudom
-Posetioci koji su gledali kategoriju, ali nisu poslali upit, vracaju se kroz:
+Posetioci koji su gledali kategoriju, ali nisu poslali upit, vraćaju se kroz:
 - rok isporuke,
 - varijante materijala,
 - social proof,
@@ -15360,20 +15357,20 @@ Posetioci koji su gledali kategoriju, ali nisu poslali upit, vracaju se kroz:
 
 ## Landing koji pretvara klik u ozbiljan upit
 
-Ako vec placas saobracaj, landing mora da uradi pola prodaje pre poziva:
+Ako vec plaćaš saobraćaj, landing mora da uradi pola prodaje pre poziva:
 
 1. jasan naslov (kategorija + grad + kljucna korist),
 2. 6-12 relevantnih primera (fotografije + cena od-do),
 3. proces saradnje (upit -> merenje -> predlog -> realizacija),
 4. trust signali (recenzije, broj realizacija, garancija),
-5. jedan glavni CTA (zakazi merenje / trazi ponudu).
+5. jedan glavni CTA (zakaži merenje / traži ponudu).
 
-Ako prodajni deo nije jasan, kampanja moze imati promet, ali ne i kvalitetne upite.
+Ako prodajni deo nije jasan, kampanja može imati promet, ali ne i kvalitetne upite.
 
 ## KPI koje treba pratiti svake nedelje
 
 Ne vodi kampanju po jeftinom kliku.
-Za salone namestaja su bitnije ove metrike:
+Za salone nameštaja su bitnije ove metrike:
 
 1. cena kvalifikovanog upita,
 2. procenat upita koji prelaze u merenje,
@@ -15381,150 +15378,150 @@ Za salone namestaja su bitnije ove metrike:
 4. procenat ponuda koje postaju prodaja,
 5. bruto marza po prodaji iz oglasa.
 
-Tek tada znas da li Google Ads pravi zdrav rast, a ne samo volumen.
+Tek tada znaš da li Google Ads pravi zdrav rast, a ne samo volumen.
 
 ## 30-dnevni plan bez lutanja
 
 - **Nedelja 1:** setup kampanja po kategoriji + tracking za pozive i forme.
-- **Nedelja 2:** ciscenje search terms + negativne reci + bolji asset copy.
+- **Nedelja 2:** čišćenje search terms + negativne reči + bolji asset copy.
 - **Nedelja 3:** dorada landing sekcija (materijal, rok, cena opseg, CTA).
-- **Nedelja 4:** preraspodela budzeta samo na segmente sa najboljim odnosom cena upita / kvalitet.
+- **Nedelja 4:** preraspodela budžeta samo na segmente sa najboljim odnosom cena upita / kvalitet.
 
-Za detaljniji benchmark cene klika pogledaj [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026), a za model saradnje i [vodjenje Google Ads kampanja cena](/blog/vodjenje-google-ads-kampanja-cena-srbija-2026).
+Za detaljniji benchmark cene klika pogledaj [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026), a za model saradnje i [vođenje Google Ads kampanja cena](/blog/vodjenje-google-ads-kampanja-cena-srbija-2026).
 
-## Zakljucak
+## Zaključak
 
-Google Ads za salone namestaja u Srbiji 2026 moze da donese stabilan priliv kupaca kada kampanje vodis po kategoriji proizvoda, marzi i kvalitetu upita, ne po najjeftinijem kliku.
-Ako hoces, mogu da uradim mini audit i oznacim 3 najbrza poteza za nizi trosak kvalifikovanog upita preko [kontakt forme](/kontakt).
+Google Ads za salone nameštaja u Srbiji 2026 može da donese stabilan priliv kupaca kada kampanje vodiš po kategoriji proizvoda, marzi i kvalitetu upita, ne po najjeftinijem kliku.
+Ako hoćeš, mogu da uradim mini audit i označim 3 najbrža poteza za niži trošak kvalifikovanog upita preko [kontakt forme](/kontakt).
 `,
   },
 
   {
     slug: 'google-ads-za-skolice-stranih-jezika-cena-upisa-srbija-2026',
-    title: 'Google Ads za skolice stranih jezika u Srbiji 2026: cena upisa, budžet i manje praznih upita',
-    excerpt: 'Koliko realno koštaju Google Ads kampanje za skolice stranih jezika u Srbiji 2026, koji budžet ima smisla po sezoni i kako da spustite cenu kvalitetnog upisa bez praznih prijava.',
+    title: 'Google Ads za školice stranih jezika u Srbiji 2026: cena upisa, budžet i manje praznih upita',
+    excerpt: 'Koliko realno koštaju Google Ads kampanje za školice stranih jezika u Srbiji 2026, koji budžet ima smisla po sezoni i kako da spustite cenu kvalitetnog upisa bez praznih prijava.',
     date: '2026-03-14',
     category: 'Google Ads',
     readTime: '10 min',
     content: `
-## Google Ads za skolice stranih jezika u Srbiji 2026: kratak odgovor
+## Google Ads za školice stranih jezika u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **google ads za skolice stranih jezika cena**, realan okvir za srpsko trziste u 2026 najcesce izgleda ovako:
+Ako tražiš upit **google ads za školice stranih jezika cena**, realan okvir za srpsko tržište u 2026 najčešće izgleda ovako:
 
 - **test faza:** 300e-900e/mes,
 - **stabilan priliv prijava:** 900e-2.400e/mes,
-- **skaliranje po gradovima i jezickim programima:** 2.400e+/mes.
+- **skaliranje po gradovima i jezičkim programima:** 2.400e+/mes.
 
-Za siri benchmark Search troska pogledaj i [Google reklame cena](/google-reklame-cena), a za ukupnu sliku ulaganja po kanalima i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Za širi benchmark Search troška pogledaj i [Google reklame cena](/google-reklame-cena), a za ukupnu sliku ulaganja po kanalima i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-## Koliko realno kosta lead i upis za skolicu jezika
+## Koliko realno košta lead i upis za školicu jezika
 
-Posle 4-8 nedelja uredne optimizacije, najcesci rasponi su:
+Posle 4-8 nedelja uredne optimizacije, najčešći rasponi su:
 
 - **CPC:** 0.14e-1.10e,
 - **kvalifikovan lead (poziv ili forma):** 8e-36e,
-- **potvrdjen upis polaznika:** 35e-160e.
+- **potvrđen upis polaznika:** 35e-160e.
 
-Raspon je siri jer nije isto da li kampanja targetira:
+Raspon je širi jer nije isto da li kampanja targetira:
 
 1. decu pred upis novog semestra,
 2. odrasle za konverzacijski kurs,
 3. poslovni engleski za firme,
 4. intenzivne pripreme za sertifikate.
 
-Sto je upit blizi odluci o upisu, to je klik skuplji, ali je konverzija obicno bolja.
+Što je upit bliži odluci o upisu, to je klik skuplji, ali je konverzija obično bolja.
 
-## Gde skolice jezika najcesce gube budzet
+## Gde školice jezika najčešće gube budžet
 
 ### 1) Jedna kampanja za sve jezike i sve nivoe
-Ako su engleski, nemacki i italijanski u istoj ad grupi, poruka postaje preopsta i quality score pada.
-Bolje radi podela po jeziku + po nivou (pocetni, srednji, napredni).
+Ako su engleski, nemački i italijanski u istoj ad grupi, poruka postaje preopšta i quality score pada.
+Bolje radi podela po jeziku + po nivou (početni, srednji, napredni).
 
-### 2) Oglas obecava brz upis, a kontakt forma je spora
-Ako roditelj ili polaznik ceka odgovor satima, lead odlazi konkurenciji.
-Kod skolica jezika brz follow-up direktno utice na cenu upisa.
+### 2) Oglas obećava brz upis, a kontakt forma je spora
+Ako roditelj ili polaznik čeka odgovor satima, lead odlazi konkurenciji.
+Kod školica jezika brz follow-up direktno utiče na cenu upisa.
 
-### 3) Nema negativnih kljucnih reci
-Bez negative keyword higijene kampanja vuce nerelevantne upite kao:
+### 3) Nema negativnih ključnih reči
+Bez negative keyword higijene kampanja vuče nerelevantne upite kao:
 - besplatni online kursevi,
 - posao profesor jezika,
-- prevodjenje dokumenata,
+- prevođenje dokumenata,
 - gradovi koje ne pokrivate.
 
 ### 4) Landing stranica nema jasan program i termine
 Ako stranica nema raspored grupa, trajanje kursa i jasan CTA, dobijate klikove bez stvarnih prijava.
-Za kvalitetniji post-click deo pogledaj i [izradu landing stranice: cena, rokovi, sta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
+Za kvalitetniji post-click deo pogledaj i [izradu landing stranice: cena, rokovi, šta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
 
-## Budzet plan po fazama
+## Budžet plan po fazama
 
 ### Faza 1: Test (prvih 30 dana)
 - 2-3 prioritetna programa (npr. engleski za decu + konverzacijski za odrasle),
 - 1 grad ili jasno definisan radius,
 - call tracking + forma,
-- oglasi sa jasnim CTA za prijavu na probni cas.
+- oglasi sa jasnim CTA za prijavu na probni čas.
 
-Cilj je da brzo pronadjes segmente koji daju najvise potvrdjenih upisa, ne samo upita.
+Cilj je da brzo pronađeš segmente koji daju najviše potvrđenih upisa, ne samo upita.
 
 ### Faza 2: Stabilizacija (30-90 dana)
-- nedeljno ciscenje search terms izvestaja,
+- nedeljno čišćenje search terms izveštaja,
 - odvojeni oglasi po intentu (cena, termini, nivo),
 - test 2-3 varijante ponude i poruke,
-- optimizacija po ceni potvrdjenog upisa.
+- optimizacija po ceni potvrđenog upisa.
 
-Ovde se najcesce desava pad CPL-a i veca predvidljivost broja prijava po mesecu.
+Ovde se najčešće dešava pad CPL-a i veća predvidljivost broja prijava po mesecu.
 
 ### Faza 3: Skaliranje (90+ dana)
-- sirenje na dodatne gradove,
+- širenje na dodatne gradove,
 - sezonske kampanje pred septembar i januar,
-- remarketing za posetioce koji nisu zavrsili prijavu,
-- preraspodela budzeta samo na segmente sa zdravim CPA.
+- remarketing za posetioce koji nisu završili prijavu,
+- preraspodela budžeta samo na segmente sa zdravim CPA.
 
-Ako ti treba geo poredjenje po gradovima, pogledaj i [marketing agencija Beograd](/marketing-agencija-beograd), [marketing agencija Novi Sad](/marketing-agencija-novi-sad) i [marketing agencija Zrenjanin](/marketing-agencija-zrenjanin).
+Ako ti treba geo poređenje po gradovima, pogledaj i [marketing agencija Beograd](/marketing-agencija-beograd), [marketing agencija Novi Sad](/marketing-agencija-novi-sad) i [marketing agencija Zrenjanin](/marketing-agencija-zrenjanin).
 
-## Landing struktura koja podize procenat prijava
+## Landing struktura koja podiže procenat prijava
 
-Za skolicu jezika landing mora brzo da odgovori na 5 pitanja:
+Za školicu jezika landing mora brzo da odgovori na 5 pitanja:
 
-1. koji jezik i nivo mogu da upisem,
-2. kada su termini i trajanje casova,
-3. kolika je cena i da li postoji placanje na rate,
-4. ko drzi nastavu i kakav je program,
+1. koji jezik i nivo mogu da upišem,
+2. kada su termini i trajanje časova,
+3. kolika je cena i da li postoji plaćanje na rate,
+4. ko drži nastavu i kakav je program,
 5. kako izgleda prvi korak prijave.
 
-Praktican minimum sekcija:
+Praktičan minimum sekcija:
 - hero sa jasnim CTA za prijavu,
 - trust blok (iskustva polaznika, rezultati, sertifikati),
 - FAQ o cenama, terminima i nivoima,
 - klikabilan telefon + forma iznad prevoja.
 
-Ako korisnik mora da trazi osnovne informacije po celoj stranici, cena upisa skoro uvek raste.
+Ako korisnik mora da traži osnovne informacije po celoj stranici, cena upisa skoro uvek raste.
 
 ## KPI koje vredi pratiti svake nedelje
 
 Nemoj voditi kampanju po jeftinom kliku.
-Za skolice jezika su bitnije metrike:
+Za školice jezika su bitnije metrike:
 
 1. cena kvalifikovanog upita,
 2. stopa prijava iz forme,
 3. procenat prijava koje prelaze u upis,
-4. cena potvrdjenog upisa,
+4. cena potvrđenog upisa,
 5. vreme odgovora od upita do prvog kontakta.
 
-Ako se prati samo CPC, kampanja moze delovati jeftino, a da stvarno daje slab ROI.
+Ako se prati samo CPC, kampanja može delovati jeftino, a da stvarno daje slab ROI.
 
 ## Kratak 30-dnevni plan bez lutanja
 
 - **Nedelja 1:** setup kampanja po jeziku, nivou i lokaciji + tracking.
-- **Nedelja 2:** negativne reci i ciscenje nerelevantnih pretraga.
+- **Nedelja 2:** negativne reči i čišćenje nerelevantnih pretraga.
 - **Nedelja 3:** dorada landing poruke i CTA toka za brzu prijavu.
-- **Nedelja 4:** preraspodela budzeta na segmente sa najboljom cenom upisa.
+- **Nedelja 4:** preraspodela budžeta na segmente sa najboljom cenom upisa.
 
-Za detaljniji benchmark troska po kliku pogledaj i [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026), a za model saradnje [vodjenje Google Ads kampanja cena](/blog/vodjenje-google-ads-kampanja-cena-srbija-2026).
+Za detaljniji benchmark troška po kliku pogledaj i [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026), a za model saradnje [vođenje Google Ads kampanja cena](/blog/vodjenje-google-ads-kampanja-cena-srbija-2026).
 
-## Zakljucak
+## Zaključak
 
-Google Ads za skolice stranih jezika u Srbiji 2026 moze biti veoma profitabilan kanal kada su kampanje segmentirane po jeziku, nivou i sezoni, a leadovi obradjeni brzo.
-Ako hoces, mogu da uradim mini audit i oznacim 3 najbrza poteza za nizi trosak upisa preko [kontakt forme](/kontakt).
+Google Ads za školice stranih jezika u Srbiji 2026 može biti veoma profitabilan kanal kada su kampanje segmentirane po jeziku, nivou i sezoni, a leadovi obrađeni brzo.
+Ako hoćeš, mogu da uradim mini audit i označim 3 najbrža poteza za niži trošak upisa preko [kontakt forme](/kontakt).
 `,
   },
 
@@ -15536,93 +15533,93 @@ Ako hoces, mogu da uradim mini audit i oznacim 3 najbrza poteza za nizi trosak u
     category: 'Google Ads',
     readTime: '10 min',
     content: `
-## Google Ads za auto skole u Srbiji 2026: kratak odgovor
+## Google Ads za auto škole u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **google ads za auto skole cena**, realan okvir na srpskom trzistu u 2026 najcesce izgleda ovako:
+Ako tražiš upit **google ads za auto škole cena**, realan okvir na srpskom trzistu u 2026 najčešće izgleda ovako:
 
 - **test faza:** 300e-800e/mes,
 - **stabilan broj prijava:** 800e-2.000e/mes,
 - **skaliranje po gradu i kategoriji obuke:** 2.000e+/mes.
 
-Za siri benchmark po Search kanalu pogledaj [Google reklame cena](/google-reklame-cena), a za ukupnu sliku ulaganja po kanalima i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Za širi benchmark po Search kanalu pogledaj [Google reklame cena](/google-reklame-cena), a za ukupnu sliku ulaganja po kanalima i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-## Koliko realno kosta lead i upis za auto skolu
+## Koliko realno košta lead i upis za auto školu
 
-Posle 4-8 nedelja uredne optimizacije, najcesci rasponi su:
+Posle 4-8 nedelja uredne optimizacije, najčešći rasponi su:
 
 - **CPC:** 0.12e-0.95e,
 - **kvalifikovan poziv ili forma:** 7e-32e,
-- **potvrdjen upis kandidata:** 30e-140e.
+- **potvrđen upis kandidata:** 30e-140e.
 
-Raspon je siri zato sto nije isto da li kampanja targetira:
+Raspon je širi zato što nije isto da li kampanja targetira:
 
 1. pocetnike koji tek istrazuju,
 2. kandidate pred polaganje teorije,
-3. kandidate koji traze ubrzanu obuku,
-4. ljude koji menjaju auto skolu posle loseg iskustva.
+3. kandidate koji traže ubrzanu obuku,
+4. ljude koji menjaju auto školu posle loseg iskustva.
 
-Sto je upit blizi odluci o upisu, to je klik skuplji, ali je i procenat konverzije obicno bolji.
+Što je upit bliži odluci o upisu, to je klik skuplji, ali je i procenat konverzije obično bolji.
 
-## Gde auto skole najcesce gube budzet
+## Gde auto škole najčešće gube budžet
 
 ### 1) Jedna kampanja za sve kategorije i gradove
 Ako su A, B i dodatne obuke u istoj grupi oglasa, poruka postaje mutna i quality score pada.
 Bolje radi podela po kategoriji + po lokaciji.
 
-### 2) Oglas obecava brz upis, a proces prijave je spor
-Ako kandidat ceka satima na odgovor, lead odlazi konkurenciji.
-Kod auto skola brz follow-up direktno utice na cenu upisa.
+### 2) Oglas obećava brz upis, a proces prijave je spor
+Ako kandidat čeka satima na odgovor, lead odlazi konkurenciji.
+Kod auto škola brz follow-up direktno utiče na cenu upisa.
 
-### 3) Nema negativnih kljucnih reci
-Bez negative keyword higijene kampanja vuce nerelevantne upite kao:
-- posao instruktor voznje,
+### 3) Nema negativnih ključnih reči
+Bez negative keyword higijene kampanja vuče nerelevantne upite kao:
+- posao instruktor vožnje,
 - testovi besplatno online,
-- auto skole u gradovima koje ne pokrivate,
+- auto škole u gradovima koje ne pokrivate,
 - upiti za kategorije koje ne nudite.
 
 ### 4) Landing stranica ne uklanja sumnju kandidata
 Ako landing nema jasan cenovnik, termine, lokaciju i proces upisa, dobijate mnogo klikova, a malo stvarnih prijava.
-Ako hoces da pojacas post-click deo, pogledaj i [izradu landing stranice: cena, rokovi, sta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
+Ako hoćeš da pojacas post-click deo, pogledaj i [izradu landing stranice: cena, rokovi, šta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
 
-## Budzet plan po fazama
+## Budžet plan po fazama
 
 ### Faza 1: Test (prvih 30 dana)
-- 2-3 najuze usluge (npr. B kategorija + probni test),
+- 2-3 najuže usluge (npr. B kategorija + probni test),
 - 1 grad ili jasno definisan radius,
 - call tracking + forma,
 - oglasi sa jasnim CTA za prijavu.
 
-Cilj je da brzo nadjes segmente koji daju najvise stvarnih upisa, ne samo poziva.
+Cilj je da brzo nađeš segmente koji daju najviše stvarnih upisa, ne samo poziva.
 
 ### Faza 2: Stabilizacija (30-90 dana)
-- ciscenje search terms svake nedelje,
+- čišćenje search terms svake nedelje,
 - odvojeni oglasi po intentu (cena, rok, lokacija),
 - test 2-3 varijante poruke i ponude,
-- optimizacija po ceni potvrdjenog upisa.
+- optimizacija po ceni potvrđenog upisa.
 
-Ovde se najcesce desava pad CPL-a i bolja predvidljivost broja prijava po mesecu.
+Ovde se najčešće dešava pad CPL-a i bolja predvidljivost broja prijava po mesecu.
 
 ### Faza 3: Skaliranje (90+ dana)
-- sirenje na dodatne lokacije,
-- kampanje po sezonskim pikovima (prolece/jesen),
+- širenje na dodatne lokacije,
+- kampanje po sezonskim pikovima (proleće/jesen),
 - remarketing za posetioce koji nisu popunili prijavu,
-- preraspodela budzeta samo na segmente sa zdravim CPA.
+- preraspodela budžeta samo na segmente sa zdravim CPA.
 
-Ako ti treba poredjenje po gradovima, korisni su i [marketing agencija Beograd](/marketing-agencija-beograd), [marketing agencija Novi Sad](/marketing-agencija-novi-sad) i [marketing agencija Zrenjanin](/marketing-agencija-zrenjanin).
+Ako ti treba poređenje po gradovima, korisni su i [marketing agencija Beograd](/marketing-agencija-beograd), [marketing agencija Novi Sad](/marketing-agencija-novi-sad) i [marketing agencija Zrenjanin](/marketing-agencija-zrenjanin).
 
-## Landing struktura koja podize procenat prijava
+## Landing struktura koja podiže procenat prijava
 
-Za auto skole landing mora brzo da odgovori na 5 pitanja:
+Za auto škole landing mora brzo da odgovori na 5 pitanja:
 
-1. kolika je cena i da li postoji placanje na rate,
+1. kolika je cena i da li postoji plaćanje na rate,
 2. koji su slobodni termini,
-3. gde se odrzava teorija i praksa,
+3. gde se održava teorija i praksa,
 4. koliko traje proces do izlaska na ispit,
 5. kako izgleda prvi korak prijave.
 
-Praktican minimum sekcija:
+Praktičan minimum sekcija:
 - hero sa jasnim CTA za prijavu,
-- trust blok (iskustva kandidata, prolaznost, broj obucenih vozaca),
+- trust blok (iskustva kandidata, prolaznost, broj obucenih vozača),
 - FAQ o cenama, dokumentima i terminima,
 - klikabilan telefon + forma iznad prevoja.
 
@@ -15631,129 +15628,129 @@ Ako kandidat mora da "kopa" po stranici za osnovne informacije, cena upisa gotov
 ## KPI koje vredi pratiti svake nedelje
 
 Ne vodi kampanju po jeftinom kliku.
-Za auto skole su bitnije metrike:
+Za auto škole su bitnije metrike:
 
 1. cena kvalifikovanog poziva,
 2. stopa prijava iz forme,
 3. procenat prijava koje prelaze u upis,
-4. cena potvrdjenog upisa,
+4. cena potvrđenog upisa,
 5. vreme odgovora od upita do prvog kontakta.
 
-Ako se prati samo CPC, kampanja moze delovati "jeftino", a da u stvarnosti daje slab ROI.
+Ako se prati samo CPC, kampanja može delovati "jeftino", a da u stvarnosti daje slab ROI.
 
 ## Kratak 30-dnevni plan bez lutanja
 
 - **Nedelja 1:** setup kampanja po kategoriji i gradu + tracking.
-- **Nedelja 2:** negativne reci i ciscenje nerelevantnih search terms.
+- **Nedelja 2:** negativne reči i čišćenje nerelevantnih search terms.
 - **Nedelja 3:** dorada landing poruke i CTA toka za brzu prijavu.
-- **Nedelja 4:** preraspodela budzeta na segmente sa najboljom cenom upisa.
+- **Nedelja 4:** preraspodela budžeta na segmente sa najboljom cenom upisa.
 
-Za dublji benchmark CPC/CPA raspona pogledaj i [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026), a za model saradnje [vodjenje Google Ads kampanja cena](/blog/vodjenje-google-ads-kampanja-cena-srbija-2026).
+Za dublji benchmark CPC/CPA raspona pogledaj i [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026), a za model saradnje [vođenje Google Ads kampanja cena](/blog/vodjenje-google-ads-kampanja-cena-srbija-2026).
 
-## Zakljucak
+## Zaključak
 
-Google Ads za auto skole u Srbiji 2026 moze biti vrlo profitabilan kanal kada su kampanje podeljene po intentu, kategoriji i lokaciji, a leadovi obradjeni brzo.
-Ako hoces, mogu da uradim mini audit i oznacim 3 najbrza poteza za nizi trosak upisa preko [kontakt forme](/kontakt).
+Google Ads za auto škole u Srbiji 2026 može biti vrlo profitabilan kanal kada su kampanje podeljene po intentu, kategoriji i lokaciji, a leadovi obrađeni brzo.
+Ako hoćeš, mogu da uradim mini audit i označim 3 najbrža poteza za niži trošak upisa preko [kontakt forme](/kontakt).
 `,
   },
   {
     slug: 'google-ads-za-firme-za-selidbe-cena-poziva-srbija-2026',
     title: 'Google Ads za firme za selidbe u Srbiji 2026: cena poziva, budžet i manje izgubljenih upita',
-    excerpt: 'Koliko realno koštaju Google Ads kampanje za firme za selidbe u Srbiji 2026, koji budžet ima smisla po sezoni i kako da spustite cenu kvalitetnog poziva bez praznih voznji.',
+    excerpt: 'Koliko realno koštaju Google Ads kampanje za firme za selidbe u Srbiji 2026, koji budžet ima smisla po sezoni i kako da spustite cenu kvalitetnog poziva bez praznih vožnji.',
     date: '2026-03-14',
     category: 'Google Ads',
     readTime: '10 min',
     content: `
 ## Google Ads za firme za selidbe u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **google ads za firme za selidbe cena**, realan okvir u 2026 je:
+Ako tražiš upit **google ads za firme za selidbe cena**, realan okvir u 2026 je:
 
 - **test faza:** 350e-900e/mes,
 - **stabilan lead flow:** 900e-2.200e/mes,
 - **skaliranje po gradu i tipu selidbe:** 2.200e+/mes.
 
-Za siri benchmark ulaganja po Search kanalu pogledaj i [Google reklame cena](/google-reklame-cena), a za poredjenje sa celim planom akvizicije i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Za širi benchmark ulaganja po Search kanalu pogledaj i [Google reklame cena](/google-reklame-cena), a za poređenje sa celim planom akvizicije i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-## Koliko realno kosta lead za selidbe
+## Koliko realno košta lead za selidbe
 
-Posle 4-8 nedelja uredne optimizacije, najcesci rasponi su:
+Posle 4-8 nedelja uredne optimizacije, najčešći rasponi su:
 
 - **CPC:** 0.18e-1.15e,
 - **kvalifikovan poziv/upit:** 9e-42e,
-- **potvrdjena selidba:** 28e-140e.
+- **potvrđena selidba:** 28e-140e.
 
-Raspon je siri jer nije isto da li targetiras:
+Raspon je širi jer nije isto da li targetiraš:
 
 1. lokalne gradske selidbe,
-2. medjugradske selidbe,
+2. međugradske selidbe,
 3. poslovne selidbe kancelarija,
 4. hitne selidbe "isti dan".
 
-Sto je veci urgency i veca vrednost usluge, to je klik skuplji, ali i potencijalni prihod po poslu veci.
+Što je veći urgency i veća vrednost usluge, to je klik skuplji, ali i potencijalni prihod po poslu veći.
 
-## Gde firme za selidbe najcesce gube budzet
+## Gde firme za selidbe najčešće gube budžet
 
 ### 1) Sve usluge u jednoj kampanji
-Ako su "selidba stana", "selidba firme" i "transport namestaja" u istoj ad grupi, poruka postaje mutna i CPC raste.
-Bolje radi podela po usluzi + po intentu (cena, hitno, medjugradski, paket usluge).
+Ako su "selidba stana", "selidba firme" i "transport nameštaja" u istoj ad grupi, poruka postaje mutna i CPC raste.
+Bolje radi podela po usluzi + po intentu (cena, hitno, međugradski, paket usluge).
 
-### 2) Oglas obecava brz odgovor, a telefon se ne javlja
+### 2) Oglas obećava brz odgovor, a telefon se ne javlja
 Kod selidbi je vreme reakcije presudno.
-Ako lead ceka 20+ minuta, posao vrlo cesto ode konkurenciji.
+Ako lead čeka 20+ minuta, posao vrlo često ode konkurenciji.
 
-### 3) Nema negativnih kljucnih reci
-Bez negative keyword higijene kampanja vuce upite poput:
+### 3) Nema negativnih ključnih reči
+Bez negative keyword higijene kampanja vuče upite poput:
 - posao/oglas za radnike,
 - rent-a-kombi bez usluge,
-- selidba u inostranstvo ako to ne radis,
+- selidba u inostranstvo ako to ne radiš,
 - informativne pretrage bez kupovne namere.
 
 ### 4) Landing stranica je "lepa", ali ne prodaje
-Ako landing nema jasan cenovni okvir, listu sta ulazi u uslugu i brz CTA (poziv/Viber/WhatsApp), kvalitet leadova pada i cena upita raste.
+Ako landing nema jasan cenovni okvir, listu šta ulazi u uslugu i brz CTA (poziv/Viber/WhatsApp), kvalitet leadova pada i cena upita raste.
 
-## Budzet plan po sezoni i fazama
+## Budžet plan po sezoni i fazama
 
 ### Faza 1: Test (prvih 30 dana)
-- 2-3 najuze profitabilne usluge,
+- 2-3 najuže profitabilne usluge,
 - 1 grad ili jasno definisan radius,
 - call tracking i forma kao backup,
 - oglasi sa jasnim rokom odgovora.
 
-Cilj testa je da nadjes segmente koji daju najvise stvarno zakazanih selidbi, ne samo klikove.
+Cilj testa je da nađeš segmente koji daju najviše stvarno zakazanih selidbi, ne samo klikove.
 
 ### Faza 2: Stabilizacija (30-90 dana)
-- weekly ciscenje search terms,
+- weekly čišćenje search terms,
 - odvojeni oglasi po tipu selidbe,
 - test 2-3 varijante ponude (fiksna cena, procena, paket),
-- optimizacija po ceni potvrdjene selidbe.
+- optimizacija po ceni potvrđene selidbe.
 
-Ovde se najcesce desava pad CPL-a i bolja predvidljivost rasporeda voznji.
+Ovde se najčešće dešava pad CPL-a i bolja predvidljivost rasporeda vožnji.
 
 ### Faza 3: Skaliranje (90+ dana)
-- sirenje na dodatne gradove,
-- posebni budzeti za sezonski peak,
-- agresivnije bid strategije za termine sa najvecom marzom,
-- remarketing za korisnike koji su trazili procenu ali nisu rezervisali termin.
+- širenje na dodatne gradove,
+- posebni budžeti za sezonski peak,
+- agresivnije bid strategije za termine sa najvećom maržom,
+- remarketing za korisnike koji su tražili procenu ali nisu rezervisali termin.
 
-Ako zelis i geo poredjenje po gradovima, korisni su [marketing agencija Beograd](/marketing-agencija-beograd) i [marketing agencija Novi Sad](/marketing-agencija-novi-sad).
+Ako želiš i geo poređenje po gradovima, korisni su [marketing agencija Beograd](/marketing-agencija-beograd) i [marketing agencija Novi Sad](/marketing-agencija-novi-sad).
 
-## Landing struktura koja dize procenat zakazanih selidbi
+## Landing struktura koja diže procenat zakazanih selidbi
 
 Za firme za selidbe landing mora da odgovori brzo i jasno:
 
 1. koje tipove selidbi pokrivate,
-2. da li nudite pakovanje i zastitu,
-3. okvir cene ili model obracuna,
+2. da li nudite pakovanje i zaštitu,
+3. okvir cene ili model obračuna,
 4. kako brzo odgovarate,
 5. kako izgleda proces od upita do realizacije.
 
-Praktican minimum sekcija:
+Praktičan minimum sekcija:
 - hero sa uslugom + lokacijom,
 - trust blok (broj realizovanih selidbi, recenzije),
 - FAQ o cenama i osiguranju stvari,
 - CTA dugme i klikabilan telefon iznad prevoja.
 
-Ako treba da doradis i post-click deo, pogledaj [izradu landing stranice: cena, rokovi, sta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
+Ako treba da doradiš i post-click deo, pogledaj [izradu landing stranice: cena, rokovi, šta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
 
 ## KPI koje vredi pratiti svake nedelje
 
@@ -15762,25 +15759,25 @@ Za selidbe su bitnije metrike:
 
 1. cena kvalifikovanog poziva,
 2. procenat poziva koji prelazi u procenu,
-3. cena potvrdjene selidbe,
-4. prosecna vrednost po realizovanoj selidbi,
+3. cena potvrđene selidbe,
+4. prosečna vrednost po realizovanoj selidbi,
 5. vreme odgovora na upit.
 
-Dobra kampanja moze da izgleda losa ako operativa kasni sa odgovorom ili ako call skripta nije jasna.
+Dobra kampanja može da izgleda loša ako operativa kasni sa odgovorom ili ako call skripta nije jasna.
 
 ## Kratak 30-dnevni plan bez lutanja
 
 - **Nedelja 1:** setup kampanja po usluzi + gradu + call tracking.
-- **Nedelja 2:** negativne reci i ciscenje nerelevantnih upita.
+- **Nedelja 2:** negativne reči i čišćenje nerelevantnih upita.
 - **Nedelja 3:** dorada landing poruke i CTA toka za brzu rezervaciju.
-- **Nedelja 4:** preraspodela budzeta samo na segmente sa najboljim odnosom cena upita / potvrdjena selidba.
+- **Nedelja 4:** preraspodela budžeta samo na segmente sa najboljim odnosom cena upita / potvrđena selidba.
 
-Za poredjenje sa drugim kanalima, pogledaj i [Instagram reklame cena](/instagram-reklame-cena) i [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama).
+Za poređenje sa drugim kanalima, pogledaj i [Instagram reklame cena](/instagram-reklame-cena) i [koliko košta Facebook reklama](/koliko-kosta-facebook-reklama).
 
-## Zakljucak
+## Zaključak
 
-Google Ads za firme za selidbe u Srbiji 2026 moze da bude veoma profitabilan kanal kada kampanje vodis po usluzi, lokaciji i brzini odgovora, a ne po broju klikova.
-Ako hoces, mogu da uradim mini audit i oznacim 3 najbrza poteza za nizi trosak kvalitetnog upita kroz [kontakt](/kontakt).
+Google Ads za firme za selidbe u Srbiji 2026 može da bude veoma profitabilan kanal kada kampanje vodiš po usluzi, lokaciji i brzini odgovora, a ne po broju klikova.
+Ako hoćeš, mogu da uradim mini audit i označim 3 najbrža poteza za niži trošak kvalitetnog upita kroz [kontakt](/kontakt).
 `,
   },
   {
@@ -15908,106 +15905,106 @@ Ako hoces, mogu da napravim konkretan 90-dnevni plan za tvoju kliniku (po usluzi
   },
   {
     slug: 'redizajn-wordpress-sajta-cena-srbija-2026',
-    title: 'Redizajn WordPress sajta cena u Srbiji 2026: šta podiže trosak i kako da izbegneš SEO pad',
-    excerpt: 'Koliko realno košta redizajn WordPress sajta u Srbiji 2026, šta najviše podiže cenu i kako da uradis vizuelno osveženje bez pada SEO pozicija i leadova.',
+    title: 'Redizajn WordPress sajta cena u Srbiji 2026: šta podiže trošak i kako da izbegneš SEO pad',
+    excerpt: 'Koliko realno košta redizajn WordPress sajta u Srbiji 2026, šta najviše podiže cenu i kako da uradiš vizuelno osveženje bez pada SEO pozicija i leadova.',
     date: '2026-03-14',
     category: 'WordPress',
     readTime: '11 min',
     content: `
 ## Redizajn WordPress sajta cena u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **redizajn WordPress sajta cena**, u praksi se najcesce kreces u ova 3 raspona:
+Ako tražiš upit **redizajn WordPress sajta cena**, u praksi se najčešće krećeš u ova 3 raspona:
 
-- **manji redizajn postojeceg sajta:** 450e-1.400e,
-- **redizajn + UX/CRO dorade + tehnicka optimizacija:** 1.400e-3.500e,
+- **manji redizajn postojećeg sajta:** 450e-1.400e,
+- **redizajn + UX/CRO dorade + tehnička optimizacija:** 1.400e-3.500e,
 - **kompletan redizajn sa novom strukturom i SEO migracijom:** 3.500e+.
 
-Za siri kontekst ukupnih troskova web projekta pogledaj i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena) i [cene izrade sajta](/cene-izrade-sajta).
+Za širi kontekst ukupnih troškova web projekta pogledaj i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena) i [cene izrade sajta](/cene-izrade-sajta).
 
-## Od cega realno zavisi cena redizajna
+## Od čega realno zavisi cena redizajna
 
-Najveci trosak ne pravi "lepota dizajna", nego obim posla ispod haube:
+Najveći trošak ne pravi "lepota dizajna", nego obim posla ispod haube:
 
 1. broj jedinstvenih template-a (home, usluge, blog, landing),
-2. da li se menja samo UI ili i kompletna struktura sadrzaja,
+2. da li se menja samo UI ili i kompletna struktura sadržaja,
 3. da li postoji SEO migracija (URL, redirect, metadata, schema),
-4. koliko custom funkcionalnosti treba zadrzati ili prepisati,
-5. da li projekat ukljucuje copy + fotografije + CRO doradu.
+4. koliko custom funkcionalnosti treba zadržati ili prepisati,
+5. da li projekat uključuje copy + fotografije + CRO doradu.
 
-Ako ne razdvojis ove stavke, dve ponude mogu delovati "iste" na papiru, a u stvarnosti imaju potpuno drugu dubinu isporuke.
+Ako ne razdvojiš ove stavke, dve ponude mogu delovati "iste" na papiru, a u stvarnosti imaju potpuno drugu dubinu isporuke.
 
-## Tri tipa redizajna i kako da biras
+## Tri tipa redizajna i kako da biraš
 
 ### 1) Cosmetic refresh
 Menja se vizuelni sloj (tipografija, boje, komponente), ali content i URL struktura ostaju skoro isti.
 Dobar izbor kad sajt i dalje donosi leadove, ali izgleda zastarelo.
 
 ### 2) Conversion redizajn
-Pored dizajna menjas i flow stranica, CTA blokove, sekcije poverenja i lead tok.
-Ovaj tip redizajna je najcesci za firme koje imaju saobracaj, ali slab procenat upita.
+Pored dizajna menjaš i flow stranica, CTA blokove, sekcije poverenja i lead tok.
+Ovaj tip redizajna je najčešći za firme koje imaju saobraćaj, ali slab procenat upita.
 
 ### 3) Strategic rebuild
-Menja se informacijska arhitektura, uvode se nove servisne landing stranice, cesto i nova content mapa.
-Radi se kada stari sajt vise ne moze da podrzi rast i SEO klaster strategiju.
+Menja se informacijska arhitektura, uvode se nove servisne landing stranice, često i nova content mapa.
+Radi se kada stari sajt više ne može da podrži rast i SEO klaster strategiju.
 
-## Gde firme najcesce preplate redizajn
+## Gde firme najčešće preplate redizajn
 
-### 1) Placaju mockup, a ne sistem
-Ako agencija isporuci samo 3 "lepa" ekrana bez reusable komponenti i jasnog style sistema, svaka sledeca izmena postaje skupa.
+### 1) Plaćaju mockup, a ne sistem
+Ako agencija isporuči samo 3 "lepa" ekrana bez reusable komponenti i jasnog style sistema, svaka sledeća izmena postaje skupa.
 
-### 2) Ignorisu mobilni UX
-Desktop izgleda odlicno, ali 70% poseta dolazi sa mobilnog i pada na formi, sporo ucitanom hero-u ili nejasnom CTA-u.
+### 2) Ignorišu mobilni UX
+Desktop izgleda odlično, ali 70% poseta dolazi sa mobilnog i pada na formi, sporo učitanom hero-u ili nejasnom CTA-u.
 
 ### 3) Zaborave SEO migraciju
-Promene URL, naslove i strukturu bez redirect plana pa izgube indeksirane stranice i organski saobracaj.
-Ako ulazis u veci zahvat, obavezno uporedi i [SEO optimizacija cena](/seo-optimizacija-cena) da vidis sta mora da bude deo projekta.
+Promene URL, naslove i strukturu bez redirect plana pa izgube indeksirane stranice i organski saobraćaj.
+Ako ulaziš u veći zahvat, obavezno uporedi i [SEO optimizacija cena](/seo-optimizacija-cena) da vidiš šta mora da bude deo projekta.
 
 ### 4) Nema jasnog acceptance kriterijuma
-Bez kriterijuma "sta znaci gotovo" projekat ulazi u beskrajne mini-iteracije i budzet se topi.
+Bez kriterijuma "šta znači gotovo" projekat ulazi u beskrajne mini-iteracije i budžet se topi.
 
-### 5) Pogresan prioritet: animacije pre konverzije
-Mikro-animacije izgledaju premium, ali ne rese problem ako ponuda nije jasna i forma teska za popuniti.
+### 5) Pogrešan prioritet: animacije pre konverzije
+Mikro-animacije izgledaju premium, ali ne reše problem ako ponuda nije jasna i forma teška za popuniti.
 
-## Kako da uradis redizajn bez pada SEO pozicija
+## Kako da uradiš redizajn bez pada SEO pozicija
 
-Ako sajt vec ima organski saobracaj, SEO deo mora ici paralelno sa dizajnom:
+Ako sajt već ima organski saobraćaj, SEO deo mora ići paralelno sa dizajnom:
 
-1. napravi mapu postojecih URL-ova pre prvog dizajn sprinta,
-2. zadrzi URL gde god je moguce,
+1. napravi mapu postojećih URL-ova pre prvog dizajn sprinta,
+2. zadrži URL gde god je moguće,
 3. za svaku promenu URL-a postavi 301 redirect,
 4. prenesi title/meta/H1 i schema markup na nove template-e,
 5. proveri internal linking ka money stranicama,
-6. nakon launch-a odmah osvezi sitemap i recrawl kroz Search Console.
+6. nakon launch-a odmah osveži sitemap i recrawl kroz Search Console.
 
-Ako planiras i nove lead stranice, pogledaj kako su strukturisane [google reklame cena](/google-reklame-cena) i [instagram reklame cena](/instagram-reklame-cena) da redizajn ne ostane samo estetski.
+Ako planiraš i nove lead stranice, pogledaj kako su strukturisane [google reklame cena](/google-reklame-cena) i [instagram reklame cena](/instagram-reklame-cena) da redizajn ne ostane samo estetski.
 
 ## Realni rokovi za redizajn WordPress sajta
 
-Za B2B/service sajt najcesci realni rokovi su:
+Za B2B/service sajt najčešći realni rokovi su:
 
 - **manji redizajn:** 2-4 nedelje,
-- **redizajn sa CRO + tehnickim doradama:** 4-8 nedelja,
+- **redizajn sa CRO + tehničkim doradama:** 4-8 nedelja,
 - **kompletan rebuild + migracija + SEO QA:** 8-14 nedelja.
 
-Rok najcesce probija ne dizajn nego kasni content (copy, reference, fotografije, case studies) i nejasan ownership odluka.
+Rok najčešće probija ne dizajn nego kasni content (copy, reference, fotografije, case studies) i nejasan ownership odluka.
 
-## Checklist pre nego sto prihvatis ponudu
+## Checklist pre nego što prihvatiš ponudu
 
-Pre potpisa trazi da ponuda ima:
+Pre potpisa traži da ponuda ima:
 
 1. jasan scope po tipovima stranica,
-2. broj iteracija i sta ulazi u svaku,
+2. broj iteracija i šta ulazi u svaku,
 3. mobile + performance kriterijume,
 4. SEO migracioni plan (ako se menja struktura),
 5. post-launch period za bugfix i merenje konverzije,
 6. precizan datum i format isporuke.
 
-Ako ovo nije eksplicitno napisano, racunaj da ce finalna cena skoro sigurno ici gore.
+Ako ovo nije eksplicitno napisano, računaj da će finalna cena skoro sigurno ići gore.
 
-## Zakljucak
+## Zaključak
 
-Redizajn WordPress sajta u Srbiji 2026 nije trosak "novog izgleda", nego ulaganje u bolju konverziju, jasniju ponudu i tehnicki zdraviju osnovu za SEO rast.
-Ako hoces, mogu da uradim mini audit postojeceg sajta i dam ti plan u 3 nivoa (quick wins, srednji zahvati, full redizajn) preko [kontakt forme](/kontakt).
+Redizajn WordPress sajta u Srbiji 2026 nije trošak "novog izgleda", nego ulaganje u bolju konverziju, jasniju ponudu i tehnički zdraviju osnovu za SEO rast.
+Ako hoćeš, mogu da uradim mini audit postojećeg sajta i dam ti plan u 3 nivoa (quick wins, srednji zahvati, full redizajn) preko [kontakt forme](/kontakt).
 `,
   },
   {
@@ -16368,226 +16365,226 @@ Ako hoces, mogu da uradim mini audit naloga i oznacim 3 najbrza poteza za nizu c
   },
   {
     slug: 'google-ads-za-elektricare-cena-leada-srbija-2026',
-    title: 'Google Ads za elektricare u Srbiji 2026: cena lead-a, budžet i više hitnih intervencija',
-    excerpt: 'Koliko realno koštaju Google Ads kampanje za elektricare u Srbiji 2026, koji budžet ima smisla po fazama i kako da spustite cenu kvalitetnog upita bez praznih poziva.',
+    title: 'Google Ads za električare u Srbiji 2026: cena lead-a, budžet i više hitnih intervencija',
+    excerpt: 'Koliko realno koštaju Google Ads kampanje za električare u Srbiji 2026, koji budžet ima smisla po fazama i kako da spustite cenu kvalitetnog upita bez praznih poziva.',
     date: '2026-03-14',
     category: 'Google Ads',
     readTime: '10 min',
     content: `
-## Google Ads za elektricare u Srbiji 2026: kratak odgovor
+## Google Ads za električare u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **google ads za elektricare cena**, praktican okvir za srpsko trziste 2026 je:
+Ako tražiš upit **google ads za električare cena**, praktičan okvir za srpsko tržište 2026 je:
 
 - **start test faza:** 300e-850e/mes,
 - **stabilan priliv upita:** 850e-2.000e/mes,
 - **skaliranje po usluzi i gradu:** 2.000e+/mes.
 
-Za siri benchmark troska pogledaj i [Google reklame cena](/google-reklame-cena).
+Za širi benchmark troška pogledaj i [Google reklame cena](/google-reklame-cena).
 
-## Koliko realno kosta lead za elektricarske usluge
+## Koliko realno košta lead za električarske usluge
 
-Posle prve ozbiljne optimizacije, najcesci rasponi su:
+Posle prve ozbiljne optimizacije, najčešći rasponi su:
 
 - **CPC:** 0.16e-1.10e,
 - **kvalifikovan upit:** 9e-44e,
 - **zakazana intervencija:** 20e-95e.
 
-U ovoj nisi lead nije "svaki poziv".
-Najvecu vrednost ima upit koji ima jasan problem, lokaciju, dostupnost objekta i okvirni rok intervencije.
+U ovoj niši lead nije "svaki poziv".
+Najveću vrednost ima upit koji ima jasan problem, lokaciju, dostupnost objekta i okvirni rok intervencije.
 
-## Gde elektricari najcesce spaljuju budzet
+## Gde električari najčešće spaljuju budžet
 
 ### 1) Jedna kampanja za sve tipove poslova
 Hitne intervencije, redovan servis, nove instalacije i industrijski poslovi ne smeju u istu kampanju.
-Razlicit intent trazi razlicit oglas i razlicit landing ugao.
+Različit intent traži različit oglas i različit landing ugao.
 
-### 2) Presiroke kljucne reci
-Upiti poput "struja" ili "elektro" trose budzet bez jasne kupovne namere.
-Bolje rade fraze sa signalom odluke: elektricar + grad, hitan elektricar, kvar osiguraca, zamena instalacija cena.
+### 2) Preširoke ključne reči
+Upiti poput "struja" ili "elektro" troše budžet bez jasne kupovne namere.
+Bolje rade fraze sa signalom odluke: električar + grad, hitan električar, kvar osigurača, zamena instalacija cena.
 
-### 3) Bez negativnih kljucnih reci
-Bez negativnih reci kampanja hvata upite za posao, obuku, DIY i prodaju opreme.
-To brzo dize CPL i puni inbox slabim upitima.
+### 3) Bez negativnih ključnih reči
+Bez negativnih reči kampanja hvata upite za posao, obuku, DIY i prodaju opreme.
+To brzo diže CPL i puni inbox slabim upitima.
 
 ### 4) Slab post-click deo
-Oglas obeca "dolazak isti dan", a landing nema zone pokrivanja, okvir cene ni jasan CTA.
-Ako hoces da sredis taj deo, koristan je vodic [izrada landing stranice: cena, rokovi, sta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
+Oglas obeća "dolazak isti dan", a landing nema zone pokrivanja, okvir cene ni jasan CTA.
+Ako hoćeš da središ taj deo, koristan je vodič [izrada landing stranice: cena, rokovi, šta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
 
 ### 5) Spor follow-up
-Kod hitnih kvarova korisnik kontaktira vise majstora u isto vreme.
-Ko prvi odgovori sa jasnim sledecim korakom i okvirnim terminom, najcesce dobija posao.
+Kod hitnih kvarova korisnik kontaktira više majstora u isto vreme.
+Ko prvi odgovori sa jasnim sledećim korakom i okvirnim terminom, najčešće dobija posao.
 
-## Struktura kampanje koja najcesce radi za elektricare
+## Struktura kampanje koja najčešće radi za električare
 
 ### 1) Segmentacija po usluzi
 Minimum odvojene kampanje:
 - hitne intervencije,
 - kvarovi i dijagnostika,
 - zamena / popravka instalacija,
-- nove instalacije i veci projekti.
+- nove instalacije i veći projekti.
 
 ### 2) Segmentacija po lokaciji
 Razdvoji gradove i zone koje tim realno pokriva.
-Klik iz zone gde ne izlazis je najskuplji klik jer retko postane realizovan posao.
+Klik iz zone gde ne izlaziš je najskuplji klik jer retko postane realizovan posao.
 
 ### 3) Branded sloj
-Kad korisnik trazi ime vase firme, branded kampanja cuva klik od konkurenata.
+Kad korisnik traži ime vaše firme, branded kampanja čuva klik od konkurenata.
 
 ### 4) Raspored po satima
-Hitni upiti cesto rastu posle radnog vremena i vikendom.
-Pametnije je povecati bid tamo gde postoji realna mogucnost brze intervencije.
+Hitni upiti često rastu posle radnog vremena i vikendom.
+Pametnije je povećati bid tamo gde postoji realna mogućnost brže intervencije.
 
 ## Landing koji pretvara klik u zakazan izlazak
 
-Ako placas Search saobracaj, iznad prevoja mora da stoji:
+Ako plaćaš Search saobraćaj, iznad prevoja mora da stoji:
 
 1. usluga + grad + vreme dolaska,
-2. sta je ukljuceno i okvirna cena izlaska,
+2. šta je uključeno i okvirna cena izlaska,
 3. trust signali (iskustvo, broj intervencija, recenzije),
 4. jasan CTA (poziv / WhatsApp / forma),
 5. zone koje pokrivate.
 
-Ako paralelno radis i tehnicku doradu sajta, pogledaj i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+Ako paralelno radiš i tehničku doradu sajta, pogledaj i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
 
 ## KPI koji imaju smisla svake nedelje
 
 Nemoj voditi kampanju samo po jeftinom kliku.
-Fokus drzi na:
+Fokus drži na:
 
 1. ceni kvalifikovanog upita,
 2. procentu upita koji postaju zakazan izlazak,
 3. ceni zakazane intervencije,
 4. procentu intervencija koje se realizuju i naplate,
-5. prosecnom prihodu po poslu.
+5. prosečnom prihodu po poslu.
 
-Tek kad gledas ceo lanac, znas da li Google Ads pravi zdrav pipeline ili samo aktivnost.
+Tek kad gledaš ceo lanac, znaš da li Google Ads pravi zdrav pipeline ili samo aktivnost.
 
 ## 30-dnevni plan bez lutanja
 
 - **Nedelja 1:** tracking setup + podela kampanja po usluzi i lokaciji.
-- **Nedelja 2:** ciscenje search terms izvestaja + negativne reci + test 2-3 oglasa po grupi.
+- **Nedelja 2:** čišćenje search terms izveštaja + negativne reči + test 2-3 oglasa po grupi.
 - **Nedelja 3:** dorada landing poruke i CTA toka za hitne i standardne intervencije.
-- **Nedelja 4:** preraspodela budzeta na segmente sa najboljim odnosom cena upita / realizovan posao.
+- **Nedelja 4:** preraspodela budžeta na segmente sa najboljim odnosom cena upita / realizovan posao.
 
 Za detaljniji raspon klikova i CPA metrika pogledaj [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026).
-Ako pored Search kanala testiras i Meta demand capture, uporedi i [Instagram reklame cena](/instagram-reklame-cena).
+Ako pored Search kanala testiraš i Meta demand capture, uporedi i [Instagram reklame cena](/instagram-reklame-cena).
 
-## Zakljucak
+## Zaključak
 
-Google Ads za elektricare u Srbiji 2026 moze da donese stabilan priliv profitabilnih intervencija kada kampanje vodis po usluzi, lokaciji i brzini obrade upita, a ne po najjeftinijem kliku.
-Ako hoces, mogu da uradim mini audit naloga i oznacim 3 najbrza poteza za nizu cenu kvalitetnog upita preko [kontakt forme](/kontakt).
+Google Ads za električare u Srbiji 2026 može da donese stabilan priliv profitabilnih intervencija kada kampanje vodiš po usluzi, lokaciji i brzini obrade upita, a ne po najjeftinijem kliku.
+Ako hoćeš, mogu da uradim mini audit naloga i označim 3 najbrža poteza za nižu cenu kvalitetnog upita preko [kontakt forme](/kontakt).
 `,
   },
   {
     slug: 'google-ads-za-keramicare-cena-leada-srbija-2026',
-    title: 'Google Ads za keramicare u Srbiji 2026: cena lead-a, budžet i više kvalitetnih upita',
-    excerpt: 'Koliko realno koštaju Google Ads kampanje za keramicare u Srbiji 2026, koji budžet ima smisla po fazama i kako da smanjiš cenu kvalitetnog upita bez praznih poziva.',
+    title: 'Google Ads za keramičare u Srbiji 2026: cena lead-a, budžet i više kvalitetnih upita',
+    excerpt: 'Koliko realno koštaju Google Ads kampanje za keramičare u Srbiji 2026, koji budžet ima smisla po fazama i kako da smanjiš cenu kvalitetnog upita bez praznih poziva.',
     date: '2026-03-14',
     category: 'Google Ads',
     readTime: '10 min',
     content: `
-## Google Ads za keramicare u Srbiji 2026: kratak odgovor
+## Google Ads za keramičare u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **google ads za keramicare cena**, najprakticniji okvir za srpsko trziste 2026 je:
+Ako tražiš upit **google ads za keramičare cena**, najpraktičniji okvir za srpsko tržište 2026 je:
 
 - **start test faza:** 350e-900e/mes,
 - **stabilan priliv upita:** 900e-2.200e/mes,
 - **skaliranje po usluzi i gradu:** 2.200e+/mes.
 
-Za siri kontekst troska pogledaj i [Google reklame cena](/google-reklame-cena).
+Za širi kontekst troška pogledaj i [Google reklame cena](/google-reklame-cena).
 
-## Koliko realno kosta lead za keramicarske usluge
+## Koliko realno košta lead za keramičarske usluge
 
-Posle prve ozbiljne optimizacije, najcesci rasponi su:
+Posle prve ozbiljne optimizacije, najčešći rasponi su:
 
 - **CPC:** 0.18e-1.20e,
 - **kvalifikovan upit:** 10e-48e,
 - **izlazak na merenje / ponuda:** 25e-110e.
 
-Kod keramicara nije dovoljno da korisnik samo posalje poruku.
-Najvecu vrednost ima upit koji ima tacnu kvadraturu, lokaciju, okvirni rok i vrstu plocica.
+Kod keramičara nije dovoljno da korisnik samo pošalje poruku.
+Najveću vrednost ima upit koji ima tačnu kvadraturu, lokaciju, okvirni rok i vrstu pločica.
 
-## Gde keramicari najcesce spaljuju budzet
+## Gde keramičari najčešće spaljuju budžet
 
 ### 1) Jedna kampanja za sve tipove poslova
-Kupatilo, kuhinja, terasa, stepeniste i poslovni prostori ne smeju u isti ad group.
-Razlicit intent trazi razlicit oglas i razlicit landing ugao.
+Kupatilo, kuhinja, terasa, stepenište i poslovni prostori ne smeju u isti ad group.
+Različit intent traži različit oglas i različit landing ugao.
 
-### 2) Presiroke kljucne reci
-Upiti kao "plocice" ili "renoviranje" cesto trose budzet bez jasne kupovne namere.
-Bolje rade fraze sa signalom odluke: keramicar + grad, postavljanje plocica cena, hitan majstor, renoviranje kupatila.
+### 2) Preširoke ključne reči
+Upiti kao "pločice" ili "renoviranje" često troše budžet bez jasne kupovne namere.
+Bolje rade fraze sa signalom odluke: keramičar + grad, postavljanje pločica cena, hitan majstor, renoviranje kupatila.
 
-### 3) Nema negativnih kljucnih reci
-Bez negativnih reci kampanja hvata upite za posao, obuku, DIY i prodaju materijala.
-To brzo dize trosak i puni inbox nerelevantnim upitima.
+### 3) Nema negativnih ključnih reči
+Bez negativnih reči kampanja hvata upite za posao, obuku, DIY i prodaju materijala.
+To brzo diže trošak i puni inbox nerelevantnim upitima.
 
 ### 4) Slab post-click deo
-Oglas obeca kvalitetnu izradu, a landing nema galeriju radova, proces i jasan sledeci korak.
-Ako hoces da popravis taj deo, koristan je vodic [izrada landing stranice: cena, rokovi, sta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
+Oglas obeća kvalitetnu izradu, a landing nema galeriju radova, proces i jasan sledeći korak.
+Ako hoćeš da popraviš taj deo, koristan je vodič [izrada landing stranice: cena, rokovi, šta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
 
 ### 5) Spor odgovor na upit
-U gradjevinskim uslugama klijent cesto kontaktira vise izvodjaca isti dan.
-Ko prvi odgovori sa jasnim sledecim korakom, najcesce uzima posao.
+U građevinskim uslugama klijent često kontaktira više izvođača isti dan.
+Ko prvi odgovori sa jasnim sledećim korakom, najčešće uzima posao.
 
-## Struktura kampanje koja najcesce radi za keramicare
+## Struktura kampanje koja najčešće radi za keramičare
 
 ### 1) Segmentacija po usluzi
 Minimum odvojene kampanje:
-- postavljanje zidnih plocica,
-- postavljanje podnih plocica,
+- postavljanje zidnih pločica,
+- postavljanje podnih pločica,
 - renoviranje kupatila,
-- poslovni prostori i veci projekti.
+- poslovni prostori i veći projekti.
 
 ### 2) Segmentacija po lokaciji
 Razdvoji gradove i zone koje tim realno pokriva.
-Klik iz zone gde ne izlazis je najskuplji klik jer retko postaje posao.
+Klik iz zone gde ne izlaziš je najskuplji klik jer retko postaje posao.
 
 ### 3) Branded sloj
-Ako korisnik trazi ime tvog obrta ili firme, branded kampanja cuva klik od konkurenata.
+Ako korisnik traži ime tvog obrta ili firme, branded kampanja čuva klik od konkurenata.
 
 ### 4) Odvojena kampanja za urgentne upite
-Upiti tipa "keramicar hitno" i "majstor danas" imaju veci CPC, ali cesto i brzu odluku.
+Upiti tipa "keramičar hitno" i "majstor danas" imaju veći CPC, ali često i brzu odluku.
 U tom sloju poruka mora biti kratka: dostupnost, rok izlaska i kontakt.
 
 ## Landing koji pretvara klik u merenje
 
-Ako placas Search saobracaj, iznad prevoja mora da stoji:
+Ako plaćaš Search saobraćaj, iznad prevoja mora da stoji:
 
 1. usluga + grad + tip projekta,
-2. galerija zavrsenih radova,
+2. galerija završenih radova,
 3. jasan proces (poziv -> merenje -> ponuda -> rok),
 4. trust signali (iskustvo, recenzije, broj projekata),
 5. CTA koji vodi direktno ka pozivu ili formi.
 
-Ako paralelno radis i tehnicku doradu sajta, pogledaj i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+Ako paralelno radiš i tehničku doradu sajta, pogledaj i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
 
 ## KPI koji imaju smisla svake nedelje
 
 Nemoj voditi kampanju samo po jeftinom kliku.
-Fokus drzi na:
+Fokus drži na:
 
 1. ceni kvalifikovanog upita,
 2. procentu upita koji postaju merenje,
 3. ceni merenja,
 4. procentu ponuda koje se zatvaraju,
-5. prosecnom prihodu po projektu.
+5. prosečnom prihodu po projektu.
 
-Tek kad gledas ceo lanac, znas da li Google Ads pravi zdrav pipeline ili samo aktivnost.
+Tek kad gledaš ceo lanac, znaš da li Google Ads pravi zdrav pipeline ili samo aktivnost.
 
 ## 30-dnevni plan bez lutanja
 
 - **Nedelja 1:** tracking setup + podela kampanja po usluzi i lokaciji.
-- **Nedelja 2:** ciscenje search terms izvestaja + negativne reci + test 2-3 oglasa po grupi.
+- **Nedelja 2:** čišćenje search terms izveštaja + negativne reči + test 2-3 oglasa po grupi.
 - **Nedelja 3:** dorada landing poruke i CTA toka za zakazivanje merenja.
-- **Nedelja 4:** preraspodela budzeta na segmente sa najboljim odnosom cena upita / realizovan posao.
+- **Nedelja 4:** preraspodela budžeta na segmente sa najboljim odnosom cena upita / realizovan posao.
 
 Za detaljniji benchmark klikova i CPA raspona pogledaj [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026).
-Ako pored Search kanala testiras i demand capture na social-u, uporedi i [Instagram reklame cena](/instagram-reklame-cena).
+Ako pored Search kanala testiraš i demand capture na social-u, uporedi i [Instagram reklame cena](/instagram-reklame-cena).
 
-## Zakljucak
+## Zaključak
 
-Google Ads za keramicare u Srbiji 2026 moze da donese stabilan priliv ozbiljnih upita kada kampanje vodis po usluzi, lokaciji i kvalitetu leada, a ne po najjeftinijem kliku.
-Ako hoces, mogu da uradim mini audit naloga i oznacim 3 najbrza poteza za nizu cenu kvalitetnog upita preko [kontakt forme](/kontakt).
+Google Ads za keramičare u Srbiji 2026 može da donese stabilan priliv ozbiljnih upita kada kampanje vodiš po usluzi, lokaciji i kvalitetu leada, a ne po najjeftinijem kliku.
+Ako hoćeš, mogu da uradim mini audit naloga i označim 3 najbrža poteza za nižu cenu kvalitetnog upita preko [kontakt forme](/kontakt).
 `,
   },
   {
@@ -16703,7 +16700,7 @@ Ako hoces, mogu da uradim mini audit naloga i oznacim 3 najbrza poteza za nizu c
   },
   {
     slug: 'google-ads-za-stolare-cena-leada-srbija-2026',
-    title: 'Google Ads za stolare u Srbiji 2026: cena lead-a, budžet i više upita za namestaj po meri',
+    title: 'Google Ads za stolare u Srbiji 2026: cena lead-a, budžet i više upita za nameštaj po meri',
     excerpt: 'Koliko realno koštaju Google Ads kampanje za stolare u Srbiji 2026, koji budžet ima smisla i kako da spustite cenu kvalitetnog upita bez praznih poziva.',
     date: '2026-03-13',
     category: 'Google Ads',
@@ -16711,44 +16708,44 @@ Ako hoces, mogu da uradim mini audit naloga i oznacim 3 najbrza poteza za nizu c
     content: `
 ## Google Ads za stolare u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **google ads za stolare cena**, najprakticniji okvir za srpsko trziste 2026 je:
+Ako tražiš upit **google ads za stolare cena**, najpraktičniji okvir za srpsko tržište 2026 je:
 
 - **start test faza:** 350e-900e/mes,
-- **stabilan priliv upita za namestaj po meri:** 900e-2.200e/mes,
+- **stabilan priliv upita za nameštaj po meri:** 900e-2.200e/mes,
 - **skaliranje po gradovima i tipovima projekata:** 2.200e+/mes.
 
-Za siri benchmark Search troska pogledaj i [Google reklame cena](/google-reklame-cena).
+Za širi benchmark Search troška pogledaj i [Google reklame cena](/google-reklame-cena).
 
-## Koliko realno kosta lead za stolarske usluge
+## Koliko realno košta lead za stolarske usluge
 
-Posle prve ozbiljne optimizacije, najcesci rasponi su:
+Posle prve ozbiljne optimizacije, najčešći rasponi su:
 
 - **CPC:** 0.18e-1.10e,
 - **kvalifikovan upit:** 9e-45e,
 - **izlazak na merenje / ozbiljan razgovor:** 20e-95e.
 
-Kod stolara nije dovoljno da korisnik samo "posalje poruku".
-Najvise vredi upit koji ima jasan prostor, okvirni budzet i rok izrade.
+Kod stolara nije dovoljno da korisnik samo "pošalje poruku".
+Najviše vredi upit koji ima jasan prostor, okvirni budžet i rok izrade.
 
-## Gde stolari najcesce gube budzet
+## Gde stolari najčešće gube budžet
 
 ### 1) Sve usluge u jednoj kampanji
-Kuhinjski namestaj, plakari po meri, kancelarijski elementi i vrata ne smeju da budu u istoj ad grupi.
-Razlicit intent trazi razlicit oglas i razlicit landing ugao.
+Kuhinjski nameštaj, plakari po meri, kancelarijski elementi i vrata ne smeju da budu u istoj ad grupi.
+Različit intent traži različit oglas i različit landing ugao.
 
-### 2) Presiroke kljucne reci
-Upiti tipa "namestaj" ili "stolarija" cesto trose budzet bez jasne komercijalne namere.
-Bolje rade fraze koje ukljucuju uslugu + grad + signal odluke (cena, po meri, merenje, ponuda).
+### 2) Preširoke ključne reči
+Upiti tipa "nameštaj" ili "stolarija" često troše budžet bez jasne komercijalne namere.
+Bolje rade fraze koje uključuju uslugu + grad + signal odluke (cena, po meri, merenje, ponuda).
 
 ### 3) Slab post-click deo
-Oglas obecava "namestaj po meri", a korisnik sleti na genericku stranicu bez galerije radova, procesa i sledeceg koraka.
-Ako hoces da popravis taj deo, koristan je vodic [izrada landing stranice: cena, rokovi, sta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
+Oglas obećava "nameštaj po meri", a korisnik sleti na generičku stranicu bez galerije radova, procesa i sledećeg koraka.
+Ako hoćeš da popraviš taj deo, koristan je vodič [izrada landing stranice: cena, rokovi, šta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
 
 ### 4) Kasan odgovor na upit
-Kod stolarskih projekata korisnik cesto kontaktira vise radionica isti dan.
-Ako odgovor stigne kasno, lead odlazi konkurenciji koja je brze zakazala merenje.
+Kod stolarskih projekata korisnik često kontaktira više radionica isti dan.
+Ako odgovor stigne kasno, lead odlazi konkurenciji koja je brže zakazala merenje.
 
-## Struktura kampanje koja najcesce radi za stolare
+## Struktura kampanje koja najčešće radi za stolare
 
 ### 1) Kampanje po usluzi
 Odvoji minimum:
@@ -16758,31 +16755,31 @@ Odvoji minimum:
 - vrata i posebne projekte.
 
 ### 2) Kampanje po lokaciji
-Razdvoji gradove/opstine koje tim realno pokriva.
-Klik iz zone koju ne mozes brzo da servisiras je skoro uvek skup klik.
+Razdvoji gradove/opštine koje tim realno pokriva.
+Klik iz zone koju ne možeš brzo da servisiraš je skoro uvek skup klik.
 
 ### 3) Branded kampanja
-Kad neko trazi ime radionice, branded sloj cuva klik od konkurencije.
+Kad neko traži ime radionice, branded sloj čuva klik od konkurencije.
 
 ### 4) Remarketing
 Vrati korisnike koji su gledali galeriju i cenovni okvir, ali nisu poslali upit.
 
 ## Landing koji pretvara klik u merenje
 
-Ako saljes Google saobracaj, iznad prevoja moraju da budu:
+Ako šalješ Google saobraćaj, iznad prevoja moraju da budu:
 
 1. jasan naslov (usluga + lokacija),
 2. 6-10 konkretnih primera radova,
-3. okvir procesa (merenje, ponuda, izrada, montaza),
+3. okvir procesa (merenje, ponuda, izrada, montaža),
 4. trust signali (iskustvo, recenzije, garancija),
 5. jedan glavni CTA (poziv ili forma za merenje).
 
-Ako planiras i tehnicku obnovu sajta, pogledaj i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+Ako planiraš i tehničku obnovu sajta, pogledaj i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
 
 ## KPI koji imaju smisla svake nedelje
 
 Nemoj voditi kampanje po impresijama i jeftinom kliku.
-Fokus drzi na:
+Fokus drži na:
 
 1. ceni kvalifikovanog upita,
 2. procentu upita koji prelaze u zakazano merenje,
@@ -16790,22 +16787,22 @@ Fokus drzi na:
 4. procentu merenja koji prelaze u ponudu,
 5. procentu ponuda koje postaju ugovoreni projekat.
 
-Tek kad ove brojke gledas zajedno, znas da li Google Ads pravi zdrav pipeline ili samo aktivnost.
+Tek kad ove brojke gledaš zajedno, znaš da li Google Ads pravi zdrav pipeline ili samo aktivnost.
 
 ## Primer 30-dnevnog plana bez lutanja
 
 - **Nedelja 1:** tracking setup, podela kampanja po usluzi i lokaciji, bazni oglasi.
-- **Nedelja 2:** search terms ciscenje, negativne reci, test 2-3 oglasa po ad grupi.
+- **Nedelja 2:** search terms čišćenje, negativne reči, test 2-3 oglasa po ad grupi.
 - **Nedelja 3:** dorada landing poruke i forme za merenje.
-- **Nedelja 4:** preraspodela budzeta samo na segmente sa najboljim odnosom cena upita / kvalitet lead-a.
+- **Nedelja 4:** preraspodela budžeta samo na segmente sa najboljim odnosom cena upita / kvalitet lead-a.
 
-Za siri raspored ulaganja po kanalima pogledaj i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
-Ako paralelno radis demand capture na Meta kanalima, uporedi i [Instagram reklame cena](/instagram-reklame-cena).
+Za širi raspored ulaganja po kanalima pogledaj i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Ako paralelno radiš demand capture na Meta kanalima, uporedi i [Instagram reklame cena](/instagram-reklame-cena).
 
-## Zakljucak
+## Zaključak
 
-Google Ads za stolare u Srbiji 2026 moze da donese stabilan tok profitabilnih projekata kada kampanje vodis po usluzi, lokaciji i kvalitetu upita, ne po najjeftinijem kliku.
-Ako hoces, mogu da uradim mini audit naloga i oznacim 3 najbrza poteza za nizu cenu kvalitetnog lead-a preko [kontakt forme](/kontakt).
+Google Ads za stolare u Srbiji 2026 može da donese stabilan tok profitabilnih projekata kada kampanje vodiš po usluzi, lokaciji i kvalitetu upita, ne po najjeftinijem kliku.
+Ako hoćeš, mogu da uradim mini audit naloga i označim 3 najbrža poteza za nižu cenu kvalitetnog lead-a preko [kontakt forme](/kontakt).
 `,
   },
   {
@@ -18304,45 +18301,44 @@ Ako hoces, mogu da uradim mini audit tvoje trenutne kampanje i predlozim tacno g
   {
     slug: 'vodjenje-instagram-ads-kampanja-cena-srbija-2026',
     title: 'Vođenje Instagram Ads kampanja cena u Srbiji 2026: šta realno ulazi u mesečni fee',
-    excerpt: 'Koliko košta vođenje Instagram Ads kampanja u Srbiji 2026, koji modeli naplate postoje i kako da procenis da li agencijski fee stvarno donosi bolji CPL i veci profit.',
+    excerpt: 'Koliko košta vođenje Instagram Ads kampanja u Srbiji 2026, koji modeli naplate postoje i kako da proceniš da li agencijski fee stvarno donosi bolji CPL i veći profit.',
     date: '2026-03-12',
     category: 'Instagram Ads',
     readTime: '9 min',
-    content: `
-## Vodjenje Instagram Ads kampanja cena u Srbiji 2026: kratak odgovor
+    content: `## Vođenje Instagram Ads kampanja cena u Srbiji 2026: kratak odgovor
 
-Ako pretrazujes upit **vodjenje instagram ads kampanja cena**, realan raspon na srpskom trzistu je najcesce:
+Ako pretražuješ upit **vođenje instagram ads kampanja cena**, realan raspon na srpskom tržištu je najčešće:
 - **120e-280e/mes** za freelance ili mikro tim,
 - **250e-650e/mes** za specijalizovanu agenciju,
-- **650e+/mes** ili procenat budzeta za kompleksnije naloge.
+- **650e+/mes** ili procenat budžeta za kompleksnije naloge.
 
-Ako hoces i medijski kontekst (ne samo management fee), pogledaj i [Instagram reklame cena](/instagram-reklame-cena).
+Ako hoćeš i medijski kontekst (ne samo management fee), pogledaj i [Instagram reklame cena](/instagram-reklame-cena).
 
-## Zasto isti kanal ima toliko razlicite cene vodjenja
+## Zašto isti kanal ima toliko različite cene vođenja
 
 Razlog nije "branding agencije", nego obim odgovornosti.
-Jedna ponuda pokriva samo postavljanje oglasa, druga ukljucuje ceo performance sistem: kreativna testiranja, tracking, CRM signal i optimizaciju po kvalitetu leadova.
+Jedna ponuda pokriva samo postavljanje oglasa, druga uključuje ceo performance sistem: kreativna testiranja, tracking, CRM signal i optimizaciju po kvalitetu leadova.
 
-U praksi, razlika u ceni obicno dolazi iz 5 stvari:
-1. broj kampanja i ad set-ova koji se aktivno odrzavaju,
-2. da li je ukljucen redovan creative testing ritam,
+U praksi, razlika u ceni obično dolazi iz 5 stvari:
+1. broj kampanja i ad set-ova koji se aktivno održavaju,
+2. da li je uključen redovan creative testing ritam,
 3. da li se prati samo CPC ili i kvalitet leada/prodaje,
 4. da li je landing/CRO deo odgovornosti,
-5. brzina i dubina mesecnog izvestavanja.
+5. brzina i dubina mesečnog izveštavanja.
 
-Jeftin fee moze biti isplativ ako je scope mali. Problem nastaje kad je scope veliki, a ponuda i dalje "jeftina" - tada kampanje skoro uvek stagniraju.
+Jeftin fee može biti isplativ ako je scope mali. Problem nastaje kad je scope veliki, a ponuda i dalje "jeftina" - tada kampanje skoro uvek stagniraju.
 
-## Sta mora da ulazi u kvalitetno vodjenje Instagram Ads kampanja
+## Šta mora da ulazi u kvalitetno vođenje Instagram Ads kampanja
 
-Ako poredis ponude, trazi da ove stavke budu eksplicitno navedene:
+Ako porediš ponude, traži da ove stavke budu eksplicitno navedene:
 
 ### 1) Strategija i struktura naloga
 - jasna podela na cold / warm / hot publike,
 - odvojeni ciljevi po fazi funnel-a,
-- naming i budzet logika koja omogucava skaliranje.
+- naming i budžet logika koja omogućava skaliranje.
 
 ### 2) Kreativa i testing plan
-- minimum 3-6 test uglova mesecno,
+- minimum 3-6 test uglova mesečno,
 - definisan refresh ciklus pre ad fatigue-a,
 - test hook-a, CTA-a i offer poruke, ne samo "lep dizajn".
 
@@ -18353,73 +18349,72 @@ Ako poredis ponude, trazi da ove stavke budu eksplicitno navedene:
 
 ### 4) Optimizacija po biznis KPI-jevima
 - CPL i CPA su minimum,
-- jos vaznije: procenat kvalifikovanih leadova i cena po prodaji,
+- još važnije: procenat kvalifikovanih leadova i cena po prodaji,
 - odluke na osnovu profita, ne vanity metrika.
 
 ### 5) Operativna komunikacija
 - nedeljni mini update,
-- mesecni performance review,
-- jasna lista sledecih eksperimenata.
+- mesečni performance review,
+- jasna lista sledećih eksperimenata.
 
-Ako ovo nije deo ponude, verovatno placas "odrzavanje oglasa", ne realno performance vodjenje.
+Ako ovo nije deo ponude, verovatno plaćaš "održavanje oglasa", ne realno performance vođenje.
 
 ## Modeli naplate: koji ima smisla za koji biznis
 
-### Fiksni mesecni fee
-Najcesci model za male i srednje naloge. Dobar je kada hoces predvidljiv trosak i stabilan ritam rada.
+### Fiksni mesečni fee
+Najčešći model za male i srednje naloge. Dobar je kada hoćeš predvidiv trošak i stabilan ritam rada.
 
-### Procenat od budzeta
-Ima smisla kada spend raste i obim optimizacije realno raste sa njim. Rizik je da se fokus pomeri na "vise potrosnje" umesto na profit.
+### Procenat od budžeta
+Ima smisla kada spend raste i obim optimizacije realno raste sa njim. Rizik je da se fokus pomeri na "više potrošnje" umesto na profit.
 
 ### Hibridni model (fiksno + bonus)
-Cesto najbolji kompromis: baza pokriva operativni rad, bonus nagradjuje rezultat. Ovaj model radi dobro kad su KPI-jevi i tracking jasno definisani unapred.
+Često najbolji kompromis: baza pokriva operativni rad, bonus nagrađuje rezultat. Ovaj model radi dobro kad su KPI-jevi i tracking jasno definisani unapred.
 
-Ako hoces da uporedis i Search kanal trosak, koristan benchmark je [Google reklame cena](/google-reklame-cena).
+Ako hoćeš da uporediš i Search kanal trošak, koristan benchmark je [Google reklame cena](/google-reklame-cena).
 
-## Koliki budzet ima smisla uz razlicite fee nivoe
+## Koliki budžet ima smisla uz različite fee nivoe
 
-Da fee ne bi pojeo rezultat, medijski budzet mora da bude proporcionalan.
+Da fee ne bi pojeo rezultat, medijski budžet mora da bude proporcionalan.
 
-- Ako je fee **200e**, medijski budzet od **150e** obicno nema smisla (premalo signala za optimizaciju).
-- Ako je fee **350e**, zdrav test opseg je cesto **600e-1.500e** medijskog budzeta.
-- Ako je fee **700e+**, nalog treba da ima veci obim i jasan funnel, inace placate kompleksnost koju ne koristite.
+- Ako je fee **200e**, medijski budžet od **150e** obično nema smisla (premalo signala za optimizaciju).
+- Ako je fee **350e**, zdrav test opseg je često **600e-1.500e** medijskog budžeta.
+- Ako je fee **700e+**, nalog treba da ima veći obim i jasan funnel, inače plaćate kompleksnost koju ne koristite.
 
-Prakticno pravilo: fee treba da bude ulaganje koje spusta cenu kvalifikovanog upita i podize stopu zatvaranja - ne samo "administrativni trosak".
+Praktično pravilo: fee treba da bude ulaganje koje spušta cenu kvalifikovanog upita i podiže stopu zatvaranja - ne samo "administrativni trošak".
 
-## Kako da procenis da li je ponuda za vodjenje Instagram Ads kampanja isplativa
+## Kako da proceniš da li je ponuda za vođenje Instagram Ads kampanja isplativa
 
 Koristi jednostavan okvir:
 
-1. Izracunaj prosecnu bruto marzu po klijentu.
-2. Odredi maksimalni odrzivi CPL.
+1. Izračunaj prosečnu bruto maržu po klijentu.
+2. Odredi maksimalni održivi CPL.
 3. Uporedi trenutni CPL i target posle optimizacije.
 4. Proveri da li razlika pokriva management fee sa jasnim plusom.
 
 Primer:
-- bruto marza po klijentu: 300e,
+- bruto marža po klijentu: 300e,
 - lead-to-client: 20% (1 od 5),
-- maksimalni odrzivi CPL: 60e,
+- maksimalni održivi CPL: 60e,
 - cilj posle optimizacije: sa 78e na 52e.
 
-Ako tim uspe da spusti CPL u odrzivu zonu i podigne kvalitet leadova, fee je opravdan. Ako posle 60-90 dana nema jasnog pomaka, model saradnje treba menjati.
+Ako tim uspe da spusti CPL u održivu zonu i podigne kvalitet leadova, fee je opravdan. Ako posle 60-90 dana nema jasnog pomaka, model saradnje treba menjati.
 
-## 7 red flag signala da je fee preskup za ono sto dobijas
+## 7 red flag signala da je fee preskup za ono što dobijaš
 
 1. Nema plana testiranja kreativa po mesecu.
-2. Izvestaj je samo screenshot iz Ads Manager-a.
-3. Nema veze izmedju marketing i sales podataka.
+2. Izveštaj je samo screenshot iz Ads Manager-a.
+3. Nema veze između marketing i sales podataka.
 4. Tim meri samo klikove i reach.
 5. Nema predloga za landing/copy korekcije.
 6. Nema ownership-a nad KPI-jevima.
 7. Posle 2-3 meseca nema nijednog dokumentovanog eksperimenta.
 
-Jedan red flag nije presuda. Ali 3+ signala obicno znace da placas aktivnost, ne rezultat.
+Jedan red flag nije presuda. Ali 3+ signala obično znače da plaćaš aktivnost, ne rezultat.
 
-## Zakljucak
+## Zaključak
 
-Vodjenje Instagram Ads kampanja cena u Srbiji 2026 nije pitanje "koliko je najjeftinije", nego "koliko vrednosti dobijas za fee".
-Ako hoces, mogu da uradim mini audit tvoje trenutne ponude za vodjenje i oznacim sta fali pre nego sto potrosis sledeci budzet - javi se preko [kontakt forme](/kontakt).
-`,
+Vođenje Instagram Ads kampanja cena u Srbiji 2026 nije pitanje "koliko je najjeftinije", nego "koliko vrednosti dobijaš za fee".
+Ako hoćeš, mogu da uradim mini audit tvoje trenutne ponude za vođenje i označim šta fali pre nego što potrošiš sledeći budžet - javi se preko [kontakt forme](/kontakt).`,
   },
   {
     slug: 'woocommerce-sajt-cena-srbija-2026',
@@ -22118,146 +22113,148 @@ elite pomoc da napravite sistem koji vas vodi do prvih 10K mesecno? [Javite nam 
     category: 'Marketing',
     readTime: '7 min',
     content: `
-## Zašto neke firme naplacuju 10x više za isti proizvod
+## Zašto neke firme naplaćuju 10x više za isti proizvod
 
-Dva frizerska salona u istoj ulici. Isti kvalitet usluge. Jedan naplacuje ianje 800 dinara, drugi 4.000. I oba imaju pune termine.
+Dva frizerska salona u istoj ulici. Isti kvalitet usluge. Jedan naplaćuje šišanje 800 dinara, drugi 4.000. I oba imaju pune termine.
 
-Razlika nije u kvalitetu makaza. Razlika je u tome kako je cena prezentovana, upakovana i pozicionirana u glavi kupca. Firme koje razumeju psihologiju cena zaraduju višestruko više od onih koje se takmice ko ce biti jeftiniji.
+Razlika nije u kvalitetu makaza. Razlika je u tome kako je cena predstavljena, upakovana i pozicionirana u glavi kupca. Firme koje razumeju psihologiju cena zarađuju višestruko više od onih koje se takmiče ko će biti jeftiniji.
 
-> Kupac ne placa za proizvod. Kupac placa za percepciju vrednosti koju taj proizvod nosi.
+> Kupac ne plaća samo proizvod. Kupac plaća percepciju vrednosti koju taj proizvod nosi.
 
 ## Anchoring efekat: prva cena koju vidite menja sve
 
-Kad restoran stavi vino od 15.000 dinara na vrh karte, to vino retko ko naruci. Ali ono menja percepciju svega ispod njega. Vino od 3.000 dinara odjednom izgleda kao razumna opcija, iako bi bez tog skudog izbora delovalo preskupo.
+Kad restoran stavi vino od 15.000 dinara na vrh karte, to vino retko ko naruči. Ali ono menja percepciju svega ispod njega. Vino od 3.000 dinara odjednom izgleda kao razumna opcija, iako bi bez tog skupljeg izbora delovalo preskupo.
 
-Ovo se zove anchoring. Prva cena koju kupac vidi postaje referentna tacka za sve ostalo. Firme koje ovo koriste pametno stavljaju premium opciju vidljivo, cak i kad znaju da je vecina nece kupiti. Njen jedini posao je da ostale opcije izgledaju pristupacno.
+Ovo se zove anchoring. Prva cena koju kupac vidi postaje referentna tačka za sve ostalo. Firme koje ovo koriste pametno stavljaju premium opciju vidljivo, čak i kad znaju da je većina neće kupiti. Njen posao je da ostale opcije izgledaju pristupačnije.
 
-U praksi to znaci: ako imate tri paketa usluga, najskuplji postoji delimicno zato da bi srednji izgledao kao pravi izbor.
+U praksi to znači: ako imate tri paketa usluga, najskuplji postoji delimično zato da bi srednji izgledao kao pravi izbor.
 
-## Decoy efekat: treca opcija koja menja odluku
+## Decoy efekat: treća opcija koja menja odluku
 
-Zamislite da birate izmedu dva paketa:
-- **Basic:** 500€ mesecno, 3 usluge
-- **Premium:** 1.500€ mesecno, 10 usluga
+Zamislite da birate između dva paketa:
+- **Basic:** 500€ mesečno, 3 usluge
+- **Premium:** 1.500€ mesečno, 10 usluga
 
-Vecina bira Basic jer je skok prevelik. Ali kad dodate trecu opciju:
-- **Basic:** 500€ mesecno, 3 usluge
-- **Standard:** 1.200€ mesecno, 9 usluga
-- **Premium:** 1.500€ mesecno, 10 usluga
+Većina bira Basic jer je skok prevelik. Ali kad dodate treću opciju:
+- **Basic:** 500€ mesečno, 3 usluge
+- **Standard:** 1.200€ mesečno, 9 usluga
+- **Premium:** 1.500€ mesečno, 10 usluga
 
-Odjednom Premium izgleda kao mnogo bolji deal u poredenju sa Standard. Za samo 300€ više dobijate jednu uslugu više. Standard postaje "decoy" koji gura ljude ka Premium.
+Odjednom Premium izgleda kao mnogo bolji deal u poređenju sa Standard paketom. Za samo 300€ više dobijate još jednu uslugu i jači utisak vrednosti. Standard postaje "decoy" koji gura ljude ka Premium opciji.
 
-Ovo nije teorija. Dan Ariely sa MIT-a je dokazao da dodavanje strateki postavljene trece opcije menja odluku kod 40% kupaca.
+Ovo nije teorija. Dan Ariely je popularizovao ovaj princip kroz eksperimente koji pokazuju da strateški postavljena treća opcija značajno menja odluku kupca.
 
 ## Charm pricing: zašto je 999 bolje od 1.000
 
-Postoji razlog zašto skoro svaka cena na internetu zavrava sa 9. Istraživanje sa MIT-a i Univerziteta u Cikagu testiralo je ensku odecu po tri cene: $34, $39 i $44. Ocekivali biste da najjeftinija proda najviše.
+Postoji razlog zašto skoro svaka cena na internetu završava sa 9. Istraživanje MIT-a i Univerziteta u Čikagu testiralo je žensku odeću po tri cene: $34, $39 i $44. Očekivali biste da najjeftinija proda najviše.
 
-Pogreno. Cena od $39 je nadmaila ostale dve. Mozak obraduje cenu od leva ka desno i automatski registruje prvu cifru kao referentnu. 999 dinara se cita kao "negde oko 900", dok 1.000 automatski prelazi u drugu kategoriju.
+Pogrešno. Cena od $39 nadmašila je ostale dve. Mozak obrađuje cenu sleva nadesno i automatski registruje prvu cifru kao referentnu. 999 dinara se čita kao "negde oko 900", dok 1.000 automatski prelazi u drugu kategoriju.
 
-Izuzetak su premium brendovi. Rolex nikada ne stavlja cenu od 9.990€. Stavljaju 10.000€ jer okrugla cena signalizira kvalitet i ozbiljnost. Za premium pozicioniranje, charm pricing radi kontraproduktivno.
+Izuzetak su premium brendovi. Rolex nikada ne stavlja cenu od 9.990€. Stavljaju 10.000€ jer okrugla cena signalizira kvalitet i ozbiljnost. Za premium pozicioniranje, charm pricing često radi kontraproduktivno.
 
 ## Kako primeniti ovo u svom biznisu
 
-Vecina malih firmi postavlja cene na osnovu trokova plus mara. To je aritmetika, ne strategija.
+Većina malih firmi postavlja cene na osnovu troškova plus marža. To je aritmetika, ne strategija.
 
 Evo tri koraka koja odmah menjaju percepciju:
 
-- **Dodajte premium opciju.** Cak i ako je niko ne kupuje, ona menja kontekst za ostale opcije.
-- **Koristite tri paketa umesto dva.** Srednji paket treba da bude ocigledno najbolja vrednost.
-- **Testirajte cene koje zavravaju na 7 ili 9.** Za uslužne firme, 990€ gotovo uvek nadmauje 1.000€ u konverzijama.
+- **Dodajte premium opciju.** Čak i ako je niko ne kupi, ona menja kontekst za ostale opcije.
+- **Koristite tri paketa umesto dva.** Srednji paket treba da bude očigledno najbolja vrednost.
+- **Testirajte cene koje završavaju na 7 ili 9.** Za uslužne firme, 990€ često nadmašuje 1.000€ u konverzijama.
 
-Cena je najmocniji alat u marketingu koji vecina firmi nikada ne testira. Jedna promena u prezentaciji cene može povecati prihod za 20-30% bez ijednog dodatnog kupca.
+Cena je jedan od najmoćnijih alata u marketingu koji većina firmi nikada ne testira. Jedna promena u prezentaciji cene može povećati prihod bez ijednog dodatnog kupca.
 
-Ako elite strukturiran pogled na vaš biznis, pogledajte na [consulting program](/consulting).
+Ako želite strukturiran pogled na vaš biznis, pogledajte naš [consulting program](/consulting).
 
-Takođe preporucujemo: [Pricing psihologija: kako luksuzni brendovi kontrolišu percepciju cene](/blog/pricing-psihologija-kako-luksuzni-brendovi-kontrolisu-percepciju-cene).
+Takođe preporučujemo: [Pricing psihologija: kako luksuzni brendovi kontrolišu percepciju cene](/blog/pricing-psihologija-kako-luksuzni-brendovi-kontrolisu-percepciju-cene).
 
 ---
 
-Ako elite pomoc sa pricing strategijom za vaš biznis, [javite nam se](/kontakt). Analiziracemo vašu trenutnu strukturu cena i predlošiti konkretne promene.
+Ako želite pomoć sa pricing strategijom za vaš biznis, [javite nam se](/kontakt). Analiziraćemo vašu trenutnu strukturu cena i predložiti konkretne promene.
 `,
+
   },
   {
     slug: 'ponuda-koju-niko-ne-moze-da-odbije',
     title: 'Anatomija neodoljive ponude: zašto većina firmi prodaje pogrešno',
-    excerpt: 'Većina firmi se takmici cenom. Firme koje razumeju anatomiju ponude se takmice vrednošću. Evo kako napraviti ponudu koja se ne odbija.',
+    excerpt: 'Većina firmi se takmiči cenom. Firme koje razumeju anatomiju ponude se takmiče vrednošću. Evo kako napraviti ponudu koja se ne odbija.',
     date: '2026-02-20',
     category: 'Biznis',
     readTime: '7 min',
     content: `
 ## Problem sa "dobrim proizvodom po dobroj ceni"
 
-Vecina firmi veruje da je dobar proizvod po korektnoj ceni dovoljan za prodaju. I onda se cude zašto im konverzija stoji na 2-3% dok konkurencija sa slicnim proizvodom zatvara 15%.
+Većina firmi veruje da je dobar proizvod po korektnoj ceni dovoljan za prodaju. I onda se čude zašto im konverzija stoji na 2-3%, dok konkurencija sa sličnim proizvodom zatvara 15%.
 
-Razlika skoro nikada nije u proizvodu. Razlika je u ponudi. Proizvod je ono što kupac dobija. Ponuda je celokupan paket: šta dobija, kako dobija, šta rizikuje, i šta propušta ako ne kupi.
+Razlika skoro nikada nije u proizvodu. Razlika je u ponudi. Proizvod je ono što kupac dobija. Ponuda je celokupan paket: šta dobija, kako dobija, šta rizikuje i šta propušta ako ne kupi.
 
-## Cetiri elementa neodoljive ponude
+## Četiri elementa neodoljive ponude
 
-Svaka ponuda koja zaista konvertuje ima istu formulu. Nije komplikovana, ali je vecina firmi nikad ne primeni kompletno:
+Svaka ponuda koja zaista konvertuje ima istu logiku. Nije komplikovana, ali je većina firmi nikad ne primeni kompletno.
 
-**Vrednost ponude = (eljeni rezultat — Verovatnoca uspeha) / (Vreme do rezultata — Ulošeni napor)**
+**Vrednost ponude = (željeni rezultat × verovatnoća uspeha) / (vreme do rezultata × uloženi napor)**
 
-Kad elite bolju ponudu, imate cetiri poluge:
-- Povecajte eljeni rezultat (šta kupac dobija)
-- Povecajte verovatnocu da ce uspeti (garancija, dokazi)
-- Smanjite vreme do rezultata (brzina isporuke)
-- Smanjite napor kupca (jednostavnost)
+Kad želite bolju ponudu, imate četiri poluge:
+- Povećajte željeni rezultat (šta kupac dobija)
+- Povećajte verovatnoću da će uspeti (garancija, dokazi, case study)
+- Smanjite vreme do rezultata (brža isporuka, brži onboarding)
+- Smanjite napor kupca (jednostavniji proces, manje obaveza sa njegove strane)
 
-> Ponuda nije lista feature-a. Ponuda je odgovor na pitanje: "Zašto bih bio budala da ovo propustim?"
+> Ponuda nije lista feature-a. Ponuda je odgovor na pitanje: "Zašto bih bio lud da ovo propustim?"
 
 ## Value stacking: gomilanje vrednosti
 
-Umesto da kažete "SEO optimizacija za 800€ mesecno", razbijte ponudu na komponente:
+Umesto da kažete "SEO optimizacija za 800€ mesečno", razbijte ponudu na komponente:
 
 - SEO audit sajta (vrednost 500€)
 - Optimizacija 20 stranica (vrednost 1.000€)
-- Mesecni izveštaj sa akcijama (vrednost 200€)
+- Mesečni izveštaj sa akcijama (vrednost 200€)
 - Konkurentska analiza (vrednost 300€)
 - Link building strategija (vrednost 400€)
 - **Ukupna vrednost: 2.400€**
-- **Vaa cena: 800€ mesecno**
+- **Vaša cena: 800€ mesečno**
 
-Kupac ne vidi 800€. Kupac vidi 2.400€ vrednosti za 800€. Ista usluga, potpuno drugacija percepcija.
+Kupac ne vidi samo 800€. Kupac vidi 2.400€ vrednosti za 800€. Ista usluga, potpuno drugačija percepcija.
 
-Ovo nije manipulacija. Ovo je isticanje svega što kupac zaista dobija, a što vecina firmi podrazumeva i ne pominje.
+Ovo nije manipulacija. Ovo je isticanje svega što kupac zaista dobija, a što većina firmi podrazumeva i ne pominje.
 
-## Garancija koja eliminie rizik
+## Garancija koja eliminiše rizik
 
-Najveca prepreka kupovini nije cena. Najveca prepreka je strah da nece raditi. Firme koje eliminiu taj strah konvertuju dramaticno bolje.
+Najveća prepreka kupovini nije cena. Najveća prepreka je strah da neće raditi. Firme koje eliminišu taj strah konvertuju dramatično bolje.
 
-Tri tipa garancija od najslabije do najjace:
-- **Garancija zadovoljstva:** "Ako niste zadovoljni, vracamo novac." Standardno, ali radi.
-- **Garancija rezultata:** "Ako ne dobijete 20+ lead-ova u prvom mesecu, sledeci mesec je besplatan." Mnogo jace jer obecava konkretan ishod.
-- **Garancija bez uslova:** "Probajte 30 dana. Ako vam se ne svida iz bilo kog razloga, vracamo svaki dinar." Najrizicnija za firmu, ali najubedljivija za kupca.
+Tri tipa garancija od najslabije do najjače:
+- **Garancija zadovoljstva:** "Ako niste zadovoljni, vraćamo novac."
+- **Garancija rezultata:** "Ako ne dobijete 20+ lead-ova u prvom mesecu, sledeći mesec je besplatan."
+- **Garancija bez uslova:** "Probajte 30 dana. Ako vam se ne svidi iz bilo kog razloga, vraćamo svaki dinar."
 
-Firme se plae garancija jer misle da ce svi tražiti povrat. U praksi, stopa povrata sa garancijom je 5-10%, ali povecanje konverzija je 30-50%. Matematika je jasna.
+Firme se plaše garancija jer misle da će svi tražiti povrat. U praksi, stopa povrata je obično mala, a povećanje konverzije često više nego pokrije taj rizik.
 
-## Urgentnost bez lanog pritiska
+## Urgentnost bez lažnog pritiska
 
-"Samo jo 3 mesta!" kad svi znaju da nije istina. Lana urgentnost ubija poverenje. Ali prava urgentnost je mocan alat.
+"Samo još 3 mesta!" kad svi znaju da nije istina. Lažna urgentnost ubija poverenje. Ali prava urgentnost je moćan alat.
 
 Primeri prave urgentnosti:
-- **Kapacitet:** "Primamo 5 novih klijenata mesecno jer svaki zahteva 40 sati rada." Realno i proverljivo.
-- **Sezonalnost:** "Kampanje pokrenute pre marta hvatauju Q2 saobracaj." Povezano sa kalendarem, ne sa lanim tajmerom.
-- **Bonus sa rokom:** "Prva 3 klijenta ovog meseca dobijaju besplatan video audit." Konkretan, ogranicen, verodostojan.
+- **Kapacitet:** "Primamo 5 novih klijenata mesečno jer svaki zahteva 40 sati rada."
+- **Sezonalnost:** "Kampanje pokrenute pre marta hvataju Q2 saobraćaj."
+- **Bonus sa rokom:** "Prva 3 klijenta ovog meseca dobijaju besplatan video audit."
 
-> Prava urgentnost dolazi iz ogranicenja kapaciteta ili vremena, ne iz countdown tajmera na landing stranici.
+> Prava urgentnost dolazi iz ograničenja kapaciteta ili vremena, ne iz countdown tajmera na landing stranici.
 
 ## Kako mi ovo primenjujemo
 
 U Platinum Zenith-u, svaku ponudu za klijente gradimo po ovoj strukturi. Ne prodajemo "marketing usluge". Prodajemo konkretan rezultat sa jasnom vrednošću, garancijom i vremenskim okvirom.
 
-Rezultat: naši klijenti ne porede nas sa "jeftinijim" agencijama. Porede nas sa vrednošću koju dobijaju. I to je potpuno drugaciji razgovor.
+Rezultat: naši klijenti ne porede nas sa "jeftinijim" agencijama. Porede nas sa vrednošću koju dobijaju. I to je potpuno drugačiji razgovor.
 
-Ako elite strukturiran pogled na vaš biznis, pogledajte na [consulting program](/consulting).
+Ako želite strukturiran pogled na vaš biznis, pogledajte naš [consulting program](/consulting).
 
-Takođe preporucujemo: [Komunikacija u prodaji: kako napisati ponudu koja zatvara](/blog/komunikacija-u-prodaji-kako-napisati-ponudu).
+Takođe preporučujemo: [Komunikacija u prodaji: kako napisati ponudu koja zatvara](/blog/komunikacija-u-prodaji-kako-napisati-ponudu).
 
 ---
 
-elite da napravimo neodoljivu ponudu za vaš biznis? [Javite nam se](/kontakt) i pokazacemo vam kako.
+Želite da napravimo neodoljivu ponudu za vaš biznis? [Javite nam se](/kontakt) i pokazaćemo vam kako.
 `,
+
   },
   {
     slug: 'organski-doseg-umire-sta-raditi',
@@ -22267,68 +22264,69 @@ elite da napravimo neodoljivu ponudu za vaš biznis? [Javite nam se](/kontakt) i
     category: 'Marketing',
     readTime: '6 min',
     content: `
-## Brojevi koje niko ne eli da cuje
+## Brojevi koje niko ne želi da čuje
 
-2015. godine, prosecan Facebook post firme dosezao je 10-15% pratilaca. Danas je ta cifra ispod 2%. Instagram je proao slican put: od 20%+ dosega na 5-7%, sa trendom ka jo nišim brojevima.
+2015. godine, prosečan Facebook post firme dosezao je 10-15% pratilaca. Danas je ta cifra često ispod 2%. Instagram je prošao sličan put: od dvocifrenog organskog dosega do znatno nižih brojeva.
 
-Ovo nije bag. Ovo je biznis model. Platforme zaraduju od oglasa. što manje organskog dosega daju firmama, više firmi mora da plati za vidljivost. Logicno iz perspektive platforme, frustrirajuce iz perspektive firme koja je godinama gradila publiku.
+Ovo nije bag. Ovo je biznis model. Platforme zarađuju od oglasa. Što manje organskog dosega daju firmama, više firmi mora da plati za vidljivost. Logično iz perspektive platforme, frustrirajuće iz perspektive firme koja je godinama gradila publiku.
 
-## Zašto objavljivanje više sadržaja ne reava problem
+## Zašto objavljivanje više sadržaja ne rešava problem
 
-Instinktivna reakcija vecine firmi: "Objavicemo cece." Problem je što više sadržaja u istom okruenju pada dosega ne menja osnovi problem. Objavljujete 5 puta nedeljno umesto 3, i svaki post i dalje dosee 2% publike.
+Instinktivna reakcija većine firmi je: "Objavljivaćemo češće." Problem je što više sadržaja u istom okruženju pada dosega ne menja osnovni problem. Objavljujete 5 puta nedeljno umesto 3, a svaki post i dalje dosegne samo mali procenat publike.
 
-Gora stvar: platforme aktivno kanjavaju nizak engagement. Ako objavljujete cesto a reakcije su slabe, algoritam zakljucuje da vaš sadržaj nije interesantan i smanjuje doseg jo više.
+Gora stvar: platforme aktivno kažnjavaju nizak engagement. Ako objavljujete često, a reakcije su slabe, algoritam zaključuje da vaš sadržaj nije interesantan i smanjuje doseg još više.
 
-> Organski doseg nije umro potpuno. Ali oslanjati se iskljucivo na njega za rast biznisa u 2026. je kao cekati autobus koji više ne saobraca.
+> Organski doseg nije potpuno mrtav. Ali oslanjati se isključivo na njega za rast biznisa u 2026. je kao čekati autobus koji više ne saobraća.
 
-## šta pametne firme rade umesto toga
+## Šta pametne firme rade umesto toga
 
-Firme koje i dalje rastu nisu prestale da objavljuju organski sadržaj. Ali su promenile ulogu tog sadržaja u celokupnoj strategiji.
+Firme koje i dalje rastu nisu prestale da objavljuju organski sadržaj. Ali su promenile ulogu tog sadržaja u celoj strategiji.
 
 ### 1. Email lista kao osiguranje
 
-Email je jedini kanal gde vi kontroliete doseg. Nema algoritma. Nema promene pravila preko noci. Kad imate email listu od 5.000 pretplatnika i poaljete newsletter, 20-30% ce ga otvoriti. To je 1.000-1.500 ljudi garantovano.
+Email je jedini kanal gde vi kontrolišete doseg. Nema algoritma. Nema promene pravila preko noći. Kad imate email listu od 5.000 pretplatnika i pošaljete newsletter, deo te publike ćete sigurno dosegnuti direktno.
 
-Firme koje grade email listu danas imaju osiguranje za buducnost. Sve ostalo (Instagram, TikTok, LinkedIn) može nestati ili promeniti pravila sutra.
+Firme koje grade email listu danas imaju osiguranje za budućnost. Sve ostalo (Instagram, TikTok, LinkedIn) može nestati ili promeniti pravila sutra.
 
-### 2. Placena amplifikacija organskog sadržaja
+### 2. Plaćena amplifikacija organskog sadržaja
 
-Umesto da organski sadržaj bude glavni kanal akvizicije, koriste ga kao osnovu za placene kampanje. Napiete odlican blog post ili napravite koristan video. Onda stavite 20-50€ na promociju tog sadržaja ka specificnoj publici.
+Umesto da organski sadržaj bude glavni kanal akvizicije, koriste ga kao osnovu za plaćene kampanje. Napišete odličan blog post ili napravite koristan video, pa onda stavite budžet na promociju tog sadržaja prema tačno određenoj publici.
 
-Rezultat: sadržaj koji bi organski dosegao 200 ljudi sada dosee 20.000. I to 20.000 pravih ljudi, ne random pratilaca.
+Rezultat: sadržaj koji bi organski dosegao 200 ljudi sada dosegne 20.000 relevantnih ljudi.
 
 ### 3. Owned media umesto rented media
 
-Instagram nalog je "rented media" jer ne kontroliete platformu. Blog na vašem sajtu je "owned media" jer je potpuno vaš.
+Instagram nalog je rented media jer ne kontrolišete platformu. Blog na vašem sajtu je owned media jer je potpuno vaš.
 
-Firme koje investiraju u blog, newsletter i YouTube kanal (gde je organski doseg jo relativno jak) grade imovinu koju niko ne može da im oduzme. Blog post koji ste napisali pre godinu dana i dalje donosi saobracaj sa Google-a. Instagram post od pre godinu dana ne donosi ništa.
+Firme koje investiraju u blog, newsletter i YouTube kanal grade imovinu koju niko ne može da im oduzme. Blog post koji ste napisali pre godinu dana i dalje može da donosi saobraćaj sa Google-a. Instagram post od pre godinu dana uglavnom ne donosi ništa.
 
 ### 4. Community umesto publike
 
-Publika gleda vaš sadržaj. Zajednica razgovara. Facebook grupe, Discord serveri, WhatsApp grupe. Formati gde ljudi pricaju jedni sa drugima, ne samo sluaju vas.
+Publika gleda vaš sadržaj. Zajednica razgovara. Facebook grupe, Discord serveri, WhatsApp grupe — to su formati gde ljudi pričaju jedni sa drugima, ne samo da pasivno gledaju vas.
 
-Doseg u zatvorenim grupama je 60-80% jer ljudi aktivno proveravaju grupe. Uporedite to sa 2% na Facebook stranici.
+Doseg u zatvorenim zajednicama je često viši jer ljudi aktivno proveravaju te prostore. To je kvalitativno drugačiji odnos od klasične Facebook stranice.
 
 ## Kako izgledaju brojevi u praksi
 
-Firma koja troši 100% marketinkog budžeta na organski sadržaj:
-- Doseg: 2% publike na drutvenim mrežama
-- Kontrola: nula (platforma menja pravila kad hoce)
-- Predvidljivost: niska
+Firma koja troši 100% marketing budžeta na organski sadržaj:
+- Doseg: nizak i nepredvidiv
+- Kontrola: praktično nula
+- Predvidljivost: slaba
 
-Firma koja kombinuje organski sadržaj + placenu amplifikaciju + email:
-- Doseg: 10-30x veci sa istim sadržajem
-- Kontrola: visoka (email lista je vaša)
-- Predvidljivost: visoka
+Firma koja kombinuje organski sadržaj + plaćenu amplifikaciju + email:
+- Doseg: višestruko veći
+- Kontrola: znatno viša
+- Predvidljivost: mnogo bolja
 
-Saznajte kako [upravljamo drutvenim mrežama](/drustvene-mreze) za firme koje ele rezultate, ne samo pratioce.
+Saznajte kako [upravljamo društvenim mrežama](/drustvene-mreze) za firme koje žele rezultate, ne samo pratioce.
 
-Takođe preporucujemo: [Content marketing: investicija koja se vraca godinama](/blog/content-marketing-dugorocna-investicija).
+Takođe preporučujemo: [Content marketing: investicija koja se vraća godinama](/blog/content-marketing-dugorocna-investicija).
 
 ---
 
-Ako elite da prestanete da zavisite od algoritama, [javite nam se](/kontakt). Napravicemo vam strategiju koja kombinuje sve kanale.
+Ako želite da prestanete da zavisite od algoritama, [javite nam se](/kontakt). Napravićemo vam strategiju koja kombinuje sve kanale.
 `,
+
   },
   {
     slug: 'google-ads-vs-facebook-ads-koji-je-bolji',
@@ -22338,69 +22336,66 @@ Ako elite da prestanete da zavisite od algoritama, [javite nam se](/kontakt). Na
     category: 'Marketing',
     readTime: '6 min',
     content: `
-## Dva potpuno razlicita pristupa
+## Dva potpuno različita pristupa
 
-Google Ads i Facebook Ads su dva najmocnija kanala za online oglaavanje. Ali oni rade na potpuno razlicitim principima i porediti ih je kao porediti pecanje i lov.
+Google Ads i Facebook Ads su dva najmoćnija kanala za online oglašavanje. Ali oni rade na potpuno različitim principima i porediti ih je kao porediti pecanje i lov.
 
-**Google Ads je pecanje.** Bacate mamac (oglas) i cekate da riba (kupac) dode do vas. Kupac aktivno traži rešenje: "stomatolog Beograd", "izrada sajta cena", "kupi patike online". On vec eli da kupi. Vi samo trebate da budete tu kad pretrauje.
+**Google Ads je pecanje.** Bacate mamac i čekate da kupac dođe do vas. Kupac aktivno traži rešenje: "stomatolog Beograd", "izrada sajta cena", "kupi patike online". On već želi da kupi. Vi samo treba da budete tu kad pretražuje.
 
-**Facebook Ads je lov.** Vi idete ka kupcu. On skroluje kroz feed, gleda slike prijatelja i meme-ove. Va oglas ga prekida i kaže: "Hej, moda te zanima ovo." Kupac nije tražio ništa, ali vaš oglas je toliko dobar da ne može da ga ignorie.
+**Facebook Ads je lov.** Vi idete ka kupcu. On skroluje kroz feed, gleda slike prijatelja i sadržaj koji ga zabavlja. Vaš oglas ga prekida i kaže: "Hej, možda te zanima ovo." Kupac nije tražio ništa, ali oglas može da probudi interesovanje.
 
-> Google hvata potranju koja vec postoji. Facebook stvara potranju koja nije postojala.
+> Google hvata postojeću potražnju. Facebook stvara ili aktivira potražnju koja još nije potpuno formirana.
 
 ## Kad koristiti Google Ads
 
 Google Ads je idealan kad:
-- Ljudi aktivno pretrauju vaš proizvod ili uslugu
-- Imate jasan, konkretan proizvod sa poznatom potranjom
-- elite brze rezultate (kampanja može poceti da donosi klijente za 24-48h)
-- Vaa usluga reava specifican problem (stomatolog, vodoinstalater, advokat)
+- Ljudi aktivno pretražuju vaš proizvod ili uslugu
+- Imate jasan, konkretan proizvod sa poznatom potražnjom
+- Želite brze rezultate
+- Vaša usluga rešava specifičan problem (stomatolog, vodoinstalater, advokat)
 
-Prosecna cena po kliku u Srbiji: 15-80 dinara za vecinu industrija. CPC za konkurentne nie (osiguranje, finansije) može ici do 200+ dinara.
-
-Gde Google ne radi dobro: novi proizvodi koje niko ne traži, brendovi koje niko ne zna, impulzivne kupovine.
+Google Search odlično radi kad postoji jasan intent. Ako vas ljudi već traže, želite da budete prvi ispred njih.
 
 ## Kad koristiti Facebook Ads
 
 Facebook Ads je idealan kad:
-- Va proizvod je vizuelan (odeca, kozmetika, hrana, dizajn)
-- Ciljate specificnu demografiju (mlade mame, vlasnici firmi, fitness entuzijasti)
-- elite da gradite brand awareness i da vas ljudi zapamte
-- Imate pricu ili sadržaj koji se može pokazati (before/after, testimonijali)
+- Vaš proizvod je vizuelan (odeća, kozmetika, hrana, dizajn)
+- Ciljate specifičnu demografiju ili interesovanja
+- Želite da gradite brand awareness i da vas ljudi zapamte
+- Imate priču ili sadržaj koji se može pokazati (before/after, testimonijali, demo)
 
-Prosecan CPM (cena za 1.000 prikaza) u Srbiji: 1-0€. Za e-commerce, ROAS od 3-5x je realan sa dobrim kreativom.
-
-Gde Facebook ne radi dobro: urgentne usluge ("zakljucao sam se, treba mi bravar"), B2B sa uom niom, proizvodi sa dugim ciklusom odlucivanja bez nurture sistema.
+Facebook i Instagram su posebno jaki kad kupac još nije u fazi aktivne pretrage, ali ga dobar kreativ može pomeriti ka interesovanju.
 
 ## Tajna: najbolje firme koriste oba
 
-Firme sa najboljim rezultatima ne biraju izmedu jednog i drugog. Koriste oba u kombinaciji:
+Firme sa najboljim rezultatima ne biraju nužno jedno ili drugo. Često koriste oba u kombinaciji:
 
-1. **Facebook gradi awareness.** Ljudi vide vaš oglas, kliknu, posete sajt. Moda ne kupe odmah, ali sada znaju da postojite.
-2. **Google hvata konverziju.** Nedelju dana kasnije, taj isti covek pretrauje vaš brend ili kategoriju na Google-u. Va oglas je tu. Sada kupuje jer vas vec poznaje.
+1. **Facebook gradi awareness.** Ljudi vide vaš oglas, kliknu, posete sajt. Možda ne kupe odmah, ali sada znaju da postojite.
+2. **Google hvata konverziju.** Nekoliko dana kasnije, taj isti čovek pretražuje vaš brend ili kategoriju na Google-u. Vaš oglas je tu. Sada kupuje jer vas već poznaje.
 
-Ova kombinacija smanjuje cenu po konverziji za 20-40% u poredenju sa koricenjem samo jednog kanala. Razlog: kupac koji je prethodno video vaš brend na Facebook-u ima 2-3x vecu ansu da klikne na vaš Google oglas.
+Ova kombinacija često smanjuje cenu po konverziji jer drugi kontakt više nije hladan.
 
 ## Kako raspodeliti budžet
 
-Za firmu koja tek pocinje sa oglaavanjem, preporuka zavisi od industrije:
+Za firmu koja tek počinje sa oglašavanjem, preporuka zavisi od industrije:
 
-**Uslune firme (stomatolog, advokat, majstor):** 70% Google, 30% Facebook. Ljudi aktivno traže ove usluge. Google donosi direktne pozive.
+**Uslužne firme (stomatolog, advokat, majstor):** veći deo budžeta ide na Google, manji deo na Meta retargeting i awareness.
 
-**E-commerce:** 60% Facebook, 40% Google Shopping. Proizvodi su vizuelni, impulzivni, Facebook je prirodno okruenje.
+**E-commerce:** Meta često nosi veći deo zbog vizuelnog formata, a Google Shopping/Search hvata postojeći intent.
 
-**SaaS / B2B:** 50% Google, 30% LinkedIn, 20% Facebook retargeting. Odluke su racionalnije, Google hvata intent, LinkedIn cilja pozicije.
+**SaaS / B2B:** Google hvata aktivnu pretragu, dok Meta ili LinkedIn mogu da grade dodatni demand i retargeting sloj.
 
-**Lokalni biznisi:** 60% Google (lokalne pretrage), 40% Facebook (community building). Google Maps + lokalni oglasi su najbri put do rezultata.
+**Lokalni biznisi:** Google je odličan za lokalne pretrage, a Facebook/Instagram za community prisustvo i retargeting.
 
-Saznajte više o naem [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
+Saznajte više o našem [pristupu digitalnom marketingu](/digitalni-marketing) i kako gradimo kampanje koje donose merljive rezultate.
 
-Takođe preporucujemo: [Facebook vs Instagram oglasi: gde je vaša publika?](/blog/facebook-vs-instagram-oglasi-gde-je-vasa-publika).
+Takođe preporučujemo: [Facebook vs Instagram oglasi: gde je vaša publika?](/blog/facebook-vs-instagram-oglasi-gde-je-vasa-publika).
 
 ---
 
-Niste sigurni gde da ulaete budžet? [Javite nam se](/kontakt) i napravicemo vam plan baziran na vašoj industriji i ciljevima.
+Niste sigurni gde da ulažete budžet? [Javite nam se](/kontakt) i napravićemo vam plan baziran na vašoj industriji i ciljevima.
 `,
+
   },
   {
     slug: 'content-marketing-dugorocna-investicija',
@@ -25955,7 +25950,7 @@ Ako elite da procenimo vaš trenutni sajt i damo realan plan održavanja po prio
   {
     slug: 'vodjenje-drustvenih-mreza-cena-srbija-2026',
     title: 'Vođenje društvenih mreža cena u Srbiji 2026: šta ulazi i koliko realno košta',
-    excerpt: 'Cene vođenja društvenih mreža idu od 150e do 2.000e+ mesečno, ali razlika nije samo u broju objava. Evo šta stvarno plaćate i koji paket ima smisla za vas biznis.',
+    excerpt: 'Cene vođenja društvenih mreža idu od 150e do 2.000e+ mesečno, ali razlika nije samo u broju objava. Evo šta stvarno plaćate i koji paket ima smisla za vaš biznis.',
     date: '2026-03-10',
     category: 'Digitalni marketing',
     readTime: '9 min',
@@ -25968,12 +25963,12 @@ Ako elite kratak odgovor: u 2026. najceci raspon za vodenje društvenih mreža u
 - Lokalne firme sa ozbiljnijim ciljem rasta najcece su 400-900€.
 - Brendovi koji aktivno skaliraju kampanje idu 900-2.000€+.
 
-Najveca greka je da se cena poredi samo po broju objava. Objave su samo mali deo posla.
+Najveća greka je da se cena poredi samo po broju objava. Objave su samo mali deo posla.
 
 ## Zašto dve ponude mogu da se razlikuju 5x
 
-Kod jedne agencije "vodenje" znaci 8 Canva objava mesecno i to je to.
-Kod druge ukljucuje strategiju, kreativu, community management, placene kampanje, testiranje i mesecnu optimizaciju.
+Kod jedne agencije "vodenje" znači 8 Canva objava mesecno i to je to.
+Kod druge uključuje strategiju, kreativu, community management, plaćene kampanje, testiranje i mesecnu optimizaciju.
 
 Zato je prvo pitanje: **da li kupujete prisustvo ili rezultat?**
 
@@ -25993,7 +25988,7 @@ Minimum koji treba da postoji:
 
 ### 2) Produkcija sadržaja
 
-Ovde obicno ide najveci deo vremena:
+Ovde obično ide najveći deo vremena:
 - copywriting,
 - dizajn statika i karusela,
 - kratki video/reels format,
@@ -26005,13 +26000,13 @@ Broj objava je bitan, ali kvalitet poruke i kreativa je bitniji.
 
 Komentari, DM poruke i moderacija direktno uticu na poverenje i konverzije.
 
-Ako ovo nije ukljuceno, gubite leadove koji su vec pokazali interesovanje.
+Ako ovo nije ukljuceno, gubite leadove koji su već pokazali interesovanje.
 
-### 4) Placene kampanje (kad su deo paketa)
+### 4) Plaćene kampanje (kad su deo paketa)
 
 Organski sadržaj retko sam iznese ozbiljan rast.
 
-Zato se cesto kombinuje sa oglasima:
+Zato se često kombinuje sa oglasima:
 - Meta Ads (Facebook/Instagram),
 - retargeting publike,
 - kampanje za lead ili prodaju.
@@ -26022,21 +26017,21 @@ Za paid benchmarke pogledajte [koliko košta Facebook reklama](/koliko-kosta-fac
 
 Bez analitike ne znate da li sadržaj radi.
 
-Traite da paket ukljucuje:
+Traite da paket uključuje:
 - mesecni izveštaj sa KPI-jima,
 - zakljucke šta radi/ne radi,
-- konkretne sledece testove.
+- konkretne sledeće testove.
 
 ## Realni cenovni modeli u 2026.
 
 ### Basic (150-400€ / mesecno)
 
-Najcece ukljucuje:
+Najcece uključuje:
 - 8-12 objava,
 - osnovni dizajn i copy,
 - minimalni community management.
 
-Dovoljno za pocetno prisustvo, ali obicno nedovoljno za ozbiljan rast leadova.
+Dovoljno za pocetno prisustvo, ali obično nedovoljno za ozbiljan rast leadova.
 
 ### Growth (400-900€ / mesecno)
 
@@ -26046,7 +26041,7 @@ Najceci model za lokalne firme i B2B usluge:
 - aktivnija komunikacija sa publikom,
 - redovni mesecni izveštaji.
 
-Ovo je cesto najbolji odnos cene i rezultata.
+Ovo je često najbolji odnos cene i rezultata.
 
 ### Performance (900-2.000€+ / mesecno)
 
@@ -26056,20 +26051,20 @@ Za firme koje ele agresivniji rast:
 - paid kampanje i testiranje,
 - dublja analitika i optimizacija funnel-a.
 
-Ako vam je fokus lead generation, ovo se cesto kombinuje sa stranicom [drutvene mree](/drustvene-mreze) i jasnim CTA tokovima.
+Ako vam je fokus lead generation, ovo se često kombinuje sa stranicom [drutvene mree](/drustvene-mreze) i jasnim CTA tokovima.
 
 ## Kako da procenite da li je ponuda dobra
 
 Pre nego što potpiete, tražite jasne odgovore na 6 pitanja:
 
 1. Koliko sadržaja mesecno i u kojim formatima?
-2. Da li je community management ukljucen ili se posebno placa?
+2. Da li je community management ukljucen ili se posebno plaća?
 3. Koje KPI metrike pratite (ne samo reach)?
 4. Ko pravi kreativu i ko odobrava objave?
 5. Da li je ukljuceno testiranje oglasa i budžetiranje?
 6. šta je rok za prve merljive rezultate?
 
-Ako su odgovori nejasni, velika je ansa da cete platiti aktivnost, a ne rezultat.
+Ako su odgovori nejasni, velika je ansa da ćete platiti aktivnost, a ne rezultat.
 
 ## Najcece greške koje diu troak bez efekta
 
@@ -26081,11 +26076,11 @@ Ako su odgovori nejasni, velika je ansa da cete platiti aktivnost, a ne rezultat
 
 Drutvene mree rade najbolje kad su povezane sa celim sistemom akvizicije, a ne kao izolovan kanal.
 
-## Zakljucak
+## Zaključak
 
 Cena vodenja društvenih mreža zavisi od dubine posla, ne od estetike feed-a.
 
-Ako elite realnu procenu po vašoj niši, cilju i budžetu, javite se preko [kontakt forme](/kontakt) i dobicete konkretan plan šta ima smisla da radite sada, a šta kasnije.
+Ako želite realnu procenu po vašoj niši, cilju i budžetu, javite se preko [kontakt forme](/kontakt) i dobićete konkretan plan šta ima smisla da radite sada, a šta kasnije.
 `,
   },
   {
@@ -26292,39 +26287,39 @@ Ako hoces, mozemo zajedno da napravimo scorecard i 90-dnevni plan pa da u interv
   {
     slug: 'tiktok-reklame-cena-srbija-2026',
     title: 'TikTok reklame cena u Srbiji 2026: realni budžeti, CPM/CPC rasponi i kada se isplate',
-    excerpt: 'Koliko koštaju TikTok reklame u Srbiji 2026, koji budžet ima smisla za test i kako da procenis da li kanal donosi profit ili samo jeftine preglede bez prodaje.',
+    excerpt: 'Koliko koštaju TikTok reklame u Srbiji 2026, koji budžet ima smisla za test i kako da proceniš da li kanal donosi profit ili samo jeftine preglede bez prodaje.',
     date: '2026-03-11',
     category: 'Marketing',
     readTime: '9 min',
     content: `
 ## TikTok reklame cena u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **tiktok reklame cena Srbija**, realan start za vecinu firmi je:
+Ako tražiš upit **tiktok reklame cena Srbija**, realan start za većinu firmi je:
 
-- **medijski budzet:** 500e-1.500e mesecno
+- **medijski budžet:** 500e-1.500e mesecno
 - **upravljanje kampanjama:** 200e-700e mesecno
 - **kreativa (UGC/video varijante):** 150e-1.200e mesecno
 
-Ukupan trosak zato nije samo "koliko kosta klik", nego kombinacija medije + kreativne produkcije + operativne optimizacije.
+Ukupan trošak zato nije samo "koliko košta klik", nego kombinacija medije + kreativne produkcije + operativne optimizacije.
 
-Ako hoces siri benchmark po kanalima, pogledaj i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Ako hoćeš siri benchmark po kanalima, pogledaj i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-## Sta najvise utice na cenu TikTok oglasa
+## Šta najvise utice na cenu TikTok oglasa
 
-TikTok aukcija je osetljiva na signal kvaliteta kreative. To znaci da dve firme sa slicnim budzetom mogu imati potpuno razlicit CPM i CPA.
-Najveci uticaj najcesce imaju:
+TikTok aukcija je osetljiva na signal kvaliteta kreative. To znači da dve firme sa slicnim budzetom mogu imati potpuno razlicit CPM i CPA.
+Najveći uticaj najčešće imaju:
 
 1. **Hook u prve 2 sekunde videa**
-2. **Match izmedju oglasa i landing stranice**
+2. **Match između oglasa i landing stranice**
 3. **Kvalitet ponude (jasan razlog da korisnik ostavi kontakt ili kupi)**
 4. **Event tracking i pravilno mapirana konverzija**
-5. **Brzina iteracije (koliko cesto testiras nove uglove poruke)**
+5. **Brzina iteracije (koliko često testiras nove uglove poruke)**
 
-Ako kreativa kasni, kampanja skoro uvek postaje skupa bez obzira na velicinu budzeta.
+Ako kreativa kasni, kampanja skoro uvek postaje skupa bez obzira na velicinu budžeta.
 
 ## Realni rasponi metrika za TikTok u Srbiji (2026)
 
-Orijentacioni rasponi koje firme najcesce vide u fazi zdravog testiranja:
+Orijentacioni rasponi koje firme najčešće vide u fazi zdravog testiranja:
 
 - **CPM:** 1.8e-7.5e
 - **CPC:** 0.05e-0.35e
@@ -26333,7 +26328,7 @@ Orijentacioni rasponi koje firme najcesce vide u fazi zdravog testiranja:
 
 Napomena: jeftin CPC sam po sebi nije cilj. Ako klik ne prelazi u upit ili kupovinu, nizak CPC je samo "lep broj" bez biznis efekta.
 
-## Budzeti po fazi rasta
+## Budžeti po fazi rasta
 
 ### 1) Test faza (500e-1.500e/mes)
 
@@ -26342,32 +26337,32 @@ Cilj nije scale, nego da saznas koji message i koja publika prave stabilan signa
 
 ### 2) Stabilizacija (1.500e-4.000e/mes)
 
-Kad se pojavi prvi winner, budzet se usmerava na ono sto radi.
+Kad se pojavi prvi winner, budžet se usmerava na ono sto radi.
 Uvodi se ritam nedeljnih kreativnih iteracija i jasna segmentacija cold/warm publike.
 
 ### 3) Skaliranje (4.000e+/mes)
 
 Tek ovde ima smisla ozbiljnije horizontalno i vertikalno skaliranje.
-Fokus prelazi sa "sto vise pregleda" na profitabilan rast po proizvodu/usluzi i segmentu publike.
+Fokus prelazi sa "sto više pregleda" na profitabilan rast po proizvodu/usluzi i segmentu publike.
 
-## Koliko kosta vodjenje TikTok kampanja
+## Koliko košta vođenje TikTok kampanja
 
 Najcesci modeli naplate u Srbiji:
 
 - **fiksno mesecno:** 200e-700e
 - **fiksno + performance bonus:** npr. manji fiksni deo + bonus po lead-u/prodaji
-- **procenat medijskog budzeta:** uglavnom 10%-20% kod vecih naloga
+- **procenat medijskog budžeta:** uglavnom 10%-20% kod vecih naloga
 
 Ako zelis da uporedis sa Meta kanalom, pogledaj i [Instagram reklame cena](/instagram-reklame-cena).
-Za Search intent saobracaj dobar paralelan benchmark je [Google reklame cena](/google-reklame-cena).
+Za Search intent saobraćaj dobar paralelan benchmark je [Google reklame cena](/google-reklame-cena).
 
-## Najcesce greske koje vestacki podizu TikTok cenu
+## Najčešće greške koje veštački podizu TikTok cenu
 
 1. **Kreativa izgleda kao TV reklama**
    TikTok publika bolje reaguje na native, autenticne formate nego na preterano polished spotove.
 
 2. **Prekasna iteracija**
-   Ako cekas 3-4 nedelje da promenis los ad, spaljujes budzet bez ucenja.
+   Ako cekas 3-4 nedelje da promenis los ad, spaljujes budžet bez ucenja.
 
 3. **Slab landing posle dobrog oglasa**
    Dobar video dovede klik, ali bez jasne ponude i CTA-a konverzija pada.
@@ -26384,7 +26379,7 @@ Ako treba da podignes konverziju posle klika, pogledaj i [CRO optimizaciju](/cro
 
 Jednostavan okvir:
 
-- prosecan prihod po kupcu/klijentu,
+- prosečan prihod po kupcu/klijentu,
 - bruto marza,
 - stopa konverzije iz lead-a u kupca,
 - ciljna cena akvizicije (CPA).
@@ -26396,14 +26391,14 @@ Primer:
 - stopa zatvaranja lead-a: 25% (1 od 4)
 
 Maksimalno odrziv CPL je ~27e (108e / 4).
-Ako je stvarni CPL duze vreme znacajno iznad toga, kanal trazi korekciju ponude, kreative ili funnel-a.
+Ako je stvarni CPL duze vreme znacajno iznad toga, kanal traži korekciju ponude, kreative ili funnel-a.
 
-## Zakljucak
+## Zaključak
 
-Za upit **tiktok reklame cena Srbija 2026**, najvaznije je da trosak gledas kao sistem, a ne kao jednu metriku.
-Kada uskladis kreativu, tracking i landing, TikTok moze biti vrlo profitabilan kanal i za lead gen i za e-commerce.
+Za upit **tiktok reklame cena Srbija 2026**, najvaznije je da trošak gledas kao sistem, a ne kao jednu metriku.
+Kada uskladis kreativu, tracking i landing, TikTok može biti vrlo profitabilan kanal i za lead gen i za e-commerce.
 
-Ako hoces, mozemo uraditi brzi audit postojece kampanje i reci gde curi budzet pre nego sto povecas ulaganje - javi se preko [kontakt forme](/kontakt).
+Ako hoćeš, mozemo uraditi brzi audit postojece kampanje i reci gde curi budžet pre nego sto povecas ulaganje - javi se preko [kontakt forme](/kontakt).
 `,
   },
   {
@@ -26868,104 +26863,102 @@ Ako zelite da znate gde vam je najveci prostor za napredak, javite se za besplat
   {
     slug: 'vodjenje-google-ads-kampanja-fee-izbor-partnera-srbija-2026',
     title: 'Vođenje Google Ads kampanja cena u Srbiji 2026: šta ulazi u fee i kako da izabereš partnera',
-    excerpt: 'Koliko realno košta vođenje Google Ads kampanja u Srbiji 2026, kada je fiksni fee bolji od procenta budžeta i kako da procenis da li agencija pravi profit ili samo trosi klikove.',
+    excerpt: 'Koliko realno košta vođenje Google Ads kampanja u Srbiji 2026, kada je fiksni fee bolji od procenta budžeta i kako da proceniš da li agencija pravi profit ili samo troši klikove.',
     date: '2026-03-12',
     category: 'Google Ads',
     readTime: '9 min',
-    content: `
-## Vodjenje Google Ads kampanja cena u Srbiji 2026: kratak odgovor
+    content: `## Vođenje Google Ads kampanja cena u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **vodjenje Google Ads kampanja cena**, realan raspon na srpskom trzistu je najcesce:
-- **200e-350e/mes** za male naloge i osnovno odrzavanje,
+Ako tražiš upit **vođenje Google Ads kampanja cena**, realan raspon na srpskom tržištu je najčešće:
+- **200e-350e/mes** za male naloge i osnovno održavanje,
 - **350e-900e/mes** za ozbiljnije naloge sa redovnim optimizacijama,
-- **900e+ / mes** za kompleksne naloge, vise funnel-a i jace testiranje.
+- **900e+ / mes** za kompleksne naloge, više funnel-a i jače testiranje.
 
 Ali cena sama po sebi ne govori mnogo.
-Pravo pitanje je da li upravljanje donosi nizi trosak kvalifikovanog lead-a i veci profit.
+Pravo pitanje je da li upravljanje donosi niži trošak kvalifikovanog lead-a i veći profit.
 Ako ti prvo treba okvir ukupnog ulaganja, pogledaj i [Google reklame cena](/google-reklame-cena).
 
-## Sta sve ulazi u cenu vodjenja (a sta cesto ne ulazi)
+## Šta sve ulazi u cenu vođenja (a šta često ne ulazi)
 
-Zdravo vodjenje Google Ads naloga obicno ukljucuje:
-1. istrazivanje i grupisanje kljucnih reci po intentu,
+Zdravo vođenje Google Ads naloga obično uključuje:
+1. istraživanje i grupisanje ključnih reči po intentu,
 2. strukturu kampanja i ad grupa,
 3. pisanje i iteraciju oglasa,
-4. search terms ciscenje i negativne reci,
-5. bid i budzet optimizaciju,
-6. mesecni izvestaj sa preporukama.
+4. search terms čišćenje i negativne reči,
+5. bid i budžet optimizaciju,
+6. mesečni izveštaj sa preporukama.
 
-Stavke koje cesto **nisu** ukljucene, a kljucne su za rezultat:
+Stavke koje često **nisu** uključene, a ključne su za rezultat:
 - landing optimizacija,
 - napredni tracking i atribucija,
 - dublji CRO eksperimenti,
 - kreativni sistem za PMax assete.
 
-Zato je vazno da pre potpisa jasno pitas sta je tacno u fee-u, a sta je dodatni scope.
+Zato je važno da pre potpisa jasno pitaš šta je tačno u fee-u, a šta je dodatni scope.
 
-## Fiksni fee ili procenat budzeta: sta je bolje
+## Fiksni fee ili procenat budžeta: šta je bolje
 
 U praksi postoje tri modela naplate:
 
 ### 1) Fiksni fee
-Dobar je kada hoces predvidiv trosak i jasnu kontrolu marze.
-Najvise ima smisla za manje i srednje naloge.
+Dobar je kada hoćeš predvidiv trošak i jasnu kontrolu marže.
+Najviše ima smisla za manje i srednje naloge.
 
-### 2) Procenat od budzeta
-Najcesce 10%-20%.
-Moze biti fer za vece naloge, ali trazi jasan dogovor da cilj nije samo veca potrosnja, nego profitabilan rast.
+### 2) Procenat od budžeta
+Najčešće 10%-20%.
+Može biti fer za veće naloge, ali traži jasan dogovor da cilj nije samo veća potrošnja, nego profitabilan rast.
 
 ### 3) Hibrid (fiksni + performance bonus)
-Cesto najbolji kompromis kada hoces stabilan rad + motivaciju za bolji poslovni rezultat.
+Često najbolji kompromis kada hoćeš stabilan rad + motivaciju za bolji poslovni rezultat.
 
-Ako vec uporedjujes modele saradnje, koristan kontekst je i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share).
+Ako već upoređuješ modele saradnje, koristan kontekst je i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share).
 
-## Koliko fee treba da bude u odnosu na budzet
+## Koliko fee treba da bude u odnosu na budžet
 
-Praktican okvir koji cesto ima smisla:
-- kod manjih budzeta fee zauzima veci procenat jer osnovni operativni posao ne moze ispod odredjenog minimuma,
-- kako budzet raste, procenat fee-a obicno pada,
-- kada budzet raste a rezultat stagnira, problem je retko "premali fee", cesce je problem u ponudi, landingu ili prodajnom follow-upu.
+Praktičan okvir koji često ima smisla:
+- kod manjih budžeta fee zauzima veći procenat jer osnovni operativni posao ne može ispod određenog minimuma,
+- kako budžet raste, procenat fee-a obično pada,
+- kada budžet raste a rezultat stagnira, problem je retko "premali fee", češće je problem u ponudi, landingu ili prodajnom follow-upu.
 
-Ako sumnjas da je usko grlo van oglasa, pogledaj [facebook oglasi ne rade](/facebook-oglasi-ne-rade) i [CRO optimizaciju](/cro).
+Ako sumnjaš da je usko grlo van oglasa, pogledaj [facebook oglasi ne rade](/facebook-oglasi-ne-rade) i [CRO optimizaciju](/cro).
 
-## Crvene zastavice kod ponuda za vodjenje Google Ads kampanja
+## Crvene zastavice kod ponuda za vođenje Google Ads kampanja
 
-Najcesci signali da ponuda nije zdrava:
+Najčešći signali da ponuda nije zdrava:
 
-1. **Nema jasnih KPI-ja** (sve ostaje na "bicete vidljiviji").
-2. **Nema plana testiranja** (kampanja se "pusti" i ceka).
-3. **Nejasno vlasnistvo naloga** (nalog nije na tvom business profilu).
-4. **Izvestaj bez akcija** (brojevi postoje, ali nema odluka).
+1. **Nema jasnih KPI-ja** (sve ostaje na "bićete vidljiviji").
+2. **Nema plana testiranja** (kampanja se "pusti" i čeka).
+3. **Nejasno vlasništvo naloga** (nalog nije na tvom business profilu).
+4. **Izveštaj bez akcija** (brojevi postoje, ali nema odluka).
 5. **Fokus samo na CPC** umesto na CPL/CPA i kvalitet lead-a.
 
-Ako se pregovori vrte samo oko cene, a ne oko merenja rezultata, vrlo verovatno placas aktivnost, ne napredak.
+Ako se pregovori vrte samo oko cene, a ne oko merenja rezultata, vrlo verovatno plaćaš aktivnost, ne napredak.
 
 ## Mini due-diligence pre potpisa (15 minuta)
 
-Pre nego sto izaberes agenciju/freelancera, trazi 5 konkretnih odgovora:
+Pre nego što izabereš agenciju/freelancera, traži 5 konkretnih odgovora:
 
 - Koji je plan za prvih 30 dana?
 - Koji KPI se prati kao glavni poslovni signal?
-- Koliko cesto se rade optimizacije i eksperimenti?
+- Koliko često se rade optimizacije i eksperimenti?
 - Kako se meri kvalitet lead-a, ne samo broj lead-ova?
 - Koje odluke se donose kad kampanja 2-3 nedelje stagnira?
 
-Ako na ova pitanja dobijes nejasne odgovore, rizik je visok bez obzira na nizu cenu.
+Ako na ova pitanja dobiješ nejasne odgovore, rizik je visok bez obzira na nižu cenu.
 
-## 30-dnevni okvir da fee ne ostane samo trosak
+## 30-dnevni okvir da fee ne ostane samo trošak
 
 - **Nedelja 1:** tracking i baseline + struktura kampanje po intentu.
-- **Nedelja 2:** search terms pruning + negativne reci + ad copy iteracije.
-- **Nedelja 3:** landing i CTA dorade + preraspodela budzeta.
+- **Nedelja 2:** search terms pruning + negativne reči + ad copy iteracije.
+- **Nedelja 3:** landing i CTA dorade + preraspodela budžeta.
 - **Nedelja 4:** odluke po CPL/CPA trendu i kvalitetu lead-a iz prodaje.
 
-Ako vec planiras multi-channel pristup, uporedi i [Instagram reklame cena](/instagram-reklame-cena) i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Ako već planiraš multi-channel pristup, uporedi i [Instagram reklame cena](/instagram-reklame-cena) i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-## Zakljucak
+## Zaključak
 
-Cena vodjenja Google Ads kampanja u Srbiji 2026 ima smisla tek kada je vezes za merenje rezultata i kvalitet isporuke.
-Ako hoces, mogu da uradim brz audit tvoje trenutne ponude i oznacim da li je fee zdrav ili placas previse za premalo pomaka - javi se preko [kontakt forme](/kontakt).
-`,
+Cena vođenja Google Ads kampanja u Srbiji 2026 ima smisla tek kada je vežeš za merenje rezultata i kvalitet isporuke.
+Ako hoćeš, mogu da uradim brz audit tvoje trenutne ponude i označim da li je fee zdrav ili plaćaš previše za premalo pomaka - javi se preko [kontakt forme](/kontakt).`,
   },
   {
     slug: 'google-ads-za-arhitektonske-biroe-cena-upita-srbija-2026',
@@ -27213,46 +27206,46 @@ Ako hoćeš, mogu da ti pomognem da izračunamo tvoj konkretan start budžet i g
   {
     slug: 'linkedin-reklame-cena-srbija-2026',
     title: 'LinkedIn reklame cena u Srbiji 2026: realni CPL rasponi, budžet i kada se isplate',
-    excerpt: 'Koliko koštaju LinkedIn reklame u Srbiji 2026, koji budžet ima smisla za B2B lead gen i kako da procenis da li kanal donosi pipeline ili samo skupe klikove.',
+    excerpt: 'Koliko koštaju LinkedIn reklame u Srbiji 2026, koji budžet ima smisla za B2B lead gen i kako da proceniš da li kanal donosi pipeline ili samo skupe klikove.',
     date: '2026-03-14',
     category: 'LinkedIn Ads',
     readTime: '10 min',
     content: `
 ## LinkedIn reklame cena u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **linkedin reklame cena Srbija**, realan okvir za vecinu B2B firmi najcesce izgleda ovako:
+Ako tražiš upit **linkedin reklame cena Srbija**, realan okvir za većinu B2B firmi najčešće izgleda ovako:
 
 - **test faza:** 500e-1.500e/mes,
 - **stabilan lead flow:** 1.500e-4.000e/mes,
-- **agresivniji rast (vise persona + vise ponuda):** 4.000e+/mes.
+- **agresivniji rast (više persona + više ponuda):** 4.000e+/mes.
 
-LinkedIn je po kliku skuplji od Meta kanala, ali kod B2B prodaje cesto donosi kvalitetniji lead jer hvata tacne funkcije, industrije i senioritet.
+LinkedIn je po kliku skuplji od Meta kanala, ali kod B2B prodaje često donosi kvalitetniji lead jer hvata tacne funkcije, industrije i senioritet.
 Za uporedni okvir ulaganja po kanalima pogledaj i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-## Zasto LinkedIn deluje skuplje nego drugi kanali
+## Zašto LinkedIn deluje skuplje nego drugi kanali
 
-Na LinkedIn-u ne placas samo klik, nego pristup publici sa visom kupovnom moci i odlucivanjem (owner, direktor, head of, procurement, HR, IT lead).
+Na LinkedIn-u ne plaćaš samo klik, nego pristup publici sa višom kupovnom moći i odlučivanjem (owner, direktor, head of, procurement, HR, IT lead).
 
-Zato su rasponi obicno visi:
+Zato su rasponi obično viši:
 
 - **CPC:** 1.20e-6.50e,
 - **CPM:** 10e-45e,
-- **MQL/SQL lead:** 35e-180e (nekad i vise u uskim B2B nisama).
+- **MQL/SQL lead:** 35e-180e (nekad i više u uskim B2B nisama).
 
-Ako je prosecna vrednost klijenta niska, kanal moze izgledati "preskup".
-Ako je LTV visok i prodaja ima dobar follow-up, LinkedIn cesto ima zdraviju ekonomiju nego sto deluje na prvi pogled.
+Ako je prosečna vrednost klijenta niska, kanal može izgledati "preskup".
+Ako je LTV visok i prodaja ima dobar follow-up, LinkedIn često ima zdraviju ekonomiju nego sto deluje na prvi pogled.
 
-## Sta najvise utice na cenu LinkedIn kampanje
+## Šta najvise utice na cenu LinkedIn kampanje
 
-### 1) Sirina targeta
-Ako targetiras siroko (npr. "marketing" ili "IT" bez jasne funkcije i senioriteta), dobijas vise klikova, ali slabiji kvalitet leadova.
+### 1) Širina targeta
+Ako targetiraš široko (npr. "marketing" ili "IT" bez jasne funkcije i senioriteta), dobijaš više klikova, ali slabiji kvalitet leadova.
 
 ### 2) Kreativa i poruka
-LinkedIn publika brzo prepoznaje genericki copy.
+LinkedIn publika brzo prepoznaje generički copy.
 Najbolje rade oglasi sa jasnim poslovnim kontekstom: problem, posledica, konkretan ishod.
 
 ### 3) Ponuda iza oglasa
-Lead magnet tipa "besplatan vodic" cesto pravi volumen, ali ne i kvalitet.
+Lead magnet tipa "besplatan vodič" često pravi volumen, ali ne i kvalitet.
 Za B2B uglavnom bolje rade:
 - mini audit,
 - benchmark kalkulator,
@@ -27263,28 +27256,28 @@ Ako landing ne prati poruku oglasa, cena leada raste bez obzira na kvalitet targ
 Za stranicu koja bolje zatvara B2B upite pogledaj [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
 
 ### 4) Brzina i disciplina prodajnog follow-up-a
-Kod B2B-a lead cesto ne kupuje odmah.
-Ako CRM i sales proces nisu uredjeni, lako dobijes utisak da kanal ne radi, iako problem nije u oglasima nego u procesu posle klika.
+Kod B2B-a lead često ne kupuje odmah.
+Ako CRM i sales proces nisu uređeni, lako dobiješ utisak da kanal ne radi, iako problem nije u oglasima nego u procesu posle klika.
 
-## Koliki budzet ima smisla za prvih 30 dana
+## Koliki budžet ima smisla za prvih 30 dana
 
 Pitanje "da li je 300e dovoljno" je kod LinkedIn-a uglavnom: nije.
-Razlog je sto kanal trazi dovoljno podataka po segmentu (industrija, funkcija, velicina firme, senioritet).
+Razlog je sto kanal traži dovoljno podataka po segmentu (industrija, funkcija, velicina firme, senioritet).
 
-Praktican test okvir za vecinu B2B naloga:
+Praktičan test okvir za većinu B2B naloga:
 
 - 2-3 ICP segmenta,
 - 2 ponude,
 - 2-3 creative ugla po ponudi,
 - minimum 4 nedelje bez panicnog gasenja kampanja posle 3 dana.
 
-U praksi to najcesce znaci **500e-1.500e** za test koji stvarno moze da donese zakljucak.
+U praksi to najčešće znači **500e-1.500e** za test koji stvarno može da donese zaključak.
 
-## Kako proceniti da li se LinkedIn isplati (bez nagadjanja)
+## Kako proceniti da li se LinkedIn isplati (bez nagađanja)
 
-Pre launch-a izracunaj sledece:
+Pre launch-a izračunaj sledeće:
 
-1. prosecna vrednost ugovora,
+1. prosečna vrednost ugovora,
 2. bruto marza,
 3. lead -> opportunity stopa,
 4. opportunity -> klijent stopa,
@@ -27294,25 +27287,25 @@ Ako ove brojeve nemas, kanal ne mozes realno oceniti.
 
 ### Brz primer
 
-- prosecna vrednost ugovora: 4.000e,
+- prosečna vrednost ugovora: 4.000e,
 - bruto marza: 60% (2.400e),
-- zeljen profit posle akvizicije: 1.200e,
+- željen profit posle akvizicije: 1.200e,
 - lead -> klijent: 8%.
 
 Grubi maksimalni CPL je oko **96e**.
-Ako je realan CPL 65e-90e i leadovi su kvalifikovani, kampanja moze biti zdrava i skalabilna.
+Ako je realan CPL 65e-90e i leadovi su kvalifikovani, kampanja može biti zdrava i skalabilna.
 
-## Najcesce greske koje vestacki dizu cenu
+## Najčešće greške koje veštački dižu cenu
 
 1. **Jedna kampanja za sve persone.**
 2. **Copy bez jasnog poslovnog ishoda.**
-3. **Slanje saobracaja na genericku homepage stranicu.**
+3. **Slanje saobraćaja na genericku homepage stranicu.**
 4. **Merenje samo broja leadova, bez kvaliteta i pipeline-a.**
 5. **Nema retargetinga za tople posetioce i video view publiku.**
 
-Ako hoces da uporedis kako ovaj trosak izgleda na Search i Meta kanalu, pogledaj i [Google reklame cena](/google-reklame-cena) i [Instagram reklame cena](/instagram-reklame-cena).
+Ako hoćeš da uporedis kako ovaj trošak izgleda na Search i Meta kanalu, pogledaj i [Google reklame cena](/google-reklame-cena) i [Instagram reklame cena](/instagram-reklame-cena).
 
-## Struktura koja najcesce radi za B2B
+## Struktura koja najčešće radi za B2B
 
 ### Faza 1: Test poruke i ICP-a (0-30 dana)
 - uski target po funkciji + senioritetu,
@@ -27321,18 +27314,18 @@ Ako hoces da uporedis kako ovaj trosak izgleda na Search i Meta kanalu, pogledaj
 
 ### Faza 2: Stabilizacija CPL i kvaliteta (30-90 dana)
 - gasenje slabih segmenata,
-- pojacavanje oglasa sa najboljim engagement signalom,
+- pojačavanje oglasa sa najboljim engagement signalom,
 - dorada landing sekcija prema objections iz sales call-ova.
 
 ### Faza 3: Skaliranje pipeline-a (90+ dana)
-- postepeno povecanje budzeta,
+- postepeno povecanje budžeta,
 - ABM segmenti za najvrednije profile,
 - kombinacija inbound + outbound touchpoint-a.
 
-## Zakljucak
+## Zaključak
 
-Za upit **linkedin reklame cena Srbija 2026**, kljuc nije da juris najnizi klik, nego da kontrolises kvalitet leada i realan trosak klijenta kroz ceo B2B funnel.
-Ako hoces, mogu da ti izracunam okviran budzet i CPL granice za tvoj konkretan biznis preko [kontakt forme](/kontakt).
+Za upit **linkedin reklame cena Srbija 2026**, ključ nije da juris najniži klik, nego da kontrolises kvalitet leada i realan trošak klijenta kroz ceo B2B funnel.
+Ako hoćeš, mogu da ti izracunam okviran budžet i CPL granice za tvoj konkretan biznis preko [kontakt forme](/kontakt).
 `,
   }
 ,
@@ -27346,7 +27339,7 @@ Ako hoces, mogu da ti izracunam okviran budzet i CPL granice za tvoj konkretan b
     content: `
 ## Google Ads za auto placeve u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **google ads za auto placeve cena**, realan okvir za srpsko trziste u 2026 najcesce izgleda ovako:
+Ako tražiš upit **google ads za auto placeve cena**, realan okvir za srpsko tržište u 2026 najčešće izgleda ovako:
 
 - **test faza:** 350e-900e/mes,
 - **stabilan priliv kvalitetnih upita:** 900e-2.200e/mes,
@@ -27354,7 +27347,7 @@ Ako trazis upit **google ads za auto placeve cena**, realan okvir za srpsko trzi
 
 Za siri benchmark kanala pogledaj i [Google reklame cena](/google-reklame-cena), a za raspodelu ulaganja po kanalima [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-## Koliko realno kosta lead za auto plac
+## Koliko realno košta lead za auto plac
 
 Posle 4-8 nedelja uredne optimizacije, najcesci rasponi su:
 
@@ -27362,7 +27355,7 @@ Posle 4-8 nedelja uredne optimizacije, najcesci rasponi su:
 - **kvalifikovan upit (poziv, Viber ili forma):** 12e-60e,
 - **dogovorena poseta placu:** 28e-130e.
 
-Raspon je siri jer nije isto da li targetiras:
+Raspon je siri jer nije isto da li targetiraš:
 
 1. gradske modele nizeg cenovnog ranga,
 2. SUV/crossover segment,
@@ -27371,18 +27364,18 @@ Raspon je siri jer nije isto da li targetiras:
 
 Skuplji klik nije problem ako dovodi kupca sa jasnom namerom i realnim budzetom.
 
-## Gde auto placevi najcesce gube budzet
+## Gde auto placevi najčešće gube budžet
 
 ### 1) Jedna kampanja za sve marke i sve modele
 Kada su svi modeli u istoj kampanji, poruka oglasa je preopsirna i quality score pada.
 Bolje radi segmentacija po klasi vozila, cenovnom rangu i intentu (cena, kredit, odmah dostupno, proverena kilometraza).
 
 ### 2) Oglas obecava, landing ne potvrdi
-Klik dodje na genericku stranu bez jasnih informacija o stanju vozila, servisnoj istoriji i nacinu finansiranja.
+Klik dođe na genericku stranu bez jasnih informacija o stanju vozila, servisnoj istoriji i nacinu finansiranja.
 Ako je landing slab, cena lead-a raste iako kampanja ima dobar CTR.
 
 ### 3) Nema filtriranja neozbiljnih upita
-Bez negativnih kljucnih reci kampanja vuce upite tipa:
+Bez negativnih ključnih reci kampanja vuce upite tipa:
 - igrice i simulacije auta,
 - forum diskusije,
 - oglasi za delove,
@@ -27390,22 +27383,22 @@ Bez negativnih kljucnih reci kampanja vuce upite tipa:
 
 ### 4) Spora obrada leadova
 Kod auto placeva brzina odgovora je presudna.
-Ako korisnik ne dobije odgovor u prvih 5-10 minuta, vrlo cesto zove sledeci plac.
+Ako korisnik ne dobije odgovor u prvih 5-10 minuta, vrlo često zove sledeći plac.
 
-## Struktura kampanje koja najcesce radi
+## Struktura kampanje koja najčešće radi
 
 ### 1) Segmentacija po komercijalnoj nameri
 Odvojiti najmanje:
 - kampanje za modele koji se najbrze prodaju,
 - kampanje za finansiranje/lizing,
 - kampanje za hitnu kupovinu ("odmah dostupno"),
-- branded kampanju za naziv placa.
+- branded kampanju za naziv plaća.
 
 ### 2) Search + remarketing za tople kupce
 Search hvata visoku nameru, a remarketing vraca korisnike koji su gledali konkretan model ali nisu poslali upit.
 Remarketing poruke treba da istaknu:
 - stanje i servisnu istoriju,
-- mogucnost provere vozila,
+- mogućnost provere vozila,
 - uslove finansiranja,
 - CTA za brz poziv ili poruku.
 
@@ -27415,27 +27408,27 @@ Za lokalni SEO kontekst pogledaj i [marketing agencija Beograd](/marketing-agenc
 
 ## Landing koji pretvara klik u ozbiljan upit
 
-Ako vec placas klik, landing mora brzo da skine glavne sumnje kupca:
+Ako već plaćaš klik, landing mora brzo da skine glavne sumnje kupca:
 
 1. da li je vozilo stvarno dostupno,
 2. da li postoji jasna istorija i dokumentacija,
 3. koji su uslovi finansiranja,
 4. kako izgleda proces pregleda/probe,
-5. koji je najbrzi sledeci korak (poziv, Viber, forma).
+5. koji je najbrzi sledeći korak (poziv, Viber, forma).
 
-Praktican minimum sekcija:
+Praktičan minimum sekcija:
 - hero sa najtrazenijim modelima i jasnim CTA,
 - trust blok (broj prodatih vozila, recenzije, garancija),
 - sekcija finansiranja,
 - FAQ o kupovini polovnog vozila,
 - klikabilan telefon i forma iznad prevoja.
 
-Ako hoces da dodatno podignes konverziju sajta, pogledaj i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+Ako hoćeš da dodatno podignes konverziju sajta, pogledaj i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
 
 ## KPI koje treba pratiti svake nedelje
 
 Ne meri samo klikove.
-Za auto placeve su kljucni:
+Za auto placeve su ključni:
 
 1. cena kvalifikovanog upita,
 2. procenat upita koji zakazu pregled/probnu voznju,
@@ -27450,14 +27443,14 @@ Tek tada znas da kampanja pravi profit, a ne samo promet.
 - **Nedelja 1:** setup kampanja po segmentima + call/WhatsApp tracking.
 - **Nedelja 2:** ciscenje search terms + negativne reci + dorada oglasa po intentu.
 - **Nedelja 3:** optimizacija landing sekcija (dostupnost, istorija, finansiranje, CTA).
-- **Nedelja 4:** preraspodela budzeta samo na segmente sa najboljim odnosom cena upita / kvalitet.
+- **Nedelja 4:** preraspodela budžeta samo na segmente sa najboljim odnosom cena upita / kvalitet.
 
-Za dodatni benchmark po industrijama pogledaj [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026) i [kako odrediti budzet za Google reklame](/blog/kako-odrediti-budzet-za-google-reklame-srbija-2026).
+Za dodatni benchmark po industrijama pogledaj [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026) i [kako odrediti budžet za Google reklame](/blog/kako-odrediti-budzet-za-google-reklame-srbija-2026).
 
-## Zakljucak
+## Zaključak
 
-Google Ads za auto placeve u Srbiji 2026 moze da donese stabilan priliv ozbiljnih kupaca kada kampanje vodis po modelu, intentu i brzini obrade leadova, ne po najjeftinijem kliku.
-Ako hoces, mogu da oznacim 3 najbrza poteza za nizi trosak kvalifikovanog upita preko [kontakt forme](/kontakt).
+Google Ads za auto placeve u Srbiji 2026 može da donese stabilan priliv ozbiljnih kupaca kada kampanje vodis po modelu, intentu i brzini obrade leadova, ne po najjeftinijem kliku.
+Ako hoćeš, mogu da oznacim 3 najbrza poteza za nizi trošak kvalifikovanog upita preko [kontakt forme](/kontakt).
 `,
   },
 
@@ -29807,142 +29800,142 @@ Za konzultacije o optimizaciji vaseg ROAS-a ili kompletnu analizu kampanja, [kon
     category: 'Marketing',
     readTime: '9 min',
     content: `
-## Koliki open rate i CTR zaista mozete ocekivati od email marketinga
+## Koliki open rate i CTR zaista možete očekivati od email marketinga
 
-Vecina firmi salje emailove i nada se dobrim rezultatima. Ali bez benchmark podataka po industriji, nemaju pojma da li je njihov open rate od 25% odlican, prosecan ili zabrinjavajuc. Odgovor zavisi od toga u kojoj ste industriji, kome pisete i kakav tip email-a saljete.
+Većina firmi šalje emailove i nada se dobrim rezultatima. Ali bez benchmark podataka po industriji, nemaju pojma da li je njihov open rate od 25% odličan, prosečan ili zabrinjavajući. Odgovor zavisi od toga u kojoj ste industriji, kome pišete i kakav tip email-a šaljete.
 
 Za ROI email marketinga pogledajte [email marketing ROI statistika](/blog/koliko-zapravo-zaradjuje-email-marketing-roi-po-industriji-2026). Za automatizaciju email-ova pogledajte [email automatizacija za webshop](/blog/email-automatizacija-za-webshop-srbija-2026).
 
-## Prosecni open rate email kampanja (2025-2026)
+## Prosečni open rate email kampanja (2025-2026)
 
-Prosecni open rate varira zavisno od izvora i metodologije, ali opseg za 2025 je bio:
+Prosečni open rate varira zavisno od izvora i metodologije, ali opseg za 2025. bio je:
 
 - **Ukupan prosek svih industrija:** 39.26% (ActiveCampaign, 2026) / 36-43% (MailerLite, 2025)
-- **Medijana po razlicitim platformama:** 21-25% (Brevo/HubSpot, 2025)
+- **Medijana po različitim platformama:** 21-25% (Brevo/HubSpot, 2025)
 
-Razlika izmedju platformi postoji zato sto neki provajderi (npr. Apple Mail Privacy Protection) automatski beleze "open" i tako infliraju cifre. ActiveCampaign i MailerLite imaju vise malih biznisa sa angazovanim listama, dok HubSpot i Brevo obuhvataju i hladnije B2B liste.
+Razlika između platformi postoji zato što neki provajderi (npr. Apple Mail Privacy Protection) automatski beleže "open" i tako infliraju cifre. ActiveCampaign i MailerLite imaju više malih biznisa sa angažovanim listama, dok HubSpot i Brevo obuhvataju i hladnije B2B liste.
 
-**Kljucna cifra:** Ako vam je open rate iznad 35%, performanse su nadprosecne u vecini industrija. Ispod 20% je signal za ciscenje liste ili reviziju subject line strategije.
+**Ključna cifra:** Ako vam je open rate iznad 35%, performanse su natprosečne u većini industrija. Ispod 20% je signal za čišćenje liste ili reviziju subject line strategije.
 
 ## Open rate po industriji (2025-2026 benchmark)
 
-Podaci iz MailerLite, ActiveCampaign i Brevo izvestaja:
+Podaci iz MailerLite, ActiveCampaign i Brevo izveštaja:
 
 **Top industrije po open rate-u:**
-- **Neprofitne organizacije:** 42-52% — najvisi open rate od svih vertikala. Donatori otvaraju emailove jer imaju emocionalnu vezu sa misijom.
-- **Zdravstvo i fitnes:** 41-49% — pacijenti i clanovi otvaraju jer se tice njihovog zdravlja. Podsetnici za termine imaju open rate i do 65%.
-- **Edukacija (fakulteti, kursevi):** 43-44% — studenti i polaznici otvaraju jer propustanje informacije znaci propustanje roka.
-- **Hobiji i licni interesi:** 53% — hobi zajednice otvaraju jer ZELE sadrzaj (nisu ga dobili jer su negde kupovali).
-- **Turizam i ugostiteljstvo:** 40-45% — sezonske ponude i inspiration emails rade odlicno.
+- **Neprofitne organizacije:** 42-52% — najviši open rate od svih vertikala. Donatori otvaraju emailove jer imaju emocionalnu vezu sa misijom.
+- **Zdravstvo i fitnes:** 41-49% — pacijenti i članovi otvaraju jer se tiče njihovog zdravlja. Podsetnici za termine imaju open rate i do 65%.
+- **Edukacija (fakulteti, kursevi):** 43-44% — studenti i polaznici otvaraju jer propuštanje informacije znači propuštanje roka.
+- **Hobiji i lični interesi:** 53% — hobi zajednice otvaraju jer žele sadržaj (nisu ga dobili jer su negde kupovali).
+- **Turizam i ugostiteljstvo:** 40-45% — sezonske ponude i inspiration emails rade odlično.
 
 **Srednja kategorija:**
 - **B2B usluge i konsalting:** 39-40% — profesionalni kontekst, ljudi skeniraju za vrednost.
-- **Marketing i agencije:** 39% — marketari otvaraju vise jer znaju da se unutra krije konkurentska praksa.
-- **Softver i SaaS:** 38-39% — product update emailovi imaju visi open rate od promotivnih.
-- **Izdavastvo i mediji:** 34-43% — newsletteri sa kvalitetnim sadrzajem imaju lojalne citaoce.
+- **Marketing i agencije:** 39% — marketari otvaraju više jer znaju da se unutra krije konkurentska praksa.
+- **Softver i SaaS:** 38-39% — product update emailovi imaju viši open rate od promotivnih.
+- **Izdavaštvo i mediji:** 34-43% — newsletteri sa kvalitetnim sadržajem imaju lojalne čitaoce.
 
-**Nize od proseka:**
-- **E-commerce i retail:** 18-33% — najveci volumen emailova, korisnici su "naviknuti" i selektivno otvaraju samo kad je popust.
-- **Finansije i osiguranje:** 25-32% — regulatorna obavestenja otvaraju svi, ali promotivni padaju.
+**Niže od proseka:**
+- **E-commerce i retail:** 18-33% — najveći volumen emailova, korisnici su "naviknuti" i selektivno otvaraju samo kad je popust.
+- **Finansije i osiguranje:** 25-32% — regulatorna obaveštenja otvaraju svi, ali promotivni padaju.
 
 Za cene email marketing usluga pogledajte [email marketing cena](/blog/email-marketing-cena-srbija-2026). Za rast email liste pogledajte [email lista za male firme](/blog/email-lista-za-male-firme-srbija-2026).
 
 ## Click-through rate (CTR) po industriji
 
-CTR je strozviji pokazatelj od open rate-a jer zahteva stvarnu akciju. Proseci za 2025-2026:
+CTR je stroži pokazatelj od open rate-a jer zahteva stvarnu akciju. Proseci za 2025-2026:
 
-- **Ukupan prosek:** 1.34-2.62% (vecina studija)
+- **Ukupan prosek:** 1.34-2.62% (većina studija)
 - **ActiveCampaign prosek (2026):** 6.21% — ali meri klik od otvorenih, ne od poslatih
 
-**Najvisi CTR:**
-- **Neprofitne organizacije:** 2.7-2.9% — jasni CTA-ovi (doniraj, potpisi peticiju) koji ne zahtevaju kupovinu.
-- **Blogeri i autori:** 2.75% — citaoci kliknu na novi clanak jer se isplati procitati.
-- **Konsalting:** 2.41% — B2B korisnici kliknu jer traze konkretna resenja za svoj problem.
-- **Turizam:** 2.43% — slike destinacija + last-minute ponude pokrecu klik.
+**Najviši CTR:**
+- **Neprofitne organizacije:** 2.7-2.9% — jasni CTA-ovi (doniraj, potpiši peticiju) koji ne zahtevaju kupovinu.
+- **Blogeri i autori:** 2.75% — čitaoci kliknu na novi članak jer se isplati pročitati.
+- **Konsalting:** 2.41% — B2B korisnici kliknu jer traže konkretna rešenja za svoj problem.
+- **Turizam:** 2.43% — slike destinacija + last-minute ponude pokreću klik.
 
-**Prosecan CTR:**
-- **B2B usluge:** 2.21% — link ka studiji slucaja ili webinaru.
+**Prosečan CTR:**
+- **B2B usluge:** 2.21% — link ka studiji slučaja ili webinaru.
 - **Zdravstvo:** 1.45% — pacijenti kliknu samo kad je relevantno za njihov konkretan problem.
 - **Softver:** 1.15% — korisnici kliknu na release notes ili feature announcemente.
 
-**Najnizi CTR:**
-- **E-commerce:** 0.8-1.07% — paradoks visokog volumena. Saljete 5 email-ova nedeljno, CTR pada sa svakim sledecim.
+**Najniži CTR:**
+- **E-commerce:** 0.8-1.07% — paradoks visokog volumena. Šaljete 5 email-ova nedeljno, CTR pada sa svakim sledećim.
 
 Za optimizaciju konverzija na sajtu pogledajte [stopu konverzije po industriji](/blog/prosecna-stopa-konverzije-po-industriji-benchmark-statistika-2026). Za cene Google reklama pogledajte [Google reklame cena](/google-reklame-cena).
 
 ## Bounce rate i unsubscribe rate: zdravlje email liste
 
-Dva metrika koja ukazuju na kvalitet liste:
+Dve metrike koje ukazuju na kvalitet liste:
 
 **Bounce rate benchmark (2025):**
-- **Prosecan bounce rate svih industrija:** 0.5-1.0%
-- **E-commerce:** 0.19-0.62% — ciscene, aktivne liste
+- **Prosečan bounce rate svih industrija:** 0.5-1.0%
+- **E-commerce:** 0.19-0.62% — čišćene, aktivne liste
 - **Lepota i nega:** 0.26-0.42%
-- **Konsalting i agencije:** 0.79-0.93% — visa stopa jer se poslovni emailovi cesce menjaju
-- **Gradjevinarstvo:** 1.04-1.28% — najvise bounceova jer zaposleni cesce menjaju firme
+- **Konsalting i agencije:** 0.79-0.93% — viša stopa jer se poslovni emailovi češće menjaju
+- **Građevinarstvo:** 1.04-1.28% — najviše bounceova jer zaposleni češće menjaju firme
 
-**Crvena linija:** Bounce rate iznad 2% znaci da imate problem sa listom. Vecina ESP-ova (Mailchimp, ActiveCampaign) ce suspendovati nalog ako bounce rate predje 5%.
+**Crvena linija:** Bounce rate iznad 2% znači da imate problem sa listom. Većina ESP-ova (Mailchimp, ActiveCampaign) će suspendovati nalog ako bounce rate pređe 5%.
 
 **Unsubscribe rate benchmark (2025):**
-- **Prosecan za sve industrije:** 0.14-0.25%
-- **Edukacija:** 0.02% — najmanje odjava jer je sadrzaj direktno koristan
-- **Marketing i agencije:** 0.01% — profesionalci znaju da ce im trebati te informacije
-- **Foto i video:** 0.40% — kreativci cesce "cististe" inbox
-- **Restorani i kafici:** 0.39% — korisnici se prijave za popust i odjave posle koriscenja
+- **Prosečan za sve industrije:** 0.14-0.25%
+- **Edukacija:** 0.02% — najmanje odjava jer je sadržaj direktno koristan
+- **Marketing i agencije:** 0.01% — profesionalci znaju da će im trebati te informacije
+- **Foto i video:** 0.40% — kreativci češće čiste inbox
+- **Restorani i kafići:** 0.39% — korisnici se prijave za popust i odjave posle korišćenja
 
-**Pravilo:** Unsubscribe rate ispod 0.2% je zdrav. Iznad 0.5% znaci da saljete presto ili nebitno.
+**Pravilo:** Unsubscribe rate ispod 0.2% je zdrav. Iznad 0.5% znači da šaljete prečesto ili nebitno.
 
-## Email marketing ROI: zasto je kanal i dalje broj 1
+## Email marketing ROI: zašto je kanal i dalje broj 1
 
-Pored svih metrika, ROI je ono sto na kraju odredjuje da li email marketing opravdava investiciju:
+Pored svih metrika, ROI je ono što na kraju određuje da li email marketing opravdava investiciju:
 
-- **Prosecan ROI:** 36-42 USD za svaki 1 USD ulozen (DMA/Litmus, 2025)
-- **E-commerce i retail:** do 45 USD po ulozenom dolaru
-- **Personalizovani emailovi:** 6x vise transakcija i do 122% bolji ROI
-- **Automatizovane kampanje:** 320% vise prihoda od manuelnih
-- **Segmentirane kampanje:** 760% vise prihoda od nesegmentiranih
+- **Prosečan ROI:** 36-42 USD za svaki 1 USD uložen (DMA/Litmus, 2025)
+- **E-commerce i retail:** do 45 USD po uloženom dolaru
+- **Personalizovani emailovi:** 6x više transakcija i do 122% bolji ROI
+- **Automatizovane kampanje:** 320% više prihoda od manuelnih
+- **Segmentirane kampanje:** 760% više prihoda od nesegmentiranih
 
-**Poredjenje sa drugim kanalima:**
-- Email: 36-42 USD po ulozenom dolaru
-- SEO: 22 USD po ulozenom dolaru
-- Google Ads: 2-8 USD po ulozenom dolaru (zavisno od industrije)
-- Social media: 2.80 USD po ulozenom dolaru
+**Poređenje sa drugim kanalima:**
+- Email: 36-42 USD po uloženom dolaru
+- SEO: 22 USD po uloženom dolaru
+- Google Ads: 2-8 USD po uloženom dolaru (zavisno od industrije)
+- Social media: 2.80 USD po uloženom dolaru
 
-Za kompletnu analizu marketing troskova pogledajte [koliko firme trose na marketing](/blog/koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026). Za CPA benchmark pogledajte [koliko kosta novi klijent](/blog/koliko-kosta-novi-klijent-cpa-po-industriji-google-facebook-2026).
+Za kompletnu analizu marketing troškova pogledajte [koliko firme trose na marketing](/blog/koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026). Za CPA benchmark pogledajte [koliko kosta novi klijent](/blog/koliko-kosta-novi-klijent-cpa-po-industriji-google-facebook-2026).
 
-## Sta zapravo poboljsava open rate i CTR
+## Šta zapravo poboljšava open rate i CTR
 
-Iz istrazivanja za 2025-2026, ovo su konkretni faktori:
+Iz istraživanja za 2025-2026, ovo su konkretni faktori:
 
-**Za visi open rate:**
+**Za viši open rate:**
 - **Personalizacija subject line-a:** +26% open rate kad je ime primaoca ili firma u naslovu
-- **Send time optimizacija:** Utorak i cetvrtak, 10:00-11:00 lokalno vreme donose 15-20% vise otvaranja
-- **Preheader tekst:** Email sa custom preheader-om ima 7% visi open rate od onog sa default tekstom
-- **Mobile optimizacija:** 61% emailova se otvara na mobilnom — neresponzivan email se brise za 3 sekunde
+- **Send time optimizacija:** Utorak i četvrtak, 10:00-11:00 lokalno vreme donose 15-20% više otvaranja
+- **Preheader tekst:** Email sa custom preheader-om ima 7% viši open rate od onog sa default tekstom
+- **Mobile optimizacija:** 61% emailova se otvara na mobilnom — neresponzivan email se briše za 3 sekunde
 
-**Za visi CTR:**
-- **Jedan jasan CTA:** Emailovi sa jednim CTA dugmetom imaju 371% vise klikova od onih sa vise linkova
-- **Interaktivni elementi:** AMP emailovi i ankete povisuju CTR za 73%
-- **Segmentacija:** Ciljani emailovi imaju 100.95% visi CTR od blast emailova
+**Za viši CTR:**
+- **Jedan jasan CTA:** Emailovi sa jednim CTA dugmetom imaju 371% više klikova od onih sa više linkova
+- **Interaktivni elementi:** AMP emailovi i ankete povišuju CTR za 73%
+- **Segmentacija:** Ciljani emailovi imaju 100.95% viši CTR od blast emailova
 - **A/B testiranje:** Firme koje redovno testiraju imaju 83% bolji ukupan email ROI
 
-Za landing stranicu na koju salju email klikovi pogledajte [5 gresaka na landing stranicama](/blog/5-gresaka-landing-stranice-konverzije). Za cene digitalnog marketinga pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Za landing stranicu na koju šalju email klikovi pogledajte [5 gresaka na landing stranicama](/blog/5-gresaka-landing-stranice-konverzije). Za cene digitalnog marketinga pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
 ## Kako interpretirati benchmark za svoju firmu
 
-Benchmark je startna tacka, ne konacna presuda. Evo kako ga koristiti:
+Benchmark je startna tačka, ne konačna presuda. Evo kako ga koristiti:
 
 **1. Uporedite sa svojom industrijom, ne sa ukupnim prosekom.** E-commerce firma sa open rate-om od 25% je iznad industrijskog proseka (18-25%), iako je ispod ukupnog proseka (39%).
 
 **2. Pratite trendove, ne apsolutne brojeve.** Ako vam je open rate pao sa 30% na 22% za 3 meseca, to je problem bez obzira na benchmark.
 
-**3. Razlikujte tipove emailova.** Transakcioni emailovi (potvrde narudzbi, resetovanje lozinke) imaju open rate 80-90%. Marketinski newsletter 20-40%. Uporedjivati ih nema smisla.
+**3. Razlikujte tipove emailova.** Transakcioni emailovi (potvrde narudžbi, resetovanje lozinke) imaju open rate 80-90%. Marketinški newsletter 20-40%. Upoređivati ih nema smisla.
 
-**4. Cistite listu redovno.** Email adrasa koja se nije otvorila 6+ meseci rusci vam prosek i deliverability. Izbacite je ili pokrenite re-engagement kampanju.
+**4. Čistite listu redovno.** Email adresa koja se nije otvorila 6+ meseci ruši vam prosek i deliverability. Izbacite je ili pokrenite re-engagement kampanju.
 
-**5. Gledajte prihod po email-u, ne samo CTR.** CTR od 1% koji generise 50 EUR po poslatom emailu je bolji od CTR-a od 3% koji generise 5 EUR.
+**5. Gledajte prihod po email-u, ne samo CTR.** CTR od 1% koji generiše 50 EUR po poslatom emailu je bolji od CTR-a od 3% koji generiše 5 EUR.
 
-Za pomoc oko email marketing strategije, automatizacije ili optimizacije kampanja, [kontaktirajte nas](/kontakt).
+Za pomoć oko email marketing strategije, automatizacije ili optimizacije kampanja, [kontaktirajte nas](/kontakt).
 
 ---
 
@@ -29958,158 +29951,158 @@ Za pomoc oko email marketing strategije, automatizacije ili optimizacije kampanj
     category: 'CRO',
     readTime: '9 min',
     content: `
-## Zasto je bounce rate i dalje jedan od najvaznijih signala
+## Zašto je bounce rate i dalje jedan od najvažnijih signala
 
-Bounce rate pokazuje procenat posetilaca koji napuste sajt nakon samo jedne stranice. Visok bounce rate znaci da nesto nije u redu: sadrzaj ne odgovara ocekivanjima, sajt se sporo ucitava, ili korisnicko iskustvo odbija ljude pre nego sto uopste pocnu da istrazuju.
+Bounce rate pokazuje procenat posetilaca koji napuste sajt nakon samo jedne stranice. Visok bounce rate znači da nešto nije u redu: sadržaj ne odgovara očekivanjima, sajt se sporo učitava ili korisničko iskustvo odbija ljude pre nego što uopšte počnu da istražuju.
 
-Google Analytics 4 je promenio definiciju: bounce rate je sada **procenat sesija koje NISU engaged**. Sesija se smatra engaged ako traje duze od 10 sekundi, ima konverziju ili ukljucuje 2+ pregledane stranice. To znaci da GA4 bounce rate daje realniju sliku od starog Universal Analytics.
+Google Analytics 4 je promenio definiciju: bounce rate je sada **procenat sesija koje NISU engaged**. Sesija se smatra engaged ako traje duže od 10 sekundi, ima konverziju ili uključuje 2+ pregledane stranice. To znači da GA4 bounce rate daje realniju sliku od starog Universal Analytics.
 
 Za razumevanje konverzija po industriji pogledajte [benchmark konverzija](/blog/prosecna-stopa-konverzije-po-industriji-benchmark-statistika-2026). Za uticaj brzine sajta na bounce rate pogledajte [analizu brzine i rangiranja](/blog/kako-brzina-sajta-utice-na-rangiranje-na-googlu-2026).
 
-## Prosecan bounce rate po industriji
+## Prosečan bounce rate po industriji
 
 Podaci iz Contentsquare, Siege Media, CXL i Oberlo studija (2024-2025):
 
-- **Odeca i obuca (e-commerce):** 28-36% (najnizi bounce rate jer posetioci aktivno kupuju)
-- **E-commerce i marketplace:** 33-39% (korisnici pregledaju vise proizvoda)
-- **Hrana i pijade:** 38-39%
+- **Odeća i obuća (e-commerce):** 28-36% (najniži bounce rate jer posetioci aktivno kupuju)
+- **E-commerce i marketplace:** 33-39% (korisnici pregledaju više proizvoda)
+- **Hrana i piće:** 38-39%
 - **Zdravlje i wellness:** 39-41%
 - **Automobilska industrija:** 40-42%
 - **Nekretnine:** 41-55% (zavisi od tipa stranice, listing 42%, detalji nekretnine 55%)
 - **Proizvodnja:** 41-43%
-- **Gradjevinarstvo:** 45-48%
+- **Građevinarstvo:** 45-48%
 - **Finansije i osiguranje:** 47-52%
-- **B2B (opste):** 45-65% (siroki raspon jer zavisi od tipa sadrzaja)
+- **B2B (opšte):** 45-65% (široki raspon jer zavisi od tipa sadržaja)
 - **Sport:** 51%
 - **Obrazovanje:** 46-49%
-- **Blogovi i mediji:** 65-90% (ocekivano visoko jer korisnici citaju jedan clanak i odlaze)
+- **Blogovi i mediji:** 65-90% (očekivano visoko jer korisnici čitaju jedan članak i odlaze)
 - **Landing stranice:** 60-90% (fokus na jednu akciju pa visok bounce je normalan)
 
 **Medijana svih industrija (sep 2024):** 44.04%
 
-**Opste pravilo:** Ispod 40% je odlicno, 40-60% je normalno za vecinu industrija, preko 60% zahteva analizu (osim za blogove i landing stranice).
+**Opšte pravilo:** Ispod 40% je odlično, 40-60% je normalno za većinu industrija, preko 60% zahteva analizu (osim za blogove i landing stranice).
 
-## Bounce rate po uredjaju: mobilni vs desktop vs tablet
+## Bounce rate po uređaju: mobilni vs desktop vs tablet
 
-Mobilni korisnici konzistentno imaju visi bounce rate od desktop korisnika:
+Mobilni korisnici konzistentno imaju viši bounce rate od desktop korisnika:
 
-- **Desktop:** 42-50% prosecan bounce rate
-- **Tablet:** oko 45% (izmedju mobilnog i desktopa)
-- **Mobilni:** 51-60% prosecan bounce rate
+- **Desktop:** 42-50% prosečan bounce rate
+- **Tablet:** oko 45% (između mobilnog i desktopa)
+- **Mobilni:** 51-60% prosečan bounce rate
 
-**Razlika mobilni vs desktop: 8-15 procentnih poena.** To znaci da sajt koji na desktopu ima 40% bounce rate na mobilnom verovatno ima 50-55%.
+**Razlika mobilni vs desktop: 8-15 procentnih poena.** To znači da sajt koji na desktopu ima 40% bounce rate na mobilnom verovatno ima 50-55%.
 
-Razlozi za visi mobilni bounce rate:
-- Korisnici donose brze odluke (manji ekran = manje strpljenja)
-- Multitasking i prekidi su cesti na telefonu
-- Los responsive dizajn gubi korisnike u prvim sekundama
-- Sporo ucitavanje na mobilnoj mrezi (3G/4G vs WiFi)
+Razlozi za viši mobilni bounce rate:
+- Korisnici donose brže odluke (manji ekran = manje strpljenja)
+- Multitasking i prekidi su česti na telefonu
+- Loš responsive dizajn gubi korisnike u prvim sekundama
+- Sporo učitavanje na mobilnoj mreži (3G/4G vs WiFi)
 
 Za detaljnu analizu mobilnih vs desktop konverzija pogledajte [mobilna vs desktop statistiku](/blog/mobilna-vs-desktop-kupovina-konverzije-statistika-2026).
 
-## Bounce rate po izvoru saobracaja
+## Bounce rate po izvoru saobraćaja
 
-Odakle dolazi posetilac direktno utice na bounce rate:
+Odakle dolazi posetilac direktno utiče na bounce rate:
 
-### Referral saobracaj: 37.5% (najnizi)
-Posetioci koji dolaze sa relevantnog sajta vec imaju kontekst i interes. Kvalitetni backlink-ovi ne donose samo SEO vrednost vec i angazovane posetioce.
+### Referral saobraćaj: 37.5% (najniži)
+Posetioci koji dolaze sa relevantnog sajta već imaju kontekst i interes. Kvalitetni backlink-ovi ne donose samo SEO vrednost već i angažovane posetioce.
 
-### Organski (Google) saobracaj: 43-44%
-Posetioci iz pretrage imaju specificnu nameru. Ako sadrzaj odgovara njihovom upitu, ostaju. Ako ne odgovara, odlaze za 3 sekunde. Kljucno je da meta title i description tacno opisuju ono sto je na stranici.
+### Organski (Google) saobraćaj: 43-44%
+Posetioci iz pretrage imaju specifičnu nameru. Ako sadržaj odgovara njihovom upitu, ostaju. Ako ne odgovara, odlaze za 3 sekunde. Ključno je da meta title i description tačno opisuju ono što je na stranici.
 
-### Direktni saobracaj: 49-50%
-Ljudi koji ukucaju URL ili koriste bookmark. Imaju nameru, ali bounce moze biti visok ako traze specificnu informaciju i nadju je brzo.
+### Direktni saobraćaj: 49-50%
+Ljudi koji ukucaju URL ili koriste bookmark. Imaju nameru, ali bounce može biti visok ako traže specifičnu informaciju i nađu je brzo.
 
 ### Paid search (Google Ads): 44%
-Slicno organskom, ali zavisi od kvaliteta landing stranice i poklapanja sa oglasom. Ako oglas obecava jedno a stranica isporucuje drugo, bounce rate skace.
+Slično organskom, ali zavisi od kvaliteta landing stranice i poklapanja sa oglasom. Ako oglas obećava jedno, a stranica isporučuje drugo, bounce rate skače.
 
 ### Display oglasi: 56-57%
-Najveci bounce od placenih izvora. Korisnici nisu trazili vas proizvod, prikazan im je oglas dok su radili nesto drugo. Ocekivano visok bounce.
+Najveći bounce od plaćenih izvora. Korisnici nisu tražili vaš proizvod, prikazan im je oglas dok su radili nešto drugo. Očekivano visok bounce.
 
-### Social media saobracaj: 54-68%
-Najvisi bounce rate od svih izvora. Po platformi:
-- **Pinterest:** 47% (najnizi jer korisnici aktivno traze inspiraciju)
-- **LinkedIn:** 52% (profesionalni kontekst, posetioci cesto citaju i odlaze)
-- **Instagram:** 64% (brzo skrolovanje, kratka paznja)
-- **Facebook:** 71% (najveci bounce jer korisnici ne zele da napuste feed)
+### Social media saobraćaj: 54-68%
+Najviši bounce rate od svih izvora. Po platformi:
+- **Pinterest:** 47% (najniži jer korisnici aktivno traže inspiraciju)
+- **LinkedIn:** 52% (profesionalni kontekst, posetioci često čitaju i odlaze)
+- **Instagram:** 64% (brzo skrolovanje, kratka pažnja)
+- **Facebook:** 71% (najveći bounce jer korisnici ne žele da napuste feed)
 
 Za razumevanje engagement rate-a po platformi pogledajte [engagement rate benchmark](/blog/engagement-rate-po-platformi-instagram-tiktok-linkedin-2026).
 
 ## GA4 engagement rate po industriji
 
-GA4 engagement rate je OBRNUTI bounce rate. Sto je visi engagement rate, nizi je bounce:
+GA4 engagement rate je OBRNUTI bounce rate. Što je viši engagement rate, niži je bounce:
 
 - **Automobilska:** 61.5%
 - **E-commerce:** 60.7%
-- **Odeca i obuca:** 60.0%
+- **Odeća i obuća:** 60.0%
 - **B2B SaaS:** 61%
 - **Hrana:** 55.5%
-- **Gradjevinarstvo:** 55.1%
+- **Građevinarstvo:** 55.1%
 - **Obrazovanje:** 53.8%
 - **Konsalting:** 53.0%
 
 **Medijana engagement rate-a (sep 2024): 56.2%**
 
-Ako je engagement rate vaseg sajta ispod 50%, imate ozbiljan problem sa korisnickim iskustvom ili relevantnoscu sadrzaja.
+Ako je engagement rate vašeg sajta ispod 50%, imate ozbiljan problem sa korisničkim iskustvom ili relevantnošću sadržaja.
 
-## Veza izmedju brzine sajta i bounce rate-a
+## Veza između brzine sajta i bounce rate-a
 
-Brzina ucitavanja je najdirektniji faktor koji mozete kontrolisati:
+Brzina učitavanja je najdirektniji faktor koji možete kontrolisati:
 
-- **1 sekunda ucitavanja:** ~7% bounce rate (odlicno)
-- **3 sekunde:** ~32% verovatnoca napustanja
+- **1 sekunda učitavanja:** ~7% bounce rate (odlično)
+- **3 sekunde:** ~32% verovatnoća napuštanja
 - **5 sekundi:** ~90% korisnika odustaje na mobilnom
 - **Svaka dodatna sekunda** posle 3. dodaje otprilike 10% bounce rate-a
 
-**Prakticno:** Ako vas sajt prelazi 3 sekunde ucitavanja, to je prvi problem za resiti, pre bilo kakve optimizacije sadrzaja.
+**Praktično:** Ako vaš sajt prelazi 3 sekunde učitavanja, to je prvi problem za rešiti, pre bilo kakve optimizacije sadržaja.
 
 Za konkretan uticaj brzine na konverzije i rangiranje pogledajte [brzina sajta analizu](/blog/kako-brzina-sajta-utice-na-rangiranje-na-googlu-2026).
 
-## Kako tumaciti bounce rate: kada visok NIJE los
+## Kako tumačiti bounce rate: kada visok NIJE loš
 
-Visok bounce rate ne znaci uvek problem. Kontekst je bitan:
+Visok bounce rate ne znači uvek problem. Kontekst je bitan:
 
 **Kada je visok bounce OK:**
-- Blog clanak gde citaoci nadju odgovor i odu zadovoljni (vreme na stranici > 2 min)
-- Kontakt stranica gde posetilac nadje broj telefona i pozove
-- FAQ gde korisnik resava problem i zatvara tab
+- Blog članak gde čitaoci nađu odgovor i odu zadovoljni (vreme na stranici > 2 min)
+- Kontakt stranica gde posetilac nađe broj telefona i pozove
+- FAQ gde korisnik rešava problem i zatvara tab
 - Landing stranica sa jednom konverzionom akcijom (popuna forme)
 
 **Kada je visok bounce ALARM:**
-- Homepage (preko 50% znaci los first impression)
+- Homepage (preko 50% znači loš first impression)
 - Stranice proizvoda (posetioci ne dodaju u korpu)
-- Pricing stranica (ljudi odlaze pre nego sto vide cenu)
+- Pricing stranica (ljudi odlaze pre nego što vide cenu)
 - Post-click landing iz Google Ads (bacate novac na klik bez konverzije)
 
-## 8 nacina da smanjite bounce rate
+## 8 načina da smanjite bounce rate
 
 ### 1. Ubrzajte sajt ispod 3 sekunde
-Kompresujte slike, koristite CDN, minimizirajte CSS/JS. Svaka sekunda manje = 7-10% nizi bounce.
+Kompresujte slike, koristite CDN, minimizirajte CSS/JS. Svaka sekunda manje = 7-10% niži bounce.
 
 ### 2. Napravite da above-the-fold deo odmah komunicira vrednost
-Posetilac za 3 sekunde odlucuje da li ostaje. Naslov, podnaslov i vizual moraju da kazu "na pravom si mestu".
+Posetilac za 3 sekunde odlučuje da li ostaje. Naslov, podnaslov i vizual moraju da kažu "na pravom si mestu".
 
-### 3. Poboljsajte internal linking
-Linkovi ka relevantnom sadrzaju drze posetioce na sajtu. Minimum 3-5 internih linkova po stranici. Za CRO strategiju pogledajte [optimizaciju konverzije](/blog/optimizacija-konverzije-sajta-cro-srbija-2026).
+### 3. Poboljšajte internal linking
+Linkovi ka relevantnom sadržaju drže posetioce na sajtu. Minimum 3-5 internih linkova po stranici. Za CRO strategiju pogledajte [optimizaciju konverzije](/blog/optimizacija-konverzije-sajta-cro-srbija-2026).
 
 ### 4. Optimizujte za mobilne korisnike
-Responsive dizajn nije opcija. Testirajte na stvarnim uredjajima, ne samo u browser DevTools.
+Responsive dizajn nije opcija. Testirajte na stvarnim uređajima, ne samo u browser DevTools.
 
-### 5. Uskladite meta opise sa sadrzajem
-Ako meta description obecava "10 saveta" a stranica ima listu od 5, posetioci ce otici. Poklapanje ocekivanja = nizi bounce.
+### 5. Uskladite meta opise sa sadržajem
+Ako meta description obećava "10 saveta", a stranica ima listu od 5, posetioci će otići. Poklapanje očekivanja = niži bounce.
 
 ### 6. Dodajte interaktivne elemente
-Kalkulatori, kvizovi, ankete drze korisnike angazovanim duze. GA4 meri engaged sesije (10+ sekundi), pa cak i mali interaktivni element moze smanjiti bounce rate.
+Kalkulatori, kvizovi i ankete drže korisnike angažovanim duže. GA4 meri engaged sesije (10+ sekundi), pa čak i mali interaktivni element može smanjiti bounce rate.
 
 ### 7. Koristite social proof vidljivo
 Recenzije, sertifikati i brojevi klijenata na vidljivom mestu grade poverenje u prvih 5 sekundi. Za podatke o uticaju recenzija pogledajte [statistiku online recenzija](/blog/uticaj-online-recenzija-na-prodaju-statistika-2026).
 
-### 8. Testirajte razlicite varijante (A/B)
-Headline, hero sekcija, CTA boja i pozicija. Male promene donose 5-15% poboljsanja bounce rate-a. Za vise o testiranju pogledajte [landing page optimizaciju](/blog/landing-page-optimizacija-konverzije-srbija-2026).
+### 8. Testirajte različite varijante (A/B)
+Headline, hero sekcija, CTA boja i pozicija. Male promene donose 5-15% poboljšanja bounce rate-a. Za više o testiranju pogledajte [landing page optimizaciju](/blog/landing-page-optimizacija-konverzije-srbija-2026).
 
-## Zakljucak: gde je vas sajt u poredjenju sa benchmarkom
+## Zaključak: gde je vaš sajt u poređenju sa benchmarkom
 
-| Metrika | Dobro | Prosecno | Lose |
+| Metrika | Dobro | Prosečno | Loše |
 |---------|-------|----------|------|
 | Bounce rate (ukupno) | <40% | 40-60% | >60% |
 | Mobile bounce | <50% | 50-55% | >60% |
@@ -30118,7 +30111,7 @@ Headline, hero sekcija, CTA boja i pozicija. Male promene donose 5-15% poboljsan
 | Organski bounce | <40% | 40-50% | >55% |
 | Social bounce | <55% | 55-65% | >70% |
 
-Ako vam je bounce rate iznad proseka za vasu industriju, pocnite od brzine sajta i mobile optimizacije jer tu su najbrzi rezultati.
+Ako vam je bounce rate iznad proseka za vašu industriju, počnite od brzine sajta i mobile optimizacije jer tu su najbrži rezultati.
 
 Za kompletnu analizu sajta i konkretne preporuke za smanjenje bounce rate-a, [kontaktirajte nas](/kontakt).
 
@@ -30127,6 +30120,7 @@ Za kompletnu analizu sajta i konkretne preporuke za smanjenje bounce rate-a, [ko
 *Izvori: Contentsquare Digital Experience Benchmarks 2024, Siege Media Bounce Rate Study 2025, CXL Bounce Rate Benchmarks, Oberlo Average Bounce Rate by Industry, Plausible Analytics Bounce Rate Guide, Causal Funnel Industry Benchmarks 2025, Digital Web Solutions Bounce Rate Analysis.*
 `,
   },
+
   {
     slug: 'customer-lifetime-value-clv-po-industriji-benchmark-statistika-2026',
     title: 'Customer Lifetime Value (CLV) po industriji: benchmark podaci i statistika za 2025-2026',
@@ -31546,13 +31540,13 @@ Za pomoc oko pokretanja ili optimizacije vasih YouTube kampanja, [kontaktirajte 
     category: 'Marketing',
     readTime: '12 min',
     content: `
-## TikTok je najbrze rastuca reklamna platforma — i jos uvek najjeftinija po kliku
+## TikTok je najbrže rastuća reklamna platforma — i još uvek najjeftinija po kliku
 
-Sa **1.92 milijarde mesecno aktivnih korisnika** i prosecnim CPC-om od **$0.50** (medijan), TikTok nudi najnizi ulaz u placeno oglasavanje od svih velikih platformi. CPC je **30% nizi od Meta Ads** i do **10x nizi od Google Search**. Ali nize cene ne znace automatski bolji ROI — sve zavisi od kreative, industrije i cilja kampanje.
+Sa **1.92 milijarde mesečno aktivnih korisnika** i prosečnim CPC-om od **$0.50** (medijan), TikTok nudi najniži ulaz u plaćeno oglašavanje od svih velikih platformi. CPC je **30% niži od Meta Ads** i do **10x niži od Google Searcha**. Ali niže cene ne znače automatski bolji ROI — sve zavisi od kreative, industrije i cilja kampanje.
 
-Za poredjenje sa drugim platformama pogledajte [Facebook Ads benchmark po industriji](/blog/facebook-ads-cpc-ctr-konverzija-cpl-po-industriji-benchmark-2026), [Google Ads benchmark po industriji](/blog/google-ads-cpc-ctr-konverzija-po-industriji-benchmark-2026), [LinkedIn Ads benchmark po industriji](/blog/linkedin-ads-cpc-ctr-konverzija-cpl-po-industriji-benchmark-2026) i [YouTube Ads benchmark po industriji](/blog/youtube-ads-cpv-ctr-view-rate-konverzija-po-industriji-benchmark-2026).
+Za poređenje sa drugim platformama pogledajte [Facebook Ads benchmark po industriji](/blog/facebook-ads-cpc-ctr-konverzija-cpl-po-industriji-benchmark-2026), [Google Ads benchmark po industriji](/blog/google-ads-cpc-ctr-konverzija-po-industriji-benchmark-2026), [LinkedIn Ads benchmark po industriji](/blog/linkedin-ads-cpc-ctr-konverzija-cpl-po-industriji-benchmark-2026) i [YouTube Ads benchmark po industriji](/blog/youtube-ads-cpv-ctr-view-rate-konverzija-po-industriji-benchmark-2026).
 
-## Prosecni CPC, CTR, konverzija i CPM na TikToku (2025)
+## Prosečni CPC, CTR, konverzija i CPM na TikToku (2025)
 
 | Metrika | Prosek | Raspon |
 |---------|--------|--------|
@@ -31562,67 +31556,67 @@ Za poredjenje sa drugim platformama pogledajte [Facebook Ads benchmark po indust
 | Konverzija (TikTok Shop) | 2% - 5% | LIVE shopping do 12% |
 | CPM (cost per 1.000 prikaza) | $6.16 | $3.00 - $15.00 |
 | ROAS (prosek) | 1.7x | do 3.5x (lepota), 11x (optimizovane) |
-| Minimalni budzet (kampanja) | $500 ukupno | $50/dan kampanja, $20/dan ad group |
+| Minimalni budžet (kampanja) | $500 ukupno | $50/dan kampanja, $20/dan ad group |
 
-TikTok algoritam nagradjuje **autentičan, native sadrzaj** — reklame koje izgledaju kao organski TikTok video dobijaju nize CPM-ove i visi engagement. "Make TikToks, not ads" nije samo slogan, vec bukvalan savet za optimizaciju troskova.
+TikTok algoritam nagrađuje **autentičan, native sadržaj** — reklame koje izgledaju kao organski TikTok video dobijaju niže CPM-ove i viši engagement. "Make TikToks, not ads" nije samo slogan, već bukvalan savet za optimizaciju troškova.
 
 ## CPC po industriji
 
-| Industrija | Prosecni CPC | Napomena |
+| Industrija | Prosečni CPC | Napomena |
 |-----------|-------------|----------|
 | E-commerce | $0.40 - $0.80 | Najjeftiniji klik — vizuelni proizvodi dominiraju |
-| Lepota i licna nega | $0.50 - $0.90 | TikTok je #1 platforma za beauty brendove |
-| Hrana i pice | $0.60 - $1.20 | Food content je organsko zlato na TikToku |
-| Turizam i putovanja | $0.80 - $1.50 | Raste brzo, vizuelno privlacan sadrzaj |
-| Retail (opsti) | $0.90 - $1.95 | Siri spektar, zavisi od proizvoda |
-| Tehnologija i gadgeti | $1.00 - $2.50 | Visi CPC jer je publika manja i specificnija |
+| Lepota i lična nega | $0.50 - $0.90 | TikTok je #1 platforma za beauty brendove |
+| Hrana i piće | $0.60 - $1.20 | Food content je organsko zlato na TikToku |
+| Turizam i putovanja | $0.80 - $1.50 | Raste brzo, vizuelno privlačan sadržaj |
+| Retail (opšti) | $0.90 - $1.95 | Širi spektar, zavisi od proizvoda |
+| Tehnologija i gadgeti | $1.00 - $2.50 | Viši CPC jer je publika manja i specifičnija |
 | Finansije i osiguranje | $1.50 - $3.20 | Najskuplji CPC — regulativa i konkurencija |
 | SaaS i B2B | $1.00 - $2.50 | TikTok nije prirodan B2B kanal, ali raste |
 
-### Kljucna razlika od drugih platformi
+### Ključna razlika od drugih platformi
 
-Na Facebooku i Google-u, CPC po industriji odrazava **intent i konkurenciju za kljucne reci**. Na TikToku, CPC vise zavisi od **kvaliteta kreative i engagementa** nego od industrije. Sjajan kreativ u skupoj industriji moze dobiti CPC ispod $0.50, dok losa reklama u jeftinoj nisi moze kostati $2+.
+Na Facebooku i Google-u, CPC po industriji odražava **intent i konkurenciju za ključne reči**. Na TikToku, CPC više zavisi od **kvaliteta kreative i engagementa** nego od industrije. Sjajan kreativ u skupoj industriji može dobiti CPC ispod $0.50, dok loša reklama u jeftinoj niši može koštati $2+.
 
 ## CTR po industriji
 
-| Industrija | Prosecni CTR |
+| Industrija | Prosečni CTR |
 |-----------|-------------|
 | Lepota i kozmetika | 1.0% - 1.5% |
 | E-commerce | 0.9% - 1.2% |
-| Hrana i pice | ~0.42% |
+| Hrana i piće | ~0.42% |
 | Turizam i putovanja | ~0.40% |
-| Retail (opsti) | ~0.46% |
+| Retail (opšti) | ~0.46% |
 | Tehnologija i gadgeti | ~0.38% |
 | Finansije i osiguranje | ~0.40% |
 
-Lepota i e-commerce imaju ubedljivo najvisi CTR jer su to kategorije gde TikTok korisnici **aktivno traze inspiraciju za kupovinu**. Prema Shopify podacima, **44% TikTok korisnika** je kupilo proizvod koji su videli na platformi.
+Lepota i e-commerce imaju ubedljivo najviši CTR jer su to kategorije gde TikTok korisnici **aktivno traže inspiraciju za kupovinu**. Prema Shopify podacima, **44% TikTok korisnika** je kupilo proizvod koji su videli na platformi.
 
 ### CTR po formatu reklame
 
-| Format | Prosecni CTR | Kada koristiti |
+| Format | Prosečni CTR | Kada koristiti |
 |--------|-------------|---------------|
-| Spark Ads (boosted organski post) | 2.0% - 3.0%+ | Najvisji CTR — koristite organski viralni sadrzaj |
+| Spark Ads (boosted organski post) | 2.0% - 3.0%+ | Najviši CTR — koristite organski viralni sadržaj |
 | TopView (prva reklama pri otvaranju) | ~14% | Masivni doseg, premium cena |
-| In-Feed Ads (standardni) | 0.5% - 1.5% | Najcesci format, skalabilan |
+| In-Feed Ads (standardni) | 0.5% - 1.5% | Najčešći format, skalabilan |
 | Collection Ads | 0.6% - 1.0% | E-commerce sa direktnim linkom na proizvode |
 | Branded Hashtag Challenge | 3% - 8% engagement | Brand awareness, UGC generisanje |
 
-**Spark Ads** su TikTok-ov najjaci format po CTR-u jer koristite vec testiran organski sadrzaj koji je vec pokazao da radi. Platforma favorizuje sadrzaj koji je vec dobio engagement signale.
+**Spark Ads** su TikTok-ov najjači format po CTR-u jer koristite već testiran organski sadržaj koji je već pokazao da radi. Platforma favorizuje sadržaj koji je već dobio engagement signale.
 
 ## Konverzija po industriji
 
-| Industrija | Prosecni CVR | Napomena |
+| Industrija | Prosečni CVR | Napomena |
 |-----------|-------------|----------|
-| Hrana i pice | ~0.7% | Impulzivne kupovine, nizi AOV |
-| Lepota i kozmetika | ~0.6% | TikTok-to-purchase pipeline je najjaci ovde |
+| Hrana i piće | ~0.7% | Impulzivne kupovine, niži AOV |
+| Lepota i kozmetika | ~0.6% | TikTok-to-purchase pipeline je najjači ovde |
 | Retail i e-commerce | ~0.6% | Zavisi od cene proizvoda |
-| Tehnologija i gadgeti | ~0.5% | Duzi decision cycle |
+| Tehnologija i gadgeti | ~0.5% | Duži decision cycle |
 | Turizam i putovanja | ~0.5% | Inspiracija → bookiranje |
-| Finansije i osiguranje | ~0.4% | Najniza konverzija — kompleksan proizvod |
+| Finansije i osiguranje | ~0.4% | Najniža konverzija — kompleksan proizvod |
 
 ### TikTok Shop: game changer za konverzije
 
-TikTok Shop menja pravila igre za e-commerce jer omogucava **kupovinu bez napustanja aplikacije**. In-app checkout drasticno smanjuje trenje:
+TikTok Shop menja pravila igre za e-commerce jer omogućava **kupovinu bez napuštanja aplikacije**. In-app checkout drastično smanjuje trenje:
 
 | TikTok Shop format | Konverzija |
 |---------------------|-----------|
@@ -31631,11 +31625,11 @@ TikTok Shop menja pravila igre za e-commerce jer omogucava **kupovinu bez napust
 | Shop Tab (browsing) | 1.5% - 3% |
 | Standardne TikTok Ads (eksterni link) | 0.46% - 1.92% |
 
-LIVE Shopping konverzija od **8-12%** je uporediva sa najboljim email kampanjama i daleko nadmasuje bilo koji drugi social ads format. Za poredjenje, [Facebook Ads konverzija](/blog/facebook-ads-cpc-ctr-konverzija-cpl-po-industriji-benchmark-2026) je prosecno 7.72%, ali to je za lead forme — ne za direktnu prodaju.
+LIVE Shopping konverzija od **8-12%** je uporediva sa najboljim email kampanjama i daleko nadmašuje bilo koji drugi social ads format. Za poređenje, [Facebook Ads konverzija](/blog/facebook-ads-cpc-ctr-konverzija-cpl-po-industriji-benchmark-2026) je prosečno 7.72%, ali to je za lead forme — ne za direktnu prodaju.
 
 ## CPM po industriji i sezoni
 
-| Period | Prosecni CPM |
+| Period | Prosečni CPM |
 |--------|-------------|
 | Prosek 2025 | $6.16 |
 | Q1 (januar-mart) | $4.00 - $5.50 |
@@ -31644,43 +31638,43 @@ LIVE Shopping konverzija od **8-12%** je uporediva sa najboljim email kampanjama
 | Q4 (oktobar-decembar) | $8.00 - $15.00 |
 | Black Friday nedelja | $6.89 - $10.00+ |
 
-TikTok CPM raste **50-100% u Q4** zbog pojacane konkurencije za holiday sezonu. Ako je vas budzet ogranicen, Q1 (januar-mart) je idealan period za testiranje — CPM-ovi su najnizi, a publika je "sveza" posle praznickog zasicenja reklamama.
+TikTok CPM raste **50-100% u Q4** zbog pojačane konkurencije za holiday sezonu. Ako je vaš budžet ograničen, Q1 (januar-mart) je idealan period za testiranje — CPM-ovi su najniži, a publika je "sveža" posle prazničnog zasićenja reklamama.
 
 ### CPM po regionu (2025)
 
-| Region | Prosecni CPM |
+| Region | Prosečni CPM |
 |--------|-------------|
 | SAD | $10 - $20 |
 | Zapadna Evropa | $8 - $15 |
-| Istocna Evropa (ukljucujuci Srbiju) | $3 - $6 |
+| Istočna Evropa (uključujući Srbiju) | $3 - $6 |
 | APAC | $2 - $5 |
 | LATAM | $1.50 - $4 |
 
-**Srbija i region spadaju u najjeftinije trziste** za TikTok oglasavanje u Evropi. Sa CPM-om od $3-$6, lokalni brendovi mogu dobiti znacajan doseg za relativno mali budzet.
+**Srbija i region spadaju u najjeftinije tržište** za TikTok oglašavanje u Evropi. Sa CPM-om od $3-$6, lokalni brendovi mogu dobiti značajan doseg za relativno mali budžet.
 
 ## ROAS po industriji
 
-| Industrija | Prosecni ROAS | Napomena |
+| Industrija | Prosečni ROAS | Napomena |
 |-----------|-------------|----------|
-| Lepota i licna nega | 3.5x | Najvisi — #1 kategorija na TikToku |
+| Lepota i lična nega | 3.5x | Najviši — #1 kategorija na TikToku |
 | Moda i aksesoari | 2.8x | Vizuelni proizvodi, influencer efekat |
 | Zabava i mediji | 2.5x | Lak za viralnost |
-| E-commerce (opsti) | 1.7x - 2.5x | Zavisi od AOV i kreative |
-| Finansije i B2B usluge | 1.2x - 1.5x | Najnizi — TikTok nije prirodan B2B kanal |
+| E-commerce (opšti) | 1.7x - 2.5x | Zavisi od AOV i kreative |
+| Finansije i B2B usluge | 1.2x - 1.5x | Najniži — TikTok nije prirodan B2B kanal |
 
-Za detaljnije poredjenje ROAS-a po platformi pogledajte [ROAS po industriji i platformi](/blog/roas-po-industriji-i-platformi-benchmark-statistika-2026). AI optimizacija targetiranja na TikToku podize ROAS za prosecno **20%** prema TikTok Business podacima.
+Za detaljnije poređenje ROAS-a po platformi pogledajte [ROAS po industriji i platformi](/blog/roas-po-industriji-i-platformi-benchmark-statistika-2026). AI optimizacija targetiranja na TikToku podiže ROAS za prosečno **20%** prema TikTok Business podacima.
 
 ## Engagement rate po industriji (organski + paid)
 
-TikTok ima **daleko najvisi engagement rate od svih platformi** — medijana od 1.73% u 2025 (za poredjenje, Instagram je pao na 0.50%, Facebook na 0.15%). Za detaljnu uporedbu pogledajte [engagement rate po platformi](/blog/engagement-rate-po-platformi-instagram-tiktok-linkedin-2026).
+TikTok ima **daleko najviši engagement rate od svih platformi** — medijana od 1.73% u 2025 (za poređenje, Instagram je pao na 0.50%, Facebook na 0.15%). Za detaljnu uporedbu pogledajte [engagement rate po platformi](/blog/engagement-rate-po-platformi-instagram-tiktok-linkedin-2026).
 
 | Industrija | Engagement rate |
 |-----------|----------------|
-| Vise obrazovanje (Higher Ed) | 7.36% |
+| Više obrazovanje (Higher Ed) | 7.36% |
 | Neprofitne organizacije | 3.04% |
 | Turizam i putovanja | 2.73% |
 | Sportski timovi | 2.68% |
-| Hrana i pice | 2.04% |
+| Hrana i piće | 2.04% |
 | Alkohol | 1.76% |
 | Dom i dekoracija | 1.52% |
 | Mediji | 1.34% |
@@ -31690,60 +31684,60 @@ TikTok ima **daleko najvisi engagement rate od svih platformi** — medijana od 
 | Moda | 0.95% |
 | Lepota i zdravlje | 0.85% |
 
-Vise obrazovanje (7.36%) i neprofitne organizacije (3.04%) imaju ubedljivo najvisi engagement jer kreiraju edukativan sadrzaj koji je prirodan za TikTok format. Video ads na TikToku imaju **15% visi engagement** od staticnih reklama.
+Više obrazovanje (7.36%) i neprofitne organizacije (3.04%) imaju ubedljivo najviši engagement jer kreiraju edukativan sadržaj koji je prirodan za TikTok format. Video ads na TikToku imaju **15% viši engagement** od statičnih reklama.
 
-## TikTok vs Facebook vs Google vs LinkedIn: poredjenje troskova
+## TikTok vs Facebook vs Google vs LinkedIn: poređenje troškova
 
 | Metrika | TikTok | Facebook | Google Search | LinkedIn |
 |---------|--------|----------|--------------|----------|
-| Prosecni CPC | $0.50 | $0.70 (traffic) | $5.26 | $3.94-$5.58 |
-| Prosecni CPM | $6.16 | $6.59 | $11.12 | $31-$38 |
-| Prosecni CTR | 0.84% | 1.71% | 6.66% | 0.52% |
+| Prosečni CPC | $0.50 | $0.70 (traffic) | $5.26 | $3.94-$5.58 |
+| Prosečni CPM | $6.16 | $6.59 | $11.12 | $31-$38 |
+| Prosečni CTR | 0.84% | 1.71% | 6.66% | 0.52% |
 | Konverzija | 0.46-1.92% | 7.72% | 7.52% | 2-5% (LP) |
-| Prosecni ROAS | 1.7x | ~4.2x | Zavisi od nise | N/A (B2B) |
-| Minimalni budzet | $500 | Bez minimuma | Bez minimuma | $10/dan |
+| Prosečni ROAS | 1.7x | ~4.2x | Zavisi od niše | N/A (B2B) |
+| Minimalni budžet | $500 | Bez minimuma | Bez minimuma | $10/dan |
 
-### Gde TikTok pobedjuje
+### Gde TikTok pobeđuje
 
-- **Najnizi CPC** — idealan za testiranje kreative bez velikog rizika
-- **Najnizi CPM** u Istocnoj Evropi — Srbija je jeftino trziste
-- **TikTok Shop** — jedina platforma sa in-app checkout i LIVE Shopping konverzijama od 8-12%
+- **Najniži CPC** — idealan za testiranje kreative bez velikog rizika
+- **Najniži CPM** u Istočnoj Evropi — Srbija je jeftino tržište
+- **TikTok Shop** — jedina platforma sa in-app checkoutom i LIVE Shopping konverzijama od 8-12%
 - **Mlada demografija** — 60% korisnika ima 16-34 godina, neuhvatljivi na Facebooku
 
 ### Gde TikTok gubi
 
-- **Najniza konverzija** za standardne kampanje (0.46-1.92% vs 7%+ na Facebooku/Google-u)
-- **Nema search intent** — korisnici ne traze vas proizvod, vi ih presrecete
-- **B2B je slab** — ROAS 1.2-1.5x, daleko iza LinkedIn-a za business klijente
-- **Kreativ-zavisna platforma** — bez sjajnog videa, nema rezultata (ne mozete se "kupiti" iz lose reklame)
+- **Najniža konverzija** za standardne kampanje (0.46-1.92% vs 7%+ na Facebooku/Google-u)
+- **Nema search intent** — korisnici ne traže vaš proizvod, vi ih presrećete
+- **B2B je slab** — ROAS 1.2-1.5x, daleko iza LinkedIna za business klijente
+- **Kreativ-zavisna platforma** — bez sjajnog videa, nema rezultata (ne možete se "kupiti" iz loše reklame)
 
-## Kljucni trendovi za 2025-2026
+## Ključni trendovi za 2025-2026
 
-**TikTok Shop eksplodira.** LIVE Shopping konverzije od 8-12% menjaju e-commerce. Brendovi koji ne testiraju TikTok Shop u 2026 propustaju kanal koji je vec generisao $33+ milijardi u globalnoj prodaji (2024).
+**TikTok Shop eksplodira.** LIVE Shopping konverzije od 8-12% menjaju e-commerce. Brendovi koji ne testiraju TikTok Shop u 2026. propuštaju kanal koji je već generisao $33+ milijardi u globalnoj prodaji (2024).
 
-**Troskovi rastu.** CPC je porastao sa $0.20 (2023) na $0.50 (2025) kako se vise brendova bori za isti ad inventory. Ocekujte dodatni rast od 15-25% u 2026.
+**Troškovi rastu.** CPC je porastao sa $0.20 (2023) na $0.50 (2025) kako se više brendova bori za isti ad inventory. Očekujte dodatni rast od 15-25% u 2026.
 
-**Spark Ads postaju standard.** Najefektivniji format (CTR 2-3%+) jer koristi vec testirani organski sadrzaj. Brendovi koji investiraju u organsku TikTok strategiju imaju dramaticno nize troskove oglasavanja.
+**Spark Ads postaju standard.** Najefektivniji format (CTR 2-3%+) jer koristi već testirani organski sadržaj. Brendovi koji investiraju u organsku TikTok strategiju imaju dramatično niže troškove oglašavanja.
 
-**AI targeting napreduje.** TikTok-ov Smart Performance Campaign (SPC) koristi AI za automatsko targetiranje i bidding, sa prosecnim poboljsanjem ROAS-a od 20%. Manual targeting gubi bitku sa algoritmom.
+**AI targeting napreduje.** TikTok-ov Smart Performance Campaign (SPC) koristi AI za automatsko targetiranje i bidding, sa prosečnim poboljšanjem ROAS-a od 20%. Manual targeting gubi bitku sa algoritmom.
 
-**UGC (User Generated Content) > studio produkcija.** Reklame snimljene telefonom sa autenticnim tonom konvertuju bolje od poliranih studio videa. TikTok korisnici instinktivno skipuju sve sto izgleda kao "reklama".
+**UGC (User Generated Content) > studio produkcija.** Reklame snimljene telefonom sa autentičnim tonom konvertuju bolje od poliranih studio videa. TikTok korisnici instinktivno skipuju sve što izgleda kao "reklama".
 
-**CTV raste.** 45% TikTok gledanja je vec na TV ekranima (smart TV, Chromecast). Ovo otvara novi inventory za brand awareness kampanje sa vecim ekranom.
+**CTV raste.** 45% TikTok gledanja je već na TV ekranima (smart TV, Chromecast). Ovo otvara novi inventory za brand awareness kampanje sa većim ekranom.
 
-## Sta ovo znaci za vas biznis
+## Šta ovo znači za vaš biznis
 
-**Ako ste e-commerce brend** sa vizuelnim proizvodima: TikTok je obavezan kanal. Pocnite sa Spark Ads (boostujte organski sadrzaj koji vec ima engagement), testirajte TikTok Shop, i koristite LIVE Shopping za highest-intent konverzije.
+**Ako ste e-commerce brend** sa vizuelnim proizvodima: TikTok je obavezan kanal. Počnite sa Spark Ads (boostujte organski sadržaj koji već ima engagement), testirajte TikTok Shop i koristite LIVE Shopping za highest-intent konverzije.
 
-**Ako ste lokalni biznis u Srbiji:** CPM od $3-$6 za Istocnu Evropu znaci da mozete dobiti 1.000 prikaza za manje od jednog kafe. Idealno za restorane, salone, fitness centre — ali morate imati video sadrzaj.
+**Ako ste lokalni biznis u Srbiji:** CPM od $3-$6 za Istočnu Evropu znači da možete dobiti 1.000 prikaza za manje od jedne kafe. Idealno za restorane, salone i fitness centre — ali morate imati video sadržaj.
 
-**Ako ste B2B firma:** TikTok verovatno nije vas primarni kanal. [LinkedIn](/blog/linkedin-ads-cpc-ctr-konverzija-cpl-po-industriji-benchmark-2026) i [Google](/blog/google-ads-cpc-ctr-konverzija-po-industriji-benchmark-2026) su bolji za B2B lead generation. Ali ako zelite brand awareness kod mladjih decision-makera (milenijalci koji postaju direktori), TikTok moze biti dopunski kanal.
+**Ako ste B2B firma:** TikTok verovatno nije vaš primarni kanal. [LinkedIn](/blog/linkedin-ads-cpc-ctr-konverzija-cpl-po-industriji-benchmark-2026) i [Google](/blog/google-ads-cpc-ctr-konverzija-po-industriji-benchmark-2026) su bolji za B2B lead generation. Ali ako želite brand awareness kod mlađih decision-makera (milenijalci koji postaju direktori), TikTok može biti dopunski kanal.
 
-**Ako imate ogranicen budzet ($500-$2.000/mesecno):** TikTok je idealna platforma za testiranje jer je CPC najnizi. Testirajte 5-10 razlicitih kreativa za $50 svaki, identifikujte pobednike, pa skalirajte. Za kombinovanje sa drugim kanalima pogledajte [koliko firme trose na marketing](/blog/koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026) i [cene digitalnog marketinga](/cene-digitalnog-marketinga). Za uporedbu sa [Facebook reklamama](/koliko-kosta-facebook-reklama) i [Instagram reklamama](/instagram-reklame-cena) pogledajte nase detaljne vodiče.
+**Ako imate ograničen budžet ($500-$2.000/mesecno):** TikTok je idealna platforma za testiranje jer je CPC najniži. Testirajte 5-10 različitih kreativa za $50 svaki, identifikujte pobednike, pa skalirajte. Za kombinovanje sa drugim kanalima pogledajte [koliko firme trose na marketing](/blog/koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026) i [cene digitalnog marketinga](/cene-digitalnog-marketinga). Za uporedbu sa [Facebook reklamama](/koliko-kosta-facebook-reklama) i [Instagram reklamama](/instagram-reklame-cena) pogledajte naše detaljne vodiče.
 
-**Za beauty i fashion brendove:** TikTok je vas **primarni kanal**. ROAS od 3.5x za lepotu i 2.8x za modu su najvisi medju svim platformama. Investirajte u influencer UGC i Spark Ads.
+**Za beauty i fashion brendove:** TikTok je vaš **primarni kanal**. ROAS od 3.5x za lepotu i 2.8x za modu su najviši među svim platformama. Investirajte u influencer UGC i Spark Ads.
 
-Za pomoc oko pokretanja ili optimizacije vasih TikTok kampanja, [kontaktirajte nas](/kontakt).
+Za pomoć oko pokretanja ili optimizacije vaših TikTok kampanja, [kontaktirajte nas](/kontakt).
 
 ---
 
@@ -31759,8 +31753,8 @@ Za pomoc oko pokretanja ili optimizacije vasih TikTok kampanja, [kontaktirajte n
       "ROAS po industriji",
       "Engagement rate po industriji",
       "TikTok vs Facebook vs Google vs LinkedIn",
-      "Kljucni trendovi za 2025-2026",
-      "Sta ovo znaci za vas biznis"
+      "Ključni trendovi za 2025-2026",
+      "Šta ovo znači za vaš biznis"
     ],
     jsonLd: {
       "@context": "https://schema.org",
@@ -31769,7 +31763,7 @@ Za pomoc oko pokretanja ili optimizacije vasih TikTok kampanja, [kontaktirajte n
       "datePublished": "2026-03-24",
       "author": { "@type": "Organization", "name": "Platinum Zenith" },
       "publisher": { "@type": "Organization", "name": "Platinum Zenith", "url": "https://platinumzenith.com" },
-      "description": "TikTok CPC prosek $0.50 (30% nizi od Facebooka), CTR 0.84%, TikTok Shop LIVE konverzija 8-12%. Benchmark podaci po industriji sa citiranim izvorima.",
+      "description": "TikTok CPC prosek $0.50 (30% niži od Facebooka), CTR 0.84%, TikTok Shop LIVE konverzija 8-12%. Benchmark podaci po industriji sa citiranim izvorima.",
       "mainEntityOfPage": "https://platinumzenith.com/blog/tiktok-ads-cpc-ctr-konverzija-cpm-po-industriji-benchmark-2026"
     }
   },
@@ -32046,59 +32040,59 @@ Marketing automatizacija se isplati. Pitanje nije da li je implementirati, vec k
   {
     slug: 'web-dizajn-statistika-konverzije-poverenje-bounce-rate-ux-2026',
     title: 'Web dizajn statistika 2026: kako izgled sajta utiče na poverenje, konverzije i bounce rate',
-    excerpt: '94% prvog utiska zavisi od dizajna. 75% korisnika procenjuje kredibilitet firme po sajtu. UX ROI 9,900%, svaka sekunda kasnjenja -7% konverzija. Podaci za 2025-2026.',
+    excerpt: '94% prvog utiska zavisi od dizajna. 75% korisnika procenjuje kredibilitet firme po sajtu. UX ROI 9,900%, svaka sekunda kašnjenja -7% konverzija. Podaci za 2025-2026.',
     date: '2026-03-25',
     category: 'Web dizajn',
     readTime: '11 min',
     content: `
-## Koliko brzo korisnici presude vasem sajtu?
+## Koliko brzo korisnici presude vašem sajtu?
 
-Odgovor: 0.05 sekundi. Toliko treba posiocu da formira prvi utisak o vasem sajtu. I 94% tog utiska se zasniva na dizajnu, a samo 6% na sadrzaju.
+Odgovor: 0.05 sekundi. Toliko treba posetiocu da formira prvi utisak o vašem sajtu. I 94% tog utiska se zasniva na dizajnu, a samo 6% na sadržaju.
 
-To znači da pre nego sto korisnik procita ijednu recenicu na vasoj stranici, vec je odlucio da li mu izgledate profesionalno ili ne. Nema drugog medijuma gde je presuda toliko brza i toliko vizuelna.
+To znači da pre nego što korisnik pročita ijednu rečenicu na vašoj stranici, već je odlučio da li mu izgledate profesionalno ili ne. Nema drugog medijuma gde je presuda toliko brza i toliko vizuelna.
 
-75% korisnika u 2025. godini procenjuje kredibilitet firme na osnovu web dizajna. Ne na osnovu toga šta pisete o sebi. Ne na osnovu cena. Na osnovu toga kako sajt izgleda i kako se ponasa.
+75% korisnika u 2025. godini procenjuje kredibilitet firme na osnovu web dizajna. Ne na osnovu toga šta pišete o sebi. Ne na osnovu cena. Na osnovu toga kako sajt izgleda i kako se ponaša.
 
 ## Dizajn i poverenje: zašto izgled menja sve
 
-48% korisnika kaze da im je dizajn sajta primarni faktor pri proceni da li mogu da veruju firmi. Nije to apstraktan osecaj. Konkretno, 81% potrosaca u 2024. godini napusta sajt ako im deluje nepouzdano u prvih 5 sekundi.
+48% korisnika kaže da im je dizajn sajta primarni faktor pri proceni da li mogu da veruju firmi. Nije to apstraktan osećaj. Konkretno, 81% potrošača u 2024. godini napušta sajt ako im deluje nepouzdano u prvih 5 sekundi.
 
-Šta cini sajt "nepouzdanim" u ocima posetioca?
+Šta čini sajt "nepouzdanim" u očima posetioca?
 
-Zastareo vizuelni stil je prvi signal. Sajt koji izgleda kao da je pravljen 2014. godine saje poruku da firma ne ulaze u svoje prisustvo. Drugim recima: ako ne brinete o svojoj web prezentaciji, zašto bih verovao da cete brinuti o mom projektu?
+Zastareo vizuelni stil je prvi signal. Sajt koji izgleda kao da je pravljen 2014. godine šalje poruku da firma ne ulaže u svoje prisustvo. Drugim rečima: ako ne brinete o svojoj web prezentaciji, zašto bih verovao da ćete brinuti o mom projektu?
 
-Drugi signal su tehničke stvari kojih korisnik mozda nije ni svestan, ali ih podsvesno registruje: sporo ucitavanje, pomicanje elemenata dok se stranica ucitava (layout shift), nedostajuci HTTPS indikator. SSL sertifikati, jasne politike privatnosti i profesionalan vizuelni identitet nisu luksuz. To su minimalni uslovi za poverenje.
+Drugi signal su tehničke stvari kojih korisnik možda nije ni svestan, ali ih podsvesno registruje: sporo učitavanje, pomicanje elemenata dok se stranica učitava (layout shift), nedostajući HTTPS indikator. SSL sertifikati, jasne politike privatnosti i profesionalan vizuelni identitet nisu luksuz. To su minimalni uslovi za poverenje.
 
-Treci element: konzistentnost. Ako vasa pocetna stranica izgleda moderno a stranica usluga kao da pripada drugom sajtu, to razbija poverenje. 32% korisnika napusta cak i brendove koje voli posle nekoliko nekonzistentnih iskustava.
+Treći element: konzistentnost. Ako vaša početna stranica izgleda moderno, a stranica usluga kao da pripada drugom sajtu, to razbija poverenje. 32% korisnika napušta čak i brendove koje voli posle nekoliko nekonzistentnih iskustava.
 
-## UX i konverzije: svaki dolar ulozen u iskustvo korisnika vraca 100
+## UX i konverzije: svaki dolar uložen u iskustvo korisnika vraća 100
 
-Ovo je cifra koja bi trebalo da nagna svakog vlasnika firme da se zamisli: svaki dolar ulozen u UX dizajn moze da vrati do 100 dolara. Prosečni ROI UX poboljsanja je 9,900%.
+Ovo je cifra koja bi trebalo da natera svakog vlasnika firme da se zamisli: svaki dolar uložen u UX dizajn može da vrati do 100 dolara. Prosečni ROI UX poboljšanja je 9,900%.
 
-Dobar UX dizajn moze da poveca konverzije do 400%. A ne govorimo o kompleksnim redizajnima od nule. Cesto su u pitanju sistematske male promene: jasniji poziv na akciju, bolji kontrast, manji broj polja u formi, jasnija hijerarhija informacija.
+Dobar UX dizajn može da poveća konverzije do 400%. A ne govorimo o kompleksnim redizajnima od nule. Često su u pitanju sistematske male promene: jasniji poziv na akciju, bolji kontrast, manji broj polja u formi, jasnija hijerarhija informacija.
 
-Obrnuto, posledice loseg korisnickog iskustva su brutalne: 88% korisnika se nece vratiti na sajt posle loseg iskustva, a 70% online biznisa ne uspeva upravo zbog lose upotrebljivosti.
+Obrnuto, posledice lošeg korisničkog iskustva su brutalne: 88% korisnika se neće vratiti na sajt posle lošeg iskustva, a 70% online biznisa ne uspeva upravo zbog loše upotrebljivosti.
 
 Za detaljniju analizu šta utiče na konverzije i kako ih meriti po industriji, pogledajte [benchmark konverzija po industriji](/blog/checkout-optimizacija-statistika-konverzija-forme-placanje-2026).
 
-## Brzina ucitavanja: svaka sekunda košta novac
+## Brzina učitavanja: svaka sekunda košta novac
 
-Prosecno vreme ucitavanja glavnog sadržaja u 2025. je 1.9 sekundi na mobilnom i 1.7 sekundi na desktopu. Ali korisnicka ocekivanja su još stroza: 47% korisnika smartfona ocekuje da se stranica ucita za 2 sekunde ili manje.
+Prosečno vreme učitavanja glavnog sadržaja u 2025. je 1.9 sekundi na mobilnom i 1.7 sekundi na desktopu. Ali korisnička očekivanja su još stroža: 47% korisnika smartfona očekuje da se stranica učita za 2 sekunde ili manje.
 
-Evo šta se desava kad sajt kasni:
+Evo šta se dešava kad sajt kasni:
 
-- **1 sekunda kasnjenja** smanjuje konverzije za 7%, preglede stranica za 11% i zadovoljstvo korisnika za 16%
-- **3 sekunde ucitavanja** povećavaju verovatnocu napustanja za 32% u odnosu na sajt koji se ucitava za 1 sekundu
-- **5+ sekundi**: sajt koji se ucitava 5 sekundi konvertuje tri puta losije od onog koji se ucitava za 1 sekundu
-- Sporo ucitavanje moze da "pojede" do **15% godisnjih prihoda firme**
+- **1 sekunda kašnjenja** smanjuje konverzije za 7%, preglede stranica za 11% i zadovoljstvo korisnika za 16%
+- **3 sekunde učitavanja** povećavaju verovatnoću napuštanja za 32% u odnosu na sajt koji se učitava za 1 sekundu
+- **5+ sekundi**: sajt koji se učitava 5 sekundi konvertuje tri puta lošije od onog koji se učitava za 1 sekundu
+- Sporo učitavanje može da "pojede" do **15% godišnjih prihoda firme**
 
-53% mobilnih korisnika napusti sajt koji se ucitava duze od 3 sekunde. Ne vrate se i ne pokusaju ponovo. Odu konkurentu.
+53% mobilnih korisnika napusti sajt koji se učitava duže od 3 sekunde. Ne vrate se i ne pokušaju ponovo. Odu konkurentu.
 
-Praktični koraci su cesto jednostavni: WebP format za slike (25-35% brze ucitavanje), lazy loading za sadržaj ispod ekrana, minifikacija CSS/JS fajlova, CDN za staticke resurse.
+Praktični koraci su često jednostavni: WebP format za slike (25-35% brže učitavanje), lazy loading za sadržaj ispod ekrana, minifikacija CSS/JS fajlova, CDN za statičke resurse.
 
 Za podatke o tome kako brzina utiče na rangiranje u Google pretrazi, pogledajte [kako brzina sajta utiče na rangiranje](/blog/kako-brzina-sajta-utice-na-rangiranje-na-googlu-2026).
 
-## Bounce rate: koliko posetilaca odlazi pre nego sto bilo šta urade
+## Bounce rate: koliko posetilaca odlazi pre nego što bilo šta urade
 
 Bounce rate je procenat posetilaca koji odu sa sajta posle samo jedne stranice. Prosečni bounce rate-ovi za 2025-2026 variraju po industriji:
 
@@ -32109,112 +32103,112 @@ Bounce rate je procenat posetilaca koji odu sa sajta posle samo jedne stranice. 
 
 30% bounce rate se generalno smatra dobrim rezultatom. Sve preko 50% za sajt koji bi trebalo da konvertuje posetioce u kupce signalizira problem.
 
-Šta najvise utiče na bounce rate? Jasna navigacija moze da ga smanji za 40%. Brze ucitavanje je takođe kriticno (vec smo videli podatke gore). Mobilni uredjaji i saobraćaj sa društvenih mreza tipicno imaju veće bounce rate-ove jer su ti korisnici manje fokusirani.
+Šta najviše utiče na bounce rate? Jasna navigacija može da ga smanji za 40%. Brže učitavanje je takođe kritično (već smo videli podatke gore). Mobilni uređaji i saobraćaj sa društvenih mreža tipično imaju veće bounce rate-ove jer su ti korisnici manje fokusirani.
 
 ## Boje: 85% kupaca kupuje na osnovu boje
 
-Psihologija boja nije ezotericna tema za dizajnere. To je merljiv faktor. 85% potrosaca navodi boju kao primarni razlog za kupovinu proizvoda. Prave boje mogu da povecaju vreme provedeno na stranici za 24%.
+Psihologija boja nije ezoterična tema za dizajnere. To je merljiv faktor. 85% potrošača navodi boju kao primarni razlog za kupovinu proizvoda. Prave boje mogu da povećaju vreme provedeno na stranici za 24%.
 
 Nema univerzalno "najbolje" boje za sajt. Ali postoje pouzdane asocijacije:
 
-- **Plava:** poverenje, profesionalnost (zato je dominira u finansijama, zdravstvu, korporativnim sajtovima)
+- **Plava:** poverenje, profesionalnost (zato dominira u finansijama, zdravstvu, korporativnim sajtovima)
 - **Crvena:** hitnost, akcija (korisna za CTA dugmad i rasprodaje, ali preterivanje izaziva anksioznost)
 - **Zelena:** balans, priroda, rast (popularna u zdravlju, organskim proizvodima, finansijama)
-- **Narandzasta/zuta:** optimizam, energija (dobra za CTA ako se koristi uzdrzano)
+- **Narandžasta/žuta:** optimizam, energija (dobra za CTA ako se koristi uzdržano)
 
-Trendovi za 2025-2026 idu ka neo-minimalnim neutralnim tonovima, vibrantnim gradijentima i dark mode sa visoko kontrastnim elementima. Ali trend je manje bitan od funkcije: bitno je da vasa paleta boja radi za vasu publiku i cilj sajta.
+Trendovi za 2025-2026 idu ka neo-minimalnim neutralnim tonovima, vibrantnim gradijentima i dark mode-u sa visoko kontrastnim elementima. Ali trend je manje bitan od funkcije: bitno je da vaša paleta boja radi za vašu publiku i cilj sajta.
 
-## Tipografija: 38% korisnika odustaje od loseg teksta
+## Tipografija: 38% korisnika odustaje od lošeg teksta
 
-Tipografija nije samo estetika. Losa tipografija je razlog zbog kog 38% korisnika napusti sajt jer im sadržaj ili layout izgleda neprivlacno.
+Tipografija nije samo estetika. Loša tipografija je razlog zbog kog 38% korisnika napusti sajt jer im sadržaj ili layout izgleda neprivlačno.
 
-Ključni principi koji uticu na citljivost i zadrzavanje:
+Ključni principi koji utiču na čitljivost i zadržavanje:
 
-- **Optimalna duzina reda:** 50-75 karaktera. Predugacki redovi zamraju oci, prekratki prekidaju tok citanja
-- **Hijerarhija naslova:** H1 > H2 > H3 mora biti vizuelno jasna, ne samo semanticki tacna
-- **Variable fontovi:** omogucavaju fleksibilnost bez dodatnog opterecenja na ucitavanje stranice
+- **Optimalna dužina reda:** 50-75 karaktera. Predugački redovi zamaraju oči, prekratki prekidaju tok čitanja
+- **Hijerarhija naslova:** H1 > H2 > H3 mora biti vizuelno jasna, ne samo semantički tačna
+- **Variable fontovi:** omogućavaju fleksibilnost bez dodatnog opterećenja na učitavanje stranice
 - **Serif fontovi:** vratili su se u modu (+18% korišćenja na premium sajtovima), daju utisak autoriteta
 
-## Whitespace: 85% korisnika preferira "cistiju" stranicu
+## Whitespace: 85% korisnika preferira "čistiju" stranicu
 
-85% korisnika preferira sajtove sa belom ili minimalnom pozadinom. 60% korisnika specificno favorizuje cist stil sa dovoljno praznog prostora oko sadržaja.
+85% korisnika preferira sajtove sa belom ili minimalnom pozadinom. 60% korisnika specifično favorizuje čist stil sa dovoljno praznog prostora oko sadržaja.
 
 Whitespace (negativni prostor) nije "prazan prostor koji treba popuniti." To je dizajn element koji:
 
-- Fokusira paznju na CTA dugmad i ključne poruke
-- Poboljsava citljivost teksta (posebno na mobilnim uređajima)
+- Fokusira pažnju na CTA dugmad i ključne poruke
+- Poboljšava čitljivost teksta (posebno na mobilnim uređajima)
 - Daje utisak profesionalnosti i "premium" kvaliteta
-- Smanjuje kognitivno opterecenje posetioca
+- Smanjuje kognitivno opterećenje posetioca
 
-19.2% malih firmi ima problem sa losim koriscenjem whitespace-a sto rezultira skucenim, zbunjujucim vizuelnim iskustvom. To je jedna od najcescih gresaka: strah da ce prazni prostor izgledati kao "prazan sajt" pa se svaki piksel napuni sadržajem.
+19.2% malih firmi ima problem sa lošim korišćenjem whitespace-a što rezultira skučenim, zbunjujućim vizuelnim iskustvom. To je jedna od najčešćih grešaka: strah da će prazni prostor izgledati kao "prazan sajt", pa se svaki piksel napuni sadržajem.
 
 ## CTA dizajn: gde stoji dugme menja sve
 
 Poziv na akciju (CTA) je mesto gde se dizajn prevodi u novac. Statistika je jasna:
 
-- Jasan CTA moze da poveca klik-stopu za **95%**
+- Jasan CTA može da poveća klik-stopu za **95%**
 - CTA dugme postavljeno iznad "prevoja" (vidljivo bez skrolovanja) konvertuje **30% bolje**
-- Dodavanje jasnog CTA dugmeta moze da poveca konverzije za **80%**
-- **Trust badges** (bedzi poverenja — SSL, garancija, ocene) pored CTA povećavaju konverzije za 18%
+- Dodavanje jasnog CTA dugmeta može da poveća konverzije za **80%**
+- **Trust badges** (bedževi poverenja — SSL, garancija, ocene) pored CTA povećavaju konverzije za 18%
 
-Personalizovani sadržaj i CTA konvertuju znacajno bolje od generickih: personalizovani pozivi na akciju konvertuju 202% bolje od standardnih.
+Personalizovani sadržaj i CTA konvertuju značajno bolje od generičkih: personalizovani pozivi na akciju konvertuju 202% bolje od standardnih.
 
-Dobro dizajnirana landing stranica moze da poboljsa konverzije za 120%. To nije pitanje "lepog" dizajna. To je pitanje strateski postavljenih elemenata koji vode posetioca do odluke.
+Dobro dizajnirana landing stranica može da poboljša konverzije za 120%. To nije pitanje "lepog" dizajna. To je pitanje strateški postavljenih elemenata koji vode posetioca do odluke.
 
 Za više o tome kako optimizovati checkout proces, pogledajte [checkout optimizacija statistika](/blog/checkout-optimizacija-statistika-konverzija-forme-placanje-2026).
 
 ## Responsivni dizajn: 59% kupovina je sa telefona
 
-U 2025. godini, mobilni uredjaji generisu 78% saobraćaja na maloprodajnim sajtovima i 59% svih online transakcija. Responsivni dizajn moze da poveca konverzije za 11% u proseku, a strateska implementacija moze da donese poboljsanje do 400%.
+U 2025. godini, mobilni uređaji generišu 78% saobraćaja na maloprodajnim sajtovima i 59% svih online transakcija. Responsivni dizajn može da poveća konverzije za 11% u proseku, a strateška implementacija može da donese poboljšanje do 400%.
 
-Ali postoji jedna vazna razlika: konverzija na mobilnom je 1.2-2.8%, dok je na desktopu 3.6-4.2%. Korisnici pretrazuju na telefonu, a kupuju na racunaru. To znači da mobilna verzija vaseg sajta mora da bude dovoljno ubedljiva da korisnik zapamti vas brend i vrati se (ili odmah zavrsi kupovinu).
+Ali postoji jedna važna razlika: konverzija na mobilnom je 1.2-2.8%, dok je na desktopu 3.6-4.2%. Korisnici pretražuju na telefonu, a kupuju na računaru. To znači da mobilna verzija vašeg sajta mora da bude dovoljno ubedljiva da korisnik zapamti vaš brend i vrati se (ili odmah završi kupovinu).
 
 Za detaljnije podatke o mobilnoj vs desktop kupovini, pogledajte [mobilna vs desktop kupovina statistika](/blog/mobilna-vs-desktop-kupovina-konverzije-statistika-2026).
 
-## Pristupacnost: 94.8% sajtova ima greske
+## Pristupačnost: 94.8% sajtova ima greške
 
-WebAIM Million izvestaj za 2025. godinu otkriva da 94.8% sajtova ima bar jednu detektabilnu gresku pristupacnosti. Prosecno 51 razlicita greska po pocetnoj stranici.
+WebAIM Million izveštaj za 2025. godinu otkriva da 94.8% sajtova ima bar jednu detektabilnu grešku pristupačnosti. Prosečno 51 različita greška po početnoj stranici.
 
-Najcesci problemi:
+Najčešći problemi:
 
 - **Nizak kontrast teksta:** 79.1% sajtova
-- **Nedostajuci alt tekst za slike:** 55.5% sajtova
-- **Nedostajuce labele za formular polja:** 48% sajtova
+- **Nedostajući alt tekst za slike:** 55.5% sajtova
+- **Nedostajuće labele za formular polja:** 48% sajtova
 
-71% osoba sa invaliditetom napusti sajt koji im nije pristupacan. To je ne samo eticko pitanje, vec i poslovno: u 2024. je bilo više od 4,000 ADA tuzbi samo u SAD-u.
+71% osoba sa invaliditetom napusti sajt koji im nije pristupačan. To je ne samo etičko pitanje, već i poslovno: u 2024. je bilo više od 4,000 ADA tužbi samo u SAD-u.
 
-Pristupacnost takođe pozitivno utiče na SEO (alt tekst, semanticki HTML, hijerarhija naslova) i konverzije (citljiviji tekst, jasnija navigacija). Poboljsanje pristupacnosti cesto poboljsava iskustvo za sve korisnike, ne samo za one sa invaliditetom.
+Pristupačnost takođe pozitivno utiče na SEO (alt tekst, semantički HTML, hijerarhija naslova) i konverzije (čitljiviji tekst, jasnija navigacija). Poboljšanje pristupačnosti često poboljšava iskustvo za sve korisnike, ne samo za one sa invaliditetom.
 
 ## Koliko zapravo košta ne ulagati u dizajn?
 
-Hajde da saberemo trosakove loseg web dizajna:
+Hajde da saberemo troškove lošeg web dizajna:
 
 1. **Izgubljeni kredibilitet:** 75% korisnika procenjuje vas na osnovu sajta
-2. **Izgubljene konverzije:** los UX košta do 400% potencijalnih konverzija
-3. **Bounce rate:** svaka sekunda kasnjenja tera ljude da odu
-4. **Smanjeni prihodi:** spor sajt moze da pojede 15% godisnjih prihoda
-5. **Pravni rizik:** nepristupacni sajtovi privlace tuzbe
+2. **Izgubljene konverzije:** loš UX košta do 400% potencijalnih konverzija
+3. **Bounce rate:** svaka sekunda kašnjenja tera ljude da odu
+4. **Smanjeni prihodi:** spor sajt može da pojede 15% godišnjih prihoda
+5. **Pravni rizik:** nepristupačni sajtovi privlače tužbe
 
-Cena profesionalnog web dizajna izgleda drugacije kad se uporedi sa cenom nepostojanja profesionalnog sajta. Firma sa sajtom koji konvertuje 1% umesto mogucih 3% ne gubi "procenat." Gubi dve trecine potencijalnih kupaca. Svaki dan.
+Cena profesionalnog web dizajna izgleda drugačije kad se uporedi sa cenom nepostojanja profesionalnog sajta. Firma sa sajtom koji konvertuje 1% umesto mogućih 3% ne gubi "procenat." Gubi dve trećine potencijalnih kupaca. Svaki dan.
 
 Za analizu koliko zapravo košta izrada sajta, pogledajte [cene izrade sajta u Srbiji](/cene-izrade-sajta).
 
-## Ključni brojevi za pamcenje
+## Ključni brojevi za pamćenje
 
 | Metrika | Podatak |
 |---------|---------|
 | Vreme za prvi utisak | 0.05 sekundi |
 | Dizajn kao faktor poverenja | 75% korisnika |
 | UX ROI | $100 na svaki $1 |
-| Konverzija poboljsanje (dobar UX) | do 400% |
-| Pad konverzija (1s kasnjenje) | -7% |
-| Sajtovi sa greskom pristupacnosti | 94.8% |
-| Mobilni udeo u saobracaju | 78% |
+| Konverzija poboljšanje (dobar UX) | do 400% |
+| Pad konverzija (1s kašnjenje) | -7% |
+| Sajtovi sa greškom pristupačnosti | 94.8% |
+| Mobilni udeo u saobraćaju | 78% |
 | CTA iznad prevoja bonus | +30% konverzija |
 | Bounce rate usled navigacije | -40% sa jasnom navigacijom |
 | Trust badge efekat | +18% konverzija |
 
-Svaki od ovih brojeva govori istu pricu: web dizajn nije trošak. To je infrastruktura koja direktno utiče na to koliko novca vasa firma zaradjuje online.
+Svaki od ovih brojeva govori istu priču: web dizajn nije trošak. To je infrastruktura koja direktno utiče na to koliko novca vaša firma zarađuje online.
 
 *Izvori: MarketingLTB, Clutch.co, Convergine, JS-Interactive, VWO, Dovetail, WebAIM, DebugBear, BeaconWebWorks, RGC Digital Marketing, CausalFunnel*
 `,
@@ -32232,7 +32226,7 @@ Svaki od ovih brojeva govori istu pricu: web dizajn nije trošak. To je infrastr
         "name": "Platinum Zenith",
         "url": "https://platinumzenith.com"
       },
-      "description": "94% prvog utiska zavisi od dizajna. 75% korisnika procenjuje kredibilitet firme po sajtu. UX ROI 9,900%, svaka sekunda kasnjenja -7% konverzija. Podaci za 2025-2026.",
+      "description": "94% prvog utiska zavisi od dizajna. 75% korisnika procenjuje kredibilitet firme po sajtu. UX ROI 9,900%, svaka sekunda kašnjenja -7% konverzija. Podaci za 2025-2026.",
       "mainEntityOfPage": "https://platinumzenith.com/blog/web-dizajn-statistika-konverzije-poverenje-bounce-rate-ux-2026"
     }
   },

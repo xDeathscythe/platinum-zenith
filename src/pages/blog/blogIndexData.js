@@ -104,7 +104,7 @@ export const blogIndexPosts = [
   {
     "slug": "mobilni-marketing-i-m-commerce-statistika-2026",
     "title": "Mobilni marketing u 2026: 60% tržišta, konverzije od 2.8% i ROI mobilnih aplikacija",
-    "excerpt": "Mobilna trgovina (m-commerce) dostize 2.4 triliona dolara u 2026. Telefon donosi 75% saobraćaja, ali konverzije variraju. Saznajte benchmark podatke po industriji.",
+    "excerpt": "Mobilna trgovina (m-commerce) dostiže 2.4 triliona dolara u 2026. Telefon donosi 75% saobraćaja, ali konverzije variraju. Saznajte benchmark podatke po industriji.",
     "date": "2026-03-26",
     "category": "Marketing",
     "readTime": "8 min",
@@ -113,7 +113,7 @@ export const blogIndexPosts = [
   {
     "slug": "content-marketing-statistika-roi-blog-lead-generation-cpl-2026",
     "title": "Content marketing statistika (2026): ROI, cena po leadu i uticaj bloga na prodaju",
-    "excerpt": "Content marketing donosi 3x više leadova od outbound marketinga po 62% nizoj ceni. Prosečan ROI je 3$ na svaki ulozen dolar. Podaci za B2B i B2C.",
+    "excerpt": "Content marketing donosi 3x više leadova od outbound marketinga po 62% nižoj ceni. Prosečan ROI je 3$ na svaki uložen dolar. Podaci za B2B i B2C.",
     "date": "2026-03-25",
     "category": "Marketing",
     "readTime": "9 min",
@@ -140,7 +140,7 @@ export const blogIndexPosts = [
   {
     "slug": "influencer-marketing-statistika-roi-mikro-influenseri-ugc-2026",
     "title": "Influencer marketing u brojevima: ROI, mikro-influenseri i UGC (statistika za 2026)",
-    "excerpt": "Tržište influencer marketinga 32.5 milijardi dolara. Prosečni ROI 5.78x. Mikro-influenseri imaju 60% visi engagement uz desetinu cene. UGC konvertuje 10x bolje.",
+    "excerpt": "Tržište influencer marketinga 32.5 milijardi dolara. Prosečni ROI 5.78x. Mikro-influenseri imaju 60% viši engagement uz desetinu cene. UGC konvertuje 10x bolje.",
     "date": "2026-03-25",
     "category": "Marketing",
     "readTime": "9 min",
@@ -148,8 +148,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "drustvene-mreze-statistika-korisnici-engagement-vreme-ad-spend-2026",
-    "title": "Društvene mreže u brojevima: korisnici, engagement, vreme i potrosnja na oglase (2026)",
-    "excerpt": "5.66 milijardi korisnika, 2h 23min dnevno, TikTok engagement 4.2%, globalna potrosnja na oglase 277 milijardi dolara. Benchmark podaci po platformi.",
+    "title": "Društvene mreže u brojevima: korisnici, engagement, vreme i potrošnja na oglase (2026)",
+    "excerpt": "5.66 milijardi korisnika, 2h 23min dnevno, TikTok engagement 4.2%, globalna potrošnja na oglase 277 milijardi dolara. Benchmark podaci po platformi.",
     "date": "2026-03-25",
     "category": "Marketing",
     "readTime": "10 min",
@@ -220,8 +220,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "voice-search-glasovna-pretraga-uticaj-na-lokalni-seo-statistika-2026",
-    "title": "Voice search i lokalni SEO: kako glasovna pretraga menja nacin na koji kupci vas pronalaze",
-    "excerpt": "Statistike o glasovnoj pretrazi 2025-2026. 76% voice search upita je lokalno, 8.4 milijarde glasovnih asistenata i kako optimizovati za \"blizu mene\".",
+    "title": "Voice search i lokalni SEO: kako glasovna pretraga menja način na koji vas kupci pronalaze",
+    "excerpt": "Statistike o glasovnoj pretrazi 2025-2026: 76% voice search upita je lokalno, 8.4 milijarde glasovnih asistenata i kako optimizovati za upite poput \"blizu mene\".",
     "date": "2026-03-24",
     "category": "Lokalni SEO",
     "readTime": "7 min",
@@ -274,8 +274,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "google-ads-smart-bidding-vs-manual-statistika-2026",
-    "title": "Google Ads Smart Bidding vs rucno: koliko automatizacija zaista poboljšava rezultate",
-    "excerpt": "Statistike o Google Ads Smart Bidding performansama 2025-2026. Target CPA vs Target ROAS, manual vs automated i koliko AI poboljšava konverzije.",
+    "title": "Google Ads Smart Bidding vs ručno: koliko automatizacija zaista poboljšava rezultate",
+    "excerpt": "Statistike o Google Ads Smart Bidding performansama 2025-2026: Target CPA vs Target ROAS, manual vs automated pristup i koliko AI može da poboljša konverzije.",
     "date": "2026-03-24",
     "category": "Google Ads",
     "readTime": "7 min",
@@ -293,7 +293,7 @@ export const blogIndexPosts = [
   {
     "slug": "retargeting-remarketing-statistika-ctr-roas-konverzija-2026",
     "title": "Retargeting i remarketing statistika: CTR, ROAS, konverzija i CPC benchmark podaci za 2025-2026",
-    "excerpt": "Koliki je prosečni CTR retargeting oglasa, koliko košta klik, kakav ROAS ocekivati i koliko retargeting povećava konverziju? Citirani benchmark podaci za 2025-2026 po platformi.",
+    "excerpt": "Koliki je prosečni CTR retargeting oglasa, koliko košta klik, kakav ROAS očekivati i koliko retargeting povećava konverziju? Citirani benchmark podaci za 2025-2026 po platformi.",
     "date": "2026-03-23",
     "category": "Marketing",
     "readTime": "9 min",
@@ -319,7 +319,7 @@ export const blogIndexPosts = [
   },
   {
     "slug": "cena-oglasavanja-na-drustvenim-mrezama-cpc-ctr-roi-po-platformi-2026",
-    "title": "Cena oglasavanja na društvenim mrežama: CPC, CTR i ROI po platformi u 2025-2026",
+    "title": "Cena oglašavanja na društvenim mrežama: CPC, CTR i ROI po platformi u 2025-2026",
     "excerpt": "Koliko košta oglas na Facebooku, Instagramu, LinkedInu i TikToku? Benchmark podaci za CPC, CTR, konverziju i ROAS po platformi sa citiranim izvorima.",
     "date": "2026-03-22",
     "category": "Social Media",
@@ -338,7 +338,7 @@ export const blogIndexPosts = [
   {
     "slug": "koliko-dugacak-treba-da-bude-blog-post-za-seo-statistika-2026",
     "title": "Koliko dugačak treba da bude blog post za SEO: šta podaci zaista pokazuju",
-    "excerpt": "Da li duži blog postovi rangiraju bolje na Google-u? Statistike o dužini sadržaja, prosečnom broju reci na prvoj stranici i kada kratko pobeđuje.",
+    "excerpt": "Da li duži blog postovi rangiraju bolje na Google-u? Statistike o dužini sadržaja, prosečnom broju reči na prvoj stranici i kada kratko pobeđuje.",
     "date": "2026-03-22",
     "category": "SEO",
     "readTime": "7 min",
@@ -382,8 +382,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "uticaj-online-recenzija-na-prodaju-statistika-2026",
-    "title": "Uticaj online recenzija na prodaju: koliko zvezde i komentari zaista menjaju konverziju",
-    "excerpt": "Statistike o uticaju recenzija na odluku o kupovini u 2025-2026. Koliko recenzija treba, zašto 4 zvezdice pobeđuju 5 i kako odgovoriti na negativne.",
+    "title": "Uticaj online recenzija na prodaju: koliko zvezdice i komentari zaista menjaju konverziju",
+    "excerpt": "Statistike o uticaju recenzija na odluku o kupovini u 2025-2026: koliko recenzija treba, zašto 4 zvezdice često pobeđuju 5 i kako odgovoriti na negativne komentare.",
     "date": "2026-03-21",
     "category": "CRO",
     "readTime": "7 min",
@@ -391,8 +391,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "napustanje-korpe-statistika-po-industriji-2026",
-    "title": "Napustanje korpe u e-commerce: statistika po industriji i kako spasiti izgubljene prodaje",
-    "excerpt": "Cart abandonment rate po industriji u 2025-2026. Razlozi zašto 73% kupaca odustaje i koliko prodaja možete spasiti sa 3 email-a.",
+    "title": "Napuštanje korpe u e-commerce-u: statistika po industriji i kako spasiti izgubljene prodaje",
+    "excerpt": "Cart abandonment rate po industriji u 2025-2026: zašto 73% kupaca odustaje i koliko prodaja možete spasiti uz dobar checkout i 3 recovery emaila.",
     "date": "2026-03-21",
     "category": "E-Commerce",
     "readTime": "7 min",
@@ -401,7 +401,7 @@ export const blogIndexPosts = [
   {
     "slug": "video-marketing-roi-kratki-video-reels-tiktok-statistika-2026",
     "title": "Video marketing ROI: zašto kratki video donosi najbolje rezultate u 2026",
-    "excerpt": "Statistike o ROI video marketinga u 2026. Reels, TikTok i YouTube Shorts engagement, konverzije i zašto 93% firmi planira da ulaze više u video.",
+    "excerpt": "Statistike o ROI video marketinga u 2026. Reels, TikTok i YouTube Shorts engagement, konverzije i zašto 93% firmi planira da ulaže više u video.",
     "date": "2026-03-21",
     "category": "Video Marketing",
     "readTime": "7 min",
@@ -418,7 +418,7 @@ export const blogIndexPosts = [
   },
   {
     "slug": "engagement-rate-po-platformi-instagram-tiktok-linkedin-2026",
-    "title": "Engagement rate po platformi 2026: gde vasa publika zaista reaguje",
+    "title": "Engagement rate po platformi 2026: gde vaša publika zaista reaguje",
     "excerpt": "Uporedni podaci o engagement rate-u na Instagramu, TikToku, LinkedIn-u i Facebooku u 2025-2026. Koja platforma donosi najviše interakcija i zašto.",
     "date": "2026-03-21",
     "category": "Social Media",
@@ -445,8 +445,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "koliko-zapravo-zaradjuje-email-marketing-roi-po-industriji-2026",
-    "title": "Koliko zapravo zaradjuje email marketing: ROI po industriji i tipu kampanje",
-    "excerpt": "Koliko novca email marketing donosi po ulozenom evru. ROI benchmarci po industriji, konverzije po tipu emaila i zašto je email i dalje najisplativiji kanal.",
+    "title": "Koliko zapravo zarađuje email marketing: ROI po industriji i tipu kampanje",
+    "excerpt": "Koliko novca email marketing donosi po uloženom evru: ROI benchmarci po industriji, konverzije po tipu emaila i zašto je email i dalje jedan od najisplativijih kanala.",
     "date": "2026-03-21",
     "category": "Marketing",
     "readTime": "8 min",
@@ -463,8 +463,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "kako-brzina-sajta-utice-na-rangiranje-na-googlu-2026",
-    "title": "Kako brzina ucitavanja sajta utiče na rangiranje na Google-u: podaci i statistike",
-    "excerpt": "Konkretne statistike o uticaju brzine sajta na Google rang, konverzije i bounce rate. Koliko vas svaka sekunda kasnjenja košta u prodaji i poziciji.",
+    "title": "Kako brzina učitavanja sajta utiče na rangiranje na Google-u: podaci i statistike",
+    "excerpt": "Konkretne statistike o uticaju brzine sajta na Google rang, konverzije i bounce rate: koliko vas svaka sekunda kašnjenja košta u prodaji i poziciji.",
     "date": "2026-03-21",
     "category": "SEO",
     "readTime": "8 min",
@@ -571,8 +571,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "google-ads-quality-score-vodic-srbija-2026",
-    "title": "Google Ads Quality Score: kako smanjiti cenu klika i poboljsati poziciju oglasa",
-    "excerpt": "Vodič za razumevanje i poboljsanje Google Ads Quality Score-a. Kako 3 faktora odredjuju koliko plaćate po kliku i kako da ih optimizujete.",
+    "title": "Google Ads Quality Score: kako smanjiti cenu klika i poboljšati poziciju oglasa",
+    "excerpt": "Vodič za razumevanje i poboljšanje Google Ads Quality Score-a. Kako 3 faktora određuju koliko plaćate po kliku i kako da ih optimizujete.",
     "date": "2026-03-19",
     "category": "Google Ads",
     "readTime": "8 min",
@@ -643,7 +643,7 @@ export const blogIndexPosts = [
   },
   {
     "slug": "wordpress-bezbednost-vodic-srbija-2026",
-    "title": "WordPress bezbednost u 2026: 10 koraka da zastite sajt od hakera",
+    "title": "WordPress bezbednost u 2026: 10 koraka da zaštite sajt od hakera",
     "excerpt": "Vodič za zaštitu WordPress sajta od hakovanja. 10 praktičnih koraka koje svaki vlasnik sajta u Srbiji može da primeni danas bez tehničkog znanja.",
     "date": "2026-03-19",
     "category": "WordPress",
@@ -752,7 +752,7 @@ export const blogIndexPosts = [
   {
     "slug": "ubrzavanje-wordpress-sajta-tehnicki-seo-srbija-2026",
     "title": "Ubrzavanje WordPress sajta: Vodič za tehnički SEO u 2026. godini",
-    "excerpt": "Spor sajt ubija vas SEO i konverzije. Saznajte kako da ubrzate WordPress sajt u Srbiji: hosting, caching, WebP slike i optimizacija za mobilne uredjaje.",
+    "excerpt": "Spor sajt ubija vaš SEO i konverzije. Saznajte kako da ubrzate WordPress sajt u Srbiji: hosting, caching, WebP slike i optimizacija za mobilne uređaje.",
     "date": "2026-03-18",
     "category": "WordPress SEO",
     "readTime": "8 min",
@@ -823,7 +823,7 @@ export const blogIndexPosts = [
   },
   {
     "slug": "tiktok-reklame-cena-srbija-2026",
-    "title": "TikTok reklame u Srbiji 2026: cene, budžeti i ko treba da se oglasava",
+    "title": "TikTok reklame u Srbiji 2026: cene, budžeti i ko treba da se oglašava",
     "excerpt": "Koliko koštaju TikTok reklame u Srbiji 2026. CPM i CPA benchmarci, minimalni dnevni budžeti i za koje firme ovaj kanal donosi najbolji ROI.",
     "date": "2026-03-18",
     "category": "Video Marketing",
@@ -869,7 +869,7 @@ export const blogIndexPosts = [
   {
     "slug": "social-media-strategija-za-male-firme-srbija-2026",
     "title": "Social media strategija za male firme u Srbiji 2026: koje mreže, koliko često i šta postati",
-    "excerpt": "Praktična social media strategija za male firme u Srbiji 2026. Koje platforme biriti, optimalna ucestalost objava i tipovi sadržaja koji donose rezultate.",
+    "excerpt": "Praktična social media strategija za male firme u Srbiji 2026. Koje platforme biriti, optimalna učestalost objava i tipovi sadržaja koji donose rezultate.",
     "date": "2026-03-17",
     "category": "Social Media",
     "readTime": "9 min",
@@ -923,7 +923,7 @@ export const blogIndexPosts = [
   {
     "slug": "web-dizajn-trendovi-srbija-2026",
     "title": "Web dizajn trendovi u Srbiji 2026: šta zapravo donosi konverzije",
-    "excerpt": "Koji web dizajn trendovi zapravo pomazu srpskim firmama da prodaju više online. Bez floskula o metaverse-u, samo ono sto radi na domacem tržištu.",
+    "excerpt": "Koji web dizajn trendovi zapravo pomažu srpskim firmama da prodaju više online. Bez floskula o metaverse-u, samo ono što radi na domaćem tržištu.",
     "date": "2026-03-17",
     "category": "Web Design",
     "readTime": "7 min",
@@ -932,7 +932,7 @@ export const blogIndexPosts = [
   {
     "slug": "on-page-seo-checklista-srbija-2026",
     "title": "On-page SEO checklista za sajt u Srbiji 2026: 15 koraka koji zapravo menjaju rang",
-    "excerpt": "Kompletna on-page SEO checklista za srpske sajtove u 2026. Bez genericnih saveta — samo koraci koji zaista uticu na Google rang i organski saobraćaj.",
+    "excerpt": "Kompletna on-page SEO checklista za srpske sajtove u 2026. Bez generičnih saveta — samo koraci koji zaista utiču na Google rang i organski saobraćaj.",
     "date": "2026-03-17",
     "category": "SEO",
     "readTime": "9 min",
@@ -1138,8 +1138,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "vodjenje-facebook-ads-kampanja-cena-srbija-2026",
-    "title": "Vođenje Facebook Ads kampanja cena u Srbiji 2026: koliko košta i šta realno dobijas",
-    "excerpt": "Koliko realno košta vođenje Facebook Ads kampanja u Srbiji 2026, koji modeli naplate postoje i kako da procenis da li agencija donosi profit ili samo lep dashboard.",
+    "title": "Vođenje Facebook Ads kampanja cena u Srbiji 2026: koliko košta i šta realno dobijaš",
+    "excerpt": "Koliko realno košta vođenje Facebook Ads kampanja u Srbiji 2026, koji modeli naplate postoje i kako da proceniš da li agencija donosi profit ili samo lep dashboard.",
     "date": "2026-03-15",
     "category": "Facebook Ads",
     "readTime": "10 min",
@@ -1165,8 +1165,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "google-ads-za-krovopokrivace-cena-leada-srbija-2026",
-    "title": "Google Ads za krovopokrivace u Srbiji 2026: cena lead-a, budžet i manje praznih poziva",
-    "excerpt": "Koliko realno koštaju Google Ads kampanje za krovopokrivace u Srbiji 2026, koji budžet ima smisla i kako da spustiš cenu kvalifikovanog upita bez gubljenja na nerelevantne klikove.",
+    "title": "Google Ads za krovopokrivače u Srbiji 2026: cena lead-a, budžet i manje praznih poziva",
+    "excerpt": "Koliko realno koštaju Google Ads kampanje za krovopokrivače u Srbiji 2026, koji budžet ima smisla i kako da spustiš cenu kvalifikovanog upita bez gubljenja na nerelevantne klikove.",
     "date": "2026-03-15",
     "category": "Google Ads",
     "readTime": "10 min",
@@ -1192,7 +1192,7 @@ export const blogIndexPosts = [
   },
   {
     "slug": "google-ads-za-vodoinstalatere-cena-poziva-srbija-2026",
-    "title": "Google Ads za vodoinstalatere u Srbiji 2026: cena poziva, budžet i kako da ne bacas novac",
+    "title": "Google Ads za vodoinstalatere u Srbiji 2026: cena poziva, budžet i kako da ne bacaš novac",
     "excerpt": "Koliko realno košta Google Ads za vodoinstalaterske usluge u Srbiji 2026, koji je zdrav raspon cene poziva i kako da postaviš kampanju koja puni raspored intervencija.",
     "date": "2026-03-15",
     "category": "Google Ads",
@@ -1255,8 +1255,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "google-ads-za-privatne-vrtice-cena-upisa-srbija-2026",
-    "title": "Google Ads za privatne vrtice u Srbiji 2026: cena upisa, budžet i više kvalifikovanih prijava",
-    "excerpt": "Koliko realno koštaju Google Ads kampanje za privatne vrtice u Srbiji 2026, koji budžet ima smisla po sezoni i kako da spustite cenu kvalitetne prijave bez praznih poziva.",
+    "title": "Google Ads za privatne vrtiće u Srbiji 2026: cena upisa, budžet i više kvalifikovanih prijava",
+    "excerpt": "Koliko realno koštaju Google Ads kampanje za privatne vrtiće u Srbiji 2026, koji budžet ima smisla po sezoni i kako da spustite cenu kvalitetne prijave bez praznih poziva.",
     "date": "2026-03-14",
     "category": "Google Ads",
     "readTime": "10 min",
@@ -1264,8 +1264,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "google-ads-za-salone-namestaja-cena-leada-srbija-2026",
-    "title": "Google Ads za salone namestaja u Srbiji 2026: cena lead-a, budžet i više kupaca",
-    "excerpt": "Koliko realno koštaju Google Ads kampanje za salone namestaja u Srbiji 2026, koji budžet ima smisla po fazama i kako da smanjite cenu kvalitetnog upita bez praznih klikova.",
+    "title": "Google Ads za salone nameštaja u Srbiji 2026: cena lead-a, budžet i više kupaca",
+    "excerpt": "Koliko realno koštaju Google Ads kampanje za salone nameštaja u Srbiji 2026, koji budžet ima smisla po fazama i kako da smanjite cenu kvalitetnog upita bez praznih klikova.",
     "date": "2026-03-14",
     "category": "Google Ads",
     "readTime": "10 min",
@@ -1273,8 +1273,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "google-ads-za-skolice-stranih-jezika-cena-upisa-srbija-2026",
-    "title": "Google Ads za skolice stranih jezika u Srbiji 2026: cena upisa, budžet i manje praznih upita",
-    "excerpt": "Koliko realno koštaju Google Ads kampanje za skolice stranih jezika u Srbiji 2026, koji budžet ima smisla po sezoni i kako da spustite cenu kvalitetnog upisa bez praznih prijava.",
+    "title": "Google Ads za školice stranih jezika u Srbiji 2026: cena upisa, budžet i manje praznih upita",
+    "excerpt": "Koliko realno koštaju Google Ads kampanje za školice stranih jezika u Srbiji 2026, koji budžet ima smisla po sezoni i kako da spustite cenu kvalitetnog upisa bez praznih prijava.",
     "date": "2026-03-14",
     "category": "Google Ads",
     "readTime": "10 min",
@@ -1292,7 +1292,7 @@ export const blogIndexPosts = [
   {
     "slug": "google-ads-za-firme-za-selidbe-cena-poziva-srbija-2026",
     "title": "Google Ads za firme za selidbe u Srbiji 2026: cena poziva, budžet i manje izgubljenih upita",
-    "excerpt": "Koliko realno koštaju Google Ads kampanje za firme za selidbe u Srbiji 2026, koji budžet ima smisla po sezoni i kako da spustite cenu kvalitetnog poziva bez praznih voznji.",
+    "excerpt": "Koliko realno koštaju Google Ads kampanje za firme za selidbe u Srbiji 2026, koji budžet ima smisla po sezoni i kako da spustite cenu kvalitetnog poziva bez praznih vožnji.",
     "date": "2026-03-14",
     "category": "Google Ads",
     "readTime": "10 min",
@@ -1309,8 +1309,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "redizajn-wordpress-sajta-cena-srbija-2026",
-    "title": "Redizajn WordPress sajta cena u Srbiji 2026: šta podiže trosak i kako da izbegneš SEO pad",
-    "excerpt": "Koliko realno košta redizajn WordPress sajta u Srbiji 2026, šta najviše podiže cenu i kako da uradis vizuelno osveženje bez pada SEO pozicija i leadova.",
+    "title": "Redizajn WordPress sajta cena u Srbiji 2026: šta podiže trošak i kako da izbegneš SEO pad",
+    "excerpt": "Koliko realno košta redizajn WordPress sajta u Srbiji 2026, šta najviše podiže cenu i kako da uradiš vizuelno osveženje bez pada SEO pozicija i leadova.",
     "date": "2026-03-14",
     "category": "WordPress",
     "readTime": "11 min",
@@ -1345,8 +1345,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "google-ads-za-elektricare-cena-leada-srbija-2026",
-    "title": "Google Ads za elektricare u Srbiji 2026: cena lead-a, budžet i više hitnih intervencija",
-    "excerpt": "Koliko realno koštaju Google Ads kampanje za elektricare u Srbiji 2026, koji budžet ima smisla po fazama i kako da spustite cenu kvalitetnog upita bez praznih poziva.",
+    "title": "Google Ads za električare u Srbiji 2026: cena lead-a, budžet i više hitnih intervencija",
+    "excerpt": "Koliko realno koštaju Google Ads kampanje za električare u Srbiji 2026, koji budžet ima smisla po fazama i kako da spustite cenu kvalitetnog upita bez praznih poziva.",
     "date": "2026-03-14",
     "category": "Google Ads",
     "readTime": "10 min",
@@ -1354,8 +1354,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "google-ads-za-keramicare-cena-leada-srbija-2026",
-    "title": "Google Ads za keramicare u Srbiji 2026: cena lead-a, budžet i više kvalitetnih upita",
-    "excerpt": "Koliko realno koštaju Google Ads kampanje za keramicare u Srbiji 2026, koji budžet ima smisla po fazama i kako da smanjiš cenu kvalitetnog upita bez praznih poziva.",
+    "title": "Google Ads za keramičare u Srbiji 2026: cena lead-a, budžet i više kvalitetnih upita",
+    "excerpt": "Koliko realno koštaju Google Ads kampanje za keramičare u Srbiji 2026, koji budžet ima smisla po fazama i kako da smanjiš cenu kvalitetnog upita bez praznih poziva.",
     "date": "2026-03-14",
     "category": "Google Ads",
     "readTime": "10 min",
@@ -1372,7 +1372,7 @@ export const blogIndexPosts = [
   },
   {
     "slug": "google-ads-za-stolare-cena-leada-srbija-2026",
-    "title": "Google Ads za stolare u Srbiji 2026: cena lead-a, budžet i više upita za namestaj po meri",
+    "title": "Google Ads za stolare u Srbiji 2026: cena lead-a, budžet i više upita za nameštaj po meri",
     "excerpt": "Koliko realno koštaju Google Ads kampanje za stolare u Srbiji 2026, koji budžet ima smisla i kako da spustite cenu kvalitetnog upita bez praznih poziva.",
     "date": "2026-03-13",
     "category": "Google Ads",
@@ -1508,7 +1508,7 @@ export const blogIndexPosts = [
   {
     "slug": "vodjenje-instagram-ads-kampanja-cena-srbija-2026",
     "title": "Vođenje Instagram Ads kampanja cena u Srbiji 2026: šta realno ulazi u mesečni fee",
-    "excerpt": "Koliko košta vođenje Instagram Ads kampanja u Srbiji 2026, koji modeli naplate postoje i kako da procenis da li agencijski fee stvarno donosi bolji CPL i veci profit.",
+    "excerpt": "Koliko košta vođenje Instagram Ads kampanja u Srbiji 2026, koji modeli naplate postoje i kako da proceniš da li agencijski fee stvarno donosi bolji CPL i veći profit.",
     "date": "2026-03-12",
     "category": "Instagram Ads",
     "readTime": "9 min",
@@ -1877,7 +1877,7 @@ export const blogIndexPosts = [
   {
     "slug": "ponuda-koju-niko-ne-moze-da-odbije",
     "title": "Anatomija neodoljive ponude: zašto većina firmi prodaje pogrešno",
-    "excerpt": "Većina firmi se takmici cenom. Firme koje razumeju anatomiju ponude se takmice vrednošću. Evo kako napraviti ponudu koja se ne odbija.",
+    "excerpt": "Većina firmi se takmiči cenom. Firme koje razumeju anatomiju ponude se takmiče vrednošću. Evo kako napraviti ponudu koja se ne odbija.",
     "date": "2026-02-20",
     "category": "Biznis",
     "readTime": "7 min",
@@ -2210,7 +2210,7 @@ export const blogIndexPosts = [
   {
     "slug": "vodjenje-google-ads-kampanja-fee-izbor-partnera-srbija-2026",
     "title": "Vođenje Google Ads kampanja cena u Srbiji 2026: šta ulazi u fee i kako da izabereš partnera",
-    "excerpt": "Koliko realno košta vođenje Google Ads kampanja u Srbiji 2026, kada je fiksni fee bolji od procenta budžeta i kako da procenis da li agencija pravi profit ili samo trosi klikove.",
+    "excerpt": "Koliko realno košta vođenje Google Ads kampanja u Srbiji 2026, kada je fiksni fee bolji od procenta budžeta i kako da proceniš da li agencija pravi profit ili samo troši klikove.",
     "date": "2026-03-12",
     "category": "Google Ads",
     "readTime": "9 min",
@@ -2237,7 +2237,7 @@ export const blogIndexPosts = [
   {
     "slug": "linkedin-reklame-cena-srbija-2026",
     "title": "LinkedIn reklame cena u Srbiji 2026: realni CPL rasponi, budžet i kada se isplate",
-    "excerpt": "Koliko koštaju LinkedIn reklame u Srbiji 2026, koji budžet ima smisla za B2B lead gen i kako da procenis da li kanal donosi pipeline ili samo skupe klikove.",
+    "excerpt": "Koliko koštaju LinkedIn reklame u Srbiji 2026, koji budžet ima smisla za B2B lead gen i kako da proceniš da li kanal donosi pipeline ili samo skupe klikove.",
     "date": "2026-03-14",
     "category": "LinkedIn Ads",
     "readTime": "10 min",
@@ -2489,7 +2489,7 @@ export const blogIndexPosts = [
   {
     "slug": "web-dizajn-statistika-konverzije-poverenje-bounce-rate-ux-2026",
     "title": "Web dizajn statistika 2026: kako izgled sajta utiče na poverenje, konverzije i bounce rate",
-    "excerpt": "94% prvog utiska zavisi od dizajna. 75% korisnika procenjuje kredibilitet firme po sajtu. UX ROI 9,900%, svaka sekunda kasnjenja -7% konverzija. Podaci za 2025-2026.",
+    "excerpt": "94% prvog utiska zavisi od dizajna. 75% korisnika procenjuje kredibilitet firme po sajtu. UX ROI 9,900%, svaka sekunda kašnjenja -7% konverzija. Podaci za 2025-2026.",
     "date": "2026-03-25",
     "category": "Web dizajn",
     "readTime": "11 min",
