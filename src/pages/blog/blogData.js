@@ -1653,7 +1653,7 @@ YouTube i dalje dominira kao video platforma sa nekim impresivnim brojevima:
 - Engagement rate: **4.4% do 7.91%** (najvisi medju short-form platformama)
 - Za male kreatore (ispod 100K pratilaca), Shorts konzistentno donosi jaci doseg nego na drugim platformama
 
-YouTube je jedinstven jer sadržaj ostaje relevantan mesecima i godinama. Blog post koji napisete danas može da donosi saobraćaj godinama. Isto vazi za YouTube video. Za poredjenje sa drugim platformama pogledajte [društvene mreže statistika](/blog/drustvene-mreze-statistika-korisnici-engagement-vreme-ad-spend-2026).
+YouTube je jedinstven jer sadržaj ostaje relevantan mesecima i godinama. Blog post koji napisete danas može da donosi saobraćaj godinama. Isto vazi za YouTube video. Za poređenje sa drugim platformama pogledajte [društvene mreže statistika](/blog/drustvene-mreze-statistika-korisnici-engagement-vreme-ad-spend-2026).
 
 ## TikTok: 96% visi ROAS od ostalih kanala
 
@@ -2182,138 +2182,138 @@ Ako niste sigurni odakle da krenete, [javite nam se](/kontakt) za besplatnu anal
   },
   {
     slug: 'core-web-vitals-page-speed-konverzija-bounce-rate-seo-statistika-2026',
-    title: 'Core Web Vitals i brzina sajta: kako uticu na konverzije, bounce rate i SEO (podaci za 2026)',
-    excerpt: 'Samo 62% mobilnih stranica prolazi LCP test. Kasnjenje od 1 sekunde smanjuje konverzije do 7%. Benchmark podaci za CWV, brzinu i uticaj na rangiranje.',
+    title: 'Core Web Vitals i brzina sajta: kako utiču na konverzije, bounce rate i SEO (podaci za 2026)',
+    excerpt: 'Samo 62% mobilnih stranica prolazi LCP test. Kašnjenje od 1 sekunde smanjuje konverzije do 7%. Benchmark podaci za CWV, brzinu i uticaj na rangiranje.',
     date: '2026-03-25',
     category: 'SEO',
     readTime: '9 min',
     content: `
-## Koliko brzo se ucitava vas sajt?
+## Koliko brzo se učitava vaš sajt?
 
-Ako ne znate odgovor na ovo pitanje, imate problem. Ne zato sto je brzina tehnicka zanimljivost, vec zato sto direktno utice na to koliko posetilaca ce zapravo postati vasi kupci.
+Ako ne znate odgovor na ovo pitanje, imate problem. Ne zato što je brzina tehnička zanimljivost, već zato što direktno utiče na to koliko posetilaca će zapravo postati vaši kupci.
 
-Google je 2021. godine uveo Core Web Vitals kao faktor rangiranja. Od tada, ovi pokazatelji su postali standard za merenje korisnickog iskustva na vebu. U 2026. godini, CWV nisu samo SEO metrika. Oni su indikator koliko ozbiljno shvatate korisnike koji dolaze na vas sajt.
+Google je 2021. godine uveo Core Web Vitals kao faktor rangiranja. Od tada, ovi pokazatelji su postali standard za merenje korisničkog iskustva na vebu. U 2026. godini, CWV nisu samo SEO metrika. Oni su indikator koliko ozbiljno shvatate korisnike koji dolaze na vaš sajt.
 
-## Sta su Core Web Vitals (tri metrike koje morate znati)
+## Šta su Core Web Vitals (tri metrike koje morate znati)
 
-### LCP (Largest Contentful Paint) — brzina ucitavanja
+### LCP (Largest Contentful Paint) — brzina učitavanja
 
-Meri kada se najveci vidljiv element na stranici (obicno glavna slika ili naslov) pojavi na ekranu.
+Meri kada se najveći vidljiv element na stranici (obično glavna slika ili naslov) pojavi na ekranu.
 
 - **Dobar:** ispod 2.5 sekunde
-- **Potrebno poboljsanje:** 2.5 do 4 sekunde
-- **Los:** preko 4 sekunde
+- **Potrebno poboljšanje:** 2.5 do 4 sekunde
+- **Loš:** preko 4 sekunde
 
-Trenutno stanje: samo **62% mobilnih stranica** prolazi LCP test. Ovo je najtezi CWV za optimizaciju jer zavisi od velicine slika, servera, koda i svega sto se ucitava pre glavnog sadrzaja.
+Trenutno stanje: samo **62% mobilnih stranica** prolazi LCP test. Ovo je najteži CWV za optimizaciju jer zavisi od veličine slika, servera, koda i svega što se učitava pre glavnog sadržaja.
 
 ### INP (Interaction to Next Paint) — interaktivnost
 
-Zamenio je stari FID u martu 2024. Meri koliko brzo stranica reaguje na SVE interakcije korisnika (klikovi, tapovi, unos sa tastature), ne samo na prvu.
+Zamenio je stari FID u martu 2024. Meri koliko brzo stranica reaguje na sve interakcije korisnika (klikovi, tapovi, unos sa tastature), ne samo na prvu.
 
 - **Dobar:** ispod 200 milisekundi
-- **Los:** preko 500 milisekundi
+- **Loš:** preko 500 milisekundi
 
-WordPress sajtovi su iznenadujuce dobri ovde: **98% prolazi INP na desktopu** i 88% na mobilnom. Razlog: vecina WordPress tema nema tezak JavaScript koji blokira interakciju.
+WordPress sajtovi su iznenađujuće dobri ovde: **98% prolazi INP na desktopu** i 88% na mobilnom. Razlog: većina WordPress tema nema težak JavaScript koji blokira interakciju.
 
 ### CLS (Cumulative Layout Shift) — vizuelna stabilnost
 
-Meri koliko se sadrzaj "pomera" tokom ucitavanja. Znate onu situaciju kad kliknete dugme, ali se stranica pomeri i kliknete nesto drugo? To je los CLS.
+Meri koliko se sadržaj "pomera" tokom učitavanja. Znate onu situaciju kad kliknete dugme, ali se stranica pomeri i kliknete nešto drugo? To je loš CLS.
 
 - **Dobar:** ispod 0.1
-- **Los:** preko 0.25
+- **Loš:** preko 0.25
 
-Ovo je najlaksi CWV za prolaz: **81% mobilnih stranica** vec ima dobar CLS globalno.
+Ovo je najlakši CWV za prolaz: **81% mobilnih stranica** već ima dobar CLS globalno.
 
-## Kako brzina sajta utice na konverzije
+## Kako brzina sajta utiče na konverzije
 
-Veza izmedju brzine i novca je direktna i izmerena u desetinama studija:
+Veza između brzine i novca je direktna i izmerena u desetinama studija:
 
-- **Kasnjenje od 1 sekunde** u ucitavanju smanjuje konverzije za **4.4% do 7%**
-- E-commerce sajtovi koji optimizuju CWV do "dobar" nivoa beleze **15-30% poboljsanje** u konverzijama
-- Brzi checkout proces znaci manje napustenih korpi
-- Sajt koji se ucitava za **2 sekunde** ima bounce rate od 9%, dok sajt koji se ucitava **5 sekundi** ima bounce rate od 38%
+- **Kašnjenje od 1 sekunde** u učitavanju smanjuje konverzije za **4.4% do 7%**
+- E-commerce sajtovi koji optimizuju CWV do "dobrog" nivoa beleže **15-30% poboljšanje** u konverzijama
+- Brži checkout proces znači manje napuštenih korpi
+- Sajt koji se učitava za **2 sekunde** ima bounce rate od 9%, dok sajt koji se učitava **5 sekundi** ima bounce rate od 38%
 
-Za nase klijente, ovo znaci sledece: mozete imati savrsene oglase na [Google-u](/google-reklame-cena) ili [Instagramu](/instagram-reklame-cena), ali ako vas sajt kasni, vise od trecine placanog saobracaja ce otici pre nego sto vidi vasu ponudu.
+Za naše klijente, ovo znači sledeće: možete imati savršene oglase na [Google-u](/google-reklame-cena) ili [Instagramu](/instagram-reklame-cena), ali ako vaš sajt kasni, više od trećine plaćenog saobraćaja će otići pre nego što vidi vašu ponudu.
 
-## Bounce rate po brzini ucitavanja (benchmark 2026)
+## Bounce rate po brzini učitavanja (benchmark 2026)
 
-Podaci pokazuju jasnu korelaciju izmedju LCP vrednosti i stope napustanja:
+Podaci pokazuju jasnu korelaciju između LCP vrednosti i stope napuštanja:
 
 - **LCP ispod 2 sekunde:** bounce rate 28-35%
 - **LCP 2-4 sekunde:** bounce rate 40-52%
 - **LCP preko 4 sekunde:** bounce rate 55-70%
 
-Kriticna granica: **53% mobilnih korisnika napusta sajt** koji se ucitava duze od 3 sekunde. Na mobilnom, svaka sekunda kasnjenja kosta vise nego na desktopu jer su korisnici manje strpljivi i cesto koriste sporije mreze.
+Kritična granica: **53% mobilnih korisnika napušta sajt** koji se učitava duže od 3 sekunde. Na mobilnom, svaka sekunda kašnjenja košta više nego na desktopu jer su korisnici manje strpljivi i često koriste sporije mreže.
 
-Dobra vest: poboljsanje CWV moze da smanji bounce rate za **do 29%**. To je skoro trecina manje izgubljenih posetilaca bez ikakvog dodatnog ulaganja u oglase.
+Dobra vest: poboljšanje CWV može da smanji bounce rate za **do 29%**. To je skoro trećina manje izgubljenih posetilaca bez ikakvog dodatnog ulaganja u oglase.
 
-## CWV i SEO rangiranje — sta kazu podaci
+## CWV i SEO rangiranje — šta kažu podaci
 
-Core Web Vitals su potvrdjen faktor rangiranja u okviru Google-ovog Page Experience signala. Ali koliko zapravo uticu?
+Core Web Vitals su potvrđen faktor rangiranja u okviru Google-ovog Page Experience signala. Ali koliko zapravo utiču?
 
-- Stranice na **poziciji 1** u Google rezultatima imaju **10% vecu verovatnocu** da prolaze CWV testove u odnosu na stranice na poziciji 9
-- CWV funkcionisu kao "tiebreaker" kada je kvalitet sadrzaja slican izmedju konkurenata
-- Mobilne performanse nose vecu tezinu jer Google koristi mobile-first indeksiranje
-- Preko **60% web saobracaja** dolazi sa mobilnih uredjaja
+- Stranice na **poziciji 1** u Google rezultatima imaju **10% veću verovatnoću** da prolaze CWV testove u odnosu na stranice na poziciji 9
+- CWV funkcionišu kao "tiebreaker" kada je kvalitet sadržaja sličan između konkurenata
+- Mobilne performanse nose veću težinu jer Google koristi mobile-first indeksiranje
+- Preko **60% web saobraćaja** dolazi sa mobilnih uređaja
 
-CWV nece pretvoriti los sadrzaj u prvi rezultat. Ali ce spreciti dobar sadrzaj da dostigne pun potencijal ako su performanse losee. Za detaljniju analizu SEO optimizacije pogledajte [SEO optimizacija cena](/seo-optimizacija-cena).
+CWV neće pretvoriti loš sadržaj u prvi rezultat. Ali će sprečiti dobar sadržaj da dostigne pun potencijal ako su performanse loše. Za detaljniju analizu SEO optimizacije pogledajte [SEO optimizacija cena](/seo-optimizacija-cena).
 
-## Tri metrike koje su najbitnije za vas biznis
+## Tri metrike koje su najbitnije za vaš biznis
 
 ### Ako imate e-commerce sajt
 
-**LCP je prioritet.** Korisnici moraju da vide proizvod brzo. Slike proizvoda su cesto najveci element na stranici i glavni uzrok sporog LCP-a. Optimizujte slike (WebP format, lazy loading, pravilne dimenzije) i brizete brz server.
+**LCP je prioritet.** Korisnici moraju da vide proizvod brzo. Slike proizvoda su često najveći element na stranici i glavni uzrok sporog LCP-a. Optimizujte slike (WebP format, lazy loading, pravilne dimenzije) i birajte brz server.
 
-### Ako imate usluzni sajt
+### Ako imate uslužni sajt
 
-**CLS je prioritet.** Forme za kontakt i pozive na akciju ne smeju da "skacu" dok se stranica ucitava. Korisnik koji promasi dugme "Zakazite termin" jer se layout pomerio je korisnik kojeg ste izgubili. Za savete o dizajnu sajta pogledajte [izradu sajta](/cene-izrade-sajta).
+**CLS je prioritet.** Forme za kontakt i pozive na akciju ne smeju da "skaču" dok se stranica učitava. Korisnik koji promaši dugme "Zakažite termin" jer se layout pomerio je korisnik kojeg ste izgubili. Za savete o dizajnu sajta pogledajte [izradu sajta](/cene-izrade-sajta).
 
 ### Ako imate blog ili content sajt
 
-**INP je prioritet.** Korisnici klikcu na linkove, otvaraju menije, skroluju. Svaka od tih interakcija mora biti brza. Tezak JavaScript (pogotovo od analitike i reklama) je najcesci uzrok loseg INP-a.
+**INP je prioritet.** Korisnici klikću na linkove, otvaraju menije, skroluju. Svaka od tih interakcija mora biti brza. Težak JavaScript (pogotovo od analitike i reklama) je najčešći uzrok lošeg INP-a.
 
-## Kako proveriti vase Core Web Vitals
+## Kako proveriti vaše Core Web Vitals
 
 Pet besplatnih alata:
 
-1. **Google PageSpeed Insights** (pagespeed.web.dev) — najjednostavniji, unos URL-a i dobijete izvestaj
-2. **Google Search Console** — Core Web Vitals izvestaj za ceo sajt baziran na realnim korisnicima
-3. **Lighthouse** (ugradjen u Chrome DevTools) — detaljniji tehnicki izvestaj
-4. **GTmetrix** — vizuelni waterfall prikaz ucitavanja
+1. **Google PageSpeed Insights** (pagespeed.web.dev) — najjednostavniji, unesete URL i dobijete izveštaj
+2. **Google Search Console** — Core Web Vitals izveštaj za ceo sajt baziran na realnim korisnicima
+3. **Lighthouse** (ugrađen u Chrome DevTools) — detaljniji tehnički izveštaj
+4. **GTmetrix** — vizuelni waterfall prikaz učitavanja
 5. **web.dev/measure** — Google-ov alat sa preporukama
 
 Najbitniji izvor su **field data** (podaci od realnih korisnika) u Search Console, ne lab data iz Lighthouse-a. Lab data pokazuje potencijal; field data pokazuje stvarnost.
 
-## Najcesce greske na srpskim sajtovima
+## Najčešće greške na srpskim sajtovima
 
-Na osnovu naseg iskustva sa klijentskim sajtovima u Srbiji, ovo su najcesci problemi:
+Na osnovu našeg iskustva sa klijentskim sajtovima u Srbiji, ovo su najčešći problemi:
 
-**1. Neoptimizovane slike.** JPEG od 3MB za baner koji se prikazuje u 1200px sirine. Resenje: WebP format, pravilne dimenzije, lazy loading za sve slike ispod prvog ekrana.
+**1. Neoptimizovane slike.** JPEG od 3MB za baner koji se prikazuje u 1200px širine. Rešenje: WebP format, pravilne dimenzije, lazy loading za sve slike ispod prvog ekrana.
 
-**2. Spor hosting.** Deljeni hosting sa serverom u Nemackoj za sajt koji cilja publiku u Srbiji. TTFB (Time to First Byte) preko 800ms pre nego sto se ista ucita. Resenje: hosting sa serverom blize ciljanoj publici, CDN za staticke resurse.
+**2. Spor hosting.** Deljeni hosting sa serverom u Nemačkoj za sajt koji cilja publiku u Srbiji. TTFB (Time to First Byte) preko 800ms pre nego što se išta učita. Rešenje: hosting sa serverom bliže ciljanoj publici, CDN za statičke resurse.
 
-**3. Previse pluginova (WordPress).** Prosecni WordPress sajt u Srbiji ima 25-40 pluginova, od kojih se 10+ ucitava na svakoj stranici. Svaki plugin dodaje JavaScript i CSS koji usporavaju ucitavanje. Resenje: audit pluginova, uklanjanje nepotrebnih, odlozeno ucitavanje skripti.
+**3. Previše pluginova (WordPress).** Prosečni WordPress sajt u Srbiji ima 25-40 pluginova, od kojih se 10+ učitava na svakoj stranici. Svaki plugin dodaje JavaScript i CSS koji usporavaju učitavanje. Rešenje: audit pluginova, uklanjanje nepotrebnih, odloženo učitavanje skripti.
 
-**4. Nedostajuce width/height atribute na slikama.** Bez ovih atributa, browser ne zna koliko prostora da rezervise za sliku, sto uzrokuje layout shift (los CLS). Resenje: uvek definisati width i height na img elementima.
+**4. Nedostajući width/height atributi na slikama.** Bez ovih atributa, browser ne zna koliko prostora da rezerviše za sliku, što uzrokuje layout shift (loš CLS). Rešenje: uvek definisati width i height na img elementima.
 
-**5. Trecopartijske skripte bez kontrole.** Google Analytics, Facebook Pixel, chat widgeti, heatmaps — svaki dodaje 50-200ms na ucitavanje. Resenje: ucitavajte ih asinhrono i sa defer atributom.
+**5. Trećepartijske skripte bez kontrole.** Google Analytics, Facebook Pixel, chat widgeti, heatmaps — svaki dodaje 50-200ms na učitavanje. Rešenje: učitavajte ih asinhrono i sa defer atributom.
 
-## Zakljucak: brzina nije luksuz
+## Zaključak: brzina nije luksuz
 
-Core Web Vitals nisu tehnicka zanimljivost za programere. Oni su direktno povezani sa novcem koji zaradjujete (ili gubite) online.
+Core Web Vitals nisu tehnička zanimljivost za programere. Oni su direktno povezani sa novcem koji zarađujete (ili gubite) online.
 
-Sajt koji se ucitava za 2 sekunde umesto 5 ima duplo manji bounce rate, do 30% vise konverzija, i bolju poziciju na Google-u. A optimizacija CWV je jednokratna investicija koja donosi rezultate mesecima i godinama.
+Sajt koji se učitava za 2 sekunde umesto 5 ima duplo manji bounce rate, do 30% više konverzija i bolju poziciju na Google-u. A optimizacija CWV je jednokratna investicija koja donosi rezultate mesecima i godinama.
 
-Ako vas sajt ne prolazi CWV testove, prvi korak je besplatan: otvorite [PageSpeed Insights](https://pagespeed.web.dev/), unesite vas URL i pogledajte rezultat. Ako vam treba pomoc sa optimizacijom, [javite nam se](/kontakt).
+Ako vaš sajt ne prolazi CWV testove, prvi korak je besplatan: otvorite [PageSpeed Insights](https://pagespeed.web.dev/), unesite vaš URL i pogledajte rezultat. Ako vam treba pomoć sa optimizacijom, [javite nam se](/kontakt).
 `,
     schema: {
       "@context": "https://schema.org",
       "@type": "Article",
-      "headline": "Core Web Vitals i brzina sajta: kako uticu na konverzije, bounce rate i SEO (podaci za 2026)",
+      "headline": "Core Web Vitals i brzina sajta: kako utiču na konverzije, bounce rate i SEO (podaci za 2026)",
       "datePublished": "2026-03-25",
       "author": { "@type": "Organization", "name": "Platinum Zenith" },
       "publisher": { "@type": "Organization", "name": "Platinum Zenith", "url": "https://platinumzenith.com" },
-      "description": "Samo 62% mobilnih stranica prolazi LCP test. Kasnjenje od 1 sekunde smanjuje konverzije do 7%. Benchmark podaci za CWV, brzinu i uticaj na rangiranje.",
+      "description": "Samo 62% mobilnih stranica prolazi LCP test. Kašnjenje od 1 sekunde smanjuje konverzije do 7%. Benchmark podaci za CWV, brzinu i uticaj na rangiranje.",
       "mainEntityOfPage": "https://platinumzenith.com/blog/core-web-vitals-page-speed-konverzija-bounce-rate-seo-statistika-2026"
     }
   },
@@ -2391,7 +2391,7 @@ Nisu sve kampanje jednake. Inkrementalni ROI (koliko je oglasavanje zapravo uzro
 - **Video / YouTube:** 2.70x medijana. Potcenjen kanal koji konkurise cenom daleko skupljim formatima
 - **Demand Gen / Discovery:** 2.22x medijana. Dobro za gornji deo funnel-a, ali slabiji direktni povrat
 
-Za poredjenje sa drugim kanalima pogledajte [Google Ads vs Facebook Ads](/blog/google-ads-vs-facebook-ads-koji-je-bolji).
+Za poređenje sa drugim kanalima pogledajte [Google Ads vs Facebook Ads](/blog/google-ads-vs-facebook-ads-koji-je-bolji).
 
 ## Kako izracunati vas break-even ROAS
 
@@ -2455,7 +2455,7 @@ Iskreno: postoje situacije gde Google Ads nije odgovor.
 
 Ako niste sigurni koji kanal je pravi za vas, pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga) ili nas [kontaktirajte direktno](/kontakt) za besplatnu analizu.
 
-## Zakljucak: ROAS je kompas, ne cilj
+## Zaključak: ROAS je kompas, ne cilj
 
 Prosecni Google Ads ROI od 200% zvuci lepo u prezentaciji. Ali vas konkretni ROAS zavisi od vase marze, kvaliteta sajta, konkurencije u vasoj nisi i koliko dobro upravljate kampanjom.
 
@@ -2618,7 +2618,7 @@ Ovo je mozda najvaznija statistika:
 
 Organski lead konvertuje **8.5x bolje** jer je kupac SAM dosao do vas — aktivno je trazio resenje i pronasao vas sadrzaj. Pogledajte [SEO vs PPC uporedna statistika](/blog/seo-vs-ppc-uporedna-statistika-konverzija-cena-roi-2026).
 
-## Dugorocni efekat: content raste, oglasi ne
+## Dugoročni efekat: content raste, oglasi ne
 
 ### Content marketing compound efekat
 
@@ -2639,7 +2639,7 @@ Organski lead konvertuje **8.5x bolje** jer je kupac SAM dosao do vas — aktivn
 
 ### Content marketing je bolji za:
 
-- Firme koje planiraju dugorocno (6+ meseci horizont)
+- Firme koje planiraju dugoročno (6+ meseci horizont)
 - B2B biznise gde je sales cycle dug (kupac istrazuje pre odluke)
 - Industrije sa visokim CPC-om (pravne usluge, finansije, nekretnine)
 - Izgradnju autoriteta i poverenja (kupci vise veruju organskim rezultatima)
@@ -2782,7 +2782,7 @@ Za detaljnu metriku po kanalu pogledajte [Google Ads CPC i CTR benchmark](/blog/
 
 ## LTV:CAC odnos — ključna metrika profitabilnosti
 
-Sam CAC ne znači nista bez konteksta. Firma koja troši $500 po kupcu koji donese $5.000 tokom zivotnog ciklusa je izuzetno profitabilna. Firma koja troši $50 po kupcu koji kupi jednom za $60 — nije.
+Sam CAC ne znači ništa bez konteksta. Firma koja troši $500 po kupcu koji donese $5.000 tokom zivotnog ciklusa je izuzetno profitabilna. Firma koja troši $50 po kupcu koji kupi jednom za $60 — nije.
 
 **Benchmark LTV:CAC odnos:**
 
@@ -2999,11 +2999,11 @@ Za profesionalnu CRO optimizaciju vaseg checkout-a, javite se preko [kontakt for
     content: `
 ## 98% otvorenih poruka — i 90% procitano za 3 minuta
 
-SMS marketing ima **open rate od 90-98%** (Omnisend, SimpleTexting, 2025). Za poredjenje, email prosek je 20-25%. To je razlika koja menja kalkulaciju svakog marketing budzeta.
+SMS marketing ima **open rate od 90-98%** (Omnisend, SimpleTexting, 2025). Za poređenje, email prosek je 20-25%. To je razlika koja menja kalkulaciju svakog marketing budzeta.
 
 A od tih otvorenih poruka, **90% se procita unutar 3 minuta** od prijema. Nije pitanje da li ce korisnik videti poruku — vec da li je sadrzaj dovoljno dobar da ga pokrene na akciju.
 
-Za poredjenje sa email metrikom pogledajte [email marketing open rate i CTR benchmark](/blog/email-marketing-open-rate-ctr-benchmark-po-industriji-2026). Za kompletnu strategiju pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Za poređenje sa email metrikom pogledajte [email marketing open rate i CTR benchmark](/blog/email-marketing-open-rate-ctr-benchmark-po-industriji-2026). Za kompletnu strategiju pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
 ## Click-through rate: 8.9% do 36%
 
@@ -3090,7 +3090,7 @@ Uporedite sa [ROAS po industriji i platformi](/blog/roas-po-industriji-i-platfor
 
 Za uporednu analizu troskova pogledajte [koliko firme trose na marketing](/blog/koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026) i [cenu po leadu po industriji](/blog/cena-po-leadu-po-industriji-benchmark-statistika-2026).
 
-## SMS vs email vs social: direktno poredjenje
+## SMS vs email vs social: direktno poređenje
 
 | Metrika | SMS | Email | Facebook Ads |
 |---|---|---|---|
@@ -4368,7 +4368,7 @@ Jedna objava retko donosi merljive rezultate. Minimum je 3-5 objava tokom 2-4 ne
 
 ### 3) Nema tracking-a
 
-Bez UTM parametara, promo kodova ili affiliate linkova ne mozete znati koliko prodaja je doslo od kog influensera. Uvek koristite merljive alate. Za merenje rezultata pogledajte [kako meriti ROI](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
+Bez UTM parametara, promo kodova ili affiliate linkova ne možete znati koliko prodaja je doslo od kog influensera. Uvek koristite merljive alate. Za merenje rezultata pogledajte [kako meriti ROI](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
 
 ### 4) Previse kontrole nad sadrzajem
 
@@ -4801,7 +4801,7 @@ Ovo su podaci koji razdvajaju lokalni SEO od svakog drugog marketinskog kanala:
 - **88% korisnika** pametnih telefona koji urade lokalnu pretragu poseti ili pozove firmu **u roku od nedelju dana**
 - **78% lokacijski baziranih mobilnih pretraga** rezultira **offline kupovinom**
 
-Za poredjenje: prosecna e-commerce konverzija je 2.5-3%. Email marketing konvertuje 7%. A lokalna pretraga na mobilnom konvertuje **28% u direktnu kupovinu** i **76% u fizicku posetu** za 24 sata.
+Za poređenje: prosecna e-commerce konverzija je 2.5-3%. Email marketing konvertuje 7%. A lokalna pretraga na mobilnom konvertuje **28% u direktnu kupovinu** i **76% u fizicku posetu** za 24 sata.
 
 Nijedan drugi kanal ne isporucuje ovu kombinaciju namere i akcije. Potrosac koji pretrazuje "stomatolog blizu mene" ne istrazuje — on zakazuje termin. Potrosac koji trazi "autoservis u blizini" ne cita blogove — on vozi do prvog rezultata.
 
@@ -4816,7 +4816,7 @@ Google Local Pack (gornja tri rezultata sa mapom) pojavljuje se na **93% pretrag
 - **Position #2:** prima **15.4%** klikova
 - **Position #3:** prima **15.1%** klikova
 
-Za poredjenje sa standardnim organskim rezultatima:
+Za poređenje sa standardnim organskim rezultatima:
 
 - Local Pack rezultati: **44%** klikova
 - Organski rezultati ispod: **29%** klikova
@@ -4869,7 +4869,7 @@ Lokalni SEO ima jedne od najvisih stopa povrata u digitalnom marketingu:
 
 Za firmu koja ulozi 500 evra mesecno u lokalni SEO (optimizacija profila, recenzije, lokalni sadrzaj, citati), povrat od 1.250-2.500 evra mesecno u novim klijentima je realan i dokumentovan benchmark.
 
-Za poredjenje troskova pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Za poređenje troskova pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
 ## AI Overviews menjaju lokalne pretrage
 
@@ -5174,7 +5174,7 @@ Svaki vlasnik firme koji ulaze u marketing postavlja isto pitanje: koliko me kos
 
 Problem je sto vecina firmi nema pojma da li placa previse ili premalo. Bez benchmark podataka, nemoguce je proceniti da li je vas marketing efikasan ili bacate novac.
 
-Za planiranje marketing budzeta pogledajte [koliko firme trose na marketing](/blog/koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026). Za poredjenje Google i Facebook oglasa pogledajte [Google Ads vs Facebook Ads](/blog/google-ads-vs-facebook-ads-koji-je-bolji).
+Za planiranje marketing budzeta pogledajte [koliko firme trose na marketing](/blog/koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026). Za poređenje Google i Facebook oglasa pogledajte [Google Ads vs Facebook Ads](/blog/google-ads-vs-facebook-ads-koji-je-bolji).
 
 ## Google Ads: cena po leadu po industriji (2025)
 
@@ -5220,7 +5220,7 @@ Za cene Facebook oglasa pogledajte [koliko kosta Facebook reklama](/koliko-kosta
 
 Razlika u ceni po leadu izmedju kanala je ogromna. Podaci za 2025:
 
-- **SEO i content marketing:** $31 (najjeftiniji dugorocno)
+- **SEO i content marketing:** $31 (najjeftiniji dugoročno)
 - **Email marketing:** $53
 - **Webinari:** $72
 - **Google Ads:** $70.11 (prosek)
@@ -5990,7 +5990,7 @@ Za profesionalno vodjenje kampanja i optimizaciju CPA, javite se preko [kontakt 
 
 Od svakih 1.000 pretraga na Google-u, samo 374 klika zavrsi na otvorenom webu — ostalo odlazi na Google-ove sopstvene servise (YouTube, Maps) ili korisnik uopste ne klikne nigde. To je podatak iz SparkToro/Datos studije za 2024, a trend se ubrzava u 2026.
 
-Za firme u Srbiji koje ulazu u SEO ili razmisljaju o tome, ovo menja racunicu. Rangiranje na prvoj poziciji vise ne znaci isto sto je znacilo pre tri godine. Ali NE znaci ni da je SEO mrtav — samo da se pravila menjaju.
+Za firme u Srbiji koje ulazu u SEO ili razmisljaju o tome, ovo menja računicu. Rangiranje na prvoj poziciji vise ne znaci isto sto je znacilo pre tri godine. Ali NE znaci ni da je SEO mrtav — samo da se pravila menjaju.
 
 Za pregled koliko kosta profesionalan SEO u Srbiji pogledajte [SEO optimizacija cena](/seo-optimizacija-cena).
 
@@ -6120,7 +6120,7 @@ Email lista, drustvene mreze, YouTube kanal — svaki kanal koji ne zavisi od Go
 
 Sajtovi koji objavljuju originalna istrazivanja, ankete i statistike imaju daleko vece sanse da budu citirani u AI pregledima. Umesto da prepisujete tudje podatke — pravite sopstvene.
 
-## Zakljucak
+## Zaključak
 
 CTR za prvu poziciju na Google-u pao je sa ~28% u 2024. na ~20% u 2025. i nastavlja da opada. AI pregledi smanjuju organski CTR za do 61%, a 60% svih pretraga zavrsi bez ijednog klika.
 
@@ -6628,7 +6628,7 @@ Automatski kompresuje slike pri uploadu i konvertuje u WebP format. Dramticno sm
 
 ### WooCommerce (besplatan)
 
-Jedini ozbiljan e-commerce plugin za WordPress. Pokrece 25% svih online prodavnica na svetu. Za poredjenje sa Shopify pogledajte [WooCommerce vs Shopify](/blog/woocommerce-vs-shopify-srbija-2026).
+Jedini ozbiljan e-commerce plugin za WordPress. Pokrece 25% svih online prodavnica na svetu. Za poređenje sa Shopify pogledajte [WooCommerce vs Shopify](/blog/woocommerce-vs-shopify-srbija-2026).
 
 ### Niwa AI (besplatan + premium)
 
@@ -6683,7 +6683,7 @@ Za profesionalnu WordPress optimizaciju i izbor pluginova, javite se preko [kont
     content: `
 ## Zašto vecina smestajnih objekata u Srbiji ne koristi Google Ads
 
-Booking uzima 15 posto. Airbnb uzima 3 posto od domacina plus 14 posto od gosta. Expedia, Hotels.com, slicna prica. Za objekat sa 50 noćenja mesečno po prosecnoj ceni od 60 evra, to je 450 do 750 evra mesečno u provizijama koje odlaze platformi.
+Booking uzima 15 posto. Airbnb uzima 3 posto od domaćina plus 14 posto od gosta. Expedia, Hotels.com, slicna prica. Za objekat sa 50 noćenja mesečno po prosecnoj ceni od 60 evra, to je 450 do 750 evra mesečno u provizijama koje odlaze platformi.
 
 A vecina vlasnika smatra da je to "cena poslovanja" i da je Google Ads nesto komplikovano, skupo ili namenjeno samo velikim hotelskim lancima.
 
@@ -6713,15 +6713,15 @@ Pre nego sto palimo kampanje, treba razumeti sta gost kuca u Google:
 
 Faza 1 je za content marketing i SEO. Faze 2 i 3 su gde Google Ads donosi direktne rezervacije. Tu gost vec zna sta hoce i spreman je da plati.
 
-## 4 tipa Google Ads kampanja za smestajne objekte
+## 4 tipa Google Ads kampanja za smeštajne objekte
 
 ### 1. Search kampanje za direktne pretrage smestaja
 
 Ovo je temelj. Gost kuca "apartmani Zlatibor cena" i umesto da klikne na Booking rezultat, klikne na vaš oglas koji vodi na vaš sajt sa direktnom rezervacijom.
 
 Ključne reći koje najčešće donose rezervacije:
-- "[tip smestaja] [destinacija]" — hotel Zlatibor, apartmani Sokobanja
-- "[tip smestaja] [destinacija] cena" — vila Tara cena noćenja
+- "[tip smeštaja] [destinacija]" — hotel Zlatibor, apartmani Sokobanja
+- "[tip smeštaja] [destinacija] cena" — vila Tara cena noćenja
 - "smeštaj [destinacija] [period]" — smeštaj Kopaonik nova godina
 - "[destinacija] sobe slobodne" — Vrnjacka Banja sobe slobodne
 
@@ -6792,7 +6792,7 @@ Za detaljniji pregled troskova po kanalu, pogledajte [cene digitalnog marketinga
 
 ## Google Business profil: besplatne rezervacije pored plaćenih
 
-Pre nego sto potrosite prvi evro na Ads, sredite Google Business profil. Za smestajne objekte to znaci:
+Pre nego sto potrosite prvi evro na Ads, sredite Google Business profil. Za smeštajne objekte to znaci:
 
 - **Sve sobe i paketi** kao proizvodi sa cenama
 - **Fotografije** svakog tipa sobe, zajednickih prostora, hrane, okoline (minimum 20)
@@ -6817,7 +6817,7 @@ Kako se meri:
 
 Bez ovoga ne znate koji ključni termin donosi rezervaciju, a koji samo troši budžet. Više o merenju rezultata u [KPI i ROI marketing vodiču](/blog/kako-meriti-roi-marketinga-kpi-vodic).
 
-## Google Ads vs OTA platforme: poredjenje troskova
+## Google Ads vs OTA platforme: poređenje troskova
 
 | | Google Ads | Booking.com | Airbnb |
 |---|---|---|---|
@@ -6855,7 +6855,7 @@ Srednji budžet fokusiran iskljucivo na van-sezonske pakete. Vikend ponude, well
 
 Google Ads za hotele i smeštaj u Srbiji nije zamena za Booking ili Airbnb. To je kanal koji postepeno smanjuje zavisnost od platformi tako sto gradi tok direktnih rezervacija po nizoj ceni nego sto je provizija. Za objekat sa 50+ noćenja mesečno, razlika se meri u stotinama evra mesečno.
 
-Pocnite sa Search kampanjom za 2-3 najjaca ključna termina (tip smestaja + destinacija), pratite koliko kosta svaka rezervacija i uporedite sa Booking provizijom. Ako je jeftinije, pojacajte. Ako nije, optimizujte landing stranicu i kreative pre nego sto odustanete.
+Pocnite sa Search kampanjom za 2-3 najjaca ključna termina (tip smeštaja + destinacija), pratite koliko kosta svaka rezervacija i uporedite sa Booking provizijom. Ako je jeftinije, pojacajte. Ako nije, optimizujte landing stranicu i kreative pre nego sto odustanete.
 
 Za celokupnu strategiju digitalnog marketinga za smeštaj pogledajte [marketing za hotele i smeštaj](/marketing-za-hotele-i-smestaj). Ako zelite analizu da li Google Ads ima smisla za vaš objekat, javite se preko [kontakt forme](/kontakt).
 `,
@@ -8318,18 +8318,18 @@ Za pomoc sa pricing strategijom i marketing planom, javite se preko [kontakt for
   {
     slug: 'google-analytics-4-vodic-za-pocetnike-srbija-2026',
     title: 'Google Analytics 4 vodič za početnike u Srbiji 2026: šta pratiti i kako',
-    excerpt: 'Kako koristiti Google Analytics 4 za male firme u Srbiji. Instalacija, ključni izvestaji, konverzije i kako razumeti odakle dolaze kupci.',
+    excerpt: 'Kako koristiti Google Analytics 4 za male firme u Srbiji. Instalacija, ključni izveštaji, konverzije i kako razumeti odakle dolaze kupci.',
     date: '2026-03-19',
     category: 'Marketing',
     readTime: '8 min',
     content: `
-## Zasto je GA4 obavezan za svaki biznis koji ima sajt
+## Zašto je GA4 obavezan za svaki biznis koji ima sajt
 
-Google Analytics 4 (GA4) vam govori ko dolazi na vas sajt, odakle dolazi, sta radi i da li kupuje. Bez njega, ulazete u marketing naslepo -- ne znate koji kanal donosi kupce, koja stranica ih gubi i gde bacate novac.
+Google Analytics 4 (GA4) vam govori ko dolazi na vaš sajt, odakle dolazi, šta radi i da li kupuje. Bez njega, ulažete u marketing naslepo — ne znate koji kanal donosi kupce, koja stranica ih gubi i gde bacate novac.
 
-Vecina srpskih firmi ili nema GA4 instaliran ili ga ima ali nikad ne gleda. Ovo je kao da vozite auto sa zatvorenim ocima i nadate se da cete stici na odrediste.
+Većina srpskih firmi ili nema GA4 instaliran ili ga ima, ali ga nikad ne gleda. Ovo je kao da vozite auto sa zatvorenim očima i nadate se da ćete stići na odredište.
 
-Za SEO stranu analitike pogledajte [Google Search Console vodic](/blog/google-search-console-vodic-za-pocetnike-srbija-2026). Za pregled marketing troskova pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Za SEO stranu analitike pogledajte [Google Search Console vodič](/blog/google-search-console-vodic-za-pocetnike-srbija-2026). Za pregled marketing troškova pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
 ## Kako instalirati GA4 na WordPress sajt
 
@@ -8339,54 +8339,54 @@ Idite na analytics.google.com, ulogujte se i kliknite "Create Property". Unesite
 
 ### Korak 2: Dobijte Measurement ID
 
-Posle kreiranja property-ja, idite na Data Streams > Web > dodajte vas sajt. Dobicete Measurement ID koji pocinje sa "G-" (npr. G-ABC123XYZ).
+Posle kreiranja property-ja, idite na Data Streams > Web > dodajte vaš sajt. Dobićete Measurement ID koji počinje sa "G-" (npr. G-ABC123XYZ).
 
 ### Korak 3: Instalirajte na sajt
 
-**Najlaksi nacin (WordPress):** Instalirajte plugin "Site Kit by Google" (besplatan, zvanican Google plugin). Poveze GA4 sa jednim klikom.
+**Najlakši način (WordPress):** Instalirajte plugin "Site Kit by Google" (besplatan, zvaničan Google plugin). Poveže GA4 sa jednim klikom.
 
 **Alternativa:** Kopirajte GA4 tag u header sajta (Salient tema > Header Scripts, ili koristite "Insert Headers and Footers" plugin).
 
-## 5 Izvestaja koje svaki vlasnik firme mora da prati
+## 5 izveštaja koje svaki vlasnik firme mora da prati
 
 ### 1) Acquisition Overview (Odakle dolaze posetioci)
 
-Ovo je najvazniji izvestaj. Pokazuje koji kanal dovodi posetioce:
-- **Organic Search** -- Google pretraga (besplatan saobracaj)
-- **Paid Search** -- Google Ads klikovi
-- **Social** -- Facebook, Instagram, LinkedIn
-- **Direct** -- direktno ukucali URL
-- **Referral** -- linkovi sa drugih sajtova
+Ovo je najvažniji izveštaj. Pokazuje koji kanal dovodi posetioce:
+- **Organic Search** — Google pretraga (besplatan saobraćaj)
+- **Paid Search** — Google Ads klikovi
+- **Social** — Facebook, Instagram, LinkedIn
+- **Direct** — direktno ukucali URL
+- **Referral** — linkovi sa drugih sajtova
 
-Ako 80% saobracaja dolazi sa jednog kanala, imate rizik. Diversifikujte.
+Ako 80% saobraćaja dolazi sa jednog kanala, imate rizik. Diverzifikujte.
 
 ### 2) Pages and Screens (Koje stranice gledaju)
 
-Pokazuje koje stranice dobijaju najvise pregleda. Ako vas blog dobija 5x vise saobracaja od stranice usluga, to znaci da imate dobar sadrzaj ali slabo povezivanje sa prodajnim stranicama. Dodajte CTA linkove iz blogova ka uslugama.
+Pokazuje koje stranice dobijaju najviše pregleda. Ako vaš blog dobija 5x više saobraćaja od stranice usluga, to znači da imate dobar sadržaj, ali slabo povezivanje sa prodajnim stranicama. Dodajte CTA linkove iz blogova ka uslugama.
 
 ### 3) Conversions (Konverzije)
 
-GA4 prati "Events" umesto "Goals". Postavite kljucne konverzije:
-- Popunjena kontakt forma
-- Klik na "Pozovi" dugme
-- Zavrsena kupovina (za e-commerce)
-- Preuzimanje PDF-a ili kataloga
+GA4 prati "Events" umesto "Goals". Postavite ključne konverzije:
+- popunjena kontakt forma
+- klik na "Pozovi" dugme
+- završena kupovina (za e-commerce)
+- preuzimanje PDF-a ili kataloga
 
-Bez postavljenih konverzija, GA4 je samo brojac poseta -- ne govori vam nista o prodaji.
+Bez postavljenih konverzija, GA4 je samo brojač poseta — ne govori vam ništa o prodaji.
 
-### 4) User Demographics (Ko su vasi posetioci)
+### 4) User Demographics (Ko su vaši posetioci)
 
-Starost, pol, lokacija, uredjaj (telefon vs desktop). Ako 75% saobracaja dolazi sa telefona a sajt nije mobilno optimizovan -- tu gubite prodaje. Za mobilnu optimizaciju pogledajte [mobilni dizajn vodic](/blog/mobilni-dizajn-sajta-srbija-2026).
+Starost, pol, lokacija, uređaj (telefon vs desktop). Ako 75% saobraćaja dolazi sa telefona, a sajt nije mobilno optimizovan — tu gubite prodaje. Za mobilnu optimizaciju pogledajte [mobilni dizajn vodič](/blog/mobilni-dizajn-sajta-srbija-2026).
 
 ### 5) Engagement (Angažovanost)
 
-GA4 uvodi "Engaged Sessions" -- sesije gde je korisnik proveo 10+ sekundi, pogledao 2+ stranice ili izvrsio konverziju. Engagement rate je korisniji od bounce rate-a jer pokazuje da li ljudi zaista citaju vas sadrzaj.
+GA4 uvodi "Engaged Sessions" — sesije gde je korisnik proveo 10+ sekundi, pogledao 2+ stranice ili izvršio konverziju. Engagement rate je korisniji od bounce rate-a jer pokazuje da li ljudi zaista čitaju vaš sadržaj.
 
 ## Kako postaviti konverzije u GA4
 
 ### Za kontakt formu
 
-Koristite Contact Form 7 ili WPForms Events integration. Kad neko popuni formu, GA4 belezi event "generate_lead". Oznacite taj event kao konverziju u GA4 > Admin > Conversions.
+Koristite Contact Form 7 ili WPForms Events integration. Kad neko popuni formu, GA4 beleži event "generate_lead". Označite taj event kao konverziju u GA4 > Admin > Conversions.
 
 ### Za e-commerce
 
@@ -8394,25 +8394,25 @@ WooCommerce + GA4 integracija (kroz Site Kit ili "WooCommerce Google Analytics" 
 
 ### Za pozive
 
-Ako imate "Pozovi" dugme na sajtu, dodajte event tracking na klik. Ili koristite Google Tag Manager za laksu implementaciju.
+Ako imate "Pozovi" dugme na sajtu, dodajte event tracking na klik. Ili koristite Google Tag Manager za lakšu implementaciju.
 
-## Najcesce greske pri koriscenju GA4
+## Najčešće greške pri korišćenju GA4
 
 ### 1) Gledanje samo ukupnih poseta
-"Imali smo 5.000 poseta ovog meseca" ne znaci nista ako ne znate koliko je konvertovalo. Fokusirajte se na konverzije po kanalu, ne na ukupne brojke.
+"Imali smo 5.000 poseta ovog meseca" ne znači ništa ako ne znate koliko je konvertovalo. Fokusirajte se na konverzije po kanalu, ne na ukupne brojke.
 
 ### 2) Ignorisanje mobilnih korisnika
-Ako je mobilni bounce rate duplo veci od desktop-a, imate problem sa mobilnim iskustvom. GA4 > Tech > Platform/Device Breakdown ce vam to pokazati.
+Ako je mobilni bounce rate duplo veći od desktop-a, imate problem sa mobilnim iskustvom. GA4 > Tech > Platform/Device Breakdown će vam to pokazati.
 
-### 3) Nefiltriranje internog saobracaja
-Ako vi i vas tim svakodnevno posecujete sajt, to iskrivljuje podatke. Filtrirajte interne IP adrese u GA4 > Admin > Data Streams > Configure Tag Settings > Define internal traffic.
+### 3) Nefiltriranje internog saobraćaja
+Ako vi i vaš tim svakodnevno posećujete sajt, to iskrivljuje podatke. Filtrirajte interne IP adrese u GA4 > Admin > Data Streams > Configure Tag Settings > Define internal traffic.
 
-### 4) Ocekivanje instant podataka
-GA4 ima do 48h kasnjenja za neke izvestaje. Ne panicite ako danas ne vidite jucerasnje podatke.
+### 4) Očekivanje instant podataka
+GA4 ima do 48h kašnjenja za neke izveštaje. Ne paničite ako danas ne vidite jučerašnje podatke.
 
 Za kompletnu metodologiju merenja marketing rezultata pogledajte [kako meriti ROI digitalnog marketinga](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
 
-Za pomoc sa postavljanjem GA4 i interpretacijom podataka, javite se preko [kontakt forme](/kontakt).
+Za pomoć sa postavljanjem GA4 i interpretacijom podataka, javite se preko [kontakt forme](/kontakt).
 `
   },
   {
@@ -9064,86 +9064,86 @@ Za pomoc sa Instagram Shopping setup-om i kampanjama, javite se preko [kontakt f
     category: 'SEO',
     readTime: '8 min',
     content: `
-## Zasto je Google Search Console obavezan alat za svaki sajt
+## Zašto je Google Search Console obavezan alat za svaki sajt
 
-Google Search Console (GSC) je besplatan alat koji vam pokazuje kako Google vidi vas sajt. Bez njega, optimizujete SEO naslepo -- ne znate za koje upite se pojavljujete, koliko klikova dobijate, niti da li Google uopste moze da procita vase stranice.
+Google Search Console (GSC) je besplatan alat koji vam pokazuje kako Google vidi vaš sajt. Bez njega, optimizujete SEO naslepo — ne znate za koje upite se pojavljujete, koliko klikova dobijate, niti da li Google uopšte može da pročita vaše stranice.
 
-Vecina vlasnika sajtova u Srbiji ili nema instaliran GSC ili ga ima ali nikad ne otvara. To je kao da imate radnju i nikad ne pogledate koliko ljudi ulazi i koliko kupuje.
+Većina vlasnika sajtova u Srbiji ili nema instaliran GSC ili ga ima, ali ga nikad ne otvara. To je kao da imate radnju i nikad ne pogledate koliko ljudi ulazi i koliko kupuje.
 
-Za siru sliku SEO troskova pogledajte [SEO optimizacija cena](/seo-optimizacija-cena).
+Za širu sliku SEO troškova pogledajte [SEO optimizacija cena](/seo-optimizacija-cena).
 
 ## Kako registrovati sajt u Google Search Console
 
 ### Korak 1: Idite na search.google.com/search-console
 
-Ulogujte se sa Google nalogom koji zelite da koristite za upravljanje sajtom.
+Ulogujte se sa Google nalogom koji želite da koristite za upravljanje sajtom.
 
 ### Korak 2: Dodajte property
 
 GSC nudi dva tipa:
-- **Domain property** (preporuceno): Pokriva sve varijante vaseg domena (www i bez www, http i https). Verifikacija zahteva DNS zapis.
-- **URL prefix property:** Pokriva samo jednu varijantu (npr. samo https://example.com). Verifikacija je laksa (HTML tag ili fajl).
+- **Domain property** (preporučeno): Pokriva sve varijante vašeg domena (www i bez www, http i https). Verifikacija zahteva DNS zapis.
+- **URL prefix property:** Pokriva samo jednu varijantu (npr. samo https://example.com). Verifikacija je lakša (HTML tag ili fajl).
 
-Za vecinu sajtova, **Domain property** je bolji izbor jer pokriva sve varijante.
+Za većinu sajtova, **Domain property** je bolji izbor jer pokriva sve varijante.
 
-### Korak 3: Verifikujte vlasnistvo
+### Korak 3: Verifikujte vlasništvo
 
-Za Domain property: dodajte TXT zapis koji GSC generise u DNS podesavanja vaseg domena (Hostinger, GoDaddy, itd.). Verifikacija traje od 5 minuta do 24 sata.
+Za Domain property: dodajte TXT zapis koji GSC generiše u DNS podešavanja vašeg domena (Hostinger, GoDaddy itd.). Verifikacija traje od 5 minuta do 24 sata.
 
 Za URL prefix: stavite HTML tag u head sekciju sajta ili uploadujte HTML fajl u root folder.
 
-### Korak 4: Sacekajte podatke
+### Korak 4: Sačekajte podatke
 
-GSC pocinje da prikuplja podatke od momenta verifikacije. Trebace vam 3-7 dana da dobijete dovoljno podataka za analizu.
+GSC počinje da prikuplja podatke od momenta verifikacije. Trebaće vam 3-7 dana da dobijete dovoljno podataka za analizu.
 
-## 5 Najvaznijih izvestaja u Google Search Console
+## 5 najvažnijih izveštaja u Google Search Console
 
-### 1) Performance (Ucinak)
+### 1) Performance (Učinak)
 
-Ovo je najvazniji izvestaj. Pokazuje:
-- **Total clicks** -- koliko ljudi je kliknulo na vas sajt iz Google pretrage
-- **Total impressions** -- koliko puta se vas sajt pojavio u rezultatima
-- **Average CTR** (Click Through Rate) -- procenat ljudi koji su kliknuli nakon sto su videli vas rezultat
-- **Average position** -- prosecna pozicija u rezultatima pretrage
+Ovo je najvažniji izveštaj. Pokazuje:
+- **Total clicks** — koliko ljudi je kliknulo na vaš sajt iz Google pretrage
+- **Total impressions** — koliko puta se vaš sajt pojavio u rezultatima
+- **Average CTR** (Click Through Rate) — procenat ljudi koji su kliknuli nakon što su videli vaš rezultat
+- **Average position** — prosečna pozicija u rezultatima pretrage
 
-**Najkorisnija funkcija:** Filtrirajte po "Queries" da vidite za koje kljucne reci se pojavljujete. Ovo vam govori tacno sta ljudi kucaju u Google kad nadju vas sajt.
+**Najkorisnija funkcija:** Filtrirajte po "Queries" da vidite za koje ključne reči se pojavljujete. Ovo vam govori tačno šta ljudi kucaju u Google kad nađu vaš sajt.
 
 ### 2) Coverage / Pages (Indeksiranje)
 
-Pokazuje koliko stranica je Google indeksirao i da li ima gresaka. Crvene greske znace da Google ne moze da procita neku stranicu -- sto znaci da ta stranica ne postoji u pretrazivacim rezultatima.
+Pokazuje koliko stranica je Google indeksirao i da li ima grešaka. Crvene greške znače da Google ne može da pročita neku stranicu — što znači da ta stranica ne postoji u pretraživačkim rezultatima.
 
-Najcesci problemi:
-- **404 greske** -- stranica ne postoji (obrisana ili promenjen URL)
-- **Redirected** -- stranica preusmerava na drugu lokaciju
-- **Crawled, not indexed** -- Google je procitao stranicu ali odlucio da je ne ukljuci u rezultate (los sadrzaj, duplikat, ili thin content)
+Najčešći problemi:
+- **404 greške** — stranica ne postoji (obrisana ili promenjen URL)
+- **Redirected** — stranica preusmerava na drugu lokaciju
+- **Crawled, not indexed** — Google je pročitao stranicu, ali odlučio da je ne uključi u rezultate (loš sadržaj, duplikat ili thin content)
 
 ### 3) Sitemaps
 
-Ovde submitujete sitemap.xml vaseg sajta. Sitemap govori Google-u koje stranice postoje i koliko su vazne.
+Ovde submitujete sitemap.xml vašeg sajta. Sitemap govori Google-u koje stranice postoje i koliko su važne.
 
-Ako koristite WordPress, sitemap se automatski generise na vasajt.com/sitemap.xml. Samo kopirajte taj URL i submitujte ga u GSC.
+Ako koristite WordPress, sitemap se automatski generiše na vasajt.com/sitemap.xml. Samo kopirajte taj URL i submitujte ga u GSC.
 
 ### 4) Core Web Vitals
 
-Pokazuje performanse sajta po Google-ovim standardima (brzina, stabilnost, interaktivnost). Ako su rezultati losi, to direktno utice na rangiranje. Za detalje o ubrzavanju sajta pogledajte [WordPress tehnicki SEO vodic](/blog/ubrzavanje-wordpress-sajta-tehnicki-seo-srbija-2026).
+Pokazuje performanse sajta po Google-ovim standardima (brzina, stabilnost, interaktivnost). Ako su rezultati loši, to direktno utiče na rangiranje. Za detalje o ubrzavanju sajta pogledajte [WordPress tehnički SEO vodič](/blog/ubrzavanje-wordpress-sajta-tehnicki-seo-srbija-2026).
 
 ### 5) Links
 
-Pokazuje koji sajtovi linkuju ka vasem (backlinks) i kako su vase interne stranice povezane. Korisno za razumevanje autoriteta sajta i otkrivanje potencijalno stetnih linkova.
+Pokazuje koji sajtovi linkuju ka vašem (backlinks) i kako su vaše interne stranice povezane. Korisno za razumevanje autoriteta sajta i otkrivanje potencijalno štetnih linkova.
 
-## Kako koristiti GSC podatke za poboljsanje SEO-a
+## Kako koristiti GSC podatke za poboljšanje SEO-a
 
-### Strategija 1: Pronadjite "low-hanging fruit" kljucne reci
+### Strategija 1: Pronađite "low-hanging fruit" ključne reči
 
-Filtrirajte Performance izvestaj po poziciji 5-20. Ovo su kljucne reci gde se pojavljujete na drugoj stranici Google-a ili pri dnu prve. Mala poboljsanja (bolji naslov, vise sadrzaja, interni linkovi) mogu ih podici na prvu stranicu.
+Filtrirajte Performance izveštaj po poziciji 5-20. Ovo su ključne reči gde se pojavljujete na drugoj stranici Google-a ili pri dnu prve. Mala poboljšanja (bolji naslov, više sadržaja, interni linkovi) mogu ih podići na prvu stranicu.
 
-### Strategija 2: Poboljsajte CTR za postojece pozicije
+### Strategija 2: Poboljšajte CTR za postojeće pozicije
 
-Ako imate kljucnu rec na poziciji 3 ali CTR je samo 2%, problem je u naslovu ili meta opisu. Prepisuite title tag i meta description da budu privlacniji. Zdrav CTR za poziciju 3 je 8-12%.
+Ako imate ključnu reč na poziciji 3, ali CTR je samo 2%, problem je u naslovu ili meta opisu. Prepišite title tag i meta description da budu privlačniji. Zdrav CTR za poziciju 3 je 8-12%.
 
-### Strategija 3: Popravite greske u indeksiranju
+### Strategija 3: Popravite greške u indeksiranju
 
-Idite na Coverage izvestaj i popravite sve crvene greske. Svaka ispravljena greska znaci da Google moze da indeksira jos jednu stranicu -- sto je jos jedna sansa da vas neko nadje.
+Idite na Coverage izveštaj i popravite sve crvene greške. Svaka ispravljena greška znači da Google može da indeksira još jednu stranicu — što je još jedna šansa da vas neko nađe.
 
 Za kompletnu checklistu pogledajte [on-page SEO checklistu](/blog/on-page-seo-checklista-srbija-2026).
 
@@ -9151,21 +9151,21 @@ Za kompletnu checklistu pogledajte [on-page SEO checklistu](/blog/on-page-seo-ch
 
 Kad napravite promenu na sajtu (novi blog post, promenjen naslov, dodat structured data), GSC vam pokazuje efekat za 2-4 nedelje. Koristite "Compare" opciju da uporedite performanse pre i posle promene.
 
-## Najcesce greske pri koriscenju GSC
+## Najčešće greške pri korišćenju GSC-a
 
 ### 1) Gledanje samo ukupnih brojki
-"Imamo 10.000 impressions" ne znaci nista ako ne znate za koje upite. Uvek analizirajte po kljucnim recima i po stranicama.
+"Imamo 10.000 impressions" ne znači ništa ako ne znate za koje upite. Uvek analizirajte po ključnim rečima i po stranicama.
 
 ### 2) Ignorisanje "Crawled, not indexed" stranica
-Ove stranice Google smatra nedovoljno kvalitetnim. Ili ih poboljsajte (dodajte sadrzaj, unique content) ili ih obrisite/redirect-ujte.
+Ove stranice Google smatra nedovoljno kvalitetnim. Ili ih poboljšajte (dodajte sadržaj, unique content) ili ih obrišite/redirect-ujte.
 
 ### 3) Nesubmitovanje sitemap-a
-Bez sitemap-a, Google mora sam da otkriva vase stranice. Sitemap ubrzava indeksiranje novih stranica za 50-80%.
+Bez sitemap-a, Google mora sam da otkriva vaše stranice. Sitemap ubrzava indeksiranje novih stranica za 50-80%.
 
 ### 4) Panika zbog dnevnih fluktuacija
-Rangiranje varira iz dana u dan. Gledajte trendove na mesecnom nivou, ne dnevne skokove i padove.
+Rangiranje varira iz dana u dan. Gledajte trendove na mesečnom nivou, ne dnevne skokove i padove.
 
-Za pomoc sa SEO strategijom i interpretacijom GSC podataka, javite se preko [kontakt forme](/kontakt). Pogledajte i [kako meriti ROI digitalnog marketinga](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026) za kompletnu sliku.
+Za pomoć sa SEO strategijom i interpretacijom GSC podataka, javite se preko [kontakt forme](/kontakt). Pogledajte i [kako meriti ROI digitalnog marketinga](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026) za kompletnu sliku.
 `
   },
   {
@@ -9407,7 +9407,7 @@ Google je ugasio Optimize u 2023. Za srpske firme u 2026, najbolja besplatna kom
 
 **Microsoft Clarity** -- snima ponasanje korisnika (heatmape, snimci sesija, scroll mape). Potpuno besplatan, bez limita na saobracaj. Instalira se za 5 minuta.
 
-**GA4 (Google Analytics 4)** -- prati konverzije i omogucava poredjenje performansi razlicitih URL-ova. U kombinaciji sa UTM parametrima, mozete pratiti A/B testove bez placenog alata.
+**GA4 (Google Analytics 4)** -- prati konverzije i omogucava poređenje performansi razlicitih URL-ova. U kombinaciji sa UTM parametrima, mozete pratiti A/B testove bez placenog alata.
 
 ### Za firme sa budzetom
 
@@ -9477,90 +9477,90 @@ Za profesionalnu CRO strategiju i A/B testing program, javite se preko [kontakt 
   {
     slug: 'google-business-profile-optimizacija-srbija-2026',
     title: 'Google Business Profile optimizacija u Srbiji 2026: kompletna checklista',
-    excerpt: 'Kako optimizovati Google Business profil za lokalni biznis u Srbiji 2026. Checklista sa 15 koraka za vece prisustvo na Google Mapi i više poziva.',
+    excerpt: 'Kako optimizovati Google Business profil za lokalni biznis u Srbiji 2026. Checklista sa 15 koraka za veće prisustvo na Google mapi i više poziva.',
     date: '2026-03-18',
     category: 'Lokalni SEO',
     readTime: '8 min',
     content: `
-## Zasto je Google Business Profile najvazniji besplatni alat za lokalni biznis
+## Zašto je Google Business Profile najvažniji besplatan alat za lokalni biznis
 
-Kada neko u Srbiji kuca "frizerski salon blizu mene" ili "autoservis Novi Sad", Google prikazuje tri rezultata na mapi -- takozvani "Local Pack". Firme u tom Local Pack-u dobijaju 44% svih klikova. Firme ispod mape dobijaju mrvice.
+Kada neko u Srbiji kuca "frizerski salon blizu mene" ili "autoservis Novi Sad", Google prikazuje tri rezultata na mapi — takozvani "Local Pack". Firme u tom Local Pack-u dobijaju 44% svih klikova. Firme ispod mape dobijaju mrvice.
 
-Vas Google Business Profile (GBP, ranije poznat kao Google My Business) odredjuje da li cete biti u ta tri mesta ili ce vas konkurent zauzeti vasu poziciju. I za razliku od Google Ads-a, GBP je potpuno besplatan.
+Vaš Google Business Profile (GBP, ranije poznat kao Google My Business) određuje da li ćete biti u ta tri mesta ili će vaš konkurent zauzeti vašu poziciju. I za razliku od Google Ads-a, GBP je potpuno besplatan.
 
-Za siru sliku lokalnog SEO-a pogledajte [SEO optimizacija cena](/seo-optimizacija-cena).
+Za širu sliku lokalnog SEO-a pogledajte [SEO optimizacija cena](/seo-optimizacija-cena).
 
 ## 15 koraka za kompletnu GBP optimizaciju
 
-### 1) Proverite vlasnistvo nad profilom
+### 1) Proverite vlasništvo nad profilom
 
-Pre svega, budite sigurni da ste vi vlasnik vaseg GBP profila. Mnoge firme u Srbiji imaju profile koje je Google automatski kreirao (ili ih je kreirao bivsi zaposleni/agencija). Idite na google.com/business i provjerite pristup.
+Pre svega, budite sigurni da ste vi vlasnik vašeg GBP profila. Mnoge firme u Srbiji imaju profile koje je Google automatski kreirao (ili ih je kreirao bivši zaposleni/agencija). Idite na google.com/business i proverite pristup.
 
 ### 2) Izaberite primarne i sekundarne kategorije
 
-Primarna kategorija je najvazniji faktor za rangiranje na mapi. Ako ste stomatolog, primarna kategorija mora biti "Zubar" (Dentist), ne "Medicinski centar". Dodajte 2-3 sekundarne kategorije koje precizno opisuju vase usluge (npr. "Oralni hirurg", "Kozmeticka stomatologija").
+Primarna kategorija je najvažniji faktor za rangiranje na mapi. Ako ste stomatolog, primarna kategorija mora biti "Zubar" (Dentist), ne "Medicinski centar". Dodajte 2-3 sekundarne kategorije koje precizno opisuju vaše usluge (npr. "Oralni hirurg", "Kozmetička stomatologija").
 
-### 3) Napisite optimizovan opis firme (750 karaktera)
+### 3) Napišite optimizovan opis firme (750 karaktera)
 
-Google vam daje 750 karaktera za opis. Iskoristite ih sve. Stavite najvaznije kljucne reci u prvu recenicu. Ne kopirajte opis sa sajta -- napisite jedinstven tekst koji ukljucuje grad, usluge i ono po cemu se razlikujete od konkurencije.
+Google vam daje 750 karaktera za opis. Iskoristite ih sve. Stavite najvažnije ključne reči u prvu rečenicu. Ne kopirajte opis sa sajta — napišite jedinstven tekst koji uključuje grad, usluge i ono po čemu se razlikujete od konkurencije.
 
 ### 4) Dodajte sve usluge sa opisima
 
-GBP ima sekciju "Usluge" gde mozete nabrojati svaku uslugu sa kratkim opisom i cenom. Vecina srpskih firmi ovo ne popunjava. Svaka usluga koju dodate je nova kljucna rec po kojoj vas Google moze prikazati.
+GBP ima sekciju "Usluge" gde možete nabrojati svaku uslugu sa kratkim opisom i cenom. Većina srpskih firmi ovo ne popunjava. Svaka usluga koju dodate je nova ključna reč po kojoj vas Google može prikazati.
 
 ### 5) Postavite profesionalne fotografije
 
-Profili sa vise od 100 fotografija dobijaju 520% vise poziva od profila bez fotografija (Google-ov podatak). Dodajte: fotografiju fasade (spolja), enterijera, tima, proizvoda/usluga u akciji. Svaku nedelju dodajte bar 2-3 nove fotografije.
+Profili sa više od 100 fotografija dobijaju 520% više poziva od profila bez fotografija (Google-ov podatak). Dodajte: fotografiju fasade (spolja), enterijera, tima, proizvoda/usluga u akciji. Svake nedelje dodajte bar 2-3 nove fotografije.
 
-### 6) Popunite radno vreme (ukljucujuci praznike)
+### 6) Popunite radno vreme (uključujući praznike)
 
-Netacno radno vreme je jedan od najcescih razloga za negativne recenzije ("Dosao sam a zatvoreno je"). Azurirajte radno vreme za sve drzavne praznike unapred.
+Netačno radno vreme je jedan od najčešćih razloga za negativne recenzije ("Došao sam, a zatvoreno je"). Ažurirajte radno vreme za sve državne praznike unapred.
 
 ### 7) Dodajte posebne atribute
 
-GBP nudi atribute specificne za vasu industriju: "Besplatan WiFi", "Pristupacno za invalidska kolica", "Parking dostupan", "Prihvata kartice". Svaki atribut poboljsava vidljivost za relevantne pretrage.
+GBP nudi atribute specifične za vašu industriju: "Besplatan WiFi", "Pristupačno za invalidska kolica", "Parking dostupan", "Prihvata kartice". Svaki atribut poboljšava vidljivost za relevantne pretrage.
 
 ### 8) Aktivirajte Messaging (poruke)
 
-GBP Messaging omogucava klijentima da vam posalju poruku direktno iz Google pretrage. Firme koje imaju aktivno dopisivanje dobijaju 2x vise upita. Odgovarajte u roku od sat vremena.
+GBP Messaging omogućava klijentima da vam pošalju poruku direktno iz Google pretrage. Firme koje imaju aktivno dopisivanje dobijaju 2x više upita. Odgovarajte u roku od sat vremena.
 
-### 9) Objavite GBP postove (nedeljno)
+### 9) Objavljujte GBP postove (nedeljno)
 
-Malo ko u Srbiji koristi GBP postove, a oni direktno uticu na rangiranje. Objavite: ponude, novosti, dogadjaje, novi proizvod. Jedan post nedeljno je minimum. Post traje 7 dana pre nego sto istekne.
+Malo ko u Srbiji koristi GBP postove, a oni direktno utiču na rangiranje. Objavljujte: ponude, novosti, događaje, novi proizvod. Jedan post nedeljno je minimum. Post traje 7 dana pre nego što istekne.
 
 ### 10) Kreirajte Q&A sekciju sami
 
-Ne cekajte da klijenti postavljaju pitanja. Sami postavite 10-15 najcescih pitanja i odgovorite na njih. Ovo se prikazuje u vasem profilu i ubrzava odluku potencijalnih klijenata.
+Ne čekajte da klijenti postavljaju pitanja. Sami postavite 10-15 najčešćih pitanja i odgovorite na njih. Ovo se prikazuje u vašem profilu i ubrzava odluku potencijalnih klijenata.
 
 ### 11) Skupljajte recenzije sistematski
 
-Recenzije su drugi najvazniji faktor za rangiranje (posle kategorije). Kreirajte link za recenziju i salajte ga svakom klijentu posle zavrsetka usluge. Cilj: minimum 5 novih recenzija mesecno.
+Recenzije su drugi najvažniji faktor za rangiranje (posle kategorije). Kreirajte link za recenziju i šaljite ga svakom klijentu posle završetka usluge. Cilj: minimum 5 novih recenzija mesečno.
 
-### 12) Odgovarajte na SVAKU recenziju
+### 12) Odgovarajte na svaku recenziju
 
-Google nagradjuje profile koji odgovaraju na recenzije. I na pozitivne i na negativne. Za negativne, koristite pristup koji smo opisali u nasem [vodicu za upravljanje reputacijom](/blog/upravljanje-reputacijom-drustvene-mreze-srbija-2026).
+Google nagrađuje profile koji odgovaraju na recenzije. I na pozitivne i na negativne. Za negativne, koristite pristup koji smo opisali u našem [vodiču za upravljanje reputacijom](/blog/upravljanje-reputacijom-drustvene-mreze-srbija-2026).
 
-### 13) Dodajte proizvode/meni
+### 13) Dodajte proizvode / meni
 
-Ako imate e-commerce ili restoran, dodajte proizvode ili meni direktno u GBP. Ovo se prikazuje u vasem profilu i povecava vreme provedeno na vasem listingu.
+Ako imate e-commerce ili restoran, dodajte proizvode ili meni direktno u GBP. Ovo se prikazuje u vašem profilu i povećava vreme provedeno na vašem listingu.
 
-### 14) Koristite UTM parametre za pracenje
+### 14) Koristite UTM parametre za praćenje
 
-Dodajte UTM parametre na link vaseg sajta u GBP-u kako biste u Google Analytics-u videli koliko saobracaja dolazi sa GBP profila. Za merenje rezultata procitajte [kako meriti ROI digitalnog marketinga](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
+Dodajte UTM parametre na link vašeg sajta u GBP-u kako biste u Google Analytics-u videli koliko saobraćaja dolazi sa GBP profila. Za merenje rezultata pročitajte [kako meriti ROI digitalnog marketinga](/blog/kako-meriti-roi-digitalnog-marketinga-srbija-2026).
 
 ### 15) Proverite NAP konzistentnost
 
-NAP = Name, Address, Phone. Ime firme, adresa i telefon moraju biti IDENTIENI na GBP profilu, vasem sajtu, Facebooku, Yellow Pages, i svim direktorijumima. Svaka nekonzistentnost zbunjuje Google i smanjuje rangiranje.
+NAP = Name, Address, Phone. Ime firme, adresa i telefon moraju biti identični na GBP profilu, vašem sajtu, Facebooku, Yellow Pages-u i svim direktorijumima. Svaka nekonzistentnost zbunjuje Google i smanjuje rangiranje.
 
-## Najcesce greske na GBP profilima u Srbiji
+## Najčešće greške na GBP profilima u Srbiji
 
-- **Nema fotografija** -- profil bez slika deluje kao napustena firma
-- **Netacna kategorija** -- "Kompanija" umesto specificne kategorije
-- **Nema odgovora na recenzije** -- signal Google-u da vlasnik ne brine o korisnicima  
-- **Staro radno vreme** -- posebno tokom praznika
-- **Keyword stuffing u imenu firme** -- dodavanje kljucnih reci u ime firme je protiv Google-ovih pravila i moze dovesti do suspenzije profila
+- **Nema fotografija** — profil bez slika deluje kao napuštena firma
+- **Netačna kategorija** — "Kompanija" umesto specifične kategorije
+- **Nema odgovora na recenzije** — signal Google-u da vlasnik ne brine o korisnicima
+- **Staro radno vreme** — posebno tokom praznika
+- **Keyword stuffing u imenu firme** — dodavanje ključnih reči u ime firme je protiv Google-ovih pravila i može dovesti do suspenzije profila
 
-Za profesionalnu optimizaciju GBP profila i kompletnu lokalnu SEO strategiju, javite se preko [kontakt forme](/kontakt). Pogledajte i nase lokalne stranice za [marketing u Beogradu](/marketing-agencija-beograd), [Novom Sadu](/marketing-agencija-novi-sad) ili [Nisu](/marketing-agencija-nis).
+Za profesionalnu optimizaciju GBP profila i kompletnu lokalnu SEO strategiju, javite se preko [kontakt forme](/kontakt). Pogledajte i naše lokalne stranice za [marketing u Beogradu](/marketing-agencija-beograd), [Novom Sadu](/marketing-agencija-novi-sad) ili [Nišu](/marketing-agencija-nis).
 `
   },
   {
@@ -9571,7 +9571,7 @@ Za profesionalnu optimizaciju GBP profila i kompletnu lokalnu SEO strategiju, ja
     category: 'WordPress',
     readTime: '9 min',
     content: `
-## Zasto ovo poredjenje izgleda drugacije u Srbiji nego u ostatku sveta
+## Zasto ovo poređenje izgleda drugacije u Srbiji nego u ostatku sveta
 
 Vecina clanaka o WooCommerce vs Shopify na engleskom jeziku pretpostavlja da imate pristup Shopify Payments, Apple Pay, Shop Pay i celom Shopify ekosistemu. U Srbiji 2026, situacija je drugacija.
 
@@ -9579,7 +9579,7 @@ Shopify Payments nije dostupan u Srbiji. To znaci da morate koristiti third-part
 
 Za sire informacije o pokretanju online prodavnice, pogledajte nas [vodic za e-commerce u Srbiji](/blog/kako-pokrenuti-online-prodavnicu-srbija-2026).
 
-## Troskovi: Realno poredjenje za srpsko trziste
+## Troskovi: Realno poređenje za srpsko trziste
 
 ### WooCommerce (WordPress)
 - **Hosting:** 50-300 EUR/godisnje (Hostinger, SiteGround)
@@ -10117,7 +10117,7 @@ Za detaljnu procenu povrata investicije po kanalu, koristite metode opisane u na
 Ovo je kljucna odluka u fazi rasta. 
 Ako vam je marketing budzet ispod 1.000 EUR mesecno, verovatno cete morati da radite sami (ili uz pomoc freelance konsultanta). 
 Kada predjete tu cifru, vreme je za strucnu pomoc. Angazovanje full-stack agencije kosta isto kao jedan junior zaposleni (koji tek treba da uci), a dobijate ceo tim eksperata (dizajner, copywriter, media buyer, SEO strucnjak). 
-Vise o ovoj dilemi procitajte u analizi [In-house vs Agencija](/in-house-tim-vs-agencija).
+Vise o ovoj dilemi pročitajte u analizi [In-house vs Agencija](/in-house-tim-vs-agencija).
 
 Ako vasem biznisu treba jasna, profitabilna marketing strategija zasnovana na podacima, javite se preko [kontakt forme](/kontakt) -- poslacemo vam predlog plana.
 `
@@ -10724,7 +10724,7 @@ Remarketing zahteva manji budzet od cold kampanja jer je publika manja:
 
 Kljucno pravilo: remarketing budzet treba biti 15-25% ukupnog ad spend-a. Ostatak ide na acquisition (hladnu publiku).
 
-Za poredjenje sa Google Ads pogledaj [Google reklame cena](/google-reklame-cena).
+Za poređenje sa Google Ads pogledaj [Google reklame cena](/google-reklame-cena).
 
 ## Kreativa za remarketing: sta radi
 
@@ -11518,7 +11518,7 @@ Pitajte konkretno: sta ce se desiti sa mojim nalozima, kampanjama i pristupima a
 
 Agencija koja radi "sve" retko radi nesto odlicno. Trazite agenciju koja ima jasnu specijalizaciju: performance marketing (Google/Meta Ads), SEO, content marketing, ili web development. Ako vam treba vise kanala, bolje je imati jednu agenciju za performance i drugu za branding nego jednu koja radi oboje prosecno.
 
-Za poredjenje izmedju internog tima i agencije pogledajte [in-house tim vs agencija](/in-house-tim-vs-agencija).
+Za poređenje izmedju internog tima i agencije pogledajte [in-house tim vs agencija](/in-house-tim-vs-agencija).
 
 ## Brza checklista pre potpisivanja
 
@@ -11912,7 +11912,7 @@ Za profesionalni pristup merenju i optimizaciji marketinga, pogledajte [cene dig
     content: `
 ## SEO za privatne vrtice u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **seo za privatni vrtic cena**, realan raspon za srpsko trziste u 2026. najcesce izgleda ovako:
+Ako tražiš upit **seo za privatni vrtic cena**, realan raspon za srpsko trziste u 2026. najcesce izgleda ovako:
 
 - **Starter lokalni SEO (GBP + osnovna optimizacija):** 200e-400e mesecno.
 - **Growth paket (GBP + sajt + sadrzaj + lokalni linkovi):** 400e-800e mesecno.
@@ -11934,7 +11934,7 @@ Treca specificnost je poverenje. Roditelji poveravaju najvrednije sto imaju. Saj
 Kompletan profil sa svim programima (celodnevni, poludnevni, jaslice, predskolski), profesionalne fotografije prostora i aktivnosti, radno vreme sa informacijom o produzenom boravku. Roditelji prvo gledaju Google mapu kad traze vrtic u kraju, pa je GBP profil cesto vazniji od samog sajta.
 
 ### Geo-optimizovane stranice
-Stranica za svaki program: "jaslice [grad]", "predskolski program [grad]", "celodnevni boravak [grad/opstina]". Ako imate vise lokacija ili pokrivate vise opstina, svaka zasluzuje sopstvenu stranicu sa specificnim informacijama.
+Stranica za svaki program: "jaslice [grad]", "predskolski program [grad]", "celodnevni boravak [grad/opstina]". Ako imate vise lokacija ili pokrivate vise opstina, svaka zaslužuje sopstvenu stranicu sa specificnim informacijama.
 
 ### Sadrzaj koji roditelji zapravo pretrazuju
 Blog postovi o temama koje roditelje interesuju pre upisa: "kako pripremiti dete za vrtic", "razlika izmedju privatnog i drzavnog vrtica", "kako prepoznati dobar vrtic", "adaptacija u vrticu saveti". Ovaj sadrzaj hvata roditelje u fazi istrazivanja i dovodi ih na vas sajt pre nego sto su doneli odluku.
@@ -11958,17 +11958,17 @@ Sajt prikazuje cene od prosle godine ili programe koji vise ne postoje. Roditelj
 
 ## Koliko vremena treba za rezultate
 
-Za lokalni SEO privatnog vrtica: prvi pomaci na Google mapi za 4-6 nedelja (uz aktivan rad na GBP-u i recenzijama). Organski saobracaj sa sajta krece da raste za 2-4 meseca za lokalne termine (manja konkurencija nego u zdravstvu ili pravu).
+Za lokalni SEO privatnog vrtica: prvi pomaci na Google mapi za 4-6 nedelja (uz aktivan rad na GBP-u i recenzijama). Organski saobraćaj sa sajta krece da raste za 2-4 meseca za lokalne termine (manja konkurencija nego u zdravstvu ili pravu).
 
 Kriticno je krenuti minimum 4 meseca pre perioda upisa. Ako je septembar cilj, SEO mora da krene u aprilu-maju najkasnije.
 
 ## Plan za prvih 90 dana
 
 - **Mesec 1:** GBP kompletna optimizacija, sistem za recenzije, on-page optimizacija sa stranicama za svaki program i lokaciju.
-- **Mesec 2:** Kreiranje 6-8 blog postova (priprema za vrtic, adaptacija, poredjenje privatni vs drzavni), registracija na roditeljske portale i direktorijume.
+- **Mesec 2:** Kreiranje 6-8 blog postova (priprema za vrtic, adaptacija, poređenje privatni vs drzavni), registracija na roditeljske portale i direktorijume.
 - **Mesec 3:** Analiza rezultata iz Search Console, geo-stranice za okolne opstine, prvi izvestaj o organskom rastu.
 
-Za poredjenje sa placenim kanalima pogledajte [Google Ads za privatne vrtice](/blog/google-ads-za-privatne-vrtice-cena-upisa-srbija-2026) i [Instagram reklame za vrtice](/blog/instagram-reklame-za-privatne-vrtice-cena-upisa-srbija-2026). Za kompletnu strategiju posetite [marketing za privatne vrtice](/marketing-za-privatne-vrtice).
+Za poređenje sa plaćenim kanalima pogledajte [Google Ads za privatne vrtice](/blog/google-ads-za-privatne-vrtice-cena-upisa-srbija-2026) i [Instagram reklame za vrtice](/blog/instagram-reklame-za-privatne-vrtice-cena-upisa-srbija-2026). Za kompletnu strategiju posetite [marketing za privatne vrtice](/marketing-za-privatne-vrtice).
 
 Ako zelite da procenimo kako vas vrtic trenutno stoji na Google-u, javite se preko [kontakt forme](/kontakt) za besplatnu analizu.
 `
@@ -12005,7 +12005,7 @@ Treca specificnost je da je lokalna komponenta presudna. Pacijent neće putovati
 Kompletan profil sa svim specijalizacijama i uslugama, profesionalne fotografije ordinacija i opreme, radno vreme sa hitnim prijemom ako postoji, redovni GBP postovi o novim uslugama ili opremi. Odgovaranje na svaku recenziju je obavezno jer pacijenti citaju odgovore pre zakazivanja.
 
 ### Stranice za svaku uslugu i specijalizaciju
-Svaka usluga zasluzuje posebnu stranicu: ginekologija, kardiologija, dermatologija, laboratorija, ultrazvuk. Stranica mora da ima jasnu cenu (ili cenovni raspon), opis procedure, ocekivano trajanje i CTA za zakazivanje. "Ultrazvuk abdomena [grad] cena" je mnogo laksi za rangiranje nego genericki "privatna klinika".
+Svaka usluga zaslužuje posebnu stranicu: ginekologija, kardiologija, dermatologija, laboratorija, ultrazvuk. Stranica mora da ima jasnu cenu (ili cenovni raspon), opis procedure, ocekivano trajanje i CTA za zakazivanje. "Ultrazvuk abdomena [grad] cena" je mnogo laksi za rangiranje nego genericki "privatna klinika".
 
 ### Medicinski sadržaj sa E-E-A-T signalima
 Blog postovi koje potpisuje lekar sa klinike sa jasnim biografijama i referencama. Sadržaj tipa "kad ici kod kardiologa", "priprema za kolonoskopiju" ili "razlika između MR i CT snimanja" privlači pacijente u fazi istraživanja i gradi autoritet klinike.
@@ -12015,7 +12015,7 @@ Automatski sistem posle zavrsetka pregleda sa linkom na Google recenziju. Klinik
 
 ## Koliko vremena treba da se vide rezultati
 
-Za lokalni SEO privatne klinike: prvi pomaci na Google mapi za 4-8 nedelja (uz aktivan rad na GBP-u i recenzijama). Organski saobracaj sa sajta krece da raste za 3-6 meseci za manje konkurentne specijalizacije, i 6-12 meseci za visoko konkurentne termine.
+Za lokalni SEO privatne klinike: prvi pomaci na Google mapi za 4-8 nedelja (uz aktivan rad na GBP-u i recenzijama). Organski saobraćaj sa sajta krece da raste za 3-6 meseci za manje konkurentne specijalizacije, i 6-12 meseci za visoko konkurentne termine.
 
 Kljucna prednost SEO-a u odnosu na oglase: kad ugasite Google Ads, saobracaj stane istog dana. Organski saobracaj nastavlja da raste i posle prestanka aktivnog rada.
 
@@ -12056,7 +12056,7 @@ Ako zelite da procenimo kako vasa klinika trenutno stoji na Google-u i koliko no
     content: `
 ## Instagram reklame za privatne klinike u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **instagram reklame za privatne klinike cena**, realni okvir za srpsko trziste u 2026 najcesce izgleda ovako:
+Ako tražiš upit **instagram reklame za privatne klinike cena**, realni okvir za srpsko trziste u 2026 najcesce izgleda ovako:
 
 - **Mikro budzet (testiranje jedne specijalizacije):** 200e-400e mesecno (ad spend) + 200e-350e fee za vodjenje.
 - **Standardni budzet (2-3 specijalizacije, stabilan priliv):** 500e-1.200e mesecno (ad spend) + 350e-600e fee.
@@ -12072,7 +12072,7 @@ Kada nekom zatreba specijalisticki pregled, laboratorija ili dijagnostika, ta od
 
 Druga specificnost je regulativa. Zdravstveni marketing ima ogranicenja oko tvrdnji, prikaza rezultata i nacina komunikacije. Instagram kampanja za kliniku mora da postuje ta pravila, a opet bude dovoljno konkretna da pokrene zakazivanje.
 
-Za poredjenje sa search kanalom pogledaj [Google Ads za privatne klinike](/blog/google-ads-za-privatne-klinike-cena-leada-srbija-2026).
+Za poređenje sa search kanalom pogledaj [Google Ads za privatne klinike](/blog/google-ads-za-privatne-klinike-cena-leada-srbija-2026).
 
 ## Koji tip sadrzaja radi za privatne klinike na Instagramu
 
@@ -12173,7 +12173,7 @@ Ako vam CPL prelazi gornju granicu posle 8 nedelja, problem je najcesce u kreati
 | Brzina rezultata | 4-8 nedelja za stabilan CPL | 2-4 nedelje za prve lead-ove |
 | Vizuelnost | Kljucna prednost (tim, oprema, edukacija) | Tekst oglasi, manje vizuelno |
 | CPL raspon | 5e-80e (zavisi od specijalizacije) | 8e-60e (zavisi od specijalizacije) |
-| Dugorocni efekat | Gradi prepoznatljivost i poverenje | Prestaje kad prestane budzet |
+| Dugoročni efekat | Gradi prepoznatljivost i poverenje | Prestaje kad prestane budzet |
 | Najbolje za | Preventivne preglede, estetiku, branding | Hitne preglede, dijagnostiku, specifican upit |
 
 Najbolji rezultat je kombinacija oba kanala: Google Ads za ljude koji vec traze, Instagram za gradnju baze potencijalnih pacijenata pre nego sto im zatreba.
@@ -12191,7 +12191,7 @@ Za detaljniji pregled cena i strategija, pogledaj [cene digitalnog marketinga](/
 
 ## FAQ: Instagram reklame za privatne klinike
 
-**Koliko brzo mogu da ocekujem prve pacijente sa Instagrama?**
+**Koliko brzo mogu da očekujem prve pacijente sa Instagrama?**
 Prva zakazivanja obicno stizu u drugoj ili trecoj nedelji kampanje, ali stabilan i predvidiv priliv zahteva 6-10 nedelja optimizacije kreativa, ciljanja i landing stranica.
 
 **Da li Instagram radi za sve specijalizacije?**
@@ -12211,76 +12211,76 @@ Ako zelite da procenimo potencijal Instagram kampanja za vasu kliniku, javite se
     category: 'Marketing',
     readTime: '8 min',
     content: `
-## Google Ads za racunovodje u Srbiji 2026: kratak odgovor
+## Google Ads za računovođe u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **google ads za racunovodje cena**, realan okvir za srpsko trziste u 2026. najcesce izgleda ovako:
+Ako tražiš upit **google ads za računovođe cena**, realan okvir za srpsko tržište u 2026. najčešće izgleda ovako:
 
-- **Mikro budzet (testiranje):** 200e-400e mesecno (ad spend) + 200e-350e fee za vodjenje.
-- **Standardni budzet (stabilni upiti):** 400e-900e mesecno (ad spend) + 300e-500e fee.
-- **Rast budzet (vise lokacija ili specijalizovane usluge):** 900e-2.000e+ (ad spend) + 500e-800e fee.
+- **Mikro budžet (testiranje):** 200e-400e mesečno (ad spend) + 200e-350e fee za vođenje.
+- **Standardni budžet (stabilni upiti):** 400e-900e mesečno (ad spend) + 300e-500e fee.
+- **Rast budžet (više lokacija ili specijalizovane usluge):** 900e-2.000e+ (ad spend) + 500e-800e fee.
 
-Za siri kontekst troskova pogledaj i [Google reklame cena](/google-reklame-cena).
+Za širi kontekst troškova pogledaj i [Google reklame cena](/google-reklame-cena).
 
-## Zasto Google Ads radi drugacije za racunovodje nego za vecinu biznisa
+## Zašto Google Ads radi drugacije za računovođe nego za vecinu biznisa
 
-Knjigovodstvene usluge su B2B biznis sa visokim lifetime value-om klijenta. Jedna firma koja postane vas klijent placa mesecnu naknadu godinama. To znaci da mozete sebi priustiti veci CPA (cenu po akviziciji) nego sto bi mogao e-commerce sa jednokratnom prodajom.
+Knjigovodstvene usluge su B2B biznis sa visokim lifetime value-om klijenta. Jedna firma koja postane vas klijent placa mesecnu naknadu godinama. To znači da mozete sebi priuštiti veci CPA (cenu po akviziciji) nego što bi mogao e-commerce sa jednokratnom prodajom.
 
-Druga specificnost je da su pretrage veoma jasne po nameri. Ko kuca "knjigovodstvena agencija Beograd" ili "racunovodja za doo cena" vec ima firmu i trazi saradnika. Nema mnogo "radoznalih" klikova kao na Instagramu. Skoro svaki klik je od nekoga ko aktivno trazi uslugu.
+Druga specifičnost je da su pretrage veoma jasne po nameri. Ko kuca "knjigovodstvena agencija Beograd" ili "računovođa za doo cena" već ima firmu i traži saradnika. Nema mnogo "radoznalih" klikova kao na Instagramu. Skoro svaki klik je od nekoga ko aktivno traži uslugu.
 
-Zato je Google Search za racunovodje jedan od najcistijih demand capture kanala. Problem je sto konkurencija to takodje zna, pa su CPC-jevi za kljucne pojmove umereno visoki.
+Zato je Google Search za računovođe jedan od najčistijih demand capture kanala. Problem je što konkurencija to takođe zna, pa su CPC-jevi za ključne pojmove umereno visoki.
 
-## Struktura kampanje koja najcesce radi za knjigovodstvene agencije
+## Struktura kampanje koja najčešće radi za knjigovodstvene agencije
 
 ### Kampanja 1: Brand Search (zastita brenda)
 
-Ako vas neko trazi po imenu firme, morate biti prvi rezultat. Konkurenti cesto licitiraju na vase ime. Brand kampanja kosta minimalno (CPC ispod 0.10e) ali stiti vas od gubitka klijenata koji vas vec poznaju.
+Ako vas neko traži po imenu firme, morate biti prvi rezultat. Konkurenti često licitiraju na vaše ime. Brand kampanja košta minimalno (CPC ispod 0.10e) ali štiti vas od gubitka klijenata koji vas već poznaju.
 
 ### Kampanja 2: High-intent Search (core usluge)
 
-Kljucne reci: "knjigovodstvena agencija [grad]", "racunovodja za preduzetnika", "vodjenje poslovnih knjiga cena", "PDV prijava racunovodja".
+Ključne reči: "knjigovodstvena agencija [grad]", "računovođa za preduzetnika", "vođenje poslovnih knjiga cena", "PDV prijava računovođa".
 
-Ovo su upiti sa najjacim komercijalnim intentom. Svaki klik je od nekoga ko aktivno trazi uslugu. CPC je visi (0.50e-2.00e) ali kvalitet lead-ova je izuzetan.
+Ovo su upiti sa najjačim komercijalnim intentom. Svaki klik je od nekoga ko aktivno traži uslugu. CPC je visi (0.50e-2.00e) ali kvalitet lead-ova je izuzetan.
 
 ### Kampanja 3: Problem-based Search (specifični problemi)
 
-Kljucne reci: "kasnjenje PDV prijave kazna", "kako otvoriti doo u Srbiji", "poreske olaksice za IT firme".
+Ključne reči: "kasnjenje PDV prijave kazna", "kako otvoriti doo u Srbiji", "poreske olakšice za IT firme".
 
-Ovi upiti pokazuju da neko ima konkretan problem koji racunovodja resava. CPC je nizi jer konkurencija obicno ne cilja ove termine. Lead kvalitet je dobar jer je osoba u aktivnoj fazi resavanja problema.
+Ovi upiti pokazuju da neko ima konkretan problem koji računovođa rešava. CPC je niži jer konkurencija obično ne cilja ove termine. Lead kvalitet je dobar jer je osoba u aktivnoj fazi resavanja problema.
 
-## Najcesce greske koje knjigovodstvene agencije prave na Google Ads
+## Najčešće greške koje knjigovodstvene agencije prave na Google Ads
 
-### 1) Ciljaju previse siroke termine
-"Racunovodstvo" kao kljucna rec privlaci studente, ljude koji traze posao i radoznale. "Knjigovodstvena agencija za doo Novi Sad" privlaci ljude koji su spremni da plate. Razlika u kvalitetu je ogromna.
+### 1) Ciljaju previše siroke termine
+"Računovodstvo" kao ključna reč privlači studente, ljude koji traže posao i radoznale. "Knjigovodstvena agencija za doo Novi Sad" privlači ljude koji su spremni da plate. Razlika u kvalitetu je ogromna.
 
 ### 2) Landing stranica je homepage umesto specijalizovane ponude
-Oglas kaze "Vodjenje knjiga za preduzetnike" a klik vodi na genericki sajt sa svim uslugama. Landing stranica mora da se poklapa sa obecanem iz oglasa. Posebna stranica za preduzetnike, posebna za doo, posebna za pausalce.
+Oglas kaže "Vođenje knjiga za preduzetnike" a klik vodi na genericki sajt sa svim uslugama. Landing stranica mora da se poklapa sa obećanjem iz oglasa. Posebna stranica za preduzetnike, posebna za doo, posebna za pausalce.
 
-### 3) Ne prate sta se desava posle klika
-Bez conversion tracking-a ne znate koji keyword donosi klijente, a koji samo trosi budzet. Racunovodja koji ne prati konverzije optimizuje kampanju naslcpo.
+### 3) Ne prate šta se dešava posle klika
+Bez conversion tracking-a ne znate koji keyword donosi klijente, a koji samo troši budžet. Računovođa koji ne prati konverzije optimizuje kampanju naslepo.
 
-### 4) Ignorisu negativne kljucne reci
-Bez negativnih kljucnih reci (npr. "posao", "praksa", "besplatno", "kurs"), znacajan deo budzeta odlazi na klikove koji nikada nece postati klijenti.
+### 4) Ignorišu negativne ključne reči
+Bez negativnih ključnih reči (npr. "posao", "praksa", "besplatno", "kurs"), značajan deo budžeta odlazi na klikove koji nikada neće postati klijenti.
 
-## Realni CPL benchmarci za racunovodje u Srbiji
+## Realni CPL benchmarci za računovođe u Srbiji
 
 Posle 4-8 nedelja ozbiljne optimizacije, tipicni rasponi su:
 
-- **Vodjenje knjiga za preduzetnike:** 15e-35e po lead-u.
+- **Vođenje knjiga za preduzetnike:** 15e-35e po lead-u.
 - **Kompletno knjigovodstvo za doo:** 25e-60e po lead-u.
 - **Specijalizovane usluge (transfer pricing, poreski konsalting):** 40e-80e+ po lead-u.
 
-Ako vam lifetime value klijenta iznosi 3.000e-5.000e+ (sto je normalno za visegodisnju saradnju), CPL od 40e je izuzetno isplativ.
+Ako vam lifetime value klijenta iznosi 3.000e-5.000e+ (što je normalno za višegodišnju saradnju), CPL od 40e je izuzetno isplativ.
 
 ## 30-dnevni plan za knjigovodstvenu agenciju
 
-- **Nedelja 1:** Postavite conversion tracking, napravite landing stranice za 2-3 core usluge, definisajte negativne kljucne reci.
-- **Nedelja 2:** Pokrenite Brand Search i jednu High-intent kampanju sa budzetom od 15e dnevno.
-- **Nedelja 3:** Analizirajte search terms report, dodajte negativne kljucne reci, testirajte 2 varijante oglasa.
-- **Nedelja 4:** Dodajte Problem-based kampanju, analizirajte CPL po kampanjama i kljucnim recima.
+- **Nedelja 1:** Postavite conversion tracking, napravite landing stranice za 2-3 core usluge, definisajte negativne ključne reči.
+- **Nedelja 2:** Pokrenite Brand Search i jednu High-intent kampanju sa budžetom od 15e dnevno.
+- **Nedelja 3:** Analizirajte search terms report, dodajte negativne ključne reči, testirajte 2 varijante oglasa.
+- **Nedelja 4:** Dodajte Problem-based kampanju, analizirajte CPL po kampanjama i ključnim rečima.
 
-Za poredjenje sa SEO pristupom pogledaj [SEO za racunovodje](/blog/seo-za-racunovodje-cena-srbija-2026), a za kompletnu strategiju [marketing za racunovodje](/marketing-za-racunovodje).
+Za poređenje sa SEO pristupom pogledaj [SEO za računovođe](/blog/seo-za-racunovodje-cena-srbija-2026), a za kompletnu strategiju [marketing za računovođe](/marketing-za-racunovodje).
 
-Ako zelite da procenimo potencijal Google Ads kampanja za vasu agenciju, javite se preko [kontakt forme](/kontakt) za besplatnu analizu kljucnih reci i procenu budzeta.
+Ako želite da procenimo potencijal Google Ads kampanja za vašu agenciju, javite se preko [kontakt forme](/kontakt) za besplatnu analizu ključnih reči i procenu budžeta.
 `
   },
   {
@@ -12368,7 +12368,7 @@ Ako niste sigurni gde vasa B2B publika provodi vreme i kako da ih targetirate, p
     content: `
 ## Instagram reklame za agencije za nekretnine u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **instagram reklame za nekretnine cena**, realan okvir za srpsko trziste u 2026. najcesce izgleda ovako:
+Ako tražiš upit **instagram reklame za nekretnine cena**, realan okvir za srpsko trziste u 2026. najcesce izgleda ovako:
 
 - **Test budzet:** 200e-400e mesecno (ad spend) + 150e-300e fee za vodjenje.
 - **Standardni budzet:** 400e-900e mesecno (ad spend) + 300e-500e fee.
@@ -12443,7 +12443,7 @@ Ako zelite da procenimo potencijal Instagram kampanja za vasu agenciju, javite s
     content: `
 ## SEO za agencije za nekretnine u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **seo za agencije za nekretnine cena**, realan raspon za srpsko trziste u 2026. najcesce izgleda ovako:
+Ako tražiš upit **seo za agencije za nekretnine cena**, realan raspon za srpsko trziste u 2026. najcesce izgleda ovako:
 
 - **Starter lokalni SEO (GBP + osnovna optimizacija):** 300e-500e mesecno.
 - **Growth paket (GBP + sajt + lokacione stranice + linkovi):** 500e-1.000e mesecno.
@@ -12479,7 +12479,7 @@ Za lokalni SEO (Google mapa): 4-8 nedelja uz aktivan rad na GBP-u i recenzijama.
 Za organski saobracaj sa lokacionih stranica: 3-6 meseci.
 Za ranking listing-a za konkretne pretrage: 4-8 meseci (zavisi od konkurencije u gradu).
 
-Kombinacija sa placenim kanalima ubrzava proces. Za orijentir pogledaj [Google reklame cena](/google-reklame-cena) i [Google Ads za agencije za nekretnine](/blog/google-ads-za-agencije-za-nekretnine-cena-leada-srbija-2026).
+Kombinacija sa plaćenim kanalima ubrzava proces. Za orijentir pogledaj [Google reklame cena](/google-reklame-cena) i [Google Ads za agencije za nekretnine](/blog/google-ads-za-agencije-za-nekretnine-cena-leada-srbija-2026).
 
 ## Gde agencije najcesce gube novac na SEO
 
@@ -12513,7 +12513,7 @@ Ako zelite da procenimo kako vasa agencija stoji na Google-u i koliko novih upit
     content: `
 ## SEO za teretane u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **seo za teretanu cena**, realan raspon za srpsko trziste u 2026. najcesce izgleda ovako:
+Ako tražiš upit **seo za teretanu cena**, realan raspon za srpsko trziste u 2026. najcesce izgleda ovako:
 
 - **Starter lokalni SEO (GBP + osnovna optimizacija):** 200e-400e mesecno.
 - **Growth paket (GBP + sajt + sadrzaj + lokalni linkovi):** 400e-800e mesecno.
@@ -12545,7 +12545,7 @@ Blog postovi koji ciljaju pretrage tipa "kako poceti trenirati", "plan ishrane z
 
 ## Koliko vremena treba da se vide rezultati
 
-Za lokalni SEO teretane: prvi vidljivi pomaci na Google mapi za 4-8 nedelja (uz aktivan rad na GBP-u i recenzijama). Organski saobracaj sa sajta obicno krece da raste za 3-6 meseci.
+Za lokalni SEO teretane: prvi vidljivi pomaci na Google mapi za 4-8 nedelja (uz aktivan rad na GBP-u i recenzijama). Organski saobraćaj sa sajta obicno krece da raste za 3-6 meseci.
 
 Kljucna razlika u odnosu na oglase: kad ugasite Google Ads, saobracaj odmah stane. Kad ugazite SEO, organski saobracaj nastavlja da raste i posle prestanka aktivnog rada.
 
@@ -12557,7 +12557,7 @@ Za uporedni pregled placenih kanala pogledaj [Google reklame cena](/google-rekla
 Rangirati se za "teretana" na nivou cele Srbije je skoro nemoguce za jednu lokaciju. Ali rangirati se za "teretana Vozdovac" ili "fitnes centar Novi Sad Liman" je realno za 2-3 meseca.
 
 ### 2) Sajt bez pojedinacnih stranica za usluge
-Sajt sa jednom stranicom "Usluge" koja lista sve u tri reda ne moze da rangira ni za jednu konkretnu pretragu. Svaka usluga zasluzuje svoju stranicu sa sopstvenim naslovom, opisom i CTA-om.
+Sajt sa jednom stranicom "Usluge" koja lista sve u tri reda ne moze da rangira ni za jednu konkretnu pretragu. Svaka usluga zaslužuje svoju stranicu sa sopstvenim naslovom, opisom i CTA-om.
 
 ### 3) Ignorisanje sezonskih pretraga
 Januar i septembar su vrhunci pretrazivanja "teretana" u Srbiji. SEO koji se pokrene u novembru hvata januarski talas. SEO koji se pokrene u februaru propusta najvazniji mesec u godini.
@@ -12583,7 +12583,7 @@ Ako zelite da procenimo kako vasa teretana trenutno stoji na Google-u i koliko n
     content: `
 ## SEO za autoservise u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **seo za autoservis cena**, realan raspon za srpsko trziste u 2026. najcesce izgleda ovako:
+Ako tražiš upit **seo za autoservis cena**, realan raspon za srpsko trziste u 2026. najcesce izgleda ovako:
 
 - **Starter lokalni SEO (GBP + osnovna optimizacija):** 200e-400e mesecno.
 - **Growth paket (GBP + sajt + sadrzaj + lokalni linkovi):** 400e-800e mesecno.
@@ -12654,7 +12654,7 @@ Ako zelite da procenimo gde vas autoservis trenutno stoji na Google-u i sta konk
     content: `
 ## Instagram reklame za stomatologe u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **instagram reklame za stomatologe cena**, realni okvir za srpsko trziste u 2026. najcesce izgleda ovako:
+Ako tražiš upit **instagram reklame za stomatologe cena**, realni okvir za srpsko trziste u 2026. najcesce izgleda ovako:
 
 - **Mikro budzet (testiranje):** 150e-300e mesecno (ad spend) + 150e-250e fee za vodjenje.
 - **Standardni budzet (stabilni termini):** 300e-700e mesecno (ad spend) + 250e-400e fee.
@@ -12670,7 +12670,7 @@ Druga specificnost je da pacijenti retko traze stomatologa preko Instagrama akti
 
 Zato Instagram reklame za ordinacije rade drugacije od Google Ads-a. Umesto da ciljate ljude koji vec kucaju "stomatolog Beograd", vi gradite zelju kod ljudi koji jos nisu odlucili da im treba intervencija. To menja i tip kreativa i ocekivanja od brzine povrata.
 
-Za poredjenje sa Google kanalom pogledaj [Google reklame cena](/google-reklame-cena).
+Za poređenje sa Google kanalom pogledaj [Google reklame cena](/google-reklame-cena).
 
 ## Struktura kampanje koja najcesce radi za ordinacije
 
@@ -12797,7 +12797,7 @@ Ukoliko zelite partnera koji ce vam postaviti bazu koja ne trazi prepravke svaki
     content: `
 ## Najveci problem vecine stomatoloskih ordinacija
 
-Vecina ordinacija u Srbiji i dalje zavisi od jednog jedinog kanala akvizicije: **preporuke od usta do usta**.
+Većina ordinacija u Srbiji i dalje zavisi od jednog jedinog kanala akvizicije: **preporuke od usta do usta**.
 Preporuke su sjajne. To su najtopliji pacijenti, sa najvisim nivoom poverenja, i obicno najmanje pitaju za cenu.
 
 Ali preporuke imaju jedan sistemski problem – **nisu skalabilne i nisu predvidive**.
@@ -12812,7 +12812,7 @@ Pacijent retko trazi ordinaciju kada mu je dosadno. Trazi je kada ima problem (b
 - **Hitne intervencije (bol):** Ovo je saobracaj visokog intent-a. Kada osobu boli zub u 2 ujutru, ona ne skroluje Instagram. Ona otvara Google i kuca "stomatolog dezurni Novi Sad" ili "popravka zuba hitno". Ako se tu ne pojavite medju prva 3 rezultata, ta osoba odlazi kod konkurencije.
 - **Estetska stomatologija (zelja):** Ljudi mesecima i godinama razmisljaju o ispravljanju zuba (folije, fiksne proteze) ili o fasetama i beljenju. Ovo je proces edukacije. Za ovu vrstu publike, vizuelni prikaz rezultata (pre/posle) na Instagramu prodaje uslugu, dok Google pomaze kad vec donesu odluku.
 
-Za razlicite usluge potrebni su razliciti kanali. Vise o formiranju ovog plana procitajte u vodicu za [marketing za stomatologe](/marketing-za-stomatologe).
+Za razlicite usluge potrebni su razliciti kanali. Vise o formiranju ovog plana pročitajte u vodicu za [marketing za stomatologe](/marketing-za-stomatologe).
 
 ## 3 kanala koja provereno rade za stomatologe u Srbiji
 
@@ -12836,7 +12836,7 @@ Za benchmark ulaganja u ove kanale, pogledajte i [koliko kosta Facebook reklama]
 
 Ako vec placate oglase ili vodite drustvene mreze, a ne vidite rezultat, problem se obicno svodi na dve greske:
 
-1. **Oglasi ne vode na landing stranicu:** Ako platite klik za "folije za ispravljanje zuba", a korisnika posaljete na vasu opstu pocetnu stranicu gde mora sam da trazi tu uslugu, on ce u 80% slucajeva zatvoriti sajt. Svaka kljucna usluga mora imati svoju optimizovanu landing stranicu. Vise o tome procitajte u delu [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+1. **Oglasi ne vode na landing stranicu:** Ako platite klik za "folije za ispravljanje zuba", a korisnika posaljete na vasu opstu pocetnu stranicu gde mora sam da trazi tu uslugu, on ce u 80% slucajeva zatvoriti sajt. Svaka kljucna usluga mora imati svoju optimizovanu landing stranicu. Vise o tome pročitajte u delu [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
 2. **Predugacak proces zakazivanja:** Pacijent je na sajtu i zeli termin. Da li moze da popuni kratku formu u 3 klika? Ili mora da pise mejl i ceka odgovor do sutra? Ako mu ne otezate, konverzija raste.
 
 ## Sta uraditi sledece?
@@ -12885,7 +12885,7 @@ Ako sajt ne odrzavate, on prvo postaje spor, a zatim ranjiv na hakerske napade. 
 
 Puno vlasnika firmi izdvoji ceo marketing budzet za izradu sajta, zaboravljajuci da onlajn prodavnica bez posetilaca lici na radnju u pustinji. Nakon sto pustite sajt, morate uloziti u vidljivost.
 
-Za brze rezultate, oslanjate se na placene kampanje. Ako zelite dugorocan, stabilan i besplatan saobracaj, ulozicete u SEO za web shopove. Vise o organskom pozicioniranju i njegovim troskovima procitajte u vodicu za [SEO optimizacija cena](/seo-optimizacija-cena). Takodje, za informisanje o troskovima drustvenih mreza posetite [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama).
+Za brze rezultate, oslanjate se na placene kampanje. Ako zelite dugorocan, stabilan i besplatan saobracaj, ulozicete u SEO za web shopove. Vise o organskom pozicioniranju i njegovim troskovima pročitajte u vodicu za [SEO optimizacija cena](/seo-optimizacija-cena). Takodje, za informisanje o troskovima drustvenih mreza posetite [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama).
 
 ## Kako da dobijete tacnu ponudu
 
@@ -13073,7 +13073,7 @@ Ne morate da birate iskljucivo jedan. Ali, ako vam je budzet ogranicen, evo prav
 
 Ovo je pristup koji preporucuje i vecina strucnjaka za skaliranje o kojem mozete procitati u [kako naci klijente za digitalni marketing](/digitalni-marketing).
 
-## Zakljucak: Nemojte kopirati strategiju sa jednog na drugi
+## Zaključak: Nemojte kopirati strategiju sa jednog na drugi
 
 Najveca greska koju vidjamo u 2026. godini je kada brendovi snime profi reklamu za Instagram, i onda isti taj video uplate na TikToku. TikTok organski odbija sve sto izgleda kao reklama.
 
@@ -13254,7 +13254,7 @@ Kod naloga sa stabilnim saobracajem prvi trend se cesto vidi za 7-14 dana. Za oz
 ### Sta je vaznije: niza cena klika ili bolja landing konverzija?
 Za profit je obicno vaznija bolja landing konverzija. Klik mozes platiti i vise, ali ako stranica pretvara kvalitetnije, ukupna cena klijenta cesto bude niza nego kod jeftinog, ali nekvalitetnog saobracaja.
 
-## Zakljucak
+## Zaključak
 
 Ako placas Google Ads, landing stranica je najbrzi poligon za pad cene lead-a bez vecih ulaganja.
 Ako hoces, mogu da oznacim 5 najbrzih izmena za tvoju trenutnu stranicu preko [kontakt forme](/kontakt).
@@ -13394,7 +13394,7 @@ Ako hoćeš, mogu da ti dam brz maintenance gap audit i označim prve 3 stavke k
     content: `
 ## SEO za stomatoloske ordinacije u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **seo za stomatoloske ordinacije cena**, prakticni rasponi na srpskom trzistu u 2026 najcesce izgledaju ovako:
+Ako tražiš upit **seo za stomatoloske ordinacije cena**, prakticni rasponi na srpskom trzistu u 2026 najcesce izgledaju ovako:
 
 - **osnovni lokalni SEO setup (jedna lokacija):** 250e-600e/mes,
 - **growth SEO model (lokalni + content + tehnicki):** 600e-1.400e/mes,
@@ -13483,7 +13483,7 @@ Kod vecine ordinacija to je optimizacija servisnih stranica za lokalni intent + 
 ### Da li recenzije stvarno uticu na SEO rezultat?
 Da. Ne uticu samo na rangiranje lokalnog profila, vec i na stopu klika i poverenje pacijenta, sto direktno utice na broj zakazanih pregleda.
 
-## Zakljucak
+## Zaključak
 
 SEO za stomatoloske ordinacije u Srbiji 2026 nije trosak "za sajt", vec sistem za stabilniji priliv zakazanih pregleda.
 Ako hoces, mogu da mapiram prve 3 SEO izmene koje bi na tvom sajtu najbrze podigle broj kvalitetnih upita preko [kontakt forme](/kontakt).
@@ -13737,146 +13737,123 @@ Ako hoćeš, mogu da uradim mini audit tvog naloga i dam 3 konkretna poteza za b
 
   {
     slug: 'alex-hormozi-value-equation-ponuda-koja-se-prodaje-srbija-2026',
-    title: 'Alex Hormozi Value Equation 2026: ponuda koja se prodaje bez spustanja cene',
-    excerpt: 'Kako da primenis Alex Hormozi Value Equation na srpskom tržištu: jasna ponuda, bolji lead quality i veca vrednost klijenta bez dumping cena.',
+    title: 'Alex Hormozi Value Equation: kako da ponuda bude skuplja i lakša za prodaju (Srbija 2026)',
+    excerpt: 'Praktičan vodič kako da primeniš Hormozi value equation na uslužni biznis u Srbiji i podigneš cenu bez pada konverzije.',
     date: '2026-03-15',
     category: 'Growth',
     readTime: '11 min',
-    content: `
-## Alex Hormozi Value Equation: zasto je bitna za rast u Srbiji
+    content: `## Zašto i dobar marketing često ne prodaje
 
-Ako trazis upit **alex hormozi value equation** ili **kako napraviti ponudu koja se prodaje bez spustanja cene**, sustina je jednostavna:
-vecina biznisa nema problem sa manjkom truda, vec sa slabim dizajnom ponude.
+Većina kampanja ne puca na distribuciji nego na ponudi.
+Klikovi dođu, ljudi pročitaju stranicu, ali ne osete da je vrednost jasna i hitna.
 
-Hormozi model je koristan jer tera da svaku uslugu razbijes na 4 pitanja:
+Ako hoćeš bolji rezultat iz istog budžeta, prvo popravi ponudu, pa tek onda ad account.
+Za kanal i budžet okvir pogledaj i [Google reklame cena](/google-reklame-cena) i [Instagram reklame cena](/instagram-reklame-cena).
 
-1. koliko je zeljen rezultat jasan i vredan klijentu,
-2. koliko klijent veruje da mozes da ga isporucis,
-3. koliko dugo mora da ceka do prvog rezultata,
-4. koliko je naporan put do rezultata.
+## Alex Hormozi value equation (u praksi, ne teoriji)
 
-Kada ove 4 stvari popravis, cena prestaje da bude glavni argument u prodaji.
+Hormozi okvir je jednostavan:
 
-Za bazne cene kanala pogledaj i [google reklame cena](/google-reklame-cena) i [instagram reklame cena](/instagram-reklame-cena), ali bez Value Equation okvira cesto placas klikove koji ne postaju profit.
+**Vrednost = (dream outcome x perceived likelihood) / (time delay x effort + sacrifice)**
 
-## Formula bez komplikacije
+U prevodu za lokalni biznis:
 
-Vrednost ponude raste kada:
+- povećaj koliko je ishod poželjan,
+- povećaj verovatnoću da će klijent stvarno doći do ishoda,
+- smanji vreme do prvog rezultata,
+- smanji napor koji klijent mora da uloži.
 
-- povecas pozeljan ishod,
-- povecas poverenje da ce ishod stvarno doci,
-- skratis vreme do prvog vidljivog rezultata,
-- smanjis trud koji klijent mora da ulozi.
+Ako ova četiri dela nisu jasna u ponudi, cena skoro uvek deluje "skupa", čak i kad nije.
 
-Kod vecine agencija u Srbiji fokus je samo na prvu stavku (obecanje), a ostale tri ostanu slabe.
-Tada prodaja zavisi od popusta umesto od vrednosti.
+## Kako da strukturiraš ponudu za digitalne usluge u Srbiji
 
-## Kako da ovo primenis na marketing usluge
+### 1) Definiši ishod bez magle
+Loše: "radimo digitalni marketing".
+Bolje: "cilj je +35 kvalifikovanih upita za 90 dana uz CPA plafon".
 
-### 1) Povecaj pozeljan ishod, ali konkretno
+Specifikacija ishoda podiže poverenje i pravi razliku između konsultanta i dobavljača taskova.
 
-Umesto generickog "povecacemo vidljivost", ponuda treba da bude vezana za realan poslovni cilj:
+### 2) Dokaži da je rezultat verovatan
+U ponudi mora da stoji:
 
-- vise kvalifikovanih upita,
-- vise zakazanih poziva,
-- vise prodaja po zdravom CPA.
+- koje metrike pratite (CPL, CPA, ROAS, lead quality),
+- kojim ritmom radite optimizaciju,
+- kako izgleda reporting i odluka šta ide dalje.
 
-Ako je cilj nejasan, klijent ne moze da proceni vrednost i automatski poredi samo cenu.
+Za dublji kontekst troška klika i kvaliteta saobraćaja pogledaj [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026).
 
-### 2) Povecaj perceived likelihood (dokaz da ces isporuciti)
+### 3) Skrati vreme do prvog vidljivog pomaka
+Umesto otvorenog "videćemo", ponuda treba da ima jasan raspored:
 
-Poverenje se ne gradi samo logotipima i opstim testimonialima.
-Bolje rade:
+- nedelja 1: audit + plan,
+- nedelja 2: setup,
+- nedelja 3-4: prvi testovi i cut gubitnika,
+- kraj 30 dana: prvi performance review i backlog.
 
-- mini case study sa brojkama pre/posle,
-- jasan proces rada po fazama,
-- otvoreni KPI dashboard,
-- definisan ritam optimizacije.
+Klijent ne kupuje samo ishod, nego i brzinu kojom dolazi do signala da stvar ide u dobrom smeru.
 
-Ako klijent ne vidi kako dolazis do rezultata, smatra da je svaka ponuda ista.
+### 4) Smanji napor klijenta (frikciju)
+Ako klijent mora da juri 15 stvari paralelno, ponuda će delovati teško.
 
-### 3) Skrati time delay (vreme do prvog signala)
+U ponudi jasno reci šta preuzimaš:
 
-Velika greska je ponuda koja klijentu trazi 90 dana strpljenja bez ikakvog ranog outputa.
-Prakticnije je da obecas i isporucis:
+- copy i struktura oglasa,
+- preporuke za landing i CTA,
+- tracking checklist,
+- sedmični "šta je urađeno / šta sledi" update.
 
-- inicijalni audit u prvih 5 dana,
-- prve test kampanje u roku 7-10 dana,
-- prvi performance review do kraja meseca.
+Ako radiš i post-click deo, prirodan nastavak je [izrada landing stranice: cena, rokovi, šta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
 
-Rani signal ne mora da bude finalni ROI, ali mora da potvrdi da sistem radi.
+## Offer stack: kako da cena izgleda logično
 
-### 4) Smanji effort and sacrifice
+Jedan od jačih Hormozi principa je da kupac ne vidi jednu uslugu, nego paket vrednosti.
 
-Mnogi klijenti odustanu ne zbog cene, nego zbog operativnog haosa.
-Ponuda treba da smanji napor:
+Primer stack-a za lead gen uslugu:
 
-- gotovi brief template-i,
-- jasno ko dostavlja koji materijal i kada,
-- jedan komunikacioni kanal,
-- checkliste za approval.
+1. osnova: upravljanje kampanjom,
+2. bonus: mesečni CRO mini-audit landinga,
+3. bonus: sales follow-up skripta za brz odgovor leadovima,
+4. bonus: dashboard sa KPI pregledom,
+5. bonus: 30-dnevni eksperiment plan.
 
-Sto je saradnja jednostavnija, to je veca sansa da klijent ostane duze.
+Poenta nije da daš sve "džabe", nego da kupac razume zašto cena postoji i šta tačno dobija.
 
-## Primer pakovanja ponude za Google Ads
+Za šire planiranje po kanalima koristi i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-Ako nudis Google Ads upravljanje, umesto "vodjenje kampanja" ponuda moze biti strukturisana ovako:
+## Kako da postaviš garanciju bez samoubistva marže
 
-- cilj: smanjenje cene kvalifikovanog upita uz rast volumena,
-- rok do prvog signala: 14 dana,
-- dokaz: benchmark + revizija naloga + plan testova,
-- effort klijenta: 60 minuta onboarding poziv + jedan folder sa materijalima,
-- ritam: nedeljni update i mesecni deep dive.
+Garancija ne mora da bude "vraćam sav novac".
 
-Tada usluga izgleda kao sistem, ne kao satnica.
+Sigurnije varijante:
 
-Za siri kontekst troskova i kanala pogledaj [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+- garancija aktivnosti (jasan broj iteracija, testova i izveštaja),
+- garancija brzine reakcije (npr. odgovor u 24h),
+- garancija dodatnog sprinta ako KPI nisu blizu plana.
 
-## Kako da izbegnes zamku "premium reci, low-trust iskustvo"
+Ovo podiže perceived likelihood bez toga da preuzmeš neograničen finansijski rizik.
 
-U praksi vidjam isti obrazac:
+## Najčešće greške kada se kopira Hormozi bez konteksta
 
-- landing obecava premium rezultate,
-- onboarding je spor i konfuzan,
-- klijent ne zna sta se tacno radi prve dve nedelje.
+1. Prevelika obećanja bez operativnog plana.
+2. Popusti koji jedu marginu pa usluga postane neodrživa.
+3. Fokus na "wow" bonusima umesto na glavnom rezultatu.
+4. Ponuda bez jasnog ICP-a (pričamo svima, ne pogađa nikoga).
+5. Nema granica scope-a, pa projekat klizi u haos.
 
-Ovaj raskorak rusi perceived likelihood.
-Zato je bitno da iskustvo od prvog kontakta izgleda kao nastavak obecanja sa stranice.
+## Brz 14-dnevni plan implementacije
 
-Ako gradis novi sajt ili menjas ponudu, korisno je da prvo definises strukturu i poruke, pa tek onda dizajn.
-Za to mozes da vidis i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+- **Dan 1-2:** definiši ICP i glavni rezultat (jedna rečenica).
+- **Dan 3-4:** napravi offer stack i granice scope-a.
+- **Dan 5-7:** osveži landing poruku i CTA flow.
+- **Dan 8-10:** pripremi sales odgovor skriptu i follow-up ritam.
+- **Dan 11-14:** lansiraj, meri, zatvori prve gubitnike i napravi sledeći test plan.
 
-## Value Equation checklista pre svakog novog klijenta
+Ako ti treba i tehnički okvir za stranicu koja zatvara lead, pogledaj [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
 
-Pre nego sto posaljes ponudu, prodji kroz ovu mini checklistu:
+## Zaključak
 
-1. Da li je business outcome numericki definisan?
-2. Da li postoje dokaz i proces koji povecavaju poverenje?
-3. Da li klijent zna kada dobija prvi merljiv signal?
-4. Da li je onboarding dovoljno jednostavan da ne uspori launch?
-5. Da li je model naplate uskladjen sa realnim scope-om?
-
-Ako su 3 ili vise stavki nejasne, ponuda ce najcesce ici na cenkanje.
-
-## FAQ: Alex Hormozi Value Equation u praksi
-
-### Da li ovo radi samo za velike biznise?
-Ne. Model radi i za male lokalne firme jer pored cene uvodi jasnu logiku vrednosti i smanjuje neizvesnost kupovine.
-
-### Da li treba odmah podici cenu kada unapredim ponudu?
-Ne nuzno odmah. Prvo stabilizuj isporuku i dokaz, pa onda testiraj korekciju cene na novim leadovima.
-
-### Sta je najbrzi potez za bolju konverziju ponude?
-Najcesce je to jasniji outcome + konkretniji prvih 30 dana plana. Ljudi kupuju sigurnost i put, ne samo obecanje.
-
-### Kako da povezem Value Equation i oglase?
-Kreativa i landing moraju da reflektuju isti outcome, isti dokaz i isti sledeci korak. Ako poruka nije uskladjena, lead quality pada.
-
-## Zakljucak
-
-Alex Hormozi Value Equation je koristan jer pretvara "ponudu" u merljiv sistem vrednosti.
-Ako hoces, mogu da ti razlozim tvoju trenutnu ponudu kroz ova 4 faktora i dam konkretan plan optimizacije preko [kontakt stranice](/kontakt).
-`,
+Hormozi framework radi i na srpskom tržištu, ali samo kad ga prevedeš u konkretne metrike, rokove i operativni ritam.
+Ako hoćeš da zajedno složimo ponudu koja je agresivna ali i profitabilna, javi se preko [kontakt forme](/kontakt).`,
   },
 
   {
@@ -13889,7 +13866,7 @@ Ako hoces, mogu da ti razlozim tvoju trenutnu ponudu kroz ova 4 faktora i dam ko
     content: `
 ## Instagram reklame za kozmeticke salone u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **instagram reklame za kozmeticki salon cena**, realan okvir za vecinu gradova u Srbiji 2026 izgleda ovako:
+Ako tražiš upit **instagram reklame za kozmeticki salon cena**, realan okvir za vecinu gradova u Srbiji 2026 izgleda ovako:
 
 - **test faza:** 300e-750e/mes,
 - **stabilan priliv upita i rezervacija:** 750e-1.800e/mes,
@@ -13958,7 +13935,7 @@ Za vecinu salona prakticna podela je:
 
 Ova podela daje cistiju kontrolu budzeta i jasnije odluke oko skaliranja.
 
-Ako zelis poredjenje sa Search intent saobracajem, pogledaj i [google reklame cena](/google-reklame-cena).
+Ako zelis poređenje sa Search intent saobracajem, pogledaj i [google reklame cena](/google-reklame-cena).
 
 ## Kreative koje obicno daju najbolji kvalitet lead-a
 
@@ -14023,7 +14000,7 @@ Najbrzi efekat daju potvrdna poruka odmah posle rezervacije, podsetnik 24h pre t
 ### Kada ima smisla skalirati budzet?
 Skaliranje ima smisla kada najmanje 2-3 nedelje zaredom drzis odrzivu cenu zakazanog termina i stabilan procenat dolaska. Bez toga veci budzet obicno samo ubrza rasipanje.
 
-## Zakljucak
+## Zaključak
 
 Instagram reklame za kozmeticke salone u Srbiji 2026 mogu biti jedan od najbrzih kanala za puniji kalendar, ali samo kada se kampanja vodi po ceni zakazanog i odradjenog termina, ne po lajkovima i jeftinom kliku.
 Ako hoces, mogu da oznacim 3 najbrza poteza za nizi trosak termina preko [kontakt forme](/kontakt).
@@ -14164,23 +14141,23 @@ Ako hoćeš, mogu da mapiram 3 najbrža poteza za tvoj nalog preko [kontakt form
     content: `
 ## Google Ads za fizioterapeute: kratak odgovor
 
-Ako trazis upit **google ads za fizioterapeute cena**, realni rasponi u Srbiji 2026 najcesce izgledaju ovako:
+Ako tražiš upit **google ads za fizioterapeute cena**, realni rasponi u Srbiji 2026 najčešće izgledaju ovako:
 
 - **CPC:** 0.18e-0.95e,
 - **cena kvalifikovanog upita:** 7e-32e,
 - **cena zakazanog termina:** 12e-55e,
-- **test budzet za prvi mesec:** 350e-900e.
+- **test budžet za prvi mesec:** 350e-900e.
 
-U gradovima sa jacom konkurencijom (Beograd, Novi Sad) raspon ide vise, dok je u manjim gradovima cesto nizi ako su kampanje usko segmentirane.
-Za siri benchmark pogledaj i [google reklame cena](/google-reklame-cena).
+U gradovima sa jačom konkurencijom (Beograd, Novi Sad) raspon ide više, dok je u manjim gradovima često niži ako su kampanje usko segmentirane.
+Za širi benchmark pogledaj i [google reklame cena](/google-reklame-cena).
 
-## Sta najvise podize cenu termina
+## Šta najviše podiže cenu termina
 
 Kod fizio kampanja problem retko bude samo u ceni klika.
-Najcesce cenu termina podizu tri stvari:
+Najčešće cenu termina podižu tri stvari:
 
 1. preopsirni keyword set bez jasnog intenta,
-2. landing koji ne filtrira hitne i nehitne slucajeve,
+2. landing koji ne filtrira hitne i nehitne slučajeve,
 3. spor odgovor na prvi poziv ili formu.
 
 Ako kampanja dovede relevantnog korisnika, a ordinacija odgovori posle 2-3 sata, deo upita ode konkurenciji.
@@ -14188,39 +14165,39 @@ Zato je bitan i operativni deo, ne samo Ads nalog.
 
 ## Rasponi po intentu (fizio usluge)
 
-Najprakticnije je da kampanju podelis po intentu:
+Najpraktičnije je da kampanju podeliš po intentu:
 
-- **urgent bol / hitan termin:** skuplji klik, ali najbrzi put do termina,
-- **specificna terapija (diskus hernija, vrat, rame, koleno):** srednji CPC i dobar kvalitet lead-a,
+- **urgent bol / hitan termin:** skuplji klik, ali najbrži put do termina,
+- **specifična terapija (diskus hernija, vrat, rame, koleno):** srednji CPC i dobar kvalitet lead-a,
 - **edukativni upiti (vezbe kod kuce):** jeftiniji klik, ali slabija konverzija bez jakog CTA-a.
 
-Ako sve ovo ubacis u isti ad group, poruka postaje mutna i quality score pada.
+Ako sve ovo ubaciš u isti ad group, poruka postaje mutna i quality score pada.
 Bolje rade odvojene kampanje sa jasnim landing blokovima po problemu.
 
-## Kako postaviti budzet bez nagadjanja
+## Kako postaviti budžet bez nagađanja
 
-Praktican model za fizioterapeute:
+Praktičan model za fizioterapeute:
 
-1. odredi prosecnu vrednost jednog novog pacijenta,
-2. odredi koliko termina treba mesecno,
-3. postavi maksimalni CPA koji ostavlja zdravu marzu,
-4. tek onda postavi dnevni budzet.
+1. odredi prosečnu vrednost jednog novog pacijenta,
+2. odredi koliko termina treba mesečno,
+3. postavi maksimalni CPA koji ostavlja zdravu maržu,
+4. tek onda postavi dnevni budžet.
 
 Primer:
 
 - prosecna vrednost pacijenta: 140e,
-- cilj: 18 novih pacijenata mesecno,
+- cilj: 18 novih pacijenata mesečno,
 - maksimalni CPA: 35e,
 - maksimalan medijski trosak: oko 630e.
 
-Za kompletan plan troska po kanalima vidi i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Za kompletan plan troška po kanalima vidi i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-## Landing struktura koja najcesce radi za fizio ordinacije
+## Landing struktura koja najčešće radi za fizio ordinacije
 
 Google Ads za fizio ne treba da vodi na genericki homepage.
 Landing treba da ima:
 
-- jasno navedene probleme koje resavas,
+- jasno navedene probleme koje rešavaš,
 - istaknutu lokaciju i radno vreme,
 - kratak dokaz poverenja (recenzije, broj pacijenata, iskustvo),
 - jedan glavni CTA (poziv ili forma),
@@ -14229,53 +14206,53 @@ Landing treba da ima:
 Ako je sajt spor ili nepregledan na mobilnom, kampanja placa klikove koji ne postaju termini.
 Za post-click deo pogledaj i [izrada wordpress sajta cena](/izrada-wordpress-sajta-cena).
 
-## 5 gresaka koje fizio ordinacije najcesce prave
+## 5 grešaka koje fizio ordinacije najčešće prave
 
 ### 1) Jedna kampanja za sve terapije
 Bolje radi podela po usluzi ili problemu (ledja, vrat, sportske povrede) jer ad copy postaje konkretniji.
 
-### 2) Bez negativnih kljucnih reci
-Bez negativnih reci kampanja cesto hvata informativne upite koji ne vode zakazivanju.
+### 2) Bez negativnih ključnih reči
+Bez negativnih reči kampanja često hvata informativne upite koji ne vode zakazivanju.
 
 ### 3) Preslab CTA na landingu
-Ako korisnik ne zna sta je sledeci korak u prvih par sekundi, konverzija pada.
+Ako korisnik ne zna šta je sledeći korak u prvih par sekundi, konverzija pada.
 
-### 4) Nema pracenja poziva
+### 4) Nema praćenja poziva
 Ako se ne prati call tracking, lako deluje da kampanja ne radi iako telefoni zvone.
 
 ### 5) Fokus na jeftin CPC umesto na cenu termina
-Cilj nije najjeftiniji klik, vec stabilan broj kvalitetnih zakazivanja.
+Cilj nije najjeftiniji klik, već stabilan broj kvalitetnih zakazivanja.
 
 ## Kako da spustis cenu termina u 30 dana
 
-- **Nedelja 1:** ciscenje keyword seta + dodavanje negativnih reci,
+- **Nedelja 1:** čišćenje keyword seta + dodavanje negativnih reči,
 - **Nedelja 2:** nova ad copy varijanta po glavnim terapijama,
 - **Nedelja 3:** dorada landing sekcija (dokaz, CTA, FAQ),
-- **Nedelja 4:** budzet prebaciti samo na ad grupe koje drze ciljani CPA.
+- **Nedelja 4:** budžet prebaciti samo na ad grupe koje drže ciljani CPA.
 
 Ako paralelno planiras i social kanal, uporedi sa [instagram reklame cena](/instagram-reklame-cena).
 
 ## FAQ: Google Ads za fizioterapeute
 
-### Koliki je minimalan budzet za fizio kampanje?
-Praktican minimum je 350e-500e mesecno za mediju, plus cena vodjenja. Ispod toga je tesko prikupiti dovoljno podataka za ozbiljnu optimizaciju.
+### Koliki je minimalan budžet za fizio kampanje?
+Praktičan minimum je 350e-500e mesečno za mediju, plus cena vodjenja. Ispod toga je teško prikupiti dovoljno podataka za ozbiljnu optimizaciju.
 
 ### Koliko brzo stizu prvi upiti?
-Prvi pozivi obicno stizu brzo, cesto u prvih nekoliko dana. Za stabilniju cenu termina i bolju predvidljivost obicno treba 3-5 nedelja.
+Prvi pozivi obično stizu brzo, često u prvih nekoliko dana. Za stabilniju cenu termina i bolju predvidljivost obično treba 3-5 nedelja.
 
 ### Da li je bolje voditi kampanju po usluzi ili po lokaciji?
-Najcesce najbolje radi kombinacija: kampanja po usluzi, a unutar nje ad copy i ekstenzije vezane za lokaciju ordinacije.
+Najčešće najbolje radi kombinacija: kampanja po usluzi, a unutar nje ad copy i ekstenzije vezane za lokaciju ordinacije.
 
 ### Da li vredi raditi Google Ads ako ordinacija radi samo jedan tip terapije?
-Da, ako su kljucne reci usko vezane za komercijalni intent i ako landing jasno objasnjava kome je usluga namenjena.
+Da, ako su ključne reči usko vezane za komercijalni intent i ako landing jasno objašnjava kome je usluga namenjena.
 
 ### Kako da znam da li je kampanja profitabilna?
-Prati cenu zakazanog termina i procenat pacijenata koji nastavljaju terapijski plan. Ako kampanja donosi pacijente sa zdravom marginom, model je odrziv.
+Prati cenu zakazanog termina i procenat pacijenata koji nastavljaju terapijski plan. Ako kampanja donosi pacijente sa zdravom marginom, model je održiv.
 
-## Zakljucak
+## Zaključak
 
-Google Ads za fizioterapeute u Srbiji 2026 moze da bude vrlo profitabilan kada se kampanje vode po intentu, a landing i follow-up proces prate isti cilj: zakazan termin, ne samo klik.
-Ako hoces, mogu da mapiram 3 najbrza poteza za tvoju ordinaciju preko [kontakt forme](/kontakt).
+Google Ads za fizioterapeute u Srbiji 2026 može da bude vrlo profitabilan kada se kampanje vode po intentu, a landing i follow-up proces prate isti cilj: zakazan termin, ne samo klik.
+Ako hoćeš, mogu da mapiram 3 najbrža poteza za tvoju ordinaciju preko [kontakt forme](/kontakt).
 `,
   },
 
@@ -14289,7 +14266,7 @@ Ako hoces, mogu da mapiram 3 najbrza poteza za tvoju ordinaciju preko [kontakt f
     content: `
 ## SEO audit sajta 2026: kratak odgovor
 
-Ako trazis upit **seo audit sajta**, najveca greska je da gledas sve odjednom.
+Ako tražiš upit **seo audit sajta**, najveca greska je da gledas sve odjednom.
 Najbrzi put do rezultata je da audit podelis u 4 sloja:
 
 1. tehnicki SEO (indexacija, canonical, brzina),
@@ -14370,7 +14347,7 @@ Gledaj metrike koje su direktno vezane za posao:
 
 Kada ove metrike idu gore, SEO audit je uradjen kako treba.
 
-## Zakljucak
+## Zaključak
 
 SEO audit sajta nije PDF za arhivu, nego mapa odluka.
 Ako hoces, mogu da uradim i mini prioritet listu za tvoj sajt kroz [kontakt formu](/kontakt), sa fokusom na izmene koje najbrze donose vise kvalitetnih upita.
@@ -14483,7 +14460,7 @@ Ako hoćeš, mogu da ti složim check-listu od 10 tačaka za audit kampanje kroz
     content: `
 ## Google Ads za privatne skole u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **google ads za privatne skole cena**, najcesci realni rasponi na srpskom trzistu u 2026 su:
+Ako tražiš upit **google ads za privatne skole cena**, najcesci realni rasponi na srpskom trzistu u 2026 su:
 
 - **test faza:** 400e-1.000e/mes,
 - **stabilan priliv kvalifikovanih prijava:** 1.000e-2.500e/mes,
@@ -14585,7 +14562,7 @@ Tek kada meris ceo lanac, znas da li kampanja pravi zdrav rast.
 
 Za dodatni benchmark po kanalima pogledaj [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026) i [kako odrediti budzet za Google reklame](/blog/kako-odrediti-budzet-za-google-reklame-srbija-2026).
 
-## Zakljucak
+## Zaključak
 
 Google Ads za privatne skole u Srbiji 2026 moze da donese stabilan priliv kvalitetnih prijava kada kampanje vodis po programu, lokaciji i brzini obrade leadova, ne po najjeftinijem kliku.
 Ako hoces, mogu da oznacim 3 najbrza poteza za nizi trosak kvalifikovane prijave preko [kontakt forme](/kontakt).
@@ -14601,7 +14578,7 @@ Ako hoces, mogu da oznacim 3 najbrza poteza za nizi trosak kvalifikovane prijave
     content: `
 ## Instagram reklame za privatne vrtice u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **instagram reklame za privatne vrtice cena**, najcesci realan okvir za srpsko trziste u 2026 izgleda ovako:
+Ako tražiš upit **instagram reklame za privatne vrtice cena**, najcesci realan okvir za srpsko trziste u 2026 izgleda ovako:
 
 - **test faza:** 300e-750e/mes,
 - **stabilan priliv kvalitetnih prijava:** 750e-1.800e/mes,
@@ -14700,7 +14677,7 @@ Tek kada meris ceo lanac, vidis da li kampanja pravi zdrav rast.
 - **Nedelja 3:** dorada landing/DM toka i uvodjenje kvalifikacionih pitanja.
 - **Nedelja 4:** preraspodela budzeta na segmente sa najboljim odnosom cena prijave / kvalitet upisa.
 
-## Zakljucak
+## Zaključak
 
 Instagram reklame za privatne vrtice u Srbiji 2026 mogu da donesu stabilan priliv kvalitetnih prijava kada kampanje vodis po stvarnim pitanjima roditelja, ne po vanity metrikama.
 Ako hoces, mogu da oznacim 3 najbrza poteza za nizi trosak kvalifikovane prijave preko [kontakt forme](/kontakt).
@@ -14717,7 +14694,7 @@ Ako hoces, mogu da oznacim 3 najbrza poteza za nizi trosak kvalifikovane prijave
     content: `
 ## Google Ads za veterinarske ambulante u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **google ads za veterinara cena**, realan okvir za srpsko trziste u 2026 najcesce izgleda ovako:
+Ako tražiš upit **google ads za veterinara cena**, realan okvir za srpsko trziste u 2026 najcesce izgleda ovako:
 
 - **test faza:** 300e-800e/mes,
 - **stabilan priliv upita i zakazivanja:** 800e-2.000e/mes,
@@ -14809,7 +14786,7 @@ Tek kada meris ceo lanac, vidis da li kampanja pravi profitabilan rast, a ne sam
 
 Za dodatni benchmark po industrijama pogledaj [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026) i [kako odrediti budzet za Google reklame](/blog/kako-odrediti-budzet-za-google-reklame-srbija-2026).
 
-## Zakljucak
+## Zaključak
 
 Google Ads za veterinarske ambulante u Srbiji 2026 moze da donese stabilan priliv ozbiljnih upita kada kampanje vodis po usluzi, intentu i brzini obrade leadova, ne po najjeftinijem kliku.
 Ako hoces, mogu da oznacim 3 najbrza poteza za nizi trosak kvalifikovanog zakazivanja preko [kontakt forme](/kontakt).
@@ -14826,7 +14803,7 @@ Ako hoces, mogu da oznacim 3 najbrza poteza za nizi trosak kvalifikovanog zakazi
     content: `
 ## Google Ads za teretane i fitnes studije u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **google ads za teretanu cena**, najcesci realni okvir za srpsko trziste u 2026 izgleda ovako:
+Ako tražiš upit **google ads za teretanu cena**, najcesci realni okvir za srpsko trziste u 2026 izgleda ovako:
 
 - **test faza:** 350e-900e/mes,
 - **stabilan priliv kvalifikovanih prijava:** 900e-2.400e/mes,
@@ -14917,7 +14894,7 @@ Tek kada meris ceo lanac, vidis da li kampanja donosi profitabilan rast, a ne sa
 
 Za dodatni benchmark troska po kliku pogledaj [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026), a za model saradnje i [vodjenje Google Ads kampanja cena](/blog/vodjenje-google-ads-kampanja-cena-srbija-2026).
 
-## Zakljucak
+## Zaključak
 
 Google Ads za teretane i fitnes studije u Srbiji 2026 moze da donese stabilan priliv novih clanova kada kampanje vodis po ponudi, lokaciji i brzini obrade leadova, ne po najjeftinijem kliku.
 Ako hoces, mogu da oznacim 3 najbrza poteza za nizi trosak kvalifikovane prijave preko [kontakt forme](/kontakt).
@@ -14934,7 +14911,7 @@ Ako hoces, mogu da oznacim 3 najbrza poteza za nizi trosak kvalifikovane prijave
     content: `
 ## Google Ads za domove za stare u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **google ads za domove za stare cena**, realan okvir za srpsko trziste u 2026 najcesce izgleda ovako:
+Ako tražiš upit **google ads za domove za stare cena**, realan okvir za srpsko trziste u 2026 najcesce izgleda ovako:
 
 - **test faza:** 450e-1.100e/mes,
 - **stabilan priliv kvalitetnih upita:** 1.100e-2.800e/mes,
@@ -15027,7 +15004,7 @@ Tek kada meris ceo lanac, vidis da li kampanja donosi profitabilan rast.
 
 Za dodatni benchmark po industrijama pogledaj [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026) i [vodjenje Google Ads kampanja cena](/blog/vodjenje-google-ads-kampanja-cena-srbija-2026).
 
-## Zakljucak
+## Zaključak
 
 Google Ads za domove za stare u Srbiji 2026 moze da donese stabilan priliv ozbiljnih prijava kada kampanje vodis po intentu, gradu i brzini obrade upita, ne po najjeftinijem kliku.
 Ako hoces, mogu da oznacim 3 najbrza poteza za nizi trosak kvalifikovanog upita preko [kontakt forme](/kontakt).
@@ -15043,7 +15020,7 @@ Ako hoces, mogu da oznacim 3 najbrza poteza za nizi trosak kvalifikovanog upita 
     content: `
 ## Google Ads za agencije za nekretnine u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **google ads za agencije za nekretnine cena**, najcesci realni okvir za srpsko trziste u 2026 izgleda ovako:
+Ako tražiš upit **google ads za agencije za nekretnine cena**, najcesci realni okvir za srpsko trziste u 2026 izgleda ovako:
 
 - **test faza:** 500e-1.200e/mes,
 - **stabilan priliv ozbiljnih upita:** 1.200e-3.000e/mes,
@@ -15141,7 +15118,7 @@ Ako ciljas i demand capture na drustvenim mrezama, koristan paralelan okvir je i
 
 Za sveobuhvatan pristup rastu agencije i investitora, pogledaj i nas vodic za [marketing za nekretnine](/marketing-za-nekretnine).
 
-## Zakljucak
+## Zaključak
 
 Google Ads za agencije za nekretnine u Srbiji 2026 moze da donese stabilan priliv ozbiljnih kupaca kada kampanje vodis po lokaciji, intentu i brzini obrade leadova, ne po najjeftinijem kliku.
 Ako hoces, mogu da uradim mini audit i oznacim 3 najbrza poteza za nizi trosak kvalitetnog upita preko [kontakt forme](/kontakt).
@@ -15790,7 +15767,7 @@ Ako hoćeš, mogu da uradim mini audit i označim 3 najbrža poteza za niži tro
     content: `
 ## Google Ads za privatne klinike u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **google ads za privatne klinike cena**, realan okvir za 2026 je:
+Ako tražiš upit **google ads za privatne klinike cena**, realan okvir za 2026 je:
 
 - **test faza:** 450e-1.200e/mes,
 - **stabilan lead flow:** 1.200e-3.000e/mes,
@@ -15897,7 +15874,7 @@ Prioritetne metrike su:
 
 Cak i dobra kampanja moze izgledati "losa" ako je follow-up spor ili neujednacen.
 
-## Zakljucak
+## Zaključak
 
 Google Ads za privatne klinike u Srbiji 2026 moze biti izuzetno profitabilan kanal, ali samo kad su kampanja, landing i obrada leadova povezani kao jedan sistem.
 Ako hoces, mogu da napravim konkretan 90-dnevni plan za tvoju kliniku (po usluzi i gradu) kroz [kontakt](/kontakt).
@@ -16017,47 +15994,47 @@ Ako hoćeš, mogu da uradim mini audit postojećeg sajta i dam ti plan u 3 nivoa
     content: `
 ## Google Ads za knjigovodstvene agencije u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **google ads za knjigovodstvenu agenciju cena**, praktican okvir za srpsko trziste 2026 je:
+Ako tražiš upit **google ads za knjigovodstvenu agenciju cena**, praktičan okvir za srpsko tržište 2026 je:
 
 - **test faza:** 280e-750e/mes,
 - **stabilan lead flow:** 750e-1.900e/mes,
 - **skaliranje po segmentima klijenata:** 1.900e+/mes.
 
-Za siri kontekst troskova Search kanala pogledaj i [Google reklame cena](/google-reklame-cena).
+Za širi kontekst troškova Search kanala pogledaj i [Google reklame cena](/google-reklame-cena).
 
-## Koliko realno kosta kvalifikovan lead za knjigovodstvene usluge
+## Koliko realno košta kvalifikovan lead za knjigovodstvene usluge
 
-Posle prve ozbiljne optimizacije, najcesci rasponi su:
+Posle prve ozbiljne optimizacije, najčešći rasponi su:
 
 - **CPC:** 0.18e-0.95e,
 - **kvalifikovan lead:** 10e-48e,
 - **zakazan konsultativni poziv:** 22e-95e.
 
-Najvredniji lead nije onaj koji samo posalje poruku, nego onaj koji ima jasnu potrebu (redovno knjigovodstvo, pausal/preduzetnik, obracun zarada, savetovanje) i realan budzet za saradnju.
+Najvredniji lead nije onaj koji samo pošalje poruku, nego onaj koji ima jasnu potrebu (redovno knjigovodstvo, pausal/preduzetnik, obracun zarada, savetovanje) i realan budžet za saradnju.
 
-## Gde knjigovodstvene agencije najcesce spaljuju budzet
+## Gde knjigovodstvene agencije najčešće spaljuju budžet
 
-### 1) Mesanje razlicitih tipova klijenata u jednoj kampanji
-Preduzetnici, DOO firme i e-commerce klijenti imaju razlicit intent i razlicite kriterijume pri izboru agencije.
+### 1) Mesanje različitih tipova klijenata u jednoj kampanji
+Preduzetnici, DOO firme i e-commerce klijenti imaju različit intent i različite kriterijume pri izboru agencije.
 Ako svi idu u isti ad group, poruka postaje genericka i konverzija pada.
 
-### 2) Presiroke kljucne reci
-Upiti kao "porez" ili "racunovodstvo" cesto dovode informacioni saobracaj bez kupovne namere.
-Bolje rade fraze sa signalom odluke: knjigovodstvena agencija cena, obracun plata outsourcing, vodjenje knjiga za doo, knjigovodja za pausalce.
+### 2) Presiroke ključne reči
+Upiti kao "porez" ili "računovodstvo" često dovode informacioni saobracaj bez kupovne namere.
+Bolje rade fraze sa signalom odluke: knjigovodstvena agencija cena, obracun plata outsourcing, vođenje knjiga za doo, knjigovodja za pausalce.
 
-### 3) Bez negativnih kljucnih reci
-Bez negativnih reci kampanja hvata pretrage za posao, kurseve, praksu i studentske upite.
-To brzo podize CPL i puni pipeline neprodajnim kontaktima.
+### 3) Bez negativnih ključnih reči
+Bez negativnih reči kampanja hvata pretrage za posao, kurseve, praksu i studentske upite.
+To brzo podiže CPL i puni pipeline neprodajnim kontaktima.
 
 ### 4) Slaba landing ponuda posle klika
-Oglas obecava "jasnu cenu" i "brz odgovor", a landing nema opseg usluge, model saradnje ni sledeci korak.
-Ako sredujes post-click deo, koristan je vodic [izrada landing stranice: cena, rokovi, sta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
+Oglas obecava "jasnu cenu" i "brz odgovor", a landing nema opseg usluge, model saradnje ni sledeći korak.
+Ako sređuješ post-click deo, koristan je vodič [izrada landing stranice: cena, rokovi, šta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
 
 ### 5) Spor odgovor na inbound upit
-Kod B2B usluga lead cesto kontaktira 2-4 agencije paralelno.
-Ko prvi odgovori jasnim sledecim korakom obicno uzima sastanak.
+Kod B2B usluga lead često kontaktira 2-4 agencije paralelno.
+Ko prvi odgovori jasnim sledećim korakom obično uzima sastanak.
 
-## Struktura Google Ads kampanje koja najcesce radi za knjigovodstvene agencije
+## Struktura Google Ads kampanje koja najčešće radi za knjigovodstvene agencije
 
 ### 1) Segmentacija po tipu klijenta
 Minimum odvojeno:
@@ -16068,7 +16045,7 @@ Minimum odvojeno:
 
 ### 2) Segmentacija po usluzi
 Odvojene kampanje za:
-- vodjenje knjiga,
+- vođenje knjiga,
 - obracun plata,
 - poresko savetovanje,
 - prelazak iz interne administracije na outsourcing.
@@ -16078,7 +16055,7 @@ Razdvoj gradove i zone u kojima realno preuzimas klijente.
 Ako koristis lokalni positioning, uklopi poruku i sa [marketing agencija Beograd](/marketing-agencija-beograd) i drugim geo stranicama.
 
 ### 4) Branded + non-brand sloj
-Branded kampanja cuva tvoj saobracaj kad neko vec trazi ime tvoje agencije.
+Branded kampanja cuva tvoj saobracaj kad neko već traži ime tvoje agencije.
 Non-brand radi akviziciju novog demanda kroz komercijalne upite.
 
 ## Landing i ponuda koji pretvaraju klik u konsultacije
@@ -16086,12 +16063,12 @@ Non-brand radi akviziciju novog demanda kroz komercijalne upite.
 Ako placas Search saobracaj, iznad prevoja treba da stoji:
 
 1. za koga je usluga (tip firme),
-2. sta je tacno ukljuceno u paket,
+2. šta je tačno uključeno u paket,
 3. okvir saradnje i nacin komunikacije,
 4. jasan CTA (zakazi poziv / posalji upit),
 5. trust signali (iskustvo, reference, proces onboardinga).
 
-Ako paralelno sredujes i tehnicku osnovu sajta, pogledaj i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+Ako paralelno sređuješ i tehnicku osnovu sajta, pogledaj i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
 
 ## KPI koje treba pratiti svake nedelje
 
@@ -16102,23 +16079,23 @@ Fokus drzi na:
 2. procentu leadova koji postaju zakazan konsultativni poziv,
 3. ceni zakazanog poziva,
 4. stopi zatvaranja novih klijenata,
-5. prosecnom mesecnom prihodu po novom klijentu.
+5. prosečnom mesečnom prihodu po novom klijentu.
 
 Tek kad gledas ceo lanac, znas da li kampanja pravi profit ili samo aktivnost.
 
 ## 30-dnevni plan bez lutanja
 
 - **Nedelja 1:** tracking setup + segmentacija po usluzi i tipu klijenata.
-- **Nedelja 2:** ciscenje search terms izvestaja + negativne reci + test 2-3 oglasa po grupi.
+- **Nedelja 2:** čišćenje search terms izvestaja + negativne reči + test 2-3 oglasa po grupi.
 - **Nedelja 3:** dorada landing poruke i CTA toka za najvaznije ponude.
-- **Nedelja 4:** preraspodela budzeta na segmente sa najboljim odnosom cena leada / kvalitet klijenta.
+- **Nedelja 4:** preraspodela budžeta na segmente sa najboljim odnosom cena leada / kvalitet klijenta.
 
 Za uporedni okvir kanala pogledaj i [Instagram reklame cena](/instagram-reklame-cena) i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-## Zakljucak
+## Zaključak
 
 Google Ads za knjigovodstvene agencije u Srbiji 2026 daje najbolje rezultate kada kampanje vodis po tipu klijenta, usluzi i brzini obrade upita, a ne po najjeftinijem kliku.
-Ako hoces, mogu da uradim mini audit naloga i oznacim 3 najbrza poteza za nizi CPL preko [kontakt forme](/kontakt).
+Ako hoćeš, mogu da uradim mini audit naloga i označim 3 najbrža poteza za niži CPL preko [kontakt forme](/kontakt).
 `,
   },  {
     slug: 'facebook-reklame-za-stomatologe-cena-termina-srbija-2026',
@@ -16130,17 +16107,17 @@ Ako hoces, mogu da uradim mini audit naloga i oznacim 3 najbrza poteza za nizi C
     content: `
 ## Facebook reklame za stomatologe u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **facebook reklame za stomatologe cena**, praktican okvir za srpsko trziste 2026 je:
+Ako tražiš upit **facebook reklame za stomatologe cena**, praktičan okvir za srpsko tržište 2026 je:
 
 - **test faza:** 350e-900e/mes,
 - **stabilan priliv upita:** 900e-2.200e/mes,
 - **skaliranje po usluzi i lokaciji:** 2.200e+/mes.
 
-Za siri benchmark troska pogledaj i [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama).
+Za širi benchmark troška pogledaj i [koliko košta Facebook reklama](/koliko-kosta-facebook-reklama).
 
-## Koliko realno kosta zakazan termin iz Facebook oglasa
+## Koliko realno košta zakazan termin iz Facebook oglasa
 
-Posle prve ozbiljne optimizacije, najcesci rasponi su:
+Posle prve ozbiljne optimizacije, najčešći rasponi su:
 
 - **CPC:** 0.10e-0.65e,
 - **kvalifikovan lead:** 9e-45e,
@@ -16149,29 +16126,29 @@ Posle prve ozbiljne optimizacije, najcesci rasponi su:
 Kluc je da ne meris samo cenu poruke.
 U stomatologiji je mnogo vaznije koliko kontakata stvarno dolazi do zakazanog i potvrdjenog termina.
 
-## Gde ordinacije najcesce spaljuju budzet na Facebook-u
+## Gde ordinacije najčešće spaljuju budžet na Facebook-u
 
 ### 1) Sve usluge u jednoj kampanji
 Implanti, estetska stomatologija, ortodoncija i hitni bolovi ne smeju u isti ad set.
-Razlicit intent trazi razlicit hook, kreativu i CTA.
+Različit intent traži različit hook, kreativu i CTA.
 
 ### 2) Slab uvod u kreativi (prve 2 sekunde)
 Ako prva recenica ne pogadja problem pacijenta, korisnik skroluje dalje.
 Kod Meta kampanja hook odlucuje da li cete platiti jeftin ili skup klik.
 
-### 3) Landing ili DM tok bez jasnog sledeceg koraka
-Oglas obeca brzo zakazivanje, a korisnik posle klika ne zna sta dalje.
-Ako popravljas post-click deo, koristan je vodic [izrada landing stranice: cena, rokovi, sta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
+### 3) Landing ili DM tok bez jasnog sledećeg koraka
+Oglas obeca brzo zakazivanje, a korisnik posle klika ne zna šta dalje.
+Ako popravljas post-click deo, koristan je vodič [izrada landing stranice: cena, rokovi, šta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
 
 ### 4) Kasan odgovor recepcije
-Lead koji dobije odgovor posle par sati cesto je vec zakazao kod konkurencije.
+Lead koji dobije odgovor posle par sati često je već zakazao kod konkurencije.
 Brzina follow-up-a direktno utice na cenu zakazanog termina.
 
 ### 5) Nema odvojenog remarketing sloja
-Ordinacije cesto trose sav budzet na cold publiku i zaboravljaju remarketing.
-A upravo warm publika cesto nosi najjeftinije zakazane termine.
+Ordinacije često trose sav budžet na cold publiku i zaboravljaju remarketing.
+A upravo warm publika često nosi najjeftinije zakazane termine.
 
-## Struktura Facebook kampanje koja najcesce radi za stomatologe
+## Struktura Facebook kampanje koja najčešće radi za stomatologe
 
 ### 1) Kampanja po usluzi
 Minimum odvojeno:
@@ -16182,19 +16159,19 @@ Minimum odvojeno:
 
 ### 2) Kampanja po lokaciji
 Razdvoji gradove i zone koje ordinacija stvarno pokriva.
-Klik van realnog radijusa skoro uvek podize trosak bez realne konverzije.
+Klik van realnog radijusa skoro uvek podiže trosak bez realne konverzije.
 
 ### 3) Retargeting kampanja
 Poseban ad set za ljude koji su gledali sajt, profil ili video.
-Ovaj sloj najcesce ima nizi CPA i bolji procenat zakazivanja.
+Ovaj sloj najčešće ima niži CPA i bolji procenat zakazivanja.
 
 ### 4) Creative rotacija na 7-14 dana
 Kad isti oglas ide predugo, dolazi do ad fatigue efekta.
 Redovna zamena kreativnih uglova drzi CTR stabilnim i spusta cenu lead-a.
 
-## Koje kreative najcesce rade za stomatoloske ordinacije
+## Koje kreative najčešće rade za stomatoloske ordinacije
 
-Najbolji rezultat obicno daju formati koji podizu poverenje, ne samo "lep" dizajn:
+Najbolji rezultat obično daju formati koji podižu poverenje, ne samo "lep" dizajn:
 
 1. kratki edukativni video sa jasnim problemom i resenjem,
 2. mini FAQ format (bol, trajanje, oporavak),
@@ -16212,7 +16189,7 @@ Ako placas Facebook saobracaj, iznad prevoja mora da stoji:
 2. doktor/tim i signal poverenja,
 3. jednostavan CTA (poziv, forma ili poruka),
 4. kratka forma sa minimum polja,
-5. brz sledeci korak posle prijave.
+5. brz sledeći korak posle prijave.
 
 Odmah zatim ide operativa:
 - odgovor u prvih 5-15 min,
@@ -16220,7 +16197,7 @@ Odmah zatim ide operativa:
 - ponudjen prvi slobodan termin,
 - potvrda termina istog dana.
 
-Bez ovoga ni dobar oglas ne moze da drzi zdrav CPA.
+Bez ovoga ni dobar oglas ne može da drzi zdrav CPA.
 
 ## KPI koje ordinacija treba da prati svake nedelje
 
@@ -16240,15 +16217,15 @@ Tek kad gledas ceo lanac, znas da li kampanja pravi profit ili samo aktivnost.
 - **Nedelja 1:** tracking setup + podela kampanja po usluzi i lokaciji.
 - **Nedelja 2:** test 3-5 kreativnih uglova + gasenje slabih ad setova.
 - **Nedelja 3:** dorada landing/DM toka i uvodjenje brzeg follow-up procesa.
-- **Nedelja 4:** preraspodela budzeta na segmente sa najboljim odnosom cena termina / kvalitet pacijenta.
+- **Nedelja 4:** preraspodela budžeta na segmente sa najboljim odnosom cena termina / kvalitet pacijenta.
 
 Za poredbu sa Search namerom pogledaj i [Google reklame cena](/google-reklame-cena).
-Ako zelis siri kanalni pregled, koristan je i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Ako zelis širi kanalni pregled, koristan je i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-## Zakljucak
+## Zaključak
 
 Facebook reklame za stomatologe u Srbiji 2026 mogu da donesu stabilan priliv pacijenata kada kampanje vodis po usluzi, lokaciji i brzini obrade lead-a, a ne po vanity metrikama.
-Ako hoces, mogu da uradim mini audit naloga i oznacim 3 najbrza poteza za nizu cenu zakazanog termina preko [kontakt forme](/kontakt).
+Ako hoćeš, mogu da uradim mini audit naloga i označim 3 najbrža poteza za nizu cenu zakazanog termina preko [kontakt forme](/kontakt).
 `,
   },
   {
@@ -16261,7 +16238,7 @@ Ako hoces, mogu da uradim mini audit naloga i oznacim 3 najbrza poteza za nizu c
     content: `
 ## Google Ads za bravare u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **google ads za bravare cena**, praktican okvir za srpsko trziste 2026 je:
+Ako tražiš upit **google ads za bravare cena**, praktican okvir za srpsko trziste 2026 je:
 
 - **start test faza:** 320e-900e/mes,
 - **stabilan priliv upita:** 900e-2.200e/mes,
@@ -16357,7 +16334,7 @@ Tek kad gledas ceo lanac, znas da li Google Ads pravi zdrav pipeline ili samo ak
 Za detaljniji benchmark klikova i CPA raspona pogledaj [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026).
 Ako pored Search kanala testiras i demand capture na social-u, uporedi i [Instagram reklame cena](/instagram-reklame-cena).
 
-## Zakljucak
+## Zaključak
 
 Google Ads za bravare u Srbiji 2026 moze da donese stabilan priliv profitabilnih intervencija kada kampanje vodis po intentu, lokaciji i brzini obrade upita, a ne po najjeftinijem kliku.
 Ako hoces, mogu da uradim mini audit naloga i oznacim 3 najbrza poteza za nizu cenu kvalitetnog upita preko [kontakt forme](/kontakt).
@@ -16597,7 +16574,7 @@ Ako hoćeš, mogu da uradim mini audit naloga i označim 3 najbrža poteza za ni
     content: `
 ## Google Ads za klima servis u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **google ads za klima servis cena**, najprakticniji okvir za srpsko trziste 2026 je:
+Ako tražiš upit **google ads za klima servis cena**, najprakticniji okvir za srpsko trziste 2026 je:
 
 - **van sezone (oktobar-mart):** 250e-700e/mes,
 - **predsezona (april-maj):** 700e-1.800e/mes,
@@ -16692,7 +16669,7 @@ Tek kad gledas ceo lanac, znas da li Google Ads pravi zdrav pipeline ili samo ak
 Za dublji raspon CPC/CPA metrika pogledaj [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026).
 Ako pored Search kanala testiras i Meta demand capture, uporedi i [Instagram reklame cena](/instagram-reklame-cena).
 
-## Zakljucak
+## Zaključak
 
 Google Ads za klima servis u Srbiji 2026 moze da donese stabilan priliv profitabilnih intervencija kada kampanje vodis po intentu, lokaciji i sezonskom ritmu, a ne po jednoj "generalnoj" postavci.
 Ako hoces, mogu da uradim mini audit naloga i oznacim 3 najbrza poteza za nizu cenu kvalitetnog upita preko [kontakt forme](/kontakt).
@@ -16815,7 +16792,7 @@ Ako hoćeš, mogu da uradim mini audit naloga i označim 3 najbrža poteza za ni
     content: `
 ## Migracija sajta na WordPress cena 2026: kratak odgovor
 
-Ako trazis upit **migracija sajta na WordPress cena**, realan raspon na srpskom trzistu 2026 je najcesce:
+Ako tražiš upit **migracija sajta na WordPress cena**, realan raspon na srpskom trzistu 2026 je najcesce:
 
 - **jednostavan corporate sajt (5-15 URL-ova):** 350e-1.100e,
 - **srednje kompleksan sajt (15-80 URL-ova):** 1.100e-3.200e,
@@ -16916,7 +16893,7 @@ Nije svaka nedelja dobra za prebacivanje sajta. Odlaganje je pametnije kada:
 
 Bolje je uraditi migraciju fazno nego juriti "big bang" pristup koji ugrozava leadove.
 
-## Zakljucak
+## Zaključak
 
 Migracija sajta na WordPress cena u Srbiji 2026 zavisi od kompleksnosti, ali prava usteda nije najniza ponuda nego rollout bez pada SEO-a i prodajnih signala.
 Ako hoces, mogu da uradim pre-migration audit i oznacim 3 najveca rizika pre prebacivanja preko [kontakt forme](/kontakt).
@@ -16932,7 +16909,7 @@ Ako hoces, mogu da uradim pre-migration audit i oznacim 3 najveca rizika pre pre
     content: `
 ## SEO optimizacija WordPress sajta cena 2026: kratak odgovor
 
-Ako trazis upit **seo optimizacija wordpress sajta cena**, realan raspon za srpsko trziste 2026 najcesce izgleda ovako:
+Ako tražiš upit **seo optimizacija wordpress sajta cena**, realan raspon za srpsko trziste 2026 najcesce izgleda ovako:
 
 - **osnovni SEO setup + tehnicki audit:** 250e-600e jednokratno,
 - **kontinuirana SEO optimizacija (lokalni biznisi):** 350e-900e/mes,
@@ -17026,7 +17003,7 @@ Prati minimum:
 
 Kad ovi KPI-jevi idu gore, SEO ulaganje ima poslovni smisao.
 
-## Zakljucak
+## Zaključak
 
 SEO optimizacija WordPress sajta cena u Srbiji 2026 nema jednu fiksnu cifru, ali ima jasan okvir sta mora da bude uradjeno da bi rast bio merljiv i profitabilan.
 Ako hoces, mogu da uradim mini SEO audit i oznacim 3 najbrza poteza za veci broj kvalitetnih upita preko [kontakt forme](/kontakt).
@@ -17041,7 +17018,7 @@ Ako hoces, mogu da uradim mini SEO audit i oznacim 3 najbrza poteza za veci broj
     content: `
 ## Google reklame za vodoinstalatere u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **google reklame za vodoinstalatere cena**, realan okvir za srpsko trziste je:
+Ako tražiš upit **google reklame za vodoinstalatere cena**, realan okvir za srpsko trziste je:
 
 - **Start test faza:** 300e-800e mesecno
 - **Stabilan lead flow:** 800e-1.800e mesecno
@@ -17124,7 +17101,7 @@ Tek kad ove brojke gledas zajedno, znas da li kampanja donosi profit ili samo ak
 
 Za siri plan raspodele ulaganja po kanalima pogledaj i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-## Zakljucak
+## Zaključak
 
 Google reklame za vodoinstalatere u Srbiji 2026 mogu donositi stabilan tok poziva, ali samo kada su kampanje odvojene po nameri, lokaciji i tipu usluge.
 Ako hoces, mozemo uraditi brz audit tvog naloga i oznaciti 3 najbrza poteza za nizi trosak kvalitetnog leada preko [kontakt forme](/kontakt).
@@ -17235,7 +17212,7 @@ Kad ove brojke drzis pod kontrolom, Google Ads prestaje da bude "trosak oglasa" 
 
 Ako si vec u fazi skaliranja i treba ti precizan plan za tvoj grad i usluge, javi se preko [kontakt forme](/kontakt).
 
-## Zakljucak
+## Zaključak
 
 Google reklame za gradjevinske firme u Srbiji 2026 mogu donositi stabilan pipeline projekata, ali samo kad su kampanje podeljene po intentu, lokaciji i realnom kvalitetu upita.
 Fokus na cenu klika bez kontrole kvaliteta lead-a je najbrzi put do bacanja budzeta.
@@ -17286,7 +17263,7 @@ Ako ti treba baza pre SEO skaliranja, koristan kontekst je i [izrada WordPress s
 
 ## Koliko traje da SEO za advokate pocne da daje rezultat
 
-Realna ocekivanja za srpsko trziste 2026:
+Realna očekivanja za srpsko trziste 2026:
 
 - **Prvih 30 dana:** tehnicka stabilizacija + mapiranje tema + on-page osnova.
 - **60-90 dana:** prvi ozbiljniji pomaci na lokalnim i long-tail upitima.
@@ -17308,7 +17285,7 @@ Drzi fokus na ovim metrikama:
 Tek kada ovo povezes, znas da li SEO donosi profit ili samo "saobracaj".
 Ako paralelno testiras paid kanal za hitniji lead flow, pogledaj i [Google reklame cena](/google-reklame-cena).
 
-## Model budzeta koji kancelarijama obicno radi
+## Model budžeta koji kancelarijama obicno radi
 
 Praktican okvir za 2026:
 
@@ -17351,7 +17328,7 @@ Pre potpisivanja saradnje trazi jasan odgovor na ova pitanja:
 
 Ako je odgovor neodredjen, velika je sansa da ces placati aktivnost, ne rezultat.
 
-## Zakljucak
+## Zaključak
 
 SEO za advokate u Srbiji 2026 ima smisla kada je vezan za kvalitetne pravne upite, konsultacije i vrednost predmeta, a ne samo za pozicije.
 Ako hoces, mozemo uraditi brz audit tvog trenutnog sajta i pokazati 3 najbrza poteza za vise relevantnih upita preko [kontakt forme](/kontakt).
@@ -17367,7 +17344,7 @@ Ako hoces, mozemo uraditi brz audit tvog trenutnog sajta i pokazati 3 najbrza po
     content: `
 ## Instagram reklame za autoservise u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **instagram reklame za autoservise cena Srbija**, najvaznije je da ne meris samo klik.
+Ako tražiš upit **instagram reklame za autoservise cena Srbija**, najvaznije je da ne meris samo klik.
 U praksi 2026, za vecinu gradova u Srbiji realan okvir je:
 
 - CPC: **0,08e - 0,45e**
@@ -17458,7 +17435,7 @@ Koristan okvir je [izrada landing stranice: cena, rokovi, sta ulazi u cenu](/blo
 Posle 30 dana vec treba da znas sta radi i sta ne.
 Bez te discipline, kampanja izgleda aktivno, a u stvari trosi budzet bez stabilnog efekta.
 
-## Zakljucak
+## Zaključak
 
 Instagram reklame za autoservise u Srbiji 2026 mogu biti odlican kanal, ali samo ako se vodi cena termina i kvalitet dolaska, ne vanity metrike.
 Ako hoces, mozemo da uradimo brz audit tvoje trenutne kampanje i damo 3 najbrza poteza za nizi trosak upita preko [kontakt forme](/kontakt).
@@ -17555,7 +17532,7 @@ Ako radis i Google paralelno, kombinuj ovaj plan sa [Google reklame cena](/googl
 
 Kada vidis ove signale, ne treba vise potrosnje nego bolji sistem.
 
-## Zakljucak
+## Zaključak
 
 Instagram Ads cena po kliku u Srbiji 2026 nema smisla sama za sebe.
 Prava optimizacija je da CPC, landing i prodajni follow-up rade kao jedna celina - ako hoces, mogu da uradim mini audit i dam ti 3 najbrza poteza za nizi trosak i bolji kvalitet upita preko [kontakt forme](/kontakt).
@@ -17649,7 +17626,7 @@ Da bi sajt poceo da radi poslovni posao, prvih 30 dana su kriticni:
 
 Za paid deo pogledaj i [Google reklame cena](/google-reklame-cena).
 
-## Zakljucak
+## Zaključak
 
 U 2026 cena WordPress sajta u Srbiji ima smisla tek kada je vezes za poslovni cilj, a ne za broj podstranica.
 Ako hoces, mogu da ti uradim brzu procenu postojece ponude i oznacim sta je must-have pre potpisa - javi se preko [kontakt forme](/kontakt).
@@ -17747,7 +17724,7 @@ Lead koji cekas satima prakticno postaje skuplji i kad je CPC nizak.
 
 Ako hoces da uporedis Meta i Google budzet u jedinstvenom planu, pogledaj [Google reklame cena](/google-reklame-cena) i [Instagram reklame cena](/instagram-reklame-cena).
 
-## Zakljucak
+## Zaključak
 
 Meta Ads cena po kliku u Srbiji 2026 nije broj koji kopiras iz tudjeg izvestaja, nego rezultat tvog kreativa, publike i procesa posle klika.
 Ako hoces, mogu da uradim mini audit i dam ti 3 konkretna poteza za nizi CPC i bolji kvalitet upita - javi se preko [kontakt forme](/kontakt).
@@ -17763,7 +17740,7 @@ Ako hoces, mogu da uradim mini audit i dam ti 3 konkretna poteza za nizi CPC i b
     content: `
 ## Leila Hormozi onboarding sistem: kratak odgovor
 
-Ako trazis upit **kako zadrzati klijente u marketing agenciji**, najveca razlika se ne pravi u prodaji nego u prvih 30 dana posle potpisa.
+Ako tražiš upit **kako zadrzati klijente u marketing agenciji**, najveca razlika se ne pravi u prodaji nego u prvih 30 dana posle potpisa.
 Leila Hormozi princip je jednostavan: klijent mora brzo da vidi jasan napredak, ritam komunikacije i sledece korake.
 
 U praksi to najcesce znaci:
@@ -17850,7 +17827,7 @@ Ako je klijent vec nervozan, uradi brzi reset:
 
 Cilj nije da "dokazes da si u pravu", nego da vratis poverenje kroz ritam i transparentnost.
 
-## Zakljucak
+## Zaključak
 
 Leila Hormozi onboarding logika radi jer smanjuje neizvesnost i pravi rani momentum.
 Ako hoces, mogu da ti slozim gotov onboarding scorecard + template nedeljnog update-a za tvoj tim - javi se preko [kontakt forme](/kontakt).
@@ -17866,7 +17843,7 @@ Ako hoces, mogu da ti slozim gotov onboarding scorecard + template nedeljnog upd
     content: `
 ## Sabri Suby 7-hour follow-up sistem: kratak odgovor
 
-Ako trazis upit **kako povecati konverziju leadova bez veceg budzeta**, najbrzi profit potez je skoro uvek isti:
+Ako tražiš upit **kako povecati konverziju leadova bez veceg budzeta**, najbrzi profit potez je skoro uvek isti:
 - odgovori leadu u prvih 5-15 minuta,
 - postavi jasan follow-up raspored u prvih 7 sati,
 - vodi razgovor ka jednom sledecem koraku (poziv, procena, sastanak).
@@ -17961,7 +17938,7 @@ Kad se ovo sredi, mnoge firme dobiju rast konverzije i bez novog ulaganja u ogla
 
 Posle 14 dana obicno vec vidis da li funnel stvarno pretvara leadove u pipeline.
 
-## Zakljucak
+## Zaključak
 
 Ako vec placas saobracaj, najveci "hidden ROI" je skoro uvek u brzini i kvalitetu follow-up-a.
 Ako hoces, mogu da ti slozim 7-hour follow-up skripte za tvoj konkretan funnel i industriju - javi se preko [kontakt forme](/kontakt).
@@ -17984,11 +17961,11 @@ Ako tražiš upit **google ads za kozmetički salon cena**, realan start okvir n
 
 Za širi pregled Search troška pogledaj i [Google reklame cena](/google-reklame-cena).
 
-## Zašto saloni cesto dobiju klikove, ali ne i termine
+## Zašto saloni često dobiju klikove, ali ne i termine
 
-Najcesci problem nije "Google je skup", nego to sto kampanja i ponuda nisu uparene.
+Najčešći problem nije "Google je skup", nego to što kampanja i ponuda nisu uparene.
 Klik se desi, ali korisnica ne zakaže termin jer:
-1. oglas je sirok i ne govori tacno koju uslugu nudi salon,
+1. oglas je sirok i ne govori tačno koju uslugu nudi salon,
 2. landing stranica nema jasan sledeći korak,
 3. nema signala poverenja (fotke rada, recenzije, iskustvo),
 4. forma je predugacka ili komplikovana,
@@ -18004,7 +17981,7 @@ U beauty nisama brzina i poverenje odluce pre nego cena.
 - KPI: cena kvalifikovanog upita i broj zakazanih termina.
 
 ### Faza 2: optimizacija (30-90 dana)
-- fokus: search terms ciscenje, negativne reći, bolji ad copy,
+- fokus: search terms čišćenje, negativne reći, bolji ad copy,
 - budžet: 700e-1.600e,
 - KPI: cena potvrdenog termina i procenat dolaska klijenata.
 
@@ -18015,14 +17992,14 @@ U beauty nisama brzina i poverenje odluce pre nego cena.
 
 Ako paralelno testiras Meta kanal za demand capture, uporedi i [Instagram reklame cena](/instagram-reklame-cena).
 
-## Realni rasponi troskova za beauty lokal u Srbiji 2026
+## Realni rasponi troškova za beauty lokal u Srbiji 2026
 
 Orijentacioni rasponi koje saloni najčešće vide posle prve optimizacije:
 - **CPC:** 0.10e-0.65e,
 - **kvalifikovan upit:** 5e-25e,
 - **zakazan termin:** 9e-40e.
 
-Ako je cena termina visoka, to ne mora znaciti da je kampanja losa.
+Ako je cena termina visoka, to ne mora značiti da je kampanja loša.
 Bitnije je da li termin donosi profit, odnosno da li se klijentkinja vraca.
 
 ## Ključne reći koje donose kvalitetniji intent
@@ -18035,7 +18012,7 @@ Najčešće bolji rezultat daju fraze sa jasnom namerom:
 
 Siroki termini tipa "kozmeticar" i "lepota" znaju da pojedu budžet bez realne namere.
 
-## Landing stranica: gde kampanje najvise gube novac
+## Landing stranica: gde kampanje najviše gube novac
 
 Za lokalni salon landing mora da zatvori odluku brzo.
 Minimalna struktura koja obično radi:
@@ -18045,7 +18022,7 @@ Minimalna struktura koja obično radi:
 4. CTA za zakazivanje iznad prevoja,
 5. jednostavna forma + WhatsApp/Viber fallback kontakt.
 
-Ako tek gradis ili menjas landing, pogledaj i [izrada landing stranice: cena, rokovi, sta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
+Ako tek gradis ili menjas landing, pogledaj i [izrada landing stranice: cena, rokovi, šta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
 
 ## Kako da meris profit, ne samo "lep" dashboard
 
@@ -18061,17 +18038,17 @@ Bez ovoga lako dodje do situacije da kampanja izgleda dobro, a raspored i profit
 ## 7 brzih poteza koji obično spuste cenu termina
 
 1. Odvoj kampanje po usluzi (ne sve u jednu grupu).
-2. Koristi lokalni intent u kljucnim recima i oglasima.
+2. Koristi lokalni intent u ključnim rečima i oglasima.
 3. Dodaj negativne reći svake nedelje.
 4. Upari naslov oglasa i naslov landing stranice 1:1.
 5. Istakni cenu ili raspon kada je to takticki korisno.
-6. Skrati put do zakazivanja na najvise 2 klika.
+6. Skrati put do zakazivanja na najviše 2 klika.
 7. Postavi SLA odgovora (npr. do 15 min u radno vreme).
 
 ## Zaključak
 
 Google Ads može da donese stabilan tok novih termina za kozmetički salon, ali samo ako je fokus na ceni potvrdenog termina i stvarnom profitu, ne na jeftinom kliku.
-Ako zelis, mogu da uradim mini audit tvoje postojece kampanje i oznacim 3 najbrza SEO/PPC poteza koji podizu broj profitabilnih zakazivanja - javi se preko [kontakt forme](/kontakt).
+Ako zelis, mogu da uradim mini audit tvoje postojece kampanje i označim 3 najbrža SEO/PPC poteza koji podižu broj profitabilnih zakazivanja - javi se preko [kontakt forme](/kontakt).
 `,
   },
   {
@@ -18188,7 +18165,7 @@ Instagram je jak kada treba da:
 Google je obicno jaci kada klijent vec ima hitnu nameru i trazi resenje odmah.
 U praksi, kombinacija oba kanala daje stabilniji priliv.
 
-## Zakljucak
+## Zaključak
 
 Instagram reklame za advokate mogu biti profitabilne ako je fokus na kvalitetu leadova, ne na jeftinom kliku.
 Ako hoces, mogu da uradim mini audit trenutne kampanje i oznacim gde curi budzet pre sledeceg meseca - javi se preko [kontakt forme](/kontakt).
@@ -18204,45 +18181,45 @@ Ako hoces, mogu da uradim mini audit trenutne kampanje i oznacim gde curi budzet
     content: `
 ## Google Ads za autoservise u Srbiji 2026: kratak odgovor
 
-Ako pretrazujes upit **google ads za autoservis cena**, praktican okvir za srpsko trziste je:
+Ako pretrazujes upit **google ads za autoservis cena**, praktičan okvir za srpsko tržište je:
 - **350e-800e/mes** za test fazu (lokalni servis, 2-4 usluge),
 - **800e-1.800e/mes** za stabilan priliv poziva i upita,
-- **1.800e+ / mes** kada skaliras vise gradova ili vise profitnih usluga.
+- **1.800e+ / mes** kada skaliras više gradova ili više profitnih usluga.
 
-Za siri benchmark cene klika i modela ulaganja pogledaj i [Google reklame cena](/google-reklame-cena).
+Za širi benchmark cene klika i modela ulaganja pogledaj i [Google reklame cena](/google-reklame-cena).
 
-## Zasto autoservisi cesto spale budzet bez rezultata
+## Zašto autoservisi često spale budžet bez rezultata
 
-Problem obicno nije Google Ads kao kanal, nego struktura ponude.
-Najcesce greske su:
+Problem obično nije Google Ads kao kanal, nego struktura ponude.
+Najčešće greške su:
 1. jedna kampanja za sve usluge (ulje, trap, dijagnostika, veliki servis),
-2. pogresne kljucne reci bez lokalne namere,
+2. pogrešne ključne reči bez lokalne namere,
 3. poziv kao jedina konverzija, bez forme i trackinga,
 4. landing stranica koja izgleda genericki i ne gradi poverenje,
 5. fokus na jeftin klik umesto na cenu stvarnog termina.
 
-Ako ovaj deo ne postavis dobro, i "jeftin" CPC moze da bude skup.
+Ako ovaj deo ne postavis dobro, i "jeftin" CPC može da bude skup.
 
-## Koliki budzet ima smisla za auto servis
+## Koliki budžet ima smisla za auto servis
 
 ### Faza 1: test (prvih 30 dana)
 - cilj: validacija usluga koje donose najvrednije upite,
-- budzet: 350e-800e,
+- budžet: 350e-800e,
 - KPI: broj relevantnih poziva, cena kvalifikovanog upita, stopa zakazivanja.
 
 ### Faza 2: stabilizacija (30-90 dana)
-- cilj: precizniji search terms + negativne reci + bolja landing poruka,
-- budzet: 800e-1.800e,
+- cilj: precizniji search terms + negativne reči + bolja landing poruka,
+- budžet: 800e-1.800e,
 - KPI: cena zakazanog termina i popunjenost kapaciteta.
 
 ### Faza 3: skaliranje
-- cilj: nove usluge, vise lokacija, veci obim,
-- budzet: 1.800e+,
-- KPI: profit po usluzi i predvidljiv mesecni broj novih klijenata.
+- cilj: nove usluge, više lokacija, veci obim,
+- budžet: 1.800e+,
+- KPI: profit po usluzi i predvidljiv mesečni broj novih klijenata.
 
-Ako poredis i Meta kanal za demand capture, koristan paralelan okvir je [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama).
+Ako porediš i Meta kanal za demand capture, koristan paralelan okvir je [koliko košta Facebook reklama](/koliko-kosta-facebook-reklama).
 
-## Koliko kosta klik i lead za auto servis u Srbiji 2026
+## Koliko košta klik i lead za auto servis u Srbiji 2026
 
 Orijentacioni rasponi (zavise od grada i konkurencije):
 - CPC: **0,18e-0,95e**,
@@ -18251,17 +18228,17 @@ Orijentacioni rasponi (zavise od grada i konkurencije):
 
 Skuplji klik nije automatski los ako dolazi sa jasnim intentom (npr. "servis menjaca novi sad", "dijagnostika vw beograd").
 
-## Usluge koje najcesce daju najbolji ROI
+## Usluge koje najčešće daju najbolji ROI
 
-U praksi, ova struktura cesto daje najbolji odnos troska i dobiti:
+U praksi, ova struktura često daje najbolji odnos troška i dobiti:
 - dijagnostika + hitne intervencije,
 - veliki/mali servis za konkretne marke,
 - trap i reglaza za lokalnu zonu,
 - sezonske usluge sa jasnim rokom (npr. priprema za put).
 
-Sirina bez fokusa je glavni razlog rasipanja budzeta.
+Sirina bez fokusa je glavni razlog rasipanja budžeta.
 
-## Landing stranica za autoservis: sta mora da postoji
+## Landing stranica za autoservis: šta mora da postoji
 
 Ako placas klik, stranica mora da zatvori poverenje brzo.
 Minimum koji treba da postoji:
@@ -18271,7 +18248,7 @@ Minimum koji treba da postoji:
 4. radno vreme i lokacija,
 5. poruka koja je 1:1 sa oglasom.
 
-Ako landing ne radi, prvo sredi strukturu. Praktican vodic je [izrada landing stranice: cena, rokovi, sta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
+Ako landing ne radi, prvo sredi strukturu. Praktičan vodic je [izrada landing stranice: cena, rokovi, šta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
 
 ## Kako da meris da li kampanja stvarno radi
 
@@ -18282,20 +18259,20 @@ Ne meri samo klikove. Za auto servis su najvazniji:
 - bruto marza po tipu usluge,
 - povrat klijenta (koliko njih se vraca).
 
-Ako ne znas ova 4-5 broja, tesko je pametno skalirati.
+Ako ne znas ova 4-5 broja, teško je pametno skalirati.
 
 ## 5 brzih poteza za pad cene leada
 
 1. Odvoj kampanje po usluzi i gradu.
-2. Dodaj negativne reci svaki 7-10 dana.
+2. Dodaj negativne reči svaki 7-10 dana.
 3. Testiraj 2-3 varijante oglasa po usluzi.
-4. Ukljuci call extension i location extension.
+4. Uključi call extension i location extension.
 5. Uskladi ponudu oglasa i landing stranice bez "opstih" poruka.
 
-## Zakljucak
+## Zaključak
 
-Google Ads za autoservise moze da bude veoma profitabilan kanal kad su usluga, lokalni intent i tracking postavljeni kako treba.
-Ako hoces, mogu da uradim mini audit tvoje trenutne kampanje i predlozim tacno gde curi budzet pre sledeceg meseca - javi se preko [kontakt forme](/kontakt).
+Google Ads za autoservise može da bude veoma profitabilan kanal kad su usluga, lokalni intent i tracking postavljeni kako treba.
+Ako hoćeš, mogu da uradim mini audit tvoje trenutne kampanje i predložim tačno gde curi budžet pre sledećeg meseca - javi se preko [kontakt forme](/kontakt).
 `,
   },
   {
@@ -18535,7 +18512,7 @@ Tri najskuplje greske u praksi:
 
 Ako ti treba kontekst oko ads budzeta koji ide uz webshop, pogledaj i [Google reklame cena](/google-reklame-cena).
 
-## Zakljucak
+## Zaključak
 
 WooCommerce sajt cena u Srbiji 2026 nema jedan "tacan" broj, ali ima jasan okvir: sto je veca odgovornost za prodajni rezultat, to je veca i pocetna investicija.
 Ako hoces, mogu da uradim mini audit tvoje trenutne ponude i oznacim sta fali pre nego sto ulozis budzet - javi se preko [kontakt forme](/kontakt).
@@ -18630,7 +18607,7 @@ Ako radis Search kanal, benchmark za trosak i strukturu pogledaj i [Google rekla
 
 Ako hoces da sve ovo spakujes u operativni plan za svoj tim, javi se preko [kontakt forme](/kontakt).
 
-## Zakljucak
+## Zaključak
 
 Leila Hormozi weekly scorecard nije jos jedan dashboard, nego sistem odgovornosti koji drzi marketing stabilnim i kad vlasnik nije stalno u kampanjama.
 Kad su KPI-jevi jasni, ownership definisan i pragovi reakcije unapred dogovoreni, rast postaje predvidljiviji i manje zavisi od "hero" rada.
@@ -18730,7 +18707,7 @@ Ako je realna cena termina duze iznad tog nivoa, treba menjati poruku, funnel il
 
 Ako pre slanja vise saobracaja hoces da sredis prodajni deo sajta, koristan kontekst je i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
 
-## Zakljucak
+## Zaključak
 
 Instagram reklame za stomatologe u Srbiji 2026 mogu donositi stabilan kalendar samo kad kampanju vodis kroz cenu termina i kvalitet pacijenata, ne kroz vanity metrike.
 Ako hoces, mogu da uradim mini audit tvog naloga i oznacim 3 poteza koji najbrze spustaju cenu zakazanog termina - javi se preko [kontakt forme](/kontakt).
@@ -18746,7 +18723,7 @@ Ako hoces, mogu da uradim mini audit tvog naloga i oznacim 3 poteza koji najbrze
     content: `
 ## Instagram reklame za restorane u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **instagram reklame za restorane cena Srbija**, najkorisniji odgovor je:
+Ako tražiš upit **instagram reklame za restorane cena Srbija**, najkorisniji odgovor je:
 - vecina restorana krece sa **350e-1.500e mesecno** medijskog budzeta,
 - cena rezervacije je odrziva tek kad su ponuda, kreativa i stranica posle klika uskladjene,
 - jeftin klik bez rezervacije je trosak, ne rezultat.
@@ -18796,7 +18773,7 @@ Primer:
 - no-show stopa: 20%.
 
 Efektivna vrednost potvrdene rezervacije je oko 17.3e.
-Ako je cena rezervacije dugorocno iznad tog nivoa, kampanja mora korekciju (ponuda, publika ili funnel).
+Ako je cena rezervacije dugoročno iznad tog nivoa, kampanja mora korekciju (ponuda, publika ili funnel).
 
 ## Kreativa koja radi za restorane (bez generickih stock oglasa)
 
@@ -18831,7 +18808,7 @@ Ako restoran tek sredjuje prodajnu infrastrukturu sajta, koristan je i vodic [iz
 
 Ako zelis da uporedis i Search kanal trosak po intentu, pogledaj [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026).
 
-## Zakljucak
+## Zaključak
 
 Instagram reklame za restorane u Srbiji 2026 mogu donositi stabilne rezervacije, ali samo kad se meri cena rezervacije i radi iteracija svake nedelje.
 Ako zelis, mogu da uradim mini audit tvog naloga i oznacim 3 poteza koji najbrze spustaju cenu rezervacije — javi se preko [kontakt forme](/kontakt).
@@ -18961,7 +18938,7 @@ Ako ordinacija paralelno radi i paid kanal, pogledaj i [Google reklame cena](/go
 4. Klik vodi na genericku homepage stranicu bez CTA-a.
 5. Merenje je ograniceno na "preglede", bez pracenja realnih poziva i upita.
 
-## Zakljucak
+## Zaključak
 
 Google Business profil za stomatoloske ordinacije u Srbiji 2026 moze biti najbrzi put do vise poziva i zakazanih termina, ali samo kada se vodi kao kanal, ne kao jednokratni setup.
 Ako hoces, mogu da uradim brz audit tvog profila i oznacim 3 izmene koje najbrze podizu broj kvalitetnih upita - javi se preko [kontakt forme](/kontakt).
@@ -18977,7 +18954,7 @@ Ako hoces, mogu da uradim brz audit tvog profila i oznacim 3 izmene koje najbrze
     content: `
 ## Google Ads za B2B u Srbiji 2026: kratak odgovor bez ulepsavanja
 
-Ako trazis upit **google ads za b2b cena leada Srbija**, realan odgovor je:
+Ako tražiš upit **google ads za b2b cena leada Srbija**, realan odgovor je:
 - vecina B2B firmi krece sa **900e-3.500e mesecnog budzeta**,
 - CPL je siroka metrika i ne znaci mnogo bez SQL kvaliteta,
 - profit ne dolazi iz jeftinog klika, nego iz leadova koji ulaze u pipeline i zatvaraju se.
@@ -19052,7 +19029,7 @@ Za pricing benchmark po kliku mozes pogledati i [Google Ads cena po kliku u Srbi
 
 Kluc je da svakih 7 dana gasis ono sto ne ulazi u prodajni tok, a ne samo ono sto ima skuplji klik.
 
-## Zakljucak
+## Zaključak
 
 Google Ads za B2B u Srbiji 2026 moze biti stabilan pipeline kanal, ali samo kada KPI nije "jeftin CPL" nego odrziv SQL cost i stopa zatvaranja.
 Ako hoces, mogu da uradim brzi audit kampanje i oznacim 3 poteza koji najbrze popravljaju kvalitet leadova — javi se preko [kontakt forme](/kontakt).
@@ -19068,7 +19045,7 @@ Ako hoces, mogu da uradim brzi audit kampanje i oznacim 3 poteza koji najbrze po
     content: `
 ## Kratak odgovor: Google Ads za web shop moze biti i najbrzi rast i najbrze bacanje budzeta
 
-Ako trazis upit **google ads za ecommerce cena Srbija**, realan odgovor je:
+Ako tražiš upit **google ads za ecommerce cena Srbija**, realan odgovor je:
 - test budzet za vecinu web shopova je **700e-2.500e mesecno**,
 - cena klika je bitna, ali je mnogo bitnija **cena prodaje (CPA)**,
 - skaliranje ima smisla tek kad je odnos marze i troska akvizicije zdrav.
@@ -19168,7 +19145,7 @@ Ako paralelno sredjujes i infrastrukturu sajta, pogledaj i [izrada WordPress saj
 5. **Nema veze izmedju ads tima i prodaje/logistike**
    Ako nema informacija o povratima i kvalitetu porudzbina, optimizacija je nepotpuna.
 
-## Zakljucak
+## Zaključak
 
 Google Ads za e-commerce u Srbiji 2026 moze biti predvidljiv kanal rasta, ali samo ako se vodi po marzi i ceni prodaje, ne po vanity metrikama.
 Ako hoces, mogu da uradim brz audit trenutnih kampanja i oznacim 3 poteza koji najbrze spustaju cenu profitabilne porudzbine - javi se preko [kontakt forme](/kontakt).
@@ -19184,7 +19161,7 @@ Ako hoces, mogu da uradim brz audit trenutnih kampanja i oznacim 3 poteza koji n
     content: `
 ## Google Ads za advokate u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **google ads za advokate cena Srbija**, najprakticniji odgovor je:
+Ako tražiš upit **google ads za advokate cena Srbija**, najprakticniji odgovor je:
 - realan test budzet za vecinu kancelarija je **800e-2.500e mesecno**,
 - cena klika cesto zavisi od grada i oblasti prava,
 - profitabilnost ne meri CPC, nego **cena zakazanih konsultacija i potpisanih klijenata**.
@@ -19287,7 +19264,7 @@ Ako zelis da sredis i conversion deo posle klika, koristan sledeci korak je [CRO
 
 Paralelno, uskladi model saradnje sa realnim obimom posla kroz [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-## Zakljucak
+## Zaključak
 
 Google Ads za advokate u Srbiji 2026 moze biti vrlo profitabilan, ali samo kada meris cenu klijenta, a ne cenu klika.
 Ako hoces, mogu da uradim brz audit postojece kampanje i oznacim 3 najbrze izmene koje najvise spustaju cenu kvalitetnog lead-a - javi se preko [kontakt forme](/kontakt).
@@ -19399,7 +19376,7 @@ Za bolju konverziju posle klika pogledaj i [CRO optimizaciju](/cro).
 
 Ako zelis da ovaj sistem pretvoris u stabilan prodajni proces, pogledaj i [cene digitalnog marketinga](/cene-digitalnog-marketinga) i javi se preko [kontakt forme](/kontakt).
 
-## Zakljucak
+## Zaključak
 
 Hormozi Core 4 radi zato sto spaja vrednost i brz sledeci korak: korisnik dobija realnu pomoc, a biznis dobija kvalitetnije upite.
 Ako hoces, mogu da ti slozim Core 4 lead magnet plan za tvoju konkretnu nishu i kanal, pa da test krene vec ove nedelje.
@@ -19529,9 +19506,9 @@ Kluc: svake nedelje gasiti ono sto nema signal i gurati ono sto donosi kvalitetn
 4. **Nema povezivanja marketinga i recepcije**
    Ako call handling nije brz i strukturiran, pola marketing ulaganja se izgubi posle klika.
 
-Za poredjenje sa drugim kanalima, korisno je i [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama).
+Za poređenje sa drugim kanalima, korisno je i [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama).
 
-## Zakljucak
+## Zaključak
 
 Google Ads za stomatologe u Srbiji 2026 moze biti izuzetno profitabilan kanal, ali samo kad je vezan za realne poslovne metrike: zakazan termin, dolazak pacijenta i vrednost terapije.
 Ako hoces, mozemo uraditi brz audit tvoje trenutne kampanje i oznaciti 3 poteza koji najbrze spustaju cenu kvalitetnog lead-a - javi se preko [kontakt forme](/kontakt).
@@ -19547,7 +19524,7 @@ Ako hoces, mozemo uraditi brz audit tvoje trenutne kampanje i oznaciti 3 poteza 
     content: `
 ## Kratak odgovor: Facebook Ads cena u Srbiji najvise zavisi od industrije i faze ponude
 
-Ako trazis upit **facebook ads cena po industriji Srbija**, najkraci odgovor je da trosak moze da varira i 3-4x izmedju nisa.
+Ako tražiš upit **facebook ads cena po industriji Srbija**, najkraci odgovor je da trosak moze da varira i 3-4x izmedju nisa.
 Razlog nije samo konkurencija u aukciji, vec i kvalitet ponude, trust signali i brzina prodajnog follow-upa.
 
 Tipicni rasponi koje firme vide tokom 2026:
@@ -19557,7 +19534,7 @@ Tipicni rasponi koje firme vide tokom 2026:
 - **B2B usluge i konsulting:** CPC 0.25e-0.90e, CPL 18e-85e
 - **Visoko-konkurentne nise (pravne, finansije):** CPC 0.45e-1.40e, CPL 35e-120e+
 
-Ako zelis sire poredjenje i po drugim kanalima, pogledaj i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Ako zelis sire poređenje i po drugim kanalima, pogledaj i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 Za baseline procenu samog Meta troska po kampanji, dobar orijentir je i [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama).
 
 ## Zasto je ista "Facebook kampanja" jeftina u jednoj, a skupa u drugoj industriji
@@ -19643,7 +19620,7 @@ Za dublji kontekst Meta kanala, korisno je i [Instagram reklame cena](/instagram
 
 Ako posle 30 dana nemas jasnu sliku koji segment donosi kvalitetne leadove, problem je najcesce u strukturi testa, ne u platformi.
 
-## Zakljucak
+## Zaključak
 
 Za upit **facebook ads cena po industriji Srbija**, poenta nije da juris najnizi CPC, nego da izgradis predvidljiv sistem koji pretvara budzet u prihod.
 Ako zelis, mozemo uraditi brzi audit tvog naloga i reci gde tacno curi budzet - javi se preko [kontakt forme](/kontakt).
@@ -19751,7 +19728,7 @@ Ako te agencijski sistem drzi stabilno ispod toga, saradnja je zdrava.
 Posle 90 dana bi trebalo da vidis trend u kvalitetu upita, brzini prodaje i trosku akvizicije.
 Ako nema jasnog trenda, problem je najcesce u procesu, ne u budzetu.
 
-## Zakljucak
+## Zaključak
 
 Za temu **marketing agencija cena Srbija**, pravo pitanje nije "ko je najjeftiniji", vec "ko moze da pretvori budzet u predvidljiv pipeline".
 Ako zelis, mozemo uraditi brz audit tvoje trenutne strukture i oznaciti 3 poteza koji najbrze popravljaju ROI — javi se preko [kontakt forme](/kontakt).
@@ -19844,7 +19821,7 @@ Maksimalan odrziv CPL je oko 80e (400e / 5), ali cilj je da budete znacajno ispo
 
 Kada sistem radi, lead generation prestaje da bude "trosak oglasa" i postaje predvidljiv kanal rasta.
 
-## Zakljucak
+## Zaključak
 
 Za upit **lead generation cena Srbija**, pravo pitanje nije "koliko najjeftinije", vec "koliko placam po lead-u koji realno postaje klijent".
 Ako zelite, mozemo uraditi kratak audit vaseg funnel-a i oznaciti 3 poteza koji najbrze spustaju cenu po kvalitetnom upitu - javite se preko [kontakt forme](/kontakt).
@@ -19857,103 +19834,101 @@ Ako zelite, mozemo uraditi kratak audit vaseg funnel-a i oznaciti 3 poteza koji 
     date: '2026-03-11',
     category: 'SEO',
     readTime: '9 min',
-    content: `
-## Kratak odgovor: lokalni SEO u Zrenjaninu najcece je 250€ do 900€ mesecno
+    content: `## Kratak odgovor: lokalni SEO u Zrenjaninu najčešće je 250€ do 900€ mesečno
 
-Ako tražite brz odgovor za upit **lokalni SEO cena Zrenjanin**, realan raspon za mala i srednja preduzeca je obicno izmedu **250€ i 900€ mesecno**, u zavisnosti od konkurencije i obima posla.
+Ako tražite brz odgovor za upit **lokalni SEO cena Zrenjanin**, realan raspon za mala i srednja preduzeća je obično između **250€ i 900€ mesečno**, u zavisnosti od konkurencije i obima posla.
 
-Najceci opsezi:
+Najčešći opsezi:
 
-- **Starter lokalni SEO:** 250€400€ / mesec
-- **Growth lokalni SEO:** 400€650€ / mesec
-- **Performance lokalni SEO:** 650€900€+ / mesec
+- **Starter lokalni SEO:** 250-400€ / mesec
+- **Growth lokalni SEO:** 400-650€ / mesec
+- **Performance lokalni SEO:** 650-900€+ / mesec
 
-Za iru sliku nacionalnih paketa pogledajte i [SEO optimizacija cena](/seo-optimizacija-cena).
+Za širu sliku nacionalnih paketa pogledajte i [SEO optimizacija cena](/seo-optimizacija-cena).
 
 ## Zašto cene nisu iste kod svih agencija
 
-Dve ponude mogu nositi isti naziv, a potpuno razlicit rezultat.
-Razlika je obicno u dubini rada:
+Dve ponude mogu nositi isti naziv, a dati potpuno različit rezultat.
+Razlika je obično u dubini rada:
 
 1. da li se radi samo osnovna optimizacija stranica,
 2. da li postoji plan sadržaja za lokalne upite,
 3. da li se redovno prati Google Business profil,
 4. da li se meri kvalitet upita, a ne samo pozicija.
 
-Ako ponuda nema jasan proces i KPI-jeve, najcece placate "odravanje", ne rast.
+Ako ponuda nema jasan proces i KPI-jeve, najčešće plaćate "održavanje", ne rast.
 
-## šta mora da ulazi u lokalni SEO paket
+## Šta mora da ulazi u lokalni SEO paket
 
 Ozbiljna lokalna SEO usluga za Zrenjanin treba da pokrije:
 
-- tehnicki audit sajta (indexability, brzina, struktura naslova),
-- optimizaciju kljucnih servisnih i lokalnih landing stranica,
+- tehnički audit sajta (indexability, brzina, struktura naslova),
+- optimizaciju ključnih servisnih i lokalnih landing stranica,
 - Google Business Profile optimizaciju (kategorije, opis, objave, Q&A),
 - plan i objavu lokalno relevantnog sadržaja,
-- interni link building izmedu servisnih i blog stranica,
-- pracenje konverzija (poziv, forma, WhatsApp klik),
-- mesecni izveštaj sa narednim prioritetima.
+- interni link building između servisnih i blog stranica,
+- praćenje konverzija (poziv, forma, WhatsApp klik),
+- mesečni izveštaj sa narednim prioritetima.
 
 Ako vam treba i lokalna pozicioniranost po gradu, korisna referenca je [marketing agencija Zrenjanin](/marketing-agencija-zrenjanin).
 
-## Modeli naplate koje cete najcece videti
+## Modeli naplate koje ćete najčešće videti
 
-### 1) Fiksna mesecna naknada
-Dobar izbor za lokalne firme jer daje predvidljiv troak i lake planiranje.
+### 1) Fiksna mesečna naknada
+Dobar izbor za lokalne firme jer daje predvidiv trošak i lakše planiranje.
 
 ### 2) Paket + jednokratni setup
-Pocetni mesec ukljucuje tehnicki setup i mapiranje upita, a zatim ide mesecno odravanje i optimizacija.
+Početni mesec uključuje tehnički setup i mapiranje upita, a zatim ide mesečno održavanje i optimizacija.
 
 ### 3) Hibridni model
-Nii fiksni fee + bonus po jasno definisanim rezultatima (npr. broj kvalifikovanih upita).
+Niži fiksni fee + bonus po jasno definisanim rezultatima (npr. broj kvalifikovanih upita).
 
-Kod hibrida obavezno ugovorite metriku unapred, da ne ostane prostor za razlicita tumacenja.
+Kod hibrida obavezno ugovorite metriku unapred, da ne ostane prostor za različita tumačenja.
 
 ## 5 signala da ponuda za lokalni SEO nije dobra
 
-1. **Nema rada na Google Business profilu** — a to je kljuc lokalne vidljivosti.
+1. **Nema rada na Google Business profilu** — a to je ključ lokalne vidljivosti.
 2. **Nema plana sadržaja po lokalnim upitima** — bez sadržaja rast je spor i kratkotrajan.
-3. **Izveštaj je samo lista pozicija** — bez objanjenja šta dalje.
+3. **Izveštaj je samo lista pozicija** — bez objašnjenja šta dalje.
 4. **Nema merenja upita i poziva** — ne znate da li SEO donosi prihod.
-5. **Sve stranice targetiraju iste kljucne reci** — dolazi do keyword cannibalization problema.
+5. **Sve stranice targetiraju iste ključne reči** — dolazi do keyword cannibalization problema.
 
 ## Kako da procenite da li je cena opravdana
 
-Najprakticniji okvir je da lokalni SEO posmatrate kroz troak po kvalifikovanom upitu.
+Najpraktičniji okvir je da lokalni SEO posmatrate kroz trošak po kvalifikovanom upitu.
 
 Primer jednostavne logike:
 
-- mesecno ulaganje: 500€
-- prosecna vrednost jednog klijenta: 300€
-- potrebno za break-even: 2 klijenta mesecno
+- mesečno ulaganje: 500€
+- prosečna vrednost jednog klijenta: 300€
+- potrebno za break-even: 2 klijenta mesečno
 
-Ako SEO kanal stabilno donosi 3-4 relevantna klijenta mesecno, ulaganje je zdravo.
+Ako SEO kanal stabilno donosi 3-4 relevantna klijenta mesečno, ulaganje je zdravo.
 Ako nema traga o kvalitetu lead-ova, cena je sekundarna — problem je u merenju.
 
-## 90-dnevni plan koji najcece daje rezultat
+## 90-dnevni plan koji najčešće daje rezultat
 
 ### Dani 1-30: Temelj
-- tehnicki audit i ispravke prioriteta,
-- sredivanje servisnih stranica za lokalni intent,
+- tehnički audit i ispravke prioriteta,
+- sređivanje servisnih stranica za lokalni intent,
 - optimizacija Google Business profila.
 
 ### Dani 31-60: Sadržaj i autoritet
 - objava lokalnih SEO tekstova po usluzi,
 - interno povezivanje ka money stranicama,
-- pocetak aktivnog rada na recenzijama i proof elementima.
+- početak aktivnog rada na recenzijama i proof elementima.
 
 ### Dani 61-90: Optimizacija po rezultatima
 - analiza upita i ponašanja korisnika,
 - dorada stranica sa slabim CTR/konverzijom,
 - fokus na upite koji donose najbolji poslovni ishod.
 
-Ako planirate i placeni kanal za brže testiranje ponude, pogledajte i [Google reklame cena](/google-reklame-cena).
+Ako planirate i plaćeni kanal za brže testiranje ponude, pogledajte i [Google reklame cena](/google-reklame-cena).
 
-## Zakljucak
+## Zaključak
 
-Za temu **lokalni SEO cena Zrenjanin**, pravo pitanje nije "ko je najjeftiniji", vec "ko može da pretvori lokalnu vidljivost u konkretne upite i klijente".
-Ako elite, možemo uraditi brzi audit i dati vam 3 prioriteta koji najbrže podiu rezultat — javite se preko [kontakt forme](/kontakt).
-`,
+Za temu **lokalni SEO cena Zrenjanin**, pravo pitanje nije "ko je najjeftiniji", već "ko može da pretvori lokalnu vidljivost u konkretne upite i klijente".
+Ako želite, možemo uraditi brzi audit i dati vam 3 prioriteta koji najbrže podižu rezultat — javite se preko [kontakt forme](/kontakt).`,
   },
   {
     slug: 'vodjenje-instagram-profila-cena-srbija-2026',
@@ -19962,184 +19937,181 @@ Ako elite, možemo uraditi brzi audit i dati vam 3 prioriteta koji najbrže podi
     date: '2026-03-11',
     category: 'Social Media',
     readTime: '9 min',
-    content: `
-## Kratak odgovor: vodenje Instagram profila u Srbiji najcece je 250€ do 1.500€ mesecno
+    content: `## Kratak odgovor: vođenje Instagram profila u Srbiji najčešće je 250€ do 1.500€ mesečno
 
-Ako tražite brz odgovor za upit **vodenje Instagram profila cena**, realan raspon zavisi od toga da li vam treba samo objava sadržaja ili kompletan sistem koji povezuje content, oglase i lead generation.
+Ako tražite brz odgovor za upit **vođenje Instagram profila cena**, realan raspon zavisi od toga da li vam treba samo objava sadržaja ili kompletan sistem koji povezuje content, oglase i lead generation.
 
-Tipicni rasponi na tržištu:
+Tipični rasponi na tržištu:
 
-- **Osnovno vodenje (objave + community): 250€500€ / mesecno**
-- **Growth vodenje (strategija + content + analitika): 500€900€ / mesecno**
-- **Performance pristup (content + ads sinergija + funnel): 900€1.500€+ / mesecno**
+- **Osnovno vođenje (objave + community): 250-500€ / mesečno**
+- **Growth vođenje (strategija + content + analitika): 500-900€ / mesečno**
+- **Performance pristup (content + ads sinergija + funnel): 900-1.500€+ / mesečno**
 
-Ako elite iri kontekst ukupnog budžeta po kanalima, pogledajte i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Ako želite širi kontekst ukupnog budžeta po kanalima, pogledajte i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
 ## Zašto cene toliko variraju
 
-Dve agencije mogu napisati vodenje Instagrama, a da isporucuju potpuno razlicitu vrednost.
-Najcece razlike nisu u lepem dizajnu, nego u tome da li neko radi:
+Dve agencije mogu napisati vođenje Instagrama, a da isporučuju potpuno različitu vrednost.
+Najčešće razlike nisu u lepom dizajnu, nego u tome da li neko radi:
 
 1. istraživanje publike i poruke,
 2. redovan test formata (Reels, carousel, story),
-3. plan distribucije i pojacanja sadržaja,
+3. plan distribucije i pojačanja sadržaja,
 4. merenje rezultata po poslovnim KPI metrima.
 
-Ako je usluga samo 9 objava mesecno, dobijate aktivnost.
+Ako je usluga samo 9 objava mesečno, dobijate aktivnost.
 Ako je usluga vezana za rezultat (upiti, prodaja, kvalitet lead-ova), dobijate sistem.
 
-## šta tacno treba da ulazi u kvalitetno vodenje profila
+## Šta tačno treba da ulazi u kvalitetno vođenje profila
 
 Pre nego što uporedite cenu, proverite scope.
-Minimalni ozbiljan paket za biznis nalog obicno ukljucuje:
+Minimalni ozbiljan paket za biznis nalog obično uključuje:
 
-- mesecnu strategiju sadržaja po ciljnoj publici,
+- mesečnu strategiju sadržaja po ciljnoj publici,
 - content kalendar + jasne content pillars,
 - copywriting za objave i CTA,
-- dizajn i/ili video montau,
+- dizajn i/ili video montažu,
 - community management (DM + komentari),
-- mesecni izveštaj sa narednim akcijama.
+- mesečni izveštaj sa narednim akcijama.
 
-Kod firmi koje ele i merljiv rast, ovo se cesto kombinuje sa placenim kanalom, gde je dobar nastavak [Instagram reklame cena](/instagram-reklame-cena).
+Kod firmi koje žele i merljiv rast, ovo se često kombinuje sa plaćenim kanalom, gde je dobar nastavak [Instagram reklame cena](/instagram-reklame-cena).
 
-## Modeli naplate koje cete najcece videti
+## Modeli naplate koje ćete najčešće videti
 
-### 1) Fiksni mesecni paket
+### 1) Fiksni mesečni paket
 Najpredvidljiviji model za planiranje. Dobar je kada su scope i output jasno definisani.
 
 ### 2) Paket + dodatna produkcija
-Osnovni fee pokriva strategiju i vodenje, a kompleksniji video sadržaj ili snimanja idu posebno.
+Osnovni fee pokriva strategiju i vođenje, a kompleksniji video sadržaj ili snimanja idu posebno.
 
 ### 3) Performance hibrid
-Fiksni deo + bonus po dogovorenim KPI ishodima. Koristan kada obe strane ele jasan alignment oko rezultata.
+Fiksni deo + bonus po dogovorenim KPI ishodima. Koristan kada obe strane žele jasan alignment oko rezultata.
 
 Ako birate model saradnje, koristan benchmark je i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share).
 
-## 5 crvenih zastavica da je ponuda loša (cak i kad je jeftina)
+## 5 crvenih zastavica da je ponuda loša (čak i kad je jeftina)
 
-1. **Nema strategije** — dobijate samo objave po ablonu.
-2. **Nema vlasnitva nad nalozima i assetima** — rizicno dugorocno.
+1. **Nema strategije** — dobijate samo objave po šablonu.
+2. **Nema vlasništva nad nalozima i assetima** — rizično dugoročno.
 3. **Nema jasnih KPI-jeva** — sve ostaje na utisku, ne na brojkama.
-4. **Nema plana testiranja** — sadržaj se vrti bez ucenja.
+4. **Nema plana testiranja** — sadržaj se vrti bez učenja.
 5. **Nema povezanosti sa prodajom** — engagement raste, biznis rezultat stoji.
 
 Jeftina usluga koja ne pomera prodaju je najskuplja opcija.
 
-## Kako da izracunate da li je cena opravdana
+## Kako da izračunate da li je cena opravdana
 
-Praktican okvir:
+Praktičan okvir:
 
 - procenite koliko vam jedan kvalitetan lead vredi,
 - pratite koliko lead-ova/poruka dolazi sa Instagrama,
-- izracunajte koliko prihoda je vezano za kanal,
-- tek onda uporedite sa mesecnim fee-jem.
+- izračunajte koliko prihoda je vezano za kanal,
+- tek onda uporedite sa mesečnim fee-jem.
 
 Primer:
 
-- fee za vodenje: 700€
-- prosecna vrednost klijenta: 600€
-- potrebna dodatna prodaja za break-even: ~2 klijenta mesecno
+- fee za vođenje: 700€
+- prosečna vrednost klijenta: 600€
+- potrebna dodatna prodaja za break-even: ~2 klijenta mesečno
 
-Ako sistem donosi 3+ relevantna klijenta mesecno, ulaganje je racionalno.
+Ako sistem donosi 3+ relevantna klijenta mesečno, ulaganje je racionalno.
 
 ## Kako izgleda zdrav 90-dnevni plan
 
 - **Mesec 1:** audit profila, poruke, konkurencije, setup content matrice
 - **Mesec 2:** test 3-4 content ugla + optimizacija CTA tokova
-- **Mesec 3:** skaliranje formata koji rade + jaca integracija sa lead flow-om
+- **Mesec 3:** skaliranje formata koji rade + jača integracija sa lead flow-om
 
-Za biznise koji ele i search intent saobracaj, dobar paralelan kanal je [Google reklame cena](/google-reklame-cena).
+Za biznise koji žele i search intent saobraćaj, dobar paralelan kanal je [Google reklame cena](/google-reklame-cena).
 
-## Zakljucak
+## Zaključak
 
-Za temu **vodenje Instagram profila cena** kljuc nije pronaci najniu cifru, vec model koji realno povezuje sadržaj sa upitima i prodajom.
-Ako elite, možemo uraditi brz audit vašeg naloga i dati prioritetne izmene koje najbrže podiu rezultat — javite se preko [kontakt forme](/kontakt).
-`,
+Za temu **vođenje Instagram profila cena** ključ nije pronaći najnižu cifru, već model koji realno povezuje sadržaj sa upitima i prodajom.
+Ako želite, možemo uraditi brz audit vašeg naloga i dati prioritetne izmene koje najbrže podižu rezultat — javite se preko [kontakt forme](/kontakt).`,
   },
   {
     slug: 'instagram-ads-cpc-budzet-plan-srbija-2026',
     title: 'Instagram Ads cena po kliku u Srbiji 2026: realni CPC rasponi i budžet plan',
-    excerpt: 'Koliko realno košta klik na Instagram oglasima u Srbiji 2026, od cega zavisi CPC i kako da planirate budžet bez skupih grešaka.',
+    excerpt: 'Koliko realno košta klik na Instagram oglasima u Srbiji 2026, od čega zavisi CPC i kako da planirate budžet bez skupih grešaka.',
     date: '2026-03-11',
     category: 'Instagram Ads',
     readTime: '8 min',
-    content: `
-## Kratak odgovor: Instagram klik u Srbiji nije jedna cifra
+    content: `## Kratak odgovor: Instagram klik u Srbiji nije jedna cifra
 
-Ako tražite univerzalan odgovor tipa klik je 0,20€, vrlo verovatno cete pogrešno planirati kampanju.
-U praksi, cena po kliku (CPC) na Instagramu zavisi od nie, kvaliteta kreativa, ciljne publike i faze funnel-a.
+Ako tražite univerzalan odgovor tipa klik je 0,20€, vrlo verovatno ćete pogrešno planirati kampanju.
+U praksi, cena po kliku (CPC) na Instagramu zavisi od niše, kvaliteta kreativa, ciljne publike i faze funnel-a.
 
-Za iri pregled trokova kanala pogledajte i [cene digitalnog marketinga](/cene-digitalnog-marketinga),
+Za širi pregled troškova kanala pogledajte i [cene digitalnog marketinga](/cene-digitalnog-marketinga),
 a za kompletan servis po Meta kanalu [Instagram reklame cena](/instagram-reklame-cena).
 
 ## Realni CPC rasponi za srpsko tržište (2026)
 
-U radu sa lokalnim i regionalnim kampanjama najcece vidamo sledece opsege:
+U radu sa lokalnim i regionalnim kampanjama najčešće viđamo sledeće opsege:
 
-- **Lokalne usluge (saloni, manji studiji, ordinacije): 0,00€ — 0,30€**
-- **E-commerce (iroka potronja, fashion, beauty): 0,10€ — 0,50€**
+- **Lokalne usluge (saloni, manji studiji, ordinacije): 0,06€ — 0,30€**
+- **E-commerce (široka potrošnja, fashion, beauty): 0,10€ — 0,50€**
 - **B2B usluge i konsulting: 0,20€ — 0,90€**
-- **Visoko konkurentne nie (finansije, pravne usluge, premium tržište): 0,40€ — 1,20€+**
+- **Visoko konkurentne niše (finansije, pravne usluge, premium tržište): 0,40€ — 1,20€+**
 
-Ovo nisu garantovane cene, ali jesu realan okvir za pocetni budžet plan.
-Ako elite uporedni benchmark sa Search intent saobracajem, pogledajte i [Google reklame cena](/google-reklame-cena).
+Ovo nisu garantovane cene, ali jesu realan okvir za početni budžet plan.
+Ako želite uporedni benchmark sa Search intent saobraćajem, pogledajte i [Google reklame cena](/google-reklame-cena).
 
-## Zašto dve firme iz iste nie placaju potpuno drugaciji CPC
+## Zašto dve firme iz iste niše plaćaju potpuno drugačiji CPC
 
-Najceci razlog nije tržište, vec kvalitet setup-a.
-Instagram algoritam prakticno nagraduje oglase koji dobijaju dobar signal relevantnosti.
+Najčešći razlog nije tržište, već kvalitet setup-a.
+Instagram algoritam praktično nagrađuje oglase koji dobijaju dobar signal relevantnosti.
 
-Najveci faktori koji podiu ili spuštaju CPC:
+Najveći faktori koji podižu ili spuštaju CPC:
 
-1. **Creative quality** — da li vizual i hook zaustavljaju skrol u prve 0€2 sekunde.
-2. **Audience fit** — koliko je publika uska/iroka i da li poruka odgovara intentu.
-3. **Offer clarity** — da li je korisniku odmah jasno šta dobija i koji je sledeci korak.
-4. **Landing consistency** — da li stranica posle klika potvrduje obecanje iz oglasa.
-5. **Objective selection** — klikovi su cesto jeftiniji kod pogrešnog cilja, ali lošiji za kvalitet lead-ova.
+1. **Creative quality** — da li vizual i hook zaustavljaju skrol u prve 2 sekunde.
+2. **Audience fit** — koliko je publika uska/široka i da li poruka odgovara intentu.
+3. **Offer clarity** — da li je korisniku odmah jasno šta dobija i koji je sledeći korak.
+4. **Landing consistency** — da li stranica posle klika potvrđuje obećanje iz oglasa.
+5. **Objective selection** — klikovi su često jeftiniji kod pogrešnog cilja, ali lošiji za kvalitet lead-ova.
 
-Drugim recima: možete imati jeftin klik i loš biznis rezultat, ili skuplji klik i profitabilan funnel.
+Drugim rečima: možete imati jeftin klik i loš biznis rezultat, ili skuplji klik i profitabilan funnel.
 
 ## CPC bez konteksta je opasna metrika
 
-Velika greka je optimizovati kampanju samo na što niši klik.
+Velika greška je optimizovati kampanju samo na što niži klik.
 Ako je klik jeftin, ali publika ne konvertuje, trošite budžet na prazne posete.
 
 Zato CPC uvek gledajte zajedno sa:
 
-- CTR (da li kreativ privlaci pravu pažnju),
+- CTR (da li kreativ privlači pravu pažnju),
 - LP conversion rate (da li landing radi posao),
 - CPL (cena po upitu/leadu),
 - procenat kvalifikovanih lead-ova,
 - close rate prodaje.
 
-Ako vam treba i sama osnova za stranicu koja bolje konvertuje social saobracaj,
+Ako vam treba i sama osnova za stranicu koja bolje konvertuje social saobraćaj,
 koristan kontekst je [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
 
-## Kako da planirate budžet kad tek krecete
+## Kako da planirate budžet kad tek krećete
 
-Praktican okvir za pocetak:
+Praktičan okvir za početak:
 
-- ciljajte **300€800 klikova mesecno** za relevantan uzorak,
-- pomnoite sa ocekivanim CPC rasponom vaše nie,
-- dodajte rezervu 20€30% za testiranje kreativa i publika,
-- tek posle 0€4 nedelje donosite ozbiljne zakljucke.
+- ciljajte **300-800 klikova mesečno** za relevantan uzorak,
+- pomnožite sa očekivanim CPC rasponom vaše niše,
+- dodajte rezervu 20-30% za testiranje kreativa i publika,
+- tek posle nekoliko nedelja donosite ozbiljne zaključke.
 
 Primer:
-- ocekivani CPC: 0,30€
+- očekivani CPC: 0,30€
 - cilj: 500 klikova
-- medija minimum: 150€
-- realniji test budžet sa prostorom za iteraciju: 200€260€
+- media minimum: 150€
+- realniji test budžet sa prostorom za iteraciju: 200-260€
 
 ## 6 poteza koji najbrže spuštaju CPC bez pada kvaliteta
 
 1. **Hook u prvom kadru** — bez uvoda, odmah problem/benefit.
-2. **0€5 kreativa po ad set-u** — algoritam brže nade pobednika.
-3. **Razdvoji cold i retargeting** — razlicite poruke za razlicite faze.
-4. **Ne meaj previše publika u istoj grupi** — jasniji signal, bolja optimizacija.
-5. **Rotiraj kreativ na 0€10 dana** kad krene ad fatigue.
-6. **Odravaj poruku 1:1 izmedu oglasa i landing stranice**.
+2. **Više kreativa po ad set-u** — algoritam brže nađe pobednika.
+3. **Razdvoji cold i retargeting** — različite poruke za različite faze.
+4. **Ne mešaj previše publika u istoj grupi** — jasniji signal, bolja optimizacija.
+5. **Rotiraj kreativ redovno** kad krene ad fatigue.
+6. **Održavaj poruku 1:1 između oglasa i landing stranice**.
 
-Kod vecine kampanja, ova disciplina donese jaci pomak od štajnih trikovaš.
+Kod većine kampanja, ova disciplina donese jači pomak od štetnih trikova.
 
 ## Brzi 14-dnevni plan optimizacije
 
@@ -20147,15 +20119,14 @@ Kod vecine kampanja, ova disciplina donese jaci pomak od štajnih trikovaš.
 - **Dan 3-5:** testiraj 3 nova hook-a na istu publiku.
 - **Dan 6-8:** ugasi najskuplje kreative bez trakcije, skaliraj najbolje.
 - **Dan 9-11:** segmentiraj publike po intentu (cold / warm / retargeting).
-- **Dan 12-14:** optimizuj landing poruku i CTA prema pobednickom oglasu.
+- **Dan 12-14:** optimizuj landing poruku i CTA prema pobedničkom oglasu.
 
-Ako elite da uporedite model saradnje pre skaliranja, pogledajte i [agencija vs freelancer](/agencija-vs-freelancer).
+Ako želite da uporedite model saradnje pre skaliranja, pogledajte i [agencija vs freelancer](/agencija-vs-freelancer).
 
-## Zakljucak
+## Zaključak
 
 Instagram Ads cena po kliku u Srbiji 2026 najviše zavisi od kvaliteta egzekucije, a ne od proseka sa interneta.
-Ako elite, možemo uraditi brz audit vašeg naloga i oznaciti 3 najbrže izmene koje mogu spustiti cenu kvalifikovanog klika — javite se preko [kontakt forme](/kontakt).
-`,
+Ako želite, možemo uraditi brz audit vašeg naloga i označiti 3 najbrže izmene koje mogu spustiti cenu kvalifikovanog klika — javite se preko [kontakt forme](/kontakt).`,
   },
   {
     slug: 'alex-hormozi-100m-leads-sistem-za-vise-upita-srbija-2026',
@@ -20164,103 +20135,101 @@ Ako elite, možemo uraditi brz audit vašeg naloga i oznaciti 3 najbrže izmene 
     date: '2026-03-11',
     category: 'Lead Generation',
     readTime: '9 min',
-    content: `
-## Zašto mnoge firme povecaju budžet, a ne povecaju broj kvalitetnih upita
+    content: `## Zašto mnoge firme povećaju budžet, a ne povećaju broj kvalitetnih upita
 
-Najceci problem nije da "nema saobracaja" nego da je ulaz u funnel slab.
-Ljudi vide oglas, moda i kliknu, ali ne osecaju dovoljno jasan razlog da ostave upit.
+Najčešći problem nije da "nema saobraćaja" nego da je ulaz u funnel slab.
+Ljudi vide oglas, možda i kliknu, ali ne osećaju dovoljno jasan razlog da ostave upit.
 
-Upravo to reava Alex Hormozi okvir iz knjige *100M Leads*: prvo pojaca kvalitet poruke i ponude, pa tek onda skalira budžet.
-Ako prvo eli okvir trokova po kanalima, pogledaj i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Upravo to rešava Alex Hormozi okvir iz knjige *100M Leads*: prvo pojača kvalitet poruke i ponude, pa tek onda skalira budžet.
+Ako prvo želiš okvir troškova po kanalima, pogledaj i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
 ## 1) Hook mora da zaustavi skrol u prve 2 sekunde
 
-U 2026. panja je skuplja od klika.
-Ako uvodna recenica ne pogodi konkretan problem, korisnik odlazi bez obzira koliko je kampanja tehnicki dobra.
+U 2026. pažnja je skuplja od klika.
+Ako uvodna rečenica ne pogodi konkretan problem, korisnik odlazi bez obzira koliko je kampanja tehnički dobra.
 
-Dobar hook na srpskom tržištu obicno ima 3 elementa:
+Dobar hook na srpskom tržištu obično ima 3 elementa:
 
-- jasan problem koji publika vec oseca,
-- konkretan ishod koji eli,
+- jasan problem koji publika već oseća,
+- konkretan ishod koji želi,
 - vremenski okvir koji deluje realno.
 
 Primer slabog hook-a:
 - "Radimo digitalni marketing za rast vašeg biznisa"
 
-Primer jaceg hook-a:
-- "Ako trošite 500€+ mesecno na oglase i nemate stabilne upite, verovatno vam curi budžet u prve dve faze funnel-a."
+Primer jačeg hook-a:
+- "Ako trošite 500€+ mesečno na oglase i nemate stabilne upite, verovatno vam curi budžet u prve dve faze funnel-a."
 
-## 2) Ponuda mora da bude specificna, ne genericka
+## 2) Ponuda mora da bude specifična, ne generička
 
-Hormozi cesto ponavlja: tržište ne nagraduje "jo jednu uslugu" nego jasnu transformaciju.
-U praksi to znaci da ponuda mora biti vezana za merljiv ishod.
+Hormozi često ponavlja: tržište ne nagrađuje "još jednu uslugu" nego jasnu transformaciju.
+U praksi to znači da ponuda mora biti vezana za merljiv ishod.
 
 Umesto:
-- "Vodenje kampanja"
+- "Vođenje kampanja"
 
 Bolje:
-- "U narednih 30 dana cistimo tracking, suavamo keyword intent i testiramo 3 creative ugla da spustimo cenu kvalifikovanog upita."
+- "U narednih 30 dana čistimo tracking, sužavamo keyword intent i testiramo 3 creative ugla da spustimo cenu kvalifikovanog upita."
 
 Ako radi Google kanal, dobar benchmark je [Google reklame cena](/google-reklame-cena),
 a za Meta kanal [Instagram reklame cena](/instagram-reklame-cena).
 
 ## 3) Lead magnet treba da filtrira, ne samo da skuplja kontakte
 
-Velika greka je jurenje što veceg broja lead-ova.
-Ako magnet privuce ljude koji nisu spremni za kupovinu, prodaja troši vreme na loše upite i misli da marketing "ne radi".
+Velika greška je jurenje što većeg broja lead-ova.
+Ako magnet privuče ljude koji nisu spremni za kupovinu, prodaja troši vreme na loše upite i misli da marketing "ne radi".
 
 Zato lead magnet treba da ima kvalifikacioni sloj:
 
 - za koga jeste,
 - za koga nije,
 - koji je minimum budžeta ili kapaciteta,
-- koji je ocekivani rok do rezultata.
+- koji je očekivani rok do rezultata.
 
 Tako dobija manje, ali kvalitetnije upite i bolji close rate.
 
-## 4) Follow-up sistem odlucuje koliko leadova stvarno postane prihod
+## 4) Follow-up sistem odlučuje koliko leadova stvarno postane prihod
 
-Najveci procenat izgubljenog novca ne desi se u oglasu, nego posle forme.
+Najveći procenat izgubljenog novca ne dešava se u oglasu, nego posle forme.
 Ako nema brzog i strukturiranog follow-up-a, topli lead hladi se za par sati.
 
 Minimum koji treba da postoji:
 
-1. odgovor u prvih 0€15 minuta,
-2. jasna sledeca akcija (poziv / kratki audit / ponuda),
-3. 0€5 follow-up poruka u narednih 7 dana,
+1. odgovor u prvih 15 minuta,
+2. jasna sledeća akcija (poziv / kratki audit / ponuda),
+3. više follow-up poruka u narednih 7 dana,
 4. jednostavan CRM status (nov, kontaktiran, kvalifikovan, zatvoren).
 
 ## 5) Skaliranje dolazi tek kad funnel ima stabilnu osnovu
 
-Skalirati budžet pre stabilnog funnel-a znaci samo brže trošiti novac.
-Prvo stabilizuj kljucne metrike:
+Skalirati budžet pre stabilnog funnel-a znači samo brže trošiti novac.
+Prvo stabilizuj ključne metrike:
 
 - CTR po kampanji i kreativi,
 - CPL po intent grupi,
 - procenat kvalifikovanih lead-ova,
 - close rate po izvoru.
 
-Tek kada su brojke predvidljive, povecanje budžeta daje zdrav rast.
+Tek kada su brojke predvidljive, povećanje budžeta daje zdrav rast.
 
 ## Brzi 14-dnevni plan (100M Leads adaptacija)
 
-Ako eli praktican sprint bez komplikovanja:
+Ako želiš praktičan sprint bez komplikovanja:
 
-- **Dan 1-2:** prepii hook i headline ponude za 2 glavna segmenta publike.
+- **Dan 1-2:** prepiši hook i headline ponude za 2 glavna segmenta publike.
 - **Dan 3-5:** lansiraj 3 creative ugla (problem, rezultat, dokaz).
 - **Dan 6-8:** uvedi kvalifikaciona pitanja u formu.
 - **Dan 9-11:** postavi follow-up sekvencu i SLA za odgovor.
 - **Dan 12-14:** ugasi slabije oglase i prebaci budžet na najbolje varijante.
 
-Ako eli da uporedi model naplate pre skaliranja, pogledaj i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share).
+Ako želiš da uporediš model naplate pre skaliranja, pogledaj i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share).
 
-## Zakljucak
+## Zaključak
 
 Hormozi 100M Leads logika nije trik za viralnost — to je sistem za kvalitetniji pipeline.
-Kada su hook, ponuda i follow-up jasni, isti budžet cesto daje više kvalifikovanih upita nego pre.
+Kada su hook, ponuda i follow-up jasni, isti budžet često daje više kvalifikovanih upita nego pre.
 
-Ako eli, možemo proci tvoj trenutni funnel i slošiti prioritetne izmene po redosledu uticaja. Javi se kroz [kontakt formu](/kontakt).
-`,
+Ako želiš, možemo proći tvoj trenutni funnel i složiti prioritetne izmene po redosledu uticaja. Javi se kroz [kontakt formu](/kontakt).`,
   },
   {
     slug: 'google-ads-za-lokalne-biznise-kako-spustiti-cenu-leada-srbija-2026',
@@ -20351,7 +20320,7 @@ Kada marketinki i prodajni tim gledaju iste brojke, optimizacija postaje realna,
 
 Za poredenje celog marketing budžeta po kanalima, pogledajte i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-## Zakljucak
+## Zaključak
 
 Cena leada u lokalnom Google Ads-u najcece se spušta kroz strukturu i disciplinu, ne kroz "tajni trik".
 Ako elite, možemo uraditi brz audit vaših kampanja i oznaciti 3 izmene koje najbrže uticu na rezultat — javite se preko [kontakt forme](/kontakt).
@@ -20364,133 +20333,118 @@ Ako elite, možemo uraditi brz audit vaših kampanja i oznaciti 3 izmene koje na
     date: '2026-03-10',
     category: 'Prodaja',
     readTime: '10 min',
-    content: `
-## Zašto vecina firmi u Srbiji gubi maru i kad ima upite
+    content: `## Zašto i dobar marketing često ne prodaje
 
-Najveci problem nije "nema lead-ova" nego to što je ponuda slaba pa se posao zatvara na spuštanje cene.
-Dobije upit, razgovor krene dobro, i onda sve stane na pitanju: "Moe li jeftinije?"
+Većina kampanja ne puca na distribuciji nego na ponudi.
+Klikovi dođu, ljudi pročitaju stranicu, ali ne osete da je vrednost jasna i hitna.
 
-Tu ne puca prodaja zbog trišta — puca zbog konstrukcije ponude.
-Ako ponuda ne nosi dovoljno percipirane vrednosti, kupac je automatski poredi sa najjeftinijom opcijom.
+Ako hoćeš bolji rezultat iz istog budžeta, prvo popravi ponudu, pa tek onda ad account.
+Za kanal i budžet okvir pogledaj i [Google reklame cena](/google-reklame-cena) i [Instagram reklame cena](/instagram-reklame-cena).
 
-## šta je Alex Hormozi Value Equation (bez komplikovanja)
+## Alex Hormozi value equation (u praksi, ne teoriji)
 
-Hormozi framework je jednostavan:
+Hormozi okvir je jednostavan:
 
-**Vrednost = (Dream Outcome — Perceived Likelihood of Success) / (Time Delay — Effort & Sacrifice)**
+**Vrednost = (dream outcome x perceived likelihood) / (time delay x effort + sacrifice)**
 
-Drugim recima, lake prodaje i po vioj ceni kada kupac veruje da:
+U prevodu za lokalni biznis:
 
-- može da dobije veliki rezultat,
-- realno ce ga dobiti ba kod tebe,
-- nece cekati predugo,
-- i nece morati da prolazi kroz haos da bi uspeo.
+- povećaj koliko je ishod poželjan,
+- povećaj verovatnoću da će klijent stvarno doći do ishoda,
+- smanji vreme do prvog rezultata,
+- smanji napor koji klijent mora da uloži.
 
-Ako eli da vidiš kako to izgleda na nivou budžeta i realizacije, korisno je da prvo pogleda i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Ako ova četiri dela nisu jasna u ponudi, cena skoro uvek deluje "skupa", čak i kad nije.
 
-## 1) Dream Outcome: ne prodaj uslugu, prodaj ishod
+## Kako da strukturiraš ponudu za digitalne usluge u Srbiji
 
-"Vodimo oglase" nije ishod.
-"Dovodimo 25 kvalifikovanih upita mesecno" jeste ishod.
+### 1) Definiši ishod bez magle
+Loše: "radimo digitalni marketing".
+Bolje: "cilj je +35 kvalifikovanih upita za 90 dana uz CPA plafon".
 
-U srpskom B2B i lokalnom tržištu ponude cesto zvuce tehnicki, ali ne i komercijalno.
-Kupac ne eli da kupi kampanju — eli predvidljiv priliv posla.
+Specifikacija ishoda podiže poverenje i pravi razliku između konsultanta i dobavljača taskova.
 
-Umesto:
-- "Google Ads setup + optimizacija"
+### 2) Dokaži da je rezultat verovatan
+U ponudi mora da stoji:
 
-Koristi:
-- "Sistem za stabilan priliv kvalifikovanih upita kroz Google Ads u narednih 90 dana"
+- koje metrike pratite (CPL, CPA, ROAS, lead quality),
+- kojim ritmom radite optimizaciju,
+- kako izgleda reporting i odluka šta ide dalje.
 
-Za benchmark troka akvizicije i realne raspone CPC/CPL metrika pogledaj i [Google reklame cena](/google-reklame-cena).
+Za dublji kontekst troška klika i kvaliteta saobraćaja pogledaj [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026).
 
-## 2) Perceived Likelihood: poverenje je valuta koja zatvara prodaju
+### 3) Skrati vreme do prvog vidljivog pomaka
+Umesto otvorenog "videćemo", ponuda treba da ima jasan raspored:
 
-Kupac ne kupuje samo rezultat, nego verovatnocu da ce rezultat stvarno doci.
-Zato su kljucni elementi ponude:
+- nedelja 1: audit + plan,
+- nedelja 2: setup,
+- nedelja 3-4: prvi testovi i cut gubitnika,
+- kraj 30 dana: prvi performance review i backlog.
 
-- jasan proces rada po fazama,
-- primeri prethodnih rezultata (bez naduvavanja),
-- definisani KPI-jevi,
-- transparentan ritam izveštavanja,
-- i ownership nad nalozima i podacima.
+Klijent ne kupuje samo ishod, nego i brzinu kojom dolazi do signala da stvar ide u dobrom smeru.
 
-Ako to nije jasno, kupac ne vidi razliku izmedu tebe i "jo jedne agencije".
+### 4) Smanji napor klijenta (frikciju)
+Ako klijent mora da juri 15 stvari paralelno, ponuda će delovati teško.
 
-## 3) Time Delay: skrati vreme do prvog merljivog dobitka
+U ponudi jasno reci šta preuzimaš:
 
-Kad kupac cuje "rezultati za 6 meseci", otpor raste.
-Ne zato što je nestrpljiv, nego zato što mu je cashflow realan problem.
+- copy i struktura oglasa,
+- preporuke za landing i CTA,
+- tracking checklist,
+- sedmični "šta je urađeno / šta sledi" update.
 
-Zato ponuda treba da ima:
+Ako radiš i post-click deo, prirodan nastavak je [izrada landing stranice: cena, rokovi, šta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
 
-- **brzi win u prvih 14-30 dana** (npr. tracking cleanup + lead quality filter),
-- **srednji cilj u 60 dana** (stabilizacija CPL-a),
-- **dui cilj u 90+ dana** (skaliranje profitabilnog kanala).
+## Offer stack: kako da cena izgleda logično
 
-Kada vremenski horizont izgleda kontrolisano, zatvaranje ide lake i bez cenkanja.
+Jedan od jačih Hormozi principa je da kupac ne vidi jednu uslugu, nego paket vrednosti.
 
-## 4) Effort & Sacrifice: ukloni trenje za klijenta
+Primer stack-a za lead gen uslugu:
 
-Mnoge ponude su tehnicki dobre, ali operativno naporne za klijenta.
-Ako klijent mora da lovi tim, skuplja fajlove, pie copy i gasi poare — percipirana vrednost pada.
+1. osnova: upravljanje kampanjom,
+2. bonus: mesečni CRO mini-audit landinga,
+3. bonus: sales follow-up skripta za brz odgovor leadovima,
+4. bonus: dashboard sa KPI pregledom,
+5. bonus: 30-dnevni eksperiment plan.
 
-Dobitna ponuda minimizuje napor kupca:
+Poenta nije da daš sve "džabe", nego da kupac razume zašto cena postoji i šta tačno dobija.
 
-- checkliste i onboarding abloni,
-- unapred definisan kanal komunikacije,
-- jasna lista šta treba od klijenta i do kada,
-- "done-for-you" elementi gde je moguce.
+Za šire planiranje po kanalima koristi i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-Kad je put do rezultata laki, cena prestaje da bude glavna prepreka.
+## Kako da postaviš garanciju bez samoubistva marže
 
-## Kako da primeniš framework na svoju ponudu za 60 minuta
+Garancija ne mora da bude "vraćam sav novac".
 
-Evo brzog plana koji može da uradi odmah:
+Sigurnije varijante:
 
-### Korak 1: Prepii headline ponude u ishod
-Umesto tehnicke usluge, napii merljiv business rezultat.
+- garancija aktivnosti (jasan broj iteracija, testova i izveštaja),
+- garancija brzine reakcije (npr. odgovor u 24h),
+- garancija dodatnog sprinta ako KPI nisu blizu plana.
 
-### Korak 2: Dodaj dokaz verovatnoce
-Ugradi 2-3 konkretna dokaza: mini case, brojke, proces, odgovornost.
+Ovo podiže perceived likelihood bez toga da preuzmeš neograničen finansijski rizik.
 
-### Korak 3: Podeli realizaciju po vremenskim fazama
-Definiši šta klijent dobija u 14, 30 i 90 dana.
+## Najčešće greške kada se kopira Hormozi bez konteksta
 
-### Korak 4: Smanji napor klijenta
-U onboarding ubaci sve što skida trenje: ablone, brief formu, jasne rokove, ownership mapu.
+1. Prevelika obećanja bez operativnog plana.
+2. Popusti koji jedu marginu pa usluga postane neodrživa.
+3. Fokus na "wow" bonusima umesto na glavnom rezultatu.
+4. Ponuda bez jasnog ICP-a (pričamo svima, ne pogađa nikoga).
+5. Nema granica scope-a, pa projekat klizi u haos.
 
-### Korak 5: Uskladi cenu sa modelom naplate
-Ako dvoumi oko strukture ugovora, uporedi i [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share).
+## Brz 14-dnevni plan implementacije
 
-## Primer iz prakse (lokalni uslužni biznis)
+- **Dan 1-2:** definiši ICP i glavni rezultat (jedna rečenica).
+- **Dan 3-4:** napravi offer stack i granice scope-a.
+- **Dan 5-7:** osveži landing poruku i CTA flow.
+- **Dan 8-10:** pripremi sales odgovor skriptu i follow-up ritam.
+- **Dan 11-14:** lansiraj, meri, zatvori prve gubitnike i napravi sledeći test plan.
 
-Pocetna ponuda:
-- "Vodenje oglasa 350€ mesecno"
+Ako ti treba i tehnički okvir za stranicu koja zatvara lead, pogledaj [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
 
-Reframed ponuda po value equation logici:
-- "Cilj nam je 18-30 kvalifikovanih upita mesecno kroz Google + Meta, sa jasnim planom testiranja i optimizacije u prvih 90 dana."
-- "U prvih 14 dana sredujemo tracking i lead scoring da ne placate nerelevantne upite."
-- "Vi dobijate gotov sistem izveštavanja i nedeljni prioritetni plan."
+## Zaključak
 
-U vecini slucajeva ova promena podigne close rate više nego bilo kakav "popust".
-
-## Gde firme najcece pogree
-
-Najcece greške su:
-
-- prodaju aktivnost umesto rezultata,
-- obecaju "rast" bez vremenskog okvira,
-- ne objasne šta je ukljuceno a šta nije,
-- i ostave klijentu previše operativnog posla.
-
-Ako eli da ponudu vee i za kvalitet destinacije posle klika, pogledaj i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
-
-## Zakljucak
-
-Hormozi value equation nije trik za copywriting — to je okvir da ponuda bude jasnija, vrednija i lakša za kupovinu.
-Ako eli, možemo da rastavimo tvoju trenutnu ponudu i slošimo novu verziju po ovom modelu za tvoju niu. Javi se preko [kontakt forme](/kontakt).
-`,
+Hormozi framework radi i na srpskom tržištu, ali samo kad ga prevedeš u konkretne metrike, rokove i operativni ritam.
+Ako hoćeš da zajedno složimo ponudu koja je agresivna ali i profitabilna, javi se preko [kontakt forme](/kontakt).`,
   },
   {
     slug: 'vodjenje-google-ads-kampanja-cena-srbija-2026',
@@ -20499,74 +20453,73 @@ Ako eli, možemo da rastavimo tvoju trenutnu ponudu i slošimo novu verziju po o
     date: '2026-03-10',
     category: 'Google Ads',
     readTime: '8 min',
-    content: `
-## Kratak odgovor: ne placate "klikove", nego sistem koji pravi profit
+    content: `## Kratak odgovor: ne plaćate "klikove", nego sistem koji pravi profit
 
-Kad neko kaže da je vodenje Google Ads kampanja 150€, 400€ ili 1.000€ mesecno, to samo po sebi ne znaci ništa.
+Kad neko kaže da je vođenje Google Ads kampanja 150€, 400€ ili 1.000€ mesečno, to samo po sebi ne znači ništa.
 Cena je realna tek kada znate šta konkretno ulazi u taj fee i kakav rezultat taj rad treba da proizvede.
 
-Ako prvo elite iru sliku o medijskom budžetu i ceni klika, pogledajte i [Google reklame cena](/google-reklame-cena).
+Ako prvo želite širu sliku o medijskom budžetu i ceni klika, pogledajte i [Google reklame cena](/google-reklame-cena).
 
-## Realni rasponi cena vodenja u Srbiji (2026)
+## Realni rasponi cena vođenja u Srbiji (2026)
 
-U praksi, najceci modeli izgledaju ovako:
+U praksi, najčešći modeli izgledaju ovako:
 
-- **Mikro nalozi (do ~700€ ad budget): 150€300€ / mesec**
-- **Standard nalozi (700€2.000€ budžet): 300€700€ / mesec**
+- **Mikro nalozi (do ~700€ ad budget): 150-300€ / mesec**
+- **Standard nalozi (700-2.000€ budžet): 300-700€ / mesec**
 - **Napredni nalozi (2.000€+): 700€+ / mesec ili procenat od budžeta**
 
 Nizak fee može biti sasvim korektan za jednostavan nalog sa malim brojem kampanja.
-Problem nastaje kada se obeca ozbiljna optimizacija, a u realnosti dobijete samo "odravanje" bez testiranja, bez analize i bez jasnog plana rasta.
+Problem nastaje kada se obeća ozbiljna optimizacija, a u realnosti dobijete samo "održavanje" bez testiranja, bez analize i bez jasnog plana rasta.
 
-## šta mora da ulazi u kvalitetno vodenje Google Ads kampanja
+## Šta mora da ulazi u kvalitetno vođenje Google Ads kampanja
 
-Ako placate upravljanje, minimalni standard treba da ukljucuje:
+Ako plaćate upravljanje, minimalni standard treba da uključuje:
 
-- istraživanje kljucnih reci i mapiranje po intentu,
+- istraživanje ključnih reči i mapiranje po intentu,
 - strukturu kampanja i ad grupa po uslugama/proizvodima,
 - copy testiranje oglasa i ekstenzija,
-- redovan rad na negativnim kljucnim recima,
+- redovan rad na negativnim ključnim rečima,
 - kontrolu search terms izveštaja,
 - optimizaciju bid strategije po kvalitetu lead-a,
 - proveru i korekcije konverzionog trackinga,
-- mesecni izveštaj sa jasnim KPI zakljuccima i sledecim koracima.
+- mesečni izveštaj sa jasnim KPI zaključcima i sledećim koracima.
 
-Ako od ovoga dobijate samo jedan PDF sa brojem klikova, ne placate vodenje — placate administraciju.
+Ako od ovoga dobijate samo jedan PDF sa brojem klikova, ne plaćate vođenje — plaćate administraciju.
 
 ## Modeli naplate: fiksna cena ili procenat budžeta
 
-Najcece cete videti dve opcije:
+Najčešće ćete videti dve opcije:
 
-1. **Fiksna mesecna naknada** (predvidljiva, dobra za planiranje)
-2. **Procenat od ad budžeta** (cece kod vecih naloga)
+1. **Fiksna mesečna naknada** (predvidljiva, dobra za planiranje)
+2. **Procenat od ad budžeta** (češće kod većih naloga)
 
-Fiksna cena je prakticna kada elite stabilan troak i jasna ocekivanja.
-Procenat može imati smisla kod skaliranja, ali samo ako postoji dogovor šta tacno raste zajedno sa budžetom (broj kampanja, broj testova, reporting dubina, CRO input).
+Fiksna cena je praktična kada želite stabilan trošak i jasna očekivanja.
+Procenat može imati smisla kod skaliranja, ali samo ako postoji dogovor šta tačno raste zajedno sa budžetom (broj kampanja, broj testova, reporting dubina, CRO input).
 
-Ako razmatrate model naplate, korisno je i poredenje [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share).
+Ako razmatrate model naplate, korisno je i poređenje [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share).
 
-## 5 crvenih zastavica da je ponuda za vodenje loša
+## 5 crvenih zastavica da je ponuda za vođenje loša
 
-### 1) Nema vlasnitva nad nalogom
+### 1) Nema vlasništva nad nalogom
 Ako agencija radi preko svog naloga i ne daje vam pun pristup, rizik je visok.
-Va biznis mora da bude vlasnik podataka, historije i konverzija.
+Vaš biznis mora da bude vlasnik podataka, istorije i konverzija.
 
 ### 2) Nema plana testiranja
 Bez eksperiment plana, kampanja stagnira.
-Dobar partner unapred kaže šta ce testirati narednih 30 dana.
+Dobar partner unapred kaže šta će testirati narednih 30 dana.
 
-### 3) Fokus iskljucivo na CPC
+### 3) Fokus isključivo na CPC
 Jeftin klik nije cilj.
 Cilj je profitabilan lead ili prodaja.
 
 ### 4) Nema uvida u search terms
-Ako se ne radi negativna lista i cicenje upita, troak gotovo sigurno curi.
+Ako se ne radi negativna lista i čišćenje upita, trošak gotovo sigurno curi.
 
 ### 5) Izveštaji bez preporuka
-Brojke bez zakljucka nisu strategija.
-Dobar izveštaj mora da odgovori na pitanje: "šta menjamo sledece nedelje i zašto?"
+Brojke bez zaključka nisu strategija.
+Dobar izveštaj mora da odgovori na pitanje: "šta menjamo sledeće nedelje i zašto?"
 
-## Kako da procenite da li je cena vodenja opravdana
+## Kako da procenite da li je cena vođenja opravdana
 
 Postavite tri jednostavna pitanja:
 
@@ -20575,25 +20528,24 @@ Postavite tri jednostavna pitanja:
 - Da li postoji jasan backlog eksperimenata i iteracija?
 
 Ako su odgovori "da", i fee je verovatno zdrav.
-Ako ne znate odgovore, problem nije nuno u ceni — problem je u transparentnosti rada.
+Ako ne znate odgovore, problem nije nužno u ceni — problem je u transparentnosti rada.
 
-Za iri kontekst marketinkih trokova, pogledajte i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Za širi kontekst marketinških troškova, pogledajte i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-## Primer jednostavne racunice (da izbegnete pogrean fokus)
+## Primer jednostavne računice (da izbegnete pogrešan fokus)
 
-Recimo da je vodenje 450€ mesecno.
+Recimo da je vođenje 450€ mesečno.
 Na prvi pogled deluje skupo.
 
-Ali ako optimizacija smanji cenu kvalifikovanog leada sa 30€ na 20€, i mesecno dobijete 20 lead-ova više sa istim budžetom, fee se vrlo brzo isplati.
+Ali ako optimizacija smanji cenu kvalifikovanog leada sa 30€ na 20€, i mesečno dobijete 20 lead-ova više sa istim budžetom, fee se vrlo brzo isplati.
 
-Drugim recima: bolji sistem akvizicije skoro uvek pobedi "jeftiniju" uslugu koja ne pomera rezultat.
+Drugim rečima: bolji sistem akvizicije skoro uvek pobedi "jeftiniju" uslugu koja ne pomera rezultat.
 
-## Zakljucak
+## Zaključak
 
-Cena vodenja Google Ads kampanja u Srbiji 2026 nije "koliko košta agencija", nego koliko vrednosti dobijate iz procesa koji vodi do boljih lead-ova i stabilnijeg profita.
+Cena vođenja Google Ads kampanja u Srbiji 2026 nije "koliko košta agencija", nego koliko vrednosti dobijate iz procesa koji vodi do boljih lead-ova i stabilnijeg profita.
 
-Ako elite realnu procenu za vaš nalog (budžet + upravljanje + ocekivanja po niši), [javite nam se](/kontakt) i dobicete konkretan plan bez generickih obecanja.
-`,
+Ako želite realnu procenu za vaš nalog (budžet + upravljanje + očekivanja po niši), [javite nam se](/kontakt) i dobićete konkretan plan bez generičkih obećanja.`,
   },
   {
     slug: 'izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu',
@@ -20700,7 +20652,7 @@ Sa istim ad spend-om dobijas vise kvalifikovanih upita, pa razlika cesto vrati i
 
 Zato glavna metrika nije koliko kosta landing, nego **koliko kosta kvalitetan upit posle launch-a**.
 
-## Zakljucak
+## Zaključak
 
 Landing stranica nije trosak koji placas zbog dizajna, nego alat koji treba da vrati novac kroz bolju konverziju i kvalitetnije upite.
 
@@ -21781,7 +21733,7 @@ Ovo je posebno izraeno kod firmi koje rastu brzo. Zaposle više ljudi, uzmu veci
 
 ## Greška 2: Zavisnost od jednog kanala ili jednog klijenta
 
-Firma koja dobija 60% prihoda od jednog klijenta ima ozbiljan problem, cak i kad taj klijent placa redovno. Jer kad taj klijent ode (a uvek postoji ansa), firma gubi vecinu prihoda preko noci.
+Firma koja dobija 60% prihoda od jednog klijenta ima ozbiljan problem, cak i kad taj klijent placa redovno. Jer kad taj klijent ode (a uvek postoji ansa), firma gubi vecinu prihoda preko noći.
 
 Isto vaši za marketing kanale. Firma koja zavisi samo od Google Ads-a je jedna promena algoritma daleko od katastrofe. Diverzifikacija nije luksuz. Diverzifikacija je osiguranje.
 
@@ -24777,7 +24729,7 @@ Sad primenimo jednacinu:
 
 - **eljeni ishod:** "Va sajt ce biti na prvoj strani Googla za kljucne reci koje vaši kupci zapravo pretrauju. To znaci 20-50 novih posetilaca dnevno koji traže tacno ono što vi prodajete."
 - **Verovatnoca:** "Evo 3 klijenta u vašoj industriji kojima smo to uradili. Evo screenshot-ova pre i posle. Evo njihovih kontakata ako elite da ih pozovete."
-- **Vreme:** "Tehnicku optimizaciju zavravamo u prvom mesecu. Prve pomake u rangiranju vidite za 60-90 dana. Za 6 meseci ste na prvoj strani."
+- **Vreme:** "Tehničku optimizaciju zavravamo u prvom mesecu. Prve pomake u rangiranju vidite za 60-90 dana. Za 6 meseci ste na prvoj strani."
 - **Trud:** "Vi nam date pristup sajtu i 30 minuta za intervju o vašem poslu. Mi radimo sve ostalo. aljemo mesecni izveštaj sa konkretnim brojevima."
 
 Sad tih 400 evra zvuci kao sitnica. Ne zato što se cena promenila, nego zato što se percepcija vrednosti promenila.
@@ -24866,7 +24818,7 @@ Blog tekstovi, video snimci, postovi na mrežama, podkasti. Informacije koje pri
 
 Piete o temama koje vaša ciljna grupa pretrauje. Snimate video u kome objanjavate kako reiti konkretan problem. Pravite vodic koji ljudi preuzimaju. Vremenom, gradite publiku koja vam veruje.
 
-**Prednosti:** Radi dugorocno. Jedan dobar blog tekst privlaci posetioce godinama. Gradi autoritet i poverenje pre nego što uopte pricate sa kupcem.
+**Prednosti:** Radi dugoročno. Jedan dobar blog tekst privlaci posetioce godinama. Gradi autoritet i poverenje pre nego što uopte pricate sa kupcem.
 
 **Mane:** Sporo. Potrebno je 3-6 meseci konzistentnog rada da vidite rezultate. Zahteva disciplinu i redovnost.
 
@@ -25191,7 +25143,7 @@ Ista usluga deluje vrednije kada je struktura jasna: pocetni audit, plan po faza
 
 Cenu uvek vezujte za ishod i obim posla. Umesto jedne cifre, prikaite pakete i šta svaki paket reava.
 
-## Zakljucak
+## Zaključak
 
 Kad klijent vidi jasan ishod, plan i kontrolu rizika, odluka dolazi brže. To je sutina ponude kojoj je teško reci ne.
 
@@ -25274,7 +25226,7 @@ Pre nego što krenete dalje, proverite:
 
 Ako je odgovor "ne" na bilo koje pitanje, tu je sledeci prioritet.
 
-## Zakljucak
+## Zaključak
 
 Leila pristup je jednostavan: sistem pre brzine. Kada proces radi stabilno, rast više nije haos nego planiran rezultat.
 
@@ -25358,7 +25310,7 @@ Dan 5: skratite funnel (jasan CTA + jednostavnija forma).
 
 Dan 6-7: testirajte 2 ugla kreativa i izaberite pobednika po kvalifikovanim upitima.
 
-## Zakljucak
+## Zaključak
 
 Vie upita bez veceg budžeta je moguce kada poruka i ponuda rade zajedno. To je sutina Sabri Suby pristupa: jasnoca pre skaliranja.
 
@@ -25440,7 +25392,7 @@ Pre nego što poaljete ponudu, proverite:
 
 Ako je odgovor da na sva pitanja, ponuda je spremna.
 
-## Zakljucak
+## Zaključak
 
 Hormozi pristup nije fensi prodaja. To je disciplina: jasna vrednost, jasan sistem i jasan rizik. Kada to postavite kako treba, razgovor više nije zašto je skupo, nego kada krecemo.
 
@@ -25524,7 +25476,7 @@ Jedan kratak sastanak nedeljno:
 
 To je dovoljno da firma ostane u kontroli i dok raste.
 
-## Zakljucak
+## Zaključak
 
 KPI tabla nije administracija. To je komandna tabla firme. Kada je jednostavna i disciplinovano vodena, odluke su brže, tim je mirniji i rast postaje predvidljiv.
 
@@ -25534,7 +25486,7 @@ Za iri kontekst pogledajte i [Leila Hormozi sistem za rast biznisa](/blog/leila-
   {
     slug: 'koliko-traje-seo-da-donese-rezultate-u-srbiji',
     title: 'Koliko traje SEO da donese rezultate u Srbiji (realni rokovi za 2026)',
-    excerpt: 'SEO nije sprint ni magija preko noci. Pogledajte realne rokove po fazama, šta se meri u prvih 30/60/90 dana i kako da znate da li strategija stvarno radi.',
+    excerpt: 'SEO nije sprint ni magija preko noći. Pogledajte realne rokove po fazama, šta se meri u prvih 30/60/90 dana i kako da znate da li strategija stvarno radi.',
     date: '2026-03-10',
     category: 'SEO',
     readTime: '9 min',
@@ -25669,13 +25621,13 @@ Objavljivanje bez internih linkova i tematskih klastera usporava ceo efekat.
 
 ### Greška 4: ocekivanje da SEO zameni sve ostale kanale
 
-SEO i placeni oglasi rade najbolje zajedno. SEO gradi dugorocnu bazu, oglasi donose brz volumen.
+SEO i placeni oglasi rade najbolje zajedno. SEO gradi dugoročnu bazu, oglasi donose brz volumen.
 
 Ako elite i paid benchmark, pogledajte [Google reklame cena](/google-reklame-cena), [Instagram reklame cena](/instagram-reklame-cena) i [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026).
 
 ## Realan zakljucak za vlasnike firmi
 
-SEO je sporiji od oglasa na pocetku, ali je dugorocno stabilniji i profitabilniji kad se radi kako treba.
+SEO je sporiji od oglasa na pocetku, ali je dugoročno stabilniji i profitabilniji kad se radi kako treba.
 
 Ako tražite rezultat "odmah", SEO nije pravi prvi potez. Ako gradite kanal koji za 6-12 meseci može da nosi ozbiljan deo pipeline-a, SEO je jedan od najboljih poteza koje možete napraviti.
 
@@ -25814,7 +25766,7 @@ Profil mora da vodi ka jasnoj sledecoj akciji: poziv, termin, upit.
 
 Ako elite da sredite i prodajni deo posle klika, pogledajte i [cene digitalnog marketinga](/cene-digitalnog-marketinga) i [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
 
-## Zakljucak
+## Zaključak
 
 Google Business optimizacija je jedan od retkih kanala gde relativno malo ulaganje može brzo da vrati vrednost, posebno za lokalne usluge.
 
@@ -26145,7 +26097,7 @@ Ne mora uvek biti "garancija rezultata"; cesto je bolje:
 - transparentan reporting,
 - mogucnost izlaska ako nema dogovorenih operativnih standarda.
 
-Za poredjenje modela saradnje korisno je i [agencija vs freelancer](/agencija-vs-freelancer).
+Za poređenje modela saradnje korisno je i [agencija vs freelancer](/agencija-vs-freelancer).
 
 ### 4) Proof i kredibilitet
 Bez dokaza, i dobra ponuda zvuci kao reklama.
@@ -26153,7 +26105,7 @@ Bez dokaza, i dobra ponuda zvuci kao reklama.
 U proof ubaci:
 - mini case (pre/posle),
 - konkretne brojke (CPL, stopa zakazivanja, rast kvalifikovanih upita),
-- kontekst nise da korisnik zna da je poredjenje fer.
+- kontekst nise da korisnik zna da je poređenje fer.
 
 Ako hoces primer kako to pakovati na stranici koja prodaje, pogledaj i [web dizajn usluge](/web-design).
 
@@ -26215,7 +26167,7 @@ Ako zelis da uskladis i WordPress stranu pre skaliranja, koristan kontekst je [i
 
 Ako prepoznajes bar dve tacke sa liste, nije problem u platformi nego u ponudi i poruci.
 
-## Zakljucak
+## Zaključak
 
 Sabri Suby offer stack pristup radi jer tera disciplinu: jasan ishod, vidljiv proces, dokaz i sledeci korak bez konfuzije.
 Ako hoces, mogu da uradim brz audit tvoje trenutne Google Ads ponude i oznacim 3 izmene koje najbrze podizu kvalitet leadova - javi se preko [kontakt forme](/kontakt).
@@ -26277,7 +26229,7 @@ Najbolji okvir je da ovu odluku gledas kroz throughput, ne kroz ego. Ako nova os
 
 Ako zelis da proveris da li ti je trenutna struktura uopste spremna za ovu ulogu, pre zaposljavanja uradi kratku dijagnostiku kroz [consulting](/consulting) ili uporedi model sa onim sto vec ulazi u [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-## Zakljucak
+## Zaključak
 
 Prvo zaposljavanje u marketingu nije HR zadatak. To je operativna odluka o tome da li tvoj sistem moze da podnese rast.
 
@@ -26514,7 +26466,7 @@ Ako hoćeš, možemo uraditi brz audit tvoje trenutne kampanje i reći koja 3 po
     content: `
 ## YouTube reklame cena u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **youtube reklame cena Srbija**, realan okvir za vecinu firmi je:
+Ako tražiš upit **youtube reklame cena Srbija**, realan okvir za vecinu firmi je:
 - medijski test budzet: **400e-1.500e mesecno**,
 - upravljanje kampanjama: **200e-700e mesecno**,
 - kreativa/video adaptacije: **150e-1.200e mesecno**.
@@ -26610,7 +26562,7 @@ Maksimalno odrziv CPL je oko 80e (400e / 5). Ako je stvarni CPL duze iznad tog n
 
 Ako YouTube koristis kao deo sireg sistema, obavezno uskladi ga sa stranicama koje zatvaraju upit i sa [kontakt tokom](/kontakt).
 
-## Zakljucak
+## Zaključak
 
 YouTube reklame u Srbiji 2026 mogu biti vrlo isplative kada imaju jasan funnel i merljive KPI-jeve.
 Ako hoces, mogu da uradim brz audit trenutne YouTube kampanje i oznacim 3 izmene koje najbrze popravljaju kvalitet leadova i ROI - javi se preko [kontakt forme](/kontakt).
@@ -26626,7 +26578,7 @@ Ako hoces, mogu da uradim brz audit trenutne YouTube kampanje i oznacim 3 izmene
     content: `
 ## Google Ads za restorane u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **google ads za restorane cena Srbija**, praktican okvir za vecinu restorana je:
+Ako tražiš upit **google ads za restorane cena Srbija**, praktican okvir za vecinu restorana je:
 - **400e-900e/mes** za test fazu,
 - **900e-2.200e/mes** za stabilan priliv rezervacija,
 - **2.200e+ / mes** kada skaliras vise zona, termina i ponuda.
@@ -26719,7 +26671,7 @@ Ako je cena rezervacije duze iznad toga, funnel trazi korekciju.
 
 Ako hoces i siri pregled ulaganja po kanalima pre skaliranja, pogledaj [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-## Zakljucak
+## Zaključak
 
 Google Ads za restorane u Srbiji 2026 moze biti vrlo profitabilan kanal kada je fokus na ceni potvrdene rezervacije, ne na jeftinom kliku.
 Ako hoces, mogu da uradim brz audit tvoje kampanje i oznacim 3 poteza koji najbrze podizu broj profitabilnih rezervacija - javi se preko [kontakt forme](/kontakt).
@@ -26770,7 +26722,7 @@ Redovni Google Posts (dnevni specijal, dogadjaj, nova jela) signaliziraju Google
 
 ### 2) Lokalni NAP i citati
 
-Ime, adresa, telefon (NAP) moraju biti identicni na sajtu, Google-u, TripAdvisoru, Gastronautu, socijalnim mrežama. Jedna razlika u broju telefona može da zbuni Google i gurne vas niže.
+Ime, adresa, telefon (NAP) moraju biti identični na sajtu, Google-u, TripAdvisoru, Gastronautu, socijalnim mrežama. Jedna razlika u broju telefona može da zbuni Google i gurne vas niže.
 
 ### 3) On-page SEO sajta
 
@@ -26792,11 +26744,11 @@ Svaki takav tekst je prilika da se pojavite u organskom rezultatu za pretragu ko
 
 ### 5) Schema markup
 
-Restaurant schema, LocalBusiness, meni markup, recenzije. Ovo pomaže Google-u da razume sta nudite i prikazuje bogat rezultat u pretrazi (zvezdice, cenovni rang, radno vreme).
+Restaurant schema, LocalBusiness, meni markup, recenzije. Ovo pomaže Google-u da razume šta nudite i prikazuje bogat rezultat u pretrazi (zvezdice, cenovni rang, radno vreme).
 
 ## Koliko traje da SEO za restoran pocne da daje rezultat
 
-Realna ocekivanja za srpsko tržište:
+Realna očekivanja za srpsko tržište:
 
 - **Prvih 30 dana:** tehnička stabilizacija, Google Business optimizacija, NAP konzistentnost. Rezultat: pojava u lokalnom paketu za nizak-konkurentne upite.
 
@@ -26816,21 +26768,21 @@ Pozicije su korisne kao indikator, ali nisu krajnji cilj. Pratite:
 - **Procenat novih vs. povratnih gostiju** (ako pratite kroz loyalty ili POS sistem).
 - **Mesečni trend pregleda na Google Maps** (raste ili stagnira).
 
-Tek kada ove brojke rastu mesec za mesecom, mozete reci da SEO radi.
+Tek kada ove brojke rastu mesec za mesecom, možete reći da SEO radi.
 
 Za siru sliku o [marketingu za restorane](/marketing-za-restorane) i koji kanali imaju smisla pored SEO-a, pogledajte nas vodic.
 
-## Model budzeta koji restoranima obicno funkcionise
+## Model budžeta koji restoranima obično funkcioniše
 
 Praktični okvir za 2026:
 
 - **Mesec 1:** kompletna Google Business revizija + on-page osnova na sajtu + NAP audit.
 - **Mesec 2-3:** content cluster za ključne pretrage gostiju (tip kuhinje + grad + prigoda) + unutrasnje linkovanje.
-- **Mesec 4+:** mesečni održavanje profila, novi sadržaj, pracenje KPI, reakcija na recenzije.
+- **Mesec 4+:** mesečni održavanje profila, novi sadržaj, praćenje KPI, reakcija na recenzije.
 
 Paralelno, lokalni SEO dobro funkcionise uz [Instagram reklame za restorane](/blog/instagram-reklame-za-restorane-cena-rezervacije-srbija-2026) i [Google Ads za restorane](/blog/google-ads-za-restorane-cena-rezervacije-srbija-2026) za brzi inicijalni dotok gostiju dok SEO efekti sazrevaju.
 
-## Najčešće greske koje podizu troškove bez rezultata
+## Najčešće greške koje podižu troškove bez rezultata
 
 1. **Oslanjanje iskljucivo na Instagram umesto na lokalni SEO.** Instagram je odlican za vizuelni sadržaj, ali ne hvata ljude koji aktivno pretrazuju gde ce jesti veceras.
 
@@ -26854,7 +26806,7 @@ Pre nego sto potpišete ugovor, pitajte:
 
 Ako ponuda ne pokriva bar lokalni SEO + content + Google Business aktivnost, verovatno plaćate parcijalan posao koji neće doneti pun rezultat.
 
-## Zakljucak
+## Zaključak
 
 SEO za restorane u Srbiji 2026 je pre svega lokalni posao: Google Business, recenzije, NAP konzistentnost i sadržaj koji hvata realne pretrage gostiju. Nije skup, ali zahteva konzistentnost.
 Ako zelite da znate gde vam je najveci prostor za napredak, javite se za besplatan mini audit preko [kontakt forme](/kontakt).
@@ -26970,7 +26922,7 @@ Ako hoćeš, mogu da uradim brz audit tvoje trenutne ponude i označim da li je 
     content: `
 ## Google Ads za arhitektonske biroe u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **google ads za arhitektonske biroe cena**, najkorisniji okvir za srpsko trziste 2026 je:
+Ako tražiš upit **google ads za arhitektonske biroe cena**, najkorisniji okvir za srpsko trziste 2026 je:
 - **test faza:** 450e-1.100e/mes,
 - **stabilan priliv upita:** 1.100e-2.800e/mes,
 - **skaliranje po uslugama i gradovima:** 2.800e+/mes.
@@ -27059,7 +27011,7 @@ Tek kad gledas ceo lanac, znas da li kanal gradi zdrav pipeline ili samo aktivno
 Za siri kontekst raspodele ulaganja po kanalima pogledaj i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 Ako paralelno testiras social demand capture, uporedi i [Instagram reklame cena](/instagram-reklame-cena).
 
-## Zakljucak
+## Zaključak
 
 Google Ads za arhitektonske biroe u Srbiji 2026 moze da donese stabilan priliv ozbiljnih projekata kada kampanje vodis po usluzi, lokaciji i kvalitetu upita, a ne po najjeftinijem kliku.
 Ako hoces, mogu da uradim mini audit naloga i oznacim 3 najbrza poteza za nizi trosak kvalitetnog upita preko [kontakt forme](/kontakt).
@@ -27464,7 +27416,7 @@ Ako hoćeš, mogu da oznacim 3 najbrza poteza za nizi trošak kvalifikovanog upi
     content: `
 ## Google Ads za stamparije u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **google ads za stamparije cena**, najcesci realni raspon za srpsko trziste u 2026 izgleda ovako:
+Ako tražiš upit **google ads za stamparije cena**, najcesci realni raspon za srpsko trziste u 2026 izgleda ovako:
 
 - **test faza:** 350e-900e/mes,
 - **stabilan priliv B2B upita:** 900e-2.400e/mes,
@@ -27556,7 +27508,7 @@ Tek tada znas da kampanja pravi profit, a ne samo promet.
 
 Za dodatni benchmark po industrijama pogledaj [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026) i [kako odrediti budzet za Google reklame](/blog/kako-odrediti-budzet-za-google-reklame-srbija-2026).
 
-## Zakljucak
+## Zaključak
 
 Google Ads za stamparije u Srbiji 2026 moze da donese stabilan priliv profitabilnih B2B upita kada kampanje vodis po intentu, roku isporuke i brzini obrade leadova, ne po najjeftinijem kliku.
 Ako hoces, mogu da oznacim 3 najbrza poteza za nizi trosak kvalifikovanog upita preko [kontakt forme](/kontakt).
@@ -27573,7 +27525,7 @@ Ako hoces, mogu da oznacim 3 najbrza poteza za nizi trosak kvalifikovanog upita 
     content: `
 ## Landing stranica za Google Ads u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **landing stranica za google ads cena**, najcesci realni rasponi u 2026 su:
+Ako tražiš upit **landing stranica za google ads cena**, najcesci realni rasponi u 2026 su:
 
 - **brzi MVP landing (jedna ponuda):** 250e-600e,
 - **lead-gen landing sa osnovnim CRO setup-om:** 600e-1.200e,
@@ -27638,7 +27590,7 @@ Kada kampanja dobije stabilan volumen (npr. 200+ klikova po varijanti), ulazi se
 
 Za uporedni paid miks i medijski plan, pogledaj i [cene digitalnog marketinga](/cene-digitalnog-marketinga) i [Instagram reklame cena](/instagram-reklame-cena).
 
-## Zakljucak
+## Zaključak
 
 Landing stranica za Google Ads u Srbiji 2026 nije trosak dizajna, vec deo profitnog sistema.
 Ako hoces, mogu da oznacim 3 najbrze izmene na tvojoj trenutnoj stranici koje najcesce spustaju cenu kvalitetnog upita preko [kontakt forme](/kontakt).
@@ -27647,19 +27599,18 @@ Ako hoces, mogu da oznacim 3 najbrze izmene na tvojoj trenutnoj stranici koje na
 
   {
     slug: 'alex-hormozi-value-equation-ponuda-koja-se-prodaje-srbija-2026',
-    title: 'Alex Hormozi framework: kako da ponuda za uslugu zaista prodaje (Srbija 2026)',
-    excerpt: 'Praktičan vodič kako da spakuješ ponudu za uslugu tako da ljudi lakše kažu da, uz realne cenovne okvire i jasan implementation plan za srpsko tržište.',
+    title: 'Alex Hormozi Value Equation: kako da ponuda bude skuplja i lakša za prodaju (Srbija 2026)',
+    excerpt: 'Praktičan vodič kako da primeniš Hormozi value equation na uslužni biznis u Srbiji i podigneš cenu bez pada konverzije.',
     date: '2026-03-15',
     category: 'Marketing',
     readTime: '9 min',
-    content: `
-## Zasto i dobar marketing cesto ne prodaje
+    content: `## Zašto i dobar marketing često ne prodaje
 
-Vecina kampanja ne puca na distribuciji nego na ponudi.
-Klikovi dodju, ljudi procitaju stranicu, ali ne osete da je vrednost jasna i hitna.
+Većina kampanja ne puca na distribuciji nego na ponudi.
+Klikovi dođu, ljudi pročitaju stranicu, ali ne osete da je vrednost jasna i hitna.
 
-Ako hoces bolji rezultat iz istog budzeta, prvo popravi ponudu, pa tek onda ad account.
-Za kanal i budzet okvir pogledaj i [Google reklame cena](/google-reklame-cena) i [Instagram reklame cena](/instagram-reklame-cena).
+Ako hoćeš bolji rezultat iz istog budžeta, prvo popravi ponudu, pa tek onda ad account.
+Za kanal i budžet okvir pogledaj i [Google reklame cena](/google-reklame-cena) i [Instagram reklame cena](/instagram-reklame-cena).
 
 ## Alex Hormozi value equation (u praksi, ne teoriji)
 
@@ -27669,32 +27620,32 @@ Hormozi okvir je jednostavan:
 
 U prevodu za lokalni biznis:
 
-- povecaj koliko je ishod pozeljan,
-- povecaj verovatnocu da ce klijent stvarno doci do ishoda,
+- povećaj koliko je ishod poželjan,
+- povećaj verovatnoću da će klijent stvarno doći do ishoda,
 - smanji vreme do prvog rezultata,
-- smanji napor koji klijent mora da ulozi.
+- smanji napor koji klijent mora da uloži.
 
-Ako ova cetiri dela nisu jasna u ponudi, cena skoro uvek deluje "skupa", cak i kad nije.
+Ako ova četiri dela nisu jasna u ponudi, cena skoro uvek deluje "skupa", čak i kad nije.
 
-## Kako da strukturises ponudu za digitalne usluge u Srbiji
+## Kako da strukturiraš ponudu za digitalne usluge u Srbiji
 
-### 1) Definisi ishod bez magle
-Lose: "radimo digitalni marketing".
+### 1) Definiši ishod bez magle
+Loše: "radimo digitalni marketing".
 Bolje: "cilj je +35 kvalifikovanih upita za 90 dana uz CPA plafon".
 
-Specifikacija ishoda podize poverenje i pravi razliku izmedju konsultanta i dobavljaca taskova.
+Specifikacija ishoda podiže poverenje i pravi razliku između konsultanta i dobavljača taskova.
 
-### 2) Dokazi da je rezultat verovatan
+### 2) Dokaži da je rezultat verovatan
 U ponudi mora da stoji:
 
 - koje metrike pratite (CPL, CPA, ROAS, lead quality),
 - kojim ritmom radite optimizaciju,
-- kako izgleda reporting i odluka sta ide dalje.
+- kako izgleda reporting i odluka šta ide dalje.
 
-Za dublji kontekst troska klika i kvaliteta saobracaja pogledaj [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026).
+Za dublji kontekst troška klika i kvaliteta saobraćaja pogledaj [Google Ads cena po kliku u Srbiji 2026](/blog/google-ads-cena-po-kliku-srbija-2026).
 
 ### 3) Skrati vreme do prvog vidljivog pomaka
-Umesto otvorenog "videcemo", ponuda treba da ima jasan raspored:
+Umesto otvorenog "videćemo", ponuda treba da ima jasan raspored:
 
 - nedelja 1: audit + plan,
 - nedelja 2: setup,
@@ -27704,68 +27655,67 @@ Umesto otvorenog "videcemo", ponuda treba da ima jasan raspored:
 Klijent ne kupuje samo ishod, nego i brzinu kojom dolazi do signala da stvar ide u dobrom smeru.
 
 ### 4) Smanji napor klijenta (frikciju)
-Ako klijent mora da juri 15 stvari paralelno, ponuda ce delovati tesko.
+Ako klijent mora da juri 15 stvari paralelno, ponuda će delovati teško.
 
-U ponudi jasno reci sta preuzimas:
+U ponudi jasno reci šta preuzimaš:
 
 - copy i struktura oglasa,
 - preporuke za landing i CTA,
 - tracking checklist,
-- sedmicni "sta je uradjeno / sta sledi" update.
+- sedmični "šta je urađeno / šta sledi" update.
 
-Ako radis i post-click deo, prirodan nastavak je [izrada landing stranice: cena, rokovi, sta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
+Ako radiš i post-click deo, prirodan nastavak je [izrada landing stranice: cena, rokovi, šta ulazi u cenu](/blog/izrada-landing-stranice-cena-rokovi-sta-ulazi-u-cenu).
 
-## Offer stack: kako da cena izgleda logicno
+## Offer stack: kako da cena izgleda logično
 
-Jedan od jacih Hormozi principa je da kupac ne vidi jednu uslugu, nego paket vrednosti.
+Jedan od jačih Hormozi principa je da kupac ne vidi jednu uslugu, nego paket vrednosti.
 
 Primer stack-a za lead gen uslugu:
 
 1. osnova: upravljanje kampanjom,
-2. bonus: mesecni CRO mini-audit landinga,
+2. bonus: mesečni CRO mini-audit landinga,
 3. bonus: sales follow-up skripta za brz odgovor leadovima,
 4. bonus: dashboard sa KPI pregledom,
 5. bonus: 30-dnevni eksperiment plan.
 
-Poenta nije da das sve "dzabe", nego da kupac razume zasto cena postoji i sta tacno dobija.
+Poenta nije da daš sve "džabe", nego da kupac razume zašto cena postoji i šta tačno dobija.
 
-Za sire planiranje po kanalima koristi i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Za šire planiranje po kanalima koristi i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-## Kako da postavis garanciju bez samoubistva marze
+## Kako da postaviš garanciju bez samoubistva marže
 
-Garancija ne mora da bude "vracam sav novac".
+Garancija ne mora da bude "vraćam sav novac".
 
 Sigurnije varijante:
 
-- garancija aktivnosti (jasan broj iteracija, testova i izvestaja),
+- garancija aktivnosti (jasan broj iteracija, testova i izveštaja),
 - garancija brzine reakcije (npr. odgovor u 24h),
 - garancija dodatnog sprinta ako KPI nisu blizu plana.
 
-Ovo podize perceived likelihood bez toga da preuzmes neogranicen finansijski rizik.
+Ovo podiže perceived likelihood bez toga da preuzmeš neograničen finansijski rizik.
 
-## Najcesce greske kada se kopira Hormozi bez konteksta
+## Najčešće greške kada se kopira Hormozi bez konteksta
 
-1. Prevelika obecanja bez operativnog plana.
-2. Popusti koji jedu marginu pa usluga postane neodrziva.
+1. Prevelika obećanja bez operativnog plana.
+2. Popusti koji jedu marginu pa usluga postane neodrživa.
 3. Fokus na "wow" bonusima umesto na glavnom rezultatu.
-4. Ponuda bez jasnog ICP-a (pricamo svima, ne pogadja nikoga).
+4. Ponuda bez jasnog ICP-a (pričamo svima, ne pogađa nikoga).
 5. Nema granica scope-a, pa projekat klizi u haos.
 
 ## Brz 14-dnevni plan implementacije
 
-- **Dan 1-2:** definisi ICP i glavni rezultat (jedna recenica).
+- **Dan 1-2:** definiši ICP i glavni rezultat (jedna rečenica).
 - **Dan 3-4:** napravi offer stack i granice scope-a.
-- **Dan 5-7:** osvezi landing poruku i CTA flow.
+- **Dan 5-7:** osveži landing poruku i CTA flow.
 - **Dan 8-10:** pripremi sales odgovor skriptu i follow-up ritam.
-- **Dan 11-14:** lansiraj, meri, zatvori prve gubitnike i napravi sledeci test plan.
+- **Dan 11-14:** lansiraj, meri, zatvori prve gubitnike i napravi sledeći test plan.
 
-Ako ti treba i tehnicki okvir za stranicu koja zatvara lead, pogledaj [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
+Ako ti treba i tehnički okvir za stranicu koja zatvara lead, pogledaj [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena).
 
-## Zakljucak
+## Zaključak
 
-Hormozi framework radi i na srpskom trzistu, ali samo kad ga prevedes u konkretne metrike, rokove i operativni ritam.
-Ako hoces da zajedno slozimo ponudu koja je agresivna ali i profitabilna, javi se preko [kontakt forme](/kontakt).
-`,
+Hormozi framework radi i na srpskom tržištu, ali samo kad ga prevedeš u konkretne metrike, rokove i operativni ritam.
+Ako hoćeš da zajedno složimo ponudu koja je agresivna ali i profitabilna, javi se preko [kontakt forme](/kontakt).`,
   },
   {
     slug: 'google-ads-budzet-kalkulator-cpa-srbija-2026',
@@ -28121,7 +28071,7 @@ Ako nemate sajt, ili vaš trenutni sajt ne konvertuje, pogledajte [izrada WordPr
 
 Ovi brojevi pretpostavljaju da je landing stranica optimizovana i da salon ima makar 10+ Google recenzija sa ocenom 4.5+.
 
-Za kontekst troskova i poredjenje sa organskim pristupom, koristan je i vodic o [SEO optimizacija cena](/seo-optimizacija-cena).
+Za kontekst troskova i poređenje sa organskim pristupom, koristan je i vodic o [SEO optimizacija cena](/seo-optimizacija-cena).
 
 ## Google Business profil: besplatan saveznik uz Ads
 
@@ -28185,11 +28135,11 @@ Ako zelite da proverite da li Google Ads ima smisla za vaš salon ili vam treba 
 
 Ako vas zanima koliko košta SEO za frizerski salon, evo realnih raspona na srpskom tržištu u 2026:
 
-- **Osnovni lokalni SEO (Google Business, NAP, bazicni on-page):** 200-400e mesečno.
+- **Osnovni lokalni SEO (Google Business, NAP, bazični on-page):** 200-400e mesečno.
 - **Srednji model (lokal + content + stranice usluga po gradu):** 400-900e mesečno.
 - **Agresivniji rast, više lokacija ili premium pozicioniranje:** 900-1.800e+ mesečno.
 
-Cena zavisi od velicine grada, konkurencije i koliko daleko ste od lokalnog paketa za "frizerski salon [grad]".
+Cena zavisi od veličine grada, konkurencije i koliko daleko ste od lokalnog paketa za "frizerski salon [grad]".
 Za širi pregled troškova po industrijama, pogledajte [SEO optimizacija cena](/seo-optimizacija-cena).
 
 ## Zašto je SEO za frizerske salone specifičan
@@ -28200,82 +28150,82 @@ Frizerski salon nije kao e-commerce ili B2B firma. Nekoliko stvari menja celu SE
 
 2. **Vizuelni dokaz odlučuje.** Fotografije frizura, enterijera i atmosfere salona presuduju pre nego što neko pročita ijedan red teksta. Google Business slike, galerija na sajtu i Instagram su vizuelni portfolio koji menja konverziju.
 
-3. **Različite usluge privlace različite ljude.** Neko ko traži "balayage cena Beograd" je u fazi istraživanja i poredi opcije. Neko ko traži "frizerski salon Zvezdara" želi najbližu opciju odmah. SEO mora da pokrije obe namere sa različitim stranicama.
+3. **Različite usluge privlače različite ljude.** Neko ko traži "balayage cena Beograd" je u fazi istraživanja i poredi opcije. Neko ko traži "frizerski salon Zvezdara" želi najbližu opciju odmah. SEO mora da pokrije obe namere sa različitim stranicama.
 
-4. **Recenzije su direktan ranking faktor.** Google u lokalnom paketu jako vrednuje količinu, kvalitet i svežinu recenzija. Salon sa 200 recenzija i ocenom 4.6 ce rangirati iznad salona sa 20 recenzija i ocenom 5.0. To nije stvar kvaliteta usluge, nego signala poverenja.
+4. **Recenzije su direktan ranking faktor.** Google u lokalnom paketu jako vrednuje količinu, kvalitet i svežinu recenzija. Salon sa 200 recenzija i ocenom 4.6 će rangirati iznad salona sa 20 recenzija i ocenom 5.0. To nije stvar kvaliteta usluge, nego signala poverenja.
 
-5. **Sezonalnost menja potraznju.** Leto donosi porast za muška šišanja i farbanja pre odmora, jesen za nove frizure posle raspusta, decembar za praznične i svadbene rezervacije. Sadržaj koji prati te talase hvata promet kada je konkurencija najmanja.
+5. **Sezonalnost menja potražnju.** Leto donosi porast za muška šišanja i farbanja pre odmora, jesen za nove frizure posle raspusta, decembar za praznične i svadbene rezervacije. Sadržaj koji prati te talase hvata promet kada je konkurencija najmanja.
 
 6. **Premium usluge menjaju celu kalkulaciju.** Salon koji nudi balayage, keratin i bridal hair ne može da se oslanja na isti SEO pristup kao salon koji radi samo muška šišanja. Vrednost termina je 5-20x različita, pa je i ROI iz SEO-a potpuno drugačiji.
 
-## Sta ulazi u cenu SEO-a za frizerski salon
+## Šta ulazi u cenu SEO-a za frizerski salon
 
 ### 1) Google Business optimizacija
 
 Ovo je temelj za svaki salon. Profil mora imati:
 
 - Precizne kategorije (ne samo "frizerski salon" nego i "muški frizer", "ženski frizer", "salon za farbanje" zavisno od fokusa)
-- Kompletno i tacno radno vreme, uključujući praznike
+- Kompletno i tačno radno vreme, uključujući praznike
 - Profesionalne fotografije rada (before-after), enterijera i tima
 - Usluge sa cenama i opisima direktno u profilu
 - Redovni Google Posts (novi stil, sezonska ponuda, before-after transformacija)
 
-Salon koji aktivno održava Google Business profil dobija 2-3x više poziva i zakazivanja od salona sa zapustenim profilom. Ovo je besplatno, ali zahteva konzistentnost.
+Salon koji aktivno održava Google Business profil dobija 2-3x više poziva i zakazivanja od salona sa zapuštenim profilom. Ovo je besplatno, ali zahteva konzistentnost.
 
 ### 2) Lokalni SEO sadržaj
 
-Svaka usluga zasluzuje svoju stranicu optimizovanu za grad:
+Svaka usluga zaslužuje svoju stranicu optimizovanu za grad:
 
-- "Balayage Beograd" ne sme da vodi na istu stranicu kao "muško sisanje Zemun"
+- "Balayage Beograd" ne sme da vodi na istu stranicu kao "muško šišanje Zemun"
 - Svaka stranica treba lokalne signale: adresu, Google mapu, dostupne termine, mention naselja
 - Title tagovi moraju sadržati uslugu + grad (npr. "Farbanje kose Novi Sad | Salon [Ime]")
 
-Ovo nije keyword stuffing. Ovo je nacin da Google razume za koje usluge i koje lokacije vas salon postoji.
+Ovo nije keyword stuffing. Ovo je način da Google razume za koje usluge i koje lokacije vas salon postoji.
 
 ### 3) Tehnička optimizacija sajta
 
 Salon sajt mora biti brz i mobile-first:
 
-- Ucitavanje ispod 2.5 sekunde na mobilnom (većina klijenata traži salon sa telefona)
+- Učitavanje ispod 2.5 sekunde na mobilnom (većina klijenata traži salon sa telefona)
 - Schema markup za LocalBusiness, HairSalon, Offer i FAQ
-- Cist sitemap koji uključuje sve stranice usluga i lokacija
+- Čist sitemap koji uključuje sve stranice usluga i lokacija
 - HTTPS, responsive dizajn i slike optimizovane za web
 
 Mnogi salon sajtovi su spori jer imaju ogromne neoptimizovane slike frizura. Kompresija bez gubitka kvaliteta je obavezan korak.
 
 ### 4) Content marketing za salone
 
-Blog nije obavezan, ali pomazuce postovi odgovaraju na stvarna pitanja klijenata:
+Blog nije obavezan, ali korisni postovi odgovaraju na stvarna pitanja klijenata:
 
 - "Koliko košta balayage u Beogradu 2026"
 - "Kako održavati farbanu kosu između tretmana"
 - "Razlika između keratinskog peglanja i brazilskog feniranja"
-- "Koliko često treba sisati kosu da bi rasla brže"
+- "Koliko često treba šišati kosu da bi rasla brže"
 
-Svaki takav tekst donosi organski promet od ljudi koji su u fazi istraživanja i koji ce zapamtiti vas salon kada budu spremni za termin. Cilj nije pisati svaki dan, nego 2-4 kvalitetna teksta mesečno.
+Svaki takav tekst donosi organski promet od ljudi koji su u fazi istraživanja i koji će zapamtiti vaš salon kada budu spremni za termin. Cilj nije pisati svaki dan, nego 2-4 kvalitetna teksta mesečno.
 
 ### 5) Link building i lokalne citacije
 
 Za frizerske salone, off-page SEO je uglavnom:
 
 - Registracija na lokalne direktorijume (yellowpages.rs, lokal.rs, google mapa)
-- NAP konzistentnost (ime, adresa, telefon moraju biti identicni svuda)
-- Eventualni gostujuci tekst na lokalnom portalu ili saradnja sa beauty blogerom
+- NAP konzistentnost (ime, adresa, telefon moraju biti identični svuda)
+- Eventualni gostujući tekst na lokalnom portalu ili saradnja sa beauty blogerom
 
 Nema potrebe za agresivnim link buildingom. Lokalni signali i recenzije imaju veći uticaj od 50 random backlink-ova.
 
-## Rokovi: kada ocekivati rezultate
+## Rokovi: kada očekivati rezultate
 
 SEO za lokalne salone nije spor koliko ljudi misle, ali nije ni instant:
 
-| Period | Sta se desava |
+| Period | Šta se dešava |
 |--------|--------------|
-| Mesec 1-2 | Google Business optimizacija, tehničke popravke, prvih nekoliko stranica usluga. Poboljsanje u lokalnom paketu za manje konkurentne termine. |
-| Mesec 3-4 | Sadržaj pocinje da se rangira. Organski promet raste 30-50%. Pozivi i zakazivanja se povećavaju. |
+| Mesec 1-2 | Google Business optimizacija, tehničke popravke, prvih nekoliko stranica usluga. Poboljšanje u lokalnom paketu za manje konkurentne termine. |
+| Mesec 3-4 | Sadržaj počinje da se rangira. Organski promet raste 30-50%. Pozivi i zakazivanja se povećavaju. |
 | Mesec 5-6 | Stabilizacija pozicija za ključne usluge i grad. ROI postaje merljiv kroz nove termine. |
-| Mesec 7-12 | Kompetitivni termini pocnu da se otvaraju. Salon postaje go-to rezultat za svoju lokaciju. |
+| Mesec 7-12 | Kompetitivni termini počnu da se otvaraju. Salon postaje go-to rezultat za svoju lokaciju. |
 
-Napomena: ovi rokovi vaze za salon u gradu srednje velicine. U Beogradu i Novom Sadu konkurencija je jaca, pa su rokovi duži za 2-3 meseca.
+Napomena: ovi rokovi važe za salon u gradu srednje veličine. U Beogradu i Novom Sadu konkurencija je jača, pa su rokovi duži za 2-3 meseca.
 
 ## Koliko novih termina može da donese SEO
 
@@ -28283,57 +28233,57 @@ Realne brojke za salon u Srbiji posle 6 meseci aktivnog SEO rada:
 
 - **Mali grad (do 50.000 stanovnika):** 10-20 novih termina mesečno iz organske pretrage
 - **Srednji grad (50.000-200.000):** 20-40 novih termina mesečno
-- **Beograd/Novi Sad:** 30-60+ novih termina mesečno, ali uz vecu konkurenciju i veće ulaganje
+- **Beograd/Novi Sad:** 30-60+ novih termina mesečno, ali uz veću konkurenciju i veće ulaganje
 
-Ovo su termini koji dolaze bez placenog oglasa. Klijent vas je nasao sam, sto znači da je konverzija visa i da je manja verovatnoca da ce porediti cene sa još 5 salona.
+Ovo su termini koji dolaze bez plaćenog oglasa. Klijent vas je našao sam, što znači da je konverzija viša i da je manja verovatnoća da će porediti cene sa još 5 salona.
 
 ## SEO vs Instagram vs Google Ads za salone
 
 | Kanal | Prednost | Mana | Kada koristiti |
 |-------|----------|------|----------------|
-| SEO | Besplatan promet, jaka namera, dugorocno | Sporiji start, zahteva konzistentnost | Uvek, kao osnova |
-| Instagram | Vizuelni portfolio, community, brand | Algoritam kontrolise doseg, teze merljivo | Za brand awareness i lojalnost |
-| Google Ads | Brzi rezultati, precizno ciljanje | Plaćate za svaki klik, prestaje kada ugasite budzet | Za brzu popunu praznih termina |
+| SEO | Besplatan promet, jaka namera, dugoročno | Sporiji start, zahteva konzistentnost | Uvek, kao osnova |
+| Instagram | Vizuelni portfolio, community, brand | Algoritam kontroliše doseg, teže merljivo | Za brand awareness i lojalnost |
+| Google Ads | Brzi rezultati, precizno ciljanje | Plaćate za svaki klik, prestaje kada ugasite budžet | Za brzu popunu praznih termina |
 
-Najjaca kombinacija: SEO kao fondacija + Instagram za brand + Google Ads za popunjavanje rupa u rasporedu.
+Najjača kombinacija: SEO kao fondacija + Instagram za brand + Google Ads za popunjavanje rupa u rasporedu.
 Za detalje o Google reklamama za salone, pogledajte [Google Ads za frizerske salone](/blog/google-ads-za-frizerske-salone-cena-srbija-2026).
-Za Instagram pristup, citajte [Instagram marketing za frizerske salone](/blog/instagram-marketing-za-frizerske-salone-srbija-2026).
+Za Instagram pristup, čitajte [Instagram marketing za frizerske salone](/blog/instagram-marketing-za-frizerske-salone-srbija-2026).
 
-## Najčešće greske frizerskih salona u SEO-u
+## Najčešće greške frizerskih salona u SEO-u
 
-1. **Oslanjanje samo na Instagram.** Instagram je odlican za brand, ali ne hvata ljude koji aktivno traže salon. SEO hvata taj intent.
+1. **Oslanjanje samo na Instagram.** Instagram je odličan za brend, ali ne hvata ljude koji aktivno traže salon. SEO hvata taj intent.
 
-2. **Sajt bez pojedinacnih stranica usluga.** Jedna stranica "Usluge" sa listom ne rangira ni za jednu uslugu pojedinacno. Svaka usluga zasluzuje svoju stranicu.
+2. **Sajt bez pojedinačnih stranica usluga.** Jedna stranica "Usluge" sa listom ne rangira ni za jednu uslugu pojedinačno. Svaka usluga zaslužuje svoju stranicu.
 
 3. **Google Business profil bez slika ili sa starim slikama.** Klijent koji vidi prazan profil ili slike iz 2019. prelazi na sledeći rezultat.
 
-4. **Ne tražite recenzije aktivno.** Zadovoljan klijent ce rado ostaviti recenziju ako ga zamolite na licu mesta. Svaka nova recenzija je mini SEO pojačanje.
+4. **Ne tražite recenzije aktivno.** Zadovoljan klijent će rado ostaviti recenziju ako ga zamolite na licu mesta. Svaka nova recenzija je mini SEO pojačanje.
 
 5. **Isti sadržaj za sve gradove.** Ako imate više lokacija, svaka mora imati jedinstvenu stranicu sa lokalnim detaljima. Copy-paste ubija rangiranje za obe lokacije.
 
-6. **Zanemarivanje mobilnog iskustva.** Više od 80% pretrage za salone dolazi sa telefona. Ako sajt nije brz i lak na mobilnom, gubite vecinu potencijalnih klijenata.
+6. **Zanemarivanje mobilnog iskustva.** Više od 80% pretrage za salone dolazi sa telefona. Ako sajt nije brz i lak na mobilnom, gubite većinu potencijalnih klijenata.
 
 ## FAQ: SEO za frizerske salone
 
 **Koliko košta SEO za frizerski salon mesečno?**
-Osnovno: 200-400e. Srednje: 400-900e. Agresivni rast: 900-1.800e+. Zavisi od grada i koliko usluga zelite da pokrijete.
+Osnovno: 200-400e. Srednje: 400-900e. Agresivni rast: 900-1.800e+. Zavisi od grada i koliko usluga želite da pokrijete.
 
 **Da li mi treba sajt ako imam dobar Instagram?**
 Da. Instagram ne rangira za "frizerski salon [grad]" u Google pretrazi. Ljudi koji aktivno traže uslugu koriste Google, a ne Instagram hashtag pretragu.
 
 **Koliko recenzija mi treba za lokalni paket?**
-Nema magičnog broja, ali cilj je imati više od najjačeg konkurenta u vasem kraju. Za vecinu gradova u Srbiji, 80-150 recenzija sa ocenom iznad 4.5 je solidan cilj.
+Nema magičnog broja, ali cilj je imati više od najjačeg konkurenta u vašem kraju. Za većinu gradova u Srbiji, 80-150 recenzija sa ocenom iznad 4.5 je solidan cilj.
 
 **Mogu li da radim SEO sam/sama?**
-Google Business profil i bazicni sadržaj mozete raditi sami. Tehnicku optimizaciju, schema markup, analizu konkurencije i naprednu strategiju bolje prepustiti nekome ko se time bavi.
+Google Business profil i bazični sadržaj možete raditi sami. Tehničku optimizaciju, schema markup, analizu konkurencije i naprednu strategiju bolje prepustiti nekome ko se time bavi.
 
-**Koliko brzo cu videti rezultate?**
-Prve poboljsanja u lokalnom paketu za manje konkurentne terme: 4-6 nedelja. Stabilne pozicije za konkurentne upite: 4-6 meseci.
+**Koliko brzo ću videti rezultate?**
+Prva poboljšanja u lokalnom paketu za manje konkurentne termine: 4-6 nedelja. Stabilne pozicije za konkurentne upite: 4-6 meseci.
 
 ---
 
-SEO za frizerske salone u Srbiji 2026 je investicija koja se brže isplati nego sto većina vlasnika salona misli, ali samo ako se radi sistemski, ne ad hoc.
-Ako zelite da proverite stanje vaseg sajta i lokalnog SEO-a, javite nam se za [besplatnu SEO analizu](/kontakt). Pogledajte i kompletnu ponudu za [marketing za frizerske salone](/marketing-za-frizerske-salone) i sve opcije za [digitalnu marketing podrsku](/digitalni-marketing).
+SEO za frizerske salone u Srbiji 2026 je investicija koja se brže isplati nego što većina vlasnika salona misli, ali samo ako se radi sistemski, ne ad hoc.
+Ako želite da proverite stanje vašeg sajta i lokalnog SEO-a, javite nam se za [besplatnu SEO analizu](/kontakt). Pogledajte i kompletnu ponudu za [marketing za frizerske salone](/marketing-za-frizerske-salone) i sve opcije za [digitalnu marketinšku podršku](/digitalni-marketing).
 `,
   },
   {
@@ -28348,7 +28298,7 @@ Ako zelite da proverite stanje vaseg sajta i lokalnog SEO-a, javite nam se za [b
 
 Ako tražite upit **seo za kozmetički salon cena**, evo realnih raspona na srpskom tržištu u 2026:
 
-- **Osnovni lokalni SEO (Google Business, NAP, bazicni on-page):** 200e-450e mesečno.
+- **Osnovni lokalni SEO (Google Business, NAP, bazični on-page):** 200e-450e mesečno.
 - **Srednji model (lokal + content + optimizacija stranica usluga):** 450e-1.000e mesečno.
 - **Agresivniji rast ili više lokacija:** 1.000e-2.000e+ mesečno.
 
@@ -28363,105 +28313,105 @@ Kozmetički salon nije običan lokalni biznis kada je SEO u pitanju. Postoje spe
 
 2. **Lokalni intent dominira skoro potpuno.** "Kozmetički salon Novi Sad", "manikir centar Beograd" ili "depilacija blizu mene" su upiti gde Google mapa rešava 70-80% odluka. Ako niste u lokalnom paketu, praktično ne postojite.
 
-3. **Različite usluge imaju razlicitu nameru.** Neko ko traži "hijaluron cena" je u fazi istraživanja i poredi opcije. Neko ko traži "kozmetički salon Zvezdara" želi da zakaže danas. SEO strategija mora da pokrije obe namere.
+3. **Različite usluge imaju različitu nameru.** Neko ko traži "hijaluron cena" je u fazi istraživanja i poredi opcije. Neko ko traži "kozmetički salon Zvezdara" želi da zakaže danas. SEO strategija mora da pokrije obe namere.
 
-4. **Recenzije su direktan ranking signal.** Google koristi broj, kvalitet i svezu recenzija za rangiranje u lokalnom paketu. Salon sa 150 recenzija i ocenom 4.7 ce uvek rangirati iznad salona sa 15 recenzija i ocenom 5.0.
+4. **Recenzije su direktan ranking signal.** Google koristi broj, kvalitet i svežinu recenzija za rangiranje u lokalnom paketu. Salon sa 150 recenzija i ocenom 4.7 će uvek rangirati iznad salona sa 15 recenzija i ocenom 5.0.
 
 5. **Sezonalnost utiče na pretrage.** Leto donosi porast za depilaciju i pedikirne, zima za tretmane lica, praznici za svadbene i maturske pakete. SEO kalendar mora da prati ove talase.
 
-## Sta ulazi u cenu SEO-a za kozmetički salon
+## Šta ulazi u cenu SEO-a za kozmetički salon
 
 ### 1) Google Business optimizacija
 
 Ovo je temelj lokalnog SEO-a za svaki salon. Profil mora imati:
 
-- Tacne kategorije (ne samo "kozmetički salon" nego i "salon za nokte", "salon za depilaciju" itd.)
+- Tačne kategorije (ne samo "kozmetički salon" nego i "salon za nokte", "salon za depilaciju" itd.)
 - Kompletno radno vreme, uključujući praznike
 - Profesionalne fotografije rada, enterijera i tima
 - Usluge sa cenama i opisima direktno u profilu
 - Redovni Google Posts (nova usluga, sezonska ponuda, before-after)
 
-Salon koji aktivno održava Google Business profil dobija 2-3x više poziva i zakazivanja od salona sa zapustenim profilom. Ovo je besplatno, ali zahteva konzistentnost.
+Salon koji aktivno održava Google Business profil dobija 2-3x više poziva i zakazivanja od salona sa zapuštenim profilom. Ovo je besplatno, ali zahteva konzistentnost.
 
 ### 2) Lokalni SEO sadržaj
 
-Svaka usluga zasluzuje svoju stranicu optimizovanu za grad i naselje:
+Svaka usluga zaslužuje svoju stranicu optimizovanu za grad i naselje:
 
-- "Trajni lak Novi Beograd" ne sme da vodi na istu stranicu kao "hijaluron Vracar"
+- "Trajni lak Novi Beograd" ne sme da vodi na istu stranicu kao "hijaluron Vračar"
 - Svaka stranica mora imati jedinstveni sadržaj, ne copy-paste sa promenjenim imenom grada
-- Meta naslovi i opisi moraju sadrzati lokaciju i uslugu
-- Schema markup (LocalBusiness, Service) pomaže Google-u da razume sta nudite i gde
+- Meta naslovi i opisi moraju sadržati lokaciju i uslugu
+- Schema markup (LocalBusiness, Service) pomaže Google-u da razume šta nudite i gde
 
 ### 3) On-page optimizacija sajta
 
-Sajt salona mora biti tehicki ispravan:
+Sajt salona mora biti tehnički ispravan:
 
-- **Mobilna brzina je kriticna.** 85-90% pretraživanja za kozmetičke salone dolazi sa telefona. Ako sajt nema ispod 3 sekunde učitavanja, gubite ljude.
-- **Jasna hijerarhija usluga.** Svaka kategorija tretmana (nokti, lice, telo, depilacija) sa podstranicama za pojedinacne usluge.
+- **Mobilna brzina je kritična.** 85-90% pretraživanja za kozmetičke salone dolazi sa telefona. Ako sajt nema ispod 3 sekunde učitavanja, gubite ljude.
+- **Jasna hijerarhija usluga.** Svaka kategorija tretmana (nokti, lice, telo, depilacija) sa podstranicama za pojedinačne usluge.
 - **CTA iznad prevoja.** Dugme za zakazivanje mora biti vidljivo bez skrolovanja na mobilnom.
-- **Alt tagovi na svim slikama.** "Before-after hijaluron usne Beograd" nije samo pristupacnost, nego i SEO signal.
+- **Alt tagovi na svim slikama.** "Before-after hijaluron usne Beograd" nije samo pristupačnost, nego i SEO signal.
 
 ### 4) Content marketing za kozmetičke salone
 
 Blog ne mora biti ogroman, ali mora biti koristan:
 
-- Odgovori na pitanja koja klijenti zapravo postavljaju ("koliko traje trajni lak", "da li boli hijaluron", "kako odrzati gel nokte")
-- Sezonski vodici ("priprema koze za leto", "svadbeni beauty plan")
-- Poredenja tretmana ("laser vs IPL depilacija")
+- Odgovori na pitanja koja klijenti zapravo postavljaju ("koliko traje trajni lak", "da li boli hijaluron", "kako održati gel nokte")
+- Sezonski vodiči ("priprema kože za leto", "svadbeni beauty plan")
+- Poređenja tretmana ("laser vs IPL depilacija")
 
 Svaki blog post mora imati interne linkove ka relevantnoj usluzi i CTA za zakazivanje. Blog bez konverzionog puta je samo trošak.
-Za više o tome kako content strategija utiče na SEO, pogledajte [content marketing vodic](/blog/content-marketing-dugorocna-investicija).
+Za više o tome kako content strategija utiče na SEO, pogledajte [content marketing vodič](/blog/content-marketing-dugorocna-investicija).
 
 ## Koliko traje da se vide rezultati
 
-Realan tajmlajn za kozmetički salon koji krece od nule:
+Realan tajmlajn za kozmetički salon koji kreće od nule:
 
-| Period | Sta se desava |
+| Period | Šta se dešava |
 |--------|---------------|
-| **Mesec 1-2** | Tehnička optimizacija, Google Business, bazicni on-page. Prvo pojavljivanje u mapi za manje konkurentne upite. |
-| **Mesec 3-4** | Stranice usluga pocinju da rangiraju. Rast organskih poseta 30-50%. Prve zakazane termine iz pretrage. |
-| **Mesec 5-6** | Stabilno prisustvo u lokalnom paketu za 5-10 ključnih upita. Content marketing pocinje da donosi long-tail saobracaj. |
-| **Mesec 7-12** | Dominacija u lokalnom paketu za vecinu usluga u vasem gradu. SEO postaje stabilan izvor 15-30+ novih termina mesečno. |
+| **Mesec 1-2** | Tehnička optimizacija, Google Business, bazični on-page. Prvo pojavljivanje u mapi za manje konkurentne upite. |
+| **Mesec 3-4** | Stranice usluga počinju da rangiraju. Rast organskih poseta 30-50%. Prve zakazane termine iz pretrage. |
+| **Mesec 5-6** | Stabilno prisustvo u lokalnom paketu za 5-10 ključnih upita. Content marketing počinje da donosi long-tail saobraćaj. |
+| **Mesec 7-12** | Dominacija u lokalnom paketu za većinu usluga u vašem gradu. SEO postaje stabilan izvor 15-30+ novih termina mesečno. |
 
-Ako neko obecava "prvu stranu za mesec dana" za kozmetički salon u Beogradu, to je ili laganje ili targetiranje upita koje niko ne pretražuje.
-Detaljnije o tajmlajnu SEO rezultata procitajte u [koliko traje SEO da donese rezultate](/blog/koliko-traje-seo-da-donese-rezultate-u-srbiji).
+Ako neko obećava "prvu stranu za mesec dana" za kozmetički salon u Beogradu, to je ili laganje ili targetiranje upita koje niko ne pretražuje.
+Detaljnije o tajmlajnu SEO rezultata pročitajte u [koliko traje SEO da donese rezultate](/blog/koliko-traje-seo-da-donese-rezultate-u-srbiji).
 
 ## Kako meriti ROI SEO-a za salon
 
-Pozicija na Google-u nije KPI. Evo sta jeste:
+Pozicija na Google-u nije KPI. Evo šta jeste:
 
-- **Broj zakazanih termina iz organske pretrage.** Ovo je jedini metrik koji zapravo znači nesto.
+- **Broj zakazanih termina iz organske pretrage.** Ovo je jedini metrik koji zapravo znači nešto.
 - **Cena po zakazanom terminu.** Ako plaćate SEO 500e mesečno i dobijate 30 novih termina, to je ~17e po terminu. Uporedite sa cenom termina iz Instagram reklama ili Google Ads-a.
-- **Prosecna vrednost klijenta.** Klijentkinja koja dodje na manikir i vrati se na hijaluron i tretman lica vredi 10x više od jednokratnog tretmana.
-- **Organski saobracaj po usluzi.** Koje stranice privlace ljude i koje konvertuju.
+- **Prosečna vrednost klijenta.** Klijentkinja koja dođe na manikir i vrati se na hijaluron i tretman lica vredi 10x više od jednokratnog tretmana.
+- **Organski saobraćaj po usluzi.** Koje stranice privlače ljude i koje konvertuju.
 - **Vidljivost u Google Maps.** Koliko često se pojavljujete u lokalnom paketu za relevantne upite.
 
-Setup za pracenje: Google Analytics 4 + Google Search Console + pravilno podeseni ciljevi (klik na "zakazi", poziv, popunjena forma). Bez ovoga, ne mozete znati da li SEO radi ili ne.
+Setup za praćenje: Google Analytics 4 + Google Search Console + pravilno podešeni ciljevi (klik na "zakazi", poziv, popunjena forma). Bez ovoga, ne možete znati da li SEO radi ili ne.
 
 ## SEO vs Instagram reklame vs Google Ads za kozmetičke salone
 
 | Kriterijum | SEO | [Instagram reklame](/blog/instagram-reklame-za-kozmeticke-salone-cena-termina-srbija-2026) | [Google Ads](/blog/google-ads-za-kozmeticki-salon-cena-termina-srbija-2026) |
 |------------|-----|---------------------|------------|
 | **Brzina rezultata** | 3-6 meseci | Odmah | Odmah |
-| **Cena termina (dugorocno)** | Najniža | Srednja | Visa |
-| **Skalabilnost** | Ogranicena lokacijom | Visoka | Visoka |
-| **Odrzivost** | Raste vremenom | Staje kad stane budzet | Staje kad stane budzet |
+| **Cena termina (dugoročno)** | Najniža | Srednja | Viša |
+| **Skalabilnost** | Ograničena lokacijom | Visoka | Visoka |
+| **Održivost** | Raste vremenom | Staje kad stane budžet | Staje kad stane budžet |
 | **Tip namere** | Jaka (aktivna pretraga) | Slaba (pasivno otkrivanje) | Jaka (aktivna pretraga) |
 | **Idealno za** | Stabilni tok termina | Branding + sezonske akcije | Brzo punjenje rasporeda |
 
 Najbolji rezultat daje kombinacija. SEO gradi bazu, [Google Ads](/google-reklame-cena) puni praznine dok SEO sazreva, a [Instagram](/instagram-reklame-cena) održava top-of-mind prisutnost.
 
-## Najčešće greske koje kozmetički saloni prave sa SEO-om
+## Najčešće greške koje kozmetički saloni prave sa SEO-om
 
-1. **Sve usluge na jednoj stranici.** "Nasi tretmani" sa listom od 40 usluga neće rangirati ni za jednu. Svaka grupa usluga zasluzuje svoju stranicu.
+1. **Sve usluge na jednoj stranici.** "Naši tretmani" sa listom od 40 usluga neće rangirati ni za jednu. Svaka grupa usluga zaslužuje svoju stranicu.
 
-2. **PDF cenovnik umesto HTML-a.** Google ne može da indeksira PDF na isti nacin. Cene moraju biti na sajtu kao tekst.
+2. **PDF cenovnik umesto HTML-a.** Google ne može da indeksira PDF na isti način. Cene moraju biti na sajtu kao tekst.
 
-3. **Zanemareni Google Business.** Profil napravljen pre 3 godine sa jednom fotografijom i netacnim radnim vremenom. To je prvi utisak za vecinu potencijalnih klijenata.
+3. **Zanemareni Google Business.** Profil napravljen pre 3 godine sa jednom fotografijom i netačnim radnim vremenom. To je prvi utisak za većinu potencijalnih klijenata.
 
-4. **Kopiranje teksta sa drugih sajtova.** Duplirani sadržaj ne samo da ne pomaže, nego aktivno steti rangiranju.
+4. **Kopiranje teksta sa drugih sajtova.** Duplirani sadržaj ne samo da ne pomaže, nego aktivno šteti rangiranju.
 
-5. **Fokus na vanity metriku.** "Imamo 5000 pratilaca na Instagramu" ne znači nista ako kalendar nije pun.
+5. **Fokus na vanity metriku.** "Imamo 5000 pratilaca na Instagramu" ne znači ništa ako kalendar nije pun.
 
 6. **Ignorisanje recenzija.** Ne tražite zadovoljne klijente da ostave recenziju. Svaka nova recenzija je mini SEO boost.
 
@@ -28471,21 +28421,21 @@ Najbolji rezultat daje kombinacija. SEO gradi bazu, [Google Ads](/google-reklame
 Osnovno: 200-450e. Srednje: 450-1.000e. Agresivni rast: 1.000-2.000e+. Zavisi od grada i konkurencije.
 
 **Da li mi treba SEO ako imam dobar Instagram?**
-Da. Instagram algoritam odlučuje ko vidi vas sadržaj. Google prikazuje vas salon ljudima koji aktivno traže uslugu. To su razliciti kanali sa različitim namerama.
+Da. Instagram algoritam odlučuje ko vidi vas sadržaj. Google prikazuje vaš salon ljudima koji aktivno traže uslugu. To su različiti kanali sa različitim namerama.
 
-**Koliko novih termina mogu da ocekujem od SEO-a?**
-Za salon u gradu srednje velicine, nakon 6 meseci rada: 15-30 novih termina mesečno iz organske pretrage. U Beogradu ili Novom Sadu može biti i više, ali i konkurencija je jaca.
+**Koliko novih termina mogu da očekujem od SEO-a?**
+Za salon u gradu srednje veličine, nakon 6 meseci rada: 15-30 novih termina mesečno iz organske pretrage. U Beogradu ili Novom Sadu može biti i više, ali i konkurencija je jača.
 
 **Da li mi treba blog za kozmetički salon?**
 Ne morate pisati svaki dan, ali 2-4 kvalitetna teksta mesečno koja odgovaraju na pitanja klijenata pomažu i za SEO i za konverzije.
 
 **Mogu li da radim SEO sam/sama?**
-Google Business optimizaciju i osnovni content mozete raditi sami. Tehnicku optimizaciju sajta, schema markup i naprednu strategiju bolje je prepustiti nekome ko se time bavi.
+Google Business optimizaciju i osnovni content možete raditi sami. Tehničku optimizaciju sajta, schema markup i naprednu strategiju bolje je prepustiti nekome ko se time bavi.
 
 ---
 
 SEO za kozmetičke salone u Srbiji 2026 je investicija koja se isplati jer donosi klijente sa jakom namerom, ali zahteva strpljenje i konzistentnost.
-Ako zelite da proverite stanje vaseg sajta i lokalnog SEO-a, javite nam se za [besplatnu SEO analizu](/kontakt). Pogledajte i kompletnu ponudu za [marketing za kozmetičke salone](/marketing-za-kozmeticke-salone) i opcije za [digitalnu marketing podrsku](/digitalni-marketing).
+Ako želite da proverite stanje vašeg sajta i lokalnog SEO-a, javite nam se za [besplatnu SEO analizu](/kontakt). Pogledajte i kompletnu ponudu za [marketing za kozmetičke salone](/marketing-za-kozmeticke-salone) i opcije za [digitalnu marketinšku podršku](/digitalni-marketing).
 `,
   },
   {
@@ -28673,7 +28623,7 @@ Jednostavan okvir:
 
 Ako je cena po upisanom clanu (ne po kliku, ne po prijavi, nego po stvarnom upisu) ispod 35e, kampanja je profitabilna. Ako je iznad toga duze od mesec dana, treba korekcija ponude, kreative ili follow-up procesa.
 
-## Zakljucak
+## Zaključak
 
 Instagram reklame za teretane u Srbiji 2026 mogu da budu jedan od najisplativijih kanala za novi upis kada su kreativa autenticna, ponuda jasna i follow-up brz.
 
@@ -28710,7 +28660,7 @@ Tri razloga zašto računovođe ne treba da ignorisu Instagram:
 
 3. **Retargeting hvata indecizirane.** Neko ko je posetio vašu stranicu ali nije poslao upit može da vidi vaš oglas na Instagramu naredne nedelje i tek tada se javi. Ovo je posebno vazno za računovođe jer ljudi obično ne biraju knjigovođu na prvu.
 
-Za poredjenje sa Search kanalom pogledaj [Google Ads za knjigovodstvene agencije](/blog/google-ads-za-knjigovodstvene-agencije-cena-leada-srbija-2026).
+Za poređenje sa Search kanalom pogledaj [Google Ads za knjigovodstvene agencije](/blog/google-ads-za-knjigovodstvene-agencije-cena-leada-srbija-2026).
 
 ## Koliko realno kosta novi klijent preko Instagrama
 
@@ -28995,73 +28945,73 @@ Ako tražite konkretan raspon za upit **seo za stomatologe cena**, evo kako naj�
 - **Srednji model (lokalni SEO + content + on-page + link building):** 600e-1.500e mesečno.
 - **Premium (više lokacija, agresivan rast, specijalizovane usluge):** 1.500e-3.000e+ mesečno.
 
-Ordinacije koje nude premium usluge (implanti, estetska stomatologija, ortodoncija) obicno investiraju na visem kraju raspona jer je vrednost jednog pacijenta nekoliko hiljada evra. Za širi kontekst cena pogledajte i [SEO optimizacija cena](/seo-optimizacija-cena).
+Ordinacije koje nude premium usluge (implanti, estetska stomatologija, ortodoncija) obično investiraju na višem kraju raspona jer je vrednost jednog pacijenta nekoliko hiljada evra. Za širi kontekst cena pogledajte i [SEO optimizacija cena](/seo-optimizacija-cena).
 
 ## Zašto je SEO za stomatologe drugačiji od SEO-a za druge biznise
 
 Stomatološka praksa ima specifičnosti koje menjaju pravila igre:
 
-1. **Lokalni intent je dominantan.** "Zubar blizu mene", "stomatolog [grad]", "implanti cena [grad]" — skoro svaka relevantna pretraga uključuje geografsku komponentu. Ako niste u lokalnom paketu na Google Maps-u, gubite vecinu potencijalnih pacijenata.
+1. **Lokalni intent je dominantan.** "Zubar blizu mene", "stomatolog [grad]", "implanti cena [grad]" — skoro svaka relevantna pretraga uključuje geografsku komponentu. Ako niste u lokalnom paketu na Google Maps-u, gubite većinu potencijalnih pacijenata.
 
-2. **Visoka vrednost pacijenta.** Prosecni pacijent donosi 200e-500e godisnje za redovne preglede. Pacijent koji dodje na implante donosi 2.000e-10.000e jednokratno. Jedan dobro rangiran upit može da vrati investiciju za celu godinu SEO-a.
+2. **Visoka vrednost pacijenta.** Prosečni pacijent donosi 200e-500e godišnje za redovne preglede. Pacijent koji dođe na implante donosi 2.000e-10.000e jednokratno. Jedan dobro rangiran upit može da vrati investiciju za celu godinu SEO-a.
 
 3. **Poverenje je presudno.** Ljudi biraju stomatologa pažljivo. Recenzije, fotografije ordinacije, CV lekara — sve to utiče na odluku. SEO koji ne gradi poverenje istovremeno ne donosi rezultat.
 
-4. **Konkurencija raste, ali je još uvek slaba tehicki.** Vecina ordinacija u Srbiji ima sajt napravljen pre 5 godina, bez mobilne optimizacije, bez schema markup-a, bez strukturiranog content-a. To znači da postoji prozor za brzo napredovanje.
+4. **Konkurencija raste, ali je još uvek slaba tehnički.** Većina ordinacija u Srbiji ima sajt napravljen pre 5 godina, bez mobilne optimizacije, bez schema markup-a, bez strukturiranog content-a. To znači da postoji prozor za brzo napredovanje.
 
-5. **Medicinski sadržaj ima višu lestvicu.** Google primenjuje stroza EEAT pravila na medicinski sadržaj. Autorstvo (ime doktora, specijalizacija, licence) mora biti vidljivo i strukturirano.
+5. **Medicinski sadržaj ima višu lestvicu.** Google primenjuje stroža EEAT pravila na medicinski sadržaj. Autorstvo (ime doktora, specijalizacija, licence) mora biti vidljivo i strukturirano.
 
-## Sta ulazi u cenu SEO-a za stomatolosku ordinaciju
+## Šta ulazi u cenu SEO-a za stomatološku ordinaciju
 
 ### 1) Google Business optimizacija
 
 Temelj lokalnog SEO-a za svaku ordinaciju. Profil mora sadržati:
-- Tacne kategorije (ne samo "stomatolog" nego i "ortodont", "oralni hirurg", "estetska stomatologija" ako nudite te usluge).
+- Tačne kategorije (ne samo "stomatolog" nego i "ortodont", "oralni hirurg", "estetska stomatologija" ako nudite te usluge).
 - Kompletno radno vreme, uključujući praznične dane.
 - Profesionalne fotografije ordinacije, opreme i tima.
 - Redovni Google Posts (nova usluga, sezonska akcija, edukativni post).
 - Aktivno upravljanje recenzijama — odgovor na svaku, pozitivnu i negativnu.
 
-Za detaljan vodic pogledajte i [Google Business profil za stomatologe](/blog/google-business-profil-za-stomatologe-srbija-2026).
+Za detaljan vodič pogledajte i [Google Business profil za stomatologe](/blog/google-business-profil-za-stomatologe-srbija-2026).
 
 ### 2) Lokalni NAP i citati
 
-Ime ordinacije, adresa i telefon moraju biti identicni na sajtu, Google Business-u, Halo Oglasima, Zdravi Zivot direktorijumu, socijalnim mrežama i svim medicinskim portalima. Nedoslednost zbunjuje Google i gura vas niže u lokalnom paketu.
+Ime ordinacije, adresa i telefon moraju biti identični na sajtu, Google Business-u, Halo Oglasima, Zdravi Život direktorijumu, socijalnim mrežama i svim medicinskim portalima. Nedoslednost zbunjuje Google i gura vas niže u lokalnom paketu.
 
 ### 3) On-page SEO sajta
 
-Svaka usluga zasluzuje svoju stranicu sa jasnim naslovom: "Implanti zuba cena — Ordinacija Dr. Petrovic Beograd" umesto "Nase usluge". Heading hijerarhija, meta opisi sa lokacijom, alt tekst na svim slikama.
+Svaka usluga zaslužuje svoju stranicu sa jasnim naslovom: "Implanti zuba cena — Ordinacija Dr. Petrović Beograd" umesto "Naše usluge". Heading hijerarhija, meta opisi sa lokacijom, alt tekst na svim slikama.
 
 Stranica za svaku specijalizaciju (beljenje, plombe, krunice, proteze, ortodoncija, dečja stomatologija) sa realnim informacijama o procesu, trajanju i okvirnim cenama.
 
-### 4) Content cluster za stomatoloske pretrage
+### 4) Content cluster za stomatološke pretrage
 
-Blog postovi koji hvate realne upite pacijenata:
+Blog postovi koji hvataju realne upite pacijenata:
 - "koliko koštaju implanti zuba u [grad] 2026"
 - "beljenje zuba cena i iskustva"
 - "stomatolog za decu [grad] preporuka"
-- "sta je bolje krunica ili most"
+- "šta je bolje krunica ili most"
 - "koliko traje ortodontski aparat kod odraslih"
 
 Svaki tekst odgovara na konkretno pitanje, gradi autoritet ordinacije i hvata long-tail pretrage koje konkurencija ne cilja.
 
 ### 5) Schema markup
 
-LocalBusiness, MedicalBusiness, Dentist schema, FAQ, recenzije, radno vreme. Ovo pomaže Google-u da prikaze bogat rezultat u pretrazi — zvezdice, radno vreme, lokacija, cenovni rang.
+LocalBusiness, MedicalBusiness, Dentist schema, FAQ, recenzije, radno vreme. Ovo pomaže Google-u da prikaže bogat rezultat u pretrazi — zvezdice, radno vreme, lokacija, cenovni rang.
 
 MedicalWebPage oznake na stranicama sa medicinskim sadržajem signaliziraju Google-u da je sadržaj od medicinskog autoriteta.
 
 ### 6) EEAT signali (Experience, Expertise, Authority, Trust)
 
-Za stomatoloske sajtove ovo je obavezno:
-- Autorska stranica za svakog doktora (bio, specijalizacija, fakultet, licence, clanstva u strukovnim udruzenjima).
+Za stomatološke sajtove ovo je obavezno:
+- Autorska stranica za svakog doktora (bio, specijalizacija, fakultet, licence, članstva u strukovnim udruženjima).
 - Svaki blog post potpisan imenom doktora sa linkom na autorsku stranicu.
 - Sertifikati i licence vidljivi na sajtu.
 - Citiranje medicinskih izvora gde je relevantno.
 
-## Koliko traje da SEO za stomatologa pocne da daje rezultat
+## Koliko traje da SEO za stomatologa počne da daje rezultat
 
-Realna ocekivanja za srpsko tržište:
+Realna očekivanja za srpsko tržište:
 
 - **Prvih 30 dana:** tehnička stabilizacija sajta, Google Business optimizacija, NAP audit. Rezultat: pojava u lokalnom paketu za pretrage niskog intenziteta.
 
@@ -29071,59 +29021,59 @@ Realna ocekivanja za srpsko tržište:
 
 - **6-12 meseci:** dominacija lokalnog paketa za širok spektar stomatoloških pretraga. Smanjenje zavisnosti od plaćenih oglasa.
 
-Specificnost stomatologije: Google treba više vremena da izgradi poverenje u medicinski sadržaj. EEAT signali ubrzavaju ovaj proces, ali neće biti preko noci.
+Specificnost stomatologije: Google treba više vremena da izgradi poverenje u medicinski sadržaj. EEAT signali ubrzavaju ovaj proces, ali neće biti preko noći.
 
-## KPI koji imaju smisla za stomatoloski SEO
+## KPI koji imaju smisla za stomatološki SEO
 
 Pozicije su ulazni indikator, ali pratite konkretne poslovne metrike:
 
-- **Broj poziva sa Google Business profila** (koliko ljudi vas je pozvalo nakon sto vas je nasao na Google-u).
+- **Broj poziva sa Google Business profila** (koliko ljudi vas je pozvalo nakon što vas je našao na Google-u).
 - **Klikovi na rutu do ordinacije** (koliko ljudi traži uputstvo do vas).
 - **Zakazani termini preko sajta** (kontakt forma, online zakazivanje, chat).
-- **Novi pacijenti mesečno** (pitajte svakog novog pacijenta kako vas je nasao).
+- **Novi pacijenti mesečno** (pitajte svakog novog pacijenta kako vas je našao).
 - **Mesečni trend pregleda na Google Maps** (raste ili stagnira).
-- **CTR u pretrazi** (da li vas listing privlači klikove ili ga ljudi preskacu).
+- **CTR u pretrazi** (da li vas listing privlači klikove ili ga ljudi preskaču).
 
-Tek kada vidite konstantan mesečni rast zakazanih termina iz organskih izvora, mozete reci da SEO radi.
+Tek kada vidite konstantan mesečni rast zakazanih termina iz organskih izvora, možete reći da SEO radi.
 
-## Model budzeta koji stomatolozima obicno funkcionise
+## Model budžeta koji stomatolozima obično funkcioniše
 
 ### Mala ordinacija (1-2 stolice, jedan lekar)
 
 - **Mesec 1:** Google Business revizija + kompletna on-page optimizacija sajta + NAP audit.
 - **Mesec 2-3:** content cluster za 5-7 najvažnijih usluga (svaka usluga dobija stranicu sa cenom, procesom i FAQ-om) + interna linkovanja.
-- **Mesec 4+:** mesečno održavanje, 2-4 nova blog posta mesečno, upravljanje recenzijama, pracenje KPI.
-- **Budzet:** 300e-600e mesečno.
+- **Mesec 4+:** mesečno održavanje, 2-4 nova blog posta mesečno, upravljanje recenzijama, praćenje KPI.
+- **Budžet:** 300e-600e mesečno.
 
 ### Srednja ordinacija (3-5 stolica, specijalizovane usluge)
 
 - Sve iz malog paketa plus agresivniji content (blog, video sadržaj, case studies).
 - Stranice za svaku specijalizaciju sa detaljnim informacijama.
 - Lokalni link building (medicinski portali, lokalni direktorijumi, saradnja sa komplementarnim biznesima).
-- **Budzet:** 600e-1.500e mesečno.
+- **Budžet:** 600e-1.500e mesečno.
 
 ### Klinika (više lokacija ili premium pozicioniranje)
 
 - Multi-location SEO, svaka lokacija ima sopstveni Google Business profil i landing page.
 - Agresivan content marketing sa video sadržajem (before/after, procedure, edukacija).
 - PR i digitalni link building.
-- **Budzet:** 1.500e-3.000e+ mesečno.
+- **Budžet:** 1.500e-3.000e+ mesečno.
 
-## SEO vs. plaćeni kanali za stomatologe: poredjenje
+## SEO vs. plaćeni kanali za stomatologe: poređenje
 
 | Kriterijum | SEO | [Google Ads](/blog/google-ads-za-stomatologe-cena-leada-srbija-2026) | [Instagram](/blog/instagram-reklame-za-stomatologe-cena-termina-srbija-2026) |
 |---|---|---|---|
 | Vreme do rezultata | 3-6 meseci | Odmah | 2-4 nedelje |
 | Mesečni trošak | 300e-3.000e | 400e-2.000e (ad spend + fee) | 300e-1.500e (ad spend + fee) |
 | Kvalitet leadova | Visok (aktivna pretraga) | Visok (aktivna pretraga) | Srednji (generisani interes) |
-| Dugorocni efekat | Kumulativan | Prestaje kad prestanete da plaćate | Minimalan organski efekat |
+| Dugoročni efekat | Kumulativan | Prestaje kad prestanete da plaćate | Minimalan organski efekat |
 | Najbolje za | Stabilni rast | Brz dotok | Brending + estetske usluge |
 
-Idealna kombinacija: SEO gradi dugorocnu bazu, [Google Ads](/blog/google-ads-za-stomatologe-cena-leada-srbija-2026) daje brz dotok dok SEO sazreva, a [Instagram](/blog/instagram-reklame-za-stomatologe-cena-termina-srbija-2026) gradi vizuelni identitet i poverenje. Za [Facebook Ads pristup](/blog/facebook-reklame-za-stomatologe-cena-termina-srbija-2026) koji cilja okolinu ordinacije, pogledajte nas poseban vodic.
+Idealna kombinacija: SEO gradi dugoročnu bazu, [Google Ads](/blog/google-ads-za-stomatologe-cena-leada-srbija-2026) daje brz dotok dok SEO sazreva, a [Instagram](/blog/instagram-reklame-za-stomatologe-cena-termina-srbija-2026) gradi vizuelni identitet i poverenje. Za [Facebook Ads pristup](/blog/facebook-reklame-za-stomatologe-cena-termina-srbija-2026) koji cilja okolinu ordinacije, pogledajte nas poseban vodič.
 
-## Najčešće greske koje podizu troškove bez rezultata
+## Najčešće greške koje podižu troškove bez rezultata
 
-1. **Jedna stranica za sve usluge.** "Usluge" stranica sa listom od 20 stavki ne rangira ni za jednu. Svaka usluga zasluzuje svoju stranicu.
+1. **Jedna stranica za sve usluge.** "Usluge" stranica sa listom od 20 stavki ne rangira ni za jednu. Svaka usluga zaslužuje svoju stranicu.
 
 2. **Bez autorstva.** Blog postovi bez imena doktora, bez strukovnih kredencijala. Google neće tretirati to kao autoritativan medicinski sadržaj.
 
@@ -29131,81 +29081,81 @@ Idealna kombinacija: SEO gradi dugorocnu bazu, [Google Ads](/blog/google-ads-za-
 
 4. **Ignorisanje recenzija.** Neodgovorene recenzije, naročito negativne, signaliziraju i Google-u i pacijentima da vam nije stalo.
 
-5. **Sajt bez mobilne optimizacije.** Preko 70% stomatoloških pretraga dolazi sa mobilnih uređaja. Sajt koji se ne učitava brzo na telefonu gubi vecinu potencijalnih pacijenata.
+5. **Sajt bez mobilne optimizacije.** Preko 70% stomatoloških pretraga dolazi sa mobilnih uređaja. Sajt koji se ne učitava brzo na telefonu gubi većinu potencijalnih pacijenata.
 
 6. **PDF cenovnik umesto HTML stranice.** Google ne indeksira PDF-ove isto kao HTML. Stranica sa cenama u HTML formatu rangira daleko bolje.
 
-7. **SEO bez tracking-a.** Ako ne pratite odakle dolaze novi pacijenti, ne mozete znati da li SEO radi ili bacate novac.
+7. **SEO bez tracking-a.** Ako ne pratite odakle dolaze novi pacijenti, ne možete znati da li SEO radi ili bacate novac.
 
-## Kako da procenite da li je SEO ponuda za stomatolosku ordinaciju postena
+## Kako da procenite da li je SEO ponuda za stomatološku ordinaciju poštena
 
 Pre potpisivanja, pitajte potencijalnog partnera:
 
-- Da li je Google Business optimizacija ukljucena ili se naplacuje posebno?
-- Koliko content-a mesečno proizvodite i ko ga pise (da li ima medicinsku reviziju)?
+- Da li je Google Business optimizacija uključena ili se naplaćuje posebno?
+- Koliko content-a mesečno proizvodite i ko ga piše (da li ima medicinsku reviziju)?
 - Kako meri rezultat — pozicije ili zakazane termine?
 - Da li radite sa još nekim stomatologom u istom gradu (sukob interesa)?
 - Koji je minimalni period saradnje i zašto?
-- Da li ce se koristiti automatizovani sadržaj ili pise covek sa medicinskim nadzorom?
+- Da li će se koristiti automatizovani sadržaj ili piše čovek sa medicinskim nadzorom?
 
-Dobar partner bice transparentan po svim tackama i neće obecavati "prvu poziciju za 30 dana".
+Dobar partner biće transparentan po svim tačkama i neće obećavati "prvu poziciju za 30 dana".
 
-Za kompletnu sliku kako izgleda digitalni marketing za stomatolosku ordinaciju — od SEO-a preko plaćenih kampanja do upravljanja reputacijom — pogledajte nas vodic za [marketing za stomatologe](/marketing-za-stomatologe).
+Za kompletnu sliku kako izgleda digitalni marketing za stomatološku ordinaciju — od SEO-a preko plaćenih kampanja do upravljanja reputacijom — pogledajte naš vodič za [marketing za stomatologe](/marketing-za-stomatologe).
 
-## Zakljucak
+## Zaključak
 
-SEO za stomatologe u Srbiji 2026 ima izuzetan potencijal jer je konkurencija tehicki slaba, a vrednost pacijenta visoka i dugorocna. Ordinacija koja danas ulozi u strukturiran lokalni SEO sa kvalitetnim sadržajem i EEAT signalima zauzima poziciju koja ce biti sve teza za kopiranje kako tržište sazreva.
+SEO za stomatologe u Srbiji 2026 ima izuzetan potencijal jer je konkurencija tehnički slaba, a vrednost pacijenta visoka i dugoročna. Ordinacija koja danas uloži u strukturiran lokalni SEO sa kvalitetnim sadržajem i EEAT signalima zauzima poziciju koja će biti sve teža za kopiranje kako tržište sazreva.
 
-Kljuc je pristup koji spaja tehnicku optimizaciju sa realnim medicinskim autoritetom — ne SEO koji zvuci kao da ga je pisao robot, nego sadržaj koji bi i pacijent i doktor mogli da pročitaju i kazu "ovo ima smisla".
+Ključ je pristup koji spaja tehničku optimizaciju sa realnim medicinskim autoritetom — ne SEO koji zvuči kao da ga je pisao robot, nego sadržaj koji bi i pacijent i doktor mogli da pročitaju i kažu "ovo ima smisla".
 
-Ako zelite brzu analizu vaseg sajta i Google Business profila sa 3 konkretna koraka za više zakazanih termina, javite se preko [kontakt forme](/kontakt).
+Ako želite brzu analizu vašeg sajta i Google Business profila sa 3 konkretna koraka za više zakazanih termina, javite se preko [kontakt forme](/kontakt).
 `,
   },
   {
     slug: 'google-ads-za-kozmeticki-salon-cena-termina-srbija-2026',
     title: 'Google Ads za kozmetičke salone u Srbiji 2026: cena termina, budžet i strategija',
-    excerpt: 'Koliko koštaju Google reklame za kozmetičke salone u Srbiji 2026, koji budžet ima smisla i kako da dovedete klijente koji vec traže vaš tip tretmana.',
+    excerpt: 'Koliko koštaju Google reklame za kozmetičke salone u Srbiji 2026, koji budžet ima smisla i kako da dovedete klijente koji već traže vaš tip tretmana.',
     date: '2026-03-17',
     category: 'Marketing',
     readTime: 9,
     content: `
-## Google Ads za kozmeticke salone: kratak odgovor
+## Google Ads za kozmetičke salone: kratak odgovor
 
-Ako trazite upit **google ads za kozmeticki salon cena**, evo prakticnog okvira za srpsko trziste 2026:
+Ako tražite upit **google ads za kozmetički salon cena**, evo praktičnog okvira za srpsko tržište 2026:
 
 - **CPC (cena po kliku):** 0,07e - 0,45e za lokalne search termine
 - **Cena zakazanog termina:** 4e - 18e zavisno od tretmana i lokacije
-- **Minimalni mesecni budzet za pouzdan test:** 150e - 350e
-- **Break-even:** najcesce posle 2-4 nedelje kad se kampanja optimizuje
+- **Minimalni mesečni budžet za pouzdan test:** 150e - 350e
+- **Break-even:** najčešće posle 2-4 nedelje kad se kampanja optimizuje
 
-Za siri kontekst o cenama digitalnog oglasavanja, pogledajte [Google reklame cena](/google-reklame-cena).
+Za širi kontekst o cenama digitalnog oglašavanja, pogledajte [Google reklame cena](/google-reklame-cena).
 
-## Zasto Google Ads radi za kozmeticke salone
+## Zašto Google Ads radi za kozmetičke salone
 
-Instagram gradi zelju i vizuelnu privlacnost. Google hvata ljude koji **vec traze resenje** za konkretan problem.
+Instagram gradi zelju i vizuelnu privlacnost. Google hvata ljude koji **već traže resenje** za konkretan problem.
 
-Kada neko kuca "kozmeticki salon tretman lica Beograd" ili "depilacija cena Novi Sad", ta osoba ne razgleda inspiraciju. Ona trazi gde da ode i završi posao. Ako se vaš salon ne pojavljuje, termin ide konkurenciji.
+Kada neko kuca "kozmeticki salon tretman lica Beograd" ili "depilacija cena Novi Sad", ta osoba ne razgleda inspiraciju. Ona traži gde da ode i završi posao. Ako se vaš salon ne pojavljuje, termin ide konkurenciji.
 
 Klik sa Google pretrage konvertuje 3 do 5 puta bolje nego nasumicni klik sa drustvenih mreza. Razlog je jednostavan: intent je jaci.
 
-Za celokupnu strategiju i poredjenje kanala, pogledajte nas vodic za [marketing za kozmeticke salone](/marketing-za-kozmeticke-salone).
+Za celokupnu strategiju i poređenje kanala, pogledajte naš vodič za [marketing za kozmetičke salone](/marketing-za-kozmeticke-salone).
 
 ## Koje kampanje imaju smisla za kozmeticki salon
 
-Ne treba vam 10 kampanja. Treba vam 2-4 koje pokrivaju razlicite namere i vrednosti usluga:
+Ne treba vam 10 kampanja. Treba vam 2-4 koje pokrivaju različite namere i vrednosti usluga:
 
 ### 1. Search kampanja za lokalne upite
 
-Ovo je osnova. Hvata ljude koji traze salon u svom kraju, danas ili ove nedelje.
+Ovo je osnova. Hvata ljude koji traže salon u svom kraju, danas ili ove nedelje.
 
-Kljucne reci koje najcesce donose termine:
+Ključne reči koje najčešće donose termine:
 - "kozmeticki salon [grad/naselje]"
 - "depilacija [grad] cena"
 - "tretman lica [grad]"
-- "ciscenje lica [grad]"
+- "čišćenje lica [grad]"
 - "manikir pedikir [grad]"
 
-Negativne kljucne reci su obavezne. Iskljucite "kurs", "skola", "posao", "zaposlenje", "besplatno" — ovi upiti trose budzet bez ijednog zakazivanja.
+Negativne ključne reči su obavezne. Isključite "kurs", "skola", "posao", "zaposlenje", "besplatno" — ovi upiti trose budžet bez ijednog zakazivanja.
 
 ### 2. Kampanja za premium tretmane
 
@@ -29222,17 +29172,17 @@ CPC je ovde visi (0,25e - 0,65e), ali jedan premium termin vredi 80e - 300e+. RO
 
 Pred maturske, vencanja, praznike, leto. Ove kampanje palite 4-6 nedelja pre sezone i gasite kad prodje.
 
-Sezonski intent je jak i ljudi zakazu brzo. Konkurencija cesto kasni sa pripremom, pa rani start daje prednost.
+Sezonski intent je jak i ljudi zakazu brzo. Konkurencija često kasni sa pripremom, pa rani start daje prednost.
 
 ### 4. Remarketing
 
-Posetioci koji su vec bili na vašem sajtu ali nisu zakazali. Mali budzet (50e-100e/mesecno), visoka konverzija jer im je salon vec poznat.
+Posetioci koji su već bili na vašem sajtu ali nisu zakazali. Mali budžet (50e-100e/mesečno), visoka konverzija jer im je salon već poznat.
 
 ## Landing stranica: gde vecina salona gubi novac
 
-Google moze da dovede klikove, ali ako klik vodi na Instagram profil, homepage bez jasnog poziva na akciju ili stranicu koja se sporo ucitava, budzet je bacen.
+Google može da dovede klikove, ali ako klik vodi na Instagram profil, homepage bez jasnog poziva na akciju ili stranicu koja se sporo učitava, budžet je bačen.
 
-Sta landing stranica za kozmeticki salon mora da ima:
+Šta landing stranica za kozmeticki salon mora da ima:
 
 - **Dugme za zakazivanje ili poziv** iznad prevoja na mobilnom
 - **Fotografije vašeg prostora i rada**, ne stock slike
@@ -29241,23 +29191,23 @@ Sta landing stranica za kozmeticki salon mora da ima:
 - **Lokacija i radno vreme** odmah vidljivi
 - **Sertifikati i aparati** koje koristite (poverenje)
 
-Ako nemate sajt ili vaš trenutni sajt ne konvertuje, pogledajte [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena) za realan okvir troskova.
+Ako nemate sajt ili vaš trenutni sajt ne konvertuje, pogledajte [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena) za realan okvir troškova.
 
-## Koliko realno kosta Google Ads za kozmeticki salon mesecno
+## Koliko realno košta Google Ads za kozmeticki salon mesečno
 
-| Velicina salona | Mesecni budzet | Ocekivani termini | Cena po terminu |
+| Veličina salona | Mesečni budžet | Očekivani termini | Cena po terminu |
 |---|---|---|---|
 | Mali salon (1-2 radna mesta) | 150e - 300e | 12 - 35 | 6e - 15e |
 | Srednji salon (3-5 radnih mesta) | 300e - 600e | 30 - 80 | 5e - 12e |
-| Premium salon / vise lokacija | 600e - 1.800e | 70 - 220+ | 4e - 9e |
+| Premium salon / više lokacija | 600e - 1.800e | 70 - 220+ | 4e - 9e |
 
 Ovi brojevi pretpostavljaju optimizovanu landing stranicu i salon sa minimum 10+ Google recenzija i ocenom 4.5+.
 
-Za poredjenje troskova sa organskim pristupom, koristan je vodic o [SEO optimizacija cena](/seo-optimizacija-cena).
+Za poređenje troškova sa organskim pristupom, koristan je vodič o [SEO optimizacija cena](/seo-optimizacija-cena).
 
 ## Google Business profil: obavezan saveznik uz Ads
 
-Google Business profil je za kozmeticke salone cesto vredniji od samog sajta:
+Google Business profil je za kozmetičke salone često vredniji od samog sajta:
 
 - Pojavljuje se u mapi sa recenzijama, slikama i direktnim pozivom
 - Prikazuje radno vreme, lokaciju i sve usluge
@@ -29274,37 +29224,37 @@ Minimalan tracking setup za salon:
 2. **Call tracking** za telefonske termine (u beauty segmentu 40-60% zakazivanja ide telefonom)
 3. **Google Analytics 4** za ponasanje na sajtu
 
-Bez ovoga ne znate koji kljucni termin donosi termin, a koji samo trosi budzet. Vise o merenju rezultata u nasem vodivu za [KPI i ROI marketing](/blog/kako-meriti-roi-marketinga-kpi-vodic).
+Bez ovoga ne znate koji ključni termin donosi termin, a koji samo troši budžet. Više o merenju rezultata u nasem vodivu za [KPI i ROI marketing](/blog/kako-meriti-roi-marketinga-kpi-vodic).
 
-## Google Ads vs Instagram za kozmeticke salone
+## Google Ads vs Instagram za kozmetičke salone
 
 | | Google Ads | Instagram |
 |---|---|---|
-| Tip publike | Ljudi koji traze konkretan tretman | Ljudi koji se inspirisu vizuelno |
-| Brzina rezultata | Termin moze doci prvog dana | Gradi se publika tokom nedelja |
+| Tip publike | Ljudi koji traže konkretan tretman | Ljudi koji se inspirisu vizuelno |
+| Brzina rezultata | Termin može doci prvog dana | Gradi se publika tokom nedelja |
 | Najbolje za | Lokalni intent, premium tretmani, hitne potrebe | Vizuelni wow efekat, pre/posle rezultati, branding |
-| Mana | Ogranicen volumen kljucnih reci | Nizi intent, duzi put do zakazivanja |
+| Mana | Ograničen volumen ključnih reči | Niži intent, duži put do zakazivanja |
 
-Najbolji rezultat je kombinacija: Google Ads hvata ljude sa jasnom namerom, Instagram gradi zelju i poverenje. Vise o Instagram pristupu u nasem clanku o [Instagram reklamama za kozmeticke salone](/blog/instagram-reklame-za-kozmeticke-salone-cena-termina-srbija-2026).
+Najbolji rezultat je kombinacija: Google Ads hvata ljude sa jasnom namerom, Instagram gradi želju i poverenje. Više o Instagram pristupu u našem članku o [Instagram reklamama za kozmetičke salone](/blog/instagram-reklame-za-kozmeticke-salone-cena-termina-srbija-2026).
 
-Za siru sliku o tome [koliko kosta Facebook reklama](/koliko-kosta-facebook-reklama) i gde se uklapa u miks kanala, pogledajte detaljan cenovnik.
+Za siru sliku o tome [koliko košta Facebook reklama](/koliko-kosta-facebook-reklama) i gde se uklapa u miks kanala, pogledajte detaljan cenovnik.
 
-## Ceste greske kozmetickih salona na Google Ads
+## Ceste greške kozmetickih salona na Google Ads
 
 1. **Jedna kampanja za sve usluge.** Depilacija i mezoterapija nemaju istu publiku ni istu vrednost. Razdvojite ih.
-2. **Nema negativnih kljucnih reci.** Bez toga placate klikove od ljudi koji traze "kozmeticki kurs" ili "posao u salonu".
+2. **Nema negativnih ključnih reči.** Bez toga plaćate klikove od ljudi koji traže "kozmeticki kurs" ili "posao u salonu".
 3. **Oglas vodi na Instagram.** Google reklama mora da vodi na stranicu sa jasnim pozivom na akciju, ne na drustvenu mrezu.
-4. **Nema pracenja poziva.** U beauty industriji velik procenat zakazivanja dolazi telefonom. Ako ne pratite pozive, ne znate sta radi.
+4. **Nema praćenja poziva.** U beauty industriji velik procenat zakazivanja dolazi telefonom. Ako ne pratite pozive, ne znate šta radi.
 5. **Odustaju posle nedelju dana.** Google Ads treba 2-3 nedelje za optimizaciju. Pravi ROI se vidi posle mesec dana doslednog rada.
-6. **Ne koriste lokacijske ekstenzije.** Za salon gde lokacija igra kljucnu ulogu, lokacijske i callout ekstenzije podizu CTR za 15-25%.
+6. **Ne koriste lokacijske ekstenzije.** Za salon gde lokacija igra ključnu ulogu, lokacijske i callout ekstenzije podižu CTR za 15-25%.
 
-## Zakljucak
+## Zaključak
 
-Google Ads za kozmeticke salone u Srbiji 2026 je jedan od najbrze isplativih kanala kada se pravilno postavi. Kljuc je razdvajanje kampanja po tipu tretmana, kvalitetna landing stranica sa jasnim CTA-om i dosledno pracenje cene po zakazanom terminu.
+Google Ads za kozmetičke salone u Srbiji 2026 je jedan od najbrže isplativih kanala kada se pravilno postavi. Ključ je razdvajanje kampanja po tipu tretmana, kvalitetna landing stranica sa jasnim CTA-om i dosledno praćenje cene po zakazanom terminu.
 
-Za celokupnu strategiju digitalnog marketinga za kozmeticke salone, pogledajte i nas vodic za [SEO za kozmeticke salone](/blog/seo-za-kozmeticke-salone-cena-srbija-2026) i [Instagram reklame za kozmeticke salone](/blog/instagram-reklame-za-kozmeticke-salone-cena-termina-srbija-2026).
+Za celokupnu strategiju digitalnog marketinga za kozmeticke salone, pogledajte i naš vodič za [SEO za kozmetičke salone](/blog/seo-za-kozmeticke-salone-cena-srbija-2026) i [Instagram reklame za kozmetičke salone](/blog/instagram-reklame-za-kozmeticke-salone-cena-termina-srbija-2026).
 
-Ako zelite da proverite da li Google Ads ima smisla za vaš salon ili vam treba pomoc sa postavkom, javite se preko [kontakt forme](/kontakt).
+Ako želite da proverite da li Google Ads ima smisla za vaš salon ili vam treba pomoc sa postavkom, javite se preko [kontakt forme](/kontakt).
 `,
   },
   {
@@ -29325,7 +29275,7 @@ Ako upravljate hotelom, apartmanom, vilom ili etno selom u Srbiji i razmisljate 
 - **Minimalni mesecni budžet za pouzdan test:** 200e - 500e
 - **Break-even:** najčešće posle 3-6 nedelja za nove kampanje
 
-Za celokupnu sliku o cenama Instagram oglasavanja pogledajte [Instagram reklame cena](/instagram-reklame-cena). Za marketing strategiju za smestajne objekte, korisno je videti nas vodic za [marketing za hotele i smeštaj](/marketing-za-hotele-i-smestaj).
+Za celokupnu sliku o cenama Instagram oglasavanja pogledajte [Instagram reklame cena](/instagram-reklame-cena). Za marketing strategiju za smeštajne objekte, korisno je videti nas vodic za [marketing za hotele i smeštaj](/marketing-za-hotele-i-smestaj).
 
 ## Zašto Instagram radi za smeštaj
 
@@ -29338,9 +29288,9 @@ Za razliku od Google Ads-a gde hvatate ljude koji vec znaju gde idu, Instagram v
 - Premium sobe i pakete gde vizuelni prikaz opravdava visu cenu
 - Nove objekte bez recenzija na Booking-u koji moraju da izgrade svest
 
-Za poredjenje sa Google Ads pristupom, pogledajte [Google Ads za hotele i smeštaj](/blog/google-ads-za-hotele-i-smestaj-cena-rezervacije-srbija-2026).
+Za poređenje sa Google Ads pristupom, pogledajte [Google Ads za hotele i smeštaj](/blog/google-ads-za-hotele-i-smestaj-cena-rezervacije-srbija-2026).
 
-## 4 tipa kampanja koje rade za smestajne objekte
+## 4 tipa kampanja koje rade za smeštajne objekte
 
 ### 1. Awareness kampanja za destinaciju
 
@@ -29390,7 +29340,7 @@ Ovo posebno pomaze novim objektima. Ako nemate recenzije na Booking-u, Instagram
 
 ## Kreativa koja donosi rezervacije
 
-### Sta radi za smestajne objekte
+### Sta radi za smeštajne objekte
 
 1. **Realni snimci, ne stock fotografije.** Gosti prepoznaju genericki hotel stock. Snimajte svojim telefonom u dobrom svetlu.
 2. **Prikaz iskustva, ne samo sobe.** Soba je krevet i kupatilo. Iskustvo je pogled sa terase, setnja do recnog izvora, lokalna hrana za vecerom.
@@ -29424,7 +29374,7 @@ Ovo posebno pomaze novim objektima. Ako nemate recenzije na Booking-u, Instagram
 - Ocekivani upiti: 50-150+ mesečno
 - Cena po upitu: 6e - 15e
 
-## Instagram vs Booking/Airbnb: poredjenje troskova
+## Instagram vs Booking/Airbnb: poređenje troskova
 
 Booking uzima 15% provizije. Za sobu od 80e po nocenju i prosecnom boravku od 2 noćenja, Booking uzima 24e po rezervaciji.
 
@@ -29467,11 +29417,11 @@ Bez Pixel-a ne mozete raditi retargeting i ne znate sta vam radi. Ovo je jedini 
 
 ## Zaključak
 
-Instagram reklame za smestajne objekte u Srbiji 2026 su isplativa alternativa visokim OTA provizijama. Kljuc je kombinacija awareness kampanja za novu publiku, retargeting za ljude koji su vec pokazali interesovanje i sezonskih kampanja za popunjavanje kapaciteta.
+Instagram reklame za smeštajne objekte u Srbiji 2026 su isplativa alternativa visokim OTA provizijama. Kljuc je kombinacija awareness kampanja za novu publiku, retargeting za ljude koji su vec pokazali interesovanje i sezonskih kampanja za popunjavanje kapaciteta.
 
 Pocnite sa 200e - 300e mesečno, fokusirajte se na retargeting ako imate dovoljno poseta na sajtu, i merite sve kroz cenu po potvrdenoj rezervaciji.
 
-Za celokupnu strategiju digitalnog marketinga za smestajne objekte, pogledajte nas vodic za [marketing za hotele i smeštaj](/marketing-za-hotele-i-smestaj) i [Google Ads vodic za hotele](/blog/google-ads-za-hotele-i-smestaj-cena-rezervacije-srbija-2026).
+Za celokupnu strategiju digitalnog marketinga za smeštajne objekte, pogledajte nas vodic za [marketing za hotele i smeštaj](/marketing-za-hotele-i-smestaj) i [Google Ads vodic za hotele](/blog/google-ads-za-hotele-i-smestaj-cena-rezervacije-srbija-2026).
 
 Ako zelite da proverite da li Instagram reklame imaju smisla za vaš objekat ili vam treba pomoc sa postavkom, javite se preko [kontakt forme](/kontakt).
 `,
@@ -29486,7 +29436,7 @@ Ako zelite da proverite da li Instagram reklame imaju smisla za vaš objekat ili
     content: `
 ## SEO za hotele i smeštaj u Srbiji 2026: kratak odgovor
 
-Ako trazis upit **seo za hotel cena** ili **seo za smeštaj cena**, realan raspon za srpsko tržište u 2026. najčešće izgleda ovako:
+Ako tražiš upit **seo za hotel cena** ili **seo za smeštaj cena**, realan raspon za srpsko tržište u 2026. najčešće izgleda ovako:
 
 - **Starter lokalni SEO (GBP + osnovna optimizacija):** 250e-500e mesečno.
 - **Growth paket (GBP + sajt + sadržaj + lokalni linkovi):** 500e-1.000e mesečno.
@@ -29494,72 +29444,72 @@ Ako trazis upit **seo za hotel cena** ili **seo za smeštaj cena**, realan raspo
 
 Za širi kontekst SEO troškova pogledaj i [SEO optimizacija cena](/seo-optimizacija-cena).
 
-## Zašto SEO menja racunicu za smestajne objekte
+## Zašto SEO menja računicu za smeštajne objekte
 
-Booking uzima 15 posto po rezervaciji. Airbnb uzima 3 posto od domacina plus 14 posto od gosta. Za objekat sa prosecnom cenom nocenja od 60 evra i 50 rezervacija mesečno, to je 450 do 750 evra mesečno koje plaćate platformi da vam dovede goste.
+Booking uzima 15 posto po rezervaciji. Airbnb uzima 3 posto od domaćina plus 14 posto od gosta. Za objekat sa prosečnom cenom noćenja od 60 evra i 50 rezervacija mesečno, to je 450 do 750 evra mesečno koje plaćate platformi da vam dovede goste.
 
-SEO radi obrnuto. Umesto da plaćate proviziju za svaku rezervaciju, ulazete fiksnu mesecnu sumu da vas sajt bude vidljiv kad neko traži smeštaj u vasem gradu ili na vasoj planini. Svaka rezervacija koja dodje direktno sa Google pretrage nema proviziju.
+SEO radi obrnuto. Umesto da plaćate proviziju za svaku rezervaciju, ulažete fiksnu mesečnu sumu da vas sajt bude vidljiv kad neko traži smeštaj u vašem gradu ili na vašoj planini. Svaka rezervacija koja dođe direktno sa Google pretrage nema proviziju.
 
-Razlika postaje ocigledna na godisnje nivou. Objekat koji prebaci 30 posto rezervacija sa OTA na direktne kanale ustedi 3.000 do 8.000 evra godisnje, zavisno od kapaciteta i cene nocenja.
+Razlika postaje očigledna na godišnjem nivou. Objekat koji prebaci 30 posto rezervacija sa OTA na direktne kanale uštedi 3.000 do 8.000 evra godišnje, zavisno od kapaciteta i cene noćenja.
 
-Za poredjenje sa placenim kanalima, pogledaj [Google Ads za hotele i smeštaj](/blog/google-ads-za-hotele-i-smestaj-cena-rezervacije-srbija-2026) i [Instagram reklame za hotele](/blog/instagram-reklame-za-hotele-i-smestaj-cena-rezervacije-srbija-2026).
+Za poređenje sa plaćenim kanalima, pogledaj [Google Ads za hotele i smeštaj](/blog/google-ads-za-hotele-i-smestaj-cena-rezervacije-srbija-2026) i [Instagram reklame za hotele](/blog/instagram-reklame-za-hotele-i-smestaj-cena-rezervacije-srbija-2026).
 
-## Sta ulazi u SEO paket za smestajni objekat
+## Šta ulazi u SEO paket za smeštajni objekat
 
 ### Google Business Profile optimizacija
 
-Google mapa je prvi filter kad neko traži smeštaj. Vecina putnika ne skroluje ispod prva tri rezultata. GBP profil mora da sadrzi:
+Google mapa je prvi filter kad neko traži smeštaj. Većina putnika ne skroluje ispod prva tri rezultata. GBP profil mora da sadrži:
 
-- Kompletan opis objekta sa svim tipovima soba, sadrzajima i uslugama
-- Profesionalne i autenticne fotografije: sobe, kupatila, restoran, okolina, pogled
-- Tacno radno vreme, kontakt telefon, link za direktnu rezervaciju
-- Redovni GBP postovi sa sezonskim ponudama, paketima i dogadjajima u okolini
+- Kompletan opis objekta sa svim tipovima soba, sadržajima i uslugama
+- Profesionalne i autentične fotografije: sobe, kupatila, restoran, okolina, pogled
+- Tačno radno vreme, kontakt telefon, link za direktnu rezervaciju
+- Redovni GBP postovi sa sezonskim ponudama, paketima i događajima u okolini
 - Odgovore na svaku recenziju, pozitivnu i negativnu
 
-Za sire razumevanje GBP optimizacije, pogledaj [Google Business profil optimizacija](/blog/google-business-profil-optimizacija-cena-srbija-2026).
+Za šire razumevanje GBP optimizacije, pogledaj [Google Business profil optimizacija](/blog/google-business-profil-optimizacija-cena-srbija-2026).
 
 ### Lokalna optimizacija sajta
 
-Sajt smestajnog objekta mora da ima posebne stranice za svaki tip smestaja i svaku uslugu. "Apartman na Zlatiboru cena" i "hotel sa bazenom Zlatibor" su potpuno različite pretrage sa različitim namerama. Jedna generalna stranica "O nama" ne može da pokrije oba upita.
+Sajt smeštajnog objekta mora da ima posebne stranice za svaki tip smeštaja i svaku uslugu. "Apartman na Zlatiboru cena" i "hotel sa bazenom Zlatibor" su potpuno različite pretrage sa različitim namerama. Jedna generalna stranica "O nama" ne može da pokrije oba upita.
 
 Struktura koja radi:
 
-- Stranica za svaki tip sobe ili apartmana sa cenom, kapacitetom, fotografijama i mogucnoscu rezervacije
+- Stranica za svaki tip sobe ili apartmana sa cenom, kapacitetom, fotografijama i mogućnošću rezervacije
 - Stranica za svaku uslugu: wellness, restoran, parking, transfer, tura
-- Stranica za lokaciju i okolinu: sta raditi u okolini, rastojanja, dogadjaji
-- FAQ stranica sa odgovorima na najcesca pitanja gostiju (check-in vreme, kucni ljubimci, otkazivanje)
+- Stranica za lokaciju i okolinu: šta raditi u okolini, rastojanja, događaji
+- FAQ stranica sa odgovorima na najčešća pitanja gostiju (check-in vreme, kućni ljubimci, otkazivanje)
 
 ### Prikupljanje i upravljanje recenzijama
 
-Broj i kvalitet recenzija na Google-u direktno utiče na rangiranje u Local Pack-u. Objekat sa 200 recenzija i prosekom 4.4 pobedzuje objekat sa 30 recenzija i prosekom 4.9.
+Broj i kvalitet recenzija na Google-u direktno utiče na rangiranje u Local Pack-u. Objekat sa 200 recenzija i prosekom 4.4 pobeđuje objekat sa 30 recenzija i prosekom 4.9.
 
-Sistem koji radi za smestajne objekte:
+Sistem koji radi za smeštajne objekte:
 
 - Automatski email ili SMS posle check-out-a sa linkom na Google recenziju
 - QR kod u sobi ili na recepciji koji vodi na stranicu za recenziju
 - Odgovor na svaku recenziju u roku od 48 sati, posebno na negativne
-- Mesecni presek broja novih recenzija i prosecne ocene
+- Mesečni presek broja novih recenzija i prosečne ocene
 
-Teretane i stomatolozi koriste slican sistem. Pogledaj nas vodic za [SEO za stomatologe](/blog/seo-za-stomatologe-cena-srbija-2026) za primere kako sistem recenzija radi u praksi.
+Teretane i stomatolozi koriste sličan sistem. Pogledaj naš vodič za [SEO za stomatologe](/blog/seo-za-stomatologe-cena-srbija-2026) za primere kako sistem recenzija radi u praksi.
 
 ### Content marketing za smeštaj
 
-Blog sadržaj za smestajne objekte hvata ljude u fazi planiranja putovanja, pre nego što odluce gde ce odsjesti. To su upiti tipa:
+Blog sadržaj za smeštajne objekte hvata ljude u fazi planiranja putovanja, pre nego što odluče gde će odsjesti. To su upiti tipa:
 
-- "sta raditi na Zlatiboru zimi"
+- "šta raditi na Zlatiboru zimi"
 - "vikend izleti iz Beograda 2026"
-- "najlepse banje u Srbiji"
+- "najlepše banje u Srbiji"
 - "Tara ili Zlatibor za porodicu"
 
-Svaki blog post koji rangira za ovakav upit dovodi potencijalnog gosta na vas sajt. Odatle je kratak put do pregleda soba i rezervacije.
+Svaki blog post koji rangira za ovakav upit dovodi potencijalnog gosta na vaš sajt. Odatle je kratak put do pregleda soba i rezervacije.
 
-Kljuc je pisati o destinaciji i iskustvima, ne o svom objektu. Niko ne traži "hotel XY blog". Ali traže "sta posetiti na Fruskoj Gori" i ako im vas clanak pomogne, gledace i ponudu smestaja na istom sajtu.
+Ključ je pisati o destinaciji i iskustvima, ne o svom objektu. Niko ne traži "hotel XY blog". Ali traže "šta posetiti na Fruškoj Gori" i ako im vaš članak pomogne, gledaće i ponudu smeštaja na istom sajtu.
 
 ### Tehnička SEO optimizacija
 
-Sajt smestajnog objekta mora da bude brz, mobilno optimizovan i pravilno strukturiran za pretrazivace:
+Sajt smeštajnog objekta mora da bude brz, mobilno optimizovan i pravilno strukturiran za pretraživače:
 
-- **Schema markup:** Hotel, LodgingBusiness ili VacationRental schema sa cenama, ocenama i dostupnoscu
+- **Schema markup:** Hotel, LodgingBusiness ili VacationRental schema sa cenama, ocenama i dostupnošću
 - **Brzina učitavanja:** Core Web Vitals u zelenom. Fotografije optimizovane (WebP format), lazy loading za galerije
 - **Mobilna optimizacija:** 70 posto pretraga za smeštaj dolazi sa mobilnog
 - **Hreflang tagovi:** ako imate sajt na srpskom i engleskom za strane goste
@@ -29569,67 +29519,67 @@ Sajt smestajnog objekta mora da bude brz, mobilno optimizovan i pravilno struktu
 
 ### Pred-sezonski period (2-3 meseca pre sezone)
 
-Ovo je najvaznji period za SEO. Objavljujte sadržaj o destinaciji, aktivnostima i dogadjajima koji dolaze. Optimizujte postojece stranice sa novim cenama i paketima za narednu sezonu.
+Ovo je najvažniji period za SEO. Objavljujte sadržaj o destinaciji, aktivnostima i događajima koji dolaze. Optimizujte postojeće stranice sa novim cenama i paketima za narednu sezonu.
 
 ### Tokom sezone
 
-Fokus na konverziju. Stranice moraju imati jasne cene, raspolozivost i dugme za rezervaciju. Google Business postovi sa aktuelnim ponudama i slikama iz objekta (ne stock fotografijama).
+Fokus na konverziju. Stranice moraju imati jasne cene, raspoloživost i dugme za rezervaciju. Google Business postovi sa aktuelnim ponudama i slikama iz objekta (ne stock fotografijama).
 
 ### Van sezone
 
-Objavljujte sadržaj za predstojecu sezonu. Ako je leto zavrseno, pocnite sa clancima o jesenjem turizmu, poslovnim dogadjajima, wellness vikendima. SEO sadržaj objavljen u oktobru može rangirati do januara kad potraznja opet poraste.
+Objavljujte sadržaj za predstojeću sezonu. Ako je leto završeno, počnite sa člancima o jesenjem turizmu, poslovnim događajima, wellness vikendima. SEO sadržaj objavljen u oktobru može rangirati do januara kad potražnja opet poraste.
 
 ## Koliko vremena treba da se vide rezultati
 
-Za lokalni SEO smestajnog objekta:
+Za lokalni SEO smeštajnog objekta:
 
 - **Google Business profil:** prvi pomaci na mapi za 4-8 nedelja uz aktivan rad na profilu, recenzijama i GBP postovima.
-- **Organski saobracaj sa sajta:** rast obicno pocinje za 3-6 meseci za lokalne termine (manja konkurencija nego "smeštaj Beograd", veća za turisticke destinacije).
-- **Sadrzajne stranice za destinaciju:** 2-4 meseca za rangiranje long-tail upita, 6-12 meseci za konkrentnije pretrage.
+- **Organski saobraćaj sa sajta:** rast obično počinje za 3-6 meseci za lokalne termine (manja konkurencija nego "smeštaj Beograd", veća za turističke destinacije).
+- **Sadržajne stranice za destinaciju:** 2-4 meseca za rangiranje long-tail upita, 6-12 meseci za konkretnije pretrage.
 
-SEO je investicija koja se akumulira. Sajt koji godinu dana gradi sadržaj i linkove ima trajnu prednost nad konkurentom koji tek pocinje. Za razliku od oglasa, organski saobracaj ne prestaje kad prestanete da plaćate.
+SEO je investicija koja se akumulira. Sajt koji godinu dana gradi sadržaj i linkove ima trajnu prednost nad konkurentom koji tek počinje. Za razliku od oglasa, organski saobraćaj ne prestaje kad prestanete da plaćate.
 
-## Gde smestajni objekti najčešće gube novac na SEO
+## Gde smeštajni objekti najčešće gube novac na SEO
 
 ### 1) Sajt sa jednom stranicom za sve
 
-Jedna stranica "Sobe" sa svim tipovima smestaja u jednom bloku. Google ne može da rangira tu stranicu za 10 različitih upita. Svaki tip sobe zasluzuje sopstvenu stranicu sa cenom, opisom, fotografijama i rezervacijom.
+Jedna stranica "Sobe" sa svim tipovima smeštaja u jednom bloku. Google ne može da rangira tu stranicu za 10 različitih upita. Svaki tip sobe zaslužuje sopstvenu stranicu sa cenom, opisom, fotografijama i rezervacijom.
 
 ### 2) Fotografije bez optimizacije
 
-Galerije sa 50 fotografija od po 3MB. Sajt se učitava 12 sekundi, Google ga kaznjava u rangiranju, gost odlazi. Kompresujte slike, koristite WebP, dodajte alt tagove sa opisom ("dvokrevetna soba sa pogledom na planinu — hotel ime, Zlatibor").
+Galerije sa 50 fotografija od po 3MB. Sajt se učitava 12 sekundi, Google ga kažnjava u rangiranju, gost odlazi. Kompresujte slike, koristite WebP, dodajte alt tagove sa opisom ("dvokrevetna soba sa pogledom na planinu — hotel ime, Zlatibor").
 
 ### 3) Zanemarivanje stranih gostiju
 
-Srbija privlaci sve više stranih turista. Objekat bez engleske verzije sajta gubi ceo taj segment. Cak i osnovna engleska verzija sa tipovima soba i cenama hvata pretrage tipa "accommodation Zlatibor" ili "hotel Tara mountain Serbia".
+Srbija privlači sve više stranih turista. Objekat bez engleske verzije sajta gubi ceo taj segment. Čak i osnovna engleska verzija sa tipovima soba i cenama hvata pretrage tipa "accommodation Zlatibor" ili "hotel Tara mountain Serbia".
 
 ### 4) Bez sistema za recenzije
 
-Vecina zadovoljnih gostiju ne ostavlja recenziju osim ako ih ne zamolite. Bez aktivnog sistema za prikupljanje, zaostajete za konkurencijom koja to radi. Cak i 5 novih recenzija mesečno znacajno utiče na rangiranje.
+Većina zadovoljnih gostiju ne ostavlja recenziju osim ako ih ne zamolite. Bez aktivnog sistema za prikupljanje, zaostajete za konkurencijom koja to radi. Čak i 5 novih recenzija mesečno značajno utiče na rangiranje.
 
 ### 5) Fokus samo na ime objekta
 
-Rangirati se za "Hotel Zlatiborski bor" je lako ako je to tacno ime vaseg objekta. Ali niko ne traži po imenu hotela koji ne zna da postoji. SEO mora da cilja generalne pretrage: "smeštaj Zlatibor", "vikendica Tara", "apartman sa bazenom Fruska Gora".
+Rangirati se za "Hotel Zlatiborski bor" je lako ako je to tačno ime vašeg objekta. Ali niko ne traži po imenu hotela koji ne zna da postoji. SEO mora da cilja generalne pretrage: "smeštaj Zlatibor", "vikendica Tara", "apartman sa bazenom Fruška Gora".
 
 ## Uporedni pregled: SEO vs Google Ads vs OTA
 
-| Kanal | Mesecni trošak | Cena po rezervaciji | Trajnost | Kontrola nad gostom |
+| Kanal | Mesečni trošak | Cena po rezervaciji | Trajnost | Kontrola nad gostom |
 |-------|---------------|---------------------|----------|---------------------|
 | Booking/Airbnb | Varijabilan (provizija) | 9e-25e (15% provizije) | Dok plaćate | Platforma ima podatke |
 | Google Ads | 300e-1.500e | 10e-30e | Dok plaćate | Vi imate podatke |
-| SEO | 250e-2.500e | 0e-5e (nakon pocetne investicije) | Dugorocno | Vi imate sve podatke |
+| SEO | 250e-2.500e | 0e-5e (nakon početne investicije) | Dugoročno | Vi imate sve podatke |
 
-Najbolji rezultat daje kombinacija sva tri kanala: Booking za vidljivost i volume, Google Ads za brže rezultate i sezonske kampanje, SEO za dugorocno smanjenje zavisnosti i nizu cenu po rezervaciji. Za analizu Google Ads troškova pogledajte [Google reklame cena](/google-reklame-cena).
+Najbolji rezultat daje kombinacija sva tri kanala: Booking za vidljivost i volume, Google Ads za brže rezultate i sezonske kampanje, SEO za dugoročno smanjenje zavisnosti i nižu cenu po rezervaciji. Za analizu Google Ads troškova pogledajte [Google reklame cena](/google-reklame-cena).
 
-## Zakljucak
+## Zaključak
 
-SEO za smestajne objekte u Srbiji 2026 je najjeftiniji kanal po rezervaciji na duze staze. Zahteva strpljenje jer rezultati ne dolaze preko noci, ali svaki mesec rada gradi trajnu prednost.
+SEO za smeštajne objekte u Srbiji 2026 je najjeftiniji kanal po rezervaciji na duže staze. Zahteva strpljenje jer rezultati ne dolaze preko noći, ali svaki mesec rada gradi trajnu prednost.
 
-Pocnite od Google Business profila i sistema za recenzije jer tu su najbrzi rezultati. Zatim investirajte u posebne stranice za svaki tip smestaja i sadržaj o destinaciji koji hvata ljude u fazi planiranja.
+Počnite od Google Business profila i sistema za recenzije jer tu su najbrži rezultati. Zatim investirajte u posebne stranice za svaki tip smeštaja i sadržaj o destinaciji koji hvata ljude u fazi planiranja.
 
-Za celokupnu strategiju marketinga za smestajne objekte, pogledajte [marketing za hotele i smeštaj](/marketing-za-hotele-i-smestaj). Za analizu troškova svih kanala, pogledaj [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+Za celokupnu strategiju marketinga za smeštajne objekte, pogledajte [marketing za hotele i smeštaj](/marketing-za-hotele-i-smestaj). Za analizu troškova svih kanala, pogledaj [cene digitalnog marketinga](/cene-digitalnog-marketinga).
 
-Ako zelite da proverite u kom stanju je SEO vaseg smestajnog objekta ili vam treba pomoc sa optimizacijom, javite se preko [kontakt forme](/kontakt).
+Ako želite da proverite u kom stanju je SEO vašeg smeštajnog objekta ili vam treba pomoć sa optimizacijom, javite se preko [kontakt forme](/kontakt).
 `,
   },
 
@@ -29739,7 +29689,7 @@ Kada uporedimo ROAS po platformi, Google i dalje vodi, ali neke platforme iznena
 
 **Affiliate marketing** u retail sektoru i dalje daje impresivan ROAS od **$11 za svaki ulozen $1** (prema AllInclusiveMarketing), mada je blago pao sa $12 u 2021.
 
-Za detaljan poredjenje Google i Facebook Ads-a pogledajte [Google Ads vs Facebook Ads](/blog/google-ads-vs-facebook-ads-koji-je-bolji).
+Za detaljan poređenje Google i Facebook Ads-a pogledajte [Google Ads vs Facebook Ads](/blog/google-ads-vs-facebook-ads-koji-je-bolji).
 
 ## Zasto ROAS pada i sta mozete uraditi
 
@@ -30482,7 +30432,7 @@ Infrastrukturni SaaS ima 1.8% mesecni churn upravo zato sto je duboko integrisan
 ### 7. Merite i pratite kohortno
 Ne gledate ukupan churn jer maskira trendove. Merite churn po kohorti (mesec prijavljivanja), po segmentu (SMB vs enterprise), i po kanalu akvizicije da biste nasli gde je problem i gde treba intervenisati.
 
-## Zakljucak: gde je vas churn u poredjenju sa benchmarkom
+## Zaključak: gde je vas churn u poredjenju sa benchmarkom
 
 | Industrija/segment | Dobar churn | Prosecan | Visok (alarm) |
 |--------------------|-------------|----------|---------------|
@@ -30714,7 +30664,7 @@ Za pomoc oko optimizacije vasih Google Ads kampanja i smanjenja cene leada, [kon
 
 Prema WordStream/LocalIQ Facebook Ads Benchmark istrazivanju za 2025 (analiza preko 1.000 kampanja), Facebook (Meta) reklame ostaju znacajno jeftinije od Google Ads po kliku. Prosecni CPC za traffic kampanje iznosi **$0.70** (pad od 6.67% u odnosu na prethodnu godinu), dok lead kampanje imaju prosecni CPC od **$1.92** (blagi rast od 2.13% YoY).
 
-Za poredjenje sa Google Ads gde je prosecni CPC **$5.26**, pogledajte [Google Ads CPC, CTR i konverzija po industriji](/blog/google-ads-cpc-ctr-konverzija-po-industriji-benchmark-2026). Za siru sliku o troskovima akvizicije pogledajte [CPA benchmark po industriji](/blog/koliko-kosta-novi-klijent-cpa-po-industriji-google-facebook-2026).
+Za poređenje sa Google Ads gde je prosecni CPC **$5.26**, pogledajte [Google Ads CPC, CTR i konverzija po industriji](/blog/google-ads-cpc-ctr-konverzija-po-industriji-benchmark-2026). Za siru sliku o troskovima akvizicije pogledajte [CPA benchmark po industriji](/blog/koliko-kosta-novi-klijent-cpa-po-industriji-google-facebook-2026).
 
 ## CPC po industriji: Traffic kampanje (optimizovane za klikove)
 
@@ -30852,7 +30802,7 @@ Advokati imaju visoku konverziju (10.53%) uprkos skupom kliku ($4.10), jer Lead 
 
 **Najskuplji leadovi:** Stomatolozi ($76.71 CPL), Zdravlje i fitnes ($52.98), Lepota i nega ($51.42). Kombinacija niskog CTR-a, visokog CPC-a i umerene konverzije cini ove nise zahtevnijim.
 
-## Facebook vs Google Ads: poredjenje kljucnih metrika
+## Facebook vs Google Ads: poređenje kljucnih metrika
 
 | Metrika | Facebook Ads | Google Ads |
 |---------|-------------|------------|
@@ -30892,7 +30842,7 @@ Za pomoc oko pokretanja ili optimizacije vasih Facebook kampanja, [kontaktirajte
 
 ---
 
-*Izvori: WordStream Facebook Ads Benchmarks 2025 (april 2024 - mart 2025, 1.000+ kampanja), LocalIQ Facebook Advertising Benchmarks 2025, WordStream Google Ads Benchmarks 2025 (za poredjenje).*
+*Izvori: WordStream Facebook Ads Benchmarks 2025 (april 2024 - mart 2025, 1.000+ kampanja), LocalIQ Facebook Advertising Benchmarks 2025, WordStream Google Ads Benchmarks 2025 (za poređenje).*
 `,
   },
 
@@ -30908,7 +30858,7 @@ Za pomoc oko pokretanja ili optimizacije vasih Facebook kampanja, [kontaktirajte
 
 LinkedIn kontrolise **39% svih B2B oglasnih budzeta** globalno. Prosecni CPC od **$3.94** (medijan) do **$5.58** (globalni prosek) cini ga 2-3x skupljim od Facebooka po kliku. Ali kada vas jedan ugovor vredi $10.000-$100.000+, cena po kliku prestaje da bude relevantna — bitna je cena po kvalitetnom leadu.
 
-Za poredjenje sa drugim platformama pogledajte [Facebook Ads benchmark po industriji](/blog/facebook-ads-cpc-ctr-konverzija-cpl-po-industriji-benchmark-2026) i [Google Ads benchmark po industriji](/blog/google-ads-cpc-ctr-konverzija-po-industriji-benchmark-2026). Za siru sliku o troskovima akvizicije po kanalima pogledajte [CPA benchmark po industriji](/blog/koliko-kosta-novi-klijent-cpa-po-industriji-google-facebook-2026).
+Za poređenje sa drugim platformama pogledajte [Facebook Ads benchmark po industriji](/blog/facebook-ads-cpc-ctr-konverzija-cpl-po-industriji-benchmark-2026) i [Google Ads benchmark po industriji](/blog/google-ads-cpc-ctr-konverzija-po-industriji-benchmark-2026). Za siru sliku o troskovima akvizicije po kanalima pogledajte [CPA benchmark po industriji](/blog/koliko-kosta-novi-klijent-cpa-po-industriji-google-facebook-2026).
 
 ## Prosecni CPC, CTR, konverzija i CPL na LinkedIn-u (2025)
 
@@ -31033,7 +30983,7 @@ LinkedIn Lead Gen Form konzistentno konvertuje **2x bolje** od eksternih landing
 
 **Message Ads** imaju ubedljivo najvisi CTR (~3%) jer dolaze direktno u inbox. Ali su skupi po slanju i rade samo sa preciznim targetiranjem. Idealni za ABM (Account Based Marketing) pristup.
 
-## LinkedIn vs Facebook vs Google Ads: poredjenje
+## LinkedIn vs Facebook vs Google Ads: poređenje
 
 | Metrika | LinkedIn Ads | Facebook Ads | Google Ads |
 |---------|-------------|-------------|------------|
@@ -31048,7 +30998,7 @@ LinkedIn Lead Gen Form konzistentno konvertuje **2x bolje** od eksternih landing
 
 Za B2B firme gde jedan klijent vredi $5.000-$50.000+, CPL od $128 je cena rucka u poredjenju sa vrednescu ugovora.
 
-Za detaljnije poredjenje pogledajte [Google Ads vs Facebook Ads: koji je bolji](/blog/google-ads-vs-facebook-ads-koji-je-bolji) i [ROAS po industriji i platformi](/blog/roas-po-industriji-i-platformi-benchmark-statistika-2026).
+Za detaljnije poređenje pogledajte [Google Ads vs Facebook Ads: koji je bolji](/blog/google-ads-vs-facebook-ads-koji-je-bolji) i [ROAS po industriji i platformi](/blog/roas-po-industriji-i-platformi-benchmark-statistika-2026).
 
 ## Kljucni trendovi za 2025-2026
 
@@ -31096,7 +31046,7 @@ Za pomoc oko pokretanja ili optimizacije vasih LinkedIn kampanja, [kontaktirajte
 
 Sa prosecnim CPV-om od **$0.026** i preko **2.5 milijarde aktivnih korisnika mesecno**, YouTube nudi nesto sto ni Facebook ni Google Search ne mogu: video format uz targeting preciznost Google ekosistema. Prosecni CPM od **$3.50** cini ga atraktivnim za brendove kojima je video kljucan za prodaju.
 
-Za poredjenje sa drugim platformama pogledajte [Facebook Ads benchmark po industriji](/blog/facebook-ads-cpc-ctr-konverzija-cpl-po-industriji-benchmark-2026), [Google Ads benchmark po industriji](/blog/google-ads-cpc-ctr-konverzija-po-industriji-benchmark-2026) i [LinkedIn Ads benchmark po industriji](/blog/linkedin-ads-cpc-ctr-konverzija-cpl-po-industriji-benchmark-2026).
+Za poređenje sa drugim platformama pogledajte [Facebook Ads benchmark po industriji](/blog/facebook-ads-cpc-ctr-konverzija-cpl-po-industriji-benchmark-2026), [Google Ads benchmark po industriji](/blog/google-ads-cpc-ctr-konverzija-po-industriji-benchmark-2026) i [LinkedIn Ads benchmark po industriji](/blog/linkedin-ads-cpc-ctr-konverzija-cpl-po-industriji-benchmark-2026).
 
 ## Prosecni CPV, CTR, view rate i konverzija na YouTube-u (2025)
 
@@ -31185,7 +31135,7 @@ Zdravstvo i osiguranje imaju **daleko najvisi CPV ($0.071)** — regulativa i sp
 
 **Non-Skippable** garantuje kompletno gledanje, ali ima najnizi CTR jer korisnici cekaju da prodje reklama umesto da aktivno kliknu. Koristite ih kad je poruka bitna sama po sebi, ne kad trazite klik.
 
-## YouTube vs Facebook vs Google: poredjenje troskova
+## YouTube vs Facebook vs Google: poređenje troskova
 
 | Metrika | YouTube | Facebook | Google Search |
 |---------|---------|----------|--------------|
@@ -31198,7 +31148,7 @@ Zdravstvo i osiguranje imaju **daleko najvisi CPV ($0.071)** — regulativa i sp
 
 YouTube ima **najnizu cenu po 1.000 prikaza** od svih velikih platformi. Ali konverzija je najniza jer je to pre svega awareness kanal. Kombinacija YouTube (awareness) + Google Search (conversion) + Facebook (retargeting) je najjaci full-funnel pristup.
 
-Za detaljno poredjenje Google i Facebook troskova pogledajte [Google Ads vs Facebook Ads: koji je bolji](/blog/google-ads-vs-facebook-ads-koji-je-bolji) i [ROAS po industriji i platformi](/blog/roas-po-industriji-i-platformi-benchmark-statistika-2026).
+Za detaljno poređenje Google i Facebook troskova pogledajte [Google Ads vs Facebook Ads: koji je bolji](/blog/google-ads-vs-facebook-ads-koji-je-bolji) i [ROAS po industriji i platformi](/blog/roas-po-industriji-i-platformi-benchmark-statistika-2026).
 
 ## Preporuke za mesecni budzet
 
@@ -31357,7 +31307,7 @@ Za pomoc oko pokretanja ili optimizacije vasih YouTube kampanja, [kontaktirajte 
 ## Ponovljene kupovine - lojalnost u praksi
 
 
-<p>Lojalni kupci kupuju ponovo 5 puta cesce. U trecoj godini odnosa sa brendom, trose 67% vise nego u prvih 6 meseci. Kupci sa 3+ kupovine imaju 3x vecu verovatnocu da postanu dugorocno lojalni.</p>
+<p>Lojalni kupci kupuju ponovo 5 puta cesce. U trecoj godini odnosa sa brendom, trose 67% vise nego u prvih 6 meseci. Kupci sa 3+ kupovine imaju 3x vecu verovatnocu da postanu dugoročno lojalni.</p>
 
 <p>Faktori koji podizu repeat purchase:</p>
 <ul>
@@ -31795,7 +31745,7 @@ Marketing automatizacija je presla put od "lepo je imati" do "bez toga ne mozes"
 
 Ovo nisu marketinske floskule. Ovo su citirani podaci koji pokazuju koliko marketing automatizacija utiče na lead generation, konverzije, produktivnost i prihod — po industriji i po velicini firme.
 
-Ako vas zanima koliko firme generalno troše na marketing, pogledajte [koliko firme troše na marketing po industriji](/blog/koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026). Za poredjenje kanala pogledajte [email marketing ROI](/blog/koliko-zapravo-zaradjuje-email-marketing-roi-po-industriji-2026) i [ROAS po platformi](/blog/roas-po-industriji-i-platformi-benchmark-statistika-2026).
+Ako vas zanima koliko firme generalno troše na marketing, pogledajte [koliko firme troše na marketing po industriji](/blog/koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026). Za poređenje kanala pogledajte [email marketing ROI](/blog/koliko-zapravo-zaradjuje-email-marketing-roi-po-industriji-2026) i [ROAS po platformi](/blog/roas-po-industriji-i-platformi-benchmark-statistika-2026).
 
 ## Koliko trziste marketing automatizacije zaista vredi
 
@@ -31892,7 +31842,7 @@ Za detalje o email automatizaciji pogledajte [email automatizacija za webshop](/
 
 Automatizovani lead nurturing tokovi (welcome serije, abandoned cart, post-purchase) **konvertuju do 3x bolje** od manuelnog kontaktiranja. Tajna je u tajmingu — automatizacija salje pravu poruku u trenutku kad je lead najtopliji.
 
-Za poredjenje cena po leadu pogledajte [CPA po industriji](/blog/koliko-kosta-novi-klijent-cpa-po-industriji-google-facebook-2026) i [cena po leadu](/blog/cena-po-leadu-po-industriji-benchmark-statistika-2026).
+Za poređenje cena po leadu pogledajte [CPA po industriji](/blog/koliko-kosta-novi-klijent-cpa-po-industriji-google-facebook-2026) i [cena po leadu](/blog/cena-po-leadu-po-industriji-benchmark-statistika-2026).
 
 ## Email automatizacija: kanal koji i dalje dominira
 

@@ -157,8 +157,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "core-web-vitals-page-speed-konverzija-bounce-rate-seo-statistika-2026",
-    "title": "Core Web Vitals i brzina sajta: kako uticu na konverzije, bounce rate i SEO (podaci za 2026)",
-    "excerpt": "Samo 62% mobilnih stranica prolazi LCP test. Kasnjenje od 1 sekunde smanjuje konverzije do 7%. Benchmark podaci za CWV, brzinu i uticaj na rangiranje.",
+    "title": "Core Web Vitals i brzina sajta: kako utiču na konverzije, bounce rate i SEO (podaci za 2026)",
+    "excerpt": "Samo 62% mobilnih stranica prolazi LCP test. Kašnjenje od 1 sekunde smanjuje konverzije do 7%. Benchmark podaci za CWV, brzinu i uticaj na rangiranje.",
     "date": "2026-03-25",
     "category": "SEO",
     "readTime": "9 min",
@@ -617,7 +617,7 @@ export const blogIndexPosts = [
   {
     "slug": "google-analytics-4-vodic-za-pocetnike-srbija-2026",
     "title": "Google Analytics 4 vodič za početnike u Srbiji 2026: šta pratiti i kako",
-    "excerpt": "Kako koristiti Google Analytics 4 za male firme u Srbiji. Instalacija, ključni izvestaji, konverzije i kako razumeti odakle dolaze kupci.",
+    "excerpt": "Kako koristiti Google Analytics 4 za male firme u Srbiji. Instalacija, ključni izveštaji, konverzije i kako razumeti odakle dolaze kupci.",
     "date": "2026-03-19",
     "category": "Marketing",
     "readTime": "8 min",
@@ -716,7 +716,7 @@ export const blogIndexPosts = [
   {
     "slug": "google-business-profile-optimizacija-srbija-2026",
     "title": "Google Business Profile optimizacija u Srbiji 2026: kompletna checklista",
-    "excerpt": "Kako optimizovati Google Business profil za lokalni biznis u Srbiji 2026. Checklista sa 15 koraka za vece prisustvo na Google Mapi i više poziva.",
+    "excerpt": "Kako optimizovati Google Business profil za lokalni biznis u Srbiji 2026. Checklista sa 15 koraka za veće prisustvo na Google mapi i više poziva.",
     "date": "2026-03-18",
     "category": "Lokalni SEO",
     "readTime": "8 min",
@@ -1147,8 +1147,8 @@ export const blogIndexPosts = [
   },
   {
     "slug": "alex-hormozi-value-equation-ponuda-koja-se-prodaje-srbija-2026",
-    "title": "Alex Hormozi Value Equation 2026: ponuda koja se prodaje bez spustanja cene",
-    "excerpt": "Kako da primenis Alex Hormozi Value Equation na srpskom tržištu: jasna ponuda, bolji lead quality i veca vrednost klijenta bez dumping cena.",
+    "title": "Alex Hormozi Value Equation: kako da ponuda bude skuplja i lakša za prodaju (Srbija 2026)",
+    "excerpt": "Praktičan vodič kako da primeniš Hormozi value equation na uslužni biznis u Srbiji i podigneš cenu bez pada konverzije.",
     "date": "2026-03-15",
     "category": "Growth",
     "readTime": "11 min",
@@ -1652,7 +1652,7 @@ export const blogIndexPosts = [
   {
     "slug": "instagram-ads-cpc-budzet-plan-srbija-2026",
     "title": "Instagram Ads cena po kliku u Srbiji 2026: realni CPC rasponi i budžet plan",
-    "excerpt": "Koliko realno košta klik na Instagram oglasima u Srbiji 2026, od cega zavisi CPC i kako da planirate budžet bez skupih grešaka.",
+    "excerpt": "Koliko realno košta klik na Instagram oglasima u Srbiji 2026, od čega zavisi CPC i kako da planirate budžet bez skupih grešaka.",
     "date": "2026-03-11",
     "category": "Instagram Ads",
     "readTime": "8 min",
@@ -2129,7 +2129,7 @@ export const blogIndexPosts = [
   {
     "slug": "koliko-traje-seo-da-donese-rezultate-u-srbiji",
     "title": "Koliko traje SEO da donese rezultate u Srbiji (realni rokovi za 2026)",
-    "excerpt": "SEO nije sprint ni magija preko noci. Pogledajte realne rokove po fazama, šta se meri u prvih 30/60/90 dana i kako da znate da li strategija stvarno radi.",
+    "excerpt": "SEO nije sprint ni magija preko noći. Pogledajte realne rokove po fazama, šta se meri u prvih 30/60/90 dana i kako da znate da li strategija stvarno radi.",
     "date": "2026-03-10",
     "category": "SEO",
     "readTime": "9 min",
