@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "minimalni-budzet-za-lead-generation-srbija-2026",
+    "title": "Minimalni budžet za lead generation u Srbiji 2026: kada test ima smisla",
+    "excerpt": "Koliko novca treba za ozbiljan lead generation test u Srbiji, kako da izračunate prag isplativosti i zašto premali budžet često napravi loš zaključak o dobrom kanalu.",
+    "date": "2026-06-04",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "kako-prodati-premium-uslugu-bez-spustanja-cene-srbija-2026",
     "title": "Kako prodati premium uslugu bez spuštanja cene u Srbiji 2026",
     "excerpt": "Premium usluga ne prodaje se tako što objašnjavate koliko ste dobri. Prodaje se kroz bolju dijagnostiku, jasniji rizik, dokaz i ponudu zbog koje popust više nije glavna tema.",

@@ -1,5 +1,144 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'minimalni-budzet-za-lead-generation-srbija-2026',
+    title: 'Minimalni budžet za lead generation u Srbiji 2026: kada test ima smisla',
+    excerpt: 'Koliko novca treba za ozbiljan lead generation test u Srbiji, kako da izračunate prag isplativosti i zašto premali budžet često napravi loš zaključak o dobrom kanalu.',
+    date: '2026-06-04',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Lead Generation', 'Budžet', 'ROI', 'Digitalni marketing'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Premali test često napravi pogrešan zaključak
+
+Mnogo firmi u Srbiji krene u lead generation sa pitanjem: "Koliko najmanje moramo da potrošimo da vidimo da li radi?"
+
+Pitanje je razumljivo. Niko ne voli da spaljuje novac na oglase. Problem nastaje kada se "minimalni budžet" shvati kao najniži iznos koji platforma tehnički dozvoljava, a ne kao iznos koji može da proizvede dovoljno podataka za odluku.
+
+Onda se desi tipična scena: pusti se mali budžet, dođe nekoliko klikova, jedan ili dva slaba upita, prodaja ne zatvori ništa i kanal dobije etiketu da ne radi. Možda stvarno ne radi. Ali često je test bio toliko tanak da ništa nije mogao da pokaže.
+
+Za lead generation, minimalni budžet nije pitanje hrabrosti. To je pitanje uzorka.
+
+## Šta zapravo testirate
+
+Lead generation test ne testira samo oglas. Testira ceo put od pažnje do razgovora.
+
+U jednom realnom testu proveravate:
+
+- da li ljudi reaguju na ponudu,
+- koliko košta klik ili poseta,
+- koliko posetilaca ostavlja kontakt,
+- koliko tih kontakata ima smisla za prodaju,
+- koliko brzo tim odgovara,
+- koliko leadova se pretvara u ponudu,
+- koliko ponuda se zatvara.
+
+Zato je opasno meriti samo cenu leada. Jeftin lead koji nema budžet, lokaciju, potrebu ili rok nije pobeda. Samo je jeftin zapis u tabeli.
+
+Ako još nemate okvirne brojeve za tržište, pogledajte [cenu po leadu po industriji](/blog/cena-po-leadu-po-industriji-benchmark-statistika-2026). Ne zato da slepo prepišete benchmark, nego da ne očekujete 50 kvalitetnih B2B upita za budžet koji je dovoljan za par ozbiljnih klikova.
+
+## Formula za minimalni test budžet
+
+Najjednostavniji model izgleda ovako:
+
+1. Izaberite cilj: koliko kvalifikovanih leadova vam treba da donesete odluku.
+2. Procenite očekivani CPL za kanal.
+3. Pomnožite taj broj sa 20 do 30 leadova.
+4. Dodajte prostor za korekcije, obično još 20 do 30%.
+
+Ako očekujete da kvalitetan lead košta 25 evra, test od 200 evra neće reći mnogo. To je osam leadova u najboljem slučaju, pre nego što odbijete loše upite, duple forme, pogrešne gradove i ljude koji samo pitaju cenu.
+
+U tom scenariju razumniji test je bliži 600 do 900 evra za medijski budžet. Ne zato što agencija želi veći račun, nego zato što uzorak mora da preživi malo realnosti.
+
+Za usluge gde jedan novi klijent vredi 1.000, 2.000 ili 5.000 evra, veći test budžet može biti racionalniji od jeftinog testa koji ne nauči ništa.
+
+## Tri budžeta koja ne treba mešati
+
+Firmama se često pomešaju tri različite stvari.
+
+Prvi je budžet za dokaz da postoji interesovanje. To je najraniji test. Tu ne očekujete savršenu profitabilnost. Očekujete signal: klikovi, upiti, prvi razgovori, jasne zamerke tržišta.
+
+Drugi je budžet za optimizaciju. Tu već znate da interesovanje postoji, ali popravljate landing stranicu, kvalifikaciju, follow-up i oglase. Ovde se spušta cena kvalitetnog kontakta.
+
+Treći je budžet za skaliranje. Tu više ne pitate da li kanal može da radi. Pitate koliko brzo može da raste bez pada kvaliteta.
+
+Greška je kada firma sa budžetom za prvi test očekuje ponašanje kao da je u trećoj fazi. Još gore je kada posle slabog prvog testa poveća potrošnju bez popravljanja stranice i prodajnog procesa.
+
+Ako već znate da je problem na stranici, prvo sredite [CRO i konverziju sajta](/cro). Veći oglasni budžet neće popraviti formu koju ljudi ne popunjavaju.
+
+## Koliko je dovoljno za Google Ads, Meta i LinkedIn
+
+Za Google Ads u Srbiji, test budžet zavisi od cene klika i namere. Lokalna usluga može dobiti signal sa nekoliko stotina evra. Konkurentna B2B ili medicinska niša često traži više jer klikovi nisu jeftini, a pogrešan keyword brzo pojede novac.
+
+Ako tek planirate Google kampanje, krenite od stranice [Google reklame cena](/google-reklame-cena). Tamo je lakše videti zašto isti mesečni budžet ne znači isto za stomatologa, knjigovođu, e-commerce i lokalnog majstora.
+
+Meta kampanje mogu brže skupiti podatke o kreativama i publici, ali tu je intent hladniji. Lead može biti jeftiniji, a razgovor slabiji. Zato Meta test mora da uključi kvalitet leadova, ne samo broj formi.
+
+LinkedIn je druga priča. B2B leadovi mogu biti skupi, ali jedan dobar sastanak može vratiti više meseci budžeta. Tu mali test često izgleda loše jer nema dovoljno impresija, klikova i konverzija da se vidi obrazac.
+
+## Sakriveni troškovi koje firme zaborave
+
+Nije svaki dinar u testu medijski budžet.
+
+Pre kampanje obično treba srediti tracking, landing stranicu, poruke, ponudu i način kvalifikacije. Ako toga nema, oglasi samo brže šalju ljude u nejasan sistem.
+
+Najčešće greške izgledaju ovako:
+
+- kampanja šalje ljude na opštu početnu stranu,
+- forma pita premalo, pa prodaja dobija slabe upite,
+- forma pita previše, pa dobri ljudi odustanu,
+- niko ne zove lead istog dana,
+- prodaja ne beleži razlog odbijanja,
+- vlasnik gleda samo trošak, a ne vrednost zatvorenih poslova.
+
+Zato ozbiljan budžet za lead generation treba da ima dve linije: potrošnju na kanalu i rad na sistemu koji taj kanal prima.
+
+Ako planirate širi marketing plan, korisno je prvo proći kroz [cene digitalnog marketinga](/cene-digitalnog-marketinga), pa tek onda odlučiti koliko ide na oglase, landing stranicu, SEO, content i prodajni follow-up.
+
+## Kada test treba zaustaviti
+
+Dobar test nema beskonačan rok. Pre početka treba znati kada stajete.
+
+Zaustavite test ako posle dovoljno klikova nema nijednog znaka interesovanja. Zaustavite ga ako leadovi stalno dolaze iz pogrešne publike i poruka se ne može popraviti bez promene ponude. Zaustavite ga ako prodaja ne može da obradi upite dovoljno brzo, jer tada ne merite marketing nego kašnjenje.
+
+Ali nemojte zaustaviti test samo zato što prvi lead nije kupio. Jedan lead nije tržište. Pet leadova često nije tržište. Dvadeset do trideset kvalifikovanih kontakata već može da pokaže obrazac.
+
+Tu pomaže [ROI kalkulator](/alati/roi-kalkulator). Unesite prosečnu vrednost klijenta, maržu, stopu zatvaranja i očekivanu cenu leada. Ako brojke ne mogu da se slože ni u kalkulatoru, oglas ih neće magično popraviti.
+
+## Primer budžeta za uslužnu firmu
+
+Recimo da firma prodaje uslugu od 1.500 evra, sa zdravom maržom i prosečnom stopom zatvaranja od 20% na kvalifikovane upite.
+
+Ako je realan CPL 30 evra, 30 leadova košta oko 900 evra. Od tih 30, možda je 20 stvarno kvalifikovano. Ako prodaja zatvori četiri klijenta, prihod je 6.000 evra. Čak i kada uračunate agencijski fee, landing doradu i vreme tima, test ima smisla.
+
+Ako ista firma pusti samo 150 evra, dobiće možda pet leadova. Dva će biti slaba, jedan se neće javiti, jedan će odložiti odluku, jedan će pitati za cenu. Zaključak će zvučati kao "oglasi ne rade", ali uzorak nije bio dovoljan.
+
+To je najskuplja vrsta štednje: potrošite malo, ne naučite ništa i odložite kanal koji je možda mogao da radi.
+
+## Praktičan plan za prvi mesec
+
+Za prvi mesec lead generation testa uradite ovo:
+
+1. Odredite koliko vredi jedan novi klijent.
+2. Izračunajte maksimalnu cenu kvalifikovanog leada koju možete da podnesete.
+3. Izaberite jedan kanal, ne tri odjednom.
+4. Napravite landing stranicu za jednu ponudu.
+5. Postavite tracking za forme, pozive i izvore.
+6. Definišite šta je kvalifikovan lead pre nego što kampanja krene.
+7. Svaki lead obradite brzo i zapišite ishod.
+8. Posle 20 do 30 kvalifikovanih kontakata donesite odluku.
+
+Ako nemate budžet za takav test, nije sramota sačekati. Bolje je spremiti ponudu, stranicu i prodajni proces nego pustiti premalo novca i dobiti lažan odgovor.
+
+Ako želite da znate koliko je realno potrebno za vaš slučaj, pošaljite nam osnovne brojeve: usluga, prosečna vrednost klijenta, grad ili tržište, trenutni sajt i kanal koji razmišljate da testirate. Krenite od [kratke konsultacije](/kontakt), pa ćemo složiti test koji meri profit, ne samo klikove.
+`
+  },
+
+  {
     slug: 'kako-prodati-premium-uslugu-bez-spustanja-cene-srbija-2026',
     title: 'Kako prodati premium uslugu bez spuštanja cene u Srbiji 2026',
     excerpt: 'Premium usluga ne prodaje se tako što objašnjavate koliko ste dobri. Prodaje se kroz bolju dijagnostiku, jasniji rizik, dokaz i ponudu zbog koje popust više nije glavna tema.',
