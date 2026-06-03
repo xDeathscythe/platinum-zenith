@@ -1,5 +1,207 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'kako-prodati-premium-uslugu-bez-spustanja-cene-srbija-2026',
+    title: 'Kako prodati premium uslugu bez spuštanja cene u Srbiji 2026',
+    excerpt: 'Premium usluga ne prodaje se tako što objašnjavate koliko ste dobri. Prodaje se kroz bolju dijagnostiku, jasniji rizik, dokaz i ponudu zbog koje popust više nije glavna tema.',
+    date: '2026-06-03',
+    readTime: '8 min read',
+    category: 'Biznis',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Premium ponuda', 'Prodaja', 'Pricing', 'Marketing strategija'],
+    image: '/hero-consulting-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Popust je često simptom, ne strategija
+
+Mnogo firmi u Srbiji ima isti problem: rade dobar posao, ali čim dođu do ozbiljnije cene, razgovor krene nizbrdo.
+
+Klijent pita "može li jeftinije", vlasnik krene da objašnjava kvalitet, iskustvo, materijale, tim, sate rada. Posle deset minuta obe strane su umorne. Klijent i dalje poredi cenu. Firma se oseća kao da mora da se pravda.
+
+To nije problem samo u prodaji. To je problem u načinu na koji je ponuda postavljena pre nego što je klijent uopšte pitao za cenu.
+
+Premium usluga se ne prodaje tako što zvuči skuplje. Prodaje se tako što klijent jasnije vidi šta rizikuje ako izabere pogrešno rešenje.
+
+Ako prodajete sajt, marketing, medicinsku uslugu, enterijer, konsulting ili bilo koju stručnu uslugu, ovo je razlika između "skupo mi je" i "kada možemo da krenemo".
+
+## Zašto klijent traži popust
+
+Klijent najčešće ne traži popust zato što nema novac. Traži ga zato što još ne vidi razliku između vas i jeftinije alternative.
+
+Iz njegove perspektive, tri ponude mogu da izgledaju isto:
+
+- svi kažu da rade kvalitetno,
+- svi imaju lep portfolio,
+- svi obećavaju brzinu,
+- svi tvrde da imaju iskustvo,
+- svi kažu da će biti dostupni.
+
+Kada su poruke iste, cena postaje glavni filter. Tada čak i dobar klijent počne da pregovara kao da kupuje komoditet.
+
+Zato prvi zadatak nije da branite cenu. Prvi zadatak je da prestanete da zvučite zamenljivo.
+
+## 1. Počnite od dijagnostike, ne od ponude
+
+Jeftina ponuda obično kreće ovako: "Evo šta dobijate za X evra."
+
+Premium ponuda kreće drugačije: "Evo šta se zapravo dešava, zašto vas to košta i šta treba rešiti prvim redom."
+
+Dijagnostika menja ton razgovora. Umesto da klijent procenjuje samo isporuku, počinje da procenjuje vaše razumevanje problema.
+
+Primer za marketing:
+
+Loše: "Vodimo Google i Meta kampanje."
+
+Bolje: "Trenutno ne znate da li problem nastaje u oglasu, landing stranici ili kvalifikaciji leadova. Ako to ne razdvojimo, možete trošiti više budžeta i samo brže praviti isti gubitak."
+
+Primer za izradu sajta:
+
+Loše: "Radimo moderan sajt sa SEO optimizacijom."
+
+Bolje: "Vaš trenutni sajt ne objašnjava kome je usluga namenjena, nema jasan sledeći korak i ne meri upite. Redizajn bez toga samo će lepše sakriti isti problem."
+
+Klijent plaća više kada vidi da vi vidite dublje od njega.
+
+## 2. Pokažite cenu greške
+
+Premium cena postaje prihvatljivija kada je greška skuplja od rešenja.
+
+Ako samo kažete da je vaša usluga kvalitetna, to je tvrdnja. Ako pokažete šta loše rešenje realno košta, razgovor postaje konkretniji.
+
+Na primer:
+
+- loš sajt ne košta 500 evra manje, nego gubi upite svakog meseca,
+- loše podešena kampanja ne troši samo budžet, nego kvari podatke za optimizaciju,
+- loša landing stranica ne izgleda samo slabije, nego diže cenu svakog kvalitetnog kontakta,
+- loš izbor agencije ne košta samo fee, nego 3 do 6 meseci izgubljenog fokusa.
+
+To ne treba pisati dramatično. Dovoljno je da bude jasno.
+
+Jedna dobra rečenica često vredi više od deset generičkih benefita:
+
+> Problem nije što je profesionalno rešenje skuplje. Problem je što je jeftino rešenje često samo prvi račun u nizu.
+
+## 3. Razbijte ponudu na odluke koje klijent razume
+
+Premium ponude često propadnu jer su napisane kao lista deliverable-a.
+
+Klijent dobije:
+
+- strategiju,
+- dizajn,
+- implementaciju,
+- tracking,
+- optimizaciju,
+- izveštavanje.
+
+To može biti tačno, ali ne pomaže mnogo. Klijent ne kupuje vaše interne faze rada. Kupuje sigurnost da će doneti bolju odluku.
+
+Zato ponudu treba prevesti u pitanja koja njega muče:
+
+- gde trenutno curi novac,
+- šta prvo popravljamo,
+- kako znamo da radi,
+- šta ne radimo da ne bismo rasuli fokus,
+- kada ima smisla širiti budžet,
+- šta se dešava ako prvi test ne uspe.
+
+Kada klijent razume logiku procesa, cena ne izgleda kao zbir sati. Izgleda kao kontrola rizika.
+
+## 4. Ne prodajte sve svima
+
+Premium pozicioniranje se raspada kada firma pokušava da bude dobra za svakoga.
+
+Ako na sajtu piše da radite "sve vrste digitalnog marketinga za sve tipove biznisa", niste fleksibilni. Nejasni ste.
+
+Mnogo je jače kada kažete:
+
+- radimo sa firmama koje već imaju ponudu, ali nemaju stabilan tok kvalitetnih upita,
+- ne ulazimo u kampanje ako tracking nije postavljen,
+- ne obećavamo rezultat bez test perioda,
+- ne skaliramo budžet dok ne znamo koji kanal donosi profitabilan lead.
+
+Ovakve granice ne odbijaju dobre klijente. Odbijaju pogrešne razgovore.
+
+Premium usluga mora da ima kriterijume. Ako nema kriterijume, klijent pretpostavlja da je sve pitanje cene.
+
+## 5. Dokaz mora biti bliži problemu
+
+Portfolio je koristan, ali često nije dovoljan.
+
+Ako prodajete premium uslugu, dokaz treba da bude vezan za konkretan problem koji klijent ima. Nije dovoljno pokazati lep rezultat. Treba pokazati šta se promenilo.
+
+Bolji dokaz izgleda ovako:
+
+- pre: mnogo saobraćaja, malo upita,
+- problem: landing stranica nije pratila intent iz oglasa,
+- promena: nova struktura, kraća forma, jasniji CTA,
+- rezultat: više kvalifikovanih upita uz isti budžet.
+
+Čak i ako ne smete da objavite ime klijenta, možete objaviti obrazac razmišljanja. To je često vrednije od screenshot-a bez konteksta.
+
+Ako imate case study, povežite ga sa ponudom. Ako nemate case study, pokažite mini dijagnozu, audit ili primer odluke. Klijent mora da vidi kako razmišljate pre nego što vas plati.
+
+## 6. Popust zamenite boljim okvirom
+
+Popust nije uvek problem. Problem je kada popust postane podrazumevani odgovor na nesigurnost.
+
+Umesto da spuštate cenu, bolje je promeniti okvir:
+
+- smanjiti scope,
+- pomeriti rok,
+- razdvojiti faze,
+- izbaciti manje bitne elemente,
+- ponuditi početnu dijagnostiku pre punog projekta.
+
+Tako čuvate cenu rada, a i dalje dajete klijentu put ako ne može odmah da uđe u pun paket.
+
+Na primer:
+
+"Možemo smanjiti cenu ako izbacimo deo koji se odnosi na napredni tracking i ostavimo ga za drugu fazu. Ne bih spuštao cenu za isti obim, jer bi to značilo da moramo da skratimo deo procesa koji čuva kvalitet rezultata."
+
+To zvuči drugačije od "mogu da vam dam 10% popusta".
+
+## 7. Sajt mora da pripremi prodajni razgovor
+
+Ako prodajete premium uslugu, sajt ne sme da bude samo lep katalog.
+
+Sajt treba da uradi deo prodaje pre nego što osoba zakaže poziv:
+
+- da objasni za koga je usluga,
+- da pokaže koje probleme rešava,
+- da kaže šta ne radite,
+- da prikaže proces,
+- da uvede dokaz,
+- da normalizuje višu cenu kroz rizik pogrešnog izbora.
+
+Zato su blogovi, service stranice i case study stranice važni. Ne zato što neko voli da čita, nego zato što dobar sadržaj smanjuje otpor u prodajnom razgovoru.
+
+Ako klijent dođe na poziv i već razume vašu logiku, ne počinjete od nule. Počinjete od odluke.
+
+Za firmu koja želi da prodaje skuplje usluge, korisno je prvo srediti [stranicu usluge](/web-design), zatim [landing stranicu](/blog/kako-napraviti-landing-stranicu-koja-konvertuje), pa tek onda skalirati oglase.
+
+## Kratak plan za sledećih 30 dana
+
+Ako trenutno prodajete premium uslugu, a previše razgovora se završi na ceni, nemojte odmah menjati cenovnik.
+
+Prvo uradite ovo:
+
+1. Napišite tri najskuplje greške koje klijent pravi kada bira jeftinije rešenje.
+2. Pretvorite te greške u jedan blog ili service page sekciju.
+3. Dodajte mini dijagnostiku pre ponude.
+4. U ponudi razdvojite obavezne i opcione faze.
+5. Zamenite popust smanjenim scope-om.
+6. Na sajtu jasno napišite za koga usluga nije.
+7. Merite koliko prodajnih razgovora posle toga i dalje počinje pitanjem "koliko košta".
+
+Ovo nije magija. Samo vraća razgovor tamo gde treba da bude: na vrednost, rizik i rezultat.
+
+Ako želite da premium ponuda ne zvuči kao skuplja verzija iste stvari, možemo vam pomoći da složite stranicu, blogove i prodajni tok koji klijenta vodi do odluke pre prvog poziva. Krenite od [kratke konsultacije](/kontakt), pa ćemo zajedno videti gde vaša ponuda trenutno gubi snagu.
+`
+  },
+
+  {
     slug: 'google-ads-vodic-za-pocetnike-srbija-2026',
     title: 'Google Ads vodič za početnike u Srbiji 2026: kako krenuti bez bacanja budžeta',
     excerpt: 'Praktičan Google Ads vodič za početnike u Srbiji: kako da izaberete prvu kampanju, složite ključne reči, odredite budžet i izbegnete greške koje najbrže spaljuju novac.',

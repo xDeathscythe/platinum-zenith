@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "kako-prodati-premium-uslugu-bez-spustanja-cene-srbija-2026",
+    "title": "Kako prodati premium uslugu bez spuštanja cene u Srbiji 2026",
+    "excerpt": "Premium usluga ne prodaje se tako što objašnjavate koliko ste dobri. Prodaje se kroz bolju dijagnostiku, jasniji rizik, dokaz i ponudu zbog koje popust više nije glavna tema.",
+    "date": "2026-06-03",
+    "category": "Biznis",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-vodic-za-pocetnike-srbija-2026",
     "title": "Google Ads vodič za početnike u Srbiji 2026: kako krenuti bez bacanja budžeta",
     "excerpt": "Praktičan Google Ads vodič za početnike u Srbiji: kako da izaberete prvu kampanju, složite ključne reči, odredite budžet i izbegnete greške koje najbrže spaljuju novac.",
