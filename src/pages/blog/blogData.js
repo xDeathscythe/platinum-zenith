@@ -1,5 +1,160 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'maksimalna-cena-leada-srbija-2026',
+    title: 'Maksimalna cena leada u Srbiji 2026: koliko smete da platite za upit',
+    excerpt: 'Praktičan način da izračunate maksimalnu cenu leada pre nego što povećate budžet za Google, Meta ili LinkedIn kampanje.',
+    date: '2026-06-05',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Lead Generation', 'CPL', 'ROI', 'Marketing budžet'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Cena leada nije dobra ili loša sama po sebi
+
+Firma može da plaća lead 8 evra i da gubi novac. Druga firma može da plaća 80 evra i da bude zadovoljna, jer iz svakog desetog upita zatvori posao od nekoliko hiljada evra.
+
+Zato pitanje "koliko treba da košta lead" često vodi u pogrešnom pravcu. Bolje pitanje je: koliko smemo da platimo za kvalifikovan upit, a da prodaja i dalje ima smisla?
+
+Tu mnoge kampanje puknu. Ne zato što Google, Meta ili LinkedIn ne rade. Puknu jer firma krene od osećaja, kopira tuđi benchmark i onda pokušava da ugura tržište u broj koji nikada nije izračunala.
+
+Ako već planirate mesečni budžet, otvorite i vodič za [cene digitalnog marketinga](/cene-digitalnog-marketinga). Ovaj tekst se bavi jednim delom te priče: gornjom granicom koju lead generation sme da plati pre nego što prestane da bude profitabilan.
+
+## Prvo definišite šta zovete leadom
+
+Najjeftiniji problem u marketingu je klik. Najskuplji problem je pogrešno nazvan lead.
+
+Neke firme u leadove računaju svaki kontakt iz forme. Tu ulaze studenti koji pitaju za praksu, konkurencija, ljudi bez budžeta, pogrešni gradovi i poruke od jedne rečenice. Posle se kampanja oceni kao uspešna jer je CPL nizak.
+
+Prodaji to ne znači mnogo.
+
+Za računicu maksimalne cene leada prvo odvojite tri nivoa:
+
+1. Sirov lead: osoba je ostavila kontakt.
+2. Kvalifikovan lead: ima problem, lokaciju, budžet ili rok koji ima smisla.
+3. Prodajna prilika: neko sa kim vredi ući u ozbiljan razgovor ili poslati ponudu.
+
+Ako gledate samo sirov lead, lako ćete spustiti cenu i pokvariti kvalitet. Ako gledate samo zatvorenu prodaju, trebaće vam više vremena da sakupite dovoljno podataka. Za većinu firmi je najpraktičnije da prvo računaju maksimalnu cenu kvalifikovanog leada, pa zatim da je povežu sa prodajom.
+
+## Formula za maksimalnu cenu leada
+
+Osnovna formula je jednostavna:
+
+Maksimalni CPL = vrednost novog klijenta × bruto marža × stopa zatvaranja × procenat koji sme da ode na akviziciju
+
+Primer za uslužnu firmu:
+
+- prosečan novi klijent vredi 1.200 evra,
+- bruto marža je 60%,
+- prodaja zatvara 20% kvalifikovanih leadova,
+- firma želi da akvizicija pojede najviše 30% bruto profita.
+
+Računica izgleda ovako: 1.200 × 0,60 × 0,20 × 0,30 = 43,20 evra.
+
+To znači da firma u ovom primeru može da plati oko 43 evra za kvalifikovan lead ako ostali brojevi ostanu isti. Ako lead košta 25 evra, ima prostora. Ako košta 70 evra, kampanja možda i dalje može da radi, ali samo ako poraste vrednost klijenta, marža ili stopa zatvaranja.
+
+Za brzu proveru možete uneti svoje brojeve u [ROI kalkulator](/alati/roi-kalkulator). Bitno je da ne računate samo prihod. Marža odlučuje koliko novca stvarno ostaje za akviziciju.
+
+## Gde računica najčešće vara
+
+Najčešća greška je da firma uzme prosečnu vrednost ugovora i zaboravi sve što se desi između leada i naplate.
+
+Na papiru deluje dobro: usluga košta 1.000 evra, pa lead od 50 evra izgleda jeftino. U stvarnosti, polovina upita nije kvalifikovana, deo ljudi ne dođe na poziv, deo traži najnižu cenu, a deo prodaja izgubi jer nema brz follow-up.
+
+Zato u računicu treba ubaciti realne konverzije:
+
+- koliko sirovih leadova postane kvalifikovano,
+- koliko kvalifikovanih leadova uđe u prodajni razgovor,
+- koliko razgovora završi ponudom,
+- koliko ponuda se zatvori,
+- koliko vremena prođe do naplate.
+
+Ako nemate ove brojeve, krenite grubo. Bolje je imati nesavršen model nego voditi budžet po osećaju. Posle 30 do 60 dana uporedite model sa realnim CRM podacima i ispravite ga.
+
+## Kada je skuplji lead bolji
+
+Skup lead nije automatski problem. Problem je lead koji nema šansu da postane profit.
+
+Kod B2B usluga, privatnih klinika, građevine, opreme, nameštaja po meri ili knjigovodstvenih agencija, jedan dobar klijent često vredi dovoljno da pokrije više promašenih upita. Tu je veća greška juriti najniži CPL nego zaštititi kvalitet.
+
+Primer: kampanja A donosi leadove po 12 evra, ali samo 1 od 40 postane klijent. Kampanja B donosi leadove po 45 evra, ali 1 od 8 postane klijent. Kampanja B izgleda skuplje u Ads Manager-u, ali je prodajno zdravija.
+
+Zbog toga Google Ads često radi bolje za namere koje su bliže kupovini. Ako neko traži "knjigovodstvena agencija cena" ili "izrada landing stranice cena", signal je jasniji nego kod publike koja pasivno skroluje. Za okvir potrošnje na Search kanalu pogledajte [Google reklame cena](/google-reklame-cena).
+
+## Kada je jeftin lead opasan
+
+Jeftin lead ume da napravi najlepši izveštaj i najgoru prodaju.
+
+To se obično desi kada kampanja obeća nešto što prodaja ne može da isporuči: besplatnu procenu bez kvalifikacije, prenisku cenu, preširoku uslugu ili generičan mamac koji privlači radoznale ljude umesto kupaca.
+
+Na mesečnom izveštaju sve izgleda fino. CPL pada, forme stižu, grafikon je zelen. U prodaji nastane druga slika: ljudi ne odgovaraju, nemaju budžet, traže posao odmah za juče ili se ne uklapaju u uslugu.
+
+Zato svaki lead generation sistem treba da meri bar dva broja: cenu leada i cenu kvalifikovanog leada. Ako je razlika ogromna, problem nije samo u oglasu. Problem je u obećanju, targetiranju, landing stranici ili kvalifikacionim pitanjima.
+
+Ako stranica skuplja puno slabih upita, pre povećanja budžeta sredite [CRO optimizaciju](/cro). Nekad je dovoljno dodati raspon cena, jasan opis kome usluga nije namenjena i dva kvalifikaciona pitanja u formi.
+
+## Kako povezati budžet sa maksimalnim CPL-om
+
+Kada znate maksimalni CPL, lakše je odrediti minimalni test budžet.
+
+Ako je vaša granica 40 evra po kvalifikovanom leadu, test od 150 evra ne može mnogo da kaže. U najboljem slučaju dobijate nekoliko upita. To nije dovoljno da procenite kvalitet, prodaju, landing stranicu i poruku.
+
+Za ozbiljniji test obično želite bar 20 do 30 kvalifikovanih leadova ili dovoljno prodajnih razgovora da vidite obrazac. Zato postoji odvojen vodič za [minimalni budžet za lead generation](/blog/minimalni-budzet-za-lead-generation-srbija-2026). Maksimalni CPL vam kaže koliko smete da platite, a minimalni budžet kaže koliko uzorka vam treba da zaključak ne bude slučajan.
+
+Praktičan redosled:
+
+1. Izračunajte maksimalni CPL.
+2. Odredite koliko kvalifikovanih leadova vam treba za odluku.
+3. Pomnožite ta dva broja.
+4. Dodajte 20 do 30% prostora za testiranje poruka, publika i landing stranice.
+
+Ako broj deluje previsoko, nemojte ga samo smanjiti dok ne postane prijatan. Tada niste promenili ekonomiju, samo ste umirili tabelu.
+
+## Šta raditi kada CPL pređe granicu
+
+Ako kampanja plaća više od maksimalne cene leada, ne znači da je treba odmah ugasiti. Prvo pogledajte gde curi novac.
+
+Postoje četiri glavna pravca:
+
+- povećati vrednost klijenta kroz bolju ponudu, paket ili upsell,
+- podići stopu zatvaranja bržim odgovorom i boljom prodajnom skriptom,
+- popraviti landing stranicu da više posetilaca ostavi dobar upit,
+- suziti kampanju na namere i publike koje donose kvalitet.
+
+Dosta firmi odmah seče budžet. To je nekad ispravno, ali često samo sakrije problem. Ako prodaja kasni 24 sata sa odgovorom, ni savršena kampanja neće spasiti matematiku. Ako landing stranica ne kaže cenu, rok ili sledeći korak, dobićete ljude koji nisu spremni za razgovor.
+
+## Kratak primer za lokalnu uslugu
+
+Recimo da firma radi lokalnu uslugu gde prosečan klijent donese 300 evra prihoda. Marža je 50%, a prodaja zatvara 25% kvalifikovanih leadova. Firma želi da akvizicija pojede najviše 35% bruto profita.
+
+Maksimalni CPL je: 300 × 0,50 × 0,25 × 0,35 = 13,12 evra.
+
+Tu lead od 30 evra verovatno nema smisla osim ako postoji ponovna kupovina, veći paket ili bolja stopa zatvaranja. Ali lead od 10 evra nije automatski dobar ako se pola upita ne javlja ili nije iz servisne zone.
+
+Zato lokalne kampanje moraju da mere pozive, forme, klikove na mapu i ishod razgovora. Sam klik na oglas ne govori dovoljno.
+
+## Kratak primer za B2B uslugu
+
+B2B usluga može imati potpuno drugačiju računicu. Ako novi klijent vredi 3.000 evra, marža je 70%, prodaja zatvara 15% kvalifikovanih leadova, a akvizicija sme da pojede 25% bruto profita, maksimalni CPL je 78,75 evra.
+
+To ne znači da treba radosno plaćati svaki upit 78 evra. Znači da kampanja ima prostor da kupi kvalitetniji intent, jaču landing stranicu, bolju kvalifikaciju i duži prodajni proces.
+
+Kod ovakvih usluga najgori potez je optimizovati kampanju za najjeftiniju formu. Bolje je imati manje upita koji liče na prave kupce nego pun inbox ljudi koji nikada neće kupiti.
+
+## Zaključak: prvo matematika, onda skaliranje
+
+Maksimalna cena leada je granica koja čuva marketing od lepih, ali praznih izveštaja. Bez nje tim lako počne da slavi jeftine upite ili da paniči zbog skupljih leadova koji zapravo donose bolju prodaju.
+
+Dobar model ne mora biti komplikovan. Treba da poveže vrednost klijenta, maržu, stopu zatvaranja i deo profita koji ste spremni da uložite u akviziciju. Posle toga se lakše odlučuje da li kampanju treba popraviti, povećati ili ugasiti.
+
+Ako želite da proverimo vašu trenutnu cenu leada, pošaljite nam prosečnu vrednost klijenta, maržu, trenutni CPL i koliko leadova se zatvara. Krenite od [kontakt forme](/kontakt), pa ćemo brzo videti da li je problem u budžetu, stranici, ponudi ili prodajnom procesu.
+`
+  },
+
+  {
     slug: 'google-ads-za-opticarske-radnje-cena-pregleda-srbija-2026',
     title: 'Google Ads za optičarske radnje u Srbiji 2026: cena pregleda i kupca',
     excerpt: 'Koliko optičarska radnja treba da uloži u Google Ads, koje pretrage vrede novac i zašto kampanja mora da meri zakazane preglede, pozive i kupovinu naočara.',

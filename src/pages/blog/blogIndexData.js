@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "maksimalna-cena-leada-srbija-2026",
+    "title": "Maksimalna cena leada u Srbiji 2026: koliko smete da platite za upit",
+    "excerpt": "Praktičan način da izračunate maksimalnu cenu leada pre nego što povećate budžet za Google, Meta ili LinkedIn kampanje.",
+    "date": "2026-06-05",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-opticarske-radnje-cena-pregleda-srbija-2026",
     "title": "Google Ads za optičarske radnje u Srbiji 2026: cena pregleda i kupca",
     "excerpt": "Koliko optičarska radnja treba da uloži u Google Ads, koje pretrage vrede novac i zašto kampanja mora da meri zakazane preglede, pozive i kupovinu naočara.",
