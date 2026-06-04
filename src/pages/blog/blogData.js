@@ -1,5 +1,149 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'google-ads-za-opticarske-radnje-cena-pregleda-srbija-2026',
+    title: 'Google Ads za optičarske radnje u Srbiji 2026: cena pregleda i kupca',
+    excerpt: 'Koliko optičarska radnja treba da uloži u Google Ads, koje pretrage vrede novac i zašto kampanja mora da meri zakazane preglede, pozive i kupovinu naočara.',
+    date: '2026-06-04',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Optičari', 'Lokalni marketing', 'Lead Generation'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Optičarska radnja ne kupuje klikove, nego termine i kupce
+
+Google Ads za optičarske radnje u Srbiji ima smisla kada kampanja hvata ljude koji već imaju problem: pukao im je ram, treba im pregled vida, traže dioptrijske naočare, sočiva ili sunčane naočare u svom gradu.
+
+Tu je namera jaka. Neko ko kuca "optičar Novi Sad" ili "pregled vida Beograd cena" nije u fazi razonode. Već bira gde će otići.
+
+Greška koju dosta lokalnih radnji pravi je da kampanju postavi kao običan oglas za brend. Pusti se nekoliko širokih ključnih reči, sve ide na početnu stranu, meri se samo klik, a prodaja se kasnije svodi na utisak: "bilo je poziva" ili "nije se isplatilo". To nije dovoljno za odluku.
+
+Za optiku treba meriti tri stvari: zakazane preglede, pozive i realne kupovine. Ako merite samo saobraćaj, kampanja može izgledati aktivno dok zapravo ne donosi ljude u radnju.
+
+## Koliki budžet ima smisla za test
+
+Za jednu optičarsku radnju u Srbiji, razuman test budžet za Google Ads obično počinje oko 300 do 700 evra mesečno za medijsku potrošnju. Za veći grad, više lokacija ili agresivniju konkurenciju, okvir se lakše pomera ka 800 do 1.500 evra.
+
+Manji budžet može da posluži ako je tržište usko i kampanja cilja samo nekoliko pretraga sa jakom namerom. Na primer: "optičar blizu mene", "pregled vida", "dioptrijske naočare" i "kontaktna sočiva" uz grad ili opštinu.
+
+Problem nastaje kada optika sa 150 evra očekuje stabilan zaključak. Nekoliko klikova dnevno, par poziva i jedan slab termin nisu uzorak. Možda kampanja nije dobra. Možda landing stranica ne radi. Možda se pozivi ne javljaju brzo. Bez dovoljno podataka, sve liči na nagađanje.
+
+Ako planirate prvi test, uporedite okvir sa opštom stranicom za [Google reklame cena](/google-reklame-cena). Optičarska radnja ima lokalni intent, ali vrednost kupca nije ista za običan pregled, naočare od 80 evra i premium progresivna stakla.
+
+## Koje pretrage vrede najviše
+
+Nisu sve pretrage za optičare iste.
+
+Pretrage sa najjačom namerom su obično:
+
+- "optičar" plus grad ili opština,
+- "pregled vida" plus grad,
+- "dioptrijske naočare cena",
+- "kontaktna sočiva" plus lokacija,
+- "popravka naočara" ako radnja to radi,
+- nazivi brendova koje stvarno imate u ponudi.
+
+Široke pretrage tipa "naočare" ili "sunčane naočare" mogu doneti dosta klikova, ali deo publike samo razgleda modele, poredi online prodavnice ili traži slike. To nije uvek loše, ali nije isti kvalitet kao osoba koja traži pregled vida u blizini.
+
+Česta greška je da se sve ove namere ubace u jednu kampanju i da isti oglas vodi na istu stranicu. Pregled vida, popravka rama i kupovina premium naočara nisu isti razgovor. Svaka namera treba da dobije poruku koja joj odgovara.
+
+## Landing stranica za optiku mora da skine trenje
+
+Ako oglas obećava pregled vida, stranica mora odmah da odgovori na pitanja koja ljudi imaju pre zakazivanja.
+
+Dobro je da stranica jasno kaže:
+
+- gde se radnja nalazi,
+- da li se pregled zakazuje i koliko traje,
+- da li je pregled besplatan uz kupovinu,
+- koje vrste naočara i sočiva postoje,
+- da li radnja radi sa decom, vozačima, kancelarijskim radnicima ili progresivnim staklima,
+- kako se zakazuje termin,
+- broj telefona koji se lako klikće na mobilnom.
+
+Mnoge optike šalju plaćen saobraćaj na početnu stranu sa lepim slikama ramova. To izgleda pristojno, ali ne rešava odluku. Posetilac mora da traži radno vreme, lokaciju, uslugu i način zakazivanja. Deo ljudi jednostavno ode na sledeći rezultat.
+
+Ako stranica ima slab poziv na akciju, prvo sredite [CRO optimizaciju](/cro). Nije poenta da plaćate više klikova za stranicu koja ne vodi ljude do telefona ili termina.
+
+## Kako podeliti kampanju
+
+Za optičarsku radnju bih krenula jednostavno.
+
+Prva kampanja hvata lokalne pretrage sa jakom namerom: optičar, optika, pregled vida, kontaktna sočiva i popravka naočara uz grad. Tu budžet ide na ljude koji već traže rešenje.
+
+Druga kampanja može da pokrije proizvode sa boljom maržom: progresivna stakla, premium ramovi, zaštitna stakla za ekran, sportske naočare ili dečije naočare. Ova kampanja traži bolju segmentaciju jer ljudi često istražuju pre kupovine.
+
+Treća kampanja ima smisla tek kada prve dve rade. To može biti remarketing za ljude koji su posetili stranicu, ali nisu zakazali, ili kampanja za sezonsku ponudu sunčanih naočara. Nema smisla kretati od remarketinga ako osnovne pretrage još nisu čiste.
+
+## Šta obavezno meriti
+
+Optika ne treba da meri samo formu. Dobar deo kupaca će pozvati direktno ili kliknuti na mapu.
+
+Minimalni tracking treba da pokrije:
+
+- klik na broj telefona,
+- poslate forme za zakazivanje,
+- klik na Google Maps rutu,
+- pozive iz oglasa,
+- izvor zakazanog termina u evidenciji radnje,
+- prodaju nakon termina, makar ručno u tabeli.
+
+Bez poslednje stavke kampanja može izgledati lošije nego što jeste. Pregled vida od 0 ili 1.000 dinara možda nije glavni prihod. Prava vrednost je u naočarima, staklima, sočivima i ponovnim kupovinama.
+
+Zato se isplativost ne računa samo po ceni zakazanog pregleda. Računa se po vrednosti kupca. Ako prosečan kupac donese 120 evra prihoda, cena termina od 8 evra izgleda drugačije nego ako većina ljudi dođe samo po jeftinu popravku.
+
+Za okvirnu računicu možete koristiti [ROI kalkulator](/alati/roi-kalkulator). Unesite prosečnu vrednost kupovine, maržu, stopu dolaska na zakazan termin i cenu leada. Brojevi brzo pokažu koliko kampanja sme da plati za kvalitetan upit.
+
+## Zašto Google Ads nekad ne radi za optike
+
+Kada kampanja ne radi, uzrok često nije samo u platformi.
+
+Najčešći problemi su prilično zemaljski:
+
+- oglasi se prikazuju van realne servisne zone,
+- kampanja troši budžet na informativne pretrage,
+- landing stranica ne ističe lokaciju i zakazivanje,
+- telefon nije klikabilan na mobilnom,
+- pozivi se ne javljaju tokom radnog vremena,
+- radnja nema jasan odgovor na pitanje "koliko košta pregled",
+- nema razlike između jeftinih ramova i premium ponude.
+
+To su greške koje mogu pojesti budžet i kada su ključne reči dobro izabrane. Google može dovesti osobu do vrata. Ne može umesto radnje objasniti ponudu, javiti se na telefon ili zakazati termin.
+
+## Kada dodati SEO i Google Business profil
+
+Google Ads daje brži signal, ali optičarska radnja ne treba zauvek da zavisi samo od plaćenog klika.
+
+Lokalni SEO i Google Business profil su bitni jer ljudi često biraju optiku kroz mapu, recenzije, fotografije, radno vreme i blizinu. Ako profil izgleda prazno, ima stare slike i malo recenzija, deo plaćenog saobraćaja će opet otići konkurenciji.
+
+Zato Google Ads, lokalni SEO i stranica za zakazivanje rade najbolje zajedno. Oglasi hvataju nameru odmah. SEO smanjuje zavisnost od oglasa. Stranica pretvara posetu u poziv ili termin.
+
+Ako želite dugoročniji plan, pogledajte i [SEO optimizacija cena](/seo-optimizacija-cena). Za širi budžet kanala koristite [cene digitalnog marketinga](/cene-digitalnog-marketinga), da ne završite sa oglasima bez stranice, ili sa lepim sajtom bez prometa.
+
+## Praktičan plan za prvih 30 dana
+
+Prvi mesec ne treba da bude komplikovan.
+
+Uradite sledeće:
+
+1. Izaberite 3 do 5 najprofitabilnijih usluga ili kategorija.
+2. Odredite realnu zonu iz koje ljudi dolaze u radnju.
+3. Napravite landing stranicu za pregled vida i zakazivanje.
+4. Postavite tracking za pozive, forme i mapu.
+5. Odvojite pretrage za pregled, proizvode i popravke.
+6. Svake nedelje proverite koje reči troše novac bez termina.
+7. U radnji beležite koji termini su došli iz Google kampanje i šta su kupili.
+
+Posle 30 dana ne gledajte samo koliko je klikova došlo. Gledajte koliko je ljudi zakazalo, koliko se pojavilo, šta su kupili i koje pretrage su dovele bolje kupce.
+
+Ako vodite optičarsku radnju i želite kampanju koja meri termine, pozive i prodaju, pošaljite nam lokaciju, trenutni sajt i okvirnu vrednost prosečne kupovine. Krenite od [kratke konsultacije](/kontakt), pa ćemo složiti test koji ne gura budžet na prazne klikove.
+`
+  },
+
+  {
     slug: 'minimalni-budzet-za-lead-generation-srbija-2026',
     title: 'Minimalni budžet za lead generation u Srbiji 2026: kada test ima smisla',
     excerpt: 'Koliko novca treba za ozbiljan lead generation test u Srbiji, kako da izračunate prag isplativosti i zašto premali budžet često napravi loš zaključak o dobrom kanalu.',

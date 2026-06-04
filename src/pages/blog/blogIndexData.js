@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-opticarske-radnje-cena-pregleda-srbija-2026",
+    "title": "Google Ads za optičarske radnje u Srbiji 2026: cena pregleda i kupca",
+    "excerpt": "Koliko optičarska radnja treba da uloži u Google Ads, koje pretrage vrede novac i zašto kampanja mora da meri zakazane preglede, pozive i kupovinu naočara.",
+    "date": "2026-06-04",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "minimalni-budzet-za-lead-generation-srbija-2026",
     "title": "Minimalni budžet za lead generation u Srbiji 2026: kada test ima smisla",
     "excerpt": "Koliko novca treba za ozbiljan lead generation test u Srbiji, kako da izračunate prag isplativosti i zašto premali budžet često napravi loš zaključak o dobrom kanalu.",
