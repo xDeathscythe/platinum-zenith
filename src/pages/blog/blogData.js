@@ -1,5 +1,140 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'pracenje-konverzija-lead-generation-srbija-2026',
+    title: 'Praćenje konverzija za lead generation u Srbiji 2026: gde stvarno curi budžet',
+    excerpt: 'Ako kampanja ima klikove i upite, ali prodaja ne vidi rezultat, problem je često u pogrešnom praćenju poziva, formi i kvaliteta leadova.',
+    date: '2026-06-06',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Lead Generation', 'Tracking', 'ROI', 'Marketing budžet'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Problem nije uvek u kampanji
+
+Neke firme mesečno plate oglase, dobiju klikove, dobiju forme, možda dobiju i pozive, a na kraju meseca niko ne zna šta se stvarno desilo. Marketing kaže da je kampanja radila. Prodaja kaže da nema kvalitetnih upita. Vlasnik vidi račun za oglašavanje i oseća da nešto curi, ali ne zna gde.
+
+To je česta slika kod lead generation kampanja u Srbiji. Nije uvek problem u Google Ads-u, Meta Ads-u ili agenciji. Nekad kampanja dovodi ljude, ali firma meri pogrešnu stvar. Broji klikove umesto razgovora. Broji svaku formu kao lead. Ne zna koji pozivi su došli sa oglasa. Ne zna koji upiti su postali ponude, a koji su bili prazna buka.
+
+Ako planirate budžet za upite, prvo pogledajte vodič za [lead generation cenu u Srbiji](/blog/lead-generation-cena-srbija-2026). Ovaj tekst se bavi sledećim korakom: kako da vidite da li taj budžet stvarno kupuje šansu za prodaju.
+
+## Klik nije rezultat
+
+Klik je početak puta, ne dokaz da kampanja donosi posao. Isto važi za prikaze, CTR i jeftin CPC. Ti brojevi su korisni za optimizaciju oglasa, ali ne govore da li firma zarađuje.
+
+Greška koju mnoge firme naprave je da za uspeh uzmu prvi broj koji izgleda lepo. Kampanja ima 1.200 klikova. CPL je pao sa 18 na 11 evra. Forma se popunjava. Sve deluje uredno dok neko ne pita koliko je od tih ljudi zapravo kupilo, zakazalo, došlo na konsultaciju ili tražilo ponudu koju firma može da isporuči.
+
+Za lead generation treba pratiti bar četiri nivoa:
+
+1. posetu stranici,
+2. formu, poziv ili klik na telefon,
+3. kvalifikovan upit,
+4. prodajni ishod.
+
+Ako firma stane na drugom nivou, vidi samo pola priče. Možda oglasi rade, ali prodaja kasni. Možda prodaja radi, ali landing stranica privlači pogrešne ljude. Možda je sve solidno, ali budžet ide na ključne reči koje donose radoznale posetioce umesto ljudi sa namerom kupovine.
+
+## Telefonski pozivi često nestanu iz izveštaja
+
+Kod lokalnih usluga, stomatologa, klinika, majstora, pravnika, agencija za nekretnine i B2B usluga, ozbiljan lead često ne popuni formu. Samo klikne na broj telefona.
+
+Ako taj klik nije podešen kao konverzija, kampanja izgleda slabije nego što jeste. Još gore, optimizacija onda uči iz pogrešnih podataka. Algoritam dobija signal za forme, ali ne i za pozive koji stvarno vrede. Posle nekoliko nedelja budžet može da ode ka ljudima koji lakše popunjavaju formu, a ne ka ljudima koji zovu spremni za razgovor.
+
+Minimum koji treba postaviti:
+
+- klik na broj telefona na mobilnom,
+- slanje forme,
+- klik na email ili WhatsApp ako se koristi,
+- dolazak na thank-you stranicu,
+- UTM parametre za kanal, kampanju i oglas,
+- belešku u prodaji šta se desilo posle kontakta.
+
+Za neke firme vredi i call tracking sa različitim brojevima po kanalu. Nije uvek neophodan za mali test, ali ako trošite više stotina ili hiljada evra mesečno, slepo merenje poziva brzo postaje skuplje od alata.
+
+## Svaka forma ne zaslužuje istu vrednost
+
+Još jedna česta greška je da se svaki poslati formular šalje u oglasnu platformu kao ista konverzija. Student pita za praksu. Konkurencija proverava cenu. Osoba iz pogrešnog grada traži uslugu koju firma ne radi. Neko napiše samo "cena?" i nestane. Sve to u izveštaju postane lead.
+
+Platforma zatim pokušava da nađe još takvih ljudi. Ne zato što je zla, nego zato što joj je firma rekla da je to cilj.
+
+Zato je korisno odvojiti sirove i kvalifikovane upite. Sirov upit je kontakt. Kvalifikovan upit ima lokaciju, problem, okvir budžeta, rok i uslugu koja se uklapa u ponudu. Prodajna prilika je korak dalje: osoba želi sledeći razgovor, ponudu, dolazak, pregled ili konsultaciju.
+
+O ovoj razlici postoji detaljniji tekst o [lošim leadovima i kvalitetu upita](/blog/losi-leadovi-kako-popraviti-kvalitet-upita-srbija-2026). Ako u tracking šaljete samo sirove forme, ROI će delovati nasumično. Jedan mesec je dobar, drugi loš, a niko ne zna šta se promenilo.
+
+## Jednostavna tabela je bolja od lepog dashboarda bez smisla
+
+Za početak nije potreban komplikovan CRM. Dovoljna je tabela ako je tim stvarno popunjava. Bitno je da svaki lead dobije izvor i ishod.
+
+Kolone koje vredi imati:
+
+- datum,
+- kanal i kampanja,
+- ime ili šifra kontakta,
+- tip usluge,
+- grad ili zona,
+- okvir budžeta,
+- status: sirov, kvalifikovan, ponuda, dobijeno, izgubljeno,
+- razlog ako nije dobar,
+- vrednost posla ako je zatvoren.
+
+Posle 30 dana takva tabela pokaže mnogo više od generičkog izveštaja. Vidi se da jedna kampanja donosi jeftine, ali slabe upite. Druga donosi manje leadova, ali veći procenat ponuda. Treća privlači pogrešan grad. Četvrta radi dobro, ali samo dok prodaja odgovara isti dan.
+
+Tek tada [ROI kalkulator](/alati/roi-kalkulator) ima smisla. U njega ne treba unositi želje, nego stvarne brojeve: vrednost klijenta, maržu, stopu zatvaranja i cenu kvalifikovanog upita.
+
+## Šta treba povezati pre većeg budžeta
+
+Pre nego što firma poveća potrošnju, tracking mora da odgovori na nekoliko pitanja:
+
+1. Koji kanal donosi najviše kvalifikovanih upita?
+2. Koji oglas ili ključna reč donosi najviše praznih kontakata?
+3. Koliko brzo prodaja odgovara na upite?
+4. Koji procenat upita dobija ponudu?
+5. Koliko ponuda se zatvara?
+6. Koja je realna cena novog klijenta?
+
+Ako nema tih odgovora, veći budžet samo povećava maglu. Firma može potrošiti 500 evra više i ne naučiti ništa. Može i ugasiti kanal koji je zapravo radio, samo zato što nije bio pravilno izmeren.
+
+Za širi okvir troška pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga), a za Google Search kampanje [Google reklame cena](/google-reklame-cena). Cena vođenja i medijski budžet nisu problem sami po sebi. Problem je kada niko ne zna šta se plaća i šta se dobija nazad.
+
+## Kada tracking otkrije da problem nije marketing
+
+Dobar tracking nekad pokaže neprijatnu stvar: kampanja nije glavni problem.
+
+Primer: oglasi donose 60 upita mesečno. Od toga je 35 kvalifikovano. Prodaja pošalje ponudu za 12. Zatvori 2. Na prvi pogled marketing deluje kriv jer se zatvorilo malo poslova. Ali rupa je možda između kvalifikovanog upita i ponude, ili između ponude i zatvaranja.
+
+Drugi primer: forma dovodi dobre ljude, ali prodaja ih zove posle 24 sata. U međuvremenu su već pričali sa konkurencijom. Kampanja je kupila nameru, ali firma nije stigla da je iskoristi.
+
+Treći primer: ljudi zovu, ali stalno pitaju za uslugu koju firma ne želi da prodaje. Tu problem može biti u poruci oglasa ili landing stranici. To je marketing problem, ali nije problem budžeta. Rešava se jasnijim filterom, boljim tekstom i preciznijom ponudom.
+
+## Redosled za 14 dana
+
+Ako tracking trenutno ne postoji ili je polovičan, ne treba čekati veliki sistem. Krenite usko.
+
+Prvih 14 dana uradite ovo:
+
+1. proverite da li se forme i klikovi na telefon mere kao odvojene konverzije,
+2. dodajte UTM parametre za glavne kampanje,
+3. napravite tabelu sa statusom svakog upita,
+4. uvedite razlog za nekvalifikovan lead,
+5. zabeležite vreme prvog odgovora,
+6. jednom nedeljno uporedite kampanju, kvalitet upita i ishod prodaje,
+7. tek onda odlučite šta se povećava, gasi ili popravlja.
+
+Ovo nije glamurozan posao. Nema lep screenshot za LinkedIn. Ali često spasi više novca nego nova kampanja, jer konačno pokazuje gde budžet curi.
+
+## Zaključak: ne skalira se ono što se ne meri
+
+Lead generation bez praćenja konverzija liči na vožnju po magli. Možda se krećete u dobrom pravcu, ali ne znate koliko brzo, koliko goriva trošite i da li ste skrenuli pogrešno pre deset kilometara.
+
+Pravi cilj nije da izveštaj izgleda zeleno. Cilj je da firma zna koji kanal dovodi ljude koji mogu da kupe, koliko ti ljudi koštaju i šta treba popraviti da ih bude više.
+
+Ako želite da proverimo tracking, kampanje i prodajni tok, pošaljite nam trenutni izveštaj, landing stranicu i primer 20 poslednjih upita. Krenite od [kontakt forme](/kontakt), pa ćemo videti da li novac curi u oglasu, stranici, merenju ili prodajnom procesu.
+`
+  },
+
+  {
     slug: 'losi-leadovi-kako-popraviti-kvalitet-upita-srbija-2026',
     title: 'Loši leadovi u Srbiji 2026: kako popraviti kvalitet upita bez većeg budžeta',
     excerpt: 'Zašto kampanja šalje ljude koji ne odgovaraju, nemaju budžet ili traže pogrešnu uslugu, i kako srediti kvalitet upita pre skaliranja.',

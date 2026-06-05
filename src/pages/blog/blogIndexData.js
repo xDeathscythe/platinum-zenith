@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "pracenje-konverzija-lead-generation-srbija-2026",
+    "title": "Praćenje konverzija za lead generation u Srbiji 2026: gde stvarno curi budžet",
+    "excerpt": "Ako kampanja ima klikove i upite, ali prodaja ne vidi rezultat, problem je često u pogrešnom praćenju poziva, formi i kvaliteta leadova.",
+    "date": "2026-06-06",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "losi-leadovi-kako-popraviti-kvalitet-upita-srbija-2026",
     "title": "Loši leadovi u Srbiji 2026: kako popraviti kvalitet upita bez većeg budžeta",
     "excerpt": "Zašto kampanja šalje ljude koji ne odgovaraju, nemaju budžet ili traže pogrešnu uslugu, i kako srediti kvalitet upita pre skaliranja.",
