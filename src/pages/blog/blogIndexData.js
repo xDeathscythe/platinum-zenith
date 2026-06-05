@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "losi-leadovi-kako-popraviti-kvalitet-upita-srbija-2026",
+    "title": "Loši leadovi u Srbiji 2026: kako popraviti kvalitet upita bez većeg budžeta",
+    "excerpt": "Zašto kampanja šalje ljude koji ne odgovaraju, nemaju budžet ili traže pogrešnu uslugu, i kako srediti kvalitet upita pre skaliranja.",
+    "date": "2026-06-05",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-domove-za-stare-cena-upita-srbija-2026",
     "title": "Google Ads za domove za stare u Srbiji 2026: cena upita i popunjenost kapaciteta",
     "excerpt": "Kako dom za stare treba da planira Google Ads budžet, koje pretrage donose ozbiljne porodice i zašto se meri kvalifikovan upit, ne samo klik.",

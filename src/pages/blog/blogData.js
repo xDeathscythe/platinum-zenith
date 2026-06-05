@@ -1,5 +1,148 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'losi-leadovi-kako-popraviti-kvalitet-upita-srbija-2026',
+    title: 'Loši leadovi u Srbiji 2026: kako popraviti kvalitet upita bez većeg budžeta',
+    excerpt: 'Zašto kampanja šalje ljude koji ne odgovaraju, nemaju budžet ili traže pogrešnu uslugu, i kako srediti kvalitet upita pre skaliranja.',
+    date: '2026-06-05',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Lead Generation', 'Kvalitet leadova', 'CRO', 'Prodajni proces'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Jeftin lead ume da bude skup problem
+
+Mnoge firme ne primete problem dok izveštaj ne počne da izgleda dobro. Cena leada pada, forma se puni, telefon zvoni, a prodaja svejedno kaže da od toga nema ništa.
+
+Ljudi se ne javljaju. Neki nemaju budžet. Neki traže uslugu koju firma ne radi. Neki pitaju za cenu, nestanu i kupe kod nekog trećeg. Na papiru kampanja radi. U prodaji nastaje tiha šteta.
+
+To se obično ne dešava zato što je tržište loše. Češće kampanja kupuje pogrešan intent, landing stranica obećava preširoko, forma ne kvalifikuje nikoga ili follow-up kasni dok je interesovanje još vruće.
+
+Ako tek postavljate budžet, prvo pročitajte vodič za [lead generation cenu u Srbiji](/blog/lead-generation-cena-srbija-2026). Ovaj tekst ide korak dalje: kako da isti budžet dovede manje praznih upita i više razgovora koji imaju šansu da postanu posao.
+
+## Prvo razdvojite lead od prodajne prilike
+
+Najveća greška je da se svaki kontakt zove leadom istog kvaliteta. Forma sa imenom i telefonom nije isto što i osoba koja ima problem, rok, novac i razlog da razgovara sada.
+
+Za zdraviji sistem uvedite tri nivoa:
+
+1. Sirov upit: neko je kliknuo, pozvao ili poslao formu.
+2. Kvalifikovan upit: lokacija, budžet, problem i rok imaju smisla.
+3. Prodajna prilika: osoba je spremna za sledeći korak, konsultaciju, ponudu ili zakazivanje.
+
+Kada se sve sabije u jednu kolonu, marketing izgleda uspešno, a prodaja frustrirano. Kada se nivoi odvoje, brzo se vidi da li problem dolazi iz oglasa, stranice, ponude ili procesa posle upita.
+
+Primer: kampanja donese 80 upita mesečno. Od toga je 35 van servisne zone, 20 traži najnižu cenu, 15 ne odgovara na poziv, a 10 ulazi u ozbiljan razgovor. CPL može da izgleda odlično, ali prava cena prodajne prilike je osam puta veća od cene sirovog upita.
+
+## Loši leadovi često počnu u poruci oglasa
+
+Neke kampanje same sebi pokvare kvalitet jer obećaju previše široko. Oglas kaže "besplatna procena", "najpovoljnije", "rešenje za sve" ili "pošaljite upit za cenu", pa privuče ljude koji žele brzu informaciju, ne nužno kupovinu.
+
+To nije moralni problem. Ljudi reaguju na ono što im je ponuđeno. Ako reklama nagradi radoznalost, dobiće radoznale upite. Ako nagradi ozbiljan problem, budžet i konkretan sledeći korak, dobiće manje upita, ali bolji signal.
+
+Kod uslužnih firmi često bolje radi poruka koja jasno kaže kome je ponuda namenjena:
+
+- za firme koje imaju mesečni budžet za kampanje,
+- za vlasnike koji žele više kvalifikovanih poziva,
+- za projekte gde je rok u narednih 30 do 90 dana,
+- za kupce kojima je bitan kvalitet, ne samo najniža cena.
+
+Ovo će odbiti deo ljudi. To je dobro. Kampanja koja nikoga ne odbija obično troši prodaju na razgovore koji nikada nisu imali šansu.
+
+## Landing stranica mora da kvalifikuje bez neprijatnosti
+
+Dobar landing ne treba da bude agresivan. Treba da pomogne pravim ljudima da se prepoznaju i pogrešnim ljudima da sami odustanu.
+
+Ako stranica krije cenu, rokove, uslove saradnje i tip klijenta za koji je usluga napravljena, prodaja će to platiti kasnije. Ljudi će popuniti formu da bi izvukli osnovne informacije. Tim će trošiti vreme objašnjavajući stvari koje su mogle da stoje na stranici.
+
+Korisni filteri na landing stranici:
+
+- okvir cene ili minimum budžeta,
+- za koga usluga jeste i za koga nije,
+- tipični rok za prve rezultate,
+- šta klijent mora da ima spremno,
+- primer sledećeg koraka posle forme,
+- kratka pitanja koja otkrivaju lokaciju, budžet, rok i cilj.
+
+Za ovakav posao najčešće nije dovoljan lep dizajn. Treba stranica koja ima jasnu prodajnu logiku. Ako tu postoji rupa, pogledajte [CRO optimizaciju](/cro) ili okvir za [izradu landing stranice](/blog/izrada-landing-stranice-cena) pre nego što povećate potrošnju na oglase.
+
+## Formular ne sme da bude ni prazan ni kao poreska prijava
+
+Prekratka forma dovodi mnogo nejasnih upita. Preduga forma ubija ljude koji su stvarno zainteresovani, posebno na mobilnom. Poenta nije da forma bude duga, nego da pita stvari koje menjaju odluku.
+
+Za većinu B2B i lokalnih usluga dovoljno je pet do sedam polja:
+
+1. ime i kontakt,
+2. grad ili servisna zona,
+3. tip usluge,
+4. okvir budžeta,
+5. rok,
+6. kratak opis problema,
+7. željeni način kontakta.
+
+Ako budžet zvuči osetljivo, može se staviti raspon umesto praznog polja. Na primer: do 500 evra, 500 do 1.500 evra, 1.500 do 5.000 evra, preko 5.000 evra. Neko ko ne želi da izabere nijedan raspon verovatno nije spreman za ozbiljan razgovor.
+
+Kod skupljih usluga kvalifikaciona pitanja nisu prepreka. Ona štede vreme i klijentu i firmi. Bolje je imati 20 jasnih upita nego 80 kontakata koji zahtevaju ručno detektivsko ispitivanje.
+
+## Follow-up odlučuje dok je namera još sveža
+
+Kvalitet leada ne zavisi samo od toga ko je poslao upit. Zavisi i od toga šta se desi u prvih nekoliko minuta.
+
+Česta slika: firma plati klik, osoba popuni formu, automatizovani mejl ne postoji, prodaja vidi poruku posle tri sata, zove jednom, ne dobija odgovor i lead se označi kao loš. Možda je stvarno bio loš. A možda je već pričao sa konkurentom koji je odgovorio za pet minuta.
+
+Minimum procesa:
+
+- automatska potvrda odmah posle forme,
+- prvi poziv ili poruka u roku od 5 do 15 minuta tokom radnog vremena,
+- drugi pokušaj istog dana,
+- kratka poruka sa sledećim korakom,
+- beleška zašto upit nije kvalifikovan,
+- sedmični pregled razloga za izgubljene upite.
+
+Ako nema CRM-a, može i tabela za početak. Bitno je da se meri razlog, ne samo status. "Nije se javio" nije isto što i "nema budžet", "pogrešna lokacija" ili "traži drugu uslugu".
+
+## Kako popraviti kvalitet bez većeg budžeta
+
+Ne morate odmah da dodajete još novca u kampanju. Prvo sredite signale koji već postoje.
+
+Praktičan redosled za 14 dana:
+
+1. Izvucite poslednjih 50 do 100 upita i označite razlog zašto jesu ili nisu dobri.
+2. Odvojite sirove upite od kvalifikovanih upita i prodajnih prilika.
+3. Proverite koje ključne reči, oglasi ili publike donose najviše slabih kontakata.
+4. U oglas dodajte jasniji filter: lokaciju, budžet, rok ili tip klijenta.
+5. Na landing stranicu stavite minimum informacija koje prodaja ponavlja u svakom razgovoru.
+6. Skratite ili pooštrite formu, zavisno od toga gde curi kvalitet.
+7. Uvedite brzi follow-up i beležite razloge za odbijanje.
+
+Posle toga računajte cenu kvalifikovanog upita, ne samo cenu forme. Ako ne znate svoju granicu, otvorite [ROI kalkulator](/alati/roi-kalkulator) i uporedite je sa vodičem za [maksimalnu cenu leada](/blog/maksimalna-cena-leada-srbija-2026).
+
+## Kada treba dirati kampanju, a kada ponudu
+
+Ako dolazi mnogo ljudi van lokacije, problem je verovatno u targetiranju, ključnim rečima ili negativnim rečima.
+
+Ako dolazi mnogo ljudi bez budžeta, problem može biti u poruci, obećanju ili tome što stranica krije cenu.
+
+Ako dolaze ljudi koji traže pogrešnu uslugu, problem je često u preširokom oglasu ili landing stranici koja ne kaže dovoljno jasno šta firma radi.
+
+Ako dolaze dobri ljudi, ali se ne pretvaraju u razgovore, problem je u brzini odgovora, poverenju, dokazima, ponudi ili prodajnom procesu.
+
+Zato je opasno gasiti kampanju samo zato što prodaja kaže da su leadovi loši. Prvo se mora znati koja vrsta lošeg leada dolazi. Svaka vrsta ima drugi lek.
+
+## Zaključak: skalira se kvalitet, ne buka
+
+Loši leadovi nisu samo marketinški problem. Oni pojedu vreme prodaje, pokvare poverenje u kanal i nateraju firmu da smanjuje budžet baš onda kada bi sistem mogao da se popravi.
+
+Zdraviji put je jednostavan: jasnija poruka, bolji filter na stranici, forma koja pita prave stvari i follow-up koji ne kasni. Tada manje upita može da donese više prodajnih razgovora.
+
+Ako želite da proverimo zašto vaši upiti ne prelaze u prodaju, pošaljite nam primer kampanje, landing stranice i nekoliko tipičnih leadova. Krenite od [kontakt forme](/kontakt), pa ćemo videti da li je prvi problem oglas, landing, kvalifikacija ili prodajni proces.
+`
+  },
+
+  {
     slug: 'google-ads-za-domove-za-stare-cena-upita-srbija-2026',
     title: 'Google Ads za domove za stare u Srbiji 2026: cena upita i popunjenost kapaciteta',
     excerpt: 'Kako dom za stare treba da planira Google Ads budžet, koje pretrage donose ozbiljne porodice i zašto se meri kvalifikovan upit, ne samo klik.',
