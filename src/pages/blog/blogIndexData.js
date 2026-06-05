@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-domove-za-stare-cena-upita-srbija-2026",
+    "title": "Google Ads za domove za stare u Srbiji 2026: cena upita i popunjenost kapaciteta",
+    "excerpt": "Kako dom za stare treba da planira Google Ads budžet, koje pretrage donose ozbiljne porodice i zašto se meri kvalifikovan upit, ne samo klik.",
+    "date": "2026-06-05",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "maksimalna-cena-leada-srbija-2026",
     "title": "Maksimalna cena leada u Srbiji 2026: koliko smete da platite za upit",
     "excerpt": "Praktičan način da izračunate maksimalnu cenu leada pre nego što povećate budžet za Google, Meta ili LinkedIn kampanje.",

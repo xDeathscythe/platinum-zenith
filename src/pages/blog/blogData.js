@@ -1,5 +1,145 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'google-ads-za-domove-za-stare-cena-upita-srbija-2026',
+    title: 'Google Ads za domove za stare u Srbiji 2026: cena upita i popunjenost kapaciteta',
+    excerpt: 'Kako dom za stare treba da planira Google Ads budžet, koje pretrage donose ozbiljne porodice i zašto se meri kvalifikovan upit, ne samo klik.',
+    date: '2026-06-05',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Domovi za stare', 'Lokalni marketing', 'Lead Generation'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Dom za stare ne traži mnogo upita, nego prave porodice
+
+Google Ads za domove za stare u Srbiji ima specifičan zadatak. Kampanja ne treba da napravi buku. Treba da dovede porodice koje već traže smeštaj, imaju lokaciju u glavi, razumeju da postoji mesečna cena i spremne su da razgovaraju o uslovima.
+
+To je osetljiva odluka. Ljudi ne biraju dom za stare kao što biraju patike ili restoran. Često postoji pritisak vremena, zdravstvena situacija, krivica, dilema oko novca i strah da će pogrešiti. Zato reklama koja zvuči agresivno obično pravi loš utisak, čak i kada donese klik.
+
+Greška koju neki domovi naprave je da kampanju tretiraju kao običnu lokalnu uslugu. Ubace široke ključne reči, pošalju sve na početnu stranu i mere samo koliko je ljudi kliknulo. Posle mesec dana se zaključi da "Google ne radi" ili da su upiti skupi. U stvarnosti, često nije problem kanal. Problem je namera, stranica, praćenje poziva ili način kvalifikacije.
+
+Ako tek planirate budžet, korisno je da uporedite ovaj tekst sa opštim vodičem za [Google reklame cena](/google-reklame-cena). Dom za stare ima lokalni i porodični intent, ali vrednost jednog popunjenog mesta i dužina boravka menjaju celu matematiku.
+
+## Koliki budžet ima smisla za prvi test
+
+Za jedan dom za stare u Srbiji, razuman test Google Ads budžeta obično počinje oko 400 do 900 evra mesečno za oglašavanje. U Beogradu, Novom Sadu, Nišu i okolini većih gradova okvir lakše ide ka 1.000 do 2.000 evra, posebno ako postoji više konkurentskih domova i ako se cilja nekoliko opština.
+
+Manji budžet može da radi ako dom cilja usku zonu i nekoliko pretraga sa jasnom namerom: "dom za stare cena", "starački dom Beograd", "privatni dom za stare Novi Sad", "smeštaj za nepokretne osobe" ili "dom za dementne osobe" ako dom stvarno ima takvu negu.
+
+Budžet od 100 ili 150 evra obično ne daje dovoljno podataka. Može se desiti da dobijete par klikova i jedan poziv, ali to nije uzorak za odluku. Možda je ponuda dobra, ali ključne reči nisu. Možda je porodica zvala van radnog vremena. Možda stranica ne kaže cenu, kapacitet ili tip nege. Sa premalo podataka sve izgleda kao pogađanje.
+
+Za bolju procenu prvo izračunajte koliko jedan popunjen kapacitet vredi u odnosu na mesečnu cenu, prosečnu dužinu boravka i maržu. Zatim pogledajte [maksimalnu cenu leada](/blog/maksimalna-cena-leada-srbija-2026), jer upit od 40 evra može biti skup za jednu uslugu i potpuno razuman za drugu.
+
+## Koje pretrage vrede najviše
+
+Najvrednije pretrage obično dolaze od porodica koje već razumeju problem i traže rešenje u blizini.
+
+Primeri jačih namera:
+
+- "dom za stare" plus grad ili opština,
+- "starački dom cena",
+- "privatni dom za stare",
+- "dom za nepokretne osobe",
+- "dom za stare sa medicinskom negom",
+- "smeštaj za dementne osobe" ako uslovi to pokrivaju,
+- "dom za stare hitan smeštaj" ako dom prima hitne slučajeve.
+
+Šire pretrage kao "nega starih osoba" ili "briga o roditeljima" mogu imati smisla za edukativan sadržaj, ali u Search kampanji često donose ljude koji još nisu spremni za poziv. Neko možda samo istražuje opcije, traži kućnu negu ili pokušava da razume obaveze porodice.
+
+Česta greška je da se sve namere stave u istu ad grupu i da svi oglasi vode na istu stranicu. Osoba koja traži hitan smeštaj ne treba istu poruku kao porodica koja planira preseljenje za tri meseca. Jedna želi brz razgovor i slobodno mesto. Druga želi mir, slike prostora, cenu i osećaj da neće pogrešiti.
+
+## Landing stranica mora da odgovori na neprijatna pitanja
+
+Kod doma za stare porodica ne želi samo lepu fotografiju dnevnog boravka. Želi da zna šta se stvarno dešava posle poziva.
+
+Dobra landing stranica treba jasno da kaže:
+
+- gde se dom nalazi i koje opštine pokriva,
+- da li ima slobodnih mesta ili kako se proverava kapacitet,
+- koje tipove korisnika prima,
+- da li postoji medicinska nega i u kom obimu,
+- okvir mesečne cene ili bar šta utiče na cenu,
+- kako izgleda prijem i koja dokumentacija treba,
+- kada porodica može da obiđe dom,
+- broj telefona koji radi dobro na mobilnom.
+
+Dosta kampanja gubi novac jer stranica izbegava cenu. Razumljivo je da cena zavisi od stanja korisnika, sobe, nege i dodatnih usluga. Ali potpuna tišina pravi problem. Porodice bez budžeta zovu, porodice sa budžetom odustanu jer im deluje netransparentno, a prodaja troši vreme na razgovore koji nikada nisu imali šansu.
+
+Ako postojeći sajt ne može da odgovori na ova pitanja, prvo sredite stranicu ili napravite posebnu landing stranicu. Za okvir troška pogledajte [izrada landing stranice cena](/blog/izrada-landing-stranice-cena), a za širu optimizaciju pogledajte [CRO optimizaciju](/cro).
+
+## Šta meriti pored cene klika
+
+Cena klika je korisna samo kao rani signal. Za dom za stare važniji su kvalifikovani pozivi, zakazane posete i popunjeni kapaciteti.
+
+Minimum praćenja:
+
+1. pozivi iz oglasa,
+2. pozivi sa landing stranice,
+3. forme sa konkretnim podacima,
+4. zakazane posete domu,
+5. prijemi korisnika,
+6. razlog za odbijene upite.
+
+Bez ovog lanca kampanja lako izgleda lošije ili bolje nego što jeste. Na primer, oglas može doneti deset poziva, ali pet porodica traži cenu daleko ispod minimuma, tri traže negu koju dom ne pruža, a dve zakazuju obilazak. Ako merite samo broj poziva, kampanja deluje odlično. Ako merite samo prijeme, možda prerano presečete kanal koji tek skuplja kvalitetne porodice.
+
+Najzdravije je odvojiti sirov upit od kvalifikovanog upita. Sirov upit je svaki poziv ili forma. Kvalifikovan upit je porodica koja odgovara lokaciji, budžetu, tipu nege i vremenskom okviru. Tek tada cena upita ima smisla.
+
+## Koliko može da košta kvalifikovan upit
+
+Nema jednog tačnog broja za celu Srbiju, ali računica može da se postavi praktično.
+
+Recimo da dom ima mesečnu cenu od 700 evra, prosečan boravak traje 10 meseci, a bruto marža po korisniku je 35%. Bruto profit po korisniku je oko 2.450 evra. Ako dom želi da na akviziciju potroši najviše 15% tog profita, ima oko 367 evra prostora za dobijanje jednog novog korisnika.
+
+Ako se svaki peti kvalifikovan upit pretvori u prijem, maksimalna cena kvalifikovanog upita je oko 73 evra.
+
+To ne znači da treba radosno plaćati 73 evra za svaki kontakt. Znači da kampanja ima prostor da kupi kvalitetniji intent, bolju landing stranicu i pažljiviji proces poziva. Upit od 15 evra nije dobar ako porodica nije iz servisne zone. Upit od 60 evra može biti sasvim zdrav ako dovede osobu koja obiđe dom i popuni slobodno mesto.
+
+Ako ne znate svoje brojeve, krenite od okvirne tabele u [cenama digitalnog marketinga](/cene-digitalnog-marketinga), pa je prilagodite svojoj popunjenosti, marži i kapacitetima.
+
+## Kada Google Ads nije prvi potez
+
+Google Ads nije lek za sve. Ako dom nema sređen Google Business profil, jasne fotografije, recenzije, osnovne informacije i stranicu koja uliva poverenje, plaćeni klikovi samo brže otkrivaju rupe.
+
+Pre oglasa proverite:
+
+- da li su naziv, adresa i telefon tačni svuda,
+- da li postoje novije fotografije soba, dvorišta i zajedničkih prostorija,
+- da li recenzije deluju realno i ažurno,
+- da li neko odgovara na pozive brzo,
+- da li postoji jednostavan proces za zakazivanje obilaska,
+- da li porodica posle poziva dobija jasan sledeći korak.
+
+Neki domovi prvo moraju da poprave reputaciju i osnovni lokalni SEO. Drugi imaju dobru reputaciju, ali nemaju dovoljno novih upita. Tu Google Ads može brzo da pokaže šta tržište traži i koliko košta popunjen kapacitet.
+
+## Kako postaviti kampanju bez rasipanja budžeta
+
+Najjednostavniji start je Search kampanja sa uskim skupom ključnih reči, lokacijom oko doma i oglasima koji govore ljudski. Bez senzacionalizma, bez obećanja koja ne mogu da se ispune, bez sakrivanja najvažnijih uslova.
+
+Praktičan redosled:
+
+1. odvojite kampanje po gradu ili servisnoj zoni,
+2. odvojite hitan smeštaj od planiranog smeštaja,
+3. napišite oglase koji pominju lokaciju, tip nege i poziv za obilazak,
+4. šaljite saobraćaj na stranicu koja odgovara toj nameri,
+5. merite pozive, forme i zakazane obilaske,
+6. jednom nedeljno proverite koje pretrage troše novac bez dobrih upita.
+
+Negativne ključne reči su posebno važne. Pretrage za posao u domu, državne ustanove, zakone, diplome, praksu i opšte informacije mogu brzo pojesti budžet. To nisu loši ljudi, samo nisu porodice koje sada traže smeštaj.
+
+## Zaključak: popunjenost se ne rešava jeftinim klikom
+
+Kod domova za stare cilj nije najniži CPC. Cilj je stabilan tok porodica koje imaju realnu potrebu, odgovaraju uslovima doma i mogu da dođu na obilazak.
+
+Dobra kampanja spaja tri stvari: jasnu nameru u pretrazi, landing stranicu koja smanjuje nesigurnost i praćenje koje pokazuje šta se desilo posle poziva. Bez toga se novac troši na klikove, a odluke se donose po osećaju.
+
+Ako želite da proverimo koliko bi Google Ads imao smisla za vaš dom za stare, pošaljite nam lokaciju, broj slobodnih mesta, okvir mesečne cene i tip korisnika koji primate. Krenite od [kontakt forme](/kontakt), pa ćemo brzo videti da li je prioritet kampanja, landing stranica, Google Business profil ili prodajni proces.
+`
+  },
+
+  {
     slug: 'maksimalna-cena-leada-srbija-2026',
     title: 'Maksimalna cena leada u Srbiji 2026: koliko smete da platite za upit',
     excerpt: 'Praktičan način da izračunate maksimalnu cenu leada pre nego što povećate budžet za Google, Meta ili LinkedIn kampanje.',
