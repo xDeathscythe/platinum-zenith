@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "kada-pauzirati-google-ads-kampanju-srbija-2026",
+    "title": "Kada pauzirati Google Ads kampanju u Srbiji 2026: signali da budžet curi",
+    "excerpt": "Kampanja ne mora odmah da se ugasi kada CPL skoči. Evo kada pauzirati, kada popraviti tracking, a kada pustiti test da skupi podatke.",
+    "date": "2026-06-07",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "brzina-odgovora-na-upit-follow-up-prodaja-srbija-2026",
     "title": "Brzina odgovora na upit u Srbiji 2026: kako follow-up diže prodaju",
     "excerpt": "Dobri leadovi često propadnu jer prodaja kasni, šalje generičke poruke ili nema jasan sledeći korak. Evo kako srediti follow-up proces.",

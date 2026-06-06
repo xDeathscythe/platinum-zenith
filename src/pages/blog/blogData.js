@@ -1,5 +1,121 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'kada-pauzirati-google-ads-kampanju-srbija-2026',
+    title: 'Kada pauzirati Google Ads kampanju u Srbiji 2026: signali da budžet curi',
+    excerpt: 'Kampanja ne mora odmah da se ugasi kada CPL skoči. Evo kada pauzirati, kada popraviti tracking, a kada pustiti test da skupi podatke.',
+    date: '2026-06-07',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Marketing budžet', 'ROI', 'Lead Generation'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Ugasiti kampanju je lako. Teže je znati da li je test stvarno završen
+
+Mnoge firme u Srbiji pauziraju Google Ads u pogrešnom trenutku. Kampanja potroši deo budžeta, cena leada skoči, stigne nekoliko slabih upita i neko preseče: gasi, ne radi.
+
+Nekad je to ispravna odluka. Nekad je samo panika posle premalo podataka.
+
+Druga česta greška ide u suprotnom smeru. Kampanja troši novac nedeljama, svi vide da upiti nisu dobri, ali niko ne želi da je zaustavi jer postoji nada da će se algoritam sam popraviti. U međuvremenu budžet curi, prodaja se nervira, a izveštaj izgleda kao gomila klikova bez poslovnog smisla.
+
+Zato pitanje nije samo koliko košta Google Ads. Pitanje je kada kampanju treba pauzirati, kada je treba popraviti, a kada je treba pustiti da skupi dovoljno signala. Ako tek planirate ulaganje, korisno je prvo pročitati vodič za [Google reklame i cenu vođenja kampanja](/google-reklame-cena). Ovaj tekst je za trenutak kada kampanja već radi i treba doneti odluku bez nagađanja.
+
+## Prvo odvojite lošu kampanju od nedovršenog testa
+
+Nedovršen test često izgleda gore nego što jeste. Novi nalog nema istoriju. Landing stranica još nije proverena. Konverzije možda nisu pravilno podešene. Search terms tek otkrivaju koje fraze vuku ozbiljne ljude, a koje troše budžet na radoznale posete.
+
+Loša kampanja ima drugi obrazac. Troši na preširoke upite, šalje ljude na opštu stranicu, ne odvaja usluge po intentu, meri pogrešne konverzije i nema jasan limit koliko sme da plati kvalifikovan lead.
+
+Razlika je bitna. Nedovršen test treba disciplinu. Loša kampanja treba rez.
+
+Dobar početni prag nije isti za svaku firmu, ali pravilo je jednostavno: ne donosite veliku odluku samo na osnovu CPC-a. Klik je ulazni trošak. Odluka se donosi na osnovu kvalifikovanih upita, prodajnih razgovora, ponuda i zatvorenih poslova.
+
+## Kada visok CPL nije dovoljan razlog za pauzu
+
+Cena po leadu zna da uplaši vlasnika, posebno kada se poredi sa tuđim kampanjama. Neka ordinacija čuje da konkurencija dobija upite za 4 evra, a njena kampanja plaća 12 evra. Neka B2B firma vidi CPL od 35 evra i odmah zaključi da je kanal preskup.
+
+Taj broj sam po sebi ne govori dovoljno.
+
+Ako lead od 35 evra vodi do sastanka za uslugu od 2.000 evra, kampanja možda ima smisla. Ako lead od 4 evra vodi do ljudi koji pitaju iz radoznalosti, ne javljaju se na telefon i nemaju budžet, jeftin lead je samo jeftin problem.
+
+Zato pre pauze treba proveriti tri stvari:
+
+1. koliko leadova je stvarno kvalifikovano,
+2. koliko njih je dobilo brz i konkretan follow-up,
+3. koliko firma može da plati za novog klijenta bez gubitka marže.
+
+Za treću stavku pomaže [ROI kalkulator](/alati/roi-kalkulator). Unesite prosečnu vrednost posla, bruto maržu i stopu zatvaranja. Tek tada se vidi da li je CPL stvarno visok ili samo izgleda visoko u Ads dashboard-u.
+
+## Signali da kampanju treba odmah pauzirati
+
+Postoje situacije gde nema potrebe čekati još 14 dana.
+
+Pauza ima smisla ako tracking ne radi. Ako se kao konverzije broje pregledi stranice, klikovi na dugme bez slanja forme ili dupli događaji, algoritam uči na pogrešnim signalima. Tada kampanja ne skuplja podatke, nego prlja nalog.
+
+Pauza ima smisla ako kampanja troši većinu budžeta na nerelevantne search terms. Na primer, firma prodaje premium uslugu, a upiti dolaze iz fraza sa "besplatno", "najjeftinije", "uradi sam" ili iz gradova gde firma ne radi. To nije optimizacija sitnim potezima. To je curenje.
+
+Pauza ima smisla i kada landing stranica ne može da primi saobraćaj. Ako se sporo učitava, forma puca, broj telefona ne radi na mobilnom ili poruka na strani nema veze sa oglasom, dodatni klikovi samo skupljaju frustraciju.
+
+Još jedan jak signal: prodaja nema kapacitet da odgovori. Kampanja koja dovodi upite, a tim odgovara sutradan ili posle vikenda, izgleda loše u izveštaju iako problem nije u oglasima. Tu ne treba nužno ugasiti kanal zauvek. Treba zaustaviti potrošnju dok se ne sredi proces.
+
+## Kada ne treba pauzirati kampanju prerano
+
+Neke firme ugase kampanju baš kada je počela da pokazuje šta treba popraviti. Potrošeno je premalo novca, stiglo je pet upita, dva su bila loša i odluka je već doneta.
+
+Kod lead generation kampanja, pet upita retko je dovoljan uzorak. Ako je usluga skuplja ili niša uža, prvi ozbiljan zaključak često dolazi tek kada imate dovoljno klikova, search terms podataka i bar desetak razgovora sa leadovima. Ne savršenih leadova. Razgovora iz kojih se vidi zašto ljudi pitaju, šta ih koči i kakav budžet imaju.
+
+Ne treba pauzirati ni kada problem ima jasan, brz fix. Ako jedan ad group troši previše, ne mora da strada cela kampanja. Ako jedna ključna reč vuče loše posete, dodaju se negative keywords. Ako landing stranica ima slab CTA, menja se sekcija iznad forme. Ako forma traži previše podataka, skraćuje se.
+
+Drugim rečima, pauza nije zamena za menadžment kampanje. Ona je alat kada sistem trenutno ne može da uči ili kada trošak nema kontrolu.
+
+## Tabela odluke za narednih 30 dana
+
+Najbolji način da se izbegne drama je jednostavna tabela. Ne mora biti komplikovan CRM. Dovoljno je da svake nedelje upišete:
+
+1. potrošen budžet,
+2. broj klikova,
+3. broj leadova,
+4. broj kvalifikovanih leadova,
+5. broj zakazanih razgovora,
+6. broj poslatih ponuda,
+7. procenjenu vrednost prilika,
+8. razloge za izgubljene upite.
+
+Posle 30 dana odluka je mnogo čistija. Ako ima klikova, ali nema upita, problem je najčešće u intentu, poruci ili landing stranici. Ako ima upita, ali nema kvalifikacije, problem je u ponudama, ključnim rečima, formi ili filtriranju publike. Ako ima kvalifikovanih upita, ali nema prodaje, pogledajte cenu, follow-up i prodajni razgovor.
+
+Ovo se lepo naslanja na tekst o [praćenju konverzija za lead generation](/blog/pracenje-konverzija-lead-generation-srbija-2026). Bez podataka posle forme, kampanja se ocenjuje po pola slike.
+
+## Redosled popravke pre većeg budžeta
+
+Neke firme povećaju budžet čim vide dva dobra upita. Druge ga smanje čim vide tri loša. Obe odluke mogu biti prerane.
+
+Pre skaliranja sredite redosled:
+
+1. proverite da li se meri stvarno slanje forme ili poziv,
+2. pregledajte search terms i dodajte negativne ključne reči,
+3. razdvojite opšte i komercijalne pretrage,
+4. uskladite oglas, landing stranicu i ponudu,
+5. uvedite brz follow-up,
+6. izračunajte maksimalni CPL po marži,
+7. tek onda povećavajte budžet po segmentima.
+
+Ako firma nema jasan mesečni okvir, otvorite i tekst o [minimalnom budžetu za lead generation](/blog/minimalni-budzet-za-lead-generation-srbija-2026). Premali test često napravi lažan zaključak. Prevelik test bez kontrole napravi skup haos.
+
+Za širu sliku troškova, tu je i strana [cene digitalnog marketinga](/cene-digitalnog-marketinga), jer Ads budžet nije jedini trošak. Tu su vođenje kampanje, landing stranica, tracking, kreativni materijal i prodajni proces.
+
+## Pauza treba da zaštiti novac, ne ego
+
+Najzdravija odluka obično nije dramatična. Nekad treba pauzirati celu kampanju na dva dana i popraviti tracking. Nekad treba zaustaviti samo najširi ad group. Nekad treba ostaviti kampanju da radi, ali spustiti dnevni budžet dok se ne skupe bolji podaci. Nekad treba ugasiti sve i priznati da ponuda ne odgovara tržištu.
+
+Poenta je da pauza ima razlog i sledeći korak. "Ne radi" nije dijagnoza. "Trošimo 70% budžeta na nerelevantne upite, forma nema kvalifikaciju i prodaja kasni više od 12 sati" jeste dijagnoza.
+
+Ako želite da proverimo da li vašu kampanju treba pauzirati, popraviti ili skalirati, pošaljite nam trenutni Ads pregled, landing stranicu i poslednjih 20 upita. Krenite od [kontakt forme](/kontakt), pa ćemo izračunati gde budžet curi i šta ima smisla prvo srediti.
+`
+  },
+  {
     slug: 'brzina-odgovora-na-upit-follow-up-prodaja-srbija-2026',
     title: 'Brzina odgovora na upit u Srbiji 2026: kako follow-up diže prodaju',
     excerpt: 'Dobri leadovi često propadnu jer prodaja kasni, šalje generičke poruke ili nema jasan sledeći korak. Evo kako srediti follow-up proces.',
