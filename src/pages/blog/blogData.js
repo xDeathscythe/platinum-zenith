@@ -1,5 +1,149 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'google-ads-za-turisticke-agencije-cena-upita-srbija-2026',
+    title: 'Google Ads za turističke agencije u Srbiji 2026: cena upita i rezervacije',
+    excerpt: 'Kako turističke agencije u Srbiji mogu da koriste Google Ads za aranžmane, vize, letovanja i poslovna putovanja bez kupovine praznih klikova.',
+    date: '2026-06-06',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Turističke agencije', 'Lead Generation', 'Marketing budžet'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Turistička agencija ne prodaje klik, nego poverenje pre rezervacije
+
+Turističke agencije u Srbiji često uđu u Google Ads sa jednostavnom idejom: ljudi već traže letovanje, zimovanje, vizu ili avio kartu, pa kampanja treba samo da ih dovede na sajt. Na papiru zvuči logično. U praksi, budžet brzo ode na široke pretrage, radoznale posetioce i ljude koji samo porede cenu sa pet otvorenih tabova.
+
+Nije problem što ljudi porede. To je normalno. Problem nastane kada kampanja tretira svaku pretragu kao isti intent. Neko ko kuca "Grčka leto 2026" nije isti lead kao osoba koja traži "porodični hotel Tasos polupansion jul" ili "viza za Kinu agencija Beograd". Prvi možda tek mašta. Drugi već sklapa plan.
+
+Zato Google Ads za turističke agencije mora da se gradi oko konkretne ponude, sezone i marže. Ako se sve pusti u jednu kampanju, agencija dobije puno klikova i malo razgovora koji mogu da se pretvore u rezervaciju.
+
+Ako vam treba širi okvir kanala za ovu nišu, pogledajte i stranu [marketing za turističke agencije](/marketing-za-turisticke-agencije). Ovaj tekst je uži: kako da Search budžet kupuje ozbiljne upite, a ne samo saobraćaj.
+
+## Koliko može da košta upit za turističku agenciju
+
+Cena upita zavisi od destinacije, sezone, konkurencije, tipa aranžmana i toga da li se meri forma, poziv ili stvarna rezervacija. Kod jednostavnih upita za letovanja i city break ponude, cena kontakta često može biti niža, ali kvalitet varira. Kod viza, dalekih putovanja, poslovnih putovanja, luksuznih aranžmana ili grupnih tura, klik može biti skuplji, ali jedan dobar lead vredi mnogo više.
+
+Greška koju neke agencije naprave je da gledaju samo CPL. Kampanja koja donese upit za 3 evra ne znači mnogo ako ljudi pitaju "imate li nešto najjeftinije" i ne odgovore posle prve poruke. Kampanja sa upitom od 12 ili 18 evra može biti bolja ako osoba traži konkretan datum, broj putnika, budžet i želi poziv danas.
+
+Zato treba računati bar tri broja:
+
+1. cenu sirovog upita,
+2. cenu kvalifikovanog upita,
+3. cenu rezervacije.
+
+Ako agencija zna prosečnu proviziju ili maržu po rezervaciji, onda može da izračuna koliko sme da plati za razgovor. Bez toga, optimizacija se svodi na osećaj. Za osnovnu matematiku može da posluži [ROI kalkulator](/alati/roi-kalkulator), posebno ako već imate podatke o prosečnoj vrednosti rezervacije i stopi zatvaranja.
+
+## Najopasnije su preširoke ključne reči
+
+Turizam ima mnogo lepih, ali opasno širokih pretraga. "Letovanje Grčka", "putovanja Evropa", "Dubai aranžmani", "avio karte" i slične fraze mogu pojesti budžet pre nego što prodaja dobije ijedan ozbiljan razgovor.
+
+To ne znači da su te reči zabranjene. Znači da ne smeju stajati same, bez filtera. Ako landing stranica nema jasnu ponudu, cenu od, termin, tip putnika i sledeći korak, oglas privlači sve. Porodice, studente, ljude koji samo gledaju slike, ljude koji već imaju agenciju, ljude koji žele aranžman koji firma ne prodaje.
+
+Bolje rade uži klasteri:
+
+- letovanje Grčka za porodice,
+- Turska all inclusive iz Beograda,
+- viza za Kinu preko agencije,
+- grupna putovanja za firme,
+- putno osiguranje i aranžman u paketu,
+- medeni mesec Maldivi agencija,
+- školske ekskurzije i grupne ture.
+
+Svaki klaster treba svoju poruku. Ne mora svaki da ima posebnu veliku stranicu od prvog dana, ali mora da ima bar posebnu sekciju, formu ili landing stranicu koja ne tera osobu da sama traži relevantnu ponudu.
+
+## Sezona menja pravila kampanje
+
+Turistički marketing nije ravan tokom cele godine. Letovanja, zimovanja, first minute, last minute, praznična putovanja, vize i poslovna putovanja imaju različit ritam. Kampanja koja ima smisla u februaru može biti preskupa u julu. Kampanja koja radi za first minute ne mora raditi za last minute.
+
+Česta greška je da se ista kampanja samo pojača kada krene sezona. To obično podigne potrošnju, ali ne mora da podigne rezervacije. U sezoni raste i konkurencija, korisnici brže porede ponude, a agencija ima manje vremena da odgovori.
+
+Za turističku agenciju ima smisla planirati budžet po fazama:
+
+1. istraživanje i prikupljanje publike pre sezone,
+2. Search kampanje za konkretne destinacije kada potražnja raste,
+3. remarketing za ljude koji su gledali ponudu, ali nisu poslali upit,
+4. hitne last minute kampanje samo za ponude koje se stvarno mogu brzo zatvoriti,
+5. posebne kampanje za vize, poslovna putovanja ili grupne aranžmane van glavne sezone.
+
+Ako je budžet mali, bolje je osvojiti jedan profitabilan segment nego juriti celu mapu sveta.
+
+## Landing stranica mora da skine rizik sa kupca
+
+Kod putovanja, osoba ne kupuje samo termin i hotel. Kupuje sigurnost da neće pogrešiti. Zato stranica mora da odgovori na pitanja pre nego što prodaja dobije poziv.
+
+Minimum koji treba da se vidi:
+
+- kome je aranžman namenjen,
+- šta je uključeno u cenu,
+- šta nije uključeno,
+- polasci i okvirni datumi,
+- raspon cene ili "od" cena ako je realna,
+- način plaćanja,
+- šta se dešava posle slanja upita,
+- kontakt telefon koji radi na mobilnom,
+- jasna forma sa brojem putnika, terminom i željenom destinacijom.
+
+Neke agencije naprave lep oglas, a pošalju ljude na stranicu sa deset različitih ponuda i sitnim tekstom. Posetilac tada ne zna da li je ponuda važeća, da li ima mesta i kome treba da piše. Oglas je doveo čoveka, ali stranica nije završila svoj deo posla.
+
+Ako se za kampanje pravi posebna stranica, korisno je proći kroz osnovni vodič za [izradu landing stranice koja konvertuje](/blog/kako-napraviti-landing-stranicu-koja-konvertuje). Kod turizma, landing stranica ne mora biti agresivna. Mora biti jasna, ažurna i dovoljno konkretna da osoba može da odluči da pošalje upit.
+
+## Pozivi vrede više nego što dashboard pokazuje
+
+Kod turističkih agencija veliki deo prodaje i dalje ide preko telefona, Vibera ili WhatsApp-a. Ljudi žele da pitaju za dete, pasoš, transfer, doplatu, sobu, osiguranje ili rok plaćanja. Ako se meri samo forma, deo najboljih upita nestane iz izveštaja.
+
+Zato tracking treba da meri:
+
+- slanje forme,
+- klik na broj telefona,
+- klik na WhatsApp ili Viber ako postoje na sajtu,
+- klik na email,
+- rezervaciju termina za razgovor ako se koristi,
+- kvalifikovan lead u prodajnoj tabeli ili CRM-u.
+
+Još važnije, prodaja mora da zabeleži šta se desilo. Upit nije rezultat sam po sebi. Rezultat je rezervacija, avans, plaćen aranžman ili bar ozbiljna ponuda sa jasnim sledećim korakom.
+
+Ako tracking trenutno nije sređen, dobar početak je tekst o [praćenju konverzija za lead generation](/blog/pracenje-konverzija-lead-generation-srbija-2026). Turistička agencija bez praćenja poziva često potcenjuje kampanje koje joj donose najspremnije kupce.
+
+## Šta raditi sa malim budžetom
+
+Mala agencija ne mora da se takmiči za svaku destinaciju. To je najbrži put do tankog budžeta. Bolje je uzeti jednu ponudu gde postoji dobra marža, dobar odgovor prodaje i dovoljno potražnje.
+
+Primer: umesto "letovanja 2026", kampanja može krenuti sa porodičnim aranžmanima za jednu regiju, vizama za jednu zemlju, grupnim putovanjima za firme ili premium honeymoon ponudom. Ako se segment pokaže profitabilnim, širi se. Ako ne radi, bar je jasno šta se testiralo.
+
+Minimalan test treba da ima:
+
+1. jedan jasan segment,
+2. odvojene oglase za taj segment,
+3. landing stranicu ili sekciju sa konkretnom ponudom,
+4. merenje poziva i forme,
+5. tabelu sa ishodom svakog upita,
+6. odluku posle 14 do 30 dana na osnovu kvalifikovanih upita, ne samo klikova.
+
+Za okvir troškova vođenja kampanja pogledajte [Google reklame cena](/google-reklame-cena) i [cene digitalnog marketinga](/cene-digitalnog-marketinga). Medijski budžet i mesečni fee nisu problem ako postoji jasna računica. Problem je kada agencija plaća vidljivost, a ne zna koja vidljivost donosi rezervacije.
+
+## Kada Google Ads nije prvi kanal
+
+Google Search je jak kada već postoji aktivna potražnja. Ako ljudi traže vizu, destinaciju, aranžman ili tip putovanja, oglas može uhvatiti nameru. Ali za nove ture, egzotične destinacije, tematska putovanja ili ponude koje ljudi ne znaju da traže, Google nije uvek prvi kanal.
+
+Tu često bolje radi kombinacija sadržaja, društvenih mreža, email liste i remarketinga. Search hvata ljude kada počnu da pretražuju. Društvene mreže mogu da naprave želju ranije. SEO može da pokupi informativne pretrage mesecima pre odluke.
+
+Zato ozbiljan plan za turističku agenciju obično nije samo jedan kanal. Google Ads dobija najkomercijalnije pretrage, a ostatak sistema greje publiku, objašnjava ponudu i vraća ljude koji još nisu spremni.
+
+## Zaključak: manje destinacija, više kontrole
+
+Google Ads za turističke agencije radi kada kampanja zna šta prodaje. Ne "putovanja". Ne "letovanja". Nego konkretan segment, konkretan tip putnika, konkretan sledeći korak.
+
+Najveća šteta obično ne dolazi od skupog klika. Dolazi od nejasne ponude, preširokih reči, sporog odgovora i izveštaja koji broji kontakte bez kvaliteta. Kada se to sredi, isti budžet može doneti manje upita, ali više rezervacija.
+
+Ako želite da proverimo kampanje, landing stranicu i način merenja za vašu turističku agenciju, pošaljite nam trenutne ponude, budžet i poslednjih 20 upita. Krenite od [kontakt forme](/kontakt), pa ćemo videti gde se gubi prodaja: u pretrazi, poruci, stranici, praćenju ili follow-up-u.
+`
+  },
+
+  {
     slug: 'pracenje-konverzija-lead-generation-srbija-2026',
     title: 'Praćenje konverzija za lead generation u Srbiji 2026: gde stvarno curi budžet',
     excerpt: 'Ako kampanja ima klikove i upite, ali prodaja ne vidi rezultat, problem je često u pogrešnom praćenju poziva, formi i kvaliteta leadova.',

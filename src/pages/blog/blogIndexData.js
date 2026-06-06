@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-turisticke-agencije-cena-upita-srbija-2026",
+    "title": "Google Ads za turističke agencije u Srbiji 2026: cena upita i rezervacije",
+    "excerpt": "Kako turističke agencije u Srbiji mogu da koriste Google Ads za aranžmane, vize, letovanja i poslovna putovanja bez kupovine praznih klikova.",
+    "date": "2026-06-06",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "pracenje-konverzija-lead-generation-srbija-2026",
     "title": "Praćenje konverzija za lead generation u Srbiji 2026: gde stvarno curi budžet",
     "excerpt": "Ako kampanja ima klikove i upite, ali prodaja ne vidi rezultat, problem je često u pogrešnom praćenju poziva, formi i kvaliteta leadova.",
