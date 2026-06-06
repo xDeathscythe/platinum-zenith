@@ -1,5 +1,153 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'brzina-odgovora-na-upit-follow-up-prodaja-srbija-2026',
+    title: 'Brzina odgovora na upit u Srbiji 2026: kako follow-up diže prodaju',
+    excerpt: 'Dobri leadovi često propadnu jer prodaja kasni, šalje generičke poruke ili nema jasan sledeći korak. Evo kako srediti follow-up proces.',
+    date: '2026-06-06',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Lead Generation', 'Follow-up', 'Prodaja', 'Konverzije'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Kampanja može da kupi nameru, ali ne može da zove umesto prodaje
+
+Mnogo firmi u Srbiji gleda kampanju kao glavni izvor problema. Ako ima klikova, ali nema dovoljno prodaje, prva reakcija je obično: oglasi ne rade, publika je loša ili agencija nije pogodila targeting.
+
+Nekad je to tačno. Često nije.
+
+Česta slika izgleda ovako: osoba pošalje upit, dobije automatsku potvrdu ili ne dobije ništa, firma odgovori za nekoliko sati, poruka zvuči kao šablon, a sledeći korak nije jasan. Do tada je ista osoba već otvorila još tri sajta, poslala još dve forme i možda zakazala razgovor sa konkurencijom.
+
+Marketing je kupio trenutak pažnje. Prodajni proces ga je pustio da se ohladi.
+
+Ako već ulažete u [digitalni marketing](/digitalni-marketing), follow-up nije sitnica posle kampanje. To je deo sistema koji odlučuje da li se plaćen upit pretvara u razgovor, ponudu i klijenta.
+
+## Zašto brzina odgovora menja kvalitet leada
+
+Lead nije isti posle 5 minuta i posle 24 sata. Namena pretrage se hladi. Problem koji je delovao hitno postaje još jedna otvorena kartica. Osoba zaboravi šta je tačno poslala, posebno ako je u istom danu kontaktirala više firmi.
+
+Neke firme zato pogrešno zaključe da dobijaju loše leadove. U tabeli piše da je upit stigao. U praksi, prodaja je zvala kada je osoba već bila zauzeta, dogovorila drugi sastanak ili izgubila interesovanje.
+
+Dobar prvi odgovor ne mora da bude savršena prodajna prezentacija. Mora da potvrdi tri stvari:
+
+1. upit je primljen,
+2. firma razume šta osoba želi,
+3. postoji jasan sledeći korak.
+
+To može biti poziv, kratka kvalifikaciona poruka, link za zakazivanje razgovora ili zahtev za dodatne informacije. Bitno je da osoba ne ostane u praznom prostoru.
+
+## Najčešće greške u follow-up-u
+
+Prva greška je kašnjenje. Firma plaća klikove u realnom vremenu, ali odgovara kada neko stigne. To posebno boli kod usluga gde korisnik traži brzo rešenje: privatne klinike, stomatolozi, advokati, majstori, računovođe, turističke agencije, škole jezika, domovi za stare.
+
+Druga greška je generička poruka. Na primer: Hvala na upitu, javićemo vam se. To je bolje od tišine, ali ne pomera prodaju. Osoba ne zna kada će se neko javiti, šta treba da pripremi i da li je došla na pravo mesto.
+
+Treća greška je prerano slanje cene bez dijagnoze. Neke firme dobiju poruku tipa koliko košta, pa odmah pošalju cenovnik. Ako je usluga kompleksna, takav odgovor samo poziva poređenje sa najjeftinijom ponudom. Bolje je prvo saznati kontekst: lokaciju, cilj, rok, budžet, obim posla i kriterijume odluke.
+
+Četvrta greška je jedan pokušaj. Prodaja pošalje poruku, osoba ne odgovori odmah, i lead se proglasi mrtvim. U realnom životu ljudi voze, rade, vode decu kod lekara ili sede na sastanku. Jedan pokušaj nije proces.
+
+## Kako izgleda zdrav follow-up za lead generation
+
+Za većinu uslužnih firmi dovoljan je jednostavan sistem. Ne treba veliki CRM od prvog dana. Treba disciplina.
+
+Minimalan proces može da izgleda ovako:
+
+1. automatska potvrda odmah posle forme,
+2. prvi poziv ili personalizovana poruka u roku od 5 do 15 minuta tokom radnog vremena,
+3. drugi pokušaj istog dana ako nema odgovora,
+4. treći pokušaj sledećeg radnog dana,
+5. kratka poruka sa korisnim kontekstom, ne samo pitanje da li ste tu,
+6. beleška o ishodu: nije relevantno, nema budžet, zakazana konsultacija, poslata ponuda, zatvoreno, izgubljeno.
+
+Ovo zvuči osnovno, ali baš tu curi novac. Firma može imati solidnu [Google Ads kampanju](/google-reklame-cena), dobru landing stranicu i korektan budžet, a da izgubi pola prilika zato što niko ne vodi evidenciju šta se desilo posle prve poruke.
+
+Ako nemate podatke o ishodu, ne znate da li je problem u oglasu, ponudi, ceni, prodaji ili brzini odgovora.
+
+## Poruka mora da nastavi isti razgovor koji je oglas započeo
+
+Loš follow-up često zvuči kao da ga piše druga firma. Oglas obećava konkretno rešenje. Landing stranica priča o jednom problemu. Prodaja onda pošalje hladnu, opštu poruku bez veze sa tim kontekstom.
+
+Bolji odgovor koristi ono što osoba već zna i želi.
+
+Primer za landing stranicu za WordPress sajt:
+
+Primili smo upit za izradu WordPress sajta. Da bismo vam rekli realan raspon cene i roka, treba nam još samo ovo: da li je u pitanju prezentacioni sajt ili prodajni sajt, koliko stranica planirate i da li već imate tekstove i fotografije. Ako vam odgovara, možemo danas da prođemo kroz to u 15 minuta.
+
+Nije komplikovano. Nije agresivno. Ali vodi osobu ka sledećem koraku.
+
+Ako prodajete skuplju uslugu, follow-up treba da štiti vrednost. Ne spušta cenu u prvoj poruci. Prvo razume problem, zatim objašnjava proces, pa tek onda priča o investiciji. Zato se follow-up prirodno naslanja na [cene digitalnog marketinga](/cene-digitalnog-marketinga) i slične strane koje objašnjavaju šta ulazi u cenu.
+
+## Forma treba da pomogne prodaji, ne samo marketingu
+
+Neke forme traže samo ime, telefon i email. To donosi više upita, ali prodaja često kreće od nule. Druge forme traže previše detalja i ubiju konverziju pre slanja. Dobar balans zavisi od usluge.
+
+Za jednostavne usluge, kratka forma ima smisla. Za skuplje ili kompleksnije usluge, korisno je dodati 2 do 4 kvalifikaciona pitanja:
+
+- koja usluga je potrebna,
+- grad ili zona rada,
+- okvirni rok,
+- okvirni budžet,
+- da li osoba želi poziv, ponudu ili konsultaciju.
+
+Ovo ne služi da se ljudi odbiju. Služi da prvi odgovor bude bolji. Ako prodaja zna kontekst, može da pošalje konkretniju poruku i brže zaključi da li upit vredi dalji razgovor.
+
+Za kampanje koje već imaju dosta praznih kontakata, pročitajte i tekst o [lošim leadovima i kvalitetu upita](/blog/losi-leadovi-kako-popraviti-kvalitet-upita-srbija-2026). Kvalifikacija i follow-up rade zajedno. Jedno bez drugog daje iskrivljenu sliku.
+
+## Šta meriti posle upita
+
+Dashboard iz oglasa ne vidi ceo prodajni proces. On zna da je neko kliknuo, poslao formu ili pozvao. Ne zna da li je prodaja odgovorila za 8 minuta ili sutradan. Ne zna da li je lead bio kvalifikovan. Ne zna da li je ponuda poslata.
+
+Zato treba voditi jednostavnu tabelu ili CRM sa sledećim kolonama:
+
+1. datum i vreme upita,
+2. kanal i kampanja,
+3. usluga ili ponuda,
+4. vreme prvog odgovora,
+5. broj pokušaja kontakta,
+6. status kvalifikacije,
+7. sledeći korak,
+8. ishod.
+
+Posle 30 dana vidi se obrazac. Možda Google donosi manje upita, ali bolji procenat konsultacija. Možda Meta donosi mnogo poruka, ali prodaja gubi vreme na ljude bez budžeta. Možda landing stranica radi, ali prodaja kasni ponedeljkom. To su stvari koje ne možete videti iz samog CPC-a.
+
+Za širu postavku merenja, otvorite vodič za [praćenje konverzija u lead generation kampanjama](/blog/pracenje-konverzija-lead-generation-srbija-2026). Bez toga je teško znati da li popravljate pravi deo funnel-a.
+
+## Kada automatizacija pomaže, a kada pravi štetu
+
+Automatizacija je korisna za potvrdu, podsetnik i osnovno usmeravanje. Može odmah poslati poruku, otvoriti tiket, upisati lead u CRM i obavestiti prodaju.
+
+Ali automatizacija ne sme da zvuči kao zid. Ako osoba šalje ozbiljan upit, a dobije tri hladne poruke koje ništa ne pitaju i ništa ne rešavaju, firma izgleda veće nego što jeste, ali ne i pouzdanije.
+
+Dobar sistem kombinuje brzinu i ljudski dodir. Automatska poruka kaže šta se dešava. Čovek zatim preuzima razgovor sa kontekstom. Ako je tim mali, to je još važnije, jer nema luksuz da baca plaćene upite.
+
+## Redosled popravke
+
+Ako leadovi stižu, ali prodaja škripi, nemojte odmah povećavati budžet. Prvo zatvorite rupe koje ne traže veći ad spend.
+
+Krenite ovim redom:
+
+1. proverite da li svaki upit dobija automatsku potvrdu,
+2. dogovorite maksimalno vreme prvog odgovora,
+3. napišite 3 do 5 šablona koji se prilagođavaju usluzi,
+4. dodajte kvalifikaciona pitanja u formu ako prodaja nema dovoljno konteksta,
+5. uvedite obavezno beleženje ishoda,
+6. jednom nedeljno pregledajte izgubljene upite i razloge.
+
+Tek kada ovo radi, ima smisla skalirati kampanju. Inače veći budžet samo pravi više propuštenih prilika.
+
+## Dobar follow-up ne spašava lošu ponudu, ali spašava dobre leadove
+
+Ako je ponuda nejasna, cena nerealna ili stranica ne uliva poverenje, brz odgovor neće rešiti sve. Ali ako kampanja već dovodi ljude sa namerom, follow-up je često najjeftiniji način da se poveća prodaja bez povećanja budžeta.
+
+Nekim firmama ne treba još 30 procenata više klikova. Treba im da prestanu da gube ljude koji su već podigli ruku.
+
+Ako želite da proverimo gde vam leadovi nestaju, pošaljite nam primer kampanje, landing stranice i poslednjih 20 upita. Krenite od [kontakt forme](/kontakt), pa ćemo videti da li problem stoji u oglasima, stranici, kvalifikaciji, brzini odgovora ili prodajnom procesu.
+`
+  },
+  {
     slug: 'google-ads-za-turisticke-agencije-cena-upita-srbija-2026',
     title: 'Google Ads za turističke agencije u Srbiji 2026: cena upita i rezervacije',
     excerpt: 'Kako turističke agencije u Srbiji mogu da koriste Google Ads za aranžmane, vize, letovanja i poslovna putovanja bez kupovine praznih klikova.',

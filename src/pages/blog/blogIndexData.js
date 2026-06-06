@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "brzina-odgovora-na-upit-follow-up-prodaja-srbija-2026",
+    "title": "Brzina odgovora na upit u Srbiji 2026: kako follow-up diže prodaju",
+    "excerpt": "Dobri leadovi često propadnu jer prodaja kasni, šalje generičke poruke ili nema jasan sledeći korak. Evo kako srediti follow-up proces.",
+    "date": "2026-06-06",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-turisticke-agencije-cena-upita-srbija-2026",
     "title": "Google Ads za turističke agencije u Srbiji 2026: cena upita i rezervacije",
     "excerpt": "Kako turističke agencije u Srbiji mogu da koriste Google Ads za aranžmane, vize, letovanja i poslovna putovanja bez kupovine praznih klikova.",
