@@ -1,5 +1,125 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'google-ads-za-servise-klima-cena-poziva-srbija-2026',
+    title: 'Google Ads za servise klima u Srbiji 2026: cena poziva, sezona i budžet',
+    excerpt: 'Servisi klima imaju kratak sezonski prozor i mnogo hitnih poziva. Evo kako planirati Google Ads budžet, landing stranicu i follow-up bez bacanja novca.',
+    date: '2026-06-07',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Servis klima', 'Lokalni marketing', 'Lead Generation'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Servis klima ne može da čeka septembar da popravi marketing
+
+Servisi klima u Srbiji imaju nezgodan ritam. U maju i junu telefon kreće da zvoni. U julu, ako udari vrućina, svi žele montažu ili popravku odmah. U septembru se mnogi sete da su mogli ranije da podešavaju oglase, ali tada je najveći deo sezone već prošao.
+
+Zato Google Ads za servise klima nije samo pitanje cene klika. Pitanje je koliko brzo firma može da uhvati nameru, proceni da li je poziv ozbiljan i pošalje ekipu na posao koji ima maržu.
+
+Česta greška je da se kampanja pusti tek kada nastane haos. Oglasi krenu, svi upiti idu na jednu stranicu, nema jasne razlike između montaže, servisa, dopune freona i hitne popravke, a vlasnik posle pet dana gleda izveštaj i pita se zašto pola poziva nije vredno izlaska na teren.
+
+Ako planirate prvi test, počnite od realnog okvira za [Google reklame i cenu kampanja](/google-reklame-cena). Ako već imate sezonu pred vratima, ovaj tekst je praktičan redosled šta treba srediti pre nego što budžet ode na prazne pozive.
+
+## Ko najviše traži servis klima preko Google-a
+
+Pretraga za klima servis ima jak lokalni intent. Ljudi ne žele edukativni tekst od 2.000 reči kada klima curi, ne hladi ili treba montaža pre selidbe. Žele cenu, termin i dokaz da firma stvarno pokriva njihov grad.
+
+Tu se obično pojavljuju četiri tipa upita:
+
+1. hitna popravka kada klima ne radi,
+2. redovan servis pre sezone,
+3. montaža nove klime,
+4. dopuna gasa, čišćenje ili dezinfekcija.
+
+Greška je sve to gurati u isti oglas i istu landing stranicu. Osoba koja traži montažu razmišlja o roku, garanciji i urednosti radova. Osoba kojoj klima curi želi da zna da li neko može danas ili sutra. Ako poruka zvuči isto za oba slučaja, dobijaju se pozivi, ali slabija konverzija u plaćen posao.
+
+## Koliko može da košta poziv za servis klima
+
+Raspon zavisi od grada, sezone, konkurencije i hitnosti. U manjim mestima cena klika može biti niža, ali je i volumen manji. U Beogradu, Novom Sadu, Nišu i većim gradovima konkurencija lakše podigne CPC baš kada temperatura skoči.
+
+Za servis klima ne treba gledati samo cenu po pozivu. Treba gledati cenu po korisnom pozivu. Jedan poziv može biti osoba koja pita okvirnu cenu i nikada se ne javi. Drugi može biti montaža dve klime u stanu, redovno održavanje za firmu ili hitna intervencija koja se plaća isti dan.
+
+Praktičan način razmišljanja:
+
+1. izračunajte prosečnu zaradu po vrsti posla,
+2. procenite koliko poziva se pretvara u izlazak na teren,
+3. odredite maksimalnu cenu korisnog poziva,
+4. tek onda podešavajte dnevni budžet.
+
+Za računicu može pomoći [ROI kalkulator](/alati/roi-kalkulator). Ako montaža donosi mnogo veću maržu od sitne intervencije, nema smisla da obe vrste upita imaju isti limit i isti prioritet.
+
+## Sezona menja pravila kampanje
+
+Kampanja za servis klima u martu i kampanja u julu nisu isti posao. U martu ljudi često proveravaju cenu i planiraju. U julu traže termin odmah. To znači da isti oglas može imati potpuno drugačiji rezultat u zavisnosti od meseca.
+
+Mnoge firme naprave problem jer u sezoni drže kampanju kao da je van sezone. Budžet je premali, raspored prikazivanja nije usklađen sa radnim vremenom, a oglasi obećavaju brz odgovor iako niko ne stiže da se javlja dok su ekipe na terenu.
+
+Još gori scenario je suprotan. Firma poveća budžet bez filtera, dobije mnogo poziva, ali pola njih dolazi za lokacije koje ne pokriva ili za poslove koje ne želi. Izveštaj izgleda aktivno, telefon zvoni, a dan se puni malim intervencijama koje pojedu vreme.
+
+Zato pre sezone treba imati posebne kampanje ili bar jasne ad group-ove za montažu, servis, hitne popravke i gradove. Nije komplikovano. Samo mora da postoji red.
+
+## Landing stranica mora da odgovori na pet pitanja
+
+Kod servisa klima landing stranica ne mora da bude lepa kao portfolio. Mora brzo da skine nesigurnost.
+
+Dobra stranica odmah odgovara na pitanja:
+
+1. koje usluge radite,
+2. koje gradove i opštine pokrivate,
+3. da li postoji okvirna cena ili raspon,
+4. koliko brzo možete da izađete na teren,
+5. kako se zakazuje termin.
+
+Ako stranica kaže samo "povoljan servis klima" i ima formu bez detalja, ljudi će zvati da izvuku osnovne informacije. To povećava broj kontakata, ali ne nužno i broj dobrih poslova.
+
+Za firme koje nemaju posebnu stranicu po usluzi, često je bolje prvo srediti jednu kvalitetnu landing stranicu nego sipati veći budžet u opšti sajt. O tome se detaljnije priča u tekstu o [landing stranici koja konvertuje](/blog/kako-napraviti-landing-stranicu-koja-konvertuje), a širi okvir cena možete uporediti sa stranom [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Najčešće greške u oglasima za klima servise
+
+Prva greška je preširoko targetiranje. Kampanja pokriva ceo okrug, ali ekipa realno želi samo grad i bližu okolinu. Svaki dalji poziv zvuči kao prilika dok se ne uračuna vreme puta.
+
+Druga greška je mešanje informativnih i hitnih pretraga. Fraze poput "kako očistiti klimu" mogu dovesti posete, ali ne moraju dovesti plaćen posao. Za hitnu sezonu budžet treba čuvati za komercijalne upite: servis klima cena, majstor za klimu, montaža klime, klima ne hladi, klima curi.
+
+Treća greška je loš raspored prikazivanja. Ako se oglasi vrte u periodu kada niko ne odgovara, deo budžeta odlazi na ljude koji će pozvati konkurenciju. Kod ove niše brzina odgovora često vredi više od savršenog copy-ja.
+
+Četvrta greška je nepostojeće praćenje poziva. Ako se meri samo poseta sajtu, kampanja izgleda slabije nego što jeste. Ako se svaki klik na telefon broji kao konverzija, kampanja izgleda bolje nego što jeste. Potreban je minimum reda: pozivi, forme, izvor upita i ishod posla. Vredi pročitati i vodič za [praćenje konverzija kod lead generation kampanja](/blog/pracenje-konverzija-lead-generation-srbija-2026).
+
+## Minimalni budžet za smislen test
+
+Ako servis klima radi u jednom gradu, mali test može imati smisla. Ako pokriva više gradova, više usluga i želi agresivnu sezonu, premali budžet samo napravi mutnu sliku.
+
+Za početak je korisno odvojiti budžet koji može da prikupi dovoljno klikova i poziva po segmentu. Ne mora sve da se testira odjednom. Bolje je krenuti sa jednom ili dve najprofitabilnije usluge nego razvući budžet na montažu, servis, popravke, čišćenje, dezinfekciju i dopunu gasa u deset gradova.
+
+Ako niste sigurni gde je donja granica, otvorite tekst o [minimalnom budžetu za lead generation](/blog/minimalni-budzet-za-lead-generation-srbija-2026). Poenta nije da se potroši više. Poenta je da test bude dovoljno čist da odluka posle dve ili tri nedelje ima smisla.
+
+## Kako izgleda zdrav setup za 30 dana
+
+Za servis klima dobar prvi mesec obično ima jednostavnu strukturu:
+
+1. kampanje po gradu ili zoni pokrivanja,
+2. odvojene grupe za montažu, servis i hitne popravke,
+3. negative keywords za besplatne, polovne i uradi-sam pretrage,
+4. landing stranicu sa cenama, zonama i CTA dugmetom za poziv,
+5. praćenje poziva i forme,
+6. nedeljni pregled korisnih poziva, ne samo klikova.
+
+Posle 30 dana treba znati koje usluge donose najbolji odnos cene i zarade, koji gradovi troše bez dovoljno poslova i u kom periodu dana se javljaju najkorisniji upiti. Tada se budžet ne povećava na osećaj, nego na osnovu obrasca.
+
+Ako firma ima više ekipa, kampanja može da se širi. Ako kapacitet puca, budžet treba usmeriti samo na najprofitabilnije poslove. Marketing nije cilj sam po sebi. Cilj je raspored pun poslova koji se isplate.
+
+## Kada ima smisla tražiti pomoć agencije
+
+Ako servis klima već dobija pozive, ali ne zna koji kanal donosi novac, prvo treba srediti tracking. Ako ima sajt, ali ljudi zovu sa istim osnovnim pitanjima, treba popraviti landing stranicu. Ako oglasi rade, ali sezona pojede kapacitet, treba uvesti bolju kvalifikaciju upita.
+
+Agencija ima smisla kada više nije dovoljno samo pustiti kampanju i čekati. Tada treba povezati Google Ads, landing stranicu, pozive, maržu i raspored ekipa.
+
+Ako želite da proverimo koliko bi Google Ads za vaš servis klima mogao da košta, pošaljite nam gradove koje pokrivate, usluge koje želite najviše i okvirnu zaradu po poslu. Krenite od [kontakt forme](/kontakt), pa ćemo složiti test koji meri korisne pozive, ne samo klikove.
+`
+  },
+  {
     slug: 'kada-pauzirati-google-ads-kampanju-srbija-2026',
     title: 'Kada pauzirati Google Ads kampanju u Srbiji 2026: signali da budžet curi',
     excerpt: 'Kampanja ne mora odmah da se ugasi kada CPL skoči. Evo kada pauzirati, kada popraviti tracking, a kada pustiti test da skupi podatke.',

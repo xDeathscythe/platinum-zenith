@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-servise-klima-cena-poziva-srbija-2026",
+    "title": "Google Ads za servise klima u Srbiji 2026: cena poziva, sezona i budžet",
+    "excerpt": "Servisi klima imaju kratak sezonski prozor i mnogo hitnih poziva. Evo kako planirati Google Ads budžet, landing stranicu i follow-up bez bacanja novca.",
+    "date": "2026-06-07",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "kada-pauzirati-google-ads-kampanju-srbija-2026",
     "title": "Kada pauzirati Google Ads kampanju u Srbiji 2026: signali da budžet curi",
     "excerpt": "Kampanja ne mora odmah da se ugasi kada CPL skoči. Evo kada pauzirati, kada popraviti tracking, a kada pustiti test da skupi podatke.",
