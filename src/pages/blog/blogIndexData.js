@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "vrednost-klijenta-ltv-marketing-budzet-srbija-2026",
+    "title": "Vrednost klijenta u Srbiji 2026: kako LTV menja marketing budžet i cenu leada",
+    "excerpt": "Isti lead od 20 evra može biti preskup za jednu firmu i jeftin za drugu. Evo kako računati vrednost klijenta pre nego što povećate ili ugasite kampanju.",
+    "date": "2026-06-08",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026",
     "title": "Kontakt forma za lead generation u Srbiji 2026: kako kvalifikovati upite bez pada konverzije",
     "excerpt": "Preduga forma ubija broj upita, a prekratka puni prodaju ljudima bez budžeta. Evo kako složiti kontakt formu koja filtrira leadove, ali ne tera ozbiljne kupce.",
