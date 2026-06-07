@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026",
+    "title": "Kontakt forma za lead generation u Srbiji 2026: kako kvalifikovati upite bez pada konverzije",
+    "excerpt": "Preduga forma ubija broj upita, a prekratka puni prodaju ljudima bez budžeta. Evo kako složiti kontakt formu koja filtrira leadove, ali ne tera ozbiljne kupce.",
+    "date": "2026-06-07",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-servise-klima-cena-poziva-srbija-2026",
     "title": "Google Ads za servise klima u Srbiji 2026: cena poziva, sezona i budžet",
     "excerpt": "Servisi klima imaju kratak sezonski prozor i mnogo hitnih poziva. Evo kako planirati Google Ads budžet, landing stranicu i follow-up bez bacanja novca.",

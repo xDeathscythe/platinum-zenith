@@ -1,5 +1,137 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026',
+    title: 'Kontakt forma za lead generation u Srbiji 2026: kako kvalifikovati upite bez pada konverzije',
+    excerpt: 'Preduga forma ubija broj upita, a prekratka puni prodaju ljudima bez budžeta. Evo kako složiti kontakt formu koja filtrira leadove, ali ne tera ozbiljne kupce.',
+    date: '2026-06-07',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Lead Generation', 'CRO', 'Landing stranica', 'Prodaja'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Forma nije sitan detalj na kraju landing stranice
+
+Mnoge lead generation kampanje u Srbiji ne pucaju na oglasu. Klikovi dolaze. Ljudi čitaju stranicu. Ponuda im deluje zanimljivo. Onda dođu do forme i sistem se raspadne.
+
+Neke firme traže ime, telefon, email, grad, firmu, PIB, budžet, rok, opis problema i još tri obavezna polja. Ozbiljan kupac zastane jer nema vremena da piše seminarski rad preko telefona. Druge firme stave samo ime i broj telefona, pa prodaja dobija gomilu razgovora sa ljudima koji nemaju budžet, nisu iz prave lokacije ili tek skupljaju cene.
+
+Oba scenarija troše novac. Razlika je samo gde se trošak vidi. Preduga forma se vidi u slaboj konverziji. Prekratka forma se vidi kasnije, u izgubljenom vremenu prodaje.
+
+Ako već plaćate saobraćaj, prvo proverite širu matematiku u vodiču za [Google reklame i cenu kampanja](/google-reklame-cena). Ako upiti stižu, ali prodaja kaže da su slabi, forma je jedno od prvih mesta koje treba otvoriti.
+
+## Zašto firme prave pogrešnu formu
+
+Najčešća greška je kopiranje forme sa tuđeg sajta. Firma vidi da konkurencija ima pet polja, pa stavi pet polja. Ili vidi da veliki SaaS traži 12 informacija, pa pomisli da i lokalna usluga treba isti tretman.
+
+Forma zavisi od rizika kupovine. Za hitan servis, zubarstvo, selidbe ili klima servis, osoba želi brz odgovor. Tu duga forma često pravi štetu. Za B2B uslugu od nekoliko hiljada evra, konsultantski projekat ili izradu ozbiljnog sajta, nekoliko kvalifikacionih pitanja može pomoći jer štedi vreme obe strane.
+
+Problem nastaje kada se ne zna šta forma treba da uradi. Nekad treba da spusti trenje i dobije prvi kontakt. Nekad treba da odbije ljude koji nikada neće kupiti. Nekad treba da pripremi prodaju da pošalje bolji prvi odgovor.
+
+Bez te odluke, forma postane kompromis koji nikome ne odgovara.
+
+## Kratka forma nije uvek bolja
+
+Kratka forma obično donosi više slanja. To zvuči dobro dok se ne pogleda šta dolazi posle.
+
+Ako forma pita samo ime i telefon, prodaja kreće od nule. Ne zna koju uslugu osoba traži, koji grad je u pitanju, koliko je hitno, da li postoji budžet i šta je osoba već pokušala. Prvi poziv onda ode na osnovna pitanja umesto na kvalifikaciju i sledeći korak.
+
+To nije problem ako firma ima brz tim i jednostavnu uslugu. Za lokalni servis, dovoljno je znati ime, telefon, grad i tip problema. Za skuplju uslugu, takva forma često napravi red ljudi koji nisu spremni za razgovor.
+
+Zato broj leadova ne sme biti jedini cilj. Cilj je broj korisnih razgovora. O tome smo pisali u tekstu o [lošim leadovima i kvalitetu upita](/blog/losi-leadovi-kako-popraviti-kvalitet-upita-srbija-2026): jeftin lead nije pobeda ako prodaja nema šansu da ga zatvori.
+
+## Duga forma nije automatski bolja kvalifikacija
+
+Duga forma može da izgleda ozbiljno, ali često samo skriva nepoverenje. Firma ne zna kako da kvalifikuje lead, pa traži sve. Kupac to čita kao barijeru.
+
+Posebno na mobilnom, svako dodatno obavezno polje ima cenu. Ljudi greše pri kucanju. Tastatura pokrije ekran. Pada koncentracija. Ako forma traži previše pre nego što je osoba dobila dovoljno poverenja, dobar deo ozbiljnih kupaca odustane i ode kod firme koja traži manje.
+
+Kvalifikacija ne mora uvek da bude duga. Ponekad su dovoljna tri pametna pitanja:
+
+1. koja usluga vam treba,
+2. u kom gradu ili zoni se nalazite,
+3. kada želite da krenemo ili kada vam treba odgovor.
+
+Za skuplje usluge može se dodati okvirni budžet, ali pažljivo. Ako ga stavite prerano i bez objašnjenja, ljudi će ga preskočiti ili upisati nasumičan broj. Ako kažete zašto pitate budžet, dobijate bolji signal.
+
+## Polja koja obično imaju smisla
+
+Za većinu lead generation landing stranica, dobar početak je jednostavan:
+
+1. ime,
+2. telefon ili email,
+3. usluga koja ih zanima,
+4. grad ili lokacija,
+5. kratak opis problema,
+6. rok ili hitnost.
+
+To nije sveto pravilo. Frizerski salon, advokatska kancelarija, B2B agencija i servis klima nemaju isti proces. Ali ova polja prodaji daju kontekst bez pretvaranja forme u upitnik od 15 minuta.
+
+Kod digitalnog marketinga, na primer, korisno je pitati da li firma već ima sajt, koji kanal trenutno koristi i okvirni mesečni budžet. Ne zato da se neko odbije po automatizmu, nego da prvi odgovor bude konkretniji. Ako neko ima 300 evra ukupnog budžeta, razgovor izgleda drugačije nego kada firma već troši 2.000 evra mesečno i ne zna gde curi profit.
+
+Za širi okvir troškova i očekivanja, dobra podrška je stranica [cene digitalnog marketinga](/cene-digitalnog-marketinga). Forma ne mora da objašnjava sve, ali treba da vodi osobu ka realnom sledećem koraku.
+
+## Kako pitati budžet bez odbijanja dobrih kupaca
+
+Budžet je korisno pitanje, ali se često postavi trapavo. Ako forma samo izbaci polje "budžet" bez konteksta, deo ljudi ga doživi kao test koji mogu da padnu.
+
+Bolji način je ponuditi raspon. Na primer:
+
+1. do 500 evra mesečno,
+2. 500 do 1.000 evra,
+3. 1.000 do 3.000 evra,
+4. preko 3.000 evra,
+5. nisam siguran, treba mi procena.
+
+Opcija "nisam siguran" je bitna. Neki dobri kupci stvarno ne znaju koliko treba da ulože. Ako ih forma natera da izmisle broj, podaci postaju prljavi. Ako im ostavi prostor za procenu, prodaja može da ih edukuje bez pritiska.
+
+Budžet treba vezati za ekonomiju posla. Ako firma ne zna koliko sme da plati za klijenta, neka prvo izračuna okvir kroz [ROI kalkulator](/alati/roi-kalkulator). Forma ne rešava lošu matematiku, ali može da pokaže da li kampanja dovodi ljude iz pravog raspona.
+
+## Ne tražite poverljive podatke prerano
+
+Još jedna česta greška je traženje previše osetljivih informacija u prvom kontaktu. Ljudi nisu dužni da ostave punu poslovnu istoriju, prihode, tačan budžet i interne probleme pre nego što znaju ko će ih zvati.
+
+Ako je pitanje osetljivo, objasnite zašto ga tražite ili ga ostavite za prodajni poziv. Forma treba da skine prvu neizvesnost, ne da zameni ceo razgovor.
+
+Dobar princip: pitajte samo ono što menja prvi odgovor. Ako prodaja neće koristiti podatak u prvih 24 sata, verovatno ne mora da bude obavezno polje.
+
+## Forma mora da vodi u brz follow-up
+
+Čak i dobra forma propada ako posle slanja nema procesa. Automatska potvrda treba da kaže šta se dešava sledeće: kada osoba može da očekuje odgovor, ko će je kontaktirati i da li treba nešto da pripremi.
+
+Prodaja treba da dobije podatke u formatu koji može odmah da koristi. Ne PDF u inboxu koji neko otvara na kraju dana. Ne generički email subject "Novi upit" bez usluge i grada. Minimum je da poruka jasno pokaže izvor kampanje, uslugu, lokaciju, kontakt i hitnost.
+
+Ako tim odgovara sporo, ni najbolja forma neće spasiti prodaju. Zato je korisno povezati ovaj deo sa tekstom o [brzini odgovora i follow-up procesu](/blog/brzina-odgovora-na-upit-follow-up-prodaja-srbija-2026). Forma skuplja nameru, ali follow-up je pretvara u razgovor.
+
+## Test za 14 dana
+
+Ne treba pogađati savršenu formu iz prve. Dovoljno je napraviti test koji meri više od broja slanja.
+
+Prvih 14 dana pratite:
+
+1. koliko ljudi vidi formu,
+2. koliko je pošalje,
+3. koliko upita je kvalifikovano,
+4. koliko njih prodaja dobije u roku od 15 minuta,
+5. koliko razgovora pređe u ponudu ili zakazan termin.
+
+Ako forma ima malo slanja, smanjite trenje. Izbacite nepotrebna obavezna polja, promenite redosled pitanja ili dodajte objašnjenje iznad forme. Ako ima mnogo slanja, ali malo korisnih razgovora, dodajte jedno ili dva kvalifikaciona pitanja.
+
+Mala promena može imati veliki efekat. Jedno pitanje o lokaciji može skinuti upite iz gradova koje firma ne pokriva. Jedno pitanje o tipu usluge može usmeriti prodaju na pravi scenario. Jedan jasan tekst iznad dugmeta može smanjiti broj ljudi koji samo traže najnižu cenu.
+
+## Dobra forma čuva i marketing i prodaju
+
+Forma nije samo UX detalj. Ona je granica između plaćenog saobraćaja i prodajnog procesa.
+
+Ako je previše laka, marketing izgleda uspešno dok prodaja gubi vreme. Ako je preteška, prodaja dobija manje buke, ali kampanja propušta ozbiljne ljude. Zdrav setup je negde između: dovoljno malo trenja da dobar kupac pošalje upit, dovoljno konteksta da prodaja zna šta da uradi sledeće.
+
+Ako želite da proverimo vašu landing stranicu, formu i follow-up, pošaljite nam link do stranice, trenutni budžet i poslednjih 20 upita ako ih imate. Krenite od [kontakt forme](/kontakt), pa ćemo videti da li problem nastaje u oglasu, formi, kvalifikaciji ili prodajnom procesu.
+`
+  },
+  {
     slug: 'google-ads-za-servise-klima-cena-poziva-srbija-2026',
     title: 'Google Ads za servise klima u Srbiji 2026: cena poziva, sezona i budžet',
     excerpt: 'Servisi klima imaju kratak sezonski prozor i mnogo hitnih poziva. Evo kako planirati Google Ads budžet, landing stranicu i follow-up bez bacanja novca.',
