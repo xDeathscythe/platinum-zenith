@@ -1,5 +1,136 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'in-house-marketing-ili-agencija-cena-budzet-srbija-2026',
+    title: 'In-house marketing ili agencija u Srbiji 2026: gde budžet stvarno ode',
+    excerpt: 'Da li je jeftinije zaposliti marketing osobu ili angažovati agenciju? Evo kako računati platu, alate, vreme, rizik i cenu leada pre odluke.',
+    date: '2026-06-09',
+    readTime: '9 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Marketing budžet', 'In-house marketing', 'Agencija', 'ROI', 'Lead Generation'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Jeftinije nije uvek jeftinije
+
+Mnogo firmi u Srbiji dođe do iste tačke: reklame počinju da troše ozbiljniji novac, vlasnik više ne može sam da vodi kampanje, a neko mora da preuzme marketing. Tada se pojavi pitanje koje zvuči jednostavno: da li zaposliti nekoga interno ili angažovati agenciju?
+
+Na papiru, in-house često izgleda jeftinije. Jedna plata deluje konkretnije od mesečnog fee-ja. Imaš osobu u kancelariji, dostupna je timu, zna proizvod i ne deli vreme sa drugim klijentima.
+
+Ali računica obično pukne zato što se ne poredi ista stvar. Plata jedne osobe se poredi sa celim agencijskim sistemom: strategija, kampanje, copy, dizajn, landing stranice, analitika, optimizacija i izveštavanje. To nije fer poređenje, a najskuplje odluke nastanu baš tu.
+
+Poštena računica nije "šta je manji mesečni trošak". Poštena računica je: šta nam za isti budžet donosi više kvalifikovanih upita, više prodaje i manje haosa.
+
+## Šta zapravo plaćate kod in-house marketinga
+
+Kada firma zaposli marketing osobu, plata je samo početak. Tu su doprinosi, oprema, alati, edukacija, vreme menadžmenta i greške dok se osoba ne uklopi. Ako je osoba junior, treba joj vođenje. Ako je senior, plata više ne liči na jeftinu opciju.
+
+Česta greška je zaposliti jednu osobu i očekivati da bude sve odjednom: media buyer, copywriter, dizajner, analitičar, SEO specijalista, landing page strateg i community manager. Takvi ljudi postoje, ali nisu česti, nisu jeftini i obično ne žele da rade kao odeljenje od jedne osobe.
+
+Zato se u praksi desi nešto drugo. Interna osoba radi ono što stiže. Kampanje se puste, ali se landing stranica ne dira. Pišu se objave, ali se ne meri šta donosi upite. Izveštaj postoji, ali niko ne zna koliko je koštao zakazan razgovor. Marketing radi, ali vlasnik i dalje oseća da novac curi.
+
+Ako firma ima jak prodajni tim, internu produkciju i jasne procese, in-house može biti odličan izbor. Ako nema, jedna osoba često postane usko grlo.
+
+## Šta plaćate kod agencije
+
+Kod agencije ne plaćate samo sate. Bar ne bi trebalo. Plaćate već složen sistem ljudi, alata i odluka koji je prošao kroz više kampanja nego što jedna firma može da testira sama za par meseci.
+
+Dobra agencija treba da donese nekoliko stvari odmah:
+
+1. jasnu procenu gde trenutno curi budžet,
+2. strukturu kampanja i merenja,
+3. predloge za landing stranice i ponudu,
+4. ritam testiranja,
+5. izveštaj koji povezuje trošak sa prodajom.
+
+Loša agencija, naravno, može samo da šalje lepe izveštaje i menja oglase bez veze sa prodajom. Zato cena nije jedino pitanje. Pitanje je šta ulazi u fee i ko stvarno radi na nalogu.
+
+Za okvir tržišnih cena pogledajte stranicu [cene digitalnog marketinga](/cene-digitalnog-marketinga). Ako je fokus pretraga i namera kupovine, dobar sledeći korak je i [Google reklame cena](/google-reklame-cena), jer tamo budžet mora da se veže za cenu klika, cenu leada i kapacitet prodaje.
+
+## Najopasnija skrivena stavka: vreme vlasnika
+
+Mnoge firme zaborave da uračunaju vreme vlasnika. Interna osoba treba brif, prioritete, proveru, feedback i pomoć kada stvari zapnu. Ako vlasnik i dalje mora da vodi kampanje kroz nečije ruke, firma nije kupila marketing sistem. Kupila je još jedan posao za vlasnika.
+
+Isto važi i za agenciju, samo na drugi način. Ako agencija traži od vlasnika da stalno smišlja ponude, piše tekstove, objašnjava svaki detalj i juri izveštaje, onda ni to nije sistem.
+
+Zdrava postavka izgleda ovako: vlasnik daje poslovni kontekst, marže, kapacitet i ciljeve. Marketing tim, interni ili eksterni, pretvara to u kampanje, stranice, merenje i prioritete.
+
+Ako toga nema, budžet se troši na aktivnost. Ne na rezultat.
+
+## Kada in-house ima više smisla
+
+In-house tim ima smisla kada firma već ima dovoljno posla za pun kapacitet osobe ili tima. Na primer, e-commerce sa mnogo proizvoda, B2B firma sa dugim prodajnim ciklusom, klinika sa stalnim sadržajem i jakim operativnim timom, ili veća uslužna firma koja svaki dan ima nove ponude, akcije i interne informacije.
+
+Interna osoba je naročito korisna kada mora brzo da koordinira sa prodajom, operacijom i menadžmentom. Ako se ponuda menja iz nedelje u nedelju, teško je da spoljni partner sve zna bez dobrog procesa.
+
+Ali in-house ne rešava sve. Ako jedna osoba zna društvene mreže, ne znači da zna Google Ads. Ako zna kampanje, ne znači da zna CRO. Ako zna copy, ne znači da zna analitiku.
+
+Zato firma koja bira in-house treba da planira i budžet za spoljne specijaliste. Nekad je najbolja kombinacija interna osoba koja drži kontekst i agencija ili freelancer koji pokriva uske delove.
+
+## Kada agencija ima više smisla
+
+Agencija ima više smisla kada firma treba brže da postavi sistem nego što može da zaposli i obuči tim. To je čest slučaj kod lokalnih usluga, B2B firmi, privatnih ordinacija, edukacija, nekretnina, restorana, salona i firmi koje već imaju prodaju, ali nemaju stabilan dotok upita.
+
+Ako tek gradite lead generation, agencija može brže da poveže kampanju, landing stranicu, praćenje konverzija i follow-up. To ne znači da će rezultat doći preko noći. Znači da ne morate šest meseci da učite kroz najskuplje greške.
+
+Posebno je važno kada postoji jasan komercijalni cilj: više zakazanih konsultacija, više popunjenih termina, više poziva, više upita za ponudu. Tada marketing ne sme da se svede na objave i lep vizuelni identitet.
+
+Ako još niste sigurni koliko jedan upit sme da košta, korisno je prvo proći tekst o [maksimalnoj ceni leada](/blog/maksimalna-cena-leada-srbija-2026) i [LTV računici](/blog/vrednost-klijenta-ltv-marketing-budzet-srbija-2026). Bez tih brojeva izbor između in-house i agencije lako postane rasprava o ukusu.
+
+## Primer računice za firmu koja želi više leadova
+
+Recimo da firma ima 2.000 evra mesečno za marketing operaciju, bez ad spend-a. Jedna opcija je zaposliti osobu. Druga opcija je angažovati agenciju. Treća je hibrid: interna koordinacija plus spoljni specijalisti.
+
+Ako zaposlena osoba može da donese 40 kvalifikovanih upita mesečno i prodaja zatvori 10%, firma dobija 4 nova klijenta. Ako agencija za isti operativni trošak donese 60 upita boljeg kvaliteta i prodaja zatvori 15%, firma dobija 9 klijenata. U tom slučaju agencija nije skuplja, iako mesečni fee izgleda veće.
+
+Može da bude i obrnuto. Ako agencija ne razume ponudu, šalje nekvalifikovane upite i ne radi na landing stranici, interna osoba koja sedi uz prodaju može pobediti i sa manjim iskustvom.
+
+Zato se odluka ne donosi po nazivu modela. Donosi se po brojevima:
+
+1. koliko košta operativni marketing tim,
+2. koliko se troši na oglase,
+3. koliko kvalifikovanih upita dolazi,
+4. koliko upita postaje prodajni razgovor,
+5. koliko razgovora postaje klijent,
+6. kolika je vrednost klijenta kroz vreme.
+
+Ako nemate ove brojeve, prvo sredite [praćenje konverzija za lead generation](/blog/pracenje-konverzija-lead-generation-srbija-2026). Bez toga ćete samo birati skuplju ili jeftiniju maglu.
+
+## Šta pitati pre odluke
+
+Pre nego što firma zaposli osobu ili potpiše agenciju, treba da odgovori na nekoliko neprijatnih, ali korisnih pitanja.
+
+Ko će pisati ponudu? Ko će menjati landing stranice? Ko proverava da li su leadovi dobri? Ko zove ljude posle upita? Ko ima pravo da kaže da kampanja ne radi zato što prodaja kasni sa odgovorom? Ko računa da li je cena leada prihvatljiva?
+
+Ako na svako pitanje odgovor glasi "videćemo", odluka je prerana.
+
+Dobar izbor za malu ili srednju firmu često nije čist in-house ili čista agencija. Dobar izbor je model koji pokriva rupe. Ako firma već ima internu osobu koja zna proizvod, agencija može preuzeti kampanje, analitiku i CRO. Ako firma nema nikoga, agencija može postaviti sistem dok se ne stvori potreba za internim marketing koordinatorom.
+
+Stranica [in-house tim vs agencija](/in-house-tim-vs-agencija) pokriva širu odluku iz ugla organizacije. Ovaj tekst je uži: gleda gde novac odlazi i šta treba da se meri pre odluke.
+
+## Kako doneti odluku bez bacanja tri meseca
+
+Najpraktičniji pristup je test od 90 dana. Ne test u smislu "hajde da probamo reklame", nego test sa jasnim metrikama.
+
+Pre početka definišite:
+
+1. minimalan broj kvalifikovanih upita,
+2. ciljnu cenu po upitu,
+3. ciljnu cenu po zakazanom razgovoru,
+4. ko odgovara na upite i u kom roku,
+5. šta se menja na landing stranici,
+6. kada se budžet povećava, a kada zaustavlja.
+
+Ako model ne može da preživi ovakav test, verovatno nije model nego nada. To važi i za zaposlenje i za agenciju.
+
+Za firme koje već troše na oglase, najbrža pobeda obično nije promena partnera. Prvo treba videti da li postoji merenje, da li landing stranica gradi poverenje i da li prodaja odgovara dovoljno brzo. Tek posle toga ima smisla odlučivati da li posao treba ostati unutra ili izaći napolje.
+
+Ako želite da neko pogleda vaš trenutni budžet, kanale i cenu leada bez prodajne magle, pošaljite upit preko [kontakt strane](/kontakt). Napišite koliko trenutno trošite, odakle dolaze upiti i šta smatrate dobrim klijentom. Iz toga se brzo vidi da li vam više treba agencija, interna osoba ili hibrid.
+`,
+  },
+  {
     slug: 'dokazi-poverenja-na-sajtu-konverzija-srbija-2026',
     title: 'Dokazi poverenja na sajtu u Srbiji 2026: zašto posete ne postaju upiti',
     excerpt: 'Ako sajt ima posete, a nema upite, problem često nije u saobraćaju nego u poverenju. Evo koje dokaze dodati na stranicu pre povećanja budžeta.',

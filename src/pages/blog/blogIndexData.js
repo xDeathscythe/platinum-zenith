@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "in-house-marketing-ili-agencija-cena-budzet-srbija-2026",
+    "title": "In-house marketing ili agencija u Srbiji 2026: gde budžet stvarno ode",
+    "excerpt": "Da li je jeftinije zaposliti marketing osobu ili angažovati agenciju? Evo kako računati platu, alate, vreme, rizik i cenu leada pre odluke.",
+    "date": "2026-06-09",
+    "category": "Marketing",
+    "readTime": "9 min read",
+    "isDraft": false
+  },
+  {
     "slug": "dokazi-poverenja-na-sajtu-konverzija-srbija-2026",
     "title": "Dokazi poverenja na sajtu u Srbiji 2026: zašto posete ne postaju upiti",
     "excerpt": "Ako sajt ima posete, a nema upite, problem često nije u saobraćaju nego u poverenju. Evo koje dokaze dodati na stranicu pre povećanja budžeta.",
