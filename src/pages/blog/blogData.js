@@ -1,5 +1,178 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'dokazi-poverenja-na-sajtu-konverzija-srbija-2026',
+    title: 'Dokazi poverenja na sajtu u Srbiji 2026: zašto posete ne postaju upiti',
+    excerpt: 'Ako sajt ima posete, a nema upite, problem često nije u saobraćaju nego u poverenju. Evo koje dokaze dodati na stranicu pre povećanja budžeta.',
+    date: '2026-06-08',
+    readTime: '8 min read',
+    category: 'CRO',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['CRO', 'Poverenje', 'Landing stranica', 'Lead Generation'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Poseta nije isto što i poverenje
+
+Mnoge firme gledaju sajt kroz broj poseta. Ako ljudi dolaze, a upita nema, prvi zaključak obično bude da treba više saobraćaja. Još reklama. Još SEO tekstova. Još objava.
+
+Nekad je to tačno. Ali često nije problem u broju ljudi. Problem je što osoba dođe na sajt, pročita dve sekcije i ne vidi dovoljno razloga da ostavi telefon.
+
+To se najčešće dešava uslužnim firmama. Advokatska kancelarija ima uredan sajt, ali nema nijedan primer situacije koju rešava. Stomatološka ordinacija piše da koristi moderne metode, ali ne pokazuje kako izgleda prvi pregled. Agencija kaže da povećava prodaju, ali ne objašnjava proces, rokove i šta klijent dobija u prvih 30 dana.
+
+Posetilac tada ne mora da misli da je firma loša. Dovoljno je da nije siguran. Nesigurnost ubija konverziju tiše od lošeg dizajna.
+
+Ako već plaćate kampanje, prvo proverite da li stranica gradi poverenje pre nego što povećate budžet. U suprotnom ćete samo kupiti više ljudi koji se ne odluče.
+
+## Gde se poverenje najčešće lomi
+
+Poverenje retko pukne na jednoj velikoj stvari. Češće se istroši kroz male signale.
+
+Stranica kaže "individualan pristup", ali svi konkurenti govore isto. Ima dugme za kontakt, ali ne piše šta se dešava posle slanja forme. Ima nekoliko opštih rečenica o iskustvu, ali nema konkretnih situacija, slika rada, primera rezultata ili jasnog objašnjenja cene.
+
+Česta greška je da firma piše iz svoje glave, ne iz glave osobe koja treba da kupi. Vlasnik zna da je tim dobar. Posetilac to ne zna. Vlasnik zna da proces nije rizičan. Posetilac ne zna ni koliko traje prvi korak.
+
+Zato sajt mora da odgovori na pitanja koja ljudi često ne postave naglas:
+
+1. da li ova firma razume moj problem,
+2. da li radi sa ljudima kao što sam ja,
+3. šta tačno dobijam,
+4. koliko okvirno košta,
+5. šta se dešava ako pošaljem upit,
+6. zašto da verujem baš njima.
+
+Ako ova pitanja ostanu otvorena, forma može biti savršeno vidljiva i opet neće raditi.
+
+## Šta su dokazi poverenja na sajtu
+
+Dokaz nije samo logo poznatog klijenta. Za mnoge srpske firme to nije ni realno. Lokalni servis, ordinacija, B2B konsultant ili specijalizovana radnja često nemaju veliki brend koji mogu da stave u hero sekciju.
+
+To nije problem. Dokaz može biti mnogo običniji, ali mora biti konkretan.
+
+Dobar dokaz može biti:
+
+1. kratak primer problema i rešenja,
+2. recenzija koja pominje konkretan detalj,
+3. fotografija tima ili prostora ako pomaže odluci,
+4. objašnjen proces rada korak po korak,
+5. pre i posle primer, bez lažnog glamura,
+6. jasno objašnjenje kome usluga nije namenjena,
+7. odgovor na najčešće zamerke pre kontakt forme.
+
+Najgore je kada sajt pokušava da zvuči veliko, a izbegava detalje. Ljudi ne kupuju zato što piše "profesionalno". Kupuju kada vide da firma zna gde ih boli i da ima normalan sledeći korak.
+
+## Recenzije koje stvarno pomažu
+
+Pet zvezdica bez konteksta je bolje nego ništa, ali nije dovoljno za ozbiljniju odluku. Recenzija koja kaže "sve preporuke" ne govori mnogo. Recenzija koja kaže "javili su se isti dan, objasnili cenu pre početka i završili posao u dogovorenom roku" radi mnogo jače.
+
+Zato recenzije na sajtu treba birati po korisnosti, ne samo po tonu. Jedna konkretna recenzija vredi više od deset praznih pohvala.
+
+Ako firma ima Google recenzije, ne mora ih sve kopirati na stranicu. Dovoljno je izvući nekoliko koje pokrivaju glavne strahove kupca: rok, cena, komunikacija, kvalitet, urednost, rezultat. Uz to može stajati link ka profilu ili stranici sa rezultatima, ako postoji.
+
+Za usluge gde je privatnost važna, recenzija može biti anonimizovana. Bitno je da zvuči stvarno i da ne izgleda kao tekst koji je marketing tim izmislio u hodu.
+
+## Primeri rada bez izmišljanja velikih brojeva
+
+Mnoge firme ne objavljuju primere rada jer misle da case study mora da ima spektakularan rezultat. Ne mora.
+
+Dovoljno je prikazati normalan komercijalni primer:
+
+1. kakav je problem postojao,
+2. šta je urađeno,
+3. koliko je trajalo,
+4. šta se promenilo,
+5. šta biste sledeći put uradili drugačije.
+
+Ako imate brojeve, koristite ih. Ako ih nemate, nemojte izmišljati. Primer bez brojeva i dalje može graditi poverenje ako pokazuje razmišljanje i proces. Ljudi žele da vide kako firma donosi odluke, ne samo finalnu sliku.
+
+Za ozbiljnije priče postoji posebna stranica za [case studies](/case-studies). Ako je nemate dovoljno razvijenu, krenite od manjih blokova na landing stranici: "problem", "šta smo uradili", "rezultat". To je bolje nego prazan odeljak sa logotipima.
+
+## Proces kao dokaz
+
+Jedan od najpotcenjenijih dokaza je jasan proces. Kada osoba ne zna šta se dešava posle upita, lakše odloži odluku.
+
+Dobar proces ne mora biti dugačak. Na primer:
+
+1. pošaljete osnovne podatke,
+2. dobijate kratak poziv ili poruku sa dodatnim pitanjima,
+3. proveravamo da li usluga ima smisla za vašu situaciju,
+4. dobijate okvirnu preporuku i cenu,
+5. ako se uklapa, zakazujemo početak.
+
+Ovo spušta pritisak. Posetilac ne mora odmah da kupi. Samo zna šta je sledeći korak.
+
+Kod skupljih usluga proces često prodaje bolje od agresivnog CTA dugmeta. Ako nudite izradu sajta, kampanje ili SEO, objasnite šta se dešava pre ponude. To se lepo nadovezuje na stranicu [izrada WordPress sajta cena](/izrada-wordpress-sajta-cena), jer cena ima više smisla kada osoba razume opseg posla.
+
+## Cena, okvir i strah od neprijatnog razgovora
+
+Mnoge firme kriju cenu jer se plaše da će odbiti ljude. Nekad je to razumno. Ne mora svaka usluga imati fiksan cenovnik. Ali potpuna tišina oko cene često smanjuje broj ozbiljnih upita.
+
+Ljudi ne vole da uđu u razgovor bez ikakvog okvira. Ako ne znaju da li je usluga 200, 2.000 ili 20.000 evra, deo njih neće pitati. Ne zato što nemaju novac, nego zato što ne žele neprijatnu situaciju.
+
+Rešenje nije uvek javni cenovnik. Može biti raspon, početna cena, primer paketa ili objašnjenje od čega cena zavisi. Bitno je da osoba zna da neće biti uvučena u prodajni poziv bez konteksta.
+
+Za marketing usluge, dobar okvir može biti veza ka [cenama digitalnog marketinga](/cene-digitalnog-marketinga) ili konkretnijoj strani kao što je [Google reklame cena](/google-reklame-cena). Takav link ne rešava svaku zamerku, ali smanjuje maglu.
+
+## Dokaz mora stajati blizu odluke
+
+Još jedna česta greška: svi dokazi su sakriveni na dnu stranice. Posetilac prvo pročita obećanje, zatim uslugu, zatim cenu, pa tek posle dobije recenzije. Do tada je možda već otišao.
+
+Dokazi treba da stoje tamo gde nastaje sumnja.
+
+Ako tvrdite da radite brzo, blizu toga stavite primer roka. Ako nudite skuplju uslugu, blizu cene stavite objašnjenje šta ulazi u cenu. Ako tražite telefon, blizu forme objasnite kada se javljate i ko zove. Ako pominjete rezultat, pored toga stavite primer ili link ka slučaju.
+
+Ovo je deo šire [optimizacije konverzije sajta](/blog/optimizacija-konverzije-sajta-cro-srbija-2026). Nije dovoljno ubaciti recenzije bilo gde. Treba ih staviti na mesto gde pomažu odluci.
+
+## Lažni dokazi prave kontraefekat
+
+Loš dokaz može da smanji poverenje. Stock fotografije ljudi koji se rukuju, generički brojači, sumnjive recenzije bez imena, lažni logo zid i previše savršene izjave često deluju gore nego prazna sekcija.
+
+Kupci nisu naivni. Možda neće analizirati svaki detalj, ali osećaju kada nešto ne štima.
+
+Bolje je imati tri stvarne, skromne stvari nego deset napumpanih. Fotografija stvarnog prostora. Kratak citat klijenta. Primer problema koji ste rešili. Jasno objašnjenje kada niste dobar izbor. To deluje ljudski i poslovno zrelo.
+
+Posebno kod lokalnih usluga, autentičnost često pobeđuje polirani marketing. Ljudi žele da znaju kome šalju upit.
+
+## Kako proveriti da li dokazi rade
+
+Ne treba čekati savršen sistem. Krenite od jednostavne provere.
+
+Pogledajte stranice koje imaju posete, a malo upita. Zatim prođite kroz njih kao kupac i označite mesta gde bi osoba mogla da pomisli: "nisam siguran".
+
+Tu dodajte dokaz. Ne svuda. Samo tamo gde sumnja nastaje.
+
+Posle toga pratite:
+
+1. stopu slanja forme,
+2. klikove na kontakt dugme,
+3. pozive sa stranice,
+4. kvalitet upita,
+5. pitanja koja ljudi i dalje postavljaju u prvom razgovoru.
+
+Ako posle izmene ljudi manje pitaju osnovne stvari i šalju konkretnije upite, stranica radi bolji posao. Ako se ništa ne menja, problem je možda u ponudi, saobraćaju ili samoj formi.
+
+Za merenje ovoga koristite osnovno [praćenje konverzija za lead generation](/blog/pracenje-konverzija-lead-generation-srbija-2026). Bez merenja ćete samo imati lepši sajt i isti osećaj nesigurnosti.
+
+## Minimalna lista za bolju konverziju
+
+Ako nemate vremena za veliki redizajn, krenite od ove liste:
+
+1. dodajte tri konkretne recenzije blizu glavnog CTA,
+2. objasnite šta se dešava posle slanja forme,
+3. napišite za koga je usluga, a za koga nije,
+4. pokažite jedan primer rada ili mini slučaj,
+5. stavite okvir cene ili link ka strani sa cenama,
+6. dodajte najčešće zamerke pre kontakt forme,
+7. uklonite generičke tvrdnje koje ne možete dokazati.
+
+Ovo nije dekoracija. Ovo je prodajni posao koji sajt mora da uradi pre nego što osoba razgovara sa vama.
+
+Ako sajt već ima posete, ali upiti ne dolaze ili su previše nejasni, ne morate odmah kupovati više saobraćaja. Prvo sredite poverenje. Pošaljite nam stranicu, izvor saobraćaja i šta želite da posetilac uradi. Krenite od [kontakt forme](/kontakt), pa ćemo predložiti gde dokazi najbrže mogu da podignu broj ozbiljnih upita.
+`
+  },
+
+  {
     slug: 'google-ads-za-logopede-cena-termina-srbija-2026',
     title: 'Google Ads za logopede u Srbiji 2026: cena termina, upiti i budžet',
     excerpt: 'Logopedska ordinacija ne treba samo više poruka, nego više pravih procena i zakazanih termina. Evo kako planirati Google Ads budžet bez gomile praznih upita.',

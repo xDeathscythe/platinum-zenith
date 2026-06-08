@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "dokazi-poverenja-na-sajtu-konverzija-srbija-2026",
+    "title": "Dokazi poverenja na sajtu u Srbiji 2026: zašto posete ne postaju upiti",
+    "excerpt": "Ako sajt ima posete, a nema upite, problem često nije u saobraćaju nego u poverenju. Evo koje dokaze dodati na stranicu pre povećanja budžeta.",
+    "date": "2026-06-08",
+    "category": "CRO",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-logopede-cena-termina-srbija-2026",
     "title": "Google Ads za logopede u Srbiji 2026: cena termina, upiti i budžet",
     "excerpt": "Logopedska ordinacija ne treba samo više poruka, nego više pravih procena i zakazanih termina. Evo kako planirati Google Ads budžet bez gomile praznih upita.",
