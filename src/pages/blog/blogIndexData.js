@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-logopede-cena-termina-srbija-2026",
+    "title": "Google Ads za logopede u Srbiji 2026: cena termina, upiti i budžet",
+    "excerpt": "Logopedska ordinacija ne treba samo više poruka, nego više pravih procena i zakazanih termina. Evo kako planirati Google Ads budžet bez gomile praznih upita.",
+    "date": "2026-06-08",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "vrednost-klijenta-ltv-marketing-budzet-srbija-2026",
     "title": "Vrednost klijenta u Srbiji 2026: kako LTV menja marketing budžet i cenu leada",
     "excerpt": "Isti lead od 20 evra može biti preskup za jednu firmu i jeftin za drugu. Evo kako računati vrednost klijenta pre nego što povećate ili ugasite kampanju.",

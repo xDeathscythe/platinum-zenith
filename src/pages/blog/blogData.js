@@ -1,5 +1,111 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'google-ads-za-logopede-cena-termina-srbija-2026',
+    title: 'Google Ads za logopede u Srbiji 2026: cena termina, upiti i budžet',
+    excerpt: 'Logopedska ordinacija ne treba samo više poruka, nego više pravih procena i zakazanih termina. Evo kako planirati Google Ads budžet bez gomile praznih upita.',
+    date: '2026-06-08',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Logopedi', 'Lead Generation', 'Lokalni marketing'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Logopedski upit nije isto što i zakazan termin
+
+Kod logopeda se marketing brzo pretvori u gomilu nejasnih poruka ako kampanja nije dobro postavljena. Roditelj pita "koliko košta čas", neko drugi traži hitan termin za procenu, treća osoba samo proverava da li je rano da dete krene kod stručnjaka. U izveštaju sve to može da izgleda kao lead. U ordinaciji nije isto.
+
+Zato Google Ads za logopede ne treba meriti samo po ceni klika ili broju formi. Važnije je koliko upita postane procena, koliko procena postane redovan rad i da li ordinacija dobija porodice iz dela grada koji realno može da pokrije.
+
+Mnoge kampanje pogreše već na početku. Oglas obeća široko "logoped Beograd" ili "logoped Novi Sad", landing stranica kaže malo o procesu, a forma traži premalo informacija. Telefon zazvoni, ali prodaja vremena krene da jede stručni rad. Ako tek pravite okvir za trošak, prvo pogledajte [Google reklame cena](/google-reklame-cena), pa tek onda računajte koliko jedan zakazan termin sme da košta.
+
+## Šta ljudi zaista traže kada ukucaju logoped
+
+Pretrage za logopeda često imaju jaču nameru od pretraga na društvenim mrežama. Osoba već ima problem ili sumnju. Možda dete kasni sa govorom. Možda školarac ima problem sa izgovorom. Možda odrasla osoba traži rad posle povrede ili zbog glasa. To nisu iste usluge i ne smeju da idu u isti oglas.
+
+Česta greška je jedna kampanja za sve. Jedna grupa ključnih reči, isti tekst oglasa, ista stranica i isti poziv na akciju. Takva kampanja najčešće skupi klikove, ali ne pomaže roditelju da razume sledeći korak.
+
+Bolji pristup je da se kampanja podeli po nameri:
+
+1. procena govora kod dece,
+2. izgovor glasova,
+3. priprema za školu i čitanje,
+4. logopedski tretmani za odrasle ako ordinacija to radi,
+5. lokalne pretrage po gradu ili opštini.
+
+Ovo ne znači da treba napraviti 30 malih kampanja prvog dana. Znači da oglas ne treba da priča sa svima odjednom. Roditelj koji traži procenu za dete od tri godine ne klikće iz istog razloga kao osoba koja traži korekciju glasa.
+
+## Koliko može da košta dobar lead za logopeda
+
+Raspon zavisi od grada, konkurencije, termina, reputacije ordinacije i toga da li kampanja vodi na dobru stranicu. U praksi je opasno juriti najjeftiniji upit, jer najjeftiniji često znači najneodređeniji.
+
+Primer: kampanja donosi poruke po 4 evra. Deluje dobro. Ali pola ljudi pita samo cenu, deo je van zone rada, deo ne odgovara posle prvog poziva, a nekoliko njih očekuje slobodan termin odmah danas. Druga kampanja donosi upit po 15 ili 25 evra, ali osoba je pročitala proces procene, zna okvir trajanja, ostavila je uzrast deteta i traženu oblast rada. Drugi upit je skuplji, ali prodaja razgovara sa ozbiljnijom osobom.
+
+Zato treba gledati cenu po zakazanoj proceni, ne samo cenu po poruci. Ako se posle procene otvara višemesečni rad, jedan dobar klijent vredi mnogo više od prvog termina. O tome se lepo nadovezuje tekst o [vrednosti klijenta i LTV računici](/blog/vrednost-klijenta-ltv-marketing-budzet-srbija-2026), jer logopedske usluge često imaju odnos koji traje duže od jedne posete.
+
+## Budžet za test koji ima smisla
+
+Premali budžet napravi najgoru situaciju: kampanja potroši novac, ali ne skupi dovoljno podataka. Onda se zaključi da "Google ne radi", iako test nije imao šansu.
+
+Za lokalnu ordinaciju često je bolje krenuti usko. Jedan grad, nekoliko najvažnijih usluga i jasna landing stranica. Ako mesečno možete da izdvojite samo mali iznos, nemojte ga širiti na celu Srbiju, sve usluge i sve termine. Fokusirajte se na najprofitabilniji ili najtraženiji deo ponude.
+
+Koristan minimum je budžet koji može da donese dovoljno klikova i upita da se vidi obrazac. Ako jedan ozbiljan upit košta 15 evra, budžet od 100 evra mesečno teško može da kaže mnogo. Ako budžet omogućava 20 do 40 relevantnih klikova i nekoliko razgovora nedeljno, već se vidi šta treba popraviti.
+
+Za širi okvir troškova kanala pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga). Za logopede je posebno važno da budžet prati kapacitet. Nema smisla kupovati mnogo upita ako ordinacija može da primi samo tri nova termina nedeljno.
+
+## Landing stranica mora da smiri roditelja
+
+Kod logopeda landing stranica ne prodaje kao e-commerce proizvod. Ona mora da smanji nesigurnost. Roditelj često ne zna da li je prerano, da li kasni, koliko traje procena, šta se dešava posle prvog termina i koliko često dete treba da dolazi.
+
+Stranica treba jasno da odgovori na nekoliko pitanja:
+
+1. za koji uzrast i probleme ordinacija radi,
+2. kako izgleda prva procena,
+3. koliko traje termin,
+4. gde se ordinacija nalazi,
+5. kada roditelj dobija predlog daljeg rada,
+6. kako se zakazuje razgovor.
+
+Greška je kada stranica ima samo opšti tekst, sliku ordinacije i dugme "kontakt". To nije dovoljno za osobu koja donosi odluku za dete. Bolje je kratko objasniti proces, staviti realan poziv na akciju i tražiti nekoliko podataka koji pomažu da prvi odgovor bude koristan.
+
+Ako stranica već ima posete, ali malo zakazivanja, problem možda nije u kampanji. Možda treba srediti [optimizaciju konverzije sajta](/blog/optimizacija-konverzije-sajta-cro-srbija-2026) pre povećanja budžeta.
+
+## Forma ne sme da bude ni prazna ni naporna
+
+Prekratka forma pravi loše razgovore. Preduga forma spušta broj slanja. Kod logopeda je obično dovoljno tražiti ime, telefon, grad ili opštinu, uzrast deteta ili tip problema, i kratak opis situacije. To prodaji daje kontekst, a roditelju ne deluje kao medicinski upitnik od 20 minuta.
+
+Osetljive informacije ne treba gurati agresivno kroz oglasnu formu. Dovoljno je dobiti okvir i zakazati razgovor. Detalji idu u stručnoj proceni, ne u hladnom marketing formularu.
+
+Ako tim dobija mnogo nejasnih poruka, pogledajte i vodič za [kontakt formu i kvalifikaciju leadova](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026). Ista logika važi ovde: forma treba da filtrira bez toga da odbije ozbiljne ljude.
+
+## Praćenje koje logoped stvarno treba
+
+Ako se meri samo slanje forme, kampanja će optimizovati slanje forme. To nije dovoljno. Treba pratiti bar četiri koraka: upit, odgovor, zakazana procena i nastavak rada posle procene.
+
+Bez toga se lako desi da najbolja kampanja izgleda prosečno. Možda donosi manje upita, ali više porodica koje dođu na procenu i ostanu u radu. Druga kampanja može donositi mnogo jeftinih poruka koje nikada ne postanu termin.
+
+Osnovno praćenje ne mora biti komplikovano. Dovoljna je tabela ili CRM sa izvorom upita, uslugom, lokacijom, statusom i razlogom zašto osoba nije zakazala. Posle mesec dana već se vidi da li problem leži u ključnim rečima, stranici, brzini odgovora ili kapacitetu ordinacije.
+
+Ako trenutno ne znate koji oglas donosi zakazane procene, krenite od [praćenja konverzija za lead generation](/blog/pracenje-konverzija-lead-generation-srbija-2026). Bez toga se budžet brani osećajem, a ne brojevima.
+
+## Kada Google Ads nije prvi kanal
+
+Google Ads ima smisla kada postoji aktivna pretraga i kada ordinacija može brzo da odgovori. Ako je raspored pun naredna dva meseca, možda je bolje ulagati u SEO, sadržaj i listu čekanja nego u agresivno kupovanje novih upita. Ako je usluga nova i ljudi je ne traže po imenu, Instagram edukativni sadržaj ili preporuke mogu raditi bolje u početku.
+
+Ali kada ljudi već traže logopeda u vašem gradu, Google često hvata najtopliji deo tržišta. Tada problem nije da li kanal može da radi. Problem je da li kampanja zna koga hoće, da li stranica objašnjava proces i da li neko brzo vraća poziv.
+
+## Kako bismo postavili prvi test
+
+Za prvi mesec ne bih komplikovala. Izabrati jedan grad ili deo grada. Odvojiti dečije procene od ostalih usluga. Napraviti landing stranicu koja objašnjava prvi termin. Postaviti pozive i forme kao konverzije. Voditi ručnu evidenciju svake zakazane procene.
+
+Posle toga se ne gleda samo koliko je koštao lead. Gleda se koliko je koštala procena, koliko je ljudi nastavilo rad i gde je izgubljen novac. Tek tada ima smisla povećavati budžet.
+
+Ako vodite logopedsku ordinaciju i želite da proverimo da li Google Ads ima smisla za vašu lokaciju, pošaljite nam grad, usluge koje želite da gurate i okviran broj novih termina koji možete da primite mesečno. Krenite od [kontakt forme](/kontakt), pa ćemo složiti test koji meri zakazane procene, ne samo klikove.
+`
+  },
+  {
     slug: 'vrednost-klijenta-ltv-marketing-budzet-srbija-2026',
     title: 'Vrednost klijenta u Srbiji 2026: kako LTV menja marketing budžet i cenu leada',
     excerpt: 'Isti lead od 20 evra može biti preskup za jednu firmu i jeftin za drugu. Evo kako računati vrednost klijenta pre nego što povećate ili ugasite kampanju.',
