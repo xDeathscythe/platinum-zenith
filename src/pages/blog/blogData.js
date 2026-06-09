@@ -1,5 +1,134 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'google-ads-za-auto-skole-cena-kandidata-srbija-2026',
+    title: 'Google Ads za auto škole u Srbiji 2026: cena kandidata, upisi i budžet',
+    excerpt: 'Auto škola ne treba samo više klikova, nego više kandidata koji mogu da krenu sa obukom. Evo kako računati budžet, cenu upita i kampanje bez rasipanja novca.',
+    date: '2026-06-09',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Auto škole', 'Lead Generation', 'Lokalni marketing', 'Marketing budžet'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Auto škola ne kupuje klik, nego budućeg kandidata
+
+Auto škole u Srbiji često krenu sa Google reklamama tek kada se upisi uspore. Instruktori imaju rupe u rasporedu, konkurencija se pojavljuje iznad njih na pretrazi, a vlasnik želi brzo da vidi da li oglasi mogu da dovedu nove kandidate.
+
+Problem je što se kampanja lako podesi kao obična lokalna reklama: nekoliko ključnih reči, jedan oglas, budžet od par hiljada dinara i link ka početnoj strani. To nekad donese klikove. Retko donese dobru sliku o tome koliko košta novi kandidat.
+
+Kod auto škole se ne meri samo "upit". Meri se osoba koja može da krene na obuku, ima realan budžet, zna za koju kategoriju pita i nalazi se dovoljno blizu da stvarno dođe na časove. Ako kampanja ne pravi tu razliku, vlasnik vidi samo gomilu poruka tipa "koliko košta" i ne zna da li reklame rade.
+
+## Šta ljudi stvarno traže kada biraju auto školu
+
+Kandidat obično ne traži marketinšku priču. Traži konkretne odgovore: cena obuke, lokacija, polaganje, instruktori, termini, plaćanje na rate i koliko brzo može da počne.
+
+Zato Google Ads za auto škole treba da pokrije nekoliko namera, ne samo jednu frazu:
+
+1. "auto škola cena" za ljude koji porede ponude,
+2. "auto škola Novi Beograd" ili drugi lokalni upiti za ljude koji žele blizinu,
+3. "polaganje za B kategoriju" za kandidate koji već znaju šta im treba,
+4. "auto škola na rate" za ljude kojima je plaćanje glavni uslov,
+5. brend i konkurentske upite ako tržište to opravdava.
+
+Česta greška je gurati sve ove ljude na istu stranicu. Osoba koja traži cenu ne želi prvo da čita istoriju škole. Osoba koja traži lokaciju želi mapu, adresu i radno vreme. Osoba koja pita za rate želi jasno objašnjenje uslova, ne rečenicu "kontaktirajte nas za više informacija".
+
+## Koliki budžet ima smisla za test
+
+Za auto škole, premali budžet napravi najgoru situaciju: potroši se nešto novca, ali nema dovoljno podataka za odluku. Vlasnik zaključi da Google ne radi, iako kampanja možda nikad nije dobila šansu.
+
+Praktičan test obično treba da traje bar 30 dana. Ako škola radi u većem gradu i želi ozbiljnije da meri upise, korisnije je planirati budžet koji može da donese dovoljno klikova iz različitih namera. U manjim mestima budžet može biti niži, ali je onda važnije precizno ciljanje i jaka landing stranica.
+
+Ne postoji univerzalna cena kandidata. Zavisi od grada, konkurencije, kategorije, cene obuke, popunjenosti instruktora i brzine odgovora na upite. Zato je bolja računica ovakva:
+
+1. koliko vredi jedan upis,
+2. koliko kandidata iz upita stvarno dođe na razgovor ili upis,
+3. koliko upita treba za jedan upis,
+4. koliko maksimalno smete da platite upit.
+
+Ako ne znate taj broj, krenite od teksta o [maksimalnoj ceni leada](/blog/maksimalna-cena-leada-srbija-2026). Za okvir troškova kampanja pogledajte i [Google reklame cena](/google-reklame-cena), jer auto škola mora da razdvoji budžet za klikove od budžeta za vođenje, praćenje i optimizaciju.
+
+## Stranica za auto školu mora da skine strah pre forme
+
+Kandidat koji bira auto školu ima nekoliko sitnih strahova. Da li će instruktor biti normalan? Da li su termini fleksibilni? Da li ima skrivenih troškova? Da li će se neko javiti ako pošalje poruku? Da li je škola blizu posla, fakulteta ili kuće?
+
+Ako landing stranica ne odgovori na ova pitanja, kampanja plaća saobraćaj koji se dvoumi.
+
+Dobra stranica za auto školu treba jasno da pokaže:
+
+1. kategorije obuke,
+2. cenu ili bar šta ulazi u cenu,
+3. mogućnost plaćanja na rate ako postoji,
+4. lokaciju i delove grada koje škola pokriva,
+5. radno vreme i termine,
+6. fotografije vozila ili prostora ako pomažu poverenju,
+7. šta se dešava posle slanja upita.
+
+Neke škole pokušavaju da zvuče veliko, pa napišu da imaju profesionalan tim i dugogodišnje iskustvo. To nije štetno, ali nije dovoljno. Kandidat hoće da zna da li može da krene sledeće nedelje, koliko plaća prvi deo i kome se javlja.
+
+Ako trenutna stranica nema ove elemente, reklame će samo brže pokazati rupe. Tada ima smisla srediti landing stranicu pre većeg budžeta. Dobar početak je tekst o [izradi landing stranice i ceni](/blog/izrada-landing-stranice-cena), a za širu budžetsku sliku pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Kako ciljati grad bez bacanja novca
+
+Auto škola je lokalna usluga. Nema smisla da kampanja juri ljude koji neće dolaziti na časove zbog udaljenosti, osim ako škola ima poseban razlog, na primer specifičnu kategoriju ili jaču ponudu.
+
+Najčistija postavka je krenuti od delova grada ili opština gde kandidat realno može da dođe. Za Beograd to može značiti odvojene kampanje za Novi Beograd, Zemun, Voždovac, Zvezdaru ili centar, ako škola tamo ima lokaciju ili pokriva taj deo. Za Novi Sad, Niš, Kragujevac i druga mesta logika je ista: lokacija prvo, širi domet tek kada brojevi kažu da ima smisla.
+
+Greška je pustiti široko ciljanje pa se tešiti da će algoritam sam naći prave ljude. Može da pomogne, ali prvo mu treba dobra struktura, negativne ključne reči i jasna konverzija. U suprotnom budžet ode na informativne pretrage, ljude van zone i upite koji nikad ne postanu upis.
+
+## Šta meriti osim broja poruka
+
+Ako škola meri samo broj popunjenih formi, promašiće pola slike. Nekad je kampanja dobra, ali se niko ne javlja dovoljno brzo. Nekad je kampanja loša, ali jedna dobra prodajna osoba spasi deo upita. Bez praćenja to izgleda isto.
+
+Treba meriti bar ove stvari:
+
+1. pozive iz oglasa,
+2. forme sa landing stranice,
+3. WhatsApp ili Viber klikove ako se koriste,
+4. kategoriju za koju kandidat pita,
+5. da li je kandidat zakazao dolazak,
+6. da li se stvarno upisao.
+
+Tu počinje prava optimizacija. Ako mnogo ljudi pita za cenu, a malo njih se upisuje, možda cena nije problem. Možda odgovor kasni. Možda stranica ne objašnjava rate. Možda oglas obećava nešto što administracija kasnije ne potvrdi.
+
+Zato kampanja mora da se poveže sa prodajnim procesom. Tekst o [praćenju konverzija za lead generation](/blog/pracenje-konverzija-lead-generation-srbija-2026) pokriva taj deo detaljnije, a [brzina odgovora na upit](/blog/brzina-odgovora-na-upit-follow-up-prodaja-srbija-2026) je posebno važna za auto škole. Kandidati često pošalju poruku na više mesta. Ko prvi normalno odgovori, ima prednost.
+
+## Kada kampanja izgleda loše, a problem nije Google
+
+Kod auto škola se često desi da kampanja dovede upite, ali vlasnik nije zadovoljan kvalitetom. Deo kandidata pita samo za najnižu cenu. Deo ne odgovori posle prve poruke. Deo nije spreman da krene odmah.
+
+To nije automatski dokaz da kampanja ne radi. Možda oglas previše naglašava popust. Možda forma ne traži kategoriju, lokaciju i željeni termin. Možda osoba koja odgovara šalje hladnu poruku umesto da kandidatu objasni sledeći korak.
+
+Dobar sistem ne pokušava da dovede svakoga. Bolje je imati manje upita koji znaju cenu, lokaciju i uslove, nego mnogo poruka koje se završe na "hvala, razmisliću".
+
+Zato auto škola treba da kvalifikuje kandidata pre razgovora, ali bez preduge forme. Ime, telefon, kategorija, lokacija i pitanje "kada želite da krenete" često su dovoljni za prvi korak. Ako forma traži previše, ljudi odustanu. Ako traži premalo, administracija gubi vreme.
+
+## Primer 30-dnevnog plana
+
+Prvih 30 dana ne treba komplikovati. Kampanja treba da odgovori na tri pitanja: ko traži, za šta pita i šta postaje upis.
+
+Prva nedelja: srediti landing stranicu, merenje poziva i formi, negativne ključne reči i osnovne oglase po nameri.
+
+Druga nedelja: odvojiti lokalne upite od opštih upita za cenu. Ako se sve drži u jednoj kampanji, teško je videti šta stvarno radi.
+
+Treća nedelja: proveriti kvalitet upita sa osobom koja odgovara kandidatima. Ne samo koliko ih je stiglo, nego ko je bio realan kandidat.
+
+Četvrta nedelja: povećati budžet na ono što donosi upise, zaustaviti ono što donosi prazne razgovore i popraviti stranicu tamo gde ljudi najčešće odustaju.
+
+Ako posle 30 dana imate samo broj klikova, test nije bio dobar. Ako imate cenu upita, cenu zakazanog dolaska i broj upisa, možete odlučiti da li budžet treba povećati.
+
+## Kada ima smisla angažovati agenciju
+
+Auto škola može sama voditi osnovne oglase ako ima nekoga ko razume kampanje, merenje i prodajni tok. Ali ako vlasnik već vodi instruktore, termine, administraciju i pozive, marketing često ostane na "pogledaću večeras". Tako se budžet najlakše razvuče.
+
+Agencija ima smisla kada treba postaviti kampanje, landing stranicu, merenje i ritam optimizacije, a ne samo menjati oglase. Posebno ako škola želi da popuni kapacitet, otvori novu lokaciju, poveća broj kandidata za određenu kategoriju ili smanji zavisnost od preporuka.
+
+Ako želite da proverimo da li Google Ads za vašu auto školu ima smisla, pošaljite upit preko [kontakt strane](/kontakt). Napišite grad, kategorije obuke, okvirnu cenu upisa i koliko novih kandidata mesečno želite. Iz toga se brzo vidi da li treba krenuti sa testom, srediti stranicu ili prvo popraviti praćenje upita.
+`,
+  },
+  {
     slug: 'in-house-marketing-ili-agencija-cena-budzet-srbija-2026',
     title: 'In-house marketing ili agencija u Srbiji 2026: gde budžet stvarno ode',
     excerpt: 'Da li je jeftinije zaposliti marketing osobu ili angažovati agenciju? Evo kako računati platu, alate, vreme, rizik i cenu leada pre odluke.',

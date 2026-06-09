@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-auto-skole-cena-kandidata-srbija-2026",
+    "title": "Google Ads za auto škole u Srbiji 2026: cena kandidata, upisi i budžet",
+    "excerpt": "Auto škola ne treba samo više klikova, nego više kandidata koji mogu da krenu sa obukom. Evo kako računati budžet, cenu upita i kampanje bez rasipanja novca.",
+    "date": "2026-06-09",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "in-house-marketing-ili-agencija-cena-budzet-srbija-2026",
     "title": "In-house marketing ili agencija u Srbiji 2026: gde budžet stvarno ode",
     "excerpt": "Da li je jeftinije zaposliti marketing osobu ili angažovati agenciju? Evo kako računati platu, alate, vreme, rizik i cenu leada pre odluke.",
