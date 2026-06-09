@@ -1,5 +1,158 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'crm-za-leadove-evidencija-prodaja-srbija-2026',
+    title: 'CRM za leadove u Srbiji 2026: zašto upiti propadaju posle forme',
+    excerpt: 'Kampanja može da dovede dobar upit, ali prodaja ga lako izgubi bez evidencije, statusa, roka za poziv i jasnog sledećeg koraka. Evo kako srediti CRM.',
+    date: '2026-06-09',
+    readTime: '9 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Lead Generation', 'CRM', 'Prodaja', 'Follow-up', 'Marketing budžet'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Dobar lead nije završen posao
+
+Firma plati reklame, dobije upite i na prvi pogled sve deluje bolje. Telefon zvoni. Forma stiže. Neko pošalje poruku preko WhatsAppa. Problem nastane posle toga, u onih nekoliko sati ili dana kada lead treba pretvoriti u razgovor, ponudu i prodaju.
+
+Tu mnogi sistemi puknu. Ne zato što je vlasnik lenj ili prodaja ne zna posao, nego zato što upiti dolaze sa više strana i niko nema jednu čistu evidenciju. Jedan lead je u inboxu. Drugi je u telefonu. Treći je kod koleginice koja je rekla da će ga nazvati kasnije. Četvrti je pitao za cenu, dobio odgovor i nestao.
+
+Kada se tako radi, kampanja dobije krivicu za problem koji se desio posle kampanje. Google ili Meta mogu da dovedu osobu koja ima potrebu. Ne mogu da garantuju da će neko u firmi znati kada je upit stigao, ko ga je preuzeo i šta je sledeći korak.
+
+## Šta CRM rešava, a šta ne rešava
+
+CRM ne mora da bude skupa platforma sa deset modula. Za manju firmu, CRM je prvo obična disciplina: svaki upit mora da ima ime, kontakt, izvor, status, vlasnika i sledeću akciju.
+
+Ako toga nema, firma ne zna da li marketing dovodi loše leadove ili prodaja gubi dobre. To su dve potpuno različite odluke. U prvom slučaju menja se kampanja, landing stranica ili ponuda. U drugom se menja brzina odgovora, skripta, evidencija i način praćenja.
+
+Česta greška je preskočiti osnovu i odmah tražiti savršen alat. Tim otvori novi softver, unese dvadeset polja, koristi ga tri dana i vrati se na poruke po telefonu. Bolje je imati jednostavan sistem koji svi koriste nego komplikovan CRM koji živi samo u prezentaciji.
+
+Za početak je dovoljno da svaki lead ima:
+
+1. datum i vreme dolaska,
+2. kanal, na primer Google Ads, Meta, organski Google ili preporuka,
+3. uslugu za koju pita,
+4. status,
+5. osobu koja je odgovorna,
+6. sledeći korak i rok,
+7. razlog zašto nije kupljeno ako odustane.
+
+Bez tih podataka ne postoji ozbiljna optimizacija. Postoji samo osećaj da reklame rade ili ne rade.
+
+## Statusi koji stvarno pomažu prodaji
+
+Mnoge firme upisuju lead kao otvoren ili zatvoren. To je premalo. Prodaji treba više nijansi, ali ne toliko da evidencija postane kazna.
+
+Praktičan set statusa može izgledati ovako:
+
+1. nov upit,
+2. kontaktiran,
+3. nije se javio,
+4. zakazan razgovor,
+5. poslata ponuda,
+6. čekamo odluku,
+7. dobijen klijent,
+8. izgubljen lead.
+
+Ovo nije tu zbog lepog izveštaja. Status pokazuje gde novac curi. Ako ima mnogo novih upita koji nikad nisu kontaktirani, problem je brzina odgovora. Ako ima mnogo kontaktiranih koji ne zakazuju razgovor, problem može biti kvalifikacija ili prvi odgovor. Ako ima mnogo poslatih ponuda bez odluke, možda ponuda nije dovoljno jasna ili nema follow-up.
+
+Zato CRM mora da bude povezan sa procesom, ne samo sa administracijom. Ako status ne vodi do odluke, izbrišite ga. Ako niko ne zna šta znači, promenite naziv.
+
+## Najskuplji problem je lead bez vlasnika
+
+Lead bez vlasnika je upit koji svi vide, ali niko stvarno ne preuzima. U malim firmama se to često desi kada poruke stižu na zajednički mail ili broj telefona. Svi pretpostave da će neko drugi odgovoriti.
+
+Posle nekoliko sati, lead je hladniji. Posle jednog dana, verovatno je već pričao sa konkurencijom. Posle tri dana, prodaja se često javi sa porukom koja zvuči kao da proverava da li je čovek još živ.
+
+To ubija dobre kampanje. Nije dovoljno meriti koliko je formi stiglo. Treba meriti koliko je formi dobilo brz i normalan odgovor. Tekst o [brzini odgovora na upit](/blog/brzina-odgovora-na-upit-follow-up-prodaja-srbija-2026) pokriva taj deo detaljnije, ali pravilo je jednostavno: svaki lead mora imati jednu odgovornu osobu i rok za prvi kontakt.
+
+Ako prodaja radi u smenama, vlasništvo mora da se prenese jasno. Ako jedna osoba pokriva sve, CRM mora da pokaže šta je hitno, šta čeka i šta je propalo. Bez toga se dan završi na gašenju požara, a ne na zatvaranju prodaje.
+
+## Forma nije dovoljna ako se podaci izgube
+
+Dobra kontakt forma može da kvalifikuje upit pre razgovora. Može da pita za uslugu, budžet, lokaciju, termin ili hitnost. Ali forma sama ne rešava ništa ako podaci završe u inboxu koji niko ne čisti.
+
+Česta greška je da firma popravi formu, dobije bolji kvalitet upita, ali ne promeni ono što se dešava posle slanja. Lead i dalje dobija generički odgovor. Prodaja i dalje ne vidi istoriju. Vlasnik i dalje ne zna koliko je upita postalo ponuda.
+
+Zato forma i CRM moraju da rade zajedno. Forma skuplja minimum podataka. CRM čuva tok. Prodaja zna šta treba da uradi. Marketing kasnije vidi koji izvori donose ljude koji stvarno kupuju.
+
+Ako tek sređujete taj deo, krenite od teksta o [kontakt formi za kvalifikaciju leadova](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026). Kada forma već radi, sledeći korak je evidencija koja ne dozvoljava da lead nestane.
+
+## Koji podaci su važni za marketing
+
+Marketingu nije dovoljno da zna da je stiglo 40 upita. Bitnije je šta se desilo sa njima.
+
+Ako od 40 upita samo 10 ima realan budžet, kampanja možda privlači pogrešnu publiku. Ako 30 ima realan budžet, ali samo 5 dobije ponudu, problem je u obradi. Ako 25 dobije ponudu, ali niko ne kupi, problem može biti cena, paket, dokaz poverenja ili način prodaje.
+
+Zato CRM treba da vraća podatke nazad u marketing:
+
+1. koji kanal je doneo lead,
+2. koja kampanja ili ključna reč je donela upit ako je dostupno,
+3. koja usluga je tražena,
+4. da li je lead kvalifikovan,
+5. da li je poslat predračun ili ponuda,
+6. da li je posao dobijen,
+7. zašto je izgubljen.
+
+Bez ovoga se optimizacija svodi na cenu po leadu. To ume da zavara. Jeftin lead koji nikad ne kupi nije jeftin. Skuplji lead koji zatvara posao može biti najbolji izvor u nalogu.
+
+Za tehnički deo merenja pogledajte [praćenje konverzija za lead generation](/blog/pracenje-konverzija-lead-generation-srbija-2026). Za budžetsku računicu korisno je i da znate [maksimalnu cenu leada](/blog/maksimalna-cena-leada-srbija-2026), ali taj broj ima smisla tek kada znate koliko leadova postane prodaja.
+
+## Jednostavan CRM za prvih 30 dana
+
+Ne treba čekati idealan alat. Prvih 30 dana može da se vodi u tabeli ako je tabela jasna i ako je tim stvarno koristi. Bitno je da postoji jedna istina, ne pet paralelnih evidencija.
+
+Kolone mogu biti:
+
+1. datum dolaska,
+2. ime i kontakt,
+3. izvor,
+4. tražena usluga,
+5. grad ili lokacija ako je bitno,
+6. budžet ili okvir potrebe,
+7. status,
+8. odgovorna osoba,
+9. sledeći korak,
+10. rok,
+11. ishod,
+12. razlog gubitka.
+
+Na kraju svake nedelje treba pogledati tri stvari: koliko novih upita je stiglo, koliko je kontaktirano na vreme i koliko je došlo do ponude ili zakazanog razgovora. To je dovoljno da se vide prve rupe.
+
+Ako firma već ima veći obim, više ljudi u prodaji ili duži prodajni ciklus, tabela brzo postane tesna. Tada ima smisla preći na pravi CRM. Ali i tada pravila ostaju ista. Alat ne sme da zameni razmišljanje.
+
+## Kada CRM pokazuje da problem nije u reklamama
+
+Neke kampanje izgledaju loše dok se ne pogleda CRM. Na primer, oglasi dovedu dovoljno kvalifikovanih upita, ali prodaja kasni sa odgovorom. Ili landing stranica jasno obeća konsultaciju, ali osoba koja zove počne razgovor hladno, bez konteksta. Ili se ponuda pošalje jednom i nikad se ne isprati.
+
+Tada povećanje budžeta samo povećava količinu izgubljenih prilika.
+
+CRM je koristan baš zato što skida maglu. Ako kampanja dovodi pogrešne ljude, to treba videti. Ako tim gubi prave ljude, i to treba videti. Najgora opcija je da se oba problema pomešaju i da se svaki mesec donosi nova odluka na osnovu utiska.
+
+Tu pomažu i dokazi poverenja na sajtu. Ako ljudi kliknu, pročitaju, ostave upit, pa nestanu kada vide ponudu, možda im fali dokaz da firma stvarno može da isporuči. Tekst o [dokazima poverenja na sajtu](/blog/dokazi-poverenja-na-sajtu-konverzija-srbija-2026) dobro se uklapa sa CRM analizom, jer oba dela pokazuju gde se poverenje lomi.
+
+## Kako povezati agenciju, prodaju i vlasnika
+
+Agencija ne može ozbiljno da optimizuje lead generation ako dobija samo broj formi. Prodaja ne može da popravi razgovore ako ne zna šta je obećano u oglasu. Vlasnik ne može da odluči o budžetu ako ne zna koliko upita postaje prihod.
+
+Zato je najbolji ritam jednostavan: jednom nedeljno se pogleda CRM, kampanje i prodajni ishod zajedno. Ne tri odvojena izveštaja. Jedan razgovor o tome šta je stiglo, šta je obrađeno, šta je prodato i šta treba promeniti.
+
+Za firme koje ulažu u Google Ads, Meta oglase ili SEO, ovo je često razlika između rasta i nervoze. Budžet ne mora uvek da se poveća. Nekad prvo treba zatvoriti rupe između forme i prodaje.
+
+Ako planirate veći lead generation budžet, pogledajte i [cene digitalnog marketinga](/cene-digitalnog-marketinga) i [Google reklame cena](/google-reklame-cena), jer trošak kampanje ima smisla samo ako postoji proces koji lead pretvara u prodaju.
+
+## Kada ima smisla tražiti pomoć
+
+Ako imate malo upita i svaki se lako isprati ručno, ne treba vam komplikovan CRM projekat. Dovoljna je dobra tabela, odgovorna osoba i sedmični pregled.
+
+Ako upiti stižu sa više kanala, prodaja kasni, vlasnik ne zna šta se desilo sa leadovima ili se kampanje ocenjuju samo po broju poruka, vreme je da se sistem sredi. Ne zbog lepše evidencije, nego zato što svaki izgubljen dobar lead diže stvarnu cenu marketinga.
+
+Ako želite da pogledamo gde vam leadovi ispadaju posle forme, pošaljite upit preko [kontakt strane](/kontakt). Napišite koje kanale koristite, koliko upita mesečno dobijate i kako ih trenutno pratite. Iz toga se brzo vidi da li prvo treba srediti kampanju, formu, CRM ili follow-up proces.
+`,
+  },
+  {
     slug: 'google-ads-za-auto-skole-cena-kandidata-srbija-2026',
     title: 'Google Ads za auto škole u Srbiji 2026: cena kandidata, upisi i budžet',
     excerpt: 'Auto škola ne treba samo više klikova, nego više kandidata koji mogu da krenu sa obukom. Evo kako računati budžet, cenu upita i kampanje bez rasipanja novca.',

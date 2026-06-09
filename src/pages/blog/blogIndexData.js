@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "crm-za-leadove-evidencija-prodaja-srbija-2026",
+    "title": "CRM za leadove u Srbiji 2026: zašto upiti propadaju posle forme",
+    "excerpt": "Kampanja može da dovede dobar upit, ali prodaja ga lako izgubi bez evidencije, statusa, roka za poziv i jasnog sledećeg koraka. Evo kako srediti CRM.",
+    "date": "2026-06-09",
+    "category": "Marketing",
+    "readTime": "9 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-auto-skole-cena-kandidata-srbija-2026",
     "title": "Google Ads za auto škole u Srbiji 2026: cena kandidata, upisi i budžet",
     "excerpt": "Auto škola ne treba samo više klikova, nego više kandidata koji mogu da krenu sa obukom. Evo kako računati budžet, cenu upita i kampanje bez rasipanja novca.",
