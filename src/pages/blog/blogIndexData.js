@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "period-povrata-marketing-budzeta-srbija-2026",
+    "title": "Period povrata marketing budžeta u Srbiji 2026: kada se ulaganje stvarno isplati",
+    "excerpt": "Marketing budžet ne treba meriti samo po ceni leada. Evo kako izračunati period povrata, cash flow rizik i trenutak kada kampanja zaslužuje veći budžet.",
+    "date": "2026-06-10",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "crm-za-leadove-evidencija-prodaja-srbija-2026",
     "title": "CRM za leadove u Srbiji 2026: zašto upiti propadaju posle forme",
     "excerpt": "Kampanja može da dovede dobar upit, ali prodaja ga lako izgubi bez evidencije, statusa, roka za poziv i jasnog sledećeg koraka. Evo kako srediti CRM.",

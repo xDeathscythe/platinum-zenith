@@ -1,5 +1,123 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'period-povrata-marketing-budzeta-srbija-2026',
+    title: 'Period povrata marketing budžeta u Srbiji 2026: kada se ulaganje stvarno isplati',
+    excerpt: 'Marketing budžet ne treba meriti samo po ceni leada. Evo kako izračunati period povrata, cash flow rizik i trenutak kada kampanja zaslužuje veći budžet.',
+    date: '2026-06-10',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Marketing budžet', 'ROI', 'Lead Generation', 'Prodaja', 'Cash flow'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Dobar ROI može da ubije cash flow ako ga čekate predugo
+
+Mnogo firmi meri marketing previše jednostavno: potrošili smo 100.000 dinara, dobili smo posao od 300.000 dinara, znači reklame rade. Na papiru to deluje mirno. U praksi, vlasnik često sedi između računa za oglase, plate, dobavljača i klijenta koji plaća tek za 30 ili 60 dana.
+
+Zato nije dovoljno pitati da li se marketing isplati. Treba pitati kada se isplati. Period povrata pokazuje koliko vremena prođe od trenutka kada novac izađe iz firme do trenutka kada se vrati kroz naplaćen posao.
+
+Česta greška je da firma gleda samo cenu leada i odmah pojača budžet čim vidi da upiti stižu. Onda dođe mesec sa puno upita, puno zakazanih razgovora i vrlo malo gotovine. Kampanja možda radi, ali firma ne može da izdrži tempo.
+
+## Šta je period povrata marketing budžeta
+
+Period povrata je broj dana ili meseci koji su potrebni da prihod od novih klijenata pokrije marketing trošak koji ih je doveo. U lead generation poslu taj put obično nije kratak.
+
+Primer može izgledati ovako:
+
+1. kampanja potroši 120.000 RSD u januaru,
+2. dobije 40 upita,
+3. 8 ljudi postane ozbiljna prilika,
+4. 3 klijenta kupe uslugu,
+5. prosečna prva uplata je 60.000 RSD,
+6. deo klijenata plaća odmah, deo tek sledećeg meseca.
+
+Ako gledate samo ugovorenu vrednost, kampanja deluje odlično. Ako gledate novac koji je stvarno legao na račun, slika je drugačija. Tu period povrata postaje korisniji od opšte priče o ROI-ju.
+
+ROI govori koliko se novca vratilo u odnosu na ulaganje. Period povrata govori koliko dugo morate da finansirate prazninu između troška i naplate. Za malu firmu ta praznina često boli više od samog troška.
+
+## Formula bez komplikovanja
+
+Za osnovnu računicu ne treba finansijski model od 12 tabova. Dovoljno je pratiti tri broja:
+
+1. ukupan marketing trošak za period,
+2. bruto profit od klijenata koji su došli iz tog perioda,
+3. datum kada je taj profit stvarno naplaćen.
+
+Jednostavno pitanje glasi: kog dana je naplaćeni bruto profit prešao iznos marketing troška?
+
+Ako ste u februaru potrošili 150.000 RSD i do 20. marta naplatili 150.000 RSD bruto profita od tih leadova, period povrata je oko 50 dana. Ako se isti novac vrati tek u junu, kampanja možda i dalje ima pozitivan ROI, ali zahteva mnogo više strpljenja i rezerve.
+
+Zato tekst o [maksimalnoj ceni leada](/blog/maksimalna-cena-leada-srbija-2026) nije dovoljan sam za sebe. Maksimalan CPL mora da se uklopi sa maržom, stopom zatvaranja i vremenom naplate. Lead od 4.000 RSD može biti skup ako se novac vraća posle šest meseci. Lead od 12.000 RSD može biti dobar ako klijent uplati avans za dva dana.
+
+## Gde firme pogreše u računu
+
+Najčešća greška je računanje prihoda umesto profita. Firma kaže da je dobila posao od 500.000 RSD, ali zaboravi rad, materijal, popuste, provizije, poreze i vreme tima. Marketing se ne vraća iz prometa. Vraća se iz profita.
+
+Druga greška je mešanje svih leadova u jednu gomilu. Google Ads, preporuke, organski Google i Instagram poruke ne vraćaju novac istom brzinom. Neki kanali donose ljude koji su spremni odmah. Drugi greju publiku duže. Ako se sve meri zajedno, lako se ugasi kanal koji kasni, ali donosi dobre klijente, ili se pojača kanal koji brzo puni inbox lošim upitima.
+
+Treća greška je preskakanje prodajnog procesa. Marketing dovede lead, prodaja kasni tri dana, ponuda ode bez follow-upa i onda se kaže da se kampanja ne isplati. Pre nego što se preseče budžet, proverite [brzinu odgovora na upit](/blog/brzina-odgovora-na-upit-follow-up-prodaja-srbija-2026) i evidenciju u [CRM-u za leadove](/blog/crm-za-leadove-evidencija-prodaja-srbija-2026).
+
+## Kada je spor povrat normalan
+
+Nije svaki spor povrat loš. Kod skupljih usluga, B2B prodaje, renoviranja, medicinskih tretmana, edukacija i kompleksnih projekata, kupac retko odlučuje za jedan dan. Tada kampanja može da radi normalno, ali period povrata traje 60, 90 ili više dana.
+
+Problem nastaje kada firma očekuje e-commerce ritam od uslužnog poslovanja. Plati oglase danas, hoće profit sutra, a realan prodajni ciklus traje šest nedelja. Takva očekivanja ubijaju dobre kampanje pre nego što dobiju dovoljno podataka.
+
+Zato minimalni test ne treba meriti samo budžetom, nego i vremenom. Ako prodajni ciklus traje 45 dana, test od dve nedelje ne može dati pošten odgovor. O tome detaljnije piše tekst o [minimalnom budžetu za lead generation](/blog/minimalni-budzet-za-lead-generation-srbija-2026).
+
+## Kada je spor povrat crvena zastavica
+
+Spor povrat je problem ako se ponavlja zajedno sa slabom kvalifikacijom, niskom maržom ili lošim zatvaranjem. Tada kampanja ne kasni. Ona samo otkriva da sistem ne može da nosi plaćeni saobraćaj.
+
+Obratite pažnju na ove signale:
+
+1. puno upita traži najnižu cenu,
+2. ponude se šalju, ali se retko prate,
+3. prodaja ne zna iz kog kanala je lead došao,
+4. klijenti uzimaju male pakete bez sledeće kupovine,
+5. vlasnik ne zna koliko novca je naplaćeno iz prošlomesečnih leadova.
+
+U tom slučaju nije pametno samo dodati budžet. Prvo treba srediti ponudu, kontakt formu, dokaz poverenja i praćenje konverzija. Ako ne znate koji lead je doneo prihod, pogledajte [praćenje konverzija za lead generation](/blog/pracenje-konverzija-lead-generation-srbija-2026). Ako znate da upiti stižu, ali nisu dovoljno jasni, krenite od [kontakt forme za kvalifikaciju leadova](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026).
+
+## Kako odlučiti da li povećati budžet
+
+Budžet ima smisla povećati kada tri stvari rade zajedno: leadovi su kvalifikovani, prodaja ih obrađuje na vreme i period povrata je prihvatljiv za cash flow firme.
+
+Praktično pravilo: ne povećavajte budžet samo zato što je cena po leadu niža. Povećajte ga kada znate koliko leadova postaje prodaja, koliko bruto profita ostaje po klijentu i koliko dana treba da se novac vrati.
+
+Ako kampanja vrati ulaganje za 30 do 45 dana, firma može agresivnije da testira. Ako vraća za 90 dana, budžet se povećava sporije i uz rezervu. Ako se ne vidi povrat ni posle punog prodajnog ciklusa, problem treba tražiti u kanalu, ponudi, prodaji ili merenju.
+
+Za širu budžetsku sliku pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga), [Google reklame cena](/google-reklame-cena) i [ROI kalkulator](/alati/roi-kalkulator). Ti brojevi imaju smisla tek kada ih povežete sa realnom maržom i vremenom naplate.
+
+## Šta pratiti svakog meseca
+
+Jednom mesečno dovoljno je napraviti jednostavan pregled:
+
+1. koliko je potrošeno po kanalu,
+2. koliko je leadova stiglo,
+3. koliko je bilo kvalifikovanih leadova,
+4. koliko je ponuda poslato,
+5. koliko poslova je dobijeno,
+6. koliko bruto profita je naplaćeno,
+7. koliko dana je trebalo do povrata budžeta.
+
+Ako ove brojeve imate tri meseca zaredom, odluke postaju mirnije. Ne gasite kampanju zbog jednog lošeg ponedeljka. Ne duplirate budžet zbog jedne srećne nedelje. Vidite obrazac.
+
+Tu se marketing pretvara iz troška u sistem. Nije poenta da svaka kampanja izgleda lepo u izveštaju. Poenta je da vlasnik zna koliko novca može da uloži bez ugrožavanja firme.
+
+## Zaključak
+
+Marketing budžet nije samo pitanje cene klika, cene leada ili mesečnog retainer-a. Pitanje je koliko brzo se novac vraća i da li firma može da izdrži period između ulaganja i naplate.
+
+Ako već imate upite, ali niste sigurni da li budžet treba povećati, smanjiti ili preusmeriti, krenite od perioda povrata. On često pokaže istinu koju prosečan CPL sakrije.
+
+Ako želite da izračunamo gde vam se marketing vraća, gde kasni i gde curi novac između forme i prodaje, pošaljite poruku preko [kontakt strane](/kontakt). Napišite koji kanal koristite, koliki je mesečni budžet i koliko dugo obično traje prodaja. Iz toga se brzo vidi da li je problem u budžetu, ponudi, prodaji ili merenju.
+`,
+  },
+  {
     slug: 'crm-za-leadove-evidencija-prodaja-srbija-2026',
     title: 'CRM za leadove u Srbiji 2026: zašto upiti propadaju posle forme',
     excerpt: 'Kampanja može da dovede dobar upit, ali prodaja ga lako izgubi bez evidencije, statusa, roka za poziv i jasnog sledećeg koraka. Evo kako srediti CRM.',
