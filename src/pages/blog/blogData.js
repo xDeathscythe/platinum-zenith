@@ -1,5 +1,99 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'break-even-marketing-budzeta-srbija-2026',
+    title: 'Break-even marketing budžeta u Srbiji 2026: koliko prodaje treba da ne budete u minusu',
+    excerpt: 'Marketing budžet nije isplativ zato što donosi upite. Isplativ je tek kada bruto profit iz zatvorenih klijenata pokrije oglase, agenciju i operativni rad.',
+    date: '2026-06-11',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Marketing budžet', 'ROI', 'Break-even', 'Lead Generation', 'Profitabilnost'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Kampanja može da donosi leadove i da i dalje bude u minusu
+
+Mnogo firmi gleda marketing kroz jedno pitanje: koliko upita smo dobili? To je normalno za početak, ali nije dovoljno. Upit nije prihod. Zakazan poziv nije prihod. Čak ni potpisan posao nije cela slika ako je marža tanka, naplata kasni ili tim potroši previše sati da isporuči uslugu.
+
+Česta greška je proglasiti kampanju uspešnom čim telefon počne da zvoni. Firma potroši 800 evra na oglase, dobije 40 leadova, zatvori nekoliko klijenata i deluje kao da je sve dobro. Onda na kraju meseca vlasnik pogleda račun, plate, nabavku, poreze i radne sate, pa shvati da je marketing doneo promet, ali ne i mir.
+
+Break-even je tačka u kojoj kampanja pokrije sve što mora da pokrije. Ne samo Google ili Meta budžet. I ne samo fee agencije. Treba uračunati bruto profit, prosečnu vrednost posla, stopu zatvaranja, kašnjenje naplate i vreme koje prodaja troši na svaki upit.
+
+## Šta uopšte znači break-even u marketingu
+
+Najjednostavnije: break-even znači da novac koji zaradite kroz kampanju pokriva trošak kampanje. Ali kod uslužnih firmi to ne treba računati kroz promet, nego kroz bruto profit.
+
+Ako firma proda uslugu za 1.000 evra, a direktni troškovi isporuke su 450 evra, bruto profit je 550 evra. Ako je kampanja dovela tog klijenta za 300 evra, na papiru ima prostora. Ako je dovela klijenta za 700 evra, promet izgleda lepo, ali matematika već škripi.
+
+Zato tekst o [maksimalnoj ceni leada](/blog/maksimalna-cena-leada-srbija-2026) ne treba koristiti kao izolovanu tabelu. Maksimalni CPL zavisi od toga koliko leadova zatvarate, koliko vredi klijent i koliko profita ostaje posle isporuke.
+
+## Formula koja je dovoljno dobra za odluku
+
+Za prvu procenu ne treba komplikovan dashboard. Dovoljna su četiri broja:
+
+1. prosečan bruto profit po novom klijentu,
+2. stopa zatvaranja leadova u klijente,
+3. ukupan trošak marketinga u mesecu,
+4. broj zatvorenih klijenata iz kampanje.
+
+Primer: firma ima prosečan bruto profit od 500 evra po klijentu. Od 20 leadova zatvori 4 klijenta. To znači da jedan lead u proseku vredi 100 evra bruto profita: 500 evra puta 20% zatvaranja.
+
+Ako kompletan marketing trošak po leadu pređe 100 evra, kampanja ulazi u minus pre nego što se računaju dodatni problemi kao što su kašnjenje naplate, reklamacije ili dodatni rad. Ako je trošak po leadu 60 evra, postoji prostor. Nije savršen, ali ima smisla dalje optimizovati.
+
+Za detaljnije planiranje korisno je uporediti ovaj račun sa [ROI kalkulatorom](/alati/roi-kalkulator) i cenama usluga na strani [cene digitalnog marketinga](/cene-digitalnog-marketinga). Tako se ne priča napamet o budžetu, nego se vidi koliko prodaje mora da nastane da bi ulaganje imalo smisla.
+
+## Zašto firme pogrešno računaju isplativost
+
+Prva greška je računanje preko prihoda umesto profita. Ako kampanja napravi 5.000 evra prometa, to ne znači da je napravila 5.000 evra novca za firmu. Deo odlazi na ljude, materijal, alate, provizije, poreze i popuste.
+
+Druga greška je ignorisanje vremena prodaje. Ako tim mora da obradi 80 loših upita da bi zatvorio dva klijenta, marketing možda nije skup samo zbog oglasa. Skup je zato što troši pažnju ljudi koji bi mogli da rade na boljim prilikama. Tu pomažu [kontakt forma za kvalifikaciju leadova](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026) i dobar [prodajni poziv](/blog/prodajni-poziv-za-leadove-srbija-2026).
+
+Treća greška je mešanje kanala. Firma kaže da marketing ne radi, a u istu tabelu ubaci preporuke, organske upite, Google Ads, Instagram poruke i stare klijente. Onda niko ne zna šta zapravo donosi novac. Ako ne merite izvor, pogledajte [praćenje konverzija za lead generation](/blog/pracenje-konverzija-lead-generation-srbija-2026) pre nego što povećate budžet.
+
+## Kada kampanja može biti ispod break-even tačke i da ipak ima smisla
+
+Nije svaka kampanja koja u prvom mesecu nije profitabilna loša. Nekad se testira nova ponuda. Nekad je prodajni ciklus duži. Nekad klijent prvo kupi manju uslugu, pa kasnije veći paket. Zato je važan tekst o [vrednosti klijenta kroz LTV](/blog/vrednost-klijenta-ltv-marketing-budzet-srbija-2026).
+
+Ali postoji razlika između planskog testa i bacanja para. Planski test ima hipotezu, budžet, rok, metrike i odluku šta se radi posle. Bacanje para izgleda ovako: kampanja traje tri meseca, svi imaju utisak da se nešto dešava, a niko ne zna koliko je klijenata zatvoreno i koliko je profita ostalo.
+
+Ako firma može da izdrži duži period povrata, break-even ne mora da se desi odmah. Ako ne može, onda je opasno juriti rast koji pojede keš. O tome detaljnije piše tekst o [periodu povrata marketing budžeta](/blog/period-povrata-marketing-budzeta-srbija-2026).
+
+## Šta proveriti pre povećanja budžeta
+
+Pre nego što kampanja dobije više novca, vredi proveriti nekoliko stvari.
+
+Da li znate bruto profit po tipu klijenta? Ako ne znate, svaki CPL je nagađanje.
+
+Da li znate stopu zatvaranja po izvoru? Lead sa Google-a, preporuke i hladne poruke ne treba stavljati u isti koš.
+
+Da li znate koliko leadova propadne zbog sporog odgovora, slabog razgovora ili nejasne ponude? Ako se upiti gube posle forme, povećanje budžeta samo pravi više istog problema. Tekst o [brzini odgovora na upit](/blog/brzina-odgovora-na-upit-follow-up-prodaja-srbija-2026) je dobar sledeći korak ako leadovi čekaju predugo.
+
+Da li landing stranica uklanja strah ili samo opisuje uslugu? Ako posete dolaze, ali nema dovoljno ozbiljnih upita, problem može biti u dokazima, ceni, pozivu na akciju ili samoj ponudi. Tu pomaže tekst o [dokazima poverenja na sajtu](/blog/dokazi-poverenja-na-sajtu-konverzija-srbija-2026).
+
+## Kako postaviti break-even cilj u praksi
+
+Za uslužnu firmu najčistiji pristup je postaviti tri nivoa:
+
+1. crvena zona: kampanja troši više nego što realno može da vrati,
+2. break-even zona: kampanja pokriva trošak, ali još nema dovoljno profita,
+3. zona skaliranja: kampanja donosi dovoljno profita da zasluži veći budžet.
+
+Primer može izgledati ovako. Ako jedan lead u proseku vredi 100 evra bruto profita, crvena zona je sve preko 100 evra po leadu. Break-even zona je oko 80 do 100 evra, zavisno od troškova prodaje. Zona skaliranja je možda ispod 60 evra, ako kvalitet leadova ostane isti.
+
+Ovo nisu univerzalni brojevi. Advokatska kancelarija, auto škola, stomatološka ordinacija i B2B usluga nemaju istu maržu, isti prodajni ciklus i isti rizik. Zato strana [Google reklame cena](/google-reklame-cena) može da da okvir za ulaganje, ali vaša interna matematika odlučuje gde je granica.
+
+## Zaključak
+
+Break-even nije knjigovodstveni detalj. To je filter koji sprečava da firma slavi leadove dok joj keš curi.
+
+Ako ne znate gde vam je break-even tačka, lako je doneti pogrešnu odluku. Možete ugasiti kampanju koja je blizu profitabilnosti i samo joj fali bolji follow-up. Možete i povećati budžet kampanji koja lepo izgleda u izveštaju, ali ne pokriva stvarni trošak prodaje i isporuke.
+
+Ako želite da proverimo koliko lead stvarno sme da vas košta i gde vam kampanja prelazi iz troška u profit, pošaljite poruku preko [kontakt strane](/kontakt). Napišite šta prodajete, prosečnu vrednost posla, okvirnu maržu, mesečni budžet i koliko leadova zatvarate. Iz toga se brzo vidi da li treba popravljati kampanju, ponudu, tracking, prodaju ili samu matematiku budžeta.
+`,
+  },
+  {
     slug: 'prodajni-poziv-za-leadove-srbija-2026',
     title: 'Prodajni poziv za leadove u Srbiji 2026: kako upit pretvoriti u klijenta',
     excerpt: 'Lead ne propada samo zbog kampanje. Često propadne u prvom razgovoru, kada nema strukture, pitanja, sledećeg koraka i jasnog dogovora. Evo kako srediti prodajni poziv.',

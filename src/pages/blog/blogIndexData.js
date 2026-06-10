@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "break-even-marketing-budzeta-srbija-2026",
+    "title": "Break-even marketing budžeta u Srbiji 2026: koliko prodaje treba da ne budete u minusu",
+    "excerpt": "Marketing budžet nije isplativ zato što donosi upite. Isplativ je tek kada bruto profit iz zatvorenih klijenata pokrije oglase, agenciju i operativni rad.",
+    "date": "2026-06-11",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "prodajni-poziv-za-leadove-srbija-2026",
     "title": "Prodajni poziv za leadove u Srbiji 2026: kako upit pretvoriti u klijenta",
     "excerpt": "Lead ne propada samo zbog kampanje. Često propadne u prvom razgovoru, kada nema strukture, pitanja, sledećeg koraka i jasnog dogovora. Evo kako srediti prodajni poziv.",
