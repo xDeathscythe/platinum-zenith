@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-tehnicki-pregled-cena-zakazivanja-srbija-2026",
+    "title": "Google Ads za tehnički pregled vozila u Srbiji 2026: cena zakazivanja i budžet",
+    "excerpt": "Tehnički pregled nema problem sa potražnjom, nego sa trenutkom, lokacijom i poverenjem. Evo kako Google Ads može da dovede zakazivanja bez bacanja budžeta na pogrešne upite.",
+    "date": "2026-06-10",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "period-povrata-marketing-budzeta-srbija-2026",
     "title": "Period povrata marketing budžeta u Srbiji 2026: kada se ulaganje stvarno isplati",
     "excerpt": "Marketing budžet ne treba meriti samo po ceni leada. Evo kako izračunati period povrata, cash flow rizik i trenutak kada kampanja zaslužuje veći budžet.",

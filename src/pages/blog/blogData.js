@@ -1,5 +1,102 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'google-ads-za-tehnicki-pregled-cena-zakazivanja-srbija-2026',
+    title: 'Google Ads za tehnički pregled vozila u Srbiji 2026: cena zakazivanja i budžet',
+    excerpt: 'Tehnički pregled nema problem sa potražnjom, nego sa trenutkom, lokacijom i poverenjem. Evo kako Google Ads može da dovede zakazivanja bez bacanja budžeta na pogrešne upite.',
+    date: '2026-06-10',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Tehnički pregled', 'Lokalni marketing', 'Lead Generation', 'Auto usluge'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Tehnički pregled se bira kad vozaču ističe vreme
+
+Kod tehničkog pregleda kupac retko razmišlja mesecima. Registracija ističe, treba termin, treba jasna cena i treba mesto koje nije komplikovano za dolazak. Zbog toga Google Ads može da radi jako dobro, ali samo ako kampanja razume lokalnu nameru.
+
+Česta greška je da stanica za tehnički pregled pokrene široku kampanju za ceo grad, pošalje ljude na opštu početnu stranu i meri samo broj klikova. Posle dve nedelje deluje kao da ima saobraćaja, ali telefon ne zvoni dovoljno. Problem nije uvek u Google-u. Često je u tome što oglas ne odgovara na pitanja koja vozač ima u tom trenutku.
+
+Vozač ne traži esej o usluzi. Traži da brzo shvati da li može danas ili sutra, koliko okvirno košta, gde se nalazite, da li radite registraciju uz pregled i kako da zakaže bez dopisivanja od pola sata.
+
+## Koje pretrage vrede najviše
+
+Nisu sve pretrage iste. Neko ko kuca "tehnički pregled cena" još poredi opcije. Neko ko kuca "tehnički pregled Novi Beograd zakazivanje" mnogo je bliži odluci. Neko ko kuca samo "registracija vozila" može tražiti tehnički pregled, osiguranje, kalkulator, dokumenta ili objašnjenje procedure.
+
+Za kampanju su najvrednije pretrage koje spajaju uslugu, lokaciju i nameru:
+
+1. tehnički pregled + grad ili opština,
+2. zakazivanje tehničkog pregleda,
+3. tehnički pregled cena,
+4. registracija vozila + lokacija,
+5. produženje registracije vozila.
+
+Preširoke reči umeju da pojedu budžet. Firma dobije klikove od ljudi koji samo proveravaju pravila, traže dokumentaciju ili porede osiguranje, ali nisu spremni da pozovu. Zato je za početak pametnije krenuti uže, pa širiti kampanju tek kada se vidi šta donosi zakazane termine.
+
+Ako tek planirate budžet, koristan okvir je tekst o tome koliko koštaju [Google reklame u Srbiji](/google-reklame-cena). Za širu sliku klikova po nišama pogledajte i [Google Ads cenu po kliku](/blog/google-ads-cena-po-kliku-srbija-2026), ali kod tehničkog pregleda sama cena klika nije dovoljna. Važnije je koliko poziva i zakazivanja dobijete iz tih klikova.
+
+## Cena zakazivanja zavisi od grada i gužve
+
+Ne postoji jedna normalna cena zakazivanja za svaku stanicu. U većem gradu konkurencija može podići cenu klika, ali i broj pretraga je veći. U manjem mestu klik može biti jeftiniji, ali kampanja brzo udari u plafon jer nema dovoljno ljudi koji svakog dana traže uslugu.
+
+Praktičan test može izgledati ovako: odvojite budžet za 30 dana, targetirajte samo zonu iz koje ljudi realno dolaze i merite pozive, forme, WhatsApp poruke i klikove na mapu. Ako se meri samo poseta sajtu, nećete znati da li je kampanja donela posao ili radoznale posetioce.
+
+Za tehnički pregled posebno treba paziti na sezonalnost i dane u nedelji. Neke stanice imaju jače pozive pred kraj meseca. Neke rade bolje subotom. Neke gube upite jer se oglas prikazuje kad niko ne može da odgovori na telefon. To nije sitnica. Plaćen klik koji dođe u 19:40 nema istu vrednost ako se niko ne javlja do sutra ujutru.
+
+## Landing stranica mora da skine trenje
+
+Najskuplji klik je onaj koji dovede čoveka na stranu gde mora da traži osnovne informacije. Kod tehničkog pregleda landing stranica treba odmah da odgovori na nekoliko pitanja.
+
+Prvo, gde se nalazite. Ne samo adresa u footer-u, nego jasan deo sa mapom, parkingom i delom grada koji pokrivate. Drugo, kako se zakazuje. Telefon, forma, WhatsApp ili sve tri opcije, ali bez skrivanja kontakta. Treće, šta čovek treba da ponese. Saobraćajna, lična karta, polisa ili drugi dokumenti, zavisno od usluge koju nudite. Četvrto, okvir za cenu ili bar objašnjenje od čega zavisi.
+
+Česta greška je sakriti cenu iz straha da konkurencija ne vidi ponudu. Konkurencija već zna tržište. Problem je što potencijalni klijent ne zna da li treba da zove. Ako ne želite da navedete tačan iznos, objasnite raspon, šta ulazi u cenu i kada se cena menja.
+
+Tu pomaže i tekst o [kontakt formi za kvalifikaciju leadova](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026). Forma za tehnički pregled ne treba da bude duga. Dovoljno je ime, telefon, tip vozila, željeni termin i pitanje da li treba samo pregled ili i pomoć oko registracije.
+
+## Poziv je važniji od savršenog izveštaja
+
+Kod lokalnih auto usluga telefon često zatvara posao. Zbog toga kampanja mora da meri pozive, ne samo klikove. Ako deset ljudi klikne na broj telefona, a niko se ne javlja, Google Ads izveštaj može izgledati bolje nego realnost.
+
+Stanice za tehnički pregled često izgube upite na tri mesta: poziv nije primljen, osoba na telefonu ne zna slobodne termine ili se klijent ne upiše u evidenciju. Onda marketing dobije krivicu, iako je problem nastao posle klika.
+
+Zato je korisno povezati kampanju sa jednostavnom evidencijom. Iz kog oglasa je došao poziv? Da li je termin zakazan? Da li je čovek došao? Ako nije došao, zašto? Bez toga se odluka svodi na utisak. Tekst o [praćenju konverzija za lead generation](/blog/pracenje-konverzija-lead-generation-srbija-2026) pokriva tehnički deo merenja, a [CRM za leadove](/blog/crm-za-leadove-evidencija-prodaja-srbija-2026) objašnjava kako da se upiti ne izgube posle prvog kontakta.
+
+## Šta ne treba raditi u prvoj kampanji
+
+Nemojte odmah juriti ceo region ako većina klijenata dolazi iz nekoliko opština. Ljudi neće voziti preko pola grada za uslugu koju mogu da završe bliže, osim ako imate jasnu prednost: brži termin, radno vreme, dodatnu uslugu ili bolju organizaciju.
+
+Nemojte slati sav saobraćaj na homepage ako je strana napravljena za sve usluge odjednom. Vozač koji traži tehnički pregled treba da sleti na stranu o tehničkom pregledu. Ako mora da klikće kroz meni, deo ljudi će otići.
+
+Nemojte meriti uspeh posle tri dana. Kampanja mora da prođe kroz dovoljno pretraga, poziva i termina da bi se videlo šta radi. Ako je budžet mali, test mora trajati duže. O tome detaljnije piše tekst o [minimalnom budžetu za lead generation](/blog/minimalni-budzet-za-lead-generation-srbija-2026).
+
+## Koliki budžet ima smisla
+
+Za prvu kampanju bolje je imati skroman, ali čist test nego veliki budžet bez merenja. Ako stanica radi samo jedan deo grada, nema potrebe da se novac troši na ljude koji su predaleko. Ako postoji više lokacija, svaka lokacija treba svoj pregled rezultata, jer jedna može donositi dobre pozive, a druga samo skupe klikove.
+
+Budžet treba vezati za kapacitet. Ako možete da primite ograničen broj vozila dnevno, kampanja ne treba da pravi haos u telefonu. Ako imate prazne termine, oglas može agresivnije da se prikazuje u delovima dana kada ljudi najčešće zovu.
+
+Za planiranje troška pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga). Ako već znate prosečnu zaradu po klijentu i koliko termina možete da obradite, lakše je izračunati koliko sme da košta jedno zakazivanje.
+
+## Kada Google Ads nije prvi problem
+
+Nekad stanica nema problem sa oglasima, nego sa ponudom. Ako konkurencija ima jasnije radno vreme, bolju lokaciju, jednostavnije zakazivanje i brži odgovor, Google Ads samo izvuče taj problem na površinu.
+
+Drugi čest slučaj je loš Google Business profil. Ljudi vide oglas, provere mapu, pogledaju ocene i odustanu. U toj situaciji nije dovoljno dodati budžet. Treba srediti fotografije, radno vreme, recenzije, odgovore na pitanja i konzistentan NAP podatak: naziv, adresu i telefon.
+
+Treći problem je spor odgovor. Ako se na propušten poziv odgovori posle nekoliko sati, vozač je često već zakazao negde drugde. Tu vredi pročitati tekst o [brzini odgovora na upit](/blog/brzina-odgovora-na-upit-follow-up-prodaja-srbija-2026). Kod usluga koje su hitne ili vremenski vezane, brzina često vredi više od lepšeg oglasa.
+
+## Zaključak
+
+Google Ads za tehnički pregled ima smisla kada kampanja hvata lokalnu nameru, vodi na jasnu stranicu i meri zakazane termine. Ako se meri samo klik, lako je poverovati da budžet radi ili ne radi iz pogrešnog razloga.
+
+Dobra kampanja za ovu nišu nije komplikovana. Treba joj precizna lokacija, jasna ponuda, termin koji se lako zakazuje, telefon koji neko stvarno prati i evidencija šta se desilo posle poziva.
+
+Ako imate stanicu za tehnički pregled, registraciju vozila ili sličnu auto uslugu i želite da vidite koliko bi koštalo zakazivanje preko Google Ads-a, javite se preko [kontakt strane](/kontakt). Pošaljite grad, lokaciju, radno vreme i koliko termina mesečno želite da popunite. Iz toga se brzo vidi da li prvo treba raditi kampanju, landing stranicu, Google Business profil ili praćenje poziva.
+`,
+  },
+  {
     slug: 'period-povrata-marketing-budzeta-srbija-2026',
     title: 'Period povrata marketing budžeta u Srbiji 2026: kada se ulaganje stvarno isplati',
     excerpt: 'Marketing budžet ne treba meriti samo po ceni leada. Evo kako izračunati period povrata, cash flow rizik i trenutak kada kampanja zaslužuje veći budžet.',
