@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "prodajni-poziv-za-leadove-srbija-2026",
+    "title": "Prodajni poziv za leadove u Srbiji 2026: kako upit pretvoriti u klijenta",
+    "excerpt": "Lead ne propada samo zbog kampanje. Često propadne u prvom razgovoru, kada nema strukture, pitanja, sledećeg koraka i jasnog dogovora. Evo kako srediti prodajni poziv.",
+    "date": "2026-06-10",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-tehnicki-pregled-cena-zakazivanja-srbija-2026",
     "title": "Google Ads za tehnički pregled vozila u Srbiji 2026: cena zakazivanja i budžet",
     "excerpt": "Tehnički pregled nema problem sa potražnjom, nego sa trenutkom, lokacijom i poverenjem. Evo kako Google Ads može da dovede zakazivanja bez bacanja budžeta na pogrešne upite.",

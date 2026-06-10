@@ -1,5 +1,108 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'prodajni-poziv-za-leadove-srbija-2026',
+    title: 'Prodajni poziv za leadove u Srbiji 2026: kako upit pretvoriti u klijenta',
+    excerpt: 'Lead ne propada samo zbog kampanje. Često propadne u prvom razgovoru, kada nema strukture, pitanja, sledećeg koraka i jasnog dogovora. Evo kako srediti prodajni poziv.',
+    date: '2026-06-10',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Prodaja', 'Lead Generation', 'Follow-up', 'CRM', 'Konverzija'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Kampanja dovede upit, ali poziv odlučuje da li postoji prodaja
+
+Mnogo firmi misli da problem nastaje pre forme: loš oglas, pogrešna publika, skupi klikovi, slab landing. Nekad je to tačno. Ali često se pravi gubitak desi tek posle upita, u prvom razgovoru.
+
+Lead popuni formu, pozove ili pošalje poruku. Firma odgovori brzo, ali razgovor ode u širinu. Neko pita "šta vas zanima", klijent kaže "samo cenu", zaposleni izrecituje paket i tu se sve završi. Posle toga se lead upiše kao neozbiljan, a kampanja dobije krivicu.
+
+Nije svaki takav upit izgubljen zbog cene. Često nije bilo dovoljno pitanja, nije razjašnjeno šta čovek pokušava da reši i nije dogovoren sledeći korak. Prodajni poziv ne mora da bude manipulacija. Treba samo da ima red.
+
+## Šta prodajni poziv treba da uradi
+
+Dobar prvi poziv ima tri posla. Prvo, da potvrdi da je osoba pravi potencijalni klijent. Drugo, da razume problem, rok, budžet i posledice ako se ništa ne promeni. Treće, da dogovori sledeći korak koji ima smisla za obe strane.
+
+Česta greška je tretirati svaki upit isto. Firma dobije zahtev za cenu i odmah šalje ponudu. Nema pitanja o trenutnoj situaciji, cilju, prethodnim pokušajima, odgovornosti za odluku i vremenu kada rezultat treba da se vidi. Onda ponuda izgleda kao još jedan PDF u inbox-u.
+
+Za usluge sa većom vrednošću to je skupo. Ako je klijent došao preko plaćene kampanje, svaki razgovor ima cenu. Pre nego što povećate budžet, vredi proveriti da li prodaja izvlači dovoljno informacija iz postojećih upita. Tekst o [maksimalnoj ceni leada](/blog/maksimalna-cena-leada-srbija-2026) ima smisla tek kada znate koliko tih leadova stvarno prolazi kroz razgovor.
+
+## Najčešće greške u prvom razgovoru
+
+Prva greška je prerano slanje cene. Ljudi pitaju cenu jer ne znaju šta drugo da pitaju. Ako firma odmah odgovori cifrom, razgovor se svodi na poređenje tabela. Bolje je kratko vratiti okvir i nastaviti sa pitanjem: "Mogu da vam kažem raspon, ali prvo moram da znam šta tačno pokušavate da rešite."
+
+Druga greška je razgovor bez beleški. Prodavac zapamti deo priče, zaboravi rok, ne upiše izvor leada i posle tri dana ne zna zašto je ta osoba uopšte zvala. Tu nastaje haos koji se kasnije vidi kao slab marketing. Ako nemate evidenciju, pogledajte [CRM za leadove](/blog/crm-za-leadove-evidencija-prodaja-srbija-2026). Ne treba vam komplikovan sistem. Treba vam mesto gde piše status, sledeća akcija i odgovorna osoba.
+
+Treća greška je završiti poziv bez dogovora. "Čujemo se" nije sledeći korak. Sledeći korak je konkretan: šaljemo ponudu do 15h, zovemo sutra u 10:30, zakazujemo konsultaciju u petak, šaljete nam slike prostora, donosilac odluke ulazi u sledeći poziv.
+
+## Pitanja koja menjaju kvalitet razgovora
+
+Prodajni poziv ne mora da traje 45 minuta. Za većinu uslužnih firmi dovoljno je nekoliko normalnih pitanja koja pomeraju razgovor sa cene na situaciju.
+
+Korisna pitanja su:
+
+1. Šta vas je nateralo da sada tražite rešenje?
+2. Šta ste već probali i zašto nije radilo?
+3. Šta bi za vas bio dobar rezultat za 30, 60 ili 90 dana?
+4. Koliko vam problem trenutno košta kroz vreme, izgubljene upite ili propuštenu prodaju?
+5. Ko još učestvuje u odluci?
+6. Kada želite da krenete ako ponuda ima smisla?
+
+Ova pitanja nisu trik. Ona štede vreme i firmi i klijentu. Ako osoba nema problem, nema rok i nema volju da razgovara o sledećem koraku, verovatno nije dobar lead. Ako ima sve to, cena više nije jedina tema.
+
+Tu se lepo vidi zašto [kontakt forma za kvalifikaciju leadova](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026) i prodajni poziv treba da rade zajedno. Forma skupi osnovne podatke. Poziv proveri kontekst. CRM čuva dogovor.
+
+## Kako pričati o ceni bez spuštanja vrednosti
+
+Cena ne treba da se krije kao državna tajna. Ali ne treba ni da bude prva i jedina stvar koju klijent čuje. Ako firma prodaje uslugu koja zavisi od obima, cilja i trenutnog stanja, normalno je dati raspon i objasniti od čega zavisi.
+
+Loš odgovor zvuči ovako: "Paket je 500 evra mesečno." To možda jeste tačno, ali ne govori ništa o problemu, obimu posla, očekivanju i rezultatu.
+
+Bolji odgovor je konkretniji: "Za firme koje imaju postojeći sajt i već prate upite, ovakav rad obično kreće od X. Ako moramo prvo da sredimo landing, tracking i ponudu, prvi mesec je drugačiji. Hajde da proverimo šta vam stvarno treba, pa da ne plaćate pogrešnu stvar."
+
+Zato su stranice kao [cene digitalnog marketinga](/cene-digitalnog-marketinga) i [Google reklame cena](/google-reklame-cena) korisne pre poziva. One postave okvir. Poziv onda ne počinje od nule, nego od toga da li je konkretan slučaj jednostavan ili zahteva više posla.
+
+## Brzina odgovora je samo prvi deo
+
+Brz odgovor pomaže, ali nije dovoljan. Firma može da pozove za pet minuta i opet izgubi lead ako razgovor nema strukturu. Sa druge strane, firma koja odgovori brzo, postavi dobra pitanja i zakaže sledeći korak ima mnogo veće šanse da pretvori isti budžet u prihod.
+
+Ako se leadovi često hlade, prvo proverite tekst o [brzini odgovora na upit](/blog/brzina-odgovora-na-upit-follow-up-prodaja-srbija-2026). Posle toga pogledajte sam sadržaj razgovora. Da li osoba zna zašto zove? Da li zna šta treba da pita? Da li zna šta radi ako klijent kaže "pošaljite mi samo cenu"?
+
+Čest problem je da firma ima follow-up, ali nema razlog za follow-up. Pošalje se generička poruka: "Da li ste razmotrili ponudu?" Bolje je vratiti se na ono što je klijent rekao u razgovoru: rok, problem, cilj, strah, sledeću odluku. Zato beleške nisu administracija. Beleške su prodajni alat.
+
+## Kada lead nije dobar i to je u redu
+
+Nije poenta zatvoriti svakoga. Neki ljudi nisu spremni, neki traže najnižu cenu, neki imaju problem koji vaša usluga ne rešava. Dobar prodajni poziv to prepozna ranije, pre nego što firma potroši sate na pogrešnu ponudu.
+
+Problem nastaje kada se svi neuspeli razgovori stave u istu kutiju: loši leadovi. Jedan lead je možda stvarno loš. Drugi je bio dobar, ali nije dobio jasan sledeći korak. Treći nije imao dovoljno poverenja. Četvrti je tražio cenu jer nije razumeo vrednost.
+
+Ako ljudi posećuju sajt, ali ne veruju dovoljno da razgovor ode dalje, pogledajte [dokaze poverenja na sajtu](/blog/dokazi-poverenja-na-sajtu-konverzija-srbija-2026). Poziv ne može sam da popravi slab dokaz, nejasnu ponudu i stranicu bez primera. Može samo da ublaži štetu.
+
+## Jednostavan okvir za sledeći poziv
+
+Za većinu firmi dovoljno je imati kratak okvir koji svi koriste:
+
+1. Potvrdite šta je osoba poslala ili tražila.
+2. Pitajte šta je pokrenulo potrebu sada.
+3. Proverite cilj, rok i prethodne pokušaje.
+4. Dajte okvir cene ili načina rada, bez lažnog obećanja.
+5. Dogovorite sledeći korak sa vremenom i odgovornošću.
+6. Upišite status u CRM odmah posle poziva.
+
+Ovo ne mora da zvuči kao call centar. Najbolji razgovori zvuče normalno. Razlika je u tome što ne zavise od raspoloženja osobe koja se javila na telefon.
+
+## Zaključak
+
+Ako kampanja dovodi upite, a prodaja se ne pomera, nemojte prvo povećavati budžet. Pogledajte šta se dešava u prvom razgovoru. Koliko se brzo odgovara? Koja pitanja se postavljaju? Da li se beleži dogovor? Da li svaki lead ima sledeću akciju?
+
+Prodajni poziv je most između marketinga i prihoda. Kada je slab, kampanja izgleda skuplje nego što jeste. Kada je sređen, isti broj upita može doneti više zakazanih razgovora, boljih ponuda i manje izgubljenih prilika.
+
+Ako želite da proverimo gde vam leadovi zapinju između forme, telefona, ponude i prodaje, pošaljite poruku preko [kontakt strane](/kontakt). Napišite koji kanal koristite, koliko upita mesečno dobijate i šta se obično desi posle prvog poziva. Iz toga se brzo vidi da li treba sređivati kampanju, landing, tracking, CRM ili sam prodajni razgovor.
+`,
+  },
+  {
     slug: 'google-ads-za-tehnicki-pregled-cena-zakazivanja-srbija-2026',
     title: 'Google Ads za tehnički pregled vozila u Srbiji 2026: cena zakazivanja i budžet',
     excerpt: 'Tehnički pregled nema problem sa potražnjom, nego sa trenutkom, lokacijom i poverenjem. Evo kako Google Ads može da dovede zakazivanja bez bacanja budžeta na pogrešne upite.',
