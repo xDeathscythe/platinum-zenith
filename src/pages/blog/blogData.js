@@ -1,5 +1,100 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'raspodela-marketing-budzeta-oglasi-sajt-prodaja-srbija-2026',
+    title: 'Raspodela marketing budžeta u Srbiji 2026: oglasi, sajt i prodaja',
+    excerpt: 'Ako ceo budžet ode na oglase, kampanja često nema gde da konvertuje. Evo kako podeliti novac između klikova, sajta, tracking-a i prodaje.',
+    date: '2026-06-12',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Marketing budžet', 'ROI', 'Lead Generation', 'Google Ads', 'Prodaja'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Budžet ne propada samo na skupim klikovima
+
+Kada firma kaže da marketing ne radi, prva sumnja obično padne na oglase. Klik je skup, konkurencija diže cenu, agencija nije dobro podesila kampanju, algoritam se pokvario. Nekad je to stvarno problem. Ali često budžet pukne mnogo pre ili posle samog klika.
+
+Česta greška je da se sav novac gurne u medijski budžet, a ostatak sistema ostane tanak. Oglas dovede osobu na stranicu koja ne objašnjava cenu. Forma traži premalo informacija. Telefon se ne javlja dovoljno brzo. Nema evidencije šta se desilo sa upitom. Na kraju vlasnik vidi potrošen novac i zaključi da su leadovi loši.
+
+Bolje pitanje nije samo koliko treba potrošiti na oglase. Pitanje je kako podeliti budžet između privlačenja pažnje, konverzije na sajtu, merenja i prodaje. Ako jedan deo fali, ostali delovi plaćaju cenu.
+
+## Prvo odvojite novac za učenje, ne za savršene rezultate
+
+Prvi mesec kampanje retko služi za stabilan profit. Služi da se vidi šta tržište stvarno radi: koje pretrage imaju nameru, koji oglasi dovode dobre ljude, gde posetioci odustaju, šta prodaja čuje u razgovorima i koliko brzo se upiti pretvaraju u ponude.
+
+Zato je opasno planirati budžet kao da svaki dinar odmah mora da se vrati. Firma često uloži premalo, test traje kratko, podaci budu tanki, pa se donese velika odluka na osnovu premalog uzorka. To nije disciplina. To je lutrija sa lepšim izveštajem.
+
+Ako nemate okvir za početak, krenite od članka o [minimalnom budžetu za lead generation](/blog/minimalni-budzet-za-lead-generation-srbija-2026). Poenta nije da svi moraju da troše isto, nego da test mora imati dovoljno klikova i upita da kaže nešto korisno.
+
+## Jednostavna podela: media, landing, tracking, prodaja
+
+Za većinu uslužnih firmi budžet treba gledati kroz četiri kante.
+
+Prva kanta je media budget: Google Ads, Meta Ads, LinkedIn ili drugi kanal. To je novac koji kupuje pažnju i posete. Bez njega nema dovoljno signala, ali sam po sebi ne rešava prodaju.
+
+Druga kanta je landing ili sajt. Ako stranica ne objašnjava za koga je usluga, šta ulazi u ponudu, koji je raspon cene, zašto firma deluje pouzdano i šta je sledeći korak, klik se troši na nejasnoću. Tu pomažu dobra landing strana, jasni dokazi poverenja i kontakt forma koja kvalifikuje upit.
+
+Treća kanta je tracking. Mora da se zna odakle je došao poziv, forma, WhatsApp poruka ili zakazan sastanak. Bez toga kampanja uči iz pola istine. Ako je ovo slabo, pročitajte [praćenje konverzija za lead generation](/blog/pracenje-konverzija-lead-generation-srbija-2026) pre nego što povećate budžet.
+
+Četvrta kanta je prodaja. Neko mora brzo da obradi upit, postavi dobra pitanja, upiše status u CRM i dogovori sledeći korak. Ako tu nema sistema, skuplji oglasi samo brže pune rupu.
+
+## Kada previše novca ode na oglase
+
+Najčešći loš scenario izgleda ovako: firma ima 1.000 evra mesečno, od toga 900 evra ide na klikove, a 100 evra ostaje za sve ostalo. Na papiru deluje logično jer više klikova znači više šanse. U praksi, kampanja šalje ljude na slabu stranicu, upiti nisu razvrstani, a prodaja ne zna šta je kvalitetno.
+
+Tada se često desi čudan paradoks. Firma poveća budžet, a nervoza poraste. Ima više poruka, više poziva, više posla za tim, ali ne i proporcionalno više zatvorenih klijenata. Problem nije u tome što je rast loš. Problem je što sistem nije spreman da primi veći obim.
+
+Ako svaki dodatni lead pravi haos, prvo sredite obradu upita. [CRM za leadove](/blog/crm-za-leadove-evidencija-prodaja-srbija-2026) ne mora biti komplikovan. Dovoljno je da se zna izvor, status, sledeća akcija, vrednost prilike i razlog gubitka.
+
+## Kada premalo novca ode na oglase
+
+Postoji i suprotan problem. Neke firme toliko ulažu u sajt, sadržaj, alate i pripremu da kampanja nikad ne dobije dovoljno goriva. Sve izgleda uredno, ali mesečno dođe pet upita. To nije dovoljno da se testira poruka, cena, publika ili prodajni proces.
+
+Ako je usluga vredna, a marža zdrava, premali media budget može biti skuplji od malo većeg rizika. Ne zato što treba bacati novac, nego zato što bez dovoljno prometa ne možete znati da li problem leži u kanalu, ponudi, sajtu ili prodaji.
+
+Tu matematiku treba vezati za [maksimalnu cenu leada](/blog/maksimalna-cena-leada-srbija-2026), [vrednost klijenta](/blog/vrednost-klijenta-ltv-marketing-budzet-srbija-2026) i [period povrata marketing budžeta](/blog/period-povrata-marketing-budzeta-srbija-2026). Ako jedan novi klijent vredi mnogo kroz vreme, razumno je platiti više za učenje i akviziciju. Ako je vrednost mala, budžet mora biti stroži.
+
+## Praktičan okvir za raspodelu
+
+Ne postoji univerzalna tabela koja važi za svaku firmu, ali početni okvir može pomoći.
+
+Ako firma još nema dokazanu landing stranu i tracking, nemojte dati 90% novca oglasima. Bolje je odvojiti deo budžeta da stranica jasno objasni ponudu, da se postave konverzije i da prodaja zna kako da beleži upite. U suprotnom kupujete saobraćaj pre nego što imate gde da ga pretvorite u novac.
+
+Ako landing već dobro radi, tracking je sređen i prodaja brzo obrađuje upite, veći deo budžeta može ići na media spend. Tada dodatni klikovi imaju gde da slete i postoji način da se vidi koji upiti vredi plaćati.
+
+Ako je prodajni ciklus dug, deo budžeta treba da ide u follow-up: email sekvence, remarketing, sadržaj za poređenje, case study, bolju ponudu posle razgovora. Skup lead koji se vrati i zatvori za 45 dana nije isti kao lead koji nestane posle prve poruke.
+
+## Fee agencije nije isto što i budžet za rast
+
+Još jedna česta zabuna: firma kaže da ima 1.500 evra za marketing, ali u taj iznos računa i oglase, i agenciju, i landing, i copy, i tracking, i izveštavanje. Onda se svi delovi stisnu, a očekivanja ostanu velika.
+
+Agencijski fee plaća ljude, strategiju, podešavanje, optimizaciju i odgovornost. Media budget plaća distribuciju. Landing i tracking plaćaju infrastrukturu. Ako se sve tretira kao jedna gomila novca, obično pobedi najvidljiviji trošak, a to su oglasi. Ne zato što su najvažniji, nego zato što ih je najlakše razumeti.
+
+Zato stranice kao [Google reklame cena](/google-reklame-cena) i [cene digitalnog marketinga](/cene-digitalnog-marketinga) treba čitati kao okvir za ceo sistem, ne samo kao cenovnik usluge.
+
+## Kako znati da je raspodela pogrešna
+
+Raspodela budžeta nije dobra ako stalno dobijate isti kvar.
+
+Ako ima klikova, ali nema upita, problem je verovatno u nameri, ponudi ili landing strani. Ako ima upita, ali su slabi, problem može biti u keyword-ima, poruci, formi ili kvalifikaciji. Ako ima dobrih upita, ali nema prodaje, problem se seli u brzinu odgovora, razgovor, ponudu ili follow-up.
+
+Ako ima prodaje, ali nema profita, problem je u ceni, marži, trošku isporuke ili periodu povrata. Tu treba proveriti [break-even marketing budžeta](/blog/break-even-marketing-budzeta-srbija-2026) i koristiti [ROI kalkulator](/alati/roi-kalkulator) pre sledećeg povećanja ulaganja.
+
+Dobar budžet ne znači da je svaki deo savršen. Znači da nijedan deo nije toliko zapušten da uništava ostale.
+
+## Zaključak
+
+Marketing budžet nije samo novac za oglase. To je gorivo za ceo sistem koji treba da privuče pravu osobu, objasni ponudu, izmeri ponašanje i pretvori interesovanje u prodaju.
+
+Ako sav novac ode na klikove, kampanja često nema gde da konvertuje. Ako sav novac ode na pripremu, nema dovoljno tržišnog signala. Ako tracking i prodaja ostanu po strani, niko ne zna šta se stvarno dogodilo sa budžetom.
+
+Ako želite da proverimo kako da podelite budžet između oglasa, sajta, tracking-a i prodaje, javite se preko [kontakt strane](/kontakt). Napišite mesečni budžet, prosečnu vrednost klijenta, trenutni broj upita, stopu zatvaranja i gde sada najviše zapinje. Iz toga se brzo vidi da li treba više ulagati u saobraćaj, landing, merenje ili obradu leadova.
+`,
+  },
+  {
     slug: 'ponuda-posle-upita-leadovi-prodaja-srbija-2026',
     title: 'Ponuda posle upita u Srbiji 2026: zašto lead kaže javiću se i nestane',
     excerpt: 'Lead često ne nestane zato što je neozbiljan. Nestane zato što ponuda posle razgovora izgleda kao cenovnik, stiže kasno ili ne pokazuje sledeći korak.',

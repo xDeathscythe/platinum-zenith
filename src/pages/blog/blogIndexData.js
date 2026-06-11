@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "raspodela-marketing-budzeta-oglasi-sajt-prodaja-srbija-2026",
+    "title": "Raspodela marketing budžeta u Srbiji 2026: oglasi, sajt i prodaja",
+    "excerpt": "Ako ceo budžet ode na oglase, kampanja često nema gde da konvertuje. Evo kako podeliti novac između klikova, sajta, tracking-a i prodaje.",
+    "date": "2026-06-12",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "ponuda-posle-upita-leadovi-prodaja-srbija-2026",
     "title": "Ponuda posle upita u Srbiji 2026: zašto lead kaže javiću se i nestane",
     "excerpt": "Lead često ne nestane zato što je neozbiljan. Nestane zato što ponuda posle razgovora izgleda kao cenovnik, stiže kasno ili ne pokazuje sledeći korak.",
