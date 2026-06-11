@@ -1,5 +1,98 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'google-ads-za-privatne-laboratorije-cena-analize-srbija-2026',
+    title: 'Google Ads za privatne laboratorije u Srbiji 2026: cena analize i budžet',
+    excerpt: 'Privatne laboratorije ne prodaju samo analize. Prodaju brz termin, poverenje, jasnu cenu i lokaciju. Evo kako postaviti Google Ads da dovodi prave pacijente, a ne samo klikove.',
+    date: '2026-06-11',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Privatne laboratorije', 'Zdravstvo', 'Lokalni marketing', 'Lead Generation'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Pacijent traži laboratoriju kad mu treba brzo i jasno rešenje
+
+Privatna laboratorija nije usluga koju ljudi dugo razgledaju iz dosade. Neko ima uput, preporuku lekara, kontrolu posle terapije, sistematski pregled za posao ili ličnu brigu koju želi da proveri što pre. U tom trenutku Google Ads može da radi veoma dobro, ali samo ako kampanja prati način na koji pacijent stvarno pretražuje.
+
+Česta greška je da laboratorija pokrene jednu široku kampanju za "analize krvi", pošalje sve posete na početnu stranu i meri uspeh po broju klikova. Na papiru izgleda aktivno. U praksi telefon ne zvoni dovoljno, WhatsApp dobija ista pitanja po deset puta, a budžet odlazi na ljude koji nisu ni blizu odluke.
+
+Pacijent uglavnom želi pet odgovora: da li radite konkretnu analizu, koliko košta, kada može da dođe, gde se nalazite i kada dobija rezultat. Ako oglas i landing stranica to ne objasne brzo, klik se potroši na konfuziju.
+
+## Koje pretrage imaju najjaču nameru
+
+Nisu sve pretrage iste. "Privatna laboratorija Beograd" je korisna, ali široka. "D dimer cena", "hormoni štitne žlezde laboratorija", "tumor markeri cena", "bris grla privatno" ili "analiza krvi subota" nose mnogo jasniju nameru. Tu osoba već zna šta joj treba ili bar zna sledeći korak.
+
+Za privatne laboratorije obično vredi razdvojiti kampanje po nameri. Jedna grupa može biti za opšte lokalne upite, druga za najtraženije pakete analiza, treća za hitnije ili vremenski osetljive pretrage. Ako se sve stavi u istu grupu, najjeftiniji klikovi često pojedu budžet, a najvredniji upiti ne dobiju dovoljno prostora.
+
+Isto važi za gradove i opštine. Laboratorija u Novom Beogradu ne treba da plaća klikove osobe koja realno neće preći pola grada za rutinsku analizu, osim ako analiza nije specifična ili retka. Lokalna namera je deo matematike, ne samo podešavanje u Google Ads nalogu.
+
+## Landing stranica ne sme da izgleda kao brošura
+
+Mnogo medicinskih i laboratorijskih sajtova ima isti problem. Lepo nabroje usluge, ali ne pomognu čoveku da odluči. Stranica kaže da laboratorija radi biohemiju, hematologiju, hormone i mikrobiologiju, ali pacijent i dalje ne zna gde da klikne, da li mora da zakaže i koliko će čekati rezultate.
+
+Za kampanju je bolja jednostavna landing stranica sa jasnim sekcijama: popularne analize i paketi, cena ili raspon cene, vreme uzorkovanja, rok za rezultate, lokacija, parking ili javni prevoz, način zakazivanja i dokaz poverenja. Sertifikati, stručni tim i saradnja sa lekarima imaju smisla tek kada su povezani sa odlukom pacijenta.
+
+Ako stranica već ima posete, ali nema dovoljno poziva, prvo proverite [dokaze poverenja na sajtu](/blog/dokazi-poverenja-na-sajtu-konverzija-srbija-2026). U zdravstvu ljudi ne kupuju samo cenu. Kupuju osećaj da rezultat neće biti neozbiljan, da neće čekati bez potrebe i da će dobiti jasnu informaciju.
+
+## Cena analize nije jedini problem, ali mora da bude jasna
+
+Laboratorije nekad kriju cene jer se plaše poređenja. To često napravi suprotan efekat. Pacijent koji ne vidi okvirnu cenu šalje poruku samo da pita ono što je moglo da piše na stranici. Tim troši vreme, a kampanja dobija mnogo polukvalifikovanih kontakata.
+
+Ne mora svaka analiza da ima savršeno ažuriran cenovnik u oglasu. Ali najtraženije usluge treba da imaju okvir. Na primer: osnovna krvna slika, hormoni štitne žlezde, vitamin D, alergološki paneli, brisevi, prenatalni testovi ili sistematski paketi. Ako cena zavisi od paketa, objasnite od čega zavisi.
+
+To ne spušta vrednost usluge. Naprotiv, smanjuje prazne upite. Osoba koja nema budžet zna na čemu je. Osoba kojoj je važno poverenje i brzina ne mora da zove tri laboratorije samo da bi dobila osnovnu informaciju.
+
+Za planiranje šireg budžeta korisno je uporediti Google Ads trošak sa stranom [Google reklame cena](/google-reklame-cena) i okvirima na strani [cene digitalnog marketinga](/cene-digitalnog-marketinga). Laboratorija sa većom prosečnom vrednošću paketa može da izdrži drugačiji CPL od laboratorije koja promoviše samo jednu jeftinu analizu.
+
+## Kako računati dobar lead za laboratoriju
+
+Kod laboratorija nije svaki kontakt jednako vredan. Jedan pacijent pita cenu za jednu osnovnu analizu. Drugi zakazuje paket za više članova porodice. Treći dolazi zbog kontrole koja se ponavlja. Četvrti traži specijalizovanu analizu sa većom maržom.
+
+Zato kampanju ne treba ocenjivati samo po ceni poziva. Treba gledati koliko se poziva pretvori u dolazak, koja analiza je tražena, kolika je prosečna vrednost računa i da li se pacijent vraća. Tek tada [maksimalna cena leada](/blog/maksimalna-cena-leada-srbija-2026) ima smisla za laboratoriju.
+
+Česta greška je gašenje kampanje čim CPL poraste, bez provere kvaliteta. Ako skuplji upiti donose pakete od 8.000 ili 15.000 dinara, a jeftini upiti donose samo pitanja bez dolaska, jeftiniji CPL nije bolji. Samo lepše izgleda u izveštaju.
+
+## Tracking mora da prati pozive, forme i poruke
+
+Privatne laboratorije često imaju više kanala za kontakt: telefon, forma, WhatsApp, Viber, Instagram, Google Business profil. Ako se meri samo forma na sajtu, veliki deo prodaje ostaje nevidljiv. Onda Google Ads optimizuje prema nepotpunim podacima.
+
+Minimum je pratiti klik na telefon, poslatu formu, klik na mapu i klik na poruku. Još bolje je voditi jednostavnu evidenciju: izvor upita, tražena analiza, status, dolazak, vrednost računa i napomena. To može biti CRM, tabela ili lakši sistem, ali mora da postoji.
+
+Ako se tu gubi red, pogledajte [CRM za leadove](/blog/crm-za-leadove-evidencija-prodaja-srbija-2026) i [praćenje konverzija za lead generation](/blog/pracenje-konverzija-lead-generation-srbija-2026). Bez toga laboratorija često misli da kampanja ne radi, a zapravo ne vidi šta se dešava posle prvog poziva.
+
+## Šta pitati pre povećanja budžeta
+
+Pre većeg ulaganja treba proveriti nekoliko stvari.
+
+Da li znate koje analize donose najviše profita, a ne samo najviše upita? Ako ne znate, kampanja će juriti obim umesto vrednosti.
+
+Da li stranica jasno pokazuje lokaciju, radno vreme i rok za rezultate? Ako to fali, pacijent će pozvati konkurenciju koja mu brže skida brigu sa glave.
+
+Da li se pozivi javljaju brzo i pristojno? Kod zdravstvenih tema spor odgovor deluje ozbiljnije nego u običnoj kupovini. Ljudi ne žele da čekaju kada su zabrinuti.
+
+Da li oglas obećava ono što laboratorija stvarno može da isporuči? Ako piše "rezultati danas", to mora biti tačno za analize na koje se odnosi. U suprotnom kampanja pravi razočaranje pre nego što prodaja počne.
+
+## Kada Google Ads ima najviše smisla za privatnu laboratoriju
+
+Google Ads je posebno koristan kada laboratorija ima jasnu lokalnu prednost, brze rezultate, tražene pakete, rad subotom, dobru lokaciju ili specifične analize koje konkurencija ne komunicira dobro. Tada oglas može da uhvati pacijenta u trenutku potrebe.
+
+Manje ima smisla kada sajt nema cenovni okvir, ne meri pozive, nema jasan proces zakazivanja i ne zna koje usluge želi da promoviše. Tada više budžeta samo uveća postojeći haos. Prvo treba srediti ponudu, stranicu i merenje.
+
+Ako je cilj da kampanja postane stabilan kanal, povežite je sa realnim brojevima: cena klika, cena poziva, procenat dolazaka, prosečna vrednost računa, ponovne posete i bruto profit. Tek tada se vidi da li budžet treba smanjiti, preusmeriti ili povećati.
+
+## Zaključak
+
+Privatna laboratorija ne treba da plaća Google Ads samo da bi imala više poseta na sajtu. Treba da plaća pretrage ljudi koji imaju jasan razlog da dođu, razumeju cenu, veruju laboratoriji i mogu lako da zakažu ili pozovu.
+
+Najveći gubitak obično nije jedan skup klik. Veći gubitak je kampanja koja dovodi ljude na stranicu bez cene, bez rokova, bez jasne lokacije i bez merenja poziva. Tada se budžet troši, a niko ne zna da li problem nastaje u oglasu, stranici, telefonu ili samoj ponudi.
+
+Ako vodite privatnu laboratoriju i želite da proverimo koje analize vredi gurati kroz Google Ads, pošaljite poruku preko [kontakt strane](/kontakt). Napišite grad, najprofitabilnije usluge, prosečnu vrednost računa, trenutni budžet i kako sada merite pozive. Iz toga se brzo vidi da li prvo treba popravljati kampanju, landing, tracking ili način obrade upita.
+`,
+  },
+  {
     slug: 'break-even-marketing-budzeta-srbija-2026',
     title: 'Break-even marketing budžeta u Srbiji 2026: koliko prodaje treba da ne budete u minusu',
     excerpt: 'Marketing budžet nije isplativ zato što donosi upite. Isplativ je tek kada bruto profit iz zatvorenih klijenata pokrije oglase, agenciju i operativni rad.',

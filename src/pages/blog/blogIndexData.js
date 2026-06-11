@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-privatne-laboratorije-cena-analize-srbija-2026",
+    "title": "Google Ads za privatne laboratorije u Srbiji 2026: cena analize i budžet",
+    "excerpt": "Privatne laboratorije ne prodaju samo analize. Prodaju brz termin, poverenje, jasnu cenu i lokaciju. Evo kako postaviti Google Ads da dovodi prave pacijente, a ne samo klikove.",
+    "date": "2026-06-11",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "break-even-marketing-budzeta-srbija-2026",
     "title": "Break-even marketing budžeta u Srbiji 2026: koliko prodaje treba da ne budete u minusu",
     "excerpt": "Marketing budžet nije isplativ zato što donosi upite. Isplativ je tek kada bruto profit iz zatvorenih klijenata pokrije oglase, agenciju i operativni rad.",
