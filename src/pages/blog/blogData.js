@@ -1,5 +1,104 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'ponuda-posle-upita-leadovi-prodaja-srbija-2026',
+    title: 'Ponuda posle upita u Srbiji 2026: zašto lead kaže javiću se i nestane',
+    excerpt: 'Lead često ne nestane zato što je neozbiljan. Nestane zato što ponuda posle razgovora izgleda kao cenovnik, stiže kasno ili ne pokazuje sledeći korak.',
+    date: '2026-06-11',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Prodaja', 'Lead Generation', 'Ponuda', 'Follow-up', 'Konverzija'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Lead ne kupuje PDF, nego sigurnost da bira dobar sledeći korak
+
+Mnogo firmi ima isti scenario. Kampanja dovede upit, prodaja obavi razgovor, potencijalni klijent traži ponudu i onda nestane. U CRM-u ostane status "poslata ponuda". U glavi tima ostane zaključak da je lead bio neozbiljan ili da je samo skupljao cene.
+
+Nekad je to tačno. Ljudi stvarno porede, odlažu i testiraju tržište. Ali česta greška je da firma pošalje dokument koji ne pomaže osobi da odluči. Ponuda izgleda kao lista stavki i cena, bez veze sa problemom iz razgovora, bez prioriteta, bez roka i bez jasnog sledećeg koraka.
+
+Ako lead kaže "javiću se", to ne mora da znači da nema nameru. Često znači da nije dobio dovoljno razloga da nastavi sada. Tu kampanja više ne može mnogo da pomogne. Problem se seli iz marketinga u prodajni materijal.
+
+## Zašto klasična ponuda često ubije momentum
+
+Lead je najtopliji odmah posle dobrog razgovora. Tada još pamti zašto je poslao upit, šta ga nervira i šta želi da popravi. Ako ponuda stigne dva dana kasnije kao generički PDF, deo energije je već nestao.
+
+Još gore je kada ponuda ne liči na razgovor koji se upravo desio. Klijent je pričao o slabim upitima, lošem tracking-u i pritisku na prodaju, a dobije tri paketa sa nazivima Basic, Standard i Premium. Nema rečenice koja kaže: "Ovo je problem koji smo čuli, ovo prvo popravljamo, ovako merimo da li radi."
+
+Tada cena postane jedina stvar koju čovek ume da uporedi. Ako su sve ponude slične, pobedi najjeftinija ili najpoznatija opcija. Ne zato što je najbolja, nego zato što ostale nisu dovoljno jasno pokazale razliku.
+
+Ako se ovo često dešava, vredi prvo srediti [prodajni poziv za leadove](/blog/prodajni-poziv-za-leadove-srbija-2026). Ponuda ne može da popravi razgovor u kojem nisu otkriveni cilj, rok, budžet, prepreke i kriterijum odluke.
+
+## Šta ponuda mora da sadrži pre cene
+
+Cena ima smisla tek kada osoba razume za šta plaća. Zato dobra ponuda ne počinje tabelom. Počinje kratkim kontekstom.
+
+Prvo navedite šta je klijent rekao da pokušava da reši. Na primer: previše nekvalitetnih upita, slab broj zakazanih termina, kampanja koja troši budžet bez jasne evidencije, sajt koji ima posete ali malo poziva. Jedan pasus je dosta. Nema potrebe za dramom.
+
+Zatim napišite šta predlažete kao prvi prioritet. Ne deset stvari odjednom. Ako je tracking slomljen, prvo tracking. Ako landing stranica nema dokaze poverenja, prvo to. Ako prodaja ne zna šta se dešava sa leadovima, prvo evidencija i follow-up proces.
+
+Tek posle toga dolazi obim rada, cena, rok i šta klijent treba da obezbedi. Tako ponuda zvuči kao plan, a ne kao cenovnik.
+
+Za firme koje još nemaju jasnu matematiku, korisno je povezati ponudu sa [maksimalnom cenom leada](/blog/maksimalna-cena-leada-srbija-2026), [break-even tačkom marketing budžeta](/blog/break-even-marketing-budzeta-srbija-2026) i stranom [cene digitalnog marketinga](/cene-digitalnog-marketinga). Klijent lakše prihvata ulaganje kada vidi kako se odluka meri.
+
+## Jedna ponuda ne treba da pokrije sve moguće strahove
+
+Neke firme pokušaju da stave sve u ponudu: istoriju firme, ceo portfolio, sve usluge, pet garancija, proces rada, biografije tima, deset strana sitnog teksta. To izgleda ozbiljno, ali često oteža odluku.
+
+Lead ne čita ponudu kao knjigu. Čita je sa jednim pitanjem: da li ovo rešava moj problem uz prihvatljiv rizik? Ako mora da kopa kroz dokument da bi našao odgovor, dokument gubi posao koji treba da uradi.
+
+Bolji pristup je kraći dokument sa jasnim redom:
+
+1. problem koji je potvrđen u razgovoru,
+2. predloženi prvi korak,
+3. šta ulazi u uslugu,
+4. šta ne ulazi,
+5. cena i rok,
+6. kako merimo rezultat,
+7. sledeći korak.
+
+Ovo nije šablon koji se slepo kopira. Ali ako jedna od ovih stvari fali, obično nastaje rupa. Klijent ne zna šta tačno dobija, kada počinje, ko šta radi ili kako će se znati da ulaganje ima smisla.
+
+## Kako smanjiti ono javiću se
+
+Najveći problem nije što klijent kaže da će se javiti. Problem je kada firma prihvati tu rečenicu kao kraj procesa. Poslata ponuda treba da ima dogovoren sledeći korak pre nego što se razgovor završi.
+
+Na primer: "Poslaću vam predlog danas do 16h. Da li ima smisla da sutra u 11h prođemo kroz njega 15 minuta i odlučimo da li idemo dalje?" Ovo nije pritisak. To je organizacija.
+
+Ako klijent ne želi sledeći razgovor, i to je podatak. Možda nije prioritet, možda budžet nije realan, možda treba druga osoba da odluči. Bolje je znati to odmah nego čekati sedam dana i slati mlake poruke.
+
+Tu pomaže jednostavan [CRM za leadove](/blog/crm-za-leadove-evidencija-prodaja-srbija-2026). Svaka ponuda treba da ima status, datum slanja, sledeći kontakt, osobu zaduženu za follow-up i razlog zašto nije zatvorena. Bez toga se prodaja pretvori u sećanje, a sećanje je loš sistem.
+
+## Kada treba poslati jednu opciju, a kada više paketa
+
+Paketi mogu da pomognu, ali samo ako razjašnjavaju odluku. Tri paketa koja se razlikuju po broju objava, broju sati ili broju ključnih reči često samo pomere pažnju na cenu. Klijent ne zna koji paket mu treba, pa bira srednji ili odlaže odluku.
+
+Za leadove sa jasnim problemom često je bolja jedna preporučena opcija. Može imati dodatke, ali osnovna preporuka treba da bude jasna: "Za vaš slučaj predlažemo ovo, zato što prvo treba rešiti taj i taj uski grlo."
+
+Više opcija ima smisla kada svaka opcija predstavlja drugačiji tempo ili nivo rizika. Na primer: osnovni test kampanje, agresivniji plan za brži rast ili plan koji prvo sređuje tracking i landing pre većeg budžeta. Tada opcije nisu ukras. One pomažu vlasniku da izabere način rada.
+
+Ako lead dolazi sa plaćenih kampanja, povežite predlog sa realnim ulaganjima. Strana [Google reklame cena](/google-reklame-cena) može da postavi okvir za medijski budžet, a [minimalni budžet za lead generation](/blog/minimalni-budzet-za-lead-generation-srbija-2026) pomaže da se izbegne test koji je premali da bi rekao bilo šta korisno.
+
+## Šta meriti posle slanja ponude
+
+Ako firma šalje desetine ponuda mesečno, treba da zna gde one pucaju. Nije dovoljno brojati koliko je ponuda prihvaćeno. Treba gledati koliko ponuda je poslato na vreme, koliko je imalo zakazan follow-up, koliko je otvorilo razgovor o budžetu, koliko je izgubljeno zbog cene, koliko zbog roka, a koliko zbog nejasnog prioriteta.
+
+Ovo brzo pokaže pravi problem. Nekad kampanja dovodi pogrešne leadove. Nekad forma ne kvalifikuje dovoljno, pa prodaja gubi vreme. Nekad ponuda stiže kasno. Nekad tim izbegava razgovor o ceni pa klijent dobije iznenađenje u dokumentu.
+
+Ako puno ponuda propada zbog nejasnih upita, pogledajte [kontakt formu za kvalifikaciju leadova](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026). Ako puno propada posle pregleda sajta, proverite [dokaze poverenja na sajtu](/blog/dokazi-poverenja-na-sajtu-konverzija-srbija-2026). Ponuda je samo jedan deo funnel-a, ali je deo koji često nema vlasnika.
+
+## Zaključak
+
+Lead koji nestane posle ponude nije uvek loš lead. Nekad je samo dobio dokument koji nije nastavio razgovor.
+
+Dobra ponuda ne mora da bude duga. Mora da pokaže da je firma razumela problem, da predlaže prvi pametan korak, da zna kako će meriti rezultat i da postoji jasan sledeći dogovor. Kada toga nema, cena postane glavna tema, a prodaja počne da krivi kampanju.
+
+Ako želite da proverimo gde vam leadovi ispadaju posle razgovora, pošaljite poruku preko [kontakt strane](/kontakt). Napišite šta prodajete, koliko upita dobijate mesečno, koliko ponuda šaljete, koliko ih zatvarate i gde ljudi najčešće zastanu. Iz toga se brzo vidi da li problem nastaje u kampanji, razgovoru, ponudi, follow-up-u ili celom prodajnom procesu.
+`,
+  },
+  {
     slug: 'google-ads-za-privatne-laboratorije-cena-analize-srbija-2026',
     title: 'Google Ads za privatne laboratorije u Srbiji 2026: cena analize i budžet',
     excerpt: 'Privatne laboratorije ne prodaju samo analize. Prodaju brz termin, poverenje, jasnu cenu i lokaciju. Evo kako postaviti Google Ads da dovodi prave pacijente, a ne samo klikove.',

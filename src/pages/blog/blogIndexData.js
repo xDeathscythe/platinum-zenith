@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "ponuda-posle-upita-leadovi-prodaja-srbija-2026",
+    "title": "Ponuda posle upita u Srbiji 2026: zašto lead kaže javiću se i nestane",
+    "excerpt": "Lead često ne nestane zato što je neozbiljan. Nestane zato što ponuda posle razgovora izgleda kao cenovnik, stiže kasno ili ne pokazuje sledeći korak.",
+    "date": "2026-06-11",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-privatne-laboratorije-cena-analize-srbija-2026",
     "title": "Google Ads za privatne laboratorije u Srbiji 2026: cena analize i budžet",
     "excerpt": "Privatne laboratorije ne prodaju samo analize. Prodaju brz termin, poverenje, jasnu cenu i lokaciju. Evo kako postaviti Google Ads da dovodi prave pacijente, a ne samo klikove.",
