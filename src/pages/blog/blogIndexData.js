@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "hvala-strana-posle-forme-leadovi-prodaja-srbija-2026",
+    "title": "Hvala strana posle forme u Srbiji 2026: kako lead pretvoriti u zakazan razgovor",
+    "excerpt": "Lead ne treba da završi na poruci \"hvala\" i praznom ekranu. Hvala strana može da zakaže sledeći korak, smanji odustajanje i popravi prodaju.",
+    "date": "2026-06-12",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-cvecare-cena-porudzbine-srbija-2026",
     "title": "Google Ads za cvećare u Srbiji 2026: cena porudžbine, dostava i sezona",
     "excerpt": "Cvećare ne prodaju samo buket. Prodaju tačan trenutak, brzu dostavu i poverenje da će poklon stići kako treba. Evo kako Google Ads postaviti da budžet ne ode na prazne klikove.",
