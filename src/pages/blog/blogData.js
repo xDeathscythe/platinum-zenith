@@ -1,5 +1,116 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'kada-povecati-marketing-budzet-skaliranje-srbija-2026',
+    title: 'Kada povećati marketing budžet u Srbiji 2026: skaliranje bez spaljivanja profita',
+    excerpt: 'Budžet se ne povećava zato što kampanja izgleda dobro u izveštaju. Povećava se kada leadovi, prodaja, marža i kapacitet mogu da izdrže veći tempo.',
+    date: '2026-06-13',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Marketing budžet', 'ROI', 'Skaliranje', 'Lead Generation', 'Google Ads'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Veći budžet nije nagrada za dobar osećaj
+
+Jedna od skupljih grešaka u marketingu je prerano povećanje budžeta. Kampanja dobije nekoliko upita, cena po leadu izgleda pristojno, u oglasnom nalogu sve deluje zeleno i neko kaže: "Hajde da dupliramo." Posle dve nedelje telefon zvoni više, ali prodaja nije veća. Tim kasni sa odgovorima, deo leadova je slab, a vlasnik vidi samo veći račun za oglase.
+
+Druga greška je suprotna. Firma ima kampanju koja radi, ali se budžet mesecima drži na istom nivou jer se svi plaše da će veći trošak pokvariti prosek. Konkurencija pokupi deo potražnje, prodaja ostane gladna, a marketing se tretira kao račun koji treba smanjiti umesto kao sistem koji treba kontrolisano širiti.
+
+Pitanje nije da li treba povećati marketing budžet. Pitanje je kada je firma spremna da ga poveća bez spaljivanja profita, ljudi i poverenja leadova.
+
+## Prvo proverite da li je trenutni budžet stvarno stabilan
+
+Pre skaliranja treba znati da li sadašnji rezultat ima ponovljiv obrazac ili je samo dobra nedelja. Kod lead generation kampanja jedna sedmica često prevari. Dva dobra upita mogu da spuste cenu po leadu i naprave lažni utisak da je sistem spreman za veći tempo.
+
+Bolji znak je kada se nekoliko nedelja zaredom vidi sličan odnos između potrošnje, broja upita, kvaliteta upita, zakazanih razgovora i prodaja. Ne mora svaki dan da bude isti. Marketing nikad nije tako uredan. Ali treba da postoji dovoljno podataka da se ne odlučuje na osnovu slučajnosti.
+
+Ako još ne znate koliko najviše smete da platite za upit, prvo sredite [maksimalnu cenu leada](/blog/maksimalna-cena-leada-srbija-2026). Bez te granice povećanje budžeta liči na vožnju bez instrument table. Možda ide dobro, ali ne znate dok ne bude kasno.
+
+## Skaliranje traži kapacitet, ne samo klikove
+
+Česta slika u firmama je kampanja koja dovede više leadova nego što tim može normalno da obradi. Na papiru to izgleda kao uspeh. U praksi, lead čeka odgovor, prodavac zove bez pripreme, poruke se gube po inbox-u i onda se zaključi da su upiti loši.
+
+Nisu uvek upiti loši. Nekad je sistem preslab za veći obim.
+
+Pre povećanja budžeta proverite tri jednostavne stvari. Ko odgovara na upit? Koliko brzo? Gde se beleži status? Ako se to još rešava ručno, veći budžet će samo brže izbaciti probleme na površinu.
+
+Tu pomažu dva dosadna, ali bitna dela sistema: [brzina odgovora na upit](/blog/brzina-odgovora-na-upit-follow-up-prodaja-srbija-2026) i [CRM evidencija za leadove](/blog/crm-za-leadove-evidencija-prodaja-srbija-2026). Ako lead nema vlasnika i sledeću akciju, povećanje budžeta samo puni cev koja curi.
+
+## Marža odlučuje koliko rasta možete da podnesete
+
+Nije isto skalirati kampanju za uslugu sa visokom bruto maržom i kampanju za proizvod gde većina prihoda ode na nabavku, dostavu ili rad. Dve firme mogu imati istu cenu leada i potpuno različit rezultat.
+
+Zamislite firmu koja plaća 3.000 dinara po leadu. Ako iz deset leadova dobije jednog klijenta, novi klijent je košta 30.000 dinara. To može biti odlično ako klijent donosi 200.000 dinara bruto dobiti kroz nekoliko meseci. Može biti katastrofa ako jedna prodaja ostavlja 18.000 dinara prostora pre plata, alata i grešaka.
+
+Zato povećanje budžeta treba vezati za bruto dobit, ne samo za prihod. Prihod lepo izgleda u razgovoru, ali marža plaća oglase. Ako još nemate okvirnu računicu, tekst o [break-even marketing budžetu](/blog/break-even-marketing-budzeta-srbija-2026) je dobar sledeći korak.
+
+## Kada su signali dovoljno dobri za povećanje
+
+Budžet obično ima smisla povećati kada se poklope četiri stvari.
+
+Prvo, kampanja ima stabilan kvalitet upita. Ne samo više formi, nego ljudi koji razumeju šta traže, imaju realan budžet i mogu da postanu kupci.
+
+Drugo, prodaja stiže da obradi leadove dok su još topli. Ako se firma javlja sutra za upit koji je došao danas u 11, problem nije u većem budžetu. Problem je što postojeći budžet već curi.
+
+Treće, landing strana i ponuda ne zahtevaju objašnjavanje iz početka na svakom pozivu. Ako svaki lead pita "čime se tačno bavite" ili "šta ulazi u cenu", sajt ne nosi svoj deo posla. Tada prvo treba popraviti stranicu, dokaze poverenja i poruke, pa tek onda širiti oglase.
+
+Četvrto, firma zna šta će uraditi sa većim brojem dobrih upita. Ako nema slobodnih termina, robe, kapaciteta, konsultantskih sati ili operativnog plana, veći marketing može napraviti lošije iskustvo za kupce.
+
+## Ne duplirajte odmah, podižite u koracima
+
+Najbezbednije povećanje budžeta je dosadno. Umesto skoka sa 100.000 na 300.000 dinara mesečno, često je pametnije ići po 15 do 30% i gledati šta se menja. Cena po leadu može da poraste kada izađete iz najlakšeg dela potražnje. Kvalitet može da padne ako kampanja mora da traži širu publiku. Prodaja može da se zaguši iako je marketing tehnički uspešan.
+
+Korak po korak daje vam vreme da vidite gde puca sistem. Ako veći budžet dovede više dobrih leadova, nastavite. Ako dovede više loših, vratite se na kvalifikaciju. Ako dovede dobre leadove koje tim ne stiže da obradi, problem je u procesu prodaje, ne u Meta ili Google nalogu.
+
+Za Google Ads posebno, prvo proverite da li imate dovoljno čistu strukturu kampanja, negativne ključne reči, conversion tracking i stranicu koja odgovara nameri pretrage. Ako to nije sređeno, stranica o [ceni Google reklama](/google-reklame-cena) može pomoći da razdvojite trošak klika od stvarnog troška kupca.
+
+## Ne povećavajte budžet ako ne merite prodaju
+
+Mnogo firmi meri formu, poziv ili WhatsApp klik, ali ne meri šta se posle stvarno prodalo. To je bolje od ničega, ali nije dovoljno za ozbiljno povećanje budžeta. Kampanja može donositi jeftine leadove koji nikad ne kupe. Može donositi skuplje leadove koji vrede tri puta više. Ako se sve završi na broju upita, budžet se povećava naslepo.
+
+Minimum za odluku je jednostavan: izvor lead-a, status, vrednost ponude, da li je prodato, koliko je naplaćeno i koliko je vremena prošlo do prodaje. To ne mora biti savršen CRM projekat. Može početi kao uredna tabela, dok god neko zaista unosi podatke.
+
+Ako trenutno vidite samo klikove i upite, prvo popravite [praćenje konverzija za lead generation](/blog/pracenje-konverzija-lead-generation-srbija-2026). Bez toga će veći budžet samo dati veći izveštaj, ne bolju odluku.
+
+## Kada povećanje budžeta ima smisla iako ROI kasni
+
+Neke kampanje ne vraćaju novac odmah. B2B usluge, skuplji projekti, privatne škole, medicinske usluge i kompleksne konsultacije često imaju duži prodajni ciklus. Ako gledate samo isti mesec, dobar marketing može delovati slabije nego što jeste.
+
+Tu je bitan period povrata. Firma može podneti veći budžet ako zna da se novac vraća za 30, 60 ili 90 dana i ako cash flow to može da izdrži. Problem nastaje kada se povećanje radi zato što "će se valjda vratiti". To nije strategija. To je nada sa većim računom.
+
+Ako prodaja kasni, pročitajte i tekst o [periodu povrata marketing budžeta](/blog/period-povrata-marketing-budzeta-srbija-2026). Nekad kampanja radi, ali firma nema dovoljno novca ili strpljenja da sačeka realan ciklus odluke.
+
+## Kako izgleda dobar plan povećanja
+
+Dobar plan ne počinje pitanjem "koliko još da potrošimo". Počinje pitanjem šta želimo da dobijemo i šta sme da se pokvari pre nego što stanemo.
+
+Na primer: povećavamo budžet za 25% naredne tri nedelje. Pratimo cenu kvalifikovanog leada, broj zakazanih razgovora, prodaju, bruto dobit, brzinu odgovora i opterećenje tima. Ako cena kvalifikovanog leada ode iznad dogovorene granice dve nedelje zaredom, vraćamo budžet i popravljamo kampanju. Ako leadovi ostanu dobri, a prodaja ih stiže, idemo još jedan korak.
+
+Ovakav plan nije glamurozan. Ali sprečava najčešći scenario: firma poveća potrošnju, vidi haos, uspaniči se i ugasi kampanju baš kada je trebalo popraviti jedan konkretan deo sistema.
+
+Ako želite širu sliku, povežite ovo sa [raspodelom marketing budžeta](/blog/raspodela-marketing-budzeta-oglasi-sajt-prodaja-srbija-2026). Nekad nije poenta da se sav dodatni novac doda na oglase. Deo treba da ode na landing stranu, praćenje, prodaju ili bolju ponudu.
+
+## Gde ulaze cene agencije i upravljanje kampanjama
+
+Veći budžet često otvori pitanje da li se isplati angažovati agenciju ili pojačati postojeći tim. Tu ne treba gledati samo mesečni fee. Treba gledati šta se menja u odluci, brzini testiranja, kvalitetu tracking-a, kvalitetu landing strana i disciplini oko izveštaja.
+
+Jeftino upravljanje kampanjama može biti skupo ako niko ne vidi da prodaja ne zatvara leadove. Skuplja usluga može biti dobra ako spreči pogrešno skaliranje i na vreme pokaže gde curi profit. Naravno, može biti i obrnuto. Zato se cena usluge ne gleda izolovano, nego kroz rezultat koji sistem može da ponovi.
+
+Za okvir troškova pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga). Ako računate isplativost za svoj slučaj, otvorite i [ROI kalkulator](/alati/roi-kalkulator) pre nego što povećate mesečni budžet.
+
+## Zaključak
+
+Marketing budžet treba povećati kada firma ima dokaz da sadašnji sistem može da primi veći obim: leadovi su dovoljno kvalitetni, prodaja ih obrađuje brzo, marža podnosi cenu kupca, a tracking pokazuje šta se stvarno prodalo.
+
+Ako toga nema, veći budžet neće rešiti problem. Samo će ga učiniti glasnijim.
+
+Ako želite da proverimo da li je vaš marketing spreman za skaliranje, javite se preko [kontakt strane](/kontakt). Pošaljite trenutni mesečni budžet, cenu po leadu, procenat zakazanih razgovora, okvirnu maržu i koliko brzo odgovarate na upite. Iz toga se brzo vidi da li prvo treba povećati budžet, popraviti prodaju, srediti tracking ili promeniti ponudu.
+`,
+  },
+  {
     slug: 'hvala-strana-posle-forme-leadovi-prodaja-srbija-2026',
     title: 'Hvala strana posle forme u Srbiji 2026: kako lead pretvoriti u zakazan razgovor',
     excerpt: 'Lead ne treba da završi na poruci "hvala" i praznom ekranu. Hvala strana može da zakaže sledeći korak, smanji odustajanje i popravi prodaju.',

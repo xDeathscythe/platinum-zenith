@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "kada-povecati-marketing-budzet-skaliranje-srbija-2026",
+    "title": "Kada povećati marketing budžet u Srbiji 2026: skaliranje bez spaljivanja profita",
+    "excerpt": "Budžet se ne povećava zato što kampanja izgleda dobro u izveštaju. Povećava se kada leadovi, prodaja, marža i kapacitet mogu da izdrže veći tempo.",
+    "date": "2026-06-13",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "hvala-strana-posle-forme-leadovi-prodaja-srbija-2026",
     "title": "Hvala strana posle forme u Srbiji 2026: kako lead pretvoriti u zakazan razgovor",
     "excerpt": "Lead ne treba da završi na poruci \"hvala\" i praznom ekranu. Hvala strana može da zakaže sledeći korak, smanji odustajanje i popravi prodaju.",
