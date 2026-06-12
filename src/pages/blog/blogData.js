@@ -1,5 +1,92 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'google-ads-za-cvecare-cena-porudzbine-srbija-2026',
+    title: 'Google Ads za cvećare u Srbiji 2026: cena porudžbine, dostava i sezona',
+    excerpt: 'Cvećare ne prodaju samo buket. Prodaju tačan trenutak, brzu dostavu i poverenje da će poklon stići kako treba. Evo kako Google Ads postaviti da budžet ne ode na prazne klikove.',
+    date: '2026-06-12',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Cvećare', 'Lokalni marketing', 'E-commerce', 'Sezona'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Kupac cveća obično nema mnogo vremena
+
+Cvećara ima specifičnu prednost u oglašavanju: ljudi često traže rešenje kada im stvarno treba. Rođendan je danas. Godišnjica je sutra. Firma šalje aranžman partneru. Neko je zaboravio važan datum i sada želi da poklon stigne brzo, lepo i bez neprijatnosti.
+
+Zato Google Ads može da radi veoma dobro za cvećare, ali samo ako kampanja prati stvarnu nameru kupca. Česta greška je da se pokrene široka kampanja za "cvećara" ili "buketi", sve posete pošalju na početnu stranu i onda se meri samo broj klikova. Klikovi izgledaju živo u izveštaju, a porudžbine ne prate tempo.
+
+Kupac u tom trenutku ne želi da čita istoriju radnje. Želi da zna da li može da poruči danas, gde se dostavlja, koliko košta buket, kako plaća i da li će aranžman izgledati pristojno kada stigne. Ako te informacije ne vidi brzo, ode na sledeći rezultat.
+
+## Najjača namera je u pretragama sa dostavom i prilikom
+
+Za cvećare nisu sve pretrage jednako vredne. "Cvećara Beograd" može doneti dobar promet, ali je široko. "Dostava cveća Novi Sad danas", "buket ruža cena", "cveće za godišnjicu", "korpa sa cvećem dostava" ili "cvećara blizu mene" obično nose jasniju nameru.
+
+Tu se vidi šta osoba pokušava da uradi. Nekome treba lokacija. Nekome treba hitna dostava. Nekome treba ideja za poklon. Nekome treba aranžman u određenom cenovnom rangu. Ako sve te upite tretirate isto, budžet će često otići na najjeftinije klikove, ne na najbliže kupce.
+
+Bolje je odvojiti kampanje ili oglasne grupe po nameri: lokalna kupovina u radnji, dostava istog dana, pokloni za prilike, svadbeni i poslovni aranžmani. Tako se tekst oglasa i landing strana mogu prilagoditi odluci koju kupac već nosi u glavi.
+
+## Landing strana mora da proda mir, ne samo lep buket
+
+Mnogo cvećara ima lep Instagram, ali slab sajt za kupovinu. Slike su dobre, ali ne zna se da li je buket dostupan, kolika je dostava, do kada se prima porudžbina za isti dan, da li postoji kartično plaćanje, šta se dešava ako primalac nije na adresi i koliko aranžman stvarno liči na fotografiju.
+
+Za kampanju je bolja jednostavna strana koja odmah odgovara na praktična pitanja. Najprodavaniji buketi, raspon cene, zona dostave, rokovi, način plaćanja, telefon ili WhatsApp, slike stvarnih aranžmana i jasna dugmad za poručivanje. To nije komplikovan dizajn. To je uklanjanje nervoze iz kupovine.
+
+Ako već imate posete, ali ljudi ne poručuju, prvo proverite [dokaze poverenja na sajtu](/blog/dokazi-poverenja-na-sajtu-konverzija-srbija-2026). Kod poklona kupac plaća i za sigurnost da neće ispasti nepažljiv pred osobom kojoj šalje cveće.
+
+## Cena porudžbine zavisi od prilike, ne samo od klika
+
+Cvećara može imati vrlo različite vrednosti porudžbine. Jedan kupac uzme mali buket za 2.000 dinara. Drugi naruči veliki aranžman, poklon paket i dostavu. Treći dođe preko oglasa za Dan žena, pa se kasnije vrati za rođendan, slavu ili poslovne poklone.
+
+Zato kampanju ne treba gasiti samo zato što je cena klika porasla u sezoni. Pitanje je koliko košta porudžbina, kolika je prosečna vrednost korpe i koliko se kupaca vraća. Tek tada ima smisla računati [maksimalnu cenu leada ili porudžbine](/blog/maksimalna-cena-leada-srbija-2026).
+
+Ako cvećara prodaje i dekoracije za događaje, svadbe ili poslovne aranžmane, jedan dobar upit može vredeti mnogo više od standardne online porudžbine. U tom slučaju oglasi ne treba da jure samo najjeftiniju kupovinu, nego i kvalitetne upite koji počinju razgovor.
+
+## Sezona može pojesti budžet ako se ne planira unapred
+
+Cvećare imaju dane kada potražnja eksplodira: Dan žena, Dan zaljubljenih, slave, mature, početak školske godine, praznici, venčanja i lokalni događaji. Tada klikovi često postanu skuplji, konkurencija agresivnija, a kupci nestrpljiviji.
+
+Česta greška je da se kampanja pojača tek kada sezona već krene. Tada nema dovoljno vremena da se testiraju oglasi, poruke, ključne reči i stranice. Budžet se troši u najskupljem trenutku, a sajt još nema jasnu ponudu za tu priliku.
+
+Bolji pristup je pripremiti posebne strane ili sekcije za glavne datume: buketi za Dan žena, ruže za Dan zaljubljenih, poslovni aranžmani, dekoracija za venčanja, dostava istog dana. Svaka strana treba da ima jasan izbor proizvoda, rok za poručivanje i način kontakta.
+
+## Lokalno targetiranje mora pratiti realnu dostavu
+
+Google Ads za cvećaru ne sme da obećava više nego što operativa može da isporuči. Ako radnja realno dostavlja u nekoliko opština, kampanja ne treba da hvata ceo grad samo zato što broj pretraga izgleda veći. Širi radius često donese više pitanja, ali slabiju profitabilnost.
+
+Dobro je razdvojiti lokacije po prioritetu. Prva zona je najbliža i najprofitabilnija: tu su troškovi dostave manji, brzina veća i kupci lakše svrate u radnju. Druga zona može imati viši minimum porudžbine ili drugačiju poruku. Treća zona možda uopšte ne treba da bude u oglasima, osim za veće porudžbine.
+
+Ako se ovo ne postavi jasno, prodaja počne da odbija upite ili da ručno objašnjava uslove dostave. To je znak da oglas dovodi ljude kojima stranica nije rekla dovoljno.
+
+## Tracking mora da razlikuje poziv, poruku i kupovinu
+
+Cvećare često primaju porudžbine kroz više kanala: sajt, telefon, Instagram, WhatsApp, Viber, Google Business profil i direktan dolazak u radnju. Ako se meri samo kupovina preko sajta, deo kampanje izgleda slabije nego što jeste. Ako se ne meri ništa osim klikova, budžet se vodi na slepo.
+
+Minimum je pratiti klik na telefon, klik na WhatsApp ili Viber, poslatu formu, online porudžbinu i klik na mapu. Još bolje je upisivati izvor porudžbine, vrednost, zonu dostave i tip aranžmana. To može biti obična tabela dok obim nije veliki.
+
+Ako se tim gubi između poruka i poziva, pogledajte [praćenje konverzija za lead generation](/blog/pracenje-konverzija-lead-generation-srbija-2026) i [CRM za leadove](/blog/crm-za-leadove-evidencija-prodaja-srbija-2026). Cvećari ne treba komplikovan sistem, ali treba da zna koji kanal donosi porudžbine koje se isplate.
+
+## Koliki budžet ima smisla za cvećaru
+
+Budžet zavisi od grada, konkurencije, sezone, vrednosti porudžbine i kapaciteta za dostavu. Mala lokalna cvećara može početi sa skromnijim testom za najbliže opštine i najprofitabilnije pretrage. Cvećara sa online poručivanjem, brzom dostavom i većom prosečnom korpom može da ide agresivnije.
+
+Najgori scenario je budžet koji je dovoljno velik da se potroši, a premali da donese poučne podatke. Još gori je budžet koji dovede porudžbine, ali operativa ne može da ih obradi. Tada marketing izgleda kriv, a problem je zapravo u kapacitetu, rokovima i evidenciji.
+
+Za okvir troškova pogledajte [Google reklame cena](/google-reklame-cena), [cene digitalnog marketinga](/cene-digitalnog-marketinga) i tekst o [raspodeli marketing budžeta](/blog/raspodela-marketing-budzeta-oglasi-sajt-prodaja-srbija-2026). Cvećara ne plaća samo klik. Plaća sistem koji treba da pretvori hitnu nameru u porudžbinu bez haosa.
+
+## Zaključak
+
+Google Ads za cvećare radi kada kampanja prati stvarnu kupovinu: priliku, rok, lokaciju, budžet i sigurnost dostave. Ako oglas obeća brzinu, a strana ne objasni uslove, kupac odlazi. Ako kampanja dovede porudžbine koje radnja ne može da isporuči, rast se pretvara u stres.
+
+Najbolje kampanje za cvećare obično nisu najšire. One hvataju konkretne namere, vode na jasne strane, mere porudžbine i prilagođavaju budžet sezoni. Tada se vidi koji klikovi stvarno donose novac, a koji samo pune statistiku.
+
+Ako želite da proverimo kako bi Google Ads izgledao za vašu cvećaru, pošaljite poruku preko [kontakt strane](/kontakt). Napišite grad, zonu dostave, prosečnu vrednost porudžbine, najvažnije sezone i kanale kroz koje sada primate porudžbine. Iz toga se brzo vidi da li prvo treba srediti kampanju, sajt, tracking ili proces dostave.
+`,
+  },
+  {
     slug: 'raspodela-marketing-budzeta-oglasi-sajt-prodaja-srbija-2026',
     title: 'Raspodela marketing budžeta u Srbiji 2026: oglasi, sajt i prodaja',
     excerpt: 'Ako ceo budžet ode na oglase, kampanja često nema gde da konvertuje. Evo kako podeliti novac između klikova, sajta, tracking-a i prodaje.',

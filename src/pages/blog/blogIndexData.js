@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-cvecare-cena-porudzbine-srbija-2026",
+    "title": "Google Ads za cvećare u Srbiji 2026: cena porudžbine, dostava i sezona",
+    "excerpt": "Cvećare ne prodaju samo buket. Prodaju tačan trenutak, brzu dostavu i poverenje da će poklon stići kako treba. Evo kako Google Ads postaviti da budžet ne ode na prazne klikove.",
+    "date": "2026-06-12",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "raspodela-marketing-budzeta-oglasi-sajt-prodaja-srbija-2026",
     "title": "Raspodela marketing budžeta u Srbiji 2026: oglasi, sajt i prodaja",
     "excerpt": "Ako ceo budžet ode na oglase, kampanja često nema gde da konvertuje. Evo kako podeliti novac između klikova, sajta, tracking-a i prodaje.",
