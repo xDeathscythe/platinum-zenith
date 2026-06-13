@@ -1,5 +1,100 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'google-ads-za-servise-telefona-cena-popravke-srbija-2026',
+    title: 'Google Ads za servise telefona u Srbiji 2026: cena popravke, poziva i budžet',
+    excerpt: 'Servis telefona ne prodaje klik, nego brz odgovor, jasnu cenu i poverenje da će uređaj biti vraćen ispravan. Evo kako Google Ads sprečava prazne pozive.',
+    date: '2026-06-13',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Servis telefona', 'Lokalni marketing', 'Cena popravke', 'Lead Generation'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Pokvaren telefon je hitan problem, ali ne za svakoga isto
+
+Servisi telefona imaju jednu dobru stvar u marketingu: kada nekome pukne ekran, crkne baterija ili telefon upadne u vodu, potraga kreće odmah. To nije kupovina koja se mesecima razmatra. Osoba hoće da zna ko može da popravi uređaj, koliko otprilike košta, koliko traje i da li sme da ostavi telefon kod vas.
+
+Tu Google Ads može da radi vrlo dobro. Ali samo ako kampanja prati stvarnu nameru. Česta greška je da se puste široke ključne reči tipa "servis telefona" za ceo grad, sve posete odu na početnu stranu, a vlasnik posle gleda broj klikova kao da je to prodaja. Klikovi mogu delovati živahno, dok telefon u radnji ne zvoni dovoljno.
+
+Kupac ne traži lep oglas. Traži odgovor. Ako ga ne dobije brzo, prelazi na sledeći servis.
+
+## Nisu sve pretrage iste vrednosti
+
+Pretraga "servis telefona Beograd" može biti korisna, ali je široka. Neko samo istražuje, neko traži lokaciju, neko proverava cenu, a neko ima telefon koji mora da popravi danas. Mnogo jaču nameru često nose upiti kao "zamena ekrana iPhone 13 cena", "zamena baterije Samsung", "telefon upao u vodu servis", "popravka konektora punjenja" ili "servis telefona blizu mene".
+
+Ako se sve te pretrage stave u istu kampanju i pošalju na istu stranicu, budžet se razvodni. Dobijete pozive za modele koje ne radite, popravke koje se ne isplate, ljude koji pitaju samo "koliko najjeftinije" i upite iz delova grada gde niko neće doći do radnje.
+
+Zato Google Ads za servis telefona treba graditi oko kvarova, modela, lokacije i namere. Kampanja za zamenu ekrana nije ista kao kampanja za otkup polovnih telefona. Kampanja za iPhone nije ista kao kampanja za starije Android modele. Sve to utiče na cenu klika, cenu poziva i realnu šansu da se popravka proda.
+
+Ako tek postavljate okvir, vredi prvo razumeti [kako se formira cena Google reklama](/google-reklame-cena) i zašto cena klika sama po sebi ne govori dovoljno.
+
+## Najskuplji klik je onaj koji se javi na pogrešno obećanje
+
+Kod servisa telefona se često vidi ista greška: oglas obeća "brzo i povoljno", a stranica ne kaže ništa konkretno. Nema okvirne cene, nema liste modela, nema radnog vremena, nema garancije, nema jasnog broja za poziv. Osoba klikne, pogleda nekoliko sekundi i ode.
+
+Još gore je kada oglas dovede do poziva, ali prodaja nije spremna. Radnik pita koji je model, ali nema cenu. Kaže "donesite pa ćemo videti", a konkurencija u istom trenutku kaže okvir, rok i garanciju. Tu se lead ne gubi zbog Google-a. Gubi se zbog nejasnog procesa.
+
+Dobra kampanja ne mora da obeća najnižu cenu. Mora da smanji sumnju. Kupac hoće da zna da li je popravka moguća, da li se koriste pristojni delovi, koliko okvirno traje, da li postoji garancija i da li telefon može da preuzme istog dana. Ako to ne vidi, cena po kliku postaje manje bitna jer se klik ne pretvara u posao.
+
+## Landing strana treba da odgovori pre poziva
+
+Servis telefona ne mora imati komplikovan sajt. Ali stranica na koju šaljete oglase mora odraditi osnovni posao.
+
+Za početak, treba jasno da kaže koje kvarove radite: zamena ekrana, baterija, konektor punjenja, kamera, zvučnik, softver, dijagnostika, oštećenje vodom. Zatim treba navesti brendove i modele za koje stvarno imate delove ili iskustvo. Ako radite iPhone, Samsung, Xiaomi i Huawei, to treba da se vidi bez kopanja.
+
+Okvirne cene su osetljiva tema, ali potpuna tišina često pravi lošije leadove. Ne morate pisati cenu za svaki model ako se često menja. Možete dati raspon, primer ili poziv na proveru: "Pošaljite model i kvar, vraćamo okvirnu cenu pre dolaska." To je bolje od stranice koja traži da osoba odmah zove bez ikakvog konteksta.
+
+Tu pomaže i [kontakt forma koja kvalifikuje leadove](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026). Za servis telefona forma ne treba da bude duga. Dovoljno je ime, telefon, model uređaja, kvar i izbor: poziv ili WhatsApp. Sve preko toga često smanjuje broj upita.
+
+## Pozivi, WhatsApp i mapa moraju da se mere
+
+Mnogi servisi gledaju samo klikove i potrošnju. To je premalo. Kod ove niše dosta konverzija dolazi kroz poziv, WhatsApp, klik na mapu ili direktan dolazak posle pretrage. Ako se to ne meri, kampanja može izgledati slabije ili bolje nego što jeste.
+
+Minimalno treba pratiti pozive iz oglasa, klikove na broj telefona, WhatsApp klikove, slanje forme i klik na mapu. Još bolje je u evidenciji upisati šta se desilo posle kontakta: koji kvar, koji model, da li je telefon donet, da li je popravka urađena, kolika je naplata i kolika je okvirna marža.
+
+Bez toga vlasnik često donese pogrešan zaključak. Jedna kampanja donosi jeftine pozive za popravke od 2.000 dinara. Druga donosi skuplje pozive za popravke od 18.000 dinara. Ako gledate samo cenu po pozivu, prva izgleda bolje. Ako gledate zaradu, druga možda plaća ceo nalog.
+
+Za ovaj deo obavezno sredite [praćenje konverzija za lead generation](/blog/pracenje-konverzija-lead-generation-srbija-2026). Bez merenja posle poziva, Google Ads za servis telefona brzo postane nagađanje.
+
+## Koliko budžeta ima smisla za servis telefona
+
+Budžet zavisi od grada, konkurencije, modela koje radite i vrednosti popravke. Servis u centru Beograda nema isti pritisak kao servis u manjem mestu. Popravka ekrana na skupljem telefonu nema istu matematiku kao zamena zaštitnog stakla.
+
+Za početni test obično ima smisla odvojiti dovoljno novca da dobijete bar nekoliko desetina kvalitetnih klikova i dovoljan broj poziva po grupi kvarova. Ako je budžet toliko mali da kampanja dobije dva klika dnevno, učenje će trajati dugo i svaka slučajnost će izgledati kao trend.
+
+Važnije pitanje je koliko najviše smete da platite za poziv koji može postati popravka. Ako prosečna urađena popravka donosi 6.000 dinara bruto prostora, ne možete računati isto kao servis koji iz jednog dobrog lead-a dobija 25.000 dinara. Pre nego što povećate potrošnju, izračunajte [maksimalnu cenu leada](/blog/maksimalna-cena-leada-srbija-2026) za svoje najčešće popravke.
+
+Ako vam treba širi okvir, tekst o [minimalnom budžetu za lead generation](/blog/minimalni-budzet-za-lead-generation-srbija-2026) pomaže da ne pokrenete test koji je unapred premali da pokaže istinu.
+
+## Kada Google Ads nije prvi potez
+
+Nekad oglašavanje nije problem broj jedan. Ako servis ima loše ocene, neodgovorene recenzije, nejasno radno vreme, spor odgovor na poruke ili sajt koji se jedva otvara na telefonu, prvo treba srediti te stvari. Oglasi će samo brže dovesti ljude do istog lošeg utiska.
+
+Za servis telefona Google Business profil je posebno bitan. Ljudi gledaju blizinu, ocene, fotografije, radno vreme i komentare pre nego što pozovu. Ako profil deluje zapušteno, oglas mora da radi mnogo teži posao.
+
+Isto važi za brzinu odgovora. Kupac sa pokvarenim telefonom često kontaktira tri servisa u deset minuta. Ko prvi da jasan odgovor, ima prednost. Ako se pozivi propuštaju ili WhatsApp stoji satima, pogledajte [brzinu odgovora na upit](/blog/brzina-odgovora-na-upit-follow-up-prodaja-srbija-2026) pre nego što krivite cenu klika.
+
+## Kako izgleda dobar test kampanje
+
+Dobar test za servis telefona ne počinje sa dvadeset nasumičnih ključnih reči. Počinje sa nekoliko najisplativijih popravki i jasnim pitanjem: koliko nas košta kontakt koji može da postane plaćena popravka?
+
+Na primer, možete odvojiti kampanje za zamenu ekrana, zamenu baterije i konektor punjenja. Svaka kampanja vodi na deo stranice koji govori baš o toj popravci. Oglasi pominju grad ili deo grada, okvir brzine, garanciju i najlakši način kontakta. Negativne ključne reči izbacuju besplatne tutorijale, polovne delove, oglase za posao i upite za modele koje ne radite.
+
+Posle dve do četiri nedelje gledate šta se desilo. Ne samo klikove. Gledate pozive, WhatsApp poruke, donete uređaje, urađene popravke, prosečnu naplatu, maržu i propuštene kontakte. Ako imate mnogo poziva, ali malo donetih telefona, možda je cena previsoka, lokacija nezgodna ili odgovor prespor. Ako imate malo poziva, problem može biti namera, oglas ili stranica.
+
+Tek tada ima smisla povećavati budžet. Ako sistem radi, rastite postepeno. Ako ne radi, prvo popravite mesto gde lead curi.
+
+## Zaključak
+
+Google Ads za servis telefona ima smisla kada kampanja dovodi ljude sa konkretnim kvarom, stranica im brzo daje osnovne odgovore, a tim meri šta se posle poziva stvarno desilo. Bez toga se lako plaćaju klikovi koji nikad ne postanu popravke.
+
+Ako želite da proverimo koliko bi Google Ads imao smisla za vaš servis, javite se preko [kontakt strane](/kontakt). Pošaljite grad, najisplativije popravke, prosečnu naplatu, koliko poziva trenutno dobijate i da li pratite WhatsApp/formu/pozive. Iz toga se brzo vidi da li prvo treba srediti kampanje, landing stranu, tracking ili sam proces odgovora.
+`,
+  },
+  {
     slug: 'kada-povecati-marketing-budzet-skaliranje-srbija-2026',
     title: 'Kada povećati marketing budžet u Srbiji 2026: skaliranje bez spaljivanja profita',
     excerpt: 'Budžet se ne povećava zato što kampanja izgleda dobro u izveštaju. Povećava se kada leadovi, prodaja, marža i kapacitet mogu da izdrže veći tempo.',

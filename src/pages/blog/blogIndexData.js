@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-servise-telefona-cena-popravke-srbija-2026",
+    "title": "Google Ads za servise telefona u Srbiji 2026: cena popravke, poziva i budžet",
+    "excerpt": "Servis telefona ne prodaje klik, nego brz odgovor, jasnu cenu i poverenje da će uređaj biti vraćen ispravan. Evo kako Google Ads sprečava prazne pozive.",
+    "date": "2026-06-13",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "kada-povecati-marketing-budzet-skaliranje-srbija-2026",
     "title": "Kada povećati marketing budžet u Srbiji 2026: skaliranje bez spaljivanja profita",
     "excerpt": "Budžet se ne povećava zato što kampanja izgleda dobro u izveštaju. Povećava se kada leadovi, prodaja, marža i kapacitet mogu da izdrže veći tempo.",
