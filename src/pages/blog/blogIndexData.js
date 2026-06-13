@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "garancija-rezultata-marketing-agencija-budzet-srbija-2026",
+    "title": "Garancija rezultata u marketingu u Srbiji 2026: sigurnost ili mamac za budžet",
+    "excerpt": "Garancija rezultata zvuči sigurno, ali često krije pogrešnu metriku. Evo kada ima smisla, kada je mamac i šta pitati pre budžeta.",
+    "date": "2026-06-14",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "cene-na-sajtu-usluge-kvalitet-leadova-srbija-2026",
     "title": "Cene na sajtu za usluge u Srbiji 2026: kako smanjiti loše leadove",
     "excerpt": "Sakrivena cena često ne pravi više upita, nego više loših razgovora. Evo kada na sajtu dati raspon, početnu cenu ili jasan okvir budžeta.",

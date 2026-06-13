@@ -1,5 +1,94 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'garancija-rezultata-marketing-agencija-budzet-srbija-2026',
+    title: 'Garancija rezultata u marketingu u Srbiji 2026: sigurnost ili mamac za budžet',
+    excerpt: 'Garancija rezultata zvuči sigurno, ali često krije pogrešnu metriku. Evo kada ima smisla, kada je mamac i šta pitati pre budžeta.',
+    date: '2026-06-14',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Garancija rezultata', 'Marketing budžet', 'ROI', 'Agencija', 'Lead Generation'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Garancija rezultata zvuči lepo dok ne pitate šta se garantuje
+
+Kada firma bira agenciju ili planira veći marketing budžet, rečenica "garantujemo rezultate" deluje kao olakšanje. Vlasnik ne želi još jedan mesečni račun, još jedan izveštaj i još jedno objašnjenje da "treba vremena". Hoće sigurnost da će novac doneti upite, prodaju ili bar nešto merljivo.
+
+Problem je što se garancija često lepi na pogrešnu stvar. Neko garantuje broj klikova. Neko broj prikaza. Neko "aktivnost" na društvenim mrežama. Neko obeća leadove, ali ne kaže kakav lead, za koju uslugu, u kom roku i po kojoj ceni. Na papiru zvuči bezbedno. U prodaji se brzo vidi rupa.
+
+Nije svaka garancija loša. Loša je ona koja pomera rizik sa stvarnog poslovnog rezultata na metriku koju je lako napumpati.
+
+## Šta ozbiljna firma zapravo pokušava da smanji
+
+Većina vlasnika ne traži magiju. Traži manji rizik. Ako mesečno ulaže 1.000, 3.000 ili 10.000 evra u marketing, želi da zna šta može očekivati i gde je granica na kojoj eksperiment postaje preskup.
+
+Tu pomažu jasni brojevi. Koliko vredi jedan novi klijent? Kolika je bruto marža? Koliko leadova prodaja realno može da obradi? Koliko najviše smete da platite za upit pre nego što matematika pukne? Ako taj deo nije izračunat, garancija lako postane zamena za razmišljanje.
+
+Pre svake priče o sigurnosti, korisno je postaviti okvir kroz [maksimalnu cenu leada](/blog/maksimalna-cena-leada-srbija-2026), [break-even marketing budžeta](/blog/break-even-marketing-budzeta-srbija-2026) i [period povrata ulaganja](/blog/period-povrata-marketing-budzeta-srbija-2026). Tada pitanje više nije "da li neko obećava rezultat", nego da li je rezultat dovoljan da posao ima smisla.
+
+## Garancija klikova nije garancija prodaje
+
+Česta greška je da se sigurnost meri na vrhu levka. Agencija kaže da će dovesti određeni broj klikova, poseta ili impresija. To može biti tačno, ali firma ne plaća marketing zato što voli saobraćaj. Plaća ga zato što želi više dobrih razgovora i više prodaje.
+
+Klikovi se mogu kupiti širokim ključnim rečima, slabijom publikom ili porukom koja privlači radoznale ljude umesto kupaca. Forma se može napuniti upitima koji pitaju samo "koliko košta", a nemaju budžet, rok ni ozbiljnu nameru. Izveštaj izgleda pun. Prodaja ostaje prazna.
+
+Zato garancija mora da siđe niže. Nije dovoljno pitati koliko klikova dobijamo. Treba pitati koliko kvalifikovanih upita očekujemo, kako se meri kvalitet, ko zove lead, koliko brzo se odgovara i šta se dešava ako upiti ne odgovaraju dogovorenom profilu.
+
+Ako kampanja ide kroz Google, počnite od realnog okvira za [cenu Google reklama](/google-reklame-cena). Ako pričate o širem angažmanu, uporedite obećanje sa stvarnim [cenama digitalnog marketinga](/cene-digitalnog-marketinga), ne sa najlepšom rečenicom iz ponude.
+
+## Kada garancija može imati smisla
+
+Garancija može biti korisna kada je uska, merljiva i vezana za deo posla koji agencija stvarno kontroliše. Na primer: postavljanje tracking-a, isporuka landing strane, broj testiranih oglasa, rok za lansiranje kampanje, minimalan nivo izveštavanja, ispravka greške bez dodatne naplate ili dogovoreni proces optimizacije ako cena leada pređe prag.
+
+Može imati smisla i kod lead generation kampanja ako su uslovi jasni. Firma i agencija tada zajedno definišu šta je kvalifikovan lead: usluga, lokacija, budžet, rok, kontakt podaci, način odgovora i razlog zašto se lead odbija. Bez toga, svaka strana može tvrditi da je u pravu.
+
+Jedna strana kaže: "Doveli smo 40 leadova." Druga kaže: "Nijedan nije bio dobar." Ako pre kampanje nije dogovoreno šta znači "dobar", rasprava je već ugrađena u sistem.
+
+Tu pomažu [kontakt forme koje kvalifikuju upite](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026) i normalan CRM proces. Garancija bez evidencije posle forme je skoro uvek mutna.
+
+## Kada je garancija mamac
+
+Budite oprezni kada se garantuje "prvo mesto na Google-u", "siguran ROI", "duplo više prodaje" ili "leadovi bez rizika", a niko ne pita za maržu, kapacitet, prodajni proces, cenu usluge i postojeće podatke. To nije samopouzdanje. To je prodajni trik.
+
+Marketing ne živi sam. Ako sajt ne objašnjava ponudu, ako se pozivi propuštaju, ako prodaja šalje ponudu tri dana kasnije ili ako usluga nema dovoljno dobru maržu, kampanja ne može sama da popravi ceo posao. Može dovesti više ljudi do istog problema.
+
+Još jedan loš znak je garancija koja ima sitna slova važnija od obećanja. Na primer: garantuje se broj leadova, ali se računa svaka poruka bez obzira na kvalitet. Garantuje se SEO rast, ali ne za ključne reči koje donose kupce. Garantuje se povraćaj, ali samo ako firma prihvati dodatne troškove koji nisu bili u početnom budžetu.
+
+Garancija treba da smanji neizvesnost. Ako je posle čitanja ponude nejasnije šta se dešava kada rezultat izostane, to nije dobra garancija.
+
+## Šta pitati pre nego što prihvatite ponudu
+
+Prvo pitanje: šta tačno ulazi u rezultat? Ako je rezultat lead, tražite definiciju lead-a. Ako je rezultat prodaja, tražite objašnjenje šta agencija kontroliše, a šta kontroliše vaš prodajni tim. Ako je rezultat rast saobraćaja, pitajte za koje stranice i sa kojom namerom.
+
+Drugo pitanje: koji je prag za uspeh? Nije isto dobiti 30 upita za uslugu od 50 evra i 10 upita za uslugu od 2.000 evra. Nije isto dobiti jeftin lead i profitabilan lead. Ako se budžet planira bez marže i vrednosti klijenta, procena će biti površna.
+
+Treće pitanje: šta se radi ako brojke ne valjaju posle prvog testa? Ozbiljan partner neće samo reći "algoritam uči". Reći će koje delove proverava: publiku, ključne reči, poruku, landing stranu, cenu, dokaz poverenja, tracking i brzinu odgovora.
+
+Ako upoređujete agenciju i interni tim, tu pomaže tekst o [in-house marketingu ili agenciji](/blog/in-house-marketing-ili-agencija-cena-budzet-srbija-2026). Garancija ne znači mnogo ako je model saradnje pogrešan za fazu firme.
+
+## Bolji dogovor od prazne garancije
+
+Za većinu firmi bolji dogovor nije veliko obećanje. Bolji dogovor je jasan test.
+
+Na primer: definiše se ponuda, idealan lead, maksimalna cena po kvalifikovanom upitu, minimalan budžet za učenje, rok od nekoliko nedelja, obavezno [praćenje konverzija](/blog/pracenje-konverzija-lead-generation-srbija-2026), vlasnik za follow-up i način na koji se leadovi ocenjuju. Posle toga se zna šta gledamo.
+
+Ako rezultat prođe prag, budžet se povećava kontrolisano. Ako ne prođe, ne traži se krivac po osećaju. Popravlja se deo koji curi: oglas, stranica, forma, ponuda, cena, prodaja ili segment publike.
+
+To nije dramatično kao "garantujemo uspeh". Ali je poštenije i mnogo korisnije za firmu koja mora da čuva keš.
+
+## Šta Platinum Zenith može da garantuje
+
+Ne bi bilo fer obećati prodaju koju ne kontrolišemo od prvog do poslednjeg koraka. Prodaja zavisi od ponude, cene, tržišta, brzine odgovora, reputacije, tima i kapaciteta. Ko tvrdi drugačije, najčešće prodaje miran osećaj, ne sistem.
+
+Ono što ima smisla garantovati je proces: jasnu dijagnostiku, realan budžetski okvir, merenje, konkretne hipoteze, landing ili kampanju koja ima poslovnu logiku, redovan pregled leadova i iskrenu odluku kada nešto ne treba nastaviti.
+
+Ako želite da proverimo da li je vaša trenutna ponuda realna, pošaljite sajt, mesečni budžet, prosečnu vrednost klijenta, maržu, broj upita i šta vam je neko već obećao. Javite se preko [kontakt strane](/kontakt). Brzo se vidi da li vam treba jača kampanja, bolja landing strana, sređen tracking, drugačija ponuda ili samo manje magle u ugovoru.
+`,
+  },
+  {
     slug: 'cene-na-sajtu-usluge-kvalitet-leadova-srbija-2026',
     title: 'Cene na sajtu za usluge u Srbiji 2026: kako smanjiti loše leadove',
     excerpt: 'Sakrivena cena često ne pravi više upita, nego više loših razgovora. Evo kada na sajtu dati raspon, početnu cenu ili jasan okvir budžeta.',
