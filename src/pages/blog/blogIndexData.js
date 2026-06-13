@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "cene-na-sajtu-usluge-kvalitet-leadova-srbija-2026",
+    "title": "Cene na sajtu za usluge u Srbiji 2026: kako smanjiti loše leadove",
+    "excerpt": "Sakrivena cena često ne pravi više upita, nego više loših razgovora. Evo kada na sajtu dati raspon, početnu cenu ili jasan okvir budžeta.",
+    "date": "2026-06-13",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-servise-telefona-cena-popravke-srbija-2026",
     "title": "Google Ads za servise telefona u Srbiji 2026: cena popravke, poziva i budžet",
     "excerpt": "Servis telefona ne prodaje klik, nego brz odgovor, jasnu cenu i poverenje da će uređaj biti vraćen ispravan. Evo kako Google Ads sprečava prazne pozive.",

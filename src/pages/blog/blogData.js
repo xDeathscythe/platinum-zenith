@@ -1,5 +1,108 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'cene-na-sajtu-usluge-kvalitet-leadova-srbija-2026',
+    title: 'Cene na sajtu za usluge u Srbiji 2026: kako smanjiti loše leadove',
+    excerpt: 'Sakrivena cena često ne pravi više upita, nego više loših razgovora. Evo kada na sajtu dati raspon, početnu cenu ili jasan okvir budžeta.',
+    date: '2026-06-13',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Cene na sajtu', 'Kvalitet leadova', 'Konverzija', 'Prodaja', 'Lead Generation'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Sakrivena cena ne čuva uvek prodaju
+
+Mnogo uslužnih firmi sklanja cenu sa sajta iz jednog razloga: plaše se da će posetilac otići čim vidi broj. Ideja zvuči logično. Prvo neka pošalje upit, pa će prodaja objasniti vrednost, kontekst i razliku u odnosu na jeftinije opcije.
+
+U praksi se često desi nešto drugo. Forma se puni ljudima koji nemaju budžet, prodaja ponavlja isti razgovor deset puta, a ozbiljni kupci odlaze jer ne mogu da procene da li ste im uopšte u rangu. Vlasnik zatim pogleda kampanju i kaže da su leadovi loši.
+
+Nisu uvek leadovi loši. Nekad je sajt namerno ostavio previše praznog prostora.
+
+Cena ne mora da bude cenovnik od dvadeset stavki. Ali ako posetilac ne zna da li usluga košta 200, 2.000 ili 20.000 evra, deo pogrešnih ljudi će se javiti, a deo pravih neće.
+
+## Kada cena na sajtu pomaže konverziji
+
+Cena pomaže kada skraćuje put do odluke. To posebno važi za usluge gde kupac već zna da ima problem, ali ne zna kakav budžet treba da spremi: izrada sajta, Google Ads, SEO, dizajn landing strane, održavanje WordPress sajta, konsultantski rad, B2B usluge, edukacije, medicinske i lokalne usluge.
+
+Ako osoba traži okvir, potpuna tišina često deluje sumnjivo. Ne zato što svaki kupac želi najnižu cenu, nego zato što ljudi ne vole razgovor u kome ne znaju osnovna pravila. Kada sajt kaže od čega cena zavisi, prodaja dobija mirniji početak.
+
+Na primer, stranica za uslugu može jasno reći: mali projekti obično kreću od određenog raspona, ozbiljniji projekti traže dodatnu strategiju, a tačna ponuda zavisi od obima, roka i materijala koje klijent već ima. To ne ubija prodaju. To izbacuje deo razgovora koji nikada nije trebalo da uđe u pipeline.
+
+Ako želite širi okvir za marketing usluge, pogledajte kako su objašnjene [cene digitalnog marketinga](/cene-digitalnog-marketinga) i [cena Google reklama](/google-reklame-cena). Dobar cenovni okvir ne prodaje samo broj. Prodaje način razmišljanja.
+
+## Kada tačna cena može da napravi štetu
+
+Postoje situacije gde jedna fiksna cena na sajtu može pogrešno da postavi očekivanje. Ako usluga zavisi od obima posla, stanja postojećeg sistema, konkurencije, rokova ili odgovornosti koju preuzimate, previše precizan broj može napraviti problem.
+
+Česta greška je da firma objavi najnižu moguću cenu da ne uplaši tržište. Posle toga dolaze upiti koji očekuju baš taj iznos, iako njihov slučaj traži tri puta više rada. Prodaja tada kreće iz defanzive: objašnjava zašto nije tako jeftino, umesto da vodi razgovor o problemu.
+
+Bolje je napisati raspon ili početnu cenu uz jasne uslove. Na primer: "Landing strana za jednu kampanju obično kreće od X, a cena raste ako su potrebni tekstovi, dizajn sistema, dodatne sekcije, integracije ili A/B testiranje." To je iskrenije od jednog lepog broja koji kasnije mora da se brani.
+
+Isto važi za kompleksne B2B usluge. Ako je prodajni ciklus duži, cena treba da otvori razgovor, ne da ga zaključa. Tekst o [periodu povrata marketing budžeta](/blog/period-povrata-marketing-budzeta-srbija-2026) dobro pokazuje zašto skuplje odluke često ne mogu da se gledaju samo kroz prvi račun.
+
+## Tri načina da prikažete cenu bez jeftinog utiska
+
+Prvi način je početna cena. Ona radi kada postoji jasan minimum ispod kog projekat nema smisla. "Od 600 evra" je korisno ako stvarno ne radite manje projekte. Nije korisno ako većina klijenata završi na 2.500 evra, jer tada početna cena izgleda kao mamac.
+
+Drugi način je raspon. On je često najbolji za usluge sa više nivoa. Na primer: osnovna landing strana 700 do 1.200 evra, kampanja sa tracking-om i pisanjem ponude 1.500 do 3.000 evra, ozbiljniji funnel po dogovoru. Raspon daje orijentir, ali ostavlja prostor za kontekst.
+
+Treći način je budžetski prag. To je direktna poruka za kupce koji treba da znaju da li uopšte ima smisla da se jave. "Najbolje radimo sa firmama koje mesečno ulažu bar X u oglase i prodaju uslugu sa dovoljno marže." Ovakva rečenica neće povećati broj upita. Ali može povećati procenat upita koji imaju šansu da se zatvore.
+
+Za lead generation, broj upita nije jedina metrika. Ako forma donese manje kontakata, ali prodaja troši manje vremena na pogrešne razgovore, sistem može biti zdraviji. Tu se cena na sajtu povezuje sa [maksimalnom cenom leada](/blog/maksimalna-cena-leada-srbija-2026), jer loš lead nije jeftin ako pojede sat vremena prodaje.
+
+## Cena mora da stoji pored vrednosti, ne sama
+
+Najgore mesto za cenu je tabela bez konteksta. Posetilac vidi broj, ali ne vidi šta ulazi u uslugu, za koga je paket, šta nije uključeno, koji rezultat se očekuje i šta se dešava posle kupovine. Tada se firma sama pretvori u robu.
+
+Dobra stranica ne krije cenu, ali je ne baca pred čoveka bez objašnjenja. Prvo pokaže problem koji rešavate. Zatim pokaže šta radite drugačije. Onda objasni šta ulazi u uslugu, koje odluke klijent mora da donese, koliko traje proces i kakve rezultate ima smisla očekivati. Tek onda cena ima smisla.
+
+Ako sajt nema dokaze, broj deluje hladno. Zato cenovni okvir treba da stoji blizu primera rada, rezultata, recenzija, procesa ili jasnog objašnjenja šta klijent dobija. Tekst o [dokazima poverenja na sajtu](/blog/dokazi-poverenja-na-sajtu-konverzija-srbija-2026) je dobar par za ovu temu. Cena bez poverenja deluje skupo. Ista cena uz dokaz može delovati razumno.
+
+## Kako cena filtrira upite bez agresivnog odbijanja
+
+Cena na sajtu ne treba da zvuči kao čuvar na vratima. Nije poenta da poručite "nemojte nam se javljati ako nemate novac". Poenta je da ljudi sami procene gde se nalaze.
+
+Za srpsko tržište često dobro radi mekši okvir. "Najčešći projekti su u rasponu od X do Y." "Ako ste na početku, krenite od manjeg testa." "Ako već trošite budžet na oglase, prvo proveravamo tracking, landing stranu i prodajni proces." Takve rečenice daju smer bez ponižavanja kupca.
+
+Isto možete uraditi kroz formu. Umesto da pitate samo ime i telefon, dodajte jedno normalno pitanje o okvirnom budžetu ili fazi u kojoj se firma nalazi. Ne kao test inteligencije. Kao pomoć da razgovor bude konkretniji. Ako ovaj deo još nije sređen, vredi pročitati tekst o [kontakt formi za kvalifikaciju leadova](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026).
+
+## Šta se menja u prodaji kada cena postoji
+
+Prodaja dobija bolji početak. Umesto prvih deset minuta objašnjavanja da usluga nije "samo malo reklame", razgovor može odmah da pređe na problem, rok, očekivanja i novac koji se vraća kroz posao.
+
+Lead koji se javi posle čitanja cenovnog okvira često već zna da najjeftinija opcija nije cilj. Možda još uvek pregovara. Možda ima pogrešnu računicu. Ali razgovor počinje bliže realnosti.
+
+Druga korist je bolja analiza kampanja. Ako Google Ads šalje ljude na stranicu sa jasnim rasponom, a oni se i dalje javljaju, veća je šansa da imaju bar osnovni budžet. Ako se niko ne javlja, možda je poruka loša, dokaz slab, publika pogrešna ili cena stvarno nije usklađena sa tržištem. To je korisniji signal nego gomila upita koji pitaju samo "koliko košta".
+
+Kada posle upita šaljete ponudu, cena na sajtu pomaže i tu. Lead nije prvi put video broj u PDF-u. Već je imao mentalni okvir. Zato tekst o [ponudi posle upita](/blog/ponuda-posle-upita-leadovi-prodaja-srbija-2026) ima više smisla kada stranica pre toga nije potpuno ćutala o novcu.
+
+## Kako testirati bez velikog redizajna
+
+Ne morate odmah praviti novu stranicu. Dovoljno je dodati jednu sekciju na postojeću uslugu i pratiti šta se menja četiri nedelje.
+
+Test može biti jednostavan. Dodajte raspon cene, objasnite od čega zavisi, povežite ga sa dokazom poverenja i ubacite pitanje o budžetu u formu. Zatim pratite broj upita, procenat kvalifikovanih upita, zakazane razgovore, prodaje i vreme koje prodaja troši po lead-u.
+
+Ako broj upita padne, ali prodaja zatvori isti ili veći prihod uz manje praznih razgovora, promena radi. Ako padne sve, problem može biti u načinu na koji je cena objašnjena. Ako broj upita poraste, ali kvalitet padne, cena je možda previše niska ili previše nejasna.
+
+Ovo nije odluka za osećaj. Treba je vezati za tracking i prodaju. Ako još ne vidite šta se dešava posle forme, prvo sredite [praćenje konverzija za lead generation](/blog/pracenje-konverzija-lead-generation-srbija-2026).
+
+## Šta bih prvo stavio na stranicu usluge
+
+Za većinu uslužnih firmi počeo bih sa jednom kratkom cenovnom sekcijom, ne sa ogromnom tabelom.
+
+Napišite kome je usluga namenjena, kada nema smisla, koji raspon je najčešći, šta utiče na cenu i šta je sledeći korak. Ako imate više nivoa, nazovite ih po problemu, ne po ukrasnim nazivima paketa. "Test kampanje", "rast postojeće kampanje" i "kompletan funnel" govore više od bronze, silver i gold.
+
+Dodajte rečenicu koja uklanja pritisak: "Ako niste sigurni u budžet, pošaljite trenutnu situaciju, pa ćemo reći da li je pametnije prvo sređivati sajt, kampanju, tracking ili prodaju." To je mnogo bolje od praznog CTA dugmeta koje samo kaže "pošaljite upit".
+
+Cena na sajtu nije čarobni trik za više konverzija. Ona je filter. Ako je napišete pošteno, smanjiće šum i pomoći ozbiljnim ljudima da brže odluče da li ima smisla da pričate.
+
+Ako želite da proverimo kako cenu, ponudu i formu treba postaviti za vašu uslugu, javite se preko [kontakt strane](/kontakt). Pošaljite link ka sajtu, šta prodajete, prosečnu vrednost klijenta, trenutni broj upita i najčešće pitanje koje čujete u prodaji. Iz toga se brzo vidi da li treba prikazati početnu cenu, raspon, budžetski prag ili potpuno drugačiju ponudu.
+`,
+  },
+  {
     slug: 'google-ads-za-servise-telefona-cena-popravke-srbija-2026',
     title: 'Google Ads za servise telefona u Srbiji 2026: cena popravke, poziva i budžet',
     excerpt: 'Servis telefona ne prodaje klik, nego brz odgovor, jasnu cenu i poverenje da će uređaj biti vraćen ispravan. Evo kako Google Ads sprečava prazne pozive.',
