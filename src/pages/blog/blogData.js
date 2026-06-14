@@ -1,5 +1,100 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'google-ads-za-firme-za-ciscenje-cena-upita-srbija-2026',
+    title: 'Google Ads za firme za čišćenje u Srbiji 2026: cena upita i budžet',
+    excerpt: 'Google Ads za firme za čišćenje radi samo kada razdvojite stanove, kancelarije i hitne upite. Evo kako planirati budžet i cenu lead-a.',
+    date: '2026-06-14',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Firme za čišćenje', 'Lead Generation', 'Lokalni marketing', 'Marketing budžet'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Čišćenje nije jedna usluga za jednu kampanju
+
+Firma za čišćenje može da dobije dobre upite iz Google Ads-a, ali samo ako kampanja ne tretira sve pretrage isto. "Čišćenje stana posle renoviranja", "čišćenje kancelarija Beograd", "dubinsko pranje nameštaja" i "održavanje zgrade" nisu isti kupci. Imaju različit rok, cenu, maržu i način odlučivanja.
+
+Česta greška je da se sve ubaci u jednu kampanju sa širokim ključnim rečima. Oglasi počnu da dovode pozive, ali pola ljudi pita za uslugu koju firma ne radi, druga polovina traži cenu bez kvadrature, a prodaja posle nekoliko dana zaključi da su Google leadovi slabi.
+
+Nisu uvek slabi. Nekad kampanja nije razdvojila posao koji vredi od posla koji samo pravi buku.
+
+Ako tek planirate oglašavanje, krenite od realnog okvira za [cenu Google reklama](/google-reklame-cena). Za čišćenje je posebno važno da budžet ne pojede sitne upite koje tim ne može profitabilno da obradi.
+
+## Prvo razdvojite tip posla
+
+Najveća razlika je između jednokratnog i redovnog čišćenja. Jednokratno čišćenje stana, lokala ili prostora posle radova često ima hitniji intent. Kupac traži nekoga sada, upoređuje nekoliko opcija i brzo odlučuje ako vidi cenu, termin i poverenje.
+
+Redovno čišćenje kancelarija, zgrada, lokala ili ordinacija ima drugačiju matematiku. Tu jedan lead može vredeti mnogo više, jer ugovor traje mesecima. Ali takav kupac sporije odlučuje. Treba mu procena prostora, uslovi rada, smene, odgovornost, račun, oprema i jasna komunikacija.
+
+Ako obe grupe vode na istu landing stranu, poruka postaje mlaka. Za stanove treba brzo objasniti dolazak, okvirnu cenu i šta ulazi u čišćenje. Za kancelarije treba pokazati proces, pouzdanost, ugovor i način kontrole kvaliteta.
+
+## Cena upita zavisi od marže, ne od želje
+
+Nema univerzalne dobre cene lead-a za firme za čišćenje. Upit za čišćenje garsonjere ne sme da košta kao upit za mesečno održavanje poslovnog prostora. Ako kampanja meri samo cenu po formi ili pozivu, lako se desi da najjeftiniji leadovi izgledaju najbolje, a stvarno donose najmanje novca.
+
+Bolji pristup je da za svaku uslugu znate prosečan račun, bruto maržu i šansu da se lead zatvori. Tek tada možete izračunati [maksimalnu cenu leada](/blog/maksimalna-cena-leada-srbija-2026). Za neke poslove ima smisla platiti skuplji upit. Za neke nema, čak i ako telefon zvoni ceo dan.
+
+Primer: firma koja dobija redovan ugovor za kancelarijsko čišćenje može podneti višu cenu upita ako ugovor traje šest ili dvanaest meseci. Ista firma ne treba da plaća isti iznos za jednokratno malo čišćenje ako ekipa već gubi vreme na dolazak, parking i organizaciju.
+
+## Landing strana mora da filtrira upite
+
+Mnogo kampanja za čišćenje šalje ljude na početnu stranu sajta. Tamo posetilac vidi opštu priču, nekoliko usluga i kontakt telefon. To može proći kada je konkurencija slaba. U većem gradu obično nije dovoljno.
+
+Landing strana treba odmah da odgovori na pitanja koja kupac već ima: koje prostore čistite, u kojim gradovima ili opštinama radite, da li donosite opremu, koliko brzo možete izaći na teren, da li radite posle renoviranja, da li radite pravna lica i kako se dobija procena cene.
+
+Cena ne mora da bude fiksna za svaki slučaj. Ali prazan sajt koji krije svaki okvir obično pravi loše razgovore. Ako su upiti puni ljudi koji očekuju najnižu moguću cenu, vredi pročitati tekst o [cenama na sajtu i kvalitetu leadova](/blog/cene-na-sajtu-usluge-kvalitet-leadova-srbija-2026). Nekad jedan normalan raspon uštedi deset beskorisnih poziva.
+
+## Forma treba da pita ono što prodaja ionako pita
+
+Za čišćenje nije dovoljno ime, telefon i poruka. Prodaja skoro uvek mora da zna lokaciju, tip prostora, kvadraturu, rok, da li je prostor prazan, da li je posle renoviranja, koliko često se traži usluga i da li je u pitanju fizičko ili pravno lice.
+
+Ako forma ne pita ništa od toga, tim sve saznaje ručno. To nije problem kada ima pet upita mesečno. Postaje problem kada kampanja počne da radi, a prodaja troši sate na ljude koji nisu u zoni rada ili traže uslugu za koju ekipa nema kapacitet.
+
+Bolja forma ne mora da bude hladna. Može da kaže: "Da bismo vam dali realniju procenu, napišite tip prostora, kvadraturu i kada vam treba čišćenje." To je kvalifikacija bez arogancije. Ako želite širi okvir, pogledajte kako se pravi [kontakt forma koja kvalifikuje leadove](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026).
+
+## Pozivi, WhatsApp i forma moraju da se mere odvojeno
+
+Kod lokalnih usluga veliki deo prodaje ne dolazi kroz urednu formu. Ljudi zovu, šalju WhatsApp poruku, kliknu na mapu ili se vrate kasnije. Ako se meri samo forma, kampanja može izgledati slabije nego što jeste. Ako se meri svaki klik na telefon kao lead, može izgledati bolje nego što jeste.
+
+Treba odvojiti prave pozive od slučajnih klikova. Treba znati koji oglas je doveo upit za redovno čišćenje, a koji oglas je doveo osobu koja traži najjeftinije pranje jednog tepiha. Bez toga se budžet pomera po osećaju.
+
+Minimum je [praćenje konverzija](/blog/pracenje-konverzija-lead-generation-srbija-2026) za forme, pozive, WhatsApp i važne klikove. Još bolje je da se leadovi označe u evidenciji: dobar, loš, van zone, preskup, zakazano, prodato. Tada kampanja uči iz stvarnog posla, ne iz lepog grafikona.
+
+## Brzina odgovora često odluči posao
+
+Kupac koji traži čišćenje posle renoviranja često zove više firmi u istom satu. Ako se ne javite ili odgovorite sutra, budžet je možda već potrošen kod konkurencije. Isto važi za kancelarije, samo je ritam malo sporiji. Prvi odgovor i dalje postavlja ton.
+
+Česta greška je da se kampanja pusti, a niko ne promeni način obrade upita. Telefon zvoni dok je ekipa na terenu. WhatsApp poruke čekaju. Forma ode u inbox koji neko pogleda uveče. Posle toga se krivi oglas.
+
+Ako plaćate klikove, morate imati dogovor ko odgovara, u kom roku i šta pita u prvom kontaktu. Tekst o [brzini odgovora na upit](/blog/brzina-odgovora-na-upit-follow-up-prodaja-srbija-2026) je ovde direktno primenljiv. Kod čišćenja, brzina nije lep dodatak. To je deo ponude.
+
+## Koliki budžet ima smisla za test
+
+Za mali lokalni test nije potrebno odmah trošiti ogroman iznos, ali premali budžet napravi drugi problem. Kampanja ne skupi dovoljno podataka, nekoliko pogrešnih klikova pokvari sliku i firma donese zaključak na osnovu slučajnosti.
+
+Budžet treba vezati za broj usluga koje testirate. Ako istovremeno gurate čišćenje stanova, poslovnih prostora, dubinsko pranje i čišćenje posle radova, treba vam dovoljno novca da svaka grupa dobije šansu. Ako je budžet tanak, bolje je krenuti sa jednom najprofitabilnijom uslugom i jednim gradom ili delom grada.
+
+Za širi okvir troškova pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga). Oglasni budžet je samo jedan deo. Treba uračunati landing stranu, tracking, tekstove, optimizaciju i vreme osobe koja obrađuje upite.
+
+## Kada Google Ads nije prvi potez
+
+Google Ads nije lek za firmu koja nema jasnu uslugu, ne zna koje poslove želi, nema slike rada, nema osnovni cenovni okvir i ne može brzo da odgovori. U toj situaciji oglasi samo brže pokažu rupe.
+
+Bolji redosled je jednostavan: izaberite uslugu sa dobrom maržom, sredite landing stranu, napišite šta ulazi u čišćenje, postavite formu i pozive, dogovorite follow-up i tek onda pustite kampanju. Ne mora biti savršeno. Mora biti dovoljno jasno da znate šta se popravlja posle prvih upita.
+
+Ako već imate kampanju, ali upiti nisu dobri, nemojte odmah povećavati budžet. Prvo proverite ključne reči, lokacije, oglase, landing stranu, cenu, formu i način odgovora. Najskuplja greška je dodati novac na sistem koji već curi.
+
+## Kako Platinum Zenith može da pomogne
+
+Za firme za čišćenje najviše smisla ima praktičan sistem: posebne kampanje po tipu usluge, landing strana koja objašnjava cenu i rok, tracking za pozive i poruke, forma koja skuplja bitne podatke i mesečni pregled kvaliteta leadova.
+
+Ako želite da proverimo da li Google Ads ima smisla za vašu firmu za čišćenje, pošaljite lokaciju, usluge, prosečnu cenu posla, najprofitabilniji tip klijenta, trenutni sajt i okvirni mesečni budžet. Javite se preko [kontakt strane](/kontakt). Brzo se vidi da li prvo treba kampanja, bolja stranica, jasniji cenovni okvir ili sređen proces za obradu upita.
+`,
+  },
+  {
     slug: 'garancija-rezultata-marketing-agencija-budzet-srbija-2026',
     title: 'Garancija rezultata u marketingu u Srbiji 2026: sigurnost ili mamac za budžet',
     excerpt: 'Garancija rezultata zvuči sigurno, ali često krije pogrešnu metriku. Evo kada ima smisla, kada je mamac i šta pitati pre budžeta.',

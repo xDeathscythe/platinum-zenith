@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-firme-za-ciscenje-cena-upita-srbija-2026",
+    "title": "Google Ads za firme za čišćenje u Srbiji 2026: cena upita i budžet",
+    "excerpt": "Google Ads za firme za čišćenje radi samo kada razdvojite stanove, kancelarije i hitne upite. Evo kako planirati budžet i cenu lead-a.",
+    "date": "2026-06-14",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "garancija-rezultata-marketing-agencija-budzet-srbija-2026",
     "title": "Garancija rezultata u marketingu u Srbiji 2026: sigurnost ili mamac za budžet",
     "excerpt": "Garancija rezultata zvuči sigurno, ali često krije pogrešnu metriku. Evo kada ima smisla, kada je mamac i šta pitati pre budžeta.",
