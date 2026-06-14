@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "prvi-ekran-sajta-konverzija-upiti-srbija-2026",
+    "title": "Prvi ekran sajta u Srbiji 2026: zašto posete ne šalju upite",
+    "excerpt": "Prvi ekran sajta odlučuje da li posetilac razume ponudu ili ode. Evo šta mora da piše da bi kampanja dobila više dobrih upita.",
+    "date": "2026-06-14",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-firme-za-ciscenje-cena-upita-srbija-2026",
     "title": "Google Ads za firme za čišćenje u Srbiji 2026: cena upita i budžet",
     "excerpt": "Google Ads za firme za čišćenje radi samo kada razdvojite stanove, kancelarije i hitne upite. Evo kako planirati budžet i cenu lead-a.",

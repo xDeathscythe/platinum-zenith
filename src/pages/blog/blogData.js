@@ -1,5 +1,96 @@
 ﻿const rawBlogPosts = [
   {
+    slug: 'prvi-ekran-sajta-konverzija-upiti-srbija-2026',
+    title: 'Prvi ekran sajta u Srbiji 2026: zašto posete ne šalju upite',
+    excerpt: 'Prvi ekran sajta odlučuje da li posetilac razume ponudu ili ode. Evo šta mora da piše da bi kampanja dobila više dobrih upita.',
+    date: '2026-06-14',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Konverzija sajta', 'Landing stranica', 'Lead Generation', 'CRO', 'Prodaja'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Prvi ekran nije ukras nego odluka
+
+Kada kampanja dovede čoveka na sajt, prvi ekran ima vrlo malo vremena. Posetilac ne čita pažljivo od početka. Prvo proverava da li je na pravom mestu, da li firma radi ono što njemu treba i da li vredi nastaviti.
+
+Česta greška je da prvi ekran izgleda lepo, ali ne kaže dovoljno. Velika slika, opšta rečenica tipa "rešenja za vaš biznis", dugme "saznaj više" i nekoliko animacija. Dizajn deluje moderno. Prodaja posle kaže da sajt ima posete, ali nema upite.
+
+Problem nije uvek u kampanji. Nekad oglas dovede dobru osobu, a prvi ekran joj ne da razlog da ostane.
+
+Ako plaćate klikove, prvi ekran mora da radi kao filter i prodavac. Ne treba da objasni celu firmu. Treba da odgovori na najbitnija pitanja pre nego što posetilac počne da skroluje. Za širi okvir oko stranica za kampanje, pogledajte tekst o [izradi landing stranice i ceni](/blog/izrada-landing-stranice-cena).
+
+## Šta posetilac mora da razume za pet sekundi
+
+Dobar prvi ekran ne mora biti kreativan po svaku cenu. Mora biti jasan. Posetilac treba brzo da razume četiri stvari: šta nudite, za koga je ponuda, koji problem rešavate i šta treba da uradi sledeće.
+
+Ako firma radi sve za svakoga, prvi ekran obično postane mutan. "Digitalna rešenja za rast" može značiti sajt, reklame, SEO, automatizaciju, konsalting ili ništa konkretno. Vlasnik male firme koji je kliknuo reklamu za više upita ne želi da dešifruje agencijski rečnik. Želi da vidi da neko razume njegov problem.
+
+Bolja poruka je konkretnija: "Google Ads i landing stranice za firme koje žele više kvalifikovanih upita, ne samo više klikova." Nije savršeno za svaku firmu. Baš zato radi bolje. Govori kome je namenjeno i šta se meri.
+
+## Loš prvi ekran pravi pogrešna pitanja
+
+Kada prvi ekran ne objasni ponudu, prodaja dobija mnogo istih pitanja. "Čime se tačno bavite?" "Koliko košta?" "Da li radite i ovo?" "Možete li da pošaljete cenovnik?" Deo tih pitanja je normalan. Ali ako se ponavljaju iz svakog lead-a, sajt ne radi svoj deo posla.
+
+Neke firme tada zaključe da su leadovi loši. Nekad jesu. Ali često su samo nedovoljno pripremljeni. Posetilac nije video raspon usluge, kome je namenjena, šta ulazi, šta ne ulazi i kako izgleda sledeći korak. Onda prodaja mora sve da objašnjava ručno.
+
+Zato prvi ekran treba da smanji nejasnoću pre forme. Ako je cena važan filter, ubacite okvir ili početnu cenu. Ako radite samo određeni tip klijenata, recite to. Ako je usluga premium, nemojte je sakriti iza generičke rečenice. O tome smo detaljnije pisali u tekstu o [cenama na sajtu i kvalitetu leadova](/blog/cene-na-sajtu-usluge-kvalitet-leadova-srbija-2026).
+
+## Jedna stranica treba da ima jedan glavni posao
+
+Još jedna česta greška je prvi ekran koji pokušava da proda pet stvari odjednom. Tu su reklame, SEO, sajtovi, brending, društvene mreže, konsalting i dugme za kontakt. Posetilac koji je došao zbog jedne potrebe dobije meni, ne smer.
+
+Za kampanje je bolji uži fokus. Ako oglas priča o Google Ads-u, prvi ekran treba da nastavi tu priču. Ako oglas nudi izradu landing strane, prvi ekran ne treba prvo da priča o istoriji firme. Ako ciljate firme koje imaju posete bez upita, glavni naslov treba da govori o konverziji, ne o kompletnom katalogu usluga.
+
+To ne znači da ostatak sajta ne sme da predstavi druge usluge. Znači da prvi ekran ne sme da razvodni nameru. Jedna glavna poruka, jedan glavni CTA i nekoliko pomoćnih signala su dovoljni za početak.
+
+Ako već ulažete u kampanje, uporedite ovu logiku sa realnim troškovima kroz [cenu Google reklama](/google-reklame-cena) i [cene digitalnog marketinga](/cene-digitalnog-marketinga). Skup klik postaje još skuplji kada sleti na stranu koja ne zna šta traži od posetioca.
+
+## Dokaz mora biti blizu obećanja
+
+Prvi ekran često obeća rezultat, a dokaz sakrije tri skrola niže. To je loš raspored. Ako naslov kaže da firma pomaže klijentima da dobiju više upita, odmah blizu toga treba da stoji neki razlog za verovanje.
+
+To može biti broj, kratak case snippet, tip klijenata, logo, ocena, konkretan primer ili rečenica koja pokazuje proces. Ne mora sve da stane u prvi ekran. Ali obećanje bez ikakvog dokaza zvuči isto kao obećanje svake druge firme.
+
+Za uslužne biznise posebno rade dokazi koji smanjuju rizik: ko je radio projekat, koliko brzo se dobija odgovor, šta se meri, kako izgleda saradnja, da li postoje slike, recenzije ili jasni primeri. Ako sajt ima posete, ali nema poverenje, vredi proveriti tekst o [dokazima poverenja na sajtu](/blog/dokazi-poverenja-na-sajtu-konverzija-srbija-2026).
+
+## CTA nije samo dugme
+
+Dugme "Kontakt" samo po sebi ne rešava problem. Posetilac treba da zna šta se dešava posle klika. Da li šalje upit? Da li zakazuje razgovor? Da li dobija procenu? Koliko brzo neko odgovara? Koje podatke treba da pripremi?
+
+Bolji CTA ima kontekst. Na primer: "Pošaljite upit i dobićete predlog sledećeg koraka" ili "Zatražite procenu kampanje". Ispod dugmeta može stajati kratka rečenica: "Odgovaramo sa pitanjima o budžetu, ponudi i trenutnom sajtu, da ne gubimo vreme na opštu priču." To je mnogo jasnije od praznog poziva na kontakt.
+
+Forma posle tog dugmeta takođe treba da nastavi isti tok. Ako prvi ekran obećava ozbiljne leadove, forma ne treba da pita samo ime i telefon. Treba da pokupi minimum konteksta koji prodaji stvarno treba. Tu pomaže pristup iz teksta o [kontakt formi koja kvalifikuje leadove](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026).
+
+## Šta proveriti pre povećanja budžeta
+
+Kada kampanja ima klikove, ali nema dovoljno upita, najlakše je dirati oglase. Promeni se naslov, publika, ključne reči ili budžet. To nekad jeste potrebno. Ali pre većeg trošenja vredi proći kroz prvi ekran bez ulepšavanja.
+
+Pitanja su jednostavna. Da li naslov govori konkretnu uslugu? Da li se vidi za koga je ponuda? Da li postoji razlog da se veruje firmi? Da li CTA objašnjava sledeći korak? Da li mobilna verzija pokazuje najbitnije bez pola minuta skrolovanja? Da li posetilac zna okvir cene, roka ili procesa? Da li se klik na telefon, forma i poruke mere kroz [praćenje konverzija](/blog/pracenje-konverzija-lead-generation-srbija-2026)?
+
+Ako je odgovor na pola ovih pitanja "ne", dodatni budžet samo dovodi više ljudi u istu maglu. Prvo popravite ulaz u ponudu. Onda ima smisla testirati nove oglase i veći volumen.
+
+## Kako izgleda praktična popravka
+
+Ne treba praviti novi sajt svaki put kada prvi ekran ne radi. Nekad je dovoljno promeniti redosled i tekst. Krenite od jasnog naslova, jedne rečenice objašnjenja, glavnog CTA dugmeta, pomoćnog CTA linka, tri konkretna signala poverenja i kratkog objašnjenja šta se dešava posle upita.
+
+Primer strukture za uslužnu firmu može izgledati ovako: naslov koji kaže rezultat, podnaslov koji objašnjava za koga je usluga, dugme za procenu, link ka ceni ili procesu, jedna rečenica dokaza i kratak spisak šta ulazi u prvi razgovor. Nije komplikovano. Samo je retko složeno tim redom.
+
+Posle izmene gledajte ponašanje, ne samo izgled. Da li raste broj kvalifikovanih upita? Da li prodaja dobija manje osnovnih pitanja? Da li se smanjuje rasipanje na nebitne leadove? Ako isti saobraćaj donese više dobrih razgovora, to je bolji signal od toga da se svima sviđa dizajn.
+
+Za dublje sređivanje stranice, korisno je spojiti ovo sa [CRO optimizacijom sajta](/blog/optimizacija-konverzije-sajta-cro-srbija-2026), ali nemojte početi od komplikovanih testova ako osnovna poruka nije jasna.
+
+## Kako Platinum Zenith može da pomogne
+
+Prvi ekran je mali deo sajta, ali često pokaže ceo problem: nejasna ponuda, slab dokaz, pogrešan CTA, bez cene ili bez dogovorenog prodajnog toka. Zato ga ne treba gledati samo kao dizajn. Treba ga gledati kao početak prodajnog procesa.
+
+Ako imate kampanju koja dovodi posete, a upiti su slabi ili ih nema dovoljno, pošaljite nam URL, cilj kampanje, najvažniju uslugu, prosečnu vrednost klijenta i šta se trenutno dešava posle forme. Javite se preko [kontakt strane](/kontakt). Brzo se vidi da li je problem u prvom ekranu, ponudi, formi, tracking-u ili prodajnom procesu.
+`,
+  },
+  {
     slug: 'google-ads-za-firme-za-ciscenje-cena-upita-srbija-2026',
     title: 'Google Ads za firme za čišćenje u Srbiji 2026: cena upita i budžet',
     excerpt: 'Google Ads za firme za čišćenje radi samo kada razdvojite stanove, kancelarije i hitne upite. Evo kako planirati budžet i cenu lead-a.',
