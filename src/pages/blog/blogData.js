@@ -1,4 +1,107 @@
-﻿const rawBlogPosts = [
+const rawBlogPosts = [
+  {
+    slug: 'fiksni-fee-procenat-budzeta-performance-agencija-srbija-2026',
+    title: 'Fiksni fee, procenat budžeta ili performance agencija u Srbiji 2026',
+    excerpt: 'Fiksni fee, procenat budžeta i plaćanje po rezultatu zvuče slično dok ne pogledate rizik. Evo kako izabrati model koji čuva ROI.',
+    date: '2026-06-15',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Marketing budžet', 'Agencija', 'ROI', 'Lead Generation', 'Cene'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Model naplate nije detalj iz ponude
+
+Kada firma bira agenciju, razgovor brzo dođe do cene. Jedna ponuda ima fiksni mesečni fee. Druga uzima procenat oglasnog budžeta. Treća obećava plaćanje po rezultatu. Na prvi pogled deluje da je samo pitanje šta je jeftinije.
+
+U praksi, model naplate određuje ponašanje obe strane. Ako je pogrešno postavljen, agencija može imati motiv da troši više, klijent može očekivati čudo za premali budžet, a prodaja može kriviti marketing za stvari koje nikad nisu ni bile pod kontrolom kampanje.
+
+Česta greška je da se bira model koji zvuči najbezbednije, bez pitanja šta se meri, ko kontroliše prodaju i gde nastaje profit. Zato nije dovoljno pitati koliko košta agencija. Treba pitati kako taj model utiče na odluke iz meseca u mesec.
+
+Za širi okvir cena prvo pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga) i realan okvir za [cenu Google reklama](/google-reklame-cena). Ovaj tekst je o tome kako da izaberete način plaćanja koji ne pojede ROI.
+
+## Fiksni fee je dobar kada postoji jasan obim rada
+
+Fiksni mesečni fee je najčistiji model kada se zna šta agencija radi: kampanje, landing stranice, tracking, izveštaji, optimizacija, sastanci, testovi i preporuke. Klijent zna mesečni trošak. Agencija zna koliko vremena i odgovornosti preuzima.
+
+Problem nastaje kada fiksni fee pokriva nejasnu listu želja. Jednog meseca se traži Google Ads, sledećeg SEO, zatim pet landing stranica, zatim kompletan CRM, a cena ostaje ista. Tada se kvalitet razvodni ili agencija radi samo površinski deo posla.
+
+Dobar fiksni fee treba da kaže šta ulazi, šta ne ulazi, koliko često se optimizuje, ko piše tekstove, ko menja sajt, ko namešta konverzije i šta je dodatni rad. Ako toga nema, cena deluje jednostavno, ali saradnja brzo postane natezanje.
+
+Za lead generation projekte fiksni fee ima smisla kada već postoji okvir budžeta, ponuda i proces prodaje. Ako firma tek testira tržište, fiksni fee treba vezati za konkretan test, ne za opšte obećanje rasta.
+
+## Procenat od budžeta može biti fer, ali ima zamku
+
+Model gde agencija uzima procenat oglasnog budžeta često zvuči logično. Ako se troši više, ima više posla, više kampanja, više podataka i veća odgovornost. Kod većih naloga to može biti fer.
+
+Zamka je motivacija. Ako agencija zarađuje samo kada budžet raste, loš partner može gurati veći spend pre nego što su ponuda, tracking i prodaja spremni. Tada se u izveštaju vidi više klikova i leadova, ali profit ne prati tempo.
+
+To ne znači da je procenat loš. Loš je procenat bez zaštitnih pravila. Treba definisati kada se budžet povećava, koji signal mora da bude stabilan, šta znači kvalitetan lead i šta se dešava ako se cena po kvalifikovanom upitu pogorša.
+
+U praksi, procenat od budžeta bolje radi kada postoji plafon, minimalni fee ili dogovor o fazama. Na primer: prvo se stabilizuje [maksimalna cena leada](/blog/maksimalna-cena-leada-srbija-2026), zatim se proveri [break-even marketing budžeta](/blog/break-even-marketing-budzeta-srbija-2026), pa tek onda ide skaliranje.
+
+## Performance model zvuči najbolje, ali nije uvek najpošteniji
+
+Plaćanje po rezultatu zvuči kao najbezbednija opcija za klijenta. Ako nema rezultata, nema plaćanja. Ako ima rezultata, svi su srećni. Problem je što rezultat nije uvek pod kontrolom agencije.
+
+Agencija može dovesti kvalifikovan upit, ali ne može uvek kontrolisati da li se neko javio na telefon, da li je prodaja zakasnila dva dana, da li je cena previsoka, da li ponuda ima dokaz poverenja ili da li je usluga stvarno konkurentna.
+
+Zbog toga loši performance dogovori često završe u svađi oko definicije rezultata. Da li je rezultat klik, forma, zakazan razgovor, ponuda, potpisan ugovor ili naplaćen posao? Svaki nivo ima drugačiji rizik.
+
+Ako se performance koristi, mora biti usko definisan. Na primer, plaćanje po kvalifikovanom upitu ima više smisla nego plaćanje po bilo kojoj formi. Plaćanje po prodaji ima smisla samo ako agencija ima uvid u CRM, brzinu odgovora, prodajni proces i stvarnu naplatu.
+
+Zašto široke garancije često zvuče bolje nego što rade, obradili smo u tekstu o [garanciji rezultata u marketingu](/blog/garancija-rezultata-marketing-agencija-budzet-srbija-2026). Ista logika važi i za performance model.
+
+## Najjeftiniji model često sakrije najveći trošak
+
+Firme nekad izaberu najniži mesečni fee jer žele da smanje rizik. To je razumljivo. Ali ako je fee toliko nizak da ne pokriva strategiju, podešavanje, analitiku, landing stranu i redovnu optimizaciju, stvarni trošak se samo premesti.
+
+Premesti se u loše kampanje, sporije učenje, netačan tracking, slabe landing strane i prodaju koja ne zna odakle dolaze dobri leadovi. Na papiru je agencija jeftina. U praksi je svaki mesec test koji ne proizvodi dovoljno pouzdanih podataka.
+
+Druga česta greška je suprotna: firma plati veliki fee i veliki budžet, ali nema interni kapacitet da obradi upite. Telefon se ne diže, CRM ne postoji, ponude kasne, a marketing izveštaj izgleda bolje od bankovnog računa.
+
+Zato model plaćanja treba gledati zajedno sa [periodom povrata marketing budžeta](/blog/period-povrata-marketing-budzeta-srbija-2026) i realnom [raspodelom budžeta između oglasa, sajta i prodaje](/blog/raspodela-marketing-budzeta-oglasi-sajt-prodaja-srbija-2026). Nije cilj najmanji račun. Cilj je najbolji odnos rizika, učenja i profita.
+
+## Kako izabrati model za lead generation
+
+Za većinu firmi koje tek sređuju lead generation, najzdraviji početak je fiksni fee za jasno definisan test. Test treba da ima budžet, trajanje, landing stranu, tracking, kvalifikaciju upita i dogovor ko odgovara na leadove.
+
+Kada se sistem stabilizuje, model može da se proširi. Ako budžet raste i posao se komplikuje, može imati smisla kombinacija fiksnog fee-a i procenta iznad određenog praga. Ako su CRM i prodaja uredni, može se dodati bonus za kvalitetan rezultat.
+
+Najopasniji početak je čist performance model bez podataka. Tada agencija preuzima rizik za stvari koje ne kontroliše, pa ili odbije ozbiljan rad ili počne da juri najlakše leadove. Klijent dobije brojke, ali ne nužno posao.
+
+Pre izbora modela odgovorite na četiri pitanja: koliko vredi dobar klijent, koliko leadova prodaja može obraditi, šta se tačno računa kao kvalifikovan upit i koliko brzo možete vratiti ulaganje. Ako ne znate te brojeve, prvo ih izračunajte kroz [ROI kalkulator](/alati/roi-kalkulator) ili osnovnu internu tabelu.
+
+## Šta treba da piše u ponudi agencije
+
+Dobra ponuda ne treba da krije model naplate iza lepih fraza. Treba jasno da kaže šta plaćate, šta je cilj, koji su preduslovi, šta se meri i kada se odluka menja.
+
+Ako je fee fiksan, treba da piše obim rada. Ako je procenat budžeta, treba da piše kako se odobrava povećanje. Ako je performance, treba da piše definicija rezultata, izvor podataka, rok plaćanja i šta se radi sa spornim leadovima.
+
+Važno je i ko poseduje šta. Nalozi, podaci, landing stranice, tracking i istorija kampanja ne smeju biti magla. Firma koja plaća marketing treba da zna gde su podaci i kako se koriste za sledeću odluku. Bez toga svaka promena partnera postaje novi početak.
+
+Ako se već dvoumite između internog zapošljavanja i agencije, korisno je uporediti ovaj deo sa tekstom [in-house marketing ili agencija](/blog/in-house-marketing-ili-agencija-cena-budzet-srbija-2026), stranicom [in-house tim vs agencija](/in-house-tim-vs-agencija) i poređenjem [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share). Model naplate je samo jedan deo ukupnog troška.
+
+## Kada promeniti model
+
+Model koji je dobar u prva tri meseca ne mora biti dobar posle godinu dana. Na početku se plaća najviše učenja: istraživanje, struktura kampanja, landing strana, tracking i podešavanje procesa. Kasnije se više plaća optimizacija, skaliranje i koordinacija.
+
+Ako kampanje rade stabilno, prodaja prati leadove i postoji dobar podatak o kvalitetu, ima smisla razgovarati o modelu koji nagrađuje rast. Ako kampanje još nemaju čist tracking, promena na performance model samo zamagljuje problem.
+
+Promena modela ima smisla kada se promeni rizik. Veći budžet, više kanala, novi gradovi, druga usluga, veći prodajni tim ili bolji CRM mogu opravdati drugačiji dogovor. Ali odluka treba da prati podatke, ne samo osećaj da je agencija skupa ili jeftina.
+
+Pre povećanja budžeta proverite signale iz teksta o [skaliranju marketing budžeta](/blog/kada-povecati-marketing-budzet-skaliranje-srbija-2026) i obavezno sredite [praćenje konverzija](/blog/pracenje-konverzija-lead-generation-srbija-2026). Bez toga ne znate da li plaćate rast ili haos.
+
+## Kako Platinum Zenith može da pomogne
+
+Najbolji model naplate nije univerzalan. Za jednu firmu je to fiksni test od 90 dana. Za drugu je kombinacija fee-a i procenta budžeta. Za treću je bonus za kvalifikovane upite, ali tek nakon što se jasno vidi prodajni tok.
+
+Ako razmišljate o agenciji, promeni partnera ili većem budžetu, pošaljite nam trenutni mesečni spend, cilj, prosečnu vrednost klijenta, maržu, prodajni proces i ponude koje poredite. Javite se preko [kontakt strane](/kontakt). Možemo brzo da procenimo koji model smanjuje rizik, a koji samo lepo izgleda u ponudi.
+`,
+  },
   {
     slug: 'prvi-ekran-sajta-konverzija-upiti-srbija-2026',
     title: 'Prvi ekran sajta u Srbiji 2026: zašto posete ne šalju upite',

@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "fiksni-fee-procenat-budzeta-performance-agencija-srbija-2026",
+    "title": "Fiksni fee, procenat budžeta ili performance agencija u Srbiji 2026",
+    "excerpt": "Fiksni fee, procenat budžeta i plaćanje po rezultatu zvuče slično dok ne pogledate rizik. Evo kako izabrati model koji čuva ROI.",
+    "date": "2026-06-15",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "prvi-ekran-sajta-konverzija-upiti-srbija-2026",
     "title": "Prvi ekran sajta u Srbiji 2026: zašto posete ne šalju upite",
     "excerpt": "Prvi ekran sajta odlučuje da li posetilac razume ponudu ili ode. Evo šta mora da piše da bi kampanja dobila više dobrih upita.",
