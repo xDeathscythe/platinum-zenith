@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-rent-a-car-cena-rezervacije-srbija-2026",
+    "title": "Google Ads za rent a car u Srbiji 2026: cena rezervacije i budžet",
+    "excerpt": "Google Ads za rent a car radi samo kada razdvojite aerodrom, grad, turiste i poslovne najmove. Evo kako planirati budžet i cenu rezervacije.",
+    "date": "2026-06-15",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "fiksni-fee-procenat-budzeta-performance-agencija-srbija-2026",
     "title": "Fiksni fee, procenat budžeta ili performance agencija u Srbiji 2026",
     "excerpt": "Fiksni fee, procenat budžeta i plaćanje po rezultatu zvuče slično dok ne pogledate rizik. Evo kako izabrati model koji čuva ROI.",

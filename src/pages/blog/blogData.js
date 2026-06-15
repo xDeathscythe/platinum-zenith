@@ -1,5 +1,100 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-rent-a-car-cena-rezervacije-srbija-2026',
+    title: 'Google Ads za rent a car u Srbiji 2026: cena rezervacije i budžet',
+    excerpt: 'Google Ads za rent a car radi samo kada razdvojite aerodrom, grad, turiste i poslovne najmove. Evo kako planirati budžet i cenu rezervacije.',
+    date: '2026-06-15',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Rent a car', 'Lead Generation', 'Lokalni marketing', 'Marketing budžet'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Rent a car ne prodaje jedan tip najma
+
+Google Ads može da radi odlično za rent a car firme u Srbiji, ali samo ako kampanja ne tretira svaku pretragu kao isti posao. Osoba koja traži auto na aerodromu večeras, porodica koja dolazi na odmor, lokalna firma kojoj treba vozilo za teren i neko ko samo poredi cene za vikend nemaju isti rok, budžet ni očekivanje.
+
+Česta greška je da rent a car firma napravi jednu kampanju, jednu listu ključnih reči i jednu stranicu sa svim vozilima. Oglasi dovode pozive, WhatsApp poruke i forme, ali prodaja kasnije ne zna koji upiti vrede. Neki traže najnižu cenu bez depozita, neki žele klasu vozila koju firma nema, a neki pitaju za datum kada je flota već zauzeta.
+
+Problem tada nije nužno u Google-u. Problem je što kampanja ne odvaja nameru koja može postati rezervacija od namere koja samo troši budžet.
+
+Ako tek planirate oglašavanje, krenite od realnog okvira za [cenu Google reklama](/google-reklame-cena). Za rent a car je posebno važno da se budžet ne meri samo po ceni klika, već po ceni potvrđene rezervacije.
+
+## Prvo razdvojite aerodrom, grad i tip vozila
+
+Najveća razlika u rent a car kampanjama obično nije između Google Ads-a i SEO-a, nego između različitih namera unutar iste pretrage. "Rent a car aerodrom Beograd", "iznajmljivanje auta Novi Sad", "jeftin rent a car bez depozita" i "najam kombija za selidbu" mogu izgledati slično u izveštaju, ali poslovno nisu isti.
+
+Aerodromski upiti često imaju kratak rok i visoku nameru. Tu su važni preuzimanje vozila, let, radno vreme, depozit, osiguranje i brz odgovor. Gradski upiti mogu biti širi i više cenovno osetljivi. Upiti za kombi, SUV ili automatik često imaju drugačiju maržu i dostupnost.
+
+Zato kampanje treba razdvojiti po lokaciji, tipu vozila i scenariju. Nije isto kada neko traži auto za jedan dan, sedam dana ili poslovni najam na mesec dana. Ako sve ide u istu oglasnu grupu, algoritam može doneti jeftinije leadove koji zapravo nisu najbolji poslovi.
+
+Bolje je imati manje kampanja koje jasno prate nameru nego jednu veliku kampanju koja samo skuplja klikove.
+
+## Koliko može da vredi jedna rezervacija
+
+Kod rent a car firme, maksimalna cena upita zavisi od prosečne vrednosti najma, broja dana, klase vozila, sezone, troška održavanja, provizija i toga koliko se često klijent vraća. Upit od 1.000 dinara može biti skup ako vodi do jednodnevnog najma sa minimalnom maržom. Isti upit može biti odličan ako vodi do sedmodnevne rezervacije u sezoni.
+
+Zato prvo treba izračunati koliko firma može da plati za kvalifikovan upit, a ne koliko želi da plati za klik. Ako je prosečna bruto zarada po dobroj rezervaciji 80 evra, a prodaja zatvara svaki četvrti kvalifikovan upit, kampanja ne može imati isti dozvoljeni CPL kao firma koja zarađuje 300 evra po rezervaciji i zatvara svaki drugi upit.
+
+Ovaj okvir je isti kao u tekstu o [maksimalnoj ceni leada](/blog/maksimalna-cena-leada-srbija-2026), samo što se kod rent a car-a mora dodati dostupnost flote. Lead koji bi bio odličan u martu može biti beskoristan u avgustu ako nema slobodnog vozila.
+
+## Landing strana mora da smanji nepotrebne pozive
+
+Mnoge rent a car stranice sakriju najvažnije informacije. Imaju slike automobila, ali ne govore jasno šta je uključeno u cenu, kako se računa depozit, gde se preuzima vozilo, da li postoji dostava, šta važi za inostrane vozačke dozvole, kako funkcioniše osiguranje i koliko brzo se potvrđuje rezervacija.
+
+Tada prodaja dobija mnogo istih pitanja. "Koliko je depozit?" "Da li može bez kreditne kartice?" "Da li imate automatik?" "Da li može aerodrom?" "Da li je cena ista za sedam dana?" Deo tih pitanja je normalan, ali ako se ponavljaju iz svake kampanje, stranica nije uradila svoj posao.
+
+Dobra landing strana za rent a car ne mora da bude komplikovana. Treba da ima jasne klase vozila, lokacije preuzimanja, okvir cene ili početnu cenu, uslove depozita, najčešća pitanja i jedan jasan CTA: poziv, WhatsApp ili forma za proveru dostupnosti.
+
+Ako već plaćate klikove, pogledajte i tekst o [prvom ekranu sajta](/blog/prvi-ekran-sajta-konverzija-upiti-srbija-2026). Kod hitnih lokalnih i turističkih pretraga prvi ekran često odlučuje da li korisnik uopšte šalje upit.
+
+## Praćenje mora znati šta je rezervacija, a šta samo pitanje
+
+Google Ads izveštaj može izgledati dobro ako meri svaku formu i svaki klik na telefon. Ali rent a car firma ne živi od pitanja. Živi od potvrđenih rezervacija, plaćenih najma i vozila koja se vrate bez problema.
+
+Česta greška je da se sve konverzije računaju isto. Klik na WhatsApp, poziv od 12 sekundi, forma bez datuma i potvrđena rezervacija dobiju isti status. Kampanja onda optimizuje za volumen, a ne za prihod.
+
+Minimum koji treba pratiti je: izvor upita, datum i lokacija preuzimanja, tip vozila, trajanje najma, da li je vozilo dostupno, status rezervacije i razlog odbijanja. Bez toga se ne vidi da li budžet curi na pogrešne gradove, pogrešne klase vozila ili periode kada firma nema kapacitet.
+
+Detaljniji okvir je u tekstu o [praćenju konverzija za lead generation](/blog/pracenje-konverzija-lead-generation-srbija-2026). Za rent a car je posebno važno da CRM ili makar tabela vrati informaciju nazad: koji upiti su stvarno postali rezervacije.
+
+## Sezona menja budžet, ali ne sme da menja disciplinu
+
+Rent a car potražnja često ima sezonalnost. Letnji meseci, praznici, dolasci iz inostranstva, sajmovi i lokalni događaji mogu brzo podići broj pretraga. Tada se lako donese pogrešan zaključak: samo povećati budžet i čekati rezervacije.
+
+Ako tracking nije čist, veći budžet samo ubrza rasipanje. Kampanja počne da kupuje šire upite, konkurencija podigne cenu klika, a prodaja se zatrpa porukama koje nisu dobro kvalifikovane. Na papiru ima više leadova. U praksi nema dovoljno profitabilnih rezervacija.
+
+Bolji pristup je fazni. Pre sezone srediti kampanje, negativne ključne reči, landing stranu i praćenje. U sezoni povećavati budžet samo za segmente koji imaju dostupna vozila i dobar odnos cene upita i vrednosti rezervacije. Posle sezone analizirati koji gradovi, vozila i termini su doneli profit, ne samo najveći broj formi.
+
+Ako razmišljate o povećanju spend-a, uporedite signale iz teksta [kada povećati marketing budžet](/blog/kada-povecati-marketing-budzet-skaliranje-srbija-2026). Skaliranje ima smisla kada sistem može da obradi više tražnje.
+
+## Šta odbijati kroz ključne reči i formu
+
+Dobar Google Ads za rent a car nije samo lista fraza koje želite. To je i lista upita koje ne želite. Pretrage za posao vozača, polovne automobile, prodaju vozila, besplatan najam, nerealne lokacije ili uslove koje firma ne nudi treba brzo izbacivati.
+
+I forma može pomoći. Umesto generičkog "pošaljite upit", bolje je pitati datum preuzimanja i vraćanja, grad, tip vozila, broj vozača, da li je potreban automatik i da li je korisnik spreman za depozit. To ne mora biti duga forma. Dovoljno je da prodaja ne kreće od nule.
+
+O tome detaljnije pišemo u tekstu o [kontakt formi koja kvalifikuje leadove](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026). Kod rent a car-a kvalifikacija nije luksuz, jer pogrešan upit može pojesti vreme u periodu kada prodaja treba brzo da potvrđuje dobre rezervacije.
+
+## Brzina odgovora direktno utiče na cenu rezervacije
+
+Korisnik koji traži auto često šalje upit na više mesta. Ako jedna firma odgovori za pet minuta, a druga sutra, razlika u kampanji nije samo marketing. To je prodajni proces.
+
+Zato oglasi, landing strana i prodaja moraju raditi zajedno. Ako kampanja dovodi upite posle radnog vremena, treba znati ko ih obrađuje. Ako WhatsApp stoji kao glavni CTA, neko mora brzo da odgovori. Ako se potvrda dostupnosti čeka ručno, treba makar poslati jasan prvi odgovor sa sledećim korakom.
+
+Tekst o [brzini odgovora na upit](/blog/brzina-odgovora-na-upit-follow-up-prodaja-srbija-2026) je ovde posebno važan. Rent a car ne gubi samo lead kada kasni. Gubi konkretan datum najma koji konkurencija može odmah da potvrdi.
+
+## Kako Platinum Zenith može da pomogne
+
+Rent a car kampanja nije samo podešavanje oglasa. Treba povezati nameru pretrage, dostupnost flote, landing stranu, tracking, odgovor prodaje i realnu vrednost rezervacije. Tek tada se vidi da li je problem u ceni klika, ponudi, sezoni ili načinu obrade upita.
+
+Ako imate rent a car firmu i želite više profitabilnih rezervacija, pošaljite nam gradove koje pokrivate, tipove vozila, prosečno trajanje najma, sezonu, trenutni budžet i kako sada pratite upite. Javite se preko [kontakt strane](/kontakt). Možemo brzo da procenimo gde budžet curi i koji segment prvo ima smisla testirati.
+`,
+  },
+  {
     slug: 'fiksni-fee-procenat-budzeta-performance-agencija-srbija-2026',
     title: 'Fiksni fee, procenat budžeta ili performance agencija u Srbiji 2026',
     excerpt: 'Fiksni fee, procenat budžeta i plaćanje po rezultatu zvuče slično dok ne pogledate rizik. Evo kako izabrati model koji čuva ROI.',
