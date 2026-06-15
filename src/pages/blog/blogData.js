@@ -1,5 +1,102 @@
 const rawBlogPosts = [
   {
+    slug: 'cpl-nije-cac-cena-akvizicije-kupca-srbija-2026',
+    title: 'CPL nije CAC u Srbiji 2026: koliko stvarno košta novi kupac',
+    excerpt: 'Jeftin lead ne znači jeftinog kupca. Naučite razliku između CPL-a i CAC-a pre nego što povećate marketing budžet ili promenite agenciju.',
+    date: '2026-06-16',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['CAC', 'CPL', 'Marketing budžet', 'ROI', 'Lead Generation'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Jeftin lead može da napravi skupog kupca
+
+Mnoge firme u Srbiji gledaju marketing kroz jedno pitanje: koliko košta lead? Ako je lead jeftiniji ovog meseca, kampanja deluje bolje. Ako je skuplji, kreće nervoza, smanjivanje budžeta i razgovor o promeni agencije.
+
+Problem je što CPL i CAC nisu ista stvar. CPL je cena upita. CAC je stvarna cena akvizicije kupca. Između ta dva broja stoje forma, brzina odgovora, prodajni razgovor, kvalifikacija, ponuda, marža, vreme do naplate i kvalitet klijenta.
+
+Česta greška je da firma optimizuje kampanju za najniži CPL, a onda dobije više ljudi koji pitaju, manje ljudi koji kupuju i prodaju koja nema vremena za ozbiljne razgovore. Na papiru marketing izgleda efikasnije. U kasi se ne vidi isti rezultat.
+
+Ako planirate veći budžet, krenite od realnog okvira za [cenu Google reklama](/google-reklame-cena) i ukupne [cene digitalnog marketinga](/cene-digitalnog-marketinga). Ali nemojte ostati na ceni klika ili ceni forme. Pravo pitanje je koliko vas košta kupac koji plati i može da bude profitabilan.
+
+## Šta je CPL, a šta je CAC
+
+CPL, odnosno cost per lead, kaže koliko ste platili jedan upit. Ako potrošite 100.000 dinara i dobijete 50 upita, CPL je 2.000 dinara. To je koristan broj, ali samo kao prvi signal.
+
+CAC, odnosno customer acquisition cost, meri koliko košta jedan novi kupac. Ako od tih 50 upita pet postane klijent, osnovni CAC iz medijskog budžeta je 20.000 dinara. Ako dodate agencijski fee, landing stranu, alat za tracking, vreme prodaje i popuste koji su dati da se posao zatvori, stvarni CAC može biti znatno veći.
+
+Zato se kampanja ne sme ocenjivati samo po tome da li je lead jeftin. Lead od 1.000 dinara može biti skup ako se niko ne javlja, nema budžet ili ne kupuje. Lead od 6.000 dinara može biti odličan ako dolazi iz jasne namere, brzo ulazi u prodajni razgovor i često postaje klijent.
+
+Detaljniji okvir za prvi deo matematike je u tekstu o [maksimalnoj ceni leada](/blog/maksimalna-cena-leada-srbija-2026). Ali maksimalni CPL treba računati unazad iz CAC-a, marže i vrednosti klijenta, ne iz osećaja da je neki broj skup.
+
+## Jednostavna formula koju vlasnik može da koristi
+
+Ne treba vam komplikovan finansijski model da biste videli da li marketing ima smisla. Za početak, uzmite četiri broja.
+
+Prvo, mesečni trošak kampanje: media spend, agencijski fee, kreativa, landing strana i alati koji direktno služe akviziciji. Drugo, broj kvalifikovanih upita. Treće, broj novih kupaca. Četvrto, bruto profit po kupcu u realnom periodu.
+
+Ako mesečno potrošite 180.000 dinara na akviziciju i dobijete šest novih kupaca, osnovni CAC je 30.000 dinara. Ako je bruto profit po prvom poslu 45.000 dinara, kampanja možda ima smisla. Ako je bruto profit 18.000 dinara i nema ponovnih kupovina, kampanja nije zdrava čak i ako je CPL delovao lepo.
+
+Kod usluga sa većom vrednošću, treba gledati i [vrednost klijenta kroz LTV](/blog/vrednost-klijenta-ltv-marketing-budzet-srbija-2026). Klijent koji kupi jednom i ode ne može nositi isti CAC kao klijent koji ostaje šest ili dvanaest meseci.
+
+## Zašto firme često jure pogrešan broj
+
+U izveštajima je najlakše pokazati klikove, impresije, cenu po leadu i broj formi. Ti brojevi se brzo menjaju i deluju konkretno. Zato neke firme počnu da traže sve niži CPL, čak i kada prodaja kaže da upiti nisu dobri.
+
+Tada se kampanja širi na slabije ključne reči, poruka postaje previše opšta, forma skuplja radoznale ljude, a landing strana obećava previše samo da bi dobila upit. Rezultat je lep grafikon i loš prodajni dan.
+
+Druga česta greška je suprotna. Firma vidi skuplji lead i odmah ga odbaci, iako taj lead ima bolju nameru. Na primer, B2B upit za konkretnu uslugu može koštati više od generičkog upita, ali može imati tri puta veću šansu da postane klijent.
+
+Zato CPL treba čitati zajedno sa kvalitetom, stopom zakazivanja, stopom održanih razgovora, ponudama i prodajom. Bez toga optimizujete ono što Google ili Meta lako mere, a ne ono što firma stvarno naplaćuje.
+
+## CAC puca kada prodaja ne vrati podatke marketingu
+
+Marketing ne može sam da izračuna dobar CAC ako prodaja ne beleži šta se desilo posle forme. Ako se svaki upit vodi kao ista konverzija, kampanja ne zna razliku između ozbiljnog kupca i osobe koja je samo pitala za najnižu cenu.
+
+Minimum evidencije treba da bude: izvor upita, kampanja, stranica, problem, budžet, status, razlog odbijanja, poslata ponuda, prihvaćena ponuda i naplaćeni iznos. Ne mora odmah biti savršen CRM. Može krenuti i od uredne tabele, dok god postoji vlasnik procesa.
+
+Ovo se direktno nadovezuje na tekst o [CRM evidenciji za leadove](/blog/crm-za-leadove-evidencija-prodaja-srbija-2026) i [praćenju konverzija za lead generation](/blog/pracenje-konverzija-lead-generation-srbija-2026). Bez povratne informacije iz prodaje, marketing budžet se često brani ili napada na osnovu pola slike.
+
+## Kada skuplji lead snižava CAC
+
+Zvuči nelogično, ali skuplji lead može smanjiti cenu akvizicije kupca. To se dešava kada skuplji kanal, ključna reč ili landing strana dovodi manje ljudi, ali mnogo bolje uklopljene u ponudu.
+
+Primer: jedna kampanja donosi 100 leadova po 1.500 dinara, ali se zatvore dva klijenta. Druga donosi 35 leadova po 4.000 dinara, ali se zatvori sedam klijenata. Prva ima bolji CPL. Druga ima bolji CAC, manje opterećuje prodaju i verovatno donosi zdraviji prihod.
+
+Zato kod optimizacije ne treba pitati samo: kako da spustimo cenu leada? Bolje pitanje je: koji leadovi imaju najbolji odnos između cene, vremena prodaje, marže i šanse da postanu dobar klijent?
+
+Tu pomažu bolja kvalifikacija forme, jasnija cena na sajtu, bolja prva sekcija landing strane i brži follow-up. Pogledajte tekstove o [kontakt formi za kvalifikaciju](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026), [cenama na sajtu](/blog/cene-na-sajtu-usluge-kvalitet-leadova-srbija-2026) i [brzini odgovora na upit](/blog/brzina-odgovora-na-upit-follow-up-prodaja-srbija-2026). Sva tri direktno utiču na CAC, iako nisu stavka u Google Ads izveštaju.
+
+## Kako odlučiti da li treba povećati budžet
+
+Budžet ne treba povećavati samo zato što je CPL nizak. Nizak CPL bez zatvaranja prodaje samo brže puni pipeline lošim razgovorima. Budžet ima smisla povećati kada znate koji segmenti donose kupce, koliki je CAC, koliko brzo se ulaganje vraća i da li prodaja može da obradi veći volumen.
+
+Ako je trenutni CAC 30.000 dinara, bruto profit po prvom poslu 60.000 dinara, a deo klijenata se vraća ili ostaje duže, skaliranje može imati smisla. Ako je CAC 50.000 dinara, bruto profit 35.000 dinara, a naplata kasni tri meseca, veći budžet može napraviti problem sa kešom čak i kada kampanja tehnički radi.
+
+Zato spojite CAC sa [break-even računicom](/blog/break-even-marketing-budzeta-srbija-2026) i [periodom povrata marketing budžeta](/blog/period-povrata-marketing-budzeta-srbija-2026). ROI nije samo koliko se ukupno vrati. Važno je i kada se novac vraća.
+
+Za brzu proveru može pomoći i [ROI kalkulator](/alati/roi-kalkulator), ali kalkulator je koristan samo ako unosite realne podatke, ne optimistične želje.
+
+## Šta agencija treba da prikazuje u izveštaju
+
+Dobar izveštaj ne mora imati pedeset metrika. Treba da poveže marketing sa prodajom. Za lead generation firmu, osnovni mesečni pregled treba da kaže: koliko je potrošeno, koliko je bilo kvalifikovanih upita, koliko je bilo razgovora, koliko je ponuda poslato, koliko je poslova zatvoreno, koliki je okvirni CAC i koji segmenti treba da dobiju veći ili manji budžet.
+
+Ako agencija priča samo o klikovima i CPL-u, fali poslovni sloj. Ako firma od agencije traži samo jeftiniji lead, fali prodajni sloj. Najbolji rezultat dolazi kada se oba tima dogovore koji tip kupca vredi juriti i koji CAC je prihvatljiv.
+
+Tu se uklapa i izbor modela saradnje. Fiksni fee, procenat budžeta i performance dogovori imaju različite podsticaje, što smo obradili u tekstu o [agencijskim modelima naplate](/blog/fiksni-fee-procenat-budzeta-performance-agencija-srbija-2026) i na stranici [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share).
+
+## Kako Platinum Zenith gleda na CPL i CAC
+
+Cilj nije da svaki lead bude najjeftiniji. Cilj je da sistem dovodi dovoljno pravih upita po ceni koja može da izdrži maržu, prodajni kapacitet i period povrata. Nekad to znači spustiti CPL. Nekad znači namerno plaćati skuplji, ali ozbiljniji upit.
+
+Ako imate kampanje koje donose forme, ali ne znate koliko stvarno košta novi kupac, pošaljite nam trenutni mesečni budžet, broj leadova, broj zatvorenih klijenata, prosečnu vrednost posla i okvirnu maržu. Javite se preko [kontakt strane](/kontakt). Možemo da pogledamo da li problem leži u kampanji, landing strani, kvalifikaciji, prodajnom procesu ili samoj CAC matematici.
+`,
+  },
+  {
     slug: 'zakazane-konsultacije-no-show-leadovi-prodaja-srbija-2026',
     title: 'Zakazane konsultacije bez dolaska u Srbiji 2026: kako smanjiti no-show leadova',
     excerpt: 'Zakazani razgovori ne znače prodaju ako ljudi ne dođu ili dođu bez konteksta. Evo kako smanjiti no-show i zaštititi kvalitet leadova.',

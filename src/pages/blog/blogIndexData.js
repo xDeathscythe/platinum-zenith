@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "cpl-nije-cac-cena-akvizicije-kupca-srbija-2026",
+    "title": "CPL nije CAC u Srbiji 2026: koliko stvarno košta novi kupac",
+    "excerpt": "Jeftin lead ne znači jeftinog kupca. Naučite razliku između CPL-a i CAC-a pre nego što povećate marketing budžet ili promenite agenciju.",
+    "date": "2026-06-16",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "zakazane-konsultacije-no-show-leadovi-prodaja-srbija-2026",
     "title": "Zakazane konsultacije bez dolaska u Srbiji 2026: kako smanjiti no-show leadova",
     "excerpt": "Zakazani razgovori ne znače prodaju ako ljudi ne dođu ili dođu bez konteksta. Evo kako smanjiti no-show i zaštititi kvalitet leadova.",
