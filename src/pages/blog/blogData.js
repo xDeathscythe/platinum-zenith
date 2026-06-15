@@ -1,5 +1,114 @@
 const rawBlogPosts = [
   {
+    slug: 'zakazane-konsultacije-no-show-leadovi-prodaja-srbija-2026',
+    title: 'Zakazane konsultacije bez dolaska u Srbiji 2026: kako smanjiti no-show leadova',
+    excerpt: 'Zakazani razgovori ne znače prodaju ako ljudi ne dođu ili dođu bez konteksta. Evo kako smanjiti no-show i zaštititi kvalitet leadova.',
+    date: '2026-06-15',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Lead Generation', 'Prodaja', 'No-show', 'Follow-up', 'Konverzija'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Zakazan razgovor nije isto što i prodaja
+
+Mnoge firme tek posle prvih kampanja otkriju novi problem: oglasi dovode upite, forma radi, ljudi čak zakažu razgovor, ali se deo njih ne pojavi. Drugi dođu na poziv bez jasnog budžeta, bez odluke, bez osnovnog konteksta i bez osećaja da je razgovor važan.
+
+Na papiru kampanja izgleda bolje nego ranije. Ima više zakazanih termina. U praksi prodaja gubi vreme, kalendar se puni praznim slotovima, a tim počinje da sumnja u kvalitet leadova.
+
+Česta greška je da se zakazivanje tretira kao kraj funnel-a. Neko je kliknuo, popunio formu i izabrao termin. Gotovo. Ali kod uslužnih firmi, konsultacija je tek prelaz između marketinga i prodaje. Ako je taj prelaz slab, novac curi baš tamo gde izveštaj često kaže da je sve u redu.
+
+Ako tek postavljate kampanje, prvo proverite realan okvir za [cenu Google reklama](/google-reklame-cena) i [cene digitalnog marketinga](/cene-digitalnog-marketinga). Cena leada nema mnogo smisla ako ne znate koliko zakazanih razgovora stvarno dođe do prodajne šanse.
+
+## Zašto ljudi zakažu pa ne dođu
+
+No-show nije uvek znak da je lead loš. Nekad jeste. Ali često je znak da proces između forme i razgovora nije dovoljno jasan.
+
+Neke firme pošalju generički automatski email bez objašnjenja šta se dešava sledeće. Neke nemaju SMS ili WhatsApp potvrdu. Neke puste da prođe tri dana između upita i termina, pa se osoba ohladi ili reši problem kod konkurencije. Neke zakažu razgovor sa osobom koja nikad nije razumela cenu, rok, uslove ili za koga je usluga namenjena.
+
+Tada korisnik ne doživljava termin kao dogovor. Doživljava ga kao opciju. Ako se pojavi nešto hitnije, ne dolazi. Ako ga konkurencija pozove pre vas, odustaje. Ako nije siguran da je usluga za njega, jednostavno preskoči.
+
+Zato problem nije samo u podsetniku. Problem je u vrednosti koju osoba vidi pre razgovora.
+
+## Forma treba da kvalifikuje pre kalendara
+
+Najskuplji no-show je onaj koji je mogao biti sprečen pre zakazivanja. Ako forma pita samo ime, telefon i email, prodaja tek na pozivu saznaje da osoba nema budžet, nije u zoni usluge, ne odlučuje sama ili traži nešto što firma ne radi.
+
+Bolji proces ne mora da bude dug. Dovoljno je nekoliko pitanja koja prodaja ionako postavlja: šta želite da rešite, koji je okvir budžeta, kada vam treba rešenje, da li već imate sajt ili kampanju, ko donosi odluku i šta ste do sada probali.
+
+To ne znači da treba ubiti konverziju formularom od dvadeset polja. Cilj je da se odvoji radoznalost od realne namere. Ako osoba ne želi da napiše osnovni kontekst, možda nije spremna za konsultaciju od 30 minuta.
+
+Detaljniji okvir je u tekstu o [kontakt formi koja kvalifikuje leadove](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026). Za zakazane konsultacije, kvalifikacija ne služi da odbije sve. Služi da razgovor počne od pravog problema, a ne od praznog predstavljanja.
+
+## Hvala strana mora da potvrdi ozbiljnost termina
+
+Posle forme mnoge firme prikažu samo "hvala, javićemo se" ili generičku potvrdu kalendara. To je propušten trenutak. Osoba je tada najviše zainteresovana i treba joj jasno reći šta se dešava sledeće.
+
+Dobra hvala strana treba da potvrdi termin, objasni ko zove, koliko razgovor traje, šta treba pripremiti i šta se dobija posle razgovora. Ako je potrebno, može tražiti još jedan mali korak: poslati URL sajta, trenutni budžet, screenshot kampanje ili kratak opis problema.
+
+To smanjuje broj ljudi koji termin shvate olako. Kada osoba zna da će razgovor biti konkretan, veća je šansa da se pojavi spremna. Kada vidi samo generičku potvrdu, kalendar postaje još jedan klik u nizu.
+
+O ovome smo detaljnije pisali u tekstu o [hvala strani posle forme](/blog/hvala-strana-posle-forme-leadovi-prodaja-srbija-2026). Hvala strana nije dekoracija. To je prvi follow-up posle konverzije.
+
+## Podsetnici moraju imati kontekst, ne samo datum
+
+Podsetnik tipa "imate zakazan sastanak sutra u 10" je bolji nego ništa. Ali ne rešava glavni problem ako osoba ne zna zašto razgovor vredi njenog vremena.
+
+Bolji podsetnik kaže: "Sutra pričamo o tome zašto kampanja dovodi upite koji se ne pretvaraju u klijente. Pripremite trenutni budžet, link ka sajtu i informaciju koliko upita mesečno dobijate." To je konkretno. Vraća osobu u problem zbog kog je zakazala razgovor.
+
+Za skuplje usluge ima smisla imati tri dodira: potvrda odmah posle zakazivanja, podsetnik dan ranije i kratka poruka nekoliko sati pre termina. Ako je lead došao iz hitne namere, treba reagovati još brže, jer se odluka često donosi pre zakazanog termina.
+
+Tu se direktno nadovezuje tekst o [brzini odgovora na upit](/blog/brzina-odgovora-na-upit-follow-up-prodaja-srbija-2026). Što je veći razmak između interesovanja i razgovora, to više morate graditi razlog da osoba ostane u procesu.
+
+## Prodaja treba da zna iz kog razloga je razgovor zakazan
+
+Još jedan čest kvar nastaje kada prodaja uđe u poziv bez konteksta. Osoba je popunila formu, možda kliknula oglas o Google Ads-u, možda pročitala tekst o ceni, možda tražila izradu landing strane. Ako prodavac svejedno počne sa "recite nam čime se bavite", razgovor gubi momentum.
+
+CRM ili makar dobra tabela treba da čuva izvor, kampanju, landing stranu, ključne odgovore iz forme, termin, status i sledeću akciju. Bez toga se svaki razgovor tretira kao izolovan događaj, a marketing ne dobija povratnu informaciju o kvalitetu.
+
+Ako se pet zakazanih konsultacija ne pojavi, treba znati iz kog kanala su došle, koliko su čekale termin, da li su dobile potvrdu, da li su imale budžet i šta je pisalo u poruci. Tek tada se zna da li treba menjati oglase, formu, hvala stranu, podsetnike ili prodajni proces.
+
+Za osnovni sistem pogledajte tekst o [CRM evidenciji za leadove](/blog/crm-za-leadove-evidencija-prodaja-srbija-2026). Bez evidencije, no-show ostaje osećaj. Sa evidencijom, postaje konkretan kvar koji može da se popravi.
+
+## Ne zakazujte isti tip razgovora za svaki lead
+
+Nisu svi leadovi za isti format. Neko je spreman za prodajnu konsultaciju. Neko treba prvo da dobije kratak kvalifikacioni poziv od 10 minuta. Neko treba da pročita cenu ili okvir usluge pre nego što uđe u kalendar. Neko nije dobar fit i bolje je da ne zauzima termin.
+
+Česta greška je da se svima ponudi isti 30 ili 45-minutni poziv. To deluje profesionalno, ali pravi gužvu ako kampanja počne da radi. Prodaja onda troši ozbiljne termine na ljude koji još nisu ni blizu odluke.
+
+Bolji sistem može imati više koraka. Za tople leadove ide konsultacija. Za nejasne leadove ide kratak poziv za kvalifikaciju. Za ljude koji pitaju samo cenu ide stranica sa okvirima, pa tek onda kontakt. Za veće projekte ide priprema pre sastanka.
+
+Ovo je posebno važno kada se meri [maksimalna cena leada](/blog/maksimalna-cena-leada-srbija-2026). Ako svaki lead troši isti prodajni kapacitet, skuplji lead može biti neisplativ čak i kada je kampanja tehnički dobro podešena.
+
+## Merenje mora razlikovati zakazano, održano i prodato
+
+Ako izveštaj meri samo zakazane konsultacije, kampanja može izgledati uspešno dok prodaja zapravo gubi vreme. Potrebna su najmanje tri statusa: zakazano, održano i kvalifikovana prodajna šansa. Još bolje je pratiti poslatu ponudu, prihvaćenu ponudu i naplatu.
+
+Tada se vidi prava slika. Možda kampanja A ima skuplji lead, ali više održanih razgovora i više prodaje. Možda kampanja B donosi mnogo jeftinih zakazivanja, ali pola ljudi ne dođe. Bez ovih statusa, algoritam i tim jure pogrešan signal.
+
+Tekst o [praćenju konverzija za lead generation](/blog/pracenje-konverzija-lead-generation-srbija-2026) je ovde obavezan. Zakazana konsultacija može biti mikro-konverzija. Ali za optimizaciju budžeta mnogo je vrednije znati koji razgovori su se održali i šta je iz njih nastalo.
+
+## Kako popraviti proces bez velikog projekta
+
+Ne mora se odmah praviti novi sajt, novi CRM i kompletna automatizacija. Krenite od najkraćeg puta.
+
+Prvo, dodajte dva ili tri kvalifikaciona pitanja pre kalendara. Drugo, sredite hvala stranu da objasni sledeći korak. Treće, pošaljite potvrdu koja govori zašto razgovor vredi. Četvrto, uvedite podsetnik sa kontekstom. Peto, u CRM-u odvojite zakazano, održano, nije došao, nije fit, ponuda poslata i prodato.
+
+Posle dve do četiri nedelje obično se vidi gde je najveći kvar. Ako ljudi ne zakazuju, problem je možda u ponudi ili prvom ekranu. Ako zakazuju pa ne dolaze, problem je u potvrdi, brzini i kvalifikaciji. Ako dolaze ali ne kupuju, problem je verovatno u prodajnom razgovoru, ceni, poverenju ili ponudi.
+
+Za taj deo korisno je spojiti ovaj proces sa tekstom o [prodajnom pozivu za leadove](/blog/prodajni-poziv-za-leadove-srbija-2026) i [dokazima poverenja na sajtu](/blog/dokazi-poverenja-na-sajtu-konverzija-srbija-2026). Funnel ne puca uvek na jednom mestu.
+
+## Kako Platinum Zenith može da pomogne
+
+Zakazane konsultacije su dobar signal samo ako vode ka stvarnim razgovorima i prodaji. Ako se kalendar puni, a prihodi ne prate broj termina, treba pogledati ceo prelaz od oglasa do prodajnog procesa: landing stranu, formu, hvala stranu, podsetnike, CRM statuse i način vođenja poziva.
+
+Ako imate kampanju koja dovodi upite, ali deo ljudi ne dolazi na zakazane razgovore ili razgovori ne prelaze u ozbiljne ponude, pošaljite nam URL, trenutni funnel, prosečan broj zakazanih i održanih konsultacija, budžet i kako sada šaljete podsetnike. Javite se preko [kontakt strane](/kontakt). Možemo brzo da vidimo da li problem leži u kvalitetu leada, procesu zakazivanja ili prodajnom follow-up-u.
+`,
+  },
+  {
     slug: 'google-ads-za-rent-a-car-cena-rezervacije-srbija-2026',
     title: 'Google Ads za rent a car u Srbiji 2026: cena rezervacije i budžet',
     excerpt: 'Google Ads za rent a car radi samo kada razdvojite aerodrom, grad, turiste i poslovne najmove. Evo kako planirati budžet i cenu rezervacije.',

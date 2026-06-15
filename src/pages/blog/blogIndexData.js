@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "zakazane-konsultacije-no-show-leadovi-prodaja-srbija-2026",
+    "title": "Zakazane konsultacije bez dolaska u Srbiji 2026: kako smanjiti no-show leadova",
+    "excerpt": "Zakazani razgovori ne znače prodaju ako ljudi ne dođu ili dođu bez konteksta. Evo kako smanjiti no-show i zaštititi kvalitet leadova.",
+    "date": "2026-06-15",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-rent-a-car-cena-rezervacije-srbija-2026",
     "title": "Google Ads za rent a car u Srbiji 2026: cena rezervacije i budžet",
     "excerpt": "Google Ads za rent a car radi samo kada razdvojite aerodrom, grad, turiste i poslovne najmove. Evo kako planirati budžet i cenu rezervacije.",
