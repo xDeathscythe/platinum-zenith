@@ -1,5 +1,102 @@
 const rawBlogPosts = [
   {
+    slug: 'kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026',
+    title: 'Kapacitet prodaje i marketing budžet u Srbiji 2026: kada više leadova pravi gubitak',
+    excerpt: 'Veći budžet ne pomaže ako prodaja ne može brzo da obradi upite. Evo kako kapacitet tima menja CPL, CAC, ROI i plan skaliranja.',
+    date: '2026-06-17',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Marketing budžet', 'Prodaja', 'Lead Generation', 'ROI', 'Skaliranje'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Više leadova može da napravi veći problem
+
+Mnoge firme u Srbiji gledaju marketing budžet kroz jednostavno pitanje: koliko još upita možemo da dobijemo ako povećamo ulaganje? Na papiru to zvuči logično. Ako kampanja donosi leadove, veći budžet treba da donese više leadova, a više leadova treba da donese više prodaje.
+
+U praksi se često desi suprotno. Firma poveća budžet, broj upita poraste, ali prodaja kasni sa odgovorima, razgovori postaju površni, ponude se šalju generički, a ozbiljni kupci čekaju iza slabijih kontakata. Izveštaj kaže da marketing radi više. Vlasnik vidi da se profit ne pomera dovoljno.
+
+Česta greška je da se kapacitet prodaje ne računa kao deo marketing plana. Kao da lead nestaje iz marketinga čim stigne forma ili poziv. Ali ako prodaja nema vreme, skriptu, CRM, vlasništvo i brzinu odgovora, dodatni budžet može samo skuplje da proizvede gužvu.
+
+Ako razmišljate o [Google reklamama](/google-reklame-cena) ili širem paketu kroz [digitalni marketing](/cene-digitalnog-marketinga), nemojte prvo pitati samo koliko klikova može da se kupi. Prvo pitajte koliko kvalitetnih razgovora tim može da obradi bez pada brzine, fokusa i zatvaranja.
+
+## Šta znači kapacitet prodaje
+
+Kapacitet prodaje nije samo broj ljudi u timu. To je broj ozbiljnih upita koje firma može da primi, kvalifikuje, pozove, isprati i zatvori u realnom roku. Jedna osoba može obraditi mnogo jednostavnih poziva ako je ponuda jasna. Ista osoba može zapeti na deset kompleksnih B2B upita ako svaki traži istraživanje, prilagođenu ponudu i više follow-up koraka.
+
+Kapacitet zavisi od nekoliko stvari: vremena prvog odgovora, dužine razgovora, kvaliteta forme, jasnoće cene, broja odluka koje prodaja mora da donese, brzine slanja ponude i discipline u praćenju statusa. Ako bilo koji deo puca, dodatni leadovi ne ulaze u uredan proces. Samo se gomilaju.
+
+Zato isti marketing budžet može biti odličan za firmu koja ima sistem, a loš za firmu koja sve drži u glavi vlasnika. Nije problem samo u kampanji. Problem je u tome što kampanja puni cev koja već curi.
+
+## Zašto previše upita može da pokvari ROI
+
+Kada broj upita poraste iznad kapaciteta, obično se dese tri stvari. Prvo, opadne brzina odgovora. Drugo, prodaja počne da bira najlakše razgovore umesto najvrednijih prilika. Treće, kvalitet follow-up-a padne jer niko nema vremena da se vrati ljudima koji nisu kupili odmah.
+
+Na nivou izveštaja, CPL može izgledati dobro. Cena po leadu možda čak padne jer veći budžet donosi više formulara. Ali stvarni CAC raste ako manji procenat leadova postaje kupac. O tome smo pisali u tekstu [CPL nije CAC](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026): jeftiniji upit ne znači jeftinijeg kupca ako prodaja ne može da ga obradi.
+
+Primer je jednostavan. Firma dobija 40 upita mesečno i zatvara osam kupaca. Zatim poveća budžet i dobije 90 upita, ali prodaja zbog gužve zatvori samo deset kupaca. Broj kupaca jeste porastao, ali je stopa zatvaranja pala, tim je preopterećen, a trošak po kupcu može biti lošiji nego pre skaliranja.
+
+## Koliko razgovora tim realno može da iznese
+
+Pre povećanja budžeta, korisno je napraviti vrlo prizeman obračun. Koliko novih upita dnevno tim može da pozove u prvih 5 do 30 minuta? Koliko kvalifikacionih razgovora može da obavi bez žurbe? Koliko ponuda može da pošalje istog dana? Koliko follow-up zadataka može da isprati bez oslanjanja na pamćenje?
+
+Ako jedan prodajni razgovor traje 20 minuta, a priprema i zapisivanje još 10 minuta, deset ozbiljnih razgovora nije sitnica. To je pet sati fokusiranog rada, bez ponuda, interne komunikacije i vraćanja na stare prilike. Ako tim već ima operativni posao pored prodaje, kapacitet je još manji.
+
+Česta greška je da firma planira budžet po željenom broju leadova, a ne po broju kvalitetno obrađenih leadova. Bolje je imati 35 upita koji dobiju brz, dobar tretman nego 100 upita koji čekaju, dobiju kopiran odgovor ili se izgube u porukama.
+
+## Kvalifikacija mora zaštititi prodajno vreme
+
+Ako prodaja nema kapacitet, ne znači da marketing treba stati. Znači da sistem mora bolje filtrirati i usmeravati upite. Dobra [kontakt forma za kvalifikaciju leadova](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026) može pitati za tip usluge, lokaciju, rok, okvir budžeta, veličinu problema i najbolji kanal za kontakt. Ta pitanja nisu tu da oteraju ljude. Tu su da ozbiljni upiti brže dođu do prave osobe.
+
+Kada svi upiti izgledaju isto, prodaja troši isto vreme na osobu koja je spremna da kupi i na osobu koja samo skuplja cene. Kada forma i tracking daju kontekst, prodaja može da radi prioritetno. Vrući lead dobija poziv odmah. Srednji lead dobija kratku kvalifikaciju. Slabiji lead dobija koristan odgovor, resurs ili cenovni okvir bez zauzimanja punog prodajnog termina.
+
+Ovo se direktno nadovezuje na [lead scoring](/blog/lead-scoring-prioritet-upita-prodaja-srbija-2026). Kada kapacitet nije beskonačan, scoring nije luksuz. To je način da najvrednije prilike ne čekaju iza najglasnijih pitanja.
+
+## Brzina odgovora je deo budžeta, ne dodatak
+
+Marketing budžet se često planira kao novac za oglase, agenciju i možda landing stranu. Vreme prodaje ostane nevidljivo. A baš tu se često lomi ROI. Ako lead stiže danas u 10:00, a prvi ozbiljan odgovor dobije sutra popodne, deo budžeta je već bačen.
+
+To ne znači da prodaja mora panično zvati svakoga. Znači da mora postojati dogovor. Ko odgovara na A leadove? Ko preuzima B leadove? Kada se šalje prvi odgovor? Šta se dešava ako se osoba ne javlja? Ko upisuje status u CRM? Bez toga, veći budžet samo pravi više situacija u kojima niko nije siguran čiji je lead.
+
+Ako već imate problem sa kašnjenjem, tekst o [brzini odgovora na upit](/blog/brzina-odgovora-na-upit-follow-up-prodaja-srbija-2026) je bolja priprema za povećanje budžeta nego još jedna kampanja. Nekad najbrži rast ne dolazi iz više klikova, nego iz toga da se postojeći leadovi obrade dok su još topli.
+
+## CRM pokazuje gde kapacitet puca
+
+Bez evidencije, vlasnik obično čuje samo utiske. Marketing kaže da ima leadova. Prodaja kaže da su leadovi slabi. Neko kaže da se ljudi ne javljaju. Neko drugi kaže da nema vremena. Sve može biti tačno, ali bez CRM-a nema jasne odluke.
+
+Minimum koji treba pratiti je: izvor leada, vreme dolaska, vreme prvog odgovora, status, score, vrednost prilike, poslata ponuda, sledeća akcija i razlog gubitka. Posle mesec dana postaje vidljivo da li puca brzina, kvalifikacija, ponuda, cena, follow-up ili stvarno kvalitet kampanje.
+
+Zato [CRM za leadove](/blog/crm-za-leadove-evidencija-prodaja-srbija-2026) nije administracija radi administracije. On je instrument tabla za kapacitet prodaje. Ako ne znate gde leadovi zapinju, povećanje budžeta je nagađanje.
+
+## Kada treba povećati budžet, a kada prvo srediti proces
+
+Budžet ima smisla povećati kada postoje tri signala. Prvi je da kampanja donosi dovoljno upita koji se uklapaju u ponudu. Drugi je da prodaja može da odgovori brzo i dosledno. Treći je da CRM pokazuje da se veći broj prilika zatvara bez velikog pada kvaliteta razgovora.
+
+Ako bilo koji signal fali, prvo sredite usko grlo. Ako upiti kasne u obradi, popravite vlasništvo i brzinu. Ako dolazi previše slabih upita, popravite poruku, formu, ključne reči i negativne termine. Ako ponude stoje bez odgovora, sredite follow-up. Ako tim nema vreme, razmislite o kalendaru, automatskim odgovorima, boljim pitanjima u formi ili dodatnoj prodajnoj podršci.
+
+Tek posle toga priča o skaliranju ima smisla. Tekst [kada povećati marketing budžet](/blog/kada-povecati-marketing-budzet-skaliranje-srbija-2026) pokriva širu odluku, ali kapacitet prodaje je jedan od prvih filtera. Ako tim ne može da primi više prilika, veći budžet nije investicija. To je stres test koji će verovatno pokazati postojeće pukotine.
+
+## Kako izračunati budžet prema kapacitetu
+
+Jednostavan model izgleda ovako. Prvo odredite koliko kvalitetnih razgovora prodaja može da obradi nedeljno. Zatim procenite koliko upita treba da dođe da biste dobili taj broj razgovora. Onda izračunajte maksimalan CPL i CAC prema marži, prosečnoj vrednosti klijenta i periodu povrata.
+
+Ako prodaja može kvalitetno obraditi 25 novih upita nedeljno, nema smisla kupovati 60 upita nedeljno bez dodatnog procesa. Ako želite 60, morate unapred rešiti ko ih obrađuje, kako se prioriteti određuju, šta se automatizuje i kada se uvodi dodatna prodajna podrška.
+
+Za finansijski deo korisni su okviri iz tekstova o [maksimalnoj ceni leada](/blog/maksimalna-cena-leada-srbija-2026), [break-even tački marketing budžeta](/blog/break-even-marketing-budzeta-srbija-2026) i [periodu povrata](/blog/period-povrata-marketing-budzeta-srbija-2026). Kapacitet prodaje dodaje još jedno pitanje: čak i ako brojke mogu da rade, može li tim da iznese tempo?
+
+## Šta Platinum Zenith proverava pre skaliranja
+
+Pre nego što preporučimo veći budžet za lead generation, gledamo ceo put od klika do prodaje. Koja stranica prima saobraćaj? Koja pitanja forma postavlja? Koliko brzo se odgovara? Ko ima vlasništvo nad leadom? Da li postoji CRM? Koliko upita postaje razgovor, koliko razgovora ponuda, a koliko ponuda klijent?
+
+Ako se pokaže da je kampanja ograničenje, budžet se može širiti. Ako se pokaže da prodaja već radi na ivici, prvo popravljamo proces. To može značiti bolju landing stranu, jasnije cene, kvalifikacionu formu, scoring, automatizovan prvi odgovor, CRM pipeline ili jednostavnu skriptu za prodajni poziv.
+
+Ako imate upite, ali ne znate da li vam treba veći budžet ili bolji prodajni proces, javite se preko [kontakt strane](/kontakt). Pošaljite mesečni broj leadova, prosečno vreme odgovora, stopu zakazanih razgovora, broj poslatih ponuda, prosečnu vrednost klijenta i trenutni budžet. Možemo da procenimo da li je sledeći korak više saobraćaja, bolja kvalifikacija ili prodajni kapacitet koji neće gušiti ROI.
+`,
+  },
+  {
     slug: 'lead-scoring-prioritet-upita-prodaja-srbija-2026',
     title: 'Lead scoring u Srbiji 2026: kako rangirati upite pre prodajnog poziva',
     excerpt: 'Nisu svi leadovi jednako hitni. Lead scoring pomaže da prodaja prvo zove upite sa budžetom, potrebom i jasnim sledećim korakom.',

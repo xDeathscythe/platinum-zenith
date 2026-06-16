@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026",
+    "title": "Kapacitet prodaje i marketing budžet u Srbiji 2026: kada više leadova pravi gubitak",
+    "excerpt": "Veći budžet ne pomaže ako prodaja ne može brzo da obradi upite. Evo kako kapacitet tima menja CPL, CAC, ROI i plan skaliranja.",
+    "date": "2026-06-17",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "lead-scoring-prioritet-upita-prodaja-srbija-2026",
     "title": "Lead scoring u Srbiji 2026: kako rangirati upite pre prodajnog poziva",
     "excerpt": "Nisu svi leadovi jednako hitni. Lead scoring pomaže da prodaja prvo zove upite sa budžetom, potrebom i jasnim sledećim korakom.",
