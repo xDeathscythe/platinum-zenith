@@ -1,5 +1,92 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-decije-igraonice-cena-rodjendana-srbija-2026',
+    title: 'Google Ads za dečije igraonice u Srbiji 2026: cena rođendana i budžet',
+    excerpt: 'Google Ads može puniti termine za rođendane ako kampanja odvaja hitne roditelje, lokaciju, kapacitet i paket. Evo kako računati cenu upita.',
+    date: '2026-06-16',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Dečije igraonice', 'Lokalni marketing', 'Rođendani', 'Lead Generation'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Roditelji ne traže igraonicu kao što traže običnu uslugu
+
+Dečija igraonica ne prodaje samo prostor. Prodaje miran rođendan, zauzet termin, paket koji se uklapa u budžet i osećaj da će deca biti bezbedna, aktivna i srećna. Zato Google Ads za igraonice ne treba voditi kao generičku lokalnu kampanju sa porukom “najbolja igraonica u gradu”.
+
+Česta greška je da igraonica pusti oglase na široke termine, dobije mnogo klikova, nekoliko poruka na Instagramu i onda ne zna da li je kampanja donela zakazane rođendane ili samo radoznale roditelje. Još veći problem nastaje kada se svi upiti mere isto: mama koja traži termin za sledeću subotu, neko ko pita za cenu iz radoznalosti i osoba koja je van zone dolaska.
+
+Ako ulažete u [Google reklame](/google-reklame-cena), cilj nije da imate najviše upita. Cilj je da dobijete dovoljno ozbiljnih upita za termine koje stvarno možete da popunite, po ceni koja ima smisla za paket, kapacitet i sezonu.
+
+## Koliko može da vredi jedan upit za rođendan
+
+Prvi broj nije cena klika. Prvi broj je vrednost rezervisanog rođendana. Ako osnovni paket košta 22.000 dinara, a prosečan roditelj doda hranu, dekoraciju, animatora ili duži termin, realna vrednost može biti znatno veća od početne cene.
+
+Zato cena upita od 800, 1.500 ili 3.000 dinara ne znači ništa sama po sebi. Ako od deset upita tri postanu rezervacije, a svaka rezervacija nosi zdravu maržu, kampanja može biti dobra i kada pojedinačni lead nije najjeftiniji. Ako od trideset upita jedan roditelj rezerviše, problem nije samo u oglasu. Možda fali cena na stranici, brži odgovor, bolja ponuda paketa ili jasan prikaz slobodnih termina.
+
+Koristan okvir je da izračunate maksimalnu cenu upita unazad iz marže i stope zatvaranja. O tome detaljnije pišemo u tekstu o [maksimalnoj ceni leada](/blog/maksimalna-cena-leada-srbija-2026). Za igraonicu je posebno važno da ne gledate samo broj poruka, već rezervisane i naplaćene termine.
+
+## Ključne reči treba podeliti po nameri
+
+Nisu sve pretrage iste. “Dečija igraonica Novi Sad” je druga namera od “igraonica za rođendan Novi Sad”, “proslava prvog rođendana”, “animatori za decu” ili “igraonica slobodni termini”. Jedna osoba još istražuje opcije, druga već traži mesto za konkretan datum.
+
+Kampanja obično radi bolje kada se odvoje grupe po nameri: rođendani, slobodna igra, privatne proslave, prvi rođendan, veće grupe, lokacija i hitni termini. Tako možete prilagoditi tekst oglasa. Roditelj koji traži rođendan želi da vidi pakete, kapacitet, trajanje termina, cenu, lokaciju, parking, hranu i način rezervacije.
+
+Česta greška je da oglas obećava sve svima. Tada klikovi dolaze, ali stranica ne odgovara dovoljno konkretno. Bolje je imati manje grupa, ali jasnije poruke i landing stranu koja prati tačnu pretragu.
+
+## Lokacija i zona dolaska su pola kampanje
+
+Dečije igraonice su lokalni biznis. Roditelj neće voziti preko celog grada ako postoji slična opcija bliže kući, školi ili vrtiću. Zato kampanja mora da bude pažljiva sa lokacijom. Preširoko targetiranje često pravi jeftine klikove koji se nikad ne pretvore u rezervaciju.
+
+Za Beograd, Novi Sad, Niš ili Kragujevac nije dovoljno targetirati ceo grad i nadati se najboljem. Nekad ima smisla odvojiti opštine, kvartove ili pretrage koje sadrže lokaciju. Ako ste blizu velikog naselja, tržnog centra, škole ili vrtića, to treba da se vidi u oglasu i na stranici.
+
+Tu pomaže i lokalni dokaz poverenja: fotografije prostora, tačna adresa, mapa, parking, recenzije, pravila za roditelje i jasna komunikacija oko bezbednosti. Bez toga roditelj često klikne, pogleda, pa ode da pita za preporuku u Viber grupi.
+
+## Landing strana ne sme da krije pakete
+
+Mnoge igraonice šalju saobraćaj na Instagram profil ili početnu stranu sajta. To može da radi ako je brend već poznat, ali za plaćeni Google klik često pravi previše trenja. Roditelj mora da skroluje, traži cene, šalje poruku i čeka odgovor.
+
+Bolja landing strana za rođendane treba odmah da pokaže: za koji uzrast je prostor, koliko dece prima, koji paketi postoje, šta je uključeno, koliko traje termin, koje dodatne usluge postoje, gde se nalazite i kako se rezerviše. Ako ne želite da objavite tačnu cenu, prikažite bar cenovni okvir ili “paketi od”.
+
+Sakrivanje cene često donese više poruka, ali slabiji kvalitet razgovora. To smo obradili u tekstu o tome kako [cene na sajtu utiču na kvalitet leadova](/blog/cene-na-sajtu-usluge-kvalitet-leadova-srbija-2026). Kod igraonica, cena nije samo filter. Ona roditelju pomaže da brzo shvati da li ste ozbiljna opcija za njegov budžet.
+
+## Forma i poziv treba da kvalifikuju upit
+
+Ako svaki upit glasi “koja je cena”, prodaja se pretvara u ručno ponavljanje istih informacija. Dobra forma za igraonicu ne mora biti duga, ali treba da skupi podatke koji menjaju odgovor: datum proslave, uzrast deteta, okviran broj dece, željeni paket, grad ili deo grada, telefon i preferirani način kontakta.
+
+Za hitne termine, telefon i WhatsApp često rade bolje od spore email komunikacije. Za roditelje koji planiraju mesec dana unapred, forma sa jasnim sledećim korakom može biti dovoljna. Bitno je da se svaki upit meri po izvoru, kampanji i ishodu, ne samo kao “stigla poruka”.
+
+Pogledajte i tekst o [kontakt formi za kvalifikaciju leadova](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026) i [praćenju konverzija](/blog/pracenje-konverzija-lead-generation-srbija-2026). Bez toga se lako desi da kampanja dobije zasluge za upite koji nikad nisu mogli da postanu rezervacija.
+
+## Sezona menja budžet i poruku
+
+Igraonice nemaju isti pritisak tokom cele godine. Vikendi, hladniji meseci, raspusti, praznici i periodi kada roditelji organizuju proslave u zatvorenom menjaju potražnju. Kampanja koja radi dobro u novembru ne mora imati istu logiku u maju.
+
+U sezoni je važno gurati slobodne termine, popularne pakete i brzu rezervaciju. Van sezone može imati smisla testirati radne dane, manje grupe, školske proslave, team building za decu ili posebne tematske pakete. Budžet ne treba rasporediti ravno kroz mesec ako već znate da se najbolji termini prodaju vikendom.
+
+Ovo se uklapa u širu temu [raspodele marketing budžeta](/blog/raspodela-marketing-budzeta-oglasi-sajt-prodaja-srbija-2026). Nekad nije problem što je budžet mali. Problem je što se troši u pogrešne dane, na pogrešne pretrage ili na termine koje igraonica ne želi dodatno da puni.
+
+## Brzina odgovora često odlučuje rezervaciju
+
+Roditelji uglavnom ne kontaktiraju samo jednu igraonicu. Ako neko pošalje tri poruke i jedna igraonica odgovori za pet minuta sa jasnim paketom, slobodnim terminima i sledećim korakom, ona ima veliku prednost. Ako odgovor stigne sutra, upit je često već izgubljen.
+
+Zato Google Ads za igraonicu nije samo kampanja. To je dogovor kako se upit obrađuje. Ko odgovara? U kom roku? Da li se odmah šalje cenovnik? Da li postoji skripta za najčešća pitanja? Da li se upit vraća u evidenciju ako roditelj kaže “javiću se”?
+
+Tekst o [brzini odgovora na upit](/blog/brzina-odgovora-na-upit-follow-up-prodaja-srbija-2026) ovde je direktno primenljiv. Plaćeni klik je samo ulaz. Rezervaciju zatvara kombinacija brzine, jasne ponude i poverenja.
+
+## Koliki budžet ima smisla za test
+
+Za lokalnu igraonicu test ne mora biti ogroman, ali mora biti dovoljno ozbiljan da pokaže obrazac. Ako se potroši premalo, kampanja dobije nekoliko klikova, jedan slučajan upit i vlasnik zaključi da “Google ne radi”. To nije test, to je grebanje po površini.
+
+Razuman početak je da definišete zonu, najvažnije termine, ciljnu cenu rezervacije, landing stranu i način merenja. Zatim pustite budžet koji može doneti dovoljno klikova i upita za odluku. Ukupan okvir treba posmatrati zajedno sa [cenom digitalnog marketinga](/cene-digitalnog-marketinga), jer nije isto platiti samo klikove i imati ceo sistem koji meri rezervacije.
+
+Ako imate igraonicu i niste sigurni da li vam problem leži u oglasima, stranici, cenama, slikama prostora ili odgovaranju na upite, javite se preko [kontakt strane](/kontakt). Pošaljite grad, prosečnu cenu paketa, kapacitet, trenutni broj upita i kako pratite rezervacije. Možemo da procenimo da li Google Ads ima smisla za vaše termine i koliko budžeta je realno testirati bez bacanja novca.
+`,
+  },
+  {
     slug: 'cpl-nije-cac-cena-akvizicije-kupca-srbija-2026',
     title: 'CPL nije CAC u Srbiji 2026: koliko stvarno košta novi kupac',
     excerpt: 'Jeftin lead ne znači jeftinog kupca. Naučite razliku između CPL-a i CAC-a pre nego što povećate marketing budžet ili promenite agenciju.',

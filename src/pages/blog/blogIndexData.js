@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-decije-igraonice-cena-rodjendana-srbija-2026",
+    "title": "Google Ads za dečije igraonice u Srbiji 2026: cena rođendana i budžet",
+    "excerpt": "Google Ads može puniti termine za rođendane ako kampanja odvaja hitne roditelje, lokaciju, kapacitet i paket. Evo kako računati cenu upita.",
+    "date": "2026-06-16",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "cpl-nije-cac-cena-akvizicije-kupca-srbija-2026",
     "title": "CPL nije CAC u Srbiji 2026: koliko stvarno košta novi kupac",
     "excerpt": "Jeftin lead ne znači jeftinog kupca. Naučite razliku između CPL-a i CAC-a pre nego što povećate marketing budžet ili promenite agenciju.",
