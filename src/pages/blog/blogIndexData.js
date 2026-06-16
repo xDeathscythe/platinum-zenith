@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "lead-scoring-prioritet-upita-prodaja-srbija-2026",
+    "title": "Lead scoring u Srbiji 2026: kako rangirati upite pre prodajnog poziva",
+    "excerpt": "Nisu svi leadovi jednako hitni. Lead scoring pomaže da prodaja prvo zove upite sa budžetom, potrebom i jasnim sledećim korakom.",
+    "date": "2026-06-16",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-decije-igraonice-cena-rodjendana-srbija-2026",
     "title": "Google Ads za dečije igraonice u Srbiji 2026: cena rođendana i budžet",
     "excerpt": "Google Ads može puniti termine za rođendane ako kampanja odvaja hitne roditelje, lokaciju, kapacitet i paket. Evo kako računati cenu upita.",

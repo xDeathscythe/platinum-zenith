@@ -1,5 +1,100 @@
 const rawBlogPosts = [
   {
+    slug: 'lead-scoring-prioritet-upita-prodaja-srbija-2026',
+    title: 'Lead scoring u Srbiji 2026: kako rangirati upite pre prodajnog poziva',
+    excerpt: 'Nisu svi leadovi jednako hitni. Lead scoring pomaže da prodaja prvo zove upite sa budžetom, potrebom i jasnim sledećim korakom.',
+    date: '2026-06-16',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Lead Scoring', 'Prodaja', 'Lead Generation', 'CRM', 'Konverzija'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Više leadova ne pomaže ako prodaja ne zna koga prvo da zove
+
+Mnoge firme u Srbiji dođu do tačke kada kampanje konačno donose upite, ali prodaja i dalje nema osećaj kontrole. Telefon zvoni, forme stižu, stižu poruke na WhatsApp i Instagram, a tim odgovara redom kako je šta upalo. Na kraju dana, neki ozbiljni kupci čekaju predugo, dok prodaja troši energiju na ljude koji nemaju budžet, nisu u pravom gradu ili samo skupljaju cene.
+
+Česta greška je da se svi leadovi tretiraju isto. Ako je neko popunio formu, dobija isti prioritet kao i osoba koja je tražila konkretnu uslugu, napisala budžet, ostavila telefon i želi poziv danas. U izveštaju oba upita izgledaju kao konverzija. U prodaji nisu ista stvar.
+
+Lead scoring je jednostavan način da firma rangira upite po šansi da postanu kupci. Ne mora odmah biti napredan softver. Za početak je dovoljno da se dogovorite koji signali znače da je lead vruć, koji znače da je samo informativan i koji upiti ne treba da zauzimaju najskuplje prodajno vreme.
+
+Ako već ulažete u [Google reklame](/google-reklame-cena) ili širi paket kroz [digitalni marketing](/cene-digitalnog-marketinga), scoring vam pomaže da ne optimizujete samo cenu upita. Pomaže da ozbiljni upiti brže dođu do prave osobe i da se budžet meri kroz prodaju, ne kroz inbox.
+
+## Šta je lead scoring u praksi
+
+Lead scoring znači da svakom upitu dodelite ocenu na osnovu podataka koje već imate. Ta ocena govori koliko brzo i na koji način prodaja treba da reaguje. Vruć lead može dobiti poziv u prvih pet minuta. Srednji lead može dobiti kvalifikacionu poruku ili kraći poziv. Slab lead može ući u email sekvencu, edukativni sadržaj ili listu za kasnije.
+
+Na primer, B2B firma može dati veći prioritet upitu koji dolazi sa stranice usluge, ima poslovni email, naveden budžet, jasan problem i rok za odluku. Manji prioritet može dobiti osoba koja je skinula vodič, ali nije opisala problem. Lokalna usluga može više vrednovati grad, hitnost, tip usluge i spremnost da se zakaže termin.
+
+Poenta nije da se ljudi etiketiraju kao dobri ili loši. Poenta je da se prodajno vreme koristi pametnije. Ako svi dobiju isti tretman, najglasniji ili najlakši upit često pojede pažnju koju je trebalo dati najboljoj prilici.
+
+## Koji signali treba da ulaze u scoring
+
+Prvi signal je namera. Lead koji dolazi sa stranice konkretne usluge, cene, Google oglasa sa visokom kupovnom namerom ili forme za konsultaciju obično je bliži odluci od osobe koja je pročitala opšti blog tekst. Zato je bitno da [praćenje konverzija](/blog/pracenje-konverzija-lead-generation-srbija-2026) razlikuje izvor, kampanju i stranicu, ne samo broj poslatih formi.
+
+Drugi signal je uklapanje u ponudu. Grad, industrija, veličina firme, tip problema, okvirni budžet i rok često mnogo znače. Upit može biti ljubazan i brz, ali ako firma ne radi tu vrstu posla, scoring treba da ga spusti. Suprotno tome, upit koji deluje zahtevno može biti vrlo dobar ako se tačno uklapa u ono što najprofitabilnije prodajete.
+
+Treći signal je spremnost za sledeći korak. Neko ko ostavi telefon, napiše kada želi poziv i odgovori na pitanje o budžetu pokazuje ozbiljniji nivo namere od osobe koja pošalje samo “cena?”. To ne znači da drugi lead treba ignorisati. Znači da mu možda treba drugačiji put, na primer kratak odgovor sa cenovnim okvirom i jednim pitanjem pre punog prodajnog razgovora.
+
+## Forma mora skupiti podatke koji menjaju prioritet
+
+Scoring ne može raditi ako forma skuplja samo ime, email i poruku. Tada prodaja mora da otkriva sve ručno, što usporava ceo proces. Dobra forma ne mora biti duga, ali mora pitati ono što menja odluku: šta vam treba, gde se nalazite, kada želite da krenete, koji je okvir budžeta, da li već imate kampanje ili sajt, ko odlučuje i koji je najbolji kanal za kontakt.
+
+Ovo se direktno nadovezuje na temu [kontakt forme za kvalifikaciju leadova](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026). Cilj nije da forma postane prepreka. Cilj je da ozbiljan kupac može brzo da pokaže da je ozbiljan, a da prodaja ne mora svaki put da vodi isti uvodni razgovor.
+
+Česta greška je dodavanje deset pitanja bez plana. Firma napravi komplikovanu formu, konverzija padne, a podaci se ne koriste. Bolji pristup je pet do sedam pitanja koja zaista menjaju scoring i sledeću akciju. Ako pitanje ne menja prioritet, skriptu, ponudu ili follow-up, verovatno ne treba da bude obavezno.
+
+## Scoring bez CRM-a brzo postane osećaj
+
+Na početku scoring može biti jednostavna tabela. Ali ako niko ne beleži status, razlog odbijanja, vrednost posla i sledeću akciju, ocene brzo postanu subjektivne. Jedan prodavac kaže da je lead dobar jer je bio prijatan. Drugi kaže da je loš jer nije kupio odmah. Marketing gleda CPL i ne zna šta se stvarno desilo.
+
+Minimum koji treba beležiti je: izvor, kampanja, stranica, score, vlasnik leada, vreme prvog odgovora, status, razlog ako nije zatvoren, poslata ponuda i vrednost ako je prodaja uspela. To je dovoljno da posle mesec dana vidite koji score stvarno donosi novac.
+
+Ako već imate veći broj upita, pogledajte okvir iz teksta o [CRM evidenciji za leadove](/blog/crm-za-leadove-evidencija-prodaja-srbija-2026). CRM nije samo baza kontakata. On je način da marketing i prodaja prestanu da se raspravljaju na osnovu utiska i počnu da gledaju isti pipeline.
+
+## Brzina odgovora treba da zavisi od ocene
+
+Ne zaslužuje svaki upit isti kanal i isti rok. Vruć lead treba pozvati brzo, često dok je još na sajtu ili dok mu je problem svež. Ako se takav upit zove sutra, scoring nije pomogao. Slabiji lead može dobiti koristan email, WhatsApp pitanje ili link ka ceni, pa tek onda poziv ako pokaže dodatnu nameru.
+
+Ovo je mesto gde se lead scoring spaja sa [brzinom odgovora na upit](/blog/brzina-odgovora-na-upit-follow-up-prodaja-srbija-2026). Nije cilj da tim panično zove svakoga za dva minuta. Cilj je da najvredniji upiti ne čekaju iza radoznalih, nepotpunih ili pogrešno uklopljenih kontakata.
+
+Jedan praktičan model je A, B i C prioritet. A lead dobija poziv odmah i ulazi u kalendar. B lead dobija kratku kvalifikaciju i jasan sledeći korak. C lead dobija odgovor, resurs ili cenovni okvir, ali ne zauzima pun prodajni slot dok ne pokaže više namere.
+
+## Kako scoring popravlja kvalitet leadova bez većeg budžeta
+
+Kada firma kaže da su leadovi loši, problem nekad jeste u kampanji. Ali često je problem u tome što niko ne zna koji leadovi su dobri, zašto su dobri i kako da ih sistemski dobije više. Bez scoring-a, marketing dobija poruku “leadovi su slabi”, ali ne zna da li su slabi zbog pogrešnih ključnih reči, preširoke publike, skrivene cene, spore prodaje ili nejasne ponude.
+
+Sa scoring-om, možete videti obrazac. Možda leadovi sa jedne kampanje imaju viši CPL, ali tri puta češće postaju A prioritet. Možda jeftini leadovi sa široke kampanje stalno završavaju kao C prioritet. Možda forma sa pitanjem o budžetu ima manje upita, ali više održanih razgovora.
+
+To se uklapa u tekst o tome kako popraviti [kvalitet upita bez većeg budžeta](/blog/losi-leadovi-kako-popraviti-kvalitet-upita-srbija-2026). Nekad najbolja optimizacija nije više novca. Nekad je bolje preusmeriti budžet ka segmentima koji daju manje, ali ozbiljnije razgovore.
+
+## Scoring pomaže da CPL i CAC ne zavaraju firmu
+
+Ako gledate samo cenu po leadu, scoring može delovati kao komplikacija. Ali kada pogledate stvarnu cenu kupca, postaje jasno zašto je važan. Lead koji ima nizak CPL, nizak score i nikad ne kupuje zapravo diže CAC. Lead koji košta više, ima visok score i često se zatvara može biti profitabilniji.
+
+Zato scoring treba povezati sa temom [CPL nije CAC](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026). Dobra agencija ne treba samo da prijavi koliko je leadova stiglo. Treba da pomogne firmi da vidi koji tip leadova pomera prodaju, koji opterećuje tim i koji treba isključiti iz kampanje.
+
+Kada score postane deo izveštaja, mesečni razgovor se menja. Umesto “imamo 80 leadova”, pitanje postaje: koliko je bilo A leadova, koliko B, koliko C, koliko je svaki segment koštao i šta je prodaja zatvorila? To je mnogo bliže poslovnoj odluci.
+
+## Jednostavan scoring model za prvi mesec
+
+Za prvi mesec ne treba graditi savršenu mašinu. Dovoljno je napraviti model od 100 poena. Namera može nositi 30 poena, uklapanje u ponudu 25, budžet 20, hitnost 15 i kvalitet kontakt podataka 10. Sve preko 75 je A lead. Od 45 do 75 je B lead. Ispod 45 je C lead.
+
+Zatim testirajte model na stvarnim upitima. Posle dve ili četiri nedelje pogledajte da li A leadovi zaista češće ulaze u razgovor, dobijaju ponudu i postaju kupci. Ako ne, promenite kriterijume. Scoring nije jednom napisan pravilnik. To je dogovor koji se popravlja kroz podatke iz prodaje.
+
+Važno je da scoring ne služi kao izgovor da se neko ne kontaktira. Svaki ozbiljan upit zaslužuje odgovor. Razlika je u tome koliko prodajnog vremena, brzine i personalizacije dobija.
+
+## Kada Platinum Zenith uvodi lead scoring
+
+Lead scoring ima smisla čim firma ima više upita nego što prodaja može kvalitetno da obradi, ili kada vlasnik ne zna zašto kampanje donose razgovore, ali ne i dovoljno kupaca. Posebno je koristan za usluge sa većom vrednošću, B2B prodaju, lokalne usluge sa hitnim terminima i firme koje već plaćaju oglase, ali ne vraćaju dovoljno podataka iz prodaje.
+
+Ako imate kampanje, forme i pozive, ali prodaja i dalje radi “ko prvi stigne”, javite se preko [kontakt strane](/kontakt). Pošaljite nam mesečni broj upita, glavne izvore, prosečnu vrednost posla, trenutni način praćenja i koliko brzo zovete leadove. Možemo da procenimo da li vam prvo treba bolji tracking, jasnija forma, CRM proces ili jednostavan lead scoring sistem koji odvaja ozbiljne prilike od šuma.
+`,
+  },
+  {
     slug: 'google-ads-za-decije-igraonice-cena-rodjendana-srbija-2026',
     title: 'Google Ads za dečije igraonice u Srbiji 2026: cena rođendana i budžet',
     excerpt: 'Google Ads može puniti termine za rođendane ako kampanja odvaja hitne roditelje, lokaciju, kapacitet i paket. Evo kako računati cenu upita.',
