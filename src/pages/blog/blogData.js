@@ -1,5 +1,92 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-solarne-panele-cena-upita-srbija-2026',
+    title: 'Google Ads za solarne panele u Srbiji 2026: cena upita i budžet',
+    excerpt: 'Za solarne panele nije bitan svaki upit, već objekat, potrošnja i spremnost za investiciju. Evo kako planirati Google Ads budžet i CPL.',
+    date: '2026-06-17',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Solarni paneli', 'Lokalni marketing', 'Lead Generation', 'Marketing budžet'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Solarni paneli nisu proizvod za masovne upite
+
+Firme koje prodaju i ugrađuju solarne panele često žele više upita, ali ne treba im baš svaki upit. Jedan vlasnik kuće pita okvirno koliko košta sistem od 5 kW. Druga osoba ima račun za struju, krov u vlasništvu, fotografije objekta i plan da investira ove godine. Treći kontakt želi subvenciju, ali nema jasnu potrošnju, budžet ni odluku u porodici ili firmi.
+
+U izveštaju sva tri mogu izgledati kao lead. U prodaji nisu ista stvar. Česta greška je da se Google Ads za solarne panele meri po što jeftinijem formularu, a ne po broju kvalifikovanih pregleda objekta, ponuda i potpisanih projekata.
+
+Ako ulažete u [Google reklame](/google-reklame-cena) ili širi [digitalni marketing](/cene-digitalnog-marketinga), cilj ne treba da bude samo više klikova na temu solarnih panela. Cilj je da kampanja dovede ljude koji imaju objekat, realnu potrošnju, okvir budžeta i razlog da razgovaraju sada.
+
+## Ko ima dobru nameru za solarnu elektranu
+
+Dobar upit obično ima nekoliko signala. Osoba zna da li se radi o kući, firmi, vikendici, farmi ili proizvodnom objektu. Ima približan račun za struju ili zna mesečnu potrošnju. Može da kaže gde je objekat, kakav je krov, da li je priključenje rešeno i kada želi ponudu.
+
+Slabiji upit često glasi samo koliko koštaju solarni paneli. Takav kontakt nije nužno loš, ali prodaja ne treba odmah da mu posveti isti tretman kao ozbiljnom projektu. Nekad je dovoljno poslati cenovni okvir, objasniti šta ulazi u ponudu i pitati za potrošnju, lokaciju i tip objekta.
+
+Zato kampanja mora razlikovati radoznalost od investicione namere. Previše firmi plaća široke termine, dobije jeftine poruke, a onda zaključi da Google Ads ne radi. Problem nije uvek kanal. Problem je što kampanja nije filtrirala ljude koji samo istražuju od onih koji mogu da kupe.
+
+## Ključne reči treba odvojiti po fazi odluke
+
+Termini kao solarni paneli cena, solarna elektrana za kuću, ugradnja solarnih panela i solarni paneli za firmu nemaju istu vrednost. Neko ko traži cenu može biti na početku. Neko ko traži ugradnju u svom gradu često je bliži razgovoru. Firma koja traži solarnu elektranu za poslovni objekat može imati potpuno drugačiju vrednost posla od kućnog sistema.
+
+Dobar nalog ne stavlja sve u jednu kampanju sa istim oglasom i istom landing stranom. Bolje je odvojiti kuće, firme, poljoprivredne objekte, industriju, subvencije i servisne upite ako ih firma pokriva. Tako se vidi gde se plaća informativan klik, a gde dolazi prilika za projekat.
+
+Negativne ključne reči su jednako bitne. Pretrage za polovne panele, DIY ugradnju, posao, šeme, besplatne subvencije ili delove koje firma ne prodaje mogu brzo potrošiti budžet. Ako se ne čiste redovno, kampanja izgleda aktivno, ali prodaja dobija razgovore koji ne mogu da završe kao projekat.
+
+## Landing strana mora kvalifikovati objekat
+
+Za solarne panele nije dovoljno da landing strana kaže da firma radi kvalitetnu ugradnju. Posetilac mora brzo da vidi za koga je usluga: kuće, firme, proizvodne hale, poljoprivredna gazdinstva ili sve navedeno. Mora da vidi šta ulazi u proces: procena potrošnje, analiza krova, dimenzionisanje sistema, ponuda, montaža, papirologija i puštanje u rad.
+
+Česta greška je skrivanje svih cena. Solarni projekat zavisi od objekta, ali posetilac ipak treba okvir. Može se prikazati raspon po veličini sistema, primer šta utiče na cenu ili minimalni budžet za ozbiljan razgovor. Tekst o [cenama na sajtu i kvalitetu leadova](/blog/cene-na-sajtu-usluge-kvalitet-leadova-srbija-2026) lepo se uklapa ovde: cenovni okvir ne tera ozbiljne kupce, nego filtrira razgovore koji nikada nisu imali šansu.
+
+Forma treba da pita stvari koje menjaju procenu. Tip objekta, grad, približna mesečna potrošnja, račun za struju, stanje krova, rok za odluku, da li je vlasništvo rešeno i najbolji kanal za kontakt. To je direktna primena [kontakt forme za kvalifikaciju leadova](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026), samo prilagođena solarnoj energiji.
+
+## Koliko može koštati kvalitetan upit
+
+Ne postoji jedna cena leada koja važi za sve firme koje rade solarne panele. CPL za kućne sisteme, male firme i veće industrijske projekte ne treba porediti bez vrednosti posla i marže. Upit od 3.000 dinara može biti preskup ako nikad ne dođe do pregleda objekta. Upit od 12.000 dinara može biti odličan ako redovno postaje projekat sa dobrom bruto maržom.
+
+Zato se maksimalan CPL računa unazad. Kolika je prosečna vrednost projekta? Kolika je bruto marža? Koliko kvalifikovanih upita treba za jedan izlazak na teren? Koliko izlazaka treba za jednu prihvaćenu ponudu? Tek tada se može reći koliko vredi lead. Okvir iz teksta o [maksimalnoj ceni leada](/blog/maksimalna-cena-leada-srbija-2026) je korisniji od poređenja sa tuđim kampanjama.
+
+Kod solarnih panela dodatni faktor je kapacitet tima. Ako firma može kvalitetno obići i izračunati deset projekata mesečno, nema smisla kupovati pedeset nefiltriranih upita. Tada marketing pravi gužvu, a ozbiljni kupci čekaju. O tome smo pisali kroz temu [kapaciteta prodaje i marketing budžeta](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026).
+
+## Praćenje ne sme stati na formi
+
+Za ovu nišu je posebno opasno meriti samo poslate forme. Pravi lanac je: klik, upit, kvalifikovan razgovor, dostavljen račun ili podaci, procena objekta, poslata ponuda, prihvaćena ponuda, uplata. Ako se tracking završi na prvom formularu, kampanja može optimizovati prema ljudima koji vole da pitaju, ne prema ljudima koji kupuju.
+
+Minimum je da se u CRM-u ili tabeli beleži izvor leada, kampanja, tip objekta, procenjena vrednost, status, razlog gubitka i sledeći korak. Bez toga marketing ne zna da li treba menjati ključne reči, oglas, landing stranu, cenu, prodajni proces ili follow-up.
+
+Ako se već koristi [praćenje konverzija](/blog/pracenje-konverzija-lead-generation-srbija-2026), treba razdvojiti običan lead od kvalifikovanog leada. Još bolje, vratiti prodajne statuse nazad u analitiku kada je moguće. Kampanja koja donosi manje leadova, ali više pregleda objekta i potpisanih ponuda, treba da pobedi kampanju sa lepšim CPL-om.
+
+## Brzina odgovora menja ishod
+
+Kod solarnih panela kupac često šalje upit na više mesta. Firma koja odgovori posle dva dana možda i dalje deluje profesionalno, ali konkurent je već zakazao razgovor, tražio račun za struju i objasnio sledeći korak. Zato brzina odgovora nije sitan operativni detalj. Ona direktno menja koliko plaćeni lead vredi.
+
+Ne mora svaki kontakt odmah dobiti dug tehnički poziv. Ali dobar prvi odgovor treba da potvrdi prijem, kaže šta je potrebno za procenu i ponudi jednostavan sledeći korak. Na primer: pošaljite račun, lokaciju i fotografiju krova, pa možemo dati okvir pre izlaska. To štedi vreme kupcu i prodaji.
+
+Tekst o [brzini odgovora na upit](/blog/brzina-odgovora-na-upit-follow-up-prodaja-srbija-2026) je posebno važan za firme gde upit prelazi iz marketinga u tehničku procenu. Ako niko ne zna ko preuzima lead, kampanja plaća pažnju koju prodaja ne koristi na vreme.
+
+## Budžet za test ne treba razvući preširoko
+
+Za prvi test bolje je krenuti sa užim fokusom nego pokušati pokriti celu Srbiju, sve tipove objekata i sve faze namere. Ako firma najviše želi kućne sisteme u Beogradu i okolini, neka test počne tu. Ako želi industrijske objekte, poruka, forma i kvalifikacija moraju biti drugačiji.
+
+Budžet treba dati dovoljno podataka da se vidi obrazac: koji termini donose kvalifikovane razgovore, koji gradovi daju realne projekte, koji oglasi prave radoznalost, a koji pomeraju ljude ka ponudi. Premali budžet razvučen na deset kampanja obično ne nauči ništa. Preširok budžet bez filtera samo brže napravi šum.
+
+Zato plan ne treba završiti pitanjem koliko košta klik. Treba ga završiti pitanjem koliko kvalifikovanih projekata firma može obraditi i koja vrsta projekta joj je najprofitabilnija.
+
+## Šta Platinum Zenith proverava pre kampanje za solarne panele
+
+Pre nego što pokrenemo kampanju za solarnu nišu, gledamo ponudu, geografiju, tipove objekata, prosečnu vrednost projekta, maržu, proces procene i prodajni kapacitet. Zatim pravimo strukturu kampanja, landing stranu, pitanja u formi, tracking i dogovor oko toga šta je kvalifikovan lead.
+
+Ako firma već ima kampanje, prvo proveravamo gde budžet curi: široke ključne reči, slabi negativni termini, preopšta landing strana, spor odgovor, nejasna cena ili prodaja koja ne beleži statuse. Tek posle toga ima smisla pričati o većem budžetu.
+
+Ako prodajete ili ugrađujete solarne panele i želite da znate da li Google Ads može donositi bolje upite, javite se preko [kontakt strane](/kontakt). Pošaljite gradove koje pokrivate, tipove objekata, prosečnu vrednost projekta, trenutni mesečni budžet i kako sada pratite upite. Na osnovu toga možemo proceniti da li je problem u kampanji, landing strani, kvalifikaciji ili prodajnom procesu.
+`,
+  },
+  {
     slug: 'kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026',
     title: 'Kapacitet prodaje i marketing budžet u Srbiji 2026: kada više leadova pravi gubitak',
     excerpt: 'Veći budžet ne pomaže ako prodaja ne može brzo da obradi upite. Evo kako kapacitet tima menja CPL, CAC, ROI i plan skaliranja.',
