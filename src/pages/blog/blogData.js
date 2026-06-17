@@ -1,5 +1,84 @@
 const rawBlogPosts = [
   {
+    slug: 'bruto-marza-marketing-budzet-roi-srbija-2026',
+    title: 'Bruto marža i marketing budžet u Srbiji 2026: zašto prihod nije ROI',
+    excerpt: 'Prihod iz kampanje ne znači profit. Ako ne znate bruto maržu, prihvatljiv CPL, CAC i budžet lako izgledaju bolje nego što jesu.',
+    date: '2026-06-18',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Bruto marža', 'Marketing budžet', 'ROI', 'CAC', 'Lead Generation'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Prihod iz kampanje nije isto što i profit
+
+Mnoge firme u Srbiji procenjuju marketing kroz pitanje: koliko je kampanja donela prihoda? To je bolje od gledanja klikova i lajkova, ali i dalje nije dovoljno za odluku o budžetu. Prihod može izgledati lepo dok profit tiho curi kroz nisku maržu, popuste, vreme prodaje, reklamacije, isporuku i kašnjenje naplate.
+
+Česta greška je da se ROI računa preko ukupne vrednosti prodaje, bez bruto marže. Firma vidi da je od 300.000 dinara ulaganja došlo 1.200.000 dinara prometa i zaključi da marketing radi odlično. Ako je bruto marža 20%, tih 1.200.000 dinara nosi 240.000 dinara bruto profita pre dodatnih troškova. Kampanja koja na prometu izgleda pobednički može biti u minusu kada se pogleda profit.
+
+Zato [Google reklame](/google-reklame-cena), Meta kampanje, SEO i širi [digitalni marketing](/cene-digitalnog-marketinga) ne treba planirati samo po ceni klika ili broju leadova. Prvo treba znati koliko firma zaista zadržava od prosečne prodaje. Bez toga nema zdravog CPL-a, CAC-a ni odluke o skaliranju.
+
+## Šta je bruto marža u marketing odluci
+
+Bruto marža je deo prihoda koji ostaje posle direktnih troškova isporuke proizvoda ili usluge. Kod e-commerce prodaje to mogu biti nabavna cena, pakovanje, dostava i provizije. Kod uslužne firme to mogu biti sati tima, materijal, podizvođači, alat, put i sve što direktno ulazi u isporuku.
+
+Marketing često ne puca zato što nema dovoljno leadova. Puca zato što se svi leadovi tretiraju kao da nose isti profit. Prodaja od 100.000 dinara sa 60% bruto marže i prodaja od 100.000 dinara sa 15% bruto marže nisu ista poslovna stvar. Prva može izdržati skuplji lead, više follow-up-a i duži prodajni ciklus. Druga mora biti mnogo opreznija.
+
+U praksi, firme često znaju promet po usluzi, ali ne znaju realnu maržu po tipu posla. Onda kampanja optimizuje ka najlakšem prihodu, ne ka najzdravijem profitu. To je posebno opasno kada oglasi pune prodaju poslovima koji izgledaju veliki, ali ostavljaju malo novca posle isporuke.
+
+## Kako bruto marža menja maksimalan CPL
+
+Maksimalna cena leada ne može se računati iz osećaja. Mora se računati unazad od profita. Ako prosečan klijent donosi 200.000 dinara prihoda, ali bruto marža je 30%, bruto profit je 60.000 dinara. Ako od deset kvalifikovanih leadova zatvarate jednog kupca, svaki kvalifikovan lead pre marketing troška nosi prosečno 6.000 dinara bruto profita.
+
+To ne znači da smete platiti 6.000 dinara po leadu. Još postoje agencijski fee, alat, vreme prodaje, porezi, operativni troškovi i ciljna dobit. Ali znači da je okvir mnogo jasniji nego kada se gleda samo prihod od 200.000 dinara. Tada bi neko lako rekao da je lead od 10.000 dinara prihvatljiv, iako matematika govori drugačije.
+
+Ovo je nastavak teme [maksimalne cene leada](/blog/maksimalna-cena-leada-srbija-2026). Razlika je u tome što bruto marža vraća priču na realan novac koji ostaje firmi. Lead nije skup ili jeftin sam po sebi. Skup je ako nema dovoljno bruto profita da ga pokrije.
+
+## CAC izgleda bolje kada se krije marža
+
+CAC, odnosno cena akvizicije kupca, često se računa kao marketing trošak podeljen brojem novih kupaca. To je koristan početak, ali može biti varljivo ako se ne uporedi sa bruto profitom. Kupac koji košta 25.000 dinara nije automatski dobar ili loš. Dobar je ako njegova prva kupovina, ponovne kupovine ili LTV ostavljaju dovoljno bruto profita.
+
+Česta greška je da se skuplji proizvod smatra boljim targetom samo zato što ima veći račun. Ako taj proizvod ima tanku maržu, dug rok isporuke i mnogo postprodajne podrške, marketing može praviti promet koji zauzima kapacitet i smanjuje profitabilnost. Nasuprot tome, manja usluga sa boljom maržom i bržim zatvaranjem može biti bolja meta za kampanju.
+
+Zato tekst [CPL nije CAC](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026) treba čitati zajedno sa maržom. Jeftin lead nije dovoljan. Jeftin kupac nije dovoljan. Bitno je koliko bruto profita ostaje posle akvizicije i koliko brzo se taj novac vraća u firmu.
+
+## Kada budžet treba usmeriti ka profitabilnijim uslugama
+
+Nisu sve usluge jednako dobre za oglašavanje. Neke imaju veliki promet, ali zahtevaju puno vremena i nisku maržu. Neke imaju manji prosečan račun, ali se brže zatvaraju, lakše isporučuju i ostavljaju zdraviji profit. Ako kampanja gura sve u isti funnel, algoritam će često pronaći najlakši upit, ne najprofitabilniji posao.
+
+Zdraviji pristup je da se ponuda podeli u grupe. Koje usluge imaju najbolju bruto maržu? Koje imaju najbolju stopu zatvaranja? Koje donose ponovljenu kupovinu ili preporuke? Koje troše najviše prodajnog i operativnog vremena? Tek tada se odlučuje gde ide veći deo budžeta.
+
+Kod nekih firmi odgovor nije povećati ukupni budžet, već preusmeriti budžet. Umesto da se kupuje još slabih upita za niskomaržnu uslugu, bolje je napraviti jasniju landing stranu, jači dokaz poverenja i precizniju kampanju za profitabilniji segment. To je razlog zašto [raspodela marketing budžeta](/blog/raspodela-marketing-budzeta-oglasi-sajt-prodaja-srbija-2026) ne sme biti samo podela na oglase, sajt i agenciju. Mora uključiti i profit po ponudi.
+
+## Marža menja odluku o agencijskom modelu
+
+Kada firma bira između fiksnog fee-ja, procenta budžeta ili performance modela, bruto marža je jedna od prvih stvari koje treba razjasniti. Performance dogovor može zvučati sigurno, ali ako je nagrada vezana za lead, prodaju ili promet bez jasne definicije marže, obe strane mogu juriti pogrešan rezultat.
+
+Fiksni fee je lakše planirati kada znate koliko bruto profita treba kampanja da proizvede da bi se isplatila. Procenat budžeta ima smisla samo ako povećanje potrošnje ne gura niskoprofitne kupce. Revenue share ili performance model traži još precizniju definiciju: šta se meri, ko kontroliše prodaju, kako se računaju povrati, popusti, naplata i direktni troškovi.
+
+Zato komercijalna strana [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share) ne treba da se čita samo kao pitanje načina plaćanja agencije. To je pitanje podsticaja. Ako marža nije jasna, model plaćanja može delovati fer dok zapravo gura pogrešnu vrstu rasta.
+
+## Jednostavan obračun pre povećanja budžeta
+
+Pre nego što firma poveća marketing budžet, korisno je napraviti mali obračun za svaku glavnu ponudu. Prosečna vrednost prodaje. Bruto marža. Bruto profit po kupcu. Stopa zatvaranja od kvalifikovanog leada do kupca. Trenutni CPL. Trenutni CAC. Vreme do naplate. Kapacitet prodaje i isporuke.
+
+Ako ti brojevi nisu poznati, povećanje budžeta je više kockanje nego skaliranje. Kampanja možda može dovesti više upita, ali firma ne zna koje upite želi više. Još gore, ne zna gde treba stati. Dobar marketing plan ima granice: koliko smemo platiti lead, koliko smemo platiti kupca, koliko dugo možemo čekati povrat i koja marža mora ostati netaknuta.
+
+Tu pomaže i [ROI kalkulator](/alati/roi-kalkulator), ali samo ako se unesu realni brojevi. Kalkulator ne spašava loše pretpostavke. Ako se u njega stavi promet umesto bruto profita, rezultat će izgledati lepše nego što posao stvarno jeste.
+
+## Šta Platinum Zenith proverava pre ROI plana
+
+Pre nego što predložimo budžet, ne gledamo samo koliko firma želi leadova. Gledamo koje usluge imaju najbolju maržu, kolika je prosečna vrednost kupca, koliko brzo se posao naplaćuje, koliko leadova prodaja može obraditi i šta se dešava posle prvog upita. Tek posle toga ima smisla pričati o kanalu, kampanji i mesečnom iznosu.
+
+Ako već imate kampanje, tražimo gde se mešaju promet i profit: kampanje koje donose mnogo upita za slabu maržu, oglasi koji prodaju pogrešnu uslugu, landing strane koje ne filtriraju budžet, prodaja koja ne beleži status i izveštaji koji slave revenue bez pitanja šta je ostalo firmi.
+
+Ako želite da proverimo da li vaš marketing budžet pravi profit ili samo promet, javite se preko [kontakt strane](/kontakt). Pošaljite koje usluge najviše prodajete, prosečnu vrednost posla, okvirnu bruto maržu, mesečni budžet i kako trenutno pratite leadove. Iz toga se brzo vidi da li treba povećati budžet, promeniti fokus ponude ili prvo srediti merenje.
+`,
+  },
+  {
     slug: 'whatsapp-leadovi-poruke-prodaja-srbija-2026',
     title: 'WhatsApp leadovi u Srbiji 2026: zašto poruke iz oglasa ne postaju prodaja',
     excerpt: 'WhatsApp može povećati broj upita, ali bez kvalifikacije, vlasništva i CRM-a poruke lako nestanu. Evo kako ih pretvoriti u prodaju.',

@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "bruto-marza-marketing-budzet-roi-srbija-2026",
+    "title": "Bruto marža i marketing budžet u Srbiji 2026: zašto prihod nije ROI",
+    "excerpt": "Prihod iz kampanje ne znači profit. Ako ne znate bruto maržu, prihvatljiv CPL, CAC i budžet lako izgledaju bolje nego što jesu.",
+    "date": "2026-06-18",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "whatsapp-leadovi-poruke-prodaja-srbija-2026",
     "title": "WhatsApp leadovi u Srbiji 2026: zašto poruke iz oglasa ne postaju prodaja",
     "excerpt": "WhatsApp može povećati broj upita, ali bez kvalifikacije, vlasništva i CRM-a poruke lako nestanu. Evo kako ih pretvoriti u prodaju.",
