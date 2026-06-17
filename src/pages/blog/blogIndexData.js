@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "whatsapp-leadovi-poruke-prodaja-srbija-2026",
+    "title": "WhatsApp leadovi u Srbiji 2026: zašto poruke iz oglasa ne postaju prodaja",
+    "excerpt": "WhatsApp može povećati broj upita, ali bez kvalifikacije, vlasništva i CRM-a poruke lako nestanu. Evo kako ih pretvoriti u prodaju.",
+    "date": "2026-06-17",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-solarne-panele-cena-upita-srbija-2026",
     "title": "Google Ads za solarne panele u Srbiji 2026: cena upita i budžet",
     "excerpt": "Za solarne panele nije bitan svaki upit, već objekat, potrošnja i spremnost za investiciju. Evo kako planirati Google Ads budžet i CPL.",

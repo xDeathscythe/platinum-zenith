@@ -1,5 +1,90 @@
 const rawBlogPosts = [
   {
+    slug: 'whatsapp-leadovi-poruke-prodaja-srbija-2026',
+    title: 'WhatsApp leadovi u Srbiji 2026: zašto poruke iz oglasa ne postaju prodaja',
+    excerpt: 'WhatsApp može povećati broj upita, ali bez kvalifikacije, vlasništva i CRM-a poruke lako nestanu. Evo kako ih pretvoriti u prodaju.',
+    date: '2026-06-17',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['WhatsApp leadovi', 'Lead Generation', 'Prodaja', 'CRM', 'Konverzija'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## WhatsApp ne rešava prodaju sam od sebe
+
+Mnoge firme u Srbiji dodaju WhatsApp dugme na sajt ili u oglas jer žele da uklone trenje. To ima smisla. Ljudi brže šalju poruku nego što popunjavaju dugu formu, posebno na telefonu. Problem nastaje kada firma zameni proces za kanal i očekuje da svaka poruka sama od sebe postane prodaja.
+
+U praksi se često desi drugačije. Kampanja dovede više poruka, inbox izgleda življe, ali razgovori ostanu kratki, bez konteksta, bez statusa i bez sledećeg koraka. Neko pita cenu, neko pošalje samo ćao, neko traži termin, neko nestane posle prvog odgovora. Na kraju izveštaj kaže da leadova ima, a vlasnik ne vidi dovoljno novih kupaca.
+
+Česta greška je da se WhatsApp tretira kao magično rešenje za konverziju. Nije problem u tome što ljudi pišu poruke. Problem je što firma nije definisala šta se dešava posle prve poruke. Ako već ulažete u [Google reklame](/google-reklame-cena), landing stranu ili širi [digitalni marketing](/cene-digitalnog-marketinga), WhatsApp mora biti deo funnel-a, ne rupa u kojoj se leadovi izgube.
+
+## Zašto poruka nije isto što i kvalifikovan lead
+
+Poruka je početak razgovora. Kvalifikovan lead je osoba za koju znate šta želi, gde se nalazi, kada želi rešenje, da li se uklapa u ponudu i koji je sledeći korak. Te dve stvari se često mešaju, pa firma slavi broj poruka dok prodaja gubi vreme na nejasne kontakte.
+
+Primer je jednostavan. Jedna osoba napiše koliko košta. Druga napiše da ima problem, lokaciju, rok, fotografiju ili opis situacije. Treća šalje isto pitanje na pet mesta i ne zna tačno šta kupuje. Sve tri poruke mogu stići iz iste kampanje, ali ne zaslužuju isti tretman ni isti prioritet.
+
+Zato je važno da WhatsApp razgovor brzo izvuče minimum konteksta. Šta vam treba? U kom gradu? Do kada? Koji budžet ili opseg je realan? Da li želite poziv, ponudu ili termin? To je ista logika kao kod [kontakt forme za kvalifikaciju leadova](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026), samo prebačena u razgovor koji mora ostati brz i prirodan.
+
+## Najveći problem je nejasno vlasništvo nad inboxom
+
+Kod malih firmi WhatsApp često drži vlasnik, recepcija, prodavac ili osoba koja tog dana ima telefon kod sebe. To radi dok je broj poruka mali. Kada kampanja počne da šalje veći obim, inbox postaje mešavina novih upita, starih dogovora, internih poruka, slika, glasovnih poruka i ljudi kojima se niko nije vratio.
+
+Tu nastaje klasičan gubitak. Nije lead loš zato što je došao preko WhatsApp-a. Loš je sistem u kojem niko ne zna ko odgovara, za koliko minuta, šta pita, gde beleži status i kada radi follow-up. Poruka izgleda kao obavljen posao čim je neko odgovorio, ali prodajno gledano tek tada počinje.
+
+Ako tim već ima problem sa evidencijom, tekst o [CRM-u za leadove](/blog/crm-za-leadove-evidencija-prodaja-srbija-2026) je obavezna osnova. WhatsApp može ostati prvi kanal komunikacije, ali statusi ne smeju ostati samo u telefonu. Minimum je da se beleži izvor, usluga, vrednost prilike, sledeći korak, vlasnik i razlog gubitka.
+
+## Brzina odgovora mora imati kvalitet, ne samo brzinu
+
+WhatsApp obećava brz odgovor, ali brz odgovor ne vredi mnogo ako je generički. Previše firmi odgovori sa pošaljite podatke ili cena zavisi, pa razgovor stane. Kupac je dobio reakciju, ali nije dobio osećaj da postoji jasan put do rešenja.
+
+Dobar prvi odgovor radi tri stvari. Potvrđuje da je osoba na pravom mestu. Postavlja jedno do tri pitanja koja stvarno menjaju ponudu. Predlaže sledeći korak: kratak poziv, slanje slike, izbor termina, okvirna procena ili link ka strani sa cenama. Tako se razgovor pomera napred bez prevelikog dopisivanja.
+
+Brzina je i dalje bitna. Ako isti lead piše konkurenciji, prvi smislen odgovor često dobija razgovor. Ali brzina bez strukture samo brže proizvodi nejasne poruke. Zato [brzina odgovora na upit](/blog/brzina-odgovora-na-upit-follow-up-prodaja-srbija-2026) mora biti vezana za skriptu, vlasništvo i beleženje ishoda.
+
+## Ne šaljite sve leadove odmah u dugačko dopisivanje
+
+Neki upiti zaslužuju brz poziv. Neki zaslužuju cenovni okvir. Neki treba da dobiju dodatno pitanje pre nego što prodaja troši vreme. Ako se svaka poruka tretira isto, ozbiljni kupci čekaju iza ljudi koji samo proveravaju cenu.
+
+Zato je korisno uvesti jednostavno rangiranje. A lead ima jasan problem, lokaciju, rok i uklapa se u ponudu. B lead ima potencijal, ali fali kontekst. C lead je informativan, van zone, bez budžeta ili traži nešto što firma ne radi. To ne mora biti komplikovan sistem. Dovoljno je da tim zna šta se radi sa svakom grupom.
+
+Ovo se direktno naslanja na [lead scoring](/blog/lead-scoring-prioritet-upita-prodaja-srbija-2026). WhatsApp ne sme napraviti red u kojem najglasniji kontakt dobija najviše pažnje. Najvredniji kontakt treba da dobije najbrži i najjasniji sledeći korak.
+
+## Landing strana treba pripremiti WhatsApp razgovor
+
+Ako landing strana ima samo dugme pišite nam, očekujte mnogo nejasnih poruka. Posetilac ne zna koje informacije treba poslati, šta će dobiti zauzvrat, koliko brzo može očekivati odgovor i da li je usluga uopšte za njega. Onda prodaja mora kroz poruke da objašnjava ono što je strana trebalo da kaže pre klika.
+
+Bolje je da dugme ima kontekst. Na primer: pošaljite lokaciju i opis problema za brzu procenu. Ili: pošaljite model, rok i željeni termin. Ili: pitajte za okvir cene ako već znate obim posla. Tako WhatsApp postaje nastavak landing strane, ne zamena za nju.
+
+Ovo je posebno važno ako prvi ekran sajta već ne objašnjava ponudu. Tekst o [prvom ekranu sajta](/blog/prvi-ekran-sajta-konverzija-upiti-srbija-2026) važi i ovde: ako posetilac ne razume kome je usluga namenjena, šta dobija i koji je sledeći korak, poruka će biti slabija.
+
+## Tracking ne sme stati na klik na WhatsApp
+
+Merenje WhatsApp dugmeta je često pogrešno. Firma vidi klik na dugme i tretira ga kao lead. Ali klik nije isto što i poslata poruka, a poslata poruka nije isto što i prodajna prilika. Ako se sve meri samo kao konverzija, kampanja može optimizovati prema ljudima koji klikću iz radoznalosti.
+
+Bolji lanac je: klik na oglas, poseta strani, klik na WhatsApp, započet razgovor, kvalifikovana poruka, zakazan poziv ili termin, poslata ponuda, prodaja. Nije uvek lako automatizovati sve korake, ali prodajni statusi se mogu beležiti ručno ili kroz CRM. Bez toga je teško znati da li problem leži u oglasu, landing strani, odgovoru, ceni ili follow-up-u.
+
+Ako već radite [praćenje konverzija](/blog/pracenje-konverzija-lead-generation-srbija-2026), nemojte dati istu vrednost svakom WhatsApp kliku. Kvalifikovan razgovor i prihvaćena ponuda vrede više od praznog klika na dugme.
+
+## Kada WhatsApp spušta, a kada diže CAC
+
+WhatsApp može spustiti cenu akvizicije ako smanji trenje i ubrza razgovor sa ozbiljnim kupcima. Može je i podići ako dovede mnogo slabih poruka koje prodaja ručno obrađuje bez jasnog filtera. Tada CPL izgleda lepo, ali stvarni trošak kupca raste kroz vreme tima, izgubljene prilike i slabiju stopu zatvaranja.
+
+Zato ne treba gledati samo koliko jeftino stiže poruka. Treba gledati koliko poruka postaje kvalifikovan razgovor, koliko razgovora postaje ponuda i koliko ponuda postaje prihod. Tu se vidi razlika između jeftinog lead-a i profitabilnog kupca, što smo detaljno objasnili u tekstu [CPL nije CAC](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026).
+
+Ako tim nema kapacitet da obrađuje poruke, dodatni WhatsApp upiti mogu napraviti isti problem kao prevelik budžet. Vredi proveriti i [kapacitet prodaje](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026) pre nego što se kampanje skaliraju.
+
+## Šta Platinum Zenith proverava pre nego što gura WhatsApp leadove
+
+Pre nego što preporučimo WhatsApp kao glavni CTA, gledamo ponudu, vrednost kupca, brzinu odgovora, ko drži inbox, koja pitanja kvalifikuju upit i kako se statusi beleže. Nekim firmama je WhatsApp odličan prvi korak. Nekima je bolja kratka forma, zakazivanje termina ili poziv, jer prodaji treba više konteksta pre razgovora.
+
+Najbolji sistem nije onaj koji ima najviše dugmadi. Najbolji sistem je onaj u kojem kupac lako napravi sledeći korak, a prodaja tačno zna šta radi sa svakim upitom. Ako želite da proverimo da li vam WhatsApp, forma, landing strana ili tracking gube prodaju, javite se preko [kontakt strane](/kontakt). Pošaljite kako sada stižu upiti, ko odgovara na njih, koliko brzo i kako merite koji razgovori postaju kupci.
+`,
+  },
+  {
     slug: 'google-ads-za-solarne-panele-cena-upita-srbija-2026',
     title: 'Google Ads za solarne panele u Srbiji 2026: cena upita i budžet',
     excerpt: 'Za solarne panele nije bitan svaki upit, već objekat, potrošnja i spremnost za investiciju. Evo kako planirati Google Ads budžet i CPL.',
