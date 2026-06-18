@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-pvc-stolariju-cena-upita-srbija-2026",
+    "title": "Google Ads za PVC stolariju u Srbiji 2026: cena upita i budžet",
+    "excerpt": "Za PVC stolariju nije bitan svaki upit, već dimenzije, lokacija, rok i vrednost posla. Evo kako planirati Google Ads budžet.",
+    "date": "2026-06-18",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "bruto-marza-marketing-budzet-roi-srbija-2026",
     "title": "Bruto marža i marketing budžet u Srbiji 2026: zašto prihod nije ROI",
     "excerpt": "Prihod iz kampanje ne znači profit. Ako ne znate bruto maržu, prihvatljiv CPL, CAC i budžet lako izgledaju bolje nego što jesu.",

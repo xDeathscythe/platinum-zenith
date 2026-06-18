@@ -1,5 +1,82 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-pvc-stolariju-cena-upita-srbija-2026',
+    title: 'Google Ads za PVC stolariju u Srbiji 2026: cena upita i budžet',
+    excerpt: 'Za PVC stolariju nije bitan svaki upit, već dimenzije, lokacija, rok i vrednost posla. Evo kako planirati Google Ads budžet.',
+    date: '2026-06-18',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'PVC stolarija', 'Lokalni marketing', 'Lead Generation', 'Marketing budžet'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## PVC stolarija ne treba više upita po svaku cenu
+
+Firme koje prodaju i ugrađuju PVC stolariju često gledaju Google Ads kroz jedno pitanje: koliko košta upit? To je prirodno, jer se u ovoj niši brzo vidi kada telefon zvoni, forma stiže ili WhatsApp dobija poruke. Ali najjeftiniji upit nije automatski najbolji posao.
+
+Jedan kontakt pita cenu jednog prozora za vikendicu. Drugi šalje mere za ceo stan, želi komarnike i roletne, zna lokaciju i planira ugradnju ovog meseca. Treći samo poredi cene na deset mesta. U izveštaju sva tri mogu izgledati kao lead, ali za prodaju i profit nisu ista stvar.
+
+Česta greška je da se [Google reklame](/google-reklame-cena) za PVC stolariju optimizuju prema broju formi, bez razlike između malog informativnog pitanja i ozbiljne zamene stolarije. Ako se uz to širi [digitalni marketing](/cene-digitalnog-marketinga) meri samo kroz cenu klika, firma može puniti prodaju upitima koji troše vreme, a ne donose montaže.
+
+## Dobar lead ima mere, objekat, lokaciju i rok
+
+Kvalitetan upit za PVC stolariju obično ima nekoliko signala. Osoba zna da li se radi o stanu, kući, lokalu ili zgradi. Ima okvirne dimenzije ili je spremna da pošalje fotografije. Zna grad ili opštinu. Ima rok, razlog zamene i razume da finalna cena zavisi od profila, stakla, okova, roletni, komarnika, demontaže i montaže.
+
+Slabiji upit najčešće glasi samo koliko košta prozor. Takav kontakt nije za bacanje, ali ne treba ga tretirati isto kao osobu koja traži ponudu za ceo objekat. Prodaja može poslati okvir po kvadratu, objasniti šta menja cenu i pitati za mere pre nego što troši vreme na detaljnu ponudu.
+
+Zato cilj kampanje nije da svaka pretraga postane formular. Cilj je da što veći deo upita ima dovoljno konteksta da prodaja može brzo proceniti vrednost prilike i sledeći korak.
+
+## Ključne reči treba odvojiti po nameri
+
+Termini kao PVC prozori cena, PVC stolarija Beograd, zamena stolarije, ugradnja PVC prozora i alu PVC stolarija ne nose istu nameru. Neko samo istražuje tržište. Neko traži majstora u svom gradu. Neko je već odlučio da menja stolariju i sada poredi ponude.
+
+Dobar nalog ne meša sve u jednu kampanju sa istom porukom. Korisno je odvojiti zamenu stolarije, nove objekte, roletne i komarnike, ulazna vrata, veće objekte i lokalne pretrage. Ako firma radi samo određene gradove ili tipove montaže, kampanja to mora jasno filtrirati.
+
+Negativne ključne reči su posebno važne. Polovna stolarija, posao, uradi sam, polovni prozori, servis koji firma ne radi, delovi bez montaže ili gradovi van zone mogu pojesti budžet. Na papiru kampanja ima klikove. U praksi prodaja dobija razgovore koji se nikada neće pretvoriti u posao.
+
+## Landing strana mora pomoći kupcu da pošalje bolji upit
+
+Za PVC stolariju landing strana ne sme biti samo galerija lepih prozora i dugme pošaljite upit. Posetilac mora brzo da vidi šta firma radi, u kojim mestima radi, da li meri na terenu, šta ulazi u montažu, koji su okvirni faktori cene i šta treba poslati za bržu procenu.
+
+Mnoge firme kriju svaku informaciju o ceni jer se plaše da će kupac otići kod jeftinijih. Problem je što potpuno skrivanje cene često pravi slabije upite. Ljudi bez budžeta pošalju poruku, ozbiljni kupci ne znaju da li je firma za njih, a prodaja ponavlja isti uvod deset puta dnevno. Tekst o [cenama na sajtu i kvalitetu leadova](/blog/cene-na-sajtu-usluge-kvalitet-leadova-srbija-2026) ovde je direktno primenljiv: okvir ne mora biti finalna ponuda, ali treba pomoći kupcu da se kvalifikuje.
+
+Forma treba da traži podatke koji stvarno menjaju ponudu: grad, tip objekta, broj otvora, okvirne dimenzije, da li postoje roletne ili komarnici, da li je potrebna demontaža, rok i najbolji kanal za kontakt. To je praktična verzija [kontakt forme za kvalifikaciju leadova](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026), prilagođena stolariji.
+
+## Koliko može da košta upit za PVC stolariju
+
+Ne postoji univerzalna cena upita koja važi za sve firme. Upit od 700 dinara može biti preskup ako se završava na jednom malom prozoru bez montaže. Upit od 4.000 dinara može biti odličan ako često postaje posao za ceo stan, kuću ili lokal.
+
+Zato se maksimalan CPL računa unazad. Kolika je prosečna vrednost posla? Kolika je bruto marža posle materijala, rada, transporta i montaže? Koliko kvalifikovanih upita treba za jednu izmeru? Koliko izmera postaje prihvaćena ponuda? Tek tada se vidi koliko vredi lead. Osnova iz teksta o [maksimalnoj ceni leada](/blog/maksimalna-cena-leada-srbija-2026) je mnogo korisnija od poređenja sa tuđim kampanjama.
+
+Kod stolarije je bitan i kapacitet. Ako tim može da odradi ograničen broj izmera i montaža mesečno, nije cilj kupiti što više nefiltriranih upita. Cilj je popuniti kalendar poslovima koji imaju dobru vrednost, dobru maržu i realan rok. Inače marketing pravi gužvu, a ozbiljni kupci čekaju, što smo detaljno objasnili kroz [kapacitet prodaje i marketing budžeta](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026).
+
+## Tracking ne sme stati na poslatoj formi
+
+Ako se meri samo poslata forma, kampanja ne zna razliku između pitanja iz radoznalosti i posla koji je završen montažom. Za PVC stolariju treba pratiti ceo tok: klik, upit, kvalifikovan upit, izmera, poslata ponuda, prihvaćena ponuda, montiran posao i naplata.
+
+To ne mora odmah biti savršeno automatizovano. Ali prodaja mora makar ručno da beleži status i vrednost prilike. Bez toga Google Ads optimizuje prema lakšem upitu, ne prema boljem poslu. Tek kada se statusi vraćaju u analizu, vidi se da li problem leži u ključnim rečima, landing strani, brzini odgovora, ceni, terminu montaže ili ponudi.
+
+Ako već imate [praćenje konverzija](/blog/pracenje-konverzija-lead-generation-srbija-2026), ne dajte istu vrednost svakom formularu. Upit sa merama, lokacijom i rokom treba vrednovati više od praznog pitanja koliko košta.
+
+## Brzina odgovora odlučuje dok kupac poredi ponude
+
+Kupci PVC stolarije često traže više ponuda. Ako firma odgovori posle dva dana, konkurencija je možda već zakazala merenje. Brzina je važna, ali nije dovoljno poslati generičko javićemo se. Dobar prvi odgovor potvrđuje da je upit primljen, traži podatke koji fale i predlaže sledeći korak: okvirna procena, poziv ili merenje.
+
+Tu se vidi razlika između firme koja samo skuplja leadove i firme koja ih pretvara u posao. [Brzina odgovora na upit](/blog/brzina-odgovora-na-upit-follow-up-prodaja-srbija-2026) posebno je važna u nišama gde kupac istog dana šalje nekoliko zahteva za ponudu.
+
+## Šta Platinum Zenith proverava pre kampanje za PVC stolariju
+
+Pre nego što predložimo budžet, gledamo koje tipove poslova firma želi najviše: stanovi, kuće, lokali, veći objekti, roletne, komarnici ili vrata. Gledamo geografiju, prosečnu vrednost posla, maržu, kapacitet za izmere i montaže, brzinu odgovora i način na koji se prate ponude.
+
+Ako kampanja već postoji, tražimo gde cure pare: preširoke ključne reči, gradovi van zone, forma bez dimenzija, landing strana bez okvirne cene, prodaja koja ne beleži izmere ili izveštaj koji slavi leadove umesto prihvaćenih ponuda.
+
+Ako želite da proverimo koliko treba da ulažete u Google Ads za PVC stolariju i koji upiti zaista vrede, javite se preko [kontakt strane](/kontakt). Pošaljite koje gradove pokrivate, prosečnu vrednost posla, koje proizvode želite najviše da gurate i kako trenutno pratite upite do montaže.
+`,
+  },
+  {
     slug: 'bruto-marza-marketing-budzet-roi-srbija-2026',
     title: 'Bruto marža i marketing budžet u Srbiji 2026: zašto prihod nije ROI',
     excerpt: 'Prihod iz kampanje ne znači profit. Ako ne znate bruto maržu, prihvatljiv CPL, CAC i budžet lako izgledaju bolje nego što jesu.',
