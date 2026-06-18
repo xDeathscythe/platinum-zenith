@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "uskladjenost-oglasa-landing-strane-konverzija-srbija-2026",
+    "title": "Usklađenost oglasa i landing strane u Srbiji 2026: zašto klik ne postaje upit",
+    "excerpt": "Kada oglas obeća jedno, landing strana priča drugo, a prodaja pita treće, klikovi se troše bez upita. Evo kako uskladiti ceo tok.",
+    "date": "2026-06-18",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-pvc-stolariju-cena-upita-srbija-2026",
     "title": "Google Ads za PVC stolariju u Srbiji 2026: cena upita i budžet",
     "excerpt": "Za PVC stolariju nije bitan svaki upit, već dimenzije, lokacija, rok i vrednost posla. Evo kako planirati Google Ads budžet.",

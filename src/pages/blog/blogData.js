@@ -1,5 +1,84 @@
 const rawBlogPosts = [
   {
+    slug: 'uskladjenost-oglasa-landing-strane-konverzija-srbija-2026',
+    title: 'Usklađenost oglasa i landing strane u Srbiji 2026: zašto klik ne postaje upit',
+    excerpt: 'Kada oglas obeća jedno, landing strana priča drugo, a prodaja pita treće, klikovi se troše bez upita. Evo kako uskladiti ceo tok.',
+    date: '2026-06-18',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Landing strana', 'Google Ads', 'Konverzija', 'Lead Generation', 'Prodajni proces'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Klik nije problem ako posetilac ne prepoznaje obećanje
+
+Mnoge firme u Srbiji prvo posumnjaju na cenu klika kada kampanja ne donosi upite. Oglas ima prikaze, ljudi klikću, budžet se troši, ali forma ćuti ili stižu poruke koje nemaju veze sa idealnim kupcem. Često problem nije samo u Google Ads nalogu. Problem je u tome što oglas, landing strana i prodajni razgovor ne pričaju istu priču.
+
+Jedan oglas obećava brzu procenu cene. Landing strana zatim priča široko o firmi, istoriji, svim uslugama i lepim vrednostima. Forma traži samo ime i telefon. Prodaja potom zove i postavlja pitanja koja posetilac nije očekivao. U izveštaju to izgleda kao saobraćaj bez konverzije. U praksi, kupac je dobio tri različita signala i nije znao koji sledeći korak ima smisla.
+
+Česta greška je da se [Google reklame](/google-reklame-cena) optimizuju samo kroz ključne reči, bidove i oglase, dok se landing strana tretira kao statična brošura. Ali [digitalni marketing](/cene-digitalnog-marketinga) za lead generation radi tek kada se poruka iz oglasa nastavi na stranici, u formi, u hvala koraku i u prodajnom follow-up-u.
+
+## Šta znači usklađenost oglasa i landing strane
+
+Usklađenost nije dizajnerska sitnica. To znači da osoba koja klikne odmah vidi potvrdu da je došla na pravo mesto. Ako oglas kaže Google Ads za stomatološke ordinacije, prvi ekran ne treba da počne opštom rečenicom o digitalnom prisustvu. Treba da potvrdi nišu, problem, rezultat i sledeći korak.
+
+Ako oglas nudi besplatnu analizu kampanje, landing strana mora objasniti šta analiza uključuje, kome je namenjena, koliko traje, šta firma treba da pošalje i šta se dešava posle. Ako oglas pominje okvirnu cenu, stranica ne sme potpuno sakriti cenovni kontekst. Ako oglas obećava brz kontakt, forma i prodaja moraju podržati brz odgovor.
+
+Ovo je razlog zašto prvi ekran sajta često odlučuje više nego ostatak stranice. Posetilac ne čita pažljivo dok ne zna da je ponuda relevantna. Ako prvi ekran ne potvrdi ono zbog čega je kliknuo, gubi se pažnja pre nego što argumenti uopšte dođu na red. Zato je tema [prvog ekrana i konverzije](/blog/prvi-ekran-sajta-konverzija-upiti-srbija-2026) direktno povezana sa svakom plaćenom kampanjom.
+
+## Gde se poruka najčešće raspadne
+
+Prvo mesto pucanja je preširok oglas. Firme često žele da jednim oglasom pokriju sve usluge, sve gradove i sve tipove kupaca. Oglas onda zvuči bezbedno, ali ne privlači konkretnu nameru. Posetilac klikne jer je poruka dovoljno opšta, ali ne dobija jasan razlog da pošalje upit.
+
+Drugo mesto je landing strana koja pokušava da bude sve za svakoga. Na istoj strani se nude izrada sajta, SEO, Google Ads, društvene mreže, branding, automatizacije i konsultacije. Za vlasnika firme koji je kliknuo oglas zbog konkretne boli, takva strana izgleda kao meni, ne kao rešenje.
+
+Treće mesto je forma koja ne traži informacije potrebne za dobar sledeći korak. Ako je oglas obećao procenu budžeta, forma treba da pita industriju, lokaciju, mesečni budžet, cilj i trenutni problem. Ako traži samo kontakt, prodaja mora sve da izvlači naknadno, a lead često izgubi momentum. Zato [kontakt forma za kvalifikaciju leadova](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026) nije administracija, nego deo ponude.
+
+Četvrto mesto je prodaja. Ako marketing obeća dijagnozu problema, a prodajni poziv počne generičkim pitanjem čime se bavite, poverenje pada. Kupac oseća da je opet ušao u običan prodajni levak, ne u proces koji razume njegov problem.
+
+## Primer: kampanja ima dobar klik, ali pogrešan sledeći korak
+
+Zamislimo firmu koja želi više upita za uslugu koja košta od 1.000 do 3.000 evra. Oglas kaže: Saznajte koliko vas košta loš funnel i gde gubite leadove. To je konkretno jer govori osobi koja već sumnja da negde curi novac.
+
+Landing strana zatim otvara opštim naslovom: Profesionalni digitalni marketing za vaš biznis. Ispod toga su logo, tri ikone i dugme pošalji upit. Nema pomena o funnelu, leadovima, prodaji, dijagnozi, procesu, ceni greške ili primeru šta će firma dobiti. Posetilac ne vidi nastavak obećanja iz oglasa i odlazi.
+
+U izveštaju će neko reći da je CPC visok ili da tržište ne reaguje. Realnije objašnjenje je jednostavnije: oglas je prodao jednu ideju, a stranica je pokušala da proda drugu. Kampanja nije dobila šansu da pokaže kvalitet jer je korisnik morao sam da povezuje tačke.
+
+## Kako popraviti tok bez redizajna celog sajta
+
+Ne mora se svaki put praviti kompletno nov sajt. Često je dovoljno napraviti namensku landing stranu za jednu nameru. Prvi ekran treba da ponovi srž obećanja iz oglasa, ali prirodnim jezikom. Ako oglas cilja firme kojima kampanja dovodi loše leadove, naslov mora govoriti o lošim leadovima, kvalifikaciji i prodaji, ne o širokoj agencijskoj ekspertizi.
+
+Zatim treba složiti stranicu po redosledu kojim kupac razmišlja. Šta je problem? Zašto se dešava? Kako se proverava? Šta firma dobija ako pošalje upit? Koji podaci su potrebni? Koji je sledeći korak? Šta se ne obećava? Takav redosled smanjuje konfuziju i filtrira slabije upite.
+
+Korisno je napraviti malu mapu poruke pre pisanja oglasa: ključna bol, ciljna osoba, obećanje, dokaz, kvalifikaciona pitanja, CTA i prodajni prvi odgovor. Ako bilo koji deo ne odgovara ostatku, kampanja će verovatno skupljati klikove koje prodaja ne može da pretvori u novac.
+
+## CTA mora biti isti logični korak kroz ceo tok
+
+Ako oglas zove na procenu budžeta, CTA ne treba da bude samo kontaktirajte nas. Bolje je reći zatražite procenu budžeta, pošaljite trenutni mesečni budžet i cilj, ili zakažite pregled kampanje. Razlika deluje mala, ali posetiocu govori šta tačno dobija posle klika.
+
+Isto važi za sekundarne CTA elemente. Ako osoba nije spremna za razgovor, može dobiti link ka tekstu o [praćenju konverzija](/blog/pracenje-konverzija-lead-generation-srbija-2026), tekstu o [lošim leadovima](/blog/losi-leadovi-kako-popraviti-kvalitet-upita-srbija-2026) ili kalkulatoru kada je relevantno. Ali glavni tok mora ostati čist. Jedna kampanja, jedna namera, jedan primarni sledeći korak.
+
+Na kraju, prodajni tim mora znati iz kog oglasa lead dolazi i šta mu je obećano. Ako je lead došao preko poruke o smanjenju CAC-a, prvi razgovor treba da proveri trenutni CPL, close rate, maržu i kvalitet upita. Ako prodaja vodi isti razgovor sa svim leadovima, deo vrednosti kampanje se gubi posle forme. Tu pomaže proces opisan u tekstu o [prodajnom pozivu za leadove](/blog/prodajni-poziv-za-leadove-srbija-2026).
+
+## Šta meriti kada popravljate usklađenost
+
+Sama stopa konverzije nije dovoljna. Može porasti broj formi, a da kvalitet padne. Zato treba gledati klik, vreme na strani, scroll, slanje forme, kvalifikovan lead, zakazan razgovor, održan razgovor, poslatu ponudu i zatvorenog kupca.
+
+Ako se posle izmene prvog ekrana povećaju upiti, ali prodaja kaže da su slabiji, poruka možda privlači preširoku publiku. Ako se broj formi smanji, ali raste procenat ozbiljnih razgovora, kampanja je možda postala profitabilnija. Tu se vraćamo na razliku između CPL-a i stvarne [cene akvizicije kupca](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026).
+
+Najopasniji izveštaj je onaj koji slavi jeftin klik, a ne zna šta se desilo posle. Usklađena kampanja meri ne samo ko je kliknuo, nego da li je osoba razumela ponudu, poslala pravi kontekst i nastavila ka prodaji.
+
+## Kada Platinum Zenith proverava ovaj problem
+
+Kada kampanja ima klikove, ali nema dovoljno kvalitetnih upita, prvo gledamo da li se namera iz oglasa vidi na landing strani u prvih nekoliko sekundi. Zatim proveravamo da li forma traži prave podatke, da li CTA odgovara obećanju, da li tracking razlikuje lake forme od ozbiljnih prilika i da li prodaja nastavlja istu poruku.
+
+Ako želite da proverimo da li vam budžet curi zbog neusklađenog oglasa, landing strane i prodajnog procesa, pošaljite nam trenutni oglas, landing stranu i šta se dešava posle forme preko [kontakt strane](/kontakt). Dobićete jasnu sliku da li treba menjati kampanju, stranicu, formu, follow-up ili ceo tok od klika do prodaje.
+`,
+  },
+  {
     slug: 'google-ads-za-pvc-stolariju-cena-upita-srbija-2026',
     title: 'Google Ads za PVC stolariju u Srbiji 2026: cena upita i budžet',
     excerpt: 'Za PVC stolariju nije bitan svaki upit, već dimenzije, lokacija, rok i vrednost posla. Evo kako planirati Google Ads budžet.',
