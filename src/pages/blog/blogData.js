@@ -1,5 +1,94 @@
 const rawBlogPosts = [
   {
+    slug: 'sezonski-marketing-budzet-lead-generation-srbija-2026',
+    title: 'Sezonski marketing budžet u Srbiji 2026: kako planirati leadove pre špica',
+    excerpt: 'Sezonski budžet nije trošak u špicu, već plan pre potražnje. Evo kako rasporediti oglase, landing stranu i prodaju bez panike.',
+    date: '2026-06-19',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Marketing budžet', 'Lead Generation', 'Google Ads', 'Sezonska potražnja', 'ROI'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Sezona ne počinje kada telefon već zvoni
+
+Mnoge firme u Srbiji planiraju marketing tek kada osete da potražnja raste. Klima servisi se sete oglasa kad krene vrućina. Dečije igraonice pojačaju promociju kada roditelji već rezervišu rođendane. Turističke agencije čekaju da ljudi počnu da zovu za leto. U izveštaju to izgleda kao sezonski skok interesovanja. U praksi, firma ulazi u najskuplji deo godine bez pripremljenog toka za leadove.
+
+Problem nije samo u tome što se budžet kasno uključi. Problem je što tada svi rade isto. Klikovi poskupe, prodaja je zatrpana, landing strana nije prilagođena sezonskom pitanju, a odluke se donose iz panike. Česta greška je da se sezona tretira kao vreme za agresivno trošenje, umesto kao rezultat plana koji je počeo nekoliko nedelja ili meseci ranije.
+
+Ako koristite [Google reklame](/google-reklame-cena) ili drugi plaćeni kanal, sezonski budžet mora da odgovori na tri pitanja: kada tržište počinje da istražuje, kada kupuje i kada vaša prodaja može da isporuči. Bez toga [digitalni marketing](/cene-digitalnog-marketinga) postaje gašenje požara, ne sistem za rast.
+
+## Zašto sezonski budžet često izgori
+
+Prvi razlog je prekasno paljenje kampanja. Kada firma uključi oglase tek na vrhuncu potražnje, algoritam još uči, publika još ne prepoznaje ponudu, a konkurencija već kupuje iste termine. Cena klika može biti viša baš u trenutku kada je strpljenje najmanje.
+
+Drugi razlog je loš raspored novca. Neke firme stave skoro ceo budžet u dve nedelje špica, pa dobiju mnogo upita koje prodaja ne može da obradi. Druge troše jednako svakog meseca, iako kupci ne razmišljaju jednako u januaru, aprilu, avgustu i novembru. Oba pristupa mogu delovati uredno u tabeli, ali ne prate stvarno ponašanje kupca.
+
+Treći razlog je što se sezona meri samo kroz broj leadova. Ako firma dobije 200 upita u špicu, ali prodaja odgovara sutradan, ponude kasne, termini se popune lošim poslovima i bolji kupci odu konkurenciji, kampanja nije iskoristila sezonu. Samo je napravila gužvu.
+
+## Plan počinje mapom potražnje, ne cifrom iz glave
+
+Dobar sezonski budžet ne počinje pitanjem koliko možemo da potrošimo ovog meseca. Počinje mapom potražnje. Kada ljudi prvi put istražuju problem? Kada porede opcije? Kada šalju upite? Kada donose odluku? Kada je za firmu prekasno da prihvati još posla?
+
+Za neke niše, istraživanje počinje mnogo pre kupovine. Roditelji mogu tražiti igraonicu nekoliko nedelja pre rođendana. Vlasnik kuće može istraživati solarne panele mesecima pre odluke. Firma koja planira novi sajt možda prvo poredi cene, zatim traži primere, pa tek onda šalje upit.
+
+Zato budžet treba podeliti po fazama. Prva faza hvata istraživanje i pravi publiku. Druga faza testira poruku, landing stranu i kvalifikaciju. Treća faza pojačava budžet kada znate koji upiti imaju smisla. Četvrta faza čuva profit kada kapacitet postane ograničenje.
+
+Ovo se direktno nadovezuje na temu [raspodele marketing budžeta između oglasa, sajta i prodaje](/blog/raspodela-marketing-budzeta-oglasi-sajt-prodaja-srbija-2026). Ako sav novac ode u klikove, a sezonska landing strana, tracking i prodajni follow-up nisu spremni, špic samo brže pokaže slabosti.
+
+## Koliko ranije treba krenuti
+
+Nema univerzalnog roka, ali postoji korisno pravilo: kampanja treba da bude stabilna pre nego što sezona postane skupa. Za jednostavne lokalne usluge to može biti tri do šest nedelja ranije. Za skuplje B2B usluge, projekte sa više odlučilaca ili ponude koje traže konsultaciju, planiranje često mora početi dva do tri meseca ranije.
+
+Raniji start ne znači da se odmah troši pun budžet. To znači da se testiraju ključne reči, publike, oglasi, prvi ekran, forma, poziv na akciju i prodajni odgovor dok je greška jeftinija. Kada špic dođe, ne želite da tek tada saznate da posetioci ne razumeju ponudu ili da forma traži pogrešne podatke.
+
+Česta greška je da se mali test proglasi neuspehom jer nije odmah doneo dovoljno prodaje. Test pre sezone ima drugačiji cilj: da otkrije koja poruka privlači ozbiljne upite, koliko košta kvalifikovan lead, gde ljudi odustaju i šta prodaja može da obradi. Tek tada ima smisla razmišljati o tome [kada povećati marketing budžet](/blog/kada-povecati-marketing-budzet-skaliranje-srbija-2026).
+
+## Sezonski CPL nije isti u svakoj fazi
+
+Cena leada pre sezone može biti viša ili niža od cene u špicu, ali sama cifra nije dovoljna. Pre sezone kupac možda još istražuje i nije spreman za odluku. U špicu može biti hitniji, ali i skuplji za privlačenje. Posle špica može biti jeftiniji, ali manje vredan ako je kapacitet već prošao.
+
+Zato maksimalni CPL treba gledati kroz vrednost posla, maržu, verovatnoću zatvaranja i rok naplate. Upit od 3.000 dinara može biti odličan ako dolazi u trenutku kada firma ima slobodne termine i dobru maržu. Upit od 800 dinara može biti loš ako stiže kada je tim pun i prodaja nema vremena da odgovori kvalitetno.
+
+Formula iz teksta o [maksimalnoj ceni leada](/blog/maksimalna-cena-leada-srbija-2026) ovde je polazna tačka, ali sezona dodaje još jedan sloj: vreme. Lead vredi više kada možete brzo da ga obradite, date ponudu i isporučite posao bez rušenja kvaliteta.
+
+## Kapacitet je granica koju oglasi ne smeju ignorisati
+
+Sezonske kampanje često propadnu jer marketing i prodaja ne rade prema istom kalendaru. Marketing kupuje sve više upita jer kampanja izgleda dobro. Prodaja kasni jer nema dovoljno ljudi, termina, materijala, vozila ili slobodnih konsultacija. Na kraju se krive leadovi, iako je problem u tome što budžet nije usklađen sa kapacitetom.
+
+Ako tim može kvalitetno da obradi 40 ozbiljnih upita nedeljno, cilj nije kupiti 100 nedefinisanih poruka. Cilj je dovesti dovoljno kvalifikovanih prilika da se kalendar popuni najboljim poslovima. Kada se kapacitet popuni, kampanja treba da pređe na filtriranje, liste čekanja, skuplje poslove ili prikupljanje upita za sledeći termin.
+
+Zato je tekst o [kapacitetu prodaje i marketing budžetu](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026) važan za svaku sezonsku nišu. Više leadova nije rast ako tim zbog njih gubi najbolje kupce.
+
+## Landing strana mora govoriti sezonskim jezikom
+
+Sezonska potražnja ima svoje pitanje. Kupac ne pita samo šta nudite, nego da li možete sada, koliko se čeka, šta ulazi u cenu, šta treba pripremiti i šta se dešava ako zakasni. Ako landing strana i dalje zvuči kao opšta brošura, deo potražnje odlazi kod firme koja jasnije odgovara na trenutni problem.
+
+Za sezonu je korisno dodati rokove, kapacitet, prioritetne usluge, najčešća pitanja, uslove za bržu procenu i jasan sledeći korak. Forma treba da traži podatke koji pomažu prodaji da odmah proceni hitnost i vrednost upita. Kod nekih firmi to je datum događaja. Kod drugih lokacija, dimenzije, budžet, rok, broj korisnika ili tip usluge.
+
+Ovo je ista logika kao kod [usklađenosti oglasa i landing strane](/blog/uskladjenost-oglasa-landing-strane-konverzija-srbija-2026). Ako oglas obećava brzu sezonsku procenu, stranica mora nastaviti tu priču, a prodaja mora znati šta je obećano.
+
+## Šta meriti tokom sezone
+
+Tokom sezone ne gledajte samo potrošnju i broj formi. Gledajte koliko upita je kvalifikovano, koliko je odgovoreno u dogovorenom roku, koliko je zakazano, koliko je poslato ponuda, koliko je prihvaćeno i kolika je stvarna vrednost posla.
+
+Ako leadovi dolaze, a prodaja kasni, problem nije samo u oglasu. Ako je CPL porastao, ali se zatvaraju poslovi sa većom maržom, kampanja možda radi bolje nego što izgleda. Ako je CPL pao, ali dolaze ljudi koji nemaju budžet ili traže rok koji ne možete da ispunite, kampanja je samo jeftinije napravila lošiji posao.
+
+Zato pre sezone treba postaviti osnovno [praćenje konverzija](/blog/pracenje-konverzija-lead-generation-srbija-2026) i makar jednostavnu evidenciju statusa. Bez toga se odluke donose po osećaju, a osećaj je najgori baš kada prodaja gori od posla.
+
+## Kada Platinum Zenith planira sezonski budžet
+
+Kod sezonskih kampanja prvo gledamo kada kupac kreće da istražuje, koliko traje odluka, koliki je prosečan posao, kolika je bruto marža, koliko leadova prodaja može da obradi i gde trenutno curi proces. Tek posle toga ima smisla predložiti mesečni raspored budžeta.
+
+Ako već imate istoriju kampanja, proveravamo u kojim nedeljama su dolazili najbolji upiti, a ne samo najjeftiniji klikovi. Ako tek krećete, pravimo test pre špica, sezonsku poruku, landing stranu, tracking i plan skaliranja koji ne gura prodaju preko granice.
+
+Ako želite da izračunamo kada treba da krenete, koliko da testirate pre sezone i gde budžet ima najveći povrat, pošaljite nam nišu, sezonske mesece, prosečnu vrednost posla i trenutni kapacitet preko [kontakt strane](/kontakt). Ako već imate brojke, možete ih pripremiti i kroz [ROI kalkulator](/alati/roi-kalkulator), pa ćemo zajedno videti da li problem leži u budžetu, tajmingu, landing strani ili prodajnom procesu.
+`,
+  },
+  {
     slug: 'uskladjenost-oglasa-landing-strane-konverzija-srbija-2026',
     title: 'Usklađenost oglasa i landing strane u Srbiji 2026: zašto klik ne postaje upit',
     excerpt: 'Kada oglas obeća jedno, landing strana priča drugo, a prodaja pita treće, klikovi se troše bez upita. Evo kako uskladiti ceo tok.',

@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "sezonski-marketing-budzet-lead-generation-srbija-2026",
+    "title": "Sezonski marketing budžet u Srbiji 2026: kako planirati leadove pre špica",
+    "excerpt": "Sezonski budžet nije trošak u špicu, već plan pre potražnje. Evo kako rasporediti oglase, landing stranu i prodaju bez panike.",
+    "date": "2026-06-19",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "uskladjenost-oglasa-landing-strane-konverzija-srbija-2026",
     "title": "Usklađenost oglasa i landing strane u Srbiji 2026: zašto klik ne postaje upit",
     "excerpt": "Kada oglas obeća jedno, landing strana priča drugo, a prodaja pita treće, klikovi se troše bez upita. Evo kako uskladiti ceo tok.",
