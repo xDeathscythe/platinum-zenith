@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "vlasnistvo-leadova-marketing-prodaja-srbija-2026",
+    "title": "Vlasništvo leadova u Srbiji 2026: zašto marketing i prodaja gube upite",
+    "excerpt": "Kada marketing pošalje lead, a prodaja ne zna ko ga preuzima, upiti se hlade. Evo kako definisati vlasništvo, rokove i sledeći korak.",
+    "date": "2026-06-19",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-skole-jezika-cena-upisa-srbija-2026",
     "title": "Google Ads za škole jezika u Srbiji 2026: cena upisa i budžet",
     "excerpt": "Škole jezika ne kupuju samo upite, već prijave za prave kurseve, nivoe i termine. Evo kako planirati Google Ads budžet bez praznih poruka.",

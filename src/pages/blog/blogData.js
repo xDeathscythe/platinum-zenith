@@ -1,5 +1,94 @@
 const rawBlogPosts = [
   {
+    slug: 'vlasnistvo-leadova-marketing-prodaja-srbija-2026',
+    title: 'Vlasništvo leadova u Srbiji 2026: zašto marketing i prodaja gube upite',
+    excerpt: 'Kada marketing pošalje lead, a prodaja ne zna ko ga preuzima, upiti se hlade. Evo kako definisati vlasništvo, rokove i sledeći korak.',
+    date: '2026-06-19',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Lead Generation', 'Prodaja', 'CRM', 'Marketing proces', 'Konverzija'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Lead bez vlasnika brzo postaje hladan upit
+
+Mnoge firme u Srbiji misle da problem nastaje u oglasu čim lead ne postane prodaja. Kampanja je dovela upit, forma je poslata, telefon je zazvonio ili je stigla WhatsApp poruka. U izveštaju marketinga sve izgleda uredno. Onda krene poznata rasprava: marketing kaže da je doveo dovoljno leadova, prodaja kaže da su leadovi loši, a vlasnik firme vidi samo to da račun za oglase raste brže od prihoda.
+
+Česta greška je da lead nema jasnog vlasnika u prvih sat vremena. Neko je video poruku, neko je trebalo da pozove, neko je mislio da kolega već odgovara. Lead stoji u inboxu, tabeli ili CRM-u, ali nema osobu koja je odgovorna za sledeći korak. Zato [Google reklame](/google-reklame-cena) mogu donositi upite, a firma i dalje imati osećaj da kampanja ne prodaje.
+
+Ako se ne definiše ko preuzima lead, za koliko minuta, sa kojim informacijama i šta se dešava posle prvog kontakta, [digitalni marketing](/cene-digitalnog-marketinga) se pretvara u kupovinu pažnje bez kontrole nad prodajom. Lead generation nije završen kada forma stigne. Završava se tek kada postoji dogovoren sledeći korak ili jasna odluka da lead ne odgovara ponudi.
+
+## Zašto se leadovi gube između marketinga i prodaje
+
+Najopasniji deo funnel-a često nije oglas, nego prelaz iz marketinga u prodaju. Marketing optimizuje kampanju za upite. Prodaja živi u razgovorima, rokovima, cenama, prigovorima i dostupnosti termina. Ako ta dva sveta nemaju isti dogovor, svaki lead ulazi u sivu zonu.
+
+U praksi to izgleda ovako: kampanja dovede osobu koja traži cenu, rok ili konsultaciju. Forma sadrži ime, telefon i kratak opis problema. Prodaja dobije notifikaciju, ali ne zna da li je lead hitan, iz koje kampanje dolazi, šta mu je oglas obećao i da li je već video cenu na sajtu. Prvi odgovor zato bude opšti: pošaljite više informacija ili zvaćemo vas kasnije. Deo ozbiljnih kupaca tada ode konkurenciji koja je delovala spremnije.
+
+Nije problem samo brzina. Tekst o [brzini odgovora na upit](/blog/brzina-odgovora-na-upit-follow-up-prodaja-srbija-2026) pokriva koliko vreme utiče na prodaju, ali vlasništvo ide korak dublje. Brz odgovor nije dovoljan ako ga šalje pogrešna osoba, bez konteksta i bez jasnog sledećeg poteza.
+
+## Vlasništvo znači više od ko prvi podigne telefon
+
+Dobar dogovor oko vlasništva leada odgovara na četiri pitanja. Ko je odgovoran za prvi odgovor? Ko kvalifikuje lead? Ko unosi status i sledeći korak? Ko zatvara petlju prema marketingu ako lead nije dobar?
+
+Ako se ta pitanja ne zapišu, firma obično završi sa improvizacijom. Jedna osoba odgovara na Instagram, druga na forme, treća na telefon, a niko nema potpunu sliku. Vlasnik firme onda čuje samo delove: bilo je mnogo poruka, niko se nije javio, nisu ozbiljni, nemaju budžet, traže samo cenu. Neki od tih leadova stvarno nisu dobri. Ali bez vlasništva se ne zna koji su bili loši, a koji su samo izgubljeni u procesu.
+
+Zato svaki lead treba da ima jednog trenutnog vlasnika, čak i kada više ljudi učestvuje u prodaji. To ne znači da jedna osoba radi sve. Znači da u svakom trenutku postoji ime pored leada i dogovorena sledeća akcija: poziv, poruka, ponuda, podsetnik, zakazana konsultacija ili zatvaranje kao nekvalifikovan.
+
+## Minimum dogovora: rok, kanal, status i sledeći korak
+
+Za većinu malih i srednjih firmi nije potreban komplikovan sistem. Potreban je jednostavan operativni dogovor koji prodaja stvarno može da prati.
+
+Prvo, definišite rok prvog odgovora po tipu leada. Hitni upiti iz oglasa za lokalne usluge ne smeju čekati pola dana. Konsultativni B2B upit možda može dobiti kvalitetan odgovor u roku od nekoliko sati, ali ne sme ostati bez potvrde. Ako postoji [kontakt forma za kvalifikaciju leadova](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026), rok može zavisiti od vrednosti, budžeta, lokacije, termina ili hitnosti.
+
+Drugo, definišite kanal. Neki leadovi traže poziv, neki WhatsApp, neki email. Česta greška je da prodaja koristi kanal koji je njoj lakši, a ne kanal kojim je osoba poslala signal. Ako je lead došao kao WhatsApp poruka, prvi odgovor kroz isti kanal često smanjuje trenje. Ako je osoba tražila konsultaciju, kratak poziv može biti bolji od duge poruke.
+
+Treće, svaki lead mora dobiti status. Novo, kontaktiran, kvalifikovan, zakazano, poslata ponuda, izgubljeno, nekvalifikovano. Nije važno da li je alat pravi CRM ili uredna tabela. Važno je da status nije u nečijoj glavi. Tema [CRM-a za leadove](/blog/crm-za-leadove-evidencija-prodaja-srbija-2026) ovde postaje praktična: evidencija postoji da bi sledeći potez bio jasan, ne da bi menadžment imao još jednu tabelu.
+
+## Kako prepoznati ko treba da preuzme lead
+
+Nisu svi leadovi za istu osobu. Ako svaki upit ide najbližem slobodnom članu tima, ozbiljne prilike često čekaju iza sitnih pitanja. Zato vlasništvo treba povezati sa prioritetom.
+
+Jednostavan model je A, B i C. A lead ima jasan problem, odgovara ponudi, ima realan budžet ili vrednost posla i može doneti odluku u razumnom roku. Takav lead preuzima najjača prodajna osoba ili vlasnik, brzo. B lead ima potencijal, ali treba dodatna kvalifikacija. C lead traži nešto što firma ne radi, nema budžet, nije u području rada ili samo skuplja informacije.
+
+Ovo se naslanja na [lead scoring](/blog/lead-scoring-prioritet-upita-prodaja-srbija-2026), ali poenta nije u lepom bodovanju. Poenta je da ozbiljan upit ne čeka zato što tim prvo odgovara na deset poruka bez jasne namere. Kada se zna ko preuzima A lead, ko radi kvalifikaciju B leadova i šta se šalje C leadovima, prodaja prestaje da se oseća kao beskonačan inbox.
+
+## Marketing mora dobiti povratnu informaciju
+
+Vlasništvo leada nije samo prodajni problem. Ako prodaja ne vraća informaciju marketingu, kampanje nastavljaju da kupuju slične upite, čak i kada se kasnije pokaže da ne zatvaraju posao. Marketing tada vidi CPL, broj formi i cenu klika. Prodaja vidi razgovore, prigovore, rokove, budžet i kvalitet. Bez razmene, obe strane rade sa pola slike.
+
+Minimum povratne informacije je jednostavan: koji leadovi su bili kvalifikovani, koji su zakazani, koji su dobili ponudu, koji su kupljeni pogrešnom porukom i koji su zatvoreni kao prodaja. Ako se vidi da jedna kampanja donosi mnogo jeftinih C leadova, budžet treba prebaciti ili pooštriti poruku. Ako skuplja kampanja donosi manje, ali bolje upite, možda je upravo ona profitabilnija.
+
+Ovo je razlog zašto samo broj leadova vara. Kao i kod teme [CPL nije CAC](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026), prava odluka se donosi tek kada se zna šta se desilo posle prvog kontakta. Lead bez statusa je samo trošak koji još nije objašnjen.
+
+## Prvi odgovor mora nastaviti obećanje iz oglasa
+
+Još jedna greška je da prodaja počinje razgovor kao da lead nije video ništa pre toga. Oglas je obećao konkretnu korist, landing strana je objasnila problem, forma je pitala određena pitanja, a prvi odgovor onda glasi: recite nam šta vam treba. Time se gubi kontinuitet.
+
+Bolji prvi odgovor koristi kontekst. Ako je oglas bio za Google Ads kampanju, prodaja ne mora od nule pitati da li osoba želi marketing. Može potvrditi: vidim da vas zanima više kvalifikovanih upita iz Google reklama; da bismo procenili da li ima smisla, treba mi trenutni mesečni budžet, prosečna vrednost klijenta i kako sada pratite prodaju. To je konkretnije, brže i pokazuje da firma zna zašto se osoba javila.
+
+Ako firma već ima problem sa tim da oglas, landing strana i prodaja pričaju tri različite priče, vredi pročitati tekst o [usklađenosti oglasa i landing strane](/blog/uskladjenost-oglasa-landing-strane-konverzija-srbija-2026). Vlasništvo leada je poslednji deo iste logike: neko mora da nastavi obećanje, ne da resetuje razgovor.
+
+## Šta meriti da biste znali da li vlasništvo radi
+
+Ne treba uvoditi deset novih metrika. Dovoljno je pratiti nekoliko brojeva koji pokazuju da li leadovi imaju vlasnika i kretanje kroz proces.
+
+Pratite vreme do prvog odgovora, procenat leadova sa dodeljenim vlasnikom, procenat leadova sa sledećim korakom, broj izgubljenih zbog kašnjenja, procenat kvalifikovanih leadova koji dobiju ponudu i procenat ponuda koje dobiju follow-up. Ako se lead zaključa u fazi poslata ponuda bez podsetnika, problem više nije oglas. Problem je opisan u tekstu o [ponudi posle upita](/blog/ponuda-posle-upita-leadovi-prodaja-srbija-2026).
+
+Za prodajne razgovore pratite i da li osoba koja preuzima lead ima kontekst. Bez toga se svaki poziv pretvara u ručno otkrivanje onoga što je landing strana već mogla da prikupi. Tekst o [prodajnom pozivu za leadove](/blog/prodajni-poziv-za-leadove-srbija-2026) dobro se uklapa kao sledeći korak kada vlasništvo i evidencija već postoje.
+
+## Kada Platinum Zenith sređuje vlasništvo leadova
+
+Kod kampanja koje ne prodaju prvo gledamo gde lead menja ruke. Da li upit stiže na pravo mesto? Da li prodaja vidi izvor, kampanju i poruku? Da li postoji rok prvog odgovora? Da li neko ima ime pored leada? Da li se status vraća u izveštaj, ili kampanja optimizuje samo prema formama?
+
+Nekad se problem reši u oglasu. Nekad u landing strani. Ali često se najveći pomak desi kada firma uvede jednostavan dogovor: ko preuzima koji lead, u kom roku, kojim kanalom, sa kojim pitanjima i šta se meri posle toga.
+
+Ako imate leadove, ali ne znate zašto ne postaju prodaja, pošaljite nam trenutni tok od oglasa do prvog odgovora preko [kontakt strane](/kontakt). Pogledaćemo gde se upiti hlade: u kampanji, formi, CRM-u, prodajnom pozivu, ponudi ili u trenutku kada svi misle da je lead nečija tuđa odgovornost.
+`,
+  },
+  {
     slug: 'google-ads-za-skole-jezika-cena-upisa-srbija-2026',
     title: 'Google Ads za škole jezika u Srbiji 2026: cena upisa i budžet',
     excerpt: 'Škole jezika ne kupuju samo upite, već prijave za prave kurseve, nivoe i termine. Evo kako planirati Google Ads budžet bez praznih poruka.',
