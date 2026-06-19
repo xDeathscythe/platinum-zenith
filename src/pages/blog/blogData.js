@@ -1,5 +1,84 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-skole-jezika-cena-upisa-srbija-2026',
+    title: 'Google Ads za škole jezika u Srbiji 2026: cena upisa i budžet',
+    excerpt: 'Škole jezika ne kupuju samo upite, već prijave za prave kurseve, nivoe i termine. Evo kako planirati Google Ads budžet bez praznih poruka.',
+    date: '2026-06-19',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Škole jezika', 'Lokalni marketing', 'Lead Generation', 'Marketing budžet'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Upit za kurs nije isto što i plaćen upis
+
+Škole jezika u Srbiji često gledaju Google Ads kroz broj poruka: koliko ljudi je pitalo za cenu, koliko ih je kliknulo na telefon i koliko je popunilo formu. To je razumljivo, ali nije dovoljno. Jedan upit može biti roditelj koji traži engleski za dete od sedam godina u terminu posle škole. Drugi može biti odrasla osoba kojoj hitno treba nemački zbog posla u inostranstvu. Treći samo poredi cene pet škola i neće se nikada pojaviti na probnom času.
+
+Česta greška je da se svi ti kontakti stave u istu kolonu: lead. U izveštaju kampanja izgleda aktivno, ali administracija kasnije odgovara na ista pitanja, predavači čekaju grupe koje se ne pune, a budžet se troši na ljude koji nisu spremni za upis. Zato [Google reklame](/google-reklame-cena) za škole jezika moraju meriti prijavu za konkretan kurs, nivo, termin i lokaciju, ne samo sirov upit.
+
+Ako se kampanja vodi bez tog razdvajanja, [digitalni marketing](/cene-digitalnog-marketinga) postaje skuplja oglasna tabla. Dobar sistem treba da pomogne školi da popuni profitabilne grupe, smanji prazna mesta i brže prepozna koga vredi zvati odmah.
+
+## Prvo razdvojite nameru po jeziku, nivou i cilju
+
+Nije ista pretraga za engleski za decu, poslovni engleski, nemački A1, pripremu za IELTS, konverzacijski španski ili online časove. Svaka od tih namera ima drugačiji rok odluke, cenu, očekivanje i način prodaje. Ako sve ide u jednu kampanju i jednu landing stranu, algoritam će često doneti najjeftinije upite, ne najbolje upise.
+
+Kod škole jezika treba odvojiti bar četiri grupe namere: deca i tinejdžeri, odrasli početnici, poslovni ili sertifikacioni kursevi i individualni časovi. Unutar toga se dalje razdvajaju jezici, gradovi, online nastava, intenzivni kursevi i rokovi upisa. Oglas koji vodi roditelja treba da priča o uzrastu, terminu, bezbednosti i napretku. Oglas koji vodi odraslu osobu treba da priča o cilju, tempu, nivou i rezultatu.
+
+Mnoge škole izgube budžet jer šalju sav saobraćaj na opštu stranicu sa listom jezika. Posetilac tada mora sam da pronađe kurs, cenu, termin i sledeći korak. Deo ljudi odustane, a deo pošalje praznu poruku: koliko košta engleski? Takav upit nije bezvredan, ali prodaja mora da uloži više vremena da bi otkrila da li postoji realna šansa za upis.
+
+## Koliko sme da košta upit za školu jezika
+
+Maksimalna cena upita zavisi od prosečne cene kursa, trajanja programa, popunjenosti grupa, marže i šanse da polaznik nastavi na sledeći nivo. Upit za grupni kurs od nekoliko meseci ne vredi isto kao upit za jedan probni čas. Upit za dete koje može ostati u školi godinama može imati veću dugoročnu vrednost od jednokratnog intenzivnog kursa.
+
+Zato se cena leada ne računa iz osećaja. Ako grupa ima 10 mesta, a profit po polazniku je ograničen, škola ne može plaćati upite kao da svaki kontakt postaje upis. Potrebno je znati koliko upita obično dođe do probnog časa, koliko do uplate i koliko polaznika nastavlja. Tek tada ima smisla postaviti granicu za [maksimalnu cenu leada](/blog/maksimalna-cena-leada-srbija-2026).
+
+Na primer, ako je cilj popuniti dve nove grupe nemačkog, kampanja ne treba da optimizuje prema svim pitanjima o nemačkom. Treba da optimizuje prema osobama koje znaju cilj, mogu u ponuđenom terminu, odgovaraju nivou i prihvataju cenu ili bar cenovni okvir. Jeftin upit koji nikada ne može u termin nije jeftin. Samo je ranije napravio gužvu.
+
+## Landing strana mora odgovoriti pre nego što osoba pita
+
+Dobra landing strana za školu jezika ne mora biti duga, ali mora biti konkretna. Za svaki kurs treba jasno navesti kome je namenjen, koji nivo pokriva, kada počinje, koliko traje, da li je online ili uživo, kolike su grupe, da li postoji probni čas, kako izgleda procena nivoa i koji je sledeći korak.
+
+Česta greška je sakrivanje svega iza generičkog dugmeta pošaljite upit. Škola želi razgovor, ali posetilac prvo želi sigurnost da kurs odgovara njegovom problemu. Roditelj želi da zna da dete neće upasti u pogrešnu grupu. Zaposlena osoba želi da zna da li može posle posla. Kandidat za ispit želi da zna da li program pokriva rok i format ispita.
+
+Ako se oglas i landing strana ne poklapaju, kampanja gubi deo namere. Oglas može obećati nemački za odlazak u Austriju, a stranica zatim priča opšte o modernoj nastavi. To je isti problem opisan u tekstu o [usklađenosti oglasa i landing strane](/blog/uskladjenost-oglasa-landing-strane-konverzija-srbija-2026): osoba klikne zbog jedne potrebe, a dobije preširoku priču.
+
+## Forma treba da kvalifikuje, ali ne da uplaši
+
+Škole jezika često imaju dve loše krajnosti. Prva je forma sa samo imenom i telefonom, pa administracija mora sve da pita naknadno. Druga je preduga forma koja izgleda kao test pre nego što je osoba uopšte odlučila da se javi. Bolje rešenje je kratka kvalifikaciona forma koja pomaže i posetiocu i prodaji.
+
+Za prvi kontakt obično su dovoljni: jezik, uzrast ili tip polaznika, trenutni nivo ako ga osoba zna, željeni termin, online ili uživo, grad ako je relevantan i najlakši način kontakta. Ako se radi o sertifikatu ili poslu u inostranstvu, forma može pitati rok. Ako se radi o deci, može pitati razred ili uzrast.
+
+Ovo je praktična primena teme [kontakt forme za kvalifikaciju leadova](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026). Forma ne treba da bude prepreka. Treba da spreči da se ozbiljan upit izgubi među porukama bez konteksta.
+
+## Sezona upisa menja budžet
+
+Škole jezika često imaju sezonske talase: septembar, januar, ispitni rokovi, letnji intenzivni kursevi i periodi kada ljudi planiraju odlazak u inostranstvo. Ako se budžet uključi tek kada konkurencija već puni grupe, klikovi mogu biti skuplji, a poruka manje testirana.
+
+Bolje je krenuti ranije sa manjim testom. Pre glavnog talasa proveriti koji jezik i koja poruka donose kvalitetne upite, da li landing strana smanjuje ista pitanja, koliko brzo tim odgovara i gde ljudi odustaju. Kada sezona krene, budžet se povećava samo za kurseve koji imaju mesta, predavače i jasnu ekonomiju.
+
+Tekst o [sezonskom marketing budžetu](/blog/sezonski-marketing-budzet-lead-generation-srbija-2026) ovde je posebno važan. Nije cilj potrošiti najviše baš kada svi traže. Cilj je ući u sezonu sa spremnim kampanjama, jasnim grupama i prodajnim procesom koji može da prati tempo.
+
+## Šta pratiti posle klika
+
+Ako tracking meri samo slanje forme, kampanja će se vremenom optimizovati prema ljudima koji lako šalju poruke. To nije uvek isto što i ljudi koji se upisuju. Minimum za školu jezika je: izvor upita, jezik, nivo, termin, status kontakta, probni čas, upis, uplata i nastavak na sledeći ciklus.
+
+Bez [praćenja konverzija](/blog/pracenje-konverzija-lead-generation-srbija-2026), lako se donese pogrešan zaključak. Kampanja za jedan jezik može imati skuplji CPL, ali veći procenat upisa i bolju dugoročnu vrednost. Druga kampanja može delovati jeftino, ali donositi ljude koji nikada ne odgovore posle prve poruke.
+
+Brzina odgovora je takođe bitna. Osoba koja traži kurs često šalje upit na više mesta. Ako škola odgovori sutradan generičkom porukom, deo prodaje je već izgubljen. Zato treba imati šablon prvog odgovora po jeziku i cilju, ali dovoljno ljudski da osoba ne dobije osećaj da priča sa automatizovanom brošurom.
+
+## Kada Platinum Zenith planira kampanju za školu jezika
+
+Kod škole jezika prvo gledamo koje kurseve zaista treba popuniti, koliko mesta postoji, koji termini su profitabilni, kolika je vrednost polaznika kroz više nivoa i gde trenutno puca put od upita do uplate. Tek posle toga se bira budžet po jeziku, gradu, sezoni i tipu polaznika.
+
+Ako već imate kampanje, proveravamo koji upiti su završili kao probni čas, koji kao upis, a koji samo kao pitanje o ceni. Ako krećete od nule, pravimo manji test sa jasnim grupama namere, landing stranom, kvalifikacionom formom i trackingom koji razlikuje upit od stvarnog upisa.
+
+Ako vodite školu jezika i želite više plaćenih upisa, pošaljite nam jezike, gradove, termine, prosečnu cenu kursa, kapacitet grupa i trenutni način praćenja upita preko [kontakt strane](/kontakt). Možemo brzo da procenimo da li budžet curi na pogrešne upite, lošu stranicu, spor odgovor ili kampanje koje ne razlikuju poruku od stvarne prijave.
+`,
+  },
+  {
     slug: 'sezonski-marketing-budzet-lead-generation-srbija-2026',
     title: 'Sezonski marketing budžet u Srbiji 2026: kako planirati leadove pre špica',
     excerpt: 'Sezonski budžet nije trošak u špicu, već plan pre potražnje. Evo kako rasporediti oglase, landing stranu i prodaju bez panike.',

@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-skole-jezika-cena-upisa-srbija-2026",
+    "title": "Google Ads za škole jezika u Srbiji 2026: cena upisa i budžet",
+    "excerpt": "Škole jezika ne kupuju samo upite, već prijave za prave kurseve, nivoe i termine. Evo kako planirati Google Ads budžet bez praznih poruka.",
+    "date": "2026-06-19",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "sezonski-marketing-budzet-lead-generation-srbija-2026",
     "title": "Sezonski marketing budžet u Srbiji 2026: kako planirati leadove pre špica",
     "excerpt": "Sezonski budžet nije trošak u špicu, već plan pre potražnje. Evo kako rasporediti oglase, landing stranu i prodaju bez panike.",
