@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "dnevni-budzet-google-ads-lead-generation-srbija-2026",
+    "title": "Dnevni budžet za Google Ads u Srbiji 2026: kako ne ugušiti lead generation",
+    "excerpt": "Dnevni budžet nije samo mesečna cifra podeljena na 30. Evo kako planirati pacing, test, kvalitet leadova i prodaju bez panike.",
+    "date": "2026-06-20",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "vlasnistvo-leadova-marketing-prodaja-srbija-2026",
     "title": "Vlasništvo leadova u Srbiji 2026: zašto marketing i prodaja gube upite",
     "excerpt": "Kada marketing pošalje lead, a prodaja ne zna ko ga preuzima, upiti se hlade. Evo kako definisati vlasništvo, rokove i sledeći korak.",

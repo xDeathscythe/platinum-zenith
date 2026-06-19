@@ -1,5 +1,84 @@
 const rawBlogPosts = [
   {
+    slug: 'dnevni-budzet-google-ads-lead-generation-srbija-2026',
+    title: 'Dnevni budžet za Google Ads u Srbiji 2026: kako ne ugušiti lead generation',
+    excerpt: 'Dnevni budžet nije samo mesečna cifra podeljena na 30. Evo kako planirati pacing, test, kvalitet leadova i prodaju bez panike.',
+    date: '2026-06-20',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Marketing budžet', 'Lead Generation', 'ROI', 'Prodaja'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Dnevni budžet ne sme da uguši učenje kampanje
+
+Mnoge firme u Srbiji kreću u Google Ads sa jednim jednostavnim dogovorom: imamo mesečno toliko, podeli na 30 dana i pusti kampanju. Na papiru deluje uredno. U praksi, taj pristup često napravi kampanju koja nema dovoljno klikova da nauči, nema dovoljno leadova da se proceni kvalitet i nema dovoljno prostora da se popravi poruka pre nego što vlasnik zaključi da oglasi ne rade.
+
+Česta greška je da se dnevni budžet tretira kao računovodstvena stavka, a ne kao operativni tempo za učenje i prodaju. Ako je budžet prenizak, kampanja dobija premalo signala. Ako je previsok pre nego što su landing strana, forma i prodaja spremni, novac se troši brže nego što firma može da razume šta se dešava. Zato [Google reklame](/google-reklame-cena) ne treba planirati samo pitanjem koliko smemo dnevno da potrošimo, nego koliko smislenih pokušaja dnevno možemo da kupimo, obradimo i izmerimo.
+
+Dnevni budžet je poluga koja određuje brzinu učenja. Ako se postavi pogrešno, [digitalni marketing](/cene-digitalnog-marketinga) može izgledati ili presporo ili preskupo, iako problem nije kanal nego tempo.
+
+## Mesečna cifra podeljena na 30 nije strategija
+
+Ako firma kaže da ima 90.000 dinara mesečno, najlakše je postaviti 3.000 dinara dnevno. Ali kampanja retko troši i uči linearno. Ponedeljak ne vredi isto kao subota. Početak meseca ne mora imati istu nameru kao kraj meseca. Sezonski talas, prodajni kapacitet, hitnost kupca i konkurencija menjaju cenu signala iz dana u dan.
+
+Kod lead generation kampanja važnije je pitanje koliko kvalifikovanih pokušaja treba da se desi u jednoj fazi. Ako je prosečan relevantan klik skup, mali dnevni budžet može doneti premalo poseta da bi forma, oglas i prodaja dobili ikakav zaključak. Tim tada gleda tri leada za dve nedelje i donosi veliku odluku iz premalog uzorka.
+
+Druga krajnost je jednako opasna. Neke firme puste visok dnevni budžet jer žele brz dokaz. Oglasi kupe mnogo klikova pre nego što je tracking sređen, pre nego što prodaja zna šta pita i pre nego što landing strana filtrira pogrešne upite. Kampanja tada ne testira tržište. Ona finansira haos.
+
+## Prvo odredite šta dnevni budžet treba da nauči
+
+Dnevni budžet treba da ima zadatak. U prvoj fazi zadatak može biti da proveri da li postoji dovoljno potražnje za konkretnom ponudom. U drugoj, da vidi koja poruka donosi bolje upite. U trećoj, da potvrdi maksimalnu cenu leada. U četvrtoj, da skalira samo ono što prodaja može da zatvori.
+
+Ako je cilj test, budžet ne mora odmah biti maksimalan, ali mora biti dovoljan da se nešto zaključi. Tekst o [minimalnom budžetu za lead generation](/blog/minimalni-budzet-za-lead-generation-srbija-2026) objašnjava zašto premali test često ne štedi novac, nego odlaže odluku. Tri slučajna klika dnevno ne pokazuju tržište. Pokazuju samo da firma nije kupila dovoljno podataka.
+
+Ako je cilj skaliranje, dnevni budžet mora pratiti granice koje je firma već izračunala. Tu se nadovezuje [maksimalna cena leada](/blog/maksimalna-cena-leada-srbija-2026): nije dovoljno da kampanja troši planirano. Mora donositi upite koji imaju šansu da postanu kupci po ceni koju marža i prodaja mogu da izdrže.
+
+## Kada nizak dnevni budžet pravi lažno lošu kampanju
+
+Prenizak dnevni budžet često izgleda bezbedno, ali može pokvariti sliku. Kampanja dobije malo prikaza, algoritam nema stabilan ritam, oglasi se pojavljuju u čudnim terminima, a svaka pojedinačna greška deluje ogromno. Jedan loš lead tada obori utisak o celom kanalu.
+
+Na primer, firma koja prodaje uslugu od 500 evra može postaviti budžet kao da prodaje impulsnu kupovinu. Onda dobije nekoliko neodlučnih posetilaca, prodaja zaključi da su leadovi loši, a vlasnik smanji budžet još više. Problem je što kampanja nikada nije dobila dovoljno šansi da pronađe pravi segment, testira poruku i izbaci loše upite.
+
+Ovo ne znači da treba trošiti bez kontrole. Znači da dnevni budžet mora biti povezan sa vrednošću odluke. Ako jedan dobar klijent vredi mnogo, kampanja koja dnevno kupuje premalo relevantnih klikova samo produžava neizvesnost.
+
+## Kada visok dnevni budžet pravi skupe lažne pobede
+
+Visok dnevni budžet može dati suprotan problem: mnogo leadova, ali bez jasnog kvaliteta. U izveštaju se vidi rast formi, poziva i poruka. Tim je zauzet. Vlasnik ima osećaj da se nešto dešava. Ali ako se ne meri šta je od toga kvalifikovano, budžet može praviti buku umesto prodaje.
+
+Česta greška je da se visok budžet pusti pre nego što je [praćenje konverzija](/blog/pracenje-konverzija-lead-generation-srbija-2026) razdvojilo sirove forme od ozbiljnih upita. Kampanja tada uči na pogrešnom signalu. Optimizuje se prema ljudima koji lako šalju poruku, ne prema ljudima koji mogu da kupe.
+
+Još veći problem nastaje kada prodaja nema kapacitet. Ako dnevni budžet donese 20 upita, a tim može kvalitetno obraditi 6, preostalih 14 nije rast. To je curenje. Zato se tema [kapaciteta prodaje i marketing budžeta](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026) direktno vezuje za dnevni pacing. Budžet treba da puni prodajni sistem, ne da ga poplavi.
+
+## Praktičan model za dnevni pacing
+
+Za većinu uslužnih firmi bolji model je fazni. Prva faza je kontrolisani test od 7 do 14 dana. Cilj nije maksimalna prodaja, nego prikupljanje dovoljno signala: koje ključne reči donose nameru, koja poruka dobija klik, koji upit je kvalifikovan i gde ljudi odustaju.
+
+Druga faza je korekcija. Ako se vidi da leadovi pitaju samo cenu, landing strana možda ne objašnjava vrednost. Ako su upiti van lokacije, ciljanja i negativne ključne reči nisu dovoljno oštri. Ako se ljudi javljaju, ali ne zakazuju razgovor, problem je možda u formi, prvom odgovoru ili ponudi.
+
+Treća faza je povećanje budžeta u blokovima, ne iz emocije. Umesto da se dnevni budžet udvostruči zato što je jedna nedelja izgledala dobro, povećanje treba vezati za broj kvalifikovanih leadova, cenu po kvalifikovanom leadu, stopu zatvaranja i brzinu odgovora. O tome detaljnije piše tekst o tome [kada povećati marketing budžet](/blog/kada-povecati-marketing-budzet-skaliranje-srbija-2026).
+
+## Kako povezati dnevni budžet sa ROI
+
+Dnevni budžet postaje ozbiljan tek kada se poveže sa ekonomijom posla. Ako firma dnevno troši 5.000 dinara, mesečno to nije samo 150.000 dinara troška. To je pitanje koliko kvalifikovanih razgovora, ponuda i prodaja taj ritam mora da proizvede da bi imao smisla.
+
+Najjednostavnija računica ide unazad. Kolika je bruto dobit po prosečnom poslu? Koliko leadova treba za jednu prodaju? Koliko brzo se novac vraća? Koliko prodaja može da obradi bez pada kvaliteta? Ako se ova pitanja preskoče, dnevni budžet se svodi na osećaj. Nekome deluje mnogo, nekome malo, ali niko ne zna granicu.
+
+Zato su teme [CPL nije CAC](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026), [raspodele marketing budžeta](/blog/raspodela-marketing-budzeta-oglasi-sajt-prodaja-srbija-2026) i [ROI kalkulator](/alati/roi-kalkulator) praktične, ne teorijske. Dnevni budžet treba da bude tempo kojim se kupuje put ka profitabilnoj akviziciji, ne cifra koja lepo izgleda u tabeli.
+
+## Kada Platinum Zenith planira dnevni budžet
+
+Kod Google Ads kampanja prvo gledamo šta firma stvarno prodaje, koliko vredi jedan dobar kupac, koliko upita prodaja može da obradi i šta se trenutno meri posle forme. Tek onda predlažemo dnevni budžet. Nekad je odgovor da treba potrošiti više da bi test imao smisla. Nekad je odgovor da budžet ne treba povećavati dok se ne poprave landing strana, tracking ili prodajni follow-up.
+
+Dobar dnevni budžet ne obećava čudo za tri dana. On pravi dovoljno ritma da se vide obrasci, dovoljno kontrole da se loši upiti zaustave i dovoljno prostora da prodaja potvrdi da kampanja donosi stvarne prilike.
+
+Ako planirate Google Ads i ne znate da li je dnevni budžet premali, prevelik ili samo pogrešno raspoređen, pošaljite nam mesečni budžet, prosečnu vrednost posla, trenutni CPL i kapacitet prodaje preko [kontakt strane](/kontakt). Pogledaćemo da li problem leži u cifri, pacing-u, kvalitetu leadova, landing strani ili prodajnom procesu.
+`,
+  },
+  {
     slug: 'vlasnistvo-leadova-marketing-prodaja-srbija-2026',
     title: 'Vlasništvo leadova u Srbiji 2026: zašto marketing i prodaja gube upite',
     excerpt: 'Kada marketing pošalje lead, a prodaja ne zna ko ga preuzima, upiti se hlade. Evo kako definisati vlasništvo, rokove i sledeći korak.',
