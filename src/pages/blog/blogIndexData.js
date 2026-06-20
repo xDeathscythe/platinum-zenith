@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "stopa-zatvaranja-leadova-marketing-budzet-srbija-2026",
+    "title": "Stopa zatvaranja leadova u Srbiji 2026: kako planirati marketing budžet",
+    "excerpt": "Stopa zatvaranja menja koliko sme da košta lead. Evo kako izračunati budžet, CPL i broj kvalifikovanih upita pre nego što kampanja pojede maržu.",
+    "date": "2026-06-21",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "prvi-odgovor-na-lead-prodajna-skripta-srbija-2026",
     "title": "Prvi odgovor na lead u Srbiji 2026: prodajna skripta koja ne gubi upit",
     "excerpt": "Brz odgovor nije dovoljan ako prva poruka zvuči generički. Evo kako napisati odgovor na lead koji kvalifikuje, gradi poverenje i vodi ka prodaji.",

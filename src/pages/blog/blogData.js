@@ -1,5 +1,86 @@
 const rawBlogPosts = [
   {
+    slug: 'stopa-zatvaranja-leadova-marketing-budzet-srbija-2026',
+    title: 'Stopa zatvaranja leadova u Srbiji 2026: kako planirati marketing budžet',
+    excerpt: 'Stopa zatvaranja menja koliko sme da košta lead. Evo kako izračunati budžet, CPL i broj kvalifikovanih upita pre nego što kampanja pojede maržu.',
+    date: '2026-06-21',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Lead Generation', 'Marketing budžet', 'Prodaja', 'CPL', 'ROI'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Stopa zatvaranja određuje koliko budžet stvarno vredi
+
+Mnoge firme u Srbiji gledaju marketing budžet kroz pitanje: koliko leadova možemo dobiti za ovaj novac? To je prirodno pitanje, ali nije dovoljno. Ako prodaja zatvara 30% kvalifikovanih upita, isti budžet ima potpuno drugačiju vrednost nego kada zatvara 5%. Broj leadova može izgledati dobro u izveštaju, dok profit tiho curi kroz slab proces posle forme.
+
+Česta greška je da se kampanja ocenjuje samo po ceni upita. Firma vidi da je lead 1.500 dinara, pa deluje da je kanal isplativ. Druga firma plaća lead 4.000 dinara i paniči. Ali bez stope zatvaranja, prosečne vrednosti klijenta i bruto marže, te cifre ne govore skoro ništa. Zato [Google reklame](/google-reklame-cena) ne treba planirati samo kroz CPC i CPL, nego kroz to koliko kvalifikovanih razgovora prodaja pretvara u novac.
+
+Ako se ova veza preskoči, [digitalni marketing](/cene-digitalnog-marketinga) počinje da liči na kupovinu kontakata. Pravi cilj nije jeftin lead. Pravi cilj je dovoljno kvalifikovanih prilika koje prodaja može da zatvori po ceni koju biznis može da izdrži.
+
+## Jeftin lead može biti skup kupac
+
+Tekst [CPL nije CAC](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026) pokriva razliku između cene leada i cene kupca. Stopa zatvaranja je most između ta dva broja. Ako je CPL 2.000 dinara, a prodaja zatvara svaki deseti kvalifikovan lead, akvizicija kupca pre ostalih troškova iznosi oko 20.000 dinara. Ako zatvara svaki četvrti, isti CPL daje kupca za 8.000 dinara.
+
+Zato nije dovoljno pitati da li je lead skup. Treba pitati koliko kvalifikovanih leadova treba za jednu prodaju. U mnogim firmama odgovor nije poznat jer se sirovi upiti, kvalifikovani upiti, zakazani pozivi, poslate ponude i zatvorene prodaje drže u istoj mentalnoj fioci. Sve je lead, sve je prilika, sve je u toku.
+
+Takav sistem često kažnjava marketing za problem koji je nastao kasnije. Kampanja dovede realan upit, forma ne prikupi dovoljno podataka, prodaja kasni, ponuda je generična, status se ne upiše i posle dve nedelje neko kaže da su leadovi loši. Nekad jesu. Ali nekad firma nema zatvoren krug merenja.
+
+## Kako izračunati prihvatljiv CPL iz stope zatvaranja
+
+Praktična računica ide unazad. Prvo se uzme prosečna bruto dobit po novom klijentu ili poslu. Ne prihod, nego bruto dobit posle direktnih troškova isporuke. Zatim se odredi koliko te dobiti firma sme da potroši na akviziciju. Posle toga se računa koliko kvalifikovanih leadova treba za jednu prodaju.
+
+Ako jedan novi klijent donosi 120.000 dinara bruto dobiti, a firma može da potroši 30.000 dinara na akviziciju, to je granica za CAC. Ako prodaja zatvara 20% kvalifikovanih leadova, znači da joj treba pet kvalifikovanih leadova za jednog klijenta. Maksimalni kvalifikovani CPL je tada oko 6.000 dinara. Ako zatvara 10%, maksimalni CPL pada na oko 3.000 dinara.
+
+Ovo je isti princip kao kod [maksimalne cene leada](/blog/maksimalna-cena-leada-srbija-2026), ali sa jednim važnim dodatkom: stopa zatvaranja nije fiksna istina. Ona se menja po tipu ponude, kvalitetu upita, brzini odgovora, prodajnom pozivu, sezoni i tome koliko je kupac već informisan. Zato jedna prosečna stopa za celu firmu može da zavara.
+
+## Ne merite sve leadove istom stopom
+
+Jedna od čestih grešaka je računanje jedne ukupne stope zatvaranja za sve izvore. Lead iz brend pretrage nije isti kao hladan klik sa opšte ključne reči. Upit za skuplji paket nije isti kao pitanje koliko košta najjeftinija opcija. Preporuka bivšeg klijenta nije ista kao osoba koja je otvorila tri konkurentska sajta i samo poredi cene.
+
+Zato je korisno razdvojiti bar tri nivoa. Prvi su kvalifikovani A leadovi: imaju problem koji firma rešava, realan budžet, dobar tajming i jasan sledeći korak. Drugi su B leadovi: postoji potencijal, ali treba dodatna kvalifikacija. Treći su C leadovi: slab fit, nejasna namera ili cena kao jedini kriterijum.
+
+Ako svi ovi upiti ulaze u isti procenat, budžet se planira naslepo. [Lead scoring](/blog/lead-scoring-prioritet-upita-prodaja-srbija-2026) pomaže da se vidi da li kampanja dovodi dovoljno A i B prilika, a ne samo veliki broj poruka. Dve kampanje mogu imati isti CPL, ali potpuno drugačiju vrednost ako jedna puni prodaju A leadovima, a druga troši vreme na C upite.
+
+## Kada povećanje budžeta pogorša ROI
+
+Veći budžet zvuči logično kada kampanja donosi leadove. Problem nastaje kada se ne proveri da li stopa zatvaranja ostaje ista pri većem volumenu. Neke firme mogu kvalitetno obraditi 20 upita mesečno, ali se raspadnu na 60. Odgovori kasne, ponude se šalju bez konteksta, pozivi se ne beleže i dobri leadovi čekaju iza slabih.
+
+Tada se dešava paradoks: CPL može ostati sličan, ali CAC raste jer prodaja zatvara manji procenat. U izveštaju marketing izgleda stabilno, a profitabilnost pada. Zato se tema [kapaciteta prodaje i marketing budžeta](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026) direktno vezuje za stopu zatvaranja. Više leadova ima smisla samo ako prodaja može da zadrži kvalitet obrade.
+
+Pre povećanja budžeta treba proveriti četiri stvari: da li se leadovi obrađuju dovoljno brzo, da li postoji jasna kvalifikacija, da li se beleži status svakog upita i da li stopa zatvaranja po tipu leada ostaje stabilna. Bez toga, skaliranje može samo brže otkriti slabosti sistema.
+
+## Gde se stopa zatvaranja najčešće kvari
+
+Prvo mesto je pogrešna definicija kvalifikovanog leada. Ako se svaka poruka računa kao prilika, stopa zatvaranja deluje loše čak i kada prodaja dobro radi. Zato [kontakt forma za kvalifikaciju leadova](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026) treba da prikupi minimum podataka koji menjaju odluku: potreba, lokacija, rok, budžetski okvir, veličina posla i najlakši kanal za kontakt.
+
+Drugo mesto je prvi odgovor. Lead može biti topao u trenutku slanja forme, ali hladan posle generičke poruke. Tekst o [prvom odgovoru na lead](/blog/prvi-odgovor-na-lead-prodajna-skripta-srbija-2026) objašnjava zašto brzina nije dovoljna ako poruka ne potvrdi kontekst i ne predloži jasan sledeći korak.
+
+Treće mesto je prodajni razgovor. Ako poziv počne cenom pre dijagnoze, kupac često ne razume vrednost ponude. Tu se nadovezuje [prodajni poziv za leadove](/blog/prodajni-poziv-za-leadove-srbija-2026): dobra pitanja, beleške i dogovoren sledeći korak često podignu stopu zatvaranja bez dodatnog dinara u oglase.
+
+Četvrto mesto je ponuda. Ako se posle razgovora pošalje generičan PDF bez veze sa problemom, deo dobrih leadova ode u zonu javiću se. Marketing tada ne mora biti problem. Problem je što kupac nije dobio dovoljno razloga da napravi sledeći korak.
+
+## Kako povezati stopu zatvaranja sa ROI kalkulatorom
+
+Kada firma zna prosečnu vrednost posla, bruto maržu, CPL i stopu zatvaranja, može realnije da planira budžet. Nije isto da li 100.000 dinara donosi 50 leadova koji se zatvaraju 4%, ili 25 leadova koji se zatvaraju 20%. Prvi scenario može izgledati bolje po količini. Drugi često pravi bolji profit.
+
+Zato je korisno unositi ove brojeve u [ROI kalkulator](/alati/roi-kalkulator), ali sa disciplinom. Ako se unese optimistična stopa zatvaranja koju prodaja nikada nije dokazala, kalkulator samo pravi lepu fantaziju. Bolje je napraviti tri scenarija: konzervativan, realan i ambiciozan. U konzervativnom se vidi koliko firma sme da rizikuje. U realnom se planira budžet. U ambicioznom se vidi šta bi se desilo ako se popravi prodajni proces.
+
+Ovo pomaže i pri izboru modela saradnje sa agencijom. Kod [fiksne naknade ili revenue share modela](/fiksna-naknada-vs-revenue-share), stopa zatvaranja je kritična jer agencija može uticati na kvalitet saobraćaja i landing stranu, ali prodaja često ostaje kod klijenta. Ako nije jasno ko kontroliše koji deo funnel-a, lako se pogrešno podeli odgovornost za rezultat.
+
+## Kada Platinum Zenith planira budžet po stopi zatvaranja
+
+Kod lead generation sistema prvo razdvajamo sirove kontakte od kvalifikovanih upita, pa tek onda gledamo cenu. Zatim proveravamo šta prodaja stvarno zatvara, gde se upiti hlade i da li budžet treba povećati, preraspodeliti ili zadržati dok se proces ne popravi. Nekad je problem u kampanji. Nekad u landing strani. Nekad u tome što prodaja zatvara premali procenat dobrih prilika.
+
+Dobar marketing budžet nije samo koliko možete da potrošite. To je broj kvalifikovanih pokušaja koje možete da kupite, obradite i zatvorite profitabilno. Kada se stopa zatvaranja meri po tipu leada, budžet više nije pogađanje. Postaje odluka zasnovana na ekonomiji posla.
+
+Ako želite da vidite koliko vaš trenutni CPL ima smisla tek kada se uračuna stopa zatvaranja, pošaljite nam prosečnu vrednost posla, bruto maržu, broj kvalifikovanih leadova i broj zatvorenih prodaja preko [kontakt strane](/kontakt). Pogledaćemo da li treba popravljati kampanju, landing stranu, kvalifikaciju, prodajni poziv ili način na koji se budžet planira.
+`,
+  },
+  {
     slug: 'prvi-odgovor-na-lead-prodajna-skripta-srbija-2026',
     title: 'Prvi odgovor na lead u Srbiji 2026: prodajna skripta koja ne gubi upit',
     excerpt: 'Brz odgovor nije dovoljan ako prva poruka zvuči generički. Evo kako napisati odgovor na lead koji kvalifikuje, gradi poverenje i vodi ka prodaji.',
