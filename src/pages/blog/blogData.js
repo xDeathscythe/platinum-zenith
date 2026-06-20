@@ -1,5 +1,92 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-catering-cena-rezervacije-srbija-2026',
+    title: 'Google Ads za catering u Srbiji 2026: cena upita, rezervacije i budžet',
+    excerpt: 'Catering firme ne treba da mere samo broj poruka, već potvrđene događaje, broj gostiju i maržu. Evo kako planirati Google Ads budžet bez praznih upita.',
+    date: '2026-06-20',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Catering', 'Lokalni marketing', 'Lead Generation', 'Marketing budžet'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Upit za catering nije isto što i potvrđena rezervacija
+
+Catering firme u Srbiji često gledaju Google Ads kroz broj poruka: koliko ljudi je pitalo za cenu, koliko ih je poslalo termin i koliko je kliknulo na telefon. To je dobar početni signal, ali nije dovoljno za odluku o budžetu. Jedan upit može biti firma koja planira konferenciju za 120 ljudi. Drugi može biti privatna proslava za 18 gostiju za sledeći vikend. Treći samo skuplja cenovnike za događaj koji se možda nikada neće desiti.
+
+Česta greška je da se svi ti kontakti stave u istu kolonu: lead. U izveštaju kampanja izgleda živo, telefon zvoni, inbox se puni, ali prodaja kasnije shvati da veliki deo upita nema datum, broj gostiju, lokaciju, budžet ili realnu nameru. Zato [Google reklame](/google-reklame-cena) za catering ne treba meriti samo po ceni poruke. Treba ih meriti po potvrđenim događajima, vrednosti porudžbine, marži i kapacitetu kuhinje.
+
+Ako se ova razlika preskoči, [digitalni marketing](/cene-digitalnog-marketinga) postaje skuplja verzija oglasa u imeniku. Dobar sistem treba da dovede prave događaje, filtrira slabe upite i pomogne timu da brzo prepozna ko zaslužuje ponudu istog dana.
+
+## Prvo razdvojite tip događaja
+
+Nije isti catering za poslovni doručak, svadbu, rođendan, slavu, koktel, konferenciju, dečiji rođendan ili svakodnevnu korporativnu ishranu. Svaki tip događaja ima drugačiju vrednost, rok odluke, očekivanja, meni, logistiku i konkurenciju. Ako sve ide u jednu kampanju i jednu landing stranu, algoritam često donese najjeftinije upite, ne najprofitabilnije rezervacije.
+
+Za catering je korisno odvojiti bar tri grupe namere. Prva su poslovni događaji: firme, seminari, obuke, konferencije, kokteli i kancelarijske proslave. Druga su privatne proslave: rođendani, slave, krštenja, punoletstva i manja okupljanja. Treća su veći događaji sa ozbiljnijom logistikom: svadbe, gala večere, promocije i manifestacije.
+
+Česta greška je slanje svakog klika na opštu stranicu sa nekoliko slika hrane i dugmetom pošaljite upit. Posetilac tada mora sam da zaključi da li firma radi njegov tip događaja, koliko unapred treba rezervisati, da li postoji minimum porudžbine i da li pokriva njegov grad. Deo ozbiljnih ljudi odustane, a deo pošalje praznu poruku: koja je cena po osobi?
+
+## Koliko sme da košta upit za catering
+
+Cena upita zavisi od prosečne vrednosti događaja, bruto marže, broja gostiju, troška dostave, osoblja, opreme i šanse da se upit zatvori. Upit za poslovni događaj od 150 osoba ne sme se tretirati isto kao upit za posluženje za 12 ljudi. Prvi može opravdati skuplju akviziciju ako se dobro kvalifikuje. Drugi može biti profitabilan samo ako ne pojede previše vremena u prodaji.
+
+Zato se maksimalna cena leada ne računa iz osećaja. Tekst o [maksimalnoj ceni leada](/blog/maksimalna-cena-leada-srbija-2026) je posebno važan za catering jer prosečna porudžbina može mnogo da varira. Ako firma plaća svaki upit isto, a ne razlikuje događaje po vrednosti, kampanja može izgledati jeftino dok zapravo puni prodaju sitnim poslovima koji ne pokrivaju operativni napor.
+
+Praktična računica ide unazad. Kolika je prosečna bruto dobit po događaju? Koliko kvalifikovanih upita treba za jednu potvrđenu rezervaciju? Koliko ponuda se izgubi zato što je termin zauzet, lokacija van zone ili budžet nerealan? Kada se to zna, lakše je odlučiti da li je 1.500 dinara po kvalifikovanom upitu skupo ili odlična kupovina.
+
+## Landing strana mora odgovoriti pre forme
+
+Dobra landing strana za catering ne mora imati deset sekcija, ali mora odgovoriti na pitanja koja ljudi postavljaju pre nego što pošalju upit. Koje tipove događaja radite? Koji je minimalan broj osoba? Da li postoji okvirna cena po osobi ili paket? Koji gradovi i lokacije su pokriveni? Koliko ranije treba rezervisati? Da li obezbeđujete osoblje, opremu, dostavu i postavku?
+
+Mnoge catering firme izgube dobre upite jer stranica prikazuje lepe fotografije, ali ne uklanja nesigurnost. Posetilac ne zna da li je usluga za male privatne događaje, ozbiljne korporativne događaje ili sve odjednom. Onda šalje generičku poruku, prodaja traži dodatne informacije, a konkurent koji je jasnije prikazao pakete dobija razgovor.
+
+Ako oglas obeća catering za poslovne događaje, landing strana mora nastaviti tu priču. Nije dovoljno da otvori galeriju posluženja za svadbe i rođendane. Isti problem se vidi u tekstu o [usklađenosti oglasa i landing strane](/blog/uskladjenost-oglasa-landing-strane-konverzija-srbija-2026): klik dolazi zbog jedne namere, a stranica odgovara preširoko.
+
+## Forma treba da kvalifikuje, ali ne da uguši upit
+
+Forma za catering treba da skrati prodajni razgovor, ne da izgleda kao ugovor pre prvog kontakta. Ako traži samo ime i telefon, tim mora ručno da pita sve važno. Ako traži previše detalja, deo ljudi odustane pre slanja. Bolje je uhvatiti minimum koji određuje vrednost i izvodljivost događaja.
+
+Za prvi kontakt obično su dovoljni: tip događaja, datum ili okvirni period, broj gostiju, grad ili lokacija, željeni format posluženja, okvirni budžet ili paket koji ih zanima i najlakši kanal za kontakt. Ako firma ima ograničene termine, polje za datum je presudno. Ako radi samo određeni grad ili zonu, lokacija mora biti vidljiva pre nego što prodaja troši vreme.
+
+Ovo je isti princip kao kod [kontakt forme za kvalifikaciju leadova](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026). Forma ne postoji da bi odbila ljude. Postoji da bi ozbiljan upit brže dobio konkretnu ponudu, a slab upit bio prepoznat pre nego što pojede sat vremena dopisivanja.
+
+## Negativne ključne reči čuvaju budžet
+
+Catering kampanje lako privuku pogrešne pretrage. Ljudi traže recepte, posao u cateringu, najjeftiniju hranu, ketering opremu, posuđe, dekoraciju ili usluge koje firma ne radi. Ako se negativne ključne reči ne sređuju redovno, budžet se troši na posete koje nikada neće postati rezervacija.
+
+Posebno treba paziti na pretrage koje zvuče blisko, ali imaju drugačiju nameru: posao catering, kako napraviti kanapee, iznajmljivanje stolova, dekoracija balonima, najjeftiniji meni, dostava hrane za jednu osobu, recepti za slavu. Neke firme možda nude i deo toga, ali većina ne želi da plaća klik ako nema realnog događaja iza pretrage.
+
+U praksi se lista negativnih reči gradi iz stvarnih search term izveštaja. Prva nedelja kampanje često otkrije gde tržište koristi slične izraze za potpuno različite potrebe. Zato dnevni i nedeljni pacing iz teksta o [dnevnom budžetu za Google Ads](/blog/dnevni-budzet-google-ads-lead-generation-srbija-2026) ima smisla: ne troši se samo novac, nego se kupuju podaci za čišćenje kampanje.
+
+## Sezona i kapacitet kuhinje menjaju budžet
+
+Catering nije ravna linija kroz godinu. Slave, praznici, korporativni događaji, svadbe, maturske proslave i letnje manifestacije menjaju potražnju i cenu klika. Firma koja krene da oglašava tek kada su najbolji termini već popunjeni često plaća skuplje klikove za upite koje ne može da primi.
+
+Zato budžet treba planirati po sezoni, a ne samo po mesečnoj cifri. Tekst o [sezonskom marketing budžetu](/blog/sezonski-marketing-budzet-lead-generation-srbija-2026) ovde je direktno primenjiv. Ako je cilj decembarski korporativni catering, kampanja i landing strana treba da krenu pre nego što firme već izaberu dobavljača. Ako je cilj svadbena sezona, poruke, termini i paketi moraju biti spremni pre špica.
+
+Još važnije, oglašavanje mora poštovati kapacitet. Ako kuhinja može kvalitetno izneti tri veća događaja nedeljno, kampanja ne treba da generiše deset ozbiljnih zahteva za isti datum bez jasnog filtera. Tema [kapaciteta prodaje i marketing budžeta](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026) važi i za operativu: više upita nije rast ako firma ne može da ih isporuči bez pada kvaliteta.
+
+## Šta pratiti posle forme
+
+Za catering nije dovoljno pratiti poslate forme. Treba pratiti kvalifikovan upit, poslatu ponudu, potvrđen događaj, prosečnu vrednost događaja, maržu, izgubljene upite po razlogu i vreme do prvog odgovora. Ako firma meri samo broj poruka, kampanja može optimizovati prema ljudima koji najlakše pitaju cenu, a ne prema ljudima koji stvarno rezervišu.
+
+Praćenje konverzija treba razdvojiti sirove kontakte od vrednih signala. Klik na telefon može biti važan, ali nije isti kao forma sa datumom, brojem gostiju i tipom događaja. O tome detaljnije piše tekst o [praćenju konverzija za lead generation](/blog/pracenje-konverzija-lead-generation-srbija-2026). Ako Google Ads dobija pogrešan signal, sistem uči da dovodi još pogrešnih ljudi.
+
+Brzina odgovora je takođe kritična. Osoba koja organizuje događaj često šalje upit na tri do pet mesta. Catering firma koja odgovori brzo, konkretno i sa sledećim korakom ima prednost čak i kada nije najjeftinija. Zato se [brzina odgovora na upit](/blog/brzina-odgovora-na-upit-follow-up-prodaja-srbija-2026) mora tretirati kao deo kampanje, ne kao odvojena administracija.
+
+## Kada Platinum Zenith planira kampanju za catering
+
+Kod catering firmi prvo gledamo koje događaje stvarno žele, koji događaji nose najbolju maržu, gde postoji kapacitet i šta prodaja mora da zna pre slanja ponude. Tek onda planiramo ključne reči, oglase, landing stranu i dnevni budžet. Cilj nije da inbox bude pun. Cilj je da se budžet pretvori u rezervacije koje imaju smisla za kuhinju, logistiku i profit.
+
+Nekad je najveći pomak u kampanji. Nekad je u landing strani. Nekad je dovoljno dodati cenu od, minimalan broj osoba i jasna pitanja u formi. A nekad se ispostavi da kampanja dovodi dobre ljude, ali ponude kasne ili nisu dovoljno konkretne.
+
+Ako vodite catering firmu i želite više profitabilnih rezervacija, pošaljite nam tipove događaja, prosečnu vrednost porudžbine, sezonu i trenutni način praćenja upita preko [kontakt strane](/kontakt). Pogledaćemo da li problem leži u Google Ads kampanji, landing strani, formi, budžetu, brzini odgovora ili u tome što se svi upiti još uvek mere kao da vrede isto.
+`,
+  },
+  {
     slug: 'dnevni-budzet-google-ads-lead-generation-srbija-2026',
     title: 'Dnevni budžet za Google Ads u Srbiji 2026: kako ne ugušiti lead generation',
     excerpt: 'Dnevni budžet nije samo mesečna cifra podeljena na 30. Evo kako planirati pacing, test, kvalitet leadova i prodaju bez panike.',

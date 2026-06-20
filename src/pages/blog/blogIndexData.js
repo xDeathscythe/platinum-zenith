@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-catering-cena-rezervacije-srbija-2026",
+    "title": "Google Ads za catering u Srbiji 2026: cena upita, rezervacije i budžet",
+    "excerpt": "Catering firme ne treba da mere samo broj poruka, već potvrđene događaje, broj gostiju i maržu. Evo kako planirati Google Ads budžet bez praznih upita.",
+    "date": "2026-06-20",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "dnevni-budzet-google-ads-lead-generation-srbija-2026",
     "title": "Dnevni budžet za Google Ads u Srbiji 2026: kako ne ugušiti lead generation",
     "excerpt": "Dnevni budžet nije samo mesečna cifra podeljena na 30. Evo kako planirati pacing, test, kvalitet leadova i prodaju bez panike.",
