@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "prvi-odgovor-na-lead-prodajna-skripta-srbija-2026",
+    "title": "Prvi odgovor na lead u Srbiji 2026: prodajna skripta koja ne gubi upit",
+    "excerpt": "Brz odgovor nije dovoljan ako prva poruka zvuči generički. Evo kako napisati odgovor na lead koji kvalifikuje, gradi poverenje i vodi ka prodaji.",
+    "date": "2026-06-20",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-catering-cena-rezervacije-srbija-2026",
     "title": "Google Ads za catering u Srbiji 2026: cena upita, rezervacije i budžet",
     "excerpt": "Catering firme ne treba da mere samo broj poruka, već potvrđene događaje, broj gostiju i maržu. Evo kako planirati Google Ads budžet bez praznih upita.",

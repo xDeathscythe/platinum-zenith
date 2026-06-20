@@ -1,5 +1,96 @@
 const rawBlogPosts = [
   {
+    slug: 'prvi-odgovor-na-lead-prodajna-skripta-srbija-2026',
+    title: 'Prvi odgovor na lead u Srbiji 2026: prodajna skripta koja ne gubi upit',
+    excerpt: 'Brz odgovor nije dovoljan ako prva poruka zvuči generički. Evo kako napisati odgovor na lead koji kvalifikuje, gradi poverenje i vodi ka prodaji.',
+    date: '2026-06-20',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Lead Generation', 'Prodaja', 'Follow-up', 'Konverzija', 'Marketing proces'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Prvi odgovor odlučuje da li lead ostaje topao
+
+Mnoge firme u Srbiji poprave kampanju, landing stranu i formu, a zatim izgube upit u prvoj poruci. Lead stigne sa sajta, iz Google reklame ili WhatsApp-a. Tim odgovori brzo, ali poruka zvuči kao šablon: pošaljite više informacija, koja usluga vas zanima, pozovite nas, cena zavisi. Formalno, firma je odgovorila. U praksi, kupac nije dobio osećaj da neko razume njegov problem.
+
+Česta greška je da se brzina odgovora tretira kao cela prodajna strategija. Brzina jeste važna, ali ako prvi odgovor ne potvrdi kontekst, ne postavi sledeće pitanje i ne vodi ka konkretnom koraku, lead se hladi čak i kada je kontaktiran za pet minuta. Zato [Google reklame](/google-reklame-cena) ne treba meriti samo po broju pristiglih formi. Treba gledati šta se dešava u prvoj poruci posle forme.
+
+Ako taj deo nije uređen, [digitalni marketing](/cene-digitalnog-marketinga) može izgledati kao da dovodi loše leadove, iako problem nastaje tek kada prodaja pošalje generičan odgovor.
+
+## Brzina bez konteksta i dalje deluje hladno
+
+Tekst o [brzini odgovora na upit](/blog/brzina-odgovora-na-upit-follow-up-prodaja-srbija-2026) pokriva zašto lead ne sme da čeka. Ali brz odgovor nije isto što i dobar odgovor. Ako osoba pošalje upit za uslugu od nekoliko hiljada evra, a dobije dve rečenice koje zvuče kao automatski odgovor, poverenje ne raste.
+
+Dobar prvi odgovor treba da pokaže tri stvari. Prvo, da je firma pročitala šta je osoba poslala. Drugo, da zna koji je verovatni sledeći korak. Treće, da ne traži od kupca da ponovo radi posao koji je forma već trebalo da uradi.
+
+Na primer, slab odgovor je: Hvala na upitu, pošaljite više detalja. Bolji odgovor je: Hvala, vidimo da tražite više kvalifikovanih upita za uslužnu firmu i da već koristite oglase. Da bismo procenili gde curi prodaja, treba nam još samo mesečni budžet, prosečna vrednost klijenta i ko trenutno odgovara na leadove. Možemo li danas da prođemo kroz to u kratkom pozivu?
+
+Razlika nije u lepšem pisanju. Razlika je u tome što drugi odgovor vodi kupca ka odluci.
+
+## Šta prva poruka mora da uradi
+
+Prvi odgovor na lead ima četiri posla: potvrda, kvalifikacija, poverenje i sledeći korak. Ako bilo koji od ta četiri elementa nedostaje, prodaja mora kasnije da spasava razgovor.
+
+Potvrda znači da osoba vidi da nije upala u generički inbox. Ako je popunila formu za landing stranu, odgovor treba da pomene landing stranu. Ako je pitala za Google Ads, odgovor ne treba da otvori opštu priču o kompletnom marketingu. Ovo se direktno nastavlja na temu [usklađenosti oglasa i landing strane](/blog/uskladjenost-oglasa-landing-strane-konverzija-srbija-2026): obećanje mora ostati isto i posle forme.
+
+Kvalifikacija znači da prva poruka traži samo informacije koje menjaju sledeći korak. Nije poenta napraviti intervju od 20 pitanja. Poenta je pitati ono što određuje vrednost, hitnost, fit i prioritet. Ako je [kontakt forma za kvalifikaciju leadova](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026) već prikupila osnovne podatke, prva poruka ne sme ponavljati ista pitanja.
+
+Poverenje znači da firma ne zvuči kao da prodaje svima isto. Jedna rečenica koja pokaže iskustvo često vredi više od tri pasusa ubeđivanja. Na primer: Kod uslužnih firmi najčešće prvo proveravamo da li problem nastaje u kampanji, landing strani, formi ili odgovoru prodaje. To kupcu govori da razgovor neće biti samo prodajni pitch.
+
+Sledeći korak mora biti jasan. Ne neka se čujemo, ne pošaljite šta imate, nego konkretno: predlažem kratak poziv od 15 minuta, pošaljite budžet i trenutni CPL, ili poslaćemo vam okvirnu procenu do sutra u 12.
+
+## Jednostavan model prodajne skripte
+
+Dobra skripta ne treba da zvuči robotski. Ona treba da spreči da svaki član tima improvizuje drugačije. Za većinu lead generation upita dovoljan je ovaj redosled.
+
+Prvo: hvala i konkretna potvrda upita. Drugo: jedna rečenica koja pokazuje da razumete problem. Treće: dva do tri kvalifikaciona pitanja. Četvrto: predlog sledećeg koraka. Peto: vremenski okvir, da osoba zna šta da očekuje.
+
+Primer za uslužnu firmu:
+
+Hvala na upitu. Vidimo da želite više kvalifikovanih leadova, ali ne želite samo veći broj poruka nego upite koji imaju šansu da postanu klijenti. Da bismo procenili najbrži sledeći korak, pošaljite nam trenutni mesečni budžet, prosečnu vrednost klijenta i koliko brzo prodaja sada odgovara na upite. Posle toga možemo predložiti da li prvo gledamo kampanju, landing stranu, tracking ili prodajni proces.
+
+Ovakav odgovor ne rešava sve, ali odmah menja ton razgovora. Lead dobija signal da postoji proces. Prodaja dobija podatke. Marketing kasnije može videti da li se isti tip upita pretvara u sastanak, ponudu ili izgubljenu priliku.
+
+## Šta ne treba raditi u prvoj poruci
+
+Prva greška je slanje cenovnika bez konteksta. Neke firme žele da budu brze, pa odmah pošalju paket ili PDF. Ako kupac još nije povezao cenu sa problemom, cenovnik često postane razlog da odloži odluku. Tema [ponude posle upita](/blog/ponuda-posle-upita-leadovi-prodaja-srbija-2026) pokazuje zašto generična ponuda često završi u javiću se zoni.
+
+Druga greška je traženje previše informacija. Ako prva poruka izgleda kao domaći zadatak, deo ozbiljnih ljudi odustane. Bolje je pitati tri pitanja koja menjaju smer razgovora nego deset pitanja koja prodaja neće koristiti.
+
+Treća greška je početak razgovora od sebe. Mi smo agencija, radimo ovo, imamo iskustvo, naši paketi su. Lead nije došao da sluša biografiju. Došao je jer ima problem. Prvi odgovor treba početi njegovim kontekstom, a tek onda objasniti kako firma može pomoći.
+
+Četvrta greška je nepostojanje vlasnika. Ako jedna osoba odgovori, druga šalje ponudu, treća vodi poziv, a niko ne upiše status, sistem se raspada. Zato se prvi odgovor mora vezati za [CRM i evidenciju leadova](/blog/crm-za-leadove-evidencija-prodaja-srbija-2026), ne samo za inbox.
+
+## Kako povezati prvi odgovor sa lead scoring-om
+
+Nisu svi leadovi za isti odgovor. A lead sa jasnim problemom, realnim budžetom i hitnim rokom treba brz direktan put ka pozivu. B lead možda treba dodatnu kvalifikaciju. C lead treba kratak, pristojan odgovor koji ne troši sat vremena prodaje.
+
+Ako firma koristi [lead scoring](/blog/lead-scoring-prioritet-upita-prodaja-srbija-2026), prva poruka može biti različita po prioritetu. Za A lead: konkretan predlog termina i pitanja pre poziva. Za B lead: kratka dodatna pitanja. Za C lead: edukativan odgovor, link ka relevantnoj strani i mogućnost da se javi kada bude spreman.
+
+Ovo čuva prodajni kapacitet. Nije cilj da svaki upit dobije isti tretman. Cilj je da ozbiljne prilike ne čekaju iza ljudi koji samo porede cene ili još uvek nemaju definisan problem.
+
+## Kako meriti da li skripta radi
+
+Prodajna skripta nije dobra zato što lepo zvuči. Dobra je ako povećava broj zakazanih razgovora, kvalitet ponuda i stopu zatvaranja. Zato treba meriti nekoliko jednostavnih stvari: vreme do prvog odgovora, procenat leadova koji odgovore na prvu poruku, procenat zakazanih poziva, procenat poslatih ponuda, procenat izgubljenih leadova bez sledećeg koraka i razloge gubitka.
+
+Ako mnogo ljudi ne odgovori na prvu poruku, možda poruka traži previše ili ne deluje dovoljno relevantno. Ako odgovaraju, ali se ne zakazuju pozivi, sledeći korak možda nije jasan. Ako se zakazuju pozivi, ali nema prodaje, problem je možda u [prodajnom pozivu](/blog/prodajni-poziv-za-leadove-srbija-2026), ponudi ili fit-u.
+
+Ovo je važno za kampanje jer algoritam i landing strana nisu jedini deo funnel-a. Ako prodaja ne zatvara petlju, marketinški izveštaj pokazuje pola istine.
+
+## Kada Platinum Zenith sređuje prvi odgovor na lead
+
+Kod lead generation sistema prvo gledamo šta je osoba videla pre forme, šta je forma pitala i šta prodaja šalje u prvom odgovoru. Nekad kampanja stvarno dovodi pogrešne ljude. Nekad landing strana obećava preširoko. Ali često se ispostavi da firma ima dovoljno dobrih upita, samo prvi odgovor ne vodi razgovor ka sledećem koraku.
+
+Zato prvi odgovor ne posmatramo kao administraciju. On je deo funnel-a. Ako je slab, budžet deluje skuplje. Ako je jasan, isti broj leadova može doneti više sastanaka i više prodaje.
+
+Ako imate leadove koji stižu, ali razgovori staju posle prve poruke, pošaljite nam trenutnu skriptu, primer forme, prosečnu vrednost klijenta i način na koji pratite statuse preko [kontakt strane](/kontakt). Pogledaćemo da li problem leži u kampanji, landing strani, kvalifikaciji, CRM-u ili u prvoj poruci koja ne vodi kupca dovoljno jasno ka odluci.
+`,
+  },
+  {
     slug: 'google-ads-za-catering-cena-rezervacije-srbija-2026',
     title: 'Google Ads za catering u Srbiji 2026: cena upita, rezervacije i budžet',
     excerpt: 'Catering firme ne treba da mere samo broj poruka, već potvrđene događaje, broj gostiju i maržu. Evo kako planirati Google Ads budžet bez praznih upita.',
