@@ -1,5 +1,100 @@
 const rawBlogPosts = [
   {
+    slug: 'raspodela-leadova-prodajni-tim-srbija-2026',
+    title: 'Raspodela leadova u Srbiji 2026: kome ide upit pre nego što se ohladi',
+    excerpt: 'Raspodela leadova odlučuje da li najbolji upiti stižu pravoj osobi na vreme. Evo kako postaviti pravila po nameri, vrednosti, hitnosti i kapacitetu.',
+    date: '2026-06-21',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Lead Generation', 'Prodaja', 'Marketing proces', 'CRM', 'Konverzija'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Lead ne propada uvek zato što je loš
+
+Mnoge firme u Srbiji poprave kampanju, landing stranu i formu, ali i dalje gube najbolje upite. Problem nije uvek u ceni klika ili kvalitetu saobraćaja. Nekad lead stigne u pogrešan inbox, pogrešnoj osobi, u pogrešno vreme. Dok se tim dogovori ko treba da odgovori, kupac je već razgovarao sa konkurencijom.
+
+Česta greška je da se svi upiti tretiraju isto. Forma sa sajta, poziv iz Google reklame, WhatsApp poruka, preporuka i ponovni upit starog klijenta završe u istoj gomili. Neko odgovori kada stigne. Neko pretpostavi da je kolega već preuzeo. Neko čeka dodatne informacije. Na papiru postoji lead generation. U praksi ne postoji raspodela leadova.
+
+Zato [Google reklame](/google-reklame-cena) ne treba gledati samo kroz broj pristiglih formi. Ako najbolji upiti ne dođu do osobe koja ima znanje, vreme i ovlašćenje da ih pokrene dalje, kampanja može izgledati slabije nego što jeste. [Digitalni marketing](/cene-digitalnog-marketinga) pravi priliku, ali prodajni sistem odlučuje da li ta prilika ostaje topla.
+
+## Zašto round-robin često gubi najbolje upite
+
+Najjednostavnije pravilo je da se leadovi dele redom: prvi prodavac, drugi prodavac, treći prodavac. To deluje fer prema timu, ali nije uvek fer prema prihodu. Upit za mali, jednostavan posao nije isti kao upit za projekat visoke vrednosti. Hitna kupovina nije ista kao istraživanje za šest meseci. Lead iz brend pretrage nije isti kao osoba koja je kliknula generički oglas i tek poredi opcije.
+
+Kada se sve deli nasumično ili redom, najbolji upit može završiti kod osobe koja je zauzeta, nova u timu ili slabija za baš taj tip razgovora. Istovremeno, jednostavan upit može čekati iskusnog prodavca koji trenutno vodi kompleksan poziv. Rezultat je sporiji odgovor, slabije kvalifikovanje i niža stopa zatvaranja.
+
+Tekst o [lead scoring-u](/blog/lead-scoring-prioritet-upita-prodaja-srbija-2026) objašnjava kako rangirati upite po kvalitetu. Raspodela leadova je sledeći korak: kada znate da je lead A, B ili C, morate znati kome ide, kojim kanalom i u kom roku.
+
+## Prvo pravilo: upit ide osobi koja može da donese sledeći korak
+
+Dobar sistem raspodele ne počinje pitanjem ko je slobodan, nego ko može najbrže da napravi sledeći korak. Za neke leadove to je osoba iz prodaje koja može da zakaže konsultaciju. Za druge je stručnjak koji mora da proveri tehnički fit. Za treće je recepcija, call centar ili account manager koji poznaje postojeće klijente.
+
+Česta greška je slanje kompleksnih upita najbližoj osobi koja se javila. Ona zatim traži detalje, pita kolegu, prosleđuje poruku, pa se lead vraća u krug. Kupac oseća da firma interno razjašnjava šta radi, umesto da vodi proces.
+
+Bolje pravilo je jednostavno: svaki tip upita mora imati vlasnika za prvi odgovor i vlasnika za sledeći korak. To se direktno nastavlja na temu [vlasništva leadova](/blog/vlasnistvo-leadova-marketing-prodaja-srbija-2026). Nije dovoljno reći da prodaja preuzima lead. Treba znati koja osoba ili funkcija preuzima koji tip leada.
+
+## Segmentacija po nameri, vrednosti i hitnosti
+
+Raspodela leadova ne mora biti komplikovan CRM projekat. Za početak su dovoljna tri kriterijuma. Prvi je namera: šta osoba traži i koliko je blizu kupovine. Drugi je vrednost: koliki je potencijalni posao, marža ili dugoročna vrednost klijenta. Treći je hitnost: da li je odluka vezana za rok, sezonu, termin, kvar, događaj ili slobodan kapacitet.
+
+Na primer, agencija koja dobije upit za kompletan lead generation sistem ne treba da ga tretira isto kao pitanje za jedan baner. Poliklinika ne treba isto da rutira hitan upit za pregled ove nedelje i opšti upit za cenu usluge. Firma za home improvement ne treba isto da tretira projekat cele kuće i pitanje za sitnu popravku bez roka.
+
+Ako se upiti ne segmentiraju, prodaja troši isti nivo energije na sve. Tada A lead čeka iza C leadova, a marketing dobija pogrešan signal da kampanja ne dovodi kvalitet. U stvarnosti, firma nema pravilo ko sme da preskoči red.
+
+## Šta forma i landing strana moraju da pošalju prodaji
+
+Raspodela ne može raditi ako forma prikuplja samo ime i telefon. Prodaja tada ne zna da li upit treba hitno preuzeti, proslediti stručnjaku ili staviti u sporiji follow-up. Zato forma mora prikupiti minimum podataka koji menjaju rutu leada.
+
+To ne znači da forma treba da postane upitnik od 20 polja. Dovoljno je pitati ono što menja odluku: tip usluge, lokaciju, rok, okvir budžeta kada ima smisla, veličinu posla, postojeće rešenje i najlakši kanal za kontakt. Tekst o [kontakt formi za kvalifikaciju leadova](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026) daje dobar okvir: svako pitanje mora imati svrhu u sledećem koraku.
+
+Ako [landing strana](/blog/uskladjenost-oglasa-landing-strane-konverzija-srbija-2026) obeća konkretnu uslugu, a forma ne pošalje prodaji tu informaciju, tim počinje razgovor od nule. Kupac je već pokazao nameru, ali sistem je nije sačuvao.
+
+## Rok odgovora zavisi od tipa leada
+
+Nije svaki lead jednako hitan, ali nijedan ne sme ostati bez pravila. Visoko-intent upiti sa jasnim budžetom, rokom i potrebom često zahtevaju odgovor u roku od nekoliko minuta. Srednji leadovi mogu dobiti brzu potvrdu i zakazan sledeći korak. Slabi ili nejasni upiti mogu ući u kraću kvalifikaciju ili automatizovani follow-up.
+
+Greška nastaje kada firma ima samo jedno pravilo: odgovori kad možeš. Tada najbolji upiti propadaju istom brzinom kao i najgori. Još gora varijanta je kada se brzina meri samo prosekom. Ako tim prosečno odgovara za tri sata, ali A leadovi čekaju šest sati dok C leadovi dobijaju odgovor odmah, metrika izgleda pristojno, a prihod curi.
+
+Zato [brzina odgovora na upit](/blog/brzina-odgovora-na-upit-follow-up-prodaja-srbija-2026) treba da se meri po prioritetu, ne samo ukupno. Ako lead scoring kaže da je upit visokog potencijala, raspodela mora da ga izvuče iz gomile.
+
+## CRM statusi koji sprečavaju prebacivanje odgovornosti
+
+Bez jasnih statusa, raspodela leadova se brzo pretvori u nagađanje. Da li je lead dodeljen? Da li je kontaktiran? Da li čeka odgovor kupca? Da li je zakazan poziv? Da li je prosleđen stručnjaku? Da li je izgubljen zbog cene, roka, lokacije ili slabog fit-a?
+
+Jednostavan [CRM za leadove](/blog/crm-za-leadove-evidencija-prodaja-srbija-2026) treba da pokaže najmanje ove statuse: novi lead, dodeljen, kontaktiran, kvalifikovan, zakazan sledeći korak, ponuda poslata, dobijen, izgubljen, razlog gubitka. Kada statusi postoje, marketing vidi ne samo koliko leadova je stiglo, nego gde zapinju.
+
+Česta greška je da se izgubljeni leadovi opišu jednom rečju: loš. To ne pomaže nikome. Ako je razlog gubitka cena, treba proveriti poruku, ponudu i cenovni okvir. Ako je razlog sporo javljanje, problem je u procesu. Ako je razlog loš fit, treba popraviti targeting, landing stranu ili formu.
+
+## Kako raspodela leadova utiče na budžet
+
+Raspodela leadova direktno menja koliko sme da košta upit. Ako A leadovi brzo dobijaju najboljeg prodavca, stopa zatvaranja raste i prihvatljiv CPL može biti viši. Ako se isti leadovi gube u inboxu, čak i jeftin CPL pravi skupog kupca.
+
+Zato se tema raspodele vezuje za [stopu zatvaranja leadova](/blog/stopa-zatvaranja-leadova-marketing-budzet-srbija-2026) i [kapacitet prodaje](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026). Nije dovoljno kupiti više upita. Tim mora moći da ih primi, razdeli, obradi i zatvori bez pada kvaliteta.
+
+Ako firma planira veći budžet, prvo treba proveriti da li raspodela može podneti veći volumen. U suprotnom, marketing samo brže puni sistem koji već ne zna kome ide sledeći lead.
+
+## Jednostavan model za početak
+
+Za većinu firmi prvi model može stati u jednu tabelu. Kolone su: izvor leada, tip usluge, prioritet, osoba koja preuzima, maksimalan rok odgovora, sledeći korak i status u CRM-u. To nije savršen sistem, ali je dovoljno da se prekine haos.
+
+Primer pravila može izgledati ovako: upit za uslugu visoke vrednosti ide senior prodavcu u roku od 15 minuta; hitan lokalni upit ide osobi koja može odmah da zakaže termin; nejasan upit dobija kratku kvalifikacionu poruku; postojeći klijent ide account manageru; C lead ulazi u sporiji follow-up bez blokiranja boljih prilika.
+
+Važno je da pravila ne ostanu u glavi vlasnika. Ako samo jedna osoba zna kome šta ide, sistem puca čim je ta osoba zauzeta, na odmoru ili van telefona.
+
+## Kada Platinum Zenith proverava raspodelu leadova
+
+Kod lead generation sistema ne gledamo samo koliko upita kampanja donosi. Gledamo i gde lead ide posle forme: ko ga vidi, kada reaguje, šta piše u prvom odgovoru, koji status dobija, kome se prosleđuje i zašto se gubi. Nekad treba popraviti oglase. Nekad landing stranu. Nekad je najveći dobitak u tome da najbolji lead više ne čeka u pogrešnom inboxu.
+
+Dobar funnel nije samo kampanja plus forma. To je put od klika do vlasnika razgovora. Kada se raspodela leadova jasno postavi, firma prestaje da meri samo broj kontakata i počinje da meri koliko brzo prave prilike dolaze do pravih ljudi.
+
+Ako želite da proverite da li vam leadovi propadaju zbog kampanje ili zbog raspodele posle forme, pošaljite nam trenutne izvore upita, tipove usluga, ko odgovara na leadove i koliko brzo se beleži sledeći korak preko [kontakt strane](/kontakt). Pogledaćemo gde treba urediti kampanju, landing stranu, formu, CRM ili prodajni proces.
+`,
+  },
+  {
     slug: 'google-ads-za-poliklinike-cena-pregleda-srbija-2026',
     title: 'Google Ads za poliklinike u Srbiji 2026: cena pregleda, termini i budžet',
     excerpt: 'Google Ads za poliklinike ne treba meriti po broju poziva, već po zakazanim i održanim pregledima. Evo kako planirati CPL, budžet i formu.',

@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "raspodela-leadova-prodajni-tim-srbija-2026",
+    "title": "Raspodela leadova u Srbiji 2026: kome ide upit pre nego što se ohladi",
+    "excerpt": "Raspodela leadova odlučuje da li najbolji upiti stižu pravoj osobi na vreme. Evo kako postaviti pravila po nameri, vrednosti, hitnosti i kapacitetu.",
+    "date": "2026-06-21",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-poliklinike-cena-pregleda-srbija-2026",
     "title": "Google Ads za poliklinike u Srbiji 2026: cena pregleda, termini i budžet",
     "excerpt": "Google Ads za poliklinike ne treba meriti po broju poziva, već po zakazanim i održanim pregledima. Evo kako planirati CPL, budžet i formu.",
