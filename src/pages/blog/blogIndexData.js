@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-poliklinike-cena-pregleda-srbija-2026",
+    "title": "Google Ads za poliklinike u Srbiji 2026: cena pregleda, termini i budžet",
+    "excerpt": "Google Ads za poliklinike ne treba meriti po broju poziva, već po zakazanim i održanim pregledima. Evo kako planirati CPL, budžet i formu.",
+    "date": "2026-06-21",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "stopa-zatvaranja-leadova-marketing-budzet-srbija-2026",
     "title": "Stopa zatvaranja leadova u Srbiji 2026: kako planirati marketing budžet",
     "excerpt": "Stopa zatvaranja menja koliko sme da košta lead. Evo kako izračunati budžet, CPL i broj kvalifikovanih upita pre nego što kampanja pojede maržu.",

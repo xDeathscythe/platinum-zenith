@@ -1,5 +1,76 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-poliklinike-cena-pregleda-srbija-2026',
+    title: 'Google Ads za poliklinike u Srbiji 2026: cena pregleda, termini i budžet',
+    excerpt: 'Google Ads za poliklinike ne treba meriti po broju poziva, već po zakazanim i održanim pregledima. Evo kako planirati CPL, budžet i formu.',
+    date: '2026-06-21',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Poliklinike', 'Lead Generation', 'Zdravstvo', 'Marketing budžet'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Poliklinike ne kupuju klikove, nego popunjene termine
+
+Privatne poliklinike u Srbiji često ulaze u Google Ads sa jednostavnim pitanjem: koliko košta pacijent? To pitanje ima smisla, ali odgovor nije isti za prvi pregled, kontrolu, dijagnostiku, specijalistički pregled i paket usluga. Jedan poziv može biti samo pitanje za cenu. Drugi može biti osoba koja već ima nalaz, traži konkretan termin i spremna je da zakaže ove nedelje.
+
+Česta greška je da se sve to stavi u istu kolonu kao lead. Kampanja dovede pozive i forme, izveštaj pokaže prihvatljiv CPL, ali ordinacija vidi prazne rupe u rasporedu. Problem nije uvek u oglasu. Nekad je u tome što se meri pogrešan korak: poziv umesto zakazanog termina, zakazan termin umesto održanog pregleda, održan pregled umesto realne vrednosti pacijenta kroz naredne usluge.
+
+Zato [Google reklame](/google-reklame-cena) za poliklinike treba planirati oko kapaciteta lekara, vrste usluge, lokacije, hitnosti i procesa zakazivanja. Ako se meri samo broj klikova ili cena poziva, lako se donese pogrešna odluka o budžetu.
+
+## Zašto je cena pregleda bolji signal od cene leada
+
+Kod lokalnih medicinskih usluga postoje upiti različite vrednosti. Osoba koja traži najbliži ultrazvuk abdomena ima drugačiju nameru od osobe koja istražuje opšte simptome. Upit za dermatološki pregled nije isti kao upit za paket preventivnih pregleda. Zato sirov CPL često ne pokazuje da li marketing stvarno puni raspored.
+
+Bolji okvir je cena zakazanog i održanog pregleda. Ako kampanja donese 40 poziva, ali samo 8 termina i 5 održanih pregleda, trošak po korisnom rezultatu je mnogo viši nego što izgleda u ad account-u. Obrnuto, manji broj skupljih upita može biti bolji ako su ljudi već odlučili koju uslugu traže, razumeju cenu i mogu da dođu u realnom terminu.
+
+Ovo je slično kao kod [privatnih laboratorija](/blog/google-ads-za-privatne-laboratorije-cena-analize-srbija-2026), gde poruka nema vrednost ako osoba ne dođe na analizu. Za poliklinike je dodatni izazov raspored lekara. Kampanja može biti dobra, ali ako nema slobodnih termina u narednih nekoliko dana, deo potražnje se hladi pre nego što postane prihod.
+
+## Kako podeliti kampanje po nameri pacijenta
+
+Najveća greška kod poliklinika je jedna opšta kampanja za sve usluge. Oglas kaže privatna poliklinika, landing strana nabraja dvadeset pregleda, forma pita samo ime i telefon, a recepcija tek u razgovoru otkriva šta osoba stvarno želi. Takav sistem troši budžet na razjašnjavanje.
+
+Bolje je razdvojiti kampanje po nameri. Jedna grupa može biti za konkretne specijalističke preglede. Druga za dijagnostiku. Treća za preventivne pakete. Četvrta za lokalne hitnije upite gde osoba želi termin brzo. Svaka grupa treba da ima svoj tekst oglasa, landing segment, cenu ili cenovni okvir kada je moguće, dostupnost termina i jasan CTA za zakazivanje.
+
+Ako se sve vodi na jednu generičku stranicu, ponavlja se problem koji opisuje tekst o [usklađenosti oglasa i landing strane](/blog/uskladjenost-oglasa-landing-strane-konverzija-srbija-2026). Oglas obeća konkretan pregled, a stranica počne širokom pričom o ustanovi. Osoba koja traži termin tada mora sama da pronađe dokaz, cenu, lokaciju, lekara i sledeći korak.
+
+## Šta forma mora da kvalifikuje bez gušenja konverzije
+
+Poliklinika ne mora da pita sve u prvoj formi. Ali mora da prikupi dovoljno podataka da recepcija ne kreće od nule. Minimum obično uključuje: uslugu ili specijalnost, grad ili lokaciju, željeni termin, da li osoba ima uput/nalaz ako je relevantno, kanal za kontakt i telefon. Za skuplje ili kompleksnije usluge ima smisla dodati polje za kratak opis potrebe, ali ne pretvarati formu u medicinski upitnik.
+
+Česta greška je suprotna: forma je prekratka, pa svaki lead izgleda isto. Recepcija zove osobu koja je samo pitala za cenu, zatim osobu koja želi termin danas, zatim osobu koja nije iz grada. Bez osnovne kvalifikacije, tim ne zna kome treba prioritet. Tu pomaže princip iz teksta o [kontakt formi za kvalifikaciju leadova](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026): pitati samo ono što menja sledeći korak.
+
+Kod poliklinika je brzina odgovora posebno važna. Ako osoba traži termin za pregled i pošalje još tri upita konkurenciji, prvi jasan odgovor često dobija prednost. Ali brzina bez informacija nije dovoljna. Poruka treba da potvrdi traženu uslugu, ponudi konkretne termine ili sledeći poziv i objasni šta osoba treba da ponese ako je relevantno. Zato se [brzina odgovora na upit](/blog/brzina-odgovora-na-upit-follow-up-prodaja-srbija-2026) direktno vezuje za cenu zakazanog pregleda.
+
+## Koliki budžet ima smisla za test
+
+Test budžet ne treba računati samo po ceni klika. Prvo treba znati prosečnu vrednost održanog pregleda, bruto maržu po usluzi, procenat zakazanih termina iz leadova i procenat no-show slučajeva. Ako poliklinika plaća 2.500 dinara po leadu, ali samo svaki četvrti lead zakaže i dođe, efektivni trošak po održanom pregledu je oko 10.000 dinara. To može biti odlično za jednu uslugu, a preskupo za drugu.
+
+Zato se za početak ne testira ceo katalog usluga. Bolje je izabrati 2 do 4 usluge koje imaju jasnu potražnju, dobru maržu, slobodne termine i dovoljno jednostavnu odluku za online upit. Tek kada se vidi cena zakazanog i održanog termina, budžet se širi. Tekst o [maksimalnoj ceni leada](/blog/maksimalna-cena-leada-srbija-2026) daje dobar okvir, ali kod poliklinika taj maksimum treba računati po tipu usluge, ne za celu ustanovu.
+
+Ako prodaja ili recepcija nema kapacitet da brzo obradi upite, veći budžet neće rešiti problem. Naprotiv, može podići trošak po pregledu jer se kvalitetni upiti ne kontaktiraju na vreme. Tu se nadovezuje [kapacitet prodaje i marketing budžet](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026): broj leadova mora pratiti broj ljudi koji mogu da zakažu, potvrde i isprate termine.
+
+## Šta pratiti osim konverzija u Google Ads-u
+
+Google Ads može meriti pozive, forme i klikove na dugme za zakazivanje. To je početak, ne kraj. Poliklinika treba da zna koliko tih kontakata postaje zakazan termin, koliko se termina održi, koliko se pomeri, koliko ne dođe i koje usluge donose najbolji odnos budžeta i prihoda.
+
+Bez tog sloja, kampanja može delovati uspešno dok raspored ostaje poluprazan. Ili može delovati skupo dok zapravo dovodi pacijente za usluge sa višom vrednošću. Zato [praćenje konverzija](/blog/pracenje-konverzija-lead-generation-srbija-2026) treba povezati sa internim evidencijama, makar kroz jednostavan CRM ili tabelu sa statusima: kontaktiran, zakazano, potvrđeno, održano, nije došao, prihod.
+
+Ovo ne mora biti komplikovano. Važno je da marketing ne ostane slep posle forme. Kada se vidi koji termini i usluge stvarno dolaze iz oglasa, moguće je smanjiti budžet na slabim pretragama, pojačati najprofitabilnije specijalnosti i promeniti landing stranu za usluge gde ljudi zovu, ali ne zakazuju.
+
+## Kada Google Ads ima smisla za polikliniku
+
+Google Ads ima najviše smisla kada postoji jasna aktivna potražnja, dovoljno slobodnih termina, dobra lokalna pokrivenost i uređen proces odgovora. Ako poliklinika nema jasne usluge, cene su potpuno nevidljive, recepcija kasni sa odgovorima i termini se ne prate, oglašavanje samo ubrzava konfuziju.
+
+Dobar test izgleda drugačije: izabere se nekoliko prioritetnih usluga, napišu se oglasi po nameri, landing strana odgovara na cenu, lokaciju, dostupnost i poverenje, forma kvalifikuje bez preterivanja, recepcija ima jasan skript, a rezultat se meri do održanog pregleda. Tek tada [digitalni marketing](/cene-digitalnog-marketinga) postaje sistem za popunjavanje kapaciteta, a ne samo trošak za klikove.
+
+Ako želite da proverite da li Google Ads za vašu polikliniku ima ekonomiju pre nego što potrošite budžet, pošaljite nam koje usluge želite da punite, prosečnu cenu pregleda, broj slobodnih termina i kako trenutno pratite zakazivanja preko [kontakt strane](/kontakt). Pogledaćemo gde treba krenuti: kampanja, landing strana, forma, praćenje ili proces zakazivanja.
+`,
+  },
+  {
     slug: 'stopa-zatvaranja-leadova-marketing-budzet-srbija-2026',
     title: 'Stopa zatvaranja leadova u Srbiji 2026: kako planirati marketing budžet',
     excerpt: 'Stopa zatvaranja menja koliko sme da košta lead. Evo kako izračunati budžet, CPL i broj kvalifikovanih upita pre nego što kampanja pojede maržu.',
