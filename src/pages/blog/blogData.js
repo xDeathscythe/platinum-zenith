@@ -1,5 +1,92 @@
 const rawBlogPosts = [
   {
+    slug: 'koliko-leadova-za-cilj-prodaje-marketing-budzet-srbija-2026',
+    title: 'Koliko leadova treba za cilj prodaje u Srbiji 2026: budžet od prihoda unazad',
+    excerpt: 'Koliko leadova treba za cilj prodaje ne računa se iz želje, nego iz stope zatvaranja, vrednosti kupca, kapaciteta prodaje i dozvoljenog CPL-a.',
+    date: '2026-06-22',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Lead Generation', 'Marketing budžet', 'Prodaja', 'CPL', 'ROI'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Prodajni cilj nije isto što i želja za više leadova
+
+Mnoge firme u Srbiji planiraju marketing budžet od pogrešnog pitanja: koliko možemo da potrošimo ovog meseca? Još češće pitanje je: koliko leadova možete da nam donesete? Oba pitanja zvuče praktično, ali preskaču ono što stvarno određuje isplativost. Prvo treba znati koliko prodaje firma želi, koliko ta prodaja vredi i koliko kvalifikovanih razgovora mora da se desi da bi taj cilj bio realan.
+
+Česta greška je da se lead generation tretira kao narudžbina kontakata. Firma kaže da joj treba 100 leadova mesečno, agencija kupi saobraćaj, forma se napuni, a onda prodaja otkrije da deo upita nije dobar fit, deo čeka odgovor, deo traži najnižu cenu, a deo nikada ne dobije ponudu. Na kraju se ne zna da li je problem bio u kampanji, cilju, prodaji ili očekivanju.
+
+Zato [Google reklame](/google-reklame-cena) i [digitalni marketing](/cene-digitalnog-marketinga) treba planirati od prihoda unazad. Ne od broja klikova. Ne od osećaja da konkurencija sada ulaže više. Prvo cilj prodaje, zatim potreban broj kupaca, zatim kvalifikovani leadovi, zatim budžet koji sme da kupi taj volumen.
+
+## Formula koja menja razgovor o budžetu
+
+Najjednostavniji model ima pet brojeva. Prvi je mesečni cilj prihoda ili bruto dobiti. Drugi je prosečna vrednost novog klijenta ili posla. Treći je stopa zatvaranja kvalifikovanih leadova. Četvrti je procenat sirovih upita koji stvarno postanu kvalifikovani. Peti je maksimalan trošak po kvalifikovanom leadu.
+
+Na primer, firma želi 1.200.000 dinara novog mesečnog prihoda, a prosečan novi klijent vredi 120.000 dinara. To znači da joj treba oko 10 novih klijenata. Ako prodaja zatvara 20% kvalifikovanih leadova, potrebno je oko 50 kvalifikovanih razgovora. Ako se samo polovina sirovih upita kvalifikuje, kampanja mora doneti oko 100 upita. Tek tada pitanje budžeta ima smisla.
+
+Ovaj okvir se direktno nadovezuje na [stopu zatvaranja leadova](/blog/stopa-zatvaranja-leadova-marketing-budzet-srbija-2026). Jedan biznis može iz 50 leadova napraviti 12 kupaca. Drugi iz istog broja napravi tri. Zbog toga isti CPL ne znači isti ROI.
+
+## Zašto cilj prodaje mora biti izražen u bruto dobiti
+
+Prihod lepo izgleda u tabeli, ali budžet se vraća iz bruto dobiti. Ako kampanja donese posao od 100.000 dinara, a direktni troškovi isporuke pojedu 70.000, marketing se ne može planirati kao da je svih 100.000 slobodno. Firma zapravo ima 30.000 dinara prostora pre fiksnih troškova i profita.
+
+Česta greška je da se prihvatljiv CPL računa iz prometa. Tada kampanja može izgledati profitabilno dok marža nestaje. Zbog toga je tekst o [bruto marži i marketing budžetu](/blog/bruto-marza-marketing-budzet-roi-srbija-2026) važan pre svakog skaliranja. Ako cilj prodaje ne razlikuje prihod od dobiti, budžet se može povećati baš onda kada ekonomija nije zdrava.
+
+Bolji pristup je da se za svaki ključni tip usluge zna prosečna vrednost, bruto marža, realna stopa zatvaranja i kapacitet isporuke. Tada marketing ne juri bilo koji lead, nego leadove koji mogu podržati profitabilan cilj.
+
+## Koliko sirovih upita stvarno treba
+
+Broj kvalifikovanih leadova retko je isti kao broj pristiglih formi. Deo ljudi pita cenu bez jasne namere. Deo nije iz odgovarajućeg grada. Deo traži uslugu koju firma ne radi. Deo nema budžet ili rok. To ne znači da je kampanja loša, ali znači da plan mora imati filter.
+
+Ako vam treba 30 kvalifikovanih leadova, a forma kvalifikuje 60% upita, potrebno je oko 50 sirovih upita. Ako je kvalifikacija samo 30%, potrebno je 100 sirovih upita za isti prodajni cilj. Razlika nije mala. U prvom slučaju budžet može biti zdrav. U drugom slučaju prodaja troši duplo više vremena na isti broj ozbiljnih prilika.
+
+Zato [kontakt forma za kvalifikaciju leadova](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026) nije sitan detalj. Ona odlučuje da li marketing šalje prodaji jasne prilike ili gomilu poruka koje neko mora ručno da razvrstava.
+
+## Kapacitet prodaje ograničava cilj
+
+Nekad računica kaže da firmi treba 120 leadova mesečno, ali prodajni tim realno može kvalitetno obraditi 40. To nije marketinški problem, nego poslovno ograničenje. Ako se budžet poveća preko kapaciteta, upiti čekaju, odgovori kasne, ponude postaju generičke i stopa zatvaranja pada.
+
+Česta greška je da se cilj postavi po želji vlasnika, a ne po kapacitetu tima. Onda kampanja uspe da donese više razgovora, ali firma nema sistem da ih pretvori u prihod. U izveštaju raste broj leadova. U kasi se ne vidi isti rast.
+
+Tekst o [kapacitetu prodaje i marketing budžetu](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026) pokriva baš ovaj problem. Pre nego što se traži više leadova, treba znati ko odgovara, za koliko minuta, kojim skriptom, gde beleži status i koliko otvorenih prilika može da prati bez pada kvaliteta.
+
+## Kada je manji broj boljih leadova bolji plan
+
+Ako prodajni cilj zahteva 10 novih klijenata, ne mora uvek biti cilj najveći broj upita. Ponekad je pametnije dobiti 40 skupljih, ali jasnijih leadova nego 120 jeftinih poruka koje pune inbox. To posebno važi za usluge sa višom vrednošću, dužim ciklusom odluke ili ograničenim kapacitetom isporuke.
+
+Jedna od opasnih navika je poređenje kampanja samo po CPL-u. Kampanja A može imati lead od 1.500 dinara, a kampanja B lead od 4.000 dinara. Ako kampanja B donosi ljude sa boljim fit-om, višom vrednošću i većom stopom zatvaranja, ona može imati niži stvarni CAC. Zato [CPL nije CAC](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026) treba da bude osnovno pravilo kod planiranja cilja.
+
+Plan leadova mora razdvojiti A, B i C prilike. A lead zaslužuje najbrži odgovor i najboljeg vlasnika razgovora. B lead treba dodatnu kvalifikaciju. C lead ne sme pojesti vreme koje je potrebno za ozbiljne prilike. Tu pomaže i [raspodela leadova po prodajnom timu](/blog/raspodela-leadova-prodajni-tim-srbija-2026), jer volumen bez prioriteta brzo napravi gužvu.
+
+## Budžet se računa tek posle ciljnog broja leadova
+
+Kada znate koliko kvalifikovanih leadova treba i koliko sirovih upita morate kupiti, budžet postaje posledica, ne nagađanje. Ako vam treba 60 upita, a realan prosečan CPL za taj kanal i nameru je 3.000 dinara, medijski budžet za test je oko 180.000 dinara. Ako je maksimalan prihvatljiv CPL samo 1.500 dinara, plan možda nije realan za taj kanal, ponudu ili tržište.
+
+Tu pomaže [maksimalna cena leada](/blog/maksimalna-cena-leada-srbija-2026). Granica ne treba da se postavi zato što neko želi jeftin marketing, nego zato što ekonomija posla ima limit. Ako se limit ne može postići, postoje tri opcije: popraviti ponudu i landing stranu, povećati stopu zatvaranja ili izabrati drugi segment kupaca.
+
+Dobar budžet nije samo cifra za oglase. Treba uračunati i landing stranu, tracking, CRM, prodajni follow-up i vreme tima. Ako se sve potroši na klikove, a sistem posle forme ostane slab, firma kupuje prilike koje ne može da iskoristi.
+
+## Kako postaviti realan mesečni cilj
+
+Za većinu firmi dobar početak je konzervativan test. Ne kreće se od maksimalnog cilja, nego od broja kvalifikovanih razgovora koji može potvrditi ekonomiju. Na primer: 20 do 40 ozbiljnih upita u prvom ciklusu, jasna podela po izvoru, status svakog leada i merenje od forme do prodaje. Ako se pokaže da cilj ima zdrav CAC, budžet se povećava kontrolisano.
+
+Česta greška je da se odmah traži volumen koji pripada zrelom sistemu. Firma želi rezultate kao da već ima jasnu ponudu, landing stranu, tracking, CRM i prodajni proces, ali u praksi tek testira šta tržište odgovara. Tada budžet brzo ode na učenje koje je moglo biti jeftinije.
+
+Ako već koristite [ROI kalkulator](/alati/roi-kalkulator), ubacite realne procente, ne optimistične. Bolje je planirati sa nižom stopom zatvaranja i većim troškom leada, pa se prijatno iznenaditi, nego postaviti cilj koji izgleda lepo samo dok prodaja ne krene da zove.
+
+## Kada Platinum Zenith planira lead cilj
+
+Kada radimo lead generation, ne pitamo samo koliko leadova želite. Gledamo cilj prodaje, vrednost ponude, bruto maržu, realnu stopu zatvaranja, kapacitet tima, kvalifikaciju forme i koliko brzo prodaja može da preuzme razgovor. Tek tada budžet dobija smisao.
+
+Nekad zaključak bude da treba povećati oglašavanje. Nekad da treba prvo popraviti landing stranu, ponudu, formu ili prodajni proces. Nekad je najprofitabilniji potez smanjiti sirov volumen i povećati kvalitet upita. Poenta nije da marketing isporuči impresivan broj kontakata, nego da pomogne firmi da dođe do prodajnog cilja bez spaljivanja marže.
+
+Ako želite da izračunamo koliko leadova vam realno treba za mesečni cilj prodaje, pošaljite nam cilj prihoda, prosečnu vrednost klijenta, okvirnu bruto maržu, trenutnu stopu zatvaranja i koliko upita tim može da obradi preko [kontakt strane](/kontakt). Vratićemo se sa praktičnim planom: potreban broj kvalifikovanih leadova, okviran budžet, mesta gde curi ROI i redosled šta prvo popravljati.
+`,
+  },
+  {
     slug: 'raspodela-leadova-prodajni-tim-srbija-2026',
     title: 'Raspodela leadova u Srbiji 2026: kome ide upit pre nego što se ohladi',
     excerpt: 'Raspodela leadova odlučuje da li najbolji upiti stižu pravoj osobi na vreme. Evo kako postaviti pravila po nameri, vrednosti, hitnosti i kapacitetu.',

@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "koliko-leadova-za-cilj-prodaje-marketing-budzet-srbija-2026",
+    "title": "Koliko leadova treba za cilj prodaje u Srbiji 2026: budžet od prihoda unazad",
+    "excerpt": "Koliko leadova treba za cilj prodaje ne računa se iz želje, nego iz stope zatvaranja, vrednosti kupca, kapaciteta prodaje i dozvoljenog CPL-a.",
+    "date": "2026-06-22",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "raspodela-leadova-prodajni-tim-srbija-2026",
     "title": "Raspodela leadova u Srbiji 2026: kome ide upit pre nego što se ohladi",
     "excerpt": "Raspodela leadova odlučuje da li najbolji upiti stižu pravoj osobi na vreme. Evo kako postaviti pravila po nameri, vrednosti, hitnosti i kapacitetu.",
