@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-servise-racunara-cena-popravke-srbija-2026",
+    "title": "Google Ads za servise računara u Srbiji 2026: cena popravke i budžet",
+    "excerpt": "Google Ads za servise računara treba meriti po zakazanim dijagnostikama i profitabilnim popravkama, ne po broju klikova i jeftinih poziva.",
+    "date": "2026-06-22",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "koliko-leadova-za-cilj-prodaje-marketing-budzet-srbija-2026",
     "title": "Koliko leadova treba za cilj prodaje u Srbiji 2026: budžet od prihoda unazad",
     "excerpt": "Koliko leadova treba za cilj prodaje ne računa se iz želje, nego iz stope zatvaranja, vrednosti kupca, kapaciteta prodaje i dozvoljenog CPL-a.",

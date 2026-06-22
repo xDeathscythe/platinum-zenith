@@ -1,5 +1,82 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-servise-racunara-cena-popravke-srbija-2026',
+    title: 'Google Ads za servise računara u Srbiji 2026: cena popravke i budžet',
+    excerpt: 'Google Ads za servise računara treba meriti po zakazanim dijagnostikama i profitabilnim popravkama, ne po broju klikova i jeftinih poziva.',
+    date: '2026-06-22',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Servis računara', 'Lokalni marketing', 'Lead Generation', 'Marketing budžet'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Servis računara ne plaća klik, nego popravku koja se isplati
+
+Servisi računara i laptopova u Srbiji često ulaze u Google Ads sa jednostavnim ciljem: više poziva. To zvuči razumno, jer ljudi koji traže popravku obično imaju hitan problem. Laptop se ne pali, računar je spor, ekran je polomljen, podaci su nestali ili firma ne može da radi dok se kvar ne reši. Ali veći broj poziva nije automatski bolji marketing.
+
+Česta greška je da se svaki poziv tretira kao isti lead. Jedna osoba pita koliko košta instalacija Windows-a. Druga ima poslovni laptop sa bitnim podacima. Treća traži najjeftiniji polovan punjač. Četvrta ima hitan kvar u kancelariji i spremna je da plati izlazak na teren. Ako se sve meri istom cenom leada, kampanja brzo izgleda zbunjujuće.
+
+Zato [Google reklame](/google-reklame-cena) za servis računara treba planirati oko vrste kvara, vrednosti popravke, hitnosti, lokacije i kapaciteta majstora. [Digitalni marketing](/cene-digitalnog-marketinga) nije cilj sam po sebi. Cilj je da servis dobije više upita koji mogu postati zakazana dijagnostika, prihvaćena popravka ili redovan B2B klijent.
+
+## Zašto je cena popravke važnija od cene poziva
+
+Sirov CPL može prevariti servis. Kampanja može dovesti 80 poziva po niskoj ceni, ali ako većina ljudi traži savet preko telefona, polovnu komponentu ili popravku ispod minimalne isplative vrednosti, realan rezultat je slab. Obrnuto, skuplji poziv može biti odličan ako osoba ima ozbiljan kvar, donosi uređaj isti dan i prihvata dijagnostiku.
+
+Kod servisa računara treba razdvojiti bar tri metrike: cena poziva ili forme, cena zakazane dijagnostike i cena prihvaćene popravke. Tek treća metrika pokazuje da li kampanja puni radionicu poslom koji ima maržu. Ako servis radi i firme, onda treba posebno meriti upite za održavanje računara, hitne intervencije i ugovore, jer jedan B2B klijent može vredeti mnogo više od jedne zamene tastature.
+
+Ovo je slično kao kod [servisa telefona](/blog/google-ads-za-servise-telefona-cena-popravke-srbija-2026), ali računari često imaju duži razgovor pre odluke. Kupac može želeti procenu štete, okvirnu cenu, rok i sigurnost da podaci neće biti ugroženi.
+
+## Kampanje treba podeliti po nameri, ne po jednoj opštoj reklami
+
+Najslabiji model je jedna kampanja za sve: servis računara, laptopova, čišćenje, reinstalacija, spasavanje podataka, mreže, firme, kućni korisnici. Oglas zvuči široko, landing strana nabraja sve usluge, a forma pita samo ime i telefon. Prodaja zatim mora da otkrije šta osoba stvarno želi.
+
+Bolji pristup je podela po nameri. Jedna grupa može biti za hitne popravke laptopova. Druga za spasavanje podataka. Treća za čišćenje i ubrzavanje računara. Četvrta za firme kojima treba IT održavanje ili izlazak na lokaciju. Svaka grupa treba da ima svoj oglas, konkretan tekst na stranici, očekivan sledeći korak i realan CTA.
+
+Ako osoba traži spasavanje podataka, ne treba da čita generičku priču o brzom servisu. Treba odmah da vidi da li servis radi taj tip kvara, kako izgleda dijagnostika, šta ne treba da radi pre dolaska i kako se zakazuje pregled uređaja. To je isti problem koji pokriva tekst o [usklađenosti oglasa i landing strane](/blog/uskladjenost-oglasa-landing-strane-konverzija-srbija-2026): oglas obeća jednu stvar, a stranica počne preširoko.
+
+## Koje upite servis treba da kvalifikuje pre poziva
+
+Servis računara ne mora da postavi dvadeset pitanja, ali mora da prikupi podatke koji menjaju sledeći korak. Minimum je tip uređaja, opis kvara, grad ili deo grada, hitnost, da li su podaci važni, da li je uređaj poslovni ili kućni i najlakši kanal za kontakt. Ako servis radi izlazak na teren, treba odmah znati da li je u pitanju kućni korisnik ili firma.
+
+Česta greška je forma sa dva polja: ime i telefon. Takva forma može imati dobru stopu konverzije, ali ne pomaže raspodeli posla. Majstor ne zna da li treba odmah zvati, poslati okvirnu cenu, tražiti sliku kvara, zakazati donošenje uređaja ili odbiti posao koji nije isplativ.
+
+Zato [kontakt forma za kvalifikaciju leadova](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026) pravi veliku razliku. Ne zato što forma treba da oteža upit, nego zato što dobar upit mora doći sa dovoljno konteksta da servis brzo kaže šta je sledeći korak.
+
+## Negativne ključne reči štede vreme majstora
+
+Kod servisa računara deo budžeta lako ode na loše namere. Ljudi traže besplatne savete, drajvere, posao u servisu, polovne računare, tutorijale, delove koje servis ne prodaje ili popravke koje nisu u ponudi. Bez negativnih ključnih reči kampanja može izgledati aktivno, ali puniti telefon pitanjima koja ne donose prihod.
+
+Dobar početni spisak zavisi od ponude, ali često treba filtrirati pojmove oko besplatno, posao, kursevi, polovno, samostalna popravka, tutorijal, download, drajver, forum i delove koje servis ne želi da prodaje pojedinačno. Ako servis ne radi konzole, Apple uređaje, televizore ili štampače, i to treba jasno filtrirati.
+
+Ovo nije sitničarenje u ad account-u. Svaki loš poziv troši vreme osobe koja bi mogla da odgovori ozbiljnom kupcu. Kada je kapacitet ograničen, loš lead ne košta samo budžet, nego i propuštenu popravku.
+
+## Budžet zavisi od marže i kapaciteta radionice
+
+Servis sa jednim majstorom ne treba isti budžet kao servis koji ima više tehničara, dostavu, B2B podršku i jasnu proceduru za dijagnostiku. Ako kampanja dovede više upita nego što radionica može da obradi, odgovori kasne, uređaji čekaju, a korisnici prelaze konkurenciji. Tada problem nije samo marketing, nego kapacitet.
+
+Pre skaliranja treba znati prosečnu vrednost popravke, bruto maržu, procenat upita koji dođu na dijagnostiku, procenat dijagnostika koje prihvate popravku i koliko uređaja tim može obraditi dnevno. Tek tada se računa [maksimalna cena leada](/blog/maksimalna-cena-leada-srbija-2026). Ako je prosečna popravka niska, kampanja mora biti vrlo precizna. Ako postoje profitabilni B2B ugovori, servis može platiti više za kvalifikovan upit.
+
+Tu pomaže i tema [kapaciteta prodaje](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026). Kod servisa računara prodaja nije uvek poseban tim. Često isti ljudi popravljaju uređaje i odgovaraju na pozive. Ako telefon zvoni u najgorem trenutku, dobar lead može propasti bez loše namere.
+
+## Šta pratiti posle forme ili poziva
+
+Google Ads ne treba završiti na broju klikova. Treba pratiti pozive, forme, WhatsApp poruke, zakazane dijagnostike, donete uređaje, prihvaćene popravke, prosečnu vrednost računa i razlog odbijanja. Ako se svi upiti beleže kao konverzija, algoritam ne zna koji kontakti stvarno vrede.
+
+Česta greška je da servis kaže da kampanja ne radi, a u praksi nema status posle poziva. Niko ne zna koliko je ljudi dobilo cenu, koliko ih je došlo, koliko je odustalo jer je popravka skuplja od vrednosti uređaja i koliko ih je izgubljeno zbog sporog odgovora. Bez [praćenja konverzija](/blog/pracenje-konverzija-lead-generation-srbija-2026), budžet se optimizuje po osećaju.
+
+Dobar minimum je tabela ili CRM sa statusima: nov upit, kontaktiran, zakazana dijagnostika, uređaj primljen, ponuda poslata, popravka prihvaćena, završeno, odbijeno i razlog odbijanja. To je dovoljno da se vidi koji oglasi dovode posao, a koji samo zauzimaju telefon.
+
+## Kada Platinum Zenith planira kampanju za servis računara
+
+Kod ovakvih kampanja ne gledamo samo koliko klik može da košta. Gledamo koje popravke servis želi više, koje ne želi, gde ima kapacitet, šta je hitno, šta ima najbolju maržu i kako se upit preuzima posle oglasa. Nekad je najbolji potez povećati budžet. Nekad je bolje razdvojiti kampanje, popraviti landing stranu, dodati kvalifikaciona pitanja ili uvesti jasne statuse posle poziva.
+
+Ako vodite servis računara, pošaljite nam koje usluge su vam najprofitabilnije, koji grad pokrivate, koliko uređaja dnevno možete da primite i kako trenutno pratite upite preko [kontakt strane](/kontakt). Napravićemo praktičan plan: koje kampanje imaju smisla, koje pretrage treba filtrirati, koliki budžet je realan i šta treba meriti da Google Ads donosi popravke, a ne samo zvonjavu telefona.
+`,
+  },
+  {
     slug: 'koliko-leadova-za-cilj-prodaje-marketing-budzet-srbija-2026',
     title: 'Koliko leadova treba za cilj prodaje u Srbiji 2026: budžet od prihoda unazad',
     excerpt: 'Koliko leadova treba za cilj prodaje ne računa se iz želje, nego iz stope zatvaranja, vrednosti kupca, kapaciteta prodaje i dozvoljenog CPL-a.',
