@@ -1,5 +1,80 @@
 const rawBlogPosts = [
   {
+    slug: 'follow-up-sekvenca-leadovi-prodaja-srbija-2026',
+    title: 'Follow-up sekvenca za leadove u Srbiji 2026: kako vratiti upit bez smaranja',
+    excerpt: 'Follow-up sekvenca za leadove pomaže prodaji da vrati ozbiljne upite bez pritiska, haosa u inboxu i izgubljenih razgovora.',
+    date: '2026-06-22',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Lead Generation', 'Follow-up', 'Prodaja', 'CRM', 'Konverzija'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Jedan odgovor nije prodajni proces
+
+Mnogo firmi u Srbiji misli da je follow-up završen kada neko jednom odgovori na upit. Lead pošalje formu, prodaja ga pozove, možda pošalje cenu ili kratak odgovor na WhatsApp i onda čeka. Ako se osoba ne javi, zaključak bude jednostavan: nije ozbiljan lead. Nekad je to tačno. Ali često je problem u tome što firma nema nikakvu sekvencu posle prvog kontakta.
+
+Česta greška je da se follow-up svodi na improvizaciju. Jedan prodavac pošalje poruku isti dan. Drugi zaboravi. Treći se javi posle nedelju dana sa generičkim „da li ste razmislili“. Četvrti odustane jer ne želi da smara. Rezultat je da [Google reklame](/google-reklame-cena) ili drugi kanal dovedu validan upit, a prodaja ga izgubi između prvog odgovora i jasnog sledećeg koraka.
+
+Dobra follow-up sekvenca nije napad na kupca. Ona je dogovoreni ritam komunikacije koji pomaže ozbiljnoj osobi da odluči, postavi dodatno pitanje, zakaže razgovor ili jasno kaže da nije fit. Zato je ovo tema prodajnog procesa, a ne samo lepšeg copy-ja u poruci.
+
+## Zašto lead nestane posle prvog kontakta
+
+Kupac retko živi u ritmu vaše prodaje. Možda je poslao upit dok je bio između sastanaka. Možda poredi tri ponude. Možda mora da pita partnera, direktora, roditelja ili finansije. Možda mu je problem bitan, ali nije hitan. Ako firma nema plan šta se dešava posle prvog odgovora, svaki od ovih slučajeva izgleda kao „ne javlja se“.
+
+Tekst o [prvom odgovoru na lead](/blog/prvi-odgovor-na-lead-prodajna-skripta-srbija-2026) pokriva šta treba reći odmah. Ali prvi odgovor je samo ulaz. Posle toga treba znati kada se šalje korisna dopuna, kada se predlaže termin, kada se proverava da li je odluka i dalje aktivna i kada se lead zatvara kao neaktivan.
+
+Bez toga prodaja obično radi dve krajnosti. Ili odustane prerano, pa gubi dobre prilike. Ili šalje previše poruka bez konteksta, pa izgleda naporno. Sekvenca rešava baš taj srednji prostor.
+
+## Šta dobra follow-up sekvenca mora da ima
+
+Najjednostavnija sekvenca ima četiri elementa: razlog poruke, vremenski razmak, sledeći korak i status u evidenciji. Ako poruka nema razlog, zvuči kao guranje. Ako nema razmak, deluje panično. Ako nema sledeći korak, kupac ne zna šta da uradi. Ako nema status, tim ne zna gde je razgovor stao.
+
+Na primer, prvi follow-up može doći nekoliko sati posle razgovora i sažeti dogovor: „Rekli ste da vam je najveći problem kvalitet upita, ne samo broj leadova. Poslao sam okvir i predlog sledećeg koraka.“ Drugi može stići sutradan sa korisnim pitanjem: „Da li želite da plan računamo po broju kvalifikovanih upita ili po cilju prodaje?“ Treći može ponuditi jasan izbor: „Ako je i dalje aktuelno, možemo zakazati 20 minuta u utorak ili četvrtak. Ako nije, zatvoriću upit da vas ne zatrpavam.“
+
+To nije smaranje. To je profesionalan nastavak razgovora.
+
+## Sekvenca mora pratiti nameru, ne samo vreme
+
+Nije svaki lead isti. Osoba koja je tražila cenu za hitnu uslugu ne treba isti ritam kao B2B kupac koji poredi agencije za naredni kvartal. Zbog toga sekvenca treba da zavisi od namere, vrednosti i hitnosti upita.
+
+A lead može dobiti brži poziv, personalizovan rezime i predlog termina. B lead može dobiti dodatno pitanje za kvalifikaciju. C lead može dobiti kraću poruku sa jasnim uslovima i opcijom da se vrati kada bude spreman. Ovo se nadovezuje na [lead scoring](/blog/lead-scoring-prioritet-upita-prodaja-srbija-2026): cilj nije da svi dobiju isti tretman, nego da ozbiljne prilike ne čekaju iza slabih upita.
+
+Česta greška je ista sekvenca za sve: „Pozdrav, samo da proverim“. Ta poruka nema vrednost. Bolja poruka vraća razgovor na konkretan problem, odluku ili sledeći korak.
+
+## Gde follow-up obično puca u srpskim firmama
+
+Prva rupa je vlasništvo. Niko ne zna ko je zadužen posle prvog odgovora. Marketing kaže da je lead poslat. Prodaja kaže da se čovek nije javio. Menadžer vidi samo da nije bilo prodaje. Zato tema [vlasništva leadova](/blog/vlasnistvo-leadova-marketing-prodaja-srbija-2026) mora biti rešena pre skaliranja budžeta.
+
+Druga rupa je evidencija. Ako status živi u glavi prodavca, follow-up zavisi od sećanja. Kada ima više upita, najglasniji ili najnoviji upit pobedi, a dobar lead od pre tri dana nestane. Minimum je jednostavan [CRM za leadove](/blog/crm-za-leadove-evidencija-prodaja-srbija-2026) sa statusima: nov upit, kontaktiran, čeka odgovor, poslat predlog, zakazan razgovor, izgubljen, dobijen.
+
+Treća rupa je poruka bez konteksta. Follow-up koji samo pita „ima li novosti“ prebacuje posao na kupca. Dobar follow-up podseća na dogovor, daje korisnu informaciju i smanjuje mentalni napor odluke.
+
+## Primer praktične sekvence od pet dodira
+
+Za većinu uslužnih firmi dovoljan je jednostavan okvir. Prvi dodir je brz odgovor, idealno u roku koji ste definisali kroz [brzinu odgovora na upit](/blog/brzina-odgovora-na-upit-follow-up-prodaja-srbija-2026). Drugi dodir je rezime problema i predlog sledećeg koraka. Treći dodir je dodatna vrednost: kratko objašnjenje, primer, okvirna procena ili pitanje koje menja odluku. Četvrti dodir je jasna opcija za termin, ponudu ili zatvaranje razgovora. Peti dodir je poslednja pristojna poruka koja ostavlja vrata otvorena.
+
+Važno je da svaka poruka ima svrhu. Ako je neko pitao za [cene digitalnog marketinga](/cene-digitalnog-marketinga), follow-up ne treba da bude prazan podsetnik, nego okvir: šta ulazi u cenu, šta ne ulazi, koji budžet ima smisla i šta treba znati pre predloga. Ako je neko tražio plan za kampanju, follow-up treba da traži podatke koji menjaju plan: cilj prodaje, prosečna vrednost klijenta, trenutni CPL, kapacitet tima i postojeći tracking.
+
+Tako prodaja ne juri kupca. Ona vodi odluku.
+
+## Kada treba stati
+
+Dobra sekvenca ima kraj. Ako lead ne odgovara posle nekoliko smislenih pokušaja, status treba zatvoriti ili prebaciti u dugoročnu listu za kasnije. Beskonačno cimanje kvari reputaciju i troši vreme tima. Profesionalno je reći: „Ako je tema trenutno pauzirana, zatvoriću ovaj razgovor. Kada bude aktuelno, možete se vratiti preko iste poruke ili preko kontakt strane.“
+
+Ovo je posebno važno kod [ponude posle upita](/blog/ponuda-posle-upita-leadovi-prodaja-srbija-2026). Ako ponuda nema dogovoren sledeći korak, firma ostaje u magli. Ako ima rok za proveru, status i poslednju poruku, zna se da li je prilika živa ili nije.
+
+## Kako Platinum Zenith postavlja follow-up proces
+
+Kada radimo lead generation, ne gledamo samo cenu klika i broj formi. Gledamo šta se dešava posle upita: ko odgovara, kojom porukom, kada ide drugi kontakt, gde se upisuje status, kada se šalje ponuda i kada se lead zatvara. Bez toga kampanja može izgledati aktivno, a prodaja i dalje curi.
+
+Ako imate upite koji se jave jednom pa nestanu, pošaljite nam trenutni put od forme do prodaje preko [kontakt strane](/kontakt). Pogledaćemo gde se razgovori hlade, šta treba automatizovati, šta treba ostaviti prodaji i kako da follow-up sekvenca vrati ozbiljne leadove bez smaranja ljudi koji nisu fit.
+`,
+  },
+  {
     slug: 'google-ads-za-servise-racunara-cena-popravke-srbija-2026',
     title: 'Google Ads za servise računara u Srbiji 2026: cena popravke i budžet',
     excerpt: 'Google Ads za servise računara treba meriti po zakazanim dijagnostikama i profitabilnim popravkama, ne po broju klikova i jeftinih poziva.',

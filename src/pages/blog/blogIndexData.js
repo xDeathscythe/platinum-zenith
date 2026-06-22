@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "follow-up-sekvenca-leadovi-prodaja-srbija-2026",
+    "title": "Follow-up sekvenca za leadove u Srbiji 2026: kako vratiti upit bez smaranja",
+    "excerpt": "Follow-up sekvenca za leadove pomaže prodaji da vrati ozbiljne upite bez pritiska, haosa u inboxu i izgubljenih razgovora.",
+    "date": "2026-06-22",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-servise-racunara-cena-popravke-srbija-2026",
     "title": "Google Ads za servise računara u Srbiji 2026: cena popravke i budžet",
     "excerpt": "Google Ads za servise računara treba meriti po zakazanim dijagnostikama i profitabilnim popravkama, ne po broju klikova i jeftinih poziva.",
