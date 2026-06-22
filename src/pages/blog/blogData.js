@@ -1,5 +1,84 @@
 const rawBlogPosts = [
   {
+    slug: 'marketing-budzet-po-scenariju-lead-generation-srbija-2026',
+    title: 'Marketing budžet po scenariju u Srbiji 2026: konzervativan, realan i agresivan plan',
+    excerpt: 'Marketing budžet po scenariju čuva kampanje od optimističnih planova: konzervativni, realan i agresivan model pokazuju koliko leadova i rizika smete kupiti.',
+    date: '2026-06-23',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Marketing budžet', 'Lead Generation', 'ROI', 'Prodaja', 'Google Ads'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Jedan budžet na papiru retko preživi prvi mesec
+
+Mnoge firme u Srbiji planiraju lead generation kao jednu cifru: imamo 150.000 dinara za oglase, šta možemo dobiti? To zvuči uredno, ali u praksi je previše krhko. Ako je cena leada malo viša, ako prodaja sporije odgovara, ako se kvalifikuje manji procenat upita ili ako konkurencija digne cenu klika, ceo plan odjednom izgleda kao promašaj.
+
+Česta greška je da se budžet predstavi kao obećanje, a ne kao scenario. Agencija ili interni tim napravi optimističnu tabelu: toliko klikova, toliko upita, toliko prodaja. Vlasnik zatim očekuje baš taj broj. Kada realnost odstupi, razgovor se pretvara u traženje krivca umesto u korekciju sistema.
+
+Zdraviji pristup je planiranje kroz tri scenarija: konzervativan, realan i agresivan. Tada [Google reklame](/google-reklame-cena) i [digitalni marketing](/cene-digitalnog-marketinga) nisu magična prognoza, nego kontrolisan test sa granicama rizika, lead volumenom i jasnim sledećim odlukama.
+
+## Zašto scenario menja razgovor o ROI-u
+
+Jedan broj sakriva previše pretpostavki. Kada neko kaže da kampanja treba da donese 60 leadova, u toj rečenici već postoje pretpostavke o ceni klika, stopi konverzije, kvalitetu forme, brzini odgovora, stopi zatvaranja i prosečnoj vrednosti posla. Ako se ne vide, teško ih je popraviti.
+
+Scenario ih iznosi na sto. Konzervativan scenario pokazuje šta se dešava ako je CPL viši, kvalifikacija slabija i prodaja zatvara sporije. Realan scenario koristi brojke koje firma može stvarno braniti. Agresivan scenario pokazuje šta bi imalo smisla tek kada tracking, landing strana i prodajni proces izdrže veći volumen.
+
+To je isti princip kao u tekstu o tome [koliko leadova treba za cilj prodaje](/blog/koliko-leadova-za-cilj-prodaje-marketing-budzet-srbija-2026), ali sa jednom važnom razlikom: ovde se ne pravi samo ciljna računica, nego i plan šta raditi ako tržište ne odgovori po najboljoj pretpostavci.
+
+## Konzervativan scenario: koliko smete izgubiti dok učite
+
+Konzervativan scenario nije pesimizam. To je osiguranje da firma ne mora panično da gasi kampanju posle dve nedelje. U njemu se računa viši CPL, niža stopa kvalifikacije, sporiji prodajni ciklus i manji broj zatvorenih poslova. Ako takav scenario i dalje ima smisla, test je mnogo zdraviji.
+
+Na primer, firma može planirati da je realan CPL 3.000 dinara, ali konzervativno računa 4.500. Može očekivati da se 60% upita kvalifikuje, ali konzervativno računa 40%. Može verovati da prodaja zatvara 20%, ali u prvom mesecu računa 10 do 15%. Tada budžet nije napravljen da izgleda lepo, nego da preživi učenje.
+
+Česta greška je suprotna: firma potroši minimalan budžet, očekuje zrelu ekonomiju i onda zaključi da kanal ne radi. Nekad kanal zaista nije dobar. Ali često test nikada nije imao dovoljno prostora da nauči koje poruke, publike i landing strane donose kvalifikovane razgovore.
+
+## Realan scenario: brojke koje prodaja može da potvrdi
+
+Realan scenario ne treba da bude sredina između želje i straha. On treba da se zasniva na dokazima koje firma već ima: prosečna vrednost klijenta, bruto marža, istorijska stopa zatvaranja, kapacitet odgovora, kvalitet postojećih upita i maksimalan prihvatljiv CPL.
+
+Ako tih dokaza nema, realan scenario mora biti skromniji. Bolje je reći da prvi mesec meri cenu kvalifikovanog razgovora nego obećati profitabilan skalirani sistem. To posebno važi za firme koje prvi put uvode ozbiljniji tracking, novu landing stranu ili bolju [kontakt formu za kvalifikaciju leadova](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026).
+
+Realan plan treba da odgovori na tri pitanja. Koliko kvalifikovanih upita nam treba da donesemo odluku? Koliko prodaja može da obradi bez pada kvaliteta? Koji CPL je prihvatljiv ako se uzme u obzir [bruto marža](/blog/bruto-marza-marketing-budzet-roi-srbija-2026), a ne samo prihod?
+
+## Agresivan scenario: kada veći budžet ima smisla
+
+Agresivan scenario nije samo veći dnevni spend. On ima smisla tek kada firma zna šta će se desiti sa dodatnim volumenom. Ako prodaja može kvalitetno obraditi 40 upita mesečno, a agresivan plan donosi 120, problem nije u kampanji nego u sistemu posle forme.
+
+Zato agresivan scenario mora imati uslove za aktiviranje. Na primer: ako se u prve tri nedelje održi CPL ispod dogovorene granice, ako najmanje polovina upita postane kvalifikovana, ako prodaja odgovara u dogovorenom roku i ako [stopa zatvaranja leadova](/blog/stopa-zatvaranja-leadova-marketing-budzet-srbija-2026) ne padne pri većem volumenu, budžet se može povećati.
+
+Bez tih uslova agresivno skaliranje često samo brže troši novac. Kampanja puni formu, tim kasni sa odgovorom, ponude postaju površne, dobri leadovi čekaju, a izveštaj i dalje pokazuje da ima aktivnosti. Tekst o [kapacitetu prodaje i marketing budžetu](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026) je obavezno štivo pre takvog povećanja.
+
+## Kako napraviti tabelu od tri scenarija
+
+Najjednostavnija tabela ima osam redova: medijski budžet, očekivani CPL, broj sirovih upita, procenat kvalifikacije, broj kvalifikovanih leadova, stopa zatvaranja, broj novih kupaca i bruto dobit po kupcu. Posle toga se dodaju CAC, period povrata i sledeća odluka.
+
+Konzervativan scenario može reći: manji budžet, viši CPL, manje kvalifikovanih leadova, sporije zatvaranje. Odluka: popraviti poruku, formu i follow-up pre povećanja. Realan scenario može reći: dovoljno kvalifikovanih leadova za validaciju ekonomije. Odluka: zadržati budžet i testirati varijante. Agresivan scenario može reći: veći budžet samo ako prodaja i tracking potvrde da sistem drži kvalitet.
+
+Ako već koristite [ROI kalkulator](/alati/roi-kalkulator), nemojte unositi samo najbolji slučaj. Unesite tri varijante. Tek tada se vidi da li je plan robustan ili zavisi od toga da sve prođe savršeno.
+
+## Gde firme najčešće pogreše u scenario planiranju
+
+Prva greška je isti CPL za svaki scenario. Ako povećavate budžet, ulazite u šire pretrage, skuplje aukcije ili slabiji deo publike. CPL može ostati stabilan, ali ne treba planirati kao da je to zagarantovano.
+
+Druga greška je ista stopa zatvaranja pri svakom volumenu. Prodaja može odlično raditi sa 20 upita, a znatno lošije sa 80. Ako nema CRM statusa, vlasništva leadova i follow-up ritma, agresivan scenario često smanji kvalitet obrade. Tada [CPL nije CAC](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026), jer jeftiniji lead može završiti kao skuplji kupac.
+
+Treća greška je budžet bez tačke zaustavljanja. Scenario mora reći kada se pauzira, kada se popravlja landing strana, kada se menja ponuda, a kada se povećava spend. Bez toga svaka odluka izgleda subjektivno.
+
+## Šta Platinum Zenith gleda pre preporuke budžeta
+
+Kada planiramo lead generation, ne tražimo samo mesečnu cifru koju firma može da izdvoji. Gledamo cilj prodaje, vrednost ponude, bruto maržu, trenutni prodajni proces, brzinu odgovora, kvalifikaciju forme, tracking i koliko realno košta učenje u prvom ciklusu. Tek tada pravimo konzervativan, realan i agresivan scenario.
+
+Nekad zaključak bude da treba krenuti manjim testom. Nekad da budžet treba povećati, ali tek posle sređivanja landing strane i prodajnog preuzimanja. Nekad se vidi da cilj nije problem u marketingu, nego u ponudi, marži ili kapacitetu tima.
+
+Ako želite da ne planirate budžet na osećaj, pošaljite nam trenutni cilj prodaje, prosečnu vrednost klijenta, okvirnu maržu, postojeći CPL i koliko upita tim može da obradi preko [kontakt strane](/kontakt). Vratićemo se sa tri scenarija: koliko leadova realno treba, koji budžet ima smisla, gde je najveći rizik i šta prvo treba popraviti pre skaliranja.
+`,
+  },
+  {
     slug: 'follow-up-sekvenca-leadovi-prodaja-srbija-2026',
     title: 'Follow-up sekvenca za leadove u Srbiji 2026: kako vratiti upit bez smaranja',
     excerpt: 'Follow-up sekvenca za leadove pomaže prodaji da vrati ozbiljne upite bez pritiska, haosa u inboxu i izgubljenih razgovora.',

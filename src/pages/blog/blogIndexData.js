@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "marketing-budzet-po-scenariju-lead-generation-srbija-2026",
+    "title": "Marketing budžet po scenariju u Srbiji 2026: konzervativan, realan i agresivan plan",
+    "excerpt": "Marketing budžet po scenariju čuva kampanje od optimističnih planova: konzervativni, realan i agresivan model pokazuju koliko leadova i rizika smete kupiti.",
+    "date": "2026-06-23",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "follow-up-sekvenca-leadovi-prodaja-srbija-2026",
     "title": "Follow-up sekvenca za leadove u Srbiji 2026: kako vratiti upit bez smaranja",
     "excerpt": "Follow-up sekvenca za leadove pomaže prodaji da vrati ozbiljne upite bez pritiska, haosa u inboxu i izgubljenih razgovora.",
