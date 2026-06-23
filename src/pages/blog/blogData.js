@@ -1,5 +1,92 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-fotografe-cena-fotosesije-srbija-2026',
+    title: 'Google Ads za fotografe u Srbiji 2026: cena fotosesije i rezervacije',
+    excerpt: 'Google Ads za fotografe treba meriti po rezervisanim terminima, avansima i profitabilnim paketima, ne po broju poruka koje samo pitaju za cenu.',
+    date: '2026-06-23',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Fotografi', 'Lokalni marketing', 'Lead Generation', 'Marketing budžet'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Fotograf ne prodaje poruku, nego rezervisan termin
+
+Fotografi u Srbiji često ulaze u Google Ads sa vrlo jednostavnom željom: više ljudi da se javi za cenu. To je razumljivo, pogotovo kada sezona venčanja, maturi, krštenja ili poslovnih snimanja ne puni kalendar ravnomerno. Ali veći broj poruka nije automatski bolji marketing.
+
+Česta greška je da se svaki upit tretira kao isti lead. Jedna osoba traži najjeftiniji paket za sutra. Druga planira venčanje za šest meseci i spremna je da uplati avans ako vidi stil, proces i slobodan termin. Treća želi poslovne fotografije za tim, četvrta pita za porodično slikanje, a peta samo skuplja cene. Ako se sve meri istom cenom leada, kampanja brzo izgleda haotično.
+
+Zato [Google reklame](/google-reklame-cena) za fotografe treba planirati oko vrste snimanja, vrednosti paketa, sezone, lokacije, dostupnosti termina i brzine odgovora. [Digitalni marketing](/cene-digitalnog-marketinga) nije cilj sam po sebi. Cilj je da fotograf dobije upite koji mogu postati rezervisana fotosesija, potpisan datum ili dugoročan B2B klijent.
+
+## Zašto cena fotosesije nije dovoljna metrika
+
+Sirov CPL može prevariti fotografa. Kampanja može dovesti mnogo jeftinih poruka, ali ako većina ljudi pita samo za popust, nema datum, nema budžet ili želi uslugu koju fotograf ne radi, realna vrednost je mala. Obrnuto, skuplji upit može biti odličan ako osoba ima definisan događaj, razume stil rada i spremna je da rezerviše termin.
+
+Kod fotografa treba razdvojiti bar četiri metrike: cena poruke ili forme, cena kvalifikovanog razgovora, cena rezervisanog termina i cena uplaćenog avansa. Tek poslednje dve metrike pokazuju da li kampanja puni kalendar profitabilnim poslom. Ako se radi poslovna fotografija, treba posebno pratiti vrednost ponovljenih snimanja, jer jedan dobar korporativni klijent može vredeti više od deset malih jednokratnih upita.
+
+Ovo je isti princip kao kod [CPL i CAC razlike](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026). Jeftin lead nije jeftin kupac ako prodaja troši vreme, šalje deset cenovnika i ne dobije rezervaciju.
+
+## Kampanje treba podeliti po tipu snimanja
+
+Najslabiji model je jedna kampanja za sve: venčanja, portreti, trudnice, deca, proizvodi, restorani, firme, nekretnine, eventi. Oglas zvuči široko, landing strana nabraja portfolio, a forma pita samo ime i telefon. Posle toga fotograf mora ručno da otkriva šta osoba zapravo želi.
+
+Bolji pristup je podela po nameri. Jedna kampanja može biti za venčanja i proslave, druga za poslovne portrete i timove, treća za product fotografiju, četvrta za porodične fotosesije, peta za evente. Svaka grupa treba da ima svoj oglas, galeriju relevantnih primera, okvir paketa, sledeći korak i realan CTA.
+
+Ako osoba traži fotografa za venčanje, ne treba prvo da čita generičku biografiju. Treba da vidi stil obrade, pokrivenost dana, rok isporuke, broj fotografija, opcije za video ako postoje, način rezervacije i šta se dešava sa datumom. Ako firma traži poslovne portrete, treba da vidi kako se organizuje snimanje tima, koliko traje, da li fotograf dolazi na lokaciju i kako se biraju finalne fotografije.
+
+To je ista rupa koju pokriva tekst o [usklađenosti oglasa i landing strane](/blog/uskladjenost-oglasa-landing-strane-konverzija-srbija-2026): oglas obeća jednu stvar, stranica priča sve odjednom, a upit postane slab jer kupac nije dobio jasan sledeći korak.
+
+## Forma mora kvalifikovati datum, paket i budžet
+
+Fotograf ne mora da traži roman u formi, ali mora da zna stvari koje menjaju odgovor. Minimum je tip snimanja, grad ili lokacija, željeni datum ili okvirni period, broj osoba ili obim događaja, očekivani paket, kanal za kontakt i da li je osoba spremna da rezerviše termin ako postoji dostupnost.
+
+Česta greška je forma sa dva polja: ime i telefon. Takva forma može imati više konverzija, ali ne pomaže filtriranju. Fotograf ne zna da li treba odmah zvati, poslati portfolio za venčanja, objasniti poslovni paket, pitati za lokaciju ili ljubazno odbiti upit koji ne odgovara ponudi.
+
+Dobra [kontakt forma za kvalifikaciju leadova](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026) ne treba da uplaši kupca. Ona treba da skine najvažniju neizvesnost pre prvog odgovora. Ako je datum zauzet, to se kaže odmah. Ako je budžet daleko ispod minimalnog paketa, ne troši se pola dana na poruke koje neće završiti rezervacijom.
+
+## Sezona menja budžet i očekivanja
+
+Fotografija je često sezonski posao. Venčanja, mature, novogodišnja snimanja, poslovne kampanje i turistički/event periodi ne traže isti budžet tokom cele godine. Ako kampanja krene tek kada su najbolji termini već popunjeni, oglasi mogu dovoditi upite, ali bez dovoljno prostora za profitabilne rezervacije.
+
+Zato plan treba napraviti pre špica. Za venčanja se budžet ne gleda samo u mesecu kada se svadbe dešavaju, nego u periodu kada parovi biraju fotografa. Za poslovne portrete budžet može rasti pred rebrendiranje, sajmove, nove timove ili kraj godine. Za product fotografiju važno je uhvatiti period pre kampanja, kataloga i sezonskih prodaja.
+
+Tekst o [sezonskom marketing budžetu](/blog/sezonski-marketing-budzet-lead-generation-srbija-2026) ovde direktno važi: ne kupuje se samo trenutna potražnja, nego pažnja u pravom trenutku odluke.
+
+## Negativne ključne reči štede kalendar
+
+Deo budžeta kod fotografa lako ode na pogrešne pretrage. Ljudi traže besplatne fotografije, posao fotografa, kurseve, polovne aparate, tutorijale, stock slike, štampanje, dokumenta ili usluge koje fotograf ne radi. Ako se to ne filtrira, kampanja može izgledati aktivno, a inbox se puni razgovorima bez vrednosti.
+
+Dobar početni spisak negativnih ključnih reči zavisi od ponude, ali često treba proveriti pojmove oko besplatno, posao, kurs, škola, polovno, oprema, aparat, stock, download, dokumenta, pasoš, lična karta i usluge koje nisu deo paketa. Ako fotograf ne radi video, venčanja, studijska snimanja ili izlazak van grada, i to treba jasno definisati u kampanji i na strani.
+
+Ovo nije sitnica u ad account-u. Svaki loš upit troši vreme koje je moglo otići na brz odgovor ozbiljnom kupcu. Kod usluga sa ograničenim terminima loš lead ne košta samo budžet, nego i potencijalno izgubljen datum.
+
+## Brzina odgovora je deo prodaje
+
+Kod fotografa dobar upit često ide na više adresa. Ako neko planira venčanje, krštenje, proslavu ili poslovno snimanje, verovatno poredi stil, cenu, dostupnost i poverenje. Ako odgovor stigne posle dva dana, drugi fotograf je možda već poslao paket, predložio termin i objasnio proces rezervacije.
+
+Zato [brzina odgovora na upit](/blog/brzina-odgovora-na-upit-follow-up-prodaja-srbija-2026) nije samo lep manir. Ona direktno menja cenu kupca. Prvi odgovor treba da potvrdi tip snimanja, dostupnost ili okvir, pošalje relevantan portfolio, objasni sledeći korak i traži samo podatke koji menjaju ponudu. Generičko slanje cenovnika često nije dovoljno.
+
+Ako fotograf radi sam, ovo je posebno važno. Nije problem samo oglas. Problem je što ista osoba snima, obrađuje, vodi Instagram, odgovara na poruke i šalje ponude. Zato kampanja mora poštovati realan kapacitet odgovora, ne samo želju da telefon više zvoni.
+
+## Koliki budžet ima smisla za fotografa
+
+Budžet zavisi od prosečne vrednosti paketa, bruto marže, sezone, kapaciteta termina i procenta upita koji prelaze u rezervaciju. Fotograf sa premium venčanim paketima može platiti više za kvalifikovan upit od fotografa koji radi kratke mini sesije sa malom maržom. Foto studio sa ponovljivim B2B klijentima može računati drugačiji povraćaj od freelancera koji puni samo vikende.
+
+Pre kampanje treba znati minimalnu profitabilnu cenu termina, koliko slobodnih termina postoji, koliko brzo se šalje ponuda, koliki avans potvrđuje rezervaciju i koja je [maksimalna cena leada](/blog/maksimalna-cena-leada-srbija-2026) pre nego što kampanja pojede maržu. Bez toga se budžet često određuje po osećaju: da probamo 300 evra pa da vidimo. Nekad je to dovoljno za učenje, ali nije dovoljno za ozbiljan zaključak ako nema praćenja rezervacija.
+
+## Šta Platinum Zenith gleda pre kampanje za fotografe
+
+Kada planiramo Google Ads za fotografe, ne gledamo samo cenu klika. Gledamo koje tipove snimanja želite, koji paketi imaju najbolju maržu, kada je sezona odluke, koliko termina realno možete primiti, kako izgleda portfolio strana, šta forma pita i koliko brzo stiže prvi odgovor. Tek onda računamo budžet, kampanje i očekivani volumen.
+
+Nekad zaključak bude da treba odvojiti kampanju za venčanja od poslovne fotografije. Nekad da landing strana mora pokazati paket i proces pre nego što se kupi traffic. Nekad da je problem u follow-up-u, jer dobri upiti dobijaju generičan cenovnik bez jasnog sledećeg koraka.
+
+Ako želite da Google Ads ne dovodi samo poruke nego rezervacije, pošaljite nam preko [kontakt strane](/kontakt) koje tipove snimanja radite, prosečnu cenu paketa, slobodne termine za naredni period i kako trenutno odgovarate na upite. Vratićemo se sa planom kampanja, kvalifikacije i budžeta koji meri rezervisane termine, ne samo broj klikova.
+`,
+  },
+  {
     slug: 'marketing-budzet-po-scenariju-lead-generation-srbija-2026',
     title: 'Marketing budžet po scenariju u Srbiji 2026: konzervativan, realan i agresivan plan',
     excerpt: 'Marketing budžet po scenariju čuva kampanje od optimističnih planova: konzervativni, realan i agresivan model pokazuju koliko leadova i rizika smete kupiti.',

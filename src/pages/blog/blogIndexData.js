@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-fotografe-cena-fotosesije-srbija-2026",
+    "title": "Google Ads za fotografe u Srbiji 2026: cena fotosesije i rezervacije",
+    "excerpt": "Google Ads za fotografe treba meriti po rezervisanim terminima, avansima i profitabilnim paketima, ne po broju poruka koje samo pitaju za cenu.",
+    "date": "2026-06-23",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "marketing-budzet-po-scenariju-lead-generation-srbija-2026",
     "title": "Marketing budžet po scenariju u Srbiji 2026: konzervativan, realan i agresivan plan",
     "excerpt": "Marketing budžet po scenariju čuva kampanje od optimističnih planova: konzervativni, realan i agresivan model pokazuju koliko leadova i rizika smete kupiti.",
