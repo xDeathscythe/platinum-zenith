@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "novcani-tok-marketing-budzet-roi-srbija-2026",
+    "title": "Novčani tok i marketing budžet u Srbiji 2026: kada ROI nije dovoljno dobar",
+    "excerpt": "Pozitivan ROI ne znači da firma ima zdrav cash flow. Evo kako planirati marketing budžet po naplati, marži, roku prodaje i kapacitetu.",
+    "date": "2026-06-24",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "audit-prodajnog-funnela-lead-generation-srbija-2026",
     "title": "Audit prodajnog funnel-a u Srbiji 2026: gde kampanja gubi kupce",
     "excerpt": "Audit prodajnog funnel-a pokazuje gde kampanja gubi kupce: klik, landing strana, forma, prvi odgovor, ponuda ili follow-up posle upita.",

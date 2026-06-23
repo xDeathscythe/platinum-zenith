@@ -1,5 +1,84 @@
 const rawBlogPosts = [
   {
+    slug: 'novcani-tok-marketing-budzet-roi-srbija-2026',
+    title: 'Novčani tok i marketing budžet u Srbiji 2026: kada ROI nije dovoljno dobar',
+    excerpt: 'Pozitivan ROI ne znači da firma ima zdrav cash flow. Evo kako planirati marketing budžet po naplati, marži, roku prodaje i kapacitetu.',
+    date: '2026-06-24',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Marketing budžet', 'ROI', 'Cash flow', 'Lead Generation', 'Prodaja'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Dobar ROI može da napravi loš novčani tok
+
+Mnogo firmi planira marketing budžet kao da se novac vraća istog dana kada lead stigne. U tabeli sve izgleda uredno: prosečan lead košta 2.000 dinara, svaki deseti postane kupac, prosečna prodaja vredi 80.000 dinara i kampanja ima pozitivan ROI. Problem nastaje kada se pogleda kada novac stvarno ulazi na račun.
+
+Česta greška je da se marketing ocenjuje samo po profitu na papiru. Firma može imati kampanju koja se isplati kroz tri meseca, ali u prvih trideset dana troši keš brže nego što naplaćuje. To ne znači da je kampanja loša. Znači da budžet nije usklađen sa ciklusom prodaje, avansima, rokovima isporuke, maržom i kapacitetom tima.
+
+Zato [Google reklame](/google-reklame-cena) i [digitalni marketing](/cene-digitalnog-marketinga) ne treba planirati samo pitanjem koliko možemo da zaradimo, nego i pitanjem kada se novac vraća. ROI govori da li se ulaganje isplati. Novčani tok govori da li firma može da izdrži put do te isplativosti.
+
+## Prvo razdvojite prihod, profit i naplatu
+
+Jedan zatvoren klijent od 200.000 dinara ne znači da je firma dobila 200.000 dinara čistog prostora za marketing. Deo tog iznosa odlazi na isporuku, tim, materijal, alat, poreze, provizije, popuste i vreme vlasnika. Još važnije, deo možda neće biti naplaćen odmah.
+
+Kod nekih usluga kupac plaća avans 50%, ostatak posle završetka. Kod drugih plaća mesečno. Kod trećih se faktura šalje tek nakon isporuke. Ako marketing budžet izlazi danas, a naplata dolazi za 45 dana, pozitivna bruto marža nije dovoljna da se kampanja oseća zdravo u kešu.
+
+Zato pre povećanja budžeta treba znati tri broja: prosečan prihod po kupcu, [bruto maržu](/blog/bruto-marza-marketing-budzet-roi-srbija-2026) i stvarni ritam naplate. Bez toga firma lako kaže da sme da plati lead 4.000 dinara, a onda shvati da joj se novac vraća sporo i da mora da finansira rast iz džepa.
+
+## Drugo pitanje: koliko traje put od klika do naplate
+
+Lead generation nije jedan događaj. Kupac klikne, pošalje upit, dobije odgovor, zakaže razgovor, razmatra ponudu, pregovara, potpisuje, plaća avans i tek kasnije dobija isporuku. U nekim nišama taj put traje dva dana. U drugim traje šest nedelja.
+
+Česta greška je da se kampanja meri na kraju meseca, dok prodaja još nije stigla do naplate. Tada dobar kanal deluje kao trošak jer se gledaju samo klikovi i leadovi, a ne statusi iz prodaje. Druga greška je suprotna: kampanja se agresivno skalira jer je ROI iz prošlog meseca dobar, a ne vidi se da nova prodaja kasni sa naplatom.
+
+Tu pomaže tekst o [periodu povrata marketing budžeta](/blog/period-povrata-marketing-budzeta-srbija-2026). Ako se ulaganje vraća kroz 60 dana, budžet mora imati prostor za bar dva ciklusa, ne samo za jednu lepu tabelu. Inače se kampanja gasi baš pre trenutka kada je trebalo da pokaže puni rezultat.
+
+## Treće pitanje: da li budžet prati kapacitet naplate i isporuke
+
+Više leadova nije automatski bolji problem. Ako prodaja kasni, ponude stoje, isporuka nema kapacitet ili se avansi ne naplaćuju jasno, veći budžet samo ubrzava pritisak na firmu. Na izveštaju raste broj upita, a u praksi raste broj otvorenih obaveza.
+
+Dobar novčani tok traži da marketing, prodaja i operativa budu u istom ritmu. Ako kampanja može da dovede dvadeset kvalifikovanih upita mesečno, ali tim može kvalitetno da obradi deset, preostali leadovi se hlade ili završavaju u brzinskim ponudama. To diže stvarni CAC, čak i kada CPL izgleda prihvatljivo.
+
+Zato je [kapacitet prodaje](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026) deo budžeta, ne HR fusnota. Firma treba da zna koliko razgovora može da odradi, koliko ponuda može da pošalje, koliko avansa može da naplati i koliko novih klijenata može da isporuči bez pada kvaliteta.
+
+## Primer: kampanja je profitabilna, ali keš kasni
+
+Zamislimo firmu koja prodaje uslugu od 120.000 dinara. Bruto marža je 50%, dakle oko 60.000 dinara bruto profita po klijentu. Kampanja mesečno potroši 180.000 dinara i donese 60 leadova po 3.000 dinara. Od toga 12 budu kvalifikovani razgovori, a 3 postanu klijenti.
+
+Na papiru, firma dobija 180.000 dinara bruto profita iz 180.000 dinara marketing troška. Ako se računaju ponovne kupovine ili veći paketi, ROI može biti dobar. Ali ako svaki klijent plaća 30% avansa, firma u prvom mesecu naplati samo 108.000 dinara, dok je već potrošila 180.000 na kampanju i još mora da finansira isporuku.
+
+To ne znači da treba ugasiti oglase. Znači da plan mora uključiti avans, rok naplate, rezervu za test, limit povećanja i jasnu odluku kada se budžet diže. Ako firma gleda samo CPL, zaključiće pogrešnu stvar. Ako gleda novčani tok, znaće da li treba povećati avans, usporiti scaling, promeniti ponudu ili smanjiti period do naplate.
+
+## Kako napraviti cash-flow plan za marketing budžet
+
+Praktičan plan ne mora biti komplikovan. Dovoljna je tabela po nedeljama ili mesecima sa pet redova: planirani ad spend, očekivani broj leadova, očekivani broj zatvorenih klijenata, očekivani datum naplate i bruto profit koji stvarno ulazi u firmu. Tek onda se dodaju agencijski fee, trošak prodaje i trošak isporuke.
+
+Za početak koristite konzervativne pretpostavke. Ako je prosečna [stopa zatvaranja leadova](/blog/stopa-zatvaranja-leadova-marketing-budzet-srbija-2026) 20%, u cash-flow planu računajte 15% dok ne vidite stabilne statuse. Ako deo kupaca kasni sa uplatom, nemojte sav prihod ubaciti u isti mesec. Ako se prodaja oslanja na vlasnika, računajte i njegovo vreme kao ograničenje.
+
+Ovo se lepo nadovezuje na planiranje [koliko leadova treba za cilj prodaje](/blog/koliko-leadova-za-cilj-prodaje-marketing-budzet-srbija-2026), ali dodaje vremensku dimenziju. Nije dovoljno znati koliko leadova treba. Treba znati kada ti leadovi postaju naplaćen novac.
+
+## Kada povećati budžet, a kada popraviti naplatu
+
+Budžet ima smisla povećavati kada postoje tri signala: leadovi su kvalifikovani, prodaja ih zatvara u predvidivom roku i naplata ulazi pre nego što novi trošak počne da guši firmu. Ako jedan od ta tri signala nedostaje, povećanje može izgledati kao rast, a zapravo napraviti pritisak na keš.
+
+Ako su leadovi dobri, ali naplata kasni, prvo se popravlja ponuda: jasniji avans, kraći rok odluke, paket sa bržom isporukom, bolji follow-up posle ponude ili jasnije finansijske faze. Ako su leadovi loši, problem je pre prodaje: oglas, landing strana, forma ili očekivanje cene. Ako prodaja ne stiže, problem je kapacitet, ne budžet.
+
+Tu je korisna razlika između [CPL-a i CAC-a](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026). Cena leada je samo prvi račun. Cena kupca uključuje vreme, kašnjenja, ponude, propuštene upite i novac koji stoji zarobljen dok se posao ne naplati.
+
+## Šta Platinum Zenith gleda pre predloga budžeta
+
+Kada planiramo lead generation budžet, ne gledamo samo koliko klikova može da se kupi. Gledamo prosečnu vrednost posla, maržu, avans, rok prodaje, vreme do naplate, kapacitet odgovora, kvalitet forme i minimalni broj podataka potreban za odluku. Tek tada budžet ima smisao.
+
+Nekad zaključak bude da firma može odmah da poveća spend. Nekad je pametnije prvo srediti ponudu, formu, CRM statuse ili način naplate. Nekad je najbolji potez manji test sa bržom povratnom informacijom, umesto velikog mesečnog budžeta koji troši keš pre nego što prodaja stigne da zatvori ciklus.
+
+Ako želite da znate koliki budžet ima smisla za vaš lead generation sistem, pošaljite nam preko [kontakt strane](/kontakt) prosečnu vrednost posla, maržu, rok naplate i trenutni broj upita. Možemo izračunati okvir u [ROI kalkulatoru](/alati/roi-kalkulator), ali i proveriti da li plan puca na novčanom toku pre nego što novac ode u oglase.
+`,
+  },
+  {
     slug: 'audit-prodajnog-funnela-lead-generation-srbija-2026',
     title: 'Audit prodajnog funnel-a u Srbiji 2026: gde kampanja gubi kupce',
     excerpt: 'Audit prodajnog funnel-a pokazuje gde kampanja gubi kupce: klik, landing strana, forma, prvi odgovor, ponuda ili follow-up posle upita.',
