@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "audit-prodajnog-funnela-lead-generation-srbija-2026",
+    "title": "Audit prodajnog funnel-a u Srbiji 2026: gde kampanja gubi kupce",
+    "excerpt": "Audit prodajnog funnel-a pokazuje gde kampanja gubi kupce: klik, landing strana, forma, prvi odgovor, ponuda ili follow-up posle upita.",
+    "date": "2026-06-23",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-fotografe-cena-fotosesije-srbija-2026",
     "title": "Google Ads za fotografe u Srbiji 2026: cena fotosesije i rezervacije",
     "excerpt": "Google Ads za fotografe treba meriti po rezervisanim terminima, avansima i profitabilnim paketima, ne po broju poruka koje samo pitaju za cenu.",

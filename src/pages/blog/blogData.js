@@ -1,5 +1,100 @@
 const rawBlogPosts = [
   {
+    slug: 'audit-prodajnog-funnela-lead-generation-srbija-2026',
+    title: 'Audit prodajnog funnel-a u Srbiji 2026: gde kampanja gubi kupce',
+    excerpt: 'Audit prodajnog funnel-a pokazuje gde kampanja gubi kupce: klik, landing strana, forma, prvi odgovor, ponuda ili follow-up posle upita.',
+    date: '2026-06-23',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Lead Generation', 'Prodajni funnel', 'Konverzija', 'Prodaja', 'Marketing budžet'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Kampanja ne gubi kupce samo u oglasima
+
+Kada lead generation ne donosi dovoljno prodaje, prva reakcija mnogih firmi je da gledaju oglase: skuplji klik, slabiji tekst, konkurencija, algoritam, loša publika. Nekad je problem stvarno u kampanji. Ali vrlo često kampanja samo otkrije rupu koja postoji kasnije u prodajnom funnel-u.
+
+Česta greška je da se ceo sistem ocenjuje po jednom broju: koliko je koštao lead. Ako je CPL visok, krive se oglasi. Ako je CPL nizak, kampanja se proglasi uspešnom. U oba slučaja može se promašiti suština. Jeftin lead koji niko ne zove, ne kvalifikuje i ne vraća kroz follow-up nije dobar lead. Skuplji lead koji brzo postane ozbiljan razgovor može biti najprofitabilniji deo kampanje.
+
+Zato audit prodajnog funnel-a treba da ide redom: obećanje oglasa, landing strana, forma, prvi odgovor, kvalifikacija, ponuda, follow-up i zatvaranje. Tek tada [Google reklame](/google-reklame-cena) i [digitalni marketing](/cene-digitalnog-marketinga) prestaju da budu izolovan trošak i postaju sistem koji može da se popravi.
+
+## Prvo pitanje: šta oglas obećava, a šta strana isporučuje
+
+Prva rupa nastaje kada oglas privuče pravu osobu, ali je pošalje na stranu koja priča šire nego što kupac očekuje. Oglas kaže brzo do ponude za konkretnu uslugu. Strana otvara generičkim tekstom o firmi. Oglas obeća cenu ili okvir. Strana sakrije sve iza forme. Oglas targetira jedan problem. Strana nabroji deset usluga.
+
+Takav raskorak ne mora odmah oboriti broj upita. Nekad ljudi ipak popune formu, ali dolaze zbunjeni, slabo kvalifikovani ili sa pogrešnim očekivanjem. Prodaja zatim mora da objašnjava ono što je stranica trebalo da razjasni pre slanja upita.
+
+Zato audit ne počinje u Ads Manager-u, nego poređenjem jednog oglasa i jedne landing strane. Da li naslov strane ponavlja stvarnu nameru iz oglasa? Da li prvi ekran kaže kome je ponuda namenjena? Da li CTA traži sledeći logičan korak? Ako ne, korisno je prvo pročitati tekst o [usklađenosti oglasa i landing strane](/blog/uskladjenost-oglasa-landing-strane-konverzija-srbija-2026), jer tu često curi profit pre nego što prodaja dobije šansu.
+
+## Drugo pitanje: da li forma pravi upit ili samo kontakt
+
+Forma sa imenom, telefonom i porukom može delovati kao jednostavno rešenje. Manje trenja, više konverzija. Problem je što prodaja posle dobija sirov kontakt umesto konteksta. Ne zna budžet, rok, vrstu usluge, lokaciju, ozbiljnost potrebe, ko donosi odluku i šta je osoba već videla.
+
+Česta greška kod uslužnih firmi je da se broj formi tretira kao dokaz interesa. U praksi, deset formi bez konteksta može vredeti manje od tri kvalifikovana upita. Ako prodaja mora da postavlja ista osnovna pitanja svakom lead-u, funnel je već skup, samo se trošak krije u vremenu tima.
+
+Dobra [kontakt forma za kvalifikaciju leadova](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026) ne mora da bude duga. Treba da pita samo ono što menja sledeći korak: usluga, cilj, okvirni budžet ili obim, rok, grad ako je bitan, najbolji kanal za odgovor i spremnost na razgovor. Audit treba da proveri da li forma pomaže prodaji ili samo prebacuje sav posao na prvi poziv.
+
+## Treće pitanje: ko odgovara prvi i u kom roku
+
+Dobar lead ima temperaturu. Osoba je upravo tražila rešenje, otvorila nekoliko tabova, možda pitala još dve firme i očekuje konkretan odgovor. Ako prvi odgovor kasni, zvuči generički ili traži iste informacije koje je forma već prikupila, ozbiljan kupac brzo pređe dalje.
+
+Ovde mnoge firme greše jer brzinu odgovora gledaju kao operativni detalj, a ne kao deo marketing budžeta. Kampanja može platiti kvalifikovan upit 3.000 dinara, a firma ga izgubiti jer niko nije vlasnik prvog odgovora. Na izveštaju će pisati da je lead stigao. U realnosti, funnel ga je ohladio.
+
+Audit treba da proveri tri stvari: ko je vlasnik prvog odgovora, koji je prihvatljiv rok i kako izgleda prva poruka. Dobra [prodajna skripta za prvi odgovor na lead](/blog/prvi-odgovor-na-lead-prodajna-skripta-srbija-2026) potvrđuje kontekst, pokazuje da je zahtev pročitan, postavlja samo pitanja koja menjaju ponudu i predlaže jasan sledeći korak.
+
+## Četvrto pitanje: da li svi leadovi idu istim putem
+
+Nije svaki upit jednak. Neko ima hitan problem, odgovarajući budžet i jasnu potrebu. Neko skuplja informacije za sledeću godinu. Neko nije fit za ponudu. Ako svi dobiju isti odgovor, isti prioritet i isti follow-up, prodaja troši vreme na pogrešan redosled.
+
+Česta greška je da se kampanja optimizuje za volumen, dok prodaja nema jednostavan sistem prioriteta. Tada najbolji leadovi čekaju iza slabih, a firma na kraju zaključi da su leadovi loši. Nekad nisu loši. Samo nisu rangirani.
+
+Zato audit treba da uvede bar A, B i C kategorije. A lead ima problem, budžet, rok i fit sa ponudom. B lead ima potencijal, ali treba dopuna konteksta. C lead je edukativan, slab fit ili prerano u odluci. Tekst o [lead scoring-u](/blog/lead-scoring-prioritet-upita-prodaja-srbija-2026) dobro pokriva ovaj deo: cilj nije da se svima odgovori isto, nego da se ozbiljne prilike ne hlade zbog administrativnog reda.
+
+## Peto pitanje: šta se meri posle poslate ponude
+
+Mnogo funnel-a izgleda dobro do trenutka kada se pošalje ponuda. Lead je stigao, prodaja je pričala, dokument je poslat. Onda nastaje tišina. Ako nema statusa posle ponude, firma ne zna da li je problem cena, timing, poverenje, format ponude, manjak follow-up-a ili pogrešan lead.
+
+Česta greška je slanje generičnog PDF-a bez dogovorenog sledećeg koraka. Kupac dobije cenovnik, prodaja upiše da je ponuda poslata, a niko ne zna kada se vraća, ko odlučuje, šta je najveća prepreka i šta treba razjasniti. Na kraju kampanja izgleda kao da donosi upite koji ne kupuju.
+
+Audit treba da proveri da li svaka ponuda ima razlog, kontekst iz razgovora, rok za odgovor, sledeći kontakt i CRM status. Ako se mnogo leadova gubi baš ovde, koristan je tekst o tome zašto [ponuda posle upita ne sme biti samo cenovnik](/blog/ponuda-posle-upita-leadovi-prodaja-srbija-2026).
+
+## Šesto pitanje: da li follow-up vraća razgovor ili nervira kupca
+
+Follow-up nije spam ako ima razlog. Problem je kada firma šalje generičko pitanje da li ste razmislili, bez nove vrednosti, bez reference na prvobitni problem i bez jasnog sledećeg koraka. Još veći problem je kada follow-up uopšte ne postoji, pa se svaki neodgovor tretira kao izgubljen lead.
+
+U dobrom funnel-u postoji kratak ritam: prvi odgovor, dopuna konteksta, ponuda, provera prepreke, poslednji koristan podsetnik i zatvaranje statusa. To ne mora biti komplikovan automation. Može biti jednostavna lista u CRM-u, ali mora postojati vlasnik i datum sledeće akcije.
+
+Ako audit pokaže da ozbiljni upiti nestaju posle prvog razgovora, nije dovoljno menjati oglase. Treba postaviti [follow-up sekvencu za leadove](/blog/follow-up-sekvenca-leadovi-prodaja-srbija-2026) koja vraća razgovor bez pritiska i čuva kontekst za prodaju.
+
+## Brojevi koje audit mora da razdvoji
+
+Najkorisniji funnel audit razdvaja metrike koje se često guraju u jedan izveštaj. Posebno treba gledati cenu klika, stopu konverzije landing strane, cenu sirovog upita, procenat kvalifikovanih leadova, brzinu prvog odgovora, procenat zakazanih razgovora, procenat poslatih ponuda, stopu zatvaranja i stvarni CAC.
+
+Ako se meri samo CPL, firma ne zna da li da popravi oglas, landing stranu, formu, prvi odgovor, prodajni razgovor ili ponudu. Ako se meri ceo tok, odluka postaje praktična. Na primer: ako je klik skup, ali kvalifikacija dobra, problem je u kupovini pažnje. Ako je klik prihvatljiv, a forma slaba, problem je na strani. Ako ima mnogo kvalifikovanih leadova i malo prodaje, problem je u prodajnom procesu.
+
+Zato [CPL nije CAC](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026). Cena leada je samo jedan deo puta. Cena kupca uključuje sve što se desi nakon što osoba klikne pošalji.
+
+## Kada prvo popravljati funnel, a kada povećati budžet
+
+Veći budžet ima smisla kada sistem može da primi veći volumen bez pada kvaliteta. Ako landing strana šalje pogrešne upite, forma ne kvalifikuje, prodaja kasni i ponude nemaju follow-up, povećanje budžeta samo ubrzava curenje. Firma dobije više aktivnosti, ali ne i proporcionalno više profita.
+
+S druge strane, nekad se audit završi jasnim signalom da je sistem dovoljno zdrav: upiti su kvalifikovani, prvi odgovor je brz, prodaja zna statuse, ponude se prate i CAC je prihvatljiv. Tada problem nije popravka funnel-a, nego kontrolisano skaliranje.
+
+Praktično pravilo: povećavati budžet tek kada znate koji deo puta trenutno ograničava prodaju. Ako ne znate, prvo se radi audit. Ako znate i ograničenje je uklonjeno, budžet može da raste sa manje rizika.
+
+## Šta Platinum Zenith radi u audit-u funnel-a
+
+Kada gledamo lead generation sistem, ne zaustavljamo se na ad account-u. Uzimamo jedan konkretan put kupca: oglas, landing stranu, formu, hvala stranu, prvi odgovor, prodajni razgovor, ponudu, CRM status i follow-up. Za svaki korak pitamo šta kupac očekuje, šta firma traži od njega i gde se gubi komercijalna namera.
+
+Nekad rezultat bude jednostavan: prepraviti prvi ekran i CTA. Nekad forma mora da filtrira budžet i rok. Nekad problem nije u marketingu nego u tome što lead nema vlasnika posle forme. Nekad ponuda mora da se veže za problem iz razgovora, a ne da izgleda kao isti dokument za sve.
+
+Ako kampanja donosi upite, ali prodaja ne raste, pošaljite nam preko [kontakt strane](/kontakt) primer oglasa, landing strane, forme i trenutni način odgovora na lead. Vratićemo se sa jasnim mapiranjem gde funnel curi, šta prvo treba popraviti i kada ima smisla povećati budžet.
+`,
+  },
+  {
     slug: 'google-ads-za-fotografe-cena-fotosesije-srbija-2026',
     title: 'Google Ads za fotografe u Srbiji 2026: cena fotosesije i rezervacije',
     excerpt: 'Google Ads za fotografe treba meriti po rezervisanim terminima, avansima i profitabilnim paketima, ne po broju poruka koje samo pitaju za cenu.',
