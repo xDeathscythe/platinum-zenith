@@ -1,5 +1,84 @@
 const rawBlogPosts = [
   {
+    slug: 'remarketing-za-lead-generation-posetioci-bez-upita-srbija-2026',
+    title: 'Remarketing za lead generation u Srbiji 2026: kako vratiti posetioce bez upita',
+    excerpt: 'Remarketing ne spašava lošu ponudu, ali vraća neodlučne posetioce ako poruka, publika, dokaz i sledeći korak prate stvarni prodajni funnel.',
+    date: '2026-06-24',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Remarketing', 'Lead Generation', 'Konverzija', 'Prodajni funnel', 'Google Ads'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Posetilac koji ne pošalje upit nije uvek izgubljen
+
+Mnogo lead generation kampanja se ocenjuje prebrzo: klik je plaćen, osoba je došla na sajt, nije poslala upit i u izveštaju deluje kao da je novac propao. Nekad je to tačno. Ako je posetilac tražio pogrešnu uslugu, nema budžet ili je slučajno kliknuo, remarketing ga neće pretvoriti u kupca. Ali često problem nije u interesovanju, nego u trenutku odluke.
+
+Česta greška je tretirati sve posetioce koji nisu konvertovali kao istu publiku. Neko je pročitao cenu i otišao da uporedi konkurenciju. Neko je otvorio formu, ali nije imao spremne podatke. Neko je na telefonu video prvi ekran, prekinuo ga je poziv i zaboravio da se vrati. Neko mora da pokaže ponudu partneru ili direktoru. Ako ih kampanja posle toga samo juri istom generičkom reklamom, remarketing postaje smaranje, ne prodajni sistem.
+
+Zato remarketing za lead generation treba povezati sa celim funnel-om: šta je osoba videla, šta joj je verovatno falilo za odluku i koji sledeći korak ima smisla. [Google reklame](/google-reklame-cena) mogu dovesti prvu posetu, ali [digitalni marketing](/cene-digitalnog-marketinga) mora imati plan za ljude koji nisu spremni da pošalju upit u prvih pet minuta.
+
+## Prvo popravite razlog odlaska, ne samo publiku
+
+Remarketing ne rešava problem ako landing strana nije objasnila ponudu, cenu, dokaz, rok ili sledeći korak. Ako posetilac ode jer ne razume šta tačno dobija, vraćanje istog posetioca na istu nejasnu stranu samo ponavlja isti trošak. Kampanja tada izgleda aktivno, ali u praksi kupuje drugu šansu za isti slab argument.
+
+Pre remarketinga treba proveriti osnovu: da li se obećanje oglasa poklapa sa landing stranom, da li prvi ekran kaže konkretnu uslugu, da li forma traži razuman broj informacija i da li postoji dokaz da firma može da isporuči rezultat. Ako to nije sređeno, bolje je prvo pročitati tekst o [usklađenosti oglasa i landing strane](/blog/uskladjenost-oglasa-landing-strane-konverzija-srbija-2026) nego praviti novu publiku u Ads Manager-u.
+
+Praktičan test je jednostavan: uzmite jednu kampanju i pitajte šta bi razumna osoba morala da zna pre nego što pošalje upit. Ako odgovor nije na strani, remarketing poruka treba da popuni baš tu prazninu. Ako je praznina prevelika, prvo se menja strana.
+
+## Segmenti publike moraju pratiti nameru
+
+Najskuplji remarketing je onaj koji sve posetioce vraća istom porukom. Posetilac koji je bio na cenovnoj strani nije isti kao posetilac koji je pročitao blog, otvorio kontakt formu ili proveo deset sekundi na naslovnoj. Svako od njih ima drugačiji nivo namere i drugačiji razlog zbog kog nije nastavio.
+
+Za lead generation obično imaju smisla četiri segmenta. Prvi su posetioci money stranica, na primer usluga ili cena. Drugi su ljudi koji su otvorili formu, ali je nisu poslali. Treći su čitaoci blogova sa komercijalnom temom, kao što su budžet, CPL, landing strana ili prodaja. Četvrti su posetioci koji su se vratili više puta, ali još nisu ostavili podatke.
+
+Svaki segment treba drugačiju poruku. Onima koji su gledali cenu treba okvir odluke i dokaz vrednosti. Onima koji su otvorili formu treba smanjiti trenje: šta se dešava posle slanja, koliko traje odgovor i koje podatke treba pripremiti. Blog čitaocima treba ponuditi praktičan sledeći korak, na primer audit kampanje ili razgovor o budžetu. To je isti princip kao kod [lead scoring-a](/blog/lead-scoring-prioritet-upita-prodaja-srbija-2026): nije svaki signal jednak.
+
+## Poruka ne sme da glumi da je osoba već odlučila
+
+Mnoge firme u remarketingu odmah traže kupovinu ili konsultaciju, iako posetilac još nije rešio osnovnu dilemu. To može raditi kod hitnih usluga, ali kod većine B2B i skupljih usluga previše je direktno. Osoba nije nužno odbila ponudu. Možda joj samo fali dokaz, rang cena, primer procesa ili sigurnost da neće dobiti generički poziv.
+
+Bolja remarketing poruka zavisi od prepreke. Ako je prepreka cena, oglas može voditi ka tekstu o [cenama digitalnog marketinga](/cene-digitalnog-marketinga) ili ka objašnjenju šta ulazi u budžet. Ako je prepreka poverenje, poruka treba da pokaže dokaz, proces, pre i posle ili konkretan način rada. Ako je prepreka sledeći korak, oglas treba da objasni šta se dešava nakon forme, a ne samo da ponovi pošaljite upit.
+
+Česta greška je koristiti isti vizual i isti naslov kao u prvoj kampanji. Remarketing treba da bude drugi deo razgovora. Prvi oglas je otvorio temu. Drugi treba da odgovori na pitanje koje je verovatno ostalo neizgovoreno.
+
+## Ne jurite ljude predugo
+
+Ako se remarketing ne ograniči, brzo postane neprijatan. Ljudi vide istu firmu nedeljama, kliknu slučajno, sakriju oglas ili počnu da povezuju brend sa pritiskom. To posebno šteti firmama koje prodaju usluge zasnovane na poverenju. Bolje je imati kraći, jasniji prozor nego beskonačno juriti svakog posetioca.
+
+Za većinu lead generation kampanja ima smisla početi sa prozorima od 7, 14 i 30 dana. Ljudi koji su otvorili kontakt formu mogu dobiti kraći i konkretniji follow-up. Ljudi koji su samo pročitali blog mogu imati duži, edukativniji tok. Posetioci koji su već poslali upit treba da budu isključeni iz oglasa za novo slanje forme, osim ako postoji poseban nurture plan.
+
+Ovo je mesto gde se marketing mora spojiti sa prodajom. Ako je osoba već u CRM-u, remarketing ne sme raditi protiv [follow-up sekvence](/blog/follow-up-sekvenca-leadovi-prodaja-srbija-2026). Poruka u oglasu i poruka prodaje treba da guraju isti sledeći korak, ne dva različita razgovora.
+
+## Merenje mora razlikovati asistenciju od direktne konverzije
+
+Remarketing često ne izgleda impresivno ako se meri samo poslednji klik. Osoba može prvi put doći preko Google pretrage, zatim videti remarketing oglas, vratiti se direktno na sajt i poslati upit sutradan. Ako se gleda samo poslednji izvor, remarketing deluje kao trošak. Ako se sve pripiše remarketingu, prvi kanal deluje slabije nego što jeste.
+
+Zato treba razdvojiti direktne konverzije, asistencije, ponovne posete i kvalitet leadova. Korisno je pratiti koliko se ljudi vratilo, koliko je otvorilo formu, koliko je poslalo upit, koliko je bilo kvalifikovano i koliko je završilo kao prodajni razgovor. Bez toga se remarketing lako gasi prerano ili se skalira zato što lepo izgleda u platformi.
+
+Tekst o [praćenju konverzija](/blog/pracenje-konverzija-lead-generation-srbija-2026) je dobar temelj za ovaj deo. Ako nema jasnih događaja i CRM statusa, ne može se znati da li remarketing vraća prave ljude ili samo kupuje dodatne klikove od publike koja ionako ne kupuje.
+
+## Kada remarketing ima smisla, a kada je bacanje novca
+
+Remarketing ima smisla kada već postoji kvalitetan prvi saobraćaj, jasna ponuda, dovoljno poseta i realan razlog za odloženu odluku. Ako mesečno imate malo poseta, loše targetiranje ili stranu koja ne objašnjava ponudu, bolje je prvo popraviti osnovnu kampanju. Mala publika sa slabom namerom ne postaje dobra samo zato što je ponovo gađate.
+
+Ima smisla i kada je prodajni ciklus duži od jednog klika. B2B usluge, skuplje usluge, edukacije, veći projekti, zdravstvene i lokalne usluge sa poređenjem cena često traže više dodira. Tu remarketing može podsetiti, objasniti i vratiti osobu u trenutku kada je spremnija.
+
+Nema smisla kada firma nema kapacitet da obradi dodatne upite ili kada je [kapacitet prodaje](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026) već preopterećen. Ako prodaja kasni sa prvim odgovorom, remarketing može napraviti više aktivnosti, ali ne i više zatvorenih poslova.
+
+## Šta Platinum Zenith proverava pre remarketing kampanje
+
+Pre nego što predložimo remarketing, gledamo odakle dolaze posetioci, koje strane gledaju, gde napuštaju funnel, šta forma traži, koliko brzo prodaja odgovara i koji leadovi se stvarno zatvaraju. Ne pravimo publike samo zato što alat to dozvoljava. Prvo tražimo komercijalni razlog da se osoba vrati.
+
+Zatim pravimo kratku mapu poruka: jedna za posetioce usluge, jedna za cenu ili budžet, jedna za napuštenu formu i jedna za edukativne posetioce koji još nisu u kupovnoj nameri. Svaka poruka mora imati jasan sledeći korak i rok posle kog se osoba isključuje.
+
+Ako imate sajt koji dobija posete, ali upiti ne stižu ili se ljudi vraćaju bez slanja forme, pošaljite nam preko [kontakt strane](/kontakt) link ka glavnoj landing strani, izvor saobraćaja i trenutni broj upita. Proverićemo da li vam treba remarketing, bolja landing strana, jasnija forma ili prodajni follow-up pre nego što budžet ode u još jedan krug oglasa.
+`,
+  },
+  {
     slug: 'google-ads-za-auto-perionice-detailing-cena-pranja-srbija-2026',
     title: 'Google Ads za auto perionice i detailing u Srbiji 2026: cena pranja i zakazivanja',
     excerpt: 'Google Ads za auto perionice treba meriti po zakazanim pranjima, detailing paketima i ponovnim dolascima, ne po slučajnim pozivima za najnižu cenu.',

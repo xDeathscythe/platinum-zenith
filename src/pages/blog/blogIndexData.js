@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "remarketing-za-lead-generation-posetioci-bez-upita-srbija-2026",
+    "title": "Remarketing za lead generation u Srbiji 2026: kako vratiti posetioce bez upita",
+    "excerpt": "Remarketing ne spašava lošu ponudu, ali vraća neodlučne posetioce ako poruka, publika, dokaz i sledeći korak prate stvarni prodajni funnel.",
+    "date": "2026-06-24",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-auto-perionice-detailing-cena-pranja-srbija-2026",
     "title": "Google Ads za auto perionice i detailing u Srbiji 2026: cena pranja i zakazivanja",
     "excerpt": "Google Ads za auto perionice treba meriti po zakazanim pranjima, detailing paketima i ponovnim dolascima, ne po slučajnim pozivima za najnižu cenu.",
