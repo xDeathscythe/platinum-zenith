@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-auto-perionice-detailing-cena-pranja-srbija-2026",
+    "title": "Google Ads za auto perionice i detailing u Srbiji 2026: cena pranja i zakazivanja",
+    "excerpt": "Google Ads za auto perionice treba meriti po zakazanim pranjima, detailing paketima i ponovnim dolascima, ne po slučajnim pozivima za najnižu cenu.",
+    "date": "2026-06-24",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "novcani-tok-marketing-budzet-roi-srbija-2026",
     "title": "Novčani tok i marketing budžet u Srbiji 2026: kada ROI nije dovoljno dobar",
     "excerpt": "Pozitivan ROI ne znači da firma ima zdrav cash flow. Evo kako planirati marketing budžet po naplati, marži, roku prodaje i kapacitetu.",

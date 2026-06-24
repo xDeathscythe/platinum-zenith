@@ -1,5 +1,92 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-auto-perionice-detailing-cena-pranja-srbija-2026',
+    title: 'Google Ads za auto perionice i detailing u Srbiji 2026: cena pranja i zakazivanja',
+    excerpt: 'Google Ads za auto perionice treba meriti po zakazanim pranjima, detailing paketima i ponovnim dolascima, ne po slučajnim pozivima za najnižu cenu.',
+    date: '2026-06-24',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Auto perionice', 'Detailing', 'Lokalni marketing', 'Lead Generation'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Auto perionica ne kupuje klikove, nego popunjene termine
+
+Auto perionice i detailing studiji često uđu u Google Ads sa jednom jednostavnom željom: da ih ljudi nađu kada ukucaju auto perionica, dubinsko pranje, poliranje farova ili detailing enterijera. To jeste dobar start, ali nije dovoljno. Kampanja koja donese mnogo poziva može i dalje biti loša ako pozivi stižu za usluge koje se ne rade, termine koji nisu slobodni ili ljude koji pitaju samo za najnižu cenu.
+
+Česta greška je da se svaki upit meri isto. Brzo spoljašnje pranje od 800 dinara, kompletno dubinsko pranje enterijera, keramička zaštita laka i redovno održavanje flotnih vozila nemaju isti profit, isti rok, isti kapacitet ni istu prodajnu logiku. Ako se sve ubaci u jednu kampanju, budžet najčešće ode tamo gde ima najviše pretraga, ne tamo gde perionica stvarno zarađuje.
+
+Zato [Google reklame](/google-reklame-cena) za auto perionice treba planirati oko zakazanih termina, vrednosti paketa, lokacije, kapaciteta bokseva i verovatnoće ponovnog dolaska. [Digitalni marketing](/cene-digitalnog-marketinga) nije cilj da telefon zvoni po svaku cenu. Cilj je da se popune profitabilni termini bez zatrpavanja tima lošim pitanjima.
+
+## Prvo razdvojite obično pranje, dubinsko i detailing
+
+Jedna od najskupljih grešaka je guranje svih usluga u isti oglas. Osoba koja traži najbližu auto perionicu za brzo pranje auta nije isti kupac kao vlasnik koji traži dubinsko pranje sedišta posle fleka, poliranje laka pre prodaje vozila ili keramičku zaštitu za skuplji automobil.
+
+Za kampanju je korisnije napraviti jasne grupe: brzo pranje i lokalni dolasci, dubinsko pranje enterijera, poliranje i zaštita laka, pranje motora ako se radi, priprema vozila za prodaju i B2B održavanje flote. Svaka grupa treba svoj tekst oglasa, okvir cene ili početnu cenu, očekivano trajanje, fotografije rezultata i sledeći korak.
+
+Ako se to ne uradi, sistem često optimizuje ka najlakšem upitu. To može izgledati dobro u izveštaju jer CPL pada, ali vlasnik na kraju dobije mnogo kratkih poziva koji ne pune skupe termine. Kao i kod teksta o [razlici između CPL-a i CAC-a](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026), cena upita nije cela slika. Bitno je koliko upita postaje plaćen posao.
+
+## Lokacija i vreme odlučuju više nego što izveštaj pokazuje
+
+Auto perionica je lokalni biznis. Ljudi često biraju na osnovu blizine, radnog vremena, slobodnog termina, recenzija, parkinga i toga da li mogu da dođu pre posla, posle posla ili vikendom. Kampanja koja prikazuje oglase široko može potrošiti budžet na ljude koji nikada neće doći jer im je lokacija nepraktična.
+
+Zato geografsko targetiranje treba da prati realnu zonu dolazaka. Perionica u Novom Beogradu ne mora da kupuje klikove iz celog Beograda za brzo pranje, ali možda ima smisla da šire targetira detailing usluge višeg paketa. Za skuplje tretmane ljudi su spremniji da pređu duži put, dok za osnovno pranje biraju najbližu opciju.
+
+Česta greška je i ignorisanje satnice. Ako se najviše termina popunjava vikendom, budžet i oglasi treba da podrže taj ritam. Ako tim ne može da prima pozive dok radi na vozilu, treba jasno ponuditi formu, WhatsApp ili zakazivanje, umesto da plaćeni pozivi propadaju.
+
+## Landing strana mora da skine najčešća pitanja
+
+Kod perionica, landing strana ne treba da bude duga prezentacija o kvalitetu. Treba brzo da odgovori na praktična pitanja: gde se nalazite, koje usluge radite, od koje cene kreću paketi, koliko traje termin, da li je potrebno zakazivanje, kako izgleda rezultat i koji je najbrži način kontakta.
+
+Mnoge firme izgube novac jer oglas obeća dubinsko pranje, a strana otvori generičkim tekstom o profesionalnoj usluzi. Korisnik zatim mora da traži cenu, adresu, radno vreme i fotografije. Ako ne nađe te informacije za nekoliko sekundi, vraća se na rezultate i zove sledeću perionicu.
+
+Tu je ista logika kao kod [usklađenosti oglasa i landing strane](/blog/uskladjenost-oglasa-landing-strane-konverzija-srbija-2026). Oglas treba da vodi na stranu koja nastavlja istu nameru. Ako oglas govori o dubinskom pranju sedišta, prvi ekran treba da pokaže dubinsko pranje, slike pre/posle, okvir cene, trajanje i dugme za zakazivanje.
+
+## Forma i poziv treba da kvalifikuju vozilo, ne samo kontakt
+
+Za auto perionicu nije dovoljno znati ime i telefon. Dobar upit sadrži tip usluge, vrstu vozila, stanje enterijera ili laka, željeni termin, lokaciju i kanal za odgovor. Za skuplje usluge korisno je tražiti jednu ili dve fotografije, jer prodaja onda može dati realniji okvir i sprečiti pogrešna očekivanja.
+
+Ako forma pita premalo, tim mora ručno da izvlači iste informacije iz svakog razgovora. To nije problem kada mesečno stiže deset upita. Postaje problem kada kampanja počne da radi, a zaposleni između dva vozila odgovaraju na poruke bez jasnog procesa. Tada ozbiljni detailing upiti čekaju iza ljudi koji traže najjeftinije pranje odmah.
+
+Zato [kontakt forma za kvalifikaciju leadova](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026) treba da bude kratka, ali korisna. Za ovu nišu dovoljno je pitati uslugu, vozilo, željeni termin, grad/deo grada, kontakt kanal i da li postoji poseban problem: fleke, neprijatan miris, dlake ljubimaca, prodaja auta, priprema za put ili zaštita novog vozila.
+
+## Negativne ključne reči čuvaju budžet i radno vreme
+
+Auto perionice mogu brzo potrošiti novac na pogrešne pretrage. Primeri su posao u auto perionici, oprema za pranje auta, šampon za auto, samouslužna perionica ako je ne nudite, najjeftinije pranje, kuponi, DIY dubinsko pranje, polovni usisivač ili servis aparata. Neke pretrage jesu povezane sa temom, ali nisu kupovina usluge.
+
+Negativne ključne reči ne služe samo da smanje trošak. One čuvaju pažnju tima. Ako zaposleni odgovara na mnogo pogrešnih poziva, propušta ozbiljne zahteve za termin. To posle izgleda kao problem kvaliteta leadova, iako je deo problema u strukturi kampanje.
+
+Dobro je jednom nedeljno pregledati search terms izveštaj i označiti fraze koje ne mogu postati plaćen termin. Taj ritam je posebno važan na početku, dok kampanja uči razliku između informativnih, jeftinih i komercijalnih pretraga.
+
+## Koliko vredi jedan termin i koliko sme da košta upit
+
+Budžet ne treba računati samo po ceni klika. Perionica prvo treba da zna prosečnu vrednost termina po tipu usluge i bruto maržu. Ako osnovno pranje donosi malu maržu, maksimalna cena upita mora biti niža. Ako detailing paket donosi višestruko veću dobit i kupac se vraća, perionica može platiti skuplji kvalifikovan upit.
+
+Primer: ako dubinsko pranje donosi 6.000 dinara bruto profita, a svaki treći kvalifikovan upit postane termin, medijski trošak od 1.000 dinara po kvalifikovanom upitu može biti prihvatljiv. Ako je profit po osnovnom pranju 600 dinara, ista cena upita nema smisla osim ako postoji jak model ponovnih dolazaka ili dodatne prodaje.
+
+Tu pomaže tekst o [maksimalnoj ceni leada](/blog/maksimalna-cena-leada-srbija-2026), ali za auto perionice treba dodati i kapacitet. Nije svejedno da li tim može da uradi dva detailing termina dnevno ili deset brzih pranja. Kampanja treba da puni najprofitabilniji slobodan kapacitet, ne samo da generiše poruke.
+
+## Šta pratiti posle klika
+
+Najkorisnije metrike nisu samo klikovi i pozivi. Pratite koliko ljudi je zvalo, koliko je poslalo poruku, koliko je zakazalo termin, koliko se pojavilo, koliko je platilo, koji paket je izabralo i da li se vratilo. Ako se meri samo forma, ne vidi se razlika između radoznalog pitanja i stvarnog zakazivanja.
+
+Za auto perionice je posebno važno pratiti no-show i otkazivanja. Ako kampanja dovodi ljude koji zakažu pa se ne pojave, problem možda nije oglas, nego potvrda termina, podsetnik, avans za skuplji tretman ili nejasno trajanje usluge. Ako mnogo ljudi pita za cenu pa nestane, možda landing strana treba jasniji raspon i bolji dokaz rezultata.
+
+Ovo je razlog zašto [kapacitet prodaje](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026) nije tema samo za velike B2B firme. I mala perionica ima ograničen broj sati, radnika, bokseva i termina. Marketing koji ne poštuje taj kapacitet pravi haos umesto rasta.
+
+## Šta Platinum Zenith predlaže za perionice i detailing studije
+
+Za ovu nišu najčešće bismo krenuli od jedne profitabilne usluge, ne od celog cenovnika. Na primer: dubinsko pranje enterijera, poliranje i zaštita laka, priprema auta za prodaju ili redovno održavanje flotnih vozila. Zatim se pravi uska kampanja, landing strana sa jasnim dokazima i jednostavan sistem zakazivanja.
+
+Posle prvih podataka ne gledamo samo koliko je koštao lead. Gledamo koji termin je zakazan, koliko je trajao prodajni odgovor, da li se osoba pojavila, koji paket je kupila i da li postoji potencijal za ponovni dolazak. Tek tada se odlučuje da li se budžet diže, menja poruka, dodaju negativne ključne reči ili se pravi odvojena kampanja za skuplji paket.
+
+Ako vodite auto perionicu ili detailing studio i želite da vidite koliko Google Ads budžet ima smisla za vašu lokaciju, pošaljite nam preko [kontakt strane](/kontakt) listu usluga, prosečnu cenu termina, kapacitet po danu i grad/deo grada koji pokrivate. Vratićemo vam okvir kampanje koji cilja zakazane termine, ne samo još jedan izveštaj sa klikovima.
+`,
+  },
+  {
     slug: 'novcani-tok-marketing-budzet-roi-srbija-2026',
     title: 'Novčani tok i marketing budžet u Srbiji 2026: kada ROI nije dovoljno dobar',
     excerpt: 'Pozitivan ROI ne znači da firma ima zdrav cash flow. Evo kako planirati marketing budžet po naplati, marži, roku prodaje i kapacitetu.',
