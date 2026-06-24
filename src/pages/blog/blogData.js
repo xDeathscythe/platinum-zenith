@@ -1,5 +1,76 @@
 const rawBlogPosts = [
   {
+    slug: 'profitabilnost-ponuda-marketing-budzet-lead-generation-srbija-2026',
+    title: 'Profitabilnost ponuda i marketing budžet u Srbiji 2026: zašto prosečan CPL vara',
+    excerpt: 'Prosečan CPL može sakriti da budžet kupuje pogrešne ponude. Evo kako meriti profitabilnost po usluzi, marži, kapacitetu i zatvorenim poslovima.',
+    date: '2026-06-25',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Marketing budžet', 'Profitabilnost', 'Lead Generation', 'CPL', 'ROI'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Prosečan CPL može izgledati dobro dok budžet curi na pogrešne ponude
+
+Mnoge firme gledaju marketing budžet kroz jednu prosečnu cenu leada. Ako je CPL ispod dogovorene granice, kampanja deluje zdravo. Ako pređe granicu, pali se alarm. Problem je što prosečna cifra često sakrije najvažnije pitanje: za koju ponudu je lead stigao i koliko ta ponuda stvarno vredi kada se posao zatvori.
+
+Česta greška je da se sve usluge stave u isti izveštaj. Upit za malu jednokratnu uslugu, upit za premium paket, upit za hitan projekat i upit za dugoročan ugovor završe u istoj koloni. Platforma zatim optimizuje ka najlakšem leadu, prodaja dobije više aktivnosti, a vlasnik tek na kraju meseca vidi da promet postoji, ali profit ne prati tempo.
+
+Zato [Google reklame](/google-reklame-cena) i širi [digitalni marketing](/cene-digitalnog-marketinga) ne treba planirati samo po prosečnoj ceni upita. Budžet mora biti vezan za profitabilnost ponuda: maržu, stopu zatvaranja, kapacitet isporuke, rok naplate i mogućnost ponovne kupovine.
+
+## Nisu svi leadovi jednako vredni
+
+Jedan lead može tražiti uslugu od 100 evra sa tankom maržom. Drugi može tražiti projekat od 3.000 evra sa ozbiljnom maržom i manjim operativnim haosom. Ako oba leada u izveštaju vrede isto, kampanja će prirodno gurati ono što je lakše dobiti, a ne ono što firma najviše želi da proda.
+
+To je razlog zašto se ponekad vidi paradoks: CPL pada, broj upita raste, ali profit stagnira. Nije nužno problem u oglasima. Često je problem u tome što kampanja nije dobila komercijalnu mapu ponuda. Algoritam ne zna koja usluga puni najbolji kapacitet, koja ima najbržu naplatu i koja pravi najbolji odnos između rada i dobiti.
+
+U praksi treba odvojiti bar tri grupe: ulazne usluge koje lako prodaju prvi kontakt, glavne profitne ponude i premium ili dugoročne ponude. Svaka grupa može imati drugačiji dozvoljeni CPL, drugačiji prodajni proces i drugačiji tempo skaliranja.
+
+## Kako izračunati dozvoljeni CPL po ponudi
+
+Najbrži okvir je jednostavan. Prvo uzmite bruto profit po prodatoj ponudi, ne ukupan prihod. Zatim pomnožite taj iznos realnom stopom zatvaranja kvalifikovanih leadova. Na kraju odlučite koji deo bruto profita sme otići na akviziciju, pre agencijskog fee-ja, alata i internog rada.
+
+Primer: firma prodaje uslugu koja donosi 60.000 dinara bruto profita. Ako zatvara jednog od četiri kvalifikovana upita, svaki kvalifikovan lead u proseku nosi 15.000 dinara bruto profita pre troška akvizicije. Ako firma želi da medijski trošak ostane do trećine tog iznosa, dozvoljeni CPL je oko 5.000 dinara. Za uslugu koja donosi 12.000 dinara bruto profita, isti CPL bi bio opasan.
+
+Ovaj račun se naslanja na tekst o [bruto marži i marketing budžetu](/blog/bruto-marza-marketing-budzet-roi-srbija-2026), ali dodaje još jedan sloj: ista firma može imati više različitih ekonomija unutar istog sajta. Jedna usluga može izdržati skuplji lead, druga ne može ni jeftin lead ako je prodajni proces spor i marža mala.
+
+## Budžet treba pratiti kapacitet, ne samo potražnju
+
+Još jedna česta greška je guranje budžeta u ponudu koja ima dobar CPL, ali slab kapacitet. Na papiru izgleda kao dobra prilika: upiti stižu jeftino, ljudi su zainteresovani, kampanja se lako puni. U realnosti tim ne može da isporuči dovoljno brzo, rokovi se razvuku, kvalitet padne i prodaja počne da odbija dobre prilike.
+
+Zato profitabilnost ponude nije samo pitanje marže. Bitni su i sati rada, dostupni termini, rok isporuke, potreban senioritet tima, sezona i opterećenje prodaje. Ako kampanja dovede deset dodatnih leadova za uslugu koju može da primi samo jedan konsultant, budžet ne pravi rast nego red čekanja.
+
+Tekst o [kapacitetu prodaje i marketing budžetu](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026) je dobar nastavak za ovaj deo. Kada prodaja ili isporuka ne mogu da prate tempo, ni najbolji CPL ne znači mnogo. Tada se budžet preusmerava ka ponudi koja možda ima skuplji upit, ali bolji realan profit po dostupnom satu.
+
+## Ne mešajte test ponude i skaliranje
+
+Mnoge firme prerano proglase pobednika. Jedna ponuda dobije deset leadova po dobroj ceni i odmah se sav budžet prebaci tamo. Posle mesec dana ispadne da su leadovi bili laki za dobijanje, ali slabi za zatvaranje. Druga ponuda je imala skuplji CPL, ali je donosila klijente koji plaćaju brže i ostaju duže.
+
+Zato test i skaliranje treba razdvojiti. U test fazi cilj je naučiti: koji oglasi privlače koju nameru, koji leadovi su kvalifikovani, koliko prodaja brzo odgovara, koji se poslovi zatvaraju i gde marža ostaje posle isporuke. U skaliranju cilj više nije samo učenje, nego kontrolisano povećanje profitabilnog obima.
+
+Ako se sve meri jednim prosekom, test faza daje lažnu sigurnost. Bolje je imati malu tabelu po ponudi: potrošnja, leadovi, kvalifikovani leadovi, zatvoreni poslovi, bruto profit, rok naplate i opterećenje tima. To je praktičnije od lepog izveštaja koji pokazuje jedan blendovani CPL.
+
+## Kada prosečan CPL ipak ima smisla
+
+Prosečan CPL nije beskoristan. Koristan je kao brzi signal da li kampanja ulazi u očekivan okvir. Problem nastaje kada se koristi kao jedina odluka. Ako firma prodaje jednu jasnu uslugu sa sličnom maržom, sličnim kupcima i sličnim procesom zatvaranja, prosečna cena leada može biti dovoljno dobra za dnevno praćenje.
+
+Ali većina uslužnih firmi nema tako čist model. Imaju male i velike projekte, hitne i planske upite, lokalne i udaljene klijente, jednokratne i ponavljajuće poslove. Tada prosečan CPL treba posmatrati kao naslov izveštaja, ne kao upravljač budžeta.
+
+Za dublju odluku spojite ga sa [razlikom između CPL-a i CAC-a](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026), [stopom zatvaranja](/blog/stopa-zatvaranja-leadova-marketing-budzet-srbija-2026) i realnim periodom povrata. Ako lead ne postaje kupac, ili kupac ne donosi dovoljno bruto profita, niska cena upita je samo lepša verzija pogrešne metrike.
+
+## Kako Platinum Zenith postavlja budžet po ponudi
+
+Kada gledamo budžet za lead generation, prvo razdvajamo ponude koje firma želi da puni. Za svaku ponudu tražimo okvir cene, bruto maržu, tipičnu stopu zatvaranja, kapacitet prodaje, kapacitet isporuke i rok naplate. Tek onda pričamo o dnevnom ili mesečnom budžetu.
+
+Zatim kampanje i landing strane povezujemo sa jasnom namerom. Ako je cilj premium usluga, oglas, prvi ekran, forma i prodajni odgovor moraju filtrirati pogrešne upite. Ako je cilj ulazna usluga, merimo da li vodi ka većem poslu ili samo troši tim na male razgovore. Tu pomaže i [ROI kalkulator](/alati/roi-kalkulator), ali samo ako se unesu realne marže i stope zatvaranja.
+
+Ako vam kampanja ima prihvatljiv CPL, ali profit ne prati broj upita, pošaljite nam preko [kontakt strane](/kontakt) listu glavnih ponuda, okvirne marže i trenutne leadove po usluzi. Pogledaćemo gde budžet kupuje aktivnost, a gde zaista puni ponude koje imaju smisla za rast.
+`,
+  },
+  {
     slug: 'remarketing-za-lead-generation-posetioci-bez-upita-srbija-2026',
     title: 'Remarketing za lead generation u Srbiji 2026: kako vratiti posetioce bez upita',
     excerpt: 'Remarketing ne spašava lošu ponudu, ali vraća neodlučne posetioce ako poruka, publika, dokaz i sledeći korak prate stvarni prodajni funnel.',

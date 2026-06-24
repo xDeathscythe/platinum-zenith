@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "profitabilnost-ponuda-marketing-budzet-lead-generation-srbija-2026",
+    "title": "Profitabilnost ponuda i marketing budžet u Srbiji 2026: zašto prosečan CPL vara",
+    "excerpt": "Prosečan CPL može sakriti da budžet kupuje pogrešne ponude. Evo kako meriti profitabilnost po usluzi, marži, kapacitetu i zatvorenim poslovima.",
+    "date": "2026-06-25",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "remarketing-za-lead-generation-posetioci-bez-upita-srbija-2026",
     "title": "Remarketing za lead generation u Srbiji 2026: kako vratiti posetioce bez upita",
     "excerpt": "Remarketing ne spašava lošu ponudu, ali vraća neodlučne posetioce ako poruka, publika, dokaz i sledeći korak prate stvarni prodajni funnel.",
