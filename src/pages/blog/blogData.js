@@ -1,5 +1,92 @@
 const rawBlogPosts = [
   {
+    slug: 'inkrementalni-marketing-budzet-roi-lead-generation-srbija-2026',
+    title: 'Inkrementalni marketing budžet u Srbiji 2026: kada dodatni novac ne donosi profit',
+    excerpt: 'Dodatni budžet nije uvek skaliranje. Evo kako proveriti marginalni CPL, kvalitet leadova, kapacitet prodaje i ROI pre sledećeg povećanja.',
+    date: '2026-06-26',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Marketing budžet', 'ROI', 'Lead Generation', 'CPL', 'Skaliranje'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Dodatni budžet nije automatski rast
+
+Kada kampanja počne da donosi upite, prvo pitanje često bude: koliko još možemo da dodamo? Na papiru zvuči logično. Ako 1.000 evra donosi dvadeset leadova, možda 1.500 evra donosi trideset. Ako trideset donosi dovoljno prodaje, onda povećanje izgleda kao najbrži put do rasta.
+
+Česta greška je što se dodatni budžet računa kao da će kupovati iste leadove po istoj ceni. U praksi se to retko desi. Prvih 1.000 evra obično hvata najčistiju nameru, najbliže kupce i najlakše dostupne termine. Sledećih 500 evra može ulaziti u šire ključne reči, skuplje aukcije, slabije termine, manje spremne kupce ili publiku kojoj treba više ubeđivanja.
+
+Zato [Google reklame](/google-reklame-cena) ne treba povećavati samo zato što prosečan CPL izgleda prihvatljivo. Inkrementalni budžet treba gledati odvojeno: šta donosi sledeći deo novca, ne samo šta je donela cela kampanja do sada. Širi [digitalni marketing](/cene-digitalnog-marketinga) ovde postaje pitanje kontrole profita, ne samo pitanje većeg mesečnog spend-a.
+
+## Šta znači inkrementalni marketing budžet
+
+Inkrementalni budžet je dodatni iznos koji ulažete preko trenutnog nivoa potrošnje. Ako kampanja već troši 1.200 evra mesečno, inkrementalni deo može biti sledećih 300, 500 ili 1.000 evra. Taj deo mora imati sopstvenu logiku: koji kanal, koji segment, koji cilj, koji limit i koji dokaz da vredi nastaviti.
+
+Problem nastaje kada se sve spakuje u jedan prosečan izveštaj. Kampanja potroši 1.800 evra, napravi 45 upita i prosečan CPL je 40 evra. Izgleda dobro. Ali ako je prvih 1.200 evra donelo 36 upita po 33 evra, a dodatnih 600 evra donelo samo 9 upita po 67 evra, slika je drugačija. Još je gore ako su ti dodatni upiti slabije kvalifikovani.
+
+To ne znači da je povećanje pogrešno. Znači da se mora meriti marginalni efekat. Dodatni budžet ima smisla kada kupuje više profitabilnih prilika, ne kada samo održava osećaj aktivnosti u nalogu.
+
+## Prosečan CPL često sakrije skuplji drugi sloj
+
+Prosečan CPL je koristan za brzu orijentaciju, ali može sakriti granicu gde kampanja počinje da kupuje lošiji volumen. Mnoge firme vide da je prosek još uvek u okviru plana i nastavljaju da dodaju budžet, dok prodaja već oseća pad kvaliteta. Stiže više poruka, ali više ljudi pita najnižu cenu, traži uslugu koju firma ne radi ili se ne javlja posle prvog odgovora.
+
+Ovo je posebno opasno kod lead generation kampanja gde postoje različite ponude. Jedan deo budžeta može donositi ozbiljne upite za profitabilnu uslugu, a dodatni deo može donositi upite za najmanje profitabilan paket. U izveštaju je sve lead. U poslovanju nije.
+
+Zato se inkrementalni budžet mora povezati sa tekstom o [profitabilnosti ponuda](/blog/profitabilnost-ponuda-marketing-budzet-lead-generation-srbija-2026). Ako dodatni novac puni pogrešnu ponudu, ni lep prosečan CPL ne znači da firma raste.
+
+## Kada dodatni budžet ima smisla
+
+Dodatni budžet ima smisla kada postoje tri uslova. Prvo, trenutni volumen nije dovoljan za cilj prodaje. Drugo, postoje dokazi da se dodatni segment može kupiti bez dramatičnog pada kvaliteta. Treće, prodaja i isporuka imaju kapacitet da obrade veći broj ozbiljnih razgovora.
+
+Na primer, firma koja zatvara svaki četvrti kvalifikovan lead i ima dovoljno marže može opravdati skuplji inkrementalni CPL. Ako dodatnih 500 evra donese osam kvalifikovanih razgovora, dva nova klijenta i dovoljno bruto profita, povećanje je racionalno. Ako isti iznos donese dvadeset sirovih poruka, ali nijednu ozbiljnu ponudu, budžet samo pravi buku.
+
+Pre povećanja treba znati cilj. Da li dodatni novac treba da poveća broj kvalifikovanih leadova, popuni rupe u kalendaru, testira novu ponudu, proširi geografiju ili skrati vreme do cilja prodaje? Bez toga se skaliranje pretvori u skuplji način da se ponovi isti problem.
+
+## Kada dodatni budžet samo širi curenje
+
+Ako landing strana već ne kvalifikuje ljude, dodatni budžet neće popraviti problem. Samo će dovesti više posetilaca u isti slab proces. Ako prodaja kasni sa odgovorom, više leadova može značiti još više propuštenih prilika. Ako CRM nema statuse, tim neće znati da li dodatni novac donosi bolji pipeline ili samo veći inbox.
+
+Česte firme greše tako što povećavaju spend čim vide nekoliko dobrih dana. Oglasni nalog izgleda živ, ali prodajni proces nije spreman. Nema jasnog vlasnika leada, nema razlike između A i C upita, nema pravila za follow-up, a marža po ponudi se ne prati. Tada kampanja može napraviti više konverzija i lošiji ROI u isto vreme.
+
+Pre povećanja vredi proveriti [kapacitet prodaje](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026). Ako tim može kvalitetno obraditi deset ozbiljnih upita nedeljno, a kampanja već donosi dvanaest, dodatni budžet možda prvo treba uložiti u proces, brzinu odgovora, skriptu ili kvalifikaciju forme, ne u još klikova.
+
+## Jednostavan test za sledećih 20 do 30 procenata budžeta
+
+Najbezbednije povećanje često nije veliko. Umesto da se budžet duplira, prvo se testira sledećih 20 do 30 procenata. Taj deo se posmatra odvojeno dve do četiri nedelje, u zavisnosti od obima i ciklusa prodaje. Cilj nije da se dobije savršen naučni dokaz, nego da se vidi da li dodatni novac kupuje približno isti ili lošiji kvalitet.
+
+Test treba imati granice. Na primer: dodatnih 300 evra sme da ide samo na kampanje sa jasnom namerom, maksimalni marginalni CPL je 20% viši od osnovnog, najmanje polovina novih upita mora biti kvalifikovana, a prodaja mora označiti statuse u roku od 48 sati. Ako se ti uslovi ne ispune, ne povećava se automatski. Prvo se popravlja uzrok.
+
+Ovo je drugačije od paničnog skaliranja. Dodatni budžet dobija zadatak, rok i kriterijum. Ako ga ispuni, sledeći korak ima smisla. Ako ga ne ispuni, firma je platila kontrolisan test, a ne mesec dana skupljeg haosa.
+
+## Gde prvo dodati novac
+
+Ne mora svaki dodatni dinar ići u isti kanal. Ponekad je najbolji inkrementalni budžet dodatak na kampanju koja već radi. Ponekad je pametnije finansirati bolju landing stranu, novi segment, remarketing prema posetiocima sa jakom namerom ili kvalitetnije praćenje prodajnih ishoda.
+
+Ako kampanja ima dobar CPL, ali slabu stopu zatvaranja, dodatni novac u oglase nije prvi izbor. Bolje je popraviti kvalifikaciju, prvi odgovor i prodajni follow-up. Ako kampanja ima dobru stopu zatvaranja, ali nema dovoljno kvalifikovanih razgovora, dodatni budžet u najjače search kampanje može imati smisla. Ako postoji dobra ponuda sa nedovoljno saobraćaja, test posebne landing strane može biti bolji od širenja postojeće kampanje.
+
+Tu pomaže [raspodela marketing budžeta](/blog/raspodela-marketing-budzeta-oglasi-sajt-prodaja-srbija-2026). Rast nije samo pitanje više klikova. Rast je pitanje gde sledeći evro uklanja najveće ograničenje: saobraćaj, konverziju, praćenje, prodaju ili kapacitet isporuke.
+
+## Računica mora uključiti CAC, maržu i period povrata
+
+Dodatni CPL sam po sebi nije dovoljan. Ako se stopa zatvaranja pogorša, CAC može skočiti iako je CPL samo malo viši. Ako je bruto marža niska, dodatni klijenti mogu doneti promet bez dovoljno profita. Ako je period naplate dug, kampanja može izgledati profitabilno, ali pritiskati novčani tok.
+
+Zato povećanje treba računati unazad. Koliki bruto profit donosi prosečan zatvoren posao? Koliko kvalifikovanih leadova treba za jednu prodaju? Koliko sirovih upita treba za jedan kvalifikovan razgovor? Koliko vremena prođe do naplate? Tek tada se vidi koliko dodatni budžet sme da košta.
+
+Tekstovi o [CPL-u i CAC-u](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026), [periodu povrata](/blog/period-povrata-marketing-budzeta-srbija-2026) i [novčanom toku](/blog/novcani-tok-marketing-budzet-roi-srbija-2026) daju dobar okvir za ovu odluku. Ako dodatni budžet pomera CAC iznad granice profita ili produžava povrat previše, bolje je prvo srediti ekonomiku ponude.
+
+## Kako Platinum Zenith odlučuje da li treba povećati budžet
+
+Kada gledamo kampanju koja traži veći budžet, ne pitamo samo da li je trenutni CPL dobar. Pitamo šta je poslednji sloj potrošnje stvarno doneo: koje upite, koje ponude, koje zatvorene poslove i kakav pritisak na prodaju. Zatim odvajamo osnovni budžet koji već radi od test budžeta koji treba da dokaže sledeći nivo.
+
+U praksi to znači da se povećanje vezuje za konkretan segment. Nekad je to dodatni search volumen za najprofitabilniju uslugu. Nekad je posebna kampanja za visoku nameru. Nekad je bolje povećati budžet tek nakon što forma, CRM statusi i prvi odgovor počnu da razlikuju ozbiljne kupce od slučajnih upita.
+
+Ako želite da znate da li vaš sledeći budžet treba da ide u oglase, landing stranu, praćenje ili prodaju, pošaljite nam preko [kontakt strane](/kontakt) trenutni mesečni spend, prosečan CPL, broj kvalifikovanih leadova, stopu zatvaranja i maržu po glavnoj ponudi. Pogledaćemo gde dodatni novac najverovatnije donosi profit, a gde bi samo proširio curenje u funnel-u.
+`,
+  },
+  {
     slug: 'kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026',
     title: 'Kvalifikovane konverzije u Google Ads-u 2026: zašto kampanja optimizuje pogrešne leadove',
     excerpt: 'Ako Google Ads meri svaki upit isto, algoritam uči da kupuje najlakše leadove. Evo kako kvalifikovane konverzije povezuju kampanju, CRM i prodaju.',

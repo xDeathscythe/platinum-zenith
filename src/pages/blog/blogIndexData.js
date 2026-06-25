@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "inkrementalni-marketing-budzet-roi-lead-generation-srbija-2026",
+    "title": "Inkrementalni marketing budžet u Srbiji 2026: kada dodatni novac ne donosi profit",
+    "excerpt": "Dodatni budžet nije uvek skaliranje. Evo kako proveriti marginalni CPL, kvalitet leadova, kapacitet prodaje i ROI pre sledećeg povećanja.",
+    "date": "2026-06-26",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026",
     "title": "Kvalifikovane konverzije u Google Ads-u 2026: zašto kampanja optimizuje pogrešne leadove",
     "excerpt": "Ako Google Ads meri svaki upit isto, algoritam uči da kupuje najlakše leadove. Evo kako kvalifikovane konverzije povezuju kampanju, CRM i prodaju.",
