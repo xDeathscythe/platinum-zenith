@@ -1,5 +1,92 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-sale-za-vencanja-cena-rezervacije-srbija-2026',
+    title: 'Google Ads za sale za venčanja u Srbiji 2026: cena rezervacije i budžet',
+    excerpt: 'Google Ads za sale za venčanja treba meriti po rezervisanim terminima, kapari, kapacitetu datuma i vrednosti paketa, ne po jeftinim porukama.',
+    date: '2026-06-25',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Sale za venčanja', 'Event marketing', 'Lead Generation', 'Srbija'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Sala za venčanja ne kupuje lead, nego datum u kalendaru
+
+Google Ads za sale za venčanja često se pogrešno meri kao obična kampanja za upite. Stigne poruka, neko pita cenu po osobi, neko traži slobodan termin, neko samo skuplja ponude. U izveštaju sve izgleda kao lead. U poslovanju se računa samo ono što se pretvori u obilazak, rezervisan datum, kaparu i događaj koji se zaista održi.
+
+Česta greška kod event prostora je da se kampanja optimizuje za najlakšu poruku. Oglas obeća lepu salu i dobru cenu, landing strana pokaže nekoliko slika, a forma traži samo ime i telefon. Posle toga prodaja dobije gomilu razgovora sa parovima koji nemaju datum, ne znaju broj gostiju ili porede deset lokacija bez realne namere. Kampanja deluje aktivno, ali kalendar i dalje ima rupe.
+
+Zato [Google reklame](/google-reklame-cena) za sale za venčanja moraju biti vezane za sezonski kapacitet, vrednost paketa, maržu po gostu, slobodne datume i brzinu prodajnog odgovora. Širi [digitalni marketing](/cene-digitalnog-marketinga) ovde nije samo kupovina klikova, nego sistem za popunjavanje pravih termina po profitabilnoj ceni.
+
+## Koji termini i paketi vrede najviše
+
+Nije svaki upit isti. Upit za subotu u maju, junu ili septembru ima drugačiju vrednost od upita za radni dan, zimski termin ili mali ručak. Upit za 250 gostiju sa kompletnim paketom nije isto što i pitanje za minimalni meni i kratko iznajmljivanje prostora. Ako se sve meri jednom cenom leada, kampanja lako počne da puni najlakše, ali ne i najvrednije razgovore.
+
+Pre budžeta treba napraviti mapu termina. Koji meseci su najprofitabilniji? Koji dani se najteže prodaju? Koliko gostiju je minimum da događaj ima smisla? Koji paketi imaju najbolju maržu? Tek kada se to zna, može se odlučiti koliko vredi upit za svadbu, veridbu, korporativni događaj, punoletstvo ili krštenje.
+
+Na primer, sala može prihvatiti skuplji CPL za par koji traži subotu u sezoni i ima 180 gostiju, ali isti CPL nema smisla za mali događaj u terminu koji zahteva mnogo operativnog rada. To nije elitizam. To je zaštita kapaciteta i profita.
+
+## Kampanje treba podeliti po nameri
+
+Jedna kampanja za sve obično napravi haos. Ljudi koji traže sala za venčanje Beograd, sala za svadbe Novi Sad, restoran za venčanje, proslava punoletstva, korporativna proslava i iznajmljivanje prostora nemaju isti razlog, isti budžet ni isti rok odluke. Ako ih isti oglas vodi na istu stranu, prodaja mora iznova da objašnjava ono što je kampanja mogla da filtrira.
+
+Praktičnije je podeliti kampanje po nameri. Jedna grupa može biti za venčanja i svadbe, druga za manje privatne proslave, treća za poslovne događaje, četvrta za last-minute slobodne termine. Svaka grupa treba posebnu poruku, drugačiji naglasak i drugačiji minimum podataka u formi.
+
+Kod venčanja je bitno pokazati kapacitet, ambijent, lokaciju, parking, meni, mogućnost ceremonije i okvir cene. Kod korporativnih događaja bitniji su tehnička oprema, raspored, fakturisanje, pristup i logistika. Kod slabije popunjenih termina poruka može otvoreno nuditi slobodne datume, ali bez rušenja percepcije vrednosti cele sale.
+
+## Landing strana mora kvalifikovati pre razgovora
+
+Mnoge sale šalju sav saobraćaj na galeriju ili početnu stranu. Posetilac vidi fotografije, ali ne zna kapacitet, lokaciju, okvir cene, slobodne termine, šta ulazi u paket i šta se dešava posle slanja upita. Tada forma generiše široke poruke, a prodaja troši vreme na osnovna pitanja.
+
+Landing strana za salu treba da odgovori na nekoliko konkretnih pitanja: za koliko gostiju je prostor, koji tipovi događaja imaju smisla, gde se nalazi, šta ulazi u paket, kako izgleda proces obilaska i rezervacije, koji su okvirni uslovi za kaparu i kada treba poslati upit. Ne mora sve biti cenovnik do poslednjeg dinara, ali mora postojati dovoljno konteksta da ozbiljan par zna da li je fit.
+
+Ovo je isti princip kao kod [usklađenosti oglasa i landing strane](/blog/uskladjenost-oglasa-landing-strane-konverzija-srbija-2026). Ako oglas obeća romantičnu salu za veliko venčanje, prvi ekran ne sme otvoriti generičkom pričom o ugostiteljstvu. Mora odmah potvrditi nameru: venčanje, kapacitet, lokacija, slobodni termini i sledeći korak.
+
+## Forma treba da traži podatke koji menjaju odluku
+
+Preduga forma smanjuje broj upita, ali prekratka forma često poveća broj loših razgovora. Za sale za venčanja je obično korisno tražiti datum ili mesec, okviran broj gostiju, tip događaja, lokaciju ili preferiranu salu ako firma ima više prostora, kontakt telefon i kanal za brz odgovor. To nije birokratija, nego minimum za smislen prvi poziv.
+
+Česta greška je pitati samo ime i telefon, pa onda u razgovoru otkriti da termin nije slobodan, broj gostiju ne odgovara kapacitetu ili osoba traži uslugu koju sala ne nudi. Bolje je imati malo manje upita, ali više razgovora koji se mogu brzo pretvoriti u obilazak i ponudu.
+
+Ako forma već pravi previše trenja, može se koristiti lakši prvi korak: Pošaljite datum i broj gostiju, proverićemo dostupnost. Zatim prodaja traži detalje. Bitno je da se upit ne tretira kao završen posao, nego kao početak rezervacionog procesa. Tekst o [kvalifikaciji kroz kontakt formu](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026) je dobar nastavak za ovaj deo.
+
+## Negativne ključne reči čuvaju budžet
+
+Sale za venčanja mogu brzo potrošiti budžet na pogrešne pretrage. Ljudi traže dekoraciju, muziku, fotografa, venčanicu, pozivnice, posao u sali, recepte, besplatne prostore, jeftino iznajmljivanje stolova ili opremu za proslave. Neki od tih upita jesu deo iste industrije, ali nisu kupci sale.
+
+Negativne ključne reči treba graditi od stvarnih search terms izveštaja. Početna lista često uključuje posao, oglasi za posao, oprema, stolice, šatori ako ih ne nudite, dekoracija ako nije deo paketa, muzika, fotograf, venčanice, polovno, uradi sam, besplatno, recepti i slične namere. Cilj nije ubiti volumen, nego sačuvati budžet za ljude koji traže prostor i rezervaciju.
+
+Ako sala radi i catering ili ima partnere za dekoraciju, kampanja može imati posebne oglase za te segmente. Ali onda merenje mora razlikovati upit za salu od upita za dodatnu uslugu. Inače prosečan CPL izgleda lepo, a kalendar ostaje poluprazan.
+
+## Brzina odgovora je deo kampanje
+
+Kod venčanja i događaja ljudi često pošalju upit na više mesta u istom danu. Sala koja odgovori sutra možda nije skupa, nego kasna. Ako prodaja nema brz odgovor, jasnu proveru termina i dogovoren sledeći korak, Google Ads će samo praviti skuplju listu propuštenih prilika.
+
+Dobar prvi odgovor potvrđuje datum, broj gostiju, dostupnost ili alternativne termine, predlaže obilazak i daje okvir šta se dobija u paketu. Loš odgovor samo pošalje cenovnik bez konteksta. To je trenutak gde kampanja prelazi u prodaju. Zato su [brzina odgovora](/blog/brzina-odgovora-na-upit-follow-up-prodaja-srbija-2026) i [follow-up sekvenca](/blog/follow-up-sekvenca-leadovi-prodaja-srbija-2026) direktan deo ROI-ja, ne administracija.
+
+Za sale je posebno važno pratiti statuse: upit stigao, termin slobodan, odgovor poslat, obilazak zakazan, obilazak održan, ponuda poslata, kapara uplaćena, događaj održan. Bez toga kampanja se meri po porukama, a ne po stvarnom popunjavanju kalendara.
+
+## Budžet zavisi od sezone i rupa u kalendaru
+
+Sale za venčanja ne treba da troše isto tokom cele godine. Postoje periodi kada ljudi istražuju, periodi kada aktivno rezervišu i periodi kada se popunjavaju preostali datumi. Ako se budžet pojača tek kada konkurencija već prodaje poslednje vikende, klikovi su skuplji, a izbor datuma slabiji.
+
+Bolji pristup je planirati budžet po sezoni i dostupnosti. Za premium termine kampanja treba početi dovoljno rano, sa jasnim pozicioniranjem i dokazima. Za slabije termine može se koristiti druga poruka: dostupni datumi, specifični paketi, manji događaji ili poslovne proslave. Tekst o [sezonskom marketing budžetu](/blog/sezonski-marketing-budzet-lead-generation-srbija-2026) objašnjava zašto panika u špicu obično košta više od planiranja unapred.
+
+Korisno je i povezati budžet sa kapacitetom prodaje. Ako menadžer sale može kvalitetno obraditi deset ozbiljnih upita nedeljno, nema smisla praviti trideset površnih. Ako postoje slobodni vikendi koje treba popuniti, kampanja može privremeno povećati budžet, ali samo za termine koji imaju realnu vrednost.
+
+## Kako Platinum Zenith meri kampanju za sale za venčanja
+
+Kada radimo kampanju za event prostor, prvo razdvajamo ciljeve: popuniti sezonske vikende, prodati slabije termine, povećati broj obilazaka ili podići vrednost paketa. Zatim kampanje, landing strane i forme povezujemo sa tim ciljem. Nije ista kampanja za luksuznu salu od 250 gostiju i prostor koji želi više manjih proslava.
+
+Merimo više od CPL-a: cenu kvalifikovanog upita, cenu zakazanog obilaska, cenu održanog obilaska, cenu rezervacije, uplaćenu kaparu, prosečnu vrednost događaja i rupe u kalendaru koje kampanja zatvara. U istom izveštaju gledamo i povezane usluge, jer sala često sarađuje sa cateringom, fotografima i dekoraterima. Zato su tekstovi o [Google Ads za catering](/blog/google-ads-za-catering-cena-rezervacije-srbija-2026) i [Google Ads za fotografe](/blog/google-ads-za-fotografe-cena-fotosesije-srbija-2026) korisni za širu sliku event marketinga.
+
+Ako imate salu za venčanja ili event prostor i kampanja donosi poruke, ali ne puni kalendar pravim datumima, pošaljite nam preko [kontakt strane](/kontakt) lokaciju, kapacitet, slobodne termine i okvir trenutnog budžeta. Pogledaćemo da li problem leži u targetiranju, landing strani, kvalifikaciji, brzini odgovora ili u tome što kampanja meri poruke umesto rezervacija.
+`,
+  },
+  {
     slug: 'profitabilnost-ponuda-marketing-budzet-lead-generation-srbija-2026',
     title: 'Profitabilnost ponuda i marketing budžet u Srbiji 2026: zašto prosečan CPL vara',
     excerpt: 'Prosečan CPL može sakriti da budžet kupuje pogrešne ponude. Evo kako meriti profitabilnost po usluzi, marži, kapacitetu i zatvorenim poslovima.',

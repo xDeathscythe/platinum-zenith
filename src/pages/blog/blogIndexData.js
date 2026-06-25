@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-sale-za-vencanja-cena-rezervacije-srbija-2026",
+    "title": "Google Ads za sale za venčanja u Srbiji 2026: cena rezervacije i budžet",
+    "excerpt": "Google Ads za sale za venčanja treba meriti po rezervisanim terminima, kapari, kapacitetu datuma i vrednosti paketa, ne po jeftinim porukama.",
+    "date": "2026-06-25",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "profitabilnost-ponuda-marketing-budzet-lead-generation-srbija-2026",
     "title": "Profitabilnost ponuda i marketing budžet u Srbiji 2026: zašto prosečan CPL vara",
     "excerpt": "Prosečan CPL može sakriti da budžet kupuje pogrešne ponude. Evo kako meriti profitabilnost po usluzi, marži, kapacitetu i zatvorenim poslovima.",
