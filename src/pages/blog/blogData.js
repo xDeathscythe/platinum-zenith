@@ -1,5 +1,84 @@
 const rawBlogPosts = [
   {
+    slug: 'kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026',
+    title: 'Kvalifikovane konverzije u Google Ads-u 2026: zašto kampanja optimizuje pogrešne leadove',
+    excerpt: 'Ako Google Ads meri svaki upit isto, algoritam uči da kupuje najlakše leadove. Evo kako kvalifikovane konverzije povezuju kampanju, CRM i prodaju.',
+    date: '2026-06-25',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Lead Generation', 'Konverzije', 'CRM', 'Prodaja'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Kampanja ne može optimizovati prodaju ako joj šaljete pogrešan signal
+
+Google Ads za lead generation često izgleda uredno u prvih nekoliko izveštaja. Klikovi stižu, forme se popunjavaju, cena po konverziji je prihvatljiva. Problem se pojavi tek kada prodaja kaže da su upiti slabi, da ljudi ne odgovaraju na poziv, da nemaju budžet ili da traže nešto što firma ne prodaje. U Ads nalogu sve izgleda zeleno, a u prodajnom kalendaru nema dovoljno pravih razgovora.
+
+Česta greška je da se svako slanje forme, svaki poziv i svaka WhatsApp poruka meri kao ista konverzija. Algoritam tada ne uči ko postaje kupac. Uči samo ko najlakše šalje upit. Ako je najlakši lead osoba koja pita najnižu cenu, traži besplatnu procenu ili nije u pravom gradu, kampanja će vremenom kupovati sve više takvih signala.
+
+Zato [Google reklame](/google-reklame-cena) ne treba voditi samo prema broju upita. Za ozbiljan lead generation mora postojati veza između oglasa, landing strane, forme, CRM statusa i prodajnog ishoda. Širi [digitalni marketing](/cene-digitalnog-marketinga) ovde postaje sistem za učenje iz prodaje, ne samo sistem za kupovinu saobraćaja.
+
+## Šta su kvalifikovane konverzije u praksi
+
+Kvalifikovana konverzija nije magični tehnički termin. To je dogovor da nije svaki lead jednak. Firma unapred definiše koji upit ima dovoljno namere, informacija i komercijalnog smisla da bude signal za optimizaciju kampanje.
+
+Za jednu firmu to može biti lead koji ima budžet, rok i traži uslugu koju tim zaista isporučuje. Za drugu firmu to je zakazan i održan poziv. Za treću je poslata ponuda posle kvalifikacije. Za skuplje B2B usluge pravi signal možda nije forma, nego CRM status kao kvalifikovan, prilika otvorena ili posao dobijen.
+
+Poenta nije da se obična forma prestane meriti. Poenta je da forma postane početni signal, a kvalifikovan lead jači signal. Ako Google Ads vidi samo početak puta, optimizovaće ka početku puta. Ako dobije povratnu informaciju iz prodaje, može naučiti koje pretrage, oglasi i landing poruke dovode do ljudi koji imaju realnu šansu da kupe.
+
+## Zašto se algoritam često nauči na loše leadove
+
+Mnoge firme nesvesno treniraju kampanju da radi protiv njih. Forma je prekratka, cilj je svako slanje, a zahvalna strana se meri kao glavna konverzija. Oglas sa najširim obećanjem dobije najviše upita, pa sistem zaključi da je to pobednik. Prodaja posle toga gubi sate na razgovore koji nisu fit.
+
+Nije problem samo u Google-u. Platforma radi ono što joj je rečeno. Ako joj kažete da je svaki upit uspeh, ona će tražiti ljude koji najčešće šalju upite. Ako joj kažete da su najvredniji leadovi oni koji imaju budžet, hitnost, lokaciju, problem i sledeći korak, kampanja dobija drugačiji kompas.
+
+Ovo se posebno vidi kod uslužnih firmi sa različitim ponudama. Jedna kampanja može dovoditi mnogo upita za najjeftiniju uslugu, dok premium ponuda ostaje bez ozbiljnih razgovora. Slično se dešava kada se u isti izveštaj mešaju studenti, istraživači cena, pogrešni gradovi, postojeći klijenti i ljudi spremni za kupovinu.
+
+## CRM statusi moraju biti deo merenja
+
+Ako prodaja nema status za lead, marketing nema šta da nauči. Minimum nije komplikovan: novi upit, kontaktiran, kvalifikovan, nije fit, zakazan razgovor, održan razgovor, ponuda poslata, posao dobijen, posao izgubljen. Čak i ovako jednostavna struktura odmah pokazuje razliku između kampanje koja puni inbox i kampanje koja pravi pipeline.
+
+Tekst o [CRM-u za leadove](/blog/crm-za-leadove-evidencija-prodaja-srbija-2026) objašnjava zašto upiti propadaju kada nema vlasnika i sledećeg koraka. Kod kvalifikovanih konverzija CRM dobija još jednu ulogu: postaje povratni kanal ka oglašavanju. Bez statusa, Ads vidi samo formu. Sa statusom, vidi koji leadovi imaju vrednost.
+
+U praksi ne mora sve krenuti automatizovano prvog dana. Dovoljno je da prodaja dosledno označava statuse i da se jednom nedeljno proveri koje kampanje donose kvalifikovane upite. Kada proces sazri, ti statusi se mogu slati nazad kao offline konverzije ili vrednosti konverzija.
+
+## Koje signale treba slati nazad kampanji
+
+Najgora varijanta je slati nazad samo broj svih upita. Bolja varijanta je razdvojiti nivoe. Osnovna konverzija može biti forma ili poziv. Jača konverzija može biti kvalifikovan lead. Još jača može biti zakazan razgovor ili poslata ponuda. Najjača je dobijen posao, ako postoji dovoljno podataka i dovoljan broj događaja.
+
+Za firme sa manjim obimom, nije uvek pametno optimizovati direktno na zatvorene poslove, jer takvih događaja može biti premalo. Tada se koristi najbliži pouzdan signal: kvalifikovan upit, održan poziv ili ponuda poslata pravom kupcu. Bitno je da signal nije samo lak za dobijanje, nego povezan sa prodajom.
+
+Vrednost signala takođe može pomoći. Lead za malu jednokratnu uslugu ne mora imati istu vrednost kao lead za dugoročan ugovor. Ako se svi događaji šalju sa istom vrednošću, kampanja opet može gurati lakše razgovore umesto profitabilnijih. Tu se kvalifikovane konverzije povezuju sa [profitabilnošću ponuda](/blog/profitabilnost-ponuda-marketing-budzet-lead-generation-srbija-2026) i realnim CAC-om.
+
+## Landing strana i forma moraju pomoći kvalifikaciji
+
+Kvalifikovane konverzije neće popraviti landing stranu koja privlači pogrešne ljude. Ako prvi ekran obećava sve svima, forma traži samo telefon, a prodaja tek kasnije otkriva da osoba nije fit, kampanja će imati previše šuma. Merenje tada samo brže pokazuje problem.
+
+Zato landing strana treba da kaže za koga je ponuda, koji problem rešava, koji okvir budžeta ili procesa ima smisla i šta se dešava posle upita. Forma treba da traži pitanja koja menjaju odluku: usluga, lokacija, rok, veličina problema, okvir budžeta ili prioritet. Ne deset polja iz radoznalosti, nego minimum koji razlikuje ozbiljan lead od slučajnog kontakta.
+
+Ovo se naslanja na [usklađenost oglasa i landing strane](/blog/uskladjenost-oglasa-landing-strane-konverzija-srbija-2026) i [kvalifikaciju kroz kontakt formu](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026). Ako oglas, strana, forma i prodajni prvi odgovor ne pričaju istu priču, ni najbolje podešeno praćenje neće spasiti funnel.
+
+## Kada ne treba komplikovati merenje
+
+Postoji i druga krajnost. Neke firme pokušaju da naprave savršenu atribuciju pre nego što imaju stabilan promet, jasan prodajni proces i dovoljan broj leadova. Rezultat je previše događaja, premalo podataka i tim koji više vremena troši na tabelu nego na prodaju.
+
+Ako kampanja tek počinje, prvo sredite osnovu: ispravno merenje formi i poziva, jasne UTM oznake, zahvalnu stranu, vlasnika leada i jednostavne CRM statuse. Zatim uvedite razliku između sirovog i kvalifikovanog upita. Tek posle toga ima smisla slati kompleksnije offline konverzije i vrednosti.
+
+Dobar redosled je: meriti sve upite, označiti kvalitet, izračunati stopu kvalifikacije, povezati sa stopom zatvaranja, pa tek onda povećavati budžet. Ako taj redosled preskočite, lako se desi da kampanja dobije skuplje klikove bez boljeg učenja.
+
+## Kako Platinum Zenith postavlja kvalifikovane konverzije
+
+Kada analiziramo lead generation kampanju, prvo gledamo koji događaj se trenutno računa kao uspeh. Zatim ga poredimo sa prodajnim ishodom: koliko upita je kontaktirano, koliko je kvalifikovano, koliko je zakazalo razgovor, koliko je dobilo ponudu i koliko je zatvoreno. Tek tada odlučujemo šta kampanja treba da uči.
+
+Za neke firme dovoljno je uvesti kvalitetnije forme i nedeljni CRM pregled. Za druge ima smisla povezati offline konverzije, vrednosti po tipu ponude i posebne signale za kvalifikovan lead, održan poziv ili dobijen posao. Cilj nije tehnička komplikacija, nego da budžet prestane da prati najlakši upit i počne da prati komercijalni ishod.
+
+Ako vam kampanja ima konverzije, ali prodaja kaže da nema dovoljno ozbiljnih prilika, pošaljite nam preko [kontakt strane](/kontakt) trenutni način merenja, tip forme i nekoliko primera dobrih i loših leadova. Pogledaćemo da li problem leži u signalu za optimizaciju, landing strani, kvalifikaciji, CRM statusima ili prodajnom follow-up-u.
+`,
+  },
+  {
     slug: 'google-ads-za-sale-za-vencanja-cena-rezervacije-srbija-2026',
     title: 'Google Ads za sale za venčanja u Srbiji 2026: cena rezervacije i budžet',
     excerpt: 'Google Ads za sale za venčanja treba meriti po rezervisanim terminima, kapari, kapacitetu datuma i vrednosti paketa, ne po jeftinim porukama.',

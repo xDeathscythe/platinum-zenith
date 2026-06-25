@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026",
+    "title": "Kvalifikovane konverzije u Google Ads-u 2026: zašto kampanja optimizuje pogrešne leadove",
+    "excerpt": "Ako Google Ads meri svaki upit isto, algoritam uči da kupuje najlakše leadove. Evo kako kvalifikovane konverzije povezuju kampanju, CRM i prodaju.",
+    "date": "2026-06-25",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-sale-za-vencanja-cena-rezervacije-srbija-2026",
     "title": "Google Ads za sale za venčanja u Srbiji 2026: cena rezervacije i budžet",
     "excerpt": "Google Ads za sale za venčanja treba meriti po rezervisanim terminima, kapari, kapacitetu datuma i vrednosti paketa, ne po jeftinim porukama.",
