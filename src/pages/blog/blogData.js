@@ -1,5 +1,92 @@
 const rawBlogPosts = [
   {
+    slug: 'sekundarni-cta-landing-strana-lead-generation-srbija-2026',
+    title: 'Sekundarni CTA na landing strani 2026: kako ne izgubiti posetioce koji nisu spremni za upit',
+    excerpt: 'Sekundarni CTA čuva posetioce koji još nisu spremni za glavnu formu. Evo kada ponuditi kalkulator, vodič, poziv ili lakši sledeći korak.',
+    date: '2026-06-26',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Landing strana', 'CTA', 'Lead Generation', 'Konverzija', 'Prodajni funnel'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Jedan CTA često nije dovoljan za ozbiljnu kupovinu
+
+Landing strana za lead generation obično ima jedan veliki cilj: pošaljite upit, zakažite poziv, zatražite ponudu. To je logično, jer firma ne živi od pregleda stranice nego od razgovora koji mogu da postanu posao. Problem nastaje kada se svaki posetilac tretira kao da je već spreman za isti sledeći korak.
+
+Česta greška kod uslužnih firmi je da landing strana ima samo dva izbora: odmah popuni formu ili odlazi. Posetilac koji još poredi opcije, ne zna okviran budžet, nije siguran da li je fit ili mora prvo da objasni problem internom timu, nema gde da nastavi. Kampanja tada kupi pažnju, ali stranica ne hvata nijedan signal osim najtvrđeg upita.
+
+Zato [Google reklame](/google-reklame-cena) i landing strana moraju imati glavni CTA, ali često i pametan sekundarni CTA. Glavni CTA prodaje razgovor. Sekundarni CTA čuva komercijalnu nameru dok osoba još nije spremna da ostavi pun upit. U širem [digitalnom marketingu](/cene-digitalnog-marketinga) to je razlika između stranice koja traži prodaju odmah i funnel-a koji gradi sledeći merljiv korak.
+
+## Šta je sekundarni CTA u lead generation funnel-u
+
+Sekundarni CTA je lakši sledeći korak za posetioca koji ima interesovanje, ali još nema dovoljno poverenja, konteksta ili hitnosti za glavnu formu. To nije ukrasni link. To je namerno postavljena opcija koja pomaže kupcu da pređe iz razgledanja u ozbiljniji status.
+
+Za jednu firmu sekundarni CTA može biti kratka provera budžeta. Za drugu, kalkulator ili okvir cene. Za treću, vodič za pripremu podataka pre razgovora. Za četvrtu, WhatsApp pitanje sa unapred predloženim informacijama. Kod skupljih B2B usluga to može biti opcija: pošaljite trenutni problem i dobićete procenu da li ima smisla razgovor.
+
+Poenta nije da se napravi više dugmadi. Poenta je da landing strana prizna da kupci dolaze u različitim fazama odluke. Neko je spreman za poziv danas. Neko mora prvo da razume cenu. Neko ima problem, ali ne zna kako da ga formuliše. Neko jeste fit, ali ne želi odmah prodajni razgovor.
+
+## Kada sekundarni CTA pomaže, a kada pravi šum
+
+Sekundarni CTA pomaže kada glavna forma ima visok prag. Ako prodajete skuplju uslugu, dugoročnu saradnju, kompleksan projekat ili nešto gde kupac mora da objasni kontekst, deo ljudi neće odmah tražiti ponudu. To ne znači da nisu ozbiljni. Često znači da im nedostaje još jedan dokaz ili još jedno praktično pitanje pre kontakta.
+
+Ali sekundarni CTA može napraviti šum ako je previše lak i ne govori ništa o nameri. Dugme Preuzmite besplatan PDF može doneti mnogo email adresa, ali malo prodajnih prilika ako PDF nije povezan sa stvarnim komercijalnim problemom. Isto važi za generičan newsletter, nasumičan checklist ili popust koji privlači ljude bez budžeta.
+
+Dobro pravilo je jednostavno: sekundarni CTA mora pomoći prodaji da razume nameru ili pomoći kupcu da se približi odluci. Ako ne radi nijedno od ta dva, verovatno je samo distrakcija.
+
+## Primeri sekundarnog CTA-a koji imaju smisla
+
+Kod agencije, glavni CTA može biti razgovor o kampanji. Sekundarni CTA može biti procena da li trenutni budžet uopšte ima smisla za cilj. Tu je korisno povezati posetioca sa [cenom Google reklama](/google-reklame-cena), [cenama digitalnog marketinga](/cene-digitalnog-marketinga) ili [ROI kalkulatorom](/alati/roi-kalkulator), ali ne samo kao pasivan link. Tekst treba da kaže šta osoba dobija: okvir realnog budžeta, listu pretpostavki ili pitanje koje otkriva da li je kampanja spremna za test.
+
+Kod lokalne usluge, glavni CTA može biti pošaljite upit. Sekundarni CTA može biti pošaljite lokaciju i tip posla za brzu proveru da li firma pokriva vašu zonu. Kod B2B usluge, sekundarni CTA može biti kratka dijagnostika: koji segment ne radi, oglasi, landing strana, forma, prvi odgovor ili follow-up.
+
+Kod kompleksne kupovine, sekundarni CTA može biti pripremni korak pre prodajnog razgovora: koje podatke poslati, šta utiče na cenu, koje greške najčešće prave slične firme i kako izgleda proces od prvog upita do ponude. Takav CTA ne smanjuje kvalitet leadova. On smanjuje konfuziju.
+
+## Gde ga staviti na landing strani
+
+Sekundarni CTA ne treba da se takmiči sa glavnim dugmetom na prvom ekranu. Ako je sve jednako glasno, posetilac ne zna šta je primarni sledeći korak. Prvi ekran treba jasno da kaže kome je usluga namenjena, koji problem rešava, koji je glavni CTA i zašto vredi nastaviti.
+
+Sekundarni CTA obično bolje radi posle prvog dokaza, posle objašnjenja cene ili posle bloka sa najčešćim dilemama. Na primer, posetilac prvo vidi glavnu ponudu, zatim razume proces, zatim vidi dokaz ili kriterijume, pa dobija lakši korak ako još nije spreman za formu.
+
+Ovo se naslanja na tekst o [prvom ekranu sajta](/blog/prvi-ekran-sajta-konverzija-upiti-srbija-2026) i [usklađenosti oglasa i landing strane](/blog/uskladjenost-oglasa-landing-strane-konverzija-srbija-2026). Ako oglas obeća konkretan problem, a landing strana nudi samo generički kontakt, sekundarni CTA može popuniti rupu između interesovanja i prodajnog razgovora.
+
+## Kako meriti sekundarni CTA bez kvarenja kampanje
+
+Najveća opasnost je da se sekundarni CTA proglasi glavnom konverzijom. Tada kampanja može početi da optimizuje prema lakšem signalu, a prodaja dobije mnogo slabijih kontakata. Ako je preuzimanje vodiča, klik na kalkulator ili WhatsApp pitanje isto vrednovano kao kvalifikovan upit, algoritam nema razlog da traži ozbiljnije kupce.
+
+Zato treba odvojiti signale. Glavna konverzija ostaje kvalifikovan upit, zakazan razgovor, poslata ponuda ili drugi stvarni prodajni korak. Sekundarni CTA se meri kao mikro-konverzija: koristan indikator namere, publika za remarketing, sadržaj za follow-up ili signal da landing strana ne gubi sve posetioce koji nisu spremni odmah.
+
+Tekst o [kvalifikovanim konverzijama](/blog/kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026) je važan ovde. Sekundarni CTA ne sme trenirati kampanju da kupuje najlakše akcije. On treba da pomogne funnel-u da prepozna ko se zagreva, a ko je zaista spreman za prodaju.
+
+## Šta prodaja radi sa tim signalom
+
+Sekundarni CTA nema vrednost ako niko ne zna šta se posle dešava. Ako osoba pošalje pitanje o budžetu, preuzme vodič ili klikne na kalkulator, prodaja i marketing moraju imati dogovor: da li ide u remarketing, da li dobija email, da li se ručno proverava, da li se obeležava u CRM-u i kada se traži glavni upit.
+
+Mnoge firme naprave sekundarni CTA, pa ga tretiraju kao odvojenu kampanju za skupljanje kontakata. To je slab pristup. Bolje je povezati ga sa [CRM evidencijom leadova](/blog/crm-za-leadove-evidencija-prodaja-srbija-2026), [follow-up sekvencom](/blog/follow-up-sekvenca-leadovi-prodaja-srbija-2026) i jasnim statusima. Neko ko je kliknuo na kalkulator nije isti kao osoba koja je tražila ponudu, ali nije ni običan anonimni posetilac.
+
+Praktičan status može biti: zainteresovan, proverio budžet, poslao osnovni kontekst, nije spreman, za remarketing, za lagani follow-up ili za prodajni poziv. Tako sekundarni CTA postaje deo prodajnog procesa, ne samo marketinški ukras.
+
+## Najčešće greške na sekundarnim CTA elementima
+
+Prva greška je da se sekundarni CTA napiše previše meko: saznajte više, pročitajte detalje, kliknite ovde. To ne govori ni šta osoba dobija ni zašto je sledeći korak vredan. Bolje je konkretno: proverite minimalni budžet, pošaljite tri podatka za okvirnu procenu, pogledajte šta utiče na cenu, uporedite da li je problem u oglasu ili landing strani.
+
+Druga greška je da sekundarni CTA vodi na sadržaj bez povratka u prodaju. Ako blog, kalkulator ili vodič nema jasan sledeći korak ka glavnoj akciji, posetilac se samo premesti na drugu stranicu i nestane. Zato svaki sekundarni put mora imati most ka kontaktu, dijagnostici ili ponudi.
+
+Treća greška je da se doda previše opcija. Ako landing strana ima zakažite poziv, preuzmite vodič, pratite nas, pročitajte blog, izračunajte ROI, pošaljite poruku i pogledajte cenovnik, fokus se raspadne. Jedan jak glavni CTA i jedan pažljivo izabran sekundarni CTA su često dovoljni.
+
+## Kako Platinum Zenith koristi sekundarni CTA u funnel-u
+
+Kada gledamo landing stranu koja dobija klikove, ali ne dobija dovoljno upita, ne krećemo odmah od zaključka da je kanal loš. Prvo gledamo da li stranica ima jasan glavni CTA, da li objašnjava kome je ponuda namenjena, da li uklanja glavnu sumnju i da li postoji smislen lakši korak za ljude koji još nisu spremni za razgovor.
+
+Ako sekundarni CTA ima smisla, definišemo šta treba da meri. Nekad je cilj da otkrije budžet. Nekad da razdvoji radoznale posetioce od ozbiljnih. Nekad da napravi publiku za remarketing. Nekad da pripremi prodajni razgovor boljim informacijama. U svakom slučaju, ne mešamo ga sa glavnom prodajnom konverzijom.
+
+Ako vaša landing strana ima posete, ali premalo kvalitetnih upita, pošaljite nam preko [kontakt strane](/kontakt) URL strane, glavni CTA, trenutni broj upita i šta prodaja najčešće čuje od ljudi koji nisu spremni da kupe. Pogledaćemo da li vam fali jači prvi ekran, bolja kvalifikacija forme, sekundarni CTA, remarketing ili jasniji follow-up posle prvog kontakta.
+`,
+  },
+  {
     slug: 'google-ads-za-ograde-i-kapije-cena-upita-srbija-2026',
     title: 'Google Ads za ograde i kapije u Srbiji 2026: cena upita i budžet',
     excerpt: 'Google Ads za ograde i kapije treba meriti po merama, izlascima na teren, ponudama i prihvaćenim projektima, ne po sirovim pozivima.',
