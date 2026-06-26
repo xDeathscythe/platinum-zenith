@@ -1,5 +1,92 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-ograde-i-kapije-cena-upita-srbija-2026',
+    title: 'Google Ads za ograde i kapije u Srbiji 2026: cena upita i budžet',
+    excerpt: 'Google Ads za ograde i kapije treba meriti po merama, izlascima na teren, ponudama i prihvaćenim projektima, ne po sirovim pozivima.',
+    date: '2026-06-26',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Ograde i kapije', 'Lead Generation', 'Lokalni biznis', 'Srbija'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Ograde i kapije ne prodaju se po broju poziva
+
+Google Ads za firme koje rade ograde, kapije, dvorišne sisteme i bravariju često se meri kao obična kampanja za pozive. Telefon zvoni, stižu poruke, neko pita okvirnu cenu po metru, neko šalje sliku kapije koju je video na internetu, neko traži hitnu popravku automatike. U izveštaju sve izgleda kao lead. U poslu se računa samo upit koji ima lokaciju, mere, tip objekta, realan rok i šansu da postane prihvaćen projekat.
+
+Česta greška kod ovih firmi je da se kampanja optimizuje za najlakši kontakt. Oglas obeća povoljnu izradu ograda, landing strana pokaže nekoliko lepih slika, a forma traži samo ime i telefon. Prodaja posle toga gubi vreme na razgovore bez dimenzija, bez jasnog materijala, bez budžeta ili sa lokacijom koja nije isplativa za izlazak na teren.
+
+Zato [Google reklame](/google-reklame-cena) za ograde i kapije ne treba voditi samo prema ceni po pozivu. Treba ih povezati sa vrednošću projekta, bruto maržom, izlaskom na merenje, poslatom ponudom i prihvaćenim radom. Širi [digitalni marketing](/cene-digitalnog-marketinga) ovde ima smisla samo ako odvaja ozbiljne građevinske i kućne projekte od ljudi koji samo skupljaju najnižu cenu.
+
+## Koji upiti vrede najviše
+
+Nije isto kada neko traži 40 metara panelne ograde za kuću, automatsku kliznu kapiju za firmu, dekorativnu ogradu za vikendicu ili samo zamenu brave na postojećoj kapiji. Vrednost posla, marža, vreme montaže i rizik oko merenja nisu isti. Ako se sve meri jednom cenom leada, kampanja lako počne da puni inbox najlakšim, ali ne i najprofitabilnijim upitima.
+
+Pre budžeta treba razdvojiti tipove posla. Jedan segment mogu biti panelne i metalne ograde. Drugi segment su klizne i krilne kapije sa automatikom. Treći su industrijske kapije, garažna vrata ili veći B2B projekti. Četvrti su servis, popravke i hitne intervencije. Svaki segment ima drugačiju vrednost i drugačiji maksimalni CPL.
+
+Na primer, firma može prihvatiti skuplji lead za kompletnu ogradu sa kapijom i automatikom, jer je vrednost projekta veća. Isti CPL nema smisla za sitnu popravku van zone rada ako ekipa mora da izgubi pola dana u vožnji. Ovo nije komplikovanje marketinga. Ovo je zaštita terenskog kapaciteta i profita.
+
+## Kampanje treba podeliti po nameri
+
+Jedna kampanja za sve pojmove obično napravi šum. Ljudi koji traže metalne ograde, panelne ograde, kapije za dvorište, automatske kapije, garažna vrata, bravarske usluge i popravku motora za kapiju nemaju isti problem. Ako svi vide isti oglas i završe na istoj strani, prodaja mora naknadno da razvrstava upite koje je kampanja mogla da filtrira.
+
+Praktičnije je podeliti kampanje po nameri. Kampanja za nove ograde treba da priča o materijalu, metrima, lokaciji, rokovima i merenju. Kampanja za kapije treba da naglasi tip otvaranja, automatiku, širinu ulaza i sigurnost. Kampanja za servis treba da bude uska, lokalna i vezana za brzinu odgovora, jer tu ljudi često imaju hitan problem.
+
+Podela ne mora biti ogromna. Dovoljno je da najvredniji tipovi poslova imaju svoje oglase, svoje negativne ključne reči i svoje landing poruke. Tako budžet ne odlazi na pretrage koje nikada neće postati projekat.
+
+## Landing strana mora tražiti mere, lokaciju i tip posla
+
+Mnoge firme šalju sav saobraćaj na početnu stranu ili galeriju radova. Posetilac vidi fotografije, ali ne zna da li firma radi njegovu lokaciju, koji tip ograda prihvata, da li radi automatiku, kako izgleda proces merenja i šta treba poslati da bi ponuda bila realna. Tada ljudi šalju prazne poruke, a prodaja tek u trećem kontaktu saznaje osnovne podatke.
+
+Landing strana za ograde i kapije treba da odgovori na konkretna pitanja: koje tipove ograda radite, za koje gradove i okolinu, da li izlazite na teren, šta utiče na cenu, koji minimum informacija treba za okvirnu procenu i koji je sledeći korak. Ne mora postojati cenovnik za svaku kombinaciju materijala, ali mora postojati dovoljno konteksta da ozbiljan kupac zna šta da pripremi.
+
+Ovo je slično postu o [Google Ads-u za PVC stolariju](/blog/google-ads-za-pvc-stolariju-cena-upita-srbija-2026). Kod oba posla sirov upit nije dovoljan. Potrebne su dimenzije, objekat, lokacija, rok i jasna procena da li posao ima smisla za firmu.
+
+## Forma ne treba da bude duga, ali mora razlikovati ozbiljan projekat
+
+Preduga forma može ubiti konverziju, ali prekratka forma često pravi još veći problem. Ako tražite samo ime i telefon, dobićete više kontakata, ali i više razgovora bez mera, slika, lokacije i odluke. Prodaja tada radi besplatan consulting umesto da kvalifikuje projekte.
+
+Za ograde i kapije forma obično treba da traži: tip posla, lokaciju, približnu dužinu ili širinu, da li postoji postojeća ograda ili kapija, željeni rok, fotografiju ako je moguće i kontakt kanal. Ako je cilj samo prvi korak, forma može biti lakša: Pošaljite lokaciju, tip posla i okvirne mere, pa ćemo reći da li ima smisla izlazak na teren.
+
+Tekst o [kvalifikaciji kroz kontakt formu](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026) je dobar okvir za ovo. Forma ne treba da ispituje iz radoznalosti. Treba da prikupi podatke koji menjaju odluku: da li je posao izvodljiv, profitabilan i dovoljno blizu da se obradi brzo.
+
+## Negativne ključne reči štede terenski tim
+
+Kod ovog tipa kampanja negativne ključne reči često prave razliku između korisnog budžeta i izgubljenog dana. Ljudi pretražuju šablone, slike, polovne kapije, uradi sam savete, motore za kapije bez montaže, poslove za bravare, delove, oglase za opremu i termine koje firma možda ne radi. Ako se to ne filtrira, kampanja kupuje pažnju ljudi koji nisu kupci.
+
+Lista negativnih pojmova zavisi od ponude, ali često vredi pratiti: posao, plata, polovno, polovnih, slike, ideje, uradi sam, forum, šema, motor bez montaže, delovi, oprema, besplatno, najjeftinije ako firma ne želi taj segment, kao i gradove van zone rada. Ako firma ne radi servis automatike, taj segment treba odvojiti ili isključiti. Ako ne radi drvene ograde, nema razloga da plaća te klikove.
+
+Negativne reči nisu jednokratna podešavanja. Prvih nekoliko nedelja treba gledati search terms i slušati prodaju: koji pozivi su bili gubljenje vremena, koje pretrage su donele dobar projekat i gde postoji nova profitabilna namera.
+
+## Budžet se računa po prihvaćenoj ponudi, ne po klikovima
+
+Za ograde i kapije prihvatljiv CPL zavisi od vrednosti projekta, marže i stope zatvaranja. Ako prosečan posao donosi dovoljno bruto profita, firma može platiti više za kvalifikovan upit koji dolazi sa merama i lokacijom. Ako je posao mali, daleko ili sa niskom maržom, i jeftin lead može biti skup.
+
+Zato se budžet ne računa samo iz CPC-a. Treba znati koliko sirovih upita postane kvalifikovan razgovor, koliko kvalifikovanih razgovora vodi do izlaska na teren, koliko izlazaka daje ponudu i koliko ponuda se prihvati. Tek tada se vidi realan CAC i granica za kampanju.
+
+Tu pomažu tekstovi o [bruto marži](/blog/bruto-marza-marketing-budzet-roi-srbija-2026), [CPL-u i CAC-u](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026) i [kapacitetu prodaje](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026). Ako ekipa može da obradi samo određeni broj merenja nedeljno, cilj nije više poziva. Cilj je više pravih izlazaka na teren.
+
+## Brzina odgovora je važna, ali ne sme zameniti kvalifikaciju
+
+Kod kućnih i građevinskih radova ljudi često šalju upit na više mesta. Firma koja odgovori brzo ima prednost, ali brzina sama ne rešava problem ako prvi odgovor nema strukturu. Generičko Pošaljite mere često završi u pauzi. Bolje je odmah potvrditi kontekst i dati kupcu jasan sledeći korak.
+
+Dobar prvi odgovor može izgledati ovako: Videli smo upit za kapiju. Da bismo rekli da li možemo dati okvir i zakazati merenje, pošaljite širinu ulaza, grad, fotografiju postojećeg stanja i da li želite ručnu ili automatsku kapiju. Ako firma ima jasnu zonu rada i minimum vrednosti projekta, to treba reći rano, kulturno i direktno.
+
+Ovo se naslanja na [prvi odgovor na lead](/blog/prvi-odgovor-na-lead-prodajna-skripta-srbija-2026). Brzina otvara vrata. Kvalifikacija čuva vreme i pretvara upit u sledeći korak.
+
+## Kako Platinum Zenith vodi kampanju za ograde i kapije
+
+Kada gledamo kampanju za firmu koja radi ograde, kapije ili bravariju, prvo ne pitamo koliko košta klik. Pitamo koje poslove firma najviše želi, koja je minimalna vrednost projekta, koja je zona rada, koliko ekipa može da meri i montira, koliko brzo prodaja odgovara i koji podaci su potrebni za smislenu ponudu.
+
+Zatim se kampanje dele po nameri, landing strana se podešava da kvalifikuje projekat, a forma traži podatke koji štede vreme. U izveštaju ne gledamo samo broj leadova, nego koliko ih je imalo mere, lokaciju, izlazak na teren, poslatu ponudu i prihvaćen posao. Tek tada cena leada ima značenje.
+
+Ako imate firmu za ograde, kapije ili slične radove i ne znate da li Google Ads može donositi profitabilne projekte, pošaljite nam preko [kontakt strane](/kontakt) tipove poslova koje želite, prosečnu vrednost projekta, zonu rada i trenutni broj upita. Pogledaćemo da li problem leži u ključnim rečima, landing strani, kvalifikaciji forme, brzini odgovora ili budžetu.
+`,
+  },
+  {
     slug: 'inkrementalni-marketing-budzet-roi-lead-generation-srbija-2026',
     title: 'Inkrementalni marketing budžet u Srbiji 2026: kada dodatni novac ne donosi profit',
     excerpt: 'Dodatni budžet nije uvek skaliranje. Evo kako proveriti marginalni CPL, kvalitet leadova, kapacitet prodaje i ROI pre sledećeg povećanja.',

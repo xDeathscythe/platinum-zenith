@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-ograde-i-kapije-cena-upita-srbija-2026",
+    "title": "Google Ads za ograde i kapije u Srbiji 2026: cena upita i budžet",
+    "excerpt": "Google Ads za ograde i kapije treba meriti po merama, izlascima na teren, ponudama i prihvaćenim projektima, ne po sirovim pozivima.",
+    "date": "2026-06-26",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "inkrementalni-marketing-budzet-roi-lead-generation-srbija-2026",
     "title": "Inkrementalni marketing budžet u Srbiji 2026: kada dodatni novac ne donosi profit",
     "excerpt": "Dodatni budžet nije uvek skaliranje. Evo kako proveriti marginalni CPL, kvalitet leadova, kapacitet prodaje i ROI pre sledećeg povećanja.",
