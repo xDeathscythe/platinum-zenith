@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "test-budzet-za-novu-ponudu-lead-generation-srbija-2026",
+    "title": "Test budžet za novu ponudu u Srbiji 2026: kako proveriti potražnju bez bacanja novca",
+    "excerpt": "Test budžet za novu ponudu mora dokazati potražnju, kvalitet leadova i prodajni fit pre skaliranja. Evo šta meriti i kada zaustaviti kampanju.",
+    "date": "2026-06-27",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "sekundarni-cta-landing-strana-lead-generation-srbija-2026",
     "title": "Sekundarni CTA na landing strani 2026: kako ne izgubiti posetioce koji nisu spremni za upit",
     "excerpt": "Sekundarni CTA čuva posetioce koji još nisu spremni za glavnu formu. Evo kada ponuditi kalkulator, vodič, poziv ili lakši sledeći korak.",

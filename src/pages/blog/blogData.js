@@ -1,5 +1,92 @@
 const rawBlogPosts = [
   {
+    slug: 'test-budzet-za-novu-ponudu-lead-generation-srbija-2026',
+    title: 'Test budžet za novu ponudu u Srbiji 2026: kako proveriti potražnju bez bacanja novca',
+    excerpt: 'Test budžet za novu ponudu mora dokazati potražnju, kvalitet leadova i prodajni fit pre skaliranja. Evo šta meriti i kada zaustaviti kampanju.',
+    date: '2026-06-27',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Marketing budžet', 'Lead Generation', 'Nova ponuda', 'ROI', 'Google Ads'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Nova ponuda ne zaslužuje odmah pun marketing budžet
+
+Kada firma izbaci novu uslugu, paket ili tržišni segment, najlakše je ponašati se kao da je ponuda već dokazana. Napravi se landing strana, pusti se kampanja, uzme se mesečni budžet kao za zrelu ponudu i onda se posle dve nedelje pita zašto upiti nisu dovoljno dobri. Problem nije u tome što testiranje košta. Problem je kada se test ponaša kao skaliranje.
+
+Česta greška kod uslužnih firmi je da se nova ponuda meri istim očekivanjima kao stari posao koji već ima preporuke, jasnu cenu, poznate prigovore i prodajni proces. Oglas možda dobija klikove, ali prodaja još ne zna koje pitanje najviše blokira kupca. Landing strana možda zvuči lepo, ali ne zna se da li tržište razume paket. Budžet tada ne kupuje samo leadove. On plaća učenje koje niko nije definisao.
+
+Zato [Google reklame](/google-reklame-cena) za novu ponudu treba pokrenuti kao kontrolisan test budžet, ne kao puni mesečni plan. U širem [digitalnom marketingu](/cene-digitalnog-marketinga) to znači da se prvo dokazuje potražnja, kvalitet leadova i prodajni fit, pa tek onda povećava ulaganje.
+
+## Šta test budžet treba da dokaže
+
+Test budžet ne treba samo da odgovori na pitanje koliko košta lead. To je previše usko. Dobar test treba da pokaže da li ljudi traže problem, da li razumeju ponudu, da li klikovi dolaze iz prave namere, da li forma skuplja korisne informacije, da li prodaja može da objasni vrednost i da li postoji realna šansa da se upit pretvori u prihod.
+
+Ako nova ponuda dobije deset leadova po pristojnoj ceni, ali nijedan nema budžet, rok ili problem koji firma želi da rešava, kampanja nije dokazala fit. Ako su leadovi skuplji, ali tri razgovora imaju ozbiljan projekat i jasnu maržu, test može biti vredan nastavka. Zato test budžet mora imati unapred dogovorene kriterijume, ne samo osećaj da nalog radi.
+
+Praktično pitanje je: šta mora biti tačno da bi ova ponuda zaslužila veći budžet sledećeg meseca? Bez tog pitanja, firma lako proglasi neuspešan test uspehom jer ima aktivnosti, ili ugasi dobar signal zato što prvi CPL nije savršen.
+
+## Kada nova ponuda nije spremna za oglase
+
+Neke firme puste kampanju prerano. Ponuda još nema jasan ishod, cena je neodređena, prodajni tim ne zna šta da kaže posle upita, a landing strana pokušava da objasni sve odjednom. Tada budžet ne testira tržište nego konfuziju.
+
+Pre prvog evra u oglase treba znati kome je ponuda namenjena, koji problem rešava, šta ne obuhvata, koji je minimalni dobar klijent, šta utiče na cenu i koji je sledeći korak posle forme. Ne mora sve biti savršeno. Ali mora biti dovoljno jasno da se svaki loš rezultat ne može pravdati rečenicom: možda ljudi nisu razumeli.
+
+Ako ne postoji jasna granica između dobrog i lošeg upita, prvo treba srediti ponudu i landing poruku. Tek onda ima smisla pustiti test. U suprotnom, kampanja će samo brže pokazati da interna odluka još nije završena.
+
+## Koliki test budžet ima smisla
+
+Test budžet zavisi od cene klika, vrednosti potencijalnog klijenta, dužine prodajnog ciklusa i minimalnog broja razgovora koji daje neki zaključak. Za većinu lead generation ponuda cilj nije da se za tri dana dobije savršena statistika. Cilj je da se kupi dovoljno signala da se odluči šta se popravlja, šta se gasi i šta vredi razvijati.
+
+Na primer, ako firma prodaje uslugu gde jedan dobar klijent vredi nekoliko hiljada evra bruto profita, test od 300 evra može biti premali da kaže bilo šta. Dva klika više ili manje potpuno menjaju sliku. Ako je CPC nizak i ciklus brz, manji test može biti dovoljan za prvi smer. Ako je usluga kompleksna, test mora obuhvatiti bar nekoliko kvalifikovanih razgovora, ne samo posete stranici.
+
+Zato je korisno povezati test sa [marketing budžetom po scenariju](/blog/marketing-budzet-po-scenariju-lead-generation-srbija-2026). Konzervativan scenario može dokazati da postoji namera. Realan scenario može proveriti kvalitet razgovora. Agresivan scenario nema smisla dok prva dva ne pokažu da ponuda ima tržišni odziv.
+
+## Kako postaviti kampanju da test ne bude mutan
+
+Najgori test je onaj koji promeni previše stvari odjednom. Nova ponuda, nova publika, nova landing strana, široke ključne reči, više oglasa, različiti CTA-jevi i nejasno praćenje. Posle toga niko ne zna da li je problem u ponudi, poruci, saobraćaju, formi ili prodaji.
+
+Bolji pristup je jednostavniji. Jedna jasna ponuda. Jedan primarni segment. Jedna landing strana. Nekoliko najbližih ključnih reči ili publika sa jakom namerom. Jedna glavna konverzija. Jedan dogovor šta prodaja obeležava posle razgovora. Ako test ne radi, lakše je videti gde puca.
+
+Ovo posebno važi za nove B2B i skuplje usluge. Tu nije dovoljno meriti samo poslatu formu. Treba videti da li je upit kvalifikovan, da li osoba prepoznaje vrednost, da li traži cenu iz radoznalosti ili ima stvaran projekat i da li prodaja može da dođe do sledećeg koraka.
+
+## Metrike koje vrede više od prvog CPL-a
+
+Prvi CPL je važan, ali nije kralj testa. Kod nove ponude važnije je koliko posetilaca pokazuje pravu nameru, koliko formi ima korisne podatke, koliko razgovora prodaja ocenjuje kao A ili B prilike, koliko ljudi razume problem i koji prigovor se ponavlja. Nekad je najvredniji rezultat testa upravo spisak razloga zašto ljudi ne kupuju.
+
+Ako se isti prigovor ponovi u pet razgovora, landing strana mora to da adresira. Ako svi pitaju da li je usluga za njihovu veličinu firme, segmentacija nije jasna. Ako se javljaju ljudi bez budžeta, možda oglas obećava preširoko ili strana nema cenovni okvir. Ako ljudi klikću, ali ne šalju formu, problem može biti prvi ekran, poverenje ili CTA.
+
+Zato test treba povezati sa tekstovima o [kvalifikaciji kontakt forme](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026), [CPL-u i CAC-u](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026) i [profitabilnosti ponuda](/blog/profitabilnost-ponuda-marketing-budzet-lead-generation-srbija-2026). Lead nije dokaz ako ne može da se pretvori u profitabilan razgovor.
+
+## Kada zaustaviti test
+
+Test treba zaustaviti kada signal jasno kaže da se budžet troši na pogrešnu nameru, da ponuda nije jasna ili da prodaja nema proces za obradu. To nije poraz. To je jeftinije od tri meseca tvrdoglavog trošenja.
+
+Primer: kampanja troši planirani test budžet, ali svi upiti traže nižu cenu od minimalno održive, dolaze iz segmenta koji firma ne želi, ili se ispostavi da ljudi zapravo traže drugu uslugu. Tada ne treba dodati još novca da se vidi da li će se algoritam popraviti. Prvo treba promeniti pozicioniranje, negativne ključne reči, landing poruku ili samu ponudu.
+
+Test se zaustavlja i kada prodaja ne može da odgovori dovoljno brzo ili ne beleži statuse. Ako nema povratne informacije, marketing ne zna šta je kupio. Tada dodatni budžet samo pravi veću maglu.
+
+## Kada povećati budžet posle testa
+
+Budžet se povećava tek kada se vidi da test kupuje pravu vrstu razgovora i da firma zna šta radi sa njima. Ne mora svaka metrika biti savršena. Dovoljno je da postoji obrazac: relevantne pretrage, razumljiva ponuda, kvalifikovani upiti, ponovljivi prodajni odgovor i okvirna računica profita.
+
+Ako test donese manje leadova, ali su razgovori ozbiljni, sledeći korak može biti poboljšanje landing strane i kontrolisano povećanje. Ako test donese mnogo jeftinih leadova, ali skoro nijedan ne prođe kvalifikaciju, veći budžet je samo brži put do većeg troška. Tu pomaže računica iz [bruto marže](/blog/bruto-marza-marketing-budzet-roi-srbija-2026) i [kapaciteta prodaje](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026): koliko firma zaista može da obradi i koliko sme da plati za validan razgovor.
+
+Dobar sledeći korak posle uspešnog testa nije odmah dupliranje. Bolje je povećati budžet u jasnom segmentu, zadržati isto praćenje i gledati da li dodatni novac kupuje isti kvalitet. Ako se kvalitet pogorša, to je signal da je granica bliže nego što izgleda u prosečnom CPL-u.
+
+## Kako Platinum Zenith testira novu ponudu
+
+Kada radimo test za novu ponudu, prvo definišemo šta test mora da nauči: da li postoji potražnja, koji segment najbolje reaguje, koji prigovor koči kupovinu, koji podaci moraju biti u formi i koliko ozbiljan razgovor sme da košta. Zatim odvajamo test budžet od budžeta za skaliranje.
+
+U praksi to znači da ne obećavamo da će prvi mesec dokazati ceo biznis model. Prvi mesec treba da pokaže da li ponuda zaslužuje drugi krug, šta treba promeniti i gde je najbrži put do profitabilnih leadova. Ako signal ne postoji, bolje je stati i popraviti ponudu nego gurati više novca u slab funnel.
+
+Ako imate novu uslugu, paket ili tržišni segment i niste sigurni koliko budžeta ima smisla potrošiti na prvi test, pošaljite nam preko [kontakt strane](/kontakt) šta prodajete, kome, prosečnu vrednost posla, minimalnu maržu i koliko brzo možete da obradite upite. Pogledaćemo da li vam treba mali test potražnje, ozbiljniji pilot ili prvo jasnija ponuda pre oglasa.
+`,
+  },
+  {
     slug: 'sekundarni-cta-landing-strana-lead-generation-srbija-2026',
     title: 'Sekundarni CTA na landing strani 2026: kako ne izgubiti posetioce koji nisu spremni za upit',
     excerpt: 'Sekundarni CTA čuva posetioce koji još nisu spremni za glavnu formu. Evo kada ponuditi kalkulator, vodič, poziv ili lakši sledeći korak.',
