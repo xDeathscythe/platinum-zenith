@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "rezervni-marketing-budzet-korekcije-lead-generation-srbija-2026",
+    "title": "Rezervni marketing budžet u Srbiji 2026: koliko ostaviti za korekcije kampanje",
+    "excerpt": "Rezervni marketing budžet čuva kampanju kada test pokaže rupu u landing strani, tracking-u ili prodaji. Evo koliko ostaviti za korekcije.",
+    "date": "2026-06-28",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "propusteni-pozivi-iz-kampanja-leadovi-prodaja-srbija-2026",
     "title": "Propušteni pozivi iz kampanja u Srbiji 2026: zašto dobri leadovi ne postanu prodaja",
     "excerpt": "Propušten poziv iz kampanje nije samo izgubljen kontakt. Evo kako pratiti missed calls, povratni poziv, radno vreme i status leadova.",

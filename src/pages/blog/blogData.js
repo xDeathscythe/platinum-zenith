@@ -1,5 +1,84 @@
 const rawBlogPosts = [
   {
+    slug: 'rezervni-marketing-budzet-korekcije-lead-generation-srbija-2026',
+    title: 'Rezervni marketing budžet u Srbiji 2026: koliko ostaviti za korekcije kampanje',
+    excerpt: 'Rezervni marketing budžet čuva kampanju kada test pokaže rupu u landing strani, tracking-u ili prodaji. Evo koliko ostaviti za korekcije.',
+    date: '2026-06-28',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Marketing budžet', 'Lead Generation', 'ROI', 'Google Ads', 'Prodaja'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Budžet koji nema rezervu obično nema ni plan za stvarnost
+
+Jedan od čestih problema u lead generation kampanjama nije samo premali budžet. Problem je budžet koji je potrošen do poslednjeg dinara pre nego što kampanja uopšte pokaže gde škripi. Firma odvoji novac za klikove, dogovori agencijski fee, pripremi landing stranu i očekuje da prvi mesec odmah da čist odgovor: radi ili ne radi.
+
+U praksi prvi mesec često ne kaže samo da li tržište želi ponudu. On pokaže i da forma traži pogrešne informacije, da se pozivi propuštaju, da prodaja nema skriptu, da landing strana ne objašnjava cenu, ili da tracking meri previše sirove upite. Ako nema rezervnog budžeta za korekcije, tim tada bira između dva loša poteza: pustiti kampanju da troši kroz rupu ili zaustaviti test pre nego što je postao pošten test.
+
+Zato plan za [Google reklame](/google-reklame-cena) i širi [digitalni marketing](/cene-digitalnog-marketinga) ne treba gledati samo kao medijski spend. Dobar plan ima tri dela: novac za saobraćaj, novac za operativnu isporuku kampanje i mali, unapred dogovoren fond za popravke koje podaci otkriju.
+
+## Šta je rezervni marketing budžet
+
+Rezervni marketing budžet je deo novca koji se ne troši odmah na više klikova. On stoji za korekcije koje povećavaju šansu da postojeći klikovi postanu kvalifikovani leadovi i prodaja. To nije luksuzni dodatak. To je osigurač protiv najskuplje greške: kupovati saobraćaj ka funnel-u koji je očigledno nedovršen.
+
+Kod manjih kampanja taj rezervni deo može biti jednostavan: dodatna sekcija na landing strani, bolji kontakt formular, call tracking broj, kratka hvala strana, novi set oglasa, čišćenje negativnih ključnih reči ili podešavanje CRM statusa. Kod većih kampanja može uključiti posebnu landing stranu po ponudi, dodatne creative za remarketing, integraciju sa CRM-om ili brzu izmenu prodajnog procesa.
+
+Važno je da se rezerva ne koristi za nasumično dodavanje stvari. Koristi se samo kada podaci pokažu usko grlo. Ako kampanja ima dovoljno klikova, ali premalo upita, prvo se gleda poruka i landing. Ako ima upite, ali su slabi, gleda se kvalifikacija. Ako ima dobre upite, ali nema prodaje, gleda se brzina odgovora, follow-up i statusi.
+
+## Koliko novca ostaviti za korekcije
+
+Za većinu srpskih uslužnih firmi razumna početna logika je da se 10 do 20% ukupnog mesečnog testa ne zaključa unapred u klikove. Ako firma planira 1.000 evra za prvi ozbiljan mesec lead generation-a, nije uvek pametno svih 1.000 evra odmah pretvoriti u medijski spend. Često je zdravije planirati, na primer, 800 do 900 evra za saobraćaj i 100 do 200 evra za korekcije koje test otkrije.
+
+To ne znači da svaka kampanja mora potrošiti rezervu. Ako landing radi, tracking je čist, prodaja odgovara brzo i leadovi su kvalifikovani, rezerva može ostati za sledeći mesec ili za kontrolisano skaliranje. Ali ako se pojavi rupa, firma ne mora da pregovara sama sa sobom da li sme da popravi očigledan problem. Novac je već predviđen.
+
+Tekst o [test budžetu za novu ponudu](/blog/test-budzet-za-novu-ponudu-lead-generation-srbija-2026) pokriva šta prvi spend treba da dokaže. Rezervni budžet je sledeći sloj: kako reagovati kada test ne padne zato što tržište ne postoji, nego zato što jedan deo sistema koči rezultat.
+
+## Kada rezerva spašava kampanju, a kada samo produžava problem
+
+Rezervni budžet ima smisla kada se problem može jasno imenovati. Na primer: cena na landing strani nije dovoljno jasna, forma ne pita lokaciju i rok, oglasi dovode preširoku nameru, call tracking nije podešen, ili prodaja ne zna koji lead je došao iz koje kampanje. To su popravljive stvari.
+
+Rezerva ne treba da služi za produžavanje loše ponude. Ako nema dovoljno potražnje, ako je cena potpuno van tržišta, ako firma ne može isporučiti ono što oglašava, ili ako vlasnik ne želi da menja prodajni proces, dodatni novac samo kupuje još dokaza da sistem nije spreman. Česta greška je da se svaki problem leči sa još budžeta, umesto sa boljom dijagnozom.
+
+Zato je korisno imati stop/continue pravila. Ako se posle dovoljno klikova ne dobija ni minimalan broj relevantnih upita, rezerva ide u landing i poruku. Ako upiti postoje, ali su nekvalifikovani, rezerva ide u formu, kvalifikaciona pitanja i negativne ključne reči. Ako kvalifikovani upiti postoje, ali prodaja kasni, rezerva ide u proces odgovora, CRM i follow-up.
+
+## Rezerva mora biti povezana sa merljivim uskim grlom
+
+Najgori način korišćenja rezerve je kreativno lutanje: promeni boju dugmeta, napiši još tri oglasa, dodaj novu platformu, pusti remarketing bez jasnog razloga. To obično pravi više buke, ne više prodaje. Rezervni budžet treba vezati za jedno pitanje: gde trenutno gubimo najviše komercijalne namere?
+
+Ako se problem vidi pre forme, korisne su izmene prvog ekrana, ponude, dokaza poverenja ili cenovnog okvira. Ako se problem vidi u formi, pomaže bolja [kvalifikacija leadova](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026). Ako se problem vidi posle upita, pomažu prvi odgovor, vlasništvo leadova i CRM statusi. Ako se problem vidi u izveštaju, prvo treba srediti [praćenje konverzija](/blog/pracenje-konverzija-lead-generation-srbija-2026), jer se bez toga ne zna šta se popravlja.
+
+Ovo se dobro uklapa sa tekstom o [raspodeli marketing budžeta](/blog/raspodela-marketing-budzeta-oglasi-sajt-prodaja-srbija-2026). Nije pitanje da li novac ide u oglase ili sajt ili prodaju. Pitanje je koji deo funnel-a trenutno najviše ograničava profitabilan rast.
+
+## Primer iz prakse: budžet od 1.500 evra
+
+Zamislimo firmu koja prodaje skuplju uslugu i planira 1.500 evra za prvi mesec. Česta verzija plana izgleda ovako: 1.200 evra oglasi, 300 evra agencija ili operativni rad, nula evra za korekcije. Ako se posle dve nedelje vidi da forma ne razlikuje ozbiljne upite od radoznalih, nema prostora za popravku bez novog dogovora. Kampanja nastavlja da kupuje iste slabe razgovore.
+
+Zdraviji plan može izgledati ovako: 1.050 do 1.150 evra za saobraćaj, 250 do 300 evra za operativni rad i 100 do 200 evra kao rezervni fond. Taj fond ne menja ekonomiku ako sve radi. Ali ako se pojavi očigledna rupa, može odmah da se iskoristi za novu sekciju na landing strani, dodatna pitanja u formi, podešavanje tracking-a ili kratak remarketing segment za posetioce koji su gledali cenu, ali nisu poslali upit.
+
+U oba plana ukupna cifra je slična. Razlika je u tome što drugi plan priznaje da kampanja nije laboratorijski eksperiment. Ljudi klikću sa različitim namerama, prodaja ima ograničen kapacitet, a tržište često pokaže detalj koji nije bio vidljiv u internoj pripremi.
+
+## Kada rezervu pretvoriti u skaliranje
+
+Ako kampanja ima dovoljno podataka, kvalifikovani upiti se pojavljuju, prodaja odgovara brzo, a prihvatljiv CPL i CAC su u granicama, rezerva ne mora ostati parkirana. Tada se može pretvoriti u kontrolisano povećanje spend-a. Ali taj korak treba odvojiti od početnog testa.
+
+Drugim rečima, prvo se popravlja ono što curi. Tek onda se dodaje novac. Tekst o [inkrementalnom marketing budžetu](/blog/inkrementalni-marketing-budzet-roi-lead-generation-srbija-2026) objašnjava zašto sledećih 20 ili 30% budžeta treba meriti odvojeno. Dodatni spend nije automatski profit. Može ući u skuplje aukcije, slabiju nameru ili leadove koje prodaja ne može da obradi.
+
+Ako firma ne zna da li je problem u potražnji, landing strani, tracking-u ili prodaji, povećanje budžeta je samo brži način da se potroši novac. Ako zna gde je usko grlo i već ga je popravila, dodatni budžet ima mnogo bolju šansu da donese rast.
+
+## Kako Platinum Zenith planira budžet sa rezervom
+
+Kada radimo plan kampanje, ne volimo budžete koji izgledaju lepo samo u tabeli. Bitno je šta se dešava kada prva nedelja pokaže realnost. Zato budžet povezujemo sa funnel-om: ponuda, landing strana, tracking, forma, prodajni odgovor, kapacitet i prag za skaliranje.
+
+Ako već imate okviran mesečni budžet, dobar sledeći korak nije samo pitanje koliko novca ide na oglase. Bolje pitanje je: šta ćemo popraviti ako klikovi dođu, a leadovi ne budu dovoljno dobri? Ako odgovor ne postoji, budžet još nije plan, nego cifra.
+
+Pošaljite nam preko [kontakt strane](/kontakt) planirani mesečni budžet, uslugu koju želite da gurate, prosečnu vrednost posla, maržu, trenutni način praćenja upita i koliko brzo prodaja odgovara. Pogledaćemo da li ima smisla sav novac staviti u saobraćaj ili treba ostaviti rezervu za korekcije koje najčešće odluče da li kampanja postaje profitabilan sistem.
+`,
+  },
+  {
     slug: 'propusteni-pozivi-iz-kampanja-leadovi-prodaja-srbija-2026',
     title: 'Propušteni pozivi iz kampanja u Srbiji 2026: zašto dobri leadovi ne postanu prodaja',
     excerpt: 'Propušten poziv iz kampanje nije samo izgubljen kontakt. Evo kako pratiti missed calls, povratni poziv, radno vreme i status leadova.',
