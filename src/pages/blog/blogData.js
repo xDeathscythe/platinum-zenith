@@ -1,5 +1,90 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-molere-i-gipsare-cena-upita-srbija-2026',
+    title: 'Google Ads za molere i gipsare u Srbiji 2026: cena upita i budžet',
+    excerpt: 'Google Ads za molere i gipsare treba meriti po kvadraturi, lokaciji, terminu, izlasku na procenu i prihvaćenoj ponudi, ne po sirovim pozivima.',
+    date: '2026-06-27',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Moleri', 'Gipsari', 'Lead Generation', 'Lokalni marketing'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Molerski i gipsarski poslovi ne smeju se meriti samo po pozivu
+
+Moleri i gipsari često imaju isti problem sa oglasima: telefon zazvoni, ljudi pitaju okvirnu cenu, pošalju dve nejasne fotografije i nestanu. Na papiru kampanja ima upite. U praksi ekipa troši vreme na procene koje nikada ne postanu posao, ili dobija poslove sa premalom kvadraturom, lošim terminom i slabom maržom.
+
+Česta greška u ovoj niši je da se svaki poziv tretira kao lead iste vrednosti. Upit za krečenje jedne sobe nije isti kao adaptacija celog stana. Spušteni plafon u praznom lokalu nije isto što i hitna popravka posle curenja vode u nameštenom stanu. Ako se sve meri samo kroz cenu poziva, Google Ads vrlo brzo počne da izgleda jeftinije nego što stvarno jeste.
+
+Zato [Google reklame](/google-reklame-cena) za molere i gipsare treba planirati oko kvalifikovanog projekta: kvadratura, lokacija, rok, stanje prostora, tip radova, mogućnost izlaska na procenu i verovatnoća prihvaćene ponude. U širem [digitalnom marketingu](/cene-digitalnog-marketinga) cilj nije više pitanja, nego više poslova koje ekipa može profitabilno da izvede.
+
+## Koji upiti imaju komercijalnu vrednost
+
+Dobar upit za molersko-gipsarske radove obično ima konkretan prostor, okvirnu kvadraturu, lokaciju, rok i jasnu vrstu posla. Na primer: krečenje stana od 70 kvadrata pre useljenja, gletovanje i krečenje lokala, spušteni plafon sa rasvetom, sanacija zidova posle vlage, ili kompletna završna obrada posle renoviranja.
+
+Slab upit najčešće zvuči neodređeno: koliko košta krečenje, radite li danas, može li najjeftinije, pošaljite cenu bez gledanja, imam mali posao ali daleko je, ili samo tražim ideje. Neki od tih ljudi mogu postati klijenti, ali kampanja ne sme optimizovati prema njima kao da su jednako vredni kao ozbiljan projekat.
+
+Zbog toga je bitno da se već na landing strani objasni šta utiče na cenu: stanje zidova, zaštita nameštaja, visina plafona, broj slojeva, gipsarski radovi, materijal, lokacija i hitnost. Kada posetilac razume okvir, prodaja ne mora svaki razgovor da počinje od nule.
+
+## Kako podeliti kampanje za molere i gipsare
+
+Najlošiji pristup je jedna kampanja sa širokim ključnim rečima za sve: moler, gipsar, krečenje, gletovanje, spušteni plafoni, adaptacija. Tada se mešaju hitni mali poslovi, ozbiljne adaptacije, ljudi koji traže majstora za dnevnicu i oni koji porede slike za inspiraciju.
+
+Bolje je kampanje podeliti po nameri i vrednosti posla. Jedna grupa može biti krečenje stanova i kuća. Druga gletovanje, sanacija zidova i priprema površina. Treća gipsarski radovi: spušteni plafoni, pregradni zidovi, niše i rasveta. Četvrta može biti B2B i komercijalni prostori: lokali, kancelarije, ordinacije, apartmani i objekti koji se spremaju za izdavanje.
+
+Ovakva podela pomaže da oglas obeća tačno ono što stranica objašnjava. Ako neko traži gipsarske radove, ne treba da sleti na generičku stranu za sve završne radove. Ako neko traži krečenje stana u Beogradu, treba odmah da vidi zonu rada, šta ulazi u cenu i kako izgleda procena.
+
+## Šta forma treba da pita pre procene
+
+Kod molera i gipsara forma ne treba da bude duga kao tehnički projekat, ali mora ukloniti najveću maglu. Minimalno treba pitati: grad ili opština, tip prostora, približna kvadratura, vrsta radova, stanje prostora, željeni rok, da li su potrebne fotografije ili izlazak na procenu i najbolji kontakt kanal.
+
+Ako firma radi samo određene zone, to mora biti jasno. Ako ne radi sitne intervencije ispod minimalne vrednosti, i to treba reći pažljivo. Mnogo je skuplje pustiti kampanju da generiše deset poziva za poslove koje ekipa nikada ne bi prihvatila, nego odmah filtrirati očekivanja.
+
+Ovo se direktno naslanja na [kvalifikaciju kontakt forme](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026). Forma ne služi da oteža kontakt ozbiljnom kupcu. Ona služi da prodaja zna da li treba brzo pozvati, tražiti slike, zakazati izlazak ili ljubazno odbiti posao koji nije fit.
+
+## Negativne ključne reči koje štede budžet
+
+Molersko-gipsarske kampanje lako pokupe pretrage koje ne donose posao. Treba paziti na reči oko poslova, dnevnica, plata, kurseva, oglasa za majstore, sam svoj majstor tutorijala, slika i ideja, materijala bez usluge, alata, polovnih mašina i opštih saveta. Ako firma ne radi određene gradove ili sitne popravke, i te pojmove treba kontrolisati.
+
+Posebno su opasne preširoke fraze kao dekoracija zidova, ideje za plafon ili kako okrečiti sobu. One mogu imati puno pretrage, ali često ne znače da osoba želi da angažuje ekipu. Nekad su korisne za SEO sadržaj, ali za direktan lead generation budžet obično prave šum.
+
+Dobar nalog stalno čisti search terms. Ako se ponavljaju ljudi koji traže posao, materijal ili besplatne savete, to nije loša sreća. To je znak da kampanja nije dovoljno precizna.
+
+## Koliko vredi jedan dobar upit
+
+Cena upita nema smisla bez vrednosti posla. Ako prosečan prihvaćen posao donosi 300 evra bruto profita, maksimalan CPL je potpuno drugačiji nego kod projekta koji donosi 2.000 evra bruto profita. Zato moleri i gipsari ne treba da gledaju samo prosečan trošak poziva, već odnos između upita, procene, poslate ponude, prihvaćenog posla i marže.
+
+Tekst o [bruto marži](/blog/bruto-marza-marketing-budzet-roi-srbija-2026) je koristan okvir: prihod od posla nije isto što i profit. Treba uračunati materijal, dnevnice, prevoz, zaštitu prostora, dodatne izlaske, vreme za procenu i rizik da se posao produži.
+
+Isto važi za [CPL i CAC](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026). Jeftin poziv nije uspeh ako od deset poziva nijedan ne prihvati ponudu. Skuplji upit može biti odličan ako vodi do ozbiljnog projekta, dobre lokacije i termina koji popunjava rupu u rasporedu.
+
+## Landing strana mora smanjiti pogrešna očekivanja
+
+Mnoge firme iz građevinskih i završnih radova vode klikove na opštu početnu stranu. Tu posetilac vidi slike, par rečenica o kvalitetu i dugme za poziv. Problem je što ne sazna šta firma tačno radi, koje zone pokriva, za koje projekte je najbolja i šta treba poslati za okvirnu procenu.
+
+Za molere i gipsare landing strana treba da ima jasne blokove: vrste radova, primeri prostora, šta utiče na cenu, kako izgleda proces, kada je potreban izlazak, koje informacije skraćuju procenu i zašto nije svaki posao moguće proceniti telefonom. Ako postoje fotografije pre i posle, treba ih koristiti kao dokaz, ali uz kontekst, ne samo kao galeriju.
+
+Slična logika važi za druge home-improvement niše poput [PVC stolarije](/blog/google-ads-za-pvc-stolariju-cena-upita-srbija-2026), [keramičara](/blog/google-ads-za-keramicare-cena-leada-srbija-2026) i firmi za [ograde i kapije](/blog/google-ads-za-ograde-i-kapije-cena-upita-srbija-2026). Kupac ne kupuje klik. Kupuje sigurnost da će posao biti urađen u pravom roku, sa jasnom cenom i bez neprijatnih iznenađenja.
+
+## Kada povećati budžet
+
+Budžet ima smisla povećati tek kada se vidi da kampanja donosi upite iz zona koje firma pokriva, za poslove koje želi da radi, sa dovoljno informacija za brzu procenu. Ako je prodaja spora, nema evidenciju statusa ili ne zna koji oglasi donose prihvaćene ponude, veći budžet samo uvećava haos.
+
+Ovo je posebno važno kada ekipa ima ograničen kapacitet. Molersko-gipsarski posao zavisi od ljudi, termina i organizacije na terenu. Ako kampanja dovede više upita nego što firma može da obiđe i proceni, deo kvalitetnih prilika se ohladi. Zato treba povezati oglase sa realnim [kapacitetom prodaje](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026) i rasporedom izvođenja.
+
+Dobar znak za skaliranje nije samo nizak CPL. Dobar znak je kada se ponavlja isti obrazac: jasni upiti, realni rokovi, prihvatljiva lokacija, ponude koje se šalju brzo i dovoljan procenat prihvaćenih poslova.
+
+## Kako Platinum Zenith postavlja oglase za ovakve firme
+
+Kada gledamo Google Ads za molere, gipsare ili slične lokalne usluge, prvo odvajamo posao koji firma zaista želi od posla koji samo puni telefon. Zatim pravimo strukturu kampanja po nameri, sređujemo landing poruku, definišemo kvalifikaciona pitanja i povezujemo praćenje sa statusima: poziv, kvalifikovan upit, zakazana procena, poslata ponuda, prihvaćen posao.
+
+Ako imate molersku, gipsarsku ili završno-građevinsku firmu i želite da znate da li Google Ads može da donese bolje upite, pošaljite nam preko [kontakt strane](/kontakt) koje radove radite, koje gradove pokrivate, prosečnu vrednost posla, minimalnu kvadraturu i koliko procena možete da obradite nedeljno. Pogledaćemo da li vam treba uža kampanja, bolja forma, jasniji cenovni okvir ili potpuno nova landing strana.
+`,
+  },
+  {
     slug: 'test-budzet-za-novu-ponudu-lead-generation-srbija-2026',
     title: 'Test budžet za novu ponudu u Srbiji 2026: kako proveriti potražnju bez bacanja novca',
     excerpt: 'Test budžet za novu ponudu mora dokazati potražnju, kvalitet leadova i prodajni fit pre skaliranja. Evo šta meriti i kada zaustaviti kampanju.',

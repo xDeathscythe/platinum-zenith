@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-molere-i-gipsare-cena-upita-srbija-2026",
+    "title": "Google Ads za molere i gipsare u Srbiji 2026: cena upita i budžet",
+    "excerpt": "Google Ads za molere i gipsare treba meriti po kvadraturi, lokaciji, terminu, izlasku na procenu i prihvaćenoj ponudi, ne po sirovim pozivima.",
+    "date": "2026-06-27",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "test-budzet-za-novu-ponudu-lead-generation-srbija-2026",
     "title": "Test budžet za novu ponudu u Srbiji 2026: kako proveriti potražnju bez bacanja novca",
     "excerpt": "Test budžet za novu ponudu mora dokazati potražnju, kvalitet leadova i prodajni fit pre skaliranja. Evo šta meriti i kada zaustaviti kampanju.",
