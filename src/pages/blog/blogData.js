@@ -1,5 +1,84 @@
 const rawBlogPosts = [
   {
+    slug: 'propusteni-pozivi-iz-kampanja-leadovi-prodaja-srbija-2026',
+    title: 'Propušteni pozivi iz kampanja u Srbiji 2026: zašto dobri leadovi ne postanu prodaja',
+    excerpt: 'Propušten poziv iz kampanje nije samo izgubljen kontakt. Evo kako pratiti missed calls, povratni poziv, radno vreme i status leadova.',
+    date: '2026-06-27',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Lead Generation', 'Prodaja', 'Google Ads', 'Call Tracking', 'Funnel'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Kampanja ne može da proda ako se telefon ne zatvori
+
+Jedan od najskupljih problema u lead generation kampanjama često izgleda bezazleno: telefon zvoni, niko se ne javi, lead ode dalje. U izveštaju se vidi klik, možda čak i poziv. U prodaji se posle čuje rečenica da ljudi samo zovu i nestanu. Realno, deo tih ljudi nije nestao. Samo je firma zakasnila.
+
+Česta greška kod uslužnih firmi je da se propušteni poziv tretira kao tehnički detalj, a ne kao rupa u prodajnom funnel-u. Kampanja dovede osobu sa namerom, landing strana je ubedi da zove, a onda ceo sistem zavisi od toga da li je neko u tom trenutku slobodan. Ako nije, budžet kupuje priliku koju niko ne preuzima.
+
+Zato [Google reklame](/google-reklame-cena) ne treba meriti samo po broju poziva, formi ili WhatsApp poruka. U širem [digitalnom marketingu](/cene-digitalnog-marketinga) bitno je znati koliko poziva je odgovoreno, koliko je propušteno, koliko je vraćeno na vreme i koliko ih je završilo u kvalifikovanom razgovoru.
+
+## Zašto propušten poziv nije isto što i loš lead
+
+Kada neko klikne oglas i odmah pozove, često ima jaču nameru nego posetilac koji samo čita stranicu. Možda mu treba termin, cena, procena, rezervacija ili hitna intervencija. Ako se niko ne javi, osoba ne mora čekati. Sledeći rezultat na Google-u je udaljen jedan dodir.
+
+Problem nastaje kada firma propuštene pozive stavi u isti koš sa lošim leadovima. Kaže se: kampanja donosi ljude koji nisu ozbiljni. A zapravo se ne zna da li su ljudi bili ozbiljni, jer razgovor nije ni održan. Još gore, ako se poziv vrati posle tri sata, lead je možda već zakazao kod konkurencije.
+
+Ovo je posebno opasno kod lokalnih usluga, medicinskih pregleda, popravki, edukacija, događaja i skupljih konsultacija. Kupac ne zove uvek zato što želi najnižu cenu. Često zove zato što želi da potvrdi da je firma dostupna, profesionalna i sposobna da ga uvede u sledeći korak.
+
+## Šta treba meriti pre nego što okrivite kampanju
+
+Pre nego što se zaključi da su oglasi loši, treba izmeriti osnovne statuse poziva. Koliko ukupno poziva dolazi iz kampanje? Koliko je odgovoreno? Koliko je propušteno? Koliko je trajalo kraće od 20 sekundi? Koliko je vraćeno u prvih 5, 15 ili 60 minuta? Koliko je završilo kao kvalifikovan upit, zakazan termin, poslata ponuda ili prodaja?
+
+Bez ovoga prosečan CPL može potpuno prevariti. Kampanja može imati solidan broj kvalitetnih poziva, ali prodaja vidi samo haos jer niko ne razlikuje odgovorene od propuštenih. Sa druge strane, kampanja može izgledati jeftino zato što meri svaki klik na broj telefona kao konverziju, iako se polovina poziva nikada ne desi kao razgovor.
+
+Ovo se direktno povezuje sa [praćenjem konverzija](/blog/pracenje-konverzija-lead-generation-srbija-2026) i tekstom o [kvalifikovanim konverzijama](/blog/kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026). Nije dovoljno znati da je neko kliknuo na telefon. Treba znati da li je poziv postao poslovna prilika.
+
+## Radno vreme kampanje mora pratiti radno vreme prodaje
+
+Mnoge firme puštaju oglase ceo dan jer žele da uhvate što više potražnje. To nije pogrešno ako postoji proces za posle radnog vremena. Ali ako niko ne odgovara uveče, vikendom ili tokom pauze, kampanja tada ne kupuje samo leadove. Kupuje i frustraciju.
+
+Najjednostavnije pravilo je: ako poziv ne može biti odgovoren, mora postojati zamena. To može biti forma sa jasnim obećanjem kada se firma javlja, WhatsApp poruka sa automatskim odgovorom, opcija za zakazivanje termina, ili kampanja koja se sužava na sate kada prodaja stvarno može da reaguje.
+
+Nije svaki biznis isti. Hitne usluge ne mogu lako gasiti večernje pretrage. Poliklinike, škole, servisi i B2B firme često mogu pametnije podesiti raspored. Bitno je da se odluka ne donosi napamet, nego iz podataka: u kojim satima dolaze pozivi, koliko ih se propušta i koliko vredi povratni poziv.
+
+## Povratni poziv ima rok trajanja
+
+Kada se propušten poziv vrati posle dva dana, to više nije isti lead. Kupac je već uporedio opcije, zaboravio oglas ili rešio problem. Zato proces ne sme biti samo imamo listu propuštenih poziva. Mora postojati pravilo ko vraća poziv, kojim redosledom, za koliko minuta i šta kaže u prvoj rečenici.
+
+Dobra prva rečenica ne zvuči kao izvinjenje bez konteksta. Bolje je: Vidim da ste nas zvali zbog procene za uslugu, da li je još aktuelno da vam pomognemo oko toga? Zatim se odmah prelazi na 2 do 3 pitanja koja menjaju odluku: lokacija, rok, tip usluge, budžet ili problem koji treba rešiti.
+
+Ovo je blisko tekstu o [prvom odgovoru na lead](/blog/prvi-odgovor-na-lead-prodajna-skripta-srbija-2026). Brzina je važna, ali nije dovoljna. Ako se povratni poziv pretvori u generičko koliko mogu da pomognem, firma opet propušta šansu da vodi razgovor.
+
+## Ko treba da bude vlasnik propuštenih poziva
+
+Propušteni pozivi često propadaju jer nisu ničiji posao. Marketing kaže da je doveo poziv. Prodaja kaže da nije stigla. Recepcija kaže da je bila gužva. Vlasnik firme vidi potrošen budžet i oseća da kampanja ne radi.
+
+Rešenje je jednostavno, ali mora biti dogovoreno. Svaki propušten poziv treba imati status: nov, vraćen, nije se javio, kvalifikovan, zakazan sledeći korak, neodgovarajući, izgubljen. Ako postoji CRM, status ide tamo. Ako nema CRM-a, makar u zajedničku tabelu. Bez statusa nema učenja.
+
+Tekst o [vlasništvu leadova](/blog/vlasnistvo-leadova-marketing-prodaja-srbija-2026) objašnjava isti problem iz šireg ugla. Lead mora imati vlasnika, rok i sledeću akciju. Inače se budžet meri po nameri kupca, a ne po sposobnosti firme da tu nameru obradi.
+
+## Kada treba koristiti forme umesto poziva
+
+Neke firme forsiraju poziv jer deluje kao najbliži prodaji. To ima smisla kada prodaja može brzo da se javi i kada razgovor skraćuje odluku. Ali ako je telefon stalno zauzet, forma može biti bolji prvi korak za deo saobraćaja.
+
+Forma ne mora ubiti konverziju ako traži prave informacije i jasno kaže šta sledi. Na primer: pošaljite lokaciju, tip usluge, željeni rok i kontakt, odgovaramo danas do 17h. Takva forma može spasiti lead koji bi inače samo čuo zauzet signal ili čekao bez odgovora.
+
+Zato je korisno kombinovati primarni CTA i lakši sekundarni korak. Tekst o [sekundarnom CTA-u](/blog/sekundarni-cta-landing-strana-lead-generation-srbija-2026) je dobar okvir: ne moraju svi posetioci odmah u isti kanal. Bitno je da svaki kanal ima praćenje i odgovornost.
+
+## Kako Platinum Zenith zatvara ovu rupu u funnel-u
+
+Kada analiziramo kampanju koja ima pozive, ali nema dovoljno prodaje, ne krećemo od pretpostavke da su klikovi loši. Prvo gledamo put: oglas, landing strana, klik na telefon, odgovoreni pozivi, propušteni pozivi, vreme povratnog poziva, status razgovora i sledeći korak. Tek onda ima smisla menjati budžet, ključne reči ili ponudu.
+
+U praksi često ispadne da nije potreban veći budžet, nego čvršći handoff. Jasnije radno vreme kampanje. Bolji call tracking. Kraća forma za van radnog vremena. Pravilo za povratni poziv. CRM status koji razlikuje propušten poziv od lošeg lead-a. Tek kada to radi, ima smisla povećavati spend.
+
+Ako imate kampanju koja donosi pozive, ali se prodaja ne vidi u rezultatima, pošaljite nam preko [kontakt strane](/kontakt) kako trenutno pratite pozive, ko ih vraća, koje radno vreme pokrivaju oglasi i koliko brzo prodaja reaguje. Pogledaćemo da li problem stvarno leži u oglasima ili u delu funnel-a gde se dobar lead ohladi pre prvog razgovora.
+`,
+  },
+  {
     slug: 'google-ads-za-molere-i-gipsare-cena-upita-srbija-2026',
     title: 'Google Ads za molere i gipsare u Srbiji 2026: cena upita i budžet',
     excerpt: 'Google Ads za molere i gipsare treba meriti po kvadraturi, lokaciji, terminu, izlasku na procenu i prihvaćenoj ponudi, ne po sirovim pozivima.',

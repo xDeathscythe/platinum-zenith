@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "propusteni-pozivi-iz-kampanja-leadovi-prodaja-srbija-2026",
+    "title": "Propušteni pozivi iz kampanja u Srbiji 2026: zašto dobri leadovi ne postanu prodaja",
+    "excerpt": "Propušten poziv iz kampanje nije samo izgubljen kontakt. Evo kako pratiti missed calls, povratni poziv, radno vreme i status leadova.",
+    "date": "2026-06-27",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-molere-i-gipsare-cena-upita-srbija-2026",
     "title": "Google Ads za molere i gipsare u Srbiji 2026: cena upita i budžet",
     "excerpt": "Google Ads za molere i gipsare treba meriti po kvadraturi, lokaciji, terminu, izlasku na procenu i prihvaćenoj ponudi, ne po sirovim pozivima.",
