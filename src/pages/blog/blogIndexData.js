@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "minimalna-vrednost-posla-marketing-budzet-srbija-2026",
+    "title": "Minimalna vrednost posla i marketing budžet u Srbiji 2026: kada lead nije isplativ",
+    "excerpt": "Minimalna vrednost posla određuje da li lead može biti profitabilan. Evo kako povezati CPL, maržu, prodajno vreme i kvalifikaciju pre skaliranja.",
+    "date": "2026-06-29",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "jedna-landing-strana-za-sve-kampanje-konverzija-srbija-2026",
     "title": "Jedna landing strana za sve kampanje u Srbiji 2026: zašto leadovi ne kupuju",
     "excerpt": "Jedna landing strana za sve kampanje često razvodni poruku, formu i CTA. Evo kada napraviti posebnu stranu po ponudi, nameri i izvoru.",

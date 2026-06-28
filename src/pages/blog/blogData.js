@@ -1,5 +1,92 @@
 const rawBlogPosts = [
   {
+    slug: 'minimalna-vrednost-posla-marketing-budzet-srbija-2026',
+    title: 'Minimalna vrednost posla i marketing budžet u Srbiji 2026: kada lead nije isplativ',
+    excerpt: 'Minimalna vrednost posla određuje da li lead može biti profitabilan. Evo kako povezati CPL, maržu, prodajno vreme i kvalifikaciju pre skaliranja.',
+    date: '2026-06-29',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Marketing budžet', 'Lead Generation', 'ROI', 'CPL', 'Prodaja'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Lead može biti skup i kada mu je CPL nizak
+
+Jedna od čestih grešaka u lead generation kampanjama je da se isplativost meri samo po ceni upita. Firma vidi da lead košta 8, 12 ili 20 evra i zaključi da kampanja radi. Problem nastaje kada se posle prodaje pokaže da veliki deo tih upita vodi ka sitnim poslovima, malim paketima, uslugama sa tankom maržom ili razgovorima koji nikada nisu mogli da pokriju vreme tima.
+
+Nizak CPL zvuči dobro dok se ne postavi jednostavno pitanje: kolika minimalna vrednost posla mora da postoji da bi taj lead imao smisla? Ako kampanja kupuje upite za poslove od 50 evra, a prodaja potroši pola sata na svaki razgovor, računica se brzo menja. Nije problem samo cena klika. Problem je što budžet kupuje prilike koje ne mogu finansirati marketing, prodaju i isporuku.
+
+Zato [Google reklame](/google-reklame-cena) i širi [digitalni marketing](/cene-digitalnog-marketinga) treba planirati od poslovne vrednosti unazad. Kampanja ne treba da dovede najviše upita. Treba da dovede dovoljno upita koji mogu postati poslovi sa zdravom vrednošću, maržom i šansom za zatvaranje.
+
+## Šta znači minimalna vrednost posla
+
+Minimalna vrednost posla je donja granica ispod koje lead nije komercijalno zanimljiv, čak i ako je osoba realna i pristojna. To nije kazna za male kupce. To je poslovni filter. Svaka firma ima trošak akvizicije, vreme prodaje, operativnu isporuku, administraciju, komunikaciju i rizik da se posao ne zatvori.
+
+Na primer, ako uslužna firma zarađuje 120 evra bruto profita na malom poslu, ne može plaćati 40 evra po leadu ako zatvara svaki četvrti kvalifikovan upit. Sam marketing bi tada trošio oko 160 evra za jednog kupca, pre vremena prodaje i isporuke. Na papiru je CPL možda prihvatljiv. U stvarnosti posao gubi novac.
+
+Zato tekst o [CPL-u i CAC-u](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026) ne treba ostati samo teorija. CPL je cena razgovora. CAC je cena kupca. Minimalna vrednost posla govori da li taj kupac uopšte ima dovoljno prostora da pokrije CAC i ostavi profit.
+
+## Zašto prosečna vrednost zavara kampanju
+
+Mnogo firmi gleda prosečnu vrednost posla i tu se izgubi detalj. Ako prosečan posao vredi 500 evra, a polovina upita zapravo traži sitnu intervenciju od 70 evra, kampanja može izgledati bolje nego što jeste. Veći poslovi podignu prosek, ali prodaja i dalje troši vreme na veliki broj malih razgovora.
+
+Druga greška je mešanje različitih ponuda u isti izveštaj. Jedna usluga ima dobru maržu, druga je ulazni paket, treća traži mnogo objašnjavanja, četvrta se zatvara brzo. Kada se sve spoji u jedan CPL, tim ne vidi koje ponude stvarno nose profit. Tekst o [profitabilnosti ponuda](/blog/profitabilnost-ponuda-marketing-budzet-lead-generation-srbija-2026) pokriva baš taj problem: budžet može kupovati najlakše leadove za pogrešne ponude.
+
+Minimalna vrednost posla vraća disciplinu u izveštaj. Umesto pitanja koliko leadova smo dobili, pitanje postaje: koliko leadova je bilo za poslove iznad praga koji ima smisla?
+
+## Kako izračunati prag isplativog leada
+
+Ne mora se početi komplikovanom finansijskom tabelom. Dovoljno je definisati četiri broja: bruto profit po tipu posla, stopu zatvaranja kvalifikovanih leadova, maksimalni CAC koji firma može podneti i vreme koje prodaja troši po razgovoru.
+
+Ako posao donosi 300 evra bruto profita, a firma želi da akvizicija ne pojede više od trećine tog profita, maksimalni CAC je oko 100 evra. Ako se zatvara svaki četvrti kvalifikovan lead, prihvatljiv CPL pre dodatnih troškova je oko 25 evra. Ako prodaja na svaki lead troši 20 minuta, a mnogo upita je ispod minimalne vrednosti posla, realni prag je još stroži.
+
+Tu se povezuju [bruto marža](/blog/bruto-marza-marketing-budzet-roi-srbija-2026), [stopa zatvaranja leadova](/blog/stopa-zatvaranja-leadova-marketing-budzet-srbija-2026) i [maksimalni CPL](/blog/maksimalna-cena-leada-srbija-2026). Bez ova tri elementa, budžet se često postavlja po osećaju: koliko možemo da izdvojimo ovog meseca. To nije plan. To je ograničenje potrošnje.
+
+## Kako kampanja privlači poslove ispod praga
+
+Kampanja obično ne privlači male poslove slučajno. Često ih sama dozove. Preširoke ključne reči, generičan oglas, landing strana bez cenovnog okvira i forma bez kvalifikacionih pitanja šalju signal da je svaki upit podjednako poželjan. Onda algoritam i tržište urade svoje: stiže više lakih razgovora, ali ne nužno više profitabilnih kupaca.
+
+Čest primer je oglas koji naglašava najnižu cenu, popust ili brzo rešenje, a firma zapravo želi ozbiljnije projekte. Takva poruka privlači ljude koji porede samo najjeftiniju opciju. Drugi primer je landing strana koja kaže javite nam se za ponudu, ali ne objašnjava minimalni obim posla, raspon budžeta, proces ili za koga usluga nije idealna.
+
+Tekst o [cenama na sajtu](/blog/cene-na-sajtu-usluge-kvalitet-leadova-srbija-2026) je važan za ovaj deo. Cenovni okvir ne mora biti tvrd cenovnik. Može biti početna cena, raspon, minimalni paket ili objašnjenje šta utiče na cenu. Cilj nije odbiti dobre kupce. Cilj je smanjiti razgovore koji nikada nisu mogli postati isplativ posao.
+
+## Kvalifikacija pre nego što prodaja izgubi vreme
+
+Ako postoji minimalna vrednost posla, forma i prvi odgovor moraju je podržati. Forma može pitati tip usluge, lokaciju, okvirni budžet, rok, obim posla, trenutni problem i kontakt kanal. Ne mora biti duga, ali mora uhvatiti informacije koje menjaju isplativost.
+
+Za neke firme ima smisla dodati pitanje o minimalnom obimu: broj lokacija, kvadratura, vrednost projekta, broj zaposlenih, mesečni budžet ili očekivani rok. Za druge je bolje koristiti izbor paketa ili opis problema. Važno je da prodaja ne saznaje tek posle pet poruka da osoba traži nešto ispod praga koji firma ne može profitabilno da radi.
+
+Ovde pomažu [kvalifikacija kroz kontakt formu](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026), [lead scoring](/blog/lead-scoring-prioritet-upita-prodaja-srbija-2026) i [kapacitet prodaje](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026). Ako tim ima ograničen broj razgovora dnevno, prvi pozivi treba da idu leadovima koji imaju najveću šansu za profitabilan posao, ne samo onima koji su prvi stigli.
+
+## Šta raditi sa upitima ispod minimalne vrednosti
+
+Minimalna vrednost posla ne znači da svaki manji upit treba grubo odbiti. Nekada mali upit vodi ka većem poslu kasnije, preporuci ili ponovnoj kupovini. Ali to treba biti svesna odluka, ne skriveni trošak u kampanji.
+
+Postoje tri zdrava pristupa. Prvi je jasan filter: firma ne radi poslove ispod određenog obima i to kulturno komunicira. Drugi je standardizovan mali paket koji se prodaje brzo, sa malo prodajnog vremena i bez mnogo prilagođavanja. Treći je nurture putanja: osoba dobije vodič, cenovni okvir ili sekundarni CTA, ali ne zauzima isti prodajni kapacitet kao ozbiljan lead.
+
+Problem nastaje kada svaki upit dobije isti tretman. Tada jeftini razgovori pojedu vreme koje je trebalo da ide ka jačim prilikama. Kampanja se u izveštaju hvali volumenom, a prodaja oseća da radi mnogo za malo rezultata.
+
+## Kada povećati budžet, a kada popraviti filtere
+
+Ako kampanja dovodi dosta leadova ispod minimalne vrednosti posla, povećanje budžeta obično samo uvećava problem. Pre skaliranja treba popraviti poruku, ključne reči, negativne ključne reči, landing stranu, formu i statusiranje leadova. Tek kada se vidi da veći deo kvalifikovanih upita prelazi komercijalni prag, ima smisla razgovarati o dodatnom spend-u.
+
+To je direktno povezano sa [inkrementalnim marketing budžetom](/blog/inkrementalni-marketing-budzet-roi-lead-generation-srbija-2026). Dodatnih 20 ili 30% budžeta nije automatski profit. Ako se dodatni novac troši na još više sitnih upita, marginalni ROI pada. Ako se troši na bolje segmentirane kampanje i profitabilnije ponude, skaliranje ima smisla.
+
+Zato u izveštaju treba odvojiti leadove ispod praga, leadove blizu praga i leadove iznad praga. To odmah menja razgovor. Nije više pitanje da li kampanja radi, nego za koje poslove radi i gde budžet treba da ide sledeće.
+
+## Kako Platinum Zenith postavlja ovaj filter
+
+Kada analiziramo lead generation za uslužne firme, ne krećemo od pitanja koliko klikova možemo kupiti. Krećemo od toga koji poslovi imaju dovoljno vrednosti da finansiraju akviziciju. Zatim povezujemo ponude, landing poruku, formu, tracking i prodajni proces sa tim pragom.
+
+Ako firma želi veće projekte, kampanja ne sme izgledati kao poziv za najjeftiniju uslugu. Ako firma može profitabilno raditi male pakete, proces mora biti dovoljno brz da ih ne pojede prodajno vreme. Ako postoji više nivoa ponude, leadovi moraju biti razvrstani pre nego što prodaja potroši dan na pogrešne razgovore.
+
+Ako trenutno dobijate leadove, ali prodaja kaže da su premali, preslabi ili neisplativi, pošaljite nam preko [kontakt strane](/kontakt) prosečnu vrednost posla, bruto maržu, trenutni CPL i koje upite smatrate dobrim. Pogledaćemo da li problem nije u količini leadova, nego u tome što kampanja nema jasan prag minimalne vrednosti posla.
+`,
+  },
+  {
     slug: 'jedna-landing-strana-za-sve-kampanje-konverzija-srbija-2026',
     title: 'Jedna landing strana za sve kampanje u Srbiji 2026: zašto leadovi ne kupuju',
     excerpt: 'Jedna landing strana za sve kampanje često razvodni poruku, formu i CTA. Evo kada napraviti posebnu stranu po ponudi, nameri i izvoru.',
