@@ -1,5 +1,84 @@
 const rawBlogPosts = [
   {
+    slug: 'jedna-landing-strana-za-sve-kampanje-konverzija-srbija-2026',
+    title: 'Jedna landing strana za sve kampanje u Srbiji 2026: zašto leadovi ne kupuju',
+    excerpt: 'Jedna landing strana za sve kampanje često razvodni poruku, formu i CTA. Evo kada napraviti posebnu stranu po ponudi, nameri i izvoru.',
+    date: '2026-06-28',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Landing strana', 'Konverzija', 'Lead Generation', 'Google Ads', 'Prodaja'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Jedna strana ne može uvek prodati pet različitih namera
+
+Česta greška u lead generation kampanjama je da se sav plaćeni saobraćaj šalje na jednu univerzalnu landing stranu. Firma ima više usluga, više tipova kupaca i više oglasa, ali svi završe na istoj strani sa opštim naslovom, opštim opisom i jednom formom. Na papiru to deluje efikasno: jedna strana, manje posla, brže puštanje kampanje.
+
+U praksi se često desi suprotno. Kampanja dovede ljude sa različitim namerama, a landing strana pokušava da bude dovoljno široka za sve. Zbog toga ne zvuči dovoljno precizno ni za koga. Posetilac koji je kliknuo na oglas za jednu konkretnu uslugu mora da traži potvrdu da je na pravom mestu. Ako je ne dobije brzo, odlazi ili šalje nejasan upit koji prodaja kasnije teško kvalifikuje.
+
+Zato [Google reklame](/google-reklame-cena) ne treba posmatrati odvojeno od landing strukture. U širem [digitalnom marketingu](/cene-digitalnog-marketinga) pitanje nije samo koliko košta klik, već da li klik stiže na stranu koja nastavlja tačno onu nameru zbog koje je osoba kliknula.
+
+## Kako univerzalna landing strana razvodni poruku
+
+Univerzalna strana obično mora da napravi kompromis. Naslov kaže nešto široko, kao kompletna usluga za rast poslovanja ili profesionalno rešenje za vašu firmu. To nije nužno netačno, ali ne odgovara na konkretno pitanje posetioca. Osoba nije tražila sve. Tražila je cenu Google Ads kampanje, izradu landing strane, bolju kvalifikaciju leadova, zakazivanje termina ili rešavanje problema sa prodajom.
+
+Kada se jedna strana koristi za više kampanja, tekst često nabraja sve mogućnosti: oglasi, sajt, SEO, društvene mreže, automatizacija, konsultacije. Posetilac tada mora sam da poveže šta je relevantno za njegov problem. To je dodatni napor u trenutku kada treba da dobije potvrdu da je došao na pravo mesto.
+
+Tekst o [usklađenosti oglasa i landing strane](/blog/uskladjenost-oglasa-landing-strane-konverzija-srbija-2026) pokriva ovaj problem na nivou poruke. Ovde je još uži problem: čak i kada je oglas dobar, jedna landing strana može pokvariti kontinuitet jer pokušava da odgovori na previše različitih obećanja odjednom.
+
+## Kada jedna landing strana još može da radi
+
+Nije svaka univerzalna landing strana automatski loša. Ako firma prodaje jednu jasnu uslugu, jednom tipu kupca, sa jednim glavnim sledećim korakom, jedna strana može biti sasvim dovoljna. Na primer, lokalna usluga sa istim procesom procene, istom teritorijom i sličnim pitanjima u formi ne mora odmah praviti deset varijanti.
+
+Problem počinje kada se pod istu stranu guraju različite namere. Jedan posetilac želi cenu i okvir budžeta. Drugi želi da zna da li usluga radi za njegovu industriju. Treći je već imao loše iskustvo sa agencijom. Četvrti samo upoređuje opcije. Ako svi dobiju isti prvi ekran, isti CTA i istu formu, deo dobrih posetilaca neće prepoznati svoj slučaj.
+
+Zdrav test je jednostavan: da li bi prodavac uživo koristio istu prvu rečenicu za sve te ljude? Ako ne bi, verovatno ni landing strana ne treba da počinje isto za sve kampanje.
+
+## Signali da jedna strana guši konverzije
+
+Prvi signal je dobar klik-through u oglasu, ali slab broj upita na strani. To često znači da oglas obećava nešto dovoljno jasno, ali landing ne nastavlja priču. Drugi signal su upiti koji zvuče zbunjeno: ljudi pitaju da li radite baš tu uslugu, koliko nešto okvirno košta ili šta tačno ulazi u ponudu iako bi to trebalo da bude jasno iz strane.
+
+Treći signal je veliki broj posetilaca koji kliknu nekoliko sekcija, ali ne pošalju formu. To ne mora značiti da nisu zainteresovani. Može značiti da traže dokaz, cenu, proces ili sledeći korak koji nije prilagođen njihovoj nameri. Zato se ovaj problem ne rešava samo dodavanjem još teksta. Rešava se jasnijim smerom.
+
+Tu pomažu tekstovi o [prvom ekranu sajta](/blog/prvi-ekran-sajta-konverzija-upiti-srbija-2026), [sekundarnom CTA-u](/blog/sekundarni-cta-landing-strana-lead-generation-srbija-2026) i [kvalifikaciji kroz kontakt formu](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026). Ako posetilac ne zna za koga je strana, šta dobija i šta treba da uradi, dodatni budžet samo kupuje više istog trenja.
+
+## Kako odlučiti kada praviti posebnu landing stranu
+
+Posebna landing strana ima smisla kada se menja bar jedna od četiri stvari: namera pretrage, ponuda, dokaz ili kvalifikaciona pitanja. Ako se za jednu kampanju traže ljudi koji žele hitan termin, a za drugu ljudi koji planiraju veći projekat za sledeći mesec, to nisu isti razgovori. Ako jedna usluga ima visoku maržu, a druga je ulazna ponuda, ni CTA ne mora biti isti.
+
+Na primer, agencija može imati jednu stranu za Google Ads cenu, drugu za audit funnel-a, treću za landing stranu koja treba da poveća konverzije. Sve tri mogu voditi ka kontaktu, ali ne moraju imati isti uvod. Prva treba da objasni budžet i prag isplativosti. Druga treba da pokaže gde se meri curenje. Treća treba da pokaže kako poruka, forma i tracking utiču na upite.
+
+To ne znači da svaka ključna reč zaslužuje posebnu stranu. Previše strana bez jasne razlike pravi održavanje koje niko ne stiže da radi. Dobar kriterijum je komercijalna razlika: ako bi prodaja kvalifikovala lead drugačije, ako bi dokaz bio drugačiji ili ako bi ponuda imala drugačiji sledeći korak, posebna strana verovatno ima smisla.
+
+## Šta promeniti na strani po kampanji
+
+Najvažnije je da prvi ekran ponovi specifičnu nameru bez copy-paste naslova iz oglasa. Ako oglas govori o smanjenju cene po kvalifikovanom leadu, strana ne treba da počne generičkim tekstom o kompletnom marketingu. Treba odmah da kaže za koga je rešenje, koji problem se rešava i koji je sledeći korak.
+
+Zatim treba prilagoditi dokaz. B2B usluga, lokalna usluga, e-commerce i skuplja konsultantska ponuda ne traže isti nivo poverenja. Nekome treba primer procesa, nekome okvirna računica, nekome dokaz da tim razume prodaju posle forme. Ako se svima prikazuje isti opšti proof, dobar deo posetilaca ga neće povezati sa svojim rizikom.
+
+Forma takođe mora pratiti nameru. Za jednu ponudu je važno pitati budžet i cilj, za drugu lokaciju i rok, za treću prosečnu vrednost posla i trenutni problem u prodaji. Previše univerzalna forma često pita premalo korisnih stvari, pa prodaja kasnije radi isti posao koji je landing strana mogla da uradi pre slanja upita.
+
+## Merenje: ne gledajte samo ukupnu konverziju
+
+Kada se jedna strana razbije na više preciznijih strana, ne treba gledati samo da li je ukupna stopa konverzije porasla za par procenata. Bitnije je da li se poboljšao kvalitet razgovora. Da li leadovi bolje razumeju ponudu? Da li prodaja dobija više konteksta? Da li se smanjio broj neodgovarajućih upita? Da li se više ljudi pomera ka ponudi, terminu ili kvalifikovanom razgovoru?
+
+Ako se meri samo sirova forma, posebna landing strana može izgledati isto kao stara. Ali kada se doda [praćenje konverzija](/blog/pracenje-konverzija-lead-generation-srbija-2026) i kada se razlikuju [kvalifikovane konverzije](/blog/kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026), slika se menja. Cilj nije imati najviše upita. Cilj je imati više upita koje prodaja može pretvoriti u posao.
+
+Ovo je posebno važno kada je [kapacitet prodaje](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026) ograničen. Ako tim može kvalitetno obraditi samo određeni broj razgovora nedeljno, bolje je imati manje, jasnije i bolje kvalifikovane upite nego jednu veliku univerzalnu stranu koja puni inbox pomešanim namerama.
+
+## Kako Platinum Zenith postavlja landing strukturu
+
+Kada analiziramo kampanju koja ima klikove, ali nema dovoljno prodaje, ne gledamo samo oglasni nalog. Gledamo put od ključne reči i oglasa do prvog ekrana, dokaza, forme, tracking-a i prodajnog odgovora. Ako jedna landing strana nosi previše namera, prvo je delimo po poslovnoj logici, ne po ukrasu.
+
+Nekada je dovoljno napraviti jednu novu sekciju i jasniji CTA. Nekada treba posebna strana za jednu profitabilnu ponudu. Nekada treba odvojiti hladne istraživače od ljudi koji su spremni za razgovor. Bitno je da se odluka donese iz podataka: šta je osoba tražila, šta je videla, šta je poslala i šta se desilo u prodaji.
+
+Ako kampanja troši budžet, a leadovi dolaze zbunjeni, nekvalifikovani ili presporo ulaze u prodaju, pošaljite nam preko [kontakt strane](/kontakt) koje kampanje trenutno vodite, na koju stranu šaljete saobraćaj i koje upite prodaja smatra kvalitetnim. Pogledaćemo da li problem nije u potražnji, nego u tome što jedna landing strana pokušava da proda previše različitih stvari odjednom.
+`,
+  },
+  {
     slug: 'google-ads-za-video-nadzor-i-alarme-cena-upita-srbija-2026',
     title: 'Google Ads za video nadzor i alarme u Srbiji 2026: cena upita i budžet',
     excerpt: 'Google Ads za video nadzor i alarme mora meriti zakazane procene, lokaciju, tip objekta i prihvaćenu ponudu, ne samo sirove pozive.',

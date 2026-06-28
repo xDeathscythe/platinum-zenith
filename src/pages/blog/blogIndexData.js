@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "jedna-landing-strana-za-sve-kampanje-konverzija-srbija-2026",
+    "title": "Jedna landing strana za sve kampanje u Srbiji 2026: zašto leadovi ne kupuju",
+    "excerpt": "Jedna landing strana za sve kampanje često razvodni poruku, formu i CTA. Evo kada napraviti posebnu stranu po ponudi, nameri i izvoru.",
+    "date": "2026-06-28",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-video-nadzor-i-alarme-cena-upita-srbija-2026",
     "title": "Google Ads za video nadzor i alarme u Srbiji 2026: cena upita i budžet",
     "excerpt": "Google Ads za video nadzor i alarme mora meriti zakazane procene, lokaciju, tip objekta i prihvaćenu ponudu, ne samo sirove pozive.",
