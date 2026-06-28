@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-video-nadzor-i-alarme-cena-upita-srbija-2026",
+    "title": "Google Ads za video nadzor i alarme u Srbiji 2026: cena upita i budžet",
+    "excerpt": "Google Ads za video nadzor i alarme mora meriti zakazane procene, lokaciju, tip objekta i prihvaćenu ponudu, ne samo sirove pozive.",
+    "date": "2026-06-28",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "rezervni-marketing-budzet-korekcije-lead-generation-srbija-2026",
     "title": "Rezervni marketing budžet u Srbiji 2026: koliko ostaviti za korekcije kampanje",
     "excerpt": "Rezervni marketing budžet čuva kampanju kada test pokaže rupu u landing strani, tracking-u ili prodaji. Evo koliko ostaviti za korekcije.",

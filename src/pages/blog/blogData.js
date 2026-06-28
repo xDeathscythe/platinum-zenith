@@ -1,5 +1,92 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-video-nadzor-i-alarme-cena-upita-srbija-2026',
+    title: 'Google Ads za video nadzor i alarme u Srbiji 2026: cena upita i budžet',
+    excerpt: 'Google Ads za video nadzor i alarme mora meriti zakazane procene, lokaciju, tip objekta i prihvaćenu ponudu, ne samo sirove pozive.',
+    date: '2026-06-28',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Video nadzor', 'Alarmi', 'Lead Generation', 'Lokalni marketing'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Bezbednosni upit nije običan poziv za cenu
+
+Firme koje ugrađuju video nadzor, alarme, interfonske sisteme ili kontrolu pristupa često imaju isti problem u oglašavanju: kampanja dovede pozive, ali se u prodaji ne vidi dovoljno prihvaćenih ponuda. Na papiru deluje da je tržište zainteresovano. U praksi se deo budžeta potroši na ljude koji pitaju za jednu kameru, polovnu opremu, samostalnu montažu ili savet kako da poprave sistem koji firma uopšte ne servisira.
+
+Česta greška u ovoj niši je da se svaki poziv tretira kao isti lead. Nije isti upit vlasnika kuće koji želi četiri kamere i snimanje dvorišta, upravnika zgrade koji traži procenu za ulaz, lokala koji mora da pokrije kasu i magacin, i osobe koja pita koliko košta najjeftinija kamera bez montaže. Ako kampanja ne razlikuje te situacije, izveštaj može izgledati solidno dok prodaja gubi vreme.
+
+Zato [Google reklame](/google-reklame-cena) za video nadzor i alarme ne treba planirati samo po ceni klika. U širem [digitalnom marketingu](/cene-digitalnog-marketinga) važnije je pitanje: koliko upita se pretvori u izlazak na procenu, poslatu ponudu i prihvaćen posao.
+
+## Koja namera vredi najviše
+
+Kod bezbednosnih sistema postoji velika razlika između informativne i projektne namere. Informativne pretrage zvuče kao: najbolja kamera za dvorište, kako povezati DVR, bežična kamera iskustva, alarm za kuću uradi sam. Takve pretrage mogu biti korisne za edukaciju, ali su često slabe za direktnu prodaju montaže.
+
+Projektna namera izgleda drugačije: video nadzor za kuću u Beogradu, ugradnja alarma cena, kamere za lokal sa montažom, video nadzor za zgradu, kontrola pristupa za firmu. Tu osoba ne traži samo uređaj. Traži rešenje, procenu, odgovornost i nekoga ko će sistem podesiti da radi.
+
+Zbog toga kampanje treba razdvojiti po tipu posla. Jedan skup za kuće i stanove, drugi za lokale i male firme, treći za zgrade i zajednice stanara, četvrti za B2B objekte gde postoje ozbiljniji zahtevi: više kamera, više lokacija, snimanje, pristup zaposlenih, održavanje i podrška.
+
+## Cena upita zavisi od objekta, ne samo od ključne reči
+
+Nije realno očekivati jednu prosečnu cenu upita za sve. Upit za jednu kameru na porodičnoj kući ne vredi isto kao upit za poslovni prostor, magacin ili zgradu. Ako se sve meri zajedno, firma može pogrešno zaključiti da su oglasi skupi ili jeftini.
+
+Bolji pristup je da se posle prvih nekoliko nedelja pogleda struktura: koliko upita dolazi za kuće, koliko za lokale, koliko za zgrade, koliko za servis postojećih sistema, koliko za kupovinu opreme bez montaže. Tek tada se računa prihvatljiv CPL. Ako firma ima dobru maržu na veće projekte, viši CPL može biti sasvim zdrav. Ako kampanja kupuje sitne upite koje tim ne želi, i nizak CPL može biti bacanje novca.
+
+Ovo je ista logika kao kod drugih lokalnih usluga. Tekstovi o [električarima](/blog/google-ads-za-elektricare-cena-leada-srbija-2026) i [bravarima](/blog/google-ads-za-bravare-cena-leada-srbija-2026) pokazuju zašto hitna namera i vrednost posla menjaju računicu. Kod video nadzora je dodatni problem to što kupac često ne zna šta mu stvarno treba dok se ne pogleda objekat.
+
+## Landing strana mora kvalifikovati projekat
+
+Slaba landing strana za ovu nišu obično nabroji opremu: kamere, alarmi, senzori, DVR, NVR, interfon, kontrola pristupa. To nije dovoljno. Kupac ne kupuje listu uređaja. Kupuje osećaj da će objekat biti pokriven, da će snimak biti upotrebljiv i da će sistem raditi kada zatreba.
+
+Zato landing strana treba brzo da kaže za koga je usluga: kuće, stanovi, lokali, zgrade, kancelarije, magacini, lokali sa kasom, parking, dvorišta. Zatim treba objasniti proces: kratak razgovor, osnovni podaci, procena objekta, predlog sistema, ponuda, montaža, obuka i podrška. To smanjuje broj ljudi koji očekuju instant cenu bez konteksta.
+
+Forma ne mora biti duga, ali mora pitati stvari koje menjaju ponudu: grad i deo grada, tip objekta, broj ulaza/prostorija koje treba pokriti, da li već postoji instalacija, da li se traži samo video nadzor ili i alarm, da li je potrebna daljinska aplikacija, rok i kontakt kanal. Tekst o [kvalifikaciji kroz kontakt formu](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026) je dobar okvir za ovo.
+
+## Negativne ključne reči čuvaju budžet
+
+Bez negativnih ključnih reči kampanja za video nadzor lako ode u pogrešnom smeru. Često treba filtrirati pretrage oko poslova, plata, kurseva, polovnih kamera, besplatnih aplikacija, uputstava, šema povezivanja, foruma, softvera, drajvera, lažnih kamera, mini špijunskih uređaja, DIY montaže i opreme bez usluge ako firma ne prodaje samo uređaje.
+
+Treba paziti i na servisne upite. Ako firma ne popravlja tuđe sisteme, servis video nadzora i popravka alarma mogu praviti buku. Ako servis jeste profitabilan, onda ga treba izdvojiti u posebnu kampanju sa drugačijom porukom i drugačijim očekivanjem cene.
+
+Još jedna česta greška je preširoko geografsko ciljanje. Firma iz jednog grada pusti celu Srbiju jer želi više upita, a onda dobije pozive iz mesta gde ne izlazi na teren. Kod montaže i procene lokacija nije detalj. Ona direktno utiče na cenu, vreme i šansu da se posao prihvati.
+
+## Šta pratiti posle poziva ili forme
+
+Za ovu nišu sirov broj leadova nije dovoljan. Treba pratiti statuse: nov upit, neodgovarajuća lokacija, oprema bez montaže, potreban servis, zakazana procena, održana procena, poslata ponuda, prihvaćena ponuda, izgubljeno zbog cene, izgubljeno zbog roka, izgubljeno bez odgovora.
+
+Ako se meri samo forma ili poziv, Google Ads može optimizovati ka najlakšim razgovorima. A najlakši razgovor često nije najbolji projekat. Bolji signal je zakazana procena ili kvalifikovan upit, ako ima dovoljno volumena. Kada toga nema dovoljno, makar CRM ili tabela mora pokazati koji izvori donose projekte, a koji samo pitanja.
+
+Ovo se direktno povezuje sa [praćenjem konverzija](/blog/pracenje-konverzija-lead-generation-srbija-2026). Ako se ne zna koji oglas dovodi upit za zgradu, a koji dovodi osobu koja želi polovnu kameru, budžet se podešava po osećaju. To je skup način učenja.
+
+## Budžet za prvi test
+
+Za ozbiljan test nije dovoljno pustiti par hiljada dinara i zaključiti da tržište ne radi. Kampanja mora imati dovoljno saobraćaja da pokaže razliku između kućnih upita, poslovnih objekata, zgrada, servisnih pitanja i opreme bez montaže. U suprotnom, firma reaguje na slučajnost.
+
+Kod manjih lokalnih tržišta početni budžet često treba vezati za broj kvalifikovanih razgovora, ne za željeni broj klikova. Na primer, ako je cilj da se dobije 10 do 20 relevantnih upita u prvom periodu, budžet se računa unazad iz očekivanog CPL-a, kvaliteta landing strane i kapaciteta prodaje da brzo odgovori. Ako prodaja kasni sa pozivom, deo dobrih upita će se ohladiti pre procene.
+
+Tu pomažu tekstovi o [kapacitetu prodaje](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026) i [propuštenim pozivima iz kampanja](/blog/propusteni-pozivi-iz-kampanja-leadovi-prodaja-srbija-2026). Bezbednosni sistemi često imaju kupce koji žele da reše problem brzo, posebno posle incidenta, selidbe, renoviranja ili otvaranja lokala.
+
+## Kada Google Ads ima smisla za video nadzor i alarme
+
+Google Ads ima najviše smisla kada firma zna koje poslove želi, gde izlazi na teren, koje tipove objekata najbolje radi i šta može da isporuči u razumnom roku. Ako firma prima sve, od jedne kamere do velikog B2B sistema, kampanja treba da segmentira ponude. Ako želi samo projekte sa montažom i održavanjem, poruka mora to jasno reći.
+
+Nema smisla praviti kampanju koja obećava najnižu cenu ako firma zapravo prodaje sigurnost, stručnu procenu i urednu montažu. Takva kampanja privlači kupce koji porede samo uređaj, ne rešenje. Bolje je govoriti o pokrivenosti objekta, snimku koji se stvarno vidi, podršci posle montaže, garanciji, brzini izlaska i jasnoj ponudi.
+
+Kada se to dobro postavi, kampanja ne mora imati najveći broj leadova. Treba da ima dovoljno pravih razgovora da prodaja može zakazati procene i slati ponude koje imaju šansu da budu prihvaćene.
+
+## Kako Platinum Zenith postavlja kampanju za ovu nišu
+
+Kada radimo kampanju za lokalnu uslugu sa procenom na terenu, ne krećemo od pitanja koliko klikova možemo kupiti. Prvo definišemo koje poslove firma želi: kuće, zgrade, lokali, kancelarije, magacini, alarmi, video nadzor, kontrola pristupa ili servis. Zatim pravimo kampanje, landing poruku, formu i tracking oko tih razlika.
+
+Cilj nije da svaki radoznali posetilac pošalje upit. Cilj je da ljudi sa stvarnom potrebom brzo razumeju sledeći korak i da prodaja dobije dovoljno konteksta za pametan razgovor. Ako se u izveštaju vidi samo broj poziva, sistem nije dovoljno dobar. Ako se vidi lokacija, tip objekta, procena, ponuda i ishod, budžet može da se optimizuje.
+
+Ako prodajete ili ugrađujete video nadzor, alarme ili srodne bezbednosne sisteme, pošaljite nam preko [kontakt strane](/kontakt) koje objekte radite, u kojim gradovima izlazite na teren, prosečnu vrednost projekta i kako trenutno pratite upite. Pogledaćemo da li Google Ads ima smisla kao kanal za kvalifikovane procene, a ne samo kao još jedan izvor poziva bez jasnog ishoda.
+`,
+  },
+  {
     slug: 'rezervni-marketing-budzet-korekcije-lead-generation-srbija-2026',
     title: 'Rezervni marketing budžet u Srbiji 2026: koliko ostaviti za korekcije kampanje',
     excerpt: 'Rezervni marketing budžet čuva kampanju kada test pokaže rupu u landing strani, tracking-u ili prodaji. Evo koliko ostaviti za korekcije.',
