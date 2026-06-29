@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "sledeci-korak-posle-upita-leadovi-prodaja-srbija-2026",
+    "title": "Sledeći korak posle upita u Srbiji 2026: zašto leadovi stanu posle prvog razgovora",
+    "excerpt": "Ako lead nema dogovoren sledeći korak, prodaja se hladi i kampanja izgleda slabije. Evo kako status, rok i vlasnik čuvaju upite.",
+    "date": "2026-06-29",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-roletne-i-komarnike-cena-upita-srbija-2026",
     "title": "Google Ads za roletne i komarnike u Srbiji 2026: cena upita i budžet",
     "excerpt": "Google Ads za roletne i komarnike mora meriti mere, lokaciju, tip ugradnje i prihvaćenu ponudu, ne samo pozive za najnižu cenu.",

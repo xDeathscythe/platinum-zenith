@@ -1,5 +1,82 @@
 const rawBlogPosts = [
   {
+    slug: 'sledeci-korak-posle-upita-leadovi-prodaja-srbija-2026',
+    title: 'Sledeći korak posle upita u Srbiji 2026: zašto leadovi stanu posle prvog razgovora',
+    excerpt: 'Ako lead nema dogovoren sledeći korak, prodaja se hladi i kampanja izgleda slabije. Evo kako status, rok i vlasnik čuvaju upite.',
+    date: '2026-06-29',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Lead Generation', 'Prodaja', 'CRM', 'Google Ads', 'Konverzija'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Lead se ne gubi samo pre forme
+
+Mnogo firmi prvo traži problem u oglasu, ceni klika ili landing strani. To jeste važno, ali jedan deo prodaje se gubi kasnije: posle prvog razgovora, kada lead nema dogovoren sledeći korak. Osoba je poslala upit, neko je odgovorio, možda je čak održan kratak poziv, ali se razgovor završi rečenicom videćemo, javićemo se ili pošaljite nam još nešto. Posle toga nema roka, nema vlasnika i nema jasnog statusa.
+
+Tada kampanja izgleda slabije nego što jeste. [Google reklame](/google-reklame-cena) mogu dovesti realnu potražnju, ali ako prodajni proces ne zna šta se dešava posle prvog kontakta, dobar lead postane hladan zapis u inboxu. U širem [digitalnom marketingu](/cene-digitalnog-marketinga), ovo je česta rupa između marketinga i prihoda: klik je izmeren, forma je izmerena, ali odluka kupca nije vođena do sledeće tačke.
+
+## Kako izgleda prodaja bez sledećeg koraka
+
+Česta greška nije lenjost prodaje, nego nedostatak dogovorenog procesa. Firma ima više kanala: telefon, forma, WhatsApp, Instagram, email. Svaki kanal donosi drugačiji kontekst. Jedan lead pita za cenu, drugi traži termin, treći šalje opšti opis problema, četvrti već poredi ponude. Ako prodaja nema pravilo šta je sledeće za svaki tip upita, svaki razgovor zavisi od osobe koja ga je tog dana preuzela.
+
+U praksi to izgleda ovako: lead dobije okviran odgovor, ali ne dobije termin za sledeći razgovor. Ili dobije ponudu, ali bez dogovora kada se proverava odluka. Ili se traže dodatne informacije, ali niko ne zapiše ko ih čeka i kada se ponovo javlja. Posle tri dana svi imaju osećaj da je lead bio loš, iako je problem bio to što niko nije vodio proces.
+
+Zato tekstovi o [prvom odgovoru na lead](/blog/prvi-odgovor-na-lead-prodajna-skripta-srbija-2026), [vlasništvu leadova](/blog/vlasnistvo-leadova-marketing-prodaja-srbija-2026) i [CRM evidenciji](/blog/crm-za-leadove-evidencija-prodaja-srbija-2026) nisu odvojene teme. Prvi odgovor otvara razgovor, vlasništvo kaže ko ga vodi, a CRM mora zabeležiti šta je tačno sledeće.
+
+## Šta sledeći korak mora da sadrži
+
+Sledeći korak nije samo ljubazno javićemo vam se. Mora imati tri stvari: konkretnu akciju, rok i vlasnika. Akcija može biti poziv, procena, slanje dokumentacije, dolazak na merenje, zakazivanje konsultacije, pregled postojećeg naloga ili potvrda ponude. Rok kaže kada se to dešava. Vlasnik kaže ko je odgovoran da se stvar stvarno pomeri.
+
+Ako jedan od ta tri elementa fali, lead lako sklizne. Akcija bez roka postaje dobra namera. Rok bez vlasnika postaje kolektivna odgovornost. Vlasnik bez jasne akcije ne zna šta treba da uradi. Zato je zdrav prodajni zapis kratak, ali konkretan: Marko zove u utorak do 12h da potvrdi budžet i termin. Ili: Ana šalje ponudu danas, pa prati odluku u petak.
+
+Ovo je naročito važno kod lead generation kampanja, jer se kupac često javlja u trenutku kada poredi više opcija. Ako konkurencija da jasniji sledeći korak, čak i ne mora imati bolju uslugu. Dovoljno je da kupac oseti da proces ide napred.
+
+## Primeri po tipu lead-a
+
+Ne treba svaki lead voditi istim tempom. Lead koji ima hitan problem, jasan budžet i odgovarajuću lokaciju treba drugačiji sledeći korak od osobe koja tek istražuje okvirnu cenu. Ako se svi stave u isti red, ozbiljni upiti čekaju predugo, a slabiji upiti pojedu vreme.
+
+Za A lead, sledeći korak je najčešće brz razgovor, procena ili konkretan termin. Za B lead, sledeći korak može biti dopuna informacija, kratka kvalifikacija ili slanje primera paketa. Za C lead, zdravije je ponuditi vodič, okvir, sekundarni CTA ili kasniji follow-up, umesto da zauzme isti prodajni kapacitet kao ozbiljna prilika.
+
+Tu se prirodno nadovezuju [lead scoring](/blog/lead-scoring-prioritet-upita-prodaja-srbija-2026), [kvalifikacija kroz kontakt formu](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026) i [sekundarni CTA](/blog/sekundarni-cta-landing-strana-lead-generation-srbija-2026). Nije cilj komplikovati proces. Cilj je da sledeći korak odgovara realnoj vrednosti i spremnosti lead-a.
+
+## Gde landing strana pomaže prodaji
+
+Prodaja ne može uvek spasiti loše pripremljen upit. Ako landing strana ne objasni ponudu, cenu, proces, uslove i kvalifikaciona pitanja, prvi razgovor troši vreme na osnovne stvari. Onda se sledeći korak često ne dogodi, jer ni prodaja ni kupac nisu sigurni šta treba dalje.
+
+Dobra landing strana već priprema narednu akciju. Ako je cilj konsultacija, treba reći šta osoba treba da pripremi. Ako je cilj ponuda, treba tražiti podatke koji utiču na cenu. Ako je cilj audit kampanje, treba objasniti koje pristupe, ciljeve i brojeve treba pregledati. Tekst o [usklađenosti oglasa i landing strane](/blog/uskladjenost-oglasa-landing-strane-konverzija-srbija-2026) pokriva prvi deo puta, ali ovde je poenta da strana olakša i ono što dolazi posle forme.
+
+Kod ozbiljnijih usluga, forma može imati polje koje direktno pomaže sledećem koraku: preferirani termin, glavni problem, trenutni budžet, lokacija, rok odluke ili najbolji kanal za kontakt. Ne treba forma da postane roman. Treba da uhvati ono bez čega prodaja ne može voditi razgovor.
+
+## Šta meriti posle prvog kontakta
+
+Ako izveštaj staje na broju leadova, ovaj problem ostaje nevidljiv. Firma vidi 40 upita, prodaja kaže da nije bilo prodaje, marketing kaže da su leadovi stigli. Niko ne zna koliko je leadova imalo dogovoren sledeći korak, koliko ih je dobilo ponudu, koliko ih je trebalo pozvati ponovo i koliko je stvarno zatvoreno.
+
+Zato treba meriti statuse posle prvog kontakta: kontaktiran, kvalifikovan, čeka informaciju, zakazan sledeći razgovor, poslata ponuda, follow-up zakazan, izgubljen sa razlogom, dobijen posao. Ovi statusi ne moraju odmah biti savršeni. Dovoljno je da tim prestane da tretira svaki lead kao jednu istu tačku.
+
+Tekst o [audit-u prodajnog funnel-a](/blog/audit-prodajnog-funnela-lead-generation-srbija-2026) je dobar okvir za ovu proveru. Ako mnogo leadova staje između prvog kontakta i ponude, problem nije nužno cena klika. Ako mnogo ponuda nema zakazan follow-up, problem nije nužno landing strana. Ako se niko ne seća zašto je lead izgubljen, problem je evidencija.
+
+## Kada popravljati proces pre povećanja budžeta
+
+Jedna od skupljih grešaka je povećanje budžeta dok sledeći korak nije pod kontrolom. Ako tim već gubi upite posle prvog razgovora, dodatni klikovi samo prave više otvorenih petlji. Na papiru ima više aktivnosti. U realnosti ima više nezavršenih razgovora i više potencijalnih kupaca koji čekaju.
+
+Pre skaliranja treba proveriti nekoliko pitanja. Koliko brzo se lead preuzima? Da li svaki ozbiljan lead ima dogovoren sledeći korak? Da li je rok zabeležen? Da li se ponuda prati? Da li postoji vlasnik za follow-up? Da li prodaja može obraditi dodatni volumen bez pada kvaliteta? Ako odgovor nije jasan, tekst o [kapacitetu prodaje](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026) je relevantniji od još jednog povećanja potrošnje.
+
+To ne znači da kampanju treba pauzirati čim postoji rupa. Nekad je dovoljno popraviti statusiranje, skriptu za prvi odgovor, formu ili kalendar. Ali budžet treba povećavati tek kada proces može da primi više validnih prilika bez rasipanja.
+
+## Kako Platinum Zenith postavlja sledeći korak
+
+Kada analiziramo lead generation funnel, ne gledamo samo oglase i landing stranu. Gledamo šta se dešava od trenutka kada upit stigne do trenutka kada firma zna da li je prilika dobijena, izgubljena ili treba dalje negovati. To uključuje prvi odgovor, kvalifikaciju, vlasništvo, CRM status, ponudu i follow-up.
+
+Za svaku kampanju definišemo šta je validan lead, koji sledeći korak treba da se desi, ko ga preuzima i koji status se vraća u izveštaj. Tek tada brojevi iz marketinga imaju poslovni smisao. Nije dovoljno znati koliko je upita stiglo. Treba znati koliko ih je nastavilo put ka prodaji.
+
+Ako imate kampanje koje donose upite, ali razgovori stanu posle prvog kontakta, pošaljite nam preko [kontakt strane](/kontakt) trenutni put lead-a: od oglasa, preko forme, do prvog odgovora i ponude. Pogledaćemo da li problem leži u saobraćaju, landing strani ili u tome što svaki lead ostaje bez jasnog sledećeg koraka.
+`,
+  },
+  {
     slug: 'google-ads-za-roletne-i-komarnike-cena-upita-srbija-2026',
     title: 'Google Ads za roletne i komarnike u Srbiji 2026: cena upita i budžet',
     excerpt: 'Google Ads za roletne i komarnike mora meriti mere, lokaciju, tip ugradnje i prihvaćenu ponudu, ne samo pozive za najnižu cenu.',
