@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "dug-prodajni-ciklus-marketing-budzet-lead-generation-srbija-2026",
+    "title": "Dug prodajni ciklus i marketing budžet u Srbiji 2026: zašto ROI kasni",
+    "excerpt": "Dug prodajni ciklus može učiniti da dobra kampanja prerano izgleda loše. Evo kako meriti pipeline, status leadova, cash flow i ROI.",
+    "date": "2026-06-30",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "sledeci-korak-posle-upita-leadovi-prodaja-srbija-2026",
     "title": "Sledeći korak posle upita u Srbiji 2026: zašto leadovi stanu posle prvog razgovora",
     "excerpt": "Ako lead nema dogovoren sledeći korak, prodaja se hladi i kampanja izgleda slabije. Evo kako status, rok i vlasnik čuvaju upite.",

@@ -1,5 +1,82 @@
 const rawBlogPosts = [
   {
+    slug: 'dug-prodajni-ciklus-marketing-budzet-lead-generation-srbija-2026',
+    title: 'Dug prodajni ciklus i marketing budžet u Srbiji 2026: zašto ROI kasni',
+    excerpt: 'Dug prodajni ciklus može učiniti da dobra kampanja prerano izgleda loše. Evo kako meriti pipeline, status leadova, cash flow i ROI.',
+    date: '2026-06-30',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Marketing budžet', 'Lead Generation', 'ROI', 'Prodaja', 'CRM'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Dobra kampanja može izgledati loše ako prodaja traje duže
+
+Kod usluga koje se prodaju za nekoliko dana, rezultat kampanje se vidi relativno brzo. Upit stigne, prodaja odgovori, ponuda ode, odluka se donese. Ali mnoge firme u Srbiji ne prodaju tako. B2B usluge, skuplji projekti, kompleksne lokalne usluge, veće nabavke, konsultantski rad, oprema, ugradnja i profesionalne usluge često imaju prodajni ciklus od 30, 60 ili 90 dana.
+
+Tu nastaje česta greška: kampanja se ocenjuje posle dve nedelje kao da kupac treba da odluči odmah. [Google reklame](/google-reklame-cena) mogu dovesti validne upite, ali ako se odluka prirodno dešava kasnije, brz izveštaj će pokazati trošak pre prihoda. U širem [digitalnom marketingu](/cene-digitalnog-marketinga), ovo je jedan od razloga zašto vlasnici prerano seku budžet ili menjaju kampanju koja tek puni prodajni pipeline.
+
+## Šta znači dug prodajni ciklus u lead generation kampanji
+
+Dug prodajni ciklus ne znači da je prodaja spora zato što neko ne radi posao. Nekad kupac mora da proveri budžet, uključi partnera, sačeka sezonu, dobije više ponuda, vidi objekat, pošalje dokumentaciju ili odobri investiciju. Problem nastaje kada marketing i prodaja sve te faze tretiraju kao jednu istu stvar: lead je stigao ili nije stigao.
+
+U praksi, firma može imati 40 upita u mesecu, 18 kvalifikovanih razgovora, 9 ozbiljnih prilika, 6 poslatih ponuda i 2 zatvorena posla tek narednog meseca. Ako se gleda samo prvi mesec, kampanja izgleda skupo. Ako se gleda prodajni put, vidi se da budžet nije samo kupio forme, nego otvorio prilike koje još nisu sazrele.
+
+Zato tekstovi o [CRM evidenciji](/blog/crm-za-leadove-evidencija-prodaja-srbija-2026), [kvalifikovanim konverzijama](/blog/kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026) i [sledećem koraku posle upita](/blog/sledeci-korak-posle-upita-leadovi-prodaja-srbija-2026) nisu administracija radi administracije. Oni su način da se razdvoji kampanja koja ne radi od kampanje koja još čeka prodajni ishod.
+
+## Zašto se budžet pogrešno seče prerano
+
+Česta greška je da se budžet posmatra po kalendarskom mesecu, a prodaja po realnom ciklusu kupca. Firma potroši novac u junu, ali deo prihoda dođe u julu ili avgustu. Ako se jun ocenjuje sam za sebe, ROI deluje slab. Ako se prati izvor lead-a kroz status ponude, slika može biti potpuno drugačija.
+
+To ne znači da svaka kampanja zaslužuje strpljenje. Loši klikovi, pogrešna namera, nejasna landing strana i nekvalifikovani leadovi moraju se popravljati brzo. Ali postoji razlika između lošeg signala i sporog signala. Loš signal je kada upiti ne odgovaraju ponudi, lokaciji, budžetu ili kapacitetu. Spor signal je kada postoje ozbiljni razgovori, ali odluka još nije došla.
+
+Ako se ta razlika ne vidi, firma često radi najskuplju stvar: pauzira kampanju baš kada je pipeline počeo da se puni, pa sledeći mesec kreće od nule. Tekst o [periodu povrata marketing budžeta](/blog/period-povrata-marketing-budzeta-srbija-2026) pokriva sličan problem, ali ovde je fokus na tome kako prodajni ciklus menja tempo procene.
+
+## Koje statuse treba meriti dok ROI kasni
+
+Kod dužeg ciklusa nije dovoljno meriti formu, poziv ili WhatsApp poruku. Treba videti gde je lead trenutno. Minimalni set statusa može biti jednostavan: nov upit, kontaktiran, kvalifikovan, zakazan razgovor, poslata ponuda, čeka odluku, follow-up zakazan, izgubljen sa razlogom, dobijen posao.
+
+Ovi statusi pomažu da se kampanja ne ocenjuje slepo. Ako mnogo upita ostaje na statusu nov upit, problem je preuzimanje leadova. Ako mnogo kvalifikovanih razgovora nema ponudu, problem je prodajni proces. Ako mnogo ponuda čeka odluku bez follow-up-a, problem nije nužno cena klika. Ako mnogo poslova bude izgubljeno zbog budžeta, možda oglas i landing strana ne filtriraju očekivanja.
+
+Tu se vidi zašto je [follow-up sekvenca](/blog/follow-up-sekvenca-leadovi-prodaja-srbija-2026) važna za ROI. Duga prodaja bez follow-up pravila samo proizvodi stare razgovore. Duga prodaja sa statusima pokazuje šta treba popraviti pre nego što se krivi kampanja.
+
+## Kako planirati budžet kada odluka dolazi kasnije
+
+Budžet za ovakvu kampanju ne treba planirati kao kratku lutriju: potrošimo dve nedelje, vidimo prodaju, odlučimo. Bolje je definisati test period koji odgovara realnom ciklusu. Ako kupcima treba 45 dana od prvog upita do odluke, kampanja mora imati dovoljno vremena i podataka da pokaže kvalitet prilika, ne samo brzinu prihoda.
+
+To ne znači da treba čekati 90 dana bez kontrole. Prve kontrole su namera pretrage, cena klika, kvalitet landing strane, stopa konverzije, kvalifikacija leadova i broj ozbiljnih razgovora. Tek kasnije dolaze zatvoreni poslovi, prosečna vrednost, bruto marža i stvarni ROI. Zato je korisno odvojiti rane leading metrike od kasnih poslovnih metrika.
+
+Ako firma koristi [ROI kalkulator](/alati/roi-kalkulator), pretpostavke treba uskladiti sa trajanjem prodaje. Nije isto kada se kupac zatvori za 3 dana i kada se zatvori za 60 dana. Cash flow, rok naplate i prodajni kapacitet menjaju koliko budžeta firma može izdržati pre nego što se ulaganje vrati.
+
+## Kada je spor ciklus stvarni problem, a kada normalan tok
+
+Nije svaki dug prodajni ciklus prihvatljiv. Nekad je ciklus dug zato što kupac zaista mora proći odluku. Nekad je dug zato što firma kasni sa odgovorom, šalje generičku ponudu, nema jasan sledeći korak ili ne zna ko vodi lead. Ta razlika odlučuje da li treba menjati kampanju, prodaju ili ponudu.
+
+Ako se ozbiljni leadovi javljaju, imaju budžet, potrebu i odgovarajuću lokaciju, ali ponuda kasni pet dana, problem je proces. Ako leadovi stalno traže najnižu cenu i ne odgovaraju ciljnoj usluzi, problem je poruka, targeting ili kvalifikacija. Ako ponude odlaze, ali niko ne prati odluku, problem je vlasništvo. Ako se sve zatvara, ali tek posle dugo vremena, problem je više cash flow nego kvalitet kampanje.
+
+Zato treba povezati ovu temu sa [stopom zatvaranja leadova](/blog/stopa-zatvaranja-leadova-marketing-budzet-srbija-2026), [novčanim tokom](/blog/novcani-tok-marketing-budzet-roi-srbija-2026) i [minimalnom vrednošću posla](/blog/minimalna-vrednost-posla-marketing-budzet-srbija-2026). Duga prodaja je zdrava samo ako poslovi koji se zatvore imaju dovoljno marže da opravdaju vreme, budžet i rizik čekanja.
+
+## Kako izveštaj treba da izgleda za duži ciklus
+
+Izveštaj za kampanju sa dužim ciklusom treba da ima dva sloja. Prvi sloj pokazuje šta se dešava sada: potrošnja, klikovi, upiti, kvalifikovani leadovi, cena kvalifikovanog leada i statusi. Drugi sloj pokazuje šta se vratilo iz prethodnih perioda: poslati predlozi, dobijeni poslovi, izgubljeni razlozi, prosečna vrednost i povrat budžeta.
+
+Bez tog razdvajanja, svaki mesec izgleda kao zaseban eksperiment. U stvarnosti, jun može finansirati deo prodaje iz jula, a jul može pokazati da je junski CPL bio prihvatljiv. To posebno važi za skuplje usluge gde jedan zatvoren posao može pokriti više nedelja potrošnje.
+
+Dobar izveštaj ne sakriva loš rezultat iza rečenice treba sačekati. On jasno kaže šta znamo sada, šta još čekamo i koja odluka se donosi na osnovu kojeg statusa. Ako nema kvalifikovanih prilika, popravljamo kampanju. Ako ima prilika bez ponuda, popravljamo prodaju. Ako ima ponuda bez odluke, popravljamo follow-up i rokove.
+
+## Kako Platinum Zenith postavlja ovaj okvir
+
+Kada radimo lead generation za usluge sa dužim prodajnim ciklusom, ne gledamo samo cenu leada u prvih nekoliko dana. Prvo definišemo šta je validan lead, koji status mora da dobije, koliko traje realna odluka i kada kampanja sme da bude ocenjena po zatvorenoj prodaji. Tako budžet ne leti naslepo, ali se ni ne seče pre nego što kupac stigne do odluke.
+
+U praksi to znači da kampanja, landing strana, forma, CRM i prodaja moraju meriti isti put. Oglas dovodi pravu nameru. Forma hvata kontekst. Prodaja dodeljuje sledeći korak. CRM čuva status. Izveštaj odvaja rane signale od kasnog ROI-ja.
+
+Ako imate kampanju koja donosi upite, ali ROI kasni jer prodaja traje duže od jednog izveštajnog ciklusa, pošaljite nam preko [kontakt strane](/kontakt) trenutni put lead-a, tipičan rok odluke i statuse koje pratite. Pogledaćemo da li budžet zaista curi ili samo merite kampanju brže nego što vaši kupci donose odluke.
+`,
+  },
+  {
     slug: 'sledeci-korak-posle-upita-leadovi-prodaja-srbija-2026',
     title: 'Sledeći korak posle upita u Srbiji 2026: zašto leadovi stanu posle prvog razgovora',
     excerpt: 'Ako lead nema dogovoren sledeći korak, prodaja se hladi i kampanja izgleda slabije. Evo kako status, rok i vlasnik čuvaju upite.',
