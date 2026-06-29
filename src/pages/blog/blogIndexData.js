@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-roletne-i-komarnike-cena-upita-srbija-2026",
+    "title": "Google Ads za roletne i komarnike u Srbiji 2026: cena upita i budžet",
+    "excerpt": "Google Ads za roletne i komarnike mora meriti mere, lokaciju, tip ugradnje i prihvaćenu ponudu, ne samo pozive za najnižu cenu.",
+    "date": "2026-06-29",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "minimalna-vrednost-posla-marketing-budzet-srbija-2026",
     "title": "Minimalna vrednost posla i marketing budžet u Srbiji 2026: kada lead nije isplativ",
     "excerpt": "Minimalna vrednost posla određuje da li lead može biti profitabilan. Evo kako povezati CPL, maržu, prodajno vreme i kvalifikaciju pre skaliranja.",

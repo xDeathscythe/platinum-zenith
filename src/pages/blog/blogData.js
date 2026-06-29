@@ -1,5 +1,80 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-roletne-i-komarnike-cena-upita-srbija-2026',
+    title: 'Google Ads za roletne i komarnike u Srbiji 2026: cena upita i budžet',
+    excerpt: 'Google Ads za roletne i komarnike mora meriti mere, lokaciju, tip ugradnje i prihvaćenu ponudu, ne samo pozive za najnižu cenu.',
+    date: '2026-06-29',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Roletne', 'Komarnici', 'Lead Generation', 'Lokalni marketing'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Upit za roletne nije isti kao prihvaćena ugradnja
+
+Firme koje prodaju i ugrađuju roletne, komarnike, venecijanere ili prateću zaštitu od sunca često uđu u Google Ads sa jednostavnom idejom: treba nam više poziva. To zvuči logično, jer kupci za ovakve proizvode uglavnom traže lokalnog izvođača, cenu, rok i nekoga ko može da izađe na merenje. Problem je što kampanja može brzo napuniti telefon pitanjima za najjeftiniju varijantu, sitnu popravku ili lokaciju koju firma ne pokriva.
+
+Zato [Google reklame](/google-reklame-cena) za roletne i komarnike ne treba meriti samo po ceni klika ili broju poziva. Pravo pitanje je koliko upita ima mere, lokaciju, tip prozora ili vrata, jasnu potrebu, realan rok i šansu da završi kao izmerena i prihvaćena ponuda. U širem [digitalnom marketingu](/cene-digitalnog-marketinga), kampanja za ovu nišu mora povezati oglas, landing stranu, merenje, ponudu i prodaju.
+
+## Šta kupac stvarno traži kada ukuca roletne ili komarnici
+
+Namera pretrage nije uvek ista. Jedna osoba traži komarnike za stan pre leta. Druga traži spoljne roletne za kuću. Treća želi servis postojeće roletne, zamenu gurtnice ili motor. Četvrta samo gleda okvirne cene da bi uporedila sa majstorom koji joj je već dao ponudu.
+
+Česta greška u kampanjama je da se sve ove namere stave u istu grupu oglasa i pošalju na istu opštu stranu. Oglas kaže roletne i komarnici, a landing strana ne razdvaja proizvode, lokacije, tip ugradnje i sledeći korak. Onda prodaja mora kroz svaki poziv da otkrije da li osoba želi novu ugradnju, popravku, mrežicu za jedan prozor ili veći paket za ceo objekat.
+
+Bolji pristup je da se kampanje razdvoje po komercijalnoj logici: komarnici, roletne, servis/popravka ako se radi, veći projekti za kuće i stanove, B2B ili objekti sa više otvora. Ako firma ne radi servis, to ne sme biti skriveno. Ako radi samo određene gradove, ni to ne sme čekati treći minut razgovora.
+
+## Budžet zavisi od prosečne vrednosti posla
+
+Cena upita za roletne i komarnike ne može se oceniti bez vrednosti posla. Upit za jedan mali komarnik nema istu ekonomiju kao ugradnja više roletni na kući ili paket za lokal. Ako kampanja kupuje mnogo malih razgovora, CPL može izgledati prihvatljivo, ali prodajno vreme, izlazak na teren i administracija pojedu marginu.
+
+Zato je korisno pre kampanje definisati minimalnu vrednost posla, bruto maržu i realnu stopu zatvaranja. Tekst o [minimalnoj vrednosti posla](/blog/minimalna-vrednost-posla-marketing-budzet-srbija-2026) dobro objašnjava zašto jeftin lead nije automatski dobar lead. Ako se svaki upit tretira isto, kampanja će često optimizovati prema najlakšim razgovorima, a ne prema poslovima koji finansiraju rast.
+
+Za firmu koja želi veće ugradnje, oglas i forma treba da favorizuju ozbiljnije zahteve: broj otvora, tip proizvoda, lokaciju, da li je potrebna mera, rok i kontakt kanal. Za firmu koja profitabilno radi sitnije poslove, proces mora biti brz i standardizovan, bez mnogo ručnog dopisivanja.
+
+## Landing strana mora pripremiti merenje, ne samo poziv
+
+Kod roletni i komarnika landing strana ima jedan praktičan zadatak: da kupcu brzo pokaže da firma pokriva njegovu situaciju i da prodaji da dovoljno konteksta za sledeći korak. To ne znači da mora prikazati tačnu cenu za svaku dimenziju. Ali mora objasniti šta utiče na cenu: dimenzije, tip materijala, način montaže, broj komada, lokacija, hitnost i da li postoji stara instalacija.
+
+Ako strana samo kaže pozovite za cenu, stižu pozivi bez informacija. Ako doda cenovni okvir, primere paketa, proces merenja i formu sa pravim pitanjima, upiti postaju korisniji. Tu pomaže princip iz teksta o [cenama na sajtu i kvalitetu leadova](/blog/cene-na-sajtu-usluge-kvalitet-leadova-srbija-2026): nije cilj odbiti ozbiljne kupce, nego smanjiti razgovore koji nikada nisu mogli postati isplativ posao.
+
+Dobra forma za ovu nišu može pitati grad ili opštinu, tip proizvoda, približan broj prozora ili vrata, da li je objekat stan, kuća ili lokal, da li postoji potreba za merenjem i kada kupac želi ugradnju. To je dovoljno da prodaja zna da li treba odmah zvati, tražiti slike/dimenzije ili poslati okvir pre izlaska.
+
+## Negativne ključne reči čuvaju budžet
+
+Veliki deo potrošnje u ovoj niši može otići na pretrage koje nisu posao za firmu. To su poslovi i oglasi za zapošljavanje, polovni delovi, samostalna izrada, uputstva za popravku, šeme, materijal bez ugradnje, veleprodaja, kursevi, jeftine mrežice iz marketa ili gradovi koje firma ne pokriva. Ako se negativne ključne reči ne održavaju, kampanja uči iz pogrešnih klikova.
+
+Posebno treba paziti na servisne izraze. Ako firma radi samo novu ugradnju, pretrage za popravku roletne, zamenu gurtnice, motor ili daljinski mogu trošiti budžet bez šanse za prodaju. Ako firma radi servis, to treba biti posebna kampanja sa svojom ekonomijom, jer hitna mala popravka nema isti prihvatljiv CPL kao veća ugradnja.
+
+Ovo je slično kao kod [PVC stolarije](/blog/google-ads-za-pvc-stolariju-cena-upita-srbija-2026), [ograda i kapija](/blog/google-ads-za-ograde-i-kapije-cena-upita-srbija-2026) i [molersko-gipsarskih radova](/blog/google-ads-za-molere-i-gipsare-cena-upita-srbija-2026): lokalna kampanja radi bolje kada meri projekat, dimenzije, lokaciju i sledeći korak, a ne samo broj poziva.
+
+## Šta treba meriti posle klika
+
+Ako se meri samo submit forme ili klik na telefon, Google Ads će optimizovati ka najlakšoj akciji. Za roletne i komarnike važniji su statusi posle prvog kontakta: validan upit, pokrivena lokacija, potreban proizvod, poslata okvirna cena, zakazano merenje, održano merenje, poslata ponuda i prihvaćen posao.
+
+To ne mora odmah biti savršeno automatizovano. Dovoljno je da tim vodi jednostavnu evidenciju i vraća informacije u izveštaj. Ako se vidi da jedna kampanja donosi mnogo poziva, ali malo zakazanih merenja, problem možda nije u potražnji. Možda oglas obećava pogrešnu stvar, landing strana ne filtrira lokaciju ili prodaja kasni sa odgovorom.
+
+Tekstovi o [praćenju konverzija](/blog/pracenje-konverzija-lead-generation-srbija-2026), [kvalifikaciji kroz kontakt formu](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026) i [propuštenim pozivima](/blog/propusteni-pozivi-iz-kampanja-leadovi-prodaja-srbija-2026) su ovde direktno povezani. Kod lokalnih usluga, validan lead može propasti samo zato što niko nije odgovorio dovoljno brzo ili zato što nije zabeleženo šta se desilo posle poziva.
+
+## Kada kampanju treba skalirati
+
+Povećanje budžeta ima smisla tek kada je jasno koji tip upita prelazi u prihvaćene poslove. Ako komarnici za stanove donose veliki broj malih upita, a spoljne roletne za kuće donose manje, ali profitabilnije projekte, budžet ne treba deliti po osećaju. Treba ga deliti po prihodu, marži, kapacitetu montaže i brzini zatvaranja.
+
+Ako prodaja ne može brzo da obradi sve pozive, veći budžet će samo povećati gužvu. Ako montažeri već kasne, dodatni upiti mogu pogoršati iskustvo kupaca. Zato treba gledati i [kapacitet prodaje](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026), ne samo cenu leada.
+
+Zdrav signal za skaliranje je kada kampanja kontinuirano dovodi upite iz pokrivenih lokacija, sa jasnim dimenzijama ili spremnošću za merenje, a ponude imaju prihvatljivu stopu prihvatanja. Tada dodatni budžet nije puko kupovanje klikova, nego širenje kanala koji već dovodi merljive poslove.
+
+## Kako Platinum Zenith postavlja kampanju za ovu nišu
+
+Kada radimo lokalne kampanje za uslužne i ugradne firme, prvo razdvajamo proizvode, lokacije i vrednost posla. Ne pravimo jednu kampanju koja svima obećava sve. Gledamo šta firma stvarno želi da prodaje, koje poslove može profitabilno isporučiti i gde prodaja gubi vreme.
+
+Za roletne i komarnike to znači jasnu strukturu kampanja, negativne ključne reči, landing stranu sa procesom merenja, formu koja hvata osnovne podatke i izveštaj koji razlikuje poziv od prihvaćene ponude. Ako već imate oglase, ali pozivi ne postaju dovoljno često zakazana merenja i poslovi, pošaljite nam preko [kontakt strane](/kontakt) trenutne kampanje, lokacije koje pokrivate i koje tipove ugradnje najviše želite. Pogledaćemo da li budžet kupuje prave kupce ili samo još pitanja za najnižu cenu.
+`,
+  },
+  {
     slug: 'minimalna-vrednost-posla-marketing-budzet-srbija-2026',
     title: 'Minimalna vrednost posla i marketing budžet u Srbiji 2026: kada lead nije isplativ',
     excerpt: 'Minimalna vrednost posla određuje da li lead može biti profitabilan. Evo kako povezati CPL, maržu, prodajno vreme i kvalifikaciju pre skaliranja.',
