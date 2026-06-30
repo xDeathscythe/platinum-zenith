@@ -1,5 +1,74 @@
 const rawBlogPosts = [
   {
+    slug: 'fiksni-troskovi-marketing-budzet-lead-generation-srbija-2026',
+    title: 'Fiksni troškovi i marketing budžet u Srbiji 2026: kada lead mora da nosi ceo mesec',
+    excerpt: 'Fiksni troškovi menjaju koliko lead sme da košta. Evo kako povezati plate, zakup, prodajni kapacitet, maržu i marketing budžet.',
+    date: '2026-07-01',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Marketing budžet', 'Lead Generation', 'ROI', 'Fiksni troškovi', 'Prodaja'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Zašto lead ne plaća samo klik koji ga je doveo
+
+Kada firma računa marketing budžet, često gleda samo očigledne troškove: koliko ide za klikove, koliko košta agencija, koliko leadova stiže i koliko se poslova zatvori. To je dobar početak, ali nije cela slika. Lead ne mora da pokrije samo cenu klika. Mora da pomogne da se pokriju plate, zakup, alati, vozila, administracija, vreme prodaje, menadžment i sve ono što firma plaća i kada kampanja ne radi.
+
+Zato [Google reklame](/google-reklame-cena) ne treba posmatrati kao izolovan trošak. One su deo šireg [digitalnog marketinga](/cene-digitalnog-marketinga) i šire ekonomije firme. Ako su fiksni troškovi visoki, isti CPL koji je jednoj firmi zdrav može drugoj firmi biti preskup. Razlika nije u oglasu, nego u tome koliko mesečnog tereta svaki novi kupac mora da ponese.
+
+## Šta su fiksni troškovi u lead generation računici
+
+Fiksni troškovi su troškovi koji uglavnom postoje bez obzira na to da li je taj mesec stiglo 10 ili 100 upita. To mogu biti plate prodaje i operacije, zakup prostora, softveri, telefoni, vozila, računovodstvo, osnovni menadžment, minimalni lager, oprema, kreditne obaveze ili retainer za partnere. Nisu svi jednako fiksni u svakoj firmi, ali poenta je ista: posao mora prvo da preživi mesec.
+
+Česta greška firmi je da računaju profitabilnost kampanje samo iz marže po poslu. Na primer, usluga donosi 400 evra bruto marže, a lead košta 25 evra. Na papiru deluje odlično. Ali ako prodaja zatvori malo poslova, ako svaki posao traži mnogo sati i ako firma već ima visok mesečni prag troškova, kampanja može izgledati profitabilno po pojedinačnom poslu, a firma i dalje nema dovoljno novca da pokrije strukturu.
+
+## Zašto prosečan CPL može da zavara
+
+Prosečan CPL govori koliko košta upit. Ne govori koliko taj upit nosi fiksnih troškova. Ako firma ima 5.000 evra mesečnih fiksnih troškova i zatvara 10 poslova, svaki zatvoren posao mora pre marže da ponese deo tog tereta. Ako zatvara 25 poslova, isti teret se širi na više kupaca. Zato se prihvatljiv CPL ne može odrediti samo po Google Ads nalogu.
+
+Ovo je blisko temi [CPL-a i CAC-a](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026), ali ovde je fokus na unutrašnjem pritisku firme. Kampanja može imati isti CPL kao prošlog meseca, a da rezultat bude slabiji zato što su porasli troškovi tima, isporuka je sporija ili prodaja može da obradi manje leadova. Broj u Ads izveštaju nije dovoljan ako se ne poveže sa stvarnim mesečnim pragom.
+
+## Kako fiksni troškovi menjaju minimalnu vrednost posla
+
+Ako je usluga mala, jednokratna i niskomaržna, fiksni troškovi brzo pojedu prostor za marketing. Firma tada mora imati veliki volumen, odličnu operativnu efikasnost ili ponovljene kupovine. Ako toga nema, svaka kampanja izgleda skupo jer jedan posao ne nosi dovoljno bruto profita. Zato tekst o [minimalnoj vrednosti posla](/blog/minimalna-vrednost-posla-marketing-budzet-srbija-2026) treba čitati zajedno sa ovom temom.
+
+Kod skupljih usluga slika može biti drugačija. Jedan zatvoren projekat može pokriti više nedelja oglasa i deo fiksnih troškova. Ali tada se obično javlja drugi problem: duži prodajni ciklus, više konsultacija, više ponuda i veći rizik da se posao ne zatvori. Tada je važno povezati budžet sa [dugim prodajnim ciklusom](/blog/dug-prodajni-ciklus-marketing-budzet-lead-generation-srbija-2026), a ne samo sa trenutnim brojem upita.
+
+## Jednostavan način da postavite prag
+
+Praktična računica može biti gruba, ali korisna. Prvo odvojite mesečne fiksne troškove koji moraju biti pokriveni iz bruto profita. Zatim izračunajte prosečnu bruto maržu po tipu posla. Onda pogledajte koliko zatvorenih poslova je potrebno samo da firma bude mirna pre rasta. Tek posle toga ima smisla pitati koliko leadova, kvalifikovanih razgovora i budžeta treba za taj broj poslova.
+
+Na primer: ako fiksni troškovi traže 6.000 evra mesečno, a prosečan zatvoren posao nosi 600 evra bruto marže, firma mora zatvoriti 10 poslova samo da pokrije osnovu. Ako je stopa zatvaranja kvalifikovanih leadova 25%, treba joj oko 40 kvalifikovanih prilika, ne 40 sirovih formi. Ako polovina formi nije validna, potreban je još veći volumen ili bolja kvalifikacija. Zato su [stopa zatvaranja](/blog/stopa-zatvaranja-leadova-marketing-budzet-srbija-2026) i [kvalifikacija kroz formu](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026) direktno povezane sa budžetom.
+
+## Kada smanjivanje budžeta pogoršava problem
+
+Kada se firma uplaši troškova, prva reakcija često bude rezanje kampanje. Nekad je to ispravno, posebno ako kampanja dovodi pogrešne leadove. Ali ako kampanja donosi validne prilike, preveliko smanjenje budžeta može pogoršati odnos fiksnih troškova i prihoda. Firma i dalje plaća tim, alate i prodaju, ali nema dovoljno novih razgovora da taj sistem radi punim kapacitetom.
+
+To ne znači da treba trošiti naslepo. Znači da odluka o budžetu mora imati kriterijum: da li je problem u ceni leada, kvalitetu leada, stopi zatvaranja, vrednosti posla ili u strukturi troškova. Ako je problem struktura, ni najjeftiniji lead ne rešava sve. Ako je problem kvalitet, povećanje budžeta samo ubrzava curenje. Ako je problem volumen, previše oprezan budžet drži firmu ispod praga.
+
+## Šta meriti pored kampanje
+
+Zdrav izveštaj za ovu temu ne završava se na klikovima, upitima i CPL-u. Treba pratiti koliko je leadova kvalifikovano, koliko je prodaja stvarno obradila, koliko je ponuda poslato, koliko je poslova zatvoreno, kolika je bruto marža po tipu posla i koliko fiksnih troškova ostaje nepokriveno. Ako se kampanja meri sama, uvek će izgledati ili kriva ili zaslužna za stvari koje pripadaju celom poslovnom modelu.
+
+Tu pomažu [bruto marža](/blog/bruto-marza-marketing-budzet-roi-srbija-2026), [novčani tok](/blog/novcani-tok-marketing-budzet-roi-srbija-2026) i [marketing budžet po scenariju](/blog/marketing-budzet-po-scenariju-lead-generation-srbija-2026). Jedan scenario može pokazati koliko leadova treba za miran mesec, drugi koliko za rast, a treći šta se dešava ako stopa zatvaranja padne ili fiksni troškovi porastu.
+
+## Kako fiksni troškovi utiču na skaliranje
+
+Skaliranje nije samo pitanje da li kampanja može potrošiti više. Pitanje je da li dodatni poslovi bolje koriste postojeću strukturu ili zahtevaju novu strukturu. Ako firma ima tim koji može obraditi više leadova bez novih plata, dodatni budžet može snažno popraviti ekonomiju. Ako svaki rast traži novu osobu, vozilo, alat ili prostor, sledeći nivo budžeta mora uključiti i te buduće fiksne troškove.
+
+Zato je [inkrementalni marketing budžet](/blog/inkrementalni-marketing-budzet-roi-lead-generation-srbija-2026) važan. Prvih 20% dodatnog budžeta možda puni prazan kapacitet. Sledećih 20% možda već traži novu prodajnu osobu. Još jedan skok možda menja isporuku. Ako se sve meri istim prosekom, firma može skalirati kampanju, a da ne vidi da je stvarni profit po dodatnom poslu pao.
+
+## Kako Platinum Zenith pristupa ovoj računici
+
+Kada gledamo marketing budžet za lead generation, ne pitamo samo koliko firma želi da potroši. Prvo gledamo šta jedan dobar posao mora da pokrije: bruto maržu, prodajno vreme, fiksne troškove, kapacitet i rok naplate. Zatim odvajamo sirove upite od kvalifikovanih prilika i računamo koliko budžeta ima smisla za test, stabilizaciju i skaliranje.
+
+Ako imate kampanju koja donosi leadove, ali mesec i dalje ne izgleda finansijski mirno, pošaljite nam preko [kontakt strane](/kontakt) prosečnu vrednost posla, okvirnu maržu, fiksne mesečne troškove i trenutni put od upita do zatvaranja. Pogledaćemo da li je problem u ceni leada, prodaji, ponudi ili u tome što budžet nije vezan za realan prag koji firma mora da pokrije.
+`,
+  },
+  {
     slug: 'previse-izbora-landing-strana-konverzija-srbija-2026',
     title: 'Previše izbora na landing strani u Srbiji 2026: zašto posetilac ne šalje upit',
     excerpt: 'Previše izbora na landing strani usporava odluku i kvari kvalitet upita. Evo kako fokusirati ponudu, CTA, formu i sledeći korak.',
