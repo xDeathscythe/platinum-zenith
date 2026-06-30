@@ -1,5 +1,74 @@
 const rawBlogPosts = [
   {
+    slug: 'previse-izbora-landing-strana-konverzija-srbija-2026',
+    title: 'Previše izbora na landing strani u Srbiji 2026: zašto posetilac ne šalje upit',
+    excerpt: 'Previše izbora na landing strani usporava odluku i kvari kvalitet upita. Evo kako fokusirati ponudu, CTA, formu i sledeći korak.',
+    date: '2026-06-30',
+    readTime: '7 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Landing strana', 'Konverzija', 'Lead Generation', 'Prodaja', 'Google Ads'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Kada landing strana traži previše odluka od posetioca
+
+Dobra landing strana ne mora da bude kratka, ali mora da bude jasna. Problem nastaje kada posetilac iz oglasa dođe sa jednom konkretnom namerom, a strana mu odmah ponudi deset pravaca: više usluga, više paketa, meni sa svim sekcijama sajta, tri CTA dugmeta, opšti tekst o firmi, linkove ka društvenim mrežama i formu koja ne kaže šta se dešava posle slanja.
+
+To nije samo dizajnerski problem. Kod [Google reklama](/google-reklame-cena), svaki dodatni izbor može pojesti deo budžeta jer korisnik plaćenim klikom ulazi u stranu koja mu ne pomaže da donese sledeću odluku. U širem [digitalnom marketingu](/cene-digitalnog-marketinga), landing strana mora da poveže obećanje oglasa, ponudu, dokaz, formu i prodaju. Ako svaki element vuče na svoju stranu, kampanja često izgleda kao da ne prodaje, iako je deo problema u preopterećenju izbora.
+
+## Zašto više opcija često ne znači više prodaje
+
+Česta greška firmi je da na jednu stranu stave sve što rade, jer deluje sigurnije. Ako posetilac ne želi jednu uslugu, možda će kliknuti drugu. Ako mu ne odgovara poziv, možda će poslati poruku. Ako nije spreman za upit, možda će čitati blog. Namerno ili ne, landing strana postane mala naslovna strana umesto prodajnog puta.
+
+Ali posetilac iz kampanje obično nije došao da istražuje celu firmu. Došao je da proveri da li ponuda rešava njegov problem, da li postoji razlog da veruje firmi i šta treba da uradi sledeće. Kada ga strana tera da bira između više usluga, više cenovnih pravaca i više kontakt opcija bez prioriteta, odluka se odlaže. Deo ljudi ode da razmisli. Deo klikne na manje važan link. Deo pošalje nejasan upit koji prodaja kasnije mora da razmrsi.
+
+## Jedna strana može imati više informacija, ali ne više glavnih ciljeva
+
+Fokus ne znači da strana sme da ima samo jedan ekran i jedno dugme. Fokus znači da postoji jedan glavni komercijalni cilj. Na primer: zakazati procenu, poslati kvalifikovan upit, proveriti budžet, dobiti okvirnu ponudu ili rezervisati termin. Sve ostalo na strani treba da pomaže tom cilju, ne da se takmiči sa njim.
+
+Zato je važno razlikovati sadržaj od izbora. Strana može imati sekcije o problemu, procesu, ceni, dokazima, često postavljenim pitanjima i uslovima saradnje. To su informacije koje pomažu odluku. Problem su paralelni putevi koji menjaju odluku: jedan CTA kaže zakažite poziv, drugi kaže preuzmite vodič, treći vodi na Instagram, četvrti na cenovnik, peti na sve usluge. Ako nema hijerarhije, korisnik sam mora da projektuje prodajni proces.
+
+## Kako izgleda preopterećena landing strana u praksi
+
+Tipičan scenario: oglas obećava više kvalifikovanih upita za lokalnu uslugu. Klik vodi na stranu koja na vrhu kaže digitalni marketing za rast vašeg biznisa. Ispod toga su kartice za Google Ads, SEO, društvene mreže, izradu sajta, brending i konsultacije. Dugmad vode na kontakt, portfolio, cenovnik i blog. Forma pita ime, telefon i poruku, ali ne pita koju uslugu firma želi da prodaje, u kom gradu radi i koliko leadova može da obradi.
+
+Prodaja posle dobije poruku tipa zanima me marketing. Kampanja je tehnički napravila lead, ali nije napravila jasnu priliku. Onda se u izveštaju vidi forma, u prodaji se vidi neodređen razgovor, a vlasnik stekne utisak da oglašavanje ne dovodi ozbiljne ljude. U stvarnosti, deo problema je što landing strana nije usmerila posetioca ka jednoj sledećoj radnji.
+
+## Šta treba ostaviti kao glavni izbor
+
+Prvo treba definisati šta je vredan upit za tu kampanju. Ako kampanja prodaje konsultacije, glavni CTA može biti zakazivanje razgovora. Ako prodaje uslugu sa mnogo varijabli, glavni CTA može biti kvalifikaciona forma. Ako prodaje skuplji projekat, prvi korak može biti kratka procena uklapanja. Bitno je da korisnik razume šta dobija posle klika.
+
+Sekundarni CTA može postojati, ali ne sme izgledati jednako važan kao glavni. Tekst o [sekundarnom CTA-u](/blog/sekundarni-cta-landing-strana-lead-generation-srbija-2026) pokriva kako se meki korak koristi bez sabotiranja glavne konverzije. Na ovoj temi pravilo je jednostavno: jedan primarni put, jedan rezervni put i jasna razlika između njih. Sve ostalo treba da bude podrška, ne konkurencija.
+
+## Kako forma pomaže da izbor bude lakši
+
+Forma nije samo mesto za kontakt podatke. Ona može posetiocu pomoći da razume šta treba da pripremi, a prodaji da dobije kontekst. Kod lead generation kampanja korisna forma često pita nekoliko pitanja koja menjaju sledeći korak: usluga ili problem, lokacija, okvirni budžet, rok, trenutni kanal prodaje, broj upita ili kapacitet.
+
+Naravno, forma ne treba da bude birokratski zid. Ako je preduga, ljudi odustaju. Ako je prekratka, prodaja dobija maglu. Balans je u tome da se pitaju samo pitanja koja utiču na odluku. Zato je [kvalifikacija kroz kontakt formu](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026) povezana sa ovom temom: manje izbora na strani, ali bolji kontekst u samom upitu.
+
+## Šta meriti kada čistite landing stranu
+
+Nije dovoljno skloniti pola dugmadi i čekati čudo. Treba pratiti šta se menja: stopa slanja forme, kvalitet upita, procenat kvalifikovanih razgovora, broj zakazanih sledećih koraka, vreme prodaje potrošeno na objašnjavanje i razlozi zbog kojih leadovi otpadaju. Ako broj formi padne, ali raste broj ozbiljnih razgovora, promena može biti dobra.
+
+Tu pomažu tekstovi o [kvalifikovanim konverzijama](/blog/kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026), [audit-u prodajnog funnel-a](/blog/audit-prodajnog-funnela-lead-generation-srbija-2026) i [sledećem koraku posle upita](/blog/sledeci-korak-posle-upita-leadovi-prodaja-srbija-2026). Landing strana ne treba da pobedi u lepoti, nego da skrati put od namere do validnog prodajnog razgovora.
+
+## Kada ipak treba više od jedne landing strane
+
+Ako različite kampanje imaju različitu nameru, jedna fokusirana strana često nije dovoljna. Pretraga za hitnu uslugu, poređenje cena, premium rešenje i B2B projekat ne traže isti dokaz, istu formu i isti prodajni uvod. Tada nije problem što firma ima više landing strana. Problem je kada jedna strana pokušava da bude sve za sve kampanje.
+
+O tome govori i tekst o [jednoj landing strani za sve kampanje](/blog/jedna-landing-strana-za-sve-kampanje-konverzija-srbija-2026). Ako se namera razlikuje, bolje je napraviti odvojene strane sa jasnim glavnim izborom nego jednu opštu stranu sa mnogo kompromisa. To često smanji šum u prodaji i olakša odluku o budžetu.
+
+## Kako Platinum Zenith sređuje fokus landing strane
+
+Kada gledamo landing stranu koja ima saobraćaj, ali ne donosi dovoljno dobrih upita, prvo ne diramo boje i animacije. Prvo mapiramo put: šta oglas obećava, šta prvi ekran kaže, koji je glavni CTA, šta forma pita, koji dokaz smanjuje rizik i šta prodaja radi posle upita. Tek onda se odlučuje šta ostaje, šta ide niže, šta se izbacuje i šta zaslužuje posebnu stranu.
+
+Ako imate stranu koja dobija klikove, ali posetioci lutaju, šalju nejasne upite ili se gube pre forme, pošaljite nam preko [kontakt strane](/kontakt) link kampanje, glavnu ponudu i cilj koji želite da merite. Pogledaćemo da li problem nije u još jednoj sekciji, nego u tome što posetilac ima previše izbora pre nego što uopšte razume sledeći korak.
+`,
+  },
+  {
     slug: 'google-ads-za-toplotne-pumpe-i-grejanje-cena-upita-srbija-2026',
     title: 'Google Ads za toplotne pumpe i grejanje u Srbiji 2026: cena upita i budžet',
     excerpt: 'Google Ads za toplotne pumpe i grejanje treba meriti po kvalifikovanom projektu, lokaciji, objektu, izlasku na teren i prihvaćenoj ponudi.',

@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "previse-izbora-landing-strana-konverzija-srbija-2026",
+    "title": "Previše izbora na landing strani u Srbiji 2026: zašto posetilac ne šalje upit",
+    "excerpt": "Previše izbora na landing strani usporava odluku i kvari kvalitet upita. Evo kako fokusirati ponudu, CTA, formu i sledeći korak.",
+    "date": "2026-06-30",
+    "category": "Marketing",
+    "readTime": "7 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-toplotne-pumpe-i-grejanje-cena-upita-srbija-2026",
     "title": "Google Ads za toplotne pumpe i grejanje u Srbiji 2026: cena upita i budžet",
     "excerpt": "Google Ads za toplotne pumpe i grejanje treba meriti po kvalifikovanom projektu, lokaciji, objektu, izlasku na teren i prihvaćenoj ponudi.",
