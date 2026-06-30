@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-toplotne-pumpe-i-grejanje-cena-upita-srbija-2026",
+    "title": "Google Ads za toplotne pumpe i grejanje u Srbiji 2026: cena upita i budžet",
+    "excerpt": "Google Ads za toplotne pumpe i grejanje treba meriti po kvalifikovanom projektu, lokaciji, objektu, izlasku na teren i prihvaćenoj ponudi.",
+    "date": "2026-06-30",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "dug-prodajni-ciklus-marketing-budzet-lead-generation-srbija-2026",
     "title": "Dug prodajni ciklus i marketing budžet u Srbiji 2026: zašto ROI kasni",
     "excerpt": "Dug prodajni ciklus može učiniti da dobra kampanja prerano izgleda loše. Evo kako meriti pipeline, status leadova, cash flow i ROI.",

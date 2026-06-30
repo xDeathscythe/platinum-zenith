@@ -1,5 +1,74 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-toplotne-pumpe-i-grejanje-cena-upita-srbija-2026',
+    title: 'Google Ads za toplotne pumpe i grejanje u Srbiji 2026: cena upita i budžet',
+    excerpt: 'Google Ads za toplotne pumpe i grejanje treba meriti po kvalifikovanom projektu, lokaciji, objektu, izlasku na teren i prihvaćenoj ponudi.',
+    date: '2026-06-30',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Toplotne pumpe', 'Grejanje', 'Lead Generation', 'Lokalni marketing'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Upit za grejanje nije isto što i ugovorena ugradnja
+
+Firme koje ugrađuju toplotne pumpe, kotlove, podno grejanje, radijatorske sisteme ili kompletna rešenja za grejanje često ulaze u oglašavanje sa logičnom željom: više poziva pre sezone. Problem je što svaki poziv ne znači ozbiljan projekat. Deo ljudi tek istražuje okvirnu cenu, deo pita za servis koji firma možda ne radi, deo nema uslove za ugradnju, a deo želi savet bez namere da uskoro kupi.
+
+Zato [Google reklame](/google-reklame-cena) za toplotne pumpe i grejanje ne treba meriti samo po ceni klika ili broju formulara. Pravo pitanje je koliko upita ima tip objekta, lokaciju, postojeći sistem, kvadraturu, rok, realan budžet i šansu da završi kao izlazak na teren, poslata ponuda i prihvaćena ugradnja. U širem [digitalnom marketingu](/cene-digitalnog-marketinga), ova niša traži vezu između oglasa, tehničke kvalifikacije, prodaje i operativnog kapaciteta.
+
+## Šta kupac traži kada pretražuje toplotne pumpe
+
+Namera nije ista za svaku pretragu. Jedna osoba želi toplotnu pumpu za kuću od 180 kvadrata. Druga poredi vazduh-voda i klima rešenja. Treća ima star kotao i traži zamenu. Četvrta traži subvencije, iskustva, potrošnju struje ili servis postojeće opreme. Ako se sve te namere ubace u istu kampanju, prodaja dobije mešavinu ozbiljnih projekata i informativnih pitanja.
+
+Česta greška firmi je da oglasi vode na opštu stranu sa slikama opreme i rečenicom zatražite ponudu. Kupac ne zna šta treba da pošalje, prodaja ne zna da li je objekat spreman, a kampanja prijavljuje svaki upit kao isti rezultat. Kod grejanja to nije dovoljno, jer cena i izvodljivost zavise od objekta, izolacije, postojeće instalacije, kvadrature, lokacije, rokova i očekivanog režima korišćenja.
+
+## Kako podeliti kampanje da budžet ne ode na pogrešnu nameru
+
+Bolje je razdvojiti kampanje prema stvarnoj komercijalnoj nameri. Jedna grupa može ciljati toplotne pumpe za kuće i stanove, druga zamenu postojećeg sistema grejanja, treća podno grejanje, četvrta veće B2B ili objekatske projekte ako firma to radi. Ako postoji servis, održavanje ili hitna intervencija, to treba odvojiti od nove ugradnje. Ako ne postoji, te termine treba filtrirati.
+
+Ovakva podela olakšava i budžet. Projekat kompletne ugradnje ima drugačiju vrednost od pitanja za mali deo ili samo konsultaciju. Kao kod [solarnih panela](/blog/google-ads-za-solarne-panele-cena-upita-srbija-2026), kampanja ne sme juriti najjeftiniji lead ako taj lead nema vrednost projekta. Jedan kvalifikovan razgovor za ozbiljnu ugradnju može biti vredniji od deset poziva koji traže samo okvirnu potrošnju ili najnižu cenu uređaja.
+
+## Landing strana mora kvalifikovati projekat, ne samo prodati opremu
+
+Landing strana za grejanje treba da pomogne kupcu da razume sledeći korak, a prodaji da dobije podatke koji menjaju ponudu. Nije dovoljno napisati radimo toplotne pumpe i čekati poziv. Strana treba jasno da kaže za koje objekte firma radi, koje sisteme pokriva, koje gradove ili regione opslužuje, kako izgleda procena i šta kupac treba da pripremi.
+
+Forma ne mora biti duga, ali treba da uhvati minimum: grad ili opština, tip objekta, približna kvadratura, postojeći sistem grejanja, da li postoji projekat ili samo ideja, željeni rok, kontakt kanal i da li je potreban izlazak na teren. Tekst o [kvalifikaciji kroz kontakt formu](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026) ovde je posebno važan, jer bez tih podataka svaki upit izgleda isto, a prodaja troši vreme na osnovno razvrstavanje.
+
+## Negativne ključne reči koje često čuvaju budžet
+
+Kod toplotnih pumpi i grejanja veliki deo pretraga može biti informativan ili van ponude. Česte negativne grupe su poslovi, kurs, uradi sam, forum, polovna oprema, delovi, šeme, uputstvo, iskustva bez kupovne namere, subvencije ako firma ne radi tu proceduru, servis ako firma radi samo nove ugradnje, kao i gradovi van zone pokrivanja.
+
+Ne treba izbaciti svaku istraživačku pretragu. Neko ko čita potrošnju i tipove sistema može kasnije postati kupac. Ali početni lead-generation budžet obično treba prvo da kupi razgovore sa jasnim projektom. Tek kada postoji dovoljno podataka, remarketing ili edukativni sadržaj mogu vratiti ljude koji još nisu spremni za procenu.
+
+## Koliko vredi lead u ovoj niši
+
+Cena upita nema smisla bez vrednosti projekta. Kod grejanja, prihvatljiv CPL zavisi od prosečne vrednosti ugradnje, bruto marže, izlazaka na teren, zatvaranja ponuda, sezonalnosti i kapaciteta montažnih ekipa. Ako firma može mesečno obraditi pet ozbiljnih projekata, cilj nije stotinu jeftinih upita. Cilj je dovoljan broj kvalifikovanih prilika koje mogu postati ponude i ugovoreni radovi.
+
+Zato se ova tema prirodno vezuje za [bruto maržu](/blog/bruto-marza-marketing-budzet-roi-srbija-2026), [CPL i CAC](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026) i [kapacitet prodaje](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026). Ako ekipa ne stiže na procene, dodatni budžet pravi gužvu. Ako prodaja ne prati ponude, dobar upit se hladi. Ako se meri samo forma, kampanja može izgledati bolje nego što stvarno jeste.
+
+## Sezona menja tempo kampanje
+
+Grejanje ima sezonski pritisak. Pred zimu cena klikova i hitnost rastu, ali kupci često žele rešenje brzo, bez dovoljno pripreme. Van sezone postoji više prostora za planiranje, edukaciju i veće projekte. Firma koja krene sa oglasima tek kada telefoni već zvone često ulazi u najskuplji deo godine bez testirane landing strane, negativnih reči i procesa za procenu.
+
+Bolji pristup je da se kampanja testira pre najveće gužve. Prvo se proveri koje pretrage donose kvalitetne razgovore, koje lokacije imaju smisla, koje poruke privlače ozbiljne projekte i gde forma pravi otpor. Kada sezona počne, budžet se ne troši na pogađanje, nego na već očišćene namere. To je isti princip kao kod [sezonskog marketing budžeta](/blog/sezonski-marketing-budzet-lead-generation-srbija-2026), samo sa većim tehničkim posledicama ako prodaja kasni.
+
+## Šta treba meriti posle prvog upita
+
+Za ovu nišu zdrav izveštaj ne staje na broju poziva. Treba meriti: upit primljen, kontaktiran, lokacija validna, objekat odgovara, potreban sistem jasan, zakazan izlazak, ponuda poslata, follow-up urađen, ponuda prihvaćena ili izgubljena sa razlogom. Ako mnogo upita staje pre izlaska na teren, problem može biti kvalifikacija. Ako mnogo procena nema ponudu, problem je proces. Ako mnogo ponuda stoji bez odgovora, problem je follow-up.
+
+Tu pomažu tekstovi o [praćenju konverzija](/blog/pracenje-konverzija-lead-generation-srbija-2026), [propuštenim pozivima](/blog/propusteni-pozivi-iz-kampanja-leadovi-prodaja-srbija-2026) i [sledećem koraku posle upita](/blog/sledeci-korak-posle-upita-leadovi-prodaja-srbija-2026). Kod skupljih projekata, jedan neuzvraćen poziv ili jedna neispratena ponuda može pojesti više vrednosti nego što se vidi u mesečnom Ads izveštaju.
+
+## Kako Platinum Zenith postavlja kampanju za grejanje
+
+Kada radimo kampanju za usluge poput toplotnih pumpi i grejanja, prvo definišemo šta je komercijalno validan upit. Nije dovoljno da osoba pita za cenu. Treba videti da li postoji objekat, lokacija, potreba, realan rok i mogućnost da firma izađe na procenu. Zatim se oglas, landing strana, forma i prodajni statusi postavljaju oko tog kriterijuma.
+
+Ako imate firmu koja ugrađuje toplotne pumpe, podno grejanje ili kompletne sisteme grejanja, pošaljite nam preko [kontakt strane](/kontakt) koje usluge zaista želite da prodajete, koje lokacije pokrivate i koliko procena možete obraditi mesečno. Pogledaćemo da li Google Ads treba da vam donese više upita, bolje kvalifikovane projekte ili čistiji proces od prvog poziva do prihvaćene ponude.
+`,
+  },
+  {
     slug: 'dug-prodajni-ciklus-marketing-budzet-lead-generation-srbija-2026',
     title: 'Dug prodajni ciklus i marketing budžet u Srbiji 2026: zašto ROI kasni',
     excerpt: 'Dug prodajni ciklus može učiniti da dobra kampanja prerano izgleda loše. Evo kako meriti pipeline, status leadova, cash flow i ROI.',
