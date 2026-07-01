@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-parketare-cena-upita-srbija-2026",
+    "title": "Google Ads za parketare u Srbiji 2026: cena upita i budžet",
+    "excerpt": "Google Ads za parketare treba meriti po validnim kvadratima, lokaciji, roku, izlasku na procenu i prihvaćenoj ponudi, ne po sirovim pozivima.",
+    "date": "2026-07-01",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "fiksni-troskovi-marketing-budzet-lead-generation-srbija-2026",
     "title": "Fiksni troškovi i marketing budžet u Srbiji 2026: kada lead mora da nosi ceo mesec",
     "excerpt": "Fiksni troškovi menjaju koliko lead sme da košta. Evo kako povezati plate, zakup, prodajni kapacitet, maržu i marketing budžet.",

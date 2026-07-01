@@ -1,5 +1,80 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-parketare-cena-upita-srbija-2026',
+    title: 'Google Ads za parketare u Srbiji 2026: cena upita i budžet',
+    excerpt: 'Google Ads za parketare treba meriti po validnim kvadratima, lokaciji, roku, izlasku na procenu i prihvaćenoj ponudi, ne po sirovim pozivima.',
+    date: '2026-07-01',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Parketari', 'Lead Generation', 'Lokalni marketing', 'Budžet'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Zašto parketarski upit nije samo još jedan poziv
+
+Parketari, podopolagači i firme koje rade hoblovanje često dobiju isti problem kada krenu sa oglasima: telefon zvoni, ali se pola razgovora završi na "koliko košta po kvadratu" bez jasne slike o prostoru, stanju poda, roku i stvarnoj spremnosti za rad. Na papiru kampanja ima upite. U praksi tim gubi vreme na ljude koji traže najnižu cenu, savete za samostalni rad ili okvir koji ne može da se proceni bez pregleda.
+
+Zato [Google reklame](/google-reklame-cena) za parketare ne treba meriti samo po ceni poziva. Zdravija računica gleda koliko upita ima stvarnu kvadraturu, lokaciju, tip poda, rok, fotografije ili spremnost za izlazak na procenu. Tek tada [digitalni marketing](/cene-digitalnog-marketinga) postaje kanal za prihvaćene projekte, ne samo za još jednu listu propuštenih i praznih razgovora.
+
+## Šta vlasnik parketarske firme stvarno kupuje oglasima
+
+Oglas ne kupuje kvadrate sam po sebi. On kupuje šansu da se razgovara sa osobom koja ima prostor, problem i budžet. Kod parketa to može biti ugradnja novog parketa u stanu, obnova starog poda, hoblovanje i lakiranje, postavljanje vinila ili laminata, sanacija posle vlage, ili veći poslovni prostor koji traži precizniji rok. Svaki od tih poslova ima drugačiju maržu, logistiku i kapacitet.
+
+Česta greška firmi je da sve te namere stave u jednu kampanju i jednu landing stranu. Tada se u istom izveštaju mešaju ljudi koji samo pitaju za cenu hoblovanja jedne sobe, investitori sa ozbiljnim projektom, stanari kojima posao treba "odmah", i ljudi koji traže materijal bez ugradnje. Prosečan CPL tada ne govori mnogo, jer nije svaki lead jednako vredan.
+
+## Kako podeliti kampanje za parketare
+
+Najčistija podela obično kreće od vrste posla. Jedna grupa može biti ugradnja parketa i podova, druga hoblovanje i lakiranje, treća sanacija ili popravka, a četvrta veći stanovi, lokali i B2B prostori. Ako firma radi samo određene usluge, kampanja mora to jasno pratiti. Nema smisla plaćati klikove za nešto što prodaja ne želi da preuzima.
+
+Kod lokalnog servisa važna je i geografija. Parketar iz Beograda možda želi Novi Beograd, Zemun, Voždovac i centar, ali ne želi male intervencije van zone. Firma iz Novog Sada možda prihvata veće projekte u okolini, ali ne i sitne popravke. Zato budžet treba vezati za realnu servisnu zonu, a ne za celu Srbiju samo zato što platforma to dozvoljava.
+
+## Koja pitanja kvalifikuju dobar upit
+
+Dobar upit za parketarske radove ne mora odmah imati savršenu specifikaciju, ali mora imati dovoljno informacija da prodaja zna da li vredi nastaviti. Minimalno: grad ili deo grada, približna kvadratura, da li je u pitanju ugradnja, hoblovanje ili popravka, trenutno stanje poda, rok, da li postoji izabran materijal i da li je osoba spremna za procenu ili slanje fotografija.
+
+Ovo je isti princip kao kod [kvalifikacije kroz kontakt formu](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026). Forma ne treba da bude ispit iz građevine. Treba samo da odvoji ozbiljne projekte od praznih pitanja. Ako firma prima sve kroz telefon, ista pitanja može koristiti prodajni tim u prvom razgovoru. Bitno je da podaci završe u evidenciji, a ne u sećanju jedne osobe.
+
+## Negativne ključne reči koje čuvaju budžet
+
+Parketarski oglasi lako privuku pogrešan promet. Ljudi traže posao, dnevnicu, kurs, alat, brusilicu, lak, polovnu opremu, DIY tutorijale, slike, ideje za enterijer ili materijal bez ugradnje. Ako firma to ne prodaje, te pretrage treba izbacivati. Isto važi za previše široke termine oko laminata, poda i majstora ako kampanja ne može da prepozna komercijalnu nameru.
+
+Nije cilj da kampanja ima što više klikova. Cilj je da budžet ide na ljude koji mogu postati procena, ponuda i prihvaćen posao. Kod manjih lokalnih budžeta, nekoliko pogrešnih grupa upita može pojesti ceo dan potrošnje pre nego što dođe jedan validan projekat. Zbog toga se search term izveštaj ne gleda jednom mesečno, nego redovno dok kampanja uči.
+
+## Landing strana mora odmah objasniti šta radite
+
+Dobar klik se može izgubiti ako landing strana kaže samo "kvalitetni parketarski radovi" i dugme za poziv. Posetilac treba brzo da vidi koje usluge pokrivate, u kojim gradovima ili opštinama radite, da li izlazite na procenu, šta utiče na cenu i koji je sledeći korak. Ako nudite hoblovanje, lakiranje, ugradnju i sanaciju, razdvojite ih dovoljno jasno da posetilac ne mora sam da pogađa.
+
+Ovo je slično kao kod drugih home-improvement niša, recimo [PVC stolarije](/blog/google-ads-za-pvc-stolariju-cena-upita-srbija-2026), [molera i gipsara](/blog/google-ads-za-molere-i-gipsare-cena-upita-srbija-2026) ili [roletni i komarnika](/blog/google-ads-za-roletne-i-komarnike-cena-upita-srbija-2026). Što je posao više vezan za merenje, stanje objekta i rok, to landing strana mora bolje pripremiti razgovor pre nego što prodaja podigne telefon.
+
+## Kako računati prihvatljiv CPL za parketare
+
+Sirov CPL može biti nizak, a kampanja i dalje loša ako većina upita nema kvadraturu, lokaciju ili realan rok. Obrnuto, skuplji upit može biti odličan ako vodi ka većem stanu, poslovnom prostoru ili poslu sa dobrom maržom. Zato prihvatljiv CPL treba računati iz bruto marže po tipu posla, stope izlaska na procenu, stope slanja ponude i stope prihvatanja.
+
+Ako posao od 70 kvadrata nosi mnogo veću maržu od jedne male popravke, nema smisla da oba upita imaju isti maksimalni trošak. Tu pomaže računica iz tekstova o [bruto marži](/blog/bruto-marza-marketing-budzet-roi-srbija-2026) i razlici između [CPL-a i CAC-a](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026). Parketar ne plaća lead da bi imao upit, nego da bi dobio profitabilan posao koji može isporučiti na vreme.
+
+## Šta pratiti posle prvog razgovora
+
+Najveći problem često nije oglas, nego status posle upita. Neke firme prime poziv, kažu okvirnu cenu, obećaju da će se čuti i nikad ne zabeleže šta se desilo. Posle mesec dana kampanja izgleda nejasno: ima potrošnje, ima razgovora, ali nema pouzdanog odgovora koliko je bilo procena, koliko ponuda i koliko prihvaćenih poslova.
+
+Za parketare su korisni statusi: validan upit, nije u zoni, premala intervencija, čeka fotografije, zakazana procena, ponuda poslata, posao prihvaćen, posao izgubljen zbog cene, posao izgubljen zbog roka. Kada se to prati, odluka o budžetu postaje normalna. Vidi se da li treba menjati ključne reči, landing stranu, formu, cenu, rok ili follow-up.
+
+## Kada Google Ads ima smisla za parketarsku firmu
+
+Google Ads ima najviše smisla kada firma ima jasan servisni prostor, može brzo da odgovori na upit, zna koje poslove želi i ima kapacitet za procene. Ako prodaja kasni po dva dana, ako niko ne vraća propuštene pozive ili ako se svaki posao procenjuje iz glave bez evidencije, kampanja će pre otkriti problem nego ga rešiti.
+
+To nije loša stvar. Bolje je rano videti da li curi budžet na pogrešne pretrage, lošu kvalifikaciju ili spor odgovor. Ali tada se kampanja ne sme ocenjivati samo po klikovima. Treba je povezati sa stvarnim tokom od pretrage do zakazane procene i prihvaćene ponude.
+
+## Kako Platinum Zenith postavlja kampanju za ovu nišu
+
+Za parketare prvo razdvajamo namere, servisnu zonu i tipove poslova koje firma stvarno želi. Zatim postavljamo landing stranu ili segment koji jasno objašnjava usluge, okvirne faktore cene, pitanja za kvalifikaciju i sledeći korak. Kampanju merimo po validnim upitima, procenama, poslatim ponudama i prihvaćenim poslovima, ne samo po najjeftinijem leadu.
+
+Ako radite parketarske radove i želite da proverite da li Google Ads može donositi projekte sa boljom kvadraturom, pošaljite nam preko [kontakt strane](/kontakt) servisnu zonu, usluge koje najviše želite, prosečnu vrednost posla i kapacitet za procene. Vratićemo vam praktičan okvir: koje kampanje imaju smisla, šta treba filtrirati i koliki test budžet je realan pre skaliranja.
+`,
+  },
+  {
     slug: 'fiksni-troskovi-marketing-budzet-lead-generation-srbija-2026',
     title: 'Fiksni troškovi i marketing budžet u Srbiji 2026: kada lead mora da nosi ceo mesec',
     excerpt: 'Fiksni troškovi menjaju koliko lead sme da košta. Evo kako povezati plate, zakup, prodajni kapacitet, maržu i marketing budžet.',
