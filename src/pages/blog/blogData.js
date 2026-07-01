@@ -1,5 +1,86 @@
 const rawBlogPosts = [
   {
+    slug: 'marketing-budzet-po-gradovima-lead-generation-srbija-2026',
+    title: 'Marketing budžet po gradovima u Srbiji 2026: zašto jedna cifra ne radi za svaki teren',
+    excerpt: 'Jedan CPL za celu Srbiju često sakrije gradove koji troše budžet bez prodaje. Evo kako planirati lead generation po lokaciji, kapacitetu i marži.',
+    date: '2026-07-02',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Marketing budžet', 'Lead Generation', 'Google Ads', 'ROI', 'Lokalni marketing'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Zašto isti budžet ne znači isti rezultat u svakom gradu
+
+Mnoge firme krenu u lead generation sa jednom velikom pretpostavkom: ako kampanja radi u jednom gradu, samo treba proširiti lokacije i dodati budžet. U izveštaju sve izgleda uredno jer postoji prosečan CPL za celu kampanju. Problem je što prosek često sakrije teren. Jedan grad donosi kvalifikovane razgovore, drugi samo jeftine upite, treći troši budžet zbog konkurencije, a četvrti ima dobre leadove koje prodaja ne stiže da obradi.
+
+Zato [Google reklame](/google-reklame-cena) za firme koje rade u više gradova ne treba planirati samo kao jedan mesečni iznos. Budžet po gradovima treba vezati za potražnju, maržu, kapacitet, brzinu odgovora i realnu servisnu zonu. Ako se sve meri zajedno, [digitalni marketing](/cene-digitalnog-marketinga) može izgledati stabilno dok se profit zapravo preliva iz dobrih lokacija u slabe.
+
+## Česta greška: cela Srbija u jednoj kampanji
+
+Česta greška firmi je da stave celu Srbiju, ili preširok skup gradova, u jednu kampanju zato što platforma to tehnički dozvoljava. To deluje efikasno: jedna kampanja, jedan budžet, jedan izveštaj. U praksi se mešaju različite aukcije, različiti troškovi dolaska do klijenta, različita konkurencija i različita spremnost prodaje da brzo reaguje.
+
+Na primer, servisna firma može imati odličan tim u Beogradu, solidnog partnera u Novom Sadu i slab pokrivač za manje gradove. Ako su svi gradovi u istom budžetu, jeftiniji klikovi iz slabije pokrivenih zona mogu pojesti deo novca, a prodaja neće imati isti kvalitet ishoda. Kampanja tada ne gubi samo novac na klikove. Gubi fokus sa lokacija koje stvarno mogu postati posao.
+
+## Kada grad treba imati svoj budžet
+
+Grad ne mora automatski imati odvojenu kampanju. Ali treba ga odvojeno gledati kada ima drugačiju ekonomiju. To važi ako su cene usluge različite, ako je logistika skuplja, ako prodaja ima drugi tim, ako postoji lokalna konkurencija, ako se rokovi razlikuju ili ako jedna lokacija ima mnogo bolju stopu zatvaranja.
+
+Jednostavno pravilo: ako isti lead nema istu vrednost u dva grada, ne treba ih zauvek meriti istim prosekom. Kod usluga sa izlaskom na teren, kao što su radovi, instalacije, servisi ili B2B konsultacije, lokacija utiče na vreme, trošak, dostupnost i profit. Zato se budžet po gradovima mora oslanjati na [bruto maržu](/blog/bruto-marza-marketing-budzet-roi-srbija-2026), a ne samo na broj upita.
+
+## Prosečan CPL po lokaciji nije dovoljan
+
+CPL po gradu je koristan, ali nije kraj računice. Grad sa skupljim leadom može biti bolji ako donosi veće poslove, brže zatvaranje ili manje operativne troškove. Grad sa jeftinim leadovima može biti problem ako upiti traže malu uslugu, predalek teren ili rok koji firma ne može da ispuni.
+
+Zato je važno gledati bar četiri nivoa: cena sirovog upita, procenat kvalifikovanih upita, stopa prelaska u ponudu ili razgovor i zatvoren posao sa maržom. Ovo je ista logika kao razlika između [CPL-a i CAC-a](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026). Jeftin lead nije automatski jeftin kupac, posebno kada lokacija menja isporuku.
+
+## Kako podeliti budžet bez gušenja u detaljima
+
+Ne treba odmah praviti dvadeset kampanja za dvadeset gradova. Prvo podelite lokacije u grupe: jaki gradovi, test gradovi i gradovi koje trenutno ne želite. Jaki gradovi imaju dokazanu potražnju, dobar odgovor prodaje i prihvatljivu maržu. Test gradovi imaju potencijal, ali još nemaju dovoljno podataka. Treća grupa su zone koje troše vreme ili logistiku bez dobrog ishoda.
+
+Za jake gradove budžet može biti stabilniji. Za test gradove budžet treba ograničiti dok se ne vide kvalifikovani upiti, zakazani razgovori i stvarni ishod. Za slabe zone treba postaviti negativne lokacije, drugačiju poruku ili ih pauzirati. To je praktičnija verzija [marketing budžeta po scenariju](/blog/marketing-budzet-po-scenariju-lead-generation-srbija-2026): jedan scenario za dokazane lokacije, drugi za test, treći za oprez.
+
+## Kapacitet prodaje po gradu menja ROI
+
+Neki gradovi ne propadaju zbog oglasa, nego zbog kapaciteta. Firma dobije validan upit iz lokacije koja je komercijalno dobra, ali niko ne odgovori dovoljno brzo, termin za procenu je predaleko ili lokalni tim nema vlasništvo nad leadom. U izveštaju to izgleda kao loša kampanja. U praksi je problem u operaciji.
+
+Zato budžet po gradovima mora biti povezan sa [kapacitetom prodaje](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026). Ako Novi Sad ima odličan CPL, ali prodaja može obraditi samo deset ozbiljnih razgovora nedeljno, dodatni budžet posle tog praga može kvariti iskustvo i stopu zatvaranja. Ako Niš ima manji volumen, ali tim odgovara brže i zatvara bolje poslove, taj grad može zaslužiti veći deo budžeta nego što surovi broj upita pokazuje.
+
+## Landing strana mora priznati lokaciju
+
+Posetilac iz različitog grada ne mora imati isti kontekst. Nekad mu je bitno da vidi da firma stvarno radi u toj zoni, koliko brzo može da izađe na procenu, da li postoji lokalni primer, koji je sledeći korak i šta utiče na cenu. Ako landing strana govori generički za celu Srbiju, deo ljudi neće biti siguran da li se usluga odnosi na njih.
+
+Ne mora svaka lokacija imati posebnu stranicu. Ali za najvažnije gradove često ima smisla imati jasniju sekciju, drugačiji dokaz, lokalni primer ili bar formu koja odmah traži grad i opštinu. To pomaže i kvalifikaciji, jer prodaja ne gubi vreme na upite iz zona koje nisu prioritet. Dobar obrazac se naslanja na [kvalifikaciju kroz kontakt formu](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026), samo sa dodatnim fokusom na lokaciju.
+
+## Kada ne treba širiti geografsko ciljanje
+
+Širenje ciljanih gradova često deluje kao najbrži način za rast. Ali ako postojeći gradovi još nisu stabilni, novo geografsko ciljanje samo dodaje maglu. Firma tada ne zna da li je problem u poruci, ceni, prodaji, lokaciji ili konkurenciji. Još gore, prosečan rezultat može ostati prihvatljiv dok pojedini gradovi prave gubitak.
+
+Pre širenja proverite nekoliko stvari: da li je tracking po lokaciji čist, da li prodaja beleži grad i status, da li postoje minimalni brojevi kvalifikovanih leadova, da li je poznata marža po tipu posla i da li firma ima kapacitet za sledeću zonu. Ako ovi odgovori ne postoje, bolje je prvo popraviti merenje nego povećati mapu.
+
+## Kako izgleda zdrav izveštaj po gradovima
+
+Zdrav izveštaj ne kaže samo Beograd 40 leadova, Novi Sad 12, Niš 8. On pokazuje koliko je od tih leadova kvalifikovano, koliko je kontaktirano na vreme, koliko je prešlo u ponudu, koliko je zatvoreno i koliki je očekivani profit. Tek tada se vidi da li grad treba više budžeta, drugačiju landing stranu, strožu kvalifikaciju ili pauzu.
+
+Korisno je pratiti i razloge gubitka po lokaciji. Ako jedan grad gubi zbog cene, možda je potrebna bolja edukacija ili druga ponuda. Ako drugi gubi zbog roka, problem je kapacitet. Ako treći šalje mnogo van-zone upita, problem je ciljanje. Ovo sprečava da se svaka slabost nazove lošim leadovima.
+
+## Veza sa inkrementalnim budžetom
+
+Kada kampanja već radi u jednom gradu, dodatni budžet ne treba automatski sipati u istu grupu. Nekad je bolje testirati sledeći grad malim, kontrolisanim iznosom. Nekad je bolje dodati novac u dokazanu zonu dok ne dođe do zasićenja. Nekad je najbolje zaustaviti širenje dok prodaja ne uhvati ritam.
+
+Zato je [inkrementalni marketing budžet](/blog/inkrementalni-marketing-budzet-roi-lead-generation-srbija-2026) posebno važan kod više lokacija. Sledećih 20% budžeta treba imati svoj cilj: da li proverava novi grad, povećava udeo u dobrom gradu ili popravlja slab funnel. Bez tog cilja, dodatni novac se samo stopi u prosek i niko ne zna šta je naučeno.
+
+## Kako Platinum Zenith planira budžet po lokacijama
+
+Kada radimo kampanje za firme koje prodaju u više gradova ili zona, prvo razdvajamo gde firma stvarno želi rast, gde ima kapacitet i gde jedan zatvoren posao ima dovoljno marže. Zatim postavljamo merenje po lokaciji: grad, izvor, status, kvalifikacija, ponuda i zatvoren ishod. Tek posle toga ima smisla govoriti o povećanju budžeta.
+
+Ako imate kampanju koja troši u više gradova, a ne znate koji teren stvarno nosi profit, pošaljite nam preko [kontakt strane](/kontakt) trenutne lokacije, mesečni budžet, prosečnu vrednost posla i kako prodaja vodi statuse. Vratićemo vam praktičan okvir: koje gradove odvojiti, gde ograničiti potrošnju i gde budžet ima najveću šansu da postane prihod.
+`,
+  },
+  {
     slug: 'prigovori-na-landing-strani-konverzija-upiti-srbija-2026',
     title: 'Prigovori na landing strani u Srbiji 2026: zašto posetilac ne šalje upit',
     excerpt: 'Ako landing strana ne odgovori na prigovore o ceni, roku, poverenju i riziku, kampanja može dovesti pravi klik koji ipak ne šalje upit.',

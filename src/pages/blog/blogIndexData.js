@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "marketing-budzet-po-gradovima-lead-generation-srbija-2026",
+    "title": "Marketing budžet po gradovima u Srbiji 2026: zašto jedna cifra ne radi za svaki teren",
+    "excerpt": "Jedan CPL za celu Srbiju često sakrije gradove koji troše budžet bez prodaje. Evo kako planirati lead generation po lokaciji, kapacitetu i marži.",
+    "date": "2026-07-02",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "prigovori-na-landing-strani-konverzija-upiti-srbija-2026",
     "title": "Prigovori na landing strani u Srbiji 2026: zašto posetilac ne šalje upit",
     "excerpt": "Ako landing strana ne odgovori na prigovore o ceni, roku, poverenju i riziku, kampanja može dovesti pravi klik koji ipak ne šalje upit.",
