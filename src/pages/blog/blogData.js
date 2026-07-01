@@ -1,5 +1,86 @@
 const rawBlogPosts = [
   {
+    slug: 'prigovori-na-landing-strani-konverzija-upiti-srbija-2026',
+    title: 'Prigovori na landing strani u Srbiji 2026: zašto posetilac ne šalje upit',
+    excerpt: 'Ako landing strana ne odgovori na prigovore o ceni, roku, poverenju i riziku, kampanja može dovesti pravi klik koji ipak ne šalje upit.',
+    date: '2026-07-01',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Landing strana', 'Konverzija', 'Lead Generation', 'Google Ads', 'Prodaja'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Zašto posetilac ode iako je klik bio dobar
+
+Neke kampanje ne propadnu zato što dovode pogrešne ljude. Propadnu zato što landing strana ne odgovori na pitanja koja ozbiljan kupac ima pre nego što pošalje upit. Posetilac dođe iz oglasa, prepozna problem, pogleda uslugu i onda zastane: koliko ovo okvirno košta, koliko traje, ko stvarno radi posao, šta ako ne dobijem rezultat, šta se dešava posle forme?
+
+Ako ta pitanja ostanu neodgovorena, [Google reklame](/google-reklame-cena) mogu izgledati slabo i kada ciljaju dobru nameru. Firma vidi klikove bez upita, prodaja kaže da sajt ne prodaje, marketing kaže da treba još budžeta. U praksi često fali jednostavniji deo: landing strana mora skinuti ključne prigovore pre nego što traži kontakt.
+
+## Prigovor nije napad, nego znak da kupac razmišlja
+
+Česta greška firmi je da prigovore tretiraju kao nešto što prodaja rešava tek kada lead već stigne. To je kasno za deo posetilaca. Mnogi nikada neće pozvati da pitaju ono što im je nejasno. Samo će otvoriti još tri taba, uporediti druge opcije i odložiti odluku.
+
+Prigovor na landing strani obično nije neprijatelj prodaje. To je signal da kupac ozbiljno razmišlja o riziku. Kod usluga se najčešće vrti oko cene, roka, kvaliteta, poverenja, procesa, garancije, prethodnih rezultata i toga da li firma razume njegovu situaciju. Ako stranica sve to preskoči i odmah kaže pošaljite upit, deo publike nije spreman da pređe taj prag.
+
+## Koje prigovore treba rešiti pre forme
+
+Ne treba odgovoriti na svako moguće pitanje. Treba odgovoriti na pitanja koja menjaju odluku. Za većinu lead generation stranica korisno je pokriti pet grupa: cena ili okvir budžeta, proces rada, vremenski okvir, dokazi poverenja i sledeći korak posle kontakta.
+
+Cena ne mora uvek biti tačan cenovnik. Nekad je dovoljno objasniti od čega zavisi budžet, koji je minimalni smisleni raspon ili za koga usluga nije dobra. Ovo se direktno naslanja na temu [cena na sajtu i kvaliteta leadova](/blog/cene-na-sajtu-usluge-kvalitet-leadova-srbija-2026). Kada nema nikakvog okvira, ozbiljni kupci ne mogu da procene uklapanje, a prodaja dobija više razgovora koji se raspadnu čim se pomene budžet.
+
+## Prvi ekran ne može nositi celu prodaju
+
+Prvi ekran treba brzo da kaže šta nudite, kome, koji je ishod i koji je sledeći korak. Ali ne može sam rešiti sve prigovore. Problem nastaje kada ostatak stranice samo ponavlja iste opšte rečenice: kvalitetno, profesionalno, pouzdano, brzo. To ne smanjuje rizik u glavi posetioca.
+
+Zato je važno spojiti dobar [prvi ekran sajta](/blog/prvi-ekran-sajta-konverzija-upiti-srbija-2026) sa sekcijama koje rade svoj posao. Jedna sekcija može objasniti proces. Druga može pokazati kome usluga odgovara. Treća može odgovoriti na pitanja o roku i budžetu. Četvrta može dodati dokaz, rezultat ili konkretan primer. Svaka sekcija treba da pomera posetioca bliže odluci, ne samo da popunjava stranicu.
+
+## Dokazi poverenja moraju odgovarati na stvarni strah
+
+Logo klijenata, recenzije i brojke pomažu, ali samo ako su povezani sa stvarnim prigovorom. Ako se kupac plaši da će baciti budžet, dokaz treba da pokaže kako se meri rezultat. Ako se plaši loše komunikacije, dokaz treba da pokaže proces, izveštavanje i vlasništvo nad sledećim korakom. Ako se plaši da je usluga previše generička, dokaz treba da pokaže sličnu industriju, problem ili scenario.
+
+Zato [dokazi poverenja](/blog/dokazi-poverenja-na-sajtu-konverzija-srbija-2026) ne treba da budu dekoracija pred kraj strane. Oni su odgovor na pitanje zašto bih verovao baš ovoj firmi. Česta greška je da se dokaz stavi nisko, posle forme, dok se u gornjem delu stranice traži odluka. Posetilac tada mora da veruje pre nego što je video razlog za poverenje.
+
+## Kako odgovoriti na prigovor bez gušenja stranice
+
+Landing strana ne treba da postane pravni ugovor. Najbolji odgovori su kratki, konkretni i vezani za odluku. Umesto opšte rečenice radimo individualno za svakog klijenta, bolje je napisati šta se stvarno desi: pregledamo postojeći sajt i kampanje, izdvajamo najskuplje curenje, predlažemo prvi test i tek onda pričamo o skaliranju.
+
+Isto važi za rok. Umesto brza izrada, korisnije je reći šta može biti gotovo za nekoliko dana, šta traži više materijala i šta koči start. Za cenu je korisnije objasniti faktore nego sakriti temu. Za rezultat je korisnije reći šta firma kontroliše, šta zavisi od prodaje i šta treba meriti u prvih 30 dana.
+
+## FAQ sekcija nije kanta za višak teksta
+
+FAQ može biti odličan deo landing strane, ali samo ako rešava komercijalna pitanja. Loš FAQ pita stvari koje niko nije pitao, recimo šta je digitalni marketing ili zašto je online prisustvo važno. Dobar FAQ odgovara na pitanja koja zaustavljaju upit: koliko traje početak, šta ako već imamo kampanje, da li radite samo oglase ili i landing, šta se meri, ko odgovara na leadove, kada ima smisla prekinuti test.
+
+Ovo je posebno važno kada [digitalni marketing](/cene-digitalnog-marketinga) nije jedna mala kupovina, nego odluka koja utiče na budžet, prodaju i reputaciju firme. Ako FAQ razjasni granice i očekivanja, prodaja dobija manje praznih razgovora i više ljudi koji već razumeju okvir saradnje.
+
+## Ne gurati svaki odgovor u isti CTA
+
+Nisu svi posetioci u istoj fazi. Neko je spreman za poziv, neko tek proverava budžet, a neko ima ozbiljan problem ali mu treba blaži korak. Ako landing strana ima samo jedan agresivan CTA, deo publike će otići iako postoji interesovanje.
+
+Tu pomaže pažljivo postavljen [sekundarni CTA](/blog/sekundarni-cta-landing-strana-lead-generation-srbija-2026). To može biti provera budžeta, kratka dijagnostika, pitanje o funnel-u ili slanje trenutnog URL-a na pregled. Bitno je da sekundarni CTA ne razvodni glavnu akciju i da se meri posebno. Ako se sve meri kao ista konverzija, kampanja može početi da optimizuje lakše, ali slabije signale.
+
+## Kako znati koji prigovor koči konverziju
+
+Ne treba nagađati iz estetike sajta. Treba pogledati ponašanje i prodajne razgovore. Ako posetioci dolaze na stranicu ali ne skroluju do procesa, prvi deo ne pravi dovoljno jasnu potrebu. Ako skroluju do cene i odlaze, možda okvir nije dovoljno objašnjen ili je usluga loše pozicionirana. Ako šalju upite ali nestanu posle prvog odgovora, problem možda nije stranica nego follow-up.
+
+Korisno je spojiti podatke iz analitike, forme, poziva i CRM-a. U tekstu o [usklađenosti oglasa i landing strane](/blog/uskladjenost-oglasa-landing-strane-konverzija-srbija-2026) poenta je bila da obećanje iz oglasa mora nastaviti istu priču na strani. Ovde je sledeći korak: stranica mora odgovoriti na pitanje koje posetilac ima pre nego što prodaja dobije šansu.
+
+## Šta promeniti pre povećanja budžeta
+
+Pre nego što firma poveća budžet, vredi proći kroz kratku listu. Da li je jasno kome je usluga namenjena? Da li postoji okvir cene ili faktora koji utiču na cenu? Da li je objašnjen proces od upita do prve odluke? Da li postoje dokazi koji odgovaraju na konkretan strah? Da li forma traži dovoljno informacija, ali ne previše? Da li posle forme postoji jasan sledeći korak?
+
+Ako ovi elementi fale, povećanje budžeta samo šalje više ljudi u isti zid. Ako su rešeni, dodatni budžet ima bolju šansu da donese kvalifikovane razgovore, a ne samo veći broj poseta. Zato se [kvalifikacija kroz kontakt formu](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026) i sadržaj landing strane moraju gledati zajedno.
+
+## Kako Platinum Zenith uređuje landing strane za više upita
+
+Kada radimo landing stranu ili popravljamo postojeći funnel, ne krećemo od lepšeg dizajna. Krećemo od pitanja zbog kojih kupac odlaže odluku: cena, rizik, poverenje, proces, rok, dokaz i sledeći korak. Zatim svaku sekciju vezujemo za jednu odluku koju posetilac treba da donese pre kontakta.
+
+Ako imate kampanju koja dovodi posete, ali stranica ne pretvara dovoljno ljudi u kvalitetne upite, pošaljite nam preko [kontakt strane](/kontakt) URL, glavnu ponudu, ciljnu publiku i šta prodaja najčešće čuje kao prigovor. Vratićemo vam konkretan pregled: koji prigovor trenutno nije pokriven, šta treba pomeriti na strani i gde ima smisla meriti sledeću konverziju.
+`,
+  },
+  {
     slug: 'google-ads-za-parketare-cena-upita-srbija-2026',
     title: 'Google Ads za parketare u Srbiji 2026: cena upita i budžet',
     excerpt: 'Google Ads za parketare treba meriti po validnim kvadratima, lokaciji, roku, izlasku na procenu i prihvaćenoj ponudi, ne po sirovim pozivima.',

@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "prigovori-na-landing-strani-konverzija-upiti-srbija-2026",
+    "title": "Prigovori na landing strani u Srbiji 2026: zašto posetilac ne šalje upit",
+    "excerpt": "Ako landing strana ne odgovori na prigovore o ceni, roku, poverenju i riziku, kampanja može dovesti pravi klik koji ipak ne šalje upit.",
+    "date": "2026-07-01",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-parketare-cena-upita-srbija-2026",
     "title": "Google Ads za parketare u Srbiji 2026: cena upita i budžet",
     "excerpt": "Google Ads za parketare treba meriti po validnim kvadratima, lokaciji, roku, izlasku na procenu i prihvaćenoj ponudi, ne po sirovim pozivima.",
