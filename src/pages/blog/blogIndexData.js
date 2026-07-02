@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "proces-saradnje-na-sajtu-konverzija-upiti-srbija-2026",
+    "title": "Proces saradnje na sajtu u Srbiji 2026: zašto upit staje pre kontakta",
+    "excerpt": "Kada sajt ne pokaže korake saradnje, posetilac odlaže upit. Evo kako jasan proces smanjuje rizik, ubrzava odluku i diže kvalitet leadova.",
+    "date": "2026-07-02",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-staklare-cena-upita-srbija-2026",
     "title": "Google Ads za staklare u Srbiji 2026: cena upita i budžet",
     "excerpt": "Staklarske firme ne treba da mere Google Ads samo po pozivima. Važni su tip stakla, mere, lokacija, rok i prihvaćena montaža.",

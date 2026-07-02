@@ -1,5 +1,87 @@
 const rawBlogPosts = [
   {
+    slug: 'proces-saradnje-na-sajtu-konverzija-upiti-srbija-2026',
+    title: 'Proces saradnje na sajtu u Srbiji 2026: zašto upit staje pre kontakta',
+    excerpt: 'Kada sajt ne pokaže korake saradnje, posetilac odlaže upit. Evo kako jasan proces smanjuje rizik, ubrzava odluku i diže kvalitet leadova.',
+    date: '2026-07-02',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Konverzija', 'Lead Generation', 'Landing stranica', 'Prodajni proces', 'Sajt'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Zašto proces saradnje utiče na broj upita
+
+Mnoge firme na sajtu objasne šta rade, pokažu nekoliko usluga i onda odmah traže da posetilac pošalje upit. To tehnički ima smisla. Problem je što kupac često još ne zna šta se dešava posle tog upita: ko odgovara, koliko traje procena, da li dobija poziv, ponudu, audit, termin, cenu ili još jedan generički mejl.
+
+Kada taj deo nije jasan, [Google reklame](/google-reklame-cena) mogu dovesti pravog čoveka, ali on zastane pre forme. Ne zato što nema potrebu, nego zato što ne vidi koliko je sledeći korak bezbedan, brz i konkretan. Za uslužne firme u Srbiji ovo je često tiha rupa između dobrog saobraćaja i stvarnih razgovora.
+
+## Česta greška: sajt prodaje uslugu, ali ne prodaje sledeći korak
+
+Česta greška firmi je da na sajtu previše objašnjavaju uslugu, a premalo objašnjavaju proces ulaska u saradnju. Strana kaže da firma radi marketing, izradu sajta, pravne usluge, građevinske radove ili konsultacije. Ali ne kaže šta se desi kada neko klikne na kontakt.
+
+Posetilac tada mora sam da pretpostavi. Da li će ga neko zvati odmah? Da li mora da ima spreman budžet? Da li će dobiti cenu bez razgovora? Da li će ga prodaja pritiskati? Da li je prvi razgovor obavezujući? Ako ne zna odgovore, često bira najlakšu opciju: zatvori tab, pošalje poruku konkurenciji ili odloži odluku za kasnije.
+
+## Proces smanjuje rizik pre nego što prodaja počne
+
+Jasan proces ne služi samo da sajt izgleda urednije. On smanjuje psihološki rizik. Kada posetilac vidi tri do pet konkretnih koraka, lakše razume da ne ulazi u nepoznato. Na primer: pošaljete kratak opis problema, proveravamo da li možemo pomoći, zakazujemo kratak razgovor, šaljemo predlog sledećih koraka, tek onda odlučujete da li ima smisla saradnja.
+
+To je posebno važno kod skupljih usluga, B2B ponuda i kampanja gde kupac ne kupuje odmah kao u online prodavnici. Ako [digitalni marketing](/cene-digitalnog-marketinga) dovodi posetioce koji razmatraju ozbiljnu odluku, sajt mora da objasni kako se odluka nastavlja. U suprotnom se konverzija meri samo kao klik na dugme, a ne kao sigurnost da čovek zna šta ga čeka.
+
+## Šta dobar proces treba da kaže
+
+Proces na sajtu ne mora biti dugačak. Najčešće je dovoljno da odgovori na nekoliko praktičnih pitanja: šta posetilac šalje, ko ga kontaktira, u kom roku, šta se proverava, šta dobija posle prvog razgovora i koji je sledeći izbor. Dobar proces ne obećava čudo. On uklanja maglu.
+
+Na primer, za lead generation kampanju proces može biti: analiza ponude i marže, provera postojećeg sajta ili landing strane, predlog kampanja i budžeta, postavljanje tracking-a, test faza, pa optimizacija prema kvalifikovanim leadovima. Takav redosled odmah pokazuje da se ne prodaju samo klikovi, nego sistem koji mora da poveže oglas, stranu, formu i prodaju.
+
+## Proces mora biti vezan za stvarne prodajne statuse
+
+Najgora verzija proces sekcije je dekoracija: četiri ikonice, lepi naslovi i nula veze sa realnim radom. Ako sajt kaže "1. Strategija, 2. Realizacija, 3. Rast", posetilac i dalje ne zna šta treba da uradi. To je jednako nejasno kao i da procesa nema.
+
+Bolje je vezati proces za statuse koje prodaja stvarno koristi: primljen upit, kvalifikovan lead, zakazan razgovor, poslat predlog, čeka se odluka, dogovoren start. To se naslanja na temu [sledećeg koraka posle upita](/blog/sledeci-korak-posle-upita-leadovi-prodaja-srbija-2026). Ako proces na sajtu i proces u CRM-u govore različite stvari, posetilac dobija jedno obećanje, a prodaja isporučuje drugo.
+
+## Gde proces treba da stoji na strani
+
+Proces saradnje ne mora biti prvi blok na strani. Prvi ekran i dalje treba da jasno kaže za koga je ponuda, koji problem rešava i šta je sledeći klik. Zato je korisno povezati proces sa [prvim ekranom sajta](/blog/prvi-ekran-sajta-konverzija-upiti-srbija-2026): gore ide jasna ponuda, dokaz i CTA, a malo niže ide objašnjenje kako saradnja zapravo kreće.
+
+Ako se proces sakrije na dnu, vide ga samo najuporniji. Ako se gurne prerano, može ugušiti glavnu poruku. Dobar redosled je obično: problem, rezultat, za koga je, dokaz, proces, kvalifikaciona pitanja i CTA. Tako posetilac prvo vidi vrednost, a zatim dobija sigurnost da zna šta sledi.
+
+## Proces rešava deo prigovora bez dodatnog poziva
+
+Dobar proces često unapred odgovara na prigovore. Ako posetilac brine da će odmah dobiti prodajni pritisak, napišite da je prvi korak kratka procena fit-a. Ako brine oko cene, objasnite da se budžet predlaže tek posle osnovnih podataka. Ako brine oko vremena, navedite realan rok za odgovor i pripremu predloga.
+
+Ovo ne menja potrebu za posebnom sekcijom za [prigovore na landing strani](/blog/prigovori-na-landing-strani-konverzija-upiti-srbija-2026), ali je dopunjuje. Proces pokazuje kako se rizik kontroliše u praksi. Nije dovoljno reći "bez obaveze" ako posetilac ne zna šta tačno znači bez obaveze.
+
+## Forma treba da prati proces, ne obrnuto
+
+Ako proces kaže da firma prvo proverava fit, forma ne treba da traži samo ime i telefon. Treba da pita ono što stvarno menja procenu: tip usluge, trenutni problem, okvirni budžet ako je relevantan, lokaciju, rok, postojeći sajt ili kampanju i najbolji kanal za odgovor. To ne znači da forma mora biti dugačka. Znači da pitanja moraju imati razlog.
+
+Ovo je ista logika kao kod [kvalifikacije kroz kontakt formu](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026). Ako proces i forma rade zajedno, prodaja dobija bolji kontekst, a posetilac oseća da nije poslao poruku u prazno. Ako forma pita pogrešne stvari, proces deluje kao lep tekst koji nema veze sa realnim razgovorom.
+
+## Kako meriti da li proces pomaže konverziji
+
+Ne treba meriti samo da li je dodat proces na stranu. Treba pratiti šta se promenilo: scroll do proces sekcije, klik na CTA posle procesa, procenat popunjenih formi, kvalitet odgovora u formi, broj zakazanih razgovora i broj leadova koji dolaze sa jasnijim očekivanjem. Ako ljudi češće šalju konkretne informacije, proces radi.
+
+Važno je pratiti i komentar prodaje. Ako prodajni tim kaže da ljudi sada bolje razumeju šta se dešava posle upita, to je signal da je sajt smanjio trenje. Ako ljudi i dalje pitaju "šta sad?", proces je verovatno previše generičan ili nije dovoljno vidljiv.
+
+## Kada proces ne može da popravi ponudu
+
+Proces neće spasiti nejasnu ponudu, lošu cenu, slabe dokaze ili pogrešnu publiku. Ako oglas obećava jedno, a strana nudi drugo, prvo treba popraviti [usklađenost oglasa i landing strane](/blog/uskladjenost-oglasa-landing-strane-konverzija-srbija-2026). Ako posetilac nema razlog da veruje firmi, treba dodati [dokaze poverenja](/blog/dokazi-poverenja-na-sajtu-konverzija-srbija-2026).
+
+Ali kada ponuda ima smisla, a ljudi i dalje oklevaju, proces saradnje često bude najbrža korekcija. Ne traži novi proizvod. Ne traži veći budžet. Traži da se jasno napiše kako se od prvog klika dolazi do prve konkretne odluke.
+
+## Kako Platinum Zenith koristi proces u funnel-u
+
+Kada radimo landing strane i kampanje, proces ne tretiramo kao ukras. Tretiramo ga kao deo prodaje. Prvo definišemo šta je kvalitetan lead, zatim šta posetilac treba da zna pre slanja upita, pa koji status prodaja mora da zabeleži posle prvog kontakta.
+
+Ako imate sajt koji dobija posete, ali upiti staju pre kontakta ili dolaze bez konteksta, pošaljite nam trenutnu stranu preko [kontakt forme](/kontakt). Pogledaćemo gde proces nije jasan, koja pitanja fale pre prodaje i kako da se put od posete do razgovora skrati bez jeftinog pritiska.
+`,
+  },
+
+  {
     slug: 'google-ads-za-staklare-cena-upita-srbija-2026',
     title: 'Google Ads za staklare u Srbiji 2026: cena upita i budžet',
     excerpt: 'Staklarske firme ne treba da mere Google Ads samo po pozivima. Važni su tip stakla, mere, lokacija, rok i prihvaćena montaža.',
