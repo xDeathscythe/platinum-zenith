@@ -1,5 +1,87 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-staklare-cena-upita-srbija-2026',
+    title: 'Google Ads za staklare u Srbiji 2026: cena upita i budžet',
+    excerpt: 'Staklarske firme ne treba da mere Google Ads samo po pozivima. Važni su tip stakla, mere, lokacija, rok i prihvaćena montaža.',
+    date: '2026-07-02',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Staklari', 'Lokalni marketing', 'Lead Generation', 'Budžet'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Zašto staklarski upit nije svaki isti
+
+Staklarske firme često dobijaju vrlo različite upite iz istog kanala. Jedan čovek pita za malu zamenu polomljenog stakla, drugi traži tuš kabinu po meri, treći oprema lokal, a četvrti zove samo da proveri cenu materijala. Ako se sve meri kao isti lead, [Google reklame](/google-reklame-cena) vrlo brzo mogu izgledati skuplje ili jeftinije nego što stvarno jesu.
+
+Kod staklara problem nije samo cena klika. Problem je da li upit ima mere, lokaciju, tip stakla, rok, fotografiju, mogućnost izlaska na teren i realnu šansu da postane posao sa dobrom maržom. Zato kampanja ne treba da juri najveći broj poziva, nego najviše kvalifikovanih razgovora koji vode ka proceni, ponudi i montaži.
+
+## Česta greška: jedna kampanja za svako staklo
+
+Česta greška firmi je da u jednu kampanju stave sve: zamena stakla, ogledala, kaljeno staklo, tuš kabine, staklene ograde, izlozi, kuhinjska stakla i hitne popravke. Na papiru sve pripada istoj delatnosti. U prodaji to nisu isti poslovi.
+
+Upit za malo prozorsko staklo nema istu vrednost kao staklena ograda za stepenište ili opremanje poslovnog prostora. Hitna zamena ima drugi rok, drugačiji razgovor i često drugačiju cenu od projekta po meri. Ako se svi ti intenti guraju u isti oglas i istu landing stranu, kampanja uči iz pomešanih signala. Može dovoditi dosta ljudi, ali ne nužno one koji nose profit.
+
+## Kako podeliti kampanje za staklarske usluge
+
+Praktičniji pristup je da se intent podeli po tipu posla. Jedna grupa može biti zamena i popravka stakla. Druga može biti stakla po meri za enterijer: ogledala, kuhinjska stakla, police, pregrade. Treća može biti tuš kabine i kaljeno staklo. Četvrta može biti B2B: lokali, kancelarije, izlozi, ugostiteljski objekti i veći projekti.
+
+Ova podela ne mora odmah značiti četiri velika budžeta. Može početi kao jasna struktura testiranja. Bitno je da se zna koji upit ima koju vrednost i koji sledeći korak ima smisla. Za male popravke možda je cilj brz poziv. Za poslove po meri cilj je često dogovor oko mera, fotografije, okvirnog budžeta i termina za procenu.
+
+## Cena upita zavisi od marže, ne samo od klika
+
+Ako staklarska firma gleda samo cenu poziva, lako može doneti pogrešnu odluku. Poziv od 400 dinara može biti loš ako se završava pitanjem za najjeftiniji komad stakla bez montaže. Upit od 1.500 dinara može biti odličan ako vodi ka poslu od nekoliko stotina evra ili većem B2B projektu.
+
+Zato se budžet mora vezati za [bruto maržu](/blog/bruto-marza-marketing-budzet-roi-srbija-2026), prosečnu vrednost posla i stopu zatvaranja. Ista logika važi kao kod razlike između [CPL-a i CAC-a](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026): jeftin lead nije automatski jeftin kupac. Kod staklara dodatno utiču izlazak na teren, lom, transport, materijal, čekanje dobavljača i vreme montaže.
+
+## Šta landing strana mora da pita
+
+Landing strana za staklarske usluge ne treba da bude samo galerija lepih radova. Galerija pomaže, ali kvalifikacija prodaje dolazi iz konkretnog konteksta. Forma ili prvi razgovor treba da uhvati nekoliko stvari: grad ili opštinu, tip usluge, okvirne mere, da li postoji montaža, rok, fotografiju ako je moguće i najbolji kanal za odgovor.
+
+Ovo je direktan nastavak teme [kvalifikacije kroz kontakt formu](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026). Ako forma pita samo ime i telefon, prodaja mora sve da izvlači ručno. Ako pita previše, deo ljudi odustane. Dobar balans je da se traže informacije koje menjaju cenu, rok i sledeći korak. Za staklare su to mere, tip stakla, lokacija i montaža.
+
+## Negativne ključne reči štede budžet
+
+Staklarske kampanje mogu brzo trošiti novac na pogrešne pretrage. U negativne ključne reči često ulaze poslovi i zaposlenje, kursevi, alati, mašine, polovno staklo, uradi sam vodiči, slike i ideje bez kupovne namere, forum pitanja, materijal bez usluge i lokacije koje firma ne pokriva.
+
+Ako firma ne prodaje samo materijal, treba filtrirati pretrage koje traže tablu stakla bez ugradnje. Ako ne radi hitne intervencije, treba paziti na hitno, odmah i 24h termine. Ako radi samo određeni grad, [budžet po lokacijama](/blog/marketing-budzet-po-gradovima-lead-generation-srbija-2026) mora biti čist. U suprotnom kampanja može izgledati aktivno, ali prodaja troši vreme na upite koje nikada nije htela.
+
+## Posebno meriti hitne popravke i projekte po meri
+
+Hitna popravka i projekat po meri imaju drugačiju ekonomiju. Kod hitne popravke važni su brzina odgovora, dostupnost majstora, lokacija i minimalna cena izlaska. Kod projekata po meri važni su mere, materijal, dizajn, rok, dogovor oko montaže i prihvaćena ponuda.
+
+Zbog toga ih ne treba optimizovati na isti način. Hitne popravke mogu imati kraći prodajni ciklus i više poziva. Projekti po meri mogu imati manje upita, ali veću vrednost. Ako se oba mere istim ciljem, platforma može favorizovati lakše pozive, a firma može propustiti poslove koji stvarno nose mesec.
+
+## Brzina odgovora menja rezultat kampanje
+
+Kod lokalnih usluga kupac često zove više firmi. Ako staklar odgovori posle nekoliko sati, ozbiljan upit možda je već otišao konkurenciji. Ovo je posebno važno za polomljeno staklo, lokale, izloge i rokove pred useljenje ili otvaranje. Kampanja može dovesti pravi poziv, ali ako nema vlasništva nad odgovorom, rezultat se gubi posle klika.
+
+Zato treba povezati oglase sa procesom prodaje: ko odgovara, u kom roku, šta pita, kako beleži status i kada šalje ponudu. Teme kao [propušteni pozivi iz kampanja](/blog/propusteni-pozivi-iz-kampanja-leadovi-prodaja-srbija-2026) i [sledeći korak posle upita](/blog/sledeci-korak-posle-upita-leadovi-prodaja-srbija-2026) nisu teorija za velike firme. One direktno utiču na to da li staklarski upit postaje posao.
+
+## Kako izgleda zdrav izveštaj za staklare
+
+Zdrav izveštaj ne kaže samo koliko je bilo klikova i poziva. On pokazuje koliko je upita bilo za zamenu, koliko za projekte po meri, koliko iz podržanih lokacija, koliko sa validnim merama, koliko je dobilo ponudu i koliko je prihvatilo montažu. Tek tada se vidi da li kampanja treba više budžeta, bolju landing stranu ili strože filtere.
+
+Ako se vidi da mali poslovi troše previše vremena, mogu se uvesti minimalni pragovi ili jasniji tekst u oglasu. Ako se vidi da projekti po meri imaju dobru maržu, ali malo volumena, može se izdvojiti poseban budžet za tu grupu. Ako se vidi da jedan grad šalje dosta nekvalifikovanih upita, lokacijsko ciljanje treba popraviti pre povećanja potrošnje.
+
+## Koliki budžet ima smisla za prvi test
+
+Za prvi test nije poenta da se odmah pokrije svaka usluga. Bolje je izabrati jednu ili dve grupe sa jasnom vrednošću, postaviti tracking poziva i formi, napraviti landing stranu koja kvalifikuje posao i pustiti dovoljno budžeta da se vide obrasci. Ako je budžet premali, dobijaju se slučajni signali. Ako je preširok, novac ode na upite bez fokusa.
+
+Kao i kod drugih lokalnih usluga, prvi budžet treba gledati kroz cilj učenja: koji tip posla donosi najbolje razgovore, koji grad ima smisla, koje negativne reči treba dodati i gde prodaja gubi sledeći korak. Tek posle toga ima smisla pričati o skaliranju.
+
+## Kako Platinum Zenith pristupa kampanjama za staklare
+
+Kada radimo kampanje za staklarske i druge zanatske firme, ne krećemo od pitanja koliko klikova možemo kupiti. Krećemo od toga koji poslovi su najisplativiji, koje lokacije firma stvarno pokriva, koliko brzo može da odgovori i koje informacije su potrebne da bi se poslala ozbiljna ponuda.
+
+Ako imate staklarsku firmu i želite da proverite da li Google Ads može donositi bolje upite, pošaljite nam preko [kontakt strane](/kontakt) koje usluge radite, koje gradove pokrivate, prosečnu vrednost posla i kako trenutno beležite pozive. Vratićemo vam praktičan plan: koje kampanje odvojiti, koje upite filtrirati i koji budžet ima smisla za prvi test.
+`,
+  },
+
+  {
     slug: 'marketing-budzet-po-gradovima-lead-generation-srbija-2026',
     title: 'Marketing budžet po gradovima u Srbiji 2026: zašto jedna cifra ne radi za svaki teren',
     excerpt: 'Jedan CPL za celu Srbiju često sakrije gradove koji troše budžet bez prodaje. Evo kako planirati lead generation po lokaciji, kapacitetu i marži.',

@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-staklare-cena-upita-srbija-2026",
+    "title": "Google Ads za staklare u Srbiji 2026: cena upita i budžet",
+    "excerpt": "Staklarske firme ne treba da mere Google Ads samo po pozivima. Važni su tip stakla, mere, lokacija, rok i prihvaćena montaža.",
+    "date": "2026-07-02",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "marketing-budzet-po-gradovima-lead-generation-srbija-2026",
     "title": "Marketing budžet po gradovima u Srbiji 2026: zašto jedna cifra ne radi za svaki teren",
     "excerpt": "Jedan CPL za celu Srbiju često sakrije gradove koji troše budžet bez prodaje. Evo kako planirati lead generation po lokaciji, kapacitetu i marži.",
