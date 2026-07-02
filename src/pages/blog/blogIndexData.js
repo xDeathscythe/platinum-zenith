@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "avans-rok-naplate-marketing-budzet-lead-generation-srbija-2026",
+    "title": "Avans i rok naplate u Srbiji 2026: kako planirati marketing budžet",
+    "excerpt": "Ako se prihod naplaćuje kasno, isti CPL može biti dobar na papiru i opasan za novčani tok. Planirajte budžet po avansu, rokovima i naplati.",
+    "date": "2026-07-03",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "proces-saradnje-na-sajtu-konverzija-upiti-srbija-2026",
     "title": "Proces saradnje na sajtu u Srbiji 2026: zašto upit staje pre kontakta",
     "excerpt": "Kada sajt ne pokaže korake saradnje, posetilac odlaže upit. Evo kako jasan proces smanjuje rizik, ubrzava odluku i diže kvalitet leadova.",

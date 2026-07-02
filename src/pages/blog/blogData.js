@@ -1,5 +1,83 @@
 const rawBlogPosts = [
   {
+    slug: 'avans-rok-naplate-marketing-budzet-lead-generation-srbija-2026',
+    title: 'Avans i rok naplate u Srbiji 2026: kako planirati marketing budžet',
+    excerpt: 'Ako se prihod naplaćuje kasno, isti CPL može biti dobar na papiru i opasan za novčani tok. Planirajte budžet po avansu, rokovima i naplati.',
+    date: '2026-07-03',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Marketing budžet', 'ROI', 'Lead Generation', 'Novčani tok', 'Prodaja'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Zašto avans menja celu računicu marketing budžeta
+
+Mnoge firme planiraju lead generation kao da je svaki novi kupac odmah novac na računu. Kampanja dovede upit, prodaja zatvori posao, Excel pokaže prihod i deluje da je [Google Ads budžet](/google-reklame-cena) opravdan. U praksi se često desi drugačije: deo se plaća unapred, deo po završetku, deo kasni, a deo nikada ne dođe u roku koji je bio zamišljen.
+
+Zato isti CPL može biti odličan ili opasan, zavisno od avansa i roka naplate. Ako firma plaća klikove danas, a novac od kupca stiže za 45 dana, marketing ne testira samo potražnju. Testira i da li posao može da izdrži vremenski razmak između troška i naplate.
+
+## Česta greška: prihod se računa kao gotovina
+
+Česta greška firmi je da u planu pišu punu vrednost posla čim je lead zatvoren. Na papiru to izgleda uredno. Kampanja donese 10 upita, prodaja zatvori dva posla, svaki vredi 1.000 evra i marketing deluje profitabilno. Ali ako je avans 20%, ostatak stiže posle isporuke, a isporuka traje mesec dana, realna gotovina je mnogo slabija od prikazanog prihoda.
+
+Tu nastaje problem sa budžetom. Firma vidi da marketing radi, ali kasa se prazni brže nego što se puni. Onda se kampanja seče baš kada počinje da skuplja podatke. Ne zato što ne donosi dobre prilike, nego zato što finansijski ritam nije uračunat pre starta.
+
+## Avans pokazuje koliko rizika firma nosi pre isporuke
+
+Avans nije samo administrativni detalj. On pokazuje koliko rizika ostaje na firmi pre nego što posao bude isporučen i naplaćen. Ako je avans 50%, kampanja može imati drugačiji tempo nego ako je avans 0% i sve se naplaćuje po završetku. U prvom slučaju deo troška marketinga se brže vraća. U drugom slučaju firma finansira oglašavanje, prodaju, pripremu i isporuku pre nego što vidi veći deo novca.
+
+Zato plan budžeta treba da pita: koliki deo ugovora se naplaćuje odmah, koliki deo kasnije, kada realno stiže uplata i šta se dešava ako kupac kasni. Ovo je blisko temi [novčanog toka u marketing budžetu](/blog/novcani-tok-marketing-budzet-roi-srbija-2026), ali avans je konkretniji filter. On kaže koliko marketing može agresivno da kupuje tražnju bez gušenja operacija.
+
+## Primer: isti CPL, dva potpuno različita ishoda
+
+Zamislite dve uslužne firme koje plaćaju 2.000 dinara po kvalifikovanom leadu. Obe zatvaraju svakog petog ozbiljnog leada, pa im je trošak po novom kupcu oko 10.000 dinara. Na prvi pogled rezultat je isti.
+
+Prva firma naplaćuje 50% unapred i ostatak po završetku za deset dana. Druga firma naplaćuje tek nakon isporuke, prosečno za 45 dana. Prva može da nastavi test, jer deo gotovine brzo vraća trošak kampanje. Druga mora da ima veći rezervni fond, sporiji tempo ili strožiji kriterijum za prihvatljiv CPL, jer svaka nova prodaja prvo pravi obavezu pre nego što napravi novac.
+
+Zato [CPL nije CAC](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026) dok se ne uračunaju zatvaranje, marža, vreme naplate i realni novac koji ostaje firmi.
+
+## Rok naplate menja maksimalnu cenu leada
+
+Maksimalna cena leada ne zavisi samo od bruto marže i stope zatvaranja. Zavisi i od toga koliko brzo firma može da naplati posao. Lead koji vodi do profitabilnog ugovora za tri dana može opravdati viši test budžet od istog ugovora koji se naplaćuje za 60 dana, naročito ako firma mora da plati materijal, tim, izvođače ili logistiku unapred.
+
+Ako je rok naplate dug, prihvatljiv CPL mora imati sigurnosni prostor. Ne zato što marketing slabije radi, nego zato što novac kasni. Dobar plan zato računa tri nivoa: koliko smemo da platimo za lead, koliko smemo da platimo za kupca i koliko dana možemo da finansiramo razmak do naplate. To povezuje [bruto maržu](/blog/bruto-marza-marketing-budzet-roi-srbija-2026), prodajni proces i stvaran cash flow.
+
+## Kada avans treba da utiče na strukturu kampanje
+
+Ako firma ima slab avans ili dugu naplatu, kampanja ne mora odmah da se gasi. Ali mora biti pametnije postavljena. Umesto da juri najveći broj upita, bolje je dati prednost ponudama koje brže vraćaju novac, imaju jasniji budžet kupca ili kraći put do odluke. To može značiti odvojene kampanje za usluge sa avansom, usluge sa bržom isporukom i usluge koje prave dug pipeline.
+
+Slično važi za landing stranu. Forma ne treba da pita samo ime i telefon. Treba da prikupi informacije koje utiču na naplatu: tip usluge, okvirni budžet, rok, da li je odluka hitna, da li postoji odobrenje za avans i koji je sledeći korak. To se direktno naslanja na [kvalifikaciju kroz kontakt formu](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026).
+
+## Budžet za test mora pokriti i vreme čekanja
+
+Test budžet često propadne jer se planira samo media spend. Firma kaže: imamo 1.000 evra za test. Ali ako prodajni ciklus traje tri nedelje, naplata još četiri, a odluka kupca nije odmah jasna, tih 1.000 evra ne pokriva ceo test. Pokriva samo klikove.
+
+Pravi test budžet treba da pokrije period do prve korisne odluke: dovoljno saobraćaja, dovoljno kvalifikovanih leadova, dovoljno prodajnih razgovora i dovoljno vremena da se vidi da li novac stvarno stiže. Zato je korisno povezati ovaj plan sa [periodom povrata marketing budžeta](/blog/period-povrata-marketing-budzeta-srbija-2026) i [dugim prodajnim ciklusom](/blog/dug-prodajni-ciklus-marketing-budzet-lead-generation-srbija-2026).
+
+## Šta pratiti u CRM-u da ROI ne bude lažno pozitivan
+
+Ako CRM ima samo statuse novi lead, pozvan i prodat, finansijska slika je pregruba. Za budžet su važni statusi koji prate novac: poslat predlog, prihvaćen predlog, avans uplaćen, isporuka u toku, fakturisano, naplaćeno, kasni naplata, izgubljeno zbog budžeta. Tek tada marketing zna koje kampanje donose stvarno naplaćene poslove, a koje samo pune pipeline koji se sporo pretvara u gotovinu.
+
+Ovo ne mora biti komplikovan sistem. Može početi u jednostavnom CRM-u ili tabeli, ali status mora biti dosledan. Ako se sve vodi kao prodaja čim kupac kaže da je zainteresovan, ROI će izgledati bolje nego što jeste. Ako se meri tek naplaćen posao, odluke o budžetu postaju mirnije i preciznije.
+
+## Kada veći avans može popraviti marketing, a ne samo finansije
+
+Ponekad problem nije u oglasima nego u uslovima ponude. Ako firma stalno privlači ljude koji odlažu plaćanje, traže popuste ili žele da sve bude gotovo pre uplate, kampanja dobija loš signal. Tada uvođenje jasnijeg avansa, početnog paketa ili plaćenog dijagnostičkog koraka može popraviti kvalitet leadova.
+
+To ne znači da treba sakriti cenu ili otežati kupovinu. Znači da ponuda mora jasno reći šta je prvi finansijski korak. Kada ozbiljan kupac vidi realan proces, lakše odlučuje. Kada neozbiljan kupac vidi da postoji minimum ulaska, ranije se sam isključi. To štedi budžet, prodajno vreme i pažnju tima.
+
+## Kako Platinum Zenith planira budžet oko naplate
+
+Kada planiramo [cene digitalnog marketinga](/cene-digitalnog-marketinga) i lead generation kampanje, ne gledamo samo klik, CPL i broj upita. Pitamo šta se dešava posle zatvaranja: koliki je avans, kada stiže ostatak, koliko traje isporuka, kolika je marža, koliko prodaja može da isprati i koliko dugo firma može da finansira rast pre naplate.
+
+Ako želite da proverite da li vaš marketing budžet ima smisla kada se uračunaju avans, rokovi i realan tok novca, pošaljite nam trenutne brojke preko [kontakt forme](/kontakt). Možemo zajedno proći osnovnu računicu, povezati je sa [ROI kalkulatorom](/alati/roi-kalkulator) i odvojiti kampanje koje donose naplaćen rast od kampanja koje samo lepo izgledaju u izveštaju.
+`,
+  },
+
+  {
     slug: 'proces-saradnje-na-sajtu-konverzija-upiti-srbija-2026',
     title: 'Proces saradnje na sajtu u Srbiji 2026: zašto upit staje pre kontakta',
     excerpt: 'Kada sajt ne pokaže korake saradnje, posetilac odlaže upit. Evo kako jasan proces smanjuje rizik, ubrzava odluku i diže kvalitet leadova.',
