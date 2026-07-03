@@ -1,5 +1,87 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-fasade-i-izolaciju-cena-upita-srbija-2026',
+    title: 'Google Ads za fasade i izolaciju u Srbiji 2026: cena upita i budžet',
+    excerpt: 'Fasadne firme ne treba da mere Google Ads samo po pozivima. Važni su kvadratura, lokacija, skela, sistem izolacije, rok i prihvaćena ponuda.',
+    date: '2026-07-03',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Fasade', 'Izolacija', 'Lokalni marketing', 'Lead Generation'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Zašto fasaderski upit nije samo još jedan poziv
+
+Fasadne firme i izvođači termoizolacije često dobijaju upite koji na papiru izgledaju isto: neko pita za cenu fasade. U praksi, jedan upit je kuća od 180 kvadrata sa spremnim budžetom i jasnim rokom, drugi je zgrada sa više stanara, treći je samo pitanje za cenu stiropora, a četvrti traži najjeftiniju ekipu bez dogovorenog termina.
+
+Zato [Google Ads](/google-reklame-cena) za fasade ne treba meriti samo po broju poziva. Važno je da li upit ima kvadraturu, lokaciju, visinu objekta, potrebu za skelom, tip izolacije, rok, fotografije i realnu šansu da se pretvori u izlazak na procenu, poslatu ponudu i prihvaćen posao.
+
+## Česta greška: sve fasade u jednoj kampanji
+
+Česta greška firmi je da u istu kampanju stave fasade, stiropor, kamenu vunu, dekorativni malter, sanaciju stare fasade, završne radove, zgrade, kuće i materijal. Deluje logično jer sve pripada istoj usluzi. Problem je što kupac koji traži kompletnu fasadu nema isti intent kao čovek koji upoređuje cenu materijala po kvadratu.
+
+Kada se ti signali pomešaju, kampanja može donositi dosta aktivnosti, ali prodaja ne zna šta je stvarno profitabilno. Algoritam optimizuje prema najlakšim konverzijama, a ne prema poslovima koji pune ekipu na terenu i opravdavaju trošak oglašavanja.
+
+## Kako podeliti kampanje za fasade i izolaciju
+
+Praktičnija struktura je da se kampanje razdvoje po tipu posla. Jedna grupa može biti kompletna termoizolacija kuća. Druga može biti sanacija i obnova postojeće fasade. Treća može biti veći objekti, stambene zgrade ili poslovni prostori. Četvrta može pokriti specifične sisteme, kao što su kamena vuna, stiropor, dekorativni malter ili ventilisana fasada, ako ih firma stvarno nudi.
+
+Ova podela ne mora odmah značiti veliki budžet za svaku grupu. Može početi kao uredan test. Poenta je da se zna koji upit vodi ka kojoj proceni i koliko vredi. Kod kuće je često važan vlasnik i rok. Kod zgrade je važan upravnik, saglasnost stanara, okvir finansiranja i duži proces odluke.
+
+## Cena upita zavisi od kvadrature, marže i realizacije
+
+Poziv od 700 dinara nije automatski dobar ako se završi pitanjem za najnižu cenu bez namere za izvođenje. Upit od 2.500 dinara može biti odličan ako vodi ka ozbiljnoj fasadi, većoj kvadraturi i dogovorenom izlasku na teren. Zato se cena upita mora gledati kroz [bruto maržu](/blog/bruto-marza-marketing-budzet-roi-srbija-2026), prosečnu vrednost posla, stopu zatvaranja i kapacitet ekipe.
+
+Kod fasada postoji i dodatni sloj: sezona, vreme, skela, materijal, avans, dinamika plaćanja i dostupnost majstora. Ako kampanja dovede više posla nego što ekipa može da obiđe ili isporuči, veći broj leadova može napraviti haos umesto rasta.
+
+## Šta landing strana mora da pita
+
+Landing strana za fasade ne treba da bude samo galerija lepih pre i posle slika. Galerija pomaže, ali kvalifikacija dolazi iz konkretnih pitanja. Forma ili prvi razgovor treba da uhvati grad ili opštinu, tip objekta, približnu kvadraturu, spratnost, da li je potrebna skela, da li postoji stara fasada, željeni rok, fotografije objekta i najbolji kanal za odgovor.
+
+To je ista logika kao kod [kvalifikacije kroz kontakt formu](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026). Ako forma pita samo ime i telefon, prodaja sve mora da izvlači ručno. Ako pita previše, deo ljudi odustane. Dobar balans je da se traže informacije koje stvarno menjaju cenu, rok i sledeći korak.
+
+## Negativne ključne reči čuvaju budžet
+
+Fasaderske kampanje mogu brzo potrošiti novac na pogrešne pretrage. U negativne ključne reči često ulaze poslovi, dnevnica, plata, kurs, obuka, sam svoj majstor, forum, slike, ideje, polovni materijal, alat, mašine, samo stiropor, prodaja materijala bez ugradnje i lokacije koje firma ne pokriva.
+
+Ako firma ne radi male popravke, treba filtrirati sitne intervencije. Ako ne prodaje materijal, treba odvojiti pretrage koje traže samo cenu stiropora, lepak ili mrežicu. Ako radi samo određeni grad ili okrug, [budžet po lokacijama](/blog/marketing-budzet-po-gradovima-lead-generation-srbija-2026) mora biti čist. Inače prodaja troši vreme na upite koji nikada nisu bili cilj.
+
+## Posebno meriti kuće, zgrade i sanacije
+
+Kompletna fasada na porodičnoj kući, obnova stare fasade i posao na zgradi nisu isti funnel. Kod kuće odluka može biti brža ako vlasnik ima budžet i želi radove pre zime. Kod zgrade se odluka često razvlači zbog skupštine stanara, upravnika, više ponuda i rokova plaćanja. Kod sanacije je važan uzrok problema, stanje podloge i realna procena pre obećanja cene.
+
+Ako se sve meri istim ciljem, platforma može favorizovati najlakše pozive. Firma tada dobije pun telefon, ali malo prihvaćenih ponuda. Bolje je meriti faze: validan upit, poslate slike ili podaci, zakazana procena, poslata ponuda, prihvaćen posao i naplaćen avans.
+
+## Sezona menja tempo budžeta
+
+Kod fasada sezona nije detalj. Potražnja raste kada vreme dozvoljava radove, ali tada rastu i konkurencija, zauzetost ekipa i cena propuštene prilike. Ako se kampanja pali tek kada su majstori već puni, dobar lead može čekati predugo. Ako se pali prerano bez jasnog follow-up-a, upiti se ohlade pre termina.
+
+Zato [marketing budžet](/cene-digitalnog-marketinga) treba planirati po sezoni, ne samo po mesečnom limitu. Pred sezonu se testiraju poruke, negativne reči i landing strana. U sezoni se budžet usmerava ka najprofitabilnijim poslovima. Posle špica se mogu gurati sanacije, dogovori za naredni period ili veći projekti koji imaju duži prodajni ciklus.
+
+## Kako povezati Google Ads sa prodajom na terenu
+
+Najveći problem često nije klik. Problem je šta se desi posle upita. Ako prodaja ne zna ko odgovara, ko zakazuje izlazak, ko šalje ponudu i kada se radi follow-up, kampanja može izgledati slabije nego što jeste. Jedan ozbiljan vlasnik kuće neće čekati nedelju dana da dobije okvirni sledeći korak.
+
+Zato je korisno imati jednostavne statuse: nov upit, traženi podaci, poslata procena, zakazan izlazak, ponuda poslata, čeka odluku, avans uplaćen, izgubljeno zbog cene, izgubljeno zbog roka. To pomaže da se vidi da li problem leži u oglasu, landing strani, ceni, roku ili prodajnom procesu.
+
+## Kada Google Ads ima smisla za fasadere
+
+Google Ads ima smisla kada firma zna koje poslove želi, u kojim mestima radi, koliki minimum kvadrature prihvata i koliko brzo može da odgovori. Ako je cilj samo "što više poziva", budžet će se lako razliti. Ako je cilj više procena za konkretne tipove fasada, kampanja može biti mnogo preciznija.
+
+Slično važi i za druge home improvement niše kao što su [moleri i gipsari](/blog/google-ads-za-molere-i-gipsare-cena-upita-srbija-2026), [roletne i komarnici](/blog/google-ads-za-roletne-i-komarnike-cena-upita-srbija-2026) ili [PVC stolarija](/blog/google-ads-za-pvc-stolariju-cena-upita-srbija-2026). Najbolji rezultat dolazi kada kampanja, landing strana i prodajni razgovor kvalifikuju isti tip posla.
+
+## Kako Platinum Zenith planira kampanje za fasade
+
+Kada planiramo kampanju za fasadne radove, ne počinjemo od pitanja koliko klik košta. Počinjemo od toga koji poslovi su najisplativiji, koja mesta se pokrivaju, kolika je minimalna kvadratura, šta mora da se zna pre izlaska na teren i koji status pokazuje da lead stvarno napreduje.
+
+Ako imate fasadersku firmu i želite da proverite da li Google Ads može donositi više procena, a ne samo više praznih poziva, pošaljite nam trenutnu ponudu i lokacije preko [kontakt forme](/kontakt). Pogledaćemo strukturu kampanje, landing stranu, pitanja u formi i način merenja ponuda pre nego što se budžet pusti da troši.
+`,
+  },
+
+  {
     slug: 'avans-rok-naplate-marketing-budzet-lead-generation-srbija-2026',
     title: 'Avans i rok naplate u Srbiji 2026: kako planirati marketing budžet',
     excerpt: 'Ako se prihod naplaćuje kasno, isti CPL može biti dobar na papiru i opasan za novčani tok. Planirajte budžet po avansu, rokovima i naplati.',

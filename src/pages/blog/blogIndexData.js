@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-fasade-i-izolaciju-cena-upita-srbija-2026",
+    "title": "Google Ads za fasade i izolaciju u Srbiji 2026: cena upita i budžet",
+    "excerpt": "Fasadne firme ne treba da mere Google Ads samo po pozivima. Važni su kvadratura, lokacija, skela, sistem izolacije, rok i prihvaćena ponuda.",
+    "date": "2026-07-03",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "avans-rok-naplate-marketing-budzet-lead-generation-srbija-2026",
     "title": "Avans i rok naplate u Srbiji 2026: kako planirati marketing budžet",
     "excerpt": "Ako se prihod naplaćuje kasno, isti CPL može biti dobar na papiru i opasan za novčani tok. Planirajte budžet po avansu, rokovima i naplati.",
