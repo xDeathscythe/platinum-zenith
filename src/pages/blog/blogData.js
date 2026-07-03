@@ -1,5 +1,83 @@
 const rawBlogPosts = [
   {
+    slug: 'donosilac-odluke-lead-generation-prodaja-srbija-2026',
+    title: 'Donosilac odluke u Srbiji 2026: zašto lead ne postaje prodaja',
+    excerpt: 'Kampanja može dovesti dobar upit, ali prodaja staje ako priča ide preko osobe bez odluke. Evo kako kvalifikovati ulogu, budžet i sledeći korak.',
+    date: '2026-07-03',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Lead Generation', 'Prodaja', 'Kvalifikacija leadova', 'B2B marketing', 'CRM'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Zašto dobar lead može stati kod pogrešne osobe
+
+Kampanja može dovesti pravu firmu, pravi problem i realan budžet, a prodaja ipak stane. Ne zato što je lead loš, nego zato što razgovor ide preko osobe koja ne može da donese odluku. U mnogim uslužnim i B2B firmama prvi kontakt bude asistent, zaposleni koji skuplja ponude, menadžer koji istražuje opcije ili partner koji tek treba da pita vlasnika.
+
+Ako se to ne vidi u funnel-u, [Google Ads](/google-reklame-cena) deluje slabije nego što jeste. Prodaja upiše da je lead tražio cenu, poslala se ponuda, niko se ne javlja i kampanja dobije krivicu. U stvarnosti, možda nikada nije vođen razgovor sa osobom koja ima autoritet, budžet i pritisak da problem reši.
+
+## Česta greška: svaki upit se tretira kao kupac
+
+Česta greška firmi je da svaki popunjen formular ili poziv tretiraju kao direktnu prodajnu priliku. To lepo izgleda u izveštaju jer broj upita raste. Problem nastaje kada se ne zna ko je u razgovoru: korisnik usluge, istraživač, nabavka, vlasnik, direktor, partner, roditelj, upravnik, član porodice ili neko ko samo skuplja tri ponude.
+
+Ta razlika menja sve. Poruka za osobu koja odlučuje treba da potvrdi vrednost, rizik, rok i sledeći korak. Poruka za osobu koja istražuje treba da joj pomogne da interno prenese slučaj. Ako se svima šalje isti generički cenovnik, ozbiljni leadovi se često ohlade pre nego što dođu do pravog stola.
+
+## Kako prepoznati da razgovarate sa posrednikom
+
+Neki signali se vide brzo. Lead pita samo "pošaljite cenu", izbegava kontekst, kaže "proslediću dalje", nema rok odluke, ne zna šta je prethodno pokušano ili traži dokument bez zakazivanja sledećeg razgovora. To ne znači da je lead loš. Znači da prodajni proces mora imati drugačiji korak.
+
+Umesto da prodaja odmah juri zatvaranje, bolje je prvo utvrditi ulogu osobe. Da li ona koristi uslugu? Da li bira dobavljača? Da li ima budžet? Ko još mora da potvrdi? Kada se donosi odluka? Šta treba da se desi da bi se sledeći razgovor zakazao sa pravom osobom?
+
+## Forma ne mora biti duga, ali mora pitati ulogu
+
+[Kvalifikacija kroz kontakt formu](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026) ne znači da treba napraviti anketu od 20 pitanja. Dovoljno je dodati jedno ili dva polja koja menjaju prodajni tretman. Na primer: "Ko odlučuje o izboru dobavljača?", "Da li već postoji odobren budžet?", "Ko treba da bude uključen u sledeći razgovor?" ili "Kada želite da donesete odluku?"
+
+Ova pitanja ne služe da se lead odbije. Služe da se ne pošalje ista poruka svima. Ako se javlja osoba koja tek skuplja informacije, može dobiti kratak pregled, kriterijume i predlog da se sledeći poziv vodi sa osobom koja odobrava budžet. Ako se javlja vlasnik sa jasnim problemom, prodaja može brže preći na dijagnostiku i ponudu.
+
+## Landing strana treba da pomogne internom prenošenju
+
+Kod skupljih usluga, posetilac često nije sam u odluci. Čak i kada dođe sa jasnim problemom, mora da objasni partneru, direktoru, finansijama ili timu zašto se uopšte razmatra promena. Landing strana zato ne treba da bude samo lepa prezentacija usluge. Treba da olakša interno prenošenje odluke.
+
+To znači da strana jasno pokazuje problem, posledicu, očekivani proces, dokaz, okvir budžeta i sledeći korak. Ako je sve napisano kao reklamni slogan, posrednik nema šta da prenese dalje. Ako strana ima konkretne kriterijume, scenarije i dokaz, lakše je da interni razgovor ne postane "još jedna agencija traži novac".
+
+Ovo se direktno naslanja na [usklađenost oglasa i landing strane](/blog/uskladjenost-oglasa-landing-strane-konverzija-srbija-2026) i na jasan [proces saradnje na sajtu](/blog/proces-saradnje-na-sajtu-konverzija-upiti-srbija-2026). Posetilac mora znati šta se dešava pre, tokom i posle kontakta.
+
+## Prvi odgovor treba da otkrije mapu odluke
+
+[Prvi odgovor na lead](/blog/prvi-odgovor-na-lead-prodajna-skripta-srbija-2026) ne treba da bude samo "hvala, evo cene". Bolji prvi odgovor potvrđuje problem, pita ko je uključen u odluku i predlaže sledeći korak koji uključuje pravu osobu. Na primer: "Da bismo procenili da li ima smisla, korisno je da u razgovoru bude osoba koja odobrava budžet ili rok. Ako to niste vi, možemo vam poslati kratak okvir za interno usklađivanje, pa zakazati poziv sa svima koji odlučuju."
+
+Takav odgovor nije napadan. On štedi vreme i firmi i leadu. Ozbiljna osoba će često ceniti jasnoću. Neozbiljan upit će se sam odvojiti. Najgore je ostaviti nejasan status: poslata ponuda, čeka se odgovor, niko ne zna da li osoba uopšte može da kaže da ili ne.
+
+## Šta meriti u CRM-u
+
+Ako CRM ima samo statuse "nov lead", "ponuda poslata" i "izgubljeno", problem sa donosiocem odluke ostaje nevidljiv. Korisnije je imati statuse kao što su: istražuje opcije, nije donosilac odluke, potreban vlasnik na pozivu, budžet nije odobren, interni sastanak zakazan, čekamo saglasnost, odluka do određenog datuma, izgubljeno zbog prioriteta, izgubljeno zbog budžeta.
+
+Tada marketing ne gleda samo broj upita, nego kvalitet prodajnog puta. Ako mnogo leadova staje na "nije donosilac odluke", problem može biti u oglasu, landing strani, formi ili kvalifikaciji. Ako leadovi dolaze od pravih osoba, ali se gube posle ponude, treba gledati [prodajni poziv](/blog/prodajni-poziv-za-leadove-srbija-2026), [sledeći korak posle upita](/blog/sledeci-korak-posle-upita-leadovi-prodaja-srbija-2026) i follow-up.
+
+## Kada kampanja treba da traži viši nivo osobe
+
+Ne mora svaka kampanja ciljati samo direktore i vlasnike. Kod jeftinijih usluga to može usporiti volumen bez potrebe. Ali kod skupljih usluga, dugog prodajnog ciklusa ili kompleksne isporuke, kvalitet kontakta je važniji od broja poruka. Ako se odluka uvek vraća na vlasnika, finansije ili partnera, funnel mora ranije da pripremi taj razgovor.
+
+To posebno važi kada [marketing budžet](/cene-digitalnog-marketinga) zavisi od manjeg broja većih poslova. Jedan razgovor sa pravim donosiocem odluke može vredeti više od deset razgovora sa osobama koje samo skupljaju cenovnike. Zato [kvalifikovane konverzije](/blog/kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026) treba vezati za fazu koja pokazuje stvarnu kupovnu moć, ne samo za submit forme.
+
+## Kako popraviti funnel bez komplikovanja
+
+Prvi korak je da prodaja dve nedelje beleži ko je bio u razgovoru i šta je falilo za odluku. Drugi korak je da forma i prvi odgovor uhvate ulogu, budžet, rok i ko mora biti uključen. Treći korak je da landing strana dobije sekciju koja pomaže internom objašnjenju: za koga je usluga, šta se meri, šta se očekuje od klijenta i kako izgleda sledeći korak.
+
+Ne treba uvoditi komplikovan enterprise proces ako firma prodaje lokalnu uslugu ili jednostavan paket. Ali ako se upiti stalno vraćaju sa "moram da pitam", "javljam se kada šef pogleda" ili "pošaljite mi da prosledim", to nije samo problem follow-up-a. To je znak da funnel ne razlikuje osobu koja pita od osobe koja odlučuje.
+
+## Kako Platinum Zenith ovo proverava u kampanjama
+
+Kada analiziramo zašto kampanja ne prodaje, ne gledamo samo CPC, CPL i broj konverzija. Gledamo ko je došao kroz upit, koja uloga je bila u razgovoru, da li postoji budžet, ko mora da odobri odluku i koji status pokazuje da se prilika pomera napred. Bez toga se lako zaključi da oglašavanje ne radi, iako je pravi problem u mapi odlučivanja.
+
+Ako imate kampanju koja donosi upite, ali se prodaja stalno zaglavi na "čekamo da odluče", pošaljite nam strukturu funnel-a preko [kontakt forme](/kontakt). Pogledaćemo oglas, landing stranu, formu, prvi odgovor i CRM statuse, pa predložiti gde treba kvalifikovati donosioca odluke pre nego što budžet nastavi da kupuje iste razgovore.
+`,
+  },
+
+  {
     slug: 'google-ads-za-fasade-i-izolaciju-cena-upita-srbija-2026',
     title: 'Google Ads za fasade i izolaciju u Srbiji 2026: cena upita i budžet',
     excerpt: 'Fasadne firme ne treba da mere Google Ads samo po pozivima. Važni su kvadratura, lokacija, skela, sistem izolacije, rok i prihvaćena ponuda.',

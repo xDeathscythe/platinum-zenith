@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "donosilac-odluke-lead-generation-prodaja-srbija-2026",
+    "title": "Donosilac odluke u Srbiji 2026: zašto lead ne postaje prodaja",
+    "excerpt": "Kampanja može dovesti dobar upit, ali prodaja staje ako priča ide preko osobe bez odluke. Evo kako kvalifikovati ulogu, budžet i sledeći korak.",
+    "date": "2026-07-03",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-fasade-i-izolaciju-cena-upita-srbija-2026",
     "title": "Google Ads za fasade i izolaciju u Srbiji 2026: cena upita i budžet",
     "excerpt": "Fasadne firme ne treba da mere Google Ads samo po pozivima. Važni su kvadratura, lokacija, skela, sistem izolacije, rok i prihvaćena ponuda.",
