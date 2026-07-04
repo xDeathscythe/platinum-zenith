@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "koliko-podataka-pre-promene-marketing-budzeta-srbija-2026",
+    "title": "Koliko podataka treba pre promene marketing budžeta u Srbiji 2026",
+    "excerpt": "Promena budžeta posle 3 leada često napravi lošiju kampanju. Evo kako odrediti prag podataka, kvalitet signala i trenutak za skaliranje ili pauzu.",
+    "date": "2026-07-04",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "donosilac-odluke-lead-generation-prodaja-srbija-2026",
     "title": "Donosilac odluke u Srbiji 2026: zašto lead ne postaje prodaja",
     "excerpt": "Kampanja može dovesti dobar upit, ali prodaja staje ako priča ide preko osobe bez odluke. Evo kako kvalifikovati ulogu, budžet i sledeći korak.",

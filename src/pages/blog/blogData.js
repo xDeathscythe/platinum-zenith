@@ -1,5 +1,81 @@
 const rawBlogPosts = [
   {
+    slug: 'koliko-podataka-pre-promene-marketing-budzeta-srbija-2026',
+    title: 'Koliko podataka treba pre promene marketing budžeta u Srbiji 2026',
+    excerpt: 'Promena budžeta posle 3 leada često napravi lošiju kampanju. Evo kako odrediti prag podataka, kvalitet signala i trenutak za skaliranje ili pauzu.',
+    date: '2026-07-04',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Marketing budžet', 'Lead Generation', 'ROI', 'Google Ads', 'Analitika'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Zašto prerana promena budžeta kvari sliku kampanje
+
+Jedna od najskupljih grešaka u lead generation kampanjama nije loš oglas, nego panična odluka posle premalo podataka. Kampanja potroši deo budžeta, stignu tri upita, jedan deluje loše, vlasnik vidi CPL koji nije lep i odmah traži pauzu, novi oglas ili duplo veći budžet na drugu grupu.
+
+To je razumljivo. Niko ne voli da gleda kako novac odlazi dok rezultat još nije jasan. Ali [Google Ads budžet](/google-reklame-cena) ne treba menjati na osnovu jednog dobrog ili lošeg dana. Ako se budžet stalno pomera pre nego što se vidi uzorak, kampanja nikada ne dobije stabilan signal iz kog može da se zaključi šta stvarno radi.
+
+## Česta greška: odluka se donosi po poslednjem leadu
+
+Česta greška firmi je da poslednji razgovor postane cela analiza. Ako je poslednji lead pitao samo za cenu, kampanja se proglasi lošom. Ako je poslednji lead zvučao odlično, odmah se traži skaliranje. Problem je što jedan razgovor ne predstavlja tržište, naročito kada se radi o skupljoj usluzi, manjem volumenu ili dužem prodajnom ciklusu.
+
+Bolji pristup je da se unapred definiše prag odluke. Na primer: ne donosimo budžetsku odluku dok ne vidimo najmanje 20 do 30 relevantnih klikova po uskoj nameri, 8 do 12 ozbiljnih upita u kampanji ili barem nekoliko kvalifikovanih razgovora sa jasnim statusom. Brojevi nisu isti za svaku nišu, ali princip jeste isti: odluka mora čekati dovoljno signala.
+
+## Nije svaki podatak jednako vredan
+
+Nije dovoljno samo pitati koliko je kampanja potrošila. Važno je šta je taj novac kupio. Deset klikova sa komercijalnih pretraga vrede više od sto širokih klikova koji traže posao, kurs, definiciju ili najjeftiniju opciju bez namere. Pet formulara sa popunjenim budžetom, lokacijom i rokom vrede više od petnaest praznih poruka sa tekstom "cena?".
+
+Zato prag odluke ne treba da bude samo dinarski. Treba gledati kvalitet signala: relevantne pretrage, klikove iz prave lokacije, procenat posetilaca koji ostaju na strani, popunjena kvalifikaciona polja, održane pozive, poslate ponude i prve CRM statuse. To se direktno naslanja na [kvalifikovane konverzije](/blog/kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026) i na [kvalifikaciju kroz kontakt formu](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026).
+
+## Kada je premalo podataka za skaliranje
+
+Skaliranje na osnovu dva dobra lead-a deluje hrabro, ali često samo ubrza grešku. Kampanja možda jeste pogodila poruku, ali još nije dokazala da može ponoviti rezultat kada se budžet poveća. Prvi sloj potrošnje često kupi najlakšu potražnju. Sledeći sloj može ući u šire pretrage, skuplje aukcije, slabije lokacije ili termine kada prodaja ne odgovara dovoljno brzo.
+
+Zato je korisno odvojiti početni test od skaliranja. [Test budžet za novu ponudu](/blog/test-budzet-za-novu-ponudu-lead-generation-srbija-2026) treba da potvrdi da postoje upiti, da su ljudi pravi i da prodaja zna šta sa njima radi. Tek posle toga ima smisla pričati o [inkrementalnom budžetu](/blog/inkrementalni-marketing-budzet-roi-lead-generation-srbija-2026), odnosno o dodatnih 20 ili 30% potrošnje koje se meri odvojeno od početnog plana.
+
+## Kada je dovoljno podataka za korekciju
+
+Ne treba ni čekati savršen dokaz dok kampanja očigledno curi. Ako se posle prvih nekoliko dana vidi da pretrage nisu relevantne, forma ne radi, tracking beleži pogrešan događaj ili prodaja ne može da odgovori na pozive, to nije pitanje statistike. To je operativna rupa koju treba odmah popraviti.
+
+Zato dobar budžetski plan ima dve vrste odluka. Prva je brza korekcija tehničkih i funnel problema: negativne ključne reči, lokacije, landing strana, forma, tracking, telefonski odgovor. Druga je poslovna odluka o pauzi, povećanju ili promeni ponude. Za prvu je dovoljan jasan signal. Za drugu je potreban veći uzorak i veza sa prodajnim ishodom.
+
+## Primer praga odluke za lead generation
+
+Zamislimo firmu koja prodaje uslugu od 800 evra, sa bruto maržom od 50% i prosečnom stopom zatvaranja od 20% na kvalifikovane leadove. Ako želi da proveri kampanju, nije dovoljno da potroši 50 evra i zaključi da ne radi. Potrebno je da vidi koliko košta relevantan klik, koliko posetilaca postaje upit, koliko upita prolazi osnovnu kvalifikaciju i koliko razgovora ide ka ponudi.
+
+Praktičan prag može izgledati ovako: prvo proveriti 100 do 150 relevantnih klikova ili manji broj ako je niša skupa, zatim minimum 8 do 15 upita, zatim najmanje 3 do 5 kvalifikovanih razgovora pre ozbiljne budžetske odluke. Ako postoji dug prodajni ciklus, treba dodati i vreme da se vide ponude, avansi ili statusi u pipeline-u. Tu pomaže [ROI kalkulator](/alati/roi-kalkulator), ali samo ako se unesu realne stope, ne želje.
+
+## Budžet, tempo i prodajni kapacitet moraju biti povezani
+
+Prag podataka zavisi i od dnevnog tempa. Ako je [dnevni budžet](/blog/dnevni-budzet-google-ads-lead-generation-srbija-2026) prenizak, kampanja skuplja podatke sporo i svaka odluka kasni. Ako je previsok, greška se skupo ponavlja pre nego što tim stigne da je vidi. Ako prodaja ne može da obradi upite istog dana, dodatni podaci mogu izgledati loše samo zato što odgovor kasni.
+
+Zato budžet ne treba planirati odvojeno od prodajnog kapaciteta. Firma koja može kvalitetno obraditi pet ozbiljnih leadova nedeljno ne treba isti tempo kao firma koja ima tim, CRM i jasne statuse. U prvom slučaju cilj je stabilan uzorak bez gušenja prodaje. U drugom slučaju cilj može biti brže učenje, ali samo ako se statusi uredno beleže.
+
+## Šta zapisivati pre odluke
+
+Pre promene budžeta korisno je imati kratak scorecard. Koliko je potrošeno? Koliko je bilo relevantnih klikova? Koje pretrage su trošile novac? Koliko je bilo formulara, poziva i WhatsApp poruka? Koliko je leadova kvalifikovano? Koliko je razgovora održano? Koliko je ponuda poslato? Koji su razlozi za gubitak?
+
+Bez tih odgovora, odluka se svodi na osećaj. Sa tim odgovorima, [marketing budžet](/cene-digitalnog-marketinga) može da se brani ili menja. Ako su klikovi pogrešni, menja se targeting. Ako su klikovi dobri, a forma slaba, menja se landing strana. Ako su leadovi dobri, a ponude ne prolaze, problem je u prodaji, ceni, dokazima ili sledećem koraku.
+
+## Kako izgleda zdrava odluka
+
+Zdrava odluka nije "kampanja radi" ili "kampanja ne radi" posle jednog izveštaja. Zdrava odluka kaže: imamo dovoljno podataka za ovu vrstu promene. Na primer, imamo dovoljno signala da dodamo negativne reči odmah. Imamo dovoljno kvalifikovanih razgovora da testiramo novu poruku. Imamo dovoljno CRM statusa da povećamo budžet na grupu koja donosi veće poslove. Ili nemamo dovoljno prodajnih podataka i zato produžavamo test bez povećanja potrošnje.
+
+Takav pristup čuva firmu od dve suprotne greške: prerano sečenje kampanje koja je tek počela da uči i tvrdoglavo finansiranje kampanje koja već pokazuje jasan kvar. Zato se uz glavni budžet često isplati imati i [rezervni budžet za korekcije](/blog/rezervni-marketing-budzet-korekcije-lead-generation-srbija-2026), da se popravke ne rade tek kada je sav novac otišao na klikove.
+
+## Kako Platinum Zenith postavlja prag odluke
+
+Kada planiramo lead generation kampanju, ne gledamo samo koliko novca klijent može da potroši. Gledamo koliko signala je potrebno da bi odluka imala smisla: broj relevantnih klikova, očekivani CPL, kvalifikaciona pitanja, brzinu prodaje, CRM statuse, maržu i vreme do naplate. Tek tada budžet postaje test koji može nešto da nauči, a ne mesečni limit koji se troši napamet.
+
+Ako imate kampanju u kojoj se budžet stalno pomera, a niko nije siguran da li ima dovoljno podataka za odluku, pošaljite nam trenutni funnel preko [kontakt forme](/kontakt). Pogledaćemo potrošnju, pretrage, landing stranu, formu, status leadova i prodajni tempo, pa predložiti koji prag odluke ima smisla pre sledećeg povećanja, pauze ili korekcije.
+`,
+  },
+
+  {
     slug: 'donosilac-odluke-lead-generation-prodaja-srbija-2026',
     title: 'Donosilac odluke u Srbiji 2026: zašto lead ne postaje prodaja',
     excerpt: 'Kampanja može dovesti dobar upit, ali prodaja staje ako priča ide preko osobe bez odluke. Evo kako kvalifikovati ulogu, budžet i sledeći korak.',
