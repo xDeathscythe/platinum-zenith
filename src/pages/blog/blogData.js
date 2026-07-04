@@ -1,5 +1,82 @@
 const rawBlogPosts = [
   {
+    slug: 'budzetski-horizont-lead-generation-roi-srbija-2026',
+    title: 'Budžetski horizont za lead generation u Srbiji 2026: koliko dugo čekati ROI',
+    excerpt: 'Ako se kampanja ocenjuje posle jedne nedelje, dobar funnel može izgledati loše. Evo kako planirati budžet za 30, 60 i 90 dana pre odluke o ROI-u.',
+    date: '2026-07-05',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Marketing budžet', 'Lead Generation', 'ROI', 'Google Ads', 'Prodaja'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Zašto budžetski horizont menja celu sliku kampanje
+
+Jedna od čestih grešaka u lead generation kampanjama je da se budžet planira mesečno, a uspeh ocenjuje posle nekoliko dana. Firma krene sa oglasima, potroši prvi deo novca, stignu dva ili tri upita, prodaja još nije vratila status i već se postavlja pitanje: da li ovo ima ROI?
+
+To pitanje je normalno. Problem je tajming. [Google Ads budžet](/google-reklame-cena) ne kupuje samo leadove, nego i podatke: koje pretrage vrede, koji oglasi privlače pogrešne ljude, koja landing strana objašnjava ponudu, koliko prodaja brzo odgovara i koliko razgovora ide ka ponudi. Ako se kampanja preseče pre nego što se ti signali pojave, dobar funnel može izgledati kao promašaj.
+
+## Česta greška: budžet se tretira kao jednokratna opklada
+
+Mnoge firme gledaju prvi mesec kampanje kao opkladu. Ako se odmah vrati novac, nastavljamo. Ako ne, gasimo. Takav pristup zvuči disciplinovano, ali često napravi pogrešan zaključak, naročito kod skupljih usluga, B2B prodaje, građevinskih radova, medicinskih usluga, edukacija ili svake ponude gde odluka ne pada isti dan.
+
+Bolji pristup je da se unapred definiše budžetski horizont. To je period u kom kampanja sme da prikuplja validne signale pre velike odluke o skaliranju, pauzi ili promeni ponude. Horizont ne znači bacanje novca. Znači da se zna šta se meri u prvih 30 dana, šta u 60 dana, a šta tek u 90 dana.
+
+## Prvih 30 dana: ne traži se konačan ROI, nego signal
+
+U prvih 30 dana najvažnije je proveriti da li kampanja dolazi do prave namere. To znači relevantne pretrage, lokacije, klikove koji ne beže odmah, forme koje ljudi mogu da popune, pozive koji se javljaju i prve statuse leadova. Ako tu postoji rupa, popravka mora biti brza.
+
+Na primer, ako pola budžeta odlazi na pretrage za posao, kurs, definiciju ili najjeftiniju varijantu koju firma ne nudi, nije potrebno čekati 90 dana. Dodaju se negativne reči, sužava se namera i menja poruka. Ako se vidi da ljudi klikću, ali forma ne traži budžet, lokaciju ili rok, popravlja se [kvalifikacija kroz kontakt formu](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026).
+
+U ovoj fazi ROI je retko čista slika. Važnije je pitanje: da li budžet kupuje dovoljno kvalitetan signal da ima smisla nastaviti test?
+
+## Posle 60 dana: gledaju se obrasci, ne pojedinačni leadovi
+
+Posle 60 dana već treba da postoji uzorak. Ne savršen, ali dovoljan da se vide obrasci: koje kampanje donose ozbiljnije razgovore, koje ponude privlače loš fit, koliko se brzo leadovi obrađuju, koliko ponuda se šalje i gde se prodaja zaglavljuje.
+
+Tu se budžet ne menja po poslednjem leadu, nego po trendu. Ako jedna grupa ima skuplji CPL, ali vodi ka većim poslovima, možda zaslužuje veći deo budžeta. Ako druga grupa ima jeftine upite koji nikada ne prolaze dalje od prvog pitanja za cenu, taj deo treba seći ili jasnije kvalifikovati. Zato je korisno povezati budžet sa temom [koliko podataka treba pre promene marketing budžeta](/blog/koliko-podataka-pre-promene-marketing-budzeta-srbija-2026), jer svaki kanal treba svoj prag odluke.
+
+## Posle 90 dana: odluka mora uključiti prodaju, ne samo Ads nalog
+
+Posle 90 dana ima smisla ozbiljnije pričati o ROI-u, ali samo ako prodaja beleži statuse. Ako postoje samo klikovi, formulari i osećaj iz razgovora, odluka je i dalje mutna. Potrebno je znati koliko leadova je kvalifikovano, koliko razgovora je održano, koliko ponuda je poslato, šta je izgubljeno zbog cene, šta zbog roka, a šta zbog lošeg fita.
+
+Kod dužeg ciklusa, pun ROI možda još kasni. To ne znači da kampanja ne radi. Možda su poslovi u fazi ponude, čekaju odobrenje, avans ili termin. Zato se budžetski horizont mora povezati sa [periodom povrata marketing budžeta](/blog/period-povrata-marketing-budzeta-srbija-2026) i temom [dugog prodajnog ciklusa](/blog/dug-prodajni-ciklus-marketing-budzet-lead-generation-srbija-2026), ne samo sa izveštajem iz oglasnog naloga.
+
+## Koliki horizont ima smisla za različite firme
+
+Nema jedna cifra za sve. Firma koja prodaje hitnu lokalnu uslugu može videti korisne signale za dve do četiri nedelje. Firma koja prodaje projekte od nekoliko hiljada evra često treba 60 do 90 dana da vidi dovoljno razgovora, ponuda i follow-up statusa. B2B usluga sa više donosilaca odluke može tražiti još duži pipeline pre konačnog ROI zaključka.
+
+Praktično pravilo: što je veća vrednost posla, duži prodajni ciklus i manji broj kvalifikovanih leadova, to horizont mora biti duži. Ako se očekuje odluka posle tri dana za uslugu koju kupac bira tri nedelje, kampanja će stalno izgledati gore nego što jeste.
+
+## Kako rasporediti budžet po horizontu
+
+Budžet ne treba potrošiti ravno ako se još ne zna šta radi. Prvi deo horizonta služi za testiranje poruke, ključnih reči, publike, forme i tracking-a. Drugi deo služi za stabilizaciju grupa koje pokazuju kvalitetniji signal. Treći deo služi za odluku: povećati, zadržati, promeniti ponudu ili pauzirati.
+
+Zato je opasno uložiti sav novac u klikove, bez prostora za korekcije. Ako prvih 15 dana pokaže da landing strana ne objašnjava cenu, sledeći korak ili dokaz, mora postojati budžet i vreme za popravku. U suprotnom se test pretvara u dokaz da loše postavljen funnel ne radi. Tu pomažu [cene digitalnog marketinga](/cene-digitalnog-marketinga), jer realan plan mora uključiti i medijski budžet i rad na funnelu.
+
+## Kada ne treba čekati kraj horizonta
+
+Budžetski horizont nije izgovor da se ignorišu očigledni problemi. Ako se pozivi ne javljaju, forma ne radi, kampanja meri pogrešan događaj, lokacije su promašene ili leadovi stižu van kapaciteta prodaje, to se popravlja odmah. Čekanje ima smisla za poslovne zaključke, ne za tehničke i procesne kvarove.
+
+Slično važi i za [kapacitet prodaje](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026). Ako tim može kvalitetno obraditi pet ozbiljnih upita nedeljno, nema smisla praviti horizont koji u prvoj nedelji donese dvadeset leadova bez odgovora. Tada problem nije kanal, nego tempo.
+
+## Kako vlasnik treba da čita rezultat
+
+Zdrav izveštaj ne kaže samo: potrošeno je toliko, stiglo je toliko leadova. Zdrav izveštaj kaže šta smo naučili u odnosu na fazu horizonta. U prvih 30 dana: koje namere su validne i šta treba očistiti. Do 60 dana: koje ponude i poruke daju bolje razgovore. Do 90 dana: kakav je odnos CPL-a, kvalifikacije, prodajnih statusa, marže i očekivanog povrata.
+
+Ako se ti slojevi ne razdvoje, firma često uradi suprotno od onoga što joj treba. Pauzira kampanju koja je tek došla do dobrih signala, ili nastavi kampanju koja donosi volume bez prodajnog ishoda. [ROI kalkulator](/alati/roi-kalkulator) pomaže tek kada se unesu stvarne stope, ne optimistične pretpostavke.
+
+## Kako Platinum Zenith planira budžetski horizont
+
+Kada planiramo lead generation kampanju, ne dogovaramo samo mesečni iznos. Dogovaramo šta treba dokazati u prvih 30, 60 i 90 dana, koji su pragovi za korekciju, koji status u prodaji znači kvalitetan lead i kada se uopšte sme pričati o skaliranju. Tako budžet postaje kontrolisan test, a ne nervozno čekanje prvog izveštaja.
+
+Ako imate kampanju koju stalno gasite, palite ili menjate pre nego što se vidi obrazac, pošaljite nam trenutni funnel preko [kontakt forme](/kontakt). Pogledaćemo budžet, prodajni ciklus, maržu, status leadova i tempo odluka, pa predložiti horizont koji ima smisla za vašu ponudu i tržište.
+`,
+  },
+  {
     slug: 'studije-slucaja-na-sajtu-konverzija-upiti-srbija-2026',
     title: 'Studije slučaja na sajtu u Srbiji 2026: zašto reference ne donose upite',
     excerpt: 'Reference bez brojeva često ne skidaju rizik kupcu. Evo kako studija slučaja treba da pokaže problem, proces, rezultat i sledeći korak ka upitu.',

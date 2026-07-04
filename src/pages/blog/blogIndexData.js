@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "budzetski-horizont-lead-generation-roi-srbija-2026",
+    "title": "Budžetski horizont za lead generation u Srbiji 2026: koliko dugo čekati ROI",
+    "excerpt": "Ako se kampanja ocenjuje posle jedne nedelje, dobar funnel može izgledati loše. Evo kako planirati budžet za 30, 60 i 90 dana pre odluke o ROI-u.",
+    "date": "2026-07-05",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "studije-slucaja-na-sajtu-konverzija-upiti-srbija-2026",
     "title": "Studije slučaja na sajtu u Srbiji 2026: zašto reference ne donose upite",
     "excerpt": "Reference bez brojeva često ne skidaju rizik kupcu. Evo kako studija slučaja treba da pokaže problem, proces, rezultat i sledeći korak ka upitu.",
