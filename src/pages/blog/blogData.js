@@ -1,5 +1,75 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-bazene-cena-upita-srbija-2026',
+    title: 'Google Ads za bazene u Srbiji 2026: cena upita i budžet',
+    excerpt: 'Firmama koje rade bazene ne treba više praznih poziva, nego upiti sa lokacijom, tipom bazena, rokom i budžetom. Evo kako postaviti kampanje.',
+    date: '2026-07-04',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Bazeni', 'Lead Generation', 'Marketing budžet', 'Lokalni marketing'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Zašto Google Ads za bazene nije isto što i običan lokalni oglas
+
+Firma koja gradi, renovira ili oprema bazene ne traži samo još poziva. Traži upite koji imaju lokaciju, prostor, okvirni rok, vrstu bazena i realnu spremnost da se projekat plati. Jedan kvalitetan razgovor može vredeti mnogo više od deset poruka tipa "koliko košta bazen" bez dimenzija, terena i namere.
+
+Zato [Google Ads budžet](/google-reklame-cena) za bazene ne treba gledati kao trošak za vidljivost. Treba ga gledati kao sistem za hvatanje komercijalne namere: ljudi koji već porede izvođače, traže ugradnju, renoviranje, opremu, pokrivanje, servis ili pripremu za sezonu. Ako se kampanja postavi široko, novac brzo ode na radoznale pretrage. Ako se postavi usko, može donositi manje upita, ali mnogo bolji razgovor.
+
+## Česta greška: sve pretrage za bazen idu u istu kampanju
+
+Česta greška firmi je da u istu kampanju stave izgradnju bazena, montažne bazene, opremu, hemiju, servis, foliju, pokrivače, grejanje vode i ideje za dvorište. Na papiru deluje praktično. U praksi se pomešaju ljudi koji žele ozbiljan projekat sa ljudima koji traže najjeftiniji proizvod, savet za održavanje ili inspiraciju.
+
+Bolje je razdvojiti namere. Jedna grupa može biti za izgradnju i projektovanje bazena. Druga za renoviranje, oblogu, curenje ili zamenu opreme. Treća za servis i sezonsko održavanje, ako firma to zaista radi. Četvrta za dodatke veće vrednosti, kao što su grejanje, pokrivači, rasveta ili automatika. Svaka grupa treba drugačiju poruku, drugačiji landing i drugačije pitanje u formi.
+
+## Šta je kvalitetan upit za bazen
+
+Sirov lead nije dovoljan. Kvalitetan upit za bazene obično ima grad ili zonu, tip objekta, okvirnu dimenziju ili prostor, željeni tip bazena, fazu projekta, rok i kontakt kanal. Još bolji upit ima fotografiju prostora, informaciju da li postoji pripremljen teren i da li osoba želi procenu, obilazak ili okvirnu ponudu.
+
+Ako se meri samo broj formulara, kampanja može izgledati dobro dok prodaja gubi vreme. Ako se meri status posle prvog razgovora, slika je drugačija: validan projekat, treba dopuna informacija, zakazan obilazak, poslata ponuda, odloženo za sledeću sezonu, nije fit ili prihvaćen posao. To se direktno naslanja na [kvalifikaciju kroz kontakt formu](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026) i [kvalifikovane konverzije](/blog/kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026).
+
+## Kampanja mora pratiti sezonu, ali ne sme čekati špic
+
+Kod bazena postoji jasna sezonska logika. Mnogi vlasnici dvorišta i objekata krenu da razmišljaju kada vreme već postane lepo. Tada je konkurencija glasnija, rokovi kraći, a deo ozbiljnih projekata već kasni. Firma koja se pojavi tek u špicu često kupuje skuplji klik i razgovara sa ljudima koji žele brzo rešenje bez dovoljno pripreme.
+
+Pametniji pristup je da se kampanje podele po fazama. Pre sezone se hvataju planiranje, projektovanje, ponude i veći radovi. U sezoni se jače guraju servis, oprema, renoviranje i brzi problemi. Posle sezone se mogu hvatati renoviranje, pokrivanje, priprema za narednu godinu i B2B objekti koji planiraju unapred. Zato je [sezonski marketing budžet](/blog/sezonski-marketing-budzet-lead-generation-srbija-2026) važniji od jedne mesečne cifre.
+
+## Negativne ključne reči čuvaju budžet
+
+Kod bazena se lako skupi loš saobraćaj. Ljudi traže slike, ideje, samogradnju, polovnu opremu, hemiju, igračke, male dečije bazene, oglase za posao, forume, dimenzije bez namere kupovine ili uputstva za održavanje. Nisu sve te pretrage loše za svaki biznis, ali za firmu koja prodaje radove i projekte mogu pojesti budžet bez komercijalnog ishoda.
+
+Zato negativne ključne reči treba voditi kao živu listu, ne kao jednokratno podešavanje. Prvih nedelja treba gledati search terms i odmah izbacivati poslove, kurs, uradi sam, polovno, slike, forum, besplatno, igračke, Intex ako firma ne prodaje te proizvode, hemiju ako to nije profitni centar i gradove koje firma ne pokriva. Dobar filter često spusti broj upita, ali poveća broj razgovora koji vrede.
+
+## Landing strana za bazene ne sme biti samo galerija
+
+Galerija pomaže, ali sama ne prodaje. Mnogo firmi pokaže lepe slike, a ne objasni šta se dešava posle kontakta. Posetilac ne zna da li firma radi projektovanje, građevinske radove, opremu, servis, garanciju, izlazak na teren, koji gradovi su pokriveni i šta treba poslati da bi dobio smislen odgovor.
+
+Landing strana treba da odgovori na praktična pitanja: koje vrste bazena radite, za koga niste fit, koji podaci ubrzavaju procenu, kako izgleda proces, koliko traje prvi odgovor i šta je sledeći korak. Slično kao kod [fasada i izolacije](/blog/google-ads-za-fasade-i-izolaciju-cena-upita-srbija-2026) ili [toplotnih pumpi](/blog/google-ads-za-toplotne-pumpe-i-grejanje-cena-upita-srbija-2026), posetilac kupuje projekat, ne samo klik na dugme.
+
+## Kako računati budžet i prihvatljivu cenu upita
+
+Kod bazena prosečan upit može biti skup, ali to nije automatski problem. Problem je kada se ne zna kolika je bruto marža, koliko upita postaje obilazak, koliko obilazaka postaje ponuda i koliko ponuda se prihvata. Bez toga se svaki CPL oseća kao nagađanje.
+
+Praktično, budžet treba vezati za vrednost posla i kapacitet tima. Ako firma može da obradi ograničen broj obilazaka nedeljno, nema smisla gurati kampanju preko prodajnog kapaciteta. Ako ima tim i jasnu procenu, veći budžet može ubrzati učenje pre sezone. Tu pomažu [cene digitalnog marketinga](/cene-digitalnog-marketinga), [ROI kalkulator](/alati/roi-kalkulator) i tema o [kapacitetu prodaje](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026), ali samo ako se unesu realni brojevi.
+
+## Šta pratiti posle prvog kontakta
+
+Za bazene nije dovoljno znati da je neko poslao formu. Treba znati da li je lead validan, da li je lokacija pokrivena, da li postoji prostor, da li je rok realan, da li je zakazana procena, da li je ponuda poslata i zašto je izgubljena ako nije prihvaćena. Bez tih statusa, kampanja će stalno dobijati krivicu za probleme koji nastaju posle klika.
+
+Dobar minimum je CRM ili bar uredna tabela sa izvorom, kampanjom, tipom projekta, gradom, vrednošću potencijalnog posla, statusom i sledećim korakom. Ako se vidi da mnogo ljudi traži samo opremu, kampanja se sužava. Ako se vidi da su upiti dobri, ali obilazak kasni, problem je u procesu. Ako su ponude poslate, ali nema zatvaranja, treba gledati cenu, dokaz, rokove i follow-up.
+
+## Kako Platinum Zenith postavlja kampanje za bazene
+
+Kada planiramo lead generation za firme koje rade bazene, prvo razdvajamo namere: novi bazen, renoviranje, servis, oprema, sezonski problemi i veći objekti. Zatim definišemo lokacije, negativne reči, kvalifikaciona pitanja, landing poruku i status koji se meri kao stvarni signal, ne samo kao sirov formular.
+
+Ako želite da proverite da li Google Ads može donositi bolje upite za izgradnju, renoviranje ili opremanje bazena, pošaljite nam trenutnu situaciju preko [kontakt forme](/kontakt). Pogledaćemo lokacije, ponudu, sezonu, maržu, kapacitet za procene i postojeći funnel, pa predložiti kampanju koja meri ozbiljne projekte, ne samo broj poziva.
+`,
+  },
+
+  {
     slug: 'koliko-podataka-pre-promene-marketing-budzeta-srbija-2026',
     title: 'Koliko podataka treba pre promene marketing budžeta u Srbiji 2026',
     excerpt: 'Promena budžeta posle 3 leada često napravi lošiju kampanju. Evo kako odrediti prag podataka, kvalitet signala i trenutak za skaliranje ili pauzu.',

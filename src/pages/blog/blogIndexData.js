@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-bazene-cena-upita-srbija-2026",
+    "title": "Google Ads za bazene u Srbiji 2026: cena upita i budžet",
+    "excerpt": "Firmama koje rade bazene ne treba više praznih poziva, nego upiti sa lokacijom, tipom bazena, rokom i budžetom. Evo kako postaviti kampanje.",
+    "date": "2026-07-04",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "koliko-podataka-pre-promene-marketing-budzeta-srbija-2026",
     "title": "Koliko podataka treba pre promene marketing budžeta u Srbiji 2026",
     "excerpt": "Promena budžeta posle 3 leada često napravi lošiju kampanju. Evo kako odrediti prag podataka, kvalitet signala i trenutak za skaliranje ili pauzu.",
