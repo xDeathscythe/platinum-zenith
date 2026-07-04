@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "studije-slucaja-na-sajtu-konverzija-upiti-srbija-2026",
+    "title": "Studije slučaja na sajtu u Srbiji 2026: zašto reference ne donose upite",
+    "excerpt": "Reference bez brojeva često ne skidaju rizik kupcu. Evo kako studija slučaja treba da pokaže problem, proces, rezultat i sledeći korak ka upitu.",
+    "date": "2026-07-04",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-bazene-cena-upita-srbija-2026",
     "title": "Google Ads za bazene u Srbiji 2026: cena upita i budžet",
     "excerpt": "Firmama koje rade bazene ne treba više praznih poziva, nego upiti sa lokacijom, tipom bazena, rokom i budžetom. Evo kako postaviti kampanje.",

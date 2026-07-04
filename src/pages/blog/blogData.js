@@ -1,5 +1,74 @@
 const rawBlogPosts = [
   {
+    slug: 'studije-slucaja-na-sajtu-konverzija-upiti-srbija-2026',
+    title: 'Studije slučaja na sajtu u Srbiji 2026: zašto reference ne donose upite',
+    excerpt: 'Reference bez brojeva često ne skidaju rizik kupcu. Evo kako studija slučaja treba da pokaže problem, proces, rezultat i sledeći korak ka upitu.',
+    date: '2026-07-04',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Studije slučaja', 'Konverzija', 'Landing stranica', 'Lead Generation', 'Prodaja'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Zašto reference često ne skidaju rizik kupcu
+
+Mnoge firme imaju deo sajta sa referencama, ali taj deo ne radi prodajni posao. Tu stoje logotipi, par lepih rečenica i možda galerija urađenih projekata. Posetilac vidi da firma postoji, ali ne razume zašto bi joj poverio svoj budžet, svoj rok ili svoj problem.
+
+To je česta greška na uslužnim sajtovima i landing stranama. Firma misli da je pokazala dokaz, a kupac i dalje ima ista pitanja: šta je bio problem, koliko je bilo teško, šta je tačno urađeno, kakav je rezultat i da li taj primer liči na moju situaciju. Ako se ta pitanja ne zatvore, [Google Ads budžet](/google-reklame-cena) može dovesti prave ljude, ali stranica i dalje ne pretvara dovoljno poseta u upite.
+
+## Česta greška: reference su dekoracija, ne dokaz
+
+Dekorativna referenca kaže: radili smo sa ovim klijentom. Prodajna studija slučaja kaže: ovaj klijent je imao konkretan problem, postojalo je ograničenje, urađen je određen proces i rezultat je bio merljiv ili bar jasno opisan.
+
+Razlika je velika. Logotip bez konteksta retko odgovara na [prigovore na landing strani](/blog/prigovori-na-landing-strani-konverzija-upiti-srbija-2026). Posetilac i dalje može da misli: možda je to bio mali posao, možda nije slična industrija, možda rezultat nije došao od te usluge, možda je sve trajalo predugo. Studija slučaja treba da smanji taj rizik pre nego što osoba pošalje upit.
+
+## Šta kupac zapravo traži u studiji slučaja
+
+Kupac ne traži roman. Traži dovoljno informacija da proceni da li firma razume sličan problem. Dobra studija slučaja zato ima nekoliko obaveznih delova: početnu situaciju, cilj, prepreke, šta je urađeno, rezultat, rok i lekciju koja se može primeniti na slične projekte.
+
+Na primer, za lead generation nije dovoljno napisati da je kampanja donela više upita. Bolje je reći da je firma pre kampanje dobijala široke poruke bez budžeta, da je forma izmenjena, da su kampanje podeljene po nameri, da su uvedeni CRM statusi i da je broj kvalifikovanih razgovora porastao. Ako postoje brojke, još bolje. Ako nema javnih brojki, može se objasniti smer promene, proces i tip ishoda.
+
+## Brojevi ne moraju biti veliki, moraju biti korisni
+
+Neke firme izbegavaju studije slučaja jer nemaju spektakularne rezultate za javno objavljivanje. To nije razlog da se dokaz potpuno izostavi. U srpskom tržištu često je korisnije pokazati realan komercijalni pomak nego naduvanu tvrdnju.
+
+Broj može biti procenat kvalifikovanih leadova, vreme do prvog odgovora, broj zakazanih razgovora, smanjenje nebitnih upita, veći procenat poslatih ponuda ili jasniji pipeline. Za ozbiljnog kupca takvi detalji vrede više od prazne rečenice "povećali smo prodaju". To se dobro povezuje sa [kvalifikovanim konverzijama](/blog/kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026), jer kampanja treba da meri signal koji prodaji stvarno znači.
+
+## Studija slučaja mora biti povezana sa ponudom
+
+Još jedna česta greška je da studije slučaja stoje odvojeno od prodajne stranice. Posetilac pročita dokaz, ali ne zna koju uslugu taj dokaz podržava, koliko sličan angažman može da košta i šta je sledeći korak.
+
+Ako studija slučaja govori o kampanjama, treba da vodi ka stranama kao što su [cene digitalnog marketinga](/cene-digitalnog-marketinga), relevantna usluga, kalkulacija budžeta ili kontakt. Ako govori o landing strani, treba da pokaže kako je dokaz uticao na upit, formu, CTA i prodajni razgovor. Dokaz bez puta ka akciji je samo arhiva.
+
+## Gde staviti studije slučaja na sajtu
+
+Nije dovoljno imati jednu skrivenu stranicu "Reference". Najjači primeri treba da se pojave tamo gde posetilac donosi odluku. To može biti prvi ekran landing strane, deo ispod objašnjenja usluge, blok pre kontakt forme, sekcija koja odgovara na rizik ili posebna strana za detaljnu studiju slučaja.
+
+Ako je stranica već pretrpana izborima, treba paziti da studija slučaja ne postane još jedan skretničar pažnje. Ona treba da podrži glavni CTA, ne da otvori deset novih puteva. Tu važi ista logika kao kod teme [previše izbora na landing strani](/blog/previse-izbora-landing-strana-konverzija-srbija-2026): dokaz treba da približi upit, ne da posetioca pošalje u lutanje.
+
+## Šta ako firma ne može da objavi ime klijenta
+
+U mnogim uslugama postoje NDA, osetljivi podaci ili klijenti koji ne žele javno ime. To ne znači da dokaz mora nestati. Može se objaviti anonimizovana studija slučaja: industrija, veličina firme, problem, ograničenja, proces i tip rezultata bez identiteta klijenta.
+
+Važno je da anonimizacija ne zvuči izmišljeno. Umesto "jedan klijent je ostvario sjajan rezultat", bolje je napisati: B2B firma iz Beograda sa dugim prodajnim ciklusom imala je problem da razlikuje sirove upite od kvalifikovanih razgovora. To odmah daje kontekst. Još bolje ako se doda šta je promenjeno u formi, tracking-u i [procesu saradnje](/blog/proces-saradnje-na-sajtu-konverzija-upiti-srbija-2026).
+
+## Jednostavan okvir za studiju slučaja
+
+Praktičan okvir može biti kratak. Prvo: ko je klijent ili tip klijenta. Drugo: šta nije radilo pre saradnje. Treće: šta je bio cilj. Četvrto: šta je promenjeno u kampanji, sajtu, ponudi ili prodaji. Peto: koji rezultat je viđen. Šesto: za koga je ovaj pristup dobar, a za koga nije.
+
+Taj okvir radi jer ne prodaje samo rezultat, nego i način razmišljanja. Kupac vidi da firma ne obećava magiju, nego prepoznaje usko grlo, meri ono što ima smisla i povezuje marketing sa prodajom. To je isti razlog zbog kog [dokazi poverenja](/blog/dokazi-poverenja-na-sajtu-konverzija-srbija-2026) moraju biti konkretni, a ne samo estetski.
+
+## Kako Platinum Zenith koristi studije slučaja u funnelu
+
+Kada analiziramo sajt ili landing stranu, ne gledamo samo da li postoje reference. Gledamo da li dokaz smanjuje konkretan strah kupca: da će budžet otići na pogrešne leadove, da prodaja neće dobiti dovoljno konteksta, da će usluga trajati predugo ili da će rezultat biti nejasan.
+
+Zato studiju slučaja vezujemo za ponudu, cenu, proces i sledeći korak. Ako želite da proverite da li vaš sajt ima dokaz koji stvarno pomaže prodaji, pošaljite nam trenutnu stranicu kroz [kontakt formu](/kontakt). Pogledaćemo gde kupac još uvek rizikuje, koje studije slučaja treba izvući napred i kako ih povezati sa kampanjom, formom i prodajnim razgovorom.
+`,
+  },
+  {
     slug: 'google-ads-za-bazene-cena-upita-srbija-2026',
     title: 'Google Ads za bazene u Srbiji 2026: cena upita i budžet',
     excerpt: 'Firmama koje rade bazene ne treba više praznih poziva, nego upiti sa lokacijom, tipom bazena, rokom i budžetom. Evo kako postaviti kampanje.',
