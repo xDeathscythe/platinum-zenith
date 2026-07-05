@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "kalendar-za-zakazivanje-na-sajtu-konverzija-leadovi-srbija-2026",
+    "title": "Kalendar za zakazivanje na sajtu u Srbiji 2026: kada pomaže, a kada kvari prodaju",
+    "excerpt": "Ako posetilac odmah bira termin bez konteksta, prodaja dobija rupe, no-show i loš fit. Evo kada kalendar pomaže, a kada forma mora da ide prva.",
+    "date": "2026-07-05",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-psihoterapeute-cena-termina-srbija-2026",
     "title": "Google Ads za psihoterapeute u Srbiji 2026: cena termina i budžet",
     "excerpt": "Psihoterapeutima ne trebaju radoznali klikovi, nego diskretni upiti za prvi termin. Evo kako postaviti kampanje, landing stranu i praćenje.",

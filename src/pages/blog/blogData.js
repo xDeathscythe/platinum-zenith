@@ -1,5 +1,68 @@
 const rawBlogPosts = [
   {
+    slug: 'kalendar-za-zakazivanje-na-sajtu-konverzija-leadovi-srbija-2026',
+    title: 'Kalendar za zakazivanje na sajtu u Srbiji 2026: kada pomaže, a kada kvari prodaju',
+    excerpt: 'Ako posetilac odmah bira termin bez konteksta, prodaja dobija rupe, no-show i loš fit. Evo kada kalendar pomaže, a kada forma mora da ide prva.',
+    date: '2026-07-05',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Konverzija', 'Lead Generation', 'Landing strana', 'Prodaja', 'Zakazivanje termina'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Zašto kalendar za zakazivanje nije uvek bolji od forme
+
+Mnoge firme ubace kalendar na sajt jer zvuči kao najkraći put do prodaje. Posetilac klikne, izabere termin i razgovor je zakazan. Na papiru deluje čistije od kontakt forme, poziva ili WhatsApp poruke. U praksi, kalendar može povećati broj razgovora, ali može i napuniti raspored ljudima koji nisu razumeli ponudu, nemaju budžet, nisu donosilac odluke ili samo žele besplatan savet.
+
+Problem nije u alatu. Problem je u tome što se kalendar često stavi prerano u funnel. Ako landing strana nije objasnila ponudu, cenu, proces, dokaz i sledeći korak, kalendar postaje rupa kroz koju ulaze neprovereni termini. Tada [Google Ads budžet](/google-reklame-cena) ne kupuje prodajne prilike, nego prazne razgovore koji troše vreme tima.
+
+## Česta greška: svaki lead odmah dobija isti pristup kalendaru
+
+Česta greška je da firma tretira svaki upit kao jednak. Posetilac sa jasnim problemom, budžetom i rokom dobije isti link za termin kao osoba koja još ne zna šta joj treba. Prodaja posle kaže da kampanja donosi neozbiljne ljude, a zapravo je funnel preskočio kvalifikaciju.
+
+Kalendar najbolje radi kada je sledeći korak za posetioca očigledan. Na primer, neko je već pročitao šta usluga uključuje, zna okvir cene, razume za koga je ponuda i želi procenu uklapanja. Ako toga nema, prvo treba kratka [kvalifikacija kroz kontakt formu](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026), poruka sa kontekstom ili pitanje koje razdvaja ozbiljan razgovor od opšte radoznalosti.
+
+## Kada kalendar stvarno povećava konverziju
+
+Kalendar ima smisla kada prodaja ima jasan tip razgovora: audit, konsultacija, procena projekta, zakazivanje pregleda, demo ili uvodni poziv. Posetilac mora znati koliko razgovor traje, šta treba pripremiti, ko će ga zvati, šta se odlučuje na tom pozivu i šta se dešava posle. Bez toga termin zvuči kao obaveza, a ne kao koristan sledeći korak.
+
+Dobar kalendar smanjuje trenje za već zagrejanog posetioca. Umesto da šalje poruku pa čeka odgovor, bira slobodan termin. To može skratiti ciklus prodaje, naročito kod usluga gde brz dogovor odlučuje. Ali isti kalendar ne sme biti jedina vrata za sve posetioce. Neko treba cenu, neko želi da pošalje specifikaciju, neko nije spreman za poziv, a neko treba samo potvrdu da je firma pravi fit.
+
+## Kada kalendar kvari kvalitet leadova
+
+Kalendar kvari prodaju kada omogućava termin pre nego što je posetilac razumeo komercijalni okvir. To se često vidi kod skupljih usluga, B2B ponuda, građevinskih radova, marketing usluga, edukacija i medicinskih ili stručnih usluga. Ljudi rezervišu jer je lako, ali na pozivu se ispostavi da ne odgovara budžet, lokacija, rok, obim posla ili nivo odluke.
+
+Tada prodaja gubi vreme, a izveštaj izgleda zbunjujuće. Kampanja ima konverzije, kalendar ima termine, ali prihoda nema. Slično kao kod [zakazanih konsultacija bez dolaska](/blog/zakazane-konsultacije-no-show-leadovi-prodaja-srbija-2026), metrika mora razlikovati zakazan termin, održan razgovor, kvalifikovan razgovor, poslatu ponudu i dobijen posao. Samo zakazivanje nije dokaz da funnel prodaje.
+
+## Kako odlučiti da li ide forma, kalendar ili oba
+
+Najpraktičnije pitanje je: šta prodaji treba da bi razgovor bio koristan? Ako su potrebni lokacija, budžet, rok, tip usluge, fotografije, broj zaposlenih, postojeći sajt, trenutni kanal ili uloga osobe koja se javlja, forma treba da ide pre kalendara ili bar uz kalendar. Ako je usluga jednostavna i razgovor je standardizovan, kalendar može biti glavni CTA.
+
+Za mnoge firme najbolja kombinacija je dvostepeni sistem. Prvi korak je kratka forma koja traži samo podatke koji menjaju odluku. Drugi korak je kalendar za ljude koji prođu osnovni fit ili imaju dovoljno konteksta. Tako se ne guši konverzija, ali se čuva prodajni kapacitet. Ovo je posebno važno kada se već plaća [cena digitalnog marketinga](/cene-digitalnog-marketinga), jer vreme prodaje ulazi u realan trošak akvizicije, ne samo klikovi.
+
+## Šta landing strana mora reći pre kalendara
+
+Pre kalendara posetilac treba da vidi kome je usluga namenjena, koji problem rešava, šta obično nije dobar fit, koji je okvir cene ili budžeta ako postoji, koliko traje razgovor i šta je rezultat tog razgovora. Ako landing strana preskoči ta pitanja, kalendar ih samo gura u prodajni poziv.
+
+Zato kalendar ne rešava slab prvi ekran, nejasan CTA ili previše izbora. Ako posetilac ne zna da li treba da zakaže audit, pošalje upit, izračuna budžet ili pita za cenu, prvo treba srediti poruku. Tek onda kalendar postaje ubrzanje, ne zakrpa. Tu se lepo nadovezuju teme [sekundarnog CTA-a](/blog/sekundarni-cta-landing-strana-lead-generation-srbija-2026) i [sledećeg koraka posle upita](/blog/sledeci-korak-posle-upita-leadovi-prodaja-srbija-2026).
+
+## Kako smanjiti no-show i prazne razgovore
+
+Ako kalendar ostaje na strani, mora imati zaštitne slojeve. Potvrda termina treba da kaže šta osoba treba da pripremi. Reminder treba da podseti na temu razgovora, ne samo na satnicu. Ako osoba ne odgovori na potvrdu ili ne pošalje traženi kontekst, termin može preći u kraći kvalifikacioni poziv umesto punog prodajnog razgovora.
+
+Prodaja treba da vidi izvor kampanje, stranicu, odgovor iz forme, izabrani termin i status posle razgovora. Bez toga nema povratne informacije za marketing. Ako kalendar donosi mnogo termina, ali malo kvalifikovanih razgovora, ne povećava se budžet. Popravlja se poruka, forma, filter, reminder ili tip CTA-a.
+
+## Kako Platinum Zenith postavlja zakazivanje u funnelu
+
+Kada analiziramo landing stranu, ne pitamo samo da li postoji kalendar. Gledamo da li je kalendar pravi sledeći korak za tu ponudu, taj budžet i taj prodajni proces. Nekad ga stavljamo kao glavni CTA. Nekad ga guramo iza forme. Nekad ga nudimo samo za posetioce koji su već pročitali ključne delove strane ili došli iz remarketinga.
+
+Ako kampanja donosi zakazane razgovore, ali prodaja kaže da nema dovoljno pravih prilika, pošaljite nam trenutni funnel preko [kontakt forme](/kontakt). Pregledaćemo landing stranu, CTA, formu, kalendar, podsetnike, statuse u prodaji i budžet, pa predložiti gde zakazivanje treba da ubrza proces, a gde prvo mora da filtrira loš fit.
+`,
+  },
+  {
     slug: 'google-ads-za-psihoterapeute-cena-termina-srbija-2026',
     title: 'Google Ads za psihoterapeute u Srbiji 2026: cena termina i budžet',
     excerpt: 'Psihoterapeutima ne trebaju radoznali klikovi, nego diskretni upiti za prvi termin. Evo kako postaviti kampanje, landing stranu i praćenje.',
