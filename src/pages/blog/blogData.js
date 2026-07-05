@@ -1,5 +1,74 @@
 const rawBlogPosts = [
   {
+    slug: 'trosak-isporuke-marketing-budzet-lead-generation-srbija-2026',
+    title: 'Trošak isporuke i marketing budžet u Srbiji 2026: kada lead ne nosi profit',
+    excerpt: 'Lead može izgledati profitabilno dok se ne uračunaju sati tima, materijal, logistika i podrška. Evo kako trošak isporuke menja siguran CPL i budžet.',
+    date: '2026-07-06',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Marketing budžet', 'ROI', 'Lead Generation', 'CPL', 'Profitabilnost'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Zašto trošak isporuke menja računicu marketing budžeta
+
+Lead generation često izgleda jednostavno dok se gleda samo cena upita. Kampanja troši određeni budžet, stižu pozivi ili forme, prodaja zatvara deo poslova i izveštaj kaže da je CPL pod kontrolom. Ali kod usluga, projekata i B2B prodaje profit ne nastaje u trenutku kada lead stigne. Profit nastaje tek kada se posao isporuči bez previše dodatnih sati, popravki, logistike, materijala i podrške.
+
+Zato isti [Google Ads budžet](/google-reklame-cena) može biti odličan za jednu ponudu i opasan za drugu. Ako posao od 1.000 evra traži 200 evra direktnog troška, računica je jedna. Ako isti prihod traži 700 evra materijala, dva izlaska na teren, koordinaciju, reklamaciju i još tri sata tima, siguran CPL je mnogo niži. Bez troška isporuke, ROI izgleda lepše nego što firma stvarno oseća na računu.
+
+## Česta greška: budžet se računa iz prihoda, ne iz isporučenog profita
+
+Česta greška je da firma kaže: prosečan posao vredi 500 evra, možemo platiti 50 evra po leadu. To može zvučati razumno dok se ne pogleda šta ostaje posle isporuke. Neke firme imaju zdravu maržu, kratak proces i malo naknadnog rada. Druge imaju mnogo ručnog rada, zavisnost od dobavljača, skupe intervencije, putne troškove, sezonske gužve ili tim koji svaki novi posao mora da vuče kroz više faza.
+
+Marketing tada dobije pogrešan cilj. Kampanja kupuje leadove koji deluju validno, prodaja ih zatvara, ali operativa ulazi u zagušenje. Na kraju meseca ne izgleda kao da je problem u oglasima, nego kao da firma mnogo radi za malo slobodnog profita. Zapravo je budžet planiran iz bruto prihoda, umesto iz profita koji ostaje posle realne isporuke.
+
+## Šta sve ulazi u trošak isporuke
+
+Trošak isporuke nije samo materijal ili satnica izvođača. Kod usluga tu ulaze priprema, dijagnostika, izrada ponude, administracija, komunikacija sa klijentom, put, alati, podizvođači, kontrola kvaliteta, korekcije, podrška posle prodaje i vreme menadžera koji rešava izuzetke. Kod digitalnih usluga to mogu biti strategija, copy, dizajn, podešavanje, merenje, sastanci, izmene i održavanje.
+
+Ako se ti elementi ne računaju, [bruto marža](/blog/bruto-marza-marketing-budzet-roi-srbija-2026) bude precenjena. Firma vidi prihod i trošak oglasa, ali ne vidi koliko je timskog kapaciteta potrošeno da bi se taj prihod naplatio. Zato se prihvatljiv CPL ne računa iz ukupne cene usluge, nego iz dela koji ostaje posle direktnih i operativnih troškova isporuke.
+
+## Primer: isti CPL, dve potpuno različite odluke
+
+Zamislimo dve ponude. Prva donosi 800 evra prihoda, ima 500 evra troška isporuke i 300 evra bruto profita pre marketinga. Druga donosi 800 evra prihoda, ali ima 250 evra troška isporuke i 550 evra bruto profita pre marketinga. Ako obe kampanje imaju CPL od 40 evra i stopu zatvaranja od 20%, akvizicija jednog kupca košta oko 200 evra.
+
+Kod prve ponude ostaje oko 100 evra pre ostalih fiksnih troškova. Kod druge ostaje oko 350 evra. Isti CPL, isti broj leadova, isti prihod, ali potpuno druga odluka o budžetu. Prva ponuda možda sme da radi samo kao uvod u veći posao, dok druga može da se skalira. Zato tema [profitabilnosti ponuda](/blog/profitabilnost-ponuda-marketing-budzet-lead-generation-srbija-2026) mora biti povezana sa isporukom, ne samo sa prodajnom cenom.
+
+## Kada dobar lead i dalje nije dobar posao
+
+Nije svaki zatvoren lead dobar za marketing budžet. Neke firme privuku klijente koji traže najviše prilagođavanja, najviše objašnjenja i najviše naknadnih izmena. Na papiru su kupci. U praksi pojedu kapacitet koji bi mogao ići u profitabilnije poslove. To se često dešava kada landing strana obeća široku uslugu, a ne objasni granice, proces i za koga ponuda nije dobar fit.
+
+Tu ne treba kriviti kupca. Problem je u sistemu koji nije dovoljno jasno rekao šta se tačno dobija, šta ulazi u cenu, šta se doplaćuje, koliko traje proces i koji tip zahteva nije idealan. Ako se to ne reši, kampanja će stalno donositi leadove koji zvuče komercijalno, ali posle prodaje prave tanak ili negativan profit.
+
+## Kako izračunati sigurniji CPL kada postoji trošak isporuke
+
+Prvo treba odvojiti prosečan prihod od prosečnog doprinosa po poslu. Doprinos je ono što ostaje posle direktnih troškova isporuke, pre marketinga i fiksnih troškova. Zatim se dodaje realna stopa zatvaranja, ne najbolji mesec u CRM-u. Ako posao daje 400 evra doprinosa, a zatvara se jedan od četiri kvalifikovana leada, maksimalni CPL ne može biti 200 evra samo zato što je prihod visok. Već na 100 evra po leadu akvizicija kupca košta oko 400 evra i pojede ceo doprinos.
+
+Praktično je napraviti tri granice: siguran CPL, test CPL i stop-loss CPL. Siguran CPL ostavlja dovoljno prostora za isporuku, fiksne troškove i profit. Test CPL se koristi kratko, kada se proverava nova ponuda ili kanal. Stop-loss CPL znači da kampanja ne sme dalje da se gura bez promene ponude, strane, prodaje ili kvalifikacije. Za brzu proveru odnosa budžeta, marže i zatvaranja može pomoći [ROI kalkulator](/alati/roi-kalkulator), ali brojevi moraju uključiti isporuku, ne samo prihod.
+
+## Zašto se problem vidi tek kada kampanja proradi
+
+Dok kampanja nema volumen, trošak isporuke deluje kao operativni detalj. Kada krene više leadova, sve slabe tačke postanu skuplje. Tim kasni, ponude se šalju sporije, kontrola kvaliteta pada, dobavljači pomeraju rokove, a klijenti očekuju isti nivo pažnje. Tada marketing izgleda kao da je doneo haos, iako je samo otkrio da isporuka nije spremna za taj tempo.
+
+Zato [kapacitet prodaje](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026) i isporuke treba gledati zajedno. Nema smisla povećavati budžet ako svaki novi klijent pravi kašnjenje, dodatni rad ili pad kvaliteta. Bolje je prvo srediti paket, granice usluge, proces isporuke i kvalifikaciju, pa tek onda gurati veći budžet.
+
+## Šta landing strana treba da filtrira pre upita
+
+Landing strana ne mora odbijati ljude, ali mora zaštititi profit. To znači da treba jasno napisati kome je ponuda namenjena, koji obim posla ima smisla, šta obično utiče na cenu, koji podaci su potrebni za procenu i šta se dešava posle upita. Ako postoje minimalna vrednost posla, zona rada, rokovi ili uslovi za početak, bolje je reći ih pre forme nego posle tri razgovora.
+
+Ovo je direktno povezano sa [cenom digitalnog marketinga](/cene-digitalnog-marketinga). Agencija može dovesti više upita, ali ako strana ne filtrira obim, fit i složenost, prodaja i isporuka plaćaju razliku kroz vreme. Dobra kvalifikacija nije prepreka konverziji. Ona čuva budžet za upite koji imaju šansu da postanu profitabilan posao.
+
+## Kako Platinum Zenith gleda budžet kroz profit, ne samo kroz leadove
+
+Kada planiramo lead generation, ne pitamo samo koliko lead sme da košta. Pitamo koliko posao stvarno ostavlja posle isporuke, koliko sati troši tim, koliko dugo traje prodaja, kada stiže naplata i gde nastaju korekcije. Tek onda ima smisla govoriti o budžetu, skaliranju i prihvatljivom CAC-u.
+
+Ako kampanje donose upite, ali profit ne prati rast, pošaljite nam trenutnu ponudu, prosečnu vrednost posla i osnovne troškove isporuke kroz [kontakt formu](/kontakt). Pogledaćemo da li problem leži u CPL-u, landing strani, kvalifikaciji, prodaji, marži ili u samoj strukturi isporuke, pa predložiti budžet koji ne kupuje samo posao, nego posao koji vredi isporučiti.
+`,
+  },
+  {
     slug: 'kalendar-za-zakazivanje-na-sajtu-konverzija-leadovi-srbija-2026',
     title: 'Kalendar za zakazivanje na sajtu u Srbiji 2026: kada pomaže, a kada kvari prodaju',
     excerpt: 'Ako posetilac odmah bira termin bez konteksta, prodaja dobija rupe, no-show i loš fit. Evo kada kalendar pomaže, a kada forma mora da ide prva.',

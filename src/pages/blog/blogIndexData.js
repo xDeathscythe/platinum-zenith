@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "trosak-isporuke-marketing-budzet-lead-generation-srbija-2026",
+    "title": "Trošak isporuke i marketing budžet u Srbiji 2026: kada lead ne nosi profit",
+    "excerpt": "Lead može izgledati profitabilno dok se ne uračunaju sati tima, materijal, logistika i podrška. Evo kako trošak isporuke menja siguran CPL i budžet.",
+    "date": "2026-07-06",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "kalendar-za-zakazivanje-na-sajtu-konverzija-leadovi-srbija-2026",
     "title": "Kalendar za zakazivanje na sajtu u Srbiji 2026: kada pomaže, a kada kvari prodaju",
     "excerpt": "Ako posetilac odmah bira termin bez konteksta, prodaja dobija rupe, no-show i loš fit. Evo kada kalendar pomaže, a kada forma mora da ide prva.",
