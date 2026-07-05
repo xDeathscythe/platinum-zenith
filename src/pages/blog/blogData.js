@@ -1,5 +1,80 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-psihoterapeute-cena-termina-srbija-2026',
+    title: 'Google Ads za psihoterapeute u Srbiji 2026: cena termina i budžet',
+    excerpt: 'Psihoterapeutima ne trebaju radoznali klikovi, nego diskretni upiti za prvi termin. Evo kako postaviti kampanje, landing stranu i praćenje.',
+    date: '2026-07-05',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Psihoterapija', 'Lead Generation', 'Lokalni marketing', 'Marketing budžet'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Zašto Google Ads za psihoterapeute traži pažljiviji pristup
+
+Psihoterapeut, psihološko savetovalište ili privatna praksa ne traže samo više klikova. Traže diskretne, ozbiljne upite ljudi koji razumeju šta je prvi termin, kome se obraćaju, kako izgleda proces i kako mogu bezbedno da naprave sledeći korak. To nije ista logika kao oglas za hitnu popravku ili proizvod sa popustom.
+
+Zato [Google Ads budžet](/google-reklame-cena) za psihoterapeute treba posmatrati kao sistem za hvatanje namere, ne kao trku za što jeftinijim upitom. Jedan kvalitetan termin može vredeti više od deset poruka koje nisu spremne za razgovor, ne odgovaraju tipu usluge ili traže nešto što praksa ne pruža.
+
+## Česta greška: kampanja obećava previše, a objašnjava premalo
+
+Česta greška kod osetljivih usluga je da oglas zvuči kao generična prodaja: brzo rešenje, dramatična poruka, preširoko obećanje ili klik koji vodi na stranicu bez jasnog procesa. Takva kampanja može privući pažnju, ali ne mora privući prave upite. Još gore, može napraviti osećaj nepoverenja kod osobe koja ionako pažljivo bira kome će se javiti.
+
+Bolje je da oglas bude miran, konkretan i usklađen sa uslugom. Ako je fokus individualna psihoterapija, partnersko savetovanje, rad sa anksioznošću, podrška roditeljima ili online termini, svaka namera treba svoju poruku i svoju landing sekciju. Nije cilj da se pritisne svaka osoba da odmah zakaže, nego da ozbiljan posetilac razume da je na pravom mestu.
+
+## Šta je kvalitetan upit za psihoterapijsku praksu
+
+Sirov lead nije dovoljan. Kvalitetan upit obično sadrži tip podrške koju osoba traži, format koji joj odgovara, grad ili online opciju, okvirnu dostupnost za termin, poželjan kanal odgovora i minimalan kontekst koji pomaže da se razgovor pravilno usmeri. Ne treba tražiti previše osetljivih detalja u formi, ali forma ne sme biti toliko prazna da prodaja ili recepcija ne zna šta je sledeći korak.
+
+Tu je korisna [kvalifikacija kroz kontakt formu](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026). Kod psihoterapije kvalifikacija ne znači agresivno filtriranje ljudi, nego jasnije usmeravanje: prvi termin, konsultacija, online rad, rad sa decom ako se pruža, partnersko savetovanje ako postoji, jezici, dostupni termini i način javljanja. Ako praksa ne radi određeni tip problema, to treba diskretno reći pre nego što osoba pošalje upit.
+
+## Kampanje treba deliti po nameri, ne po svakoj širokoj reči
+
+Preširoka kampanja za reči kao što su psiholog, psihoterapeut, pomoć, savetovanje ili terapija može brzo potrošiti budžet na radoznale pretrage, seminarske radove, besplatne savete, definicije, zaposlenje, fakultet, testove ličnosti ili hitne situacije koje ne odgovaraju privatnoj praksi. To ne znači da su sve široke reči loše, nego da moraju imati strogu strukturu i negativne ključne reči.
+
+Praktičnije je razdvojiti kampanje ili grupe po komercijalnoj nameri: individualna psihoterapija, partnersko savetovanje, online psihoterapija, psihološko savetovalište u konkretnom gradu, prvi termin, specifične usluge koje praksa zaista pruža i eventualno edukativni remarketing za posetioce koji još nisu spremni. Slična logika važi i kod drugih zdravstvenih i stručnih niša, kao što su [poliklinike](/blog/google-ads-za-poliklinike-cena-pregleda-srbija-2026) ili [logopedi](/blog/google-ads-za-logopede-cena-termina-srbija-2026), gde kvalitet termina vredi više od broja formulara.
+
+## Negativne ključne reči štite i budžet i praksu
+
+Kod ove niše negativne reči nisu samo finansijska zaštita. One čuvaju i relevantnost upita. U listu često ulaze posao, plata, kurs, fakultet, knjiga, test, besplatno, forum, definicija, simptomi bez namere za termin, samopomoć, pdf, seminarski, edukacija ako praksa ne prodaje edukacije, kao i gradovi koje praksa ne pokriva.
+
+Ako se radi samo sa odraslima, dečija psihologija i školski termini možda treba odvojiti ili isključiti. Ako se ne radi hitna krizna intervencija, oglasi i landing strana moraju jasno usmeriti ljude ka odgovarajućim hitnim službama kada je situacija urgentna. Kampanja ne sme kupovati klikove koje praksa ne može odgovorno da obradi.
+
+## Landing strana mora smanjiti nelagodu pre kontakta
+
+Mnoge firme u ovoj niši pogreše tako što stave biografiju, par opštih rečenica i kontakt formu. Posetilac još uvek ne zna kako izgleda prvi korak. Da li treba da objasni problem? Da li će neko zvati? Koliko traje termin? Da li je online opcija moguća? Kako se čuva privatnost? Da li je u redu poslati kratak upit bez mnogo detalja?
+
+Dobra landing strana treba da odgovori na ta pitanja jednostavno. Ko je stručnjak, za koga je usluga, šta se dešava posle slanja upita, koliko brzo stiže odgovor, koji su formati termina, šta nije pogodan fit i koji je sledeći korak. Ako postoji okvir cene ili početna konsultacija, to treba objasniti dovoljno jasno da osoba zna da li joj usluga odgovara. To se direktno povezuje sa temom [cena digitalnog marketinga](/cene-digitalnog-marketinga), jer budžet ne vredi mnogo ako stranica ne uklanja osnovnu nesigurnost.
+
+## Praćenje konverzija mora biti diskretno i korisno
+
+Za psihoterapijsku praksu nije dovoljno meriti svaki klik na telefon kao isti uspeh. Treba razlikovati poslatu formu, zakazan prvi termin, održan termin, pomeren termin, neodgovarajući fit i upit koji traži uslugu koju praksa ne pruža. Ne moraju se čuvati osetljivi detalji u marketing izveštaju. Dovoljan je status koji govori da li kampanja donosi prave razgovore.
+
+Zato su [kvalifikovane konverzije](/blog/kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026) važnije od sirovog broja leadova. Ako se u Google Ads šalje svaki formular kao isti uspeh, algoritam može naučiti da kupuje najlakše upite, ne nužno termine koji odgovaraju praksi. Bolji signal je zakazan ili održan prvi termin, ako ima dovoljno volumena i ako se statusi vode uredno.
+
+## Koliko budžeta ima smisla za test
+
+Budžet zavisi od grada, konkurencije, specijalizacije, cene termina, raspoloživih termina i brzine odgovora. Praksa sa tri slobodna termina nedeljno ne treba isti tempo kao savetovalište sa više terapeuta. Ako se kapacitet brzo napuni, cilj nije još klikova, nego bolja selekcija i lista čekanja. Ako ima kapaciteta, budžet treba dati dovoljno podataka da se vide pretrage, poruke i odnos zakazanih termina.
+
+Praktičan test ne mora biti ogroman, ali mora biti dovoljno čist. Bolje je krenuti sa manjim brojem jasno podeljenih kampanja, dobrim negativnim rečima, jednom jakom landing stranom i urednim statusima nego rasuti novac na sve moguće upite. Posle nekoliko nedelja se gleda šta donosi termine, šta donosi samo pitanja i gde prvi odgovor koči proces.
+
+## Prvi odgovor odlučuje da li upit postaje termin
+
+Kod psihoterapije prvi odgovor mora biti brz, ali i pažljiv. Generička poruka može delovati hladno, a preduga kvalifikacija može opteretiti osobu pre nego što se uspostavi poverenje. Dobar odgovor potvrđuje da je upit primljen, objašnjava sledeći korak, nudi dostupne termine ili način dogovora i ne traži nepotrebne osetljive detalje preko kanala koji nisu za to.
+
+To je ista logika kao kod [prvog odgovora na lead](/blog/prvi-odgovor-na-lead-prodajna-skripta-srbija-2026), samo sa više pažnje prema tonu. Kampanja može dovesti pravu osobu, ali ako odgovor kasni dva dana ili zvuči kao automatski cenovnik, deo upita će odustati pre prvog termina.
+
+## Kako Platinum Zenith postavlja kampanje za psihoterapeute
+
+Kada planiramo Google Ads za psihoterapeute, prvo razdvajamo namere, gradove, online opcije, kapacitet termina i tipove usluga koje praksa zaista želi da puni. Zatim postavljamo negativne reči, landing poruku, diskretnu formu, merenje zakazanih termina i jednostavan statusni sistem koji ne čuva nepotrebne osetljive podatke.
+
+Ako želite da proverite da li Google Ads može donositi bolje upite za vašu psihoterapijsku praksu, pošaljite nam trenutnu situaciju preko [kontakt forme](/kontakt). Pogledaćemo ponudu, lokaciju, kapacitet, landing stranu, postojeće upite i budžet, pa predložiti kampanju koja meri zakazane termine, ne samo broj klikova.
+`,
+  },
+  {
     slug: 'budzetski-horizont-lead-generation-roi-srbija-2026',
     title: 'Budžetski horizont za lead generation u Srbiji 2026: koliko dugo čekati ROI',
     excerpt: 'Ako se kampanja ocenjuje posle jedne nedelje, dobar funnel može izgledati loše. Evo kako planirati budžet za 30, 60 i 90 dana pre odluke o ROI-u.',

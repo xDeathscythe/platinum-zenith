@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-psihoterapeute-cena-termina-srbija-2026",
+    "title": "Google Ads za psihoterapeute u Srbiji 2026: cena termina i budžet",
+    "excerpt": "Psihoterapeutima ne trebaju radoznali klikovi, nego diskretni upiti za prvi termin. Evo kako postaviti kampanje, landing stranu i praćenje.",
+    "date": "2026-07-05",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "budzetski-horizont-lead-generation-roi-srbija-2026",
     "title": "Budžetski horizont za lead generation u Srbiji 2026: koliko dugo čekati ROI",
     "excerpt": "Ako se kampanja ocenjuje posle jedne nedelje, dobar funnel može izgledati loše. Evo kako planirati budžet za 30, 60 i 90 dana pre odluke o ROI-u.",
