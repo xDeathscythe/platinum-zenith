@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "atribucija-leadova-marketing-budzet-roi-srbija-2026",
+    "title": "Atribucija leadova u Srbiji 2026: kada ROI laže zbog pogrešnog kanala",
+    "excerpt": "Ako svaki lead dobije pogrešan izvor, budžet ide u kanal koji izgleda najbolje u izveštaju, ne u kanal koji stvarno donosi profit.",
+    "date": "2026-07-07",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "analiza-prodajnih-poziva-kampanje-leadovi-srbija-2026",
     "title": "Analiza prodajnih poziva u Srbiji 2026: zašto leadovi ne postaju ponude",
     "excerpt": "Ako ne čujete kako prodaja stvarno razgovara sa leadovima, kampanja može izgledati loše zbog pitanja, tona, ponude ili propuštenog sledećeg koraka.",

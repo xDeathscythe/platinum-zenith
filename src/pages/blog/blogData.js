@@ -1,5 +1,74 @@
 const rawBlogPosts = [
   {
+    slug: 'atribucija-leadova-marketing-budzet-roi-srbija-2026',
+    title: 'Atribucija leadova u Srbiji 2026: kada ROI laže zbog pogrešnog kanala',
+    excerpt: 'Ako svaki lead dobije pogrešan izvor, budžet ide u kanal koji izgleda najbolje u izveštaju, ne u kanal koji stvarno donosi profit.',
+    date: '2026-07-07',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Marketing budžet', 'ROI', 'Lead Generation', 'Atribucija', 'Prodaja'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Zašto atribucija leadova menja odluku o budžetu
+
+Marketing budžet se često menja na osnovu izveštaja koji deluje uredno: Google Ads je doneo toliko leadova, organska pretraga toliko, društvene mreže toliko, preporuke toliko. Problem nastaje kada isti lead prođe kroz više dodira, a na kraju sav rezultat dobije kanal koji je poslednji otvorio formu ili poslednji poziv. Tada ROI izgleda precizno, ali odluka o budžetu može biti pogrešna.
+
+Atribucija leadova nije akademska tema za velike korporacije. Za firmu koja ulaže u [Google Ads](/google-reklame-cena), SEO, remarketing, prodaju i landing strane, ona odgovara na mnogo praktičnije pitanje: koji kanal stvarno pomaže da se dobije profitabilan kupac, a koji samo pokupi zaslugu u poslednjem trenutku?
+
+## Česta greška: sav kredit dobije poslednji klik
+
+Česta greška je da firma gleda samo poslednji izvor pre forme ili poziva. Kupac je možda prvi put došao preko bloga, drugi put preko remarketing oglasa, treći put preko pretrage brenda, a na kraju poslao upit posle direktne posete sajtu. Ako se sve pripiše direktnom kanalu ili brand search kampanji, budžet se pomera ka onome što izgleda najbliže prodaji, dok se zanemaruju dodiri koji su napravili poverenje.
+
+To ne znači da svaki kanal treba braniti po svaku cenu. Nekada zaista postoji kanal koji troši novac bez kvalitetnog ishoda. Ali bez osnovne atribucije, firma često kažnjava pogrešan deo funnel-a. Ugasiti kanal koji donosi prve ozbiljne posete može izgledati kao štednja, dok se za dva meseca ne primeti da je manje pretraga brenda, manje toplih razgovora i slabiji pipeline.
+
+## Kako pogrešna atribucija pravi lažan ROI
+
+ROI se ne kvari samo kada su brojevi netačni. Kvari se i kada je profit pripisan pogrešnom mestu. Ako se prodaja zatvori iz preporuke, ali je klijent pre toga čitao cenu, studiju slučaja i nekoliko komercijalnih blogova, nije pošteno reći da marketing nije imao ulogu. Sa druge strane, ako se plaćeni kanal vodi kao zaslužan za kupca koji bi svakako došao preko postojećeg odnosa, budžet može izgledati jače nego što jeste.
+
+Zato [cena digitalnog marketinga](/cene-digitalnog-marketinga) mora biti povezana sa načinom merenja, ne samo sa mesečnom fakturom. Dve firme mogu trošiti isti iznos, imati isti broj leadova i potpuno različite odluke o budžetu ako jedna vidi samo poslednji klik, a druga prati prvi dodir, poslednji dodir, kvalifikaciju i zatvorenu prodaju.
+
+## Šta treba beležiti da bi atribucija bila korisna
+
+Ne treba odmah uvoditi komplikovan model. Za većinu B2B i lead generation firmi dovoljno je da svaki lead ima izvor prvog dolaska ako je poznat, poslednji izvor pre upita, kampanju ili landing stranu, tip upita, status u prodaji, da li je lead kvalifikovan, da li je poslata ponuda, vrednost posla i razlog gubitka. Bez toga se odluka svodi na osećaj i površni CPL.
+
+Najvažnije je da se marketing podaci spoje sa [CRM evidencijom za leadove](/blog/crm-za-leadove-evidencija-prodaja-srbija-2026). Ako Ads kaže da je lead stigao, a prodaja ne zapiše šta se desilo, kanal dobija kredit za kontakt bez poslovnog ishoda. Ako prodaja zapiše samo dobijeno ili izgubljeno, ali ne i izvor, marketing ne zna šta treba pojačati, smanjiti ili popraviti.
+
+## Primer: kanal izgleda skup, ali donosi bolje kupce
+
+Zamislimo dve kampanje. Prva donosi lead po 25 evra, druga po 70 evra. Na prvi pogled prva kampanja pobeđuje. Kada se pogleda prodaja, vidi se da prva donosi mnogo kratkih razgovora i male poslove, dok druga donosi manje upita, ali više ozbiljnih ponuda i bolju maržu. Ako se budžet deli samo po CPL-u, firma će povećati pogrešan kanal.
+
+Ovo je isti razlog zašto [CPL nije isto što i CAC](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026). Atribucija mora ići do poslovnog ishoda. Nije dovoljno znati ko je poslao formu. Treba znati koji kanal je doneo kupca koji se zatvorio, platio, ostao profitabilan i nije pojeo operativni kapacitet.
+
+## Kako atribucija pomaže kod raspodele budžeta
+
+Kada se izvori i ishodi vode zajedno, budžet više ne mora da se deli po utisku iz oglasa. Može se videti da li Google Search hvata najjači intent, da li remarketing pomaže povratak posetilaca, da li SEO donosi prvi dodir, da li email ili follow-up zatvara neodlučne leadove i da li brand kampanja samo skuplja već stvorenu potražnju.
+
+Tada se odluka o budžetu postavlja drugačije: koliko novca ide u hvatanje postojeće potražnje, koliko u grejanje publike, koliko u landing stranu, koliko u merenje i koliko u prodajni follow-up. Dobar [marketing budžet](/blog/raspodela-marketing-budzeta-oglasi-sajt-prodaja-srbija-2026) nije samo lista kanala, nego sistem koji zna koja faza pravi sledeću komercijalnu akciju.
+
+## Kada ne treba menjati budžet odmah
+
+Ako jedan kanal izgleda slabije ovog meseca, a ima ulogu u ranijoj fazi odluke, ne treba ga odmah gasiti. Prvo treba proveriti da li utiče na brand pretrage, povratne posete, kvalitet razgovora, stopu zatvaranja i prosečnu vrednost posla. Posebno kod dužih prodajnih ciklusa, rezultat može kasniti za izveštajem iz oglasnog naloga.
+
+Sa druge strane, atribucija ne sme biti izgovor za beskonačno finansiranje kanala koji nema dokaz. Ako kanal troši budžet, a ne pojavljuje se ni kao prvi dodir, ni kao asistencija, ni kao izvor kvalifikovanih razgovora, treba ga smanjiti, testirati drugu poruku ili prebaciti novac tamo gde postoji bolji signal.
+
+## Minimalni model koji mala firma može koristiti
+
+Najjednostavniji model ima tri kolone: prvi poznati izvor, izvor upita i status prodaje. Uz to treba dodati vrednost ponude ili posla, ako postoji. Već posle 30 do 60 dana može se videti da li neki kanal često otvara put, da li drugi zatvara upite i da li treći samo pravi šum. To je dovoljno za bolju odluku od slepog gledanja poslednjeg klika.
+
+Ako firma već koristi [kvalifikovane konverzije u Google Ads-u](/blog/kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026), još bolje. Tada se algoritmu ne šalje svaka forma kao ista pobeda, nego jači signal za leadove koji su stvarno prošli prodajnu proveru. Atribucija i kvalifikacija zajedno čuvaju budžet od kanala koji donose najlakše, ali ne i najbolje upite.
+
+## Kako Platinum Zenith gleda atribuciju i ROI
+
+Kod lead generation kampanja ne gledamo kanal izolovano od prodaje. Gledamo šta je kanal pokrenuo, kakav lead je doveo, šta se desilo u CRM-u, da li je poslata ponuda, da li je posao prihvaćen i koliko se brzo novac vraća kroz [ROI kalkulator](/alati/roi-kalkulator). Tek tada budžet ima smisla povećati, smanjiti ili prebaciti.
+
+Ako imate više kanala, a niste sigurni koji stvarno donosi profitabilne leadove, pošaljite nam trenutne izvore, kampanje, CRM statuse i osnovnu računicu kroz [kontakt formu](/kontakt). Pogledaćemo gde se zasluge pogrešno pripisuju, koji kanal treba braniti, koji treba smanjiti i koje merenje mora postojati pre sledeće odluke o budžetu.
+`,
+  },
+  {
     slug: 'analiza-prodajnih-poziva-kampanje-leadovi-srbija-2026',
     title: 'Analiza prodajnih poziva u Srbiji 2026: zašto leadovi ne postaju ponude',
     excerpt: 'Ako ne čujete kako prodaja stvarno razgovara sa leadovima, kampanja može izgledati loše zbog pitanja, tona, ponude ili propuštenog sledećeg koraka.',
