@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-limare-i-oluke-cena-upita-srbija-2026",
+    "title": "Google Ads za limare i oluke u Srbiji 2026: cena upita i budžet",
+    "excerpt": "Limarski radovi deluju kao lokalni upiti, ali bez dimenzija, visine objekta, lokacije i roka brzo pojedu maržu. Evo kako planirati Google Ads budžet.",
+    "date": "2026-07-06",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "trosak-isporuke-marketing-budzet-lead-generation-srbija-2026",
     "title": "Trošak isporuke i marketing budžet u Srbiji 2026: kada lead ne nosi profit",
     "excerpt": "Lead može izgledati profitabilno dok se ne uračunaju sati tima, materijal, logistika i podrška. Evo kako trošak isporuke menja siguran CPL i budžet.",

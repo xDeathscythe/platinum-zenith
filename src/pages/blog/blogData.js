@@ -1,5 +1,68 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-limare-i-oluke-cena-upita-srbija-2026',
+    title: 'Google Ads za limare i oluke u Srbiji 2026: cena upita i budžet',
+    excerpt: 'Limarski radovi deluju kao lokalni upiti, ali bez dimenzija, visine objekta, lokacije i roka brzo pojedu maržu. Evo kako planirati Google Ads budžet.',
+    date: '2026-07-06',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Limari', 'Oluci', 'Lead Generation', 'Lokalni marketing'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Zašto Google Ads za limare nije samo pitanje jeftinog poziva
+
+Limarski radovi i oluci imaju jasan lokalni intent. Kada nekome curi oluk, treba opšivka, sanacija lima, zamena vertikale ili hitna intervencija posle nevremena, pretraga često počinje na Google-u. To zvuči kao idealan kanal za majstore i firme koje rade limarske radove. Problem nastaje kada kampanja meri samo broj poziva, a ne razliku između sitnog pitanja, neisplative intervencije i posla koji stvarno nosi maržu.
+
+Kod ove delatnosti [Google Ads budžet](/google-reklame-cena) ne sme biti odvojen od terena. Isti lead može značiti zamenu jednog kolena na oluku, kompletnu ugradnju oluka na kući, opšivanje krova ili industrijski objekat. Cena klika može biti ista, ali vrednost posla, rizik, vreme izlaska i potreban tim nisu isti.
+
+## Česta greška: svi upiti za oluke idu u istu kampanju
+
+Česta greška je da firma napravi jednu kampanju za limarske radove i pusti sve izraze u isti budžet. Tu se pomešaju oluci, opšivke, limeni krovovi, popravke, hitne intervencije, prodaja materijala, DIY saveti i ljudi koji traže cenu po metru bez namere da zakazuju izlazak. Izveštaj posle pokaže leadove, ali prodaja kaže da pola razgovora nije za ozbiljan posao.
+
+Nije problem u tome što ljudi pitaju. Problem je što kampanja nije razdvojila komercijalni intent. Neko ko traži firmu za zamenu oluka na kući nije isto što i neko ko traži dimenzije lima, polovnu mašinu, posao kod limara ili tutorijal za samostalnu montažu. Ako se sve meri kao isti upit, kampanja brzo počne da kupuje najlakše, a ne najprofitabilnije kontakte.
+
+## Kako podeliti kampanje za limare i oluke
+
+Za većinu firmi ima smisla razdvojiti bar četiri grupe: ugradnja i zamena oluka, popravka i sanacija postojećih oluka, krovna limarija i opšivke, zatim veći komercijalni ili industrijski radovi. Ako firma radi samo deo toga, budžet treba usmeriti samo na taj deo. Google Ads ne zna koji posao je dobar za firmu dok mu se to ne kaže kroz strukturu kampanje, landing stranu i merenje.
+
+Posebno treba paziti na hitne termine. Upiti posle kiše ili nevremena mogu biti veoma jaki, ali i operativno nezgodni. Ako tim nema kapacitet da brzo izađe na teren, budžet u tom periodu može napraviti mnogo propuštenih poziva i nervoznih razgovora. Tu se tema [kapaciteta prodaje i isporuke](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026) direktno spaja sa lokalnim oglašavanjem.
+
+## Koje podatke lead mora dati pre ozbiljne ponude
+
+Kod limarskih radova retko je dovoljno pitanje koliko košta oluk. Prodaji trebaju lokacija, tip objekta, približna dužina oluka, visina, pristup objektu, stanje krova ili fasade, da li postoji stari oluk, rok i fotografije. Bez tih podataka firma može samo da nagađa. A kada prodaja nagađa, lead deluje jeftino dok ne dođe vreme za izlazak, merenje i ponudu.
+
+Zato landing strana treba da pomogne kvalifikaciju, ne samo da traži ime i telefon. Kratka forma može pitati grad, tip rada, okvirnu dužinu, spratnost ili visinu objekta, rok i mogućnost slanja fotografija. To ne mora ubiti konverziju. Naprotiv, dobra [kvalifikacija kontakt forme](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026) štedi vreme firmi i daje ozbiljnom kupcu osećaj da će dobiti konkretniji odgovor.
+
+## Negativne ključne reči koje čuvaju budžet
+
+Kod ove niše negativne ključne reči nisu formalnost. Budžet lako ode na pretrage za poslove, dnevnice, kurseve, alate, mašine, polovni lim, sam svoj majstor, uputstva, slike, kalkulatore materijala, kataloge boja, cene lima bez ugradnje i gradove u kojima firma ne radi. Ako firma ne prodaje samo materijal, izrazi za kupovinu materijala moraju biti odvojeni ili isključeni.
+
+Treba paziti i na preširoke termine. Reč limar može značiti auto limar, građevinski limar, krovni limar ili zanatlija za oluke. Ako firma radi samo oluke i građevinsku limariju, auto-limarski intent mora biti blokiran. Ako radi samo Beograd i okolinu, nema smisla plaćati pozive iz gradova gde izlazak nije isplativ.
+
+## Landing strana mora objasniti šta utiče na cenu
+
+Ljudi često pitaju cenu po metru jer ne znaju šta drugo da pitaju. Ako strana samo kaže pošaljite upit, prodaja dobija razgovore u kojima mora ispočetka objašnjavati materijal, visinu, pristup, demontažu, odvoz, boju, rok i garanciju. Bolje je na strani odmah objasniti koji faktori menjaju cenu i zašto tačna ponuda traži osnovne podatke ili fotografije.
+
+Ovo ne znači da treba objaviti svaku cenu. Dovoljan je okvir: šta obično ulazi u procenu, kada je potreban izlazak na teren, šta se dodatno naplaćuje i koji poslovi nisu idealan fit. Dobra landing strana radi isto što i dobar majstor na prvom pozivu: smiruje kupca, postavlja prava pitanja i vodi ga ka sledećem koraku. Kada se već plaća [cena digitalnog marketinga](/cene-digitalnog-marketinga), ta strana mora čuvati i klikove i vreme prodaje.
+
+## Kako meriti da li su upiti stvarno isplativi
+
+Za limare i firme koje rade oluke, osnovna tabela ne treba da ima samo lead i CPL. Treba pratiti poziv ili formu, lokaciju, tip posla, procenjenu dužinu ili obim, da li su poslate fotografije, da li je zakazan izlazak, da li je poslata ponuda, prihvaćen posao, vrednost posla i razlog gubitka. Tek tada se vidi koja kampanja donosi posao, a koja samo aktivnost.
+
+Ovo je slično drugim home-improvement nišama kao što su [fasade i izolacija](/blog/google-ads-za-fasade-i-izolaciju-cena-upita-srbija-2026), [krovopokrivači](/blog/google-ads-za-krovopokrivace-cena-leada-srbija-2026) i [roletne i komarnici](/blog/google-ads-za-roletne-i-komarnike-cena-upita-srbija-2026). Svi imaju isti rizik: dobar broj upita može sakriti loš obim, pogrešnu lokaciju, slab fit ili posao koji pojede previše vremena.
+
+## Kako Platinum Zenith postavlja kampanju za ovakvu delatnost
+
+Kod ovakvih lokalnih kampanja ne krećemo od pitanja koliko klikova možemo kupiti. Krećemo od pitanja koji posao firma zaista želi više: zamene oluka, sanacije, opšivke, veće objekte, hitne intervencije ili redovne projekte. Zatim pravimo kampanje, negativne ključne reči, landing stranu i merenje tako da budžet uči iz kvalifikovanih prilika, ne iz svakog poziva.
+
+Ako već dobijate pozive za limarske radove, ali ne znate koji upiti vrede budžeta, pošaljite nam trenutne kampanje, gradove koje pokrivate i tipove poslova koje želite kroz [kontakt formu](/kontakt). Pogledaćemo gde se troši novac, koje pretrage treba isključiti, šta landing strana mora pitati i kako da se budžet veže za poslove koje stvarno želite da prihvatite.
+`,
+  },
+  {
     slug: 'trosak-isporuke-marketing-budzet-lead-generation-srbija-2026',
     title: 'Trošak isporuke i marketing budžet u Srbiji 2026: kada lead ne nosi profit',
     excerpt: 'Lead može izgledati profitabilno dok se ne uračunaju sati tima, materijal, logistika i podrška. Evo kako trošak isporuke menja siguran CPL i budžet.',
