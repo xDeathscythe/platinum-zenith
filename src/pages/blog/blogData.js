@@ -1,5 +1,74 @@
 const rawBlogPosts = [
   {
+    slug: 'analiza-prodajnih-poziva-kampanje-leadovi-srbija-2026',
+    title: 'Analiza prodajnih poziva u Srbiji 2026: zašto leadovi ne postaju ponude',
+    excerpt: 'Ako ne čujete kako prodaja stvarno razgovara sa leadovima, kampanja može izgledati loše zbog pitanja, tona, ponude ili propuštenog sledećeg koraka.',
+    date: '2026-07-06',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Lead Generation', 'Prodaja', 'Prodajni pozivi', 'CRM', 'Konverzija'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Zašto analiza prodajnih poziva često otkrije problem koji se ne vidi u Ads-u
+
+Kada kampanja dovodi upite, ali prodaja ne dobija dovoljno ponuda, najlakše je okriviti oglas, ključne reči ili landing stranu. Nekad je to tačno. Ali kod mnogo firmi pravi problem se čuje tek u razgovoru: lead pita jednu stvar, prodaja odgovara drugu, sledeći korak ostane nejasan, a u izveštaju sve izgleda kao još jedan neiskorišćen kontakt.
+
+Zato analiza prodajnih poziva nije kontrola zaposlenih radi kontrole. Ona je način da se vidi gde se gubi komercijalni intent koji je već plaćen kroz [Google Ads budžet](/google-reklame-cena), organski saobraćaj ili preporuku. Ako firma plaća klikove, ali ne zna šta se dešava u prvih pet minuta razgovora, optimizuje kampanju na pola slike.
+
+## Česta greška: meri se broj poziva, ali ne i kvalitet razgovora
+
+Česta greška je da se u izveštaju prati broj poziva, trajanje poziva i eventualno propušteni pozivi. To jeste korisno, posebno ako postoje [propušteni pozivi iz kampanja](/blog/propusteni-pozivi-iz-kampanja-leadovi-prodaja-srbija-2026). Ali poziv od tri minuta može biti odličan ili potpuno izgubljen, zavisi šta se u njemu desilo.
+
+Jedan tim može brzo potvrditi potrebu, pitati budžet, objasniti proces i dogovoriti sledeći korak. Drugi može isti lead odvesti u generičko objašnjavanje, poslati okvirnu cenu bez konteksta i završiti sa čućemo se. U oba slučaja analitika vidi poziv. Firma tek kroz slušanje ili strukturisanu belešku vidi da li je poziv bio prodajna prilika ili samo potrošen kontakt.
+
+## Šta treba proveriti u svakom prodajnom pozivu
+
+Dobar pregled poziva ne mora biti komplikovan. Za početak je dovoljno proveriti pet stvari. Prvo, da li je prodaja razumela izvor i nameru leada. Drugo, da li je postavila pitanja koja menjaju odluku: lokacija, rok, obim, budžet, tip usluge, prethodno rešenje ili razlog hitnosti. Treće, da li je objasnila zašto je sledeći korak baš taj koji predlaže.
+
+Četvrto, da li je lead dobio konkretnu obavezu sa obe strane: termin, dokumenta, slike, pristup, ponudu ili dodatni poziv. Peto, da li je ishod zapisan u CRM-u tako da marketing zna šta je kampanja stvarno donela. Bez toga se [kvalifikovane konverzije](/blog/kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026) svode na pretpostavke.
+
+## Primer: kampanja izgleda loše, a zapravo prodaja ne vodi razgovor
+
+Zamislimo firmu koja dobija 40 poziva mesečno iz kampanje. Izveštaj pokazuje solidan CPL, ali malo poslatih ponuda. Prva reakcija je da su leadovi slabi. Kada se presluša deset razgovora, vidi se druga slika: ljudi pitaju za okvirnu cenu, prodaja odmah kreće u tehničke detalje, ne pita rok, ne proverava da li je kupac donosilac odluke i završava sa pošaljite podatke pa ćemo videti.
+
+U tom slučaju kampanja možda dovodi validnu potražnju, ali prodajni razgovor ne pravi most do ponude. Nije poenta da prodaja postane agresivna. Poenta je da razgovor ima strukturu. Postoji velika razlika između ljubaznog informisanja i razgovora koji vodi ka kvalifikovanoj prilici.
+
+## Kako napraviti jednostavan scorecard za pozive
+
+Scorecard za pozive treba da bude kratak, inače ga tim neće koristiti. Dovoljno je oceniti da li su zabeleženi izvor, potreba, fit, budžetski okvir, hitnost, sledeći korak i razlog ako lead nije nastavio. Može se dodati i jedno otvoreno pitanje: šta je lead najviše brinulo, cena, rok, poverenje, dokaz, garancija ili kapacitet?
+
+Ovaj scorecard nije zamena za [prodajni poziv za leadove](/blog/prodajni-poziv-za-leadove-srbija-2026), već alat da taj poziv postane merljiv. Kada se isti obrazac koristi dve do četiri nedelje, vrlo brzo se vidi da li problem dolazi iz pogrešnog saobraćaja, slabe landing strane, loše ponude, sporog odgovora ili nejasnog prodajnog procesa.
+
+## Kako analiza poziva pomaže marketingu
+
+Marketing često dobije prekasnu i pregrubu povratnu informaciju: leadovi su loši. Analiza poziva daje mnogo precizniji signal. Ako ljudi stalno pitaju za cenu, landing strana možda nema dobar cenovni okvir. Ako pitaju da li firma radi njihov grad, kampanja ili strana ne komuniciraju zonu. Ako pitaju za rok, a prodaja nema jasan proces, treba popraviti očekivanja pre forme.
+
+Tu se [cena digitalnog marketinga](/cene-digitalnog-marketinga) lakše brani, jer se ne troši samo na klikove. Troši se na učenje šta tržište zapravo pita i gde funnel treba popraviti. Dobar marketing tim iz poziva izvlači negativne ključne reči, nove sekcije za landing stranu, bolju formu, bolji prvi odgovor i jasniji CTA.
+
+## Kako povezati pozive sa CRM-om i ponudama
+
+Najveća vrednost se dobija kada poziv ne ostane izolovan. Svaki ozbiljan razgovor treba dobiti status: neodgovarajući, treba dodatna informacija, kvalifikovan, zakazan sledeći korak, poslata ponuda, izgubljeno ili dobijeno. Ako se statusi ne vode, tim će se vraćati na osećaj, a kampanja će se ocenjivati po površnim metrikama.
+
+Zato analiza poziva treba da se spoji sa [CRM evidencijom za leadove](/blog/crm-za-leadove-evidencija-prodaja-srbija-2026). Nije dovoljno znati da je telefon zazvonio. Treba znati koji poziv je postao ponuda, koja ponuda je prihvaćena, koji prigovor se ponavlja i koji izvor donosi razgovore koje prodaja može stvarno da zatvori.
+
+## Kada ne treba odmah menjati kampanju
+
+Ako pozivi dolaze sa komercijalnih pretraga, traju dovoljno dugo i ljudi postavljaju pitanja koja imaju smisla za uslugu, nije pametno odmah gasiti kampanju samo zato što nema dovoljno prodaje. Prvo treba proveriti razgovore. Možda prodaja nema pripremljen odgovor na cenu. Možda ne predlaže sledeći korak. Možda šalje ponudu bez dogovorenog termina za follow-up.
+
+Tek kada se pozivi analiziraju, odluka o kampanji postaje sigurnija. Ako se vidi da dolaze pogrešni ljudi, menja se targeting, ključne reči, oglas ili landing strana. Ako se vidi da dolaze pravi ljudi, ali proces puca posle kontakta, prvo se sređuju skripta, CRM, ponuda i [sledeći korak posle upita](/blog/sledeci-korak-posle-upita-leadovi-prodaja-srbija-2026).
+
+## Kako Platinum Zenith koristi pozive za popravljanje funnel-a
+
+Kod lead generation kampanja ne gledamo poziv kao kraj funnel-a. Gledamo ga kao dokaz šta se desilo posle plaćenog klika. Ako kroz nekoliko razgovora vidimo isti prigovor, istu zabunu ili isti izgubljen sledeći korak, to postaje zadatak za kampanju, landing stranu ili prodajni proces.
+
+Ako imate pozive iz kampanja, ali ne znate zašto se ne pretvaraju u ponude i poslove, pošaljite nam kroz [kontakt formu](/kontakt) šta trenutno merite: broj poziva, izvore, statuse, ponude i zatvorene poslove. Pogledaćemo gde razgovori gube nameru, šta treba popraviti u funnel-u i koje metrike moraju ući u izveštaj pre sledećeg povećanja budžeta.
+`,
+  },
+  {
     slug: 'google-ads-za-limare-i-oluke-cena-upita-srbija-2026',
     title: 'Google Ads za limare i oluke u Srbiji 2026: cena upita i budžet',
     excerpt: 'Limarski radovi deluju kao lokalni upiti, ali bez dimenzija, visine objekta, lokacije i roka brzo pojedu maržu. Evo kako planirati Google Ads budžet.',

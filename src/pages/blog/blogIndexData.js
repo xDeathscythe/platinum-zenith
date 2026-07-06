@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "analiza-prodajnih-poziva-kampanje-leadovi-srbija-2026",
+    "title": "Analiza prodajnih poziva u Srbiji 2026: zašto leadovi ne postaju ponude",
+    "excerpt": "Ako ne čujete kako prodaja stvarno razgovara sa leadovima, kampanja može izgledati loše zbog pitanja, tona, ponude ili propuštenog sledećeg koraka.",
+    "date": "2026-07-06",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-limare-i-oluke-cena-upita-srbija-2026",
     "title": "Google Ads za limare i oluke u Srbiji 2026: cena upita i budžet",
     "excerpt": "Limarski radovi deluju kao lokalni upiti, ali bez dimenzija, visine objekta, lokacije i roka brzo pojedu maržu. Evo kako planirati Google Ads budžet.",
