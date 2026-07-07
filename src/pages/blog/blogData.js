@@ -1,5 +1,80 @@
 const rawBlogPosts = [
   {
+    slug: 'cena-kvalifikovanog-leada-marketing-budzet-srbija-2026',
+    title: 'Cena kvalifikovanog leada u Srbiji 2026: zašto CPL nije dovoljno merilo',
+    excerpt: 'CPL može izgledati odlično dok kvalifikovani leadovi ostaju preskupi. Evo kako računati cenu pravih prilika, ne samo cenu svake forme.',
+    date: '2026-07-08',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Marketing budžet', 'Lead Generation', 'Kvalitet leadova', 'CPL', 'ROI'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Zašto cena kvalifikovanog leada menja odluku o budžetu
+
+Mnoge firme prvo pitaju koliko košta lead. To je normalno pitanje, ali često nije dovoljno za odluku o marketing budžetu. Ako kampanja donese 100 formi po 8 evra, izveštaj može izgledati bolje nego kampanja koja donese 35 formi po 24 evra. Problem nastaje kada prodaja pogleda ko je stvarno imao budžet, potrebu, rok i ovlašćenje da odluči.
+
+Cena kvalifikovanog leada je praktičnija mera od običnog CPL-a. Ona pokazuje koliko firma plaća za upit koji prodaja zaista može pretvoriti u ponudu ili posao. Za [Google Ads budžet](/google-reklame-cena), SEO i landing strane to je razlika između jeftinog kontakta i stvarne poslovne prilike.
+
+## Česta greška: svaki upit se vodi kao isti uspeh
+
+Česta greška je da se svaka forma, poziv i WhatsApp poruka vode kao konverzija iste vrednosti. U tabeli sve deluje uredno: kampanja, potrošnja, broj leadova, CPL. Ali u prodaji se vidi druga slika. Deo ljudi traži najnižu cenu, deo nije u zoni isporuke, deo nema realan budžet, deo pita za uslugu koju firma ne želi da prodaje, a deo nikada ne odgovori posle prvog kontakta.
+
+Tada nizak CPL postaje opasan signal. Marketing može nastaviti da kupuje najlakše upite, jer algoritam vidi da se forme pune. Prodaja, sa druge strane, troši vreme na razgovore koji ne mogu postati posao. Zato nije dovoljno pitati koliko košta lead. Treba pitati koliko košta kvalifikovan lead.
+
+## Šta znači kvalifikovan lead u praksi
+
+Kvalifikovan lead nije savršen kupac. To je upit koji ima dovoljno poslovnog smisla da zaslužuje ozbiljan prodajni korak. Za jednu firmu to znači da osoba ima budžet, lokaciju i hitnost. Za drugu da je projekat dovoljno velik, da postoji donosilac odluke i da se usluga poklapa sa onim što firma želi da isporučuje.
+
+Najjednostavniji kriterijumi su: da li upit traži pravu uslugu, da li je lokacija podržana, da li postoji realan rok, da li je okvir budžeta moguć, da li osoba može učestvovati u odluci i da li postoji sledeći konkretan korak. Ovo se nadovezuje na [kvalifikaciju kontakt forme](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026), ali ne završava se na formi. Prodaja mora potvrditi kvalitet kroz status.
+
+## Kako izračunati cenu kvalifikovanog leada
+
+Formula je jednostavna: ukupna potrošnja podeljena brojem kvalifikovanih leadova. Ako je kampanja potrošila 1.000 evra i donela 80 leadova, običan CPL je 12,50 evra. Ako je od tih 80 samo 20 kvalifikovano, cena kvalifikovanog leada je 50 evra. Ta druga cifra je ona koja treba da utiče na budžet.
+
+Još važnije, treba računati po kampanji, ponudi i izvoru. Jedna kampanja može imati viši CPL, ali bolju stopu kvalifikacije. Druga može imati mnogo jeftinih formi i malo stvarnih prilika. Bez ove podele firma često smanji kanal koji izgleda skup, a zapravo donosi bolje kupce.
+
+## Primer: jeftin lead koji pojede prodaju
+
+Zamislimo firmu koja radi skuplje B2B usluge. Kampanja A donosi 70 upita po 15 evra. Kampanja B donosi 25 upita po 40 evra. Na površini kampanja A izgleda kao pobednik. Kada prodaja unese statuse, vidi se da kampanja A ima 12 kvalifikovanih leadova, a kampanja B 15. Cena kvalifikovanog leada je 87,50 evra za A i 66,67 evra za B.
+
+Ako se gleda samo CPL, budžet ide u A. Ako se gleda kvalifikovan lead, B zaslužuje više pažnje. To je razlog zašto [CPL nije isto što i CAC](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026). Jeftin kontakt nije jeftin kupac ako između forme i prodaje nestane kvalitet.
+
+## Koji statusi treba da postoje u CRM-u
+
+Ne treba komplikovan sistem da bi se ovo merilo. Dovoljno je nekoliko statusa: nov lead, kontaktiran, nije dobar fit, kvalifikovan, zakazan razgovor, poslata ponuda, dobijen posao, izgubljen posao i razlog gubitka. Kod lokalnih usluga mogu se dodati lokacija, tip posla, okvir vrednosti i hitnost. Kod B2B-a uloga osobe, budžet, rok i veličina projekta.
+
+Bez ovih statusa [CRM evidencija za leadove](/blog/crm-za-leadove-evidencija-prodaja-srbija-2026) postaje imenik, ne izvor odluke. Marketing vidi samo broj upita, prodaja pamti utisak, a vlasnik nema pouzdanu računicu. Sa statusima se vidi koji kanal donosi upite koji prolaze prvi prodajni filter.
+
+## Kada skuplji lead vredi više
+
+Skuplji lead nije automatski bolji, ali često vredi više ako ima jači intent. Pretraga sa jasnim problemom, landing strana koja objašnjava cenu, forma koja traži relevantan kontekst i brz prvi odgovor mogu smanjiti broj ukupnih upita, ali povećati procenat kvalifikovanih. To je zdraviji rast od širenja kampanje na široke izraze samo zato što donose jeftinije klikove.
+
+Ako firma zna [stopu zatvaranja leadova](/blog/stopa-zatvaranja-leadova-marketing-budzet-srbija-2026), može ići korak dalje. Cena kvalifikovanog leada se povezuje sa prosečnom vrednošću posla, bruto maržom i verovatnoćom zatvaranja. Tada se zna da li je 60 evra za kvalifikovan lead skupo ili sasvim prihvatljivo.
+
+## Kako kvalifikovani lead utiče na raspodelu budžeta
+
+Kada se meri samo CPL, budžet često ide u kanal koji puni vrh levka. Kada se meri cena kvalifikovanog leada, budžet ide u kanal koji pravi prodajne prilike. To menja raspodelu između oglasa, landing strane, praćenja, CRM-a i prodajnog follow-up-a. Nekada nije problem u oglasu, nego u formi koja ne pita ključne stvari. Nekada nije problem u formi, nego u prodaji koja ne beleži razlog odbijanja.
+
+Zato [cena digitalnog marketinga](/cene-digitalnog-marketinga) ne treba da se posmatra samo kao media spend plus agencijska usluga. Deo budžeta mora čuvati merenje, kvalifikaciju i korekcije funnel-a. Ako se sve potroši na klikove, firma dobija više podataka, ali ne nužno i više korisnih odluka.
+
+## Veza sa profitabilnošću ponude
+
+Cena kvalifikovanog leada ima smisla tek kada se poveže sa ponudom. Lead za uslugu sa velikom maržom i ponovnom kupovinom može podneti viši kvalifikovani CPL. Lead za malu jednokratnu uslugu mora biti mnogo strože filtriran. U suprotnom firma može imati pun pipeline i slab profit.
+
+Ovo je posebno važno kada jedna firma promoviše više usluga. Ako se sve meri prosečno, bolja ponuda može finansirati lošiju bez da iko primeti. Zato treba gledati [profitabilnost ponuda](/blog/profitabilnost-ponuda-marketing-budzet-lead-generation-srbija-2026), kvalifikovane leadove po ponudi i realan kapacitet isporuke. Tada budžet prati profit, ne samo broj razgovora.
+
+## Kako Platinum Zenith postavlja ovu metriku
+
+Kod lead generation kampanja ne gledamo samo koliko je stiglo upita. Gledamo koji upiti su prošli kvalifikaciju, koji su zakazali razgovor, gde je poslata ponuda, šta se zatvorilo i šta kaže [ROI kalkulator](/alati/roi-kalkulator) kada se unesu marža, stopa zatvaranja i prosečna vrednost posla. Tek tada se odlučuje da li budžet treba povećati, smanjiti ili prebaciti.
+
+Ako imate puno leadova, ali niste sigurni koji se isplate, pošaljite nam kroz [kontakt formu](/kontakt) trenutne kampanje, izvore, tipične upite i osnovne prodajne statuse. Pogledaćemo gde CPL vara, koliko stvarno košta kvalifikovan lead i šta treba promeniti da budžet kupuje prilike, ne samo kontakte.
+`,
+  },
+  {
     slug: 'kriterijumi-saradnje-na-sajtu-kvalitet-leadova-srbija-2026',
     title: 'Kriterijumi saradnje na sajtu u Srbiji 2026: zašto upiti nisu dobar fit',
     excerpt: 'Ako sajt ne kaže za koga jeste, a za koga nije usluga, prodaja troši vreme na pogrešne upite. Evo kako kriterijumi saradnje čuvaju budžet.',

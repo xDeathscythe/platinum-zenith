@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "cena-kvalifikovanog-leada-marketing-budzet-srbija-2026",
+    "title": "Cena kvalifikovanog leada u Srbiji 2026: zašto CPL nije dovoljno merilo",
+    "excerpt": "CPL može izgledati odlično dok kvalifikovani leadovi ostaju preskupi. Evo kako računati cenu pravih prilika, ne samo cenu svake forme.",
+    "date": "2026-07-08",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "kriterijumi-saradnje-na-sajtu-kvalitet-leadova-srbija-2026",
     "title": "Kriterijumi saradnje na sajtu u Srbiji 2026: zašto upiti nisu dobar fit",
     "excerpt": "Ako sajt ne kaže za koga jeste, a za koga nije usluga, prodaja troši vreme na pogrešne upite. Evo kako kriterijumi saradnje čuvaju budžet.",
