@@ -1,5 +1,74 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-servise-bele-tehnike-cena-poziva-srbija-2026',
+    title: 'Google Ads za servise bele tehnike u Srbiji 2026: cena poziva i budžet',
+    excerpt: 'Servis bele tehnike često dobija hitne pozive, ali bez tipa kvara, uređaja, lokacije i roka Google Ads budžet brzo ode na neisplative izlaske.',
+    date: '2026-07-07',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Bela tehnika', 'Lokalni marketing', 'Lead Generation', 'Servis'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Zašto Google Ads za servis bele tehnike nije samo hitan poziv
+
+Servis bele tehnike deluje kao idealna niša za Google Ads. Kada veš mašina ne izbacuje vodu, frižider ne hladi, mašina za sudove curi ili šporet ne radi, kupac ne istražuje mesecima. Upiše problem, otvori nekoliko rezultata i zove onoga ko deluje dostupno, blizu i dovoljno sigurno. Problem nastaje kada se svaki poziv vodi kao isti lead, iako jedan znači isplativ izlazak, a drugi pitanje za deo od 800 dinara.
+
+Zato [Google Ads budžet](/google-reklame-cena) za servis bele tehnike mora biti vezan za tip uređaja, kvar, zonu, cenu izlaska, raspoloživost majstora i verovatnoću da se popravka stvarno prihvati. Ako se meri samo broj poziva, kampanja može izgledati dobro dok servis troši vreme na neisplative intervencije, pogrešne gradove i korisnike koji traže besplatnu dijagnostiku preko telefona.
+
+## Česta greška: sve popravke idu u jednu kampanju
+
+Česta greška je da servis napravi jednu kampanju za popravku bele tehnike i u nju ubaci veš mašine, frižidere, šporete, mašine za sudove, sušilice, bojlere, delove, savete i hitne pozive. Posle nekoliko nedelja izveštaj kaže da ima konverzija, ali vlasnik vidi da se majstori voze na adrese koje nisu vredne izlaska ili razgovaraju sa ljudima koji samo proveravaju cenu.
+
+Nije svaki kvar isti posao. Popravka frižidera, zamena pumpe na veš mašini, servis ugradne rerne i dijagnostika mašine za sudove imaju različitu maržu, trajanje, delove i šansu da kupac prihvati cenu. Ako se sve drži u istoj kampanji, budžet često ode tamo gde je najlakše dobiti poziv, ne tamo gde servis zarađuje.
+
+## Kako podeliti kampanje za servise bele tehnike
+
+Za većinu lokalnih servisa ima smisla odvojiti bar četiri grupe: veš mašine i sušilice, frižideri i zamrzivači, mašine za sudove i ugradni kuhinjski uređaji. Ako servis radi i bojlere ili klima uređaje, to treba odvojiti od bele tehnike, jer korisnik, hitnost, cena i sezona nisu isti. Posebna kampanja može postojati za hitne intervencije, ali samo ako tim stvarno može brzo da izađe na teren.
+
+Lokacija je jednako važna. Servis koji radi Beograd i okolinu ne treba da plaća klikove iz gradova gde izlazak pojede maržu. Servis koji ima majstore po zonama treba da meri iz kog dela grada dolazi poziv, koliko traje dolazak i da li je posao prihvaćen. Tu se [kapacitet prodaje i isporuke](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026) direktno spaja sa lokalnim oglašavanjem.
+
+## Koje informacije lead mora dati pre izlaska
+
+Kod bele tehnike nije dovoljno da forma pita ime i telefon. Pre ozbiljnog izlaska servisu trebaju uređaj, brend ako je poznat, osnovni simptom, opština ili naselje, da li je uređaj u garanciji, koliko je star, da li je problem hitan i kada je korisnik dostupan. Nekad je korisno tražiti fotografiju oznake modela ili kratku poruku o tome šta se tačno dešava.
+
+Dobra [kvalifikacija kontakt forme](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026) ne mora smanjiti broj dobrih leadova. Ona smanjuje broj razgovora koji nikada nisu mogli postati isplativa intervencija. Ozbiljan kupac lakše prihvata par pitanja ako vidi da će dobiti konkretniji odgovor, okvir cene izlaska i realan termin.
+
+## Negativne ključne reči koje čuvaju budžet
+
+Kod servisa bele tehnike negativne ključne reči prave razliku između punog rasporeda i potrošenog budžeta. Treba isključiti poslove, oglase za posao, kurseve, polovne uređaje, prodaju delova ako servis to ne radi, uputstva, šeme, resetovanje, sam svoj majstor, YouTube tutorijale, garancijski servis ako nije podržan i gradove koje tim ne pokriva.
+
+Posebno treba paziti na pretrage tipa kako popraviti, zašto treperi lampica, kod greške ili cena dela. Deo tih ljudi može kasnije postati kupac, ali ako budžet nije velik, prioritet imaju izrazi sa jasnom namerom: servis veš mašina, popravka frižidera, majstor za mašinu za sudove, hitan servis bele tehnike i slične lokalne pretrage.
+
+## Landing strana mora objasniti cenu i sledeći korak
+
+Ljudi često zovu servis bele tehnike sa istim pitanjem: koliko košta popravka? Ako strana samo kaže pozovite nas, prodaja ponavlja isti razgovor ceo dan. Bolje je objasniti šta ulazi u cenu: izlazak, dijagnostika, deo, rad, garancija na popravku, hitnost i zona. Ne mora stajati svaka cifra, ali mora postojati logika kako se cena formira.
+
+Kada se već plaća [cena digitalnog marketinga](/cene-digitalnog-marketinga), landing strana treba da smanji nepotrebne pozive i poveća poverenje. Korisnik treba da vidi koje uređaje servis pokriva, koje opštine radi, kako izgleda proces, kada dobija okvirnu cenu i šta se dešava ako popravka nije isplativa. To čuva i klikove i vreme majstora.
+
+## Kako meriti da li su pozivi stvarno isplativi
+
+Za servis bele tehnike nije dovoljno meriti CPL. Treba pratiti poziv ili formu, uređaj, kvar, lokaciju, kanal, da li je poziv odgovoren, da li je zakazan izlazak, da li je popravka urađena, vrednost posla, utrošeno vreme, deo koji je zamenjen i razlog ako posao nije prihvaćen. Bez toga se budžet optimizuje prema najglasnijem, a ne najprofitabilnijem delu potražnje.
+
+Ovo je isti razlog zašto [CPL nije isto što i CAC](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026). Poziv od 6 evra može biti skup ako završi kao besplatan savet. Poziv od 18 evra može biti jeftin ako postane intervencija istog dana, uz dobru maržu i mogućnost da kupac sledeći put opet zove isti servis.
+
+## Propušteni pozivi su poseban gubitak kod hitnih kvarova
+
+Kod ove niše brzina odgovora menja rezultat. Ako korisnik zove zbog frižidera koji ne hladi ili mašine koja curi, često neće čekati povratni poziv sutra. Preći će na sledeći rezultat. Zato kampanja mora biti usklađena sa radnim vremenom, dežurnim brojem, WhatsApp porukom ili kratkom formom za period kada niko ne može odmah da se javi.
+
+Ako se ne prate [propušteni pozivi iz kampanja](/blog/propusteni-pozivi-iz-kampanja-leadovi-prodaja-srbija-2026), servis može misliti da Google Ads ne radi, a zapravo plaćeni pozivi zvone u lošem trenutku. Jednostavno pravilo je da se meri odgovoreno, propušteno, vraćeno u roku od 15 minuta, zakazano i urađeno. Tek tada se zna gde budžet curi.
+
+## Kako Platinum Zenith postavlja ovakvu lokalnu kampanju
+
+Kod servisa bele tehnike ne krećemo od pitanja kako dobiti što više poziva. Krećemo od pitanja koje intervencije servis želi više, u kojim opštinama, sa kojim minimalnim iznosom posla i kojim realnim kapacitetom majstora. Zatim se kampanje, negativne ključne reči, landing strana i merenje postavljaju tako da budžet uči iz zakazanih i urađenih intervencija, ne iz svakog zvona telefona.
+
+Ako već imate pozive za servis bele tehnike, ali ne znate koji se isplate, pošaljite nam trenutne kampanje, gradove, tipove kvarova i osnovne statuse kroz [kontakt formu](/kontakt). Pogledaćemo gde se troši novac, šta treba odvojiti u kampanjama, koje pretrage treba isključiti i kako da se budžet veže za intervencije koje stvarno želite da radite.
+`,
+  },
+  {
     slug: 'atribucija-leadova-marketing-budzet-roi-srbija-2026',
     title: 'Atribucija leadova u Srbiji 2026: kada ROI laže zbog pogrešnog kanala',
     excerpt: 'Ako svaki lead dobije pogrešan izvor, budžet ide u kanal koji izgleda najbolje u izveštaju, ne u kanal koji stvarno donosi profit.',

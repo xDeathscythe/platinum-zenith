@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-servise-bele-tehnike-cena-poziva-srbija-2026",
+    "title": "Google Ads za servise bele tehnike u Srbiji 2026: cena poziva i budžet",
+    "excerpt": "Servis bele tehnike često dobija hitne pozive, ali bez tipa kvara, uređaja, lokacije i roka Google Ads budžet brzo ode na neisplative izlaske.",
+    "date": "2026-07-07",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "atribucija-leadova-marketing-budzet-roi-srbija-2026",
     "title": "Atribucija leadova u Srbiji 2026: kada ROI laže zbog pogrešnog kanala",
     "excerpt": "Ako svaki lead dobije pogrešan izvor, budžet ide u kanal koji izgleda najbolje u izveštaju, ne u kanal koji stvarno donosi profit.",
