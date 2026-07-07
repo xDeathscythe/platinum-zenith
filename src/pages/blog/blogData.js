@@ -1,5 +1,80 @@
 const rawBlogPosts = [
   {
+    slug: 'kriterijumi-saradnje-na-sajtu-kvalitet-leadova-srbija-2026',
+    title: 'Kriterijumi saradnje na sajtu u Srbiji 2026: zašto upiti nisu dobar fit',
+    excerpt: 'Ako sajt ne kaže za koga jeste, a za koga nije usluga, prodaja troši vreme na pogrešne upite. Evo kako kriterijumi saradnje čuvaju budžet.',
+    date: '2026-07-07',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Lead Generation', 'Kvalitet leadova', 'Landing strana', 'Prodaja', 'Konverzija'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Zašto kriterijumi saradnje popravljaju kvalitet leadova
+
+Mnoge firme žele više upita sa sajta, ali ne žele bilo kakve upite. Žele kupce koji imaju pravi problem, odgovarajući budžet, razuman rok, lokaciju koju firma pokriva i očekivanja koja se mogu isporučiti. Problem nastaje kada sajt sve to prećuti. Posetilac vidi lepu opštu poruku, pošalje formu, a prodaja tek u razgovoru otkrije da nije dobar fit.
+
+Kriterijumi saradnje nisu arogantna lista uslova. Oni su filter koji štedi vreme i kupcu i firmi. Kada se već plaća [Google Ads budžet](/google-reklame-cena), SEO ili preporuke, landing strana treba da objasni kome usluga najviše pomaže, kada ima smisla poslati upit i šta nije dobar scenario za saradnju. Bez toga kampanja može donositi leadove, ali prodaja troši sate na razgovore koji nikada nisu mogli postati posao.
+
+## Česta greška: sajt zvuči kao da je usluga za svakoga
+
+Česta greška je da firma napiše da radi brzo, kvalitetno, povoljno i po meri klijenta. To zvuči bezbedno, ali ne pomaže posetiocu da se prepozna. Još gore, privlači ljude sa potpuno različitim očekivanjima: neko traži najnižu cenu, neko hitan rok, neko premium isporuku, neko samo besplatan savet. Svi završavaju u istoj formi.
+
+Prodaja tada mora da radi posao koji je landing strana mogla uraditi ranije. Umesto da razgovor krene od konkretnog problema i sledećeg koraka, prvi deo poziva odlazi na proveru osnovnog fita. Ako se to dešava iz nedelje u nedelju, nije dovoljno reći da su leadovi loši. Treba proveriti da li sajt uopšte govori kakav lead želi.
+
+## Šta treba navesti kao kriterijume saradnje
+
+Dobri kriterijumi ne moraju biti dugi. Za uslužne firme najčešće su važni tip problema, obim posla, lokacija, minimalna vrednost projekta, rok, ko donosi odluku, postojeće rešenje, budžetski okvir i spremnost da se prođe kroz dogovoreni proces. Ne mora svaka firma javno objaviti sve brojeve, ali mora dati dovoljno signala da posetilac proceni da li ima smisla da se javi.
+
+Na primer, agencija može napisati da je najbolji fit firma koja već ima ponudu i prodajni proces, ali želi više kvalifikovanih upita. Građevinska firma može napisati minimalnu kvadraturu, zone rada i tipove projekata koje ne radi. B2B konsultant može navesti za koje veličine timova ili mesečne budžete saradnja ima smisla. To nije odbijanje tržišta, nego zaštita fokusa.
+
+## Kriterijumi ne smeju ubiti konverziju
+
+Postoji strah da će jasni kriterijumi smanjiti broj upita. To se često i desi, ali nije nužno loše. Ako se smanji broj pogrešnih upita, a broj ozbiljnih razgovora ostane isti ili poraste, funnel je zdraviji. Cilj nije da forma izgleda puna. Cilj je da prodaja dobije razgovore koje može pretvoriti u ponudu i posao.
+
+Zato kriterijumi treba da budu napisani normalnim jezikom. Nije dobro zvučati kao klub zatvorenog tipa. Bolje je reći: najviše možemo pomoći ako imate taj i taj problem, taj okvir odluke i spremnost na taj proces. Ako niste tu, predložite lakši prvi korak, vodič, kraću konsultaciju ili drugi kanal. Tu se kriterijumi spajaju sa [kvalifikacijom kontakt forme](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026), ne zamenjuju je.
+
+## Kako kriterijumi pomažu prodaji posle forme
+
+Kada posetilac već zna šta se očekuje, prvi razgovor postaje konkretniji. Prodaja ne mora da objašnjava osnove iz početka. Može da proveri detalje: koji je problem, koji je rok, ko odlučuje, šta je već probano, koliki je okvir budžeta i šta bi značilo da je saradnja uspela. Tako se brže razlikuje ozbiljna prilika od radoznalog upita.
+
+Ovo direktno pomaže [lead scoring-u](/blog/lead-scoring-prioritet-upita-prodaja-srbija-2026). Ako su kriterijumi poznati, A lead nije samo neko ko je popunio formu. A lead je firma koja se poklapa sa uslugom, ima realan problem, zna ko odlučuje i prihvata sledeći korak. B lead može dobiti kraći poziv ili dodatna pitanja. C lead ne mora trošiti isti prodajni kapacitet kao najjača prilika.
+
+## Primer: više upita, ali pogrešni projekti
+
+Zamislimo firmu koja radi skuplje B2B usluge. Kampanja donosi 60 upita mesečno, ali polovina traži jednokratnu sitnu pomoć, četvrtina nema budžet, a deo ne zna ko će odobriti saradnju. Izveštaj izgleda pun, ali prodaja je umorna. Tim počinje da krivi oglase, iako oglasi možda samo pojačavaju nejasnu poruku sa sajta.
+
+Kada se na stranu dodaju kriterijumi, slika se menja. Jasno piše za koje firme usluga ima smisla, koji problem rešava, koji minimalni obim opravdava saradnju, kako izgleda proces i šta se dešava posle forme. Broj ukupnih upita može pasti sa 60 na 38, ali broj kvalifikovanih razgovora može porasti. Tada [minimalna vrednost posla](/blog/minimalna-vrednost-posla-marketing-budzet-srbija-2026) postaje deo funnel-a, ne samo interna želja vlasnika.
+
+## Gde staviti kriterijume na landing strani
+
+Kriterijumi ne treba da budu sakriveni u fusnoti. Najbolje rade kada su blizu objašnjenja usluge, pre forme ili odmah pored CTA bloka. Dobra struktura može biti: za koga je ovo, kada nije dobar fit, šta treba pripremiti pre razgovora i šta je sledeći korak. Ako je stranica duga, kratak filter može stajati i iznad forme.
+
+Važno je da kriterijumi ne zvuče kao pravni tekst. Rečenice treba da budu konkretne: radimo najbolje sa firmama koje imaju postojeću ponudu, prodajni tim ili vlasnika uključenog u odluku; ne preporučujemo start bez budžeta za test i bez osobe koja može odobriti promene. Ovakav tekst čuva i [proces saradnje na sajtu](/blog/proces-saradnje-na-sajtu-konverzija-upiti-srbija-2026), jer posetilac unapred zna šta sledi.
+
+## Kriterijumi za B2B i skuplje usluge
+
+Kod skupljih usluga najopasniji lead nije uvek onaj koji kaže da nema budžet. Opasniji je lead koji deluje zainteresovano, ali nema vlasništvo nad odlukom, nema podatke, nema rok ili samo prikuplja informacije za nekog drugog. Zato kriterijumi treba da dotaknu i ulogu osobe koja se javlja.
+
+Ako je za odluku potreban vlasnik, direktor, partner ili finansije, to treba znati pre dubokog prodajnog procesa. Ne mora se posetilac odbiti, ali se može pitati ko još učestvuje u odluci i šta treba pripremiti za njih. To se direktno nadovezuje na problem kada [donosilac odluke](/blog/donosilac-odluke-lead-generation-prodaja-srbija-2026) nije u prvom razgovoru, pa dobar lead stane u internom prepričavanju.
+
+## Kako meriti da li kriterijumi rade
+
+Kriterijumi saradnje nisu tekst koji se jednom napiše i zaboravi. Treba meriti broj formi, kvalifikovane razgovore, poslate ponude, prihvaćene poslove, razloge odbijanja i vreme prodaje po leadu. Ako broj formi padne, ali ponude i prihodi ostanu isti ili porastu, kriterijumi rade. Ako padnu i dobre prilike, poruka je možda preoštra ili traži previše informacija prerano.
+
+Zato je važno povezati [cenu digitalnog marketinga](/cene-digitalnog-marketinga) sa prodajnim ishodima. Kampanja koja donosi manje, ali čistije upite često je profitabilnija od kampanje koja puni CRM pogrešnim ljudima. Bez statusa u prodaji, firma vidi samo manji broj leadova i pomisli da je filter loš. Sa statusima vidi da li je filter zapravo smanjio šum.
+
+## Kako Platinum Zenith postavlja kriterijume bez gušenja prodaje
+
+Kod lead generation projekata ne krećemo od toga da svako može biti klijent. Krećemo od pitanja koji tip upita zaista vredi prodajnog vremena, koji signali pokazuju dobar fit i šta kupac mora znati pre nego što pošalje formu. Zatim se landing strana, forma, CTA i CRM statusi podešavaju tako da ne odbiju ozbiljne ljude, ali da smanje pogrešne razgovore.
+
+Ako imate upite, ali prodaja stalno kaže da nisu dobar fit, pošaljite nam kroz [kontakt formu](/kontakt) stranicu, formu, tipične poruke i razloge zbog kojih leadovi otpadaju. Pogledaćemo koje kriterijume treba staviti pre forme, šta treba ostaviti za prvi poziv i kako da kampanja meri kvalitet, a ne samo broj poslatih upita.
+`,
+  },
+  {
     slug: 'google-ads-za-servise-bele-tehnike-cena-poziva-srbija-2026',
     title: 'Google Ads za servise bele tehnike u Srbiji 2026: cena poziva i budžet',
     excerpt: 'Servis bele tehnike često dobija hitne pozive, ali bez tipa kvara, uređaja, lokacije i roka Google Ads budžet brzo ode na neisplative izlaske.',

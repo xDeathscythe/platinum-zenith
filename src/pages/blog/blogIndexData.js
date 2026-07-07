@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "kriterijumi-saradnje-na-sajtu-kvalitet-leadova-srbija-2026",
+    "title": "Kriterijumi saradnje na sajtu u Srbiji 2026: zašto upiti nisu dobar fit",
+    "excerpt": "Ako sajt ne kaže za koga jeste, a za koga nije usluga, prodaja troši vreme na pogrešne upite. Evo kako kriterijumi saradnje čuvaju budžet.",
+    "date": "2026-07-07",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-servise-bele-tehnike-cena-poziva-srbija-2026",
     "title": "Google Ads za servise bele tehnike u Srbiji 2026: cena poziva i budžet",
     "excerpt": "Servis bele tehnike često dobija hitne pozive, ali bez tipa kvara, uređaja, lokacije i roka Google Ads budžet brzo ode na neisplative izlaske.",
