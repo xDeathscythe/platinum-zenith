@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-vulkanizere-cena-termina-srbija-2026",
+    "title": "Google Ads za vulkanizere u Srbiji 2026: cena termina i sezonski budžet",
+    "excerpt": "Vulkanizeri ne treba da mere samo pozive. Evo kako Google Ads budžet vezati za zakazane termine, sezonu zamene guma, zone i isplative usluge.",
+    "date": "2026-07-08",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "cena-kvalifikovanog-leada-marketing-budzet-srbija-2026",
     "title": "Cena kvalifikovanog leada u Srbiji 2026: zašto CPL nije dovoljno merilo",
     "excerpt": "CPL može izgledati odlično dok kvalifikovani leadovi ostaju preskupi. Evo kako računati cenu pravih prilika, ne samo cenu svake forme.",

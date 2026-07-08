@@ -1,5 +1,74 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-vulkanizere-cena-termina-srbija-2026',
+    title: 'Google Ads za vulkanizere u Srbiji 2026: cena termina i sezonski budžet',
+    excerpt: 'Vulkanizeri ne treba da mere samo pozive. Evo kako Google Ads budžet vezati za zakazane termine, sezonu zamene guma, zone i isplative usluge.',
+    date: '2026-07-08',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Vulkanizeri', 'Lokalni marketing', 'Lead Generation', 'Sezonski budžet'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Zašto Google Ads za vulkanizere nije samo kupovina poziva
+
+Vulkanizeri imaju jasan trenutak potražnje. Kada dođe sezona zamene guma, kada neko probuši pneumatik ili kada se pojavi vibracija na volanu, korisnik ne čita deset vodiča. Traži radnju blizu sebe, termin koji može odmah da dobije i cenu koja deluje razumno. Zato Google Ads može raditi veoma dobro za ovu nišu, ali samo ako se ne meri kao gomila nasumičnih poziva.
+
+Problem nastaje kada se svaki klik i svaki poziv vode kao isti lead. Poziv za hitnu zamenu gume, upit za komplet novih pneumatika, pitanje o polovnim gumama i zahtev za balansiranje flote nemaju istu vrednost. Ako se [Google Ads budžet](/google-reklame-cena) optimizuje samo prema broju poziva, kampanja može izgledati uspešno dok radnja gubi termine na usluge koje ne nose dovoljno novca ili dolaze iz pogrešne zone.
+
+## Česta greška: cela sezona ide u jednu kampanju
+
+Česta greška je da vulkanizerska radnja napravi jednu kampanju za zamenu guma i u nju ubaci letnje gume, zimske gume, balansiranje, krpljenje, prodaju guma, optiku trapa, felne, čuvanje guma i hitne pretrage. U izveštaju sve deluje jednostavno: ima klikova, ima poziva, cena po leadu nije strašna. U rasporedu se, međutim, vidi druga slika.
+
+Deo ljudi zove samo da proveri najnižu cenu. Deo traži uslugu koju radnja ne radi. Deo je predaleko, pa termin nije realan. Deo želi danas u špicu sezone, ali nema slobodnih slotova. Zbog toga kampanja treba da prati kapacitet, lokaciju i vrednost termina, ne samo cenu po pozivu.
+
+## Kako podeliti kampanje za vulkanizerske usluge
+
+Za većinu vulkanizera ima smisla odvojiti bar četiri grupe potražnje. Prva je sezonska zamena guma: letnje na zimske i zimske na letnje. Druga su hitne usluge: probušena guma, brza popravka, ventil, balansiranje posle problema. Treća je prodaja novih guma ili felni, ako radnja to aktivno želi da gura. Četvrta su dodatne usluge sa većom vrednošću, kao što su optika trapa, čuvanje guma ili B2B održavanje vozila.
+
+Ova podela čuva budžet jer svaka grupa ima drugačiji sledeći korak. Sezonska zamena traži brz termin. Prodaja guma traži dimenziju, brend, vozilo i lager. Flota traži razgovor, ugovor i kapacitet. Ako se sve meri kroz istu formu, teško je znati gde je stvarno profit.
+
+## Koje informacije treba uzeti pre termina
+
+Dobra landing strana ili forma ne mora da bude komplikovana. Za vulkanizera su najvažniji grad ili opština, tip usluge, dimenzija guma ako je poznata, da li korisnik već ima gume, željeni termin, hitnost, tip vozila i kontakt kanal. Ako se prodaju gume, korisno je pitati da li kupac želi ekonomsku, srednju ili premium opciju. Ako se radi flota, treba pitati broj vozila i okvirnu učestalost usluge.
+
+Ovo se direktno nadovezuje na [kvalifikaciju kontakt forme](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026). Cilj nije da se kupac zamori pitanjima, nego da se razgovor skrati. Kada radnja već zna uslugu, lokaciju i termin, može brže potvrditi da li ima slobodan slot i koliko okvirno košta posao.
+
+## Sezonski budžet mora pratiti raspored, ne paniku
+
+Kod vulkanizera je sezona opasna zato što potražnja stiže u talasima. Ako se budžet uključi tek kada svi već zovu, oglasi ulaze u skuplji period, prodaja se javlja pod pritiskom, a termini se pune haotično. Bolji pristup je da se kampanja pripremi pre špica: landing strana, liste negativnih reči, pozivi, WhatsApp, kalendar, radno vreme i poruke za zauzete termine.
+
+[Sezonski marketing budžet](/blog/sezonski-marketing-budzet-lead-generation-srbija-2026) za ovu nišu ne treba trošiti ravnomerno. Pre sezone se testiraju poruke i cene termina. U špicu se budžet podiže samo do granice koju raspored može da izdrži. Posle špica se može gurati optika trapa, čuvanje guma, prodaja novih setova ili flote, umesto da kampanja nestane do sledeće promene sezone.
+
+## Negativne ključne reči koje čuvaju termine
+
+Negativne ključne reči su posebno važne kada je potražnja velika. Treba isključiti posao, oglase za posao, kurs, mašine za vulkanizere, opremu, sam svoj majstor, kako zakrpiti gumu, pritisak u gumama, tabele dimenzija, polovne gume ako ih radnja ne prodaje, felne ako nisu u ponudi i gradove ili naselja koja radnja ne pokriva.
+
+Takođe treba paziti na pretrage koje zvuče komercijalno, ali ne vode dobrom terminu. Ako neko traži samo najjeftiniju zamenu guma, možda je i dalje dobar kupac, ali samo ako radnja ima kapacitet i maržu za takve termine. Ako ne, budžet treba usmeriti ka uslugama koje donose bolji promet po satu rada.
+
+## Landing strana mora jasno reći sledeći korak
+
+Za vulkanizera landing strana ne treba da zvuči kao opšti auto portal. Treba odmah da kaže koje usluge se rade, koje lokacije su realne, kako se zakazuje, da li postoji čekanje u sezoni i šta korisnik treba da pošalje pre potvrde termina. Ako postoji okvir cene, još bolje: cena zamene, balansiranja, čuvanja guma ili dijagnostike treba biti objašnjena dovoljno jasno da prodaja ne ponavlja isti razgovor ceo dan.
+
+Kada se već plaća [cena digitalnog marketinga](/cene-digitalnog-marketinga), deo budžeta mora otići na stranu koja skraćuje put do termina. Dugme za poziv je korisno, ali nije dovoljno. Dobar CTA može biti pozovite za najbliži slobodan termin, pošaljite dimenziju guma preko forme ili rezervišite termin uz potvrdu radnje. Time se smanjuju prazni pozivi i povećava šansa da lead postane urađen posao.
+
+## Kako meriti da li se Google Ads isplati
+
+Kod vulkanizera nije dovoljno znati koliko košta poziv. Treba pratiti koliko je poziva odgovoreno, koliko je termina zakazano, koliko ljudi je došlo, koja usluga je urađena, da li je kupljen dodatni set guma, koliko je trajao posao i koji izvor je doneo termin. Tek tada se vidi [cena kvalifikovanog leada](/blog/cena-kvalifikovanog-leada-marketing-budzet-srbija-2026), a ne samo cena zvona telefona.
+
+Propušteni pozivi su poseban problem u sezoni. Ako telefon zvoni dok majstor radi, plaćeni klik može otići konkurentu za dva minuta. Zato kampanja mora biti usklađena sa radnim vremenom, osobom koja se javlja, WhatsApp porukom ili formom za povratni poziv. Bez toga [propušteni pozivi iz kampanja](/blog/propusteni-pozivi-iz-kampanja-leadovi-prodaja-srbija-2026) mogu izgledati kao loš Google Ads, iako je potražnja bila stvarna.
+
+## Kako Platinum Zenith postavlja kampanju za vulkanizere
+
+Kod lokalnih kampanja za vulkanizere ne krećemo od pitanja kako dobiti što više klikova. Krećemo od pitanja koje usluge imaju najbolju vrednost, koje termine radnja može da primi, koje zone stvarno pokriva i šta se meri kao uspeh: zakazan termin, urađena usluga, prodat set guma, flota ili ponovni kupac. Zatim se kampanje, negativne ključne reči, landing strana i praćenje podešavaju oko tih ishoda.
+
+Ako imate vulkanizersku radnju ili auto-uslužni biznis i niste sigurni da li Google Ads dovodi isplative termine, pošaljite nam trenutne kampanje, lokacije, usluge i tipične pozive kroz [kontakt formu](/kontakt). Pogledaćemo gde budžet curi, koje pretrage treba odvojiti i kako da sezona donese popunjen raspored, ne samo više neodgovorenih poziva.
+`,
+  },
+  {
     slug: 'cena-kvalifikovanog-leada-marketing-budzet-srbija-2026',
     title: 'Cena kvalifikovanog leada u Srbiji 2026: zašto CPL nije dovoljno merilo',
     excerpt: 'CPL može izgledati odlično dok kvalifikovani leadovi ostaju preskupi. Evo kako računati cenu pravih prilika, ne samo cenu svake forme.',
