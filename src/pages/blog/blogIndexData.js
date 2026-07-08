@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "prodajni-brief-pre-ponude-leadovi-srbija-2026",
+    "title": "Prodajni brief pre ponude u Srbiji 2026: zašto lead ne dobije tačnu cenu",
+    "excerpt": "Ako lead traži ponudu bez konteksta, prodaja šalje generičnu cenu ili kasni. Evo kako prodajni brief čuva budžet, maržu i sledeći korak.",
+    "date": "2026-07-08",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-vulkanizere-cena-termina-srbija-2026",
     "title": "Google Ads za vulkanizere u Srbiji 2026: cena termina i sezonski budžet",
     "excerpt": "Vulkanizeri ne treba da mere samo pozive. Evo kako Google Ads budžet vezati za zakazane termine, sezonu zamene guma, zone i isplative usluge.",

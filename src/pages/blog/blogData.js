@@ -1,5 +1,92 @@
 const rawBlogPosts = [
   {
+    slug: 'prodajni-brief-pre-ponude-leadovi-srbija-2026',
+    title: 'Prodajni brief pre ponude u Srbiji 2026: zašto lead ne dobije tačnu cenu',
+    excerpt: 'Ako lead traži ponudu bez konteksta, prodaja šalje generičnu cenu ili kasni. Evo kako prodajni brief čuva budžet, maržu i sledeći korak.',
+    date: '2026-07-08',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Lead Generation', 'Prodaja', 'Prodajni brief', 'Kvalitet leadova', 'Ponude'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Zašto prodajni brief rešava rupu između upita i ponude
+
+Mnoge kampanje ne gube prodaju zato što su dovele potpuno pogrešne ljude. Gube je u trenutku kada lead pita za ponudu, a firma još ne zna dovoljno da pošalje pametan odgovor. U izveštaju postoji konverzija, u inboxu postoji poruka, ali prodaja nema kontekst: šta tačno treba rešiti, koliki je obim posla, ko odlučuje, koji je rok i šta bi za kupca značilo da projekat uspe.
+
+Tada se često šalje generična cena, PDF koji liči na sve druge ponude ili poruka tipa javite nam više detalja. Lead se ohladi, konkurencija odgovori konkretnije, a kampanja deluje kao da dovodi slabe upite. U stvarnosti problem može biti u praznini između forme, prvog odgovora i ponude.
+
+Prodajni brief je kratak skup informacija koji prodaji daje dovoljno konteksta da pošalje relevantnu ponudu ili zakaže smislen razgovor. Ne mora biti komplikovan dokument. Dovoljno je da poveže potrebu, budžet, rok, vrednost posla, donosioce odluke i sledeći korak. Za [Google Ads budžet](/google-reklame-cena) i lead generation, to je razlika između plaćenog kontakta i stvarne prodajne prilike.
+
+## Česta greška: ponuda se šalje pre nego što postoji kontekst
+
+Česta greška je da prodaja požuri da pošalje cenu čim neko pita koliko košta. To deluje brzo i profesionalno, ali često napravi suprotan efekat. Ako firma pošalje okvirnu cenu bez razumevanja situacije, kupac je poredi sa najjeftinijim odgovorom na tržištu. Ako pošalje preširok raspon, kupac nema osećaj da ga neko razume. Ako traži još deset informacija bez objašnjenja, kupac nestaje.
+
+Problem nije u tome što lead traži cenu. Problem je što prodaja nema strukturisan način da izvuče podatke koji menjaju cenu, prioritet i sledeći korak. Zato se isti razgovori ponavljaju: pošaljite detalje, koji je rok, koliko je veliko, da li imate budžet, ko odlučuje. Bez briefa, svaka osoba u timu vodi razgovor drugačije.
+
+Ovo se nadovezuje na temu [ponude posle upita](/blog/ponuda-posle-upita-leadovi-prodaja-srbija-2026). Ponuda ne treba da bude samo cenovnik. Treba da pokaže da je firma razumela problem, rizik, obim i razlog zbog kojeg kupac uopšte traži rešenje.
+
+## Šta prodajni brief treba da uhvati
+
+Dobar brief hvata samo informacije koje menjaju odluku. Za lokalne usluge to mogu biti lokacija, tip posla, okvirne mere, hitnost, fotografije i očekivani termin. Za B2B usluge to mogu biti cilj projekta, trenutni problem, budžetski okvir, uloga osobe koja se javlja, rok za odluku, postojeće rešenje i kriterijumi po kojima će birati dobavljača.
+
+Za marketing i izradu sajta brief često treba da sadrži: šta se prodaje, kome se prodaje, koja ponuda trenutno nosi najveću maržu, šta je do sada rađeno, koji kanali postoje, kako se meri uspeh, ko obrađuje leadove i šta se dešava posle prvog upita. Bez toga [cena digitalnog marketinga](/cene-digitalnog-marketinga) lako postane rasprava o satnici ili paketu, umesto razgovora o profitu, kapacitetu i prodajnom procesu.
+
+Brief ne treba da postane ispitivanje. Ako pitanje ne menja ponudu, rok, prioritet ili kvalifikaciju, verovatno ne mora biti u prvom koraku. Cilj je da prodaja dobije dovoljno konteksta da sledeća poruka bude konkretna.
+
+## Razlika između forme, prvog odgovora i briefa
+
+Kontakt forma prikuplja osnovni signal. Prvi odgovor potvrđuje da je upit viđen i usmerava razgovor. Prodajni brief popunjava praznine pre nego što se ozbiljna ponuda pošalje. Kada se ova tri koraka pomešaju, funnel postaje trapav.
+
+Ako forma pita previše, ljudi odustaju. Ako forma pita premalo, prodaja nema kontekst. Ako prvi odgovor samo kaže hvala na interesovanju, lead ne zna šta dalje. Ako brief dođe tek posle tri dana, kupac je već razgovarao sa konkurencijom. Zato je najzdraviji tok: kratka forma, brz prvi odgovor, zatim jasan brief ili kvalifikacioni razgovor za ozbiljnije upite.
+
+Ovo je blisko temi [kvalifikacije kontakt forme](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026), ali nije ista stvar. Forma filtrira ulaz. Brief priprema ponudu. Jedno bez drugog često napravi puno kontakata i malo kvalitetnih prodajnih razgovora.
+
+## Kako brief skraćuje vreme do dobre ponude
+
+Bez briefa, prodaja često šalje dva ili tri dodatna pitanja, čeka odgovor, vraća se na početak i tek onda kreće da piše ponudu. Za to vreme lead gubi momentum. Sa briefom, tim već zna koje informacije fale i kojim redom ih treba uzeti.
+
+Primer: firma koja radi skuplje usluge dobije upit preko kampanje. Umesto da odmah pošalje cenovnik, prvi odgovor potvrdi temu i kaže: da bismo poslali tačan predlog, treba nam pet stvari: cilj, okvir budžeta, rok, ko učestvuje u odluci i šta bi bio uspešan ishod. Ako kupac ne zna sve odgovore, to je u redu. Ali prodaja sada vodi razgovor, umesto da nagađa.
+
+Takav pristup podržava [prvi odgovor na lead](/blog/prvi-odgovor-na-lead-prodajna-skripta-srbija-2026). Brzina je važna, ali brzina bez strukture samo brže šalje generičnu poruku. Brief daje strukturu.
+
+## Kako brief povezati sa CRM-om i marketingom
+
+Prodajni brief ne treba da ostane u glavi prodavca ili u rasutoj WhatsApp prepisci. Najkorisnije je da završi u CRM-u uz status lead-a: nov, čeka informacije, kvalifikovan, zakazan razgovor, poslata ponuda, izgubljen, dobijen posao. Tada marketing vidi koje kampanje donose upite sa dobrim kontekstom, a koje donose radoznale kontakte koji nikada ne stignu do ponude.
+
+Ako se brief redovno beleži, posle nekoliko nedelja postaje jasno koja pitanja predviđaju kvalitet. Možda najbolji leadovi uvek imaju jasan rok. Možda loši leadovi izbegavaju budžetski okvir. Možda upiti sa određenog oglasa stalno traže uslugu koju firma ne želi da radi. To je povratna informacija za kampanje, landing stranu i ponudu.
+
+Zato [CRM evidencija za leadove](/blog/crm-za-leadove-evidencija-prodaja-srbija-2026) nije administracija radi administracije. Ona čuva signal koji pokazuje da li kampanja dovodi ljude spremne za sledeći korak ili samo puni inbox.
+
+## Kada brief ne sme da bude prepreka
+
+Brief može pomoći prodaji, ali može i ubiti konverziju ako se koristi pogrešno. Ako se svaki mali upit tera kroz dugačak upitnik, firma izgleda teško za saradnju. Ako se pitanja šalju bez objašnjenja, kupac misli da prodaja prebacuje posao na njega. Ako se brief koristi kao zamena za razgovor, najvredniji leadovi mogu otići tamo gde je proces topliji.
+
+Pravilo je jednostavno: što je veća vrednost posla, duži prodajni ciklus i više nepoznatih, brief može biti detaljniji. Što je usluga jednostavnija i hitnija, brief mora biti kraći. Za hitan lokalni servis možda su dovoljni lokacija, problem, slika i telefon. Za veći B2B projekat ima smisla uzeti cilj, budžet, rok, tim i kriterijume odluke.
+
+Brief treba da smanji trenje, ne da pokaže koliko firma ima procesa. Kupac treba da oseti: ova pitanja postoje da bih dobio tačniji odgovor, ne da bih radio nečiji posao.
+
+## Šta meriti posle uvođenja briefa
+
+Uvođenje briefa nema smisla ako se meri samo broj popunjenih upitnika. Treba pratiti koliko leadova prođe brief, koliko njih postane kvalifikovano, koliko ponuda se pošalje, koliko ponuda se zatvori, koliko vremena prođe od upita do ponude i koji razlozi gubitka se ponavljaju.
+
+Ako broj sirovih upita padne, ali raste broj kvalifikovanih razgovora i poslatih dobrih ponuda, funnel je verovatno zdraviji. To se uklapa sa temom [cene kvalifikovanog leada](/blog/cena-kvalifikovanog-leada-marketing-budzet-srbija-2026). Nije cilj da svaki klik postane forma. Cilj je da što veći deo pravih upita dobije konkretan sledeći korak.
+
+Posebno treba gledati vreme. Ako brief skrati put od upita do ponude sa tri dana na jedan dan, kampanja može prodavati bolje bez povećanja budžeta. Nekada najveći rast ne dolazi iz više klikova, nego iz manje izgubljenog vremena između interesa i ponude.
+
+## Kako Platinum Zenith postavlja brief u lead generation sistemu
+
+Kada analiziramo zašto kampanja ili sajt ne prodaje, ne gledamo samo oglase. Gledamo šta se dešava posle klika: forma, prvi odgovor, brief, CRM status, ponuda i follow-up. Ako se brief ne vidi, prodaja često radi iz osećaja, a marketing nema podatke da popravi kampanje.
+
+Zato za klijente prvo definišemo koje informacije zaista menjaju prodajnu odluku. Zatim ih rasporedimo kroz landing stranu, formu, prvi odgovor i CRM, tako da kupac ne dobije zid pitanja, ali prodaja ipak dobije kontekst za tačnu ponudu. Tek tada ima smisla povećavati budžet, menjati kampanje ili suditi o kvalitetu leadova.
+
+Ako imate kampanje koje donose upite, ali ponude kasne, zvuče generički ili se ne zatvaraju, pošaljite nam trenutni tok od oglasa do ponude kroz [kontakt formu](/kontakt). Pogledaćemo gde brief nedostaje, koja pitanja treba pomeriti ranije i kako da lead dobije jasniji put do odluke.
+`,
+  },
+  {
     slug: 'google-ads-za-vulkanizere-cena-termina-srbija-2026',
     title: 'Google Ads za vulkanizere u Srbiji 2026: cena termina i sezonski budžet',
     excerpt: 'Vulkanizeri ne treba da mere samo pozive. Evo kako Google Ads budžet vezati za zakazane termine, sezonu zamene guma, zone i isplative usluge.',
