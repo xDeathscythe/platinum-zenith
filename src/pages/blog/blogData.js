@@ -1,5 +1,92 @@
 const rawBlogPosts = [
   {
+    slug: 'obrtni-kapital-marketing-budzet-lead-generation-srbija-2026',
+    title: 'Obrtni kapital i marketing budžet u Srbiji 2026: kada rast pojede gotovinu',
+    excerpt: 'Kampanja može donositi dobre leadove, ali rast i dalje guši firmu ako novac ostaje u zalihama, avansima i isporuci. Evo kako čuvati obrtni kapital.',
+    date: '2026-07-09',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Marketing budžet', 'Obrtni kapital', 'Lead Generation', 'ROI', 'Novčani tok'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Zašto obrtni kapital menja odluku o marketing budžetu
+
+Mnoge firme gledaju marketing budžet kroz jednostavno pitanje: koliko uložimo, koliko leadova dobijemo i koliko prodaja zatvorimo. To je dobar početak, ali nije cela slika. Kampanja može donositi dobre upite, prodaja može slati ponude, a firma i dalje može osećati pritisak u gotovini zato što novac ostaje zarobljen u zalihama, materijalu, avansima dobavljačima, rokovima naplate i isporuci.
+
+Obrtni kapital je novac koji drži posao živim dok se prodaja ne pretvori u naplaćenu gotovinu. Kada ga nema dovoljno, čak i profitabilan rast deluje kao problem. Više leadova traži više ponuda, više robe, više sati tima, više logistike i više praćenja. Ako se [Google Ads budžet](/google-reklame-cena) poveća bez plana za obrtni kapital, kampanja može ubrzati pritisak umesto profita.
+
+Ovo nije razlog da se marketing stopira. Razlog je da se rast planira po novcu koji firma stvarno može da iznese, ne samo po prosečnom CPL-u u izveštaju.
+
+## Česta greška: računa se profit, ali ne i novac koji stoji u procesu
+
+Česta greška je da firma vidi dobru maržu na papiru i zaključi da može agresivno da poveća kampanje. Na primer: usluga se prodaje za 1.000 evra, direktni trošak je 500 evra, deluje da ima 500 evra prostora za marketing, prodaju i profit. Ali u praksi treba platiti materijal unapred, rezervisati termin tima, čekati dobavljača, finansirati izlazak na teren i naplatiti ostatak tek posle završetka.
+
+Ako novac uđe tek za 30 ili 60 dana, a oglašavanje se plaća odmah, rast ima cenu koju standardni ROI izveštaj ne prikazuje. Zato se tema [avansa i roka naplate](/blog/avans-rok-naplate-marketing-budzet-lead-generation-srbija-2026) direktno dodiruje sa obrtnim kapitalom. Nije isto ako kupac plati 70% unapred ili ako firma prvo finansira ceo posao.
+
+Problem nije u tome što leadovi nisu vredni. Problem je što firma mora da preživi period između plaćenog klika i naplaćenog posla.
+
+## Kako lead generation troši obrtni kapital pre nego što donese profit
+
+Lead generation često izgleda lagano dok se meri samo kroz forme i pozive. Ali svaki ozbiljan lead povlači rad. Neko mora da odgovori, kvalifikuje, pripremi ponudu, zakaže razgovor, napravi procenu, isprati odluku i uvede posao u isporuku. Ako se posao dobije, tek tada kreću dodatni troškovi: ljudi, materijal, softver, logistika, rokovi, podrška i vreme menadžmenta.
+
+Kod usluga sa visokom vrednošću, jedan dobar klijent može biti odličan za profit, ali težak za gotovinu ako traži mnogo pripreme pre prve veće naplate. Kod trgovine, e-commerce-a ili lokalnih firmi sa materijalom, kampanje mogu brzo izvući novac u zalihe. Kod B2B usluga, najveći pritisak često nije roba, nego sati senior ljudi koji rade pre nego što klijent plati pun iznos.
+
+Zato [cena digitalnog marketinga](/cene-digitalnog-marketinga) nije izolovan trošak. Ona mora da se uklopi sa prodajnim ciklusom, načinom naplate, kapacitetom isporuke i minimalnim iznosom gotovine koji firma mora držati pri ruci.
+
+## Jednostavan okvir: koliko novca je zarobljeno po novom poslu
+
+Pre povećanja budžeta, korisno je izračunati koliko novca firma mora da veže za svaki novi posao pre nego što dobije profit nazad. Ne treba komplikovan finansijski model. Dovoljna su četiri pitanja.
+
+Prvo: koliko se prosečno plaća za lead, kvalifikovan razgovor i zatvoren posao? Drugo: koliko firma mora da plati unapred za materijal, ljude, alate ili podizvođače? Treće: kada stiže avans, a kada ostatak naplate? Četvrto: koliko poslova istovremeno firma može da finansira bez gušenja ostalih obaveza?
+
+Ako svaki novi posao traži 400 evra gotovine pre naplate, a kampanja želi da donese deset dodatnih poslova mesečno, to nije samo pitanje budžeta za klikove. To je pitanje da li firma ima dodatnih 4.000 evra obrtnog prostora za isporuku. Ako nema, sigurniji plan je sporiji rast, veći avans, drugačiji paket ili selektivniji fokus na ponude koje se brže naplaćuju.
+
+## Kada veći budžet pravi lažan osećaj rasta
+
+Veći budžet može izgledati kao uspeh ako rastu klikovi, leadovi i poslati predlozi. Ali ako se istovremeno produžava vreme isporuke, kasne odgovori, gomilaju se otvorene ponude i raste iznos nenaplaćenog rada, firma zapravo kupuje napetost. U takvoj situaciji marketing tim može slaviti metrike, dok vlasnik gleda račun i pita se zašto nema više gotovine.
+
+Ovo se često dešava kada se [budžetski horizont](/blog/budzetski-horizont-lead-generation-roi-srbija-2026) posmatra prekratko. Kampanja možda treba 60 ili 90 dana da pokaže pravu sliku, ali obaveze dolaze svake nedelje. Ako firma nema obrtni prostor za taj period, agresivan test može se prekinuti baš pre nego što bi pokazao rezultat.
+
+Zato odluka o povećanju budžeta treba da ima dve granice: marketinšku granicu i finansijsku granicu. Marketinška granica kaže da li leadovi imaju kvalitet. Finansijska granica kaže koliko takvih leadova firma može da pretvori u posao bez lomljenja gotovine.
+
+## Kako prilagoditi kampanje kada je obrtni kapital ograničen
+
+Ako je obrtni kapital tanak, rešenje nije nužno da se ugase kampanje. Bolje je da se kampanje zaoštre. Umesto da se kupuje što više leadova, budžet treba usmeriti ka ponudama koje imaju bržu naplatu, veći avans, kraći rok isporuke ili manji početni trošak. To može značiti manje upita, ali više kontrole nad gotovinom.
+
+Landing strana tada mora jasno filtrirati pogrešan fit. Ako firma ne želi male poslove koji zauzimaju tim, to treba suptilno reći kroz minimalni obim, tip klijenta, proces saradnje ili okvir budžeta. Ako su najbolji poslovi oni sa avansom, CTA treba voditi ka razgovoru u kojem se odmah objašnjava proces, rokovi i sledeći korak. Ako su zalihe problem, kampanja ne treba gurati proizvode koje firma ne može brzo isporučiti.
+
+Ovo se nadovezuje na [minimalnu vrednost posla](/blog/minimalna-vrednost-posla-marketing-budzet-srbija-2026). Nije svaki lead dobar ako pojede operativni prostor. Nekad je pametnije platiti skuplji lead za posao koji brzo ulazi u naplatu nego jeftin lead koji veže tim i materijal tri nedelje.
+
+## Šta pratiti pored CPL-a i ROI-a
+
+Za kampanje koje utiču na obrtni kapital, treba pratiti više od CPL-a. Korisno je imati statuse: novi lead, kvalifikovan, poslata ponuda, prihvaćeno, avans plaćen, u isporuci, završeno, naplaćeno. Tek tada se vidi koliko vremena i novca stoji između prvog kontakta i gotovine.
+
+Treba pratiti i prosečan avans po tipu ponude, prosečan rok naplate, broj otvorenih poslova u isporuci, vrednost nenaplaćenih ponuda, procenat poslova koji zahtevaju dodatni materijal i broj dana od lead-a do prve uplate. Kada se ovi podaci spoje sa kampanjama, [trošak isporuke](/blog/trosak-isporuke-marketing-budzet-lead-generation-srbija-2026) prestaje da bude magla i postaje deo odluke o budžetu.
+
+Ako jedna kampanja donosi više leadova, ali ti leadovi češće traže sporiju isporuku i kasniju naplatu, možda nije najbolja kampanja za trenutnu fazu firme. Ako druga kampanja donosi manje leadova, ali oni plaćaju avans i brzo ulaze u realizaciju, ona može biti zdravija za obrtni kapital.
+
+## Kako povezati obrtni kapital sa planom budžeta
+
+Praktičan plan kreće od realnog mesečnog prostora. Koliko novca firma može da uloži u klikove, prodaju i isporuku pre nego što naplata stigne? Zatim se taj prostor podeli na test, optimizaciju i sigurnosnu rezervu. Nema smisla potrošiti ceo iznos na medijski budžet ako posle nema novca za landing stranu, praćenje, CRM, materijal ili tim.
+
+Ako se koristi [ROI kalkulator](/alati/roi-kalkulator), u njega treba uneti konzervativnije pretpostavke za close rate, kvalifikaciju i vreme naplate, ne samo najlepši scenario. Tako se vidi koliko rast zaista traži gotovine. Plan može biti jednostavan: prvo stabilizovati jednu ponudu, zatim povećati budžet za 20-30%, pa meriti ne samo leadove, već i avanse, rokove i opterećenje isporuke.
+
+Dobar marketing plan ne pita samo koliko možemo potrošiti. Pita koliko rasta možemo finansirati dok novac ne dođe nazad.
+
+## Kako Platinum Zenith gleda budžet kada gotovina nije beskonačna
+
+Kada radimo lead generation, ne gledamo kampanju kao odvojenu tabelu klikova. Gledamo gde novac izlazi, gde ulazi, koliko traje put od lead-a do naplate i koje ponude firma može da isporuči bez gušenja. Tek onda ima smisla govoriti o povećanju budžeta, novim kampanjama ili agresivnijem skaliranju.
+
+Za neke firme najbolji potez nije više leadova, nego bolja selekcija, veći avans, jasniji proces, kraći put do ponude ili preusmeravanje budžeta ka uslugama koje brže vraćaju gotovinu. Za druge je problem suprotan: imaju obrtni prostor, ali premalo kvalifikovanih upita. U oba slučaja budžet mora da prati realnu ekonomiku posla.
+
+Ako kampanje donose interesovanje, ali rast stalno pritiska gotovinu, pošaljite nam trenutne brojke, ponude, rokove naplate i prodajni proces kroz [kontakt formu](/kontakt). Pogledaćemo gde marketing budžet ubrzava profit, a gde samo zarobljava obrtni kapital u procesu.
+`,
+  },
+  {
     slug: 'prodajni-brief-pre-ponude-leadovi-srbija-2026',
     title: 'Prodajni brief pre ponude u Srbiji 2026: zašto lead ne dobije tačnu cenu',
     excerpt: 'Ako lead traži ponudu bez konteksta, prodaja šalje generičnu cenu ili kasni. Evo kako prodajni brief čuva budžet, maržu i sledeći korak.',

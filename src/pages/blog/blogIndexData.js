@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "obrtni-kapital-marketing-budzet-lead-generation-srbija-2026",
+    "title": "Obrtni kapital i marketing budžet u Srbiji 2026: kada rast pojede gotovinu",
+    "excerpt": "Kampanja može donositi dobre leadove, ali rast i dalje guši firmu ako novac ostaje u zalihama, avansima i isporuci. Evo kako čuvati obrtni kapital.",
+    "date": "2026-07-09",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "prodajni-brief-pre-ponude-leadovi-srbija-2026",
     "title": "Prodajni brief pre ponude u Srbiji 2026: zašto lead ne dobije tačnu cenu",
     "excerpt": "Ako lead traži ponudu bez konteksta, prodaja šalje generičnu cenu ili kasni. Evo kako prodajni brief čuva budžet, maržu i sledeći korak.",
