@@ -1,5 +1,82 @@
 const rawBlogPosts = [
   {
+    slug: 'povratna-informacija-prodaje-marketing-kampanje-leadovi-srbija-2026',
+    title: 'Povratna informacija prodaje u marketingu 2026: zašto kampanja ponavlja loše leadove',
+    excerpt: 'Ako prodaja ne vraća razloge zašto lead nije prošao, kampanja uči iz praznih signala. Evo kako feedback čuva budžet, ponudu i kvalitet upita.',
+    date: '2026-07-09',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Lead Generation', 'Prodaja', 'CRM', 'Google Ads', 'Kvalitet leadova'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Zašto kampanja ponavlja iste greške kada prodaja ćuti
+
+Mnoge firme gledaju marketing kao mašinu koja treba da isporuči lead, a prodaju kao tim koji posle toga radi svoj posao. Na papiru to izgleda uredno. U praksi se često desi da kampanja šalje upite, prodaja razgovara sa ljudima, ali se nazad u marketing vraća samo jedna rečenica: leadovi nisu dobri.
+
+To nije dovoljno da se bilo šta popravi. Ako se ne zna da li lead nema budžet, nije donosilac odluke, traži pogrešnu uslugu, zove iz pogrešnog grada, ne razume cenu ili samo skuplja ponude, kampanja nastavlja da kupuje isti tip potražnje. Onda [Google Ads budžet](/google-reklame-cena) izgleda kao problem, iako je pravi problem u praznom feedback loop-u između prodaje i marketinga.
+
+Povratna informacija prodaje nije birokratija. To je gorivo za bolju poruku, bolju landing stranu, pametnije negativne ključne reči, precizniju kvalifikaciju i realniju odluku o budžetu.
+
+## Česta greška: prodaja kaže da je lead loš, ali ne kaže zašto
+
+U mnogim firmama prodajni tim ima stvarnu sliku tržišta. Oni čuju prigovore, vide ko poredi cene, znaju ko ima ozbiljan projekat i prepoznaju kada je razgovor samo radoznalost. Ali ta znanja često ostanu u telefonu, WhatsApp-u ili usputnom komentaru.
+
+Marketing tada vidi samo broj forme, cenu po leadu i možda trajanje poziva. Ako je forma poslata i poziv zabeležen, sistem misli da je cilj postignut. Ako prodaja posle toga nema jasnu evidenciju razloga odbijanja, algoritam i dalje uči iz površnog signala. To je isti problem koji se javlja kod [kvalifikovanih konverzija](/blog/kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026): nije svaka konverzija jednako vredna.
+
+Primer: kampanja dovodi mnogo upita za uslugu od 300 evra, a firma želi poslove od 3.000 evra. Prodaja zna da ti ljudi nisu fit, ali ako to ne upiše kao razlog, marketing će možda samo povećati budžet jer je CPL nizak.
+
+## Šta prodaja treba da vraća marketingu
+
+Ne treba praviti roman posle svakog razgovora. Dovoljno je nekoliko polja koja menjaju odluku o kampanji. Prvo je status: nije kontaktiran, kontaktiran, kvalifikovan, zakazan razgovor, poslata ponuda, izgubljen, dobijen. Drugo je razlog: nema budžet, pogrešna usluga, pogrešna lokacija, nije donosilac odluke, rok je nerealan, traži najnižu cenu, nije odgovorio, konkurencija je već izabrana.
+
+Treće polje je vrednost prilike. Nije isto kada lead traži mali jednokratni posao i kada traži dugoročnu saradnju. Četvrto je izvor i kampanja, da se zna da li problem dolazi iz oglasa, landing strane, forme ili prodajnog procesa. Ovo se direktno naslanja na [CRM evidenciju za leadove](/blog/crm-za-leadove-evidencija-prodaja-srbija-2026), jer bez statusa nema učenja.
+
+Korisno je dodati i jednu kratku napomenu prodaje: šta je lead tačno rekao. Ne zbog kontrole ljudi, nego zato što se iz stvarnih rečenica kupaca često dobija bolji naslov, jasniji prigovor i konkretniji CTA.
+
+## Kako feedback menja oglase, landing stranu i formu
+
+Ako prodaja stalno kaže da leadovi nemaju budžet, landing strana možda mora ranije pokazati cenovni okvir, minimalnu vrednost posla ili kriterijume saradnje. Ako se javljaju ljudi za pogrešnu uslugu, oglas i naslov verovatno obećavaju preširoko. Ako se ponavlja pogrešna lokacija, treba srediti geografsko targetiranje, tekst oglasa i negativne lokacije.
+
+Ako leadovi ne razumeju šta se dešava posle upita, treba objasniti proces saradnje. Ako se često čuje „pošaljite samo cenu“, možda forma ne uzima dovoljno konteksta ili prodajni prvi odgovor ne vodi razgovor. Tu [cena digitalnog marketinga](/cene-digitalnog-marketinga) više nije samo trošak oglasa i rada agencije. Ona uključuje popravljanje celog puta od klika do razgovora.
+
+Najkorisnije korekcije često nisu dramatične. Nekad je dovoljno promeniti tri pitanja u formi, dodati okvir budžeta, razdvojiti kampanju po tipu usluge ili napisati oglas koji ne privlači ljude koji nikada neće kupiti.
+
+## Razlozi gubitka moraju biti konkretni, ne pristojni
+
+Jedan od najgorih statusa u CRM-u je „nije zainteresovan“. To može značiti deset različitih stvari. Možda lead nema novac. Možda ne veruje firmi. Možda nije hitno. Možda je dobio bolju ponudu. Možda prodaja nije objasnila vrednost. Možda je landing strana obećala nešto drugo.
+
+Zato razlog gubitka mora biti dovoljno konkretan da neko može da uradi sledeći korak. „Nema budžet za minimalni paket“ vodi ka jasnijem cenovnom okviru. „Traži uslugu koju ne radimo“ vodi ka negativnim ključnim rečima i jasnijoj ponudi. „Čeka odobrenje direktora“ vodi ka kvalifikaciji donosioca odluke. „Ne javlja se posle ponude“ vodi ka boljem follow-up procesu.
+
+Kada se razlozi vode precizno, [atribucija leadova](/blog/atribucija-leadova-marketing-budzet-roi-srbija-2026) postaje manje lažna. Ne gleda se samo kanal koji je doveo formu, nego kanal koji dovodi razgovore sa realnom šansom za prodaju.
+
+## Sedmični review sprečava da budžet curi mesecima
+
+Povratna informacija ne sme čekati kraj kvartala. Ako kampanja troši svaki dan, prodaja i marketing treba bar jednom nedeljno da pogledaju šta se desilo sa novim leadovima. Ne kao veliki sastanak, nego kao kratka provera: koji leadovi su bili dobri, koji su bili loši, koji razlozi se ponavljaju i šta se menja sledeće nedelje.
+
+Dobar sedmični review ima tri izlaza. Prvi su korekcije u kampanji: termini, publike, negativne ključne reči, budžet, lokacije. Drugi su korekcije na sajtu: naslov, forma, dokazi, prigovori, CTA. Treći su korekcije u prodaji: prvi odgovor, skripta, brzina, sledeći korak i statusi.
+
+Bez tog ritma, firma često nastavi da plaća isti problem. Posle mesec dana zaključi da kanal ne radi, a zapravo nikada nije zatvorila krug učenja.
+
+## Kako povezati prodajni razgovor sa odlukom o budžetu
+
+Nije svaki feedback jednako jak. Jedan loš razgovor nije razlog da se kampanja seče. Ali deset razgovora sa istim prigovorom jeste signal. Zato treba gledati obrazac, ne anegdotu. Ako se u više poziva čuje da je cena iznenađenje, treba rešavati očekivanje pre forme. Ako ozbiljni leadovi pitaju ista tehnička pitanja, landing strana treba da ih pokrije pre razgovora.
+
+Tu pomaže [analiza prodajnih poziva](/blog/analiza-prodajnih-poziva-kampanje-leadovi-srbija-2026). Ne da bi se tražio krivac, nego da se čuje stvarna reč kupca. Iz tih razgovora se često vidi da kampanja ne dovodi pogrešne ljude, nego da sajt i prodaja ne završavaju istu priču koju je oglas započeo.
+
+Tek kada se to poveže, odluka o budžetu ima smisla. Veći budžet treba da ide ka kampanjama koje dovode kvalifikovane razgovore, poslate ponude i dobijene poslove, ne ka kampanjama koje samo proizvode aktivnost.
+
+## Kako Platinum Zenith postavlja feedback loop za lead generation
+
+Kada radimo lead generation, ne gledamo samo cenu klika i broj formi. Gledamo šta se dogodilo posle upita: ko je odgovorio, za koliko vremena, šta je lead tražio, koji je status, koji je razlog gubitka i da li se iz toga može popraviti kampanja. To je razlika između oglašavanja koje stalno kreće od nule i sistema koji svake nedelje postaje pametniji.
+
+Ako već imate kampanje, ali se stalno ponavlja priča da leadovi nisu dobri, pošaljite nam trenutnu ponudu, landing stranu, način evidencije i nekoliko tipičnih razloga zbog kojih prodaja odbija upite kroz [kontakt formu](/kontakt). Pogledaćemo gde se prekida feedback loop i šta treba povezati da budžet kupuje bolje prilike, a ne samo više razgovora.
+`,
+  },
+  {
     slug: 'google-ads-za-salone-za-sisanje-pasa-cena-termina-srbija-2026',
     title: 'Google Ads za salone za šišanje pasa u Srbiji 2026: cena termina i budžet',
     excerpt: 'Saloni za šišanje pasa ne treba da mere samo poruke. Evo kako Google Ads budžet vezati za zakazane termine, rasu, uslugu, lokaciju i ponovne dolaske.',

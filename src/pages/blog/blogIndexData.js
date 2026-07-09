@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "povratna-informacija-prodaje-marketing-kampanje-leadovi-srbija-2026",
+    "title": "Povratna informacija prodaje u marketingu 2026: zašto kampanja ponavlja loše leadove",
+    "excerpt": "Ako prodaja ne vraća razloge zašto lead nije prošao, kampanja uči iz praznih signala. Evo kako feedback čuva budžet, ponudu i kvalitet upita.",
+    "date": "2026-07-09",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-salone-za-sisanje-pasa-cena-termina-srbija-2026",
     "title": "Google Ads za salone za šišanje pasa u Srbiji 2026: cena termina i budžet",
     "excerpt": "Saloni za šišanje pasa ne treba da mere samo poruke. Evo kako Google Ads budžet vezati za zakazane termine, rasu, uslugu, lokaciju i ponovne dolaske.",
