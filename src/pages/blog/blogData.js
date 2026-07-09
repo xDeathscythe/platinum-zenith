@@ -1,5 +1,82 @@
 const rawBlogPosts = [
   {
+    slug: 'varijabilni-troskovi-marketing-budzet-lead-generation-srbija-2026',
+    title: 'Varijabilni troškovi i marketing budžet u Srbiji 2026: kada rast spušta profit',
+    excerpt: 'Ako svaki novi klijent nosi dodatne troškove, veći budžet ne znači automatski veći profit. Evo kako računati CPL kroz varijabilne troškove.',
+    date: '2026-07-10',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Marketing budžet', 'Varijabilni troškovi', 'Lead Generation', 'ROI', 'CPL'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Zašto varijabilni troškovi menjaju odluku o marketing budžetu
+
+Mnoge firme gledaju lead generation kroz jednostavnu tabelu: potrošili smo toliko, dobili toliko leadova, zatvorili toliko poslova. Ako prihod raste, deluje da kampanja radi. Ali rast nije uvek profit. Svaki novi klijent može nositi dodatne troškove koji se ne vide u Google Ads nalogu: materijal, dostava, provizije, popusti, sati tima, podrška, obrada porudžbine, teren, reklamacije ili podizvođači.
+
+Zato [Google Ads budžet](/google-reklame-cena) ne treba planirati samo prema prosečnom CPL-u. Treba ga planirati prema tome koliko novca stvarno ostaje posle varijabilnih troškova za svaki novi posao. Ako dodatni klijent donosi 100.000 dinara prihoda, ali 70.000 dinara ode na direktne troškove i dodatni rad, marketing nema isti prostor kao kada ostaje 70.000 dinara doprinosa.
+
+Česta greška je da firma gleda top-line promet i zaključi da može da poveća kampanju. Posle mesec dana ima više posla, više obaveza i manje mira, ali ne i proporcionalno više profita. Problem nije u tome što lead generation ne radi. Problem je što budžet nije vezan za doprinosnu maržu, nego za prihod.
+
+## Česta greška: računa se prosečna marža, a ne dodatni trošak novog posla
+
+Prosečna marža je korisna za grubu sliku. Ali odluka o povećanju budžeta zavisi od sledećeg novog klijenta, ne od proseka iz prethodnih šest meseci. Ako firma već ima popunjen tim, sledeći klijent može tražiti prekovremeni rad, dodatnog čoveka, skuplju isporuku, bržu nabavku ili nižu cenu da bi se posao zatvorio. Tada marginalni profit nije isti kao prosečni profit.
+
+Na primer, servisna firma može imati dobru maržu kada tehničar već prolazi kroz taj deo grada. Ali ako kampanja dovede posao van zone, isti prihod nosi više goriva, više vremena i manje termina tog dana. E-commerce može imati odličnu bruto maržu na papiru, ali dodatne porudžbine mogu povući skuplju dostavu, pakovanje, povrate i support. Uslužna firma može prodati još jedan paket, ali ga isporučuje senior osoba čiji sat već nedostaje na postojećim projektima.
+
+Zato se tema [bruto marže](/blog/bruto-marza-marketing-budzet-roi-srbija-2026) mora spustiti na operativni nivo. Nije dovoljno znati da posao ima maržu. Treba znati koliko dodatnog troška nastaje baš zbog novog klijenta koji dolazi iz kampanje.
+
+## Jednostavna formula za sigurniji CPL
+
+Za početak ne treba komplikovan finansijski model. Dovoljna je jedna praktična formula: očekivani prihod po klijentu minus varijabilni troškovi minus minimalni željeni profit daje prostor za akviziciju. Iz tog prostora se izvodi koliko firma sme da plati po kupcu, a zatim koliko sme da plati po kvalifikovanom leadu.
+
+Ako prosečan novi posao donosi 120.000 dinara prihoda, a direktni i varijabilni troškovi su 72.000 dinara, ostaje 48.000 dinara doprinosa pre marketinga i opštih troškova. Ako firma želi da zadrži najmanje 25.000 dinara profita po poslu, za akviziciju i prodaju ostaje 23.000 dinara. Ako se zatvara svaki četvrti kvalifikovani lead, siguran CPL nije 23.000 dinara, nego oko 5.750 dinara pre prodajnog vremena i ostalih ograničenja.
+
+Ovo je razlog zašto [cena kvalifikovanog leada](/blog/cena-kvalifikovanog-leada-marketing-budzet-srbija-2026) često kaže više od sirovog CPL-a. Jeftin lead koji traži popust, dodatni rad i nisku vrednost posla može pojesti prostor za profit. Skuplji lead za posao sa boljom doprinosnom maržom može biti sigurniji.
+
+## Koji troškovi se najčešće zaborave
+
+Najčešće se zaborave troškovi koji nisu vidljivi u fakturi za oglase. Kod lokalnih usluga to su izlazak na teren, gorivo, vreme procene, dodatni dolazak, čekanje klijenta i ponovna komunikacija. Kod usluga sa timom to su sati senior ljudi, dorade, account management, alati i podizvođači. Kod proizvoda to su nabavka, pakovanje, dostava, povrati, plaćanja karticom, reklamacije i sezonski popusti.
+
+Neke firme zaborave i prodajni trošak. Ako svaki lead traži tri poziva, jednu detaljnu ponudu i dodatno objašnjenje cene, prodaja nije besplatna. To ne znači da treba odustati od kampanje. Znači da treba razlikovati lead koji brzo ulazi u jasan proces od leadova koji traže mnogo vremena, a imaju malu šansu da kupe.
+
+Ovo se direktno dodiruje sa [troškom isporuke](/blog/trosak-isporuke-marketing-budzet-lead-generation-srbija-2026). Ako isporuka pojede dodatni profit, marketing ne sme da skalira svaki tip potražnje isto. Budžet treba gurati tamo gde novi klijent ostavlja najviše prostora posle stvarnih troškova.
+
+## Kada veći budžet spušta profit iako prihod raste
+
+Veći budžet može povećati prihod, ali smanjiti profit po satu, po timu ili po dinaru rizika. To se često desi kada se kampanja širi na slabije namere, nižu vrednost posla ili kupce koji traže posebne uslove. Izveštaj pokaže više leadova. Prodaja kaže da ima više razgovora. Računovodstvo pokaže da se zarada nije pomerila kako je očekivano.
+
+Problem se obično vidi kroz nekoliko simptoma. Prvi je rast broja malih poslova koji zauzimaju previše tima. Drugi je veći broj popusta jer novi leadovi nisu dovoljno kvalifikovani za punu cenu. Treći je pad kvaliteta isporuke jer operativa radi više, ali ne naplaćuje više. Četvrti je osećaj da firma stalno juri promet, a ne pravi bolji rezultat.
+
+Tu [inkrementalni marketing budžet](/blog/inkrementalni-marketing-budzet-roi-lead-generation-srbija-2026) mora imati svoju tabelu. Dodatnih 20% budžeta ne treba meriti samo po dodatnim leadovima, nego po dodatnom doprinosu posle varijabilnih troškova.
+
+## Kako podeliti kampanje po doprinosnoj marži
+
+Ako firma ima više ponuda, nije pametno da sve dele isti cilj i isti budžet. Ponude sa višom doprinosnom maržom mogu podneti viši CPL i sporiji prodajni ciklus. Ponude sa tankom maržom traže strožu kvalifikaciju, preciznije ključne reči i jasniji cenovni okvir. Ponude koje traže mnogo podrške možda treba koristiti kao ulaz samo ako vode ka većoj vrednosti kasnije.
+
+Praktična podela može biti jednostavna. Prva grupa su ponude koje firma želi da skalira jer ostavljaju najviše doprinosa. Druga grupa su ponude koje su dobre za ulaz, ali moraju imati kontrolisan budžet. Treća grupa su ponude koje se oglašavaju samo sezonski, samo u određenim gradovima ili samo kada postoji kapacitet. Četvrta grupa su ponude koje zvuče popularno, ali ne treba da vode kampanju jer jedu vreme i maržu.
+
+Ovakva podela pomaže i kod [cena digitalnog marketinga](/cene-digitalnog-marketinga). Agencijski rad, tracking, landing strana i optimizacija imaju smisla kada se zna koje ponude stvarno nose rezultat, a koje samo pune izveštaj aktivnošću.
+
+## Šta landing strana treba da filtrira
+
+Landing strana ne treba da privlači svakoga. Ako su varijabilni troškovi osetljivi, stranica mora ranije objasniti okvir ponude, minimalni obim posla, lokacije, rokove, šta utiče na cenu i za koga usluga nije najbolji fit. To ne mora zvučati hladno. Može biti korisno za kupca jer mu štedi vreme i daje realna očekivanja.
+
+Na primer, ako firma najbolje zarađuje na većim paketima, forma ne treba da ohrabruje upite za najmanji mogući posao bez konteksta. Ako je trošak izlaska na teren značajan, forma treba uzeti lokaciju i tip problema. Ako popusti ruše maržu, stranica treba objasniti šta ulazi u cenu i zašto najjeftinija opcija često nije najbezbednija odluka.
+
+Dobar CTA ne kaže samo pošaljite upit. Dobar CTA vodi ka sledećem koraku koji proverava fit: ponuda, obim, rok, lokacija, okvir budžeta i način odlučivanja. Tako [kontakt forma](/kontakt) postaje filter za profitabilan razgovor, ne samo kutija za poruke.
+
+## Kako Platinum Zenith proverava budžet kroz profit, ne samo kroz leadove
+
+Kada analiziramo lead generation, ne stajemo na ceni po leadu. Gledamo šta se desi posle upita: koji tip posla dolazi, koliki je direktan trošak, koliko vremena prodaja troši, koliko traje isporuka, da li se traži popust i koliko profita ostaje po zatvorenom poslu. Tek tada budžet ima realan okvir.
+
+Ako kampanje već donose leadove, ali prihod raste brže od profita, pošaljite nam trenutne ponude, raspon cena, tipične varijabilne troškove i nekoliko primera zatvorenih i izgubljenih poslova kroz [kontakt formu](/kontakt). Pogledaćemo gde budžet kupuje dobar doprinos, gde samo pravi promet i šta treba promeniti da lead generation radi za profit, a ne protiv njega.
+`,
+  },
+  {
     slug: 'povratna-informacija-prodaje-marketing-kampanje-leadovi-srbija-2026',
     title: 'Povratna informacija prodaje u marketingu 2026: zašto kampanja ponavlja loše leadove',
     excerpt: 'Ako prodaja ne vraća razloge zašto lead nije prošao, kampanja uči iz praznih signala. Evo kako feedback čuva budžet, ponudu i kvalitet upita.',

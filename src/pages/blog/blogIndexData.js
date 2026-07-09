@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "varijabilni-troskovi-marketing-budzet-lead-generation-srbija-2026",
+    "title": "Varijabilni troškovi i marketing budžet u Srbiji 2026: kada rast spušta profit",
+    "excerpt": "Ako svaki novi klijent nosi dodatne troškove, veći budžet ne znači automatski veći profit. Evo kako računati CPL kroz varijabilne troškove.",
+    "date": "2026-07-10",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "povratna-informacija-prodaje-marketing-kampanje-leadovi-srbija-2026",
     "title": "Povratna informacija prodaje u marketingu 2026: zašto kampanja ponavlja loše leadove",
     "excerpt": "Ako prodaja ne vraća razloge zašto lead nije prošao, kampanja uči iz praznih signala. Evo kako feedback čuva budžet, ponudu i kvalitet upita.",
