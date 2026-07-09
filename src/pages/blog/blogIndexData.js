@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-salone-za-sisanje-pasa-cena-termina-srbija-2026",
+    "title": "Google Ads za salone za šišanje pasa u Srbiji 2026: cena termina i budžet",
+    "excerpt": "Saloni za šišanje pasa ne treba da mere samo poruke. Evo kako Google Ads budžet vezati za zakazane termine, rasu, uslugu, lokaciju i ponovne dolaske.",
+    "date": "2026-07-09",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "obrtni-kapital-marketing-budzet-lead-generation-srbija-2026",
     "title": "Obrtni kapital i marketing budžet u Srbiji 2026: kada rast pojede gotovinu",
     "excerpt": "Kampanja može donositi dobre leadove, ali rast i dalje guši firmu ako novac ostaje u zalihama, avansima i isporuci. Evo kako čuvati obrtni kapital.",

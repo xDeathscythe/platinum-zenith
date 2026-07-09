@@ -1,5 +1,84 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-salone-za-sisanje-pasa-cena-termina-srbija-2026',
+    title: 'Google Ads za salone za šišanje pasa u Srbiji 2026: cena termina i budžet',
+    excerpt: 'Saloni za šišanje pasa ne treba da mere samo poruke. Evo kako Google Ads budžet vezati za zakazane termine, rasu, uslugu, lokaciju i ponovne dolaske.',
+    date: '2026-07-09',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Šišanje pasa', 'Lokalni marketing', 'Lead Generation', 'Budžet'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Zašto Google Ads za salone za šišanje pasa nije samo kupovina poruka
+
+Saloni za šišanje pasa imaju lokalnu, jasnu i često hitnu potražnju. Vlasnik psa ne traži samo najlepšu sliku frizure. Traži termin, sigurnost da salon zna da radi sa njegovom rasom, okvirnu cenu, lokaciju koja mu odgovara i osećaj da će pas biti dobro tretiran. Zato Google Ads može biti veoma koristan kanal za grooming salone, ali samo ako se ne meri kroz broj poruka bez konteksta.
+
+Česta greška je da se svaki klik, poziv i WhatsApp upit tretiraju kao isti lead. Upit za maltezera koji dolazi na redovno šišanje, pitanje za velikog psa sa zapetljanom dlakom, poziv za kupanje pre izložbe i poruka osobe koja traži kurs šišanja pasa nemaju istu vrednost. Ako se [Google Ads budžet](/google-reklame-cena) optimizuje samo prema najjeftinijoj poruci, salon može puniti inbox, a ne raspored.
+
+Cilj kampanje nije da dobije što više radoznalih pitanja. Cilj je da dovede vlasnike pasa koji mogu da zakažu realan termin, prihvate okvirnu cenu i vrate se ponovo.
+
+## Česta greška: sve usluge, rase i lokacije idu u jednu kampanju
+
+Mnogi mali lokalni biznisi krenu sa jednom kampanjom i nekoliko širokih fraza: šišanje pasa, grooming pasa, kupanje pasa, salon za pse, frizure za pse. Na papiru to deluje dovoljno. U praksi se brzo pomešaju komercijalni termini, edukativne pretrage, pretrage za opremu, upiti van zone i vlasnici koji još ne znaju šta im treba.
+
+Tada izveštaj može izgledati dobro jer ima poziva i poruka, ali raspored ne raste kvalitetno. Tim odgovara na pitanja koja se ponavljaju, termin se zauzima lošim fitom, a ozbiljni vlasnici čekaju odgovor dok neko proverava cenu za uslugu koju salon ne radi. Problem nije u tome što tržište nema potražnju. Problem je što kampanja ne razlikuje vrednost termina.
+
+Za ovu nišu posebno je važno da landing strana i forma ne zvuče kao generičan salon. Vlasnik psa želi da vidi da salon razume rasu, veličinu, stanje dlake, temperament i trajanje tretmana. Bez toga poruka često postane samo pitanje: koliko košta?
+
+## Kako podeliti kampanje za pet grooming salon
+
+Za većinu salona ima smisla odvojiti bar nekoliko grupa potražnje. Prva su redovna šišanja i kompletna nega pasa. Druga su kupanje, feniranje, sređivanje dlake i higijenski tretmani. Treća su specifične rase ili veličine, ako salon ima iskustvo i jasne cene za njih. Četvrta su hitniji ili zahtevniji slučajevi, kao što su zapetljana dlaka, priprema pre putovanja ili prvi termin za psa koji nije navikao na salon.
+
+Ako salon radi i dodatne usluge, kao što su skraćivanje noktiju, čišćenje ušiju, nega šapa ili paketi za redovne klijente, ne mora sve ići u isti oglas. Neke usluge su dobar ulaz za novog klijenta, a neke imaju smisla tek kada se pas već vraća. Tu [cena digitalnog marketinga](/cene-digitalnog-marketinga) treba da se posmatra kroz vrednost ponovnih dolazaka, ne samo kroz prvi termin.
+
+Dobra podela kampanja pomaže i kod rasporeda. Ako salon ima pun vikend, nema smisla gurati oglase koji obećavaju brz termin subotom. Ako su radni dani prazniji, poruka može nuditi lakše zakazivanje tokom prepodneva ili popodneva.
+
+## Koje informacije treba uzeti pre zakazivanja
+
+Forma ne treba da bude duga, ali mora uzeti podatke koji menjaju cenu i trajanje tretmana. Korisno je pitati grad ili opštinu, rasu, veličinu psa, tip usluge, stanje dlake, da li je pas ranije bio u salonu, željeni termin i najbolji kanal za potvrdu. Ako salon ima ograničenja za jako velike pse, agresivne reakcije ili specifične tretmane, to treba komunicirati mirno i unapred.
+
+Ovo nije birokratija. To je način da salon ne obeća termin od sat vremena za posao koji traje tri sata. To se direktno nadovezuje na [kvalifikaciju kontakt forme](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026). Cilj je da vlasnik dobije brži i tačniji odgovor, a ne da prodaja izgubi vreme na dodatna pitanja.
+
+Primer: ako neko pošalje samo poruku koliko je šišanje, salon mora da pogađa rasu, veličinu, stanje dlake i lokaciju. Ako kampanja odmah traži te informacije, prvi odgovor može biti konkretniji: okvirna cena, najbliži slobodan termin, šta je uključeno i koliko tretman traje.
+
+## Cena termina nije isto što i cena poruke
+
+Najjeftinija poruka nije uvek najbolji rezultat. Salon može dobiti mnogo upita od ljudi koji porede najnižu cenu, traže kućnu uslugu koju salon ne nudi ili zovu iz dela grada koji im nije praktičan. S druge strane, skuplji klik može dovesti vlasnika koji zakazuje kompletan tretman, dolazi redovno i preporučuje salon drugim vlasnicima.
+
+Zato treba meriti zakazan termin, održan termin, prosečnu vrednost tretmana, ponovni dolazak i otkazivanja, ne samo broj leadova. Ako se sve vodi kao ista konverzija, kampanja će učiti da kupuje najlakše poruke. Ako se meri kvalitet, budžet može ići ka terminima koji stvarno pune kalendar.
+
+Ovo je posebno važno kada se odlučuje [koliko podataka treba pre promene budžeta](/blog/koliko-podataka-pre-promene-marketing-budzeta-srbija-2026). Jedna nedelja je često premalo da se vidi koji termini se vraćaju, ko otkazuje i koje usluge troše najviše vremena.
+
+## Landing strana treba da smanji nesigurnost pre poruke
+
+Vlasnici pasa često žele sigurnost pre nego što pošalju upit. Landing strana zato treba da pokaže šta salon radi, za koje veličine i rase ima iskustvo, kako izgleda proces prvog dolaska, šta okvirno utiče na cenu i kako se zakazuje termin. Ne mora se objaviti svaka moguća cena, ali okvir po veličini psa ili tipu usluge često smanjuje prazne poruke.
+
+Dobro rade elementi koji grade poverenje: fotografije prostora, primeri pre i posle, jasna adresa, mapa, radno vreme, Google recenzije, kratak opis kako se postupa sa psima koji su nervozni i šta vlasnik treba da pripremi. Ako salon ima ograničen broj termina dnevno, to može biti prednost, jer pokazuje da se ne radi na traci.
+
+Landing strana ne treba da obeća najjeftiniju uslugu u gradu. Treba da objasni zašto je termin vredan: kvalitet nege, sigurnost psa, uredan proces, jasna komunikacija i mogućnost ponovnog zakazivanja.
+
+## Negativne ključne reči koje čuvaju budžet
+
+Kod ove niše negativne ključne reči brzo štede novac. Često treba isključiti pretrage oko poslova, plata, kurseva, škole šišanja pasa, mašinica, opreme, DIY tutorijala, slika frizura bez namere zakazivanja, besplatnih saveta i gradova koje salon ne pokriva. Ako salon ne radi mačke, kućne dolaske ili određene tretmane, i to treba filtrirati.
+
+Nije cilj isključiti svaku širu pretragu. Neke osobe prvo istražuju. Ali budžet za lead generation treba da bude pažljiv kada je kapacitet ograničen. Ako salon ima samo nekoliko slobodnih termina dnevno, bolje je platiti manje, ali ozbiljnije klikove nego puniti kampanju jeftinom radoznalošću.
+
+Sezona takođe menja ponašanje. Pred praznike, putovanja, letnje vrućine i izložbe potražnja može porasti. Tada [sezonski marketing budžet](/blog/sezonski-marketing-budzet-lead-generation-srbija-2026) treba planirati ranije, ne tek kada je raspored već prepun.
+
+## Kako Platinum Zenith planira budžet za lokalne salone
+
+Kada gledamo Google Ads za lokalni salon, ne krećemo od pitanja koliko klikova možemo kupiti. Krećemo od rasporeda, usluga, prosečne vrednosti termina, ponovnih dolazaka, zone koju salon realno pokriva i načina na koji tim potvrđuje upite. Ako prodaja odgovara sporo ili nema jasnu strukturu pitanja, veći budžet samo povećava gužvu u inboxu.
+
+Zdrav sistem povezuje oglas, landing stranu, formu, poziv, WhatsApp, kalendar i evidenciju termina. Tek tada se vidi koja kampanja donosi zakazane i održane termine, a koja samo poruke. Za salone za šišanje pasa to je razlika između marketinga koji pravi promet i marketinga koji samo pravi razgovore.
+
+Ako vodite pet grooming salon i želite više kvalitetnih termina bez haotičnog inboxa, pošaljite nam trenutnu ponudu, lokaciju, kapacitet i tok zakazivanja kroz [kontakt formu](/kontakt). Pogledaćemo gde kampanja treba da filtrira, šta landing strana mora da objasni i kako da budžet prati raspored, a ne samo broj poruka.
+`,
+  },
+  {
     slug: 'obrtni-kapital-marketing-budzet-lead-generation-srbija-2026',
     title: 'Obrtni kapital i marketing budžet u Srbiji 2026: kada rast pojede gotovinu',
     excerpt: 'Kampanja može donositi dobre leadove, ali rast i dalje guši firmu ako novac ostaje u zalihama, avansima i isporuci. Evo kako čuvati obrtni kapital.',
