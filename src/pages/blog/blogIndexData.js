@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "sla-za-leadove-marketing-prodaja-srbija-2026",
+    "title": "SLA za leadove u Srbiji 2026: kako rokovi čuvaju prodaju",
+    "excerpt": "Ako tim ne zna ko preuzima lead, za koliko minuta odgovara i šta se radi kad neko nije dostupan, kampanja gubi dobre upite pre prodaje.",
+    "date": "2026-07-10",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-dezinsekciju-deratizaciju-cena-poziva-srbija-2026",
     "title": "Google Ads za dezinsekciju i deratizaciju u Srbiji 2026: cena poziva i budžet",
     "excerpt": "Za DDD firme nije dovoljan jeftin poziv. Google Ads treba meriti kroz hitnost, lokaciju, tip objekta, dolazak na teren i prihvaćenu uslugu.",

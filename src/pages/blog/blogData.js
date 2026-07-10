@@ -1,5 +1,82 @@
 const rawBlogPosts = [
   {
+    slug: 'sla-za-leadove-marketing-prodaja-srbija-2026',
+    title: 'SLA za leadove u Srbiji 2026: kako rokovi čuvaju prodaju',
+    excerpt: 'Ako tim ne zna ko preuzima lead, za koliko minuta odgovara i šta se radi kad neko nije dostupan, kampanja gubi dobre upite pre prodaje.',
+    date: '2026-07-10',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Lead Generation', 'Prodaja', 'SLA', 'CRM', 'Marketing strategija'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Zašto lead propadne iako je kampanja uradila svoj deo
+
+Kada kampanja dovede dobar upit, posao nije završen. Tada počinje najosetljiviji deo: ko preuzima lead, za koliko minuta odgovara, šta se dešava ako je ta osoba zauzeta i kako se meri da li je kontakt stvarno obrađen. Mnoge firme nemaju problem sa brojem leadova, nego sa tihih sat vremena između forme, telefona, WhatsApp poruke i prvog konkretnog sledećeg koraka.
+
+Zato je SLA za leadove koristan čak i za mali prodajni tim. SLA ne mora da zvuči korporativno. U praksi je to interni dogovor: za koji tip upita odgovaramo odmah, ko je vlasnik, koji kanal se koristi, kada se lead eskalira i šta se upisuje u evidenciju. Bez tog dogovora, [Google Ads budžet](/google-reklame-cena) može kupovati validnu potražnju koju firma izgubi pre nego što prodaja uopšte stigne do ponude.
+
+Česta greška je da svi misle da je neko drugi zadužen. Marketing vidi konverziju. Prodaja vidi poruku kad stigne. Vlasnik firme pretpostavlja da se neko javio. Posle nekoliko dana kampanja se krivi za loš kvalitet leadova, a zapravo nije postojao rok odgovora, rezervni vlasnik ni jasan status.
+
+## Šta SLA za leadove treba da definiše
+
+Dobar SLA za leadove počinje od nekoliko jednostavnih pravila. Prvo: koji leadovi su prioritet A, B i C. Nije isti upit osoba koja traži cenu za ozbiljan projekat, neko ko samo skida katalog i neko ko šalje nejasnu poruku bez telefona. Drugo: ko je vlasnik svakog tipa upita. Treće: maksimalno vreme prvog odgovora. Četvrto: šta se radi ako se lead ne javlja. Peto: kada se lead vraća marketingu kao povratna informacija.
+
+Na primer, A lead može biti upit sa telefonom, budžetom, lokacijom, rokom i jasnom potrebom. Takav lead treba dobiti odgovor u roku od 5 do 15 minuta tokom radnog vremena. B lead može dobiti odgovor u roku od sat vremena uz dodatna kvalifikaciona pitanja. C lead može ući u lakši follow-up ili edukativni odgovor, ali ne sme pojesti vreme namenjeno ozbiljnim upitima.
+
+Ovo se direktno nastavlja na [vlasništvo leadova](/blog/vlasnistvo-leadova-marketing-prodaja-srbija-2026). Ako vlasnik nije imenovan, SLA je samo lepa tabela. Neko mora biti odgovoran da lead ne ostane između inboxa, telefona i CRM-a.
+
+## Rok odgovora nije isti za svaki kanal
+
+Forma na sajtu, telefonski poziv, WhatsApp, Instagram poruka i direktan email ne traže isti tretman. Telefonski poziv je najhitniji jer kupac često zove više firmi redom. WhatsApp poruka može delovati ležerno, ali kod lokalnih usluga često nosi visoku nameru. Forma sa detaljnim poljima može imati bolji kontekst, ali ako odgovor kasni dva dana, kontekst više ne pomaže.
+
+Zato SLA treba da razdvoji kanal i nameru. Propušten poziv iz kampanje treba imati pravilo povratnog poziva, na primer prvi pokušaj u roku od 10 minuta, drugi posle sat vremena i treći uz kratku poruku. Forma sa konkretnim budžetom i rokom treba ići prodaji pre opštih pitanja. WhatsApp poruka treba dobiti odgovor koji ne zvuči kao automat, nego potvrđuje problem i traži samo informacije koje menjaju sledeći korak.
+
+Ako firma već ima problem sa [propuštenim pozivima iz kampanja](/blog/propusteni-pozivi-iz-kampanja-leadovi-prodaja-srbija-2026), SLA je način da se to pretvori iz izgovora u sistem. Nije dovoljno znati da je poziv propušten. Važno je znati ko vraća poziv, do kada i šta se beleži ako se osoba ne javi.
+
+## Šta treba da stoji u CRM-u ili evidenciji
+
+SLA bez evidencije brzo postane dogovor iz glave. Ne mora se odmah uvoditi komplikovan CRM, ali svaki lead mora imati osnovna polja: izvor, kanal, vreme prijema, vlasnik, vreme prvog odgovora, status, sledeća akcija, razlog čekanja i ishod. Ako se ovo ne beleži, firma ne zna da li je problem u kampanji, odgovoru, kvalifikaciji, ponudi ili follow-up-u.
+
+Najkorisniji statusi nisu samo novo, kontaktirano i izgubljeno. Bolje je koristiti statuse koji pokazuju gde lead zapinje: nije odgovoreno u roku, nije dobijen kupac, čeka dodatne podatke, zakazan poziv, poslata ponuda, čeka odluku, nije fit, izgubljeno zbog cene, izgubljeno zbog roka, izgubljeno zbog pogrešne usluge. Tada [CRM za leadove](/blog/crm-za-leadove-evidencija-prodaja-srbija-2026) postaje alat za odluke, a ne arhiva poruka.
+
+Ovo je posebno važno kada se gleda [cena digitalnog marketinga](/cene-digitalnog-marketinga). Agencija može optimizovati kampanju mnogo bolje kada zna da li leadovi kasne zbog slabog oglasa, nejasne landing strane, sporog odgovora ili prodajnog procesa bez prioriteta.
+
+## Kako SLA čuva budžet od pogrešnog zaključka
+
+Bez SLA pravila, izveštaj lako zavara. Kampanja ima konverzije, prodaja kaže da leadovi nisu dobri, vlasnik vidi trošak i traži smanjenje budžeta. Ali ako nema podataka o vremenu odgovora, vlasniku leada i statusu, niko ne zna da li je lead bio loš ili samo hladan posle tri sata čekanja.
+
+Dobar SLA razdvaja tri stvari. Prvo, kvalitet potražnje koju kampanja dovodi. Drugo, brzinu i kvalitet prvog kontakta. Treće, sposobnost prodaje da dovede lead do ponude ili odluke. Kada su te tri stvari pomešane, svaka optimizacija je pogađanje. Kada su razdvojene, vidi se da li treba menjati ključne reči, formu, landing stranu, prodajnu skriptu ili samo raspored ljudi koji se javljaju.
+
+Zato je [povratna informacija prodaje](/blog/povratna-informacija-prodaje-marketing-kampanje-leadovi-srbija-2026) korisna tek kada ima ritam i format. Komentar tipa loš lead ne pomaže. Status tipa A lead, odgovor kasnio 90 minuta, kupac već zakazao kod konkurencije, pomaže odmah.
+
+## Primer jednostavnog SLA za mali tim
+
+Mali tim može početi bez velike procedure. Dovoljno je da se napravi jedna tabela ili CRM pogled sa pravilima. A lead iz forme ili poziva: vlasnik prodaja, prvi odgovor do 15 minuta, drugi pokušaj istog dana, treći pokušaj sutra uz kratak razlog javljanja. B lead: odgovor do 60 minuta, jedno do dva kvalifikaciona pitanja, zatim ponuda ili preusmeravanje. C lead: odgovor u toku dana, edukativan link ili pitanje koje proverava fit.
+
+Ako je vlasnik zauzet, lead prelazi na rezervnu osobu posle definisanog vremena. Ako niko nije dostupan van radnog vremena, strana treba jasno reći kada stiže odgovor i ponuditi lakši sledeći korak. Ako se prodaja vrati na lead tek sutradan, status mora pokazati da je SLA probijen. Ne radi krivice, nego da se vidi gde sistem puca.
+
+Ovakav dogovor smanjuje haos. Prodaja ne odgovara nasumično. Marketing ne gleda samo broj konverzija. Vlasnik firme vidi da li postoji kapacitet za veći budžet ili treba prvo popraviti prijem leadova.
+
+## Gde SLA najčešće pukne
+
+Najčešće pukne na tri mesta. Prvo, kada nema rezervnog vlasnika. Jedna osoba je na sastanku, na terenu ili u razgovoru, a lead čeka. Drugo, kada se svaki lead tretira isto, pa slab upit dobije istu pažnju kao ozbiljna prilika. Treće, kada nema jasnog sledećeg koraka posle prvog odgovora.
+
+SLA ne znači da prodaja mora juriti svakoga. Znači da najbolji upiti ne smeju čekati iza najlakših poruka. Znači i da prvi odgovor treba imati strukturu, ne samo rečenicu pošaljite detalje. Ako odgovor ne potvrdi problem, ne pita prave stvari i ne predloži sledeći korak, brzina sama ne rešava ništa. Tu pomaže [prvi odgovor na lead](/blog/prvi-odgovor-na-lead-prodajna-skripta-srbija-2026), jer rok i skripta rade zajedno.
+
+## Kada prvo popraviti SLA, a tek onda povećati kampanju
+
+Ako kampanja već donosi upite, ali prodaja kaže da nema dovoljno dobrih razgovora, prvo proverite SLA pre povećanja budžeta. Koliko leadova dobije odgovor u roku? Koliko poziva je propušteno? Koliko upita nema vlasnika? Koliko leadova ima sledeću akciju? Koliko puta se razlog gubitka svodi na ne javlja se, bez podatka kada je kontaktiran?
+
+Ako su odgovori spori, statusi prazni i vlasništvo nejasno, veći budžet samo pravi veći red čekanja. Ako su rokovi jasni, odgovori brzi i statusi uredni, tada kampanja ima bolji signal za optimizaciju. Tada se lakše vidi da li treba menjati publiku, ključne reči, ponudu, cenu, landing stranu ili sam prodajni proces.
+
+Ako želite da proverimo da li leadovi propadaju zbog kampanje ili zbog sporog preuzimanja, pošaljite nam trenutne kanale, prosečno vreme odgovora, statuse koje koristite i nekoliko primera izgubljenih upita kroz [kontakt formu](/kontakt). Pogledaćemo gde se gubi vreme, ko treba da preuzme lead i kako da SLA pretvori kampanju u prodajne razgovore, ne samo u nove notifikacije.
+`,
+  },
+  {
     slug: 'google-ads-za-dezinsekciju-deratizaciju-cena-poziva-srbija-2026',
     title: 'Google Ads za dezinsekciju i deratizaciju u Srbiji 2026: cena poziva i budžet',
     excerpt: 'Za DDD firme nije dovoljan jeftin poziv. Google Ads treba meriti kroz hitnost, lokaciju, tip objekta, dolazak na teren i prihvaćenu uslugu.',
