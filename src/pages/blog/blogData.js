@@ -1,5 +1,122 @@
 const rawBlogPosts = [
   {
+    slug: 'popusti-akcije-marketing-budzet-roi-lead-generation-srbija-2026',
+    title: 'Popusti, akcije i marketing budžet u Srbiji 2026: kada veća prodaja spušta ROI',
+    excerpt: 'Popust može povećati broj leadova i prodaja, ali smanjiti zaradu po poslu. Evo kako akcijsku cenu povezati sa CPL-om, maržom i budžetom.',
+    date: '2026-07-11',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Marketing budžet', 'Popusti', 'ROI', 'Lead Generation', 'CPL'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Zašto više prodaja tokom akcije ne mora da znači bolji rezultat
+
+Popust često popravi brojke koje se prve vide. Oglas dobije više klikova, forma više upita, prodaja više razgovora, a mesečni prihod poraste. Na prvi pogled deluje logično da treba povećati budžet dok akcija traje. Problem nastaje kada se isti rezultat pogleda kroz novac koji stvarno ostaje posle popusta, direktnih troškova, prodajnog rada i oglašavanja.
+
+Mnoge firme tada naprave čestu grešku: uporede redovnu cenu usluge sa troškom kampanje, iako je većina novih kupaca platila akcijsku cenu. Kampanja izgleda profitabilnije nego što jeste jer se prihod računa po cenovniku, a realizacija po popustu. Tako [Google Ads budžet](/google-reklame-cena) može rasti u trenutku kada doprinosna marža po novom poslu zapravo pada.
+
+Akcija nije sama po sebi loša. Može otvoriti novu publiku, popuniti slobodan kapacitet, ubrzati odluku ili pomoći da se testira nova ponuda. Ali popust mora imati svoju ekonomiju. Ako se posmatra samo kao jači naslov oglasa, lako kupi više leadova koji ostavljaju manje prostora za akviziciju i isporuku.
+
+## Prvo odvojite redovnu cenu, realizovanu cenu i novac koji ostaje
+
+Za odluku o budžetu nisu dovoljne dve kolone: prihod i trošak oglasa. Potrebno je razdvojiti najmanje četiri broja:
+
+1. redovnu cenu ponude;
+2. prosečnu realizovanu cenu posle popusta i pregovora;
+3. direktne i varijabilne troškove isporuke;
+4. iznos koji ostaje za prodaju, marketing, fiksne troškove i profit.
+
+Zamislimo uslugu sa redovnom cenom od 120.000 dinara. Direktna isporuka košta 55.000 dinara, pa pre marketinga i prodaje ostaje 65.000 dinara. Tokom akcije cena pada na 96.000 dinara. Trošak isporuke se ne smanjuje automatski, pa sada ostaje 41.000 dinara. Popust od 20% nije smanjio prostor za akviziciju za 20%, već sa 65.000 na 41.000 dinara, što je mnogo veća promena u iznosu koji finansira rast.
+
+Zato je korisno povezati akciju sa [bruto maržom i marketing budžetom](/blog/bruto-marza-marketing-budzet-roi-srbija-2026), a ne samo sa prometom. Prihod odgovara na pitanje koliko je naplaćeno. Marža odgovara na pitanje koliko prostora postoji da se kupac dovede i posao kvalitetno završi.
+
+## Kako popust menja maksimalni CPL
+
+Maksimalni CPL ne može ostati isti ako se zarada po zatvorenom poslu promenila. Najjednostavnija praktična logika je:
+
+**maksimalni trošak akvizicije kupca = iznos koji ostaje po poslu × deo koji ste spremni da uložite u akviziciju**
+
+Zatim se maksimalni trošak kupca prevodi u maksimalni CPL preko stope zatvaranja kvalifikovanih leadova. Ako od deset kvalifikovanih leadova zatvarate dva posla, stopa zatvaranja je 20%. Ako je dozvoljeni trošak akvizicije kupca 20.000 dinara, okvirni maksimalni CPL je 4.000 dinara.
+
+Ali ako popust spusti dozvoljeni trošak akvizicije kupca na 12.000 dinara, isti prodajni rezultat daje maksimalni CPL od 2.400 dinara. Kampanja sa CPL-om od 3.000 dinara bila je održiva na redovnoj ceni, ali više nije održiva pod novim uslovima. Nije kampanja odjednom postala loša. Promenila se ekonomija ponude.
+
+Tu pomaže razlika između [CPL-a i CAC-a](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026). Jeftin lead nije isto što i profitabilan kupac, naročito kada akcija privuče više ljudi koji porede isključivo cenu ili traže dodatne ustupke.
+
+## Akcijski leadovi mogu imati drugačiju stopu zatvaranja
+
+Popust ponekad podigne stopu zatvaranja dovoljno da nadoknadi nižu maržu. To je scenario koji vredi testirati. Ipak, ne treba ga pretpostaviti unapred. Akcijska kampanja često menja sastav publike: dolazi više cenovno osetljivih kupaca, više brzih pitanja i više ljudi koji odlažu odluku do sledeće promocije.
+
+Zato redovne i akcijske leadove treba označiti odvojeno u CRM-u ili prodajnoj evidenciji. Za obe grupe pratite:
+
+- broj sirovih upita;
+- broj kvalifikovanih leadova;
+- broj poslatih ponuda;
+- broj prihvaćenih poslova;
+- prosečnu realizovanu cenu;
+- dodatne popuste posle prvog popusta;
+- trošak isporuke;
+- vreme prodaje i follow-up-a;
+- naplaćeni iznos, ne samo ugovorenu vrednost.
+
+Česta greška je da akcija dobije zaslugu za više konverzija, dok niko ne proveri koliko je kupaca tražilo još nižu cenu ili koliko je prodaja potrošila vremena na slabije upite. Kampanja tada izgleda efikasno u Ads nalogu, ali ne i u poslovnom rezultatu.
+
+## Kada popust ima poslovnog smisla
+
+Popust ima najviše smisla kada rešava konkretan poslovni problem i kada su granice jasne. Na primer, firma ima slobodan kapacitet u određenom periodu, želi da popuni termin koji bi inače ostao prazan ili ima dodatnu uslugu sa visokom maržom koju može ponuditi postojećem kupcu. Tada niža početna cena može biti racionalna.
+
+Akcija može imati smisla i kao kontrolisan test nove ponude. Umesto trajnog spuštanja cene, definišu se budžet, trajanje, ciljna publika i kriterijumi za nastavak. Ovaj pristup je bliži [test budžetu za novu ponudu](/blog/test-budzet-za-novu-ponudu-lead-generation-srbija-2026) nego stalnoj rasprodaji usluge.
+
+Dobar razlog za popust nije samo konkurencija je spustila cenu. Ako konkurent ima drugačije troškove, kapacitet, kvalitet isporuke ili prodajni model, kopiranje njihove akcije može napraviti promet bez dobiti. Popust treba da podrži kapacitet i ponudu vaše firme, ne tuđu naslovnu stranu.
+
+## Kada akcija samo prikriva slabost ponude
+
+Neke firme koriste popust da preskoče teži posao: jasnije pozicioniranje, bolju landing stranu, dokaz, brži odgovor i konkretniji prodajni proces. Kada prodaja uspori, cena se spusti. Kada akcija prođe, prodaja ponovo stane. Posle nekoliko ciklusa kupci nauče da čekaju sledeću promociju, a redovna cena prestane da deluje stvarno.
+
+To je signal da problem možda nije u budžetu. Ponuda može biti preširoka, razlika u odnosu na konkurenciju nejasna ili rizik za kupca previsok. U tom slučaju vredi prvo proveriti [profitabilnost ponuda po grupama](/blog/profitabilnost-ponuda-marketing-budzet-lead-generation-srbija-2026). Moguće je da jedna usluga podnosi akciju, dok druga na istom popustu pravi gubitak.
+
+Landing strana takođe mora objasniti uslove. Ako oglas govori minus 20%, a strana ne kaže na koju uslugu, do kada, za koje klijente i šta je uključeno, kampanja dobija više pitanja umesto više odluka. Jasna akcija treba da smanji neizvesnost, ne da je prebaci na prodajni poziv.
+
+## Ne mešajte akcijski budžet sa redovnim budžetom
+
+Ako se akcija vodi u istoj kampanji, sa istim oglasima i bez oznake u CRM-u, kasnije je teško objasniti rezultat. Prosečan CPL može pasti, ali prosečna vrednost posla takođe pada. Ili CPL poraste zbog agresivnije konkurencije, dok vi istovremeno zarađujete manje po kupcu.
+
+Bolje je unapred napraviti zaseban scenario sa tri nivoa:
+
+- konzervativni scenario: niža stopa zatvaranja i puna procena troškova;
+- realni scenario: rezultat sličan prethodnim akcijama ili prodajnim podacima;
+- agresivni scenario: viša stopa zatvaranja, ali bez pretpostavke da troškovi isporuke nestaju.
+
+Za svaki scenario treba definisati maksimalni CPL, maksimalni CAC, potreban broj kvalifikovanih leadova, kapacitet za isporuku i datum odluke. To je praktična primena [marketing budžeta po scenariju](/blog/marketing-budzet-po-scenariju-lead-generation-srbija-2026), samo sa realizovanom akcijskom cenom kao polaznom tačkom.
+
+## Kratak obračun pre pokretanja akcije
+
+Pre nego što povećate kampanju, zapišite sledeće:
+
+1. Koja je prosečna redovna, a koja očekivana realizovana cena?
+2. Koji troškovi ostaju isti bez obzira na popust?
+3. Koliko novca ostaje po prihvaćenom poslu?
+4. Koliki CAC taj posao može da podnese?
+5. Kolika je stopa zatvaranja akcijskih leadova, ili koja je konzervativna pretpostavka?
+6. Koliki maksimalni CPL proizlazi iz te računice?
+7. Koliko poslova tim može da proda i isporuči bez pada kvaliteta?
+8. Šta je kriterijum za prekid, korekciju ili povećanje budžeta?
+
+Ako ove odgovore nemate, [ROI kalkulator](/alati/roi-kalkulator) može pomoći da se postave početni brojevi, ali kalkulator ne može zameniti stvarnu realizovanu cenu i troškove iz poslovanja. Najslabiji podatak u računu određuje koliko je zaključak pouzdan.
+
+## Kako povezati akciju sa cenom marketinga
+
+Kada se poredi [cena digitalnog marketinga](/cene-digitalnog-marketinga), česta greška je da se agencijska naknada posmatra odvojeno od popusta, prodajne konverzije i isporuke. Firma pita da li je upravljanje kampanjom skupo, ali ne meri koliko je marže izgubila nekontrolisanim spuštanjem cene ili dodatnim ustupcima posle prvog razgovora.
+
+Dobar marketing partner treba da pita šta se dešava posle leada: po kojoj ceni se posao stvarno zatvara, koliko često se daje dodatni popust, koliko košta isporuka i koliko novca ostaje. Bez tih podataka može se optimizovati broj leadova, ali ne i poslovni rezultat.
+
+Ako planirate akciju i želite da proverite koliko budžeta ona stvarno može da podnese, pošaljite nam redovnu i akcijsku cenu, direktne troškove, stopu zatvaranja i trenutni CPL kroz [kontakt formu](/kontakt). Napravićemo realan scenario i pokazati gde popust ubrzava prodaju, a gde samo povećava promet uz slabiji ROI.
+`,
+  },
+  {
     slug: 'sla-za-leadove-marketing-prodaja-srbija-2026',
     title: 'SLA za leadove u Srbiji 2026: kako rokovi čuvaju prodaju',
     excerpt: 'Ako tim ne zna ko preuzima lead, za koliko minuta odgovara i šta se radi kad neko nije dostupan, kampanja gubi dobre upite pre prodaje.',

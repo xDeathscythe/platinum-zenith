@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "popusti-akcije-marketing-budzet-roi-lead-generation-srbija-2026",
+    "title": "Popusti, akcije i marketing budžet u Srbiji 2026: kada veća prodaja spušta ROI",
+    "excerpt": "Popust može povećati broj leadova i prodaja, ali smanjiti zaradu po poslu. Evo kako akcijsku cenu povezati sa CPL-om, maržom i budžetom.",
+    "date": "2026-07-11",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "sla-za-leadove-marketing-prodaja-srbija-2026",
     "title": "SLA za leadove u Srbiji 2026: kako rokovi čuvaju prodaju",
     "excerpt": "Ako tim ne zna ko preuzima lead, za koliko minuta odgovara i šta se radi kad neko nije dostupan, kampanja gubi dobre upite pre prodaje.",
