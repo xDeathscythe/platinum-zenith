@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-dezinsekciju-deratizaciju-cena-poziva-srbija-2026",
+    "title": "Google Ads za dezinsekciju i deratizaciju u Srbiji 2026: cena poziva i budžet",
+    "excerpt": "Za DDD firme nije dovoljan jeftin poziv. Google Ads treba meriti kroz hitnost, lokaciju, tip objekta, dolazak na teren i prihvaćenu uslugu.",
+    "date": "2026-07-10",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "varijabilni-troskovi-marketing-budzet-lead-generation-srbija-2026",
     "title": "Varijabilni troškovi i marketing budžet u Srbiji 2026: kada rast spušta profit",
     "excerpt": "Ako svaki novi klijent nosi dodatne troškove, veći budžet ne znači automatski veći profit. Evo kako računati CPL kroz varijabilne troškove.",

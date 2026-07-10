@@ -1,5 +1,84 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-dezinsekciju-deratizaciju-cena-poziva-srbija-2026',
+    title: 'Google Ads za dezinsekciju i deratizaciju u Srbiji 2026: cena poziva i budžet',
+    excerpt: 'Za DDD firme nije dovoljan jeftin poziv. Google Ads treba meriti kroz hitnost, lokaciju, tip objekta, dolazak na teren i prihvaćenu uslugu.',
+    date: '2026-07-10',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Dezinsekcija', 'Deratizacija', 'Lokalne usluge', 'Lead Generation'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Zašto DDD firme ne treba da mere samo cenu poziva
+
+Dezinsekcija, deratizacija i dezinfekcija imaju drugačiju dinamiku od većine lokalnih usluga. Kada neko traži uklanjanje bubašvaba, stenica, mrava, glodara ili hitnu dezinfekciju prostora, namera je jaka, ali nije svaki poziv isti. Jedan poziv može biti stan u zgradi sa realnim problemom i spremnošću da se intervencija zakaže odmah. Drugi može biti pitanje za cenu, DIY savet ili lokacija koju firma ne pokriva.
+
+Zato [Google Ads budžet](/google-reklame-cena) za DDD firme ne treba ocenjivati samo po tome koliko košta klik ili poziv. Pravo pitanje je koliko košta poziv koji ima lokaciju, tip objekta, opis problema, spremnost za termin i realnu vrednost intervencije. Ako se meri samo broj poziva, kampanja može izgledati uspešno dok operativa gubi vreme na pogrešne upite.
+
+Česta greška je da se sve DDD usluge stave u jednu kampanju i jedan oglas. Tada isti budžet kupuje hitne intervencije, informativne upite, male jednokratne poslove, B2B objekte i ljude koji traže preparate za samostalnu upotrebu. Na izveštaju sve deluje kao lead generation. U praksi samo deo tih upita može postati posao koji se isplati.
+
+## Kako razdvojiti dezinsekciju, deratizaciju i dezinfekciju
+
+Prva podela treba da prati stvarnu uslugu. Dezinsekcija ima drugačije ključne reči, hitnost i prodajni razgovor od deratizacije. Stenice nisu isto što i mravi. Miševi u restoranu nisu isti problem kao golubovi, bubašvabe u stanu ili dezinfekcija poslovnog prostora posle radova. Ako su sve fraze u istoj kampanji, teško je znati gde se budžet stvarno vraća.
+
+Praktična struktura može biti jednostavna. Jedna kampanja za hitnu dezinsekciju u stanovima i lokalima. Druga za deratizaciju i kontrolu glodara. Treća za B2B objekte, restorane, hotele, magacine, stambene zgrade i upravnike zgrada. Četvrta, ako postoji tražnja, za dezinfekciju i specifične preventivne usluge. Svaka kampanja treba da ima svoj tekst oglasa, landing stranu ili bar jasan blok na strani koji govori baš o tom problemu.
+
+Ovo pomaže i kod [cene digitalnog marketinga](/cene-digitalnog-marketinga), jer se ne plaća samo podešavanje oglasa. Plaća se sistem koji odvaja hitan posao od slabog upita, meri šta prodaja može da zatvori i pomera budžet ka uslugama koje nose maržu.
+
+## Šta forma ili prvi poziv mora da kvalifikuje
+
+Kod DDD usluga nije dovoljno pitati ime i telefon. Potrebno je brzo saznati nekoliko stvari koje menjaju cenu, termin i isplativost posla. Koji je problem u pitanju? Da li je stan, kuća, lokal, restoran, magacin, kancelarija ili zgrada? U kom gradu ili opštini se nalazi objekat? Kolika je približna površina? Da li je problem hitan? Da li je već rađena intervencija? Da li postoji potreba za ugovorom ili periodičnim održavanjem?
+
+Ovo ne treba pretvoriti u naporan formular od dvadeset pitanja. Dovoljno je nekoliko polja koja štede vreme i prodaji i klijentu. Ako upit dolazi za lokaciju van zone, prodaja to zna odmah. Ako je u pitanju restoran ili zgrada, razgovor ima drugačiju vrednost od malog jednokratnog pitanja. Ako je problem sa stenicama, poruka i cena ne mogu biti iste kao za rutinsko prskanje mrava.
+
+Zato je [kontakt forma za kvalifikaciju leadova](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026) posebno važna za DDD firme. Ona ne služi da odbije ljude, nego da se ozbiljan poziv brže obradi i da se kampanja kasnije optimizuje prema poslovima koji su stvarno prihvaćeni.
+
+## Negativne ključne reči čuvaju budžet od pogrešnih upita
+
+DDD kampanje lako privuku upite koji zvuče relevantno, ali ne nose posao. Ljudi traže preparate, savete, kućne metode, forum iskustva, posao u DDD firmi, kurs, opremu, sprejeve, cene proizvoda ili značenje simptoma. Ako se ti upiti ne filtriraju, deo budžeta odlazi na edukativnu ili kupovinu proizvoda, a ne na naručivanje usluge.
+
+Negativne ključne reči obično treba da pokriju izraze kao što su posao, plata, kurs, obuka, preparat, sprej, prašak, samostalno, uradi sam, forum, iskustva bez namere kupovine, slika, vrste insekata, oprema i prodaja. Naravno, lista zavisi od toga šta firma zaista nudi. Ako firma prodaje i preparate, ta logika se menja. Ako nudi samo izlazak na teren, proizvodni upiti treba da budu odvojeni ili isključeni.
+
+Česta greška je da se negativne reči dodaju tek kada budžet već izgori. Bolji pristup je da se od prvog dana gleda Search Terms izveštaj i beleži zašto je neki upit loš: pogrešna namera, pogrešna lokacija, premala vrednost, pitanje za proizvod ili neodgovarajuća usluga.
+
+## Landing strana mora da smiri hitnost, ali i postavi granice
+
+Osoba koja traži dezinsekciju ili deratizaciju često je pod pritiskom. Ne želi generičku priču o kvalitetu usluge. Želi da zna da firma razume problem, pokriva njenu lokaciju, može da izađe u razumnom roku, radi bezbedno i može da objasni šta se dešava posle poziva. Zato landing strana treba brzo da odgovori na pitanja: koje štetočine pokrivate, za koje objekte radite, koje gradove pokrivate, kako izgleda izlazak, šta utiče na cenu i kako se zakazuje termin.
+
+Istovremeno, strana mora da postavi granice. Ako firma ne izlazi van određenih opština, to treba reći. Ako cena zavisi od površine, tipa objekta i vrste problema, treba dati okvir umesto lažnog fiksnog cenovnika. Ako je za B2B objekte potreban pregled ili ugovor, CTA treba da vodi ka proceni, ne ka obećanju instant cene.
+
+Dobro postavljena strana smanjuje broj loših poziva i povećava procenat razgovora koji imaju konkretan sledeći korak. To se direktno vidi kroz [usklađenost oglasa i landing strane](/blog/uskladjenost-oglasa-landing-strane-konverzija-srbija-2026), jer oglas obećava rešenje za jedan problem, a strana mora nastaviti istu priču.
+
+## Kako meriti uspeh kampanje za DDD usluge
+
+Najslabije merilo je broj klikova. Malo bolje merilo je broj poziva. Mnogo korisnije merilo je broj kvalifikovanih poziva po tipu usluge, lokaciji i vrednosti posla. Najkorisnije merilo je koliko je tih poziva postalo zakazan izlazak, poslata procena, prihvaćena intervencija ili dugoročan ugovor.
+
+Za DDD firme je posebno važno razlikovati jednokratne hitne intervencije od ponavljajućih B2B poslova. Jedan restoran, zgrada, hotel, proizvodni pogon ili magacin može imati veću vrednost od deset malih informativnih poziva. Ako kampanja sve meri kao isti lead, algoritam može učiti da kupuje najlakše pozive, a ne najbolje poslove.
+
+Zato treba povezati Ads, pozive, formu i prodajnu evidenciju. Ne mora to odmah biti komplikovan CRM. Dovoljna su polja: izvor, usluga, lokacija, tip objekta, status, vrednost posla, razlog gubitka i da li je dogovoren sledeći korak. Bez toga [povratna informacija prodaje](/blog/povratna-informacija-prodaje-marketing-kampanje-leadovi-srbija-2026) ostaje u glavi osobe koja se javila na telefon.
+
+## Koliki budžet ima smisla za početak
+
+Početni budžet zavisi od grada, konkurencije, hitnosti usluge, sezone i kapaciteta ekipe. Nije isto testirati DDD usluge u Beogradu, Novom Sadu, Nišu ili manjem gradu. Nije isto ako firma ima jednu ekipu i ograničen broj termina ili više ekipa koje mogu brzo pokriti širi teren.
+
+Pametan početak nije najveći mogući budžet, nego budžet koji može da prikupi dovoljno podataka bez gušenja operative. Prvih par nedelja treba proveriti koje usluge vuku pozive, koje lokacije se isplate, šta prodaja najčešće čuje, koji upiti su pogrešni i gde treba dodati negativne reči. Tek kada se vidi odnos između poziva, izlazaka i prihvaćenih poslova, budžet se može povećavati.
+
+Ako firma odmah sipa novac u preširoku kampanju, dobija više signala, ali ne nužno više profita. Bolje je prvo dokazati da kampanja može dovesti kvalifikovane pozive u zoni koju ekipa može brzo obraditi.
+
+## Kada Google Ads za DDD firme ima najviše smisla
+
+Google Ads ima najviše smisla kada postoji jasna hitna namera, organizovan prijem poziva i kapacitet da se brzo zakaže sledeći korak. Ako se ljudi javljaju na oglase, ali niko ne odgovara brzo, ne beleži razlog poziva ili ne vraća informaciju marketingu, kampanja gubi prednost koju ima kod urgentnih usluga.
+
+DDD firme često već imaju dobru uslugu, ali kampanja ne zna razliku između korisnog i slabog poziva. Tu se pravi najveći pomak: odvojiti usluge, srediti negativne reči, napisati jasnu landing stranu, meriti zakazane intervencije i zatvorene poslove, pa tek onda povećavati budžet.
+
+Ako želite da proverimo da li vaša DDD kampanja kupuje prave pozive ili samo puni telefon, pošaljite nam usluge koje nudite, gradove koje pokrivate, prosečnu vrednost intervencije i trenutne rezultate kroz [kontakt formu](/kontakt). Pogledaćemo gde budžet curi, koje upite treba filtrirati i kako kampanju vezati za zakazane i prihvaćene poslove.
+`,
+  },
+  {
     slug: 'varijabilni-troskovi-marketing-budzet-lead-generation-srbija-2026',
     title: 'Varijabilni troškovi i marketing budžet u Srbiji 2026: kada rast spušta profit',
     excerpt: 'Ako svaki novi klijent nosi dodatne troškove, veći budžet ne znači automatski veći profit. Evo kako računati CPL kroz varijabilne troškove.',
