@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-geodete-geometre-cena-upita-srbija-2026",
+    "title": "Google Ads za geodete i geometre u Srbiji 2026: cena upita i budžet",
+    "excerpt": "Geodetska firma ne treba da meri samo pozive. Kampanju treba vezati za lokaciju, vrstu usluge, izlazak na teren, poslatu ponudu i ugovoren posao.",
+    "date": "2026-07-11",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "popusti-akcije-marketing-budzet-roi-lead-generation-srbija-2026",
     "title": "Popusti, akcije i marketing budžet u Srbiji 2026: kada veća prodaja spušta ROI",
     "excerpt": "Popust može povećati broj leadova i prodaja, ali smanjiti zaradu po poslu. Evo kako akcijsku cenu povezati sa CPL-om, maržom i budžetom.",

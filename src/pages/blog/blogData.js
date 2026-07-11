@@ -1,5 +1,124 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-geodete-geometre-cena-upita-srbija-2026',
+    title: 'Google Ads za geodete i geometre u Srbiji 2026: cena upita i budžet',
+    excerpt: 'Geodetska firma ne treba da meri samo pozive. Kampanju treba vezati za lokaciju, vrstu usluge, izlazak na teren, poslatu ponudu i ugovoren posao.',
+    date: '2026-07-11',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Geodeti', 'Geometri', 'Lokalne usluge', 'Lead Generation'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Zašto geodetskoj firmi nije dovoljan jeftin poziv
+
+Kada neko na Google-u traži geodetu ili geometra, obično već ima konkretan razlog: kupuje plac, gradi objekat, rešava među, priprema parcelaciju, želi upis objekta ili mu je potreban snimak izvedenog stanja. Namera može biti jaka, ali vrednost tih upita nije ista. Jedan poziv vodi do jasnog terenskog posla, dok drugi ostane na pitanju koliko košta bez adrese, dokumentacije i odluke ko naručuje uslugu.
+
+Zato [Google Ads budžet](/google-reklame-cena) za geodetsku firmu ne treba ocenjivati samo kroz cenu klika i broj poziva. Korisnije je pratiti koliko upita ima lokaciju, vrstu usluge, podatke o parceli ili objektu, realan rok i spremnost da se zakaže izlazak na teren. Kampanja treba da dovodi predmete koje firma može da proceni, ponudi i ugovori, ne samo telefonske razgovore.
+
+Česta greška u ovoj delatnosti je da se sve usluge stave u jednu kampanju i pošalju na početnu stranu. Oglas tada istovremeno privlači privatna lica koja rešavaju među, investitore kojima treba kontinuirana podrška, ljude koji traže informacije iz katastra i kandidate koji traže posao. Broj konverzija raste, ali operativa i dalje nema dovoljno podataka za ponudu.
+
+## Kako podeliti kampanje po stvarnoj geodetskoj usluzi
+
+Dobra struktura prati razlog zbog kog klijent angažuje geodetu. U praksi se najčešće mogu odvojiti sledeće grupe:
+
+- omeđavanje, identifikacija parcele i rešavanje granica;
+- parcelacija i preparcelacija;
+- geodetsko snimanje objekta i terena;
+- upis, legalizacija ili ozakonjenje objekta, u delu koji geodetska firma stvarno radi;
+- inženjerska geodezija i praćenje gradilišta;
+- posebne B2B usluge za projektante, izvođače i investitore.
+
+Ova podela nije samo stvar urednijeg Ads naloga. Svaka grupa ima drugačiji prodajni razgovor, dokumentaciju, trajanje, vrednost posla i sledeći korak. Osoba koja želi proveru međe ne treba da vidi isti oglas i istu formu kao građevinska firma kojoj je potrebna geodetska podrška tokom više faza projekta.
+
+Za svaku grupu napravite oglas koji tačno opisuje uslugu i landing stranu koja potvrđuje gde radite, koje podatke klijent treba da pripremi i kako izgleda postupak. To je praktična primena [usklađenosti oglasa i landing strane](/blog/uskladjenost-oglasa-landing-strane-konverzija-srbija-2026): obećanje iz oglasa, sadržaj strane, forma i prvi odgovor moraju govoriti o istom predmetu.
+
+## Koje podatke treba tražiti pre procene cene
+
+Geodetska usluga retko može ozbiljno da se proceni iz poruke treba mi geometar. Forma ne treba da bude duga kao zahtev u instituciji, ali treba da prikupi podatke koji menjaju cenu, rok ili mogućnost prihvatanja posla.
+
+Korisna polja su:
+
+1. grad, opština i približna lokacija;
+2. vrsta potrebne usluge;
+3. broj parcele ili katastarska opština, ako su poznati;
+4. tip objekta ili terena;
+5. da li klijent ima dostupnu dokumentaciju;
+6. željeni rok i razlog zbog kog je usluga potrebna;
+7. da li je naručilac vlasnik, investitor, izvođač ili posrednik;
+8. telefon i poželjan termin za razgovor.
+
+Kod složenijih predmeta forma može ponuditi slanje dokumenta ili fotografije, ali ne treba tražiti osetljive lične podatke koji nisu potrebni za prvu procenu. Cilj [kvalifikacije kroz kontakt formu](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026) nije da odbije ozbiljnog klijenta, već da geodeta pre razgovora zna da li pokriva lokaciju, da li pruža traženu uslugu i koji je razuman sledeći korak.
+
+## Lokalno targetiranje je važnije od velikog broja prikaza
+
+Geodetska firma obično ima zonu u kojoj izlazak na teren ima poslovnog smisla. Ako kampanja pokriva celu Srbiju, a tim realno radi u nekoliko opština, budžet odlazi na pozive koji se prosleđuju drugima ili odbijaju. Isto važi kada oglas pominje Beograd, ali se prikazuje ljudima koji samo istražuju cenu za projekat stotinama kilometara dalje.
+
+Kampanje zato treba podeliti po stvarnoj operativnoj zoni. Gradovi sa različitim obimom pretrage, konkurencijom, cenom izlaska i vrednošću posla ne moraju imati isti budžet. Pristup iz teksta o [marketing budžetu po gradovima](/blog/marketing-budzet-po-gradovima-lead-generation-srbija-2026) pomaže da se odvoje Beograd, Novi Sad, Niš, regionalni centri i manje opštine umesto da jedan prosečan CPL prikrije gde firma dobija ugovorene poslove.
+
+Lokacija u ključnoj reči nije dovoljna. Potrebno je proveriti Ads podešavanje prisustva, izveštaj stvarnih lokacija korisnika, pozivne brojeve, radno vreme i učinak po zoni. Ako je izlazak izvan osnovne zone moguć samo za veće projekte, landing strana treba to jasno da kaže.
+
+## Negativne ključne reči štite vreme stručnog tima
+
+Pretrage oko geodezije često imaju informativnu, obrazovnu ili administrativnu nameru. Neke mogu biti relevantne za sadržaj, ali nisu dobar razlog da se plati klik u kampanji koja treba da donese komercijalni upit.
+
+Početna lista negativnih pojmova često uključuje:
+
+- posao, plata, praksa, pripravnik i konkurs;
+- fakultet, škola, kurs, ispit i licenca;
+- skripta, definicija, seminar i PDF;
+- polovna oprema, totalna stanica, GPS uređaj i softver;
+- besplatna mapa, javni uvid i samostalno preuzimanje podataka;
+- usluge i gradove koje firma ne pokriva.
+
+Lista ne treba da se kopira bez provere. Na primer, izraz katastar može biti deo ozbiljne pretrage za uslugu, ali može voditi i do korisnika koji samo traži javni portal ili radno vreme šaltera. Zato pretrage treba pregledati po kontekstu, a negativne reči dodavati na nivou koji neće blokirati kvalitetnu nameru.
+
+## Koliko može da košta kvalifikovan upit
+
+Ne postoji jedna ispravna cena upita za sve geodetske firme. Prihvatljiv CPL zavisi od prosečne vrednosti posla, direktnih troškova terena i obrade, stope prihvatanja ponude, vremena naplate, prodajne zone i kapaciteta tima. Jednostavno omeđavanje i višemesečna podrška na gradilištu ne mogu nositi isti maksimalni trošak akvizicije.
+
+Zato prvo grupišite usluge po ekonomiji, a zatim računajte unazad. Ako prosečno od pet kvalifikovanih upita jedan postane posao, stopa zatvaranja je 20%. Ako jedan ugovoren posao može da podnese 25.000 dinara troška akvizicije, okvirni maksimalni CPL je 5.000 dinara. Ako druga usluga može da podnese samo 8.000 dinara po novom klijentu, njen maksimalni CPL je 1.600 dinara.
+
+Ovo je razlog da [maksimalni CPL](/blog/maksimalna-cena-leada-srbija-2026) bude definisan po grupi usluga, a ne kao jedan prosek za ceo nalog. Kampanja može imati skup lead i ipak biti profitabilna ako vodi do vrednog projekta. Može imati i jeftine pozive koji ne postanu ni izlazak na teren.
+
+## Šta treba meriti posle poziva ili forme
+
+Ads konverzija je početak, ne završetak merenja. Za svaki upit je korisno beležiti:
+
+- traženu uslugu i lokaciju;
+- da li firma prihvata predmet;
+- da li je dobijena potrebna dokumentacija;
+- da li je zakazan i obavljen izlazak na teren;
+- da li je poslata ponuda;
+- da li je ponuda prihvaćena;
+- ugovorenu i naplaćenu vrednost;
+- razlog gubitka kada posao nije ugovoren.
+
+Bez ovih statusa Google Ads može optimizovati za najlakši poziv, a ne za predmet koji postaje prihod. Poziv od 30 sekundi i ugovorena B2B saradnja izgledaju kao ista konverzija ako se prodajni ishod ne vrati u evidenciju. Zato izveštaj treba da razdvoji sirov upit, kvalifikovan predmet, teren, ponudu i prihvaćen posao.
+
+Brzina odgovora je i dalje važna. Potencijalni klijent često kontaktira više kancelarija, naročito kada mu rok zavisi od kupoprodaje, gradnje ili predaje dokumentacije. Jasan prvi odgovor treba da potvrdi uslugu, zatraži samo podatke koji nedostaju i predloži razgovor ili pregled dokumentacije. Ako niko ne preuzme upit, ni dobro podešena kampanja neće popraviti prodajni rezultat.
+
+## Landing strana mora da smanji administrativnu neizvesnost
+
+Klijent često ne zna tačan stručni naziv usluge. Zna da kupuje plac, gradi kuću, ima spor oko međe ili treba dokument za sledeću fazu. Ako landing strana samo nabroji stručne termine, posetilac možda neće znati šta da izabere. Bolje je povezati uslugu sa situacijom, objasniti koje informacije treba pripremiti i jasno navesti šta geodetska firma može, a šta ne može da obeća.
+
+Posebno treba izbegavati obećanja o garantovanom upisu, legalizaciji ili roku institucije kada ishod zavisi od dokumentacije i drugih organa. Firma može objasniti svoj deo procesa, okvirne faze i tipične rokove za sopstveni rad. Takva preciznost gradi više poverenja od velikog obećanja koje prodaja kasnije mora da povuče.
+
+Kada se poredi [cena digitalnog marketinga](/cene-digitalnog-marketinga), ovaj deo se često zanemari. Firma gleda agencijsku naknadu i potrošnju na klikove, ali ne računa koliko stručnih sati odlazi na pozive bez osnovnih podataka. Dobra kampanja i landing strana zajedno treba da smanje taj trošak, ne samo da povećaju broj notifikacija.
+
+## Praktičan plan za prvih 30 dana
+
+Prve nedelje odvojite usluge, lokacije i negativne reči. Proverite da li svaki oglas vodi na odgovarajući sadržaj i da li forma prikuplja minimum za procenu. Druge nedelje pregledajte stvarne termine pretrage, snimke poziva ili beleške prodaje i razloge odbijanja.
+
+Treće nedelje povežite leadove sa statusima teren, ponuda i ugovoren posao. Ne povećavajte budžet samo zato što je broj poziva porastao. Četvrte nedelje prebacite novac ka uslugama i lokacijama koje daju kvalifikovane predmete, uz proveru da li tim može na vreme da obradi dodatni obim.
+
+Ako želite da proverimo koje geodetske usluge treba odvojiti, koliko upita vaša zona može da donese i gde kampanja gubi ozbiljne predmete, pošaljite nam gradove koje pokrivate, usluge, prosečnu vrednost posla i trenutne rezultate kroz [kontakt formu](/kontakt). Napravićemo strukturu koja meri teren, ponudu i ugovoren posao, ne samo klik i poziv.
+`,
+  },
+  {
     slug: 'popusti-akcije-marketing-budzet-roi-lead-generation-srbija-2026',
     title: 'Popusti, akcije i marketing budžet u Srbiji 2026: kada veća prodaja spušta ROI',
     excerpt: 'Popust može povećati broj leadova i prodaja, ali smanjiti zaradu po poslu. Evo kako akcijsku cenu povezati sa CPL-om, maržom i budžetom.',
