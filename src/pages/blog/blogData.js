@@ -1,5 +1,133 @@
 const rawBlogPosts = [
   {
+    slug: 'reaktivacija-starih-leadova-prodaja-srbija-2026',
+    title: 'Reaktivacija starih leadova u Srbiji 2026: kako vratiti zaboravljene upite u prodaju',
+    excerpt: 'Stari kvalifikovani leadovi često ostanu bez sledećeg koraka. Evo kako ih segmentirati, ponovo kontaktirati i meriti pre povećanja budžeta.',
+    date: '2026-07-20',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Reaktivacija leadova', 'Prodaja', 'CRM', 'Follow-up', 'Lead Generation'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Zašto firma stalno plaća nove leadove dok stari čekaju
+
+Kampanja dovede upit, prodaja obavi razgovor, pošalje ponudu i čuje: „Javićemo se sledećeg meseca.“ Posle toga niko ne upiše datum ponovnog kontakta. Lead ostane u telefonu, inboxu ili CRM koloni „u toku“, a firma nastavi da plaća nove klikove kako bi popunila prodajni pipeline.
+
+Ovo je česta greška firmi koje rast mere samo brojem novih upita. Deo tražnje je već plaćen, kvalifikovan i upoznat sa ponudom, ali nije dobio smislen sledeći korak kada se promenio budžet, rok ili prioritet kupca. Veći [Google Ads budžet](/google-reklame-cena) tada ne rešava problem. Samo dodaje nove kontakte na postojeću gomilu nezavršenih razgovora.
+
+Reaktivacija nije masovno slanje poruke „Da li ste još zainteresovani?“ svim starim kontaktima. To je kontrolisan prodajni proces za leadove koji su ranije imali realan problem, odgovarali ponudi i odložili odluku iz poznatog razloga.
+
+## Nije svaki stari kontakt kandidat za reaktivaciju
+
+Najpre treba odvojiti kvalifikovanu priliku od običnog zapisa u bazi. Firma često ima stotine kontakata, ali među njima su pogrešni brojevi, kandidati za posao, dobavljači, ljudi izvan zone rada, upiti za usluge koje ne pruža i osobe koje su jasno tražile da ih više ne kontaktirate.
+
+Dobar kandidat za reaktivaciju obično ispunjava nekoliko uslova:
+
+- tražio je uslugu koju firma i dalje pruža;
+- uklapao se u lokaciju, minimalnu vrednost posla i druge kriterijume saradnje;
+- razgovor je završen zbog vremena, budžeta, interne odluke ili odlaganja projekta;
+- postoji beleška o tome šta je kupcu bilo važno;
+- nije već kupio, definitivno odbio ponudu ili povukao saglasnost za kontakt;
+- postoji opravdan i relevantan razlog da mu se firma ponovo javi.
+
+Zato reaktivacija počinje sređivanjem [CRM evidencije za leadove](/blog/crm-za-leadove-evidencija-prodaja-srbija-2026), ne pisanjem univerzalne poruke. Bez statusa i konteksta prodavac ne zna da li nastavlja ozbiljan razgovor ili uznemirava osobu koja nikada nije bila dobar fit.
+
+## Podelite stare leadove po razlogu zastoja
+
+Datum poslednjeg kontakta sam po sebi nije dovoljan. Dva leada koja miruju 90 dana mogu tražiti potpuno različit pristup. Jedan je čekao odobrenje direktora, drugi početak građevinske sezone, a treći nikada nije dobio traženu ponudu.
+
+Praktična segmentacija može da izgleda ovako:
+
+1. **Odložen termin:** potreba postoji, ali je projekat pomeren za određeni mesec ili sezonu.
+2. **Budžet nije bio spreman:** ponuda je odgovarala, ali ulaganje tada nije moglo da se odobri.
+3. **Čeka se donosilac odluke:** kontakt je prikupljao informacije za vlasnika, upravu ili partnera.
+4. **Ponuda je poslata bez odluke:** firma nije dobila jasno „da“ ili „ne“, niti je dogovorila sledeći razgovor.
+5. **Kapacitet firme je bio pun:** lead je bio dobar, ali isporuka nije mogla da počne u traženom roku.
+6. **Promenjen obim posla:** prvobitni zahtev nije odgovarao, ali manji, veći ili drugačiji paket može biti relevantan.
+
+Ova podela određuje poruku. Lead koji je čekao septembar treba da dobije pitanje o aktuelnom roku. Lead koji nije imao budžet treba da dobije jasan cenovni okvir ili faznu opciju, ako ona stvarno postoji. Kontakt koji je čekao upravu treba da dobije materijal koji olakšava internu odluku, ne još jedan generički podsetnik.
+
+## Poruka mora imati razlog, kontekst i lak sledeći korak
+
+Loša reaktivaciona poruka zvuči ovako: „Poštovani, samo proveravamo da li ste zainteresovani za naše usluge.“ Ona prebacuje sav posao na kupca. Ne pokazuje da firma pamti razgovor, ne objašnjava zašto se javlja sada i ne predlaže konkretnu odluku.
+
+Bolja poruka ima četiri dela:
+
+- podsećanje na stvarni kontekst prethodnog razgovora;
+- razlog zbog kog se javljate baš sada;
+- jednu korisnu novu informaciju ili potvrdu;
+- mali, jasan sledeći korak.
+
+Na primer: „Razgovarali smo u aprilu o renoviranju poslovnog prostora, a početak ste planirali za kraj leta. Otvorio nam se termin za procenu u drugoj polovini avgusta. Da li je projekat i dalje aktuelan i da li želite da u četvrtak proverimo obim i rok?“
+
+Poruka nije agresivna, ali traži odluku. Kupac može da potvrdi interesovanje, promeni rok ili zatvori temu. Prodaja dobija status umesto još jednog neodređenog „javićemo se“.
+
+## Jedan podsetnik nije reaktivacioni proces
+
+Neki leadovi neće odgovoriti na prvu poruku jer je stigla u lošem trenutku, a ne zato što više nemaju potrebu. Ipak, to nije dozvola za beskonačno slanje. Kratka sekvenca treba da ima ograničen broj pokušaja, različit razlog za svaki kontakt i jasan kraj.
+
+Za većinu B2B i uslužnih prodaja dovoljno je planirati:
+
+- prvi kontakt sa originalnim kontekstom i pitanjem da li je projekat aktuelan;
+- drugi kontakt nekoliko radnih dana kasnije sa korisnim pojašnjenjem, dostupnim terminom ili relevantnom opcijom;
+- završnu poruku koja kaže da se predmet zatvara ako sada nije prioritet, uz mogućnost da se kupac javi kada bude spreman.
+
+Ovaj pristup se nadovezuje na [follow-up sekvencu za leadove](/blog/follow-up-sekvenca-leadovi-prodaja-srbija-2026), ali reaktivacija ima drugačiji početni signal. Ne nastavlja se jučerašnji razgovor. Obnavlja se starija prilika tek kada postoji kontekst koji opravdava novi kontakt.
+
+## Kada reaktivacija otkrije problem u prodaji, a ne manjak tražnje
+
+Ako veliki broj kvalitetnih leadova stoji bez ishoda, problem možda nije u kampanji. Često se otkrije da ponude nemaju datum sledećeg razgovora, da niko nije vlasnik leadova koji kažu „kasnije“ ili da CRM nema zadatak za ponovni kontakt.
+
+Tada treba proveriti nekoliko stvari:
+
+- da li svaki kvalifikovan lead ima vlasnika;
+- da li je posle razgovora upisan konkretan sledeći korak;
+- da li ponuda ima dogovoren termin za povratnu informaciju;
+- da li postoje razlozi gubitka i odlaganja;
+- da li prodaja vidi izvor, oglas, formu i prethodne beleške;
+- da li se stari zadaci zatvaraju ili samo pomeraju bez odluke.
+
+Tekst o [sledećem koraku posle upita](/blog/sledeci-korak-posle-upita-leadovi-prodaja-srbija-2026) rešava isti princip u svežem razgovoru: lead ne sme da ostane između dve faze bez vlasnika i roka. Reaktivaciona lista pokazuje koliko je takvih propusta firma već nakupila.
+
+## Kako meriti rezultat bez ulepšavanja brojeva
+
+Reaktivirani kontakt nije nova akvizicija i ne treba ga prikazati kao novi lead kampanje. Trošak prvobitnog dovođenja već je nastao, dok nova aktivnost ima trošak prodajnog vremena, alata i eventualne automatizacije. Ako se sve sabere u istu kolonu, izveštaj može lažno poboljšati aktuelni CPL ili pripisati staru priliku poslednjem kanalu koji je poslao poruku.
+
+Za svaku reaktivacionu grupu pratite:
+
+- broj kontakata koji ispunjavaju kriterijume;
+- broj uspešno kontaktiranih osoba;
+- broj potvrđenih aktivnih potreba;
+- broj zakazanih razgovora ili procena;
+- broj novih ili obnovljenih ponuda;
+- broj ugovorenih i naplaćenih poslova;
+- vreme prodaje utrošeno na listu;
+- razlog ponovnog zatvaranja.
+
+Najvažnije je razdvojiti odgovor od komercijalnog ishoda. Poruka „hvala, nije aktuelno“ čisti pipeline, ali nije prodajna prilika. Zakazan razgovor je pomak, ali još nije prihod. Tek prihvaćena ponuda i naplata pokazuju stvarnu vrednost reaktivacije.
+
+## Reaktivacija ne sme da postane spam
+
+Stari kontakt u tabeli nije automatska dozvola za bilo koju poruku. Pre slanja proverite osnov i prethodni odnos, kanal koji je osoba koristila, eventualni zahtev da se kontakt prekine i pravila koja važe za vašu bazu i tržište. Marketinška lista i individualni nastavak konkretnog prodajnog razgovora nisu ista stvar.
+
+Automatizacija može pomoći da se naprave zadaci, segmenti i podsetnici, ali poruka treba da ostane vezana za stvarnu potrebu. Ako firma nema sačuvan kontekst, bolje je prvo očistiti podatke nego pustiti masovnu kampanju koja narušava poverenje.
+
+## Plan za reaktivaciju u narednih sedam dana
+
+Prvog dana izvezite leadove bez aktivnosti u poslednjih 30, 60 ili 90 dana. Drugog dana uklonite pogrešne kontakte, jasne gubitke i osobe koje ne treba kontaktirati. Trećeg dana razvrstajte preostale po razlogu odlaganja, vrednosti prilike i vremenu kada bi potreba mogla ponovo postati aktuelna.
+
+Četvrtog dana napišite po jednu poruku za svaki važan segment. Petog dana neka vlasnik leada proveri belešku i pošalje prvi manji talas, umesto da cela baza dobije istu poruku. Šestog i sedmog dana upišite odgovore, zakažite sledeće korake i proverite da li se ponavlja isti razlog zbog kog su leadovi prvobitno zastali.
+
+Pre nego što povećate [budžet za digitalni marketing](/cene-digitalnog-marketinga), uporedite koliko novih kvalifikovanih leadova kupujete sa brojem starih kvalifikovanih prilika koje nemaju odluku. Novi budžet ima više smisla kada prodajni proces ume da završi razgovore koje marketing već otvara.
+
+Ako želite da pregledamo put od oglasa i landing strane do CRM statusa, reaktivacije i ugovorene prodaje, pošaljite nam trenutne faze, broj starih leadova i način praćenja kroz [kontakt formu](/kontakt). Predložićemo gde treba popraviti kampanju, a gde prodajni proces, pre nego što dodatni budžet kupi još nezavršenih upita.
+`,
+  },
+  {
     slug: 'google-ads-za-geodete-geometre-cena-upita-srbija-2026',
     title: 'Google Ads za geodete i geometre u Srbiji 2026: cena upita i budžet',
     excerpt: 'Geodetska firma ne treba da meri samo pozive. Kampanju treba vezati za lokaciju, vrstu usluge, izlazak na teren, poslatu ponudu i ugovoren posao.',

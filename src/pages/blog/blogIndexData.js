@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "reaktivacija-starih-leadova-prodaja-srbija-2026",
+    "title": "Reaktivacija starih leadova u Srbiji 2026: kako vratiti zaboravljene upite u prodaju",
+    "excerpt": "Stari kvalifikovani leadovi često ostanu bez sledećeg koraka. Evo kako ih segmentirati, ponovo kontaktirati i meriti pre povećanja budžeta.",
+    "date": "2026-07-20",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-geodete-geometre-cena-upita-srbija-2026",
     "title": "Google Ads za geodete i geometre u Srbiji 2026: cena upita i budžet",
     "excerpt": "Geodetska firma ne treba da meri samo pozive. Kampanju treba vezati za lokaciju, vrstu usluge, izlazak na teren, poslatu ponudu i ugovoren posao.",
