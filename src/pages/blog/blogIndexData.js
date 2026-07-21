@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "otkazani-poslovi-marketing-roi-lead-generation-srbija-2026",
+    "title": "Otkazani poslovi i marketing ROI u Srbiji 2026: kada ugovorena prodaja nije prihod",
+    "excerpt": "Prihvaćena ponuda još nije prihod. Saznajte kako otkazani poslovi menjaju realni CAC, profit i odluku o povećanju marketing budžeta.",
+    "date": "2026-07-21",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "reaktivacija-starih-leadova-prodaja-srbija-2026",
     "title": "Reaktivacija starih leadova u Srbiji 2026: kako vratiti zaboravljene upite u prodaju",
     "excerpt": "Stari kvalifikovani leadovi često ostanu bez sledećeg koraka. Evo kako ih segmentirati, ponovo kontaktirati i meriti pre povećanja budžeta.",

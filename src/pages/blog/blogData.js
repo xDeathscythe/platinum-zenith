@@ -1,5 +1,133 @@
 const rawBlogPosts = [
   {
+    slug: 'otkazani-poslovi-marketing-roi-lead-generation-srbija-2026',
+    title: 'Otkazani poslovi i marketing ROI u Srbiji 2026: kada ugovorena prodaja nije prihod',
+    excerpt: 'Prihvaćena ponuda još nije prihod. Saznajte kako otkazani poslovi menjaju realni CAC, profit i odluku o povećanju marketing budžeta.',
+    date: '2026-07-21',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Marketing ROI', 'Otkazani poslovi', 'CAC', 'Marketing budžet', 'Lead Generation'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Zašto prihvaćena ponuda može da napravi lažno dobar ROI
+
+Kampanja dovede lead, prodaja pošalje ponudu i kupac kaže da prihvata. U CRM-u se prilika prebaci u „dobijeno“, marketing dobije zaslugu za prodaju, a firma zaključi da kampanja može da podnese veći budžet. Dve nedelje kasnije kupac odloži projekat, ne uplati avans ili potpuno odustane. Izveštaj i dalje prikazuje prihod koji nikada nije stigao.
+
+Ovo je česta greška firmi koje mere put samo do usmenog „da“ ili prihvaćene ponude. Ugovoren posao jeste važan prodajni signal, ali nije isto što i potvrđen termin, izvršena usluga, izdata faktura i naplaćen prihod. Kada se te faze spoje u jednu, [marketing ROI](/alati/roi-kalkulator) izgleda bolje nego poslovni račun.
+
+Problem nije samo u lepšem izveštaju. Na osnovu tog broja firma određuje maksimalni CAC, povećava [Google Ads budžet](/google-reklame-cena), zapošljava ljude i rezerviše kapacitet. Ako deo navodno dobijenih poslova redovno otpada, dodatni budžet ubrzava pogrešnu računicu.
+
+## Gde se otkazivanje krije između leada i naplate
+
+Prodajni funnel se često završava statusom „ponuda prihvaćena“. Operativa zatim vodi svoje tabele, računovodstvo vidi fakture, a marketing nikada ne dobije informaciju da posao nije realizovan. Svaki tim ima deo istine, ali niko nema ceo komercijalni ishod.
+
+Za uslužnu firmu smislen niz statusa može da izgleda ovako:
+
+1. novi upit;
+2. kvalifikovan lead;
+3. održan razgovor ili procena;
+4. poslata ponuda;
+5. ponuda prihvaćena;
+6. avans ili rezervacija plaćena;
+7. termin ili početak posla potvrđen;
+8. posao isporučen;
+9. faktura naplaćena;
+10. posao otkazan, odložen ili refundiran.
+
+Ne mora svaka firma da koristi baš deset statusa. Mora, međutim, da razdvoji komercijalnu nameru od novca koji je stvarno zadržan. Tekst o [avansu i roku naplate](/blog/avans-rok-naplate-marketing-budzet-lead-generation-srbija-2026) objašnjava vremenski deo problema. Otkazani posao dodaje još jedno pitanje: koliki deo prodaje evidentirane u CRM-u uopšte stigne do isporuke i naplate?
+
+## Primer: isti budžet, dva potpuno različita CAC-a
+
+Pretpostavimo da firma u jednom mesecu uloži 100.000 dinara u oglase i još 40.000 dinara u vođenje, landing stranu, alate i prodajnu podršku. Ukupan trošak akvizicije je 140.000 dinara.
+
+Kampanja donese 20 kvalifikovanih leadova, a pet kupaca prihvati ponudu. Ako se izveštaj tu zaustavi, CAC je 28.000 dinara po kupcu. Broj izgleda zdravo i tim predlaže povećanje budžeta.
+
+Ali dva kupca odustanu pre avansa i samo tri posla budu realizovana. Realni CAC nije 28.000, već približno 46.667 dinara po naplaćenom kupcu. Stopa otkazivanja među prihvaćenim poslovima je 40%.
+
+Ako svaki realizovan posao nosi 80.000 dinara bruto dobiti, prvobitni izveštaj računa 400.000 dinara bruto dobiti i 260.000 dinara nakon troška akvizicije. Stvarni rezultat je 240.000 dinara bruto dobiti i 100.000 dinara nakon tog troška. Kampanja možda i dalje ima smisla, ali nema isti prostor za skaliranje.
+
+Ovo nije argument da se oglasi ugase. To je argument da se [cena kvalifikovanog leada](/blog/cena-kvalifikovanog-leada-marketing-budzet-srbija-2026) poveže sa realizovanim poslovima, umesto da se budžet ocenjuje samo po formama i prihvaćenim ponudama.
+
+## Tri broja koja treba odvojiti
+
+Da bi odluka o budžetu bila poštena, pratite najmanje tri pokazatelja:
+
+- **CAC po prihvaćenoj ponudi:** ukupan trošak akvizicije podeljen brojem kupaca koji su rekli „da“;
+- **stopa realizacije:** broj isporučenih i naplaćenih poslova podeljen brojem prihvaćenih ponuda;
+- **realizovani CAC:** ukupan trošak akvizicije podeljen brojem isporučenih i naplaćenih poslova.
+
+Prvi broj meri sposobnost marketinga i prodaje da dođu do odluke. Drugi meri koliko tih odluka preživi period do isporuke. Treći pokazuje koliko firma zaista plaća kupca koji je doneo prihod.
+
+Za poslove sa dugim rokom korisno je prikazati i kohorte. Leadovi iz januara ne treba da se proglase neuspešnim ako se poslovi standardno realizuju u martu, ali ni „dobijenim“ zauvek ako nema avansa, termina i aktivnosti. Povežite ih sa mesecom nastanka, planiranim datumom realizacije i konačnim ishodom.
+
+## Nije svako otkazivanje marketinški problem
+
+Firma često vidi otkazane poslove i odmah zaključi da su leadovi loši. Ponekad jesu: oglas je privukao pogrešan cenovni segment, forma nije proverila lokaciju ili je kampanja optimizovana za najlakši upit umesto za komercijalni fit. Tada treba popraviti targetiranje, poruku, kvalifikaciju i signal koji se vraća platformi.
+
+Ali ozbiljan lead može da odustane i zbog problema posle prodaje:
+
+- ponuda nije precizirala obim, rok ili uslove;
+- niko nije poslao instrukcije za avans;
+- termin nije potvrđen dovoljno brzo;
+- prodaja je obećala rok koji operativa ne može da ispuni;
+- kupac nije razumeo šta ulazi u cenu;
+- između prihvatanja i početka posla nije bilo kontakta;
+- firma je preuzela više posla nego što njen kapacitet može da podnese.
+
+Zato razlog otkazivanja mora biti obavezno polje, ne slobodna beleška „odustao“. Kategorije mogu biti cena, promenjen rok kupca, finansiranje, konkurentska ponuda, nejasan obim, nedostupan termin, interna greška, duplikat ili odlaganje sa poznatim datumom. Tek tada se vidi da li treba menjati kampanju, prodajni proces, uslove naplate ili isporuku.
+
+## Kako otkazani poslovi menjaju maksimalni CPL
+
+Maksimalni CPL se obično računa iz dozvoljenog CAC-a i [stope zatvaranja leadova](/blog/stopa-zatvaranja-leadova-marketing-budzet-srbija-2026). Ako firma može da plati 50.000 dinara za novog kupca i zatvara 20% kvalifikovanih leadova, početna računica dozvoljava 10.000 dinara po kvalifikovanom leadu.
+
+Ta računica pretpostavlja da prihvaćeni posao postane stvarni kupac. Ako se realizuje samo 75% prihvaćenih poslova, efektivna stopa od kvalifikovanog leada do naplaćenog kupca nije 20%, već 15%. Maksimalni CPL tada pada na 7.500 dinara ako dozvoljeni CAC ostaje isti.
+
+Druga opcija nije automatsko smanjenje budžeta. Firma može da popravi stopu realizacije jasnijom ponudom, avansom, bržom potvrdom termina, realnijim rokovima ili boljim handoff-om iz prodaje u operativu. Poboljšanje posle prodajnog „da“ često podiže profit bez kupovine ijednog dodatnog klika.
+
+## Odvojite otkazivanje od odlaganja i povraćaja
+
+Status „izgubljeno“ je previše grub za ozbiljnu analizu. Kupac koji je pomerio radove za septembar nije isto što i kupac koji je izabrao konkurenta. Posao otkazan zbog greške firme nije isto što i projekat koji je propao zbog dozvole, kredita ili promene plana kupca. Refundirana usluga ima drugačiji trošak od posla koji nikada nije ni počeo.
+
+Najmanje razdvojite:
+
+- **otkazano pre avansa:** namera nije pretvorena u finansijsku obavezu;
+- **otkazano posle avansa:** proverite povraćaj, ugovorne uslove i već nastale troškove;
+- **odloženo:** postoji novi datum i vlasnik sledećeg kontakta;
+- **delimično realizovano:** prihod i trošak priznaju se samo za stvarni obim;
+- **refundirano ili reklamirano:** prihod možda postoji u fakturi, ali nije zadržan kao kvalitetna prodaja.
+
+Ova podela treba da se spoji sa [varijabilnim troškovima](/blog/varijabilni-troskovi-marketing-budzet-lead-generation-srbija-2026). Otkazan posao može ostaviti trošak izlaska na teren, nabavke materijala, rezervisanog termina, provizije ili prodajnog vremena čak i kada prihod nestane.
+
+## Kada je bezbedno povećati marketing budžet
+
+Budžet ima smisla povećati kada poslednjih nekoliko kohorti pokazuje stabilan put od kvalifikovanog leada do naplaćenog posla. Nije dovoljno da Ads nalog ima jeftin CPL ili da CRM ima mnogo zelenih prilika.
+
+Pre povećanja proverite:
+
+- koliko prihvaćenih ponuda dobije avans ili potvrđen termin;
+- koliko započetih poslova bude isporučeno;
+- koliko fakturisanog prihoda bude naplaćeno;
+- koji razlozi otkazivanja se ponavljaju;
+- da li prodaja obećava ono što operativa može da isporuči;
+- koliki su realni CAC, bruto dobit i period povrata po naplaćenom kupcu;
+- da li dodatni obim povećava [troškove digitalnog marketinga](/cene-digitalnog-marketinga) brže nego zadržani profit.
+
+Ako je kampanja dobra, a realizacija slaba, prvo popravite poslednju deonicu. Ako su i kvalifikacija i realizacija stabilne, veći budžet ima čvršću osnovu.
+
+## Plan za narednih 30 dana
+
+Prve nedelje dodajte jasne CRM statuse od prihvaćene ponude do naplate. Druge nedelje pregledajte sve poslove označene kao dobijene u prethodna tri meseca i proverite koji su realizovani, odloženi ili otkazani. Treće nedelje grupišite razloge otkazivanja i dodelite vlasnika svakoj korekciji: marketingu, prodaji, operativi ili finansijama.
+
+Četvrte nedelje ponovo izračunajte CAC i profit po naplaćenom kupcu. Zatim uporedite rezultat sa starim izveštajem koji se završavao na prihvaćenoj ponudi. Razlika pokazuje da li firmi treba više leadova ili bolji sistem koji već ugovorene poslove pretvara u zadržan prihod.
+
+Ako želite da pre povećanja budžeta povežemo oglase, CRM statuse, prihvaćene ponude, otkazivanja i naplatu, pošaljite nam postojeći funnel kroz [kontakt formu](/kontakt). Dobićete jasan pregled gde ROI stvarno nastaje, a gde ga izveštaj samo prerano proglašava.
+`,
+  },
+  {
     slug: 'reaktivacija-starih-leadova-prodaja-srbija-2026',
     title: 'Reaktivacija starih leadova u Srbiji 2026: kako vratiti zaboravljene upite u prodaju',
     excerpt: 'Stari kvalifikovani leadovi često ostanu bez sledećeg koraka. Evo kako ih segmentirati, ponovo kontaktirati i meriti pre povećanja budžeta.',
