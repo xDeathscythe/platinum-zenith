@@ -1,5 +1,130 @@
 const rawBlogPosts = [
   {
+    slug: 'trosak-prodaje-marketing-roi-lead-generation-srbija-2026',
+    title: 'Trošak prodaje i marketing ROI u Srbiji 2026: kada jeftin lead postaje skup kupac',
+    excerpt: 'Jeftin lead nije jeftin kupac ako prodaja troši sate, izlaske i ponude. Naučite kako da uključite trošak prodaje u CAC, ROI i marketing budžet.',
+    date: '2026-07-22',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Trošak prodaje', 'Marketing ROI', 'CAC', 'Marketing budžet', 'Lead Generation'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Jeftin lead ne znači da je akvizicija jeftina
+
+Kampanja donese 30 upita po ceni koja izgleda odlično. Izveštaj je zelen, telefon zvoni i marketing predlaže veći budžet. Međutim, prodajni tim provede desetine sati na pozivima, izlascima na teren, procenama, sastancima i ponudama. Na kraju samo nekoliko ljudi postane kupac.
+
+Ovo je česta greška firmi koje [cenu Google Ads kampanje](/google-reklame-cena) porede samo sa brojem formi i poziva. Oglas jeste platio dolazak leada, ali neko zatim mora da proveri fit, razume problem, pripremi rešenje, odgovori na prigovore i zatvori posao. Taj rad nije besplatan samo zato što ga obavlja vlasnik ili zaposleni sa fiksnom platom.
+
+Kada se trošak prodaje izostavi, CPL izgleda nizak, CAC deluje prihvatljivo, a marketing ROI se računa na nepotpunom trošku. Firma tada može da poveća budžet baš za kampanju koja joj puni kalendar razgovorima, ali ne i račun profitom.
+
+## Šta sve ulazi u trošak prodaje
+
+Trošak prodaje nije samo provizija komercijaliste. Za uslužnu firmu on može da obuhvati:
+
+- vreme za prvi odgovor, poziv i kvalifikaciju;
+- dodatne razgovore sa kolegama ili donosiocem odluke;
+- pripremu procene, predloga, ponude ili prezentacije;
+- izlazak na teren, gorivo, putarinu i vreme u prevozu;
+- demo, probni rad, uzorke ili besplatnu analizu pre odluke;
+- prodajne i CRM alate;
+- proviziju, bonus ili spoljnu prodajnu podršku;
+- vreme provedeno u praćenju ponude i administraciji;
+- oportunitetni trošak kada senior ili vlasnik prodaje umesto da isporučuje naplativ posao.
+
+Ne treba praviti komplikovan računovodstveni model za svaki poziv. Treba uhvatiti dovoljno troška da odluka o budžetu ne počiva na pretpostavci da prodaja radi bez vremena, plate i kapaciteta.
+
+Najjednostavniji početak je da se za svaki tip leada izmeri prosečan broj prodajnih sati, broj sastanaka ili izlazaka i broj pripremljenih ponuda do jednog dobijenog posla. Zatim se taj rad pretvara u realan interni trošak.
+
+## Primer: CAC od 34.000 zapravo iznosi 58.000 dinara
+
+Pretpostavimo da firma tokom meseca uloži 120.000 dinara u oglase i još 50.000 dinara u vođenje kampanje, alate i landing stranu. Kampanja dovede 30 kvalifikovanih leadova, a pet postanu kupci.
+
+Ako se račun završi na marketinškom trošku od 170.000 dinara, CAC iznosi 34.000 dinara po kupcu. To izgleda kao zdrava osnova za povećanje budžeta.
+
+Prodaja je, međutim, potrošila 45 sati. Ako interni trošak tog vremena iznosi 2.000 dinara po satu, to je dodatnih 90.000 dinara. Šest procena na terenu, sa vremenom i direktnim troškom od po 5.000 dinara, dodaju još 30.000 dinara.
+
+Ukupan trošak akvizicije tada nije 170.000, već 290.000 dinara. Stvarni CAC je 58.000 dinara po kupcu. Kampanja nije automatski loša, ali ima 24.000 dinara manje prostora po kupcu nego što je prvi izveštaj pokazivao.
+
+Ako svaki od pet poslova nosi po 100.000 dinara bruto dobiti, ukupna bruto dobit je 500.000 dinara. Posle punog troška akvizicije ostaje 210.000 dinara, a ne 330.000 koliko bi ostalo kada bi se prodajni rad tretirao kao besplatan. To je razlika između razumnog testa i samouverenog skaliranja na pogrešnoj osnovi.
+
+## Najskuplji lead često nije onaj sa najvišim CPL-om
+
+Firma može imati dve kampanje sa istim brojem kupaca. Prva donosi upite po 4.000 dinara, ali svaki traži tri poziva, detaljnu procenu i sastanak na terenu. Druga donosi upite po 7.000 dinara, ali kupci tačno znaju koju uslugu žele, odgovaraju cenovnom segmentu i donose odluku posle jednog razgovora.
+
+Ako se gleda samo CPL, prva kampanja pobeđuje. Ako se meri ukupan CAC i prodajni rad, druga može biti profitabilnija i lakša za skaliranje.
+
+Zato [cena kvalifikovanog leada](/blog/cena-kvalifikovanog-leada-marketing-budzet-srbija-2026) mora da se spoji sa vremenom do ponude, brojem prodajnih koraka i stopom zatvaranja. Kvalifikacija nije samo odgovor na pitanje da li osoba ima interesovanje. Ona treba da pokaže da li lead odgovara usluzi, lokaciji, budžetu, roku i načinu na koji firma prodaje.
+
+## Odvojite marketinški CPL, prodajni trošak i puni CAC
+
+Jedna zbirna cifra je korisna za odluku o profitu, ali nije dovoljna za dijagnozu. Pratite najmanje četiri nivoa:
+
+1. **Marketinški CPL:** trošak oglasa i pripadajuće kampanje po sirovom ili kvalifikovanom leadu.
+2. **Trošak prodaje po leadu:** prodajni sati, sastanci, procene, alati i direktni troškovi podeljeni brojem obrađenih leadova.
+3. **Trošak prodaje po kupcu:** ukupan prodajni trošak podeljen brojem dobijenih i naplaćenih kupaca.
+4. **Puni CAC:** svi opravdani troškovi marketinga i prodaje podeljeni brojem stvarnih kupaca.
+
+Tekst [CPL nije CAC](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026) objašnjava zašto forma nije kupac. Trošak prodaje dodaje sledeći sloj: čak ni prelazak od forme do kupca nije besplatan.
+
+Za precizniji pregled odvojite rezultate po ponudi, izvoru i prodajnom procesu. Lead za standardizovanu uslugu može se zatvoriti za 15 minuta. Veći B2B projekat može zahtevati tri osobe, obilazak i više verzija ponude. Njihov puni CAC ne treba mešati u prosek koji ne opisuje nijedan stvarni posao.
+
+## Kako trošak prodaje menja maksimalni CPL
+
+Maksimalni CPL ne treba računati direktno iz bruto dobiti kao da posle leada nema drugih troškova. Prvo odredite koliko firma ukupno može da plati za novog kupca, a zatim od tog iznosa oduzmite očekivani prodajni trošak po kupcu.
+
+Na primer, dozvoljeni puni CAC je 60.000 dinara. Prodajni rad, sastanci i alati prosečno koštaju 24.000 dinara po dobijenom kupcu. Za marketing ostaje 36.000 dinara po kupcu.
+
+Ako 20% kvalifikovanih leadova postane kupac, maksimalni marketing trošak po kvalifikovanom leadu je 7.200 dinara. Ignorisanje prodajnog troška bi dalo limit od 12.000 dinara i kampanji pripisalo prostor koji firma zapravo nema.
+
+Ovaj račun ne mora da bude savršen do dinara. Mora da bude dovoljno pošten da [ROI kalkulator](/alati/roi-kalkulator) ne koristi prihod, maržu i stopu zatvaranja sa jedne strane, a samo trošak klikova sa druge.
+
+## Kada problem nije u kampanji nego u načinu prodaje
+
+Visok trošak prodaje ne znači automatski da marketing dovodi loše leadove. Često prodajni proces sam pravi nepotreban rad:
+
+- forma ne prikuplja osnovne podatke, pa prodaja sve pita ponovo;
+- svaki lead dobija potpuno prilagođenu ponudu pre provere budžeta;
+- sastanak se zakazuje i kada osoba nije donosilac odluke;
+- cenovni okvir se krije do kasne faze;
+- ista pitanja se objašnjavaju ručno umesto na landing strani;
+- ponuda nema jasan sledeći korak, pa nastaje dugačak follow-up;
+- ne postoje kriterijumi za zaustavljanje razgovora sa pogrešnim fitom.
+
+Pre nego što se smanji budžet, pogledajte [analizu prodajnih poziva](/blog/analiza-prodajnih-poziva-kampanje-leadovi-srbija-2026) i proverite gde vreme odlazi. Ako dobri leadovi prolaze kroz pet koraka koji mogu stati u dva, kampanja nije glavni problem. Problem je skupa prodajna putanja.
+
+## Kada je jeftinija prodaja dobra, a kada opasna
+
+Cilj nije da prodaja potroši što manje vremena po svaku cenu. Za kompleksnu ili skupu uslugu kvalitetna procena, razgovor i jasna ponuda mogu podići stopu zatvaranja, prosečnu vrednost posla i poverenje. Sečenje važnog koraka može smanjiti trošak po leadu, ali povećati broj pogrešno ugovorenih ili otkazanih poslova.
+
+Treba ukloniti rad koji ne menja odluku, ne povećava fit i ne smanjuje rizik. Dobar prodajni trošak pomaže da se dobije profitabilan posao. Loš prodajni trošak ponavlja informacije, juri nekvalifikovane kontakte i proizvodi ponude koje niko ne razmatra.
+
+Zato se uz sate prati i rezultat: kvalifikovan razgovor, održan sastanak, poslata ponuda, prihvaćena ponuda, avans, realizovan posao i naplaćen prihod. Manje sati nije pobeda ako padnu kvalitet i realizacija.
+
+## Kontrolna tabla za odluku o budžetu
+
+Pre sledećeg povećanja [budžeta za digitalni marketing](/cene-digitalnog-marketinga), za svaku važnu ponudu izvucite:
+
+- broj sirovih i kvalifikovanih leadova;
+- marketinški trošak po kvalifikovanom leadu;
+- prosečne prodajne sate po leadu i po kupcu;
+- broj poziva, sastanaka, procena i ponuda;
+- stopu prelaska iz kvalifikovanog leada u kupca;
+- puni CAC po naplaćenom kupcu;
+- bruto dobit posle punog troška akvizicije;
+- prodajni kapacitet za dodatni obim.
+
+Ako dodatni budžet donosi leadove koje prodaja može brzo da kvalifikuje i profitabilno zatvori, skaliranje ima smisla. Ako svaki novi talas traži više ručnog rada i spušta stopu zatvaranja, jeftin CPL skriva zagušenje.
+
+Postavite jedan mesec kao početni period merenja. Ne tražite od prodaje da vodi štopericu za svaku poruku. Grupisanje aktivnosti po tipu leada i ponude već će pokazati gde se troše sati bez komercijalnog ishoda.
+
+Ako želite da pre povećanja budžeta spojimo trošak oglasa, kvalitet leadova, prodajne sate, puni CAC i profit po ponudi, pošaljite nam trenutne brojke kroz [kontakt formu](/kontakt). Dobićete jasan pregled šta vredi skalirati, a koji deo prodajnog puta prvo mora da se skrati ili popravi.
+`,
+  },
+  {
     slug: 'otkazani-poslovi-marketing-roi-lead-generation-srbija-2026',
     title: 'Otkazani poslovi i marketing ROI u Srbiji 2026: kada ugovorena prodaja nije prihod',
     excerpt: 'Prihvaćena ponuda još nije prihod. Saznajte kako otkazani poslovi menjaju realni CAC, profit i odluku o povećanju marketing budžeta.',

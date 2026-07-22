@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "trosak-prodaje-marketing-roi-lead-generation-srbija-2026",
+    "title": "Trošak prodaje i marketing ROI u Srbiji 2026: kada jeftin lead postaje skup kupac",
+    "excerpt": "Jeftin lead nije jeftin kupac ako prodaja troši sate, izlaske i ponude. Naučite kako da uključite trošak prodaje u CAC, ROI i marketing budžet.",
+    "date": "2026-07-22",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "otkazani-poslovi-marketing-roi-lead-generation-srbija-2026",
     "title": "Otkazani poslovi i marketing ROI u Srbiji 2026: kada ugovorena prodaja nije prihod",
     "excerpt": "Prihvaćena ponuda još nije prihod. Saznajte kako otkazani poslovi menjaju realni CAC, profit i odluku o povećanju marketing budžeta.",
