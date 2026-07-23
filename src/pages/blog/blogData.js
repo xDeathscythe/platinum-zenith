@@ -1,5 +1,170 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-auto-elektricare-cena-poziva-srbija-2026',
+    title: 'Google Ads za auto-električare u Srbiji 2026: cena poziva i budžet',
+    excerpt: 'Google Ads za auto-električare treba meriti po zakazanoj dijagnostici i prihvaćenoj popravci, ne po pozivima. Pogledajte kampanje, budžet i filtere.',
+    date: '2026-07-23',
+    readTime: '8 min read',
+    category: 'Google Ads',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Auto-električari', 'Auto-dijagnostika', 'Cena poziva', 'Marketing budžet'],
+    image: '/hero-google-ads.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Auto-električaru ne treba više poziva, već više popravki koje prihvata
+
+Vozač kome automobil ne pali, prazni akumulator, prijavljuje grešku ili gubi snagu ne traži marketinški sadržaj. Traži nekoga ko može da dijagnostikuje kvar, kaže kada može da primi vozilo i objasni šta sledi. To je jak komercijalni intent, ali nije svaki klik dobar posao.
+
+Česta greška servisa je da [Google Ads kampanju](/google-reklame-cena) meri brojem telefonskih poziva. U isti rezultat tada ulaze vlasnik vozila spreman da zakaže dijagnostiku, osoba koja traži besplatan savet, kupac jednog dela, kandidat za posao i vozač udaljen 150 kilometara. Telefon zvoni, a radionica i dalje nema dovoljno prihvaćenih popravki.
+
+Za auto-električara prava putanja izgleda ovako: relevantna pretraga, razgovor sa osnovnim podacima o vozilu, zakazana dijagnostika, dovezeno vozilo, potvrđen obim rada, prihvaćena popravka i naplaćen posao. Kampanju treba optimizovati prema toj putanji, ne prema sirovom broju poziva.
+
+## Zašto auto-elektrika zaslužuje odvojenu kampanju od opšteg autoservisa
+
+Postoji već širok intent za [Google Ads za autoservise](/blog/google-ads-za-autoservise-cena-leada-srbija-2026), ali auto-elektrika ima drugačije simptome, pitanja i vrednost posla. Osoba koja traži zamenu ulja ne ponaša se isto kao vozač kome automobil povremeno neće da upali ili elektronika prijavljuje kvar koji drugi servis nije rešio.
+
+Ako se sve usluge stave u jednu kampanju i pošalju na istu stranu, najčešće pobede najšire i najlakše pretrage. Budžet odlazi na generički „auto servis“, dok profitabilnije dijagnostike i složeniji električni kvarovi nemaju jasnu poruku ni sopstvenu kontrolu budžeta.
+
+Odvajanje ne služi da nalog izgleda komplikovanije. Služi da oglas, ključna reč, landing strana i razgovor u servisu odgovaraju istom problemu.
+
+## Podelite kampanje prema kvaru i nameri vozača
+
+Za većinu specijalizovanih radionica razumna početna struktura može da ima sledeće grupe:
+
+1. **Auto-dijagnostika i lampice greške:** dijagnostika motora, check engine, greška elektronike, očitavanje i pronalaženje kvara.
+2. **Anlaser, alternator i punjenje:** automobil ne pali, problem sa punjenjem, remont ili zamena anlasera i alternatora.
+3. **Akumulator i parazitska potrošnja:** akumulator se prazni, vozilo gubi struju, merenje potrošnje i provera instalacije.
+4. **Instalacije i elektronski kvarovi:** svetla, podizači, centralna brava, senzori, osigurači, instalacija i prekidi.
+5. **Posebne usluge:** kodiranje, programiranje, elektronika određenih marki ili auto-klima, samo ako ih radionica zaista radi.
+
+Radionica koja ne popravlja module, ne radi kamione ili ne prima određene marke ne treba da plaća te upite iz pristojnosti. Ponuda mora da odredi strukturu kampanje. Ne treba prvo kupiti sav mogući saobraćaj, pa tek onda objašnjavati ljudima šta servis ne radi.
+
+Ako postoje različite lokacije ili bitno različiti kapaciteti, odvojite ih. Radionica sa jednim slobodnim terminom dnevno ne treba isti budžet i raspored oglasa kao servis koji može da primi osam vozila.
+
+## Ključne reči moraju da prate simptom, ne samo naziv usluge
+
+Mnogi vozači ne znaju da li im je problem anlaser, alternator, akumulator, senzor ili instalacija. Oni pretražuju simptom: „auto vergla ali neće da upali“, „prazni akumulator preko noći“, „upalila se lampica akumulatora“ ili „ne rade podizači stakala“.
+
+Zato kampanja ne treba da zavisi samo od izraza „auto-električar“. Napravite kontrolisane grupe oko konkretnih problema koje radionica može profitabilno da reši. Oglas može da potvrdi simptom, navede grad ili zonu i ponudi jasan sledeći korak: poziv za proveru termina ili zakazivanje dijagnostike.
+
+Međutim, ne treba svaku informativnu rečenicu pretvoriti u ključnu reč. Upiti za šeme instalacije, tutorijale i popravke kod kuće često donose radoznalost, ne vozilo u radionicu. Search terms izveštaj mora da se proverava redovno, posebno u prvim nedeljama testa.
+
+## Negativne ključne reči čuvaju vreme majstora
+
+Lista negativnih reči zavisi od usluga, ali početne grupe često uključuju:
+
+- posao, plata, praksa, kurs, škola i obuka;
+- šema, pdf, forum, tutorijal, sam svoj majstor i „kako popraviti“;
+- polovno, oglas, prodaja dela i cena dela, ako servis ne prodaje delove zasebno;
+- kućni električar, elektroinstalacije za stan i druge slične nerelevantne pojmove;
+- marke, modele i kategorije vozila koje radionica ne prima;
+- gradove i naselja van realne servisne zone;
+- besplatna dijagnostika, ako ponuda to ne uključuje;
+- kamion, autobus, motor, poljoprivredna mašina ili plovilo, kada nisu podržani.
+
+Preširoka negativna lista može da ukloni dobar saobraćaj, pa je ne prepisujte naslepo. Na primer, izraz „cena“ nije loš intent. Vozač koji pita koliko košta dijagnostika može biti ozbiljan kupac. Problem je kada strana ne objašnjava da cena zavisi od tipa provere i šta kupac dobija za taj iznos.
+
+## Landing strana mora da odgovori na pitanja pre poziva
+
+Slanje svakog klika na početnu stranu servisa obično tera vozača da sam traži da li radite njegov kvar, gde se nalazite i kada može da dođe. Kod hitnijeg problema, taj dodatni napor je dovoljan da izabere sledeći rezultat.
+
+Landing strana za auto-elektriku treba jasno da pokaže:
+
+- koje kvarove i tipove vozila servis prima;
+- grad, adresu, servisnu zonu i mogućnost šlepa ako postoji;
+- da li je potrebno zakazivanje;
+- šta obuhvata početna dijagnostika;
+- okvir ili način formiranja cene, bez lažnog obećanja jedne cene za svaki kvar;
+- realno radno vreme i očekivani odgovor;
+- fotografije radionice, opreme i ljudi koji rade posao;
+- recenzije povezane sa sličnim kvarovima;
+- jedan glavni CTA: poziv ili kratak zahtev za termin.
+
+Poruka oglasa i prvi ekran moraju da se poklapaju. Ako oglas kaže „dijagnostika danas“, strana ne sme da krije raspoloživost ili da servis zapravo prima tek sledeće nedelje. Kratkoročno će oglas dobiti klik. Dugoročno će dobijati ljute pozive i loše podatke.
+
+## Forma treba da kvalifikuje kvar bez glumljenja servisne dijagnostike
+
+Forma ne može da utvrdi kvar. Može da prikupi dovoljno podataka da servis proceni da li je upit relevantan i kako da organizuje sledeći korak. Korisna polja su:
+
+- marka, model i godište vozila;
+- kratak opis simptoma i lampica koje se pale;
+- da li vozilo može da se vozi;
+- kada se problem javlja i da li je već rađena dijagnostika;
+- grad ili lokacija vozila;
+- željeni termin;
+- telefon i način kontakta;
+- opcija za fotografiju ili video instrument table, kada sistem to podržava.
+
+Nemojte tražiti deset tehničkih odgovora koje prosečan vozač ne zna. Cilj [kontakt forme za kvalifikaciju](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026) je da odvoji servisni fit i hitnost, a ne da kupac sam pronađe uzrok kvara.
+
+Za urgentne probleme telefon treba da ostane vidljiv. Za situacije van radnog vremena forma ili poruka mogu da sačuvaju kontekst, ali sledećeg jutra neko mora da preuzme upit. Neodgovorena poruka nije lead u obradi.
+
+## Koliki budžet ima smisla za auto-električara
+
+Ne postoji jedna bezbedna cifra za celu Srbiju. Budžet zavisi od grada, konkurencije, širine zone, broja usluga, vrednosti popravke, stope zakazivanja i broja vozila koje radionica može da primi.
+
+Umesto nagađanja, računajte unazad. Pretpostavimo da servis želi 20 dodatnih prihvaćenih popravki mesečno. Ako 50% kvalifikovanih razgovora postane zakazana dijagnostika, 80% zakazanih vozila dođe, a 70% dijagnostikovanih prihvati popravku, potrebno je približno 72 kvalifikovana razgovora da bi se dobilo oko 20 poslova.
+
+Ako radionica može profitabilno da plati do 4.000 dinara za novog kupca, a 28% kvalifikovanih razgovora postaje naplaćen posao, okvirni maksimalni trošak kvalifikovanog razgovora je oko 1.120 dinara. To nije tržišni benchmark. To je primer kako sopstvena marža i prodajni ishod određuju limit.
+
+U račun uključite oglase, vođenje, landing stranu, praćenje i vreme prijema. Tek tada [cena digitalnog marketinga](/cene-digitalnog-marketinga) može da se poredi sa realizovanom bruto dobiti, a ne samo sa prometom.
+
+Početni budžet treba da kupi dovoljno relevantnih pretraga da se vide search terms, stopa kvalifikacije i zakazivanja. Premali test koji donese tri poziva ne dokazuje ni da kampanja radi ni da ne radi. Preveliki budžet bez praćenja samo brže plaća iste greške.
+
+## Lokacija, vreme i kapacitet menjaju rezultat kampanje
+
+Auto-elektrika je lokalna usluga. Targetiranje cele zemlje nema smisla za radionicu koja prima vozila samo u jednom gradu, osim ako radi retke i dovoljno vredne specijalističke popravke zbog kojih kupci stvarno putuju.
+
+Proverite odakle dolaze zakazana i dovezena vozila, ne samo klikovi. Radius na mapi nije dovoljan ako put, gužva ili reka čine jednu zonu praktično nedostupnom. Budžet po lokaciji treba menjati prema prihvaćenim poslovima i njihovoj vrednosti.
+
+Raspored oglasa takođe mora da prati mogućnost odgovora. Ako se noću ne javlja niko, oglas može da vodi na formu sa jasnim očekivanjem kada sledi odgovor. Tokom radnog vremena propušten poziv treba evidentirati i vratiti brzo. Tekst o [brzini odgovora na upit](/blog/brzina-odgovora-na-upit-follow-up-prodaja-srbija-2026) vredi isto za radionicu kao i za kancelarijsku prodaju: ozbiljan kupac često kontaktira više servisa dok je problem aktuelan.
+
+## Pratite status vozila, ne samo Google konverziju
+
+Poziv duži od određenog broja sekundi može biti koristan signal, ali nije dokaz popravke. Za realnu procenu kampanje uvedite jednostavne statuse:
+
+1. nerelevantan upit;
+2. relevantan razgovor;
+3. zakazana dijagnostika;
+4. vozilo dovezeno;
+5. ponuda ili procena potvrđena;
+6. popravka prihvaćena;
+7. posao završen i naplaćen;
+8. odbijeno, uz razlog.
+
+Razlog odbijanja je važan. „Preskupo“, „nema termina“, „ne radimo tu marku“, „predaleko“, „traži samo deo“ i „nije došao“ zahtevaju različite popravke. Jedna stavka „nije kupljeno“ ne govori da li treba menjati ključne reči, cenu, raspored, servisnu zonu ili prijem poziva.
+
+Kada ima dovoljno kvalitetnih podataka, jači statusi mogu da se vrate u Google Ads kao kvalifikovane ili offline konverzije. Tako algoritam ne uči samo ko najlakše zove, već kakav upit češće postaje stvarni posao. Osnova je ispravno [praćenje konverzija](/blog/pracenje-konverzija-lead-generation-srbija-2026), a ne još jedna tabela koju niko ne ažurira.
+
+## Najčešće greške koje pojedu budžet
+
+Kod auto-servisnih kampanja često se ponavljaju isti problemi:
+
+- sve usluge i svi kvarovi nalaze se u jednoj grupi oglasa;
+- klikovi se šalju na generičku početnu stranu;
+- targetiranje obuhvata mesta iz kojih kupci realno ne dolaze;
+- oglas obećava hitan prijem bez provere kapaciteta;
+- svaki poziv se računa kao uspeh;
+- nema evidencije da li je vozilo dovezeno;
+- administracija ne zna iz koje kampanje je poziv stigao;
+- search terms se ne proveravaju;
+- servis plaća upite za delove, poslove i besplatne savete;
+- budžet raste pre nego što se izmeri prihvaćena popravka i marža.
+
+Nijedna od ovih grešaka ne znači da „Google Ads ne radi za majstore“. Znači da je sistem kupovao kontakte bez veze sa raspoloživim terminom, stvarnim servisnim fitom i naplaćenim poslom.
+
+## Šta proveriti pre pokretanja kampanje
+
+Pre prvog dinara oglasa zapišite koje usluge želite da prodajete, koje ne radite, koliku zonu realno pokrivate, koliko vozila možete da primite i ko odgovara na pozive. Zatim definišite status koji smatrate pravim poslovnim rezultatom.
+
+Dobar početni cilj nije „više saobraćaja“. To može biti deset dodatnih dovezenih vozila za dijagnostiku, petnaest prihvaćenih popravki alternatora i anlasera ili popunjavanje slobodnih termina radnim danima. Konkretan cilj određuje kampanju, budžet i merenje.
+
+Ako želite da procenimo pretrage u vašem gradu, izdvojimo profitabilne usluge i napravimo plan od klika do prihvaćene popravke, pošaljite osnovne podatke kroz [kontakt formu](/kontakt). Dobićete jasan predlog kampanje, budžeta i praćenja bez plaćanja poziva koji nikada ne dovezu vozilo u radionicu.
+`,
+  },
+  {
     slug: 'trosak-prodaje-marketing-roi-lead-generation-srbija-2026',
     title: 'Trošak prodaje i marketing ROI u Srbiji 2026: kada jeftin lead postaje skup kupac',
     excerpt: 'Jeftin lead nije jeftin kupac ako prodaja troši sate, izlaske i ponude. Naučite kako da uključite trošak prodaje u CAC, ROI i marketing budžet.',

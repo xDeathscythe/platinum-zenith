@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-auto-elektricare-cena-poziva-srbija-2026",
+    "title": "Google Ads za auto-električare u Srbiji 2026: cena poziva i budžet",
+    "excerpt": "Google Ads za auto-električare treba meriti po zakazanoj dijagnostici i prihvaćenoj popravci, ne po pozivima. Pogledajte kampanje, budžet i filtere.",
+    "date": "2026-07-23",
+    "category": "Google Ads",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "trosak-prodaje-marketing-roi-lead-generation-srbija-2026",
     "title": "Trošak prodaje i marketing ROI u Srbiji 2026: kada jeftin lead postaje skup kupac",
     "excerpt": "Jeftin lead nije jeftin kupac ako prodaja troši sate, izlaske i ponude. Naučite kako da uključite trošak prodaje u CAC, ROI i marketing budžet.",
