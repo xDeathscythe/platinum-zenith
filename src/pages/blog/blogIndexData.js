@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "iskoriscenost-kapaciteta-marketing-budzet-roi-srbija-2026",
+    "title": "Iskorišćenost kapaciteta i marketing budžet u Srbiji 2026: koliko vredi prazan termin",
+    "excerpt": "Prazan termin ima cenu, ali nije razlog da kupujete bilo kakve leadove. Saznajte kako kapacitet menja maksimalni CPL, CAC, maržu i marketing budžet.",
+    "date": "2026-07-24",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-auto-elektricare-cena-poziva-srbija-2026",
     "title": "Google Ads za auto-električare u Srbiji 2026: cena poziva i budžet",
     "excerpt": "Google Ads za auto-električare treba meriti po zakazanoj dijagnostici i prihvaćenoj popravci, ne po pozivima. Pogledajte kampanje, budžet i filtere.",

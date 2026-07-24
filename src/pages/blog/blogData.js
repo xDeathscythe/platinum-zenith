@@ -1,5 +1,166 @@
 const rawBlogPosts = [
   {
+    slug: 'iskoriscenost-kapaciteta-marketing-budzet-roi-srbija-2026',
+    title: 'Iskorišćenost kapaciteta i marketing budžet u Srbiji 2026: koliko vredi prazan termin',
+    excerpt: 'Prazan termin ima cenu, ali nije razlog da kupujete bilo kakve leadove. Saznajte kako kapacitet menja maksimalni CPL, CAC, maržu i marketing budžet.',
+    date: '2026-07-24',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Iskorišćenost kapaciteta', 'Marketing budžet', 'Marketing ROI', 'CPL', 'Lead Generation'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Prazan termin košta i kada kampanja ne troši ništa
+
+Firma može da ugasi oglase i sačuva medijski budžet, ali time ne zaustavlja zakup, plate, opremu, licence i druge troškove kapaciteta koji tog dana nije iskorišćen. Prazna stolica u ordinaciji, slobodna servisna ekipa, konsultant bez projekta ili mašina bez narudžbine ne pojavljuju se kao trošak u Google Ads nalogu. Ipak, pojavljuju se u poslovnom rezultatu.
+
+Zbog toga česta odluka da se [Google Ads budžet](/google-reklame-cena) procenjuje samo prema prosečnom CPL-u daje nepotpun odgovor. Lead od 5.000 dinara nije jednako vredan kada je tim popunjen narednih šest nedelja i kada sledeće nedelje ima tri prazna termina. U oba slučaja treba zaštititi profit, ali firma nema isti trošak neiskorišćenog kapaciteta ni isti prostor za akviziciju.
+
+To ne znači da svaki slobodan termin treba popuniti bilo kakvim poslom. Znači da marketing budžet treba povezati sa realnim kapacitetom isporuke, doprinosnom maržom i vremenom u kome posao može da se realizuje.
+
+## Šta zapravo znači iskorišćenost kapaciteta
+
+Kapacitet nije broj leadova koje firma želi. To je količina posla koju tim može kvalitetno da proda, zakaže, isporuči i naplati u određenom periodu.
+
+Jedinica kapaciteta zavisi od poslovnog modela:
+
+- ordinacija može pratiti raspoložive termine po lekaru i usluzi;
+- servis može pratiti radne sate, dizalice ili broj intervencija po ekipi;
+- građevinska firma može pratiti ekipe i projektne nedelje;
+- agencija može pratiti naplative sate ili broj aktivnih klijenata po timu;
+- škola može pratiti mesta u konkretnoj grupi i terminu;
+- event prostor može pratiti slobodne datume i paket koji može da isporuči.
+
+Česta greška firmi je da ceo mesec označe kao „imamo mesta“. U praksi možda postoji slobodan utorak pre podne, ali ne i subota; junior tim ima prostor, ali senior nema; jedna usluga ima kapacitet, dok druga već kasni. Jedan zbirni procenat tada skriva gde marketing stvarno može da doda profit.
+
+Zato kapacitet treba pratiti po ponudi, lokaciji, timu i periodu koji kupcu znači. Kampanja ne može da monetizuje slobodan termin koji se oglašava pogrešnoj publici ili za uslugu koju taj resurs ne može da isporuči.
+
+## Fiksni trošak ne opravdava posao bez doprinosa
+
+Tekst o [fiksnim troškovima i marketing budžetu](/blog/fiksni-troskovi-marketing-budzet-lead-generation-srbija-2026) objašnjava zašto svaki posao mora da nosi deo mesečne strukture. Kada kapacitet ostane prazan, taj deo troška ne nestaje. Ipak, iz toga ne sledi da je svaka prodaja bolja od praznog termina.
+
+Pre odluke o dodatnom budžetu odvojite tri sloja:
+
+1. **Fiksne troškove:** zakup, stalne plate, softver, amortizaciju i troškove koji postoje i bez novog kupca.
+2. **Varijabilne troškove:** materijal, provizije, dostavu, podizvođače, dodatne sate i druge troškove koje novi posao direktno pokreće.
+3. **Trošak akvizicije:** oglase, vođenje, landing stranu, prodajni rad i ostale troškove potrebne da se dobije kupac.
+
+Novi posao treba najmanje da pokrije svoje varijabilne troškove, puni trošak akvizicije i razumnu naknadu za rizik, reklamacije i korišćenje kapaciteta. Ako to ne radi, firma ne popunjava prazninu nego kupuje dodatni gubitak.
+
+Ovo je razlog da se uz promet gleda [doprinosna marža i varijabilni troškovi](/blog/varijabilni-troskovi-marketing-budzet-lead-generation-srbija-2026). Slobodan termin može opravdati drugačiji CAC od termina u špicu, ali ne briše direktan trošak isporuke.
+
+## Primer: isti lead nije jednako vredan u praznoj i punoj nedelji
+
+Pretpostavimo da servis prodaje posao za 80.000 dinara. Materijal, dodatni rad i drugi varijabilni troškovi iznose 38.000 dinara. Pre marketinga ostaje 42.000 dinara doprinosa.
+
+Kada servis sledeće nedelje ima slobodnu ekipu, dodatni posao ne zahteva novo zapošljavanje niti iznajmljivanje dodatne opreme. Ako firma želi da sačuva najmanje 22.000 dinara doprinosa posle akvizicije, maksimalni puni CAC za taj posao je 20.000 dinara.
+
+Ako 25% kvalifikovanih leadova postane realizovan i naplaćen posao, maksimalni trošak po kvalifikovanom leadu iznosi 5.000 dinara. To je interni limit za ovaj primer, ne tržišni benchmark.
+
+Sada zamislimo da je ista ekipa već popunjena. Novi posao zahteva prekovremeni rad od 8.000 dinara, odlaganje postojećeg projekta ili angažovanje podizvođača koji dodaje još 12.000 dinara troška. Doprinos se smanjuje sa 42.000 na 22.000 dinara. Ako firma i dalje želi da sačuva 22.000 dinara, za akviziciju više nema prostora.
+
+Kampanja nije preko noći postala loša. Promenila se ekonomija poslednje raspoložive jedinice kapaciteta. Zato jedan maksimalni CPL za celu godinu i svaku nedelju može da navede firmu da smanji budžet kada ima prazan prostor, a poveća ga upravo kada dodatni posao postaje najskuplji za isporuku.
+
+## Tri zone za odluku o budžetu
+
+Umesto jedne oznake „ima mesta“ ili „nema mesta“, korisno je definisati tri operativne zone. Pragovi nisu univerzalni i treba ih prilagoditi poslu.
+
+### 1. Slobodan kapacitet
+
+Postoje konkretni termini, ekipe ili projektne nedelje koje verovatno ostaju prazne. Marketing tada može da dobije veći prostor za kontrolisan test, ali samo za ponudu koju taj kapacitet može profitabilno da isporuči.
+
+Dobar potez može biti kampanja za određenu uslugu, lokaciju ili period, umesto generičkog popusta za sve. Cilj je da se popuni prava rupa u rasporedu, ne da se napravi gužva na već traženim terminima.
+
+### 2. Zdrava popunjenost
+
+Tim ima dovoljno posla, ali i prostor da primi kvalitetne nove kupce bez pada brzine, kvaliteta i rokova. Ovo je najstabilnija zona za redovan budžet i testiranje kontrolisanog rasta.
+
+Ovde se meri da li dodatni leadovi zadržavaju stopu kvalifikacije, realizovani CAC i profit po jedinici kapaciteta. Ako rezultat ostaje stabilan, [inkrementalni budžet](/blog/inkrementalni-marketing-budzet-roi-lead-generation-srbija-2026) može da raste u koracima.
+
+### 3. Zagušenje
+
+Rokovi se pomeraju, odgovori kasne, kvalitet pada, zaposleni rade prekovremeno ili prodaja obećava termine koje operativa nema. U toj zoni veći broj leadova može podići prihod u izveštaju i istovremeno smanjiti profit, iskustvo kupca i stopu realizacije.
+
+Rešenje nije uvek gašenje kampanje. Budžet se može preusmeriti na ponude sa drugačijim resursom, buduće termine, profitabilnije segmente ili lokacije koje imaju prostor. Ako ništa od toga nije moguće, kampanja treba da uspori pre nego što firma plati leadove koje ne može da usluži.
+
+## Budžet treba da prati kalendar, ne samo mesečni prosek
+
+Mesečna iskorišćenost od 75% može izgledati zdravo, ali prosek možda spaja dve prazne nedelje i dve nedelje haosa. Ako se oglasi drže ravnomerno, kampanja nastavlja da kupuje tražnju i kada je firma puna, a nema dovoljno podataka ili budžeta kada slobodan period treba popuniti.
+
+Praktičniji plan povezuje:
+
+- slobodne termine ili projektne slotove u narednih 7, 30 i 60 dana;
+- prosečno vreme od prvog upita do odluke kupca;
+- vreme potrebno od prodaje do početka isporuke;
+- ponude koje koriste isti ograničeni resurs;
+- minimalnu doprinosnu maržu po jedinici kapaciteta;
+- budžet i ciljnu cenu kvalifikovanog leada za svaku zonu.
+
+Firma sa prodajnim ciklusom od šest nedelja ne može da počne oglašavanje kada se rupa već pojavi u kalendaru. Ona mora da kupi i obradi tražnju dovoljno rano. Zbog toga [budžetski horizont](/blog/budzetski-horizont-lead-generation-roi-srbija-2026) treba uskladiti sa rasporedom isporuke, a ne samo sa datumom fakture za oglase.
+
+## Ne koristite popust kao jedini alat za popunjavanje
+
+Kada se pojavi slobodan kapacitet, mnoge firme prvo spuste cenu. To često donese više upita, ali ne nužno kupce koji odgovaraju usluzi, terminu i profitnoj logici.
+
+Pre popusta proverite da li se kapacitet može popuniti preciznijom porukom:
+
+- izdvojite uslugu koja ima slobodan resurs;
+- targetirajte grad ili zonu koju ekipa može efikasno da pokrije;
+- ponudite realan termin ili brži početak kao vrednost;
+- aktivirajte stare kvalifikovane leadove koji su odložili odluku;
+- napravite paket koji koristi postojeći kapacitet bez velikog dodatnog troška;
+- preusmerite budžet sa pune na slobodnu ponudu.
+
+Popust ima smisla samo kada njegova niža marža i dalje ostavlja dovoljno prostora za akviziciju i isporuku. U suprotnom [akcijska cena može spustiti ROI](/blog/popusti-akcije-marketing-budzet-roi-lead-generation-srbija-2026) brže nego što raste popunjenost.
+
+## Merite profit po jedinici kapaciteta
+
+CPL i CAC ostaju važni, ali sami ne pokazuju da li marketing koristi ograničen resurs pametno. Za svaku važnu ponudu pratite:
+
+- dostupne i prodate jedinice kapaciteta;
+- kvalifikovane leadove i stopu prelaska u realizovan posao;
+- prosečnu realizovanu cenu;
+- varijabilni trošak po poslu;
+- puni CAC, uključujući [trošak prodaje](/blog/trosak-prodaje-marketing-roi-lead-generation-srbija-2026);
+- doprinos posle akvizicije po poslu;
+- doprinos po satu, terminu, ekipi ili drugoj jedinici kapaciteta;
+- kašnjenja, dorade, otkazivanja i razloge izgubljenih poslova.
+
+Dva kanala mogu imati isti CAC, ali potpuno drugačiji rezultat. Jedan dovodi male poslove koji zauzimaju najtraženije termine. Drugi dovodi projekte koji bolje koriste slobodne dane i ostavljaju veći doprinos po satu tima. Ako se meri samo broj kupaca, ta razlika nestaje.
+
+Korisno je spojiti prodajne i operativne statuse. Lead ne treba da se završi kao „dobijen“ čim prihvati ponudu. Evidencija treba da pokaže termin, resurs, realizaciju, naplatu i stvarno utrošeni kapacitet. Tek tada [ROI kalkulator](/alati/roi-kalkulator) dobija brojke koje opisuju posao, a ne samo obećanu prodaju.
+
+## Kada dodatni budžet pravi više štete nego koristi
+
+Veći budžet treba zaustaviti ili preusmeriti kada se pojave jasni signali zagušenja:
+
+- vreme prvog odgovora raste;
+- rok do prvog slobodnog termina postaje neprihvatljiv ciljnom kupcu;
+- stopa otkazivanja ili nedolazaka raste;
+- prodaja daje dodatne popuste da bi sačuvala predugo čekanje;
+- operativa uvodi neplanirane prekovremene sate i podizvođače;
+- postojeći kupci čekaju duže ili traže više dorada;
+- doprinos po realizovanom poslu pada iako prihod raste.
+
+Ovo nije dokaz da marketing radi previše dobro pa problem nije važan. Lead generation i isporuka su isti komercijalni sistem. Kampanja koja kupuje više tražnje nego što firma može kvalitetno da pretvori u zadržan prihod nije optimizovana za profit.
+
+Sa druge strane, prazni termini uz stabilnu maržu, brz odgovor i dobru realizaciju jesu signal da firma možda ima prostora za veći ili preciznije raspoređen budžet. Odluka treba da se zasniva na sledećoj jedinici kapaciteta, ne na prošlomesečnom proseku.
+
+## Kontrolna tabla za narednih 30 dana
+
+Prve nedelje definišite jedinicu kapaciteta za svaku glavnu ponudu i izbrojte slobodne slotove u narednih 7, 30 i 60 dana. Druge nedelje spojite svaki novi lead sa uslugom, željenim rokom, prodajnim statusom i planiranim resursom.
+
+Treće nedelje izračunajte doprinos posle varijabilnih troškova i punog CAC-a po realizovanom poslu. Posebno označite poslove koji su zahtevali prekovremeni rad, dodatnog podizvođača, ubrzanu nabavku ili pomeranje postojećeg klijenta.
+
+Četvrte nedelje uporedite budžet, kvalifikovane leadove, popunjenost i doprinos po jedinici kapaciteta. Zatim odredite pravilo za svaku zonu: gde budžet raste, gde ostaje stabilan, gde se preusmerava i gde se privremeno smanjuje.
+
+Ako želite da pre sledećeg povećanja [budžeta za digitalni marketing](/cene-digitalnog-marketinga) povežemo leadove, maržu i stvarno slobodan kapacitet, pošaljite nam ponude, trenutni raspored i prodajne brojke kroz [kontakt formu](/kontakt). Dobićete jasan plan koliko tražnje vredi kupiti, za koju uslugu i u kom periodu, bez punjenja kalendara poslovima koji ne ostavljaju profit.
+`,
+  },
+  {
     slug: 'google-ads-za-auto-elektricare-cena-poziva-srbija-2026',
     title: 'Google Ads za auto-električare u Srbiji 2026: cena poziva i budžet',
     excerpt: 'Google Ads za auto-električare treba meriti po zakazanoj dijagnostici i prihvaćenoj popravci, ne po pozivima. Pogledajte kampanje, budžet i filtere.',
