@@ -1,5 +1,209 @@
 const rawBlogPosts = [
   {
+    slug: 'razlozi-izgubljenih-poslova-leadovi-prodaja-srbija-2026',
+    title: 'Razlozi izgubljenih poslova u Srbiji 2026: zašto kampanja ne prodaje',
+    excerpt: 'Ako svaki izgubljeni lead završi kao „nije zainteresovan“, ne znate da li curi oglas, ponuda ili prodaja. Uvedite razloge gubitka i popravite pravo usko grlo.',
+    date: '2026-07-24',
+    readTime: '9 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Izgubljeni poslovi', 'Lead Generation', 'Prodajni proces', 'CRM', 'Konverzija'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## „Nije zainteresovan“ nije razlog, već rupa u podacima
+
+Kampanja može da dovede relevantan upit, prodaja može da obavi razgovor, ponuda može da bude poslata i posao ipak ne bude dobijen. To je normalan deo prodaje. Problem nastaje kada se svaki takav ishod zatvori istom beleškom: „nije zainteresovan“, „odustao“ ili „nije prošlo“.
+
+Tada firma zna koliko je poslova izgubila, ali ne zna zašto ih je izgubila. Marketing vidi trošak bez prihoda i počinje da menja oglase. Prodaja tvrdi da leadovi nisu dovoljno dobri. Vlasnik spušta cenu ili zaustavlja budžet. Sve tri odluke mogu biti pogrešne, jer isti završni status krije potpuno različite kvarove.
+
+Lead koji nema budžet nije isto što i kupac kome se niko nije javio dva dana. Ponuda izgubljena zbog predugog roka isporuke nije isto što i ponuda koja nije objasnila vrednost. Klijent koji je izabrao konkurenta zbog specifične funkcije nije isto što i osoba koja nikada nije ni odgovarala ciljnom profilu.
+
+Pre nego što menjate [Google Ads budžet](/google-reklame-cena), morate da znate da li novac curi pre upita, tokom kvalifikacije, posle ponude ili u samoj isporuci obećanja.
+
+## Zašto broj leadova i broj prodaja nisu dovoljni
+
+Česta greška firmi je da prate samo četiri broja: potrošnju, leadove, ponude i prodaje. Taj pregled pokazuje da postoji pad, ali ne objašnjava njegov uzrok.
+
+Ako je tokom meseca stiglo 40 kvalifikovanih leadova, 12 je dobilo ponudu, a tri su postala kupci, ostaje devet izgubljenih ponuda. Bez razloga gubitka, tih devet slučajeva postaje jedna maglovita stopa zatvaranja od 25% na nivou poslatih ponuda.
+
+Sa razlozima gubitka slika može da izgleda ovako:
+
+- tri kupca su izabrala brži rok početka;
+- dva nisu dobila dogovoreni follow-up;
+- dva su očekivala uslugu koja nije deo ponude;
+- jedan je imao prenizak budžet;
+- jedan je odložio projekat za sledeći kvartal.
+
+U tom primeru jeftiniji klik ne rešava glavni problem. Veći popust takođe ne rešava većinu gubitaka. Potrebni su precizniji oglas i landing poruka, jasniji proces posle ponude, realno obećanje roka i posebna lista za buduću reaktivaciju.
+
+> Razlog gubitka pretvara „kampanja ne prodaje“ iz optužbe u konkretan zadatak.
+
+## Dobar razlog gubitka mora da vodi ka odluci
+
+Korisna evidencija nije dugačak komentar koji će neko možda pročitati za tri meseca. Potrebna je mala, stabilna lista razloga koja menja naredni potez.
+
+Za većinu uslužnih firmi početna lista može da sadrži sledeće kategorije:
+
+1. **Nije pravi fit:** tražena usluga, lokacija, veličina projekta ili tip klijenta nije ono što firma isporučuje.
+2. **Budžet nije usklađen:** kupac nema potreban budžet ili je očekivao bitno nižu cenu.
+3. **Vrednost nije objašnjena:** čuo je cenu, ali razliku, rezultat, obim i rizik nije razumeo.
+4. **Rok ili kapacitet ne odgovaraju:** kupcu je potreban raniji termin, druga lokacija ili obim koji tim ne može da primi.
+5. **Nema odluke sada:** projekat je odložen, prioritet se promenio ili kupac čeka interni događaj.
+6. **Nije uključen donosilac odluke:** kontakt je prikupljao informacije, ali nema ovlašćenje ili saglasnost.
+7. **Izabran je konkurent:** postoji poznat razlog, kao što su rok, cena, specifična usluga, dokaz ili postojeći odnos.
+8. **Prodajni proces je zakazao:** odgovor je kasnio, poziv nije održan, ponuda je bila generička ili follow-up nije urađen.
+9. **Nije bilo moguće uspostaviti kontakt:** podaci su pogrešni ili lead nije odgovorio ni posle definisane sekvence.
+10. **Diskvalifikovan rizik:** uslovi plaćanja, očekivanja, ponašanje ili drugi signal čine posao lošim za firmu.
+
+Lista ne treba da ima 40 opcija. Ako prodavac mora da razmišlja između „cena“, „preskupo“, „nema budžet“, „skupo mu je“ i „jeftinija konkurencija“, podaci će ponovo biti rasuti. Koristite jednu glavnu kategoriju i kratku belešku samo kada detalj menja buduću odluku.
+
+## Odvojite razlog gubitka od faze u kojoj je posao izgubljen
+
+Isti razlog ne znači isto u svakoj fazi. „Nije pravi fit“ otkriven u formi pokazuje da filter radi. Isti razlog otkriven tek nakon dva poziva, sastanka i izrade ponude pokazuje da firma troši prodajno vreme na kvalifikaciju koju je mogla da završi ranije.
+
+Zato uz razlog pratite i poslednju završenu fazu:
+
+- novi upit;
+- kontaktiran;
+- kvalifikovan;
+- održan razgovor ili konsultacija;
+- dogovoren brief;
+- poslata ponuda;
+- pregovori;
+- dobijeno ili izgubljeno;
+- odloženo do konkretnog datuma.
+
+Ovakva struktura se prirodno nadovezuje na [audit prodajnog funnela](/blog/audit-prodajnog-funnela-lead-generation-srbija-2026). Ako se veliki deo upita gubi pre prvog razgovora, problem verovatno nije PDF ponuda. Ako se relevantni leadovi uredno kvalifikuju, ali nestaju posle ponude, fokus treba pomeriti na obim, dokaz, cenu, rok, sledeći korak i follow-up.
+
+## Ne mešajte izgubljeno sa odloženim
+
+Mnoge firme zatvore svaki posao koji nije kupljen ovog meseca kao gubitak. Time kvare izveštaj i bacaju buduću prodaju.
+
+Kupac koji kaže „projekat kreće u oktobru kada odobrimo budžet“ nije isto što i kupac koji je potpisao sa konkurentom. Prvi treba da dobije status „odloženo“, razlog, očekivani datum odluke, vlasnika i datum sledećeg kontakta. Drugi je stvarno izgubljen i treba da uđe u analizu konkurencije ili ponude.
+
+Bez ove razlike prodajni ciklus izgleda kraće nego što jeste, kampanja dobija manje zasluga nego što zaslužuje, a tim pokušava da [reaktivira stare leadove](/blog/reaktivacija-starih-leadova-prodaja-srbija-2026) tek kada slučajno pronađe stari email.
+
+Dobro pravilo je jednostavno: status „odloženo“ mora imati realan datum i poznat sledeći događaj. „Javiće se jednog dana“ nije pipeline. To je izgubljen posao bez iskreno upisanog razloga.
+
+## Kako razlikovati problem oglasa, landing strane, ponude i prodaje
+
+Razlozi gubitka postaju korisni tek kada ih povežete sa mestom koje može da se popravi.
+
+### Menjajte targetiranje ili oglas kada
+
+- veliki deo leadova traži uslugu koju ne nudite;
+- dolaze lokacije koje ne možete da pokrijete;
+- informativni upiti dominiraju nad komercijalnim;
+- oglas privlači očekivanje koje ponuda ne može da ispuni;
+- jedna ključna reč ili kampanja proizvodi nesrazmerno mnogo lošeg fita.
+
+Tada proverite search terms, negativne ključne reči, lokacije, oglasno obećanje i [usklađenost oglasa sa landing stranom](/blog/uskladjenost-oglasa-landing-strane-konverzija-srbija-2026).
+
+### Menjajte landing stranu ili formu kada
+
+- kupci tek na pozivu saznaju cenu, rok ili uslove saradnje koji ih odmah diskvalifikuju;
+- nisu razumeli šta usluga uključuje;
+- pogrešna vrsta klijenta često šalje upit;
+- forma ne prikuplja podatke koji prodaji menjaju odluku;
+- posetilac nema dovoljno dokaza da je sledeći korak bezbedan.
+
+To ne znači da forma treba da postane upitnik od 25 polja. [Kvalifikacija kroz kontakt formu](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026) treba rano da otkrije ključni fit, a da ne kažnjava ozbiljnog kupca nepotrebnim trenjem.
+
+### Menjajte ponudu kada
+
+- pravi kupci razumeju uslugu, ali ne vide zašto njena vrednost opravdava cenu;
+- obim je nejasan i ponude se teško porede;
+- rok, garancija procesa, način plaćanja ili rizik stalno blokiraju odluku;
+- konkurent pobeđuje na istoj konkretnoj prednosti;
+- jedna usluga redovno privlači tražnju, ali ne ostavlja dovoljno marže za akviziciju.
+
+Ponuda treba da objasni problem, preporučeni obim, očekivani proces, cenu ili način obračuna, odgovornosti obe strane i sledeći korak. Tekst o [ponudi posle upita](/blog/ponuda-posle-upita-leadovi-prodaja-srbija-2026) pomaže da dokument prestane da bude cenovnik bez prodajnog konteksta.
+
+### Menjajte prodajni proces kada
+
+- odgovor i follow-up kasne;
+- kvalifikovani leadovi ne dobiju jasan sledeći korak;
+- prodajni pozivi ne otkrivaju cilj, kriterijume i put odluke;
+- ponuda se šalje bez dogovorenog termina za povratni razgovor;
+- razlozi gubitka se nagađaju umesto da se provere;
+- prodaja ne vraća marketingu podatke o stvarnom ishodu.
+
+Ovde vredi poslušati stvarne razgovore kroz [analizu prodajnih poziva](/blog/analiza-prodajnih-poziva-kampanje-leadovi-srbija-2026), umesto da se kvalitet leadova procenjuje po utisku sa najtežeg poziva tog dana.
+
+## Koja polja treba da postoje u CRM-u ili tabeli
+
+Nije potreban skup CRM da bi analiza počela. Potrebna je disciplina i ista definicija za sve koji obrađuju leadove.
+
+Minimalna evidencija treba da sadrži:
+
+- datum i izvor leada;
+- kampanju ili ulaznu stranu kada je poznata;
+- traženu uslugu, lokaciju i osnovni fit;
+- vlasnika leada;
+- trenutnu fazu;
+- vrednost ponude ili očekivanu vrednost posla;
+- datum poslednje aktivnosti;
+- sledeću aktivnost i rok;
+- završni ishod;
+- glavni razlog gubitka;
+- kratku belešku sa činjenicom koja potvrđuje razlog;
+- konkurenta, kada je informacija dobrovoljno poznata;
+- datum za reaktivaciju ako je posao odložen.
+
+Polje „razlog gubitka“ treba da bude obavezno kada se posao zatvara kao izgubljen. Polje „sledeća aktivnost“ treba da bude obavezno dok je posao otvoren. Tako se sprečava da otvoreni leadovi tiho stare bez vlasnika, a izgubljeni dobiju generičku etiketu samo da bi se očistila lista.
+
+## Pitajte bez pritiska kada pravi razlog nije jasan
+
+Kupac neće uvek reći pun razlog. Ponekad želi da završi razgovor pristojno, ponekad još nije doneo odluku, a ponekad ni sam ne ume da objasni šta ga je zaustavilo.
+
+Zato pitanje „Zašto niste kupili?“ često zvuči kao odbrana prodavca. Korisnije je kratko i neutralno pitanje:
+
+- „Da li je odluku više promenio budžet, rok, obim ili nešto četvrto?“
+- „Šta je druga opcija imala što je u ovom trenutku bilo važnije?“
+- „Da li projekat zatvaramo ili ima smisla da se čujemo u konkretnom periodu?“
+- „Šta je u ponudi ostalo nedovoljno jasno?“
+
+Cilj nije da se kupac natera da opravda odluku. Cilj je da se dobije dovoljno tačan signal za sledeću poslovnu odluku. Ako odgovor nije poznat, upišite „razlog nije potvrđen“. To je pošteniji podatak od izmišljene oznake „preskupo“.
+
+## Nedeljna analiza mora da završi konkretnom promenom
+
+Sama tabela ne popravlja prodaju. Jednom nedeljno marketing i prodaja treba da pregledaju izgubljene poslove po vrednosti, fazi, izvoru, ponudi i razlogu.
+
+Dobar pregled odgovara na pet pitanja:
+
+1. Koji razlog je odneo najviše potencijalne vrednosti, ne samo najviše leadova?
+2. U kojoj fazi se taj razlog prvi put mogao videti?
+3. Da li je problem koncentrisan u jednoj kampanji, ponudi, prodavcu, lokaciji ili segmentu?
+4. Koja jedna promena može da se testira naredne nedelje?
+5. Kako ćemo znati da li je promena smanjila baš taj razlog gubitka?
+
+Ako pet poslova ode zbog roka, test nije automatski niža cena. Test može biti ranije prikazivanje raspoloživog termina, drugačija raspodela kapaciteta ili kampanja za uslugu koju tim može brže da isporuči. Ako konkurent pobeđuje zbog dokaza, rešenje može biti precizna studija slučaja, a ne još jedan popust.
+
+[Povratna informacija prodaje marketingu](/blog/povratna-informacija-prodaje-marketing-kampanje-leadovi-srbija-2026) mora da bude strukturirana. „Leadovi su loši“ nije feedback. „Sedam od 18 kvalifikovanih upita tražilo je uslugu van naše zone, a pet je došlo iz iste kampanje“ jeste signal na kome može da se radi.
+
+## Plan za prvih 14 dana
+
+Prvog dana dogovorite najviše osam do deset glavnih razloga gubitka i napišite po jednu rečenicu koja objašnjava kada se svaki koristi. Zatim dodajte obavezna polja za fazu, razlog, sledeću aktivnost i vrednost posla u postojeći CRM ili tabelu.
+
+Tokom prve nedelje ne menjajte definicije svaki dan. Zatvorite aktivne slučajeve sa najboljim dostupnim činjenicama i označite nepoznate razloge bez nagađanja. Na kraju nedelje proverite gde se tim dvoumio između kategorija i spojite opcije koje znače isti naredni potez.
+
+Tokom druge nedelje pregledajte gubitke po izvoru, ponudi i fazi. Izaberite jedan obrazac koji nosi dovoljno vrednosti da zaslužuje promenu. To može biti pogrešno obećanje oglasa, kasna kvalifikacija budžeta, ponuda bez jasnog obima, spor odgovor ili follow-up bez termina.
+
+Promenite jednu stvar, zabeležite datum i pratite da li se taj razlog smanjuje među narednim uporedivim leadovima. Nemojte istovremeno menjati oglase, cenu, formu, skriptu i ponudu. Ako se sve promeni, niko neće znati šta je radilo.
+
+## Kampanju popravljate tamo gde stvarno gubi posao
+
+Kampanja nije uspešna zato što generiše mnogo formulara, ali nije ni neuspešna svaki put kada posao ne bude zatvoren. Pravi odgovor postoji tek kada se trošak poveže sa kvalifikacijom, prodajnom fazom, razlogom gubitka, realizovanim prihodom i maržom.
+
+Kada firma uvede razloge gubitka, [cena digitalnog marketinga](/cene-digitalnog-marketinga) prestaje da se poredi sa gomilom anonimnih leadova. Može da se uporedi sa pravim prilikama, izgubljenom vrednošću i mestom na kome jedna konkretna promena vraća prihod.
+
+Ako želite da zajedno povežemo kampanje, CRM statuse, ponude i prodajne ishode, pošaljite nam postojeće brojke kroz [kontakt formu](/kontakt). Dobićete jasan plan šta treba popravljati prvo, bez nasumičnog gašenja oglasa ili spuštanja cene svaki put kada prodaja podbaci.
+`,
+  },
+  {
     slug: 'iskoriscenost-kapaciteta-marketing-budzet-roi-srbija-2026',
     title: 'Iskorišćenost kapaciteta i marketing budžet u Srbiji 2026: koliko vredi prazan termin',
     excerpt: 'Prazan termin ima cenu, ali nije razlog da kupujete bilo kakve leadove. Saznajte kako kapacitet menja maksimalni CPL, CAC, maržu i marketing budžet.',

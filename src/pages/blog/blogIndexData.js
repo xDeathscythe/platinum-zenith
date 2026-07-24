@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "razlozi-izgubljenih-poslova-leadovi-prodaja-srbija-2026",
+    "title": "Razlozi izgubljenih poslova u Srbiji 2026: zašto kampanja ne prodaje",
+    "excerpt": "Ako svaki izgubljeni lead završi kao „nije zainteresovan“, ne znate da li curi oglas, ponuda ili prodaja. Uvedite razloge gubitka i popravite pravo usko grlo.",
+    "date": "2026-07-24",
+    "category": "Marketing",
+    "readTime": "9 min read",
+    "isDraft": false
+  },
+  {
     "slug": "iskoriscenost-kapaciteta-marketing-budzet-roi-srbija-2026",
     "title": "Iskorišćenost kapaciteta i marketing budžet u Srbiji 2026: koliko vredi prazan termin",
     "excerpt": "Prazan termin ima cenu, ali nije razlog da kupujete bilo kakve leadove. Saznajte kako kapacitet menja maksimalni CPL, CAC, maržu i marketing budžet.",
