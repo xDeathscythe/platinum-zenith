@@ -1,6 +1,6 @@
 import { test } from 'node:test'
 import assert from 'node:assert/strict'
-import { describeArrival, getMeasurement } from '../src/lib/analytics.js'
+import { describeArrival, getMeasurement, analyticsPageUrl } from '../src/lib/analytics.js'
 
 test('URL attribution preserves arbitrary languages and excludes search queries', () => {
   const result = describeArrival('https://platinumzenith.com/kontakt?utm_source=%E6%A4%9C%E7%B4%A2&utm_medium=cpc&utm_campaign=salon&email=private', 'https://www.google.com/search?q=private')
@@ -10,6 +10,12 @@ test('URL attribution preserves arbitrary languages and excludes search queries'
   assert.equal(result.referrer, 'https://www.google.com')
   assert.equal(describeArrival('https://platinumzenith.com/', 'https://chatgpt.com/c/123').source, 'chatgpt.com')
   assert.equal(describeArrival('https://platinumzenith.com/', 'https://platinumzenith.com/blog').source, 'direct')
+  const measured = new URL(analyticsPageUrl('https://platinumzenith.com/kontakt?utm_source=%E6%A4%9C%E7%B4%A2&utm_medium=cpc&utm_campaign=salon&utm_content=video&email=private&q=private#private'))
+  assert.equal(measured.searchParams.get('utm_source'), '検索')
+  assert.equal(measured.searchParams.get('utm_campaign'), 'salon')
+  assert.equal(measured.searchParams.size, 4)
+  assert.equal(measured.hash, '')
+  assert.equal(analyticsPageUrl('https://platinumzenith.com/?email=private'), 'https://platinumzenith.com/')
 })
 
 test('consent gates identifiers; inactivity renews the session and retains the first touch', context => {

@@ -1,4 +1,4 @@
-# SEO i analitika — 0.1.3
+# SEO i analitika — 0.1.4
 
 ## Objavljeno
 
@@ -31,10 +31,12 @@ Nova sirova analitika čuva se najduže 26 meseci. Dnevno održavanje uklanja st
 ## GA4 konfiguracija
 
 1. Nalog Platinum Zenith i web stream kreirani su 15. septembra 2026. po potvrdi vlasnika.
-2. Postaviti `GA_MEASUREMENT_ID=G-P4VXTSSF14` u privatno serversko okruženje i proveriti Realtime.
+2. `GA_MEASUREMENT_ID=G-P4VXTSSF14` je postavljen u privatnom serverskom okruženju. GA4 Realtime je primio po jedan pregled SEO i kontakt stranice i jedan `contact_click` tokom provere, bez duplog brojanja.
 3. Isključeno je automatsko merenje promena istorije, pomeranja, odlaznih klikova i formi, jer aplikacija već šalje odgovarajuće događaje. Ostaju pretraga sajta, video i preuzimanja.
 4. `generate_lead` je key event, broji se jednom po događaju bez podrazumevane novčane vrednosti. Search Console domen je povezan sa web stream-om. Retention za događaje i korisnike je 14 meseci, bez resetovanja roka pri novoj aktivnosti. `booking_open` nije završen sastanak.
 5. Kada postoji dovoljno podataka, proveriti integraciju sa Clarity i dostupnost AI Visibility citiranja. Bot activity zahteva podržan CDN izvor; sama instalacija Clarity taga to ne omogućava.
+
+GA4 adresa stranice zadržava samo `utm_source`, `utm_medium`, `utm_campaign` i `utm_content`. Ostali query parametri i fragment se uklanjaju. Referrer se šalje bez putanje i query parametara. Tako oznake kampanje ostaju dostupne bez slanja proizvoljnog sadržaja URL-a.
 
 ## Rad tokom narednih 90 dana
 
@@ -53,5 +55,7 @@ Potreban je Node 24.x zbog ugrađenog `node:sqlite`. Taj API na korišćenom Nod
 Pre narednog Hostinger deployment-a iz GitHub-a sačuvati Node 24.x i `PZ_ENV_FILE` u podešavanjima okruženja. Ne vraćati bazu iz stare rezervne kopije preko novih upita. Pri vraćanju koda prvo sačuvati aktuelnu bazu.
 
 Port koji postavi hosting proces ili lokalni audit ima prednost nad `PORT` vrednošću privatnog fajla. Ovo je provereno uz izdvojeni env fajl sa `PORT=3000` i audit procesom na drugom portu.
+
+Administratorska lozinka i JWT ključ zamenjeni su 15. septembra 2026. Na produkciji je provereno da stara lozinka i stari token vraćaju 401, a nova prijava i pristup analitici rade. Nova admin lozinka je sačuvana u privatnom lokalnom fajlu vlasnika, van repozitorijuma. Zamena ranije objavljene SMTP lozinke ostaje otvorena dok vlasnik ne završi promenu lozinke mailbox-a i ne ažurira povezane aplikacije.
 
 Provere: `npm test`, `npm run build`, scoped ESLint, javni HTTP odgovori i pregled desktop/mobilnog prikaza. Testovi koriste izdvojenu bazu i simulirani SMTP; ne šalju klijentima probne poruke.
