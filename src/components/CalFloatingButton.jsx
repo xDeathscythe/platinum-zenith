@@ -1,3 +1,4 @@
+import { trackEvent } from '../lib/analytics'
 import { useState, useEffect, useRef } from 'react'
 
 const CAL_LINK = 'platinumzenith/info'
@@ -21,7 +22,7 @@ export default function CalFloatingButton() {
       {/* Floating button */}
       <button
         type="button"
-        onClick={() => setOpen(true)}
+        onClick={() => { trackEvent('booking_open'); setOpen(true) }}
         className="fixed bottom-6 right-6 z-[200] bg-inv-bg text-inv-fg text-[14px] font-medium h-12 px-5 rounded-[40px] shadow-lg shadow-black/25 cursor-pointer hover:scale-105 active:scale-95 transition-transform flex items-center gap-2.5"
         aria-label="Zakažite razgovor"
       >

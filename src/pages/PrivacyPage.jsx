@@ -9,7 +9,7 @@ export default function PrivacyPage() {
           <h1 className="text-[36px] md:text-[48px] font-medium leading-[1.1] tracking-[-1px] text-ink mb-4">
             Politika privatnosti
           </h1>
-          <p className="text-[15px] text-ink-3 mb-12">Poslednje ažuriranje: 18. februar 2026.</p>
+          <p className="text-[15px] text-ink-3 mb-12">Poslednje ažuriranje: 15. septembar 2026.</p>
         </motion.div>
 
         <motion.div
@@ -65,7 +65,7 @@ export default function PrivacyPage() {
             <ul>
               <li><strong>Saglasnosti</strong> — za marketing komunikacije i kolačiće</li>
               <li><strong>Izvršenja ugovora</strong> — za pružanje ugovorenih usluga</li>
-              <li><strong>Legitimnog interesa</strong> — za analitiku sajta i poboljšanje usluga</li>
+              <li><strong>Saglasnosti</strong>, za analitiku poseta i interakcija na sajtu</li>
               <li><strong>Zakonske obaveze</strong> — za čuvanje poslovne dokumentacije</li>
             </ul>
           </Section>
@@ -85,10 +85,10 @@ export default function PrivacyPage() {
             <h3>6.1 Neophodni kolačići</h3>
             <p>Omogućavaju osnovno funkcionisanje sajta. Ne mogu se isključiti.</p>
             <h3>6.2 Analitički kolačići</h3>
-            <p>Pomažu nam da razumemo kako koristite sajt (broj poseta, popularne stranice). Možete ih odbiti bez uticaja na funkcionalnost sajta.</p>
+            <p>Analitika se uključuje tek kada je prihvatite. Tada beležimo izvor dolaska, posećene stranice, aktivno vreme, klikove i interakcije sa formom. Ako pošaljete upit, izvor i put kroz sajt povezujemo sa tim upitom. Koristimo sopstvenu analitiku i Microsoft Clarity za mape interakcija i snimke sesija sa maskiranim ličnim podacima. Google Analytics se, kada je povezan, koristi za zbirne izveštaje. Sadržaj polja kontakt forme ne šaljemo ovim alatima. Analitiku možete odbiti bez uticaja na kontaktiranje agencije.</p>
             <h3>6.3 Marketing kolačići</h3>
             <p>Koriste se za prikazivanje relevantnih reklama. Aktiviraju se samo uz vašu saglasnost.</p>
-            <p>Postavke kolačića možete promeniti u bilo kom trenutku putem podešavanja vašeg pretraživača.</p>
+            <p>Izbor možete promeniti u bilo kom trenutku preko dugmeta „Podešavanja privatnosti” u podnožju sajta. Povlačenjem pristanka zaustavlja se dalje analitičko praćenje. Identifikator prvog dolaska na našem sajtu ističe nakon 90 dana.</p>
           </Section>
 
           <Section title="7. Čuvanje podataka">
@@ -96,7 +96,7 @@ export default function PrivacyPage() {
             <ul>
               <li><strong>Podaci klijenata</strong> — tokom trajanja saradnje + 5 godina (zakonska obaveza)</li>
               <li><strong>Kontakt forme</strong> — 12 meseci od prijema</li>
-              <li><strong>Analitički podaci</strong> — 26 meseci</li>
+              <li><strong>Analitički podaci</strong> — sopstvena evidencija najduže 26 meseci; rokovi u povezanim alatima zavise od njihovih podešavanja i pravila čuvanja</li>
               <li><strong>Marketing saglasnosti</strong> — do povlačenja saglasnosti</li>
             </ul>
           </Section>

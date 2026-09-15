@@ -1,10 +1,12 @@
 import { motion } from '../components/Motion'
 import PageMeta from '../components/PageMeta'
-import { useState } from 'react'
+import { useState, useRef } from 'react'
 import { Link } from 'react-router-dom'
 
 const heroHomeDark = `${import.meta.env.BASE_URL}hero-home-dark.webp`
 const heroHomeLight = `${import.meta.env.BASE_URL}hero-home-light.webp`
+
+import { contactAttribution, trackEvent } from '../lib/analytics'
 
 const CAL_LINK = 'platinumzenith/info'
 const FORM_ENDPOINT = '/api/kontakt'
@@ -23,6 +25,7 @@ function CalInlineEmbed() {
 }
 
 export default function ContactPage() {
+  const started = useRef(false)
   const [status, setStatus] = useState('idle')
   const [formStartedAt, setFormStartedAt] = useState(() => Date.now())
   const [formData, setFormData] = useState({ name: '', email: '', company: '', message: '', website: '' })
@@ -42,14 +45,18 @@ export default function ContactPage() {
           message: formData.message,
           website: formData.website,
           formTs: formStartedAt,
+          attribution: contactAttribution(),
         }),
       })
 
-      if (res.ok) {
+      const result = await res.json()
+      if (res.ok && result.ok) {
+        if (result.leadId) trackEvent('generate_lead', { form_id: 'contact' })
         setStatus('sent')
         setFormData({ name: '', email: '', company: '', message: '', website: '' })
         setFormStartedAt(Date.now())
       } else {
+        trackEvent('form_error', { form_id: 'contact' })
         setStatus('error')
       }
     } catch {
@@ -57,7 +64,10 @@ export default function ContactPage() {
     }
   }
 
-  const handleChange = (field) => (e) => setFormData(prev => ({ ...prev, [field]: e.target.value }))
+  const handleChange = (field) => (e) => {
+    if (!started.current) { started.current = true; trackEvent('form_start', { form_id: 'contact' }) }
+    setFormData(prev => ({ ...prev, [field]: e.target.value }))
+  }
 
   return (
     <>
@@ -121,7 +131,7 @@ export default function ContactPage() {
             </div>
             <div>
               <div className="text-[13px] text-ink-2 uppercase tracking-wider mb-2">Telefon</div>
-              <a href="tel:+381691234567" className="text-[20px] text-ink hover:underline">+381 69 123 4567</a>
+              <a href="tel:+381668168929" className="text-[20px] text-ink hover:underline">+381 66 816 8929</a>
             </div>
             <div>
               <div className="text-[13px] text-ink-2 uppercase tracking-wider mb-2">Adresa</div>
@@ -144,7 +154,7 @@ export default function ContactPage() {
                 </button>
               </div>
             ) : (
-              <form onSubmit={handleSubmit} className="space-y-4">
+              <form data-clarity-mask="true" onSubmit={handleSubmit} className="space-y-4">
                 <div>
                   <label className="text-[13px] text-ink-2 block mb-1.5">Ime i prezime *</label>
                   <input type="text" required value={formData.name} onChange={handleChange('name')}

@@ -67,7 +67,7 @@ function NewsletterInput() {
       const res = await fetch('/api/kontakt', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ name: 'Newsletter signup', email, message: 'Newsletter prijava sa footer-a' }),
+        body: JSON.stringify({ name: 'Newsletter signup', email, formType: 'newsletter', message: 'Newsletter prijava sa footer-a' }),
       })
       if (!res.ok) throw new Error()
       setStatus('ok')
@@ -82,7 +82,7 @@ function NewsletterInput() {
   return (
     <div>
       <p className="text-[12px] md:text-[14px] font-semibold text-ink-2 mb-3 md:mb-4">Newsletter</p>
-      <form onSubmit={handleSubmit} className="flex gap-2">
+      <form data-clarity-mask="true" onSubmit={handleSubmit} className="flex gap-2">
         <input
           type="email"
           value={email}
@@ -140,10 +140,17 @@ export default function Footer() {
           <NewsletterInput />
         </div>
       </div>
+      <nav aria-label="Marketing usluge" className="flex flex-wrap gap-5 max-w-[1440px] mx-auto px-5 md:px-[70px] pb-8 text-sm">
+        <Link to="/google-ads-agencija">Google Ads agencija</Link>
+        <Link to="/meta-ads-agencija">Meta Ads agencija</Link>
+        <Link to="/seo-agencija">SEO agencija</Link>
+        <Link to="/growth-marketing-agencija">Growth marketing agencija</Link>
+      </nav>
       <div className="flex flex-col md:flex-row items-center justify-between px-5 md:px-[70px] py-5 md:py-6 border-t border-edge max-w-[1440px] mx-auto gap-2">
         <Link to="/" className="text-[16px] md:text-[18px] font-bold text-ink tracking-tight hover:opacity-80">PLATINUM ZENITH</Link>
         <span className="text-[12px] md:text-[14px] font-medium text-ink-2">© 2024-2026 Platinum Zenith. Sva prava zadržana.</span>
       </div>
+    <button type="button" className="text-xs underline block mx-auto mb-5" onClick={() => window.dispatchEvent(new Event('pz-open-consent'))}>Podešavanja privatnosti</button>
     </footer>
   )
 }

@@ -1,8 +1,10 @@
-﻿import { useState, useEffect, lazy, Suspense } from 'react'
-import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom'
+import InitialContent from './lib/InitialContent'
+import { useState, useEffect, lazy, Suspense } from 'react'
+import { BrowserRouter, MemoryRouter, Routes, Route, useLocation } from 'react-router-dom'
 import Navbar from './components/Navbar'
 import usePageMeta from './hooks/usePageMeta'
 import HomePage from './pages/HomePage'
+const AnalyticsConsent = lazy(() => import('./components/AnalyticsConsent'))
 
 // Lazy load non-critical shared UI
 const Footer = lazy(() => import('./components/Footer'))
@@ -11,6 +13,7 @@ const AnalyticsTracker = lazy(() => import('./components/AnalyticsTracker'))
 
 // Lazy load secondary pages for code splitting
 const WebDesignPage = lazy(() => import('./pages/WebDesignPage'))
+const ServicePage = lazy(() => import('./pages/ServicePage'))
 const MarketingPage = lazy(() => import('./pages/MarketingPage'))
 const ConsultingPage = lazy(() => import('./pages/ConsultingPage'))
 const CROPage = lazy(() => import('./pages/CROPage'))
@@ -153,6 +156,10 @@ function PublicLayout() {
             <Route path="/" element={<HomePage />} />
             <Route path="/web-design" element={<WebDesignPage />} />
             <Route path="/digitalni-marketing" element={<MarketingPage />} />
+            <Route path="/google-ads-agencija" element={<ServicePage />} />
+            <Route path="/meta-ads-agencija" element={<ServicePage />} />
+            <Route path="/seo-agencija" element={<ServicePage />} />
+            <Route path="/growth-marketing-agencija" element={<ServicePage />} />
             <Route path="/consulting" element={<ConsultingPage />} />
             <Route path="/cro" element={<CROPage />} />
             <Route path="/drustvene-mreze" element={<SocialMediaPage />} />
@@ -233,6 +240,7 @@ function PublicLayout() {
           <Footer />
         </Suspense>
       </div>
+      <Suspense fallback={null}><AnalyticsConsent /></Suspense>
       {showAnalytics && (
         <Suspense fallback={null}>
           <AnalyticsTracker />
@@ -247,9 +255,10 @@ function PublicLayout() {
   )
 }
 
-export default function App() {
+export default function App({ url = '/', initialContent = null }) {
+  const Router = import.meta.env.SSR ? MemoryRouter : BrowserRouter
   return (
-    <BrowserRouter basename={import.meta.env.BASE_URL}>
+    <InitialContent.Provider value={initialContent}><Router basename={import.meta.env.BASE_URL} initialEntries={[url]}>
       <ScrollToTop />
       <Suspense fallback={<PageLoader />}>
         <Routes>
@@ -268,6 +277,6 @@ export default function App() {
           <Route path="/*" element={<PublicLayout />} />
         </Routes>
       </Suspense>
-    </BrowserRouter>
+    </Router></InitialContent.Provider>
   )
 }

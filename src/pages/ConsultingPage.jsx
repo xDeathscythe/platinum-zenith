@@ -1,6 +1,7 @@
 import { motion, AnimatePresence } from '../components/Motion'
 import PageMeta from '../components/PageMeta'
-import { useState, useCallback } from 'react'
+import { useState, useCallback, useRef, useEffect } from 'react'
+import { contactAttribution, trackEvent } from '../lib/analytics'
 import { Link } from 'react-router-dom'
 import Reveal from '../components/Reveal'
 import BottomCTA from '../components/BottomCTA'
@@ -17,10 +18,13 @@ function SignupModal({ program, onClose }) {
   const [sent, setSent] = useState(false)
 
   const [sending, setSending] = useState(false)
+  const [error, setError] = useState('')
+  const started = useRef(false)
 
   const handleSubmit = useCallback(async (e) => {
     e.preventDefault()
     setSending(true)
+    setError('')
     const fd = new FormData(e.target)
     const d = Object.fromEntries(fd)
 
@@ -30,6 +34,7 @@ function SignupModal({ program, onClose }) {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           program,
+          attribution: contactAttribution(),
           name: d.name,
           phone: d.phone,
           email: d.email,
@@ -37,16 +42,16 @@ function SignupModal({ program, onClose }) {
         })
       })
       if (!resp.ok) throw new Error('API error')
+      const result = await resp.json()
+      if (!result.leadId) throw new Error('Missing confirmation')
+      trackEvent('generate_lead', { form_id: 'prijava' })
       setSent(true)
       setSending(false)
       setTimeout(() => onClose(), 2500)
     } catch {
-      // Fallback to WhatsApp if API fails
-      const msg = `Prijava za: ${program}\nIme: ${d.name}\nTelefon: ${d.phone}\nEmail: ${d.email}\nFirma: ${d.company}`
-      window.open(`https://wa.me/381605667795?text=${encodeURIComponent(msg)}`, '_blank')
-      setSent(true)
+      setError('Prijava nije poslata. Pokušajte ponovo ili nas pozovite.')
+      trackEvent('form_error', { form_id: 'prijava' })
       setSending(false)
-      setTimeout(() => onClose(), 2000)
     }
   }, [program, onClose])
 
@@ -80,7 +85,7 @@ function SignupModal({ program, onClose }) {
             <p className="text-[13px] text-ink-2">Javićemo vam se u roku od 24h.</p>
           </div>
         ) : (
-          <form onSubmit={handleSubmit} className="px-7 pb-7 pt-4 space-y-4">
+          <form data-clarity-mask="true" onFocus={() => { if (!started.current) { started.current = true; trackEvent('form_start', { form_id: 'prijava' }) } }} onSubmit={handleSubmit} className="px-7 pb-7 pt-4 space-y-4">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
               <div>
                 <label className="block text-[13px] font-medium text-ink mb-1.5">Ime i prezime *</label>
@@ -105,6 +110,7 @@ function SignupModal({ program, onClose }) {
                   className="w-full h-11 px-4 rounded-[10px] bg-tint border border-edge-2 text-[14px] text-ink placeholder:text-ink-3 focus:outline-none focus:ring-2 focus:ring-black/10" />
               </div>
             </div>
+            {error && <p role="alert" className="text-red-500 text-sm">{error}</p>}
             <button type="submit" disabled={sending} className="w-full h-12 bg-black text-white text-[14px] font-medium rounded-[10px] hover:bg-black/80 transition-colors cursor-pointer flex items-center justify-center gap-2 disabled:opacity-60 disabled:cursor-not-allowed">
               {sending ? 'Šaljem...' : 'Pošalji prijavu'}
               {!sending && <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>}
@@ -132,10 +138,10 @@ const workflows = [
 function WorkflowPipeline() {
   const [active, setActive] = useState(0)
 
-  useState(() => {
+  useEffect(() => {
     const interval = setInterval(() => setActive(p => (p + 1) % workflows.length), 3000)
     return () => clearInterval(interval)
-  })
+  }, [])
 
   return (
     <div className="theme-dark bg-[#0a0a0a] rounded-[16px] border border-[rgba(255,255,255,0.08)] overflow-hidden shadow-[0_8px_40px_rgba(0,0,0,0.3)]">
