@@ -1,4 +1,4 @@
-# SEO i analitika — 0.1.2
+# SEO i analitika — 0.1.3
 
 ## Objavljeno
 
@@ -28,12 +28,12 @@ Tabela izvora prati sesije započete u periodu i pripadajuće upite. Ukupni upit
 
 Nova sirova analitika čuva se najduže 26 meseci. Dnevno održavanje uklanja starije zapise iz novih analitičkih tabela; stara arhiva i poslovni upiti imaju zasebnu politiku čuvanja.
 
-## Preostalo povezivanje GA4
+## GA4 konfiguracija
 
 1. Nalog Platinum Zenith i web stream kreirani su 15. septembra 2026. po potvrdi vlasnika.
 2. Postaviti `GA_MEASUREMENT_ID=G-P4VXTSSF14` u privatno serversko okruženje i proveriti Realtime.
 3. Isključeno je automatsko merenje promena istorije, pomeranja, odlaznih klikova i formi, jer aplikacija već šalje odgovarajuće događaje. Ostaju pretraga sajta, video i preuzimanja.
-4. Označiti `generate_lead` kao key event, povezati Search Console, podesiti retention i proveriti Realtime/DebugView. Ne označavati `booking_open` kao završen sastanak.
+4. `generate_lead` je key event, broji se jednom po događaju bez podrazumevane novčane vrednosti. Search Console domen je povezan sa web stream-om. Retention za događaje i korisnike je 14 meseci, bez resetovanja roka pri novoj aktivnosti. `booking_open` nije završen sastanak.
 5. Kada postoji dovoljno podataka, proveriti integraciju sa Clarity i dostupnost AI Visibility citiranja. Bot activity zahteva podržan CDN izvor; sama instalacija Clarity taga to ne omogućava.
 
 ## Rad tokom narednih 90 dana
@@ -51,5 +51,7 @@ Potreban je Node 24.x zbog ugrađenog `node:sqlite`. Taj API na korišćenom Nod
 `PZ_ENV_FILE` određuje privatni env fajl van koda. Kada je izričito zadat, njegove vrednosti imaju prednost nad starim deployment promenljivama; nedostupan fajl prekida pokretanje servera. `PZ_DATA_DIR` određuje trajni direktorijum za bazu, takođe van direktorijuma koji deployment menja. Bez podešenih admin podataka pristup se odbija. `.env` ne sme biti u Git-u, release arhivi ili javnom direktorijumu. Brisanje fajla iz aktuelnog Git-a ne poništava ranije objavljene tajne: potrebna je njihova zamena.
 
 Pre narednog Hostinger deployment-a iz GitHub-a sačuvati Node 24.x i `PZ_ENV_FILE` u podešavanjima okruženja. Ne vraćati bazu iz stare rezervne kopije preko novih upita. Pri vraćanju koda prvo sačuvati aktuelnu bazu.
+
+Port koji postavi hosting proces ili lokalni audit ima prednost nad `PORT` vrednošću privatnog fajla. Ovo je provereno uz izdvojeni env fajl sa `PORT=3000` i audit procesom na drugom portu.
 
 Provere: `npm test`, `npm run build`, scoped ESLint, javni HTTP odgovori i pregled desktop/mobilnog prikaza. Testovi koriste izdvojenu bazu i simulirani SMTP; ne šalju klijentima probne poruke.
