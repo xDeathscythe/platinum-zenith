@@ -1,4 +1,4 @@
-# SEO i analitika — 0.1.0
+# SEO i analitika — 0.1.2
 
 ## Objavljeno
 
@@ -14,7 +14,7 @@
 - `/log/poruke` i `/log/prijave`: izvor i put do upita, statusi Nov upit → Kvalifikovan → Sastanak → Ponuda → Klijent / Nije ugovoreno. Vrednost i valuta unose se nakon ugovaranja.
 - Search Console: pojmovi pretrage, prikazi, klikovi, CTR i prosečna pozicija. To su zbirni podaci; ne otkrivaju tačan Google upit pojedinačne osobe.
 - Clarity: snimci i mape interakcija. Pseudonimni identifikatori povezuju sesiju, bez slanja imena, emaila ili sadržaja forme.
-- Google Analytics 4 integracija je spremna preko `GA_MEASUREMENT_ID`. Nalog zahteva prihvatanje Google uslova, zatim pravljenje web stream-a i unos stvarnog ID-a. Prazan ID ne učitava Google tag.
+- Google Analytics 4: nalog `408050176`, property `554183178`, web stream `15780253962`, measurement ID `G-P4VXTSSF14`. Direktan pristup: https://analytics.google.com/analytics/web/#/a408050176p554183178/reports/home . ID dolazi iz privatnog serverskog okruženja preko `GA_MEASUREMENT_ID`.
 
 ## Definicije i ograničenja
 
@@ -30,9 +30,9 @@ Nova sirova analitika čuva se najduže 26 meseci. Dnevno održavanje uklanja st
 
 ## Preostalo povezivanje GA4
 
-1. Prihvatiti uslove pripremljenog naloga Platinum Zenith (Srbija, EUR).
-2. Kreirati web stream za `https://platinumzenith.com` i uneti njegov `G-...` ID u serversko okruženje.
-3. Pošto aplikacija šalje SPA page_view događaje, isključiti automatsko merenje promena istorije. Isključiti automatske form events; aplikacija šalje `form_start`, `form_error` i stvarni `generate_lead`.
+1. Nalog Platinum Zenith i web stream kreirani su 15. septembra 2026. po potvrdi vlasnika.
+2. Postaviti `GA_MEASUREMENT_ID=G-P4VXTSSF14` u privatno serversko okruženje i proveriti Realtime.
+3. Isključeno je automatsko merenje promena istorije, pomeranja, odlaznih klikova i formi, jer aplikacija već šalje odgovarajuće događaje. Ostaju pretraga sajta, video i preuzimanja.
 4. Označiti `generate_lead` kao key event, povezati Search Console, podesiti retention i proveriti Realtime/DebugView. Ne označavati `booking_open` kao završen sastanak.
 5. Kada postoji dovoljno podataka, proveriti integraciju sa Clarity i dostupnost AI Visibility citiranja. Bot activity zahteva podržan CDN izvor; sama instalacija Clarity taga to ne omogućava.
 
@@ -48,7 +48,7 @@ Mesečni pregled: nebrendirani klikovi i relevantni prikazi, kvalitetni upiti, p
 
 Potreban je Node 24.x zbog ugrađenog `node:sqlite`. Taj API na korišćenom Node 24 runtime-u još ispisuje experimental upozorenje; migracija, integracija i paralelni upisi provereni su na hostu. SQLite koristi WAL i zaključavanje; nema periodičnog prepisivanja celog fajla.
 
-`PZ_ENV_FILE` određuje privatni env fajl van koda. `PZ_DATA_DIR` određuje trajni direktorijum za bazu, takođe van direktorijuma koji deployment menja. Bez podešenih admin podataka pristup se odbija. `.env` ne sme biti u Git-u, release arhivi ili javnom direktorijumu. Brisanje fajla iz aktuelnog Git-a ne poništava ranije objavljene tajne: potrebna je njihova zamena.
+`PZ_ENV_FILE` određuje privatni env fajl van koda. Kada je izričito zadat, njegove vrednosti imaju prednost nad starim deployment promenljivama; nedostupan fajl prekida pokretanje servera. `PZ_DATA_DIR` određuje trajni direktorijum za bazu, takođe van direktorijuma koji deployment menja. Bez podešenih admin podataka pristup se odbija. `.env` ne sme biti u Git-u, release arhivi ili javnom direktorijumu. Brisanje fajla iz aktuelnog Git-a ne poništava ranije objavljene tajne: potrebna je njihova zamena.
 
 Pre narednog Hostinger deployment-a iz GitHub-a sačuvati Node 24.x i `PZ_ENV_FILE` u podešavanjima okruženja. Ne vraćati bazu iz stare rezervne kopije preko novih upita. Pri vraćanju koda prvo sačuvati aktuelnu bazu.
 
