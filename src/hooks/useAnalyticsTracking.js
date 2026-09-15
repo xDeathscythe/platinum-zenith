@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { useLocation } from 'react-router-dom'
-import { CONSENT_EVENT, hasAnalyticsConsent, getMeasurement, sendMeasurement, trackEvent } from '../lib/analytics'
+import { CONSENT_EVENT, hasAnalyticsConsent, getMeasurement, sendMeasurement, trackEvent, analyticsPageUrl } from '../lib/analytics'
 
 let vendorPromise
 function loadVendors() {
@@ -13,7 +13,7 @@ function loadVendors() {
       window.gtag = function () { window.dataLayer.push(arguments) }
       window.gtag('consent', 'default', { analytics_storage: 'granted', ad_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied' })
       window.gtag('js', new Date())
-      window.gtag('config', config.gaId, { send_page_view: false, allow_google_signals: false, allow_ad_personalization_signals: false })
+      window.gtag('config', config.gaId, { send_page_view: false, page_location: analyticsPageUrl(location.href), page_referrer: getMeasurement()?.arrival.referrer || '', allow_google_signals: false, allow_ad_personalization_signals: false })
       script(`https://www.googletagmanager.com/gtag/js?id=${config.gaId}`)
     }
     if (config.clarityId) {
@@ -46,7 +46,7 @@ export default function useAnalyticsTracking() {
     let disposed = false
     loadVendors().then(() => {
       if (!disposed) {
-        window.gtag?.('event', 'page_view', { page_location: location.origin + pathname, page_title: document.title })
+        window.gtag?.('event', 'page_view', { page_location: analyticsPageUrl(location.href), page_title: document.title })
         window.clarity?.('identify', measurement.visitorId, measurement.sessionId, pageId)
       }
     })

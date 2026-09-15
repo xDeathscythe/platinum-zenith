@@ -34,6 +34,16 @@ export function setAnalyticsConsent(allowed) {
   if (!allowed) window.location.reload()
 }
 
+export function analyticsPageUrl(href) {
+  const url = new URL(href)
+  const campaign = new URLSearchParams()
+  for (const key of ['utm_source', 'utm_medium', 'utm_campaign', 'utm_content']) {
+    const value = url.searchParams.get(key)
+    if (value) campaign.set(key, value.slice(0, 120))
+  }
+  return url.origin + url.pathname + (campaign.size ? `?${campaign}` : '')
+}
+
 export function describeArrival(href, referrer = '') {
   const url = new URL(href)
   let source = '', referrerOrigin = ''
@@ -88,7 +98,7 @@ export function trackEvent(eventName, meta = {}, value = null) {
     ...measurement, path: location.pathname,
     eventName, meta, value,
   })
-  window.gtag?.('event', eventName, { ...meta, ...(value === null ? {} : { value }), page_location: location.origin + location.pathname })
+  window.gtag?.('event', eventName, { ...meta, ...(value === null ? {} : { value }), page_location: analyticsPageUrl(location.href) })
   window.clarity?.('event', eventName)
 }
 
