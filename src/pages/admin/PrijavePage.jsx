@@ -1,3 +1,4 @@
+import LeadAttribution from './LeadAttribution'
 import { useEffect, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { adminFetch, isUnauthorizedError } from '../../lib/adminApi'
@@ -60,7 +61,7 @@ export default function PrijavePage() {
               <tbody className="divide-y divide-white/[0.04]">
                 {items.map((item, i) => (
                   <tr key={i} className="hover:bg-white/[0.02] transition-colors">
-                    <td className="px-5 py-3 text-[13px] text-white font-medium">{item.name}</td>
+                    <td className="px-5 py-3 text-[13px] text-white font-medium">{item.name}<details className="mt-2"><summary className="cursor-pointer text-white/60">Izvor i status</summary><LeadAttribution id={item.id} /></details></td>
                     <td className="px-5 py-3 text-[13px] text-white/70"><a href={`mailto:${item.email}`} className="hover:text-white">{item.email}</a></td>
                     <td className="px-5 py-3 text-[13px] text-white/70"><a href={`tel:${item.phone}`} className="hover:text-white">{item.phone}</a></td>
                     <td className="px-5 py-3 text-[13px] text-white/70">{item.company}</td>

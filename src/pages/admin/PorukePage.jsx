@@ -1,3 +1,4 @@
+import LeadAttribution from './LeadAttribution'
 import { useEffect, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { adminFetch, isUnauthorizedError } from '../../lib/adminApi'
@@ -62,6 +63,7 @@ export default function PorukePage() {
               {expanded === i && (
                 <div className="px-5 pb-4 pt-0 border-t border-white/[0.04]">
                   <p className="text-[13px] text-white/70 leading-relaxed whitespace-pre-wrap mt-3">{item.message}</p>
+                  <LeadAttribution id={item.id} />
                   <div className="flex gap-2 mt-4">
                     <a href={`mailto:${item.email}`} className="text-[12px] text-blue-400 hover:text-blue-300 transition-colors">Odgovori →</a>
                   </div>

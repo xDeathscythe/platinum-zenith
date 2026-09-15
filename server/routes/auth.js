@@ -5,8 +5,9 @@ const router = Router()
 
 router.post('/auth', async (req, res) => {
   const { username, password } = req.body || {}
-  const validUser = process.env.ADMIN_USER || 'admin'
-  const validPass = process.env.ADMIN_PASS || 'admin'
+  const validUser = process.env.ADMIN_USER
+  const validPass = process.env.ADMIN_PASS
+  if (!validUser || !validPass || !process.env.JWT_SECRET) return res.status(503).json({ error: 'Administracija nije podešena' })
 
   if (username === validUser && password === validPass) {
     const token = await createToken({ user: username, role: 'admin' })

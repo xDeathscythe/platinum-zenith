@@ -164,7 +164,7 @@ const relatedLinks = [
     desc: 'Ako vam trenutni sajt ili landing koci rezervacije, ovde je realan okvir ulaganja.',
   },
   {
-    to: '/društvene-mreže',
+    to: '/drustvene-mreze',
     title: 'Društvene mreže',
     desc: 'Siri pregled contenta, community rada i placenih kampanja za brendove koji žive na društvenim mrežama.',
   },

@@ -1,6 +1,7 @@
+import { attachLead } from '../measurement.js'
 import { Router } from 'express'
 import nodemailer from 'nodemailer'
-import { getDb, save } from '../db.js'
+import { getDb } from '../db.js'
 
 const router = Router()
 
@@ -48,50 +49,14 @@ function markRateAndCheckLimit(key) {
   return tooFrequent || overWindowLimit
 }
 
-function looksLikeGibberish(text) {
-  const value = String(text || '').trim()
-  if (!value) return true
-
-  // Very bot-like payloads: long random token without spaces
-  if (!value.includes(' ') && value.length >= 14) {
-    const lettersOnly = value.replace(/[^a-z]/gi, '')
-    const vowels = (lettersOnly.match(/[aeiou]/gi) || []).length
-    const vowelRatio = lettersOnly.length ? vowels / lettersOnly.length : 0
-    const hasMixedCase = /[a-z]/.test(value) && /[A-Z]/.test(value)
-    if (hasMixedCase && vowelRatio < 0.25) return true
-  }
-
-  // Mostly random symbols/numbers or very low semantic signal
-  const compact = value.replace(/\s+/g, '')
-  const alphaNum = compact.replace(/[^a-z0-9]/gi, '')
-  if (compact.length >= 18 && alphaNum.length / compact.length > 0.9 && !value.includes(' ')) return true
-
-  return false
-}
-
-function isSuspiciousEmail(email) {
-  const [local] = String(email || '').toLowerCase().split('@')
-  if (!local) return true
-
-  // local part with many short dot-separated segments is often bot-generated
-  const dotParts = local.split('.')
-  if (dotParts.length >= 5) return true
-
-  // random-ish long local part without vowels is suspicious
-  if (local.length >= 16 && !/[aeiou]/.test(local.replace(/[^a-z]/g, ''))) return true
-
-  return false
-}
-
-async function storeSubmission(db, type, name, email, company, message) {
-  db.run('INSERT INTO submissions (type, name, email, company, message) VALUES (?, ?, ?, ?, ?)', [
+function storeSubmission(db, type, name, email, company, message) {
+  return db.run('INSERT INTO submissions (type, name, email, company, message) VALUES (?, ?, ?, ?, ?)', [
     type,
     name,
     email,
     company || '',
     message,
-  ])
-  save()
+  ]).lastInsertRowid
 }
 
 router.post('/kontakt', async (req, res) => {
@@ -112,7 +77,7 @@ router.post('/kontakt', async (req, res) => {
     return res.status(400).json({ error: 'Ime, email i poruka su obavezni' })
   }
 
-  const isNewsletter = message === 'Newsletter prijava sa footer-a'
+  const isNewsletter = req.body?.formType === 'newsletter'
   const db = await getDb()
 
   if (isNewsletter) {
@@ -126,14 +91,10 @@ router.post('/kontakt', async (req, res) => {
   const looksSpam = (
     website.length > 0
     || !isValidEmail(email)
-    || isSuspiciousEmail(email)
     || name.length < 2
     || name.length > 80
     || message.length < 8
     || message.length > 3000
-    || looksLikeGibberish(name)
-    || (company && looksLikeGibberish(company))
-    || looksLikeGibberish(message)
     || (rawFormTs > 0 && Date.now() - rawFormTs < 2500)
   )
 
@@ -148,7 +109,8 @@ router.post('/kontakt', async (req, res) => {
     return res.status(429).json({ error: 'Previše zahteva. Pokušajte ponovo za par minuta.' })
   }
 
-  await storeSubmission(db, 'kontakt', name, email, company, message)
+  const leadId = storeSubmission(db, 'kontakt', name, email, company, message)
+  attachLead(db, leadId, req.body.attribution)
 
   const transporter = nodemailer.createTransport({
     host: 'smtp.hostinger.com',
@@ -158,7 +120,7 @@ router.post('/kontakt', async (req, res) => {
   })
 
   try {
-    const submissionId = db.exec('SELECT last_insert_rowid()')[0].values[0][0]
+    const submissionId = leadId
 
     const safeName = escapeHtml(name)
     const safeEmail = escapeHtml(email)
@@ -193,12 +155,11 @@ router.post('/kontakt', async (req, res) => {
       'confirmation',
       submissionId,
     ])
-    save()
 
-    return res.json({ ok: true })
+    return res.json({ ok: true, leadId })
   } catch (err) {
     console.error('SMTP error:', err)
-    return res.status(500).json({ error: 'Greška pri slanju' })
+    return res.json({ ok: true, leadId, notificationSent: false })
   }
 })
 

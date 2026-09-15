@@ -1,4 +1,4 @@
-import dotenv from 'dotenv'
+import './config.js'
 import express from 'express'
 import cors from 'cors'
 import { fileURLToPath } from 'url'
@@ -10,17 +10,21 @@ import { injectOgMeta } from './ogMeta.js'
 // Load .env from project root (not CWD)
 const __filename = fileURLToPath(import.meta.url)
 const __serverDir = dirname(__filename)
-dotenv.config({ path: join(__serverDir, '..', '.env') })
 
 import authRoutes from './routes/auth.js'
 import prijavaRoutes from './routes/prijava.js'
 import kontaktRoutes from './routes/kontakt.js'
 import adminRoutes from './routes/admin.js'
 import analyticsRoutes from './routes/analytics.js'
+import growthRoutes from './routes/growth.js'
+import { expireMeasurements } from './measurementRetention.js'
 
 const __dirname = __serverDir
 const PORT = process.env.PORT || 3000
 const app = express()
+const maintainMeasurements = () => expireMeasurements().catch(error => console.error('Measurement retention failed', error))
+maintainMeasurements()
+setInterval(maintainMeasurements, 24 * 60 * 60 * 1000).unref()
 
 const CANONICAL_HOST = 'platinumzenith.com'
 const LOCAL_HOSTS = new Set(['localhost', '127.0.0.1'])
@@ -64,15 +68,21 @@ app.use((req, res, next) => {
   next()
 })
 
+const appVersion = JSON.parse(readFileSync(join(__serverDir, '..', 'package.json'), 'utf8')).version
+app.get('/api/version', (req, res) => res.set('Cache-Control', 'no-store').json({ version: appVersion }))
+
 // API routes FIRST
 app.use('/api', authRoutes)
 app.use('/api', prijavaRoutes)
 app.use('/api', kontaktRoutes)
 app.use('/api', analyticsRoutes)
+app.use('/api/admin', growthRoutes)
 app.use('/api/admin', adminRoutes)
 
 // SEO canonical redirects — prevent duplicate URLs
 const LEGACY_REDIRECTS = new Map([
+  ['/društvene-mreže', '/drustvene-mreze'],
+  ['/dru%C5%A1tvene-mre%C5%BEe', '/drustvene-mreze'],
   ['/paketi', '/cene-digitalnog-marketinga'],
   ['/studije-slucaja', '/case-studies'],
   ['/blog/alex-hormozi-value-equation-ponuda-koja-prodaje-srbija-2026', '/blog/alex-hormozi-value-equation-ponuda-koja-se-prodaje-srbija-2026'],
@@ -229,7 +239,8 @@ app.use((req, res, next) => {
 })
 
 app.use('/assets', express.static(join(distPath, 'assets'), { maxAge: ONE_YEAR * 1000, immutable: true }))
-app.use(express.static(distPath, { maxAge: ONE_YEAR * 1000 }))
+app.use((req, res, next) => req.path.startsWith('/prerender') ? res.sendStatus(404) : next())
+app.use(express.static(distPath, { maxAge: ONE_YEAR * 1000, index: false }))
 
 // Read HTML template once at startup (cached in memory)
 const indexHtmlPath = join(distPath, 'index.html')
@@ -240,18 +251,22 @@ try {
   console.warn('⚠️ dist/index.html not found — SPA fallback will fail until build runs')
 }
 
+const prerenderManifest = JSON.parse(readFileSync(join(distPath, 'prerender-manifest.json'), 'utf8'))
+
 // SPA fallback LAST — inject per-route OG meta for social media crawlers
 app.use((req, res) => {
   if (!indexHtmlTemplate) {
     return res.status(500).send('Build not found. Run npm run build first.')
   }
-  const html = injectOgMeta(indexHtmlTemplate, req.path)
+  const prerenderFile = prerenderManifest[req.path]
+  const html = prerenderFile ? readFileSync(join(distPath, 'prerender', prerenderFile), 'utf8') : injectOgMeta(indexHtmlTemplate, req.path)
+  if (!prerenderFile && !shouldNoIndexPath(req.path) && !req.path.startsWith('/log') && !req.path.startsWith('/draft/')) res.status(404)
   res.setHeader('Content-Type', 'text/html; charset=UTF-8')
   res.setHeader('Cache-Control', 'no-cache, no-store, must-revalidate')
   res.setHeader('Pragma', 'no-cache')
   res.setHeader('Expires', '0')
   res.setHeader('Surrogate-Control', 'no-store')
-  res.setHeader('X-Robots-Tag', shouldNoIndexPath(req.path) ? 'noindex, nofollow' : 'index, follow')
+  res.setHeader('X-Robots-Tag', (!prerenderFile || shouldNoIndexPath(req.path)) ? 'noindex, nofollow' : 'index, follow')
 
   const acceptEncoding = String(req.headers['accept-encoding'] || '').toLowerCase()
   const htmlBuffer = Buffer.from(html)

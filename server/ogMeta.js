@@ -1,3 +1,4 @@
+import { serviceMeta, serviceSchemas } from '../src/data/services.js'
 /**
  * Server-side OG meta data for social media crawlers.
  * Crawlers (Facebook, Twitter, LinkedIn) don't execute JS,
@@ -100,6 +101,7 @@ const HOMEPAGE_WEBSITE_SCHEMA = {
 }
 
 const SERVER_ROUTE_SCHEMAS = {
+  ...serviceSchemas,
   '/alati/roi-kalkulator': {
     '@context': 'https://schema.org',
     '@type': 'SoftwareApplication',
@@ -1233,6 +1235,7 @@ const INTERNAL_NOINDEX_PATHS = new Set([
 ])
 
 const ogMeta = {
+  ...serviceMeta,
   '/': {
     title: 'Platinum Zenith | Digitalna Agencija | Marketing, Web Design, Consulting',
     description: 'Privucite pažnju i generišite prodaju kroz Zenith sistem za akviziciju klijenata: digitalni marketing, web design i consulting sa merljivim rezultatima.',

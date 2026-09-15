@@ -1,10 +1,10 @@
 import { StrictMode } from 'react'
-import { createRoot } from 'react-dom/client'
+import { createRoot, hydrateRoot } from 'react-dom/client'
 import './index.css'
 import App from './App.jsx'
 
-createRoot(document.getElementById('root')).render(
-  <StrictMode>
-    <App />
-  </StrictMode>,
-)
+const root = document.getElementById('root')
+const initialContent = JSON.parse(document.getElementById('initial-content')?.textContent || 'null')
+const app = <StrictMode><App initialContent={initialContent} /></StrictMode>
+if (root.dataset.prerendered) hydrateRoot(root, app)
+else createRoot(root).render(app)

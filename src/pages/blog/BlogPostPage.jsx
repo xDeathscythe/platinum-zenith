@@ -1,4 +1,5 @@
-import { useState, useEffect, lazy, Suspense } from 'react'
+import InitialContent from '../../lib/InitialContent'
+import { useState, useEffect, useContext, lazy, Suspense } from 'react'
 import { useParams, Link, useLocation } from 'react-router-dom'
 import { blogPostBySlug, blogPostIndex } from './blogDataIndex'
 import { blogIllustrationMap } from './BlogIllustrations'
@@ -301,8 +302,9 @@ export default function BlogPostPage() {
   const { slug } = useParams()
   const { pathname } = useLocation()
   
-  const [content, setContent] = useState(null)
-  const [loadingContent, setLoadingContent] = useState(true)
+  const initial = useContext(InitialContent)
+  const [content, setContent] = useState(initial?.slug === slug ? initial.content : null)
+  const [loadingContent, setLoadingContent] = useState(!content)
   const [contentError, setContentError] = useState(false)
 
   const basePost = blogPostBySlug.get(slug)
@@ -311,6 +313,7 @@ export default function BlogPostPage() {
 
   useEffect(() => {
     if (shouldHidePost) return
+    if (initial?.slug === slug) { setContent(initial.content); setLoadingContent(false); return }
     let mounted = true
     setLoadingContent(true)
     setContentError(false)
@@ -331,7 +334,7 @@ export default function BlogPostPage() {
       })
       
     return () => { mounted = false }
-  }, [slug, shouldHidePost])
+  }, [slug, shouldHidePost, initial])
 
   if (shouldHidePost) {
     return (

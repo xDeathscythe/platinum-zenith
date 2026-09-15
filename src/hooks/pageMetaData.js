@@ -1,3 +1,4 @@
+import { serviceMeta, serviceSchemas } from '../data/services.js'
 /**
  * Page meta data — lazy loaded to keep index bundle small.
  * Contains pageMeta, pageSchemas, orgSchema, websiteSchema, setJsonLd
@@ -5,6 +6,7 @@
 const SITE_URL = 'https://platinumzenith.com'
 
 export const pageMeta = {
+  ...serviceMeta,
   '/': {
     title: 'Platinum Zenith | Digitalna Agencija | Marketing, Web Design, Consulting',
     description: 'Privucite pažnju i generišite prodaju kroz Zenith sistem za akviziciju klijenata: digitalni marketing, web design i consulting sa merljivim rezultatima.',
@@ -255,6 +257,7 @@ export const websiteSchema = {
 }
 
 export const pageSchemas = {
+  ...serviceSchemas,
   '/web-design': { "@context": "https://schema.org", "@type": "Service", "name": "Web Design & Izrada Sajta", "description": "Izrada sajtova sa fokusom na brzinu, UX i konverzije: od strukture stranica do tehničke SEO optimizacije.", "provider": { "@id": `${SITE_URL}#organization`, "@type": "Organization", "name": "Platinum Zenith", "url": SITE_URL }, "serviceType": "Web Design", "areaServed": { "@type": "Country", "name": "Srbija" }, "hasOfferCatalog": { "@type": "OfferCatalog", "name": "Web design usluge", "itemListElement": [ { "@type": "Offer", "name": "Prezentacioni sajt", "description": "Brz i SEO-pripremljen sajt za usluge" }, { "@type": "Offer", "name": "Poslovni sajt", "description": "Struktura za upite, lead forme i tracking" }, { "@type": "Offer", "name": "Web shop", "description": "E-commerce sa optimizovanim checkout tokom" } ] } },
   '/digitalni-marketing': {
     "@context": "https://schema.org",

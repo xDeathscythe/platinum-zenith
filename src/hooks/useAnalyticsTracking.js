@@ -1,162 +1,111 @@
-import { useEffect, useRef } from 'react'
+import { useEffect, useState } from 'react'
 import { useLocation } from 'react-router-dom'
+import { CONSENT_EVENT, hasAnalyticsConsent, getMeasurement, sendMeasurement, trackEvent } from '../lib/analytics'
 
-const SESSION_KEY = 'pz_analytics_session'
-const LAST_PATH_KEY = 'pz_analytics_last_path'
-
-function getOrCreateSessionId() {
-  let sessionId = localStorage.getItem(SESSION_KEY)
-  if (sessionId) return sessionId
-
-  if (typeof crypto !== 'undefined' && crypto.randomUUID) {
-    sessionId = crypto.randomUUID()
-  } else {
-    sessionId = `${Date.now()}-${Math.random().toString(36).slice(2, 10)}`
-  }
-
-  localStorage.setItem(SESSION_KEY, sessionId)
-  return sessionId
-}
-
-function getContentType(pathname) {
-  if (pathname.startsWith('/blog/')) return 'blog_post'
-  if (pathname === '/blog') return 'blog_index'
-  if (pathname.startsWith('/log')) return 'admin'
-  return 'page'
-}
-
-function getSlug(pathname, contentType) {
-  if (contentType !== 'blog_post') return ''
-  return pathname.replace('/blog/', '')
-}
-
-function sendJson(endpoint, payload) {
-  fetch(endpoint, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify(payload),
-    keepalive: true,
-  }).catch(() => {
-    // Silent fail: analytics should never block UX
-  })
+let vendorPromise
+function loadVendors() {
+  if (vendorPromise) return vendorPromise
+  vendorPromise = fetch('/api/analytics/config').then(r => r.json()).then(config => {
+    if (!hasAnalyticsConsent()) return
+    const script = (src) => { const el = document.createElement('script'); el.async = true; el.src = src; document.head.append(el) }
+    if (config.gaId) {
+      window.dataLayer = window.dataLayer || []
+      window.gtag = function () { window.dataLayer.push(arguments) }
+      window.gtag('consent', 'default', { analytics_storage: 'granted', ad_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied' })
+      window.gtag('js', new Date())
+      window.gtag('config', config.gaId, { send_page_view: false, allow_google_signals: false, allow_ad_personalization_signals: false })
+      script(`https://www.googletagmanager.com/gtag/js?id=${config.gaId}`)
+    }
+    if (config.clarityId) {
+      window.clarity = window.clarity || function () { (window.clarity.q = window.clarity.q || []).push(arguments) }
+      window.clarity('consentv2', { ad_Storage: 'denied', analytics_Storage: 'granted' })
+      script(`https://www.clarity.ms/tag/${config.clarityId}`)
+    }
+  }).catch(() => { vendorPromise = undefined })
+  return vendorPromise
 }
 
 export default function useAnalyticsTracking() {
-  const location = useLocation()
-  const pageEnterAtRef = useRef(Date.now())
-  const lastTrackedPathRef = useRef('')
+  const { pathname, search } = useLocation()
+  const [allowed, setAllowed] = useState(false)
+  useEffect(() => {
+    const update = () => setAllowed(hasAnalyticsConsent())
+    update()
+    window.addEventListener(CONSENT_EVENT, update)
+    return () => window.removeEventListener(CONSENT_EVENT, update)
+  }, [])
 
   useEffect(() => {
-    const sessionId = getOrCreateSessionId()
-    const pathname = location.pathname || '/'
-    const contentType = getContentType(pathname)
-    const slug = getSlug(pathname, contentType)
-    const params = new URLSearchParams(location.search || '')
-
-    const previousPath = sessionStorage.getItem(LAST_PATH_KEY) || ''
-    const externalReferrer = document.referrer || ''
-    const referrer = previousPath || externalReferrer
-
-    sessionStorage.setItem(LAST_PATH_KEY, pathname)
-
-    const dedupeKey = `${pathname}${location.search || ''}`
-    if (lastTrackedPathRef.current !== dedupeKey) {
-      sendJson('/api/analytics/visit', {
-        sessionId,
-        path: pathname,
-        slug,
-        contentType,
-        referrer,
-        utmSource: params.get('utm_source') || '',
-        utmMedium: params.get('utm_medium') || '',
-        utmCampaign: params.get('utm_campaign') || '',
-        utmTerm: params.get('utm_term') || '',
-        utmContent: params.get('utm_content') || '',
-        language: navigator.language || '',
-        screenW: window.screen?.width || null,
-        screenH: window.screen?.height || null,
-        viewportW: window.innerWidth || null,
-        viewportH: window.innerHeight || null,
-        tzOffset: new Date().getTimezoneOffset(),
-      })
-
-      lastTrackedPathRef.current = dedupeKey
-    }
-
-    pageEnterAtRef.current = Date.now()
-
-    if (contentType === 'blog_post') {
-      const thresholds = [25, 50, 75, 90]
-      const seen = new Set()
-
-      const onScroll = () => {
-        const el = document.documentElement
-        const scrollTop = el.scrollTop || document.body.scrollTop
-        const scrollHeight = el.scrollHeight - el.clientHeight
-        if (scrollHeight <= 0) return
-
-        const depth = Math.round((scrollTop / scrollHeight) * 100)
-        thresholds.forEach((t) => {
-          if (depth >= t && !seen.has(t)) {
-            seen.add(t)
-            sendJson('/api/analytics/event', {
-              sessionId,
-              path: pathname,
-              slug,
-              contentType,
-              eventName: 'scroll_depth',
-              value: t,
-              meta: { threshold: t },
-            })
-          }
-        })
+    if (!allowed || pathname.startsWith('/log')) return
+    let measurement = getMeasurement()
+    if (!measurement) return
+    const contentType = pathname.startsWith('/blog/') ? 'blog_post' : 'page'
+    let pageId = crypto.randomUUID()
+    const visit = () => sendMeasurement('visit', { ...measurement, pageId, path: pathname, contentType, language: navigator.language, viewportW: innerWidth, viewportH: innerHeight })
+    visit()
+    let disposed = false
+    loadVendors().then(() => {
+      if (!disposed) {
+        window.gtag?.('event', 'page_view', { page_location: location.origin + pathname, page_title: document.title })
+        window.clarity?.('identify', measurement.visitorId, measurement.sessionId, pageId)
       }
-
-      const engagedTimers = [15000, 45000].map((ms) => {
-        const seconds = Math.round(ms / 1000)
-        return setTimeout(() => {
-          sendJson('/api/analytics/event', {
-            sessionId,
-            path: pathname,
-            slug,
-            contentType,
-            eventName: 'engaged_time',
-            value: seconds,
-            meta: { seconds },
-          })
-        }, ms)
-      })
-
-      window.addEventListener('scroll', onScroll, { passive: true })
-
-      return () => {
-        window.removeEventListener('scroll', onScroll)
-        engagedTimers.forEach(clearTimeout)
-
-        const seconds = Math.max(1, Math.round((Date.now() - pageEnterAtRef.current) / 1000))
-        sendJson('/api/analytics/event', {
-          sessionId,
-          path: pathname,
-          slug,
-          contentType,
-          eventName: 'read_time_total',
-          value: seconds,
-          meta: { seconds },
-        })
+    })
+    let activeSince = document.hidden ? null : performance.now()
+    let activeMs = 0
+    let reportedMs = 0
+    const checkpoints = new Set()
+    const flush = () => {
+      if (activeSince !== null) { activeMs += performance.now() - activeSince; activeSince = document.hidden ? null : performance.now() }
+      const delta = Math.floor((activeMs - reportedMs) / 1000)
+      if (delta > 0) {
+        sendMeasurement('event', { sessionId: measurement.sessionId, path: pathname, eventName: 'active_time', value: delta, meta: { pageId } })
+        reportedMs += delta * 1000
+      }
+      if (!document.hidden) {
+        const current = getMeasurement()
+        if (current && current.sessionId !== measurement.sessionId) { measurement = current; pageId = crypto.randomUUID(); visit(); checkpoints.clear() }
       }
     }
-
+    const visibility = () => {
+      flush()
+      if (!document.hidden) {
+        const previousId = measurement.sessionId
+        measurement = getMeasurement()
+        if (measurement && previousId !== measurement.sessionId) { pageId = crypto.randomUUID(); visit(); checkpoints.clear() }
+      }
+      activeSince = document.hidden ? null : performance.now()
+    }
+    const scroll = () => {
+      const available = document.documentElement.scrollHeight - innerHeight
+      if (available <= 0) return
+      const depth = Math.round(scrollY / available * 100)
+      for (const threshold of [25, 50, 75, 90]) {
+        if (depth >= threshold && !checkpoints.has(threshold)) { checkpoints.add(threshold); trackEvent('scroll_depth', { pageId, threshold }, threshold) }
+      }
+    }
+    const click = (event) => {
+      const link = event.target.closest?.('a[href]')
+      if (!link) return
+      const url = new URL(link.href, location.origin)
+      // Track destinations, never visible copy or personal contact values.
+      if (url.protocol === 'tel:') trackEvent('phone_click')
+      else if (url.protocol === 'mailto:') trackEvent('email_click')
+      else if (url.origin === location.origin && url.pathname === '/kontakt') trackEvent('contact_click', { from_path: pathname })
+      else if (url.origin !== location.origin && /^https?:$/.test(url.protocol)) trackEvent('outbound_click', { destination_host: url.hostname })
+    }
+    const heartbeat = setInterval(flush, 15000)
+    document.addEventListener('visibilitychange', visibility)
+    window.addEventListener('pagehide', flush)
+    window.addEventListener('scroll', scroll, { passive: true })
+    document.addEventListener('click', click)
     return () => {
-      const seconds = Math.max(1, Math.round((Date.now() - pageEnterAtRef.current) / 1000))
-      sendJson('/api/analytics/event', {
-        sessionId,
-        path: pathname,
-        slug,
-        contentType,
-        eventName: 'time_on_page',
-        value: seconds,
-        meta: { seconds },
-      })
+      disposed = true
+      flush()
+      clearInterval(heartbeat)
+      document.removeEventListener('visibilitychange', visibility)
+      window.removeEventListener('pagehide', flush)
+      window.removeEventListener('scroll', scroll)
+      document.removeEventListener('click', click)
     }
-  }, [location.pathname, location.search])
+  }, [allowed, pathname, search])
 }
