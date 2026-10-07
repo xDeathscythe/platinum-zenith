@@ -1,55 +1,24 @@
 import fs from 'fs'
 import path from 'path'
-import { spawn } from 'child_process'
+import { startAuditServer } from './local-audit-server.mjs'
 
 const root = process.cwd()
 const serverEntry = path.join(root, 'server', 'index.js')
 const PORT = 4313
 const SEO_FILES = ['/sitemap.xml', '/rss.xml', '/robots.txt']
 
-function sleep(ms) {
-  return new Promise((resolve) => setTimeout(resolve, ms))
-}
-
-async function waitForServer(proc, timeoutMs = 15000) {
-  const start = Date.now()
-  while (Date.now() - start < timeoutMs) {
-    if (proc.exitCode !== null) throw new Error(`Server exited early with code ${proc.exitCode}`)
-
-    try {
-      const res = await fetch(`http://localhost:${PORT}/`, { redirect: 'manual' })
-      if (res.status >= 200 && res.status < 500) return
-    } catch {
-      // retry
-    }
-
-    await sleep(300)
-  }
-
-  throw new Error('Timed out waiting for server startup')
-}
-
 const issues = []
-let server
+let auditServer
 
 try {
   if (!fs.existsSync(serverEntry)) {
     throw new Error(`Missing server entry: ${serverEntry}`)
   }
 
-  server = spawn(process.execPath, [serverEntry], {
-    cwd: root,
-    env: {
-      ...process.env,
-      PORT: String(PORT),
-    },
-    stdio: ['ignore', 'pipe', 'pipe'],
-  })
-
-  await waitForServer(server)
+  auditServer = await startAuditServer({ root, serverEntry, port: PORT })
 
   for (const file of SEO_FILES) {
-    const first = await fetch(`http://localhost:${PORT}${file}`, { redirect: 'manual' })
+    const first = await auditServer.request(file)
     if (first.status !== 200) {
       issues.push(`${file}: expected initial 200, got ${first.status}`)
       continue
@@ -66,8 +35,7 @@ try {
       issues.push(`${file}: cache-control should include must-revalidate (got "${cacheControl}")`)
     }
 
-    const second = await fetch(`http://localhost:${PORT}${file}`, {
-      redirect: 'manual',
+    const second = await auditServer.request(file, {
       headers: {
         'if-modified-since': lastModified,
       },
@@ -80,11 +48,7 @@ try {
 } catch (err) {
   issues.push(err.message)
 } finally {
-  if (server && server.exitCode === null) {
-    server.kill('SIGTERM')
-    await sleep(400)
-    if (server.exitCode === null) server.kill('SIGKILL')
-  }
+  if (auditServer) await auditServer.stop()
 }
 
 const report = {

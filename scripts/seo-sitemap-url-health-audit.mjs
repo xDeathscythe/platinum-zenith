@@ -1,36 +1,11 @@
 import fs from 'fs'
 import path from 'path'
-import { spawn } from 'child_process'
+import { startAuditServer } from './local-audit-server.mjs'
 
 const root = process.cwd()
 const sitemapPath = path.join(root, 'public', 'sitemap.xml')
 const serverEntry = path.join(root, 'server', 'index.js')
 const PORT = 4312
-
-function sleep(ms) {
-  return new Promise((resolve) => setTimeout(resolve, ms))
-}
-
-async function waitForServer(proc, timeoutMs = 15000) {
-  const start = Date.now()
-
-  while (Date.now() - start < timeoutMs) {
-    if (proc.exitCode !== null) {
-      throw new Error(`Server exited early with code ${proc.exitCode}`)
-    }
-
-    try {
-      const res = await fetch(`http://localhost:${PORT}/`, { redirect: 'manual' })
-      if (res.status >= 200 && res.status < 500) return
-    } catch {
-      // retry
-    }
-
-    await sleep(300)
-  }
-
-  throw new Error('Timed out waiting for server startup')
-}
 
 function extractSitemapPaths(xml) {
   const urls = [...xml.matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => m[1].trim())
@@ -55,7 +30,7 @@ function extractCanonical(html) {
 }
 
 const issues = []
-let server
+let auditServer
 
 try {
   if (!fs.existsSync(sitemapPath)) {
@@ -73,19 +48,10 @@ try {
     throw new Error('No URLs found in sitemap.xml')
   }
 
-  server = spawn(process.execPath, [serverEntry], {
-    cwd: root,
-    env: {
-      ...process.env,
-      PORT: String(PORT),
-    },
-    stdio: ['ignore', 'pipe', 'pipe'],
-  })
-
-  await waitForServer(server)
+  auditServer = await startAuditServer({ root, serverEntry, port: PORT })
 
   for (const routePath of sitemapPaths) {
-    const res = await fetch(`http://localhost:${PORT}${routePath}`, { redirect: 'manual' })
+    const res = await auditServer.request(routePath)
 
     if (res.status !== 200) {
       issues.push(`${routePath}: expected 200 (canonical URL in sitemap), got ${res.status}`)
@@ -106,18 +72,14 @@ try {
     }
   }
 
-  const redirectCheck = await fetch(`http://localhost:${PORT}/google-reklame-cena/`, { redirect: 'manual' })
+  const redirectCheck = await auditServer.request('/google-reklame-cena/')
   if (redirectCheck.status !== 301) {
     issues.push('/google-reklame-cena/ should redirect to canonical URL with 301')
   }
 } catch (err) {
   issues.push(err.message)
 } finally {
-  if (server && server.exitCode === null) {
-    server.kill('SIGTERM')
-    await sleep(400)
-    if (server.exitCode === null) server.kill('SIGKILL')
-  }
+  if (auditServer) await auditServer.stop()
 }
 
 const report = {

@@ -1,32 +1,10 @@
 import fs from 'fs'
 import path from 'path'
-import { spawn } from 'child_process'
+import { startAuditServer } from './local-audit-server.mjs'
 
 const root = process.cwd()
 const serverEntry = path.join(root, 'server', 'index.js')
 const PORT = 4314
-
-function sleep(ms) {
-  return new Promise((resolve) => setTimeout(resolve, ms))
-}
-
-async function waitForServer(proc, timeoutMs = 15000) {
-  const start = Date.now()
-  while (Date.now() - start < timeoutMs) {
-    if (proc.exitCode !== null) throw new Error(`Server exited early with code ${proc.exitCode}`)
-
-    try {
-      const res = await fetch(`http://localhost:${PORT}/`, { redirect: 'manual' })
-      if (res.status >= 200 && res.status < 500) return
-    } catch {
-      // retry
-    }
-
-    await sleep(300)
-  }
-
-  throw new Error('Timed out waiting for server startup')
-}
 
 const checks = [
   { path: '/google-reklame-cena', expected: 'index, follow' },
@@ -36,26 +14,17 @@ const checks = [
 ]
 
 const issues = []
-let server
+let auditServer
 
 try {
   if (!fs.existsSync(serverEntry)) {
     throw new Error(`Missing server entry: ${serverEntry}`)
   }
 
-  server = spawn(process.execPath, [serverEntry], {
-    cwd: root,
-    env: {
-      ...process.env,
-      PORT: String(PORT),
-    },
-    stdio: ['ignore', 'pipe', 'pipe'],
-  })
-
-  await waitForServer(server)
+  auditServer = await startAuditServer({ root, serverEntry, port: PORT })
 
   for (const check of checks) {
-    const res = await fetch(`http://localhost:${PORT}${check.path}`, { redirect: 'manual' })
+    const res = await auditServer.request(check.path)
 
     if (res.status !== 200) {
       issues.push(`${check.path}: expected 200, got ${res.status}`)
@@ -70,11 +39,7 @@ try {
 } catch (err) {
   issues.push(err.message)
 } finally {
-  if (server && server.exitCode === null) {
-    server.kill('SIGTERM')
-    await sleep(400)
-    if (server.exitCode === null) server.kill('SIGKILL')
-  }
+  if (auditServer) await auditServer.stop()
 }
 
 const report = {
