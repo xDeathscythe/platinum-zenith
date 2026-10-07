@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "niwa-ai-vs-manychat-wordpress-woocommerce-2026",
+    "title": "Niwa AI vs ManyChat za WordPress i WooCommerce 2026: šta se dešava posle DM-a",
+    "excerpt": "Niwa AI ili ManyChat? Poređenje komentara, DM automatizacije, WordPress konteksta, WooCommerce preporuka i praćenja kupovine posle klika.",
+    "date": "2026-10-07",
+    "category": "Marketing",
+    "readTime": "10 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-prevodilacke-agencije-cena-upita-srbija-2026",
     "title": "Google Ads za prevodilačke agencije u Srbiji 2026: cena upita i budžet",
     "excerpt": "Google Ads za prevodilačke agencije treba meriti po plaćenim prevodima i bruto doprinosu, ne po broju poruka. Pogledajte strukturu kampanja, budžet i filtere.",

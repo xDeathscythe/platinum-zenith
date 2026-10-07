@@ -1,5 +1,144 @@
 const rawBlogPosts = [
   {
+    slug: 'niwa-ai-vs-manychat-wordpress-woocommerce-2026',
+    title: 'Niwa AI vs ManyChat za WordPress i WooCommerce 2026: šta se dešava posle DM-a',
+    excerpt: 'Niwa AI ili ManyChat? Poređenje komentara, DM automatizacije, WordPress konteksta, WooCommerce preporuka i praćenja kupovine posle klika.',
+    date: '2026-10-07',
+    readTime: '10 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Niwa AI', 'ManyChat', 'WordPress', 'WooCommerce', 'Instagram automatizacija', 'Marketing automatizacija'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+Vlasnik WooCommerce prodavnice ne bira samo alat za automatski odgovor. Bira gde će završiti podaci o pitanju, proizvodu, kliku, korpi i porudžbini.
+
+Tu poređenje Niwa AI vs ManyChat postaje zanimljivo. ManyChat je jak kada želite da komentar pokrene DM, oznaku kontakta i unapred složenu sekvencu. Niwa je bolji izbor kada razgovor mora da razume WordPress sajt i WooCommerce katalog, a zatim da se na sajtu vide poseta, proizvod koji je otvoren, dodavanje u korpu, checkout i kupovina.
+
+Pogrešno je porediti "ManyChat za društvene mreže" sa "Niwa chatbotom na sajtu". Niwa podržava razgovore na Meta kanalima, u okviru odobrenih mogućnosti naloga i kanala, i koristi javno znanje konkretnog sajta za odgovor. Razlika je u tome što je WordPress kod Niwe centar operacije, a ne još jedna spoljašnja integracija.
+
+## Kratak odgovor: koji alat izabrati
+
+Izaberite ManyChat ako vam je glavni posao Instagram ili Facebook automatizacija: komentar, privatna poruka, tag, condition, delay i sledeća poruka u vizuelnom flow builderu. Njegova zvanična dokumentacija detaljno pokriva [Instagram comment trigger](https://help.manychat.com/hc/en-us/articles/14281316989724-Instagram-Post-and-Reel-Comments-trigger), [Facebook comment trigger](https://help.manychat.com/hc/en-us/articles/14281386567836-Facebook-Comments-Trigger), keyword i intention triggers, kao i pravila nad kontaktima.
+
+Izaberite Niwa AI ako prodaja zavisi od podataka koji već žive u WordPressu i WooCommerce-u: proizvoda, varijacija, zaliha, pravila prodavnice, sadržaja sajta, ponašanja posle klika i ishoda u checkoutu. Za takav posao odgovor "poslaću ti link" nije dovoljan. Alat treba da zna koji link i proizvod imaju smisla, pa da sajt posle toga zabeleži šta se dogodilo.
+
+Ako imate ozbiljan social-first funnel, ManyChat nije pogrešan izbor. Ako imate WooCommerce prodavnicu i želite jedan operativni sloj bliži katalogu, sadržaju i prodaji, Niwa ima jaču polaznu poziciju.
+
+## Poređenje po poslu koji treba obaviti
+
+| Posao | ManyChat | Niwa AI |
+|---|---|---|
+| Instagram komentar u privatnu poruku | Nativni comment trigger sa javnim odgovorom i privatnim DM korakom | Podržani Instagram comment flow može poslati početni privatni odgovor, uz nastavak kada kupac pošalje DM |
+| Facebook komentar i Messenger | Zreo comment-to-Messenger flow sa triggerima i uslovima | Facebook/Messenger razgovori rade kroz povezani Meta nalog i dozvole konkretnog naloga |
+| WhatsApp | Keyword, flow i template automatizacije prema planu i pravilima kanala | WhatsApp Cloud inbox, tekstualni odgovori u korisničkom prozoru, odobreni template-i i statusi isporuke kada je kanal podešen |
+| Odgovor iz sadržaja sajta | Moguć kroz dodatni sadržaj, AI i integracije koje podesite | Odgovor koristi javno znanje, proizvode, usluge i pravila konkretnog WordPress sajta |
+| WooCommerce proizvod i varijacija | Može se povezati integracijama i spoljnim zahtevima | Katalog, varijacije, raspoloživost i smernice prodavnice deo su nativnog konteksta Niwa plugina |
+| Praćenje posle klika | ManyChat Pixel, CAPI i druge integracije mogu beležiti događaje | Niwa Site Analytics beleži sesije, UTM kampanje, stranice, kontakte i WooCommerce konverzije u WordPress bazi |
+| Promena sajta ili oglasa | Zavisi od flow-a, akcije i integracije | Analitika i preporuka nisu isto što i automatska izmena. Promene traže odgovarajući alat, dozvolu i kontrolu vlasnika |
+
+Ova tabela nije tvrdnja da jedan proizvod može sve što i drugi. Ona pokazuje gde je koja platforma prirodno najbliža podatku koji prodavnici treba.
+
+## Gde je ManyChat stvarno jak
+
+ManyChat je napravljen oko social automation logike. Njegov Instagram Post and Reel Comments trigger može da reaguje na komentar, pošalje javni odgovor i otvori privatni korak. Korisnik ipak mora da odgovori ili klikne odgovarajuće dugme da bi se otvorio standardni 24-časovni prozor za nastavak poruka. Slična pravila važe i za Facebook comment-to-Messenger tok.
+
+Tu su i [keyword triggers](https://help.manychat.com/hc/en-us/articles/14281211785884-How-to-use-Keywords-Trigger-in-Manychat) na podržanim kanalima, uz [AI intention recognition](https://help.manychat.com/hc/en-us/articles/14281187229468-Manychat-AI-Intention-Recognition) za poruke koje ne koriste tačnu ključnu reč. To je važno jer ManyChat nije samo stari meni sa rečima "CENA" i "INFO". Može da prepozna nameru, pokrene automation i nastavi kroz uslove, tagove i akcije.
+
+ManyChat takođe nije odsečen od sajta. Zvanično ima [ManyChat Pixel](https://help.manychat.com/hc/en-us/articles/14281244168476-Manychat-Pixel) za događaje na web stranici, [Conversions API podršku](https://help.manychat.com/hc/en-us/articles/14580897414300-Conversions-API-CAPI-integration) za slanje konverzionih događaja u Meta sistem i [External Request](https://help.manychat.com/hc/en-us/articles/14281285374364-Dev-Tools-External-request) za povezivanje sa spoljnim servisima preko HTTPS zahteva. Ako neko kaže da ManyChat ne može ništa posle DM-a, poređenje je već krenulo iz pogrešne pretpostavke.
+
+Cena te fleksibilnosti je setup. Neko mora da napravi flow, mapira polja, održi spoljne zahteve, definiše evente i proveri da li se isti kupac i događaj zaista povezuju kako je zamišljeno.
+
+## Gde Niwa ima prednost za WordPress vlasnika
+
+Niwa radi unutar WordPress okruženja u kojem se nalaze ponuda, sadržaj, kontakti i, kod WooCommerce prodavnice, katalog i prodajni događaji. To menja kvalitet odgovora.
+
+Kupac na Instagramu ne pita apstraktno: "Pošalji ponudu." Pita da li određeni model postoji u plavoj boji, da li odgovara uređaju koji već ima, koliko traje dostava ili koji proizvod je bolji za njegov slučaj. Niwa customer-facing odgovor koristi javno znanje prodavnice i javne read alate. Ne dobija privatne administratorske dozvole samo zato što je neko poslao DM.
+
+Na sajtu Niwa može da vodi kupca kroz stvarne proizvode i varijacije, prikaže product cards i zabeleži interakcije kao što su klik na karticu proizvoda, dodavanje u korpu i odlazak na checkout. [Niwa WooCommerce AI sales agent](https://niwachat.com/woocommerce-ai-sales-agent/) opisuje baš taj prodajni sloj: odgovor treba da se osloni na katalog i pravila prodavnice, a ne na napamet napisanu sekvencu koja će zastareti kada se promeni zaliha.
+
+Za vlasnika koji već ulaže u [WordPress sajt](/izrada-wordpress-sajta-cena), prednost nije još jedan inbox. Prednost je da odgovor i merenje ostanu blizu izvora istine.
+
+## Kako izgleda tok od komentara do kupovine
+
+Zamislimo objavu za vodootporne patike. Osoba u komentaru pita: "Da li imate model za šire stopalo?"
+
+Dobar tok ne treba odmah da pošalje generičan link ka kategoriji sa 80 proizvoda.
+
+1. Comment flow šalje početni privatni odgovor u granicama koje Meta dozvoljava.
+2. Niwa koristi javni kontekst prodavnice da postavi pitanje koje menja preporuku, na primer broj, namenu i željenu boju.
+3. Kupac dobija link ka relevantnom proizvodu ili užem izboru, sa UTM oznakama za izvor, medium i kampanju.
+4. Kada otvori sajt, Niwa Site Analytics beleži sesiju, odredišnu stranu i kampanju koju je browser dostavio.
+5. Na sajtu kupac može da nastavi razgovor, otvori product card, doda proizvod u korpu i ode na checkout.
+6. WooCommerce porudžbina čuva raspoloživi kontekst atribucije, a izveštaj povezuje kampanju sa konverzijom i prihodom po podržanom last non-direct modelu.
+
+To je konkretna prednost za WooCommerce: razgovor ne završava brojem poslatih DM poruka. Funnel se nastavlja na sajtu, tamo gde nastaju korpa i prihod.
+
+Postoji važna granica. Niwa ne treba predstavljati kao sistem koji automatski zna da su Instagram profil, browser na laptopu i WooCommerce kupac ista osoba. Site analytics koristi browser session credential, UTM podatke, referrer i cookie. Ne potvrđuje identitet osobe preko uređaja i ne može da rekonstruiše kampanju ako browser nije prosledio podatke. Zato linkovi iz DM-a moraju imati dosledne UTM oznake.
+
+## Šta treba meriti umesto broja poruka
+
+Broj odgovorenih komentara je operativna metrika. Nije prodajni rezultat.
+
+Za jedan social-to-store tok pratite najmanje sledeće prelaze:
+
+- komentar koji je dobio dozvoljen privatni odgovor;
+- nastavljen DM razgovor;
+- klik i sesiju sa označenim izvorom;
+- pregled relevantnog proizvoda ili klik na product card;
+- dodavanje u korpu i početak checkouta;
+- porudžbinu, prihod i naknadni refund ili otkazivanje.
+
+Uzmimo ilustrativan primer, ne benchmark za Niwu ili ManyChat. Od 100 komentara, 40 ljudi nastavi razgovor u DM-u, 25 dođe na sajt, pet doda proizvod u korpu, a dvoje kupi. Comment-to-DM stopa je 40%, DM-to-visit 62,5%, visit-to-cart 20%, visit-to-order 8%, a ukupno comment-to-order 2%.
+
+Ako gledate samo 40 DM razgovora, kampanja deluje odlično. Ako gledate dve porudžbine, možete da izračunate prihod i stvarni trošak kupca. Ako nijedna poseta ne stigne do proizvoda, problem možda nije social trigger nego pogrešan link, slaba preporuka ili landing strana.
+
+Tek tada [atribucija leadova](/blog/atribucija-leadova-marketing-budzet-roi-srbija-2026) i [praćenje konverzija](/blog/pracenje-konverzija-lead-generation-srbija-2026) pomažu da se budžet ne dodeljuje kanalu koji samo izgleda zauzeto.
+
+## Niwa analitika nije dozvola za samostalne izmene
+
+Niwa Site Analytics beleži izvore, kampanje, stranice, kontakte i WooCommerce ishode u WordPress bazi. Model atribucije je last non-direct sa browser cookie kontekstom, uz realna ograničenja kao što su blokiran JavaScript, obrisani cookie podaci i nedostajući referrer.
+
+To znači da Niwa može da pokaže da kampanja dovodi posete koje otvaraju određene stranice i kupuju. Ne znači da svaki prihod pripada samo poslednjem razgovoru, niti da Niwa treba sama da promeni oglas, cenu proizvoda ili landing stranu.
+
+Osnovno Meta campaign reporting povezivanje čita spend, impressions, clicks i reach. Ne menja budžete. Odvojeni owner-only Ads alati mogu da rade izmene tek kada su odgovarajuće dozvole uključene i vlasnik odobri nalog, budžet i raspored. Ista razlika važi za WordPress: preporuka za bolji funnel nije već izvršena izmena sajta.
+
+Ta granica je dobra. Vlasnik dobija dokaz i predlog, a rizična promena ostaje kontrolisana.
+
+## Kada ManyChat ostaje bolji izbor
+
+ManyChat ostaje logičniji kada posao živi skoro potpuno u Instagramu, Messengeru ili WhatsApp-u, a glavni cilj je da marketing tim brzo sklapa veliki broj social flow-ova bez ulaska u WordPress administraciju.
+
+Ako prodajete kroz kreatore sadržaja, kodne reči u komentarima, lead magnets i sekvence poruka, njegov vizuelni automation model je teško ignorisati. Isto važi kada tim već ima CRM i data layer koji uredno povezuju ManyChat Pixel, CAPI, spoljne zahteve i prodajne ishode.
+
+Ne treba rušiti setup koji radi samo zato što postoji novi alat. Treba proveriti gde se gube podaci i koliko održavanja traži svaka dodatna veza.
+
+## Kada je Niwa bolji izbor
+
+Niwa je bolji izbor kada je WordPress ili WooCommerce stvarno mesto poslovanja, a ne brošura na kraju social funnel-a.
+
+To posebno važi kada:
+
+- odgovor mora da koristi aktuelne proizvode, varijacije, dostupnost i pravila prodavnice;
+- ista platforma treba da pokrije website razgovor i podržane Meta ili WhatsApp razgovore;
+- želite site-side podatke o UTM kampanji, stranici, kontaktu, checkoutu i porudžbini;
+- product recommendation treba da vodi ka stvarnom proizvodu, a ne ka ručno održavanoj listi u flow-u;
+- marketing i prodaja žele da vide šta se dogodilo posle klika, bez tvrdnje da je svaki kupac savršeno identifikovan preko kanala i uređaja.
+
+Tu Niwa prestaje da bude "chat widget". Postaje prodajni i operativni sloj vezan za sajt koji već vodi posao.
+
+## Kako doneti odluku bez demo magle
+
+Testirajte oba pristupa na jednom stvarnom toku. Uzmite objavu ili oglas koji redovno dobija isto pitanje, jedan WooCommerce proizvodni problem i jednu kupovinu koju možete da proverite.
+
+Zatim tražite da demonstracija pokaže ceo put: stvarni komentar ili poruku, odgovor u granicama kanala, link sa kampanjskim oznakama, dolazak na sajt, tačan proizvod, cart ili checkout događaj i konačni ishod u izveštaju. Nemojte prihvatiti snimak DM flow-a kao dokaz WooCommerce prodaje. Nemojte prihvatiti ni lep website chat kao dokaz da social kanal radi.
+
+Ako želite da proverimo gde vaš tok puca između komentara, DM-a, proizvoda i porudžbine, pošaljite sajt i konkretan scenario kroz [kontakt formu](/kontakt). Možemo da mapiramo šta treba da ostane u ManyChat-u, šta Niwa može da preuzme i gde podaci moraju da se spoje pre nego što povećate [budžet za digitalni marketing](/cene-digitalnog-marketinga).
+`,
+  },
+  {
     slug: 'google-ads-za-prevodilacke-agencije-cena-upita-srbija-2026',
     title: 'Google Ads za prevodilačke agencije u Srbiji 2026: cena upita i budžet',
     excerpt: 'Google Ads za prevodilačke agencije treba meriti po plaćenim prevodima i bruto doprinosu, ne po broju poruka. Pogledajte strukturu kampanja, budžet i filtere.',
