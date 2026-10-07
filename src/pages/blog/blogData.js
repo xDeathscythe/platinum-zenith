@@ -1,5 +1,174 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-prevodilacke-agencije-cena-upita-srbija-2026',
+    title: 'Google Ads za prevodilačke agencije u Srbiji 2026: cena upita i budžet',
+    excerpt: 'Google Ads za prevodilačke agencije treba meriti po plaćenim prevodima i bruto doprinosu, ne po broju poruka. Pogledajte strukturu kampanja, budžet i filtere.',
+    date: '2026-10-07',
+    readTime: '9 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Prevodilačke agencije', 'Sudski tumači', 'Cena upita', 'Marketing budžet'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Prevodilačkoj agenciji ne treba više upita po svaku cenu
+
+Osoba koja u Google ukuca "sudski tumač za nemački Beograd" verovatno ima konkretan dokument i rok. Neko ko traži "kako se prevodi ugovor" možda želi obrazac, savet ili besplatnu pomoć. Obe pretrage mogu da dovedu posetu, ali nemaju istu poslovnu vrednost.
+
+Zato Google Ads za prevodilačke agencije ne treba ocenjivati po klikovima, pozivima ili popunjenim formularima. Prava merila su prihvaćena procena, uplaćen avans ili ceo iznos, isporučen prevod i bruto doprinos posle saradnika, overe, kurira i administracije.
+
+Kampanja može da ima skup klik i da bude odlična ako redovno dovodi hitne, obimnije ili ponovljene poslove. Može da ima jeftine upite i da pravi gubitak ako tim satima proverava dokumente koji nikada ne postanu porudžbina.
+
+Pre nego što odredite [Google Ads budžet](/google-reklame-cena), razdvojite usluge po nameri, vrednosti i načinu isporuke.
+
+## Nemojte držati sve prevode u jednoj kampanji
+
+Jedna grupa oglasa za "prevodilačke usluge" obično pomeša nekoliko potpuno različitih potreba. Kupac koji prevodi izvod iz matične knjige ne bira na isti način kao firma kojoj treba lokalizacija sajta ili prevod tehničke dokumentacije.
+
+Praktična početna podela može da izgleda ovako:
+
+- sudski tumači i overeni prevodi za konkretne jezike;
+- lična dokumenta, diplome, uverenja i dokumentacija za inostranstvo;
+- ugovori, tenderi i poslovna dokumenta;
+- medicinski i tehnički prevodi koje agencija stvarno može stručno da obradi;
+- lokalizacija sajta, softvera ili kataloga;
+- usmeno i simultano prevođenje, ako je deo ponude;
+- hitni prevodi sa jasno navedenim uslovima i radnim vremenom.
+
+Ovakva podela omogućava da oglas, ključna reč i landing strana odgovore na isti zahtev. Za overeni prevod kupca zanimaju jezik, vrsta dokumenta, rok, način slanja i preuzimanja. Za B2B dokumentaciju važni su obim, terminologija, format fajla, poverljivost, revizija i kontinuitet saradnje.
+
+Ako sve vodi na generičku početnu stranu, posetilac mora sam da traži da li radite njegov jezik i dokument. Plaćate klik, a zatim mu zadajete domaći zadatak.
+
+## Jezik, dokument i rok menjaju vrednost upita
+
+Dobar formular ne mora biti dug, ali mora da prikupi podatke bez kojih cena i rok ne mogu ozbiljno da se procene.
+
+Za većinu prevodilačkih upita dovoljno je tražiti:
+
+- izvorni i ciljni jezik;
+- vrstu dokumenta ili sadržaja;
+- okvirni broj strana ili reči;
+- da li je potrebna overa sudskog tumača;
+- željeni rok;
+- grad i način preuzimanja kada je potreban fizički primerak;
+- mogućnost bezbednog prilaganja fajla;
+- telefon ili email za potvrdu ponude.
+
+Polja treba prilagoditi usluzi. Kod usmenog prevođenja pitajte datum, trajanje, lokaciju, temu i broj učesnika. Kod lokalizacije pitajte format, količinu sadržaja, jezike i da li postoji terminološka baza. To je korisnija [kvalifikacija kroz kontakt formu](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026) od jednog velikog polja "poruka".
+
+Nemojte tražiti pasoš, ugovor ili medicinski nalaz kroz običan nezaštićen formular ako nemate jasan razlog, odgovarajuću zaštitu i definisan rok čuvanja. Za prvi korak često je dovoljan redigovan uzorak ili osnovni podaci, a osetljiv dokument može da se razmeni kroz kontrolisan kanal nakon potvrde.
+
+## Ključne reči treba da prate posao koji možete da isporučite
+
+Fraze sa jasnom komercijalnom namerom obično kombinuju uslugu sa jezikom, dokumentom, lokacijom, overom ili rokom. Primeri su "sudski tumač italijanski Novi Sad", "overen prevod diplome na nemački", "prevod ugovora engleski cena" ili "hitni prevod dokumenta Beograd".
+
+To ne znači da svaka široka fraza mora da bude zabranjena. Znači da joj ne treba dati isti budžet i istu ponudu kao preciznoj pretrazi. Šire pojmove držite u odvojenoj kampanji ili grupi, sa kontrolisanim budžetom i redovnim pregledom search terms izveštaja.
+
+Negativne ključne reči često treba da pokriju:
+
+- besplatne online prevodioce i automatski prevod;
+- značenje reči, rečnike i gramatičke vežbe;
+- kurseve jezika, fakultete i materijale za učenje;
+- oglase za posao, praksu i zarade prevodilaca;
+- softver, aplikacije i ekstenzije ako ih ne prodajete;
+- jezike, gradove ili vrste usluga koje agencija ne pruža;
+- obrasce, primere i gotove prevode za preuzimanje.
+
+Lista ne treba da se prekopira naslepo sa interneta. Pregledajte stvarne upite i dodajte negativnu reč tek kada razumete šta biste njome isključili. Reč "posao" može biti nerelevantna u "posao prevodioca", ali vredna u "prevod za posao u Nemačkoj".
+
+## Landing strana mora brzo da odgovori na praktična pitanja
+
+Oglas može da obeća overeni prevod za određeni jezik, a da posetilac završi na strani sa rečenicom "pružamo kvalitetne prevodilačke usluge". Takav prelaz prekida nameru zbog koje je klik plaćen.
+
+Strana za konkretnu uslugu treba odmah da kaže:
+
+- koje jezike i dokumente pokrivate;
+- da li radite overu i ko je obavlja;
+- kako se dobija procena cene;
+- koji faktori menjaju rok i cenu;
+- kako se dokument šalje i preuzima;
+- koje gradove pokrivate i kada je sve moguće završiti online;
+- šta se dešava nakon slanja upita.
+
+Ako cenu nije moguće objaviti kao jednu cifru, prikažite način obračuna, minimalnu naknadu, tipične jedinice ili šta je potrebno za preciznu ponudu. Tekst o [cenama usluga na sajtu](/blog/cene-na-sajtu-usluge-kvalitet-leadova-srbija-2026) objašnjava kako cenovni okvir filtrira očekivanja bez pretvaranja stručne usluge u cenovnik.
+
+Za overene i osetljive dokumente poverenje mora biti konkretno. Navedite stvarne jezike, dostupne sudske tumače, postupak provere, pravila poverljivosti, kontakt podatke i realne rokove. Generičke tvrdnje o kvalitetu nisu dokaz.
+
+## Budžet računajte po tipu porudžbine, ne po prosečnom upitu
+
+Niska cena upita nema mnogo smisla ako se iza nje kriju sitni poslovi sa mnogo administracije. Isto važi obrnuto: skuplji upit može da bude prihvatljiv kada nosi veći obim, ponovljene narudžbine ili dobru maržu.
+
+Uzmimo interni primer, ne tržišni benchmark. Standardni prevod se naplaćuje 9.000 dinara. Direktni trošak prevodioca, provere i administracije iznosi 4.500 dinara, pa pre akvizicije ostaje 4.500 dinara. Ako je maksimalni puni trošak kupca 1.800 dinara, a 40% kvalifikovanih upita postane plaćena porudžbina, maksimalna cena kvalifikovanog upita je 720 dinara.
+
+Za hitan overeni paket od 45.000 dinara direktni troškovi mogu u internom primeru da budu 22.000 dinara. Ostaje 23.000 dinara doprinosa. Ako firma dopušta najviše 9.000 dinara za akviziciju kupca i zatvara 30% kvalifikovanih upita, gornja cena takvog upita je 2.700 dinara.
+
+Ista kampanja ne treba da optimizuje oba posla prema jednom prosečnom CPL-u. Razdvojite ih i koristite sopstvene brojeve: naplaćeni iznos, direktni trošak, stopu kvalifikacije, stopu kupovine, otkazivanja, reklamacije i prodajno vreme.
+
+[Bruto marža](/blog/bruto-marza-marketing-budzet-roi-srbija-2026) i maksimalna cena kupca određuju koliko smete da platite. CPC je tek ulazni trošak.
+
+## Početni budžet treba da kupi dovoljno odluka
+
+Budžet od 60.000 dinara uz ciljnu cenu kvalifikovanog upita od 1.200 dinara matematički kupuje oko 50 takvih upita. Ako 35% postane plaćena porudžbina, očekivanje je 17 do 18 poslova. To je plan zasnovan na pretpostavkama, ne obećanje platforme.
+
+Pre pokretanja napišite koje pretpostavke moraju da se potvrde:
+
+1. Koliki deo svih upita odgovara jeziku, dokumentu, roku i minimalnoj vrednosti posla?
+2. Koliki deo kvalifikovanih upita dobije ponudu na vreme?
+3. Koliki deo ponuda postane plaćena porudžbina?
+4. Koliki je bruto doprinos posle saradnika i direktnih troškova?
+5. Da li tim može da isporuči dodatni obim bez kašnjenja i pada kvaliteta?
+
+Ako nemate istorijske podatke, počnite manjim kontrolisanim testom. Nemojte budžet razvući preko svakog jezika, grada i tipa prevoda. Izaberite nekoliko profitabilnih usluga sa jasnim kapacitetom, prikupite stvarne search terms i pratite put od klika do naplate.
+
+## Poziv i formular nisu završna konverzija
+
+Google Ads lako može da nauči da kupuje najjeftinije popunjavanje forme. To nije isto što i posao. Potrebno je povezati izvor sa prodajnim statusima.
+
+Korisni statusi za prevodilačku agenciju mogu biti:
+
+- nov upit;
+- dokument ili specifikacija primljeni;
+- kvalifikovan ili diskvalifikovan;
+- procena poslata;
+- kupac prihvatio cenu i rok;
+- plaćeno ili avansirano;
+- prevod isporučen;
+- reklamacija, otkazivanje ili izgubljen posao sa razlogom.
+
+Tek tada [praćenje konverzija](/blog/pracenje-konverzija-lead-generation-srbija-2026) pokazuje koje ključne reči dovode prihod, a koje samo administraciju. Kada postoji dovoljno kvalitetnih podataka, Google Ads treba da dobije signal za prihvaćenu ili plaćenu porudžbinu, ne za svaki kontakt istom vrednošću.
+
+Za telefonske pozive beležite jezik, vrstu dokumenta, rok, procenjenu vrednost i ishod. Poziv od dva minuta sa pitanjem za jezik koji ne radite ne sme da vredi isto kao potvrđen posao.
+
+## Brzina odgovora vredi samo ako odgovor donosi odluku
+
+Kod hitnog prevoda, osoba često kontaktira više agencija. Automatska poruka "javićemo se uskoro" ne rešava njen problem. Prvi odgovor treba da potvrdi šta je primljeno, šta još nedostaje za cenu, kada stiže procena i koji je najraniji realan rok.
+
+Ako dokument zahteva pregled, recite to. Ako overa ili fizička dostava menja rok, navedite pre ponude. Ako je potreban avans, kupac to treba da sazna pre nego što poveruje da je termin rezervisan.
+
+Dobra [follow-up sekvenca](/blog/follow-up-sekvenca-leadovi-prodaja-srbija-2026) ovde je kratka i vezana za konkretan predmet. Podsetnik može da proveri da li kupcu i dalje odgovara rok ili da li nedostaje dokument. Generična poruka poslata nedeljama kasnije, bez naziva jezika i posla, samo pokazuje da evidencija ne radi.
+
+## Šta proveravati svake nedelje
+
+Nedeljni pregled treba da spoji podatke iz Google Ads-a sa procenama, naplatom i isporukom.
+
+Proverite search terms koji troše novac bez komercijalne namere. Zatim uporedite jezike i usluge po ceni kvalifikovanog upita, poslatoj proceni, prihvaćenoj porudžbini i bruto doprinosu. Posebno pogledajte izgubljene poslove: da li je problem bila cena, rok, nedostupan jezik, spora procena, nejasan proces ili nedovoljno poverenja.
+
+Ne povećavajte budžet samo zato što je CPL pao. Ako tim kasni sa procenama, nema saradnika za traženi jezik ili prihvata hitne rokove koje ne može da isporuči, dodatni klikovi kupuju operativni problem.
+
+Smanjite ili preusmerite budžet kada jedna grupa redovno dovodi pogrešne jezike, male poslove ispod minimuma ili zahteve bez realne mogućnosti naplate. Povećajte ga kada konkretna usluga drži kvalitet upita, stopu kupovine, maržu i rok isporuke.
+
+## Kampanja treba da dovede dokument koji želite da prevedete
+
+Dobra kampanja za prevodilačku agenciju ne pokušava da osvoji svaku pretragu koja sadrži reč "prevod". Ona bira jezike, dokumente i rokove koje tim može da proda i isporuči sa zdravom maržom.
+
+Počnite od ponude i kapaciteta. Zatim uskladite ključnu reč, oglas, landing stranu, formular, procenu i prodajni status. Tako [cena digitalnog marketinga](/cene-digitalnog-marketinga) može da se poredi sa plaćenim porudžbinama, a ne sa gomilom poruka različite vrednosti.
+
+Ako želite plan kampanje po jeziku, vrsti prevoda i maksimalnoj ceni kupca, pošaljite postojeće brojke kroz [kontakt formu](/kontakt). Pregledaćemo gde nastaje kvalitetan posao i šta treba odvojiti pre nego što budžet počne da plaća pogrešne upite.
+`,
+  },
+  {
     slug: 'razlozi-izgubljenih-poslova-leadovi-prodaja-srbija-2026',
     title: 'Razlozi izgubljenih poslova u Srbiji 2026: zašto kampanja ne prodaje',
     excerpt: 'Ako svaki izgubljeni lead završi kao „nije zainteresovan“, ne znate da li curi oglas, ponuda ili prodaja. Uvedite razloge gubitka i popravite pravo usko grlo.',

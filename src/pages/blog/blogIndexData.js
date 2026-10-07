@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-prevodilacke-agencije-cena-upita-srbija-2026",
+    "title": "Google Ads za prevodilačke agencije u Srbiji 2026: cena upita i budžet",
+    "excerpt": "Google Ads za prevodilačke agencije treba meriti po plaćenim prevodima i bruto doprinosu, ne po broju poruka. Pogledajte strukturu kampanja, budžet i filtere.",
+    "date": "2026-10-07",
+    "category": "Marketing",
+    "readTime": "9 min read",
+    "isDraft": false
+  },
+  {
     "slug": "razlozi-izgubljenih-poslova-leadovi-prodaja-srbija-2026",
     "title": "Razlozi izgubljenih poslova u Srbiji 2026: zašto kampanja ne prodaje",
     "excerpt": "Ako svaki izgubljeni lead završi kao „nije zainteresovan“, ne znate da li curi oglas, ponuda ili prodaja. Uvedite razloge gubitka i popravite pravo usko grlo.",
