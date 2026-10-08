@@ -1,5 +1,153 @@
 const rawBlogPosts = [
   {
+    slug: 'rok-vazenja-ponude-leadovi-prodaja-srbija-2026',
+    title: 'Rok važenja ponude u Srbiji 2026: zašto leadovi odlažu odluku',
+    excerpt: 'Ponuda bez roka i dogovorenog datuma odluke lako postaje otvoren posao bez vlasnika. Pogledajte kako rok, sledeći korak i CRM status čuvaju prodaju.',
+    date: '2026-10-08',
+    readTime: '9 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Rok važenja ponude', 'Prodajni proces', 'Lead Generation', 'CRM', 'Konverzija'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Rok važenja nije pritisak ako kupac zna šta bira
+
+Ponuda bez datuma do kada važi često ostane otvorena mnogo duže nego što obe strane stvarno očekuju. Prodavac je vodi kao aktivnu. Kupac je prosledi kolegi, čeka budžet ili je jednostavno ostavi među porukama na koje će se vratiti. Posle dve nedelje niko više ne zna da li se čeka odluka, nova informacija ili pristojan način da se razgovor zatvori.
+
+Problem nije samo sporija prodaja. Dok takve ponude stoje u pipeline-u, firma planira prihod koji možda neće doći, rezerviše kapacitet koji niko nije potvrdio i pogrešno procenjuje koliko novih leadova treba da kupi.
+
+Rok važenja ponude ne služi da kupca požuruje izmišljenom nestašicom. Služi da cenu, obim, termin i sledeći korak veže za period u kojem ih firma zaista može garantovati.
+
+## Šta rok ponude zapravo treba da zaštiti
+
+Kod jednostavne usluge cena možda može da stoji mesecima. Kod projekta se menjaju raspoloživost tima, nabavne cene, termini podizvođača, kurs, sezonska tražnja i količina posla koju firma može da primi. Ako ponuda nema granicu, kupac može posle 70 dana da očekuje isti početak, istu cenu i isti obim, iako su se uslovi promenili.
+
+Dobar rok štiti četiri konkretne stvari:
+
+- cenu i način plaćanja koji su izračunati za poznate uslove;
+- raspoloživi termin ili rezervisani kapacitet;
+- obim posla, uključene stavke i pretpostavke;
+- vreme u kojem prodaja treba da dobije odluku ili dogovori novu verziju ponude.
+
+To nije isto što i rečenica "ponuda važi još 24 sata" ubačena bez razloga. Ako nema stvarnog ograničenja, lažna hitnost ruši poverenje. Ako termin izvođenja zavisi od potvrde do petka, to treba napisati jasno: termin je raspoloživ do tog datuma, a posle toga se ponovo proverava.
+
+## Ponuda i rezervacija termina nisu ista stvar
+
+Mnoge uslužne firme u istom dokumentu pomešaju cenu, raspoloživost i rezervaciju. Kupac pročita da radovi mogu početi 15. novembra, ali nije jasno da li je termin sačuvan, koliko dugo se čuva i šta ga potvrđuje.
+
+Razdvojite ta tri pojma:
+
+1. Ponuda opisuje preporučeni obim, cenu i uslove.
+2. Rok važenja kaže do kada ti uslovi mogu da se prihvate bez nove provere.
+3. Rezervacija nastaje tek kada se ispuni dogovoreni uslov, na primer potpis, avans ili pisana potvrda.
+
+Tako prodavac ne obećava isti termin većem broju kupaca, a kupac zna da "sviđa nam se ponuda" nije isto što i potvrđen početak. Ako tražite avans, napišite njegov iznos, rok plaćanja, šta tačno rezerviše i šta se dešava kod pomeranja ili otkazivanja.
+
+## Rok bez dogovorenog datuma odluke nije dovoljan
+
+PDF može da kaže da ponuda važi 15 dana, a da prodajni razgovor ipak završi sa "čujemo se". To ostavlja sav posao kupcu. On treba da okupi kolege, pronađe pitanje koje nije razjašnjeno i sam se seti da odgovori.
+
+Pre slanja ponude dogovorite datum sledeće odluke. Ne mora uvek da bude konačno "da" ili "ne". Odluka može biti:
+
+- prihvatamo preporučeni obim;
+- tražimo izmenu obima ili dinamike plaćanja;
+- uključujemo drugog donosioca odluke;
+- projekat pomeramo do poznatog datuma;
+- zatvaramo priliku jer ponuda sada nije dobar fit.
+
+Korisno pitanje glasi: "Kada možete realno da pregledate ponudu sa ljudima koji odlučuju?" Zatim se odmah zakazuje kratak razgovor ili upisuje datum odgovora. Tekst o [sledećem koraku posle upita](/blog/sledeci-korak-posle-upita-leadovi-prodaja-srbija-2026) objašnjava zašto otvoren razgovor bez radnje i roka brzo postaje mrtav pipeline.
+
+## Rok mora da prati način na koji kupac odlučuje
+
+Privatni kupac za servis ili manji kućni posao može da odluči istog dana. B2B kupac možda mora da uključi vlasnika, finansije, nabavku ili pravni tim. Isti rok za sve nije disciplina, već ignorisanje prodajnog procesa.
+
+Pre nego što napišete sedam, 15 ili 30 dana, proverite:
+
+- ko koristi uslugu i ko odobrava trošak;
+- da li postoji još jedna ponuda koju kupac čeka;
+- kada se odobrava budžet;
+- da li je potrebna interna ili pravna provera;
+- koji datum projekta zahteva odluku;
+- koja informacija još može da zaustavi saglasnost.
+
+Ako razgovarate samo sa osobom koja prikuplja ponude, rok neće magično stvoriti ovlašćenje. Potrebno je mapirati [donosioca odluke i put odobrenja](/blog/donosilac-odluke-lead-generation-prodaja-srbija-2026), pa rok vezati za stvarni interni događaj.
+
+## Šta treba da piše uz rok važenja
+
+Sama rečenica "ponuda važi 15 dana" ne govori šta se dešava šesnaestog dana. Kupac može da pretpostavi da je dovoljno samo poslati stari PDF.
+
+Praktična formulacija treba da objasni posledicu bez teatralnosti:
+
+> Cena i opisani obim važe do 23. oktobra 2026. Termin početka potvrđuje se nakon prihvatanja ponude i uplate avansa. Posle navedenog datuma proveravamo raspoloživost i, ako je potrebno, šaljemo ažuriranu ponudu.
+
+Ako nema avansa, zamenite taj deo stvarnim uslovom potvrde. Ako se cena neće menjati, ali termin može, napišite baš to. Ako ponuda zavisi od podataka koje kupac još nije dostavio, navedite pretpostavku i šta pokreće novu procenu.
+
+Dobar dokument treba da sadrži i jednu osobu za pitanja, način prihvatanja, sledeći razgovor i verziju ponude. To sprečava da kupac odgovori na stari prilog nakon što su detalji već promenjeni.
+
+## Ne produžavajte ponudu automatski
+
+Kada rok istekne, najlakše je poslati poruku: "Produžili smo ponudu za još 15 dana." Time firma često samo produži nejasnoću.
+
+Pre produženja proverite šta se promenilo. Da li kupac još ima isti problem? Da li je obim isti? Da li je budžet odobren? Da li je projekat stvarno odložen ili niko ne želi da kaže da je izgubljen? Da li termin i dalje postoji?
+
+Produženje ima smisla kada postoji potvrđen razlog i nov datum odluke. Na primer, upravni odbor zaseda 5. novembra, ključna osoba se vraća 28. oktobra ili kupac čeka tačno određen dokument. "Treba nam još vremena" bez događaja i datuma nije plan.
+
+Ako se uslovi nisu promenili, možete potvrditi novu važnost iste ponude. Ako jesu, napravite novu verziju. Nemojte ostavljati dve aktivne ponude sa različitim cenama i bez oznake koja je važeća.
+
+## Koliko otvorene ponude mogu da iskrive plan prodaje
+
+Uzmimo ilustrativan primer, ne tržišni benchmark. Firma mesečno šalje 30 ponuda. Kada su sledeći korak i datum odluke dogovoreni, 40% ponuda postane posao, odnosno očekivanje je 12 prodaja. Kada se ponude samo pošalju i ostave otvorene, stopa pada na 25%, pa je očekivanje sedam do osam prodaja.
+
+Razlika je u proseku 4,5 posla. Ako svaki zatvoren posao ostavlja 120.000 dinara bruto doprinosa pre fiksnih troškova, razlika u očekivanom mesečnom doprinosu je 540.000 dinara.
+
+Ovaj primer ne dokazuje da će rok sam podići prodaju. Pokazuje koliko skupo može biti kada se ista količina ponuda vodi bez jasne odluke. Pre povećanja [Google Ads budžeta](/google-reklame-cena), proverite da li već plaćeni leadovi stoje u statusu "ponuda poslata" bez vlasnika, roka i sledeće aktivnosti.
+
+## CRM mora da razlikuje aktivno, isteklo i odloženo
+
+Jedan status "ponuda poslata" nije dovoljan. Posao poslat juče, ponuda istekla pre mesec dana i projekat odložen do januara ne pripadaju istoj listi.
+
+Za svaku ponudu beležite:
+
+- datum slanja i verziju dokumenta;
+- vrednost i očekivani bruto doprinos;
+- datum do kada ponuda važi;
+- ko donosi odluku i ko je vlasnik sledeće aktivnosti;
+- dogovoreni datum odgovora ili razgovora;
+- razlog zbog kojeg odluka čeka;
+- datum isteka, produženja, prihvatanja ili gubitka;
+- potvrđen razlog gubitka kada posao ne prođe.
+
+CRM tada može da pokaže šta zahteva akciju danas. Ponude koje ističu za tri dana nisu isto što i odloženi projekti sa dogovorenim datumom u narednom kvartalu. Tekst o [razlozima izgubljenih poslova](/blog/razlozi-izgubljenih-poslova-leadovi-prodaja-srbija-2026) pomaže da istekla ponuda ne završi automatski pod netačnom oznakom "preskupo".
+
+## Follow-up treba da donese informaciju, ne samo podsetnik
+
+Poruka "samo proveravam da li ste pogledali ponudu" kupcu ne daje razlog da odgovori. Svaki kontakt treba da bude vezan za odluku koja nedostaje.
+
+Ako se približava rok, podsetite kupca šta rok menja: cenu, termin, kapacitet ili potrebu za novom proverom. Ako čeka saglasnost, pitajte da li osobi koja odobrava treba sažetak obima, rizika ili finansijskog efekta. Ako je sporna jedna stavka, rešavajte nju umesto da ponovo šaljete ceo dokument.
+
+Dobra [follow-up sekvenca](/blog/follow-up-sekvenca-leadovi-prodaja-srbija-2026) ima ograničen broj koraka i jasan kraj. Posle isteka roka posao treba prihvatiti, ažurirati, odložiti do konkretnog datuma ili zatvoriti. Beskonačno podsećanje samo ulepšava broj otvorenih prilika.
+
+## Kada rok odbija dobrog kupca
+
+Rok šteti prodaji kada je kraći od realnog procesa odobrenja, kada razlog nije objašnjen ili kada se koristi kao pretnja. Ozbiljan B2B kupac neće promeniti proceduru zato što je prodavac stavio crveni tajmer u email.
+
+Problematično je i kada se svaki petak šalje poruka da "cena važi samo danas", a ista cena se ponovi sledeće nedelje. Kupac brzo nauči da rok ne znači ništa.
+
+Ako postoji stvarna vremenska osetljivost, recite njen uzrok. Ako ne postoji, rok može biti razuman administrativni period posle kojeg se ponuda proverava. Cilj nije panika. Cilj je da obe strane znaju kada uslovi prestaju da budu automatski važeći i kada razgovor mora da dobije status.
+
+## Uvedite pravilo koje prodaja može stvarno da sprovodi
+
+Počnite sa jednom vrstom ponude. Definišite ko određuje rok, šta se rezerviše, koji događaj potvrđuje posao i šta prodavac radi tri dana pre isteka. Zatim izmerite vreme od slanja do odluke, procenat ponuda bez zakazanog sledećeg koraka, broj produženja i stopu zatvaranja po tipu usluge.
+
+Nemojte menjati [cenu digitalnog marketinga](/cene-digitalnog-marketinga) ili gasiti kampanju dok ne proverite koliko već dobijenih prilika stoji bez odluke. Marketing je završio svoj deo kada je doveo pravi upit. Prihod nastaje tek kada ponuda ima vlasnika, uslove, rok i jasan ishod.
+
+Ako želite da mapiramo put od kampanje do prihvaćene ponude, pošaljite kroz [kontakt formu](/kontakt) primer ponude, prosečno vreme odlučivanja i statuse koje trenutno pratite. Dobićete jasan predlog gde treba uvesti rok, gde sledeći razgovor i koji podatak mora da se vrati marketingu pre povećanja budžeta.
+`,
+  },
+  {
     slug: 'niwa-ai-vs-manychat-wordpress-woocommerce-2026',
     title: 'Niwa AI vs ManyChat za WordPress i WooCommerce 2026: šta se dešava posle DM-a',
     excerpt: 'Niwa AI ili ManyChat? Poređenje komentara, DM automatizacije, WordPress konteksta, WooCommerce preporuka i praćenja kupovine posle klika.',

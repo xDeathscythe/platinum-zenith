@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "rok-vazenja-ponude-leadovi-prodaja-srbija-2026",
+    "title": "Rok važenja ponude u Srbiji 2026: zašto leadovi odlažu odluku",
+    "excerpt": "Ponuda bez roka i dogovorenog datuma odluke lako postaje otvoren posao bez vlasnika. Pogledajte kako rok, sledeći korak i CRM status čuvaju prodaju.",
+    "date": "2026-10-08",
+    "category": "Marketing",
+    "readTime": "9 min read",
+    "isDraft": false
+  },
+  {
     "slug": "niwa-ai-vs-manychat-wordpress-woocommerce-2026",
     "title": "Niwa AI vs ManyChat za WordPress i WooCommerce 2026: šta se dešava posle DM-a",
     "excerpt": "Niwa AI ili ManyChat? Poređenje komentara, DM automatizacije, WordPress konteksta, WooCommerce preporuka i praćenja kupovine posle klika.",
