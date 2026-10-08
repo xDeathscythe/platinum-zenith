@@ -1,5 +1,200 @@
 const rawBlogPosts = [
   {
+    slug: 'manychat-alternativa-woocommerce-niwa-ai-migracija-2026',
+    title: 'ManyChat alternativa za WooCommerce 2026: prelazak na Niwa AI bez gubitka prodaje',
+    excerpt: 'Prelazak sa ManyChat-a na Niwa AI za WooCommerce traži mapu flow-ova, kontrolisan cutover i merenje kupovine. Evo plana bez duplih poruka.',
+    date: '2026-10-08',
+    readTime: '10 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Niwa AI', 'ManyChat alternativa', 'WooCommerce', 'Instagram automatizacija', 'Migracija', 'Marketing automatizacija'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Prelazak nije dugme "Import"
+
+Ako WooCommerce prodavnica već koristi ManyChat, najgori potez je da ga ugasite u petak i očekujete da će novi sistem u ponedeljak znati stare flow-ove, kontakte i pravila.
+
+Migracija treba da sačuva ono što donosi prodaju: pitanje koje pokreće razgovor, tačan odgovor, link ka pravom proizvodu, ljudski handoff i dokaz šta se dogodilo posle klika. Sve ostalo je alat oko tog puta.
+
+Niwa AI ima jasan razlog da preuzme taj posao kada je WordPress stvarni centar prodavnice. Odgovor koristi javni sadržaj sajta i WooCommerce kontekst, a put posle klika ostaje merljiv na istom sajtu. ManyChat je i dalje vrlo jak kada tim živi u vizuelnim social flow-ovima, tagovima, delay koracima i Inbox radu.
+
+Zato se ne radi veliki rez. Prebacuje se jedan prodajni scenario, meri se od komentara do porudžbine, pa se tek onda odlučuje šta ide dalje.
+
+## Šta se stvarno prenosi iz ManyChat-a
+
+Ne prepisujete ekrane iz jednog buildera u drugi. Prenosite poslovnu logiku.
+
+Za svaki aktivan ManyChat flow zabeležite:
+
+- koji događaj ga pokreće, na primer komentar na određenu objavu, DM ili odgovor na story;
+- da li reaguje na svaku poruku ili na konkretnu nameru;
+- šta sme da odgovori odmah, a kada traži dodatni podatak;
+- koje linkove šalje i da li ti linkovi imaju UTM oznake;
+- koje tagove, custom fields, spoljne zahteve i email korake koristi;
+- kada automatizacija staje i razgovor preuzima osoba;
+- šta tim danas smatra uspehom: poslata poruka, klik, email, korpa ili plaćena porudžbina.
+
+ManyChat kontakt, tag i stara conversation history nisu isto što i aktivna dozvola za buduće poruke u drugom sistemu. Meta pravila i dalje važe. Standardni prozor za automatizovane Instagram, Messenger i WhatsApp poruke otvara se posle interakcije korisnika i traje 24 sata. CSV, stari tag ili screenshot razgovora ne produžavaju taj prozor.
+
+Niwa zato treba da dobije pravila i sadržaj koji su potrebni za novi razgovor, ne lažno obećanje da će automatski naslediti svu istoriju drugog proizvoda.
+
+## Zašto je Niwa bolji cilj kada prodaja živi u WooCommerce-u
+
+ManyChat može da pošalje link, koristi svoj Pixel, pošalje conversion event kroz CAPI i poveže spoljni servis preko External Request funkcije. To je stvarna mogućnost, ne nešto što treba prećutati u poređenju.
+
+Ali neko mora da dizajnira te veze, mapira događaje i održava ih kada se katalog, checkout ili poslovna pravila promene.
+
+Niwa je bliže izvoru istine. Radi u [WordPress okruženju](/izrada-wordpress-sajta-cena) u kojem su proizvodi, varijacije, raspoloživost, pravila prodavnice, sadržaj i WooCommerce porudžbine. Customer-facing odgovor na Meta kanalu koristi javno znanje sajta i public read alate. Ne dobija administratorsku dozvolu da menja proizvod, cenu ili porudžbinu samo zato što je kupac poslao poruku.
+
+Na sajtu Niwa može da prati sesije, UTM izvor, kampanju, stranice, kontakte i WooCommerce checkout ishod. Analytics dashboard beleži i chat poruke, product-card klikove, dodavanja u korpu, checkout klikove i uticaj preporuka na porudžbine. To je razlog za migraciju: manje ručno spojenih slojeva između pitanja i prodaje.
+
+Detaljno poređenje proizvoda je u vodiču [Niwa AI vs ManyChat za WordPress i WooCommerce](/blog/niwa-ai-vs-manychat-wordpress-woocommerce-2026). Ovde je fokus na bezbednom prelasku.
+
+## Korak 1: izaberite jedan flow koji vredi novca
+
+Ne počinjite od welcome poruke. Uzmite scenario koji redovno dovodi kupca blizu proizvoda.
+
+Dobar kandidat je Instagram objava za proizvod koji izaziva isto važno pitanje: veličina, kompatibilnost, dostupna varijacija, rok isporuke ili izbor između dva modela. Takav flow ima jasan početak i proverljiv kraj.
+
+Na primer:
+
+1. Kupac komentariše objavu i pita da li određeni model odgovara njegovom slučaju.
+2. Početni private reply poziva ga da nastavi razgovor.
+3. Kupac odgovara u DM-u i time otvara dozvoljeni prozor za nastavak.
+4. Niwa postavlja jedno pitanje koje menja preporuku.
+5. Odgovor vodi na tačan proizvod ili uzak izbor, ne na početnu stranu prodavnice.
+6. Link nosi dosledne UTM oznake.
+7. WooCommerce beleži šta se dogodilo na sajtu.
+
+Ako ovaj tok ne može da se izmeri, nije spreman za migraciju. Sam broj poslatih DM poruka nije dokaz da prodaje.
+
+## Korak 2: prepišite odluke, ne svaku poruku
+
+ManyChat je napravljen za precizno slaganje koraka. Njegov [Instagram Comments Reply trigger](https://help.manychat.com/hc/en-us/articles/14281316989724-Instagram-Post-and-Reel-Comments-trigger) može da bira konkretnu objavu, pošalje javni odgovor i početni private reply. [Quick Automation](https://help.manychat.com/hc/en-us/articles/16654065283100-Quick-Automation-Auto-DM-links-from-comments) dodaje opening DM, prikupljanje emaila, zahtev za praćenje naloga, link i follow-up kada link nije kliknut.
+
+Nemojte mehanički kopirati pet poruka samo zato što postoje. Za svaki korak pitajte: koju odluku kupca ovaj korak pomera?
+
+Ako opening DM samo otvara 24-časovni prozor, zabeležite tu svrhu. Ako pitanje odvaja dve grupe proizvoda, zabeležite kriterijum. Ako tag služi samo internom izveštaju, odlučite da li ga menja UTM kampanja, WooCommerce događaj ili status razgovora.
+
+Niwa Meta flow koristi strukturisane događaje, uslove namere i uređene instrukcije po koracima. Instagram comment flow može da pošalje jedan početni privatni odgovor. Nastavak čeka DM kupca. Kada slučaj zahteva procenu osobe, human takeover pauzira automatizaciju.
+
+To nije kopija ManyChat buildera. To je kraći prodajni put vezan za podatke prodavnice.
+
+## Korak 3: napravite link koji analitika može da razume
+
+Link poslat iz DM-a treba da vodi na stranicu koja rešava pitanje iz razgovora. Dodajte UTM oznake koje tim može dosledno da ponovi, na primer:
+
+\`?utm_source=instagram&utm_medium=paid_social&utm_campaign=jesenja-obuca&utm_content=comment-dm-siroko-stopalo\`
+
+Nazivi nisu bitni ako ih menjate svake nedelje. Dogovorite format za kanal, kampanju, objavu i scenario. Sačuvajte ga uz flow.
+
+Niwa Site Analytics koristi podatke koje browser stvarno dostavi. Beleži UTM vrednosti, referrer, sesiju, stranice i podržane WooCommerce konverzije. Konverzije pripisuje po last non-direct modelu sa browser cookie kontekstom do 90 dana.
+
+Granica je jasna: Instagram profil, browser i WooCommerce kupac nisu automatski jedna potvrđena osoba. Blokiran JavaScript, obrisani cookie, drugi uređaj ili link bez oznaka mogu prekinuti trag. Dobar UTM plan ne rešava identitet preko uređaja, ali sprečava da tim sam uništi podatke koje je mogao da sačuva.
+
+## Korak 4: ne puštajte dva bota na isti komentar
+
+Paralelno testiranje ne znači da ManyChat i Niwa istovremeno odgovaraju na isti trigger.
+
+ManyChat dokumentacija upozorava da više aktivnih comment triggera ima pravila prioriteta. Ako uz to uključite drugi sistem na istoj objavi, možete dobiti dupli javni odgovor, dve privatne poruke i razgovor kojem kupac više ne veruje.
+
+Bezbedan test izgleda ovako:
+
+- napravite posebnu test objavu ili odvojite sledeću kampanjsku objavu za Niwu;
+- u Niwi prvo povežite nalog i proverite dobijene dozvole;
+- ostavite automatske odgovore isključene dok testna poruka i handoff nisu provereni;
+- pauzirajte ManyChat trigger za tačno onu objavu pre nego što uključite Niwa comment flow;
+- pošaljite stvarni komentar sa test naloga, nastavite DM i kliknite označeni link;
+- proverite Meta inbox, Niwa inbox, stranicu proizvoda i analitiku;
+- tek tada pustite organski ili plaćeni saobraćaj.
+
+Za javne korisničke naloge dostupnost zavisi od odobrenih Meta permissions, app review statusa i dozvola konkretnog Page ili Instagram naloga. To se proverava na nalogu. Ne pretpostavlja se iz demo snimka.
+
+## Korak 5: definišite kada razgovor ide čoveku
+
+Migracija pada kada tim proverava samo srećan put.
+
+Kupac će poslati fotografiju, tražiti izuzetak od pravila, pitati za reklamaciju ili opisati kompatibilnost koju katalog ne može pouzdano da potvrdi. Niwa za media-only zahtev traži ljudski pregled umesto da izmisli tumačenje. Administrator može da preuzme razgovor, odgovori i kasnije nastavi automatizaciju.
+
+ManyChat takođe ima ozbiljan [Inbox](https://help.manychat.com/hc/en-us/articles/14281070478748-Manychat-Inbox) sa dodelama, folderima, labelama, beleškama i timskim radom. Ako prodajni tim zavisi od složene raspodele razgovora među više agenata, to je realna prednost koju migracioni plan mora da zameni ili zadrži.
+
+Niwa je bolji izbor kada je ključno da odgovor bude vezan za WordPress ponudu i da owner vidi šta se dogodilo na sajtu. ManyChat ostaje bolji kada je glavni operativni problem veliki social inbox i mnogo unapred složenih sekvenci. Nemojte rušiti deo sistema koji već radi. Premestite deo u kojem WordPress kontekst pravi razliku.
+
+## Korak 6: postavite prolazne kriterijume pre uključivanja
+
+Jedan flow je spreman za prebacivanje tek kada prođe sledeće provere:
+
+| Provera | Dokaz |
+|---|---|
+| Trigger | Tačan komentar ili poruka pokreće jedan odgovor |
+| Messaging window | Nastavak se šalje tek kada kanal i interakcija to dozvole |
+| Odgovor | Preporuka koristi aktuelni javni sadržaj i podatke prodavnice |
+| Link | Vodi na relevantan proizvod ili izbor i ima dogovorene UTM oznake |
+| Handoff | Nejasan ili osetljiv slučaj stiže osobi bez nastavka automatizacije |
+| Sajt | Sesija i odredišna stranica pojavljuju se u analitici |
+| Prodaja | Korpa, checkout i porudžbina ostavljaju proverljiv trag kada se dogode |
+| Otkazivanje | Otkazivanje ili refund ne ostavljaju staru vrednost prihoda kao da je posao zadržan |
+| Duplikati | ManyChat i Niwa ne odgovaraju na isti događaj |
+
+Ovo je acceptance test, ne prezentacija. Ako jedan važan korak nema dokaz, flow ostaje u testu.
+
+## Kako izgleda izveštaj koji vredi čitati
+
+Uzmimo ilustrativan test, ne rezultat Niwe, ManyChat-a ili tržišni benchmark. Jedna objava dobije 80 komentara. Četrdeset četiri osobe nastave interakciju, 31 otvori označeni link, devet doda proizvod u korpu, a četiri poruče. Ako je prosečna vrednost porudžbine 9.500 dinara, evidentirani prihod je 38.000 dinara.
+
+Tada imate nekoliko različitih istina:
+
+- comment-to-interaction stopa je 55%;
+- interaction-to-click stopa je 70,5%;
+- click-to-cart stopa je 29%;
+- click-to-order stopa je 12,9%;
+- comment-to-order stopa je 5%.
+
+Ove brojke ne govore da je alat sam izazvao kupovinu. Pokazuju gde ljudi ispadaju iz konkretnog toka. Ako mnogo ljudi odgovori, a malo klikne, problem je verovatno u poruci ili linku. Ako kliknu i ne dodaju u korpu, proverite proizvod, cenu, varijacije, dostavu i poverenje na stranici. Ako dođu do checkouta i odustanu, comment trigger nije mesto za popravku.
+
+Zato je [praćenje konverzija](/blog/pracenje-konverzija-lead-generation-srbija-2026) važnije od lepog screenshota DM-a.
+
+## Plan prelaska bez gašenja prodaje
+
+Za prvi scenario je dovoljno sedam kontrolisanih dana:
+
+**Dan 1:** popišite postojeći flow, linkove, polja, handoff i metrike.
+
+**Dan 2:** proverite WooCommerce podatke, javni sadržaj, varijacije, zalihe i pravila koja odgovor mora da koristi.
+
+**Dan 3:** povežite Meta nalog sa potrebnim dozvolama, unesite instrukcije i ostavite automatske odgovore ugašene.
+
+**Dan 4:** testirajte komentar, private reply, DM nastavak, tačan link i ljudski takeover.
+
+**Dan 5:** proverite UTM sesiju, proizvod, korpu, checkout, porudžbinu i eventualno otkazivanje testa.
+
+**Dan 6:** pauzirajte stari trigger samo za izabranu objavu i uključite Niwa flow.
+
+**Dan 7:** uporedite ceo funnel sa prethodnim periodom, pregledajte neuspele razgovore i odlučite da li sledeći flow prelazi, ostaje u ManyChat-u ili se redizajnira.
+
+Ne gasite ManyChat nalog dok ne sačuvate potrebne postavke i dok svi flow-ovi koji donose novac nemaju potvrđenu zamenu. Prelazak ne mora biti potpun. Hibridni setup je bolji od čistog setupa koji gubi prodaju.
+
+## Kada prelazak ima smisla
+
+Pređite na Niwa za scenario u kojem:
+
+- kupac traži preporuku zasnovanu na stvarnom proizvodu, varijaciji ili pravilu prodavnice;
+- WordPress ili WooCommerce drži podatke koji odlučuju šta je tačan odgovor;
+- želite da pratite put od označenog linka do kontakta, checkouta i porudžbine;
+- ručno održavanje istih informacija u social flow-u postaje izvor grešaka;
+- vlasnik želi razgovore i prodajni trag bliže sistemu koji već vodi posao.
+
+Ostanite na ManyChat-u za tokove u kojima su važniji veliki broj social sekvenci, email collection koraci, napredni tagovi, delay logika i timski Inbox. Ili zadržite te flow-ove tamo, a Niwi prepustite prodajne razgovore koji zavise od WordPress konteksta.
+
+Ako tek gradite prodavnicu, prvo sredite [WooCommerce osnovu](/blog/izrada-woocommerce-web-shopa-cena-srbija-2026). Automatizacija neće popraviti netačnu zalihu, slab opis, nejasnu dostavu ili checkout koji ne radi.
+
+Ako već imate ManyChat i želite da prebacite prvi scenario bez duplih poruka i slepog merenja, pošaljite kroz [kontakt formu](/kontakt) link ka prodavnici, primer aktivnog flow-a i događaj koji za vas znači prodaju. Mapiraćemo šta ostaje u ManyChat-u, šta preuzima [Niwa AI](https://niwachat.com/woocommerce-ai-sales-agent/) i koji test mora da prođe pre nego što menjate sledeći flow ili [budžet za digitalni marketing](/cene-digitalnog-marketinga).
+`,
+  },
+  {
     slug: 'rok-vazenja-ponude-leadovi-prodaja-srbija-2026',
     title: 'Rok važenja ponude u Srbiji 2026: zašto leadovi odlažu odluku',
     excerpt: 'Ponuda bez roka i dogovorenog datuma odluke lako postaje otvoren posao bez vlasnika. Pogledajte kako rok, sledeći korak i CRM status čuvaju prodaju.',

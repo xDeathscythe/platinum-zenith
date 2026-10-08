@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "manychat-alternativa-woocommerce-niwa-ai-migracija-2026",
+    "title": "ManyChat alternativa za WooCommerce 2026: prelazak na Niwa AI bez gubitka prodaje",
+    "excerpt": "Prelazak sa ManyChat-a na Niwa AI za WooCommerce traži mapu flow-ova, kontrolisan cutover i merenje kupovine. Evo plana bez duplih poruka.",
+    "date": "2026-10-08",
+    "category": "Marketing",
+    "readTime": "10 min read",
+    "isDraft": false
+  },
+  {
     "slug": "rok-vazenja-ponude-leadovi-prodaja-srbija-2026",
     "title": "Rok važenja ponude u Srbiji 2026: zašto leadovi odlažu odluku",
     "excerpt": "Ponuda bez roka i dogovorenog datuma odluke lako postaje otvoren posao bez vlasnika. Pogledajte kako rok, sledeći korak i CRM status čuvaju prodaju.",
