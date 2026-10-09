@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "trosak-reklamacija-marketing-roi-srbija-2026",
+    "title": "Trošak reklamacija i marketing ROI u Srbiji 2026: kada prodaja pojede profit",
+    "excerpt": "Reklamacije, ponovni rad i povrati mogu pretvoriti dobar CPL u loš posao. Izračunajte stvarni CAC, maržu i bezbedan marketing budžet.",
+    "date": "2026-10-09",
+    "category": "Marketing",
+    "readTime": "9 min read",
+    "isDraft": false
+  },
+  {
     "slug": "manychat-alternativa-woocommerce-niwa-ai-migracija-2026",
     "title": "ManyChat alternativa za WooCommerce 2026: prelazak na Niwa AI bez gubitka prodaje",
     "excerpt": "Prelazak sa ManyChat-a na Niwa AI za WooCommerce traži mapu flow-ova, kontrolisan cutover i merenje kupovine. Evo plana bez duplih poruka.",

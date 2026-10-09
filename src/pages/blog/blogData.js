@@ -1,5 +1,163 @@
 const rawBlogPosts = [
   {
+    slug: 'trosak-reklamacija-marketing-roi-srbija-2026',
+    title: 'Trošak reklamacija i marketing ROI u Srbiji 2026: kada prodaja pojede profit',
+    excerpt: 'Reklamacije, ponovni rad i povrati mogu pretvoriti dobar CPL u loš posao. Izračunajte stvarni CAC, maržu i bezbedan marketing budžet.',
+    date: '2026-10-09',
+    readTime: '9 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Reklamacije', 'Marketing ROI', 'CAC', 'Marketing budžet', 'Prodajni proces'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Prodaja nije završena kada je račun izdat
+
+Google Ads može da dovede kupca, prodaja može da zatvori posao, a CRM da ga označi kao dobijen. Ipak, profit još nije siguran.
+
+Ako se kupac vrati zbog pogrešne specifikacije, ekipa ponovo izlazi na teren, roba ide u zamenu ili deo novca mora da se vrati, trošak tog posla nastavlja da raste. Marketing izveštaj to često ne vidi. On pamti konverziju i prihod sa dana kupovine, dok firma nekoliko nedelja kasnije plaća kurira, materijal, servis, sate zaposlenih i povrat novca.
+
+Zato reklamacija nije samo tema korisničke podrške. Ona menja stvarni CAC, maržu po poslu i iznos koji firma bezbedno može da uloži u sledeću kampanju.
+
+## Problem nije mali niti teorijski
+
+U [izveštaju Nacionalnog registra potrošačkih prigovora za 2025. godinu](https://must.gov.rs/extfile/sr/620/Izvestaj-2025.pdf), Ministarstvo unutrašnje i spoljne trgovine navodi 14.998 evidentiranih potrošačkih prigovora. Nesaobraznost robe i usluga činila je 25,64% prijavljenih problema, a rok i način odgovora na reklamaciju još 15,15%.
+
+Ti podaci ne govore koliki trošak ima svaka firma. Pokazuju nešto korisnije za planiranje: reklamacija nije redak izuzetak koji se može zauvek držati van marketing izveštaja.
+
+Ako prodaja raste, a broj ponovljenih radova, zamena i povrata raste još brže, kampanja možda samo ubrzava problem koji je već postojao u ponudi ili isporuci.
+
+## Šta ulazi u trošak reklamacije
+
+Najlakše je evidentirati vraćen novac. Ostali troškovi se raspu po odeljenjima i zato nestanu iz računice.
+
+Za proizvod to mogu biti povratna dostava, pregled, zamena, ponovno pakovanje, otpis, provizija plaćanja i vreme podrške. Kod usluge su češći novi izlazak na teren, dodatni materijal, ponovljen rad, pomeranje drugog termina i sati vlasnika ili seniora koji rešava spor.
+
+Dodajte i komercijalnu posledicu. Dok tim popravlja stari posao, nema isti kapacitet za novog kupca. To nije automatski gubitak prihoda, ali jeste zauzet termin koji mora da se vidi u planu.
+
+Praktična evidencija može da koristi pet grupa:
+
+- vraćen ili umanjen prihod;
+- direktan trošak zamene, materijala i dostave;
+- radni sati potrebni za rešavanje;
+- izgubljen kapacitet za nove poslove;
+- status kupca posle rešenja: zadržan, izgubljen ili vraćen u prodaju.
+
+## Računica: CAC od 9.000 postaje 14.000 dinara
+
+Uzmimo ilustrativan mesec. Firma ulaže 180.000 dinara u marketing i dobija 20 kupaca. Na prvom izveštaju CAC je 9.000 dinara.
+
+Dva posla se zatim potpuno ponište ili refundiraju, pa ostaje 18 zadržanih kupaca. Sam marketing trošak po zadržanom kupcu sada je 10.000 dinara. Uz to, ponovni rad, dodatni materijal i isporuka na reklamacijama koštaju ukupno 72.000 dinara.
+
+| Stavka | Iznos |
+|---|---:|
+| Marketing ulaganje | 180.000 RSD |
+| Početno evidentirani kupci | 20 |
+| Zadržani kupci posle povrata | 18 |
+| Trošak ponovnog rada i zamena | 72.000 RSD |
+| Početni CAC | 9.000 RSD |
+| Marketing trošak po zadržanom kupcu | 10.000 RSD |
+| Marketing plus reklamacije po zadržanom kupcu | 14.000 RSD |
+
+Ako je bruto dobit pre akvizicije i reklamacija 30.000 dinara po kupcu, prvi izveštaj ostavlja 21.000 dinara posle CAC-a. Ispravljena računica ostavlja 16.000. Razlika je 5.000 dinara po zadržanom kupcu, odnosno 55,6% veće opterećenje od početnog CAC-a.
+
+Ovo nije tržišni prosek. To je model koji pokazuje zašto lep CPL i rast prihoda mogu da stoje pored sve tanjeg računa firme.
+
+## Ne mešajte reklamaciju, povrat i otkazan posao
+
+Ove situacije imaju različit uzrok i traže različitu popravku.
+
+Otkazan posao nestane pre pune isporuke ili naplate. O tome detaljnije govori analiza [otkazanih poslova i realizovanog ROI-ja](/blog/otkazani-poslovi-marketing-roi-lead-generation-srbija-2026).
+
+Povrat znači da je evidentirana prodaja kasnije delimično ili potpuno poništena. Reklamacija može da se završi popravkom, zamenom, umanjenjem cene ili zadržanim kupcem bez povrata. Ponovljeni rad kod usluge često nema poseban račun, ali troši materijal i kapacitet kao novi posao.
+
+Ako sve stavite u status "problem", nećete znati da li kampanja dovodi pogrešna očekivanja, prodaja obećava previše ili isporuka pravi isti kvar.
+
+## Povežite reklamaciju sa izvorom prodaje
+
+Nije dovoljno izbrojati reklamacije na kraju meseca. Svaka mora da se vrati do ponude, kampanje i prodajne poruke koja je dovela kupca.
+
+U CRM-u ili tabeli sačuvajte:
+
+- identifikator kupca ili porudžbine;
+- proizvod, uslugu i varijantu ponude;
+- izvor, kampanju i landing stranu;
+- datum prodaje, isporuke i prijave problema;
+- razlog reklamacije iz zatvorene liste;
+- finansijski ishod i direktan trošak rešavanja;
+- broj radnih sati i konačan status kupca.
+
+Razlog iz zatvorene liste je važan. Slobodan opis brzo postane zbir beleški poput "kupac nezadovoljan" i "nije bilo dobro". To nije podatak na osnovu kojeg se menja oglas, forma ili operacija.
+
+Bolje kategorije su: pogrešna očekivanja, pogrešna kvalifikacija, greška u prodajnoj specifikaciji, oštećenje ili kvar, kašnjenje, nepotpuna isporuka, greška u radu i predomišljanje kupca.
+
+## Kada je problem u kampanji, a kada u isporuci
+
+Marketing je verovatniji uzrok kada se reklamacije grupišu oko određenog oglasa, ključne reči ili landing strane. Na primer, oglas obećava hitnu isporuku, a stranica ne objašnjava zonu i uslove. Prodaja dobija veliki broj kupaca sa očekivanjem koje firma ne može da ispuni.
+
+Prodaja je sumnjiva kada isti prodavac ili skripta redovno preskoči važnu kvalifikaciju. Kod usluge to može biti stanje objekta, kvadratura, rok ili šta ulazi u cenu. Kod proizvoda su česti model, dimenzija, kompatibilnost i uslovi korišćenja.
+
+Isporuka je glavno usko grlo kada različiti izvori i prodavci završavaju sa istim kvarom, kašnjenjem ili ponovljenim radom.
+
+Ne gasite kampanju samo zato što se reklamacija pojavila posle oglasa. Prvo pronađite obrazac. Ako je uzrok u specifikaciji ili kontroli kvaliteta, manji budžet samo sporije dovodi kupce do istog problema.
+
+## Landing strana može da spreči deo skupih nesporazuma
+
+Dobra landing strana ne treba da sakrije ograničenja da bi forma imala višu stopu konverzije. To je kratkoročno ulepšavanje broja.
+
+Napišite šta ponuda obuhvata, za koga nije, koje informacije menjaju cenu, gde usluga važi, koliko traje tipična isporuka i šta kupac treba da pripremi. Ako izbor zavisi od modela, dimenzije, fotografije ili stanja na terenu, tražite taj podatak pre ponude.
+
+To se naslanja na [kvalifikaciju kroz kontakt formu](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026) i na jasne [kriterijume saradnje na sajtu](/blog/kriterijumi-saradnje-na-sajtu-kvalitet-leadova-srbija-2026). Manje formi nije problem ako ste uklonili upite koji bi kasnije postali skupa reklamacija.
+
+## Maksimalni CPL računajte iz korigovane marže
+
+Ako već znate [bruto maržu po ponudi](/blog/bruto-marza-marketing-budzet-roi-srbija-2026), dodajte prosečan trošak reklamacija i povrata za tu istu ponudu. Nemojte koristiti jedan procenat za ceo biznis ako proizvod, usluga i način isporuke nose različit rizik.
+
+Jednostavan okvir je:
+
+\`Korigovana bruto dobit = naplaćeni prihod - direktni troškovi isporuke - povrati - ponovni rad - trošak reklamacija\`
+
+Zatim od korigovane bruto dobiti odvojite deo za prodaju, fiksne troškove, željeni profit i rizik. Ono što ostane određuje maksimalni CAC. Maksimalni CPL dobijate kada taj CAC pomnožite realnom stopom zatvaranja kvalifikovanih leadova.
+
+Ako je korigovana bruto dobit 25.000 dinara, a firma dozvoljava da akvizicija uzme najviše 40%, maksimalni CAC je 10.000 dinara. Sa stopom zatvaranja od 20%, maksimalni CPL je 2.000 dinara. Ne računajte ovaj limit iz prihoda, jer prihod ne plaća ponovljeni izlazak na teren.
+
+Za širu računicu pogledajte zašto [CPL nije isto što i CAC](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026) i kako [trošak isporuke menja marketing budžet](/blog/trosak-isporuke-marketing-budzet-lead-generation-srbija-2026).
+
+## Google Ads ne treba da uči iz poništene prodaje
+
+Ako se svaka kupovina ili dobijen posao odmah pošalje kao konačan signal uspeha, platforma ne zna da je deo tih konverzija kasnije refundiran ili da stalno stvara skup ponovljeni rad.
+
+Prvo sredite internu evidenciju. Zatim, kada obim i tehnička postavka to dozvoljavaju, razlikujte rani signal od zadržanog poslovnog ishoda. Rani signal može biti kvalifikovan lead ili kupovina. Kasniji signal može biti naplaćena i zadržana porudžbina, završen posao bez poništenja ili vrednost korigovana za refund.
+
+Ne šaljite izmišljenu vrednost samo da biste "naučili algoritam". Vrednost mora da ima isto značenje kroz vreme, inače automatizacija optimizuje prema podatku koji ni finansije ne mogu da objasne.
+
+## Nedeljni izveštaj koji otkriva kvar
+
+Vlasniku nije potreban još jedan dashboard sa dvadeset grafikona. Za početak su dovoljna četiri reda po ponudi ili kampanji:
+
+1. broj novih prodaja i naplaćen prihod;
+2. broj povrata, reklamacija i ponovljenih radova;
+3. direktan trošak rešavanja i izgubljeni radni sati;
+4. korigovana bruto dobit, realizovani CAC i razlog problema.
+
+Dodajte poređenje sa prethodne četiri nedelje. Jedna reklamacija može biti slučaj. Isti razlog pet puta za istu ponudu je proces.
+
+Marketing tada dobija korisnu odluku. Može da promeni obećanje, isključi pogrešnu ključnu reč, uvede kvalifikaciono pitanje ili zadrži kampanju i traži popravku isporuke. Bez razloga i troška dobija samo poruku da su "leadovi loši".
+
+## Kada menjati budžet
+
+Smanjite ili pauzirajte deo budžeta kada određena kampanja sistematski dovodi prodaje sa pogrešnim očekivanjem, a poruka ne može odmah bezbedno da se ispravi.
+
+Zadržite budžet i popravite prodajni korak kada potražnja odgovara ponudi, ali specifikacija, procena ili dogovoreni obim nisu dovoljno jasni.
+
+Ne povećavajte budžet dok ponovljeni rad raste brže od zadržane prodaje. To nije skaliranje. To je kupovina dodatnog opterećenja za tim.
+
+Ako želite realan plan, pošaljite kroz [kontakt formu](/kontakt) podatke o ulaganju, broju leadova, zatvorenim poslovima, povratima i trošku ponovljenog rada. Napravićemo obračun korigovanog CAC-a i predlog za [Google Ads budžet](/google-reklame-cena) koji prati zadržan profit, a ne samo broj konverzija.
+`,
+  },
+  {
     slug: 'manychat-alternativa-woocommerce-niwa-ai-migracija-2026',
     title: 'ManyChat alternativa za WooCommerce 2026: prelazak na Niwa AI bez gubitka prodaje',
     excerpt: 'Prelazak sa ManyChat-a na Niwa AI za WooCommerce traži mapu flow-ova, kontrolisan cutover i merenje kupovine. Evo plana bez duplih poruka.',
