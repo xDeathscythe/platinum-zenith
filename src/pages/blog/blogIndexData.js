@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "niwa-ai-cross-sell-woocommerce-povecanje-aov-2026",
+    "title": "Niwa AI cross-sell za WooCommerce 2026: veća korpa bez nasumičnih preporuka",
+    "excerpt": "Niwa AI koristi WooCommerce katalog, aktuelnu korpu i prodajni kontekst da predloži dopunu, izmeri klik, dodavanje i prihod preporučene stavke.",
+    "date": "2026-10-09",
+    "category": "E-Commerce",
+    "readTime": "10 min read",
+    "isDraft": false
+  },
+  {
     "slug": "trosak-reklamacija-marketing-roi-srbija-2026",
     "title": "Trošak reklamacija i marketing ROI u Srbiji 2026: kada prodaja pojede profit",
     "excerpt": "Reklamacije, ponovni rad i povrati mogu pretvoriti dobar CPL u loš posao. Izračunajte stvarni CAC, maržu i bezbedan marketing budžet.",

@@ -1,5 +1,166 @@
 const rawBlogPosts = [
   {
+    slug: 'niwa-ai-cross-sell-woocommerce-povecanje-aov-2026',
+    title: 'Niwa AI cross-sell za WooCommerce 2026: veća korpa bez nasumičnih preporuka',
+    excerpt: 'Niwa AI koristi WooCommerce katalog, aktuelnu korpu i prodajni kontekst da predloži dopunu, izmeri klik, dodavanje i prihod preporučene stavke.',
+    date: '2026-10-09',
+    readTime: '10 min read',
+    category: 'E-Commerce',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Niwa AI', 'WooCommerce', 'Cross-sell', 'AOV', 'Preporuke proizvoda', 'E-Commerce'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Veća korpa ne počinje popustom
+
+WooCommerce prodavnice često pokušavaju da podignu prosečnu vrednost porudžbine tako što kupcu pokažu još proizvoda. Red sličnih artikala ispod opisa, blok u korpi, pop-up sa kuponom. Više ponuda, a odluka sve mutnija.
+
+Dobar cross-sell ne pita: "Šta još možemo da ubacimo u korpu?" Pita: "Šta kupcu stvarno nedostaje da bi proizvod koji je izabrao rešio ceo posao?"
+
+Tu Niwa AI ima prednost koju generički recommendation widget nema. Na sajtu može da koristi WooCommerce katalog, aktuelne varijacije, stanje proizvoda, pravila prodavnice i sadržaj iste live korpe. Kupac ne dobija samo karticu sa artiklom. Može da pita zašto mu dopuna treba, da li odgovara izabranoj varijanti i koliko sada vredi korpa.
+
+To ne znači da će svaki predlog povećati AOV. Znači da preporuka može da se zasnuje na stvarnom pitanju i stvarnom stanju prodavnice, a njen put do porudžbine može da se meri.
+
+## Up-sell, cross-sell i related proizvod nisu isto
+
+[Zvanična WooCommerce dokumentacija](https://woocommerce.com/document/related-products-up-sells-and-cross-sells/) razdvaja tri stvari.
+
+Up-sell je bolja ili skuplja alternativa proizvodu koji kupac trenutno gleda. Cross-sell je dopunski proizvod koji ima smisla uz ono što je već izabrao. Related proizvodi se automatski povezuju preko zajedničkih kategorija i oznaka.
+
+Razlika je komercijalno važna.
+
+Ako kupac gleda osnovni aparat za kafu, skuplji model sa funkcijom koja mu je potrebna može biti up-sell. Filteri, sredstvo za čišćenje ili odgovarajuća šolja mogu biti cross-sell. Još tri aparata iz iste kategorije su samo povezani proizvodi dok ne objasnite zašto je neki od njih bolji izbor.
+
+Prodavnica koja sve zove "preporukom" brzo počne da gura artikle sa većom cenom ili zalihom, bez veze sa razlogom kupovine. To kratkoročno može doneti poneku dodatnu stavku. Dugoročno pravi loš osećaj: kupac vidi da sistem prodaje sebi, ne njemu.
+
+## Kako Niwa koristi WooCommerce kontekst
+
+Niwa na product stranici ne mora da nagađa iz generičkog opisa kategorije. Može da pronađe konkretan proizvod i varijaciju, proveri aktuelni WooCommerce kontekst i prikaže product card sa sledećim korakom.
+
+Kada je kupac na sajtu u istoj live WooCommerce sesiji, Niwa dobija sadržaj korpe: stavke, količine, izabrane varijacije i trenutne iznose. Dostava i porez i dalje mogu da se promene na checkoutu, pa ih ne predstavlja kao konačne pre nego što WooCommerce dobije adresu i metod isporuke.
+
+Ako kupac prihvati predlog, Niwa može da doda jednostavan proizvod ili tačno razrešenu varijaciju u tu korpu. Pre dodavanja proverava da proizvod postoji, da je kupiv, da izbor varijacije odgovara i da raspoloživa količina nije prekoračena. Niwa ne završava kupovinu umesto kupca i ne postavlja porudžbinu. Plaćanje ostaje pod kontrolom kupca i WooCommerce checkouta.
+
+Važna granica: ovo je mogućnost website agenta u live sesiji. Na Meta kanalima Niwa koristi javno znanje prodavnice za odgovor, ali nema pravo da menja korpu sajta iz Instagram ili Facebook razgovora. DM može da dovede osobu do pravog proizvoda. Čitanje i izmena aktuelne korpe nastavljaju se na sajtu.
+
+Za širu sliku tog puta pogledajte poređenje [Niwa AI i ManyChat-a za WordPress i WooCommerce](/blog/niwa-ai-vs-manychat-wordpress-woocommerce-2026).
+
+## Odakle dolaze proizvodi koje Niwa prikazuje
+
+Najbolji početak nisu automatske sličnosti. To su ručno postavljene poslovne veze u WooCommerce-u.
+
+Niwa pri formiranju povezanih product cards prvo uzima kurirane WooCommerce up-sell i cross-sell proizvode. Ako nema dovoljno takvih veza, panel može da dopuni sličnim proizvodima iz kataloga.
+
+To vlasniku daje kontrolu. Za svaki važan proizvod možete unapred da odredite:
+
+- bolju alternativu kada kupcu zaista treba jača specifikacija;
+- dopunu bez koje osnovni proizvod ne rešava ceo slučaj;
+- zamenu kada željena varijacija nije dostupna;
+- proizvod koji ne treba nuditi zbog kompatibilnosti, marže ili politike prodavnice.
+
+AI ovde ne treba da glumi vlasnika asortimana. Njegov posao je da razume zahtev, pronađe odgovarajuću vezu i objasni je. Vaš posao je da katalog, zalihe, varijacije i povezane proizvode držite tačnim.
+
+## Cross-sell mora da odgovori na razlog kupovine
+
+Najslabiji predlog je: "Kupci su takođe kupili ovo."
+
+Možda jesu. Kupcu i dalje nije jasno da li proizvod rešava njegov problem.
+
+Dobar razgovor počinje kratkim pitanjem koje menja preporuku. Ako osoba kupuje poklon, bitni su kome je namenjen, povod i utisak koji želi. Ako kupuje tehnički dodatak, bitni su model, priključak i način korišćenja. Ako kupuje negu, bitni su tip potrebe i ograničenja koja je prodavnica dokumentovala.
+
+Tek tada dopuna dobija razlog:
+
+"Uz ovaj model ima smisla zaštitna futrola jer ste rekli da uređaj nosite svaki dan. Odgovara izabranoj veličini. Želite da je dodam u korpu?"
+
+Ta rečenica radi više od kartice. Vezuje predlog za potrebu, potvrđuje kompatibilnost i traži jasan pristanak za sledeći korak.
+
+Ne treba nuditi tri dopune samo zato što postoje. Jedna korisna preporuka često je vrednija od zida proizvoda koji kupcu vraća posao poređenja.
+
+## Gde cross-sell najčešće puca
+
+Prvi kvar je netačan katalog. Ako je varijacija pogrešno označena, zaliha kasni ili opis ne kaže za koji model dodatak važi, AI nema čvrst podatak na kojem može da zasnuje odgovor. Lepo formulisan predlog i dalje može biti pogrešan.
+
+Drugi kvar je preporuka bez marže. Dodatni prihod nije dodatni profit ako artikal ima skup fulfillment, visok procenat povrata ili zahteva podršku koja pojede doprinos.
+
+Treći kvar je loš trenutak. Kupac koji još nije odlučio da li osnovni proizvod odgovara ne želi odmah još jednu odluku. Prvo rešite glavnu sumnju. Cross-sell dolazi kada je osnovni izbor dovoljno jasan.
+
+Četvrti kvar je popust kao refleks. Kupon može da pogura korpu, ali i da nauči kupca da sačeka sniženje. Ako dopuna ima očiglednu praktičnu vrednost, objasnite tu vrednost pre nego što se odreknete marže.
+
+Peti kvar je merenje samo ukupnog AOV-a. AOV može da poraste zato što ste digli cene, prodali više premium proizvoda ili promenili mix saobraćaja. Bez oznake preporučene stavke ne znate šta je uradio cross-sell.
+
+## Šta Niwa meri posle preporuke
+
+Niwa Analytics razdvaja nekoliko događaja: prikaz preporuke, klik na product card, dodavanje u korpu, Buy Now, klik ka checkoutu, prodate preporučene proizvode, porudžbine sa tim stavkama i evidentirani prihod preporučenih stavki.
+
+Kada se proizvod doda kroz Niwa preporuku, oznaka se prenosi sa stavke u korpi na order line. Posle porudžbine može da se vidi količina i vrednost te preporučene stavke.
+
+To je mnogo korisnije od rečenice "AI je uticao na prodaju", ali nije isto što i neto profit. Vlasnik i dalje treba da spoji:
+
+- vrednost preporučene stavke;
+- njenu nabavnu cenu i direktni trošak isporuke;
+- popust;
+- povrat ili refund;
+- stvarnu bruto dobit;
+- promenu ukupnog AOV-a i stope konverzije.
+
+Ako AOV poraste, a checkout konverzija padne, možda ste povećali pritisak umesto vrednosti. Ako se dopuna dobro dodaje, ali često vraća, katalog ili preporuka imaju problem koji prihod u dashboardu ne pokazuje odmah.
+
+Za osnovnu metriku i poređenje po industrijama pogledajte vodič za [prosečnu vrednost porudžbine](/blog/prosecna-vrednost-porudzbine-aov-po-industriji-benchmark-statistika-2026). Za konkretno ponašanje na stranici potreban je i [CRO pregled](/cro), jer preporuka ne popravlja spor checkout ili nejasnu dostavu.
+
+## Ilustrativna računica bez izmišljene magije
+
+Pretpostavimo da prodavnica ima 200 porudžbina mesečno i početni AOV od 6.400 dinara. To je 1.280.000 dinara prihoda.
+
+U testu 24 kupca prihvate jednu korisnu dopunu vrednu 1.800 dinara. Attach rate je 12%. Dodatni prihod je 43.200 dinara, ukupni prihod 1.323.200, a novi AOV 6.616 dinara. Rast AOV-a je 3,375%.
+
+Ako ta dopuna ima 55% bruto doprinosa, dodatni bruto doprinos pre ostalih troškova je 23.760 dinara.
+
+Ovo nije Niwa rezultat niti tržišni benchmark. Računica samo pokazuje zašto treba pratiti četiri odvojene stvari: koliko puta je preporuka prikazana, koliko puta je prihvaćena, koliko preporučenih stavki je stvarno poručeno i koliko je doprinosa ostalo posle troška.
+
+Veći AOV sa lošijom maržom nije pobeda.
+
+## Plan testa za jednu kategoriju
+
+Nemojte uključiti cross-sell logiku na celom katalogu odjednom. Izaberite jednu kategoriju sa dovoljno porudžbina i jasnim dopunskim proizvodom.
+
+### 1. Sredite osnovni proizvod
+
+Proverite naziv, cenu, stanje zaliha, fotografije, varijacije, kompatibilnost, dostavu i povrat. Ako kupac ne može da razume osnovni proizvod, dopuna je prerana.
+
+### 2. Kurirajte veze u WooCommerce-u
+
+U Linked products postavite jednu stvarnu up-sell alternativu i jedan do dva cross-sell proizvoda. Ne dodajte artikle samo zato što imaju dobru maržu.
+
+### 3. Napišite pravilo preporuke
+
+Zabeležite koji odgovor ili stanje opravdava predlog. Na primer: preporuči zaštitnu futrolu samo kada je izabrana kompatibilna veličina i kupac kaže da proizvod nosi van kuće.
+
+### 4. Proverite pet razgovora
+
+Testirajte kupca koji zna šta želi, neodlučnog kupca, pogrešnu varijaciju, proizvod van zalihe i zahtev za dopunu koja nije kompatibilna. Niwa mora da ume i da ne preporuči.
+
+### 5. Prođite ceo put do test porudžbine
+
+Proverite product card, izbor varijacije, dodavanje, iznose u korpi, checkout i order line. Dashboard nije dokaz ako se stvarna porudžbina ne slaže.
+
+### 6. Uporedite rezultat sa osnovom
+
+Pratite AOV, attach rate, checkout conversion, bruto doprinos preporučenih stavki, refund i pitanja kupaca. Ne menjajte cenu, popust i tri druga elementa testa iste nedelje ako želite da razumete šta se dogodilo.
+
+## Kada je Niwa pravi alat za povećanje AOV-a
+
+Niwa ima najviše smisla kada prodavnica ima proizvode koje kupac mora da uporedi, varijacije koje lako zbunjuju, dopune čija vrednost zavisi od namene ili ponavljajuća pitanja pre dodavanja u korpu.
+
+Klasičan WooCommerce cross-sell blok i dalje je dovoljan za očigledne parove. Ako neko kupuje štampač, paket papira ne zahteva veliki razgovor. Ali kada preporuka zavisi od modela, veličine, cilja, budžeta ili sadržaja korpe, razgovor može da ukloni sumnju koju statična kartica ostavlja.
+
+Ako tek postavljate prodavnicu, prvo sredite [WooCommerce osnovu](/blog/izrada-woocommerce-web-shopa-cena-srbija-2026). Niwa neće pretvoriti netačne podatke u dobru prodaju.
+
+Ako prodavnica već ima promet, pošaljite kroz [kontakt formu](/kontakt) tri najprodavanija proizvoda, prosečnu vrednost porudžbine i dopune koje kupci sada najčešće uzimaju. Mapiraćemo prvi cross-sell test, proveriti gde [Niwa AI](https://niwachat.com/woocommerce-ai-sales-agent/) može da koristi WooCommerce kontekst i postaviti merenje koje razlikuje dodatnu stavku od dodatnog profita.
+`,
+  },
+  {
     slug: 'trosak-reklamacija-marketing-roi-srbija-2026',
     title: 'Trošak reklamacija i marketing ROI u Srbiji 2026: kada prodaja pojede profit',
     excerpt: 'Reklamacije, ponovni rad i povrati mogu pretvoriti dobar CPL u loš posao. Izračunajte stvarni CAC, maržu i bezbedan marketing budžet.',
