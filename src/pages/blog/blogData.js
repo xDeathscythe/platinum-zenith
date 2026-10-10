@@ -1,5 +1,185 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-dimnjacare-cena-poziva-srbija-2026',
+    title: 'Google Ads za dimnjačare u Srbiji 2026: cena poziva i budžet',
+    excerpt: 'Dimnjačarska firma ne treba da meri samo pozive. Kampanju vežite za lokaciju, vrstu objekta, zakazan dolazak, naplaćenu uslugu i ponovnu kontrolu.',
+    date: '2026-10-10',
+    readTime: '10 min read',
+    category: 'Google Ads',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Dimnjačari', 'Cena poziva', 'Lokalne usluge', 'Marketing budžet'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Telefon može da zvoni, a raspored i dalje da bude loš
+
+Početkom grejne sezone potražnja naglo postaje hitna. Jedan vlasnik želi redovno čišćenje pre prvog loženja. Drugi već ima vraćanje dima. Treći traži četku, nastavak za bušilicu ili savet kako da posao uradi sam.
+
+Sva tri upita mogu da sadrže reč "dimnjak". Samo prva dva mogu da postanu dimnjačarska usluga, a ni oni nemaju isti rok, rizik, cenu ni područje izlaska.
+
+Zato Google Ads za dimnjačare ne treba ocenjivati po klikovima niti po svakom telefonskom pozivu. Prava merila su kvalifikovan zahtev, zakazan izlazak, obavljena i naplaćena usluga, direktni trošak terena i ponovna kontrola kada je potrebna.
+
+Pre nego što odredite [Google Ads budžet](/google-reklame-cena), morate znati koje objekte i koje zone ekipa stvarno može da pokrije.
+
+## Odvojite redovno održavanje od hitnih intervencija
+
+Jedna kampanja za sve pretrage vezane za dimnjak brzo pomeša preventivno čišćenje, dim u prostoriji, pregled instalacije, kupovinu opreme i upite iz gradova u koje ne izlazite.
+
+Početna struktura može da razdvoji:
+
+- redovno čišćenje dimnjaka za kuće;
+- pregled i čišćenje za stambene zajednice;
+- poslovne, ugostiteljske i druge objekte koje firma zaista prihvata;
+- hitne zahteve zbog dima, slabe promaje ili sumnje na zapušenje;
+- pregled dimnjaka pre useljenja, promene uređaja ili ponovnog korišćenja;
+- posebne usluge, poput video pregleda, samo ako postoje oprema i obučena osoba.
+
+Hitna pretraga ne treba da vodi na oglas koji obećava dolazak odmah ako raspored to ne može da izdrži. Preventivno čišćenje ne treba da plaća istu cenu klika kao zahtev koji traži prioritetni izlazak. Odvojeni budžeti pokazuju gde nastaje posao, a gde telefon samo prekida rad na terenu.
+
+## Lokacija je deo ponude, ne fusnota
+
+Dimnjačarska usluga zavisi od izlaska na adresu. Kampanja koja pokriva preveliku teritoriju često kupuje pozive koji se završe čim kupac izgovori naselje.
+
+Napravite jasnu mapu:
+
+- osnovna zona bez dodatne naknade ili sa standardnim izlaskom;
+- šira zona u kojoj se dolazak drugačije obračunava;
+- mesta koja se pokrivaju samo određenim danima;
+- područja u koja ekipa ne izlazi;
+- pravila za zgrade, poslovne objekte i više dimnjaka na istoj lokaciji.
+
+Te informacije treba da budu u oglasu ili odmah na landing strani. Sakrivena doplata za dolazak proizvodi kratke pozive i raspravu o ceni. Jasna servisna zona uklanja pogrešan upit pre nego što potroši vreme ekipe.
+
+Za gradove sa dovoljno potražnje napravite posebne kampanje ili grupe. Ne mešajte ceo region samo da biste dobili više impresija. [Sezonski marketing budžet](/blog/sezonski-marketing-budzet-lead-generation-srbija-2026) mora da prati i realan broj termina po zoni.
+
+## Upit mora da sadrži podatke za odluku
+
+Za zakazivanje nisu dovoljni ime i broj telefona. Osoba koja prima poziv treba brzo da sazna da li firma može bezbedno i isplativo da preuzme zahtev.
+
+Kratka kvalifikacija može da obuhvati:
+
+- grad, naselje i tačnu servisnu zonu;
+- kuću, zgradu, lokal ili drugi tip objekta;
+- broj dimnjaka ili ložišta;
+- gorivo i uređaj koji se koristi;
+- kada je poslednji put obavljen pregled ili čišćenje, ako kupac zna;
+- opis simptoma bez traženja da kupac sam postavlja dijagnozu;
+- željeni termin i da li je zahtev hitan;
+- pristup objektu i kontakt osobu na lokaciji.
+
+Kod sumnje na neposrednu opasnost formular nije mesto za udaljenu dijagnozu niti za obećanje da je korišćenje bezbedno. Firma treba da ima unapred definisan način kako takav poziv preuzima stručna osoba i šta se kupcu saopštava do pregleda.
+
+Ista pitanja mogu da stoje u [formi za kvalifikaciju leadova](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026), ali telefon treba da ostane vidljiv za hitne i starije korisnike. Cilj nije duga anketa. Cilj je dovoljno podataka za ispravnu odluku.
+
+## Ključne reči treba da prate nameru za uslugu
+
+Pretrage kao što su "dimnjačar Novi Sad", "čišćenje dimnjaka cena", "dimnjačar za kuću" ili "dim ulazi u sobu dimnjak" imaju različitu nameru. Kampanja mora da razlikuje osobu koja traži dolazak od osobe koja istražuje alat ili samostalni postupak.
+
+Negativne ključne reči često treba da pokriju:
+
+- posao, konkurs, plata, obuka i škola;
+- četke, sajle, nastavke, alat i prodavnice opreme;
+- uradi sam vodiče, video uputstva i forume;
+- izgradnju kamina, prodaju peći i rezervne delove ako to nije ponuda;
+- besplatnu uslugu ili komunalne informacije koje privatna firma ne pruža;
+- gradove i opštine van servisne zone;
+- industrijske sisteme koje ekipa nema pravo ili opremu da obrađuje.
+
+Ne prepisujte listu napamet. Google u [zvaničnom objašnjenju negativnih ključnih reči](https://support.google.com/google-ads/answer/2453972) jasno navodi da se njima isključuju pojmovi koji nisu važni kupcima, ali i da negativne reči ne rade isto kao pozitivne ključne reči. Pregled stvarnih search terms ostaje obavezan.
+
+Reč "četka" verovatno pripada prodaji alata. Fraza "dimnjačar četka nije rešila problem" može da bude zahtev za stručnu pomoć. Kontekst odlučuje.
+
+## Landing strana mora da odgovori pre poziva
+
+Generična stranica sa dimnjakom na fotografiji i porukom "brzo i kvalitetno" ne pomaže kupcu da proceni da li je na pravom mestu.
+
+Strana treba odmah da pokaže:
+
+- koje objekte i usluge firma prihvata;
+- teritoriju i pravila izlaska;
+- radno vreme i realan način zakazivanja;
+- šta kupac priprema pre dolaska;
+- kako se formira cena i šta može da je promeni;
+- stručne dozvole, iskustvo ili drugu proverljivu legitimaciju koju firma stvarno ima;
+- fotografije stvarne opreme ili ekipe, ako su odobrene za objavu;
+- šta se dobija posle usluge: zapis, račun, preporuka za sledeću kontrolu ili drugi stvarni dokument.
+
+Ako ne možete unapred da objavite konačnu cenu, objavite početni način obračuna. Recite da li je dolazak posebna stavka, da li broj dimnjaka menja cenu i kada je potreban pregled pre ponude. Tekst o [cenama usluga na sajtu](/blog/cene-na-sajtu-usluge-kvalitet-leadova-srbija-2026) objašnjava zašto cenovni okvir često popravlja kvalitet upita.
+
+## Cena poziva nema smisla bez naplaćene usluge
+
+Uzmimo interni primer, ne tržišni cenovnik. Firma naplaćuje standardno čišćenje 7.000 dinara. Rad, prevoz, potrošni materijal i ostali direktni troškovi iznose 3.000 dinara. Pre marketinga ostaje 4.000 dinara doprinosa.
+
+Ako firma dozvoljava da akvizicija kupca uzme najviše 1.600 dinara, a polovina kvalifikovanih upita postane naplaćen dolazak, maksimalna cena kvalifikovanog upita je 800 dinara.
+
+Za veći objekat računica može biti potpuno drugačija. Posao se u internom primeru naplaćuje 28.000 dinara, direktni trošak je 14.000, a maksimalni trošak akvizicije 4.200 dinara. Ako 35% kvalifikovanih upita postane posao, gornja cena kvalifikovanog upita je 1.470 dinara.
+
+Jedan prosečan CPL bi sakrio razliku između tih usluga. Vodite odvojeno prihod, direktni trošak, broj izlazaka, vreme ekipe, procenat zakazivanja i procenat naplate. [Bruto marža](/blog/bruto-marza-marketing-budzet-roi-srbija-2026) određuje koliko prostora za marketing zaista postoji.
+
+## Početni budžet mora da kupi dovoljno stvarnih ishoda
+
+Budžet od 60.000 dinara, uz cilj od 800 dinara po kvalifikovanom upitu, matematički daje 75 takvih upita. Ako polovina postane naplaćen posao, to je 37 ili 38 poslova, a trošak marketinga po kupcu ostaje oko 1.600 dinara.
+
+To nije obećanje Google Ads-a. To je test hipoteze. Pre pokretanja proverite da li ekipa ima 38 slobodnih termina, da li telefonski odgovor radi tokom radnog vremena i da li servisna zona može da podnese planirane rute.
+
+Ako imate mesta za 15 novih poslova, kampanja koja dovede 38 nije automatski uspeh. Telefoni će ostati bez odgovora, termini će se pomerati, a hitni kupci će pozvati sledeću firmu. [Dnevni budžet](/blog/dnevni-budzet-google-ads-lead-generation-srbija-2026) treba da prati raspored, ne samo mesečni limit kartice.
+
+## Poziv postaje vredan tek kada znate ishod
+
+Google Ads može da meri pozive iz oglasa i sa sajta. U [zvaničnoj dokumentaciji za phone call conversion tracking](https://support.google.com/google-ads/answer/6100664) Google navodi više načina praćenja, uključujući minimalno trajanje poziva i uvoz ishoda poziva iz drugog sistema.
+
+Trajanje ipak nije isto što i kvalitet. Duga rasprava sa osobom van servisne zone nije dobra konverzija. Kratak poziv upravnika zgrade koji potvrdi obilazak može da bude veoma vredan.
+
+Zato uz svaki poziv zabeležite status:
+
+- pogrešan upit ili zona;
+- potrebno dodatno pojašnjenje;
+- kvalifikovan zahtev;
+- termin ponuđen;
+- dolazak zakazan;
+- usluga obavljena;
+- račun naplaćen;
+- potrebna ponovna kontrola;
+- izgubljen posao sa razlogom.
+
+Tek tada [praćenje konverzija](/blog/pracenje-konverzija-lead-generation-srbija-2026) može da vrati kvalitetan signal kampanji. Optimizacija samo prema svakom pozivu uči sistem da kupuje telefoniranje, ne nužno naplaćen teren.
+
+## Sezona menja poruku, cenu i kapacitet
+
+Pre grejne sezone kupac lakše prihvata planirani termin. Kada problem već počne, rok postaje važniji, a raspored ekipe skuplji za promenu. Kampanja mora da prizna tu razliku.
+
+U mirnijem periodu promovišite zakazivanje unapred, grupisanje ruta i pregled pre početka korišćenja. U špicu ograničite zone, jasno prikažite najraniji termin i odvojite hitne zahteve koje tim može da preuzme. Posle intervencije zabeležite kada ima smisla sledeći kontakt, ali ne šaljite generičke poruke ljudima bez poslovnog razloga i odgovarajuće saglasnosti.
+
+Ne povećavajte budžet samo zato što je broj pretraga porastao. Ako su termini puni narednih deset dana, dodatni klik može samo da plati kupca kojeg ćete odbiti.
+
+## Nedeljni pregled mora da spoji oglase i teren
+
+Jednom nedeljno spojite Google Ads podatke sa rasporedom i naplatom. Pogledajte koje pretrage dovode zahteve van zone, kupce alata, nerazumne rokove ili tip objekta koji ne prihvatate.
+
+Zatim uporedite kampanje po:
+
+- ceni kvalifikovanog upita;
+- procentu zakazanih dolazaka;
+- procentu obavljenih i naplaćenih usluga;
+- prihodu i direktnom trošku po vrsti objekta;
+- kilometrima i vremenu između termina;
+- otkazivanjima i propuštenim pozivima;
+- razlozima zbog kojih posao nije prihvaćen.
+
+Jeftin poziv iz udaljenog mesta može biti skuplji od skupljeg poziva iz iste rute. Veći objekat može doneti više prihoda, ali blokirati pola dana i zahtevati dodatnu opremu. Broj poziva ne vidi nijednu od tih razlika.
+
+## Dobra kampanja puni rutu poslovima koje možete da uradite
+
+Google Ads za dimnjačare radi kada spaja pravu pretragu, servisnu zonu, stvaran slobodan termin i uslugu koja posle terena ostavlja zdrav doprinos. Sve ostalo je buka koju firma plaća po kliku.
+
+Počnite sa jednom ili dve zone i uslugama koje imaju jasan postupak. Napišite šta kvalifikuje upit, ko odgovara, kako se zakazuje i koji status potvrđuje naplaćen posao. Tek posle toga povećavajte [budžet za digitalni marketing](/cene-digitalnog-marketinga).
+
+Ako želite plan kampanje po zoni, vrsti objekta i maksimalnoj ceni naplaćenog posla, pošaljite postojeće brojke kroz [kontakt formu](/kontakt). Pregledaćemo gde poziv postaje prihod, gde ruta jede maržu i šta treba isključiti pre nego što sezona potroši budžet.
+`,
+  },
+  {
     slug: 'niwa-ai-cross-sell-woocommerce-povecanje-aov-2026',
     title: 'Niwa AI cross-sell za WooCommerce 2026: veća korpa bez nasumičnih preporuka',
     excerpt: 'Niwa AI koristi WooCommerce katalog, aktuelnu korpu i prodajni kontekst da predloži dopunu, izmeri klik, dodavanje i prihod preporučene stavke.',

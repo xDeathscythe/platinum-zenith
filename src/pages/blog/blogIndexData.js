@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-dimnjacare-cena-poziva-srbija-2026",
+    "title": "Google Ads za dimnjačare u Srbiji 2026: cena poziva i budžet",
+    "excerpt": "Dimnjačarska firma ne treba da meri samo pozive. Kampanju vežite za lokaciju, vrstu objekta, zakazan dolazak, naplaćenu uslugu i ponovnu kontrolu.",
+    "date": "2026-10-10",
+    "category": "Google Ads",
+    "readTime": "10 min read",
+    "isDraft": false
+  },
+  {
     "slug": "niwa-ai-cross-sell-woocommerce-povecanje-aov-2026",
     "title": "Niwa AI cross-sell za WooCommerce 2026: veća korpa bez nasumičnih preporuka",
     "excerpt": "Niwa AI koristi WooCommerce katalog, aktuelnu korpu i prodajni kontekst da predloži dopunu, izmeri klik, dodavanje i prihod preporučene stavke.",
