@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "niwa-ai-napustena-korpa-woocommerce-oporavak-prodaje-2026",
+    "title": "Niwa AI za napuštenu WooCommerce korpu: povrat kupca bez slepog popusta",
+    "excerpt": "Niwa AI beleži stanje WooCommerce korpe, šalje kontrolisane recovery poruke, vraća proizvode u korpu i meri oporavljene porudžbine i prihod.",
+    "date": "2026-10-10",
+    "category": "E-Commerce",
+    "readTime": "10 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-dimnjacare-cena-poziva-srbija-2026",
     "title": "Google Ads za dimnjačare u Srbiji 2026: cena poziva i budžet",
     "excerpt": "Dimnjačarska firma ne treba da meri samo pozive. Kampanju vežite za lokaciju, vrstu objekta, zakazan dolazak, naplaćenu uslugu i ponovnu kontrolu.",

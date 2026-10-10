@@ -1,5 +1,144 @@
 const rawBlogPosts = [
   {
+    slug: 'niwa-ai-napustena-korpa-woocommerce-oporavak-prodaje-2026',
+    title: 'Niwa AI za napuštenu WooCommerce korpu: povrat kupca bez slepog popusta',
+    excerpt: 'Niwa AI beleži stanje WooCommerce korpe, šalje kontrolisane recovery poruke, vraća proizvode u korpu i meri oporavljene porudžbine i prihod.',
+    date: '2026-10-10',
+    readTime: '10 min read',
+    category: 'E-Commerce',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Niwa AI', 'WooCommerce', 'Napuštena korpa', 'Cart recovery', 'E-Commerce'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Kupac je već izabrao proizvode. Prodavnica i dalje ne zna zašto je stao
+
+Napuštena korpa nije jedna situacija. Nekome je dostava postala preskupa. Neko je krenuo po karticu. Treći kupac nije bio siguran da li je izabrao pravu varijaciju, pa je otvorio još pet tabova i nestao.
+
+Generična poruka "Zaboravili ste nešto" sve te ljude tretira isto. Još gore, mnoge prodavnice odmah nude kupon i plaćaju popustom problem koji možda nema veze sa cenom.
+
+Niwa AI za WooCommerce pristupa tom trenutku kroz stvarno stanje prodavnice. Beleži sadržaj korpe i poslednju aktivnost, može da uključi kontekst razgovora vođenog u istoj website sesiji, šalje kontrolisanu recovery sekvencu i vraća kupca na korpu koju je ostavio. Zatim meri da li je poruka otvorena, da li je link kliknut i da li je nastala porudžbina.
+
+To je konkretan prodajni tok. Nije obećanje da će svaka napuštena korpa postati prihod.
+
+## Šta Niwa čuva kada korpa ostane bez aktivnosti
+
+Kada kupac doda proizvod, promeni količinu ili ukloni stavku, Niwa može da osveži snapshot WooCommerce korpe. U njemu ostaju proizvodi, količine, varijacije, vrednost i podaci potrebni da se ista kupovina ponovo sastavi.
+
+Recovery kandidat mora da ima korpu sa stavkama i upotrebljiv kontakt za izabrani kanal. To može biti email, a za WhatsApp tok i normalizovan broj telefona. Ako kontakt nije poznat, sistem ne izmišlja identitet i ne pokušava da spoji anonimnu posetu sa osobom iz Instagram ili Facebook razgovora.
+
+Ta granica je važna. Niwa može da koristi razgovor sa sajta vezan za istu sesiju kako bi poruka bila smislenija. Ne treba tvrditi da automatski zna da su Instagram profil, WhatsApp broj i anonimni browser ista osoba bez stvarne veze među tim podacima.
+
+Ako vas zanima širi put od komentara i DM-a do kupovine, pročitajte poređenje [Niwa AI i ManyChat-a za WordPress i WooCommerce](/blog/niwa-ai-vs-manychat-wordpress-woocommerce-2026). Ovaj tekst obrađuje uži trenutak: kupac je već stigao na sajt i ostavio proizvode u korpi.
+
+## Prva poruka treba da vrati kontekst, ne da pokloni maržu
+
+U trenutnoj Niwa postavci prvi podsetnik podrazumevano dolazi posle 15 minuta neaktivnosti. Vreme je podesivo. Poruka može da koristi administrativni template ili AI composer, uz stvarne stavke iz sačuvane korpe i sažetak razgovora iz website sesije kada postoji.
+
+Prvi kontakt ima jednostavan posao: da kupca vrati tamo gde je stao i ukloni očiglednu sumnju.
+
+Za prodavnicu tehničke opreme to može biti podsetnik na tačan model i varijaciju. Za kozmetiku, naziv proizvoda i količina. Za prodavnicu poklona, sadržaj korpe i jasan link nazad. Nema potrebe da prva rečenica glumi hitnost ako zaliha nije zaista ograničena.
+
+Recovery link koristi nasumični token i vraća sačuvane stavke u WooCommerce korpu. Redirect je ograničen na isti sajt, a ne na proizvoljan spoljašnji URL. Ako je proizvod u međuvremenu obrisan, promenjen ili više ne može da se doda, WooCommerce pravila i aktuelno stanje kataloga imaju prednost nad starim snapshotom.
+
+## Drugi podsetnik može da sadrži kupon, ali kupon nije obavezan
+
+Druga poruka je podrazumevano planirana 24 sata posle prve. I taj rok se menja u podešavanjima. Niwa može da napravi jedinstveni WooCommerce kupon za recovery red, sa podešivim tipom popusta, iznosom, rokom važenja, minimalnom ili maksimalnom potrošnjom i pravilima za proizvode.
+
+To je korisno kada je cena stvarna prepreka. Nije dobar razlog da svaka nedovršena kupovina automatski dobije popust.
+
+Pre uključivanja kupona proverite:
+
+- bruto maržu proizvoda koji najčešće ostaju u korpi;
+- trošak dostave i obrade porudžbine;
+- da li popust važi i za artikle koji su već na akciji;
+- minimalnu vrednost korpe koja čuva doprinos;
+- ponašanje kupaca koji nauče da sačekaju drugi email.
+
+Kupon koji vrati prihod, ali izbriše dobit, nije uspešan recovery. Ako kupci odustaju zbog nejasne dostave, pogrešne varijacije ili sporog checkouta, popust samo kupuje tišinu oko pravog problema.
+
+## Email, WhatsApp ili oba kanala nisu ista odluka
+
+Niwa podržava izbor emaila, WhatsApp-a ili oba kanala za recovery sekvencu, kada su odgovarajući podaci i kanal dostupni. Podrazumevani kanal je email.
+
+WhatsApp može brže da vrati pažnju, ali tehnička mogućnost slanja nije dozvola da se svakoj osobi pošalje promotivna poruka. Prodavnica mora da ima odgovarajući pravni osnov ili saglasnost, da poštuje Meta pravila za poslovne poruke i da koristi odobrene obrasce kada ih kanal zahteva. Broj unet zbog dostave ne treba automatski pretvarati u marketinšku saglasnost.
+
+Niwa vodi suppression listu za email i telefon. Link za odjavu prekida dalje recovery podsetnike za taj kontakt, a cooldown sprečava da nova korpa odmah pokrene novu seriju poruka. Podrazumevani cooldown je sedam dana. Neaktivni redovi ističu posle podešivog limita, koji je početno 72 sata.
+
+Ova pravila nisu ukras u podešavanjima. Ona čuvaju odnos sa kupcem i sprečavaju da automatizacija postane mašina za uznemiravanje.
+
+## Kako Niwa zna da je korpa stvarno oporavljena
+
+Otvoren email je slab signal. Neki email klijenti učitavaju slike preko proxy servera, pa open rate može da izgleda lepše ili lošije od stvarnog ponašanja. Klik je korisniji. Porudžbina je ono što odlučuje.
+
+Niwa beleži slanje prve i druge poruke, prihvaćene kanale, otvaranja i klikove. Recovery red može da se poveže sa WooCommerce porudžbinom preko jedinstvenog recovery kupona ili poznatog kontakta kada kupac završi kupovinu. Dashboard zatim prikazuje broj oporavljenih korpi i prihod tih porudžbina.
+
+I ovde treba ostati precizan. Evidentirani recovered revenue je vrednost porudžbina koje je sistem povezao sa recovery tokom. To nije automatski neto profit niti savršena inkrementalna atribucija. Kupac je možda planirao da se vrati i bez poruke. Refund, nabavna cena, dostava, payment fee i popust i dalje menjaju poslovni rezultat.
+
+Zato pratite bar dve grupe podataka. U Niwa recovery izveštaju gledajte poslate poruke, klikove, oporavljene porudžbine i prihod. U WooCommerce finansijama proverite popust, refund, direktni trošak i bruto doprinos.
+
+## Gde se Niwa razlikuje od običnog abandoned cart plugina
+
+Klasičan abandoned cart dodatak obično radi jednu stvar dobro: sačuva korpu i pošalje unapred pripremljen email. To može biti sasvim dovoljno za jednostavan katalog.
+
+Niwa je jači izbor kada kupcu pre odlaska treba odgovor. Recovery sadržaj može da koristi proizvode iz korpe i sažetak razgovora iz iste website sesije. Kupac se vraća u okruženje u kojem agent zna WooCommerce katalog i može dalje da objasni proizvod, proveri varijaciju ili pomogne sa sledećim korakom.
+
+Tu se ovaj tok naslanja na [Niwa cross-sell za povećanje AOV-a](/blog/niwa-ai-cross-sell-woocommerce-povecanje-aov-2026). Recovery vraća prekinutu nameru. Cross-sell ima smisla tek kada je osnovna kupovina ponovo jasna. Guranje dodatnog proizvoda osobi koja još nije rešila glavnu sumnju obično samo dodaje novu odluku.
+
+Niwa takođe nije zamena za dobar checkout. Ako je forma preduga, plaćanje ne radi ili trošak dostave stiže kao neprijatno iznenađenje, recovery poruka će kupca vratiti pravo u isti kvar. Kada se kupci vraćaju, ali ponovo odustaju na istom koraku, uradite [CRO pregled](/cro) pre povećanja broja poruka.
+
+## Pet provera pre nego što uključite slanje
+
+### 1. Napravite stvarnu test korpu
+
+Dodajte jednostavan proizvod i jednu varijaciju. Promenite količinu, zatvorite sesiju i proverite da li snapshot čuva tačne stavke. Zatim promenite cenu ili stanje zalihe i proverite kako se korpa ponaša pri povratku.
+
+### 2. Testirajte oba sadržaja bez slanja kupcima
+
+Pregledajte prvu i drugu poruku u admin prikazu. Proverite subject, naziv prodavnice, proizvode, link za povratak, kupon i odjavu. AI tekst nije izgovor da preview preskočite.
+
+### 3. Pošaljite test kroz kanal koji stvarno koristite
+
+Za email proverite sender domen, SPF, DKIM, prikaz na telefonu i plain-text verziju. Za WhatsApp proverite da li je kanal uključen, broj pravilno normalizovan i poruka usklađena sa važećim pravilima i saglasnošću.
+
+### 4. Završite test porudžbinu
+
+Kliknite recovery link, proverite vraćene proizvode, završite checkout i potvrdite da je red označen kao recovered uz tačan order ID. Ako testirate drugu poruku, proverite i da li je kupon ograničen kako ste nameravali.
+
+### 5. Proverite odjavu i cooldown
+
+Kliknite unsubscribe, napravite novu test korpu za isti kontakt i potvrdite da nema novog slanja. Zatim proverite cooldown na drugom dozvoljenom test kontaktu. Automatizacija se ne smatra završenom dok ne dokažete da ume da stane.
+
+## Šta pregledati svake nedelje
+
+Nemojte ocenjivati recovery po open rate-u. Nedeljni pregled treba da spoji ponašanje kupca sa stanjem checkouta i profitom.
+
+Pogledajte:
+
+- koje stavke i varijacije najčešće ostaju u korpi;
+- koliko kandidata ima poznat kontakt i dozvoljen kanal;
+- odnos poslatih poruka, klikova i oporavljenih porudžbina;
+- prihod, popust i bruto doprinos oporavljenih porudžbina;
+- refund i otkazivanje posle recovery kupovine;
+- pitanja iz website razgovora neposredno pre odustajanja;
+- korak na kojem checkout tehnički ili sadržajno puca.
+
+Ako mnogo ljudi pita za dostavu pa odustane, odgovor nije jači kupon. Napišite uslove dostave ranije. Ako varijacije zbunjuju kupce, sredite nazive i izbor. Ako recovery link dobija klikove, ali kupovina ponovo stane, problem je verovatno u korpi ili checkoutu.
+
+Za osnovno poređenje pogledajte i vodič o [napuštanju korpe u e-commerce-u](/blog/napustanje-korpe-statistika-po-industriji-2026). Benchmark može da pokaže da problem postoji. Vaš recovery izveštaj mora da pokaže gde ga vaša prodavnica pravi.
+
+## Dobar recovery vraća odluku, ne juri svaki email
+
+Najbolja recovery sekvenca nije ona koja pošalje najviše poruka. Ona prepoznaje kupca sa stvarnom korpom, vraća ga na tačne proizvode, koristi popust samo kada računica to dozvoljava i prestaje čim kupac završi porudžbinu ili se odjavi.
+
+Za WooCommerce vlasnika tu Niwa ima jaku prednost: recovery nije odvojen od kataloga, korpe, website razgovora i porudžbine koja potvrđuje ishod. Jedan sistem vidi šta je ostalo, može da vrati sadržaj korpe i meri da li je povratak završio kupovinom.
+
+Ako želite da postavite prvi kontrolisani test, pošaljite kroz [kontakt formu](/kontakt) podatke o prosečnoj vrednosti korpe, najčešćim razlozima odustajanja i kanalima za koje imate saglasnost. Proverićemo gde [Niwa AI za WooCommerce](https://niwachat.com/woocommerce-ai-sales-agent/) može da vrati izgubljenu nameru, a gde prvo treba popraviti katalog, dostavu ili checkout.
+`,
+  },
+  {
     slug: 'google-ads-za-dimnjacare-cena-poziva-srbija-2026',
     title: 'Google Ads za dimnjačare u Srbiji 2026: cena poziva i budžet',
     excerpt: 'Dimnjačarska firma ne treba da meri samo pozive. Kampanju vežite za lokaciju, vrstu objekta, zakazan dolazak, naplaćenu uslugu i ponovnu kontrolu.',
