@@ -1,5 +1,166 @@
 const rawBlogPosts = [
   {
+    slug: 'nedeljni-prodajni-izvestaj-leadovi-pipeline-srbija-2026',
+    title: 'Nedeljni prodajni izveštaj za leadove 2026: gde pipeline gubi kupce',
+    excerpt: 'Nedeljni pregled povezuje kampanju, CRM statuse, starost prilike, ponude i dobijene poslove, pa pokazuje gde leadovi stvarno staju.',
+    date: '2026-10-11',
+    readTime: '10 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Prodajni izveštaj', 'Leadovi', 'CRM', 'Pipeline', 'Marketing budžet'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Kampanja može da izgleda dobro dok prodaja stoji
+
+U petak se otvori Google Ads izveštaj. Cena leada je prihvatljiva, forme stižu, telefon zvoni. Ipak, vlasnik kaže da nema dovoljno novih poslova. Marketing odgovara da je doveo upite. Prodaja tvrdi da leadovi nisu dobri. Sastanak se završi bez odluke.
+
+Problem je često u izveštaju koji se završava prerano. Broji lead, ali ne pokazuje da li je kontaktiran, kvalifikovan, dobio ponudu, zakazao sledeći korak ili postao naplaćen posao.
+
+Nedeljni prodajni pregled služi da se tačno locira zastoj. Ne traži novi CRM projekat niti dvadeset grafikona. Traži isti skup statusa, vlasnika i datuma za svaki ozbiljan upit. Tek tada [Google Ads budžet](/google-reklame-cena) može da se menja na osnovu prodaje, a ne osećaja iz dva glasna telefonska razgovora.
+
+## Jedan red po leadu je bolji od zbirnog utiska
+
+Za početak je dovoljna tabela u kojoj svaki lead ima svoj red. Ako tim već koristi CRM, ista polja treba da postoje u njemu. Minimum je:
+
+- datum i vreme dolaska;
+- izvor, kampanja i ponuda;
+- ime osobe koja je preuzela lead;
+- trenutni status;
+- datum poslednjeg kontakta;
+- konkretan sledeći korak i rok;
+- procenjena ili ugovorena vrednost posla;
+- razlog gubitka kada posao nije dobijen.
+
+Polje "napomena" ne može da zameni status. Rečenice poput "čuli smo se", "razmišlja" i "javlja se" ne govore ko je odgovoran niti kada treba ponovo reagovati. Dobar status mora da promeni narednu radnju.
+
+Ako ova osnova nedostaje, prvo sredite [CRM evidenciju za leadove](/blog/crm-za-leadove-evidencija-prodaja-srbija-2026). Bez nje nedeljni pregled postaje prepričavanje inboxa.
+
+## Statusi moraju da prate stvarni put do novca
+
+Nazivi mogu da se prilagode poslu, ali tok mora da razlikuje važne komercijalne faze. Praktičan početni model izgleda ovako:
+
+1. nov upit;
+2. kontakt pokušan;
+3. kontakt ostvaren;
+4. kvalifikovan;
+5. zakazan pregled, konsultacija ili procena;
+6. poslata ponuda;
+7. čeka odluku sa dogovorenim datumom;
+8. dobijen posao;
+9. izgubljen posao sa razlogom;
+10. odložen za tačno definisan period.
+
+"Otvoreno" nije korisna faza ako u njoj stoje lead od jutros i ponuda poslata pre četrdeset dana. Oboje su otvoreni, ali ne traže istu akciju.
+
+Svaki status treba da ima dozvoljeno trajanje. Novi upit možda zahteva odgovor istog radnog sata. Ponuda može da čeka do dogovorenog datuma odluke. Odložen projekat treba da ima datum ponovnog kontakta. Tu se [SLA za leadove](/blog/sla-za-leadove-marketing-prodaja-srbija-2026) pretvara iz interne želje u merljivo pravilo.
+
+## Prvo gledajte gde se broj naglo smanjuje
+
+Nedeljni pregled ne počinje pitanjem "da li da povećamo budžet". Počinje prolaskom kroz broj leadova u svakoj fazi i stopu prelaska između faza.
+
+Uzmimo ilustrativan mesec. Kampanja je potrošila 240.000 dinara i dovela 60 leadova. Kontakt je ostvaren sa 42 osobe, 24 su kvalifikovane, 15 je dobilo ponudu, a šest je postalo kupac.
+
+Računica izgleda ovako:
+
+- sirovi CPL je 4.000 dinara;
+- kontakt je ostvaren sa 70% leadova;
+- 40% svih leadova je kvalifikovano;
+- cena kvalifikovanog leada je 10.000 dinara;
+- 62,5% kvalifikovanih leadova dobilo je ponudu;
+- 40% poslatih ponuda postalo je posao;
+- oglasni CAC je 40.000 dinara po kupcu.
+
+Sirovi CPL ovde ne otkriva kvar. Ako je 18 ljudi ostalo bez kontakta, prvo treba pregledati vreme odgovora, propuštene pozive i vlasništvo leada. Ako 24 kvalifikovana leada proizvode samo 15 ponuda, zastoj je između razgovora i ponude. Ako ponude izlaze, ali se malo poslova zatvara, pregledajte obim, cenu, dokaz, rok, donosioca odluke i follow-up.
+
+Za širu dijagnostiku koristite [audit prodajnog funnel-a](/blog/audit-prodajnog-funnela-lead-generation-srbija-2026). Nedeljni pregled je njegova operativna verzija: ne radi se jednom, nego vraća isti kvar na sto dok se ne popravi.
+
+## Starost faze otkriva leadove koji izgledaju aktivno, a nisu
+
+Pored statusa, izračunajte koliko dana lead provodi u trenutnoj fazi. To je jednostavno polje, ali brzo razdvaja stvarne prilike od zaboravljenih redova.
+
+Primeri za proveru:
+
+- nov upit bez prvog pokušaja kontakta;
+- kvalifikovan lead bez zakazanog narednog razgovora;
+- pregled završen, a ponuda nije poslata;
+- ponuda bez datuma odluke;
+- kupac je tražio da se javite sledećeg meseca, ali podsetnik ne postoji;
+- posao je označen kao otvoren iako je kupac već izabrao drugog dobavljača.
+
+Nije cilj automatski zatvoriti svaki stariji lead. Cilj je da otvorena prilika ima dokaz da se nešto zaista čeka. Kada ponuda ima rok, odgovornu osobu i datum sledeće odluke, [rok važenja ponude](/blog/rok-vazenja-ponude-leadovi-prodaja-srbija-2026) štiti i kupca i kapacitet firme. Kada toga nema, pipeline je samo arhiva lepih namera.
+
+## Odvojite kvalitet izvora od kvaliteta prodajnog rada
+
+Jedan kanal može da donese manje leadova, ali više kvalifikovanih prilika. Drugi može da puni formu ljudima koji ne odgovaraju ponudi. Treći može da dovede dobar upit koji propadne jer niko nije pozvao na vreme.
+
+Zato isti pregled treba preseći po izvoru, kampanji i ponudi. Za svaki segment gledajte:
+
+- broj sirovih i kvalifikovanih leadova;
+- vreme do prvog odgovora;
+- procenat ostvarenih kontakata;
+- broj poslatih ponuda;
+- dobijene i izgubljene poslove;
+- prihod, bruto dobit ili bar ugovorenu vrednost kada je poznata;
+- najčešći proverljiv razlog gubitka.
+
+Marketing tada dobija upotrebljivu povratnu informaciju. Fraza "leadovi su loši" ne može da popravi kampanju. Podatak da 11 upita traži uslugu koju firma ne pruža može da promeni ključne reči i landing stranu. Podatak da sedam kvalifikovanih leadova nije dobilo ponudu traži promenu u prodaji, ne u targetiranju.
+
+Ovaj deo se direktno naslanja na [povratnu informaciju prodaje marketingu](/blog/povratna-informacija-prodaje-marketing-kampanje-leadovi-srbija-2026) i evidenciju [razloga izgubljenih poslova](/blog/razlozi-izgubljenih-poslova-leadovi-prodaja-srbija-2026).
+
+## Ne ocenjujte poslednjih nekoliko dana kao završen rezultat
+
+Kod usluga sa dužim odlučivanjem, trošak se vidi odmah, a prodaja kasnije. Zbog toga sveža sedmica može da izgleda skuplje od starije iako još nije dobila dovoljno vremena da proizvede ishod.
+
+Google Ads ima izveštaj "Days to conversion" upravo za pregled vremena koje prođe do evidentirane konverzije. Google u [zvaničnom uputstvu za conversion lag](https://support.google.com/google-ads/answer/9347065) upozorava da kašnjenje jače utiče na najnovije podatke. Interni pipeline mora da doda još jedan sloj: vreme od leada do kvalifikacije, ponude, prihvatanja i naplate.
+
+Praktično, na sastanku odvojite dve grupe:
+
+- sveže leadove kojima proveravate brzinu i sledeći korak;
+- dovoljno stare kohorte kojima već možete pošteno oceniti kvalifikaciju, close rate i CAC.
+
+Ako obe grupe stavite u isti zbir, novi leadovi izgledaju kao gubici pre nego što su imali priliku da prođu kroz prodaju. Ako ih nikada ne vratite u kasniji pregled, pipeline zauvek skriva konačan rezultat. Tekst o [dugom prodajnom ciklusu](/blog/dug-prodajni-ciklus-marketing-budzet-lead-generation-srbija-2026) detaljnije objašnjava kako ovo kašnjenje menja ROI i odluku o budžetu.
+
+## Vratite prodajni ishod u oglasni sistem
+
+Kada firma zna koji lead je kvalifikovan, koji je dobio ponudu i koji je postao kupac, ne treba da ostavi taj signal zaključan u tabeli.
+
+Google opisuje [enhanced conversions for leads](https://support.google.com/google-ads/answer/15713840) kao način da se offline ishod iz CRM-a poveže sa ranijim oglasnim kontaktom uz odgovarajuće first-party podatke i Google identifikatore. To ne znači da treba slati svaku internu napomenu niti proizvoljne lične podatke. Potrebni su jasna pravna osnova, odgovarajuća podešavanja, tačno mapirane conversion akcije i kontrola podataka koji se obrađuju.
+
+Za optimizaciju nije isto da li je neko poslao praznu formu ili postao kvalifikovan prodajni razgovor. Početno slanje forme može ostati mereno, ali jači poslovni ishodi treba da dobiju sopstvene događaje i vrednosti kada obim podataka to dozvoljava. Vodič o [kvalifikovanim konverzijama u Google Ads-u](/blog/kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026) pokriva taj korak detaljnije.
+
+## Sastanak treba da završi odlukama, ne komentarima
+
+Dobar nedeljni pregled može da stane u 30 do 45 minuta ako su podaci pripremljeni. Redosled je važan:
+
+1. proverite leadove bez vlasnika ili sledećeg koraka;
+2. označite faze u kojima je probijen dogovoreni rok;
+3. uporedite prelaze između faza sa prethodnim kohortama;
+4. izdvojite razloge gubitka koji se ponavljaju;
+5. donesite po jednu konkretnu korekciju za marketing, prodaju ili ponudu;
+6. upišite vlasnika zadatka i datum provere.
+
+Primer odluke nije "popraviti leadove". Dobra odluka glasi: "Do srede dodati negativne ključne reči za upite za posao, jer su prošle sedmice napravili šest nekvalifikovanih formi." Druga može biti: "Svaka kvalifikovana konsultacija dobija ponudu ili evidentiran razlog zašto je nema u roku od dva radna dana."
+
+Budžet menjajte tek kada pregled pokaže gde je ograničenje. Ako prodaja kasni sa odgovorima, više saobraćaja uvećava red. Ako kampanja dovodi pogrešnu nameru, menjaju se targetiranje, oglas i strana. Ako kvalifikovani leadovi uredno prolaze do naplaćenog posla uz zdravu maržu, postoji osnov za kontrolisano povećanje.
+
+## Četiri pitanja koja vlasnik treba da dobije svakog petka
+
+Na kraju pregleda vlasnik ne mora da čita ceo CRM. Treba da dobije jasan odgovor na četiri pitanja:
+
+- Koliko novih leadova je stiglo i koliko ih je kvalifikovano?
+- U kojoj fazi je trenutno najveći merljiv zastoj?
+- Koji razlog gubitka se najčešće ponovio?
+- Koja jedna promena se sprovodi pre sledećeg pregleda, ko je vlasnik i kada proveravamo rezultat?
+
+Ako odgovori ne postoje, firma još nema nedeljni prodajni izveštaj. Ima zbir aktivnosti.
+
+Ako želite da povežemo kampanje, landing strane, CRM statuse i prodajne ishode u pregled koji vodi ka odluci, pošaljite postojeći tok kroz [kontakt formu](/kontakt). Proverićemo gde leadovi stare bez akcije, koje statuse treba vratiti marketingu i da li je sledeći potez korekcija funnel-a ili veći budžet.
+`,
+  },
+  {
     slug: 'niwa-ai-napustena-korpa-woocommerce-oporavak-prodaje-2026',
     title: 'Niwa AI za napuštenu WooCommerce korpu: povrat kupca bez slepog popusta',
     excerpt: 'Niwa AI beleži stanje WooCommerce korpe, šalje kontrolisane recovery poruke, vraća proizvode u korpu i meri oporavljene porudžbine i prihod.',

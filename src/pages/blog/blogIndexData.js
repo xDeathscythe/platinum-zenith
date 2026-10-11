@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "nedeljni-prodajni-izvestaj-leadovi-pipeline-srbija-2026",
+    "title": "Nedeljni prodajni izveštaj za leadove 2026: gde pipeline gubi kupce",
+    "excerpt": "Nedeljni pregled povezuje kampanju, CRM statuse, starost prilike, ponude i dobijene poslove, pa pokazuje gde leadovi stvarno staju.",
+    "date": "2026-10-11",
+    "category": "Marketing",
+    "readTime": "10 min read",
+    "isDraft": false
+  },
+  {
     "slug": "niwa-ai-napustena-korpa-woocommerce-oporavak-prodaje-2026",
     "title": "Niwa AI za napuštenu WooCommerce korpu: povrat kupca bez slepog popusta",
     "excerpt": "Niwa AI beleži stanje WooCommerce korpe, šalje kontrolisane recovery poruke, vraća proizvode u korpu i meri oporavljene porudžbine i prihod.",
