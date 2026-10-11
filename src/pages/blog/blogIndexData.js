@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "instagram-dm-woocommerce-zalihe-niwa-ai-manychat-2026",
+    "title": "Instagram DM za WooCommerce zalihe: Niwa AI ili ManyChat za tačan odgovor?",
+    "excerpt": "Instagram DM pitanje o zalihama traži više od auto-odgovora. Uporedite Niwa AI i ManyChat kada kupac pita za WooCommerce varijaciju i kupovinu.",
+    "date": "2026-10-11",
+    "category": "E-Commerce",
+    "readTime": "10 min read",
+    "isDraft": false
+  },
+  {
     "slug": "nedeljni-prodajni-izvestaj-leadovi-pipeline-srbija-2026",
     "title": "Nedeljni prodajni izveštaj za leadove 2026: gde pipeline gubi kupce",
     "excerpt": "Nedeljni pregled povezuje kampanju, CRM statuse, starost prilike, ponude i dobijene poslove, pa pokazuje gde leadovi stvarno staju.",

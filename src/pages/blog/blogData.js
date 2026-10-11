@@ -1,5 +1,166 @@
 const rawBlogPosts = [
   {
+    slug: 'instagram-dm-woocommerce-zalihe-niwa-ai-manychat-2026',
+    title: 'Instagram DM za WooCommerce zalihe: Niwa AI ili ManyChat za tačan odgovor?',
+    excerpt: 'Instagram DM pitanje o zalihama traži više od auto-odgovora. Uporedite Niwa AI i ManyChat kada kupac pita za WooCommerce varijaciju i kupovinu.',
+    date: '2026-10-11',
+    readTime: '10 min read',
+    category: 'E-Commerce',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Niwa AI', 'ManyChat', 'Instagram DM', 'WooCommerce', 'Zalihe', 'Varijacije proizvoda'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+Komentar "Imate li crne u broju 39?" nije samo engagement. To je pitanje koje može da završi kupovinom, ali samo ako odgovor odgovara stvarnom stanju prodavnice.
+
+Tu generički comment-to-DM flow često pokaže slabost. Brzo pošalje link, ali ne zna da je crna varijacija rasprodata, da je broj 39 dostupan u drugom modelu ili da podatak u staroj poruci više ne važi. Kupac dobije brz odgovor i pogrešnu informaciju.
+
+Niwa AI i ManyChat oba mogu da započnu razgovor posle Instagram komentara. Razlika se vidi kada kupac postavi pitanje koje zavisi od WooCommerce proizvoda, varijacije, zalihe ili pravila prodavnice. ManyChat može da dođe do tih podataka kroz dobro napravljenu integraciju. Niwa ih koristi iz WordPress okruženja u kojem prodavnica već radi.
+
+## Gde se ovaj scenario razlikuje od običnog auto-DM-a
+
+Objava prikazuje jaknu u tri boje. Kupac komentariše: "Cena?" ili "Ima li M?" Najlakši flow šalje istu privatnu poruku svima. To radi dok je ponuda jednostavna i ne menja se.
+
+Problem počinje kada odgovor zavisi od nečega što nije stalo u unapred napisanu poruku:
+
+- konkretne boje i veličine;
+- raspoloživosti jedne varijacije;
+- kompatibilnosti sa drugim proizvodom;
+- pravila isporuke za određenu lokaciju;
+- razlike između dva slična modela;
+- podatka koji je promenjen posle objavljivanja Instagram posta.
+
+Tada automatizacija ne treba samo da prepozna reč "cena". Mora da razume proizvodno pitanje, proveri dozvoljeni javni podatak i pošalje kupca na tačan sledeći korak.
+
+## Šta ManyChat radi dobro
+
+ManyChat ima zreo Instagram Post and Reel Comments trigger. Može da reaguje na komentar ispod određene, svake ili sledeće objave, pošalje javni odgovor i nastavi kroz private DM. Njegov Quick Automation može da doda opening DM, prikupljanje emaila, zahtev za praćenje naloga, link i naknadnu poruku kada uslovi to dozvole.
+
+Važna granica postoji već na prvom koraku. Prema zvaničnoj [ManyChat dokumentaciji za Instagram komentare](https://help.manychat.com/hc/en-us/articles/14281316989724-Instagram-Post-and-Reel-Comments-trigger), početni private reply sam ne otvara standardni 24-časovni prozor. Kupac treba da odgovori ili klikne odgovarajuće dugme ili quick reply da bi razgovor mogao da se nastavi.
+
+ManyChat nije odsečen od WooCommerce sajta. [External Request](https://help.manychat.com/hc/en-us/articles/14281285374364-Dev-Tools-External-request) može preko HTTPS zahteva da čita spoljni servis i mapira odgovor. [ManyChat Pixel](https://help.manychat.com/hc/en-us/articles/14281244168476-Manychat-Pixel) može da beleži conversion i money events na sajtu. Zapier i druge integracije daju još puteva do poslovnih podataka.
+
+Zato tvrdnja "ManyChat ne može da proveri zalihu" nije tačna. Može, ako tim napravi i održava vezu sa WooCommerce-om, definiše podatke koje traži, obradi greške i obezbedi da poruka ne koristi zastarelu vrednost.
+
+## Zašto Niwa ima jaču polaznu tačku u WooCommerce prodavnici
+
+Niwa radi u WordPressu, pored proizvoda koje kupac stvarno može da otvori i poruči. Customer-facing odgovor koristi storefront znanje i javne product podatke, bez administratorskih dozvola. Pitanje iz Instagram ili Facebook razgovora ne daje kupcu pravo da menja cenu, zalihu ili porudžbinu.
+
+Za proizvodni upit Niwa može da pretraži katalog po značenju, razlikuje tačan rezultat od bliske alternative i koristi WooCommerce podatke o proizvodu i dostupnim varijacijama. Pravila odgovora zabranjuju izmišljanje zalihe, cene, kompatibilnosti, roka dostave ili popusta. Kada podatak nije dovoljan, bolji odgovor je kratko pojašnjenje ili ljudski handoff, ne samouvereno nagađanje.
+
+To je prava prednost za vlasnika prodavnice. Ne dobija samo brži DM. Dobija odgovor koji je bliže izvoru istine i link ka proizvodu koji kupac može da proveri na sajtu.
+
+Šire poređenje kanala, analitike i prodajnog toka nalazi se u vodiču [Niwa AI vs ManyChat za WordPress i WooCommerce](/blog/niwa-ai-vs-manychat-wordpress-woocommerce-2026). Ovde je fokus uži: pitanje o zalihama i varijacijama koje ne sme da dobije generičan odgovor.
+
+## Kako izgleda dobar tok od komentara do proizvoda
+
+Zamislimo da Instagram objava prikazuje patike, a kupac napiše: "Da li imate crne 39?"
+
+Dobar tok izgleda ovako:
+
+1. Comment trigger šalje dozvoljeni početni odgovor ili private reply.
+2. Kupac nastavlja interakciju na način koji otvara dozvoljeni prozor za razgovor.
+3. Sistem razume da su boja i broj obavezni kriterijumi, a ne reči za ubacivanje u generičan template.
+4. WooCommerce katalog se proverava za odgovarajući proizvod i varijaciju.
+5. Ako je tačna kombinacija dostupna, odgovor vodi na taj proizvod. Ako nije, alternativa se jasno označava kao alternativa.
+6. Link dobija dosledne UTM oznake za kanal, kampanju i konkretnu objavu ili flow.
+7. Na sajtu se mere product view, dodavanje u korpu, početak checkouta i porudžbina kada se zaista dogode.
+
+Niwa Meta odgovor ne treba da tvrdi da je otvorio korpu ili promenio varijaciju u Instagram aplikaciji. Te radnje pripadaju sajtu. Social razgovor treba da reši sumnju i dovede kupca do pravog mesta, a WordPress nastavlja prodajni tok.
+
+## Šta se dešava kada tražena varijacija ne postoji
+
+Najgori odgovor je da kupac dobije link ka sličnom proizvodu bez objašnjenja da tražena kombinacija nije pronađena. To izgleda kao pomoć, a u stvari menja zahtev.
+
+Za upit "crne patike 39" postoje najmanje četiri moguća ishoda:
+
+- tačan model, boja i broj su dostupni;
+- model postoji, ali tražena varijacija trenutno nije dostupna;
+- postoji drugi model u traženoj boji i broju;
+- katalog nema dovoljno podataka za pouzdan odgovor.
+
+Ta četiri ishoda ne smeju da dobiju istu poruku. Niwa razlikuje verifikovan proizvodni rezultat od bliske alternative. Ako katalog nema dokaz za kompatibilnost ili tačnu opciju, odgovor treba da kaže šta je poznato i šta zahteva proveru.
+
+Ovo je posebno važno kada se Instagram objava deli nedeljama posle objavljivanja. Statičan DM može i dalje da promoviše varijaciju koja je rasprodata. Odgovor vezan za aktuelni WooCommerce kontekst ima bolju šansu da ne pošalje kupca u slepu ulicu, pod uslovom da su podaci prodavnice uredni.
+
+## UTM oznaka prati kampanju, ne dokazuje identitet osobe
+
+Link iz DM-a treba da nosi stabilne oznake, na primer:
+
+\`?utm_source=instagram&utm_medium=organic_social&utm_campaign=jesenja-obuca&utm_content=comment-dm-crne-39\`
+
+Niwa Site Analytics na sajtu može da zabeleži UTM podatke, referrer, landing stranu i browser sesiju. Podržani događaji uključuju product view, add to cart, begin checkout, lead, chat i WooCommerce order. Porudžbina čuva raspoloživi attribution kontekst, a refundirani ili otkazani ishodi ne treba da ostanu prikazani kao puna zadržana vrednost.
+
+Granica je bitna: UTM oznaka ne dokazuje da su Instagram profil, browser na telefonu, browser na laptopu i WooCommerce kupac ista osoba. Drugi uređaj, obrisani cookie, blokiran JavaScript ili prosleđen link mogu da prekinu ili promene trag.
+
+ManyChat ovde ima sopstvenu ozbiljnu mogućnost. Njegov Pixel dodaje \`mcp_token\` kada kontakt klikne odgovarajući Open website button i može da beleži website događaje u sačuvanoj sesiji. To nije razlog da se ManyChat potceni. To je razlog da se porede stvarna implementacija, pokriveni događaji i održavanje, a ne marketinške etikete.
+
+## Šta mora da se testira pre uključivanja pravim kupcima
+
+Jedan uspešan komentar nije acceptance test. Pre puštanja proverite najmanje sledeće slučajeve:
+
+- dostupnu jednostavnu varijaciju;
+- rasprodatu varijaciju bez odgovarajuće alternative;
+- blisku alternativu koja mora biti tako označena;
+- nejasan upit bez modela, boje ili veličine;
+- promenu zalihe nakon što je objava već aktivna;
+- kupca koji traži osobu;
+- poruku sa fotografijom bez dovoljno tekstualnog konteksta;
+- link otvoren na drugom uređaju;
+- dodavanje u korpu i checkout koji se dešavaju tek na sajtu;
+- refundiranu ili otkazanu test porudžbinu.
+
+Kod Niwe media-only slučaj ide na ljudski pregled umesto da se sadržaj fotografije izmisli. Administrator može da preuzme razgovor, odgovori i kasnije nastavi automatizaciju. Dostupnost Instagram i Facebook funkcija ipak zavisi od povezanog naloga, odobrenih permissions i statusa konkretne Meta aplikacije.
+
+Ako prelazite sa postojećeg sistema, koristite kontrolisan plan iz vodiča [ManyChat alternativa za WooCommerce](/blog/manychat-alternativa-woocommerce-niwa-ai-migracija-2026). Nemojte pustiti dva alata da odgovaraju na isti komentar.
+
+## Koje metrike pokazuju da odgovor radi
+
+Broj poslatih DM poruka govori da je trigger radio. Ne govori da je kupac dobio tačan proizvod.
+
+Za ovaj scenario pratite:
+
+- koliko komentara je dobilo jedan, a ne dupli odgovor;
+- koliko ljudi je nastavilo razgovor;
+- koliko odgovora je završilo relevantnim linkom;
+- koliko poseta je stiglo sa dogovorenim UTM oznakama;
+- koliko tih poseta je otvorilo preporučeni proizvod;
+- koliko je dodalo proizvod u korpu i pokrenulo checkout;
+- koliko porudžbina je ostalo posle otkazivanja i refunda;
+- koliko slučajeva je prosleđeno čoveku i zašto.
+
+Ako razgovori rastu, a product view ne raste, problem je verovatno u odgovoru ili linku. Ako ljudi otvore proizvod, ali ne biraju varijaciju, proverite podatke, cenu, dostavu i kvalitet product stranice. Ako korpa raste, a checkout pada, comment automation više nije glavno usko grlo. Tada je potreban [CRO pregled prodavnice](/cro), ne još jedna DM poruka.
+
+Za širu postavku događaja pročitajte vodič za [praćenje konverzija](/blog/pracenje-konverzija-lead-generation-srbija-2026). Bez toga tim može da optimizuje broj razgovora dok prodaja stoji.
+
+## Kada je ManyChat bolji izbor
+
+ManyChat je logičniji kada je glavni posao veliki broj social-first flow-ova, složene sekvence, tagovi, delay koraci, email collection i timski Inbox. Ako WooCommerce podatke već pouzdano dovlačite kroz External Request ili drugi data layer, ne treba rušiti setup koji radi samo zato što postoji novi alat.
+
+Njegova prednost je zrela kontrola social automatizacije. Cena je to što neko mora da održava vezu sa katalogom, mapiranje polja, evente i fallback kada spoljni zahtev ne uspe.
+
+## Kada je Niwa bolji izbor
+
+Niwa je bolji izbor kada WordPress nije samo landing strana, već mesto gde žive katalog, varijacije, sadržaj, pravila prodavnice, analitika i WooCommerce porudžbine.
+
+To posebno važi kada kupci redovno pitaju:
+
+- da li je konkretna varijacija dostupna;
+- koji proizvod odgovara njihovom slučaju;
+- da li postoji kompatibilan ili blizak model;
+- gde mogu da provere cenu, dostavu ili uslov kupovine;
+- šta se dogodilo posle klika, korpe i checkouta.
+
+Tu je Niwina prednost jasna: social odgovor i website prodajni kontekst ne moraju da se održavaju kao dva odvojena sveta. Za [WooCommerce AI sales agenta](https://niwachat.com/woocommerce-ai-sales-agent/) proizvod nije samo link u poruci. To je stvaran artikal sa opcijama, pravilima i ishodom koji se nastavlja na sajtu.
+
+Ako tek postavljate prodavnicu, prvo sredite [WooCommerce osnovu](/blog/izrada-woocommerce-web-shopa-cena-srbija-2026). Nijedan AI odgovor ne može da popravi netačnu zalihu ili pogrešno podešene varijacije.
+
+Ako želite da testiramo jedan konkretan Instagram komentar od pitanja do WooCommerce porudžbine, pošaljite kroz [kontakt formu](/kontakt) link ka objavi, proizvod sa varijacijama i kriterijum koji za vas znači uspeh. Proverićemo odgovor, handoff, UTM trag i prodajni ishod pre nego što flow dobije stvaran saobraćaj ili veći [marketing budžet](/cene-digitalnog-marketinga).
+`,
+  },
+  {
     slug: 'nedeljni-prodajni-izvestaj-leadovi-pipeline-srbija-2026',
     title: 'Nedeljni prodajni izveštaj za leadove 2026: gde pipeline gubi kupce',
     excerpt: 'Nedeljni pregled povezuje kampanju, CRM statuse, starost prilike, ponude i dobijene poslove, pa pokazuje gde leadovi stvarno staju.',
