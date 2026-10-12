@@ -1,5 +1,165 @@
 const rawBlogPosts = [
   {
+    slug: 'osvezavanje-starih-blog-clanaka-seo-srbija-2026',
+    title: 'Osvežavanje starih blog članaka za SEO 2026: šta menjati, spojiti ili obrisati',
+    excerpt: 'Stari SEO članci ne traže automatski novi datum. Saznajte kako da kroz Search Console odlučite šta treba osvežiti, spojiti ili ukloniti.',
+    date: '2026-10-12',
+    readTime: '10 min read',
+    category: 'SEO',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['SEO', 'Content marketing', 'Google Search Console', 'Osvežavanje sadržaja', 'SEO audit'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+Sajt sa stotinama članaka može da objavljuje svaki dan, a da organski saobraćaj ipak stoji. Novi tekstovi nisu jedini posao. Stari članci nastavljaju da dobijaju impresije, nose interne linkove i dovode posetioce na stranice usluga. Kada zastare, često se samo promeni godina u naslovu i datum objave. To nije osvežavanje sadržaja.
+
+Pravo osvežavanje počinje pitanjem: da li stranica i dalje rešava isti problem bolje od rezultata koji su je pretekli? Odgovor se ne traži u broju reči, već u Search Console podacima, nameri pretrage, tačnosti teksta i putu od članka do upita.
+
+## Pad saobraćaja nije automatski dokaz da je članak zastareo
+
+Članak može da izgubi klikove zato što je pala potražnja, promenila se sezona, pojavio se jači rezultat ili je Google drugačije prikazao stranicu rezultata. Može da izgubi poziciju samo za jednu grupu upita, dok za drugu raste. Nekad impresije rastu, ali CTR pada jer naslov više ne odgovara onome što ljudi traže.
+
+Zato izraz "content decay" nije dijagnoza. To je signal za proveru.
+
+Pre izmene odvojite najmanje četiri slučaja:
+
+- impresije padaju zajedno sa pozicijom za važne upite;
+- impresije su stabilne, ali klikovi i CTR padaju;
+- članak dobija posete, ali ne vodi ka relevantnoj usluzi ili kontaktu;
+- tekst je tačan, ali se preklapa sa drugim člankom na istom sajtu.
+
+Svaki slučaj traži drugačiju odluku. Promena uvoda neće rešiti kanibalizaciju, a brisanje članka neće popraviti loš naslov u rezultatu pretrage.
+
+## Počnite u Search Console, ne u kalendaru objava
+
+Zvanični Google Search Console Performance izveštaj prikazuje klikove, impresije, CTR i prosečnu poziciju. Podatke možete grupisati po upitu, stranici, uređaju, zemlji i datumu. To je dovoljno da napravite prvu listu kandidata za osvežavanje.
+
+Otvorite period od najmanje nekoliko meseci i uporedite ga sa prethodnim uporedivim periodom. Za sezonsku temu poređenje sa prethodnih 28 dana može da zavara, pa proverite isti deo prošle godine ako imate podatke. Zatim izvezite stranice i za svaku važnu URL adresu otvorite karticu Queries.
+
+Praktičan pregled treba da sadrži:
+
+- URL i glavnu temu;
+- klikove i impresije u oba perioda;
+- promenu CTR-a i prosečne pozicije;
+- upite koji su najviše dobili ili izgubili;
+- poslednji datum stvarne sadržajne izmene;
+- najvažniji interni cilj, na primer usluga, cenovnik ili kontakt.
+
+Ako tek postavljate merenje, prvo prođite [Google Search Console vodič](/blog/google-search-console-vodic-za-pocetnike-srbija-2026). Bez podataka se lista za osvežavanje lako pretvori u biranje članaka po starosti.
+
+## Šta treba osvežiti prvo
+
+Nije svaki stari članak jednako vredan. Prioritet imaju stranice koje već imaju vidljivost i poslovnu vezu sa ponudom.
+
+Dobar kandidat obično ima jednu ili više ovih osobina:
+
+- i dalje dobija dosta impresija za komercijalno relevantne upite;
+- nalazi se blizu prve strane ili pri dnu prve strane, ali je izgubio deo pozicija;
+- vodi ka usluzi sa jasnom vrednošću za firmu;
+- sadrži zastarele cene, korake, screenshotove, pravila ili linkove;
+- dobija upite za podtemu koju tekst jedva objašnjava;
+- deli skoro isti search intent sa drugim člankom na sajtu.
+
+Članak sa malo poseta nije automatski loš. Možda odgovara na usko pitanje važnog kupca, podržava prodajni razgovor ili gradi internu vezu ka money stranici. Isto tako, članak sa mnogo poseta može biti slab poslovni prioritet ako privlači publiku koja nikada neće kupiti uslugu.
+
+Za pregled celog sajta koristite širu [SEO audit checklistu](/blog/seo-audit-sajta-checklist-srbija-2026). Osvežavanje teksta nema smisla ako je stranica slučajno noindex, canonical pokazuje drugde ili interni linkovi ne vode do nje.
+
+## Kada treba zadržati isti URL i proširiti članak
+
+Zadržite postojeći URL kada je glavna namera pretrage ista, stranica već ima linkove ili istoriju, a problem je u kvalitetu i tačnosti sadržaja.
+
+Tada osvežavanje može da uključi:
+
+1. proveru da li naslov i H1 jasno odgovaraju stvarnim upitima;
+2. novi uvod koji odmah rešava problem umesto da prepričava temu;
+3. dopunu delova koje korisnici traže, a članak ih preskače;
+4. zamenu zastarelih podataka, izvora, slika i primera;
+5. dodavanje jasnih internih linkova ka povezanim vodičima i usluzi;
+6. uklanjanje pasusa koji samo ponavljaju istu tvrdnju;
+7. proveru CTA-a i sledećeg komercijalnog koraka.
+
+Google u smernicama za [koristan sadržaj namenjen ljudima](https://developers.google.com/search/docs/fundamentals/creating-helpful-content) predlaže proveru originalnosti, potpunosti, tačnosti, izvora i stvarne dodatne vrednosti u odnosu na druge rezultate. To je bolja kontrolna lista od pitanja da li ste dodali još 500 reči.
+
+Ako je članak i dalje najbolja adresa za temu, ne pravite novi URL samo zato što je godina u starom naslovu. Sačuvajte adresu, uredite sadržaj i dosledno ažurirajte podatke o izmeni.
+
+## Kada dva članka treba spojiti
+
+Dva slaba članka često nisu bolja od jednog jasnog. Ako dve URL adrese odgovaraju na isti upit, obe mogu da menjaju pozicije, dele interne linkove i šalju nejasan signal o tome koja je glavna.
+
+Spajanje ima smisla kada:
+
+- naslovi obećavaju gotovo isti odgovor;
+- iste grupe upita prikazuju obe stranice;
+- nijedan tekst nema jasnu posebnu nameru;
+- jedan članak ima bolji sadržaj, a drugi jače linkove ili istoriju;
+- korisnik bi dobio potpuniji odgovor na jednoj adresi.
+
+Izaberite primarni URL na osnovu relevantnosti, postojećeg učinka, linkova i uklapanja u strukturu sajta. Prenesite korisne delove, uklonite dupliranje i postavite trajno preusmerenje sa ugašene adrese. Zatim promenite interne linkove da vode direktno na primarni članak, umesto kroz redirect.
+
+Nemojte spajati tekstove samo zato što oba pominju SEO. Članak o tehničkom auditu i članak o ceni SEO usluge mogu da podržavaju isti poslovni klaster, ali ne rešavaju isti zadatak čitaoca.
+
+## Kada članak treba ostaviti na miru, ukloniti ili izbaciti iz indeksa
+
+Ako stranica i dalje tačno odgovara na konkretno pitanje, dobija relevantne posete i nema bolju zamenu, star datum sam po sebi nije razlog za intervenciju. Bespotrebna velika izmena može da ukloni deo zbog kojeg je stranica rangirala.
+
+Uklanjanje razmotrite kada je sadržaj netačan, usluga više ne postoji, stranica nema jedinstvenu vrednost i nema smislen URL na koji bi bila spojena. Ako postoji jasna zamena, koristite preusmerenje. Ako zamene nema i sadržaj je trajno uklonjen, server treba da vrati odgovarajući status, ne generičnu početnu stranu.
+
+Noindex je koristan za stranice koje imaju ulogu za korisnika, ali nisu namenjene pretrazi. Nije kanta za svaki članak sa malim brojem klikova. Pre odluke proverite interne linkove, spoljne linkove i upite, jer URL koji izgleda bezvredno u analitici možda i dalje nosi SEO signal ili pomaže konverziji.
+
+## Novi datum bez stvarne izmene je loša prečica
+
+Google objašnjava da datum prikazan uz rezultat može da proceni iz više signala. Preporuka je da vidljiv datum na stranici bude usklađen sa strukturiranim podacima i da datum izmene opisuje stvarnu, značajnu izmenu stranice.
+
+To znači da promena "2024" u "2026" bez nove analize, tačnih podataka i korisnog doprinosa nije content refresh. Posetilac brzo vidi da primeri, linkovi i preporuke pripadaju staroj verziji teksta.
+
+Posle ozbiljne izmene prikažite jasan datum ažuriranja i uskladite ga sa \`dateModified\` vrednošću u Article ili BlogPosting schema podacima. Detalji su u Google smernicama za [datum objave i izmene](https://developers.google.com/search/docs/appearance/publication-dates).
+
+## Primer prioriteta za mali SEO backlog
+
+Zamislite da firma ima 80 članaka i može kvalitetno da obradi četiri mesečno. Nema smisla početi od četiri najstarija.
+
+Prvi kandidat ima 12.000 mesečnih impresija, prosečnu poziciju 9,4 i vodi na važnu uslugu, ali je pao sa 1.100 na 620 klikova. Drugi ima 90 klikova, ali pokriva temu usluge koja više ne postoji. Treći nema veliki pad, ali se preklapa sa jačim člankom. Četvrti je star pet godina, stabilan je i tačan.
+
+Razumna odluka je:
+
+- prvi članak detaljno osvežiti;
+- drugi ukloniti ili preusmeriti ako postoji stvarna zamena;
+- treći spojiti sa jačim URL-om;
+- četvrti proveriti i ostaviti ako nema sadržajni problem.
+
+Brojevi su ilustracija, ne benchmark. Poenta je da starost nije glavni kriterijum. Poslovna vrednost, dokazani upiti i vrsta problema određuju redosled.
+
+## Kako meriti rezultat posle osvežavanja
+
+Zapišite datum promene, šta je menjano i koje upite pratite. Bez beleške će sledeći pregled pokušavati da pogodi da li je rast došao posle osvežavanja, sezonske potražnje ili neke druge promene na sajtu.
+
+Posle objave proverite:
+
+- da je stranica dostupna i indexable;
+- da canonical ostaje na željenom URL-u;
+- da su title, H1, datum i schema dosledni;
+- da interni linkovi i CTA rade;
+- da sitemap sadrži ispravnu adresu;
+- da Search Console vidi novu verziju stranice.
+
+Za nekoliko važnih URL-ova možete preko URL Inspection alata zatražiti ponovno indeksiranje. Google navodi da se za veći broj promenjenih URL-ova koristi sitemap, ali nijedna metoda ne garantuje trenutno indeksiranje. Zvanični postupak je opisan u vodiču za [ponovno crawl-ovanje URL adresa](https://developers.google.com/search/docs/crawling-indexing/ask-google-to-recrawl).
+
+Ne ocenjujte rezultat sledećeg jutra. Pratite iste upite, klikove, impresije, CTR i poziciju kroz uporediv period. Uz to merite poslovni ishod: prelazak na stranicu usluge, kvalitetan kontakt ili drugi cilj zbog kojeg članak postoji.
+
+## Osvežavanje mora da ima mesto u content planu
+
+Ako se plan sadržaja svodi na broj novih objava, arhiva će pre ili kasnije postati teret. Odvojite deo mesečnog kapaciteta za analizu, osvežavanje, spajanje i uklanjanje. Tačan odnos zavisi od veličine sajta i brzine kojom se tema menja.
+
+Novi članak ima smisla kada postoji nova namera pretrage. Stari URL treba urediti kada isti čitalac i dalje traži isti odgovor, ali je postojeća stranica oslabila ili zastarela. Ta podela sprečava da sajt objavi pet verzija istog vodiča.
+
+Za postavljanje novih tema pogledajte [content marketing plan](/blog/content-marketing-plan-za-male-firme-srbija-2026), a za očekivanja oko brzine organskog rasta pročitajte [koliko vremena treba za SEO rezultate](/blog/koliko-vremena-treba-za-seo-rezultate-po-konkurentnosti-2026).
+
+Ako želite da od postojećeg bloga napravimo prioritetnu SEO listu, pošaljite kroz [kontakt formu](/kontakt) domen, pristup Search Console podacima i najvažnije usluge. Dobićete odluku po URL-u: zadržati, osvežiti, spojiti ili ukloniti, uz redosled vezan za realnu poslovnu vrednost. Cene i obim rada možete proveriti na stranici [SEO optimizacija cena](/seo-optimizacija-cena).
+`,
+  },
+  {
     slug: 'instagram-dm-woocommerce-zalihe-niwa-ai-manychat-2026',
     title: 'Instagram DM za WooCommerce zalihe: Niwa AI ili ManyChat za tačan odgovor?',
     excerpt: 'Instagram DM pitanje o zalihama traži više od auto-odgovora. Uporedite Niwa AI i ManyChat kada kupac pita za WooCommerce varijaciju i kupovinu.',
