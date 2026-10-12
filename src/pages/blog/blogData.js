@@ -1,5 +1,178 @@
 const rawBlogPosts = [
   {
+    slug: 'instagram-story-reply-woocommerce-niwa-ai-manychat-2026',
+    title: 'Instagram Story reply za WooCommerce: Niwa AI ili ManyChat od reakcije do kupovine?',
+    excerpt: 'Instagram Story odgovor može da pokrene prodajni razgovor. Uporedite Niwa AI i ManyChat kada WooCommerce kupac traži proizvod, varijaciju i link.',
+    date: '2026-10-12',
+    readTime: '10 min read',
+    category: 'E-Commerce',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Niwa AI', 'ManyChat', 'Instagram Story', 'WooCommerce', 'Instagram DM', 'Konverzije'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+Kupac odgovori na Instagram Story sa: "Da li je ova jakna vodootporna i imate li M?" To više nije obična reakcija. To je prodajno pitanje koje traži tačan proizvod, podatak iz kataloga i jasan put do kupovine.
+
+Tu se Niwa AI i ManyChat razdvajaju. ManyChat ima odličan native Story Reply trigger i lakše pretvara reakciju u unapred složen flow. Niwa preuzima prednost kada odgovor mora da koristi WordPress sadržaj, WooCommerce proizvod i ono što se posle klika stvarno dogodi na sajtu.
+
+Pobeda ne pripada alatu koji pošalje najviše DM poruka. Pripada postavci koja zna zašto je čovek odgovorio, vodi ga na pravi proizvod i meri kupovinu umesto aplauza na engagement.
+
+## Story reakcija nije isto što i kupovna namera
+
+Srce, vatra ili "top" mogu da znače da se nekome dopada objava. Ne govore koju veličinu traži, da li mu odgovara materijal, koliko želi da potroši niti da li je spreman da kupi.
+
+Tekstualni odgovor nosi više namere:
+
+- "Imate li M?"
+- "Da li može po kiši?"
+- "Koja je razlika između ova dva modela?"
+- "Stiže li do petka?"
+- "Pošaljite mi link za crnu."
+
+Dobar sistem zato ne gura svaku reakciju kroz isti prodajni odgovor. Lagana reakcija može da dobije kratko priznanje ili jedno pitanje. Konkretan upit treba da aktivira proizvodni odgovor. Nejasan ili osetljiv slučaj treba da završi kod čoveka.
+
+To je prva kontrola kvaliteta. Ako se svaki emoji tretira kao vruć lead, izveštaj raste, a prodaja ne mora da se pomeri ni milimetar.
+
+## Gde je ManyChat stvarno jak
+
+ManyChat je napravljen za social-first automatizaciju i to se vidi na Instagram Story Reply triggeru. Prema zvaničnoj [ManyChat dokumentaciji](https://help.manychat.com/hc/en-us/articles/13556930006428-Instagram-Story-Reply-Trigger), automatizacija može da reaguje na sve Story objave ili na jednu izabranu aktivnu objavu. Trigger može da prihvati svaku poruku ili reakciju, ili samo određene reči i reakcije.
+
+Posle toga Flow Builder može da pošalje DM, dugme, quick reply ili link. ManyChat navodi da odgovor mora da ostane u dozvoljenom 24-časovnom prozoru. Njegov [Quick Automation za Story odgovore](https://help.manychat.com/hc/en-us/articles/17988327505180-Quick-Automation-Generate-leads-with-stories) može da doda prikupljanje emaila, zahtev da korisnik prati nalog, link i naknadnu poruku.
+
+Za kreatora ili brend koji svakodnevno objavljuje mnogo Story sadržaja, želi odvojene triggere po objavi i meri sent, delivered, read, clicked i prikupljene email adrese, ManyChat je veoma praktičan. Flow se vidi, koraci se lako menjaju, a social tim ne mora da ulazi u WordPress.
+
+To nije mala prednost. Ako je glavni posao "reakcija na Story treba odmah da uđe u dobro definisanu DM sekvencu", ManyChat je prirodniji alat.
+
+## Gde počinje problem za WooCommerce prodavnicu
+
+Story prikazuje maslinastu jaknu. Kupac pita da li je vodootporna i da li postoji veličina M. Statičan odgovor može da pošalje link, ali mora unapred da zna:
+
+- koji je tačno proizvod prikazan;
+- gde se čuva podatak o materijalu i nameni;
+- da li je M stvarna varijacija tog modela;
+- da li je ta varijacija dostupna;
+- šta ponuditi ako tražena opcija ne postoji;
+- koju landing ili product stranu poslati;
+- kako zabeležiti posetu, korpu, checkout i porudžbinu.
+
+ManyChat može da dobije spoljne podatke. Njegov [External Request](https://help.manychat.com/hc/en-us/articles/14281285374364-Dev-Tools-External-request) podržava HTTPS GET, POST, PUT i DELETE zahteve i mapiranje odgovora u custom polja. Zato bi bilo netačno reći da ManyChat ne može da razgovara sa WooCommerce-om.
+
+Može. Ali neko mora da napravi endpoint ili integracioni sloj, izabere prava polja, zaštiti pristup, obradi timeout i prazan rezultat, održi mapiranje kada se katalog promeni i spreči da stara vrednost završi u poruci.
+
+Kod ozbiljne prodavnice taj dodatni sloj nije detalj. To je deo sistema koji mora da radi svaki dan.
+
+## Zašto Niwa ima bolju polaznu tačku u WordPressu
+
+Niwa radi unutar WordPress i WooCommerce okruženja. Njeni Meta kanali prepoznaju incoming message, first message, story reply, postback, referral i Instagram komentar kao odvojene događaje. Flow se bira po značenju poruke u jeziku kupca, ne samo po unapred unetoj ključnoj reči.
+
+Odgovor koristi storefront znanje i javne read alate. To znači da customer-facing razgovor može da se osloni na objavljeni sadržaj sajta, proizvodni katalog i javne podatke proizvoda, bez administratorskog prava da menja cenu, zalihu ili porudžbinu.
+
+Za vlasnika WooCommerce prodavnice to menja prirodu odgovora. "Da li je ova jakna vodootporna?" ne mora da dobije frazu iz jednog statičnog DM bloka ako je osobina uredno upisana u opis ili atribut proizvoda. "Imate li M?" može da se proverava kao konkretan proizvodni uslov, uz jasnu razliku između tačnog rezultata i bliske alternative.
+
+Niwina prednost nije u tome što je Story trigger lepši. ManyChat je tu zreliji. Prednost je što prodajni odgovor stoji pored izvora istine, a ne na drugom kraju dodatne integracije.
+
+Šire poređenje nalazi se u vodiču [Niwa AI vs ManyChat za WordPress i WooCommerce](/blog/niwa-ai-vs-manychat-wordpress-woocommerce-2026). Za pitanja o veličini i stanju zaliha pogledajte i poseban scenario [Instagram DM za WooCommerce zalihe](/blog/instagram-dm-woocommerce-zalihe-niwa-ai-manychat-2026).
+
+## Niwa ne treba da nagađa šta je bilo na Story objavi
+
+Ovde postoji važna granica. Sama reakcija "🔥" ne sadrži proizvodni zahtev. Ako sistem nema pouzdano mapiran proizvod ili tekst koji identifikuje artikal, ne sme da izmisli šta je kupac gledao.
+
+Niwa prepoznaje Story reply kao događaj, ali odgovor i dalje mora da bude zasnovan na dostupnom tekstu, konfigurisanom flow kontekstu i proverljivim podacima sajta. Media-only zahtev ide na ljudski pregled umesto na izmišljeno tumačenje slike.
+
+Zato dobar setup radi jedno od sledećeg:
+
+1. Flow za konkretnu kampanju dobija jasan proizvod ili kategoriju u svojim instrukcijama.
+2. Prva poruka traži kratak izbor kada odgovor nije dovoljno određen.
+3. Kupac u odgovoru navodi model, boju, veličinu ili problem.
+4. Nejasna fotografija, glasovna poruka ili osetljiv zahtev ide čoveku.
+
+To nije slabost koju treba sakriti. To je zaštita od najskuplje vrste automatizacije: brzog, samouverenog i pogrešnog odgovora.
+
+## Kako izgleda dobar tok od Story odgovora do kupovine
+
+Zamislimo Story koji prikazuje novu vodootpornu jaknu. Kupac odgovara: "Da li je stvarno za kišu i imate li crnu M?"
+
+Dobar tok izgleda ovako:
+
+1. Instagram šalje Story reply događaj povezanom alatu.
+2. Sistem čita stvarni tekst i prepoznaje dva uslova: namenu za kišu i varijaciju crna M.
+3. Odgovor se oslanja na potvrđeni opis, atribute i dostupne opcije proizvoda. Ako nema dokaza da je jakna vodootporna, ne koristi tu tvrdnju.
+4. Ako crna M postoji, kupac dobija tačan product URL. Ako ne postoji, alternativa se jasno označava kao druga opcija.
+5. Link dobija dogovorene UTM oznake za Instagram, Story kampanju i proizvod.
+6. Na sajtu se mere product view, dodavanje u korpu, početak checkouta i porudžbina kada se zaista dogode.
+7. Ako kupac traži osobu ili pitanje prelazi dozvoljeni scope, automatizacija se pauzira i razgovor ide na handoff.
+
+Niwa Meta odgovor je plain text sa stvarnim product ili page URL-om. Ne treba da tvrdi da je otvorio WooCommerce korpu unutar Instagrama. Izbor varijacije, dodavanje u korpu i checkout pripadaju sajtu.
+
+To čuva jasnu podelu: Instagram rešava pitanje i vodi kupca dalje, a WooCommerce obavlja kupovinu.
+
+## Kako meriti rezultat bez izmišljene cross-channel veze
+
+Najjednostavniji link može da nosi oznake kao:
+
+\`?utm_source=instagram&utm_medium=organic_social&utm_campaign=story-jesenja-jakna&utm_content=reply-crna-m\`
+
+Niwa Site Analytics na sajtu može da zabeleži source, medium, campaign, landing stranu i događaje browser sesije. Podržani događaji uključuju product view, add to cart, begin checkout, lead, chat i order. WooCommerce porudžbina može da sačuva raspoloživi attribution kontekst i prihod koji se ažurira kada se porudžbina refundira ili otkaže.
+
+To nije automatski dokaz da su Instagram profil, browser sesija i WooCommerce kupac ista osoba. UTM oznake pripisuju posetu kampanji. Drugi uređaj, prosleđen link, blokiran JavaScript ili obrisani cookie mogu da prekinu trag.
+
+ManyChat takođe ima ozbiljne website mogućnosti. [ManyChat Pixel](https://help.manychat.com/hc/en-us/articles/14281244168476-Manychat-Pixel) dodaje \`mcp_token\` na odgovarajući website button i može da beleži conversion i money events tokom sačuvane sesije. Njegov [CAPI setup](https://help.manychat.com/hc/en-us/articles/14580897414300-Conversions-API-CAPI-integration) šalje podržane messaging conversion događaje Meta sistemu kada su connection, dataset, token i consent pravilno podešeni.
+
+Pošteno poređenje zato nije "Niwa meri, ManyChat ne meri". Pitanje je gde su događaji implementirani, koliko pouzdano ulaze u WooCommerce ishod i koliko održavanja traži ceo lanac.
+
+## Koje metrike vrede više od broja reakcija
+
+Za Story prodajni tok pratite odvojeno:
+
+- broj reakcija i tekstualnih odgovora;
+- broj razgovora koji su dobili relevantan product link;
+- broj handoff slučajeva i razlog prosleđivanja;
+- posete sa doslednim UTM oznakama;
+- product view i add to cart za preporučeni artikal;
+- begin checkout i završene porudžbine;
+- zadržani prihod posle otkazivanja i refunda;
+- greške u mapiranju proizvoda ili nevažeće linkove.
+
+Ako raste broj read poruka, ali ljudi ne klikću, problem je u odgovoru, ponudi ili linku. Ako kliknu i odmah odu, Story obećava jedno, a product strana pokazuje drugo. Ako dodaju u korpu, ali ne započinju checkout, pregledajte cenu dostave, rok, metode plaćanja i trenje na sajtu.
+
+Tada vam ne treba još jedan DM korak. Treba vam [CRO analiza prodavnice](/cro) i tačno [praćenje konverzija](/blog/pracenje-konverzija-lead-generation-srbija-2026).
+
+## Šta testirati pre uključivanja automatizacije
+
+Pre pravog saobraćaja testirajte najmanje sledeće:
+
+- reakciju bez teksta;
+- pitanje sa jasnim nazivom proizvoda;
+- pitanje koje pominje samo boju i veličinu;
+- proizvod koji je obrisan ili više nije objavljen;
+- dostupnu i rasprodatu varijaciju;
+- tvrdnju o osobini koja ne postoji u katalogu;
+- product link otvoren na drugom uređaju;
+- zahtev za čoveka;
+- poruku sa prilogom bez korisnog teksta;
+- isteklu dozvolu ili zatvoren reply prozor;
+- jednu test porudžbinu i njeno otkazivanje ili refund.
+
+Proverite i conversation routing. Dva povezana alata ne smeju da odgovore na isti Story reply. Ako prelazite sa postojećeg setupa, koristite kontrolisan plan iz vodiča [ManyChat alternativa za WooCommerce](/blog/manychat-alternativa-woocommerce-niwa-ai-migracija-2026).
+
+Dostupnost Meta funkcija zavisi od profesionalnog Instagram naloga, odobrenih permissions, statusa aplikacije i pravilno povezanog accounta. Uspeli test sa nalogom koji ima app rolu nije dokaz da je javni onboarding spreman za svakog klijenta.
+
+## Kada izabrati ManyChat, a kada Niwu
+
+Izaberite ManyChat kada vam je centar posla Instagram automatizacija: mnogo Story objava, posebni triggeri po aktivnoj objavi, keyword i reaction pravila, email collection, follow zahtev, duže social sekvence i timski rad u Inboxu. Ako već imate stabilnu WooCommerce integraciju i Pixel događaje, nema razloga da rušite sistem koji donosi prodaju.
+
+Izaberite Niwu kada WordPress i WooCommerce nose poslovni kontekst: proizvode, varijacije, sadržaj, prodajna pravila, website ponašanje i porudžbine. Tada Story odgovor nije izolovan flow. To je ulaz u prodajni put koji nastavlja da živi na vašem sajtu.
+
+Za WordPress vlasnika kome kupci preko Instagrama postavljaju konkretna pitanja o proizvodima, Niwa je bolji izbor. Ne zato što će poslati lepše srce na reakciju, već zato što ume da koristi sajt kao izvor odgovora i da poveže naredni website korak sa WooCommerce ishodom, bez pretvaranja UTM oznake u lažni dokaz identiteta.
+
+[Niwa WooCommerce AI sales agent](https://niwachat.com/woocommerce-ai-sales-agent/) ima najviše smisla kada katalog već sadrži tačne nazive, opise, atribute, varijacije i linkove. AI ne može da popravi prodavnicu koja sama sebi protivreči.
+
+Ako želite da testiramo jedan Story scenario od odgovora do porudžbine, pošaljite kroz [kontakt formu](/kontakt) Story koncept, proizvod, očekivana pitanja i kriterijum uspeha. Proverićemo trigger, odgovor, product mapping, handoff, UTM trag i WooCommerce ishod pre nego što flow dobije veći [marketing budžet](/cene-digitalnog-marketinga).
+`,
+  },
+  {
     slug: 'osvezavanje-starih-blog-clanaka-seo-srbija-2026',
     title: 'Osvežavanje starih blog članaka za SEO 2026: šta menjati, spojiti ili obrisati',
     excerpt: 'Stari SEO članci ne traže automatski novi datum. Saznajte kako da kroz Search Console odlučite šta treba osvežiti, spojiti ili ukloniti.',

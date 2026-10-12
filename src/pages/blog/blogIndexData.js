@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "instagram-story-reply-woocommerce-niwa-ai-manychat-2026",
+    "title": "Instagram Story reply za WooCommerce: Niwa AI ili ManyChat od reakcije do kupovine?",
+    "excerpt": "Instagram Story odgovor može da pokrene prodajni razgovor. Uporedite Niwa AI i ManyChat kada WooCommerce kupac traži proizvod, varijaciju i link.",
+    "date": "2026-10-12",
+    "category": "E-Commerce",
+    "readTime": "10 min read",
+    "isDraft": false
+  },
+  {
     "slug": "osvezavanje-starih-blog-clanaka-seo-srbija-2026",
     "title": "Osvežavanje starih blog članaka za SEO 2026: šta menjati, spojiti ili obrisati",
     "excerpt": "Stari SEO članci ne traže automatski novi datum. Saznajte kako da kroz Search Console odlučite šta treba osvežiti, spojiti ili ukloniti.",
