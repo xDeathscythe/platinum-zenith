@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-tende-i-pergole-cena-upita-srbija-2026",
+    "title": "Google Ads za tende i pergole u Srbiji 2026: cena upita i budžet",
+    "excerpt": "Google Ads za tende i pergole mora da prati merenje, ponudu, avans i montažu. Saznajte kako da odredite cenu upita, zone i budžet.",
+    "date": "2026-10-13",
+    "category": "Google Ads",
+    "readTime": "11 min read",
+    "isDraft": false
+  },
+  {
     "slug": "instagram-story-reply-woocommerce-niwa-ai-manychat-2026",
     "title": "Instagram Story reply za WooCommerce: Niwa AI ili ManyChat od reakcije do kupovine?",
     "excerpt": "Instagram Story odgovor može da pokrene prodajni razgovor. Uporedite Niwa AI i ManyChat kada WooCommerce kupac traži proizvod, varijaciju i link.",

@@ -1,5 +1,191 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-tende-i-pergole-cena-upita-srbija-2026',
+    title: 'Google Ads za tende i pergole u Srbiji 2026: cena upita i budžet',
+    excerpt: 'Google Ads za tende i pergole mora da prati merenje, ponudu, avans i montažu. Saznajte kako da odredite cenu upita, zone i budžet.',
+    date: '2026-10-13',
+    readTime: '11 min read',
+    category: 'Google Ads',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Tende', 'Pergole', 'Cena upita', 'Marketing budžet', 'Lokalne usluge'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Upit za pergolu nije posao dok neko ne izađe na merenje
+
+Pretraga "pergola cena" može da dođe od vlasnika restorana koji želi natkrivenu baštu, porodice koja planira terasu ili osobe koja traži gotovu tendu za balkon. Svi mogu da kliknu isti oglas. Njihov budžet, rok, dimenzije i verovatnoća kupovine nemaju mnogo zajedničkog.
+
+Zato Google Ads za tende i pergole ne treba meriti brojem poziva. Kampanja vredi kada dovede upit iz servisne zone, sa dovoljno podataka za procenu, zatim zakazano merenje, poslatu ponudu, avans i prihvaćen projekat.
+
+Ako firma optimizuje samo prema formi ili pozivu, Google dobija signal da traži još lakih kontakata. Ne zna da li je kupac tražio bioklimatsku pergolu, zamensko platno, popravku mehanizma ili proizvod koji firma uopšte ne ugrađuje.
+
+## Razdvojite tende, pergole i servisne upite
+
+Jedna kampanja sa svim pojmovima često pomeša projekte različite vrednosti i različitog prodajnog procesa. Početna struktura može da odvoji:
+
+- zglobne i kasetne tende za terase i lokale;
+- pergole za kuće, restorane i poslovne objekte;
+- bioklimatske pergole, samo ako su stvarno u ponudi;
+- nadstrešnice i druge sisteme koje firma izrađuje ili ugrađuje;
+- zamenu platna, motora, senzora ili mehanizma;
+- servis postojećih sistema;
+- B2B projekte za ugostiteljstvo, hotele i veće objekte.
+
+Kupac koji traži popravku tende ne treba da troši budžet kampanje za novu pergolu. Vlasnik restorana sa terasom od 80 kvadrata ne treba da dobije istu landing stranu kao kupac za mali balkon. Odvojene grupe oglasa čuvaju poruku, budžet i prodajni kriterijum.
+
+Ako firma radi samo aluminijumske sisteme, to treba reći odmah. Ako ne radi drvene nadstrešnice, prodaju gotovih modela ili montažu tuđe opreme, i to treba da bude jasno pre poziva.
+
+## Servisna zona određuje da li upit ima ekonomsku vrednost
+
+Merenje, transport i montaža vezani su za lokaciju. Upit iz udaljenog grada može da izgleda jeftino u Google Ads izveštaju, a da ga kilometri, putarine i izgubljen radni dan pretvore u loš posao.
+
+Napravite mapu sa četiri kategorije:
+
+- osnovna zona u kojoj ekipa redovno meri i montira;
+- šira zona za projekte iznad dogovorenog praga;
+- mesta koja se obilaze samo određenim danima;
+- teritorija koju firma ne pokriva.
+
+Google navodi da [location targeting](https://support.google.com/google-ads/answer/1722043) može da koristi države, oblasti, gradove i radius oko lokacije. Navodi i da geografski signali nisu 100% precizni. Zato postavka kampanje nije dovoljna. Grad ili opština moraju da se potvrde i u formi ili prvom razgovoru.
+
+Proverite i advanced location options. Podrazumevana postavka može da uključi ljude koji se nalaze u ciljanoj oblasti ili su pokazali interesovanje za nju. Za firmu koja izlazi samo na konkretan teren, opcija zasnovana na stvarnom prisustvu često je bolja početna kontrola, ali odluku proverite na realnim search terms i rezultatima po lokaciji.
+
+Za šire planiranje pogledajte kako [marketing budžet po gradovima](/blog/marketing-budzet-po-gradovima-lead-generation-srbija-2026) menja prihvatljiv CPL i kapacitet terenskog tima.
+
+## Dobar upit sadrži podatke za procenu i merenje
+
+Ime i telefon nisu dovoljni za pergolu po meri. Prodaji trebaju podaci koji menjaju tehničko rešenje, cenu i odluku o izlasku na teren.
+
+Kratka forma može da traži:
+
+- grad, naselje i tip objekta;
+- da li je projekat za kuću, stan, restoran, hotel ili drugi poslovni prostor;
+- željenu vrstu sistema, ako je kupac zna;
+- približnu širinu, dubinu i visinu;
+- fotografije mesta montaže;
+- postojeću podlogu, zid ili konstrukciju;
+- potrebu za motorom, senzorima, rasvetom, bočnim zatvaranjem ili odvodnjavanjem;
+- željeni rok;
+- okvir ulaganja, kada ponuda ima veliki raspon;
+- da li kupac želi samo cenu ili je spreman za merenje.
+
+Ne pretvarajte formu u tehnički elaborat. Kupac ne mora da zna naziv profila ili nosivost konstrukcije. Treba da dostavi dovoljno konteksta da firma odluči da li upit pripada ponudi i koji je sledeći korak.
+
+Praktičan model za takvu formu nalazi se u vodiču za [kvalifikaciju leadova](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026). Kod ovog tržišta upload fotografije često vredi više od još pet tekstualnih polja.
+
+## Negativne ključne reči uklanjaju kupce opreme i uradi sam saobraćaj
+
+"Tenda" i "pergola" nisu samo termini za izradu i montažu. Ljudi traže gotove modele, rezervne delove, polovne konstrukcije, platno na metar, nacrte, posao i video uputstva.
+
+Početna lista negativnih pojmova često obuhvata:
+
+- posao, plata, konkurs, obuka i praksa;
+- polovno, oglas, prodajem i kupujem, ako firma ne prodaje polovnu opremu;
+- uradi sam, nacrt, šema, projekat za samogradnju i YouTube;
+- platno na metar, šrafovi, profili i pojedinačni delovi;
+- besplatno, poklon i download;
+- male baštenske pergole iz maloprodaje, ako firma radi samo sisteme po meri;
+- gradove izvan servisne zone;
+- materijale i tipove konstrukcija koje firma ne nudi.
+
+Google u [objašnjenju negativnih ključnih reči](https://support.google.com/google-ads/answer/2453972) upozorava da previše negativnih pojmova može da smanji domet i da negativne reči ne pokrivaju close variants na isti način kao pozitivne. Lista zato mora da raste iz stvarnog search terms izveštaja, ne iz nervoznog blokiranja svake neobične pretrage.
+
+Fraza "motor za tendu" može biti prodaja dela koju ne želite. "Zamena motora za tendu" može biti profitabilan servisni upit. Jedna reč ne govori celu nameru.
+
+## Landing strana mora da pokaže šta firma stvarno isporučuje
+
+Galerija lepih terasa nije dovoljna. Kupac mora brzo da razume da li firma radi njegov tip projekta, na kojoj teritoriji i šta se dešava posle slanja upita.
+
+Strana treba da pokaže:
+
+- jasnu razliku između tende, pergole i servisne usluge;
+- stvarne fotografije izvedenih projekata sa kratkim opisom problema i rešenja;
+- dostupne materijale, upravljanje i dodatke bez nabrajanja nepostojećih opcija;
+- servisnu zonu;
+- način formiranja cene i šta je menja;
+- korake od fotografija i prve procene do merenja, ponude, avansa i montaže;
+- očekivani rok za odgovor i ko preuzima upit;
+- jednu glavnu akciju, na primer "Pošaljite dimenzije i fotografije".
+
+Ako konačna cena zavisi od merenja, nemojte izmišljati fiksnu cifru. Objavite početni raspon za jasno definisane primere ili objasnite koje stavke menjaju ponudu. Kupac tada može da proceni fit pre nego što prodaja potroši pola sata na razgovor.
+
+Sličan problem postoji kod [roletni i komarnika](/blog/google-ads-za-roletne-i-komarnike-cena-upita-srbija-2026): nejasna dimenzija i tip sistema pretvaraju kontakt u nagađanje. Kod pergole je cena greške još veća jer projekat uključuje merenje, transport, montažu i često više ljudi.
+
+## Koliko sme da košta kvalifikovan upit
+
+Ne postoji jedna bezbedna cena upita za sve firme. Limit se računa iz doprinosa projekta, troška prodaje, stope prihvaćenih ponuda i kapaciteta montaže.
+
+Uzmimo namerno pojednostavljen interni primer, ne tržišni benchmark. Projekat se naplaćuje 350.000 dinara. Posle materijala, proizvodnje, transporta i montaže ostaje 120.000 dinara doprinosa pre marketinga, prodaje, fiksnih troškova i profita.
+
+Firma odluči da maksimalni trošak akvizicije kupca bude 30.000 dinara. Ako svaki četvrti kvalifikovan upit postane naplaćen projekat, maksimalna cena kvalifikovanog upita je 7.500 dinara.
+
+\`Maksimalni CPL = maksimalni CAC × stopa zatvaranja\`
+
+\`30.000 RSD × 25% = 7.500 RSD\`
+
+Nekvalifikovana forma ne sme da dobije istu vrednost. Ako od 20 formi samo osam ispuni osnovne uslove, a dve postanu kupci, računajte trošak prema osam kvalifikovanih prilika i dve naplaćene prodaje. Broj svih formi samo ulepšava izveštaj.
+
+Za precizniji limit povežite ovu računicu sa [bruto maržom](/blog/bruto-marza-marketing-budzet-roi-srbija-2026), provizijom prodaje, troškom merenja bez kupovine i popravkama posle montaže.
+
+## Sezona ne počinje kada stigne prvi talas poziva
+
+Potražnja za tendama i pergolama raste kada ljudi počnu da uređuju terase i otvaraju bašte. Ali prodaja i proizvodnja imaju duži put: istraživanje, fotografije, merenje, izbor sistema, ponuda, odluka, avans, nabavka, izrada i montaža.
+
+Ako firma pokrene kampanju tek kada želi pun raspored montaže, zakasnila je. Kampanja treba da kupi prve kvalitetne upite pre špica, dok tim još može da testira poruku, formu i proceduru merenja.
+
+U sezoni budžet mora da prati slobodne termine. Kada je montaža puna šest nedelja unapred, veći broj leadova može samo da poveća kašnjenje i otkazivanje. Tada ograničite zone, istaknite realan rok i prebacite deo budžeta na projekte koji odgovaraju narednom slobodnom periodu.
+
+Vodič za [sezonski marketing budžet](/blog/sezonski-marketing-budzet-lead-generation-srbija-2026) pomaže da odvojite pripremu, test, špic i period posle glavne potražnje.
+
+## Konverzija nije poziv, već potvrđen prodajni ishod
+
+Google Ads može da prati pozive iz oglasa i sa sajta. U [zvaničnoj dokumentaciji](https://support.google.com/google-ads/answer/6100664) Google razlikuje pozive iz oglasa, pozive na broj sa sajta, klik na broj na mobilnom sajtu i uvoz ishoda poziva iz drugog sistema.
+
+Trajanje poziva je koristan filter, ali nije dokaz kvaliteta. Dugačak razgovor o pergoli u gradu koji firma ne pokriva nema prodajnu vrednost. Kratak poziv vlasnika restorana koji potvrdi termin merenja može da bude ozbiljna prilika.
+
+Zato u CRM-u ili tabeli vodite statuse:
+
+- pogrešna usluga ili lokacija;
+- nedostaju dimenzije ili fotografije;
+- kvalifikovan upit;
+- procena data;
+- merenje zakazano i održano;
+- ponuda poslata;
+- odluka na čekanju sa razlogom;
+- ponuda prihvaćena;
+- avans naplaćen;
+- projekat montiran;
+- posao izgubljen sa razlogom.
+
+Tek tada [praćenje konverzija](/blog/pracenje-konverzija-lead-generation-srbija-2026) može da razlikuje lak kontakt od projekta koji firma želi da ponovi. Ako svaki poziv šaljete kao isti primary signal, kampanja uči da proizvodi pozive. Ne uči da proizvodi profitabilne montaže.
+
+## Nedeljni pregled spaja oglase, prodaju i proizvodnju
+
+Jednom nedeljno spojite search terms, lokaciju, formu, prodajne statuse i raspored montaže. Pregled treba da odgovori na nekoliko neprijatnih pitanja:
+
+- Koje pretrage dovode kupce gotovih ili polovnih proizvoda?
+- Iz kojih mesta dolaze upiti koje ekipa odbija?
+- Koja grupa proizvodi merenja, a koja samo pitanja o ceni?
+- Koliko merenja dobije ponudu?
+- Koliko ponuda dobije avans?
+- Koji projekti imaju dobar prihod, ali slab doprinos posle transporta i montaže?
+- Koliko leadova čeka odgovor duže nego što je obećano?
+- Da li kampanja puni termine koje proizvodnja stvarno može da isporuči?
+
+Jeftin CPL nije pobeda ako prodaja obilazi objekte koji nikada neće kupiti. Skup upit nije problem ako dosledno postaje projekat sa zdravom maržom i uklapa se u slobodan kapacitet.
+
+## Dobra kampanja prodaje sledeći merljiv korak
+
+Google Ads za tende i pergole radi kada oglas dovede pravi projekat, landing strana prikupi podatke, prodaja zakaže merenje, ponuda dobije jasan rok i CRM vrati stvarni ishod kampanji.
+
+Počnite sa jednom servisnom zonom i dve ili tri usluge koje firma najlakše procenjuje i isporučuje. Napišite šta kvalifikuje upit, ko odgovara, kada se zakazuje merenje i koji status potvrđuje prodaju. Tek tada povećavajte [budžet za digitalni marketing](/cene-digitalnog-marketinga).
+
+Ako želite kampanju vezanu za merenja, ponude i naplaćene projekte, pošaljite kroz [kontakt formu](/kontakt) servisne zone, tipove sistema, prosečnu vrednost projekta, doprinos posle direktnih troškova i trenutnu stopu prihvaćenih ponuda. Napravićemo plan u kome budžet prati posao koji možete da proizvedete i montirate, a ne samo broj ljudi koji pitaju "koliko košta".
+`,
+  },
+  {
     slug: 'instagram-story-reply-woocommerce-niwa-ai-manychat-2026',
     title: 'Instagram Story reply za WooCommerce: Niwa AI ili ManyChat od reakcije do kupovine?',
     excerpt: 'Instagram Story odgovor može da pokrene prodajni razgovor. Uporedite Niwa AI i ManyChat kada WooCommerce kupac traži proizvod, varijaciju i link.',
