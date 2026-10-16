@@ -1,5 +1,132 @@
 const rawBlogPosts = [
   {
+    slug: 'instagram-dm-woocommerce-atribucija-porudzbina-niwa-ai-manychat-2026',
+    title: 'Koji Instagram DM je doneo porudžbinu? Niwa AI vs ManyChat za WooCommerce atribuciju',
+    excerpt: 'ManyChat meri klik iz razgovora, a Niwa AI WooCommerce porudžbinu, status i refund. Kako da povežete Instagram DM, UTM i prihod bez lažne atribucije.',
+    date: '2026-10-16',
+    readTime: '10 min read',
+    category: 'E-Commerce',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Niwa AI', 'ManyChat', 'WooCommerce', 'Atribucija', 'UTM', 'Instagram DM'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+Uzmimo prodavnicu obuće koja objavi Reel sa novim kožnim čizmama. Ispod se skupi četrdesetak komentara "cena?", u DM stigne još tridesetak pitanja o veličinama, a do kraja nedelje WooCommerce pokaže devet porudžbina tog modela. Vlasnik postavi logično pitanje: koliko je tih porudžbina doneo Instagram razgovor?
+
+Iskren odgovor glasi: zavisi od toga šta merite i gde. Razgovor živi na Meti. Porudžbina, status plaćanja i refund žive u WooCommerce-u. Alat koji vidi samo jednu stranu može da pokaže lep broj, ali ne može da kaže da li je kampanja zaradila.
+
+Tu je razlika između ManyChat-a i Niwa AI najkorisnija za vlasnika WordPress prodavnice. ManyChat dobro meri šta se dešava u razgovoru i posle klika na njegovo dugme. Niwa beleži ishod tamo gde se novac stvarno knjiži, na vašem WordPress sajtu, i ažurira ga kada se porudžbina otkaže ili refundira.
+
+## Dve istine koje se lako pomešaju
+
+Prva istina je razgovorna: koliko ljudi je pisalo, koliko je dobilo odgovor, koliko je otvorilo link. Druga je prodajna: koliko porudžbina je nastalo, sa kog izvora, koliko je ostalo plaćeno posle povraćaja.
+
+Problem nastaje kada se prva koristi kao dokaz za drugu. Klik iz DM-a nije kupovina. Ni porudžbina od nekoga ko je pre tri nedelje pisao u inbox nije automatski "porudžbina iz DM-a". Između tog razgovora i kupovine mogao je da se desi Google, newsletter ili direktan povratak na sajt.
+
+Zato pre izbora alata odredite koje pitanje želite da rešite. "Koliko razgovora vodi do klika?" je pitanje za social automatizaciju. "Koliko prihoda posle refunda dolazi sa Instagrama i koje kampanje?" je pitanje za prodavnicu.
+
+## Šta ManyChat meri posle klika
+
+ManyChat ima dva alata koja se ovde pominju najčešće.
+
+Prvi je [ManyChat Pixel](https://help.manychat.com/hc/en-us/articles/14281244168476-Manychat-Pixel). Kada kontakt klikne dugme sa opcijom Open website, ManyChat na link dodaje parametar \`mcp_token\` koji identifikuje tog kontakta. Ako je Pixel kod instaliran na sajtu, sesija ostaje sačuvana 28 dana, a vi na stranici zahvalnice ili na dugmetu pozivate conversion ili money event. Pixel je dostupan na plaćenim planovima.
+
+To je ozbiljna prednost na jednom mestu: ManyChat zna koji kontakt iz njegovog inboxa je otvorio sajt preko njegovog dugmeta. Niwa takvu vezu između Instagram profila i porudžbine ne pravi.
+
+Ograničenja su ipak praktična. Pixel kod morate sami da postavite i da mu prosledite iznos porudžbine. Dokumentacija opisuje dve funkcije, za conversion i money event, a ne poseban poziv za otkazivanje ili refund. Ako se porudžbina vrati posle pet dana, ManyChat izveštaj neće sam od sebe da umanji prihod.
+
+Drugi alat je [Conversions API integracija](https://help.manychat.com/hc/en-us/articles/14580897414300-Conversions-API-CAPI-integration). Ona šalje događaje kao što su LeadSubmitted, AddToCart, Purchase ili OrderCreated u Meta Ads Manager, da bi kampanja imala signal za optimizaciju. Automatski Purchase vezan je za Buy Button i potvrdu plaćanja preko Stripe-a ili PayPal-a. Za porudžbinu završenu u WooCommerce checkout-u treba vam sopstvena logika ili posrednik.
+
+WooCommerce nema native konekciju u ManyChat-u na način na koji je ima Shopify. Povezivanje obično ide preko Zapier ili Make scenarija, na primer kroz [ManyChat i WooCommerce zapove](https://zapier.com/apps/manychat/integrations/woocommerce), ili preko sopstvenog webhooka. To radi, ali svaka karika je još jedan sistem koji neko mora da održava.
+
+## Šta Niwa AI beleži na WordPress strani
+
+Niwa ima sopstvenu analitiku sajta koja čuva podatke u bazi vašeg WordPress-a, bez Google Analytics naloga i spoljnog analitičkog servisa. Kolektor radi na javnim stranama i kada posetilac ne otvori chat.
+
+Beleži sesije, pregledane strane, domen sa kog je posetilac došao, UTM source, medium i campaign, kao i podržane identifikatore klika iz oglasa. Izveštaji se grupišu po izvoru, kanalu, kampanji i strani, sa konverzijama i prihodom.
+
+Za prodavnicu je najvažniji deo checkout. Niwa beleži atribuciju i za klasični WooCommerce checkout i za Store API checkout, jednom po porudžbini. Kada se status promeni ili stigne refund, menja se postojeća konverzija. Prihod u izveštaju zato prati stvarno stanje porudžbine, a ne trenutak kada je neko kliknuo "Poruči".
+
+Model atribucije je poslednji ne-direktan izvor, sa kolačićem koji važi 90 dana. Ako je kupac došao sa Instagrama, a posle se vratio direktno i kupio, porudžbina zadržava Instagram kao izvor. Drugi modeli, poput linearnog ili vremenski ponderisanog, nisu deo plugina i ne treba ih tražiti u izveštaju.
+
+Posete sa instagram.com ili facebook.com klasifikuju se kao organski društveni saobraćaj. Sam \`fbclid\` ne dokazuje da je klik bio plaćen, pa linkove iz plaćenih Meta kampanja označite sa \`utm_medium=paid_social\`.
+
+Treći deo nema pandan u ManyChat setupu za WooCommerce: agent kome možete da postavite pitanje o konkretnoj porudžbini. Niwa admin agent u WordPress-u ili Telegramu ima read-only proveru atribucije po broju porudžbine ili imenu kupca. Vraća Niwa konverziju, sesiju, dodirne tačke i događaje, uz WooCommerce-ova sopstvena polja [atribucije porudžbine](https://woocommerce.com/document/order-attribution-tracking/). Za širu sliku isti agent čita dnevni, nedeljni ili tridesetodnevni pregled saobraćaja i prihoda.
+
+Ako je Facebook nalog povezan sa dozvolom za čitanje oglasa, agent čita i potrošnju, prikaze, klikove i doseg Meta kampanja za poslednjih 30 dana. Ne menja oglase i budžete bez posebne dozvole. Tako potrošnja i WooCommerce prihod stoje u istom razgovoru, umesto u dva taba i jednoj Excel tabeli.
+
+## Gde Niwa staje i zašto je to dobra vest
+
+Niwa ne zna da je Marko koji je pisao u DM isti čovek koji je kupio čizme na laptopu dva dana kasnije. Brojke se odnose na browsere, a ne na proverene osobe. Prelazak sa telefona na računar, obrisani kolačići ili blokiran JavaScript smanjuju pokrivenost.
+
+Niwa takođe ne dodaje automatski posebnu UTM oznaku svakom linku koji pošalje u DM odgovoru. Link do proizvoda je pravi link iz vaše prodavnice. Kada ga kupac otvori iz Instagram aplikacije, sesija se obično vodi kao Instagram, organski društveni kanal.
+
+Ovo zvuči kao mana dok ne vidite alternativu. Sistem koji tvrdi da zna tačan put svakog kupca kroz tri uređaja obično pogađa. Kada procena uđe u izveštaj kao činjenica, budžet se seli na osnovu pogrešnog uzroka.
+
+Niwa daje kraću, ali pošteniju sliku: koliko prihoda posle refunda dolazi sa Instagrama, sa kojih kampanja i na koje strane su ti ljudi prvo stigli. Za WooCommerce vlasnika to je podatak sa kojim se donosi odluka o budžetu.
+
+## Tok od komentara do porudžbine koji možete da proverite
+
+Vratimo se na Reel sa čizmama. Ovako izgleda tok sa Niwom kada je Instagram nalog povezan i odgovori su uključeni.
+
+1. Kupac ostavi komentar "cena za 39?".
+2. Niwa šalje jedan inicijalni privatni odgovor na komentar, u roku od sedam dana od komentara. Nastavak čeka da kupac odgovori u DM-u.
+3. Kada kupac napiše poruku, Niwa koristi javne podatke prodavnice: naziv modela, cenu, dostupne varijacije i link do proizvoda. Korpu, formu i zakazivanje ne izvršava iz DM-a. Te radnje ostaju na sajtu.
+4. Kupac otvori link. Niwa na sajtu beleži sesiju sa Instagram izvorom i stranu proizvoda kao prvu stranu.
+5. Kupac doda par u korpu i završi checkout. Porudžbina dobija sačuvanu atribuciju u trenutku kupovine.
+6. Pet dana kasnije kupac vrati čizme. Refund ažurira istu konverziju i prihod u izveštaju pada.
+
+Vlasnik zatim napiše agentu: "Odakle je porudžbina 1842 i koliko je Instagram doneo ove nedelje posle refunda?" Dobija izvor, kanal, kampanju ako je postojala, prvu stranu i događaje sesije, plus nedeljni pregled. Ne dobija tvrdnju da je baš određeni DM prodao par. Taj podatak niko ne može pošteno da garantuje bez povezanog identiteta.
+
+## UTM pravila koja čine izveštaj čitljivim
+
+Pošto Niwa ne označava svaki DM link posebno, disciplina je na linkovima koje vi kontrolišete. Cilj je da svaki poznati ulaz sa Instagrama ima svoju oznaku, a da ostatak Instagram saobraćaja bude manja i jasnija grupa.
+
+- Link u bio-u: \`?utm_source=instagram&utm_medium=social&utm_campaign=bio&utm_content=profil\`
+- Link sticker u Story objavi: \`?utm_source=instagram&utm_medium=social&utm_campaign=jesen_cizme&utm_content=story_link\`
+- Plaćeni Meta oglas: \`?utm_source=instagram&utm_medium=paid_social&utm_campaign=jesen_cizme&utm_content=reel_v2\`
+- Facebook objava: \`?utm_source=facebook&utm_medium=social&utm_campaign=jesen_cizme\`
+
+Pišite oznake malim slovima i uvek istim redosledom reči. "Jesen_Cizme" i "jesen-cizme" postaju dve kampanje u izveštaju. Ne stavljajte UTM na interne linkove unutar sajta, jer prepisuju stvarni izvor sesije.
+
+Posle mesec dana pogledajte Instagram saobraćaj bez kampanje. Tu su linkovi iz DM odgovora, deljenja i drugih neoznačenih ulaza. Ako ta grupa raste kada uključite Niwa odgovore, a prihod posle refunda raste sa njom, imate jak signal. Ako raste samo broj poseta, odgovor šalje ljude na pogrešnu stranu ili proizvod ne ispunjava ono što je razgovor obećao.
+
+## Ilustrativan obračun: prihod pre i posle refunda
+
+Sledeće brojke su ilustrativne, nisu merene na stvarnoj prodavnici. Služe da pokažu zašto refund mora da uđe u odluku.
+
+Meta kampanja "jesen_cizme" potrošila je 60.000 dinara za mesec. Niwa izveštaj za tu kampanju pokazuje 14 porudžbina i 238.000 dinara prihoda. Dve porudžbine su kasnije refundirane, ukupno 31.000 dinara. Prihod koji je ostao iznosi 207.000 dinara.
+
+Odnos prihoda i potrošnje pada sa 3,97 na 3,45. Kada uzmete bruto maržu od 40%, kampanja je donela 82.800 dinara bruto profita. Posle 60.000 dinara potrošnje ostaje 22.800 dinara pre ostalih troškova. Bez oduzetih refundova ista računica bi pokazala 35.200 dinara, što je razlika koja menja odluku o povećanju budžeta.
+
+Izračunajte isto za svoje brojke u [ROI kalkulatoru](/alati/roi-kalkulator). Ako marža nije jasna po proizvodu, prvo pročitajte vodič o [bruto marži i marketing budžetu](/blog/bruto-marza-marketing-budzet-roi-srbija-2026).
+
+## Kada je ManyChat dovoljan, a kada je Niwa bolji izbor
+
+ManyChat ima smisla kada se prodaja završava u samom flow-u preko Buy Button-a, kada vam je primarni cilj email ili telefon iz razgovora, ili kada prodajete na Shopify-u gde postoji native integracija. Ako vam je glavni cilj da Meta oglasi dobijaju događaje iz razgovora za optimizaciju, njegova CAPI integracija je zrela opcija.
+
+Za WooCommerce prodavnicu Niwa je bolji izbor. Prihod, status porudžbine i refund ostaju u bazi vašeg sajta, u istom izveštaju sa izvorom, kampanjom i stranom. Ne treba vam Pixel kod na stranici zahvalnice, Zapier između dva sistema ni ručno spajanje tabela. A kada vas zanima konkretna porudžbina, pitate agenta umesto da kopate po tri izveštaja.
+
+Ako već imate ManyChat i dobar Pixel setup, nemojte ga rušiti preko noći. Dva alata ipak ne smeju da odgovaraju na isti DM. Plan prelaska bez gubitka razgovora opisan je u vodiču [ManyChat alternativa za WooCommerce](/blog/manychat-alternativa-woocommerce-niwa-ai-migracija-2026), a širi pregled razlika u tekstu [Niwa AI vs ManyChat za WordPress i WooCommerce](/blog/niwa-ai-vs-manychat-wordpress-woocommerce-2026).
+
+## Šta pripremiti pre nego što počnete da merite
+
+- Označite UTM-om sve Instagram i Facebook linkove koje kontrolišete.
+- Proverite da li je izvor u Niwa izveštaju ispravan za jednu test porudžbinu iz Instagram aplikacije.
+- Napravite test refund i proverite da li je prihod u izveštaju pao.
+- Uskladite politiku prikupljanja podataka sa pristankom na kolačiće, jer Niwa ima filter kojim se kolektor gasi kada politika to traži.
+- Odlučite koji broj gledate nedeljno: prihod posle refunda po kanalu, ne broj poruka.
+
+Kada brojke pokažu da ljudi dolaze, ali ne kupuju, problem je najčešće na sajtu. Tada vredi pogledati [CRO analizu prodavnice](/cro) i osnovno [praćenje konverzija](/blog/pracenje-konverzija-lead-generation-srbija-2026). Ako se kanali međusobno otimaju o zasluge, pomaže i tekst o [atribuciji leadova i budžetu](/blog/atribucija-leadova-marketing-budzet-roi-srbija-2026).
+
+Više o tome kako Niwa odgovara kupcima i radi sa katalogom pročitajte na stranici [Niwa WooCommerce AI sales agent](https://niwachat.com/woocommerce-ai-sales-agent/).
+
+Ako želite da proverimo vaš Instagram tok od komentara do refunda, pošaljite kroz [kontakt formu](/kontakt) adresu prodavnice, kampanju koju pratite i šta danas vidite u izveštajima. Postavićemo UTM pravila, test porudžbinu i izveštaj pre nego što kampanja dobije veći [marketing budžet](/cene-digitalnog-marketinga).
+`,
+  },
+  {
     slug: 'google-ads-za-tende-i-pergole-cena-upita-srbija-2026',
     title: 'Google Ads za tende i pergole u Srbiji 2026: cena upita i budžet',
     excerpt: 'Google Ads za tende i pergole mora da prati merenje, ponudu, avans i montažu. Saznajte kako da odredite cenu upita, zone i budžet.',

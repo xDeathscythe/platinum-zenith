@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "instagram-dm-woocommerce-atribucija-porudzbina-niwa-ai-manychat-2026",
+    "title": "Koji Instagram DM je doneo porudžbinu? Niwa AI vs ManyChat za WooCommerce atribuciju",
+    "excerpt": "ManyChat meri klik iz razgovora, a Niwa AI WooCommerce porudžbinu, status i refund. Kako da povežete Instagram DM, UTM i prihod bez lažne atribucije.",
+    "date": "2026-10-16",
+    "category": "E-Commerce",
+    "readTime": "10 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-tende-i-pergole-cena-upita-srbija-2026",
     "title": "Google Ads za tende i pergole u Srbiji 2026: cena upita i budžet",
     "excerpt": "Google Ads za tende i pergole mora da prati merenje, ponudu, avans i montažu. Saznajte kako da odredite cenu upita, zone i budžet.",
