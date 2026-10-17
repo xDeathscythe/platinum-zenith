@@ -1,5 +1,122 @@
 const rawBlogPosts = [
   {
+    slug: 'brend-kampanja-google-ads-roi-budzet-srbija-2026',
+    title: 'Brend kampanja u Google Ads 2026: da li plaćati klikove na ime svoje firme',
+    excerpt: 'Klikovi na ime vaše firme su jeftini i ulepšavaju ROI. Kako da odvojite brend od novih kupaca, izmerite stvarnu korist i odredite koliki budžet brend zaslužuje.',
+    date: '2026-10-17',
+    readTime: '9 min read',
+    category: 'Google Ads',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Brend kampanja', 'Marketing ROI', 'CPL', 'Marketing budžet'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+Otvorite Google Ads izveštaj bilo koje firme koja godinama radi lokalno i ima prepoznatljivo ime. Velika je šansa da najjeftiniji upiti, najbolja stopa konverzije i najlepši ROI dolaze iz kampanje u kojoj ljudi kucaju upravo ime te firme.
+
+To nije dokaz da oglasi dobro rade. Čovek koji je ukucao "Petrović stolarija Novi Sad" već zna koga traži. Pitanje za budžet je jednostavno: da li bi on stigao do vas i bez plaćenog klika?
+
+Ovaj tekst je za vlasnike i marketing menadžere koji plaćaju Google Ads i žele da znaju koliko ih zaista košta novi kupac, a ne koliko košta klik osobe koja ih je već izabrala.
+
+## Šta je brend kampanja i zašto izgleda tako dobro
+
+Brend kampanja prikazuje oglas na pretrage koje sadrže ime vaše firme, proizvoda ili domena. Takve pretrage imaju jasnu nameru, pa klik obično košta malo, a konverzija stiže često.
+
+Problem nastaje kada se ti rezultati saberu sa kampanjama koje traže nove kupce. Uzmimo izmišljen, ali tipičan primer mesečnog naloga:
+
+- brend kampanja: 30.000 dinara, 60 leadova, CPL 500 dinara;
+- kampanje za nove pretrage (usluga, grad, problem): 270.000 dinara, 90 leadova, CPL 3.000 dinara;
+- ukupno: 300.000 dinara, 150 leadova, prosečan CPL 2.000 dinara.
+
+Brend troši 10% budžeta, a donosi 40% leadova. Ako firma sebi dozvoljava najviše 2.500 dinara po leadu, izveštaj kaže da je sve u redu. Kampanje koje stvarno dovode nove ljude koštaju 3.000 dinara po leadu i probijaju limit. Prosek to sakriva.
+
+Na nivou kupca razlika je još veća. Ako brend leadovi zatvaraju 30%, a novi 20%, firma dobija po 18 kupaca iz svake grupe. CAC iz brenda je oko 1.667 dinara. CAC iz novih pretraga je 15.000 dinara. Zajednički CAC od oko 8.333 dinara ne opisuje nijednu od te dve stvarnosti. Zato se [CPL i CAC](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026) uvek gledaju odvojeno za brend i za sve ostalo.
+
+## Koliko je brend klik zaista dodatan
+
+Najpoznatiji test ovog pitanja je eBay. Firma je isključila plaćene oglase na pretrage sa svojim imenom na Yahoo! i Microsoft pretraživačima, a Google je ostao kao kontrolna grupa. Skoro sav izgubljeni plaćeni saobraćaj prešao je na organske rezultate. Autori su zaključili da brend oglasi nisu imali merljivu kratkoročnu korist ([Blake, Nosko i Tadelis, Econometrica 2015](https://doi.org/10.3982/ECTA12423)).
+
+eBay nije lokalna firma iz Kragujevca. Kod svetski poznatog imena organski rezultat je gotovo garantovano prvi. Manja firma ima drugačiju situaciju: iznad nje mogu biti katalozi, portali sa recenzijama, stari oglasi ili konkurent koji plaća oglas na njeno ime.
+
+Zato ne treba ni slepo plaćati brend, ni slepo ga gasiti. Treba izmeriti koliko klikova i upita stvarno gubite bez oglasa. To je ista logika kao kod [inkrementalnog budžeta](/blog/inkrementalni-marketing-budzet-roi-lead-generation-srbija-2026): plaćate samo rezultat koji ne biste imali bez tog novca.
+
+## Kada brend kampanja ima smisla
+
+Brend kampanja je opravdan trošak kada bar jedna od ovih situacija postoji u vašem nalogu:
+
+### Konkurent licitira na vaše ime
+
+Googleova politika o žigovima kaže da Google ne ograničava korišćenje tuđeg žiga kao ključne reči. Ograničava upotrebu žiga u tekstu oglasa direktnog konkurenta, i to posle žalbe vlasnika ([Google Ads politika o žigovima](https://support.google.com/adspolicy/answer/6118?hl=en)). Po pravilima Google Ads-a, konkurent može da se pojavi iznad vas kada neko kuca vaše ime. Ako se to dešava, jeftin oglas na prvoj poziciji čuva upite koje ste već zaradili.
+
+### Organski niste prvi za sopstveno ime
+
+Novo ime, preimenovanje, ime koje je i obična reč ili grad pun firmi sa sličnim nazivom. Tada je brend kampanja privremena zaštita dok [Google Business profil](/blog/google-business-profile-optimizacija-srbija-2026) i sajt ne preuzmu prvo mesto.
+
+### Treba vam drugačija poruka od organskog rezultata
+
+Sezonska ponuda, novi termini, novo radno vreme ili posebna landing strana za kupce koji se vraćaju. Organski opis ne menjate za jedan dan. Oglas menjate za pet minuta.
+
+### Ime firme se meša sa uslugom
+
+Ako se firma zove "Klima Servis Centar", pretraga tog naziva je delom brend, a delom generička potražnja. Takve upite vredi razdvojiti po tačnoj frazi i posebno pratiti.
+
+## Kada je brend kampanja samo ulepšavanje izveštaja
+
+Kada ste prvi organski sa svim sitelinkovima, konkurenti se ne pojavljuju na vaše ime, a brend troši primetan deo mesečnog budžeta, verovatno plaćate klikove koji bi ionako došli.
+
+Upozorenje je i kada se izveštaj agencije ili internog tima hvali padom CPL-a, a broj novih kupaca stoji u mestu. Najlakši način da CPL padne jeste da veći deo budžeta ode na ljude koji već traže vašu firmu. To je čest problem izveštaja koji ne razdvajaju izvore, i jedan od razloga zašto [atribucija leadova](/blog/atribucija-leadova-marketing-budzet-roi-srbija-2026) mora da se dogovori pre nego što se priča o rezultatima.
+
+Isto važi kada se procenat od budžeta naplaćuje kao naknada. Brend klikovi tada povećavaju i trošak oglasa i naknadu, a ne dovode nove kupce. Pre ugovora proverite kako je [model naplate agencije](/fiksna-naknada-vs-revenue-share) povezan sa onim što vama donosi profit.
+
+## Kako da izmerite koliko brend stvarno donosi
+
+Test ne mora da bude komplikovan. Bitno je da ga ne radite u sezonskom vrhuncu i da unapred zapišete šta merite.
+
+1. Snimite početno stanje 4 nedelje. Plaćeni brend klikovi i leadovi iz Google Ads, organski klikovi na brend upite iz Google Search Console, pozivi i upiti iz Google Business profila.
+2. Proverite ko se pojavljuje na vaše ime. Koristite izveštaj Auction insights u brend kampanji i alat Ad Preview, umesto da sami stalno guglate svoje ime i trošite tuđe impresije.
+3. Pauzirajte brend u delu tržišta. Ako oglašavate u više gradova, isključite brend u polovini njih, a ostavite ga u ostalim. Ako radite u jednom gradu, pauzirajte ga 3 do 4 nedelje i uporedite sa istim periodom pre testa.
+4. Uporedite ukupan rezultat, ne samo plaćeni. Gledajte zbir plaćenih i organskih brend klikova i, važnije, broj upita koji su stigli sa brend pretraga. Ako ukupan broj upita ostane skoro isti, brend kampanja je kupovala tuđe klikove. Ako padne, kampanja štiti stvarne upite.
+5. Odlučite po cifri. Upite koje ste izgubili bez oglasa podelite sa brend budžetom za isti period. Taj iznos je stvarna cena dodatnog brend leada.
+
+Ako se tokom pauze pojavi konkurent na vašem imenu, test je dao odgovor pre roka. Vratite kampanju.
+
+## Kako da postavite nalog da brend ne krade budžet
+
+Prvo, brend ide u posebnu kampanju, sa sopstvenim dnevnim budžetom i sopstvenim izveštajem. Nikad u istu kampanju sa generičkim ključnim rečima.
+
+Ime firme dodajte kao negativnu ključnu reč u ostale Search kampanje. Inače broad match može da troši novac kampanje za nove kupce na ljude koji traže vas.
+
+Performance Max lako pokupi brend pretrage i prijavi ih kao svoje konverzije. Google ima opciju brand exclusions za Performance Max i Search kampanje ([Google Ads pomoć za brand exclusions](https://support.google.com/google-ads/answer/14505308?hl=en)). Ako koristite [Performance Max](/blog/google-ads-performance-max-srbija-2026), ovo podešavanje proverite pre nego što poverujete njegovom ROAS-u.
+
+Brendu ne dajte više novca nego što potražnja traži. Broj ljudi koji kucaju vaše ime je ograničen. Veći budžet tu ne pravi nove pretrage. Ako brend kampanja stalno "troši sve", proverite izveštaj pretraga, jer to obično znači da hvata upite koji nisu brend.
+
+Brend konverzije ne šaljite kao glavni signal za učenje. Ako sve konverzije imaju istu vrednost, automatsko licitiranje uči da je najlakši put najbolji. Koristite [kvalifikovane konverzije](/blog/kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026) i pratite brend posebno.
+
+## Kako treba da izgleda mesečni izveštaj
+
+Jedan red za brend, jedan red za sve ostalo. Za oba reda:
+
+- trošak;
+- leadovi i kvalifikovani leadovi;
+- CPL i CPL kvalifikovanog leada;
+- novi kupci i CAC;
+- udeo budžeta i udeo leadova.
+
+Kada u ovakvom izveštaju vidite da brend nosi 40% leadova uz 10% budžeta, znate da ukupan prosek ne govori ništa o tome koliko košta rast. Pravu odluku o budžetu donosite iz drugog reda.
+
+Za računicu maksimalnog CPL-a i povrata ulaganja možete da koristite [ROI kalkulator](/alati/roi-kalkulator), a okvirne iznose za upravljanje kampanjama pogledajte na stranici [Google Ads cena](/google-reklame-cena) i u pregledu [cena digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Šta da uradite ove nedelje
+
+Otvorite Google Ads i filtrirajte izveštaj pretraga po imenu firme. Saberite trošak i konverzije tih pretraga za poslednja tri meseca. Zatim izračunajte CPL bez njih.
+
+Ako se broj značajno promeni, vaš stvarni trošak novog kupca nije onaj koji gledate u izveštaju.
+
+Ako želite da to proverimo zajedno, pošaljite kroz [kontakt formu](/kontakt) mesečni budžet, listu kampanja i broj zatvorenih poslova za poslednja tri meseca. Razdvojićemo brend od nove potražnje, izračunati realan CPL i CAC i predložiti raspodelu budžeta koja plaća rast, a ne klikove ljudi koji vas već traže.
+`,
+  },
+  {
     slug: 'instagram-dm-woocommerce-atribucija-porudzbina-niwa-ai-manychat-2026',
     title: 'Koji Instagram DM je doneo porudžbinu? Niwa AI vs ManyChat za WooCommerce atribuciju',
     excerpt: 'ManyChat meri klik iz razgovora, a Niwa AI WooCommerce porudžbinu, status i refund. Kako da povežete Instagram DM, UTM i prihod bez lažne atribucije.',

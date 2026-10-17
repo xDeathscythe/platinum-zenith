@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "brend-kampanja-google-ads-roi-budzet-srbija-2026",
+    "title": "Brend kampanja u Google Ads 2026: da li plaćati klikove na ime svoje firme",
+    "excerpt": "Klikovi na ime vaše firme su jeftini i ulepšavaju ROI. Kako da odvojite brend od novih kupaca, izmerite stvarnu korist i odredite koliki budžet brend zaslužuje.",
+    "date": "2026-10-17",
+    "category": "Google Ads",
+    "readTime": "9 min read",
+    "isDraft": false
+  },
+  {
     "slug": "instagram-dm-woocommerce-atribucija-porudzbina-niwa-ai-manychat-2026",
     "title": "Koji Instagram DM je doneo porudžbinu? Niwa AI vs ManyChat za WooCommerce atribuciju",
     "excerpt": "ManyChat meri klik iz razgovora, a Niwa AI WooCommerce porudžbinu, status i refund. Kako da povežete Instagram DM, UTM i prihod bez lažne atribucije.",
