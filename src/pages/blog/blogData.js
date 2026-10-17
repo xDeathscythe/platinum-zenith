@@ -1,5 +1,124 @@
 const rawBlogPosts = [
   {
+    slug: 'niwa-ai-seo-blog-woocommerce-provera-pre-objave-2026',
+    title: 'AI blog za WooCommerce bez smeća: kako Niwa AI proverava SEO članak pre objave',
+    excerpt: 'Niwa AI pravi blog na vašem WordPress sajtu kao draft, blokira duplu temu, izmišljene brojke i tekst bez linkova ka proizvodima, pa meri koji članak donosi porudžbine.',
+    date: '2026-10-17',
+    readTime: '9 min read',
+    category: 'SEO',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Niwa AI', 'WooCommerce', 'SEO', 'AEO', 'WordPress blog'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+Prodavnica opreme za espresso ima kategoriju mlinova za kafu, dvadesetak modela i jedan stariji vodič "Kako izabrati mlin". Neko u timu pusti AI alat da napiše deset novih članaka i za sat vremena dobije deset tekstova. Tri ciljaju isti upit kao postojeći vodič. Dva tvrde da dobar mlin "podiže kvalitet espressa za 40%", bez izvora. Nijedan ne vodi do kategorije mlinova. Jedan ima svoj H1, pa stranica posle objave ima dva.
+
+U editoru ništa od toga ne izgleda strašno. Šteta se vidi kasnije. Više strana se otima o isti upit u Google-u, kupac čita tvrdnju koju niko ne može da potvrdi, a čitalac koji je stigao do kraja teksta nema gde da klikne osim nazad.
+
+Niwa AI ovo rešava tamo gde članak nastaje, u vašem WordPress-u. Tekst ne može da ode live dok ne prođe proveru, a posle objave Niwa beleži koje strane dovode kupce i koliko su ti kupci platili. U nastavku je tačno kako taj tok radi i kako da ga podesite za WooCommerce prodavnicu.
+
+## Google ne kažnjava AI tekst, kažnjava prazan sadržaj na veliko
+
+Google je u svom [uputstvu o AI sadržaju](https://developers.google.com/search/blog/2023/02/google-search-and-ai-content) napisao da prikladna upotreba AI-ja i automatizacije nije protiv njegovih smernica. Kršenje pravila o spamu počinje kada se sadržaj pravi prvenstveno da bi se manipulisalo rangiranjem. Za vlasnika prodavnice to znači jedno: nije bitno ko je kucao tekst, bitno je da li pomaže čoveku koji bira proizvod.
+
+Generički AI pisac tu ima ozbiljan nedostatak. On ne zna šta već postoji na vašem sajtu. Ne zna da isti upit već pokriva vodič iz prošle godine, ne zna koji mlin je na stanju i ne zna da kategorija mlinova donosi najviše novca. Zato napiše tekst koji je sam po sebi korektan, a za vaš sajt pogrešan.
+
+## Šta Niwa proverava pre nego što članak postane draft
+
+Glavni alat za blog u Niwa-i, \`create_niwa_blog\`, uvek pravi draft. Ne postoji prečica kojom tekst odlazi pravo na sajt. Pre upisa u bazu članak prolazi proveru kvaliteta, a provera radi sa mapom stvarno objavljenih postova, strana i proizvoda na vašem sajtu.
+
+Draft se ne pravi ako tekst ima neki od ovih problema:
+
+- isti naslov, slug ili isti glavni upit kao sadržaj koji je već objavljen;
+- manje od 300 reči;
+- H1 unutar teksta, jer naslov teme već daje jedini H1 na strani;
+- preskočen nivo naslova, na primer H3 bez H2 iznad njega;
+- manje od tri proverena interna linka u rečenicama, kada sajt ima kandidate za linkovanje;
+- tačan procenat ili iznos novca bez priložene adrese izvora;
+- zadata money strana koja nije objavljena na vašem sajtu ili do koje tekst uopšte ne vodi.
+
+Tekst između 300 i 800 reči prolazi, ali dobija upozorenje. Isto važi za sličnu temu koja nije identična: izveštaj prikazuje ID i adresu članka koji joj konkuriše, a odluku ostavlja vama. Niwa postojeći sadržaj ne prepravlja i ne briše sama. Kako da odlučite šta spojiti, a šta osvežiti, opisali smo u tekstu o [osvežavanju starih blog članaka](/blog/osvezavanje-starih-blog-clanaka-seo-srbija-2026).
+
+Kada provera padne, Niwa ne objavljuje sirovu verziju kao rezervu. Vraća izveštaj sa konkretnim popravkama: koji link fali, koja tvrdnja traži izvor, koji naslov krši redosled. Tekst se popravi i ponovo šalje istim putem.
+
+## Primer: članak o mlinovima posle provere
+
+Vratimo se na espresso prodavnicu. Brojevi i nazivi u ovom primeru su ilustrativni.
+
+Tim traži članak "Mlin sa ravnim ili koničnim noževima". Prva verzija pada na dve tačke. Rečenica sa 40% nema izvor, pa je tim briše jer takav podatak ne postoji u njihovim merenjima. Članak ima samo jedan interni link, pa izveštaj predlaže kandidate iz mape sajta: kategoriju mlinova, dva konkretna modela i stari vodič.
+
+Druga verzija prolazi. Link ka kategoriji stoji u rečenici gde čitalac upoređuje cenu i tip noževa, a ne u fusnoti na dnu. Kategorija je zadata kao money strana, pa provera potvrđuje da je link stvarno tu i da vodi na objavljenu adresu.
+
+Stari vodič "Kako izabrati mlin" ostaje netaknut. Izveštaj je pokazao jače preklapanje, tim je pročitao oba teksta i zaključio da novi članak odgovara na uže pitanje. Zato iz starog vodiča dodaju jedan link ka novom.
+
+## Objava je odobrenje jedne tačne verzije
+
+Kada je draft spreman, objavljujete ga alatom \`publish_blog_post\`. Pregled pred objavu zamrzava ID posta, status, otisak sadržaja, vreme poslednje izmene i verziju pravila provere. U trenutku objave Niwa ponovo učita post i uporedi svaku od tih vrednosti.
+
+Ako je neko u međuvremenu izmenio draft, objava se odbija. Pre promene statusa provera kvaliteta se pokreće još jednom. Tako niko ne može da odobri jednu verziju, a da na sajt ode druga.
+
+Pravilo važi i za izmene već objavljenih tekstova. Izmena se upisuje tek kada cela nova verzija prođe proveru, a pre upisa se pravi snimak za vraćanje: naslov, sadržaj, kategorije, SEO polja i schema. Ponavljajuće zakazivanje tipa "svakog dana objavi najstariji draft" nije dozvoljeno. Konkretan odobren članak možete da zakažete jednom.
+
+## Schema i SEO plugin bez duplih oznaka
+
+Na mnogim WooCommerce sajtovima Yoast ili Rank Math već upravlja meta opisom, canonical adresom i schema podacima. Niwa tada upisuje opis i glavni upit u taj plugin i ne dodaje svoju BlogPosting schemu preko njihove. Duple oznake ne pomažu nikome, a pretraživaču daju dve verzije istog podatka.
+
+Ako SEO plugin ne postoji, Niwa sama generiše BlogPosting i BreadcrumbList schemu iz stvarnog permalinka, datuma, istaknute slike i WordPress autora. Schema se generiše ponovo posle svake izmene i posle objave. Neispravan JSON se preskače, a CSS i JavaScript članka ne žive u samom tekstu posta.
+
+## AEO bez obećanja: šta pomaže da vas AI pretraga navede kao izvor
+
+AEO je optimizacija za odgovore koje daju AI Overviews, AI Mode, ChatGPT i slični alati. Google je u dokumentaciji o [AI funkcijama i vašem sajtu](https://developers.google.com/search/docs/appearance/ai-features) prilično jasan: za pojavljivanje u AI Overviews i AI Mode nema dodatnih tehničkih uslova. Strana mora da bude indeksirana i podobna za prikaz sa isečkom. Google ističe interne linkove, sadržaj u tekstualnom obliku i strukturirane podatke koji odgovaraju vidljivom tekstu.
+
+Kod WooCommerce bloga to se svodi na nekoliko navika. Svaki H2 neka bude pitanje koje kupac stvarno postavlja, a prva rečenica ispod njega neka bude odgovor. Tvrdnje neka imaju izvor ili vaše merenje. Odgovor neka vodi do proizvoda koji problem rešava. Niwa provera pokriva deo toga: hijerarhiju naslova, interne linkove, tvrdnje bez izvora i schemu koja dolazi iz stvarnog posta.
+
+Citat u AI odgovoru ne može da garantuje niko, pa ni Niwa. Može da se postigne to da vaš tekst bude jasan, tačan i povezan, a to je osnova i za klasične rezultate. Kako AI odgovori menjaju broj klikova, pogledajte u tekstu o [featured snippet-u i AI Overview-u](/blog/featured-snippet-i-ai-overview-uticaj-na-klikove-statistika-2026).
+
+Razgovori koje kupci vode sa Niwa asistentom na sajtu ili u Instagram porukama nisu javne strane i ne rangiraju se. Ipak su najbolji izvor tema. Ako nekoliko ljudi nedeljno pita da li mlin melje za džezvu, to je H2 koji vašem blogu fali. Ovo je praktičan predlog za tim koji čita inbox, ne automatska funkcija.
+
+## Od članka do Facebook-a i Instagrama
+
+Kada se WordPress post prvi put objavi, Niwa stavlja u red deljenje za svaki povezan Facebook ili Instagram nalog kome ste uključili automatsko deljenje. Kasnije izmene teksta ne prave novu objavu. Članak možete i ručno da izaberete za deljenje.
+
+Opis objave piše model na osnovu samog članka, do 700 karaktera, i ne sme da dodaje tvrdnje kojih u tekstu nema. U podešavanjima naloga upisujete uputstvo za ton, na primer da se obraćate sa "vi", bez uzvičnika i bez emodžija. Na Facebook-u ide objava sa fotografijom i linkom ka članku. Na Instagramu link u opisu nije klikabilan, što je ograničenje same mreže.
+
+Tu se blog spaja sa razgovorom. Kada neko na Instagram objavi komentariše "koji mlin za početak?", Niwa može da odgovori javno ispod komentara ili da pošalje jednu privatnu poruku sa linkom ka proizvodu. Odgovor koristi znanje vaše prodavnice, a ne šablon. Ako je privatna poruka deo flow-a i kupac odgovori u DM-u, razgovor se nastavlja od istog koraka i sa istim kontekstom. Kako se taj deo razlikuje od ManyChat-a, detaljno smo uporedili u tekstu [Niwa AI vs ManyChat za WordPress i WooCommerce](/blog/niwa-ai-vs-manychat-wordpress-woocommerce-2026).
+
+## Kako da vidite koji članak zaista prodaje
+
+Niwa Site Analytics beleži posete u bazi vašeg WordPress sajta, bez Google Analytics naloga. Izveštaj po stranama ne prikazuje samo posete, već i konverzije i prihod po strani na koju je posetilac ušao. Porudžbina se pripisuje poslednjem izvoru koji nije direktan, a refund ažurira već upisanu konverziju. Brojke su po pregledaču, ne po osobi, pa isti kupac na telefonu i laptopu izgleda kao dva posetioca.
+
+Ilustrativan mesec za tri članka iste prodavnice izgleda ovako:
+
+| Članak (ulazna strana) | Sesije | Porudžbine | Prihod | Prihod na 100 sesija |
+|---|---|---|---|---|
+| Kako izabrati mlin za espresso | 1.800 | 3 | 27.000 RSD | 1.500 RSD |
+| Mlin sa ravnim ili koničnim noževima | 450 | 6 | 64.800 RSD | 14.400 RSD |
+| Koliko često čistiti mlin | 2.600 | 1 | 4.500 RSD | 173 RSD |
+
+Najposećeniji tekst je najslabiji prodavac. Ljudi koji pitaju za čišćenje već imaju mlin. Tekst o noževima ima četiri puta manje poseta od vodiča, a donosi najviše novca, jer ga čita neko ko je pred kupovinom. Odluka iz tabele je konkretna: iz vodiča sa 1.800 sesija dodajte jasan link ka tekstu o noževima, a tekst o čišćenju povežite sa priborom za održavanje umesto sa mlinovima.
+
+Detaljnije o tome kako Niwa beleži izvor porudžbine i refund pisali smo u tekstu [koji Instagram DM je doneo porudžbinu](/blog/instagram-dm-woocommerce-atribucija-porudzbina-niwa-ai-manychat-2026).
+
+## Postupak za prvi mesec
+
+1. Izdvojite pet pitanja koja kupci ponavljaju u porukama, chatu i telefonom.
+2. Za svako pitanje odredite money stranu: kategoriju ili konkretan proizvod.
+3. Pustite Niwa-u da napravi draft i popravite sve kritične stavke iz izveštaja.
+4. Pročitajte tekst kao kupac i proverite svaku tvrdnju o proizvodu.
+5. Odobrite i objavite tačnu verziju koju ste pročitali.
+6. Uključite automatsko deljenje za jedan nalog i upišite uputstvo za ton.
+7. Posle 30 dana otvorite izveštaj po stranama i gledajte prihod, ne broj poseta.
+
+Ako posete stižu, a porudžbina nema, problem je često u samoj prodavnici, ne u blogu. Tada pomaže [analiza zašto web shop nema prodaju](/web-shop-nema-prodaju). Za širi plan sadržaja i tehničkog SEO-a pogledajte i [cene SEO optimizacije](/seo-optimizacija-cena).
+
+Šta sve Niwa radi u WordPress-u i WooCommerce-u, od bloga do odgovaranja kupcima, možete videti na sajtu [niwachat.com](https://niwachat.com/).
+
+Ako želite da ovaj tok postavimo na vašoj prodavnici, pošaljite kroz [kontakt formu](/kontakt) adresu sajta, tri kategorije koje vam donose najviše novca i link ka postojećem blogu. Pregledaćemo koje teme se već preklapaju, koje strane treba da budu cilj članaka i kako da merite prihod po tekstu pre nego što krenete sa novim objavama.
+`,
+  },
+  {
     slug: 'brend-kampanja-google-ads-roi-budzet-srbija-2026',
     title: 'Brend kampanja u Google Ads 2026: da li plaćati klikove na ime svoje firme',
     excerpt: 'Klikovi na ime vaše firme su jeftini i ulepšavaju ROI. Kako da odvojite brend od novih kupaca, izmerite stvarnu korist i odredite koliki budžet brend zaslužuje.',

@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "niwa-ai-seo-blog-woocommerce-provera-pre-objave-2026",
+    "title": "AI blog za WooCommerce bez smeća: kako Niwa AI proverava SEO članak pre objave",
+    "excerpt": "Niwa AI pravi blog na vašem WordPress sajtu kao draft, blokira duplu temu, izmišljene brojke i tekst bez linkova ka proizvodima, pa meri koji članak donosi porudžbine.",
+    "date": "2026-10-17",
+    "category": "SEO",
+    "readTime": "9 min read",
+    "isDraft": false
+  },
+  {
     "slug": "brend-kampanja-google-ads-roi-budzet-srbija-2026",
     "title": "Brend kampanja u Google Ads 2026: da li plaćati klikove na ime svoje firme",
     "excerpt": "Klikovi na ime vaše firme su jeftini i ulepšavaju ROI. Kako da odvojite brend od novih kupaca, izmerite stvarnu korist i odredite koliki budžet brend zaslužuje.",
