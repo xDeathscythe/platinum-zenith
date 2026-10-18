@@ -1,5 +1,106 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-ciljanje-lokacije-prisustvo-interesovanje-srbija-2026',
+    title: 'Ciljanje lokacije u Google Ads 2026: zašto plaćate klikove van svoje zone',
+    excerpt: 'Google Ads podrazumevano prikazuje oglase i ljudima koji su samo pokazali interesovanje za vaš grad. Kako da nađete klikove van zone i prestanete da ih plaćate.',
+    date: '2026-10-18',
+    readTime: '8 min read',
+    category: 'Google Ads',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Ciljanje lokacije', 'Lokalni marketing', 'CPL', 'Marketing budžet'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+Firma za dezinsekciju radi samo po Novom Sadu i okolini. U Google Ads kampanji kao lokaciju je podesila "Novi Sad", dodala ključne reči i pustila oglase. Posle mesec dana neko otvori izveštaj o lokacijama i vidi klikove iz Beograda, Subotice, pa i iz Beča.
+
+Niko nije pogrešio podešavanje. Google Ads tako radi kada se lokacija ostavi na podrazumevanoj opciji. A ta opcija za većinu lokalnih firmi u Srbiji znači da deo budžeta odlazi na ljude kojima firma ne može da izađe na adresu.
+
+Ovaj tekst je za vlasnike lokalnih uslužnih firmi i ljude koji vode njihove kampanje. Na kraju ćete znati gde da kliknete, šta da proverite u izveštaju i kada je šire ciljanje zapravo dobra ideja.
+
+## Kako Google Ads odlučuje ko je "u Novom Sadu"
+
+Google koristi dva različita signala, a podrazumevano podešavanje ih sabira.
+
+Prvi je fizička lokacija. Google je procenjuje iz IP adrese, GPS-a, Wi-Fi mreže, Bluetooth signala i baze baznih stanica mobilne mreže ([Google Ads pomoć o ciljanju lokacija](https://support.google.com/google-ads/answer/2453995?hl=en)).
+
+Drugi je lokacija interesovanja. Tu ulaze pretrage koje pominju mesto, ranije pretrage tog mesta, mesta na kojima je osoba ranije bila, sadržaj sajta na kojem se oglas prikazuje, pretrage na Google mapama i ručno podešena lokacija za rezultate pretrage. Google na istoj strani sam napominje da pominjanje mesta na stranici ne znači uvek interesovanje za to mesto.
+
+U podešavanjima kampanje postoje dve opcije za ciljanje. U engleskom interfejsu zovu se "Presence or interest" i "Presence". Prva je podrazumevana ([Google Ads pomoć o naprednim opcijama lokacije](https://support.google.com/google-ads/answer/1722038?hl=en)). Sa njom oglas može da vidi neko ko je u Novom Sadu, neko ko tamo redovno boravi i neko ko je samo pokazao interesovanje za Novi Sad, bez obzira gde se trenutno nalazi.
+
+Za hotel ili agenciju za nekretnine to može da bude korisno. Za firmu koja šalje majstora na adresu, to je curenje budžeta.
+
+## Koliko košta klik van zone
+
+Uzmimo izmišljen primer, sa brojevima kakvi se viđaju u lokalnim nalozima:
+
+- mesečni budžet 150.000 dinara, prosečan klik 75 dinara, ukupno 2.000 klikova;
+- izveštaj o lokacijama pokazuje da je 16% klikova, odnosno 320, došlo od ljudi van zone usluge;
+- ti klikovi su koštali 24.000 dinara;
+- kampanja je prijavila 64 leada, a 6 je stiglo van zone, od kojih je samo jedan bio upotrebljiv.
+
+U izveštaju CPL je 2.344 dinara. Ako se broje samo leadovi kojima firma može da pruži uslugu, ima ih 59 i CPL je 2.542 dinara. Razlika deluje mala dok se ne pogleda druga strana računice.
+
+Klikovi iz zone pretvarali su se u leadove sa stopom od oko 3,5%. Da je onih 24.000 dinara otišlo na pretrage iz zone, a pretraga ima dovoljno, to je oko 11 leadova više mesečno. Za firmu kojoj jedan prosečan posao donosi nekoliko desetina hiljada dinara, to nije statistička greška. To su dva ili tri izgubljena posla svakog meseca, plaćena iz istog budžeta.
+
+Zato se [cena kvalifikovanog leada](/blog/cena-kvalifikovanog-leada-marketing-budzet-srbija-2026) računa samo na leadove koje firma zaista može da uslužuje.
+
+## Kada izabrati samo prisustvo
+
+Opcija "Presence" prikazuje oglas ljudima koji su u ciljanoj oblasti ili tu redovno borave. Za većinu lokalnih firmi to treba da bude standard:
+
+- usluge na adresi korisnika: vodoinstalateri, električari, klima servisi, čišćenje, dezinsekcija, selidbe;
+- hitne usluge gde kupac traži nekoga ko može da stigne danas;
+- ordinacije, saloni i servisi gde klijent dolazi lično, a ne putuje iz drugog grada;
+- B2B usluge vezane za teren, kao što su održavanje objekata ili obezbeđenje.
+
+Posle prelaska sa podrazumevane opcije očekujte manje prikazivanja. Za firmu sa zonom usluge to i jeste cilj. Ta prikazivanja nikad nisu bila vaša.
+
+## Kada interesovanje ima smisla, i zašto ga i tada treba odvojiti
+
+Postoje firme kojima kupac dolazi spolja. Turistički smeštaj, rent-a-car na aerodromu, nekretnine, sale za venčanja, stomatološke ordinacije koje rade sa pacijentima iz inostranstva. U Srbiji tu postoji i poseban slučaj: dijaspora. Čovek u Štutgartu traži majstora za renoviranje stana svojih roditelja u Kragujevcu. On je stvaran kupac, iako fizički nije u Srbiji.
+
+Ipak, ne bih se oslanjao na široku opciju da ga uhvati. Ona istovremeno dovodi i čoveka iz Niša koji je jednom gledao Kragujevac na mapi. Bolje rešenje je posebna kampanja za zemlje gde žive vaši kupci iz dijaspore, na primer Nemačku, Austriju i Švajcarsku, sa opcijom prisustva. Uz nju ide poseban oglas i landing strana koja odgovara na njihova pitanja. Kako se posao dogovara na daljinu, ko je na licu mesta, kako se plaća.
+
+Tako dobijate odvojen budžet, odvojen CPL i jasnu sliku da li dijaspora donosi posao. Ako sve ostane u jednoj kampanji, ta brojka se nikad ne vidi. Ista logika važi za [marketing budžet po gradovima](/blog/marketing-budzet-po-gradovima-lead-generation-srbija-2026): jedan prosek krije razlike koje odlučuju o novcu.
+
+## Isključene lokacije rade samo po fizičkom prisustvu
+
+Česta reakcija je da se problem reši isključivanjem drugih gradova. To pomaže samo delimično.
+
+Google je u pomoći za napredne opcije lokacije naveo da se isključenja za Search, Display, Performance Max i Shopping kampanje više ne mogu podesiti po interesovanju, i da je podrazumevana vrednost prisustvo. Ako isključite Beograd, oglas neće videti neko ko je fizički u Beogradu. Neće biti isključen neko u Subotici ko kuca "dezinsekcija Beograd".
+
+Zato redosled mora da bude ovakav: prvo ciljanje po prisustvu, pa isključenja mesta gde ne radite, pa negativne ključne reči za nazive gradova koje ne pokrivate. Samo isključenja, bez promene opcije ciljanja, ostavljaju otvorena vrata.
+
+Proverite i preklapanja. Ako kampanja cilja i "Srbija" i "Novi Sad", oglas se prikazuje u celoj zemlji, a Novi Sad samo dobija svoj red u izveštaju. Kod ciljanja radijusom oko adrese, krug od 30 kilometara oko Novog Sada zahvata i mesta u koja ekipa možda ne ide.
+
+## Provera naloga za 15 minuta
+
+1. U svakoj kampanji otvorite Settings, pa Locations, pa Location options. Za lokalnu uslugu izaberite "Presence". Ovo je podešavanje na nivou kampanje, pa ga proverite u svakoj, uključujući nove koje tek pravite.
+2. Otvorite izveštaj o lokacijama: Insights and reports, pa When and where ads showed, pa Locations. Gledajte gde su ljudi bili kada su kliknuli, ne samo koje ste lokacije ciljali. Izaberite period od bar 30 dana.
+3. U izveštaju pretraga potražite nazive gradova koje ne pokrivate. Svaki takav naziv ide u negativne ključne reči.
+4. Ako koristite [Performance Max](/blog/google-ads-performance-max-srbija-2026), proverite iste opcije lokacije i tamo. Ta kampanja ima manje izveštaja, pa curenje duže ostaje nevidljivo.
+5. U kontakt formi tražite grad ili opštinu kao obavezno polje, a u CRM-u ga beležite uz svaki lead. Kako se to radi bez gubitka konverzija opisano je u tekstu o [kvalifikaciji leadova kroz kontakt formu](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026).
+
+Pozivi su poseban slučaj. Pozivni broj nije pouzdan pokazatelj jer ljudi nose mobilne brojeve iz grada u grad, pa grad pitajte u razgovoru i upišite ga.
+
+## Šta da očekujete posle promene
+
+Prikazivanja će pasti, a broj klikova verovatno takođe. Prosečna cena klika može malo da poraste, jer ostaju aukcije u vašoj zoni gde se takmičite sa lokalnom konkurencijom. Izveštaj sa klikovima i CTR-om tada izgleda gore, a posao ide bolje.
+
+Zato uspeh ne merite klikovima. Gledajte broj leadova iz zone, CPL leadova koje možete da uslužite i broj zakazanih poslova. Ako ste pre toga postavili [kvalifikovane konverzije](/blog/kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026), automatsko licitiranje dobija čistiji signal i brže uči.
+
+Dajte promeni dve do četiri nedelje pre poređenja, i poredite isti broj dana u nedelji. Za računicu koliko lead sme da košta da bi posao bio isplativ možete da koristite [ROI kalkulator](/alati/roi-kalkulator). Okvirne cene vođenja kampanja su na stranici [Google Ads cena](/google-reklame-cena) i u pregledu [cena digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Šta da uradite danas
+
+Otvorite izveštaj o lokacijama za poslednja tri meseca i saberite trošak klikova koji su došli van zone u kojoj radite. Taj broj pomnožite sa četiri i dobićete koliko vas godišnje košta jedno podrazumevano podešavanje.
+
+Ako želite da to proverimo zajedno, pošaljite kroz [kontakt formu](/kontakt) listu kampanja, gradove koje stvarno pokrivate i broj zakazanih poslova za poslednja tri meseca. Proverićemo podešavanja lokacija, preklapanja i negativne ključne reči i izračunati koliko budžeta možete da vratite u zonu gde zarađujete.
+`,
+  },
+  {
     slug: 'niwa-ai-seo-blog-woocommerce-provera-pre-objave-2026',
     title: 'AI blog za WooCommerce bez smeća: kako Niwa AI proverava SEO članak pre objave',
     excerpt: 'Niwa AI pravi blog na vašem WordPress sajtu kao draft, blokira duplu temu, izmišljene brojke i tekst bez linkova ka proizvodima, pa meri koji članak donosi porudžbine.',

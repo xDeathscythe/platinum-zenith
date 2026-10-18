@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-ciljanje-lokacije-prisustvo-interesovanje-srbija-2026",
+    "title": "Ciljanje lokacije u Google Ads 2026: zašto plaćate klikove van svoje zone",
+    "excerpt": "Google Ads podrazumevano prikazuje oglase i ljudima koji su samo pokazali interesovanje za vaš grad. Kako da nađete klikove van zone i prestanete da ih plaćate.",
+    "date": "2026-10-18",
+    "category": "Google Ads",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "niwa-ai-seo-blog-woocommerce-provera-pre-objave-2026",
     "title": "AI blog za WooCommerce bez smeća: kako Niwa AI proverava SEO članak pre objave",
     "excerpt": "Niwa AI pravi blog na vašem WordPress sajtu kao draft, blokira duplu temu, izmišljene brojke i tekst bez linkova ka proizvodima, pa meri koji članak donosi porudžbine.",
