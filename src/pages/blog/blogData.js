@@ -1,5 +1,111 @@
 const rawBlogPosts = [
   {
+    slug: 'preporuke-klijenata-izvor-leadova-prodaja-srbija-2026',
+    title: 'Preporuke klijenata kao izvor leadova: kako ih tražiti i meriti 2026',
+    excerpt: 'Preporučeni kupac se lakše zatvara, ali u izveštaju često izgleda kao klik na brend oglas. Kako tražiti preporuke u pravom trenutku i meriti ih odvojeno.',
+    date: '2026-10-27',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Preporuke klijenata', 'Lead generation', 'Prodajni proces', 'CRM', 'Atribucija'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+Firma za renoviranje kupatila u Beogradu ima Google Ads kampanju, pristojan sajt i vlasnika koji na svakom sastanku kaže isto: "Pola posla nam dolazi preko preporuke." Kada ga pitate koliko je to tačno poslova prošlog meseca, ko ih je preporučio i koliko je tih upita zatvoreno, odgovor je slegnuto rame. U CRM-u ti kupci stoje pod izvorom "Google" ili nemaju izvor uopšte.
+
+Posledica je veća nego što izgleda. Ako firma ne zna koliko posla donose preporuke, ne zna ni koliko zaista košta kupac iz kampanje. A kanal koji donosi najlakše zatvorene poslove ostaje prepušten slučaju.
+
+Ovaj tekst je za vlasnike uslužnih firmi i ljude u prodaji koji žele da preporuke postanu proces: kada ih tražiti, kojim rečima, da li davati nagradu i kako ih beležiti tako da izveštaj o kampanjama prestane da laže.
+
+## Zašto se preporučeni kupac lakše zatvara
+
+Preporučeni kupac stiže sa pozajmljenim poverenjem. Neko koga poznaje već je platio, video rezultat i rekao "zovi ove". Takav kupac retko traži tri ponude da bi uporedio cenu, jer je glavni rizik (da li će firma uraditi posao kako treba) već skinut sa stola.
+
+Za to postoje i brojke. U Nielsenovom istraživanju poverenja u oglašavanje iz 2021. godine, 88% ispitanika širom sveta navelo je da najviše veruje preporukama ljudi koje poznaje, više nego bilo kom oglasnom kanalu ([Nielsen, Trust in Advertising 2021](https://www.nielsen.com/insights/2021/beyond-martech-building-trust-with-consumers-and-engaging-where-sentiment-is-high/)).
+
+Postoji i podatak o novcu. Istraživanje objavljeno u Journal of Marketing pratilo je oko 10.000 klijenata jedne nemačke banke skoro tri godine. Klijenti koji su došli kroz program preporuka imali su veću maržu, ređe su odlazili, a njihova vrednost bila je bar 16% veća od klijenata sličnog profila stečenih drugim kanalima ([Schmitt, Skiera i Van den Bulte, 2011](https://doi.org/10.1509/jm.75.1.46)). Banka nije majstorska firma, i autori sami pišu da efekat nije isti u svakom segmentu. Smer je ipak jasan: preporuka donosi kupca koji bolje odgovara firmi.
+
+## Gde preporuke nestaju iz izveštaja
+
+Evo kako izgleda put tipičnog preporučenog kupca. Komšija mu kaže ime firme. On ga ukuca u Google, klikne na prvi rezultat, a to je često vaš oglas na brend pretragu. Popuni formu ili pozove sa sajta. Google Ads beleži konverziju.
+
+U izveštaju kampanje taj lead izgleda kao uspeh oglasa. U stvarnosti je oglas samo stajao između kupca i vašeg broja telefona. O tome kako brend kampanja ulepšava prosečan CPL pisali smo u tekstu o [brend kampanji i ROI-ju](/blog/brend-kampanja-google-ads-roi-budzet-srbija-2026), a o tome ko dobija zasluge za lead u tekstu o [atribuciji leadova](/blog/atribucija-leadova-marketing-budzet-roi-srbija-2026).
+
+Uzmimo izmišljen primer, sa zaokruženim brojevima:
+
+- Google Ads budžet je 120.000 dinara mesečno;
+- kampanja je stvarno dovela 50 leadova, od kojih je zatvoreno 7 poslova;
+- to je CPL od 2.400 dinara i cena kupca od oko 17.140 dinara;
+- još 3 preporučena kupca su kliknula na brend oglas, a 2 od njih su postala posao.
+
+Izveštaj sada prikazuje 53 leada i 9 poslova. CPL pada na oko 2.260 dinara, a cena kupca na oko 13.330 dinara. Kampanja izgleda 22% jeftinija po kupcu nego što jeste. Na osnovu takvog broja firma lako odluči da poveća budžet, a dodatni novac kupuje leadove po pravoj, višoj ceni.
+
+Zato je razlika između CPL-a i cene kupca važna, i zato se [CPL ne meša sa CAC-om](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026).
+
+## Kada tražiti preporuku
+
+Većina firmi pita u pogrešnom trenutku ili ne pita uopšte. Najčešća greška je pitanje odmah posle potpisivanja ugovora, kada kupac još ništa nije dobio. Druga greška je mejl dva meseca posle završetka, kada se utisak ohladio.
+
+Pravi trenutak je onaj kada kupac sam kaže da je zadovoljan. Kod renoviranja to je primopredaja. Kod knjigovodstva prvi završen kvartal bez problema. Kod servisa uređaj koji radi i kupac koji je to potvrdio. U tom trenutku pitanje zvuči prirodno, a odgovor je najčešće "naravno".
+
+Zato tražite preporuku kao korak u procesu, vezan za konkretan događaj, a ne kao uslugu koju neko u firmi "treba da se seti". Ako postoji CRM status "Završeno", uz njega ide zadatak "Zatražiti preporuku".
+
+## Kako tražiti, konkretnim rečima
+
+"Ako znate nekoga kome trebamo, javite" ne radi. Kupac klimne glavom i zaboravi. Pitanje mora da bude konkretno i da kupcu skrati posao.
+
+Primer poruke posle primopredaje kupatila:
+
+"Drago nam je da ste zadovoljni. Da li znate nekoga ko planira renoviranje kupatila ili kuhinje u narednih šest meseci? Ako želite, prosledite mu ovaj link, tamo može da pošalje fotografije i dobije okvirnu cenu za dva dana. Kada popuni formu, napišite nam samo ime, da znamo da je od vas."
+
+Poruka sužava krug ljudi na koje kupac treba da pomisli i daje mu link koji može da prosledi bez objašnjavanja. Usput traži od preporučenog da ostavi trag, pa izvor ne mora da se pogađa.
+
+Link treba da vodi na posebnu stranu ili na formu sa skrivenim poljem izvora, ne na početnu stranu sajta. Strana može da ima isti sadržaj kao glavna landing strana, uz jednu rečenicu za ljude koji dolaze po preporuci i polje "Ko vas je preporučio?". Ako na sajtu već postoje [dokazi poverenja](/blog/dokazi-poverenja-na-sajtu-konverzija-srbija-2026), preporučeni kupac će ih tamo i potražiti.
+
+## Nagrada: da ili ne
+
+Nagrada nije obavezna. Mnogi kupci preporučuju jer žele da pomognu prijatelju, a novac im ne treba. Nagrada ima smisla kada firma želi da preporuke dolaze redovno, a ne samo kad se neko seti.
+
+Nekoliko pravila koja štede živce:
+
+- nagrada se isplaćuje za zatvoren posao, ne za poslat kontakt, inače dobijate spisak imena bez namere;
+- iznos se računa iz bruto marže; u našem primeru prosečan posao je 180.000 dinara, a uz maržu od 35% bruto profit je 63.000 dinara, pa nagrada od 5.000 dinara uzima oko 8% tog profita;
+- popust ili dodatna usluga za oba kupca često deluje bolje od gotovine, jer preporuka ne izgleda kao plaćena;
+- način isplate i knjiženja nagrade proverite sa knjigovođom pre nego što je objavite.
+
+U istraživanju banke nagrada je bila 25 evra po klijentu, a autori su procenili povraćaj od oko 60% na tu nagradu tokom šest godina. To ne znači da će vaš program imati isti rezultat. Znači da se iznos nagrade može izračunati, umesto da se izmisli.
+
+## Kako beležiti preporuke u CRM-u
+
+Bez evidencije preporuke ostaju osećaj. Dovoljna su četiri polja:
+
+1. Izvor: "Preporuka", kao posebna vrednost, odvojena od "Google Ads" i "Organski".
+2. Ko je preporučio: ime postojećeg kupca, da znate kome da se zahvalite i ko vam donosi posao.
+3. Kako je kontakt stigao: poziv, forma, poruka. Ovo otkriva koliko preporuka prolazi kroz brend oglas.
+4. Status posla: upit, ponuda, prihvaćeno, naplaćeno.
+
+U kontakt formi dodajte pitanje "Kako ste čuli za nas?" sa ponuđenim odgovorima, uključujući "Preporuka". Kod poziva to isto pitanje postavite u prvom razgovoru i upišite odgovor. Više o poljima koja ne ruše konverziju piše u tekstu o [kvalifikaciji kroz kontakt formu](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026), a o osnovnoj evidenciji u tekstu o [CRM-u za leadove](/blog/crm-za-leadove-evidencija-prodaja-srbija-2026).
+
+Kada se preporuke beleže, u mesečnom izveštaju se vide dve stvari koje ranije nisu postojale. Prva je stvarna cena kupca iz kampanje, bez pozajmljenih preporuka. Druga je lista kupaca koji preporučuju. Ti ljudi su vredniji nego što izgleda iz njihovog računa, pa ih treba zadržati. Na to se nadovezuje tekst o [vrednosti klijenta kroz vreme](/blog/vrednost-klijenta-ltv-marketing-budzet-srbija-2026).
+
+## Šta preporuke ne mogu
+
+Preporuke se ne mogu pojačati kao budžet. Broj preporučenih upita zavisi od broja zadovoljnih kupaca i od toga koliko njihovih poznanika baš sada treba vaša usluga. Firma sa 10 završenih poslova mesečno ne može da dobije 40 preporuka samo zato što je odlučila da raste.
+
+Zato preporuke ne zamenjuju kampanje. One spuštaju prosečnu cenu kupca, donose kupce koji ređe odustaju i daju kampanjama tačniji izveštaj kada se vode odvojeno. Kampanje daju obim i predvidivost. Firma kojoj treba oboje mora da zna koliko svaki kanal stvarno donosi.
+
+Za računicu koliko lead iz kampanje sme da košta kada znate i udeo preporuka, iskoristite [ROI kalkulator](/alati/roi-kalkulator). Okvirne cene vođenja kampanja su na stranici [Google Ads cena](/google-reklame-cena), a širi pregled u [cenama digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Šta da uradite ove nedelje
+
+Izvucite listu kupaca iz poslednja tri meseca i za svakog upišite kako je stigao. Kod onih koji su došli preko brend pretrage pozovite ili pogledajte beleške i proverite da li ih je neko preporučio. Ta jedna provera obično pokaže da kampanja i preporuke nisu ono što izveštaj tvrdi.
+
+Ako želite da to uradimo zajedno, pošaljite kroz [kontakt formu](/kontakt) broj leadova i zatvorenih poslova po izvoru za poslednja tri meseca i podatak o brend kampanji, ako je imate. Razdvojićemo preporuke od kampanja, izračunati stvarnu cenu kupca po kanalu i predložiti kako da tražite preporuke u trenutku kada kupac kaže da je zadovoljan.
+`,
+  },
+  {
     slug: 'google-ads-ciljanje-lokacije-prisustvo-interesovanje-srbija-2026',
     title: 'Ciljanje lokacije u Google Ads 2026: zašto plaćate klikove van svoje zone',
     excerpt: 'Google Ads podrazumevano prikazuje oglase i ljudima koji su samo pokazali interesovanje za vaš grad. Kako da nađete klikove van zone i prestanete da ih plaćate.',

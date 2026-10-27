@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "preporuke-klijenata-izvor-leadova-prodaja-srbija-2026",
+    "title": "Preporuke klijenata kao izvor leadova: kako ih tražiti i meriti 2026",
+    "excerpt": "Preporučeni kupac se lakše zatvara, ali u izveštaju često izgleda kao klik na brend oglas. Kako tražiti preporuke u pravom trenutku i meriti ih odvojeno.",
+    "date": "2026-10-27",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-ciljanje-lokacije-prisustvo-interesovanje-srbija-2026",
     "title": "Ciljanje lokacije u Google Ads 2026: zašto plaćate klikove van svoje zone",
     "excerpt": "Google Ads podrazumevano prikazuje oglase i ljudima koji su samo pokazali interesovanje za vaš grad. Kako da nađete klikove van zone i prestanete da ih plaćate.",
