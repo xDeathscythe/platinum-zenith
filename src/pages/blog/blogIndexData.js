@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-perionice-tepiha-cena-preuzimanja-srbija-2026",
+    "title": "Google Ads za perionice tepiha u Srbiji 2026: cena upita i zone preuzimanja",
+    "excerpt": "Google Ads za perionicu tepiha isplati se kada upit postane preuzimanje u dobroj zoni. Kako da odredite cenu upita, minimalnu porudžbinu i budžet u sezoni.",
+    "date": "2026-10-28",
+    "category": "Google Ads",
+    "readTime": "9 min read",
+    "isDraft": false
+  },
+  {
     "slug": "preporuke-klijenata-izvor-leadova-prodaja-srbija-2026",
     "title": "Preporuke klijenata kao izvor leadova: kako ih tražiti i meriti 2026",
     "excerpt": "Preporučeni kupac se lakše zatvara, ali u izveštaju često izgleda kao klik na brend oglas. Kako tražiti preporuke u pravom trenutku i meriti ih odvojeno.",

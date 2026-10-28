@@ -1,5 +1,139 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-perionice-tepiha-cena-preuzimanja-srbija-2026',
+    title: 'Google Ads za perionice tepiha u Srbiji 2026: cena upita i zone preuzimanja',
+    excerpt: 'Google Ads za perionicu tepiha isplati se kada upit postane preuzimanje u dobroj zoni. Kako da odredite cenu upita, minimalnu porudžbinu i budžet u sezoni.',
+    date: '2026-10-28',
+    readTime: '9 min read',
+    category: 'Google Ads',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Perionice tepiha', 'Pranje tepiha', 'Cena upita', 'Marketing budžet', 'Lokalne usluge'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Poziv za pranje tepiha još nije posao
+
+Oktobar je mesec kada se tepisi vraćaju u stan. Ljudi ih skidaju posle leta, primete fleke od kafe i dlake od psa i ukucaju "pranje tepiha cena" ili "perionica tepiha preuzimanje". Svi ti ljudi kliknu isti oglas, ali ne vrede isto.
+
+Jedan ima tri velika tepiha u naselju gde vaše vozilo ionako prolazi dva puta nedeljno. Drugi ima jednu stazu od četiri kvadrata u selu 25 kilometara od pogona. Treći traži iznajmljivanje mašine da tepih opere sam u dvorištu. U Google Ads izveštaju sva trojica mogu da budu "konverzija".
+
+Zato perionica tepiha ne treba da meri kampanju brojem poziva. Kampanja vredi kada upit postane zakazano preuzimanje, oprani kvadrati i naplaćena isporuka u zoni gde ruta ima smisla. Sve ostalo je trošak koji u izveštaju izgleda kao uspeh.
+
+## Razdvojite usluge koje imaju različitu ekonomiju
+
+Pranje tepiha sa preuzimanjem, dubinsko pranje nameštaja u stanu i pranje itisona u poslovnom prostoru nisu ista prodaja. Imaju različitu cenu, različit rad na terenu i različitog kupca. Kada su u jednoj kampanji, budžet ode na ono što se najčešće pretražuje, a ne na ono što najviše zarađuje.
+
+Početna struktura može da izgleda ovako:
+
+- pranje tepiha sa besplatnim ili naplaćenim preuzimanjem i dostavom;
+- dubinsko pranje sedećih garnitura, fotelja i dušeka na adresi;
+- itisoni i tepisi za kancelarije, hotele, restorane i škole, kao posebna B2B grupa;
+- ručno tkani, vuneni i svileni tepisi, samo ako pogon stvarno ima postupak za njih;
+- hitno pranje sa kraćim rokom, ako kapacitet to dozvoljava.
+
+B2B upit za 300 kvadrata itisona traži drugačiju landing stranu, drugačija pitanja i drugačiji sledeći korak od porodice sa dva tepiha. Ako ih mešate, ni jedan ni drugi kupac ne dobija poruku koja mu odgovara.
+
+## Zona preuzimanja odlučuje da li porudžbina zarađuje
+
+Kod perionice tepiha marketing ne prodaje samo pranje. Prodaje i dve vožnje: preuzimanje i vraćanje. Ta vožnja košta gorivo, vreme vozača i mesto u ruti koje je mogao da zauzme drugi kupac.
+
+Uzmimo namerno pojednostavljen interni primer, ne tržišnu cenu. Prosečna porudžbina ima 14 kvadrata po 300 dinara, što je 4.200 dinara. Sredstva, voda, struja i rad u pogonu koštaju 90 dinara po kvadratu, ukupno 1.260 dinara.
+
+- U osnovnoj zoni, gde vozilo redovno prolazi, dve vožnje koštaju oko 400 dinara. Bruto doprinos porudžbine je 2.540 dinara, oko 60% prihoda.
+- Na obodu, gde vozilo ide posebno zbog jednog kupca, dve vožnje koštaju oko 1.200 dinara. Doprinos pada na 1.740 dinara, oko 41%.
+
+Ista porudžbina, ista cena, a osnovna zona ostavlja oko 46% više doprinosa po kupcu. Kod male porudžbine razlika postaje gubitak. Staza od četiri kvadrata na obodu donosi 1.200 dinara prihoda i oko 360 dinara minusa pre marketinga. U osnovnoj zoni ista staza još uvek ostavlja oko 440 dinara.
+
+Iz toga sledi pravilo koje zvuči manje primamljivo od "besplatno preuzimanje svuda": besplatno preuzimanje mora da ima zonu i minimalnu kvadraturu. U ovom primeru porudžbina na obodu pokriva svoju vožnju tek iznad oko šest kvadrata. Ispod toga firma plaća kupcu da joj da posao.
+
+Google u objašnjenju [ciljanja geografskih lokacija](https://support.google.com/google-ads/answer/2453995) navodi da oglas može da se prikaže i ljudima u obližnjim, povezanim oblastima, kao i da lokacija nije 100% precizna. Za perionicu to znači da podešavanje kampanje nije dovoljno. Opština ili naselje moraju da se potvrde u formi ili u prvom razgovoru. Detaljnije o razlici između stvarnog prisustva i interesovanja za lokaciju piše u vodiču o [ciljanju lokacije u Google Ads](/blog/google-ads-ciljanje-lokacije-prisustvo-interesovanje-srbija-2026).
+
+## Koliko sme da košta upit
+
+Limit za cenu upita računa se unazad, iz doprinosa porudžbine i procenta upita koji stvarno postanu preuzimanje. Deo ljudi samo pita cenu po kvadratu i nestane. Deo je izvan zone. Deo traži uslugu koju ne radite.
+
+Ako firma odluči da prva porudžbina sme da pokrije ceo trošak akvizicije, a 60% upita postane preuzimanje, računica u našem primeru izgleda ovako:
+
+- osnovna zona: 2.540 × 60% = oko 1.520 dinara maksimalno po upitu;
+- obod: 1.740 × 60% = oko 1.040 dinara maksimalno po upitu.
+
+Ovo je gornja granica, ne cilj. Ako vam isti upit iz oboda košta koliko i iz centra, a obod donosi manji doprinos, blendovani CPL vam lepo izgleda u izveštaju dok prodaja tiho gubi novac na rutama. Postupak za limit po vašim brojevima opisan je u tekstu o [maksimalnoj ceni leada](/blog/maksimalna-cena-leada-srbija-2026), a uticaj vožnje i terena na računicu u tekstu o [trošku isporuke](/blog/trosak-isporuke-marketing-budzet-lead-generation-srbija-2026).
+
+## Ponovni kupac je pravi profit
+
+Pranje tepiha nije jednokratna kupovina. Carpet and Rug Institute [preporučuje profesionalno dubinsko pranje tepiha na svakih 12 do 18 meseci](https://carpet-rug.org/carpet-for-homes/cleaning-and-maintenance/). Domaćinstvo koje je zadovoljno, ima vaš broj i dobija podsetnik pre sledeće sezone ne mora ponovo da se kupuje preko oglasa.
+
+U primeru iz osnovne zone tri porudžbine za tri godine donose oko 7.620 dinara doprinosa od jednog kupca. Na obodu je to oko 5.220. Zato je prva porudžbina ulaz, a ne ceo posao. Perionica koja ne vodi listu kupaca sa datumom poslednjeg pranja plaća Google svake jeseni za iste ljude.
+
+Više o tome kako ponovljena kupovina menja prihvatljiv budžet piše u vodiču o [vrednosti klijenta i LTV](/blog/vrednost-klijenta-ltv-marketing-budzet-srbija-2026).
+
+## Kapacitet sušenja je granica budžeta
+
+U sezoni perionica ne stane zbog nedostatka poziva. Stane zbog sušenja. Kada pada kiša nedelju dana, a pogon ima ograničen prostor za sušenje, rok isporuke se produžava, kupci zovu da pitaju gde im je tepih i deo otkazuje.
+
+Opet interni primer. Pogon može da osuši oko 250 kvadrata dnevno, što je oko 18 prosečnih porudžbina. Ako kampanja u jednoj jesenjoj nedelji dovede 30 preuzimanja dnevno, sedam dana prijema puni skoro 12 dana rada. Firma koja je obećala rok od četiri dana sada kasni nedelju dana.
+
+Zato budžet u sezoni treba da prati slobodne termine, a ne želju da se uhvati svaki klik. Kada je raspored pun, suzite zonu, smanjite budžet za skupe pretrage i na landing strani napišite pravi rok. Google u objašnjenju [rasporeda oglasa](https://support.google.com/google-ads/answer/2404244) navodi da oglase možete da ograničite na određene dane i sate. To je koristan alat kada telefon ne može da se javi vikendom ili kada vozač ne radi nedeljom.
+
+Plan za sezonu po fazama nalazi se u tekstu o [sezonskom marketing budžetu](/blog/sezonski-marketing-budzet-lead-generation-srbija-2026), a odnos između budžeta i iskorišćenja pogona u tekstu o [iskorišćenosti kapaciteta](/blog/iskoriscenost-kapaciteta-marketing-budzet-roi-srbija-2026).
+
+## Forma treba da pita ono što menja rutu i cenu
+
+Ime i telefon nisu dovoljni da se zakaže preuzimanje. Vozaču treba adresa, a pogonu podatak šta stiže.
+
+Kratka forma ili WhatsApp poruka može da traži:
+
+- opštinu ili naselje i da li je u pitanju kuća ili zgrada sa liftom;
+- broj tepiha i približne dimenzije, ili fotografiju;
+- vrstu tepiha: mašinski, ručno tkani, vuneni, itison;
+- posebne fleke, mokraću ljubimaca ili miris;
+- željeni dan preuzimanja;
+- da li kupac želi i pranje nameštaja na adresi.
+
+Kupac ne mora da zna tačnu kvadraturu. Fotografija tepiha pored vrata često je dovoljna da se proceni red veličine. Model za kratku formu koja filtrira bez gubitka ozbiljnih kupaca opisan je u vodiču za [kvalifikaciju leadova](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026).
+
+Jedan propušten poziv u sezoni je izgubljeno preuzimanje, jer kupac odmah zove sledeću perionicu sa liste. Ako niko ne stiže da se javi dok vozi, pogledajte šta piše u tekstu o [propuštenim pozivima iz kampanja](/blog/propusteni-pozivi-iz-kampanja-leadovi-prodaja-srbija-2026).
+
+## Negativne ključne reči koje štede budžet perionice
+
+Reč "tepih" ne znači da neko traži uslugu. Ljudi traže tepihe za kupovinu, mašine, sredstva i uputstva. Početna lista negativnih pojmova obično obuhvata:
+
+- kupovinu tepiha: prodaja, akcija, Jysk, Ikea, staze na metar;
+- mašine i opremu: iznajmljivanje mašine, Kärcher, usisivač, aparat za pranje tepiha;
+- sredstva: šampon za tepih, Vanish, sredstvo za fleke;
+- uradi sam: kako oprati tepih, pranje tepiha kod kuće, soda bikarbona;
+- posao i zaposlenje u perionicama;
+- gradove i naselja izvan zone preuzimanja.
+
+Listu proširujte iz stvarnog izveštaja pretraga, a ne napamet. "Pranje tepiha cena" je komercijalna pretraga. "Pranje tepiha kod kuće" skoro nikada nije.
+
+## Konverzija je preuzimanje, ne klik na telefon
+
+Ako Google Ads dobija signal za svaki poziv i svaku poruku, kampanja uči da donosi pozive. Ne uči da donosi tepihe u pogon. Status koji zaista znači nešto je zakazano i obavljeno preuzimanje, sa opštinom i kvadraturom.
+
+Minimalni statusi u tabeli ili CRM-u:
+
+- izvan zone ili pogrešna usluga;
+- pitao samo cenu;
+- preuzimanje zakazano;
+- preuzeto, sa brojem kvadrata;
+- vraćeno i naplaćeno;
+- otkazano, sa razlogom.
+
+Kada ove statuse povežete sa kampanjom, prvi put vidite koje pretrage donose velike porudžbine u dobroj zoni, a koje donose pozive od kojih nema ničeg. Kako to povezati sa Google Ads objašnjava tekst o [praćenju konverzija](/blog/pracenje-konverzija-lead-generation-srbija-2026).
+
+## Početni plan za jednu sezonu
+
+Krenite sa osnovnom zonom i dve grupe oglasa: tepisi sa preuzimanjem i dubinsko pranje nameštaja. Na landing strani objavite cenu po kvadratu ili raspon, zonu besplatnog preuzimanja, minimalnu porudžbinu i realan rok. Merite preuzete kvadrate po zoni, ne pozive. Tek kada osnovna zona radi i pogon ima slobodne termine, širite kampanju na obod i B2B.
+
+Sličan model za perionice vozila opisan je u tekstu o [Google Ads za auto perionice](/blog/google-ads-za-auto-perionice-detailing-cena-pranja-srbija-2026), a za firme koje rade čišćenje prostora u vodiču o [Google Ads za firme za čišćenje](/blog/google-ads-za-firme-za-ciscenje-cena-upita-srbija-2026). Okvir za trošak klika i budžet nalazi se na strani [cena Google reklama](/google-reklame-cena), a za ukupan plan na strani [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+Ako vodite perionicu tepiha i želite kampanju koja puni rute, a ne samo telefon, pošaljite kroz [kontakt formu](/kontakt) zone preuzimanja, cenu po kvadratu, prosečnu porudžbinu, dnevni kapacitet sušenja i koliko kupaca vam se vraća sledeće godine. Napravićemo plan u kome budžet prati kvadrate koje pogon može da opere i vrati na vreme.
+`,
+  },
+  {
     slug: 'preporuke-klijenata-izvor-leadova-prodaja-srbija-2026',
     title: 'Preporuke klijenata kao izvor leadova: kako ih tražiti i meriti 2026',
     excerpt: 'Preporučeni kupac se lakše zatvara, ali u izveštaju često izgleda kao klik na brend oglas. Kako tražiti preporuke u pravom trenutku i meriti ih odvojeno.',
