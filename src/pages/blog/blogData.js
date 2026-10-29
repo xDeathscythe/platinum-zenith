@@ -1,5 +1,127 @@
 const rawBlogPosts = [
   {
+    slug: 'marketing-budzet-za-2027-plan-iz-brojeva-2026-srbija',
+    title: 'Marketing budžet za 2027: kako ga isplanirati iz brojeva iz 2026',
+    excerpt: 'Prošlogodišnji budžet plus 10% nije plan. Kako da marketing budžet za 2027. izračunate iz upita, stope zatvaranja i kapaciteta prodaje koje ste imali u 2026.',
+    date: '2026-10-29',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Marketing budžet', 'Planiranje budžeta', '2027', 'Marketing ROI', 'Lead generation', 'Google Ads'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Budžet za sledeću godinu se najčešće piše napamet
+
+Krajem godine vlasnik firme sedne sa knjigovođom ili finansijskim direktorom i dobije pitanje: koliko ide na marketing u 2027? Najčešći odgovor je isti iznos kao ove godine, plus 10% "jer sve poskupljuje". Ako je jesen bila slaba, ide minus 20%.
+
+Oba broja imaju istu manu. Nastala su iz troška, a ne iz cilja. Niko nije pitao koliko poslova firma treba da zatvori sledeće godine, koliko kvalifikovanih upita za to treba i da li prodaja može da ih obradi.
+
+Marketing budžet za 2027. treba da izađe iz brojeva koje firma već ima iz 2026. Ne iz utiska kako je godina prošla.
+
+## Prvo izvucite brojeve iz 2026, za svaku ponudu posebno
+
+Pre bilo kakvog plana treba vam kratka tabela. Ako firma prodaje više usluga sa različitom maržom, svaka dobija svoj red:
+
+- ukupna potrošnja na oglase i rad na kampanjama;
+- broj kvalifikovanih upita, ne svih poruka i poziva;
+- broj zatvorenih poslova iz tih upita;
+- prosečna bruto dobit po poslu, posle direktnih troškova isporuke;
+- meseci u kojima praćenje nije radilo ili je kampanja bila ugašena.
+
+Poslednja stavka je važnija nego što izgleda. Ako je forma tri meseca slala upite na mejl koji niko nije čitao, ti meseci ne govore ništa o kampanji. Izbacite ih iz proseka ili ih jasno označite.
+
+Ako nemate CRM, uzmite ono što prodaja već vodi: tabelu, svesku, istoriju poruka. Brojevi neće biti savršeni, ali biće stvarni. Kako izgleda izveštaj koji ove podatke skuplja svake nedelje opisano je u tekstu o [nedeljnom prodajnom izveštaju](/blog/nedeljni-prodajni-izvestaj-leadovi-pipeline-srbija-2026), a šta se računa kao kvalifikovan upit u vodiču o [ceni kvalifikovanog leada](/blog/cena-kvalifikovanog-leada-marketing-budzet-srbija-2026).
+
+## Primer: firma koja je u 2026. potrošila 1,8 miliona
+
+Ovo je namerno pojednostavljen interni primer, ne tržišni prosek. Uslužna firma je u 2026. potrošila 1.800.000 dinara na Google Ads i rad na kampanjama, oko 150.000 mesečno. Dobila je 240 kvalifikovanih upita i zatvorila 48 poslova. Prosečna bruto dobit po poslu je 90.000 dinara.
+
+Iz toga izlazi:
+
+- kvalifikovan upit je koštao 7.500 dinara;
+- stopa zatvaranja je 20%;
+- jedan kupac je koštao 37.500 dinara;
+- kampanje su donele 4.320.000 dinara bruto dobiti, 2,4 puta više od uloženog.
+
+Vlasnik želi da marketing u 2027. donese 6.000.000 dinara bruto dobiti. To je konkretan cilj, i od njega se kreće.
+
+## Zašto "prošle godine plus 10%" ne stiže do cilja
+
+Budžet od 1.980.000 dinara, uz istu cenu upita, kupuje 264 kvalifikovana upita. Uz 20% zatvaranja to je oko 53 posla i oko 4.750.000 dinara bruto dobiti. Firma je povećala budžet i opet promašila cilj za oko 1.250.000 dinara.
+
+Računica unazad izgleda drugačije. Za 6.000.000 dinara treba 67 poslova od po 90.000. Uz 20% zatvaranja to traži 335 kvalifikovanih upita. Po ceni iz 2026. budžet je 2.512.500 dinara.
+
+Cena klika neće stajati u mestu, pa u plan ubacite i pretpostavku da će upit poskupeti. Ako je to 10% (vaša pretpostavka, ne prognoza tržišta), upit košta 8.250 dinara, a budžet raste na 2.763.750. To je oko 54% više nego u 2026, a ne 10%.
+
+Ovaj broj može da iznenadi upravu. Bolje je da iznenadi u novembru nego u septembru, kada se vidi da cilj neće biti ispunjen. Ako je 54% više neprihvatljivo, ne smanjujte budžet i ne nadajte se istom cilju. Smanjite cilj ili nađite gde se diže stopa zatvaranja. Ceo postupak od cilja prodaje do broja upita objašnjen je u tekstu o tome [koliko leadova treba za cilj prodaje](/blog/koliko-leadova-za-cilj-prodaje-marketing-budzet-srbija-2026).
+
+## Proverite da li prodaja može da primi te upite
+
+335 upita godišnje je oko 28 mesečno. Prosek izgleda bezbedno, ali potražnja nije ravna. Ako po 30% upita stiže u drugom i četvrtom kvartalu, ti meseci traže oko 34 upita mesečno.
+
+Recimo da prodaja ozbiljno obradi najviše 30 upita mesečno: javi se na vreme, postavi prava pitanja, pošalje ponudu i nazove ponovo. Sve preko toga čeka ili se obradi na brzinu. U primeru, uz tu granicu, firma realno obradi 314 upita, zatvori oko 63 posla i stigne do oko 5.650.000 dinara. Fali oko 350.000.
+
+Dodatni budžet tu ništa ne rešava. Kupio bi upite na koje niko neće stići. Rešenje je dodatna osoba u prodaji tokom jačih meseci, bolja stopa zatvaranja ili manji cilj. U ovom primeru cilj se dostiže sa 314 upita ako stopa zatvaranja poraste sa 20% na oko 21,2%. To je mala razlika. Proverite koliko košta da se do nje dođe pre nego što odobrite novi budžet.
+
+Više o tome kako prodaja ograničava budžet piše u tekstu o [kapacitetu prodaje](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026), a o tome šta pomera procenat zatvorenih poslova u vodiču o [stopi zatvaranja leadova](/blog/stopa-zatvaranja-leadova-marketing-budzet-srbija-2026).
+
+## Budžet odobrite po kvartalima, ne za celu godinu odjednom
+
+Godišnji broj je okvir. Novac se pušta kvartal po kvartal, uz pravila koja su dogovorena pre nego što su rezultati stigli.
+
+U primeru prvi kvartal dobija oko 550.000 dinara, za 67 planiranih upita po 8.250. Na kraju marta gledate dva broja: koliko je koštao kvalifikovan upit i koliko ih je postalo posao.
+
+Granicu postavite unapred. Ako firma pristaje da na jednog kupca potroši najviše polovinu bruto dobiti od posla, to je 45.000 dinara. Uz 20% zatvaranja kvalifikovan upit sme da košta najviše 9.000 dinara. Na 18.000 firma radi na nuli.
+
+Ako je upit u prvom kvartalu koštao 9.800 dinara, a zatvoreno je samo 15%, kupac je koštao oko 65.000 dinara. Drugi kvartal tada ne dobija planirani budžet automatski. Prvo se popravlja ono što je puklo: forma, prvi odgovor, ponuda ili landing strana. Tek onda novac.
+
+Iznad plana ostavite rezervu od 10 do 15% za ispravke koje prvi podaci pokažu. U primeru je 12% oko 330.000 dinara. Kako se ta rezerva troši opisano je u tekstu o [rezervnom marketing budžetu](/blog/rezervni-marketing-budzet-korekcije-lead-generation-srbija-2026). Koliko podataka treba pre odluke o promeni objašnjava vodič [koliko podataka pre promene budžeta](/blog/koliko-podataka-pre-promene-marketing-budzeta-srbija-2026), a zašto prvih nekoliko nedelja ne govori mnogo o ROI-u tekst o [budžetskom horizontu](/blog/budzetski-horizont-lead-generation-roi-srbija-2026).
+
+## Procenat prihoda je provera, ne plan
+
+Drugi čest pristup je da se marketingu da fiksni procenat prihoda. Gartner u [anketi CMO Spend Survey za 2026](https://www.gartner.com/en/newsroom/press-releases/2026-05-11-gartner-2026-cmo-spend-survey-finds-cmos-allocate-15-point-3-percent-of-marketing-budgets-to-ai-but-only-30-percent-are-ready-to-scale-ai-capabilities) navodi da su marketing budžeti 7,8% prihoda kompanije, posle 7,7% u 2025.
+
+Pogledajte ko je odgovarao. Anketa je rađena sa 401 marketing direktorom u Severnoj Americi, Velikoj Britaniji i Evropi, a većina firmi ima godišnji prihod veći od milijardu dolara. Za lokalnu uslužnu firmu u Srbiji to nije cilj. Može da posluži kao gruba provera: ako vam plan izračunat iz upita traži četvrtinu prihoda, nešto u ponudi, ceni ili računici ne valja. Benchmark podaci po industrijama nalaze se u tekstu o tome [koliko firme troše na marketing](/blog/koliko-firme-trose-na-marketing-procenat-prihoda-po-industriji-2026).
+
+## Google prognoze gledaju nekoliko dana unazad
+
+Google Ads ima Performance Planner, alat koji prognozira šta dobijate sa većim ili manjim budžetom. U [objašnjenju alata](https://support.google.com/google-ads/answer/9230124) Google navodi da se prognoze osvežavaju svakog dana i zasnivaju na poslednjih 7 do 10 dana, uz prilagođavanje sezoni.
+
+To je korisno za pitanje "šta dobijam ako u ovom kvartalu dodam 100.000 dinara". Za godišnji plan nije dovoljno. Alat ne zna vašu stopu zatvaranja, bruto dobit ni koliko upita prodaja stiže da obradi. Prognozira konverzije koje Google vidi. Ako je konverzija svaki klik na telefon, prognoza je broj klikova na telefon. Zato pre planiranja proverite šta kampanja zaista meri, kako piše u tekstu o [kvalifikovanim konverzijama](/blog/kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026).
+
+## Šta ide u budžet osim klikova
+
+Plan koji pokriva samo oglase obično pukne u martu, kada se ispostavi da landing strana nije spremna ili da niko ne povezuje upite sa ishodom. U budžet za 2027. upišite posebne stavke:
+
+- novac za oglase po kanalima i kvartalima;
+- rad na kampanjama, interno ili kroz agenciju;
+- landing strane i izmene sajta koje nove kampanje traže;
+- praćenje konverzija i vođenje upita u CRM-u;
+- vreme prodaje, ako se upita očekuje više nego ove godine.
+
+Kako se novac deli između tih stavki objašnjava tekst o [raspodeli marketing budžeta](/blog/raspodela-marketing-budzeta-oglasi-sajt-prodaja-srbija-2026). Okvir za cenu klikova nalazi se na strani [cena Google reklama](/google-reklame-cena), a za ukupan trošak rada na strani [cene digitalnog marketinga](/cene-digitalnog-marketinga). Brzu računicu povrata možete da uradite u [ROI kalkulatoru](/alati/roi-kalkulator).
+
+## Jedna strana za sastanak o budžetu
+
+Na sastanak ne nosite prezentaciju. Nosite jednu stranu po ponudi, sa ovim redovima:
+
+1. potrošnja, kvalifikovani upiti, zatvoreni poslovi i bruto dobit iz 2026;
+2. cilj za 2027, izražen u bruto dobiti, ne u broju upita;
+3. broj upita koji cilj traži uz sadašnju stopu zatvaranja;
+4. najviša cena upita koju firma prihvata;
+5. koliko upita prodaja može da obradi po mesecu;
+6. budžet po kvartalima, sa rezervom;
+7. pravilo šta se dešava ako prvi kvartal promaši granicu.
+
+Ako neki red ne možete da popunite, to je prvi zadatak za januar. Ne treba ga rešavati većim budžetom.
+
+Ako planirate marketing za 2027. i želite da neko proveri računicu pre nego što je uprava odobri, pošaljite nam kroz [kontakt formu](/kontakt) potrošnju i broj kvalifikovanih upita iz 2026, broj zatvorenih poslova, prosečnu bruto dobit po poslu i cilj za sledeću godinu. Vratićemo vam plan po kvartalima i tačno mesto gde se brojevi ne slažu.
+`,
+  },
+  {
     slug: 'google-ads-za-perionice-tepiha-cena-preuzimanja-srbija-2026',
     title: 'Google Ads za perionice tepiha u Srbiji 2026: cena upita i zone preuzimanja',
     excerpt: 'Google Ads za perionicu tepiha isplati se kada upit postane preuzimanje u dobroj zoni. Kako da odredite cenu upita, minimalnu porudžbinu i budžet u sezoni.',

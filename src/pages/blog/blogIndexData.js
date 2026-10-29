@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "marketing-budzet-za-2027-plan-iz-brojeva-2026-srbija",
+    "title": "Marketing budžet za 2027: kako ga isplanirati iz brojeva iz 2026",
+    "excerpt": "Prošlogodišnji budžet plus 10% nije plan. Kako da marketing budžet za 2027. izračunate iz upita, stope zatvaranja i kapaciteta prodaje koje ste imali u 2026.",
+    "date": "2026-10-29",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-perionice-tepiha-cena-preuzimanja-srbija-2026",
     "title": "Google Ads za perionice tepiha u Srbiji 2026: cena upita i zone preuzimanja",
     "excerpt": "Google Ads za perionicu tepiha isplati se kada upit postane preuzimanje u dobroj zoni. Kako da odredite cenu upita, minimalnu porudžbinu i budžet u sezoni.",
