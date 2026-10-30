@@ -1,5 +1,113 @@
 const rawBlogPosts = [
   {
+    slug: 'tipovi-podudaranja-kljucnih-reci-google-ads-lead-generation-srbija-2026',
+    title: 'Tipovi podudaranja u Google Ads: široko, frazno ili tačno za firme koje traže upite',
+    excerpt: 'Široko podudaranje je podrazumevano u Google Ads i lako troši budžet na pogrešne pretrage. Kako da izaberete tip podudaranja i negativne reči na srpskom.',
+    date: '2026-10-30',
+    readTime: '8 min read',
+    category: 'Google Ads',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Ključne reči', 'Tipovi podudaranja', 'Negativne ključne reči', 'CPL', 'Lead generation'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Plaćate pretragu, a ne ključnu reč
+
+Firma koja ugrađuje klima uređaje ubaci u Google Ads ključnu reč ugradnja klime i pusti kampanju. Posle mesec dana u nalogu vidi tu ključnu reč, solidan CTR i prihvatljivu cenu klika. Ono što ne vidi na prvi pogled je spisak stvarnih pretraga za koje je platila: "kako sam da ugradim klimu", "ugradnja klime posao", "polovna klima sa ugradnjom", "šema za povezivanje spoljne jedinice".
+
+Ključna reč je samo uputstvo Google-u. Novac odlazi na pretrage koje Google proceni kao dovoljno slične. Koliko slične, to određuje tip podudaranja. Kod firmi koje žive od upita, to podešavanje može da odluči da li će isti budžet doneti 26 ili 36 dobrih upita, kao u primeru niže.
+
+## Šta Google kaže o tri tipa podudaranja
+
+Google u svojoj [pomoći za tipove podudaranja](https://support.google.com/google-ads/answer/7478529?hl=en) opisuje tri opcije:
+
+- **Široko podudaranje:** oglas može da se prikaže na pretragama koje su povezane sa ključnom reči, uključujući i one koje ne sadrže njeno direktno značenje. Piše se bez znakova: ugradnja klime.
+- **Frazno podudaranje:** oglas se prikazuje na pretragama koje sadrže značenje ključne reči, i kada je pretraga uža i konkretnija. Piše se pod navodnicima: "ugradnja klime".
+- **Tačno podudaranje:** oglas se prikazuje na pretragama istog značenja ili iste namere. Piše se u uglastim zagradama: [ugradnja klime].
+
+Dve rečenice sa iste strane objašnjavaju zašto mnogi nalozi troše više nego što treba. Prva: široko podudaranje je podrazumevani tip koji dobija svaka nova ključna reč. Ako niste ništa birali, imate široko podudaranje. Druga: Google piše da Smart Bidding najbolje radi sa širokim podudaranjem, jer mu širok skup pretraga daje prostor da uči.
+
+To je tačno, ali ima uslov koji se lako preskoči. Algoritam uči iz konverzija koje mu šaljete. Ako je konverzija svaka poslata forma, uključujući i ljude koji traže posao ili delove, on će naučiti da kupuje baš takve pretrage.
+
+## Kada široko podudaranje troši novac, a kada radi
+
+Široko podudaranje ima smisla kada su ispunjena tri uslova:
+
+1. Konverzija u nalogu je kvalifikovan upit ili zakazan posao, a ne svaki klik na dugme. Kako se to podešava, objasnili smo u tekstu o [kvalifikovanim konverzijama u Google Ads](/blog/kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026).
+2. Kampanja već ima dovoljno takvih konverzija da algoritam ima iz čega da uči.
+3. Neko svake nedelje čita izveštaj o pretraživanim terminima i dodaje negativne ključne reči.
+
+Lokalna uslužna firma sa budžetom od nekoliko desetina hiljada dinara mesečno retko ispunjava sva tri. Najčešće broji svaku formu kao konverziju i ima desetak upita mesečno. Tada široko podudaranje ne znači pametnije licitiranje. Znači da Google dobija širu dozvolu da troši, a malo podataka za korekciju.
+
+Zato je za takav nalog bolji početak frazno i tačno podudaranje na ključnim uslugama, sa jasno postavljenim negativnim listama. Široko podudaranje dodajte kasnije, u zasebnoj kampanji ili grupi oglasa, kada imate čist signal i dovoljno konverzija. Tada ga merite odvojeno, da vidite da li donosi nove kupce ili samo skuplje klikove na pretragama koje ste već pokrivali. Više o izboru strategije licitiranja imate u tekstu o [Smart Bidding i ručnom licitiranju](/blog/google-ads-smart-bidding-vs-manual-statistika-2026).
+
+## Računica: koliko košta jedan nepročitan izveštaj
+
+Primer je izmišljen, ali brojevi su tipični za lokalnu uslužnu firmu.
+
+Firma troši 60.000 dinara mesečno, po prosečnoj ceni klika od 50 dinara. To je 1.200 klikova. Kada se otvori izveštaj o pretraživanim terminima, 420 klikova dolazi sa pretraga koje firma ne može da proda: posao, polovna oprema, uradi sam, rezervni delovi. To je 21.000 dinara, ili 35% budžeta. Iz tih klikova stigla su dva upita, oba neupotrebljiva.
+
+Preostalih 780 klikova donelo je 26 dobrih upita. Nalog prikazuje 28 konverzija i CPL od oko 2.143 dinara. Stvarna cena upotrebljivog upita je oko 2.308 dinara.
+
+Posle čišćenja ista firma ostavi isti budžet samo na relevantnim pretragama. Pretpostavimo da klik poskupi na 55 dinara, jer ostaju aukcije gde je konkurencija ozbiljnija. Za 60.000 dinara to je oko 1.091 klik. Sa istom stopom konverzije od 3,3% to je oko 36 dobrih upita i CPL od oko 1.650 dinara.
+
+Isti novac, deset upita više. Godišnje je razlika 252.000 dinara koji su išli na ljude koji nikada nisu mogli da postanu kupci. Koliko upit sme da košta za vašu maržu, proverite u tekstu o [maksimalnoj ceni leada](/blog/maksimalna-cena-leada-srbija-2026) ili u [ROI kalkulatoru](/alati/roi-kalkulator).
+
+## Negativne ključne reči i srpski padeži
+
+Ovde srpski jezik pravi problem koji se u engleskim vodičima ne pominje.
+
+Google u tekstu o [negativnim ključnim rečima](https://support.google.com/google-ads/answer/2453972?hl=en) piše da negativne ključne reči ne hvataju bliske varijante. Sinonime i oblike jednine i množine morate da dodate sami. Velika i mala slova i greške u kucanju se računaju automatski.
+
+Za jezik sa sedam padeža to znači sledeće. Negativna reč posao ne blokira automatski pretrage sa rečima posla, poslove ili poslovi. Isto važi za polovan, polovna, polovni i polovne, ili za besplatan, besplatna i besplatno.
+
+Praktično, svaku negativnu reč koja vam je važna upišite u oblicima u kojima ljudi stvarno pretražuju:
+
+- **Posao i zaposlenje:** posao, posla, poslovi, oglas za posao, plata, zaposlenje, majstor traži.
+- **Uradi sam:** uradi sam, kako sam, kako da, šema, uputstvo, video.
+- **Polovno i delovi:** polovan, polovna, polovni, delovi, rezervni deo, prodaja delova.
+- **Besplatno:** besplatan, besplatna, besplatno.
+- **Ćirilica:** ključne negativne reči dodajte i ćirilicom, na primer посао i половни, jer deo ljudi pretražuje na ćirilici.
+
+Google ne navodi da negativne reči hvataju oblik bez kvačica, pa reči sa č, ć, š, ž i đ upišite u oba oblika: šema i sema.
+
+Napravite jednu deljenu listu za ceo nalog i posebne liste za usluge koje ne radite. Tako jednu reč dodajete jednom, a ne u svaku kampanju posebno.
+
+## Kako se čita izveštaj o pretraživanim terminima
+
+U Google Ads interfejsu na engleskom izveštaj je u meniju Insights and reports, stavka Search terms. Jedna napomena iz [Google pomoći za ovaj izveštaj](https://support.google.com/google-ads/answer/2472708?hl=en): prikazuju se pretrage koje je koristio značajan broj ljudi. Retke pretrage se ne vide, pa izveštaj ne pokazuje ceo trošak. Zato su negativne liste unapred važne, a ne samo reakcija na ono što ste videli.
+
+Rutina koja traje 20 minuta nedeljno:
+
+1. Postavite period na poslednjih 7 do 14 dana i sortirajte po trošku, od najvećeg.
+2. Svaku pretragu svrstajte u jednu od tri grupe. Dobra: dodajte je kao frazno ili tačno podudaranje. Nebitna: dodajte je u negativnu listu, u svim padežima koji imaju smisla. Nejasna: ostavite je i proverite sledeće nedelje.
+3. Uporedite pretrage sa upitima u CRM-u. Pretraga koja donosi forme, a nijedan zakazan posao, nije dobra pretraga.
+4. Proverite da li tekst oglasa i landing strana odgovaraju pretragama koje stvarno donose posao. Ako ljudi traže servis, a stranica prodaje ugradnju, problem nije u ključnoj reči. O tome smo pisali u tekstu o [usklađenosti oglasa i landing strane](/blog/uskladjenost-oglasa-landing-strane-konverzija-srbija-2026).
+
+Ako u izveštaju vidite pretrage iz gradova u kojima ne radite, to je drugi problem: podešavanje lokacije. Objašnjenje je u tekstu o [ciljanju lokacije u Google Ads](/blog/google-ads-ciljanje-lokacije-prisustvo-interesovanje-srbija-2026).
+
+## Struktura koju preporučujemo za firme koje žive od upita
+
+Za lokalnu ili B2B uslužnu firmu sa ograničenim budžetom:
+
+- **Ključne usluge** na frazno i tačno podudaranje, grupisane po usluzi, sa landing stranom za svaku uslugu.
+- **Deljena negativna lista** za ceo nalog, sa svim padežima, i ćirilicom gde je bitno.
+- **Konverzija** koja znači kvalifikovan upit, ne svaki klik na formu.
+- **Široko podudaranje** tek kada se ispune uslovi gore, u odvojenoj kampanji, uz poređenje CPL-a dobrih upita sa ostatkom naloga.
+- **Brend pretrage** odvojene od ostalih, da ne ulepšavaju prosečan CPL. Zašto je to važno, objašnjeno je u tekstu o [brend kampanji i ROI-ju](/blog/brend-kampanja-google-ads-roi-budzet-srbija-2026).
+
+Struktura je jednostavna i ne traži skupe alate. Teži deo je da je neko održava svake nedelje. Okvirne cene vođenja kampanja su na stranici [Google Ads cena](/google-reklame-cena) i u pregledu [cena digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Šta da uradite danas
+
+Otvorite izveštaj o pretraživanim terminima za poslednjih 90 dana i saberite trošak pretraga koje vaša firma ne može da proda. Ako je taj broj veći od 15% budžeta, prvo sredite negativne liste i tipove podudaranja. Tek posle toga dodajte nove ključne reči ili povećajte budžet.
+
+Ako želite da to proverimo zajedno, pošaljite kroz [kontakt formu](/kontakt) koje usluge prodajete, gradove u kojima radite i mesečni budžet. Proći ćemo pretraživane termine, tipove podudaranja i negativne liste i reći vam koliko budžeta odlazi na pretrage koje ne mogu da postanu posao.
+`,
+  },
+  {
     slug: 'marketing-budzet-za-2027-plan-iz-brojeva-2026-srbija',
     title: 'Marketing budžet za 2027: kako ga isplanirati iz brojeva iz 2026',
     excerpt: 'Prošlogodišnji budžet plus 10% nije plan. Kako da marketing budžet za 2027. izračunate iz upita, stope zatvaranja i kapaciteta prodaje koje ste imali u 2026.',

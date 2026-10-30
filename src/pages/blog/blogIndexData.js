@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "tipovi-podudaranja-kljucnih-reci-google-ads-lead-generation-srbija-2026",
+    "title": "Tipovi podudaranja u Google Ads: široko, frazno ili tačno za firme koje traže upite",
+    "excerpt": "Široko podudaranje je podrazumevano u Google Ads i lako troši budžet na pogrešne pretrage. Kako da izaberete tip podudaranja i negativne reči na srpskom.",
+    "date": "2026-10-30",
+    "category": "Google Ads",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "marketing-budzet-za-2027-plan-iz-brojeva-2026-srbija",
     "title": "Marketing budžet za 2027: kako ga isplanirati iz brojeva iz 2026",
     "excerpt": "Prošlogodišnji budžet plus 10% nije plan. Kako da marketing budžet za 2027. izračunate iz upita, stope zatvaranja i kapaciteta prodaje koje ste imali u 2026.",
