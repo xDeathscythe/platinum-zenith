@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "test-upit-tajni-kupac-provera-prodaje-leadovi-srbija-2026",
+    "title": "Test upit sopstvenoj firmi: šta se zaista dešava sa leadom koji ste platili",
+    "excerpt": "Pošaljite upit sopstvenoj firmi kao kupac i zabeležite vreme odgovora, pitanja i sledeći korak. Tako vidite gde se gube plaćeni leadovi pre nego što okrivite kampanju.",
+    "date": "2026-10-31",
+    "category": "Marketing",
+    "readTime": "9 min read",
+    "isDraft": false
+  },
+  {
     "slug": "tipovi-podudaranja-kljucnih-reci-google-ads-lead-generation-srbija-2026",
     "title": "Tipovi podudaranja u Google Ads: široko, frazno ili tačno za firme koje traže upite",
     "excerpt": "Široko podudaranje je podrazumevano u Google Ads i lako troši budžet na pogrešne pretrage. Kako da izaberete tip podudaranja i negativne reči na srpskom.",

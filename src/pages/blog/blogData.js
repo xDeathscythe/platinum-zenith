@@ -1,5 +1,114 @@
 const rawBlogPosts = [
   {
+    slug: 'test-upit-tajni-kupac-provera-prodaje-leadovi-srbija-2026',
+    title: 'Test upit sopstvenoj firmi: šta se zaista dešava sa leadom koji ste platili',
+    excerpt: 'Pošaljite upit sopstvenoj firmi kao kupac i zabeležite vreme odgovora, pitanja i sledeći korak. Tako vidite gde se gube plaćeni leadovi pre nego što okrivite kampanju.',
+    date: '2026-10-31',
+    readTime: '9 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Test upit', 'Tajni kupac', 'Prodajni proces', 'Lead generation', 'CRM', 'Konverzija'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Kampanja vidi upit, kupac vidi ostatak
+
+Vlasnik firme otvori Google Ads i vidi 40 upita za mesec dana. Otvori knjigu poslova i vidi šest novih klijenata. Prvo pitanje je skoro uvek isto: da li kampanja dovodi pogrešne ljude?
+
+Ponekad dovodi. Ali postoji jednostavnija provera koju većina firmi nikada ne uradi: pošaljite upit sopstvenoj firmi, kao kupac, i pogledajte šta se desi. Koliko dugo čekate odgovor. Ko vam se javi. Da li vas iko pita nešto što menja ponudu. Da li posle prve poruke dobijete datum, cenu, termin ili samo "javićemo se".
+
+To je test upit, u prodaji poznat i kao tajni kupac. Traje dva sata mesečno i pokazuje ono što izveštaj iz Google Ads naloga ne može da pokaže: iskustvo čoveka koga ste upravo platili da dođe.
+
+## Zašto izveštaji ne pokazuju gde se lead gubi
+
+Google Ads broji konverziju u trenutku kada je forma poslata ili je poziv trajao dovoljno dugo. Posle toga nalog ne zna ništa. CRM zna samo ono što je neko upisao. Propušten poziv koji niko nije vratio često ne postoji ni u jednom sistemu. Poruka na WhatsApp-u na koju je odgovoreno posle dva dana u CRM-u izgleda isto kao poruka na koju je odgovoreno za deset minuta: status je "kontaktiran".
+
+Zato se problem u obradi upita obično ne vidi kao problem prodaje. Vidi se kao "loši leadovi" ili "skup CPL". Tim onda menja ključne reči, oglase i budžet, a rupa ostaje tamo gde je bila.
+
+Istraživanje objavljeno u [Harvard Business Review](https://hbr.org/2011/03/the-short-life-of-online-sales-leads) koristilo je baš ovaj metod. Autori su poslali test upit preko sajta za 2.241 američku firmu i merili koliko brzo odgovaraju. U roku od sat vremena odgovorilo je 37% firmi, a 23% nije odgovorilo nikada. Prosečno vreme odgovora među firmama koje su se javile u roku od 30 dana bilo je 42 sata. Firme koje su pokušale kontakt u prvom satu imale su skoro sedam puta veće šanse da ostvare stvarni razgovor sa osobom koja odlučuje nego firme koje su se javile i sat kasnije. Podaci su stari i iz drugog tržišta, ali obrazac je isti svuda gde se upiti plaćaju: firma kupi pažnju, pa je pusti da se ohladi.
+
+## Šta je test upit, a šta nije
+
+Test upit je realan scenario koji prolazi istim kanalom kao upit iz kampanje: ista forma, isti broj telefona, isti WhatsApp, isti Google profil. Šalje ga neko koga tim ne prepoznaje, sa broja i mejla koje tim ne zna.
+
+Test upit nije zamka za zaposlene. Traži se mesto gde proces puca. Kada se ista greška pojavi kod dvoje različitih ljudi, popravlja se proces, a tim dobija jasnija pravila.
+
+Nekoliko pravila pre prvog kruga:
+
+- **Najavite timu da će testova biti.** Ne govorite kada. Posle nekoliko nedelja tim prestane da misli na testove, a vi ste izbegli osećaj da se nešto radi iza leđa.
+- **Ne kliktajte na sopstveni oglas.** Otvorite sajt direktno. Klik na oglas košta, a forma poslata posle klika postaje lažna konverzija iz koje Google uči. Ako želite da vidite kako oglas izgleda u pretrazi, Google preporučuje [alat za pregled i dijagnostiku oglasa](https://support.google.com/google-ads/answer/148778?hl=en), jer tako ne skupljate prikazivanja i ne kvarite statistiku.
+- **Ne snimajte razgovore bez znanja sagovornika.** Vodite beleške odmah posle poziva, po istoj tabeli za svaki test.
+- **Posle testa označite upit u CRM-u kao test.** Inače će vam ulepšati ili pokvariti izveštaj o broju i kvalitetu upita.
+- **Držite se malog broja.** Četiri do šest testova mesečno je dovoljno za firmu koja dobija 30 do 80 upita. Više od toga troši vreme prodaje koje treba pravim kupcima.
+
+## Šest scenarija za prvi krug
+
+Svaki scenario treba da liči na upit koji vaša kampanja stvarno donosi. Firma koja radi PVC stolariju pita za tri prozora i balkonska vrata u stanu na Novom Beogradu. Stomatološka ordinacija dobija pitanje o implantu i ceni prvog pregleda. B2B firma dobija upit sa nazivom firme, brojem zaposlenih i rokom.
+
+Dobar prvi krug pokriva različite kanale i različite delove dana:
+
+1. **Forma u radno vreme, utorkom pre podne.** Ovo je najlakši slučaj. Ako ovde ima problema, ostali testovi će biti gori.
+2. **Forma u petak posle 16 h.** Pokazuje šta se dešava sa upitima koji stignu pred vikend, kada je kampanja i dalje uključena.
+3. **Poziv u pauzi za ručak.** Da li se neko javi, da li postoji preusmeravanje, da li se propušten poziv vrati i za koliko.
+4. **Poziv posle radnog vremena.** Da li postoji poruka, opcija za povratni poziv ili bar SMS. Ako kampanja radi 24 sata, a telefon samo osam, ovde se gube pozivi.
+5. **WhatsApp poruka "koja je cena?"** Najkraći mogući upit. Dobar odgovor pita jedno ili dva pitanja koja menjaju cenu i nudi sledeći korak. Loš odgovor pošalje cenovnik i ućuti.
+6. **Upit koji ne odgovara firmi.** Pogrešan grad, premali obim ili usluga koju ne radite. Pokazuje da li tim zna da ljubazno odbije i preusmeri, ili troši sat vremena na nekoga ko neće kupiti.
+
+Posle prvog odgovora test kupac ćuti dva radna dana. Tada se vidi da li postoji follow-up, ili upit umire posle jedne poruke.
+
+## Šta upisujete posle svakog testa
+
+Bez tabele test upit postaje utisak. Za svaki scenario upišite iste stvari:
+
+- kanal i tačno vreme slanja;
+- vreme prvog stvarnog odgovora, ne automatske potvrde;
+- ko je odgovorio i da li se predstavio;
+- da li su postavljena pitanja koja menjaju ponudu: obim, lokacija, rok, budžet, ko odlučuje;
+- da li je ponuđen konkretan sledeći korak sa datumom: poziv, izlazak na teren, termin, ponuda do određenog dana;
+- da li je upit završio u CRM-u, sa izvorom i statusom;
+- da li je stigao follow-up kada je kupac prestao da odgovara, i posle koliko vremena;
+- jednu rečenicu: da li biste vi, kao kupac, nastavili sa ovom firmom.
+
+Poslednja kolona je subjektivna i to je u redu. Kupac takođe odlučuje subjektivno.
+
+## Primer: šta šest testova može da otkrije
+
+Uzmimo izmišljen, ali realan slučaj. Firma troši 100.000 dinara mesečno i dobija 40 upita, pa nalog pokazuje CPL od 2.500 dinara. Šest test upita pokaže sledeće: forma u utorak dobila je odgovor za 40 minuta, forma u petak tek u ponedeljak popodne. Poziv u pauzi niko nije vratio. Poziv posle 17 h završio je u praznoj zvonjavi. WhatsApp je odgovoren brzo, ali samo cenovnikom. Upit iz pogrešnog grada dobio je ponudu za izlazak na teren.
+
+Šest testova nije statistika. Ali kada se isti obrazac uporedi sa CRM-om, vlasnik vidi da otprilike svaki četvrti upit čeka odgovor duže od jednog dana. To je 10 od 40 upita.
+
+Recimo da se od upita na koje se odgovori na vreme zatvori 20%, a od zakasnelih 5%. To su pretpostavke za primer. Tada firma ima 6,5 poslova mesečno umesto 8. Cena dobijanja kupca je oko 15.385 dinara umesto 12.500. Ako je bruto zarada po poslu 60.000 dinara, razlika od 1,5 posla je 90.000 dinara mesečno, skoro ceo budžet za oglase. Na godišnjem nivou to je 1.080.000 dinara.
+
+Postoji još jedna računica. Stvarna cena upita na koji je neko odgovorio na vreme nije 2.500 dinara. Ako se 10 od 40 upita izgubi u čekanju, platili ste 3.333 dinara po upitu koji je uopšte imao šansu. O razlici između cene upita i cene kupca pisali smo detaljnije u tekstu [CPL nije CAC](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026).
+
+## Kako da popravite ono što test nađe
+
+Test vredi samo ako svaki nalaz ima vlasnika i rok. Najčešći nalazi i gde je rešenje:
+
+- **Odgovor stiže kasno ili nikada.** Treba vam pravilo o roku odgovora i jasan vlasnik upita. Kako se to postavlja, objašnjeno je u tekstovima o [SLA za leadove](/blog/sla-za-leadove-marketing-prodaja-srbija-2026) i o tome [ko je vlasnik leada](/blog/vlasnistvo-leadova-marketing-prodaja-srbija-2026).
+- **Pozivi se ne javljaju i ne vraćaju.** Prvo proverite raspored kampanje i pokrivenost telefona, pa uvedite povratni poziv u roku. Detalji su u tekstu o [propuštenim pozivima iz kampanja](/blog/propusteni-pozivi-iz-kampanja-leadovi-prodaja-srbija-2026).
+- **Odgovor je generičan ili je samo cenovnik.** Prvoj poruci treba struktura: potvrda konteksta, dva pitanja koja menjaju cenu i predlog sledećeg koraka. Primeri su u tekstu o [prvom odgovoru na lead](/blog/prvi-odgovor-na-lead-prodajna-skripta-srbija-2026).
+- **Nema sledećeg koraka ni follow-upa.** Razgovor se završava bez datuma, a kupac koji ućuti više nikada ne čuje firmu. Tu pomažu [prodajni poziv sa jasnim ciljem](/blog/prodajni-poziv-za-leadove-srbija-2026) i [follow-up sekvenca](/blog/follow-up-sekvenca-leadovi-prodaja-srbija-2026).
+- **Upit ne postoji u CRM-u.** Ako test kupac nije upisan, nisu upisani ni pravi kupci. Počnite od osnovne [evidencije leadova u CRM-u](/blog/crm-za-leadove-evidencija-prodaja-srbija-2026).
+
+Kada test pokaže da problemi postoje na više mesta, vredi uraditi ceo [audit prodajnog funnela](/blog/audit-prodajnog-funnela-lead-generation-srbija-2026), od obećanja u oglasu do zatvorenog posla.
+
+## Kada ponoviti test
+
+Prvi krug pokaže najveće rupe. Posle popravki ponovite iste scenarije za mesec dana i uporedite tabele. Posle toga je dovoljno četiri testa mesečno, plus poseban krug svaki put kada se nešto promeni: dođe nova osoba u prodaju, krene nova kampanja, promeni se forma ili radno vreme.
+
+Rezultate testova povežite sa izveštajem iz kampanje. Ako CPL raste, a testovi pokazuju da se na upite odgovara brzo i dobro, problem je verovatno u kampanji ili ponudi. Ako testovi pokazuju kašnjenja i prazne odgovore, povećanje budžeta samo kupuje više upita koji će čekati u istom redu. Kako budžet zavisi od cene dobrog upita, možete proveriti u [ROI kalkulatoru](/alati/roi-kalkulator) i u tekstu o [maksimalnom CPL-u](/blog/maksimalna-cena-leada-srbija-2026).
+
+## Šta da uradite ove nedelje
+
+Zamolite nekoga van firme da pošalje dva upita: jedan preko forme u petak posle 16 h i jedan poziv u pauzi za ručak. Upišite vreme odgovora i da li je ponuđen sledeći korak. Ako oba testa prođu dobro, imate jednu brigu manje. Ako ne prođu, našli ste novac koji kampanja već donosi, a firma ga ne pokupi.
+
+Okvirne cene vođenja kampanja su na stranici [Google Ads cena](/google-reklame-cena) i u pregledu [cena digitalnog marketinga](/cene-digitalnog-marketinga). Ako želite da to prođemo zajedno, pošaljite kroz [kontakt formu](/kontakt) koje usluge prodajete, kojim kanalima stižu upiti i koliko ih mesečno dobijate. Predložićemo scenarije test upita za vašu delatnost i pokazati gde na putu od oglasa do ponude upiti najčešće staju.
+`,
+  },
+  {
     slug: 'tipovi-podudaranja-kljucnih-reci-google-ads-lead-generation-srbija-2026',
     title: 'Tipovi podudaranja u Google Ads: široko, frazno ili tačno za firme koje traže upite',
     excerpt: 'Široko podudaranje je podrazumevano u Google Ads i lako troši budžet na pogrešne pretrage. Kako da izaberete tip podudaranja i negativne reči na srpskom.',
