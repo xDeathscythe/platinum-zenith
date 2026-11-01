@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-kamine-i-peci-na-pelet-cena-upita-srbija-2026",
+    "title": "Google Ads za kamine i peći na pelet u Srbiji 2026: cena upita i sezona ugradnje",
+    "excerpt": "Google Ads za kamine i peći na pelet isplati se kada upit postane ugradnja. Kako da odvojite kupce peći od kupaca peleta i odredite cenu upita po proizvodu.",
+    "date": "2026-11-01",
+    "category": "Google Ads",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "test-upit-tajni-kupac-provera-prodaje-leadovi-srbija-2026",
     "title": "Test upit sopstvenoj firmi: šta se zaista dešava sa leadom koji ste platili",
     "excerpt": "Pošaljite upit sopstvenoj firmi kao kupac i zabeležite vreme odgovora, pitanja i sledeći korak. Tako vidite gde se gube plaćeni leadovi pre nego što okrivite kampanju.",

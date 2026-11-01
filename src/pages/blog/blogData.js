@@ -1,5 +1,132 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-kamine-i-peci-na-pelet-cena-upita-srbija-2026',
+    title: 'Google Ads za kamine i peći na pelet u Srbiji 2026: cena upita i sezona ugradnje',
+    excerpt: 'Google Ads za kamine i peći na pelet isplati se kada upit postane ugradnja. Kako da odvojite kupce peći od kupaca peleta i odredite cenu upita po proizvodu.',
+    date: '2026-11-01',
+    readTime: '8 min read',
+    category: 'Google Ads',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Peći na pelet', 'Kamini', 'Cena upita', 'Marketing budžet', 'Lokalne usluge'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Pretraga "pelet" u novembru često ne traži peć
+
+Kada zahladi, ljudi koji već imaju peć kreću u potragu za gorivom. Traže cenu tone, dostavu džakova ili prodavca koji još ima robe, i ukucavaju istu reč kao kupac peći: "pelet". Firma koja prodaje i ugrađuje peći na pelet plaća te klikove ako kampanja cilja široko na "pelet" i slične izraze.
+
+Uzmimo namerno pojednostavljen primer, ne tržišni podatak. Mesečni budžet je 150.000 dinara, klik u proseku košta 60 dinara, pa nalog kupi 2.500 klikova. Ako svaki treći klik traži gorivo, 50.000 dinara mesečno ode na ljude koji peć ne kupuju. U izveštaju to izgleda kao veliki saobraćaj i niska cena klika. U prodavnici to izgleda kao telefon koji zvoni sa pitanjem "imate li pelet od 15 kila?".
+
+Zato prodavac kamina i peći na pelet ne treba da meri kampanju klikovima ni pozivima. Kampanja vredi kada upit postane izlazak na teren, potvrđena porudžbina i termin ugradnje.
+
+## Četiri proizvoda, četiri kampanje
+
+Vazdušna peć na pelet za dnevnu sobu, termo peć koja greje radijatore u celoj kući, kamin ili kaminski uložak na drva i godišnji servis peći nisu ista prodaja. Imaju različitu cenu, maržu, rad na terenu i kupca. Kada su u jednoj kampanji, budžet ode na najčešću pretragu, a to je obično najjeftiniji uređaj.
+
+Početna struktura:
+
+- vazdušne peći na pelet sa ugradnjom, za stan ili jednu do dve prostorije;
+- termo peći i kotlovi na pelet za centralno grejanje, sa posebnom landing stranom i pitanjima o kvadraturi i radijatorima;
+- kamini i kaminski ulošci, gde je cilj poseta izložbenom prostoru ili izlazak na teren;
+- servis i čišćenje peći na pelet, kao posebna kampanja sa nižim budžetom i jasnim cenovnikom.
+
+Termo peć od 380.000 dinara traži drugačiju poruku od vazdušne peći za stan. Kupac termo peći pita da li će ugrejati 120 kvadrata i šta biva sa postojećim radijatorima. Kupac kamina gleda fotografije i dolazi da vidi kako izgleda vatra iza stakla. Ako obojica dobiju isti oglas i istu stranu, ni jedan ne dobija odgovor koji je tražio.
+
+## Ne takmičite se golom cenom uređaja
+
+Ako peć prodajete samo kao kutiju sa cenom, takmičite se sa velikim lancima i sa svakim sajtom koji isti model nudi 3.000 dinara jeftinije. Tu lokalna firma retko pobeđuje, i ne mora.
+
+Vaša prednost je posao koji internet prodavnica ne radi: izlazak na teren, procena prostora, priključak na dimnjak, ugradnja, puštanje u rad i servis posle sezone. Oglas i landing strana treba da prodaju paket "peć sa ugradnjom", sa jasnim okvirom cene i rokom. Kupac koji traži "ugradnja peći na pelet" ili "peć na pelet sa ugradnjom Novi Sad" je mnogo bliži odluci od kupca koji upoređuje šifre modela.
+
+Dimnjak je pitanje koje ruši ili spašava prodaju. Ako ga kupac nema ili je u lošem stanju, ugradnja je drugačiji posao i druga cena. Zato to pitanje ide u formu, a saradnja sa dimnjačarom može da bude deo ponude. O tome kako dimnjačari vode svoje kampanje pisali smo u tekstu o [Google Ads za dimnjačare](/blog/google-ads-za-dimnjacare-cena-poziva-srbija-2026).
+
+## Koliko sme da košta upit
+
+Opet interni primer, ne tržišna cena. Računica ide unazad od bruto zarade po prodaji, ne od prometa:
+
+| Grupa | Bruto zarada po prodaji | Deo za akviziciju (30%) | Prodaja na kvalifikovane upite | Najviše po upitu |
+|---|---|---|---|---|
+| Vazdušna peć sa ugradnjom | 40.000 din | 12.000 din | 1 od 6 | 2.000 din |
+| Kamin ili uložak sa ugradnjom | 55.000 din | 16.500 din | 1 od 6 | 2.750 din |
+| Termo peć na pelet | 75.000 din | 22.500 din | 1 od 5 | 4.500 din |
+| Godišnji servis (3 godine) | 10.500 din | 3.150 din | 1 od 2 | 1.575 din |
+
+Ovo je gornja granica po kvalifikovanom upitu, ne cilj. Ako termo peći i vazdušne peći dele jednu kampanju, prosečan CPL od 3.000 dinara izgleda pristojno, a sakriva da su upiti za vazdušne peći preskupi. Postupak za vaš limit, sa vašim maržama, opisan je u tekstu o [maksimalnoj ceni leada](/blog/maksimalna-cena-leada-srbija-2026).
+
+Servis zaslužuje posebnu napomenu. Kupac kome ste ugradili peć i koji svake godine zove vas za čišćenje ne mora ponovo da se kupuje preko oglasa. Taj kupac je razlog zašto ugradnja može da podnese veću cenu upita od same prodaje uređaja.
+
+## Monteri su granica budžeta u sezoni
+
+U oktobru i novembru problem često nisu upiti. Problem je kalendar. Ako dve ekipe ugrade po četiri peći nedeljno, firma može da isporuči osam ugradnji nedeljno. Sa stopom zatvaranja od 20% to je 40 kvalifikovanih upita nedeljno. Uz 2.000 dinara po upitu, korisna potrošnja je oko 80.000 dinara nedeljno, odnosno 320.000 za četiri nedelje.
+
+Sve preko toga kupuje ljude koji će čekati tri nedelje na termin, a kupac kome je hladno ne čeka. Zove sledeću firmu. Kada je raspored pun, smanjite budžet za skupe pretrage, na landing strani napišite stvarni rok za ugradnju i ponudite rezervaciju termina za sledeći mesec. To je poštenije prema kupcu i jeftinije za vas. Odnos između budžeta i onoga što tim može da obradi detaljnije je opisan u tekstu o [kapacitetu prodaje](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026).
+
+Google Ads ima alat za [prilagođavanje sezonalnosti](https://support.google.com/google-ads/answer/10369906), ali ga ne koristite za celu grejnu sezonu. Google navodi da Smart Bidding već sam prati sezonske promene i da je alat namenjen kratkim događajima od jednog do sedam dana. Za duže periode, preko 14 dana, može da radi lošije. Za vikend akciju na izložbenom prostoru ima smisla. Za ceo novembar nema.
+
+## Sezona počinje pre prve hladne noći
+
+Kupac termo peći ili kamina odluku često donosi pre nego što zahladi, jer zna da ugradnja traži vreme. Kupac vazdušne peći češće kreće kada se kuća već ohladi. Raspodela budžeta po mesecima može da prati tu razliku:
+
+1. Leto i rani septembar: manji budžet, fokus na termo peći, kamine i rezervaciju termina pre sezone.
+2. Kraj septembra do novembra: najveći budžet, ograničen brojem slobodnih ugradnji.
+3. Decembar i januar: hitni upiti za vazdušne peći, kraća zona i jasan rok.
+4. Februar do aprila: servis i čišćenje, plus ponuda za ugradnju pre sledeće sezone.
+
+Plan po fazama za druge sezonske usluge nalazi se u tekstu o [sezonskom marketing budžetu](/blog/sezonski-marketing-budzet-lead-generation-srbija-2026). Ako kupac razmišlja i o drugom izvoru toplote, pogledajte i vodič za [toplotne pumpe i grejanje](/blog/google-ads-za-toplotne-pumpe-i-grejanje-cena-upita-srbija-2026).
+
+## Negativne ključne reči za prodavce peći
+
+U objašnjenju [negativnih ključnih reči](https://support.google.com/google-ads/answer/2453972) Google navodi da negativne reči ne hvataju bliske varijante i da sinonime, jedninu i množinu morate da dodate sami. Za srpski jezik to znači i padeže: "pelet", "peleta" i "peletu" nisu ista negativna reč. Ako dodate samo jedan oblik, ostali prolaze.
+
+Grupe koje vredi proveriti u izveštaju o pretragama:
+
+- gorivo, ako ga ne prodajete: "cena peleta", "tona peleta", "pelet po toni", "džak peleta", "pelet akcija", "drva za ogrev";
+- polovna roba: "polovna peć", "polovne peći", "kupujemprodajem", "oglasi";
+- uradi sam: "kako napraviti", "uradi sam", "nacrt", "šema povezivanja";
+- greške i delovi, ako ih ne servisirate: "šifra greške", "greška na peći", "upravljačka ploča", "rezervni delovi";
+- posao: "posao", "monter oglas za posao";
+- brendovi i tipovi koje ne prodajete, uključujući šporete i kotlove na ugalj.
+
+Ako prodajete i pelet, odvojite ga u posebnu kampanju sa sopstvenim budžetom. Gorivo ima drugu maržu i drugu logistiku, i ne sme da troši novac namenjen pećima. Kako tipovi podudaranja određuju koje pretrage uopšte ulaze u nalog piše u tekstu o [tipovima podudaranja ključnih reči](/blog/tipovi-podudaranja-kljucnih-reci-google-ads-lead-generation-srbija-2026).
+
+## Forma treba da pita ono što menja ponudu
+
+Kratka forma za ugradnju peći treba da otkrije da li je posao izvodljiv i koliko je velik:
+
+- šta grejete: stan, kuća ili poslovni prostor, i otprilike koliko kvadrata;
+- koji uređaj vas zanima: vazdušna peć, termo peć za radijatore ili kamin;
+- da li postoji dimnjak i u kom je stanju, ako znate;
+- mesto ili opština;
+- kada želite ugradnju;
+- telefon ili WhatsApp.
+
+Fotografija prostora gde bi peć stajala i dimnjaka često vredi više od tri dodatna pitanja. Kupac ne mora da zna tačnu snagu peći. To je vaš posao na terenu. Model za kratku formu koja filtrira bez gubitka ozbiljnih kupaca opisan je u vodiču za [kvalifikaciju leadova](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026).
+
+Zona ugradnje je druga granica. Ekipa koja vozi 60 kilometara do jedne vazdušne peći gubi pola dana. Ciljajte ljude koji su stvarno u zoni gde radite, a mesto potvrdite u formi. Razliku između stvarnog prisustva i interesovanja za lokaciju objašnjava vodič o [ciljanju lokacije u Google Ads](/blog/google-ads-ciljanje-lokacije-prisustvo-interesovanje-srbija-2026).
+
+## Konverzija je termin ugradnje, ne poziv
+
+Ako nalog kao uspeh beleži svaki poziv i svaku poruku, algoritam uči da kupuje ljude koji pitaju za pelet. Svaki upit treba da dobije status u CRM-u ili u tabeli:
+
+- novi upit;
+- kvalifikovan (uređaj, prostor, zona i rok imaju smisla);
+- izlazak na teren ili poseta izložbenom prostoru;
+- poslata ponuda;
+- potvrđena porudžbina sa terminom ugradnje;
+- ugrađeno i naplaćeno.
+
+Kada vratite potvrđene porudžbine u Google Ads kao konverzije sa vrednošću, kampanja prvi put vidi razliku između upita za termo peć od 380.000 dinara i pitanja o ceni džaka. Kako se to povezuje opisano je u tekstu o [kvalifikovanim konverzijama](/blog/kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026).
+
+## Početni plan za jednu sezonu
+
+Za firmu koja kreće od nule: dve do tri kampanje (vazdušne peći, termo peći, kamini), lista negativnih reči sa padežima od prvog dana, landing strana po grupi sa okvirom cene ugradnje i rokom, forma sa pitanjem o dimnjaku i nedeljni pregled izveštaja o pretragama. Budžet određuje broj slobodnih ugradnji, a ne želja da se uhvati svaki klik u novembru. Okvir za trošak klika i budžet nalazi se na strani [cena Google reklama](/google-reklame-cena), a za ukupan plan na strani [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+Ako prodajete i ugrađujete kamine ili peći na pelet, pošaljite kroz [kontakt formu](/kontakt) grupe proizvoda, bruto zaradu po ugradnji, broj ekipa, zonu u kojoj radite i koliko kupaca vam se vraća na servis. Napravićemo plan u kome budžet prati termine koje monteri stvarno mogu da ispune.
+`,
+  },
+  {
     slug: 'test-upit-tajni-kupac-provera-prodaje-leadovi-srbija-2026',
     title: 'Test upit sopstvenoj firmi: šta se zaista dešava sa leadom koji ste platili',
     excerpt: 'Pošaljite upit sopstvenoj firmi kao kupac i zabeležite vreme odgovora, pitanja i sledeći korak. Tako vidite gde se gube plaćeni leadovi pre nego što okrivite kampanju.',
