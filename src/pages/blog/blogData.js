@@ -1,5 +1,129 @@
 const rawBlogPosts = [
   {
+    slug: 'poskupljenje-usluga-2027-max-cpl-marketing-budzet-srbija',
+    title: 'Poskupljenje usluga za 2027: kako nova cena menja maksimalni CPL i marketing budžet',
+    excerpt: 'Poskupljujete usluge za 2027? Prvo preračunajte maksimalni CPL. Kada troškovi rastu a cena stoji, isti oglasi donose manje novca. Računica i lista izmena.',
+    date: '2026-11-02',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Marketing budžet', 'Cene usluga', 'Maksimalni CPL', 'ROI', 'Google Ads', 'Lead Generation'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Ista cena u 2027. znači manju cenu leada koju možete da platite
+
+Krajem godine većina firmi otvori dve tabele. U jednoj je novi cenovnik, u drugoj marketing budžet za sledeću godinu. Obično ih popunjavaju različiti ljudi, u različitim nedeljama, i niko ih ne spoji.
+
+A spojene su. Maksimalna cena leada koju firma sme da plati zavisi od novca koji ostaje posle posla. Kada materijal, plate, gorivo ili podizvođači poskupe, a cena usluge ostane ista, kampanja koja je u 2026. bila isplativa u 2027. donosi manje. Oglasi su isti, CPL je isti, izveštaj izgleda isto. Razlika se vidi tek na računu.
+
+Zato poskupljenje nije samo odluka prodaje. To je ulazni broj za [maksimalnu cenu leada](/blog/maksimalna-cena-leada-srbija-2026), za [plan budžeta za 2027](/blog/marketing-budzet-za-2027-plan-iz-brojeva-2026-srbija) i za sve što posetilac vidi pre nego što pošalje upit.
+
+## Računica: šta se desi kada troškovi porastu, a cena stoji
+
+Uzmimo izmišljen primer, samo da brojevi budu jasni. Usluga košta 100.000 dinara. Direktni troškovi isporuke su 70.000, pa po poslu ostaje 30.000 dinara [bruto zarade](/blog/bruto-marza-marketing-budzet-roi-srbija-2026). Firma je spremna da 30% te zarade da za dovođenje kupca, što je 9.000 dinara. Prodaja zatvara 20% leadova. Najviše što sme da plati po leadu je 1.800 dinara.
+
+Sada pretpostavimo da direktni troškovi u 2027. porastu 8%, na 75.600 dinara. To je pretpostavka za primer, ne prognoza. Vaš broj izračunajte iz svojih ulaznih računa i plata.
+
+- **Cena ostaje 100.000:** po poslu ostaje 24.400 dinara. Maksimalni CPL pada na 1.464 dinara, skoro 19% niže nego prošle godine.
+- **Cena raste 10%, na 110.000:** po poslu ostaje 34.400 dinara. Maksimalni CPL raste na 2.064 dinara pri istoj stopi zatvaranja.
+
+Firma koja ne podigne cenu, a plaća isti CPL od 1.500 dinara, prešla je granicu a da nije promenila ništa u kampanji. Lead od 1.500 dinara bio je dobar posao kada je granica bila 1.800. Pri granici od 1.464 to je minus na svakom leadu.
+
+## Mesečni primer: 150.000 dinara budžeta, 100 leadova
+
+Isti primer na mesečnom nivou. Budžet je 150.000 dinara, CPL 1.500, dakle 100 leadova mesečno.
+
+| Scenario | Poslova | Bruto zarada | Posle oglasa |
+|---|---|---|---|
+| 2026, cena 100.000, zatvaranje 20% | 20 | 600.000 | 450.000 |
+| 2027, troškovi +8%, cena ista | 20 | 488.000 | 338.000 |
+| 2027, troškovi +8%, cena +10%, zatvaranje pada na 17% | 17 | 584.800 | 434.800 |
+
+Treći red je onaj koji vlasnike obično iznenadi. Firma zatvori tri posla manje i opet zaradi oko 97.000 dinara više nego da je zadržala staru cenu. Pri novim troškovima i novoj ceni, stopa zatvaranja bi morala da padne na oko 14,2% da bi poskupljenje bilo lošije od zadržavanja stare cene.
+
+To ne znači da svaka firma može da podigne cenu 10% bez posledica. Znači da imate jasan prag. U ovom primeru pad zatvaranja sa 20% na 18% je cena koja i dalje radi. Pad ispod 14% pokazuje da kupci ne vide vrednost za novi iznos, i tu oglasi ništa ne mogu da poprave. Kako se meri ovaj broj, piše u tekstu o [stopi zatvaranja i marketing budžetu](/blog/stopa-zatvaranja-leadova-marketing-budzet-srbija-2026).
+
+## Ne menjajte cenu i budžet iste nedelje
+
+Česta greška je da se 1. januara promeni sve odjednom: novi cenovnik, veći budžet, nove ključne reči, nova landing strana. Posle mesec dana CPL je drugačiji, stopa zatvaranja je drugačija, i niko ne zna zašto.
+
+Bolji redosled:
+
+1. U CRM-u zabeležite datum kada nova cena počinje da važi. Svaki lead posle tog datuma dobija oznaku nove cene.
+2. Prve četiri do šest nedelja budžet držite na istom nivou. Gledate samo kako nova cena utiče na stopu zatvaranja i na razloge odbijanja.
+3. Budžet podižete tek kada imate dovoljno zatvorenih ili izgubljenih poslova po novoj ceni. Koliko je to "dovoljno", objašnjeno je u tekstu o tome [koliko podataka vam treba pre promene budžeta](/blog/koliko-podataka-pre-promene-marketing-budzeta-srbija-2026).
+
+Ako koristite [kvalifikovane konverzije](/blog/kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026) sa vrednošću posla, ažurirajte i tu vrednost. Algoritam koji uči na staroj vrednosti posla optimizuje prema prošlogodišnjem cenovniku.
+
+## Šta u Google Ads nalogu treba promeniti pre 1. januara
+
+Ako cena piše u tekstu oglasa, izmena nije trenutna. Google navodi da izmena oglasa pravi novu verziju oglasa, da nova verzija prolazi proveru koja traje do jednog radnog dana i da ne možete da vratite originalnu verziju ([Google Ads Help: Edit your text ads](https://support.google.com/google-ads/answer/2375287?hl=en)). Za poskupljenje od 1. januara to znači da nove oglase pripremite ranije, a ne na Novu godinu u ponoć.
+
+Google u istom tekstu predlaže da umesto izmene napravite nov oglas, kako bi stari radio dok se novi testira. Za cenovnik to ima smisla: stari oglas pauzirate onog dana kada stara cena prestaje da važi.
+
+Cenovni elementi oglasa su lakši. Google navodi da njihove nazive i opise možete menjati bez resetovanja statistike, i da im možete zadati datume, dane i sate prikazivanja ([Google Ads Help: About price assets](https://support.google.com/google-ads/answer/7065415?hl=en)). Novu verziju sa datumom početka postavite unapred, staru zatvorite istim datumom.
+
+Proverite i ono što se lako zaboravi:
+
+- naslove i opise koji pominju "od X dinara";
+- landing strane sa cenovnim okvirom (više o tome u tekstu o [cenama na sajtu i kvalitetu leadova](/blog/cene-na-sajtu-usluge-kvalitet-leadova-srbija-2026));
+- polje za budžet u kontakt formi, jer se pragovi pomeraju sa cenom ([kvalifikacija kroz kontakt formu](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026));
+- PDF ponude i automatske email odgovore sa starim cenovnikom.
+
+Kupac koji klikne na oglas sa starom cenom i stigne na stranu sa novom ne misli da ste poskupeli. Misli da ga varate. Taj lead ste platili, i izgubili ste ga pre prvog razgovora.
+
+## Ponude poslate u decembru
+
+Decembarske ponude su posebna priča. Lead koji je ponudu dobio 10. decembra, a odlučuje se 15. januara, očekuje staru cenu. Ako je ponuda imala jasan [rok važenja](/blog/rok-vazenja-ponude-leadovi-prodaja-srbija-2026), razgovor je jednostavan: rok je istekao, nova cena važi od januara. Ako rok nije pisao nigde, prodaja će ili da popusti, ili da izgubi kupca koji se oseća prevarenim.
+
+Najjednostavnije pravilo: sve ponude poslate posle 1. decembra imaju napisan rok važenja i napomenu da cenovnik za 2027. stupa na snagu određenog datuma. Kupcu koji je već blizu odluke to samo kaže do kada treba da se javi.
+
+## Šta prodaja treba da zna da kaže
+
+Poskupljenje se najviše vidi u prvom razgovoru. Rečenica "prošle godine je bilo jeftinije" dolazi sigurno, a prodavac koji nema odgovor obično ponudi popust. Tada ste podigli cenu na sajtu i spustili je u razgovoru, pa nemate ni jedno ni drugo.
+
+Prodaja treba da zna tri stvari:
+
+- od kog datuma važi nova cena i šta se desilo sa troškovima, ukratko i bez izvinjavanja;
+- šta kupac dobija za tu cenu, konkretno, kroz rezultat posla;
+- koje su granice pregovora, unapred dogovorene, a ne izmišljene u razgovoru.
+
+Kako da prodaja zadrži cenu bez spuštanja, opisano je u tekstu o [prodaji premium usluge bez spuštanja cene](/blog/kako-prodati-premium-uslugu-bez-spustanja-cene-srbija-2026). Ako posle poskupljenja raste broj izgubljenih poslova, beležite tačan razlog odbijanja. "Skupo" i "nismo videli razliku u odnosu na konkurenciju" traže potpuno različite popravke. Tome služi [evidencija razloga izgubljenih poslova](/blog/razlozi-izgubljenih-poslova-leadovi-prodaja-srbija-2026).
+
+## Kada poskupljenje ne pomaže
+
+Postoje slučajevi kada je bolje sačekati.
+
+Ako je vaša usluga ista kao konkurentska, a kupci biraju isključivo po ceni, poskupljenje bez promene ponude obično samo smanji broj poslova. Pre nove cene tada treba raditi na tome po čemu se razlikujete.
+
+Ako vam je kapacitet prazan, a fiksni troškovi visoki, ponekad je pametnije zadržati cenu i napuniti kalendar. Svaki dodatni posao tada pokriva deo troškova koji ionako plaćate.
+
+Ako podižete cenu samo zato što su drugi podigli, a ne znate svoje troškove po poslu, prvo uradite računicu iz ovog teksta. Bez nje ne znate ni da li je 10% dovoljno, ni da li je previše.
+
+I suprotno: kada razmišljate o akcijskoj ceni umesto poskupljenja, ista logika radi u drugom smeru. Detaljno smo je razložili u tekstu o [popustima i ROI-ju](/blog/popusti-akcije-marketing-budzet-roi-lead-generation-srbija-2026), a o troškovima koji rastu sa svakim poslom u tekstu o [varijabilnim troškovima](/blog/varijabilni-troskovi-marketing-budzet-lead-generation-srbija-2026).
+
+## Kratka lista za novembar i decembar
+
+- Izračunajte direktne troškove po poslu za 2027, ne za 2026.
+- Iz nove cene i novih troškova izračunajte novi maksimalni CPL po usluzi.
+- Uporedite ga sa stvarnim CPL-om iz poslednja tri meseca.
+- Izračunajte prag stope zatvaranja ispod kog poskupljenje gubi.
+- Pripremite nove oglase i cenovne elemente sa datumom početka.
+- Ažurirajte landing strane, formu, PDF ponude i automatske odgovore.
+- Dodajte rok važenja na sve decembarske ponude.
+- U CRM-u označite datum nove cene i prvih šest nedelja ne dirajte budžet.
+
+Za proveru brojeva možete koristiti [ROI kalkulator](/alati/roi-kalkulator), a okvirne cene upravljanja kampanjama su na stranama [Google reklame cena](/google-reklame-cena) i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Kako vam možemo pomoći
+
+Ako planirate novi cenovnik za 2027. i ne znate koliko sme da košta lead posle poskupljenja, pošaljite nam okvirne brojeve: cenu, direktne troškove, stopu zatvaranja i trenutni CPL. Izračunaćemo granice po usluzi i pokazati šta u nalogu i na sajtu treba promeniti pre januara. [Javite nam se ovde](/kontakt).
+`,
+  },
+  {
     slug: 'google-ads-za-kamine-i-peci-na-pelet-cena-upita-srbija-2026',
     title: 'Google Ads za kamine i peći na pelet u Srbiji 2026: cena upita i sezona ugradnje',
     excerpt: 'Google Ads za kamine i peći na pelet isplati se kada upit postane ugradnja. Kako da odvojite kupce peći od kupaca peleta i odredite cenu upita po proizvodu.',

@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "poskupljenje-usluga-2027-max-cpl-marketing-budzet-srbija",
+    "title": "Poskupljenje usluga za 2027: kako nova cena menja maksimalni CPL i marketing budžet",
+    "excerpt": "Poskupljujete usluge za 2027? Prvo preračunajte maksimalni CPL. Kada troškovi rastu a cena stoji, isti oglasi donose manje novca. Računica i lista izmena.",
+    "date": "2026-11-02",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-kamine-i-peci-na-pelet-cena-upita-srbija-2026",
     "title": "Google Ads za kamine i peći na pelet u Srbiji 2026: cena upita i sezona ugradnje",
     "excerpt": "Google Ads za kamine i peći na pelet isplati se kada upit postane ugradnja. Kako da odvojite kupce peći od kupaca peleta i odredite cenu upita po proizvodu.",
