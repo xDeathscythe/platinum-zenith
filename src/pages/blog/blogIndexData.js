@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-ocena-optimizacije-automatske-preporuke-srbija-2026",
+    "title": "Google Ads preporuke i ocena optimizacije: šta isključiti iz automatske primene",
+    "excerpt": "Ocena optimizacije od 100% ne znači da Google Ads donosi posao. Koje preporuke isključiti iz automatske primene i kako ih pregledati za 15 minuta nedeljno.",
+    "date": "2026-11-03",
+    "category": "Google Ads",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "poskupljenje-usluga-2027-max-cpl-marketing-budzet-srbija",
     "title": "Poskupljenje usluga za 2027: kako nova cena menja maksimalni CPL i marketing budžet",
     "excerpt": "Poskupljujete usluge za 2027? Prvo preračunajte maksimalni CPL. Kada troškovi rastu a cena stoji, isti oglasi donose manje novca. Računica i lista izmena.",

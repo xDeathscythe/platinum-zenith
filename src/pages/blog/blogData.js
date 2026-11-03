@@ -1,5 +1,117 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-ocena-optimizacije-automatske-preporuke-srbija-2026',
+    title: 'Google Ads preporuke i ocena optimizacije: šta isključiti iz automatske primene',
+    excerpt: 'Ocena optimizacije od 100% ne znači da Google Ads donosi posao. Koje preporuke isključiti iz automatske primene i kako ih pregledati za 15 minuta nedeljno.',
+    date: '2026-11-03',
+    readTime: '8 min read',
+    category: 'Google Ads',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Ocena optimizacije', 'Preporuke', 'Automatska primena', 'CPL', 'Lead Generation'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Ocena od 100% raste i kada preporuku odbijete
+
+U Google Ads nalogu, na stranici Preporuke, stoji jedan procenat: ocena optimizacije. Zeleni krug od 94% izgleda kao dokaz da je nalog dobro vođen. Crveni od 61% izgleda kao opomena. Mnogi vlasnici firmi gledaju samo taj broj, a neke agencije ga stavljaju i u mesečni izveštaj.
+
+Google u [objašnjenju ocene optimizacije](https://support.google.com/google-ads/answer/9061546?hl=en) piše da je to procena koliko je nalog podešen da radi, na skali od 0 do 100%. U istom tekstu stoji rečenica koju vredi zapamtiti: do 100% se stiže tako što se sve preporuke **primene ili odbace**. Odbijena preporuka podiže ocenu isto kao primenjena.
+
+Dakle, 100% kaže da je neko prošao kroz sve kartice. Ne kaže da su upiti dobri, da je CPL u granici niti da prodaja ima šta da zatvori. Google takođe navodi da ocena optimizacije ne ulazi u Quality Score.
+
+Druga stvar iz istog teksta: fokus ocene Google izvodi iz strategije licitiranja i iz konverzija koje ste uključili u kolonu Conversions. Ako se kao konverzija broji svaki klik na telefon ili svaka poslata forma, preporuke će gurati nalog ka više takvih događaja. Da li su to kupci, sistem ne zna.
+
+## Zašto agencije prate ovaj broj
+
+Postoji i poslovni razlog. Agencija koja želi status Google Partner mora da drži ocenu optimizacije od najmanje 70% na nivou svog menadžerskog naloga. To piše u [uslovima za Google Partner status](https://support.google.com/google-ads/answer/9702452?hl=en), uz napomenu da agencija sama bira da li će preporuku primeniti ili odbaciti.
+
+Taj uslov se može ispuniti pošteno: preporuke koje ne odgovaraju klijentu se odbace i ocena raste. Problem nastaje kada je dugme Primeni sve brže od razmišljanja, ili kada se uključi automatska primena da bi broj sam rastao. Tada Google menja nalog svakog dana, a vlasnik firme to vidi tek na računu ili kada prodaja kaže da su upiti sve gori.
+
+## Šta Google sme sam da promeni kada uključite automatsku primenu
+
+Google opisuje automatsku primenu u tekstu [o automatskom primenjivanju preporuka](https://support.google.com/google-ads/answer/10279006?hl=en). Uključuje se na nivou celog naloga. Kada je uključena, preporuke se primenjuju redovno, a spisak onih koje čekaju za taj dan je na dnu stranice Preporuke.
+
+Na spisku tipova koji mogu da se primene sami nalaze se, između ostalog:
+
+- dodavanje ključnih reči i posebno dodavanje ključnih reči sa širokim podudaranjem;
+- proširenje na Google partnere za pretragu, proširenje na Display mrežu i proširenje ciljanja;
+- prelazak na drugu strategiju licitiranja i podešavanje ciljanog CPA ili ROAS;
+- uklanjanje suvišnih ključnih reči, ključnih reči koje se ne prikazuju i negativnih ključnih reči koje su u sukobu sa vašim ključnim rečima;
+- poboljšanje responzivnih oglasa, sa naslovima i opisima koji se uzimaju sa vaše landing strane ili iz drugih oglasa u grupi;
+- dinamički oglasi za pretragu, optimizovana rotacija oglasa i nadogradnja praćenja konverzija.
+
+Budžet se ne povećava automatski, to Google izričito navodi. Od 26. januara 2026. ni preporuka Dodaj responzivne oglase više ne pravi nove oglase sama.
+
+Ostatak spiska ipak zadire u tri stvari koje odlučuju o ceni posla: ko vidi oglas, koliko plaćate i šta se računa kao uspeh. Za firmu koja živi od upita, to su podešavanja koja treba da menja čovek koji zna šta prodaja može da proda.
+
+## Primer: više leadova, niži CPL i skuplji pravi upit
+
+Brojevi su izmišljeni, ali računica je ista za svaku uslužnu firmu. Firma troši 120.000 dinara mesečno. Prosečan CPL je 2.000 dinara, stiže 60 upita, a 40% su ozbiljni upiti koje prodaja može da obradi. To je 24 kvalifikovana upita, po 5.000 dinara.
+
+Automatska primena doda ključne reči sa širokim podudaranjem i uključi partnere za pretragu. Nove pretrage pojedu 30% budžeta. Klik je jeftiniji i CPL na tom delu pada na 1.500 dinara, ali je samo 10% tih upita ozbiljno.
+
+| | Pre automatske primene | Posle automatske primene |
+|---|---|---|
+| Budžet | 120.000 din | 120.000 din |
+| Ukupno upita | 60 | 66 |
+| Prosečan CPL | 2.000 din | 1.818 din |
+| Kvalifikovani upiti | 24 | 19,2 |
+| Cena kvalifikovanog upita | 5.000 din | 6.250 din |
+
+U izveštaju sve izgleda bolje: 6 upita više, CPL niži za 9%, ocena optimizacije skoči. U prodaji je slika obrnuta. Skoro 5 ozbiljnih upita manje svakog meseca, a svaki dobar upit je 25% skuplji. Ako ocenjujete kampanju po prosečnom CPL-u, ovu promenu ćete pohvaliti. Zato smo u tekstu [CPL nije CAC](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026) insistirali da se gleda cena kupca, a granica za CPL računa iz marže kao u tekstu o [maksimalnoj ceni leada](/blog/maksimalna-cena-leada-srbija-2026).
+
+## Koje preporuke isključiti, a koje mogu da ostanu
+
+Ovo je podela koju koristimo za lokalne i B2B uslužne firme sa budžetom do nekoliko hiljada evra mesečno.
+
+| Preporuka | Šta može da pođe po zlu | Šta da uradite |
+|---|---|---|
+| Dodaj ključne reči sa širokim podudaranjem | Plaćate pretrage koje vaša firma ne prodaje, posebno ako konverzija nije kvalifikovan upit | Isključite. Široko podudaranje testirajte ručno, u posebnoj kampanji |
+| Dodaj ključne reči | Nove reči ulaze bez provere padeža, gradova i negativnih lista | Isključite. Pregledajte predloge jednom nedeljno |
+| Google partneri za pretragu, Display, proširenje ciljanja | Oglas izlazi van Google pretrage, kod ljudi koji ne traže vašu uslugu | Isključite za lokalne usluge |
+| Promena strategije licitiranja, ciljani CPA ili ROAS | Algoritam juri događaj koji ste nazvali konverzijom, makar to bio svaki klik na telefon | Isključite dok primarna konverzija nije kvalifikovan upit |
+| Ukloni negativne ključne reči u sukobu | Google rešava sukob brisanjem negativne reči koju ste možda dodali namerno | Isključite. Sukob rešite ručno |
+| Poboljšaj responzivne oglase | Naslovi se uzimaju sa sajta, uključujući staru cenu, završenu akciju ili obećanje koje prodaja ne drži | Isključite ako ste skoro menjali cene ili ponudu |
+| Dinamički oglasi za pretragu | Google bira stranice i naslove sa sajta, pa i blog tekstove koji ne prodaju ništa | Isključite dok ne odredite tačno koje stranice smeju u oglase |
+| Nadogradnja praćenja konverzija | Menja se ono što se meri, a time i sve ostale odluke | Uradite ručno, uz proveru da se konverzije ne broje duplo |
+| Ukloni suvišne i neaktivne ključne reči, optimizovana rotacija oglasa | Mali rizik | Mogu da ostanu, uz pogled u istoriju jednom nedeljno |
+
+Negativne reči u sukobu zaslužuju jedan primer. Firma za klimatizaciju ima negativnu reč besplatno, jer joj ne trebaju ljudi koji traže besplatno uputstvo. Kasnije neko doda ključnu reč besplatna procena klime. Google vidi sukob i predloži brisanje negativne reči. Ako se to primeni samo, oglas ponovo počne da se pojavljuje na svim pretragama sa rečju besplatno. Pravilno rešenje je obrnuto: izbaciti ključnu reč ili suziti negativnu. Kako se slažu negativne liste na srpskom, sa padežima i ćirilicom, opisali smo u tekstu o [tipovima podudaranja](/blog/tipovi-podudaranja-kljucnih-reci-google-ads-lead-generation-srbija-2026).
+
+Kod responzivnih oglasa problem se vidi kod firmi koje menjaju cene. Ako je na landing strani do decembra stajala stara cena ili akcija, sistem može da je ponudi kao naslov oglasa. Ako planirate novi cenovnik, pročitajte i tekst o [poskupljenju usluga za 2027](/blog/poskupljenje-usluga-2027-max-cpl-marketing-budzet-srbija).
+
+## Gde da proverite šta je već primenjeno
+
+Google navodi tri mesta:
+
+1. U gornjoj traci stranice Preporuke nalaze se podešavanja automatske primene. Tamo vidite koje kategorije su uključene i isključujete ih jednu po jednu.
+2. Kartica History daje pregled preporuka koje su nedavno primenjene.
+3. Stranica Change History prikazuje pojedinačne primenjene preporuke. Tu se vidi šta je tačno dodato ili obrisano, i odatle izmenu možete da pregledate i ispravite.
+
+Ako nalog vodi agencija, ovo je pet minuta posla. Pitajte da li je automatska primena uključena i koje kategorije. Ako je odgovor sve, tražite spisak izmena iz Change History za poslednjih 90 dana i izveštaj o pretraživanim terminima za isti period. Tu se vidi koliko je novca otišlo na pretrage koje su donele preporuke, a ne vi.
+
+## Nedeljni pregled preporuka za 15 minuta
+
+Preporuke nisu beskorisne. Neke ukazuju na stvarne propuste: ključnu reč koja se ne prikazuje, oglas sa slabim naslovima, praćenje koje ne radi. Poenta je da odluku donosi neko ko zna maržu i prodaju. Jednom nedeljno:
+
+1. Otvorite Preporuke i za svaku karticu postavite jedno pitanje: menja li ovo ko vidi oglas, koliko plaćamo ili šta brojimo kao uspeh? Ako je odgovor da, odluka je ručna.
+2. Za predloge novih ključnih reči otvorite izveštaj o pretraživanim terminima i proverite da li slične pretrage već donose upite koje prodaja zatvara.
+3. Odbacite ono što ne odgovara i zapišite zašto, u jednom redu. Odbačena preporuka može da se vrati posle nekog vremena, a beleška štedi drugu raspravu.
+4. Pogledajte Change History za izmene koje niste napravili vi.
+5. Uporedite cenu kvalifikovanog upita sa prethodnom nedeljom, ne samo CPL. Ako vam kolona konverzija i dalje broji svaki klik, prvo sredite [kvalifikovane konverzije](/blog/kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026) i [praćenje konverzija](/blog/pracenje-konverzija-lead-generation-srbija-2026).
+
+Ocena optimizacije posle ovoga raste i bez slepog primenjivanja, jer se odbijene preporuke računaju. Ako ostane ispod 100%, ništa strašno. Nijedan kupac ne vidi taj broj.
+
+## Šta da uradite danas
+
+Otvorite Google Ads, idite na Preporuke i proverite da li je uključena automatska primena. Ako jeste, isključite proširenja, široko podudaranje, promene licitiranja i uklanjanje negativnih reči. Zatim u Change History pogledajte šta je sistem promenio u poslednja tri meseca.
+
+Okvirne cene vođenja kampanja su na stranici [Google Ads cena](/google-reklame-cena) i u pregledu [cena digitalnog marketinga](/cene-digitalnog-marketinga). Ako želite da to prođemo zajedno, pošaljite kroz [kontakt formu](/kontakt) šta prodajete, u kojim gradovima i koliki je mesečni budžet. Pogledaćemo podešavanja automatske primene, istoriju izmena i pretraživane termine i reći vam koliko je budžeta otišlo na promene koje niko u firmi nije odobrio.
+`,
+  },
+  {
     slug: 'poskupljenje-usluga-2027-max-cpl-marketing-budzet-srbija',
     title: 'Poskupljenje usluga za 2027: kako nova cena menja maksimalni CPL i marketing budžet',
     excerpt: 'Poskupljujete usluge za 2027? Prvo preračunajte maksimalni CPL. Kada troškovi rastu a cena stoji, isti oglasi donose manje novca. Računica i lista izmena.',
