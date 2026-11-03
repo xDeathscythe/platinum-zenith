@@ -52,13 +52,12 @@ Brojevi su izmišljeni, ali računica je ista za svaku uslužnu firmu. Firma tro
 
 Automatska primena doda ključne reči sa širokim podudaranjem i uključi partnere za pretragu. Nove pretrage pojedu 30% budžeta. Klik je jeftiniji i CPL na tom delu pada na 1.500 dinara, ali je samo 10% tih upita ozbiljno.
 
-| | Pre automatske primene | Posle automatske primene |
-|---|---|---|
-| Budžet | 120.000 din | 120.000 din |
-| Ukupno upita | 60 | 66 |
-| Prosečan CPL | 2.000 din | 1.818 din |
-| Kvalifikovani upiti | 24 | 19,2 |
-| Cena kvalifikovanog upita | 5.000 din | 6.250 din |
+Budžet ostaje 120.000 dinara. Evo šta se menja:
+
+- **Ukupno upita:** 60 pre, 66 posle.
+- **Prosečan CPL:** 2.000 din pre, 1.818 din posle.
+- **Kvalifikovani upiti:** 24 pre, 19,2 posle.
+- **Cena kvalifikovanog upita:** 5.000 din pre, 6.250 din posle.
 
 U izveštaju sve izgleda bolje: 6 upita više, CPL niži za 9%, ocena optimizacije skoči. U prodaji je slika obrnuta. Skoro 5 ozbiljnih upita manje svakog meseca, a svaki dobar upit je 25% skuplji. Ako ocenjujete kampanju po prosečnom CPL-u, ovu promenu ćete pohvaliti. Zato smo u tekstu [CPL nije CAC](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026) insistirali da se gleda cena kupca, a granica za CPL računa iz marže kao u tekstu o [maksimalnoj ceni leada](/blog/maksimalna-cena-leada-srbija-2026).
 
@@ -66,17 +65,25 @@ U izveštaju sve izgleda bolje: 6 upita više, CPL niži za 9%, ocena optimizaci
 
 Ovo je podela koju koristimo za lokalne i B2B uslužne firme sa budžetom do nekoliko hiljada evra mesečno.
 
-| Preporuka | Šta može da pođe po zlu | Šta da uradite |
-|---|---|---|
-| Dodaj ključne reči sa širokim podudaranjem | Plaćate pretrage koje vaša firma ne prodaje, posebno ako konverzija nije kvalifikovan upit | Isključite. Široko podudaranje testirajte ručno, u posebnoj kampanji |
-| Dodaj ključne reči | Nove reči ulaze bez provere padeža, gradova i negativnih lista | Isključite. Pregledajte predloge jednom nedeljno |
-| Google partneri za pretragu, Display, proširenje ciljanja | Oglas izlazi van Google pretrage, kod ljudi koji ne traže vašu uslugu | Isključite za lokalne usluge |
-| Promena strategije licitiranja, ciljani CPA ili ROAS | Algoritam juri događaj koji ste nazvali konverzijom, makar to bio svaki klik na telefon | Isključite dok primarna konverzija nije kvalifikovan upit |
-| Ukloni negativne ključne reči u sukobu | Google rešava sukob brisanjem negativne reči koju ste možda dodali namerno | Isključite. Sukob rešite ručno |
-| Poboljšaj responzivne oglase | Naslovi se uzimaju sa sajta, uključujući staru cenu, završenu akciju ili obećanje koje prodaja ne drži | Isključite ako ste skoro menjali cene ili ponudu |
-| Dinamički oglasi za pretragu | Google bira stranice i naslove sa sajta, pa i blog tekstove koji ne prodaju ništa | Isključite dok ne odredite tačno koje stranice smeju u oglase |
-| Nadogradnja praćenja konverzija | Menja se ono što se meri, a time i sve ostale odluke | Uradite ručno, uz proveru da se konverzije ne broje duplo |
-| Ukloni suvišne i neaktivne ključne reči, optimizovana rotacija oglasa | Mali rizik | Mogu da ostanu, uz pogled u istoriju jednom nedeljno |
+### Isključite iz automatske primene
+
+- **Dodaj ključne reči sa širokim podudaranjem.** Plaćate pretrage koje vaša firma ne prodaje, posebno ako konverzija nije kvalifikovan upit. Široko podudaranje testirajte ručno, u posebnoj kampanji.
+- **Dodaj ključne reči.** Nove reči ulaze bez provere padeža, gradova i negativnih lista. Predloge pregledajte jednom nedeljno i dodajte samo ono što prodaja može da proda.
+- **Google partneri za pretragu, proširenje na Display i proširenje ciljanja.** Oglas izlazi van Google pretrage, kod ljudi koji ne traže vašu uslugu. Za lokalne usluge od toga retko nastane upit.
+- **Promena strategije licitiranja i ciljanog CPA ili ROAS.** Algoritam juri događaj koji ste nazvali konverzijom, makar to bio svaki klik na telefon. Dok primarna konverzija nije kvalifikovan upit, ovo ne puštajte samo.
+- **Ukloni negativne ključne reči u sukobu.** Google rešava sukob brisanjem negativne reči koju ste možda dodali namerno. Sukob rešite ručno.
+- **Poboljšaj responzivne oglase.** Naslovi se uzimaju sa sajta, uključujući staru cenu, završenu akciju ili obećanje koje prodaja ne drži. Obavezno isključite ako ste skoro menjali cene ili ponudu.
+- **Dinamički oglasi za pretragu.** Google bira stranice i naslove sa sajta, pa i blog tekstove koji ništa ne prodaju. Isključite dok ne odredite tačno koje stranice smeju u oglase.
+
+### Uradite ručno
+
+Nadogradnja praćenja konverzija menja ono što se meri, a time i svaku odluku posle toga. Korisna je, ali je radite sami i proverite da se ista forma ili poziv ne broje dva puta.
+
+### Mogu da ostanu
+
+Uklanjanje suvišnih i neaktivnih ključnih reči i optimizovana rotacija oglasa nose mali rizik. Ostavite ih, ali jednom nedeljno pogledajte istoriju izmena.
+
+### Dva slučaja koja se lako previde
 
 Negativne reči u sukobu zaslužuju jedan primer. Firma za klimatizaciju ima negativnu reč besplatno, jer joj ne trebaju ljudi koji traže besplatno uputstvo. Kasnije neko doda ključnu reč besplatna procena klime. Google vidi sukob i predloži brisanje negativne reči. Ako se to primeni samo, oglas ponovo počne da se pojavljuje na svim pretragama sa rečju besplatno. Pravilno rešenje je obrnuto: izbaciti ključnu reč ili suziti negativnu. Kako se slažu negativne liste na srpskom, sa padežima i ćirilicom, opisali smo u tekstu o [tipovima podudaranja](/blog/tipovi-podudaranja-kljucnih-reci-google-ads-lead-generation-srbija-2026).
 
