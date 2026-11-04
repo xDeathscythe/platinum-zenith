@@ -1,5 +1,115 @@
 const rawBlogPosts = [
   {
+    slug: 'pregovori-o-ceni-posle-ponude-popust-marza-srbija-2026',
+    title: 'Pregovori o ceni posle ponude u Srbiji 2026: šta dati umesto popusta',
+    excerpt: 'Kada kupac posle ponude kaže skupo je, popust od 10% lako odnese skoro trećinu zarade. Kako da pregovarate razmenom, pragovima odobrenja i CRM poljima.',
+    date: '2026-11-04',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Prodaja', 'Pregovori', 'Popust', 'Marža', 'CRM', 'Lead Generation'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Popust od 10% ne košta 10%
+
+Ponuda je poslata, razgovor je prošao dobro, a onda stigne poruka: skupo je, možete li nešto da uradite sa cenom? Prodavac hoće da zatvori posao pre kraja meseca i ponudi 10%. Ugovor se potpiše i svi su zadovoljni.
+
+Računica izgleda drugačije kada pogledate šta ostaje firmi. Uzmimo izmišljen primer: projekat od 300.000 dinara sa bruto maržom od 35%. Firmi ostaje 105.000 dinara pre troškova marketinga. Popust od 10% je 30.000 dinara i ceo ide iz te zarade. Posle popusta ostaje 75.000 dinara. To je 28,6% manje bruto profita za ustupak koji je na papiru bio deset procenata.
+
+Sad dodajte kampanju. Ako upit iz Google Ads košta 4.000 dinara i svaki peti kvalifikovani upit postane posao, oglasi koštaju 20.000 dinara po kupcu. Bez popusta posle oglasa ostaje 85.000 dinara po poslu, a sa popustom 55.000. Da bi zaradila isto kao pre, firmi treba 54,5% više potpisanih poslova po istoj ceni kupca. Pri istoj stopi zatvaranja to je i 54,5% više kvalifikovanih upita iz kampanje, samo da bi se pokrio ustupak koji prodavac ljubazno daje na svakom poslu.
+
+Isti mehanizam važi i za velike firme. McKinsey je u tekstu [The power of pricing](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-power-of-pricing) na prosečnom bilansu kompanija iz indeksa S&P 1500 pokazao da pad prosečne cene od 1% obara operativnu dobit za oko 8% kada se ništa drugo ne promeni. U istom tekstu stoji da bi obim prodaje morao da poraste 18,7% samo da pokrije efekat rezanja cene od 5%. Mala uslužna firma u Srbiji ima druge brojke, ali smer je isti: popust plaćate iz zarade.
+
+## Šta zapravo znači skupo je
+
+Rečenica skupo je nema sadržaj dok ne znate u odnosu na šta. Zato je prvo pitanje posle nje kratko i mirno: skupo u odnosu na šta? Odgovori se najčešće svode na četiri slučaja i svaki traži drugi potez.
+
+### Imaju jeftiniju ponudu konkurencije
+
+Zamolite da zajedno prođete obe ponude, stavku po stavku. Često se pokaže da druga ponuda nema garanciju, montažu, nadzor, rok ili broj izmena. Tada ne spuštate cenu. Pokazujete razliku u obimu i pustite kupca da sam odluči šta mu treba.
+
+### Ne uklapa se u budžet
+
+Pitajte koliki je budžet i šta im je u poslu najvažnije. Onda smanjite obim ili podelite posao u faze. Cena po jedinici posla ostaje ista, menja se samo koliko posla kupuju sada.
+
+### Ne vide zašto toliko košta
+
+To znači da ponuda opisuje šta radite, a ćuti o problemu koji rešavate. Vratite razgovor na problem i na cenu greške ako se posao uradi loše. Detaljnije smo to razradili u tekstu o [prodaji premium usluge bez spuštanja cene](/blog/kako-prodati-premium-uslugu-bez-spustanja-cene-srbija-2026).
+
+### Odlažu odluku
+
+Neko drugi odlučuje, novac stiže tek za dva meseca, ili su već izabrali drugog. Popust ovde ništa ne rešava, samo ga poklanjate. Pitajte ko još učestvuje u odluci i do kog datuma treba da znaju odgovor. Ako se odluka stalno pomera, pomaže [rok važenja ponude](/blog/rok-vazenja-ponude-leadovi-prodaja-srbija-2026) sa datumom koji ste dogovorili unapred.
+
+## Svaki ustupak menjajte za nešto
+
+Pravilo koje štedi najviše novca: nijedan ustupak bez nečega zauzvrat. Ako kupac dobije nižu cenu, firma dobija nešto što za nju ima vrednost. Primeri razmene:
+
+- veći avans, na primer 50% umesto 30%, što direktno pomaže [novčani tok i rok naplate](/blog/avans-rok-naplate-marketing-budzet-lead-generation-srbija-2026);
+- termin izvođenja u mesecu kada vam je kapacitet prazan, umesto u špicu sezone;
+- uži obim, bez stavke koju kupac ionako ne smatra bitnom;
+- potpis do konkretnog datuma;
+- dozvola da posao prikažete kao referencu, sa fotografijama i imenom firme;
+- duži ugovor ili više usluga u jednom paketu.
+
+Redosled je bitan. Prvo pitajte šta bi im pomoglo da odluče danas. Ako je odgovor samo niža cena, ponudite manji obim po istoj jediničnoj ceni. Popust ostaje poslednja opcija, i tada mali, sa razlogom koji se zapiše.
+
+Kupac koji vidi da se svaka promena cene vezuje za nešto konkretno prestaje da pita ponovo. Kupac koji je dobio 10% posle jedne poruke sledeći put traži 15.
+
+## Ko sme da odobri koliko
+
+U pomenutom McKinsey tekstu postoji primer proizvođača rasvete. Mnogi manji kupci imali su veće popuste nego što im veličina opravdava. Većina njih nije imala poseban razlog: dugo su sarađivali sa firmom i znali su koga da pozovu za dodatni popust, duži rok plaćanja ili još promotivnog novca. Firma je, pored drugih mera, uvela stroža pravila za popuste i počela da prati stvarno naplaćenu cenu po transakciji. U prvoj godini prosečna naplaćena cena porasla je 3,6%, a operativna dobit 51%.
+
+Mala firma nema sistem za upravljanje cenama, ali ima isti problem u manjem obimu. Zato pragove odobrenja dogovorite unapred, jednom rečenicom po nivou:
+
+- do 3% prodavac odlučuje sam, ali samo u zamenu za nešto sa spiska iznad;
+- od 3% do 7% odobrava šef prodaje ili vlasnik, uz zapisan razlog;
+- preko 7% se šalje nova ponuda sa manjim obimom, bez popusta.
+
+Brojke prilagodite svojoj marži. U našem primeru popust od 3% odnosi 8,6% bruto profita, popust od 5% odnosi 14,3%, a popust od 10% odnosi 28,6%. Firma sa maržom od 20% mora da postavi niže pragove od firme sa maržom od 50%.
+
+## Šta upisati u CRM posle svakog pregovora
+
+Ako se popust dogovori telefonom i nigde ne zapiše, za tri meseca niko ne zna zašto zarada po poslu pada. Uz svaki zatvoren posao dodajte nekoliko polja:
+
+- ponuđena cena i realizovana cena;
+- iznos ustupka u dinarima i u procentima;
+- šta je firma dobila zauzvrat;
+- ko je odobrio ustupak;
+- izvor leada: kampanja i ključna reč, preporuka ili organska pretraga.
+
+Ova polja se nadovezuju na [CRM za leadove](/blog/crm-za-leadove-evidencija-prodaja-srbija-2026) i na [razloge izgubljenih poslova](/blog/razlozi-izgubljenih-poslova-leadovi-prodaja-srbija-2026). Posle mesec dana imate odgovor na pitanje koje većina firmi ne ume ni da postavi: koliko novca nestane između ponude i fakture, i odakle dolaze kupci koji uvek traže popust.
+
+## Izvor leada menja koliko smete da platite upit
+
+Ovde se pregovori vraćaju u marketing. Recimo da upiti sa pretraga koje sadrže jeftino ili povoljno završavaju sa prosečnim ustupkom od 12%, a upiti sa pretraga po nazivu usluge i gradu sa 3%. Ta dva izvora ne vrede isto ni kada imaju isti CPL i istu stopu zatvaranja.
+
+Vratimo se na primer sa početka. Ako firma odluči da na pribavljanje kupca troši najviše 30% bruto profita, maksimalni CAC je 31.500 dinara, a maksimalni CPL 6.300 dinara pri stopi zatvaranja od 20%. Kada svaki posao ode uz popust od 10%, maksimalni CAC pada na 22.500 dinara, a maksimalni CPL na 4.500 dinara. Oglas i ključna reč su isti, a granica isplativosti je 28,6% niža. Kako se ta granica računa objasnili smo u tekstu o [maksimalnoj ceni leada](/blog/maksimalna-cena-leada-srbija-2026), a vezu sa maržom u tekstu o [bruto marži i marketing budžetu](/blog/bruto-marza-marketing-budzet-roi-srbija-2026).
+
+Ako u Google Ads uvozite vrednost posla kao vrednost konverzije, uvozite realizovanu cenu. Google Ads ima [prilagođavanje konverzija](https://support.google.com/google-ads/answer/7686280?hl=en): vrednost već zabeležene konverzije možete da ispravite (RESTATE) ili da konverziju potpuno povučete iz izveštaja (RETRACT). Za to konverzije treba da pratite sa ID-jem porudžbine, a kod uvezenih offline konverzija može i preko GCLID-a i vremena konverzije. Tako pametno licitiranje uči na novcu koji je stvarno ušao i prestaje da gura pretrage koje donose kupce sa najvećim popustima. Kako se postavljaju takve konverzije, pisali smo u tekstu o [kvalifikovanim konverzijama](/blog/kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026).
+
+## Kada je popust ipak dobar posao
+
+Ustupak ima smisla kada je kapacitet za naredni mesec prazan, a plate i zakup teku. Posao sa nižom maržom tada je bolji od praznog termina, pod uslovom da ga ne prodajete kao novu redovnu cenu. Smisla ima i kada kupac donosi ugovor na godinu dana ili ponovljene poslove, pa se zarada računa kroz više faktura.
+
+I tada ga zapišite, sa razlogom. Planirane akcije sa sniženom cenom su posebna priča sa sopstvenom računicom budžeta, opisana u tekstu o [popustima i akcijama](/blog/popusti-akcije-marketing-budzet-roi-lead-generation-srbija-2026).
+
+## Pregovor počinje u ponudi
+
+Najmanje cenkanja ima kada ponuda ima jasan obim, rok važenja i dogovoren sledeći korak. Kako da ponuda ne izgleda kao cenovnik, pisali smo u tekstu o [ponudi posle upita](/blog/ponuda-posle-upita-leadovi-prodaja-srbija-2026). Pomaže i [cenovni okvir na sajtu](/blog/cene-na-sajtu-usluge-kvalitet-leadova-srbija-2026), jer ljudi kojima je cena jedina prepreka odustanu pre nego što pošalju upit.
+
+Pre slanja ponude zapišite dve stvari: cenu ispod koje posao ne prihvatate i spisak ustupaka koje možete da date bez spuštanja cene. Kada kupac kaže skupo je, prodavac ne improvizuje.
+
+## Šta da uradite ove nedelje
+
+Izvucite poslednjih 20 zatvorenih poslova i za svaki upišite ponuđenu i realizovanu cenu. Izračunajte prosečan ustupak i podelite ga po izvoru leada. Ako je prosek iznad 5%, uvedite pragove odobrenja od sledećeg ponedeljka.
+
+Okvirne cene vođenja kampanja su na stranicama [Google Ads cena](/google-reklame-cena) i [cene digitalnog marketinga](/cene-digitalnog-marketinga). Ako želite da proverimo koliko vas popusti koštaju po kampanji, pošaljite kroz [kontakt formu](/kontakt) šta prodajete, prosečnu vrednost posla i maržu. Uporedićemo izvore leadova po realizovanoj ceni i reći vam koje kampanje donose kupce koji plaćaju punu cenu.
+`,
+  },
+  {
     slug: 'google-ads-ocena-optimizacije-automatske-preporuke-srbija-2026',
     title: 'Google Ads preporuke i ocena optimizacije: šta isključiti iz automatske primene',
     excerpt: 'Ocena optimizacije od 100% ne znači da Google Ads donosi posao. Koje preporuke isključiti iz automatske primene i kako ih pregledati za 15 minuta nedeljno.',

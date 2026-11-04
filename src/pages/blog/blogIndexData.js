@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "pregovori-o-ceni-posle-ponude-popust-marza-srbija-2026",
+    "title": "Pregovori o ceni posle ponude u Srbiji 2026: šta dati umesto popusta",
+    "excerpt": "Kada kupac posle ponude kaže skupo je, popust od 10% lako odnese skoro trećinu zarade. Kako da pregovarate razmenom, pragovima odobrenja i CRM poljima.",
+    "date": "2026-11-04",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-ocena-optimizacije-automatske-preporuke-srbija-2026",
     "title": "Google Ads preporuke i ocena optimizacije: šta isključiti iz automatske primene",
     "excerpt": "Ocena optimizacije od 100% ne znači da Google Ads donosi posao. Koje preporuke isključiti iz automatske primene i kako ih pregledati za 15 minuta nedeljno.",
