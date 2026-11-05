@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-fizicko-obezbedjenje-cena-upita-srbija-2026",
+    "title": "Google Ads za fizičko obezbeđenje u Srbiji 2026: cena upita za ugovor o objektu",
+    "excerpt": "Google Ads za fizičko obezbeđenje isplati se kroz mesečne ugovore za objekte. Kako da odvojite kupce od ljudi koji traže posao i odredite cenu upita.",
+    "date": "2026-11-05",
+    "category": "Google Ads",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "pregovori-o-ceni-posle-ponude-popust-marza-srbija-2026",
     "title": "Pregovori o ceni posle ponude u Srbiji 2026: šta dati umesto popusta",
     "excerpt": "Kada kupac posle ponude kaže skupo je, popust od 10% lako odnese skoro trećinu zarade. Kako da pregovarate razmenom, pragovima odobrenja i CRM poljima.",

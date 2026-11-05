@@ -1,5 +1,126 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-fizicko-obezbedjenje-cena-upita-srbija-2026',
+    title: 'Google Ads za fizičko obezbeđenje u Srbiji 2026: cena upita za ugovor o objektu',
+    excerpt: 'Google Ads za fizičko obezbeđenje isplati se kroz mesečne ugovore za objekte. Kako da odvojite kupce od ljudi koji traže posao i odredite cenu upita.',
+    date: '2026-11-05',
+    readTime: '8 min read',
+    category: 'Google Ads',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Fizičko obezbeđenje', 'Agencije za obezbeđenje', 'Cena upita', 'Negativne ključne reči', 'B2B usluge'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Ko u Srbiji kuca "obezbeđenje" u pretragu
+
+Agencija za fizičko obezbeđenje koja pusti kampanju na reč "obezbeđenje" brzo otkrije da prodaje ugovore jednoj publici, a klikove plaća drugoj. Pretragu kucaju ljudi koji traže posao čuvara, ljudi koji spremaju ispit za licencu, polaznici obuke i tek onda vlasnik magacina koji traži nekoga za noćnu smenu. Sve četiri grupe koriste istu reč. Google ne zna koja je vaša, dok mu to ne kažete.
+
+Proverite izveštaj o pretragama (search terms report) posle prve nedelje. Google tu pokazuje stvarne izraze koje su ljudi ukucali i za koje se oglas prikazao, ne ključne reči koje ste vi dodali. U ovoj delatnosti taj izveštaj je obično prva neprijatna stvar koju agencija vidi: "obezbeđenje posao Novi Sad", "plata radnika obezbeđenja", "test pitanja za licencu", "kurs za obezbeđenje cena".
+
+Ti ljudi nisu loši posetioci. Oni su sledeći zaposleni koje vam treba, o čemu ima više reči niže. Samo ne pripadaju kampanji koja treba da donese ugovor.
+
+## Tri prodaje koje ne smeju u istu kampanju
+
+Fizičko obezbeđenje nije jedna usluga sa jednom cenom. Stalno mesto na objektu, redarska služba na koncertu i dva čuvara za gradilište preko vikenda imaju različitog kupca, ciklus prodaje i maržu. Kada su u istoj kampanji, budžet ode na izraz koji se najčešće pretražuje, a to retko bude onaj koji donosi godišnji ugovor.
+
+Početna podela:
+
+- stalno obezbeđenje objekta (magacin, proizvodnja, tržni centar, stambeni kompleks, poslovna zgrada), sa landing stranom koja govori o mesečnom ugovoru, kontrolnom centru i zameni čuvara;
+- obezbeđenje događaja i redarska služba (koncerti, sportske priredbe, svadbe, korporativni događaji), sa formom koja pita za datum, lokaciju i broj posetilaca;
+- kratka i hitna angažovanja (gradilište, objekat u renoviranju, prazan pogon, inventar posle provale), gde kupac traži nekoga od sutra;
+- tehnička zaštita (alarmi, video nadzor, dojava na kontrolni centar) ostaje posebna kampanja, jer tu kupac traži opremu i montažu. O tome detaljno piše tekst [Google Ads za video nadzor i alarme](/blog/google-ads-za-video-nadzor-i-alarme-cena-upita-srbija-2026).
+
+Za ugovore po objektima vredi pogledati i šta ide u izveštaj o lokaciji. Kupac obezbeđenja za fabriku u Šapcu može da traži iz Beograda, i obrnuto. Kako da postavite prisustvo naspram interesovanja za lokaciju objašnjeno je u tekstu o [ciljanju lokacije u Google Ads](/blog/google-ads-ciljanje-lokacije-prisustvo-interesovanje-srbija-2026).
+
+## Koliko sme da košta jedan upit
+
+Evo namerno pojednostavljenog primera. Brojevi nisu tržišni podaci, nego ilustracija računice. Zamenite ih svojim.
+
+### Stalno mesto na objektu, 24 sata dnevno
+
+- Jedno mesto 24/7 je 730 sati mesečno.
+- Pri ceni od 750 dinara po satu, to je 547.500 dinara prihoda mesečno.
+- Ako je bruto marža 12% (obezbeđenje je delatnost u kojoj najveći deo cene ide na rad), ostaje 65.700 dinara mesečno, odnosno 788.400 dinara za 12 meseci.
+- Ako firma prihvata da za novog klijenta potroši bruto zaradu od prva tri meseca, maksimalni trošak sticanja klijenta (CAC) je 197.100 dinara.
+- Kada iz 10 kvalifikovanih upita nastane jedan ugovor, kvalifikovan upit sme da košta do 19.710 dinara.
+
+### Jedan događaj
+
+- Šest redara po osam sati, po 900 dinara po satu, daje 43.200 dinara prihoda.
+- Uz bruto maržu od 25% ostaje 10.800 dinara.
+- Ako na marketing ide najviše 30% te zarade, CAC je 3.240 dinara.
+- Kada se svaki četvrti upit pretvori u posao, upit sme da košta 810 dinara.
+
+U ovom primeru upit za stalno mesto sme da bude 24 puta skuplji od upita za događaj. Ako obe usluge dele kampanju i budžet, Google će optimizovati na jeftiniji i brži upit, a firma će dobiti mnogo svadbi i malo ugovora. Organizator koji radi deset događaja godišnje menja ovu računicu, pa ponovljene klijente računajte posebno.
+
+Opšti okvir za ovu računicu nalazi se u tekstovima o [maksimalnoj ceni leada](/blog/maksimalna-cena-leada-srbija-2026) i o tome zašto [bruto marža određuje marketing budžet](/blog/bruto-marza-marketing-budzet-roi-srbija-2026).
+
+## Jedno mesto 24/7 traži četiri do pet ljudi
+
+Puno radno vreme od 40 sati nedeljno je oko 173 sata mesečno. Za 730 sati jednog mesta treba nešto više od četiri čoveka, a kad se dodaju godišnji odmori, bolovanja i rezerva, realno pet. Ugovor sa tri mesta 24/7 znači da agencija mora da zaposli ili prerasporedi petnaestak licenciranih službenika pre nego što ugovor krene.
+
+Zato kampanja za ugovore ne sme da raste brže od zapošljavanja. Agencija koja dobije pet novih ugovora mesečno, a ima ljude za dva, dobiće loše recenzije i otkazane ugovore, a ne rast. Budžet postavite prema broju mesta koje stvarno možete da popunite u sledećih 30 do 60 dana. Isti princip je opisan u tekstu o [kapacitetu prodaje i marketing budžetu](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026).
+
+Ovde se vraćaju ljudi koji traže posao. Umesto da ih samo isključite, napravite posebnu stranu za zapošljavanje i, ako vam treba ljudi, posebnu malu kampanju za nju, sa sopstvenim budžetom i sopstvenom konverzijom (prijava kandidata). Tako trošak zapošljavanja ne kvari cenu upita za ugovore, a reči kao "posao obezbeđenje" postaju korisne umesto skupe.
+
+## Negativne ključne reči, sa padežima
+
+U prodajnim kampanjama isključite izraze koji ne vode ka ugovoru. Google u pomoći za negativne ključne reči kaže da se one ne poklapaju sa bliskim varijantama i da sinonime, jedninu i množinu morate dodati sami. Za srpski to znači i padeže.
+
+Početna lista za prodajne kampanje:
+
+- posao, posla, poslovi, oglas, oglasi, plata, plate, konkurs, zapošljavanje, Infostud;
+- obuka, obuke, kurs, kursevi, ispit, ispita, test pitanja, stručni ispit;
+- "licenca za obezbeđenje" kao fraza, jer kupac nekad baš traži licenciranu agenciju, pa samu reč "licenca" ne isključujte široko;
+- oprema, uniforma, pendrek, sprej, prsluk, ako opremu ne prodajete;
+- ćirilični oblici najčešćih izraza: посао, обука, плата, курс.
+
+Svake nedelje prođite izveštaj o pretragama i dodajte nove oblike koje vidite. Kako tipovi podudaranja utiču na to šta plaćate objašnjeno je u tekstu o [tipovima podudaranja ključnih reči](/blog/tipovi-podudaranja-kljucnih-reci-google-ads-lead-generation-srbija-2026).
+
+## Šta kupac obezbeđenja želi da vidi pre nego što pošalje upit
+
+Firma koja traži obezbeđenje za objekat kupuje rizik, ne radne sate. Hoće da zna da agencija sme legalno da radi taj posao i šta se dešava u tri ujutru kada čuvar ne dođe na smenu.
+
+Zakon o privatnom obezbeđenju ("Sl. glasnik RS", br. 104/2013, 42/2015 i 87/2018) predviđa posebne licence Ministarstva unutrašnjih poslova za pravna lica, među njima licencu za fizičko-tehničku zaštitu bez oružja i posebnu licencu sa oružjem (član 9). Za fizičko-tehničku zaštitu zakon traži i sopstveni ili ugovoreni kontrolni centar (član 10). To je konkretan materijal za landing stranu, a ne pravni ukras:
+
+- koje licence agencija ima i za koje poslove, sa brojem rešenja;
+- da li radi sa oružjem ili bez, jer to menja i cenu i kupca;
+- kako radi kontrolni centar i koliko traje izlazak interventne ekipe u gradu u kome kupac ima objekat;
+- šta se dešava kada čuvar izostane i ko to plaća;
+- okvirna cena po satu ili po mestu mesečno, makar kao raspon.
+
+Za događaje zakon ima još jednu korisnu tačku: kada se na javnom skupu ili sportskoj priredbi angažuje više od deset službenika obezbeđenja ili redara, mora se napraviti plan obezbeđenja koji se dostavlja policijskoj stanici (član 41). Agencija koja na strani za događaje kaže da taj plan priprema ona, skida organizatoru jedan posao sa liste. To je razlog da se javi baš vama.
+
+## Forma koja odvaja ugovor od radoznalog upita
+
+Za stalno obezbeđenje pitajte samo ono što menja ponudu:
+
+- vrsta i grad objekta;
+- broj mesta i radno vreme (samo noću, vikendom ili 24/7);
+- sa oružjem ili bez;
+- od kada vam treba i da li sada imate drugu agenciju;
+- telefon osobe koja odlučuje.
+
+Za događaje: datum, lokacija, očekivan broj posetilaca i vrsta događaja. Pitanje "da li sada imate agenciju" je važnije nego što izgleda. Kupac koji menja pružaoca obično već zna koliko plaća i zašto nije zadovoljan, pa je razgovor kraći i konkretniji. Više o pitanjima koja filtriraju upite bez gubitka dobrih kupaca piše u tekstu o [kvalifikaciji kroz kontakt formu](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026).
+
+## Merite procenu objekta, ne poziv
+
+Popunjena forma za ugovor o obezbeđenju je tek početak. Pravi signali dolaze kasnije: izlazak na procenu objekta, poslata ponuda, potpisan ugovor. Ako Google Ads uči samo na formama, naučiće da dovodi ljude koji najlakše popunjavaju forme, a to su često upravo oni koji traže posao preko pogrešne strane.
+
+Upisujte u CRM izvor svakog upita i njegov status, pa vraćajte u Google Ads bar događaj "procena zakazana" ili "ponuda poslata". Kako se to postavlja opisano je u tekstu o [kvalifikovanim konverzijama](/blog/kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026). Ciklus prodaje za veće objekte može da traje nedeljama, pa kampanju ne ocenjujte posle prvih deset dana.
+
+## Početni plan za agenciju koja kreće od nule
+
+Dve prodajne kampanje (stalno obezbeđenje objekata i događaji), lista negativnih reči sa padežima od prvog dana, landing strana za svaku sa licencama, kontrolnim centrom i rasponom cene, forma sa pet pitanja i nedeljni pregled izveštaja o pretragama. Ako vam treba ljudi, treća mala kampanja za zapošljavanje. Budžet za ugovore određuje broj mesta koje možete da popunite, a ne broj klikova koji možete da kupite. Okvir za trošak klika i budžet nalazi se na strani [cena Google reklama](/google-reklame-cena), a za ukupan plan na strani [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+Ako vodite agenciju za fizičko obezbeđenje, pošaljite kroz [kontakt formu](/kontakt) koje usluge prodajete, grad ili region, cenu po satu ili po mestu, približnu bruto maržu i koliko novih mesta možete da popunite mesečno. Napravićemo plan u kome budžet prati broj ljudi koje stvarno možete da pošaljete na objekat.
+
+Izvori: [Zakon o privatnom obezbeđenju, Paragraf Lex](https://www.paragraf.rs/propisi/zakon_o_privatnom_obezbedjenju.html), [Google Ads Help: About negative keywords](https://support.google.com/google-ads/answer/2453972), [Google Ads Help: About the search terms report](https://support.google.com/google-ads/answer/2472708).
+`,
+  },
+  {
     slug: 'pregovori-o-ceni-posle-ponude-popust-marza-srbija-2026',
     title: 'Pregovori o ceni posle ponude u Srbiji 2026: šta dati umesto popusta',
     excerpt: 'Kada kupac posle ponude kaže skupo je, popust od 10% lako odnese skoro trećinu zarade. Kako da pregovarate razmenom, pragovima odobrenja i CRM poljima.',
