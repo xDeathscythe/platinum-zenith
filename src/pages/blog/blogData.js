@@ -1,5 +1,106 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-pdv-stvarni-trosak-oglasa-pausalci-srbija-2026',
+    title: 'Google Ads i PDV u Srbiji 2026: koliko oglas stvarno košta firmu van PDV sistema',
+    excerpt: 'Firma van PDV za 100.000 dinara u Google Ads nalogu plaća 120.000. Kako PDV menja stvarni CPL, maksimalnu cenu leada i plan budžeta za 2027.',
+    date: '2026-11-06',
+    readTime: '7 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'PDV', 'Marketing budžet', 'Maksimalni CPL', 'Paušalci', 'ROI'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Broj u Google Ads nalogu nije broj sa vašeg računa
+
+Google Ads nalog pokazuje trošak bez PDV. Za firmu u sistemu PDV to je uglavnom i stvarni trošak, jer porez odbija kao prethodni porez. Za paušalca, malog obveznika i firmu čije su usluge oslobođene PDV bez prava na odbitak, taj isti broj je za 20% manji od novca koji stvarno izlazi iz firme.
+
+Nalog kaže 100.000 dinara. Firma van PDV plaća 120.000. CPL u izveštaju je 2.500 dinara, a stvarni je 3.000.
+
+Razlika od 20% nije sitnica koju knjigovođa sredi na kraju meseca. Ona menja [maksimalnu cenu leada](/blog/maksimalna-cena-leada-srbija-2026), [tačku rentabilnosti](/blog/break-even-marketing-budzeta-srbija-2026) i odluku da li kampanja uopšte vredi. Ako je ne uračunate, kampanja koja deluje isplativo može da radi na nuli ili u minusu.
+
+## Zašto na oglas iz inostranstva uopšte ide PDV
+
+Google oglašavanje firmama u Srbiji naplaćuje strano lice. Zakon o porezu na dodatu vrednost za to ima jasna pravila:
+
+- **Mesto prometa je Srbija.** Po [članu 12 Zakona o PDV](https://www.paragraf.rs/propisi/zakon_o_porezu_na_dodatu_vrednost.html), kada strano lice pruža uslugu nekome ko obavlja delatnost, mesto prometa je tamo gde primalac ima sedište. To važi i za preduzetnika paušalca, ne samo za DOO u sistemu PDV.
+- **PDV obračunava primalac.** Po članu 10, kada strano lice nije obveznik PDV u Srbiji, poreski dužnik je primalac usluge. Tu nema izuzetka za firme van sistema PDV.
+- **Rok je kratak.** Po članu 50, poreski dužnik koji nije obveznik PDV podnosi prijavu u roku od deset dana po isteku poreskog perioda u kom je obaveza nastala.
+- **Mali obveznik nema pravo na odbitak.** Član 33 kaže da firma sa prometom do 8.000.000 dinara u prethodnih 12 meseci ne obračunava PDV i nema pravo na odbitak prethodnog poreza.
+
+Opšta stopa je 20% (član 23). Kako tačno izgleda vaš Google račun i kako se knjiži, potvrdite sa svojim knjigovođom. Za budžet je važan jedan zaključak: ako firma ne može da odbije PDV, 20% na oglase je trošak marketinga isto kao i klik.
+
+Isto važi za firme u sistemu PDV koje rade promet oslobođen bez prava na odbitak. Član 25 tu navodi, na primer, usluge zdravstvenih ustanova i obrazovanje, a član 28 daje pravo na odbitak samo za promet koji ga dozvoljava. [Poliklinika](/blog/google-ads-za-poliklinike-cena-pregleda-srbija-2026) koja je zdravstvena ustanova može da bude u PDV sistemu i opet da plaća punih 120%.
+
+## Računica: maksimalni CPL u nalogu mora da bude niži
+
+Primer je izmišljen, samo da brojevi budu jasni. Usluga u proseku vredi 60.000 dinara. Bruto marža je 40%, pa po poslu ostaje 24.000 dinara. Firma je spremna da 30% te zarade da za dovođenje kupca, što je 7.200 dinara. Prodaja zatvara svaki četvrti lead.
+
+- **Stvarni maksimalni CPL:** 7.200 x 25% = 1.800 dinara.
+- **Granica koju gledate u nalogu za firmu van PDV:** 1.800 / 1,2 = 1.500 dinara.
+- **Šta se desi ako u nalogu tolerišete 1.800:** stvarno plaćate 2.160 dinara po leadu, 20% iznad granice.
+
+Vlasnik vidi CPL od 1.700 dinara i misli da je ispod limita. Nije. Svaki lead ga košta 2.040 dinara, a ta razlika se vidi tek kada se sabere ceo kvartal.
+
+Zato granicu za firmu van PDV računajte unazad: prvo stvarni maksimum iz marže i [stope zatvaranja](/blog/stopa-zatvaranja-leadova-marketing-budzet-srbija-2026), pa ga podelite sa 1,2. Tek taj broj upoređujete sa izveštajem iz naloga.
+
+## Ista kampanja, dve firme, različit trošak
+
+Dve firme imaju isti budžet u nalogu od 100.000 dinara mesečno i istu agenciju sa honorarom od 40.000 dinara plus PDV.
+
+- **Firma u sistemu PDV sa pravom na odbitak:** neto trošak je 140.000 dinara. PDV na oglase i na honorar vraća kroz prethodni porez.
+- **Paušalac ili mali obveznik:** plaća 120.000 za oglase i 48.000 za honorar, ukupno 168.000 dinara.
+
+Razlika je 28.000 dinara mesečno za potpuno iste klikove i isti rad. Na godišnjem nivou samo PDV na oglase od 100.000 mesečno iznosi 240.000 dinara.
+
+Kada uporedite ponude agencija, uporedite ih po ukupnom iznosu koji izlazi iz firme. Ponuda koja kaže budžet plus honorar, bez reči o PDV, za firmu van PDV nije ponuda sa konačnom cenom. Više o modelima naplate imate u tekstu o [fiksnom honoraru i procentu budžeta](/blog/fiksni-fee-procenat-budzeta-performance-agencija-srbija-2026) i na strani [fiksna naknada vs revenue share](/fiksna-naknada-vs-revenue-share).
+
+## Kada firma uđe u PDV, oglasi praktično pojeftine
+
+Ovo se često previdi. Paušalac koji pređe prag od 8 miliona i uđe u sistem PDV dobija pravo na odbitak. Ista kampanja tada košta oko 16,7% manje u stvarnom novcu, jer 120.000 postaje 100.000.
+
+Drugačije rečeno, isti novac iz firme kupuje 20% više oglašavanja. Ako ste budžet do sada sekli zbog PDV, posle ulaska u sistem ponovo izračunajte maksimalni CPL. Granica od 1.500 dinara u nalogu postaje 1.800, a neke ključne reči koje su bile preskupe mogu da postanu isplative.
+
+Važi i obrnuto. Firma koja izađe iz sistema PDV, ili pređe na delatnost bez prava na odbitak, mora odmah da spusti granice u nalogu. Inače nastavlja da kupuje leadove po ceni koja je važila za drugi poreski status.
+
+## Valuta naloga: odluka koju ne možete da promenite
+
+Druga skrivena stavka je kurs. Prema [Google Ads pomoći](https://support.google.com/google-ads/answer/9842104?hl=en), valuta naloga se trajno postavlja pri otvaranju i ne može da se promeni. Ako želite drugu valutu, morate da otvorite novi nalog.
+
+Ako je nalog u evrima, a kartica vezana za dinarski račun, banka konvertuje po svom kursu i uz svoje uslove. Koliko to košta zavisi od banke i kartice, pa to proverite u izvodu, ne u pretpostavci. Za budžet je bitno da trošak u dinarima nije isti broj kao trošak u nalogu pomnožen sa srednjim kursom.
+
+Kada otvarate nov nalog, valutu birajte sa knjigovođom i bankom, ne usput. Ako već imate nalog u evrima, u planu budžeta držite malu rezervu za kurs, isto kao [rezervu za korekcije kampanje](/blog/rezervni-marketing-budzet-korekcije-lead-generation-srbija-2026).
+
+## Gde firme najčešće greše
+
+- **Agencija javlja CPL iz naloga, vlasnik ga poredi sa maržom.** Za paušalca su to dva različita broja, a niko to ne kaže naglas.
+- **Budžet od 100.000 se planira kao 100.000.** Na kraju meseca fali 20.000 i kampanja se gasi baš kada je počela da uči.
+- **PDV na oglase se plati kasno.** Rok od deset dana prođe jer niko nije znao da obaveza postoji.
+- **ROI se računa iz prihoda, a trošak bez PDV.** Za firmu van PDV time se povrat precenjuje. Detaljnije o tome u tekstu [CPL nije CAC](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026).
+- **Promena poreskog statusa ne stigne do naloga.** Firma uđe u PDV, a granice u kampanji ostanu stare još šest meseci.
+
+## Kako da postavite budžet za 2027.
+
+Ako ovih dana pravite [plan marketing budžeta za 2027](/blog/marketing-budzet-za-2027-plan-iz-brojeva-2026-srbija), uradite ovo pre nego što upišete prvi broj:
+
+- Zapišite poreski status firme i da li imate pravo na odbitak PDV za usluge koje reklamirate.
+- Ako nemate pravo na odbitak, svaki planirani iznos za oglase i honorar pomnožite sa 1,2.
+- Maksimalni CPL računajte iz [bruto marže](/blog/bruto-marza-marketing-budzet-roi-srbija-2026), pa za nalog koristite stvarni maksimum podeljen sa 1,2.
+- U mesečnom izveštaju dodajte kolonu stvarni trošak, pored troška iz naloga.
+- Proverite valutu naloga i kako banka naplaćuje konverziju.
+- Dogovorite sa knjigovođom ko i kada prijavljuje PDV na račune iz inostranstva.
+- Pratite promet u poslednjih 12 meseci. Kada se približite pragu od 8 miliona, preračunajte budžet za oba scenarija.
+
+Za brzu proveru brojeva možete koristiti [ROI kalkulator](/alati/roi-kalkulator). Okvirne cene vođenja kampanja su na stranama [Google reklame cena](/google-reklame-cena) i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Kako vam možemo pomoći
+
+Ako ste paušalac ili firma bez prava na odbitak i niste sigurni koliko vas lead iz Google Ads stvarno košta, pošaljite nam poreski status, mesečni budžet, prosečnu vrednost posla i stopu zatvaranja. Izračunaćemo stvarni maksimalni CPL i granicu koju treba da gledate u nalogu. [Javite nam se ovde](/kontakt).
+`,
+  },
+  {
     slug: 'google-ads-za-fizicko-obezbedjenje-cena-upita-srbija-2026',
     title: 'Google Ads za fizičko obezbeđenje u Srbiji 2026: cena upita za ugovor o objektu',
     excerpt: 'Google Ads za fizičko obezbeđenje isplati se kroz mesečne ugovore za objekte. Kako da odvojite kupce od ljudi koji traže posao i odredite cenu upita.',

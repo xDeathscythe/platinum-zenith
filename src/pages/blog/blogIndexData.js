@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-pdv-stvarni-trosak-oglasa-pausalci-srbija-2026",
+    "title": "Google Ads i PDV u Srbiji 2026: koliko oglas stvarno košta firmu van PDV sistema",
+    "excerpt": "Firma van PDV za 100.000 dinara u Google Ads nalogu plaća 120.000. Kako PDV menja stvarni CPL, maksimalnu cenu leada i plan budžeta za 2027.",
+    "date": "2026-11-06",
+    "category": "Marketing",
+    "readTime": "7 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-fizicko-obezbedjenje-cena-upita-srbija-2026",
     "title": "Google Ads za fizičko obezbeđenje u Srbiji 2026: cena upita za ugovor o objektu",
     "excerpt": "Google Ads za fizičko obezbeđenje isplati se kroz mesečne ugovore za objekte. Kako da odvojite kupce od ljudi koji traže posao i odredite cenu upita.",
