@@ -1,5 +1,160 @@
 const rawBlogPosts = [
   {
+    slug: 'responzivni-oglasi-google-ads-naslovi-pinovanje-kvalitet-upita-srbija-2026',
+    title: 'Responzivni oglasi u Google Ads 2026: kako da naslovi filtriraju loše upite',
+    excerpt: 'Ad Strength Excellent ne znači dobre upite. Kako da rasporedite 15 naslova i 4 opisa u Google Ads, kada da pinujete i kako tekst oglasa filtrira pogrešne leadove.',
+    date: '2026-11-07',
+    readTime: '10 min read',
+    category: 'Google Ads',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Responzivni oglasi', 'Tekst oglasa', 'Pinovanje', 'Ad Strength', 'Lead generation'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Google ne piše oglas umesto vas, on ga slaže
+
+Od sredine 2022. Google Ads ne dozvoljava pravljenje novih proširenih tekstualnih oglasa, pa je responzivni oglas osnovni tekstualni oglas u kampanji za pretragu. Unosite do 15 naslova od po 30 karaktera, do 4 opisa od po 90 karaktera i dve putanje u prikazanom URL-u od po 15 karaktera. Minimum je 3 naslova i 2 opisa.
+
+Od tih delova Google sam pravi oglas za svaku pretragu. U gornjem redu prikaže najviše 3 naslova, ponekad samo jedan ili dva. Naslov može da se pojavi i na početku opisa, a neiskorišćeni naslovi mogu da izađu kao linkovi ispod oglasa. Redosled ne birate vi.
+
+Iz toga sledi pravilo koje većina naloga krši: svaki naslov mora da ima smisla sam i u bilo kom redosledu. Naslov "za samo 10 dana" ne znači ništa ako Google ispred njega ne stavi "Renoviranje kupatila". A neće ga uvek staviti.
+
+Druga posledica je manje očigledna. Tekst oglasa nije samo mamac za klik. To je prvi filter za lead. Ako oglas obećava sve svima, kampanja će dovesti sve i svakoga, a vaš prodavac će to platiti vremenom.
+
+## Ad Strength meri raznovrsnost, a ne kvalitet upita
+
+Pored svakog oglasa Google prikazuje Ad Strength, ocenu od Incomplete i Poor do Good i Excellent. Mnogi vlasnici je čitaju kao ocenu oglasa. Nije to.
+
+Google u svojoj [dokumentaciji o Ad Strength](https://support.google.com/google-ads/answer/9921843) piše da ta ocena ne utiče na to da li će se oglas prikazati i da se ne koristi za Ad Rank, Quality Score ni pobedu na aukciji. Ocena gleda nekoliko stvari: da li su ključne reči u naslovima, koliko naslova i opisa ste uneli, koliko se razlikuju i da li imate bar 6 sitelinkova. Landing stranu i ponudu ne meri. To Google kaže otvoreno.
+
+Zato oglas sa ocenom Excellent može da dovodi pogrešne ljude. Ocena nagrađuje širinu. Firmi koja prodaje uslugu od pola miliona dinara često treba suprotno: tekst koji jasno kaže za koga je ponuda, koliko otprilike košta i gde radite.
+
+Ocena je korisna kao podsetnik da niste uneli dovoljno različitih poruka. Kao cilj za lead generation je loša. Isto važi i za [ocenu optimizacije naloga](/blog/google-ads-ocena-optimizacije-automatske-preporuke-srbija-2026): obe mere urednost naloga, ne prodaju.
+
+## Primer: skuplji lead, jeftiniji kvalifikovan upit
+
+Primer je izmišljen, ali brojevi su izračunati. Firma za renoviranje kupatila u Novom Sadu troši 90.000 dinara mesečno na pretragu.
+
+Oglas A ima generičan tekst: "Besplatna procena", "Najpovoljnije cene", "Pozovite odmah". Donosi 60 upita, pa je CPL 1.500 dinara. Od tih 60, samo 12 ljudi traži celo kupatilo u zoni u kojoj firma radi i ima budžet blizu realne cene. Kvalifikovan upit košta 7.500 dinara.
+
+Oglas B u naslovima kaže "Kupatila od 450.000 din", "Novi Sad i 20 km okoline" i "Ne radimo sitne popravke". Donosi 36 upita, pa CPL raste na 2.500 dinara, za 66,7%. Kvalifikovanih je 15 i svaki košta 6.000 dinara, 20% manje nego kod oglasa A.
+
+Ako prodavac na svaki upit potroši oko 20 minuta, oglas A traži 20 sati razgovora mesečno, a oglas B 12 sati. Kod oglasa B je kvalifikovano 42% upita, a kod oglasa A 20%.
+
+Ko gleda samo CPL u Google Ads nalogu, ugasiće oglas B. Ko u nalog vraća podatke o tome koji je upit bio kvalifikovan, videće da je B bolji. Kako se ta informacija šalje nazad u Google, objasnili smo u tekstu o [kvalifikovanim konverzijama](/blog/kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026).
+
+## Kako da rasporedite 15 naslova
+
+Petnaest naslova nije petnaest načina da se kaže isto. Podelite ih po ulozi. Za firmu iz primera to izgleda ovako.
+
+### Naslovi sa uslugom i ključnom reči (4 do 5)
+
+Renoviranje kupatila Novi Sad, Renoviranje kupatila, Adaptacija kupatila po ključ, Keramičar za celo kupatilo.
+
+Google za Ad Strength traži da ključna reč stoji cela u jednom naslovu. Ne sme da bude podeljena na dva. Ako je fraza duža od 30 karaktera, stavite je u opis. Na srpskom tu ima jedna zamka. Ljudi kucaju "keramičar Novi Sad", ali i "keramičara za kupatilo" i "renoviranje kupatila cena". Naslov pišite u obliku koji je gramatički ispravan i koji ljudi stvarno kucaju. Padeže i varijante ključnih reči pokriva [tip podudaranja](/blog/tipovi-podudaranja-kljucnih-reci-google-ads-lead-generation-srbija-2026), a ne petnaest verzija istog naslova.
+
+### Naslovi koji filtriraju (2 do 3)
+
+Kupatila od 450.000 din, Novi Sad i 20 km okoline, Ne radimo sitne popravke.
+
+Ove naslove većina agencija preskače, jer smanjuju CTR. To im je i svrha. Čovek koji traži zamenu jedne pločice neće kliknuti, i to je dobro, jer njegov klik plaćate vi. Okvir cene radi isto što i [cena na sajtu](/blog/cene-na-sajtu-usluge-kvalitet-leadova-srbija-2026): ljudi sa premalim budžetom odustanu sami, pre nego što zovu.
+
+Zona rada u naslovu ne zamenjuje [podešavanje lokacije](/blog/google-ads-ciljanje-lokacije-prisustvo-interesovanje-srbija-2026). Pomaže kada neko iz Beograda traži "renoviranje kupatila Novi Sad" za stan koji iznajmljuje. Taj upit je validan, i oglas mu odmah kaže da radite tamo gde mu treba.
+
+### Naslovi sa dokazom (2 do 3)
+
+Pogledajte završena kupatila, Garancija 2 godine na radove, Jedan tim od rušenja do fuga.
+
+Dokaz mora da bude proverljiv na strani na koju oglas vodi. Ako naslov kaže "Garancija 2 godine", landing strana mora da kaže na šta se garancija odnosi. Ako ne kaže, prodavac će to objašnjavati na svakom pozivu.
+
+### Naslovi o procesu i sledećem koraku (3 do 4)
+
+Ponuda 48h posle izlaska, Fiksna cena u ugovoru, Rok upisan u ugovor, Zakažite izlazak na teren, Pošaljite fotke i dimenzije.
+
+Kupac usluge od pola miliona ne pita samo koliko košta. Pita i šta se dešava posle poziva, i da li će cena porasti na pola posla. Naslov koji odgovori na to pitanje radi bolje od još jednog "Najbolji majstori".
+
+Svih 15 naslova iz primera ima između 19 i 29 karaktera, pa staju bez skraćivanja. Dijakritici se broje kao jedan karakter. Google navodi da se duplo broje samo znakovi u jezicima kao što su korejski, japanski i kineski.
+
+## Četiri opisa: ono što ne staje u 30 karaktera
+
+Opis ima 90 karaktera i Google prikazuje najviše dva. Napišite četiri opisa koji se ne preklapaju:
+
+- cena i šta ulazi u nju: "Celo kupatilo od 450.000 din, radovi i materijal za ugradnju. Novi Sad i 20 km okoline."
+- sledeći korak: "Pošaljite dimenzije i 3 fotografije. Javljamo se isti dan, ponuda 48h posle izlaska."
+- za koga ne radite: "Ne menjamo jednu pločicu i ne radimo sitne popravke. Radimo celo kupatilo, od rušenja."
+- dokaz i sigurnost: "Rok i cena su upisani u ugovor. Pogledajte završena kupatila pre nego što pozovete."
+
+Najduži od njih ima 87 karaktera. Sve što piše u opisu mora da piše i na landing strani, istim redom važnosti. Kada oglas obeća jedno, a strana otvori nešto drugo, gubite i klik i poverenje. O tome smo pisali u tekstu o [usklađenosti oglasa i landing strane](/blog/uskladjenost-oglasa-landing-strane-konverzija-srbija-2026).
+
+## Kada da pinujete, a kada da pustite Google
+
+Pinovanje znači da naslov ili opis zakucate na određenu poziciju. Google u [vodiču za responzivne oglase](https://support.google.com/google-ads/answer/7684791) navodi tri bitne stvari:
+
+- tekst zakucan na poziciju naslova 1, naslova 2 ili opisa 1 uvek se prikazuje, a tekst na poziciji naslova 3 ili opisa 2 ne mora;
+- pinovanje se ne preporučuje većini oglašivača, jer smanjuje broj kombinacija i može da obori Ad Strength;
+- ako već pinujete, zakucajte 2 ili 3 različita naslova na istu poziciju, da sistem ima šta da testira.
+
+Jednostavna računica pokazuje koliko se prostor smanjuje. Sa 15 slobodnih naslova postoji 2.730 različitih rasporeda tri naslova po pozicijama. Kada jedan naslov zakucate na poziciju 1, ostaje 182, petnaest puta manje. Sa tri alternativna naslova zakucana na poziciju 1 ostaje 396. Ovo je samo matematika pozicija, a ne broj koji Google stvarno testira. Smer je ipak jasan.
+
+Za lead generation pinovanje ima smisla u tri slučaja:
+
+1. Kada morate da prikažete obaveznu napomenu, na primer uslove ponude ili ograničenje koje se tiče propisa vaše delatnosti. Nju stavite na opis 1.
+2. Kada vam je okvir cene ili zona rada glavni filter. Tada na poziciju 2 zakucajte dve ili tri varijante, na primer "Kupatila od 450.000 din" i "Novi Sad i 20 km okoline".
+3. Kada Google stalno kombinuje naslove tako da poruka gubi smisao, a u izveštaju o kombinacijama to vidite.
+
+Ne pinujte samo zato što želite da oglas izgleda tačno onako kako ste ga zamislili. To je prirodan refleks i najčešći razlog zašto oglasi rade slabije nego što bi mogli.
+
+## Kako da čitate izveštaj o elementima oglasa
+
+Ispod svakog responzivnog oglasa postoji link "View asset details". Tu su svi naslovi i opisi sa prikazima, klikovima, troškom i konverzijama. Stara oznaka učinka (Low, Good, Best) je ukinuta, a pune statistike po elementu postoje za period od 5. juna 2025. godine, kako piše u [Googleovom objašnjenju izveštaja](https://support.google.com/google-ads/answer/9564897).
+
+Google upozorava da su CTR, CPC i cena po konverziji po elementu samo orijentacija, jer element nikad ne radi sam, već u kombinaciji sa drugima. Element koji posle nekoliko nedelja nema nijedan prikaz Google preporučuje da zamenite. U [izveštaju o kombinacijama](https://support.google.com/google-ads/answer/11894820) vidite koje se kombinacije najčešće prikazuju, ali Google izričito kaže da ga ne koristite za pravljenje statičnih kopija oglasa.
+
+Naša praksa za naloge sa upitima:
+
+- u nalogu gledajte kvalifikovane konverzije, a ne samo poslate forme, jer inače merite koji naslov dovodi najviše klikova na dugme;
+- menjajte jednu grupu naslova odjednom, na primer samo filtere, i ostavite bar dve do četiri nedelje pre zaključka, zavisno od broja upita;
+- vodite belešku o tome šta ste i kada promenili, da pad ili rast ne pripišete pogrešnoj izmeni;
+- uporedite dva oglasa u istoj grupi oglasa, a ne isti oglas pre i posle sezone.
+
+Google navodi da firme koje u grupi oglasa imaju dva ili tri responzivna oglasa umesto jednog u proseku dobijaju više konverzija. Ima smisla da drugi oglas bude drugačija ponuda, a ne kopija prvog sa tri promenjene reči. Jedan oglas može da vodi poruku preko cene, drugi preko procesa i roka.
+
+## Greške koje najčešće viđamo
+
+Prva je petnaest naslova koji govore isto: "Renoviranje kupatila", "Renoviranje kupatila NS", "Najbolje renoviranje kupatila". Ad Strength može da bude dobar, ali kupac ne dobija nijednu novu informaciju.
+
+Druga je oglas koji privlači lovce na najnižu cenu. "Besplatna procena", "Najpovoljnije" i "Akcija" u istom oglasu dovode ljude kojima je cena jedini kriterijum. Ako vaša prednost nije najniža cena, ne reklamirajte se kao da jeste.
+
+Treća je ubacivanje ključne reči u naslov pomoću Googleove funkcije za automatsko umetanje, na nalogu gde su ključne reči unete bez dijakritika. Google tada u naslov ubaci tačno ono što je u ključnoj reči, pa oglas kaže "Keramicar Novi Sad". Na srpskom to izgleda neozbiljno, a lako se izbegne.
+
+Četvrta je obećanje koga nema na strani. Naslov "Ponuda za 48h" vodi na početnu stranu sajta, gde o roku nema ni reči. Kupac zaključi da je oglas lagao.
+
+Peta je automatski generisan tekst. Google može sam da pravi naslove na osnovu sadržaja sajta, a ako je na sajtu ostala stara cena ili usluga koju više ne radite, ona završi u oglasu. Proverite podešavanja kampanje i istoriju izmena, kao što smo opisali u tekstu o [automatskim preporukama](/blog/google-ads-ocena-optimizacije-automatske-preporuke-srbija-2026).
+
+## Provera pre nego što oglas krene
+
+- Svaki naslov ima smisla sam, bez naslova pre i posle njega.
+- Bar 2 naslova filtriraju: okvir cene, zona rada, minimalni posao ili za koga ne radite.
+- Bar 2 naslova nude proverljiv dokaz koji postoji na landing strani.
+- Bar 2 naslova kažu šta se dešava posle upita.
+- Glavna ključna reč stoji cela u jednom naslovu, u gramatički ispravnom obliku.
+- Četiri opisa se ne preklapaju i svaki ima jednu ulogu.
+- Pinovani su samo tekstovi koji moraju uvek da se vide, i to sa 2 do 3 varijante po poziciji.
+- Konverzija za optimizaciju je kvalifikovan upit kad god ima dovoljno podataka, a ne svaki klik na dugme.
+- Landing strana ponavlja obećanje iz oglasa iznad prvog skrolovanja.
+
+Tekst oglasa je samo jedan deo cene leada. Ako je ključna reč preširoka ili je [Quality Score](/blog/google-ads-quality-score-vodic-srbija-2026) nizak zbog slabe landing strane, ni najbolji naslovi neće spasiti kampanju. Kada je struktura dobra, tekst je mesto gde najjeftinije birate koga ćete platiti.
+
+Koliko lead sme da košta proverite po računici iz teksta o [maksimalnoj ceni leada](/blog/maksimalna-cena-leada-srbija-2026). Okvirne cene vođenja kampanja su na stranama [Google reklame cena](/google-reklame-cena) i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Kako vam možemo pomoći
+
+Ako vaša kampanja donosi upite, a prodaja kaže da su pogrešni, pošaljite nam link ka oglasu i landing strani, prosečnu vrednost posla i broj kvalifikovanih upita u poslednjih 30 dana. Prepisaćemo naslove i opise tako da filtriraju pre klika i postavićemo merenje koje pokazuje koji tekst dovodi kupce, a ne samo klikove. Kako vodimo naloge opisano je na strani [Google Ads agencija](/google-ads-agencija). [Javite nam se ovde](/kontakt).
+`,
+  },
+  {
     slug: 'google-ads-pdv-stvarni-trosak-oglasa-pausalci-srbija-2026',
     title: 'Google Ads i PDV u Srbiji 2026: koliko oglas stvarno košta firmu van PDV sistema',
     excerpt: 'Firma van PDV za 100.000 dinara u Google Ads nalogu plaća 120.000. Kako PDV menja stvarni CPL, maksimalnu cenu leada i plan budžeta za 2027.',

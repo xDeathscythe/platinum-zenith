@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "responzivni-oglasi-google-ads-naslovi-pinovanje-kvalitet-upita-srbija-2026",
+    "title": "Responzivni oglasi u Google Ads 2026: kako da naslovi filtriraju loše upite",
+    "excerpt": "Ad Strength Excellent ne znači dobre upite. Kako da rasporedite 15 naslova i 4 opisa u Google Ads, kada da pinujete i kako tekst oglasa filtrira pogrešne leadove.",
+    "date": "2026-11-07",
+    "category": "Google Ads",
+    "readTime": "10 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-pdv-stvarni-trosak-oglasa-pausalci-srbija-2026",
     "title": "Google Ads i PDV u Srbiji 2026: koliko oglas stvarno košta firmu van PDV sistema",
     "excerpt": "Firma van PDV za 100.000 dinara u Google Ads nalogu plaća 120.000. Kako PDV menja stvarni CPL, maksimalnu cenu leada i plan budžeta za 2027.",
