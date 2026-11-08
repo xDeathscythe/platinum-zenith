@@ -1,5 +1,141 @@
 const rawBlogPosts = [
   {
+    slug: 'dodatna-prodaja-postojecim-klijentima-upsell-leadovi-srbija-2026',
+    title: 'Dodatna prodaja postojećim klijentima u Srbiji 2026: drugi posao bez novog leada',
+    excerpt: 'Drugi posao istom klijentu ne traži novi klik ni novi lead. Kada ponuditi sledeću uslugu, kako je voditi u CRM-u i kako da ne plaćate oglase za kupce koje već imate.',
+    date: '2026-11-08',
+    readTime: '9 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Prodaja', 'Dodatna prodaja', 'Upsell', 'Postojeći klijenti', 'CRM', 'Google Ads'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Klijent je već rekao da, a firma se ponaša kao da nije
+
+Većina uslužnih firmi u Srbiji ima isti tok. Kampanja dovede upit, prodaja pošalje ponudu, posao se odradi, faktura se naplati i klijent u CRM-u dobije status "dobijen". Tu se priča završava. Sledeći put kada firma želi novi posao, opet kupuje klik.
+
+A čovek koji je upravo platio zna kako firma radi, ima broj telefona majstora ili konsultanta i već je prošao kroz najtežu odluku: da vam veruje. Ako mu treba još nešto što radite, najlakše je da to kupi od vas. Ako ga niko ne pita, kupiće od onoga ko mu se prvi pojavi u pretrazi.
+
+To nije teorija o lojalnosti. To je pitanje gde firma troši novac. Amy Gallo je u tekstu za [Harvard Business Review](https://hbr.org/2014/10/the-value-of-keeping-the-right-customers) navela da je, zavisno od studije i industrije, dobijanje novog kupca 5 do 25 puta skuplje od zadržavanja postojećeg. Raspon je širok i ne treba ga uzimati kao tačan broj za vašu firmu. Smer je jasan: drugi posao istom klijentu ne traži novi lead.
+
+## Koliko vredi jedan sistematski predlog
+
+Uzmimo izmišljen primer, samo da bi se videla mehanika. Uslužna firma iz kampanja godišnje dobije 40 novih klijenata. Prvi posao ostavlja 70.000 dinara bruto profita po klijentu. Firma ima pravilo da cena dobijanja klijenta (CAC) ne sme da pređe polovinu bruto profita, pa je granica 35.000 dinara.
+
+Sada firma uvede jednu promenu. Na predaji svakog posla neko predloži sledeću logičnu uslugu. Recimo da 30% klijenata u narednih 12 meseci prihvati drugi posao koji ostavlja 45.000 dinara bruto profita. Pripremanje i razgovor koštaju oko 2.000 dinara vremena po klijentu.
+
+Očekivani bruto profit po klijentu raste sa 70.000 na 81.500 dinara. Na 40 klijenata to je 460.000 dinara više godišnje, bez ijednog dinara potrošenog na oglase. To je 12 dodatnih poslova od ljudi koje firma već ima.
+
+Druga posledica je važnija za budžet. Ako pravilo o polovini profita ostaje isto, dozvoljeni CAC raste sa 35.000 na 40.750 dinara, odnosno 16,4%. Kod stope zatvaranja od 25%, firma sme da plati kvalifikovan lead 10.187 umesto 8.750 dinara. Isti oglasi, ista konkurencija na aukciji, a firma može da ostane u igri na ključnim rečima na kojima je ranije morala da odustane.
+
+Zato dodatna prodaja nije posao koji se radi "kad ostane vremena". Ona menja koliko smete da platite novi klijent. Detaljnije o tome kako se računa granica pišemo u tekstu [maksimalna cena leada](/blog/maksimalna-cena-leada-srbija-2026) i u objašnjenju zašto [CPL nije CAC](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026).
+
+## Zašto se to u praksi ne dešava
+
+Kada pitate vlasnika da li nudi dodatne usluge postojećim klijentima, skoro svako kaže da nudi. Kada pogledate CRM, retko ko može da pokaže koliko je predloga poslato prošlog meseca i koliko je prihvaćeno. Razlozi se ponavljaju.
+
+### Niko nije vlasnik tog koraka
+
+Prodavac je plaćen za nove ugovore. Majstor ili konsultant je plaćen da završi posao. Kancelarija izdaje fakture. Predlog sledeće usluge pripada svima, pa ga niko ne radi. Isti problem opisujemo kod [vlasništva nad leadovima](/blog/vlasnistvo-leadova-marketing-prodaja-srbija-2026): kada korak nema imenovanu osobu i rok, ne postoji.
+
+### Ponuda je rečenica, ne predlog
+
+"Javite se ako vam treba još nešto" nije ponuda. Klijent ljubazno klimne glavom i zaboravi. Predlog ima konkretnu uslugu, razlog zašto baš ona, okvir cene i termin. "Krov ste sredili, a oluci na severnoj strani su probušeni na dva mesta. Zamena je oko 60.000 dinara, a ekipa može u martu, pre kiša" je predlog.
+
+### Ponuda dođe u pogrešnom trenutku
+
+Firme koje ipak nude obično to rade dok posao još traje, kada klijent već broji troškove i čeka da majstori odu. Tada svaka dodatna stavka zvuči kao pokušaj da se račun naduva. Isti predlog dve nedelje posle predaje, kada je rezultat vidljiv i klijent zadovoljan, zvuči kao savet.
+
+### CRM zatvara karticu
+
+Status "dobijen" u mnogim CRM sistemima znači kraj zapisa. Nema polja za datum završetka, sledeću logičnu uslugu ni datum kada treba proveriti. Za šest meseci niko se ne seća da je klijent pominjao da planira i dvorište.
+
+## Kada je pravi trenutak za predlog
+
+Postoje tri trenutka koji rade kod većine uslužnih poslova.
+
+Prvi je predaja posla. Klijent upravo vidi rezultat i tada je najotvoreniji. Ne prodajete na licu mesta, nego najavite: "Primetili smo X, poslaćemo vam kratak predlog do petka."
+
+Drugi je provera posle 2 do 4 nedelje. Pozovete da pitate kako radi ono što ste uradili. Ako je sve u redu, to je prirodan trenutak da se pošalje najavljen predlog. Ako nešto nije u redu, popravite to prvo i ne nudite ništa. Predlog posle reklamacije zvuči kao bezobrazluk.
+
+Treći je sezonski ili tehnički okidač. Servis klima pred leto, provera kotla pred grejnu sezonu, godišnji pregled kod stomatologa, završni račun kod knjigovođe. Datum se zna u trenutku prvog posla, pa se može upisati u CRM odmah.
+
+Primeri logičnog sledećeg posla su jednostavni kada se zapišu. Posle ugradnje PVC stolarije dolaze komarnici i roletne. Posle krova dolaze oluci i opšivke. Posle izrade sajta dolaze održavanje i kampanja. Posle montaže klime dolazi godišnji servis. Firma treba da ima takav spisak za svoje usluge, inače se predlog svaki put izmišlja.
+
+## Šta ne treba nuditi
+
+Dodatna prodaja ima i lošu verziju, onu koja klijenta tera.
+
+Ne nudite sledeću uslugu pre nego što je prva isporučena kako treba. Klijent koji čeka da mu se završi kupatilo ne želi da čuje za terasu.
+
+Ne nudite sve što firma radi. Jedan predlog sa jasnim razlogom radi bolje od kataloga. Ako klijent dobije spisak od osam usluga, dobio je reklamu.
+
+Ne kupujte drugi posao popustom. Klijent koji je zadovoljan nema razlog da dobije nižu cenu, a popust na drugi posao uči ga da čeka popust i na treći. Šta umesto popusta pišemo u tekstu o [pregovorima o ceni posle ponude](/blog/pregovori-o-ceni-posle-ponude-popust-marza-srbija-2026).
+
+I ne zovite pet puta. Jedan predlog, jedan podsetnik, pa status u CRM-u. Klijent koji kaže "ne sada" dobija novi datum provere, ne novi poziv sutra.
+
+## Pet polja u CRM-u koja ovo drže na životu
+
+Ne treba vam novi softver. Treba vam pet polja na kartici klijenta posle statusa "dobijen":
+
+1. datum završetka posla,
+2. sledeća logična usluga (iz spiska, ne slobodan tekst),
+3. datum provere,
+4. osoba zadužena za predlog,
+5. ishod: poslato, prihvaćeno, odbijeno, odloženo do datuma.
+
+Jednom mesečno pogledajte tri broja: koliko je klijenata završilo posao, koliko je dobilo predlog i koliko je prihvatilo. Ako je predloga manje od završenih poslova, problem nije u klijentima. Kako da se ovo uklopi u postojeću evidenciju objašnjavamo u tekstu o [CRM-u za leadove](/blog/crm-za-leadove-evidencija-prodaja-srbija-2026).
+
+U istom pregledu vodite odvojeno prihod od novih klijenata i prihod od postojećih. Bez te podele ne znate da li kampanja donosi nove ljude ili samo dobija zasluge za posao koji bi došao i bez nje.
+
+## Ne plaćajte oglase za klijente koje već imate
+
+Evo mesta gde se dodatna prodaja i Google Ads sudaraju. Postojeći klijent hoće da vas pozove za drugi posao. Ne čuva broj, pa ukuca ime firme u Google i klikne na prvi rezultat, a to je vaš oglas. Platili ste klik za čoveka koji je već bio vaš. Još gore, Google Ads taj poziv broji kao novu konverziju, pa kampanja izgleda bolje nego što jeste.
+
+U izmišljenom primeru od 60 takvih klikova mesečno po 120 dinara, to je 7.200 dinara mesečno i 86.400 godišnje. Iznos nije dramatičan. Problem je što izveštaj pokazuje lažan rezultat, a odluke o budžetu se donose na osnovu njega. O tome kako brend pretrage naduvavaju rezultat pišemo u tekstu o [brend kampanjama](/blog/brend-kampanja-google-ads-roi-budzet-srbija-2026).
+
+Google nudi dva alata za ovo.
+
+### Customer Match lista kao isključenje
+
+Listu postojećih klijenata (mejlovi i telefoni) možete otpremiti u Google Ads i isključiti je iz kampanja za nove klijente. Prema [Google pravilima za Customer Match](https://support.google.com/google-ads/answer/6299717?hl=en), isključenje i posmatranje mogu da koriste svi nalozi sa dobrom istorijom poštovanja pravila i plaćanja. Za ciljanje liste traži se 90 dana istorije i više od 50.000 dolara ukupne potrošnje, što većina malih firmi u Srbiji nema. Isključenje je ovde ono što vam treba.
+
+Ista pravila traže da podaci budu prikupljeni direktno od klijenata, da politika privatnosti navodi deljenje podataka sa trećim stranama radi usluga i da imate pristanak tamo gde ga zakon traži. Pre otpremanja proverite ta tri uslova sa onim ko vodi zaštitu podataka u firmi.
+
+### Cilj "samo novi kupci"
+
+Google Ads ima [ciljeve životnog ciklusa kupca](https://support.google.com/google-ads/answer/12080169?hl=en). Podešavanje "New Customer Only" postoji i za kampanje pretrage i radi sa strategijama Maximize conversions i Target CPA, bez obaveznog cilja konverzije za kupovinu. Google postojeće kupce prepoznaje iz vaših podataka, liste klijenata i taga na sajtu, pa bez sređene liste ovo podešavanje nema na čemu da radi.
+
+Za postojeće klijente onda ne treba plaćena pretraga. Treba im poziv, mejl ili poruka od osobe koju znaju, u trenutku koji ste upisali u CRM.
+
+## Kako da počnete ove nedelje
+
+Ne treba projekat od tri meseca. Dovoljno je ovo:
+
+- napišite spisak "posle usluge X obično treba Y" za svoje tri najprodavanije usluge,
+- dodajte pet polja u CRM i popunite ih za klijente kojima je posao završen u poslednja 3 meseca,
+- odredite jednu osobu koja šalje predloge i dajte joj rok od dve nedelje posle predaje,
+- pripremite kratak šablon predloga: šta ste primetili, šta predlažete, okvir cene, termin,
+- izvezite listu postojećih klijenata i proverite da li sme da se koristi za isključenje u Google Ads,
+- u mesečnom izveštaju razdvojite prihod od novih i postojećih klijenata.
+
+Posle tri meseca znaćete koliko klijenata prihvata drugi posao. Taj broj ulazi u [vrednost klijenta](/blog/vrednost-klijenta-ltv-marketing-budzet-srbija-2026) i menja koliko smete da trošite na kampanje. Ako klijenti zadovoljni prvim poslom šalju i druge ljude, to je poseban kanal koji vredi meriti, kao u tekstu o [preporukama klijenata](/blog/preporuke-klijenata-izvor-leadova-prodaja-srbija-2026).
+
+## Kada ovo nema smisla
+
+Ako firma prodaje jednokratnu uslugu bez logičnog nastavka, recimo jedan tehnički pregled vozila godišnje, dodatna prodaja neće promeniti mnogo. Tada je vredniji podsetnik za sledeću godinu nego predlog nove usluge.
+
+Ako firma već ne stiže da isporuči postojeće poslove na vreme, prvo rešite kapacitet. Drugi posao koji kasni pokvariće i odnos sa klijentom i preporuku. O tome kako kapacitet ograničava budžet pišemo u tekstu o [kapacitetu prodaje](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026).
+
+U svim ostalim slučajevima, postojeći klijenti su najjeftiniji izvor sledećeg posla koji firma ima. Kampanje treba da dovode nove ljude, a ne da plaćaju za one koji su već došli.
+
+Ako želite da proverimo koliko vaše kampanje troše na postojeće klijente i koliki CAC vaš posao realno podnosi kada se uračuna drugi posao, pogledajte kako radimo [Google Ads](/google-ads-agencija), okvirne [cene Google reklama](/google-reklame-cena) i [cene digitalnog marketinga](/cene-digitalnog-marketinga), pa nam pišite preko [kontakt stranice](/kontakt).
+`,
+  },
+  {
     slug: 'responzivni-oglasi-google-ads-naslovi-pinovanje-kvalitet-upita-srbija-2026',
     title: 'Responzivni oglasi u Google Ads 2026: kako da naslovi filtriraju loše upite',
     excerpt: 'Ad Strength Excellent ne znači dobre upite. Kako da rasporedite 15 naslova i 4 opisa u Google Ads, kada da pinujete i kako tekst oglasa filtrira pogrešne leadove.',

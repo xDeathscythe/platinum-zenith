@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "dodatna-prodaja-postojecim-klijentima-upsell-leadovi-srbija-2026",
+    "title": "Dodatna prodaja postojećim klijentima u Srbiji 2026: drugi posao bez novog leada",
+    "excerpt": "Drugi posao istom klijentu ne traži novi klik ni novi lead. Kada ponuditi sledeću uslugu, kako je voditi u CRM-u i kako da ne plaćate oglase za kupce koje već imate.",
+    "date": "2026-11-08",
+    "category": "Marketing",
+    "readTime": "9 min read",
+    "isDraft": false
+  },
+  {
     "slug": "responzivni-oglasi-google-ads-naslovi-pinovanje-kvalitet-upita-srbija-2026",
     "title": "Responzivni oglasi u Google Ads 2026: kako da naslovi filtriraju loše upite",
     "excerpt": "Ad Strength Excellent ne znači dobre upite. Kako da rasporedite 15 naslova i 4 opisa u Google Ads, kada da pinujete i kako tekst oglasa filtrira pogrešne leadove.",
