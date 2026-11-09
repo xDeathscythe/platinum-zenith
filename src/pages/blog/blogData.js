@@ -1,5 +1,151 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-iznajmljivanje-gradjevinskih-masina-cena-upita-srbija-2026',
+    title: 'Google Ads za iznajmljivanje građevinskih mašina u Srbiji 2026: cena upita po mašina-danu',
+    excerpt: 'Google Ads za najam bagera, viljuškara i platformi isplati se kroz popunjene mašina-dane. Kako odvojiti kupce najma od ostalih pretraga i odrediti cenu upita.',
+    date: '2026-11-09',
+    readTime: '9 min read',
+    category: 'Google Ads',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Najam mašina', 'Građevinske mašine', 'Cena upita', 'Negativne ključne reči', 'B2B usluge'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Isti klik, dve potpuno različite prodaje
+
+Firma koja iznajmljuje mini bagere pusti kampanju na "iznajmljivanje bagera" i za nedelju dana dobije dvadeset poziva. Polovina su ljudi koji hoće bager na jedan dan da iskopaju temelj za garažu ili kanal za vodu. Nekoliko je izvođača kojima treba mašina na dve nedelje za gradilište. Ostatak pita da li prodajete polovni bager, imate li delove za Kubotu i primate li rukovaoce.
+
+Na izveštaju u Google Ads nalogu svih dvadeset izgledaju isto: poziv, trajanje preko 30 sekundi, konverzija. U knjizi zakupa izgledaju sasvim drugačije. Jedan gradilišni najam vredi više od deset jednodnevnih, a poziv za delove ne vredi ništa.
+
+Zato kod najma građevinskih mašina ne treba meriti broj upita. Treba meriti popunjene mašina-dane i bruto profit po najmu, pa iz toga izvući koliko upit sme da košta.
+
+## Šta zapravo prodajete: mašina-dan
+
+Mašina koja stoji u dvorištu i dalje košta. Lizing, osiguranje, registracija, servisni intervali i amortizacija teku bez obzira na to da li je bager na gradilištu ili ispod nadstrešnice. Zato je osnovna jedinica ovog posla mašina-dan, a ne poziv.
+
+Za planiranje kampanje treba vam tri broja po svakoj klasi mašina:
+
+- koliko radnih dana mesečno mašine mogu da rade (broj mašina puta radni dani);
+- koliko je tih dana već zauzeto stalnim klijentima i dogovorenim poslovima;
+- koliko u proseku traje jedan najam za tu klasu.
+
+Iz razlike dobijate slobodne mašina-dane. To je proizvod koji kampanja treba da proda. Sve preko toga su upiti kojima ćete reći "nemamo slobodnu mašinu", a Google će ih i dalje naplatiti.
+
+## Računica: zašto jednodnevni i gradilišni najam ne smeju imati isti CPL
+
+Primer je izmišljen, brojevi su zaokruženi, a računica je urađena tačno. Firma ima četiri mini bagera.
+
+Jednodnevni najam fizičkom licu: dnevna cena 9.000 dinara, dovoz i odvoz naplaćeni 3.000, a stvarni trošak prevoza je 4.000 jer kamion i vozač idu dva puta. Čišćenje i pregled posle vraćanja 1.500. Bruto profit tog najma je 6.500 dinara.
+
+Gradilišni najam firmi na 10 radnih dana: 7.500 dinara dnevno, ukupno 75.000. Prevoz naplaćen 6.000, a toliko i košta. Servis i pregled 3.000. Bruto profit je 72.000 dinara.
+
+Ako firma pristaje da na pribavljanje kupca potroši najviše 40% bruto profita, a jednodnevni upiti se zatvaraju u 50% slučajeva i gradilišni u 30%, maksimalna cena kvalifikovanog upita izgleda ovako:
+
+- jednodnevni najam: 6.500 × 40% × 50% = 1.300 dinara;
+- gradilišni najam: 72.000 × 40% × 30% = 8.640 dinara.
+
+Razlika je 6,6 puta. Kada su obe vrste upita u istoj kampanji, Google dobije jedan signal ("poziv") i jedan CPL cilj. Najlakše mu je da kupuje jednodnevne pozive, jer njih ima najviše i najjeftiniji su. Firma tada vidi lep CPL od 1.000 dinara i kalendar pun kratkih najmova na kojima prevoz pojede pola zarade.
+
+Postupak za računanje granice od koje kampanja počinje da gubi novac opisan je u tekstu [maksimalna cena leada](/blog/maksimalna-cena-leada-srbija-2026).
+
+## Kako podeliti kampanje
+
+Polazna podela koja radi kod većine firmi za najam:
+
+- **Kratki najam za fizička lica i male majstore.** Mini bageri, vibro ploče, mešalice, manje skele. Izrazi kao "mini bager cena po danu", "iznajmljivanje mini bagera Novi Sad". Uži radijus oko placa, jer prevoz na 60 km briše maržu jednodnevnog najma.
+- **Gradilišni i dugi najam za firme.** Bageri gusenićari, kombinirke, valjci, teleskopski manipulatori, dizalice. Izrazi kao "najam bagera za gradilište", "mesečni najam valjka", "iznajmljivanje kombinirke za firme". Širi radijus, landing strana sa uslovima za firme i mogućnošću ugovora.
+- **Mašina sa rukovaocem.** Ovo je druga usluga, ne druga mašina. Kupac ne traži opremu nego urađen iskop. Cena je po satu ili po poslu, a upit treba da sadrži opis radova, ne samo datum.
+
+Viljuškari i makazaste platforme često idu u četvrtu grupu, jer ih traže magacini, proizvodnja i firme koje rade unutrašnje radove. Njihova sezona i kupac nisu isti kao kod iskopa.
+
+Ako već radite za građevinske firme kao izvođač, tekst [Google reklame za građevinske firme](/blog/google-reklame-za-gradjevinske-firme-cena-leada-srbija-2026) pokriva drugu stranu istog tržišta: kupce koji traže izvođača, a ne mašinu.
+
+## Ko još kuca "bager" u pretragu
+
+U ovoj delatnosti izveštaj o pretragama (search terms report) posle prve nedelje obično pokaže četiri grupe koje nisu kupci najma:
+
+- kupci i prodavci polovnih mašina ("polovni mini bager", "prodaja bagera", "kupujem bager");
+- ljudi koji traže delove, gume, kašike i servis za svoju mašinu;
+- oni koji traže posao ili obuku ("posao rukovalac bagera", "kurs za bageristu", "obuka za viljuškaristu");
+- roditelji koji traže igračku ("bager igračka", "bager na baterije").
+
+Negativne ključne reči rešavaju većinu toga, ali sa dve zamke.
+
+Prva: reč "rukovalac" ne sme na listu negativnih reči kao široka negativna reč. "Mini bager sa rukovaocem" je jedan od najjačih kupovnih izraza u ovom poslu. Isključite frazu "posao rukovalac" i reči "plata", "oglas za posao", "obuka", "kurs", a samu reč "rukovalac" ostavite.
+
+Druga: srpski ima padeže. [Google navodi](https://support.google.com/google-ads/answer/2453972) da negativne ključne reči ne pokrivaju bliske varijante i da sinonime, jedninu i množinu treba dodati posebno. Velika i mala slova i greške u kucanju sistem hvata sam. Zato lista za polovne mašine treba da ima "polovni", "polovan", "polovne", "polovnih", a ne samo jedan oblik. Ako dobijate pretrage na ćirilici, dodajte i ćirilične oblike: "половни", "продаја", "посао".
+
+Kako izbor tipa podudaranja menja to šta Google uopšte smatra vašom pretragom, opisano je u tekstu [tipovi podudaranja ključnih reči](/blog/tipovi-podudaranja-kljucnih-reci-google-ads-lead-generation-srbija-2026).
+
+## Radijus prati cenu prevoza, ne mapu Srbije
+
+Mašina na točkovima ili na kamionu košta svaki kilometar. Google Ads omogućava [ciljanje radijusom oko lokacije](https://support.google.com/google-ads/answer/1722043), i za najam mašina to je bolji izbor od ciljanja celog grada ili okruga.
+
+Praktično pravilo: radijus za kratki najam postavite do udaljenosti na kojoj naplaćeni prevoz još pokriva stvarni trošak kamiona i vozača. Za gradilišni najam radijus sme da bude dvostruko ili trostruko veći, jer se prevoz deli na deset ili dvadeset dana rada.
+
+Proverite i opciju lokacije. Podrazumevano podešavanje prikazuje oglase i ljudima koji samo pokazuju interesovanje za vašu oblast, a nisu u njoj. Za firmu koja vozi mašinu na adresu to često znači pozive iz grada u koji ne idete. Razlika između prisustva i interesovanja objašnjena je u tekstu [ciljanje lokacije u Google Ads](/blog/google-ads-ciljanje-lokacije-prisustvo-interesovanje-srbija-2026).
+
+## Budžet određuju slobodne mašine
+
+Nastavak istog primera. Četiri mini bagera, 22 radna dana: 88 mašina-dana mesečno. Stalni klijenti i dogovoreni poslovi već drže 58, što je 66% iskorišćenosti. Ostaje 30 slobodnih dana.
+
+Ako prosečan najam traje 3 dana, firmi treba 10 novih najmova. Uz stopu zatvaranja od 40%, to je 25 kvalifikovanih upita. Uz CPL od 1.500 dinara, mesečni budžet za tu klasu mašina je oko 37.500 dinara.
+
+Trideset praznih dana po 7.500 dinara je 225.000 dinara prihoda koji je mogao da se desi. Taj broj je vredno znati pre nego što neko kaže da je 37.500 za oglase previše.
+
+Važi i obrnuto. Kada su svi mini bageri zauzeti do kraja meseca, svaki novi poziv za mini bager je odbijenica koju ste platili. Pauzirajte tu grupu oglasa ili smanjite budžet dok se mašina ne vrati. Firme koje ovo ne rade vide rast "izgubljenih upita" u CRM-u i misle da je problem u prodaji, a problem je u kalendaru. Šira logika budžeta prema kapacitetu nalazi se u tekstu [kapacitet prodaje i marketing budžet](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026).
+
+## Zima nije pauza, nego druga kampanja
+
+Od kraja novembra do februara iskopa ima manje. Mraz, blato i kraći dan usporavaju gradilišta, pa pada i potražnja za mini bagerima. Firme tada najčešće isključe sve kampanje i ponovo ih pale u martu, kada se svi takmiče za iste klikove.
+
+Bolje je zimi preusmeriti budžet na mašine koje rade u zatvorenom ili ne zavise od zemljanih radova: viljuškare, makazaste i zglobne platforme, isušivače i grejače za gradilišta ako ih imate. Grupe za iskop ostavite aktivne sa malim budžetom, za izvođače koji rade i zimi i za nedelje kada vreme dozvoli. Krajem februara podignite budžet za mini bagere pre nego što izvođači počnu da zovu, a ne posle.
+
+[Raspored prikazivanja oglasa](https://support.google.com/google-ads/answer/2404244) pomaže i tokom godine. Ako niko ne odgovara na telefon posle 17 časova i vikendom, a forma ne nudi rezervaciju, oglasi u to vreme kupuju propuštene pozive. Google pritom navodi da kampanja sa rasporedom i dalje troši prema mesečnom limitu od 30,4 puta prosečnog dnevnog budžeta, pa raspored menja vreme trošenja, a ne obavezno i iznos.
+
+## Šta forma i landing strana moraju da pitaju
+
+Upit "da li imate slobodan bager" bez ikakvih podataka košta prodavca deset minuta telefona. Forma za najam treba da traži ono što menja odgovor:
+
+- vrstu mašine ili posla (iskop temelja, kanal, ravnanje terena, rad na visini, utovar);
+- lokaciju, bar mesto i ulicu, zbog prevoza;
+- datum početka i okvirno trajanje;
+- sa rukovaocem ili bez;
+- pristup placu: širina kapije ili prolaza, nagib, da li kamion može da priđe;
+- da li najam ide na firmu ili na fizičko lice.
+
+Landing strana za svaku klasu mašina treba da ima cenu po danu "od", minimalni period najma, cenu prevoza po zonama, uslove depozita i šta se dešava ako se mašina vrati prljava ili oštećena. Firme koje kriju cenu misle da tako dobijaju više poziva. Dobijaju, ali i više poziva ljudi kojima je cena previsoka, i to plaćaju po kliku. O tome šta prikazana cena radi kvalitetu upita piše tekst [cene na sajtu i kvalitet leadova](/blog/cene-na-sajtu-usluge-kvalitet-leadova-srbija-2026), a o pitanjima u formi tekst [kontakt forma i kvalifikacija leadova](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026).
+
+Telefon je i dalje glavni kanal u ovom poslu. Izvođač na gradilištu neće popunjavati formu, nego zove. Ako se pozivi iz kampanje ne beleže i ne vraćaju, deo budžeta odlazi na pozive koje niko nije čuo, što je opisano u tekstu [propušteni pozivi iz kampanja](/blog/propusteni-pozivi-iz-kampanja-leadovi-prodaja-srbija-2026).
+
+## Šta meriti posle prvog meseca
+
+Broj poziva je najmanje koristan broj u nalogu. Za odluku o budžetu gledajte, po klasi mašina:
+
+- broj potvrđenih najmova i ukupno prodatih mašina-dana;
+- prosečno trajanje najma iz kampanje u odnosu na stalne klijente;
+- bruto profit po najmu posle prevoza i servisa;
+- udeo upita na koje ste rekli "nemamo slobodnu mašinu";
+- udeo firmi u odnosu na fizička lica, jer firme češće dolaze ponovo.
+
+Ako kampanja donosi samo jednodnevne najmove na ivici radijusa, nije problem u Google-u. Problem je u podeli kampanja, radijusu ili ceni prevoza. Ako donosi gradilišne upite na koje ne možete da odgovorite jer nemate mašinu, problem je u kalendaru, a rešenje može biti i nova mašina, ne veći budžet.
+
+## Kada Google Ads nema smisla za najam mašina
+
+Kada flota stalno radi preko 85 do 90% vremena kod istih izvođača, novi upiti uglavnom dobijaju odbijenicu. Tada je pametnije uložiti u bolje uslove za stalne klijente ili kupiti još jednu mašinu.
+
+Isto važi kada firma nema jasnu cenu prevoza, depozit i pravila povrata. Kampanja će doneti pozive, a svaki će se pretvoriti u pregovaranje od nule.
+
+Za sve ostale plan izgleda ovako: podela kampanja na kratki najam, gradilišni najam i mašine sa rukovaocem, radijus vezan za cenu prevoza, negativne reči u svim padežima od prvog dana, budžet koji prati slobodne mašina-dane i zimska preraspodela umesto gašenja. Okvir za trošak klika i budžet nalazi se na strani [cena Google reklama](/google-reklame-cena), ukupan plan na strani [cene digitalnog marketinga](/cene-digitalnog-marketinga), a kako vodimo naloge opisano je na strani [Google Ads agencija](/google-ads-agencija).
+
+Ako iznajmljujete građevinske mašine, pošaljite kroz [kontakt formu](/kontakt) koje klase mašina imate i koliko komada, grad iz kog vozite, okvirnu dnevnu cenu, cenu prevoza i koliko je flota bila zauzeta prošlog meseca. Napravićemo plan u kome budžet prati slobodne mašina-dane, a ne broj poziva.
+
+Izvori: [Google Ads Help: About negative keywords](https://support.google.com/google-ads/answer/2453972), [Google Ads Help: Target ads to geographic locations](https://support.google.com/google-ads/answer/1722043), [Google Ads Help: About ad scheduling](https://support.google.com/google-ads/answer/2404244).
+`,
+  },
+  {
     slug: 'dodatna-prodaja-postojecim-klijentima-upsell-leadovi-srbija-2026',
     title: 'Dodatna prodaja postojećim klijentima u Srbiji 2026: drugi posao bez novog leada',
     excerpt: 'Drugi posao istom klijentu ne traži novi klik ni novi lead. Kada ponuditi sledeću uslugu, kako je voditi u CRM-u i kako da ne plaćate oglase za kupce koje već imate.',

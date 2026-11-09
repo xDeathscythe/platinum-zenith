@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-iznajmljivanje-gradjevinskih-masina-cena-upita-srbija-2026",
+    "title": "Google Ads za iznajmljivanje građevinskih mašina u Srbiji 2026: cena upita po mašina-danu",
+    "excerpt": "Google Ads za najam bagera, viljuškara i platformi isplati se kroz popunjene mašina-dane. Kako odvojiti kupce najma od ostalih pretraga i odrediti cenu upita.",
+    "date": "2026-11-09",
+    "category": "Google Ads",
+    "readTime": "9 min read",
+    "isDraft": false
+  },
+  {
     "slug": "dodatna-prodaja-postojecim-klijentima-upsell-leadovi-srbija-2026",
     "title": "Dodatna prodaja postojećim klijentima u Srbiji 2026: drugi posao bez novog leada",
     "excerpt": "Drugi posao istom klijentu ne traži novi klik ni novi lead. Kada ponuditi sledeću uslugu, kako je voditi u CRM-u i kako da ne plaćate oglase za kupce koje već imate.",
