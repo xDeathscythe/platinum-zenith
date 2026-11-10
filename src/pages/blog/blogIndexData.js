@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "kupovina-leadova-ili-sopstvena-kampanja-cena-kupca-srbija-2026",
+    "title": "Kupovina leadova ili sopstvena kampanja: koliko stvarno košta kupac u Srbiji 2026",
+    "excerpt": "Kupljen lead od 900 dinara deluje jeftinije od sopstvene kampanje. Kad uračunate deljenje sa konkurencijom i vreme prodaje, kupac često ispadne najskuplji.",
+    "date": "2026-11-10",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-iznajmljivanje-gradjevinskih-masina-cena-upita-srbija-2026",
     "title": "Google Ads za iznajmljivanje građevinskih mašina u Srbiji 2026: cena upita po mašina-danu",
     "excerpt": "Google Ads za najam bagera, viljuškara i platformi isplati se kroz popunjene mašina-dane. Kako odvojiti kupce najma od ostalih pretraga i odrediti cenu upita.",

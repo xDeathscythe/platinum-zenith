@@ -1,5 +1,154 @@
 const rawBlogPosts = [
   {
+    slug: 'kupovina-leadova-ili-sopstvena-kampanja-cena-kupca-srbija-2026',
+    title: 'Kupovina leadova ili sopstvena kampanja: koliko stvarno košta kupac u Srbiji 2026',
+    excerpt: 'Kupljen lead od 900 dinara deluje jeftinije od sopstvene kampanje. Kad uračunate deljenje sa konkurencijom i vreme prodaje, kupac često ispadne najskuplji.',
+    date: '2026-11-10',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Lead Generation', 'Kupovina leadova', 'Cena kupca', 'CAC', 'Marketing budžet', 'ROI'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Cena leada je jedina cifra koju prodavac leadova rado pokaže
+
+Ponuda obično stigne u istom obliku. Platforma ili firma koja prodaje upite nudi kontakte ljudi kojima treba vaša usluga, po 900 dinara komadu. Vaša Google Ads kampanja vas trenutno košta oko 2.500 dinara po upitu, plus agencija i landing strana. Na prvi pogled odluka je laka: zašto plaćati skoro tri puta više?
+
+Zato što cena leada nije cena kupca. Između te dve cifre stoje tri pitanja koja prodavac leadova retko otvori sam: kome je još prodat isti kontakt, koliko ljudi uopšte možete da dobijete na telefon i koliko sati vaš prodavac potroši dok od gomile kontakata ne izvuče jedan posao.
+
+Ovaj tekst je računica za firme koje razmišljaju da kupuju upite od portala, lead platformi ili posrednika umesto sopstvenih kampanja ili pored njih. Ako vam je razlika između cene upita i cene kupca nova, prvo pročitajte zašto [CPL nije CAC](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026). Ovde idemo korak dalje i poredimo izvore.
+
+## Šta se zapravo kupuje
+
+"Lead" na papiru zvuči kao jedna stvar. U praksi se prodaju bar tri različita proizvoda, i cena među njima opravdano varira.
+
+### Deljen lead
+
+Isti upit dobija tri, četiri ili pet firmi. Čovek je popunio jednu formu na portalu tipa "dobijte ponude od više majstora" i za pet minuta zovu ga svi. Pobeđuje onaj ko se prvi javi ili ponudi najnižu cenu. Ovo je najjeftiniji lead i najteže se pretvara u posao po dobroj marži.
+
+### Ekskluzivan lead
+
+Upit ide samo vama. Prodavac ga je dobio iz sopstvenih kampanja ili sajta i prosleđuje ga jednoj firmi po oblasti ili usluzi. Skuplji je, ali razgovor počinje bez aukcije u kojoj se nadmeću četiri ponude.
+
+### Recikliran ili "osvežen" kontakt
+
+Stari upiti, kontakti iz baza, ljudi koji su se prijavili za nešto treće pre godinu dana. Cena im je niska jer je većinu tih ljudi neko već zvao. Kod ovih kontakata pravni rizik je najveći, o tome niže.
+
+Kada dobijete ponudu, prvo pitanje nije koliko košta lead, već koji je od ova tri.
+
+## Računica: tri izvora, ista firma
+
+Uzmimo izmišljenu, ali realno postavljenu uslužnu firmu. Prosečan posao joj donosi 40.000 dinara bruto profita. Prodavac troši oko 20 minuta po leadu na pozive, poruke i beleške, a sat njegovog rada firmu košta 1.500 dinara. To je 500 dinara vremena po svakom leadu, bez obzira da li se pretvori u posao.
+
+Brojke za kontakt i zatvaranje su pretpostavke za primer. Vaše treba da izvučete iz CRM-a, a ne iz ovog teksta.
+
+### Deljen lead od 900 dinara
+
+Od deset kupljenih kontakata, sedam se javi na telefon. Od onih koji se jave, jedan od deset prihvati vašu ponudu, jer su istog dana dobili još tri. To znači da je stvarna stopa 7 odsto, odnosno treba vam oko 14,3 leada za jednog kupca.
+
+- Trošak kupovine po kupcu: 12.857 dinara
+- Vreme prodaje po kupcu: 7.143 dinara
+- Ukupno po kupcu: 20.000 dinara
+
+### Ekskluzivan lead od 2.500 dinara
+
+Javi se 85 odsto, a od njih svaki četvrti prihvati ponudu. Stvarna stopa je 21,25 odsto, oko 4,7 leadova po kupcu.
+
+- Trošak kupovine po kupcu: 11.765 dinara
+- Vreme prodaje po kupcu: 2.353 dinara
+- Ukupno po kupcu: 14.118 dinara
+
+### Sopstvena kampanja
+
+Oglasi donose upit za 2.500 dinara. Fiksni troškovi (vođenje kampanje, landing strana, praćenje konverzija) od 40.000 dinara mesečno na 40 upita dodaju još 1.000 dinara po upitu, pa je pun trošak 3.500. Javi se 90 odsto, jer je čovek baš vas tražio i baš vama pisao. Od njih 30 odsto postane kupac, što je stvarna stopa od 27 odsto, oko 3,7 upita po kupcu.
+
+- Trošak upita po kupcu: 12.963 dinara
+- Vreme prodaje po kupcu: 1.852 dinara
+- Ukupno po kupcu: 14.815 dinara
+
+### Šta ove brojke kažu
+
+Deljen lead je bio 2,8 puta jeftiniji po komadu od upita iz oglasa (bez fiksnih troškova), a kupac iz njega je ispao oko 35 odsto skuplji od kupca iz sopstvene kampanje. Od 40.000 dinara bruto profita firmi posle troška akvizicije ostaje 20.000 kod deljenih leadova, a između 25.000 i 26.000 kod druga dva izvora.
+
+Ekskluzivan kupljen lead i sopstvena kampanja su u ovom primeru skoro izjednačeni. To je pošten zaključak i ne treba ga skrivati: dobar ekskluzivan lead može biti sasvim razuman kanal. Razlika između njih nije u ceni kupca, već u tome šta vam ostaje posle, o čemu na kraju teksta.
+
+## Koliko najviše smete da platite deljen lead
+
+Okrenite računicu. Ako vas kupac iz sopstvene kampanje košta 14.815 dinara, deljen lead sa stopom od 7 odsto i 500 dinara vremena isplati se samo dok košta najviše oko 537 dinara. Svaki dinar iznad toga plaćate za kupca koji je skuplji od onog kog već umete da dobijete sami.
+
+Formula je jednostavna i vredi je imati u tabeli:
+
+- maksimalna cena kupljenog leada = (vaš sadašnji trošak po kupcu x stvarna stopa tog izvora) minus vreme prodaje po leadu
+
+Za ekskluzivan izvor iz primera granica je oko 2.648 dinara, pa je ponuda od 2.500 tik ispod. Dovoljno je da stopa zatvaranja padne sa 25 na 23 odsto i taj izvor postaje skuplji od sopstvene kampanje. Zato prve dve nedelje sa novim izvorom morate da vodite u CRM-u odvojeno, sa izvorom upisanim na svakom leadu. Kako se računa stopa i zašto ona pomera dozvoljenu cenu upita, objasnili smo u tekstu o [stopi zatvaranja leadova](/blog/stopa-zatvaranja-leadova-marketing-budzet-srbija-2026) i [maksimalnoj ceni leada](/blog/maksimalna-cena-leada-srbija-2026).
+
+## Vreme prodaje je trošak koji niko ne fakturiše
+
+Recimo da firmi treba šest novih poslova mesečno. Sa stopama iz primera to znači:
+
+- iz deljenih leadova: oko 86 kontakata i oko 28,6 sati prodavca
+- iz ekskluzivnih: oko 28 kontakata i oko 9,4 sata
+- iz sopstvene kampanje: oko 22 upita i oko 7,4 sata
+
+Razlika od dvadesetak sati mesečno je skoro tri radna dana. Ako prodaju vodi vlasnik, to su tri dana koja ne provodi na poslu koji naplaćuje. Ako je prodavac pun, deljeni leadovi ne donose više posla, nego čekaju u redu dok ozbiljni upiti iz drugih izvora stoje bez odgovora. To je isti problem koji opisujemo u tekstu o [kapacitetu prodaje](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026), samo što ga ovde sami kupujete po komadu.
+
+Pun obračun troška prodaje po kanalu imamo u posebnom tekstu o [trošku prodaje u lead generation-u](/blog/trosak-prodaje-marketing-roi-lead-generation-srbija-2026).
+
+## Odakle imate broj: pravni deo koji se preskače
+
+Kada kupite kontakt, vi postajete rukovalac tim podacima o ličnosti. Zakon o zaštiti podataka o ličnosti kaže da je obrada zakonita samo uz jedan od propisanih osnova iz [člana 12](https://www.paragraf.rs/propisi/zakon_o_zastiti_podataka_o_licnosti.html), a kod prodaje kupljenih kontakata to je u praksi pristanak. Po članu 15 istog zakona, onaj ko se oslanja na pristanak mora biti u mogućnosti da ga dokaže.
+
+Član 24 je onaj koji direktno menja vaš prvi poziv. Ako podaci nisu prikupljeni od samog lica, rukovalac mora da mu kaže ko je, u koju svrhu obrađuje podatke i iz kog izvora potiču, najkasnije prilikom prve komunikacije ako se podaci koriste za kontakt sa tim licem. Prevedeno na prodaju: kada pozovete kupljen lead, morate da mu kažete odakle imate njegov broj.
+
+To nije formalnost. Ako prodavac leadova ne može da vam pokaže kako je i za koga pristanak dobijen, rizik prelazi na vas. Kod recikliranih baza to je čest slučaj. Ovaj deo proverite sa svojim pravnikom pre potpisivanja, jer od tačnog teksta pristanka zavisi da li ste uopšte smeli da zovete.
+
+## Kada kupovina leadova ima smisla
+
+Kupljeni upiti nisu prevara po definiciji. Postoje situacije u kojima su razumna odluka:
+
+- testirate novi grad ili novu uslugu i hoćete da vidite potražnju pre nego što uložite u kampanju i landing stranu
+- imate prazan kapacitet sledećih nekoliko nedelja i treba vam posao brzo, uz svest da je skuplji
+- izvor je ekskluzivan, prodavac pokazuje odakle upiti dolaze, a vaše prve dve nedelje u CRM-u potvrđuju stopu zatvaranja
+- sopstvenu kampanju tek gradite, pa kupljeni upiti pokrivaju prelazni period
+
+Loša je kupovina kada je izvor deljen, a vi to ne znate. Isto važi kad nema prava na povrat neispravnih kontakata, kad prodavac ne otkriva izvor i kad deljeni leadovi postanu glavni kanal samo zato što je cena po komadu niska.
+
+## Pitanja pre nego što potpišete
+
+Tražite odgovore pismeno:
+
+- Koliko firmi dobija isti upit i da li to piše u ugovoru?
+- Odakle dolaze upiti: sopstvene kampanje, portal, baza, partnerski sajtovi?
+- Kako je dobijen pristanak i ko ga čuva?
+- Šta se računa kao neispravan lead (pogrešan broj, ne seća se upita, traži uslugu koju ne radite) i u kom roku ga vraćate?
+- Koliko je star upit u trenutku kada ga dobijete?
+- Možete li da pauzirate isporuku kada je kapacitet pun?
+
+Ako na prva tri pitanja dobijete neodređen odgovor, ne morate dalje da računate.
+
+Isti princip važi i za agencije koje naplaćuju po leadu. Kada se plaća po komadu, presudna je definicija leada. O tome detaljnije u tekstu o [fiksnom fee-u, procentu budžeta i performance modelu](/blog/fiksni-fee-procenat-budzeta-performance-agencija-srbija-2026).
+
+## Šta sopstvena kampanja ostavlja, a kupljen lead ne
+
+Kada prestanete da plaćate prodavca leadova, upiti staju istog dana. Od tog kanala vam ostaje lista kontakata i ništa više.
+
+Sopstvena kampanja ostavlja istoriju ključnih reči koje donose posao, negativne reči koje ste platili da naučite, podatke o konverzijama za algoritam, remarketing listu, landing stranu koja radi i saznanje koji gradovi i usluge se isplate. Svaki mesec dodaje nešto što sledeći mesec čini jeftinijim. Kupljen lead je trošak, a kampanja je trošak plus imovina koja ostaje firmi.
+
+Zato je zdrava raspodela za većinu uslužnih firmi ovakva: sopstvena kampanja nosi osnovni tok upita, a kupljeni ekskluzivni upiti pune rupe u kapacitetu ili služe za test novog tržišta. Ako već imate zadovoljne klijente, najjeftiniji izvor je verovatno onaj koji ne kupujete ni od koga, a to su [preporuke klijenata](/blog/preporuke-klijenata-izvor-leadova-prodaja-srbija-2026).
+
+Okvir za budžet sopstvene kampanje imate na stranama [cena Google reklama](/google-reklame-cena) i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Kako Platinum Zenith može da pomogne
+
+Ako vam je stigla ponuda za kupovinu leadova ili već kupujete upite i niste sigurni da li se isplate, pošaljite nam cenu po leadu, koliko ih mesečno dobijate, koliko ih prodavac dobije na telefon i koliko postane posao. Uz to nam treba i prosečan bruto profit po poslu. Izračunaćemo stvarni trošak po kupcu za svaki izvor i reći vam da li je sopstvena [Google Ads kampanja](/google-ads-agencija) jeftiniji put ili ne.
+
+Javite se preko [kontakt strane](/kontakt).
+`,
+  },
+  {
     slug: 'google-ads-za-iznajmljivanje-gradjevinskih-masina-cena-upita-srbija-2026',
     title: 'Google Ads za iznajmljivanje građevinskih mašina u Srbiji 2026: cena upita po mašina-danu',
     excerpt: 'Google Ads za najam bagera, viljuškara i platformi isplati se kroz popunjene mašina-dane. Kako odvojiti kupce najma od ostalih pretraga i odrediti cenu upita.',
