@@ -1,5 +1,119 @@
 const rawBlogPosts = [
   {
+    slug: 'lazni-klikovi-google-ads-konkurencija-nevazeci-klikovi-lazni-upiti-srbija-2026',
+    title: 'Lažni klikovi u Google Ads: da li vam konkurencija stvarno troši budžet u Srbiji 2026',
+    excerpt: 'Sumnjate da konkurencija klikće na vaše Google oglase? Evo šta Google sam filtrira pre naplate, gde to vidite u nalogu i zašto lažni upiti koštaju više.',
+    date: '2026-11-11',
+    readTime: '9 min read',
+    category: 'Google Ads',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Nevažeći klikovi', 'Lažni klikovi', 'Lažni upiti', 'Lead Generation', 'Budžet'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Sumnja uvek počne isto
+
+Budžet se potroši do podneva, telefon ćuti, a vlasnik se seti da konkurent iz istog grada "sigurno klikće". Ponekad je to istina. Češće novac odlazi na mesta koja niko ne gleda, a konkurent je zgodan krivac jer se ne brani.
+
+Ovaj tekst je za vlasnike uslužnih firmi koje plaćaju Google Ads po kliku i žive od upita. Proći ćemo šta Google radi sa lažnim klikovima pre nego što vam ih naplati, gde to vidite u nalogu, kada ima smisla blokirati IP adresu i zašto su lažni upiti iz forme skoro uvek skuplji od lažnih klikova.
+
+## Šta Google sam filtrira, pre računa
+
+Google lažne klikove zove nevažeći saobraćaj (invalid traffic). U [Google Ads pomoći o nevažećem saobraćaju](https://support.google.com/google-ads/answer/11182074?hl=sr) su navedeni botovi, slučajni klikovi, prevarni plasmani na sajtovima izdavača i, doslovno, konkurenti koji ručno klikću da bi vam podigli trošak. Google, dakle, već računa sa vašim konkurentom.
+
+Bitnije je kako se to obračunava:
+
+- Klik koji Google proglasi nevažećim pre kraja obračunskog perioda ne plaćate. Uklanja se iz troška i iz izveštaja kampanje, a novac se vraća u budžet kampanje.
+- Ako se nevažeći saobraćaj otkrije tek posle fakture, dobijate kredit. U naplati ga nalazite kao stavku "Invalid activity" među prilagođavanjima.
+- Istragu za saobraćaj koji filteri nisu uhvatili možete da tražite za poslednjih 60 dana.
+
+Deo klikova koje sumnjate da su lažni vam, prema tome, nikada nije ni naplaćen. Ostaje pitanje koliki je ostatak.
+
+## Gde to vidite u nalogu
+
+Dodajte kolonu nevažeći klikovi (Invalid clicks) u tabelu kampanja: ikonica za kolone, pretraga po nazivu, Primeni. Ta kolona pokazuje klikove koje je Google već izbacio iz troška. Kada broj raste, to znači da filter radi. Ne znači da vas neko pljačka.
+
+Na stranici Pregled postoji i kartica za nevažeći saobraćaj, sa procenjenom uštedom i iznosom kredita. Google navodi da se uvodi postepeno, pa je možda još nemate. Za brojke posle kredita koristite Invalid Activity Credit Report u uređivaču izveštaja.
+
+Jedna stvar zbuni skoro svakog: mnogo nevažećih klikova u koloni, a mali kredit na fakturi. To je normalno. Kolona prikazuje klikove filtrirane pre naplate, a kredit pokriva samo ono što je otkriveno kasnije.
+
+## Šta vas lažno uznemiri u analitici
+
+Tri obrasca najčešće pokreću paniku, i Google ih objašnjava u istom članku.
+
+- **Posete od nula sekundi.** Mnogi alati mere trajanje tek od drugog klika na sajtu. Čovek koji je pročitao celu landing stranu i pozvao telefonom može u analitici da izgleda kao poseta od nula sekundi.
+- **Više klikova sa iste IP adrese.** Mobilni operateri, kancelarije, fakulteti i kafići dele jednu javnu IP adresu na stotine ili hiljade uređaja. Kada neko traži majstora sa telefona preko mobilne mreže, ista adresa ne znači istog čoveka.
+- **Klikovi van ciljanog grada.** Na podrazumevanom podešavanju "prisustvo ili interesovanje" oglas vidi i neko ko je u Beču a traži uslugu u Novom Sadu. O tome smo pisali u tekstu o [ciljanju lokacije](/blog/google-ads-ciljanje-lokacije-prisustvo-interesovanje-srbija-2026).
+
+Analitika sajta i Google Ads takođe neće pokazivati iste brojke. Google izbaci filtrirani klik iz svog izveštaja, a vaš alat za analitiku i dalje beleži posetu.
+
+## Koliko konkurent stvarno može da vas košta
+
+Uzmimo izmišljen primer, samo da računica bude jasna. Firma troši 150.000 dinara mesečno, prosečan klik je 75 dinara, dakle oko 2.000 klikova. Recimo da konkurent zaista klikne pet puta dnevno, svakog radnog dana. To je 110 klikova i 8.250 dinara, ili 5,5% budžeta. I to je gornja granica, uz pretpostavku da Google nijedan od tih klikova nije prepoznao.
+
+Sada otvorite izveštaj o pretraživanim terminima iste firme. Ako 18% troška odlazi na pretrage tipa "posao", "besplatno", "kako sam da" ili na usluge koje firma ne radi, to je 27.000 dinara mesečno. To je 3,3 puta više od najgoreg scenarija sa konkurentom. Taj novac vam nijedan filter neće vratiti, jer su to stvarni ljudi koji su stvarno kliknuli.
+
+Redosled je zato jasan. Prvo pretraživani termini i negativne ključne reči, pa lokacija, pa tek onda lov na konkurenta. Kako se slažu tipovi podudaranja i negativne reči na srpskom, sa padežima i ćirilicom, objasnili smo u tekstu o [tipovima podudaranja ključnih reči](/blog/tipovi-podudaranja-kljucnih-reci-google-ads-lead-generation-srbija-2026). Koliki budžet uopšte ima smisla za vašu delatnost pogledajte na strani [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Kada blokirati IP adresu
+
+IP isključenje postoji i radi, ali u uskim slučajevima. Po [Google uputstvu za isključivanje IP adresa](https://support.google.com/google-ads/answer/2456098?hl=sr) možete da isključite do 500 adresa po kampanji, a možete i na nivou celog naloga, što pokriva i Performance Max. Zvezdica umesto poslednjeg dela adrese isključuje ceo blok.
+
+Ima smisla za:
+
+- vašu kancelariju i lokale, da zaposleni koji proveravaju gde se firma pojavljuje ne klikću na sopstvene oglase;
+- fiksnu adresu koja se danima ponavlja u logovima servera, sa klikovima bez ijedne radnje na sajtu;
+- adresu firme sa kojom imate konkretan, dokumentovan problem.
+
+Za mobilne adrese nema smisla. Blokirate deo mreže operatera, a sa njim i stvarne kupce, dok onaj ko namerno klikće samo isključi i uključi mobilne podatke i dobije novu adresu. Plaćeni alati koji obećavaju da "automatski blokiraju lažne klikove" često prijavljuju baš klikove koje je Google već filtrirao i nije vam ih naplatio. I to piše u istom Google članku.
+
+## Lažni upiti koštaju više od lažnih klikova
+
+Ovde se novac zaista gubi. Google filtrira klik, ali ne kontroliše šta se dešava na vašem sajtu posle njega. Bot ili osoba koja upisuje izmišljen broj može da pošalje formu čak i kada je sam klik proglašen nevažećim. Google to otvoreno kaže: kvalitet upita je zajednički posao, a forma, sajt i CRM su vaš deo.
+
+Isti izmišljen primer: 50 poslatih formi mesečno, od toga 15 lažnih (izmišljeni brojevi, besmislen tekst, isti mejl u pet varijanti). U nalogu cena upita izgleda 3.000 dinara. Stvarna je 150.000 podeljeno sa 35, odnosno 4.286 dinara, skoro 43% više.
+
+Još gore je šta te forme rade algoritmu. Ako svaka poslata forma ide u Google Ads kao konverzija, a koristite automatsko licitiranje, 30% signala za učenje je smeće. Sistem zaključuje da su takvi posetioci dobri i traži još sličnih. Zato lažni upiti retko nestanu sami. Obično ih bude sve više.
+
+Šta da uradite, otprilike redom kojim to i Google preporučuje:
+
+- Zaštitite formu. reCAPTCHA ili slična provera, validacija na serveru a ne samo u pregledaču, i skriveno polje koje ljudi ne vide a botovi popune.
+- Proverite telefon i mejl pre nego što upit uđe u CRM kao lead. Kod mejla pomaže potvrda preko linka (double opt-in). Koja pitanja forma treba da postavi da bi odsekla nezainteresovane opisali smo u tekstu o [kvalifikaciji kroz kontakt formu](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026).
+- Ne optimizujte kampanju na "poslatu formu". Kao glavnu konverziju koristite kvalifikovan upit, održan poziv ili poslatu ponudu, uz uvoz iz CRM-a. Podešavanje je u tekstu o [kvalifikovanim konverzijama](/blog/kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026).
+- Uključite enhanced conversions, koje Google navodi kao deo zaštite od lažnih upita, i čuvajte GCLID uz svaki upit u skrivenom polju forme. Bez GCLID-a kasnije ne možete da dokažete koji je lažni upit došao sa kog klika.
+
+## Kada vredi tražiti istragu od Google-a
+
+Ako ste sredili pretrage, lokaciju i formu, a i dalje vidite skok klikova bez promene u upitima, pošaljite zahtev preko obrasca za kvalitet klikova. Istraga pokriva poslednjih 60 dana i traje nekoliko radnih dana, jer podatke pregledaju ljudi. Pre slanja skupite:
+
+- ID naloga i tačne datume kada je počelo;
+- nazive kampanja, grupa oglasa i ključnih reči na kojima je skok;
+- logove servera sa IP adresama, uređajima i GCLID oznakama sumnjivih klikova;
+- za lažne upite, tabelu sa GCLID-om svakog upita i vašom ocenom posle poziva ili mejla;
+- kratko objašnjenje šta je čudno, na primer trostruko više klikova bez ijednog upita više.
+
+Nemojte očekivati da vam Google kaže koji je tačno klik proglasio nevažećim. To ne otkriva, da prevaranti ne bi naučili kako da zaobiđu filter. Dobićete mejl sa nalazom, a kredit ako se pokaže da je nešto propušteno.
+
+## Nedeljna provera od deset minuta
+
+- Kolona nevažeći klikovi: da li je skočila i u kojoj kampanji.
+- Pretraživani termini: nove negativne reči, sa padežima i ćirilicom.
+- Lokacija: "prisustvo" umesto "prisustva ili interesovanja" ako radite samo lokalno.
+- Forme: koliko je poslatih upita bilo lažno, po kampanji.
+- Istorija promena: da li je neko menjao budžet, ključne reči ili lokaciju pre skoka.
+
+Za nagle skokove i Google prvo upućuje na istoriju promena, sezonu i konkurenta koji je ugasio svoje oglase, pa vaši dobijaju više prikaza. Konkurent ponekad zaista utiče na vaš budžet, samo ne onako kako ste mislili. Ako upiti već stižu, ali od ljudi koji ništa ne kupuju, pogledajte i tekst o [lošim leadovima](/blog/losi-leadovi-kako-popraviti-kvalitet-upita-srbija-2026).
+
+## Kako Platinum Zenith može da pomogne
+
+Ako vam se budžet troši brže nego što stižu upiti, pregledaćemo pretraživane termine, podešavanje lokacije, nevažeće klikove i forme na sajtu i reći vam gde novac zaista curi. Okvir troškova imate na strani [cena Google reklama](/google-reklame-cena), a kako vodimo kampanje opisano je na strani [Google Ads agencija](/google-ads-agencija).
+
+Javite se preko [kontakt strane](/kontakt).
+`,
+  },
+  {
     slug: 'kupovina-leadova-ili-sopstvena-kampanja-cena-kupca-srbija-2026',
     title: 'Kupovina leadova ili sopstvena kampanja: koliko stvarno košta kupac u Srbiji 2026',
     excerpt: 'Kupljen lead od 900 dinara deluje jeftinije od sopstvene kampanje. Kad uračunate deljenje sa konkurencijom i vreme prodaje, kupac često ispadne najskuplji.',

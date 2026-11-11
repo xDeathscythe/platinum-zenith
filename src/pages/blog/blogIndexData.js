@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "lazni-klikovi-google-ads-konkurencija-nevazeci-klikovi-lazni-upiti-srbija-2026",
+    "title": "Lažni klikovi u Google Ads: da li vam konkurencija stvarno troši budžet u Srbiji 2026",
+    "excerpt": "Sumnjate da konkurencija klikće na vaše Google oglase? Evo šta Google sam filtrira pre naplate, gde to vidite u nalogu i zašto lažni upiti koštaju više.",
+    "date": "2026-11-11",
+    "category": "Google Ads",
+    "readTime": "9 min read",
+    "isDraft": false
+  },
+  {
     "slug": "kupovina-leadova-ili-sopstvena-kampanja-cena-kupca-srbija-2026",
     "title": "Kupovina leadova ili sopstvena kampanja: koliko stvarno košta kupac u Srbiji 2026",
     "excerpt": "Kupljen lead od 900 dinara deluje jeftinije od sopstvene kampanje. Kad uračunate deljenje sa konkurencijom i vreme prodaje, kupac često ispadne najskuplji.",
