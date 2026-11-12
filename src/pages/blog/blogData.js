@@ -1,5 +1,146 @@
 const rawBlogPosts = [
   {
+    slug: 'besplatan-izlazak-na-teren-procena-merenje-prodajni-proces-srbija-2026',
+    title: 'Besplatan izlazak na teren: kada jede profit i kako ga pretvoriti u prodaju u Srbiji 2026',
+    excerpt: 'Besplatno merenje i procena na licu mesta često koštaju više od oglasa. Evo kako da izračunate cenu izlaska, filtrirate upite pre zakazivanja i merite ishod.',
+    date: '2026-11-12',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Prodajni proces', 'Izlazak na teren', 'Konverzije', 'Lead Generation', 'Google Ads', 'Uslužne firme'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Najskuplji korak koji niko ne broji
+
+Firme koje prodaju PVC stolariju, tende, ograde, toplotne pumpe ili renoviranje kupatila skoro uvek nude isto: "besplatno merenje" ili "besplatna procena na licu mesta". Zvuči kao dobar mamac za upit. Problem je što posle tog mamca neko sedne u kombi.
+
+U Google Ads nalogu vidite cenu upita. U knjigovodstvu vidite gorivo. Ono što ne vidi nijedan izveštaj je koliko vas košta izlazak kod čoveka koji je samo hteo da zna okvirnu cenu, pa je naručio od nekog drugog.
+
+Ovaj tekst je za vlasnike uslužnih firmi kod kojih ponuda zavisi od toga da neko dođe, izmeri i pogleda. Proći ćemo koliko jedan izlazak stvarno košta, kako da filtrirate upite pre zakazivanja, kada izlazak treba naplatiti i kako da Google Ads prestane da vam dovodi ljude koji žele samo besplatnu posetu.
+
+## Koliko stvarno košta jedan izlazak
+
+Uzmimo izmišljen, ali tipičan primer. Brojeve zamenite svojim.
+
+- Procenitelj potroši sat vremena na put, 45 minuta na licu mesta i još 45 minuta da sastavi ponudu. To je 2,5 sata.
+- Ako njegov sat računate 2.000 dinara, rad je 5.000 dinara.
+- Za 40 pređenih kilometara po 25 dinara gorivo i habanje vozila izlaze 1.000 dinara.
+
+Jedan izlazak košta 6.000 dinara, a niko ga ne knjiži kao trošak marketinga.
+
+Sada mesec. Kampanja donese 60 upita po 3.000 dinara, ukupno 180.000 dinara za oglase. Firma izađe na teren kod 40 ljudi i dobije 8 poslova.
+
+- Izlasci: 40 puta 6.000 je 240.000 dinara.
+- Po dobijenom poslu to je 30.000 dinara za izlaske i 22.500 za oglase.
+- Ukupno 52.500 dinara po poslu, od čega je više od pola otišlo na teren, a ne na Google.
+
+> Kod firmi koje nude besplatnu procenu, izlasci često koštaju više od oglasa. Vlasnik i dalje gleda samo cenu klika.
+
+Postoji i trošak koji se ne vidi u ovoj računici. Na teren najčešće ide vlasnik ili najiskusniji majstor. Dan koji je proveo u merenju za ljude koji neće kupiti je dan kad nije bio na gradilištu. Ako ste već računali [trošak prodaje po kupcu](/blog/trosak-prodaje-marketing-roi-lead-generation-srbija-2026), izlazak spada tamo, i to kao najveća stavka.
+
+## Ko se javlja za besplatnu procenu
+
+Besplatna poseta skida svaki trošak sa reči "dođite". Zato je traže i oni kojima ništa ne fali, i oni koji su tek na početku razmišljanja.
+
+- Ljudi koji skupljaju tri ili četiri ponude da bi izabrali najjeftiniju. Vi im izmerite, a oni vašu ponudu odnesu konkurentu da je spusti.
+- Ljudi bez budžeta, koji žele da znaju "koliko bi to otprilike bilo" za posao planiran za sledeću godinu.
+- Stanari ili članovi porodice koji ne odlučuju. Vlasnik stana ili supružnik koji plaća nije tu kada dođete.
+- Ljudi van zone u kojoj zarađujete, jer je u oglasu pisalo "cela Srbija".
+
+Ništa od ovoga nije zla namera. Samo vi plaćate njihovo istraživanje tržišta.
+
+## Filter pre zakazivanja
+
+Pre nego što se dogovori termin, upit treba da prođe kroz nekoliko pitanja. Može ih postaviti forma, može ih postaviti osoba koja se javlja na telefon. Bitno je da se postave pre kalendara, a ne na licu mesta.
+
+- Gde je objekat? Ako je van zone, recite odmah koliko košta dolazak.
+- Šta tačno treba i koje su okvirne mere? Zamolite za dve ili tri fotografije preko WhatsApp-a ili mejla.
+- Kada želite da posao bude gotov? "Nekad dogodine" je drugačiji upit od "pre zime".
+- Da li vam odgovara cenovni okvir? Recite ga naglas: "Ovakvi poslovi kod nas su najčešće između 180.000 i 260.000 dinara. Da li je to u vašem okviru?"
+- Ko donosi odluku i može li ta osoba da bude prisutna kada dođemo?
+
+Pitanje o okviru cene odradi najveći deo posla. Ko se ne javi posle tog odgovora, retko bi kupio i posle merenja. Kako da se ova pitanja ugrade u formu, a da je ljudi i dalje popunjavaju, opisano je u tekstu o [kvalifikaciji kroz kontakt formu](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026). Ako želite kratak spisak podataka koje prodaja mora da ima pre ponude, pogledajte [prodajni brief pre ponude](/blog/prodajni-brief-pre-ponude-leadovi-srbija-2026).
+
+Fotografije imaju još jednu korist. Kod dela upita okvirnu ponudu možete dati bez izlaska, a na teren idete samo kod onih koji su taj okvir prihvatili.
+
+### Isti primer, sa filterom
+
+Kampanja i dalje donosi 60 upita po 3.000 dinara. Filter propusti 22, firma kod njih izađe i dobije 7 poslova, jedan manje nego ranije.
+
+- Izlasci: 22 puta 6.000 je 132.000 dinara, odnosno 18.857 po poslu.
+- Oglasi po poslu: 180.000 podeljeno sa 7 je 25.714 dinara.
+- Ukupno 44.571 dinar po poslu umesto 52.500.
+
+Cena oglasa po poslu je porasla, ukupan trošak po poslu je pao za skoro 8.000 dinara. Uz to je oslobođeno 18 izlazaka, odnosno 45 sati vlasnika ili majstora mesečno. To je vreme za posao koji je već prodat.
+
+## Da li izlazak naplatiti
+
+Ovde vlasnici najčešće beže od odluke jer "svi ostali nude besplatno". Moj stav: za skuplje poslove, gde kupci skupljaju ponude, izlazak treba naplatiti i tu sumu odbiti od cene ako klijent prihvati ponudu.
+
+Primer: izlazak košta 3.000 dinara, a ako ponudu prihvatite u roku od 15 dana, tih 3.000 se oduzima od računa. Ozbiljan kupac ne gubi ništa. Onaj ko skuplja ponude da bi pritisnuo drugog izvođača sada mora da plati za to, i tu većina takvih odustane pre zakazivanja.
+
+Plaćen izlazak ima smisla kada:
+
+- je posao dovoljno vredan da se 3.000 dinara izgubi u ukupnoj ceni;
+- vaš procenitelj zaista radi stručan posao na licu mesta, a ne samo meri metrom;
+- na sajtu i u razgovoru jasno piše da se iznos odbija od cene posla.
+
+Besplatno može da ostane kod jeftinih i brzih poslova, gde je izlazak kraći od pola sata i u istom kraju. Ali i tada samo posle filtera. Česta srednja varijanta je besplatan izlazak u vašoj zoni i naplata puta van nje.
+
+## Izlazak je prodajni sastanak
+
+Mnoge firme izlazak doživljavaju kao merenje, pa ponudu pošalju za nedelju dana. Za tih nedelju dana kupac dobije još dve ponude i često prvu koja stigne pamti kao najozbiljniju.
+
+Ne odlazite sa terena dok nisu dogovorene tri stvari:
+
+- okvir cene izgovoren naglas, pre zvanične ponude;
+- datum kada ponuda stiže, najbolje isti dan ili sledeći;
+- termin kada se čujete oko odluke.
+
+Ako ponuda ima rok, napišite ga. Zašto rok važenja smanjuje broj ponuda koje vise nedeljama pročitajte u tekstu o [roku važenja ponude](/blog/rok-vazenja-ponude-leadovi-prodaja-srbija-2026). Šta ponuda treba da sadrži da ne bi završila kao PDF koji niko ne otvori, opisano je u tekstu o [ponudi posle upita](/blog/ponuda-posle-upita-leadovi-prodaja-srbija-2026).
+
+## Šta da beležite posle svakog izlaska
+
+Za svaki upit koji je dobio termin, u CRM ili tabelu upišite:
+
+- da li je izlazak zakazan i da li je obavljen;
+- datum slanja ponude i iznos;
+- da li je ponuda prihvaćena i za koji iznos;
+- razlog odbijanja, jednom rečju: cena, rok, odustali, izabrali drugog;
+- izvor upita i kampanju, uz GCLID ako je upit došao iz Google Ads.
+
+Posle mesec dana imate četiri broja koja niko drugi ne može da vam da: procenat upita koji dobiju izlazak, procenat izlazaka posle kojih ode ponuda, procenat prihvaćenih ponuda i trošak izlazaka po dobijenom poslu. Ako je trošak izlazaka po poslu veći od troška oglasa po poslu, problem je filter, a ne kampanja.
+
+Isti princip važi kada računate [cenu kupca, a ne samo cenu upita](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026).
+
+## Kako da Google Ads nauči razliku
+
+Ako Google Ads kao uspeh broji svaku poslatu formu, automatsko licitiranje uči da vam dovodi ljude koji najlakše popune formu. Kod besplatne procene to su upravo oni koji žele besplatnu posetu.
+
+Rešenje je da Google-u vratite podatak šta se desilo posle forme. Google to zove uvoz oflajn konverzija. U [uputstvu za oflajn konverzije preko GCLID-a](https://support.google.com/google-ads/answer/7012522?hl=sr) Google traži da svaka forma ima skriveno polje za GCLID, da se taj identifikator čuva uz upit u vašoj evidenciji i da kasnije uvezete ishod, na primer "kvalifikovani potencijalni klijent". U istom uputstvu stoji upozorenje da pogrešno podešena primarna i sekundarna konverzija sprečava automatsko licitiranje da radi kako treba. Za one koji tek kreću, [Google preporučuje poboljšane konverzije za potencijalne klijente](https://support.google.com/google-ads/answer/2998031?hl=sr), nadograđenu verziju istog uvoza koja koristi i heširane podatke iz forme, poput mejla.
+
+Za firmu sa izlascima na teren, praktičan redosled izgleda ovako:
+
+- Poslata forma ostaje sekundarna konverzija, za praćenje.
+- Obavljen izlazak koji je prošao filter postaje primarna konverzija, jer se dešava dovoljno često da kampanja ima od čega da uči.
+- Prihvaćena ponuda, sa iznosom, ide kao vrednost kada se skupi dovoljno takvih događaja.
+
+Ako mesečno imate tek nekoliko prihvaćenih poslova, nemojte samo njih slati kao primarni cilj. Taj signal je redak. Obavljen izlazak je češći i i dalje mnogo bliži novcu od forme. Detaljnije o tome koji signal izabrati piše u tekstu o [kvalifikovanim konverzijama u Google Ads](/blog/kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026).
+
+Ako radite u nekoj od ovih delatnosti, pogledajte i vodiče za [PVC stolariju](/blog/google-ads-za-pvc-stolariju-cena-upita-srbija-2026), [tende i pergole](/blog/google-ads-za-tende-i-pergole-cena-upita-srbija-2026) i [toplotne pumpe](/blog/google-ads-za-toplotne-pumpe-i-grejanje-cena-upita-srbija-2026). U sva tri posla izlazak na teren odlučuje o profitu.
+
+## Kako Platinum Zenith može da pomogne
+
+Ako vaši majstori više voze nego što rade, pogledaćemo ceo put od oglasa do potpisane ponude: koja pitanja forma postavlja, ko zakazuje izlazak, šta se meri posle njega i šta Google Ads zapravo uči. Okvir troškova kampanje imate na strani [cena Google reklama](/google-reklame-cena), a ostale usluge i cene na strani [cene digitalnog marketinga](/cene-digitalnog-marketinga). Kako vodimo kampanje opisano je na strani [Google Ads agencija](/google-ads-agencija).
+
+Javite se preko [kontakt strane](/kontakt) i pošaljite koliko izlazaka mesečno imate i koliko poslova iz njih dobijete.
+
+`,
+  },
+  {
     slug: 'lazni-klikovi-google-ads-konkurencija-nevazeci-klikovi-lazni-upiti-srbija-2026',
     title: 'Lažni klikovi u Google Ads: da li vam konkurencija stvarno troši budžet u Srbiji 2026',
     excerpt: 'Sumnjate da konkurencija klikće na vaše Google oglase? Evo šta Google sam filtrira pre naplate, gde to vidite u nalogu i zašto lažni upiti koštaju više.',

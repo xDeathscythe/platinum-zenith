@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "besplatan-izlazak-na-teren-procena-merenje-prodajni-proces-srbija-2026",
+    "title": "Besplatan izlazak na teren: kada jede profit i kako ga pretvoriti u prodaju u Srbiji 2026",
+    "excerpt": "Besplatno merenje i procena na licu mesta često koštaju više od oglasa. Evo kako da izračunate cenu izlaska, filtrirate upite pre zakazivanja i merite ishod.",
+    "date": "2026-11-12",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "lazni-klikovi-google-ads-konkurencija-nevazeci-klikovi-lazni-upiti-srbija-2026",
     "title": "Lažni klikovi u Google Ads: da li vam konkurencija stvarno troši budžet u Srbiji 2026",
     "excerpt": "Sumnjate da konkurencija klikće na vaše Google oglase? Evo šta Google sam filtrira pre naplate, gde to vidite u nalogu i zašto lažni upiti koštaju više.",
