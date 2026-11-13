@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-servis-kotlova-cena-poziva-grejna-sezona-srbija-2026",
+    "title": "Google Ads za servis kotlova u Srbiji 2026: koliko sme da košta poziv u grejnoj sezoni",
+    "excerpt": "Hitna popravka, godišnji servis i zamena kotla nose različit profit. Kako odrediti cenu poziva, uskladiti budžet sa serviserima i odvojiti prave kupce.",
+    "date": "2026-11-13",
+    "category": "Google Ads",
+    "readTime": "9 min read",
+    "isDraft": false
+  },
+  {
     "slug": "besplatan-izlazak-na-teren-procena-merenje-prodajni-proces-srbija-2026",
     "title": "Besplatan izlazak na teren: kada jede profit i kako ga pretvoriti u prodaju u Srbiji 2026",
     "excerpt": "Besplatno merenje i procena na licu mesta često koštaju više od oglasa. Evo kako da izračunate cenu izlaska, filtrirate upite pre zakazivanja i merite ishod.",

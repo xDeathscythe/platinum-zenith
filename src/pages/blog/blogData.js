@@ -1,5 +1,142 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-servis-kotlova-cena-poziva-grejna-sezona-srbija-2026',
+    title: 'Google Ads za servis kotlova u Srbiji 2026: koliko sme da košta poziv u grejnoj sezoni',
+    excerpt: 'Hitna popravka, godišnji servis i zamena kotla nose različit profit. Kako odrediti cenu poziva, uskladiti budžet sa serviserima i odvojiti prave kupce.',
+    date: '2026-11-13',
+    readTime: '9 min read',
+    category: 'Google Ads',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Servis kotlova', 'Grejanje', 'Cena poziva', 'Negativne ključne reči', 'Lokalne usluge'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## U novembru telefon zvoni iz dva razloga
+
+Servis kotlova u grejnoj sezoni dobija dve vrste poziva. Prvi zove čovek kome je kotao stao u sedam ujutru, kuća je hladna i nema tople vode. On ne poredi pet servisa. Zove prvi broj koji se javi i pita kada možete da dođete. Drugi zove neko ko je pročitao da kotao treba servisirati jednom godišnje i hoće termin sledeće nedelje, po mogućstvu jeftino.
+
+U Google Ads nalogu oba poziva izgledaju isto: klik, poziv duži od minut, konverzija. U svesci servisera ne liče jedan na drugi. Popravka nosi deo, hitnost i veću cenu. Godišnji servis nosi manju zaradu, ali i klijenta koji se vraća svake jeseni ako ga podsetite.
+
+Ovaj tekst je za vlasnike servisa za gasne i električne kotlove koji plaćaju oglase ili razmišljaju o tome. Proći ćemo koliko poziv sme da košta po vrsti posla, zašto je broj servisera pravi limit budžeta, kako podeliti kampanje i šta isključiti da ne biste plaćali pretrage ljudi koji traže posao ili uputstvo.
+
+## Tri vrste posla, tri različite cene poziva
+
+Kod servisa kotlova većina upita spada u jednu od ovih grupa:
+
+- hitna popravka, kada kotao ne radi, gasi se ili javlja grešku;
+- redovan godišnji servis, čišćenje i provera pre ili tokom sezone;
+- zamena starog kotla novim, sa ugradnjom.
+
+Postoji i četvrta, nezgodna grupa: ljudi koji u pretragu ukucaju šifru greške sa displeja. Na nju se vraćamo kod negativnih ključnih reči.
+
+Ako sve tri grupe vode u istu kampanju sa istim budžetom i istom konverzijom, Google ne zna koja je vama vrednija. Automatsko licitiranje će tražiti pozive koji se najlakše dobijaju. U novembru to su često pitanja o ceni servisa, a ne popravke koje nose zaradu.
+
+## Koliko sme da košta poziv: računica
+
+Uzmimo izmišljen primer firme sa dva servisera. Brojeve zamenite svojim, logika ostaje ista.
+
+- Godišnji servis gasnog kotla naplaćuje se 6.500 dinara. Vreme servisera, put i potrošni materijal koštaju oko 3.000. Bruto profit je 3.500 dinara.
+- Prosečna popravka, sa izlaskom, radom i delom, je 14.000 dinara. Deo, vreme i put koštaju 8.500. Bruto profit je 5.500 dinara.
+- Zamena kotla sa ugradnjom je 160.000 dinara, a bruto profit 32.000 dinara.
+
+Sada pretpostavka koju svaki vlasnik treba da donese sam: koliki deo bruto profita prvog posla sme da ode na dovođenje klijenta. U primeru je to 40 odsto. Druga pretpostavka je koliko kvalifikovanih poziva završi obavljenim poslom. Neka je to 70 odsto za servis, 60 odsto za popravku i 20 odsto za zamenu, jer kod zamene ljudi traže više ponuda.
+
+Maksimalna cena kvalifikovanog poziva je bruto profit puta dozvoljeni udeo puta procenat zatvaranja:
+
+- godišnji servis: 3.500 × 0,4 × 0,7 = 980 dinara;
+- popravka: 5.500 × 0,4 × 0,6 = 1.320 dinara;
+- zamena kotla: 32.000 × 0,4 × 0,2 = 2.560 dinara.
+
+Razlika je skoro trostruka. Ako sve vodite kao jedan "servis kotlova" sa jednom prosečnom cenom poziva, ili ćete preplaćivati pozive za servis ili ćete gubiti aukcije za zamene koje nose najveću zaradu. Opšti postupak za ovakvu računicu opisan je u tekstu o [maksimalnoj ceni po leadu](/blog/maksimalna-cena-leada-srbija-2026).
+
+## Podsetnik za sledeću jesen menja računicu
+
+Klijent kome ste ove godine servisirali kotao ima razlog da vas zove i sledeće godine. Većina servisa to ne iskoristi. Nema spiska, nema poruke u septembru, i klijent iduće jeseni ponovo gugla "servis kotla" i klikne na konkurenta.
+
+Ako se na podsetnik vrati šest od deset klijenata, bruto profit jednog klijenta za dve godine nije 3.500 nego 5.600 dinara. Sa istim pravilima, maksimalna cena poziva za godišnji servis raste sa 980 na 1.568 dinara, za 60 odsto. Isti oglas postaje isplativiji samo zato što vodite spisak i pošaljete jednu poruku godišnje.
+
+To je najjeftiniji marketing koji servis kotlova može da ima. Kako se zarađuje na klijentima koje već imate, bez dodatnog oglašavanja, opisano je u tekstu o [dodatnoj prodaji postojećim klijentima](/blog/dodatna-prodaja-postojecim-klijentima-upsell-leadovi-srbija-2026).
+
+## Serviseri su pravi limit budžeta
+
+U novembru servis kotlova retko ima problem sa brojem poziva. Ima problem sa brojem ruku. Oglas koji dovodi pozive koje niko ne stigne da obradi ne donosi posao. Donosi ljude koje ste pustili da čekaju pet dana i koji su u međuvremenu našli drugog.
+
+Zato budžet računajte od slobodnih termina, ne od želje za rastom:
+
+- dva servisera, po pet intervencija dnevno, 22 radna dana daju 220 termina mesečno;
+- ako stalni klijenti i preporuke zauzimaju 150, za kampanju ostaje 70 termina;
+- ako tih 70 popunite popravkama, uz 60 odsto zatvaranja treba vam oko 117 kvalifikovanih poziva, što je pri 1.320 dinara gornja granica od oko 154.000 dinara mesečno;
+- ako je mešavina 45 popravki i 25 servisa, treba vam oko 111 poziva i najviše oko 134.000 dinara.
+
+Iznad te granice ne kupujete posao, nego listu čekanja. Kada se raspored popuni, smanjite budžet ili pauzirajte grupu za godišnje servise, a popravke ostavite. Isti princip za prodajne timove objašnjen je u tekstu o [kapacitetu prodaje i marketing budžetu](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026).
+
+Jedna praktična stvar: grupišite intervencije po zonama. Serviser koji ima pet adresa u istom delu grada stigne više od onog koji prelazi grad tri puta dnevno. Ciljanje po radijusu oko baze, koje Google opisuje u [uputstvu za geografsko ciljanje](https://support.google.com/google-ads/answer/1722043?hl=sr), drži pozive u zoni gde put ne pojede zaradu.
+
+## Kako podeliti kampanje
+
+Za servis sa dva do pet servisera, ova podela je dovoljna:
+
+- **Hitne popravke.** Pretrage tipa "kotao ne radi", "popravka kotla", "serviser za kotao hitno". Oglas sa brojem telefona, prikazivanje samo kada se neko javlja. Ovde je poziv konverzija, a forma skoro nebitna.
+- **Godišnji servis.** "Servis gasnog kotla", "čišćenje kotla", "redovan servis kotla". Ovde može forma ili zakazivanje, a cena servisa sme da stoji na strani. Ko vidi cenu pre poziva, zove spreman.
+- **Zamena kotla.** Posebna landing strana sa pitanjima o kvadraturi, vrsti grejanja i postojećem kotlu. Ova grupa ima duži ciklus i liči više na prodaju opreme. Šta se dešava kada klijent poredi kotao sa toplotnom pumpom, opisano je u tekstu o [Google Ads za toplotne pumpe i grejanje](/blog/google-ads-za-toplotne-pumpe-i-grejanje-cena-upita-srbija-2026).
+
+Ako servisirate samo određene brendove, napravite posebne grupe oglasa za njih. Pretraga "servis [brend] kotla" je jasnija od opšte i obično se lakše zatvara.
+
+## Brend u oglasu i reč "ovlašćeni"
+
+Ovde je lako napraviti grešku koja košta više od lošeg klika.
+
+Google u [pravilima o žigovima](https://support.google.com/adspolicy/answer/6118?hl=sr) navodi da korišćenje tuđeg žiga kao ključne reči ne ograničava. Ograničenje može doći ako vlasnik žiga podnese prigovor, i to se odnosi na žig u tekstu oglasa. Dakle, ključna reč sa imenom brenda je u redu. Naslov sa imenom brenda obično prolazi dok vlasnik žiga ne podnese prigovor, a i tada Google posebno razmatra strane koje jasno nude usluge ili delove za taj proizvod i ne predstavljaju se kao proizvođač.
+
+Reč "ovlašćeni" je druga priča. [Pravila o lažnom predstavljanju](https://support.google.com/adspolicy/answer/6020955?hl=sr) ne dozvoljavaju da oglas stvara utisak podrške drugog brenda ili organizacije kada je nema. Ako niste ovlašćeni servis za taj brend, ne pišite to. Rizikujete odbijen oglas, a kupac koji posle sazna da niste ovlašćeni ne veruje ni ostatku ponude.
+
+Ako jeste ovlašćeni, recite to glasno i stavite dokaz na stranu. To je jedna od najjačih stvari koje servis može da kaže.
+
+## Negativne ključne reči i padeži
+
+Kod servisa kotlova novac najčešće curi na četiri mesta:
+
+- ljudi koji traže posao: "serviser kotlova posao", "oglas za servisera", "kurs za servisera";
+- uputstva i samostalna popravka: "uputstvo pdf", "kako resetovati kotao", "kako očistiti kotao sam";
+- kupovina delova i polovnih kotlova, ako ih ne prodajete;
+- vrste kotlova koje ne radite, na primer na drva, ugalj ili pelet.
+
+Google u [pravilima za negativne ključne reči](https://support.google.com/google-ads/answer/2453972?hl=sr) kaže da negativne reči ne hvataju bliske varijante. Sinonime i jedninu i množinu morate dodati sami. Na srpskom to znači padeže: kotao, kotla, kotlu, kotlovi, kotlova. Ako isključite samo "kotao na drva", pretraga "servis kotla na drva" i dalje može da prođe. O tome kako tipovi podudaranja rade sa srpskim padežima pisali smo u tekstu o [tipovima podudaranja ključnih reči](/blog/tipovi-podudaranja-kljucnih-reci-google-ads-lead-generation-srbija-2026).
+
+Sada šifre grešaka. Nemojte ih slepo isključiti. Čovek koji ukuca šifru sa displeja svog kotla pokušava da reši problem sam, ali je udaljen jedan neuspeli reset od toga da pozove servis. Stavite te pretrage u posebnu grupu sa malim budžetom i oglasom koji kaže otprilike: ako reset ne pomaže, dolazimo danas. Posle mesec dana iz izveštaja o pretragama vidite da li ta grupa donosi popravke ili samo klikove.
+
+## Raspored oglasa i pozivi koje niko ne javlja
+
+Oglas za hitnu popravku koji se prikazuje u ponoć, kada se niko ne javlja, plaća klik za ljutog čoveka koji će pozvati konkurenta.
+
+Google u [uputstvu za pozivne elemente](https://support.google.com/google-ads/answer/2453991?hl=sr) navodi da broj možete prikazivati samo kada firma prima pozive. [Raspored oglasa](https://support.google.com/google-ads/answer/2404244?hl=sr) radi isto za celu kampanju. Pazite na jedan detalj iz istog uputstva: kada koristite raspored, kampanja se troši prema mesečnom iznosu od 30,4 puta prosečan dnevni budžet. Kraći raspored ne smanjuje mesečni trošak sam od sebe.
+
+Ako imate dežurstvo vikendom ili uveče, uključite te sate i napišite to u oglasu. Ako nemate, ne plaćajte prikazivanje tada. Šta se dešava sa pozivima koji ostanu bez odgovora i kako ih meriti, opisano je u tekstu o [propuštenim pozivima iz kampanja](/blog/propusteni-pozivi-iz-kampanja-leadovi-prodaja-srbija-2026).
+
+## Šta upisati posle svakog poziva
+
+Bez evidencije ne znate koja grupa oglasa donosi popravke, a koja pitanja o ceni. Posle svakog poziva iz kampanje upišite:
+
+- vrstu upita: hitna popravka, godišnji servis ili zamena;
+- vrstu i brend kotla, i šifru greške ako je klijent pomene;
+- zonu ili deo grada;
+- da li je zakazan termin i da li je obavljen;
+- iznos naplate;
+- datum za podsetnik sledeće sezone.
+
+Posle mesec dana imate pravu cenu obavljenog posla po kampanji. Kada imate dovoljno obavljenih poslova, vratite ih u Google Ads kao glavnu konverziju umesto samog poziva. Kako se to podešava objašnjeno je u tekstu o [kvalifikovanim konverzijama](/blog/kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026).
+
+## Ukratko za vlasnika servisa
+
+Servis kotlova ne treba da se takmiči za najjeftiniji poziv. Treba da plati onoliko koliko vrsta posla dozvoljava, da ne kupuje više poziva nego što serviseri mogu da obiđu i da klijente iz ove sezone sačuva za sledeću.
+
+Ako vodite servis kotlova, grejanja ili sličnu terensku uslugu i želite da kampanja prati vaše termine i maržu, pogledajte kako radimo [Google Ads kampanje](/google-ads-agencija), koliko [koštaju Google reklame](/google-reklame-cena) i [cene digitalnog marketinga](/cene-digitalnog-marketinga). Kada budete spremni, [pošaljite nam upit](/kontakt) sa brojem servisera i gradovima koje pokrivate, pa ćemo vam reći gde kampanja trenutno gubi pozive.
+
+`,
+  },
+  {
     slug: 'besplatan-izlazak-na-teren-procena-merenje-prodajni-proces-srbija-2026',
     title: 'Besplatan izlazak na teren: kada jede profit i kako ga pretvoriti u prodaju u Srbiji 2026',
     excerpt: 'Besplatno merenje i procena na licu mesta često koštaju više od oglasa. Evo kako da izračunate cenu izlaska, filtrirate upite pre zakazivanja i merite ishod.',
