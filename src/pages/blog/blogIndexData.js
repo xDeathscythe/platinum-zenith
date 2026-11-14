@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "ton-brenda-instagram-dm-sajt-woocommerce-niwa-ai-manychat-2026",
+    "title": "Ton brenda u Instagram DM-u i na sajtu: Niwa AI vs ManyChat za WooCommerce",
+    "excerpt": "Kupac u DM-u dobije jedan ton i jedan popust, a na sajtu drugi. Kako Niwa AI i ManyChat čuvaju glas brenda od komentara do WooCommerce korpe.",
+    "date": "2026-11-14",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "budzet-google-ads-praznici-decembar-januar-raspored-oglasa-srbija-2026",
     "title": "Budžet za Google Ads preko praznika u Srbiji 2026: kako ne plaćati klikove dok firma ne radi",
     "excerpt": "Od juna 2026. isključeni dani u rasporedu oglasa više ne smanjuju mesečni trošak. Kako da preko praznika zaista smanjite budžet, a ne samo pomerite potrošnju.",

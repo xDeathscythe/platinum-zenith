@@ -1,5 +1,117 @@
 const rawBlogPosts = [
   {
+    slug: 'ton-brenda-instagram-dm-sajt-woocommerce-niwa-ai-manychat-2026',
+    title: 'Ton brenda u Instagram DM-u i na sajtu: Niwa AI vs ManyChat za WooCommerce',
+    excerpt: 'Kupac u DM-u dobije jedan ton i jedan popust, a na sajtu drugi. Kako Niwa AI i ManyChat čuvaju glas brenda od komentara do WooCommerce korpe.',
+    date: '2026-11-14',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Niwa AI', 'ManyChat', 'WooCommerce', 'Ton brenda', 'Instagram DM', 'WhatsApp'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+Uzmimo prodavnicu prirodne kozmetike na WooCommerce-u. Na Instagramu se kupcima obraća na "ti", piše kratko i toplo. Ispod jednog Reels-a neko pita: "ima li neki popust?". Automatski DM, koji je agencija podesila prošlog proleća, odgovara sa tri emotikona i kodom LETO15. Kod je istekao u septembru. Kupac klikne na link, stigne na sajt i tamo ga dočeka chat koji mu persira i kaže da trenutno nema akcija. Na kraju pošalje mejl i dobije treći odgovor, od čoveka iz podrške, koji nudi besplatnu dostavu.
+
+Ovo je izmišljen primer, ali takvu situaciju vlasnik prodavnice prepozna odmah. Kupac je za deset minuta razgovarao sa tri različite firme. Nijedna ništa nije prodala, a treća je dala ustupak koji niko nije planirao.
+
+Problem ovde nije u fontu ni u logu. Ton brenda puca na mestu gde se razgovor seli iz jednog alata u drugi. U ovom tekstu poredimo kako to rešavaju ManyChat i Niwa AI kada se prodaja završava u WooCommerce korpi.
+
+## Ton brenda je skup pravila, pridev nije dovoljan
+
+Kad se tim dogovara oko tona, obično zapiše nešto kao "prijateljski, stručno, bez pritiska". To je početak, ali kupac ton ne doživljava kroz prideve. Doživljava ga kroz odluke:
+
+- da li mu se obraćate na "ti" ili na "vi";
+- da li dobija popust kad ga traži ili tek kad ispuni uslov;
+- šta mu se obećava za rok isporuke;
+- kada razgovor preuzima čovek i kako se to najavi.
+
+Ako ta pravila postoje samo u glavi vlasnika ili u PDF-u brend priručnika, svaki alat ih tumači na svoj način. O tome zašto je identitet širi od vizuelnog dela pisali smo u tekstu [brending za male firme](/blog/brending-za-male-firme-identitet-vazniji-od-loga). Ovde nas zanima praktična posledica: gde u sistemu ta pravila stvarno žive i ko ih poštuje.
+
+## Šta ManyChat danas nudi za ton
+
+ManyChat je ovde napredovao i to treba reći pošteno. U aprilu 2026. dobio je [AI Behavior](https://help.manychat.com/hc/en-us/articles/26782002914332-Manychat-AI-Behavior), odeljak sa tri polja: AI Role, Brand Voice & Persona i Guardrails & Constraints. Kada ga prvi put uključite, ManyChat pročita bio vašeg Instagram profila i skorašnje komentare i predloži početni tekst za sva tri polja. Pored toga postoji [AI Knowledge](https://help.manychat.com/hc/en-us/articles/25626595060124-Manychat-AI-Knowledge), u koji unosite tekst i javne linkove sa kojih AI uči o firmi.
+
+Za kreatora koji prodaje kurs kroz Instagram DM, to je solidan paket. Ali dokumentacija navodi i ograničenja koja WooCommerce vlasnik mora da zna:
+
+- AI Behavior trenutno radi samo za Instagram kanal i traži plaćeni plan sa Manychat AI funkcijom;
+- Knowledge koristi čitljiv tekst sa stranice, pa podaci zaključani u PDF-u ili slici mogu da ostanu van odgovora;
+- sami pišu da AI nije potpuno determinističan i da guardrails smanjuju, ali ne uklanjaju odgovore van granica.
+
+Najvažnije je nešto što dokumentacija ni ne pokušava da pokrije. ManyChat podešava kako njegov AI piše u Instagram razgovoru. Kad kupac klikne na link i stigne u prodavnicu, on je u drugom sistemu, sa drugim tekstom, drugim chatom i drugim pravilima o popustu. Ton koji ste pažljivo podesili u ManyChat-u ostaje na vratima vašeg sajta.
+
+## Kako Niwa drži jedan glas na sajtu i u porukama
+
+Niwa AI je plugin koji radi u vašem WordPress-u. Pravila za razgovor sa kupcima unosite na jednom mestu, u stranici Frontend Agent Rules. Tamo su odvojena polja za ton i stil, DO/DON'T pravila, pravila za kupone, pravila za pakete i dodatnu prodaju, uslove za prebacivanje na čoveka, radno vreme podrške i dodatna uputstva. Posebno stoje podaci o firmi: opis, proizvodi i usluge, FAQ i politike.
+
+Te dve grupe Niwa ne meša. Ton, kuponi, paketi i prebacivanje na čoveka ulaze u odgovor kao obavezne direktive vlasnika, sa najvišim prioritetom. Ako se sudare sa opštim uputstvom o stilu ili prodaji, pobeđuje vaše pravilo. Iznad njih ostaju samo bezbednost, privatnost, tačnost činjenica i zakon. Opis firme i FAQ su referenca, ne komanda. Za cenu, stanje i trenutnu politiku Niwa koristi pretragu sajta umesto da pogađa iz opisa.
+
+Ključni deo je ovo: odgovori na Facebook i Instagram porukama i komentarima prolaze kroz isti mehanizam za odgovaranje kao chat na sajtu. Isti ton, isto pravilo za kupone, isti uslov za prebacivanje na čoveka i isto znanje o katalogu prodavnice. Isto važi za automatske odgovore na nove tekstualne poruke preko WhatsApp Cloud veze, s tim što su na novoj vezi odgovori pauzirani dok ih sami ne uključite. Za svaki povezani nalog možete dodati i posebno uputstvo, na primer da na Instagramu odgovori budu kraći. To uputstvo se dodaje na zajednička pravila i ne pravi novu ličnost.
+
+Na sve odgovore kupcima primenjuje se i Niwa humanizer, pravila protiv šablonskog AI teksta: bez crtica kao poštapalice, bez praznih fraza na početku i kraju, sa rečenicama različite dužine. Kupac ne dobija odgovor koji zvuči kao saopštenje.
+
+## Šta Niwa u DM-u namerno ne radi
+
+Isti glas ne znači iste mogućnosti u svakom kanalu, i dobro je da tako bude. U Facebook i Instagram razgovoru Niwa ima samo javne alate za čitanje: pretragu sadržaja i kataloga. Korpa, forme i kalendar su zabranjeni i pri izboru alata i pri izvršavanju. Zato odgovor nikad ne tvrdi da je nešto dodao u korpu ili zakazao termin. Umesto toga šalje pravi link ka proizvodu ili strani.
+
+Ostala pravila kanala su takođe zapisana u kodu:
+
+- odgovor ide na jeziku kupca, do 900 karaktera, kao običan tekst;
+- na početku novog razgovora Niwa se predstavlja kao AI asistent firme;
+- poruka koja sadrži samo sliku ide čoveku na pregled, umesto da AI nagađa šta je na njoj;
+- kad administrator preuzme razgovor iz inboxa, automatika staje dok je ne vrati;
+- ako neko odgovori iz druge aplikacije, automatika se takođe pauzira;
+- na komentar Niwa šalje jedan privatni odgovor, a razgovor se nastavlja tek kad kupac piše u DM.
+
+Ova ograničenja štite ton bolje od bilo kog prideva. Brend koji obeća korpu koja se nije otvorila gubi poverenje brže od brenda koji kaže "evo linka".
+
+## Isti scenario, drugi ishod
+
+Vratimo se na prodavnicu kozmetike. U Niwa-i vlasnik u pravila za kupone upiše: "Popust se ne nudi na pitanje o popustu. Postoji samo besplatna dostava za porudžbine preko 5.000 dinara i 10% za prvu porudžbinu uz prijavu na newsletter." Brojke su iz našeg primera, vi upisujete svoje.
+
+Kupac ispod Reels-a pita za popust. Niwa mu pošalje privatni odgovor u istom tonu kao na profilu. Kaže mu za besplatnu dostavu, pita kakvu kožu ima i šalje link ka kategoriji krema za suvu kožu. Kupac pređe na sajt i u chatu pita koja krema je bolja za zimu. Chat mu se obraća na "ti", kao i u DM-u, ponavlja isti uslov za dostavu i, pošto je na sajtu, može da mu pomogne da proizvod doda u korpu. Ako kupac zatraži razgovor sa čovekom, oba kanala ga upute na isto radno vreme podrške.
+
+Kod koji je istekao se više ne pojavljuje, kao ni drugi popust na mejlu. Kupac je ceo put razgovarao sa jednom firmom.
+
+Šta se posle dešava na sajtu Niwa beleži u Site Analytics: posete, izvor posete i porudžbine po stranama, sa modelom poslednjeg izvora koji nije direktan. Niwa pri tome ne tvrdi da zna koji Instagram profil je napravio koju porudžbinu. Broji browsere, ne ljude. Kako da linkove iz DM-a označite da biste videli koliko vredi Instagram, objasnili smo u tekstu [koji Instagram DM je doneo porudžbinu](/blog/instagram-dm-woocommerce-atribucija-porudzbina-niwa-ai-manychat-2026).
+
+## Kako da napišete pravila za ton
+
+Najveća greška je da se u polje za ton upiše jedna reč. Pišite pravila koja može da proveri neko ko nije vi. Za prodavnicu kozmetike to bi moglo da izgleda ovako:
+
+**Ton i stil:** "Obraćaj se kupcu na ti. Kratke rečenice. Najviše jedan emotikon po poruci. Ne obećavaj efekte proizvoda koji nisu u opisu."
+
+**DO/DON'T:** "Uvek pitaj tip kože pre preporuke kreme. Nikad ne poredi naše proizvode sa drugim brendovima po imenu."
+
+**Prebacivanje na čoveka:** "Alergijska reakcija, reklamacija i porudžbina veća od 30.000 dinara idu čoveku. Najavi da će odgovoriti neko iz tima i navedi radno vreme."
+
+**Uputstvo za Instagram nalog:** "Odgovori do dve rečenice. Ako kupac pita za cenu, pošalji link proizvoda."
+
+Kada su pravila zapisana, uradite kratak test pre nego što uključite odgovore:
+
+- izvucite deset stvarnih pitanja iz inboxa, bez ličnih podataka;
+- postavite ih chatu na sajtu i u DM-u sa test naloga;
+- uporedite odgovore, jer obraćanje, popust i najava čoveka moraju biti isti;
+- gde se razlikuju, popravite pravilo, a ne pojedinačan odgovor.
+
+Ako Niwa preporučuje dodatne proizvode, uz ton proverite i pravila za pakete. Kako ta pravila utiču na veću korpu objasnili smo u tekstu o [Niwa AI cross-sell preporukama](/blog/niwa-ai-cross-sell-woocommerce-povecanje-aov-2026).
+
+## Kada je ManyChat dovoljan, a kada je Niwa bolji izbor
+
+Ako prodajete kurs, konsultacije ili digitalni proizvod i ceo prodajni razgovor se završava u Instagram DM-u, ManyChat sa AI Behavior može da vam bude dovoljan. Tamo nema sajta na kojem bi ton mogao da pukne.
+
+Za WooCommerce prodavnicu računica je drugačija. Kupac ne plaća u DM-u. Plaća na sajtu, u korpi, posle još nekoliko pitanja. Tu Niwa ima prednost koju ManyChat po svojoj dokumentaciji ne pokriva: ista pravila tona, kupona i prebacivanja na čoveka važe u Facebook i Instagram razgovoru i u chatu na sajtu, a odgovori se oslanjaju na katalog vaše prodavnice. Zato za WordPress i WooCommerce vlasnika preporučujemo Niwa-u. Šire poređenje dva alata je u tekstu [Niwa AI vs ManyChat za WordPress i WooCommerce](/blog/niwa-ai-vs-manychat-wordpress-woocommerce-2026).
+
+Ako DM-ovi stižu, a prodaje na sajtu nema, ton često nije jedini problem. Tada vredi pogledati i [zašto web shop nema prodaju](/web-shop-nema-prodaju), kao i kako vodite [društvene mreže](/drustvene-mreze) pre nego što kupac uopšte napiše poruku.
+
+Kako Niwa radi u WordPress-u i WooCommerce-u možete videti na sajtu [niwachat.com](https://niwachat.com/sr/).
+
+Ako želite da pravila tona postavimo za vašu prodavnicu, pošaljite nam kroz [kontakt formu](/kontakt) adresu sajta, link ka Instagram profilu i važeća pravila za popuste i dostavu. Uporedićemo kako vaš brend danas zvuči u komentarima, DM-u i na sajtu i predložiti tekst pravila pre nego što bilo šta uključite.
+`,
+  },
+  {
     slug: 'budzet-google-ads-praznici-decembar-januar-raspored-oglasa-srbija-2026',
     title: 'Budžet za Google Ads preko praznika u Srbiji 2026: kako ne plaćati klikove dok firma ne radi',
     excerpt: 'Od juna 2026. isključeni dani u rasporedu oglasa više ne smanjuju mesečni trošak. Kako da preko praznika zaista smanjite budžet, a ne samo pomerite potrošnju.',
