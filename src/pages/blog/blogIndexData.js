@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "budzet-google-ads-praznici-decembar-januar-raspored-oglasa-srbija-2026",
+    "title": "Budžet za Google Ads preko praznika u Srbiji 2026: kako ne plaćati klikove dok firma ne radi",
+    "excerpt": "Od juna 2026. isključeni dani u rasporedu oglasa više ne smanjuju mesečni trošak. Kako da preko praznika zaista smanjite budžet, a ne samo pomerite potrošnju.",
+    "date": "2026-11-14",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-servis-kotlova-cena-poziva-grejna-sezona-srbija-2026",
     "title": "Google Ads za servis kotlova u Srbiji 2026: koliko sme da košta poziv u grejnoj sezoni",
     "excerpt": "Hitna popravka, godišnji servis i zamena kotla nose različit profit. Kako odrediti cenu poziva, uskladiti budžet sa serviserima i odvojiti prave kupce.",

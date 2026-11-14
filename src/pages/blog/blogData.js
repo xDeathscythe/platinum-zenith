@@ -1,5 +1,116 @@
 const rawBlogPosts = [
   {
+    slug: 'budzet-google-ads-praznici-decembar-januar-raspored-oglasa-srbija-2026',
+    title: 'Budžet za Google Ads preko praznika u Srbiji 2026: kako ne plaćati klikove dok firma ne radi',
+    excerpt: 'Od juna 2026. isključeni dani u rasporedu oglasa više ne smanjuju mesečni trošak. Kako da preko praznika zaista smanjite budžet, a ne samo pomerite potrošnju.',
+    date: '2026-11-14',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Budžet', 'Praznici', 'Raspored oglasa', 'Dnevni budžet', 'ROI'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Između 31. decembra i 8. januara ljudi i dalje pretražuju
+
+Većina uslužnih firmi u Srbiji ima isti praznični ritam. Poslednja ozbiljna radna nedelja je pred Novu godinu, onda sledi pauza, pa Božić, pa pravi početak posla tek posle 7. januara. Zakon o državnim i drugim praznicima to i propisuje: [Nova godina se praznuje 1. i 2. januara, a prvi dan Božića 7. januara](https://www.paragraf.rs/propisi/zakon_o_drzavnim_i_drugim_praznicima_u_republici_srbiji.html), i tih dana privredna društva ne rade, osim onih kojima priroda posla traži neprekidan rad.
+
+Kampanje to ne znaju. Neko u toku praznika traži knjigovođu za sledeću godinu, ponudu za fasadu ili kurs jezika od februara. Klikne na oglas, popuni formu i čeka. Odgovor stiže 8. januara, kada je taj čovek već pričao sa dve druge firme ili je zaboravio da je uopšte pitao.
+
+To je curenje novca koje se ne vidi u nalogu. Klik je naplaćen, konverzija je upisana, CPL u izveštaju izgleda normalno. Prodaja je ta koja posle kaže da su "januarski leadovi bili slabi".
+
+Za kalendar 2026/27: 31. decembar je četvrtak, 1. januar petak, 2. januar subota, 7. januar četvrtak. Prvi radni dan posle Božića je petak, 8. januar.
+
+## Zamka koja važi od juna 2026: isključeni dani ne smanjuju trošak
+
+Prvi refleks je da se u rasporedu oglasa isključe praznični dani i da se stvar tu završi. Do sredine 2026. to je delimično i radilo. Sada ne radi.
+
+Google je [od 1. juna 2026. promenio način na koji dnevni budžet radi sa rasporedom oglasa](https://support.google.com/google-ads/answer/16913225?hl=en). Kada rasporedom isključite cele dane u nedelji ili mesecu, kampanja i dalje cilja potrošnju od 30,4 puta prosečnog dnevnog budžeta za ceo mesec. Na isključene dane se ne prikazuje, ali taj novac prebacuje na dane kada radi, do granice od dvostrukog dnevnog budžeta po danu. Promena se odnosi na isključene dane, ne na isključene sate u okviru dana.
+
+Primer sa izmišljenim brojevima. Firma ima dnevni budžet od 3.000 dinara i želi da u decembru radi od 1. do 23. decembra, a da od 24. do 31. stoji.
+
+- **Kako je mislila da će biti:** 23 dana po 3.000 dinara, ukupno 69.000 dinara.
+- **Kako sada radi:** kampanja cilja 3.000 x 30,4 = 91.200 dinara za decembar. Kada se to rasporedi na 23 aktivna dana, prosek je oko 3.965 dinara dnevno, 32% više nego što je vlasnik planirao.
+- **Razlika:** 22.200 dinara koje niko nije odobrio, potrošenih u istim danima, na skuplje i slabije aukcije.
+
+Google daje i pravilo za proveru. Ako kampanja radi 16 ili više dana u mesecu, gornja granica je dnevni budžet x 30,4. Ako radi 15 dana ili manje, granica je dnevni budžet x 2 x broj aktivnih dana. Vlasnik koji želi 69.000 dinara za 23 dana treba da postavi dnevni budžet od oko 2.270 dinara, ne 3.000.
+
+Ukratko: raspored oglasa određuje kada se oglasi prikazuju. Koliko ćete platiti određuje budžet.
+
+## Kako stvarno smanjiti budžet usred meseca
+
+Kada promenite dnevni budžet u toku meseca, [Google računa novi mesečni limit](https://support.google.com/google-ads/answer/10487143?hl=en) kao već potrošeni iznos plus novi dnevni budžet puta broj preostalih kalendarskih dana, uključujući dan promene. Ne broje se dani kada kampanja radi, nego kalendarski dani.
+
+Isti primer. Kampanja je do 23. decembra potrošila 69.000 dinara. Na dan 24. decembra budžet se spušta na 500 dinara, koliko je dovoljno da brend pretrage i dalje nađu broj telefona. Ostaje osam kalendarskih dana, pa je limit za decembar 69.000 + 500 x 8 = 73.000 dinara. Bez promene budžeta, limit bi bio 91.200. Ušteda je 18.200 dinara, i to tačno na danima kada niko ne odgovara na upite.
+
+Jedan detalj iz [Googleovih pravila o limitima](https://support.google.com/google-ads/answer/10486637?hl=en): na dan kada menjate budžet, dnevni limit se računa prema najvišem budžetu koji je tog dana bio postavljen. Ako budžet spustite ujutru 24. decembra, taj dan i dalje može da potroši do 6.000 dinara. Zato promenu napravite uveče, poslednjeg radnog dana pre pauze.
+
+Ako znate tačan iznos koji hoćete da potrošite u periodu, postoji i [ukupni budžet kampanje](https://support.google.com/google-ads/answer/10486938?hl=en) sa datumom početka i kraja. On se ne prekoračuje i nema dnevni limit, ali radi samo za nove kampanje. Postojećoj kampanji ne možete promeniti tip budžeta.
+
+## Šta ne treba gasiti
+
+Potpuno gašenje svega je druga greška. Neke pretrage su vredne baš zato što stižu kada drugi ćute.
+
+- **Brend kampanja:** ljudi kucaju ime firme da nađu telefon ili radno vreme. Mali budžet je dovoljan, a klik je obično jeftin. O tome kako brend utiče na prosečan CPL pisali smo u tekstu o [brend kampanji i ROI-ju](/blog/brend-kampanja-google-ads-roi-budzet-srbija-2026).
+- **Hitne usluge sa dežurstvom:** kotao koji stane 1. januara je posao koji neko mora da odradi, i to brzo. Za servise koji imaju dežurstvo praznici su vrhunac, ne pauza. Pogledajte primer za [servis kotlova u grejnoj sezoni](/blog/google-ads-za-servis-kotlova-cena-poziva-grejna-sezona-srbija-2026).
+- **Kampanje koje vode na rezervaciju unapred:** kurs od februara, letovanje, termin za proleće. Ovde je pitanje samo da li forma jasno kaže kada stiže odgovor.
+
+Ako ostavljate formu da radi, napišite na strani i u potvrdi posle slanja da odgovarate od 8. januara. Čovek koji zna kada će dobiti odgovor čeka mirnije od onoga koji ne zna. Sve upite iz tog perioda označite u CRM-u, da biste u februaru videli koliko ih je postalo posao.
+
+## Koliko košta pauza koja se ne planira
+
+Opet izmišljen primer, ali sa računicom koju možete ponoviti sa svojim brojevima. Ista firma u normalnom radnom danu plaća klik 60 dinara i dobija 50 klikova za 3.000 dinara. Uz stopu konverzije od 5% to je 2,5 upita dnevno, odnosno 1.200 dinara po upitu.
+
+U praznične dane cena klika ostaje slična, ali pretrage su više istraživačke. Ako stopa konverzije padne na 2%, isti budžet daje jedan upit dnevno, pa upit košta 3.000 dinara. Osam takvih dana je 24.000 dinara i osam upita. Ako 40% tih ljudi ne sačeka do 8. januara, ostaje 4,8 upita, odnosno 5.000 dinara po upitu koji je uopšte stigao do razgovora. To je četiri puta više od normalnog CPL-a, za isti oglas i istu ključnu reč.
+
+Vaši procenti će biti drugačiji. Poenta je da se praznični CPL ne poredi sa novembarskim. Poredi se sa onim što biste uradili sa tim novcem 8. januara, kada prodaja radi punim kapacitetom.
+
+## Prilagođavanje sezonalnosti: korisno, ali za kratke periode
+
+Za kampanje sa ciljnim CPA ili ciljnim ROAS-om Google nudi [prilagođavanje sezonalnosti](https://support.google.com/google-ads/answer/10369906?hl=en). Njime javljate pametnom licitiranju da očekujete promenu stope konverzije u određenim danima. Google pritom kaže dve bitne stvari: alat je za velike promene, jer pametno licitiranje već samo prati sezonske događaje, i najbolje radi za periode od jednog do sedam dana. Za periode duže od 14 dana može da radi lošije.
+
+Za Srbiju to znači:
+
+- smanjenje stope konverzije za 31. decembar, 1. i 2. januar ima smisla, to su tri dana;
+- jedno prilagođavanje od 24. decembra do 8. januara nije pravi alat, jer je period predug; tu radi smanjenje budžeta;
+- posle perioda ne treba praviti obrnuto prilagođavanje, kampanja se sama vraća na staro ponašanje.
+
+Ako kampanja koristi maksimalan broj klikova ili ručni CPC, ovaj alat vam ne treba. Tu budžet i raspored rade posao.
+
+## Decembarski upiti zatvaraju se u januaru
+
+Još jedna stvar kvari decembarske izveštaje. Kod B2B usluga upit iz 18. decembra lako postane ugovor tek krajem januara, kada se firme vrate i kada se odobre budžeti za novu godinu. Ako decembar ocenjujete 31. decembra, izgledaće skupo. Ako ga ocenjujete po poslovima zatvorenim do kraja januara, slika je često drugačija.
+
+Zato decembarsku kampanju ne gasite u panici zbog nedeljnog CPL-a. Pratite koliko je decembarskih upita dobilo ponudu i koliko je ponuda prihvaćeno do kraja januara. Više o tome kako dug prodajni ciklus pomera ROI imate u tekstu o [dugom prodajnom ciklusu i budžetu](/blog/dug-prodajni-ciklus-marketing-budzet-lead-generation-srbija-2026).
+
+## Firme kojima je decembar sezona
+
+Sve iznad važi za firme kojima praznici donose zastoj. Catering, sale za proslave, cvećare i servisi grejanja imaju suprotan problem: potražnja raste baš u decembru, a kapacitet je ograničen.
+
+Za njih je pitanje drugačije. Budžet treba podići ranije, pre najgušćih nedelja, a gornju granicu postaviti prema broju poslova koje tim može da odradi. Kada su termini puni, svaki dodatni klik je trošak bez prodaje. Detaljnije o tome u tekstovima o [sezonskom marketing budžetu](/blog/sezonski-marketing-budzet-lead-generation-srbija-2026), [kapacitetu prodaje](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026) i primeru za [catering](/blog/google-ads-za-catering-cena-rezervacije-srbija-2026).
+
+## Plan za decembar i januar, korak po korak
+
+- **Do 1. decembra:** za svaku kampanju odlučite da li radi, smanjuje se ili staje preko praznika. Brend i hitne usluge obično rade.
+- **Dnevni budžet za decembar:** ako kampanja ima isključene dane, izračunajte budžet tako da 30,4 x dnevni budžet bude iznos koji stvarno želite da potrošite.
+- **Veče pred pauzu:** spustite budžet kampanjama koje staju ili rade minimalno. Ne ujutru prvog slobodnog dana.
+- **31. decembar do 2. januar:** ako koristite ciljni CPA ili ROAS i očekujete veliki pad konverzija, dodajte prilagođavanje sezonalnosti samo za te dane.
+- **Forma i potvrda:** jasno napišite kada stiže odgovor. Proverite da [propušteni pozivi](/blog/propusteni-pozivi-iz-kampanja-leadovi-prodaja-srbija-2026) ne ostanu bez povratnog poziva posle praznika.
+- **7. januar uveče:** vratite budžete, proverite da forma, telefon i praćenje konverzija rade, i ko prvi odgovara na upite 8. januara.
+- **Kraj januara:** ocenite decembar po zatvorenim poslovima, ne po decembarskom CPL-u.
+
+Za raspodelu ostatka godine koristite tekst o [marketing budžetu za 2027](/blog/marketing-budzet-za-2027-plan-iz-brojeva-2026-srbija) i o [dnevnom budžetu za Google Ads](/blog/dnevni-budzet-google-ads-lead-generation-srbija-2026). Cene upravljanja kampanjama su na strani [Google reklame cena](/google-reklame-cena), a širi pregled na strani [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+## Pregled pre praznika
+
+Najveći trošak preko praznika nije klik od 60 dinara. To je budžet koji je vlasnik mislio da je ugasio, a koji je Google samo preselio na druge dane. To se proverava za deset minuta, ali samo ako neko pogleda pre 24. decembra, ne posle.
+
+Ako želite da [Google Ads tim](/google-ads-agencija) pregleda vaše kampanje, budžete i raspored pre pauze, javite nam se preko [kontakt forme](/kontakt). Pokazaćemo koje kampanje treba da rade, koje da se smanje i koliko novca ostaje za januar.
+`,
+  },
+  {
     slug: 'google-ads-za-servis-kotlova-cena-poziva-grejna-sezona-srbija-2026',
     title: 'Google Ads za servis kotlova u Srbiji 2026: koliko sme da košta poziv u grejnoj sezoni',
     excerpt: 'Hitna popravka, godišnji servis i zamena kotla nose različit profit. Kako odrediti cenu poziva, uskladiti budžet sa serviserima i odvojiti prave kupce.',
