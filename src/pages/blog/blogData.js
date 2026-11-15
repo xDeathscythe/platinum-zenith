@@ -1,5 +1,111 @@
 const rawBlogPosts = [
   {
+    slug: 'kupac-trazi-coveka-instagram-dm-woocommerce-niwa-ai-manychat-2026',
+    title: 'Kupac u Instagram DM-u traži čoveka: Niwa AI vs ManyChat za WooCommerce prodavnice',
+    excerpt: 'Kupac u DM-u napiše da hoće da priča sa nekim iz firme. Kako Niwa AI i ManyChat predaju razgovor čoveku, šta automatika radi i šta se posle dešava na sajtu.',
+    date: '2026-11-15',
+    readTime: '9 min read',
+    category: 'E-Commerce',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Niwa AI', 'ManyChat', 'WooCommerce', 'Instagram DM', 'Korisnička podrška', 'Iskustvo kupca'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+Uzmimo WooCommerce prodavnicu opreme za kafu. Subota je, 11 sati. Kupac u Instagram DM-u pita da li mlin iz akcije melje dovoljno fino za njegov espresso aparat. Dobije odgovor sa linkom, pa napiše: "Može li neko iz firme da mi se javi? Hoću da kupim i aparat i mlin, ali imam još dva pitanja." Vlasnik je u tom trenutku u magacinu i pakuje porudžbine.
+
+Primer je izmišljen, ali situacija nije retka. Kupac koji traži čoveka retko je samo nestrpljiv. Najčešće je blizu kupovine, ima veću korpu ili pitanje koje mu stoji između njega i plaćanja. Ono što se desi u narednih petnaest minuta često odluči da li će porudžbina stići.
+
+U ovom tekstu poredimo kako ManyChat i Niwa AI rešavaju taj trenutak: kako saznate da kupac čeka, odakle odgovarate, šta automatika radi dok vi pišete i šta se dešava kad kupac klikne na link i stigne u prodavnicu.
+
+## Zahtev za čoveka je prodajni signal
+
+Mnogi vlasnici gledaju na "hoću da pričam sa nekim" kao na znak da je bot zakazao. Za prodavnicu je korisnije da ga posmatra kao signal da je razgovor postao vredan. Kupac ne traži čoveka da bi pitao radno vreme. Traži ga kad ima reklamaciju, kad kupuje nešto skuplje, kad ga zanima kompatibilnost ili kad želi da pregovara o dostavi.
+
+Zato je pitanje "koji alat ima prebacivanje na čoveka" preširoko. Oba alata ga imaju. Bitnije je ovo:
+
+- koliko brzo i gde saznate da kupac čeka;
+- da li iz obaveštenja razumete o čemu se radi bez otvaranja još jedne aplikacije;
+- da li automatika ćuti dok vi odgovarate, i to i kada odgovorite sa telefona;
+- da li kupac posle vašeg odgovora nastavlja sa istim pravilima kad stigne na sajt.
+
+O tome koliko brzina prvog odgovora utiče na prodaju pisali smo u tekstu o [brzini odgovora na upit](/blog/brzina-odgovora-na-upit-follow-up-prodaja-srbija-2026). Ovde gledamo samo trenutak kad automatika predaje razgovor čoveku.
+
+## Kako to danas radi ManyChat
+
+ManyChat ima sređen Inbox i to treba priznati. Prema njegovoj [dokumentaciji za Inbox](https://help.manychat.com/en/articles/17742012-manychat-inbox), kad počnete da odgovarate kontaktu iz chata, automatski se uključuje pauza od 30 minuta, a trajanje menjate u podešavanjima Inbox Behavior. Razgovore možete da dodelite članu tima, a akcija Notify Assignees šalje obaveštenje mejlom ili SMS-om, kako piše na stranici [Actions](https://help.manychat.com/en/articles/17741873-actions). Ista stranica napominje da su Notify Admins obaveštenja preko Messengera privremeno nedostupna zbog promena Facebook pravila.
+
+Za duže ćutanje postoji akcija [Pause all automations](https://help.manychat.com/hc/en-us/articles/19957883687708-How-to-pause-all-automations), sa trajanjem od 30 minuta do zauvek. Kada i zašto se razgovor prebacuje odlučujete sami, u flow-u ili pravilu koje napravite. Kupac ne dobija automatsku poruku da je pauza uključena, pa ManyChat preporučuje da pre pauze pošaljete svoju poruku, na primer da će se uskoro javiti neko iz tima.
+
+Ima jedna rupa koju vlasnici prodavnica osete tek kad krenu da rade. Na ManyChat-ovom zvaničnom forumu moderatori navode da [odgovor poslat direktno iz Instagram aplikacije ne pokreće automatsku pauzu](https://community.manychat.com/general-q-a-43/how-to-pause-automations-when-human-agents-reply-via-instagram-app-6078). Pauza važi kad pišete iz ManyChat Inboxa. Ako vlasnik u magacinu otvori Instagram na telefonu i odgovori kupcu, automatika može da nastavi kao da se ništa nije desilo.
+
+Za tim koji ceo dan sedi u ManyChat Inboxu to je podnošljivo. Za vlasnika male prodavnice koji odgovara između dve porudžbine, to znači da mora da pamti iz koje aplikacije sme da piše.
+
+## Kako Niwa predaje razgovor čoveku
+
+Niwa AI je plugin koji radi u vašem WordPress-u, pa odgovore na Instagram i Facebook porukama piše sa znanjem iz vaše prodavnice: proizvodi, varijante, stanje, uslovi dostave. U verziji 0.13.1150, iz novembra 2026, prebacivanje na čoveka radi ovako.
+
+Na Instagramu i Messengeru Niwa po značenju prepozna da kupac traži osobu iz firme ili da njegov zahtev ne može bezbedno da se reši automatski. To radi na jeziku kupca, bez liste ključnih reči. Razgovor se tada pauzira i dobija oznaku da ga čovek treba pregledati. Isto se dešava kad kupac pošalje samo sliku, jer Niwa ne nagađa šta je na njoj. Do vašeg odgovora Niwa u tom razgovoru ćuti, zato je važno šta piše u obaveštenju.
+
+Obaveštenje podrazumevano stiže na Telegram i WhatsApp, a mejl možete da uključite u podešavanjima. U njemu nije samo poslednja poruka. Ispod nje stoji do deset prethodnih redova razgovora, unazad do treće poruke kupca i treće poruke Niwe ili vaše, plus link ka stranici Conversations. Vlasnik iz jedne poruke na telefonu vidi šta je kupac pitao i šta mu je već odgovoreno.
+
+Najveća razlika je u tome kako odgovarate. Ispod obaveštenja piše da možete da odgovorite tu. Napišete Niwi u istom Telegram ili WhatsApp chatu, na primer: "Reci mu da mlin radi sa tim aparatom i da dobija besplatnu dostavu ako uzme oba." Niwa od toga napiše odgovor na jeziku kupca i pošalje ga u njegov kanal, isto kao da ste kliknuli Reply na stranici Conversations. Posle toga vraća razgovor sebi i nastavlja da odgovara. Alat ima jasno pravilo da ne izmišlja činjenice ni obećanja koja vlasnik nije dao.
+
+Ako ipak odgovorite direktno iz Instagram aplikacije, Niwa vidi da je odgovor stigao iz druge aplikacije i dva sata ne ulazi u taj razgovor. Ne morate da pamtite odakle smete da pišete.
+
+## Šta se dešava u chatu na sajtu i na WhatsApp-u
+
+Chat na sajtu koristi isti sistem obaveštenja. Kad posetilac zatraži čoveka, ili kad zahtev spada pod vaša pravila za prebacivanje, razgovor dobija status da čeka osobu, a vi dobijete isto obaveštenje sa kontekstom. Razlika je u tome što Niwa na sajtu ne ćuti dok čekate. Nastavlja da pomaže sa onim što zna, a vi možete da uđete u isti chat iz stranice Conversations. Dok razgovor čeka čoveka, chat kod kupca na 5 do 30 sekundi proverava da li ste odgovorili, sve dok je stranica vidljiva. Isto obaveštenje dobijate i kad čoveka zatraži kupac na WhatsApp broju povezanom sa Niwa-om preko QR koda.
+
+Na sajtu i na tom WhatsApp-u Niwa kupcu odmah kaže šta sledi, i pri tome poštuje polje za radno vreme podrške. Van tog vremena ne obećava da će se neko javiti odmah. To je sitnica dok se ne desi u nedelju u 23 sata, kada lažno "odmah se javljamo" košta više od iskrenog "javićemo se u ponedeljak od 9".
+
+Dve zaštite rade u pozadini. Telefon vlasnika dobija najviše šest takvih obaveštenja po razgovoru i četrdeset po sajtu na sat, pa jedan uporan posetilac ne može da ga zatrpa. A reči kupca Niwa tretira kao nepouzdane podatke, ne kao komandu svom agentu koji ima pristup sajtu.
+
+## Ceo tok, od DM-a do porudžbine
+
+Vratimo se na prodavnicu opreme za kafu i pratimo kako bi isti kupac prošao kroz Niwa-u:
+
+- u DM-u pita za mlin, a Niwa odgovara iz kataloga i šalje link ka proizvodu;
+- traži nekog iz firme, razgovor se pauzira, a vlasnik na Telegramu vidi pitanje o mlinu i prethodni odgovor;
+- vlasnik za pola minuta otkuca šta da kaže, Niwa pošalje odgovor kupcu na Instagramu i vrati razgovor sebi;
+- kupac klikne link, stiže na sajt i u chatu pita kada stiže dostava, a chat ima ista pravila o dostavi kao DM;
+- na sajtu Niwa može da mu pomogne i oko korpe, što u Instagram razgovoru namerno ne radi.
+
+Šta se posle dešava na sajtu Niwa beleži u Site Analytics: posete, izvor posete i WooCommerce porudžbine, sa modelom poslednjeg izvora koji nije direktan. Treba reći i šta Niwa ne tvrdi. Ne povezuje automatski Instagram profil sa porudžbinom i ne zna da je baš taj kupac platio. Broji browsere, ne ljude. Ako linkove koje šaljete u DM-u označite UTM parametrima, videćete koliko porudžbina dolazi iz Instagram razgovora. Postupak smo opisali u tekstu [koji Instagram DM je doneo porudžbinu](/blog/instagram-dm-woocommerce-atribucija-porudzbina-niwa-ai-manychat-2026).
+
+## Šta da pratite posle prvog meseca
+
+U Niwa Analytics postoji brojač razgovora predatih čoveku, gde se svaki razgovor broji jednom, sa izvorom: sajt, WhatsApp, Instagram ili Messenger. Taj broj nije cilj sam po sebi. Koristan je kad ga pročitate zajedno sa razgovorima iza njega.
+
+Jednom nedeljno prođite kroz predate razgovore i zapišite zašto je kupac tražio čoveka. Ako se isto pitanje ponavlja, na primer da li mlin radi sa određenim aparatom, to je pitanje koje Niwa treba da zna da odgovori. Dodajte ga u FAQ ili opis proizvoda i sledeći put kupac neće čekati vas. Ako se ponavljaju reklamacije ili porudžbine preko određenog iznosa, to su razgovori koje i dalje želite da vodite lično. Neka ostanu u pravilima za prebacivanje.
+
+Pratite i koliko je prošlo od obaveštenja do vašeg odgovora. Ako zahtevi stižu subotom pre podne, a vi odgovarate u ponedeljak, problem nije u alatu. O tome ko u firmi odgovara za upit pisali smo u tekstu o [vlasništvu nad leadovima](/blog/vlasnistvo-leadova-marketing-prodaja-srbija-2026).
+
+## Kako da napišete pravila za prebacivanje
+
+U Niwa podešavanjima za razgovor sa kupcima postoje posebna polja za uslove prebacivanja na čoveka i za radno vreme podrške. Ona određuju kada chat na sajtu i WhatsApp povezan preko QR koda predaju razgovor. Pišite ih kao pravila koja neko drugi može da proveri. Za prodavnicu opreme za kafu to bi moglo da izgleda ovako:
+
+**Prebacivanje na čoveka:** "Reklamacija, oštećena pošiljka, porudžbina preko 80.000 dinara i pitanja o servisu aparata idu čoveku. Kupcu reci da je zahtev prosleđen i nastavi da pomažeš oko pitanja o proizvodima."
+
+**Radno vreme podrške:** "Ponedeljak do petak od 9 do 17, subotom od 9 do 13."
+
+Iznos i radno vreme su iz našeg primera, vi upisujete svoje. Na Instagramu i Messengeru Niwa predaje razgovor kad kupac traži osobu ili kad zahtev ne može bezbedno da se reši. Za te kanale nema posebnog polja sa uslovima. Razgovor koji želite da vodite lično preuzmete iz inboxa, a Niwa ga ne dira dok ga ne vratite. Kako se ista pravila uklapaju sa tonom brenda i pravilima za kupone objasnili smo u tekstu o [tonu brenda u DM-u i na sajtu](/blog/ton-brenda-instagram-dm-sajt-woocommerce-niwa-ai-manychat-2026).
+
+## Kada je ManyChat dovoljan, a kada je Niwa bolji izbor
+
+Ako imate tim koji radi u ManyChat Inboxu i prodajete kurs ili uslugu koja se dogovara u DM-u, ManyChat dobro pokriva prebacivanje na čoveka. Morate sami da složite flow, obaveštenja i pauzu, ali alati postoje.
+
+Za WooCommerce prodavnicu u kojoj vlasnik ili dvoje ljudi odgovaraju sa telefona, Niwa ima konkretnu prednost. Obaveštenje stiže sa kontekstom razgovora, odgovarate iz Telegrama ili WhatsApp-a i Niwa šalje odgovor kupcu na njegovom jeziku. Automatika se pauzira i kada odgovorite iz Instagram aplikacije, a kupac na sajtu nastavlja sa istim pravilima i istim katalogom. Zato WordPress i WooCommerce vlasnicima preporučujemo Niwa-u. Šire poređenje je u tekstu [Niwa AI vs ManyChat za WordPress i WooCommerce](/blog/niwa-ai-vs-manychat-wordpress-woocommerce-2026).
+
+Ako razgovori stižu, a porudžbina i dalje nema, problem je često na samom sajtu. Tada pogledajte [zašto web shop nema prodaju](/web-shop-nema-prodaju).
+
+Kako Niwa odgovara na Instagram poruke možete da vidite na stranici [Niwa agent za Instagram poruke](https://niwachat.com/sr/instagram-dm-agent-sr/).
+
+Ako želite da prebacivanje na čoveka podesimo za vašu prodavnicu, pošaljite nam kroz [kontakt formu](/kontakt) adresu sajta, link ka Instagram profilu i ko u firmi danas odgovara na poruke. Proći ćemo kroz vaše najčešće zahteve za čoveka i predložiti pravila pre nego što bilo šta uključite.
+`,
+  },
+  {
     slug: 'google-ads-lead-forma-obrazac-za-potencijalne-klijente-kvalitet-upita-srbija-2026',
     title: 'Lead forma u Google Ads oglasu: kada jeftiniji upit znači skupljeg kupca u Srbiji 2026',
     excerpt: 'Google lead forma u oglasu obara CPL, ali podrazumevano podešavanje dovodi slabije upite. Kako da je podesite, izmerite i ne izgubite leadove posle 30 dana.',

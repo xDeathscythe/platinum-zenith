@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "kupac-trazi-coveka-instagram-dm-woocommerce-niwa-ai-manychat-2026",
+    "title": "Kupac u Instagram DM-u traži čoveka: Niwa AI vs ManyChat za WooCommerce prodavnice",
+    "excerpt": "Kupac u DM-u napiše da hoće da priča sa nekim iz firme. Kako Niwa AI i ManyChat predaju razgovor čoveku, šta automatika radi i šta se posle dešava na sajtu.",
+    "date": "2026-11-15",
+    "category": "E-Commerce",
+    "readTime": "9 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-lead-forma-obrazac-za-potencijalne-klijente-kvalitet-upita-srbija-2026",
     "title": "Lead forma u Google Ads oglasu: kada jeftiniji upit znači skupljeg kupca u Srbiji 2026",
     "excerpt": "Google lead forma u oglasu obara CPL, ali podrazumevano podešavanje dovodi slabije upite. Kako da je podesite, izmerite i ne izgubite leadove posle 30 dana.",
