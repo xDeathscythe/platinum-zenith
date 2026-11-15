@@ -1,5 +1,121 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-lead-forma-obrazac-za-potencijalne-klijente-kvalitet-upita-srbija-2026',
+    title: 'Lead forma u Google Ads oglasu: kada jeftiniji upit znači skupljeg kupca u Srbiji 2026',
+    excerpt: 'Google lead forma u oglasu obara CPL, ali podrazumevano podešavanje dovodi slabije upite. Kako da je podesite, izmerite i ne izgubite leadove posle 30 dana.',
+    date: '2026-11-15',
+    readTime: '9 min read',
+    category: 'Google Ads',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Lead forma', 'Kvalitet leadova', 'Konverzije', 'CRM', 'CPL'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Forma u samom oglasu je sada dostupna i oglašivačima iz Srbije
+
+Google Ads već godinama ima obrazac za potencijalne klijente, u praksi poznatiji kao lead forma. Čovek vidi oglas na pretrazi, otvori formu, upiše ime i telefon i ne posećuje sajt. Dugo je to bila opcija za velike naloge na velikim tržištima. Kako je [pisao Search Engine Land u julu 2026](https://searchengineland.com/google-drops-50k-ad-spend-requirement-for-lead-form-assets-482759), Google je tada iz dokumentacije izbacio prag od 50.000 dolara potrošnje i proširio listu zemalja, a na njoj se našla i Srbija.
+
+Zato će mnogi vlasnici uskoro dobiti preporuku u nalogu ili poziv od agencije: "dodajte lead formu, upiti će pojeftiniti". Upiti stvarno mogu da pojeftine. Pitanje je šta se desi sa kupcima.
+
+Lead forma uklanja trenje. To je njena snaga i njen problem. Ista ona stranica koja je posetioca terala da pročita ponudu, vidi cene i odluči da li mu firma odgovara sada se preskače. Na drugi kraj stiže ime i broj telefona, ponekad bez ikakvog konteksta.
+
+## Kako lead forma radi u Google Ads od 2026.
+
+Prema [Google Ads pomoći o lead formama](https://support.google.com/google-ads/answer/9423234?hl=en), formu možete da dodate u kampanje na Mreži za pretragu i u Performance Max. Display i video više nisu na spisku. Po kampanji ide samo jedna forma, a radi samo uz prilagodljive oglase na pretrazi.
+
+Postoje dva načina prikaza i [zavise od cilja konverzije kampanje](https://support.google.com/google-ads/answer/16726829?hl=en):
+
+- **Naslov oglasa otvara formu.** Ovo dobijate kada je jedini cilj kampanje "Submit lead form (Google hosted)" i kada koristite strategiju licitiranja usmerenu na konverzije. Klik na naslov ne vodi na sajt nego direktno u formu. Za ovaj format Google traži dodatne uslove: dobar ugled naloga, određeni nivo potrošnje i završenu verifikaciju oglašivača.
+- **Forma kao dodatni element oglasa.** Ako kampanja ima i druge ciljeve konverzije, naslov i dalje vodi na sajt, a forma se prikazuje pored ostalih elemenata. Ko hoće da čita, ide na sajt. Ko hoće samo da ostavi broj, ostavlja ga u oglasu.
+
+Za većinu uslužnih firmi drugi način je razumniji početak. Ne gasite stranicu koja prodaje, samo dodajete kraći put za one kojima ne treba.
+
+Kod lead formi ne smeju da se oglašavaju [zdravstvo i lekovi, alkohol, igre na sreću i politički sadržaj](https://support.google.com/adspolicy/answer/9472930?hl=en). Poliklinike, privatne ordinacije i slične delatnosti zato ostaju na formi na sajtu. Posrednici koji prodaju tuđe leadove takođe nisu dobrodošli. Obavezan je i link ka politici privatnosti, koja se prikazuje na kraju forme. Ako je vaša politika privatnosti šablon sa interneta koji ne pominje kako obrađujete upite, sada je trenutak da se to sredi.
+
+## Podrazumevano podešavanje je "Veći obim" i to nije slučajno
+
+Google nudi dve verzije forme. Na srpskom interfejsu se zovu "Veći obim" i "Kvalifikovaniji".
+
+"Veći obim" je podrazumevan. Forma ima manje koraka i daje više leadova, a Google sam piše da među njima može biti ljudi koji su manje zainteresovani za vašu uslugu. "Kvalifikovaniji" ima više koraka, daje manje leadova, ali su to obično ljudi sa jačim interesovanjem.
+
+Ko podesi formu za pet minuta i ne dira ništa, dobija verziju optimizovanu za broj upita. U izveštaju to izgleda odlično: CPL pada, konverzija ima više. Prodaja to vidi drugačije. Telefon zvoni ljudima koji se ne sećaju da su ostavili broj, koji su mislili da je forma za besplatnu procenu ili koji traže uslugu koju ne radite.
+
+Tip forme može da se promeni u bilo kom trenutku. Problem je što većina vlasnika nikada ne sazna da ga je uopšte birala.
+
+## Računica: CPL se prepolovi, kupac poskupi
+
+Primer je izmišljen, ali su brojevi izračunati. Firma za ugradnju klima uređaja troši 120.000 dinara mesečno na pretragu. Od svakih kvalifikovanih upita zatvori 25%. Prodavac na prvi poziv, beleške i pokušaje da dobije čoveka troši u proseku 15 minuta po upitu, a sat njegovog rada firmu košta 1.600 dinara. To je 400 dinara po upitu, bez obzira da li je upit dobar.
+
+- **Forma na sajtu:** 40 upita, CPL 3.000 dinara. Kvalifikovano je 50%, dakle 20 upita, i od njih 5 poslova. Vreme prodaje je 16.000 dinara. Kupac košta (120.000 + 16.000) / 5 = 27.200 dinara.
+- **Lead forma, "Veći obim":** 80 upita, CPL 1.500 dinara. Kvalifikovano je samo 25%, opet 20 upita i 5 poslova. Vreme prodaje je duplo, 32.000 dinara. Kupac košta 30.400 dinara, 11,8% više.
+- **Lead forma, "Kvalifikovaniji", uz proveru telefona i kvalifikujuće pitanje:** 60 upita, CPL 2.000 dinara. Kvalifikovano je 40%, odnosno 24 upita i 6 poslova. Vreme prodaje je 24.000 dinara. Kupac košta 24.000 dinara, 11,8% manje nego sa formom na sajtu.
+
+U nalogu je pobednik srednja varijanta jer ima najniži CPL. U kasi je to najgora varijanta. Ista alatka, drugačije podešena, pobeđuje formu na sajtu. Zato se lead forma ne ocenjuje po ceni upita. Ocenjuje se po ceni kvalifikovanog upita i ceni kupca, kao i svaka druga kampanja. Više o toj razlici piše u tekstu [CPL nije CAC](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026).
+
+## Tri podešavanja koja odlučuju o kvalitetu upita
+
+**Provera broja telefona.** [Google nudi SMS verifikaciju](https://support.google.com/google-ads/answer/16804244?hl=en) za lead forme na pretrazi. Čovek dobije jednokratni kod, a lead se ne šalje dok broj ne potvrdi. Kod obično ističe za 15 minuta. Google upozorava da će broj upita i CPL verovatno da se promene, i biće tako: dobijate manje upita, ali svaki ima broj koji se javlja. Za firme koje žive od povratnog poziva ovo je najvažnije polje u celoj formi.
+
+**Kvalifikujuće pitanje.** Pitanje sa ponuđenim odgovorima možete da označite kao [kvalifikujuće](https://support.google.com/google-ads/answer/16726130?hl=en) i izaberete odgovore koji znače dobrog kupca. Takvi upiti stižu sa oznakom kvalifikovanog leada. Za klima servis to može biti "Šta vam treba?" sa odgovorima ugradnja nove klime, servis postojeće i samo informacija o ceni. Za izvođača radova pitanje može biti okvirna kvadratura. Kvalifikujuće pitanje ne može biti opciono.
+
+**Pitanja koja zamenjuju stranicu.** Posetilac lead forme nije video vašu ponudu. Ne zna da radite samo Beograd i okolinu, da je minimum posla 50 kvadrata ni da je izlazak na teren plaćen. Te informacije morate da prebacite u opis forme ili u pitanja. Ono što je na sajtu radila stranica, ovde mora da uradi forma, inače ćete pola poziva trošiti na objašnjavanje. Dobar spisak pitanja već imate ako ste podesili [kvalifikaciju u kontakt formi na sajtu](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026).
+
+Jedna napomena pre nego što počnete da menjate pitanja: kada dodate novo pitanje, forma ponovo ide na proveru, a [kampanje koje je koriste stoje dok ne bude odobrena](https://support.google.com/google-ads/answer/16726130?hl=en). Izmene radite uveče ili vikendom, ne usred najjače nedelje.
+
+## Leadovi u Google nalogu ističu posle 30 dana
+
+Ovo je deo koji košta najviše, a niko ga ne pominje na prezentaciji. Lead iz forme ne stiže u vaš inbox sam od sebe. [CSV preuzimanje pokriva samo poslednjih 30 dana](https://support.google.com/google-ads/answer/9423234?hl=en), a Google čuva podatke 60 dana. Ko je formu uključio i zaboravio, posle mesec dana gubi upite koje je platio.
+
+Opcije za isporuku su:
+
+- **Mejl za svaki lead.** Najbrže za podesiti i dovoljno za manju firmu, pod uslovom da adresa ne završava u folderu koji niko ne čita.
+- **Webhook ili Zapier ka CRM-u.** Lead ide direktno u CRM ili tabelu. [Webhook sadrži i GCLID](https://developers.google.com/google-ads/webhook/docs/implementation), oznaku klika koju posle možete da vratite u Google Ads kada se upit pretvori u posao.
+- **Google Ads API.** Ima smisla ako već imate developera i sistem u koji leadovi idu.
+
+Brzina je ovde još važnija nego kod forme na sajtu. Čovek koji je ostavio broj u oglasu za pet sekundi nije uložio ništa. Ako ga pozovete sutradan, zaboraviće da je pitao. Pravila iz teksta o [brzini odgovora na upit](/blog/brzina-odgovora-na-upit-follow-up-prodaja-srbija-2026) za lead formu važe dvostruko.
+
+Postoji i pitanje vlasništva. Prema [Google pomoći za preuzimanje leadova](https://support.google.com/google-ads/answer/10089020?hl=en), menadžerski nalog agencije može da preuzme leadove iz klijentskog naloga samo ako mu klijent dodeli vlasništvo. Ako agencija drži leadove u svom sistemu, a vi ih vidite samo u mesečnom izveštaju, pitajte gde se nalaze i ko ih ima kad saradnja prestane.
+
+## Kako da izmerite da li lead forma vredi
+
+Najveća greška je da se lead forma uključi u postojeću kampanju i da se posle mesec dana uporedi CPL. Kampanja je u međuvremenu promenila ponašanje, a lead forma je pokupila deo ljudi koji bi ionako popunili formu na sajtu.
+
+Jednostavniji test za firmu koja ima 40 do 100 upita mesečno:
+
+- Ostavite postojeću kampanju kakva jeste, sa formom na sajtu.
+- Pokrenite drugu kampanju na iste ključne reči i lokacije, sa lead formom kao elementom oglasa i ciljem konverzije koji uključuje i Google formu i formu na sajtu. Ako hoćete čistiji test, koristite [eksperimente u Google Ads](https://support.google.com/google-ads/answer/6261395?hl=en) da podelite saobraćaj.
+- U CRM-u svaki upit označite izvorom: forma na sajtu ili lead forma.
+- Posle četiri do šest nedelja uporedite cenu kvalifikovanog upita, broj poslanih ponuda i cenu kupca, ne CPL.
+
+Lead forma koja u CRM-u ne može da se razlikuje od forme na sajtu ne može ni da se oceni. Ako leadove još vodite po mejlovima i porukama, prvo sredite [evidenciju upita u CRM-u](/blog/crm-za-leadove-evidencija-prodaja-srbija-2026).
+
+Kada lead forma počne da donosi poslove, vratite tu informaciju Google-u. Bez toga algoritam uči da je svaki ostavljen broj jednako dobar i dovodi još ljudi koji ostavljaju broj, a ne kupuju. Kako se to radi opisano je u tekstu o [kvalifikovanim konverzijama](/blog/kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026).
+
+## Kome lead forma odgovara, a kome ne
+
+Dobro radi kod usluga gde je odluka brza, a sledeći korak je poziv: servisi klima, kotlova i bele tehnike, vulkanizeri, selidbe, čišćenje, auto škole, kursevi sa fiksnom cenom. Tu kupac ionako zove dve ili tri firme i bira onu koja se prva javi sa jasnom cenom.
+
+Slabije radi kod skupih i složenih projekata, gde kupac mora da vidi radove, reference i proces pre nego što ostavi kontakt. Izvođači radova, arhitekte, proizvođači nameštaja po meri i B2B usluge obično imaju bolji odnos sa stranicom koja prodaje. Kod njih lead forma može da ostane kao dodatni element, za mali deo ljudi koji su firmu već istražili i samo traže brz put.
+
+Ne radi uopšte ako u firmi niko ne odgovara na pozive u roku od sat vremena. Tada je svejedno koliko je upit jeftin.
+
+## Pre nego što uključite lead formu
+
+- Odlučite da li forma otvara naslov ili stoji kao dodatni element. Za početak, dodatni element.
+- Promenite tip forme na "Kvalifikovaniji" ako niste sigurni da vam treba obim.
+- Uključite proveru broja telefona na pretrazi.
+- Dodajte jedno kvalifikujuće pitanje i jedno pitanje o lokaciji ili obimu posla.
+- U opis forme upišite ograničenja: zona rada, minimum, šta je plaćeno.
+- Podesite mejl obaveštenje i webhook ili Zapier ka CRM-u istog dana.
+- Proverite ko ima vlasništvo nad leadovima u nalogu.
+- Odredite ko zove lead i u kom roku.
+
+Ako želite da vidimo da li lead forma ima smisla za vašu delatnost, kako bi izgledao test i šta da merite pored CPL-a, pogledajte kako radimo [Google Ads kampanje](/google-ads-agencija), okvirne [cene Google reklama](/google-reklame-cena) i [cene digitalnog marketinga](/cene-digitalnog-marketinga). Ili nam [pošaljite upit](/kontakt) sa podacima o tome koliko upita dobijate sada i koliko ih zatvarate. Od toga se kreće.
+`,
+  },
+  {
     slug: 'ton-brenda-instagram-dm-sajt-woocommerce-niwa-ai-manychat-2026',
     title: 'Ton brenda u Instagram DM-u i na sajtu: Niwa AI vs ManyChat za WooCommerce',
     excerpt: 'Kupac u DM-u dobije jedan ton i jedan popust, a na sajtu drugi. Kako Niwa AI i ManyChat čuvaju glas brenda od komentara do WooCommerce korpe.',
