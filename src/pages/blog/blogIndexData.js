@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "bivsi-klijenti-povratak-neaktivnih-klijenata-prodajni-proces-srbija-2026",
+    "title": "Bivši klijenti u Srbiji 2026: kako vratiti one koji su prestali da kupuju",
+    "excerpt": "Klijent koji je već platio pa nestao jeftiniji je od novog leada, ako znate zašto je otišao. Kako ga vratiti, šta mu reći i kako izmeriti stvarni povratak.",
+    "date": "2026-11-16",
+    "category": "Marketing",
+    "readTime": "9 min read",
+    "isDraft": false
+  },
+  {
     "slug": "kupac-trazi-coveka-instagram-dm-woocommerce-niwa-ai-manychat-2026",
     "title": "Kupac u Instagram DM-u traži čoveka: Niwa AI vs ManyChat za WooCommerce prodavnice",
     "excerpt": "Kupac u DM-u napiše da hoće da priča sa nekim iz firme. Kako Niwa AI i ManyChat predaju razgovor čoveku, šta automatika radi i šta se posle dešava na sajtu.",

@@ -1,5 +1,158 @@
 const rawBlogPosts = [
   {
+    slug: 'bivsi-klijenti-povratak-neaktivnih-klijenata-prodajni-proces-srbija-2026',
+    title: 'Bivši klijenti u Srbiji 2026: kako vratiti one koji su prestali da kupuju',
+    excerpt: 'Klijent koji je već platio pa nestao jeftiniji je od novog leada, ako znate zašto je otišao. Kako ga vratiti, šta mu reći i kako izmeriti stvarni povratak.',
+    date: '2026-11-16',
+    readTime: '9 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Prodajni proces', 'Bivši klijenti', 'CRM', 'Zadržavanje klijenata', 'CAC', 'Customer Match'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+## Najjeftiniji kupac je onaj koji vas već zna
+
+Otvorite CRM, tabelu ili fakture za poslednje tri godine i izvucite listu ljudi i firmi koji su vam bar jednom platili. Zatim označite one koji nisu kupili ništa duže nego što im inače treba između dve kupovine. Kod većine uslužnih firmi ta lista je duža nego što vlasnik očekuje.
+
+Ti ljudi su već prošli ono za šta plaćate oglase. Znaju vaše ime, videli su kako radite, imate njihov broj telefona. Firma ipak sledećeg meseca diže budžet za Google Ads da bi našla nove, a stare niko ne zove.
+
+Ovo nije tekst o tome kako da zadržite klijente dok su aktivni. To je druga tema. Ovde je reč o onima koji su već tiho otišli i o tome kako da ih vratite bez popusta koji ništa ne rešava.
+
+## Ko je zapravo bivši klijent
+
+Ne postoji jedan rok za sve. Bivši klijent je onaj ko kasni u odnosu na svoj normalan ritam kupovine.
+
+- Servis kotla ili klime ima prirodan ciklus od 12 meseci. Klijent bez servisa 18 meseci je signal.
+- Frizer i kozmetički salon rade u nedeljama. Ko nije došao tri meseca, verovatno ide negde drugde.
+- Knjigovodstvo, održavanje sajta i IT podrška su mesečni ugovori. Tu klijent nije \"neaktivan\", nego je raskinuo ugovor, i to znate tačno kog dana.
+- Građevinski radovi i jednokratni projekti nemaju ciklus. Tu je bivši klijent zapravo izvor preporuka i sledećeg projekta za nekoliko godina, ne kandidat za mesečni podsetnik.
+
+Za svaku grupu upišite očekivani ciklus i datum poslednje kupovine. Kada se ta dva podatka nalaze u istoj tabeli, lista neaktivnih se pravi jednim filterom.
+
+## Zašto je klijent otišao menja sve što mu kažete
+
+Najčešća greška je ista poruka za sve: \"Nismo se dugo čuli, imamo 15% popusta za vas.\" Ona pogađa samo jednu grupu, a ostale nervira.
+
+### Zaboravio je
+
+Najveća grupa i najlakša. Čovek nije nezadovoljan, samo niko nije podsetio. Ovde ne treba popust. Treba konkretan razlog: \"Kotao vam je servisiran u martu 2025, rok za godišnji servis je prošao, imamo termine sledeće nedelje.\"
+
+### Otišao je kod konkurencije zbog cene
+
+Popust ga možda vrati jednom, pa ode ponovo kada konkurencija spusti cenu. Pitajte šta je dobio tamo i da li je zadovoljan. Ako je razlika u ceni velika, a vi ne želite da je pratite, pustite ga i zabeležite razlog. O tome kako se pregovara bez gubljenja marže pisali smo u tekstu o [pregovorima o ceni posle ponude](/blog/pregovori-o-ceni-posle-ponude-popust-marza-srbija-2026).
+
+### Bio je nezadovoljan
+
+Ovom klijentu prva poruka ne sme da bude ponuda. Prvo priznajte problem i pitajte šta bi ga popravilo. Neki se vrate baš zato što se firma javila sama, bez reklame. Drugi neće, ali vam kažu šta je pošlo naopako, a to vredi više od jedne prodaje.
+
+### Više nema potrebu
+
+Preselio se, prodao firmu, zamenio uređaj sistemom koji ne servisirate. Ne prodajte mu ništa. Pitajte da li zna nekoga kome trebate. Ovo je jedina grupa gde je preporuka glavni cilj razgovora.
+
+### Firma ga je zaboravila
+
+Prodavac koji ga je vodio je otišao, kartica u CRM-u je zatvorena kao \"dobijen\" i nikome nije dodeljen sledeći korak. Ovo nije problem klijenta. Tu pomažu polja koja smo opisali u tekstu o [dodatnoj prodaji postojećim klijentima](/blog/dodatna-prodaja-postojecim-klijentima-upsell-leadovi-srbija-2026).
+
+Ako razlog ne znate, i to je podatak. Prvi kontakt tada ima samo jedan cilj: da saznate razlog.
+
+## Ko zove i šta kaže
+
+Masovni mejl sa naslovom \"Nedostajete nam\" vraća malo ljudi. Poziv osobe koju klijent pamti radi bolje, jer ima kontekst koji automatika nema.
+
+Dobra prva poruka ima tri dela: ko se javlja i odakle se znaju, zašto se javlja baš sada i jedno pitanje na koje je lako odgovoriti.
+
+Primer za servis: \"Dobar dan, Marko iz servisa, radili smo vam klimu u junu prošle godine. Prošlo je više od godinu dana, a pre sezone grejanja je dobro proveriti filtere. Da li vam odgovara termin u četvrtak ili petak?\"
+
+Primer za knjigovodstvenu agenciju: \"Raskinuli ste ugovor sa nama pre osam meseci. Ne zovem da vas vraćam, nego da pitam šta smo mogli bolje. Ako vam bude trebala druga opcija, javite se.\"
+
+Drugi primer ne prodaje ništa, i zato često dobije iskren odgovor. Taj odgovor ide u CRM kao razlog odlaska.
+
+## Šta zakon kaže o kontaktu sa bivšim klijentima
+
+Imate podatke, ali to ne znači da ih smete koristiti za bilo kakvu promociju.
+
+[Zakon o elektronskoj trgovini](https://www.paragraf.rs/propisi/zakon_o_elektronskoj_trgovini.html), član 8, kaže da je slanje komercijalne poruke elektronskim putem dozvoljeno samo uz prethodni pristanak lica kome je namenjena, i da firma mora da prihvati opoziv tog pristanka. Mejl ili SMS kampanja sa ponudom bivšim klijentima koji nikada nisu pristali na promotivne poruke je problem, bez obzira na to što su vam nekada platili.
+
+[Zakon o zaštiti podataka o ličnosti](https://www.paragraf.rs/propisi/zakon_o_zastiti_podataka_o_licnosti.html), član 37, daje svakom pravo da u bilo kom trenutku uloži prigovor na obradu za potrebe direktnog oglašavanja. Posle prigovora podaci se više ne smeju koristiti u te svrhe, a firma mora da upozori na to pravo najkasnije prilikom prve komunikacije.
+
+U praksi to znači sledeće:
+
+- U formu, ugovor ili fakturu ubacite jasan, poseban pristanak za obaveštenja i ponude. Bez toga ne pravite masovnu kampanju.
+- Svaki kontakt nudi lak način da kaže \"ne javljajte mi se više\".
+- Ko to kaže, dobija oznaku \"ne kontaktirati\" u CRM-u istog dana. To polje se proverava pre svakog sledećeg kontakta.
+
+Za detalje u vašoj delatnosti pitajte pravnika. Pravila su jasna, samo ih firme retko primenjuju na sopstvenu listu klijenata.
+
+## Koliko to vredi: primer sa brojevima
+
+Brojevi u nastavku su izmišljen primer. Ne prepisujte procente, izmerite svoje.
+
+Firma za servis klima i grejanja ima 640 klijenata koji su bar jednom platili. Njih 210 nije kupilo ništa duže od 18 meseci.
+
+Novi klijent iz Google Ads kampanje košta 2.800 dinara po upitu, a prodaja zatvara 30% upita. Samo oglasi su 9.333 dinara po kupcu. Kada se doda 40 minuta prodaje po upitu, uz 1.500 dinara po satu, novi kupac košta oko 12.700 dinara.
+
+Za listu bivših klijenata firma radi ovako: nasumično podeli 210 kontakata na dve grupe od po 105. Prvu grupu zove, drugu ne dira.
+
+- Od 105 ljudi u prvoj grupi, dostupno je 79. Po osam minuta razgovora, to je 10,5 sati, odnosno 15.800 dinara rada.
+- U narednih 60 dana kupilo je 17 ljudi iz prve grupe, to jest 16,2%.
+- Iz druge grupe, koju niko nije zvao, kupilo je 6 ljudi, to jest 5,7%.
+
+Da firma nije imala drugu grupu, rekla bi da je vratila 17 klijenata po 929 dinara. Stvarno je vratila 11, jer bi šestoro došlo i bez poziva. To je 1.436 dinara po vraćenom klijentu, što je i dalje skoro devet puta jeftinije od novog kupca iz oglasa.
+
+Uz prosečan posao od 14.000 dinara i 40% bruto marže, 11 dodatnih poslova donosi 61.600 dinara bruto profita. Kada se oduzme rad na pozivima, ostaje 45.800 dinara. Iz deset i po sati telefoniranja.
+
+Kontrolna grupa nije akademska finesa. Bez nje svaki klijent koji je ionako došao na redovni servis izgleda kao uspeh kampanje, a vi donosite odluke o budžetu na pogrešnom broju. Isti problem smo opisali u tekstu o [brend kampanjama](/blog/brend-kampanja-google-ads-roi-budzet-srbija-2026), gde oglas dobije zasluge za kupca koji bi došao i bez njega.
+
+## Zašto se ovo ne rešava Google oglasima
+
+Logično pitanje: zašto ne ubaciti listu bivših klijenata u Google Ads i prikazati im oglas?
+
+Prema [Google Ads pomoći za Customer Match](https://support.google.com/google-ads/answer/6299717?hl=en), svi nalozi koji poštuju pravila mogu da koriste listu klijenata samo u režimu posmatranja i za isključenje. Da biste oglas prikazivali samo ljudima sa liste, nalog mora da ima 90 dana istorije i više od 50.000 dolara ukupne potrošnje. Većina malih i srednjih firmi u Srbiji taj prag ne prelazi. Pored toga, lista mora da ima bar 100 članova dodatih ili osveženih u poslednjih 540 dana.
+
+Zato je povratak bivših klijenata posao za telefon, mejl i CRM, a ne za oglasni nalog. Customer Match listu i dalje vredi napraviti, iz drugog razloga: da isključite postojeće klijente iz kampanja za nove kupce i da ne plaćate klik nekome ko bi vas ionako pozvao.
+
+Ako se bivši klijent vrati preko brend oglasa, kampanja će ga prijaviti kao novu konverziju. Zato u CRM-u izvor vraćenog klijenta mora da bude \"win-back\", a ne \"Google Ads\", inače će vam [stvarni trošak po kupcu](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026) izgledati niži nego što jeste.
+
+## Šest polja u CRM-u za bivše klijente
+
+- Datum poslednje kupovine.
+- Očekivani ciklus kupovine za tu uslugu, u danima.
+- Status: aktivan, kasni, neaktivan, izgubljen.
+- Razlog odlaska, iz kratke liste (zaboravio, cena, nezadovoljstvo, nema potrebu, nepoznat).
+- Datum poslednjeg win-back kontakta i ishod.
+- Pristanak na ponude i oznaka \"ne kontaktirati\".
+
+Sa ovim poljima lista se pravi sama svakog meseca. Bez njih se svaka akcija svodi na to da neko jednom godišnje izveze Excel, pozove dvadeset ljudi i zaboravi.
+
+Razlozi odlaska vremenom pokažu i nešto drugo. Ako trećina bivših klijenata kaže \"cena\", imate problem pozicioniranja. Ako kažu \"niste se javljali\", imate problem procesa. To je isti princip kao kod [razloga izgubljenih poslova](/blog/razlozi-izgubljenih-poslova-leadovi-prodaja-srbija-2026), samo primenjen posle prve kupovine.
+
+## Kada ovo nema smisla
+
+Ako firma nema kapacitet ni za postojeće upite, ne zovite bivše klijente. Vratićete ih u čekanje, a drugi put neće dati šansu.
+
+Ako je većina otišla zbog loše usluge koja i dalje nije popravljena, poziv samo podseća na loše iskustvo. Prvo popravite uslugu.
+
+I ako vaša lista ima 30 ljudi, ne treba vam sistem. Treba vam jedno popodne i telefon.
+
+## Šta da uradite ove nedelje
+
+- Izvucite sve klijente koji su platili u poslednje tri godine.
+- Upišite očekivani ciklus po usluzi i označite one koji kasne više od pola ciklusa.
+- Proverite ko je dao pristanak na ponude, a ko nije.
+- Podelite listu nasumično na dve polovine i zovite samo jednu.
+- Za svakog upišite razlog odlaska, čak i kada ne kupi.
+- Posle 60 dana uporedite kupovine u obe grupe.
+
+Tek kada znate koliko vas košta vraćeni klijent, znate i koliko smete da platite novog. Taj broj, zajedno sa [vrednošću klijenta kroz vreme](/blog/vrednost-klijenta-ltv-marketing-budzet-srbija-2026), govori koliki budžet za oglase ima smisla.
+
+Ako želite da pogledamo vaše brojeve i vidimo da li vam treba više novih upita ili bolji rad sa onima koji su već kupili, pogledajte kako vodimo [Google Ads kampanje](/google-ads-agencija), okvirne [cene Google reklama](/google-reklame-cena) i [cene digitalnog marketinga](/cene-digitalnog-marketinga). Ili nam [pošaljite upit](/kontakt) sa podatkom koliko klijenata imate u bazi i koliko njih je kupilo u poslednjih godinu dana.
+
+`,
+  },
+  {
     slug: 'kupac-trazi-coveka-instagram-dm-woocommerce-niwa-ai-manychat-2026',
     title: 'Kupac u Instagram DM-u traži čoveka: Niwa AI vs ManyChat za WooCommerce prodavnice',
     excerpt: 'Kupac u DM-u napiše da hoće da priča sa nekim iz firme. Kako Niwa AI i ManyChat predaju razgovor čoveku, šta automatika radi i šta se posle dešava na sajtu.',
