@@ -1,5 +1,112 @@
 const rawBlogPosts = [
   {
+    slug: 'analitika-instagram-dm-prodaje-woocommerce-niwa-ai-manychat-2026',
+    title: 'Analitika Instagram DM prodaje za WooCommerce: Niwa AI vs ManyChat izveštaji',
+    excerpt: 'ManyChat broji poslate poruke i kontakte po objavi. Niwa pokazuje šta se posle DM-a desilo u WooCommerce prodavnici. Koje brojke gledati svake nedelje.',
+    date: '2026-11-16',
+    readTime: '9 min read',
+    category: 'E-Commerce',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Niwa AI', 'ManyChat', 'WooCommerce', 'Instagram DM', 'Analitika', 'Meta oglasi'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+Izveštaj kaže da je automatika u Instagram DM-u za mesec dana poslala 1.400 poruka. Na ekranu to izgleda dobro. Vlasnik WooCommerce prodavnice ipak plaća robu, dostavu i oglase novcem koji prođe kroz checkout, a ne poslatim porukama.
+
+Ovaj tekst ne pita koji alat lepše odgovara kupcu. To smo obradili u [glavnom poređenju Niwa AI i ManyChat](/blog/niwa-ai-vs-manychat-wordpress-woocommerce-2026). Ovde gledamo izveštaje: šta svaki alat broji, na koje pitanje ta brojka odgovara i kako za dvadesetak minuta nedeljno da vidite da li razgovori sa Instagrama pune korpu.
+
+## Šta ManyChat broji
+
+ManyChat danas ima tri mesta sa brojkama i svako meri nešto drugo.
+
+Prvo je nova sekcija [Analytics](https://help.manychat.com/en/articles/17741992-analytics). Prema zvaničnoj dokumentaciji, ona je u beta fazi, nije dostupna svim nalozima, pokriva samo Instagram i radi samo na plaćenim planovima. Na vrhu su tri kartice: koliko automatizacija radi, koliko su poruka poslale i koliko su novih kontakata donele. Uz svaku stoji promena u odnosu na prethodni period, a birate 7, 14 ili 30 dana. Ispod je Content leaderboard, gde za svaku objavu, Reel ili Story vidite reach, engagement, broj automatskih poruka koje je pokrenula, CTR tih poruka i broj kontakata.
+
+Drugo je [Inbox Analytics](https://help.manychat.com/hc/en-us/articles/14281089062044-Live-Chat-analytics), namenjen timu koji odgovara ručno. Tu su procenat odgovorenih razgovora, prosečno vreme prvog odgovora, vreme do zatvaranja razgovora i broj dodeljenih i zatvorenih razgovora po članu tima. Podaci se čuvaju za poslednja tri meseca.
+
+Treće su konverzije. Na Pro planu Home tab prikazuje Manychat Pixel aktivnost, odnosno broj konverzionih događaja i prihod. Svoje događaje pravite akcijom Log Conversion Event, a sistemski su, na primer, plaćanja i prikupljeni mejlovi i telefoni. Da bi kupovina u WooCommerce-u ušla u taj broj, sajt mora da pošalje događaj. Kako se to povezuje i gde puca, opisali smo u tekstu o [atribuciji porudžbina iz Instagram DM-a](/blog/instagram-dm-woocommerce-atribucija-porudzbina-niwa-ai-manychat-2026).
+
+Content leaderboard je stvarno koristan. Ako prodajete kroz Reels i hoćete da znate koja objava pokreće najviše razgovora i kontakata, ManyChat na to odgovara direktno, čim vaš nalog uđe u beta program.
+
+## Šta Niwa pokazuje u WordPress-u
+
+Niwa drži izveštaje u WordPress adminu, u istoj bazi u kojoj su porudžbine i refundacije. Birate 7, 30 ili 90 dana, a svaka brojka se poredi sa istim brojem dana pre toga. Na grafikonu je prethodni period isprekidana linija.
+
+Pregled prvo pokazuje razgovore po kanalu: chat na sajtu, Instagram, Messenger i WhatsApp. Kod Instagrama i Messengera razgovor je jedna privatna nit sa kupcem. Komentari ispod objava se ne broje kao razgovori, pa vam brojku ne naduvava neko ko je ispod Reela ostavio samo emoji.
+
+Pored toga stoje novi kontakti, rezervacije, dodavanja u korpu proizvoda koje je Niwa pokazala i porudžbine u kojima je Niwa učestvovala. Za taj poslednji broj treba znati tačno pravilo. Niwa računa porudžbinu kada je kupljen proizvod koji je ona preporučila, kada je iskorišćen njen kupon ili kada je kupca vratio podsetnik za napuštenu korpu. To nije svaka porudžbina koja se desila posle nekog DM-a.
+
+Ostatak izveštaja je podeljen po temama:
+
+- kako su se razgovori završili: koliko je Niwa rešila sama, koliko je predato čoveku i koliko se završilo porudžbinom;
+- mapa po danima i satima, koja sabira kada ljudi pišu, i na sajtu i na kanalima;
+- saobraćaj po izvoru (organska pretraga, direktno, društvene mreže, plaćene kampanje, referali, mejl), sa brojem sesija koje su otvorile chat, novim kontaktima, porudžbinama kao procentom sesija i landing stranicama koje donose konverzije;
+- Meta oglasi, kada je Facebook povezan sa dozvolom za čitanje: potrošnja, rezultati i cena po rezultatu za svaku kampanju, bez menjanja oglasa;
+- kartice proizvoda u chatu na sajtu, od prikaza preko klika, korpe i checkout-a do prodaje i prihoda.
+
+Brojač otvorenih chatova ("Opened the chat") u izveštaju o saobraćaju popravljen je u verziji 0.13.1151 od 16. novembra 2026. Do tada je stajao na nuli jer skripta taj događaj nije slala. Ako ga pratite na svojoj prodavnici, poredite samo dane posle ažuriranja.
+
+## Dva izveštaja odgovaraju na dva pitanja
+
+ManyChat kaže koja objava i koja automatizacija donose razgovore i kontakte, i koliko brzo tim odgovara. To su pitanja za content tim i podršku.
+
+Niwa kaže šta se desilo u prodavnici. Koliko je razgovora bilo po kanalu, koliko je ljudi stiglo sa društvenih mreža, koliko ih je kupilo, koliko su koštali Meta oglasi i koliko je razgovora Niwa završila bez vas. To pita vlasnik koji plaća oglase.
+
+Za WooCommerce prodavnicu presudno je gde podaci žive. Niwa čita porudžbine iz WooCommerce-a i menja konverziju kada se porudžbina otkaže ili refundira. Kod ManyChat-a WooCommerce prodaja ulazi u izveštaj tek kada je sajt prijavi kroz Pixel, CAPI ili posrednika. To je dodatni posao i još jedno mesto gde se podatak izgubi.
+
+## Nedeljni pregled za dvadesetak minuta
+
+Redosled ispod pratimo u Niwa izveštajima. Sa ManyChat-om važi isti redosled, samo brojke skupljate iz dva ili tri alata.
+
+### Razgovori po kanalu naspram prošlog perioda
+
+Otvorite 30 dana. Ako Instagram razgovori rastu, a dodavanja u korpu i porudžbine stoje, problem nije u broju poruka. Ili odgovor ne vodi na pravi proizvod, ili stranica na koju vodi ne prodaje.
+
+### Udeo razgovora predatih čoveku
+
+Kada taj udeo raste, to je signal, a ne kvar. Otvorite razgovore i pročitajte poslednjih pet predatih. Ako se ponavlja isto pitanje, recimo rok dostave za neki grad, dodajte odgovor na sajt i u Niwa uputstva. Sam trenutak predaje opisali smo u tekstu [kupac u Instagram DM-u traži čoveka](/blog/kupac-trazi-coveka-instagram-dm-woocommerce-niwa-ai-manychat-2026).
+
+### Sati u kojima ljudi pišu
+
+Stavite mapu pored stvarnog radnog vremena. Ako najviše razgovora stiže nedeljom uveče, a tada niko ne preuzima predate razgovore, kupci sa najvećom korpom čekaju do ponedeljka.
+
+### Društvene mreže i plaćene kampanje u saobraćaju
+
+Ovde vidite koliko je sesija stiglo sa Instagrama i Facebooka i koliko se završilo porudžbinom. Niwa koristi last non-direct atribuciju sa kolačićem od 90 dana i broji pregledače, a ne potvrđene osobe. Ako pregledač ne prosledi odakle posetilac dolazi, Niwa izvor ne pogađa. Zato linkove u bio-u, Story-ju i oglasima označite UTM parametrima, a za plaćene objave dodajte utm_medium=paid_social. Sam Facebook click ID Niwa ne tretira kao dokaz plaćenog oglasa.
+
+### Cena po rezultatu naspram cene po porudžbini
+
+Meta "rezultat" je ono za šta je kampanja optimizovana: klik, poruka ili poseta. Porudžbina to nije. Zato potrošnju iz prikaza Meta oglasa stavite pored porudžbina iz plaćenih kampanja u izveštaju o saobraćaju.
+
+## Ilustrativan mesec
+
+Brojke ispod su izmišljene i služe samo da pokažu računicu. Nisu izmerene ni na jednom Niwa ili ManyChat nalogu.
+
+Prodavnica za 30 dana ima 210 Instagram razgovora, naspram 150 u prethodnom periodu, što je rast od 40%. Od 300 razgovora na svim kanalima, 24 su predata čoveku, odnosno 8%. Meta kampanje su potrošile 48.000 dinara za 600 rezultata, pa je cena po rezultatu 80 dinara. Deluje odlično.
+
+Iz plaćenih kampanja je stiglo 540 sesija i 12 porudžbina, ukupno 96.000 dinara. Konverzija je 2,2%, jedna porudžbina košta 4.000 dinara, a prihod je dva puta veći od potrošnje. Sa bruto maržom od 35%, zarada na tim porudžbinama je 33.600 dinara, što je 14.400 dinara manje od onoga što je otišlo na oglase.
+
+Izveštaj koji broji poslate poruke i kontakte prikazao bi ovaj mesec kao uspeh. Izveštaj koji vidi porudžbine i maržu pokazuje da kampanja gubi novac na prvoj kupovini. Da li se to ipak isplati zavisi od toga koliko se ti kupci vraćaju, ali tu odluku donosite sa brojem u ruci. Kako da odredite granicu, objasnili smo u tekstu o [bruto marži i marketinškom budžetu](/blog/bruto-marza-marketing-budzet-roi-srbija-2026).
+
+## Šta Niwa ne meri
+
+Niwa ne povezuje Instagram profil sa porudžbinom, jer atribucija ide preko pregledača. Nema ni rang listu objava. Ako vas pre svega zanima koji Reel donosi poruke, ManyChat Analytics ili Instagram Insights na to odgovaraju bolje.
+
+Lista najčešćih pitanja na koja Niwa još nema odgovor dolazi iz chata na sajtu, ne iz Instagram poruka. Detaljni podaci o saobraćaju čuvaju se 90 dana. Starije dane Niwa sabira u dnevne zbirove, pa se za taj deo perioda broje sesije po danu, a ne pojedinačni ljudi.
+
+## Koji izveštaj treba vlasniku WooCommerce prodavnice
+
+Ako je Instagram vaš glavni kanal za sadržaj, a prodaja se dešava i van sajta, ManyChat leaderboard i analitika Inbox-a imaju smisla. Ako novac stiže kroz WooCommerce checkout, Niwa je bolji izbor. Razgovori sa Instagrama, Messengera, WhatsApp-a i sajta, saobraćaj, Meta potrošnja i porudžbine sa refundacijama stoje u jednom WordPress adminu, bez Pixel-a koji morate da povezujete i bez treće aplikacije u sredini.
+
+Ako razgovora ima, a prodaje nema, prvo pogledajte [zašto web shop nema prodaju](/web-shop-nema-prodaju). Ako želite da znate koliko oglasi smeju da koštaju, krenite od [cena digitalnog marketinga](/cene-digitalnog-marketinga) i [cene Instagram reklama](/instagram-reklame-cena).
+
+Niwa nudi i [besplatnu analizu konverzija i primene AI-ja u WooCommerce-u](https://niwachat.com/sr/free-woocommerce-ai-audit-sr/), ako hoćete da njihov tim prvo pogleda vašu prodavnicu.
+
+Ako želite da zajedno postavimo nedeljni izveštaj za vašu prodavnicu, pošaljite nam kroz [kontakt formu](/kontakt) adresu sajta, link ka Instagram profilu i spisak oglasa koje trenutno vodite. Proći ćemo kroz vaše UTM oznake i pokazati koje brojke vredi gledati svakog ponedeljka.
+`,
+  },
+  {
     slug: 'bivsi-klijenti-povratak-neaktivnih-klijenata-prodajni-proces-srbija-2026',
     title: 'Bivši klijenti u Srbiji 2026: kako vratiti one koji su prestali da kupuju',
     excerpt: 'Klijent koji je već platio pa nestao jeftiniji je od novog leada, ako znate zašto je otišao. Kako ga vratiti, šta mu reći i kako izmeriti stvarni povratak.',
