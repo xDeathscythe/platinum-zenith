@@ -295,6 +295,8 @@ app.use((req, res) => {
 
 // Global error handler
 app.use((err, req, res, next) => {
+  // body-parser marks client errors (malformed JSON, oversized body) with expose + 4xx status
+  if (err.expose && err.status >= 400 && err.status < 500) return res.status(err.status).json({ error: 'Invalid request body' })
   console.error('Unhandled error:', err)
   res.status(500).json({ error: 'Internal server error' })
 })
