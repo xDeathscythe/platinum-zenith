@@ -1,5 +1,136 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-slep-sluzbu-pomoc-na-putu-cena-poziva-srbija-2026',
+    title: 'Google Ads za šlep službu i pomoć na putu: koliko sme da košta poziv u Srbiji 2026',
+    excerpt: 'Šlep služba plaća klik i kad je kamion na drugom kraju grada. Koliko sme da košta poziv, kako meriti pozive bez Google brojeva i šta isključiti pred zimu.',
+    date: '2026-11-17',
+    readTime: '9 min read',
+    category: 'Google Ads',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Šlep služba', 'Pomoć na putu', 'Praćenje poziva', 'Lokalni biznis', 'CPL'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+Prvi jači mraz obično znači jutro sa mnogo mrtvih akumulatora i telefon šlep službe koji zvoni pre sedam. Ko je tog jutra na vrhu pretrage za „šlep služba Novi Sad", dobija posao. Ko nije, gleda kako ga uzima kolega sa boljim oglasom i sporijim kamionom.
+
+Šlep služba je posebna niša za Google Ads. Kupac ne upoređuje ponude tri dana. Stoji pored auta, često na hladnom, i zove prvi broj koji izgleda ozbiljno. Odluka traje minut, a posao ide onome ko se javi i kaže realno vreme dolaska.
+
+Ovaj tekst je za vlasnike šlep službi i pomoći na putu koji već plaćaju oglase ili razmišljaju o tome. Gledamo koliko sme da košta poziv po vrsti posla, kako se mere pozivi u Srbiji kad Google ovde nema svoje brojeve za praćenje i zašto zauzet kamion pravi najskuplje klikove u nalogu.
+
+## Ista reč, tri različite cene poziva
+
+Reč „šlep" krije bar tri namere i svaka vredi drugačije.
+
+Prva je hitna pomoć u gradu. „Šlep služba Beograd non stop", „auto neće da upali", „pomoć na putu blizu mene". Čovek zove odmah, često zove dva ili tri broja i uzima onoga ko prvi stigne.
+
+Druga je kvar na autoputu ili između gradova. Posao je veći jer je put duži, a izbor je manji, jer u dva posle ponoći na praznoj deonici autoputa ne javlja se mnogo službi.
+
+Treća je planirani prevoz: kupljen auto koji nije registrovan, vozilo za servis ili tehnički, auto iz inostranstva. Tu kupac ima vremena, šalje upit, upoređuje cene i bira za dan ili dva.
+
+Evo kako to izgleda u brojkama. Primer je izmišljen, cifre zamenite svojim. Pretpostavka je da firma na oglase daje najviše 35% bruto profita od jednog posla.
+
+- **Gradsko šlepanje:** naplata 6.000 din, direktan trošak (gorivo, vozač, habanje) 2.600 din, bruto profit 3.400 din. Na oglase ide do 1.190 din po poslu. Ako od 100 klikova na dugme za poziv nastane 31 posao, klik sme da košta do 369 din.
+- **Autoput i međugradski posao:** naplata 16.000 din, trošak 7.200 din, bruto profit 8.800 din. Na oglase ide do 3.080 din po poslu. Uz 38 poslova na 100 klikova, klik sme da košta do 1.170 din.
+- **Planirani prevoz preko forme:** naplata 12.000 din, trošak 5.400 din, bruto profit 6.600 din. Ako 8% posetilaca pošalje upit, a svaki četvrti upit postane posao, klik sme da košta samo 46 din.
+
+Poslednja stavka iznenadi većinu vlasnika. Planirani prevoz deluje kao mirniji posao, ali kupac stigne da pita pet firmi, pa je klik koji vodi na formu najslabiji novac u nalogu. Takve poslove češće donose dogovori sa auto placevima, servisima i uvoznicima nego široka kampanja.
+
+Zato kampanje treba razdvojiti po nameri. Kad su sve u jednoj, Google troši budžet tamo gde je klik najlakši, a ne tamo gde je posao najvredniji. Kako se računa granica cene po upitu za bilo koju delatnost, objasnili smo u tekstu o [maksimalnoj ceni leada](/blog/maksimalna-cena-leada-srbija-2026).
+
+## Pozivi u Srbiji: šta Google meri, a šta ne
+
+Ovde mnogi vlasnici veruju brojki u nalogu više nego što bi trebalo.
+
+U zemljama gde Google ima svoje brojeve za prosleđivanje (Google forwarding numbers), oglas prikazuje poseban broj, Google beleži trajanje svakog poziva i računa konverziju tek kad razgovor traje duže od minimuma koji ste zadali. Srbija nije na [Google listi zemalja sa tim brojevima](https://support.google.com/google-ads/answer/2454052?hl=en). Prema [Google pomoći o praćenju poziva](https://support.google.com/google-ads/answer/6100664?hl=en), bez njih ne rade pozivi iz oglasa sa merenjem trajanja, pozivi na broj sa sajta ni uvoz poziva iz CRM-a.
+
+Šta ostaje? Klik na dugme za poziv u oglasu, koji Google računa kao konverziju na osnovu svoje procene da li je posle klika bilo pravog razgovora. I klik na broj na mobilnoj verziji sajta, gde Google vidi klik, ali ne i poziv.
+
+Broj konverzija u nalogu šlep službe u Srbiji je, dakle, procena. Stvarni rezultat stoji u svesci dispečera ili u CRM-u.
+
+Postavka koja radi u praksi:
+
+- **Poseban broj samo za Google oglase.** Broj ide u call asset i na stranicu na koju vodi oglas, nigde drugde. Spisak poziva na tom broju je onda gruba, ali poštena slika onoga što donose oglasi.
+- **Dispečer beleži svaki poziv.** Vreme, lokacija, vrsta posla, da li je kamion poslat i koliko je naplaćeno. Deset sekundi po pozivu.
+- **Nedeljno poređenje.** Klikovi na poziv u Google Ads-u, pozivi na posebnom broju i odrađeni poslovi sa tog broja. Ako je prva brojka mnogo veća od druge, deo klikova su slučajni dodiri ili ljudi koji su odustali pre nego što je zazvonilo.
+- **Forma za planirani prevoz sa skrivenim GCLID poljem.** Google [podržava uvoz kvalifikovanih leadova](https://support.google.com/google-ads/answer/7012522?hl=en) preko GCLID-a, pa u nalog možete da vratite samo upite koji su postali posao. To radi i bez Google brojeva.
+
+Ako telefon zvoni, a niko se ne javi, to je posebna rupa. O tome smo pisali u tekstu o [propuštenim pozivima iz kampanja](/blog/propusteni-pozivi-iz-kampanja-leadovi-prodaja-srbija-2026).
+
+## Zauzet kamion je najskuplji klik
+
+Google ne zna gde vam je kamion. Oglas se prikazuje i kad je jedini slobodan vozač na drugom kraju grada sa autom na platformi.
+
+Nastavak istog primera. Kamion je dostupan 14 sati dnevno, gradski posao sa dolaskom traje oko sat i po, pa kamion stigne najviše 9 poslova dnevno. Pet dolazi od servisa, osiguranja i preporuka. Za oglase ostaju 4 posla dnevno, oko 120 mesečno. Za to treba oko 387 klikova na poziv. Ako klik u proseku košta 150 din, korisna gornja granica budžeta je oko 58.000 din mesečno. Sve preko toga kupuje pozive za koje nemate kamion.
+
+Ni ispod te granice pozivi ne stižu ravnomerno. Recimo da četvrtina klikova stigne dok je kamion zauzet i da pola tih ljudi neće da čeka. To je 48 klikova i oko 7.300 din mesečno koji odlaze konkurenciji.
+
+Šta pomaže:
+
+- **Raspored za call asset.** Google dozvoljava da [broj prikazujete samo u danima i satima kad se javljate](https://support.google.com/google-ads/answer/2453991?hl=en). Ako noću niko ne diže slušalicu, broj ne treba da se prikazuje noću.
+- **Pošteno vreme dolaska u prvoj rečenici.** „Kamion je na poslu, kod vas sam za sat i deset." Neki će otići. Oni koji ostanu neće zvati drugog dok čekaju.
+- **Dogovor sa kolegom iz drugog dela grada.** Kad je kamion zauzet, posao ide kolegi za dogovorenu proviziju. Klik koji biste izgubili tako donosi prihod. U primeru, sa 1.000 din provizije po poslu, to je oko 15.000 din mesečno.
+- **Ručno smanjenje budžeta kad je kamion u kvaru ili na dugoj relaciji.** Nijedno automatsko pravilo u nalogu ne zna stanje vozila.
+
+Kako se marketing budžet vezuje za kapacitet, objasnili smo u tekstu o [iskorišćenosti kapaciteta](/blog/iskoriscenost-kapaciteta-marketing-budzet-roi-srbija-2026).
+
+## Negativne ključne reči: „slepa" nije uvek slepa
+
+Ljudi u panici kucaju brzo i bez kvačica: „slep sluzba", „slep auta cena", „pomoc na putu". Kampanja mora da hvata obe verzije.
+
+Tu nastaje zamka koju retko ko primeti. „Šlepa" bez kvačica je „slepa". Ko u negativne ključne reči stavi samo „slepa" da bi sklonio pretrage o slepim osobama, isključio je i „cena slepa za auto". Isključujte cele fraze: „slepi miš", „slepo crevo", „slepa ulica", „slepi putnik".
+
+Ostale negativne reči koje šlep službe obično dodaju:
+
+- prodaja opreme: „šlep kamion prodaja", „polovni šlep", „platforma za šlep cena", „na rate";
+- posao: „posao vozač šlep službe", „oglasi za posao";
+- igračke i igrice: „šlep igračka", „šlep igrica", „crtani";
+- usluge koje ne radite, recimo iznajmljivanje prikolice ili otključavanje auta.
+
+Prema [Google pomoći za negativne ključne reči](https://support.google.com/google-ads/answer/2453972?hl=en), negativne reči ne hvataju bliske varijante, pa jedninu i množinu treba dodati posebno. Za srpski to znači i padeže: šlep, šlepa, šlepu, šlepom, šlepovi. Više o tome piše u tekstu o [tipovima podudaranja ključnih reči](/blog/tipovi-podudaranja-kljucnih-reci-google-ads-lead-generation-srbija-2026).
+
+Usluge na licu mesta zaslužuju svoju grupu oglasa: „paljenje auta kablovima", „dostava akumulatora", „zamena gume na putu", „nestalo goriva". To su manji poslovi, ali u hladna jutra dolaze u talasima i kraće traju od šlepanja.
+
+Lokacija je druga polovina posla. Vozač kome je auto stao na autoputu nalazi se tamo gde je auto, pa kampanja za autoput treba da cilja ljude koji su fizički u zoni, a ne one koje ta lokacija samo zanima. Razliku između te dve opcije objasnili smo u tekstu o [ciljanju lokacije u Google Ads](/blog/google-ads-ciljanje-lokacije-prisustvo-interesovanje-srbija-2026).
+
+## Pozivni oglasi odlaze, call asset ostaje
+
+Mnoge šlep službe su godinama radile sa pozivnim oglasima (call-only ads), gde je ceo oglas jedno dugme za poziv. Google ih gasi. Od februara 2026. novi ne mogu da se naprave, a od februara 2027. postojeći prestaju da se prikazuju, piše u [Google obaveštenju o prelasku na call assete](https://support.google.com/google-ads/answer/16598240?hl=en).
+
+Ako vaš nalog još vrti stari pozivni oglas, napravite responzivni oglas za pretragu sa call assetom u istoj grupi, pustite ga da radi pored starog i ugasite stari kad novi dobije prikazivanja. Uradite to pre zimske sezone, ne u februaru kad stari oglas nestane.
+
+Novi format ima jednu korist. Oglas sada vodi i na stranicu, pa onaj ko ne zove odmah može da vidi cenu, zonu i kamion. Na toj stranici treba da budu broj na vrhu, zona koju pokrivate, okvirna cena (polazak plus kilometar), način plaćanja i prava fotografija vašeg kamiona. To je dovoljno.
+
+## Zima, leto i ostatak godine
+
+Hladna jutra donose prazne akumulatore i klizave puteve. Leti autoput puni tranzit i dijaspora, pa ima više kvarova na dugim relacijama. Između toga je mirnije.
+
+Budžet zato ne treba da bude isti svakog meseca. Kampanju za usluge na licu mesta pojačajte kad prognoza najavi minus, a kampanju za autoput u julu i avgustu. Ko sezonu ne prati kroz budžet, plaća isti iznos i u mirnim nedeljama i u nedeljama kad telefon ne staje.
+
+Slično pravilo važi za [vulkanizere](/blog/google-ads-za-vulkanizere-cena-termina-srbija-2026). Ako uz šlep imate i radionicu, pogledajte i [Google Ads za auto servise](/blog/google-ads-za-autoservise-cena-leada-srbija-2026) i našu stranicu o [marketingu za auto servise](/marketing-za-autoservise).
+
+## Kada Google Ads nema smisla za šlep službu
+
+Ako imate jedan kamion koji je već pun poslova od osiguranja i servisa, oglasi donose pozive koje ne stižete da odradite. Prvo drugi kamion ili dogovor sa kolegom, pa tek onda oglasi.
+
+Isto važi ako niko ne beleži pozive. Bez sveske dispečera ne znate da li je mesec bio dobar zbog oglasa ili zbog snega.
+
+## Šta da uradite ove nedelje
+
+- Proverite da li nalog još ima pozivne oglase i napravite zamenu sa call assetom.
+- Razdvojite kampanje na grad, autoput, planirani prevoz i usluge na licu mesta.
+- Uvedite poseban broj za Google oglase i zapis za svaki poziv.
+- Podesite raspored call asseta prema satima kad se stvarno javljate.
+- Izračunajte maksimalnu cenu klika po vrsti posla sa svojim cenama i troškovima.
+- Dodajte negativne fraze, bez reči „slepa" same za sebe.
+
+Ako želite da neko pogleda vaš nalog i izračuna granice po vrsti posla, pogledajte kako radi naša [Google Ads agencija](/google-ads-agencija) i koliko košta vođenje kampanja na stranici [cena Google reklama](/google-reklame-cena). Pregled svih paketa je na stranici [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+[Pošaljite nam upit](/kontakt) sa gradom i brojem kamiona, pa ćemo vam reći gde nalog troši novac na pozive koje ne možete da prihvatite.
+`,
+  },
+  {
     slug: 'analitika-instagram-dm-prodaje-woocommerce-niwa-ai-manychat-2026',
     title: 'Analitika Instagram DM prodaje za WooCommerce: Niwa AI vs ManyChat izveštaji',
     excerpt: 'ManyChat broji poslate poruke i kontakte po objavi. Niwa pokazuje šta se posle DM-a desilo u WooCommerce prodavnici. Koje brojke gledati svake nedelje.',

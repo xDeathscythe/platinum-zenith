@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-slep-sluzbu-pomoc-na-putu-cena-poziva-srbija-2026",
+    "title": "Google Ads za šlep službu i pomoć na putu: koliko sme da košta poziv u Srbiji 2026",
+    "excerpt": "Šlep služba plaća klik i kad je kamion na drugom kraju grada. Koliko sme da košta poziv, kako meriti pozive bez Google brojeva i šta isključiti pred zimu.",
+    "date": "2026-11-17",
+    "category": "Google Ads",
+    "readTime": "9 min read",
+    "isDraft": false
+  },
+  {
     "slug": "analitika-instagram-dm-prodaje-woocommerce-niwa-ai-manychat-2026",
     "title": "Analitika Instagram DM prodaje za WooCommerce: Niwa AI vs ManyChat izveštaji",
     "excerpt": "ManyChat broji poslate poruke i kontakte po objavi. Niwa pokazuje šta se posle DM-a desilo u WooCommerce prodavnici. Koje brojke gledati svake nedelje.",
