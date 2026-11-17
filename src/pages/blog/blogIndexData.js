@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "ab-test-stranice-instagram-dm-woocommerce-niwa-ai-manychat-2026",
+    "title": "A/B test stranice posle Instagram DM-a: Niwa AI vs ManyChat za WooCommerce",
+    "excerpt": "ManyChat testira poruku u DM-u. Niwa testira WordPress stranicu na koju poruka vodi i broji plaćene WooCommerce porudžbine. Kako postaviti test koji meri novac.",
+    "date": "2026-11-17",
+    "category": "E-Commerce",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-slep-sluzbu-pomoc-na-putu-cena-poziva-srbija-2026",
     "title": "Google Ads za šlep službu i pomoć na putu: koliko sme da košta poziv u Srbiji 2026",
     "excerpt": "Šlep služba plaća klik i kad je kamion na drugom kraju grada. Koliko sme da košta poziv, kako meriti pozive bez Google brojeva i šta isključiti pred zimu.",

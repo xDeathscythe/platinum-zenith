@@ -1,5 +1,112 @@
 const rawBlogPosts = [
   {
+    slug: 'ab-test-stranice-instagram-dm-woocommerce-niwa-ai-manychat-2026',
+    title: 'A/B test stranice posle Instagram DM-a: Niwa AI vs ManyChat za WooCommerce',
+    excerpt: 'ManyChat testira poruku u DM-u. Niwa testira WordPress stranicu na koju poruka vodi i broji plaćene WooCommerce porudžbine. Kako postaviti test koji meri novac.',
+    date: '2026-11-17',
+    readTime: '8 min read',
+    category: 'E-Commerce',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Niwa AI', 'ManyChat', 'WooCommerce', 'A/B test', 'Instagram DM', 'Konverzija'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+Odgovor u Instagram DM-u dobije klik. Kupac stigne na stranicu kampanje, pogleda je i ode. Posle toga se obično prepravlja poruka u DM-u, jer se ona najlakše menja. Problem je često na stranici, a ne u poruci.
+
+Ovaj tekst je deo serijala o tome kako se [Niwa AI i ManyChat](/blog/niwa-ai-vs-manychat-wordpress-woocommerce-2026) ponašaju u WooCommerce prodavnici. Pitanje je ovde uže: kako da testirate dve verzije stranice na koju DM vodi i da pobednika birate po plaćenim porudžbinama, a ne po klikovima.
+
+## ManyChat testira poruku
+
+ManyChat za testiranje ima blok [Randomizer](https://help.manychat.com/en/articles/17741918-randomizer). Ubacite ga u automatizaciju, dodate dve ili više varijacija i podesite procente. Ako opcija Random path every time nije uključena, kontakt pri prvom prolazu dobije grupu i u njoj ostaje, pa isti čovek pri sledećem pokretanju opet vidi istu verziju. U istom članku ManyChat piše da kod velikog broja kontakata raspodela ide u serijama i ume da ispadne neravnomerna.
+
+Randomizer je dobar alat kada pitate koja poruka dobija više odgovora ili klikova. Kraći ili duži prvi odgovor, popust u prvoj ili tek u drugoj poruci, pitanje ili link odmah. Na to odgovara u okviru jednog flow-a.
+
+Šta se desilo na sajtu, ManyChat vidi preko [Manychat Pixel-a](https://help.manychat.com/hc/en-us/articles/14281244168476-Manychat-Pixel). Pixel radi samo na plaćenim planovima. Kontakt mora da klikne dugme Open website, ManyChat na link doda parametar mcp_token, a sesija se pamti 28 dana. Kupovinu sa sajta Pixel vidi tek kada je sajt prijavi pozivom fireLogMoneyEvent, na primer na stranici za uspešno plaćanje. U WooCommerce-u to znači da neko mora da ubaci i održava taj kod. Kada ga ubacite, vidite konverzije po flow-u. I dalje, međutim, testirate poruku. Stranica na koju poruka vodi ista je za sve.
+
+## Niwa testira stranicu na koju poruka vodi
+
+Niwa ima A/B testove u WordPress adminu, pod Sadržaj, A/B testovi. Isto može da se zatraži u Niwa chatu u adminu ili preko Telegrama. Test poredi dve objavljene, javne WordPress stranice i deli posetioce pola-pola. Cilj birate pri pravljenju testa: novi kontakt ili plaćena porudžbina. Druga opcija postoji kada je WooCommerce aktivan.
+
+Kako to radi u kodu plugina:
+
+- posetilac dobija jednu verziju pri prvoj poseti i zadržava je, jer se dodela čuva u bazi uz Niwa sesiju koju potpisuje server;
+- poseta se računa tek kada se dodeljena stranica stvarno prikaže, a ponovni pregledi i ponovljene konverzije istog posetioca ne broje se dvaput;
+- UTM parametri iz linka prelaze na verziju B pri preusmeravanju, pa izvor kampanje ostaje vidljiv;
+- verzija B dobija noindex i canonical ka originalu, pa test ne pravi duplikat za Google;
+- pri checkout-u Niwa upiše na porudžbinu koju je verziju kupac video, a porudžbina se računa kada pređe u status U obradi ili Završeno.
+
+Stranica se ne menja preko vaše glave. Niwa na zahtev može da napravi verziju B postojećim alatima za uređivanje stranica, ali test uvek kreće pauziran, dok ga vi ne pokrenete. Završen test ne može ponovo da se pokrene. Za novu hipotezu pravite novi test.
+
+## Od komentara do plaćene porudžbine
+
+Ovako izgleda ceo tok kada Niwa vodi i Instagram i sajt. Primer je praktičan predlog postavke, ne podrazumevano podešavanje.
+
+Kupac ostavi komentar ispod Reela o zimskoj kolekciji i pita za cenu. Niwa mu pošalje jedan privatni odgovor. Kada on nastavi u DM-u, Niwa odgovara iz znanja sa sajta: cene, veličine, dostava. U uputstvima flow-a ste napisali da za ovu kampanju šalje adresu stranice zimske kolekcije, i to originalnu, verziju A.
+
+Kupac otvori link, najčešće u pregledaču unutar Instagram aplikacije. Niwa ga nasumično dodeli verziji A ili B. Ako dobije B, pregledač ga prebaci tamo, sa istim UTM oznakama. Doda proizvod u korpu i plati. Porudžbina nosi oznaku verzije, i kada pređe u U obradi, ta verzija dobija jednu konverziju.
+
+ManyChat u istom scenariju zna da je kontakt kliknuo, a uz Pixel i da je kupio. Niwa zna koja je verzija stranice prodala. Vlasnik koji plaća oglase i robu zarađuje na tom drugom podatku.
+
+## Šta se broji, a šta ne
+
+Pravila treba znati pre nego što pogledate prve brojke.
+
+Test radi samo na običnim WordPress stranicama. Stranice proizvoda i korpa nisu u igri, pa se testira stranica kampanje, kolekcije ili ponude. Administratori, posetioci bez JavaScript-a ili kolačića i oni kojima je u pregledaču uključen GPC ili Do Not Track ne ulaze u test. Neki posetioci na trenutak vide početnu stranicu pre nego što ih skripta prebaci.
+
+Kupovina se računa jednom po posetiocu, kao prva plaćena porudžbina u roku od 30 dana od prve posete. To nije prihod, i kasnija refundacija ne briše tu konverziju. Za srpsko tržište ovo je bitno. WooCommerce porudžbinu pouzećem po pravilu odmah stavlja u status U obradi, pa se računa i paket koji kupac posle odbije. Ako vam je stopa odbijenih pošiljki visoka, uporedite verzije i po vraćenim paketima pre nego što izaberete pobednika. Uplata na račun ulazi u test tek kada porudžbinu prebacite u U obradi.
+
+Posetilac je pregledač, ne osoba. Ko otvori link u Instagram aplikaciji, a kupi kasnije sa laptopa, za test je drugi posetilac. Niwa ovde ne povezuje uređaje i ne pogađa ko je ko.
+
+Izveštaj pokazuje posetioce, konverzije i procenat za svaku verziju, uz Wilson interval od 95%. Pobednika ne proglašava sama. To je namerno, i to je dobro.
+
+## Ilustrativan test
+
+Brojke ispod su izmišljene i služe samo za računicu. Nisu merene ni na jednoj prodavnici.
+
+Za dve nedelje svaka verzija dobije po 600 posetilaca. Verzija A ima 12 porudžbina, odnosno 2%. Verzija B ima 18, odnosno 3%. Uz prosečnu porudžbinu od 6.000 dinara, B je donela 108.000 dinara, a A 72.000. Primamljivo je odmah proglasiti B.
+
+Intervali kažu nešto drugo. Za A Wilson interval od 95% ide od 1,15% do 3,46%, a za B od 1,91% do 4,69%. Velikim delom se preklapaju, pa razlika od šest porudžbina još uvek može biti slučajna.
+
+Da biste pouzdano uhvatili razliku između 2% i 3%, uz uobičajenih 95% sigurnosti i 80% snage testa, treba vam oko 3.830 posetilaca po verziji. Sa 300 posetilaca nedeljno po verziji, to je oko 13 nedelja. Ako testirate veću promenu i očekujete skok sa 2% na 4%, dovoljno je oko 1.140 posetilaca po verziji, odnosno oko četiri nedelje.
+
+Za manju prodavnicu pouka je jednostavna: ne testirajte boju dugmeta. Testirajte promene koje mogu da pomere prodaju za ceo procenat, kao što su ponuda, cena dostave istaknuta na stranici, redosled proizvoda ili odgovor na glavni prigovor kupaca.
+
+## Kako da postavite prvi test
+
+### Jedna stranica, jedna promena
+
+Uzmite stranicu na koju već šaljete saobraćaj iz DM-a, bio-a ili oglasa. Promenite jednu stvar koju možete da objasnite jednom rečenicom. Ako menjate sve odjednom, nećete znati šta je pomoglo.
+
+### Verzija B i čist keš
+
+Verzija B je posebna objavljena stranica. Napravite je sami ili tražite od Niwe da je napravi. Posle toga očistite HTML keš i proverite obe verzije u pregledaču u kojem niste ulogovani. Ulogovan administrator ne ulazi u test, pa iz admina nećete videti preusmeravanje.
+
+### Trajanje zapisano pre starta
+
+Pre pokretanja zapišite koliko posetilaca ili nedelja test traje. Ne gasite ga čim jedna verzija povede, jer se tako najčešće bira pogrešan pobednik.
+
+### Saobraćaj ide na verziju A
+
+U uputstvima Niwa flow-a za tu kampanju navedite adresu originalne stranice. Isto važi za link u bio-u i oglase. Linkove označite UTM parametrima, a za plaćene objave dodajte utm_medium=paid_social, da bi [izveštaji o saobraćaju](/blog/analitika-instagram-dm-prodaje-woocommerce-niwa-ai-manychat-2026) razdvojili organski i plaćeni Instagram.
+
+### Završetak i zapisana odluka
+
+Kada istekne zadati period, završite test, pobedničku verziju stavite na glavnu adresu i zapišite šta ste naučili. Sledeća hipoteza je novi test.
+
+## Kada je ManyChat dovoljan, a kada je Niwa bolji izbor
+
+Ako prodaja ide kroz DM ili van sajta i zanima vas koja poruka dobija više odgovora, ManyChat Randomizer radi taj posao. Ako je glavno pitanje koja verzija stranice donosi plaćene porudžbine u WooCommerce-u, Niwa je bolji izbor. Test stoji u istom WordPress-u kao i porudžbine, kupovina se upisuje na serveru pri checkout-u, a Instagram, Facebook i chat na sajtu odgovaraju iz istog znanja o prodavnici. Ne morate ručno da ubacujete Pixel događaje na stranicu zahvalnosti.
+
+Ako stranica uopšte ne prodaje, test dve slabe verzije neće pomoći. Prvo pogledajte [zašto web shop nema prodaju](/web-shop-nema-prodaju) i kako izgleda [optimizacija konverzije](/cro). Osnove testiranja smo objasnili u tekstu o [A/B testiranju sajta](/blog/ab-testiranje-sajta-srbija-2026), a koliko smeju da koštaju posete iz oglasa u pregledu [cena Instagram reklama](/instagram-reklame-cena).
+
+Niwa tim nudi i [besplatnu analizu konverzija i primene AI-ja u WooCommerce-u](https://niwachat.com/sr/free-woocommerce-ai-audit-sr/), korisnu ako hoćete da neko prvo pogleda stranice na koje vodi vaš DM.
+
+Ako želite da zajedno izaberemo prvu hipotezu i izračunamo koliko test treba da traje, pošaljite nam kroz [kontakt formu](/kontakt) adresu stranice kampanje i okviran broj poseta nedeljno. Vratićemo vam predlog promene i trajanje testa pre nego što bilo šta pokrenete.
+`,
+  },
+  {
     slug: 'google-ads-za-slep-sluzbu-pomoc-na-putu-cena-poziva-srbija-2026',
     title: 'Google Ads za šlep službu i pomoć na putu: koliko sme da košta poziv u Srbiji 2026',
     excerpt: 'Šlep služba plaća klik i kad je kamion na drugom kraju grada. Koliko sme da košta poziv, kako meriti pozive bez Google brojeva i šta isključiti pred zimu.',
