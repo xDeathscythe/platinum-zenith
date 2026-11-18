@@ -1,5 +1,138 @@
 const rawBlogPosts = [
   {
+    slug: 'ugovor-sa-marketing-agencijom-minimalno-trajanje-otkazni-rok-cena-izlaska-srbija-2026',
+    title: 'Ugovor sa marketing agencijom: minimalno trajanje, otkazni rok i cena izlaska u Srbiji 2026',
+    excerpt: 'Ugovor na 12 meseci izgleda jeftinije dok ne poželite da odete. Kako izračunati cenu izlaska, otkazni rok i proveriti da li su Google i Meta nalozi vaši.',
+    date: '2026-11-18',
+    readTime: '9 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Marketing agencija', 'Ugovor', 'Otkazni rok', 'Google Ads', 'Meta oglasi', 'Budžet'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+Ugovor sa agencijom se često čita dva puta. Prvi put na brzinu, pre potpisa. Drugi put pažljivo, kad kampanja posle tri meseca ne donosi posao i treba otići. Tada se ispostavi da je najskuplja stavka u ugovoru bila ona koju niko nije gledao: cena izlaska.
+
+Ovaj tekst je za vlasnike firmi koji upoređuju ponude agencija ili već imaju ugovor i pitaju se koliko bi ih koštalo da odu. Gledamo četiri stvari koje određuju tu cenu: minimalno trajanje, otkazni rok, čiji su oglasni nalozi i ko plaća Google i Meta. Za svaku postoji računica ili konkretna provera koju možete uraditi danas.
+
+## Minimalno trajanje: popust koji plaćate unapred
+
+Ugovor na 12 meseci obično dolazi uz nižu mesečnu cenu. To zvuči kao ušteda, ali zapravo prodajete agenciji svoje pravo da odete. Pitanje je samo da li je cena dobra.
+
+Primer je izmišljen, ubacite svoje cifre:
+
+- Ponuda A: početno podešavanje 60.000 din, zatim 50.000 din mesečno, obavezno 12 meseci.
+- Ponuda B: bez početne naknade, 70.000 din mesečno, otkaz uz rok od 30 dana.
+
+Ako ostanete celu godinu, A košta 660.000 din, a B 840.000 din. A je jeftinija za 180.000 din i tu se razgovor obično završi.
+
+Sada pretpostavite da posle tri meseca vidite da saradnja ne radi. Kod ponude A i dalje dugujete svih 660.000 din, ako ugovor kaže da se plaćaju preostali meseci. Kod ponude B plaćate tri meseca plus mesec otkaznog roka, ukupno 280.000 din.
+
+Razlika između ta dva ishoda je 380.000 din. Granica je oko 32%: kad je verovatnoća da odete posle tri meseca tolika, obe ponude u proseku koštaju isto. Ako mislite da je šansa za neuspeh veća od otprilike jedne trećine, mesečni ugovor je jeftiniji iako je skuplji po mesecu. Kod 40% očekivani trošak ponude B pada na 616.000 din, ispod 660.000 din za ponudu A.
+
+Druga korisna brojka: ponuda B stiže do ukupne cene ponude A tek posle devet i po meseci. Ko nije siguran da će izdržati devet meseci sa novom agencijom, nema razloga da se veže na dvanaest.
+
+Dugačak ugovor nije automatski loš. Ima smisla kad agencija na početku radi veliki posao koji se ne vraća za mesec dana: novi sajt, landing strane, podešavanje praćenja konverzija od nule, SEO kod koga se rezultat vidi posle više meseci. Tada je pošteno da se taj trošak rasporedi na duži period. Ali onda u ugovoru treba da piše koliko vredi taj početni posao i šta dobijate ako odete ranije, a ne samo da plaćate do kraja.
+
+## Otkazni rok: 30 dana je još jedan mesečni račun
+
+Otkazni rok od 30 dana deluje kao formalnost. U novcu, to je još jedan pun mesečni honorar, plus oglasni budžet ako kampanje rade do poslednjeg dana.
+
+To nije problem ako tog meseca dobijete nešto zauzvrat. Ugovor treba da kaže šta agencija radi tokom otkaznog roka:
+
+- predaje sve pristupe i potvrđuje da ste vi jedini administrator naloga;
+- predaje listu svih konverzija, tagova i integracija sa opisom šta svaka meri;
+- izvozi kampanje, liste negativnih ključnih reči, oglase i izveštaje;
+- ne gasi kampanje bez vašeg pismenog naloga.
+
+Ako ništa od toga ne piše, otkazni rok je mesec u kome plaćate agenciju koja zna da odlazite. Motivacija u tom mesecu nije ista kao u prvom.
+
+## Šta kaže zakon o kazni za raskid
+
+Neki ugovori imaju stavku tipa: ako klijent raskine pre roka, plaća kaznu u iznosu od tri mesečna honorara. Pre nego što je potpišete, znajte dve stvari iz [Zakona o obligacionim odnosima](https://www.paragraf.rs/propisi/zakon_o_obligacionim_odnosima.html).
+
+Član 270 kaže da ugovorna kazna ne može biti ugovorena za novčane obaveze. Vaša glavna obaveza prema agenciji je da plaćate, dakle novčana. Član 274 daje sudu pravo da na zahtev dužnika smanji ugovornu kaznu koja je nesrazmerno visoka.
+
+Zakon poznaje i odustanicu (član 82): strane se dogovore da jedna ili obe mogu da odustanu od ugovora ako plate unapred određen iznos. To je pošteniji način da se izlazak naplati, jer je cena poznata na dan potpisa.
+
+Ovo nije pravni savet za vaš konkretan ugovor. To je advokatski posao i vredi ga platiti kad je u pitanju ugovor od nekoliko stotina hiljada dinara. Poenta je jednostavnija: pre potpisa izračunajte koliko izlazak košta u dinarima, za svaki mesec trajanja ugovora.
+
+## Čiji je Google Ads nalog
+
+Ovo je stavka koja košta najviše, a u ugovoru je obično jedna rečenica ili nijedna.
+
+Agencije rade preko upravljačkog naloga (MCC) i vaš Google Ads nalog se povezuje sa njim. Google tu ima pojam vlasnika. Prema [Google Ads pomoći o vlasništvu klijentskih naloga](https://support.google.com/google-ads/answer/7456532), nalog može imati samo jednog vlasnika. Ako agencija sama napravi novi nalog iz svog MCC-a, automatski postaje vlasnik. Ako poveže nalog koji ste vi već otvorili, vlasništvo ne dobija dok ga vi ne uključite.
+
+Vlasnik može da dodaje i uklanja administratore, prihvata i odbija druge upravljače i prenosi vlasništvo na drugi MCC. Google istovremeno kaže da klijentski nalog i dalje poseduje svoje podatke i može da ukloni vlasnika tako što raskine vezu. Kvaka je u tome što za to morate imati korisnika sa administratorskim pristupom u samom nalogu. Ako je jedini administrator neko iz agencije, sami ne možete ništa.
+
+Kad se veza raskine, nalog [zadržava istoriju kampanja](https://support.google.com/google-ads/answer/7458428). Gubi deljene liste za remarketing iz MCC-a, a oglasne grupe koje ih ciljaju prestaju da se prikazuju. Ako je nalog bio na mesečnom fakturisanju preko agencijinog MCC-a, oglasi staju u trenutku raskidanja veze. Zato se način plaćanja menja pre nego što se veza ukloni, ne posle.
+
+Provera traje dva minuta. U nalogu otvorite Admin, pa Pristup i bezbednost. Na kartici Korisnici treba da vidite sebe sa administratorskim pristupom. Na kartici Upravljači vidite MCC agencije i da li je označen kao vlasnik. Tabela [nivoa pristupa](https://support.google.com/google-ads/answer/9978556) pokazuje da samo administrator može da raskine vezu sa upravljačem i da menja nivoe pristupa drugima.
+
+## Meta nalog ostaje gde je napravljen
+
+Kod Mete je pravilo strože. Prema [Meta pomoći za oglasne naloge](https://www.facebook.com/business/help/915885887059947), oglasni nalog napravljen u nekom poslovnom portfoliju trajno pripada tom portfoliju i ne može se obrisati niti preneti. Isto važi za skup podataka piksela: [Meta navodi](https://www.facebook.com/business/help/314143995668266) da se ne može obrisati niti preneti u drugi portfolio.
+
+Ako agencija napravi oglasni nalog i piksel u svom portfoliju, ti nalozi ostaju njeni i kad odete. Agencija vam može dati pristup kao partneru, ali vlasnik ostaje ona. Kad odete, najverovatnije počinjete sa novim nalogom i novim pikselom.
+
+Pravilo je zato jasno: oglasni nalog i piksel se prave u vašem poslovnom portfoliju, a agencija dobija partnerski pristup. Obrnuto ne radi.
+
+## Koliko košta početak od nule
+
+Novi nalog ne znači samo novo podešavanje. Gubite istoriju konverzija iz koje je automatsko licitiranje učilo.
+
+[Google piše](https://support.google.com/google-ads/answer/13020501) da status Učenje traje najviše 7 dana, ali da se učinak obično stabilizuje tek posle jednog do dva ciklusa konverzije. Nove kampanje i strategije bez istorije mogu privremeno da osciluju. Za firmu kod koje od klika do upita prođe nekoliko nedelja, to je ceo mesec ili više slabijih rezultata.
+
+Izmišljen primer da se vidi red veličine. Mesečni budžet je 150.000 din i lead staje 3.000 din, dakle 50 leadova. U prvom mesecu na novom nalogu lead staje 4.500 din, pa ih ima oko 33. To je 16 do 17 leadova manje. Uz stopu zatvaranja od 20% i 40.000 din bruto profita po poslu, firma gubi oko tri posla, odnosno oko 133.000 din bruto profita.
+
+Taj iznos se ne vidi ni na jednoj fakturi, a jeste deo cene izlaska. Ako ga saberete sa preostalim mesecima ugovora i otkaznim rokom, dobijate pravu cifru koju agencija drži u rukama.
+
+## Ko plaća Google i Metu
+
+Postoje dva modela. U prvom, na Google Ads i Meta nalogu stoji vaša kartica ili vaš račun i dobijate fakture direktno od Googla i Mete. Agencija vam šalje posebnu fakturu samo za svoj rad. U drugom, agencija plaća oglase i fakturiše vam ukupan iznos.
+
+Drugi model nije zabranjen, ali ima dve mane. Ne vidite koliko je zaista otišlo na oglase, a koliko na maržu. I nalog je finansijski vezan za agenciju. Ako je Google fakturisao preko agencijinog MCC-a, plaćanje morate prebaciti pre raskida veze, inače oglasi staju.
+
+Ako agencija naplaćuje procenat od budžeta, prvi model je jedini u kome možete da proverite osnovicu. O tome kako modeli naplate menjaju motivaciju agencije pisali smo u tekstu o [fiksnom honoraru, procentu budžeta i performance modelu](/blog/fiksni-fee-procenat-budzeta-performance-agencija-srbija-2026), a uporedni pregled imate na strani [fiksna naknada ili revenue share](/fiksna-naknada-vs-revenue-share).
+
+## Šta tražiti u ugovoru pre potpisa
+
+Ovo možete poslati agenciji kao listu pitanja. Dobra agencija odgovara na sve za jedan dan.
+
+- Koliko traje obavezni period i koliko tačno dugujem ako odem posle prvog, trećeg i šestog meseca?
+- Koji je otkazni rok i šta agencija predaje tokom njega?
+- Da li je Google Ads nalog otvoren na moje ime i da li sam ja administrator?
+- Da li je agencijin MCC označen kao vlasnik i zašto mu je to potrebno?
+- Da li su Meta oglasni nalog i piksel u mom poslovnom portfoliju?
+- Ko je administrator Google Analytics svojstva, Google Tag Managera i Search Consolea?
+- Na čije ime su domen i hosting sajta?
+- Da li plaćam Googlu i Meti direktno ili preko agencije?
+- Čiji su tekstovi oglasa, slike i landing strane posle raskida?
+- Postoji li kazna ili odustanica i kako je tačno izračunata?
+
+Ako na neko od ovih pitanja dobijete odgovor „ne brinite, to ćemo rešiti kasnije", i to je odgovor. Samo ne onaj koji ste hteli.
+
+Pitanja pre izbora agencije, šira od samog ugovora, imate u tekstu [kako odabrati agenciju za digitalni marketing](/blog/kako-odabrati-agenciju-za-digitalni-marketing-srbija-2026). Ako se dvoumite da li uopšte da radite sa agencijom, pogledajte poređenje [interni tim ili agencija](/in-house-tim-vs-agencija).
+
+## Kako da uporedite dve ponude
+
+Mesečni honorar je najmanje važan broj u poređenju. Uradite ovo:
+
+- Saberite ukupan trošak ako ostanete 12 meseci.
+- Saberite ukupan trošak ako odete posle 3 meseca, sa otkaznim rokom i preostalim obaveznim mesecima.
+- Dodajte procenu gubitka ako počinjete od novog naloga, kao u primeru gore.
+- Iskreno procenite šansu da saradnja ne uspe i izračunajte očekivani trošak.
+
+Za realna očekivanja od budžeta pogledajte [koliko koštaju Google reklame](/google-reklame-cena) i [cene digitalnog marketinga](/cene-digitalnog-marketinga). Koliko brzo budžet treba da se vrati imate u tekstu o [periodu povrata marketing budžeta](/blog/period-povrata-marketing-budzeta-srbija-2026), a bez [praćenja konverzija](/blog/pracenje-konverzija-lead-generation-srbija-2026) koje je na vašem nalogu nećete imati ni podatke za tu računicu. Ako vam neko obećava zagarantovane rezultate da bi opravdao dug ugovor, pročitajte i tekst o [garanciji rezultata](/blog/garancija-rezultata-marketing-agencija-budzet-srbija-2026).
+
+Kad ugovor kaže da su nalozi vaši, otkazni rok kratak, a izlazak unapred izračunat, agenciju zadržavaju rezultati. To je jedini razlog koji vredi.
+
+Ako imate ponudu agencije ili ugovor koji ste već potpisali, pošaljite nam ga zajedno sa mesečnim budžetom i načinom plaćanja oglasa. Izračunaćemo koliko vas izlazak košta danas i šta treba promeniti u nalozima pre nego što bilo šta otkažete. Javite se preko [kontakt strane](/kontakt). Ako tražite tim koji vodi kampanje na vašim nalozima, pogledajte kako radi naša [Google Ads agencija](/google-ads-agencija).
+`,
+  },
+  {
     slug: 'ab-test-stranice-instagram-dm-woocommerce-niwa-ai-manychat-2026',
     title: 'A/B test stranice posle Instagram DM-a: Niwa AI vs ManyChat za WooCommerce',
     excerpt: 'ManyChat testira poruku u DM-u. Niwa testira WordPress stranicu na koju poruka vodi i broji plaćene WooCommerce porudžbine. Kako postaviti test koji meri novac.',

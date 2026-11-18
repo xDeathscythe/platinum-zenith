@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "ugovor-sa-marketing-agencijom-minimalno-trajanje-otkazni-rok-cena-izlaska-srbija-2026",
+    "title": "Ugovor sa marketing agencijom: minimalno trajanje, otkazni rok i cena izlaska u Srbiji 2026",
+    "excerpt": "Ugovor na 12 meseci izgleda jeftinije dok ne poželite da odete. Kako izračunati cenu izlaska, otkazni rok i proveriti da li su Google i Meta nalozi vaši.",
+    "date": "2026-11-18",
+    "category": "Marketing",
+    "readTime": "9 min read",
+    "isDraft": false
+  },
+  {
     "slug": "ab-test-stranice-instagram-dm-woocommerce-niwa-ai-manychat-2026",
     "title": "A/B test stranice posle Instagram DM-a: Niwa AI vs ManyChat za WooCommerce",
     "excerpt": "ManyChat testira poruku u DM-u. Niwa testira WordPress stranicu na koju poruka vodi i broji plaćene WooCommerce porudžbine. Kako postaviti test koji meri novac.",
