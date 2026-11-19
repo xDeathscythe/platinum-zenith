@@ -1,5 +1,147 @@
 const rawBlogPosts = [
   {
+    slug: 'ai-max-google-ads-pretraga-kada-ukljuciti-iskljuciti-upiti-srbija-2026',
+    title: 'AI Max u Google Ads: kada ga uključiti, a kada isključiti za upite u Srbiji 2026',
+    excerpt: 'AI Max je podrazumevano uključen u novim kampanjama za pretragu. Kako da proverite koje pretrage, strane i tekstove dovodi i da li donosi kupce, a ne samo forme.',
+    date: '2026-11-19',
+    readTime: '9 min read',
+    category: 'Google Ads',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'AI Max', 'Kampanje za pretragu', 'Kvalitet upita', 'Lead generation', 'Smart Bidding'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+Ako ste ove godine pravili novu kampanju za pretragu u Google Ads-u, velika je šansa da u njoj radi AI Max, a da to niko nije svesno izabrao. Prema [Google uputstvu za podešavanje](https://support.google.com/google-ads/answer/15909989?hl=en), nove kampanje za pretragu dobijaju AI Max uključen podrazumevano. Kada se uključi, sa njim se pale i automatsko pisanje teksta oglasa i slanje posetilaca na druge strane vašeg sajta.
+
+Za webshop to može biti dobra vest. Za firmu koja živi od upita (servis, zanatlija, klinika, B2B usluga) AI Max je alat koji ume da donese više formi i manje posla, i to tako da izveštaj u Google Ads-u izgleda bolje nego ikad. Ovaj tekst objašnjava šta tačno AI Max menja, gde kod lead generationa pravi štetu i kako da ga testirate tako da odluku donesete po kupcima, a ne po broju konverzija.
+
+## Šta je AI Max, bez marketinškog omota
+
+AI Max nije nova vrsta kampanje. To je [sloj podešavanja unutar postojeće kampanje za pretragu](https://support.google.com/google-ads/answer/15910187?hl=en). Ima tri glavna dela:
+
+- Uparivanje pretraga (search term matching). Google koristi vaše ključne reči kao široko podudaranje, a uz to i pretrage bez ključnih reči, zaključene iz teksta oglasa i sadržaja sajta. Ovo se može isključiti po grupi oglasa.
+- Prilagođavanje teksta (text customization). Google piše naslove i opise na osnovu vaših oglasa, sajta i generativnog AI-ja. Ranije se ovo zvalo automatski kreirani elementi.
+- Proširenje konačnog URL-a (Final URL expansion). Google šalje posetioca na stranu vašeg domena za koju proceni da će bolje raditi, umesto na stranu koju ste vi zadali. Radi samo ako je uključeno i prilagođavanje teksta.
+
+Uz to dolaze kontrole: lokacije od interesa po grupi oglasa, uključivanje i isključivanje brendova, liste URL-ova koje Google sme ili ne sme da koristi kao odredište i smernice za tekst sa zabranjenim izrazima.
+
+Ako ste ranije imali uključeno široko podudaranje na nivou kampanje ili automatski kreirane elemente, Google ta podešavanja prebacuje u AI Max. Prema [Google FAQ-u o AI Max-u](https://support.google.com/google-ads/answer/15913066?hl=en), AI Max poštuje negativne ključne reči. To je dobra vest, ali samo ako tu listu zaista imate.
+
+## Šta Google obećava i šta to znači kad prodajete uslugu
+
+Google na [stranici o AI Max-u](https://support.google.com/google-ads/answer/15910366?hl=en) navodi da oglašivači koji ga uključe obično dobiju 14% više konverzija ili vrednosti konverzija uz sličan CPA ili ROAS. Izvor su Google interni podaci iz 2025. za oglašivače van maloprodaje.
+
+Ta rečenica je tačna onoliko koliko je tačno ono što vaš nalog broji kao konverziju. Ako je konverzija svaka poslata forma, svaki klik na broj telefona i svaka WhatsApp poruka, AI Max će naći više takvih događaja. Neće znati da je polovina njih pitanje "koliko košta" bez namere da se kupi, prijava za posao ili poziv dobavljača.
+
+Postoje još dva uslova iz samog Google uputstva koja se često preskoče:
+
+- Uparivanje pretraga, prilagođavanje teksta i proširenje URL-a [traže strategiju licitiranja zasnovanu na konverzijama](https://support.google.com/google-ads/answer/15909989?hl=en) (Smart Bidding) da bi radili kako treba. Na ručnim ponudama AI Max nema na čemu da uči.
+- AI Max neće biti efikasan ako je kampanja ograničena budžetom. Ako kampanja već danas staje pre kraja dana, AI Max nema prostor da kupuje nove pretrage, pa samo menja raspored istog novca.
+
+## Tri mesta gde AI Max kod upita najčešće pravi štetu
+
+### Pretrage koje niste kupili
+
+Pretrage bez ključnih reči znače da Google sam zaključuje kome je vaš oglas relevantan. Za firmu koja radi ugradnju klima uređaja to mogu biti i pretrage tipa "klima ne hladi šta da radim", "cena klime polovne" ili "posao montažer klima". Sve to su ljudi koji ne traže vašu uslugu.
+
+Google je dodao kolonu koja ovo čini vidljivim. U izveštaju pretraživanih termina postoji tip podudaranja "AI Max" i kolona izvora koja pokazuje da li je pretraga došla preko širokog podudaranja ili bez ključnih reči. Prvih nedelja taj izveštaj gledajte dva puta nedeljno, ne jednom mesečno.
+
+Negativne reči na srpskom moraju da pokriju padeže i množinu, jer [negativne ključne reči ne hvataju bliske varijante](https://support.google.com/google-ads/answer/2453972?hl=en). Negativna reč "posao" ne blokira pretragu "poslovi montaža klima". Kako se pravi takva lista objašnjeno je u tekstu o [tipovima podudaranja i negativnim ključnim rečima](/blog/tipovi-podudaranja-kljucnih-reci-google-ads-lead-generation-srbija-2026).
+
+### Odredišna strana koju niste birali
+
+[Proširenje konačnog URL-a](https://support.google.com/google-ads/answer/16230205?hl=en) šalje posetioca na stranu za koju Google proceni da bolje odgovara pretrazi. Kod sajta uslužne firme to su često strane koje nikada nisu pravljene za oglase:
+
+- blog tekst koji odgovara na pitanje, ali nema formu ni poziv na akciju;
+- strana "Karijera" ili "Zaposlenje", koja savršeno odgovara pretrazi za posao;
+- stari cenovnik ili akcija koja je istekla;
+- strana za drugi grad ili uslugu koju trenutno ne prodajete.
+
+Ako ste napravili namensku landing stranu sa kratkom formom i dokazima, posetilac koji završi na blogu nije video ništa od toga. Zato je pre uključivanja korisno uključiti isključenja URL-ova (URL exclusions) na nivou kampanje. Na listu stavite blog, karijeru, uslove korišćenja, politiku privatnosti i sve stare akcije. Zašto je usklađenost oglasa i strane toliko važna za kvalitet upita pisali smo u tekstu o [usklađenosti oglasa i landing strane](/blog/uskladjenost-oglasa-landing-strane-konverzija-srbija-2026).
+
+Postoji i tehnička zamka. Ako nalog koristi šablon za praćenje (tracking template) bez oznake {lpurl} ili sa njom na neobičnom mestu, Google upozorava da dinamičke odredišne strane mogu završiti na grešci 404. Proverite šablon pre nego što bilo šta uključite.
+
+### Tekst oglasa koji niste napisali
+
+Prilagođavanje teksta piše naslove na osnovu sadržaja vašeg sajta. Google u [FAQ-u](https://support.google.com/google-ads/answer/15913066?hl=en) kaže da te elemente ne možete da uređujete. Možete samo da ih uklonite ili ograničite smernicama za tekst. Ako sajt negde pominje "besplatnu procenu" iz akcije od pre dve godine, ta fraza može da završi u oglasu.
+
+Druga posledica pogađa svakoga ko je pažljivo podesio responzivne oglase. Kada su uključeni i prilagođavanje teksta i proširenje URL-a, Google ne poštuje zakačene (pinovane) naslove. Ako ste zakačili naslov sa cenom od ili sa gradom da biste odbili pogrešne posetioce, taj filter u AI Max-u više ne radi. Detaljno o ulozi zakačenih naslova u tekstu o [responzivnim oglasima i pinovanju](/blog/responzivni-oglasi-google-ads-naslovi-pinovanje-kvalitet-upita-srbija-2026).
+
+Ako vam je zakačeni naslov važan, Google je jasan: isključite proširenje URL-a i uključivanje URL-ova.
+
+## Računica: AI Max pobeđuje u izveštaju, a gubi u prodaji
+
+Primer je izmišljen, ali mehanika je ista na svakom nalogu koji broji sve forme kao jednaku konverziju. Kampanja troši 150.000 din mesečno. Pokrenete AI Max eksperiment sa podelom 50/50, pa svaka grana dobija 75.000 din.
+
+- Kontrolna grana, bez AI Max-a: 25 upita, CPL 3.000 din. Prodaja kvalifikuje 10, odnosno 40%. Cena po kvalifikovanom upitu je 7.500 din.
+- Grana sa AI Max-om: 29 upita, CPL oko 2.586 din. Prodaja kvalifikuje 9, odnosno 31%. Cena po kvalifikovanom upitu je oko 8.333 din.
+
+U Google Ads-u AI Max izgleda kao jasan pobednik: 16% više konverzija i CPL niži za 13,8%. U prodaji je kvalifikovani upit poskupeo 11,1%. Ako prodaja zatvori 30% kvalifikovanih, kupac iz kontrolne grane košta 25.000 din, a iz AI Max grane oko 27.778 din.
+
+Da bi AI Max grana bila izjednačena, od 29 upita treba da ima 10 kvalifikovanih, odnosno 34,5%. To je granica koju pratite, ne broj konverzija.
+
+Jedna iskrena napomena uz ovaj primer: razlika od jednog kvalifikovanog upita na uzorku od 25 i 29 je šum, a ne dokaz. Zato je dužina testa važnija od samog podešavanja. Za odluku vam treba nekoliko desetina kvalifikovanih upita po grani. U primeru je to oko 10 mesečno po grani, pa za 30 po grani treba oko tri meseca. Ako je to predugo, testirajte na kampanji sa većim budžetom ili prvo uključite samo uparivanje pretraga u jednoj grupi oglasa.
+
+## Kako da ga testirate bez kockanja
+
+Google nudi [AI Max eksperiment](https://support.google.com/google-ads/answer/16450159?hl=en) koji deli saobraćaj i budžet unutar iste kampanje, umesto da pravi kopiju. Kontrolni deo radi bez AI Max-a, probni sa njim. Prednost je kraći period učenja i manje grešaka u podešavanju.
+
+Pre nego što ga pokrenete, uradite ovo:
+
+- Uvezite kvalifikovane konverzije. Bez toga i Google i vi ocenjujete test po pogrešnoj meri. Kako se to radi iz CRM-a pisali smo u tekstu o [kvalifikovanim konverzijama](/blog/kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026).
+- Sredite listu negativnih reči, sa padežima, množinom i ćirilicom.
+- Dodajte isključenja URL-ova za blog, karijeru i stare akcije.
+- Proverite da kampanja nije ograničena budžetom.
+- U smernice za tekst dodajte izraze koji ne smeju da se pojave: "besplatno", "najjeftinije", "garancija" ako je ne dajete.
+
+Eksperiment kroz ovaj tok ne može da se napravi ako kampanja već ima uključeno prilagođavanje teksta, koristi portfolio strategiju licitiranja, deljeni budžet ili istraživanje ponuda (bidding exploration), ili već ima aktivan eksperiment. U tom slučaju koristite prilagođeni eksperiment sa kopijom kampanje.
+
+Pazite i na automatsku primenu. Google ima preporuku "Uključite AI Max za kampanje za pretragu" na stranici preporuka, a eksperiment ima podešavanje za automatsku primenu rezultata. Odluku ne prepuštajte sistemu koji meri samo konverzije. Koje preporuke treba isključiti iz automatske primene opisali smo u tekstu o [oceni optimizacije](/blog/google-ads-ocena-optimizacije-automatske-preporuke-srbija-2026).
+
+Tokom testa pratite tri izveštaja:
+
+- pretraživane termine sa tipom podudaranja "AI Max", zbog novih negativnih reči;
+- izveštaj odredišnih strana i kolonu "Selected by", da vidite koje je strane izabrao Google i kako konvertuju;
+- CRM po izvoru, da vidite kvalifikovane upite i kupce po grani.
+
+## Kada ga uključiti, a kada ostaviti isključenim
+
+AI Max ima smisla kad:
+
+- uvozite kvalifikovane upite ili zaključene poslove kao primarnu konverziju i imate bar nekoliko desetina takvih događaja mesečno;
+- kampanja nije ograničena budžetom i već radi na Smart Bidding-u;
+- sajt ima više dobrih strana za usluge, sa formom na svakoj, pa proširenje URL-a ima gde da šalje ljude;
+- prodajete više usluga i ne možete ručno da pokrijete sve načine na koje ljudi traže.
+
+Ostavite ga isključenog ili ga koristite samo delimično kad:
+
+- je jedina konverzija "poslata forma" i nemate povratnu informaciju iz prodaje;
+- imate jednu namensku landing stranu, a ostatak sajta su blog i opšte strane;
+- radite u regulisanoj oblasti gde tekst oglasa mora da prođe proveru (zdravstvo, finansije, pravne usluge);
+- budžet je mali i kampanja jedva dobija klikove na ključne reči koje ste sami izabrali.
+
+Delimično znači ovo: AI Max može da ostane uključen sa uparivanjem pretraga u jednoj grupi oglasa, dok su prilagođavanje teksta i proširenje URL-a isključeni. Tako dobijate nove pretrage, a zadržavate kontrolu nad tekstom i odredišnom stranom. Prvo to testirajte, pa tek onda dajte Google-u i tekst i strane.
+
+Ako na nalogu radi i Performance Max, znajte da Google kod pretrage koja odgovara i jednoj i drugoj kampanji [prikazuje onu sa višim rangom oglasa](https://support.google.com/google-ads/answer/15913066?hl=en). Brend pretrage tada lako završe u kampanji koja ih ne bi smela kupovati, o čemu smo pisali u tekstu o [brend kampanji](/blog/brend-kampanja-google-ads-roi-budzet-srbija-2026).
+
+## Provera naloga za ovu nedelju
+
+- Otvorite podešavanja svih kampanja za pretragu napravljenih ove godine i proverite da li je AI Max uključen.
+- U izveštaju pretraživanih termina filtrirajte tip podudaranja "AI Max" za poslednjih 30 dana i dodajte negativne reči.
+- U izveštaju odredišnih strana proverite da li je neki klik završio na blogu, karijeri ili staroj akciji.
+- Proverite da li su zakačeni naslovi i dalje aktivni ili ih proširenje URL-a ignoriše.
+- Uporedite CRM po kampanji: koliko je upita iz AI Max kampanja kvalifikovano u poslednja dva meseca.
+
+Za okvir budžeta pogledajte [koliko koštaju Google reklame](/google-reklame-cena) i [cene digitalnog marketinga](/cene-digitalnog-marketinga). Ako CPL pada, a kupci ne rastu, tekst o tome zašto [CPL nije CAC](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026) pokazuje gde novac nestaje.
+
+AI Max je alat koji radi za onoga ko mu kaže šta je dobar kupac. Ko mu da samo broj formi, dobiće više formi.
+
+Ako niste sigurni šta AI Max trenutno radi na vašem nalogu, pošaljite nam pristup za čitanje ili izvoz izveštaja pretraživanih termina i odredišnih strana za poslednjih 60 dana. Reći ćemo vam koliko novca ide na pretrage i strane koje ne donose kupce i šta treba uključiti ili isključiti. Javite se preko [kontakt strane](/kontakt) ili pogledajte kako radi naša [Google Ads agencija](/google-ads-agencija).
+`,
+  },
+  {
     slug: 'visejezicni-instagram-dm-dijaspora-woocommerce-niwa-ai-manychat-2026',
     title: 'Višejezični Instagram DM za WooCommerce: Niwa AI vs ManyChat kad piše dijaspora',
     excerpt: 'Kupac iz Beča piše na nemačkom, ćirilicom ili bez kvačica. Kako to rešavaju ManyChat ključne reči i AI, a kako Niwa sa katalogom i dostavom iz WooCommerce-a.',

@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "ai-max-google-ads-pretraga-kada-ukljuciti-iskljuciti-upiti-srbija-2026",
+    "title": "AI Max u Google Ads: kada ga uključiti, a kada isključiti za upite u Srbiji 2026",
+    "excerpt": "AI Max je podrazumevano uključen u novim kampanjama za pretragu. Kako da proverite koje pretrage, strane i tekstove dovodi i da li donosi kupce, a ne samo forme.",
+    "date": "2026-11-19",
+    "category": "Google Ads",
+    "readTime": "9 min read",
+    "isDraft": false
+  },
+  {
     "slug": "visejezicni-instagram-dm-dijaspora-woocommerce-niwa-ai-manychat-2026",
     "title": "Višejezični Instagram DM za WooCommerce: Niwa AI vs ManyChat kad piše dijaspora",
     "excerpt": "Kupac iz Beča piše na nemačkom, ćirilicom ili bez kvačica. Kako to rešavaju ManyChat ključne reči i AI, a kako Niwa sa katalogom i dostavom iz WooCommerce-a.",
