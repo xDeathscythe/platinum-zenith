@@ -1,5 +1,122 @@
 const rawBlogPosts = [
   {
+    slug: 'visejezicni-instagram-dm-dijaspora-woocommerce-niwa-ai-manychat-2026',
+    title: 'Višejezični Instagram DM za WooCommerce: Niwa AI vs ManyChat kad piše dijaspora',
+    excerpt: 'Kupac iz Beča piše na nemačkom, ćirilicom ili bez kvačica. Kako to rešavaju ManyChat ključne reči i AI, a kako Niwa sa katalogom i dostavom iz WooCommerce-a.',
+    date: '2026-11-19',
+    readTime: '8 min read',
+    category: 'E-Commerce',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Niwa AI', 'ManyChat', 'WooCommerce', 'Instagram DM', 'Dijaspora', 'Višejezični chatbot'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+Zamislite poruku koja stigne u 23:40 sa profila iz Beča: "Hallo, imate li ove cizme u 39? Schickt ihr nach Österreich?" Pola nemački, pola srpski, bez kvačica. Ujutru stiže isto pitanje ćirilicom iz Ciriha, a posle podne na engleskom, od nekoga ko je proizvod video u Reels-u.
+
+Prodavnica koja šalje u inostranstvo dobija ista pitanja na više jezika i u dva pisma. Ovaj tekst je deo serijala o tome kako se [Niwa AI i ManyChat](/blog/niwa-ai-vs-manychat-wordpress-woocommerce-2026) ponašaju u WooCommerce prodavnici. Ovde gledamo jedan uzak slučaj: šta se desi kada pitanje o proizvodu i dostavi stigne na nemačkom, engleskom, ćirilicom ili bez kvačica, i kako odgovor da dovede kupca do porudžbine.
+
+## Isto pitanje, četiri zapisa
+
+Kupac koji traži čizme broj 39 može da napiše:
+
+- čizme 39, šaljete li u Beč?
+- cizme 39 saljete li u bec
+- чизме 39, шаљете ли у Беч?
+- Habt ihr die Stiefel in 39? Versand nach Wien?
+
+Vama je to jedno pitanje. Sistemu koji traži zadatu reč to su četiri različita teksta, a srpski dodaje i padeže: čizme, čizama, čizmu.
+
+## ManyChat ključne reči: dobre za šifru, slabe za katalog
+
+ManyChat [ključne reči](https://help.manychat.com/en/articles/17742064-how-to-use-keywords-trigger-in-manychat) imaju šest pravila, među kojima su Message is, Message contains i Message begins with. Velika i mala slova nisu bitna, ali reč mora da se nađe u poruci. Jedno pravilo prima najviše deset reči. Ako poruka sadrži dve, pokreće se ona koja je viša na listi, a kada sistem ništa ne prepozna, šalje Default Reply. Besplatan nalog ima tri sopstvena okidača.
+
+Kada kampanja kaže "pošalji POPUST u DM", ovo radi odlično. Kupac kuca reč koju ste mu sami dali.
+
+Kod pitanja o katalogu računica izgleda drugačije. Šest proizvoda, četiri zapisa i tri padeža daju 72 varijacije. Uz deset reči po pravilu, to je osam pravila za šest proizvoda, a još niko nije napravio grešku u kucanju. Brojke su ilustrativne, a svaki novi proizvod dodaje još reči.
+
+## ManyChat AI razume jezik, ali zna samo ono što mu unesete
+
+ManyChat ovo zna i zato ima [Manychat AI](https://help.manychat.com/hc/en-us/articles/14281227789468-Power-up-your-chat-marketing-with-Manychat-AI). Intention Recognition prepoznaje nameru umesto reči, a AI Replies prepoznaje jezik poruke i odgovara na njemu. U istom FAQ-u ManyChat upozorava da kod vrlo kratkih poruka i sličnih jezika AI može pogrešno da odredi jezik. Ako vam pišu na srpskom, hrvatskom i bosanskom, proverite to na svojim porukama pre nego što uključite automatske odgovore.
+
+Drugi deo priče je znanje. Prema dokumentaciji za [AI Knowledge](https://help.manychat.com/en/articles/17742127-manychat-ai-knowledge), baza znanja trenutno radi samo za Instagram, traži plaćeni plan sa Manychat AI i još je u beta fazi. Prima tekst i javne linkove. Svaku stranicu dodajete posebno, jer početna stranica ne povlači podstranice, a sistem čita samo vidljiv tekst. Link se skenira kada ga dodate. Katalog iz WooCommerce-a, zone dostave i načini plaćanja nisu poseban izvor u toj listi.
+
+Za prodavnicu sa 200 proizvoda to znači izbor. Ili ručno održavate tekst sa cenama, veličinama i dostavom, ili gradite dodatnu integraciju. ManyChat AI će tečno odgovoriti na nemačkom, ali iz onoga što stoji u bazi.
+
+## Kako isto pitanje čita Niwa
+
+Niwa na Instagram i Facebook poruke odgovara iz WordPress-a u kojem stoji prodavnica. Proverili smo u kodu plugina šta se dešava sa porukom na stranom jeziku.
+
+Tok razgovora bira se po značenju poruke, na bilo kom jeziku. Uputstvo modelu izričito zabranjuje poklapanje po ključnim rečima. Uslov za sledeći korak napišete jednom, na srpskom, i on važi i kada kupac piše na nemačkom. Niwa repozitorijum ima i test koji to proverava porukama na francuskom, japanskom i arapskom i uslovima napisanim na srpskom.
+
+Svaki automatski odgovor na Instagramu i Facebooku dobija ista pravila: koristi jezik kupca, ostaje ispod 900 karaktera, šalje prave linkove ka proizvodima i stranicama i upućuje na sajt kada korak zahteva sajt. Korpa, forme i kalendar u DM-u nisu dostupni, pa Niwa ne puni korpu umesto kupca, nego ga šalje na sajt.
+
+Katalog razume padeže i pisma. Niwa unapred gradi rečnik pojmova iz vašeg kataloga, na jeziku kataloga i na jezicima na kojima kupci verovatno pišu. U njega ulaze prevodi, padeži, transliteracija i česte greške u kucanju. Pretraga prima pitanje na jeziku kupca i dodaje varijante na jeziku sajta, a nazive proizvoda ne prevodi. Cilj je da "Stiefel" nađe čizme, a da "cizme" nađe isti proizvod kao "чизме". Upravo to proverite testom u četiri zapisa, opisanim niže.
+
+Za pitanja o kupovini Niwa čita trenutna podešavanja WooCommerce-a: valutu, uključene načine plaćanja, zone dostave sa aktivnim metodama i da li šaljete van navedenih zona. Cenu dostave ne obećava, jer ona zavisi od adrese i korpe. Stranice kao što je Dostava čita u trenutnoj verziji, i bez novog indeksiranja.
+
+Isti asistent radi i na drugim kanalima. Automatski odgovori na WhatsApp Cloud broju koriste znanje sa sajta i jezik kupca, a chat na sajtu odgovara na jeziku posetioca.
+
+## Od DM-a na nemačkom do porudžbine
+
+Evo kako izgleda put pitanja iz primera sa početka.
+
+Kupac iz Beča pita za čizme u 39 i dostavu u Austriju. Niwa nađe model u srpskom katalogu, vidi da je Austrija u zoni dostave sa aktivnim metodom i odgovori na nemačkom. Napiše koji model imate, pošalje link ka proizvodu i kaže da će tačnu cenu dostave videti na checkout-u kada unese adresu. Kako Niwa odgovara o veličinama i stanju na lageru, opisali smo u tekstu o [zalihama u Instagram DM-u](/blog/instagram-dm-woocommerce-zalihe-niwa-ai-manychat-2026).
+
+Kupac otvori link. Sajt je na srpskom, cene su u dinarima. Ako u chatu na sajtu pita "Was kostet der Versand nach Wien?", dobija odgovor na nemačkom iz istih podešavanja i iste stranice dostave. Niwa ne prevodi vaše stranice, ali objašnjava ono što na njima piše.
+
+Porudžbina se upisuje u WooCommerce. Niwa analitika je pripisuje poslednjem izvoru koji nije direktan, uz kolačić od 90 dana, i prikazuje prihod u valuti prodavnice, bez preračunavanja u evre.
+
+### Gde Niwa staje
+
+- Glasovna poruka ili slika bez teksta u DM-u ide čoveku na pregled. Niwa ne pogađa šta je u njoj, a na WhatsApp Cloud broju medija se ne obrađuje kao tekst.
+- Automatski odgovori važe u Meta prozoru od 24 sata od poruke kupca.
+- Niwa ne povezuje sama Instagram profil sa posetiocem sajta. Analitika broji pregledače, a ne osobe.
+- Prevod sajta nije deo ove funkcije. Checkout ostaje na jeziku sajta.
+
+Ako kupci iz inostranstva često traže čoveka, pogledajte kako radi [predaja razgovora čoveku](/blog/kupac-trazi-coveka-instagram-dm-woocommerce-niwa-ai-manychat-2026).
+
+## Pripremite prodavnicu pre nego što uključite odgovore
+
+### Zone dostave koje kažu istinu
+
+U WooCommerce-u napravite zone za zemlje u koje stvarno šaljete, na primer Austriju, Nemačku i Švajcarsku, i ostavite aktivne samo metode koje zaista radite. Niwa čita baš te zone. Ako zona za lokacije koje nisu pokrivene ostalim zonama ima aktivan metod, Niwa će znati da šaljete i drugde.
+
+### Stranica dostave za inostranstvo
+
+Napišite cenu po zemlji, rok isporuke, kako ide povraćaj iz inostranstva i ko plaća uvozne troškove. Od jula 2021. sva roba koja ulazi u EU podleže PDV-u, jer je ukinuto oslobođenje za pošiljke do 22 evra, prema [Evropskoj komisiji](https://vat-one-stop-shop.ec.europa.eu/index_en). Švajcarska nije u EU i ima svoja pravila. Kupac iz Beča će to pitati pre kupovine ili tek kada mu kurir zatraži doplatu. Niwa čita trenutni tekst stranice, pa odgovor menjate tako što izmenite stranicu.
+
+Ako hoćete da kupci iz EU vide okvirnu cenu u evrima, napišite je na toj stranici. Niwa iz podešavanja zna valutu prodavnice, a kurs ne dobija iz WooCommerce-a.
+
+### Uputstvo za nalog
+
+U Niwa uputstvima za Instagram nalog napišite na kojim jezicima primate porudžbine, šta Niwa odgovara kada neko pita za zemlju u koju ne šaljete i kada razgovor predaje vama. Ton brenda ne bi trebalo da se menja sa jezikom. O tome smo pisali u tekstu o [tonu brenda u DM-u i na sajtu](/blog/ton-brenda-instagram-dm-sajt-woocommerce-niwa-ai-manychat-2026).
+
+### Link sa oznakom kampanje
+
+Niwa sama ne dodaje UTM parametre na linkove. Praktičan predlog: u uputstvu toka za kampanju ka dijaspori navedite adresu sa oznakom, na primer utm_campaign=dijaspora-at, da bi [izveštaji o saobraćaju](/blog/analitika-instagram-dm-prodaje-woocommerce-niwa-ai-manychat-2026) odvojili te posete i porudžbine. Ako dijasporu dovodite i preko Google oglasa, pogledajte kako da [razdvojite ciljanje lokacije](/blog/google-ads-ciljanje-lokacije-prisustvo-interesovanje-srbija-2026).
+
+### Test u četiri zapisa
+
+Sa test naloga pošaljite isto pitanje latinicom sa kvačicama, bez kvačica, ćirilicom i na nemačkom ili engleskom. Proverite da li link vodi na pravi proizvod, da li odgovor izbegava izmišljenu cenu dostave i da li kaže kada se javlja čovek.
+
+### Merenje posle mesec dana
+
+U WooCommerce-u pogledajte porudžbine po zemlji dostave, a u Niwa analitici kampanju za dijasporu. Ako poruka iz inostranstva ima sve više, a porudžbina ne, prvo proverite stranicu dostave i cenu slanja, pa tek onda odgovore u DM-u.
+
+## Kada je ManyChat dovoljan, a kada je Niwa bolji izbor
+
+Ako prodajete na jednom jeziku i u DM-u uglavnom tražite šifru iz kampanje, ManyChat ključne reči rade posao jeftino i predvidivo.
+
+Ako vam pišu na tri jezika i u dva pisma, i pitaju šta imate i da li šaljete kod njih, Niwa je bolji izbor za WooCommerce prodavnicu. Odgovara na jeziku kupca iz kataloga i podešavanja dostave koja već stoje u WordPress-u. Radi to na Instagramu, Facebooku, WhatsApp Cloud broju i u chatu na sajtu, a porudžbinu vidi u istoj bazi. Nema posebne baze znanja koju ručno usklađujete posle svake promene cene ili dostave.
+
+Ako poruke stižu, a porudžbine ne, problem može biti i na samom sajtu. Pogledajte [zašto web shop nema prodaju](/web-shop-nema-prodaju), a koliko smeju da koštaju posete iz oglasa proverite u pregledu [cena Instagram reklama](/instagram-reklame-cena). Niwa tim nudi i [besplatnu analizu konverzija i primene AI-ja u WooCommerce-u](https://niwachat.com/sr/free-woocommerce-ai-audit-sr/).
+
+Ako šaljete u inostranstvo i hoćete da odgovori u DM-u prate tu prodaju, pošaljite nam kroz [kontakt formu](/kontakt) adresu prodavnice i spisak zemalja u koje šaljete. Proverićemo zone dostave i stranicu dostave i predložiti uputstva za odgovore na više jezika pre nego što ih uključite.
+`,
+  },
+  {
     slug: 'ugovor-sa-marketing-agencijom-minimalno-trajanje-otkazni-rok-cena-izlaska-srbija-2026',
     title: 'Ugovor sa marketing agencijom: minimalno trajanje, otkazni rok i cena izlaska u Srbiji 2026',
     excerpt: 'Ugovor na 12 meseci izgleda jeftinije dok ne poželite da odete. Kako izračunati cenu izlaska, otkazni rok i proveriti da li su Google i Meta nalozi vaši.',
