@@ -1,5 +1,121 @@
 const rawBlogPosts = [
   {
+    slug: 'black-friday-instagram-komentari-woocommerce-niwa-ai-manychat-2026',
+    title: 'Black Friday komentari na Instagramu za WooCommerce: Niwa AI vs ManyChat',
+    excerpt: 'Tri stotine komentara ispod Black Friday objave, a cena se menja u ponoć. Kako ih vode ManyChat ključne reči, a kako Niwa sa cenama i zalihama iz WooCommerce-a.',
+    date: '2026-11-20',
+    readTime: '8 min read',
+    category: 'E-Commerce',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Niwa AI', 'ManyChat', 'WooCommerce', 'Black Friday', 'Instagram komentari', 'Instagram DM'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+Black Friday ove godine pada u petak, 27. novembra. Mnoge WooCommerce prodavnice će tog jutra objaviti Reels sa porukom "napišite veličinu u komentaru i šaljemo vam cenu". Do podneva ispod objave stoji tri stotine komentara: "39?", "koliko je sad crna", "a pouzećem?", "do kada važi?", par srca i jedno "javite mi".
+
+Automatizacija koja na svaki komentar pošalje isti link uradila je svoj deo posla. Kupcu i dalje niko nije rekao ima li broj 39 i kolika je cena posle ponoći. Ovaj tekst je deo serijala o tome kako se [Niwa AI i ManyChat](/blog/niwa-ai-vs-manychat-wordpress-woocommerce-2026) ponašaju u WooCommerce prodavnici. Ovde gledamo jednu nedelju u godini: komentar kampanju za Black Friday, od komentara do porudžbine.
+
+## Pravila koja važe za oba alata
+
+Prvo ono što ne zavisi od alata, nego od Instagrama. Meta u dokumentaciji za [privatne odgovore na komentare](https://developers.facebook.com/docs/instagram-platform/private-replies/) postavlja četiri pravila:
+
+- Na jedan komentar ide jedna privatna poruka.
+- Poruka mora da ode u roku od sedam dana od komentara. Za Live važi samo dok traje prenos.
+- Sledeća poruka sme tek kada kupac odgovori, i to u roku od 24 sata.
+- Ako osoba ne prati vaš profil, poruka završava u folderu sa zahtevima, ne u glavnom inboxu.
+
+Iz toga sledi najvažnija stvar za Black Friday: prva privatna poruka mora da natera kupca da odgovori. Ako je to samo link, razgovor se tu završava.
+
+## Šta ManyChat radi dobro u komentar kampanji
+
+ManyChat [okidač za komentare](https://help.manychat.com/en/articles/17741897-instagram-post-and-reel-comments-trigger) je zreo alat i to treba reći otvoreno. Kampanju vežete za jednu objavu, za sve objave ili za sledeću objavu koju tek objavljujete. Birate ključne reči, reči koje isključuju komentar, ili opciju da svaki komentar pokrene tok. Javni odgovor ispod komentara može da ima više varijanti koje se nasumično smenjuju, a kod velikog broja komentara ManyChat sam uključuje zaštitu da Instagram odgovore ne proglasi za spam. Radi i na zajedničkim (collab) i boostovanim objavama.
+
+Ograničenja su takođe u njihovoj dokumentaciji:
+
+- Prva privatna poruka sme da ima samo jedan blok sadržaja, tekst ili sliku sa dugmićima. Unos korisnika i dinamički blokovi tu nisu dozvoljeni.
+- Dugme koje samo otvara sajt ne otvara prozor od 24 sata i ne dodaje osobu u kontakte.
+- Tok se pokreće samo na prvi komentar iste osobe ispod objave. ManyChat navodi da je to ograničenje Instagrama za sve alate.
+
+Za kampanju tipa "komentariši KOD i dobij kod za popust" ManyChat je sasvim dovoljan.
+
+## Gde Black Friday lomi ključnu reč
+
+Problem počinje kada kupci ne napišu reč koju ste zadali. Napisaće "a 39?", "ima li u crnoj", "koliko je sa popustom". Ako tok reaguje na svaki komentar, svi dobijaju istu poruku, bez obzira na pitanje. Ako reaguje samo na ključnu reč, svi ostali ne dobiju ništa.
+
+Druga stvar je cena. U ManyChat toku cena je tekst koji je neko otkucao. Black Friday cena počinje u ponoć 27. novembra, a mnogi je drže do Cyber Monday-a, 30. novembra. Na zvaničnoj [stranici integracija](https://manychat.com/integrations) WooCommerce nije na listi. Veza sa prodavnicom ide preko Zapiera, Make-a ili API-ja, što znači da je neko mora napraviti i održavati.
+
+Ilustrativan obračun: kampanja ima 10 proizvoda, a cena se pojavljuje u dve poruke po proizvodu. Dve promene, početak i kraj akcije, daju 40 ručnih izmena. Svaka propuštena izmena je kupac kome ste u DM-u napisali jednu cenu, a na sajtu vidi drugu.
+
+## Kako Niwa odgovara na isti komentar
+
+U Niwi je komentar na Instagramu jedan od okidača za tok. Tok se ne bira po ključnoj reči, nego po značenju, na bilo kom jeziku. "39?", "imate li broj 39" i "има ли 39" su za Niwu isto pitanje.
+
+Za svaki komentar Niwa može da uradi jedno od dva:
+
+- da odgovori javno ispod komentara, tekstom koji model piše za taj komentar;
+- da pošalje jednu privatnu poruku, po Meta pravilima koja smo naveli.
+
+Kada kupac odgovori na privatnu poruku, Niwa nastavlja isti tok sa istom istorijom, umesto da kreće od početka.
+
+Ključna razlika je odakle dolazi odgovor. Pre nego što model uopšte vidi proizvod, Niwa ga proverava uživo u WooCommerce-u: da li je objavljen i vidljiv, da li je na stanju i koliko komada ima, kolika je redovna i kolika akcijska cena. Kada u ponoć WooCommerce počne da prikazuje akcijsku cenu, Niwa u DM-u kaže istu cenu. Kada broj 39 u 14h ostane bez zaliha, Niwa ga posle toga ne nudi kao dostupan.
+
+Akcijsku cenu i datume akcije unosite u WooCommerce kao i inače. Možete i da kažete Niwinom asistentu za vlasnika, preko Telegrama ili WordPress-a, da postavi akcijsku cenu sa datumom početka i kraja. On to upisuje u WooCommerce-ova polja za trajanje akcije, a varijacije menja posebno. To radi samo kada vi to zatražite. Kupac iz komentara ne može da promeni ništa.
+
+Pravila za kupone i pakete pišete jednom, u Niwinim podešavanjima. Na primer: kod važi do ponedeljka u ponoć i ne sabira se sa akcijskom cenom. Ista pravila važe u chatu na sajtu i u porukama na Instagramu, Messenger-u i WhatsApp-u.
+
+Odgovor u DM-u je običan tekst do 900 karaktera, na jeziku kupca, sa pravim linkom ka proizvodu. Korpu iz DM-a Niwa ne otvara i ne tvrdi da ju je otvorila. Kupca šalje na stranicu proizvoda, gde vidi istu cenu koju je pročitao u poruci.
+
+## Kada u dva sata stigne tri stotine komentara
+
+Na vrhuncu kampanje veći problem od lošeg teksta je duplikat poruke ili poruka koja ne sme da ode. Niwa tu ima nekoliko konkretnih kočnica:
+
+- Svaki komentar dobija najviše jednu privatnu poruku, i ona se ne šalje dva puta.
+- Kad nije jasno da li je poruka stigla, Niwa je obeležava za proveru i ne šalje je ponovo sama.
+- Ako model ne uspe da pripremi odgovor, ne šalje se ništa. Nema rezervne generičke poruke.
+- Komentar koji je samo slika ide čoveku na pregled.
+- Kada odgovorite sami iz Instagram aplikacije, Niwa se povlači iz tog razgovora na dva sata.
+- Javni odgovor ispod komentara nema pristup privatnim podacima kupca iz ranijih razgovora.
+
+Gde Niwa staje: komentari se automatski obrađuju samo na Instagramu, ne na Facebook stranici. Privatni odgovori na komentare tokom Instagram Live prenosa nisu podržani. Ako prodajete uživo, ManyChat ima poseban [okidač za komentare tokom Live-a](https://help.manychat.com/en/articles/17741969-instagram-live-comments-trigger) i tu pokriva ono što Niwa ne pokriva. Opcija za komentare je isključena dok je ne uključite, i radi samo ako ste pri povezivanju naloga odobrili dozvolu za komentare.
+
+## Od komentara do porudžbine: šta merite
+
+Niwa analitika broji privatne razgovore po kanalu, a komentare ne broji kao razgovore. Tri stotine komentara zato neće napumpati izveštaj. Videćete koliko je ljudi zaista prešlo u DM.
+
+Za posetu sa Instagrama koristite link sa UTM oznakom, na primer utm_campaign=black-friday-2026. Taj link upišete u uputstvo toka, i to je praktičan predlog, jer Niwa ga ne dodaje sama. Na sajtu Niwa beleži izvor posete, stranicu na koju je kupac stigao i porudžbinu, a promena statusa ili refund u WooCommerce-u menja i konverziju. Niwa ne povezuje Instagram profil sa konkretnim posetiocem, pa izveštaj pokazuje kampanju, ne osobu. Detaljnije o tome pišemo u tekstovima o [atribuciji porudžbina iz DM-a](/blog/instagram-dm-woocommerce-atribucija-porudzbina-niwa-ai-manychat-2026) i [analitici DM prodaje](/blog/analitika-instagram-dm-prodaje-woocommerce-niwa-ai-manychat-2026).
+
+Brojke koje posle vikenda vredi pogledati:
+
+- koliko komentara je prešlo u privatni razgovor;
+- koliko razgovora je otišlo čoveku i zašto;
+- koliko poseta sa UTM linkom kampanje je završilo porudžbinom;
+- koliko je tih porudžbina vraćeno ili otkazano do sredine decembra.
+
+## Šta uraditi do četvrtka
+
+Nedelja je dovoljna ako počnete danas:
+
+- Unesite akcijske cene sa datumima u WooCommerce i u 00:05 u petak otvorite stranicu proizvoda da vidite da li je akcija stvarno počela.
+- Upišite pravila kupona: kod, rok, sa čim se ne sabira.
+- Napravite jedan tok za komentare: šta Niwa pita kada nema veličine, kada šalje link, kada zove čoveka.
+- Ugasite drugi bot na istoj objavi. Dva alata na istom komentaru znače dve poruke kupcu, o tome više u tekstu o [prelasku sa ManyChat-a](/blog/manychat-alternativa-woocommerce-niwa-ai-migracija-2026).
+- Sa test naloga ostavite četiri komentara: broj koji imate, broj koji nemate, pitanje o roku akcije i samo emoji.
+- Odredite ko u petak od 9 do 13h odgovara na razgovore koje Niwa [preda čoveku](/blog/kupac-trazi-coveka-instagram-dm-woocommerce-niwa-ai-manychat-2026).
+
+Ako vam se komentari već pretvaraju u posete, ali ne i u porudžbine, problem je verovatno na sajtu. Pogledajte [zašto web shop nema prodaju](/web-shop-nema-prodaju) i [koliko koštaju Instagram reklame](/instagram-reklame-cena) pre nego što povećate budžet za vikend.
+
+## Kada je ManyChat dovoljan, a kada je Niwa bolji izbor
+
+ManyChat je dovoljan kada kampanja deli jedan kod ili jedan link, kada prodajete kroz Live i kada vam proizvodi i cene u toku vikenda stoje mirno.
+
+Niwa je bolji izbor kada je prodavnica na WooCommerce-u, a kupci u komentarima pitaju za veličinu, boju, stanje i cenu koja se menja u ponoć. Tada odgovor mora da dolazi iz istog kataloga iz kog radi i checkout. U suprotnom vam DM obećava jedno, a korpa naplaćuje drugo, baš u nedelji kada vam je to najskuplje.
+
+Ako želite da pre petka vidite gde vam kampanja curi, uradite [besplatnu proveru WooCommerce prodavnice](https://niwachat.com/sr/free-woocommerce-ai-audit-sr/) na niwachat.com. Ako vam treba ceo plan za Black Friday, od oglasa preko komentara do stranice proizvoda, [javite nam se](/kontakt).
+`,
+  },
+  {
     slug: 'google-recenzije-posle-zavrsenog-posla-kako-traziti-prodajni-proces-srbija-2026',
     title: 'Google recenzije posle završenog posla: kako ih tražiti bez kršenja pravila u Srbiji 2026',
     excerpt: 'Većina firmi ima deset puta manje recenzija nego završenih poslova. Kako da ih tražite posle svakog posla, a da Google ne kazni profil zbog popusta ili filtriranja.',

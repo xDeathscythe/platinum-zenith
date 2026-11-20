@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "black-friday-instagram-komentari-woocommerce-niwa-ai-manychat-2026",
+    "title": "Black Friday komentari na Instagramu za WooCommerce: Niwa AI vs ManyChat",
+    "excerpt": "Tri stotine komentara ispod Black Friday objave, a cena se menja u ponoć. Kako ih vode ManyChat ključne reči, a kako Niwa sa cenama i zalihama iz WooCommerce-a.",
+    "date": "2026-11-20",
+    "category": "E-Commerce",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-recenzije-posle-zavrsenog-posla-kako-traziti-prodajni-proces-srbija-2026",
     "title": "Google recenzije posle završenog posla: kako ih tražiti bez kršenja pravila u Srbiji 2026",
     "excerpt": "Većina firmi ima deset puta manje recenzija nego završenih poslova. Kako da ih tražite posle svakog posla, a da Google ne kazni profil zbog popusta ili filtriranja.",
