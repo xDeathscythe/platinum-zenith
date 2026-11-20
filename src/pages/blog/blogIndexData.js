@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-recenzije-posle-zavrsenog-posla-kako-traziti-prodajni-proces-srbija-2026",
+    "title": "Google recenzije posle završenog posla: kako ih tražiti bez kršenja pravila u Srbiji 2026",
+    "excerpt": "Većina firmi ima deset puta manje recenzija nego završenih poslova. Kako da ih tražite posle svakog posla, a da Google ne kazni profil zbog popusta ili filtriranja.",
+    "date": "2026-11-20",
+    "category": "Marketing",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "ai-max-google-ads-pretraga-kada-ukljuciti-iskljuciti-upiti-srbija-2026",
     "title": "AI Max u Google Ads: kada ga uključiti, a kada isključiti za upite u Srbiji 2026",
     "excerpt": "AI Max je podrazumevano uključen u novim kampanjama za pretragu. Kako da proverite koje pretrage, strane i tekstove dovodi i da li donosi kupce, a ne samo forme.",

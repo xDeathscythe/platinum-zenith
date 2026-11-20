@@ -1,5 +1,126 @@
 const rawBlogPosts = [
   {
+    slug: 'google-recenzije-posle-zavrsenog-posla-kako-traziti-prodajni-proces-srbija-2026',
+    title: 'Google recenzije posle završenog posla: kako ih tražiti bez kršenja pravila u Srbiji 2026',
+    excerpt: 'Većina firmi ima deset puta manje recenzija nego završenih poslova. Kako da ih tražite posle svakog posla, a da Google ne kazni profil zbog popusta ili filtriranja.',
+    date: '2026-11-20',
+    readTime: '8 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Prodajni proces', 'Google recenzije', 'Google Business Profile', 'Lokalni SEO', 'CRM', 'Dokazi poverenja'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+Uporedite broj poslova koje ste završili prošle godine sa brojem Google recenzija koje ste dobili. Kod većine uslužnih firmi u Srbiji razlika je deset ili dvadeset puta. Klijenti nisu bili nezadovoljni. Niko ih nije pitao, ili ih je pitao jednom, preko opšteg mejla sa adrese info@, nedelju dana kasnije.
+
+Kupac koji vas danas nađe preko oglasa ili pretrage ne zna ništa o tih 400 završenih poslova. Vidi 11 recenzija kod vas i 70 kod firme dve ulice dalje. Zato zahtev za recenziju treba tretirati kao poslednji korak prodajnog procesa, sa vlasnikom, rokom i poljem u CRM-u. Ako ostane na nivou "setićemo se", neće ga raditi niko.
+
+## Zašto je ovo prodaja, a ne marketing za kad stignemo
+
+Recenzije rade dva posla. Prvi je vidljivost. Google u svom uputstvu za [lokalno rangiranje](https://support.google.com/business/answer/7091?hl=en) navodi da je istaknutost firme delom zasnovana na broju recenzija i da više recenzija i dobre ocene mogu da pomognu poziciji u lokalnim rezultatima. Drugi posao je važniji: recenzije odlučuju da li će čovek koji je već kliknuo uopšte pozvati.
+
+Oglas i sajt govore ono što vi tvrdite o sebi. Recenzije govore ono što su drugi doživeli. Kada neko poredi tri firme za isti posao, otvara Google profil pre nego što otvori vaš cenovnik. Zato recenzije spadaju u isti paket sa ostalim [dokazima poverenja na sajtu](/blog/dokazi-poverenja-na-sajtu-konverzija-srbija-2026): bez njih plaćate isti klik, a manje ljudi stigne do poziva.
+
+Sređen [Google Business profil](/blog/google-business-profile-optimizacija-srbija-2026) je osnova. Ovaj tekst se bavi delom koji većina preskoči: kako da svaki završen posao proizvede priliku za recenziju, bez kršenja pravila.
+
+## Šta Google izričito zabranjuje
+
+Ovde mnoge firme greše u dobroj veri, jer su "trikove" pročitale u nekom alatu ili čule od kolega. Googleova [pravila za sadržaj na Mapama](https://support.google.com/contributionpolicy/answer/7400114?hl=en) zabranjuju sledeće:
+
+- **Popust ili poklon za recenziju.** "10% popusta na sledeći servis ako nas ocenite" je zabranjeno, čak i ako je recenzija iskrena. Isto važi za nagradu u zamenu za izmenu ili brisanje loše recenzije.
+- **Filtriranje nezadovoljnih.** Ne smete da prvo pitate "da li ste zadovoljni" pa da link za Google pošaljete samo onima koji kažu da jesu. Google to naziva selektivnim traženjem pozitivnih recenzija. Neki alati za recenzije prodaju baš tu funkciju.
+- **Pritisak na licu mesta.** Smete da date karticu sa QR kodom. Ne smete da stojite pored kupca dok ne napiše.
+- **Diktiranje sadržaja.** Ne tražite da pomene ime majstora, uslugu ili ključne reči, i ne šaljite gotov tekst za kopiranje.
+- **Kvote za zaposlene.** Pravila kao primer zabranjenog navode da firma od zaposlenih traži određen broj recenzija. "Svaki serviser donosi deset recenzija mesečno" je tačno to.
+- **Recenzije iz sukoba interesa.** Zaposleni, bivši zaposleni, rodbina, partneri i firme sa kojima menjate recenzije ne pišu vam ocene.
+
+Kazna nije samo brisanje spornih recenzija. Prema Googleovoj strani o [ograničenjima Business profila](https://support.google.com/business/answer/14114287?hl=en), profil može određeno vreme da ne prima nove recenzije, postojeće mogu biti skrivene, a kupcima se može prikazati upozorenje da su uklonjene lažne recenzije. Profil sa takvim upozorenjem prodaje gore od profila sa malo recenzija.
+
+Šta je dozvoljeno: da tražite recenziju od svakog stvarnog klijenta, bez nagrade i bez uticaja na ocenu i tekst. To je ceo prostor u kome radite, i dovoljan je.
+
+## Kada tražiti recenziju
+
+Najbolji trenutak je kada je klijent video rezultat, a ne kada ste vi završili svoj deo.
+
+- **Servis i popravke:** dan posle intervencije, kada je jasno da uređaj radi.
+- **Zanatski i građevinski radovi:** na primopredaji ili odmah posle konačnog obračuna, dok je utisak svež.
+- **B2B usluge sa dužim trajanjem:** posle prvog jasnog rezultata, na primer posle prvog izveštaja ili završene faze, ne posle potpisa ugovora.
+- **Termini i tretmani:** istog dana ili sutradan, dok se klijent seća ko ga je primio.
+
+Pravilo je isto za sve: zahtev ide svakom klijentu kada se posao zatvori. Ne birate kome ćete ga poslati prema tome kako mislite da je prošlo.
+
+## Ko traži i kojim rečima
+
+Zahtev treba da pošalje osoba koju je klijent upoznao: majstor, serviser, konsultant, vlasnik. Poruka od čoveka sa imenom dobija odgovor. Automatski mejl bez potpisa završi u arhivi.
+
+Link pravite u Google Business profilu. Prema [Googleovom uputstvu](https://support.google.com/business/answer/16816815?hl=en), u delu za čitanje recenzija postoji opcija za dobijanje više recenzija, gde se kopira link ili preuzima QR kod. QR kod se za sada pravi samo iz pregledača na računaru, ne sa telefona. Link može da ide mejlom, preko WhatsApp-a ili na računu.
+
+Primer poruke za WhatsApp ili SMS:
+
+> Dobar dan, Marko iz firme X. Hvala što ste nas zvali za zamenu bojlera. Ako imate dva minuta, ostavite nam ocenu na Google-u, kakvu god mislite da zaslužujemo: [link]. Ako nešto ne radi kako treba, javite se meni direktno na ovaj broj.
+
+Poslednja rečenica ne zamenjuje link. Link dobijaju svi, a broj je tu da klijent koji ima problem ima kome da se javi. Razlika je bitna: ako biste nezadovoljnima slali samo broj telefona, a zadovoljnima link, to bi bilo filtriranje.
+
+Jedan podsetnik posle tri do pet dana je u redu. Posle toga stanite. Treća poruka više šteti odnosu nego što donosi ocenu.
+
+## Koliko to menja: primer sa brojevima
+
+Brojevi u nastavku su izmišljen primer, ne prosek tržišta. Odziv od 30% je pretpostavka, a vaš može biti manji ili veći.
+
+Firma završi 40 poslova mesečno. Danas recenziju traži kad se neko seti, otprilike od 10 klijenata, i dobije 3 recenzije. Posle uvođenja procesa link dobija svih 40 klijenata, a uz odziv od 30% stiže 12 recenzija mesečno. Za šest meseci to je 18 recenzija u starom režimu i 72 u novom.
+
+Veći broj nije samo lepši izgled. On štiti od jedne loše ocene, koju ćete pre ili kasnije dobiti:
+
+- Profil sa 10 recenzija i prosekom 4,8 posle jedne ocene 1 pada na oko 4,45.
+- Profil sa 80 recenzija i prosekom 4,8 posle iste ocene ostaje na oko 4,75.
+
+Ista loša ocena, potpuno drugačiji utisak kod sledećeg kupca. Firma sa malo recenzija praktično je talac svakog nezadovoljnog klijenta.
+
+## Loša recenzija je izveštaj o prodajnom procesu
+
+Loše ocene dolaze i kada sve radite dobro. Ono što ih pretvara u štetu je odgovor koji izostane, ili koji počne svađu.
+
+Google u [savetima za odgovaranje](https://support.google.com/business/answer/3474122?hl=en) traži kratak i profesionalan odgovor, bez otkrivanja ličnih podataka kupca i bez napada. Priznajte grešku ako je postoji, objasnite ono što niste mogli da kontrolišete i ponudite razgovor telefonom. Ne nudite ništa u zamenu za izmenu ocene, jer je to zabranjeno isto kao popust za recenziju. Ako recenzija krši pravila (lažna, uvredljiva, od konkurencije), prijavite je kroz profil umesto da je komentarišete.
+
+Pročitajte loše recenzije zajedno sa prodajom. Često pokažu isto mesto: oglas ili prodavac je obećao rok, cenu ili uslugu koju izvođenje nije isporučilo. To je problem [usklađenosti oglasa i landing strane](/blog/uskladjenost-oglasa-landing-strane-konverzija-srbija-2026), a ne problem klijenta. Svaka takva greška košta i kroz [reklamacije i dorade](/blog/trosak-reklamacija-marketing-roi-srbija-2026).
+
+## Polja u CRM-u za recenzije
+
+Ako već vodite [evidenciju leadova u CRM-u](/blog/crm-za-leadove-evidencija-prodaja-srbija-2026), dodajte sledeća polja na karticu klijenta:
+
+- Datum zatvaranja posla.
+- Ko je radio posao i ko šalje zahtev.
+- Zahtev poslat: datum i kanal.
+- Podsetnik poslat: datum.
+- Recenzija stigla: da ili ne, i ocena.
+- Odgovor na recenziju objavljen: datum.
+
+Iz tih polja dobijate dva broja. Prvi je koliko zatvorenih poslova je dobilo link. Drugi je koliko poslatih linkova je donelo recenziju. Prvi broj zavisi samo od vas i treba da bude blizu 100%.
+
+Pazite šta merite kod ljudi. Merite da li je serviser poslao link posle svakog posla, a ne koliko je recenzija doneo. Prvo je provera procesa. Drugo je upravo kvota koju Google zabranjuje i koja ljude gura ka pritisku i molbama rodbini.
+
+## Recenzije, preporuke i oglasi
+
+Zadovoljan klijent koji ostavi recenziju često je isti onaj koji vas preporuči komšiji. Kada taj komšija ukuca ime firme u Google, klik se u izveštaju vodi kao brend pretraga, iako je posao doneo raniji klijent. O tome smo pisali kod [preporuka klijenata kao izvora leadova](/blog/preporuke-klijenata-izvor-leadova-prodaja-srbija-2026) i kod [brend kampanja u Google Ads-u](/blog/brend-kampanja-google-ads-roi-budzet-srbija-2026).
+
+Za oglase ovo ima direktnu posledicu. Što je profil jači, to veći deo plaćenih klikova završi pozivom umesto povratkom na rezultate pretrage. Pre povećanja budžeta proverite šta kupac vidi kada posle vašeg oglasa potraži vaše ime.
+
+## Šta da uradite ove nedelje
+
+- Napravite link i QR kod za recenzije u Google Business profilu, na računaru.
+- Napišite jednu kratku poruku koju šalje osoba koja je radila posao, bez nagrade i bez traženja određene ocene.
+- Odredite trenutak slanja za svaku vrstu posla.
+- Pošaljite link svim klijentima čiji su poslovi zatvoreni u poslednjih 30 dana, bez izbora.
+- Uklonite iz alata i skripti svako pitanje "da li ste zadovoljni" koje odlučuje ko dobija link.
+- Odgovorite na sve recenzije bez odgovora, prvo na loše.
+
+Ako želite da proverimo šta se dešava između klika na vaš oglas i poziva, uključujući profil, recenzije i sajt, pogledajte kako vodimo [Google Ads kampanje](/google-ads-agencija), okvirne [cene Google reklama](/google-reklame-cena), [cene digitalnog marketinga](/cene-digitalnog-marketinga) i ponudu za [lokalne biznise](/industrije/lokalni-biznisi). Kada budete spremni, [pošaljite nam upit](/kontakt) i javićemo vam se sa konkretnim predlogom.
+
+`,
+  },
+  {
     slug: 'ai-max-google-ads-pretraga-kada-ukljuciti-iskljuciti-upiti-srbija-2026',
     title: 'AI Max u Google Ads: kada ga uključiti, a kada isključiti za upite u Srbiji 2026',
     excerpt: 'AI Max je podrazumevano uključen u novim kampanjama za pretragu. Kako da proverite koje pretrage, strane i tekstove dovodi i da li donosi kupce, a ne samo forme.',
