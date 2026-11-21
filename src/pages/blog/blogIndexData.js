@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "whatsapp-woocommerce-naplata-poruka-niwa-ai-manychat-2026",
+    "title": "WhatsApp za WooCommerce kad Meta naplaćuje odgovore: Niwa AI vs ManyChat",
+    "excerpt": "Od 1. oktobra Meta naplaćuje WhatsApp odgovore posle 1.000 mesečno. Šta to menja za WooCommerce prodavnicu i kako na WhatsApp-u rade ManyChat i Niwa AI.",
+    "date": "2026-11-21",
+    "category": "E-Commerce",
+    "readTime": "9 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-ciscenje-snega-zimsko-odrzavanje-cena-ugovora-srbija-2026",
     "title": "Google Ads za čišćenje snega i zimsko održavanje: ugovori pre prvog snega u Srbiji 2026",
     "excerpt": "Firma za čišćenje snega ne zarađuje na pozivima posle mećave, nego na ugovorima potpisanim pre nje. Koliko sme da košta upit, šta isključiti i kako meriti.",

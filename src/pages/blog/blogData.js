@@ -1,5 +1,131 @@
 const rawBlogPosts = [
   {
+    slug: 'whatsapp-woocommerce-naplata-poruka-niwa-ai-manychat-2026',
+    title: 'WhatsApp za WooCommerce kad Meta naplaćuje odgovore: Niwa AI vs ManyChat',
+    excerpt: 'Od 1. oktobra Meta naplaćuje WhatsApp odgovore posle 1.000 mesečno. Šta to menja za WooCommerce prodavnicu i kako na WhatsApp-u rade ManyChat i Niwa AI.',
+    date: '2026-11-21',
+    readTime: '9 min read',
+    category: 'E-Commerce',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Niwa AI', 'ManyChat', 'WooCommerce', 'WhatsApp', 'WhatsApp Business', 'Black Friday'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+Od 1. oktobra 2026. Meta ponovo naplaćuje odgovore na WhatsApp-u. Svaki poslovni broj ima 1.000 besplatnih odgovora mesečno, a od 1.001. poruke svaki isporučen odgovor košta. Za broj iz Srbije to je 0,0175 € po poruci, za kupca sa nemačkim brojem 0,0456 €, po [Meta cenovniku](https://developers.facebook.com/documentation/business-messaging/whatsapp/pricing) u evrima.
+
+Za većinu WooCommerce prodavnica to nije iznos koji ruši budžet. Ali menja pitanje koje vlasnik treba da postavi alatu na WhatsApp-u. Ranije je bilo "da li odgovara". Sada je "koliko poruka mu treba da kupac dobije tačan odgovor i link ka proizvodu".
+
+Ovaj tekst je deo serijala o tome kako se [Niwa AI i ManyChat](/blog/niwa-ai-vs-manychat-wordpress-woocommerce-2026) ponašaju u WooCommerce prodavnici. Do sada smo gledali uglavnom Instagram. Sada je red na WhatsApp, nedelju dana pre Black Friday-a, kada kupci u Srbiji pišu baš tamo: "imate li 39", "da li stiže do petka", "važi li popust i pouzećem".
+
+## Šta se tačno promenilo 1. oktobra
+
+Meta od jula 2025. naplaćuje WhatsApp po isporučenoj poruci, ne po razgovoru. Od 1. oktobra 2026. u tu naplatu su se vratili i obični odgovori kupcu, koje Meta zove service poruke. Pravila koja važe za svaki alat, i za ManyChat i za Niwu:
+
+- Poruke koje kupac šalje vama su besplatne.
+- Odgovor bez šablona sme da ode samo u roku od 24 sata od poslednje poruke kupca. Prvih 1.000 takvih odgovora mesečno po broju je besplatno, a neiskorišćene se ne prenose u sledeći mesec.
+- Poruka posle tih 24 sata mora da bude odobren šablon. Marketing šablon za broj iz Srbije košta 0,0712 € po isporučenoj poruci.
+- Cena zavisi od pozivnog broja kupca, ne od toga gde je vaša firma. Odgovor kupcu iz dijaspore sa nemačkim brojem naplaćuje se po nemačkoj ceni.
+- Kada kupac piše iz Click to WhatsApp oglasa sa telefona i vi odgovorite u roku, otvara se besplatan prozor do 7 dana u kome Meta ne naplaćuje ni odgovore ni šablone.
+- Ako WhatsApp nalog nema unet način plaćanja, Meta posle 1.000. odgovora prestaje da ih isporučuje.
+
+Poslednja stavka je ona koju treba proveriti danas. Prodavnica koja u novembru prvi put pređe 1.000 odgovora može da ostane bez WhatsApp podrške baš u petak ujutru.
+
+ManyChat ovo isto objašnjava u svom [vodiču za WhatsApp cene](https://help.manychat.com/en/articles/17742132-whatsapp-pricing-guide). Kod njih se naplativa poruka skida iz ManyChat Wallet-a čim bude isporučena.
+
+## Koliko to stvarno košta jednu prodavnicu
+
+Primer je ilustrativan, nije merenje. Prodavnica u nedelji Black Friday-a dobije 1.500 pitanja na jedan WhatsApp broj, sve sa brojeva iz Srbije.
+
+Ako alat na svako pitanje pošalje tri poruke (pozdrav, opis proizvoda, poruku sa dugmetom), to je 4.500 odgovora. Posle 1.000 besplatnih ostaje 3.500 naplaćenih, što je 61,25 €. Ako na svako pitanje ode jedna poruka sa odgovorom i linkom, to je 1.500 odgovora i 500 naplaćenih, odnosno 8,75 €.
+
+Razlika je 52,50 €. Jedan vraćen paket zbog pogrešno obećane veličine košta prodavnicu više od toga. Zato ovo nije tekst o uštedi na Meta računu. Novac se gubi kada kupac posle tri poruke i dalje ne zna ima li broj 39. Meta račun samo pokazuje koliko ste poruka potrošili da do tog odgovora ne dođete.
+
+Za Black Friday poruku celoj listi računica je drugačija. Marketing šablon na 2.000 brojeva iz Srbije košta 142,40 €, i ta poruka se plaća i kada je niko ne otvori.
+
+## ManyChat na WhatsApp-u: šta dobijate
+
+ManyChat je ozbiljan alat za WhatsApp i to treba reći jasno. Imate tokove u flow builderu, okidače na ključne reči, dugmad, šablone i [broadcast poruke](https://help.manychat.com/en/articles/17742170-broadcasting-in-whatsapp) koje šablonom stižu i do kontakata kojima je istekao prozor od 24 sata. Ako vam treba masovna poruka listi pred Black Friday, ManyChat je za to napravljen.
+
+Sa AI odgovorima je slika uža. [AI Replies](https://help.manychat.com/en/articles/17742092-manychat-ai-replies), funkcija koja odgovara iz baze znanja, po njihovoj dokumentaciji radi samo na Instagramu i još je u beta fazi. Na WhatsApp-u postoji [AI Step](https://help.manychat.com/en/articles/17742168-manychat-ai-step), korak u toku kome upišete cilj i kontekst: podatke o firmi, proizvodima, česta pitanja i ton.
+
+Taj kontekst je tekst koji vi održavate. Kada u ponoć krene akcija, cena u AI Step-u ostaje ona koju ste upisali, dok je neko ne promeni. Na [stranici integracija](https://manychat.com/integrations) ManyChat nema WooCommerce. Veza sa prodavnicom ide preko Zapier-a, Make-a ili API-ja, što znači još jedan sistem koji neko mora da složi i prati.
+
+## Niwa na WhatsApp-u: odgovor iz prodavnice
+
+Niwa se na WhatsApp povezuje preko zvaničnog Cloud API-ja. U podešavanjima kanala povežete postojeći registrovan broj i odobrite pristup preko Facebook-a. Odgovori kupcima su posle povezivanja pauzirani dok ih sami ne uključite.
+
+Kupcu na WhatsApp-u odgovara isti asistent koji radi u chatu na vašem sajtu, sa javnim znanjem sajta. U praksi to izgleda ovako:
+
+- Pre nego što model vidi proizvod, Niwa ga proverava uživo u WooCommerce-u: da li je objavljen i vidljiv, da li je na stanju, kolika je redovna i kolika akcijska cena.
+- Kada u ponoć WooCommerce počne da prikazuje akcijsku cenu, kupac na WhatsApp-u dobija tu cenu. Ništa ne prepisujete ručno.
+- Pravila za kupone pišete jednom i važe u chatu na sajtu, na Instagramu i na WhatsApp-u.
+- Za svaki broj imate posebno uputstvo do 8.000 karaktera, na primer kada da pošalje link, šta da kaže za rok isporuke i kada da pozove čoveka.
+
+Na svaku poruku kupca Niwa šalje najviše jedan odgovor. To je običan tekst, na jeziku kupca, sa pravim linkom ka stranici proizvoda. U novom razgovoru se predstavi kao AI asistent prodavnice. Korpu u WhatsApp-u ne otvara i ne tvrdi da ju je otvorila. Kupca šalje na sajt, gde vidi istu cenu koju je pročitao u poruci.
+
+U jeziku Meta naplate: jedno pitanje kupca, jedna naplativa poruka, a u njoj odgovor i sledeći korak.
+
+## Kočnice koje čuvaju poruke i razgovor
+
+Na vrhuncu kampanje skupa nije poruka, nego poruka koja nije trebalo da ode. Niwa ima nekoliko kočnica koje se vide u kodu, ne samo u opisu:
+
+- Jedan kupac može da dobije najviše 30 automatskih odgovora na sat.
+- Kada je sa druge strane bot koji vrti ista pitanja i ljubaznosti, Niwa pošalje najviše jednu kratku poruku da završava razgovor, a onda ćuti.
+- Kada vi pošaljete poruku kupcu iz Niwe, automatski odgovori tom kupcu staju na dva sata. Možete ga vratiti Niwi i ranije.
+- Kad nije jasno da li je poruka stigla, Niwa je obeležava za proveru i ne šalje je ponovo sama.
+- Poruke stigle pre povezivanja broja se ne obrađuju, a ranija WhatsApp istorija se ne uvozi.
+
+Prve dve kočnice direktno štede naplative poruke. Druge tri štite kupca od duplog ili zakasnelog odgovora.
+
+## Gde Niwa staje
+
+Ovde Niwa nije bolji izbor i treba to znati pre petka:
+
+- Odgovara samo na tekstualne poruke. Sliku, glasovnu poruku ili klik na dugme ne pretvara u tekst i na njih ne odgovara sama.
+- U odgovorima nema dugmadi, lista ni slika, samo tekst sa linkom.
+- Niwa nije alat za masovne poruke. Odobren šablon šalje jednom određenom kupcu, kada vi to zatražite, a šabloni su statičan tekst sa numerisanim poljima, bez slika i dugmadi.
+- Ne povezuje WhatsApp broj kupca sa posetiocem na sajtu.
+
+Ako vam je Black Friday plan jedna poruka na 5.000 brojeva sa slikom i dugmetom, to je posao za ManyChat. Niwa ima i posebnu vezu preko WhatsApp Web-a i QR koda, ali ovaj tekst gleda samo zvanični Cloud API.
+
+## Kako meriti WhatsApp prodaju
+
+Niwa poruke sa WhatsApp-a broji u analitici kao poruke kanala, a broj koji vam piše postaje kontakt u Niwinom pregledu kupaca od prve poruke. Za posetu sajtu koristite link sa UTM oznakom, na primer utm_source=whatsapp i utm_campaign=black-friday-2026. Taj link upišete u uputstvo broja. To je praktičan predlog, jer Niwa ga ne dodaje sama.
+
+Na sajtu Niwa beleži izvor posete, stranicu na koju je kupac stigao i porudžbinu, a refund ili otkaz u WooCommerce-u menja i konverziju. Izveštaj pokazuje kampanju i pregledač, ne konkretnu osobu. Više o tome u tekstu o [analitici DM prodaje](/blog/analitika-instagram-dm-prodaje-woocommerce-niwa-ai-manychat-2026).
+
+Posle vikenda pogledajte četiri broja:
+
+- koliko je odgovora Meta naplatila, u Billing Hub-u;
+- koliko razgovora je otišlo čoveku i zašto;
+- koliko poseta sa utm_source=whatsapp je završilo porudžbinom;
+- koliko je tih porudžbina vraćeno do sredine decembra.
+
+## Šta uraditi pre petka
+
+Ovo je posao za jedno popodne:
+
+- Otvorite Billing Hub u Meta Business Suite-u i proverite da li WhatsApp nalog ima način plaćanja.
+- Pogledajte koliko ste odgovora poslali u oktobru. Ako ste bili blizu 1.000, u nedelji Black Friday-a ćete ih preći.
+- Napišite uputstvo za broj: šta Niwa pita kada nema veličine, kada šalje link sa UTM oznakom, kada zove čoveka.
+- Sa test broja pošaljite četiri poruke: proizvod koji imate, proizvod kojeg nemate, pitanje o akcijskoj ceni i samo sliku.
+- Odredite ko u petak od 9 do 13h preuzima razgovore koje Niwa [preda čoveku](/blog/kupac-trazi-coveka-instagram-dm-woocommerce-niwa-ai-manychat-2026).
+- Ako pišu kupci iz inostranstva, pročitajte tekst o [višejezičnim porukama i dijaspori](/blog/visejezicni-instagram-dm-dijaspora-woocommerce-niwa-ai-manychat-2026). Njihovi odgovori su i skuplji.
+
+Ako WhatsApp donosi poruke, ali ne i prodaju, problem obično nije u alatu nego u tome šta se dešava posle prve poruke. O tome pišemo u tekstu o [WhatsApp leadovima koji ne postaju prodaja](/blog/whatsapp-leadovi-poruke-prodaja-srbija-2026). Ako kupci stižu na sajt i odlaze bez porudžbine, pogledajte [zašto web shop nema prodaju](/web-shop-nema-prodaju).
+
+## Kada je ManyChat dovoljan, a kada je Niwa bolji izbor
+
+ManyChat je dovoljan kada je vaš WhatsApp uglavnom broadcast: jedna poruka listi, kod za popust, dugme ka akciji. Tu su mu dugmad, slike i liste prednost, a cene se ne menjaju svakog sata.
+
+Niwa je bolji izbor kada je prodavnica na WooCommerce-u, a kupci na WhatsApp-u pitaju za veličinu, stanje, rok i cenu koja se menja u ponoć. Odgovor tada dolazi iz istog kataloga iz kog radi checkout, u jednoj poruci, sa linkom na pravu stranicu proizvoda. Kada se svaki odgovor plaća, želite da plaćate odgovore, ne pozdrave.
+
+Kako izgleda Niwa na WhatsApp-u, pogledajte na stranici [Niwa WhatsApp AI agent](https://niwachat.com/whatsapp-ai-agent/). Ako vam treba ceo plan za Black Friday, od oglasa preko poruka do stranice proizvoda, [javite nam se](/kontakt).
+`,
+  },
+  {
     slug: 'google-ads-za-ciscenje-snega-zimsko-odrzavanje-cena-ugovora-srbija-2026',
     title: 'Google Ads za čišćenje snega i zimsko održavanje: ugovori pre prvog snega u Srbiji 2026',
     excerpt: 'Firma za čišćenje snega ne zarađuje na pozivima posle mećave, nego na ugovorima potpisanim pre nje. Koliko sme da košta upit, šta isključiti i kako meriti.',
