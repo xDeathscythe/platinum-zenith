@@ -1,5 +1,141 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-ciscenje-snega-zimsko-odrzavanje-cena-ugovora-srbija-2026',
+    title: 'Google Ads za čišćenje snega i zimsko održavanje: ugovori pre prvog snega u Srbiji 2026',
+    excerpt: 'Firma za čišćenje snega ne zarađuje na pozivima posle mećave, nego na ugovorima potpisanim pre nje. Koliko sme da košta upit, šta isključiti i kako meriti.',
+    date: '2026-11-21',
+    readTime: '9 min read',
+    category: 'Google Ads',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Čišćenje snega', 'Zimsko održavanje', 'Lokalni biznis', 'Sezonski budžet', 'CPL'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+U januaru 2026. oko 20 centimetara snega zaustavilo je Beograd, a prvog radnog dana posle praznika pešake su dočekali neočišćeni trotoari, kako je tada [izveštavao N1](https://n1info.rs/vesti/ciscenje-snega-u-beogradu-i-kazne-ko-ne-ocisti-sneg). Tog jutra su telefoni firmi za čišćenje snega zvonili bez prestanka. Većina tih poziva nije mogla da se odradi, jer su ekipe već bile na objektima sa kojima su imale ugovor.
+
+To je cela ekonomija ove niše u jednoj slici. Novac se ne pravi na pozivima posle mećave. Pravi se na ugovorima potpisanim u oktobru i novembru, dok sneg još nije pao i dok niko drugi ne plaća oglase.
+
+Ovaj tekst je za vlasnike firmi koje rade zimsko održavanje: čišćenje snega i leda, posipanje, uklanjanje ledenica, održavanje parkinga i prilaza. Gledam kako da Google Ads donosi potpisane sezonske ugovore, a ne samo zvonjavu jednog dana u godini.
+
+## Dva kupca koji kupuju u različitim mesecima
+
+Prvi kupac je ugovorni. To je upravnik stambene zajednice, menadžer tržnog centra, logistički magacin, benzinska pumpa, privatna škola ili firma sa parkingom za zaposlene. On ne traži nekoga ko će doći sutra. Traži nekoga ko će doći svaki put, pre sedam ujutru, bez da ga iko zove. Odluku donosi polako, upoređuje dve ili tri ponude i potpisuje za celu sezonu.
+
+Drugi kupac je hitan. Vlasnik kuće koji ne može da izvede auto iz dvorišta, lokal kome je ulaz zatrpan, mala firma koja se setila problema kad je sneg već napadao. On zove prvi broj koji izgleda ozbiljno i hoće nekoga za dva sata.
+
+Većina firmi pravi istu grešku: uključi oglase kad padne sneg i bori se za hitne kupce. To su najskuplji klikovi u sezoni, jer tada svi konkurenti uključuju oglase istog jutra. A firma te pozive često ne može ni da prihvati, jer prvo mora da opsluži ugovorne objekte.
+
+## Zašto upravnik zgrade uopšte kupuje
+
+Pre nego što pišete oglas, dobro je znati zašto je kupcu ovo obaveza, a ne luksuz. U Beogradu to uređuje [Odluka o komunalnom redu](https://www.paragraf.rs/propisi/odluka_o_komunalnom_redu-beograd.html). Član 36 kaže da su za uklanjanje snega i leda sa trotoara širine do 5 metara ispred zgrada, poslovnih zgrada i poslovnih prostora odgovorni vlasnici, korisnici, zakupci ili neposredni držaoci tih nepokretnosti. Ista obaveza važi za interne saobraćajnice, prilazne staze i pešačke staze oko zgrada. Član 37 obavezuje vlasnika, odnosno korisnika zgrade da uklanja ledenice sa krova i drugih spoljnih delova zgrade koja se graniči sa javnom površinom.
+
+Prema istom N1 tekstu, kazna za neočišćen trotoar ide do 50.000 dinara, a za neuklonjene ledenice do 100.000 dinara. Ako se neko oklizne i povredi, tužba ide onome ko je bio zadužen za čišćenje, na primer stambenoj zajednici.
+
+Ovo je jak argument za landing stranu i za razgovor sa upravnikom, ali ga koristite pošteno. Ne pretite kaznama u naslovu oglasa. Napišite jasno ko je po odluci odgovoran i šta vi preuzimate na sebe ugovorom. Ako radite van Beograda, proverite odluku svog grada, jer svaka lokalna samouprava ima svoja pravila.
+
+## Koliko sme da košta upit za ugovor, a koliko hitan poziv
+
+Evo izmišljenog primera, sa računicom koju možete da prepišete u svoj fajl.
+
+Poslovni objekat sa parkingom plaća pripravnost od 18.000 dinara mesečno, četiri meseca, od decembra do marta. To je 72.000 dinara. Uz to plaća 9.000 dinara po izlasku, a u prosečnoj sezoni ima šest izlazaka, što je još 54.000 dinara. Sezona vredi 126.000 dinara prihoda.
+
+Uz bruto maržu od 40%, firma zarađuje 50.400 dinara bruto dobiti po ugovoru. Ako za dobijanje novog klijenta odvaja 30% bruto dobiti, sme da potroši najviše 15.120 dinara po potpisanom ugovoru. Kad od četiri kvalifikovana upita jedan postane ugovor, kvalifikovan upit sme da košta do 3.780 dinara.
+
+Sad hitan poziv. Čišćenje prilaza kod kuće naplaćuje se 7.000 dinara, sa maržom od 50%, dakle 3.500 dinara bruto dobiti. Sa istih 30% za akviziciju, posao sme da košta 1.050 dinara. Ako svaki drugi poziv postane posao, poziv sme da košta 525 dinara.
+
+Kvalifikovan upit za ugovor vredi više od sedam hitnih poziva. I kupuje se u oktobru, kada za te reči licitira mnogo manje firmi.
+
+Računica postaje još bolja kad klijenti obnavljaju ugovor. Ako 60% ugovornih klijenata ostane i sledeće zime, dve sezone donose u proseku 80.640 dinara bruto dobiti po ugovoru. Tada upit sme da košta do 6.048 dinara. Ovo nije izgovor da preplatite klik. Ovo je razlog da obnovu merite i da je uračunate kad postavljate [maksimalnu cenu leada](/blog/maksimalna-cena-leada-srbija-2026).
+
+## Kapacitet odlučuje koliko hitnih poziva sme da kupite
+
+Firma za zimsko održavanje ima tvrd plafon: broj ekipa i mašina koje mogu da obiđu objekte pre jutra. Kad padne sneg, ugovorni objekti idu prvi. Hitni poslovi dobijaju samo ono što ostane.
+
+Primer: tri ekipe, svaka stigne da očisti sedam objekata između ponoći i sedam ujutru. To je 21 objekat. Ako je ugovoreno 17, ostaju četiri slobodna termina. Za četiri posla, uz polovinu poziva koji postanu posao, treba osam poziva. Ako svaki peti klik postane poziv, treba 40 klikova. Uz klik od 120 dinara, to je 4.800 dinara za taj dan.
+
+Tu dolazi detalj koji mnogi propuste. Prema [Google Ads pomoći](https://support.google.com/google-ads/answer/2375423), kampanja u jednom danu može da potroši do dva puta više od prosečnog dnevnog budžeta, da bi iskoristila skok saobraćaja. Dan sa snegom je baš takav dan. Ako na hitnu kampanju za taj dan želite da potrošite najviše 4.800 dinara, dnevni budžet podesite na 2.400. Inače platite klikove za poslove koje fizički ne možete da odradite.
+
+Isti problem opisan je u tekstu o [šlep službi i pomoći na putu](/blog/google-ads-za-slep-sluzbu-pomoc-na-putu-cena-poziva-srbija-2026): kad je kamion zauzet, svaki novi klik je najskuplji klik u danu.
+
+## Kako da podelite kampanje
+
+Ne mešajte ugovore i hitne pozive u istu kampanju. Imaju različitu vrednost, različit kalendar i različitu landing stranu.
+
+### Kampanja za sezonske ugovore
+
+Radi od kraja septembra do sredine januara, sa najjačim budžetom u oktobru i novembru. Ključne reči su poslovne: zimsko održavanje objekata, čišćenje snega za firme, ugovor za čišćenje snega, čišćenje snega sa parkinga, uklanjanje snega i leda za stambene zajednice, zimska služba za magacine. Landing strana objašnjava pripravnost, vreme izlaska, šta je uključeno i ko je odgovoran po odluci. Forma traži:
+
+- tip objekta i opštinu;
+- približnu površinu trotoara, prilaza i parkinga u kvadratima;
+- da li je potrebno mašinsko čišćenje ili ručno;
+- do kada mora biti očišćeno (na primer do 7 sati);
+- da li treba posipanje i uklanjanje ledenica;
+- ime osobe koja potpisuje ugovor.
+
+Poslednje polje je važnije nego što izgleda. Upravnik zgrade često mora da dobije saglasnost stanara, a menadžer objekta odobrenje vlasnika. Ako to ne znate na početku, ponuda visi nedeljama.
+
+### Kampanja za hitne pozive
+
+Napravite je unapred, sa oglasima, ključnim rečima i call assetom, pa je ostavite pauziranu. Uključujete je ručno kad Republički hidrometeorološki zavod najavi sneg, a gasite kad prođe dan ili dva posle padavina. U tekstu oglasa navedite realno vreme dolaska i zonu koju pokrivate. Bolje je da vas kupac preskoči zbog „dolazak za 4 sata" nego da vas pozove, sazna istinu i spusti slušalicu posle plaćenog klika.
+
+Google ima i [prilagođavanja sezonalnosti](https://support.google.com/google-ads/answer/10369906) za Smart Bidding: najavite očekivani skok stope konverzije za događaj od jednog do sedam dana. Radi samo uz Target CPA ili Target ROAS na Search kampanjama. Hitna kampanja koja radi deset dana godišnje retko ima dovoljno konverzija za takvo licitiranje, pa je kod većine malih firmi ručna kontrola cene klika i budžeta sigurnija.
+
+### Ledenice i krovovi
+
+Uklanjanje ledenica je visinski rad, sa drugom opremom, osiguranjem i ljudima. Cena je drugačija, a i kupac često. Ako to radite, dajte mu posebnu grupu oglasa i posebnu stranu. Ako ne radite, odmah ga dodajte u negativne ključne reči.
+
+## Negativne ključne reči pre prvog snega
+
+Reč „sneg" je jedna od najširih reči u srpskoj pretrazi. Ljudi traže prognozu, stanje na skijalištima, fotografije i pesme. Pre prvog dana kampanje dodajte negativne:
+
+- prognoza, vremenska prognoza, RHMZ, upozorenje;
+- Kopaonik, Zlatibor, Stara planina, skijanje, stanje snega;
+- posao, oglas za posao, zaposlenje, dnevnica;
+- kupovina opreme: freza za sneg, lopata, ralica cena, lanci, zimske gume;
+- so za posipanje cena, ako ne prodajete so;
+- slike, pesma, crtež.
+
+Dodajte i padežne oblike. Srpski ima „sneg", „snega", „snegom", a ljudi pišu i „ciscenje snega" bez dijakritika. Google ne tumači [tipove podudaranja](/blog/tipovi-podudaranja-kljucnih-reci-google-ads-lead-generation-srbija-2026) uvek onako kako očekujete, pa izveštaj o terminima pretrage proverite već prvog dana kampanje. Pazite i na reč „čišćenje": bez negativnih reči oglasi će se prikazivati za čišćenje stanova i kancelarija. To je posao za [firme za čišćenje](/blog/google-ads-za-firme-za-ciscenje-cena-upita-srbija-2026), a ne vaš.
+
+## Kako da merite kad Google ne broji pozive
+
+Ova niša živi od telefona, a Srbija nije na listi zemalja sa Googleovim brojevima za preusmeravanje poziva, prema [Google Ads pomoći](https://support.google.com/google-ads/answer/2454052). To znači da nema izveštaja o trajanju poziva iz oglasa niti uvoza poziva. Vidite klikove na call asset i klikove na broj na mobilnom sajtu, ali ne i da li je razgovor uopšte završen.
+
+Rešenje je jednostavno, a malo ko ga radi. Uzmite poseban broj telefona koji stoji samo u oglasima i na landing strani. Svaki poziv na taj broj upisujte u CRM ili makar u tabelu sa ovim kolonama:
+
+- datum i kampanja (ugovor ili hitno);
+- tip objekta, opština i površina;
+- da li je poslata ponuda;
+- da li je potpisan ugovor ili odrađen posao;
+- vrednost sezone ili posla;
+- da li je klijent obnovio ugovor sledeće godine.
+
+Bez poslednje kolone nikad nećete znati koliko vam vredi ugovorni klijent, pa ćete uvek licitirati kao da je jednokratan. Više o tome šta se meri ima u tekstu o [praćenju konverzija](/blog/pracenje-konverzija-lead-generation-srbija-2026).
+
+## Budžet po mesecima
+
+Raspodela zavisi od toga koliko ugovora već imate i koliko ekipa možete da pokrenete. Okvirna logika izgleda ovako. U septembru i oktobru najveći deo budžeta ide na ugovornu kampanju i remarketing prema posetiocima strane sa uslugama za firme. U novembru ugovorna kampanja i dalje radi, uz poslednji krug ponuda i obnovu prošlogodišnjih klijenata. Od decembra do februara ugovorna kampanja radi slabije, a hitna se uključuje samo kad sneg dolazi i kad imate slobodne termine. U martu sve gasite i beležite šta je radilo.
+
+Ako želite da ovo uklopite u godišnji plan, pogledajte tekst o [sezonskom marketing budžetu](/blog/sezonski-marketing-budzet-lead-generation-srbija-2026). Za konkretan raspon troškova klika i upravljanja nalogom, tu je strana [Google reklame cena](/google-reklame-cena).
+
+## Šta da uradite ove nedelje
+
+Kraj novembra nije idealno vreme za prve ugovore, ali nije ni kasno. Mnoge zgrade i firme se sete zimske službe tek kad vide prve pahulje u prognozi.
+
+- Napravite jednu landing stranu za sezonske ugovore, sa pripravnošću, vremenom izlaska i formom na prvom ekranu.
+- Pokrenite ugovornu kampanju danas, sa poslovnim ključnim rečima i listom negativnih.
+- Napravite hitnu kampanju i ostavite je pauziranu, sa dnevnim budžetom izračunatim iz slobodnih termina.
+- Uzmite poseban broj samo za oglase.
+- Pozovite prošlogodišnje klijente pre nego što ih pozove konkurencija.
+
+Ako vodite firmu za zimsko održavanje i želite da neko postavi kampanje, merenje i landing stranu pre prvog snega, pogledajte kako radimo kao [Google Ads agencija](/google-ads-agencija) i šta radimo za [lokalne biznise](/industrije/lokalni-biznisi). Pregled paketa je na strani [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+[Pošaljite nam upit](/kontakt) sa brojem ekipa, gradom i brojem ugovora koje već imate. Vratićemo vam računicu koliko sme da košta upit za vašu firmu i koliko hitnih poziva vredi kupiti kad padne sneg.
+`,
+  },
+  {
     slug: 'black-friday-instagram-komentari-woocommerce-niwa-ai-manychat-2026',
     title: 'Black Friday komentari na Instagramu za WooCommerce: Niwa AI vs ManyChat',
     excerpt: 'Tri stotine komentara ispod Black Friday objave, a cena se menja u ponoć. Kako ih vode ManyChat ključne reči, a kako Niwa sa cenama i zalihama iz WooCommerce-a.',

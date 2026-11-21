@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-ciscenje-snega-zimsko-odrzavanje-cena-ugovora-srbija-2026",
+    "title": "Google Ads za čišćenje snega i zimsko održavanje: ugovori pre prvog snega u Srbiji 2026",
+    "excerpt": "Firma za čišćenje snega ne zarađuje na pozivima posle mećave, nego na ugovorima potpisanim pre nje. Koliko sme da košta upit, šta isključiti i kako meriti.",
+    "date": "2026-11-21",
+    "category": "Google Ads",
+    "readTime": "9 min read",
+    "isDraft": false
+  },
+  {
     "slug": "black-friday-instagram-komentari-woocommerce-niwa-ai-manychat-2026",
     "title": "Black Friday komentari na Instagramu za WooCommerce: Niwa AI vs ManyChat",
     "excerpt": "Tri stotine komentara ispod Black Friday objave, a cena se menja u ponoć. Kako ih vode ManyChat ključne reči, a kako Niwa sa cenama i zalihama iz WooCommerce-a.",
