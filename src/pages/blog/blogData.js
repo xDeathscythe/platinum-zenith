@@ -1,5 +1,158 @@
 const rawBlogPosts = [
   {
+    slug: 'exit-intent-kupon-stranica-proizvoda-woocommerce-niwa-ai-manychat-2026',
+    title: 'Exit-intent i kupon na stranici proizvoda: Niwa AI vs ManyChat posle klika',
+    excerpt: 'Kupac iz Instagram poruke stigne na proizvod i zastane. Šta tada može ManyChat, a šta Niwa AI radi na stranici: odgovor na zamerku, kod u korpi i poruka pri izlasku.',
+    date: '2026-11-22',
+    readTime: '10 min read',
+    category: 'E-Commerce',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Niwa AI', 'ManyChat', 'WooCommerce', 'Exit-intent', 'Kupon', 'Konverzija'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+Kupac vam piše na Instagramu: "imate li ovo u crnoj?". Niwa proveri katalog, odgovori da ima i pošalje link ka proizvodu. Kupac klikne. Sada je na stranici proizvoda, gleda cenu, spušta se do dostave, vraća se na slike. Posle 40 sekundi zatvori tab.
+
+Taj deo puta, između klika i porudžbine, većina poređenja chat alata preskače. A baš tu se gubi novac. Poruka je odrađena, kupac je na sajtu i niko ga više ništa ne pita.
+
+Ovaj tekst je deo serijala o tome kako se [Niwa AI i ManyChat](/blog/niwa-ai-vs-manychat-wordpress-woocommerce-2026) ponašaju u WooCommerce prodavnici. Do sada smo gledali razgovor u porukama. Sada gledamo šta se dešava posle klika, dok kupac još stoji na stranici proizvoda i odlučuje.
+
+## Šta ManyChat radi kada kupac pređe na sajt
+
+ManyChat je napravljen za razgovor u Instagramu, Messengeru, WhatsApp-u i drugim kanalima. Sajt u njegovoj dokumentaciji ima dve uloge.
+
+Prva je merenje. [ManyChat Pixel](https://help.manychat.com/en/articles/17741995-manychat-pixel) beleži događaje na vašem sajtu za kontakt koji je stigao preko dugmeta "Open website" u ManyChat poruci. Događaj može biti klik ili kupovina sa iznosom, a ManyChat pamti tu sesiju 28 dana. Pixel radi samo na plaćenim planovima, a kod i pozive za događaje ubacujete na sajt sami.
+
+Druga je povratak u poruke. Website widgeti koji su pokretali ManyChat automatizacije sa sajta više ne postoje. Meta je ugasila tu funkciju, a ManyChat ju je [uklonio 11. novembra 2024](https://community.manychat.com/product-updates/deprecation-of-send-to-messenger-website-widgets-3988). Kao zamenu preporučuje [Messenger Ref URL](https://help.manychat.com/en/articles/17742206-messenger-ref-url-trigger), link koji posetioca sa sajta vodi u razgovor u Messengeru.
+
+Znači, ManyChat može da izmeri šta je kupac uradio na sajtu i da ga pozove nazad u Messenger. Na samoj stranici proizvoda ne razgovara sa njim. Za prodavnicu kojoj je Instagram glavna kasa, to je u redu. Za WooCommerce prodavnicu, gde se porudžbina završava na sajtu, to znači da poslednjih 40 sekundi pre odluke niko ne radi.
+
+## Šta Niwa radi na stranici proizvoda
+
+Niwa je WordPress plugin, pa je već na stranici na koju kupac stiže. Na stranici Conversion u Niwa podešavanjima su četiri alata. Četvrti je povrat napuštene korpe mejlom, o kome smo pisali u [posebnom tekstu](/blog/niwa-ai-napustena-korpa-woocommerce-oporavak-prodaje-2026). Ovde su tri koja rade dok je kupac još na stranici.
+
+### Poruka koja odgovara na zamerku pre nego što je kupac napiše
+
+Attention Capture prikazuje kratku poruku pored dugmeta za chat. Na stranici proizvoda Niwa može sama da napiše tu poruku. Čita naziv, cenu, opis, atribute i opcije proizvoda. Zatim izabere jednu zamerku koju kupac tog proizvoda najverovatnije ima i odgovori na nju činjenicom iz opisa.
+
+Pravila su stroga, i to je dobro. Poruka ima dve ili tri kratke rečenice i najviše 260 karaktera. Niwa ne sme da izmisli veličinu, materijal, dostavu, povrat, garanciju ili popust kojih nema u podacima o proizvodu. Proizvod sme da nazove popularnim samo kada to podržavaju broj prodaja, ocene ili recenzije u WooCommerce-u, a te brojke kupcu ne otkriva. Poruka za isti proizvod se čuva dan, pa se ne piše iznova za svakog posetioca.
+
+Ako hoćete svoje reči, pišete sopstvene poruke za jedan proizvod, kategoriju ili stranice po adresi. Za svaku birate posle koliko sekundi se pojavljuje i da li ima dugme sa odgovorom. Podrazumevano se poruka na proizvodu pojavljuje posle 10 sekundi.
+
+Iz toga sledi nešto korisno. Ako je opis proizvoda prazan, Niwa nema šta da kaže. Poruka je dobra onoliko koliko je dobar opis. Mnogim prodavnicama je ovo prvi put da neko pita na koje pitanje kupca njihov opis zapravo odgovara.
+
+### Kod za popust kada korpa ima dovoljno proizvoda
+
+Conversion Busters prati korpu. Kada broj proizvoda dostigne prag koji ste podesili (podrazumevano 2), Niwa u chatu ponudi popust. Ako kupac prihvati, Niwa napravi jedinstven WooCommerce kupon samo za njega.
+
+Taj kupon ima granice koje biste i sami postavili da ga pravite ručno:
+
+- popust je procenat, fiksni iznos na korpu ili fiksni iznos po proizvodu;
+- važi od 1 do 1.440 minuta, podrazumevano 10;
+- ima broj korišćenja i minimalan iznos korpe;
+- ne može da se kombinuje sa drugim kuponima;
+- ako uključite traženje mejla, kod stiže tek posle unetog mejla i važi samo za taj mejl.
+
+Ima i kočnice protiv lovaca na kodove: najviše 3 koda po sesiji dnevno, 2 po mejlu i 10 po IP adresi, plus pauza između ponuda (podrazumevano 30 minuta). Ako kupac zatvori chat, Niwa mu u toj poseti više ne nudi kod.
+
+Jedna sitnica sa mejlom pravi probleme na checkoutu. WooCommerce ograničenje po mejlu proverava prema mejlu za naplatu u porudžbini, kako piše u [WooCommerce dokumentaciji o kuponima](https://woocommerce.com/document/coupon-management/). Ako kupac kod zatraži na jedan mejl, a poruči sa drugim, kod neće proći. Napišite to u poruci uz kod.
+
+Sličnu ponudu ima i Attention Capture: poruku sa popustom koja se podrazumevano javlja posle 35 sekundi na stranicama proizvoda, sa sopstvenim podešavanjima kupona.
+
+### Poruka kada kupac krene da ode
+
+Leave Stopper otvara chat sa vašom porukom kada kupac krene da napusti stranicu ili kada prestane da se kreće po njoj. Uz poruku može da ide slika, GIF ili video iz biblioteke medija.
+
+Okidač birate vi: izlazak, neaktivnost ili oba. Izlazak Niwa prepoznaje po pokretu miša ka vrhu prozora, pa on radi na računaru. Na telefonu radi samo neaktivnost, od 10 do 300 sekundi (podrazumevano 45). Posle prikaza sledi pauza od 1 minuta do 24 sata, podrazumevano 30 minuta, da poruka ne iskače na svakoj stranici. Na telefonu Leave Stopper možete i potpuno isključiti.
+
+Leave Stopper sam ne pravi kupon. Ako u poruci obećate kod, to obećanje mora da ispuni neki drugi alat.
+
+## Tok od Instagram poruke do porudžbine
+
+Sada spojite delove. Ovo je tok koji Niwa podržava:
+
+- Kupac komentariše ili piše u DM. Niwa odgovara sa znanjem sajta, stanjem i cenom proverenim u WooCommerce-u, i šalje link ka proizvodu.
+- Kupac klikne link. Ako link ima UTM oznake, Niwa analitika sajta beleži izvor i kampanju te posete.
+- Na stranici proizvoda, posle 10 sekundi, pojavi se poruka koja odgovara na najverovatniju zamerku za taj proizvod.
+- Kupac doda još jedan proizvod u korpu. Niwa ponudi kod koji važi 10 minuta.
+- Kupac poruči sa tim kodom. Niwa porudžbinu i njen iznos upisuje u rezultat alata koji je dao kod.
+
+Niwa pritom ne povezuje Instagram profil sa posetiocem sajta. Razgovor u porukama i poseta sajtu su dva zapisa, a spaja ih UTM oznaka na linku, ne identitet kupca. Brojke iz poruka i brojke sa sajta su dve polovine iste priče, ne jedan profil kupca. Više o tome u tekstu o [atribuciji porudžbina iz Instagram poruka](/blog/instagram-dm-woocommerce-atribucija-porudzbina-niwa-ai-manychat-2026).
+
+## Pre Black Friday-a: kod iz chata važi i za sniženu robu
+
+Black Friday je u petak, 27. novembra, i ovaj deo vredi pročitati dva puta.
+
+Kupon iz Conversion Busters-a i Attention Capture-a ne isključuje proizvode na akciji. Za te kupone Niwa nema tu opciju, dok je kupon za napuštenu korpu ima. Ako je ceo katalog snižen 20%, kod od 10% ide na već sniženu cenu.
+
+Evo koliko to menja računicu. Brojke su ilustrativne i izračunate za ovaj primer:
+
+- Proizvod košta 5.000 dinara, nabavna cena je 3.000. Zarada po prodaji je 2.000 dinara.
+- Kod od 10% odnosi 500 dinara i ostaje 1.500. Da biste zaradili isto kao bez koda, kod mora da donese 33% više porudžbina.
+- Na Black Friday-u isti proizvod košta 4.000, a zarada pada na 1.000 dinara.
+- Kod od 10% sada odnosi 400 dinara i ostaje 600. Da biste zaradili isto, treba vam 67% više porudžbina.
+
+Isti procenat, duplo teži uslov. Zato pred akciju uradite jedno od dva: ugasite ponudu koda dok akcija traje ili pređite na fiksni iznos sa minimalnom korpom. Fiksnih 300 dinara na isti sniženi proizvod traži 43% više porudžbina umesto 67%.
+
+Drugi rizik je tiši: deo kupaca bi kupio i bez koda. Recimo da kod na regularnoj ceni iskoristi 20 kupaca. Ako bi 12 od njih kupilo svakako, poklonili ste 6.000 dinara, a 8 novih porudžbina donosi 12.000 zarade. Zarada raste. Ako bi 18 kupilo svakako, poklonili ste 9.000, a 2 nove porudžbine donose 3.000. Gubite 6.000 dinara, a ekran i dalje pokazuje 20 porudžbina sa kodom.
+
+Niwa broji porudžbine sa kodom i ukupan popust. Ne zna koliko bi ih bilo bez koda. To proverite sami: nedelju dana sa ponudom, nedelju bez, ista stranica, isti izvori saobraćaja. Za ozbiljniji test Niwa ima [A/B test stranice](/blog/ab-test-stranice-instagram-dm-woocommerce-niwa-ai-manychat-2026) sa plaćenom porudžbinom kao ciljem. Širu računicu popusta imate u tekstu o [akcijama i marketing budžetu](/blog/popusti-akcije-marketing-budzet-roi-lead-generation-srbija-2026).
+
+## Telefon i Google: prodavnica ne sme da postane zid od prozora
+
+Google u [smernicama o nametljivim prozorima](https://developers.google.com/search/docs/appearance/avoid-intrusive-interstitials) piše da prozori koji zaklanjaju sadržaj frustriraju posetioce i otežavaju pretraživačima da razumeju stranicu, što može da oslabi pozicije u pretrazi. Umesto prozora preko cele stranice preporučuje male banere.
+
+Poruka Attention Capture-a je mali oblačić pored dugmeta za chat. Leave Stopper je druga priča, jer otvara prozor chata. Na telefonu taj prozor može da prekrije veći deo stranice. Zato:
+
+- otvorite proizvod na telefonu u test režimu i pogledajte šta ostaje vidljivo;
+- ako chat prekrije cenu i dugme za kupovinu, isključite Leave Stopper na telefonu;
+- ne palite sve poruke u istoj sekundi na istoj stranici, nego im odredite redosled.
+
+## Kako izmeriti da li alati prodaju
+
+Svaki alat na stranici Conversion ima red sa rezultatima za poslednjih 30 dana, iz istih brojki koje prikazuje stranica Analytics.
+
+Za Attention Capture vidite koliko puta je poruka prikazana, koliko puta je neko kliknuo poruku ili njeno dugme i koliko je porudžbina stiglo sa kodom iz ponude. Za Conversion Busters vidite prikazane ponude, date kodove, porudžbine sa tim kodovima, njihov prihod i ukupan popust. Za Leave Stopper vidite koliko puta je poruka prikazana i koliko je posetilaca posle nje nešto uradilo u chatu.
+
+Leave Stopper nema kolonu porudžbina. Niwa ne pripisuje porudžbine poruci pri izlasku i ne pravi se da zna više nego što zna. Ako vas zanima da li ta poruka prodaje, gledajte šta kupci posle nje pitaju u chatu. Ta pitanja vam govore šta stranici fali.
+
+Za Instagram stranu stavite UTM oznake na linkove u odgovorima, na primer \`utm_source=instagram\` i \`utm_medium=social\`, a za plaćene oglase \`paid_social\`. Niwa analitika sajta onda pokazuje porudžbine i prihod po izvoru i kampanji. Atribucija ide na poslednji izvor koji nije direktan i broji pregledače, ne ljude. Kako da čitate te brojke, pisali smo u tekstu o [analitici Instagram prodaje](/blog/analitika-instagram-dm-prodaje-woocommerce-niwa-ai-manychat-2026).
+
+## Podešavanje za jedno popodne
+
+- Uključite test režim. Dok je uključen, alate vide samo administratori, pri svakoj poseti i bez pauze između prikaza.
+- Otvorite tri proizvoda koji najčešće stižu iz Instagram poruka i pročitajte poruku koju Niwa napiše za svaki. Ako je slaba, prvo popravite opis proizvoda.
+- Za proizvode sa poznatim pitanjem (veličina, kompatibilnost, rok isporuke) napišite sopstvenu poruku.
+- Podesite kod: prag od 2 proizvoda, minimalan iznos korpe iznad vaše prosečne porudžbine i rok od 10 do 30 minuta. Za Black Friday fiksni iznos ili ništa.
+- Ako tražite mejl, pošaljite sebi probni mejl sa kodom i podsetnik.
+- Prođite ceo put na telefonu i na računaru: link iz poruke, poruka na proizvodu, korpa, kod, checkout. Proverite da se porudžbina pojavila u rezultatu alata.
+- Isključite test režim.
+
+## Gde Niwa staje
+
+Da budemo precizni:
+
+- Kod i poruke na proizvodima traže WooCommerce, a poruke koje Niwa sama piše traže povezan AI nalog.
+- Niwa ne zna da je posetilac stigao baš iz vašeg DM razgovora, osim preko UTM oznaka na linku.
+- Ne meri koliko porudžbina bi bilo bez koda.
+- Kupon iz chata ne isključuje snižene proizvode.
+- Izlazak sa stranice prepoznaje samo po mišu, na računaru.
+- Nijedan od ovih alata ne garantuje više porudžbina. Oni postavljaju pravo pitanje i ponudu u pravom trenutku, a da li kupac kaže da zavisi od proizvoda, cene i stranice.
+
+Ako stranica ima problem koji nijedna poruka ne rešava, jer je spora, dostava je nejasna ili checkout traži previše, krenite od teksta [zašto web shop nema prodaju](/web-shop-nema-prodaju) i od [optimizacije konverzije](/cro).
+
+## Kada je ManyChat dovoljan, a kada je Niwa bolji izbor
+
+ManyChat je dovoljan kada se prodaja završava u porukama: kupac piše, dobija link za plaćanje ili kod, i gotovo. Pixel će vam reći šta je posle uradio na sajtu, a Ref URL ga vraća u Messenger.
+
+Niwa je bolji izbor kada se prodaja završava na WooCommerce sajtu. Isti plugin odgovara u Instagram porukama i dočeka kupca na stranici proizvoda. Tamo odgovara na zamerku iz opisa proizvoda, nudi kod sa granicama koje ste postavili i broji porudžbine sa tim kodom. Razgovor se ne prekida na kliku.
+
+Spisak Niwa mogućnosti za konverziju i povrat kupaca je na stranici [Niwa capabilities](https://niwachat.com/capabilities/). Ako želite da pred Black Friday prođemo vaš put od Instagram poruke do checkouta i podesimo kod tako da ne pojede maržu, [javite nam se](/kontakt).
+`,
+  },
+  {
     slug: 'placanje-agencije-po-zakazanom-terminu-cena-termina-ugovor-srbija-2026',
     title: 'Plaćanje agencije po zakazanom terminu: koliko sme da košta termin u Srbiji 2026',
     excerpt: 'Agencija koja naplaćuje samo zakazane termine deluje kao siguran izbor. Kako izračunati koliko termin sme da košta i šta mora da piše u ugovoru.',
