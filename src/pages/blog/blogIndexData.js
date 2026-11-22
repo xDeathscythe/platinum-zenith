@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "placanje-agencije-po-zakazanom-terminu-cena-termina-ugovor-srbija-2026",
+    "title": "Plaćanje agencije po zakazanom terminu: koliko sme da košta termin u Srbiji 2026",
+    "excerpt": "Agencija koja naplaćuje samo zakazane termine deluje kao siguran izbor. Kako izračunati koliko termin sme da košta i šta mora da piše u ugovoru.",
+    "date": "2026-11-22",
+    "category": "Marketing",
+    "readTime": "9 min read",
+    "isDraft": false
+  },
+  {
     "slug": "whatsapp-woocommerce-naplata-poruka-niwa-ai-manychat-2026",
     "title": "WhatsApp za WooCommerce kad Meta naplaćuje odgovore: Niwa AI vs ManyChat",
     "excerpt": "Od 1. oktobra Meta naplaćuje WhatsApp odgovore posle 1.000 mesečno. Šta to menja za WooCommerce prodavnicu i kako na WhatsApp-u rade ManyChat i Niwa AI.",

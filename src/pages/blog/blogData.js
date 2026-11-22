@@ -1,5 +1,166 @@
 const rawBlogPosts = [
   {
+    slug: 'placanje-agencije-po-zakazanom-terminu-cena-termina-ugovor-srbija-2026',
+    title: 'Plaćanje agencije po zakazanom terminu: koliko sme da košta termin u Srbiji 2026',
+    excerpt: 'Agencija koja naplaćuje samo zakazane termine deluje kao siguran izbor. Kako izračunati koliko termin sme da košta i šta mora da piše u ugovoru.',
+    date: '2026-11-22',
+    readTime: '9 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Marketing budžet', 'Agencija', 'Cena termina', 'Lead Generation', 'ROI', 'CAC'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+Ponuda zvuči ovako: "Ne plaćate nam mesečno. Plaćate samo zakazane termine. Oglase plaćamo mi." Za vlasnika firme koji je već jednom platio agenciju a dobio izveštaj pun klikova, to deluje kao da je sav rizik prešao na drugu stranu.
+
+Nije prešao. Promenio je mesto. Agencija više ne rizikuje budžet za oglase, ali vi sada rizikujete vreme prodaje, termine koji se ne održe i kupce koji nikad neće kupiti. Taj trošak se ne vidi na fakturi agencije, pa se lako preskoči u računici.
+
+Ovaj tekst je za vlasnike uslužnih firmi koje prodaju kroz sastanak, konsultaciju ili izlazak na teren: građevinske i zanatske firme, klinike, advokate, B2B usluge, solarne sisteme, nameštaj po meri. Pokazaću kako da izračunate koliko termin sme da košta, kako da uporedite takvu ponudu sa fiksnim modelom i šta mora da piše u ugovoru da biste plaćali termine koji vode do posla.
+
+## Šta se tačno kupuje kad se plaća po terminu
+
+Model plaćanja po zakazanom terminu (na engleskom ga zovu pay per appointment) znači da agencija dovodi ljude, kvalifikuje ih, i naplaćuje svaki termin koji upiše u vaš kalendar. Negde termin zakazuje forma sa kalendarom na landing strani, negde agencijski tim zove leadove i dogovara sastanak.
+
+Razlika u odnosu na plaćanje po leadu je stvarna. Lead je ime i broj telefona. Termin je dogovoreno vreme sa osobom koja je pristala da razgovara. Zato je termin skuplji i zato ga ljudi vole: deluje bliže prodaji.
+
+Ali termin nije prodaja. Između termina i uplate stoje još tri koraka:
+
+- osoba mora da se pojavi;
+- mora da bude neko kome vaša usluga zaista treba i ko može da je plati;
+- vaš prodavac mora da zatvori posao.
+
+Svaki od ta tri koraka plaćate vi, ne agencija. Ako ih ne uračunate, cena termina izgleda niska, a cena kupca ostaje skrivena.
+
+O opštoj razlici između fiksnog honorara, procenta od budžeta i plaćanja po rezultatu pisali smo u tekstu [fiksni fee, procenat budžeta ili performance agencija](/blog/fiksni-fee-procenat-budzeta-performance-agencija-srbija-2026). Ovde idemo uže, na jedan model i njegovu računicu.
+
+## Koliko termin sme da košta: računajte unazad od kupca
+
+Krenite od posla, ne od termina. Primer je izmišljen, ali brojke su izračunate i možete ih zameniti svojim.
+
+Firma prodaje uslugu prosečne vrednosti 240.000 dinara. Bruto marža je 35%, što znači 84.000 dinara bruto profita po poslu. Vlasnik je odlučio da sme da potroši 30% bruto profita da dobije kupca. To je 25.200 dinara, i to je plafon za sve zajedno: agenciju, oglase i vreme prodaje.
+
+Sada idemo niz lanac:
+
+- od održanih termina, prodavac zatvara 25%. Na jedan održan termin sme da ode 25.200 x 0,25 = 6.300 dinara;
+- svaki održan termin košta firmu oko 1.500 dinara prodajnog vremena (priprema, sastanak, beleške, ponuda). Za agenciju ostaje 4.800 dinara po održanom terminu;
+- od zakazanih termina, održi se 70%. Maksimalna cena po zakazanom terminu je 4.800 x 0,70 = 3.360 dinara.
+
+Dakle, ova firma sme da plati najviše 3.360 dinara po zakazanom terminu, i to samo ako termini od agencije imaju isti kvalitet kao njeni dosadašnji.
+
+Promenite samo kvalitet. Recimo da se od termina koje zakazuje agencija pojavi 55%, a prodavac zatvori 15%, jer su to ljudi koji su kliknuli na "besplatnu procenu" bez ozbiljne namere. Ista računica daje 25.200 x 0,15 = 3.780 po održanom terminu, minus 1.500 prodaje, puta 0,55. Maksimum pada na 1.254 dinara po zakazanom terminu.
+
+Ista firma, isti posao, ista marža. Termin sme da košta 3.360 ili 1.254 dinara, zavisno samo od toga ko dolazi na sastanak. Zato pitanje "koliko košta termin" nema smisla dok ne znate stopu dolaska i stopu zatvaranja za te termine. Ako ih ne merite, pročitajte prvo zašto [CPL nije CAC](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026) i kako se računa [stopa zatvaranja leadova](/blog/stopa-zatvaranja-leadova-marketing-budzet-srbija-2026).
+
+## Jeftiniji termin, duplo skuplji kupac
+
+Sada uporedimo dve ponude za istu firmu, ponovo na izmišljenim brojkama.
+
+### Ponuda A: 2.500 dinara po zakazanom terminu
+
+Agencija sama plaća oglase. Za 60 zakazanih termina mesečno firma plaća 150.000 dinara. Termini su slabije kvalifikovani: pojavi se 55%, zatvori se 15%.
+
+Od 60 termina održi se 33. Od njih nastaje oko 4,95 posla. Po kupcu to je 30.303 dinara agenciji i još 10.000 dinara prodajnog vremena, jer prodavac obavi oko šest i po sastanaka za svaki zatvoren posao. Ukupno oko 40.300 dinara po kupcu.
+
+### Ponuda B: fiksni honorar plus budžet za oglase
+
+Firma plaća 60.000 dinara honorara i 100.000 dinara oglasa, ukupno 160.000 mesečno. Kampanja i forma su postavljene tako da filtriraju, pa se dobija 60 zakazanih termina, od kojih se održi 75%, a zatvori 25%.
+
+To je 45 održanih termina i 11,25 poslova. Po kupcu: 14.222 dinara za agenciju i oglase, plus 6.000 dinara prodaje. Ukupno oko 20.200 dinara po kupcu.
+
+Po terminu, ponuda A je jeftinija: 2.500 naspram 2.667 dinara. Po kupcu, ponuda A je skuplja skoro duplo: 40.300 naspram 20.200 dinara. I samo B ostaje ispod plafona od 25.200.
+
+Najveći deo razlike nije na fakturi. To su sati prodavca na sastancima koji ne vode nikuda. Kod ponude A prodavac obavi 33 sastanka za pet poslova. Kod ponude B obavi 45 sastanaka za jedanaest. Ako je prodavac vlasnik firme, to su večeri koje ne vraćate.
+
+Ovo ne znači da je plaćanje po terminu uvek loše. Znači da cena termina bez kvaliteta termina ne govori ništa. Sličnu logiku smo prošli za [kupovinu leadova naspram sopstvene kampanje](/blog/kupovina-leadova-ili-sopstvena-kampanja-cena-kupca-srbija-2026): uporedite cenu kupca, ne cenu kontakta.
+
+## Zašto agencija plaćena po terminu puni kalendar
+
+Agencija koja živi od broja termina radi ono za šta je plaćena: zakazuje. Nije potrebna loša namera. Dovoljno je da ugovor nagrađuje broj.
+
+U praksi se to vidi ovako:
+
+- oglas obećava besplatnu procenu ili popust, jer to donosi najviše prijava;
+- kalendar se otvara odmah posle klika, bez ijednog pitanja o lokaciji, budžetu ili roku;
+- zakazuju se ljudi van vaše zone, studenti koji istražuju za seminarski rad, konkurencija koja proverava cene;
+- isti čovek se zakaže dva puta, pa se to naplati dva puta;
+- postojeći klijent koji je ionako hteo da se javi pojavi se kao novi termin.
+
+Svaka od ovih stavki je naplaćen termin. Nijedna nije posao. O tome kada kalendar pomaže, a kada kvari kvalitet upita, više u tekstu o [kalendaru za zakazivanje na sajtu](/blog/kalendar-za-zakazivanje-na-sajtu-konverzija-leadovi-srbija-2026).
+
+## Šta mora da piše u ugovoru
+
+Ako vam se model dopada, napišite ga tako da plaćate termine koji imaju šansu. Ovo su stavke koje vredi imati crno na belo.
+
+### Definicija validnog termina
+
+Termin se plaća samo ako osoba ispunjava uslove koje ste zajedno zapisali pre početka: grad ili zona, tip objekta ili firme, okviran budžet, rok u kome želi posao. Ako uslovi ne postoje na papiru, svaki termin je validan.
+
+Dodajte i da je na sastanku prisutna osoba koja odlučuje. Termin sa asistentom koji "samo prikuplja ponude" nije isto što i termin sa vlasnikom.
+
+### Plaćanje po održanom, ne po zakazanom terminu
+
+Najčistije je plaćati samo održane termine. Ako agencija to ne prihvata, podelite iznos: manji deo pri zakazivanju, veći kad se sastanak održi. Pomereni termin se računa jednom, kad se održi.
+
+Primer: ako ste spremni da platite 3.360 dinara po zakazanom terminu uz 70% dolaska, to je isto kao 4.800 dinara po održanom. Agencija koja veruje u svoje termine lako će pristati na drugu verziju.
+
+### Duplikati i postojeći klijenti
+
+Upišite da se ne plaća osoba koja je već u vašem CRM-u u poslednjih 90 dana, niti isti kontakt zakazan dva puta. Bez ove stavke plaćate agenciji ljude koje ste već imali.
+
+### Rok za osporavanje
+
+Dajte sebi rok, na primer sedam dana posle termina, da osporite termin uz razlog iz unapred dogovorene liste: van zone, bez budžeta, nije donosilac odluke, duplikat, nije se pojavio. Agencija dobija spisak razloga, vi dobijate pravo da ne platite očigledan promašaj.
+
+### Mesečni plafon
+
+Odredite koliko termina mesečno prodaja zaista može da obradi. Ako prodavac ima prostora za 40 sastanaka, 70 zakazanih termina nije uspeh, nego račun za sastanke koje niko neće dobro odraditi. O tome kako se računa taj kapacitet pisali smo u tekstu o [trošku prodaje](/blog/trosak-prodaje-marketing-roi-lead-generation-srbija-2026).
+
+### Nalog i podaci ostaju vaši
+
+Kad agencija plaća oglase, često i vodi nalog na svoje ime. Tada posle raskida ne ostaje ništa: ni istorija kampanja, ni podaci o tome koje pretrage donose posao. Tražite pristup nalogu, ili bar izveštaj po kampanji i ključnoj reči za svaki termin. Šta se dešava sa nalogom kad saradnja prestane, objasnili smo u tekstu o [ugovoru sa marketing agencijom](/blog/ugovor-sa-marketing-agencijom-minimalno-trajanje-otkazni-rok-cena-izlaska-srbija-2026).
+
+## Kako da merite termine, a ne samo da ih brojite
+
+Bez evidencije nema ni računice ni osporavanja. Minimum je CRM ili tabela u kojoj svaki termin ima izvor i status: zakazan, održan, nije se pojavio, kvalifikovan, poslata ponuda, prodato, izgubljeno uz razlog.
+
+Ako termini dolaze iz Google Ads kampanja, uz svaki lead sačuvajte GCLID, oznaku klika koju Google dodaje kad neko dođe sa oglasa. Google u pomoći za [uvoz offline konverzija](https://support.google.com/google-ads/answer/2998031) opisuje upravo to: sačuvate GCLID uz podatke o leadu, a kad se posao desi van sajta, vratite ga u Google Ads sa vrstom i vremenom konverzije. Za nove postavke Google preporučuje poboljšane konverzije za leadove, koje uz GCLID koriste i heširan email ili telefon.
+
+Praktično, to znači da Google može da optimizuje na "održan termin" ili "poslata ponuda", a ne na "neko je kliknuo zakaži". Kako izabrati koji signal da šaljete, opisano je u tekstu o [kvalifikovanim konverzijama](/blog/kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026).
+
+Jedna zamka: Google podrazumevano broji konverzije 30 dana posle klika, a prozor može da se produži do 90 dana, kako piše u pomoći o [prozorima konverzije](https://support.google.com/google-ads/answer/3123169). Ako se termini kod vas održavaju tri ili četiri nedelje posle prve prijave, a ponuda se prihvata još kasnije, podrazumevani prozor će prećutno odbaciti deo prodaja. Podesite ga prema stvarnom vremenu od klika do posla.
+
+## Kada model po terminu ima smisla, a kada ne
+
+Plaćanje po terminu radi kada:
+
+- imate jasan profil kupca koji može da se zapiše u uslove validnog termina;
+- prodaja zatvara posao na prvom ili drugom sastanku;
+- znate svoju stopu dolaska i stopu zatvaranja, pa možete da izračunate maksimum;
+- agencija prihvata plaćanje po održanom terminu i rok za osporavanje.
+
+Nema smisla kada:
+
+- je usluga jeftina i kupuje se odmah, kao hitna intervencija. Tu se plaća po pozivu ili porudžbini;
+- prodaja traje mesecima kroz više sastanaka i više ljudi na strani kupca. Tu je bolje plaćati po kvalifikovanoj prilici ili fiksno;
+- agencija ne želi da deli nalog, ključne reči ni izvor termina;
+- nemate ko da odradi termine. Tada svaki novi termin samo povećava broj onih koji se ne održe kako treba. O tome kako se smanjuju propušteni sastanci, pogledajte tekst o [zakazanim konsultacijama koje se ne održe](/blog/zakazane-konsultacije-no-show-leadovi-prodaja-srbija-2026).
+
+Ako agencija obećava termine bez ikakvih uslova, to je ista priča kao kod [garancije rezultata](/blog/garancija-rezultata-marketing-agencija-budzet-srbija-2026): garantuje se ono što je lako izmeriti, a ne ono što donosi novac.
+
+## Šta da uradite ove nedelje
+
+- Izvucite iz CRM-a ili kalendara poslednja tri meseca termina i izračunajte koliko se održalo i koliko je postalo posao.
+- Izračunajte maksimalnu cenu po održanom i po zakazanom terminu po formuli iz ovog teksta, sa svojom maržom i svojim vremenom prodaje.
+- Ako imate ponudu agencije po terminu, prevedite je u cenu po kupcu uz realnu stopu dolaska i zatvaranja, pa je stavite pored ponude sa fiksnim honorarom.
+- Napišite definiciju validnog termina na jednoj strani i pošaljite je agenciji pre potpisa.
+- Proverite da li Google Ads nalog prima održane termine kao konverziju i koliki je prozor konverzije.
+
+Za okvir cena pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga), [cenu Google reklama](/google-reklame-cena) i stranicu [fiksna naknada ili revenue share](/fiksna-naknada-vs-revenue-share). Ako želite da neko sa strane prođe kroz vašu ponudu po terminu i izračuna cenu po kupcu pre nego što potpišete, [javite nam se](/kontakt). Isto tako radimo i kad postavljamo kampanje kao [Google Ads agencija](/google-ads-agencija): računamo od cene kupca, ne od cene termina.
+`,
+  },
+  {
     slug: 'whatsapp-woocommerce-naplata-poruka-niwa-ai-manychat-2026',
     title: 'WhatsApp za WooCommerce kad Meta naplaćuje odgovore: Niwa AI vs ManyChat',
     excerpt: 'Od 1. oktobra Meta naplaćuje WhatsApp odgovore posle 1.000 mesečno. Šta to menja za WooCommerce prodavnicu i kako na WhatsApp-u rade ManyChat i Niwa AI.',
