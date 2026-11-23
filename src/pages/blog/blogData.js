@@ -1,5 +1,139 @@
 const rawBlogPosts = [
   {
+    slug: 'zakazivanje-termina-instagram-dm-wordpress-niwa-ai-manychat-2026',
+    title: 'Zakazivanje termina iz Instagram DM-a: Niwa AI vs ManyChat za WordPress sajt',
+    excerpt: 'ManyChat za termine šalje Calendly link. Niwa AI na WordPress sajtu nudi stvarno slobodna vremena, šalje podsetnik i otkazan termin nudi drugom klijentu na WhatsApp-u.',
+    date: '2026-11-23',
+    readTime: '10 min read',
+    category: 'WordPress',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Niwa AI', 'ManyChat', 'WordPress', 'Zakazivanje termina', 'WhatsApp', 'Instagram DM'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+Klijentkinja vam piše na Instagramu u 22:40: "Imate li nešto slobodno u četvrtak posle pet, za pramenove?" Salon je zatvoren i poruka čeka do jutra. Do tada je ona već zakazala kod salona koji je odgovorio prvi.
+
+Ovaj tekst je za vlasnike salona, ordinacija, studija i drugih uslužnih firmi koje imaju WordPress sajt, a upite za termine dobijaju preko Instagrama, Facebooka i WhatsApp-a. Deo je serijala u kome poredimo [Niwa AI i ManyChat](/blog/niwa-ai-vs-manychat-wordpress-woocommerce-2026). Do sada smo uglavnom pisali o WooCommerce prodavnicama. Ovde se prodaje vreme u rasporedu, a ono ima jednu neprijatnu osobinu: termin koji danas ostane prazan ne možete da prodate sutra.
+
+## Šta ManyChat nudi za zakazivanje
+
+ManyChat dobro radi ono za šta je napravljen, a to su automatizovani razgovori u Instagram porukama, Messengeru i WhatsApp-u. Kalendar nije deo tog paketa.
+
+Na zvaničnoj [listi ManyChat integracija](https://manychat.com/integrations) stoje Klaviyo, Mailchimp, ActiveCampaign, Kit, Google Sheets, HubSpot, Hotmart, Flodesk, Zapier i Make. Alata za kalendar ili zakazivanje na toj listi nema.
+
+Za termine vam ostaju tri puta:
+
+- **Link u poruci.** Tok pošalje dugme sa Calendly linkom, klijent ode na Calendly i sam izabere vreme. ManyChat zna da je link poslat. Da li je termin zakazan, ne zna.
+- **Calendly App by ManyApps.** U ManyChat prodavnici aplikacija postoji [plaćena aplikacija treće strane](https://apps.manychat.com/calendly-app) koja navodi zakazivanje, podsetnike i pomeranje termina preko vašeg Calendly naloga. Pravi je i održava firma ManyApps, ne ManyChat.
+- **Zapier ili Make.** Na pitanje o Google kalendaru i WhatsApp podsetnicima moderator ManyChat zajednice je [odgovorio](https://community.manychat.com/general-q-a-43/whatsapp-e-google-calnedario-8098) da veza postoji, ali ne direktno, nego preko Zapier-a, Make-a ili Calendly linka u dugmetu.
+
+Sve to radi. Samo što raspored tada živi u Calendly-ju, razgovor u ManyChat-u, veza između njih u Zapier-u, a vaš WordPress sajt ne zna ništa ni o jednom od njih. To su tri alata i tri mesta na kojima nešto može da pukne u petak popodne.
+
+## Šta Niwa radi u poruci, a šta prepušta sajtu
+
+Niwa je WordPress plugin i kreće sa drugog kraja. Usluge, njihovo trajanje, članovi tima, radno vreme i pauze podešavaju se u pluginu, na vašem sajtu.
+
+Kada stigne pitanje iz Instagram ili Facebook poruke, Niwa odgovara iz onoga što piše na sajtu: koje usluge postoje, koliko traju i šta uključuju. Za samo zakazivanje šalje pravi link ka stranici sajta. Pravilo za kanal je strogo. Niwa u poruci nikada ne tvrdi da je otvorila formu ili kalendar, jer Instagram poruka to ne može da prikaže. Vreme se bira na sajtu, u Niwa chatu ili na stranici na koju ste ubacili Niwa booking.
+
+Posetilac tamo vidi samo vremena koja su stvarno slobodna. Niwa pri tome računa:
+
+- radno vreme i pauze svakog člana tima, smene koje se ponavljaju u ciklusu do četiri nedelje i neradne dane;
+- razmak između dva termina, podrazumevano 10 minuta, a najviše dva sata;
+- zauzeta vremena iz povezanog Google kalendara, pa privatna obaveza u kalendaru ne postaje slobodan termin za klijenta;
+- termine koje ste sami uneli posle telefonskog poziva.
+
+Zakazan termin se odmah upisuje kao potvrđen i šalje u Google kalendar tog člana tima. Vi i član tima dobijate obaveštenje mejlom, a stiže i u chat aplikacije koje ste povezali za obaveštenja. Klijent dobija potvrdu mejlom ili na WhatsApp, kako ste podesili. Ako je pre zakazivanja pričao sa Niwom u chatu, uz termin ide i kratka beleška iz tog razgovora: šta želi i šta ga brine. Belešku Niwa piše samo iz onoga što je posetilac stvarno rekao, bez izmišljenih zaključaka.
+
+## Podsetnik koji ne traži "potvrdite dolazak"
+
+Podsetnici se uključuju sami čim uključite zakazivanje i povežete kanal. Podrazumevano idu 24 sata pre termina, mejlom i na WhatsApp, a razmak možete da pomerite do sedam dana unapred. Ko zakaže za tri sata, i dalje dobija jedan podsetnik, odvojen od potvrde.
+
+Niwa u podsetniku ne traži od klijenta da potvrdi dolazak. Termin ostaje rezervisan dok ga klijent sam ne otkaže. Podsetnik kaže šta je zakazano i kada, na jeziku klijenta. Ako želite da svaki podsetnik pomene parking ili da se dolazi deset minuta ranije, to upišete jednom, a Niwa prenosi tačno to, bez dodavanja.
+
+Na kraj podsetnika Niwa dodaje lični link klijenta, potpisan i važeći sedam dana. Taj link je ključ za sve što dolazi posle.
+
+Na WhatsApp Cloud kanalu važi Meta pravilo: kada prođe 24 sata od poslednje poruke klijenta, šalje se samo [odobren šablon poruke](https://developers.facebook.com/docs/whatsapp/business-management-api/message-templates). Niwa tada koristi šablon koji ste odobrili i povezali za podsetnike, sa imenom, uslugom, datumom i vremenom. Isto pravilo važi i za ManyChat, jer ga postavlja Meta, a ne alat.
+
+## Otkazivanje u poruci, bez nagađanja ko piše
+
+Klijentkinja piše: "ne mogu sutra, razbolela sam se". Pre nego što išta otkaže, Niwa mora da zna čiji je to termin.
+
+- **Na WhatsApp-u** prepoznaje klijenta po punom broju telefona sa termina. Ako isti broj stoji na dva različita kontakta, ne bira nijedan.
+- **U chatu na sajtu** prepoznaje sesiju u kojoj je termin zakazan, ili klijenta koji je otvorio svoj lični link.
+- **U Instagram ili Facebook poruci** termin postaje dostupan tek kada je profil povezan sa kontaktom. Povežete ga vi, ili klijent pošalje svoj lični link iz podsetnika.
+
+Ime, mejl ili broj koji neko napiše u poruci Niwa nikada ne prihvata kao dokaz ko je. U javnom komentaru termini nisu dostupni uopšte, pa Niwa tada traži privatnu poruku.
+
+Otkazuje samo kada klijent jasno kaže da ne može da dođe ili da želi da otkaže, i uz otkazivanje čuva tačan citat te poruke. Pre otkazivanja još jednom čita trenutno stanje termina, pa ne može da otkaže nešto što je u međuvremenu pomereno.
+
+## Prazan termin danas ide klijentu koji čeka za sledeću nedelju
+
+Ovo je deo gde salon zaista gubi novac, i deo za koji u ManyChat dokumentaciji nismo našli gotovu funkciju. Možete da ga sklopite sami preko Calendly-ja, Zapier-a i ManyChat API-ja, uz sve granične slučajeve koje to nosi.
+
+Kada je otkazan termin za danas, Niwa traži klijenta koji ima potvrđen termin za istu uslugu kod istog člana tima, u narednih 30 dana, u približno isto doba dana, sa razlikom do 90 minuta. Tom klijentu šalje WhatsApp poruku, otprilike ovako: "Oslobodio se termin danas u 15 časova. Želite li da vaš termin od utorka pomerimo na danas?"
+
+Pravila te ponude su stroga:
+
+- stari termin ostaje rezervisan dok klijent ne prihvati, pa niko ne ostaje bez mesta zato što nije stigao da pročita poruku;
+- ponuda važi 20 minuta, a termin koji počinje za manje od sat vremena se više ne nudi;
+- ako klijent odbije ili ne odgovori, Niwa pita sledećeg, a istom klijentu ne šalje novu ponudu pre nego što prođe 24 sata;
+- pre pomeranja Niwa još jednom proverava Google kalendar i pomera termin u jednoj transakciji, pa ako bilo šta ne prođe, stari termin ostaje netaknut;
+- kalendar se osvežava odmah posle pomeranja, a pomeranje se upisuje u istoriju klijenta;
+- klijent nikada ne saznaje ko je otkazao.
+
+Sve ove vrednosti možete da menjate: koliko dana unapred Niwa traži, koliku razliku u vremenu prihvata i koliko ponuda traje. Ponude idu samo preko WhatsApp-a i samo klijentima koji su ostavili broj telefona.
+
+Zašto ovo vredi? Rupu u 15 časova danas je skoro nemoguće popuniti. Rupa u utorak sledeće nedelje ima pet dana da je neko zakaže preko sajta ili iz Instagram poruke. Niwa ne izmišlja novog klijenta. Ona seli prazninu tamo gde ima vremena da se popuni.
+
+## Ilustrativan račun
+
+Brojke ispod nisu merene. Služe da vidite red veličine, pa ih zamenite svojim.
+
+Salon sa dve frizerke ima pet otkazivanja nedeljno za isti dan, a prosečna usluga košta 3.000 dinara. Recimo da u dva od tih pet slučajeva neko prihvati raniji termin, a oslobođeni kasniji termini se popune redovnim zakazivanjem. To je 2 x 3.000 = 6.000 dinara nedeljno, odnosno 6.000 x 52 / 12 = 26.000 dinara mesečno koji bi inače ostali kao prazna stolica.
+
+Ako se oslobođeni kasniji termin ne popuni, salon nije gori nego bez ponude. Imao bi jednu praznu stolicu u svakom slučaju, samo nekog drugog dana.
+
+## Merenje: od poruke do održanog termina
+
+U Niwa analitici vidite razgovore po kanalu, zakazane termine bez otkazanih i zahteve da se javi čovek. Kada klijent dođe, termin označite kao održan, a kada ne dođe, kao nedolazak. Uz klijenta ostaje istorija: termini, podsetnici, otkazivanja, pomeranja i razgovori.
+
+Ta oznaka ima i praktičnu posledicu. Poruka za ponovni dolazak posle usluge, podrazumevano posle 90 dana, ide samo klijentima čiji je poslednji termin održan i koji posle njega nisu zakazali novi. Ta poruka i čestitka za rođendan su isključene dok ih sami ne uključite. Klijent u svakom trenutku može da napiše da ne želi poruke, i Niwa mu ih više ne šalje.
+
+Jedna iskrena granica: Instagram profil i rezervacija na sajtu se ne spajaju sami. Ako klijentkinja pita u Instagram poruci, a zakaže na sajtu, u analitici su to dva događaja, razgovor na Instagramu i novi termin. Niwa ih ne spaja nagađanjem po imenu. Spoje se kada vi povežete profil ili kada klijentkinja otvori svoj lični link. Na WhatsApp-u je jednostavnije, jer broj telefona sa termina već jeste ta veza.
+
+## Kada je ManyChat dovoljan, a kada je Niwa bolji izbor
+
+ManyChat je dovoljan ako zakazujete konsultacije bez sopstvenog sajta, već plaćate Calendly i treba vam samo dugme sa linkom posle par pitanja u Instagram poruci. Nemate raspored tima koji treba čuvati od duplih termina, pa nema ni razloga da uvodite WordPress plugin.
+
+Niwa je bolji izbor kada imate WordPress sajt, raspored sa više ljudi i usluga, i otkazivanja koja vas koštaju. Raspored, podsetnici, otkazivanja i popunjavanje rupa su u jednom pluginu na sajtu koji već imate, a odgovor u Instagram poruci zna šta piše na tom sajtu. Nema trećeg alata koji prenosi podatke između njih.
+
+## Kako da podesite za jedno popodne
+
+### Usluge i raspored
+
+- Unesite usluge sa realnim trajanjem, članove tima, radno vreme, pauze i neradne dane, pa povežite Google kalendar svakog člana tima.
+- Ubacite booking na stranicu usluga i na telefonu proverite da li se slobodna vremena poklapaju sa kalendarom.
+
+### Kanali
+
+- Povežite Instagram nalog i Facebook stranicu, a za podsetnike i ponude WhatsApp. Ako koristite WhatsApp Cloud, odobrite šablone za podsetnik i ponudu na jezicima na kojima vam klijenti pišu.
+- U uputstvima za Instagram napišite kako želite da Niwa vodi ljude ka zakazivanju i na koju stranicu ih šalje.
+
+### Pravila
+
+- Podsetnik ostavite na 24 sata ako klijenti zakazuju danima unapred. Napomenu za podsetnik upišite samo ako je stvarno korisna.
+- Za popunjavanje rupa krenite od podrazumevanih vrednosti, a posle mesec dana pogledajte u istoriji klijenata koliko je ponuda prihvaćeno.
+
+Ako problem počinje pre poruke, jer sajt ne objašnjava usluge i cene, krenite od [izrade WordPress sajta](/izrada-wordpress-sajta-cena) i [optimizacije konverzije](/cro). Za salone i ordinacije imamo i stranice o marketingu za [frizerske salone](/marketing-za-frizerske-salone) i [stomatologe](/marketing-za-stomatologe).
+
+Zašto zakazane konsultacije propadaju i šta tu radi prodaja, pisali smo u tekstu o [nedolascima na zakazane konsultacije](/blog/zakazane-konsultacije-no-show-leadovi-prodaja-srbija-2026). O kalendaru na landing strani piše tekst [kalendar za zakazivanje na sajtu](/blog/kalendar-za-zakazivanje-na-sajtu-konverzija-leadovi-srbija-2026). Kada klijent u poruci traži razgovor sa osobom, pogledajte kako Niwa [prebacuje razgovor na vas](/blog/kupac-trazi-coveka-instagram-dm-woocommerce-niwa-ai-manychat-2026), a za trošak WhatsApp poruka tekst o tome [kako Meta naplaćuje odgovore](/blog/whatsapp-woocommerce-naplata-poruka-niwa-ai-manychat-2026).
+
+Spisak Niwa mogućnosti, uključujući ugrađeno zakazivanje, je na stranici [Niwa capabilities](https://niwachat.com/capabilities/). Ako imate salon, ordinaciju ili studio na WordPress-u i želite da prođemo put od Instagram poruke do održanog termina na vašem sajtu, [javite nam se](/kontakt).
+`,
+  },
+  {
     slug: 'oglasi-na-ime-konkurenta-google-ads-zig-dozvoljeno-cena-kupca-srbija-2026',
     title: 'Oglasi na ime konkurenta u Google Ads: šta je dozvoljeno i da li se isplati u Srbiji 2026',
     excerpt: 'Google dozvoljava ključne reči sa imenom konkurenta, ali ne i njegovo ime u oglasu. Šta kaže zakon, koliko košta takav kupac i kada se kampanja isplati.',

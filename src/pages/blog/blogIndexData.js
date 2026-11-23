@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "zakazivanje-termina-instagram-dm-wordpress-niwa-ai-manychat-2026",
+    "title": "Zakazivanje termina iz Instagram DM-a: Niwa AI vs ManyChat za WordPress sajt",
+    "excerpt": "ManyChat za termine šalje Calendly link. Niwa AI na WordPress sajtu nudi stvarno slobodna vremena, šalje podsetnik i otkazan termin nudi drugom klijentu na WhatsApp-u.",
+    "date": "2026-11-23",
+    "category": "WordPress",
+    "readTime": "10 min read",
+    "isDraft": false
+  },
+  {
     "slug": "oglasi-na-ime-konkurenta-google-ads-zig-dozvoljeno-cena-kupca-srbija-2026",
     "title": "Oglasi na ime konkurenta u Google Ads: šta je dozvoljeno i da li se isplati u Srbiji 2026",
     "excerpt": "Google dozvoljava ključne reči sa imenom konkurenta, ali ne i njegovo ime u oglasu. Šta kaže zakon, koliko košta takav kupac i kada se kampanja isplati.",
