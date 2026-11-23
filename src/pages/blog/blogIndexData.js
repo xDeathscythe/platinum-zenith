@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "oglasi-na-ime-konkurenta-google-ads-zig-dozvoljeno-cena-kupca-srbija-2026",
+    "title": "Oglasi na ime konkurenta u Google Ads: šta je dozvoljeno i da li se isplati u Srbiji 2026",
+    "excerpt": "Google dozvoljava ključne reči sa imenom konkurenta, ali ne i njegovo ime u oglasu. Šta kaže zakon, koliko košta takav kupac i kada se kampanja isplati.",
+    "date": "2026-11-23",
+    "category": "Google Ads",
+    "readTime": "10 min read",
+    "isDraft": false
+  },
+  {
     "slug": "exit-intent-kupon-stranica-proizvoda-woocommerce-niwa-ai-manychat-2026",
     "title": "Exit-intent i kupon na stranici proizvoda: Niwa AI vs ManyChat posle klika",
     "excerpt": "Kupac iz Instagram poruke stigne na proizvod i zastane. Šta tada može ManyChat, a šta Niwa AI radi na stranici: odgovor na zamerku, kod u korpi i poruka pri izlasku.",

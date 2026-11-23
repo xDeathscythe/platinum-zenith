@@ -1,5 +1,170 @@
 const rawBlogPosts = [
   {
+    slug: 'oglasi-na-ime-konkurenta-google-ads-zig-dozvoljeno-cena-kupca-srbija-2026',
+    title: 'Oglasi na ime konkurenta u Google Ads: šta je dozvoljeno i da li se isplati u Srbiji 2026',
+    excerpt: 'Google dozvoljava ključne reči sa imenom konkurenta, ali ne i njegovo ime u oglasu. Šta kaže zakon, koliko košta takav kupac i kada se kampanja isplati.',
+    date: '2026-11-23',
+    readTime: '10 min read',
+    category: 'Google Ads',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Konkurencija', 'Ključne reči', 'Žig', 'Lead Generation', 'CAC'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+Vlasnik firme ukuca ime najvećeg konkurenta u Google i pomisli: "Kad bih se ja pojavio ovde, uzeo bih mu deo kupaca." Ideja je logična. Ljudi koji traže konkurenta već znaju šta im treba, i već su spremni da plate.
+
+U praksi se većina takvih kampanja ugasi posle mesec dana, sa skupim klikovima i upitima koji traže broj telefona one druge firme. Manji broj radi odlično, i to su gotovo uvek kampanje sa jasnim razlogom zašto bi neko ko traži konkurenta prešao kod vas.
+
+Ovaj tekst je za vlasnike uslužnih i B2B firmi u Srbiji koje razmišljaju o oglasima na ime konkurenta, ili su već primetile da se konkurent pojavljuje kad neko traži njih. Ispod su pravila, računica na izmišljenom ali realnom primeru i podešavanje koje drži budžet pod kontrolom.
+
+## Šta Google dozvoljava, a šta ne
+
+Googleova [politika o žigovima](https://support.google.com/adspolicy/answer/6118?hl=sr) je jasnija nego što većina misli.
+
+Ime konkurenta kao ključna reč nije ograničeno. Google navodi da neće ograničiti korišćenje žigova kao ključnih reči, čak ni kad vlasnik žiga podnese žalbu. Dakle, možete licitirati na "Firma X Beograd" i Google vam to neće zabraniti.
+
+Ime konkurenta u tekstu oglasa je druga priča. Posle žalbe vlasnika žiga, Google ograničava upotrebu žiga u oglasu direktnog konkurenta, kao i upotrebu koja zbunjuje ili obmanjuje. Bitno je šta piše u samom oglasu. Landing strana nije ono što Google tu proverava.
+
+Dve sitnice koje ljudi propuste:
+
+- Google prihvata žalbe samo za zemlje i delatnosti u kojima vlasnik dokaže da ima prava na žig. Ako vaš konkurent nema registrovan žig, žalba po ovoj politici teško prolazi. Ako ga ima, računajte da će vaš oglas sa njegovim imenom pre ili kasnije biti ograničen.
+- Kršenje ove politike ne gasi nalog odmah. Google šalje upozorenje najmanje 7 dana pre suspenzije. Upozorenje rešavate isti dan, ne sedmi.
+
+### Zamka sa ubacivanjem ključne reči
+
+Ubacivanje ključne reči u tekst oglasa (keyword insertion) automatski stavlja ključnu reč iz grupe u naslov. Google u [objašnjenju te funkcije](https://support.google.com/google-ads/answer/2454041?hl=sr) napominje da oglas posle ubacivanja i dalje mora da poštuje pravila.
+
+Ako u istoj grupi oglasa imate ime konkurenta i naslov sa ubacivanjem, oglas će prikazati njegovo ime kao vaš naslov. Upravo to Google ograničava posle žalbe. Grupa sa imenima konkurenata ne sme da koristi ubacivanje ključne reči. Proverite i preporuke koje dodaju ključne reči automatski, jer tako ime konkurenta može da uđe u grupu koju niko ne gleda.
+
+## Šta kaže Zakon o oglašavanju
+
+Google pravila nisu jedina. [Zakon o oglašavanju](https://www.paragraf.rs/propisi/zakon_o_oglasavanju.html), član 14, uređuje uporedno oglašavanje: svaki oglas koji posredno ili neposredno identifikuje konkurenta.
+
+Takvo oglašavanje je dozvoljeno, ali pod uslovima. Za oglase na pretrazi praktično su najvažniji ovi:
+
+- poređenje mora biti objektivno i ticati se materijalnih, proverljivih svojstava usluge, što može da uključi i cenu;
+- oglas ne sme da omalovažava žig, naziv ili usluge konkurenta;
+- ne sme da zloupotrebljava ugled konkurenta;
+- ne sme da unosi zabunu oko toga ko je oglašivač, a ko konkurent.
+
+Na poslednjoj tački se najlakše pogreši. Oglas koji se prikazuje na pretragu "Firma X" i izgleda kao da je to sama Firma X, upravo je ono što zakon zove zabunom. Ovo nije pravni savet. Ako planirate oglas ili stranicu koja konkurenta pominje po imenu, neka to pre objave pogleda advokat.
+
+Praktično pravilo: ime konkurenta držite u ključnim rečima, a u oglasu pričajte o sebi.
+
+## Zašto je klik skuplji, a upit slabiji
+
+Kada neko ukuca ime konkretne firme, najčešće želi baš tu firmu. Traži njen telefon, adresu, radno vreme ili link za prijavu. Vaš oglas tu ometa čoveka koji je već odlučio.
+
+Google to vidi kroz kvalitet oglasa. Po [Googleovom objašnjenju Quality Score-a](https://support.google.com/google-ads/answer/6167118?hl=sr), ocena se gradi od očekivanog CTR-a, relevantnosti oglasa i iskustva na landing strani, i to u poređenju sa drugim oglašivačima koji su se prikazali za istu pretragu u poslednjih 90 dana. Na pretrazi imena konkurenta, njegov oglas je najrelevantniji i najviše se klikće. Vaš oglas, koji ne sme da pomene njegovo ime, gotovo sigurno ispada ispod proseka. Slab kvalitet znači da za istu poziciju plaćate više.
+
+Zato ove kampanje izgledaju ovako: mali broj klikova, visoka cena klika i upiti u kojima neko pita "je l' ovo Firma X?".
+
+## Računica: koliko košta kupac sa imena konkurenta
+
+Primer je izmišljen, ali brojke su tipičan odnos koji se vidi kad se ove kampanje mere odvojeno. Firma prodaje uslugu prosečne vrednosti 150.000 dinara, sa bruto maržom 40%. To je 60.000 dinara bruto profita po poslu. Vlasnik je odlučio da najviše 30% bruto profita ide na dobijanje kupca, pa je maksimalni CAC 18.000 dinara.
+
+Generička kampanja (pretrage kao "usluga + grad"):
+
+- klik 120 dinara, 8% klikova pošalje upit, pa upit košta 1.500 dinara;
+- polovina upita je kvalifikovana, pa kvalifikovan upit košta 3.000 dinara;
+- prodaja zatvori 30%, pa kupac košta 10.000 dinara.
+
+Kampanja na golo ime konkurenta:
+
+- klik 160 dinara (slabiji kvalitet), upit šalje 2,5% klikova, pa upit košta 6.400 dinara;
+- kvalifikovano je 40%, pa kvalifikovan upit košta 16.000 dinara;
+- zatvara se 20%, jer ti ljudi upoređuju cene, pa kupac košta 80.000 dinara.
+
+To je osam puta skuplji kupac od generičke kampanje i više od četiri puta iznad limita od 18.000 dinara.
+
+Kampanja na ime konkurenta uz namernu reč (cena, iskustva, alternativa) i stvaran razlog za prelazak:
+
+- klik 140 dinara, upit šalje 6%, pa upit košta oko 2.333 dinara;
+- kvalifikovano 50%, oko 4.667 dinara po kvalifikovanom upitu;
+- zatvara se 25%, pa kupac košta oko 18.667 dinara.
+
+I ova bolja verzija stoji oko 670 dinara iznad limita. Zato kampanja na konkurenta nije glavna kampanja. To je dopuna sa sopstvenim plafonom, koja ima smisla samo kad su generičke pretrage već pokrivene i kad postoji konkretan razlog za prelazak.
+
+Postoji i problem učenja. Sa test budžetom od 36.000 dinara (dvostruki maksimalni CAC), kampanja na golo ime donese oko 225 klikova i 5 do 6 upita. Očekivano je manje od pola kupca. Iz toga ne možete da zaključite ništa. Verzija sa namernim rečima za isti novac donese oko 15 upita, 7 do 8 kvalifikovanih i blizu 2 kupca. Tu bar imate šta da merite.
+
+## Kada oglasi na ime konkurenta imaju smisla
+
+Kampanja na konkurenta radi kad ljudi koji traže njega imaju razlog da pogledaju i vas. Taj razlog mora biti proverljiv, ne utisak.
+
+### Konkurent ima poznat problem koji vi nemate
+
+Primeri: dugo čekanje na termin, nema dežurstva vikendom, ne pokriva vaš grad ili deo grada, ne izdaje garanciju na radove. Ako vi to imate, i ako to piše na vašoj stranici, čovek koji upoređuje ima zašto da klikne.
+
+### Ljudi traže alternativu ili poređenje
+
+Pretrage tipa "Firma X iskustva", "Firma X cena", "Firma X ili", "umesto Firma X" i "alternativa za Firma X" pokazuju da odluka još nije doneta. Te pretrage imaju mnogo bolji odnos klika i upita od golog imena. Kod B2B softvera i usluga sa ugovorom ovo je često jedini deo prometa na konkurenta koji se isplati.
+
+### Prodajete servis ili delove za tuđ brend
+
+Ovo nije oglas na konkurenta u pravom smislu. Ovlašćeni i neovlašćeni servisi za brendove proizvođača imaju posebna pravila. Googleova politika dozvoljava stranice posvećene prodaji kompatibilnih usluga i rezervnih delova, uz jasnu oznaku da niste sam proizvođač. Detaljnije o tome pisali smo u tekstu o [Google Ads za servis kotlova](/blog/google-ads-za-servis-kotlova-cena-poziva-grejna-sezona-srbija-2026).
+
+### Kada nema smisla
+
+Ako je konkurent jači od vas po svemu što kupac proverava, ili ako je razlika samo "mi smo bolji", nemojte. Isto važi ako generička kampanja još nema dovoljno budžeta da pokrije pretrage sa jasnom namerom. Prvo se plati kupac koji traži uslugu, pa tek onda kupac koji traži nekog drugog.
+
+## Kako postaviti kampanju da ne pojede budžet
+
+### Posebna kampanja i poseban plafon
+
+Imena konkurenata nikad ne mešajte sa generičkim ključnim rečima. Ako dele kampanju, skupi klikovi sa imena konkurenta spuštaju prosek, a Smart Bidding uči na pogrešnim upitima. Dajte kampanji svoj dnevni budžet, na primer do 10% ukupnog budžeta za pretragu, i svoj cilj.
+
+### Ključne reči sa namerom, ne golo ime
+
+Počnite sa frazama i tačnim podudaranjem za kombinacije kao "Firma X cena", "Firma X iskustva" ili "Firma X alternativa". Golo ime konkurenta dodajte tek ako te kombinacije rade. Kako se ponašaju tipovi podudaranja i zašto plaćate stvarnu pretragu a ne ključnu reč, objasnili smo u tekstu o [tipovima podudaranja ključnih reči](/blog/tipovi-podudaranja-kljucnih-reci-google-ads-lead-generation-srbija-2026).
+
+### Negativne ključne reči za ljude koji traže baš njega
+
+Isključite pretrage koje znače "hoću tu firmu": kontakt, telefon, broj, adresa, radno vreme, lokacija, prijava, login, račun, posao, zaposlenje. Dodajte i padeže i oblike bez kvačica, jer Google negativne ključne reči ne proširuje na bliske varijante. Isto proverite i u generičkoj kampanji: široko podudaranje ume da dovede ime konkurenta i bez vašeg znanja.
+
+### Oglas o vama, bez imena konkurenta
+
+Naslov treba da odgovori na razlog prelaska: "Termin za 48 sati", "Dežurstvo i vikendom", "Pokrivamo ceo Novi Sad", "Garancija 3 godine na radove". Samo ono što stvarno nudite. U toj grupi isključite ubacivanje ključne reči. O tome kako se slažu naslovi u responzivnim oglasima pisali smo u [tekstu o responzivnim oglasima](/blog/responzivni-oglasi-google-ads-naslovi-pinovanje-kvalitet-upita-srbija-2026).
+
+### Landing strana koja odgovara na poređenje
+
+Čovek koji je tražio konkurenta stiže sa pitanjem "zašto vi?". Generička početna strana na to ne odgovara. Napravite stranicu sa proverljivim kriterijumima: rok, cena od, šta je uključeno, garancija, koja područja pokrivate. Ne pominjite konkurenta po imenu i ne pišite o njemu ništa loše. Kupac će sam da uporedi. Kako da oglas i stranica govore istu stvar, objašnjeno je u tekstu o [usklađenosti oglasa i landing strane](/blog/uskladjenost-oglasa-landing-strane-konverzija-srbija-2026).
+
+### Pravilo za gašenje
+
+Pre starta zapišite kad gasite kampanju. Na primer: kada potroši dvostruki maksimalni CAC, a cena kvalifikovanog upita je i dalje više od dva puta veća nego u generičkoj kampanji, kampanja ide na pauzu. Bez tog pravila ovakve kampanje žive mesecima samo zato što "ima nekih upita".
+
+## Šta ako konkurent licitira na vaše ime
+
+Ovo je češća situacija od obrnute. Kupac traži vas, a iznad vašeg organskog rezultata stoji oglas konkurenta.
+
+Prvo proverite koliko se to dešava. Izveštaj [Uvid u aukciju](https://support.google.com/google-ads/answer/2579754?hl=sr) pokazuje koji oglašivači se prikazuju u istim aukcijama kao vi i koliko često. Izveštaj ne prikazuje podatke kad je vaš udeo prikazivanja manji od 10%, pa mala brend kampanja nekad mora prvo da radi da biste uopšte videli ko je tu.
+
+Dalje, žalba Googleu pomaže samo ako konkurent koristi vaše ime u tekstu oglasa i ako imate žig za Srbiju i svoju delatnost. Licitiranje na vaše ime kao ključnu reč Google ne zabranjuje. Odbrana je onda vaša brend kampanja, i ona ima svoju računicu, koju smo razložili u tekstu o [brend kampanji i stvarnom ROI-ju](/blog/brend-kampanja-google-ads-roi-budzet-srbija-2026).
+
+## Kako meriti da biste znali da li se isplati
+
+Platforma će vam pokazati klikove i konverzije. To nije dovoljno, jer kampanja na konkurenta ima najveću razliku između upita i kupca.
+
+- U CRM-u označite izvor "konkurent" za svaki upit iz te kampanje.
+- Pratite kvalifikovane upite i potpisane poslove posebno za ovu kampanju, ne samo ukupno.
+- Uporedite cenu kupca sa generičkom kampanjom i sa svojim maksimalnim CAC-om, ne sa cenom leada.
+
+Zašto cena leada vara baš ovde, objasnili smo u tekstu [CPL nije CAC](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026), a kako da Google uči na pravim upitima u tekstu o [kvalifikovanim konverzijama](/blog/kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026).
+
+## Provera za ovu nedelju
+
+- Otvorite izveštaj o terminima za pretragu za poslednjih 90 dana i potražite imena konkurenata. Ako ih ima, već plaćate takve klikove, samo bez plana.
+- Proverite da nijedna grupa sa imenima konkurenata ne koristi ubacivanje ključne reči.
+- Zapišite jedan konkretan razlog zašto bi kupac konkurenta prešao kod vas. Ako ne možete, ne pokrećite kampanju.
+- Izračunajte maksimalni CAC iz marže pre nego što odredite budžet. Pomoći će vam tekst o [maksimalnoj ceni leada](/blog/maksimalna-cena-leada-srbija-2026).
+- Pogledajte Uvid u aukciju za svoje brend pretrage.
+
+Ako želite da proverimo da li vam se kampanja na konkurenta isplati ili da je postavimo kao zaseban test sa jasnim plafonom, pogledajte kako radimo kao [Google Ads agencija](/google-ads-agencija) i koliko košta [vođenje Google reklama](/google-reklame-cena). Za širu sliku troškova tu je stranica [cene digitalnog marketinga](/cene-digitalnog-marketinga). Pošaljite nam preko [kontakt forme](/kontakt) ko su vam glavni konkurenti i koliko trošite na pretragu, pa ćemo vam reći gde je novac bolje uložen.
+`,
+  },
+  {
     slug: 'exit-intent-kupon-stranica-proizvoda-woocommerce-niwa-ai-manychat-2026',
     title: 'Exit-intent i kupon na stranici proizvoda: Niwa AI vs ManyChat posle klika',
     excerpt: 'Kupac iz Instagram poruke stigne na proizvod i zastane. Šta tada može ManyChat, a šta Niwa AI radi na stranici: odgovor na zamerku, kod u korpi i poruka pri izlasku.',
