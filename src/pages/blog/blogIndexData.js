@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "pitanja-kupaca-iz-chata-seo-aeo-woocommerce-niwa-ai-2026",
+    "title": "Pitanja kupaca iz chata za SEO i AEO: šta Niwa AI otkriva o WooCommerce sajtu",
+    "excerpt": "Niwa AI beleži šta posetioci pitaju chat na sajtu i izdvaja pitanja na koja nije znala odgovor. Kako tu listu pretvoriti u stranice za kupce i Google.",
+    "date": "2026-11-24",
+    "category": "SEO",
+    "readTime": "9 min read",
+    "isDraft": false
+  },
+  {
     "slug": "placanje-na-rate-usluge-popust-marza-prodajni-proces-srbija-2026",
     "title": "Plaćanje na rate za usluge u Srbiji 2026: kada podiže prodaju, a kada jede maržu",
     "excerpt": "Rate preko kartice firmu koštaju manje od popusta od 10%, a sopstvene rate mogu da vežu milione u kasi. Računica, pravila iz zakona i mesto rata u prodaji.",

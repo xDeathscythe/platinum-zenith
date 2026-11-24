@@ -1,5 +1,114 @@
 const rawBlogPosts = [
   {
+    slug: 'pitanja-kupaca-iz-chata-seo-aeo-woocommerce-niwa-ai-2026',
+    title: 'Pitanja kupaca iz chata za SEO i AEO: šta Niwa AI otkriva o WooCommerce sajtu',
+    excerpt: 'Niwa AI beleži šta posetioci pitaju chat na sajtu i izdvaja pitanja na koja nije znala odgovor. Kako tu listu pretvoriti u stranice za kupce i Google.',
+    date: '2026-11-24',
+    readTime: '9 min read',
+    category: 'SEO',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Niwa AI', 'SEO', 'AEO', 'WooCommerce', 'AI Overviews', 'Sadržaj'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+Utorak, 21:15. Posetilac je na stranici duksa i piše chatu: "Da li šaljete u Banjaluku i koliko košta dostava?" Na sajtu stoji samo "Dostava na teritoriji Srbije 2-3 radna dana". Niwa nema odakle da zna cenu, pa kupcu ne može da da tačan broj. Kupac zatvara tab.
+
+Isto pitanje sutra kuca neko drugi, ovaj put u Google. I tamo ne nalazi vašu stranicu, jer stranica sa tim odgovorom ne postoji.
+
+Ovaj tekst je za vlasnike WooCommerce prodavnica i marketing timove koji vode sadržaj na WordPress sajtu. Do sada smo u ovom serijalu uglavnom poredili [Niwa AI i ManyChat](/blog/niwa-ai-vs-manychat-wordpress-woocommerce-2026) u porukama na društvenim mrežama. Ovde je tema sajt: kako pitanja koja kupci postavljaju chatu pretvoriti u stranice koje čitaju i ljudi i pretraživači.
+
+## Pitanje u chatu je pretraga koju niste videli
+
+Search Console vam pokazuje upite za koje se vaš sajt već pojavljuje u Google-u. Chat pokazuje nešto drugo: šta pitaju ljudi koji su već na sajtu, a nisu našli odgovor na stranici.
+
+Te dve liste se retko poklapaju. Prva vam govori gde već stojite. Druga vam govori šta sajt ne objašnjava, a kupac to želi da zna pre nego što plati. Za SEO i AEO druga lista je često korisnija, jer je napisana rečima kupca, a ne rečima vašeg kataloga.
+
+## Šta Niwa beleži i kako sortira pitanja
+
+Niwa čuva svako pitanje iz chata na sajtu, zajedno sa odgovorom koji je dala. U bazi ostaje poslednjih 10.000 poruka.
+
+Zatim te poruke pregleda u grupama od po 25. Za svaku odredi temu u najviše osam reči, na jeziku sajta, i proceni da li je odgovor zaista dao traženu informaciju. Procena ide po smislu, ne po ključnim rečima. Poruke "Šaljete li za Banjaluku?" i "dostava BiH cena" mogu da završe pod istom temom iako nemaju nijednu zajedničku reč.
+
+Pitanje se vodi kao neodgovoreno kada Niwa nije znala odgovor, nije ga našla, poslala je kupca negde drugde bez same informacije ili je odgovorila na nešto drugo.
+
+U Niwa adminu to vidite ovde:
+
+- na stranici asistenta stoji lista tema na koje Niwa za poslednjih sedam dana nije znala odgovor, uz broj poruka koje još čekaju pregled;
+- kontrolna tabla prikazuje koliko je takvih tema bilo te nedelje;
+- analitika pokazuje najčešće teme za izabrani period i označava one bez odgovora.
+
+Jedna iskrena napomena. Pregled se ne vrti stalno u pozadini. Pokreće se kada otvorite stranicu sa listom ili kliknete da Niwa pregleda nove razgovore, i tada obradi jednu grupu poruka. Prodavnica sa puno razgovora sustiže zaostatak kroz nekoliko otvaranja. Za pregled je potrebna povezana AI veza u podešavanjima.
+
+## Gde odgovor treba da stoji
+
+Lista vam ne kaže samo šta fali, nego i gde da to dopišete. Većina pitanja pada u neku od ovih grupa.
+
+**Pitanja o proizvodu.** Mere, materijal, da li odgovara uz neki drugi model, kako se održava. Odgovor ide u opis proizvoda, i to u prvi pasus, a ne u tabelu na dnu ili u sliku.
+
+**Pitanja o kupovini.** Dostava u inostranstvo, rok, cena slanja, povrat, plaćanje pouzećem. Odgovor ide na stranicu o dostavi ili povratu, sa konkretnim zemljama, rokovima i iznosima. Sa stranice proizvoda stavite link ka toj stranici.
+
+**Pitanja koja traže objašnjenje.** "Koja je razlika između ova dva modela", "šta da izaberem za dete od šest godina". Za to je bolji vodič ili blog tekst, sa linkovima ka proizvodima o kojima piše.
+
+Pravilo je isto za sve. Odgovor napišite u prvoj ili drugoj rečenici, kao tekst, onim rečima kojima je kupac pitao.
+
+## Niwa nauči odgovor čim ga objavite
+
+Kada sačuvate javnu stranicu, tekst ili proizvod, Niwa sama osveži svoje znanje o sajtu. Ne treba ništa da ponovo trenirate ni da ručno lepite odgovore u podešavanja. Za veće izmene na stranici asistenta postoji i dugme kojim Niwa ponovo pročita ceo sajt.
+
+Proveru radite ovako: otvorite chat na sajtu i postavite pitanje onim rečima kojima ga je kupac postavio. Ako Niwa sada odgovara tačno, posao je završen. Narednih nedelja pratite da li ta tema nestaje sa liste neodgovorenih.
+
+## Šta to znači za SEO i AEO, bez bajki
+
+Google u dokumentaciji [AI features and your website](https://developers.google.com/search/docs/appearance/ai-features) piše da za AI Overviews i AI Mode ne postoje dodatni zahtevi ni posebne optimizacije. Stranica mora da bude indeksirana i da može da se prikaže sa isečkom u običnoj pretrazi. Važe stare osnove: sadržaj u tekstualnom obliku, interni linkovi do važnih stranica i strukturirani podaci koji se slažu sa vidljivim tekstom. Google takođe kaže da indeksiranje i prikaz nisu zagarantovani.
+
+Zato ovde nema trika. Pitanja iz chata vam pomažu da napišete stranice koje odgovaraju na stvarna pitanja, a to je upravo ono što Google traži od sadržaja.
+
+Još nešto: od avgusta 2023. Google [prikazuje FAQ proširene rezultate](https://developers.google.com/search/blog/2023/08/howto-faq-changes) samo za poznate, autoritativne sajtove države i zdravstva. Ako pravite stranicu sa čestim pitanjima, pravite je zbog kupca, a ne zbog zvezdica i padajućih pitanja u rezultatima pretrage.
+
+Razgovori iz chata ostaju privatni. Niwa ih ne objavljuje i Google ih ne indeksira. Na Google može da stigne samo stranica koju vi objavite sa odgovorom.
+
+## Nedeljna rutina od dvadesetak minuta
+
+Ovo je postupak koji preporučujemo klijentima. Nije ugrađen u plugin kao čarobnjak, nego je navika.
+
+- Ponedeljak ujutru otvorite stranicu asistenta i pustite Niwu da pregleda nove razgovore.
+- Uzmite temu sa najviše neodgovorenih poruka. Otvorite dva ili tri razgovora iz nje u pregledu razgovora i proverite da li je procena tačna.
+- Odlučite gde odgovor pripada: proizvod, stranica o kupovini ili vodič.
+- Napišite odgovor rečima kupca i dodajte interni link sa mesta gde se pitanje pojavljuje.
+- Postavite isto pitanje u chatu i proverite odgovor.
+- Za vodiče i nove stranice proverite u Search Console da li je stranica indeksirana.
+
+Jedna tema nedeljno deluje sporo. Za tri meseca to je dvanaest stranica ili opisa koji odgovaraju na ono što kupci zaista pitaju.
+
+## Ilustrativan primer
+
+Brojke su izmišljene za primer i nisu merene ni na jednoj prodavnici.
+
+Prodavnica dečje odeće za sedam dana ima dve teme na vrhu liste neodgovorenih. "Dostava u Bosnu i Hercegovinu" ima 14 poruka, a "Da li je materijal pamuk" njih 9.
+
+Recimo da od 14 kupaca iz BiH tri odustanu jer ne znaju cenu dostave, a prosečna korpa je 6.500 dinara. To je 19.500 dinara nedeljno, odnosno oko 84.500 dinara mesečno prometa koji odlazi zbog jedne rečenice koja fali na stranici o dostavi.
+
+Za to ne treba kampanja. Dovoljan je jedan pasus: zemlje u koje šaljete, rok, cena i način plaćanja, sa linkom sa svake stranice proizvoda. Pitanje o pamuku rešava se u opisima proizvoda, sastav u prvom pasusu.
+
+## Šta ova lista ne radi
+
+- Pokriva chat na sajtu. Poruke sa Instagrama, Facebooka i WhatsApp-a nisu u ovoj listi, nego u pregledu razgovora.
+- Oznaka "bez odgovora" je procena modela. Pre nego što prepravite stranicu, pročitajte nekoliko razgovora.
+- Niwa ne prepravlja stranice sama zbog ove liste. Na vaš zahtev može da pripremi nacrt kroz svoj tok za objavu sadržaja, a vi odlučujete šta ide na sajt. Šta sve Niwa radi na WordPress-u piše na stranici [Niwa mogućnosti](https://niwachat.com/capabilities/).
+- Ne garantuje pozicije u Google-u ni citat u AI odgovorima. Daje vam spisak tema iz stvarnih razgovora, a ostalo zavisi od stranice koju napišete.
+
+## Za koga ovo ima smisla
+
+Ako na sajtu imate chat, a niko ne čita šta ljudi u njemu pitaju, sedite na najjeftinijem istraživanju ključnih reči koje imate. Niwa ga skuplja i sortira umesto vas, pa vam ostaje samo da napišete odgovor.
+
+Ako vam trebaju stranice koje i rangiraju i prodaju, pogledajte šta uključuje [SEO optimizacija](/seo-optimizacija-cena) i kako radimo kao [SEO agencija](/seo-agencija). Ako sajt ima posetioce, a prodaje nema, krenite od teksta [zašto web shop nema prodaju](/web-shop-nema-prodaju) i od [optimizacije konverzije](/cro). O tome kako Niwa proverava blog tekst pre objave pisali smo u tekstu [AI blog za WooCommerce bez smeća](/blog/niwa-ai-seo-blog-woocommerce-provera-pre-objave-2026), a o odgovorima na prigovore na samoj stranici u tekstu [prigovori na landing strani](/blog/prigovori-na-landing-strani-konverzija-upiti-srbija-2026).
+
+Ako želite da zajedno prođemo listu pitanja sa vašeg sajta i odlučimo koje stranice prve da dopišete, pošaljite nam kroz [kontakt formu](/kontakt) adresu sajta i podatak da li već koristite Niwa chat. Ako je ne koristite, pokazaćemo vam kako da počnete i šta da gledate prve nedelje.
+`,
+  },
+  {
     slug: 'placanje-na-rate-usluge-popust-marza-prodajni-proces-srbija-2026',
     title: 'Plaćanje na rate za usluge u Srbiji 2026: kada podiže prodaju, a kada jede maržu',
     excerpt: 'Rate preko kartice firmu koštaju manje od popusta od 10%, a sopstvene rate mogu da vežu milione u kasi. Računica, pravila iz zakona i mesto rata u prodaji.',
