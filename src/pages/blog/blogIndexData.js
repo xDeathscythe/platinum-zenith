@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "placanje-na-rate-usluge-popust-marza-prodajni-proces-srbija-2026",
+    "title": "Plaćanje na rate za usluge u Srbiji 2026: kada podiže prodaju, a kada jede maržu",
+    "excerpt": "Rate preko kartice firmu koštaju manje od popusta od 10%, a sopstvene rate mogu da vežu milione u kasi. Računica, pravila iz zakona i mesto rata u prodaji.",
+    "date": "2026-11-24",
+    "category": "Marketing",
+    "readTime": "9 min read",
+    "isDraft": false
+  },
+  {
     "slug": "zakazivanje-termina-instagram-dm-wordpress-niwa-ai-manychat-2026",
     "title": "Zakazivanje termina iz Instagram DM-a: Niwa AI vs ManyChat za WordPress sajt",
     "excerpt": "ManyChat za termine šalje Calendly link. Niwa AI na WordPress sajtu nudi stvarno slobodna vremena, šalje podsetnik i otkazan termin nudi drugom klijentu na WhatsApp-u.",

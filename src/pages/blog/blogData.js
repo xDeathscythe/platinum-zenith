@@ -1,5 +1,124 @@
 const rawBlogPosts = [
   {
+    slug: 'placanje-na-rate-usluge-popust-marza-prodajni-proces-srbija-2026',
+    title: 'Plaćanje na rate za usluge u Srbiji 2026: kada podiže prodaju, a kada jede maržu',
+    excerpt: 'Rate preko kartice firmu koštaju manje od popusta od 10%, a sopstvene rate mogu da vežu milione u kasi. Računica, pravila iz zakona i mesto rata u prodaji.',
+    date: '2026-11-24',
+    readTime: '9 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Prodaja', 'Plaćanje na rate', 'Stopa zatvaranja', 'Bruto marža', 'Lead Generation', 'Novčani tok'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+Kupac dobije ponudu od 400.000 dinara za toplotnu pumpu sa ugradnjom i odgovori: "Dobro je, ali ne mogu sad toliko odjednom." Prodavac to čuje kao "skupo je" i ponudi 10% popusta. Kupac opet ne potpiše, jer mu cena nije bila problem. Problem je bio iznos koji mora da izdvoji ovog meseca.
+
+To su dva različita prigovora i ne rešavaju se isto. Ovaj tekst je o drugom: kada firma koja prodaje skuplje usluge građanima treba da ponudi plaćanje na rate, koji način rata da izabere i koliko je to stvarno košta. Primeri važe za firme koje rade sa fizičkim licima i gde jedan posao vredi od nekoliko desetina do nekoliko stotina hiljada dinara: grejanje i klime, PVC stolarija, solarni paneli, stomatologija, kursevi.
+
+## Rate su jeftinije od popusta
+
+Kod popusta firma trajno odustaje od dela cene. Kod rata kupac plaća punu cenu, samo kasnije. Firmu to košta provizija banke ili vreme dok novac ne stigne.
+
+Evo izmišljenog primera, da računica bude jasna. Firma šalje 50 ponuda mesečno, prosečan posao je 400.000 dinara, bruto marža 35%, stopa zatvaranja 20%. To je 10 poslova i 1.400.000 dinara bruto profita mesečno.
+
+- **Popust od 10%** skida 40.000 dinara sa svakog posla. Bruto profit po poslu pada sa 140.000 na 100.000, za 28,6%. Da bi zaradila isto, firma mora da zatvori 14 poslova umesto 10, pa stopa zatvaranja mora da skoči sa 20% na 28%.
+- **Rate preko kartice** uz proviziju od 4% koštaju 16.000 dinara po poslu, odnosno 11,4% bruto profita. Provizija od 4% je pretpostavka za primer, pravi broj vam daje banka. Ako rate izabere polovina kupaca, firma je na nuli čim stopa zatvaranja poraste sa 20% na 21,2%. Ako ih uzme svaki kupac, prag je 22,6%.
+
+Popust znači osam procentnih poena veću stopu zatvaranja samo da biste ostali na istom. Kod rata vam treba jedan do tri. Zato rate idu pre popusta, posebno kada kupac kaže da nema novac sada. Kako da razlikujete "nemam sad" od "skupo je" i šta da tražite zauzvrat kada ipak spuštate cenu, pisali smo u tekstu o [pregovorima o ceni posle ponude](/blog/pregovori-o-ceni-posle-ponude-popust-marza-srbija-2026).
+
+## Tri načina da kupac plati na rate
+
+### Kartice na rate preko banke
+
+Kupac plati karticom na POS terminalu ili na sajtu, banka mu iznos podeli na mesečne rate, a firma dobije novac od banke. Rizik da kupac ne plati nosi banka.
+
+Pre nego što napišete "do 12 rata" u oglasu, proverite kako to radi baš kod vas. Program zavisi od banke i od ugovora firme sa bankom. Na stranici o [pogodnostima Dina kartice](https://dinacard.nbs.rs/sr-Latn-RS/pogodnosti) Narodna banka Srbije navodi nekoliko primera. Banka Inteza nudi do 12 mesečnih rata debitnom Dina karticom na više od 9.000 prodajnih mesta. Banka Poštanska štedionica nudi do šest rata bez kamate, a najveći broj rata određuje poslovna politika trgovca. NLB banka rate kreditnom karticom omogućava na svojim POS terminalima, kod trgovaca sa kojima ima ugovor.
+
+Za firmu to znači tri pitanja za banku: čije kartice prolaze na vašem terminalu, koliko je najviše rata i koliko vas košta svaka opcija.
+
+### Sopstvene rate po ugovoru
+
+Firma sama kreditira kupca. Uzme avans, uradi posao i čeka ostatak u mesečnim ratama. Provizije nema, ali firma postaje banka, sa svim rizicima.
+
+Ako prodajete stvar fizičkom licu, na primer klimu, pumpu ili prozore, važe pravila [Zakona o obligacionim odnosima](https://www.paragraf.rs/propisi/zakon_o_obligacionim_odnosima.html) o prodaji sa obročnim otplatama cene, članovi 542 do 551. Ukratko:
+
+- ugovor mora biti pismen;
+- pod pretnjom ništavosti u njemu moraju da stoje ukupan iznos svih rata, iznos svake rate, njihov broj i rokovi, kao i odredba da kupac može da odustane pismenim obaveštenjem u roku od tri dana od potpisivanja;
+- kupac uvek sme da isplati ostatak odjednom, bez ugovorne kamate i troškova;
+- posle početne uplate ugovor možete da raskinete tek kada kupac kasni sa najmanje dve uzastopne rate koje čine bar osminu cene, ili sa jednom ako rata nema više od četiri;
+- pre nego što tražite ceo ostatak cene, kupcu dajete naknadni rok od 15 dana;
+- ugovorna kazna za kašnjenje sa ratom ili za raskid je ništava.
+
+Za čiste usluge, kao što su kurs ili stomatološki tretman, ovaj deo zakona se ne primenjuje direktno. Pisani plan otplate sa iznosima i datumima i tada je minimum. Ovo nije pravni savet, pa ugovor za rate neka pogleda pravnik pre prve upotrebe.
+
+### Čekovi građana
+
+Čekovi su u Srbiji i dalje čest način plaćanja na rate, pogotovo kod starijih kupaca. Rizik nosi firma, a čekovi traže red u knjigovodstvu. Po [Zakonu o čeku](https://www.paragraf.rs/propisi/zakon_o_ceku.html) ček se plaća po viđenju (član 11). Banci se podnosi u roku od osam dana od dana izdavanja kada su mesto izdavanja i mesto plaćanja isto, a u roku od 15 dana kada su različita (član 12). Ako propustite rok, gubite regres po čeku iz člana 19 i ostaje vam tužba iz osnovnog posla (član 22).
+
+Firma koja prima čekove treba spisak sa datumima i jednu osobu zaduženu da ih na vreme odnese u banku.
+
+## Šta sopstvene rate rade vašoj kasi
+
+Vratimo se na primer. Posao od 400.000 dinara, direktni troškovi 260.000, avans 30% (120.000 dinara), ostatak u šest rata od 46.667 dinara.
+
+Na dan izvođenja firma je u minusu 140.000 dinara po poslu. Platila je 260.000, a dobila 120.000. Taj minus se zatvara tek posle treće rate. Da je kupac platio odjednom, firma bi istog dana bila 140.000 u plusu.
+
+Ako firma ovako proda četiri posla mesečno, posle pola godine kupci joj stalno duguju oko 3,9 miliona dinara u ratama koje još nisu dospele. Bruto profit od ta četiri posla je 560.000 dinara mesečno. Kod kupaca, dakle, stalno stoji zarada od sedam meseci.
+
+Jedan kupac koji prestane da plaća posle avansa i dve rate odnese 186.667 dinara. To je bruto profit od jednog i trećine posla, ili 6,7% zarade od 20 poslova.
+
+Odatle dva pravila koja čuvaju firmu:
+
+- avans neka pokrije bar direktne troškove posla, pa da rizikujete samo maržu;
+- sopstvene rate ne nudite preko iznosa koji firma može da drži u potraživanjima bez kredita za obrtna sredstva.
+
+Kako avans i rok naplate menjaju iznos koji smete da trošite na oglase, objasnili smo u tekstu o [avansu i roku naplate](/blog/avans-rok-naplate-marketing-budzet-lead-generation-srbija-2026). Vezu između zarade i gotovine na računu imate u tekstu o [novčanom toku i marketing budžetu](/blog/novcani-tok-marketing-budzet-roi-srbija-2026).
+
+## Gde rate idu u prodajni proces
+
+Kada se rate pomenu tek posle odbijene ponude, zvuče kao poslednji pokušaj da se posao spase. Bolje ih je ugraditi ranije, na tri mesta.
+
+### U kvalifikaciji pre ponude
+
+U [kratki prodajni brif](/blog/prodajni-brief-pre-ponude-leadovi-srbija-2026) dodajte jedno pitanje: "Da li planirate da platite odjednom ili na rate?" Odgovor menja ponudu. Kupac koji planira rate dobija i iznos mesečne rate u prvoj ponudi. Ne čekate tri dana tišine da biste ga zvali i pitali šta se desilo.
+
+### U samoj ponudi
+
+Pored ukupne cene napišite broj i iznos rata: "400.000 dinara, ili 12 rata od po oko 33.333 dinara karticama banaka koje prihvatamo." Kupac koji gleda kućni budžet poredi ratu sa platom, a ne ukupnu cenu sa konkurencijom. Iznos mora da odgovara stvarnim uslovima vaše banke. U suprotnom ste sami sebi napravili novi prigovor.
+
+### Kao odgovor na "nemam sad"
+
+Kada kupac kaže da nema ceo iznos sada, rate su prvi odgovor. Popust čuvajte za slučaj kada je problem cena. I tada ga menjajte za nešto: veći avans, fleksibilniji termin, preporuku.
+
+## Rate u oglasima i na sajtu
+
+Ako nudite rate, recite to tamo gde kupac odlučuje da li će uopšte poslati upit. Ljudi pretražuju i fraze kao "klima na rate" ili "toplotna pumpa na rate". Za takve pretrage ima smisla posebna grupa oglasa sa porukom o ratama i landing strana koja odmah pokazuje iznos rate. Primer podele kampanja za grejanje imate u tekstu [Google Ads za toplotne pumpe](/blog/google-ads-za-toplotne-pumpe-i-grejanje-cena-upita-srbija-2026). Ako rate ne nudite, "na rate" stavite u negativne ključne reči, zajedno sa padežima, kako smo objasnili u tekstu o [tipovima podudaranja ključnih reči](/blog/tipovi-podudaranja-kljucnih-reci-google-ads-lead-generation-srbija-2026).
+
+Poruka o ratama privlači i kupce kojima je budžet najveći problem. Zato u CRM-u vodite polje "način plaćanja" sa četiri vrednosti: odjednom, kartica na rate, sopstvene rate, čekovi. Posle tri meseca uporedite stopu zatvaranja i maržu po načinu plaćanja. Ako Google Ads optimizujete na [kvalifikovane konverzije](/blog/kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026) i šaljete vrednost posla, šaljite bruto profit posle provizije banke. To je novac koji firmi stvarno ostaje.
+
+Isto važi za budžet. Ako rate podignu stopu zatvaranja, raste i iznos koji smete da platite po upitu. Računicu unazad od bruto profita imate u tekstu o [stopi zatvaranja i marketing budžetu](/blog/stopa-zatvaranja-leadova-marketing-budzet-srbija-2026), a okvir troškova oglašavanja na stranici [cena Google reklama](/google-reklame-cena).
+
+## Kada rate nemaju smisla
+
+- Posao je jeftin. Kod usluge od 8.000 dinara kupcu rate ne trebaju, a firmi dodaju posao u knjigovodstvu.
+- Marža je tanka. Provizija od nekoliko procenata kod marže od 15% odnosi velik deo zarade, pa prag za stopu zatvaranja raste.
+- Niko ne prati naplatu. Sopstvene rate i čekovi bez osobe koja prati uplate postaju nenaplaćena potraživanja.
+- Poslove ne gubite zbog iznosa odjednom. Ako izgubljene ponude padaju na kvalitetu, roku ili poverenju, rate to neće popraviti.
+
+## Šta da uradite ove nedelje
+
+- Pregledajte poslednjih 20 izgubljenih ponuda i označite one gde je razlog bio novac sada, a ne cena.
+- Pitajte banku za uslove kartica na rate: čije kartice, koliko rata, kolika provizija.
+- Izračunajte svoj prag: za koliko mora da poraste stopa zatvaranja da bi rate pokrile proviziju. Uporedite ga sa popustom koji inače dajete.
+- Dodajte pitanje o načinu plaćanja u brif i polje "način plaćanja" u CRM.
+- Ako razmišljate o sopstvenim ratama, odredite avans koji pokriva direktne troškove i najveći ukupan iznos potraživanja koji firma može da nosi.
+
+Ako želite da proverimo kako vaše kampanje, landing strana i ponuda rade zajedno, uključujući koliko smete da platite upit kada uvedete rate, [pišite nam](/kontakt). Kako radimo pogledajte na stranici [Google Ads agencija](/google-ads-agencija), a okvirne cene na stranici [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+`,
+  },
+  {
     slug: 'zakazivanje-termina-instagram-dm-wordpress-niwa-ai-manychat-2026',
     title: 'Zakazivanje termina iz Instagram DM-a: Niwa AI vs ManyChat za WordPress sajt',
     excerpt: 'ManyChat za termine šalje Calendly link. Niwa AI na WordPress sajtu nudi stvarno slobodna vremena, šalje podsetnik i otkazan termin nudi drugom klijentu na WhatsApp-u.',
