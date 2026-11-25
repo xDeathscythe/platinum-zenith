@@ -1,5 +1,150 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-za-dimnicare-sanacija-dimnjaka-cena-upita-srbija-2026',
+    title: 'Google Ads za dimničare 2026: sanacija dimnjaka, filteri i cena upita',
+    excerpt: 'Čišćenje, sanacija dimnjaka i ugovor sa restoranom nemaju istu vrednost. Koliko sme da košta upit, šta isključiti i šta beogradski filteri znače za oglase.',
+    date: '2026-11-25',
+    readTime: '9 min read',
+    category: 'Google Ads',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Dimničari', 'Sanacija dimnjaka', 'Lokalni biznis', 'Grejna sezona', 'CPL'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+Skupština Grada Beograda je 6. oktobra 2026. dopunila Odluku o dimničarskim uslugama. Od 15. oktobra domaćinstva u Beogradu koja lože drva, ugalj, pelet ili mazut imaju obavezu da u ložište ugrade filter koji smanjuje emisiju suspendovanih čestica za najmanje 40%. Grad te filtere deli i ugrađuje besplatno, uz prijavu u opštini.
+
+Firma koja čisti i sanira dimnjake to vidi u izveštaju o terminima pretrage: "filter za dimnjak", "ugradnja filtera dimnjak", "filter za peć na drva". Izgleda kao da je potražnja eksplodirala. Najveći deo tih ljudi ne traži privatnog dimničara. Traži formular svoje opštine.
+
+Ovaj tekst je za vlasnike dimničarskih firmi i firmi koje rade sanaciju i ugradnju dimnjaka. Pokazaćemo kako da Google Ads plaća upite koji postaju posao, a ne klikove ljudi koji žele besplatnu uslugu od grada.
+
+## Tri kupca, tri različite pretrage
+
+Reč "dimničar" pokriva poslove koji se po vrednosti razlikuju i po dvadeset puta. Ako svi idu u istu kampanju, budžet odlazi na najjeftinije upite, jer njih ima najviše.
+
+**Hitan poziv.** "Dimnjak ne vuče", "dim se vraća u sobu", "gori čađ u dimnjaku". Čovek zove danas, iz kuće punu dima, i uzima prvog koji se javi. Posao je mali, ali se zatvara skoro uvek kad stignete na vreme.
+
+**Sanacija i ugradnja.** "Sanacija dimnjaka cena", "uvlačenje inox cevi u dimnjak", "ugradnja inox dimnjaka". Ovo je projekat: izlazak na teren, procena, ponuda, pa izvođenje. Kupac poredi dve ili tri firme i odlučuje danima.
+
+**Ugostitelji i pekare.** Restorani, roštilj-objekti, pekare i kuhinje hotela. U Beogradu Odluka o dimničarskim uslugama propisuje da se dimnjaci instalacija za masovno pripremanje hrane čiste dva puta mesečno preko cele godine, a ventilacioni kanali tih kuhinja u aprilu i oktobru (čl. 7 i 8). To je ugovor na godinu, ne jednokratni poziv.
+
+Svaka od ove tri grupe traži svoju kampanju, svoj oglas, svoju stranicu i svoj limit cene upita.
+
+## Pre prve kampanje: ko u vašem gradu sme da radi šta
+
+Ovo je deo koji većina oglašivača preskoči, a u ovoj niši je presudan. Po [Zakonu o komunalnim delatnostima](https://www.paragraf.rs/propisi/zakon_o_komunalnim_delatnostima.html), dimničarske usluge su komunalna delatnost (čl. 2) i obuhvataju kontrolu i čišćenje dimovodnih i ložišnih objekata, pregled novoizgrađenih dimnjaka i merenje emisije dimnih gasova (čl. 3). Detalje uređuje svaki grad svojom odlukom.
+
+U Beogradu, po [Odluci o dimničarskim uslugama](http://demo.paragraf.rs/demo/combined/Old/t/t2026_10/BG_082_2026_005.htm), te usluge obavlja preduzeće kome su poslovi povereni (čl. 5), po godišnjem programu, uz naplatu kroz cenu komunalne usluge. Šest prigradskih opština može to da uredi drugačije. Drugi gradovi imaju svoje odluke i svoje poverioce.
+
+Za oglase to znači sledeće. Pre nego što platite klik na "čišćenje dimnjaka Beograd", proverite šta tačno smete da radite i naplatite na tom području. Sanacija, izrada i ugradnja dimnjaka, video pregled i čišćenje na zahtev korisnika su poslovi koje mnoge privatne firme rade legalno, ali uslovi zavise od grada. Ovo nije pravni savet. Pitanje za pravnika ili lokalnu komunalnu upravu košta manje od jednog meseca pogrešno usmerenog budžeta.
+
+Druga posledica: ljudi koji traže "dimničar Infostan", "račun za dimničara" ili ime komunalnog preduzeća traže instituciju, ne vas. Te reči idu među negativne od prvog dana.
+
+## Filteri u Beogradu: potražnja koju ne treba kupovati naslepo
+
+Dopuna odluke iz "Službenog lista Grada Beograda" br. 82/2026 dodala je članove 12a do 12d. Ukratko:
+
+- domaćinstva sa individualnim ložištem na drva, ugalj, pelet ili mazut moraju da ugrade filter koji smanjuje emisiju čestica za najmanje 40% (čl. 12a);
+- Grad obezbeđuje filter i ugradnju bez naknade, preko javnog poziva u opštinama, a vlasnik može i da filter nabavi i ugradi o svom trošku (čl. 12b);
+- Grad plaća održavanje filtera dve godine od ugradnje, a posle toga čišćenje, kontrolu, servis i zamenu plaća vlasnik (čl. 12v i 12g);
+- kazna za fizičko lice je 10.000 dinara (čl. 19a), a iz Sekretarijata za zaštitu životne sredine su za [Euronews Srbija](https://www.euronews.rs/srbija/drustvo/247003/beograd-deli-besplatne-filtere-kazne-posle-pet-godina/vest) rekli da se kazne očekuju tek posle petogodišnjeg roka.
+
+Po [saopštenju Grada Beograda](https://www.beograd.rs/lat/beoinfo-vesti/a108354/Javni-poziv-za-dodelu-filtera-za-smanjenje-emisije-suspendovanih-cestica-iz-individualnih-lozista.html) iz juna 2025, plan je bio 80.000 filtera u 2025. i 70.000 u 2026, a ugradnju radi Komunalno preduzeće "Dimničar". Euronews u oktobru 2026. navodi da je nabavljeno 150.000 filtera i da je budžetom planirano još toliko.
+
+Šta iz ovoga sledi za privatnu firmu u Beogradu:
+
+- pretrage tipa "besplatan filter", "prijava za filter", "filter opština" su ljudi koji žele gradski program; te reči isključite;
+- "filter za dimnjak cena" i "kupiti filter za dimnjak" mogu biti kupci koji ne žele da čekaju opštinu, ali samo ako zaista prodajete i ugrađujete filter koji ima dokaz o smanjenju od najmanje 40%;
+- najzanimljiviji posao dolazi kasnije: besplatno održavanje traje dve godine od ugradnje, pa za domaćinstva koja su filter dobila 2025. ili 2026. ističe 2027. ili 2028; od tada vlasnik sam plaća čišćenje i servis filtera, i to je ponavljajući posao za firmu koja već ima njegov broj.
+
+Ako ste van Beograda, ovaj deo vas se ne tiče direktno. Pratite odluku svog grada, jer ovakve mere imaju naviku da se šire.
+
+## Koliko sme da košta upit: računica po vrsti posla
+
+Sledeći brojevi su izmišljen primer da se vidi logika. Zamenite ih svojim cenama, maržom i stopom zatvaranja.
+
+### Čišćenje dimnjaka i peći kod kuće
+
+Naplata 6.000 dinara, bruto profit 60%, znači 3.600 dinara. Od kvalifikovanih upita posao postane njih 70%. Ako na dobijanje novog kupca sme da ode 40% bruto profita prvog posla, to je 1.440 dinara po kupcu, a najviše oko 1.000 dinara po upitu.
+
+### Sanacija dimnjaka sa inox uloškom
+
+Posao 150.000 dinara, bruto profit 35%, znači 52.500 dinara. Posle izlaska na teren posao dobijete u 30% slučajeva. Ako na kupca sme da ode 25% bruto profita, to je 13.125 dinara po kupcu i oko 3.900 dinara po upitu.
+
+### Godišnji ugovor sa restoranom
+
+Ugovor vredan 180.000 dinara godišnje, bruto profit 45%, znači 81.000 dinara. Zatvarate jedan od pet ozbiljnih razgovora. Uz 20% bruto profita za akviziciju, to je 16.200 dinara po kupcu i oko 3.200 dinara po upitu.
+
+Upit za sanaciju sme da košta skoro četiri puta više od upita za čišćenje. Firma koja svim kampanjama zada isti cilj od 1.000 dinara po upitu praktično gasi sanacije, jer Google pronalazi ono što može da isporuči po toj ceni, a to su čišćenja. Više o tome kako se dolazi do ovog limita imamo u tekstu o [maksimalnoj ceni leada](/blog/maksimalna-cena-leada-srbija-2026) i o razlici između [CPL i CAC](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026).
+
+## Kapacitet ekipe određuje šta se gasi prvo
+
+Novembar i decembar su meseci kada ekipa ima pun kalendar. Tada je pitanje šta oglasi pune, a ne koliko upita dolazi.
+
+Ostanimo kod istog primera. Ako ekipa od dvoje dnevno uradi šest čišćenja, to je 21.600 dinara bruto profita. Ako za jedan radni dan završi sanaciju, to je 52.500 dinara. Dan potrošen na čišćenja vredi manje od polovine dana na sanaciji.
+
+Zato pravilo glasi: kada je kalendar za čišćenja pun za narednih sedam do deset dana, pauzirajte kampanju za čišćenje i hitne pozive, a kampanju za sanaciju ostavite da radi. Upit koji ne možete da opslužite nije prodaja. To je loš utisak koji ste platili.
+
+Ne oslanjajte se na dnevni budžet kao kočnicu. Google navodi da kampanja [u jednom danu može da potroši do dvostrukog prosečnog dnevnog budžeta](https://support.google.com/google-ads/answer/1704443), a da mesečno ne prelazi 30,4 dnevna budžeta. Ako ekipa sutra ne može da primi nijedan hitan poziv, kampanju pauzirate, ne smanjujete budžet za deset posto. Logiku planiranja po kapacitetu smo detaljnije obradili u tekstu o [kapacitetu prodaje i budžetu](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026).
+
+## Kako da izgleda nalog
+
+**Kampanja za hitne pozive.** Uzak radijus oko baze, raspored oglasa samo u satima kada neko zaista može da izađe, poziv kao glavna akcija. Ključne reči opisuju simptom: dim se vraća, dimnjak ne vuče, čađ, miris dima.
+
+**Kampanja za sanaciju i ugradnju.** Širi radijus, jer se za posao od 150.000 dinara isplati voziti dalje. Forma sa fotografijama vrha dimnjaka i priključka peći. Ključne reči: sanacija, inox uložak, uvlačenje cevi, izrada dimnjaka, dimnjak za kotao.
+
+**Kampanja za ugostitelje**, tamo gde lokalna odluka to dozvoljava. Posebna stranica koja govori o kuhinjskim dimnjacima, ventilacionim kanalima i masnoći, sa ponudom ugovora na godinu i potvrdom o izvršenoj usluzi. Ključne reči: čišćenje kuhinjske ventilacije, čišćenje nape restoran, dimnjak roštilj objekat.
+
+Ne zaboravite regionalne reči. U delu Srbije ljudi kažu "odžačar" i "odžak", ne "dimničar" i "dimnjak". Proverite izveštaj o terminima pretrage i dodajte oba oblika, kao i padeže: dimnjak, dimnjaka, dimnjaku. Kako tipovi podudaranja hvataju srpske padeže objasnili smo u tekstu o [tipovima podudaranja ključnih reči](/blog/tipovi-podudaranja-kljucnih-reci-google-ads-lead-generation-srbija-2026).
+
+### Negativne ključne reči za početak
+
+- posao: dimničar posao, oglas, plata, zanat, kurs;
+- institucija: Infostan, račun, ime komunalnog preduzeća, cena po kvadratu;
+- gradski program: besplatan filter, prijava, opština, javni poziv;
+- uradi sam: kako očistiti dimnjak, četka za dimnjak, sredstvo za čađ, prašak protiv čađi;
+- samo materijal: inox cevi cena, kolena, kapa za dimnjak, ako ne prodajete materijal bez ugradnje;
+- nebitno: dimnjak crtež, dimnjak za roštilj uradi sam, slike.
+
+Pre nego što isključite "cena", razmislite. Kod sanacije je "sanacija dimnjaka cena" jedna od najboljih pretraga koje imate.
+
+## Šta forma i prvi poziv moraju da pitaju
+
+Upit "koliko košta čišćenje" bez konteksta troši vreme. Pitajte ono što menja cenu i odluku:
+
+- vrsta ložišta i goriva: peć na drva, pelet, kotao na čvrsto gorivo, gas;
+- tip dimnjaka: zidani, inox, keramički, montažni;
+- simptom ili cilj: redovno čišćenje, dim se vraća, pukotina, nova peć, filter;
+- adresa ili bar opština i tip objekta;
+- fotografija vrha dimnjaka i priključka;
+- rok: danas, ove nedelje, pre sledeće sezone.
+
+Ovih šest polja odvaja hitan poziv od projekta pre nego što vozilo krene. Kako da forma filtrira bez gubitka ozbiljnih kupaca pokazujemo u tekstu o [kvalifikaciji kroz kontakt formu](/blog/kontakt-forma-kvalifikacija-leadova-konverzija-srbija-2026). Ako za sanaciju radite procenu na terenu, pročitajte i tekst o [besplatnom izlasku na teren](/blog/besplatan-izlazak-na-teren-procena-merenje-prodajni-proces-srbija-2026), jer svaki prazan izlazak ima cenu goriva i pola radnog dana.
+
+## Merenje poziva u Srbiji
+
+Google meri pozive iz oglasa preko svojih brojeva za prosleđivanje. Srbija nije na [Google listi zemalja](https://support.google.com/google-ads/answer/2454052) u kojima su ti brojevi dostupni. U praksi to znači da nalog sam ne zna koji je klik na dugme za poziv postao posao.
+
+Rešenje je jednostavno i dosadno. Uzmite poseban broj telefona koji stoji samo u oglasima i na odredišnoj stranici kampanje. Svaki poziv na taj broj upisujte u CRM ili tabelu sa tri podatka: vrsta posla, da li je zakazan izlazak, da li je posao naplaćen. Posle mesec dana znate koja kampanja donosi sanacije, a koja samo zvoni.
+
+## Kada oglasi nemaju smisla
+
+- Kada u vašem gradu redovno čišćenje radi isključivo komunalno preduzeće, a vi drugo nemate da ponudite.
+- Kada u sezoni ne možete da izađete u roku od dva do tri dana. Kupac sa dimom u sobi zove sledećeg.
+- Kada nemate nijednu fotografiju svojih radova na sanaciji. Bez toga oglas za skupe radove ne ubeđuje nikoga.
+- Kada ne beležite ishod poziva. Tada budžet raspoređujete po osećaju, a osećaj u novembru kaže da je sve dobro jer telefon zvoni.
+
+Firme koje rade i grejne uređaje mogu da spoje ovaj tekst sa vodičima za [servis kotlova](/blog/google-ads-za-servis-kotlova-cena-poziva-grejna-sezona-srbija-2026) i [kamine i peći na pelet](/blog/google-ads-za-kamine-i-peci-na-pelet-cena-upita-srbija-2026), jer se kupci preklapaju.
+
+## Plan za ovu nedelju
+
+Izvucite izveštaj o terminima pretrage za poslednjih 30 dana i podelite pretrage u tri grupe: hitno, sanacija, ugostitelji. Sve što liči na gradski program ili traženje posla prebacite u negativne. Izračunajte limit cene upita za svaku grupu sa svojim brojevima. Uzmite poseban broj za oglase. Za dve nedelje imaćete prve podatke koji nisu nagađanje.
+
+Ako želite da to uradimo zajedno, pogledajte kako radimo [Google Ads za lokalne firme](/google-ads-agencija) i koliko košta [vođenje Google reklama](/google-reklame-cena), ili nam pišite preko [kontakt stranice](/kontakt). Prvo pogledamo nalog i kalendar ekipe, pa tek onda budžet.
+`,
+  },
+  {
     slug: 'pitanja-kupaca-iz-chata-seo-aeo-woocommerce-niwa-ai-2026',
     title: 'Pitanja kupaca iz chata za SEO i AEO: šta Niwa AI otkriva o WooCommerce sajtu',
     excerpt: 'Niwa AI beleži šta posetioci pitaju chat na sajtu i izdvaja pitanja na koja nije znala odgovor. Kako tu listu pretvoriti u stranice za kupce i Google.',

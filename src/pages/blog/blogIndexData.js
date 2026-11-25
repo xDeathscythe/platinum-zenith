@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "google-ads-za-dimnicare-sanacija-dimnjaka-cena-upita-srbija-2026",
+    "title": "Google Ads za dimničare 2026: sanacija dimnjaka, filteri i cena upita",
+    "excerpt": "Čišćenje, sanacija dimnjaka i ugovor sa restoranom nemaju istu vrednost. Koliko sme da košta upit, šta isključiti i šta beogradski filteri znače za oglase.",
+    "date": "2026-11-25",
+    "category": "Google Ads",
+    "readTime": "9 min read",
+    "isDraft": false
+  },
+  {
     "slug": "pitanja-kupaca-iz-chata-seo-aeo-woocommerce-niwa-ai-2026",
     "title": "Pitanja kupaca iz chata za SEO i AEO: šta Niwa AI otkriva o WooCommerce sajtu",
     "excerpt": "Niwa AI beleži šta posetioci pitaju chat na sajtu i izdvaja pitanja na koja nije znala odgovor. Kako tu listu pretvoriti u stranice za kupce i Google.",
