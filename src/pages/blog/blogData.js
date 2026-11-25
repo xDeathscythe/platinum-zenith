@@ -1,5 +1,108 @@
 const rawBlogPosts = [
   {
+    slug: 'najprodavaniji-proizvodi-instagram-dm-woocommerce-niwa-ai-manychat-2026',
+    title: 'Najprodavaniji proizvodi u Instagram DM-u: Niwa AI vs ManyChat za WooCommerce',
+    excerpt: 'Kupac u DM-u pita šta se najviše prodaje. Niwa AI odgovara iz stvarne WooCommerce prodaje i preskače rasprodato, ManyChat iz teksta koji ste upisali.',
+    date: '2026-11-25',
+    readTime: '8 min read',
+    category: 'E-Commerce',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Niwa AI', 'ManyChat', 'WooCommerce', 'Instagram DM', 'Najprodavaniji proizvodi', 'Black Friday'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+Sreda uveče, dva dana pred Black Friday. U Instagram DM stiže poruka: "Šta vam se najviše prodaje? Tražim poklon za sestru, ne znam šta da uzmem."
+
+Ta osoba ne razgleda katalog. Želi da joj izbor suze ljudi koji su već kupili. Ako joj odgovorite sa tri proizvoda koja zaista idu i koja su na stanju, klik do sajta je skoro siguran. Ako joj pošaljete listu napisanu u septembru, a prvi proizvod je rasprodat od juče, izgubili ste i razgovor i malo poverenja.
+
+Ovaj tekst je za vlasnike WooCommerce prodavnica koji prodaju preko Instagrama, Facebook-a i WhatsApp-a. U serijalu poredimo [Niwa AI i ManyChat](/blog/niwa-ai-vs-manychat-wordpress-woocommerce-2026), a ovde je scenario uzak i vrlo čest: pitanje o najprodavanijim proizvodima.
+
+## Zašto je "šta se najviše prodaje" prodajno pitanje
+
+Kupac koji ovo pita već je odlučio da kupuje. Nije odlučio šta. Prodaja drugih ljudi mu služi kao preporuka, pa odgovor na ovo pitanje nosi više težine od opisa proizvoda.
+
+Zato odgovor mora da ispuni dva uslova. Mora da bude tačan, odnosno da stvarno pokazuje šta se prodaje. I mora da vodi do proizvoda koji kupac može da kupi danas. Lista koja ne ispunjava drugi uslov šalje kupca na stranicu "nema na stanju", a to je najgore mesto na koje možete da pošaljete toplog kupca.
+
+## Kako na isto pitanje odgovara ManyChat
+
+U ManyChat-u imate dva puta.
+
+Prvi je okidač po ključnoj reči. Kupac napiše "najprodavanije" i dobije poruku koju ste unapred napisali, sa proizvodima koje ste sami izabrali. Radi tačno onoliko dobro koliko je ta poruka sveža.
+
+Drugi je Manychat AI, koji odgovara iz baze znanja. Po [ManyChat dokumentaciji za AI Knowledge](https://help.manychat.com/en/articles/17742127-manychat-ai-knowledge), ta baza trenutno radi samo za Instagram, traži plaćeni plan sa Manychat AI i označena je kao beta. Prima dve vrste sadržaja: tekst i javne linkove, a sa stranice čita samo izvučen tekst.
+
+Ni u jednom od ta dva puta nema podatka o tome šta se u vašoj prodavnici zaista prodaje. Na [stranici ManyChat integracija](https://manychat.com/integrations) nema WooCommerce-a. Ako hoćete da ManyChat čita živu prodaju, gradite sopstvenu vezu preko Zapier-a, Make-a ili API-ja i održavate je.
+
+Da budemo fer: ako imate deset proizvoda koji se retko menjaju i svake nedelje osvežite listu, ManyChat će na ovo pitanje odgovoriti sasvim dobro. Problem nastaje u nedelji kada se zalihe menjaju svaki dan, a to je baš nedelja Black Friday-a.
+
+## Kako odgovara Niwa
+
+Niwa za ovo pitanje ne pretražuje znanje o sajtu. Ima poseban alat za rang prodaje i pravilo da pretraga po sadržaju meri sličnost, a ne prodaju. Kada kupac pita šta se najviše prodaje, Niwa pita WooCommerce.
+
+Šta se tada dešava:
+
+- Proizvodi se ređaju po broju prodaja koji WooCommerce vodi za svaki proizvod.
+- Preskaču se proizvodi koji su skriveni u katalogu, oni koji nisu na stanju i oni koji nikad nisu prodati.
+- Niwa vraća do šest proizvoda, a podrazumevano četiri.
+- Kupcu nikad ne kaže koliko je komada prodato. Konkurencija tako ne može da sazna vaš obim prodaje, a proizvod sa skromnim brojem ne izgleda slabo.
+
+Isti alat radi u Instagram DM-u, u Messenger-u i u WhatsApp-u preko Cloud API-ja kada uključite odgovore na tom broju. U porukama Niwa piše običan tekst sa pravim linkovima na stranice proizvoda, do 900 znakova. U chatu na sajtu isti odgovor dobija kartice proizvoda, a kupac može da doda proizvod u korpu iz razgovora.
+
+Ako kupac posle toga pita cenu, Niwa proizvod proverava u živom WooCommerce-u pre odgovora: da li je objavljen, vidljiv, na stanju i kolika je redovna i akcijska cena. Kada sutra pokrenete akciju, ne menjate nijednu poruku.
+
+## Šta tačno broji WooCommerce
+
+Ovde je granica koju morate da znate pre nego što se oslonite na rang.
+
+Broj prodaja u WooCommerce-u je zbirni broj od kada proizvod postoji. Po [izvornom kodu WooCommerce-a](https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce/includes/wc-order-functions.php), broj raste kada porudžbina pređe u status obrade, čekanja ili završene. Smanjuje se kada se porudžbina otkaže, pomeri u otpad ili obriše. Status refundirano se u toj funkciji ne pominje, pa vraćen proizvod i dalje ostaje u broju.
+
+To ima dve posledice. Hit od pre dve godine može i danas da bude prvi na listi. Novi proizvod koji ste lansirali za Black Friday neće se pojaviti dok ne skupi prodaju. Niwa nudi samo taj ukupni rang, ne "najprodavanije ovog meseca".
+
+Ako želite da gurate novi proizvod, napišite to u pravilima za Niwu kao preporuku: "Kada neko traži poklon, pomeni i novi set X kao novitet." Nemojte tražiti da ga predstavi kao najprodavaniji. Kupac koji kasnije vidi da to nije tačno pamti vaš brend, ne vaš chat.
+
+## Tok od poruke do porudžbine
+
+Ovako izgleda ceo put kada ga podesite kako treba:
+
+- Kupac u DM-u pita šta se najviše prodaje.
+- Niwa odgovara sa tri ili četiri proizvoda koji su na stanju, sa linkovima.
+- Kupac otvara stranicu proizvoda na vašem sajtu. Tamo ga čeka chat na sajtu koji zna isti katalog i može da doda proizvod u korpu.
+- Kupac završava kupovinu.
+- Niwa izveštaj o saobraćaju beleži porudžbinu uz izvor posete (UTM oznaka ili sajt sa kog je došao) i prati promene statusa, uključujući otkazivanje i povraćaj.
+
+Jedna stvar ovde ne postoji i ne treba da je očekujete: Niwa ne povezuje Instagram profil sa posetiocem sajta. Merite po izvoru posete, ne po osobi. Za čistiji izvor obeležite UTM parametrima linkove koje sami stavljate u bio, priče i objave.
+
+## Koliko košta zastarela lista
+
+Primer sa izmišljenim brojevima, samo da se vidi red veličine. U nedelji pred Black Friday 60 ljudi u DM-u pita šta se najviše prodaje, a 30 klikne na proizvod iz odgovora. U listi od četiri proizvoda jedan je u međuvremenu rasprodat. Oko 7 ili 8 od tih 30 klikova završi na stranici "nema na stanju".
+
+Ako bi svaki treći od njih kupio, uz prosečnu korpu od 4.800 dinara, to je 12.000 dinara nedeljno koje ste izgubili zbog jedne neosvežene poruke. Za mesec to je 48.000 dinara. Vaši brojevi će biti drugačiji, ali smer je isti: što se zalihe brže menjaju, to ručna lista brže zastareva.
+
+## Šta da proverite pre petka
+
+- Uključite upravljanje zalihama u WooCommerce-u i proverite da stanje odgovara magacinu. Niwa preskače samo ono što WooCommerce vodi kao rasprodato.
+- Proizvode koje ne želite da nudite sakrijte iz kataloga. Skriveni proizvodi ne ulaze u rang.
+- Sa drugog naloga pošaljite probnu poruku "šta vam se najviše prodaje" na Instagram, Facebook i WhatsApp i otvorite svaki link iz odgovora.
+- Akcijske cene postavite u WooCommerce-u sa datumom početka i kraja, da ne morate da ih menjate u ponoć.
+- Novitete koje želite da istaknete upišite u pravila kao preporuku, ne kao najprodavanije.
+- Posle vikenda u Niwa izveštaju pogledajte posete i porudžbine sa društvenih mreža i uporedite ih sa prethodnim periodom.
+
+## Kada je ManyChat bolji izbor
+
+Ako prodajete preko Instagram Live-a, ManyChat ima poseban okidač koji na komentar iz prenosa šalje poruku u DM. Niwa na komentar iz prenosa može da odgovori javno, ali privatnu poruku ne šalje. Ako imate mali katalog koji se ne menja i nemate WordPress, ručna lista u ManyChat-u je jednostavnija.
+
+Ako je vaša prodavnica na WooCommerce-u, a zalihe se menjaju svake nedelje, Niwa je bolji izbor za ovo pitanje. Odgovor dolazi iz vaše prodaje i vaših zaliha u trenutku kada kupac piše, a ne iz poruke koju je neko zaboravio da osveži.
+
+Više o tome kako Niwa radi kao prodajni agent za WooCommerce imate na [stranici Niwa AI za WooCommerce](https://niwachat.com/woocommerce-ai-sales-agent/). O tačnim odgovorima o zalihama u porukama pisali smo u tekstu [Instagram DM za WooCommerce zalihe](/blog/instagram-dm-woocommerce-zalihe-niwa-ai-manychat-2026), o komentarima tokom akcije u tekstu [Black Friday komentari na Instagramu](/blog/black-friday-instagram-komentari-woocommerce-niwa-ai-manychat-2026), a o većoj korpi u tekstu [Niwa AI cross-sell za WooCommerce](/blog/niwa-ai-cross-sell-woocommerce-povecanje-aov-2026).
+
+Ako sajt ima posete iz društvenih mreža, a prodaje je malo, krenite od teksta [zašto web shop nema prodaju](/web-shop-nema-prodaju) i od [optimizacije konverzije](/cro). Ako planirate da pojačate Instagram oglase pred praznike, pogledajte [koliko koštaju Instagram reklame](/instagram-reklame-cena).
+
+Ako želite da pre petka zajedno proverimo šta vaši kupci dobijaju kada u DM-u pitaju šta se najviše prodaje, pošaljite nam kroz [kontakt formu](/kontakt) adresu prodavnice i Instagram nalog. Proći ćemo odgovor, linkove i zalihe i reći vam šta da popravite pre vikenda.
+`,
+  },
+  {
     slug: 'google-ads-za-dimnicare-sanacija-dimnjaka-cena-upita-srbija-2026',
     title: 'Google Ads za dimničare 2026: sanacija dimnjaka, filteri i cena upita',
     excerpt: 'Čišćenje, sanacija dimnjaka i ugovor sa restoranom nemaju istu vrednost. Koliko sme da košta upit, šta isključiti i šta beogradski filteri znače za oglase.',

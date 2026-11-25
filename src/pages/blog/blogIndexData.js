@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "najprodavaniji-proizvodi-instagram-dm-woocommerce-niwa-ai-manychat-2026",
+    "title": "Najprodavaniji proizvodi u Instagram DM-u: Niwa AI vs ManyChat za WooCommerce",
+    "excerpt": "Kupac u DM-u pita šta se najviše prodaje. Niwa AI odgovara iz stvarne WooCommerce prodaje i preskače rasprodato, ManyChat iz teksta koji ste upisali.",
+    "date": "2026-11-25",
+    "category": "E-Commerce",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-za-dimnicare-sanacija-dimnjaka-cena-upita-srbija-2026",
     "title": "Google Ads za dimničare 2026: sanacija dimnjaka, filteri i cena upita",
     "excerpt": "Čišćenje, sanacija dimnjaka i ugovor sa restoranom nemaju istu vrednost. Koliko sme da košta upit, šta isključiti i šta beogradski filteri znače za oglase.",
