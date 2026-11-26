@@ -1,5 +1,110 @@
 const rawBlogPosts = [
   {
+    slug: 'lista-cekanja-rasprodat-proizvod-woocommerce-niwa-ai-manychat-2026',
+    title: 'Lista čekanja za rasprodat proizvod: Niwa AI vs ManyChat za WooCommerce',
+    excerpt: 'Kupac traži rasprodat proizvod i piše "javite mi kad stigne". Gde Niwa AI i ManyChat čuvaju tu tražnju i zašto obaveštenje ne može da ide u DM.',
+    date: '2026-11-26',
+    readTime: '8 min read',
+    category: 'E-Commerce',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Niwa AI', 'ManyChat', 'WooCommerce', 'Lista čekanja', 'Instagram DM', 'Black Friday'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+Zamislite subotu posle Black Friday-a. Crna zimska jakna u veličini M rasprodata je u petak uveče. U Instagram DM stiže poruka: "Imate li onu crnu jaknu u M? Ako nemate, javite mi kad stigne."
+
+Druga rečenica iz te poruke vredi novca. Kupac vam je rekao šta hoće, u kojoj veličini i da je spreman da čeka. Većina prodavnica tu tražnju izgubi na jedan od dva načina. Neko odgovori "nažalost nemamo" i razgovor se tu završi. Ili neko obeća "javićemo vam" i to obećanje nigde ne zapiše.
+
+Ovaj tekst je za vlasnike WooCommerce prodavnica koji prodaju preko Instagrama, Facebook-a i WhatsApp-a. U serijalu poredimo [Niwa AI i ManyChat](/blog/niwa-ai-vs-manychat-wordpress-woocommerce-2026). Kako Niwa u poruci proverava zalihe i varijacije opisali smo u tekstu [Instagram DM za WooCommerce zalihe](/blog/instagram-dm-woocommerce-zalihe-niwa-ai-manychat-2026). Ovde gledamo sledeći korak: šta biva sa kupcem kome je odgovor "nemamo".
+
+## Zašto obaveštenje ne može da ide u DM za tri nedelje
+
+Prvo pravilo važi za sve alate, i za ManyChat i za Niwu. Meta ne dozvoljava automatske poruke posle 24 sata.
+
+Po [ManyChat objašnjenju prozora za poruke](https://help.manychat.com/en/articles/17742014-understanding-messaging-windows), na Messenger-u, Instagramu i WhatsApp-u automatska poruka sme da ide samo u roku od 24 sata od poslednje poruke kupca. Na Instagramu i Messenger-u posle toga čovek iz tima može ručno da piše još sedam dana, uz Human Agent oznaku. Automatske poruke u tom periodu nisu dozvoljene. U [ManyChat uputstvu za poruke van tih rokova](https://help.manychat.com/en/articles/17742038-how-to-send-messages-outside-the-24-hour-and-7-day-windows-in-messenger-and-instagram) piše i da Meta od 9. februara 2026. gasi Message Tags na Messenger-u.
+
+Vaša jakna stiže za tri nedelje. Prozor je do tada odavno zatvoren. Ko obeća "javiću vam se u DM kad stigne" i planira da to uradi automatski, obećava nešto što pravila platforme ne dozvoljavaju. Na WhatsApp-u postoji put preko odobrenih šablona, ali to je plaćena poruka i posebno podešavanje.
+
+Zato listu čekanja vodite na kanalu koji je vaš i ne zavisi od tog prozora. Za većinu prodavnica to je email.
+
+## Kako to radi ManyChat
+
+ManyChat ovde ima pravu prednost: email može da uzme odmah u DM-u. Po [ManyChat uputstvu za email](https://help.manychat.com/en/articles/17742286-how-to-send-emails-with-manychat), Data Collection blok traži adresu tokom razgovora, čuva je u polje Email i beleži saglasnost ako uključite Set Email Opt-In. Kampanju posle šaljete iz ManyChat-a. Email radi samo na plaćenim planovima, naplaćuje se posebno preko ManyChat Wallet-a i podrazumevano ide sa ManyChat adrese kao što je noreply@many-mail.io, dok ne podesite sopstveni domen.
+
+Slabost je na drugoj strani. ManyChat ne zna šta je rasprodato. Na [stranici ManyChat integracija](https://manychat.com/integrations) nema WooCommerce-a. Tok "javi mi kad stigne" pravite po proizvodu ili po ključnoj reči, a podatak da je jakna u M rasprodata unosite vi. Kad roba ponovo stigne, opet vi morate da se setite koju listu da pozovete. Ako hoćete da ManyChat čita zalihe, gradite vezu preko Zapier-a, Make-a ili API-ja i održavate je.
+
+## Kako to radi Niwa
+
+Niwa posao deli na dva mesta.
+
+U DM-u, na Instagramu, Messenger-u i WhatsApp-u, Niwa na pitanje "imate li" proverava stanje proizvoda u živom WooCommerce-u. Ako tražene stvari nema, može da ponudi sličan proizvod koji jeste na stanju, uz jasno rečeno po čemu se razlikuje, i šalje pravi link na stranicu proizvoda. Kupac koji je hteo jaknu u M, a vidi da postoji u tamnoplavoj, može da kupi još u istom razgovoru.
+
+Lista čekanja živi u chatu na sajtu. To je posebna opcija na stranici Kontakti u Niwa administraciji i podrazumevano je isključena. Kada je uključite, Niwa nudi listu čekanja kada posetilac:
+
+- traži jedan konkretan proizvod koji pretraga ne nalazi kao tačan pogodak,
+- odbije prvu ponuđenu zamenu,
+- sam kaže da želi obaveštenje kad proizvod stigne.
+
+Tada Niwa ne nudi treću i četvrtu zamenu. Jednom pita za email i čuva ga. Ako je posetilac adresu već ostavio ranije u istom razgovoru, ne pita ponovo.
+
+Šta se posle toga dešava:
+
+- Kontakt se upisuje u Niwa kontakte u vašem WordPress-u, sa poreklom "Asked to hear when a product arrives". Osoba je sama ostavila adresu, pa se kontakt čuva sa saglasnošću. Ljude koji su vam samo pisali u DM-u Niwa čuva bez saglasnosti i automatske poruke im ne šalje.
+- Vi dobijate obaveštenje sa nazivom proizvoda koji je kupac tražio i njegovom adresom. Podrazumevano stiže emailom, a u podešavanjima obaveštenja možete da uključite i WhatsApp i Telegram.
+- Listu kontakata možete da izvezete u CSV.
+
+Isto važi i za proizvod koji nikad niste prodavali. Kad tri osobe za nedelju dana traže isti model koji nemate u ponudi, to je signal za nabavku, i stiže vam sa imenom proizvoda, ne kao utisak prodavca.
+
+Granica koju treba reći jasno: Niwa ne šalje sama obaveštenje kada proizvod ponovo bude na stanju. U emailu koji dobijete piše da kupcu odgovorite ručno kada proizvod stigne. Niwa vam daje listu i tačan naziv proizvoda, a slanje je vaš korak.
+
+## Kako da DM i sajt rade zajedno
+
+Ovo je praktičan predlog, ne gotova funkcija koju samo uključite. Niwa u DM-u ne upisuje listu čekanja, ali joj u pravilima za Instagram i Facebook kanal možete napisati šta da radi kada proizvoda nema:
+
+"Kada traženi proizvod nije na stanju, ponudi najbližu zamenu koja jeste. Ako je kupac ne želi, pošalji link stranice proizvoda i reci da u chatu na sajtu može da ostavi email za obaveštenje kada stigne."
+
+Kupac iz DM-a tako dolazi na vaš sajt, baš na stranicu tog proizvoda. Tamo ga čekaju isti katalog, ista pravila i lista čekanja. Ako se predomisli i uzme drugu boju, kupovina se dešava na sajtu, a Niwa izveštaj o saobraćaju beleži porudžbinu uz izvor posete.
+
+Jedno ne očekujte: Niwa ne povezuje Instagram profil sa posetiocem sajta. Ne zna da je osoba sa liste čekanja ista ona iz DM-a. Merite po izvoru posete i po listi, ne po osobi.
+
+## Kada roba stigne, ne šaljite celoj listi odjednom
+
+Primer sa izmišljenim brojevima. Za vikend 40 ljudi ostavi email za jaknu u M. Stiže 15 komada.
+
+Ako svaki treći sa liste kupi, to je 12 porudžbina. Uz cenu od 5.900 dinara, to je 70.800 dinara od ljudi koji bi inače kupili kod konkurencije. Ako je tražnja jača i kupi svaki drugi, to je 20 porudžbina na 15 komada. Petoro ljudi koji su čekali tri nedelje klikne na link i opet vidi "nema na stanju". Posle drugog razočaranja takav kupac se teško vraća.
+
+Zato:
+
+- Pre slanja proverite tačno stanje u WooCommerce-u.
+- Ako je lista mnogo duža od zalihe, pišite prvo onima koji su se prvi prijavili. Ako računate da kupi svaki drugi, za 15 komada dovoljno je 30 adresa u prvom talasu.
+- Ostalima pišite kad vidite koliko je ostalo, ili im iskreno recite kada stiže sledeća tura.
+- Link u emailu obeležite UTM parametrima, na primer utm_source=lista-cekanja i utm_medium=email. Niwa izveštaj o saobraćaju prepoznaje email kao izvor kada je medium email, pa vidite koliko je porudžbina došlo sa liste.
+
+## Šta da podesite ove nedelje
+
+- Na stranici Kontakti u Niwa administraciji uključite listu čekanja za proizvode.
+- Upišite email za obaveštenja. Bez njega email obaveštenje ne stiže.
+- U podešavanjima obaveštenja uključite Telegram ili WhatsApp za listu čekanja, da tokom akcije ne čekate da otvorite poštu.
+- U pravila za Instagram i Facebook dodajte rečenicu o zameni i linku ka sajtu.
+- Sa drugog naloga pitajte za rasprodat proizvod, u DM-u i u chatu na sajtu, i pogledajte šta tačno dobijate.
+- Jednom nedeljno prođite obaveštenja i izdvojite proizvode koje ljudi traže, a nemate ih.
+
+## Kada je ManyChat bolji izbor
+
+Ako vam je Instagram glavni kanal, nemate WordPress, katalog je mali i zalihe pratite napamet, ManyChat je jednostavniji. Email uzimate odmah u DM-u, bez slanja kupca na sajt, i kampanju šaljete iz istog alata.
+
+Ako prodajete na WooCommerce-u i zalihe se menjaju svake nedelje, Niwa je bolji izbor. Zna šta je rasprodato u trenutku kada kupac piše, nudi zamenu koja stvarno postoji, a lista čekanja ostaje u vašem WordPress-u sa nazivom proizvoda koji je kupac tražio. Obaveštenje kada roba stigne šaljete vi, ali tačno znate kome i za šta.
+
+Kako Niwa koristi zalihe i katalog u prodajnom razgovoru imate na [stranici Niwa AI za WooCommerce](https://niwachat.com/woocommerce-ai-sales-agent/). O pitanju šta se najviše prodaje pisali smo u tekstu [Najprodavaniji proizvodi u Instagram DM-u](/blog/najprodavaniji-proizvodi-instagram-dm-woocommerce-niwa-ai-manychat-2026), o komentarima tokom akcije u tekstu [Black Friday komentari na Instagramu](/blog/black-friday-instagram-komentari-woocommerce-niwa-ai-manychat-2026), a o merenju porudžbina iz poruka u tekstu [atribucija porudžbina iz Instagram DM-a](/blog/instagram-dm-woocommerce-atribucija-porudzbina-niwa-ai-manychat-2026).
+
+Ako sajt ima posete sa društvenih mreža, a prodaje je malo, krenite od teksta [zašto web shop nema prodaju](/web-shop-nema-prodaju) i od [optimizacije konverzije](/cro). Šta radimo za online prodavnice pogledajte na stranici [marketing za e-commerce](/industrije/e-commerce).
+
+Ako želite da pre sledeće ture zajedno proverimo šta kupac dobija kada traži nešto čega nema, pošaljite nam kroz [kontakt formu](/kontakt) adresu prodavnice i dva proizvoda koja vam se najčešće rasprodaju. Proći ćemo odgovor u DM-u, chat na sajtu i listu čekanja i reći vam šta da podesite.
+`,
+  },
+  {
     slug: 'kredit-za-marketing-kampanju-kamata-povrat-budzet-srbija-2026',
     title: 'Kredit za marketing kampanju 2026: kada se isplati i koliko uzeti',
     excerpt: 'Kredit za oglase ima smisla samo kada kampanja već dokazano donosi kupce. Kako izračunati cenu dodatnog kupca, najdublju tačku keša i kamatu po kupcu.',
