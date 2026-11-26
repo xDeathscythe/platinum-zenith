@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "kredit-za-marketing-kampanju-kamata-povrat-budzet-srbija-2026",
+    "title": "Kredit za marketing kampanju 2026: kada se isplati i koliko uzeti",
+    "excerpt": "Kredit za oglase ima smisla samo kada kampanja već dokazano donosi kupce. Kako izračunati cenu dodatnog kupca, najdublju tačku keša i kamatu po kupcu.",
+    "date": "2026-11-26",
+    "category": "Marketing",
+    "readTime": "9 min read",
+    "isDraft": false
+  },
+  {
     "slug": "najprodavaniji-proizvodi-instagram-dm-woocommerce-niwa-ai-manychat-2026",
     "title": "Najprodavaniji proizvodi u Instagram DM-u: Niwa AI vs ManyChat za WooCommerce",
     "excerpt": "Kupac u DM-u pita šta se najviše prodaje. Niwa AI odgovara iz stvarne WooCommerce prodaje i preskače rasprodato, ManyChat iz teksta koji ste upisali.",

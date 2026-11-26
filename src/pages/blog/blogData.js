@@ -1,5 +1,130 @@
 const rawBlogPosts = [
   {
+    slug: 'kredit-za-marketing-kampanju-kamata-povrat-budzet-srbija-2026',
+    title: 'Kredit za marketing kampanju 2026: kada se isplati i koliko uzeti',
+    excerpt: 'Kredit za oglase ima smisla samo kada kampanja već dokazano donosi kupce. Kako izračunati cenu dodatnog kupca, najdublju tačku keša i kamatu po kupcu.',
+    date: '2026-11-26',
+    readTime: '9 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Marketing budžet', 'Kredit', 'Novčani tok', 'ROI', 'CAC', 'Google Ads'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+Narodna banka Srbije je 12. novembra 2026. podigla referentnu kamatnu stopu sa 5,75% na 6%. Od januara do oktobra stajala je na 5,75%. Za firmu koja razmišlja da kampanju za sezonu ili za januar plati iz dozvoljenog minusa ili kratkoročnog kredita, to je dobar trenutak da prvo izračuna, pa tek onda potpiše.
+
+Ovaj tekst je za vlasnike uslužnih firmi koje već imaju kampanju koja donosi kupce i žele da je ubrzaju tuđim novcem. Pitanje nije da li je kredit dobar ili loš. Pitanje je da li znate tri broja: koliko košta dodatni kupac, kada njegov novac stvarno stigne na račun i koliko duboko keš pada pre toga.
+
+## Kamata je obično najmanji problem
+
+Većina vlasnika gleda kamatu. To je pogrešno mesto za strah. U primeru ispod kamata podigne cenu kupca za oko 2%. Ono što firmu zaista može da zaboli je pretpostavka da će dodatni budžet kupovati kupce po istoj ceni kao postojeći.
+
+Kad kampanja troši 250.000 dinara mesečno i donosi kupca za 30.000 dinara, prirodno je pomisliti da će duplo više novca doneti duplo više kupaca. Retko se tako desi. Prvi deo budžeta kupuje najtoplije pretrage. Svaki sledeći dinar ulazi u skuplje aukcije, šire pretrage i slabije upite. Zato smo o tome pisali posebno u tekstu o [inkrementalnom budžetu](/blog/inkrementalni-marketing-budzet-roi-lead-generation-srbija-2026).
+
+Sa kreditom ta greška postaje skuplja. Kad trošite svoj višak, loš mesec znači manje profita. Kad trošite pozajmljen novac, loš mesec znači ratu koju plaćate iz redovnog poslovanja.
+
+## Nikad ne finansirajte test
+
+Postoji jedno pravilo koje ne treba pregovarati: kredit se ne uzima da bi se proverilo da li kampanja radi.
+
+Test nove ponude, novog grada ili novog kanala ima nepoznat ishod. Zato ga planirate kao [test budžet](/blog/test-budzet-za-novu-ponudu-lead-generation-srbija-2026) sa jasnim kriterijumima za nastavak ili prekid. Ako taj test platite kreditom, eksperiment pretvarate u fiksnu obavezu. Kampanja može da propadne za tri nedelje, a rata ostaje dvanaest meseci.
+
+Kredit ima smisla tek kad imate najmanje nekoliko meseci podataka o tome koliko košta kvalifikovan upit, koliko upita postaje ponuda, koliko ponuda postaje posao i koliko se taj posao naplati.
+
+## Prvi broj: cena dodatnog kupca, ne prosečnog
+
+Uzmimo izmišljen primer, samo da bi računica bila konkretna. Firma radi ugradnje i renoviranja. Prosečan posao je 300.000 dinara, bruto marža 30%, znači 90.000 dinara bruto profita po poslu. Postojeća kampanja donosi kupca za 30.000 dinara.
+
+Vlasnik želi da tri meseca troši dodatnih 270.000 dinara mesečno. Za taj dodatni deo ne računamo 30.000 po kupcu, nego 45.000. To je namerno 50% lošije, jer dodatni budžet ide u slabije aukcije.
+
+Uz 45.000 dinara po kupcu, dodatnih 270.000 donosi 6 kupaca mesečno, odnosno 540.000 dinara bruto profita po mesečnoj grupi kupaca. Na papiru je to odličan posao. Ali bruto profit nije novac na računu danas. Razliku između prihoda, profita i naplate smo detaljno razložili u tekstu o [bruto marži](/blog/bruto-marza-marketing-budzet-roi-srbija-2026).
+
+## Drugi broj: kada novac stvarno stigne
+
+Google ne čeka da vaš kupac plati. Kod naknadnog plaćanja (postpay), Google naplaćuje trošak [kad nalog dostigne prag plaćanja ili prvog dana u mesecu](https://support.google.com/google-ads/answer/6311?hl=sr), šta god dođe prvo. To vam daje najviše oko mesec dana prostora.
+
+Vaš kupac radi drugačijim tempom. Klik, upit, izlazak na teren, ponuda, odluka, izvođenje, faktura, rok plaćanja. U našem primeru novac od kupaca iz prvog meseca kampanje stiže tek u četvrtom mesecu. Ako vaš ciklus duže traje, pročitajte i tekst o [dugom prodajnom ciklusu](/blog/dug-prodajni-ciklus-marketing-budzet-lead-generation-srbija-2026), a za uslove plaćanja tekst o [avansu i roku naplate](/blog/avans-rok-naplate-marketing-budzet-lead-generation-srbija-2026).
+
+Taj razmak od tri meseca je ceo razlog zašto se o kreditu uopšte razgovara.
+
+## Treći broj: najdublja tačka keša
+
+Ovde većina pogreši u iznosu. Pozajmljuju "budžet puta broj meseci". Treba pozajmiti onoliko koliko keš padne u najgorem trenutku, plus rezervu.
+
+U našem primeru, sa tri meseca kampanje i novcem koji kasni tri meseca, stanje izgleda ovako:
+
+- Posle prvog meseca: minus 270.000 dinara.
+- Posle drugog: minus 540.000.
+- Posle trećeg: minus 810.000. To je najdublja tačka.
+- U četvrtom mesecu stiže prvih 540.000, pa ste na minus 270.000.
+- U petom mesecu ste u plusu 270.000, a u šestom 810.000.
+
+Sada isti primer, ali kampanja traje šest meseci umesto tri. Ukupno trošite 1.620.000 dinara. Najdublja tačka je i dalje 810.000, jer od četvrtog meseca novac od starih kupaca plaća nove klikove. Firma koja bi za taj plan tražila kredit od 1,62 miliona plaćala bi kamatu na novac koji joj nikad nije trebao.
+
+Ovo je ista logika kao u tekstu o [novčanom toku i marketing budžetu](/blog/novcani-tok-marketing-budzet-roi-srbija-2026), samo što sada svaki dinar minusa ima cenu.
+
+## Koliko kamata stvarno košta po kupcu
+
+Za primer uzimamo efektivnu kamatnu stopu od 11% godišnje. Vaša banka će dati svoj broj. Uporedite ponude po EKS, ne po nominalnoj kamati. [Narodna banka Srbije naglašava](https://nbs.rs/sr/ciljevi-i-funkcije/zastita-korisnika/eks/) da EKS uključuje sve troškove kredita, ne samo kamatu, i da su ponude uporedive tek po njoj.
+
+Ako kamatu računate mesečno na stanje duga, a dug vraćate čim novac od kupaca stigne, kamata za tromesečni plan iznosi oko 17.300 dinara. To je oko 960 dinara po kupcu, ili oko 2% na cenu od 45.000. Kupac koji košta 45.000 sa kreditom košta oko 46.000.
+
+Plan posle kamate ostavlja oko 793.000 dinara: 1.620.000 bruto profita, minus 810.000 za oglase, minus kamata. Kamata ovde ne odlučuje ništa.
+
+Jedna napomena za kredite i minuse sa promenljivom kamatom: ako je kamata vezana za referentnu stopu, novembarsko povećanje može da podigne vašu ratu. Pročitajte ugovor pre nego što računate sa starim brojem.
+
+## Šta se desi kad pretpostavka pukne
+
+Sada ista firma, isti kredit, ali dodatni kupac ne košta 45.000.
+
+- **Kupac košta 90.000 dinara.** Kampanja donosi 3 kupca mesečno i bruto profit tačno jednak potrošnji. Kredit se vrati do šestog meseca, ali firma je radila tri meseca za banku. Gubitak je kamata, oko 22.300 dinara, plus vreme prodaje i ekipe.
+- **Kupac košta 135.000 dinara.** Kampanja donosi 2 kupca mesečno. Posle devet meseci firma i dalje duguje 270.000 dinara, a kampanja odavno ne radi. Ukupan minus sa kamatom je oko 305.000 dinara i plaća se iz redovnog posla.
+
+Prag je jasan. Sa ovim brojevima, dodatni kupac sme da košta najviše oko 88.000 dinara da bi firma izašla na nulu posle kamate. Ispod toga zarađujete. Iznad toga ste pozajmili novac da biste ga izgubili.
+
+Zato pre potpisa ugovora uradite dva scenarija, kao u tekstu o [planiranju budžeta po scenariju](/blog/marketing-budzet-po-scenariju-lead-generation-srbija-2026): realan i onaj u kome dodatni kupac košta duplo. Ako vas drugi scenario ne ugrožava, kredit je razuman. Ako vas ugrožava, smanjite iznos ili produžite tempo.
+
+## Uzimajte novac u delovima, ne odjednom
+
+Najbolja zaštita nije niža kamata, nego pravilo kada se novac sledećeg meseca pušta u kampanju.
+
+Problem je što pravi broj, cena kupca, stiže kasno. Ne možete čekati tri meseca da saznate da li prvi mesec radi. Zato pratite ranije signale, posle dve do tri nedelje:
+
+- cenu kvalifikovanog upita u odnosu na postojeću kampanju;
+- procenat upita koji dobiju ponudu;
+- vrednost poslatih ponuda;
+- da li prodaja stiže da odgovori na sve upite istog dana.
+
+Pre početka napišite pragove. Na primer: drugi mesec se pušta samo ako je kvalifikovan upit najviše 40% skuplji nego u postojećoj kampanji i ako bar isti procenat upita dobija ponudu. Okvirni kredit ili minus koji koristite po potrebi ovde je bolji od kredita isplaćenog odjednom, jer ne plaćate kamatu na novac koji ste odlučili da ne potrošite.
+
+Ako je prodaja usko grlo, kredit samo ubrzava gomilanje neodgovorenih upita. Prvo proverite [kapacitet prodaje](/blog/kapacitet-prodaje-marketing-budzet-leadovi-srbija-2026).
+
+## Kada kredit za marketing ne treba uzimati
+
+Ima situacija gde računica uopšte nije potrebna, jer je odgovor ne:
+
+- kampanja još nema dokazanu cenu kupca;
+- novac treba da pokrije platu ili porez, a kampanja je izgovor;
+- postojeća kampanja gubi novac i kredit treba da "dogura do rezultata";
+- naplata od kupaca je nepredvidiva, pa ne znate ni kada bi dug mogao da se vrati;
+- vlasnik ne zna da kaže koliko novca od jednog posla ostaje posle izvođenja.
+
+Pre kredita, proverite i jeftinije opcije. Veći avans od kupaca smanjuje najdublju tačku bez kamate. Sporije povećanje budžeta, recimo 20% mesečno umesto duplo odjednom, daje vam podatke pre nego što dug naraste. Deo novca možete držati kao [rezervni budžet za korekcije](/blog/rezervni-marketing-budzet-korekcije-lead-generation-srbija-2026), umesto da sve gurnete u klikove.
+
+## Kako to izgleda kada se radi kako treba
+
+Firma koja finansira rast pametno ima jednu stranicu sa brojevima pre razgovora sa bankom: cenu dodatnog kupca u realnom i lošem scenariju, mesec u kome novac od kupaca stiže, najdublju tačku keša, iznos kredita koji pokriva tu tačku plus rezervu, i pragove za puštanje svakog sledećeg meseca.
+
+Ako želite da proverite svoje brojeve pre nego što odlučite, krenite od [ROI kalkulatora](/alati/roi-kalkulator) i od pregleda [koliko koštaju Google reklame](/google-reklame-cena) za vašu delatnost. Za širu sliku troškova pogledajte [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+Ako želite da zajedno prođemo kroz vašu kampanju, cenu kupca i plan budžeta pre nego što uzmete novac od banke, [pišite nam](/kontakt). Pogledaćemo podatke koje imate i reći vam da li je kampanja spremna za ubrzanje ili prvo treba popraviti nešto drugo.
+
+Ovaj tekst nije finansijski savet. Uslove kredita uvek proverite sa bankom i knjigovođom.
+`,
+  },
+  {
     slug: 'najprodavaniji-proizvodi-instagram-dm-woocommerce-niwa-ai-manychat-2026',
     title: 'Najprodavaniji proizvodi u Instagram DM-u: Niwa AI vs ManyChat za WooCommerce',
     excerpt: 'Kupac u DM-u pita šta se najviše prodaje. Niwa AI odgovara iz stvarne WooCommerce prodaje i preskače rasprodato, ManyChat iz teksta koji ste upisali.',
