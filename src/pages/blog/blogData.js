@@ -13,7 +13,7 @@ const rawBlogPosts = [
     image: '/hero-mktg-dark.jpg',
     ogImage: 'https://platinumzenith.com/og-image.png',
     content: `
-Narodna banka Srbije je 12. novembra 2026. podigla referentnu kamatnu stopu sa 5,75% na 6%. Od januara do oktobra stajala je na 5,75%. Za firmu koja razmišlja da kampanju za sezonu ili za januar plati iz dozvoljenog minusa ili kratkoročnog kredita, to je dobar trenutak da prvo izračuna, pa tek onda potpiše.
+Narodna banka Srbije je 12. novembra 2026. [podigla referentnu kamatnu stopu](https://www.nbs.rs/sr/ciljevi-i-funkcije/monetarna-politika/sednica-izvrsnog-odbora/) sa 5,75% na 6%. Od januara do oktobra nije se menjala. Za firmu koja razmišlja da kampanju za sezonu ili za januar plati iz dozvoljenog minusa ili kratkoročnog kredita, to je dobar trenutak da prvo izračuna, pa tek onda potpiše.
 
 Ovaj tekst je za vlasnike uslužnih firmi koje već imaju kampanju koja donosi kupce i žele da je ubrzaju tuđim novcem. Pitanje nije da li je kredit dobar ili loš. Pitanje je da li znate tri broja: koliko košta dodatni kupac, kada njegov novac stvarno stigne na račun i koliko duboko keš pada pre toga.
 
