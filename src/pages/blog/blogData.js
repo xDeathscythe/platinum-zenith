@@ -1,5 +1,92 @@
 const rawBlogPosts = [
   {
+    slug: 'obavestenja-vlasniku-telegram-whatsapp-woocommerce-niwa-ai-manychat-2026',
+    title: 'Obaveštenja vlasniku na Telegramu i WhatsApp-u: Niwa AI vs ManyChat za WooCommerce',
+    excerpt: 'Kupac u DM-u traži čoveka, neko zakaže termin, stigne nov kontakt. Kako Niwa AI i ManyChat javljaju vlasniku WooCommerce prodavnice šta je hitno, a šta čeka.',
+    date: '2026-11-27',
+    readTime: '8 min read',
+    category: 'E-Commerce',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Niwa AI', 'ManyChat', 'WooCommerce', 'Obaveštenja', 'Telegram', 'WhatsApp'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+Danas je Black Friday. Vlasnik male WooCommerce prodavnice kafe i opreme pakuje porudžbine u magacinu, telefon mu je u džepu. U istih sat vremena dešavaju se tri stvari. Kupac na Instagramu piše da bi pre kupovine aparata od 42.000 dinara voleo da popriča sa nekim iz prodavnice. Neko na sajtu zakaže degustaciju za subotu. Treći kupac u chatu na sajtu ostavi email jer mlin koji traži nije na stanju.
+
+Samo jedna od te tri poruke traži odgovor u narednih deset minuta. Problem je što većina prodavnica podesi obaveštenja tako da telefon zvoni za sve ili ni za šta. Kad zvoni za svaki "cena?" komentar, vlasnik ga utiša do ponedeljka. Kad ne zvoni ni za šta, kupac koji je tražio čoveka čeka u inboxu dok ne ode kod konkurencije.
+
+U serijalu poredimo [Niwa AI i ManyChat](/blog/niwa-ai-vs-manychat-wordpress-woocommerce-2026) za vlasnike WordPress i WooCommerce prodavnica. Ovaj tekst se bavi jednim pitanjem: ko vama javlja šta, i na koji kanal.
+
+## Kako ManyChat javlja timu
+
+U ManyChat-u obaveštenje je akcija koju ubacite u automatizaciju. Po [ManyChat Help članku o akcijama](https://help.manychat.com/en/articles/17741873-actions), akcija Notify Assignees šalje email ili SMS kada se desi nešto važno, na primer kada kontakt traži pomoć ili napravi veću kupovinu. Isti članak navodi da su Notify Admins obaveštenja preko Messenger-a privremeno nedostupna zbog promena u Facebook pravilima i da neke akcije ne postoje na besplatnom planu.
+
+[Članak o ManyChat Inbox-u](https://help.manychat.com/en/articles/17742012-manychat-inbox) to kaže direktno: da biste dobili obaveštenje o novim porukama, dodajte Notify Assignees akciju u svoju automatizaciju. Inbox ima i mobilnu aplikaciju, a razgovor može da se dodeli određenom članu tima ili grupi.
+
+To je prava prednost i treba je reći otvoreno. Ako imate četiri osobe na podršci i hoćete da reklamacije idu jednoj, a veleprodaja drugoj, ManyChat to radi bolje.
+
+Slabost je u tome šta obaveštenje zna. ManyChat zna ono što se desilo u njegovom toku razgovora. Na [stranici ManyChat integracija](https://manychat.com/integrations) postoje Klaviyo, HubSpot, Google Sheets, Zapier i Make, ali WooCommerce ne postoji. Termin zakazan na vašem sajtu, kontakt ostavljen u chatu na sajtu i jučerašnje porudžbine ne stižu u ManyChat obaveštenje bez dodatnog povezivanja koje sami gradite i održavate.
+
+## Kako Niwa javlja vlasniku: jedna tabela
+
+Niwa ima jednu tabelu u podešavanjima, na stranici Email i obaveštenja. U redovima je pet događaja: nov kontakt, nov termin, proizvod na listi čekanja, kupac koji traži čoveka i jutarnji izveštaj. U kolonama su tri kanala: email, WhatsApp na vaše brojeve i Telegram na vaš nalog. Svako polje je prekidač.
+
+Podrazumevano nov kontakt, termin i lista čekanja idu na email. Kupac koji traži čoveka i jutarnji izveštaj idu na WhatsApp i Telegram. Dugme za test šalje probnu poruku na svaki kanal koji je uključen bar za jedan događaj, pa pre vikenda znate da li poruka stvarno stiže.
+
+Poruke na Telegram i WhatsApp šalju se kao pozadinski zadatak WordPress-a. Ako se slanje ponovi, isto obaveštenje ne stiže dvaput. Ako slanje ne uspe, termin i kontakt ostaju sačuvani, jer greška u obaveštenju ništa ne poništava.
+
+Razlika u odnosu na ManyChat nije broj kanala. Razlika je u tome što Niwa javlja događaje sa vašeg sajta: termin iz WordPress-a, kontakt iz chata na sajtu, proizvod iz WooCommerce kataloga, kao i zahtev za čoveka iz DM-a.
+
+## Šta tačno stiže na telefon
+
+Nov kontakt stiže sa emailom, imenom, telefonom i vremenom. Važan detalj: obaveštenje ide samo kada je osoba sama ostavila podatke uz saglasnost, kroz chat, formu, zakazivanje ili listu čekanja. Za nekoga ko je samo pisao u DM-u ili samo kupio, obaveštenje o novom kontaktu ne stiže. Tako telefon ne zvoni za svako "cena?" u komentarima.
+
+Nov termin stiže sa uslugom i vremenom, a stiže i kada se postojeći termin pomeri na novo vreme. Kad je email za termine uključen, ide na administratorsku adresu WordPress-a i na email člana tima kome je termin dodeljen. Kako Niwa zakazuje termine iz Instagram poruka opisali smo u tekstu [zakazivanje termina iz Instagram DM-a](/blog/zakazivanje-termina-instagram-dm-wordpress-niwa-ai-manychat-2026).
+
+Lista čekanja javlja naziv proizvoda koji je kupac tražio i njegov email. Ceo tok je u tekstu [lista čekanja za rasprodat proizvod](/blog/lista-cekanja-rasprodat-proizvod-woocommerce-niwa-ai-manychat-2026).
+
+Kupac koji traži čoveka javlja se iz chata na sajtu, WhatsApp-a, Instagrama i Messenger-a. U poruci su njegova poslednja poruka i do deset redova razgovora pre nje, pa odgovor možete da napišete direktno u Telegramu ili WhatsApp-u i Niwa ga šalje kupcu. Da telefon ne bi pregoreo od jednog upornog posetioca, postoji gornja granica: šest obaveštenja po razgovoru i četrdeset po sajtu na sat. Detalje imate u tekstu [kupac traži čoveka u Instagram DM-u](/blog/kupac-trazi-coveka-instagram-dm-woocommerce-niwa-ai-manychat-2026).
+
+Jutarnji izveštaj se piše iz jučerašnjih podataka. Za prodavnicu u njih ulaze posete, novi kontakti, WooCommerce porudžbine u obradi, na čekanju i završene sa prihodom i brojem prodatih komada, plus tri pitanja kupaca iz chata. U izveštaj ide samo ono što je novo i bitno, u najviše dva kratka pasusa. Ako juče nije bilo ničeg vrednog pomena, izveštaj se ne šalje. Uključuje se na stranici Lični asistent, a tabela određuje kanal. Ako su uključena i Telegram i WhatsApp, izveštaj ide u chat u kom ste poslednji pisali, a kopiju možete da dobijete i emailom.
+
+## Zamka sa email adresom
+
+Email za nove kontakte i listu čekanja ide samo na adresu obaveštenja upisanu u podešavanjima. Ako je to polje prazno, email se ne šalje, ni administratoru WordPress-a. Email za termine ide na administratorsku adresu kao i ranije.
+
+Ako ste instalirali Niwu, uključili kontakte i nikad niste upisali adresu obaveštenja, kontakti se čuvaju, a vi ne dobijate nijedan email o njima. Proverite to polje pre nego što pustite reklame za vikend, pa kliknite test.
+
+## Predlog rasporeda za WooCommerce prodavnicu
+
+Ovo je naš predlog, nije podrazumevano podešavanje plugina:
+
+- Kupac traži čoveka: Telegram ili WhatsApp, bez emaila. Ovo je jedini događaj gde minuti zaista znače novac.
+- Nov termin: WhatsApp i email. WhatsApp da znate odmah, email da ostane trag.
+- Nov kontakt: email. Ako prodajete skupe stvari i svaki kontakt vredi poziv, dodajte i Telegram.
+- Lista čekanja: email. To nije hitno, to je spisak za dan kada roba stigne.
+- Jutarnji izveštaj: samo Telegram, uz email kopiju ako ga čita i partner.
+
+Jedno ograničenje treba znati. WhatsApp obaveštenja stižu na prva tri vaša broja. Ako tim ima više ljudi i svako treba da dobija samo svoje razgovore, Niwa to danas ne radi po osobi. Izuzetak je email za termin, koji stiže i članu tima kome je termin dodeljen.
+
+## Koliko vredi kad odgovorite na vreme
+
+Primer je ilustrativan, brojevi nisu mereni. Prodavnica mesečno dobije 30 zahteva za čoveka u porukama i chatu, a prosečna korpa je 6.500 dinara. Ako odgovor stigne dok je kupac još tu i kupe dva od pet kupaca, to je 12 porudžbina i 78.000 dinara. Ako odgovor stigne sutradan i kupi svaki peti, to je 6 porudžbina i 39.000 dinara. U ovom primeru razlika od 39.000 dinara mesečno dolazi samo od toga gde je stiglo obaveštenje i koliko brzo ste ga videli.
+
+Vaš procenat je drugačiji i treba ga izmeriti. Niwa u analitici broji razgovore predate čoveku po kanalu, a kako to čitati uz porudžbine objasnili smo u tekstu [analitika prodaje iz Instagram DM-a](/blog/analitika-instagram-dm-prodaje-woocommerce-niwa-ai-manychat-2026). O brzini odgovora u uslužnim delatnostima pisali smo u tekstu [brzina odgovora na upit](/blog/brzina-odgovora-na-upit-follow-up-prodaja-srbija-2026).
+
+## Kada je ManyChat bolji izbor
+
+Ako imate tim na podršci, prodajete uglavnom kroz Instagram i trebaju vam dodela razgovora i obaveštenja po osobi, ManyChat je zreliji. Obaveštenja gradite u toku razgovora tačno gde ih hoćete, a tim radi iz jedne mobilne aplikacije.
+
+Ako prodajete na WooCommerce-u i vlasnik je i prodavac i magacioner, Niwa je bolji izbor. Jedna tabela odlučuje šta zvoni, a šta čeka email. Obaveštenja dolaze i sa sajta, ne samo iz DM-a. Na zahtev za čoveka odgovarate iz Telegrama, a ujutru dobijete dva pasusa o jučerašnjim porudžbinama i pitanjima kupaca umesto još jednog dashboard-a.
+
+Kako Niwa radi sa katalogom i porudžbinama pogledajte na [stranici Niwa AI za WooCommerce](https://niwachat.com/woocommerce-ai-sales-agent/). Ako vikend akcija dovodi posete, a prodaje je malo, krenite od teksta [zašto web shop nema prodaju](/web-shop-nema-prodaju) i od [optimizacije konverzije](/cro). Šta radimo za online prodavnice imate na stranici [marketing za e-commerce](/industrije/e-commerce).
+
+Ako hoćete da pre sledeće akcije zajedno prođemo ko kod vas dobija koje obaveštenje, pošaljite nam kroz [kontakt formu](/kontakt) adresu prodavnice i koliko ljudi odgovara kupcima. Proći ćemo tabelu obaveštenja, adresu za email i test na svakom kanalu.
+`,
+  },
+  {
     slug: 'google-ads-partneri-za-pretragu-iskljuciti-ograniciti-budzet-upiti-srbija-2026',
     title: 'Partneri za pretragu u Google Ads: isključiti ili ograničiti budžet',
     excerpt: 'Partneri za pretragu su u Google Ads uključeni podrazumevano. Kako da proverite šta ti klikovi donose i kada je novi limit u procentima bolji od isključivanja.',

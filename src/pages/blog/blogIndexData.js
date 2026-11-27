@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "obavestenja-vlasniku-telegram-whatsapp-woocommerce-niwa-ai-manychat-2026",
+    "title": "Obaveštenja vlasniku na Telegramu i WhatsApp-u: Niwa AI vs ManyChat za WooCommerce",
+    "excerpt": "Kupac u DM-u traži čoveka, neko zakaže termin, stigne nov kontakt. Kako Niwa AI i ManyChat javljaju vlasniku WooCommerce prodavnice šta je hitno, a šta čeka.",
+    "date": "2026-11-27",
+    "category": "E-Commerce",
+    "readTime": "8 min read",
+    "isDraft": false
+  },
+  {
     "slug": "google-ads-partneri-za-pretragu-iskljuciti-ograniciti-budzet-upiti-srbija-2026",
     "title": "Partneri za pretragu u Google Ads: isključiti ili ograničiti budžet",
     "excerpt": "Partneri za pretragu su u Google Ads uključeni podrazumevano. Kako da proverite šta ti klikovi donose i kada je novi limit u procentima bolji od isključivanja.",
