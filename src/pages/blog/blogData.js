@@ -1,5 +1,129 @@
 const rawBlogPosts = [
   {
+    slug: 'google-ads-partneri-za-pretragu-iskljuciti-ograniciti-budzet-upiti-srbija-2026',
+    title: 'Partneri za pretragu u Google Ads: isključiti ili ograničiti budžet',
+    excerpt: 'Partneri za pretragu su u Google Ads uključeni podrazumevano. Kako da proverite šta ti klikovi donose i kada je novi limit u procentima bolji od isključivanja.',
+    date: '2026-11-27',
+    readTime: '8 min read',
+    category: 'Google Ads',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Google Ads', 'Partneri za pretragu', 'Search Partner Network', 'Budžet', 'Kvalitet upita', 'Lead generation'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+Kada napravite novu kampanju za pretragu u Google Ads-u, u podešavanjima mreža stoji uključena kućica "Uključi Google partnere za pretragu". Većina vlasnika je nikad ne otvori. Novac od tog trenutka ne ide samo na Google pretragu, nego i na sajtove koji nisu Googleovi.
+
+Od 15. oktobra 2026. Google uvodi treću opciju između "uključeno" i "isključeno". Partnere možete staviti na nizak prioritet i ograničiti ih na procenat dnevnog budžeta. Ovaj tekst je za firme koje preko Google Ads-a skupljaju upite: pozive, forme i WhatsApp poruke. Objašnjavam kako da proverite šta vam partneri stvarno donose, kada ih gasite, a kada ima smisla da ih testirate sa ograničenjem.
+
+## Šta su partneri za pretragu i gde se vaš oglas prikazuje
+
+Po Googleovoj [definiciji partnera za pretragu](https://support.google.com/google-ads/answer/2616017), to su stotine sajtova koji nisu Googleovi, plus YouTube. Plaćate samo klik, isto kao na Google pretrazi.
+
+U [Googleovom opisu mreže za pretragu](https://support.google.com/google-ads/answer/1722047) piše gde se oglas može pojaviti: u listi rezultata pretrage na tuđem sajtu, na stranicama imenika, na stranicama proizvoda, u rezultatima pretrage na YouTube-u i na stranama za gledanje videa. Partner sme da prilagodi izgled oglasa svom dizajnu. U istom tekstu stoje i dve rečenice koje vredi pročitati dva puta:
+
+- klikovi sa takvih sajtova "ne moraju uvek biti visoko ciljani saobraćaj";
+- CTR na partnerskim sajtovima ne utiče na vaš Quality Score na Google-u.
+
+Druga rečenica je dobra vest za nalog. Prva je razlog zašto ovaj tekst postoji.
+
+## Zašto forma laže baš na partnerima
+
+Google ima ozbiljan argument u korist partnera. Na stranici sa [najavama za mrežu partnera](https://support.google.com/google-ads/answer/16286960) piše da oglašivači kod kojih partneri nose bar 5% troška tipično dobijaju oko 11% više konverzija uz Target CPA ili Maximize Conversions, u kampanjama koje nisu ograničene budžetom.
+
+Taj broj meri ono što vi nazovete konverzijom. Ako je konverzija svaka poslata forma, 11% više formi ne znači 11% više kupaca. Kod uslužnih firmi baš tu nastaje problem. Forma ne zna da li ju je popunio vlasnik kuće kome treba fasada ili neko ko je kliknuo na oglas usred liste rezultata na sajtu koji nikad niste videli.
+
+Još jedan detalj iz Googleove pomoći menja sliku. Čak i ako vodite kampanju na ručnom CPC-u, za partnere ne licitirate vi. Po tekstu o [ručnom licitiranju na mreži partnera](https://support.google.com/google-ads/answer/9145501), kampanja sa dovoljno konverzija koristi vašu cenu konverzije na Google pretrazi kao cilj za partnere. Ako partneri šalju forme jeftinije, sistem podiže ponude da ih dobije još. Algoritam izjednačava cenu forme, ne cenu kupca.
+
+## Primer: niži CPL, skuplji upit
+
+Brojevi su izmišljeni, ali odnos između njih je čest. Kampanja za 90 dana:
+
+- Google pretraga: 300.000 din, 100 formi, CPL 3.000 din. Prodaja u CRM-u označi 40% upita kao kvalifikovane, to je 40 upita po 7.500 din.
+- Partneri za pretragu: 60.000 din, 40 formi, CPL 1.500 din. Kvalifikovano je 10%, to su 4 upita po 15.000 din.
+
+Partneri su dobili šestinu budžeta. U Google Ads-u kampanja izgleda bolje nego bez njih: zbirni CPL pada sa 3.000 na oko 2.571 din, što je 14% niže. U CRM-u je obrnuto: cena kvalifikovanog upita raste sa 7.500 na oko 8.182 din, 9% više. A algoritam vidi formu od 1.500 din i hoće još takvih. Zašto se CPL i cena kupca tako razilaze, objasnili smo u tekstu [CPL nije CAC](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026).
+
+Četiri kvalifikovana upita su mali uzorak i na njima ne treba donositi konačnu presudu. Ali kada je CPL na partnerima upola manji, a kvalifikovanih je četiri puta manje, nije u pitanju sreća. Kupujete drugačiji saobraćaj.
+
+## Kako da proverite svoj nalog za 15 minuta
+
+### Podela po mreži
+
+U tabeli kampanja izaberite segmentaciju po mreži, u engleskom interfejsu "Network (with search partners)", za poslednjih 90 dana. Dobićete posebne redove za Google pretragu i za partnere: trošak, klikove, konverzije i cenu konverzije.
+
+Taj broj još nije odgovor. Konverzija u Ads-u je forma ili klik na poziv. Morate znati koliko je od tih upita prodaja označila kao ozbiljne. Ako forma ne šalje GCLID u CRM i ne beleži izvor, posle mesec dana nećete moći da razdvojite upite. Kako se to podešava, objasnili smo u tekstu o [kvalifikovanim konverzijama u Google Ads-u](/blog/kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026).
+
+### Spisak sajtova
+
+Od avgusta 2025. Google za kampanje za pretragu prikazuje i [spisak partnerskih sajtova na kojima se oglas pojavio](https://support.google.com/google-ads/answer/17078188). Izveštaj je u Report editor-u, u meniju "When and where ads showed", pod "Content suitability". Prikazuje sajt i broj prikazivanja.
+
+Sajt se pojavi na spisku tek kada ima bar 5 prikazivanja, ili bar jedan klik, pregled videa ili konverziju. Cenu i konverzije po sajtu ovde nećete videti. Spisak služi da prepoznate gde ne želite da se pojavljujete, ne da izračunate isplativost.
+
+## Tri izbora i kada koji ima smisla
+
+### Isključite partnere
+
+Kućicu skinite u podešavanjima kampanje, pod "Mreže". To je pravi izbor kada važi bar jedno od ovoga:
+
+- u Ads se kao konverzija broji svaka forma, a prodaja ne vraća informaciju koji upit je bio ozbiljan;
+- dnevni budžet je mali i ne dostiže ni za Google pretragu;
+- kampanja tek kreće i još ne znate svoju cenu kvalifikovanog upita;
+- radite sa ograničenim kapacitetom, pa vam ne treba dodatni obim, nego bolji upiti.
+
+Za većinu lokalnih uslužnih firmi u Srbiji koje tek uvode merenje, ovo je početna postavka. Ništa ne gubite trajno: kućicu vraćate kada imate podatke.
+
+### Nizak prioritet i limit u procentima
+
+Ovo je nova opcija. Po Googleovom opisu [prioriteta kanala i raspodele budžeta](https://support.google.com/google-ads/answer/18385152), u kampanji za pretragu Google pretragu, partnere i Display mrežu možete staviti na visok ili nizak prioritet. Kanal na niskom prioritetu dobija novac tek kada se visoki kanali popune. Za njega možete zadati i dnevni limit u procentima.
+
+Pre nego što krenete, proverite pet pravila iz Googleove pomoći:
+
+- limit se računa od prosečnog dnevnog budžeta kampanje, ne od stvarnog troška;
+- važi "best effort", što znači da Google cilja limit, ali ga pojedinog dana može preći;
+- limit se resetuje svakog dana i neiskorišćen novac se ne prenosi;
+- ako kampanja sa Target CPA nije ograničena budžetom, sam prioritet uglavnom ništa ne menja, a limit u procentima i dalje važi;
+- kampanje sa ukupnim budžetom kampanje ne poštuju ova podešavanja (izuzetak je Demand Gen).
+
+Opcija se uključuje postepeno od 15. oktobra 2026, pa je možda još ne vidite u svakom nalogu. Postavlja se u podešavanjima naloga, na kartici "Channel prioritization", ili po kampanji. Iz MCC naloga ne može. Ako limit postavite na 0%, Google ne troši na taj kanal.
+
+Kako izgleda test. Kampanja ima prosečan dnevni budžet 6.000 din. Partneri idu na nizak prioritet sa limitom 10%, što je najviše oko 600 din dnevno, ili oko 18.000 din mesečno. Pre starta zapišite pravilo za gašenje. Recimo da vam kvalifikovan upit sme da košta najviše 9.000 din: ako partneri potroše tri takva iznosa, 27.000 din, i ne donesu nijedan kvalifikovan upit, gasite ih. Uz 600 din dnevno to je oko 45 dana. To je ozbiljan test. Mesec dana slučajnih klikova bez plana to nije.
+
+### Partneri bez limita
+
+Ostavite ih uključene samo kada CRM, a ne Ads, pokaže da je cena kvalifikovanog upita sa partnera unutar vašeg limita, na uzorku koji nije pet upita. To se dešava, posebno u nišama gde ljudi traže uslugu preko imenika i specijalizovanih portala. Ali to je zaključak iz podataka, ne podrazumevana postavka.
+
+## Isključivanje pojedinačnih sajtova
+
+Kada na spisku sajtova vidite nešto sumnjivo, ne morate da gasite celu mrežu. Od marta 2024. [isključenja sajtova na nivou naloga važe i za mrežu partnera](https://support.google.com/google-ads/answer/7331110). Važe za sve kampanje u nalogu koje se prikazuju na partnerima, uključujući Performance Max.
+
+Parkirani domeni, prazni sajtovi sa samo oglasima, prestali su da budu deo mreže partnera 10. februara 2026, prema istoj stranici sa najavama. Jedna kategorija sumnjivog saobraćaja je time otpala sama. Ostalo morate da pregledate vi.
+
+Spisak isključenih sajtova ne štiti formu. Ako u CRM stižu upiti sa izmišljenim imenima i brojevima, problem je i u formi. Šta Google filtrira sam, a šta morate da zaštitite vi, opisali smo u tekstu o [lažnim klikovima i lažnim upitima](/blog/lazni-klikovi-google-ads-konkurencija-nevazeci-klikovi-lazni-upiti-srbija-2026).
+
+## Februar 2027: proverite i Display mrežu u kampanjama za pretragu
+
+Isti Googleov tekst najavljuje promenu koja se tiče mnogih naloga. Od februara 2027. sve kampanje za pretragu sa uključenim Display Expansion-om automatski prelaze na prioritete kanala i raspodelu budžeta. Raspodela troška između Google pretrage, partnera i Display mreže može da se pomeri. Ko želi da zadrži staro ponašanje, Google predlaže da Display stavi na nizak prioritet sa limitom od 50%. Display se posle te promene više ne prikazuje u kampanjama za pretragu sa strategijom Target Impression Share.
+
+Za lead generation kampanje preporuka je jednostavnija: Display ne pripada kampanji za pretragu. Ako je kućica uključena jer je bila uključena pri kreiranju, sada je pravi trenutak da je skinete. Display, ako vam treba, ide u posebnu kampanju sa posebnim budžetom i merenjem.
+
+## Šta da uradite ove nedelje
+
+- Otvorite podešavanja mreža u svakoj kampanji za pretragu i zapišite gde su partneri i Display uključeni.
+- Izvucite segment po mreži za 90 dana i uporedite ga sa CRM statusima, ne samo sa konverzijama u Ads-u.
+- Pogledajte spisak partnerskih sajtova i isključite ono što ne biste pustili ni na sopstvenom sajtu.
+- Ako nemate povratnu informaciju iz prodaje, isključite partnere dok je ne uvedete.
+- Ako je imate i želite test, stavite partnere na nizak prioritet sa limitom 5 do 10% i unapred zapišite pravilo za gašenje.
+
+Partneri za pretragu su drugačiji saobraćaj sa drugačijom cenom upita. Nekim nalozima donose posao, drugima samo pune CRM formama. Do oktobra ste mogli samo da ga uključite ili isključite. Sada možete da mu odredite tačan iznos i da proverite da li ga zaslužuje.
+
+Ako želite da proverimo kako vaš nalog troši na partnere i Display i koliko vas zaista košta kvalifikovan upit, pogledajte [cene Google oglasa](/google-reklame-cena) i [cene digitalnog marketinga](/cene-digitalnog-marketinga).
+
+Granicu za cenu upita možete izračunati po tekstu o [maksimalnoj ceni leada](/blog/maksimalna-cena-leada-srbija-2026), a ako vam se čini da je dnevni budžet problem, pročitajte i tekst o [dnevnom budžetu za lead generation](/blog/dnevni-budzet-google-ads-lead-generation-srbija-2026). Kada budete spremni, [pošaljite nam upit](/kontakt) sa nazivom delatnosti i mesečnim budžetom. Na prvom razgovoru prolazimo kroz podelu troška po mrežama.
+`,
+  },
+  {
     slug: 'lista-cekanja-rasprodat-proizvod-woocommerce-niwa-ai-manychat-2026',
     title: 'Lista čekanja za rasprodat proizvod: Niwa AI vs ManyChat za WooCommerce',
     excerpt: 'Kupac traži rasprodat proizvod i piše "javite mi kad stigne". Gde Niwa AI i ManyChat čuvaju tu tražnju i zašto obaveštenje ne može da ide u DM.',
