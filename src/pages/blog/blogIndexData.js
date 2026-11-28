@@ -3,6 +3,15 @@
 
 export const blogIndexPosts = [
   {
+    "slug": "prihvatanje-ponude-mejlom-e-potpis-ugovor-avans-prodajni-proces-srbija-2026",
+    "title": "Prihvatanje ponude mejlom i e-potpis: od usmenog da do ugovora i avansa",
+    "excerpt": "Kupac kaže da na telefonu, a ugovor i avans kasne ili ne stignu. Kada je mejl dovoljan kao prihvatanje ponude, šta važi za e-potpis i šta traži novi Zakon o zaštiti potrošača.",
+    "date": "2026-11-28",
+    "category": "Marketing",
+    "readTime": "10 min read",
+    "isDraft": false
+  },
+  {
     "slug": "obavestenja-vlasniku-telegram-whatsapp-woocommerce-niwa-ai-manychat-2026",
     "title": "Obaveštenja vlasniku na Telegramu i WhatsApp-u: Niwa AI vs ManyChat za WooCommerce",
     "excerpt": "Kupac u DM-u traži čoveka, neko zakaže termin, stigne nov kontakt. Kako Niwa AI i ManyChat javljaju vlasniku WooCommerce prodavnice šta je hitno, a šta čeka.",

@@ -1,5 +1,156 @@
 const rawBlogPosts = [
   {
+    slug: 'prihvatanje-ponude-mejlom-e-potpis-ugovor-avans-prodajni-proces-srbija-2026',
+    title: 'Prihvatanje ponude mejlom i e-potpis: od usmenog da do ugovora i avansa',
+    excerpt: 'Kupac kaže da na telefonu, a ugovor i avans kasne ili ne stignu. Kada je mejl dovoljan kao prihvatanje ponude, šta važi za e-potpis i šta traži novi Zakon o zaštiti potrošača.',
+    date: '2026-11-28',
+    readTime: '10 min read',
+    category: 'Marketing',
+    author: 'Aleksandar Nenadović',
+    role: 'Founder',
+    authorImage: 'aleksandar-nenadovic.jpg',
+    tags: ['Prodajni proces', 'Ponuda', 'Ugovor', 'E-potpis', 'Zakon o zaštiti potrošača', 'CRM'],
+    image: '/hero-mktg-dark.jpg',
+    ogImage: 'https://platinumzenith.com/og-image.png',
+    content: `
+Ponedeljak, 11 sati. Firma koja radi adaptacije kupatila šalje ponudu od 380.000 dinara posle merenja kod kupca. U četvrtak kupac zove i kaže: "Može, krećemo." Prodavac u CRM-u prebaci posao u dobijene, a Google Ads dobije konverziju "prihvaćena ponuda". Ugovor ide mejlom kao PDF, uz molbu da se odštampa, potpiše, skenira i vrati, pa da se uplati avans.
+
+Prođu dve nedelje. Kupac se ne javlja, a onda stigne poruka: "Supruga kaže da sačekamo proleće."
+
+Primer je izmišljen, ali obrazac je čest u uslužnim firmama koje prodaju skuplje poslove. Na telefonu je kupac odlučio. Između te odluke i prve uplate stoji pet koraka, a svaki je nova prilika da se predomisli, da ga neko odgovori ili da mu se javi konkurent sa ponudom koja je jeftinija za 30.000 dinara.
+
+Ovaj tekst je o tom delu prodaje. Šta po zakonu u Srbiji uopšte znači da je ponuda prihvaćena, kada je mejl dovoljan, kada vam treba potpis i šta se promenilo za kupce fizička lica od avgusta 2026. Na kraju je postupak kojim se taj korak skraćuje na jedan dan i način da ga merite.
+
+## Gde poslovi umiru posle reči "da"
+
+Usmeno "da" znači da je kupac danas spreman. Ne znači da će biti spreman i u utorak, kad sedne za štampač kog nema, pa ode u kopirnicu, pa traži skener.
+
+Pogledajte šta tipičan proces traži od kupca posle odluke:
+
+- da otvori PDF od 12 strana i pročita ga;
+- da ga odštampa, potpiše i skenira;
+- da pošalje nazad, često sa pitanjem o nekoj tački ugovora koje niko ne očekuje;
+- da nađe broj računa i uplati avans;
+- da sačeka da mu neko javi termin početka.
+
+Svaki od tih koraka je posao za kupca, a posao se odlaže. U tom razmaku kupac priča sa ukućanima, vidi oglas konkurenta, čuje od komšije cenu koja nije uporediva ali zvuči manje. Firma za to vreme vodi posao kao dobijen, pa niko ne zove.
+
+Druga strana iste greške je merenje. Ako u CRM-u i u Google Ads-u "dobijeno" znači "kupac je rekao da", vi brojite odluke koje se još nisu desile. Kampanja izgleda bolje nego što jeste, a stvarna cena kupca ostaje sakrivena. O tome koliko to menja računicu pisali smo u tekstu [CPL nije CAC](/blog/cpl-nije-cac-cena-akvizicije-kupca-srbija-2026).
+
+## Šta zakon kaže o prihvatanju ponude
+
+Mnogi vlasnici misle da ugovor postoji tek kad postoji potpisan papir. Za većinu uslužnih poslova to nije tačno, i to je dobra vest za prodaju.
+
+Zakon o obligacionim odnosima kaže sledeće:
+
+- **Čl. 26:** ugovor je zaključen kad su se strane saglasile o bitnim sastojcima ugovora. Kod usluge su to u praksi obim posla i cena.
+- **Čl. 39:** ponuda je prihvaćena kad ponudilac primi izjavu da kupac prihvata. Prihvaćena je i kad kupac plati cenu ili učini drugu radnju koja se po ponudi može smatrati prihvatanjem. Uplata avansa po ponudi je, dakle, prihvatanje.
+- **Čl. 41:** ako kupac kaže da prihvata, ali traži izmenu ili dopunu, smatra se da je ponudu odbio i da je sam dao novu ponudu. "Može, ali bez odnošenja šuta" je kontraponuda, a ne prihvaćen posao.
+- **Čl. 42:** ćutanje ne znači prihvatanje. Rečenica "ako se ne javite do petka, smatramo da je ponuda prihvaćena" nema pravno dejstvo.
+- **Čl. 67:** zaključenje ugovora ne podleže nikakvoj formi, osim ako zakon drugačije određuje.
+- **Čl. 72 st. 4:** kad je pismena forma potrebna, ispunjena je i razmenom pisama ili drugim sredstvom koje omogućava da se sa izvesnošću utvrde sadržina i ko je dao izjavu.
+
+Iz toga sledi praktično pravilo. Jasan mejl u kom kupac kaže da prihvata ponudu sa tačno navedenim brojem, iznosom i rokom za uobičajenu uslugu jeste prihvatanje. Ponuda koja sadrži obim, cenu, rok i uslove plaćanja tim odgovorom postaje ugovor.
+
+Postoje izuzeci koje morate znati. Zakon traži pismenu formu za ugovor o građenju (čl. 630 st. 2), a to pokriva i radove na postojećem objektu. Prodaja robe fizičkim licima na rate ima svoja obavezna pravila, koja smo prošli u tekstu o [plaćanju na rate](/blog/placanje-na-rate-usluge-popust-marza-prodajni-proces-srbija-2026). Ako radite građevinske radove, ugovor neka pregleda pravnik. Ovaj tekst opisuje prodajni proces i ne zamenjuje pravni savet.
+
+Tekst Zakona o obligacionim odnosima je na [Paragrafu](https://www.paragraf.rs/propisi/zakon_o_obligacionim_odnosima.html).
+
+## Mejl, e-potpis ili papir
+
+Zakon o elektronskom dokumentu, elektronskoj identifikaciji i uslugama od poverenja u elektronskom poslovanju daje dve odredbe koje rešavaju većinu dilema:
+
+- **Čl. 7:** elektronskom dokumentu ne može se osporiti punovažnost, dokazna snaga ni pisana forma samo zato što je u elektronskom obliku.
+- **Čl. 50:** elektronskom potpisu ne može se osporiti punovažnost ili dokazna snaga samo zato što nije kvalifikovan. Kvalifikovani elektronski potpis ima isto pravno dejstvo kao svojeručni. Ugovori za koje poseban zakon traži overu potpisa ili javnobeležničku formu ne mogu se zaključiti ovako.
+
+Tekst zakona je takođe na [Paragrafu](https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html).
+
+U praksi imate tri nivoa, i za svaki posao birate najniži koji vas štiti.
+
+### Mejl sa izjavom o prihvatanju
+
+Dovoljan za većinu usluga do srednje vrednosti, i B2B i B2C. Uslov je da izjava bude konkretna: broj ponude, datum, iznos, rok. "Ok, šaljite" na mejl sa tri verzije ponude u prilogu je dokaz da je neko nešto prihvatio, ali ne i šta.
+
+### Potpis kroz servis za elektronsko potpisivanje
+
+Kupac otvori link, pročita, klikne i upiše ime. Servis čuva vreme, adresu i verziju dokumenta. To je elektronski potpis koji nije kvalifikovan, a čl. 50 kaže da mu se zbog toga ne može osporiti punovažnost. Za kupca je to minut posla, bez štampača i skenera.
+
+### Kvalifikovani elektronski potpis ili papir
+
+Kvalifikovani potpis ima smisla za veće B2B ugovore kada obe strane već imaju sertifikat i rade s njim. Tražiti ga od domaćinstva koje renovira kupatilo znači dodati korak zbog kog posao kasni. Papir ostavite za slučajeve kad ga zakon traži ili kad kupac insistira.
+
+## Kupac fizičko lice ima 14 dana, i to je u redu
+
+Od 2. avgusta 2026. primenjuje se novi Zakon o zaštiti potrošača ("Sl. glasnik RS", br. 35/2026). Datum početka primene potvrđuje i [Paragrafova vest](https://www.paragraf.rs/dnevne-vesti/080626/080626-vest1.html), a tekst zakona je [ovde](https://www.paragraf.rs/propisi/zakon_o_zastiti_potrosaca.html). Za prodaju usluga građanima bitno je sledeće:
+
+- **Čl. 29:** potrošač može da odustane od ugovora zaključenog na daljinu ili izvan poslovnih prostorija u roku od 14 dana, bez navođenja razloga.
+- **Čl. 30:** kod usluga rok teče od dana zaključenja ugovora. Ako trgovac nije dao propisano obaveštenje o pravu na odustanak, potrošač može da odustane još 12 meseci posle isteka roka.
+- **Čl. 2 tačka 10:** kao ugovor zaključen izvan poslovnih prostorija računa se i ugovor zaključen na daljinu, ako su pregovori o njemu vođeni van vaših prostorija uz fizičko prisustvo vas i kupca.
+
+Treća tačka pogađa tačno onaj scenario sa početka. Izašli ste na teren, izmerili, razgovarali sa kupcem u njegovom stanu, a ponudu poslali i prihvatili mejlom. To je po definiciji iz zakona ugovor izvan poslovnih prostorija, i kupac ima 14 dana. Ako vam je izlazak na teren deo prodaje, pogledajte i tekst o [besplatnom izlasku na teren](/blog/besplatan-izlazak-na-teren-procena-merenje-prodajni-proces-srbija-2026).
+
+Šta ako kupac želi da krenete odmah? Zakon to predviđa (čl. 31 st. 4 i čl. 32 st. 8). Trgovac traži od potrošača izričit zahtev, na trajnom nosaču podataka, da usluga počne u roku za odustanak, uz saglasnost da gubi pravo na odustanak kad usluga bude u potpunosti izvršena. Mejl se po čl. 2 tačka 44 računa kao trajni nosač podataka. Ako kupac posle toga ipak odustane, plaća deo srazmeran onome što je urađeno (čl. 36). Ako takvog zahteva nema ili kupac nije dobio obaveštenje, ne duguje ništa za uslugu pruženu u roku za odustanak.
+
+Izuzetak je hitna popravka: kad potrošač izričito traži da dođete radi hitne popravke ili održavanja, prava na odustanak nema, osim za dodatne usluge i robu koje nije tražio (čl. 38 tačka 8). Roba proizvedena po posebnim zahtevima kupca takođe je izuzeta (čl. 38 tačka 3), ali gde se kod vas završava roba po meri a počinje usluga montaže, neka proceni pravnik.
+
+Ovo zvuči kao prepreka, a zapravo pomaže prodaji. Mejl o prihvatanju koji već sadrži obrazac za odustanak, obaveštenje i izričit zahtev za početak radova je čist trag za obe strane. Kupac vidi da firma zna pravila, a vi znate tačno od kog dana teče rok i šta vam pripada ako se predomisli.
+
+## Kako da korak od "da" do avansa traje jedan dan
+
+Cilj je jednostavan: kupac posle odluke radi što manje, a sve što radi, radi dok je odluka sveža.
+
+### Na samom razgovoru
+
+Kad kupac kaže "može", ponovite naglas bitne sastojke: šta tačno radite, cenu, rok početka i iznos avansa. Zatim recite šta sledi: "Za deset minuta vam stiže mejl. Odgovorite sa Prihvatam i termin je vaš čim stigne avans." Kupac sada zna da posle razgovora ima samo jedan korak.
+
+### Mejl u roku od 15 minuta
+
+- U naslovu broj ponude i ime kupca.
+- U telu, ne u prilogu: obim, cena, rok, avans, broj računa i poziv na broj.
+- Jedna rečenica koju kupac treba da vrati: "Prihvatam ponudu br. 214 od 26.11.2026."
+- Za fizička lica: obaveštenje o pravu na odustanak, obrazac i tekst izričitog zahteva da radovi počnu pre isteka 14 dana.
+- Ponuda i ugovor kao jedan dokument. Ako ponuda sadrži bitne sastojke, prihvatanjem postaje ugovor, pa nema drugog kruga sa novim PDF-om od 12 strana.
+
+### Termin tek uz avans
+
+Rezervišite termin početka u trenutku kada avans stigne, ne kada kupac kaže "da". To je pošteno prema ostalim kupcima i daje razlog da se uplata ne odlaže. Kako da odredite visinu avansa i rok naplate prema novčanom toku, objašnjeno je u tekstu o [avansu i roku naplate](/blog/avans-rok-naplate-marketing-budzet-lead-generation-srbija-2026).
+
+### "Da, ali" je nova ponuda
+
+Kad kupac prihvati uz izmenu, po čl. 41 to je nova ponuda. Ne vodite posao kao dobijen. Pošaljite ažuriranu ponudu istog dana, sa novim brojem. Ako izmena znači popust, prvo pročitajte šta popust radi marži u tekstu o [pregovorima o ceni](/blog/pregovori-o-ceni-posle-ponude-popust-marza-srbija-2026).
+
+### Tišina posle 48 sati
+
+Ako odgovora nema dva dana, telefon, ne treći mejl. Pitanje je jedno: "Da li vam je nešto u ponudi nejasno, ili je nešto drugo iskrslo?" Ako se odluka pomera, dogovorite novi datum i upišite ga. Ponuda bez roka ostaje otvorena zauvek, o čemu govori tekst o [roku važenja ponude](/blog/rok-vazenja-ponude-leadovi-prodaja-srbija-2026).
+
+## CRM statusi i šta šaljete u Google Ads
+
+Usmeno "da" dobija svoj status. Predlog za uslužnu firmu:
+
+- **Usmeno prihvaćeno:** kupac je rekao da, mejl je poslat. Posao nije dobijen.
+- **Prihvaćeno pisano:** stigao je odgovor sa izjavom ili potpis kroz servis.
+- **Avans uplaćen:** tek ovo je dobijen posao.
+- **Pao posle da:** kupac je odustao između usmenog prihvatanja i avansa. Uz status ide razlog.
+
+Iz tih statusa dobijate dve brojke koje mnoge firme nemaju. Prva je koliko dana prođe od usmenog "da" do avansa. Druga je procenat usmenih "da" koji nikada ne postanu uplata.
+
+Evo računice na izmišljenim brojkama. Firma ima 20 usmenih prihvatanja mesečno, prosečan posao je 380.000 dinara, bruto marža 35%, a mesečni marketing budžet 300.000 dinara.
+
+- **Ako 30% padne posle "da":** 14 poslova, 1.862.000 dinara bruto profita, cena kupca oko 21.400 dinara.
+- **Ako padne 15%:** 17 poslova, 2.261.000 dinara bruto profita, cena kupca oko 17.600 dinara.
+
+Razlika je tri posla i 399.000 dinara bruto profita mesečno, bez jednog dinara više za oglase. Takvo poboljšanje ne dolazi iz kampanje. Dolazi iz koraka koji traje jedan dan umesto dve nedelje.
+
+Za Google Ads važi isto pravilo. Kao glavnu konverziju sa vrednošću uvozite "Avans uplaćen", ne "Usmeno prihvaćeno". Kad algoritam uči na uplaćenim poslovima, traži ljude koji plaćaju, a ne ljude koji lako kažu "da" na telefonu. Kako se postavlja uvoz statusa iz CRM-a, opisali smo u tekstu o [kvalifikovanim konverzijama](/blog/kvalifikovane-konverzije-google-ads-lead-generation-srbija-2026). Ako poslovi otpadaju i posle avansa, pogledajte tekst o [otkazanim poslovima](/blog/otkazani-poslovi-marketing-roi-lead-generation-srbija-2026).
+
+## Odakle da krenete ove nedelje
+
+Uzmite poslednjih 20 poslova koje je prodaja prijavila kao dobijene i za svaki upišite dva datuma: dan kad je kupac rekao "da" i dan kad je stigao avans. Ako je razmak u proseku duži od pet radnih dana, ili je između ta dva datuma otpao više od jednog posla od sedam, kampanje vam nisu prvi problem.
+
+Koliko košta dovođenje upita možete da proverite na stranama [cena Google reklama](/google-reklame-cena) i [cene digitalnog marketinga](/cene-digitalnog-marketinga). Ako vam kampanje donose ponude koje kupci prihvate na telefonu, a avansi kasne ili ne stižu, [pišite nam](/kontakt). Proći ćemo put od prvog klika do uplate i pokazati gde posao ispada.
+`,
+  },
+  {
     slug: 'obavestenja-vlasniku-telegram-whatsapp-woocommerce-niwa-ai-manychat-2026',
     title: 'Obaveštenja vlasniku na Telegramu i WhatsApp-u: Niwa AI vs ManyChat za WooCommerce',
     excerpt: 'Kupac u DM-u traži čoveka, neko zakaže termin, stigne nov kontakt. Kako Niwa AI i ManyChat javljaju vlasniku WooCommerce prodavnice šta je hitno, a šta čeka.',
